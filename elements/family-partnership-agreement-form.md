@@ -46,7 +46,8 @@ The Family Partnership Agreement is a form used in Head Start programs nationall
 - [Goal attainment was low, and child development goals were accomplished at a higher rate than adult centered goals](../claims/low-goal-attainment-child-goals-higher-rate.md) [+W]
 
 ## Related Elements
-- 
+
+- [Head Start program](head-start-program-element.md)
 
 ## Examples
 

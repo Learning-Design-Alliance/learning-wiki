@@ -30,7 +30,7 @@ sources:
 # Worked Examples
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (5 for, 3 mixed, 3 unmarked) · 8 studies (6 causal, 1 review, 1 theoretical), `q2`–`q3` · 1 of 8 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (6 for, 3 mixed, 3 unmarked) · 9 studies (7 causal, 1 review, 1 theoretical), `q2`–`q3` · 1 of 9 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -71,6 +71,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Lower Prior Knowledge Learners Score Higher With Full Than Completion Worked Examples](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [~M]
 - [Prior Knowledge By Worked Example Type Interaction On Germane Load](../claims/prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) [+M]
 - [Prior Knowledge Worked Example Task Difficulty Three Way Interaction On Algebra Posttest](../claims/prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) [~M]
+- [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](../claims/worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) [+W] — attached 2026-10-07 from Shen et al. (2006), which proposed "Add instructional strategies such as worked examples to commercial off-the-shelf games used for training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

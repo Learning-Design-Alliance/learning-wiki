@@ -54,10 +54,12 @@ Imagery-based encoding improves recall and comprehension because information sto
 - 
 
 ## Related Elements
+
 - [Analogies](analogies.md) — a verbal counterpart to imagery; both map new content onto a familiar structure
 - [Advance Organizers](advance-organizers.md) — often visual-skeletal structures that imagery then fleshes out
 - [Annotating](../principles/annotating.md) — sketching and diagramming externalize mental images and stabilize them for review
 - [Act It Out](act-it-out.md) — enactive rather than imaginal embodiment of the same encoding principle
+- [Visual Imagery four-step spelling strategy used as the comparison intervention in the 1990 RCT](visual-imagery-four-step-spelling-strategy.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — includes "visualizing" as one of the comprehension strategies students are explicitly taught to apply while reading

@@ -167,6 +167,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 
 - [PeerWise online tool for student-authored multiple-choice question repositories](../elements/peerwise-online-mcq-authoring-tool.md)
 - [Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat](../strategies/student-co-facilitation-via-shared-chat-typing.md)
+- [CWPT Learning Management System (CWPT–LMS) software support](../elements/cwpt-learning-management-system.md)
 
 ### Illustrative
 

@@ -68,8 +68,10 @@ Explicit, systematic teaching of ending rules outperforms incidental exposure be
 5. **Distribute review.** Revisit previously taught endings in short spaced sessions rather than massed blocks [Spaced practice improves retention of spelling patterns.](../claims/spaced-repetition-improves-retention.md) [+M].
 
 ## Related Strategies
+
 - [Phonics instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) — inflectional endings extend phonics into the morphological layer; both depend on systematic, explicit sequencing
 - [Word sorting](../claims/comparing-contrasting-cases-improves-learning.md) — the primary practice format for contrasting ending patterns
+- [Use a morphograph-based rule-teaching routine: introduce the rule, apply it in whole-group instruction, then assign independent worksheet practice](morphograph-rule-apply-practice-routine.md)
 
 ## Examples
 - A third-grade teacher decomposes words on the board (*hoping = hope + ing*), then guides students to combine base words and endings (*commit + ed = committed*) to illustrate the doubling rule, before students hunt for examples in their own reading.

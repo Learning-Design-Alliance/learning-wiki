@@ -48,6 +48,8 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 
 ## Examples
 
+- [Red Light, Purple Light: a preschool music-and-movement games program for self-regulation](../elements/red-light-purple-light-program-element.md)
+
 ## Key Sources
 - Fay-Stammbach, T., Hawes, D. J., & Meredith, P. (2014). Parenting influences on executive function in early childhood: A review. *Child Development Perspectives, 8*(4), 258-264.
 - Bibok, M. B., Carpendale, J. I. M., & Müller, U. (2009). Parental scaffolding and the development of executive function. *New Directions for Child and Adolescent Development, 2009*(123), 17-34.

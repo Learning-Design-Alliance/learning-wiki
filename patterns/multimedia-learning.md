@@ -19,7 +19,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (6 for, 4 mixed) · 13 studies (8 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 5 of 13 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (10 for, 4 mixed) · 14 studies (8 causal, 3 quant-synthesis, 3 review), `q2`–`q4` · 5 of 14 report an effect size · 10 claims rest on one study
 
 ## Description and scope
 
@@ -71,6 +71,10 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Multiple representations improve learning](../claims/multiple-representations-improve-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Modality Effect Holds Middle School Electricity](../claims/modality-effect-holds-middle-school-electricity.md) [+M]
+- [Presenting words together with instructionally relevant pictures (multimedia principle) is associated with improved post-test learning outcomes, particularly when words are delivered orally](../claims/multimedia-principle-words-and-pictures-outcomes.md) [+W] — attached 2026-10-07 from Marjorie Ceballos (2022), which proposed "Educational leaders should set criteria ensuring digital multimedia materials for EBs align to SOL principles"; tests this page's relationship.
+- [Signaling in multimedia (labeled text with illustrations) is associated with increased learning outcomes and with learners studying the labeled content](../claims/signaling-principle-increased-learning-outcomes.md) [+M] — attached 2026-10-07 from Marjorie Ceballos (2022), which proposed "Educational leaders should set criteria ensuring digital multimedia materials for EBs align to SOL principles"; tests this page's relationship.
+- [A meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes](../claims/spatial-contiguity-meta-analysis-36-studies.md) [+W] — attached 2026-10-07 from Marjorie Ceballos (2022), which proposed "Educational leaders should set criteria ensuring digital multimedia materials for EBs align to SOL principles"; tests this page's relationship.
+- [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](../claims/temporal-contiguity-lower-cognitive-load.md) [+W] — attached 2026-10-07 from Marjorie Ceballos (2022), which proposed "Educational leaders should set criteria ensuring digital multimedia materials for EBs align to SOL principles"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

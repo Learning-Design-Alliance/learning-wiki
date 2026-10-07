@@ -79,3 +79,4 @@ The authors meta-analyzed 29 experimental and quasi-experimental studies of stud
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
 - [Writing Improves Mathematical Understanding](writing-improves-mathematical-understanding.md) — related
 - [Spontaneous sentence production under minimal planning increases writers' understanding but reduces initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — related
+- [Peer response groups increase the number of idea units in English learners' writing but show no significant effect on composition quality or sentences written (Prater & Bermudez, 1993)](peer-response-groups-writing-idea-units.md) — related

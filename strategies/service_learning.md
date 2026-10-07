@@ -61,9 +61,11 @@ Service learning works because it situates learning in authentic contexts where 
 6. **Close the loop.** Have learners present outcomes to the community partner and synthesize learning in a final artifact; assess both the product and the quality of reflection.
 
 ## Related Strategies
+
 - [Community-Based Learning](../principles/community-based-learning.md) — the broader umbrella; service learning is its most curricularized form
 - [Case-Based Learning](../patterns/case-based-learning.md) — an alternative route to authentic application that trades real stakes for controlled complexity
 - [Experiential Learning Cycle](../patterns/experiential-learning-cycle.md) — the Kolb-style cycle (experience → reflect → conceptualize → experiment) that service learning reflection should follow
+- [Pairing an ethics curriculum with integrated community service learning](ethics-curriculum-with-integrated-service-learning.md)
 
 ## Examples
 - **[EPICS – Purdue University](https://engineering.purdue.edu/EPICS)** — multi-semester engineering teams design and deliver real solutions for local nonprofits; academic credit tied to project milestones and reflection.

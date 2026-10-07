@@ -19,7 +19,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (3 for, 4 mixed) · 9 studies (4 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q3`–`q4` · 4 of 9 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 10 studies (4 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q3`–`q4` · 5 of 10 report an effect size · 7 claims rest on one study
 
 ## Description and scope
 
@@ -68,6 +68,10 @@ Do not rank these configurations by their effect labels: the comparators, learne
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-diagram prompts shows no significant effect on learning gains](../claims/no-learning-effect-for-four-explicit-srl-prompts.md) [~W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.
+- [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](../claims/review-notes-compliance-predicts-learning-gains.md) [+W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.
+- [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](../claims/revise-summary-compliance-predicts-learning-gains.md) [+W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.
+- [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains](../claims/suggest-subgoal-compliance-predicts-learning-gains.md) [+W] — attached 2026-10-07 from Lallé et al. (2017), which proposed "Two-category taxonomy of SRL prompts by how compliance can be evaluated: explicit vs inferred compliance prompts"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

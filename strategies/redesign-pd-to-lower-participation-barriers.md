@@ -37,7 +37,8 @@ When CPRE found that roughly 40% of teachers had not participated after three ye
 - Broadening access to and participation in curriculum-related professional development
 
 ## Related Strategies
-- 
+
+- [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
 
 ## Examples
 -

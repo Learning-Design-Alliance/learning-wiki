@@ -61,10 +61,12 @@ Mastery learning rests on the assumption that most learners can reach high stand
 6. Periodically review thresholds and item quality against actual downstream performance in later units.
 
 ## Related Strategies
+
 - [Competency-Based Assessment](../principles/competency-based-assessment.md) — the assessment philosophy that supplies valid mastery checks
 - [Spaced Retrieval](spaced-retrieval.md) — counters the risk that mastery is demonstrated once and then forgotten; schedule re-checks of previously mastered units
 - [Formative Feedback](formative-feedback.md) — corrective instruction depends on diagnosis, not just a score
 - [Self-Paced Learning](../elements/self-paced-learning.md) — the pacing model mastery progression typically requires
+- [Exit students from tutoring once they consistently read at the average level for their grade](exit-tutoring-at-grade-level-consistency.md)
 
 ## Patterns That Use This Strategy
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — mastery progression is the advancement mechanism

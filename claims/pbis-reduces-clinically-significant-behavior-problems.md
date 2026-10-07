@@ -47,3 +47,4 @@ Chi-square comparisons of students meeting the TRF t-score-at-or-above-63 criter
 - [PBIS implementation is associated with significant pre-to-post reductions in externalizing and total problem behaviors of students with ED in self-contained settings](pbis-reduces-externalizing-total-problems-ed-self-contained.md) — possibly the same claim (merge candidate)
 - [Teacher fidelity (TKSS total score) shows a statistically significant interaction effect on pre-to-post changes in student problem behavior (F = 10.43, p = .003)](tkss-fidelity-ancova-interaction-problem-behavior.md) — related
 - [PBIS is associated with significant reductions on the Thought Problems, Attention Problems, and Aggressive Behavior syndrome scores](pbis-reduces-syndrome-scores-ed-students.md) — related
+- [Early Risers shows no discernible effects on emotional/internal behavior for children at risk of emotional disturbance classification](early-risers-no-effect-internal-behavior.md) — related

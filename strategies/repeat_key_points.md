@@ -62,6 +62,7 @@ Repetition increases the probability that a key idea is encoded, consolidated, a
 - [Clear Structure](../principles/clear-structure.md) — a predictable lesson structure gives repetitions natural, recognizable slots
 - [Spaced practice scheduling](../claims/spaced-repetition-improves-retention.md) — the research basis for distributing repetitions over time
 - [Switch to written notes when verbal communication with a hearing-impaired patron breaks down](written-notes-communication-hearing-impaired-patrons.md)
+- [STeLLA® teaching strategies for explaining, identifying, and engaging science concepts](stella-teaching-strategies-three-emphases.md)
 
 ## Examples
 - During a science lesson, a teacher states the key idea, shows a diagram of it, works an example using it, and has students explain it to a partner — four varied exposures in one lesson. Resource: Speed of Processing micro-credential, Friday Institute at NC State.

@@ -34,7 +34,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 15 studies (6 causal, 2 quant-synthesis, 2 review, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 15 report an effect size · 4 claims rest on one study
+> **Evidence** · 11 claims (6 for, 5 mixed) · 16 studies (6 causal, 3 review, 2 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 16 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -72,6 +72,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](../claims/scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) [~M] — not yet checked against its sources
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — guidance becomes redundant as expertise grows, so fading is essential; not settled: the text available could not confirm the entries (abstract)
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — early support can reduce blind search for novices before independence develops; not settled: the text available could not confirm the entries (abstract)
+- [Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding](../claims/blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) [+W] — attached 2026-10-07 from Obikwelu et al. (2013), which proposed "Three fading-based scaffolding approaches: supportive, intrinsic and reflective scaffolding".
+- [Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)](../claims/challenge-support-imbalance-effects-novice-learners.md) [+W] — attached 2026-10-07 from Carder et al. (1996), which proposed "Four-quadrant progression from unready learner to independent library user with matching instructor behavior"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -17,7 +17,7 @@ sources:
 # Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The digest's central recommendation is that practitioners "must strive to guide all our change efforts with a systemic understanding of the context" in which they undertake them. Nevertheless, depending on the circumstance or as implementation progresses, it may be most effective to focus interventions on a particular component of the framework at a time. The sequence of models is explicitly not fixed.
@@ -37,7 +37,8 @@ The digest's central recommendation is that practitioners "must strive to guide 
 - planning, diagnosing, and sustaining educational change
 
 ### Claims
-- 
+
+- [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](../claims/tool-effectiveness-depends-on-context-configuration.md) [+W] — attached 2026-10-07 from Gilbert (1999), which proposed "Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign".
 
 ## Related Principles
 - 

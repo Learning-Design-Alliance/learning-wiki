@@ -124,6 +124,34 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-07 (later) — curated lists come before topic search; batches 14 and 15 from the Learning Agency hub
+
+- **Two curated lists come first** (maintainer): the Learning Agency's Renaissance AI and Education Resource Hub (3,927
+  published entries) and the AI in Education Knowledge Base (`edtechdev/aied`, 1,647 papers, CC0). Before this the wiki
+  had read 14 and 2 of them.
+- **`scripts/eval/source_lists.py`** measures coverage (manifest id, DOI or title; or a wiki page citing the DOI or URL)
+  and writes a priority queue to `eval/runs/queues/` (ignored). **The hub has no licence, so none of its data is
+  committed**: the list is read at run time. Queue order:
+  1. the hub's research domain, WWC, ESSA, Campbell, Mathematica, RELs and the two journals first;
+  2. learning-engineering practice;
+  3. policy;
+  4. AIED.
+- **robots.txt is checked up front.** It refuses 1,669 hub entries (WestEd, Learning Policy Institute, Education Trust,
+  TNTP, some Brookings). **`--eric-fallback`** finds 489 of them in ERIC with full text, by exact title, and queues the
+  ERIC copy. Hub queue: 2,584 entries. AIED: 1,477 (668 arXiv, 809 by DOI).
+- **`fetch_article` has a `web` source**:
+  - It follows a landing page to the work's own PDF. WWC intervention reports, RELs, JEDM, JLA, CREDO and UChicago
+    return full reports.
+  - ESSA, Mathematica and NWEA return their summary pages.
+  - Campbell's pages are JavaScript-rendered and fail.
+- **`run_scrape_batch.py --queue <files> --take N`** takes the next N unsettled entries before any `--pmc`/`--eric`
+  search. A queue entry that cannot be fetched goes to `eval/runs/queues/fetch-failed.ndjson`, so the next batch moves on.
+- **Batches 14 and 15** (100 hub entries, WWC first, all fetched): about 640 new pages each time. Mostly claims; the
+  WWC-reviewed programmes were written as `designs/` by the candidate settle step (18 and 16). About $1.90 a batch.
+  Generation was $0.20–0.33; evidence coding was most of the rest, because WWC reports are long.
+- **Design pages from candidates now resolve their related links across folders**: four links pointed at elements the
+  same article produced.
+
 ### 2026-10-07 — batches no longer write principle or pattern pages; a candidate ledger decides; batch 13
 
 - **Ingest writes each extracted principle or pattern to `eval/candidates/candidates.ndjson`, not as a page**

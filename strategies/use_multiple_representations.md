@@ -56,8 +56,10 @@ Multiple representations support learning when learners actively integrate them:
 5. Fade support: as fluency grows, remove linking prompts and eventually redundant representations
 
 ## Related Strategies
+
 - [Comparing Contrasting Cases](comparing-contrasting-cases.md) — varies representations *and* content to highlight deep structure
 - [Use Worked Examples](use_worked_examples.md) — worked examples often embed multiple representations (figure + symbolic solution) that learners must integrate
+- [STeLLA® teaching strategies for explaining, identifying, and engaging science concepts](stella-teaching-strategies-three-emphases.md)
 
 ## Examples
 - **[Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)** — ill-structured domains are taught by revisiting the same concepts from multiple thematic and representational perspectives

@@ -1,0 +1,49 @@
+---
+type: strategy
+id: brief-initial-training-extensive-coaching-facilitation
+title: Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation
+description: "The SFA® staff development model \"emphasizes a relatively brief initial training with extensive classroom follow-up, coaching, and group discussion.\" First-year schools receive a 3-day summer training plus 12 on-site..."
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-07
+sources:
+  - id: success-for-all-2017
+    resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/672"
+    title: "Success for All®. (2017). WWC Intervention Report: Beginning Reading. What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/672"
+    author: Success for All®
+---
+
+# Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The SFA® staff development model "emphasizes a relatively brief initial training with extensive classroom follow-up, coaching, and group discussion." First-year schools receive a 3-day summer training plus 12 on-site support days; developer-provided trainers visit and observe teachers monthly in the first year, examine data on children's progress, and give feedback on implementation quality. Each school has a facilitator, usually an experienced teacher, who structures in-service presentations so teachers can share problems and solutions, and principals and facilitators receive 5 days of initial leadership training.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Developer-provided trainers, an on-site school facilitator, and scheduled monthly classroom observation visits during the first implementation year
+#### Constraints
+- Trainer visits occur each month in the first year and less often thereafter; ongoing reinforcement relies on regular in-service training, an annual conference, and on-site support visits
+
+### Target Learners
+- teachers, principals, and facilitators implementing the SFA® program in elementary schools
+
+### Target Learning Goals
+- implementation quality of the reading program, classroom management, instructional pace, cooperative learning, and data-based progress monitoring
+
+## Related Strategies
+
+- [Design professional development that is intensive, on-site, peer-based, responsive, and grounded in teachers' real classroom experiences](tefa-pd-design-strategy.md)
+- [Support facilitator uptake of co-regulation through in-person training plus biweekly coaching calls and classroom site visits](training-plus-biweekly-coaching-and-site-visits-for-co-regulation.md)
+- [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
+
+## Examples
+-
+
+## Key Sources
+- Success for All®. (2017). WWC Intervention Report: Beginning Reading. What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/672

@@ -59,9 +59,11 @@ Visuals work by directing attention to essential content, making abstract or inv
 6. Assess understanding by having learners interpret, complete, or produce visuals, not just recognize them.
 
 ## Related Strategies
+
 - [Analogies](../principles/analogical-reasoning.md) — visual analogies map unfamiliar structures onto familiar ones
 - [Advance Organizers](../elements/advance-organizers.md) — visual frameworks presented before content
 - [Annotating](../principles/annotating.md) — marking up visuals directs attention to essential features
+- [STeLLA® teaching strategies for explaining, identifying, and engaging science concepts](stella-teaching-strategies-three-emphases.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — visuals that model a process step by step

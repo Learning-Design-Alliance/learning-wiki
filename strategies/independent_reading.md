@@ -62,9 +62,11 @@ Independent reading works as deliberate [practice](../elements/practice.md) for 
 6. Periodically assess growth through running records, conference notes, or volume tracking — [assessment](../elements/assessment.md) that informs recommendations rather than grading the reading itself.
 
 ## Related Strategies
+
 - Guided reading — the instructional counterpart; independent reading lets students apply what guided reading teaches
 - Reading workshop — the pattern that embeds independent reading within explicit instruction and conferring
 - Vocabulary instruction — wide independent reading reinforces explicitly taught vocabulary through repeated encounters
+- [Implement Accelerated Reader as a daily reading practice block with level-matched book selection and quiz-based teacher monitoring](accelerated-reader-implementation-strategy.md)
 
 ## Examples
 - **Reading workshop models** (e.g., Fountas & Pinnell classroom systems, Teachers College Reading and Writing Project) — mini-lesson followed by extended independent reading with one-on-one conferences.

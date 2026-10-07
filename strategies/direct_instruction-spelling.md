@@ -57,8 +57,10 @@ Explicit, systematic phonics-based spelling instruction produces stronger genera
 5. **Apply in writing:** Learners use the words in a sentence or short composition, since spelling knowledge transfers to writing only when practiced in production contexts
 
 ## Related Strategies
+
 - [Dictation and sentence writing](../strategies/dictation.md) — the production-side assessment that verifies generalization
 - [Morphology instruction](../strategies/morphological-analysis.md) — the natural extension for polysyllabic words in later grades
+- [Use a morphograph-based rule-teaching routine: introduce the rule, apply it in whole-group instruction, then assign independent worksheet practice](morphograph-rule-apply-practice-routine.md)
 
 ## Examples
 - **[Direct Instruction programs](https://www.nifdi.org)** — *Spelling Mastery* and *Morphographic Spelling* (SRA/McGraw-Hill) implement this strategy with fully scripted lessons, cumulative review, and morphographic strategies for irregular words.

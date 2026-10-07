@@ -59,9 +59,11 @@ Timed practice targets the shift from accurate to *fluent* performance: automati
 6. Review the chart weekly: if celeration is flat, change the instructional method, not just the goal; if the aim is met, fade timing and move to application.
 
 ## Related Strategies
+
 - [Spaced retrieval practice](../strategies/spaced-retrieval-practice.md) — distributes the timed trials over time for retention
 - [Mastery learning](../strategies/mastery-learning.md) — the progress data gates advancement to the next skill
 - [Self-monitoring checklists](../strategies/self-monitoring-checklists.md) — learner-managed version of the tracking component
+- [Use one-minute timed grade-level passages to monitor oral reading fluency progress](one-minute-timed-passage-fluency-monitoring.md)
 
 ## Examples
 - **[XtraMath](https://xtramath.org)** — daily few-minute timed math-fact fluency sessions with automatic progress graphs for teachers and families.

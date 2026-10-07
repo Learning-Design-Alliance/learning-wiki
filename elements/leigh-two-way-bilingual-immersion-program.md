@@ -46,7 +46,8 @@ A Title VII Grant-funded dual language program at Leigh Elementary School in Pho
 - [Question-answering practices required Spanish-speaking students to speak and comprehend English while English-speaking students only listened to Spanish](../claims/unequal-language-demands-question-answering.md) [+W]
 
 ## Related Elements
-- 
+
+- [Dual language programs: multi-year instruction in English and a partner language](dual-language-program-element.md)
 
 ## Examples
 -

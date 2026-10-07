@@ -60,9 +60,11 @@ Repeated reading exploits the fact that word recognition is the bottleneck for c
 5. Stop when the fluency criterion is met (typically 3–4 readings); move to a new passage the next session, spacing practice across days rather than massing it [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Echo Reading](../strategies/echo-reading.md) — teacher reads a sentence, learner echoes it; a lower-demand variant for earliest readers
 - [Choral Reading](../strategies/choral-reading.md) — group rereading that lowers the social cost of reading aloud
 - [Wide Reading](../strategies/wide-reading.md) — the necessary complement; fluency generalizes only through volume of varied text
+- [Pass-timing routine with four mastery criteria and repeated practice until criteria are met](read-naturally-pass-timing-criteria-routine.md)
 
 ## Examples
 - **[Read Naturally](https://www.readnaturally.com)** — audio-assisted repeated reading program: students hear a modeled reading, practice the passage repeatedly, and graph their own rate and accuracy against a goal.

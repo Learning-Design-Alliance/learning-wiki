@@ -43,6 +43,7 @@ The Type 2 instrument is a checklist-format assessment going beyond multiple cho
 ## Related Elements
 
 - [Type 1 model competency test: a largely traditional paper-and-pencil assessment with scoring guide and teacher notes](type1-traditional-competency-test.md)
+- [Objectives by Strand test: 78-item district-developed math achievement measure](objectives-by-strand-test.md)
 
 ## Examples
 -

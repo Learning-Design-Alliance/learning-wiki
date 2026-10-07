@@ -46,6 +46,7 @@ A riparian education curriculum for learners in grades 5-8 or youth group member
 ## Related Elements
 
 - [Zone Notebooks: learner journals for processing, assessment, and sharing](zone-notebooks-journals.md)
+- [GEMS® Space Science Sequence curriculum for grades 3–5](gems-space-science-sequence-curriculum.md)
 
 ## Examples
 

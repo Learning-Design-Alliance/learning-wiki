@@ -61,9 +61,11 @@ Peer tutoring works largely because explaining material to another person forces
 7. Debrief briefly: what explanations worked, where confusion remained ([Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a peer-tutoring structure applied specifically to reading comprehension strategies
 - [Cooperative Learning](cooperative-learning.md) — the broader family of structured peer interaction; tutoring is its most asymmetric form
 - [Cross-Age Tutoring](cross-age-tutoring.md) — the variant where tutors and tutees come from different grade levels
+- [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
 
 ## Examples
 - **Classwide Peer Tutoring** (Juniper Gardens Children's Project, University of Kansas) — weekly role switching, point systems, and teacher monitoring; extensively validated in elementary reading and math, including with students with disabilities.

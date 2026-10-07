@@ -42,7 +42,8 @@ A Conference Telephone Set, borrowed from the university telephone office for ea
 - [Students found one-hour telelectures too short and wanted more time for listening and questioning](../claims/one-hour-telelectures-too-short.md) [~W]
 
 ## Related Elements
-- 
+
+- [EIR® nine-month Internet-based teacher professional development program](eir-internet-teacher-training-program.md)
 
 ## Examples
 -

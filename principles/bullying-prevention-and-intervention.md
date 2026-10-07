@@ -12,7 +12,7 @@ generated:
 # Bullying Prevention and Intervention
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Bullying is defined by two features together, not either alone: a **power imbalance** between the parties (physical, social, or otherwise) and **repetition** over time — a single conflict between peers of roughly equal standing is not bullying in this technical sense, even if it is a serious behavior problem in its own right. Bullying takes several forms: verbal (name-calling, threats), social/relational (exclusion, rumor-spreading, damaging relationships), and physical.
@@ -48,6 +48,8 @@ Reporting rates are low: national survey data (2012 Indicators) find roughly 40%
 - [Social Learning Theory](../theories/social-learning-theory.md) [+M] — the reinforcer role operates through direct observational reinforcement of the behavior being modeled
 
 ## Claims
+
+- [Adolescents with ASD are described as frequent targets of cyberbullying because they may miss social cues and lack self-advocacy skills](../claims/asd-teens-cyberbullying-targets-missed-cues.md) [+W] — attached 2026-10-07 from Internet Safety for Teens with ASD. Autism at-a-Glance, which proposed "Support internet safety for teens with ASD through simple, frequent conversations and clear rules and limits on internet use".
 
 ## Related Principles
 - [Character Education](character-education.md) — schoolwide relationship-focused, non-punitive climate is a preventive foundation bullying-specific intervention builds on

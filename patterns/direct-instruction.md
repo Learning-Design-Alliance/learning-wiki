@@ -14,7 +14,7 @@ grain_size: lesson
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 20 studies (11 quant-synthesis, 4 review, 3 causal, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 20 report an effect size · 4 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 22 studies (11 quant-synthesis, 5 review, 4 causal, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 22 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -69,6 +69,10 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](../claims/explicit-teaching-complex-rules-only-advantage.md) [+S] — not yet checked against its sources
 - [Explicit teaching is more effective for EFL copular be learning but its effect is not durable](../claims/explicit-teaching-effective-but-not-durable.md) [~M] — not yet checked against its sources
 - [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](../claims/scaffolding-lower-adherence-than-scripted-components.md) [~M] — not yet checked against its sources
+- [Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of improved student achievement](../claims/itip-lacks-empirical-evidence-achievement.md) [~W] — attached 2026-10-07 from Hunter (1982), which proposed "Hunter's Effective Teaching Model".
+- [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](../claims/explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) [+W] — attached 2026-10-07 from Üstündağ-Algın (2025), which proposed "Include explicit reading comprehension strategy instruction in university preparatory program curricula"; tests this page's relationship.
+- [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](../claims/efl-students-positive-views-explicit-strategy-instruction.md) [+W] — attached 2026-10-07 from Üstündağ-Algın (2025), which proposed "Include explicit reading comprehension strategy instruction in university preparatory program curricula".
+- [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](../claims/teacher-modeling-internalizes-reading-strategies.md) [+W] — attached 2026-10-07 from Üstündağ-Algın (2025), which proposed "Include explicit reading comprehension strategy instruction in university preparatory program curricula".
 
 ## Illustrative design instance and observation record
 

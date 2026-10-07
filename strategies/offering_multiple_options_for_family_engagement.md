@@ -74,6 +74,7 @@ Family engagement functions like a motivational and access problem: participatio
 - [Family Engagement Supporting Children With Disabilities](family_engagement-supporting_children_with_disabilities.md)
 - [Open Communication and Trust](open_communication_and_trust.md)
 - [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
+- [Extend character education beyond the classroom with optional parental and community involvement components](optional-parent-community-involvement-components.md)
 
 ## Examples
 - **Epstein's Six Types of Involvement framework (Johns Hopkins NNPS, [National Network of Partnership Schools](https://nnps.jhucsos.com))** — organizes engagement into parenting, communicating, volunteering, learning at home, decision-making, and collaborating with the community; schools use it to build a written partnership plan with multiple option types.

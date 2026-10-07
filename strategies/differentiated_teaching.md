@@ -74,10 +74,12 @@ Differentiation works only when it is driven by evidence of what learners curren
 - Differentiated teaching ensures that all students can achieve mastery by addressing their individual learning needs and starting points.
 
 ## Related Strategies
+
 - [adaptive-learning](../principles/adaptive-learning.md) — technology-mediated differentiation at scale
 - [formative-assessment](../patterns/formative-assessment.md) — the diagnostic engine that makes differentiation evidence-based
 - [explicit-teaching](../patterns/direct-instruction.md) — often combined with differentiation: common explicit input, varied practice
 - [competency-based-learning](../patterns/competency-based-learning.md) — differentiation taken to its logical endpoint, with pacing tied entirely to demonstrated mastery
+- [Differentiate one shared article to each student's reading level rather than assigning varied texts](differentiate-single-article-to-reading-level.md)
 
 ## Examples
 - **Tiered problem sets in mathematics** — all students work on proportional reasoning; tiers vary number complexity and context familiarity, with regrouping after each [check-in](../elements/check-in.md).

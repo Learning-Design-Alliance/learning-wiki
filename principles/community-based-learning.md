@@ -18,7 +18,7 @@ sources:
 # Community-Based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (6 for, 4 mixed) · 13 studies (3 causal, 3 review, 2 associational, 2 qualitative, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 3 of 13 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 14 studies (3 causal, 3 review, 2 associational, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 3 of 14 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -71,6 +71,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Diversity Enhances All Civic Competence Outcomes](../claims/diversity-enhances-all-civic-competence-outcomes.md) [+M]
+- [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](../claims/planetary-health-course-three-key-lessons.md) [+W] — attached 2026-10-07 from Addison et al. (2025), which proposed "Prepare students with the skills and competencies to effectively and ethically complete societal-engagement investigations before meeting the challenge agent".
 
 ## Objective and learner-valued goal
 

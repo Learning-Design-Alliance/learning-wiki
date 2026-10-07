@@ -60,9 +60,11 @@ Fluency is not an end in itself but a gateway: when decoding becomes automatic, 
 6. Rotate to a new passage within a day or two; do not over-practice a single text.
 
 ## Related Strategies
+
 - [Choral Reading](choral-reading.md) — group version of supported oral reading that lowers risk for self-conscious readers
 - [Wide Reading](wide-reading.md) — the necessary complement; repeated reading builds automaticity on practiced text, wide reading builds it across texts
 - [Vocabulary Pre-Teaching](pre-teaching-vocabulary.md) — reduces decoding and meaning obstacles before rereading
+- [Pass-timing routine with four mastery criteria and repeated practice until criteria are met](read-naturally-pass-timing-criteria-routine.md)
 
 ## Examples
 - **National Reading Panel (2000)** — identified repeated reading with guidance as one of the few instructional approaches with consistent experimental support for fluency development.

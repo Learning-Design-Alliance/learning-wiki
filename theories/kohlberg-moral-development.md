@@ -51,11 +51,13 @@ Kohlberg's theory has drawn sustained criticism. **Carol Gilligan**, a former st
 ## Claims
 
 ## Related Theories
+
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — Kohlberg explicitly modeled his stage requirements (invariance, non-skippability) on Piaget's own constructivist stage theory
 - [Piaget's Theory of Moral Development](piaget-moral-development.md) — Kohlberg built directly on Piaget's own two-phase (heteronomous/autonomous) account of moral reasoning, elaborating it into three levels and six stages
 - [Gilligan's Ethic of Care](gilligans-ethic-of-care.md) — proposes a complementary care-based orientation alongside Kohlberg's justice-centered account
 - [Turiel's Social Domain Theory](turiels-social-domain-theory.md) — challenges the assumption that moral reasoning operates as a single, unified developmental ladder
 - [Self-Determination Theory](self-determination-theory.md) — classroom-management practices this theory motivates (favoring autonomy, belonging, competence, and fairness over extrinsic reward/punishment) parallel SDT's argument that extrinsic control can undermine intrinsic motivation
+- [Developmental rationale: caring school communities meeting needs for autonomy, belonging, and competence](caring-community-developmental-rationale.md)
 
 ## Examples
 <!-- Candidate future pages, not yet created: a principle on moral/developmental classroom climate, and a claim page on moral-stage-vs-behavior correlation (e.g., cheating). -->

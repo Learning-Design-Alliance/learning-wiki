@@ -26,7 +26,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 13 studies (5 quant-synthesis, 3 causal, 2 review, 2 theoretical, 1 associational), `q2`–`q4` · 5 of 13 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 14 studies (5 quant-synthesis, 3 causal, 3 review, 2 theoretical, 1 associational), `q2`–`q4` · 5 of 14 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 
@@ -66,6 +66,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [~M] — novice learners often need reflection focused on what to do next, not just whether they reached the endpoint; not settled: the text available could not confirm the entries (abstract)
 - [Peer Feedback Groups Added To Web Based Srl Training Raise Srl Self Efficacy And Math Focus Score](../claims/peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score.md) [+M]
 - [Srl Interventions Math Overall Score Marginal Focus Score Significant Online Prep Course](../claims/srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) [~M]
+- [SRSD had potentially positive effects on writing achievement for students with a specific learning disability, with 88% of single-case experiments showing positive effects](../claims/srsd-potentially-positive-writing-achievement-sld.md) [+W] — attached 2026-10-07 from Self-Regulated Strategy Development: WWC Intervention Report (2017), which proposed "Teach self-regulation skills alongside academic strategies so students can apply strategies without guidance".
 
 ## Objective and learner-valued goal
 

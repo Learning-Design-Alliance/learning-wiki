@@ -67,3 +67,4 @@ Null result from the Experiment 2 masked-priming lexical decision task with 63 C
 - [A supplementary analysis restricted to TC and control nonword primes shows the TC effect is marginally larger for Chinese than Japanese speakers](tc-effect-larger-for-chinese-supplementary.md) — related
 - [The TC effect grows with prime time: it is significantly larger at 300 ms than at 60 ms and 150 ms, and does not decrease with longer prime time](tc-effect-increases-with-prime-time.md) — related
 - [In Experiment 2, the native language × frequency interaction is significant, with both groups responding faster to high-frequency items](language-frequency-interaction-exp2.md) — related
+- [VIP effects did not differ between English language learners and fluent English speakers in the study authors' analyses](vip-no-treatment-language-status-interaction.md) — related

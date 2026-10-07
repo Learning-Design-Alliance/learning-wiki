@@ -60,9 +60,11 @@ Progress monitoring operationalizes [Assessment for Learning](../principles/asse
 6. After the change, continue monitoring to verify the intervention worked; fade probe frequency as growth stabilizes ([Fading](../elements/fading.md)) [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — the broader practice of eliciting and using evidence; progress monitoring is its longitudinal, quantified form
 - [Mastery Learning](../patterns/mastery-learning.md) — uses progress data as the gate for advancing to new material
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — progress monitoring supplies the evidence base for competency decisions
+- [Use one-minute timed grade-level passages to monitor oral reading fluency progress](one-minute-timed-passage-fluency-monitoring.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the measurement act itself

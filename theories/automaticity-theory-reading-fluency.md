@@ -40,7 +40,8 @@ Automaticity Theory (AT) is presented as a main theory in developing reading flu
 - [Automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+W]
 
 ## Related Theories
-- 
+
+- [Automaticity theory as the theoretical basis of repeated reading](automaticity-theory-repeated-reading-basis.md)
 
 ## Examples
 

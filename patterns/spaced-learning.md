@@ -13,7 +13,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 8 claims (7 for, 1 unmarked) · 10 studies (5 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 3 of 10 report an effect size · 4 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 unmarked) · 11 studies (5 causal, 4 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 6 claims rest on one study
 
 ## Description
 
@@ -62,6 +62,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Distributed Practice Improves Retention](../claims/distributed-practice-improves-retention.md) [+M] — partly checked: 1 of 2 entries pass; the rest could not be settled from the text available
 - [Spaced Retrieval Outperforms Restudy](../claims/spaced-retrieval-outperforms-restudy.md) [+M] — not yet checked against its sources
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+W] — checked by the judge: all 3 entries pass (full text)
+- [Under the Leitner Queue Network model, raising the rate of new-item introduction beyond a threshold causes a phase transition in learning rate, which a Mechanical Turk vocabulary experiment reproduced.](../claims/leitner-queue-network-phase-transition-in-learning-rate.md) [+W] — attached 2026-10-07 from Reddy et al. (2016), which proposed "Maximize Learning Rate When Calibrating Leitner Review Schedules"; tests this page's relationship.
+- [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W] — attached 2026-10-07 from Reddy et al. (2016), which proposed "Maximize Learning Rate When Calibrating Leitner Review Schedules".
 
 ## Elements
 
