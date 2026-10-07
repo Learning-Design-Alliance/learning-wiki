@@ -8,21 +8,21 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 4,175 |
-| Evidence entries | 5,100 |
-| Distinct studies | 1,425 |
-| Claims resting on one study | 3,961 (95%) |
+| Claims | 4,277 |
+| Evidence entries | 5,205 |
+| Distinct studies | 1,459 |
+| Claims resting on one study | 4,063 (95%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 468 of 1,425 (33%) |
+| Studies reporting an effect size | 497 of 1,459 (34%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 36 | 191 | 81 | 126 | 434 |
-| quant-synthesis | 9 | 59 | 28 | 114 | 210 |
+| causal | 37 | 204 | 84 | 138 | 463 |
+| quant-synthesis | 9 | 59 | 29 | 115 | 212 |
 | review | 20 | 67 | 28 | 44 | 159 |
-| associational | 0 | 61 | 86 | 15 | 162 |
+| associational | 0 | 63 | 87 | 15 | 165 |
 | qualitative | 38 | 77 | 11 | 8 | 134 |
 | design | 9 | 95 | 42 | 1 | 147 |
 | theoretical | 23 | 123 | 14 | 19 | 179 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 223 (16%) | 683 (48%) | 421 (30%) | 98 (7%) |
+| 224 (15%) | 703 (48%) | 433 (30%) | 99 (7%) |
 
-**Studies per claim:** 0: 0, 1: 3,961, 2: 160, 3: 48, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 4,063, 2: 160, 3: 48, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -134,14 +134,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 320 | 2 | 0 |
-| [elements](elements/index.md) | 924 | 674 | 1 | 0 |
+| [elements](elements/index.md) | 963 | 708 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 109 | 8 | 0 |
-| [strategies](strategies/index.md) | 3,298 | 2,336 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,328 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,004 | 810 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 158 | 116 | 1 | 0 |
+| [designs](designs/index.md) | 166 | 118 | 1 | 0 |
 
 ## Toward pooled estimates
 

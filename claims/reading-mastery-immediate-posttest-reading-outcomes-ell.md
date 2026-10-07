@@ -45,3 +45,4 @@ WWC calculations for the Gunn et al. (2000) randomized controlled trial ELL subs
 ## Related Claims
 - [One year after the intervention, Reading Mastery showed a statistically significant effect on word attack for English language learners, with positive but non-significant differences on other reading measures](reading-mastery-followup-word-attack-significant-ell.md) — related
 - [In the Vaughn, Cirino, et al. (2006) trial, no reading measure reached statistical significance, but five of seven effect sizes were substantively important](enhanced-proactive-reading-cirino-substantively-important-nonsignificant.md) — related
+- [Students in the Readable English intervention group showed significant improvements in reading fluency and comprehension compared to the control group](readable-english-significant-gains-over-control.md) — related

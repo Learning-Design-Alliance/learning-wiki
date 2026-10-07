@@ -59,8 +59,10 @@ Early, positive teacher–family contact increases parental engagement and, thro
 6. Log contacts and outcomes to identify families not yet reached, and adapt channel or timing for them.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — the same relational logic applied to students rather than families
 - [Building empathy](../principles/building-empathy.md) — early family contact gives teachers the contextual knowledge empathy requires
+- [Two-visit structure: relationship-building visit first, academic-focused visit later](pthv-two-visit-structure-strategy.md)
 
 ## Examples
 - **Kraft & Dougherty's personalized communication study** — high school teachers sent brief individualized calls/texts about specific students; treated students showed improved homework completion, class participation, and engagement relative to controls.

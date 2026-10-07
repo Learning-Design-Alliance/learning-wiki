@@ -45,3 +45,4 @@ Single quasi-experimental study with matched users and non-users (843 pairs) on 
 ## Related Claims
 - [In grades 4–5, students who used Magma Math scored significantly higher on spring i-Ready Mathematics than matched non-users (effect size +0.12)](magma-math-grades-4-5-significant-i-ready-gain.md) — a narrower finding that bears on this claim
 - [In grades 6–8, Magma Math users outscored matched non-users but the difference was not statistically significant (effect size +0.07)](magma-math-grades-6-8-nonsignificant-advantage.md) — a narrower finding that bears on this claim
+- [Classworks Individualized Learning users scored six points higher on spring math assessment than non-users](classworks-il-six-point-math-advantage.md) — related

@@ -49,6 +49,7 @@ The toolkit recommends at-home reading strategies to help families support liter
 - [Family Engagement](family_engagement.md)
 - [Parental Modeling of Reading](parental_modeling_of_reading.md)
 - [Run summer reading camps with the attributes of high-gain summer learning programs](summer-reading-camps-design-attributes.md)
+- [Train parents as one-on-one reading coaches through weekly family workshops](parent-reading-coach-family-workshops.md)
 
 ## Examples
 -

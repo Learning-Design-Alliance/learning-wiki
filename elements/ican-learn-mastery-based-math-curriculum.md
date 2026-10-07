@@ -46,7 +46,8 @@ I CAN Learn® is a full-curriculum mathematics software program developed by JRL
 - [Comparison classrooms in the qualifying study were district-matched traditional classrooms, but baseline equivalence required adjustment](../claims/kerstyn-matched-comparison-baseline-adjustment.md) [~W]
 
 ## Related Elements
-- 
+
+- [Imagine Math: adaptive digital supplemental mathematics program with on-demand live certified teacher support](imagine-math-adaptive-supplemental-math-program.md)
 
 ## Examples
 -

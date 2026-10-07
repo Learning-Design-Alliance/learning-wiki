@@ -48,6 +48,7 @@ LLI is a short-term, supplementary, small-group literacy intervention designed t
 ## Related Elements
 
 - [Reading Recovery one-on-one tutoring program for struggling first-grade readers](reading-recovery-tutoring-program.md)
+- [Leveled Literacy Intervention (LLI): daily 30-minute small-group tutoring for struggling K-2 readers](leveled-literacy-intervention-program.md)
 
 ## Examples
 -

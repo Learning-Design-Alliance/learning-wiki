@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 4158,
+  "claims->claims": 4261,
   "claims->designs": 13,
   "claims->elements": 108,
   "claims->learner-variables": 1,
@@ -9,15 +9,15 @@
   "claims->principles": 118,
   "claims->processes": 3,
   "claims->theories": 205,
-  "designs->claims": 116,
-  "designs->designs": 27,
-  "designs->elements": 38,
+  "designs->claims": 118,
+  "designs->designs": 28,
+  "designs->elements": 40,
   "designs->patterns": 22,
   "designs->principles": 10,
   "designs->theories": 21,
-  "elements->claims": 674,
+  "elements->claims": 708,
   "elements->designs": 2,
-  "elements->elements": 597,
+  "elements->elements": 628,
   "elements->learner-variables": 1,
   "elements->methods": 1,
   "elements->patterns": 248,
@@ -63,7 +63,7 @@
   "processes->theories": 10,
   "strategies->claims": 2336,
   "strategies->designs": 2,
-  "strategies->elements": 2407,
+  "strategies->elements": 2410,
   "strategies->methods": 14,
   "strategies->patterns": 815,
   "strategies->principles": 1735,
@@ -434,6 +434,67 @@
       "polarity": "+",
       "slug": "transformer-ieu-iiu-kt-framework",
       "strength": "M"
+     }
+    ]
+   },
+   "absence-reports-reduce-absences-philadelphia-rct": {
+    "claims": [
+     {
+      "slug": "absence-reports-replication-california"
+     },
+     {
+      "slug": "absence-reports-weighted-mean-strong-rating"
+     },
+     {
+      "slug": "powerschool-attendance-intervention-reduces-chronic-absenteeism"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "everyday-intervention-absence-reports",
+      "strength": "W"
+     }
+    ]
+   },
+   "absence-reports-replication-california": {
+    "claims": [
+     {
+      "slug": "absence-reports-reduce-absences-philadelphia-rct"
+     },
+     {
+      "slug": "absence-reports-weighted-mean-strong-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "everyday-intervention-absence-reports",
+      "strength": "W"
+     }
+    ]
+   },
+   "absence-reports-weighted-mean-strong-rating": {
+    "claims": [
+     {
+      "slug": "absence-reports-reduce-absences-philadelphia-rct"
+     },
+     {
+      "slug": "absence-reports-replication-california"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "minimal-staffing-absence-report-programs",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "everyday-intervention-absence-reports",
+      "strength": "W"
      }
     ]
    },
@@ -6442,6 +6503,57 @@
      {
       "polarity": "+",
       "slug": "taxonomy-of-process-education-self-growth",
+      "strength": "W"
+     }
+    ]
+   },
+   "amsti-math-problem-solving-effect-0-05": {
+    "claims": [
+     {
+      "slug": "amsti-promising-evidence-rating"
+     },
+     {
+      "slug": "amsti-teacher-survey-positive-perceptions"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "amsti-program-element",
+      "strength": "M"
+     }
+    ]
+   },
+   "amsti-promising-evidence-rating": {
+    "claims": [
+     {
+      "slug": "amsti-math-problem-solving-effect-0-05"
+     },
+     {
+      "slug": "amsti-teacher-survey-positive-perceptions"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "amsti-program-element",
+      "strength": "M"
+     }
+    ]
+   },
+   "amsti-teacher-survey-positive-perceptions": {
+    "claims": [
+     {
+      "slug": "amsti-math-problem-solving-effect-0-05"
+     },
+     {
+      "slug": "amsti-promising-evidence-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "amsti-program-element",
       "strength": "W"
      }
     ]
@@ -14110,6 +14222,9 @@
      },
      {
       "slug": "green-dot-attendance-year-four-only"
+     },
+     {
+      "slug": "powerschool-attendance-intervention-reduces-chronic-absenteeism"
      }
     ],
     "elements": [
@@ -17442,6 +17557,52 @@
      }
     ]
    },
+   "booknook-dosage-20-sessions-stronger-effect": {
+    "claims": [
+     {
+      "slug": "booknook-small-positive-map-reading-growth"
+     },
+     {
+      "slug": "ignite-reading-black-students-subgroup-gains"
+     },
+     {
+      "slug": "once-dosage-80-sessions-larger-gains"
+     },
+     {
+      "slug": "once-rct-no-significant-dibels-effect-low-dosage"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "booknook-virtual-tutoring-platform",
+      "strength": "W"
+     }
+    ]
+   },
+   "booknook-small-positive-map-reading-growth": {
+    "claims": [
+     {
+      "slug": "booknook-dosage-20-sessions-stronger-effect"
+     },
+     {
+      "slug": "ignite-reading-dibels-gain-first-grade"
+     },
+     {
+      "slug": "lightning-squad-adequate-dose-map-grade3"
+     },
+     {
+      "slug": "renzulli-learning-oral-reading-fluency-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "booknook-virtual-tutoring-platform",
+      "strength": "W"
+     }
+    ]
+   },
    "boston-controlled-choice-most-students-get-first-or-second-choice": {
     "claims": [
      {
@@ -17624,6 +17785,9 @@
      },
      {
       "slug": "dif-not-predictable-from-differential-response-times"
+     },
+     {
+      "slug": "education-corps-boys-gains-girls-near-zero"
      },
      {
       "slug": "likelihood-variance-greater-for-girls"
@@ -27149,12 +27313,55 @@
      },
      {
       "slug": "classtime-higher-caaspp-math-scores"
+     },
+     {
+      "slug": "istation-weighted-mean-008-promising"
      }
     ],
     "elements": [
      {
       "polarity": "+",
       "slug": "classtime-formative-assessment-platform",
+      "strength": "W"
+     }
+    ]
+   },
+   "classworks-il-low-weekly-dosage": {
+    "claims": [
+     {
+      "slug": "classworks-il-six-point-math-advantage"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "classworks-individualized-learning-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "classworks-il-six-point-math-advantage": {
+    "claims": [
+     {
+      "slug": "classworks-il-low-weekly-dosage"
+     },
+     {
+      "slug": "imagine-math-indiana-grades-3-5-significant-texas-null"
+     },
+     {
+      "slug": "magma-math-grades-4-5-significant-i-ready-gain"
+     },
+     {
+      "slug": "magma-math-overall-promising-rating-es-009"
+     },
+     {
+      "slug": "simple-solutions-spiral-review-greater-i-ready-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "classworks-individualized-learning-program",
       "strength": "W"
      }
     ]
@@ -27768,6 +27975,11 @@
      }
     ],
     "patterns": [
+     {
+      "polarity": "+",
+      "slug": "emergent-curriculum",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "storyline-science-curriculum-design",
@@ -39487,6 +39699,9 @@
      },
      {
       "slug": "rashotte-2001-spellread-significant-gains"
+     },
+     {
+      "slug": "readable-english-significant-gains-over-control"
      }
     ],
     "elements": [
@@ -40558,6 +40773,26 @@
      }
     ]
    },
+   "csr-small-positive-effects-gmrt-tosrec": {
+    "claims": [
+     {
+      "slug": "failure-free-reading-no-discernible-effects-alphabetics"
+     },
+     {
+      "slug": "journeys-positive-effects-itbs-k-2"
+     },
+     {
+      "slug": "read-naturally-no-discernible-reading-fluency-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "collaborative-strategic-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
    "ct-metacog-achievement-perceptions": {
     "claims": [
      {
@@ -41110,13 +41345,77 @@
      }
     ]
    },
+   "curiosity-corner-expressive-language-nj-study": {
+    "claims": [
+     {
+      "slug": "curiosity-corner-kindergarten-follow-up-effects"
+     },
+     {
+      "slug": "curiosity-corner-kindergarten-followup-print-gains"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-oral-language-effects"
+     },
+     {
+      "slug": "curiosity-corner-pcer-immediate-null-effects"
+     },
+     {
+      "slug": "curiosity-corner-promising-evidence-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "curiosity-corner-prek-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "curiosity-corner-kindergarten-follow-up-effects": {
+    "claims": [
+     {
+      "slug": "curiosity-corner-expressive-language-nj-study"
+     },
+     {
+      "slug": "curiosity-corner-kindergarten-followup-print-gains"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     },
+     {
+      "slug": "curiosity-corner-pcer-immediate-null-effects"
+     },
+     {
+      "slug": "curiosity-corner-promising-evidence-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "curiosity-corner-prek-program",
+      "strength": "W"
+     }
+    ]
+   },
    "curiosity-corner-kindergarten-followup-print-gains": {
     "claims": [
+     {
+      "slug": "curiosity-corner-expressive-language-nj-study"
+     },
+     {
+      "slug": "curiosity-corner-kindergarten-follow-up-effects"
+     },
      {
       "slug": "curiosity-corner-no-discernible-math-effects"
      },
      {
       "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     },
+     {
+      "slug": "curiosity-corner-pcer-immediate-null-effects"
+     },
+     {
+      "slug": "curiosity-corner-promising-evidence-rating"
      },
      {
       "slug": "headsprout-positive-print-knowledge-preschool"
@@ -41188,6 +41487,9 @@
       "slug": "curiosity-corner-expressive-language-age-group-mixed"
      },
      {
+      "slug": "curiosity-corner-expressive-language-nj-study"
+     },
+     {
       "slug": "curiosity-corner-no-discernible-cognition-effects"
      },
      {
@@ -41246,6 +41548,9 @@
       "slug": "bright-beginnings-print-knowledge-tera3-mixed"
      },
      {
+      "slug": "curiosity-corner-kindergarten-follow-up-effects"
+     },
+     {
       "slug": "curiosity-corner-kindergarten-followup-print-gains"
      },
      {
@@ -41258,6 +41563,12 @@
       "slug": "curiosity-corner-no-discernible-phonological-effects"
      },
      {
+      "slug": "curiosity-corner-pcer-immediate-null-effects"
+     },
+     {
+      "slug": "curiosity-corner-promising-evidence-rating"
+     },
+     {
       "slug": "headsprout-positive-print-knowledge-preschool"
      },
      {
@@ -41268,6 +41579,52 @@
      {
       "polarity": "-",
       "slug": "curiosity-corner-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "curiosity-corner-pcer-immediate-null-effects": {
+    "claims": [
+     {
+      "slug": "curiosity-corner-expressive-language-nj-study"
+     },
+     {
+      "slug": "curiosity-corner-kindergarten-follow-up-effects"
+     },
+     {
+      "slug": "curiosity-corner-kindergarten-followup-print-gains"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "curiosity-corner-prek-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "curiosity-corner-promising-evidence-rating": {
+    "claims": [
+     {
+      "slug": "curiosity-corner-expressive-language-nj-study"
+     },
+     {
+      "slug": "curiosity-corner-kindergarten-follow-up-effects"
+     },
+     {
+      "slug": "curiosity-corner-kindergarten-followup-print-gains"
+     },
+     {
+      "slug": "curiosity-corner-no-discernible-print-knowledge-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "curiosity-corner-prek-program",
       "strength": "W"
      }
     ]
@@ -48786,6 +49143,139 @@
      {
       "polarity": "+",
       "slug": "rjm-seven-stage-epistemic-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "education-corps-boys-gains-girls-near-zero": {
+    "claims": [
+     {
+      "slug": "boys-faster-than-girls-no-achievement-difference"
+     },
+     {
+      "slug": "education-corps-effects-stronger-non-chronically-absent"
+     },
+     {
+      "slug": "education-corps-mid-year-gains-positive"
+     },
+     {
+      "slug": "ignite-reading-black-students-subgroup-gains"
+     },
+     {
+      "slug": "ignite-reading-english-learner-subgroup-gains"
+     },
+     {
+      "slug": "rt-likelihood-trend-boys-not-girls"
+     },
+     {
+      "slug": "two-gendered-classroom-cultures"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "education-corps-high-dosage-literacy-tutoring-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "education-corps-effects-stronger-non-chronically-absent": {
+    "claims": [
+     {
+      "slug": "education-corps-boys-gains-girls-near-zero"
+     },
+     {
+      "slug": "education-corps-eog-reading-non-significant"
+     },
+     {
+      "slug": "education-corps-mid-year-gains-positive"
+     },
+     {
+      "slug": "education-corps-tutoring-improves-dibels-composite"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "education-corps-high-dosage-literacy-tutoring-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "education-corps-eog-reading-non-significant": {
+    "claims": [
+     {
+      "slug": "education-corps-effects-stronger-non-chronically-absent"
+     },
+     {
+      "slug": "education-corps-mid-year-gains-positive"
+     },
+     {
+      "slug": "education-corps-tutoring-improves-dibels-composite"
+     },
+     {
+      "slug": "lightning-squad-adequate-dose-map-grade3"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "education-corps-high-dosage-literacy-tutoring-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "education-corps-mid-year-gains-positive": {
+    "claims": [
+     {
+      "slug": "education-corps-boys-gains-girls-near-zero"
+     },
+     {
+      "slug": "education-corps-effects-stronger-non-chronically-absent"
+     },
+     {
+      "slug": "education-corps-eog-reading-non-significant"
+     },
+     {
+      "slug": "education-corps-tutoring-improves-dibels-composite"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "education-corps-high-dosage-literacy-tutoring-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "education-corps-tutoring-improves-dibels-composite": {
+    "claims": [
+     {
+      "slug": "education-corps-effects-stronger-non-chronically-absent"
+     },
+     {
+      "slug": "education-corps-eog-reading-non-significant"
+     },
+     {
+      "slug": "education-corps-mid-year-gains-positive"
+     },
+     {
+      "slug": "once-dosage-80-sessions-larger-gains"
+     },
+     {
+      "slug": "once-rct-no-significant-dibels-effect-low-dosage"
+     },
+     {
+      "slug": "onyourmark-virtual-tutoring-improves-dibels"
+     },
+     {
+      "slug": "renzulli-learning-oral-reading-fluency-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "education-corps-high-dosage-literacy-tutoring-program",
       "strength": "W"
      }
     ]
@@ -57588,6 +58078,9 @@
    "failure-free-reading-no-discernible-effects-alphabetics": {
     "claims": [
      {
+      "slug": "csr-small-positive-effects-gmrt-tosrec"
+     },
+     {
       "slug": "failure-free-reading-no-discernible-effects-fluency"
      },
      {
@@ -58235,6 +58728,54 @@
      {
       "polarity": "+",
       "slug": "paths-curriculum-fast-track-classroom-lessons",
+      "strength": "W"
+     }
+    ]
+   },
+   "fastalk-baton-rouge-isteep-growth": {
+    "claims": [
+     {
+      "slug": "fastalk-ousd-kindergarten-months-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "fastalk-text-message-family-engagement-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "fastalk-ousd-kindergarten-months-gains": {
+    "claims": [
+     {
+      "slug": "fastalk-baton-rouge-isteep-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "fastalk-text-message-family-engagement-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "fastalk-promising-rating-two-studies": {
+    "claims": [
+     {
+      "slug": "istation-weighted-mean-008-promising"
+     },
+     {
+      "slug": "progress-learning-promising-rating-one-study"
+     },
+     {
+      "slug": "progress-learning-promising-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "fastalk-text-message-family-engagement-program",
       "strength": "W"
      }
     ]
@@ -62129,6 +62670,60 @@
      }
     ]
    },
+   "flashlight360-one-year-composite-outgains": {
+    "claims": [
+     {
+      "slug": "flashlight360-two-year-composite-outgains"
+     },
+     {
+      "slug": "flashlight360-writing-speaking-subscale-gains"
+     },
+     {
+      "slug": "imagine-ll-wida-access-gain"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "flashlight360-assessment-tool",
+      "strength": "W"
+     }
+    ]
+   },
+   "flashlight360-two-year-composite-outgains": {
+    "claims": [
+     {
+      "slug": "flashlight360-one-year-composite-outgains"
+     },
+     {
+      "slug": "flashlight360-writing-speaking-subscale-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "flashlight360-assessment-tool",
+      "strength": "W"
+     }
+    ]
+   },
+   "flashlight360-writing-speaking-subscale-gains": {
+    "claims": [
+     {
+      "slug": "flashlight360-one-year-composite-outgains"
+     },
+     {
+      "slug": "flashlight360-two-year-composite-outgains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "flashlight360-assessment-tool",
+      "strength": "W"
+     }
+    ]
+   },
    "flca-influences-outcomes-four-factors": {
     "claims": [
      {
@@ -62382,6 +62977,9 @@
      },
      {
       "slug": "fluency-formula-positive-nonsignificant-fluency-effect"
+     },
+     {
+      "slug": "readable-english-significant-gains-over-control"
      }
     ],
     "elements": [
@@ -63971,6 +64569,287 @@
       "polarity": "+",
       "slug": "funds-of-knowledge",
       "strength": "M"
+     }
+    ]
+   },
+   "future-forward-black-male-low-attendance-gains": {
+    "claims": [
+     {
+      "slug": "future-forward-differential-impact-subgroups"
+     },
+     {
+      "slug": "future-forward-improves-school-attendance"
+     },
+     {
+      "slug": "future-forward-prior-rct-evidence"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "future-forward-program-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "future-forward-covid-modified-nonsignificant-effect": {
+    "claims": [
+     {
+      "slug": "future-forward-one-semester-significant-reading-gains"
+     },
+     {
+      "slug": "future-forward-prior-rct-evidence"
+     },
+     {
+      "slug": "future-forward-rd-nonsignificant-positive-effect"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "~",
+      "slug": "tutoring-plus-family-engagement-partnership-pattern",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "future-forward-literacy-intervention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "future-forward-differential-impact-subgroups": {
+    "claims": [
+     {
+      "slug": "future-forward-black-male-low-attendance-gains"
+     },
+     {
+      "slug": "future-forward-improves-school-attendance"
+     },
+     {
+      "slug": "future-forward-prior-rct-evidence"
+     },
+     {
+      "slug": "future-forward-strong-ratings-family-engagement-attendance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "future-forward-program-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "future-forward-family-engagement-not-scaled": {
+    "claims": [
+     {
+      "slug": "future-forward-prior-rct-evidence"
+     },
+     {
+      "slug": "future-forward-strong-ratings-family-engagement-attendance"
+     },
+     {
+      "slug": "future-forward-tutoring-scaled-up"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "future-forward-literacy-intervention-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "future-forward-program-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "future-forward-improves-school-attendance": {
+    "claims": [
+     {
+      "slug": "future-forward-black-male-low-attendance-gains"
+     },
+     {
+      "slug": "future-forward-differential-impact-subgroups"
+     },
+     {
+      "slug": "future-forward-prior-rct-evidence"
+     },
+     {
+      "slug": "future-forward-rct-literacy-gains"
+     },
+     {
+      "slug": "future-forward-strong-ratings-family-engagement-attendance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "future-forward-literacy-intervention-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "future-forward-program-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "future-forward-one-semester-significant-reading-gains": {
+    "claims": [
+     {
+      "slug": "future-forward-covid-modified-nonsignificant-effect"
+     },
+     {
+      "slug": "future-forward-prior-rct-evidence"
+     },
+     {
+      "slug": "future-forward-rd-nonsignificant-positive-effect"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "future-forward-literacy-intervention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "future-forward-prior-rct-evidence": {
+    "claims": [
+     {
+      "slug": "future-forward-black-male-low-attendance-gains"
+     },
+     {
+      "slug": "future-forward-covid-modified-nonsignificant-effect"
+     },
+     {
+      "slug": "future-forward-differential-impact-subgroups"
+     },
+     {
+      "slug": "future-forward-family-engagement-not-scaled"
+     },
+     {
+      "slug": "future-forward-improves-school-attendance"
+     },
+     {
+      "slug": "future-forward-one-semester-significant-reading-gains"
+     },
+     {
+      "slug": "future-forward-rct-literacy-gains"
+     },
+     {
+      "slug": "future-forward-rd-nonsignificant-positive-effect"
+     },
+     {
+      "slug": "future-forward-tutoring-scaled-up"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "future-forward-literacy-intervention-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "future-forward-program-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "future-forward-rct-literacy-gains": {
+    "claims": [
+     {
+      "slug": "future-forward-improves-school-attendance"
+     },
+     {
+      "slug": "future-forward-prior-rct-evidence"
+     },
+     {
+      "slug": "future-forward-strong-ratings-family-engagement-attendance"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "tutoring-plus-family-engagement-partnership-pattern",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "future-forward-literacy-intervention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "future-forward-rd-nonsignificant-positive-effect": {
+    "claims": [
+     {
+      "slug": "future-forward-covid-modified-nonsignificant-effect"
+     },
+     {
+      "slug": "future-forward-one-semester-significant-reading-gains"
+     },
+     {
+      "slug": "future-forward-prior-rct-evidence"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "future-forward-literacy-intervention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "future-forward-strong-ratings-family-engagement-attendance": {
+    "claims": [
+     {
+      "slug": "future-forward-differential-impact-subgroups"
+     },
+     {
+      "slug": "future-forward-family-engagement-not-scaled"
+     },
+     {
+      "slug": "future-forward-improves-school-attendance"
+     },
+     {
+      "slug": "future-forward-rct-literacy-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "future-forward-literacy-intervention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "future-forward-tutoring-scaled-up": {
+    "claims": [
+     {
+      "slug": "future-forward-family-engagement-not-scaled"
+     },
+     {
+      "slug": "future-forward-prior-rct-evidence"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "future-forward-literacy-intervention-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "future-forward-program-model",
+      "strength": "W"
      }
     ]
    },
@@ -66592,6 +67471,9 @@
      },
      {
       "slug": "green-dot-positive-student-progression"
+     },
+     {
+      "slug": "powerschool-attendance-intervention-reduces-chronic-absenteeism"
      }
     ],
     "designs": [
@@ -69307,6 +70189,9 @@
       "slug": "delayed-correlation-visits-cumulative-gpa"
      },
      {
+      "slug": "pthv-home-visits-improve-attendance-slightly"
+     },
+     {
       "slug": "tutoring-center-visits-higher-cumulative-gpa"
      },
      {
@@ -69958,6 +70843,9 @@
      },
      {
       "slug": "household-exchange-networks-are-reciprocal-and-build-trust"
+     },
+     {
+      "slug": "pthv-home-visits-improve-attendance-slightly"
      }
     ],
     "patterns": [
@@ -70128,6 +71016,57 @@
      },
      {
       "slug": "sleep-deprivation-impairst-astronaut-performance"
+     }
+    ]
+   },
+   "hoot-reading-map-grades-3-4-not-significant": {
+    "claims": [
+     {
+      "slug": "hoot-reading-no-positive-effects-tier-ii"
+     },
+     {
+      "slug": "hoot-reading-tier-iii-significant-i-ready-gain"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "hoot-reading-online-one-to-one-literacy-tutoring",
+      "strength": "W"
+     }
+    ]
+   },
+   "hoot-reading-no-positive-effects-tier-ii": {
+    "claims": [
+     {
+      "slug": "hoot-reading-map-grades-3-4-not-significant"
+     },
+     {
+      "slug": "hoot-reading-tier-iii-significant-i-ready-gain"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "hoot-reading-online-one-to-one-literacy-tutoring",
+      "strength": "W"
+     }
+    ]
+   },
+   "hoot-reading-tier-iii-significant-i-ready-gain": {
+    "claims": [
+     {
+      "slug": "hoot-reading-map-grades-3-4-not-significant"
+     },
+     {
+      "slug": "hoot-reading-no-positive-effects-tier-ii"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "hoot-reading-online-one-to-one-literacy-tutoring",
+      "strength": "W"
      }
     ]
    },
@@ -71535,6 +72474,89 @@
      }
     ]
    },
+   "ignite-reading-attendance-associated-gains": {
+    "claims": [
+     {
+      "slug": "ignite-reading-black-students-subgroup-gains"
+     },
+     {
+      "slug": "week6-attendance-interaction-favors-flex"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ignite-reading-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "ignite-reading-black-students-subgroup-gains": {
+    "claims": [
+     {
+      "slug": "booknook-dosage-20-sessions-stronger-effect"
+     },
+     {
+      "slug": "education-corps-boys-gains-girls-near-zero"
+     },
+     {
+      "slug": "ignite-reading-attendance-associated-gains"
+     },
+     {
+      "slug": "ignite-reading-dibels-gain-first-grade"
+     },
+     {
+      "slug": "ignite-reading-english-learner-subgroup-gains"
+     },
+     {
+      "slug": "progress-learning-subgroup-effects-sped-hispanic-black"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ignite-reading-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "ignite-reading-dibels-gain-first-grade": {
+    "claims": [
+     {
+      "slug": "booknook-small-positive-map-reading-growth"
+     },
+     {
+      "slug": "ignite-reading-black-students-subgroup-gains"
+     },
+     {
+      "slug": "once-program-improves-fastbridge-kindergarten-reading"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ignite-reading-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "ignite-reading-english-learner-subgroup-gains": {
+    "claims": [
+     {
+      "slug": "education-corps-boys-gains-girls-near-zero"
+     },
+     {
+      "slug": "ignite-reading-black-students-subgroup-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ignite-reading-program-element",
+      "strength": "W"
+     }
+    ]
+   },
    "ignored-local-dependence-overestimates-reliability-simulation": {
     "claims": [
      {
@@ -71624,6 +72646,212 @@
       "polarity": "+",
       "slug": "technology-imagery-perception-model",
       "strength": "M"
+     }
+    ]
+   },
+   "imagine-ll-fast-assessment-gain": {
+    "claims": [
+     {
+      "slug": "imagine-ll-louisiana-elpt-gain"
+     },
+     {
+      "slug": "imagine-ll-texas-reading-gain"
+     },
+     {
+      "slug": "imagine-ll-wida-access-gain"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "imagine-language-and-literacy-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "imagine-ll-louisiana-elpt-gain": {
+    "claims": [
+     {
+      "slug": "imagine-ll-fast-assessment-gain"
+     },
+     {
+      "slug": "imagine-ll-texas-reading-gain"
+     },
+     {
+      "slug": "imagine-ll-wida-access-gain"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "imagine-language-and-literacy-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "imagine-ll-texas-reading-gain": {
+    "claims": [
+     {
+      "slug": "imagine-ll-fast-assessment-gain"
+     },
+     {
+      "slug": "imagine-ll-louisiana-elpt-gain"
+     },
+     {
+      "slug": "imagine-ll-wida-access-gain"
+     },
+     {
+      "slug": "istation-tx-staar-reading-010"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "imagine-language-and-literacy-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "imagine-ll-wida-access-gain": {
+    "claims": [
+     {
+      "slug": "flashlight360-one-year-composite-outgains"
+     },
+     {
+      "slug": "imagine-ll-fast-assessment-gain"
+     },
+     {
+      "slug": "imagine-ll-louisiana-elpt-gain"
+     },
+     {
+      "slug": "imagine-ll-texas-reading-gain"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "imagine-language-and-literacy-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "imagine-math-charter-network-study-positive-effect": {
+    "claims": [
+     {
+      "slug": "imagine-math-facts-early-elementary-significant-growth"
+     },
+     {
+      "slug": "imagine-math-indiana-grades-3-5-significant-texas-null"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "imagine-math-adaptive-supplemental-math-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "imagine-math-facts-early-elementary-significant-growth": {
+    "claims": [
+     {
+      "slug": "imagine-math-charter-network-study-positive-effect"
+     },
+     {
+      "slug": "imagine-math-facts-overall-effect-small"
+     },
+     {
+      "slug": "imagine-math-facts-upper-elementary-not-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "imagine-math-facts-3d-game-fluency-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "imagine-math-facts-overall-effect-small": {
+    "claims": [
+     {
+      "slug": "imagine-math-facts-early-elementary-significant-growth"
+     },
+     {
+      "slug": "imagine-math-facts-upper-elementary-not-significant"
+     },
+     {
+      "slug": "imagine-math-indiana-grades-3-5-significant-texas-null"
+     },
+     {
+      "slug": "imagine-math-weighted-average-effect-0-06"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "imagine-math-facts-3d-game-fluency-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "imagine-math-facts-upper-elementary-not-significant": {
+    "claims": [
+     {
+      "slug": "imagine-math-facts-early-elementary-significant-growth"
+     },
+     {
+      "slug": "imagine-math-facts-overall-effect-small"
+     },
+     {
+      "slug": "imagine-math-indiana-grades-3-5-significant-texas-null"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "imagine-math-facts-3d-game-fluency-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "imagine-math-indiana-grades-3-5-significant-texas-null": {
+    "claims": [
+     {
+      "slug": "classworks-il-six-point-math-advantage"
+     },
+     {
+      "slug": "imagine-math-charter-network-study-positive-effect"
+     },
+     {
+      "slug": "imagine-math-facts-overall-effect-small"
+     },
+     {
+      "slug": "imagine-math-facts-upper-elementary-not-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "imagine-math-adaptive-supplemental-math-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "imagine-math-weighted-average-effect-0-06": {
+    "claims": [
+     {
+      "slug": "imagine-math-facts-overall-effect-small"
+     },
+     {
+      "slug": "istation-weighted-mean-008-promising"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "imagine-math-adaptive-supplemental-math-program",
+      "strength": "W"
      }
     ]
    },
@@ -71893,7 +73121,13 @@
    "imse-og-plus-improves-early-literacy": {
     "claims": [
      {
+      "slug": "istation-sc-map-reading-growth-006"
+     },
+     {
       "slug": "morphology-plus-significant-reading-gain-third-grade"
+     },
+     {
+      "slug": "reading-horizons-discovery-dibels-positive-effect"
      },
      {
       "slug": "rgr-grade1-higher-map-winter-2022"
@@ -73077,6 +74311,9 @@
      },
      {
       "slug": "insights-sustained-attention-es-039"
+     },
+     {
+      "slug": "reading-plus-significant-gains-grade-es-011"
      }
     ],
     "elements": [
@@ -75362,6 +76599,90 @@
      }
     ]
    },
+   "istation-sc-map-reading-growth-006": {
+    "claims": [
+     {
+      "slug": "imse-og-plus-improves-early-literacy"
+     },
+     {
+      "slug": "istation-tx-staar-reading-010"
+     },
+     {
+      "slug": "morphology-plus-significant-reading-gain-third-grade"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "istation-professional-learning-formats",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "istation-reading-adaptive-assessment-supplemental-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "istation-tx-staar-reading-010": {
+    "claims": [
+     {
+      "slug": "imagine-ll-texas-reading-gain"
+     },
+     {
+      "slug": "istation-sc-map-reading-growth-006"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "istation-professional-learning-formats",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "istation-reading-adaptive-assessment-supplemental-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "istation-weighted-mean-008-promising": {
+    "claims": [
+     {
+      "slug": "classtime-promising-rating-single-quasi-experiment"
+     },
+     {
+      "slug": "fastalk-promising-rating-two-studies"
+     },
+     {
+      "slug": "imagine-math-weighted-average-effect-0-06"
+     },
+     {
+      "slug": "once-weighted-average-effect-size-0-14-promising"
+     },
+     {
+      "slug": "progress-learning-promising-rating-average-effect"
+     },
+     {
+      "slug": "progress-learning-promising-rating-one-study"
+     },
+     {
+      "slug": "werp-hecht-close-study-design"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "istation-professional-learning-formats",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "istation-reading-adaptive-assessment-supplemental-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
    "italian-gender-stays-incomplete-for-l2-and-heritage-speakers": {
     "claims": [
      {
@@ -75834,6 +77155,23 @@
     "claims": [
      {
       "slug": "inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence"
+     }
+    ]
+   },
+   "journeys-positive-effects-itbs-k-2": {
+    "claims": [
+     {
+      "slug": "csr-small-positive-effects-gmrt-tosrec"
+     },
+     {
+      "slug": "lli-no-discernible-alphabetics-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "journeys-reading-language-arts-program",
+      "strength": "W"
      }
     ]
    },
@@ -80420,6 +81758,95 @@
      }
     ]
    },
+   "lightning-squad-adequate-dose-map-grade3": {
+    "claims": [
+     {
+      "slug": "booknook-small-positive-map-reading-growth"
+     },
+     {
+      "slug": "education-corps-eog-reading-non-significant"
+     },
+     {
+      "slug": "lightning-squad-average-effect-0-07"
+     },
+     {
+      "slug": "lightning-squad-stakeholder-survey-positive"
+     },
+     {
+      "slug": "lightning-squad-word-attack-significant-itt"
+     },
+     {
+      "slug": "onyourmark-no-significant-nwea-map-effect"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "lightning-squad-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "lightning-squad-average-effect-0-07": {
+    "claims": [
+     {
+      "slug": "lightning-squad-adequate-dose-map-grade3"
+     },
+     {
+      "slug": "lightning-squad-stakeholder-survey-positive"
+     },
+     {
+      "slug": "lightning-squad-word-attack-significant-itt"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "lightning-squad-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "lightning-squad-stakeholder-survey-positive": {
+    "claims": [
+     {
+      "slug": "lightning-squad-adequate-dose-map-grade3"
+     },
+     {
+      "slug": "lightning-squad-average-effect-0-07"
+     },
+     {
+      "slug": "lightning-squad-word-attack-significant-itt"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "lightning-squad-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "lightning-squad-word-attack-significant-itt": {
+    "claims": [
+     {
+      "slug": "lightning-squad-adequate-dose-map-grade3"
+     },
+     {
+      "slug": "lightning-squad-average-effect-0-07"
+     },
+     {
+      "slug": "lightning-squad-stakeholder-survey-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "lightning-squad-program-element",
+      "strength": "W"
+     }
+    ]
+   },
    "likelihood-variance-greater-for-girls": {
     "claims": [
      {
@@ -80798,6 +82225,9 @@
      },
      {
       "slug": "lips-supplemental-followup-mixed-findings"
+     },
+     {
+      "slug": "readable-english-significant-gains-over-control"
      },
      {
       "slug": "reading-mastery-potentially-positive-effects-ell-reading"
@@ -81450,6 +82880,12 @@
       "slug": "lli-2013-denver-rct-mixed-measure-results"
      },
      {
+      "slug": "lli-average-effect-size-013-two-studies"
+     },
+     {
+      "slug": "lli-georgia-new-york-rct-dibels-017"
+     },
+     {
       "slug": "lli-no-discernible-alphabetics-effects"
      },
      {
@@ -81457,9 +82893,17 @@
      },
      {
       "slug": "lli-star-female-subgroup-positive-nonsignificant"
+     },
+     {
+      "slug": "lli-teacher-perceptions-positive-with-pacing-concerns"
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "leveled-literacy-intervention-program",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "leveled-literacy-intervention-system",
@@ -81476,10 +82920,19 @@
       "slug": "lli-2013-denver-rct-mixed-measure-results"
      },
      {
+      "slug": "lli-average-effect-size-013-two-studies"
+     },
+     {
+      "slug": "lli-georgia-new-york-rct-dibels-017"
+     },
+     {
       "slug": "lli-no-discernible-alphabetics-effects"
      },
      {
       "slug": "lli-positive-effects-general-reading-achievement-k-2"
+     },
+     {
+      "slug": "lli-teacher-perceptions-positive-with-pacing-concerns"
      }
     ],
     "elements": [
@@ -81499,10 +82952,19 @@
       "slug": "lli-2010-rct-positive-general-reading-achievement"
      },
      {
+      "slug": "lli-average-effect-size-013-two-studies"
+     },
+     {
+      "slug": "lli-denver-dra2-kindergarten-only-010"
+     },
+     {
       "slug": "lli-no-discernible-alphabetics-effects"
      },
      {
       "slug": "lli-star-female-subgroup-positive-nonsignificant"
+     },
+     {
+      "slug": "lli-teacher-perceptions-positive-with-pacing-concerns"
      }
     ],
     "elements": [
@@ -81513,7 +82975,7 @@
      }
     ]
    },
-   "lli-no-discernible-alphabetics-effects": {
+   "lli-average-effect-size-013-two-studies": {
     "claims": [
      {
       "slug": "lli-2010-positive-reading-fluency"
@@ -81525,10 +82987,106 @@
       "slug": "lli-2013-denver-rct-mixed-measure-results"
      },
      {
+      "slug": "lli-denver-dra2-kindergarten-only-010"
+     },
+     {
+      "slug": "lli-georgia-new-york-rct-dibels-017"
+     },
+     {
+      "slug": "lli-no-discernible-alphabetics-effects"
+     },
+     {
       "slug": "lli-positive-effects-general-reading-achievement-k-2"
      },
      {
       "slug": "lli-star-female-subgroup-positive-nonsignificant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "leveled-literacy-intervention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "lli-denver-dra2-kindergarten-only-010": {
+    "claims": [
+     {
+      "slug": "lli-2013-denver-rct-mixed-measure-results"
+     },
+     {
+      "slug": "lli-average-effect-size-013-two-studies"
+     },
+     {
+      "slug": "lli-positive-effects-general-reading-achievement-k-2"
+     },
+     {
+      "slug": "lli-star-female-subgroup-positive-nonsignificant"
+     },
+     {
+      "slug": "lli-teacher-perceptions-positive-with-pacing-concerns"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "leveled-literacy-intervention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "lli-georgia-new-york-rct-dibels-017": {
+    "claims": [
+     {
+      "slug": "lli-2010-positive-reading-fluency"
+     },
+     {
+      "slug": "lli-2010-rct-positive-general-reading-achievement"
+     },
+     {
+      "slug": "lli-average-effect-size-013-two-studies"
+     },
+     {
+      "slug": "lli-no-discernible-alphabetics-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "leveled-literacy-intervention-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "lli-no-discernible-alphabetics-effects": {
+    "claims": [
+     {
+      "slug": "journeys-positive-effects-itbs-k-2"
+     },
+     {
+      "slug": "lli-2010-positive-reading-fluency"
+     },
+     {
+      "slug": "lli-2010-rct-positive-general-reading-achievement"
+     },
+     {
+      "slug": "lli-2013-denver-rct-mixed-measure-results"
+     },
+     {
+      "slug": "lli-average-effect-size-013-two-studies"
+     },
+     {
+      "slug": "lli-georgia-new-york-rct-dibels-017"
+     },
+     {
+      "slug": "lli-positive-effects-general-reading-achievement-k-2"
+     },
+     {
+      "slug": "lli-star-female-subgroup-positive-nonsignificant"
+     },
+     {
+      "slug": "lli-teacher-perceptions-positive-with-pacing-concerns"
      },
      {
       "slug": "once-rct-no-significant-dibels-effect-low-dosage"
@@ -81551,13 +83109,27 @@
       "slug": "lli-2010-rct-positive-general-reading-achievement"
      },
      {
+      "slug": "lli-average-effect-size-013-two-studies"
+     },
+     {
+      "slug": "lli-denver-dra2-kindergarten-only-010"
+     },
+     {
       "slug": "lli-no-discernible-alphabetics-effects"
+     },
+     {
+      "slug": "lli-teacher-perceptions-positive-with-pacing-concerns"
      },
      {
       "slug": "pals-wwc-effectiveness-ratings-three-domains"
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "leveled-literacy-intervention-program",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "leveled-literacy-intervention-system",
@@ -81574,7 +83146,16 @@
       "slug": "lli-2013-denver-rct-mixed-measure-results"
      },
      {
+      "slug": "lli-average-effect-size-013-two-studies"
+     },
+     {
+      "slug": "lli-denver-dra2-kindergarten-only-010"
+     },
+     {
       "slug": "lli-no-discernible-alphabetics-effects"
+     },
+     {
+      "slug": "lli-teacher-perceptions-positive-with-pacing-concerns"
      }
     ],
     "elements": [
@@ -81582,6 +83163,34 @@
       "polarity": "+",
       "slug": "leveled-literacy-intervention-system",
       "strength": "M"
+     }
+    ]
+   },
+   "lli-teacher-perceptions-positive-with-pacing-concerns": {
+    "claims": [
+     {
+      "slug": "lli-2010-positive-reading-fluency"
+     },
+     {
+      "slug": "lli-2010-rct-positive-general-reading-achievement"
+     },
+     {
+      "slug": "lli-2013-denver-rct-mixed-measure-results"
+     },
+     {
+      "slug": "lli-denver-dra2-kindergarten-only-010"
+     },
+     {
+      "slug": "lli-no-discernible-alphabetics-effects"
+     },
+     {
+      "slug": "lli-positive-effects-general-reading-achievement-k-2"
+     },
+     {
+      "slug": "lli-star-female-subgroup-positive-nonsignificant"
+     },
+     {
+      "slug": "tdhs-teacher-survey-positive-perceptions"
      }
     ]
    },
@@ -83069,6 +84678,9 @@
    "magma-math-grades-4-5-significant-i-ready-gain": {
     "claims": [
      {
+      "slug": "classworks-il-six-point-math-advantage"
+     },
+     {
       "slug": "magma-math-grades-6-8-nonsignificant-advantage"
      },
      {
@@ -83102,6 +84714,9 @@
    },
    "magma-math-overall-promising-rating-es-009": {
     "claims": [
+     {
+      "slug": "classworks-il-six-point-math-advantage"
+     },
      {
       "slug": "magma-math-grades-4-5-significant-i-ready-gain"
      },
@@ -88984,6 +90599,9 @@
       "slug": "reverse-transfer-literacy-to-oral-unsupported"
      },
      {
+      "slug": "stari-improves-word-recognition-comprehension-morphological-awareness"
+     },
+     {
       "slug": "structured-literacy-interventions-help-struggling-readers"
      },
      {
@@ -89041,6 +90659,9 @@
      },
      {
       "slug": "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone"
+     },
+     {
+      "slug": "stari-improves-word-recognition-comprehension-morphological-awareness"
      }
     ],
     "principles": [
@@ -89114,6 +90735,9 @@
     "claims": [
      {
       "slug": "imse-og-plus-improves-early-literacy"
+     },
+     {
+      "slug": "istation-sc-map-reading-growth-006"
      },
      {
       "slug": "morphology-plus-subdomain-effects-informational-vocabulary"
@@ -93731,6 +95355,12 @@
    "once-dosage-80-sessions-larger-gains": {
     "claims": [
      {
+      "slug": "booknook-dosage-20-sessions-stronger-effect"
+     },
+     {
+      "slug": "education-corps-tutoring-improves-dibels-composite"
+     },
+     {
       "slug": "once-program-improves-fastbridge-kindergarten-reading"
      }
     ],
@@ -93745,6 +95375,9 @@
    "once-program-improves-fastbridge-kindergarten-reading": {
     "claims": [
      {
+      "slug": "ignite-reading-dibels-gain-first-grade"
+     },
+     {
       "slug": "once-dosage-80-sessions-larger-gains"
      },
      {
@@ -93752,6 +95385,15 @@
      },
      {
       "slug": "once-weighted-average-effect-size-0-14-promising"
+     },
+     {
+      "slug": "onyourmark-virtual-tutoring-improves-dibels"
+     },
+     {
+      "slug": "reading-horizons-discovery-dibels-positive-effect"
+     },
+     {
+      "slug": "spalding-fastbridge-earlyreading-kindergarten-gains"
      },
      {
       "slug": "tsi-virtual-tutoring-ela-effect-0-48"
@@ -93768,13 +95410,25 @@
    "once-rct-no-significant-dibels-effect-low-dosage": {
     "claims": [
      {
+      "slug": "booknook-dosage-20-sessions-stronger-effect"
+     },
+     {
+      "slug": "education-corps-tutoring-improves-dibels-composite"
+     },
+     {
       "slug": "lli-no-discernible-alphabetics-effects"
      },
      {
       "slug": "once-program-improves-fastbridge-kindergarten-reading"
      },
      {
+      "slug": "onyourmark-virtual-tutoring-improves-dibels"
+     },
+     {
       "slug": "read-well-no-discernible-effects-reading-achievement-ell"
+     },
+     {
+      "slug": "reading-plus-significant-gains-grade-es-011"
      },
      {
       "slug": "torgesen-2006-spellread-indeterminate"
@@ -93790,6 +95444,9 @@
    },
    "once-weighted-average-effect-size-0-14-promising": {
     "claims": [
+     {
+      "slug": "istation-weighted-mean-008-promising"
+     },
      {
       "slug": "once-program-improves-fastbridge-kindergarten-reading"
      }
@@ -94046,6 +95703,75 @@
      {
       "polarity": "+",
       "slug": "sustained-follow-up-technology-pd",
+      "strength": "M"
+     }
+    ]
+   },
+   "onyourmark-lowest-performers-first-grade-11-benefit-most": {
+    "claims": [
+     {
+      "slug": "onyourmark-no-significant-nwea-map-effect"
+     },
+     {
+      "slug": "onyourmark-virtual-tutoring-improves-dibels"
+     },
+     {
+      "slug": "smart-significant-word-identification-effect"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "onyourmark-virtual-tutoring-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "onyourmark-no-significant-nwea-map-effect": {
+    "claims": [
+     {
+      "slug": "lightning-squad-adequate-dose-map-grade3"
+     },
+     {
+      "slug": "onyourmark-lowest-performers-first-grade-11-benefit-most"
+     },
+     {
+      "slug": "onyourmark-virtual-tutoring-improves-dibels"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "onyourmark-virtual-tutoring-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "onyourmark-virtual-tutoring-improves-dibels": {
+    "claims": [
+     {
+      "slug": "education-corps-tutoring-improves-dibels-composite"
+     },
+     {
+      "slug": "once-program-improves-fastbridge-kindergarten-reading"
+     },
+     {
+      "slug": "once-rct-no-significant-dibels-effect-low-dosage"
+     },
+     {
+      "slug": "onyourmark-lowest-performers-first-grade-11-benefit-most"
+     },
+     {
+      "slug": "onyourmark-no-significant-nwea-map-effect"
+     },
+     {
+      "slug": "renzulli-learning-oral-reading-fluency-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "onyourmark-virtual-tutoring-program",
       "strength": "M"
      }
     ]
@@ -102114,6 +103840,43 @@
      }
     ]
    },
+   "powerschool-attendance-intervention-in-seat-attendance-null": {
+    "claims": [
+     {
+      "slug": "powerschool-attendance-intervention-reduces-chronic-absenteeism"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "powerschool-attendance-intervention-platform",
+      "strength": "W"
+     }
+    ]
+   },
+   "powerschool-attendance-intervention-reduces-chronic-absenteeism": {
+    "claims": [
+     {
+      "slug": "absence-reports-reduce-absences-philadelphia-rct"
+     },
+     {
+      "slug": "barr-reduces-ninth-grade-chronic-absenteeism"
+     },
+     {
+      "slug": "green-dot-attendance-year-four-only"
+     },
+     {
+      "slug": "powerschool-attendance-intervention-in-seat-attendance-null"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "powerschool-attendance-intervention-platform",
+      "strength": "W"
+     }
+    ]
+   },
    "ppe-best-fitting-andes-physics": {
     "claims": [
      {
@@ -105526,8 +107289,83 @@
      }
     ]
    },
+   "progress-learning-douglas-county-ela-gains": {
+    "claims": [
+     {
+      "slug": "progress-learning-douglas-county-math-gains"
+     }
+    ]
+   },
+   "progress-learning-douglas-county-math-gains": {
+    "claims": [
+     {
+      "slug": "progress-learning-douglas-county-ela-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "progress-learning-k12-platform",
+      "strength": "W"
+     }
+    ]
+   },
+   "progress-learning-forney-map-staar-impacts": {
+    "claims": [
+     {
+      "slug": "progress-learning-forney-nwea-map-reading"
+     },
+     {
+      "slug": "progress-learning-map-science-grade5-effect"
+     },
+     {
+      "slug": "progress-learning-promising-rating-average-effect"
+     },
+     {
+      "slug": "progress-learning-promising-rating-one-study"
+     },
+     {
+      "slug": "progress-learning-staar-ela-null"
+     },
+     {
+      "slug": "progress-learning-staar-science-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "progress-learning-k12-platform",
+      "strength": "W"
+     }
+    ]
+   },
+   "progress-learning-forney-nwea-map-reading": {
+    "claims": [
+     {
+      "slug": "progress-learning-forney-map-staar-impacts"
+     },
+     {
+      "slug": "progress-learning-map-science-grade5-effect"
+     },
+     {
+      "slug": "progress-learning-staar-ela-null"
+     },
+     {
+      "slug": "progress-learning-staar-science-positive"
+     }
+    ]
+   },
    "progress-learning-map-science-grade5-effect": {
     "claims": [
+     {
+      "slug": "progress-learning-forney-map-staar-impacts"
+     },
+     {
+      "slug": "progress-learning-forney-nwea-map-reading"
+     },
+     {
+      "slug": "progress-learning-staar-ela-null"
+     },
      {
       "slug": "progress-learning-staar-science-positive"
      },
@@ -105543,8 +107381,62 @@
      }
     ]
    },
+   "progress-learning-promising-rating": {
+    "claims": [
+     {
+      "slug": "fastalk-promising-rating-two-studies"
+     },
+     {
+      "slug": "progress-learning-promising-rating-average-effect"
+     },
+     {
+      "slug": "progress-learning-promising-rating-one-study"
+     }
+    ]
+   },
+   "progress-learning-promising-rating-average-effect": {
+    "claims": [
+     {
+      "slug": "istation-weighted-mean-008-promising"
+     },
+     {
+      "slug": "progress-learning-forney-map-staar-impacts"
+     },
+     {
+      "slug": "progress-learning-promising-rating-one-study"
+     },
+     {
+      "slug": "progress-learning-promising-rating"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "progress-learning-k12-platform",
+      "strength": "W"
+     }
+    ]
+   },
    "progress-learning-promising-rating-one-study": {
     "claims": [
+     {
+      "slug": "fastalk-promising-rating-two-studies"
+     },
+     {
+      "slug": "istation-weighted-mean-008-promising"
+     },
+     {
+      "slug": "progress-learning-forney-map-staar-impacts"
+     },
+     {
+      "slug": "progress-learning-promising-rating-average-effect"
+     },
+     {
+      "slug": "progress-learning-promising-rating"
+     },
+     {
+      "slug": "progress-learning-staar-ela-null"
+     },
      {
       "slug": "progress-learning-staar-science-positive"
      },
@@ -105560,13 +107452,44 @@
      }
     ]
    },
-   "progress-learning-staar-science-positive": {
+   "progress-learning-staar-ela-null": {
     "claims": [
+     {
+      "slug": "progress-learning-forney-map-staar-impacts"
+     },
+     {
+      "slug": "progress-learning-forney-nwea-map-reading"
+     },
      {
       "slug": "progress-learning-map-science-grade5-effect"
      },
      {
       "slug": "progress-learning-promising-rating-one-study"
+     },
+     {
+      "slug": "progress-learning-staar-science-positive"
+     },
+     {
+      "slug": "progress-learning-subgroup-effects-sped-hispanic-black"
+     }
+    ]
+   },
+   "progress-learning-staar-science-positive": {
+    "claims": [
+     {
+      "slug": "progress-learning-forney-map-staar-impacts"
+     },
+     {
+      "slug": "progress-learning-forney-nwea-map-reading"
+     },
+     {
+      "slug": "progress-learning-map-science-grade5-effect"
+     },
+     {
+      "slug": "progress-learning-promising-rating-one-study"
+     },
+     {
+      "slug": "progress-learning-staar-ela-null"
      },
      {
       "slug": "stemscopes-staar-grade5-outperformed-es-017"
@@ -105586,7 +107509,13 @@
       "slug": "greenfield-literacy-sped-larger-gains"
      },
      {
+      "slug": "ignite-reading-black-students-subgroup-gains"
+     },
+     {
       "slug": "progress-learning-promising-rating-one-study"
+     },
+     {
+      "slug": "progress-learning-staar-ela-null"
      },
      {
       "slug": "stemscopes-math-subgroup-effects"
@@ -106152,6 +108081,43 @@
       "polarity": "+",
       "slug": "flipped-learning",
       "strength": "M"
+     }
+    ]
+   },
+   "pthv-home-visits-improve-attendance-slightly": {
+    "claims": [
+     {
+      "slug": "high-use-tutoring-center-visits-higher-persistence"
+     },
+     {
+      "slug": "home-visits-reveal-abundant-diverse-household-funds-of-knowledge"
+     },
+     {
+      "slug": "pthv-math-slight-gain-ela-no-difference"
+     },
+     {
+      "slug": "tutoring-good-standing-significant-only-one-cohort"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pthv-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "pthv-math-slight-gain-ela-no-difference": {
+    "claims": [
+     {
+      "slug": "pthv-home-visits-improve-attendance-slightly"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "pthv-program-element",
+      "strength": "W"
      }
     ]
    },
@@ -107298,6 +109264,9 @@
       "slug": "christ-davie-2009-significant-fluency-gains"
      },
      {
+      "slug": "csr-small-positive-effects-gmrt-tosrec"
+     },
+     {
       "slug": "lips-reading-fluency-potentially-positive"
      },
      {
@@ -107438,6 +109407,9 @@
      },
      {
       "slug": "read-well-potentially-positive-english-language-development"
+     },
+     {
+      "slug": "readable-english-significant-gains-over-control"
      }
     ],
     "elements": [
@@ -107466,10 +109438,58 @@
     ]
    },
    "read-well-rct-mastery-paced-core-program-implementation": {
+    "claims": [
+     {
+      "slug": "rise-teacher-favorable-implementation-ratings"
+     }
+    ],
     "elements": [
      {
       "polarity": "~",
       "slug": "read-well-reading-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "readable-english-improves-fluency-comprehension": {
+    "claims": [
+     {
+      "slug": "readable-english-significant-gains-over-control"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "readable-english-program-element",
+      "strength": "M"
+     }
+    ]
+   },
+   "readable-english-significant-gains-over-control": {
+    "claims": [
+     {
+      "slug": "corrective-reading-significant-fluency-effect"
+     },
+     {
+      "slug": "fluency-formula-negative-nonsignificant-comprehension-effect"
+     },
+     {
+      "slug": "lips-potentially-positive-comprehension-effects"
+     },
+     {
+      "slug": "read-well-no-discernible-effects-reading-achievement-ell"
+     },
+     {
+      "slug": "readable-english-improves-fluency-comprehension"
+     },
+     {
+      "slug": "reading-mastery-immediate-posttest-reading-outcomes-ell"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "readable-english-program-element",
       "strength": "W"
      }
     ]
@@ -107826,6 +109846,23 @@
      }
     ]
    },
+   "reading-horizons-discovery-dibels-positive-effect": {
+    "claims": [
+     {
+      "slug": "imse-og-plus-improves-early-literacy"
+     },
+     {
+      "slug": "once-program-improves-fastbridge-kindergarten-reading"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reading-horizons-discovery-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
    "reading-literary-fiction-improves-theory-of-mind": {
     "claims": [
      {
@@ -107965,6 +110002,9 @@
     "claims": [
      {
       "slug": "enhanced-proactive-reading-cirino-substantively-important-nonsignificant"
+     },
+     {
+      "slug": "readable-english-significant-gains-over-control"
      },
      {
       "slug": "reading-mastery-followup-word-attack-significant-ell"
@@ -108130,6 +110170,23 @@
      {
       "polarity": "~",
       "slug": "reading-plus-scaffolded-silent-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "reading-plus-significant-gains-grade-es-011": {
+    "claims": [
+     {
+      "slug": "insights-reading-growth-es-055"
+     },
+     {
+      "slug": "once-rct-no-significant-dibels-effect-low-dosage"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reading-plus-web-based-literacy-program",
       "strength": "W"
      }
     ]
@@ -111030,6 +113087,46 @@
      }
     ]
    },
+   "renzulli-learning-oral-reading-fluency-growth": {
+    "claims": [
+     {
+      "slug": "booknook-small-positive-map-reading-growth"
+     },
+     {
+      "slug": "education-corps-tutoring-improves-dibels-composite"
+     },
+     {
+      "slug": "onyourmark-virtual-tutoring-improves-dibels"
+     },
+     {
+      "slug": "renzulli-learning-single-study-promising-rating"
+     },
+     {
+      "slug": "repeated-listening-improves-oral-reading-fluency"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "renzulli-learning-platform",
+      "strength": "W"
+     }
+    ]
+   },
+   "renzulli-learning-single-study-promising-rating": {
+    "claims": [
+     {
+      "slug": "renzulli-learning-oral-reading-fluency-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "renzulli-learning-platform",
+      "strength": "W"
+     }
+    ]
+   },
    "repeated-listening-improves-oral-reading-fluency": {
     "claims": [
      {
@@ -111040,6 +113137,9 @@
      },
      {
       "slug": "mics-pre-post-no-group-differential-effect"
+     },
+     {
+      "slug": "renzulli-learning-oral-reading-fluency-growth"
      }
     ],
     "principles": [
@@ -113465,6 +115565,71 @@
      }
     ]
    },
+   "rise-average-effect-size-009": {
+    "claims": [
+     {
+      "slug": "rise-star-fast-no-difference-es-002"
+     },
+     {
+      "slug": "rise-wrcpm-fastbridge-outperformance-es-040"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "scholastic-rise-rise-up-tier-2-reading-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "rise-star-fast-no-difference-es-002": {
+    "claims": [
+     {
+      "slug": "rise-average-effect-size-009"
+     },
+     {
+      "slug": "rise-wrcpm-fastbridge-outperformance-es-040"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "scholastic-rise-rise-up-tier-2-reading-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "rise-teacher-favorable-implementation-ratings": {
+    "claims": [
+     {
+      "slug": "read-well-rct-mastery-paced-core-program-implementation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "scholastic-rise-rise-up-tier-2-reading-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "rise-wrcpm-fastbridge-outperformance-es-040": {
+    "claims": [
+     {
+      "slug": "rise-average-effect-size-009"
+     },
+     {
+      "slug": "rise-star-fast-no-difference-es-002"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "scholastic-rise-rise-up-tier-2-reading-intervention",
+      "strength": "W"
+     }
+    ]
+   },
    "rites-of-passage-socialize-and-transform-youth": {
     "claims": [
      {
@@ -113874,6 +116039,9 @@
      },
      {
       "slug": "dif-not-predictable-from-differential-response-times"
+     },
+     {
+      "slug": "education-corps-boys-gains-girls-near-zero"
      },
      {
       "slug": "likelihood-variance-greater-for-girls"
@@ -124509,6 +126677,9 @@
    "simple-solutions-spiral-review-greater-i-ready-gains": {
     "claims": [
      {
+      "slug": "classworks-il-six-point-math-advantage"
+     },
+     {
       "slug": "simple-solutions-gains-strongest-fourth-grade"
      }
     ],
@@ -126165,6 +128336,9 @@
     "claims": [
      {
       "slug": "fast-track-positive-reading-achievement-mixed-measures"
+     },
+     {
+      "slug": "onyourmark-lowest-performers-first-grade-11-benefit-most"
      },
      {
       "slug": "smart-comprehension-nonsignificant-substantive-average"
@@ -128311,6 +130485,89 @@
      }
     ]
    },
+   "spalding-aasa-upper-elementary-gains": {
+    "claims": [
+     {
+      "slug": "spalding-fastbridge-earlyreading-kindergarten-gains"
+     },
+     {
+      "slug": "spalding-struggling-readers-sustained-gains"
+     },
+     {
+      "slug": "spalding-writing-road-to-reading-whole-class-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "spalding-writing-road-to-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "spalding-fastbridge-earlyreading-kindergarten-gains": {
+    "claims": [
+     {
+      "slug": "once-program-improves-fastbridge-kindergarten-reading"
+     },
+     {
+      "slug": "spalding-aasa-upper-elementary-gains"
+     },
+     {
+      "slug": "spalding-struggling-readers-sustained-gains"
+     },
+     {
+      "slug": "spalding-writing-road-to-reading-whole-class-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "spalding-writing-road-to-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "spalding-struggling-readers-sustained-gains": {
+    "claims": [
+     {
+      "slug": "spalding-aasa-upper-elementary-gains"
+     },
+     {
+      "slug": "spalding-fastbridge-earlyreading-kindergarten-gains"
+     },
+     {
+      "slug": "spalding-writing-road-to-reading-whole-class-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "spalding-writing-road-to-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "spalding-writing-road-to-reading-whole-class-gains": {
+    "claims": [
+     {
+      "slug": "spalding-aasa-upper-elementary-gains"
+     },
+     {
+      "slug": "spalding-fastbridge-earlyreading-kindergarten-gains"
+     },
+     {
+      "slug": "spalding-struggling-readers-sustained-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "spalding-writing-road-to-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
    "spatial-contiguity-meta-analysis-36-studies": {
     "claims": [
      {
@@ -129646,6 +131903,115 @@
      }
     ]
    },
+   "springboard-summer-attendance-threshold-null": {
+    "claims": [
+     {
+      "slug": "springboard-summer-family-workshop-attendance-null"
+     },
+     {
+      "slug": "springboard-summer-gains-vary-by-starting-level"
+     },
+     {
+      "slug": "springboard-summer-outperforms-matched-comparison"
+     },
+     {
+      "slug": "springboard-summer-significant-reading-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "springboard-summer-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "springboard-summer-family-workshop-attendance-null": {
+    "claims": [
+     {
+      "slug": "springboard-summer-attendance-threshold-null"
+     },
+     {
+      "slug": "springboard-summer-outperforms-matched-comparison"
+     },
+     {
+      "slug": "springboard-summer-significant-reading-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "springboard-summer-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "springboard-summer-gains-vary-by-starting-level": {
+    "claims": [
+     {
+      "slug": "springboard-summer-attendance-threshold-null"
+     },
+     {
+      "slug": "springboard-summer-outperforms-matched-comparison"
+     },
+     {
+      "slug": "springboard-summer-significant-reading-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "springboard-summer-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "springboard-summer-outperforms-matched-comparison": {
+    "claims": [
+     {
+      "slug": "springboard-summer-attendance-threshold-null"
+     },
+     {
+      "slug": "springboard-summer-family-workshop-attendance-null"
+     },
+     {
+      "slug": "springboard-summer-gains-vary-by-starting-level"
+     },
+     {
+      "slug": "springboard-summer-significant-reading-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "springboard-summer-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "springboard-summer-significant-reading-gains": {
+    "claims": [
+     {
+      "slug": "springboard-summer-attendance-threshold-null"
+     },
+     {
+      "slug": "springboard-summer-family-workshop-attendance-null"
+     },
+     {
+      "slug": "springboard-summer-gains-vary-by-starting-level"
+     },
+     {
+      "slug": "springboard-summer-outperforms-matched-comparison"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "springboard-summer-program-element",
+      "strength": "W"
+     }
+    ]
+   },
    "sr-interventions-improve-cognitive-regulation-young-adults": {
     "claims": [
      {
@@ -130641,6 +133007,23 @@
      {
       "polarity": "+",
       "slug": "onto-semiotic-approach-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "stari-improves-word-recognition-comprehension-morphological-awareness": {
+    "claims": [
+     {
+      "slug": "morphological-instruction-improves-literacy"
+     },
+     {
+      "slug": "morphological-instruction-improves-vocabulary"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "stari-supplemental-reading-intervention",
       "strength": "W"
      }
     ]
@@ -136927,6 +139310,37 @@
      }
     ]
    },
+   "tdhs-strategic-reading-positive-reading-effect": {
+    "claims": [
+     {
+      "slug": "tdhs-teacher-survey-positive-perceptions"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tdhs-whole-school-reform-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "tdhs-teacher-survey-positive-perceptions": {
+    "claims": [
+     {
+      "slug": "lli-teacher-perceptions-positive-with-pacing-concerns"
+     },
+     {
+      "slug": "tdhs-strategic-reading-positive-reading-effect"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tdhs-whole-school-reform-model",
+      "strength": "W"
+     }
+    ]
+   },
    "te-dct-mobile-captures-nonverbal-attention-getters": {
     "claims": [
      {
@@ -142307,6 +144721,9 @@
       "slug": "high-use-tutoring-center-visits-higher-persistence"
      },
      {
+      "slug": "pthv-home-visits-improve-attendance-slightly"
+     },
+     {
       "slug": "retention-programs-meeting-all-three-needs-higher-persistence"
      },
      {
@@ -142513,6 +144930,9 @@
     "claims": [
      {
       "slug": "cap-clinic-male-predominance-constant"
+     },
+     {
+      "slug": "education-corps-boys-gains-girls-near-zero"
      },
      {
       "slug": "gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school"
@@ -145515,6 +147935,9 @@
       "slug": "embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten"
      },
      {
+      "slug": "ignite-reading-attendance-associated-gains"
+     },
+     {
       "slug": "pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet"
      }
     ]
@@ -145664,6 +148087,9 @@
    },
    "werp-hecht-close-study-design": {
     "claims": [
+     {
+      "slug": "istation-weighted-mean-008-promising"
+     },
      {
       "slug": "reading-plus-baseline-equivalence-low-achievers-only"
      },
@@ -150388,6 +152814,13 @@
      }
     ]
    },
+   "tdhs-double-dose-reading-block": {
+    "designs": [
+     {
+      "slug": "tdhs-cooperative-strategic-reading-structure"
+     }
+    ]
+   },
    "tefa-t-nine-step-troubleshooting-syntax-pattern": {
     "theories": [
      {
@@ -151217,6 +153650,11 @@
     ]
    },
    "achieve3000-five-step-literacy-routine": {
+    "elements": [
+     {
+      "slug": "stari-supplemental-reading-intervention"
+     }
+    ],
     "strategies": [
      {
       "slug": "differentiate-single-article-to-reading-level"
@@ -161196,10 +163634,26 @@
      }
     ]
    },
+   "booknook-virtual-tutoring-platform": {
+    "elements": [
+     {
+      "slug": "education-corps-high-dosage-literacy-tutoring-program"
+     },
+     {
+      "slug": "hoot-reading-online-one-to-one-literacy-tutoring"
+     },
+     {
+      "slug": "onyourmark-virtual-tutoring-program"
+     }
+    ]
+   },
    "bright-beginnings-curriculum-element": {
     "elements": [
      {
       "slug": "curiosity-corner-curriculum"
+     },
+     {
+      "slug": "curiosity-corner-prek-program"
      },
      {
       "slug": "literacy-express-curriculum"
@@ -170187,6 +172641,16 @@
      }
     ]
    },
+   "collaborative-strategic-reading-program": {
+    "elements": [
+     {
+      "slug": "csr-online-teacher-support-materials"
+     },
+     {
+      "slug": "reciprocal-teaching"
+     }
+    ]
+   },
    "collaborative-way-teaming-model": {
     "elements": [
      {
@@ -171110,6 +173574,13 @@
      }
     ]
    },
+   "csr-online-teacher-support-materials": {
+    "elements": [
+     {
+      "slug": "collaborative-strategic-reading-program"
+     }
+    ]
+   },
    "cube-tower-permutation-task-sequence": {
     "theories": [
      {
@@ -171124,13 +173595,48 @@
      }
     ]
    },
+   "curiosity-corner-cc2-whiteboard-lessons": {
+    "elements": [
+     {
+      "slug": "curiosity-corner-curriculum"
+     },
+     {
+      "slug": "curiosity-corner-prek-program"
+     }
+    ]
+   },
    "curiosity-corner-curriculum": {
     "elements": [
      {
       "slug": "bright-beginnings-curriculum-element"
      },
      {
+      "slug": "curiosity-corner-cc2-whiteboard-lessons"
+     },
+     {
+      "slug": "curiosity-corner-prek-program"
+     },
+     {
       "slug": "literacy-express-curriculum"
+     }
+    ]
+   },
+   "curiosity-corner-prek-program": {
+    "elements": [
+     {
+      "slug": "bright-beginnings-curriculum-element"
+     },
+     {
+      "slug": "curiosity-corner-cc2-whiteboard-lessons"
+     },
+     {
+      "slug": "curiosity-corner-curriculum"
+     },
+     {
+      "slug": "literacy-express-curriculum"
+     },
+     {
+      "slug": "success-for-all-whole-school-reform-model"
      }
     ]
    },
@@ -172923,6 +175429,9 @@
       "slug": "edmentum-exact-path-adaptive-program"
      },
      {
+      "slug": "imagine-math-adaptive-supplemental-math-program"
+     },
+     {
       "slug": "prek-mathematics-curriculum"
      }
     ]
@@ -173035,6 +175544,16 @@
     "elements": [
      {
       "slug": "edmentum-exact-path-adaptive-program"
+     }
+    ]
+   },
+   "education-corps-high-dosage-literacy-tutoring-program": {
+    "elements": [
+     {
+      "slug": "booknook-virtual-tutoring-platform"
+     },
+     {
+      "slug": "ignite-reading-program-element"
      }
     ]
    },
@@ -173484,6 +176003,23 @@
      },
      {
       "slug": "technology-affordances-matrix-entry-point"
+     }
+    ]
+   },
+   "everyday-intervention-absence-reports": {
+    "designs": [
+     {
+      "slug": "minimal-staffing-absence-report-programs"
+     }
+    ],
+    "elements": [
+     {
+      "slug": "powerschool-attendance-intervention-platform"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "mail-personalized-absence-reports-parents"
      }
     ]
    },
@@ -174403,6 +176939,9 @@
     "elements": [
      {
       "slug": "fast-forword-language-program"
+     },
+     {
+      "slug": "reading-plus-web-based-literacy-program"
      }
     ]
    },
@@ -175422,6 +177961,20 @@
      }
     ]
    },
+   "future-forward-literacy-intervention-program": {
+    "elements": [
+     {
+      "slug": "future-forward-program-model"
+     }
+    ]
+   },
+   "future-forward-program-model": {
+    "elements": [
+     {
+      "slug": "future-forward-literacy-intervention-program"
+     }
+    ]
+   },
    "gain-attention": {
     "elements": [
      {
@@ -176041,6 +178594,9 @@
       "slug": "lexia-reading-computerized-supplementary-phonics-program"
      },
      {
+      "slug": "reading-plus-web-based-literacy-program"
+     },
+     {
       "slug": "waterford-early-reading-level-one-curriculum"
      },
      {
@@ -176099,6 +178655,19 @@
      }
     ]
    },
+   "hoot-reading-online-one-to-one-literacy-tutoring": {
+    "elements": [
+     {
+      "slug": "booknook-virtual-tutoring-platform"
+     },
+     {
+      "slug": "ignite-reading-program-element"
+     },
+     {
+      "slug": "once-early-reading-program-element"
+     }
+    ]
+   },
    "how-it-works-lab-activity": {
     "elements": [
      {
@@ -176141,6 +178710,13 @@
     "strategies": [
      {
       "slug": "science_through_inquiry"
+     }
+    ]
+   },
+   "ican-learn-mastery-based-math-curriculum": {
+    "elements": [
+     {
+      "slug": "imagine-math-adaptive-supplemental-math-program"
      }
     ]
    },
@@ -176191,6 +178767,50 @@
     "elements": [
      {
       "slug": "if-at-scratch-off-feedback-cards"
+     }
+    ]
+   },
+   "ignite-reading-program-element": {
+    "elements": [
+     {
+      "slug": "education-corps-high-dosage-literacy-tutoring-program"
+     },
+     {
+      "slug": "hoot-reading-online-one-to-one-literacy-tutoring"
+     },
+     {
+      "slug": "once-early-reading-program-element"
+     },
+     {
+      "slug": "onyourmark-virtual-tutoring-program"
+     }
+    ]
+   },
+   "imagine-language-and-literacy-program": {
+    "elements": [
+     {
+      "slug": "imagine-math-adaptive-supplemental-math-program"
+     },
+     {
+      "slug": "reading-plus-web-based-literacy-program"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "imagine-ll-site-expert-and-professional-learning"
+     }
+    ]
+   },
+   "imagine-math-adaptive-supplemental-math-program": {
+    "elements": [
+     {
+      "slug": "dreambox-learning-adaptive-math-program"
+     },
+     {
+      "slug": "ican-learn-mastery-based-math-curriculum"
+     },
+     {
+      "slug": "imagine-language-and-literacy-program"
      }
     ]
    },
@@ -176259,6 +178879,13 @@
     "strategies": [
      {
       "slug": "train-all-literacy-block-staff-morphology-plus"
+     }
+    ]
+   },
+   "imse-og-plus-program": {
+    "elements": [
+     {
+      "slug": "reading-horizons-discovery-curriculum"
      }
     ]
    },
@@ -176951,6 +179578,20 @@
      }
     ]
    },
+   "istation-professional-learning-formats": {
+    "elements": [
+     {
+      "slug": "istation-reading-adaptive-assessment-supplemental-curriculum"
+     }
+    ]
+   },
+   "istation-reading-adaptive-assessment-supplemental-curriculum": {
+    "elements": [
+     {
+      "slug": "istation-professional-learning-formats"
+     }
+    ]
+   },
    "iteration-coefficient-sequence": {
     "principles": [
      {
@@ -177026,6 +179667,23 @@
      },
      {
       "slug": "raise_awareness_of_self-talk"
+     }
+    ]
+   },
+   "journeys-print-digital-materials": {
+    "elements": [
+     {
+      "slug": "journeys-reading-language-arts-program"
+     }
+    ]
+   },
+   "journeys-reading-language-arts-program": {
+    "elements": [
+     {
+      "slug": "journeys-print-digital-materials"
+     },
+     {
+      "slug": "voyager-universal-literacy-system-program"
      }
     ]
    },
@@ -177556,8 +180214,18 @@
      }
     ]
    },
+   "leveled-literacy-intervention-program": {
+    "elements": [
+     {
+      "slug": "leveled-literacy-intervention-system"
+     }
+    ]
+   },
    "leveled-literacy-intervention-system": {
     "elements": [
+     {
+      "slug": "leveled-literacy-intervention-program"
+     },
      {
       "slug": "reading-recovery-tutoring-program"
      }
@@ -177609,6 +180277,9 @@
      },
      {
       "slug": "curiosity-corner-curriculum"
+     },
+     {
+      "slug": "curiosity-corner-prek-program"
      },
      {
       "slug": "doors-to-discovery-curriculum-element"
@@ -178683,6 +181354,12 @@
    "once-early-reading-program-element": {
     "elements": [
      {
+      "slug": "hoot-reading-online-one-to-one-literacy-tutoring"
+     },
+     {
+      "slug": "ignite-reading-program-element"
+     },
+     {
       "slug": "reading-recovery-program-element"
      },
      {
@@ -178697,6 +181374,16 @@
     "elements": [
      {
       "slug": "reflective-journal-interview-flca-instruments"
+     }
+    ]
+   },
+   "onyourmark-virtual-tutoring-program": {
+    "elements": [
+     {
+      "slug": "booknook-virtual-tutoring-platform"
+     },
+     {
+      "slug": "ignite-reading-program-element"
      }
     ]
    },
@@ -180030,6 +182717,13 @@
     "elements": [
      {
       "slug": "simultaneity-proximity-social-skills-group-evaluation"
+     }
+    ]
+   },
+   "powerschool-attendance-intervention-platform": {
+    "elements": [
+     {
+      "slug": "everyday-intervention-absence-reports"
      }
     ]
    },
@@ -184095,6 +186789,13 @@
      }
     ]
    },
+   "pthv-program-element": {
+    "strategies": [
+     {
+      "slug": "pthv-two-visit-structure-strategy"
+     }
+    ]
+   },
    "public-display": {
     "elements": [
      {
@@ -184267,6 +186968,9 @@
     "elements": [
      {
       "slug": "read-naturally-fluency-program"
+     },
+     {
+      "slug": "stari-supplemental-reading-intervention"
      }
     ]
    },
@@ -184310,6 +187014,13 @@
      }
     ]
    },
+   "reading-horizons-discovery-curriculum": {
+    "elements": [
+     {
+      "slug": "imse-og-plus-program"
+     }
+    ]
+   },
    "reading-mastery-direct-instruction-program": {
     "elements": [
      {
@@ -184336,6 +187047,58 @@
      },
      {
       "slug": "spelling-mastery-curriculum"
+     }
+    ]
+   },
+   "reading-plus-scaffolded-silent-reading-program": {
+    "elements": [
+     {
+      "slug": "reading-plus-web-based-literacy-program"
+     }
+    ]
+   },
+   "reading-plus-technology-access-requirements": {
+    "elements": [
+     {
+      "slug": "reading-plus-training-support-system"
+     },
+     {
+      "slug": "reading-plus-web-based-literacy-program"
+     },
+     {
+      "slug": "waterford-upstart-technology-access-support"
+     }
+    ]
+   },
+   "reading-plus-training-support-system": {
+    "elements": [
+     {
+      "slug": "reading-plus-technology-access-requirements"
+     },
+     {
+      "slug": "reading-plus-web-based-literacy-program"
+     }
+    ]
+   },
+   "reading-plus-web-based-literacy-program": {
+    "elements": [
+     {
+      "slug": "fast-forword-program-element"
+     },
+     {
+      "slug": "headsprout-early-reading-curriculum"
+     },
+     {
+      "slug": "imagine-language-and-literacy-program"
+     },
+     {
+      "slug": "reading-plus-scaffolded-silent-reading-program"
+     },
+     {
+      "slug": "reading-plus-technology-access-requirements"
+     },
+     {
+      "slug": "reading-plus-training-support-system"
      }
     ]
    },
@@ -184529,6 +187292,9 @@
     "elements": [
      {
       "slug": "cognitive-strategies"
+     },
+     {
+      "slug": "collaborative-strategic-reading-program"
      },
      {
       "slug": "knowledge-building"
@@ -187315,6 +190081,9 @@
     "elements": [
      {
       "slug": "spellread-program-element"
+     },
+     {
+      "slug": "stari-supplemental-reading-intervention"
      }
     ]
    },
@@ -187409,6 +190178,19 @@
     "elements": [
      {
       "slug": "high-school-redirection-program-model"
+     }
+    ]
+   },
+   "stari-supplemental-reading-intervention": {
+    "elements": [
+     {
+      "slug": "achieve3000-five-step-literacy-routine"
+     },
+     {
+      "slug": "read-naturally-program-element"
+     },
+     {
+      "slug": "spellread-program"
      }
     ]
    },
@@ -187723,6 +190505,12 @@
     "elements": [
      {
       "slug": "circ-program-element"
+     },
+     {
+      "slug": "curiosity-corner-prek-program"
+     },
+     {
+      "slug": "tdhs-whole-school-reform-model"
      }
     ]
    },
@@ -187869,6 +190657,18 @@
     "elements": [
      {
       "slug": "ai-acumen-benchmarking-tool"
+     }
+    ]
+   },
+   "tdhs-whole-school-reform-model": {
+    "designs": [
+     {
+      "slug": "tdhs-double-dose-reading-block"
+     }
+    ],
+    "elements": [
+     {
+      "slug": "success-for-all-whole-school-reform-model"
      }
     ]
    },
@@ -189391,6 +192191,13 @@
      }
     ]
    },
+   "voyager-universal-literacy-system-program": {
+    "elements": [
+     {
+      "slug": "journeys-reading-language-arts-program"
+     }
+    ]
+   },
    "vr-learning-environment-beginning-driver-instruction": {
     "theories": [
      {
@@ -189478,6 +192285,9 @@
    },
    "waterford-upstart-technology-access-support": {
     "elements": [
+     {
+      "slug": "reading-plus-technology-access-requirements"
+     },
      {
       "slug": "waterford-upstart-program"
      }
@@ -234055,15 +236865,15 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 4175,
-  "designs": 158,
-  "elements": 924,
+  "claims": 4277,
+  "designs": 166,
+  "elements": 963,
   "learner-variables": 12,
   "methods": 38,
   "patterns": 126,
   "principles": 375,
   "processes": 18,
-  "strategies": 3298,
+  "strategies": 3328,
   "theories": 1004
  }
 }

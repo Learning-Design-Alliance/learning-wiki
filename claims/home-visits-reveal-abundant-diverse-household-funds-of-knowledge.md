@@ -67,3 +67,4 @@ Descriptive report from the Tucson project's home visits: teachers learned "how 
 - [Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related
 - [Home visits in funds of knowledge research led teachers to see culture as a dynamic process rather than only dances, food and folklore.](home-visits-shift-teacher-views-of-culture-to-dynamic-process.md) — related
 - [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related
+- [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](pthv-home-visits-improve-attendance-slightly.md) — related

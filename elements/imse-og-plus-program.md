@@ -42,7 +42,8 @@ IMSE's OG+ is "a Structured Literacy core foundational skills program based on O
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](../claims/structured-literacy-interventions-help-struggling-readers.md) [~W]
 
 ## Related Elements
-- 
+
+- [Reading Horizons Discovery K-3 foundational reading curriculum](reading-horizons-discovery-curriculum.md)
 
 ## Examples
 

@@ -55,6 +55,7 @@ Literacy Express is a preschool curriculum for three- to five-year-old children 
 - [Doors to Discovery™ preschool literacy curriculum with eight thematic units and shared literacy](doors-to-discovery-curriculum-element.md)
 - [Ready, Set, Leap!® multisensory preschool early-reading curriculum](ready-set-leap-curriculum.md)
 - [Literacy Express professional development model](literacy-express-professional-development.md)
+- [Curiosity Corner full-day prekindergarten literacy and language program](curiosity-corner-prek-program.md)
 
 ## Examples
 -

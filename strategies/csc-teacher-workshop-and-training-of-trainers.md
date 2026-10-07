@@ -43,6 +43,7 @@ The program's professional development model centers on a one-day workshop: "Tea
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
+- [Online asynchronous professional learning series completed in teams across the school year](stari-professional-learning-series.md)
 
 ## Examples
 -

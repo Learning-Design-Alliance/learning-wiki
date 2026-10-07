@@ -59,9 +59,11 @@ Reading Workshop operationalizes the finding that reading volume is a primary dr
 5. Close with a 5-minute share in which 1–2 students articulate how they applied the day's strategy, making thinking public.
 
 ## Related Strategies
+
 - [5-minute writing conferences](../strategies/5-minute_writing_conferences.md) — the writing-workshop analogue; the two structures share the mini-lesson/work/conference architecture
 - [Academic choice (planning, working, reflecting)](academic-choice-planning-working-reflecting.md) — the self-selection and goal-setting routines of workshop enact structured choice
 - [Think-aloud modeling](../strategies/think-aloud-modeling.md) — the core demonstration method inside mini-lessons
+- [Model comprehension with read-aloud/think-aloud demonstrations and strategy mini-lessons](tdhs-read-aloud-think-aloud-modeling.md)
 
 ## Examples
 - **Teachers College Reading and Writing Project (Units of Study for Teaching Reading)** — the most widely adopted commercial Reading Workshop curriculum, with sequenced unit mini-lessons and conference protocols ([https://readingandwritingproject.org](https://readingandwritingproject.org))

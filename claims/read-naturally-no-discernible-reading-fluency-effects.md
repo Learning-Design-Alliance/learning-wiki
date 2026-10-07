@@ -46,3 +46,4 @@ Randomized controlled trial (Chenault et al., 2006) reviewed under WWC standards
 - [LiPS shows potentially positive effects on reading fluency: authors found significant effects on GORT–III Reading Accuracy and Reading Rate, but WWC analyses did not confirm significance](lips-reading-fluency-potentially-positive.md) — related
 - [Christ and Davie (2009) found positive, statistically significant effects of Read Naturally® Software Edition on three reading fluency measures](christ-davie-2009-significant-fluency-gains.md) — reports the opposite
 - [The evidence base for Read Naturally® with students with learning disabilities is small: one qualifying RCT of 20 students, with 42 of 43 reviewed studies excluded](read-naturally-small-evidence-base-learning-disabilities.md) — related
+- [CSR shows small positive effects on GMRT and TOSREC with an average effect size of +0.04 across three evaluations](csr-small-positive-effects-gmrt-tosrec.md) — related

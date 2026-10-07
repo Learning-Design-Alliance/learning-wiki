@@ -13,7 +13,7 @@ grain_size: lesson
 # Emergent Curriculum
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Instructional planning is normally described as if goals and objectives are chosen by educators rather than students — but this places a real burden on everyone involved: curriculum writers must be confident their specified goals genuinely matter, teachers must motivate students toward goals the students didn't choose, and students must master objectives regardless of personal interest. Critics argue this can be a serious impediment to learning (Kohn, 2004), especially for the youngest students, who may have little patience for an agenda set entirely by others (Kohn, 1999; Seitz, 2006), and in culturally diverse classrooms, where students and families may hold legitimate but unconventional expectations about what matters to learn (Banks & Banks, 2005).
@@ -49,6 +49,7 @@ Emergent curriculum can seem, to skeptics, like a formula for curricular and man
 
 - [Constructivism](../theories/constructivism.md) [+M] — building instruction from students' own developing interests and questions is a direct application of constructivist, learner-centered planning
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W]
+- [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](../claims/co-design-tools-support-balancing-standards-and-student-interests.md) [+W] — attached 2026-10-07 from Penuel et al. (2022), which proposed "Storyline Science Curriculum Design".
 
 ## Design
 

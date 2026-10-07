@@ -59,9 +59,11 @@ Morphological analysis converts vocabulary learning from rote memorization of th
 5. Fade support: move from worked examples to independent analysis during authentic reading, consistent with [Cognitive Load Management](../principles/cognitive-load-management.md) — decomposition is a temporary scaffold, not a permanent habit.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — known morphemes serve as anchors for inferring new words
 - [Comparing Contrasting Cases](../strategies/comparing-contrasting-cases.md) — contrasting word families sharpens morpheme discrimination
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — extending a known root to a new word is analogical transfer [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
+- [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
 
 ## Examples
 - **[REWARDS](https://www.voyagersopris.com/rewards)** (Reading Excellence: Word Attack and Rate Development Strategies) — a widely used intervention teaching adolescent struggling readers to segment multisyllabic words using prefixes and suffixes.

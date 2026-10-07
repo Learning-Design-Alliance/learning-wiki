@@ -44,3 +44,4 @@ The review's synthesis pools the RCT (+0.05) and the quasi-experimental study (+
 
 ## Related Claims
 - [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](once-program-improves-fastbridge-kindergarten-reading.md) — related
+- [Across two quasi-experimental studies, Istation Reading shows a weighted mean effect size of +0.08, qualifying it for a Promising evidence rating](istation-weighted-mean-008-promising.md) — related

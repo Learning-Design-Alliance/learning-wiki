@@ -72,3 +72,4 @@ Appendix C.1 table for Torgesen et al. (2010) prints intervention mean 102.20 (1
 - [The evidence base for LiPS with students with learning disabilities is small: one RCT met WWC standards out of 31 reviewed studies](lips-evidence-base-small-one-rct.md) — related
 - [LiPS has no discernible effects on reading comprehension for students with learning disabilities](lips-no-discernible-reading-comprehension-effects.md) — reports the opposite
 - [LiPS shows potentially positive effects on math: no statistically significant effect on the WJ–R Calculation subtest, but a positive effect size of 0.30 judged substantively important](lips-potentially-positive-math-calculation.md) — related
+- [Students in the Readable English intervention group showed significant improvements in reading fluency and comprehension compared to the control group](readable-english-significant-gains-over-control.md) — related

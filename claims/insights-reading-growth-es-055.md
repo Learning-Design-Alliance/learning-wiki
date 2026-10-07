@@ -45,3 +45,4 @@ A cluster randomized controlled trial in 22 urban elementary schools during 2010
 ## Related Claims
 - [INSIGHTS students grew significantly faster than control students in math achievement (effect size +0.31)](insights-math-growth-es-031.md) — related
 - [INSIGHTS improved sustained attention relative to control (effect size +0.39)](insights-sustained-attention-es-039.md) — related
+- [Reading Plus students showed significantly greater improvements in reading proficiency than control students receiving other targeted reading instruction (effect size +0.11)](reading-plus-significant-gains-grade-es-011.md) — related

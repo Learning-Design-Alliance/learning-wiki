@@ -47,3 +47,4 @@ A randomized study with school-level random assignment examined BARR's impact on
 - [Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities](check-and-connect-reduces-dropout-staying-in-school.md) — related
 - [ALAS increases the likelihood that high-risk students stay on track to graduate on time at the end of the intervention](alas-progressing-in-school-positive-end-of-intervention.md) — related
 - [BARR is rated Strong for Math, Reading, and SEL impacts in addition to Attendance](barr-strong-math-reading-sel-ratings.md) — related
+- [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](powerschool-attendance-intervention-reduces-chronic-absenteeism.md) — related

@@ -62,6 +62,7 @@ Strengths-based reflection shifts instruction from deficit remediation toward as
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — strengths reflection identifies the prior knowledge worth activating
 - [Action Planning](action_planning.md) — the structured follow-through that turns reflection into instructional change
 - [Weekly teacher team meetings to review each student's strengths, progress, and obstacles](barr-weekly-teacher-team-meetings.md)
+- [Use Istation's teacher reports to target small-group instruction and lessons for struggling readers](istation-teacher-reports-small-group-instruction.md)
 
 ## Examples
 - A teacher identifies that a student struggles with reading comprehension but excels in visual learning; the teacher uses graphic organizers and visual aids to support comprehension of texts.

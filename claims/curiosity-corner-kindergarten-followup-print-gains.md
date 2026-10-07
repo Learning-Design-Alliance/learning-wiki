@@ -46,3 +46,7 @@ Kindergarten follow-up from the PCER Consortium (2008) randomized controlled tri
 - [Curiosity Corner shows no discernible effects on preschool print knowledge in the PCER randomized trial](curiosity-corner-no-discernible-print-knowledge-effects.md) — related
 - [Curiosity Corner shows no discernible effects on preschool math outcomes in the PCER randomized trial](curiosity-corner-no-discernible-math-effects.md) — related
 - [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related
+- [Curiosity Corner improves expressive language but not receptive language in a New Jersey cluster randomized study](curiosity-corner-expressive-language-nj-study.md) — related
+- [Curiosity Corner shows significant positive kindergarten follow-up effects on early reading and letter-word identification, averaging +0.27](curiosity-corner-kindergarten-follow-up-effects.md) — possibly the same claim (merge candidate)
+- [In the PCER study, Curiosity Corner showed non-significant positive effects on immediate reading and phonological measures](curiosity-corner-pcer-immediate-null-effects.md) — related
+- [Two cluster randomized experiments with 225 students rate Curiosity Corner as Promising with an average kindergarten follow-up effect of +0.33](curiosity-corner-promising-evidence-rating.md) — related

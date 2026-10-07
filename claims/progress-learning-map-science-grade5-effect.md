@@ -45,3 +45,6 @@ Retrospective quasi-experimental study conducted during the 2023-24 school year 
 ## Related Claims
 - [A smaller student subset showed a similar STEMscopes advantage on the NWEA MAP Growth science assessment (effect size +0.17)](stemscopes-nwea-map-similar-result.md) — related
 - [Progress Learning shows a directionally positive effect on STAAR science scores](progress-learning-staar-science-positive.md) — related
+- [Progress Learning showed statistically significant positive impacts on both NWEA MAP and STAAR math scores in Forney ISD, Texas](progress-learning-forney-map-staar-impacts.md) — related
+- [Progress Learning showed a statistically significant positive impact on NWEA MAP reading scores for Grades 3-6 in Forney ISD, Texas](progress-learning-forney-nwea-map-reading.md) — related
+- [Progress Learning showed a directionally positive but not statistically significant impact on STAAR ELA scores in Forney ISD](progress-learning-staar-ela-null.md) — related

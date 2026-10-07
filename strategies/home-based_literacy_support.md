@@ -67,6 +67,7 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 - [Parent-teacher collaboration on independent self-care tasks and patience training to promote EF](parent-teacher-collaboration-independent-tasks-patience.md)
 - [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 - [Train teachers in a structured daily Little Books routine of opening, modeling, tryouts, and closing, with whole-class introduction followed by small-group reading and individual reading](little-books-teacher-workshop-structured-routine.md)
+- [Train parents as one-on-one reading coaches through weekly family workshops](parent-reading-coach-family-workshops.md)
 
 ## Examples
 - **Dialogic reading interventions** (Whitehurst et al., 1988) — parents of preschoolers trained in interactive questioning produced significant gains in expressive language compared with controls.

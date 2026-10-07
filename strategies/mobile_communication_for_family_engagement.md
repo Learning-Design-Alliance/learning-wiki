@@ -66,6 +66,7 @@ Texting works because it lowers the cost of the school-to-family information flo
 - Positive phone calls and personalized teacher outreach — the high-touch sibling of texting; combining both channels leverages text's reach with voice's relational depth
 - Home literacy activity programs — texting is a delivery mechanism for these; York & Loeb's kindergarten program embedded weekly literacy tips in texts
 - [Escalating multi-channel contact immediately upon missed assessment, starting with SMS](escalating-multichannel-contact-missed-assessment.md)
+- [Mail parents personalized, actionable absence reports about their own student's attendance](mail-personalized-absence-reports-parents.md)
 
 ## Examples
 - **[TalkingPoints](https://www.talkingpts.org)** — two-way translated family messaging used widely in U.S. districts; families and teachers exchange texts in their own languages.
