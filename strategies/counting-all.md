@@ -61,6 +61,7 @@ Counting All embodies the developmental progression documented in [Cognitively G
 - [Derived Facts](derived-facts.md) — the strategy that eventually replaces counting entirely
 - [Concrete-Representational-Abstract](concrete-representational-abstract.md) — the instructional sequence that moves learners from counters to symbols
 - [Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words](multiple-strategies-modeling-problems.md)
+- [Teach struggling students a counting-up strategy for calculation and missing-number word problems](counting-up-strategy-tutoring.md)
 
 ## Examples
 - **Cognitively Guided Instruction classrooms** — Teachers diagnose each child's strategy (counting all vs. counting on) from problem-solving interviews and sequence word problems to prompt strategy advancement (see [CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).

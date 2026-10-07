@@ -47,3 +47,5 @@ Retrospective matched-comparison study across Massachusetts districts in 2023-24
 - [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](once-program-improves-fastbridge-kindergarten-reading.md) — related
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](booknook-small-positive-map-reading-growth.md) — related
 - [Chapter One tutoring significantly improves Fountas and Pinnell Benchmark Assessment scores (ES = +0.18)](chapter-one-fountas-pinnell-gain-ohio.md) — related
+- [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](literacy-packs-dibels-es-039-quasi-experiment.md) — related
+- [SIPPS as a Tier 2 intervention significantly improves first- and second-graders' reading skills on DIBELS (effect size +0.25)](sipps-tier2-dibels-effect-025.md) — related

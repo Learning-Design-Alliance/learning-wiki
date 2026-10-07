@@ -54,6 +54,7 @@ Reading Apprenticeship® is a professional development program that trains teach
 - [eMINTS Comprehensive Program: technology-integration professional development and coaching for teachers](emints-comprehensive-program-element.md)
 - [Reading Apprenticeship Academic Literacy (RAAL) course for struggling readers](raal-academic-literacy-course.md)
 - [Reading Apprenticeship (RA) family of secondary literacy programs](reading-apprenticeship-program-family.md)
+- [eMINTS professional development program for middle schools](emints-program-element.md)
 
 ## Examples
 -

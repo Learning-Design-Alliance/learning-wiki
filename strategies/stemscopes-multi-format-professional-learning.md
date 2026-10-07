@@ -49,6 +49,7 @@ The program offers professional development in multiple formats: "webinars, in-p
 - [Use optional professional development sessions for administrators and educators to support Imagine Math implementation](imagine-math-optional-pd-sessions.md)
 - [Support program implementation with curriculum-embedded professional learning: workshops, planning and classroom coaching, leadership walkthroughs, and student-work data analysis](lenses-professional-learning-support-strategy.md)
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
+- [Offer optional virtual or on-site professional development tailored to administrators and educators](imagine-espanol-professional-development-strategy.md)
 
 ## Examples
 -

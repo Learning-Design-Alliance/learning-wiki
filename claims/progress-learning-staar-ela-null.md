@@ -49,3 +49,4 @@ In the same Forney ISD retrospective quasi-experimental study, the STAAR ELA out
 - [Progress Learning shows a statistically significant positive effect on Grade 5 NWEA MAP science scores](progress-learning-map-science-grade5-effect.md) — related
 - [Progress Learning qualifies for a Promising evidence rating based on one quasi-experimental study](progress-learning-promising-rating-one-study.md) — a broader claim this one bears on
 - [Subgroup analyses show strongest Progress Learning effects for SPED, Hispanic, and Black students on MAP science](progress-learning-subgroup-effects-sped-hispanic-black.md) — related
+- [In the Texas RCT, Zearn Math effects on the Texas STAAR assessment were directionally positive but not statistically significant](zearn-rct-staar-not-significant.md) — related

@@ -44,3 +44,4 @@ A large two-year study of Content-Focused Coaching in an urban district in the S
 
 ## Related Claims
 - [Students using Imagine Language & Literacy in Texas grades 4-5 showed significantly greater improvement in reading skills than non-using students (ES +0.18)](imagine-ll-texas-reading-gain.md) — related
+- [Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math](pirate-math-keymath-effect-037.md) — related

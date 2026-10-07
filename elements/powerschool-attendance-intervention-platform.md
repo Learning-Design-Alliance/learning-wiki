@@ -46,6 +46,7 @@ PowerSchool Attendance Intervention is a school-family engagement tool that help
 ## Related Elements
 
 - [EveryDay Intervention Absence Reports program](everyday-intervention-absence-reports.md)
+- [PowerSchool Attendance Intervention platform](powerschool-attendance-intervention-platform-element-dc.md)
 
 ## Examples
 

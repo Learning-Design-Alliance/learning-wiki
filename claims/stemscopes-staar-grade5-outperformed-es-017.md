@@ -48,3 +48,4 @@ A 2023-24 quasi-experimental study in an urban Texas district with a matched ana
 - [STEMscopes Math students scored significantly higher on STAAR Math than comparison students in a Texas quasi-experiment (effect size +0.19)](stemscopes-math-staar-positive-quasi-experiment.md) — related
 - [A smaller student subset showed a similar STEMscopes advantage on the NWEA MAP Growth science assessment (effect size +0.17)](stemscopes-nwea-map-similar-result.md) — related
 - [Grades 6–8 students using Twig Science showed significantly greater gains on the Imagine Galileo science benchmark than matched non-using peers (effect size +0.15)](twig-science-greater-galileo-gains-middle-school.md) — related
+- [In the Texas RCT, Zearn Math effects on the Texas STAAR assessment were directionally positive but not statistically significant](zearn-rct-staar-not-significant.md) — related

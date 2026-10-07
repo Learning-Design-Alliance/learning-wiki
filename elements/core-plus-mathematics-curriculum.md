@@ -44,7 +44,8 @@ Core-Plus Mathematics is a four-year high school curriculum replacing the tradit
 - [Core-Plus Mathematics showed positive, statistically significant effects on ninth-grade ITED math and CPMP Course 1 and 2 posttest subtests after WWC adjustments](../claims/core-plus-significant-subtest-effects.md) [+W]
 
 ## Related Elements
-- 
+
+- [Core-Plus Mathematics integrated high school curriculum](core-plus-mathematics-integrated-curriculum.md)
 
 ## Examples
 -

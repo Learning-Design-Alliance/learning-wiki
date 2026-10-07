@@ -64,3 +64,4 @@ In the Denton, Ory, Glassnap, & Poggio (1976) study included in the synthesis, g
 ## Related Claims
 - [Successful use of mastery learning has powerful but mixed effects on teacher variables, including more positive attitudes, altered attributions, and reduced teaching confidence](mastery-mixed-teacher-variable-effects.md) — related
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related
+- [Teachers report the program supports student interest, confidence, and enjoyment of math](mma-teacher-survey-qualitative-findings.md) — a narrower finding that bears on this claim

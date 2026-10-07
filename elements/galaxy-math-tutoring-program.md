@@ -47,6 +47,7 @@ Galaxy Math is "a one-to-one tutoring approach for at-risk first graders" in whi
 - [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)
 - [Reading Recovery one-on-one tutoring program for struggling first-grade readers](reading-recovery-tutoring-program.md)
 - [Targeted Skills Instruction (TSI): live small-group virtual tutoring for K-12 reading and math](edmentum-tsi-virtual-small-group-tutoring.md)
+- [Early Steps one-to-one first-grade tutoring program](early-steps-one-to-one-tutoring-program.md)
 
 ## Examples
 

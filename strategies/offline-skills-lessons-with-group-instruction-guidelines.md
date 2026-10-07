@@ -37,7 +37,8 @@ The program assigns students "appropriately leveled offline skills lessons that 
 - Targeted comprehension skills remediation
 
 ## Related Strategies
-- 
+
+- [Pair online practice with offline Guided Practice materials for small group or 1:1 sessions](offline-guided-practice-pairing.md)
 
 ## Examples
 -

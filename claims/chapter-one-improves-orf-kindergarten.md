@@ -49,3 +49,4 @@ Randomized study in a large southeastern school district during 2021-22, with ki
 - [SMART® tutoring produced statistically significant positive effects on oral reading fluency on both first- and second-grade passages](smart-significant-oral-reading-fluency-effects.md) — related
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](booknook-small-positive-map-reading-growth.md) — related
 - [Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18)](lightning-squad-word-attack-significant-itt.md) — related
+- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related

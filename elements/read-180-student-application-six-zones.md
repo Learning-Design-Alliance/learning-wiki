@@ -48,7 +48,9 @@ The computerized READ 180® Student Application is one of three small-group rota
 - [READ 180® has potentially positive effects on reading fluency for adolescent readers](../claims/read-180-potentially-positive-reading-fluency.md) [+W]
 
 ## Related Elements
+
 - [Read 180 Blended Reading Intervention](read-180-blended-reading-intervention.md)
+- [READ 180 blended learning program for struggling readers in grades 4-12](read-180-blended-reading-program.md)
 
 ## Examples
 -

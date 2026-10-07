@@ -64,3 +64,4 @@ Same RCT analysis sample of 74 students. Appendix A3.1 shows effect sizes of 0.0
 ## Related Claims
 - [In a Chicago quasi-experiment, Earobics®'s overall effect was not significant, but the CTOPP Sound Matching subtest showed a significant positive effect](earobics-valliath-2002-sound-matching-significant.md) — related
 - [In an Anchorage RCT with severe differential attrition, Earobics® effects on alphabetics were not statistically significant and one subtest showed a substantively important negative effect](earobics-rehmann-2005-null-and-negative-effects.md) — related
+- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related

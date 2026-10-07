@@ -52,6 +52,7 @@ Once is a school-embedded early literacy tutoring program serving PreK through f
 - [Ignite Reading one-to-one virtual literacy tutoring program](ignite-reading-program-element.md)
 - [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
 - [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)
+- [Early Steps one-to-one first-grade tutoring program](early-steps-one-to-one-tutoring-program.md)
 
 ## Examples
 

@@ -86,3 +86,4 @@ A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 1
 - [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
 - [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
+- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related

@@ -68,3 +68,4 @@ WWC calculations for the Taylor et al. (1991) randomized controlled trial (Appen
 - [EIR® produced statistically significant positive effects on first-grade alphabetics outcomes (segmentation and blending, vowel sounds)](eir-significant-alphabetics-effects-grade1.md) — related
 - [The evidence base for EIR® is small: only one of seven reviewed studies met WWC evidence standards](eir-small-evidence-base-one-rct.md) — related
 - [The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)](core-plus-sat-math-substantively-important.md) — related
+- [Reading Go! showed positive but not statistically significant effects on reading comprehension](reading-go-comprehension-positive-not-significant.md) — related

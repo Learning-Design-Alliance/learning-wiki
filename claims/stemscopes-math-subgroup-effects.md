@@ -46,3 +46,6 @@ Subgroup analyses within the same Texas quasi-experimental study reported positi
 - [Subgroup analyses show strongest Progress Learning effects for SPED, Hispanic, and Black students on MAP science](progress-learning-subgroup-effects-sped-hispanic-black.md) — related
 - [STEMscopes Math students scored significantly higher on STAAR Math than comparison students in a Texas quasi-experiment (effect size +0.19)](stemscopes-math-staar-positive-quasi-experiment.md) — related
 - [A significantly higher percentage of STEMscopes Math students met or exceeded grade-level benchmarks (77% vs. 69%)](stemscopes-math-benchmark-percentage.md) — related
+- [iRCL effects were consistent across grades, especially pronounced in Grades 4 and 5, with significant benefits for Hispanic, Black, economically disadvantaged, English learner, and disability subgroups](irecl-grade-and-subgroup-effects.md) — related
+- [IXL Math shows significant positive impacts for Grade 3, Hispanic, special education, ELL, and low-income subgroups](ixl-math-positive-subgroup-impacts.md) — related
+- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](wraparound-ses-subgroup-gains.md) — related

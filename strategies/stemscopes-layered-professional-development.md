@@ -51,6 +51,10 @@ Implementation is supported through multiple professional development formats ra
 - [Assign a dedicated site expert and site-developed professional learning plan when implementing Imagine Language & Literacy](imagine-ll-site-expert-and-professional-learning.md)
 - [Provide initial training plus multi-year in-classroom coaching when implementing Carnegie Learning Algebra I](carnegie-learning-initial-training-plus-coaching.md)
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
+- [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
+- [Offer optional virtual or on-site professional development tailored to administrators and educators](imagine-espanol-professional-development-strategy.md)
+- [Use Curriculum Associates professional learning: introductory course, on-site development days, and free OEL digital courses](magnetic-reading-professional-learning-strategy.md)
+- [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
 
 ## Examples
 -

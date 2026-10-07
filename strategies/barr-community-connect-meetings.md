@@ -39,6 +39,7 @@ BARR includes "Community Connect meetings ... designed to implement comprehensiv
 ## Related Strategies
 
 - [Weekly teacher team meetings to review each student's strengths, progress, and obstacles](barr-weekly-teacher-team-meetings.md)
+- [Implement BARR with a dedicated coordinator, weekly teacher-team meetings, multi-year professional development, and intensive coaching](barr-implementation-strategy.md)
 
 ## Examples
 -

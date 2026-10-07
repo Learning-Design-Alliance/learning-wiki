@@ -56,9 +56,11 @@ Counting On reduces working memory demand relative to counting all by shortening
 5. Push toward decomposition and derived facts (e.g., 5 + 3 as 5 + 5 − 2) so counting remains a transitional, not terminal, strategy.
 
 ## Related Strategies
+
 - [Counting All](counting-all.md) — the precursor strategy Counting On replaces
 - [Doubles Plus One](doubles-plus-one.md) — a derived-fact strategy that typically develops after Counting On
 - [Make Ten](make-ten.md) — a decomposition strategy that supersedes counting for addends near 10
+- [Teach struggling students a counting-up strategy for calculation and missing-number word problems](counting-up-strategy-tutoring.md)
 
 ## Examples
 - **Cognitively Guided Instruction (CGI)** classrooms treat Counting On as one of several observed strategies children invent; teachers elicit and build on it rather than imposing it, following research by Carpenter and colleagues on children's mathematics ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).

@@ -50,6 +50,7 @@ The program's professional development model combines an intensive Summer Instit
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
 - [Provide initial training plus multi-year in-classroom coaching when implementing Carnegie Learning Algebra I](carnegie-learning-initial-training-plus-coaching.md)
 - [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
+- [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,5 @@ Cluster randomized controlled trial in 39 rural, high-poverty Missouri schools, 
 - [Both included studies report high-fidelity implementation of eMINTS](emints-high-fidelity-implementation.md) — related
 - [eMINTS shows no discernible effects on general literacy achievement](emints-no-discernible-literacy-effects.md) — related
 - [I CAN Learn® has no discernible effects on the mathematics test scores of eighth-grade students in primary mathematics courses](ican-learn-no-discernible-effects-eighth-grade-math.md) — related
+- [eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study](emints-math-effect-015-strong.md) — possibly the same claim (merge candidate)
+- [eMINTS shows no differences in reading outcomes compared with traditional control schools](emints-no-reading-differences.md) — related

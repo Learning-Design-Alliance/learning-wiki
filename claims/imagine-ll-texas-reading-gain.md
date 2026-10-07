@@ -66,3 +66,4 @@ The Texas matched study's printed effect size on state test outcomes was "effect
 - [Louisiana English Learners in grades 1-5 who used Imagine Language & Literacy scored significantly higher on the ELPT than matched non-users (ES +0.16)](imagine-ll-louisiana-elpt-gain.md) — related
 - [Istation users scored significantly higher on STAAR Reading than non-using schoolmates in a large urban Texas district (ES +0.10)](istation-tx-staar-reading-010.md) — related
 - [Content-Focused Coaching raises fourth and fifth graders' achievement by +0.29 compared to control groups](cfc-fourth-fifth-graders-effect-029.md) — related
+- [Imagine Español students in Grades 2–6 made significantly greater English reading gains than peers (ES +0.16)](imagine-espanol-grades-2-6-english-reading-gains.md) — related

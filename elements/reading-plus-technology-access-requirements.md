@@ -46,6 +46,7 @@ Reading Plus is designed for flexible access: it "can be accessed anytime and an
 - [Reading Plus professional development and support system](reading-plus-training-support-system.md)
 - [Technology access support for participating families](waterford-upstart-technology-access-support.md)
 - [Salesforce-based web database and online survey infrastructure for program management](experience-corps-salesforce-technology.md)
+- [Technology requirements for implementing Imagine Español](imagine-espanol-technology-requirements.md)
 
 ## Examples
 -

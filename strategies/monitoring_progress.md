@@ -64,6 +64,7 @@ Monitoring works because it converts vague intentions into concrete feedback loo
 - [Reflective Practice](reflective-practice.md) — the interpretive layer that turns monitoring data into learning
 - [Spaced Scheduling](spaced-scheduling.md) — distributed review points create natural monitoring intervals [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
 - [Use program-generated intervention reports to inform small-group instruction and one-on-one planning](pathblazer-reports-inform-small-group-instruction.md)
+- [Use data dashboards and alerts so teachers monitor progress and intervene when students struggle](dashboard-monitoring-teacher-intervention.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — a lightweight recurring monitoring ritual

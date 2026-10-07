@@ -46,6 +46,7 @@ The professional development model for Journeys begins with a "Getting Started" 
 - [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
 - [Provide initial training plus multi-year in-classroom coaching when implementing Carnegie Learning Algebra I](carnegie-learning-initial-training-plus-coaching.md)
 - [Provide refresher training after implementation begins, not only pre-adoption training](pathblazer-refresher-training-after-implementation.md)
+- [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
 
 ## Examples
 -

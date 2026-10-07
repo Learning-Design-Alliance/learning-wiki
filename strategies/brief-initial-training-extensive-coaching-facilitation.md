@@ -50,6 +50,11 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
 - [Two-tier professional development: intensive teacher training with weekly coach follow-up, plus a five-day summer institute and weekly seminars for coaches](ellm-two-tier-professional-development.md)
+- [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
+- [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
+- [Intensive trainer-led observation and feedback model for tutoring professional development](early-steps-trainer-observation-feedback-training.md)
+- [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
+- [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ BARR is "a training and coaching model that serves K–12 schools with a structu
 
 - [Community Connect meetings to coordinate out-of-school resources for students](../strategies/barr-community-connect-meetings.md)
 - [Weekly teacher team meetings to review each student's strengths, progress, and obstacles](../strategies/barr-weekly-teacher-team-meetings.md)
+- [Implement BARR with a dedicated coordinator, weekly teacher-team meetings, multi-year professional development, and intensive coaching](../strategies/barr-implementation-strategy.md)
 
 ## Key Sources
 - Building Assets Reducing Risks (BARR) program evidence summary. (2020). https://evidenceforessa.org/program/building-assets-reducing-risks-barr-attendance/

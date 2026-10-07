@@ -47,6 +47,8 @@ The page describes a multi-part professional development model intended to equip
 - [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Assign a dedicated site expert and site-developed professional learning plan when implementing Imagine Language & Literacy](imagine-ll-site-expert-and-professional-learning.md)
+- [Offer optional virtual or on-site professional development tailored to administrators and educators](imagine-espanol-professional-development-strategy.md)
+- [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
 
 ## Examples
 -

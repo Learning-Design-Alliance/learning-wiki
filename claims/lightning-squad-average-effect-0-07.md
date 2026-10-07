@@ -46,3 +46,4 @@ The same cluster randomized study (23 schools, 390 students) reports the program
 - [Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18)](lightning-squad-word-attack-significant-itt.md) — a narrower finding that bears on this claim
 - [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](lightning-squad-adequate-dose-map-grade3.md) — a narrower finding that bears on this claim
 - [Principals, site coordinators, and teachers reported strongly positive reactions to the program](lightning-squad-stakeholder-survey-positive.md) — related
+- [Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86)](early-steps-tutoring-improves-word-attack-passage-comprehension.md) — related

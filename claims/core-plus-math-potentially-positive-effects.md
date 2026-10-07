@@ -46,3 +46,5 @@ WWC synthesis of one quasi-experiment (Schoen & Hirsch, 2002) using a student ma
 - [WWC finds Cooperative Integrated Reading and Composition® has potentially positive effects on comprehension for adolescent learners (average improvement index +7 percentile points)](circ-potentially-positive-comprehension-adolescent-learners.md) — related
 - [WWC finds CIRC has potentially positive effects on general literacy achievement for adolescent learners (average improvement index +2 percentile points)](circ-potentially-positive-general-literacy-achievement.md) — related
 - [Core-Plus Mathematics showed positive, statistically significant effects on ninth-grade ITED math and CPMP Course 1 and 2 posttest subtests after WWC adjustments](core-plus-significant-subtest-effects.md) — a narrower finding that bears on this claim
+- [One of four qualifying studies found significant positive ITED outcomes for Core-Plus Mathematics](core-plus-one-of-four-studies-significant.md) — related
+- [Qualifying Core-Plus studies used within-school matching because participation was by student choice](core-plus-studies-matched-within-schools.md) — related

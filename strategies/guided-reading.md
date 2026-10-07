@@ -62,9 +62,11 @@ Guided reading operationalizes [Scaffolding](../principles/scaffolding.md) in th
 6. **Extend and fade.** Send learners to reread the text independently or with a partner, and progressively shift prompting responsibility to the reader [Fading](../elements/fading.md).
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a peer-led guided reading variant that fades teacher support into student-led strategy roles
 - [Think-Aloud](../elements/think-aloud.md) — the teacher's modeling move during the book introduction and discussion
 - [Dialogic Reading](../elements/dialogic-reading.md) — the small-group, prompt-and-respond interaction pattern applied to read-alouds with younger learners [Dialogic reading improves expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
+- [Introduce take-home decodable packs through teacher-led small-group instruction before sending them home](small-group-then-home-decodable-practice.md)
 
 ## Examples
 - **Fountas & Pinnell Benchmark Assessment System and leveled readers** ([Heinemann](https://www.heinemann.com)) — the most widely implemented guided reading system in U.S. elementary schools, with leveled texts and prompting guides

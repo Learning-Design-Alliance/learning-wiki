@@ -49,3 +49,4 @@ Randomized evaluation by Rogers & Feller (2018) in Philadelphia elementary and s
 - [A California replication across urban, suburban, and rural elementary districts also significantly reduced absences (ES=+0.10)](absence-reports-california-replication-es-010.md) — related
 - [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](absence-reports-philadelphia-rct-es-019.md) — possibly the same claim (merge candidate)
 - [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related
+- [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) — related

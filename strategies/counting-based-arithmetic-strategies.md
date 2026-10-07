@@ -59,9 +59,11 @@ Counting strategies are developmentally valuable but computationally expensive: 
 6. Introduce decomposition (make-a-ten) as problems exceed counting range, and build retrieval through spaced practice [spaced-repetition-improves-retention](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - Fact retrieval practice — the intended endpoint; counting strategies should fade as retrieval strength builds
 - Make-a-ten / decomposition strategies — the conceptual bridge out of counting
 - Number line estimation activities — ground counting sequences in spatial magnitude
+- [Teach struggling students a counting-up strategy for calculation and missing-number word problems](counting-up-strategy-tutoring.md)
 
 ## Examples
 - **Cognitively Guided Instruction (CGI)** — teachers diagnose each child's counting strategy from problem-solving interviews and sequence problems to advance strategy sophistication ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)).

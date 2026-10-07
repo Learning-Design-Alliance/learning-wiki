@@ -58,9 +58,11 @@ Blending and segmenting are the two phonemic awareness skills with the strongest
 5. **Distribute and assess**: run brief daily sessions and monitor with a 1-minute segmenting probe until learners perform accurately and rapidly [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S].
 
 ## Related Strategies
+
 - [Systematic Synthetic Phonics](../strategies/systematic-synthetic-phonics.md) — the print-side counterpart; blending and segmenting transfer directly to decoding and encoding
 - [Small-Group Phonemic Awareness Intervention](../strategies/small-group-phonemic-awareness-intervention.md) — the delivery format that maximizes individual response rates
 - [Decodable Text Reading Practice](../strategies/decodable-text-reading-practice.md) — application context where blending is exercised on connected text
+- [Deliver PA Lessons in small groups of 4-5 students with one teacher, supported by 90-minute virtual training](pa-lessons-small-group-delivery-training.md)
 
 ## Examples
 - **[Heggerty Phonemic Awareness](https://www.heggerty.org)** — published daily 10–12 minute oral lesson sequences alternating blending, segmenting, and manipulation tasks across PreK–grade 2.

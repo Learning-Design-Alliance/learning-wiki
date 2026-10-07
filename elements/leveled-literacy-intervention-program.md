@@ -52,6 +52,7 @@ LLI is a one-to-three small-group tutoring model taught by literacy specialists 
 
 - [Leveled Literacy Intervention (LLI)](leveled-literacy-intervention-system.md)
 - [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
+- [Early Steps one-to-one first-grade tutoring program](early-steps-one-to-one-tutoring-program.md)
 
 ## Examples
 

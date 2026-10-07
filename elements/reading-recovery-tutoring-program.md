@@ -54,6 +54,7 @@ Reading Recovery is "a short-term intervention that provides one-on-one tutoring
 - [Galaxy Math one-to-one tutoring program for at-risk first graders](galaxy-math-tutoring-program.md)
 - [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
 - [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)
+- [Early Steps one-to-one first-grade tutoring program](early-steps-one-to-one-tutoring-program.md)
 
 ## Examples
 -

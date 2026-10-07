@@ -66,3 +66,4 @@ Same RCT, second comparison arm. Appendix A3.1 shows effect sizes from 0.00 to 0
 - [Lexia Early Reading outperforms no supplemental instruction on kindergarten alphabetics outcomes in Gale (2006), significant by author but not WWC calculations](lexia-versus-control-kindergarten-alphabetics.md) — related
 - [In an Anchorage RCT with severe differential attrition, Earobics® effects on alphabetics were not statistically significant and one subtest showed a substantively important negative effect](earobics-rehmann-2005-null-and-negative-effects.md) — related
 - [In a Chicago quasi-experiment, Earobics®'s overall effect was not significant, but the CTOPP Sound Matching subtest showed a significant positive effect](earobics-valliath-2002-sound-matching-significant.md) — related
+- [Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls](superkids-kindergarten-effect-size-023.md) — related

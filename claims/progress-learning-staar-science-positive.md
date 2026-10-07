@@ -49,3 +49,4 @@ Same retrospective quasi-experimental study in Forney ISD (TX, 2023-24). The STA
 - [Progress Learning showed statistically significant positive impacts on both NWEA MAP and STAAR math scores in Forney ISD, Texas](progress-learning-forney-map-staar-impacts.md) — related
 - [Progress Learning showed a statistically significant positive impact on NWEA MAP reading scores for Grades 3-6 in Forney ISD, Texas](progress-learning-forney-nwea-map-reading.md) — related
 - [Progress Learning showed a directionally positive but not statistically significant impact on STAAR ELA scores in Forney ISD](progress-learning-staar-ela-null.md) — related
+- [In the Texas RCT, Zearn Math effects on the Texas STAAR assessment were directionally positive but not statistically significant](zearn-rct-staar-not-significant.md) — related

@@ -51,6 +51,8 @@ The article reports that SpellRead™ implementation is supported by "comprehens
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Two-tier professional development: intensive teacher training with weekly coach follow-up, plus a five-day summer institute and weekly seminars for coaches](ellm-two-tier-professional-development.md)
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
+- [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
+- [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
 
 ## Examples
 -

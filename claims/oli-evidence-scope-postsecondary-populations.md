@@ -44,3 +44,4 @@ The report's introduction states the population scope of the reviewed evidence. 
 - [OLI has potentially positive effects on credit accumulation and persistence among postsecondary students](oli-potentially-positive-credit-accumulation-persistence.md) — related
 - [OLI has mixed effects on academic achievement among postsecondary students](oli-mixed-effects-academic-achievement.md) — related
 - [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
+- [The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts](ogap-trial-high-poverty-urban-sample.md) — related

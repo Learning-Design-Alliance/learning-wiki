@@ -49,6 +49,10 @@ PowerUp is a literacy program for struggling and non-proficient readers in grade
 - [READ 180® blended-learning reading intervention for struggling adolescent readers](read-180-blended-reading-intervention.md)
 - [SpellRead™ small-group literacy program with three instructional phases](spellread-program.md)
 - [Pathblazer: supplemental online individualized intervention for struggling K–8 learners in mathematics and reading](pathblazer-online-intervention-element.md)
+- [AchieveLiteracy and AchieveMath curricula with explicit, research-based small-group instruction](achieve-literacy-math-curricula.md)
+- [Lexia Core5 Reading: blended, personalized fundamental literacy instruction for grades pre-K-5](lexia-core5-reading-program-element.md)
+- [Lexia English Language Development program](lexia-english-language-development-program.md)
+- [READ 180 blended learning program for struggling readers in grades 4-12](read-180-blended-reading-program.md)
 
 ## Examples
 

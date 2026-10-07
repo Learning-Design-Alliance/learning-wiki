@@ -40,6 +40,7 @@ The program's implementation model pairs classroom use with structured professio
 
 - [Implement the spiral-review supplement with existing classroom staff, teacher onboarding training, and weekly computer-based quizzes](low-staffing-spiral-review-implementation.md)
 - [Implementation Success Partnership with check-ins and training events for all staff](lexia-implementation-success-partnership.md)
+- [Support implementation with asynchronous onboarding plus ongoing data coaching and scripted lessons](capit-onboarding-data-coaching-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,6 @@ Quasi-experimental study in a large Arizona school district (2022–2024) compar
 - [Below-grade-level students in Spalding schools sustained significantly higher AASA performance through Spring 2025 (effect size +0.33), with twice the proficiency rate of comparison peers](spalding-struggling-readers-sustained-gains.md) — related
 - [Spalding's The Writing Road to Reading improves whole-class literacy achievement with an average effect size of +0.35 across one study of 1,915 students](spalding-writing-road-to-reading-whole-class-gains.md) — related
 - [Literacy First students scored higher on STAAR Grade 3 Reading in a follow-up analysis (effect size +0.21)](literacy-first-grade3-staar-follow-up.md) — related
+- [Pre-kindergarten students receiving CAPIT Reading instruction score higher on early literacy assessment than matched peers (effect size +0.19)](capit-reading-prek-literacy-es-019.md) — related
+- [In Grades K–1, Imagine Español students outperformed peers on earlyReading but the difference was not statistically significant (ES +0.13)](imagine-espanol-k1-earlyreading-nonsignificant.md) — related
+- [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](literacy-packs-dibels-es-039-quasi-experiment.md) — related

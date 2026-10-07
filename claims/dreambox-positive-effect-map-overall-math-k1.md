@@ -61,3 +61,4 @@ WWC-calculated findings table for the mathematics achievement domain: interventi
 - [The DreamBox effect on the MAP Measurement and Geometry subtest was not statistically significant after WWC multiple-comparison correction](dreambox-measurement-geometry-subtest-not-significant-after-correction.md) — related
 - [DreamBox effects on the Problem Solving, Number Sense, and Statistics and Probability subtests were not statistically significant](dreambox-problem-solving-number-sense-statistics-null.md) — related
 - [In the reviewed RCT, students averaged 21.8 hours of DreamBox usage, below the developer's recommended 90 minutes per week](dreambox-usage-21-8-hours-below-recommended-dose.md) — related
+- [Results were more robust for students meeting the usage recommendation of 30 minutes per week over a minimum of 18 weeks](iready-usage-recommendation-stronger-results.md) — related

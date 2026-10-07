@@ -47,3 +47,5 @@ A multisite randomized controlled trial in grades K-2 across 22 elementary schoo
 - [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](education-corps-tutoring-improves-dibels-composite.md) — related
 - [Passport to Literacy improves Woodcock Johnson Passage Comprehension in fourth graders (effect size +0.19)](passport-to-literacy-woodcock-johnson-passage-comprehension.md) — related
 - [SMART® tutoring produced statistically significant positive effects on oral reading fluency on both first- and second-grade passages](smart-significant-oral-reading-fluency-effects.md) — related
+- [Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86)](early-steps-tutoring-improves-word-attack-passage-comprehension.md) — related
+- [Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math](pirate-math-keymath-effect-037.md) — related

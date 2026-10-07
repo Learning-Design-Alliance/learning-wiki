@@ -49,7 +49,8 @@ Read Well® is a reading curriculum for kindergarten and first-grade students wh
 - [In the supporting RCT, Read Well® was delivered as a mastery-paced core reading program for about three months alongside a 90-minute daily literacy block](../claims/read-well-rct-mastery-paced-core-program-implementation.md) [~W]
 
 ## Related Elements
-- 
+
+- [My Reading Academy: adaptive game-based foundational reading curriculum for pre-K to grade 2](my-reading-academy-adaptive-reading-program.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ A quasi-experimental study during the 2024–2025 school year compared 638 stude
 ## Related Claims
 - [Gains from the Simple Solutions spiral-review program were strongest among fourth-grade students](simple-solutions-gains-strongest-fourth-grade.md) — related
 - [Classworks Individualized Learning users scored six points higher on spring math assessment than non-users](classworks-il-six-point-math-advantage.md) — related
+- [Symphony Math students made greater math achievement gains than district peers (effect size +0.30)](symphony-math-star-math-gains-030.md) — related

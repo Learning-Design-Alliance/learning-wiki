@@ -49,6 +49,8 @@ Imagine Language & Literacy is an adaptive supplemental program for students in 
 
 - [Imagine Math: adaptive digital supplemental mathematics program with on-demand live certified teacher support](imagine-math-adaptive-supplemental-math-program.md)
 - [Reading Plus web-based literacy program for grades 3-12+](reading-plus-web-based-literacy-program.md)
+- [Imagine Español: personalized Spanish language and literacy program for grades Pre-K–6](imagine-espanol-program-element.md)
+- [My Reading Academy: adaptive game-based foundational reading curriculum for pre-K to grade 2](my-reading-academy-adaptive-reading-program.md)
 
 ## Examples
 -

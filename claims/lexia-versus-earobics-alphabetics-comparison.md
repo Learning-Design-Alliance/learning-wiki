@@ -48,3 +48,4 @@ Randomized comparison in Gale (2006) of Lexia Early Reading versus Earobics Step
 - [In a Chicago quasi-experiment, Earobics®'s overall effect was not significant, but the CTOPP Sound Matching subtest showed a significant positive effect](earobics-valliath-2002-sound-matching-significant.md) — related
 - [Subgroup advantages for low performers and Title I students exceed full-sample effects in two qualifying studies](lexia-subgroup-advantages-low-performers-title-i.md) — related
 - [Lexia Early Reading outperforms no supplemental instruction on kindergarten alphabetics outcomes in Gale (2006), significant by author but not WWC calculations](lexia-versus-control-kindergarten-alphabetics.md) — related
+- [Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls](superkids-kindergarten-effect-size-023.md) — related

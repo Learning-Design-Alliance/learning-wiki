@@ -64,3 +64,4 @@ WWC calculations for the RWT versus regular instruction comparison on the CTOPP 
 ## Related Claims
 - [Read, Write & Type!™ shows no statistically significant alphabetics advantages over the Auditory Discrimination in Depth® comparison](rwt-no-advantage-over-auditory-discrimination-in-depth.md) — related
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
+- [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](reading-go-positive-decoding-word-reading-outcomes.md) — related

@@ -68,3 +68,5 @@ Quasi-experimental study during the 2021–2022 school year in Ohio comparing ai
 - [Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)](istation-sc-map-reading-growth-006.md) — related
 - [Reading Horizons Discovery produced a small statistically significant positive effect on DIBELS 8 composite scores in K-3 students compared to matched comparison students](reading-horizons-discovery-dibels-positive-effect.md) — related
 - [Literacy First students scored higher on STAAR Grade 3 Reading in a follow-up analysis (effect size +0.21)](literacy-first-grade3-staar-follow-up.md) — related
+- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related
+- [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](literacy-packs-dibels-es-039-quasi-experiment.md) — related
