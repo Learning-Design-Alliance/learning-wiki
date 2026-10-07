@@ -47,3 +47,6 @@ The program description states, in addition to the literacy rating, that "Future
 - [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](future-forward-family-engagement-not-scaled.md) — reports the opposite
 - [Future Forward produces statistically significant gains in foundational literacy skills in a two-year RCT](future-forward-rct-literacy-gains.md) — related
 - [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](future-forward-improves-school-attendance.md) — related
+- [FF's attendance impact was larger for Black students, male students, and students with low baseline attendance than for their comparison subgroups](ff-differential-attendance-subgroups.md) — related
+- [The family engagement component of FF did not fully scale up: only 30.2% of families were contacted at the intended frequency and no site met the fidelity threshold](ff-family-engagement-under-implementation.md) — related
+- [FF's attendance impact was greatest for Black male students, and especially Black male students with low baseline attendance](ff-intersectional-impact-black-male-low-attendance.md) — related

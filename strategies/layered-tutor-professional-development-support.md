@@ -47,6 +47,7 @@ The program sustains instructional quality through a multi-layered support syste
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Online asynchronous professional learning series completed in teams across the school year](stari-professional-learning-series.md)
 - [Provide tutors 20 hours of pre-service training plus ongoing weekly coaching and professional development](tutor-training-weekly-coaching-strategy.md)
+- [Provide at least 25 hours of targeted volunteer training, with at least half pre-service and the remainder throughout the year](experience-corps-25-hour-training-model.md)
 
 ## Examples
 -

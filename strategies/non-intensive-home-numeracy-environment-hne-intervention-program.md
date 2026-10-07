@@ -60,9 +60,11 @@ The home numeracy environment — especially the frequency of parent–child act
 5. **Follow up lightly.** Use check-ins, photos, or a simple return log to sustain engagement; refresh activities as children's skills grow.
 
 ## Related Strategies
+
 - Take-home reading programs — the literacy analogue; the same lending-library mechanics apply, and dialogic reading research shows guided parent–child interaction outperforms unstructured exposure [Dialogic reading improves children's expressive language.](../claims/dialogic-reading-improves-expressive-language.md) [+S]
 - Family math nights — the in-person modeling component of a non-intensive HNE program
 - Classroom math games — the same games used at school first, then sent home, create continuity
+- [Engage parents through home-learning packets with videos, tips, and activity suggestions](redi-parent-home-learning-packets.md)
 
 ## Examples
 - **[Bedtime Math](https://bedtimemath.org)** — A free app and book series delivering a daily short story with leveled math questions; a randomized study found gains in children's math achievement over the school year, largest for children of math-anxious parents (Berkowitz et al., 2015).

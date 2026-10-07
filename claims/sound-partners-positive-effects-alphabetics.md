@@ -52,3 +52,4 @@ The WWC's synthesis of seven studies (four RCTs meeting standards, three meeting
 - [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](spellread-potentially-positive-alphabetics.md) — related
 - [DaisyQuest has positive effects on alphabetics skills in beginning readers, per WWC synthesis of four randomized controlled trials](daisyquest-positive-effects-alphabetics.md) — related
 - [Ladders to Literacy shows potentially positive effects on alphabetics, with an average improvement index of +25 percentile points and a domain average effect size of 0.69](ladders-to-literacy-potentially-positive-alphabetics.md) — related
+- [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](sound-partners-positive-first-grade-effects-english-learners.md) — a narrower finding that bears on this claim

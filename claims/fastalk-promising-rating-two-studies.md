@@ -46,3 +46,4 @@ The evidence summary page reports an evidence rating of promising, 2 studies, 58
 - [Progress Learning qualifies for a Promising evidence rating based on one quasi-experimental study](progress-learning-promising-rating-one-study.md) — related
 - [Progress Learning earns a Promising evidence rating based on two quasi-experimental studies with an average effect size of +0.07 across 8,785 students](progress-learning-promising-rating.md) — related
 - [Across two quasi-experimental studies, Istation Reading shows a weighted mean effect size of +0.08, qualifying it for a Promising evidence rating](istation-weighted-mean-008-promising.md) — related
+- [TalkingPoints holds a Tier 3 (Promising Evidence) rating based on one study of about 30,000 students with an average effect size of +0.06](talkingpoints-tier3-promising-evidence-rating.md) — related

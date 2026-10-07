@@ -46,3 +46,6 @@ Randomized evaluation by Rogers & Feller (2018) in Philadelphia elementary and s
 - [The Absence Reports effect on absences replicates across urban, suburban, and rural elementary districts in California (ES=+0.10)](absence-reports-replication-california.md) — related
 - [Across two randomized studies totaling 38,584 students, the weighted mean effect of Absence Reports on absences is +0.16, qualifying for a Strong evidence rating](absence-reports-weighted-mean-strong-rating.md) — a broader claim this one bears on
 - [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](powerschool-attendance-intervention-reduces-chronic-absenteeism.md) — related
+- [A California replication across urban, suburban, and rural elementary districts also significantly reduced absences (ES=+0.10)](absence-reports-california-replication-es-010.md) — related
+- [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](absence-reports-philadelphia-rct-es-019.md) — possibly the same claim (merge candidate)
+- [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related

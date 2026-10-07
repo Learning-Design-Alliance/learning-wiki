@@ -68,3 +68,4 @@ As hypothesized, the treatment-by-ability interaction was non-significant on bot
 - [Polya and Dahmus methods do not differ on the problem solution criterion](no-treatment-difference-problem-solution-criterion.md) — related
 - [Cognitive apprenticeship instruction produced no significant differences from traditional instruction on post-treatment problem-solving, final, and standardized mathematics exams in community college technical mathematics](cognitive-apprenticeship-no-significant-exam-differences-technical-math.md) — related
 - [Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests](hourly-exam-differences-trigonometry-not-algebra.md) — related
+- [In a cluster randomized study across 73 high schools, Carnegie Learning students scored higher on the Algebra Proficiency Exam, with cohort effect sizes of +0.07 and +0.21](carnegie-learning-algebra-i-cluster-randomized-cohorts.md) — related

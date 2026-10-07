@@ -46,7 +46,8 @@ Odyssey® Math is a web-based mathematics program developed by Compass Learning�
 - [Wijekumar et al. (2009) finds no statistically significant difference between Odyssey® Math and comparison classrooms on grade 4 TerraNova math scores](../claims/wijekumar-2009-null-effect-odyssey-math-terranova.md) [-M]
 
 ## Related Elements
-- 
+
+- [Pathblazer: supplemental online individualized intervention for struggling K–8 learners in mathematics and reading](pathblazer-online-intervention-element.md)
 
 ## Examples
 

@@ -67,3 +67,4 @@ Quasi-experimental study during the 2021–2022 school year in Ohio comparing ai
 - [Grade 3 Really Great Reading students did not outperform non-users on the winter NWEA MAP administration](rgr-grade3-no-outperformance-map.md) — related
 - [Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)](istation-sc-map-reading-growth-006.md) — related
 - [Reading Horizons Discovery produced a small statistically significant positive effect on DIBELS 8 composite scores in K-3 students compared to matched comparison students](reading-horizons-discovery-dibels-positive-effect.md) — related
+- [Literacy First students scored higher on STAAR Grade 3 Reading in a follow-up analysis (effect size +0.21)](literacy-first-grade3-staar-follow-up.md) — related

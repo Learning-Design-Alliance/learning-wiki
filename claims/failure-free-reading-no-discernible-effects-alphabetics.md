@@ -47,3 +47,4 @@ Findings from the Torgesen et al. (2006) randomized controlled trial of 93 third
 - [The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not](voyager-study-average-effect-sizes-differ.md) — related
 - [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](sfa-positive-effects-alphabetics-k-4.md) — reports the opposite
 - [CSR shows small positive effects on GMRT and TOSREC with an average effect size of +0.04 across three evaluations](csr-small-positive-effects-gmrt-tosrec.md) — related
+- [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](redi-kindergarten-followup-faded-effects.md) — related

@@ -96,3 +96,4 @@ This National Reading Panel meta-analysis pooled 52 peer-reviewed studies (96 tr
 - [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](alignment-trained-skill-larger-effects-phonological-awareness.md) — related
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — a narrower finding that bears on this claim
 - [Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences](phonemic-segmentation-favored-over-rhyme-alliteration-yeh.md) — related
+- [RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10)](raal-significant-positive-effects.md) — related

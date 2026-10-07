@@ -46,3 +46,7 @@ Cluster randomized study across 23 schools of 390 grade 2-3 students performing 
 - [The average effect size of Tutoring with the Lightning Squad across outcome measures is +0.07](lightning-squad-average-effect-0-07.md) — a broader claim this one bears on
 - [Principals, site coordinators, and teachers reported strongly positive reactions to the program](lightning-squad-stakeholder-survey-positive.md) — related
 - [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](lightning-squad-adequate-dose-map-grade3.md) — related
+- [A2i-informed differentiated literacy instruction improves reading outcomes with an average effect size of +0.23 across three randomized-controlled studies](a2i-average-effect-size-023-strong-rating.md) — related
+- [Chapter One tutoring significantly improves Fountas and Pinnell Benchmark Assessment scores (ES = +0.18)](chapter-one-fountas-pinnell-gain-ohio.md) — related
+- [Chapter One tutoring significantly improves kindergarten students' oral reading fluency (ES = +0.23)](chapter-one-improves-orf-kindergarten.md) — related
+- [RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10)](raal-significant-positive-effects.md) — related

@@ -50,6 +50,8 @@ The Promoting Alternative THinking Strategies (PATHS) curriculum is the classroo
 
 - [Fast Track: a comprehensive, multi-component intervention program to reduce conduct problems and promote academic, behavioral, and social improvement](fast-track-comprehensive-conduct-problem-intervention.md)
 - [PATHS (Promoting Alternative THinking Strategies) emotional literacy curriculum](paths-emotional-literacy-curriculum.md)
+- [Positive Action whole-school program: structured lessons, teacher manuals, and parallel parent handbooks](positive-action-program-element.md)
+- [Preschool PATHS Curriculum promoting self-regulation and emotional control](preschool-paths-curriculum-sel-self-regulation.md)
 
 ## Examples
 

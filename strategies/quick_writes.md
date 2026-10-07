@@ -59,10 +59,12 @@ Quick Writes function as a writing-to-learn activity: composing forces learners 
 5. Reuse strong quick writes as drafts or evidence for longer informational pieces
 
 ## Related Strategies
+
 - [Exit Tickets](exit-tickets.md) — a quick write variant used specifically as end-of-class formative assessment
 - [Journaling](journaling.md) — longer-form reflective writing; quick writes trade depth for frequency
 - [Retrieval Practice](retrieval-practice.md) — quick writes are a generative retrieval format when prompts require recall from memory
 - [Summarization](summarization.md) — a common quick write prompt type with its own evidence base
+- [Use the Power 10 strategies to help students comprehend, organize, and remember information in any context](power-10-comprehension-strategies.md)
 
 ## Examples
 - **Keys to Literacy** ([keytoliteracy.com](https://www.keytoliteracy.com)) — Joan Sedita's *The Key Comprehension Routine* and content-writing trainings position quick writes as a routine content-area literacy practice; teachers use them across science, social studies, and ELA to help students process and remember information.

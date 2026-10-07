@@ -50,6 +50,8 @@ Once is a school-embedded early literacy tutoring program serving PreK through f
 - [Waterford Upstart early learning program](waterford-upstart-program.md)
 - [Hoot Reading online one-to-one literacy tutoring program](hoot-reading-online-one-to-one-literacy-tutoring.md)
 - [Ignite Reading one-to-one virtual literacy tutoring program](ignite-reading-program-element.md)
+- [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
+- [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)
 
 ## Examples
 

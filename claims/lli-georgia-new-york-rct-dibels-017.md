@@ -47,3 +47,4 @@ A randomized evaluation in which "students were randomly assigned to LLI or cont
 - [In a 2010 RCT in Georgia and New York, LLI produced a statistically significant positive effect on general reading achievement (effect size 0.35, improvement index +14)](lli-2010-rct-positive-general-reading-achievement.md) — related
 - [In the 2010 RCT, LLI showed no discernible effects on alphabetics (domain average effect size 0.13, not statistically significant)](lli-no-discernible-alphabetics-effects.md) — reports the opposite
 - [In the 2010 RCT, LLI produced a statistically significant positive effect on reading fluency for grades 1–2 (effect size 0.27, improvement index +11)](lli-2010-positive-reading-fluency.md) — related
+- [A2i-informed differentiated literacy instruction improves reading outcomes with an average effect size of +0.23 across three randomized-controlled studies](a2i-average-effect-size-023-strong-rating.md) — related

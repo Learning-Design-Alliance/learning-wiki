@@ -50,6 +50,10 @@ Reading Recovery is "a short-term intervention that provides one-on-one tutoring
 - [Leveled Literacy Intervention (LLI)](leveled-literacy-intervention-system.md)
 - [Reading Recovery® one-on-one tailored tutoring program for grade 1 students with low literacy achievement](reading-recovery-program-element.md)
 - [Once Early-Reading Program: school-embedded one-on-one structured literacy tutoring delivered by trained paraprofessionals](once-early-reading-program-element.md)
+- [Chapter One one-on-one in-class tutoring program for early literacy](chapter-one-one-on-one-tutoring-program.md)
+- [Galaxy Math one-to-one tutoring program for at-risk first graders](galaxy-math-tutoring-program.md)
+- [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
+- [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)
 
 ## Examples
 -

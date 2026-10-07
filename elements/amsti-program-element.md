@@ -45,7 +45,8 @@ AMSTI is a professional development strategy for elementary and middle school te
 - [Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies](../claims/amsti-teacher-survey-positive-perceptions.md) [+W]
 
 ## Related Elements
-- 
+
+- [Rotating materials kits supplying all hands-on math and science instructional materials](amsti-rotating-materials-kits.md)
 
 ## Examples
 

@@ -45,3 +45,5 @@ Implementation analysis of EA program data through March 2020. The average FF st
 ## Related Claims
 - [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](future-forward-family-engagement-not-scaled.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
+- [The family engagement component of FF did not fully scale up: only 30.2% of families were contacted at the intended frequency and no site met the fidelity threshold](ff-family-engagement-under-implementation.md) — related
+- [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](ff-tutoring-scale-up-success.md) — possibly the same claim (merge candidate)

@@ -46,3 +46,4 @@ Quasi-experimental study in the 2024–25 school year matching 843 Magma Math us
 - [In grades 6–8, Magma Math users outscored matched non-users but the difference was not statistically significant (effect size +0.07)](magma-math-grades-6-8-nonsignificant-advantage.md) — related
 - [Across a matched quasi-experimental evaluation of 1,686 students in grades 4–8, Magma Math showed an average effect size of +0.09, earning a Promising evidence rating](magma-math-overall-promising-rating-es-009.md) — a broader claim this one bears on
 - [Classworks Individualized Learning users scored six points higher on spring math assessment than non-users](classworks-il-six-point-math-advantage.md) — related
+- [TalkingPoints use is associated with significant math score improvements in grades 3-8](talkingpoints-significant-math-gains-grades-3-8.md) — related

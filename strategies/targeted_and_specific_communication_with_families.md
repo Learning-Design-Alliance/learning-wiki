@@ -66,6 +66,8 @@ Family engagement research consistently shows that *specific* invitations — na
 - Home visit programs — relationship-first variant for hard-to-reach families
 - Two-way translated messaging platforms — the technology-mediated variant
 - [Remove practical barriers to family participation through flexible scheduling, translation, childcare, and material supports](remove-barriers-family-participation.md)
+- [Use universally designed auto-translated two-way messaging so families need only basic text messaging](auto-translated-two-way-family-messaging.md)
+- [Personalize and differentiate family text messages to each child's developmental level](personalize-family-texts-to-developmental-level.md)
 
 ## Examples
 - **TalkingPoints** (https://talkingpts.org) — two-way translated text messaging between teachers and families, used widely in US districts with multilingual populations.

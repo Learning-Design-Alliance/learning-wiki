@@ -46,3 +46,4 @@ The article reports an implementation survey of school staff as evidence of acce
 - [The average effect size of Tutoring with the Lightning Squad across outcome measures is +0.07](lightning-squad-average-effect-0-07.md) — related
 - [Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18)](lightning-squad-word-attack-significant-itt.md) — related
 - [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](lightning-squad-adequate-dose-map-grade3.md) — related
+- [Teachers, principals, and students in the Floyd County trial responded positively to Pathblazer and would recommend it](pathblazer-positive-stakeholder-perceptions-floyd-county.md) — related

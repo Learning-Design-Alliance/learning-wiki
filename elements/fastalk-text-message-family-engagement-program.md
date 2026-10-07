@@ -46,7 +46,8 @@ FASTalk (Families and Schools Talk) is a family engagement tool that "seeks to p
 - [FASTalk holds a Promising evidence rating based on two qualifying studies averaging +0.27 across 585 students](../claims/fastalk-promising-rating-two-studies.md) [+W]
 
 ## Related Elements
-- 
+
+- [ParentPowered READY4K! family text-messaging program](parentpowered-ready4k-text-messaging-program.md)
 
 ## Examples
 

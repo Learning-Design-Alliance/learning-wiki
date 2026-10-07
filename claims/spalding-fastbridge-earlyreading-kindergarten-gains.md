@@ -47,3 +47,4 @@ Quasi-experimental study in a large Arizona school district (2022–2024) compar
 - [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](once-program-improves-fastbridge-kindergarten-reading.md) — related
 - [Below-grade-level students in Spalding schools sustained significantly higher AASA performance through Spring 2025 (effect size +0.33), with twice the proficiency rate of comparison peers](spalding-struggling-readers-sustained-gains.md) — related
 - [Spalding's The Writing Road to Reading improves whole-class literacy achievement with an average effect size of +0.35 across one study of 1,915 students](spalding-writing-road-to-reading-whole-class-gains.md) — related
+- [Literacy First students scored higher on STAAR Grade 3 Reading in a follow-up analysis (effect size +0.21)](literacy-first-grade3-staar-follow-up.md) — related

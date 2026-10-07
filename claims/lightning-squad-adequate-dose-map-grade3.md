@@ -49,3 +49,4 @@ Dose-analysis subsample of the cluster randomized study, restricted to students 
 - [The average effect size of Tutoring with the Lightning Squad across outcome measures is +0.07](lightning-squad-average-effect-0-07.md) — a broader claim this one bears on
 - [Principals, site coordinators, and teachers reported strongly positive reactions to the program](lightning-squad-stakeholder-survey-positive.md) — related
 - [Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18)](lightning-squad-word-attack-significant-itt.md) — related
+- [The Pathblazer reading component had a positive and statistically significant impact on grade 3–5 reading achievement in a one-semester cluster randomized trial](pathblazer-positive-reading-achievement-cluster-rct.md) — related

@@ -46,3 +46,4 @@ Implementation analysis of family contact data through March 2020. The typical s
 - [The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions](future-forward-tutoring-scaled-up.md) — related
 - [Future Forward holds 'Strong' evidence ratings for Family Engagement and Attendance in addition to literacy](future-forward-strong-ratings-family-engagement-attendance.md) — reports the opposite
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
+- [The family engagement component of FF did not fully scale up: only 30.2% of families were contacted at the intended frequency and no site met the fidelity threshold](ff-family-engagement-under-implementation.md) — possibly the same claim (merge candidate)

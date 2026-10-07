@@ -69,9 +69,11 @@ Blended designs outperform either mode alone when the two components are deliber
 5. **Assess and report.** Track participation and performance across both strands; gather learner feedback each cycle.
 
 ## Related Strategies
+
 - [Flipped Classroom](../patterns/flipped-classroom.md) — the most researched blended variant; inverts the content/practice split
 - [Case-Based Learning](../patterns/case-based-learning.md) — a common use of freed-up in-person time in professional education
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — pairs naturally with self-paced online modules
+- [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

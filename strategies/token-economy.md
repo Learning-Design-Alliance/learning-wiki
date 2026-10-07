@@ -57,9 +57,11 @@ Token economies reliably increase the frequency of targeted behaviors, especiall
 5. Fade systematically: delay delivery, thin the schedule, and replace tokens with natural reinforcers (praise, task interest, earned privileges) as behavior stabilizes.
 
 ## Related Strategies
+
 - [Gamification](gamification.md) — token economies are the reinforcement core of most points/badge systems
 - [Positive Reinforcement](positive-reinforcement.md) — the underlying operant mechanism tokens serve
 - [Check-Ins](../principles/check-ins.md) — regular reviews that keep token systems transparent and fair
+- [Use a themed token-reward system (moon rocks) to motivate on-task behavior during tutoring](themed-token-rewards-moon-rocks.md)
 
 ## Examples
 - **Good Behavior Game** — a well-researched group contingency in which teams earn privileges by keeping disruptive behavior below a criterion; decades of classroom trials support it [~S]

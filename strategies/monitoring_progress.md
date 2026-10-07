@@ -59,9 +59,11 @@ Monitoring works because it converts vague intentions into concrete feedback loo
 6. [Provide Feedback](../elements/provide-feedback.md) or seek it: external feedback calibrates self-judgments that drift over time
 
 ## Related Strategies
+
 - [Goal Setting](../elements/goal-setting.md) — monitoring is meaningless without a standard to monitor against
 - [Reflective Practice](reflective-practice.md) — the interpretive layer that turns monitoring data into learning
 - [Spaced Scheduling](spaced-scheduling.md) — distributed review points create natural monitoring intervals [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
+- [Use program-generated intervention reports to inform small-group instruction and one-on-one planning](pathblazer-reports-inform-small-group-instruction.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — a lightweight recurring monitoring ritual

@@ -48,6 +48,7 @@ The program's stated implementation supports are a dedicated on-site facilitator
 - [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
 - [Layered professional learning and support for teachers implementing individualized software](classworks-layered-teacher-support-strategy.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
+- [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
 
 ## Examples
 -

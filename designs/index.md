@@ -2,13 +2,13 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**166 entries** · 0 stable · 0 in review · 166 drafts
+**174 entries** · 0 stable · 0 in review · 174 drafts
 
 ---
 
 ## Draft
 
-Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [W](#letter-w) · [#](#letter-num)
+Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [W](#letter-w) · [#](#letter-num)
 
 #### A {: #letter-a }
 
@@ -54,6 +54,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### D {: #letter-d }
 
 * [Daily 10-part lesson plan in three instructional blocks with built-in review](wilson-three-block-lesson-plan-pattern.md) - The Wilson Reading System organizes each lesson into \"a daily 10-part lesson plan that builds on interaction between the teacher and student,\" divided into three blocks: parts one through five emphasize word study, pa...
+* [Daily individualized tutoring sessions with response-to-intervention progress monitoring](daily-individualized-tutoring-rti-monitoring-pattern.md) - The program's instructional design combines daily one-to-one tutoring with continuous data use.
 * [Daily supplemental small-group early-reading cycle combining repeated reading, phonemic segmentation, and guided writing](eir-daily-supplemental-reading-cycle.md) - The EIR® instructional pattern organizes supplemental early-reading instruction as short daily sessions (15–20 minutes) for the lowest-achieving students, working in groups of five to seven with the classroom teacher.
 * [Deliver Corrective Reading in small groups with sessions 4-5 days per week for optimal achievement gains](corrective-reading-small-group-4-5-days-principle.md) - The article states the program \"is most effective when taught in small groups\" and that \"Sessions should occur 4-5 days per week for optimal achievement gains\".
 * [Deliver supplemental fraction tutoring in small groups three times weekly for 12 weeks](fraction-face-off-dosage-three-times-weekly-12-weeks.md) - The developer recommends \"students use Fraction Face-Off!
@@ -63,6 +64,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### E {: #letter-e }
 
+* [ECED professional development model: institute, site visits, and monthly check-ins across two years](eced-professional-development-model.md) - ECED's professional development combines an initial institute, recurring on-site visits, and regular remote check-ins.
 * [Eight-step constructionism imagineering learning process delivered through metaverse rooms within a three-stage lesson structure](constructionism-imagineering-process-metaverse.md) - The article synthesizes an eight-step learning process from imagineering and constructionism principles: \"Imagine; start with an idea; research/explore/learn; design and write the script; create innovation; summarise...
 * [Eight-strategy pattern for overcoming ESL pronunciation challenges within the CLT framework](eight-strategies-esl-pronunciation-bangladesh.md) - The review proposes a matched set of eight strategies mirroring its eight identified challenges: a pronunciation-oriented curriculum within CLT, inclusion of pronunciation assessment, teacher preparedness through CPD,...
 * [Embodied Physics Inquiry Through Dance Improvisation](embodied-physics-inquiry-through-dance.md) - A session structure that pairs a short physics concept demonstration with dance improvisation exploring that concept, validating culturally specific movement styles as legitimate scientific expression.
@@ -82,6 +84,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Five-unit arc building classroom skills toward a community field trip and public sharing](five-unit-field-trip-arc-riparian.md) - The curriculum is organized as five sequential units of roughly two to six hours each: Get a Clear Picture, Solve the Puzzle (four science stations), Get into the Zone (a field trip), Putting the Pieces Together, and...
 * [Flexible hypertext-based online course design with hierarchical navigation and multiple representations](flexible-hypertext-course-design-pattern.md) - This pattern describes the flexible online course design the article built on cognitive flexibility hypertext theory: an e-learning process using video, PDF, images, simulations and discussion forums, organized by hie...
 * [Flexible-Individualistic PjBL: students design their own projects with separate final presentations](flexible-individualistic-pjbl-course-e.md) - Quadrant 3 (Flexible-Individualistic) PjBL, exemplified by Course E, lets each student design an individual project using emerging technologies in a shared campus production space.
+* [Focused coverage of a small number of key mathematical ideas with explicit, systematic instruction](elm-focused-key-ideas-explicit-systematic-design.md) - ELM's instructional design pattern emphasizes depth over breadth: \"The curriculum emphasizes a small number of key ideas in math to provide more focused coverage, instead of trying to teach a comprehensive but more su...
 * [Four structural features plus one instructional choice that foster a classroom community of practice in an advanced laboratory](adlab-structural-features-community-formation.md) - The article identifies four structural features of AdLab: \"Paucity of instructor time\", \"All in the room together\", \"Experiments long and hard\", and \"Same experiments at diﬀerent times\".
 * [Four types of peer collaboration embedded in a reading intervention](stari-four-types-peer-collaboration.md) - STARI was designed to promote social interactions that foster student engagement, structuring peer collaboration in four recurring formats across its units.
 * [Four-activity lesson structure combining explicit instruction, fluency games, and individual practice](fraction-face-off-four-activity-lesson-structure.md) - Each Fraction Face-Off!
@@ -151,6 +154,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### P {: #letter-p }
 
+* [Pairing social-emotional learning with interactive storybook reading and phonological awareness activities in preschool](redi-sel-plus-early-literacy-activity-mix.md) - REDI's instructional design combines an SEL curriculum with structured early-literacy activities: \"an interactive storybook reading and retelling approach, along with phonological awareness training and alphabet cente...
 * [PALS three-strategy reciprocal tutoring routine: partner reading and retelling, paragraph shrinking, and prediction relay](pals-three-strategy-reciprocal-tutoring-routine.md) - A recurring lesson-level structure in which paired students alternate tutor and tutee roles across three timed activities.
 * [Peer tutoring as a primary-prevention evidence-based practice in first-grade math](peer-tutoring-primary-prevention-math.md) - At primary prevention, the classroom teacher supplements the district curriculum with a peer-tutoring program run \"3 times per week for 30 minutes each session.\" Each session opens with teacher-led introduction or rev...
 * [Performance-objective-driven curriculum pattern pairing each stated objective with matched student activities](objective-activity-matched-curriculum-guide-pattern.md) - The guide states six lettered performance objectives (A through F) and then organizes its entire activity section objective by objective, so each activity serves a stated objective.
@@ -178,8 +182,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Scaffolding via level-gated progression and hearts in Duolingo](duolingo-scaffolding-hearts-progression.md) - The article describes Duolingo's design as scaffolding, in which learners progress into more advanced levels once they show competence at the previous level.
 * [School-community-family partnership pattern pairing tutoring dosage with regular family contact](tutoring-plus-family-engagement-partnership-pattern.md) - The program's design pattern combines a minimum tutoring dosage with structured family outreach: \"FF sites are expected to provide students with a minimum of three 30-minute tutoring sessions per week and to communica...
 * [Scripted lessons combining role-playing, cooperative learning games, small group activities, and classroom discussion](scripted-role-play-cooperative-learning-lessons.md) - The program's lesson design pattern pairs fully scripted lessons with active, participatory methods.
+* [Scripted one-to-one tutoring with fixed dosage and paraprofessional tutors](scripted-one-to-one-paraprofessional-tutoring.md) - Galaxy Math operationalizes tutoring as a scripted, fixed-dosage, one-to-one delivery model: \"The program is scripted, and tutors are expected to follow the scripts without reading them or memorizing them.\" Sessions a...
 * [Secuencia de cinco actividades que va del problema cotidiano a la construcción de un instrumento de medición](five-activity-shadow-to-sundial-sequence.md) - El patrón organiza la enseñanza en cinco actividades encadenadas: indagación introductoria sobre las sombras y la hora sin relojes; diseño de una maqueta de los arcos solares; debate histórico sobre modelos geocéntric...
 * [Semester-long reflective culture session structure for the EFL classroom](reflective-culture-session-structure-pattern.md) - The article describes a recurring learning-session structure sustained for a whole semester, combining reflective description of everyday objects, stepping out of one's \"myness\" to examine professional identity, refle...
+* [Sequenced literacy units organized around a Driving Task Prompt moving through comprehension, knowledge building, genre study, synthesis, and writing](driving-task-prompt-sequenced-literacy-journey.md) - This pattern organizes curriculum units and modules around a Driving Task Prompt within a disciplinary-literacy framework.
 * [Seven-Lesson Kindergarten Equal Sign Sequence](kindergarten-balance-scale-equal-sign-lesson-sequence.md) - Seven lessons within an 18-lesson kindergarten early algebra intervention that \"focused specifically on developing students’ understandings of mathematical equivalence and fluency with equations\".
 * [Seven-step cloud-supported innovation-creation sequence from problem specification to publication](seven-step-cloud-innovation-sequence.md) - The model's instruction process is enacted as a seven-step sequence in which the teacher specifies a problem and learners progressively plan, create, test, present, improve, and publicize innovations using cloud techn...
 * [Seven-step Maastricht PBL tutorial cycle with progressive case disclosure and group presentation](maastricht-seven-step-pbl-tutorial-cycle.md) - The course used a hybrid form of the 7-step Maastricht PBL model in which a case 'story' unfolds progressively over tutorials through 'pages' of information following a trigger scenario.
@@ -195,6 +201,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Social-constructionist collaborative writing classroom](social-constructionist-collaborative-writing-classroom.md) - In the collaborative classroom the paper describes, \"the teacher is a facilitator, setting up an environment for students to work together on all stages of the writing process\", from getting ideas through several drafts.
 * [SOL-aligned multimedia lesson sequence: key terms with images first, then short signaled sentences](sol-multimedia-lesson-sequence-eb.md) - A lesson-level design pattern the article demonstrates with an Italian fifth-grade social-studies passage: essential information is extracted from the original text and presented across slides that (a) build prior kno...
 * [Staged progression from discrete trial training to naturalistic instruction and generalization](lovaas-staged-discrete-trial-to-naturalistic-progression.md) - The Lovaas Model organizes instruction as a staged progression.
+* [Structured scope-and-sequence lesson pattern with daily 20-30 minute explicit phonics instruction](95-pcp-scope-sequence-daily-phonics-pattern.md) - The program organizes instruction around a scope and sequence of lessons per grade — 25 lessons for Kindergarten and 30 lessons for each of Grades 1-5.
 * [Student-Authored Texts for Conceptual Change](student-authored-texts-for-conceptual-change.md) - A literacy-instruction pattern in which students research a concept in voluntary groups, write individual interpretations, exchange and compare them with peers' texts and their prior knowledge, build collective concep...
 * [Successful elderly-refugee language programs incorporate more than just language learning](elderly-refugee-programs-beyond-language-learning.md) - The digest reports that language learning programs specifically for elderly refugees \"have been sparse\" and that \"Those that incorporate more than just language learning seem to be the most successful.\" Its examples p...
 * [Supplemental literacy activities designed for low preparation and integration into existing classroom routines](low-preparation-activities-within-classroom-routines.md) - The curriculum's activity format embeds supplemental skill work into ordinary classroom life.
@@ -217,6 +224,10 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Three-part unit progression: Preparing to Read, Reading and Responding, Language Arts](open-court-three-part-unit-progression.md) - Each unit of Open Court Reading© is organized into three parts in a logical progression.
 * [Three-phase sequential skill-mastery structure for remedial reading instruction](spellread-three-phase-structure.md) - SpellRead™ organizes instruction as \"140 lessons implemented in three distinct phases that interweave phonemics, phonetics, and instruction in language-based reading and writing\".
 * [Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use](tutor-led-strategies-adult-language-lessons.md) - The guide enumerates tutor-led strategies that \"enhance this particular process and make the learning more effective\": structure the learning so material is \"coherent and meaningful, with supporting interconnections m...
+
+#### U {: #letter-u }
+
+* [Use a digital platform to deliver layered scaffolding, differentiation, and ongoing formative assessment with standards-aligned rubrics](digital-platform-scaffolding-formative-assessment-principle.md) - Lenses is a hybrid program with print and digital components.
 
 #### W {: #letter-w }
 

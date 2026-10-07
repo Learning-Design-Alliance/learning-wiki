@@ -50,6 +50,8 @@ READ 180® is "a reading program designed for struggling readers who are reading
 ## Related Elements
 
 - [READ 180® Student Application with six adaptive instructional zones](read-180-student-application-six-zones.md)
+- [Lexia PowerUp Literacy: blended adaptive literacy program for struggling adolescent readers](lexia-powerup-literacy-program.md)
+- [Reading Apprenticeship Academic Literacy (RAAL) course for struggling readers](raal-academic-literacy-course.md)
 
 ## Examples
 -

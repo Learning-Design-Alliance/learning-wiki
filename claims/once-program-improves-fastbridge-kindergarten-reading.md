@@ -51,3 +51,4 @@ A quasi-experimental study in 13 schools in a large urban Tennessee district dur
 - [Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control](onyourmark-virtual-tutoring-improves-dibels.md) — related
 - [Reading Horizons Discovery produced a small statistically significant positive effect on DIBELS 8 composite scores in K-3 students compared to matched comparison students](reading-horizons-discovery-dibels-positive-effect.md) — related
 - [Kindergarteners followed into 1st grade in Spalding schools showed higher FastBridge earlyReading gains (effect size +0.21) than matched comparison peers](spalding-fastbridge-earlyreading-kindergarten-gains.md) — related
+- [Chapter One tutoring significantly improves Fountas and Pinnell Benchmark Assessment scores (ES = +0.18)](chapter-one-fountas-pinnell-gain-ohio.md) — related

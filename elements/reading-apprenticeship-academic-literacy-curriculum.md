@@ -49,6 +49,7 @@ A year-long curriculum for 9th-grade students designed to support reading achiev
 ## Related Elements
 
 - [Reading Apprenticeship® teacher professional development program](reading-apprenticeship-professional-development-program.md)
+- [Reading Apprenticeship Academic Literacy (RAAL) course for struggling readers](raal-academic-literacy-course.md)
 
 ## Examples
 -

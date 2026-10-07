@@ -85,3 +85,5 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
 - [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related
 - [Using Little Books in kindergarten produces potentially positive effects on general reading achievement, with all three delivery variations (home only, school only, and home and school) outperforming a comparison condition on the Metropolitan Readiness Test](little-books-potentially-positive-general-reading-achievement.md) — a narrower finding that bears on this claim
+- [READY4K! improves teacher-reported parental involvement at school](ready4k-improves-teacher-reported-involvement.md) — related
+- [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — a narrower finding that bears on this claim

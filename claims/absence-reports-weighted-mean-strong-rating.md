@@ -45,3 +45,6 @@ Synthesis of the two randomized evaluations reported on the page: the Philadelph
 ## Related Claims
 - [Mailing parents personalized Absence Reports significantly reduces student absences among at-risk students (ES=+0.19) in an urban randomized evaluation](absence-reports-reduce-absences-philadelphia-rct.md) — a narrower finding that bears on this claim
 - [The Absence Reports effect on absences replicates across urban, suburban, and rural elementary districts in California (ES=+0.10)](absence-reports-replication-california.md) — a narrower finding that bears on this claim
+- [A California replication across urban, suburban, and rural elementary districts also significantly reduced absences (ES=+0.10)](absence-reports-california-replication-es-010.md) — a narrower finding that bears on this claim
+- [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](absence-reports-philadelphia-rct-es-019.md) — a narrower finding that bears on this claim
+- [The weighted mean effect size across the two Absence Reports studies is +0.16, qualifying the intervention for a Strong evidence rating](absence-reports-weighted-mean-016-strong-rating.md) — possibly the same claim (merge candidate)

@@ -69,8 +69,10 @@ By externalizing the lecture's structure, these tools reduce the working-memory 
 5. Review completed organizers to check comprehension and adjust blank density for the next session.
 
 ## Related Strategies
+
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — this strategy is one concrete accommodation within that broader set
 - [Chunking](../principles/chunking.md) — the same load-reduction logic applied to content segmentation
+- [Use the Power 10 strategies to help students comprehend, organize, and remember information in any context](power-10-comprehension-strategies.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — the pre-lecture variant of the same artifact

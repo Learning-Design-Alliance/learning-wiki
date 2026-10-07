@@ -65,3 +65,4 @@ The Texas matched study's printed effect size on state test outcomes was "effect
 - [ELL users of Imagine Language & Literacy showed significantly greater growth than similar non-users on WIDA ACCESS (ES +0.14)](imagine-ll-wida-access-gain.md) — related
 - [Louisiana English Learners in grades 1-5 who used Imagine Language & Literacy scored significantly higher on the ELPT than matched non-users (ES +0.16)](imagine-ll-louisiana-elpt-gain.md) — related
 - [Istation users scored significantly higher on STAAR Reading than non-using schoolmates in a large urban Texas district (ES +0.10)](istation-tx-staar-reading-010.md) — related
+- [Content-Focused Coaching raises fourth and fifth graders' achievement by +0.29 compared to control groups](cfc-fourth-fifth-graders-effect-029.md) — related

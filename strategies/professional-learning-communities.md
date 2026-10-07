@@ -69,6 +69,7 @@ PLCs work when they shift professional learning from transmission (expert delive
 - [Instructional Coaching](instructional-coaching.md) — provides the follow-through support between team meetings
 - [Peer Observation](peer-observation.md) — extends collaboration from data to live practice
 - [Incorporate a method for identifying areas of improvement into PLC models](plc-method-identifying-improvement-areas.md)
+- [Support program implementation with curriculum-embedded professional learning: workshops, planning and classroom coaching, leadership walkthroughs, and student-work data analysis](lenses-professional-learning-support-strategy.md)
 
 ## Examples
 - **Solution Tree / DuFour model** ([solutiontree.com](https://www.solutiontree.com)) — the most widely adopted PLC framework; schools organize into course-alike or grade-level teams running assessment-analysis cycles.

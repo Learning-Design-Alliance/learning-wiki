@@ -52,6 +52,8 @@ Reading Apprenticeship® is a professional development program that trains teach
 - [Reading Apprenticeship® Academic Literacy curriculum for 9th-grade students](reading-apprenticeship-academic-literacy-curriculum.md)
 - [Project CRISS® professional development program for teachers of grades 3–12](project-criss-teacher-professional-development-program.md)
 - [eMINTS Comprehensive Program: technology-integration professional development and coaching for teachers](emints-comprehensive-program-element.md)
+- [Reading Apprenticeship Academic Literacy (RAAL) course for struggling readers](raal-academic-literacy-course.md)
+- [Reading Apprenticeship (RA) family of secondary literacy programs](reading-apprenticeship-program-family.md)
 
 ## Examples
 -

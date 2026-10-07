@@ -46,3 +46,6 @@ The WWC synthesis reports that "the average improvement index for reading compre
 - [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related
 - [Sound Partners tutoring has positive effects on reading fluency of beginning readers](sound-partners-positive-effects-fluency.md) — related
 - [CIRC has potentially positive effects on comprehension for beginning readers, with an average improvement index of +12 percentile points across two studies](circ-potentially-positive-comprehension-effects.md) — related
+- [Sound Partners outcomes for English learners persist two years later on Word Reading and Comprehension](sound-partners-outcomes-persist-two-years.md) — related
+- [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](sound-partners-positive-first-grade-effects-english-learners.md) — a narrower finding that bears on this claim
+- [Sound Partners produces significantly positive reading outcomes for English learner kindergartners (effect size +0.60)](sound-partners-positive-kindergarten-effects-english-learners.md) — related

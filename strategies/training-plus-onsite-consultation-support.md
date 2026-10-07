@@ -48,6 +48,11 @@ In the evaluated implementation, intervention teachers received 2.5 full days of
 - [Implement Curiosity Corner with two initial training workshop days plus ongoing onsite coaching and support](curiosity-corner-training-coaching-strategy.md)
 - [Brief initial training plus follow-up courses and coaching for program implementation](journeys-pd-training-coaching.md)
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
+- [Provide initial training plus multi-year in-classroom coaching when implementing Carnegie Learning Algebra I](carnegie-learning-initial-training-plus-coaching.md)
+- [Provide teachers a full day of training before starting ELM and a second full day before the second half of the program](elm-two-full-day-professional-development-strategy.md)
+- [Provide sustained developer support (training, coaching, progress reports, and rapid technical help) when implementing ITSS](itss-implementation-support-strategy.md)
+- [Provide refresher training after implementation begins, not only pre-adoption training](pathblazer-refresher-training-after-implementation.md)
+- [Support REDI implementation with brief inservice training plus weekly coaching from local consultants](redi-training-weekly-coaching-model.md)
 
 ## Examples
 -

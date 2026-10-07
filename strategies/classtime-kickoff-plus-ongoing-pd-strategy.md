@@ -50,6 +50,7 @@ The summary describes a professional development model for successful Classtime 
 - [Use optional professional development sessions for administrators and educators to support Imagine Math implementation](imagine-math-optional-pd-sessions.md)
 - [Brief initial training plus follow-up courses and coaching for program implementation](journeys-pd-training-coaching.md)
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
+- [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
 
 ## Examples
 -

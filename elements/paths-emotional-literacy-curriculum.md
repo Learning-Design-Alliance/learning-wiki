@@ -52,6 +52,7 @@ PATHS is an experimental-based emotional literacy curriculum initially designed 
 ## Related Elements
 
 - [PATHS curriculum: classroom-based social-emotional lessons delivered two to three times weekly within Fast Track](paths-curriculum-fast-track-classroom-lessons.md)
+- [Preschool PATHS Curriculum promoting self-regulation and emotional control](preschool-paths-curriculum-sel-self-regulation.md)
 
 ## Examples
 

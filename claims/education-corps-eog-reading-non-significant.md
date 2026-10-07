@@ -47,3 +47,4 @@ A secondary outcome analysis of the 163 third graders in the randomized study fo
 - [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](education-corps-tutoring-improves-dibels-composite.md) — related
 - [Education Corps tutoring gains appeared early, with a mid-year effect size of +0.17](education-corps-mid-year-gains-positive.md) — related
 - [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](lightning-squad-adequate-dose-map-grade3.md) — related
+- [Experience Corps tutoring improves reading outcomes for struggling K-3 readers, with an average effect size of +0.13 across two qualifying studies](experience-corps-average-effect-0-13.md) — related

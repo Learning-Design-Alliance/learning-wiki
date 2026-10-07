@@ -45,3 +45,4 @@ The summary's evidence rating block lists a rating of promising, one study, 9343
 ## Related Claims
 - [AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05](amsti-math-problem-solving-effect-0-05.md) — a narrower finding that bears on this claim
 - [Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-positive-perceptions.md) — related
+- [AMSTI raises math problem solving scores significantly at the student level but not at the school level, with an average effect size of +0.05](amsti-math-problem-solving-student-level-effect.md) — related

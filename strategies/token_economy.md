@@ -57,9 +57,11 @@ Token economies reliably increase the frequency of explicitly targeted behaviors
 5. Fade systematically: thin the reinforcement schedule, delay exchange, and shift to intermittent and social reinforcement as behaviors stabilize.
 
 ## Related Strategies
+
 - [Praise and specific feedback](praise-specific-feedback.md) — the verbal counterpart that should gradually replace tokens
 - [Classroom routines and procedures](establishing-routines.md) — the behaviors token economies most often target
 - [Gamification](gamification.md) — a broader motivational design that borrows token mechanics (points, badges) but adds narrative and progress structures
+- [Use a themed token-reward system (moon rocks) to motivate on-task behavior during tutoring](themed-token-rewards-moon-rocks.md)
 
 ## Examples
 - **ClassDojo** (https://www.classdojo.com) — digital points awarded for named positive behaviors, with class-wide display; teachers control criteria and visibility.
