@@ -46,3 +46,4 @@ WWC synthesis of four studies meeting standards without reservations in the comp
 - [Read Naturally® shows mixed effects on reading fluency for beginning readers (average improvement index +7 percentile points)](read-naturally-mixed-effects-reading-fluency.md) — related
 - [Read Naturally® shows no discernible effects on alphabetics for beginning readers](read-naturally-no-discernible-effects-alphabetics.md) — related
 - [Read Naturally® shows potentially positive effects on general reading achievement for beginning readers (average improvement index +10 percentile points)](read-naturally-potentially-positive-general-reading-achievement.md) — related
+- [The WWC rates PALS as having potentially positive effects on alphabetics, no discernible effects on fluency, and mixed effects on comprehension for beginning readers](pals-wwc-effectiveness-ratings-three-domains.md) — related

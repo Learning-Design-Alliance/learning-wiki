@@ -46,3 +46,4 @@ WWC-conducted synthesis across the two studies meeting standards, computing impr
 - [The WWC rates Instructional Conversations and Literature Logs as having potentially positive effects on reading achievement and English language development](ic-ll-potentially-positive-wwc-rating.md) — related
 - [Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners](fast-forword-language-potentially-positive-english-language-development.md) — related
 - [The WWC-computed average effect size for Reading Mastery on ELL reading achievement is 0.76, corresponding to an improvement index of +28 percentile points](reading-mastery-domain-average-effect-size-076.md) — related
+- [The average improvement index for PALS on reading achievement for English language learners is +12 percentile points, ranging from +5 to +25 across findings](pals-improvement-index-reading-12-percentile.md) — related

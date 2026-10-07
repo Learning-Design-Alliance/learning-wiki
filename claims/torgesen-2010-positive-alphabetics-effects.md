@@ -71,3 +71,6 @@ Appendix C.2 prints WRMT-R Word Attack means of 113.70 (12.10) for LiPS vs 99.50
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](lips-supplemental-followup-mixed-findings.md) — related
 - [Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing](phonological-awareness-training-six-studies-significance-pattern.md) — related
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
+- [LiPS has potentially negative effects on writing: comparison students significantly outperformed LiPS students on the KTEA Spelling subtest](lips-potentially-negative-writing-spelling.md) — related
+- [LiPS has potentially positive effects on alphabetics for students with learning disabilities, with statistically significant advantages on two of eight measures](lips-potentially-positive-alphabetics-learning-disabilities.md) — related
+- [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](sfa-positive-effects-alphabetics-k-4.md) — related

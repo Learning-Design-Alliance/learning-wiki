@@ -17,15 +17,15 @@ Page counts are regenerated with every index rebuild.
 | Type | Pages | Description |
 |------|-------|-------------|
 | [Principles](principles/) | 375 | Research-backed design commitments: what to do and why. |
-| [Elements](elements/) | 816 | Instructional building blocks — the components you compose into patterns. |
+| [Elements](elements/) | 876 | Instructional building blocks — the components you compose into patterns. |
 | [Patterns](patterns/) | 126 | Reusable instructional designs at the lesson or unit level. |
-| [Designs](designs/) | 135 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
-| [Strategies](strategies/) | 3,251 | Concrete teaching activity recipes — specific, implementable approaches. |
+| [Designs](designs/) | 151 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
+| [Strategies](strategies/) | 3,269 | Concrete teaching activity recipes — specific, implementable approaches. |
 | [Design Processes](processes/) | 18 | How a course gets designed — whole-process models a designer works through, rather than anything a learner meets. |
 | [Design Methods](methods/) | 38 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
-| [Theories](theories/) | 999 | Explanatory frameworks that ground principles and claims. |
+| [Theories](theories/) | 1,004 | Explanatory frameworks that ground principles and claims. |
 | [Learner Variables](learner-variables/) | 12 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
-| [Claims](claims/) | 3,794 | Empirical claims with evidence ratings, sources, and competing views. |
+| [Claims](claims/) | 4,025 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->
 

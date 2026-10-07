@@ -59,9 +59,11 @@ Fluency practice works because oral reading with feedback provides high-density 
 5. Transfer to unseen text weekly to verify generalization, not just passage mastery.
 
 ## Related Strategies
+
 - [Repeated Reading](repeated_reading.md) — the core procedure this strategy packages with modeling and feedback
 - [Paired Reading](paired_reading.md) — the partner-delivered variant with the strongest evidence base for peer implementation
 - [Vocabulary Pre-Teaching](vocabulary_pre-teaching.md) — removing word-level barriers before fluency work
+- [Pass-timing routine with four mastery criteria and repeated practice until criteria are met](read-naturally-pass-timing-criteria-routine.md)
 
 ## Examples
 - **Read Naturally** (https://www.readnaturally.com) — combines audio modeling, repeated reading, and progress graphing; widely studied in Tier 2 interventions.

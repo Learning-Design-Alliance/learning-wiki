@@ -46,3 +46,4 @@ WWC synthesis across the two CDP studies for academic achievement, reporting "Th
 - [CSC/CDP shows no discernible effects on knowledge, attitudes, and values](csc-no-discernible-kav-effects.md) — related
 - [The Child Development Project/CSC shows potentially positive effects on student behavior, with an average improvement index of +8 percentile points](csc-potentially-positive-behavior-effects.md) — related
 - [Improvement indices favor Lessons in Character across all three outcome domains, largest for academic achievement](lessons-in-character-improvement-index-all-domains.md) — related
+- [Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)](growth-mindset-potentially-positive-academic-achievement-postsecondary.md) — related

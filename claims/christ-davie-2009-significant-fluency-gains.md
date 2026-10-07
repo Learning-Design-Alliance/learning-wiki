@@ -45,3 +45,4 @@ Randomized controlled trial (Christ & Davie, 2009) in which 106 third-grade stud
 ## Related Claims
 - [Read Naturally® shows no discernible effects on alphabetics for beginning readers](read-naturally-no-discernible-effects-alphabetics.md) — related
 - [Heistad (2008) found a statistically significant positive effect of Read Naturally® on the NALT Reading measure in a matched quasi-experiment](heistad-2008-significant-nalt-reading-effect.md) — related
+- [Read Naturally® shows no discernible effects on reading fluency for students with learning disabilities, with small negative effect sizes on GORT-III accuracy and rate](read-naturally-no-discernible-reading-fluency-effects.md) — reports the opposite

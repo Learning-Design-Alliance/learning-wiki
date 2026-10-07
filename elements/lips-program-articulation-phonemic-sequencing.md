@@ -49,7 +49,9 @@ LiPS (formerly Auditory Discrimination in Depth) is a published program designed
 - [Read, Write & Type!™ shows no statistically significant alphabetics advantages over the Auditory Discrimination in Depth® comparison](../claims/rwt-no-advantage-over-auditory-discrimination-in-depth.md) [~W]
 
 ## Related Elements
-- 
+
+- [Lindamood Phoneme Sequencing® (LiPS®) program](lindamood-phoneme-sequencing-lips-program.md)
+- [Wilson Reading System: supplemental word-level decoding and spelling curriculum](wilson-reading-system-curriculum.md)
 
 ## Examples
 -

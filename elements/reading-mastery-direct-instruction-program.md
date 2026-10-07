@@ -51,6 +51,7 @@ Reading Mastery is a direct instruction program providing 'explicit, systematic 
 
 - [Enhanced Proactive Reading curriculum: 120 daily small-group lessons across five content strands](enhanced-proactive-reading-curriculum.md)
 - [Waterford Early Reading Program™: a software-based K–2 reading curriculum with three year-long levels and 15-minute individual computer sessions](waterford-early-reading-program.md)
+- [Spelling Mastery Direct Instruction spelling curriculum with phonemic, morphemic, and whole-word strategies](spelling-mastery-curriculum.md)
 
 ## Examples
 

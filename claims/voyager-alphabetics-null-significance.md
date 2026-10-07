@@ -54,3 +54,6 @@ WWC re-analysis of findings from both studies; corrections for clustering and mu
 - [The WWC found Voyager Universal Literacy System® had potentially positive effects on alphabetics for kindergarten students](voyager-potentially-positive-alphabetics.md) — related
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — related
 - [Statistically significant effects reported by the CDP studies were not statistically significant as recalculated by the WWC](wwc-recalculation-nullifies-reported-cdp-effects.md) — related
+- [LiPS has potentially positive effects on alphabetics for students with learning disabilities, with statistically significant advantages on two of eight measures](lips-potentially-positive-alphabetics-learning-disabilities.md) — reports the opposite
+- [PALS showed no statistically significant effects on near-transfer and far-transfer reading fluency for first graders](pals-fluency-no-significant-effects-first-grade.md) — related
+- [Waterford Early Reading Level One™ and Let's Begin with the Letter People® produce similar outcomes in oral language and print knowledge](waterford-versus-letter-people-similar-outcomes.md) — related

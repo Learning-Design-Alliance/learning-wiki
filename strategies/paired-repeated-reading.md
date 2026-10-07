@@ -59,9 +59,11 @@ Repeated reading works because rereading familiar text reduces word-recognition 
 6. End sessions with wide independent reading of new texts so fluency generalizes beyond the practiced passages ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - **Choral Reading** — whole-group version; lower feedback precision but useful for building prosody before pairing
 - **Reader's Theater** — performance-based repeated reading with authentic audience and expressive-reading goal
 - **Echo Reading** — teacher-led modeling variant for the weakest decoders
+- [Pass-timing routine with four mastery criteria and repeated practice until criteria are met](read-naturally-pass-timing-criteria-routine.md)
 
 ## Examples
 - **Read Naturally** (https://www.readnaturally.com) — commercial program combining audio modeling, timed repeated reading, and graphed progress monitoring; built directly on the repeated reading evidence base.

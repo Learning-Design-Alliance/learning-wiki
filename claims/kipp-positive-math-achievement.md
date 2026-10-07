@@ -1,0 +1,49 @@
+---
+type: claim
+title: KIPP charter schools have positive effects on mathematics achievement for middle and high school students
+description: KIPP charter schools have positive effects on mathematics achievement for middle and high school students
+id: kipp-positive-math-achievement
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-07
+evidence_strength: strong
+sources:
+  - id: knowledge-is-power-program-kipp-2018
+    resource: "https://ies.ed.gov/ncee/wwc/InterventionReport/688"
+    title: "Knowledge Is Power Program (KIPP). (2018). What Works Clearinghouse Intervention Report: Charter Schools. https://ies.ed.gov/ncee/wwc/InterventionReport/688"
+    author: Knowledge Is Power Program (KIPP)
+    q: 3
+    i: "?"
+    kind: quant-synthesis
+    rigour: 2
+---
+
+# KIPP charter schools have positive effects on mathematics achievement for middle and high school students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+
+## Subclaims
+`q3 i?` Across four studies including 19,542 students, KIPP had positive effects on mathematics achievement, with an average improvement index of +12 percentile points (range +7 to +20). [→ Knowledge Is Power Program (KIPP) 2018](#knowledge-is-power-program-kipp-2018)
+
+## Evidence
+
+### Knowledge Is Power Program (KIPP) 2018
+
+Knowledge Is Power Program (KIPP). (2018). What Works Clearinghouse Intervention Report: Charter Schools. https://ies.ed.gov/ncee/wwc/InterventionReport/688
+
+`q3 · i?` · `quant-synthesis · r2`
+
+WWC systematic review of four studies meeting group design standards. Table 1 reports mathematics achievement rated "Positive effects" with average improvement index +12, range +7 to +20, from "4" studies including "19,542" students; extent of evidence medium to large. No standardized effect size is printed, so impact is null.
+
+> "KIPP had positive effects on mathematics achievement and English language arts achievement, and potentially positive effects on science achievement and social studies achievement for middle and high school students"
+
+## Discussion
+
+
+## Related Claims
+- [KIPP charter schools have potentially positive effects on social studies achievement, with mixed study findings](kipp-mixed-social-studies.md) — related
+- [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — related
+- [KIPP charter schools have potentially positive effects on science achievement for middle and high school students](kipp-potentially-positive-science.md) — related
+- [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — a narrower finding that bears on this claim

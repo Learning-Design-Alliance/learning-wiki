@@ -69,6 +69,7 @@ Other common item-writing mistakes cut across formats: unclear wording (leaving 
 - [Constructed-Response Assessment Items](constructed-response-assessment-items.md) — the complementary item family for goals selected-response can't reach
 - [Developmental checklists for one-to-one correspondence, classification, and seriation as teacher assessment and curriculum-planning tools](preschool-math-development-checklists.md)
 - [Traditional multiple-choice test item structure: stem, alternatives, and plausible distractors](traditional-mc-item-stem-alternatives-distractors.md)
+- [Sound unit test outcome measure for the TEEMSS evaluation](teemss-sound-unit-test-measure.md)
 
 ## Examples
 - A true-false item testing whether "the U.S. Civil War Battle of Fort Sumter" occurred before or after a listed date, versus a poorly-worded version bundling two separate historical claims into one statement

@@ -59,10 +59,12 @@ Tiering operationalizes instruction within each learner's zone of proximal devel
 5. Bring tiers back together for shared discussion or synthesis so all students encounter the full range of thinking.
 
 ## Related Strategies
+
 - [Choice Boards](../elements/choice-boards.md) — a student-agency variant where learners select their own tier
 - [Adaptive Mastery Learning](../elements/adaptive-mastery-learning.md) — algorithmic tiering in digital platforms
 - [Scaffolding](../principles/scaffolding.md) — the primary dimension along which tiers typically vary
 - [Formative Assessment](../principles/assessment-for-learning.md) — supplies the evidence that drives tier placement
+- [Differentiate one shared article to each student's reading level rather than assigning varied texts](differentiate-single-article-to-reading-level.md)
 
 ## Examples
 - **Parallel math tasks (Marilyn Burns / NCTM tradition)**: all students investigate the same relationship (e.g., patterns in perimeter), with tiers offering manipulatives and sentence frames, open investigation, or a generalization-and-proof challenge.

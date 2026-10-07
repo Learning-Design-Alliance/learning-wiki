@@ -69,3 +69,6 @@ Appendix C.1 table for Torgesen et al. (2010) prints intervention mean 102.20 (1
 - [In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program](torgesen-2010-positive-alphabetics-effects.md) — related
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](lips-supplemental-followup-mixed-findings.md) — related
 - [The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners](reading-mastery-potentially-positive-effects-ell-reading.md) — related
+- [The evidence base for LiPS with students with learning disabilities is small: one RCT met WWC standards out of 31 reviewed studies](lips-evidence-base-small-one-rct.md) — related
+- [LiPS has no discernible effects on reading comprehension for students with learning disabilities](lips-no-discernible-reading-comprehension-effects.md) — reports the opposite
+- [LiPS shows potentially positive effects on math: no statistically significant effect on the WJ–R Calculation subtest, but a positive effect size of 0.30 judged substantively important](lips-potentially-positive-math-calculation.md) — related

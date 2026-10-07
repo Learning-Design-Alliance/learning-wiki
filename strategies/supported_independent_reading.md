@@ -61,9 +61,11 @@ Independent reading works as a strategy only when it functions as *supported pra
 5. **Apply and share.** Close with a brief share session where students [apply](../elements/application-of-knowledge.md) the mini-lesson strategy and recommend books to classmates.
 
 ## Related Strategies
+
 - Guided reading — the instructional counterpart; SIR is where guided-reading strategies are independently applied
 - Read-aloud and shared reading — provide the modeled comprehension talk that SIR practice consolidates
 - Reading workshop — the larger instructional structure that houses SIR
+- [Implement Accelerated Reader as a daily reading practice block with level-matched book selection and quiz-based teacher monitoring](accelerated-reader-implementation-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — SIR is distributed, self-selected reading practice; volume is the mechanism

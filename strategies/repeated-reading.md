@@ -60,8 +60,10 @@ Repeated reading builds fluency by strengthening the orthographic representation
 7. Rotate to a new passage at a slightly higher difficulty as criteria are consistently met ([Adaptive Difficulty](../elements/adaptive-difficulty.md)).
 
 ## Related Strategies
+
 - Wide independent reading — the long-term complement; repeated reading builds specific word automaticity, volume of reading builds breadth
 - Vocabulary preteaching — reduces decoding and meaning failures during rereading
+- [Pass-timing routine with four mastery criteria and repeated practice until criteria are met](read-naturally-pass-timing-criteria-routine.md)
 
 ## Examples
 - **[Read Naturally](https://www.readnaturally.com)** — implements the full sequence: audio modeling, timed repeated readings, graphs of words-correct-per-minute, and comprehension questions.

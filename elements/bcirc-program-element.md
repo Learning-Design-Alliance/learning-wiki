@@ -49,7 +49,8 @@ BCIRC is an adaptation of the Cooperative Integrated Reading and Composition (CI
 - [In a five-year quasi-experimental study, the intervention program showed a statistically significant positive effect on fifth-grade reading performance assessment but not on the CTBS Reading subtest](../claims/ic-ll-longitudinal-reading-quasi-experiment.md) [~W]
 
 ## Related Elements
-- 
+
+- [Cooperative Integrated Reading and Composition® (CIRC) reading and writing program](circ-reading-writing-program.md)
 
 ## Examples
 -

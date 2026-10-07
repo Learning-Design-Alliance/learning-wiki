@@ -42,7 +42,7 @@ This whole-school design pattern converts one existing, underperforming public h
 - [Green Dot Attendance Year Four Only](../claims/green-dot-attendance-year-four-only.md) [+M]
 
 ## Related Designs
-- [Green Dot Six Principle Charter Model](green-dot-six-principle-charter-model.md)
+- [Green Dot Six Principle Charter Model](../elements/green-dot-six-principle-charter-model.md)
 
 ## Examples
 -

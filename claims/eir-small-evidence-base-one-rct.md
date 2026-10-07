@@ -47,3 +47,4 @@ The WWC report's research section states that "Seven studies reviewed by the WWC
 - [EIR® produced statistically significant positive effects on first-grade alphabetics outcomes (segmentation and blending, vowel sounds)](eir-significant-alphabetics-effects-grade1.md) — related
 - [EIR® showed large alphabetics effect sizes and improvement indices of +29 to +42 percentile points in the one qualifying study](eir-alphabetics-effect-sizes-improvement-index.md) — related
 - [The evidence base for SMART® is a single small-extent RCT, capping the intervention rating at potentially positive effects](smart-evidence-base-single-small-rct.md) — related
+- [The evidence base for Open Court Reading© is thin: of 185 identified studies, only two met WWC group design standards, and none met standards for alphabetics or reading fluency](open-court-reading-small-evidence-base-two-domains-uncovered.md) — related

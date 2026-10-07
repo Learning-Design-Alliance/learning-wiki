@@ -63,6 +63,7 @@ Mastery learning operationalizes the assumption that most learners can master mo
 - [Direct Instruction](direct-instruction.md) — often combined, since tightly scripted lessons pair well with criterion-referenced checks
 - [Flipped Classroom](flipped-classroom.md) — frees class time for the corrective-practice cycle that mastery requires
 - [Advance register-graded sequencing, distributed repetition and adaptive pacing as hypotheses for classroom testing](register-graded-distributed-repetition-hypotheses.md)
+- [Exit students from tutoring once they consistently read at the average level for their grade](exit-tutoring-at-grade-level-consistency.md)
 
 ## Examples
 - **Bloom's "Learning for Mastery" (LFM)** — the classic group-based implementation: teach, check, correct in small groups, reassess with alternate forms.

@@ -70,6 +70,7 @@ Role play is a form of [Active Learning](../principles/active-learning.md) groun
 - [Simulation](../elements/simulation.md) — the broader family of experiential enactment strategies
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 - [Tutor–student co-enactment: distribute or co-operate the control devices, negotiate leadership silently, and progressively hand over agency until the student solo-enacts](tutor-coenactment-fading-dynamical-scaffold.md)
+- [Prepare teachers through modeled, role-played practice with critique until they master the scripted instructional procedures](role-play-teacher-training-scripted-spelling-programs.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling a skilled enactment before learners attempt their own

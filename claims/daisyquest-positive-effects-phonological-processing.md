@@ -55,3 +55,5 @@ WWC synthesis of two randomized controlled trials (Foster et al., 1994; Lonigan 
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' phonological processing](pat-lk-potentially-positive-phonological-processing.md) — related
 - [Phonological Awareness Training has positive effects on phonological processing in preschool children, averaging +27 percentile points](phonological-awareness-training-positive-effects-phonological-processing.md) — related
 - [Ready, Set, Leap!® has no significant effect on preschool phonological processing (domain average effect size 0.06)](ready-set-leap-null-phonological-processing.md) — related
+- [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related
+- [STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points](stella-potentially-positive-science-achievement.md) — related

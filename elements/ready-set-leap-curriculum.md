@@ -52,7 +52,8 @@ Ready, Set, Leap!® is a preschool curriculum focusing on "early reading skills,
 - [Ready, Set, Leap!® has no significant effect on preschool print knowledge (domain average effect size 0.06)](../claims/ready-set-leap-null-print-knowledge.md) [-W]
 
 ## Related Elements
-- 
+
+- [Literacy Express preschool curriculum](literacy-express-curriculum.md)
 
 ## Examples
 

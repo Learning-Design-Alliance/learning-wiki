@@ -50,3 +50,4 @@ In the randomized controlled trial's comprehension domain, the word comprehensio
 - [After one year of SMART® intervention, only the fluency outcome was statistically significant, while alphabetics and comprehension effects were not](smart-one-year-interim-mixed-significance.md) — related
 - [SMART® tutoring produced statistically significant positive effects on oral reading fluency on both first- and second-grade passages](smart-significant-oral-reading-fluency-effects.md) — related
 - [SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention](smart-significant-word-identification-effect.md) — related
+- [Read Naturally® shows potentially positive effects on writing for students with learning disabilities, with a substantively important but non-significant effect size on the WIAT Written Expression subtest](read-naturally-potentially-positive-writing-effects.md) — related

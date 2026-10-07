@@ -45,3 +45,4 @@ The PCER Consortium (2008) randomized trial (14 classrooms, 198 children) assess
 - [Curiosity Corner shows no discernible effects on preschool math outcomes in the PCER randomized trial](curiosity-corner-no-discernible-math-effects.md) — related
 - [Bright Beginnings shows no discernible effects on preschool oral language (domain average effect size 0.15, not statistically significant)](bright-beginnings-null-oral-language.md) — related
 - [Bright Beginnings shows a substantively important positive effect on the TERA-3 print knowledge measure (effect size 0.32) but no discernible effect on the print knowledge domain overall](bright-beginnings-print-knowledge-tera3-mixed.md) — related
+- [Doors to Discovery™ shows no discernible effects on preschool math (domain-average effect size 0.01)](doors-to-discovery-no-discernible-math-effects.md) — related

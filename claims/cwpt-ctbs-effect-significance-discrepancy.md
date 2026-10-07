@@ -48,3 +48,4 @@ Randomized controlled trial with 218 sixth-grade students in six schools; Append
 - [EIR® had a positive, substantively important but statistically non-significant effect on first-grade reading comprehension](eir-comprehension-substantively-important-ns.md) — related
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — a broader claim this one bears on
 - [Statistically significant effects reported by the CDP studies were not statistically significant as recalculated by the WWC](wwc-recalculation-nullifies-reported-cdp-effects.md) — related
+- [Nunnery and Ross (2007) reported significant grade 5 but not grade 8 TAAS effects, which were non-significant in WWC recalculation](nunnery-ross-taas-grade5-significant-wwc-recalculation-null.md) — related

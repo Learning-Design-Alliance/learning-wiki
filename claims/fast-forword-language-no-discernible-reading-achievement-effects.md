@@ -44,3 +44,4 @@ Quasi-experimental study meeting WWC standards with reservations, including 191 
 
 ## Related Claims
 - [Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners](fast-forword-language-potentially-positive-english-language-development.md) — related
+- [Read Well® shows no discernible effects on reading achievement for elementary school English language learners](read-well-no-discernible-effects-reading-achievement-ell.md) — related

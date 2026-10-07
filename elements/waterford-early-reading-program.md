@@ -57,6 +57,7 @@ Waterford Early Reading Program™ is "a software-based curriculum for students 
 ## Related Elements
 
 - [Reading Mastery direct instruction reading program (Reading Mastery Classic K-3 and Reading Mastery Plus K-6)](reading-mastery-direct-instruction-program.md)
+- [Waterford Early Reading Level One™ computer-based emergent literacy curriculum](waterford-early-reading-level-one-curriculum.md)
 
 ## Examples
 -

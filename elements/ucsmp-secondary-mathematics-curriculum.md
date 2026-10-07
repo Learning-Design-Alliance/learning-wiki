@@ -49,7 +49,8 @@ UCSMP is a core secondary mathematics curriculum developed by the University of 
 - [Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests](../claims/hourly-exam-differences-trigonometry-not-algebra.md) [+W]
 
 ## Related Elements
-- 
+
+- [Everyday Mathematics® core curriculum for grades pre-K–6](everyday-mathematics-curriculum-prek-6.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ WWC synthesis of two studies (a randomized trial with reservations and a quasi-e
 - [CSC/CDP shows no discernible effects on knowledge, attitudes, and values](csc-no-discernible-kav-effects.md) — related
 - [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](positive-action-positive-effects-behavior.md) — related
 - [The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points](project-criss-potentially-positive-comprehension-rating.md) — related
+- [Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)](growth-mindset-potentially-positive-academic-achievement-postsecondary.md) — related

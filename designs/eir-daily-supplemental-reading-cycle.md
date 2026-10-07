@@ -45,7 +45,7 @@ The EIR® instructional pattern organizes supplemental early-reading instruction
 - [Eir Significant Alphabetics Effects Grade1](../claims/eir-significant-alphabetics-effects-grade1.md) [+M]
 
 ## Related Designs
-- [Early Intervention In Reading Program](early-intervention-in-reading-program.md)
+- [Early Intervention In Reading Program](../elements/early-intervention-in-reading-program.md)
 
 ## Examples
 -

@@ -49,3 +49,7 @@ The report's review of 18 studies found that one quasi-experimental study met st
 - [The evidence base for Fluency Formula™ consists of a single small randomized controlled trial, with no studies addressing alphabetics or general reading achievement](fluency-formula-evidence-base-single-small-rct.md) — related
 - [The evidence base for Read, Write & Type!™ is a single small-extent randomized trial, limiting confidence in the effectiveness ratings](rwt-evidence-base-single-small-trial.md) — related
 - [Reading Plus® produced a statistically significant positive effect on FCAT reading comprehension for low-achieving adolescent learners, with a small WWC-calculated effect of 0.06](reading-plus-small-significant-comprehension-effect-low-achievers.md) — related
+- [The evidence base for Accelerated Reader with adolescent learners is thin: only 2 of 318 reviewed studies met WWC standards](accelerated-reader-thin-evidence-base-318-studies.md) — related
+- [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related
+- [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
+- [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related

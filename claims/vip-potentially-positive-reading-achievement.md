@@ -48,3 +48,4 @@ WWC re-analysis of the Carlo et al. (2004) randomized controlled trial's English
 - [The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners](reading-mastery-potentially-positive-effects-ell-reading.md) — related
 - [VIP shows no statistically significant or substantively important impacts on PPVT-R and Morphology outcomes for English language learners](vip-null-ppvt-morphology-impacts.md) — related
 - [VIP produces a statistically significant effect on Word Mastery (taught-word definition selection) for English language learners, effect size 1.03](vip-word-mastery-significant-effect.md) — related
+- [Dual language programs improved English literacy achievement, with a potentially positive effects rating based on one study](dual-language-programs-improve-literacy-achievement.md) — related

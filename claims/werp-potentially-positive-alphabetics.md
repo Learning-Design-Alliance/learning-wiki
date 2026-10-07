@@ -51,3 +51,6 @@ WWC re-analysis of the Hecht & Close (2002) quasi-experimental study (76 Kinderg
 - [Waterford Early Reading Program™ showed no discernible effects on comprehension, with a small non-significant effect size on vocabulary](werp-no-discernible-comprehension.md) — related
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — related
 - [Statistically significant effects reported by the CDP studies were not statistically significant as recalculated by the WWC](wwc-recalculation-nullifies-reported-cdp-effects.md) — related
+- [Everyday Mathematics® has potentially positive effects on mathematics achievement for primary students, with a substantively important but statistically non-significant effect size of 0.27](everyday-mathematics-potentially-positive-primary-math-achievement.md) — related
+- [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related
+- [Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains](waterford-level-one-small-extent-of-evidence.md) — related

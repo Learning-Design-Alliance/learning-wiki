@@ -45,7 +45,8 @@ Project CRISS® is "a professional development program for teachers that aims to
 - [Project CRISS® produced statistically significant greater free-recall gains than regular instruction in grades 4 and 6 (Horsfall & Santa, 1994)](../claims/project-criss-significant-free-recall-gains-grades-4-6.md) [+W]
 
 ## Related Elements
-- 
+
+- [Reading Apprenticeship® teacher professional development program](reading-apprenticeship-professional-development-program.md)
 
 ## Examples
 

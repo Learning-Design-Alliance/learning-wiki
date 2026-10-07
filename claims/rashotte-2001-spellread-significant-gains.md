@@ -63,3 +63,7 @@ Same randomized trial, comprehension domain: GORT-3 Comprehension (effect size 0
 - [In the Torgesen et al. (2006) RCT, SpellRead™ showed indeterminate effects for fifth graders, with no statistically significant or substantively important effects in any domain after six months](torgesen-2006-spellread-indeterminate.md) — related
 - [SpellRead™ shows potentially positive effects on comprehension for adolescent readers, with an average improvement index of +11](spellread-potentially-positive-comprehension.md) — a broader claim this one bears on
 - [SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14](spellread-potentially-positive-reading-fluency.md) — a broader claim this one bears on
+- [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](sfa-positive-effects-alphabetics-k-4.md) — related
+- [In the Rashotte et al. (2001) study, the WWC confirmed statistically significant SpellRead™ effects on four of seven alphabetics outcomes](spellread-alphabetics-rashotte-four-significant.md) — related
+- [Comprehension effects of SpellRead™ differed between the two studies: Torgesen et al. found no significant effects while Rashotte et al. found significant effects on both outcomes](spellread-comprehension-inconsistent-across-studies.md) — related
+- [SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points](spellread-potentially-positive-fluency.md) — a broader claim this one bears on

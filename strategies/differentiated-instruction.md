@@ -62,10 +62,12 @@ Differentiation is fundamentally an assessment-driven practice: it works only wh
 7. Use a common closing synthesis so all learners consolidate the shared goal.
 
 ## Related Strategies
+
 - [Scaffolding](../principles/scaffolding.md) — the primary mechanism by which readiness-based differentiation raises struggling learners' ceiling
 - [Formative Assessment](../principles/assessment-for-learning.md) — supplies the readiness data differentiation depends on
 - [Adaptive Learning](../principles/adaptive-learning.md) — automates readiness-based adjustment at scale
 - [Direct Instruction](../patterns/direct-instruction.md) — the whole-class core that differentiation supplements
+- [Differentiate one shared article to each student's reading level rather than assigning varied texts](differentiate-single-article-to-reading-level.md)
 
 ## Examples
 - **Tiered math tasks (Elementary)**: after a whole-class minilesson, students solve the same problem context at three levels — concrete manipulatives, symbolic, and multi-step generalization — grouped by a quick exit-ticket diagnostic.

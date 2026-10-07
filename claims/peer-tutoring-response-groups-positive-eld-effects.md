@@ -63,3 +63,4 @@ WWC-computed improvement indices across the three studies' findings in the Engli
 
 ## Related Claims
 - [The WWC rates Instructional Conversations and Literature Logs as having potentially positive effects on reading achievement and English language development](ic-ll-potentially-positive-wwc-rating.md) — related
+- [The average improvement index for PALS on reading achievement for English language learners is +12 percentile points, ranging from +5 to +25 across findings](pals-improvement-index-reading-12-percentile.md) — related

@@ -51,3 +51,4 @@ The WWC intervention report rates Reading Mastery in the reading achievement dom
 - [Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners](fast-forword-language-potentially-positive-english-language-development.md) — related
 - [The Pathway to Academic Success Project has potentially positive effects on writing conventions for English learners in grades 6-12](pathway-project-potentially-positive-writing-conventions.md) — related
 - [LiPS has potentially positive effects on comprehension for beginning readers, based on one randomized trial showing a statistically significant positive effect on passage comprehension](lips-potentially-positive-comprehension-effects.md) — related
+- [Dual language programs improved English literacy achievement, with a potentially positive effects rating based on one study](dual-language-programs-improve-literacy-achievement.md) — related

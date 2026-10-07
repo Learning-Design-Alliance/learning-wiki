@@ -61,10 +61,12 @@ Tiering keeps every learner inside their zone of proximal development: the task 
 6. Debrief on a shared task or discussion so all learners converge on the same understanding, and use results to re-tier next time.
 
 ## Related Strategies
+
 - [Adaptive Difficulty](../elements/adaptive-difficulty.md) — the algorithmic analogue: systems adjust task difficulty continuously rather than by teacher-designed tiers
 - [Choice Boards](../elements/choice-boards.md) — a structure that lets learners select among tiered or varied task options
 - [Accommodations](../elements/accommodations.md) — individualized adjustments for learners with identified needs; tiering is the whole-class version of the same logic
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the mechanism by which lower tiers support rather than dilute learning
+- [Differentiate one shared article to each student's reading level rather than assigning varied texts](differentiate-single-article-to-reading-level.md)
 
 ## Examples
 - **Tiered math problem sets**: all students solve problems about proportional reasoning; one tier uses whole numbers and visual models, another uses fractions, a third adds multi-step open contexts. Widely used in [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) classrooms, where problem number choices are tiered by number size and structure.

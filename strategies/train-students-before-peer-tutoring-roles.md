@@ -49,6 +49,7 @@ Before peer tutoring or response groups are used routinely, students must be tau
 - [Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)](reciprocal-teaching-peer-assisted-learning-strategies-pals.md)
 - [Reciprocal Peer Tutoring](reciprocal-peer-tutoring.md)
 - [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
+- [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
 
 ## Examples
 -

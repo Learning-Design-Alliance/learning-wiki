@@ -44,7 +44,7 @@ Early Risers organizes its intervention as four coordinated components. The Chil
 - 
 
 ## Related Designs
-- [Early Risers Prevention Program](early-risers-prevention-program.md)
+- [Early Risers Prevention Program](../elements/early-risers-prevention-program.md)
 
 ## Examples
 -

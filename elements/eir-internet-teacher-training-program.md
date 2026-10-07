@@ -42,6 +42,7 @@ EIR® teacher training lasts nine months and combines monthly two-hour Internet 
 
 - [Early Intervention In Reading Program](early-intervention-in-reading-program.md)
 - [Conference Telephone Set for classroom telelectures](conference-telephone-set-telelecture.md)
+- [STeLLA® cost structure](stella-cost-structure.md)
 
 ## Examples
 -

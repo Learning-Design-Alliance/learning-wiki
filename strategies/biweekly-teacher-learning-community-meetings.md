@@ -38,7 +38,8 @@ During the study, "Researchers conducted biweekly Teacher Learning Community mee
 - faithful implementation of vocabulary lessons
 
 ## Related Strategies
-- 
+
+- [Weeklong initial teacher training with biweekly follow-up meetings for delivering the fraction intervention](fraction-face-off-teacher-training-model.md)
 
 ## Examples
 -

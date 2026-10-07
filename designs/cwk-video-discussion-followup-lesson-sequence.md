@@ -42,7 +42,7 @@ Each Connect with Kids lesson follows a recurring instructional sequence: "Each 
 - [Cwk Middle High School Behavior Gains](../claims/cwk-middle-high-school-behavior-gains.md) [+M]
 
 ## Related Designs
-- [Connect With Kids Program](connect-with-kids-program.md)
+- [Connect With Kids Program](../elements/connect-with-kids-program.md)
 
 ## Examples
 -

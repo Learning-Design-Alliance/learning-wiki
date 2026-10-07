@@ -48,3 +48,4 @@ The WWC's effectiveness summary, based on one randomized controlled trial (PCER 
 - [Curiosity Corner shows no discernible effects on preschool print knowledge in the PCER randomized trial](curiosity-corner-no-discernible-print-knowledge-effects.md) — a narrower finding that bears on this claim
 - [Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing](phonological-awareness-training-six-studies-significance-pattern.md) — related
 - [Ready, Set, Leap!® shows no discernible effects on oral language, print knowledge, phonological processing, early reading/writing, or math in preschoolers](ready-set-leap-no-discernible-effects-preschool.md) — related
+- [Doors to Discovery™ shows no discernible effects on preschool math (domain-average effect size 0.01)](doors-to-discovery-no-discernible-math-effects.md) — related

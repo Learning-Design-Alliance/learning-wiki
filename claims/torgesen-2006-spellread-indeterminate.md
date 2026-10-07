@@ -65,3 +65,4 @@ Same randomized trial: the fluency domain average effect size was 0.08 (Oral Rea
 - [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](spellread-potentially-positive-alphabetics.md) — a broader claim this one bears on
 - [SpellRead™ shows potentially positive effects on comprehension for adolescent readers, with an average improvement index of +11](spellread-potentially-positive-comprehension.md) — a broader claim this one bears on
 - [SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14](spellread-potentially-positive-reading-fluency.md) — related
+- [Comprehension effects of SpellRead™ differed between the two studies: Torgesen et al. found no significant effects while Rashotte et al. found significant effects on both outcomes](spellread-comprehension-inconsistent-across-studies.md) — related

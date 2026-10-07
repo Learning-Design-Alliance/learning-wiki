@@ -61,8 +61,10 @@ PALS converts [Practice](../elements/practice.md) into high-frequency, individua
 6. Monitor and correct: circulate, listen to pairs, correct inaccurate coaching, and end with whole-class feedback ([Provide Feedback](../elements/provide-feedback.md))
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the instructor's modeling of comprehension strategies during PALS training is what makes the coaching prompts meaningful
 - [Reciprocal roles in tutoring] — the reader/coach alternation is the mechanism that gives every learner both practice and evaluation experience
+- [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — PALS is a delivery structure for massed, feedback-rich practice

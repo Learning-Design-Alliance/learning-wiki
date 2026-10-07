@@ -49,3 +49,4 @@ The WWC's rating rationale (Appendices A5.1–A5.3) states the positive-effects 
 - [The evidence base for Corrective Reading in grades K–3 is small: one of 25 reviewed studies met WWC standards, and no studies addressed general reading achievement](corrective-reading-small-evidence-base.md) — related
 - [The evidence base for EIR® is small: only one of seven reviewed studies met WWC evidence standards](eir-small-evidence-base-one-rct.md) — related
 - [No studies meeting WWC standards addressed SSL effects on fluency, comprehension, or general reading achievement, and the extent of alphabetics evidence is small](ssl-evidence-gaps-fluency-comprehension.md) — related
+- [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related

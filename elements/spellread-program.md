@@ -49,7 +49,8 @@ SpellRead™, formerly SpellRead Phonological Auditory Training®, is a small-gr
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](../claims/lips-supplemental-followup-mixed-findings.md) [~W]
 
 ## Related Elements
-- 
+
+- [SpellRead™ literacy program for struggling readers](spellread-program-element.md)
 
 ## Examples
 -

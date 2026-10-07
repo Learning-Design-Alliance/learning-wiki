@@ -46,3 +46,4 @@ WWC synthesis of two studies (Christ & Davie, 2009; Kemp, 2006) in the alphabeti
 - [Christ and Davie (2009) found positive, statistically significant effects of Read Naturally® Software Edition on three reading fluency measures](christ-davie-2009-significant-fluency-gains.md) — related
 - [Read Naturally® shows mixed effects on reading fluency for beginning readers (average improvement index +7 percentile points)](read-naturally-mixed-effects-reading-fluency.md) — related
 - [Read Naturally® shows no discernible effects on comprehension for beginning readers](read-naturally-no-discernible-effects-comprehension.md) — related
+- [The WWC rates PALS as having potentially positive effects on alphabetics, no discernible effects on fluency, and mixed effects on comprehension for beginning readers](pals-wwc-effectiveness-ratings-three-domains.md) — related

@@ -49,3 +49,5 @@ WWC extent-of-evidence categorization based on one study (Phillips et al., 1990)
 - [The evidence base for Waterford Early Reading Program™ is thin: only one of 36 reviewed studies met WWC evidence standards, and extent of evidence was rated small for both domains](werp-evidence-base-single-study.md) — related
 - [The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations](reading-plus-evidence-extent-small-one-study.md) — related
 - [No studies meeting WWC standards addressed SSL effects on fluency, comprehension, or general reading achievement, and the extent of alphabetics evidence is small](ssl-evidence-gaps-fluency-comprehension.md) — related
+- [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related
+- [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related

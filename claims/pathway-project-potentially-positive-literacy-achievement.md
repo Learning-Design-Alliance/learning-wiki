@@ -46,3 +46,5 @@ Findings from the Kim et al. (2011) randomized controlled trial with low attriti
 - [The Pathway to Academic Success Project has potentially positive effects on writing conventions for English learners in grades 6-12](pathway-project-potentially-positive-writing-conventions.md) — related
 - [The Pathway to Academic Success Project has potentially positive effects on writing quality for English learners in grades 7-12](pathway-project-potentially-positive-writing-quality.md) — related
 - [The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners](reading-mastery-potentially-positive-effects-ell-reading.md) — related
+- [Dual language programs improved English literacy achievement, with a potentially positive effects rating based on one study](dual-language-programs-improve-literacy-achievement.md) — related
+- [Reading Apprenticeship® has potentially positive effects on grade point average in core subjects, based on one qualifying study](reading-apprenticeship-potentially-positive-gpa.md) — related

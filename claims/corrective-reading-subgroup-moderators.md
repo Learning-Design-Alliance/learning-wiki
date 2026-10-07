@@ -82,3 +82,4 @@ Initial-skill-level subgroup analysis reported in the alphabetics findings footn
 
 ## Related Claims
 - [Corrective Reading showed statistically significant positive effects on two of four alphabetics outcomes, but the alphabetics domain average effect was neither significant nor substantively important](corrective-reading-alphabetics-mixed-outcomes.md) — related
+- [Word attack gains from the Wilson Reading System were concentrated among students with high initial word attack or vocabulary scores and students not eligible for free/reduced lunch](wilson-reading-system-subgroup-effects-initial-skill-ses.md) — related

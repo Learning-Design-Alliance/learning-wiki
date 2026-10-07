@@ -41,6 +41,8 @@ The program's professional development model combines an intensive Summer Instit
 - [Design professional development that is intensive, on-site, peer-based, responsive, and grounded in teachers' real classroom experiences](tefa-pd-design-strategy.md)
 - [Redesign workshop structure, content, timing, and location in response to non-participant barriers](redesign-pd-to-lower-participation-barriers.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
+- [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
+- [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
 
 ## Examples
 -

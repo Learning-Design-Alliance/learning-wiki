@@ -149,10 +149,12 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [Scaffolding and Fading](scaffolding-and-fading.md) — foundational reading instruction requires temporary support that should be withdrawn gradually
 
 ## Examples
+
 - [Word Study](../strategies/word_study.md) — pattern-based work on spelling and word structure
 - Adult decoding lessons focused on high-value sound-symbol correspondences and transfer to authentic reading tasks
 - Guided reading of short adult-appropriate texts that reuse taught patterns
 - Spelling and proofreading practice tied to taught phonics patterns can reinforce transfer into writing
+- [Read Well® kindergarten and first-grade reading curriculum](../elements/read-well-reading-curriculum.md)
 
 ### Validated
 - Ehri, Nunes, Stahl & Willows (2001) meta-analyzed 38 studies and found systematic phonics instruction significantly outperformed unsystematic or no phonics on word reading, decoding, and comprehension, with the largest effects in kindergarten and first grade [Ehri et al. (2001) meta-analysis of systematic phonics instruction.](https://doi.org/10.1598/RRQ.36.3.5) [+S]

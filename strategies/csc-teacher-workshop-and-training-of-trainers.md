@@ -40,6 +40,8 @@ The program's professional development model centers on a one-day workshop: "Tea
 
 - [Use a consortium training model to lower professional development costs to individual districts](consortium-training-model-lower-pd-costs.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
+- [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
+- [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
 
 ## Examples
 -

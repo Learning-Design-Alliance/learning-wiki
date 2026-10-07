@@ -50,3 +50,7 @@ The WWC's review of the evidence base reports that 24 studies failed evidence sc
 - [The evidence base for Waterford Early Reading Program™ is thin: only one of 36 reviewed studies met WWC evidence standards, and extent of evidence was rated small for both domains](werp-evidence-base-single-study.md) — related
 - [The evidence base for SMART® is a single small-extent RCT, capping the intervention rating at potentially positive effects](smart-evidence-base-single-small-rct.md) — related
 - [No studies meeting WWC standards addressed SSL effects on fluency, comprehension, or general reading achievement, and the extent of alphabetics evidence is small](ssl-evidence-gaps-fluency-comprehension.md) — related
+- [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related
+- [The evidence base for the Lovaas Model is small: only two of 58 reviewed studies met WWC evidence standards](lovaas-model-evidence-base-small-two-studies.md) — related
+- [The evidence base for Open Court Reading© is thin: of 185 identified studies, only two met WWC group design standards, and none met standards for alphabetics or reading fluency](open-court-reading-small-evidence-base-two-domains-uncovered.md) — related
+- [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related

@@ -53,6 +53,7 @@ Curiosity Corner is an early childhood curriculum developed and distributed by t
 ## Related Elements
 
 - [Bright Beginnings: a child-centered, literacy-focused preschool curriculum with nine thematic units and parent involvement](bright-beginnings-curriculum-element.md)
+- [Literacy Express preschool curriculum](literacy-express-curriculum.md)
 
 ## Examples
 -

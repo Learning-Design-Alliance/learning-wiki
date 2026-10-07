@@ -47,7 +47,8 @@ Green Dot Public Schools is a nonprofit charter management organization operatin
 - [Green Dot Public Schools increase high school graduation and college-preparatory (A-G) graduation for students entering ninth grade (potentially positive effects rating)](../claims/green-dot-positive-student-progression.md) [+W]
 
 ## Related Elements
-- 
+
+- [Knowledge Is Power Program (KIPP): a national network of public charter schools with extended day/year and a Commitment to Excellence](kipp-charter-network-intervention.md)
 
 ## Examples
 -

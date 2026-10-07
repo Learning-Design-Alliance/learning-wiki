@@ -44,7 +44,8 @@ Balanced Leadership® is a professional development program for current and aspi
 - [The retention effect of Balanced Leadership® was not statistically significant in the contributing study](../claims/balanced-leadership-retention-not-statistically-significant.md) [~W]
 
 ## Related Elements
-- 
+
+- [STeLLA® professional development program](stella-professional-development-program.md)
 
 ## Examples
 -

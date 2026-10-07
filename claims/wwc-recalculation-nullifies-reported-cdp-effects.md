@@ -50,3 +50,4 @@ WWC re-analysis of the Six-District quasi-experimental study of CDP, which exami
 - [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](werp-potentially-positive-alphabetics.md) — related
 - [Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant](cwpt-ctbs-effect-significance-discrepancy.md) — related
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
+- [Nunnery and Ross (2007) reported significant grade 5 but not grade 8 TAAS effects, which were non-significant in WWC recalculation](nunnery-ross-taas-grade5-significant-wwc-recalculation-null.md) — related

@@ -420,6 +420,20 @@ def write_design(cand: dict, actor: str) -> str | None:
     if path.exists():
         return None
     path.write_text(okf_lib.dump_frontmatter(fm) + "\n" + body, encoding="utf-8")
+    # A pattern candidate's related slugs name pages in other folders (an element the same
+    # article produced); ingest's repair points each at the folder that has it.
+    ie.repair_cross_folder_links([f"{folder}/{slug}.md"])
+    lines = []
+    for line in path.read_text(encoding="utf-8").split("\n"):
+        m = re.search(r"\]\(([a-z0-9-]+)\.md\)", line)
+        if m and not (WIKI_ROOT / folder / f"{m.group(1)}.md").exists():
+            home = next((f for f in okf_lib.CONTENT_FOLDERS if (WIKI_ROOT / f / f"{m.group(1)}.md").exists()), None)
+            if home:
+                line = line.replace(f"({m.group(1)}.md)", f"(../{home}/{m.group(1)}.md)")
+            elif line.lstrip().startswith("- "):
+                continue          # a related page that does not exist anywhere
+        lines.append(line)
+    path.write_text("\n".join(lines), encoding="utf-8")
     return f"{folder}/{slug}.md"
 
 

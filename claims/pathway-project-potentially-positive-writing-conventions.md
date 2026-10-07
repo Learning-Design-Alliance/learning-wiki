@@ -46,3 +46,4 @@ Findings from the Kim et al. (2011) randomized controlled trial with low attriti
 - [The Pathway to Academic Success Project has potentially positive effects on literacy achievement for English learners in grades 6-12](pathway-project-potentially-positive-literacy-achievement.md) — related
 - [The Pathway to Academic Success Project has potentially positive effects on writing quality for English learners in grades 7-12](pathway-project-potentially-positive-writing-quality.md) — related
 - [The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners](reading-mastery-potentially-positive-effects-ell-reading.md) — related
+- [Good Behavior Game improves student writing conventions and writing productivity in one single-case study](gbg-improves-writing-outcomes.md) — related
