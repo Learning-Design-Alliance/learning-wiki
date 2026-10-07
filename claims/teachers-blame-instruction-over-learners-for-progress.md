@@ -44,3 +44,4 @@ Categorization of open survey responses summarized in Figure 2, which plots the 
 
 ## Related Claims
 - [Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement](no-dose-response-asr-practice-time.md) — related
+- [Absence of focused pronunciation assessment within the CLT framework hinders monitoring of learners' pronunciation progress](no-pronunciation-assessment-clt-bangladesh.md) — related

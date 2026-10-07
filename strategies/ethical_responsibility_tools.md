@@ -62,9 +62,11 @@ Structured ethical analysis works because it forces learners beyond intuition in
 6. **Reflect individually.** Learners write about how the tool changed their initial judgment, connecting to self-monitoring of their own reasoning [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 
 ## Related Strategies
+
 - [Case-based learning](../patterns/case-based-learning.md) — supplies the authentic dilemma structure these tools analyze
 - [Debate](../patterns/debate.md) — a format for the justification phase of ethical analysis
 - [Cognitive apprenticeship](../patterns/cognitive-apprenticeship.md) — experts can model how they work through an ethical judgment before learners use the tools themselves
+- [Use consequence analysis grounded in social science concepts to make ethical administrative choices concrete](consequence-analysis-for-ethical-administrative-choices.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the deliberation structure where ethical reasoning is tested against peers

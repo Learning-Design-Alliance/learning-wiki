@@ -44,6 +44,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [Sociocultural Theory](sociocultural-theory.md) — scaffolding's measurable effect on executive function development is a direct, testable instance of Vygotsky's broader claim about guided interaction
 - [Five-dimension framework of preschool executive function with three core components advancing ages 3 to 5](preschool-ef-five-dimension-framework.md)
 - [Skehan's limited attention capacity prediction as an account of task complexity effects on child L2 development](skehan-limited-attention-capacity-child-task-recasts.md)
+- [Attachment internal working models as cognitive schemes linking early relationships to flexibility and adjustment](internal-working-models-cognitive-scheme-framework.md)
 
 ## Examples
 

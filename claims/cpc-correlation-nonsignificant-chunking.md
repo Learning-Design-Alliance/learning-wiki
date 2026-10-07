@@ -44,3 +44,4 @@ Correlational analysis across both studies comparing CPC scores with immediate a
 
 ## Related Claims
 - [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](cpc-difference-delayed-posttest-only.md) — reports the opposite
+- [Learning style (visual-verbal) shows no significant correlation with the effectiveness of pictorial elucidation for adolescent EFL learners](learning-style-no-correlation-pictorial-elucidation-effect.md) — related

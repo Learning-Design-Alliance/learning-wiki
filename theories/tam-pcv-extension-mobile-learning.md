@@ -45,6 +45,7 @@ The article extends Davis' Technology Acceptance Model, which predicts actual sy
 ## Related Theories
 
 - [UTAUT framework for technology acceptance](utaut-four-constructs-lms-acceptance-framework.md)
+- [Technology Acceptance Model (revised by Venkatesh and Davis) as a framework for evaluating L2 learners' acceptance of writing technologies](tam-framework-l2-writing-technology-acceptance.md)
 
 ## Examples
 

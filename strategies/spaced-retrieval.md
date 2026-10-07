@@ -61,9 +61,11 @@ Retrieval attempts strengthen memory more than restudying of equivalent duration
 7. Make the schedule visible and explain the rationale to learners, since the effort of retrieval is otherwise misread as ineffectiveness.
 
 ## Related Strategies
+
 - Cumulative quizzing — the classroom-scale implementation of spaced retrieval across a course
 - Interleaved practice — combines spacing with discrimination between problem types
 - Rereading and highlighting — the common alternatives that spaced retrieval replaces; less effective at equal time
+- [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard software using the SM-2 expanding-interval algorithm; widely used in medical education for high-volume factual retention.

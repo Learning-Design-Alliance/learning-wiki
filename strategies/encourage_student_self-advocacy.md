@@ -69,6 +69,7 @@ Self-advocacy is a component of self-determination, and interventions that build
 - [Active Listening](../strategies/active_listening.md) — the teacher-side skill that makes student advocacy productive
 - [Activities for Student Self-Reflection](../strategies/activities_for_student_self-reflection.md) — the self-knowledge foundation on which advocacy rests
 - [Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials](teacher-practices-behavior-analysis-independent-decisions-materials.md)
+- [Normalize and de-stigmatize help-seeking behavior in the classroom so academic help-seeking habits carry over to health issues](normalize-destigmatize-help-seeking-classroom.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — students must put their needs into words; articulation is the core performance

@@ -44,3 +44,4 @@ A sidebar example in the report's outcomes section describes the Kit & Kaboodle 
 
 ## Related Claims
 - [West Virginia's ten-year basic technology skills program was associated with an 11 percent gain in standardized test scores and a rise in state achievement ranking](west-virginia-basic-tech-gains.md) — related
+- [Sporadic, disconnected professional learning does not change practice long term, whereas well-structured programs can build differentiation skills with positive student outcomes](structured-professional-learning-builds-differentiation-skills.md) — related

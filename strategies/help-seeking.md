@@ -64,6 +64,7 @@ Help seeking depends on learners first accurately judging their own comprehensio
 - [Hint Design](hint-design.md) — the graduated-hint architecture that makes system-mediated help instrumental
 - [Metacognitive Prompting](metacognitive-prompting.md) — builds the monitoring that triggers help seeking in the first place
 - [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
+- [Normalize and de-stigmatize help-seeking behavior in the classroom so academic help-seeking habits carry over to health issues](normalize-destigmatize-help-seeking-classroom.md)
 
 ## Examples
 - **Intelligent tutoring systems** (e.g., Carnegie Learning's MATHia, ASSISTments) implement on-demand hint sequences; research on the [Geometry Tutor](https://doi.org/10.3102/00346543076002273) showed that hint quality and learner persistence in using them, not mere availability, determine learning gains.

@@ -45,6 +45,7 @@ Meta-UTAUT, proposed by Dwivedi et al. (2019), is an evolution of UTAUT that the
 ## Related Theories
 
 - [UTAUT framework for technology acceptance](utaut-four-constructs-lms-acceptance-framework.md)
+- [Technology Acceptance Model (revised by Venkatesh and Davis) as a framework for evaluating L2 learners' acceptance of writing technologies](tam-framework-l2-writing-technology-acceptance.md)
 
 ## Examples
 

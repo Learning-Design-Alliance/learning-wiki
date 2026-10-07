@@ -44,3 +44,4 @@ The paper reports, citing Hall, Ward and Comer (1988) and Ward, Hall and Schramm
 
 ## Related Claims
 - [Comments and replies are rare in the research and scholarly literature](comments-replies-rare-in-scholarly-literature.md) — related
+- [Reviewers judged the protocol methodologically rigorous and approved it, while requesting clarification on NPT justification, grey-literature search detail, and analysis steps](peer-review-approval-clarification-requests.md) — related

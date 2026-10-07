@@ -59,9 +59,11 @@ Web reading imposes extraneous demands (navigation, pop-ups, fragmented attentio
 6. Debrief with [Class Discussion](../elements/class-discussion.md) on what strategies learners used and when they failed, building conditional knowledge.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a dialogic alternative that hands strategy leadership to students after initial modeling
 - [Close Reading](close-reading.md) — complementary deep-reading routine applicable to individual web texts
 - [Search Strategy Scaffolds](search-strategy-scaffolds.md) — narrows in on the query formulation step
+- [Use Mozilla's four basic web literacies to frame open learning for personal development](mozilla-four-web-literacies.md)
 
 ## Examples
 - **[Coiro's Online Reading Comprehension practices](https://www.joecoiro.com)** — classroom-tested protocols for modeling internet inquiry, including think-alouds of search and evaluation.

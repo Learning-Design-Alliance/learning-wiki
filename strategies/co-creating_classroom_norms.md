@@ -64,6 +64,7 @@ Co-created norms build ownership and buy-in: students follow agreements they hel
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — the dispositions norms are meant to institutionalize
 - [Action Planning](action_planning.md) — extends shared commitment from conduct norms to learning goals
 - [Student-co-created acceptable/unacceptable behavior guides for conflict management](student-co-created-behavior-guides.md)
+- [Manage group conflict constructively by having members observe one another and treat differences as strength](constructive-conflict-management-clg.md)
 
 ## Examples
 - **Responsive Classroom (Center for Responsive Schools)** — the "Hopes and Dreams → Classroom Rules" protocol, in which rule creation flows from students' stated learning goals ([https://www.responsiveschools.org](https://www.responsiveschools.org))

@@ -46,6 +46,7 @@ The first conceptual map organizes environmental education-related discourse alo
 ## Related Theories
 
 - [Remapping via the local/global dynamic yields four human/social responses to nature: control, submission, awe, reconstruction](ee-remapping-local-global-four-responses.md)
+- [Sauvé's taxonomy of fifteen currents of environmental education](sauve-fifteen-currents-ee-taxonomy.md)
 
 ## Examples
 -

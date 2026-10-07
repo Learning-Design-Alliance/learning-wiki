@@ -44,6 +44,7 @@ The article draws on McLaughlin's (1987) cognitive theory and information proces
 ## Related Theories
 
 - [Executive function components in early decoding: working memory, inhibitory control, and cognitive flexibility](ef-components-early-decoding-framework.md)
+- [Automaticity-frees-attention account of transcription skills in early literacy](automaticity-frees-attentional-resources-account.md)
 
 ## Examples
 

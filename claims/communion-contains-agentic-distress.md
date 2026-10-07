@@ -47,3 +47,4 @@ Theoretical argument from the authors' own prior work (West & Sheldon-Keller, 19
 - [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](secure-base-enables-exploration.md) — a narrower finding that bears on this claim
 - [Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium](self-assertive-integrative-equilibrium-personality.md) — related
 - [Viewing agency/communion as a polarity risks underestimating agency in the lives of women](polarity-view-obscures-womens-agency.md) — related
+- [Shame and guilt may be more strongly shaped by socialization processes than by attachment relationships](shame-guilt-shaped-by-socialization-more-than-attachment.md) — related

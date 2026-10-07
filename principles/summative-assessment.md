@@ -153,10 +153,12 @@ A summative score at the end of a course, retention months later, transfer to a 
 - [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) — system-level effects of high-stakes tests.
 
 ## Examples
+
 - Final exams, capstones, final performances, and end-of-unit assessments.
 - End-of-course exams and capstone evaluations.
 - [Summative Assessment](../elements/summative-assessment.md), [Final Exam](../elements/final-exam.md) and [Performance-Based Assessment](../elements/performance-based-assessment.md), the elements the folded pattern used.
 - [Constructive Alignment](../patterns/constructive-alignment.md) and [Authentic Assessment](../patterns/authentic-assessment.md), patterns that design the end-point task.
+- [Ecological Affordance Profile: integrating micro-level observations, formative records, and summative accounts](../elements/ecological-affordance-profile.md)
 
 ## Key Sources
 - Harlen, W. (2005). Teachers' summative practices and assessment for learning. *The Curriculum Journal, 16*(2), 207-223. [https://doi.org/10.1080/09585170500136093](https://doi.org/10.1080/09585170500136093)

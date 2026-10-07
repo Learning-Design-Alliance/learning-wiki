@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**115 entries** · 0 stable · 0 in review · 115 drafts
+**117 entries** · 0 stable · 0 in review · 117 drafts
 
 ---
 
@@ -50,6 +50,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### E {: #letter-e }
 
 * [Eight-step constructionism imagineering learning process delivered through metaverse rooms within a three-stage lesson structure](constructionism-imagineering-process-metaverse.md) - The article synthesizes an eight-step learning process from imagineering and constructionism principles: \"Imagine; start with an idea; research/explore/learn; design and write the script; create innovation; summarise...
+* [Eight-strategy pattern for overcoming ESL pronunciation challenges within the CLT framework](eight-strategies-esl-pronunciation-bangladesh.md) - The review proposes a matched set of eight strategies mirroring its eight identified challenges: a pronunciation-oriented curriculum within CLT, inclusion of pronunciation assessment, teacher preparedness through CPD,...
 * [Embodied Physics Inquiry Through Dance Improvisation](embodied-physics-inquiry-through-dance.md) - A session structure that pairs a short physics concept demonstration with dance improvisation exploring that concept, validating culturally specific movement styles as legitimate scientific expression.
 * [Engineering inquiry pattern: student-generated starter questions sorted into engineering design-goal challenges](starter-questions-sorted-into-engineering-challenges.md) - In this inquiry pattern, learners first explore phenomena during Starters and write observations and questions on sentence strips, as in science inquiry.
 * [Expanding then maintenance repetition schedule for audio vocabulary lessons](expanding-then-monthly-repetition-schedule.md) - The article prescribes a two-phase repetition schedule for audio vocabulary lessons.
@@ -127,6 +128,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### P {: #letter-p }
 
+* [Peer tutoring as a primary-prevention evidence-based practice in first-grade math](peer-tutoring-primary-prevention-math.md) - At primary prevention, the classroom teacher supplements the district curriculum with a peer-tutoring program run \"3 times per week for 30 minutes each session.\" Each session opens with teacher-led introduction or rev...
 * [Performance-objective-driven curriculum pattern pairing each stated objective with matched student activities](objective-activity-matched-curriculum-guide-pattern.md) - The guide states six lettered performance objectives (A through F) and then organizes its entire activity section objective by objective, so each activity serves a stated objective.
 * [Portfolio entries with written commentary for assessing teaching practice](portfolio-with-written-commentary-assessment.md) - The digest describes a uniform assessment structure in which \"a school-site portfolio that contained six entries - four classroom-based entries and two Documented Accomplishments Entries\" and notes that \"All six entri...
 * [Post-reading group work in small groups where individual efforts are pooled to interpret the text](post-reading-group-work-pooled-interpretation.md) - After the detailed work of a text is completed, the article recommends returning to global understanding through oral group discussion before whole-class discussion.

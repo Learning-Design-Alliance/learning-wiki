@@ -71,7 +71,7 @@ The meta-analysis pooled 39 experimental studies published between 1985 and 2018
 
 Guo, D., Zhang, S., Wright, K. L., & McTigue, E. M. (2020). Do you get the picture? A meta-analysis of the effect of graphics on reading comprehension. *AERA Open, 6*(1), 2332858420901696. [doi:10.1177/2332858420901696](https://doi.org/10.1177/2332858420901696)
 
-`q4 · meta-analysis (random effects, 39 experimental studies)` · `i1 · small-to-moderate effect, g=0.39` · `n=39 studies (2,103 participants)` · `quant-synthesis · r?`
+`q4 · meta-analysis (random effects, 39 experimental studies)` · `i1 · small-to-moderate effect, g=0.39` · `n=39 studies (2,103 participants)` · `quant-synthesis · r2`
 
 The meta-analysis pooled 39 experimental studies published between 1985 and 2018. Each compared reading text with graphics against reading the text alone. The pooled random-effects estimate favoured graphics (Hedges's g = 0.39, 95% CI [0.26, 0.51]), with moderate heterogeneity (I² = 45.91%) and no significant publication bias on Egger's test. The effect held regardless of grade level, and pictures, pictorial diagrams and flow diagrams did not differ significantly. Graphics helped more on open-ended and mixed-format assessments than on true/false tests. The authors frame the work with [dual coding theory](../theories/dual-coding-theory.md). However, the outcome they pool is reading comprehension, and some included studies found diagrams reduced verbatim recall. So this supports the claim's direction for meaningful comprehension more than for recall as such.
 -->
@@ -129,3 +129,5 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Dual coding theory](../theories/dual-coding-theory.md) — the theoretical account of separate verbal and visual memory systems
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — added representations can become redundant for advanced learners
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
+- [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — a narrower finding that bears on this claim
+- [Viewers seek visual complexity as well as its reduction, so immediate perceptual closure is not needed in all graphic images](viewers-seek-complexity-not-immediate-closure.md) — related

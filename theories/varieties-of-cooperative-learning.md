@@ -50,6 +50,7 @@ The bulletin organizes the main cooperative learning methods: Circles of Learnin
 ## Related Theories
 
 - [Five common models of cooperative learning](five-models-cooperative-learning-taxonomy.md)
+- [Kagan's structural approach to cooperative learning (KCLS)](kagan-structural-approach-kcls.md)
 
 ## Examples
 

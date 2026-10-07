@@ -16,6 +16,11 @@ Pattern's Sequence/Personalization, a Strategy's Instructions) is left as
 the same blank `- ` placeholder bullet CLAUDE.md's own templates use for an
 unfilled section — never invented content.
 
+Principles and patterns are not written as pages (2026-10-07): each goes to the
+candidate ledger, eval/candidates/candidates.ndjson, and settle_candidates.py
+decides what it becomes (candidates_lib.py has the why). --direct-pages restores
+the old behaviour.
+
 Only creates NEW pages. If a contribution's slug collides with an existing
 wiki page, it's skipped with a warning rather than attempted as an automated
 merge — CLAUDE.md's "never delete content on update" merge step needs real
@@ -50,6 +55,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import okf_lib as ok
+import candidates_lib as cl
 from eval import discover_articles
 
 WIKI_ROOT = Path(__file__).parent.parent
@@ -264,6 +270,11 @@ _OTHER_LAYOUT = {
         "related_heading": "Related Patterns",
         "claims_heading": "Claims",
     },
+    "design": {
+        "target_goals_heading": "Learning Goals",
+        "related_heading": "Related Designs",
+        "claims_heading": "Claims",
+    },
     "strategy": {
         "target_goals_heading": "Target Learning Goals",
         "related_heading": "Related Strategies",
@@ -453,9 +464,14 @@ def drop_unfound_quotes(parsed: dict, article_id: str) -> list:
     return notes
 
 
-def ingest_record(record: dict, actor: str, dry_run: bool) -> list:
+def ingest_record(record: dict, actor: str, dry_run: bool, candidates: list = None,
+                  run_id: str = "") -> list:
     """Returns a list of (folder, slug) pages actually written (or that
-    WOULD be written, in dry-run mode)."""
+    WOULD be written, in dry-run mode).
+
+    With `candidates` (a list), a principle or pattern contribution is not
+    written as a page: its ledger row is appended to that list instead, for
+    candidates_lib to record and settle_candidates.py to settle (2026-10-07)."""
     written = []
     validation = record.get("validation") or {}
     if not validation.get("passed"):
@@ -467,6 +483,10 @@ def ingest_record(record: dict, actor: str, dry_run: bool) -> list:
 
     for contrib in contributions:
         if not isinstance(contrib, dict):
+            continue
+        if candidates is not None and contrib.get("type") in cl.CANDIDATE_TYPES and contrib.get("slug"):
+            candidates.append(cl.from_contribution(contrib, record, run_id))
+            print(f"  [CANDIDATE] {contrib['type']} {contrib['slug']}")
             continue
         rendered = render_page(contrib, actor)
         if rendered is None:
@@ -742,6 +762,9 @@ def main() -> None:
     parser.add_argument("--model", required=True, help="Model dirname under eval/runs/<run-id>/ (safe_model_dirname form)")
     parser.add_argument("--by", default="claude/unspecified", help="Actor for generated.by / log_revision.py --by")
     parser.add_argument("--dry-run", action="store_true", help="Report what would be written without touching the wiki")
+    parser.add_argument("--direct-pages", action="store_true",
+                        help="Write principles and patterns as pages, as before 2026-10-07, instead of "
+                             "adding them to the candidate ledger (eval/candidates/) for settle_candidates.py")
     args = parser.parse_args()
 
     model_dir = RUNS_DIR / args.run_id / args.model
@@ -764,6 +787,7 @@ def main() -> None:
                                     # covers EVERY article this run touched, not just ingested
                                     # ones, so a validation-failure isn't re-generated later either.
     n_skipped_validation = 0
+    n_candidates = 0
     for path in result_files:
         record = json.loads(path.read_text(encoding="utf-8"))
         article_id = record["article_id"]
@@ -836,11 +860,16 @@ def main() -> None:
             }
             continue
         print(f"[{article_id}] {record.get('article_title', '')}")
-        written = ingest_record(record, args.by, args.dry_run)
+        cands = None if args.direct_pages else []
+        written = ingest_record(record, args.by, args.dry_run, candidates=cands, run_id=args.run_id)
         all_written.extend(written)
-        if written and not args.dry_run:
+        cand_ids = []
+        if cands and not args.dry_run:
+            cand_ids = cl.append_candidates(cands) or [c["id"] for c in cands]
+            n_candidates += len(cands)
+        if (written or cand_ids) and not args.dry_run:
             page_paths = [f"{folder}/{slug}.md" for folder, slug, *_ in written]
-            citations = gate_citations(page_paths)
+            citations = gate_citations(page_paths) if page_paths else {"checked": False, "removed": [], "flagged": []}
             if citations["removed"]:
                 print(f"  [citations] stripped {len(citations['removed'])} unverifiable "
                       f"DOI(s) from this source's pages", file=sys.stderr)
@@ -859,15 +888,17 @@ def main() -> None:
                 title=record.get("article_title", ""),
                 status="ingested",
                 pages=page_paths,
-                citations=citations,
+                citations=citations if page_paths else None,
+                candidates=cand_ids or None,
             )
         article_registry_entries[article_id] = {
-            "outcome": "ingested" if written else "no_new_pages",
+            "outcome": "ingested" if (written or cand_ids) else "no_new_pages",
             "run_id": args.run_id, "model": args.model,
             "pages": [f"{folder}/{slug}.md" for folder, slug, _, _ in written],
         }
 
     print(f"\n{len(all_written)} page(s) {'would be ' if args.dry_run else ''}written, "
+          f"{n_candidates} principle/pattern candidate(s) added to {cl.CANDIDATES.relative_to(WIKI_ROOT)}, "
           f"{n_skipped_validation} article(s) skipped (failed structural validation).")
 
     if args.dry_run:

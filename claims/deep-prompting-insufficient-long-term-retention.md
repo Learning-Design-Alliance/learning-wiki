@@ -48,3 +48,4 @@ Authors' interpretation of the Experiment B follow-up data: even high-quality de
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — related
 - [Distributed Practice Improves Retention](distributed-practice-improves-retention.md) — related
 - [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
+- [Sporadic, disconnected professional learning does not change practice long term, whereas well-structured programs can build differentiation skills with positive student outcomes](structured-professional-learning-builds-differentiation-skills.md) — related

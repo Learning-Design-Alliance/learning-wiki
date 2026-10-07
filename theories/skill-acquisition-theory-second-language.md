@@ -58,6 +58,7 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](../claims/untaught-syntax-acquired-taught-agreement-not.md) [-M]
 
 ## Related Theories
+
 - [Skill acquisition theory applied to second language learning: declarative knowledge first, then proceduralization and partial automatization](skill-acquisition-theory-l2-practice.md) — DeKeyser (2010), the source-framed version of this page
 - [ACT* (Adaptive Control of Thought): automatization as proceduralization of declarative knowledge through practice](act-proceduralization-automatization.md) — the cognitive model the theory applies
 - [Anderson's ACT theory of memory: declarative knowledge as a propositional network activated by spread of activation](act-theory-propositional-network-spread-of-activation.md)
@@ -69,6 +70,7 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [Four types of practice: deliberate, purposeful, structured, and naive](four-practice-types-taxonomy.md)
 - [Procedural-declarative distinction in lexical knowledge](procedural-declarative-lexical-knowledge-distinction.md) — Robinson's Widdowsonian sense of the terms, not a developmental claim
 - [Metacognitive knowledge framework: knowledge of cognition divided into declarative, procedural, and conditional knowledge](metacognitive-knowledge-declarative-procedural-conditional.md)
+- [Skill acquisition theory account of written CF effects: declarative knowledge proceduralized into implicit knowledge through repeated practice](skill-acquisition-theory-cf-account.md)
 
 ## Examples
 - [Spectrum of systematic practice types from communicative drills to role plays, task-based and content-based teaching](../patterns/practice-spectrum-drills-to-task-based.md)

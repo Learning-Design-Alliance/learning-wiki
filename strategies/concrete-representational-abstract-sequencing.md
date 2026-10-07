@@ -57,9 +57,11 @@ CRA sequencing manages the transition from embodied, perceptual understanding to
 5. **Assess across representations:** check that learners can translate among all three forms, not just execute the abstract procedure ([Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - [Worked Examples](worked-examples.md) — CRA stages can be delivered as worked examples with representations fading to abstract
 - [Manipulatives](manipulatives.md) — the concrete stage's core materials and their design constraints
 - [Multiple Representations](multiple-representations.md) — the broader principle of linking forms; CRA is a temporal sequencing of it
+- [Use CRA-based small-group math tutoring with scripts, manipulatives, and computer fact practice as secondary prevention](cra-small-group-math-tutoring-secondary-prevention.md)
 
 ## Examples
 - **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — builds arithmetic understanding from children's informal, concrete modeling strategies toward abstract number sentences

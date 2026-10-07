@@ -39,6 +39,7 @@ The reviewer recommends that future research combine quantitative and qualitativ
 ## Related Strategies
 
 - [Extend this line of research with quantitative methods, different sample groups, and validated scales](future-studies-quantitative-different-samples-validated-scales.md)
+- [Develop multiple language assessment strategies combining quantitative and qualitative components](multiple-assessment-strategies-quantitative-qualitative.md)
 
 ## Examples
 -

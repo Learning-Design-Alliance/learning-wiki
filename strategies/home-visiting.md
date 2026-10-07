@@ -57,9 +57,11 @@ Home visiting works because instruction is situated in the environment where lea
 5. **Connect and fade** — link the family to community resources and progressively shift responsibility to the parent as competence grows, mirroring [Fading](../principles/scaffolding.md) in one-on-one form.
 
 ## Related Strategies
+
 - [Family Literacy Programs](family-literacy-programs.md) — home visiting is a common delivery mechanism for teaching caregivers literacy-support practices
 - [Coaching](../elements/coaching.md) — the model–observe–feedback cycle within each visit is a coaching cycle
 - [Community-Based Learning](../principles/community-based-learning.md) — situates instruction in the learner's own community and context
+- [Provide home visitors training and a structure for collaborative goal setting with attainable, child-focused goals](train-home-visitors-collaborative-goal-structure.md)
 
 ## Examples
 - **[Nurse-Family Partnership](https://www.nursefamilypartnership.org)** — nurse home visiting for first-time low-income mothers from pregnancy through age 2; the most rigorously evaluated home visiting model, with randomized-trial evidence of effects on child maltreatment, maternal life course, and later child outcomes.

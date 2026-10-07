@@ -42,6 +42,7 @@ The article operationalizes spoken competence as a set of distinct but interrela
 
 - [Canale and Swain's integrative framework of communicative competence: grammatical, sociolinguistic, and discourse components](canale-swain-communicative-competence-framework.md)
 - [Canale and Swain's four dimensions of communicative competence as a lexical exercise framework](canale-swain-four-dimensions-lexical-framework.md)
+- [Canale and Swain's integrative framework of communicative competence synthesizes grammatical, sociolinguistic, and discourse knowledge](canale-swain-integrative-communicative-competence-framework.md)
 
 ## Examples
 

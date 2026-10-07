@@ -49,6 +49,7 @@ The article presents a framework in which a multidimensional IRT model is repres
 ## Related Theories
 
 - [Graphical model framework for exploiting conditional independence to make multidimensional IRT estimation tractable](graphical-model-framework-multidimensional-irt-complexity.md)
+- [Item Response Theory as a framework for scale development](irt-framework-scale-development.md)
 
 ## Examples
 

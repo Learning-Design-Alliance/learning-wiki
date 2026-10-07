@@ -44,6 +44,7 @@ MFRM, developed by Linacre in 1989 as an extension of the partial credit model, 
 ## Related Theories
 
 - [Classical Test Theory (CTT) and its stated limitations](ctt-assumptions-and-limitations-ilhan-2018.md)
+- [Item Response Theory as a framework for scale development](irt-framework-scale-development.md)
 
 ## Examples
 

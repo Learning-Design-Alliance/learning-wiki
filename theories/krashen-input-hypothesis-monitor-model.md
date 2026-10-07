@@ -66,6 +66,7 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 - [Interaction hypothesis (Long): negotiation of meaning during interaction generates comprehensible input that drives L2 acquisition](interaction-hypothesis-negotiation-comprehensible-input.md)
 - [Larsen-Freeman's tri-part grammatical framework: form, meaning, and pragmatics](tripart-grammar-framework-form-meaning-pragmatics.md)
 - [Two-stage model of native language acquisition: natural oral-aural stage followed by nonnatural literacy stage](two-stage-natural-nonnatural-language-acquisition.md)
+- [Krashen's five hypotheses (acquisition-learning, natural order, monitor, input, affective filter) serve as the principles for second language acquisition in bilingual programs](krashen-five-hypotheses-bilingual-principles.md)
 
 ## Examples
 - [Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities](../principles/comprehensible-input-communicative-reading-activities.md)

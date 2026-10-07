@@ -45,6 +45,7 @@ The chapter organizes cooperative learning into a taxonomy of five models: "The 
 
 - [Cooperative learning as socially structured, mutually accountable group learning](cooperative-learning-definition-olsen-kagan.md)
 - [Taxonomy of cooperative learning varieties and Kagan's content-free structures](varieties-of-cooperative-learning.md)
+- [Kagan's structural approach to cooperative learning (KCLS)](kagan-structural-approach-kcls.md)
 
 ## Examples
 

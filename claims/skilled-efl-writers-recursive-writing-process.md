@@ -49,3 +49,4 @@ Introspective interview study of nine English-majored Taiwanese university stude
 - [Skilled Taiwanese EFL writers have acquired and adopt the English rhetoric conventions of thesis statement and topic sentence, which are new to Taiwanese EFL students.](skilled-writers-rhetoric-conventions-knowledge.md) — related
 - [Skilled EFL writers are aware of their own writing strengths and weaknesses and exploit strengths while compensating for weaknesses such as limited vocabulary.](skilled-writers-self-awareness-strength-weakness.md) — related
 - [Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic.](skilled-writers-topic-familiarity-knowledge.md) — related
+- [Writing anxiety can constrain or paralyze adult writers, with recognizable signs](writing-anxiety-paralyzes-adult-writers.md) — related

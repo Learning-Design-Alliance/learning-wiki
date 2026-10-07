@@ -48,3 +48,4 @@ Interview findings on revising strategies of the nine skilled EFL writers, who c
 - [Global errors hinder communication while local errors affect only a single sentence element, informing which errors to correct](global-versus-local-errors-correction.md) — related
 - [Skilled EFL writers are aware of their own writing strengths and weaknesses and exploit strengths while compensating for weaknesses such as limited vocabulary.](skilled-writers-self-awareness-strength-weakness.md) — related
 - [Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic.](skilled-writers-topic-familiarity-knowledge.md) — related
+- [Organization and task analysis were the most difficult problems in New York state writing competency testing](organization-task-analysis-hardest-writing-problems.md) — related

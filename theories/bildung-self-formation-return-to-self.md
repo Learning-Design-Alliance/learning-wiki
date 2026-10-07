@@ -43,6 +43,7 @@ The article presents Bildung, rooted in Von Humboldt and extended by Gadamer, as
 ## Related Theories
 
 - [Ricoeur's hermeneutical arc as a three-step model of film interpretation](ricoeur-hermeneutical-arc-film-interpretation.md)
+- [Bildung as a theoretical framework for open education](bildung-framework-open-education.md)
 
 ## Examples
 

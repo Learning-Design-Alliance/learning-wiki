@@ -43,6 +43,7 @@ The BICS/CALP distinction separates basic interpersonal communicative skills (co
 ## Related Theories
 
 - [Cummins's BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency](cummins-bics-calp-distinction.md)
+- [Cummins' BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency, developmental along two continuums](bics-calph-two-dimensions-proficiency-framework.md)
 
 ## Examples
 -

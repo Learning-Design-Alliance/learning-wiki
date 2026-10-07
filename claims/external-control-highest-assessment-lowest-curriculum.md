@@ -47,3 +47,4 @@ Descriptive analysis of TALIS 2013 principal reports from 38 countries (7,436 pu
 - [Distributions of external control scores differ across school-function domains, with curriculum skewing toward internal control](control-score-distributions-vary-by-domain.md) — related
 - [A few countries follow relatively pure accountability logics, but most countries follow mixed forms](most-countries-follow-mixed-accountability-logics.md) — related
 - [Extreme country cases: Spain reports universal external control of hiring while the Netherlands reports universal internal control of HR, curriculum, and budget](extreme-country-control-cases-spain-netherlands.md) — a narrower finding that bears on this claim
+- [Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest](accountability-indicator-strengths-weaknesses.md) — related

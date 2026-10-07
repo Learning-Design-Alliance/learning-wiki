@@ -46,7 +46,8 @@ Mobl21 is a mobile-assisted learning platform usable by teachers to create study
 - 
 
 ## Examples
--
+
+- [Integrate pronunciation-focused technology such as language learning apps and mobile-assisted pronunciation training into the CLT curriculum](../strategies/technology-integrated-pronunciation-practice.md)
 
 ## Key Sources
 - Wagner, M.-N. L., Donskaya, M. V., Kupriyanova, M. E., & Ovezova, U. A. (2016). Perspectives of Introduction of the Mobile-Assisted Language Learning (Mall) Technology. International Journal of Environmental & Science Education, 11(15), 8562-8571. http://creativecommons.org/licenses/by/4.0/

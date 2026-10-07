@@ -42,6 +42,7 @@ After a well-crafted prompt, the paper recommends a rubric or checklist as the s
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 - [Use open-ended reflection questions as self-assessment in place of end-of-unit tests](open-ended-reflection-maker-self-assessment.md)
 - [Use component-level checklists for lesson planning and rubric design](checklists-for-lesson-planning-and-rubrics.md)
+- [Assess disruption and reclamation with rubric levels of adaptability and automated disruption-reclamation profiles](assess-disruption-reclamation-adaptability.md)
 
 ## Examples
 -

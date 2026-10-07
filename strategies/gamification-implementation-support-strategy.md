@@ -42,6 +42,7 @@ The review's challenges section recommends that institutions implementing gamifi
 
 - [Devote adequate formal training time to all school staff — especially non-team classroom teachers — when implementing a decentralized service model](adequate-training-time-for-all-staff-in-decentralized-models.md)
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
+- [Prepare educational staff early for digital transformation competency and train teachers to select and use appropriate communication technology tools](early-staff-preparation-digital-competency-training.md)
 
 ## Examples
 -

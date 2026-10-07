@@ -44,3 +44,4 @@ Argument in the 'Excellence in Education' section: the author asks whether "toda
 
 ## Related Claims
 - [Historical increases in peak performance contradict fixed innate upper limits](historical-improvements-reject-immutable-limits.md) — related
+- [Deterioration of departmental and school autonomy is occurring but is not a function of collective bargaining](departmental-autonomy-decline-not-function-of-bargaining.md) — related

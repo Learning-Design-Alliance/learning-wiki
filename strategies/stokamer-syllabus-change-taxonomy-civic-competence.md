@@ -40,7 +40,8 @@ A practical rubric adapted from Kitano (1997) for revising syllabi to catalyze c
 - [Critical Pedagogy Model Civic Competence Service Learning](../theories/critical-pedagogy-model-civic-competence-service-learning.md)
 
 ## Related Strategies
-- 
+
+- [Create enabling classroom conditions and realign the syllabus before implementing KCLS at higher secondary level](enabling-conditions-syllabus-realignment-kcls.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The review describes Kolb's experiential learning model, in which "learning theo
 - [Kolb's Learning Style Inventory and experiential learning theory](kolb-learning-style-inventory-four-abilities.md)
 - [Federation University model: a program-level case-based experiential learning framework linking thinking, doing and acting](federation-university-case-based-experiential-model.md)
 - [Kolb's experiential learning cycle as the pedagogical basis for an engineering learning module](kolb-elt-cycle-engineering-module-basis.md)
+- [Kolb's experiential learning cycle and four learning styles](kolb-experiential-learning-cycle-styles.md)
 
 ## Examples
 

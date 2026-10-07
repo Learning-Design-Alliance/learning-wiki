@@ -78,8 +78,10 @@ That original design was largely abandoned once the pattern scaled commercially.
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face
 
 ## Examples
+
 - Coursera, edX, and Udacity's commercial xMOOC platforms, built around video lectures and automated quizzes
 - The original Downes/Siemens connectivist MOOCs (2008–2009), built around distributed, learner-networked content rather than centralized video lectures
+- [Use a four-week MOOC seminar with rubric self-assessment to develop teachers' OER competencies](../strategies/mooc-seminar-rubric-self-assessment-oer-strategy.md)
 
 ## Key Sources
 - Weller, M. (2018). Twenty years of EdTech. *EDUCAUSE Review, 53*(4). Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/twenty_years_of_edtech](https://edtechbooks.org/lidtfoundations/twenty_years_of_edtech)

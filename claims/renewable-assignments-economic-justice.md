@@ -44,3 +44,4 @@ Conceptual analysis of a Social Psychology renewable assignment in which a class
 
 ## Related Claims
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related
+- [Openness in education shifts the focus from content (OER) to practices (OEP)](openness-shifts-oer-to-oep.md) — a broader claim this one bears on

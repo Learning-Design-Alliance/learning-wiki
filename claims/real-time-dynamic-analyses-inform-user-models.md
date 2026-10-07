@@ -45,3 +45,4 @@ This is a doctoral consortium proposal, not a completed study: the article state
 ## Related Claims
 - [Hurst exponent calculation requires multiple data points (e.g., over 100), which may make real-time computation impractical in some situations such as single-session studies](hurst-exponent-data-requirement-limits-real-time-use.md) — related
 - [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — a narrower finding that bears on this claim
+- [Data Element 1107 (Method of Instruction) shows three deficiencies: higher-education bias, non-descriptive morphology, and no stated relation between instructional methods and learning outcomes](element-1107-three-deficiencies-method-of-instruction.md) — related

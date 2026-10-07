@@ -47,6 +47,7 @@ The article organizes its rationale around desirable difficulties, defined as "a
 
 - [GoldList Notebook Method (headlist plus three distillations)](../elements/goldlist-notebook-method.md)
 - [Classroom implementation practices for the GoldList Notebook Method](../strategies/goldlist-classroom-implementation-practices.md)
+- [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](../strategies/generation-as-post-encoding-consolidation-strategy.md)
 
 ## Key Sources
 - John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/

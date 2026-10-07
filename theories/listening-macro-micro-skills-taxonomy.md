@@ -44,6 +44,7 @@ The paper organizes listening skills into macro-language use, "the learning of e
 ## Related Theories
 
 - [Listening as an active process of constructing meaning from a stream of sounds](listening-active-meaning-construction.md)
+- [Unified taxonomy of subskills shared between and exclusive to reading and listening comprehension](unified-rc-lc-subskills-taxonomy.md)
 
 ## Examples
 

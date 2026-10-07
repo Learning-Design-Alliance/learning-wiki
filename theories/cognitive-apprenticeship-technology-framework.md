@@ -43,6 +43,7 @@ Cognitive apprenticeship is Collins's framework for restoring the resource-inten
 - [Cognitive apprenticeship as a hybrid of Schoenfeld's modeling-coaching-fading model and Treisman's collaborative workshop model](cognitive-apprenticeship-hybrid-model-six-strategies.md)
 - [Situated learning: knowledge and skills are learned in contexts that reflect how the knowledge will be used in real life](situated-learning-contexts-of-use.md)
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md)
+- [Cognitive apprenticeship model (Collins et al.) as a framework for Web-based teacher education](cognitive-apprenticeship-web-teacher-education.md)
 
 ## Examples
 

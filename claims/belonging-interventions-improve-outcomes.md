@@ -82,3 +82,4 @@ Open questions include durability (whether effects persist beyond the transition
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](psychological-belonging-barrier-first-generation-chemists.md) — related
+- [Treatable and preventable health issues are barriers to students' academic engagement and contribute to over one million US high school students dropping out each year](health-issues-barrier-academic-engagement-dropout.md) — related

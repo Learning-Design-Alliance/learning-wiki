@@ -47,3 +47,4 @@ Analysis of the reading sections of six operational test forms (2005-2007 admini
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [The general polytomous testlet model recovers true item parameters well in simulation, with average correlations of 0.9680, 0.8608, and 0.9982 for discrimination and difficulty parameters](polytomous-testlet-model-good-parameter-recovery.md) — related
 - [In operational reading-test data, ignoring local dependence inflates reliability estimates, with passage-based alpha 2.3%-4.9% lower than item-based alpha across six test forms](real-data-reliability-overestimated-2-3-to-4-9-percent.md) — related
+- [Some reviewed studies with polytomous items used dichotomous IRT models such as 2PLM or Rasch](irt-model-mismatch-polytomous-items.md) — related

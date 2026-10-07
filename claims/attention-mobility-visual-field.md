@@ -43,4 +43,4 @@ The author reports experimental demonstrations of attentional mobility by Hebb, 
 
 
 ## Related Claims
--
+- [Eye-tracking results confirm that just before students articulate a new manipulation strategy, their visual attention shifts from figural screen elements to a newly invented attentional-anchor location](eye-tracking-confirms-attentional-anchor-shift.md) — related

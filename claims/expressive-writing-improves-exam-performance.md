@@ -80,3 +80,4 @@ A meta-analysis of the single-session expressive-writing literature (the paradig
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — related
+- [Writing anxiety can constrain or paralyze adult writers, with recognizable signs](writing-anxiety-paralyzes-adult-writers.md) — related

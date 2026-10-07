@@ -45,3 +45,4 @@ Theoretical proposition of the report about group characteristics. The article a
 ## Related Claims
 - [Persons with high self esteem and high social interest sustain extended exchange under conflict, while low self esteem persons withdraw prematurely](high-self-esteem-sustains-exchange-under-conflict.md) — related
 - [Children in Constructivist kindergarten classrooms showed greater effort resolving interpersonal conflicts than children in eclectic or didactic classrooms](constructivist-kindergarten-greater-conflict-resolution-effort.md) — related
+- [ICE environments are associated with mood disturbance, reduced motivation, social withdrawal, interpersonal conflict, and altered time perception](ice-environments-mood-and-team-risks.md) — related

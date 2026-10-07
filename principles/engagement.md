@@ -21,7 +21,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (5 for, 8 mixed, 1 against) · 31 studies (12 causal, 8 quant-synthesis, 6 review, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 4 of 31 report an effect size · 4 claims rest on one study
+> **Evidence** · 15 claims (5 for, 9 mixed, 1 against) · 32 studies (12 causal, 8 quant-synthesis, 6 review, 3 theoretical, 2 associational, 1 design), `q1`–`q4` · 4 of 32 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,7 @@ Claims that bear on the relationship but are not part of the model above.
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [-M] — an older seductive-details page (Garner et al. 1992, Harp & Mayer 1998, Sanchez & Wiley 2006), overlapping the seductive-details claim above; a merge candidate.
 - [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+M] — randomized trials of brief belonging exercises at the transition to college, with GPA and first-year completion as outcomes; it bears on the relationship through one reason participation is low, and is used above only in one situation row.
 - [Intervention engagement (narratives consumed) showed no clear association with outcome changes](../claims/story-mine-engagement-outcome-null-association.md) [~W] — a pilot trial of a digital recovery-narrative intervention in mental health care; usage counts were not associated with outcome change. Not a learning study; it bears on the page only as a warning that usage counts are not outcomes.
+- [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](../claims/deep-learning-scale-no-caap-critical-thinking-relationship.md) [~W] — attached 2026-10-07 from Reason et al. (2010), which proposed "Do not expect environmental interventions alone to produce deep-learning benefits; students must personally engage in deep learning activities"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

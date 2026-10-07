@@ -45,3 +45,4 @@ Table 3 row from the pre–post workshop survey: the global-problem belief item 
 ## Related Claims
 - [A half-day workshop featuring the PPH framework significantly increased dietitians' confidence to undertake pro-environmental change in their personal and professional lives](pph-workshop-increases-dietitians-pro-environmental-confidence.md) — related
 - [Dietitians' barriers and enablers to pro-environmental action fall into three themes: personal, social and professional, and contextual and environmental factors](three-themes-barriers-enablers-pro-environmental-dietitians.md) — related
+- [Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels](global-change-holistic-and-local-analysis-challenge.md) — related

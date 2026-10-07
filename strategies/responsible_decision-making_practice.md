@@ -64,6 +64,7 @@ Scenario-based discussion converts social-emotional competencies from declarativ
 - [Case-Based Learning](../patterns/case-based-learning.md) — the broader pattern this strategy instantiates with social-emotional content
 - [Debate](../patterns/debate.md) — formalizes the argumentation step when dilemmas have two defensible positions
 - [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
+- [Use consequence analysis grounded in social science concepts to make ethical administrative choices concrete](consequence-analysis-for-ethical-administrative-choices.md)
 
 ## Related Elements
 - [Cognitive Conflict](../elements/cognitive-conflict.md) — genuine dilemmas create the disequilibrium that drives re-examination of reasoning

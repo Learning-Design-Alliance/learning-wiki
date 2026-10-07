@@ -46,3 +46,4 @@ Theoretical argument of the report itself, not an empirical test. The article st
 - [Aggressive potential is hypothesized to be highest when separation follows initial high social interest and low self esteem of both parties](aggressive-potential-highest-after-high-social-interest-separation.md) — a narrower finding that bears on this claim
 - [Persons with high self esteem and high social interest sustain extended exchange under conflict, while low self esteem persons withdraw prematurely](high-self-esteem-sustains-exchange-under-conflict.md) — related
 - [The triadic alienation pattern combines low self esteem, low social interest, and high self centrality](triadic-alienation-pattern-self-other-orientation.md) — related
+- [ICE environments are associated with mood disturbance, reduced motivation, social withdrawal, interpersonal conflict, and altered time perception](ice-environments-mood-and-team-risks.md) — related

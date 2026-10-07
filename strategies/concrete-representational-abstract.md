@@ -58,8 +58,10 @@ CRA manages the transition from embodied, situated understanding to symbolic flu
 5. **Fade:** reduce reliance on drawings as fluency grows, following the same logic as [Fading](../elements/fading.md) — support is temporary and withdrawn as competence develops [Fading support promotes transfer of responsibility to the learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Worked Examples](../strategies/use_worked_examples.md) — CRA phases can be delivered as worked examples with representations shown step by step
 - [Manipulative-Based Instruction](../strategies/manipulatives.md) — the concrete phase in isolation; CRA adds the critical transitions
+- [Use CRA-based small-group math tutoring with scripts, manipulatives, and computer fact practice as secondary prevention](cra-small-group-math-tutoring-secondary-prevention.md)
 
 ## Examples
 **CRA mathematics intervention (Butler, Miller, Crehan, Babbitt & Pierce, 2003)** — Algebra instruction for secondary students with learning disabilities sequenced from concrete tiles to diagrams to symbolic equations; the CRA group outperformed a representational-abstract group on posttests and maintained gains at follow-up.

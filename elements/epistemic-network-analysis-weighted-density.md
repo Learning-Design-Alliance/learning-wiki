@@ -56,4 +56,4 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 - [Use the WD statistic during gameplay as a quick screening tool for pairing learners with likely different profiles](../strategies/wd-gameplay-screening-for-learner-pairing.md)
 
 ## Key Sources
-- Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM
+- Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM. [doi:10.5281/zenodo.3554649](https://doi.org/10.5281/zenodo.3554649)

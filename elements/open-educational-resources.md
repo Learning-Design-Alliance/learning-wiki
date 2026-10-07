@@ -43,7 +43,9 @@ Wiley frames the value of true 5R openness as "permissionless innovation" (Thier
 - 
 
 ## Related Elements
+
 - [Digital Open Badges](digital-open-badges.md)
+- [OER Evidence Hub and OER Knowledge Cloud as open education support infrastructures](oer-evidence-hub-knowledge-cloud.md)
 
 ## Examples
 - Khan Academy videos, MIT OpenCourseWare, and OpenStax textbooks under Creative Commons licenses, all passing the 5R test

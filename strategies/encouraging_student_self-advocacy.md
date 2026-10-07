@@ -59,9 +59,11 @@ Self-advocacy functions as a bridge between metacognition and action: learners m
 5. **Transfer responsibility.** Fade teacher prompting — move from teacher-initiated check-ins to student-initiated requests, consistent with scaffolding theory [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - Self-regulated learning instruction — self-advocacy is the communicative, outward-facing half of the same competency
 - Student-led conferences and student-led IEP meetings — structured performances of advocacy with authentic audiences
 - Help-seeking instruction — the specific skill set most often targeted within self-advocacy programs
+- [Normalize and de-stigmatize help-seeking behavior in the classroom so academic help-seeking habits carry over to health issues](normalize-destigmatize-help-seeking-classroom.md)
 
 ## Examples
 - **Student-led IEP meetings** (widely implemented in U.S. special education, e.g., the "I'm Determined" project, Virginia Department of Education: https://www.imdetermined.org) — students present their strengths, needs, and accommodation requests to their own IEP team.

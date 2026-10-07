@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 3,387 |
-| Evidence entries | 4,197 |
-| Distinct studies | 1,171 |
-| Claims resting on one study | 3,188 (94%) |
+| Claims | 3,571 |
+| Evidence entries | 4,396 |
+| Distinct studies | 1,214 |
+| Claims resting on one study | 3,372 (94%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 332 of 1,171 (28%) |
+| Studies reporting an effect size | 338 of 1,214 (28%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 6 | 89 | 76 | 101 | 272 |
+| causal | 6 | 92 | 79 | 101 | 278 |
 | quant-synthesis | 9 | 42 | 3 | 113 | 167 |
-| review | 9 | 63 | 28 | 43 | 143 |
-| associational | 0 | 56 | 82 | 15 | 153 |
-| qualitative | 37 | 72 | 11 | 8 | 128 |
-| design | 9 | 93 | 37 | 1 | 140 |
-| theoretical | 21 | 116 | 12 | 19 | 168 |
+| review | 9 | 67 | 28 | 44 | 148 |
+| associational | 0 | 61 | 86 | 15 | 162 |
+| qualitative | 38 | 77 | 11 | 8 | 134 |
+| design | 9 | 94 | 42 | 1 | 146 |
+| theoretical | 23 | 123 | 14 | 19 | 179 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 210 (18%) | 582 (50%) | 299 (26%) | 80 (7%) |
+| 222 (18%) | 608 (50%) | 304 (25%) | 80 (7%) |
 
-**Studies per claim:** 0: 0, 1: 3,188, 2: 147, 3: 46, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 3,372, 2: 147, 3: 46, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -83,14 +83,14 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 234 pages | 3 | q2–q3 | 2 of 3 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 210 pages | 3 | q1–q3 | 0 of 3 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 203 pages | 5 | q2–q4 | 0 of 5 |
-| [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 200 pages | 2 | q1–q2 | 0 of 2 |
+| [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 201 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 189 pages | 2 | q3 | 0 of 2 |
 | [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 174 pages | 3 | q3 | 1 of 3 |
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 128 pages | 2 | q2–q3 | 0 of 2 |
 | [Spaced Repetition Improves Retention](claims/spaced-repetition-improves-retention.md) | 121 pages | 3 | q3–q4 | 1 of 3 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 111 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 102 pages | 2 | q3 | 0 of 2 |
-| [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 96 pages | 3 | q2–q4 | 1 of 3 |
+| [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 97 pages | 3 | q2–q4 | 1 of 3 |
 | [Different media combinations significantly affect the recall and retention of information](claims/media-combinations-affect-recall-and-retention.md) | 94 pages | 1 | q3 | 0 of 1 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 90 pages | 3 | q3 | 0 of 3 |
 | [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 85 pages | 3 | q2–q3 | 2 of 3 |
@@ -102,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-112 claims are cited both ways.
+113 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 237 | 3 | 3 | 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 223 | 14 | 3 | 2 |
+| [Applying skill theory to grammar conflates constructs: pedagogical rules are not what …](claims/grammar-as-skill-is-a-conflation.md) | 2 | 0 | 3 | 1 |
 | [There is no direct evidence that comprehensible input is necessary for L2 acquisition; …](claims/no-direct-evidence-input-hypothesis.md) | 1 | 0 | 3 | 1 |
-| [Self Assessment Accuracy Is Low Without Training](claims/self-assessment-accuracy-is-low-without-training.md) | 1 | 14 | 3 | 2 |
 
 ## Evidence by kind of page
 
@@ -134,14 +134,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 463 | 391 | 1 | 0 |
-| [elements](elements/index.md) | 732 | 497 | 2 | 0 |
+| [elements](elements/index.md) | 762 | 522 | 2 | 0 |
 | [patterns](patterns/index.md) | 136 | 117 | 7 | 0 |
-| [strategies](strategies/index.md) | 3,184 | 2,336 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,230 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 946 | 757 | 1 | 0 |
+| [theories](theories/index.md) | 995 | 801 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 115 | 93 | 1 | 0 |
+| [designs](designs/index.md) | 117 | 93 | 1 | 0 |
 
 ## Toward pooled estimates
 
