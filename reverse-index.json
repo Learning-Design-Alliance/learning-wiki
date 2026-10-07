@@ -11,7 +11,7 @@
   "claims->theories": 205,
   "designs->claims": 113,
   "designs->designs": 27,
-  "designs->elements": 26,
+  "designs->elements": 35,
   "designs->patterns": 21,
   "designs->principles": 10,
   "designs->theories": 21,
@@ -147056,6 +147056,13 @@
      }
     ]
    },
+   "accelerated-middle-schools-program": {
+    "designs": [
+     {
+      "slug": "accelerated-middle-school-common-design-elements"
+     }
+    ]
+   },
    "accommodations": {
     "claims": [
      {
@@ -157694,6 +157701,11 @@
     ]
    },
    "building-blocks-preschool-math-curriculum": {
+    "designs": [
+     {
+      "slug": "building-blocks-multi-context-implementation-pattern"
+     }
+    ],
     "elements": [
      {
       "slug": "building-blocks-adaptive-computer-activities"
@@ -167273,6 +167285,11 @@
     ]
    },
    "connect-with-kids-program": {
+    "designs": [
+     {
+      "slug": "cwk-video-discussion-followup-lesson-sequence"
+     }
+    ],
     "elements": [
      {
       "slug": "facing-history-and-ourselves-curriculum"
@@ -169362,9 +169379,21 @@
     ]
    },
    "early-intervention-in-reading-program": {
+    "designs": [
+     {
+      "slug": "eir-daily-supplemental-reading-cycle"
+     }
+    ],
     "elements": [
      {
       "slug": "eir-internet-teacher-training-program"
+     }
+    ]
+   },
+   "early-risers-prevention-program": {
+    "designs": [
+     {
+      "slug": "early-risers-four-component-model"
      }
     ]
    },
@@ -172102,6 +172131,11 @@
     ]
    },
    "green-dot-six-principle-charter-model": {
+    "designs": [
+     {
+      "slug": "large-school-conversion-into-small-charter-schools"
+     }
+    ],
     "elements": [
      {
       "slug": "kipp-charter-network-intervention"
@@ -174917,6 +174951,13 @@
     "elements": [
      {
       "slug": "reflective-journal-interview-flca-instruments"
+     }
+    ]
+   },
+   "open-court-reading-curriculum-element": {
+    "designs": [
+     {
+      "slug": "open-court-three-part-unit-progression"
      }
     ]
    },
@@ -180460,6 +180501,11 @@
     ]
    },
    "reading-recovery-program-element": {
+    "designs": [
+     {
+      "slug": "reading-recovery-training-cascade"
+     }
+    ],
     "elements": [
      {
       "slug": "reading-recovery-tutoring-program"
@@ -183399,6 +183445,13 @@
     ]
    },
    "spellread-program-element": {
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "spellread-three-phase-structure",
+      "strength": "M"
+     }
+    ],
     "elements": [
      {
       "slug": "spellread-program"
