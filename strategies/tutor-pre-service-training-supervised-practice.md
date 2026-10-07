@@ -37,7 +37,8 @@ GO Tutor Corps pairs pre-service training with regular professional development 
 - Effective academic tutoring strategies in mathematics and ELA; building appropriate student relationships
 
 ## Related Strategies
-- 
+
+- [Provide tutors 20 hours of pre-service training plus ongoing weekly coaching and professional development](tutor-training-weekly-coaching-strategy.md)
 
 ## Examples
 -

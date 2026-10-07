@@ -45,3 +45,4 @@ The evidence summary reports one study with 6,853 students and an average effect
 ## Related Claims
 - [Students in Classtime schools scored significantly higher on CAASPP mathematics than comparison-school students (effect size +0.05)](classtime-higher-caaspp-math-scores.md) — a narrower finding that bears on this claim
 - [Classtime effects were strongest among sixth-grade students and larger in schools with a second year of implementation](classtime-grade-and-duration-moderators.md) — a narrower finding that bears on this claim
+- [Across two quasi-experimental studies, Istation Reading shows a weighted mean effect size of +0.08, qualifying it for a Promising evidence rating](istation-weighted-mean-008-promising.md) — related

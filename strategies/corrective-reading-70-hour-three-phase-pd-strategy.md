@@ -45,6 +45,7 @@ In the qualifying study, "teachers in the study received 70 hours of professiona
 - [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
 - [Weeklong initial teacher training with biweekly follow-up meetings for delivering the fraction intervention](fraction-face-off-teacher-training-model.md)
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
+- [Designate a Spalding coordinator and provide 45-70 hours of formal teacher training with ongoing mentoring to support implementation fidelity](spalding-coordinator-and-intensive-pd-strategy.md)
 
 ## Examples
 -

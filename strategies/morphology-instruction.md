@@ -57,8 +57,10 @@ Morphology instruction works because it converts thousands of arbitrary word-lea
 5. Have learners generate their own word families and test hypotheses about spelling-meaning connections, then apply analysis during connected-text reading ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Vocabulary Instruction](vocabulary-instruction.md) — morphology is the generative complement to definitional vocabulary teaching
 - [Phonics Instruction](phonics-instruction.md) — morphology layers letter-level decoding onto unit-level analysis
+- [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
 
 ## Examples
 - **Structured Word Inquiry** (Bowers & Kirby) — classrooms use word matrices and word sums to investigate morphological families; see https://www.wordworkskingston.com

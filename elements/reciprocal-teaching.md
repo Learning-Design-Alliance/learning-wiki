@@ -55,11 +55,13 @@ Reciprocal Teaching improves comprehension by making strategic reading processes
 - 
 
 ## Related Elements
+
 - [Peer Teaching](peer-teaching.md) — the rotating leader role is a structured form of peer teaching with built-in expert modeling
 - [Coaching](coaching.md) — the instructor's role during student-led sessions is coaching, not observing
 - [Fading](fading.md) — responsibility transfer is the defining design feature
 - [Class Discussion](class-discussion.md) — reciprocal teaching structures discussion around explicit comprehension strategies
 - [Think-Aloud](think-aloud.md) — the modeling phase uses think-aloud to make strategic reading visible
+- [Collaborative Strategic Reading (CSR) program for reading comprehension](collaborative-strategic-reading-program.md)
 
 ## Patterns That Use This Element
 - [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — student-led questioning drives group sense-making

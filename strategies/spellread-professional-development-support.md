@@ -45,6 +45,10 @@ The article reports that SpellRead™ implementation is supported by "comprehens
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
 - [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
+- [Assign a dedicated site expert and site-developed professional learning plan when implementing Imagine Language & Literacy](imagine-ll-site-expert-and-professional-learning.md)
+- [Brief initial training plus follow-up courses and coaching for program implementation](journeys-pd-training-coaching.md)
+- [Provide LLI interventionists with 3-day formal training including follow-up on-site coaching](lli-three-day-training-with-on-site-coaching.md)
+- [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 
 ## Examples
 -

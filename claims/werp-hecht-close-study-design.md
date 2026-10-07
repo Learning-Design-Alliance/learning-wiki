@@ -48,3 +48,4 @@ Study characteristics reported in WWC Appendix A1: a quasi-experimental design i
 - [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](werp-potentially-positive-alphabetics.md) — related
 - [Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains](waterford-level-one-small-extent-of-evidence.md) — related
 - [Waterford Upstart participation shows statistically significant positive effects on early literacy skills in matched quasi-experimental cohorts](waterford-upstart-positive-early-literacy-effects.md) — related
+- [Across two quasi-experimental studies, Istation Reading shows a weighted mean effect size of +0.08, qualifying it for a Promising evidence rating](istation-weighted-mean-008-promising.md) — related

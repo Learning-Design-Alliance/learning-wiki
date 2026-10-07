@@ -50,6 +50,7 @@ Bright Beginnings is an early childhood curriculum based in part on the High/Sco
 
 - [Curiosity Corner early childhood curriculum](curiosity-corner-curriculum.md)
 - [Literacy Express preschool curriculum](literacy-express-curriculum.md)
+- [Curiosity Corner full-day prekindergarten literacy and language program](curiosity-corner-prek-program.md)
 
 ## Examples
 

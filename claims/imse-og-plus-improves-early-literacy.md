@@ -65,3 +65,5 @@ Quasi-experimental study during the 2021–2022 school year in Ohio comparing ai
 - [Third-grade students whose teachers implemented IMSE's Morphology+ scored significantly higher on NWEA MAP Growth Reading than comparison students (effect size +0.05)](morphology-plus-significant-reading-gain-third-grade.md) — related
 - [Grade 1 students receiving Really Great Reading instruction scored higher on the NWEA MAP Reading Growth assessment in winter 2022](rgr-grade1-higher-map-winter-2022.md) — related
 - [Grade 3 Really Great Reading students did not outperform non-users on the winter NWEA MAP administration](rgr-grade3-no-outperformance-map.md) — related
+- [Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)](istation-sc-map-reading-growth-006.md) — related
+- [Reading Horizons Discovery produced a small statistically significant positive effect on DIBELS 8 composite scores in K-3 students compared to matched comparison students](reading-horizons-discovery-dibels-positive-effect.md) — related

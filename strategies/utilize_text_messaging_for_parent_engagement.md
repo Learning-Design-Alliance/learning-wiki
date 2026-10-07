@@ -61,9 +61,11 @@ Texting works because it lowers the behavioral cost of engagement: parents act o
 7. Evaluate against a concrete outcome (activity frequency, attendance, early literacy scores) and adjust cadence and content.
 
 ## Related Strategies
+
 - Positive phone calls and personalized teacher outreach — the higher-touch complement; texts scale what calls cannot
 - Take-home activity kits — pair physical materials with text prompts to remove resource barriers
 - Attendance nudges — a well-evidenced narrow application of the same low-cost messaging logic
+- [Mail parents personalized, actionable absence reports about their own student's attendance](mail-personalized-absence-reports-parents.md)
 
 ## Examples
 - **[READY4K](https://ready4k.parentpowered.com)** (Stanford-developed, now ParentPowered) — weekly texted literacy tips matched to classroom curriculum; a large randomized trial in San Francisco showed gains in early literacy [~S].

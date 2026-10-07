@@ -56,6 +56,7 @@ Fast ForWord® is "a computer-based reading program intended to help students de
 ## Related Elements
 
 - [Fast ForWord Language computer-based instructional program](fast-forword-language-program.md)
+- [Reading Plus web-based literacy program for grades 3-12+](reading-plus-web-based-literacy-program.md)
 
 ## Examples
 

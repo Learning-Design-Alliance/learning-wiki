@@ -51,6 +51,12 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
+- [Brief initial training plus follow-up courses and coaching for program implementation](journeys-pd-training-coaching.md)
+- [Provide LLI interventionists with 3-day formal training including follow-up on-site coaching](lli-three-day-training-with-on-site-coaching.md)
+- [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
+- [Designate a Spalding coordinator and provide 45-70 hours of formal teacher training with ongoing mentoring to support implementation fidelity](spalding-coordinator-and-intensive-pd-strategy.md)
+- [Online asynchronous professional learning series completed in teams across the school year](stari-professional-learning-series.md)
+- [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
 
 ## Examples
 -

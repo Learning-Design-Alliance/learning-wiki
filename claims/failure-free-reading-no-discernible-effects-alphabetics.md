@@ -46,3 +46,4 @@ Findings from the Torgesen et al. (2006) randomized controlled trial of 93 third
 - [Failure Free Reading shows no discernible effects on reading fluency](failure-free-reading-no-discernible-effects-fluency.md) — related
 - [The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not](voyager-study-average-effect-sizes-differ.md) — related
 - [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](sfa-positive-effects-alphabetics-k-4.md) — reports the opposite
+- [CSR shows small positive effects on GMRT and TOSREC with an average effect size of +0.04 across three evaluations](csr-small-positive-effects-gmrt-tosrec.md) — related

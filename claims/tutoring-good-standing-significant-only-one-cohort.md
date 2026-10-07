@@ -48,3 +48,4 @@ Proportion comparisons across visit categories for both cohorts at 200840. Table
 - [Retention programs interpreted as meeting all three SDT needs show higher persistence and standing](retention-programs-meeting-all-three-needs-higher-persistence.md) — related
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — related
 - [Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users](epsrl-higher-course-completion-deadline-rate.md) — related
+- [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](pthv-home-visits-improve-attendance-slightly.md) — related

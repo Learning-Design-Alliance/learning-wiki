@@ -45,6 +45,9 @@ In the evaluated implementation, intervention teachers received 2.5 full days of
 - [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
+- [Implement Curiosity Corner with two initial training workshop days plus ongoing onsite coaching and support](curiosity-corner-training-coaching-strategy.md)
+- [Brief initial training plus follow-up courses and coaching for program implementation](journeys-pd-training-coaching.md)
+- [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 
 ## Examples
 -

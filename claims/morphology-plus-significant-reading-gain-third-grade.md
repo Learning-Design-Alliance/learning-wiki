@@ -46,3 +46,4 @@ Quasi-experimental study during the 2024-2025 school year in a Title I Michigan 
 - [IMSE's OG+ improves early literacy outcomes in grades K–3, with effect sizes of +0.33 and +0.21 across two quasi-experimental studies](imse-og-plus-improves-early-literacy.md) — related
 - [Morphology+ showed larger positive effects in the informational text (+0.17) and vocabulary (+0.18) subdomains than the overall reading effect](morphology-plus-subdomain-effects-informational-vocabulary.md) — a narrower finding that bears on this claim
 - [Grade 3 Really Great Reading students did not outperform non-users on the winter NWEA MAP administration](rgr-grade3-no-outperformance-map.md) — related
+- [Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)](istation-sc-map-reading-growth-006.md) — related

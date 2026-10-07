@@ -61,4 +61,4 @@ The trial was conducted in a rural eastern Colorado elementary school where 61% 
 
 
 ## Related Claims
--
+- [Teachers and interventionists gave mostly favorable implementation ratings, with over 90% comfortable implementing and finding it supplemented the core program well](rise-teacher-favorable-implementation-ratings.md) — related

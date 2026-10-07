@@ -58,9 +58,11 @@ Video report cards apply multimedia and personalization principles to family com
 6. Where feasible, have students draft or co-record their segment to build ownership and self-monitoring skills [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 
 ## Related Strategies
+
 - Student-Led Conferences — the in-person counterpart; video report cards can prepare families for them
 - Positive Phone Calls Home — a lower-production channel serving the same relationship-building function
 - Progress Monitoring Dashboards — the data source the video narrates
+- [Mail parents personalized, actionable absence reports about their own student's attendance](mail-personalized-absence-reports-parents.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — the report card data being communicated

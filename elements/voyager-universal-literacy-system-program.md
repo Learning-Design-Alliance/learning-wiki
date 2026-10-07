@@ -45,7 +45,8 @@ A core reading program "designed to help students learn to read at or above grad
 - [The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not](../claims/voyager-study-average-effect-sizes-differ.md) [+W]
 
 ## Related Elements
-- 
+
+- [Houghton Mifflin Harcourt Journeys comprehensive reading and language arts program](journeys-reading-language-arts-program.md)
 
 ## Examples
 -

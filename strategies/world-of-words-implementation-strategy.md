@@ -51,6 +51,11 @@ The report describes an implementation package for educators adopting World of W
 - [Support facilitator uptake of co-regulation through in-person training plus biweekly coaching calls and classroom site visits](training-plus-biweekly-coaching-and-site-visits-for-co-regulation.md)
 - [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
 - [One-day teacher workshop plus optional training-of-trainers for implementing CSC](csc-teacher-workshop-and-training-of-trainers.md)
+- [Implement Curiosity Corner with two initial training workshop days plus ongoing onsite coaching and support](curiosity-corner-training-coaching-strategy.md)
+- [Assign a dedicated site expert and site-developed professional learning plan when implementing Imagine Language & Literacy](imagine-ll-site-expert-and-professional-learning.md)
+- [Provide LLI interventionists with 3-day formal training including follow-up on-site coaching](lli-three-day-training-with-on-site-coaching.md)
+- [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
+- [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
 
 ## Examples
 -

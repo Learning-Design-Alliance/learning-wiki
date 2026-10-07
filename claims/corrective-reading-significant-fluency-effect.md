@@ -45,3 +45,4 @@ Randomized controlled trial of 79 third-grade students in eight Pennsylvania sch
 ## Related Claims
 - [Corrective Reading showed no statistically significant effects on reading comprehension outcomes](corrective-reading-no-comprehension-effects.md) — related
 - [In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks](rashotte-2001-spellread-significant-gains.md) — related
+- [Students in the Readable English intervention group showed significant improvements in reading fluency and comprehension compared to the control group](readable-english-significant-gains-over-control.md) — related

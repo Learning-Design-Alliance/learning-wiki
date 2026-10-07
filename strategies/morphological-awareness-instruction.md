@@ -60,9 +60,11 @@ Morphological instruction leverages the systematic structure of English — the 
 5. Fade teacher modeling toward independent analysis of unfamiliar words, prompting students to ask "What does this word's structure tell me?"
 
 ## Related Strategies
+
 - [Phonics Instruction](phonics-instruction.md) — complementary word-level approach; morphology extends decoding beyond the alphabetic principle
 - [Vocabulary Instruction](vocabulary-instruction.md) — morphological analysis is a generative alternative to definitional teaching
 - [Word Sorts](word-sorts.md) — a common activity vehicle for morphological comparison
+- [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
 
 ## Examples
 - **Words Their Way** (Bear, Invernizzi, Templeton, & Johnston) — developmental word study program using word sorts that include derivational relations stages; widely used in elementary classrooms.

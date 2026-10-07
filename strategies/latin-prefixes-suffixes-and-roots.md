@@ -60,10 +60,12 @@ Morphological instruction works because it converts vocabulary learning from rot
 6. Revisit taught morphemes across weeks in new words and connected text ([Spaced Repetition](../elements/spaced-repetition.md) improves long-term retention).
 
 ## Related Strategies
+
 - [Greek and Latin Number Prefixes](greek-and-latin-number-prefixes.md) — a focused subset of morpheme instruction targeting quantity words
 - [Morphological Awareness Instruction](morphological-awareness-instruction.md) — the broader family of instruction about meaningful word parts, including inflections and Anglo-Saxon compounds
 - [Contextual Redefinition](contextual-redefinition.md) — complements morpheme analysis by using sentence context to confirm or refine morpheme-based inferences
 - [Word Walls](word-walls.md) — a display structure for keeping taught morphemes and derived words visible over time
+- [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
 
 ## Related Elements
 - [Direct Instruction](../elements/direct-instruction.md) — the explicit teaching episode that introduces each morpheme

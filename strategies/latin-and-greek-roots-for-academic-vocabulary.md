@@ -61,9 +61,11 @@ Morphological analysis functions as a generative decoding strategy: a few hundre
 6. Review previously taught roots on a spaced schedule [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - **Morphological analysis instruction** — the broader research category; root teaching is its Latin/Greek-specific strand
 - **Cognate instruction** — for English learners, connecting Latin roots to Spanish/French cognates multiplies transfer
 - **Context-clue instruction** — complementary; roots and context are jointly more powerful than either alone
+- [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
 
 ## Examples
 - **Greek and Latin roots curricula** such as *Wordly Wise 3000* and *Vocabulary from Classical Roots* (Educators Publishing Service) organize instruction around morpheme families.

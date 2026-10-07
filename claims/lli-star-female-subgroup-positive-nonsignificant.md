@@ -46,3 +46,6 @@ Supplemental subgroup analysis from the 2013 Denver RCT; only four grade-by-demo
 - [In the 2010 RCT, LLI produced a statistically significant positive effect on reading fluency for grades 1–2 (effect size 0.27, improvement index +11)](lli-2010-positive-reading-fluency.md) — related
 - [In a 2013 Denver RCT, LLI showed a statistically significant positive effect on BAS reading achievement, a negative but non-significant difference on DRA2, and a positive but non-significant difference on STAR for female students in grades 1–2](lli-2013-denver-rct-mixed-measure-results.md) — possibly the same claim (merge candidate)
 - [In the 2010 RCT, LLI showed no discernible effects on alphabetics (domain average effect size 0.13, not statistically significant)](lli-no-discernible-alphabetics-effects.md) — related
+- [LLI improves reading outcomes for struggling K-2 readers with an average effect size of +0.13 across two studies](lli-average-effect-size-013-two-studies.md) — related
+- [In a Denver study, LLI showed very positive outcomes on the DRA2 in kindergarten but not in first or second grade, for an effect size of +0.10](lli-denver-dra2-kindergarten-only-010.md) — related
+- [Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced](lli-teacher-perceptions-positive-with-pacing-concerns.md) — related
