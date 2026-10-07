@@ -62,9 +62,11 @@ Coaching applies the same learning science that governs novice skill acquisition
 7. **Repeat the cycle** — iterate until the practice is fluent, then fade support, mirroring [fading](../elements/fading.md) in scaffolded instruction.
 
 ## Related Strategies
+
 - Lesson Study — a group-based variant of the same observe–refine cycle, trading individualization for collective analysis
 - Video-Based Reflection — the evidence-gathering component of coaching, usable standalone
 - Professional Learning Communities — sustained collaborative PD, but peer-run rather than expert-guided
+- [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](layered-tutor-professional-development-support.md)
 
 ## Examples
 - **[MyTeachingPartner](https://curry.virginia.edu/myteachingpartner)** (University of Virginia) — web-mediated coaching in which teachers submit classroom video and receive consultant feedback on teacher–student interactions; replicated RCTs show gains in interaction quality and student achievement.

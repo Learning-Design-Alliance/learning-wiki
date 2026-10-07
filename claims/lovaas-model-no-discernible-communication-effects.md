@@ -46,3 +46,4 @@ WWC review of the Sallows and Graupner (2005) randomized controlled trial (23 ch
 - [The Lovaas Model has no discernible effects on functional abilities for children with disabilities](lovaas-model-no-discernible-functional-abilities-effects.md) — related
 - [The Lovaas Model has no discernible effects on social-emotional development and behavior for children with disabilities](lovaas-model-no-discernible-social-emotional-effects.md) — related
 - [The Lovaas Model has potentially positive effects on cognitive development for children with disabilities, with an improvement index of +27 percentile points](lovaas-model-potentially-positive-cognitive-development.md) — related
+- [Dialogic reading has potentially positive effects on communication and language competencies for children with disabilities](dialogic-reading-potentially-positive-communication-language-disabilities.md) — related

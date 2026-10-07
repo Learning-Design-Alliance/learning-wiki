@@ -65,6 +65,7 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 - [Differentiated Instruction](differentiated-instruction.md) — Tier 2 grouping is one structured form of differentiation
 - [Deploy prevention and intervention supports for underachieving gifted students](gifted-underachievement-interventions.md)
 - [Apply goal-line decision rules to CBM data to adjust IEP goals or revise instruction](cbm-goal-line-decision-rules-iep.md)
+- [Use a multi-stage screening tool (SSBD) to nominate and rank at-risk students for behavioral intervention](ssbd-multistage-screening-target-student-selection.md)
 
 ## Examples
 - **Early reading RTI in Minnesota and Ohio statewide initiatives** — universal DIBELS screening three times per year, with Tier 2 small-group phonics intervention and weekly oral-reading-fluency monitoring; both states documented reduced special education identification rates in participating districts.

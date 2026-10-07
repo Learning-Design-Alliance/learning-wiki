@@ -48,7 +48,8 @@ MAIN is a tool "developed to assess narrative production and comprehension skill
 - [Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments](../claims/bilingual-preschoolers-lowest-microstructure-interactions.md) [~W]
 
 ## Related Elements
-- 
+
+- [Combined narrative measure (Bear Story) assessing coherent English narrative production](bear-story-combined-narrative-measure.md)
 
 ## Examples
 -

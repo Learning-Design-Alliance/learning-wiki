@@ -48,3 +48,5 @@ WWC synthesis of two studies (Humphrey et al., 2018, Hodder Group Reading Test, 
 - [Good Behavior Game shows uncertain effects on intrapersonal competencies, with a pooled effect size of 0.14 that is not statistically significant](gbg-uncertain-intrapersonal-effects.md) — related
 - [Good Behavior Game shows uncertain effects on mathematics achievement, with an effect size of 0.26 that is not statistically significant](gbg-uncertain-math-effects.md) — related
 - [Good Behavior Game shows uncertain effects on school climate in after-school programs, with a pooled effect size of 0.15 that is not statistically significant](gbg-uncertain-school-climate-effects.md) — related
+- [PAX Good Behavior Game is rated in the Promising evidence category based on one qualifying study of 949 students](pax-gbg-promising-rating-one-study.md) — related
+- [PAX Good Behavior Game classes achieved higher reading scores than matched control classes, with an effect size of +0.19](pax-gbg-reading-effect-019.md) — related

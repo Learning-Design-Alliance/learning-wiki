@@ -80,3 +80,4 @@ A systematic review of experimental and quasi-experimental studies of universal 
 - [The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others](framework-elements-interrelated-in-practice.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [SEL Programs Improve Academic Achievement](sel-programs-improve-behavior-and-achievement.md) — related
+- [Learning Genie effects on SEL outcomes were mixed, with Social and Emotional Development scores showing the greatest gains](learning-genie-sel-outcomes-mixed.md) — a narrower finding that bears on this claim

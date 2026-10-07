@@ -44,6 +44,13 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
 - [One-day teacher workshop plus optional training-of-trainers for implementing CSC](csc-teacher-workshop-and-training-of-trainers.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
+- [Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions](classtime-kickoff-plus-ongoing-pd-strategy.md)
+- [Provide 70 hours of professional development in three phases: intensive training, practice, and implementation](corrective-reading-70-hour-three-phase-pd-strategy.md)
+- [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](layered-tutor-professional-development-support.md)
+- [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
+- [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
+- [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
+- [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
 
 ## Examples
 -

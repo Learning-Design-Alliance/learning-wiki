@@ -48,3 +48,5 @@ Systematic review (WWC Adolescent Literacy protocol, Version 2.0) computing impr
 - [The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points](project-criss-potentially-positive-comprehension-rating.md) — related
 - [READ 180® has positive effects on reading comprehension for adolescent readers in grades 4–12](read-180-positive-effects-comprehension-adolescents.md) — related
 - [The WWC rates Reading Apprenticeship® as having potentially positive effects on comprehension for adolescent learners, based on one study](reading-apprenticeship-potentially-positive-comprehension.md) — related
+- [CIRC has potentially positive effects on comprehension for beginning readers, with an average improvement index of +12 percentile points across two studies](circ-potentially-positive-comprehension-effects.md) — related
+- [Core-Plus Mathematics has potentially positive effects on mathematics achievement for high school students, with an average improvement index of +15 percentile points](core-plus-math-potentially-positive-effects.md) — related

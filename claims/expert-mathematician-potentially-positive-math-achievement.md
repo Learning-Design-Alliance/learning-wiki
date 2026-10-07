@@ -45,3 +45,4 @@ Randomized controlled trial of 90 eighth-grade students (70 completing pre- and 
 ## Related Claims
 - [Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate](baker-trial-pretest-difference-covariate-control.md) — related
 - [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](wwc-potentially-positive-rating-expert-mathematician.md) — possibly the same claim (merge candidate)
+- [Targeted Skills Instruction virtual small-group tutoring significantly improves ELA achievement (+0.48) for below-25th-percentile students in grades 3, 4 and 6](tsi-virtual-tutoring-ela-effect-0-48.md) — related

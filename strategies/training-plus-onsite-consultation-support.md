@@ -43,6 +43,8 @@ In the evaluated implementation, intervention teachers received 2.5 full days of
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
+- [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
+- [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
 
 ## Examples
 -

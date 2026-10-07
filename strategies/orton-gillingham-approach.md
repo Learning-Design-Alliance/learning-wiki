@@ -58,8 +58,10 @@ OG operationalizes several well-supported principles: systematic [explicit instr
 6. Read connected decodable text containing only taught elements, then assign review for distributed practice.
 
 ## Related Strategies
+
 - [Activate background knowledge](../strategies/activate_background_knowledge.md) — OG lessons open by activating what the learner already knows about sounds and letters before adding new content
 - [Act it out](../strategies/act_it_out.md) — shares the kinesthetic-engagement rationale, though OG applies it to grapheme–phoneme mapping rather than comprehension
+- [Train all staff who deliver the foundational literacy block in IMSE OG+](train-all-foundational-block-staff-og-plus.md)
 
 ## Examples
 - **[Wilson Reading System](https://www.wilsonlanguage.com)** — an OG-based curriculum widely used in Tier 3 intervention for students with dyslexia, with a fixed 12-step scope and sequence.

@@ -41,6 +41,10 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Design professional development that is intensive, on-site, peer-based, responsive, and grounded in teachers' real classroom experiences](tefa-pd-design-strategy.md)
 - [Support facilitator uptake of co-regulation through in-person training plus biweekly coaching calls and classroom site visits](training-plus-biweekly-coaching-and-site-visits-for-co-regulation.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
+- [Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions](classtime-kickoff-plus-ongoing-pd-strategy.md)
+- [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
+- [Train teachers on technology management, report interpretation, and minimal redirection before computer-based instruction](teacher-training-computer-based-instruction.md)
+- [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
 
 ## Examples
 -

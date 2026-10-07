@@ -52,3 +52,4 @@ The report's effectiveness summary synthesizes three studies (2 RCTs meeting sta
 - [The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not](voyager-study-average-effect-sizes-differ.md) — related
 - [Ladders to Literacy shows potentially positive effects on alphabetics, with an average improvement index of +25 percentile points and a domain average effect size of 0.69](ladders-to-literacy-potentially-positive-alphabetics.md) — related
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](lips-supplemental-followup-mixed-findings.md) — related
+- [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related

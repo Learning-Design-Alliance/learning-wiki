@@ -45,6 +45,7 @@ Spelling Mastery is a Direct Instruction spelling curriculum from McGraw-Hill fo
 ## Related Elements
 
 - [Reading Mastery direct instruction reading program (Reading Mastery Classic K-3 and Reading Mastery Plus K-6)](reading-mastery-direct-instruction-program.md)
+- [Reading Mastery: a Direct Instruction reading curriculum for grades K–6 in three versions](reading-mastery-program-element.md)
 
 ## Examples
 

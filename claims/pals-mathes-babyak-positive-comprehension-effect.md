@@ -44,3 +44,4 @@ Study meeting WWC evidence standards with reservations: 130 first graders in fiv
 
 ## Related Claims
 - [For first-grade nonresponders, PALS showed a substantively important negative (but statistically non-significant) effect on reading comprehension versus adult tutoring](pals-mcmaster-comprehension-negative-effect.md) — related
+- [The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)](core-plus-sat-math-substantively-important.md) — related

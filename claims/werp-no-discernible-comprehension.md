@@ -49,3 +49,4 @@ WWC analysis of the comprehension domain in Hecht & Close (2002): one outcome, t
 - [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](werp-potentially-positive-alphabetics.md) — related
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related
 - [Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains](waterford-level-one-small-extent-of-evidence.md) — related
+- [Waterford Upstart participation shows statistically significant positive effects on early literacy skills in matched quasi-experimental cohorts](waterford-upstart-positive-early-literacy-effects.md) — related

@@ -45,3 +45,4 @@ Kindergarten follow-up from the PCER Consortium (2008) randomized controlled tri
 ## Related Claims
 - [Curiosity Corner shows no discernible effects on preschool print knowledge in the PCER randomized trial](curiosity-corner-no-discernible-print-knowledge-effects.md) — related
 - [Curiosity Corner shows no discernible effects on preschool math outcomes in the PCER randomized trial](curiosity-corner-no-discernible-math-effects.md) — related
+- [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related

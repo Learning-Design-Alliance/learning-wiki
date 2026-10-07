@@ -54,3 +54,4 @@ The WWC's review of the evidence base reports that 24 studies failed evidence sc
 - [The evidence base for the Lovaas Model is small: only two of 58 reviewed studies met WWC evidence standards](lovaas-model-evidence-base-small-two-studies.md) — related
 - [The evidence base for Open Court Reading© is thin: of 185 identified studies, only two met WWC group design standards, and none met standards for alphabetics or reading fluency](open-court-reading-small-evidence-base-two-domains-uncovered.md) — related
 - [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related
+- [The evidence base for Headsprout Early Reading is limited to one small RCT, supporting only a potentially positive rating](headsprout-evidence-base-small-one-study.md) — related

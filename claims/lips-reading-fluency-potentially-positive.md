@@ -48,3 +48,4 @@ Posttest findings from the Torgesen et al. (2001) RCT (n = 50). Both GORT–III 
 - [LiPS has no discernible effects on reading comprehension for students with learning disabilities](lips-no-discernible-reading-comprehension-effects.md) — related
 - [Read Naturally® shows no discernible effects on reading fluency for students with learning disabilities, with small negative effect sizes on GORT-III accuracy and rate](read-naturally-no-discernible-reading-fluency-effects.md) — related
 - [LiPS has potentially positive effects on alphabetics for students with learning disabilities, with statistically significant advantages on two of eight measures](lips-potentially-positive-alphabetics-learning-disabilities.md) — related
+- [Earobics® has potentially positive effects on reading fluency, with no statistically significant fluency findings](earobics-potentially-positive-reading-fluency.md) — related

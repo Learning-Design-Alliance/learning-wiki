@@ -46,3 +46,4 @@ In the Lonigan et al. (2003) randomized controlled trial, the word blending outc
 - [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](lonigan-2003-significant-four-of-eight-outcomes.md) — related
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](daisyquest-positive-effects-phonological-processing.md) — a broader claim this one bears on
 - [DaisyQuest improved phonological awareness over regular schooling in a child-care facility randomized trial](daisyquest-child-care-significant-gains.md) — related
+- [Blending-focused phonological awareness training produced statistically significant positive differences on blending outcomes in O'Connor et al. (1993)](blending-focus-training-significant-blending-outcomes-oconnor-1993.md) — related

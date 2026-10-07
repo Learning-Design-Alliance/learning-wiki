@@ -42,6 +42,7 @@ The article describes a one-year professional development model in which eight s
 - [Positive Behavior Interventions And Supports](positive-behavior-interventions-and-supports.md)
 - [Positive Behavioral Interventions and Supports (PBIS)](positive-behavioral-interventions-and-supports-pbis.md)
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
+- [Provide 70 hours of professional development in three phases: intensive training, practice, and implementation](corrective-reading-70-hour-three-phase-pd-strategy.md)
 
 ## Examples
 -

@@ -63,3 +63,4 @@ WWC calculations on the same trial found the TERA-3 effect size of 0.32 met the 
 - [Bright Beginnings shows no discernible effects on preschool math (domain average effect size 0.07, not statistically significant)](bright-beginnings-null-math.md) — related
 - [Bright Beginnings shows no discernible effects on preschool phonological processing (effect size -0.08, not statistically significant)](bright-beginnings-null-phonological-processing.md) — related
 - [Phonological awareness training plus letter knowledge training has positive effects on preschoolers' print knowledge](pat-lk-positive-print-knowledge-preschool.md) — related
+- [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related

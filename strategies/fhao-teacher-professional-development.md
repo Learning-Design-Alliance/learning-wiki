@@ -43,6 +43,9 @@ The program's professional development model combines an intensive Summer Instit
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
+- [Provide 70 hours of professional development in three phases: intensive training, practice, and implementation](corrective-reading-70-hour-three-phase-pd-strategy.md)
+- [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
+- [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
 
 ## Examples
 -

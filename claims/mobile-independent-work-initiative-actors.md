@@ -46,3 +46,4 @@ From the same observational implementation study of MALL with Mobl21: the author
 - [MALL implementation with Mobl21 was psychologically comfortable for students and facilitated actualization of their learning potential](mall-implementation-psychological-comfort-learning-potential.md) — a broader claim this one bears on
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
 - [GPS-supported mobile language learning outside the classroom lets students integrate classroom knowledge with authentic daily-life needs](gps-mobile-learning-integrates-classroom-and-daily-life.md) — related
+- [Twig Science implementation is feasible with existing classroom staffing and either networked devices or print materials](twig-science-low-staffing-implementation-requirements.md) — related

@@ -50,3 +50,4 @@ Systematic WWC synthesis of two studies (one randomized controlled trial, one qu
 - [The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points](project-criss-potentially-positive-comprehension-rating.md) — related
 - [Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)](growth-mindset-potentially-positive-academic-achievement-postsecondary.md) — related
 - [The average improvement index for PALS on reading achievement for English language learners is +12 percentile points, ranging from +5 to +25 across findings](pals-improvement-index-reading-12-percentile.md) — related
+- [The average improvement index for Arthur in English language development is +11 percentile points, ranging from –5 to +17 across findings](arthur-improvement-index-plus-11.md) — related

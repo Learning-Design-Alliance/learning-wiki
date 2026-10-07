@@ -49,3 +49,5 @@ WWC synthesis of two randomized controlled trials meeting evidence standards wit
 - [In the Rashotte et al. (2001) study, the WWC confirmed statistically significant SpellRead™ effects on four of seven alphabetics outcomes](spellread-alphabetics-rashotte-four-significant.md) — a narrower finding that bears on this claim
 - [SpellRead™ has potentially positive effects on reading comprehension, with an average improvement index of +20 percentile points](spellread-comprehension-index-twenty.md) — related
 - [SpellRead™ has positive effects on alphabetics for struggling beginning readers, with an average improvement index of +18 percentile points](spellread-positive-effects-alphabetics.md) — related
+- [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related
+- [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related

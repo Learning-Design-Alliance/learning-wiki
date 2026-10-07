@@ -48,7 +48,8 @@ Corrective Reading is a commercial program designed to promote "reading accuracy
 - [Effects of Corrective Reading varied by student subgroup: positive for students with high pretest vocabulary scores and for students not eligible for free/reduced lunch, but not for their counterparts](../claims/corrective-reading-subgroup-moderators.md) [~W]
 
 ## Related Elements
-- 
+
+- [Corrective Reading: scripted, structured lessons for upper-elementary struggling readers](corrective-reading-program-element.md)
 
 ## Examples
 -

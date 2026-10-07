@@ -51,6 +51,7 @@ The ABCD model is the theoretical foundation of the PATHS curriculum, integratin
 ## Examples
 
 - [PATHS (Promoting Alternative THinking Strategies) emotional literacy curriculum](../elements/paths-emotional-literacy-curriculum.md)
+- [PATHS curriculum: classroom-based social-emotional lessons delivered two to three times weekly within Fast Track](../elements/paths-curriculum-fast-track-classroom-lessons.md)
 
 ## Key Sources
 - Wu, Yann-Shya. (2000). Guidelines for Instructional Sequencing in Emotional Literacy Learning Using PATHS Curriculum as an Example. https://eric.ed.gov/?id=ED455810

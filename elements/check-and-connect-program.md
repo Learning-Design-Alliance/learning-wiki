@@ -48,7 +48,8 @@ Check & Connect is a dropout-prevention intervention built on monitoring of scho
 - [Check & Connect increases the percentage still enrolled at end of fourth year (supplemental finding)](../claims/check-and-connect-still-enrolled-supplemental.md) [+W]
 
 ## Related Elements
-- 
+
+- [ALAS dropout prevention program](alas-dropout-prevention-program.md)
 
 ## Examples
 -

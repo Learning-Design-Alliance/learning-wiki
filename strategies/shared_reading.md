@@ -61,9 +61,11 @@ Shared reading works because it combines expert modeling of fluent reading with 
 6. Extend into writing or retelling — journaling, illustration, dictated sentences — to connect reading and writing ([Class Discussion](../elements/class-discussion.md), [Annotating](../principles/annotating.md)).
 
 ## Related Strategies
+
 - Dialogic reading — the best-researched variant, emphasizing child-led conversation around the book
 - Echo and partner reading — the turn-taking adaptation for older or more advanced readers
 - Repeated reading — rereading for fluency, naturally embedded in shared reading routines
+- [Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book](gradual-shift-to-higher-level-prompts.md)
 
 ## Examples
 - **Dialogic reading interventions** (Whitehurst's original studies): parents of 2–3-year-olds trained in PEER/CROWD prompting showed significant gains in expressive language compared with controls ([https://doi.org/10.1037/0012-1649.24.4.552](https://doi.org/10.1037/0012-1649.24.4.552)).

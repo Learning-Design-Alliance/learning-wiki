@@ -50,7 +50,8 @@ PATHS is an experimental-based emotional literacy curriculum initially designed 
 - [PATHS macro-level sequencing combines spiral and topical sequencing patterns](../claims/paths-macro-sequencing-spiral-topical-combination.md) [+W]
 
 ## Related Elements
-- 
+
+- [PATHS curriculum: classroom-based social-emotional lessons delivered two to three times weekly within Fast Track](paths-curriculum-fast-track-classroom-lessons.md)
 
 ## Examples
 

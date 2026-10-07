@@ -49,7 +49,8 @@ Good Behavior Game is "a specific classroom management strategy that aims to imp
 - [Good Behavior Game shows uncertain effects on mathematics achievement, with an effect size of 0.26 that is not statistically significant](../claims/gbg-uncertain-math-effects.md) [~W]
 
 ## Related Elements
-- 
+
+- [PAX Good Behavior Game program](pax-good-behavior-game-program.md)
 
 ## Examples
 

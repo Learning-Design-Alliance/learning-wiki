@@ -58,9 +58,11 @@ Adaptive systems work by keeping each learner operating at the edge of their cur
 5. Review system decisions periodically — audit for learners stuck in remediation loops or advancing without mastery — and override the algorithm where the model is wrong.
 
 ## Related Strategies
+
 - [Mastery Learning](mastery-learning.md) — the instructional logic most adaptive systems automate; adaptation without a mastery criterion is mere pacing variation
 - [Spaced Retrieval](spaced-retrieval.md) — adaptive scheduling of review items (e.g., expanding intervals) is a common and well-supported adaptation dimension
 - [Formative Assessment](formative-assessment.md) — supplies the performance evidence on which any adaptation depends
+- [Use ongoing assessments to tailor early-childhood learning experiences](ongoing-assessment-tailored-early-learning.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — free math platform that adapts problem selection and scaffolding based on student responses; evaluated in randomized controlled trials in Maine middle schools.

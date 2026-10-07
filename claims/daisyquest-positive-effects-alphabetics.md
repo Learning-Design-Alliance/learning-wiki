@@ -47,3 +47,5 @@ WWC synthesis of four randomized controlled trials totaling 223 students. The re
 - [DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures](daisyquest-beats-math-software-alphabetics.md) — related
 - [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](lonigan-2003-significant-four-of-eight-outcomes.md) — related
 - [DaisyQuest matched teacher-delivered phonological awareness instruction but beat other instructional software in low-progress readers](daisyquest-versus-teacher-instruction-mixed.md) — related
+- [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related
+- [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related

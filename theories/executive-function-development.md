@@ -49,6 +49,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 ## Examples
 
 - [Red Light, Purple Light: a preschool music-and-movement games program for self-regulation](../elements/red-light-purple-light-program-element.md)
+- [Fueling Brains pre-kindergarten executive function program](../elements/fueling-brains-prek-executive-function-program.md)
 
 ## Key Sources
 - Fay-Stammbach, T., Hawes, D. J., & Meredith, P. (2014). Parenting influences on executive function in early childhood: A review. *Child Development Perspectives, 8*(4), 258-264.

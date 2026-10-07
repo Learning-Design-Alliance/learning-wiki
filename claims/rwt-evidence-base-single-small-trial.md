@@ -53,3 +53,4 @@ The WWC's extent-of-evidence categorization (Appendix A5) records one study, fiv
 - [The evidence base for SMART® is a single small-extent RCT, capping the intervention rating at potentially positive effects](smart-evidence-base-single-small-rct.md) — related
 - [Evidence extent for Voyager is moderate to large for alphabetics and small for comprehension, with no qualifying studies of fluency or general reading achievement](voyager-extent-of-evidence-by-domain.md) — related
 - [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related
+- [The evidence base for Headsprout Early Reading is limited to one small RCT, supporting only a potentially positive rating](headsprout-evidence-base-small-one-study.md) — related

@@ -22,7 +22,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (13 for, 14 mixed, 1 against) · 39 studies (11 causal, 9 quant-synthesis, 6 review, 6 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 9 of 39 report an effect size · 20 claims rest on one study
+> **Evidence** · 29 claims (14 for, 14 mixed, 1 against) · 39 studies (11 causal, 9 quant-synthesis, 6 review, 6 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 9 of 39 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Claims the earlier page cited, and claims found while rewriting, that bear on pa
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](../claims/human-embodiment-video-presence-effects.md) [~W]. A review of video-lecture studies: preference without a performance difference.
 - [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](../claims/sms-vocabulary-learning-beats-paper-materials.md) [~W]. One 30-student study reported second-hand in a review. It is a whole-medium comparison of exactly the kind the media-comparison claim calls uninterpretable.
 - [Iterative Task Redesign Increased Engagement](../claims/iterative-task-redesign-increased-engagement.md) [+M]
+- [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](../claims/guo-video-style-engagement-findings.md) [+W] — attached 2026-10-07 from Chorianopoulos (2018), which proposed "Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

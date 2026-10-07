@@ -47,3 +47,5 @@ Synthesis of two randomized controlled trials (Torgesen et al., 2006; Rashotte, 
 - [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](spellread-potentially-positive-alphabetics.md) — related
 - [SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14](spellread-potentially-positive-reading-fluency.md) — related
 - [SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points](spellread-potentially-positive-fluency.md) — related
+- [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related
+- [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related

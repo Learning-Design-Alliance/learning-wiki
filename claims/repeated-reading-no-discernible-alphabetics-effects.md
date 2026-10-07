@@ -46,3 +46,4 @@ WWC review of the Wexler et al. (2010) randomized controlled trial, the only stu
 - [Repeated reading shows no discernible effects on general reading achievement for students with learning disabilities](repeated-reading-no-discernible-general-reading-achievement.md) — related
 - [Repeated reading shows no discernible effects on reading fluency for students with learning disabilities](repeated-reading-no-discernible-fluency-effects.md) — related
 - [One qualifying study found a substantively important but statistically non-significant positive effect of repeated reading on comprehension (effect size 0.28)](wexler-2010-comprehension-effect-size-028-substantively-important.md) — related
+- [Fast Track produced a positive, statistically significant effect on reading achievement/literacy after one year, significant on the Spache DRS but not on the Woodcock-Johnson Letter-Word Identification subtest](fast-track-positive-reading-achievement-mixed-measures.md) — related

@@ -68,9 +68,11 @@ The TPRI operationalizes [Assessment for Learning](../principles/assessment-for-
 5. Re-administer at middle and end of year; adjust grouping based on growth, and intensify support for non-responders ([Scaffolding](../principles/scaffolding.md) and [Accommodations](../elements/accommodations.md) as needed).
 
 ## Related Strategies
+
 - [Curriculum-Based Measurement](curriculum-based-measurement.md) — a complementary frequent-monitoring approach; TPRI provides the deeper diagnostic profile, CBM the growth trajectory
 - [Response to Intervention](response-to-intervention.md) — TPRI screening and progress waves supply the data tiers of an RTI model
 - [Running Records](running-records.md) — another one-on-one reading diagnostic, focused on oral reading behavior rather than discrete skills
+- [Use a multi-stage screening tool (SSBD) to nominate and rank at-risk students for behavioral intervention](ssbd-multistage-screening-target-student-selection.md)
 
 ## Examples
 - Texas public schools have used the TPRI as a K–3 reading instrument under the Texas Reading Initiative, with results driving placement in intensive, research-based reading interventions [Foorman et al., 1998](https://doi.org/10.1037/0022-0663.90.4.690).

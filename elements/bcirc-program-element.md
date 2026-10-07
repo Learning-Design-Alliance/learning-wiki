@@ -51,6 +51,7 @@ BCIRC is an adaptation of the Cooperative Integrated Reading and Composition (CI
 ## Related Elements
 
 - [Cooperative Integrated Reading and Composition® (CIRC) reading and writing program](circ-reading-writing-program.md)
+- [Cooperative Integrated Reading and Composition® (CIRC) program](circ-program-element.md)
 
 ## Examples
 -

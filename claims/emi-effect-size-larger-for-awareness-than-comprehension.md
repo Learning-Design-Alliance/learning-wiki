@@ -66,3 +66,4 @@ Blake's modified gain ratio computed from the experimental group's pre/post MAT 
 - [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
 - [Explicit morphology instruction raises EFL secondary students' morphological awareness more than regular EFL instruction alone](emi-raises-efl-morphological-awareness.md) — related
 - [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — related
+- [Morphology+ showed larger positive effects in the informational text (+0.17) and vocabulary (+0.18) subdomains than the overall reading effect](morphology-plus-subdomain-effects-informational-vocabulary.md) — related

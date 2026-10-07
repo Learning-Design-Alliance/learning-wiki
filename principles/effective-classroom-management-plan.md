@@ -146,10 +146,12 @@ Fewer disruptions, more engaged time, learning gains, lasting self-control and f
 - [Check-Ins](check-ins.md) — short private routines for asking a learner how things are going
 
 ## Examples
+
 - [Antecedent-Behavior-Consequence Model](../elements/antecedent-behavior-consequence-model.md) — the applied-behavior-analysis tradition's specific technique for criteria 2-4
 - [Low-Profile Classroom Control](../strategies/low-profile-classroom-control.md) — a technique set aimed squarely at criterion 3
 - [Class Meetings](../strategies/class-meetings.md) — learners reviewing and revising the rules, a step towards criterion 5
 - [Good Behavior Game](../strategies/good-behavior-game.md) and [Check In Check Out](../strategies/check-in-check-out.md) — named routines a plan may already include
+- [CW-FIT: a class-wide group-contingency classroom management program with team points, skill lessons, praise, and rewards](../elements/cw-fit-program-element.md)
 
 ## Key Sources
 - Ginott, H. G. (1972). *Teacher and child: A book for parents and teachers*. Macmillan.

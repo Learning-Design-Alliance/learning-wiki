@@ -44,3 +44,4 @@ In the 2005 RCT, the phonemic awareness measures (deletion task, Yopp-Singer Tes
 
 ## Related Claims
 - [Reading Recovery has potentially positive effects on alphabetics for beginning readers](reading-recovery-potentially-positive-alphabetics.md) — related
+- [The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)](core-plus-sat-math-substantively-important.md) — related

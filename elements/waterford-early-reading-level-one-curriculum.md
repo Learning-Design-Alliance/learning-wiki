@@ -48,6 +48,8 @@ Waterford Early Reading Level One™ is "an emergent literacy curriculum that us
 ## Related Elements
 
 - [Waterford Early Reading Program™: a software-based K–2 reading curriculum with three year-long levels and 15-minute individual computer sessions](waterford-early-reading-program.md)
+- [Headsprout Early Reading: adaptive Internet-based supplemental early literacy curriculum](headsprout-early-reading-curriculum.md)
+- [Waterford Early Learning (WEL) adaptive software](waterford-early-learning-adaptive-software.md)
 
 ## Examples
 -

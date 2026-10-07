@@ -45,6 +45,7 @@ TEEMSS is a physical science curriculum for grades 3–8 that "utilizes computer
 ## Related Elements
 
 - [Sound unit test outcome measure for the TEEMSS evaluation](teemss-sound-unit-test-measure.md)
+- [Twig Science: phenomena-based K–8 science curriculum aligned to NGSS](twig-science-curriculum-k-8.md)
 
 ## Examples
 -

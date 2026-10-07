@@ -117,6 +117,7 @@ Unit or multi-day lesson sequence — one full 5E arc typically spans one to two
 - [Guided Discovery Learning](guided-discovery-learning.md) — shares the emphasis on direct student exploration before formal explanation
 
 ## Examples
+
 **BSCS Science: An Inquiry Approach:** The Biological Sciences Curriculum Study developed 5E and built its high school curriculum around full 5E units, with multi-day Explore phases using laboratory and field investigations. ([https://bscs.org](https://bscs.org))
 
 **Elementary science — FOSS kits:** The Full Option Science System (Lawrence Hall of Science) sequences hands-on investigations before concept talk, functioning as an Explore→Explain cycle for young learners. ([https://www.fossweb.com](https://www.fossweb.com))
@@ -124,6 +125,7 @@ Unit or multi-day lesson sequence — one full 5E arc typically spans one to two
 **Undergraduate physics — Physics by Inquiry:** McDermott's laboratory-based curriculum has students develop concepts through structured experiments before formal definitions are introduced, with Elaborate exercises applying concepts to new phenomena.
 
 **Professional development — BSCS 5E for teacher workshops:** The model is itself used to structure teacher professional development, with teachers experiencing a 5E sequence as learners before designing their own.
+- [Twig Science: phenomena-based K–8 science curriculum aligned to NGSS](../elements/twig-science-curriculum-k-8.md)
 
 ## Key Sources
 - Bybee, R. W., Taylor, J. A., Gardner, A., Van Scotter, P., Powell, J. C., Westbrook, A., & Landes, N. (2006). *The BSCS 5E instructional model: Origins and effectiveness*. BSCS.
