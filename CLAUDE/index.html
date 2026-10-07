@@ -688,6 +688,17 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#2026-10-07-later-curated-lists-come-before-topic-search-batches-14-and-15-from-the-learning-agency-hub" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-07 (later) — curated lists come before topic search; batches 14 and 15 from the Learning Agency hub
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#2026-10-07-batches-no-longer-write-principle-or-pattern-pages-a-candidate-ledger-decides-batch-13" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1856,6 +1867,17 @@
   
     <nav class="md-nav" aria-label="Working alongside other sessions — read this before starting">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2026-10-07-later-curated-lists-come-before-topic-search-batches-14-and-15-from-the-learning-agency-hub" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2026-10-07 (later) — curated lists come before topic search; batches 14 and 15 from the Learning Agency hub
+      
+    </span>
+  </a>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#2026-10-07-batches-no-longer-write-principle-or-pattern-pages-a-candidate-ledger-decides-batch-13" class="md-nav__link">
@@ -3127,6 +3149,34 @@ work is done, not that the check is broken.</p>
 </ul>
 <p><strong>When you finish something wiki-wide, add a line here.</strong> That is how the next session
 finds out.</p>
+<h3 id="2026-10-07-later-curated-lists-come-before-topic-search-batches-14-and-15-from-the-learning-agency-hub">2026-10-07 (later) — curated lists come before topic search; batches 14 and 15 from the Learning Agency hub<a class="headerlink" href="#2026-10-07-later-curated-lists-come-before-topic-search-batches-14-and-15-from-the-learning-agency-hub" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Two curated lists come first</strong> (maintainer): the Learning Agency's Renaissance AI and Education Resource Hub (3,927
+  published entries) and the AI in Education Knowledge Base (<code>edtechdev/aied</code>, 1,647 papers, CC0). Before this the wiki
+  had read 14 and 2 of them.</li>
+<li><strong><code>scripts/eval/source_lists.py</code></strong> measures coverage (manifest id, DOI or title; or a wiki page citing the DOI or URL)
+  and writes a priority queue to <code>eval/runs/queues/</code> (ignored). <strong>The hub has no licence, so none of its data is
+  committed</strong>: the list is read at run time. Queue order:</li>
+<li>the hub's research domain, WWC, ESSA, Campbell, Mathematica, RELs and the two journals first;</li>
+<li>learning-engineering practice;</li>
+<li>policy;</li>
+<li>AIED.</li>
+<li><strong>robots.txt is checked up front.</strong> It refuses 1,669 hub entries (WestEd, Learning Policy Institute, Education Trust,
+  TNTP, some Brookings). <strong><code>--eric-fallback</code></strong> finds 489 of them in ERIC with full text, by exact title, and queues the
+  ERIC copy. Hub queue: 2,584 entries. AIED: 1,477 (668 arXiv, 809 by DOI).</li>
+<li><strong><code>fetch_article</code> has a <code>web</code> source</strong>:</li>
+<li>It follows a landing page to the work's own PDF. WWC intervention reports, RELs, JEDM, JLA, CREDO and UChicago
+    return full reports.</li>
+<li>ESSA, Mathematica and NWEA return their summary pages.</li>
+<li>Campbell's pages are JavaScript-rendered and fail.</li>
+<li><strong><code>run_scrape_batch.py --queue &lt;files&gt; --take N</code></strong> takes the next N unsettled entries before any <code>--pmc</code>/<code>--eric</code>
+  search. A queue entry that cannot be fetched goes to <code>eval/runs/queues/fetch-failed.ndjson</code>, so the next batch moves on.</li>
+<li><strong>Batches 14 and 15</strong> (100 hub entries, WWC first, all fetched): about 640 new pages each time. Mostly claims; the
+  WWC-reviewed programmes were written as <code>designs/</code> by the candidate settle step (18 and 16). About $1.90 a batch.
+  Generation was $0.20–0.33; evidence coding was most of the rest, because WWC reports are long.</li>
+<li><strong>Design pages from candidates now resolve their related links across folders</strong>: four links pointed at elements the
+  same article produced.</li>
+</ul>
 <h3 id="2026-10-07-batches-no-longer-write-principle-or-pattern-pages-a-candidate-ledger-decides-batch-13">2026-10-07 — batches no longer write principle or pattern pages; a candidate ledger decides; batch 13<a class="headerlink" href="#2026-10-07-batches-no-longer-write-principle-or-pattern-pages-a-candidate-ledger-decides-batch-13" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong>Ingest writes each extracted principle or pattern to <code>eval/candidates/candidates.ndjson</code>, not as a page</strong>
