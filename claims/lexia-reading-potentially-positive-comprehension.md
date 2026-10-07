@@ -46,3 +46,4 @@ WWC synthesis of comprehension findings from Macaruso and Walker (2008), whose q
 - [Lexia Reading shows no discernible effects on general reading achievement](lexia-reading-no-discernible-general-achievement.md) — related
 - [Lexia Reading has potentially positive effects on alphabetics for beginning readers](lexia-reading-potentially-positive-alphabetics.md) — related
 - [Lexia Reading shows no discernible effects on reading fluency](lexia-reading-no-discernible-fluency.md) — related
+- [Reading Go! showed positive but not statistically significant effects on reading comprehension](reading-go-comprehension-positive-not-significant.md) — related

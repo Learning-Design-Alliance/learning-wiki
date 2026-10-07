@@ -49,6 +49,7 @@ The program's stated implementation supports are a dedicated on-site facilitator
 - [Layered professional learning and support for teachers implementing individualized software](classworks-layered-teacher-support-strategy.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
+- [Offer optional virtual or on-site professional development tailored to administrators and educators](imagine-espanol-professional-development-strategy.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ OnYourMark is an early literacy tutoring service providing "virtual, individuali
 - [BookNook virtual tutoring platform and science-of-reading curriculum for K-8 reading intervention](booknook-virtual-tutoring-platform.md)
 - [Ignite Reading one-to-one virtual literacy tutoring program](ignite-reading-program-element.md)
 - [Chapter One one-on-one in-class tutoring program for early literacy](chapter-one-one-on-one-tutoring-program.md)
+- [SIPPS foundational skills reading curriculum](sipps-foundational-skills-curriculum.md)
 
 ## Examples
 

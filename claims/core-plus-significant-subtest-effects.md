@@ -44,3 +44,4 @@ Findings from the quasi-experiment by Schoen and Hirsch (2002), the one study me
 
 ## Related Claims
 - [Core-Plus Mathematics has potentially positive effects on mathematics achievement for high school students, with an average improvement index of +15 percentile points](core-plus-math-potentially-positive-effects.md) — a broader claim this one bears on
+- [One of four qualifying studies found significant positive ITED outcomes for Core-Plus Mathematics](core-plus-one-of-four-studies-significant.md) — possibly the same claim (merge candidate)

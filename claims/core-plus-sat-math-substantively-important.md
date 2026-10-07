@@ -50,3 +50,4 @@ SAT math outcome from the same quasi-experiment by Schoen and Hirsch (2002). The
 - [Peer-Assisted Literacy Strategies showed a substantively important positive (but statistically non-significant) effect on WRMT-R Passage Comprehension for first graders](pals-mathes-babyak-positive-comprehension-effect.md) — related
 - [Too Good for Violence shows a substantively important but not statistically significant effect on students' knowledge, attitudes, and values](tgv-kav-substantively-important-not-significant.md) — related
 - [Too Good for Drugs has potentially positive effects on student behavior, with a WWC-computed domain average effect size of 0.25 that is not statistically significant](too-good-for-drugs-potentially-positive-behavior-effects.md) — related
+- [One of four qualifying studies found significant positive ITED outcomes for Core-Plus Mathematics](core-plus-one-of-four-studies-significant.md) — related

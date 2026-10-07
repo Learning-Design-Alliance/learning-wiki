@@ -52,3 +52,7 @@ A quasi-experimental study in 13 schools in a large urban Tennessee district dur
 - [Reading Horizons Discovery produced a small statistically significant positive effect on DIBELS 8 composite scores in K-3 students compared to matched comparison students](reading-horizons-discovery-dibels-positive-effect.md) — related
 - [Kindergarteners followed into 1st grade in Spalding schools showed higher FastBridge earlyReading gains (effect size +0.21) than matched comparison peers](spalding-fastbridge-earlyreading-kindergarten-gains.md) — related
 - [Chapter One tutoring significantly improves Fountas and Pinnell Benchmark Assessment scores (ES = +0.18)](chapter-one-fountas-pinnell-gain-ohio.md) — related
+- [Pre-kindergarten students receiving CAPIT Reading instruction score higher on early literacy assessment than matched peers (effect size +0.19)](capit-reading-prek-literacy-es-019.md) — related
+- [In Grades K–1, Imagine Español students outperformed peers on earlyReading but the difference was not statistically significant (ES +0.13)](imagine-espanol-k1-earlyreading-nonsignificant.md) — related
+- [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](literacy-packs-dibels-es-039-quasi-experiment.md) — related
+- [Kindergarten students using My Reading Academy outperformed comparison students on end-of-year state literacy assessments (ES +0.17)](mra-kindergarten-literacy-es-017.md) — related

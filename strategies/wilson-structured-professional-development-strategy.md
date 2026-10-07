@@ -49,6 +49,7 @@ The Wilson Reading System is implemented through "a formal professional developm
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Designate a Spalding coordinator and provide 45-70 hours of formal teacher training with ongoing mentoring to support implementation fidelity](spalding-coordinator-and-intensive-pd-strategy.md)
 - [Online asynchronous professional learning series completed in teams across the school year](stari-professional-learning-series.md)
+- [Intensive trainer-led observation and feedback model for tutoring professional development](early-steps-trainer-observation-feedback-training.md)
 
 ## Examples
 -

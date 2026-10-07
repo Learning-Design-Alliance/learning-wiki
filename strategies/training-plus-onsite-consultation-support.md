@@ -53,6 +53,8 @@ In the evaluated implementation, intervention teachers received 2.5 full days of
 - [Provide sustained developer support (training, coaching, progress reports, and rapid technical help) when implementing ITSS](itss-implementation-support-strategy.md)
 - [Provide refresher training after implementation begins, not only pre-adoption training](pathblazer-refresher-training-after-implementation.md)
 - [Support REDI implementation with brief inservice training plus weekly coaching from local consultants](redi-training-weekly-coaching-model.md)
+- [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
+- [Intensive trainer-led observation and feedback model for tutoring professional development](early-steps-trainer-observation-feedback-training.md)
 
 ## Examples
 -

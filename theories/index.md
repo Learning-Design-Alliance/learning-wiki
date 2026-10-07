@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**1004 entries** · 0 stable · 13 in review · 991 drafts
+**1005 entries** · 0 stable · 13 in review · 992 drafts
 
 ---
 
@@ -1024,6 +1024,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Two-level measurement-based dynamic model of learning with α, β, and γ transition processes](two-level-dynamic-learning-model-bao.md) - The article models a student's measured knowledge as a two-level system in which the measured-correct level holds the score and the measured-wrong level holds its complement.
 * [Two-stage descriptive-plus-simulation modeling framework for Employment Service local office operations](descriptive-simulation-modeling-framework-es-office.md) - The report proposes a two-stage modeling framework: a descriptive model capturing office activities, priorities and flows, and a simulation model built on it that adds statistics-gathering.
 * [Two-stage model of native language acquisition: natural oral-aural stage followed by nonnatural literacy stage](two-stage-natural-nonnatural-language-acquisition.md) - The article presents a stage model of native language acquisition in which the first stage is natural oral-aural development, \"better known as speaking and listening,\" gained in the home before school, and the second...
+* [Two-strand model of beginning literacy: language comprehension and word recognition](two-strand-beginning-literacy-model.md) - SIPPS is built on \"the premise that beginning literacy is best taught through two distinct strands: one focusing on language comprehension and the other on word recognition.\" The program's systematic scope and sequenc...
 * [Typology of community-based education as formal, nonformal, and informal processes](formal-nonformal-informal-community-based-education.md) - The paper differentiates community-based education into three categories.
 * [Typology of limiting versus expansive problem-solving strategies in student reflections](limiting-versus-expansive-strategy-typology.md) - The article develops a coding typology distinguishing four \"limiting\" strategies, which \"may work well for well-structured, end-of-chapter exercises, but they begin to fail as the problems become more complex\" (Rolode...
 * [Tzur et al.'s three teachers' perspectives: traditional, perception-based and conception-based](tzur-three-teachers-perspectives-taxonomy.md) - The article adopts Tzur et al.'s (2001) characterization of teachers' practice as three perspectives: \"tradit ional, perception-based and conception -based\".

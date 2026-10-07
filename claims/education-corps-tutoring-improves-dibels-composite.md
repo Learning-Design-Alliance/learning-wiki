@@ -53,3 +53,6 @@ A randomized study across 9 schools in a single large North Carolina district du
 - [Chapter One tutoring significantly improves Fountas and Pinnell Benchmark Assessment scores (ES = +0.18)](chapter-one-fountas-pinnell-gain-ohio.md) — related
 - [Experience Corps tutoring improves reading outcomes for struggling K-3 readers, with an average effect size of +0.13 across two qualifying studies](experience-corps-average-effect-0-13.md) — related
 - [Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19)](literacy-first-grade2-itbs-comprehension-effect.md) — related
+- [Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86)](early-steps-tutoring-improves-word-attack-passage-comprehension.md) — related
+- [Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math](pirate-math-keymath-effect-037.md) — related
+- [SIPPS as a Tier 2 intervention significantly improves first- and second-graders' reading skills on DIBELS (effect size +0.25)](sipps-tier2-dibels-effect-025.md) — related

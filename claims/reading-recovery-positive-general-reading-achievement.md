@@ -66,3 +66,4 @@ The effectiveness summary states that "three studies with strong designs reporte
 - [Reading Recovery has potentially positive effects on comprehension, with mixed findings across two trials](reading-recovery-potentially-positive-comprehension.md) — related
 - [Reading Recovery shows uncertain effects on general academic achievement ten years after the intervention](reading-recovery-uncertain-longterm-academic-achievement.md) — related
 - [Reading Recovery shows uncertain effects on mathematics achievement three years after the intervention](reading-recovery-uncertain-mathematics-achievement.md) — related
+- [Reading Go! showed positive but not statistically significant effects on reading comprehension](reading-go-comprehension-positive-not-significant.md) — related

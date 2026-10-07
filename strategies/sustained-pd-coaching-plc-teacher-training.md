@@ -51,6 +51,10 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Two-tier professional development: intensive teacher training with weekly coach follow-up, plus a five-day summer institute and weekly seminars for coaches](ellm-two-tier-professional-development.md)
 - [Provide sustained developer support (training, coaching, progress reports, and rapid technical help) when implementing ITSS](itss-implementation-support-strategy.md)
 - [Sustained, coached professional development over up to two years for RA implementation](ra-extended-pd-with-coaching.md)
+- [Support implementation with asynchronous onboarding plus ongoing data coaching and scripted lessons](capit-onboarding-data-coaching-strategy.md)
+- [Add ongoing professional development and increased support for EL students when implementing IXL Math](ixl-math-ongoing-pd-and-el-support.md)
+- [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
+- [Support implementation with initial Science of Reading training plus PLC-based lesson study](sor-pd-plc-lesson-study-implementation-support.md)
 
 ## Examples
 -

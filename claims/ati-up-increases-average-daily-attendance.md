@@ -46,3 +46,4 @@ A dissertation study assigned 27 elementary schools in 15 Oregon districts to ad
 - [ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08)](ati-up-reduces-chronic-absenteeism.md) — related
 - [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](powerschool-attendance-intervention-reduces-chronic-absenteeism.md) — related
 - [The PowerSchool Attendance Intervention did not significantly increase in-seat attendance in a randomized control trial](powerschool-attendance-intervention-in-seat-attendance-null.md) — related
+- [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) — related

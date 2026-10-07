@@ -59,9 +59,11 @@ Video combines visual and auditory channels, which supports comprehension for vi
 5. Invite families to respond — a photo, a short video, or a drawing — so the exchange is two-way rather than broadcast.
 
 ## Related Strategies
+
 - Family Literacy Workshops — in-person counterpart that can introduce and model the co-viewing routine
 - Take-Home Activity Kits — the physical follow-up component that pairs naturally with video
 - Multilingual Home Messaging — distribution channel for video links in family languages
+- [Provide accessible caregiver resources to reinforce phonics at home](family-support-hub-home-literacy-reinforcement.md)
 
 ## Examples
 - **[Sesame Street in Communities](https://www.sesamestreetincommunities.org)** — free video-based toolkits for caregivers on health, resilience, and early learning, with printable activities designed for co-viewing.

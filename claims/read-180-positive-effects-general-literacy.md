@@ -65,3 +65,5 @@ The review's rating-criteria statement for general literacy achievement: impacts
 - [READ 180® shows no discernible effects on alphabetics for adolescent readers](read-180-no-discernible-effects-alphabetics.md) — related
 - [READ 180® has positive effects on reading comprehension for adolescent readers in grades 4–12](read-180-positive-effects-comprehension-adolescents.md) — related
 - [READ 180® has potentially positive effects on reading fluency for adolescent readers](read-180-potentially-positive-reading-fluency.md) — related
+- [A Florida READ 180 study found positive outcomes for students at moderate risk but negative effects for students at high risk (average effect size +0.12)](read-180-florida-effects-vary-by-risk-level.md) — related
+- [Teachers and principals reported satisfaction with READ 180 implementation and positive perceptions of its impacts, while recommending additional professional development](read-180-implementation-satisfaction-and-pd-recommendations.md) — related

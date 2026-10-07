@@ -51,6 +51,8 @@ The page specifies a professional development model for implementing Readable En
 - [Provide sustained developer support (training, coaching, progress reports, and rapid technical help) when implementing ITSS](itss-implementation-support-strategy.md)
 - [Support REDI implementation with brief inservice training plus weekly coaching from local consultants](redi-training-weekly-coaching-model.md)
 - [Support tutors with a 2-day initial workshop plus weekly per-child progress meetings](tutor-workshop-weekly-progress-meetings.md)
+- [Add ongoing professional development and increased support for EL students when implementing IXL Math](ixl-math-ongoing-pd-and-el-support.md)
+- [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
 
 ## Examples
 -

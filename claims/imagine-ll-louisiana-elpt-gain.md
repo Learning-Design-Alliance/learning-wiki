@@ -46,3 +46,5 @@ A 2022-2023 matched study in a large Louisiana school district compared over 1,0
 - [ELL users of Imagine Language & Literacy in grades 4-5 showed significantly greater growth than similar non-users on the FAST assessment (ES +0.12)](imagine-ll-fast-assessment-gain.md) — related
 - [ELL users of Imagine Language & Literacy showed significantly greater growth than similar non-users on WIDA ACCESS (ES +0.14)](imagine-ll-wida-access-gain.md) — related
 - [Students using Imagine Language & Literacy in Texas grades 4-5 showed significantly greater improvement in reading skills than non-using students (ES +0.18)](imagine-ll-texas-reading-gain.md) — related
+- [Imagine Español students in Grades 2–6 made significantly greater English reading gains than peers (ES +0.16)](imagine-espanol-grades-2-6-english-reading-gains.md) — related
+- [Lexia English Language Development raises English language proficiency (ELPAC) with an effect size of +0.23](lexia-english-elpac-effect-023.md) — related

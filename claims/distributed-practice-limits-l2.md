@@ -70,3 +70,4 @@ Kim and Webb's (2022) meta-analysis supports the benefit of spacing for L2 learn
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — a broader claim this one bears on
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
+- [FH2T was evaluated with nine 30-minute sessions spread across one academic year as a supplemental program](fh2t-dosage-nine-30-minute-sessions.md) — related

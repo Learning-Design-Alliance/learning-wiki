@@ -37,7 +37,8 @@ The recommended professional development model for PCP is "Initial 3-hour traini
 - Fidelity of implementation of explicit, structured daily phonics lessons
 
 ## Related Strategies
-- 
+
+- [Support implementation with initial Science of Reading training plus PLC-based lesson study](sor-pd-plc-lesson-study-implementation-support.md)
 
 ## Examples
 -

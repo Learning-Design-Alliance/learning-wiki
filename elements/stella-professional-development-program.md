@@ -49,6 +49,7 @@ STeLLA® (Science Teachers Learning through Lesson Analysis) is a yearlong profe
 - [STeLLA® cost structure](stella-cost-structure.md)
 - [eMINTS Comprehensive Program: technology-integration professional development and coaching for teachers](emints-comprehensive-program-element.md)
 - [Balanced Leadership® professional development program for school leaders](balanced-leadership-pd-program.md)
+- [eMINTS professional development program for middle schools](emints-program-element.md)
 
 ## Examples
 -

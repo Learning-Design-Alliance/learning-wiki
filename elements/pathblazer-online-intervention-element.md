@@ -49,6 +49,9 @@ Pathblazer is "a supplemental, online intervention program that helps struggling
 - [Lexia PowerUp Literacy: blended adaptive literacy program for struggling adolescent readers](lexia-powerup-literacy-program.md)
 - [DreamBox Learning adaptive online mathematics program](dreambox-learning-adaptive-math-program.md)
 - [Imagine Math: adaptive digital supplemental mathematics program with on-demand live certified teacher support](imagine-math-adaptive-supplemental-math-program.md)
+- [i-Ready Personalized Instruction (online individualized reading lessons for grades K-8)](iready-personalized-instruction-element.md)
+- [Lexia Core5 Reading: blended, personalized fundamental literacy instruction for grades pre-K-5](lexia-core5-reading-program-element.md)
+- [Symphony Math K-8 technology intervention program for mathematical concepts](symphony-math-program-element.md)
 
 ## Examples
 

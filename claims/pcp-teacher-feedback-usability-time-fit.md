@@ -44,3 +44,4 @@ Two studies gathered teacher impressions via surveys (Schechter & Lynch, 2022, M
 
 ## Related Claims
 - [Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced](lli-teacher-perceptions-positive-with-pacing-concerns.md) — related
+- [Teachers surveyed about My Reading Academy reported highly positive responses, perceived phonological-awareness gains, and found the program easy to use](mra-teacher-survey-positive-perceptions.md) — related

@@ -59,9 +59,11 @@ Phonics instruction is one of the most consistently supported findings in educat
 6. Cumulatively review prior correspondences in each lesson and reteach any that fall below mastery on checks.
 
 ## Related Strategies
+
 - Decodable text reading — the application context that makes phonics instruction transfer to real reading
 - Phonemic awareness instruction — the oral-language foundation that phonics builds on
 - Repeated reading for fluency — the next stage once decoding is accurate but slow
+- [Introduce take-home decodable packs through teacher-led small-group instruction before sending them home](small-group-then-home-decodable-practice.md)
 
 ## Examples
 - **[Letters and Sounds](https://www.gov.uk/government/publications/letters-and-sounds)** (England) — a national six-phase synthetic phonics program with a fixed teaching sequence and decodable text requirements.

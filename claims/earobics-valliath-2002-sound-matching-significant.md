@@ -66,3 +66,4 @@ Same quasi-experiment; the WWC analyzed four CTOPP phonological awareness subtes
 - [In an Anchorage RCT with severe differential attrition, Earobics® effects on alphabetics were not statistically significant and one subtest showed a substantively important negative effect](earobics-rehmann-2005-null-and-negative-effects.md) — related
 - [In a Florida RCT, Earobics® outperformed no-supplement control on several DIBELS subtests but showed no significant advantage over Lexia Early Reading](earobics-gale-2006-versus-control-and-lexia.md) — related
 - [Lexia Early Reading shows no significant advantage over Earobics on alphabetics, with several negative effects substantively important](lexia-versus-earobics-alphabetics-comparison.md) — related
+- [Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls](superkids-kindergarten-effect-size-023.md) — related

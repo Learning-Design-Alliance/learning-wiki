@@ -44,6 +44,7 @@ SERP offers an online professional learning series in which teachers and coaches
 - [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
 - [One-day teacher workshop plus optional training-of-trainers for implementing CSC](csc-teacher-workshop-and-training-of-trainers.md)
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
+- [Provide implementation professional development and support approximately every three weeks](sipps-three-week-pd-support-cadence.md)
 
 ## Examples
 -

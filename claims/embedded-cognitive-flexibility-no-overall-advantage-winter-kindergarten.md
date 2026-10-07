@@ -49,3 +49,4 @@ In the randomized winter-kindergarten cohort (Flex n = 29, Plain n = 28), multil
 - [Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes](covariate-effects-pretest-attendance-eb-gains.md) — related
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
 - [Systematic Phonics Improves Word Reading](systematic-phonics-improves-word-reading.md) — related
+- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related

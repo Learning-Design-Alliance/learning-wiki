@@ -44,6 +44,7 @@ IMSE's OG+ is "a Structured Literacy core foundational skills program based on O
 ## Related Elements
 
 - [Reading Horizons Discovery K-3 foundational reading curriculum](reading-horizons-discovery-curriculum.md)
+- [SIPPS foundational skills reading curriculum](sipps-foundational-skills-curriculum.md)
 
 ## Examples
 

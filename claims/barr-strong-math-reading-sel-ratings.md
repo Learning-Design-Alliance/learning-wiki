@@ -44,3 +44,4 @@ The summary page states that the absenteeism results "qualify BARR for a Strong 
 
 ## Related Claims
 - [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
+- [Across three randomized studies in grades 7–12, BARR shows positive effects on math achievement, qualifying it for a Strong rating with an average effect size of +0.09](barr-strong-rating-average-es-009.md) — a narrower finding that bears on this claim

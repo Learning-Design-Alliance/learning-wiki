@@ -59,9 +59,11 @@ Station rotation operationalizes [Active Learning](../principles/active-learning
 6. Collect station products as formative evidence and regroup learners accordingly [Formative Assessment](../patterns/formative-assessment.md).
 
 ## Related Strategies
+
 - [Flipped Classroom](../patterns/flipped-classroom.md) — the whole-class-to-home variant of the same logic: relocate direct instruction so class time is interactive
 - [Blended Learning](../patterns/blended-learning.md) — station rotation is one of the canonical blended-learning models
 - [Small-Group Instruction](../elements/small-group-instruction.md) — the teacher-led station is small-group instruction embedded in a rotation structure
+- [Implement Math 180 as a blended rotation model with 1:1 computer use during rotation and roughly half the class on software at a time](math-180-blended-rotation-implementation.md)
 
 ## Examples
 - **Khan Academy's Khanmigo-supported math stations** — classrooms pair a teacher-led small group with a [Khan Academy](https://www.khanacademy.org) practice station that adapts difficulty per learner.

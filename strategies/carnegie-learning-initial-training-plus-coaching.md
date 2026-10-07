@@ -43,6 +43,7 @@ Implementation of the curriculum calls for professional development beyond initi
 - [Brief initial training plus follow-up courses and coaching for program implementation](journeys-pd-training-coaching.md)
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
+- [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
 
 ## Examples
 -

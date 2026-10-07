@@ -159,6 +159,7 @@ Changes in concerns, changes in use, fidelity of use and effects on students are
 - [Three ways to assess concerns about an innovation](../strategies/assess-concerns-three-methods.md)
 - [Use LoU data to monitor implementation, plan staff development, select research samples, and evaluate programs](../strategies/use-lou-data-for-change-monitoring-and-staff-development.md)
 - [Provide refresher training after implementation begins, not only pre-adoption training](../strategies/pathblazer-refresher-training-after-implementation.md)
+- [Provide implementation professional development and support approximately every three weeks](../strategies/sipps-three-week-pd-support-cadence.md)
 
 ## Key Sources
 - Hall, Gene E.; Rutherford, William L. (1983). Client Concerns: A Guide to Facilitating Institutional Change. Research and Development Center for Teacher Education, The University of Texas at Austin. https://eric.ed.gov/?id=ED251728

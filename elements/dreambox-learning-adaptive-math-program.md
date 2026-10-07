@@ -50,6 +50,7 @@ DreamBox Learning is "a supplemental online mathematics program that provides ad
 - [Edmentum Exact Path: computer-adaptive supplemental program supporting instruction and assignment](edmentum-exact-path-adaptive-program.md)
 - [Imagine Math: adaptive digital supplemental mathematics program with on-demand live certified teacher support](imagine-math-adaptive-supplemental-math-program.md)
 - [Pathblazer: supplemental online individualized intervention for struggling K–8 learners in mathematics and reading](pathblazer-online-intervention-element.md)
+- [My Math Academy: game-based adaptive learning system for early number sense](my-math-academy-program-element.md)
 
 ## Examples
 

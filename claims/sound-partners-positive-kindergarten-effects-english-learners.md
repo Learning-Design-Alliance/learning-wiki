@@ -46,3 +46,5 @@ One of two studies evaluated Sound Partners with English learners, involving kin
 - [Sound Partners outcomes for English learners persist two years later on Word Reading and Comprehension](sound-partners-outcomes-persist-two-years.md) — related
 - [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](sound-partners-positive-first-grade-effects-english-learners.md) — related
 - [Sound Partners tutoring has positive effects on reading comprehension of beginning readers](sound-partners-positive-effects-comprehension.md) — related
+- [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](reading-go-positive-decoding-word-reading-outcomes.md) — related
+- [Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls](superkids-kindergarten-effect-size-023.md) — related

@@ -56,6 +56,7 @@ Sound Partners is a 1-1 tutoring program that uses paraprofessionals as tutors. 
 - [Ignite Reading one-to-one virtual literacy tutoring program](ignite-reading-program-element.md)
 - [Reading Recovery one-on-one tutoring program for struggling first-grade readers](reading-recovery-tutoring-program.md)
 - [Reading Recovery® one-on-one tailored tutoring program for grade 1 students with low literacy achievement](reading-recovery-program-element.md)
+- [Early Steps one-to-one first-grade tutoring program](early-steps-one-to-one-tutoring-program.md)
 
 ## Examples
 

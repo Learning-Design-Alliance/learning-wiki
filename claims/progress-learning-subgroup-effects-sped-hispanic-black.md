@@ -48,3 +48,6 @@ Subgroup analyses within the Forney ISD retrospective quasi-experimental study. 
 - [Students receiving special education services showed larger gains (+0.33) from Greenfield-trained teachers on the CAASPP ELA assessment](greenfield-literacy-sped-larger-gains.md) — related
 - [Black students show stronger reading gains from the tutoring program (ES = +0.24)](ignite-reading-black-students-subgroup-gains.md) — related
 - [Progress Learning showed a directionally positive but not statistically significant impact on STAAR ELA scores in Forney ISD](progress-learning-staar-ela-null.md) — related
+- [iRCL effects were consistent across grades, especially pronounced in Grades 4 and 5, with significant benefits for Hispanic, Black, economically disadvantaged, English learner, and disability subgroups](irecl-grade-and-subgroup-effects.md) — related
+- [IXL Math shows significant positive impacts for Grade 3, Hispanic, special education, ELL, and low-income subgroups](ixl-math-positive-subgroup-impacts.md) — related
+- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](wraparound-ses-subgroup-gains.md) — related

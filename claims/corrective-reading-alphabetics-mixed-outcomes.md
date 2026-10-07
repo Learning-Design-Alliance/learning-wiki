@@ -86,3 +86,4 @@ The WWC-computed domain average effect size for alphabetics was 0.22 across the 
 - [Most outcomes of Corrective Reading, including state reading tests, did not show positive effects, yielding an average effect size of only +0.06](corrective-reading-most-outcomes-null-average-es-006.md) — related
 - [Corrective Reading produced a significant positive effect on Woodcock Word Attack (effect size = +0.15) in its only qualifying evaluation](corrective-reading-word-attack-positive-effect.md) — reports the opposite
 - [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](redi-kindergarten-followup-faded-effects.md) — related
+- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related

@@ -53,6 +53,7 @@ Headsprout Early Reading is an Internet-based supplemental early literacy curric
 - [Waterford Early Reading Program™: a software-based K–2 reading curriculum with three year-long levels and 15-minute individual computer sessions](waterford-early-reading-program.md)
 - [Waterford Early Reading Level One™ computer-based emergent literacy curriculum](waterford-early-reading-level-one-curriculum.md)
 - [Reading Plus web-based literacy program for grades 3-12+](reading-plus-web-based-literacy-program.md)
+- [My Reading Academy: adaptive game-based foundational reading curriculum for pre-K to grade 2](my-reading-academy-adaptive-reading-program.md)
 
 ## Examples
 

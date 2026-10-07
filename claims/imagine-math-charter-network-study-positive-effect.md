@@ -46,3 +46,4 @@ A retrospective quasi-experimental study of K–8 students in 16 schools in a ch
 - [Imagine Math effects were statistically significant for Indiana grades 3–5 (ES +0.13) but not for other grade bands or for Texas students](imagine-math-indiana-grades-3-5-significant-texas-null.md) — related
 - [Early elementary students using Imagine Math Facts demonstrated significantly more growth on Ren Star math assessments (effect size +0.11)](imagine-math-facts-early-elementary-significant-growth.md) — related
 - [TalkingPoints use is associated with significant math score improvements in grades 3-8](talkingpoints-significant-math-gains-grades-3-8.md) — related
+- [Bridges students in kindergarten through grade 2 scored significantly higher than matched peers on MAP (effect size +0.06)](bridges-k-2-map-es-006.md) — related

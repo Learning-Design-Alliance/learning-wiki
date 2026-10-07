@@ -45,6 +45,7 @@ The study's support model paired initial and refresher in-person trainings for f
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Weeklong initial teacher training with biweekly follow-up meetings for delivering the fraction intervention](fraction-face-off-teacher-training-model.md)
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
+- [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
 
 ## Examples
 -

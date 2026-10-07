@@ -51,3 +51,4 @@ Randomized evaluation in Philadelphia elementary and secondary schools with a to
 - [In a four-year randomized evaluation in Hawaii, Positive Action schools had significantly lower absenteeism (ES=+0.19) and positive math and reading outcomes relative to controls](positive-action-hawaii-rct-absenteeism.md) — related
 - [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
 - [The weighted mean effect size across the two Absence Reports studies is +0.16, qualifying the intervention for a Strong evidence rating](absence-reports-weighted-mean-016-strong-rating.md) — a broader claim this one bears on
+- [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) — related

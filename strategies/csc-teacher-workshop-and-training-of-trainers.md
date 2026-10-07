@@ -44,6 +44,7 @@ The program's professional development model centers on a one-day workshop: "Tea
 - [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
 - [Online asynchronous professional learning series completed in teams across the school year](stari-professional-learning-series.md)
+- [Train-the-Trainer professional development for attendance-intervention staff](train-the-trainer-attendance-intervention-pd.md)
 
 ## Examples
 -

@@ -45,6 +45,8 @@ The summary describes a multi-channel support model so teachers can implement th
 - [Use optional professional development sessions for administrators and educators to support Imagine Math implementation](imagine-math-optional-pd-sessions.md)
 - [Assign a dedicated site expert and site-developed professional learning plan when implementing Imagine Language & Literacy](imagine-ll-site-expert-and-professional-learning.md)
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
+- [Offer optional virtual or on-site professional development tailored to administrators and educators](imagine-espanol-professional-development-strategy.md)
+- [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
 
 ## Examples
 -

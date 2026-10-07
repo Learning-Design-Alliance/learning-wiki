@@ -59,9 +59,12 @@ Book bags operationalize home literacy involvement by lowering its coordination 
 5. Rotate bag contents seasonally and invite families to suggest themes or donate favorite books to keep the collection culturally current.
 
 ## Related Strategies
+
 - [Dialogic Reading](dialogic_reading.md) — the interaction style the caregiver guide should model; bags without it lose most of their effect
 - [Family Literacy Nights](family-literacy-nights.md) — in-person complement that trains caregivers in the same reading moves the bag guides prompt
 - [Independent Reading](independent-reading.md) — the classroom counterpart; bags bridge toward it as children gain decoding skill
+- [Provide accessible caregiver resources to reinforce phonics at home](family-support-hub-home-literacy-reinforcement.md)
+- [Introduce take-home decodable packs through teacher-led small-group instruction before sending them home](small-group-then-home-decodable-practice.md)
 
 ## Examples
 - **Raising a Reader** (https://www.raisingareader.org) — a national program rotating red bags of award-winning books through early-childhood classrooms, with caregiver training in shared-reading techniques.

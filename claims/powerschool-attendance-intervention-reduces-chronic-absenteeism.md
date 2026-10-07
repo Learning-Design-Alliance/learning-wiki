@@ -51,3 +51,4 @@ A randomized control trial in 3 DC public schools randomly assigned 31 teachers 
 - [ATI-UP increases average daily attendance in elementary schools after one semester (effect size +0.19)](ati-up-increases-average-daily-attendance.md) — related
 - [ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08)](ati-up-reduces-chronic-absenteeism.md) — possibly the same claim (merge candidate)
 - [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related
+- [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) — possibly the same claim (merge candidate)

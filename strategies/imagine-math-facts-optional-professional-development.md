@@ -41,6 +41,7 @@ Imagine Learning offers optional virtual or on-site professional development and
 - [Layered professional learning and support for teachers implementing individualized software](classworks-layered-teacher-support-strategy.md)
 - [Assign a dedicated site expert and site-developed professional learning plan when implementing Imagine Language & Literacy](imagine-ll-site-expert-and-professional-learning.md)
 - [Use optional professional development sessions for administrators and educators to support Imagine Math implementation](imagine-math-optional-pd-sessions.md)
+- [Offer optional virtual or on-site professional development tailored to administrators and educators](imagine-espanol-professional-development-strategy.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ In the same quasi-experimental study of 482 third graders, the subgroup analysis
 - [Third graders taught by Greenfield-trained teachers scored higher on the CAASPP ELA assessment than students taught by untrained teachers (effect size +0.23)](greenfield-literacy-training-caaspp-ela-gain.md) — a broader claim this one bears on
 - [Students in Classtime schools scored significantly higher on CAASPP mathematics than comparison-school students (effect size +0.05)](classtime-higher-caaspp-math-scores.md) — related
 - [Subgroup analyses show strongest Progress Learning effects for SPED, Hispanic, and Black students on MAP science](progress-learning-subgroup-effects-sped-hispanic-black.md) — related
+- [Students receiving special education services showed significant gains (ES +0.36) in the Michigan Tier 2 study](bridge-to-reading-special-education-es-036.md) — related

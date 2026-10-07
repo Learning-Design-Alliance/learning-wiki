@@ -59,9 +59,11 @@ Lab Rotation concentrates the scalable, self-paced parts of instruction (content
 6. **Review and adjust.** Periodically audit whether lab time is producing mastery data that changes instruction; if not, the rotation is decorative.
 
 ## Related Strategies
+
 - [Station Rotation](station-rotation.md) — the within-classroom counterpart; useful when a dedicated lab is unavailable
 - [Flipped Classroom](flipped-classroom.md) — inverts the same split by moving content delivery outside class time
 - [Individual Rotation](individual-rotation.md) — replaces the fixed schedule with per-student pathways
+- [Implement Math 180 as a blended rotation model with 1:1 computer use during rotation and roughly half the class on software at a time](math-180-blended-rotation-implementation.md)
 
 ## Examples
 - **Rocketship Public Schools (San Jose, CA)** — early and prominent lab-rotation charter network; students rotate between a Learning Lab for adaptive software and classroom instruction, a model that drew both replication and critique about lab staffing.

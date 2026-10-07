@@ -45,3 +45,4 @@ A short survey of nine ninth-grade teachers implementing TDHS Strategic Reading 
 ## Related Claims
 - [TDHS Strategic Reading produced a positive effect of +0.32 on CTBS Terra Nova reading outcomes for ninth graders compared to a control group in one Baltimore study](tdhs-strategic-reading-positive-reading-effect.md) — related
 - [Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced](lli-teacher-perceptions-positive-with-pacing-concerns.md) — related
+- [Teachers report the program supports student interest, confidence, and enjoyment of math](mma-teacher-survey-qualitative-findings.md) — related

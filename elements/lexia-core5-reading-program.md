@@ -45,6 +45,9 @@ Lexia Core5 Reading is a blended learning program aiming to "accelerate the deve
 - [Lexia Academy self-paced eLearning platform for educators](lexia-academy-elearning-platform.md)
 - [Lexia PowerUp Literacy: blended adaptive literacy program for struggling adolescent readers](lexia-powerup-literacy-program.md)
 - [Lexia Reading: computerized supplementary phonics practice program with adaptive independent practice and web-based progress reporting](lexia-reading-computerized-supplementary-phonics-program.md)
+- [Lexia Core5 Reading: blended, personalized fundamental literacy instruction for grades pre-K-5](lexia-core5-reading-program-element.md)
+- [Lexia English Language Development program](lexia-english-language-development-program.md)
+- [READ 180 blended learning program for struggling readers in grades 4-12](read-180-blended-reading-program.md)
 
 ## Examples
 

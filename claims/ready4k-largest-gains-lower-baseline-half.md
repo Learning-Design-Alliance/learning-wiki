@@ -46,3 +46,4 @@ Subgroup analysis within the same preschool RCT: the summary reports "the larges
 - [READY4K! improves teacher-reported parental involvement at school](ready4k-improves-teacher-reported-involvement.md) — related
 - [In kindergarten, READY4K! messages raise literacy scores, with the largest gains in the personalized messaging arm](ready4k-kindergarten-personalized-messaging-gains.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
+- [Effects of Lexia English Language Development are strongest among students with lower baseline English proficiency](lexia-english-effects-strongest-lower-baseline.md) — related

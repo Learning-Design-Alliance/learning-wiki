@@ -41,6 +41,7 @@ This implementation strategy calls for identifying a 'Literacy Champion' who "se
 
 - [A2I Professional Support System](../elements/a2i-professional-support-system.md)
 - [Deliver A2i professional development through a 90-minute launch session, grade-team Literacy Huddles, and individualized coaching sessions over a 3-year rollout](a2i-pd-huddles-coaching-rollout.md)
+- [Implement i-Ready with designated points of contact and Curriculum Associates professional development support](iready-implementation-support-strategy.md)
 
 ## Examples
 -

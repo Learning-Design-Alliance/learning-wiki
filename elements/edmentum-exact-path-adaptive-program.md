@@ -45,6 +45,8 @@ Exact Path Growth is described as "a computer-adaptive supplemental program" tha
 - [Targeted Skills Instruction (TSI): live small-group virtual tutoring for K-12 reading and math](edmentum-tsi-virtual-small-group-tutoring.md)
 - [DreamBox Learning adaptive online mathematics program](dreambox-learning-adaptive-math-program.md)
 - [Lexia Reading: computerized supplementary phonics practice program with adaptive independent practice and web-based progress reporting](lexia-reading-computerized-supplementary-phonics-program.md)
+- [Edmentum Exact Path Growth personalized learning program](exact-path-growth-program-element.md)
+- [i-Ready Personalized Instruction (online individualized reading lessons for grades K-8)](iready-personalized-instruction-element.md)
 
 ## Examples
 -

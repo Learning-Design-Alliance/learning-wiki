@@ -50,3 +50,6 @@ Cluster randomized study across 23 schools of 390 grade 2-3 students performing 
 - [Chapter One tutoring significantly improves Fountas and Pinnell Benchmark Assessment scores (ES = +0.18)](chapter-one-fountas-pinnell-gain-ohio.md) — related
 - [Chapter One tutoring significantly improves kindergarten students' oral reading fluency (ES = +0.23)](chapter-one-improves-orf-kindergarten.md) — related
 - [RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10)](raal-significant-positive-effects.md) — related
+- [Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86)](early-steps-tutoring-improves-word-attack-passage-comprehension.md) — related
+- [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](reading-go-positive-decoding-word-reading-outcomes.md) — related
+- [Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls](superkids-kindergarten-effect-size-023.md) — related

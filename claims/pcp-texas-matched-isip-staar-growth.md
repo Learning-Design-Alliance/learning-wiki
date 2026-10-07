@@ -46,3 +46,4 @@ A matched study in Texas during 2023-2024 extended the evidence to upper element
 - [PCP use in a Missouri randomized trial produced significantly greater gains on Acadience Reading for K-2 students (ES +0.09)](pcp-missouri-rct-acadience-gains.md) — related
 - [Istation users scored significantly higher on STAAR Reading than non-using schoolmates in a large urban Texas district (ES +0.10)](istation-tx-staar-reading-010.md) — related
 - [PCP use in an Arizona matched study produced significantly more aimswebPlus growth for K-1 students (ES +0.29)](pcp-arizona-matched-aimsweb-growth.md) — related
+- [In a 2024-2025 matched evaluation, fidelity users of i-Ready Personalized Instruction consistently outperformed non-users across grades 4-8 on STAAR, but this is excluded from the rating](iready-staar-fidelity-evaluation-context-only.md) — related

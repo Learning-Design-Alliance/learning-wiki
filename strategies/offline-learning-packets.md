@@ -64,6 +64,7 @@ Because packets lack an instructor to monitor comprehension in real time, they m
 - [Take-Home Practice Sets](take-home_practice_sets.md) — a narrower variant focused on practice rather than full instructional cycles
 - [Print-Based Self-Study Guides](print-based_self-study_guides.md) — longer-form packets oriented to whole units or courses
 - [Teacher training packets operationalize communicative competence theory through workshop activities, pre/posttests, and guided discussion rather than expert knowledge alone](workshop-packet-operationalize-communicative-competence-theory.md)
+- [Pair online practice with offline Guided Practice materials for small group or 1:1 sessions](offline-guided-practice-pairing.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org) offline mode** — Khan Academy's app allows downloading exercises and videos for offline completion, syncing progress when connectivity returns.
