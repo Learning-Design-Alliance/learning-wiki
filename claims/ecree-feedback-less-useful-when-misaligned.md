@@ -44,3 +44,4 @@ Key finding from the brief's study of Ecree in grade 8–11 ELA classrooms: "Tea
 
 ## Related Claims
 - [Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write](teachers-reported-curriculum-technical-integration-challenges.md) — related
+- [Teachers report ChatGPT-generated math questions misalign with grade level and topic, are unreliable or unanswerable, and cost time](chatgpt-brainstorming-concerns-misalignment-reliability.md) — related

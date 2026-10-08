@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**205 entries** · 0 stable · 0 in review · 205 drafts
+**206 entries** · 0 stable · 0 in review · 206 drafts
 
 ---
 
@@ -193,6 +193,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Reading Recovery training cascade: university-affiliated teacher training sites, teacher leaders, and certified teachers](reading-recovery-training-cascade.md) - Reading Recovery® sustains implementation through a three-level training infrastructure.
 * [Recommended scope and sequence with per-cluster course time allocations](recommended-scope-sequence-time-allocations.md) - The guide's recommended scope and sequence specifies content emphasis and instructional approach at each level, with concrete scheduling for junior high cluster exploration courses.
+* [Rhode Island's new performance framework sets rigorous, multidimensional quality standards across academic achievement, governance, financial stability, and mission alignment](ri-charter-multidimensional-quality-standards-pattern.md) - The article describes an enumerated set of quality standards that the new performance framework imposes on existing charter schools.
 * [Rigid zoning with clearly separated noisy and quiet areas for severely disturbed children](severe-disturbance-rigid-noisy-quiet-zoning.md) - For severely disturbed children the booklet prescribes the most structured arrangement: \"The schemes for teaching areas for severely disturbed children are fairly rigid in their design.
 * [Rotating small-team science stations for cooperative inquiry](small-team-science-stations.md) - Unit 2 organizes inquiry as four hands-on science stations (shaping the zone; water quantity and soils; water quality and plants; land uses) that small teams rotate through.
 * [Rotating starter stations that stimulate interest and introduce concepts before a focused investigation](starter-stations-rotation-pattern.md) - A lesson-level pattern in which students rotate in parallel through brief interactive stations, each introducing one concept relevant to later activity components.

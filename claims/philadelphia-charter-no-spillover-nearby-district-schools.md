@@ -49,3 +49,4 @@ The report's summary of its analysis of charter schools' impact on traditional p
 - [The average charter school performs about the same as nearby traditional public schools, but charter effects vary greatly](average-charter-similar-to-nearby-traditional-schools.md) — related
 - [Average charter schools perform about the same as nearby traditional public schools, with large variation in effects](average-charter-schools-similar-to-nearby-traditional-public-schools.md) — related
 - [The evaluation examined charter school effects by years of operation, grades served, mission, and demographics, plus student composition and turnover](philadelphia-charter-evaluation-multiple-moderators.md) — related
+- [Officials raised equity concerns that closing low-performing charter schools may not better serve students when alternative district schools perform even worse](ri-charter-closure-equity-concern-no-better-alternatives.md) — related

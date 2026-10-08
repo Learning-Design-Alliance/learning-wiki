@@ -54,3 +54,4 @@ The publication abstract describes the study's design: analysis of individual st
 - [Much remains unknown about charter school performance, particularly at the elementary level](charter-elementary-school-performance-little-known.md) — related
 - [Differences among individual charter authorizers are likely greater than differences across authorizer types](individual-authorizer-differences-exceed-type-differences.md) — related
 - [In Ohio, charter schools authorized by nonprofits are less effective in promoting student achievement than other charter schools](nonprofit-authorized-charters-less-effective-ohio.md) — related
+- [Officials raised equity concerns that closing low-performing charter schools may not better serve students when alternative district schools perform even worse](ri-charter-closure-equity-concern-no-better-alternatives.md) — related

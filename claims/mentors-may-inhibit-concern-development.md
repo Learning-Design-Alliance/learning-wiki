@@ -51,3 +51,4 @@ Discussion-section comparison across the study's four volunteer groups, contrast
 - [Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models](prior-experience-barriers-to-new-management-models.md) — related
 - [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related
 - [People come first: places, policies, and programs should be altered when they inhibit people's development](people-come-first-invitational-schools.md) — related
+- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related

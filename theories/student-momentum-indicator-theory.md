@@ -44,6 +44,7 @@ The Student Momentum Indicator is a grounded-theory metric defined as "the perce
 ## Related Theories
 
 - [Course Walls: localized points in a lesson sequence where student momentum to finish is significantly slowed or halted](course-walls-concept.md)
+- [Pace of Learning (POL): the slope of a student's achievement growth as an organizing construct for recovery policy](pace-of-learning-pol-construct.md)
 
 ## Examples
 

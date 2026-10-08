@@ -148,6 +148,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 **[NCSM](https://www.mathedleadership.org) / Illustrative Mathematics professional learning (https://illustrativemathematics.org):** Curriculum-embedded PD in which teachers experience the lessons as learners, then analyze and rehearse facilitation — coherence with enacted materials.
 - [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](../strategies/coaching-framework-discussion-guide-grid-questions.md)
 - [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](../strategies/layered-tutor-professional-development-support.md)
+- [Instructional Commons: record and disseminate top teachers' full-year instruction for peer-to-peer professional use](../strategies/instructional-commons-recorded-top-teacher-lessons.md)
 
 ## Key Sources
 - Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). Effective teacher professional development. *Learning Policy Institute*. [doi:10.54300/122.311](https://doi.org/10.54300/122.311)

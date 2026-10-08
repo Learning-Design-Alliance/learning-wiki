@@ -68,3 +68,4 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [The Kauffman School's hallmarks are largely being implemented faithfully](kauffman-school-hallmarks-implemented-faithfully.md) — a narrower finding that bears on this claim
 - [Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement](blended-learning-effects-vary-by-intervention-and-domain.md) — related
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — related
+- [Teachers who achieve high-dosage CAL practice show strong initial buy-in, a clear implementation strategy for practice timing, and close monitoring with follow-up](high-dosage-cal-teachers-buy-in-strategy-monitoring.md) — related

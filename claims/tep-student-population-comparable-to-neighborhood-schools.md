@@ -48,3 +48,4 @@ Descriptive finding from the TEP evaluation on student characteristics and attri
 - [Four years of TEP attendance produced science gains equal to an additional 0.6 years of school relative to comparable NYC public school students](tep-four-years-science-gain-0-6-years.md) — related
 - [Four years of TEP attendance produced English language arts gains equal to an additional 0.4 years of school relative to comparable NYC public school students](tep-four-years-ela-gain-0-4-years.md) — related
 - [A 1997 New York City report found that increasing resource room instructional group sizes from 5 to at most 8 students per teacher led to decreases in reading achievement](gottlieb-1997-group-size-increase-lowered-reading-scores.md) — related
+- [Charter students receiving special education services show smaller learning gains than matched traditional public school peers](charter-special-education-smaller-gains.md) — related

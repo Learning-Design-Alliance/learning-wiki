@@ -67,3 +67,4 @@ Independent-sample t-test comparing signaled written plus spoken text versus wri
 - [The redundancy effect does not hold for middle school students: adding written text to spoken narration did not significantly change achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — related
 - [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](signaling-effect-abstract-only.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a broader claim this one bears on
+- [Combining more modalities does not always improve detection of learner mental states](more-modalities-not-always-better-mental-state-detection.md) — related

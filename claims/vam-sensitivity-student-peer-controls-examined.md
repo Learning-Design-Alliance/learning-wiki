@@ -65,3 +65,5 @@ The publication abstract states the paper's purpose: examining sensitivity and p
 - [The number of schools in a study would have to nearly double to compensate for the precision lost by using school-level proficiency instead of student-level data](nearly-double-schools-compensate-school-level-data.md) — related
 - [Overall false positive and false negative error rates in teacher value-added performance classification are about 10 and 20 percent, respectively](value-added-false-positive-negative-rates-10-20-percent.md) — related
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related
+- [Academic and behavioral classroom factors, not student demographics, drive the effect of composition on evaluator ratings](academic-behavioral-factors-drive-rating-effect.md) — related
+- [Simulated adjustment of ratings for classroom context improves Black teachers' rankings by about 8 percentile points, with the largest gains for teachers serving more disadvantaged students](context-adjusted-ratings-raise-black-teacher-rankings.md) — related

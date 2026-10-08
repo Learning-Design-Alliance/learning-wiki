@@ -50,3 +50,4 @@ The brief describes the policy context: in 2007 the Council of the District of C
 - [The DC reform analysis used advanced statistical methods to account for pre-reform differences between DC and other areas and general trends afterward](dc-reform-analysis-statistical-controls.md) — related
 - [The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress](dc-reforms-larger-expected-grade4-math-reading-naep-gains.md) — related
 - [It took three years for new DCPS principals to achieve measurable achievement gains, with no evidence of even temporary declines](dcps-principal-gains-took-three-years-no-declines.md) — related
+- [Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond](decentralization-accountability-sorting-mechanisms-school-capacity.md) — related

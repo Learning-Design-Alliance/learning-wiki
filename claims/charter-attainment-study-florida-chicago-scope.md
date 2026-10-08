@@ -52,3 +52,4 @@ The article's own statement of scope: an analysis of "the relationship between c
 - [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
 - [The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio](authorizer-type-charter-effectiveness-ohio-study.md) — related
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related
+- [Chicago Public Schools improved dramatically between 1987 and 2017, with the biggest gains among students of color and low-income students](cps-decades-improvement-equitable-gains.md) — related

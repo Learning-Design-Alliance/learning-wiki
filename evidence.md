@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 6,167 |
-| Evidence entries | 7,209 |
-| Distinct studies | 2,077 |
-| Claims resting on one study | 5,953 (97%) |
+| Claims | 6,418 |
+| Evidence entries | 7,493 |
+| Distinct studies | 2,119 |
+| Claims resting on one study | 6,204 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 602 of 2,077 (29%) |
+| Studies reporting an effect size | 611 of 2,119 (29%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 40 | 272 | 94 | 288 | 694 |
+| causal | 40 | 279 | 94 | 290 | 703 |
 | quant-synthesis | 22 | 68 | 31 | 121 | 242 |
-| review | 22 | 83 | 33 | 71 | 209 |
-| associational | 0 | 102 | 106 | 104 | 312 |
-| qualitative | 38 | 80 | 24 | 23 | 165 |
-| design | 12 | 113 | 67 | 12 | 204 |
-| theoretical | 32 | 143 | 40 | 36 | 251 |
+| review | 22 | 84 | 34 | 72 | 212 |
+| associational | 0 | 117 | 108 | 110 | 335 |
+| qualitative | 38 | 82 | 25 | 23 | 168 |
+| design | 13 | 115 | 67 | 12 | 207 |
+| theoretical | 32 | 144 | 40 | 36 | 252 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 352 (17%) | 1,041 (50%) | 580 (28%) | 104 (5%) |
+| 353 (17%) | 1,075 (51%) | 587 (28%) | 104 (5%) |
 
-**Studies per claim:** 0: 0, 1: 5,953, 2: 160, 3: 48, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 6,204, 2: 160, 3: 48, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -46,6 +46,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive …](claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) | q2 | 34 | 33 |
 | [ClassWide Peer Tutoring: WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of …](claims/cwpt-ctbs-effect-significance-discrepancy.md) | q3 | 26 | 26 |
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 19 | 19 |
+| [Hiroyuki Yamada. (2024). New Normal in Early Elementary Mathematics Learning: Part III - Learning from …](claims/algebra-domain-strongest-predictor-early-math.md) | q2 | 17 | 17 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
 | [Curtis J. Jones and DongMei Li, University of Wisconsin-Milwaukee. (2021). Testing the Impact and Scalability …](claims/ff-differential-attendance-subgroups.md) | q3 | 12 | 12 |
@@ -59,10 +60,9 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Building Decision Skills. (2006). WWC Intervention Report, What Works Clearinghouse. …](claims/bds-curriculum-adds-beyond-service-learning-alone.md) | q2 | 9 | 9 |
 | [What Works Clearinghouse, U.S. Department of Education. (2007). WWC Intervention Report: Waterford Early …](claims/waterford-level-one-no-discernible-oral-language-effects.md) | q2 | 9 | 9 |
 | [Lovaas Model of Applied Behavior Analysis. (2010). WWC Intervention Report, U.S. Department of Education, …](claims/lovaas-model-evidence-base-small-two-studies.md) | q3 | 9 | 9 |
+| [New York Charter Schools: Remote Instruction During COVID Crisis (Spring 2020) – Results for All Authorizers. …](claims/closure-urgency-priorities-learning-first.md) | q2 | 9 | 9 |
 | [Theophile Gervet, Ken Koedinger, Jeff Schneider, Tom Mitchell (2020). When is Deep Learning the Best Approach …](claims/best-lr-and-dkt-lead-markov-methods-lag-nine-datasets.md) | q2 | 9 | 9 |
 | [High-Quality Early Child Education is Associated With... (2023). Regional Educational Laboratory West, …](claims/ece-attendance-long-term-health-benefits.md) | q2 | 9 | 9 |
-| [Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student …](claims/dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md) | q2 | 9 | 9 |
-| [Weiss, David J. (1980). Final Report: Computerized Adaptive Performance Evaluation. …](claims/achievement-dimensionality-changes-during-instruction.md) | q2 | 8 | 8 |
 
 ## Citation load against evidence base
 
@@ -134,14 +134,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 321 | 2 | 0 |
-| [elements](elements/index.md) | 1,479 | 1,141 | 1 | 0 |
+| [elements](elements/index.md) | 1,508 | 1,158 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 109 | 8 | 0 |
-| [strategies](strategies/index.md) | 3,694 | 2,336 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,719 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,170 | 956 | 1 | 0 |
+| [theories](theories/index.md) | 1,189 | 973 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 205 | 141 | 1 | 0 |
+| [designs](designs/index.md) | 206 | 142 | 1 | 0 |
 
 ## Toward pooled estimates
 

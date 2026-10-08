@@ -64,6 +64,7 @@ Family engagement research consistently finds that parents cannot support learni
 - Interpreted parent–teacher conferences — the conversational complement to translated documents; one without the other leaves gaps
 - Home visits — builds the relational trust that translated paperwork alone cannot
 - [Use universally designed auto-translated two-way messaging so families need only basic text messaging](auto-translated-two-way-family-messaging.md)
+- [District leaders should partner with families of students with IEPs and provide clear, accessible information so families can understand and compare how their child would be served](partner-with-iep-families-provide-clear-service-information.md)
 
 ## Examples
 - Many U.S. districts subject to Title VI and the Equal Educational Opportunities Act provide report cards in Spanish, Vietnamese, Arabic, and other high-enrollment languages; New York City's public schools offer standardized report card translations in roughly ten languages through its central translation unit.

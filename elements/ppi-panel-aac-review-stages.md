@@ -45,6 +45,7 @@ The protocol establishes a PPI panel of AAC-familiar stakeholders to support the
 ## Related Elements
 
 - [Registered qualitative evidence synthesis protocol on AAC use in school (PROSPERO CRD420251229480)](aac-school-qes-protocol.md)
+- [CCSR steering committee as multi-partisan stakeholder advisory structure](ccsr-steering-committee-stakeholder-structure.md)
 
 ## Examples
 -

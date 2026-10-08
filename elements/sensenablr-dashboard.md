@@ -55,6 +55,7 @@ SensEnablr is a student-facing LAD that integrates descriptive, predictive, and 
 
 - [Web-based GAI chatbot with instructor-facing learning analytics dashboard](gai-socratic-chatbot-with-instructor-dashboard.md)
 - [Student-facing dashboard for online and distance education with selected features](student-facing-dashboard-online-distance-education.md)
+- [Thermos learning analytics dashboard](thermos-learning-analytics-dashboard.md)
 
 ## Examples
 -

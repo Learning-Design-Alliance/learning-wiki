@@ -50,3 +50,4 @@ Test-set evaluation of three classifiers trained on 104 Coh-Metrix indicators pl
 - [Discipline-general academic vocabulary (AWL use) supports cognitive engagement identification and may aid generalization across courses](awl-academic-vocabulary-supports-engagement-identification.md)
 - [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related
 - [Scientists have imposed their values of precision, objectivity, and control on language, including attempts to build machines that use and create language as humans do](science-values-imposed-on-language.md) — a broader claim this one bears on
+- [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related

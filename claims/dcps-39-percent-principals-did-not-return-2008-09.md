@@ -50,3 +50,4 @@ Descriptive background from the brief on the scale of principal replacement unde
 - [For DCPS students in grades 6 to 8, achievement gains under new principals were larger and statistically significant in both math and reading](dcps-grades-6-8-gains-significant-both-subjects.md) — related
 - [The 2007 DC reforms aimed to improve student achievement by hiring and retaining higher quality teachers and providing families more public school choices](dc-2007-reforms-teacher-quality-and-school-choice-aims.md) — related
 - [The report compares the effectiveness of teachers entering and exiting DCPS since IMPACT against core teachers who remained from 2008–2009 through 2012–2013](dcps-impact-leaver-newcomer-effectiveness-gap.md) — related
+- [Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond](decentralization-accountability-sorting-mechanisms-school-capacity.md) — related

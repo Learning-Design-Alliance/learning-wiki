@@ -47,3 +47,4 @@ The paper's background synthesis states that "the average charter school perform
 - [Charter middle school students who attend a charter high school are 8 to 10 percentage points more likely to attend college than those who transition to a traditional public high school](charter-high-school-college-attendance-gain.md) — related
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related
 - [Little evidence that Philadelphia charter schools help or harm achievement of students in nearby district schools](philadelphia-charter-no-spillover-nearby-district-schools.md) — related
+- [Charter school entrants have similar or lower achievement than incumbents in all studied cities, suggesting no cream skimming](credo-cohort1-charter-no-cream-skimming.md) — a narrower finding that bears on this claim

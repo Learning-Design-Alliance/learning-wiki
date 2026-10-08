@@ -59,8 +59,10 @@ AARs work because they force comparison between expected and observed outcomes, 
 6. Record lessons and revisit them at the start of the next attempt, closing the loop with [Practice](../elements/practice.md).
 
 ## Related Strategies
+
 - Structured debriefing in simulation-based education — the clinical adaptation of the same four-question protocol
 - Error analysis — AAR is the team-level, event-driven form of the same diagnostic move
+- [Use premortem analysis before implementing a reform to surface success factors and roadblocks](premortem-analysis-before-reform.md)
 
 ## Examples
 - **U.S. Army training doctrine** — the original AAR format, run at soldier, team, and unit levels after every training exercise, with lessons rolled into the next iteration ([Army field guidance](https://armypubs.army.mil)).

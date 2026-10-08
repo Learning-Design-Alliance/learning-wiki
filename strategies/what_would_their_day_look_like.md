@@ -59,8 +59,10 @@ The strategy combines an empathy-inducing imaginative task with structured resea
 6. Close with [Individual Reflection](../elements/individual-reflection.md): what surprised them, what they could not know from the photo, and how their view of the group or situation changed.
 
 ## Related Strategies
+
 - [Case Studies](../elements/case-studies.md) — both use a specific individual or situation as a window into broader context, but this strategy foregrounds imagination and empathy over analysis
 - [Acting-Role-Play](../strategies/acting-role-play.md) — an embodied variant where learners perform the perspective rather than narrate it
+- [Use premortem analysis before implementing a reform to surface success factors and roadblocks](premortem-analysis-before-reform.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the research backbone that grounds imagination in evidence

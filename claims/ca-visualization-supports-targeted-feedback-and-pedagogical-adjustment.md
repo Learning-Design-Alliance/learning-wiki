@@ -49,3 +49,4 @@ Cross-case qualitative finding (RQ1-1) from interviews, cognitive walkthroughs, 
 - [Active participation and commitment of teaching staff were essential for successful CA-supported LO assessment, fostered by clear actionable data and institutional support](faculty-engagement-essential-for-ca-assessment-success.md) — related
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
 - [Teachers use extracted analytics more for supervision than for guidance, with monitoring the dominant observed action](extracted-analytics-more-supervision-than-guidance.md) — related
+- [Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement](ri-charter-dashboards-reduced-surprise-stress.md) — related

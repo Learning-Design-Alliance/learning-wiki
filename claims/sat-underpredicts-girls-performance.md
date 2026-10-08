@@ -48,3 +48,4 @@ Testimony of Phyllis Rosser, a consultant on sex bias in testing, at the April 2
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — a narrower finding that bears on this claim
 - [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](psat-national-merit-awards-skew-male.md) — related
 - [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test](test-scores-gate-gifted-program-entry.md) — related
+- [Differences in grading practices across teachers and schools are small relative to students' actual academic preparation, and GPAs average out those differences](grading-differences-small-gpa-averages-teacher-differences.md) — related

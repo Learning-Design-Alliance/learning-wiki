@@ -53,3 +53,4 @@ The report's headline experimental finding compares lottery-based charter middle
 - [Both the offer of charter admission and actual attendance showed similarly negative, non-significant average achievement impacts](charter-offer-and-attendance-impacts-both-negative-nonsignificant.md) — possibly the same claim (merge candidate)
 - [Charter schools, on average, show test-score impacts that are not substantially better or worse than conventional public schools](charter-schools-test-score-impacts-comparable-to-traditional-public-schools.md) — a broader claim this one bears on
 - [Neither the hopes of voucher and charter supporters nor the fears of skeptics have been realized, per the authors' synthesis](voucher-charter-neither-hopes-nor-fears-realized.md) — a broader claim this one bears on
+- [More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages](gap-busting-charter-schools-exceed-state-averages.md) — reports the opposite

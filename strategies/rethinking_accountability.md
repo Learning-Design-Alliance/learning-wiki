@@ -64,6 +64,7 @@ Fair assessment requires that grades reflect achievement of learning goals rathe
 - **Standards-Based Grading** — grades report proficiency on explicit goals, making revision-based accountability coherent
 - **Trauma-Informed Teaching** — supplies the relational foundation (predictability, choice, connection) that rethought accountability depends on
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
+- [Develop flexible, alternative accountability frameworks tailored to schools' missions rather than relying on uniform measures such as the SAT](mission-tailored-alternative-accountability-frameworks.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — the structure being rethought; alternative formats live here
