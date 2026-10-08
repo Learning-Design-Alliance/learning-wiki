@@ -47,3 +47,5 @@ Random assignment study of the BELL summer learning program reported by the Urba
 - [The BELL summer program increases the extent to which parents encourage their children to read during the subsequent school year](bell-summer-program-increases-parent-reading-encouragement.md) — related
 - [A prior random-assignment evaluation found the BELL summer learning intervention effective](bell-summer-program-random-assignment-effective.md) — related
 - [Summer reading loss disproportionately widens academic gaps for low-income children](summer-reading-loss-widens-gaps.md) — a broader claim this one bears on
+- [Summer learning loss findings call into question explanations based on summer program access and school-year length](summer-loss-explanations-questioned.md) — related
+- [The reality of summer learning loss is more complex than the long-standing gap-widening account](summer-loss-more-complex-than-gap-account.md) — related

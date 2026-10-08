@@ -45,6 +45,7 @@ Critical service-learning is a model that adopts a social justice framework, as 
 ## Related Theories
 
 - [Competing conceptual models of service-learning: Butin's four perspectives and Mitchell's traditional/critical distinction](butin-mitchell-models-of-service-learning.md)
+- [Positionality pedagogy as 'being' rather than 'doing': modeling justice and equity across all of a teacher's work](positionality-being-over-doing.md)
 
 ## Examples
 -

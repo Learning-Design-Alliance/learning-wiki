@@ -50,3 +50,5 @@ Cross-program comparison across the eight tutoring evaluations. The brief states
 - [In real-world implementation, TSI students attended on average 25.5 of 50 scheduled tutoring sessions](tsi-attendance-half-of-scheduled-sessions.md) — related
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — reports the opposite
 - [Exploratory analyses: students ending the year in larger tutoring groups showed the largest math score increases but reported weaker tutor relationships than peers in smaller groups](blueprint-larger-groups-scores-up-relationships-weaker.md) — related
+- [The brief compares the scale and impact of summer school with other interventions such as tutoring](summer-school-compared-tutoring-scale-impact.md) — related
+- [The brief evaluates how summer program design and implementation aligned with recommended best practices](summer-school-design-alignment-best-practices.md) — related

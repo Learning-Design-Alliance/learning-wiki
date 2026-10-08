@@ -51,6 +51,8 @@ The 5Essentials Survey provided the study's measures of student socioemotional d
 - [5Essentials school survey as a measure of school relational trust and climate](5essentials-survey-relational-trust-measure.md)
 - [5Essentials Survey system measuring school organizational conditions](5essentials-survey-system-illinois.md)
 - [5Essentials Survey](5essentials-survey-measures-school-climate.md)
+- [5Essentials-based school climate measures (Student Physical Safety, Teacher Physical Safety, Student-Teacher Trust)](5essentials-sro-study-climate-measures.md)
+- [5Essentials Survey measures of school climate and organization](5essentials-survey-proximity-homicide-measures.md)
 
 ## Examples
 

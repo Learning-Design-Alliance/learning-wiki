@@ -45,3 +45,4 @@ The summary reports, citing Gormley et al. (2011) and Weiland and Yoshikawa (201
 ## Related Claims
 - [KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function](kipp-prek-possible-executive-function-impact.md) — related
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — related
+- [Pre-K graduates outperform nonattending peers in achievement and executive functioning at the end of kindergarten](pre-k-graduates-outperform-nonattenders-end-of-kindergarten.md) — related

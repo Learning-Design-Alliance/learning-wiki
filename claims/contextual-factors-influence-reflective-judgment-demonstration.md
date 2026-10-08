@@ -49,3 +49,4 @@ Findings from the author's pilot study of six supervised student teachers in one
 - [Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions](teacher-educator-coaching-reflective-practice-methods.md) — related
 - [Learning to deal with uncertainty and ill-defined dilemmas is often not a priority in preservice teacher education programs](uncertainty-preparation-neglected-in-teacher-education.md) — related
 - [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related
+- [The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors](sel-domains-less-stable-than-achievement.md) — related

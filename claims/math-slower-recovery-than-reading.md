@@ -44,3 +44,4 @@ The brief summarizes a larger meta-analysis of sixteen states and states in pass
 
 ## Related Claims
 - [Prior syntheses of educational technology effects show inconsistent findings, with mobile learning meta-analysis finding near-zero maths effects and reading interventions comparatively more effective](prior-technology-meta-analyses-inconsistent-effects.md) — related
+- [Persistently high chronic absenteeism rates are associated with slower academic recovery in math and reading after COVID-era disruptions](chronic-absenteeism-associated-slower-covid-recovery.md) — related

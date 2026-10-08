@@ -50,3 +50,4 @@ The report opens with this assertion as background motivation for the curriculum
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — related
 - [A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade](four-curricula-two-year-elementary-math-study-design.md) — related
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) — related
+- [Many children enter kindergarten without the foundational mathematics skills needed to succeed](children-enter-kindergarten-without-foundational-math-skills.md) — possibly the same claim (merge candidate)

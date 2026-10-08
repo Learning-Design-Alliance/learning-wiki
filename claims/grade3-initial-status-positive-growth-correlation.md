@@ -47,3 +47,4 @@ Grade 3 hierarchical growth model of the same longitudinal cohort; Table 1 rando
 - [Initial achievement disparities among Grade 1 placement groups persisted through Grade 3](initial-disparities-persist-through-grade3.md) — related
 - [Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades](gender-gap-reverses-male-favored-elementary-math.md) — related
 - [Students who placed on or above grade level in Grade 1 showed accelerated second-half growth in Grade 3, while growth rates declined in all placement groups](grade3-accelerated-growth-on-above-grade-level.md) — related
+- [Within-group achievement variation increased across time, so a standardized difference in later grades reflects a larger difference in knowledge](within-group-variation-increases-across-time.md) — related

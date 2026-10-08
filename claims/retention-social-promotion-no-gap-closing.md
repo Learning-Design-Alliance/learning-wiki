@@ -66,3 +66,4 @@ Descriptive tracking of the very low-achieving group (most of whom were retained
 - [Fewer than 60 percent of retained third and sixth graders in 1998 and 1999 raised their test scores to the promotional cutoff even with an extra January chance to pass](retained-students-struggled-second-time-through-gate.md) — related
 - [Retained sixth graders had lower achievement growth than promoted low-achieving counterparts](sixth-grade-retention-lowered-achievement-growth.md) — related
 - [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](retained-students-smaller-gains-than-social-promotes.md) — related
+- [Kindergarten test scores show patterns that can predict academic success or identify students at risk of falling further behind by third grade](kindergarten-scores-predict-third-grade-trajectories.md) — related

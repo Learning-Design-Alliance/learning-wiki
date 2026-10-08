@@ -73,3 +73,4 @@ For learning designers, the practical implication is risk management, not exploi
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) — related
 - [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related
 - [Students raised concerns that performance forecasts cannot capture personal circumstances affecting study](forecast-concerns-personal-circumstances.md) — related
+- [About three in five students identified as high-achieving in the first year remained high-achieving in the last year of the study](three-in-five-high-achievers-remain-high-achieving.md) — related

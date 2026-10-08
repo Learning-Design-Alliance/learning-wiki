@@ -50,3 +50,4 @@ Measurement study in 81 school- and community-based ECE sites in a large Midwest
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](early-ed-essentials-rasch-refined-measures.md) — related
 - [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related
 - [In the spring 2015 pilot, 19 of 27 teacher-survey measures met the 0.80 reliability threshold and all but one met 0.70; the Early Childhood Discipline measure was removed](teacher-survey-pilot-reliability-19-of-27.md) — a narrower finding that bears on this claim
+- [All nine Cultivate learning condition measures show strong Rasch person reliability (0.82-0.87) in CPS administrations](cultivate-learning-condition-measures-strong-reliability.md) — related

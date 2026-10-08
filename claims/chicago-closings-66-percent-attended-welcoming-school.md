@@ -48,3 +48,4 @@ Administrative-data analysis of displaced K-7 students reenrolled in CPS in fall
 - [There was no increase in the share of families leaving CPS after the school closings; 94 percent reenrolled in a CPS school](chicago-closings-no-increase-in-families-leaving-district.md) — related
 - [Proximity and relocation into the closed school building strongly predicted enrollment in designated welcoming schools](chicago-closings-proximity-relocation-predict-welcoming-enrollment.md) — related
 - [Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students](turnaround-student-composition-stable-except-restart.md) — related
+- [Academic impacts of closures hinge on the quality of receiving schools, and fewer than half of displaced students transfer to higher-performing schools](receiving-school-quality-moderates-closure-impacts.md) — related

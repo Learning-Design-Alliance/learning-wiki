@@ -46,3 +46,4 @@ This is the authors' stated motivation, offered without supporting data on this 
 - [During COVID-19 school disruptions, schools can take steps to ensure students continue to progress academically whether at home or at school](covid-continuity-of-learning-steps.md) — related
 - [Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas](internet-access-larger-barrier-than-devices.md) — related
 - [Evidence on what works in remote learning is scant, prompting schools and teachers to try many approaches](remote-learning-evidence-scant-2020.md) — related
+- [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related

@@ -45,3 +45,7 @@ The brief's summary statement: 2022 statewide assessment proficiency rates staye
 ## Related Claims
 - [By spring 2022, Pennsylvania grades 5–8 English language arts proficiency had regained 6 points of a 10-point pandemic-era drop relative to rates predicted for 2021](pennsylvania-2022-ela-proficiency-regained-six-of-ten-points.md) — a narrower finding that bears on this claim
 - [By spring 2022, Pennsylvania grades 5–8 math proficiency had regained nearly 5 points of a 13-point drop relative to rates predicted for 2021](pennsylvania-2022-math-proficiency-regained-nearly-five-of-thirteen-points.md) — related
+- [Student achievement remained below typical-year levels in fall 2022, with full recovery projected several years away](achievement-below-typical-recovery-years-away.md) — related
+- [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related
+- [Growth for all race/ethnicity groups lagged pre-pandemic trends in 2023-24, with marginalized students furthest from recovery](marginalized-students-furthest-from-recovery-2023-24.md) — related
+- [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — related

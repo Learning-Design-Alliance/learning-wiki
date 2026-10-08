@@ -64,3 +64,4 @@ Cross-case qualitative finding from the six welcoming-school case studies. Staff
 ## Related Claims
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
+- [Four-day school weeks have no detectable effect on disciplinary incident types other than bullying and fighting](four-day-week-no-effect-other-incident-types.md) — reports the opposite

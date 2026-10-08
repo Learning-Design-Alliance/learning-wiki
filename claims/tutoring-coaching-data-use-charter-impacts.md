@@ -53,3 +53,4 @@ The summary characterizes the evidence for these three practices as "moderately 
 - [High-dosage tutoring is positively associated with charter school achievement impacts](high-dosage-tutoring-associated-charter-success.md) — a narrower finding that bears on this claim
 - [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](teacher-feedback-coaching-associated-charter-success.md) — possibly the same claim (merge candidate)
 - [Urban charter schools and charters serving low-achieving, low-income students show the strongest positive achievement impacts](urban-low-income-charter-schools-strongest-achievement-impacts.md) — related
+- [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a narrower finding that bears on this claim

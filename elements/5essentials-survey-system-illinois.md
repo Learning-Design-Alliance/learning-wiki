@@ -56,6 +56,9 @@ The 5Essentials Survey is a confidential statewide survey administered to studen
 - [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](five-essentials-early-education-surveys.md)
 - [Early Ed Essentials teacher and parent survey measurement system](early-ed-essentials-survey-measurement-system.md)
 - [Early Education Essentials surveys (now The Essential 0-5 Survey)](early-education-essentials-surveys.md)
+- [5Essentials-based school climate measures (Student Physical Safety, Teacher Physical Safety, Student-Teacher Trust)](5essentials-sro-study-climate-measures.md)
+- [5Essentials Survey measures of school climate and organization](5essentials-survey-proximity-homicide-measures.md)
+- [School data tools for family and LSC inquiry: CIWP, 5Essentials, CPS School Profiles, To&Through, and ISBE report card](family-data-dive-school-inquiry-tools.md)
 
 ## Examples
 

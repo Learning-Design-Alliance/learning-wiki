@@ -47,3 +47,5 @@ Longitudinal analysis of two cohorts (8,361 and 9,325 students) tracked 2017-201
 - [Boys are increasingly overrepresented among high-achieving elementary math students, with male-to-female ratios rising across grades](male-overrepresentation-high-achievers-rises-elementary.md) — related
 - [In Grade 3 only, higher initial fall status was associated with larger within-year growth, suggesting baseline gaps may widen](grade3-initial-status-positive-growth-correlation.md) — related
 - [Suspensions showed significant negative associations with math growth in grades 3-5, with increasingly negative effects](suspensions-negative-math-growth-upper-elementary.md) — related
+- [Boys regain the advantage in middle school STEM skills in post-COVID gender achievement gap trends](boys-regain-advantage-middle-school-stem-post-covid.md) — related
+- [A two-million-student MAP Growth sample was used to test whether gender gaps widened among low- and high-achieving students](two-million-student-map-growth-gender-gaps-achievement-levels.md) — related

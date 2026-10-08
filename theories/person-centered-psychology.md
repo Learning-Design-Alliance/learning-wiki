@@ -48,6 +48,7 @@ Drawing on Carl Rogers' humanistic psychology and small-group encounter methods,
 - [Building Empathy](../principles/building-empathy.md) — person-centered psychology gives a structured relational methodology (safety, congruence, empathic listening) for why and how perspective-taking activities can go deeper than surface-level exercises
 - [Discussing Race](../principles/discussing-race.md) — the framework's distinction between safe and brave spaces, and its emphasis on facilitator authenticity, addresses the specific difficulty of sustaining dialogue about race and identity without collapsing into defensiveness or avoidance
 - [Create a safe space in arts instruction so students can take productive risks and grow emotionally](../strategies/safe-space-arts-instruction-strategy.md)
+- [Ask students to reflect on how they have been exposed to and impacted by society's messages about race, gender, and sexual identity, after the teacher has modeled vulnerability](../strategies/student-reflection-social-messages-after-teacher-modeling.md)
 
 ## Key Sources
 - Hod, Y., & Tueg, S. (2026). Re-encountering humanism: a person-centered contribution to the learning sciences' sociopolitical turn. *Journal of the Learning Sciences*. [https://doi.org/10.1080/10508406.2026.2672997](https://doi.org/10.1080/10508406.2026.2672997)

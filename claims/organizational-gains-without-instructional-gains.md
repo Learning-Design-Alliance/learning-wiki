@@ -69,3 +69,4 @@ Survey trend analysis of student-reported climate measures (Chapter 7). The repo
 - [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](annenberg-capacity-gains-eroded-by-2001.md) — related
 - [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](parent-involvement-declined-after-reform-act.md) — related
 - [Chicago high school teachers reported better communication and more positive relationships with parents in 1997 than in 1994](teacher-parent-communication-improved-1994-1997.md) — related
+- [Schools with many unrelated and unsustained initiatives show smaller gains than schools with coherent programs](instructional-program-coherence-smaller-gains.md) — related

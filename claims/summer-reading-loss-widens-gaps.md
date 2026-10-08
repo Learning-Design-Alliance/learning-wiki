@@ -47,3 +47,5 @@ The toolkit asserts, citing research it does not further specify, that "low-inco
 - [A well-implemented summer learning program (BELL) improves low-income children's reading test scores](bell-summer-program-improves-reading-scores.md) — a narrower finding that bears on this claim
 - [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — a broader claim this one bears on
 - [Mathematics education acts as a gatekeeper to academic opportunity that disproportionately affects students from historically marginalized communities](mathematics-education-gatekeeper-marginalized-students.md) — a broader claim this one bears on
+- [Summer learning loss findings call into question explanations based on summer program access and school-year length](summer-loss-explanations-questioned.md) — related
+- [The reality of summer learning loss is more complex than the long-standing gap-widening account](summer-loss-more-complex-than-gap-account.md) — related

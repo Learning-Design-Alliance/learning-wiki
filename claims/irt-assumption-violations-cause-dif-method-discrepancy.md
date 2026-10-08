@@ -50,3 +50,4 @@ Authors' diagnostic discussion (type e): five items assess science and reading c
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
 - [Given assumption violations and the uniformity factor, the authors judge the LDF method more likely accurate and superior to ICC for this performance assessment](ldf-superior-to-icc-for-this-performance-assessment.md) — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related
+- [The multivariate normality assumption of the true score model was judged reasonable for all domains and grades](spanish-foundational-skills-normality-assumption-met.md) — related

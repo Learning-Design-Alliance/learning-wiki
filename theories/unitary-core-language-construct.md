@@ -50,6 +50,7 @@ The review's first theoretical perspective holds that linguistic comprehension d
 
 - [Simple View of Reading: reading comprehension as the product of decoding and linguistic comprehension](simple-view-of-reading-gough-tunmer.md)
 - [Unified taxonomy of subskills shared between and exclusive to reading and listening comprehension](unified-rc-lc-subskills-taxonomy.md)
+- [Simple View of Reading as the organizing framework for Spanish MAP Reading Fluency](simple-view-of-reading-spanish-map-reading-fluency-design.md)
 
 ## Examples
 -

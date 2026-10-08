@@ -49,3 +49,4 @@ Review synthesis in Chapter 2 of psychological evidence on mindsets. The review 
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — possibly the same claim (merge candidate)
 - [When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely](self-efficacy-with-sustained-effort-better-achievement.md) — related
+- [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related

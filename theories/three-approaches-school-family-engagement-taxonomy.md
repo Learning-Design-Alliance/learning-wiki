@@ -45,6 +45,7 @@ The brief categorizes school-family engagement research into three approaches di
 ## Examples
 
 - [Structured reflection exercise for educators to situate their family engagement practice within the three engagement approaches](../strategies/family-engagement-reflection-exercise-educators.md)
+- [Use improved communication strategies to drive family involvement and partnerships with schools](../strategies/improved-communication-drives-family-involvement-partnerships.md)
 
 ## Key Sources
 - Orta, D., & Gutiérrez, V. (2022). Improving school-family communication and engagement: Lessons from remote schooling during the pandemic. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/improving-school-family-communication-and-engagement

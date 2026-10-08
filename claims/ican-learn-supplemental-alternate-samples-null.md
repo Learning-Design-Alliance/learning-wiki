@@ -60,3 +60,4 @@ Supplemental alternate-sample analysis from Kerstyn (2002) covering all 36 distr
 ## Related Claims
 - [I CAN Learn® has no discernible effects on the mathematics test scores of eighth-grade students in primary mathematics courses](ican-learn-no-discernible-effects-eighth-grade-math.md) — related
 - [Comparison classrooms in the qualifying study were district-matched traditional classrooms, but baseline equivalence required adjustment](kerstyn-matched-comparison-baseline-adjustment.md) — related
+- [Sensitivity analyses restricting to students assessed in all 15 terms reproduced the full-sample between-group comparisons](sensitivity-15-term-subsample-same-comparisons.md) — related

@@ -44,3 +44,4 @@ Heterogeneity assessment across the pooled short-term effect sizes in the review
 
 ## Related Claims
 - [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](small-group-instruction-outperforms-cai-incentives.md) — related
+- [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related

@@ -45,6 +45,8 @@ The Simple View of Reading is a theoretical model of reading comprehension that 
 
 - [Linguistic Threshold Hypothesis versus Linguistic Interdependence Hypothesis for ELL reading comprehension](linguistic-threshold-vs-interdependence-hypotheses.md)
 - [Unitary language construct: vocabulary, grammar, and listening comprehension reflect a common language factor](unitary-core-language-construct.md)
+- [Simple View of Reading as the design basis for MAP Reading Fluency](simple-view-of-reading-design-basis.md)
+- [Simple View of Reading as the organizing framework for Spanish MAP Reading Fluency](simple-view-of-reading-spanish-map-reading-fluency-design.md)
 
 ## Examples
 

@@ -46,3 +46,4 @@ Descriptive summary of the first simulation study (200 replications per conditio
 - [The Ratio of Trace method consistently yields the most precise estimates of the MIRT dilation parameter k across all simulated equating situations](ratio-of-trace-best-dilation-estimate-mirt-equating.md) — related
 - [Regression analysis shows the MTCS method significantly degrades dilation-parameter precision relative to the Ratio of Eigenvalues method, while simulation factors explain most RMSE variation](regression-mtcs-significant-k-precision.md) — related
 - [The developed MIRT equating methods behave as unbiased, effective, and consistent estimators of transformation parameters](mirt-equating-methods-unbiased-effective-consistent.md) — related
+- [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related

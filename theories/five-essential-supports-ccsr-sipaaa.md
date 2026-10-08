@@ -51,6 +51,7 @@ The report organizes all survey measures around five essential supports for stud
 - [Five essential supports framework for organizing school improvement self-analysis](five-essential-supports-school-learning-framework.md)
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
 - [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
+- [Cultivate framework of nine classroom learning conditions plus learning strategies and beliefs](cultivate-nine-learning-conditions-framework.md)
 
 ## Examples
 

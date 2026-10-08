@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 7,562 |
-| Evidence entries | 8,835 |
-| Distinct studies | 2,331 |
-| Claims resting on one study | 7,348 (97%) |
+| Claims | 7,873 |
+| Evidence entries | 9,157 |
+| Distinct studies | 2,421 |
+| Claims resting on one study | 7,659 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 627 of 2,331 (27%) |
+| Studies reporting an effect size | 628 of 2,421 (26%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 40 | 296 | 97 | 295 | 728 |
+| causal | 40 | 301 | 97 | 298 | 736 |
 | quant-synthesis | 22 | 68 | 31 | 121 | 242 |
-| review | 22 | 88 | 35 | 77 | 222 |
-| associational | 12 | 212 | 119 | 133 | 476 |
-| qualitative | 41 | 90 | 29 | 28 | 188 |
-| design | 14 | 120 | 67 | 13 | 214 |
-| theoretical | 32 | 151 | 41 | 37 | 261 |
+| review | 22 | 88 | 37 | 81 | 228 |
+| associational | 14 | 243 | 119 | 166 | 542 |
+| qualitative | 41 | 91 | 29 | 28 | 189 |
+| design | 14 | 125 | 68 | 14 | 221 |
+| theoretical | 32 | 152 | 42 | 37 | 263 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 372 (16%) | 1,242 (53%) | 613 (26%) | 104 (4%) |
+| 391 (16%) | 1,300 (54%) | 626 (26%) | 104 (4%) |
 
-**Studies per claim:** 0: 0, 1: 7,348, 2: 160, 3: 48, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 7,659, 2: 160, 3: 48, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -51,6 +51,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Ehrlich, S. B., Gwynne, J. A., Pareja, A. S., & Allensworth, E. M. (2014). Preschool Attendance in Chicago …](claims/attendance-benefits-strongest-low-incoming-skills.md) | q3 | 13 | 13 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
 | [Curtis J. Jones and DongMei Li, University of Wisconsin-Milwaukee. (2021). Testing the Impact and Scalability …](claims/ff-differential-attendance-subgroups.md) | q3 | 12 | 12 |
+| [Trend Snapshots: COVID-19 recovery in K–2, positive recovery trends. (2026). NWEA. …](claims/algebra-placement-8th-versus-9th-grade-outcomes.md) | q2 | 12 | 12 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
 | [Hart, H. M., Sporte, S. E., Ponisciak, S. M., Stevens, W. D., & Cambronne, A. (2008). Teacher and Principal …](claims/fund-principals-future-plans.md) | q2 | 10 | 10 |
 | [Steven Glazerman and Jeffrey Max. (2011). Do Low-Income Students Have Equal Access to the Highest-Performing …](claims/district-a-extreme-middle-school-math-disparity.md) | q2 | 10 | 10 |
@@ -62,7 +63,6 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Phonological …](claims/alignment-trained-skill-larger-effects-phonological-awareness.md) | q2 | 9 | 9 |
 | [Building Decision Skills. (2006). WWC Intervention Report, What Works Clearinghouse. …](claims/bds-curriculum-adds-beyond-service-learning-alone.md) | q2 | 9 | 9 |
 | [What Works Clearinghouse, U.S. Department of Education. (2007). WWC Intervention Report: Waterford Early …](claims/waterford-level-one-no-discernible-oral-language-effects.md) | q2 | 9 | 9 |
-| [Marisa de la Torre, Julia Gwynne. (2009). When Schools Close: Effects on Displaced Students in Chicago Public …](claims/achievement-returns-to-expected-after-closing.md) | q3 | 9 | 9 |
 
 ## Citation load against evidence base
 
@@ -134,14 +134,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 322 | 2 | 0 |
-| [elements](elements/index.md) | 1,612 | 1,241 | 1 | 0 |
+| [elements](elements/index.md) | 1,675 | 1,286 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
-| [strategies](strategies/index.md) | 3,824 | 2,336 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,864 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,290 | 1,069 | 1 | 0 |
+| [theories](theories/index.md) | 1,317 | 1,092 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 211 | 143 | 1 | 0 |
+| [designs](designs/index.md) | 214 | 143 | 1 | 0 |
 
 ## Toward pooled estimates
 

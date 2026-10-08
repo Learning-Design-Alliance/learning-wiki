@@ -45,3 +45,4 @@ The article reports, citing Droop and Verhoeven (2003), that bilingual Turkish-D
 ## Related Claims
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
 - [Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction](phonological-automatization-improves-esp-reading-comprehension.md) — reports the opposite
+- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](cross-linguistic-transfer-skill-specific.md) — related

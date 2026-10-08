@@ -44,6 +44,7 @@ The report recommends using its profiles to "stimulate discussion among your sch
 - [Use individualized survey reports disaggregated by student type to target AVID program improvement areas](avid-survey-report-target-improvement-strategy.md)
 - [Distribute report review across staff committees to streamline school self-analysis](distribute-report-review-across-staff-committees.md)
 - [Return individual school survey profiles to stimulate local school improvement discussions](school-profiles-for-local-improvement-discussions.md)
+- [Parents and LSC members partner with principals by learning the leadership team, reviewing the CIWP and school data, and fostering a welcoming school culture](parent-lsc-principal-partnership-strategy.md)
 
 ## Examples
 -

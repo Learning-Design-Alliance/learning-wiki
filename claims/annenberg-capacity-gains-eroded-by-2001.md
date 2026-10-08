@@ -51,3 +51,4 @@ Longitudinal survey analysis of seven areas of school improvement assessed with 
 - [Many Annenberg schools had weak human and social resources, including low trust among teachers, limiting their capacity for school development](annenberg-schools-weak-capacity-low-trust.md) — related
 - [Annenberg schools showed no significant differences from non-Annenberg schools in student social and psychological outcomes, some of which weakened](annenberg-social-outcomes-no-difference-some-weakened.md) — related
 - [Relational trust varies substantially between schools, supporting its treatment as an organizational property](relational-trust-varies-between-schools-organizational-property.md) — related
+- [Schools with many unrelated and unsustained initiatives show smaller gains than schools with coherent programs](instructional-program-coherence-smaller-gains.md) — related

@@ -49,3 +49,4 @@ HLM analysis of teacher survey measures found the Teacher-Principal Trust slope 
 - [Student reports of safety did not improve faster in Culture of Calm schools than in other similar high schools](coc-student-safety-no-faster-improvement.md) — related
 - [Teachers' reports of disorder and crime decreased at a faster rate in Culture of Calm schools than in non-CoC schools between 2009 and 2011 (d = 0.4)](coc-teacher-disorder-crime-decreased-faster.md) — related
 - [Teachers reporting better professional development and curricular coherence have better instructional practices than other teachers in their school](pd-coherence-benefit-individual-teachers.md) — related
+- [SRO removal was not significantly related to changes in student or teacher perceptions of physical safety or in Student-Teacher Trust](sro-removal-no-change-school-climate-perceptions.md) — related

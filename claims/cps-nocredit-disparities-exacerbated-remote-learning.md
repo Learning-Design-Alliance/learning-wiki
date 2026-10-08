@@ -48,3 +48,4 @@ Descriptive analysis of no-credit grade rates by student background among 223,09
 - [High school course grades improved in spring 2020 and remained higher than pre-pandemic levels through spring 2021, with a slight rise in Fs](cps-high-school-grades-improved-remote-learning.md) — related
 - [No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations](cps-school-level-variation-nocredit-rates.md) — related
 - [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
+- [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — related

@@ -43,7 +43,8 @@ The article draws on the "Four Domains for Rapid School Improvement: A Systems F
 - [Strong leadership is central to rapid school improvement, per the article's summary of research](../claims/leadership-central-rapid-school-improvement.md) [+W]
 
 ## Related Theories
-- 
+
+- [Responsive, resilient school communities built from interlocking student-centered efforts](interlocking-student-centered-school-efforts.md)
 
 ## Examples
 

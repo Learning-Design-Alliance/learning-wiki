@@ -68,6 +68,7 @@ Frequency and specificity of communication drive effects: personalized messages 
 - Home literacy activity texting programs (e.g., READY4K) — parent-directed variant with experimental support
 - Student-led conferences with digital portfolios — pairs media-sharing apps with student ownership of the narrative
 - [Remove practical barriers to family participation through flexible scheduling, translation, childcare, and material supports](remove-barriers-family-participation.md)
+- [Use improved communication strategies to drive family involvement and partnerships with schools](improved-communication-drives-family-involvement-partnerships.md)
 
 ## Examples
 - **[ClassDojo](https://www.classdojo.com)** — class story feeds, private message translation into 35+ languages, and student portfolio sharing; widely used in elementary settings.

@@ -45,3 +45,4 @@ In the same teacher-level analysis of i-Ready growth outcomes, school NSLP parti
 ## Related Claims
 - [Educators' emotion regulation, relationship management, well-being, and school climate perceptions did not predict whether students met i-Ready math or reading growth goals](adult-sel-measures-not-predicting-student-growth.md) — related
 - [Teachers' well-being predicted their emotion regulation skills, even accounting for school climate and NSLP percentage](wellbeing-predicts-emotion-regulation.md) — related
+- [The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors](sel-domains-less-stable-than-achievement.md) — related

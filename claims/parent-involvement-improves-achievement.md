@@ -119,3 +119,4 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
 - [TIPS students report significantly higher family involvement in reading and science homework than non-participants](tips-family-involvement-reading-science.md) — a narrower finding that bears on this claim
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related
+- [Family engagement in schools is closely linked to improved student academic achievement, social skills, and fewer behavior issues](family-engagement-linked-student-outcomes.md) — related

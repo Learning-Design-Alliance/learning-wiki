@@ -45,6 +45,7 @@ The article recommends that after reviewing 5Essentials diagnostic results, scho
 
 - [Use annual 5Essentials Survey data to identify school-environment strengths and areas to improve for bullying prevention](use-5essentials-data-to-reduce-bullying-fear.md)
 - [Use 5Essentials survey data to identify where to improve students' school experiences and teachers' relationships with parents to support attendance](use-5essentials-data-to-target-attendance-supports.md)
+- [Use Cultivate data as a framework for action to identify strengths and improvement areas in learning environments](cultivate-framework-for-action-school-improvement.md)
 
 ## Examples
 -

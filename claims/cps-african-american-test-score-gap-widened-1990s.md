@@ -48,3 +48,4 @@ Disaggregated trend analysis of mean ITBS scores by race/ethnicity, 1990-2001, r
 - [No evidence that the racial/ethnic achievement gap in CPS elementary scores narrowed or widened from 1992 to 2000](cps-racial-ethnic-gap-unchanged-1992-2000.md) — reports the opposite
 - [African-American students' disproportionate retention was largely explained by lower prior test scores](retention-racial-disparity-explained-by-scores.md) — related
 - [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
+- [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — related

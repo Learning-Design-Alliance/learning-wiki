@@ -46,3 +46,4 @@ Rasch analysis (Winsteps, Version 3.90.2) of the combined CPS (1,153 teachers) a
 - [The final spring 2015 parent-survey pilot collected 253 parent responses across seven school-based and nine center-based Chicago preschool sites, in English and Spanish](parent-survey-pilot-253-responses.md) — related
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](early-ed-essentials-rasch-refined-measures.md) — related
 - [The Early Education Essentials is reliable across multiple ECE settings](early-education-essentials-reliable-multiple-settings.md) — a broader claim this one bears on
+- [All nine Cultivate learning condition measures show strong Rasch person reliability (0.82-0.87) in CPS administrations](cultivate-learning-condition-measures-strong-reliability.md) — related

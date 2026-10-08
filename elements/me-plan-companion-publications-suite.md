@@ -48,6 +48,7 @@ The page lists companion publications released alongside the template in Februar
 - [Guide to Measuring Implementation: The 3Us — a practical measurement guidance resource](guide-to-measuring-implementation-3us-resource.md)
 - [Suite of Mathematica tools supporting grantees to develop, refine, and scale evidence-based solutions](mathematica-grantee-measurement-tool-suite.md)
 - [Measurement and Evaluation Reporting Template for summarizing and sharing study findings](measurement-and-evaluation-reporting-template.md)
+- [Practitioner's Guide to Integrating Literacy and Science](practitioners-guide-integrating-literacy-and-science.md)
 
 ## Examples
 

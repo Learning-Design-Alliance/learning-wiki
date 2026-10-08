@@ -51,6 +51,7 @@ The 5Essentials Survey is a school climate survey completed by students and teac
 - [5Essentials Survey supplemental measures of racial equity climate and school civic engagement](5essentials-racial-equity-civic-engagement-measures.md)
 - [5Essentials school survey as a measure of school relational trust and climate](5essentials-survey-relational-trust-measure.md)
 - [School-specific summary and details reports generated from survey participation](school-specific-survey-summary-and-details-reports.md)
+- [5Essentials Survey measures of school climate and organization](5essentials-survey-proximity-homicide-measures.md)
 
 ## Examples
 
