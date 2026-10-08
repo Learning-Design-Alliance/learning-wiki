@@ -58,9 +58,11 @@ Relationship quality is one of the most consistent correlates of achievement and
 6. Follow through visibly on commitments (returning work when promised, acting on feedback surveys) — reliability is the core of trust.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the conversational skill through which trust is communicated moment to moment
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a scalable structure for individual relationship-building contact
 - [Check-Ins](../elements/check-in.md) — the recurring ritual that maintains relational connection over a course
+- [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
 
 ## Examples
 - **Restorative practice circles** (used across many US districts): structured community circles in which teachers and students share perspectives, building relational trust that underpins classroom management.

@@ -55,3 +55,4 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - [Mainstream American linguistics can state formal alternatives but cannot derive workable criteria for deciding among them](linguistics-lacks-workable-decision-criteria.md) — related
 - [Open education is asserted to lack a solid theoretical or philosophical foundation](open-education-lacks-theoretical-foundation.md) — related
 - [There is not yet much rigorous evidence to guide decision making around instructional and support strategies for adult learners](little-rigorous-evidence-adult-learner-strategies.md) — related
+- [Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution](arts-sel-evidence-base-rigor-gap.md) — related

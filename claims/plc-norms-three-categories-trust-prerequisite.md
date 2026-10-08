@@ -71,3 +71,4 @@ Cross-study synthesis of norm development. The review states that "productive no
 - [Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice](situated-learning-three-barrier-categories.md) — related
 - [Teacher resistance as an exercise of teacher agency is a fundamental challenge to current PLC formulations](teacher-resistance-agency-challenges-plc.md) — related
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
+- [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related

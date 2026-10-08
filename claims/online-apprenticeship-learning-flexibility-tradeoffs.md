@@ -47,3 +47,4 @@ A key takeaway from the virtual discussion groups with state apprenticeship admi
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
 - [State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic](technology-pivot-expanded-apprenticeship-agency-reach.md) — related
 - [Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas](internet-access-larger-barrier-than-devices.md) — related
+- [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — a narrower finding that bears on this claim

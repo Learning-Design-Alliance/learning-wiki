@@ -66,6 +66,7 @@ Dashboards are only as effective as the self-regulatory behavior they trigger; d
 - [Use Edpuzzle's embedded questions, analytics, and LMS integration to support differentiation](edpuzzle-embedded-questions-analytics-differentiation.md)
 - [Provide an orientation period for Grade 1 students and teacher-facing monitoring dashboards](grade1-orientation-and-teacher-dashboard-strategy.md)
 - [Include reference frames in a LAD and balance dashboard support with integration into existing educational structures](lad-reference-frames-and-educational-integration.md)
+- [Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard](ct-profile-differentiated-teacher-training-dashboard.md)
 
 ## Examples
 - **[Open University, UK — "Student Progress Dashboard"](https://www.open.ac.uk)** — self-referenced progress indicators shown to distance learners; evaluated studies found effects depended on students' prior attainment.

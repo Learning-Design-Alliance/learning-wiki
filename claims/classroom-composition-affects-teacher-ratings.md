@@ -46,3 +46,4 @@ Quasi-experimental analysis of five years of Chicago Public Schools administrati
 ## Related Claims
 - [Academic and behavioral classroom factors, not student demographics, drive the effect of composition on evaluator ratings](academic-behavioral-factors-drive-rating-effect.md) — a narrower finding that bears on this claim
 - [Observation scores and student surveys were moderately correlated with student learning and likely captured different dimensions of teaching quality](ratings-moderately-correlated-with-student-learning.md) — related
+- [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related

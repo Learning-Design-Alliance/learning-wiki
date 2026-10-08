@@ -48,3 +48,4 @@ Uptake statistics reported from the Mama Aweza trial intervention arm: "94% resp
 - [Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors](family-muac-uptake-barriers.md) — related
 - [Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training](refresher-training-needed-for-muac-accuracy.md) — related
 - [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — related
+- [Mobile apps increased timely, direct communication between parents and educators during remote schooling](mobile-apps-timely-parent-teacher-communication.md) — related

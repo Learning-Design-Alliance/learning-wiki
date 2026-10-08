@@ -45,3 +45,4 @@ The article's narrative account of the CMSI reform reports that in 2002 the CPS 
 ## Related Claims
 - [Chicago Public Schools improved dramatically between 1987 and 2017, with the biggest gains among students of color and low-income students](cps-decades-improvement-equitable-gains.md) — related
 - [Double-dose algebra was discontinued before its benefits were documented, though subsequent research found long-term benefits](double-dose-algebra-discontinued-prematurely.md) — related
+- [Chicago's public school system moved from among the most troubled in America in 1987 to among the most improved thirty years later](chicago-schools-most-troubled-to-most-improved.md) — related

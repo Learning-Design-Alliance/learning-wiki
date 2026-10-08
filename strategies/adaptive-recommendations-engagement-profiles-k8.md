@@ -39,6 +39,7 @@ The authors recommend that online learning platforms for young learners adapt to
 ## Related Strategies
 
 - [Provide an orientation period for Grade 1 students and teacher-facing monitoring dashboards](grade1-orientation-and-teacher-dashboard-strategy.md)
+- [Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard](ct-profile-differentiated-teacher-training-dashboard.md)
 
 ## Examples
 -

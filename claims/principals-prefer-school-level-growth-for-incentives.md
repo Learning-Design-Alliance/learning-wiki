@@ -46,3 +46,4 @@ Baseline principal/vice principal survey across the three EPIC sites asked admin
 - [Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general](epic-principals-positive-attitudes-merit-pay.md) — related
 - [Principals exhibit an incomplete understanding of how achievement growth is captured in EPIC performance measures](principals-incomplete-understanding-growth-measures.md) — related
 - [School value added can reflect school-specific influences on student achievement growth that are outside principals' control](value-added-reflects-influences-outside-principal-control.md) — related
+- [The merit award program produced modest achievement improvements concentrated in schools close to the award threshold](merit-award-modest-gains-near-threshold.md) — related

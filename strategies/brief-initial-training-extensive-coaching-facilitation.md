@@ -58,6 +58,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 - [DCPS recommends regular AP teacher participation in the Advanced Placement Summer Institute to promote quality AP instruction](dcps-recommends-regular-apsi-participation.md)
+- [Provide welcoming schools with more ongoing training, time for reflection, and targeted support when integrating displaced students and staff](ongoing-training-support-welcoming-school-integration.md)
 
 ## Examples
 -

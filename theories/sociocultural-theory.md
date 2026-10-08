@@ -95,6 +95,7 @@ A related developmental mechanism is **private speech**: children's habit of tal
 - [Zone of Proximal Development as learners' responsiveness to culturally appropriate mediation](zpd-responsiveness-to-mediation.md)
 - [Transparency theory: a holistic, tacit-skill account of learning and language acquisition](transparency-theory-learning-skill-acquisition.md)
 - [Theoretical grounding of LAD design in SCT, SRL, constructivism, social cognitive theory, and transformative learning](lad-theoretical-grounding-sct-srl-tl.md)
+- [Developmental relationships: experiences shape development most within strong, supportive, sustained relationships with adults and peers](developmental-relationships-context-sel.md)
 
 ## Examples
 

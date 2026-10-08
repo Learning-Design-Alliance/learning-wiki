@@ -48,3 +48,4 @@ Survey descriptive results (Figure 5) show mean well-being of 3.15 and school cl
 - [Implementation level was not significantly associated with most student and staff climate outcomes or any administrative outcomes](implementation-not-associated-most-outcomes.md) — related
 - [High implementation of trauma-engaged practices was associated with higher elementary students' caring-others perceptions](implementation-associated-elementary-caring-others.md) — related
 - [Teachers' well-being predicted their emotion regulation skills, even accounting for school climate and NSLP percentage](wellbeing-predicts-emotion-regulation.md) — related
+- [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related

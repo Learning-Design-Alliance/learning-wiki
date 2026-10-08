@@ -69,3 +69,4 @@ The authors' comparative policy observation: England's National Literacy Strateg
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
+- [Citizens allied to challenge a dysfunctional power structure and learned together how to move the system toward more equitable outcomes](civic-alliance-learning-for-equitable-outcomes.md) — related

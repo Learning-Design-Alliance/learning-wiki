@@ -60,9 +60,11 @@ Climate routines function as environmental scaffolding: by making social expecta
 6. **Fade teacher control gradually.** Shift routine ownership to students (student-led circles, rotating greeters) to build autonomy [Autonomy support fosters intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 
 ## Related Strategies
+
 - [Restorative practices circles](../strategies/restorative-practices-circles.md) — a community-building routine that doubles as a response to harm
 - [Positive greetings at the door](../strategies/positive-greetings-at-the-door.md) — a single high-leverage entry routine with behavioral evidence
 - [Co-creating classroom norms](../strategies/co-creating-classroom-norms.md) — establishes the shared expectations routines then maintain
+- [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — the Morning Meeting routine: greeting, sharing, group activity, and news-and-announcements, practiced daily in elementary classrooms.

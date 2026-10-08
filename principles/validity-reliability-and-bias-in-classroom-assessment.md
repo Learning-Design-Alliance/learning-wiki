@@ -12,7 +12,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (8 for, 14 mixed) · 21 studies (8 associational, 5 design, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 21 report an effect size · 21 claims rest on one study
+> **Evidence** · 24 claims (10 for, 14 mixed) · 22 studies (8 associational, 5 design, 4 review, 3 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 3 of 22 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -118,6 +118,8 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](../claims/vam-omitting-background-lowers-disadvantaged-district-ratings.md) [+W] — attached 2026-10-08 from Matthew T. Johnson et al. (2015), which proposed "When constructing teacher value-added models, include student and peer background characteristics, especially for districts with many disadvantaged students"; tests this page's relationship.
 - [Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness](../claims/proxy-pretest-estimates-biased-but-informative.md) [+W] — attached 2026-10-08 from Elias Walsh et al. (2018), which proposed "Use proxy pre-tests to extend value-added coverage to grades and subjects lacking same-subject prior tests, while weighting estimates appropriately"; tests this page's relationship.
 - [The multiple-choice placement test component and high school GPA similarly predicted passing credit-bearing ELA courses, while the writing component did not predict any outcomes](../claims/cmi-gpa-and-multiple-choice-similarly-predict-ela-passing.md) [+W] — attached 2026-10-08 from Shannon et al. (2026), which proposed "Weight placement measures by their demonstrated predictive value: rely on high school GPA more heavily and drop components that do not predict outcomes".
+- [Classroom composition significantly affects teacher performance ratings: a one SD increase in classroom quality raises observation scores by 0.07 SD and student survey ratings by 0.13 SD](../claims/classroom-composition-affects-teacher-ratings.md) [+W] — attached 2026-10-08 from Delgado et al. (2026), which proposed "Interpret teacher performance ratings as partly reflecting classroom composition, since teachers working with more challenging students may be systematically undervalued"; tests this page's relationship.
+- [Academic and behavioral classroom factors, not student demographics, drive the effect of composition on evaluator ratings](../claims/academic-behavioral-factors-drive-rating-effect.md) [+W] — attached 2026-10-08 from Delgado et al. (2026), which proposed "Interpret teacher performance ratings as partly reflecting classroom composition, since teachers working with more challenging students may be systematically undervalued"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

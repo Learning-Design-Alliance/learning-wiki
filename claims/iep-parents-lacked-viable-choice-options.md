@@ -47,3 +47,4 @@ Interview findings from 29 parents whose schools closed in 2013 report that "man
 - [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related
 - [Parents of students with IEPs share a common vision of an ideal school that is safe, supportive, academically strong, and inclusive with needed supports](iep-parents-shared-ideal-school-vision.md) — related
 - [Public school choice was constrained at the middle and high school levels because many districts have only one middle school and one high school](title-i-choice-constrained-single-secondary-schools.md) — a broader claim this one bears on
+- [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related

@@ -145,3 +145,4 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it](teacher-responses-can-close-off-pupil-thinking.md) — related
 - [Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth](higher-order-thinking-questions-related-to-growth.md) — related
 - [Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations](annevelink-personalised-instruction-path-test.md) — related
+- [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](authentic-intellectual-work-complex-thinking-gains.md) — related

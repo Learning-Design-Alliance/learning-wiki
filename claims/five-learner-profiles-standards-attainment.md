@@ -47,3 +47,4 @@ A hierarchical agglomerative clustering of CDM attainment probabilities for the 
 - [Mean program GPA differs significantly across the five standards-attainment learner groups](gpa-differs-across-standards-profiles.md) — related
 - [GPA fails to distinguish three pairs of learner groups that differ in standards-attainment patterns](gpa-fails-to-distinguish-standards-profile-pairs.md) — related
 - [Standard 1 (knowing students) was attained relatively easily by all groups except the Novice group, while Standard 4 (supportive and safe environments) proved most challenging](standard-1-easy-standard-4-challenging.md) — related
+- [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related

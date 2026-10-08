@@ -64,3 +64,4 @@ Descriptive analysis of math growth distributions (figures 3–4): unstabilized 
 ## Related Claims
 - [Stabilization reduced the inverse relationship between student group size and score variance for test-based indicators, especially for groups of 10 to 19 students](stabilization-reduces-group-size-variance-relationship.md) — related
 - [Stabilization makes larger adjustments to scores from smaller student groups and to more extreme scores, as expected](stabilization-adjusts-small-extreme-scores-most.md) — related
+- [High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender](civic-engagement-higher-graduation-all-students.md) — related

@@ -47,3 +47,4 @@ The brief summarizes referral research showing "culturally and linguistically di
 - [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](gifted-underrepresentation-diverse-students.md) — related
 - [The perception that language minority students bring language disadvantages and knowledge deficiencies from home has too often led to lowered academic expectations for them.](deficit-view-of-minority-households-lowers-academic-expectations.md) — related
 - [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](culturally-diverse-underrepresentation-biased-measures.md) — related
+- [Fewer than 18% of 136 examined SEL frameworks explicitly reference culture and diversity](fewer-than-18-percent-sel-frameworks-reference-culture.md) — related

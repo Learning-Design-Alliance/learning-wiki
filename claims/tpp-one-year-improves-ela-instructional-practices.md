@@ -49,3 +49,4 @@ Impact evaluation of the Teacher Potential Project conducted by Mathematica (201
 - [Significantly more TPP teachers asked students to cite evidence from texts in discussions and writing](tpp-teachers-asked-students-cite-text-evidence.md) — a narrower finding that bears on this claim
 - [Two years of teacher participation in the Teacher Potential Project improved students' English language arts achievement by roughly 1.4 months of typical improvement](tpp-two-years-student-ela-achievement-gain.md) — related
 - [Students taught by TPP teachers engaged significantly more often in reading, writing, and speaking about texts in the second year of TPP](tpp-students-more-text-engagement-year-two.md) — related
+- [Curriculum and instructional resources show more modest and mixed relationships with standards-aligned instructional practices](curriculum-resources-modest-mixed-relationships.md) — related

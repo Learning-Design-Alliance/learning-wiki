@@ -40,6 +40,10 @@ The guide specifies zone design rules: "Zones should be large enough to encompas
 
 - [Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns](../claims/neighborhood-based-desegregation-plans-short-term.md) [-W]
 
+## Related Strategies
+
+- [Districts supporting neighborhood schools should plan for continually shifting student populations and mobility-driven capacity demands](plan-neighborhood-school-support-for-shifting-enrollment.md)
+
 ## Related Principles
 
 - [Use choice data as a referendum to identify and improve least-chosen schools rather than magnetizing only the best](improve-least-chosen-schools-via-choice-data.md)

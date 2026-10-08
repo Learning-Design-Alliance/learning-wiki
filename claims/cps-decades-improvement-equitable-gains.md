@@ -47,3 +47,4 @@ The article reports district-level outcomes documented in the authors' 2023 hist
 - [The study examines charter high school effects on educational attainment in two settings, Florida and Chicago](charter-attainment-study-florida-chicago-scope.md) — related
 - [Double-dose algebra was discontinued before its benefits were documented, though subsequent research found long-term benefits](double-dose-algebra-discontinued-prematurely.md) — related
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
+- [Chicago's public school system moved from among the most troubled in America in 1987 to among the most improved thirty years later](chicago-schools-most-troubled-to-most-improved.md) — possibly the same claim (merge candidate)

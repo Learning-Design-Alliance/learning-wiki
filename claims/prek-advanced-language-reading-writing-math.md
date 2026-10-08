@@ -49,3 +49,4 @@ The summary reports, citing Gormley, Gayer, Phillips, and Dawson (2005) on unive
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — a broader claim this one bears on
 - [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](prek-small-positive-social-emotional-executive-emotion.md) — related
+- [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — a narrower finding that bears on this claim

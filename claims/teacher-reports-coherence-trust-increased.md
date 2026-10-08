@@ -45,3 +45,5 @@ The article describes Figure 1, UChicago Consortium trend data on two indicators
 ## Related Claims
 - [Chicago Public Schools improved dramatically between 1987 and 2017, with the biggest gains among students of color and low-income students](cps-decades-improvement-equitable-gains.md) — related
 - [Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results](chicago-tap-year-two-impact-evaluation.md) — related
+- [Chicago's public school system moved from among the most troubled in America in 1987 to among the most improved thirty years later](chicago-schools-most-troubled-to-most-improved.md) — related
+- [Schools with stronger Instructional Improvement Support Systems supported teacher improvement regardless of whether efforts originated from evaluation data or elsewhere](stronger-iiss-supports-improvement-regardless-of-origin.md) — related

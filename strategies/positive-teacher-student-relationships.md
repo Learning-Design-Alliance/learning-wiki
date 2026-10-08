@@ -66,6 +66,7 @@ Relationship quality is one of the most consistently documented classroom influe
 - [Restorative Practices](restorative-practices.md) — the conflict-repair mechanism that protects relationships under strain
 - [Warm Demander Pedagogy](warm-demander-pedagogy.md) — the stance combining high expectations with high support
 - [Build faculty-staff connections and peer community to support persistence of teacher education students](faculty-connections-support-persistence-pcc.md)
+- [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — structures the school day around relationship-building routines such as morning meetings and teacher language practices.

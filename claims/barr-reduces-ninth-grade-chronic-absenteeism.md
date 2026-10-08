@@ -56,3 +56,4 @@ A randomized study with school-level random assignment examined BARR's impact on
 - [In a large suburban southern California high school, BARR produced a significant positive reading effect (+0.14), larger for struggling readers (+0.21)](barr-suburban-high-school-reading-014-struggling-021.md) — related
 - [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
+- [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related

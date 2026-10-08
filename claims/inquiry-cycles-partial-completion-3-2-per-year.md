@@ -64,3 +64,4 @@ Implementation analysis in Research Question 2 based on CI artifacts. A separate
 ## Related Claims
 - [Network cohesion in NSI increased over time but remained low, with about 16 percent of possible school-to-school connections realized](nsi-network-cohesion-low-but-improving.md) — related
 - [Teachers pose inquiry questions mostly about their students, not their own teaching, indicating teaching data remains a novel concept](teachers-inquiry-questions-focus-on-students-not-teaching.md) — related
+- [Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not](four-plus-improvement-cycles-improve-conditions.md) — related

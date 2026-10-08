@@ -48,3 +48,4 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [A minority of honours community members feel the community is too closed, hindering knowledge growth](honours-community-closedness-hinders-knowledge-growth.md) — related
 - [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — reports the opposite
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related
+- [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related

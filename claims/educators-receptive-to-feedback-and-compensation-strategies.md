@@ -50,3 +50,4 @@ The brief's key findings report educator receptivity across the two studies: sat
 - [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](chicago-tap-no-student-achievement-impact.md) — related
 - [Chicago TAP increased the amount of mentoring, promotion opportunities, and compensation in participating schools relative to non-TAP schools](chicago-tap-increased-mentoring-promotion-compensation.md) — related
 - [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related
+- [Teacher satisfaction with REACH was moderate overall but varied widely across schools](reach-satisfaction-varies-across-schools.md) — related

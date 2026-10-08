@@ -22,7 +22,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing on Licklider's 1997 review of adult learning theory, the digest argues that self-directness, including self-learning from experience in natural settings, is an important component of adult learning. It concludes that "effective teacher professional development should involve more than occasional large-group sessions" and should include study teams and peer coaching in which teachers continuously examine their assumptions and practices.
@@ -50,6 +50,7 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 ### Claims
 
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](../claims/peer-reflective-groups-challenge-student-teacher-views.md) [+W]
+- [Collaboration with colleagues around instruction has consistently positive relationships with math and science instructional practices](../claims/colleague-collaboration-consistently-positive-practices.md) [+M] — attached 2026-10-08 from District supports for teachers' standards-aligned instructional practices in the Chicago Public Schools (2015), which proposed "Education leaders should prioritize professional learning, especially colleague collaboration around instruction, when supporting standards-aligned math and science teaching"; tests this page's relationship.
 
 ## Related Principles
 

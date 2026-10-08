@@ -37,7 +37,8 @@ The article recommends that program coordinators use the identified standards-ba
 - Development of professional teaching standards, especially standards where a learner's profile shows low attainment
 
 ## Related Strategies
-- 
+
+- [Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard](ct-profile-differentiated-teacher-training-dashboard.md)
 
 ## Examples
 -

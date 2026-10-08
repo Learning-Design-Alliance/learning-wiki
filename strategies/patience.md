@@ -57,8 +57,10 @@ Patience functions as the affective substrate that keeps learners engaged long e
 5. Sustain [Coaching](../elements/coaching.md) over time — feedback on process and strategy, with pace adjusted to individual needs.
 
 ## Related Strategies
+
 - Formative feedback practices — patience is enacted through feedback cycles rather than one-shot evaluation
 - Mastery-based re-attempt structures — institutionalize patience in assessment policy
+- [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the ongoing, patient feedback relationship that carries the stance

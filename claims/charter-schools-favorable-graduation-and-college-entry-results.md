@@ -51,3 +51,4 @@ The report's longitudinal student-level analysis across its eight study sites re
 - [Charter high school attendees experience higher earnings in their mid-20s](charter-high-schools-higher-mid-twenties-earnings.md) — related
 - [The average charter school performs about the same as nearby traditional public schools, but charter effects vary greatly](average-charter-similar-to-nearby-traditional-schools.md) — related
 - [Average charter schools perform about the same as nearby traditional public schools, with large variation in effects](average-charter-schools-similar-to-nearby-traditional-public-schools.md) — related
+- [High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender](civic-engagement-higher-graduation-all-students.md) — related

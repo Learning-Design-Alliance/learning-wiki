@@ -45,6 +45,7 @@ With adoption of Bridges in Mathematics, schools and districts receive "a compre
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
 - [Provide initial training plus multi-year in-classroom coaching when implementing Carnegie Learning Algebra I](carnegie-learning-initial-training-plus-coaching.md)
+- [Provide welcoming schools with more ongoing training, time for reflection, and targeted support when integrating displaced students and staff](ongoing-training-support-welcoming-school-integration.md)
 
 ## Examples
 -

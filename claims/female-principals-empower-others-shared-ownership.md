@@ -70,3 +70,4 @@ Responses to the hypothetical merit-pay dilemma revealed differing enactments of
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related
 - [School climate and parent participation in school were the most frequently measured non-student outcomes, while teacher-level outcomes were rarely assessed](character-ed-school-climate-most-measured-nonstudent.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — a broader claim this one bears on
+- [The study's goal was to identify specific strategies successful principals used to influence instruction and learning](goal-identify-principal-strategies-instruction.md) — related

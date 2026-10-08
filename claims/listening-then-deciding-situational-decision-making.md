@@ -69,3 +69,4 @@ Responses to the hypothetical name-calling dilemma in the interviews showed all 
 - [The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles](personal-ethic-of-care-transferred-from-motherhood.md) — related
 - [Forming a focus, rather than merely gathering information, is the main task in complex information seeking](forming-focus-main-task-information-seeking.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
+- [The study's goal was to identify specific strategies successful principals used to influence instruction and learning](goal-identify-principal-strategies-instruction.md) — related

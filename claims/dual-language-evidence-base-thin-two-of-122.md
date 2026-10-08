@@ -50,3 +50,4 @@ The WWC's systematic review using the version 4.1 English language arts protocol
 - [The evidence base for Little Books is small: only one study met WWC standards, addressing only general reading achievement, with no studies meeting standards for alphabetics, fluency, or comprehension](little-books-evidence-base-small-one-domain.md) — related
 - [The evidence base for Corrective Reading in grades K–3 is small: one of 25 reviewed studies met WWC standards, and no studies addressed general reading achievement](corrective-reading-small-evidence-base.md) — related
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related
+- [Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution](arts-sel-evidence-base-rigor-gap.md) — related

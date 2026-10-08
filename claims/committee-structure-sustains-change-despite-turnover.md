@@ -47,3 +47,4 @@ The authors' expert interpretation from consulting across many districts, not a 
 - [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
 - [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related
 - [High teacher turnover rates may be costly to school districts, disrupt operations, and lower student achievement](high-teacher-turnover-costly-disruptive-lowers-achievement.md) — related
+- [Programmatic churn from constant turnover of curricula and initiatives hindered teachers' capacity for personalized, evaluation-driven improvement](programmatic-churn-hinders-personalized-improvement.md) — related

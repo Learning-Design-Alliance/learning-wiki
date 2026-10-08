@@ -45,3 +45,4 @@ Summary of Mathematica's evaluation of the seven District-Charter Collaboration 
 ## Related Claims
 - [School co-locations or partnerships, aspiring-leader programs, and shared Common Core preparation are the most promising avenues for cross-sector collaboration](district-charter-promising-collaboration-avenues.md) — related
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related
+- [Personalized, practice-focused collaboration around classroom observations was particularly impactful for teachers' practice improvement efforts](personalized-practice-focused-collaboration-observations-impactful.md) — related
