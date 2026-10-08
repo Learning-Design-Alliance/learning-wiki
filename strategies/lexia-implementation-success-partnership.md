@@ -42,6 +42,7 @@ The Lexia Implementation Success Partnership (ISP) is an implementation support 
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
 - [Implement Magma Math with onboarding plus ongoing professional learning on data-driven instruction, discourse routines, and intervention](magma-math-professional-learning-strategy.md)
 - [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
+- [Provide welcoming schools with more ongoing training, time for reflection, and targeted support when integrating displaced students and staff](ongoing-training-support-welcoming-school-integration.md)
 
 ## Examples
 -

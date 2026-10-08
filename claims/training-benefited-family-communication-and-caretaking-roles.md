@@ -47,3 +47,4 @@ Interview findings on family and community impacts. Mothers reported communicati
 - [Women report child-related language motivation regardless of parental status, suggesting a gendered pattern](gendered-parental-motivation-maori-hl2.md) — related
 - [Equipping caregivers with MUAC tapes empowered them to track child nutrition and become community health advocates](family-muac-empowers-caregivers-as-health-advocates.md) — related
 - [Parental and leadership responsibilities (Ngā Takohanga) motivate Māori HL2 learners](nga-takohanga-responsibilities-motivate-hl2.md) — related
+- [Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families](family-community-knowledge-reach-families.md) — related

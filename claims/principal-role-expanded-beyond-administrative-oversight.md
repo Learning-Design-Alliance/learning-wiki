@@ -48,3 +48,4 @@ This is a descriptive statement in the fact sheet's introduction about how the p
 - [The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools](ethic-of-care-found-in-three-female-principals.md) — related
 - [Female principals enacted care through a 'listening then deciding' pattern of situational decision making](listening-then-deciding-situational-decision-making.md) — related
 - [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related
+- [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](all-staff-family-communication-channels.md) — related

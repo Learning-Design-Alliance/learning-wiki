@@ -45,3 +45,4 @@ Descriptive survey of engagement practices during remote instruction in New York
 ## Related Claims
 - [During COVID building closures, New York charter schools ranked sustaining student learning and engagement as their most urgent priority, while student well-being factors ranked lowest despite serious concern](closure-urgency-priorities-learning-first.md) — related
 - [Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties](teacher-remote-challenges-attention-not-technology.md) — related
+- [Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families](family-community-knowledge-reach-families.md) — related

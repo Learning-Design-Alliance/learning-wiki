@@ -41,9 +41,11 @@ Adolescent peer relationships operate through several distinct, overlapping stru
 ## Claims
 
 ## Related Theories
+
 - [Social Learning Theory](social-learning-theory.md) — peer contagion is a specific, developmentally-elaborated application of observational learning and modeling among peers
 - [Sociocultural Theory](sociocultural-theory.md) — peer groups function as a mediating social context, similarly to how a more knowledgeable other mediates learning
 - [Psychosocial Theory of Identity Development](psychosocial-theory-of-identity-development.md) — crowd and clique dynamics are a primary arena in which the Identity vs. Role Confusion crisis plays out
+- [Developmental relationships: experiences shape development most within strong, supportive, sustained relationships with adults and peers](developmental-relationships-context-sel.md)
 
 ## Examples
 

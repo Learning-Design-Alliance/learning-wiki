@@ -50,3 +50,4 @@ Key findings from the NLTS 2012 comparisons report that "The vast majority of yo
 - [Grade retention, suspensions, and expulsions among youth with an IEP showed little change over the past decade](iep-youth-discipline-retention-little-change-decade.md) — related
 - [Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities](iep-youth-more-engaged-school-extracurricular-over-decade.md) — related
 - [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](maryland-black-disabilities-twice-discipline-rates.md) — related
+- [School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year](closures-severed-connections-grief-us-them-dynamics.md) — related

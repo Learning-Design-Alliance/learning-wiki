@@ -60,10 +60,12 @@ Comparison is one of the most consistently supported learning strategies: contra
 6. Fade the scaffolds: move from guided comparison prompts to independent case analysis as expertise grows ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Non-Examples](../elements/non-examples.md) — a two-case comparison where one case is deliberately wrong; the minimal contrast form
 - [Worked Examples](../principles/worked-examples.md) — comparing two worked solutions is the most studied variant of this strategy
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — comparison across cases is the engine of analogical abstraction
 - [Case-Based Learning](case-based-learning.md) — extended case work; contrasting cases is the compressed, comparison-focused form
+- [Use a contrasting case study design to identify subtle leadership differences between schools with improving and non-improving achievement](contrasting-case-study-leadership-differences.md)
 
 ## Examples
 - **Rittle-Johnson & Star's algebra studies** — students compared two worked solutions to the same equation (e.g., substitution vs. elimination), improving procedural flexibility and conceptual knowledge relative to studying solutions sequentially.

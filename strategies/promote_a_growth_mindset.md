@@ -61,9 +61,11 @@ Growth mindset interventions have produced measurable gains in achievement for s
 6. Offer choice and voice in how students work and demonstrate learning, reinforcing that they control their learning trajectory and supporting autonomy [+M].
 
 ## Related Strategies
+
 - Provide specific, strategy-focused feedback — the operational core of mindset promotion; mindset framing without it is empty praise
 - Normalize mistakes and revision — makes the "ability grows" message credible through daily experience
 - Scaffold help-seeking — teaches students *how* to improve, not just that they can
+- [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
 
 ## Examples
 - **[Youcubed](https://www.youcubed.org)** (Jo Boaler, Stanford) — mathematical mindset lessons and teacher resources built around the claim that everyone can learn math to high levels; includes error-normalization routines and "low floor, high ceiling" tasks.

@@ -59,8 +59,10 @@ Discussion quality depends less on the topic than on whether participants believ
 5. Close with reflection on how well the guidelines served the group, and revise as needed — supporting autonomy and ownership [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S].
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — a skill the guidelines operationalize; norms make listening an observable, enforceable behavior
 - [Establishing Classroom Norms](establishing_classroom_norms.md) — the broader practice of which discussion guidelines are a specific instance
+- [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
 
 ## Examples
 - **Courageous Conversations About Race** (Singleton, 2015) — the four agreements (stay engaged, experience discomfort, speak your truth, accept non-closure) used in equity-focused professional development and classrooms.

@@ -46,3 +46,4 @@ A consensus statement of evidence from the Council of Distinguished Scientists a
 - [The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration](bowlby-separation-sequence-to-exploration.md) — related
 - [Affective competence at age five is characterized by twelve observable skills](affectively-competent-five-year-old-attributes.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a narrower finding that bears on this claim
+- [Artistic and social-emotional competencies are mutually reinforcing](artistic-sel-competencies-mutually-reinforcing.md) — a narrower finding that bears on this claim

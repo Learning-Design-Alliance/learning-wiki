@@ -64,6 +64,7 @@ Teacher expectations and beliefs shape interaction quality with families and stu
 - Funds-of-knowledge curriculum design — the instructional counterpart that turns asset-based beliefs into asset-based teaching
 - Family engagement redesign — the practice change that must accompany belief change
 - [Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff](stereotype-awareness-cultural-activities.md)
+- [Structured reflection exercise for educators to situate their family engagement practice within the three engagement approaches](family-engagement-reflection-exercise-educators.md)
 
 ## Examples
 - **Moll's funds of knowledge studies (Tucson, AZ)** — Researchers documented household knowledge (farming, mechanics, finance) among working-class Mexican-American families and trained teachers to build instruction on it, demonstrating concrete asset-based alternatives to deficit views.

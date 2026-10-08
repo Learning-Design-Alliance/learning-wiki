@@ -61,9 +61,11 @@ Warm demanding reframes rigor as an act of care: students are far more willing t
 7. Gradually release responsibility, shifting from teacher insistence to student self-demand as competence and confidence grow.
 
 ## Related Strategies
+
 - [Socratic Questioning](../elements/socratic-questioning.md) — a demanding questioning technique that works only when relational trust is established
 - [Productive Failure](productive-failure.md) — sustained struggle that requires a warm-demanding framing to avoid discouragement
 - [Mastery-Oriented Feedback](mastery-oriented-feedback.md) — the feedback style consistent with the warm demander stance
+- [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
 
 ## Examples
 - **Kleinfeld's effective teachers of Alaska Native students (1975)** — the original study: teachers who combined personal warmth with firm academic demands produced the strongest engagement and achievement among Inuit and Indian students, outperforming both permissive and detached-but-skilled colleagues.

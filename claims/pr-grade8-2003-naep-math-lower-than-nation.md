@@ -48,3 +48,4 @@ NAEP 2003 grade 8 mathematics assessment in Puerto Rico, reported as average sca
 - [In 2003, fourth-grade public school students in Puerto Rico scored lower on average in NAEP mathematics than public school students in the nation (179 vs. 234 on the 0–500 scale).](pr-grade4-2003-naep-math-lower-than-nation.md) — related
 - [Puerto Rico–nation score gaps in NAEP mathematics were largest in the measurement content area (80 points at grade 8 in 2003; 76 points in 2005), with smaller gaps in geometry.](pr-measurement-content-area-largest-gap.md) — related
 - [A trial Spanish-language NAEP mathematics assessment was administered to Puerto Rico public school students in grades 4 and 8 in 2003](trial-spanish-naep-math-puerto-rico-2003.md) — related
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related

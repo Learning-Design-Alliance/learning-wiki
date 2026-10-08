@@ -45,3 +45,4 @@ The authors' own summary assertion in the model-description section of this conf
 ## Related Claims
 - [The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence](global-citizenship-scale-employable-developing-context.md) — related
 - [Student reflections following the trips are reported by the authors as a source of outcomes beyond the completed surface projects](student-reflections-outcomes-beyond-projects.md) — related
+- [Citizens allied to challenge a dysfunctional power structure and learned together how to move the system toward more equitable outcomes](civic-alliance-learning-for-equitable-outcomes.md) — related

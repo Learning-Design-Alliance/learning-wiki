@@ -49,3 +49,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [Low performers completed activities on time for fewer topics and showed less catching-up only in early topics, while high performers showed no catching-up on later topics](topic-level-time-management-group-differences.md) — related
 - [High- and low-performing students did not differ significantly on the midterm-exam ENA network dimensions despite detected network differences](midterm-ena-no-significant-difference.md) — related
 - [High- and low-performing students differed significantly on the final-exam ENA network X dimension but not the Y dimension](final-exam-ena-x-dimension-significant.md) — related
+- [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related

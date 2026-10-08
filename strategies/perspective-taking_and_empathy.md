@@ -56,8 +56,10 @@ Teacher–student relationship quality is consistently associated with engagemen
 5. Verify your inferences — check whether your read of a student's situation is accurate before acting on it.
 
 ## Related Strategies
+
 - [Active Listening](../strategies/active_listening.md) — the core conversational technique through which perspective-taking is enacted
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy operationalizes in teacher–student interactions
+- [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
 
 ## Examples
 - **Gehlbach et al.'s "birds of similar feathers" intervention** — teachers completed a perspective-taking exercise emphasizing similarities with students, improving teacher–student relationships and achievement: [https://doi.org/10.1037/edu0000042](https://doi.org/10.1037/edu0000042)

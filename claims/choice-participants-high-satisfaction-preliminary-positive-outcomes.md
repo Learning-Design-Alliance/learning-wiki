@@ -47,3 +47,4 @@ The report's own synthesis across its two-year study, including over 2,000 ALC a
 - [Alternative schools and Area Learning Centers showed the greatest growth of any choice option, from 4,050 students in 1988-89 to over 100,000 in 2000-01](minnesota-alternative-schools-greatest-choice-growth.md) — related
 - [PSEO students most often cite access to courses unavailable at their high school as their reason for participating](pseo-students-participate-for-unavailable-courses.md) — related
 - [Charter school students in Minnesota are disproportionately students of color, low-income, special needs, and non-English speakers](minnesota-charter-students-disproportionately-underserved.md) — related
+- [Most students reported a high degree of agency in deciding which high school to attend, though agency was constrained or absent for some](student-agency-school-selection.md) — related

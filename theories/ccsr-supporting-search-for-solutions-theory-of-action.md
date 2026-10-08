@@ -42,6 +42,7 @@ CCSR's theory of action holds that the proper role of research in urban school r
 ## Related Theories
 
 - [Taxonomy of four traditional models of researcher influence on education policy](four-traditional-models-researcher-influence-taxonomy.md)
+- [Informal social learning networks as the coordinating mechanism of systemwide improvement](informal-social-learning-networks-coherence.md)
 
 ## Examples
 

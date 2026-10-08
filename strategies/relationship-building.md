@@ -57,9 +57,11 @@ Positive teacher–student relationships predict engagement, achievement, and re
 5. Maintain presence over time: respond to contributions by name, follow up after absences, and keep commitments visibly — trust accrues from consistency, not intensity
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the conversational skill through which relationship building is enacted moment to moment
 - [Check-Ins](../elements/check-in.md) — a repeatable structural routine that generates the individual knowledge relationships require
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — brief individual contact that combines relationship maintenance with feedback
+- [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
 
 ## Examples
 - **Restorative practice circles** in K–12 schools — structured whole-class circles that build peer and teacher–student relationships as the base for community-based discipline

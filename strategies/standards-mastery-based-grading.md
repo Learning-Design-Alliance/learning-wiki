@@ -60,9 +60,11 @@ Mastery grading aligns assessment with [Assessment for Learning](../principles/a
 6. Convert mastery records to final grades using a transparent rule (e.g., "grade = mode of proficiency levels across objectives"), not a point average.
 
 ## Related Strategies
+
 - Specifications grading — a higher-education variant using binary mastery judgments and token-based reassessment
 - Ungrading — a more radical variant that removes grades entirely while retaining mastery feedback structures
 - Retake/reassessment policies — the operational mechanism that makes grades reflect eventual rather than initial mastery
+- [District actions to improve electronic grading system use: clarify formative/summative guidance, build mastery-based best-practice communities, and update grading standards with professional development](cps-grading-guidance-improvement-strategies.md)
 
 ## Related Elements
 - [State Objectives](../elements/state-objectives.md) — the prerequisite: no mastery grading without explicit objectives

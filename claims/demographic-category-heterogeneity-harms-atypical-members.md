@@ -66,3 +66,4 @@ The article's worked example: if only African American can be included as a vari
 - [Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies](demographic-predictors-reinforce-training-label-bias.md) — related
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — related
+- [Learning conditions worsen slightly but significantly over a school year absent intentional efforts to improve them](learning-conditions-worsen-over-school-year.md) — related

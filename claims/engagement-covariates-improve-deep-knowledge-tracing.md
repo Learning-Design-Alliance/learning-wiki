@@ -45,3 +45,4 @@ Narrative review of Mongkhonvanit et al., who added video-watching features (pla
 ## Related Claims
 - [The survey reports, citing Jung et al., that students' language proficiency as side information was effective in promoting several KT models, including DKT, DKVMN and SAKT.](language-proficiency-side-information-improves-kt-models.md) — related
 - [DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets](dkt-input-output-representation-affects-performance.md) — related
+- [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related

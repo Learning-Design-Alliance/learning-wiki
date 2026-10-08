@@ -59,8 +59,10 @@ Connecting instruction to students' lived experience raises the perceived value 
 5. **Share and reflect.** Use [class discussion](../elements/class-discussion.md) and [Collaborative Learning](../principles/collaborative-learning.md) structures to compare practices across families, then return finished work to families as authentic audiences.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the general cognitive routine this strategy grounds in students' specific family and community experience
 - [Accessing Students' Background Knowledge](../strategies/accessing_students_background_knowledge.md) — the broader practice of eliciting what students bring to instruction
+- [Structured reflection exercise for educators to situate their family engagement practice within the three engagement approaches](family-engagement-reflection-exercise-educators.md)
 
 ## Examples
 - **Moll et al.'s funds of knowledge project (Tucson, AZ):** teachers conducted household visits among Mexican-American families and built modules on construction, farming, and economics that fed directly into math and social studies instruction (Moll, Amanti, Neff, & González, 1992)

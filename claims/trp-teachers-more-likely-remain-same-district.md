@@ -50,3 +50,4 @@ Comparative retention analysis of two cohorts of novice TRP teachers (first- and
 - [The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample](trp-retention-study-scope-six-districts-12-trps.md) — related
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
 - [TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years](trp-stipend-three-year-commitment.md) — related
+- [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related

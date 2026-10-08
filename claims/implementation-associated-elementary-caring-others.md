@@ -48,3 +48,4 @@ Mixed-effects multilevel regression of spring 2022 SCCS elementary student data 
 - [Emerging and high implementation were associated with higher secondary students' cultural connectedness](implementation-associated-secondary-cultural-connectedness.md) — related
 - [Implementation level was not significantly associated with most student and staff climate outcomes or any administrative outcomes](implementation-not-associated-most-outcomes.md) — related
 - [Educators rated their well-being and school climate perceptions as average, with grade-level-band differences in both](wellbeing-climate-average-scores-grade-band-differences.md) — related
+- [Elementary attendance and school climate improved over time at NLCI schools but not significantly more than at comparison schools](nlci-elementary-attendance-climate-not-significantly-different.md) — related

@@ -58,8 +58,10 @@ High expectations only raise achievement when students believe the expectations 
 5. Foster a classroom norm that all students belong and are expected to succeed ([Belonging](../elements/belonging.md))
 
 ## Related Strategies
+
 - Growth-mindset and belonging interventions — the social-psychological toolkit this strategy draws on
 - Mastery-oriented feedback practices — the delivery mechanism for high-expectation messages
+- [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
 
 ## Examples
 - **Yeager et al. (2019) national study**: a short online growth-mindset module embedded in core curriculum raised GPA among lower-achieving high school students across the U.S.

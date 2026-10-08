@@ -62,9 +62,11 @@ Bridging Cultures treats the teacher, not the student, as the primary learner: t
 6. Revisit and refine over multiple sessions, using student engagement and family feedback as evidence
 
 ## Related Strategies
+
 - Culturally Responsive Teaching — the broader pedagogical program Bridging Cultures operationalizes for teacher development
 - Family Engagement Partnerships — bridging value systems is a precondition for trust with collectivistic families
 - Case-Based Teacher Education — the vignette method that carries the framework
+- [Structured reflection exercise for educators to situate their family engagement practice within the three engagement approaches](family-engagement-reflection-exercise-educators.md)
 
 ## Related Elements
 - [Case Studies](../elements/case-studies.md) — classroom dilemmas are the primary vehicle for making cultural assumptions visible

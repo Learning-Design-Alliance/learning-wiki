@@ -66,3 +66,4 @@ Same correlational analysis, CLM extraneous subscale against QCM: "extraneous co
 - [Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task](intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success.md) — related
 - [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related
+- [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](coding-experience-correlates-ct-skills.md) — related

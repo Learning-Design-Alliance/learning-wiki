@@ -1,0 +1,65 @@
+---
+type: claim
+title: Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not
+description: Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not
+id: four-plus-improvement-cycles-improve-conditions
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-08
+evidence_strength: weak
+sources:
+  - id: gripshover-2022
+    resource: "https://consortium.uchicago.edu/publication/learning-conditions-are-an-actionable-early-indicator-of-math-learning"
+    title: "Gripshover, S., Londerée, A., Ahuvia, I., Shyjka, A., Kroshinsky, F., Ryan, N., Farrington, C., & Paunesku, D. (2022). Learning Conditions Are an Actionable, Early Indicator of Math Learning. PERTS & University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publication/learning-conditions-are-an-actionable-early-indicator-of-math-learning"
+    author: "Gripshover, S., Londerée, A., Ahuvia, I., Shyjka, A., Kroshinsky, F., Ryan, N., Farrington, C., & Paunesku, D."
+    q: 1
+    i: "?"
+    kind: associational
+    rigour: 2
+  - id: gripshover-2022-2
+    resource: "https://consortium.uchicago.edu/publication/learning-conditions-are-an-actionable-early-indicator-of-math-learning"
+    title: "Gripshover, S., Londerée, A., Ahuvia, I., Shyjka, A., Kroshinsky, F., Ryan, N., Farrington, C., & Paunesku, D. (2022). Learning Conditions Are an Actionable, Early Indicator of Math Learning. PERTS & University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publication/learning-conditions-are-an-actionable-early-indicator-of-math-learning"
+    author: "Gripshover, S., Londerée, A., Ahuvia, I., Shyjka, A., Kroshinsky, F., Ryan, N., Farrington, C., & Paunesku, D."
+    q: 1
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · associational `r2` · `q1`
+
+## Subclaims
+`q1 i?` In 2021–22 Elevate data, learning conditions did not improve under ad hoc implementations or two planned cycles, but improved markedly with four or more cycles. [→ Gripshover 2022](#gripshover-2022)
+`q1 i?` Classes with 4+ planned cycles showed a substantial number of large improvements (bright spots, changes ≥ .5 scale points), unlike ad hoc, 2-cycle, or 3-cycle sites. [→ Gripshover 2022 (2)](#gripshover-2022-2)
+
+## Evidence
+
+### Gripshover 2022
+
+Gripshover, S., Londerée, A., Ahuvia, I., Shyjka, A., Kroshinsky, F., Ryan, N., Farrington, C., & Paunesku, D. (2022). Learning Conditions Are an Actionable, Early Indicator of Math Learning. PERTS & University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publication/learning-conditions-are-an-actionable-early-indicator-of-math-learning
+
+`q1 · i?` · `associational · r2`
+
+Observational analysis of 2021–22 Elevate data from more than 900 teachers at more than 150 schools, comparing class-level condition change by number of planned cycles; no test statistics or effect sizes are printed.
+
+> "when people had ad-hoc implementations (implementations with no clear plan for how many improvement cycles teachers would engage in), or used Elevate for only two planned cycles, we see that learning conditions did not improve. However, when educators did four or more cycles of continuous improvement to measure and improve learning conditions, the improvement was marked."
+
+### Gripshover 2022 (2)
+
+Gripshover, S., Londerée, A., Ahuvia, I., Shyjka, A., Kroshinsky, F., Ryan, N., Farrington, C., & Paunesku, D. (2022). Learning Conditions Are an Actionable, Early Indicator of Math Learning. PERTS & University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publication/learning-conditions-are-an-actionable-early-indicator-of-math-learning
+
+`q1 · i?` · `associational · r2`
+
+Histogram analysis (Figure 6) of class-level change scores on a 6-point Likert scale across implementation groups; descriptive, no inferential statistics printed.
+
+> "However, when we look at classes with 4+ planned cycles, we see that a substantial number of them did show large improvements."
+
+## Discussion
+
+
+## Related Claims
+- [Most schools engaged in inquiry cycles, but teams completed only about half of the cycles they initiated, averaging 3.2 cycles per year](inquiry-cycles-partial-completion-3-2-per-year.md) — related

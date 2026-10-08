@@ -47,3 +47,4 @@ Platform-tracked timing data from the Moodle e-learning system after the experim
 - [More experimental-group answers achieved 100% accuracy on achievement tests (23) than control-group answers (13)](cft-hypertext-design-more-perfect-scores.md) — related
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
 - [Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)](cft-hypertext-design-more-positive-attitudes.md) — related
+- [Proficient learners complete the CT task faster and with fewer clicks than Novice and Developing learners](proficient-learners-task-efficiency-behaviour.md) — related

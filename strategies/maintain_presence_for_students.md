@@ -59,8 +59,10 @@ Availability only supports learning when students perceive it as genuine and pre
 6. **Close the loop** by referring to counselors or administrators when a disclosure exceeds classroom scope, and telling the student you did so — presence includes honest limits.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — structured, recurring presence that surfaces student state before problems escalate
 - [Community of Inquiry](../principles/community-of-inquiry.md) — teaching presence is one of its three pillars; this strategy is its interpersonal face
+- [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
 
 ## Related Elements
 - [Modeling](../elements/modeling.md) — visible participation in the work makes presence credible
