@@ -48,3 +48,4 @@ A large multi-site cluster randomized study across two cohorts of high schools i
 - [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](barr-multisite-rct-map-math-es-008.md) — related
 - [BARR improves reading achievement across grades 7–12 with an average effect size of +0.08 across three randomized studies](barr-reading-achievement-average-effect-008.md) — related
 - [BARR produces a larger statistically significant effect on NWEA MAP math scores in a single-school student-level randomized study, stronger for struggling students](barr-suburban-rct-map-math-es-033.md) — related
+- [Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness](software-effects-changed-between-cohorts.md) — related

@@ -46,3 +46,4 @@ Principal components analyses computed separately from the item intercorrelation
 - [Canonical analysis of IAR and CDR factor scores yields two nontrivial canonical functions (R = .644 and .463)](canonical-two-functions-locus-control.md) — related
 - [Locus of control instruments measuring domains beyond academic achievement increase the number of dimensions obtained](nonacademic-domains-increase-dimensions.md) — a broader claim this one bears on
 - [IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct](iar-cdr-factor-scores-low-intercorrelations.md) — related
+- [A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood](landscape-analysis-collected-instruments-learning-strategies-mindsets.md) — related

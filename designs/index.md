@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**192 entries** · 0 stable · 0 in review · 192 drafts
+**193 entries** · 0 stable · 0 in review · 193 drafts
 
 ---
 
@@ -218,6 +218,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Structured scope-and-sequence lesson pattern with daily 20-30 minute explicit phonics instruction](95-pcp-scope-sequence-daily-phonics-pattern.md) - The program organizes instruction around a scope and sequence of lessons per grade — 25 lessons for Kindergarten and 30 lessons for each of Grades 1-5.
 * [Student-Authored Texts for Conceptual Change](student-authored-texts-for-conceptual-change.md) - A literacy-instruction pattern in which students research a concept in voluntary groups, write individual interpretations, exchange and compare them with peers' texts and their prior knowledge, build collective concep...
 * [Successful elderly-refugee language programs incorporate more than just language learning](elderly-refugee-programs-beyond-language-learning.md) - The digest reports that language learning programs specifically for elderly refugees \"have been sparse\" and that \"Those that incorporate more than just language learning seem to be the most successful.\" Its examples p...
+* [Supervise Reading Plus use with qualified classroom teachers, reading teachers, literacy specialists, or well-prepared paraprofessionals](reading-plus-qualified-staff-supervision.md) - The page specifies that Reading Plus does not require specialized staffing beyond existing school roles: \"Classroom teachers, reading teachers, literacy specialists, and well-prepared paraprofessionals are qualified t...
 * [Supplement classroom instruction with consistent in-school tutoring sessions that use student performance data to guide instruction](in-school-data-guided-tutoring-supplements-classroom.md) - The article describes a tutoring model in which sessions occur during the school day, are consistent across the year, and use \"student performance data to guide instruction.\" Tutoring is intended to supplement, not re...
 * [Supplemental literacy activities designed for low preparation and integration into existing classroom routines](low-preparation-activities-within-classroom-routines.md) - The curriculum's activity format embeds supplemental skill work into ordinary classroom life.
 * [Supplemental small-group daily reading instruction pattern for struggling first-grade English learners](supplemental-small-group-daily-reading-instruction-ell.md) - The intervention pattern evaluated in both trials is daily supplemental reading instruction delivered in small groups of three to five students with homogeneous reading achievement, in a pull-out setting, as an additi...

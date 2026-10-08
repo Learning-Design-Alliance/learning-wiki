@@ -45,3 +45,4 @@ Observational association reported within the retrospective study of over 1,000 
 ## Related Claims
 - [For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading](week6-attendance-interaction-favors-flex.md) — related
 - [Black students show stronger reading gains from the tutoring program (ES = +0.24)](ignite-reading-black-students-subgroup-gains.md) — related
+- [Strong student–tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects](strong-student-tutor-relationships-key-to-tutoring-success.md) — related

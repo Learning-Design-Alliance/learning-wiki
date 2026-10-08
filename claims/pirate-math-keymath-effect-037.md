@@ -51,3 +51,4 @@ One qualifying comparison study of Pirate Math took place in Nashville and Houst
 - [Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control](onyourmark-virtual-tutoring-improves-dibels.md) — related
 - [Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19)](literacy-first-grade2-itbs-comprehension-effect.md) — related
 - [Among third graders, Education Corps tutoring showed a positive but non-significant effect on the state End-of-Grade reading assessment (+0.13)](education-corps-eog-reading-non-significant.md) — related
+- [The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools](math-curricula-benefits-extend-to-low-performing-high-poverty-schools.md) — related

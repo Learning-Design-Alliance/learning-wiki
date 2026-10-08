@@ -64,3 +64,4 @@ The study spanned 11 schools in two Northeast states, 6 schools in one Midwest s
 ## Related Claims
 - [Magnetic Reading use had a positive, statistically significant effect on spring i-Ready Diagnostic scores (ES = +0.23) in a 2021-2022 Iowa quasi-experiment](magnetic-reading-iowa-quasi-experiment-023.md) — related
 - [Students in Magnetic Reading schools scored significantly higher on the Iowa state ELA test (ES = +0.22) in a 2022-2023 prospective matched study](magnetic-reading-prospective-iowa-study-022.md) — related
+- [Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled](foundations-scale-by-supporting-ready-interventions.md) — related

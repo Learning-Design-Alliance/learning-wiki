@@ -59,9 +59,11 @@ Restorative practices function as a learning design strategy because they create
 6. Sustain the work with ongoing facilitator coaching and data review of discipline referrals and disparities.
 
 ## Related Strategies
+
 - [Classroom Discussion](../elements/class-discussion.md) — circles formalize the turn-taking and listening norms discussion requires
 - [Check-In](../elements/check-in.md) — the daily proactive routine that builds the relational capital restorative responses draw on
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking is the core mechanism of repair dialogue
+- [Identify and address the root causes of discipline disparities in schools flagged as disproportionate](address-root-causes-discipline-disparities.md)
 
 ## Examples
 - **[International Institute for Restorative Practices](https://www.iirp.edu)** — graduate programs and the SaferSanerSchools whole-school implementation program used in hundreds of schools.

@@ -51,3 +51,4 @@ Systematic WWC review of two randomized controlled trials meeting group design s
 - [LLI improves reading outcomes for struggling K-2 readers with an average effect size of +0.13 across two studies](lli-average-effect-size-013-two-studies.md) — a narrower finding that bears on this claim
 - [In a Denver study, LLI showed very positive outcomes on the DRA2 in kindergarten but not in first or second grade, for an effect size of +0.10](lli-denver-dra2-kindergarten-only-010.md) — a narrower finding that bears on this claim
 - [Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced](lli-teacher-perceptions-positive-with-pacing-concerns.md) — related
+- [LLI had no impact on secondary students' reading comprehension in the Oakland RCT](lli-no-impact-adolescent-reading-comprehension.md) — related

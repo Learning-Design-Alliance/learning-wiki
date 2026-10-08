@@ -43,3 +43,4 @@ Findings from the one RCT meeting WWC standards without reservations, using a co
 ## Related Claims
 - [Fraction Face-Off! shows potentially positive effects on number and operations outcomes, with a WWC-calculated average effect size of 0.89 and improvement index of +31](fraction-face-off-potentially-positive-number-operations.md) — related
 - [Fraction Face-Off! shows potentially positive effects on fourth-grade students' geometry and measurement outcomes, with a WWC-calculated average effect size of 0.96 and improvement index of +33](fraction-face-off-potentially-positive-geometry-measurement.md) — related
+- [The article presents a Bayesian reanalysis of NAEP long-term trend reading and math score changes from 2020 to 2023.](naep-ltt-2020-2023-bayesian-reanalysis.md) — related

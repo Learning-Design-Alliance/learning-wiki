@@ -64,9 +64,11 @@ Restorative Circles operationalize social-emotional and community-building goals
 7. **Close and follow up**: end with a closing round; schedule a follow-up circle to review whether the agreement held and relationships were repaired.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the core communication skill facilitators model and participants practice
 - [Acting-Role-Play](acting-role-play.md) — perspective-taking rehearsal that can precede or supplement circles
 - [Action Planning](action_planning.md) — the repair agreement is a form of collaborative action planning
+- [Identify and address the root causes of discipline disparities in schools flagged as disproportionate](address-root-causes-discipline-disparities.md)
 
 ## Examples
 - **Denver Public Schools (Colorado)** — district-wide restorative justice implementation replacing exclusionary discipline for many infractions; documented reductions in suspensions and discipline disparities.
