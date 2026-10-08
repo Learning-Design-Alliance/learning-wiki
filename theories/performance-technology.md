@@ -45,6 +45,10 @@ Rossett and Schafer (2007) offer a concrete taxonomy for one of these non-instru
 
 ## Claims
 
+## Related Theories
+
+- [Strategic Human Resource Management as a Framework for Instructional Improvement](strategic-hrm-instructional-improvement-framework.md)
+
 ## Related Principles
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md) — an instructional intervention that HPT would only recommend once cause analysis rules out non-instructional causes
 

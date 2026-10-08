@@ -90,3 +90,4 @@ Boundary conditions to watch: the greeting must be genuinely positive and person
 - [Students in treatment classrooms showed less disruptive behavior than control classrooms in all 12 studies](treatment-classrooms-less-disruptive-than-control.md) — related
 - [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — a broader claim this one bears on
 - [Interventions are more effective for general suspensions and in-school exclusion than for severe sanctions such as permanent exclusion and out-of-school suspension](exclusion-type-moderates-intervention-effect.md) — related
+- [Classroom behavior problems are linked to worse novice-teacher outcomes, while a welcoming staff and strong school leadership are linked to more positive outcomes](classroom-behavior-problems-school-climate-novice-outcomes.md) — related

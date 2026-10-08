@@ -49,3 +49,4 @@ Findings from teacher focus groups and interviews across grantee sites in the di
 - [Teachers across sectors are receptive to collaboration on average, but the proportion of teachers involved in grant activities has been limited](teachers-receptive-but-involvement-limited.md) — related
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related
 - [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — related
+- [Structural Fragmentation of HRM Functions Impedes Strategic Coordination in School Districts](hrm-structural-fragmentation-impedes-coordination.md) — related

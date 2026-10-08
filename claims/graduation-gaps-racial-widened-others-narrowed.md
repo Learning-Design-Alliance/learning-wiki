@@ -45,3 +45,4 @@ Subgroup trend analysis by race/ethnicity, gender, neighborhood poverty, and dis
 ## Related Claims
 - [Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups](cps-on-track-rate-rose-25-points-districtwide.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
+- [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related

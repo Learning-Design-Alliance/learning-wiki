@@ -49,3 +49,5 @@ Descriptive, unadjusted analyses of pooled 2006-13 CPS cohorts (Figures 2-7): ge
 - [High- and middle-achieving Black students saw core GPA declines at least twice as large as White peers with similar eighth-grade GPAs](black-students-disproportionate-gpa-declines.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Students' risk of suspension is more strongly determined by which school they attend than by their individual backgrounds](school-attended-determines-suspension-risk-more-than-background.md) — related
+- [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related
+- [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related

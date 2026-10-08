@@ -70,3 +70,4 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related
+- [Classrooms in high-performing CHSRI schools showed positive, mutually respectful student-teacher relationships with emotional and academic support](chsri-positive-student-teacher-relationships.md) — related

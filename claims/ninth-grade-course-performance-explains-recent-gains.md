@@ -49,3 +49,4 @@ Decomposition of graduation-rate trends against ninth-grade behavioral measures.
 - [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related
 - [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](9th-grade-on-track-nsi-positive-impacts-year-two.md) — related
 - [Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate](algebra-failers-failed-multiple-courses-off-track.md) — related
+- [Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students](ell-ontrack-35-times-more-likely-graduate.md) — related

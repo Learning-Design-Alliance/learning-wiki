@@ -46,6 +46,7 @@ A second organizing concept holds that experiences influence development most wh
 - [Adolescent Peer Group Structure](adolescent-peer-group-structure.md)
 - [Foundations for Young Adult Success developmental framework](foundations-young-adult-success-framework.md)
 - [Teaching and learning as social enterprises embedded within school and community contexts](teaching-as-social-enterprise-embedded-in-context.md)
+- [School social-organizational structure mediates community influences on school safety](school-social-organization-mediation-framework.md)
 
 ## Examples
 

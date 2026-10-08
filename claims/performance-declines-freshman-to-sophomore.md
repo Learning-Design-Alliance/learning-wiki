@@ -65,3 +65,4 @@ Cohort comparison of attendance distributions (Figure 6, 2014-15 cohort) found a
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related
 - [By the end of sophomore year, 84 percent of eventual non-graduates showed at least one warning indicator](sophomore-warning-indicators-flag-84-percent-nongraduates.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
+- [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related

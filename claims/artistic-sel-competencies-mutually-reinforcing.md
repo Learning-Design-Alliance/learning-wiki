@@ -45,3 +45,4 @@ A theoretical argument within the report's theory of action, illustrated by exam
 ## Related Claims
 - [Students' success in school and beyond is inextricably linked to healthy social and emotional development](school-success-linked-social-emotional-development.md) — a broader claim this one bears on
 - [Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution](arts-sel-evidence-base-rigor-gap.md) — related
+- [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](essential-supports-mutual-trust-reinforce-each-other.md) — related

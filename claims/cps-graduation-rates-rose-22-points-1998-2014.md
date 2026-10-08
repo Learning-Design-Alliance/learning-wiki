@@ -48,3 +48,4 @@ Districtwide trend analysis of CPS administrative records using age-based cohort
 - [CPS four-year high school graduation rose from 57 percent in 2006 to 75 percent in 2017, with options-school graduates adding 4 more percentage points](cps-hs-graduation-57-to-75.md) — related
 - [The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes](dropout-decline-drove-diploma-gains.md) — related
 - [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — related
+- [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — related

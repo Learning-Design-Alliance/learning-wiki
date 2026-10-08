@@ -45,3 +45,4 @@ Longitudinal analysis of CPS students linking early attendance patterns to secon
 ## Related Claims
 - [Students chronically absent for multiple years exhibit need for significant intervention to read at grade level by third grade](multiyear-chronic-absence-third-grade-reading-intervention.md) — possibly the same claim (merge candidate)
 - [Chronically absent pre-kindergarten students (absent 10 percent or more of enrolled days) display lower academic and behavioral kindergarten readiness](chronic-prek-absence-lower-kindergarten-readiness.md) — related
+- [Chronically absent preschoolers are much more likely to stay chronically absent, and each successive year of chronic absenteeism compounds risk of low second-grade reading](preschool-absence-predicts-later-chronic-absence-and-reading-risk.md) — related

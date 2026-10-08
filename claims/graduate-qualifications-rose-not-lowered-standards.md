@@ -48,3 +48,6 @@ Trend analysis of graduate qualifications (Chapter 2). The proportion of student
 - [CPS four-year high school graduation rose from 57 percent in 2006 to 75 percent in 2017, with options-school graduates adding 4 more percentage points](cps-hs-graduation-57-to-75.md) — related
 - [CPS high school graduation rates rose from 57 percent to 74 percent between 2006 and 2016](cps-hs-graduation-rose-57-to-74.md) — related
 - [Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior](ninth-grade-gpa-increase-with-achievement-trends.md) — related
+- [ACT scores rose even with more test takers, growing most in Era 3 in selective enrollment and racially integrated schools](act-scores-rose-most-selective-integrated-schools.md) — related
+- [Chicago high school graduation rates improved dramatically over 20 years without a decline in average high school academic performance](cps-graduation-rates-improved-without-performance-decline.md) — related
+- [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — reports the opposite

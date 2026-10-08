@@ -45,3 +45,4 @@ Quasi-experimental comparison of students from closed schools with students in s
 ## Related Claims
 - [The math test-score gap for students from closed schools persisted for four years post-closings, while reading scores rebounded to expected levels by the second year](math-gap-persisted-four-years-post-closings.md) — related
 - [Core GPA was not affected immediately after closures, but students from closed schools showed small negative effects in years three and four, more pronounced for students in grades 3-5 at announcement](core-gpa-delayed-negative-effects-closed-schools.md) — related
+- [School closings reduced displaced students' reading and math achievement during the announcement year, about six months before schools actually closed](announcement-year-achievement-loss-school-closings.md) — related

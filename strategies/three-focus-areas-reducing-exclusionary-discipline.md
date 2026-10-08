@@ -38,7 +38,8 @@ The report identifies three priority areas for districts seeking to reduce exclu
 - Improve school climate and safety
 
 ## Related Strategies
-- 
+
+- [Train teachers and staff on how to deal with conflict in constructive ways to prevent conflicts from escalating](constructive-conflict-training-staff.md)
 
 ## Examples
 -

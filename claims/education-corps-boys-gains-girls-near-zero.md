@@ -51,3 +51,4 @@ Subgroup analysis within the same randomized study of 867 K-3 students found boy
 - [Black students show stronger reading gains from the tutoring program (ES = +0.24)](ignite-reading-black-students-subgroup-gains.md) — related
 - [English learners show particularly strong reading gains from the tutoring program (ES = +0.31)](ignite-reading-english-learner-subgroup-gains.md) — related
 - [The Experience Corps program was found to be a low burden to teachers](ec-program-low-burden-to-teachers.md) — related
+- [Small gaps in AVID experiences by gender, achievement, and grade, with girls, lower achievers, and tenth graders more positive](avid-small-gaps-gender-achievement-grade.md) — related

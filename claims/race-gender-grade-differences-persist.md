@@ -48,3 +48,5 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [Gender differences in ninth-grade math grades were similar across racial/ethnic groups, with young men earning fewer points in every group](gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math.md) — related
 - [Prior achievement, attendance, and suspensions do not explain the gender difference in ninth-grade math grades](prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap.md) — related
 - [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](gender-gap-persists-controlling-course-enrollment.md) — related
+- [Among students with the same high grades, ACT scores differ substantially by race/ethnicity, a pattern the report flags as possible racial bias](act-score-gaps-by-race-at-same-gpa.md) — related
+- [Attending a selective exam-entry high school yields no significant academic benefits and lowers 11th-grade GPA relative to observationally similar peers elsewhere](selective-schools-no-academic-benefit-lower-gpa.md) — related

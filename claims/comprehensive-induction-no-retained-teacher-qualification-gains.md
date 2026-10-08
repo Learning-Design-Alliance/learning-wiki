@@ -49,3 +49,4 @@ Second-year findings from the national randomized controlled evaluation of compr
 - [Comprehensive teacher induction did not lead to measurable improvements in student test scores compared to business-as-usual induction in the second year of a randomized controlled study](comprehensive-induction-no-student-test-score-gains-year-two.md) — related
 - [One year of comprehensive teacher induction showed no impact on student achievement](one-year-induction-no-impact.md) — related
 - [Two years of comprehensive teacher induction can boost student achievement compared with business-as-usual induction](two-year-comprehensive-induction-boosts-achievement.md) — related
+- [Participation in an induction program alone does not improve the chances teachers will remain; induction quality matters, and almost 20 percent of new teachers report not participating](induction-participation-alone-insufficient-quality-matters.md) — related

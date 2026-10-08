@@ -48,6 +48,7 @@ The UChicago Consortium's framework identifies five organizational domains that 
 - [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
+- [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
 
 ## Examples
 

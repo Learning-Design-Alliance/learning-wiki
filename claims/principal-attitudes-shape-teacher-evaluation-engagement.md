@@ -47,3 +47,4 @@ Interview study across 7 CPS schools found that "Principals' attitudes toward an
 - [Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general](epic-principals-positive-attitudes-merit-pay.md) — related
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — related
 - [Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching](reach-observation-process-reflection-and-feedback-use.md) — related
+- [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](principal-attitudes-toward-framework-evaluation.md) — related

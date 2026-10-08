@@ -63,6 +63,7 @@ Availability only supports learning when students perceive it as genuine and pre
 - [Check-ins](../principles/check-ins.md) — structured, recurring presence that surfaces student state before problems escalate
 - [Community of Inquiry](../principles/community-of-inquiry.md) — teaching presence is one of its three pillars; this strategy is its interpersonal face
 - [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
+- [Increase adult presence in the areas where students feel least safe, particularly just outside and around the school building](increase-adult-presence-unsafe-areas.md)
 
 ## Related Elements
 - [Modeling](../elements/modeling.md) — visible participation in the work makes presence credible

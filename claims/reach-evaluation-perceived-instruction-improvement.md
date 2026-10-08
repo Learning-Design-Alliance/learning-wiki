@@ -48,3 +48,5 @@ Districtwide survey of approximately 12,000 CPS teachers plus administrators aft
 - [Principals' attitudes toward and framing of the REACH evaluation system shaped teachers' engagement with the evaluation process](principal-attitudes-shape-teacher-evaluation-engagement.md) — related
 - [Beginning teachers are more positive about REACH than teachers with more years of experience](reach-beginning-teachers-more-positive-than-veterans.md) — related
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — possibly the same claim (merge candidate)
+- [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](principal-attitudes-toward-framework-evaluation.md) — related
+- [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](reach-observation-process-supports-growth.md) — related

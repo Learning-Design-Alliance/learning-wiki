@@ -47,3 +47,4 @@ Analysis of student grades in CS courses compared to core courses across CPS hig
 - [High- and middle-achieving Black students saw core GPA declines at least twice as large as White peers with similar eighth-grade GPAs](black-students-disproportionate-gpa-declines.md) — related
 - [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
+- [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related

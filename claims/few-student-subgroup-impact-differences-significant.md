@@ -69,3 +69,4 @@ Section heading for the Cohort 1 follow-up subgroup analyses reports that "EIGHT
 - [After one school year of implementation (first cohort), the curricula produced no statistically significant positive impacts, and four statistically significant negative impacts were observed.](year-one-curricula-no-positive-impacts-four-negative.md) — related
 - [A national evaluation design was produced to assess supplemental reading comprehension programs for fifth-grade students](national-evaluation-design-supplemental-reading-comprehension-fifth-grade.md) — related
 - [Ecological inference methods for subgroup analyses yield large design effects](ecological-inference-subgroup-analyses-large-design-effects.md) — related
+- [After one year, RSF Cohort 2 students generally performed at the same levels as matched comparison students, with only three statistically significant differences](rsf-cohort2-few-significant-differences-vs-matched-controls.md) — related

@@ -47,3 +47,4 @@ Attendance analysis of ninth-grade absence data for 36,423 CPS students. On aver
 - [Students who fail Algebra I more often enter ninth grade with preexisting math and reading deficits, though many enter with average or higher achievement](algebra-failure-linked-to-incoming-academic-deficits.md) — related
 - [Ninth graders who fail Algebra I are demographically similar to those who pass, but are more likely to be male and African American](algebra-i-failers-more-likely-male-african-american.md) — related
 - [Before expanded options, only 13% of CPS freshmen who failed spring Algebra I recovered the credit over the summer](low-summer-algebra-credit-recovery-rate-before-study.md) — related
+- [Freshmen who miss more than two weeks of school per semester fail at least two classes on average, regardless of incoming test scores](two-weeks-absence-course-failure.md) — related

@@ -67,6 +67,7 @@ Parent workshops work when they change what parents *do*, not just what they kno
 - [Teacher-Parent Communication](../strategies/teacher-parent-communication.md) — the ongoing channel that sustains workshop practices between sessions
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Train parents as one-on-one reading coaches through weekly family workshops](parent-reading-coach-family-workshops.md)
+- [Parents should reinforce on-time attendance, communicate with teachers, and make academics the freshman's top priority](parent-support-freshman-attendance-priority.md)
 
 ## Examples
 - **Dialogic reading workshops** based on Whitehurst's shared-reading research: parents learn to ask expansion questions ("What happened next? Why?") during read-alouds; randomized trials show gains in children's expressive language when parents are trained with modeling and feedback.

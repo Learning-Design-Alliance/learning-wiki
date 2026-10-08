@@ -46,3 +46,4 @@ Teacher survey in the year-two REACH brief; student growth accounted for up to 2
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related
 - [Teachers view classroom observations as a fair way to evaluate their performance but largely reject student growth measures as unfair](reach-teachers-fair-observations-unfair-student-growth.md) — related
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
+- [A majority of teachers believed REACH relied too heavily on standardized tests, with special education teachers especially critical](teachers-hesitant-student-growth-evaluation.md) — related

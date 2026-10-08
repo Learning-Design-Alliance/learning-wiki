@@ -45,7 +45,8 @@ An online credit recovery version of Algebra I offered the summer after ninth gr
 - [Before expanded options, only 13% of CPS freshmen who failed spring Algebra I recovered the credit over the summer](../claims/low-summer-algebra-credit-recovery-rate-before-study.md) [+W]
 
 ## Related Elements
-- 
+
+- [Online Algebra I credit recovery course](online-algebra-credit-recovery-course.md)
 
 ## Examples
 

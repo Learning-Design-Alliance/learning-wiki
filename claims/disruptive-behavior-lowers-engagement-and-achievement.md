@@ -48,3 +48,4 @@ Background statement in the review's context section, attributed to Dolan et al.
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Greater parental financial investment associated with lower grades but higher graduation likelihood (review attribution)](parental-financial-investment-grades-graduation.md) — related
+- [Classroom behavior problems are linked to worse novice-teacher outcomes, while a welcoming staff and strong school leadership are linked to more positive outcomes](classroom-behavior-problems-school-climate-novice-outcomes.md) — related

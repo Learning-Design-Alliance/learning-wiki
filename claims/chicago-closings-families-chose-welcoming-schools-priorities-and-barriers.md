@@ -67,3 +67,4 @@ Interviews with affected families found some believed they had to enroll in the 
 - [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related
 - [Many parents of students with IEPs lacked viable options to engage in school choice after forced school closings](iep-parents-lacked-viable-choice-options.md) — related
 - [Proximity and relocation into the closed school building strongly predicted enrollment in designated welcoming schools](chicago-closings-proximity-relocation-predict-welcoming-enrollment.md) — related
+- [Distance and transportation costs were barriers to frequent visits for teens from Chicago's far South and West Sides](youmedia-transportation-barrier-far-south-west-sides.md) — related

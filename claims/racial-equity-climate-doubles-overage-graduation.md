@@ -45,3 +45,4 @@ High school findings (pp. 116-120 of the full study) from the observational CPS 
 ## Related Claims
 - [Within the same neighborhoods and schools, boys and Black students are more likely to be overage for grade, a proxy for prior retention](boys-black-students-more-likely-overage.md) — related
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — a broader claim this one bears on
+- [The association between teacher qualifications and learning gains depends on school context: no association exists at schools with poor learning climates](teacher-quality-gains-depend-on-school-climate.md) — related

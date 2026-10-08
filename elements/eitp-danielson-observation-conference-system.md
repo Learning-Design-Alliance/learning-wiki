@@ -49,6 +49,7 @@ EITP replaced Chicago's checklist-based teacher evaluation with a system in whic
 
 - [REACH teacher evaluation system](reach-teacher-evaluation-system.md)
 - [REACH (Recognizing Educators Advancing Chicago's Students) teacher evaluation system](reach-teacher-evaluation-system-chicago.md)
+- [REACH Students teacher evaluation system](reach-students-evaluation-system.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Descriptive analysis of CPS administrative attendance data for all preschool stu
 - [Health is the most commonly reported reason preschool children miss school, with more than half of all days missed due to sickness, and logistical obstacles accounting for another 18 percent](health-primary-reason-preschool-absences.md) — related
 - [Students chronically absent in preschool are five times more likely to be chronically absent in second grade than their non-chronically absent preschool peers](preschool-absenteeism-predicts-later-absenteeism.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
+- [Chronic absenteeism is extremely common among preschool students and declines substantially when children enter kindergarten](preschool-chronic-absenteeism-extremely-high-declines-in-kindergarten.md) — related

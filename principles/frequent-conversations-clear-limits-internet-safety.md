@@ -47,6 +47,7 @@ The brief recommends that adults support adolescents with ASD online by holding 
 
 - [Use the PLAY IT SAFE acronym to teach internet safety rules to teens with ASD](../strategies/play-it-safe-acronym-internet-safety.md)
 - [Use visual supports, role playing, and social narratives to teach internet safety to adolescents with ASD](../strategies/visual-supports-role-play-social-narratives-internet-safety.md)
+- [Staff certification processes and flexible rule reevaluation to protect equipment and maintain a safe, productive youth-driven space](../strategies/youmedia-staff-certification-and-flexible-rules.md)
 
 ## Key Sources
 - Clinard, A. (2016, February). Internet Safety for Teens with ASD (Autism at-a-Glance Brief). Chapel Hill: The University of North Carolina, Frank Porter Graham Child Development Institute, CSESA Development Team. https://csesa.fpg.unc.edu/

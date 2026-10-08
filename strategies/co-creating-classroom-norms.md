@@ -65,6 +65,7 @@ Participation in setting norms increases students' sense of ownership and buy-in
 - [Classroom meetings](classroom-meetings.md) — a recurring structure for revisiting and enforcing co-created norms
 - [Positive classroom climate](positive-classroom-climate.md) — norm co-creation is one lever among several for climate
 - [Student-co-created acceptable/unacceptable behavior guides for conflict management](student-co-created-behavior-guides.md)
+- [Staff certification processes and flexible rule reevaluation to protect equipment and maintain a safe, productive youth-driven space](youmedia-staff-certification-and-flexible-rules.md)
 
 ## Examples
 - **Responsive Classroom** (Center for Responsive Schools) — elementary teachers use Interactive Modeling and class meetings to generate "Hopes and Dreams" that become classroom rules: [https://www.responsivereads.com](https://www.responsivereads.com)

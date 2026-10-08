@@ -49,3 +49,4 @@ Cohort analysis of CPS students (Figure 4) shows sophomore off-track status is h
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [By the end of sophomore year, 84 percent of eventual non-graduates showed at least one warning indicator](sophomore-warning-indicators-flag-84-percent-nongraduates.md) — related
 - [CPS Freshman OnTrack rates rose from 58 to 89 percent between 2007 and 2017 while graduation rates rose 19 percentage points](cps-ontrack-rose-58-to-89-graduation-up-19-points.md) — related
+- [On-track rates in Chicago improved over time alongside indicator-based data tool use](chicago-ontrack-rates-improved-over-time.md) — related

@@ -48,3 +48,4 @@ The Chicago year-one evaluation reports a significant retention impact: "TAP tea
 - [Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results](chicago-tap-year-two-impact-evaluation.md) — related
 - [Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools](tap-increases-reported-mentoring-support.md) — related
 - [A five-year evaluation of TAP in high-need Chicago public schools began in 2007](tap-chicago-five-year-evaluation-design-2007.md) — related
+- [Strong mentoring is linked to novice elementary teachers being 25 percentage points more likely to plan to remain in the same school, with a similar but non-significant pattern for high school teachers](strong-mentoring-25-point-retention-plan-elementary.md) — related

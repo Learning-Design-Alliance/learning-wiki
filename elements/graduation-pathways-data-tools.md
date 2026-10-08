@@ -52,6 +52,7 @@ The Office of Graduation Pathways, working with Consortium researchers, develope
 - [Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress](../strategies/early-warning-data-and-credit-recovery-strategy.md)
 - [Monitor freshman-year grades and intervene early, treating D students as needing attention comparable to F students](../strategies/monitor-freshman-gpa-early-warning-strategy.md)
 - [Focus school improvement efforts on the ninth-grade transition using real-time data to monitor and support at-risk freshmen](../strategies/ninth-grade-on-track-data-strategy.md)
+- [Support freshman success for students with disabilities through attendance-boosting measures and study-habit support tailored to learning and mild cognitive disabilities](../strategies/attendance-and-study-support-strategy-special-education.md)
 
 ## Key Sources
 - Roderick, M., & Kelley-Kemple, T., with Johnson, D. W., & Ryan, S. (2021). The Preventable Failure: Improvements in High School Graduation Rates when High Schools Focus on the Ninth-Grade Year. University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/the-preventable-failure

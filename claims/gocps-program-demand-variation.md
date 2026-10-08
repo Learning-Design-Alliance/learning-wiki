@@ -64,3 +64,4 @@ Descriptive cross-tabulation of program demand by the district's School Quality 
 ## Related Claims
 - [Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation](gocps-enrollment-stable-after-implementation.md) — related
 - [Program demand varied widely: 21 percent of programs had more than ten times as many applications as seats, led by arts, CTE, and SEHS programs](gocps-program-demand-variation-arts-cte-sehs.md) — possibly the same claim (merge candidate)
+- [Demand for RSF-supported schools was generally strong, with most Cohort 1 and 2 schools oversubscribed by 2007-08](rsf-schools-oversubscribed-strong-demand.md) — related

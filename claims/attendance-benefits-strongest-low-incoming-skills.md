@@ -45,3 +45,4 @@ Moderation analysis within the Preschool Longitudinal Study sample examining whe
 ## Related Claims
 - [Preschool students who miss more school have lower kindergarten readiness scores on math, letter recognition, and social-emotional measures, controlling for incoming skills](preschool-absence-lower-kindergarten-readiness.md) — related
 - [Pre-kindergarten absence is widespread in a large urban district, particularly among African American students and those entering with the lowest skills](prek-absence-widespread-african-american-lowest-skills.md) — related
+- [Four-year-olds who miss more preschool score lower on kindergarten readiness measures of math, letter recognition, and social-emotional development, even after controlling for incoming skills](preschool-absence-lower-kindergarten-readiness-scores.md) — related

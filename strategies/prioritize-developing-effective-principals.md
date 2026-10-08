@@ -40,7 +40,8 @@ The fact sheet directs state and district attention to school leadership as a le
 - Supporting student academic progress
 
 ## Related Strategies
-- 
+
+- [Small school reformers should intentionally build professional community, principal leadership, and teacher influence rather than relying on size reduction](intentionally-build-organizational-conditions-small-schools.md)
 
 ## Examples
 -

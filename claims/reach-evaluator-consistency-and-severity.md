@@ -63,3 +63,4 @@ Severity analysis using a randomly selected sample of 46 principals and 16 speci
 
 ## Related Claims
 - [Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools](pittsburgh-principal-practice-ratings-vary-across-schools.md) — related
+- [Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers](principal-rater-severity-variation.md) — related

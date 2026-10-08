@@ -45,3 +45,4 @@ This analysis used a standardized scale combining school-level free/reduced-pric
 ## Related Claims
 - [Students affected by the school closures were more disadvantaged than typical CPS students, and the closed schools served more vulnerable populations than other schools](chicago-closings-affected-students-more-disadvantaged.md) — related
 - [School size and student socioeconomic status conditioned trust levels differently in the two contexts](school-size-ses-condition-trust-differently.md) — related
+- [Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools](disadvantaged-schools-with-supports-improve-equally.md) — related

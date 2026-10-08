@@ -46,3 +46,4 @@ Variance decomposition from cross-nested hierarchical linear models (Table A.2) 
 - [Students with greater economic need participated at higher rates in Chicago Connected](economic-need-higher-chicago-connected-participation.md) — related
 - [Neighborhood groupings reveal variation within Chicago's 77 community areas that typical analyses miss](groupings-finer-grained-than-77-community-areas.md) — related
 - [School-level differences in grades are small and largely explained by attendance and course characteristics](school-grade-variance-small-explained.md) — related
+- [Student background characteristics explain only a small amount of variation in school technology use, with males, Latinos, and at-risk students using less and higher achievers using more](background-characteristics-small-share-student-tech-use.md) — related

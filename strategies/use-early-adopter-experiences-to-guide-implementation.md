@@ -37,7 +37,8 @@ The report positions its district profiles as implementation guidance for other 
 - Designing teacher evaluation and compensation systems using alternative growth measures
 
 ## Related Strategies
-- 
+
+- [Learn from early adopter districts' challenge-response strategies and lessons learned when designing and implementing new teacher evaluation systems](early-adopter-lessons-teacher-evaluation-implementation.md)
 
 ## Examples
 -

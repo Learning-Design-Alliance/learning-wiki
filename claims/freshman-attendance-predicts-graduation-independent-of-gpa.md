@@ -50,3 +50,6 @@ Cohort analysis of 2014-15 freshmen (Figure 8) crosses freshman GPA bands with a
 - [Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores](sophomore-ontrack-predictive-but-limited.md) — related
 - [Student attendance is closely tied to a range of educational outcomes](attendance-tied-to-educational-outcomes.md) — a broader claim this one bears on
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
+- [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related
+- [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
+- [Nearly 90 percent of Chicago freshmen who miss less than a week of school per semester graduate, regardless of 8th grade test scores](low-freshman-absence-high-graduation.md) — related

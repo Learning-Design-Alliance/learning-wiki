@@ -45,7 +45,9 @@ The chapter overview lists "Freshman OnTrack" among its publication tags alongsi
 - [Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups](../claims/cps-on-track-rate-rose-25-points-districtwide.md) [+M]
 
 ## Related Elements
+
 - [School Level Data Systems Identify Student Support Needs](../strategies/school-level-data-systems-identify-student-support-needs.md)
+- [Freshman on-track indicator](freshman-on-track-indicator-chicago.md)
 
 ## Examples
 

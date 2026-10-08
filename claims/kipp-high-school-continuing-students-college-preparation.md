@@ -47,3 +47,4 @@ The Key Findings section reports positive impacts on college preparation activit
 - [For students continuing from KIPP middle schools to KIPP high schools, achievement impacts are not statistically significant](kipp-high-school-continuing-students-achievement-null.md) — related
 - [KIPP high schools have positive, statistically significant achievement impacts for students new to the KIPP network, but not for students continuing from KIPP middle schools](kipp-high-school-impacts-new-entrants-not-continuing.md) — related
 - [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related
+- [Schools with stronger college-going cultures have higher student ACT scores, regardless of student backgrounds](college-going-culture-associated-higher-act-scores.md) — related
