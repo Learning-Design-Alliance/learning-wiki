@@ -53,3 +53,4 @@ Teacher surveys and focus groups from the 2009-2010 Gallagher (2010) evaluation 
 - [Teachers implementing TDHS Strategic Reading reported positive experiences and greater impact on student reading than traditional curricula](tdhs-teacher-survey-positive-perceptions.md) — related
 - [Teachers, principals, and students in the Floyd County trial responded positively to Pathblazer and would recommend it](pathblazer-positive-stakeholder-perceptions-floyd-county.md) — related
 - [Teachers reported PCP easy to use and beneficial for phonics instruction, but sometimes challenging to fit into 30 minutes](pcp-teacher-feedback-usability-time-fit.md) — related
+- [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related

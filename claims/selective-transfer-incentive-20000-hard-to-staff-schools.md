@@ -46,3 +46,5 @@ The paper's own description of the incentive program under study: high-performin
 - [The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts](selective-transfer-targets-hardest-to-staff-schools.md) — possibly the same claim (merge candidate)
 - [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — possibly the same claim (merge candidate)
 - [The paper examines high-performing teachers' willingness to transfer and the transfer offer's effect on receiving schools' internal dynamics](transfer-offer-effects-teacher-willingness-and-school-dynamics.md) — related
+- [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
+- [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related

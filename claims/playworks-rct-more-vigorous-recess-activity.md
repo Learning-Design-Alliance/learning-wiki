@@ -66,3 +66,4 @@ In the same randomized controlled trial, teacher surveys measured perceived stud
 - [Girls in Playworks schools had significantly higher accelerometer intensity counts and spent more time in vigorous physical activity than girls in control schools](playworks-girls-higher-activity-counts-vigorous.md) — a narrower finding that bears on this claim
 - [Girls in Playworks schools were less likely to be sedentary and more likely to engage in jumping, tag, and playground games during recess](playworks-girls-recess-activity-types.md) — related
 - [No significant accelerometer-based differences in physical activity were found for boys in Playworks schools compared with control schools](playworks-no-boys-accelerometer-effect.md) — related
+- [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — related

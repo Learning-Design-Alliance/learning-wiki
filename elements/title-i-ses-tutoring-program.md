@@ -49,6 +49,8 @@ SES are "tutoring or other academic support services offered outside the regular
 
 - [SES provider landscape and service delivery characteristics in oversubscribed districts](ses-provider-landscape-characteristics.md)
 - [Wraparound support services: counseling and special education support alongside academic instruction](wraparound-counseling-special-ed-support.md)
+- [Regression discontinuity design exploiting oversubscription rationing of SEdS](seds-oversubscription-regression-discontinuity-design.md)
+- [Supplemental Educational Services (SEdS) under No Child Left Behind](supplemental-educational-services-nclb.md)
 
 ## Examples
 -

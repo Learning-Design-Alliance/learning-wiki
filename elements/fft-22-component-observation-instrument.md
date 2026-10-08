@@ -47,6 +47,8 @@ The Framework for Teaching of Charlotte Danielson is an observation-based teache
 ## Related Elements
 
 - [Pennsylvania teacher evaluation pilot dataset covering 6,676 teachers in 269 districts across two school years](pennsylvania-fft-pilot-dataset-6676-teachers.md)
+- [The Framework for Teaching observation rubric with 22 components in four domains](framework-for-teaching-22-component-rubric.md)
+- [Pennsylvania Teacher and Principal Evaluation Pilot (2010-2015), Phase 2 classroom-observation study](pennsylvania-teacher-evaluation-pilot-phase-2.md)
 
 ## Examples
 -

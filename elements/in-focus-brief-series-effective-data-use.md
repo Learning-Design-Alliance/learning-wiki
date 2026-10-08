@@ -49,7 +49,8 @@ A Mathematica Policy Research In Focus brief series, prepared for the Gates Foun
 - [Teacher-Student Data Link (TSDL) project](tsdl-project-element.md)
 
 ## Examples
--
+
+- [Target data-system guidance separately to state officials, district-level staff, and system developers](../strategies/target-data-guidance-by-role.md)
 
 ## Key Sources
 - Various authors. (2013). Supporting Effective Data Use (In Focus Brief). Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/supporting-effective-data-use

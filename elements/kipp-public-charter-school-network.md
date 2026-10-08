@@ -57,6 +57,7 @@ KIPP is a network of public charter schools serving students from elementary thr
 - [KIPP public charter school network multi-grade-level impact evaluation](kipp-network-multigrade-evaluation.md)
 - [KIPP middle schools as an evaluated intervention across the country](kipp-middle-schools-intervention.md)
 - [KIPP leadership development investment for network scale-up](kipp-leadership-development-investment.md)
+- [KIPP charter school network and its Five Pillars model](kipp-network-five-pillars-model.md)
 
 ## Examples
 -

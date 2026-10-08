@@ -42,6 +42,8 @@ The article organizes the problem of modeling value added "when the same student
 ## Related Theories
 
 - [Options framework for addressing co-teaching in value-added models](coteaching-value-added-options-framework.md)
+- [Four options for accounting for co-teaching in value-added models](four-options-co-teaching-value-added.md)
+- [Value-added methods as a framework for estimating educator effectiveness, presented in technical and nontechnical terms](value-added-methods-framework-oklahoma-report.md)
 
 ## Examples
 

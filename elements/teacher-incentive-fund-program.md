@@ -53,6 +53,7 @@ The Teacher Incentive Fund is a federal grant program that "provides federal gra
 - [Teacher Incentive Fund (TIF) performance-based compensation grants for high-need schools](teacher-incentive-fund-performance-compensation-grants.md)
 - [Teacher Incentive Fund (TIF) educator evaluation and compensation strategies](tif-performance-feedback-and-pay-for-performance-strategies.md)
 - [Teacher Incentive Fund (TIF) performance pay evaluation study design report](tif-performance-pay-study-design-report.md)
+- [Teacher Incentive Fund (TIF) performance-based compensation program](teacher-incentive-fund-tif-program.md)
 
 ## Examples
 

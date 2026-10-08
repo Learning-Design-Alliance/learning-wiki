@@ -45,3 +45,4 @@ Phase 2 qualitative interviews with thought leaders and experts in evaluation, d
 ## Related Claims
 - [Interview respondents identify collaborative relationships, trust in evidence and its users, clarity on research types, and supportive leadership as facilitators of evidence use](interview-facilitators-evidence-use.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [In practice, education data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](data-often-fails-to-drive-education-decisions.md) — related

@@ -49,3 +49,6 @@ The article compares empirical estimates from the two joint-responsibility metho
 - [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](dc-value-added-report-design-features.md) — related
 - [The Full Roster Method effectively counts co-taught students more than once in value-added calculations](frm-counts-cotaught-students-more-than-once.md) — related
 - [Applying the Full Roster-Plus Method instead of the Full Roster Method produces very small empirical differences in value-added estimates in District of Columbia Public Schools data](frp-vs-frm-very-small-empirical-differences.md) — related
+- [The Full Roster Method offers the most promise for robust, practical implementation among the three co-teaching value-added methods considered.](full-roster-method-most-promise-practical-implementation.md) — a broader claim this one bears on
+- [The full roster and full roster-plus methods are empirically similar](full-roster-methods-empirically-similar.md) — related
+- [The Teacher Team Method and Full Roster Method provide a more stable approach than the Partial Credit Method for estimating teacher effects when students have multiple teachers for the same subject.](teacher-team-and-full-roster-methods-more-stable-than-partial-credit.md) — related

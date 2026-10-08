@@ -45,3 +45,4 @@ Comparative analysis of admission patterns across 19 KIPP middle schools, descri
 ## Related Claims
 - [Charter middle school impacts were more positive for more disadvantaged schools and students and more negative for the more advantaged](charter-impacts-more-positive-for-disadvantaged-students.md) — related
 - [Attrition patterns at KIPP middle schools are typically no different than at nearby schools](kipp-attrition-no-different-than-nearby-schools.md) — related
+- [KIPP middle schools' student attrition and replacement rates can be compared with those of nearby district-run schools using longitudinal student-level data.](kipp-middle-school-attrition-replacement-compared-district-schools.md) — related

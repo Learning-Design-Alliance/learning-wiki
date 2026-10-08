@@ -53,3 +53,4 @@ The Key Findings section reports a null achievement result for continuing KIPP s
 - [Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md) — related
 - [For continuing KIPP students, KIPP high schools have positive impacts on college preparation activities and the likelihood of applying to college](kipp-high-school-continuing-students-college-preparation.md) — related
 - [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related
+- [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related

@@ -45,3 +45,4 @@ Narrative literature review of grey and peer-reviewed literature conducted in Ph
 ## Related Claims
 - [Interview respondents identify collaborative relationships, trust in evidence and its users, clarity on research types, and supportive leadership as facilitators of evidence use](interview-facilitators-evidence-use.md) — related
 - [Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways](iei-implementation-gaps-boundary-conditions.md) — related
+- [Systematic reviews serve decision makers by identifying relevant studies, assessing evidence quality, and summarizing valid findings](systematic-reviews-identify-assess-summarize-for-decision-makers.md) — related

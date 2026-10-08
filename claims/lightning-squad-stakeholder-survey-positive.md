@@ -48,3 +48,4 @@ The article reports an implementation survey of school staff as evidence of acce
 - [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](lightning-squad-adequate-dose-map-grade3.md) — related
 - [Teachers, principals, and students in the Floyd County trial responded positively to Pathblazer and would recommend it](pathblazer-positive-stakeholder-perceptions-floyd-county.md) — related
 - [Teachers and principals reported satisfaction with READ 180 implementation and positive perceptions of its impacts, while recommending additional professional development](read-180-implementation-satisfaction-and-pd-recommendations.md) — related
+- [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related

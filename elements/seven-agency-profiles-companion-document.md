@@ -44,6 +44,7 @@ The companion document is a released artifact presenting "seven profiles, one fo
 ## Related Elements
 
 - [Mathematica implementation study of Strategic Data Use in Education (2011–2015), prepared for the Gates Foundation](strategic-data-use-in-education-implementation-study.md)
+- [SDP/EP agency profiles documenting data use in twelve education agencies](sdp-ep-agency-data-use-profiles.md)
 
 ## Examples
 -

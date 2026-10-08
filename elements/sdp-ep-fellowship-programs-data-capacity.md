@@ -50,6 +50,8 @@ The Gates Foundation invested in two programs, the Strategic Data Project (SDP) 
 - [Three-brief In Focus series on effective data use in education](in-focus-brief-series-effective-data-use.md)
 - [Strategic Data Project and Education Pioneers programs supporting data capacity in education agencies](sdp-ep-data-capacity-programs.md)
 - [Mathematica implementation study of Strategic Data Use in Education (2011–2015), prepared for the Gates Foundation](strategic-data-use-in-education-implementation-study.md)
+- [SDP/EP agency profiles documenting data use in twelve education agencies](sdp-ep-agency-data-use-profiles.md)
+- [SDP and EP fellowship programs as the intervention context for agency data-use change](sdp-ep-fellowship-programs-context.md)
 
 ## Examples
 

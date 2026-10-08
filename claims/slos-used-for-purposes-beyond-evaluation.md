@@ -46,3 +46,4 @@ Key finding from the eight-district implementation study: the measures, particul
 - [Among SLO districts the most frequently reported benefit was increased collaboration, while alternative assessment-based value-added models were perceived as fairer than SLOs](collaboration-benefit-versus-vam-fairness.md) — related
 - [Early-adopting districts used alternative student growth measures alongside other measures in formal teacher evaluations](early-adopters-used-alternative-growth-measures-in-formal-evaluations.md) — related
 - [Evidence on reliability and validity of alternative student growth measures, especially student learning objectives, is limited](limited-reliability-validity-evidence-alternative-growth-measures.md) — related
+- [Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems](eight-districts-use-alternative-teacher-effectiveness-measures.md) — related

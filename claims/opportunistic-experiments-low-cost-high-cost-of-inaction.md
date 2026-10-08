@@ -44,3 +44,4 @@ The guide's concluding argument, stated as an authors' interpretive claim rather
 
 ## Related Claims
 - [Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews](wwc-attrition-standard-shapes-study-design.md) — related
+- [Opportunistic RCTs can generate strong evidence for education decisions with minimal added cost and disruption](opportunistic-rcts-strong-evidence-low-cost.md) — possibly the same claim (merge candidate)

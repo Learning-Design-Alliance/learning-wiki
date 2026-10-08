@@ -37,7 +37,8 @@ A guide prepared for the Institute of Education Sciences' Regional Education Lab
 - communicating research findings through effective graphic design
 
 ## Related Elements
-- 
+
+- [508 Compliance guide as an accessibility resource for education dissemination products](508-compliance-guide-element.md)
 
 ## Examples
 

@@ -37,7 +37,8 @@ The article's forward-looking recommendation is that rigorous education research
 - expanding the body of rigorous causal evidence for education decisions
 
 ## Related Strategies
-- 
+
+- [Weigh explicit considerations before deciding to fund or conduct a systematic review](considerations-before-funding-or-conducting-systematic-reviews.md)
 
 ## Examples
 -

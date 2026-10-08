@@ -41,7 +41,8 @@ The guide supplies "a checklist of key questions to consider when conducting opp
 - [Opportunistic Experiments Definition](../theories/opportunistic-experiments-definition.md)
 
 ## Related Strategies
-- 
+
+- [Follow key steps to conduct RCTs and address common questions and concerns](key-steps-and-concerns-for-district-rcts.md)
 
 ## Examples
 -

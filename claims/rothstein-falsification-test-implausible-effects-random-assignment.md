@@ -46,3 +46,7 @@ The authors' summary of their re-analysis of the Rothstein falsification test, r
 - [Theoretically and in simulations, the Rothstein test often falsifies unbiased VAMs and fails to falsify biased VAMs](falsification-test-falsifies-unbiased-vams.md) — a broader claim this one bears on
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — related
 - [Tracking based on lagged student achievement is usually accounted for in value-added models, which is why the falsification test can mislead](lagged-achievement-tracking-accounted-for-in-vams.md) — related
+- [Rothstein (2010) found that standard VAMs imply implausible future-teacher effects on past student achievement](rothstein-implausible-future-teacher-effects.md) — related
+- [The Rothstein falsification test is not definitive in showing bias in VAM teacher effect estimates](rothstein-test-not-definitive-evidence-of-bias.md) — a broader claim this one bears on
+- [The Rothstein test can reject VAMs even when students are randomly assigned conditional on the covariates in the model](rothstein-test-rejects-vams-random-assignment.md) — related
+- [The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased](rothstein-test-rejects-vams-without-bias.md) — a broader claim this one bears on

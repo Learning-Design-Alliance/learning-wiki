@@ -44,6 +44,7 @@ A value-added statistical model designed for the District of Columbia Public Sch
 
 - [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](dc-value-added-assessment-system.md)
 - [Teacher-level value-added model adaptation for identifying high-performing teachers in Memphis](teacher-level-value-added-model-memphis.md)
+- [Value-added models for measuring school and teacher effectiveness in DC Public Schools (IMPACT and TEAM), 2010-2011](dcps-impact-team-value-added-models-2010-2011.md)
 
 ## Examples
 -

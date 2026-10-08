@@ -47,3 +47,4 @@ Scoring-method comparison (Research Report 79-3) scoring achievement test data a
 - [Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items](adaptive-tests-equal-validity-fewer-items.md) — related
 - [The same achievement variable is measurable up to one month after instruction, supporting ICC-based retention measurement](icc-retention-measurement-supported-one-month.md) — related
 - [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](knowledge-of-results-no-effect-achievement-test-dimensionality.md) — related
+- [Successive cohort indicators are subject to false performance gains, and the paper assesses which school evaluation methods provide useful accountability information](successive-cohort-indicators-false-performance-gains.md) — related

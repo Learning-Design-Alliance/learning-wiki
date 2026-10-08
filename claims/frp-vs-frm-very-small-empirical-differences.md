@@ -46,3 +46,4 @@ An empirical comparison of FRM and FRP value-added estimates using District of C
 - [The Full Roster Method effectively counts co-taught students more than once in value-added calculations](frm-counts-cotaught-students-more-than-once.md) — related
 - [The Full Roster-Plus Method gives co-taught students full weight with their teachers while all students contribute equally to the student-characteristics and achievement relationship](frp-equal-contribution-cotaught-students.md) — related
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
+- [The full roster and full roster-plus methods are empirically similar](full-roster-methods-empirically-similar.md) — possibly the same claim (merge candidate)

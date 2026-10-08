@@ -43,6 +43,7 @@ A pilot of teacher and principal evaluation in Pennsylvania, running from 2010 t
 ## Related Elements
 
 - [Value-added models (VAMs) developed and estimated for Phase 1 of the Pennsylvania Teacher and Principal Evaluation Pilot](pennsylvania-pilot-phase1-vam-estimates.md)
+- [Pennsylvania Teacher and Principal Evaluation Pilot (2010-2015), Phase 2 classroom-observation study](pennsylvania-teacher-evaluation-pilot-phase-2.md)
 
 ## Examples
 -

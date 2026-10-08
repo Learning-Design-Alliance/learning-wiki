@@ -39,7 +39,8 @@ The evaluation's implementation findings imply that districts adopting performan
 - Student math and reading achievement
 
 ## Related Strategies
-- 
+
+- [Design pay-for-performance bonuses that are substantial, differentiated, and challenging per TIF guidance](design-challenging-differentiated-performance-bonuses.md)
 
 ## Examples
 -

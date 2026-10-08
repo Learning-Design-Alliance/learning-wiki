@@ -48,3 +48,6 @@ The summary frames the evaluation as "the first high-quality study to rigorously
 - [KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school](kipp-prek-added-reading-benefit-beyond-elementary.md) — a narrower finding that bears on this claim
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
 - [KIPP Pre-K combined with KIPP early elementary school has positive, statistically significant impacts on reading and math achievement after five years](kipp-prek-elementary-five-year-reading-math-impacts.md) — a narrower finding that bears on this claim
+- [The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio](authorizer-type-charter-effectiveness-ohio-study.md) — related
+- [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related
+- [KIPP's Five Pillars strongly influenced the charter school community and traditional public schools](kipp-five-pillars-influenced-charter-sector.md) — related

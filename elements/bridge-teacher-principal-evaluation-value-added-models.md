@@ -40,6 +40,7 @@ The BRIDGE educator evaluation system incorporates value-added models that measu
 
 - [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](dc-value-added-assessment-system.md)
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](pittsburgh-value-added-models-teacher-school-contributions.md)
+- [Charleston County School District BRIDGE multi-dimensional educator evaluation framework](bridge-multidimensional-educator-evaluation-framework-charleston.md)
 
 ## Examples
 -

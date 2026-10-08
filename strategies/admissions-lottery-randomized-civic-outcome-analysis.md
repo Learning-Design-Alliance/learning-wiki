@@ -37,7 +37,9 @@ The report's design strategy is to exploit oversubscribed school admissions lott
 - Measuring effects of schooling on adult civic participation outcomes
 
 ## Related Strategies
-- 
+
+- [Document the lotteries schools of choice conduct and their waiting-list admission procedures](document-lottery-and-waiting-list-procedures.md)
+- [Use school lotteries as a research design for estimating impacts of schools of choice on student outcomes](lotteries-to-estimate-school-impacts.md)
 
 ## Examples
 -

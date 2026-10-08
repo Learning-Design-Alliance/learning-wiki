@@ -48,6 +48,7 @@ Value-added models developed by Mathematica for Pittsburgh Public Schools, commi
 - [Pittsburgh performance-based pay plans for teachers and principals](pittsburgh-performance-based-pay-plans.md)
 - [Teacher-level value-added model adaptation for identifying high-performing teachers in Memphis](teacher-level-value-added-model-memphis.md)
 - [BRIDGE teacher and principal evaluation value-added models](bridge-teacher-principal-evaluation-value-added-models.md)
+- [Pittsburgh Public Schools value-added models using multiple outcome measures](pittsburgh-public-schools-value-added-models.md)
 
 ## Examples
 -

@@ -40,6 +40,9 @@ The brief's approach is to supply recommendations and strategies aimed at specif
 
 - [Provide strategies and supports for improving automated writing feedback tools to meet teacher and student needs](strategies-improving-automated-feedback-tools.md)
 - [Offer full-group or small-group follow-up sessions for staff needing aid in implementing the learning system model](follow-up-sessions-for-model-implementation-aid.md)
+- [Offer data-use recommendations and strategies targeted to state officials, district-level staff, and system developers](data-use-recommendations-for-state-district-system-developers.md)
+- [Increase the supply of high quality systematic reviews so decision makers have more useful evidence summaries](increase-supply-of-high-quality-systematic-reviews.md)
+- [Target data-system guidance separately to state officials, district-level staff, and system developers](target-data-guidance-by-role.md)
 
 ## Examples
 -

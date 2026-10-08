@@ -49,3 +49,4 @@ Comparative analysis of specification choices in a northern state dataset. The a
 - [Up to 26% of teachers in the bottom value-added quintile under one specification are ranked higher under another specification](vam-bottom-quintile-reclassification-26-percent.md) — related
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails](specification-differences-small-tail-changes.md) — related
+- [The Pittsburgh VAMs incorporate course-specific assessments, attendance, and course completion alongside state assessments](pittsburgh-vams-use-multiple-outcome-measures.md) — related

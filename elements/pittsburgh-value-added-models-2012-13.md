@@ -45,6 +45,7 @@ Mathematica developed value-added models for Pittsburgh Public Schools that "aim
 
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](pittsburgh-value-added-models-teacher-school-contributions.md)
 - [Pittsburgh performance-based pay plans for teachers and principals](pittsburgh-performance-based-pay-plans.md)
+- [Pittsburgh Public Schools value-added models using multiple outcome measures](pittsburgh-public-schools-value-added-models.md)
 
 ## Examples
 -

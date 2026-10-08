@@ -45,3 +45,4 @@ The Floyd County study (Wolf et al., 2020) gathered teacher surveys, principal i
 ## Related Claims
 - [Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced](lli-teacher-perceptions-positive-with-pacing-concerns.md) — related
 - [Principals, site coordinators, and teachers reported strongly positive reactions to the program](lightning-squad-stakeholder-survey-positive.md) — related
+- [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related

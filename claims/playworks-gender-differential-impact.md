@@ -48,3 +48,6 @@ Summary finding of the 29-school randomized evaluation, in which impacts were es
 - [Girls in Playworks schools were less likely to be sedentary and more likely to engage in jumping, tag, and playground games during recess](playworks-girls-recess-activity-types.md) — a narrower finding that bears on this claim
 - [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](playworks-rct-more-vigorous-recess-activity.md) — related
 - [Increases in the percentage of students in the Harlem Fitness Zone were generally larger for boys than for girls](healthy-harlem-hfz-gains-larger-for-boys.md) — related
+- [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — related
+- [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related
+- [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related

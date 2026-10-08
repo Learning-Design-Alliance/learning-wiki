@@ -50,6 +50,7 @@ The brief defines value added as a way of quantifying teaching quality: "'Value 
 ## Examples
 
 - [Four principal performance measures based on student test scores](../elements/four-test-score-principal-performance-measures.md)
+- [Summarize emerging value-added evidence in practitioner-accessible briefs](../strategies/summarize-value-added-evidence-for-practitioners.md)
 
 ## Key Sources
 - Jeffrey Max, Steven Glazerman. (2014). Do Disadvantaged Students Get Less Effective Teaching? Key Findings from Recent Institute of Education Sciences Studies (Evaluation Brief). Washington, DC: Institute of Education Sciences. https://ies.ed.gov/ncee/

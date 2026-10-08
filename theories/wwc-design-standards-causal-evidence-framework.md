@@ -47,7 +47,8 @@ The What Works Clearinghouse (WWC), established in 2002 by the U.S. Department o
 - [WWC effectiveness rating framework for intervention evidence](wwc-effectiveness-rating-framework.md)
 
 ## Examples
--
+
+- [Increase the supply of high quality systematic reviews so decision makers have more useful evidence summaries](../strategies/increase-supply-of-high-quality-systematic-reviews.md)
 
 ## Key Sources
 - Neil Seftor. (2017). Raising the Bar. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/raising-the-bar

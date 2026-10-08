@@ -47,3 +47,4 @@ Descriptive statement from the report's summary page: the publication documents 
 - [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](charter-consortium-effective-school-identification-method.md) — related
 - [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](dc-value-added-report-design-features.md) — related
 - [Value-added models were developed to estimate teachers' and schools' contributions to student achievement in Pittsburgh Public Schools](pittsburgh-vam-teacher-school-effectiveness-estimates.md) — related
+- [The Pittsburgh VAMs incorporate course-specific assessments, attendance, and course completion alongside state assessments](pittsburgh-vams-use-multiple-outcome-measures.md) — related

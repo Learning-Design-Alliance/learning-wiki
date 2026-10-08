@@ -47,3 +47,4 @@ The issue brief reports the delivery of value-added results to Oklahoma educator
 - [The value-added models used for Oklahoma's spring 2016 results were updated relative to prior years](value-added-model-updates-spring-2016.md) — related
 - [Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year](pittsburgh-vam-report-2016-documents-district-use.md) — related
 - [Oklahoma's 2013-2014 teacher value-added estimates combined test scores with other information about teachers and students](oklahoma-value-added-uses-test-scores-and-other-information.md) — related
+- [Oklahoma's Pilot Teacher and Leader Evaluation System used a value-added model to estimate teacher and school effectiveness for 2012-2013 instruction](oklahoma-pilot-evaluation-value-added-model-2012-13.md) — related

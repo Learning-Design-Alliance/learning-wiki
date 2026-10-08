@@ -45,3 +45,5 @@ This is an author estimate reported in the brief, stating one-year teaching-effe
 ## Related Claims
 - [Missouri's Teacher Career Ladder program has at most a very small positive effect on student test scores](career-ladder-missouri-small-or-no-achievement-effect.md) — related
 - [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](teaching-disparity-weeks-of-learning.md) — related
+- [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](access-effective-teaching-varies-across-districts.md) — related
+- [The teaching-effectiveness disparity represents a small share of the overall achievement gap for disadvantaged students](teaching-effectiveness-disparity-small-share-of-achievement-gap.md) — possibly the same claim (merge candidate)
