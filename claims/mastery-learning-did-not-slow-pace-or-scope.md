@@ -44,3 +44,4 @@ Teacher self-reports at semester's end indicated the same amount of material was
 
 ## Related Claims
 - [Trained teachers reallocated time unevenly: significantly more to presenting/developing lessons and quizzes, less to homework review, independent practice, and transitions](time-reallocated-across-instructional-functions.md) — related
+- [School mobility, especially frequent within-year moves, slows instructional pacing in schools with many mobile students](student-mobility-slows-instructional-pacing.md) — related

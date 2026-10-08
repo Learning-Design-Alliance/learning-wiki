@@ -44,9 +44,11 @@ This paradigm organizes design guidance around three recurring dilemmas, each wi
 - (none directly authored by this synthesis paper — its evidentiary weight comes from the empirical studies it draws design implications from; see linked patterns below)
 
 ## Related Theories
+
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md) — both treat tools, artifacts, and institutional context as constitutive of learning rather than as a backdrop to individual cognition; this paradigm is specific to interdisciplinary integration
 - [Boundary Crossing Learning](boundary-crossing-learning.md) — a complementary lens for the interpersonal/institutional-boundary aspects of the content and organization dilemmas
 - [Knowledge Objects and Knowledge Practices](knowledge-objects-and-knowledge-practices.md) — offers a more fine-grained account of the artifacts this paradigm treats as central to the pedagogy dilemma
+- [Critique of dominant research paradigms in mathematics learning and a shift toward interdisciplinary, asset-based approaches](interdisciplinary-asset-based-mathematics-research-paradigms.md)
 
 ## Examples
 - [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — a "human capital" content-dilemma response, using students' own disciplinary networks instead of pre-designed disciplinary content

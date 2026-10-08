@@ -52,3 +52,5 @@ Course-failure analysis of ninth-grade records for 36,423 CPS students. Average 
 - [Students who fail Algebra I more often enter ninth grade with preexisting math and reading deficits, though many enter with average or higher achievement](algebra-failure-linked-to-incoming-academic-deficits.md) — related
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related
 - [Students who fail algebra are significantly less likely to graduate on time, and algebra failure rates are consistently high in urban districts](algebra-failure-graduation-risk.md) — related
+- [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related
+- [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related

@@ -48,3 +48,4 @@ Authors' interpretive conclusion drawn from the study's pattern of gradual eleme
 - [High schools that underwent reform showed no significant improvement in absence rates or ninth-grade on-track rates compared with matched schools](chicago-turnaround-high-schools-no-significant-gains.md) — related
 - [Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students](turnaround-student-composition-stable-except-restart.md) — related
 - [Six of seven recently reformed high schools showed first-year on-track improvements above comparison schools, though evidence is limited](recent-high-school-turnarounds-on-track-improvement.md) — related
+- [Race is influential but not determinative in school change: it slows and complicates reform without dictating outcomes](race-influential-not-determinative.md) — related

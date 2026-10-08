@@ -42,7 +42,8 @@ The article synthesizes decolonial theory, which situates AI within histories of
 - [Integrity Equity Concerns Span All Units](../claims/integrity-equity-concerns-span-all-units.md) [+M]
 
 ## Related Theories
-- 
+
+- [Integration of decolonial, socioecological, translingual, trauma-informed, and community-engaged praxis across the handbook](decolonial-socioecological-translingual-trauma-informed-community-engaged-praxis.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ The UChicago Consortium's 2010 book-length research on public elementary schools
 - [Schools strong in the essential supports are more likely to improve student learning over time](essential-supports-strong-schools-improve-learning.md) — a broader claim this one bears on
 - [Chicago elementary schools strong in most essential supports were at least ten times more likely than weak-support schools to show substantial gains in both reading and mathematics](strong-essential-supports-ten-times-more-likely-substantial-gains.md) — possibly the same claim (merge candidate)
 - [Schools weak in most essential supports were four to five times more likely to stagnate than schools with strong overall organizational capacity](weak-essential-supports-four-to-five-times-stagnation.md) — related
+- [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — a broader claim this one bears on

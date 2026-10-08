@@ -49,3 +49,4 @@ The paper's stated purpose, per its abstract, is to assess which test-score-base
 - [TEP's achievement impacts were consistently positive across subjects and cohorts through 2012-2013, with especially large effects in math](tep-impacts-consistently-positive-math-largest.md) — related
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
 - [Standardized tests measure only part of what teachers expect students to learn and are not taken in all subjects](standardized-tests-partial-information-learning.md) — related
+- [Standardized test proficiency provides biased information about school quality, indicating a need for alternative metrics](standardized-tests-biased-school-quality.md) — related

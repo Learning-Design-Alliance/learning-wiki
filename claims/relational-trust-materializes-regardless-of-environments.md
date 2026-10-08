@@ -48,3 +48,6 @@ Authors' interpretive summary of the cross-national comparison between Valparaí
 - [School size and student socioeconomic status conditioned trust levels differently in the two contexts](school-size-ses-condition-trust-differently.md) — related
 - [Teacher-parent trust was much lower in Valparaíso than in Illinois](teacher-parent-trust-lower-valparaiso.md) — a narrower finding that bears on this claim
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
+- [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related
+- [In schools characterized by high relational trust, educators were more likely to experiment with new practices and work together with parents to advance improvements](high-relational-trust-educators-experiment-and-partner-with-parents.md) — related
+- [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related

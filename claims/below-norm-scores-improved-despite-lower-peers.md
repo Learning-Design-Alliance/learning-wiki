@@ -54,3 +54,4 @@ Regression models for below-norm students in the same cohort design. "The coeffi
 - [Double-dose algebra improved test scores but did not reduce algebra failure rates](double-dose-did-not-improve-failure-rates.md) — related
 - [Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined](double-dose-effects-vary-by-initial-ability.md) — related
 - [Double-dose algebra substantially increased interactive pedagogy for low-skill students (.55 SD, p<.001), unexplained by classroom compositional changes](double-dose-increased-interactive-pedagogy-low-skill.md) — related
+- [Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related

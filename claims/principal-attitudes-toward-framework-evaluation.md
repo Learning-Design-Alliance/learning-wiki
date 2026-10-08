@@ -48,3 +48,4 @@ Interview and survey data from 39 principal interviews in the year-one qualitati
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — related
 - [Over half of principals were highly engaged in the new evaluation system, while disengaged principals cited its labor intensity amid simultaneous district initiatives](principal-engagement-labor-intensity.md) — related
 - [In one case-study school, a principal's lack of Framework knowledge and inability to rate practice led teachers to perceive the new evaluation as subjective, undermining buy-in](principal-framework-knowledge-subjectivity-perception.md) — related
+- [The buy-in typology was derived from 39 interviewed principals, whose evaluation attitudes in the table are described as mostly positive](eit-39-principals-mostly-positive-attitudes.md) — related

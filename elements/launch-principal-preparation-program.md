@@ -48,6 +48,7 @@ LAUNCH (Leadership and Urban Network for Chicago), begun in 1998, is a professio
 ## Related Elements
 
 - [New Leaders for New Schools principal training program](nlns-principal-training-program.md)
+- [LAUNCH principal development program (Leadership and Urban Network for Chicago)](launch-principal-development-program.md)
 
 ## Examples
 -

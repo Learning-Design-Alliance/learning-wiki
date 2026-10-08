@@ -48,3 +48,4 @@ Analysis of student outcomes at age 19 across cohorts (Figure 3, Table 1). The s
 - [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related
 - [Chicago high school graduation rates improved dramatically over 20 years without a decline in average high school academic performance](cps-graduation-rates-improved-without-performance-decline.md) — related
 - [High school stability improvements in CPS were largely driven by declining dropout rates, which fell from 7.1 percent to 3.2 percent during the school year between 1995 and 2006](hs-stability-driven-by-dropout-decline.md) — related
+- [Chicago Public Schools dropout rates remained high, with over 40 percent of students dropping out by age 19](cps-dropout-over-40-percent-by-19.md) — related

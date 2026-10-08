@@ -45,3 +45,4 @@ The overview identifies inclusive school leadership as a critical element of the
 ## Related Claims
 - [Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond](decentralization-accountability-sorting-mechanisms-school-capacity.md) — related
 - [An innovation and improvement space in local school communities brought forward new leaders](local-innovation-space-new-leaders.md) — related
+- [Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear](six-restructuring-schools-case-findings.md) — related

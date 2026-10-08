@@ -48,3 +48,5 @@ Consortium analysis of CPS cohort data reports that in 2005, 40 percent of first
 - [Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures](non-core-failures-graduation-risk.md) — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students](ell-ontrack-35-times-more-likely-graduate.md) — a narrower finding that bears on this claim
+- [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — possibly the same claim (merge candidate)
+- [The report treats freshman on-track status as an early indicator correlated with later graduation and dropout](freshman-on-track-early-indicator-kenwood.md) — a broader claim this one bears on

@@ -42,6 +42,8 @@ The report recommends using its profiles to "stimulate discussion among your sch
 ## Related Strategies
 
 - [Use individualized survey reports disaggregated by student type to target AVID program improvement areas](avid-survey-report-target-improvement-strategy.md)
+- [Distribute report review across staff committees to streamline school self-analysis](distribute-report-review-across-staff-committees.md)
+- [Return individual school survey profiles to stimulate local school improvement discussions](school-profiles-for-local-improvement-discussions.md)
 
 ## Examples
 -

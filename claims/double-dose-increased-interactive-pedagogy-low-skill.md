@@ -46,3 +46,5 @@ Survey-based Rasch measures of interactive pedagogy in the cross-cohort disconti
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](double-dose-algebra-increased-academic-demand-both-groups.md) — related
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — possibly the same claim (merge candidate)
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
+- [Interactive instruction is more common in classrooms with higher prior achievement; didactic and review are more common in lower-achieving classrooms](instruction-varies-by-class-achievement-composition.md) — related
+- [Teachers with more professional preparation use interactive instruction more often](teacher-preparation-associated-interactive-instruction.md) — related

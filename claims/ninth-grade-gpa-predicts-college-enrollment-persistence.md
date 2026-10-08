@@ -46,3 +46,4 @@ Analysis of CPS records linked to National Student Clearinghouse data (2008-10 c
 - [Freshman GPA is highly stable, correlating 0.87 with eleventh-grade GPA](freshman-gpa-stable-through-eleventh-grade.md) — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative](nlci-high-school-outcomes-lower-than-similar-students.md) — related
+- [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related

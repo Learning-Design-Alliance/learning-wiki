@@ -93,3 +93,4 @@ A review and meta-analysis of the seductive-detail literature. The effect held o
 - [Multimedia learning improves outcomes when aligned with cognitive theory](multimedia-principle-improves-learning.md) — the broader Mayer framework in which coherence is one principle
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — a broader claim this one bears on
+- [Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation](coherence-theory-student-learning-motivation.md) — related

@@ -48,7 +48,8 @@ The report evaluates The Chicago Public Education Fund's theory of action, which
 - [NBCTs report holding school leadership positions at higher rates than other teachers (50% vs 32%)](../claims/nbcts-assume-leadership-roles-more.md) [+W]
 
 ## Related Theories
-- 
+
+- [Support-and-pressure principal leadership framework for productive school improvement](support-and-pressure-principal-leadership-framework.md)
 
 ## Examples
 -

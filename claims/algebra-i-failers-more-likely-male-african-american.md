@@ -48,3 +48,4 @@ Descriptive comparison of CPS administrative records for first-time ninth grader
 - [Students who fail Algebra I more often enter ninth grade with preexisting math and reading deficits, though many enter with average or higher achievement](algebra-failure-linked-to-incoming-academic-deficits.md) — related
 - [On-track gains were largest for students with the lowest incoming skills and for African American males](on-track-gains-largest-for-lowest-skills-and-black-males.md) — related
 - [Before expanded options, only 13% of CPS freshmen who failed spring Algebra I recovered the credit over the summer](low-summer-algebra-credit-recovery-rate-before-study.md) — related
+- [Ninth grade truancy rates do not differ much by gender, undercutting the hypothesis that gang activity primarily drives absenteeism](truancy-rates-similar-by-gender.md) — related

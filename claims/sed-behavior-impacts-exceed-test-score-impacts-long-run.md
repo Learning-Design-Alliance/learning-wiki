@@ -47,3 +47,4 @@ The study reports that fostering socioemotional development most strongly influe
 - [School quality measures that exclude schools' impacts on socioemotional development underestimate or misidentify many impactful schools](quality-metrics-excluding-sed-misidentify-impactful-schools.md) — related
 - [Fostering socioemotional development and fostering test score growth had nearly identical impacts on 9th grade test scores](sed-growth-nearly-identical-impact-ninth-grade-test-scores.md) — related
 - [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
+- [School and teacher effects on students' school experiences influence social and educational trajectories more than their effects on academic achievement measures](school-experience-effects-outweigh-achievement-effects.md) — possibly the same claim (merge candidate)

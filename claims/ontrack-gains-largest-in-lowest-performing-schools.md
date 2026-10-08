@@ -51,3 +51,6 @@ Figure 4 analysis comparing 2005 and 2013 on-track rates by school performance q
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [CPS Freshman OnTrack rates rose 24 percentage points, from 64 percent for the Class of 2006 to 88 percent for the Class of 2019](cps-freshman-ontrack-rose-24-points.md) — a broader claim this one bears on
 - [Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups](cps-on-track-rate-rose-25-points-districtwide.md) — related
+- [On-track rates after ninth grade rose from 42.2 to 50.6 percent, with slightly less than half the adjusted improvement attributable to better-prepared entering students](chicago-on-track-rates-rose-half-beyond-composition.md) — related
+- [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related
+- [Citywide freshman on-track rates improved from 48 to 58 percent over a decade, with declines tied to increased course-taking](on-track-rate-citywide-trends.md) — related

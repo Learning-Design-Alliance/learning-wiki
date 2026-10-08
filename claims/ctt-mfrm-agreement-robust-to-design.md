@@ -46,3 +46,4 @@ Authors' discussion-level inference combining this crossed-design study with the
 - [CTT and MFRM yield a positive, perfect correlation between item difficulty indices for open-ended items under a crossed design](ctt-mfrm-difficulty-indices-perfect-correlation-open-ended.md) — a narrower finding that bears on this claim
 - [Items ranked from easiest to most difficult are identical under CTT and MFRM](identical-item-difficulty-ranking-ctt-mfrm.md) — a narrower finding that bears on this claim
 - [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — related
+- [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](rasch-adjustment-of-scorer-severity.md) — related

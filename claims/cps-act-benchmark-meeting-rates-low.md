@@ -46,3 +46,4 @@ Descriptive tabulation of 2005 CPS junior ACT subject scores against ACT college
 - [CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected](act-scores-below-student-expectations.md) — related
 - [CHSRI juniors' ACT scores were no different from similar students' and remained well below college readiness benchmarks](chsri-act-scores-no-different-low.md) — related
 - [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
+- [CPS students met or exceeded PSAE standards at about half the Illinois rate, with science the weakest subject](cps-psae-proficiency-half-of-illinois-science-weakest.md) — related

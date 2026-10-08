@@ -45,3 +45,5 @@ Trend analysis of student computer use at home and at school by school racial co
 ## Related Claims
 - [School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities](improvement-rates-vary-community-racial-composition.md) — reports the opposite
 - [NBCTs are more likely than other teachers to work in magnet schools and less likely to work in the poorest and predominantly African American schools](nbcts-disproportionately-magnet-schools.md) — related
+- [A digital divide exists in Chicago students' home technology use, but schools do not strongly magnify it along racial or income lines](digital-divide-home-not-magnified-by-schools.md) — related
+- [Grow use is consistently greater in predominantly African-American schools across Chicago](greater-grow-use-african-american-schools.md) — related

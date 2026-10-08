@@ -47,3 +47,4 @@ District-wide surveys of Chicago principals and teachers during the first year o
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — related
 - [Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching](reach-observation-process-reflection-and-feedback-use.md) — a narrower finding that bears on this claim
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — related
+- [Teachers report very high self-perceived competence and efficacy that are virtually unrelated to their schools' prior achievement levels](teacher-competency-efficacy-unrelated-achievement.md) — related

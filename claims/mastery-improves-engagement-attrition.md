@@ -67,3 +67,4 @@ Both findings come from one conference-paper synthesis (Guskey & Gates 1985). Th
 - [Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate](group-mastery-positive-achievement-all-studies.md) — related
 - [Mastery learning sections show higher earned credit rates than comparable non-mastery sections at the City Colleges of Chicago](mastery-learning-higher-earned-credit-rates.md) — related
 - [Group-based mastery learning improves retention of learned material, with an average effect size of .62 across four studies](mastery-improves-retention.md) — related
+- [Non-instructional time averages 23 percent in observed Chicago elementary classrooms, with half of teachers at 14 percent and half at 30 percent](non-instructional-time-23-percent-teacher-split.md) — related

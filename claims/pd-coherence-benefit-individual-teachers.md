@@ -45,3 +45,4 @@ Within-school comparison of teachers in the Chicago high school study found diff
 ## Related Claims
 - [Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices](ccss-pd-impact-on-teaching-practices-elementary-more.md) — related
 - [Teacher-Principal Trust improved only marginally significantly, and Student-Teacher Trust, Program Coherence, Quality Professional Development, and Teacher-Parent Trust showed no significant differential change](coc-other-climate-measures-null.md) — related
+- [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — related

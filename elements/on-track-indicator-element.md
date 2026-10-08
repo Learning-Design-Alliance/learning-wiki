@@ -37,7 +37,8 @@ The on-track indicator, developed by UChicago CCSR in the late 1990s, is "a simp
 - High school graduation and course success in the ninth-grade transition
 
 ## Related Elements
-- 
+
+- [The on-track indicator as a first-year high school achievement measure](on-track-indicator-measure.md)
 
 ## Examples
 -

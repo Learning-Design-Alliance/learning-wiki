@@ -46,3 +46,4 @@ Interview study across 7 CPS schools found "Teachers repeatedly lamented that th
 - [Colleagues were the most cited influential resource supporting instructional improvement efforts across seven Chicago schools](colleagues-most-cited-resource-instructional-improvement.md) — related
 - [Schools with stronger Instructional Improvement Support Systems supported teacher improvement regardless of whether efforts originated from evaluation data or elsewhere](stronger-iiss-supports-improvement-regardless-of-origin.md) — related
 - [A standing committee structure sustains middle school change despite personnel turnover](committee-structure-sustains-change-despite-turnover.md) — related
+- [CPS currently lacks internal capacity to conduct substantial research, evaluation, or systematic use of data to improve teaching and learning](cps-lacks-capacity-to-use-data-for-improvement.md) — related

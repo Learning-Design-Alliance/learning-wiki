@@ -41,6 +41,7 @@ The brief recommends that interventions for students who fail Algebra I extend b
 - [Culturally Responsive Teaching](culturally_responsive_teaching.md)
 - [Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress](early-warning-data-and-credit-recovery-strategy.md)
 - [Couple subject-area curriculum reforms with comprehensive strategies to improve attendance and academic behaviors](couple-curriculum-reform-with-academic-behavior-strategies.md)
+- [Use course-failure data to prompt school self-evaluation and targeted intervention before students' second year](on-track-data-school-self-evaluation-strategy.md)
 
 ## Examples
 -

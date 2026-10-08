@@ -49,3 +49,4 @@ The project report's rationale section asserts this as established by research o
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a narrower finding that bears on this claim
 - [A meta-analysis of 352 studies found achievement was higher for students engaged in cooperative learning than in competitive or individualistic learning](cooperative-learning-higher-achievement-than-competitive-individualistic.md) — a narrower finding that bears on this claim
+- [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related

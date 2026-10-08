@@ -46,7 +46,9 @@ The article builds on a hypothesized model (Farrington et al., 2012, Figure 1) i
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [~M]
 
 ## Related Theories
-- 
+
+- [Five-category taxonomy of noncognitive factors related to academic performance](farrington-five-noncognitive-factor-categories.md)
+- [Hypothesized model of noncognitive factors acting through behaviors within classroom and socio-cultural context](noncognitive-factors-hypothesized-model.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ HLM analysis of student survey trends found Academic Personalism "improved for C
 - [Teacher-Principal Trust improved only marginally significantly, and Student-Teacher Trust, Program Coherence, Quality Professional Development, and Teacher-Parent Trust showed no significant differential change](coc-other-climate-measures-null.md) — related
 - [Pilot CoC schools did not improve faster than non-pilot CoC schools or non-CoC schools on any measure](coc-pilot-schools-no-differential-improvement.md) — related
 - [Time constraints, student attendance, and slow central-office approval of Statements of Work were the major implementation barriers reported by coordinators, principals, and vendors](coc-implementation-barriers-time-attendance-sow.md) — related
+- [The 1997 Design for High Schools was intended to spur change in Chicago high schools by increasing both academic press and personalism](design-for-high-schools-academic-press-personalism.md) — related

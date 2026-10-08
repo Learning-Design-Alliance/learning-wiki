@@ -67,3 +67,5 @@ Re-analysis of Era 2 score distributions reported in Chapter 2. The widespread b
 - [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — a broader claim this one bears on
 - [ISAT scores are not comparable over time: students with identical earlier and later test scores earned different seventh-grade ISAT scores depending on the year tested](isat-scores-noncomparable-over-time.md) — related
 - [The merit award program produced modest achievement improvements concentrated in schools close to the award threshold](merit-award-modest-gains-near-threshold.md) — related
+- [ISAT cut scores differ by grade and subject, with eighth-grade mathematics requiring a high score and eighth-grade reading a relatively low one to meet standards](isat-cut-scores-vary-grade-subject.md) — related
+- [One-to-one correspondence between ITBS national quartiles and ISAT performance categories breaks down at the first and fourth quartiles](quartile-category-correspondence-breaks-extremes.md) — related

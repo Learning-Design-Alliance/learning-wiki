@@ -51,3 +51,4 @@ Descriptive statistics in the brief state that "More than half of Chicago freshm
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](freshman-attendance-predicts-graduation-independent-of-gpa.md) — related
 - [Student performance declines from freshman to sophomore year, with course failures rising in every subject and attendance declining sharply](performance-declines-freshman-to-sophomore.md) — related
 - [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related
+- [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related

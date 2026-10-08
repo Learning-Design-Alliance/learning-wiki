@@ -80,3 +80,10 @@ Citing prior Consortium research, the report states that predicting ninth-grade 
 - [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related
 - [Displaced students' freshman on-track-to-graduate rates did not differ from comparison students, regardless of their grade at closing](no-effect-high-school-on-track-rates.md) — related
 - [The freshman on-track indicator predicts five-year graduation equally or more strongly for students with disabilities than for students without disabilities, with on-track students two to six times more likely to graduate](on-track-predicts-graduation-students-with-disabilities.md) — a narrower finding that bears on this claim
+- [On-track status predicts graduation better than eighth-grade test scores](on-track-better-predictor-than-eighth-grade-tests.md) — possibly the same claim (merge candidate)
+- [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related
+- [The on-track indicator is strongly related to students' likelihood of graduating](on-track-indicator-related-to-graduation-likelihood.md) — possibly the same claim (merge candidate)
+- [The on-track–graduation relationship remains strong after accounting for student background characteristics](on-track-relationship-holds-after-background-controls.md) — possibly the same claim (merge candidate)
+- [Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness](attendance-effort-drive-grades-graduation.md) — related
+- [The report treats freshman on-track status as an early indicator correlated with later graduation and dropout](freshman-on-track-early-indicator-kenwood.md) — a broader claim this one bears on
+- [Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out](on-track-early-indicator-graduation.md) — a broader claim this one bears on

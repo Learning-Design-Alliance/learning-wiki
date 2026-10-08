@@ -62,6 +62,7 @@ Relational trust between teachers, students, and families is a strong correlate 
 - [Building Empathy](../principles/building-empathy.md) — the teacher disposition that makes communication feel genuine rather than procedural
 - [Community of Inquiry](../principles/community-of-inquiry.md) — extends trust into the social presence needed for productive online and classroom discourse
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
+- [Align teachers, families, and staff around a shared vision to build trust and momentum](align-staff-families-shared-vision-trust.md)
 
 ## Examples
 - **Positive texting campaigns** — In randomized studies, teachers sending brief individualized texts to families about student progress improved homework completion and engagement (Kraft & Dougherty, 2013).

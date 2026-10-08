@@ -45,3 +45,4 @@ The authors' interpretive report (type e) from their year-long implementation in
 ## Related Claims
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
+- [Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation](coherence-theory-student-learning-motivation.md) — a broader claim this one bears on

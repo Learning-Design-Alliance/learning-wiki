@@ -45,3 +45,5 @@ HLM variance decomposition for high schools (Figure 12; Table C.3), showing unex
 ## Related Claims
 - [Teacher characteristics from the will-skill-tool model — data literacy, availability of data technologies, and positive beliefs — predict teachers' pedagogical use of digital data, with data literacy the strongest predictor](wst-characteristics-predict-teacher-digital-data-use.md) — related
 - [School-related factors influence teachers' digital data use only indirectly, mediated by teacher will-skill-tool characteristics, in a model explaining 50% of variance](school-factors-mediated-by-teacher-characteristics.md) — related
+- [Computer availability explains almost half of between-school differences in student computer use, with the strongest relationship in schools with insufficient access](availability-explains-school-variance-student-use.md) — related
+- [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related

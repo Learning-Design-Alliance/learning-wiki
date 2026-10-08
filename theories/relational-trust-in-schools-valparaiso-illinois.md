@@ -47,7 +47,9 @@ Relational trust is the construct the article uses to organize trust relationshi
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](../claims/rpp-adaptive-practices-sustain-partnerships-during-disruption.md) [+W]
 
 ## Related Theories
-- 
+
+- [Role relational specificity: trust in schooling operates through asymmetric role relations among teachers, principals, and parents](role-relational-specificity-three-relations.md)
+- [Research-practice partnership model treating research as public, relational, and adaptive infrastructure](rpp-research-as-adaptive-infrastructure.md)
 
 ## Examples
 -

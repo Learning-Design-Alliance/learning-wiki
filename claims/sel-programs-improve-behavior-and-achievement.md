@@ -163,3 +163,4 @@ Open questions include the durability of achievement effects after programs end,
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — reports the opposite
 - [Students reported improved school-work priorities, peer academic behavior, teacher connection and support, and school connectedness after two years](success-project-survey-climate-improvements.md) — related
 - [School Supports Including Academic Press, Social Support, and Instructional Program Coherence Relate to Achievement](school-supports-relate-to-achievement.md) — related
+- [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — related

@@ -47,3 +47,4 @@ Descriptive analysis of fourth-quarter course grades for grades 4-8 students in 
 - [Students in grades 4-8 were much more likely to receive no-credit grades during remote learning, with 41 percent receiving at least one Incomplete in spring 2020](cps-grades-4-8-no-credit-incompletes-spring-2020.md) — related
 - [No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations](cps-school-level-variation-nocredit-rates.md) — related
 - [Remote learning exacerbated pre-pandemic disparities in no-credit grades for low-income students and students of color in grades 4-8, but within-school differences were small](cps-nocredit-disparities-exacerbated-remote-learning.md) — related
+- [Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal](grades-rose-tests-attendance-fell.md) — reports the opposite

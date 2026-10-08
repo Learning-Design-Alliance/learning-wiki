@@ -42,6 +42,8 @@ In spring 2007 CCSR surveyed all Chicago Public School teachers, principals, and
 ## Related Elements
 
 - [2007 CPS AVID student and teacher survey with individualized school reports](avid-cps-2007-student-survey-report.md)
+- [Consortium school survey report system with 53 measures, demographic comparison groups, and time trends](ccsr-school-survey-report-measure-system.md)
+- [Improving Chicago's Schools biannual survey and individualized confidential school reports](improving-chicago-schools-survey-reports.md)
 
 ## Examples
 

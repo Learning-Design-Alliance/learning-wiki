@@ -51,3 +51,10 @@ Observational analysis of CPS administrative data (2009-11 cohorts) using models
 - [The first two semester course failures in ninth grade are associated with a 30 percentage point decrease in the probability of graduating](first-two-course-failures-30-point-graduation-decrease.md) — related
 - [Ninth-grade GPA predicts beginning-of-tenth-grade PLAN scores even after controlling for eighth-grade test scores, suggesting grades reflect new learning](ninth-grade-gpa-predicts-plan-scores.md) — related
 - [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related
+- [Core-course failures in freshman year strongly predict non-graduation, similarly across subjects](core-course-failures-predict-non-graduation.md) — related
+- [First-year performance is treated as important enough that graduates are attributed to their first-enrolled high school](first-year-performance-graduate-attribution.md) — related
+- [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
+- [On-track status predicts graduation better than eighth-grade test scores](on-track-better-predictor-than-eighth-grade-tests.md) — related
+- [The on-track indicator is strongly related to students' likelihood of graduating](on-track-indicator-related-to-graduation-likelihood.md) — related
+- [Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness](attendance-effort-drive-grades-graduation.md) — related
+- [Among students with the same ACT scores (21-23), college graduation rates are 77 percent for those with a high school GPA of 3.5 or higher versus 40 percent for those with a GPA of 2.0-2.4](gpa-outpredicts-act-college-graduation.md) — related

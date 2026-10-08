@@ -45,7 +45,8 @@ The report proposes an explanatory account of how the three key conditions work 
 - [High school principals influence student achievement most strongly through school culture and climate](../claims/principal-leadership-strongest-through-school-climate.md) [+M]
 
 ## Related Theories
-- 
+
+- [Instructional program coherence framework: common framework, supportive working conditions, and strategic resource allocation](instructional-program-coherence-framework.md)
 
 ## Examples
 

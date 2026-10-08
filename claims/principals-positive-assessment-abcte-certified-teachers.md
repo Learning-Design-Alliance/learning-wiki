@@ -45,3 +45,4 @@ Survey of supervisors conducted as part of Mathematica's five-year evaluation of
 ## Related Claims
 - [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](passport-to-teaching-evaluation-student-achievement.md) — related
 - [Administrators gave a cautious assessment of the ABCTE Passport to Teaching program that certified the teachers](principals-cautious-assessment-abcte-program.md) — related
+- [Principals rated board-certified teachers higher than other experienced teachers on seven competence areas, most often 'extraordinary'](principals-rate-nbcts-extraordinary-on-competence.md) — related

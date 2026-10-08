@@ -49,3 +49,4 @@ Cross-case qualitative finding (RQ1-3) from documents, interviews, and walkthrou
 - [Active participation and commitment of teaching staff were essential for successful CA-supported LO assessment, fostered by clear actionable data and institutional support](faculty-engagement-essential-for-ca-assessment-success.md) — related
 - [Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness](governance-integration-enhances-ca-decision-making.md) — related
 - [Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement](ri-charter-dashboards-reduced-surprise-stress.md) — related
+- [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related

@@ -44,3 +44,4 @@ This is a second-hand finding reported in the article's discussion of weaponizat
 
 ## Related Claims
 - [The survey reports, citing Lu et al., that xAI-based interpretations of deep knowledge tracing were demonstrated to aid in enhancing the trust of students and teachers.](xai-interpretation-of-dkt-enhances-trust.md) — related
+- [Mathematics education acts as a gatekeeper to academic opportunity that disproportionately affects students from historically marginalized communities](mathematics-education-gatekeeper-marginalized-students.md) — related

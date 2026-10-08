@@ -66,3 +66,7 @@ Documented analysis of ISAT cut-score changes in Chapter 2: the correct-answer t
 - [Ninth-grade GPA predicts beginning-of-tenth-grade PLAN scores even after controlling for eighth-grade test scores, suggesting grades reflect new learning](ninth-grade-gpa-predicts-plan-scores.md) — related
 - [Percent meeting standards is an imprecise metric whose cut-score concentration produced the Era 2 misconception that Chicago taught basic skills better than high-level skills](percent-meeting-standards-imprecise-metric.md) — related
 - [Most RSF-supported Cohort 1 schools increased the percentage of students meeting or exceeding ISAT standards from year 1 to year 2](rsf-cohort1-increased-standards-passing-rates.md) — related
+- [In fifth-grade reading, ITBS scores declined significantly more than ISAT scores from 1999 to 2002](fifth-grade-reading-itbs-greater-decline-than-isat.md) — related
+- [Districts' most frequent suggestions for improving ISAT are stability and consistency and faster turnaround, each urged by about one-quarter of districts](isat-improvement-stability-turnaround.md) — related
+- [ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting](itbs-tested-but-excluded-isat-reports-all.md) — related
+- [Test preparation demands slow instruction, with the spring review season beginning earlier and lasting longer each year of the study](test-prep-season-slows-new-instruction.md) — related

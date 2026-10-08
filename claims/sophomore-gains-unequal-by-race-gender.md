@@ -54,3 +54,4 @@ Disaggregated cohort analysis (Figure 16) shows sophomore gains "have not been e
 - [The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes](dropout-decline-drove-diploma-gains.md) — related
 - [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
 - [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related
+- [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related

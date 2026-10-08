@@ -39,7 +39,8 @@ The review defines a trauma-informed approach, drawing on SAMHSA and NCTSN, as a
 - 
 
 ## Related Theories
-- 
+
+- [Integration of decolonial, socioecological, translingual, trauma-informed, and community-engaged praxis across the handbook](decolonial-socioecological-translingual-trauma-informed-community-engaged-praxis.md)
 
 ## Examples
 

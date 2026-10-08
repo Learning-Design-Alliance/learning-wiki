@@ -48,3 +48,4 @@ Spending projections reported in the New Urgency section of the report, contrast
 - [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related
 - [Between the 1997 and 1999 STaR assessments, the share of schools effectively using technology rose from 15 to 24 percent, and almost 80 percent of schools had Internet connections](star-year2-technology-use-rise.md) — related
 - [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — related
+- [Chicago's professional development spending was not integrated into a comprehensive strategy for improving instruction](cps-pd-spending-not-integrated.md) — related

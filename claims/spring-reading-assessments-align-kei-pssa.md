@@ -45,3 +45,4 @@ A secondary correlational analysis reported in the study summary, relating SDP's
 ## Related Claims
 - [Kindergarten entry scores predict grade 3 reading proficiency: Philadelphia kindergarteners with higher KEI scores in 2014/15 had higher grade 3 PSSA ELA scores](higher-kei-scores-predict-higher-grade3-ela-pssa.md) — related
 - [The overall Kindergarten Readiness Assessment score predicts grade 3 achievement about as well as combinations of its subscores](kra-overall-score-predicts-grade3-as-well-as-subscores.md) — related
+- [Combined latent scores are highly predictive of third grade assessment scores in pre-pandemic years, with correlations from 0.67 to 0.82](latent-scores-predict-third-grade-assessment-scores.md) — related

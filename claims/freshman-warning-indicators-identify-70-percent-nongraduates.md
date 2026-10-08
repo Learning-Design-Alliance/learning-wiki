@@ -50,3 +50,6 @@ Analysis of 2014-15 freshmen by graduation status (Figure 9) shows the three war
 - [Student performance declines from freshman to sophomore year, with course failures rising in every subject and attendance declining sharply](performance-declines-freshman-to-sophomore.md) — related
 - [Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate](algebra-failers-failed-multiple-courses-off-track.md) — related
 - [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related
+- [Graduation rates rise with freshman credits earned, with a large gap above six credits](credits-earned-freshman-year-graduation-gradient.md) — related
+- [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related
+- [Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out](on-track-early-indicator-graduation.md) — related

@@ -45,3 +45,4 @@ Moderator analysis using CCSR survey measures of student-teacher interaction (Fi
 ## Related Claims
 - [School closings showed no statistically significant long-term effects on displaced students' reading or math achievement two and three years later](no-long-term-achievement-effects-school-closings.md) — related
 - [Displaced students in the highest-achieving receiving schools gained about a month in reading and over two months in math above expectations, while those in the weakest schools lost achievement](receiving-school-academic-quality-moderates-gains.md) — related
+- [Students show the highest learning gains in classes that are both challenging and where students actually do work aligned with teachers' expectations; grades are higher in challenging classrooms with high support than in easier classrooms with little support](challenge-plus-support-highest-gains.md) — related

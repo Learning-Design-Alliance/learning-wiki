@@ -46,3 +46,4 @@ Cross-sectional analysis of teacher survey ratings on CCSR essential-supports sc
 - [NLNS and UIC elementary schools rated more positively than non-program principal schools on several measures](nlns-uic-elementary-rated-positively.md) — related
 - [Elementary schools led by LAUNCH principals show higher teacher-parent interaction and more reformed literacy practices](launch-elementary-teacher-parent-interaction-reformed-literacy.md) — related
 - [No differences in student learning gains found between LAUNCH or NLNS principals and comparable or veteran principals](no-learning-gains-differences-launch-nlns-principals.md) — related
+- [School organizational supports are associated with more interactive and less didactic instruction](school-organizational-supports-interactive-instruction.md) — related

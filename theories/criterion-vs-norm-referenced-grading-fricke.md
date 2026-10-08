@@ -39,7 +39,8 @@ The article frames grading as a choice between two conceptions: grading students
 - Criterion Grading Supports Cooperation [+M]
 
 ## Related Theories
-- 
+
+- [Criterion-referenced versus norm-referenced tests as two distinct assessment purposes](crt-versus-nrt-assessment-purposes.md)
 
 ## Examples
 

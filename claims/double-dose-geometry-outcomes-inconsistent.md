@@ -48,3 +48,4 @@ Regression discontinuity with time series applied to 10th-grade geometry grades 
 - [The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy](double-dose-policy-harmed-above-norm-grades.md) — related
 - [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-negligible-grade-failure-changes.md) — related
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](double-dose-induced-algebra-tracking.md) — related
+- [Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related

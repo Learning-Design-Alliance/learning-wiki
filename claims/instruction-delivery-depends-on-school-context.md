@@ -46,3 +46,4 @@ The chapter's overview asserts, drawing on research from Chicago, that instructi
 - [Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families](family-voices-inform-all-essentials.md) — related
 - [SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access](ssws-perceive-meso-community-school-contexts.md) — related
 - [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related
+- [In about a third of Chicago elementary schools, expanded local democratic participation served as a strong lever for systemic change focused on improved instruction](one-third-schools-democratic-participation-lever-systemic-change.md) — related

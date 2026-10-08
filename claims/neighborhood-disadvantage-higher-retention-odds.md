@@ -45,3 +45,4 @@ Findings section of the brief reports observational analysis of Chicago Public S
 ## Related Claims
 - [Within the same neighborhoods and schools, boys and Black students are more likely to be overage for grade, a proxy for prior retention](boys-black-students-more-likely-overage.md) — related
 - [Elementary schools with high poverty and high suspension rates have higher grade retention odds among similar-achieving students](elementary-school-poverty-suspension-retention-odds.md) — related
+- [The school-built environment, including access to nature and green spaces, positively impacts children, teachers, and the school community](school-built-environment-positive-impact.md) — related

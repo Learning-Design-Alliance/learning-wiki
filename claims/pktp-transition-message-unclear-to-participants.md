@@ -46,3 +46,4 @@ Findings on communication about the importance of transition from the developmen
 - [Pre-K teachers implemented PKTP's common classroom practices more consistently than kindergarten teachers, with dramatic play and trauma-sensitive practices least frequent among kindergarten teachers](pktp-practice-implementation-grade-differences.md) — related
 - [PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community](pktp-family-activities-built-informal-relationships.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
+- [Close monitoring of school experiences is important for children in their first year of foster care](foster-care-first-year-school-monitoring.md) — related

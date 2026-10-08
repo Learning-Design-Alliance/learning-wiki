@@ -50,3 +50,4 @@ Cross-case comparison in the results section of the ten-school sample: four scho
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — related
 - [Building a strong learning climate by supporting and guiding teacher collaboration around common goals is highlighted as a key finding](learning-climate-teacher-collaboration-common-goals.md) — related
 - [Knowledge of the on-track indicator and its use in district accountability were not enough to change school practice](ontrack-knowledge-accountability-insufficient-practice-change.md) — related
+- [In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices](developmental-practices-require-clear-priorities-and-leadership.md) — related

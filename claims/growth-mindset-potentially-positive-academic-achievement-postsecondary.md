@@ -52,3 +52,4 @@ WWC synthesis of six studies meeting version 4.0 standards, five contributing to
 - [The WWC rates Instructional Conversations and Literature Logs as having potentially positive effects on reading achievement and English language development](ic-ll-potentially-positive-wwc-rating.md) — related
 - [Read Naturally® shows potentially positive effects on writing for students with learning disabilities, with a substantively important but non-significant effect size on the WIAT Written Expression subtest](read-naturally-potentially-positive-writing-effects.md) — related
 - [CSC/CDP shows no discernible effects on academic achievement](csc-no-discernible-academic-effects.md) — related
+- [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — related

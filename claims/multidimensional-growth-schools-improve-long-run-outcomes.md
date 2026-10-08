@@ -45,3 +45,6 @@ The study used administrative records and 5Essentials Survey measures of socioem
 ## Related Claims
 - [Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts](sed-behavior-impacts-exceed-test-score-impacts-long-run.md) — related
 - [Fostering socioemotional development and fostering test score growth had nearly identical impacts on 9th grade test scores](sed-growth-nearly-identical-impact-ninth-grade-test-scores.md) — related
+- [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — related
+- [School and teacher effects on students' school experiences influence social and educational trajectories more than their effects on academic achievement measures](school-experience-effects-outweigh-achievement-effects.md) — related
+- [The article claims schools can improve attendance, test scores, and graduation rates by identifying high-impact metrics and fostering a collaborative culture of improvement](schools-improve-via-high-impact-metrics-and-collaboration.md) — related

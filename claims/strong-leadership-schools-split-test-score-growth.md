@@ -46,3 +46,4 @@ Overview of the study's contrasting case design: interviews at four of 12 Chicag
 - [The study's goal was to identify specific strategies successful principals used to influence instruction and learning](goal-identify-principal-strategies-instruction.md) — related
 - [An innovation and improvement space in local school communities brought forward new leaders](local-innovation-space-new-leaders.md) — related
 - [The principal professional development program did not improve student achievement in English language arts or math](principal-pd-no-student-achievement-improvement.md) — related
+- [Black and Latino students' success in progressive mathematics triggers system reactions questioning the program's rigor](minority-success-damns-reform-program.md) — related

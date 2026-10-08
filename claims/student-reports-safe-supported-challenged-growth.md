@@ -68,3 +68,5 @@ The agenda further reports, citing Hart et al. (2020) and Jackson, Porter, Easto
 - [Educators rated their well-being and school climate perceptions as average, with grade-level-band differences in both](wellbeing-climate-average-scores-grade-band-differences.md) — related
 - [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](adult-supervision-safety-gradient.md) — related
 - [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](parent-partnerships-and-climate-predict-teacher-staying.md) — related
+- [In schools where students experience peer support for academic work, student learning is more likely](peer-support-academic-work-learning-more-likely.md) — related
+- [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related

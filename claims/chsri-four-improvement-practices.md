@@ -48,3 +48,6 @@ Cross-case qualitative analysis of three high-performing CHSRI schools based on 
 - [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
 - [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related
 - [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — related
+- [Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role](aligned-resources-and-distributive-leadership-distinguish-improving-schools.md) — related
+- [In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices](developmental-practices-require-clear-priorities-and-leadership.md) — related
+- [Weak instructional program coherence impairs sustained school improvement even when staff share a test-score goal](weak-coherence-impairs-improvement-wilson.md) — related

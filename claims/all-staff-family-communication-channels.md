@@ -50,3 +50,4 @@ Focus-group finding describing a shift in typical school procedures during remot
 - [School improvement is related to staff interactions, staff relationships with families, and ties to the broader school community](improvement-related-to-staff-family-community-relationships.md) — related
 - [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related
+- [High schools improving instruction and teacher collaboration also showed the largest improvements in parent communication](instructional-improvement-linked-parent-communication-gains.md) — related

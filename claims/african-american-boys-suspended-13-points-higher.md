@@ -48,3 +48,4 @@ Observational within-school comparison of suspension rates across student groups
 - [Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate](cps-arrest-rates-declined-racial-disparities.md) — related
 - [A subset of about a quarter of Chicago high schools and 10 percent of middle-grades schools have very high suspension rates, almost all predominantly serving African-American students](high-suspension-schools-concentrated-disadvantage.md) — related
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
+- [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related

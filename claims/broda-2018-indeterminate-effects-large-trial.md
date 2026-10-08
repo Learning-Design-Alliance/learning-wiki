@@ -47,3 +47,4 @@ RCT at a public university in Michigan with incoming first-year students blocked
 - [Yeager et al. (2016) and Fink et al. (2018) found indeterminate effects on enrollment, credit completion, and chemistry final exam scores](yeager-fink-indeterminate-effects.md) — related
 - [DCMP's effect on overall college credits earned was not statistically significant in the RCT](dcmp-college-credits-null-rutschow.md) — related
 - [Growth Mindset interventions have no discernible effects on college enrollment and progressing in college](growth-mindset-no-discernible-enrollment-progressing.md) — related
+- [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — related

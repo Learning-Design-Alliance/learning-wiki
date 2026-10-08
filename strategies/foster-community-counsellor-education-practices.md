@@ -46,6 +46,7 @@ The Community component holds that developing counsellor skills within a support
 - [Peer Coaching](peer_coaching.md)
 - [Encourage unstructured verbal communication between cooperating and student teachers during student teaching](unstructured-verbal-communication-cooperating-student-teachers.md)
 - [Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often](cooperative-learning-group-work-recommendation.md)
+- [Provide extensive collegial support and professional development for technology integration to avoid maintaining the digital divide](collegial-support-professional-development-technology-integration.md)
 
 ## Examples
 -

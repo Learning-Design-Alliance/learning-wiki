@@ -21,7 +21,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (3 for, 7 mixed) · 19 studies (6 causal, 5 quant-synthesis, 5 review, 2 associational, 1 theoretical), `q2`–`q4` · 6 of 19 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (4 for, 7 mixed) · 20 studies (6 causal, 5 quant-synthesis, 5 review, 3 associational, 1 theoretical), `q2`–`q4` · 6 of 20 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 
@@ -66,6 +66,7 @@ Claims this page cited before it was rewritten as a conditional model, and two n
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S] — not yet checked against its sources
 - [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](../claims/active-learning-courses-retain-lecture-component.md) [~M] — not yet checked against its sources
 - [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](../claims/time-on-task-unequal-in-active-learning-comparisons.md) [~M] — not yet checked against its sources
+- [Interactive instruction is positively associated with one-year achievement gains in reading and mathematics in Chicago elementary schools](../claims/interactive-instruction-positive-achievement-gains-chicago.md) [+W] — attached 2026-10-08 from Julia B. Smith et al. (2001), which proposed "Promote interactive instruction through teacher preparation, collegial dialogue, and principal instructional leadership"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

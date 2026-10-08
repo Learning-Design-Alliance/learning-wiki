@@ -41,7 +41,9 @@ The digest explains that the National Board rejected a single general certificat
 - 
 
 ## Related Elements
+
 - [Performance Based Teacher Certification Assessment](../principles/competency-based-assessment.md)
+- [National Board for Professional Teaching Standards (NBPTS) certification process](nbpts-national-board-certification-process.md)
 
 ## Examples
 -

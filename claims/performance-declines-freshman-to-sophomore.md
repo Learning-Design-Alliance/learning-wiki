@@ -66,3 +66,4 @@ Cohort comparison of attendance distributions (Figure 6, 2014-15 cohort) found a
 - [By the end of sophomore year, 84 percent of eventual non-graduates showed at least one warning indicator](sophomore-warning-indicators-flag-84-percent-nongraduates.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
+- [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related

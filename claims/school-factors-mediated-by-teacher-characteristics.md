@@ -49,3 +49,4 @@ Latent one-level SEM with cluster robust standard errors (lavaan) on the same su
 - [Teaching experience is a minor negative predictor of digital data use, while age and gender show no significant effect](experience-negative-age-gender-null-data-use.md) — related
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — related
 - [Teacher technology use and school culture explain an additional 18 percent of school-by-school differences in high school student technology use](teacher-use-culture-explain-school-variance-student-tech-use.md) — related
+- [Computer availability explains almost half of between-school differences in student computer use, with the strongest relationship in schools with insufficient access](availability-explains-school-variance-student-use.md) — related

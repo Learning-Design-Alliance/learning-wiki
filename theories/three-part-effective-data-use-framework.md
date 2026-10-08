@@ -42,7 +42,8 @@ The brief organizes effective data use in education into three complementary str
 - [Data in education often fails to move educators and policymakers or overwhelms them with extraneous information](../claims/data-often-leaves-educators-unmoved.md) [+W]
 
 ## Related Theories
-- 
+
+- [Three-strand organization of a district research and evaluation department: Instructional Support, Data Analysis, and Data Management](three-strand-research-evaluation-department-organization.md)
 
 ## Examples
 

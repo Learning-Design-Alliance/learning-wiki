@@ -49,3 +49,7 @@ Analysis of teacher survey ratings in only two elementary schools that combined 
 - [Schools with teams of Fund-supported leaders and NBCT clusters show few differences from other schools](leadership-teams-few-differences.md) — reports the opposite
 - [High schools with clusters of at least three NBCTs score higher on professional capacity measures](nbct-clusters-high-schools-professional-capacity.md) — related
 - [No differences in student learning gains found between LAUNCH or NLNS principals and comparable or veteran principals](no-learning-gains-differences-launch-nlns-principals.md) — related
+- [Elementary schools led by LAUNCH principals showed statistically significant but very small reading learning gains over schools led by other new principals, similar to veteran principals](launch-principals-small-reading-gain-advantage-over-new-principals.md) — related
+- [Elementary schools with clusters of board-certified teachers and candidates showed higher teacher influence, innovation, and slightly higher collective responsibility](nbct-clusters-higher-teacher-influence-innovation.md) — related
+- [Board-certified teachers were twice as likely as other teachers to hold school leadership roles, and about two-thirds led professional development](nbcts-twice-as-likely-leadership-roles.md) — related
+- [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related

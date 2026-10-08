@@ -46,3 +46,4 @@ Theoretical argument in the section on datafication and testimonial injustice: d
 - [Data construction can embed social values and patterns of privilege into data itself, perpetuating testimonial injustice](data-construction-embeds-privilege-in-data.md) — reports the opposite
 - [Big Data's variety can aid redress of hermeneutical injustice by letting buried experiences find themselves within the data](big-data-variety-aids-hermeneutical-injustice-redress.md) — related
 - [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — related
+- [Public accountability pressure on school-level improvement data can suppress honest inquiry and incentivize superficial fixes](accountability-pressure-suppresses-honest-inquiry.md) — related

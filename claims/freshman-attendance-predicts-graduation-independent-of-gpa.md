@@ -53,3 +53,5 @@ Cohort analysis of 2014-15 freshmen (Figure 8) crosses freshman GPA bands with a
 - [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related
 - [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
 - [Nearly 90 percent of Chicago freshmen who miss less than a week of school per semester graduate, regardless of 8th grade test scores](low-freshman-absence-high-graduation.md) — related
+- [Absences remained as strongly related to test scores and GPAs in post-pandemic years as pre-pandemic years](absence-achievement-link-persists-post-pandemic.md) — related
+- [Missing five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points](ninth-grade-five-absences-graduation-drop.md) — related

@@ -65,3 +65,4 @@ Score construction following HLM creation of site-level measure scores: each mod
 - [The Early Education Essentials is sensitive to site-level differences](early-education-essentials-sensitive-site-differences.md) — related
 - [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related
 - [Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization](ece-sample-instructional-support-lowest-class-domain.md) — related
+- [Survey data came primarily from teacher and student surveys conducted in 1994, with school counts varying by measure and wave](survey-waves-1994-primary-school-counts-vary.md) — related

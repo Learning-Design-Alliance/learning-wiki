@@ -57,9 +57,11 @@ Growth mindset interventions produce small but reliable gains in achievement for
 5. Support autonomy in strategy choice so learners experience ownership of improvement [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S], consistent with [Self-Determination Theory](../theories/self-determination-theory.md).
 
 ## Related Strategies
+
 - [Scaffolding](../principles/scaffolding.md) — makes effort pay off by keeping tasks within reach, which validates the mindset message
 - [Formative Assessment](../patterns/formative-assessment.md) — reframes errors as feedback rather than verdicts
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — mindset supplies the motivation; SRL supplies the strategies
+- [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](mindset-cultivation-practices-list.md)
 
 ## Examples
 - **[PERTS / Mindset Works](https://www.mindsetworks.com)** — The Brainology curriculum teaches neuroplasticity through interactive modules; the National Study of Learning Mindsets (Yeager et al., 2019) delivered two 25-minute online sessions to ~12,000 ninth-graders and raised GPA among lower-achieving students.

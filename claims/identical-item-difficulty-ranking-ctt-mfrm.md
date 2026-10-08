@@ -45,3 +45,4 @@ Ranking comparison based on the difficulty indices in Table 3, computed from the
 ## Related Claims
 - [CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design](ctt-mfrm-agreement-robust-to-design.md) — a broader claim this one bears on
 - [CTT and MFRM yield a positive, perfect correlation between item difficulty indices for open-ended items under a crossed design](ctt-mfrm-difficulty-indices-perfect-correlation-open-ended.md) — related
+- [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](rasch-adjustment-of-scorer-severity.md) — related

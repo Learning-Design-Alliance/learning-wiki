@@ -62,6 +62,7 @@ The double-dose strategy created homogeneous algebra classes for organizational 
 ## Examples
 
 - [Double-dose algebra: tracking with supports as an alternative to detracking](../strategies/double-dose-algebra-tracking-with-supports.md)
+- [Use double-period support courses to expand instructional time for low-skilled 9th-grade math students](../strategies/double-period-support-course-for-low-skilled-9th-graders.md)
 
 ## Key Sources
 - Takako Nomi and Elaine M. Allensworth. (2013). Sorting and Supporting: Why Double-Dose Algebra Led to Better Test Scores but More Course Failures. American Educational Research Journal. https://doi.org/10.3102/0002831212469997

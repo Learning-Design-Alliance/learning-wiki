@@ -51,3 +51,4 @@ Analysis of ITBS reading learning gains from 1997 to 2005, comparing schools led
 - [Two LAUNCH elementary schools with NBCT clusters showed significantly positive differences on 8 of 16 school measures](launch-nbct-cluster-schools-dramatic-effects.md) — related
 - [Fund-supported principals are younger and have shorter tenure than other CPS principals](fund-principals-younger-shorter-tenure.md) — related
 - [Elementary LAUNCH principals' schools rated significantly lower on 5 of 12 measures compared to schools led by non-program principals](launch-elementary-schools-rated-lower.md) — related
+- [Elementary schools led by LAUNCH principals showed statistically significant but very small reading learning gains over schools led by other new principals, similar to veteran principals](launch-principals-small-reading-gain-advantage-over-new-principals.md) — reports the opposite

@@ -50,6 +50,9 @@ The five essential supports framework specifies five school- or center-level org
 - [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
 - [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
 - [Four organizational supports mediating leadership effects on instruction and learning](four-organizational-supports-leadership-pathways.md)
+- [The Five Essential Supports framework organizes school development measures](five-essential-supports-survey-measures-framework.md)
+- [Model of Essential Supports for Student Learning](model-essential-supports-student-learning.md)
+- [Five essential supports for student learning framework](five-essential-supports-ccsr-sipaaa.md)
 
 ## Examples
 

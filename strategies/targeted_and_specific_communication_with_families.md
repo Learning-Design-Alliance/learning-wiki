@@ -69,6 +69,7 @@ Family engagement research consistently shows that *specific* invitations — na
 - [Use universally designed auto-translated two-way messaging so families need only basic text messaging](auto-translated-two-way-family-messaging.md)
 - [Personalize and differentiate family text messages to each child's developmental level](personalize-family-texts-to-developmental-level.md)
 - [Use economic indicators plus household size to prioritize families, and target outreach through schools with low family engagement](prioritize-economic-need-household-size-internet-programs.md)
+- [Remove participation barriers and use broad outreach to ensure fair representation on parent councils](remove-barriers-broad-parent-council-representation.md)
 
 ## Examples
 - **TalkingPoints** (https://talkingpts.org) — two-way translated text messaging between teachers and families, used widely in US districts with multilingual populations.

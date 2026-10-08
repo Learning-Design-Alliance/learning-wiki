@@ -105,3 +105,6 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Growth Mindset interventions have no discernible effects on college enrollment and progressing in college](growth-mindset-no-discernible-enrollment-progressing.md) — related
 - [Evidence of changes in growth mindset or math confidence after the summer programs was minimal](summer-math-programs-minimal-mindset-confidence-change.md) — related
 - [Teachers who are effective at improving academic behaviors and mindsets are often not the same teachers who raise math test scores](teacher-effectiveness-noncognitive-uncorrelated-test-scores.md) — related
+- [Academic behaviors have the most immediate effect on course grades; directly targeting grit is not an evidenced lever](academic-behaviors-most-immediate-effect-grades.md) — related
+- [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
+- [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — related

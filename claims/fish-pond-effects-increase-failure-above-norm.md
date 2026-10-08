@@ -49,3 +49,4 @@ Logistic models predicting algebra pass rates for above-norm students post-polic
 - [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](peer-skill-explains-above-norm-test-gains.md) — related
 - [Above-norm students' post-policy test score gains (.56 points) were partly explained by peer ability and by spillover from classmates taking support algebra (~0.6 points, p<.01)](above-norm-score-gains-peer-ability-spillover.md) — related
 - [Failure rates increased and grades declined for higher-skill students in single-period algebra after the policy](grades-declined-higher-skill-single-period-students.md) — related
+- [Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related

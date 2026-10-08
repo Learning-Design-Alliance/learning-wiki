@@ -49,3 +49,5 @@ Cohort comparison of post-policy versus pre-policy students by percentile rank g
 - [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-negligible-grade-failure-changes.md) — related
 - [Failure rates increased and grades declined for higher-skill students in single-period algebra after the policy](grades-declined-higher-skill-single-period-students.md) — related
 - [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related
+- [Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related
+- [The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined](double-dose-spillover-high-ability-scores-up-grades-down.md) — related

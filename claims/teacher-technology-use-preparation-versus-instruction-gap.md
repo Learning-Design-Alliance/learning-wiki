@@ -64,3 +64,4 @@ Descriptive analysis of teacher expectations by school type (Figure 9). The repo
 ## Related Claims
 - [Only about half of CPS students use technology at least weekly for school, and 20 to 30 percent rarely or never do](half-cps-students-weekly-school-technology-use.md) — related
 - [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related
+- [Most Chicago public school students use technology infrequently and for a narrow range of low-level activities](cps-students-infrequent-narrow-technology-use.md) — related

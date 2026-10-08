@@ -45,3 +45,5 @@ Comparative analysis of CPS and national ACT data by GPA band and race/ethnicity
 ## Related Claims
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
+- [Race, ethnicity, and class affect teacher perceptions and teacher behavior, including persistence with struggling students](social-cues-shape-teacher-persistence.md) — related
+- [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related

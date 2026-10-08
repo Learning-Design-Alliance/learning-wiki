@@ -49,6 +49,10 @@ The article reports a Chicago framework in which schools effective at improving 
 ## Related Theories
 
 - [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
+- [Five Essential Supports framework for organizing school improvement conditions](ccsr-five-essential-supports-framework.md)
+- [Five Essential Supports framework for organizing school improvement measures](five-essential-supports-student-learning-framework.md)
+- [Model of Essential Supports for Student Learning](model-essential-supports-student-learning.md)
+- [Five essential supports framework for organizing school improvement self-analysis](five-essential-supports-school-learning-framework.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ The report attributes this finding to prior CCSR research examining 100 elementa
 - [Schools weak in most essential supports were four to five times more likely to stagnate than schools with strong overall organizational capacity](weak-essential-supports-four-to-five-times-stagnation.md) — related
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](sustained-weakness-one-support-few-improve.md) — related
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — related
+- [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — a broader claim this one bears on

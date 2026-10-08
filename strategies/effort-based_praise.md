@@ -63,10 +63,12 @@ Process praise works because it makes the *causal attribution* for success or fa
 - The specific mechanism: telling a student they are smart when they produce a good result implicitly commits them to that same explanation when they later do poorly — if a good result means "you're smart," a poor result on the very same logic means "you're not smart" (Dweck, 2000). Effort-based praise avoids setting up this trap because it never ties the outcome to a fixed personal trait in the first place.
 
 ## Related Strategies
+
 - [Formative Feedback](../strategies/formative-feedback.md) — process praise is a motivational subset of process-level feedback
 - [Growth Mindset Interventions](../strategies/growth-mindset-interventions.md) — effort-based praise is the day-to-day mechanism through which mindset interventions take hold
 - [Attribution Retraining](../strategies/attribution-retraining.md) — explicit instruction in controllable attributions; praise is the implicit version
 - [Wise Feedback Across Racial and Ethnic Difference](../principles/wise-feedback-across-difference.md) — a further consideration when feedback (effort-based or otherwise) crosses a racial or ethnic difference between teacher and student
+- [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](mindset-cultivation-practices-list.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — the delivery mechanism for process praise

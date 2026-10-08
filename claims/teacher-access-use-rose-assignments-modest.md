@@ -66,3 +66,4 @@ Trend analysis of teacher reports on assigning technology to students (Chapter 3
 - [Only about half of CPS students use technology at least weekly for school, and 20 to 30 percent rarely or never do](half-cps-students-weekly-school-technology-use.md) — related
 - [Schools where principals reported fewer technology barriers had higher student access and use and higher teacher access, use, assignments, and professional development](principal-barrier-reports-track-teacher-student-technology.md) — related
 - [Only 20 percent of U.S. teachers felt well prepared to integrate educational technology into classroom instruction (1998)](only-20-percent-teachers-prepared-integrate-technology.md) — related
+- [Most Chicago public school students use technology infrequently and for a narrow range of low-level activities](cps-students-infrequent-narrow-technology-use.md) — related
