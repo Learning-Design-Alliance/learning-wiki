@@ -39,6 +39,7 @@ Because ELM is an explicit scripted core math program, the review recommends sta
 ## Related Strategies
 
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
+- [Prepare teachers with one full training day plus a mid-year follow-up day](jump-math-one-day-training-mid-year-follow-up.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ The program's professional development model combines initial training with sust
 - [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
 - [Provide refresher training after implementation begins, not only pre-adoption training](pathblazer-refresher-training-after-implementation.md)
 - [Support tutors with a 2-day initial workshop plus weekly per-child progress meetings](tutor-workshop-weekly-progress-meetings.md)
+- [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 
 ## Examples
 -

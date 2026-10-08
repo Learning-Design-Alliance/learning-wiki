@@ -44,3 +44,5 @@ In the same Mathematica quasi-experimental study of grades 1–5 in District of 
 
 ## Related Claims
 - [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](pthv-home-visits-improve-attendance-slightly.md) — related
+- [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](pthv-home-visit-improves-attendance-es-002.md) — related
+- [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores](pthv-home-visit-math-gain-no-ela-difference.md) — possibly the same claim (merge candidate)

@@ -66,6 +66,7 @@ PALS converts practice time into high-frequency, individualized responding: each
 - [Cross-Age Tutoring](cross-age-tutoring.md) — pairs students of different ages; PALS instead pairs same-class peers
 - [Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing](cwpt-daily-session-team-points-recipe.md)
 - [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
+- [Arrange PALS tutor training through AIR by specifying training type, grade level, group size, and location](pals-air-tutoring-training-request-strategy.md)
 
 ## Examples
 - **Reading PALS (Grades 2–6)** — pairs alternate 10 minutes of partner reading with retell, 5 minutes of paragraph shrinking (summarize each paragraph in 10 words or fewer), and 10 minutes of prediction relay, earning points for accurate summaries and predictions. Materials and manuals are distributed by the [Vanderbilt IRCA PALS project](https://iris.peabody.vanderbilt.edu/).

@@ -44,3 +44,4 @@ A randomized study assigned 20 kindergarten and transition kindergarten classroo
 
 ## Related Claims
 - [My Math Academy raises pre-K math scores in a matched Texas study (ES = +0.32)](mma-texas-matched-study-circle-es-032.md) — related
+- [JUMP Math raised math achievement with an effect size of +0.23 on Woodcock math tests in rural Ontario schools](jump-math-effect-023-woodcock-ontario.md) — related

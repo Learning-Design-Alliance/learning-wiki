@@ -47,3 +47,5 @@ Same quasi-experimental study in Duval County Public Schools during 2023-24; the
 - [The combined Exact Path program shows statistically significant positive effects in Mathematics, with the strongest impacts in Grade 6](exact-path-bundle-math-effects-grade-6.md) — related
 - [Exact Path use produced a statistically significant positive effect on 6th-grade ELA achievement (effect size = +0.16) in a quasi-experimental study](exact-path-ela-effect-016.md) — related
 - [Exploratory analysis suggests students using the combined program outperformed peers using Exact Path Growth alone](exact-path-combined-outperforms-growth-alone-exploratory.md) — related
+- [Exact Path has a statistically significant positive effect on grade 6 ELA achievement (effect size +0.16)](exact-path-ela-effect-016-dcps.md) — related
+- [Exact Path has a statistically significant positive effect on grade 6 Mathematics achievement (effect size +0.06)](exact-path-math-effect-006-dcps.md) — possibly the same claim (merge candidate)

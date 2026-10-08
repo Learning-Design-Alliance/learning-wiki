@@ -58,10 +58,12 @@ Reflection works because it forces [Self-Explanation](../elements/self-explanati
 4. Close the loop: have learners name a specific change to their approach next time, and revisit it in a later session.
 
 ## Related Strategies
+
 - [Self-Explanation](../elements/self-explanation.md) — the micro-mechanism inside reflection; explaining *why* an answer or action was correct drives the conceptual gain
 - [Journaling](journaling.md) — the most common individual reflection format
 - [Debriefing](debriefing.md) — structured group reflection after simulations or experiential activities
 - [Exit Tickets](exit-tickets.md) — brief, low-stakes end-of-class reflection that also yields formative data
+- [Implement Connect Science through a staged professional development sequence with coaching and reflective practice](connect-science-staged-pd-sequence.md)
 
 ## Examples
 - **Medical education debriefing** — After simulation-based resuscitation training, facilitators run structured debriefs (e.g., the PEARLS framework) in which trainees analyze their decisions; debrief quality is one of the strongest predictors of simulation learning outcomes.

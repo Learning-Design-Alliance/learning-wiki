@@ -55,6 +55,8 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Add ongoing professional development and increased support for EL students when implementing IXL Math](ixl-math-ongoing-pd-and-el-support.md)
 - [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
 - [Support implementation with initial Science of Reading training plus PLC-based lesson study](sor-pd-plc-lesson-study-implementation-support.md)
+- [Support implementation with initial Science of Reading training plus PLC-based lesson study and model lessons](plc-lesson-study-implementation-support.md)
+- [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 
 ## Examples
 -

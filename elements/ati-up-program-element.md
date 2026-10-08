@@ -50,6 +50,7 @@ ATI-UP is "a preventive, school-wide intervention" in which school teams follow 
 
 - [Provide two days of pre-implementation training plus ongoing technical support for school teams](../strategies/ati-up-two-day-training-ongoing-support.md)
 - [Use a monthly school attendance team to review data and problem-solve](../strategies/monthly-attendance-data-team-review.md)
+- [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](../strategies/school-implementation-team-monthly-training-support.md)
 
 ## Key Sources
 - Berg. (2018). ATI-UP (Attendance Intervention-Universal Plus). https://www.evidenceforessa.org

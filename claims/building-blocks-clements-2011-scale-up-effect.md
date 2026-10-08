@@ -46,3 +46,4 @@ Large-scale cluster randomized trial rated Meets WWC Group Design Standards With
 - [In a 2006 randomized trial, Building Blocks for Math significantly outperformed business-as-usual on the Early Mathematics Assessment](building-blocks-2006-rct-significant-math-gain.md) — related
 - [Building Blocks has a potentially positive effect on preschool mathematics achievement, with a pooled effect size of 0.58 across three studies meeting WWC standards](building-blocks-potentially-positive-preschool-math-effect.md) — a broader claim this one bears on
 - [Symphony Math students made greater math achievement gains than district peers (effect size +0.30)](symphony-math-star-math-gains-030.md) — related
+- [Connect Science raises fourth-grade science achievement more than business-as-usual science instruction (effect size +0.36)](connect-science-science-achievement-es-036.md) — related

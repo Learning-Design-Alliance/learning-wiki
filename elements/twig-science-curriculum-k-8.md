@@ -47,6 +47,7 @@ Twig Science is "a comprehensive, phenomena-based science curriculum for Grades 
 - [STEMscopes digital science curriculum](stemscopes-digital-science-curriculum.md)
 - [STEMscopes Math comprehensive core mathematics curriculum (K–Algebra 1)](stemscopes-math-curriculum.md)
 - [TEEMSS inquiry-based science curriculum with handheld computers and probeware](teemss-probeware-handheld-curriculum.md)
+- [Connect Science curriculum: 31 lessons integrating NGSS practices, social and collaborative skills, and service-learning](connect-science-curriculum-element.md)
 
 ## Examples
 -

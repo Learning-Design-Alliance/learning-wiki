@@ -49,3 +49,4 @@ Supplemental subgroup analysis from the 2013 Denver RCT; only four grade-by-demo
 - [LLI improves reading outcomes for struggling K-2 readers with an average effect size of +0.13 across two studies](lli-average-effect-size-013-two-studies.md) — related
 - [In a Denver study, LLI showed very positive outcomes on the DRA2 in kindergarten but not in first or second grade, for an effect size of +0.10](lli-denver-dra2-kindergarten-only-010.md) — related
 - [Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced](lli-teacher-perceptions-positive-with-pacing-concerns.md) — related
+- [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related

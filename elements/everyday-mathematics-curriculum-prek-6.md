@@ -43,6 +43,7 @@ Everyday Mathematics® is "a comprehensive curriculum for students in grades pre
 ## Related Elements
 
 - [UCSMP secondary mathematics curriculum](ucsmp-secondary-mathematics-curriculum.md)
+- [Thinking Math! (Innovamat PreK-8 mathematics curriculum)](thinking-math-innovamat-curriculum-element.md)
 
 ## Examples
 -

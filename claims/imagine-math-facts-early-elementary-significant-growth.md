@@ -48,3 +48,4 @@ Retrospective study in a southwestern school district during the 2022-2023 schoo
 - [Imagine Math Facts use was not associated with statistically significant growth for upper elementary students (grades 3-5)](imagine-math-facts-upper-elementary-not-significant.md) — related
 - [TalkingPoints use is associated with significant math score improvements in grades 3-8](talkingpoints-significant-math-gains-grades-3-8.md) — related
 - [IXL Math raises Grade 3-5 mathematics achievement on the Renaissance Star Math after one semester (effect size +0.13)](ixl-math-star-math-gains-grade-3-5.md) — related
+- [Edpuzzle Original math videos raise Renaissance Star Math scores and fall-to-spring growth (effect size +0.11)](edpuzzle-star-math-effect-011.md) — related

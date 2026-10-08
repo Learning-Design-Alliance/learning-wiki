@@ -29,7 +29,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 14 claims (9 for, 5 mixed) · 24 studies (9 quant-synthesis, 8 causal, 2 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 24 report an effect size · 7 claims rest on one study
+> **Evidence** · 16 claims (11 for, 5 mixed) · 27 studies (9 quant-synthesis, 8 causal, 3 design, 2 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q4` · 8 of 27 report an effect size · 8 claims rest on one study
 
 ## Description and scope
 
@@ -125,6 +125,8 @@ Do not rank these against one another: their comparators (traditional instructio
 - [Creating computational literature develops computational literacy even when code modification is minor](../claims/creating-computational-literature-develops-computational-literacy.md) [+W] — a case study of four physics students (q1); bears on exemplars in step 1.
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — multimedia projects deepen learning when learners must explain ideas through deliberate representational choices
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~M] — these projects are strongest when they resemble authentic communication or production tasks rather than isolated tool exercises
+- [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](../claims/philanthropic-studies-epportfolio-curricular-integration.md) [+W] — attached 2026-10-08 from IUPUI's HIP Taxonomy for ePortfolio: A Tool for Development, Implementation, and Scaling. , which proposed "IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact".
+- [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](../claims/public-capstone-epportfolio-showcase-audience-effect.md) [+W] — attached 2026-10-08 from IUPUI's HIP Taxonomy for ePortfolio: A Tool for Development, Implementation, and Scaling. , which proposed "IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact".
 
 ## Illustrative design instance and observation record
 

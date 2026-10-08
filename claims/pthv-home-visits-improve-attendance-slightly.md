@@ -47,3 +47,7 @@ A quasi-experimental study by the Regional Education Laboratory of the Mid-Atlan
 - [Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors](tutoring-good-standing-significant-only-one-cohort.md) — related
 - [Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit](high-use-tutoring-center-visits-higher-persistence.md) — related
 - [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — related
+- [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](pthv-home-visit-improves-attendance-es-002.md) — possibly the same claim (merge candidate)
+- [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores](pthv-home-visit-math-gain-no-ela-difference.md) — related
+- [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related
+- [PTHV is rated promising for social-emotional learning with an average effect size of +0.10 from one study](pthv-sel-promising-rating-es-010.md) — related

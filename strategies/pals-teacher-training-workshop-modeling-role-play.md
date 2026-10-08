@@ -44,6 +44,7 @@ PALS prepares teachers through a one-day training event followed by written supp
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 - [One-day teacher workshop plus optional training-of-trainers for implementing CSC](csc-teacher-workshop-and-training-of-trainers.md)
 - [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
+- [Implement PAX Good Behavior Game via one-day onsite teacher training with home-support manuals for parents](pax-gbg-onsite-training-parent-manuals.md)
 
 ## Examples
 -

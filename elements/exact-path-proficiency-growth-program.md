@@ -53,6 +53,7 @@ Exact Path Proficiency + Exact Path Growth are digital learning systems supporti
 - [Edmentum Exact Path Growth personalized learning program](exact-path-growth-program-element.md)
 - [Exact Path Proficiency + Exact Path Growth digital learning system](exact-path-proficiency-growth-system.md)
 - [IXL Math personalized learning program with Real-Time Diagnostic and IXL Analytics](ixl-math-program-element.md)
+- [Edmentum Exact Path Growth personalized learning program](edmentum-exact-path-growth-program.md)
 
 ## Examples
 

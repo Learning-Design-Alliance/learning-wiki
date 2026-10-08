@@ -57,6 +57,7 @@ CIRC is a reading and writing program for students in grades 2–6, developed in
 - [Success for All® (SFA®) whole-school reform model](success-for-all-whole-school-reform-model.md)
 - [Cooperative Integrated Reading and Composition® (CIRC) reading and writing program](circ-reading-writing-program.md)
 - [Bilingual Cooperative Integrated Reading and Composition (BCIRC) program](bcirc-program-element.md)
+- [The Reading Edge whole-school cooperative learning reading program](reading-edge-program-element.md)
 
 ## Examples
 -

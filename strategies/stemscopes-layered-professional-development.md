@@ -55,6 +55,7 @@ Implementation is supported through multiple professional development formats ra
 - [Offer optional virtual or on-site professional development tailored to administrators and educators](imagine-espanol-professional-development-strategy.md)
 - [Use Curriculum Associates professional learning: introductory course, on-site development days, and free OEL digital courses](magnetic-reading-professional-learning-strategy.md)
 - [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
+- [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 
 ## Examples
 -

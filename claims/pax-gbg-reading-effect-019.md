@@ -46,3 +46,4 @@ One qualifying study in a county in Ohio with 949 students compared PAX Good Beh
 - [PAX Good Behavior Game is rated in the Promising evidence category based on one qualifying study of 949 students](pax-gbg-promising-rating-one-study.md) — possibly the same claim (merge candidate)
 - [Positive effects of PAX Good Behavior Game were also found in math](pax-gbg-positive-math-effects.md) — related
 - [Good Behavior Game shows uncertain effects on literacy achievement, with a pooled effect size of 0.07 that is not statistically significant](gbg-uncertain-literacy-effects.md) — related
+- [PAX Good Behavior Game also shows positive effects on reading outcomes](pax-gbg-positive-reading-effects.md) — possibly the same claim (merge candidate)

@@ -49,6 +49,7 @@ Building Blocks is a mathematics curriculum that "aims to develop preschool chil
 - [Research-Based Early Mathematics Assessment (REMA)](rema-research-based-early-mathematics-assessment.md)
 - [SRA Real Math Building Blocks PreK supplemental preschool mathematics curriculum](sra-real-math-building-blocks-prek-curriculum.md)
 - [Developmental checklists for one-to-one correspondence, classification, and seriation as teacher assessment and curriculum-planning tools](preschool-math-development-checklists.md)
+- [Thinking Math! (Innovamat PreK-8 mathematics curriculum)](thinking-math-innovamat-curriculum-element.md)
 
 ## Examples
 -

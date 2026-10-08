@@ -50,3 +50,4 @@ WWC synthesis of two studies (Humphrey et al., 2018, Hodder Group Reading Test, 
 - [Good Behavior Game shows uncertain effects on school climate in after-school programs, with a pooled effect size of 0.15 that is not statistically significant](gbg-uncertain-school-climate-effects.md) — related
 - [PAX Good Behavior Game is rated in the Promising evidence category based on one qualifying study of 949 students](pax-gbg-promising-rating-one-study.md) — related
 - [PAX Good Behavior Game classes achieved higher reading scores than matched control classes, with an effect size of +0.19](pax-gbg-reading-effect-019.md) — related
+- [PAX Good Behavior Game also shows positive effects on reading outcomes](pax-gbg-positive-reading-effects.md) — related

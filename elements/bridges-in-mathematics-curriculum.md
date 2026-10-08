@@ -48,6 +48,7 @@ Bridges in Mathematics by MLC is a comprehensive preK-5 math curriculum that "em
 
 - [Bridges Educator Site: web-based platform providing digital curriculum materials and interactive displays](bridges-educator-site-platform.md)
 - [Number Corner: integrated daily practice component previewing forthcoming content](number-corner-daily-practice-component.md)
+- [Thinking Math! (Innovamat PreK-8 mathematics curriculum)](thinking-math-innovamat-curriculum-element.md)
 
 ## Examples
 

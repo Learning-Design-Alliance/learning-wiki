@@ -55,6 +55,7 @@ In the evaluated implementation, intervention teachers received 2.5 full days of
 - [Support REDI implementation with brief inservice training plus weekly coaching from local consultants](redi-training-weekly-coaching-model.md)
 - [Provide a structured first-year Getting Started Experience plus year-long administrator training when adopting a comprehensive curriculum](bridges-getting-started-experience-pd.md)
 - [Intensive trainer-led observation and feedback model for tutoring professional development](early-steps-trainer-observation-feedback-training.md)
+- [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 
 ## Examples
 -

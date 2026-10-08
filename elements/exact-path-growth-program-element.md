@@ -50,6 +50,7 @@ Exact Path Growth is "a personalized learning program for K-12 learners, designe
 - [Exact Path Proficiency + Exact Path Growth digital learning system](exact-path-proficiency-growth-program.md)
 - [Edmentum Exact Path: computer-adaptive supplemental program supporting instruction and assignment](edmentum-exact-path-adaptive-program.md)
 - [IXL Math personalized learning program with Real-Time Diagnostic and IXL Analytics](ixl-math-program-element.md)
+- [Edmentum Exact Path Growth personalized learning program](edmentum-exact-path-growth-program.md)
 
 ## Examples
 

@@ -66,6 +66,7 @@ Well-implemented SEL programs produce measurable gains in social-emotional skill
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — a classroom-routine variant that embeds SEL practice in daily community meetings
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a low-stakes emotion-labeling activity usable as a warm-up within an SEL sequence
 - [Deliver social-emotional skills through short, frequent structured lessons with teacher manuals and parallel parent handbooks](positive-action-lesson-delivery-strategy.md)
+- [Implement Connect Science through a staged professional development sequence with coaching and reflective practice](connect-science-staged-pd-sequence.md)
 
 ## Examples
 - **[PATHS (Promoting Alternative Thinking Strategies)](https://www.pathseducation.com)** — sequenced elementary curriculum teaching emotion vocabulary and self-control; among the most heavily evaluated universal SEL programs.

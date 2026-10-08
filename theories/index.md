@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**1005 entries** · 0 stable · 13 in review · 992 drafts
+**1007 entries** · 0 stable · 13 in review · 994 drafts
 
 ---
 
@@ -357,6 +357,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### F {: #letter-f }
 
+* [FAST logic model linking family strengthening to school turnaround](fast-logic-model-school-turnaround.md) - The FAST program rests on a logic model (Exhibit 1) in which parent-child relationship building, parent-school engagement, parental social support, and improved home environment lead to improved child behavior and cla...
 * [Federation University model: a program-level case-based experiential learning framework linking thinking, doing and acting](federation-university-case-based-experiential-model.md) - The Federation University model is a program-level teaching framework for community and human services education that integrates Kolb's four-stage experiential cycle with case-based teaching.
 * [Feedback loops: purposeful, bidirectional, iterative interactions that transform knowledge, actions, or goals](feedback-loops-definition.md) - The report defines a feedback loop as an interaction between two or more parties that is purposeful, bidirectional, and iterative and transforms the knowledge, actions, or goals of the engaged parties.
 * [Feuerstein's Mediated Learning Experience (MLE) theory: a human mediator modifies the learner's interaction with stimuli to build cognitive modifiability](mle-theory-human-mediator-cognitive-modifiability.md) - MLE theory holds that intelligence is modifiable and that learning proceeds most effectively when a human mediator interposes between stimuli and the learner.
@@ -761,6 +762,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Research project supervision (TPI) as a special case of tutoring with identified organizational and process elements](tpi-online-research-supervision-tutoring-model.md) - The article presents a model for online research project tutoring (TPI) in which supervision is treated as \"a special case of tutoring that offers the student guidance and orientation in aspects linked to the acquisit...
 * [Response likelihood as a measure of the reliability of the response actually given, computed from the 2PL IRT model](response-likelihood-reliability-measure.md) - The article defines response likelihood L = π(θ)^s · (1−π(θ))^(1−s), where π is the 2PL IRT probability that an examinee of ability θ answers correctly and s is 1 for correct or 0 for incorrect.
 * [Responsive literacy coaching as a co-learner model grounded in trust and inquiry](responsive-literacy-coaching-co-learner-model.md) - The article articulates a framework of eight principles for responsive literacy coaching in which the coach embraces Cambourne's co-learner model rather than positioning herself as the expert.
+* [Restorative practices as the grounding framework of the program](restorative-practices-whole-school-framework.md) - The program is grounded in restorative practices, operationalized through 11 essential elements that center on the importance of communication, responsibility, restoration, and separating the deed from the doer.
 * [Retrieval Practice Experiment Architecture and Factors](retrieval-practice-research-factors-framework.md) - The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment.
 * [Retrieval-practice account of why HOCS clicker questions benefit LOCS exam performance](retrieval-practice-account-hocs-clickers.md) - The article explains its counterintuitive finding with a retrieval-practice mechanism: when students answer higher-order clicker questions, they must \"practice recalling factual material in order to “solve” the proble...
 * [Revised Bloom's Taxonomy process dimensions as a framework for framing value education objectives](rbt-process-dimensions-value-education-objectives.md) - The article adopts Anderson and Krathwohl's (2001) Revised Bloom's Taxonomy, in which \"six process dimensions\" are named \"Remember, Understand, Apply, Analyze, Evaluate and Create.\" These dimensions \"represent a conti...

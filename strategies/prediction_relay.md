@@ -61,9 +61,11 @@ Prediction Relay operationalizes the finding that generating predictions before 
 6. Continue alternating for the timed session (typically 10–15 minutes), then switch roles in the next session ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the predict–read–verify cycle but adds questioning, clarifying, and summarizing in a role-rotation format
 - [Peer Tutoring](../strategies/peer-tutoring.md) — the broader class of structured peer-mediated activities of which PALS is a validated instance
 - [Partner Reading](../strategies/partner-reading.md) — the fluency component that precedes Prediction Relay in the PALS sequence
+- [Arrange PALS tutor training through AIR by specifying training type, grade level, group size, and location](pals-air-tutoring-training-request-strategy.md)
 
 ## Examples
 - **PALS Reading (Vanderbilt University)** — the original peer-mediated reading program; Prediction Relay is a standard activity in the grades 2–6 version. https://kc.vanderbilt.edu/pals/

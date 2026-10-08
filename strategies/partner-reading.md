@@ -58,9 +58,11 @@ Partner reading converts independent reading into structured [practice](../eleme
 5. Monitor pairs, collecting data on accuracy, fluency, error correction, and participation; use summaries and retellings to assess comprehension.
 
 ## Related Strategies
+
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — pairs or small groups alternate comprehension-strategy roles; complements partner reading's fluency focus with strategy instruction
 - [Choral Reading](../strategies/choral-reading.md) — group oral reading alternative that lowers risk for very hesitant readers before pairing
 - [Peer Tutoring](../strategies/peer-tutoring.md) — the broader family of structured peer-delivered instruction of which PALS is an instance
+- [Arrange PALS tutor training through AIR by specifying training type, grade level, group size, and location](pals-air-tutoring-training-request-strategy.md)
 
 ## Examples
 - **[PALS Reading](https://iris.peabody.vanderbilt.edu/module/pals/)** (Vanderbilt IRIS Center) — the class-wide peer-tutoring program whose partner-reading routine is the best-researched implementation, with published K–2, 2–6, and high-school versions.

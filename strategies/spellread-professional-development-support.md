@@ -53,6 +53,7 @@ The article reports that SpellRead™ implementation is supported by "comprehens
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
 - [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
 - [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
+- [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 
 ## Examples
 -

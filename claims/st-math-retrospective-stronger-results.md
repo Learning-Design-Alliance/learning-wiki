@@ -45,3 +45,4 @@ Two retrospective quasi-experimental comparisons of math achievement between ST 
 ## Related Claims
 - [Across four studies, ST Math shows an average effect size of +0.07 on math achievement](st-math-average-effect-size-007.md) — a broader claim this one bears on
 - [First cluster-randomized trial: ST Math students outperformed controls after one year (+0.09), with less robust results after two years (+0.03)](st-math-crt1-year-one-009-year-two-003.md) — related
+- [Thinking Math! effects were stronger for students who started in Grade 3 (+0.28) than for students who started in Grade 2 (+0.01)](thinking-math-grade-level-moderation.md) — related

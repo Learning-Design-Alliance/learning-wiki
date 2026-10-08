@@ -52,3 +52,4 @@ Quasi-experimental study in the 2024–2025 school year with 399 kindergarten st
 - [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](once-rct-no-significant-dibels-effect-low-dosage.md) — related
 - [Daily 15-minute one-to-one virtual tutoring improves first-grade foundational reading outcomes more than standard classroom instruction (ES = +0.21)](ignite-reading-dibels-gain-first-grade.md) — related
 - [Kindergarten students using My Reading Academy outperformed comparison students on end-of-year state literacy assessments (ES +0.17)](mra-kindergarten-literacy-es-017.md) — related
+- [Kindergarten students using Take-Everywhere Literacy Packs scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES +0.39)](literacy-packs-dibels-es-039.md) — possibly the same claim (merge candidate)

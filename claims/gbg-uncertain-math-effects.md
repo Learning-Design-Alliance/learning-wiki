@@ -49,3 +49,4 @@ WWC synthesis of one study (Weis et al., 2015) using the NWEA Mathematics test w
 - [Good Behavior Game shows uncertain effects on literacy achievement, with a pooled effect size of 0.07 that is not statistically significant](gbg-uncertain-literacy-effects.md) — related
 - [Good Behavior Game shows uncertain effects on school climate in after-school programs, with a pooled effect size of 0.15 that is not statistically significant](gbg-uncertain-school-climate-effects.md) — related
 - [Positive effects of PAX Good Behavior Game were also found in math](pax-gbg-positive-math-effects.md) — related
+- [PAX Good Behavior Game improves elementary math achievement relative to matched control classes (ES +0.32)](pax-gbg-math-effect-032.md) — related

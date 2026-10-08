@@ -47,3 +47,5 @@ The evidence-rating page reports an evidence rating of promising based on 1 stud
 - [Positive effects of PAX Good Behavior Game were also found in math](pax-gbg-positive-math-effects.md) — related
 - [Good Behavior Game shows uncertain effects on school climate in after-school programs, with a pooled effect size of 0.15 that is not statistically significant](gbg-uncertain-school-climate-effects.md) — related
 - [Good Behavior Game shows uncertain effects on literacy achievement, with a pooled effect size of 0.07 that is not statistically significant](gbg-uncertain-literacy-effects.md) — related
+- [PAX Good Behavior Game improves elementary math achievement relative to matched control classes (ES +0.32)](pax-gbg-math-effect-032.md) — related
+- [PAX Good Behavior Game also shows positive effects on reading outcomes](pax-gbg-positive-reading-effects.md) — related

@@ -45,3 +45,4 @@ Cluster randomized controlled trial rated Meets WWC Group Design Standards Witho
 - [In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)](building-blocks-hofer-2013-scale-up-effect.md) — related
 - [Building Blocks for Math has positive effects on preschool mathematics achievement according to the WWC](building-blocks-prek-positive-effects-math.md) — related
 - [Building Blocks has a potentially positive effect on preschool mathematics achievement, with a pooled effect size of 0.58 across three studies meeting WWC standards](building-blocks-potentially-positive-preschool-math-effect.md) — a broader claim this one bears on
+- [Connect Science raises fourth-grade science achievement more than business-as-usual science instruction (effect size +0.36)](connect-science-science-achievement-es-036.md) — related

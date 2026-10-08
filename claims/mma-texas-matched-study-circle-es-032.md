@@ -46,3 +46,4 @@ A matched study in 17 high-need Texas schools with 781 pre-kindergarten students
 - [Imagine Español use is associated with significantly higher Spanish CIRCLE Progress Monitoring scores for Pre-K students (ES +0.25)](imagine-espanol-prek-spanish-circle-gains.md) — related
 - [Learning gains are greatest for students starting with moderate math knowledge, and increase with games played](mma-moderators-baseline-and-usage.md) — related
 - [My Math Academy raises kindergarten math scores in a randomized study (ES = +0.23, p = .03)](mma-rct-tema3-es-023.md) — related
+- [JUMP Math raised math achievement with an effect size of +0.23 on Woodcock math tests in rural Ontario schools](jump-math-effect-023-woodcock-ontario.md) — related

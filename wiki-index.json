@@ -1,15 +1,15 @@
 {
  "counts": {
-  "claim": 4472,
-  "design": 186,
-  "element": 1055,
+  "claim": 4509,
+  "design": 192,
+  "element": 1071,
   "learner-variable": 12,
   "method": 38,
   "pattern": 126,
   "principle": 375,
   "process": 18,
-  "strategy": 3402,
-  "theory": 1005
+  "strategy": 3416,
+  "theory": 1007
  },
  "kinds": [
   "claim",
@@ -6215,6 +6215,15 @@
    "type": "claim"
   },
   {
+   "description": "Connect Science raises fourth-grade science achievement more than business-as-usual science instruction (effect size +0.36)",
+   "evidence_strength": "moderate",
+   "id": "connect-science-science-achievement-es-036",
+   "path": "claims/connect-science-science-achievement-es-036.md",
+   "status": "draft",
+   "title": "Connect Science raises fourth-grade science achievement more than business-as-usual science instruction (effect size +0.36)",
+   "type": "claim"
+  },
+  {
    "description": "Critics argue connectivism cannot explain concept formation or development, invoking the learning paradox",
    "evidence_strength": "weak",
    "id": "connectivism-cannot-explain-concept-development",
@@ -9735,12 +9744,57 @@
    "type": "claim"
   },
   {
+   "description": "Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)",
+   "evidence_strength": "moderate",
+   "id": "ecri-improves-word-reading-outcomes-first-grade",
+   "path": "claims/ecri-improves-word-reading-outcomes-first-grade.md",
+   "status": "draft",
+   "title": "Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)",
+   "type": "claim"
+  },
+  {
    "description": "Plotting experience against OSCE results showed no effect of years of emergency department experience on consent-taking skill scores",
    "evidence_strength": "weak",
    "id": "ed-experience-no-effect-osce-consent",
    "path": "claims/ed-experience-no-effect-osce-consent.md",
    "status": "draft",
    "title": "Plotting experience against OSCE results showed no effect of years of emergency department experience on consent-taking skill scores",
+   "type": "claim"
+  },
+  {
+   "description": "Edpuzzle Original math videos raise grades 3\u20135 mathematics achievement on the CAASPP (effect size +0.09)",
+   "evidence_strength": "moderate",
+   "id": "edpuzzle-caaspp-math-effect-009",
+   "path": "claims/edpuzzle-caaspp-math-effect-009.md",
+   "status": "draft",
+   "title": "Edpuzzle Original math videos raise grades 3\u20135 mathematics achievement on the CAASPP (effect size +0.09)",
+   "type": "claim"
+  },
+  {
+   "description": "Dosage relationship: more assigned Edpuzzle videos associated with larger gains",
+   "evidence_strength": "weak",
+   "id": "edpuzzle-dosage-more-videos-larger-gains",
+   "path": "claims/edpuzzle-dosage-more-videos-larger-gains.md",
+   "status": "draft",
+   "title": "Dosage relationship: more assigned Edpuzzle videos associated with larger gains",
+   "type": "claim"
+  },
+  {
+   "description": "Edpuzzle qualifies for a Promising evidence rating based on one school-level randomized study",
+   "evidence_strength": "moderate",
+   "id": "edpuzzle-promising-evidence-rating",
+   "path": "claims/edpuzzle-promising-evidence-rating.md",
+   "status": "draft",
+   "title": "Edpuzzle qualifies for a Promising evidence rating based on one school-level randomized study",
+   "type": "claim"
+  },
+  {
+   "description": "Edpuzzle Original math videos raise Renaissance Star Math scores and fall-to-spring growth (effect size +0.11)",
+   "evidence_strength": "moderate",
+   "id": "edpuzzle-star-math-effect-011",
+   "path": "claims/edpuzzle-star-math-effect-011.md",
+   "status": "draft",
+   "title": "Edpuzzle Original math videos raise Renaissance Star Math scores and fall-to-spring growth (effect size +0.11)",
    "type": "claim"
   },
   {
@@ -11300,12 +11354,39 @@
    "type": "claim"
   },
   {
+   "description": "Exact Path has a statistically significant positive effect on grade 6 ELA achievement (effect size +0.16)",
+   "evidence_strength": "moderate",
+   "id": "exact-path-ela-effect-016-dcps",
+   "path": "claims/exact-path-ela-effect-016-dcps.md",
+   "status": "draft",
+   "title": "Exact Path has a statistically significant positive effect on grade 6 ELA achievement (effect size +0.16)",
+   "type": "claim"
+  },
+  {
+   "description": "The supporting evidence for Exact Path is a single quasi-experimental study of nearly 10,000 diverse grade 6 students",
+   "evidence_strength": "moderate",
+   "id": "exact-path-evidence-base-quasi-experimental-dcps",
+   "path": "claims/exact-path-evidence-base-quasi-experimental-dcps.md",
+   "status": "draft",
+   "title": "The supporting evidence for Exact Path is a single quasi-experimental study of nearly 10,000 diverse grade 6 students",
+   "type": "claim"
+  },
+  {
    "description": "Exact Path use produced a statistically significant positive effect on 6th-grade Mathematics achievement (effect size = +0.06) in the same quasi-experimental study",
    "evidence_strength": "moderate",
    "id": "exact-path-math-effect-006",
    "path": "claims/exact-path-math-effect-006.md",
    "status": "draft",
    "title": "Exact Path use produced a statistically significant positive effect on 6th-grade Mathematics achievement (effect size = +0.06) in the same quasi-experimental study",
+   "type": "claim"
+  },
+  {
+   "description": "Exact Path has a statistically significant positive effect on grade 6 Mathematics achievement (effect size +0.06)",
+   "evidence_strength": "moderate",
+   "id": "exact-path-math-effect-006-dcps",
+   "path": "claims/exact-path-math-effect-006-dcps.md",
+   "status": "draft",
+   "title": "Exact Path has a statistically significant positive effect on grade 6 Mathematics achievement (effect size +0.06)",
    "type": "claim"
   },
   {
@@ -12265,6 +12346,15 @@
    "type": "claim"
   },
   {
+   "description": "Fidelity of FAST program-component delivery was high (97\u201398 percent overall), but reach to families fell far below design expectations",
+   "evidence_strength": "moderate",
+   "id": "fast-fidelity-high-reach-low",
+   "path": "claims/fast-fidelity-high-reach-low.md",
+   "status": "draft",
+   "title": "Fidelity of FAST program-component delivery was high (97\u201398 percent overall), but reach to families fell far below design expectations",
+   "type": "claim"
+  },
+  {
    "description": "Both studies of Fast ForWord in the alphabetics domain showed indeterminate effects, with no statistically significant or substantively important effects",
    "evidence_strength": "moderate",
    "id": "fast-forword-alphabetics-indeterminate",
@@ -12355,12 +12445,57 @@
    "type": "claim"
   },
   {
+   "description": "Small isolated effects on family conflict (negative) and parent-teacher joining (positive) appeared but were not enduring and may be spurious",
+   "evidence_strength": "weak",
+   "id": "fast-isolated-small-effects-possibly-spurious",
+   "path": "claims/fast-isolated-small-effects-possibly-spurious.md",
+   "status": "draft",
+   "title": "Small isolated effects on family conflict (negative) and parent-teacher joining (positive) appeared but were not enduring and may be spurious",
+   "type": "claim"
+  },
+  {
    "description": "Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)",
    "evidence_strength": "weak",
    "id": "fast-mapping-full-mapping-word-learning",
    "path": "claims/fast-mapping-full-mapping-word-learning.md",
    "status": "draft",
    "title": "Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)",
+   "type": "claim"
+  },
+  {
+   "description": "The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT",
+   "evidence_strength": "moderate",
+   "id": "fast-no-subgroup-differential-impact",
+   "path": "claims/fast-no-subgroup-differential-impact.md",
+   "status": "draft",
+   "title": "The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT",
+   "type": "claim"
+  },
+  {
+   "description": "Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance",
+   "evidence_strength": "weak",
+   "id": "fast-qed-dose-effects-reading-math-attendance",
+   "path": "claims/fast-qed-dose-effects-reading-math-attendance.md",
+   "status": "draft",
+   "title": "Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance",
+   "type": "claim"
+  },
+  {
+   "description": "Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT",
+   "evidence_strength": "moderate",
+   "id": "fast-rct-no-meaningful-enduring-effects",
+   "path": "claims/fast-rct-no-meaningful-enduring-effects.md",
+   "status": "draft",
+   "title": "Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT",
+   "type": "claim"
+  },
+  {
+   "description": "FAST take-up was far below the projected 60 percent participation rate, with only about 20 percent typical participation per year",
+   "evidence_strength": "moderate",
+   "id": "fast-takeup-far-below-projected",
+   "path": "claims/fast-takeup-far-below-projected.md",
+   "status": "draft",
+   "title": "FAST take-up was far below the projected 60 percent participation rate, with only about 20 percent typical participation per year",
    "type": "claim"
   },
   {
@@ -12397,6 +12532,15 @@
    "path": "claims/fast-track-social-outcomes-mixed-measures.md",
    "status": "draft",
    "title": "Fast Track showed positive, statistically significant effects on three social outcome measures after one year, with no significant differences on three others",
+   "type": "claim"
+  },
+  {
+   "description": "The study concluded FAST is unlikely to meaningfully contribute to turning around low-performing schools, though reading benefits may exist for participating families",
+   "evidence_strength": "moderate",
+   "id": "fast-unlikely-school-turnaround-conclusion",
+   "path": "claims/fast-unlikely-school-turnaround-conclusion.md",
+   "status": "draft",
+   "title": "The study concluded FAST is unlikely to meaningfully contribute to turning around low-performing schools, though reading benefits may exist for participating families",
    "type": "claim"
   },
   {
@@ -17241,6 +17385,15 @@
    "type": "claim"
   },
   {
+   "description": "Instructional assistants can deliver most Tier 2 small-group reading instruction under the ECRI model",
+   "evidence_strength": "weak",
+   "id": "instructional-assistants-deliver-tier2-small-group-reading",
+   "path": "claims/instructional-assistants-deliver-tier2-small-group-reading.md",
+   "status": "draft",
+   "title": "Instructional assistants can deliver most Tier 2 small-group reading instruction under the ECRI model",
+   "type": "claim"
+  },
+  {
    "description": "Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures",
    "evidence_strength": "moderate",
    "id": "instructional-clarity-main-effect-concept-achievement",
@@ -18352,6 +18505,15 @@
    "path": "claims/judges-perceive-ceda-ndt-work-exceeds-parliamentary-work.md",
    "status": "draft",
    "title": "Judges surveyed perceive CEDA/NDT debaters as devoting more weekly work than parliamentary debaters",
+   "type": "claim"
+  },
+  {
+   "description": "JUMP Math raised math achievement with an effect size of +0.23 on Woodcock math tests in rural Ontario schools",
+   "evidence_strength": "moderate",
+   "id": "jump-math-effect-023-woodcock-ontario",
+   "path": "claims/jump-math-effect-023-woodcock-ontario.md",
+   "status": "draft",
+   "title": "JUMP Math raised math achievement with an effect size of +0.23 on Woodcock math tests in rural Ontario schools",
    "type": "claim"
   },
   {
@@ -19603,6 +19765,24 @@
    "type": "claim"
   },
   {
+   "description": "Lectura Proactiva's evidence base comes from randomized studies of Spanish-speaking first graders below the 25th percentile in urban Texas schools",
+   "evidence_strength": "moderate",
+   "id": "lectura-proactiva-evidence-population-scope",
+   "path": "claims/lectura-proactiva-evidence-population-scope.md",
+   "status": "draft",
+   "title": "Lectura Proactiva's evidence base comes from randomized studies of Spanish-speaking first graders below the 25th percentile in urban Texas schools",
+   "type": "claim"
+  },
+  {
+   "description": "Lectura Proactiva raises literacy outcomes for Spanish-speaking first-grade struggling readers, with an average effect size of +0.49 across two studies",
+   "evidence_strength": "moderate",
+   "id": "lectura-proactiva-improves-literacy-outcomes",
+   "path": "claims/lectura-proactiva-improves-literacy-outcomes.md",
+   "status": "draft",
+   "title": "Lectura Proactiva raises literacy outcomes for Spanish-speaking first-grade struggling readers, with an average effect size of +0.49 across two studies",
+   "type": "claim"
+  },
+  {
    "description": "Review reports lecturers' discourses vary: distinct teaching styles and routine profiles despite superficially similar lectures",
    "evidence_strength": "weak",
    "id": "lecturer-discourse-variability-in-styles-and-routines",
@@ -20284,6 +20464,15 @@
    "path": "claims/literacy-learning-conceptions-culturally-shaped.md",
    "status": "draft",
    "title": "Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries",
+   "type": "claim"
+  },
+  {
+   "description": "Kindergarten students using Take-Everywhere Literacy Packs scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES +0.39)",
+   "evidence_strength": "moderate",
+   "id": "literacy-packs-dibels-es-039",
+   "path": "claims/literacy-packs-dibels-es-039.md",
+   "status": "draft",
+   "title": "Kindergarten students using Take-Everywhere Literacy Packs scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES +0.39)",
    "type": "claim"
   },
   {
@@ -25224,6 +25413,15 @@
    "type": "claim"
   },
   {
+   "description": "Teachers and students report generally favorable impressions of PALS, with least favorability toward team-based structure components",
+   "evidence_strength": "moderate",
+   "id": "pals-favorable-teacher-student-impressions",
+   "path": "claims/pals-favorable-teacher-student-impressions.md",
+   "status": "draft",
+   "title": "Teachers and students report generally favorable impressions of PALS, with least favorability toward team-based structure components",
+   "type": "claim"
+  },
+  {
    "description": "For first-grade nonresponders, PALS showed no statistically significant effects on seven alphabetics outcomes compared with adult tutoring",
    "evidence_strength": "moderate",
    "id": "pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring",
@@ -25338,6 +25536,15 @@
    "path": "claims/pals-potentially-positive-reading-fluency-ld.md",
    "status": "draft",
    "title": "PALS shows potentially positive effects on reading fluency for students with learning disabilities (average effect size 0.36, not statistically significant)",
+   "type": "claim"
+  },
+  {
+   "description": "PALS shows strong evidence of positive effects on first-grade literacy, with an average effect size of +0.23 across three studies",
+   "evidence_strength": "moderate",
+   "id": "pals-strong-evidence-first-grade-literacy-es-023",
+   "path": "claims/pals-strong-evidence-first-grade-literacy-es-023.md",
+   "status": "draft",
+   "title": "PALS shows strong evidence of positive effects on first-grade literacy, with an average effect size of +0.23 across three studies",
    "type": "claim"
   },
   {
@@ -25775,12 +25982,30 @@
    "type": "claim"
   },
   {
+   "description": "PAX Good Behavior Game improves elementary math achievement relative to matched control classes (ES +0.32)",
+   "evidence_strength": "moderate",
+   "id": "pax-gbg-math-effect-032",
+   "path": "claims/pax-gbg-math-effect-032.md",
+   "status": "draft",
+   "title": "PAX Good Behavior Game improves elementary math achievement relative to matched control classes (ES +0.32)",
+   "type": "claim"
+  },
+  {
    "description": "Positive effects of PAX Good Behavior Game were also found in math",
    "evidence_strength": "weak",
    "id": "pax-gbg-positive-math-effects",
    "path": "claims/pax-gbg-positive-math-effects.md",
    "status": "draft",
    "title": "Positive effects of PAX Good Behavior Game were also found in math",
+   "type": "claim"
+  },
+  {
+   "description": "PAX Good Behavior Game also shows positive effects on reading outcomes",
+   "evidence_strength": "weak",
+   "id": "pax-gbg-positive-reading-effects",
+   "path": "claims/pax-gbg-positive-reading-effects.md",
+   "status": "draft",
+   "title": "PAX Good Behavior Game also shows positive effects on reading outcomes",
    "type": "claim"
   },
   {
@@ -28543,6 +28768,33 @@
   {
    "description": "Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)",
    "evidence_strength": "moderate",
+   "id": "pthv-home-visit-improves-attendance-es-002",
+   "path": "claims/pthv-home-visit-improves-attendance-es-002.md",
+   "status": "draft",
+   "title": "Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)",
+   "type": "claim"
+  },
+  {
+   "description": "Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores",
+   "evidence_strength": "moderate",
+   "id": "pthv-home-visit-math-gain-no-ela-difference",
+   "path": "claims/pthv-home-visit-math-gain-no-ela-difference.md",
+   "status": "draft",
+   "title": "Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores",
+   "type": "claim"
+  },
+  {
+   "description": "A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)",
+   "evidence_strength": "moderate",
+   "id": "pthv-home-visit-reduces-disciplinary-incidents",
+   "path": "claims/pthv-home-visit-reduces-disciplinary-incidents.md",
+   "status": "draft",
+   "title": "A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)",
+   "type": "claim"
+  },
+  {
+   "description": "Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)",
+   "evidence_strength": "moderate",
    "id": "pthv-home-visits-improve-attendance-slightly",
    "path": "claims/pthv-home-visits-improve-attendance-slightly.md",
    "status": "draft",
@@ -28556,6 +28808,15 @@
    "path": "claims/pthv-math-slight-gain-ela-no-difference.md",
    "status": "draft",
    "title": "Home visits showed slight improvements in math scores but no difference in ELA scores",
+   "type": "claim"
+  },
+  {
+   "description": "PTHV is rated promising for social-emotional learning with an average effect size of +0.10 from one study",
+   "evidence_strength": "weak",
+   "id": "pthv-sel-promising-rating-es-010",
+   "path": "claims/pthv-sel-promising-rating-es-010.md",
+   "status": "draft",
+   "title": "PTHV is rated promising for social-emotional learning with an average effect size of +0.10 from one study",
    "type": "claim"
   },
   {
@@ -29256,6 +29517,24 @@
    "path": "claims/reading-difficulty-excluded-aspect-extended-time.md",
    "status": "draft",
    "title": "Reading difficulty occurs when one aspect of the interactive reading process is excluded for an extended period of time",
+   "type": "claim"
+  },
+  {
+   "description": "After one year, middle school students using Reading Edge scored higher on the Gates-MacGinitie Reading Tests with an overall effect size of +0.15",
+   "evidence_strength": "moderate",
+   "id": "reading-edge-gates-macginitie-es-015",
+   "path": "claims/reading-edge-gates-macginitie-es-015.md",
+   "status": "draft",
+   "title": "After one year, middle school students using Reading Edge scored higher on the Gates-MacGinitie Reading Tests with an overall effect size of +0.15",
+   "type": "claim"
+  },
+  {
+   "description": "Reading Edge produced statistically significant gains in reading comprehension and vocabulary",
+   "evidence_strength": "moderate",
+   "id": "reading-edge-significant-comprehension-vocabulary-gains",
+   "path": "claims/reading-edge-significant-comprehension-vocabulary-gains.md",
+   "status": "draft",
+   "title": "Reading Edge produced statistically significant gains in reading comprehension and vocabulary",
    "type": "claim"
   },
   {
@@ -31346,6 +31625,42 @@
    "path": "claims/rwt-significant-alphabetics-gains-versus-regular-instruction.md",
    "status": "draft",
    "title": "Read, Write & Type!\u2122 shows statistically significant positive effects on phoneme segmenting and word attack relative to regular classroom instruction for low-achieving first graders",
+   "type": "claim"
+  },
+  {
+   "description": "Whole-school restorative practices program significantly improves average daily attendance at the student level",
+   "evidence_strength": "moderate",
+   "id": "safersanschools-improves-daily-attendance-student-level",
+   "path": "claims/safersanschools-improves-daily-attendance-student-level.md",
+   "status": "draft",
+   "title": "Whole-school restorative practices program significantly improves average daily attendance at the student level",
+   "type": "claim"
+  },
+  {
+   "description": "Participating schools report more positive teacher and staff perceptions of teaching and learning conditions",
+   "evidence_strength": "moderate",
+   "id": "safersanschools-improves-teacher-perceptions-conditions",
+   "path": "claims/safersanschools-improves-teacher-perceptions-conditions.md",
+   "status": "draft",
+   "title": "Participating schools report more positive teacher and staff perceptions of teaching and learning conditions",
+   "type": "claim"
+  },
+  {
+   "description": "Whole-school restorative practices program significantly reduces chronic absenteeism at the student level",
+   "evidence_strength": "moderate",
+   "id": "safersanschools-reduces-chronic-absence-student-level",
+   "path": "claims/safersanschools-reduces-chronic-absence-student-level.md",
+   "status": "draft",
+   "title": "Whole-school restorative practices program significantly reduces chronic absenteeism at the student level",
+   "type": "claim"
+  },
+  {
+   "description": "School-level outcomes of the whole-school restorative practices program were not significant",
+   "evidence_strength": "moderate",
+   "id": "safersanschools-school-level-results-not-significant",
+   "path": "claims/safersanschools-school-level-results-not-significant.md",
+   "status": "draft",
+   "title": "School-level outcomes of the whole-school restorative practices program were not significant",
    "type": "claim"
   },
   {
@@ -37545,6 +37860,24 @@
    "type": "claim"
   },
   {
+   "description": "Thinking Math!",
+   "evidence_strength": "moderate",
+   "id": "thinking-math-grade-level-moderation",
+   "path": "claims/thinking-math-grade-level-moderation.md",
+   "status": "draft",
+   "title": "Thinking Math! effects were stronger for students who started in Grade 3 (+0.28) than for students who started in Grade 2 (+0.01)",
+   "type": "claim"
+  },
+  {
+   "description": "Thinking Math!",
+   "evidence_strength": "moderate",
+   "id": "thinking-math-two-year-effect-024",
+   "path": "claims/thinking-math-two-year-effect-024.md",
+   "status": "draft",
+   "title": "Thinking Math! students scored significantly higher in mathematics than matched comparison students after two years (ES = +0.24)",
+   "type": "claim"
+  },
+  {
    "description": "The 96 thinking styles profiles cluster into three groups, with Achievement Motivation Thinking the most common",
    "evidence_strength": "weak",
    "id": "thinking-style-profiles-three-clusters",
@@ -40638,6 +40971,14 @@
    "type": "design"
   },
   {
+   "description": "The program is designed to be delivered by regular classroom teachers rather than added personnel: the article states \\\"No additional staffing requirements.\\\" Implementation instead depends on teacher preparation throug...",
+   "id": "connect-science-no-additional-staffing",
+   "path": "designs/connect-science-no-additional-staffing.md",
+   "status": "draft",
+   "title": "Adopt Connect Science without additional staffing, using existing classroom teachers trained through its professional development",
+   "type": "design"
+  },
+  {
    "description": "The article synthesizes an eight-step learning process from imagineering and constructionism principles: \\\"Imagine; start with an idea; research/explore/learn; design and write the script; create innovation; summarise...",
    "id": "constructionism-imagineering-process-metaverse",
    "path": "designs/constructionism-imagineering-process-metaverse.md",
@@ -41115,6 +41456,14 @@
    "type": "design"
   },
   {
+   "description": "The article describes a tutoring model in which sessions occur during the school day, are consistent across the year, and use \\\"student performance data to guide instruction.\\\" Tutoring is intended to supplement, not re...",
+   "id": "in-school-data-guided-tutoring-supplements-classroom",
+   "path": "designs/in-school-data-guided-tutoring-supplements-classroom.md",
+   "status": "draft",
+   "title": "Supplement classroom instruction with consistent in-school tutoring sessions that use student performance data to guide instruction",
+   "type": "design"
+  },
+  {
    "description": "The CNMCC Breaking Through Construction Apprenticeship Program is described as employing \\\"the elements of a streamlined curriculum, flexibility in delivery, strong industry links, program alignment and intensive suppo...",
    "id": "integrated-pathway-five-element-design",
    "path": "designs/integrated-pathway-five-element-design.md",
@@ -41391,6 +41740,14 @@
    "type": "design"
   },
   {
+   "description": "Pirate Math delivers tutoring one-to-one, with tutors who may be teachers or paraprofessionals working with students outside of ordinary math periods.",
+   "id": "one-to-one-supplemental-math-tutoring",
+   "path": "designs/one-to-one-supplemental-math-tutoring.md",
+   "status": "draft",
+   "title": "Deliver supplemental math tutoring one-to-one outside ordinary math periods, staffed by teachers or trained paraprofessionals",
+   "type": "design"
+  },
+  {
    "description": "A reusable lesson- and course-level design in which an online learning community is built on peer assisted learning, blended learning, and knowledge management.",
    "id": "online-peer-assisted-learning-community",
    "path": "designs/online-peer-assisted-learning-community.md",
@@ -41597,6 +41954,14 @@
    "path": "designs/scripted-role-play-cooperative-learning-lessons.md",
    "status": "draft",
    "title": "Scripted lessons combining role-playing, cooperative learning games, small group activities, and classroom discussion",
+   "type": "design"
+  },
+  {
+   "description": "This pattern organizes an elementary science unit around three integrated strands: standards-aligned science instruction, explicit social and collaborative skills teaching, and a facilitated service-learning experience.",
+   "id": "service-learning-integrated-elementary-science-unit",
+   "path": "designs/service-learning-integrated-elementary-science-unit.md",
+   "status": "draft",
+   "title": "Service-learning integrated elementary science unit pattern combining NGSS practices, collaborative skills, and a service project",
    "type": "design"
   },
   {
@@ -41832,6 +42197,14 @@
    "type": "design"
   },
   {
+   "description": "The curriculum is \\\"built around research-based learning progressions, a Concrete-Pictorial-Abstract model, and rich mathematical activities designed to connect concepts, interleave and space practice for long-term ret...",
+   "id": "thinking-math-curriculum-design-pattern",
+   "path": "designs/thinking-math-curriculum-design-pattern.md",
+   "status": "draft",
+   "title": "Curriculum design combining learning progressions, CPA model, and spaced/interleaved practice",
+   "type": "design"
+  },
+  {
    "description": "A three-phase science unit sequence that moves learners from critical annotation of texts exposing embedded bias, through cross-source synthesis, to speculative multimedia redesign of a more just future.",
    "grain_size": "unit",
    "id": "threading-weaving-patternmaking",
@@ -41855,6 +42228,14 @@
    "path": "designs/three-practices-for-ontological-alignment-in-computational-modeling.md",
    "status": "draft",
    "title": "Three Practices for Ontological Alignment in Computational Modeling",
+   "type": "design"
+  },
+  {
+   "description": "The studied program used a tiered time structure: \\\"all students, experimental and control, received 90 minutes of core reading instruction and 30 minutes of Tier 2 (supplemental) instruction.\\\" Core instruction is whol...",
+   "id": "tier1-tier2-reading-time-allocation-pattern",
+   "path": "designs/tier1-tier2-reading-time-allocation-pattern.md",
+   "status": "draft",
+   "title": "Tiered reading delivery pattern: 90 minutes whole-group core plus 30 minutes small-group Tier 2 for all struggling readers",
    "type": "design"
   },
   {
@@ -43370,6 +43751,14 @@
    "type": "element"
   },
   {
+   "description": "Connect Science is a curricular approach designed to prepare teachers to use Next Generation Science Standards (NGSS) instructional practices, teach social and collaborative skills, and facilitate a service-learning e...",
+   "id": "connect-science-curriculum-element",
+   "path": "elements/connect-science-curriculum-element.md",
+   "status": "draft",
+   "title": "Connect Science curriculum: 31 lessons integrating NGSS practices, social and collaborative skills, and service-learning",
+   "type": "element"
+  },
+  {
    "description": "Connect with Kids is a character education curriculum for elementary (grades 3\u20135) and secondary (grades 6\u201312) students that \\\"aims to promote prosocial attitudes and positive behavior\\\" by teaching core character values.",
    "id": "connect-with-kids-program",
    "path": "elements/connect-with-kids-program.md",
@@ -44157,6 +44546,14 @@
    "type": "element"
   },
   {
+   "description": "The program's materials include \\\"professional development workbooks for teachers and interventionists and a Leadership Guide for literacy leaders.\\\" The workbooks are \\\"designed to be used in a study group, self-study o...",
+   "id": "ecri-professional-development-workbooks-leadership-guide",
+   "path": "elements/ecri-professional-development-workbooks-leadership-guide.md",
+   "status": "draft",
+   "title": "Enhanced Core Reading Instruction professional development workbooks and Leadership Guide",
+   "type": "element"
+  },
+  {
    "description": "Exact Path Growth is described as \\\"a computer-adaptive supplemental program\\\" that supports instruction within TSI sessions.",
    "id": "edmentum-exact-path-adaptive-program",
    "path": "elements/edmentum-exact-path-adaptive-program.md",
@@ -44165,11 +44562,35 @@
    "type": "element"
   },
   {
+   "description": "Exact Path Growth is a personalized learning program for K-12 learners in Math and English Language Arts standards.",
+   "id": "edmentum-exact-path-growth-program",
+   "path": "elements/edmentum-exact-path-growth-program.md",
+   "status": "draft",
+   "title": "Edmentum Exact Path Growth personalized learning program",
+   "type": "element"
+  },
+  {
    "description": "Targeted Skills Instruction is \\\"a live, small-group virtual tutoring program for K-12 reading and math, delivered in 30\u201345-minute sessions three or more times per week.\\\" In the studied implementation, students were as...",
    "id": "edmentum-tsi-virtual-small-group-tutoring",
    "path": "elements/edmentum-tsi-virtual-small-group-tutoring.md",
    "status": "draft",
    "title": "Targeted Skills Instruction (TSI): live small-group virtual tutoring for K-12 reading and math",
+   "type": "element"
+  },
+  {
+   "description": "Edpuzzle is an interactive learning platform that turns passive video viewing into active learning by letting teachers weave questions, commentary, and engaging elements into videos, slides, and quizzes at precise mom...",
+   "id": "edpuzzle-interactive-video-platform",
+   "path": "elements/edpuzzle-interactive-video-platform.md",
+   "status": "draft",
+   "title": "Edpuzzle interactive video-learning platform",
+   "type": "element"
+  },
+  {
+   "description": "Edpuzzle Originals are ready-made, professionally-developed lessons aligned with Common Core standards that teachers can still adapt to their classroom requirements.",
+   "id": "edpuzzle-originals-standards-aligned-lessons",
+   "path": "elements/edpuzzle-originals-standards-aligned-lessons.md",
+   "status": "draft",
+   "title": "Edpuzzle Originals ready-made standards-aligned lessons",
    "type": "element"
   },
   {
@@ -44370,6 +44791,14 @@
    "path": "elements/enhance-retention-and-transfer.md",
    "status": "review",
    "title": "Enhance retention and transfer",
+   "type": "element"
+  },
+  {
+   "description": "Enhanced Core Reading Instruction is \\\"a program for struggling first grade readers\\\" that focuses on Tier 2 supplemental teaching.",
+   "id": "enhanced-core-reading-instruction-program",
+   "path": "elements/enhanced-core-reading-instruction-program.md",
+   "status": "draft",
+   "title": "Enhanced Core Reading Instruction program for struggling first-grade readers",
    "type": "element"
   },
   {
@@ -44778,6 +45207,14 @@
    "path": "elements/fast-forword-program-element.md",
    "status": "draft",
    "title": "Fast ForWord\u00ae adaptive computer-based reading program",
+   "type": "element"
+  },
+  {
+   "description": "FAST is a multifamily group program aiming to \\\"empower parents to improve their parenting skills, build positive relationships and social capital between families and schools.\\\" It has three stages: initial outreach, e...",
+   "id": "fast-program-element",
+   "path": "elements/fast-program-element.md",
+   "status": "draft",
+   "title": "Families and Schools Together (FAST) program",
    "type": "element"
   },
   {
@@ -45965,6 +46402,14 @@
    "type": "element"
   },
   {
+   "description": "JUMP Math is a highly-scaffolded, direct instruction approach covering all strands of K to 8 math, including computation and problem-solving.",
+   "id": "jump-math-program-element",
+   "path": "elements/jump-math-program-element.md",
+   "status": "draft",
+   "title": "JUMP Math program",
+   "type": "element"
+  },
+  {
    "description": "Instruction is provided at the point of need rather than upfront.",
    "id": "just-in-time-information",
    "path": "elements/just-in-time-information.md",
@@ -46314,6 +46759,14 @@
    "path": "elements/learning-unit-boxed-card-self-testing.md",
    "status": "draft",
    "title": "Learning unit: sentence-translation file cards sorted into boxes by self-test performance",
+   "type": "element"
+  },
+  {
+   "description": "Lectura Proactiva, distributed as Intervenciones tempranas de la lectura, is \u201ca one-to-small group reading intervention aimed at providing Spanish-speaking early readers the skills and strategies to accelerate the tra...",
+   "id": "lectura-proactiva-program-element",
+   "path": "elements/lectura-proactiva-program-element.md",
+   "status": "draft",
+   "title": "Lectura Proactiva: one-to-small-group Spanish reading intervention accelerating the transition to reading in English",
    "type": "element"
   },
   {
@@ -47301,6 +47754,14 @@
    "type": "element"
   },
   {
+   "description": "PALS is a peer-tutoring technique in which \\\"children work in pairs, taking turns as teacher and learner, to learn a structured sequence of literacy skills\\\".",
+   "id": "pals-peer-assisted-learning-strategies-program",
+   "path": "elements/pals-peer-assisted-learning-strategies-program.md",
+   "status": "draft",
+   "title": "Peer-Assisted Learning Strategies (PALS) first-grade literacy program",
+   "type": "element"
+  },
+  {
    "description": "PALS is \\\"a supplemental peer-tutoring program in which student pairs perform a structured set of activities in reading or math\\\".",
    "id": "pals-peer-tutoring-program-element",
    "path": "elements/pals-peer-tutoring-program-element.md",
@@ -47418,6 +47879,14 @@
    "path": "elements/pax-good-behavior-game-program.md",
    "status": "draft",
    "title": "PAX Good Behavior Game program",
+   "type": "element"
+  },
+  {
+   "description": "PAX Good Behavior Game is a commercial version of the long-standing Good Behavior Game, described as \\\"a commercial version that is very widely used in the U.S.",
+   "id": "pax-good-behavior-game-program-element",
+   "path": "elements/pax-good-behavior-game-program-element.md",
+   "status": "draft",
+   "title": "PAX Good Behavior Game program package (team-based behavior management with training, manuals, timers, and parent materials)",
    "type": "element"
   },
   {
@@ -48102,6 +48571,14 @@
   },
   {
    "description": "PTHV is a family engagement program co-created by parents and educators using community organizing principles of shared leadership.",
+   "id": "pthv-parent-teacher-home-visits-model",
+   "path": "elements/pthv-parent-teacher-home-visits-model.md",
+   "status": "draft",
+   "title": "Parent Teacher Home Visits (PTHV) family engagement model",
+   "type": "element"
+  },
+  {
+   "description": "PTHV is a family engagement program co-created by parents and educators using community organizing principles of shared leadership.",
    "id": "pthv-program-element",
    "path": "elements/pthv-program-element.md",
    "status": "draft",
@@ -48154,6 +48631,14 @@
    "path": "elements/pytorch-dkt-online-implementation.md",
    "status": "draft",
    "title": "Open-source PyTorch DKT implementation supporting online knowledge tracing with DataShop-format data",
+   "type": "element"
+  },
+  {
+   "description": "Each decodable book in the Literacy Packs includes a QR code linking to a 2-minute phonics video lesson.",
+   "id": "qr-code-phonics-video-lessons",
+   "path": "elements/qr-code-phonics-video-lessons.md",
+   "status": "draft",
+   "title": "QR-code phonics video lessons embedded in decodable books, offered in 14 languages",
    "type": "element"
   },
   {
@@ -48314,6 +48799,14 @@
    "path": "elements/reading-apprenticeship-program-family.md",
    "status": "draft",
    "title": "Reading Apprenticeship (RA) family of secondary literacy programs",
+   "type": "element"
+  },
+  {
+   "description": "The Reading Edge is \\\"a whole-school cooperative learning approach to reading instruction\\\" adapted from Student Team Reading.",
+   "id": "reading-edge-program-element",
+   "path": "elements/reading-edge-program-element.md",
+   "status": "draft",
+   "title": "The Reading Edge whole-school cooperative learning reading program",
    "type": "element"
   },
   {
@@ -48746,6 +49239,14 @@
    "path": "elements/rubrics.md",
    "status": "review",
    "title": "Rubrics",
+   "type": "element"
+  },
+  {
+   "description": "A whole-school change program disseminated through the International Institute for Restorative Practices and grounded in 11 essential elements centering on communication, responsibility, restoration, and separating th...",
+   "id": "safersanschools-whole-school-change-program",
+   "path": "elements/safersanschools-whole-school-change-program.md",
+   "status": "draft",
+   "title": "SaferSanerSchools\u2122 Whole-School Change program",
    "type": "element"
   },
   {
@@ -49778,6 +50279,14 @@
    "path": "elements/think-aloud.md",
    "status": "review",
    "title": "Think-Aloud",
+   "type": "element"
+  },
+  {
+   "description": "Thinking Math!",
+   "id": "thinking-math-innovamat-curriculum-element",
+   "path": "elements/thinking-math-innovamat-curriculum-element.md",
+   "status": "draft",
+   "title": "Thinking Math! (Innovamat PreK-8 mathematics curriculum)",
    "type": "element"
   },
   {
@@ -59557,6 +60066,14 @@
    "type": "strategy"
   },
   {
+   "description": "The program's professional development is interactive training on high quality service-learning instruction, integration of social emotional learning into academics, and best practices in teaching energy to elementary...",
+   "id": "connect-science-staged-pd-sequence",
+   "path": "strategies/connect-science-staged-pd-sequence.md",
+   "status": "draft",
+   "title": "Implement Connect Science through a staged professional development sequence with coaching and reflective practice",
+   "type": "strategy"
+  },
+  {
    "description": "Linking academic content to students' personal experiences, cultural backgrounds, and communities so that new material feels relevant and meaningful.",
    "id": "connect_content_to_student_lives",
    "path": "strategies/connect_content_to_student_lives.md",
@@ -62181,6 +62698,14 @@
    "type": "strategy"
   },
   {
+   "description": "The article recommends using Edpuzzle's customization and data features to personalize instruction: teachers place multiple-choice or open-ended questions and audio notes at precise moments, track viewing habits and s...",
+   "id": "edpuzzle-embedded-questions-analytics-differentiation",
+   "path": "strategies/edpuzzle-embedded-questions-analytics-differentiation.md",
+   "status": "draft",
+   "title": "Use Edpuzzle's embedded questions, analytics, and LMS integration to support differentiation",
+   "type": "strategy"
+  },
+  {
    "description": "Education calendars are visual aids designed to keep students, parents, and teachers informed about important dates, events, and activities.",
    "id": "education_calendars",
    "path": "strategies/education_calendars.md",
@@ -63333,6 +63858,14 @@
    "type": "strategy"
   },
   {
+   "description": "The program is designed for implementation by a district's current teachers, school leaders, and district leaders, with guidance from Edmentum's dedicated Customer Success Managers, so \\\"no additional staffing is requi...",
+   "id": "exact-path-implementation-existing-staff-pd",
+   "path": "strategies/exact-path-implementation-existing-staff-pd.md",
+   "status": "draft",
+   "title": "Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers",
+   "type": "strategy"
+  },
+  {
    "description": "The summary states that Exact Path Growth \\\"is implemented by a district's current teachers, school leaders, and district leaders with guidance provided by Edmentum's dedicated Customer Success Managers\\\" and that \\\"No a...",
    "id": "exact-path-implementation-strategy",
    "path": "strategies/exact-path-implementation-strategy.md",
@@ -64098,6 +64631,14 @@
    "path": "strategies/family-literacy-programs.md",
    "status": "review",
    "title": "Family Literacy Programs",
+   "type": "strategy"
+  },
+  {
+   "description": "The Literacy Packs include a Family Support Hub giving families instructional materials, comprehension prompts, and QR codes linking to short video lessons that model decoding strategies.",
+   "id": "family-support-hub-caregiver-literacy-resources",
+   "path": "strategies/family-support-hub-caregiver-literacy-resources.md",
+   "status": "draft",
+   "title": "Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection",
    "type": "strategy"
   },
   {
@@ -67821,6 +68362,14 @@
    "type": "strategy"
   },
   {
+   "description": "Teachers are implementation ready after 1 full day of training; in the study they received a second full follow-up day around mid-year, \\\"mostly used for sharing ideas and to overcome challenges.\\\" This light-touch prof...",
+   "id": "jump-math-one-day-training-mid-year-follow-up",
+   "path": "strategies/jump-math-one-day-training-mid-year-follow-up.md",
+   "status": "draft",
+   "title": "Prepare teachers with one full training day plus a mid-year follow-up day",
+   "type": "strategy"
+  },
+  {
    "description": "Delivering instruction at the moment learners need it to complete a task, rather than in advance of it.",
    "id": "just-in-time-learning",
    "path": "strategies/just-in-time-learning.md",
@@ -68362,6 +68911,14 @@
    "path": "strategies/learning_through_reflection.md",
    "status": "review",
    "title": "Learning Through Reflection",
+   "type": "strategy"
+  },
+  {
+   "description": "The implementable delivery recipe the article describes is that \u201cStudents meet daily for 50 minutes with a bilingual certified teacher in small groups of three to five students.\u201d This format pairs daily frequency, a 5...",
+   "id": "lectura-proactiva-daily-small-group-delivery",
+   "path": "strategies/lectura-proactiva-daily-small-group-delivery.md",
+   "status": "draft",
+   "title": "Schedule daily 50-minute small-group sessions of three to five students with a bilingual certified teacher",
    "type": "strategy"
   },
   {
@@ -71709,6 +72266,14 @@
    "type": "strategy"
   },
   {
+   "description": "To implement PALS, tutoring training is provided through AIR: users visit the Fuchs Tutoring Training Request page and \\\"indicate the type of training (e.,g., reading or math), the grade level requested, the number of...",
+   "id": "pals-air-tutoring-training-request-strategy",
+   "path": "strategies/pals-air-tutoring-training-request-strategy.md",
+   "status": "draft",
+   "title": "Arrange PALS tutor training through AIR by specifying training type, grade level, group size, and location",
+   "type": "strategy"
+  },
+  {
    "description": "PALS prepares teachers through a one-day training event followed by written support materials.",
    "id": "pals-teacher-training-workshop-modeling-role-play",
    "path": "strategies/pals-teacher-training-workshop-modeling-role-play.md",
@@ -71882,6 +72447,14 @@
    "path": "strategies/pause-procedure.md",
    "status": "draft",
    "title": "Pause Procedure",
+   "type": "strategy"
+  },
+  {
+   "description": "The program's implementation strategy centers on onsite training delivered by experienced therapists, priced at \\\"$2900 for 40 people for 1-day, on-site training for implementing PAX Good Behavior Game\u00ae\\\", supplemented...",
+   "id": "pax-gbg-onsite-training-parent-manuals",
+   "path": "strategies/pax-gbg-onsite-training-parent-manuals.md",
+   "status": "draft",
+   "title": "Implement PAX Good Behavior Game via one-day onsite teacher training with home-support manuals for parents",
    "type": "strategy"
   },
   {
@@ -72610,6 +73183,14 @@
    "path": "strategies/plc-building-transfer-strategy-common-interests-communication.md",
    "status": "draft",
    "title": "Transfer strategy for building PLCs through innovation projects: common interests, communication systems, and peer learning of practices",
+   "type": "strategy"
+  },
+  {
+   "description": "Teachers attend an initial Science of Reading and Implementation Professional Development Session, followed by targeted support sessions during grade-level Professional Learning Communities where they conduct lesson p...",
+   "id": "plc-lesson-study-implementation-support",
+   "path": "strategies/plc-lesson-study-implementation-support.md",
+   "status": "draft",
+   "title": "Support implementation with initial Science of Reading training plus PLC-based lesson study and model lessons",
    "type": "strategy"
   },
   {
@@ -73365,6 +73946,14 @@
    "type": "strategy"
   },
   {
+   "description": "In Enhanced Core Reading Instruction, Tier 2 small groups of 3-5 students are pretaught content soon to be taught in the core classroom, so supplemental instruction is directly aligned with Tier 1.",
+   "id": "preteach-core-content-small-tier2-groups",
+   "path": "strategies/preteach-core-content-small-tier2-groups.md",
+   "status": "draft",
+   "title": "Preteach core classroom content in small Tier 2 groups of 3-5 students",
+   "type": "strategy"
+  },
+  {
    "description": "Learners adopt imagined roles, objects, and scenarios, using symbolic substitution and role negotiation to explore content, practice social skills, and build self-regulation.",
    "id": "pretend_play",
    "path": "strategies/pretend_play.md",
@@ -74013,6 +74602,14 @@
    "type": "strategy"
   },
   {
+   "description": "This strategy implements PTHV's five non-negotiables as concrete practices for schools adopting home visits.",
+   "id": "pthv-voluntary-pair-visit-implementation-strategy",
+   "path": "strategies/pthv-voluntary-pair-visit-implementation-strategy.md",
+   "status": "draft",
+   "title": "Conduct voluntary, pair-based teacher home visits focused on hopes and dreams across a cross-section of students",
+   "type": "strategy"
+  },
+  {
    "description": "Learners announce a specific goal or intended action to others, increasing follow-through through social accountability and self-consistency pressure.",
    "id": "public_commitment",
    "path": "strategies/public_commitment.md",
@@ -74626,6 +75223,14 @@
    "path": "strategies/reading-conferences.md",
    "status": "review",
    "title": "Reading Conferences",
+   "type": "strategy"
+  },
+  {
+   "description": "The program's professional development model combines an initial workshop with ongoing classroom-embedded support: \\\"Two days of initial training is followed by in-class coaching about once a month.\\\" Support is provide...",
+   "id": "reading-edge-training-coaching-rollout",
+   "path": "strategies/reading-edge-training-coaching-rollout.md",
+   "status": "draft",
+   "title": "Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures",
    "type": "strategy"
   },
   {
@@ -76266,6 +76871,14 @@
    "path": "strategies/school-counselling-corrective-relationships-flexibility.md",
    "status": "draft",
    "title": "School-based counselling that targets irrational beliefs, attachment patterns and anxiety to support students' cognitive flexibility",
+   "type": "strategy"
+  },
+  {
+   "description": "The program's implementation model requires each school to designate a team of at least three members \u2014 an administrator, an interventionist, and a teacher \u2014 who meet monthly.",
+   "id": "school-implementation-team-monthly-training-support",
+   "path": "strategies/school-implementation-team-monthly-training-support.md",
+   "status": "draft",
+   "title": "Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support",
    "type": "strategy"
   },
   {
@@ -80338,6 +80951,14 @@
    "path": "strategies/think_time.md",
    "status": "review",
    "title": "Think Time",
+   "type": "strategy"
+  },
+  {
+   "description": "Each school is assigned \\\"a designated on-site instructional coach who is a math specialist\\\" supporting implementation monitoring, professional development, and coaching.",
+   "id": "thinking-math-coaching-pd-strategy",
+   "path": "strategies/thinking-math-coaching-pd-strategy.md",
+   "status": "draft",
+   "title": "Ongoing math-specialist coaching and curriculum-based professional development for implementing teachers",
    "type": "strategy"
   },
   {
@@ -85315,6 +85936,14 @@
    "type": "theory"
   },
   {
+   "description": "The FAST program rests on a logic model (Exhibit 1) in which parent-child relationship building, parent-school engagement, parental social support, and improved home environment lead to improved child behavior and cla...",
+   "id": "fast-logic-model-school-turnaround",
+   "path": "theories/fast-logic-model-school-turnaround.md",
+   "status": "draft",
+   "title": "FAST logic model linking family strengthening to school turnaround",
+   "type": "theory"
+  },
+  {
    "description": "The report defines FBA as \\\"an individualized problem-solving process for addressing student problem behavior\\\".",
    "id": "fba-individualized-problem-solving-process",
    "path": "theories/fba-individualized-problem-solving-process.md",
@@ -88585,6 +89214,14 @@
    "type": "theory"
   },
   {
+   "description": "The program is grounded in restorative practices, operationalized through 11 essential elements that center on the importance of communication, responsibility, restoration, and separating the deed from the doer.",
+   "id": "restorative-practices-whole-school-framework",
+   "path": "theories/restorative-practices-whole-school-framework.md",
+   "status": "draft",
+   "title": "Restorative practices as the grounding framework of the program",
+   "type": "theory"
+  },
+  {
    "description": "The article explains its counterintuitive finding with a retrieval-practice mechanism: when students answer higher-order clicker questions, they must \\\"practice recalling factual material in order to \u201csolve\u201d the proble...",
    "id": "retrieval-practice-account-hocs-clickers",
    "path": "theories/retrieval-practice-account-hocs-clickers.md",
@@ -91320,6 +91957,7 @@
    "congruence-symptom-relation-absent-at-six-months": "congruence-symptom-relation-absent-at-six-months",
    "congruence-varies-with-situation-importance-and-relationship": "congruence-varies-with-situation-importance-and-relationship",
    "congruent-leadership-form-domain-effectiveness": "congruent-leadership-form-domain-effectiveness",
+   "connect-science-science-achievement-es-036": "connect-science-science-achievement-es-036",
    "connectivism-cannot-explain-concept-development": "connectivism-cannot-explain-concept-development",
    "connectivism-evaluations-no-negative-evidence": "connectivism-evaluations-no-negative-evidence",
    "connectivism-iteration-of-architectonics": "connectivism-iteration-of-architectonics",
@@ -91717,7 +92355,12 @@
    "eclass-validated-interviews-experts": "eclass-validated-interviews-experts",
    "eco-anxiety-associated-depression-anxiety": "eco-anxiety-associated-depression-anxiety",
    "ecology-of-activity-systems-scmd": "ecology-of-activity-systems-scmd",
+   "ecri-improves-word-reading-outcomes-first-grade": "ecri-improves-word-reading-outcomes-first-grade",
    "ed-experience-no-effect-osce-consent": "ed-experience-no-effect-osce-consent",
+   "edpuzzle-caaspp-math-effect-009": "edpuzzle-caaspp-math-effect-009",
+   "edpuzzle-dosage-more-videos-larger-gains": "edpuzzle-dosage-more-videos-larger-gains",
+   "edpuzzle-promising-evidence-rating": "edpuzzle-promising-evidence-rating",
+   "edpuzzle-star-math-effect-011": "edpuzzle-star-math-effect-011",
    "education-attainment-rji-gap-older-adults": "education-attainment-rji-gap-older-adults",
    "education-corps-boys-gains-girls-near-zero": "education-corps-boys-gains-girls-near-zero",
    "education-corps-effects-stronger-non-chronically-absent": "education-corps-effects-stronger-non-chronically-absent",
@@ -91893,7 +92536,10 @@
    "exact-path-bundle-math-effects-grade-6": "exact-path-bundle-math-effects-grade-6",
    "exact-path-combined-outperforms-growth-alone-exploratory": "exact-path-combined-outperforms-growth-alone-exploratory",
    "exact-path-ela-effect-016": "exact-path-ela-effect-016",
+   "exact-path-ela-effect-016-dcps": "exact-path-ela-effect-016-dcps",
+   "exact-path-evidence-base-quasi-experimental-dcps": "exact-path-evidence-base-quasi-experimental-dcps",
    "exact-path-math-effect-006": "exact-path-math-effect-006",
+   "exact-path-math-effect-006-dcps": "exact-path-math-effect-006-dcps",
    "exact-path-proficiency-adds-gains-beyond-growth": "exact-path-proficiency-adds-gains-beyond-growth",
    "exact-path-study-diverse-sample": "exact-path-study-diverse-sample",
    "exam-questions-capped-at-apply-and-standardized-analysis": "exam-questions-capped-at-apply-and-standardized-analysis",
@@ -92005,6 +92651,7 @@
    "family-muac-sms-perceived-acceptable-feasible": "family-muac-sms-perceived-acceptable-feasible",
    "family-muac-uptake-barriers": "family-muac-uptake-barriers",
    "far-transfer-floor-effect-and-equal-time": "far-transfer-floor-effect-and-equal-time",
+   "fast-fidelity-high-reach-low": "fast-fidelity-high-reach-low",
    "fast-forword-alphabetics-indeterminate": "fast-forword-alphabetics-indeterminate",
    "fast-forword-comprehension-mixed-findings": "fast-forword-comprehension-mixed-findings",
    "fast-forword-evidence-base-305-studies": "fast-forword-evidence-base-305-studies",
@@ -92015,11 +92662,17 @@
    "fast-forword-language-no-discernible-reading-achievement-effects": "fast-forword-language-no-discernible-reading-achievement-effects",
    "fast-forword-language-potentially-positive-english-language-development": "fast-forword-language-potentially-positive-english-language-development",
    "fast-forword-no-discernible-effects-alphabetics-general-literacy": "fast-forword-no-discernible-effects-alphabetics-general-literacy",
+   "fast-isolated-small-effects-possibly-spurious": "fast-isolated-small-effects-possibly-spurious",
    "fast-mapping-full-mapping-word-learning": "fast-mapping-full-mapping-word-learning",
+   "fast-no-subgroup-differential-impact": "fast-no-subgroup-differential-impact",
+   "fast-qed-dose-effects-reading-math-attendance": "fast-qed-dose-effects-reading-math-attendance",
+   "fast-rct-no-meaningful-enduring-effects": "fast-rct-no-meaningful-enduring-effects",
+   "fast-takeup-far-below-projected": "fast-takeup-far-below-projected",
    "fast-track-external-behavior-mixed-measures": "fast-track-external-behavior-mixed-measures",
    "fast-track-positive-emotional-internal-behavior": "fast-track-positive-emotional-internal-behavior",
    "fast-track-positive-reading-achievement-mixed-measures": "fast-track-positive-reading-achievement-mixed-measures",
    "fast-track-social-outcomes-mixed-measures": "fast-track-social-outcomes-mixed-measures",
+   "fast-unlikely-school-turnaround-conclusion": "fast-unlikely-school-turnaround-conclusion",
    "fastalk-baton-rouge-isteep-growth": "fastalk-baton-rouge-isteep-growth",
    "fastalk-ousd-kindergarten-months-gains": "fastalk-ousd-kindergarten-months-gains",
    "fastalk-promising-rating-two-studies": "fastalk-promising-rating-two-studies",
@@ -92572,6 +93225,7 @@
    "instruction-has-unintended-moral-effects-that-performance-data-miss": "instruction-has-unintended-moral-effects-that-performance-data-miss",
    "instruction-little-effect-on-route-of-acquisition": "instruction-little-effect-on-route-of-acquisition",
    "instruction-positive-effect-peaks-then-diminishes": "instruction-positive-effect-peaks-then-diminishes",
+   "instructional-assistants-deliver-tier2-small-group-reading": "instructional-assistants-deliver-tier2-small-group-reading",
    "instructional-clarity-main-effect-concept-achievement": "instructional-clarity-main-effect-concept-achievement",
    "instructional-cmr-time-correlates-student-cmr": "instructional-cmr-time-correlates-student-cmr",
    "instructional-design-models-are-validated-by-adoption-not-testing": "instructional-design-models-are-validated-by-adoption-not-testing",
@@ -92700,6 +93354,7 @@
    "jtpa-self-monitoring-purposes": "jtpa-self-monitoring-purposes",
    "judges-perceive-ceda-ndt-work-exceeds-parliamentary-work": "judges-perceive-ceda-ndt-work-exceeds-parliamentary-work",
    "judgments-of-learning-inaccurate": "fluent-illusions-mislead-self-assessment",
+   "jump-math-effect-023-woodcock-ontario": "jump-math-effect-023-woodcock-ontario",
    "junction-tree-em-linear-complexity-occasions": "junction-tree-em-linear-complexity-occasions",
    "justice-oriented-youth-maker-programs-support-critical-identity-and-resistance": "justice-oriented-youth-maker-programs-support-critical-identity-and-resistance",
    "k0-intersection-item-deletion-criterion": "k0-intersection-item-deletion-criterion",
@@ -92845,6 +93500,8 @@
    "least-performed-steps-least-necessary": "least-performed-steps-least-necessary",
    "least-squares-beats-mtcs-translation-estimates": "least-squares-beats-mtcs-translation-estimates",
    "leblanc-matson-insufficient-reporting-excluded": "leblanc-matson-insufficient-reporting-excluded",
+   "lectura-proactiva-evidence-population-scope": "lectura-proactiva-evidence-population-scope",
+   "lectura-proactiva-improves-literacy-outcomes": "lectura-proactiva-improves-literacy-outcomes",
    "lecturer-discourse-variability-in-styles-and-routines": "lecturer-discourse-variability-in-styles-and-routines",
    "lecturer-meta-rules-endorsed-and-enacted": "lecturer-meta-rules-endorsed-and-enacted",
    "lecturing-on-values-does-not-transact-values-effectively": "lecturing-on-values-does-not-transact-values-effectively",
@@ -92921,6 +93578,7 @@
    "literacy-first-grade2-itbs-comprehension-effect": "literacy-first-grade2-itbs-comprehension-effect",
    "literacy-first-grade3-staar-follow-up": "literacy-first-grade3-staar-follow-up",
    "literacy-learning-conceptions-culturally-shaped": "literacy-learning-conceptions-culturally-shaped",
+   "literacy-packs-dibels-es-039": "literacy-packs-dibels-es-039",
    "literacy-packs-dibels-es-039-quasi-experiment": "literacy-packs-dibels-es-039-quasi-experiment",
    "literature-review-182-coaching-components-three-categories": "literature-review-182-coaching-components-three-categories",
    "little-books-evidence-base-small-one-domain": "little-books-evidence-base-small-one-domain",
@@ -93479,6 +94137,7 @@
    "pairs-better-than-triads-in-stellar-inquiry": "pairs-better-than-triads-in-stellar-inquiry",
    "pals-classrooms-more-peer-mediated-less-teacher-led": "pals-classrooms-more-peer-mediated-less-teacher-led",
    "pals-evidence-base-single-rct-reservations": "pals-evidence-base-single-rct-reservations",
+   "pals-favorable-teacher-student-impressions": "pals-favorable-teacher-student-impressions",
    "pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring": "pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring",
    "pals-fluency-literacy-outcomes-excluded-baseline-equivalence": "pals-fluency-literacy-outcomes-excluded-baseline-equivalence",
    "pals-fluency-no-significant-effects-first-grade": "pals-fluency-no-significant-effects-first-grade",
@@ -93492,6 +94151,7 @@
    "pals-potentially-positive-reading-comprehension-ld": "pals-potentially-positive-reading-comprehension-ld",
    "pals-potentially-positive-reading-effects-ells": "pals-potentially-positive-reading-effects-ells",
    "pals-potentially-positive-reading-fluency-ld": "pals-potentially-positive-reading-fluency-ld",
+   "pals-strong-evidence-first-grade-literacy-es-023": "pals-strong-evidence-first-grade-literacy-es-023",
    "pals-wwc-effectiveness-ratings-three-domains": "pals-wwc-effectiveness-ratings-three-domains",
    "paradoxical-institutional-characteristics-improve-effectiveness-over-time": "paradoxical-institutional-characteristics-improve-effectiveness-over-time",
    "paradoxical-strategies-linked-to-recovery-from-decline": "paradoxical-strategies-linked-to-recovery-from-decline",
@@ -93541,7 +94201,9 @@
    "patterson-psychology-basic-science-counseling-education": "patterson-psychology-basic-science-counseling-education",
    "patterson-serendipitous-career-events": "patterson-serendipitous-career-events",
    "patterson-valued-mentoring-above-scholarship": "patterson-valued-mentoring-above-scholarship",
+   "pax-gbg-math-effect-032": "pax-gbg-math-effect-032",
    "pax-gbg-positive-math-effects": "pax-gbg-positive-math-effects",
+   "pax-gbg-positive-reading-effects": "pax-gbg-positive-reading-effects",
    "pax-gbg-promising-rating-one-study": "pax-gbg-promising-rating-one-study",
    "pax-gbg-reading-effect-019": "pax-gbg-reading-effect-019",
    "pbis-reduces-clinically-significant-behavior-problems": "pbis-reduces-clinically-significant-behavior-problems",
@@ -93857,8 +94519,12 @@
    "psychosocial-variables-explain-41-percent-cognitive-flexibility": "psychosocial-variables-explain-41-percent-cognitive-flexibility",
    "ptfc-beats-cfc-conceptual-understanding": "ptfc-beats-cfc-conceptual-understanding",
    "ptfc-beats-cfc-self-efficacy": "ptfc-beats-cfc-self-efficacy",
+   "pthv-home-visit-improves-attendance-es-002": "pthv-home-visit-improves-attendance-es-002",
+   "pthv-home-visit-math-gain-no-ela-difference": "pthv-home-visit-math-gain-no-ela-difference",
+   "pthv-home-visit-reduces-disciplinary-incidents": "pthv-home-visit-reduces-disciplinary-incidents",
    "pthv-home-visits-improve-attendance-slightly": "pthv-home-visits-improve-attendance-slightly",
    "pthv-math-slight-gain-ela-no-difference": "pthv-math-slight-gain-ela-no-difference",
+   "pthv-sel-promising-rating-es-010": "pthv-sel-promising-rating-es-010",
    "pu-strongest-predictor-bi-colale": "pu-strongest-predictor-bi-colale",
    "public-capstone-epportfolio-showcase-audience-effect": "public-capstone-epportfolio-showcase-audience-effect",
    "public-vs-private-reflection-mixed": "public-vs-private-reflection-mixed",
@@ -93937,6 +94603,8 @@
    "reading-apprenticeship-uncertain-reading-comprehension": "reading-apprenticeship-uncertain-reading-comprehension",
    "reading-apprenticeship-uncertain-social-studies": "reading-apprenticeship-uncertain-social-studies",
    "reading-difficulty-excluded-aspect-extended-time": "reading-difficulty-excluded-aspect-extended-time",
+   "reading-edge-gates-macginitie-es-015": "reading-edge-gates-macginitie-es-015",
+   "reading-edge-significant-comprehension-vocabulary-gains": "reading-edge-significant-comprehension-vocabulary-gains",
    "reading-failure-fixed-ability-attribution": "reading-failure-fixed-ability-attribution",
    "reading-go-comprehension-positive-not-significant": "reading-go-comprehension-positive-not-significant",
    "reading-go-outcomes-similar-teacher-paraprofessional": "reading-go-outcomes-similar-teacher-paraprofessional",
@@ -94176,6 +94844,10 @@
    "rwt-no-advantage-over-auditory-discrimination-in-depth": "rwt-no-advantage-over-auditory-discrimination-in-depth",
    "rwt-no-discernible-comprehension-effects": "rwt-no-discernible-comprehension-effects",
    "rwt-significant-alphabetics-gains-versus-regular-instruction": "rwt-significant-alphabetics-gains-versus-regular-instruction",
+   "safersanschools-improves-daily-attendance-student-level": "safersanschools-improves-daily-attendance-student-level",
+   "safersanschools-improves-teacher-perceptions-conditions": "safersanschools-improves-teacher-perceptions-conditions",
+   "safersanschools-reduces-chronic-absence-student-level": "safersanschools-reduces-chronic-absence-student-level",
+   "safersanschools-school-level-results-not-significant": "safersanschools-school-level-results-not-significant",
    "sage-schools-no-significant-rating-change": "sage-schools-no-significant-rating-change",
    "sakt-underperforms-dkt-all-datasets": "sakt-underperforms-dkt-all-datasets",
    "salat-posture-drives-eeg-relaxation-response": "salat-posture-drives-eeg-relaxation-response",
@@ -94893,6 +95565,8 @@
    "thai-overuse-because-l1-influence": "thai-overuse-because-l1-influence",
    "theorem-theses-confirmed-by-survey": "theorem-theses-confirmed-by-survey",
    "theory-of-variation-new-way-of-thinking-for-teachers": "theory-of-variation-new-way-of-thinking-for-teachers",
+   "thinking-math-grade-level-moderation": "thinking-math-grade-level-moderation",
+   "thinking-math-two-year-effect-024": "thinking-math-two-year-effect-024",
    "thinking-style-profiles-three-clusters": "thinking-style-profiles-three-clusters",
    "thinking-styles-scale-cfa-structural-validity": "thinking-styles-scale-cfa-structural-validity",
    "thinking-styles-scale-dif-items": "thinking-styles-scale-dif-items",
@@ -95246,6 +95920,7 @@
    "clasp-dl-activity-cycle": "clasp-dl-activity-cycle",
    "coaching-level-1-initial-steps-beliefs-and-community-establishment": "coaching-level-1-initial-steps-beliefs-and-community-establishment",
    "combined-measurement-laser-statistics-lab-pattern": "combined-measurement-laser-statistics-lab-pattern",
+   "connect-science-no-additional-staffing": "connect-science-no-additional-staffing",
    "constructionism-imagineering-process-metaverse": "constructionism-imagineering-process-metaverse",
    "constructivist-model-reconstruction-course-pattern": "constructivist-model-reconstruction-course-pattern",
    "core-plus-lesson-cycle-launch-investigate-checkpoint": "core-plus-lesson-cycle-launch-investigate-checkpoint",
@@ -95305,6 +95980,7 @@
    "holistic-place-based-time-bound-indigenous-teaching": "holistic-place-based-time-bound-indigenous-teaching",
    "identity-centered-e-textile-making": "identity-centered-e-textile-making",
    "identity-reflection-before-empathy-interviews": "identity-reflection-before-empathy-interviews",
+   "in-school-data-guided-tutoring-supplements-classroom": "in-school-data-guided-tutoring-supplements-classroom",
    "integrated-pathway-five-element-design": "integrated-pathway-five-element-design",
    "integrated-simulation-assessment-design-characteristics": "integrated-simulation-assessment-design-characteristics",
    "intelligent-mixed-reality-exhibit": "intelligent-mixed-reality-exhibit",
@@ -95339,6 +96015,7 @@
    "objective-activity-matched-curriculum-guide-pattern": "objective-activity-matched-curriculum-guide-pattern",
    "off-job-on-job-module-blend": "off-job-on-job-module-blend",
    "ogap-strand-cohort-pd-structure": "ogap-strand-cohort-pd-structure",
+   "one-to-one-supplemental-math-tutoring": "one-to-one-supplemental-math-tutoring",
    "online-peer-assisted-learning-community": "online-peer-assisted-learning-community",
    "open-court-three-part-unit-progression": "open-court-three-part-unit-progression",
    "open-ended-standard-defining-magnetopause-lab": "open-ended-standard-defining-magnetopause-lab",
@@ -95365,6 +96042,7 @@
    "scaffolded-video-ethnography-project": "scaffolded-video-ethnography-project",
    "scripted-one-to-one-paraprofessional-tutoring": "scripted-one-to-one-paraprofessional-tutoring",
    "scripted-role-play-cooperative-learning-lessons": "scripted-role-play-cooperative-learning-lessons",
+   "service-learning-integrated-elementary-science-unit": "service-learning-integrated-elementary-science-unit",
    "seven-step-cloud-innovation-sequence": "seven-step-cloud-innovation-sequence",
    "severe-disturbance-rigid-noisy-quiet-zoning": "severe-disturbance-rigid-noisy-quiet-zoning",
    "sfa-regrouped-reading-block-sequenced-literacy": "sfa-regrouped-reading-block-sequenced-literacy",
@@ -95394,9 +96072,11 @@
    "ten-prerequisites-multimedia-language-authoring": "ten-prerequisites-multimedia-language-authoring",
    "tfa-summer-training-institute-design": "tfa-summer-training-institute-design",
    "theme-of-the-week-story-activity-lesson-structure": "theme-of-the-week-story-activity-lesson-structure",
+   "thinking-math-curriculum-design-pattern": "thinking-math-curriculum-design-pattern",
    "threading-weaving-patternmaking": "threading-weaving-patternmaking",
    "three-pedagogical-simulation-design-considerations": "three-pedagogical-simulation-design-considerations",
    "three-practices-for-ontological-alignment-in-computational-modeling": "three-practices-for-ontological-alignment-in-computational-modeling",
+   "tier1-tier2-reading-time-allocation-pattern": "tier1-tier2-reading-time-allocation-pattern",
    "tutor-led-strategies-adult-language-lessons": "tutor-led-strategies-adult-language-lessons",
    "tutoring-plus-family-engagement-partnership-pattern": "tutoring-plus-family-engagement-partnership-pattern",
    "twig-science-5e-lesson-structure": "twig-science-5e-lesson-structure",
@@ -95588,6 +96268,7 @@
    "conceptual-scaffolding": "conceptual-scaffolding",
    "concrete-modeling": "concrete-modeling",
    "conference-telephone-set-telelecture": "conference-telephone-set-telelecture",
+   "connect-science-curriculum-element": "connect-science-curriculum-element",
    "connect-with-kids-program": "connect-with-kids-program",
    "consensus-building": "consensus-building",
    "consensus-discussion": "consensus-discussion",
@@ -95687,8 +96368,12 @@
    "eckersley-design-helper-programs": "eckersley-design-helper-programs",
    "eclass-experimental-physics-survey": "eclass-experimental-physics-survey",
    "ecological-affordance-profile": "ecological-affordance-profile",
+   "ecri-professional-development-workbooks-leadership-guide": "ecri-professional-development-workbooks-leadership-guide",
    "edmentum-exact-path-adaptive-program": "edmentum-exact-path-adaptive-program",
+   "edmentum-exact-path-growth-program": "edmentum-exact-path-growth-program",
    "edmentum-tsi-virtual-small-group-tutoring": "edmentum-tsi-virtual-small-group-tutoring",
+   "edpuzzle-interactive-video-platform": "edpuzzle-interactive-video-platform",
+   "edpuzzle-originals-standards-aligned-lessons": "edpuzzle-originals-standards-aligned-lessons",
    "education-corps-high-dosage-literacy-tutoring-program": "education-corps-high-dosage-literacy-tutoring-program",
    "educational-belief-scale-five-philosophy-dimensions": "educational-belief-scale-five-philosophy-dimensions",
    "edudata-and-eduktm-libraries": "edudata-and-eduktm-libraries",
@@ -95714,6 +96399,7 @@
    "engage": "engage",
    "english-cognate-constructions": "english-cognate-constructions",
    "enhance-retention-and-transfer": "enhance-retention-and-transfer",
+   "enhanced-core-reading-instruction-program": "enhanced-core-reading-instruction-program",
    "enhanced-mc-partial-credit-questions": "enhanced-mc-partial-credit-questions",
    "enhanced-proactive-reading-curriculum": "enhanced-proactive-reading-curriculum",
    "enhancing-skills-early-childhood-trainers-pack": "enhancing-skills-early-childhood-trainers-pack",
@@ -95765,6 +96451,7 @@
    "family-partnership-agreement-form": "family-partnership-agreement-form",
    "fast-forword-language-program": "fast-forword-language-program",
    "fast-forword-program-element": "fast-forword-program-element",
+   "fast-program-element": "fast-program-element",
    "fast-track-comprehensive-conduct-problem-intervention": "fast-track-comprehensive-conduct-problem-intervention",
    "fastalk-text-message-family-engagement-program": "fastalk-text-message-family-engagement-program",
    "fault-framework-logical-troubleshooting": "fault-framework-logical-troubleshooting",
@@ -95913,6 +96600,7 @@
    "journeys-reading-language-arts-program": "journeys-reading-language-arts-program",
    "jtpa-monitoring-report-form": "jtpa-monitoring-report-form",
    "jtpa-self-monitoring-instrument": "jtpa-self-monitoring-instrument",
+   "jump-math-program-element": "jump-math-program-element",
    "just-in-time-information": "just-in-time-information",
    "just-in-time-learning": "just-in-time-learning",
    "just-right-reader-take-everywhere-literacy-packs": "just-right-reader-take-everywhere-literacy-packs",
@@ -95957,6 +96645,7 @@
    "learning-tasks": "learning-tasks",
    "learning-theory-evaluation-checklist-elt-textbooks": "learning-theory-evaluation-checklist-elt-textbooks",
    "learning-unit-boxed-card-self-testing": "learning-unit-boxed-card-self-testing",
+   "lectura-proactiva-program-element": "lectura-proactiva-program-element",
    "lecture": "lecture",
    "lectures": "lectures",
    "leigh-two-way-bilingual-immersion-program": "leigh-two-way-bilingual-immersion-program",
@@ -96080,6 +96769,7 @@
    "osce-blueprint-consent-domains-assessment": "osce-blueprint-consent-domains-assessment",
    "osp-ejs-tracker-toolkit": "osp-ejs-tracker-toolkit",
    "pals-materials-and-cost": "pals-materials-and-cost",
+   "pals-peer-assisted-learning-strategies-program": "pals-peer-assisted-learning-strategies-program",
    "pals-peer-tutoring-program-element": "pals-peer-tutoring-program-element",
    "pals-peer-tutoring-reading-program": "pals-peer-tutoring-reading-program",
    "parentpowered-ready4k-text-messaging-program": "parentpowered-ready4k-text-messaging-program",
@@ -96095,6 +96785,7 @@
    "patterson-client-centered-career-counseling-chapter": "patterson-client-centered-career-counseling-chapter",
    "paulston-1977-social-change-paradigm-typology": "paulston-1977-social-change-paradigm-typology",
    "pax-good-behavior-game-program": "pax-good-behavior-game-program",
+   "pax-good-behavior-game-program-element": "pax-good-behavior-game-program-element",
    "pearce-garcia-attendance-zone-survey-maps": "pearce-garcia-attendance-zone-survey-maps",
    "pedagogical-agent-signaling": "pedagogical-agent-signaling",
    "pedagogical-judgment-rubric-pjr": "pedagogical-judgment-rubric-pjr",
@@ -96180,6 +96871,7 @@
    "proximity": "proximity",
    "psrbvbq-questionnaire": "psrbvbq-questionnaire",
    "psychology-mooc-gt-spring-2013-datashop-dataset": "psychology-mooc-gt-spring-2013-datashop-dataset",
+   "pthv-parent-teacher-home-visits-model": "pthv-parent-teacher-home-visits-model",
    "pthv-program-element": "pthv-program-element",
    "public-display": "public-display",
    "public-product": "public-product",
@@ -96187,6 +96879,7 @@
    "publisher-directory-bias-sensitive-publishers": "publisher-directory-bias-sensitive-publishers",
    "python-matplotlib-module-development-technology": "python-matplotlib-module-development-technology",
    "pytorch-dkt-online-implementation": "pytorch-dkt-online-implementation",
+   "qr-code-phonics-video-lessons": "qr-code-phonics-video-lessons",
    "qr-code-phonics-video-lessons-multilingual": "qr-code-phonics-video-lessons-multilingual",
    "quantum-randi-challenge-computer-game": "quantum-randi-challenge-computer-game",
    "question-formulation": "question-formulation",
@@ -96207,6 +96900,7 @@
    "reading-apprenticeship-academic-literacy-curriculum": "reading-apprenticeship-academic-literacy-curriculum",
    "reading-apprenticeship-professional-development-program": "reading-apprenticeship-professional-development-program",
    "reading-apprenticeship-program-family": "reading-apprenticeship-program-family",
+   "reading-edge-program-element": "reading-edge-program-element",
    "reading-go-biweekly-data-reporting": "reading-go-biweekly-data-reporting",
    "reading-go-tutoring-program": "reading-go-tutoring-program",
    "reading-horizons-discovery-curriculum": "reading-horizons-discovery-curriculum",
@@ -96261,6 +96955,7 @@
    "rubric": "rubric",
    "rubric-design": "rubric-design",
    "rubrics": "rubrics",
+   "safersanschools-whole-school-change-program": "safersanschools-whole-school-change-program",
    "salzburg-student-ratings-project": "salzburg-student-ratings-project",
    "sas-nlmixed-irt-testlet-implementation": "sas-nlmixed-irt-testlet-implementation",
    "scaffolded-inquiry": "scaffolded-inquiry",
@@ -96390,6 +97085,7 @@
    "thematic-bilingual-audio-dictionary-telegram": "thematic-bilingual-audio-dictionary-telegram",
    "therapist-complementarity-index-interaction-matrix": "therapist-complementarity-index-interaction-matrix",
    "think-aloud": "think-aloud",
+   "thinking-math-innovamat-curriculum-element": "thinking-math-innovamat-curriculum-element",
    "thinksrsd-online-resource": "thinksrsd-online-resource",
    "three-category-poster-rubric-summative-assessment": "three-category-poster-rubric-summative-assessment",
    "three-lesson-web-based-srl-training": "three-lesson-web-based-srl-training",
@@ -97702,6 +98398,7 @@
    "conflict_de-escalation": "conflict_de-escalation",
    "confront_fears": "confront_fears",
    "connect-external-collaborators": "connect-external-collaborators",
+   "connect-science-staged-pd-sequence": "connect-science-staged-pd-sequence",
    "connect_content_to_student_lives": "connect_content_to_student_lives",
    "connect_math_to_student_strengths": "connect_math_to_student_strengths",
    "connect_prior_knowledge_to_new_learning": "connect_prior_knowledge_to_new_learning",
@@ -98030,6 +98727,7 @@
    "eced-two-year-pd-model": "eced-two-year-pd-model",
    "echo-reading": "echo-reading",
    "eco-somatic-sewell-five-skills-activities": "eco-somatic-sewell-five-skills-activities",
+   "edpuzzle-embedded-questions-analytics-differentiation": "edpuzzle-embedded-questions-analytics-differentiation",
    "education_calendars": "education_calendars",
    "educational-clusters-older-teach-younger": "educational-clusters-older-teach-younger",
    "educational_charts": "educational_charts",
@@ -98174,6 +98872,7 @@
    "ewims-training-and-technical-assistance-strategy": "ewims-training-and-technical-assistance-strategy",
    "exact-path-existing-staff-implementation-strategy": "exact-path-existing-staff-implementation-strategy",
    "exact-path-existing-staff-vendor-pd-implementation": "exact-path-existing-staff-vendor-pd-implementation",
+   "exact-path-implementation-existing-staff-pd": "exact-path-implementation-existing-staff-pd",
    "exact-path-implementation-strategy": "exact-path-implementation-strategy",
    "exam-wrappers": "exam-wrappers",
    "exam_wrappers": "exam_wrappers",
@@ -98270,6 +98969,7 @@
    "family-literacy-engagement": "family-literacy-engagement",
    "family-literacy-nights": "family-literacy-nights",
    "family-literacy-programs": "family-literacy-programs",
+   "family-support-hub-caregiver-literacy-resources": "family-support-hub-caregiver-literacy-resources",
    "family-support-hub-home-literacy-reinforcement": "family-support-hub-home-literacy-reinforcement",
    "family_book_club": "family_book_club",
    "family_engagement": "family_engagement",
@@ -98735,6 +99435,7 @@
    "journeys-pd-training-coaching": "journeys-pd-training-coaching",
    "jtpa-nine-step-self-monitoring-process": "jtpa-nine-step-self-monitoring-process",
    "jtpa-self-monitoring-approaches": "jtpa-self-monitoring-approaches",
+   "jump-math-one-day-training-mid-year-follow-up": "jump-math-one-day-training-mid-year-follow-up",
    "just-in-time-learning": "just-in-time-learning",
    "just-in-time-teaching": "just-in-time-teaching",
    "kagan_cooperative_learning_strategies": "kagan_cooperative_learning_strategies",
@@ -98803,6 +99504,7 @@
    "learning_logs": "learning_logs",
    "learning_strategy_&_tool_fair": "learning_strategy_&_tool_fair",
    "learning_through_reflection": "learning_through_reflection",
+   "lectura-proactiva-daily-small-group-delivery": "lectura-proactiva-daily-small-group-delivery",
    "lecture_support_with_graphic_organizers": "lecture_support_with_graphic_organizers",
    "lenses-professional-learning-support-strategy": "lenses-professional-learning-support-strategy",
    "lesson-study": "lesson-study",
@@ -99221,6 +99923,7 @@
    "paired-repeated-reading": "paired-repeated-reading",
    "paired_reading": "paired_reading",
    "pairing_with_positive_role_models": "pairing_with_positive_role_models",
+   "pals-air-tutoring-training-request-strategy": "pals-air-tutoring-training-request-strategy",
    "pals-teacher-training-workshop-modeling-role-play": "pals-teacher-training-workshop-modeling-role-play",
    "pals_peer-assisted-learning-strategies": "pals_peer-assisted-learning-strategies",
    "paragraph_shrinking": "paragraph_shrinking",
@@ -99243,6 +99946,7 @@
    "pattern-recognition": "pattern-recognition",
    "pattern_recognition_in_learning": "pattern_recognition_in_learning",
    "pause-procedure": "pause-procedure",
+   "pax-gbg-onsite-training-parent-manuals": "pax-gbg-onsite-training-parent-manuals",
    "pay-attention-pause-paraphrase": "pay-attention-pause-paraphrase",
    "pbl-meta-analysis-best-practices": "pbl-meta-analysis-best-practices",
    "pcp-training-and-coaching-strategy": "pcp-training-and-coaching-strategy",
@@ -99334,6 +100038,7 @@
    "playing_with_techniques": "playing_with_techniques",
    "playworks_teamup_recess_program": "playworks_teamup_recess_program",
    "plc-building-transfer-strategy-common-interests-communication": "plc-building-transfer-strategy-common-interests-communication",
+   "plc-lesson-study-implementation-support": "plc-lesson-study-implementation-support",
    "plc-method-identifying-improvement-areas": "plc-method-identifying-improvement-areas",
    "pll-small-group-tier2-strategy": "pll-small-group-tier2-strategy",
    "podcast-based-learning": "podcast-based-learning",
@@ -99428,6 +100133,7 @@
    "prequestions": "prequestions",
    "prerequisite-checks-before-audiovisual-presentations": "prerequisite-checks-before-audiovisual-presentations",
    "present_tense_messages": "present_tense_messages",
+   "preteach-core-content-small-tier2-groups": "preteach-core-content-small-tier2-groups",
    "pretend_play": "pretend_play",
    "pretesting": "pretesting",
    "pretraining": "pretraining",
@@ -99509,6 +100215,7 @@
    "proximity-management": "proximity-management",
    "proximity_control": "proximity_control",
    "pthv-two-visit-structure-strategy": "pthv-two-visit-structure-strategy",
+   "pthv-voluntary-pair-visit-implementation-strategy": "pthv-voluntary-pair-visit-implementation-strategy",
    "public_commitment": "public_commitment",
    "publicize_volunteer_opportunities_and_student_involvement": "publicize_volunteer_opportunities_and_student_involvement",
    "publishing-student-work": "publishing-student-work",
@@ -99586,6 +100293,7 @@
    "readers-theatre": "readers-theatre",
    "readers_theater": "readers_theater",
    "reading-conferences": "reading-conferences",
+   "reading-edge-training-coaching-rollout": "reading-edge-training-coaching-rollout",
    "reading-fluency-practice": "reading-fluency-practice",
    "reading-go-professional-development-model": "reading-go-professional-development-model",
    "reading-workshop": "reading-workshop",
@@ -99791,6 +100499,7 @@
    "schema-based-instruction": "schema-based-instruction",
    "schema-based_instruction": "schema-based_instruction",
    "school-counselling-corrective-relationships-flexibility": "school-counselling-corrective-relationships-flexibility",
+   "school-implementation-team-monthly-training-support": "school-implementation-team-monthly-training-support",
    "school_newsletters": "school_newsletters",
    "schools-corrective-niche-versus-media": "schools-corrective-niche-versus-media",
    "schools-teach-reflective-processes-not-positions": "schools-teach-reflective-processes-not-positions",
@@ -100300,6 +101009,7 @@
    "think-write-pair-share": "think-write-pair-share",
    "think-write-share": "think-write-share",
    "think_time": "think_time",
+   "thinking-math-coaching-pd-strategy": "thinking-math-coaching-pd-strategy",
    "thinking_about_emotions_in_advance": "thinking_about_emotions_in_advance",
    "thinking_critically": "thinking_critically",
    "thinking_tools_with_graphic_organizers": "thinking_tools_with_graphic_organizers",
@@ -100923,6 +101633,7 @@
    "external-conceptual-resources-definition": "external-conceptual-resources-definition",
    "external-internal-models-day-night-cycle": "external-internal-models-day-night-cycle",
    "facilitation-plus-accumulating-inhibition": "facilitation-plus-accumulating-inhibition",
+   "fast-logic-model-school-turnaround": "fast-logic-model-school-turnaround",
    "fba-individualized-problem-solving-process": "fba-individualized-problem-solving-process",
    "federation-university-case-based-experiential-model": "federation-university-case-based-experiential-model",
    "feedback-loop-participant-roles": "feedback-loop-participant-roles",
@@ -101330,6 +102041,7 @@
    "research-design-taxonomy": "research-design-taxonomy",
    "response-likelihood-reliability-measure": "response-likelihood-reliability-measure",
    "responsive-literacy-coaching-co-learner-model": "responsive-literacy-coaching-co-learner-model",
+   "restorative-practices-whole-school-framework": "restorative-practices-whole-school-framework",
    "retrieval-practice-account-hocs-clickers": "retrieval-practice-account-hocs-clickers",
    "retrieval-practice-research-factors-framework": "retrieval-practice-research-factors-framework",
    "revised-icap-feedback-asynchronous-online": "revised-icap-feedback-asynchronous-online",

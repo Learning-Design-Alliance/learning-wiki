@@ -65,3 +65,4 @@ WWC calculations for the RWT versus regular instruction comparison on the CTOPP 
 - [Read, Write & Type!™ shows no statistically significant alphabetics advantages over the Auditory Discrimination in Depth® comparison](rwt-no-advantage-over-auditory-discrimination-in-depth.md) — related
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
 - [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](reading-go-positive-decoding-word-reading-outcomes.md) — related
+- [Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)](ecri-improves-word-reading-outcomes-first-grade.md) — related

@@ -46,3 +46,4 @@ Cluster randomized-control trial in Grades 3-5 in four elementary schools in Hol
 - [IXL Math's impact on the M-STEP state assessment was positive but not statistically significant (effect size +0.03)](ixl-math-mstep-null-impact.md) — related
 - [IXL Math shows significant positive impacts for Grade 3, Hispanic, special education, ELL, and low-income subgroups](ixl-math-positive-subgroup-impacts.md) — a narrower finding that bears on this claim
 - [Early elementary students using Imagine Math Facts demonstrated significantly more growth on Ren Star math assessments (effect size +0.11)](imagine-math-facts-early-elementary-significant-growth.md) — related
+- [Edpuzzle Original math videos raise Renaissance Star Math scores and fall-to-spring growth (effect size +0.11)](edpuzzle-star-math-effect-011.md) — related

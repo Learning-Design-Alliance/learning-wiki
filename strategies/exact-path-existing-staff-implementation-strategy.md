@@ -40,6 +40,7 @@ The program is designed for implementation without new hires or additional techn
 
 - [Implement Exact Path with existing district staff plus vendor-provided professional development](exact-path-existing-staff-vendor-pd-implementation.md)
 - [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](exact-path-implementation-strategy.md)
+- [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](exact-path-implementation-existing-staff-pd.md)
 
 ## Examples
 -

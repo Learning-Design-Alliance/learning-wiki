@@ -65,6 +65,7 @@ Book bags operationalize home literacy involvement by lowering its coordination 
 - [Independent Reading](independent-reading.md) — the classroom counterpart; bags bridge toward it as children gain decoding skill
 - [Provide accessible caregiver resources to reinforce phonics at home](family-support-hub-home-literacy-reinforcement.md)
 - [Introduce take-home decodable packs through teacher-led small-group instruction before sending them home](small-group-then-home-decodable-practice.md)
+- [Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection](family-support-hub-caregiver-literacy-resources.md)
 
 ## Examples
 - **Raising a Reader** (https://www.raisingareader.org) — a national program rotating red bags of award-winning books through early-childhood classrooms, with caregiver training in shared-reading techniques.

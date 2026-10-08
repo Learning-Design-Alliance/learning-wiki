@@ -52,6 +52,7 @@ Building Blocks for Math is a supplemental mathematics curriculum for preschool 
 
 - [Building Blocks preschool mathematics curriculum](building-blocks-preschool-math-curriculum.md)
 - [Pre-K Mathematics supplemental preschool curriculum](prek-mathematics-curriculum.md)
+- [Thinking Math! (Innovamat PreK-8 mathematics curriculum)](thinking-math-innovamat-curriculum-element.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ Imagine Español is a personalized learning program designed to "accelerate Span
 
 - [Technology requirements for implementing Imagine Español](imagine-espanol-technology-requirements.md)
 - [Imagine Language & Literacy adaptive supplemental literacy program](imagine-language-and-literacy-program.md)
+- [Lectura Proactiva: one-to-small-group Spanish reading intervention accelerating the transition to reading in English](lectura-proactiva-program-element.md)
 
 ## Examples
 -
