@@ -114,10 +114,12 @@ Mindset interventions are best understood as small motivational levers, not stan
 - [Positive Self-Talk](positive-self-talk.md) — internal language can reinforce or undermine growth-oriented interpretations of effort and difficulty.
 
 ## Examples
+
 - **Process-oriented instructor feedback**: Replacing "You're good at this" with specific feedback about what strategy worked and what to try next.
 - **Revision routines**: Asking learners to resubmit work after [feedback](../elements/feedback.md) so improvement is expected, not exceptional.
 - **Public modeling of struggle**: Instructors narrate how they handle confusion, dead ends, and correction while learning a new tool or skill.
 - **Reflection prompts after mistakes**: Short prompts such as "What did this attempt teach you?" or "What strategy will you change next time?"
+- [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](../strategies/mindset-cultivation-practices-list.md)
 
 ### Illustrative
 

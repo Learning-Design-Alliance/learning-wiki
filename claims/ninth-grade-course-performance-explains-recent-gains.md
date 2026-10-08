@@ -51,3 +51,4 @@ Decomposition of graduation-rate trends against ninth-grade behavioral measures.
 - [Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate](algebra-failers-failed-multiple-courses-off-track.md) — related
 - [Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students](ell-ontrack-35-times-more-likely-graduate.md) — related
 - [The on-track–graduation relationship remains strong after accounting for student background characteristics](on-track-relationship-holds-after-background-controls.md) — related
+- [The article claims schools can improve attendance, test scores, and graduation rates by identifying high-impact metrics and fostering a collaborative culture of improvement](schools-improve-via-high-impact-metrics-and-collaboration.md) — related

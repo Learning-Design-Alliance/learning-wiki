@@ -67,3 +67,5 @@ Survey trend analysis of student-reported climate measures (Chapter 7). The repo
 - [Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs](strong-essentials-programs-more-supportive-contexts.md) — related
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](supports-matter-in-combined-clusters.md) — related
 - [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](annenberg-capacity-gains-eroded-by-2001.md) — related
+- [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](parent-involvement-declined-after-reform-act.md) — related
+- [Chicago high school teachers reported better communication and more positive relationships with parents in 1997 than in 1994](teacher-parent-communication-improved-1994-1997.md) — related

@@ -44,3 +44,4 @@ Trend analysis of CPS testing-program enrollment categories around the 1998-99 b
 
 ## Related Claims
 - [ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting](itbs-tested-but-excluded-isat-reports-all.md) — related
+- [Changes in CPS bilingual education testing policy drove drops in test-score inclusion, especially the fourth-grade inclusion drop in 1999 and the third-grade drop in 1997](bilingual-policy-changes-drove-inclusion-drops.md) — related

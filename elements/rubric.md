@@ -55,10 +55,12 @@ Rubrics improve learning primarily by making quality criteria available *before*
 - 
 
 ## Related Elements
+
 - [Assessment](assessment.md) — the rubric is the instrument that makes performance assessment transparent and consistent
 - [Feedback](feedback.md) — rubric descriptors give feedback a shared vocabulary; feedback that references criteria is more actionable
 - [Self-Assessment](self-assessment.md) — the primary mechanism by which rubrics affect learning rather than just grading
 - [Exemplars](exemplars.md) — concrete samples paired with rubric levels make abstract descriptors interpretable
+- [Scoring standards and rubrics for assignments and student work in writing and mathematics](aiw-scoring-standards-writing-math.md)
 
 ## Patterns That Use This Element
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — rubrics define proficiency levels for each competency

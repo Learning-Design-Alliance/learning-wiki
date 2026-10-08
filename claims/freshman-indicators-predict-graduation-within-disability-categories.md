@@ -75,3 +75,6 @@ Chapter 3 analysis (Figure 10) relating semester absences to five-year graduatio
 - [Core-course failures in freshman year strongly predict non-graduation, similarly across subjects](core-course-failures-predict-non-graduation.md) — a narrower finding that bears on this claim
 - [Graduation rates rise with freshman credits earned, with a large gap above six credits](credits-earned-freshman-year-graduation-gradient.md) — related
 - [The on-track indicator is strongly related to students' likelihood of graduating](on-track-indicator-related-to-graduation-likelihood.md) — related
+- [High-level outcome measures like graduation rates offer little actionable guidance for educators within a school year](graduation-rates-little-actionable-guidance.md) — related
+- [Five-year graduation and dropout outcomes varied by eighth-grade ITBS achievement level, with students more than a year below grade level graduating at lower rates](kenwood-outcomes-by-itbs-achievement-level.md) — related
+- [Missing five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points](ninth-grade-five-absences-graduation-drop.md) — related

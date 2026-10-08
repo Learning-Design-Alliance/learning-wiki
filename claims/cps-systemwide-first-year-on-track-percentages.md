@@ -47,3 +47,5 @@ Observational systemwide percentages in Table 10 covering all CPS eighth-grade c
 - [Vivaldi first-year on-track counts fluctuated between 24 and 31 across the classes of 1997–2001](vivaldi-first-year-on-track-over-time.md) — related
 - [Vivaldi students' first-year on-track rates differed across destination high schools for the 1997 cohort](vivaldi-1997-on-track-varies-by-high-school.md) — related
 - [Vivaldi students' first-year on-track rates differed across destination high schools for the 2001 cohort](vivaldi-2001-on-track-varies-by-high-school.md) — related
+- [Freshman on-track performance varied across Kenwood's five successive ninth-grade classes from 1993-94 to 1997-98](kenwood-freshman-trend-1993-1998.md) — related
+- [Freshman on-track rates varied by the elementary school Kenwood students attended, as shown in maps and tables for the classes of 1997 and 2001](kenwood-on-track-by-elementary-school.md) — related

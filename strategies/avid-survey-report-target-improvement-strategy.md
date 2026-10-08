@@ -40,6 +40,7 @@ The report recommends that AVID site teams use the individualized survey report 
 ## Related Strategies
 
 - [Use survey profiles, discussion questions, and the Details report to guide school improvement deliberations](survey-report-discussion-questions-improvement-strategy.md)
+- [Return individual school survey profiles to stimulate local school improvement discussions](school-profiles-for-local-improvement-discussions.md)
 
 ## Examples
 -

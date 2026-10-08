@@ -52,6 +52,9 @@ The report organizes its school measures under an 'Overview of the Five Essentia
 - [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
 - [Model of Essential Supports for Student Learning as framework for assessing school improvement](essential-supports-framework-annenberg-assessment.md)
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](early-education-essentials-six-essential-supports-framework.md)
+- [Five essential supports framework for urban school improvement](five-essential-supports-school-improvement.md)
+- [Five essential supports framework for organizing school improvement self-analysis](five-essential-supports-school-learning-framework.md)
+- [Five Essential Supports for Student Learning](five-essential-supports-student-learning-ccsr.md)
 
 ## Examples
 

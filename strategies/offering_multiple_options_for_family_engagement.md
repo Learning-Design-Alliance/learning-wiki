@@ -77,6 +77,8 @@ Family engagement functions like a motivational and access problem: participatio
 - [Extend character education beyond the classroom with optional parental and community involvement components](optional-parent-community-involvement-components.md)
 - [Support high school selection by expanding school fit beyond programs to commute, safety, and family circumstances](expand-high-school-fit-to-family-context.md)
 - [Use economic indicators plus household size to prioritize families, and target outreach through schools with low family engagement](prioritize-economic-need-household-size-internet-programs.md)
+- [Remove participation barriers and use broad outreach to ensure fair representation on parent councils](remove-barriers-broad-parent-council-representation.md)
+- [Maintain transparent, ongoing communication through consistent schedules, agendas, and multiple channels](transparent-ongoing-parent-council-communication.md)
 
 ## Examples
 - **Epstein's Six Types of Involvement framework (Johns Hopkins NNPS, [National Network of Partnership Schools](https://nnps.jhucsos.com))** — organizes engagement into parenting, communicating, volunteering, learning at home, decision-making, and collaborating with the community; schools use it to build a written partnership plan with multiple option types.

@@ -41,6 +41,8 @@ The brief recommends that school teams in Illinois dig into their annual 5Essent
 
 - [Use the Romanian PSRBVBQ in school practice to identify teachers' bullying perceptions and reveal training needs for bullying prevention](use-psrbvbq-to-identify-teacher-training-needs.md)
 - [Use diagnostic survey results to craft an evidence-based school narrative and action plan](evidence-based-narrative-and-action-plans-from-diagnostics.md)
+- [Dig into item-level survey responses: examine how students and teachers answer specific questions as a starting point for learning and responding](dig-into-item-level-survey-responses.md)
+- [Use 5Essentials survey data to identify where to improve students' school experiences and teachers' relationships with parents to support attendance](use-5essentials-data-to-target-attendance-supports.md)
 
 ## Examples
 -

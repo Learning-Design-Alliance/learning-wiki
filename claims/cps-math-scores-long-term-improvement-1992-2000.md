@@ -46,3 +46,5 @@ Analysis of ITBS trend data for CPS elementary students ages 9 through 14 from 1
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — reports the opposite
 - [No evidence that the racial/ethnic achievement gap in CPS elementary scores narrowed or widened from 1992 to 2000](cps-racial-ethnic-gap-unchanged-1992-2000.md) — related
 - [CPS academic productivity gains peaked in 1997, with 1999 gains uniformly lower than 1997 gains at all grades](cps-productivity-gains-peaked-1997.md) — related
+- [Grouping students by age instead of grade is a viable alternative for tracking ITBS score trends, mirroring the grade-group findings](age-group-reporting-viable-alternative.md) — related
+- [After adjustments for inclusion-rule changes, CPS elementary test scores continued to improve through 1999, with long-term math gains across all grades but slowing reading improvement at ages 9, 11, and 12](cps-elementary-scores-continued-improving-after-adjustments.md) — a broader claim this one bears on

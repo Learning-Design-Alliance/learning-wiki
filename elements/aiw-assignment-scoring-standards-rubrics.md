@@ -48,6 +48,8 @@ A set of six standards (three for writing, three for mathematics) translating th
 ## Related Elements
 
 - [Authentic intellectual work scoring rubrics with double-scoring design for inter-scorer reliability](aiw-scoring-rubrics-double-scoring-element.md)
+- [Scoring standards and rubrics for assignments and student work in writing and mathematics](aiw-scoring-standards-writing-math.md)
+- [Chicago Annenberg classroom assignment collection and scoring system](annenberg-assignment-collection-scoring-system.md)
 
 ## Examples
 -

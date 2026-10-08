@@ -48,3 +48,5 @@ Survey of CPS students in grades 6-12 (spring 2009) across 310 elementary and 62
 - [Students in 21st CCLC programs reported feeling safer after school](21st-cclc-students-felt-safer-after-school.md) — related
 - [Schools with high suspension rates are less safe than schools with lower suspension rates serving similar students](high-suspension-rates-less-safe.md) — related
 - [Student-reported safety and classroom behavior are more positive in top-quartile schools, and students feel less safe outside school than inside](student-safety-behavior-quartile-differences.md) — related
+- [Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe](neighborhood-crime-differs-safest-least-safe-schools.md) — related
+- [Chicago students feel safest in classrooms and least safe outside around school, where about two-thirds feel uneasy](student-safety-varies-by-school-location.md) — possibly the same claim (merge candidate)

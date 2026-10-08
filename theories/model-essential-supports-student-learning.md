@@ -52,6 +52,7 @@ The Model of Essential Supports for Student Learning identifies seven areas of s
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
 - [Five Essential Supports framework for organizing school improvement conditions](ccsr-five-essential-supports-framework.md)
 - [The Five Essential Supports framework organizes school development measures](five-essential-supports-survey-measures-framework.md)
+- [Five Essential Supports for Student Learning](five-essential-supports-student-learning-ccsr.md)
 
 ## Examples
 -

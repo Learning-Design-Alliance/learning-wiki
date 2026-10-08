@@ -51,3 +51,4 @@ Newmann, Bryk, and Nagaoka analyzed about 2,000 assignments and standardized tes
 - [Classroom composition (prior achievement, race, socioeconomic status, gender) showed virtually no relationship to exposure to high-quality assignments](classroom-composition-not-linked-assignment-quality.md) — related
 - [Both high- and low-prior-achieving students benefited from high-quality assignments, with math favoring low achievers and reading favoring high achievers](high-and-low-achievers-benefit-authentic-assignments.md) — related
 - [Interactive instruction is positively associated with one-year achievement gains in reading and mathematics in Chicago elementary schools](interactive-instruction-positive-achievement-gains-chicago.md) — related
+- [Assignments teachers designated as challenging tended to score higher on intellectual quality than typical assignments](challenging-assignments-score-higher-than-typical.md) — related

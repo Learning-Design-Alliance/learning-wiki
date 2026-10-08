@@ -43,4 +43,6 @@ Citywide quartile comparison of the Program Coherence scale in the 2005 survey r
 
 
 ## Related Claims
--
+- [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](bottom-quartile-schools-sip-not-implemented.md) — related
+- [Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often describe weak processes (46 percent)](joint-problem-solving-quartile-contrast-1997.md) — related
+- [Program coherence varies widely within quartiles: more than half of top-quartile teachers report moderate coherence and 32 percent report little or none, while 44 percent of bottom-quartile teachers report strong or very strong coherence](program-coherence-quartile-contrast-1997.md) — possibly the same claim (merge candidate)

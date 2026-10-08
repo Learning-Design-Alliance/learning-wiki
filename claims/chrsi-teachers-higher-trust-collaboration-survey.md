@@ -52,3 +52,4 @@ Earlier Consortium survey research on CHSRI schools, cited in the report's intro
 - [CHSRI freshman on-track rates were typically higher than similar students' but the difference was not statistically significant and converged by 2007-08](chsri-on-track-rates-converged.md) — related
 - [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related
 - [Teachers and principals in CHSRI small schools describe an environment marked by trust, commitment, and strong professional community in year two](chsri-small-schools-trust-professional-community.md) — related
+- [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related

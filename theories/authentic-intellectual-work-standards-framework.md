@@ -50,6 +50,8 @@ The manual's research strand rests on an intellectual foundation drawn from Fred
 ## Related Theories
 
 - [Authentic Intellectual Work framework: construction of knowledge through disciplined inquiry producing products with value beyond school](authentic-intellectual-work-framework-newmann.md)
+- [Authentic intellectual work framework: construction of knowledge, elaborated written communication, and connection to students' lives](authentic-intellectual-work-framework-aiw.md)
+- [Authentic intellectual work framework: construction of knowledge through disciplined inquiry producing products with value beyond school](authentic-intellectual-work-three-criteria.md)
 
 ## Examples
 

@@ -45,3 +45,7 @@ Summary comparison of Teacher-Principal Trust scale responses across school quar
 ## Related Claims
 - [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](principal-instructional-leadership-ratings-distribution.md) — related
 - [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](teacher-principal-trust-top-vs-bottom-quartile.md) — possibly the same claim (merge candidate)
+- [Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often describe weak processes (46 percent)](joint-problem-solving-quartile-contrast-1997.md) — related
+- [Principal leadership regard is nearly unanimous in top quartile schools but low for about 40 percent of teachers in bottom quartile schools](principal-leadership-regard-quartile-contrast.md) — related
+- [Teacher influence over school decisions is minimal or limited for most teachers in bottom quartile schools but extensive or moderate for most in top quartile schools](teacher-influence-quartile-contrast.md) — related
+- [Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders](top-quartile-schools-facilitative-principal-leadership.md) — related

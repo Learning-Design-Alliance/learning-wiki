@@ -52,3 +52,5 @@ Cohort analysis of CPS administrative records following students defined by age 
 - [Chicago Public Schools dropout rates remained high, with over 40 percent of students dropping out by age 19](cps-dropout-over-40-percent-by-19.md) — a broader claim this one bears on
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
 - [Graduation by age 18 was slightly higher in later cohorts despite earlier off-schedule status](graduation-by-18-slightly-higher-later-cohorts.md) — related
+- [Of Barton's 81 eighth-grade graduates of 1993, 44 graduated within five years, 26 dropped out, and 10 left CPS](barton-1993-five-year-outcomes.md) — related
+- [The report's dropout and graduate percentages are calculated differently from CPS's and are therefore somewhat smaller than CPS numbers](barton-report-method-differs-from-cps-statistics.md) — related

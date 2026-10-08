@@ -17,7 +17,7 @@ sources:
 # Strengthen ties between teachers and parents rather than pressing for remote sanctions behind teaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report describes Mead's 1942 analysis of the teacher's role, in which she observed the tremendous emotional and social significance of every teacher action within the community and that teacher deviations arouse terrible anxiety in parents. Mead framed two roads open to the teacher: to "seek to increase her ties of solidarity with the parents, sharing in their community life, continually interpreting to them," or to press for more powerful and remote sanctions behind her teaching, and asked how close or distant teacher-parent ties should be.
@@ -37,7 +37,8 @@ The report describes Mead's 1942 analysis of the teacher's role, in which she ob
 - maintaining community trust and teacher effectiveness amid social change
 
 ### Claims
-- 
+
+- [Ninth-grade teachers report less communication with and academic support for parents than eighth-grade teachers](../claims/ninth-grade-teachers-less-parent-communication.md) [+W] — attached 2026-10-08 from Roderick et al. (1998), which proposed "Increasing parental involvement in high schools requires changing teachers' and schools' outreach practices, not just expecting parents to engage".
 
 ## Related Principles
 - 

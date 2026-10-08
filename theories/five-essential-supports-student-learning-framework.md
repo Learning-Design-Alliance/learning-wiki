@@ -54,6 +54,10 @@ The Consortium's framework holds that five domains—school leadership, parent a
 - [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
 - [Five essential supports framework for school improvement](five-essential-supports-school-improvement-framework.md)
 - [Model of Essential Supports for Student Learning](model-essential-supports-student-learning.md)
+- [Five essential supports framework for urban school improvement](five-essential-supports-school-improvement.md)
+- [Five essential supports framework for organizing school improvement self-analysis](five-essential-supports-school-learning-framework.md)
+- [Five Essential Supports for Student Learning](five-essential-supports-student-learning-ccsr.md)
+- [Support-and-pressure principal leadership framework for productive school improvement](support-and-pressure-principal-leadership-framework.md)
 
 ## Examples
 

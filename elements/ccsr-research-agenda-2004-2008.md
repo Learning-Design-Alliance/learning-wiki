@@ -48,7 +48,8 @@ This document is a research agenda laying out planned studies across five sectio
 - [Annenberg external partners were organizationally diverse, and a majority focused their work on curriculum and instruction](../claims/annenberg-partner-composition-and-foci.md) [+W]
 
 ## Related Elements
-- 
+
+- [Educational indicator system for monitoring Chicago school reform progress](chicago-educational-indicator-system-proposal.md)
 
 ## Examples
 -

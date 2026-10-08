@@ -54,6 +54,9 @@ The agenda describes the Consortium's Five Essential Supports framework, in whic
 - [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
 - [The Five Essential Supports framework organizes school climate measurement into five key components of student learning](five-essential-supports-ccsr-survey-framework.md)
 - [The Five Essential Supports framework organizes school development measures](five-essential-supports-survey-measures-framework.md)
+- [Five essential supports for student learning framework](five-essential-supports-ccsr-sipaaa.md)
+- [Five essential supports framework for urban school improvement](five-essential-supports-school-improvement.md)
+- [Five Essential Supports for Student Learning](five-essential-supports-student-learning-ccsr.md)
 
 ## Examples
 

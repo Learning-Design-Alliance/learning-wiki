@@ -66,3 +66,4 @@ Descriptive comparison of last grade attained among 19-year-old dropouts in the 
 - [Systemwide CPS cumulative dropout percentages rose from 8.1 to 33.1 over five years](cps-systemwide-cumulative-dropout-percentages.md) — related
 - [Prepolicy retained students dropped out earlier, but postpolicy retained students showed elevated dropout risk throughout their remaining years rather than at early ages](postpolicy-retention-elevated-risk-all-ages.md) — related
 - [Chicago graduation rates improved steadily since the early 1990s except for the first two cohorts subject to the eighth-grade promotion standard, and age-16 dropout rates declined for the last five years](cps-graduation-improving-trend.md) — related
+- [Of Barton's 81 eighth-grade graduates of 1993, 44 graduated within five years, 26 dropped out, and 10 left CPS](barton-1993-five-year-outcomes.md) — related

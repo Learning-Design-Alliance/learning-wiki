@@ -47,3 +47,4 @@ Quasi-experimental comparisons of third graders just below versus just above the
 - [Retained sixth graders had lower achievement growth than promoted low-achieving counterparts](sixth-grade-retention-lowered-achievement-growth.md) — related
 - [Retention under Mississippi's test-based promotion policy led to substantial and sustained 6th-grade ELA gains for retained students](mississippi-retention-sustained-ela-gains.md) — related
 - [The threat of retention produced statistically significant increases in 3rd-grade math and reading performance before the retention decision](retention-threat-raises-grade-3-performance.md) — related
+- [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](retained-students-smaller-gains-than-social-promotes.md) — related

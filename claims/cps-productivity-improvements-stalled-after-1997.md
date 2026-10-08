@@ -45,3 +45,7 @@ Analysis of yearly reading and math gain scores by grade cohort, 1994-2001, repo
 ## Related Claims
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related
 - [CPS academic productivity gains peaked in 1997, with 1999 gains uniformly lower than 1997 gains at all grades](cps-productivity-gains-peaked-1997.md) — a narrower finding that bears on this claim
+- [After adjustments for inclusion-rule changes, CPS elementary test scores continued to improve through 1999, with long-term math gains across all grades but slowing reading improvement at ages 9, 11, and 12](cps-elementary-scores-continued-improving-after-adjustments.md) — reports the opposite
+- [CPS learning gains were consistently higher in all grades in 1996 than in 1994, but 1999 gains declined slightly relative to 1997 in all grades except third, suggesting productivity gains may have peaked](cps-learning-gains-rose-through-1996-may-have-peaked-by-1999.md) — related
+- [Judging school improvement requires reading learning gain trends and output trends simultaneously, since either trend monitored alone can mislead](single-trend-reading-misleading.md) — related
+- [Standardized test scores change so slowly that even schools making exceptional gains may appear stagnant](test-scores-change-slowly-schools-appear-stagnant.md) — related

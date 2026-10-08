@@ -46,6 +46,7 @@ The article presents Mitchell's (2008) critical service-learning model as a demo
 ## Related Theories
 
 - [Competing conceptual models of service-learning: Butin's four perspectives and Mitchell's traditional/critical distinction](butin-mitchell-models-of-service-learning.md)
+- [Integration of decolonial, socioecological, translingual, trauma-informed, and community-engaged praxis across the handbook](decolonial-socioecological-translingual-trauma-informed-community-engaged-praxis.md)
 
 ## Examples
 -

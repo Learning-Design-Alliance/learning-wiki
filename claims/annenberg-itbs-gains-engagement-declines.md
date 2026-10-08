@@ -45,3 +45,4 @@ Analyses of standardized ITBS scores and survey data compared Annenberg elementa
 ## Related Claims
 - [The Chicago Annenberg Challenge had little impact on student academic achievement: rates of gain in Annenberg schools did not differ significantly from non-Annenberg schools](annenberg-no-significant-achievement-gain-differences.md) — related
 - [Annenberg schools showed no significant differences from non-Annenberg schools in student social and psychological outcomes, some of which weakened](annenberg-social-outcomes-no-difference-some-weakened.md) — related
+- [Chicago Annenberg Challenge schools enrolled about 220 schools and 42 percent of CPS students, with demographics largely representative of the system](annenberg-schools-representative-of-cps.md) — related

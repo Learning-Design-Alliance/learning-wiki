@@ -46,3 +46,4 @@ Supplementary re-analysis of 2001 CPS math scores using an equated Rasch score (
 - [A Rasch-score re-analysis corroborates slowing and in some cases declining test score trends, with nine-year-olds an exception](rasch-reanalysis-corroborates-slowing-trends.md) — a broader claim this one bears on
 - [Reading score trends flattened for ages 9-12 and declined at ages 9 and 12 in the grade equivalent metric by 2000](cps-reading-trends-flattened-declined-younger-ages.md) — related
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related
+- [Chicago elementary student achievement improved steadily from 1990 to 1999 under local control, with the share of students reaching national norms growing to 35 percent in reading and 43 percent in math](chicago-elementary-achievement-growth-1990-1999.md) — related

@@ -49,3 +49,5 @@ The book's overview reports this as part of its historical account of the transf
 - [Inclusive school leadership plays a critical role in building teachers' capacity for school improvement](inclusive-leadership-builds-teacher-capacity.md) — related
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related
+- [In about a third of Chicago elementary schools, expanded local democratic participation served as a strong lever for systemic change focused on improved instruction](one-third-schools-democratic-participation-lever-systemic-change.md) — related
+- [Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear](six-restructuring-schools-case-findings.md) — related

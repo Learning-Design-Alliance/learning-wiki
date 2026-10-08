@@ -47,3 +47,5 @@ Comparative analysis of ITBS reading and math scores (Figures 7–10) comparing 
 - [Annenberg schools showed no significant differences from non-Annenberg schools in student social and psychological outcomes, some of which weakened](annenberg-social-outcomes-no-difference-some-weakened.md) — related
 - [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](annenberg-capacity-gains-eroded-by-2001.md) — related
 - [Annenberg elementary schools developed in small but potentially significant ways in leadership, professional community, parent and community support, and social trust, mostly mirroring citywide development patterns](annenberg-schools-small-development-gains-mirror-citywide.md) — related
+- [The 12 Annenberg sample schools performed below Chicago system averages on ITBS math and reading norms](annenberg-sample-below-system-itbs-norms.md) — related
+- [Chicago Annenberg Challenge schools enrolled about 220 schools and 42 percent of CPS students, with demographics largely representative of the system](annenberg-schools-representative-of-cps.md) — related

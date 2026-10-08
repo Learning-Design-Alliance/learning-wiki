@@ -69,3 +69,4 @@ Documented analysis of ISAT cut-score changes in Chapter 2: the correct-answer t
 - [In fifth-grade reading, ITBS scores declined significantly more than ISAT scores from 1999 to 2002](fifth-grade-reading-itbs-greater-decline-than-isat.md) — related
 - [Districts' most frequent suggestions for improving ISAT are stability and consistency and faster turnaround, each urged by about one-quarter of districts](isat-improvement-stability-turnaround.md) — related
 - [ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting](itbs-tested-but-excluded-isat-reports-all.md) — related
+- [Test preparation demands slow instruction, with the spring review season beginning earlier and lasting longer each year of the study](test-prep-season-slows-new-instruction.md) — related

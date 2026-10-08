@@ -37,7 +37,8 @@ Empirical Bayes shrinkage is described as "an approach commonly used in implemen
 - Accurate and precise measurement of teacher effectiveness for accountability decisions
 
 ## Related Elements
-- 
+
+- [Jackknife leave-one-year-out empirical Bayes estimation of teacher grade effects](jackknife-leave-one-year-out-grade-effect-estimation.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Regression analysis of 2011-13 cohorts taking fall tenth-grade PLAN, using the s
 - [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
 - [ISAT scores are not comparable over time: students with identical earlier and later test scores earned different seventh-grade ISAT scores depending on the year tested](isat-scores-noncomparable-over-time.md) — related
 - [The ACT does not distinguish well among low-achieving students, while WorkKeys differentiates achievement levels among these students](act-weak-at-low-end-workkeys-differentiates.md) — related
+- [Teachers' persistent grade effects predict students' long-term outcomes](persistent-grade-effects-predict-long-term-outcomes.md) — related

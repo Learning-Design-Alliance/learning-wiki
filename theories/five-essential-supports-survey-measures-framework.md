@@ -54,6 +54,9 @@ The UChicago Consortium groups roughly 25 survey composite measures of school de
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](early-education-essentials-six-essential-supports-framework.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 - [Model of Essential Supports for Student Learning](model-essential-supports-student-learning.md)
+- [Five essential supports framework for urban school improvement](five-essential-supports-school-improvement.md)
+- [Five essential supports framework for organizing school improvement self-analysis](five-essential-supports-school-learning-framework.md)
+- [Five Essential Supports for Student Learning](five-essential-supports-student-learning-ccsr.md)
 
 ## Examples
 

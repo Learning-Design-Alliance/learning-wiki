@@ -60,6 +60,7 @@ The five essential supports framework posits that school improvement depends on 
 
 - [5Essentials Survey system measuring school organizational conditions](../elements/5essentials-survey-system-illinois.md)
 - [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../elements/five-essentials-early-education-surveys.md)
+- [Use 5Essentials survey data to identify where to improve students' school experiences and teachers' relationships with parents to support attendance](../strategies/use-5essentials-data-to-target-attendance-supports.md)
 
 ## Key Sources
 - Klugman, J., Gordon, M. F., Sebring, P. B., & Sporte, S. E. (2015). A First Look at the 5Essentials in Illinois Schools. UChicago CCSR Research Report. https://illinois.5-essentials.org/2014_public/

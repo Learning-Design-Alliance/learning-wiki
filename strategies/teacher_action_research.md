@@ -54,6 +54,7 @@ For a teacher investigating their own classroom, this is most often small-scale 
 - [Build Time for Self-Reflection](build_time_for_self-reflection.md) — the reflective habit action research systematizes into a research cycle
 - [Teachers and intervention designers should use mobile devices thoughtfully alongside other teaching approaches, ground designs in existing evidence, and evaluate rigorously](thoughtful-mobile-device-integration-recommendations.md)
 - [Use local data to identify which remote learning strategies work best for your own students](use-local-data-refine-remote-learning-strategies.md)
+- [Researchers partner with individual school communities through intervention and action research to build local problem-solving capacity](researcher-school-action-research-partnerships.md)
 
 ## Examples
 - A teacher noticing that certain students rarely volunteer answers, reviewing the literature on classroom participation, trying a cold-call-with-think-time intervention, collecting participation data, and refining the approach for the next cycle

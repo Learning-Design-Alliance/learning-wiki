@@ -73,3 +73,4 @@ Trend analysis of CPS math scores by racial/ethnic group across the three eras, 
 - [No evidence that the racial/ethnic achievement gap in CPS elementary scores narrowed or widened from 1992 to 2000](cps-racial-ethnic-gap-unchanged-1992-2000.md) — reports the opposite
 - [During Phase I reform, a subset of very disadvantaged, racially isolated African-American schools showed weak improvement](phase-one-weak-gains-disadvantaged-schools.md) — related
 - [African-American students' disproportionate retention was largely explained by lower prior test scores](retention-racial-disparity-explained-by-scores.md) — related
+- [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related

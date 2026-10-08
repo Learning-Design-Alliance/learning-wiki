@@ -47,3 +47,4 @@ The report presents this interdependence claim as a lesson from CCSR's research 
 - [Elementary schools with clusters of three or more NBCTs demonstrate greater strength on 7 of 12 essential supports measures](nbct-clusters-elementary-stronger-essential-supports.md) — related
 - [Artistic and social-emotional competencies are mutually reinforcing](artistic-sel-competencies-mutually-reinforcing.md) — related
 - [Schools that improved focused on multiple mutually-reinforcing aspects of school organization rather than a single aspect](multi-area-mutually-reinforcing-improvement-distinguishes-strong-schools.md) — possibly the same claim (merge candidate)
+- [When Supportive Environment improves, the other 5Essentials essential supports often improve](supportive-environment-improvement-co-occurs-other-essentials.md) — a narrower finding that bears on this claim

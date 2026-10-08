@@ -45,3 +45,4 @@ Methodological analysis in the report's introduction comparing rate-calculation 
 ## Related Claims
 - [Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict](cps-school-level-graduation-differences.md) — related
 - [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
+- [The report's dropout and graduate percentages are calculated differently from CPS's and are therefore somewhat smaller than CPS numbers](barton-report-method-differs-from-cps-statistics.md) — related

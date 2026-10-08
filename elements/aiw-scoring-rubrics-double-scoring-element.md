@@ -50,6 +50,7 @@ The project scored assignments and student work using measurement rubrics create
 ## Related Elements
 
 - [Assignment-scoring standards and rubrics for authentic intellectual work in writing and mathematics](aiw-assignment-scoring-standards-rubrics.md)
+- [Chicago Annenberg classroom assignment collection and scoring system](annenberg-assignment-collection-scoring-system.md)
 
 ## Examples
 -

@@ -44,3 +44,4 @@ A summary finding from the baseline report (Newmann et al., 1998) reported in th
 
 ## Related Claims
 - [Students whose assignments are more authentic produce more authentic intellectual work in both writing and mathematics](authentic-assignments-yield-authentic-student-work.md) — related
+- [A majority of writing and mathematics assignments in 12 Chicago Annenberg schools fell into the lowest two challenge categories](chicago-assignments-majority-low-challenge.md) — related

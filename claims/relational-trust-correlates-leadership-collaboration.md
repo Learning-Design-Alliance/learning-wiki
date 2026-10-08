@@ -47,3 +47,4 @@ Stated research question of the comparative Valparaíso–Illinois study, which 
 - [Relational trust appears to materialize in schools regardless of vast differences in environments](relational-trust-materializes-regardless-of-environments.md) — a broader claim this one bears on
 - [Nearly all teacher survey domains and scales correlate small-to-moderately (0.26 to 0.46) with supervisors' ratings of principals' leadership](survey-supervisor-rating-correlations-026-046.md) — related
 - [Teacher-parent trust was much lower in Valparaíso than in Illinois](teacher-parent-trust-lower-valparaiso.md) — related
+- [Facilitative, inclusive principal leadership and effective principal supervision are associated with more positive trust relations](principal-leadership-associated-with-trust-relations.md) — a narrower finding that bears on this claim

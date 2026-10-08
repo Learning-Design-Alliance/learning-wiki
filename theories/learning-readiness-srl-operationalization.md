@@ -44,6 +44,7 @@ The article grounds the WEC's learning readiness construct in self-regulated lea
 
 - [Self-regulated learning as a motivational, cyclical process of goal setting, monitoring, and control](srl-motivational-goal-setting-monitoring-control-framework.md)
 - [Self-Regulated Learning](self-regulated-learning.md)
+- [Three-component model of student engagement: behavioral, emotional, and cognitive](three-component-student-engagement-framework.md)
 
 ## Examples
 -

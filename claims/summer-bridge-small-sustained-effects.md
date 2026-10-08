@@ -49,3 +49,4 @@ The report's sustainability analysis compared two-year learning gains of student
 - [Summer Bridge gains were relatively uniform across demographic and achievement groups, with highest-risk third graders benefiting most](summer-bridge-uniform-gains-across-groups.md) — related
 - [Students were significantly more positive about classroom academic environments and teacher attention in Summer Bridge than in the school year](summer-bridge-students-more-positive-environment.md) — related
 - [Mandatory summer curricula are not teacher proof: individualizing instruction and quality of teacher-student interactions were associated with larger gains](summer-curricula-not-teacher-proof.md) — related
+- [Students who met the promotional cutoffs, including after Summer Bridge, maintained positive test trajectories two years after promotion](promoted-students-maintained-gains-two-years.md) — reports the opposite

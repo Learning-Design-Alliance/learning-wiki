@@ -70,3 +70,4 @@ Analysis of CCSR 2007 teacher survey data for 16 high schools with NBCT clusters
 - [Elementary schools with clusters of board-certified teachers and candidates showed higher teacher influence, innovation, and slightly higher collective responsibility](nbct-clusters-higher-teacher-influence-innovation.md) — related
 - [School organizational supports are associated with more interactive and less didactic instruction](school-organizational-supports-interactive-instruction.md) — related
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related
+- [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related

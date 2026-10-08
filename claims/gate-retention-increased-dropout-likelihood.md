@@ -67,3 +67,4 @@ Event-history modeling of dropout through age 19 excluding the last two postpoli
 - [Students delayed by promotion gates recovered on-schedule status more easily than those delayed by course failure](gate-delays-easier-to-recover-than-course-failure.md) — related
 - [Prepolicy retained students dropped out earlier, but postpolicy retained students showed elevated dropout risk throughout their remaining years rather than at early ages](postpolicy-retention-elevated-risk-all-ages.md) — related
 - [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](postpolicy-retention-effect-smaller-but-larger-impact.md) — related
+- [Nearly a third of eighth graders retained or sent to Transition Centers in 1997 had dropped out by fall 1999, while overall eighth-grade dropout rates stayed stable](retained-eighth-graders-high-dropout.md) — a narrower finding that bears on this claim

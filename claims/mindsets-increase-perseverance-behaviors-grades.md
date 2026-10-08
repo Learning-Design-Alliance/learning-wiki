@@ -47,3 +47,5 @@ Review synthesis in Chapter 2 of psychological evidence on mindsets. The review 
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
+- [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — possibly the same claim (merge candidate)
+- [When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely](self-efficacy-with-sustained-effort-better-achievement.md) — related

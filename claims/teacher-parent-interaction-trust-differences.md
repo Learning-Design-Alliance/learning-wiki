@@ -63,3 +63,4 @@ Summary comparison of the Teacher-Parent Trust scale, measuring mutual support a
 
 ## Related Claims
 - [Two-thirds of teachers in bottom-quartile schools describe no or minimal teacher-parent trust](teacher-parent-trust-bottom-quartile-low.md) — possibly the same claim (merge candidate)
+- [Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often describe weak processes (46 percent)](joint-problem-solving-quartile-contrast-1997.md) — related

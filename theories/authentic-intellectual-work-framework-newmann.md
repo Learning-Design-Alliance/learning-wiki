@@ -45,6 +45,8 @@ The framework defines authentic intellectual work as involving "original applica
 ## Related Theories
 
 - [Authentic intellectual work framework: construction of knowledge, elaborated written communication, and connection to student lives](authentic-intellectual-work-standards-framework.md)
+- [Authentic intellectual work framework: construction of knowledge, elaborated written communication, and connection to students' lives](authentic-intellectual-work-framework-aiw.md)
+- [Authentic intellectual work framework: construction of knowledge through disciplined inquiry producing products with value beyond school](authentic-intellectual-work-three-criteria.md)
 
 ## Examples
 

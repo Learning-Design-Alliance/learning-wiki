@@ -50,3 +50,4 @@ The brief reports, citing Bryk et al. (2010), that a sustained weakness in one d
 - [Schools strong in the essential supports are more likely to improve student learning over time](essential-supports-strong-schools-improve-learning.md) — related
 - [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](five-essential-elements-three-of-five-improvement-odds.md) — related
 - [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related
+- [Schools with high relational trust showed marked gains in student learning while schools with weak trust relations saw virtually no improvement in reading or mathematics scores](relational-trust-predicts-learning-gains-chicago-elementary.md) — a narrower finding that bears on this claim

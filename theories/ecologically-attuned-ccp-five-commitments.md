@@ -43,7 +43,8 @@ The article proposes an approach to critical communication pedagogy contextualiz
 - [Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality](../claims/species-eulogy-fosters-more-than-human-recognition.md) [+W]
 
 ## Related Theories
-- 
+
+- [Integration of decolonial, socioecological, translingual, trauma-informed, and community-engaged praxis across the handbook](decolonial-socioecological-translingual-trauma-informed-community-engaged-praxis.md)
 
 ## Examples
 

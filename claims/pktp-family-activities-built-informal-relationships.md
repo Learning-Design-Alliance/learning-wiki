@@ -47,3 +47,4 @@ Findings from the developmental evaluation's triangulated survey, interview, foc
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](parent-to-parent-forums-community-support.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
 - [At the close of the first full year, PKTP's communication about the importance of transition was unclear to many teacher and parent participants](pktp-transition-message-unclear-to-participants.md) — related
+- [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related

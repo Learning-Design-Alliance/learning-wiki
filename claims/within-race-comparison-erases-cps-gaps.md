@@ -47,3 +47,4 @@ Observational comparison of 2006 ISAT scores disaggregated by race/ethnicity (Af
 - [The Chicago-versus-rest-of-Illinois gap in ISAT math also narrows in upper grades, but less than in reading](cps-isat-math-gap-narrows-less-than-reading.md) — related
 - [Chicago Latino students underperform rest-of-state Latino counterparts slightly in third grade but outperform them in eighth-grade reading](latino-students-cps-outperform-by-eighth-grade.md) — a narrower finding that bears on this claim
 - [Chicago White students score as well as or better than rest-of-state White peers in reading, and about the same in math](white-cps-students-match-or-beat-statewide-peers.md) — a narrower finding that bears on this claim
+- [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related

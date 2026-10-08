@@ -56,3 +56,4 @@ Observational analysis of pilot data on school median student growth percentiles
 - [Principal practice instrument ratings and school median student growth percentiles showed moderate to high year-to-year stability, but growth percentiles changed more across years in smaller schools](evaluation-measure-year-to-year-stability-school-size.md) — related
 - [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](first-study-principal-practice-ratings-value-added-validity.md) — related
 - [School value added can reflect school-specific influences on student achievement growth that are outside principals' control](value-added-reflects-influences-outside-principal-control.md) — related
+- [Ninth-grade teachers' grade effects are stable across years](teacher-grade-effects-stable-across-years.md) — related

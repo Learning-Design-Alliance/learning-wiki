@@ -54,6 +54,7 @@ The Consortium prepares individualized, confidential survey reports for every Ch
 - [Technology Use and Support survey measures](consortium-technology-use-and-support-survey-measures.md)
 - [School-specific summary and details reports generated from survey participation](school-specific-survey-summary-and-details-reports.md)
 - [School-specific survey reports with minimum participation thresholds](uchicago-consortium-school-specific-survey-reports.md)
+- [Individual school report protocol with citywide and quartile benchmarks](ccsr-school-report-protocol-quartile-benchmarks.md)
 
 ## Examples
 

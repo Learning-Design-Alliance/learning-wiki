@@ -48,3 +48,4 @@ Fieldwork across seven CHSRI schools found teachers perceived small schools as h
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Teachers see high workload, habits, low-quality data and skills, and predisposition as the main constraints on data-informed analysis, and none regularly collect teaching data](teacher-data-use-obstacles-workload-habits-skills.md) — related
+- [Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community](teacher-collaboration-time-scarce-contract.md) — related

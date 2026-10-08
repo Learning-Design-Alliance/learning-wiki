@@ -47,3 +47,4 @@ Observational school-by-school breakdown in Table 7 for the 1997 cohort. The pri
 - [Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts](cps-systemwide-first-year-on-track-percentages.md) — related
 - [Vivaldi first-year on-track counts fluctuated between 24 and 31 across the classes of 1997–2001](vivaldi-first-year-on-track-over-time.md) — related
 - [Schools vary widely in freshman on-track rates even among students with similar backgrounds](school-differences-in-on-track-rates.md) — a broader claim this one bears on
+- [Freshman on-track rates varied by the elementary school Kenwood students attended, as shown in maps and tables for the classes of 1997 and 2001](kenwood-on-track-by-elementary-school.md) — related

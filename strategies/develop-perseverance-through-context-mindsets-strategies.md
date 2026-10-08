@@ -40,7 +40,9 @@ Because direct grit interventions lack evidentiary support, the review recommend
 - [Noncognitive Factors Hypothesized Model](../theories/noncognitive-factors-hypothesized-model.md)
 
 ## Related Strategies
+
 - [Four Academic Mindsets](../theories/four-academic-mindsets.md)
+- [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](mindset-cultivation-practices-list.md)
 
 ## Examples
 -

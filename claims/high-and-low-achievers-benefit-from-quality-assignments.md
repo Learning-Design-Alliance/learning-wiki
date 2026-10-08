@@ -47,3 +47,4 @@ The manual summarizes this finding from the Newmann, Bryk, and Nagaoka (2001) re
 - [Students Assigned More Intellectually Demanding Work Outperform Comparable Peers Regardless of Prior Achievement](demanding-assignments-benefit-all-achievement-levels.md) — possibly the same claim (merge candidate)
 - [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — related
 - [Exposure to high-quality assignments predicted substantially higher IGAP reading, mathematics, and writing performance (effect sizes 0.43, 0.64, 0.52)](authentic-assignments-igap-value-added.md) — related
+- [The report cites research evidence that students exposed to authentic intellectual challenges are more engaged than students given conventional schoolwork](authentic-challenges-increase-engagement.md) — related

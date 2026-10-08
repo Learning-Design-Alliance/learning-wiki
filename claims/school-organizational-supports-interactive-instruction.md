@@ -50,3 +50,4 @@ Survey-based analysis comparing schools high versus low on three organizational 
 - [Elementary schools with clusters of three or more NBCTs demonstrate greater strength on 7 of 12 essential supports measures](nbct-clusters-elementary-stronger-essential-supports.md) — related
 - [Elementary schools with clusters of board-certified teachers and candidates showed higher teacher influence, innovation, and slightly higher collective responsibility](nbct-clusters-higher-teacher-influence-innovation.md) — related
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related
+- [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related

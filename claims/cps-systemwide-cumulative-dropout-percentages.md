@@ -46,3 +46,4 @@ Observational systemwide outcome percentages in Table 9, tracking the 1997 CPS e
 - [Dropouts in more recent CPS cohorts left school at earlier grade levels, with a growing share not going beyond ninth grade](dropouts-leaving-at-earlier-grade-levels.md) — related
 - [Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts](cps-systemwide-first-year-on-track-percentages.md) — related
 - [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](postpolicy-retention-effect-smaller-but-larger-impact.md) — related
+- [The report's dropout and graduate percentages are calculated differently from CPS's and are therefore somewhat smaller than CPS numbers](barton-report-method-differs-from-cps-statistics.md) — related

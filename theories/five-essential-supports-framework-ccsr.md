@@ -63,6 +63,10 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Instructional program coherence framework: common framework, supportive working conditions, and strategic resource allocation](instructional-program-coherence-framework.md)
 - [Model of Essential Supports for Student Learning](model-essential-supports-student-learning.md)
 - [Race as a proxy for vulnerability in urban school reform](race-as-proxy-for-vulnerability.md)
+- [Five essential supports for student learning framework](five-essential-supports-ccsr-sipaaa.md)
+- [Five essential supports framework for urban school improvement](five-essential-supports-school-improvement.md)
+- [Five essential supports framework for organizing school improvement self-analysis](five-essential-supports-school-learning-framework.md)
+- [Support-and-pressure principal leadership framework for productive school improvement](support-and-pressure-principal-leadership-framework.md)
 
 ## Examples
 -

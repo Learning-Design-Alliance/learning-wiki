@@ -48,3 +48,4 @@ Attendance analysis of ninth-grade absence data for 36,423 CPS students. On aver
 - [Ninth graders who fail Algebra I are demographically similar to those who pass, but are more likely to be male and African American](algebra-i-failers-more-likely-male-african-american.md) — related
 - [Before expanded options, only 13% of CPS freshmen who failed spring Algebra I recovered the credit over the summer](low-summer-algebra-credit-recovery-rate-before-study.md) — related
 - [Freshmen who miss more than two weeks of school per semester fail at least two classes on average, regardless of incoming test scores](two-weeks-absence-course-failure.md) — related
+- [Ninth grade truancy rates do not differ much by gender, undercutting the hypothesis that gang activity primarily drives absenteeism](truancy-rates-similar-by-gender.md) — related

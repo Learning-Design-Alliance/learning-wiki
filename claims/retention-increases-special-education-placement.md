@@ -45,3 +45,4 @@ Tracking of retained cohorts under the CPS promotional policy shows an 18 percen
 ## Related Claims
 - [Students were identified for special education after failing the promotion gate, not before taking it](cps-identification-followed-retained-gate-failure.md) — related
 - [Retained sixth graders had lower achievement growth than promoted low-achieving counterparts](sixth-grade-retention-lowered-achievement-growth.md) — related
+- [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](retained-students-smaller-gains-than-social-promotes.md) — related

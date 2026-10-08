@@ -16,7 +16,7 @@ sources:
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The brief characterizes rightful presence by "a fundamental shift in power" in which students, families, and communities who most frequently experience systemic inequities become integral in the shaping and design of educational systems, policies, and practices. It promotes co-creation of school experiences benefiting students, educators, staff, families, and communities, requiring collective action across the system.
@@ -36,7 +36,9 @@ The brief characterizes rightful presence by "a fundamental shift in power" in w
 - equitable and just educational policies and practices
 
 ### Claims
-- 
+
+- [District officials and CBO leaders viewed the WSS Framework development process as a novel, replicable approach to community-engaged policymaking](../claims/wss-codesign-seen-novel-replicable-policymaking.md) [+W] — attached 2026-10-08 from Johnson (2026), which proposed "Four key features of the WSS co-design model: inclusive design, restorative orientation, addressing institutional harm, and demonstrated possibility".
+- [CBO leaders characterized the collaborative WSS development process as healing and restorative, applying restorative justice principles to policymaking](../claims/wss-codesign-restorative-healing-process.md) [+W] — attached 2026-10-08 from Johnson (2026), which proposed "Four key features of the WSS co-design model: inclusive design, restorative orientation, addressing institutional harm, and demonstrated possibility".
 
 ## Related Patterns
 - 

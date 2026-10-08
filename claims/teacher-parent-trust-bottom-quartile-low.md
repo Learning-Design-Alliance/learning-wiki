@@ -44,3 +44,4 @@ Citywide quartile comparison of the Teacher-Parent Trust scale in the 2005 surve
 
 ## Related Claims
 - [Teacher-parent interaction and trust are lower in bottom-quartile schools, and even top-rated schools show limited very strong trust](teacher-parent-interaction-trust-differences.md) — possibly the same claim (merge candidate)
+- [Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often describe weak processes (46 percent)](joint-problem-solving-quartile-contrast-1997.md) — related

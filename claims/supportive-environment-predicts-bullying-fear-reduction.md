@@ -46,3 +46,5 @@ Analysis relating school-level 5Essentials Survey scores to schools' estimated e
 ## Related Claims
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — related
 - [The effects of attending a bullying-reducing school on graduation are larger for students with a history of victimization](bullying-reduction-effects-larger-for-prior-victimized-students.md) — related
+- [Only 50% of a school's 5Essentials score is explained by the previous year's score, indicating substantial year-to-year malleability of school climate](5essentials-score-only-half-explained-by-prior-year.md) — related
+- [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — related
