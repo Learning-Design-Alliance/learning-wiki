@@ -43,7 +43,8 @@ A methodological artifact in which the authors "generate synthetic RD data sets 
 - [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](../claims/rd-average-bias-below-0-01-sd-high-internal-validity.md) [+W]
 
 ## Related Elements
-- 
+
+- [Empirical design-effect estimates based on four previously published education studies](four-published-education-studies-rd-power-basis.md)
 
 ## Examples
 

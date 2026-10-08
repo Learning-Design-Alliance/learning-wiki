@@ -50,3 +50,6 @@ Theoretical and simulation analysis reported by the authors, showing that the te
 - [Including track indicators and classroom achievement controls simultaneously reduces precision of value-added estimates](combined-specifications-reduce-precision.md) — related
 - [Accounting for mean and standard deviation of classroom achievement may reduce bias for middle school math teachers](classroom-achievement-controls-reduce-bias-middle-school-math.md) — related
 - [Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails](specification-differences-small-tail-changes.md) — related
+- [The Rothstein falsification test is not definitive in showing bias in VAM teacher effect estimates](rothstein-test-not-definitive-evidence-of-bias.md) — possibly the same claim (merge candidate)
+- [The Rothstein test can reject VAMs even when students are randomly assigned conditional on the covariates in the model](rothstein-test-rejects-vams-random-assignment.md) — related
+- [The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased](rothstein-test-rejects-vams-without-bias.md) — related

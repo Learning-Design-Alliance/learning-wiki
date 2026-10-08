@@ -52,3 +52,7 @@ Findings from the lottery-based study of 33 charter middle schools across 13 sta
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — related
 - [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — related
 - [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](kipp-middle-schools-positive-significant-achievement-effects.md) — related
+- [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related
+- [Lottery-based research on schools of choice faces identifiable challenges](lottery-based-research-challenges-schools-of-choice.md) — related
+- [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related
+- [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related

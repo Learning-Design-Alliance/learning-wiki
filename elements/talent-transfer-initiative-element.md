@@ -43,11 +43,13 @@ The Talent Transfer Initiative was a teacher transfer incentive program evaluate
 - [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](../claims/teacher-transfer-incentive-behavioral-responses.md) [+W]
 
 ## Related Elements
-- 
+
+- [Talent Transfer Initiative (TTI) transfer-incentive program](talent-transfer-initiative-program.md)
 
 ## Examples
 
 - [Offer selective financial transfer incentives to staff hard-to-staff schools with high-performing teachers](../strategies/selective-teacher-transfer-incentives-strategy.md)
+- [Use transfer incentives to place high-performing teachers in hard-to-staff schools serving disadvantaged students](../strategies/transfer-incentives-for-hard-to-staff-schools.md)
 
 ## Key Sources
 - Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh. (2015). Staffing a Low-Performing School: Behavioral Responses to Selective Teacher Transfer Incentives. Education Finance and Policy, vol. 10, no. 4. https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective

@@ -51,6 +51,7 @@ The article is associated with the project "Value-Added Assessment System for DC
 - [Four principal performance measures based on student test scores](four-test-score-principal-performance-measures.md)
 - [Value-added model for measuring school and teacher performance in DC Public Schools (IMPACT and TEAM)](dc-impact-team-value-added-model.md)
 - [BRIDGE teacher and principal evaluation value-added models](bridge-teacher-principal-evaluation-value-added-models.md)
+- [Value-added models for measuring school and teacher effectiveness in DC Public Schools (IMPACT and TEAM), 2010-2011](dcps-impact-team-value-added-models-2010-2011.md)
 
 ## Examples
 -

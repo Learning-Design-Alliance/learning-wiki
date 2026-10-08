@@ -51,3 +51,4 @@ The report identifies itself as "The latest findings from Mathematica’s multiy
 - [For students continuing from KIPP middle schools to KIPP high schools, achievement impacts are not statistically significant](kipp-high-school-continuing-students-achievement-null.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related
 - [KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function](kipp-prek-possible-executive-function-impact.md) — related
+- [The second phase of the national KIPP evaluation nearly doubled the sample to 43 KIPP middle schools and estimated achievement impacts in four subjects](kipp-evaluation-43-middle-schools-four-subjects.md) — related

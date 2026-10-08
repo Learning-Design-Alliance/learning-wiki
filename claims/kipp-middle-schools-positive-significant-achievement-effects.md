@@ -56,3 +56,5 @@ The publication's own summary of the evaluation states that the study measured a
 - [KIPP outcomes were measured with state tests, a nationally normed assessment including higher-order thinking measures, and student- and parent-reported behaviors](kipp-outcome-measures-normed-assessment-behaviors.md) — related
 - [Urban charter schools have more positive impacts on student achievement than other charter schools](urban-charter-schools-more-positive-achievement-impacts.md) — related
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related
+- [The second phase of the national KIPP evaluation nearly doubled the sample to 43 KIPP middle schools and estimated achievement impacts in four subjects](kipp-evaluation-43-middle-schools-four-subjects.md) — related
+- [The national KIPP evaluation uses experimental and quasi-experimental methods to estimate effects of KIPP middle schools across the country](kipp-evaluation-experimental-quasi-experimental-design.md) — a broader claim this one bears on

@@ -46,3 +46,4 @@ The report's own abstract-level description of its work: value-added models (VAM
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](pittsburgh-three-measures-differentiate-teacher-performance.md) — related
 - [Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year](pittsburgh-vam-report-2016-documents-district-use.md) — related
+- [The Pittsburgh VAMs incorporate course-specific assessments, attendance, and course completion alongside state assessments](pittsburgh-vams-use-multiple-outcome-measures.md) — related

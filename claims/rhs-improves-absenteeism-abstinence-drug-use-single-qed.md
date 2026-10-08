@@ -45,3 +45,4 @@ The review's Results section reports the single eligible quasi‐experimental pr
 ## Related Claims
 - [No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness](no-eligible-crc-studies-identified.md) — related
 - [Recovery high schools were no better or worse than comparison high schools on grade point average, truancy, or alcohol use in the single included study](rhs-no-difference-gpa-truancy-alcohol.md) — related
+- [Mandatory-random student drug testing reduces high school students' reported past-30-day substance use relative to schools without MRSDT](mrsdt-reduces-past-30-day-substance-use.md) — related

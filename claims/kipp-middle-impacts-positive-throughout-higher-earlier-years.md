@@ -53,3 +53,4 @@ The key findings report that average middle school impacts were "positive and st
 - [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related
 - [The Fisher Fellowship selection instrument is reliable, though three of 34 items had relatively low levels of one type of reliability](fisher-fellowship-selection-instrument-reliable.md) — related
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related
+- [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related

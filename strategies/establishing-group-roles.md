@@ -59,8 +59,10 @@ Defined roles operationalize the positive-interdependence and individual-account
 6. Close with a short reflection on how well roles functioned, then rotate roles for the next session.
 
 ## Related Strategies
+
 - [Jigsaw](../strategies/jigsaw.md) — an interdependence structure where each member's unique piece makes roles intrinsic rather than imposed
 - Think-Pair-Share — a lightweight two-role structure for quick discussion formats
+- [Have measurement team members collaborate to complete measurement tasks successfully](measurement-team-collaboration-strategy.md)
 
 ## Examples
 - **Complex Instruction (Stanford/USC)** — assigns structured roles (facilitator, recorder, reporter) with "status treatments" to equalize participation in heterogeneous math classrooms; widely documented in the cooperative learning literature.

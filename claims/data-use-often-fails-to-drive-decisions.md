@@ -45,3 +45,5 @@ The brief's framing statement asserts, without cited evidence on this page, that
 ## Related Claims
 - [Data infrastructure, accessible data, and a culture of data use are necessary but not sufficient for data-driven decision making in education agencies](data-infrastructure-alone-insufficient-for-data-driven-decisions.md) — related
 - [Disconnected educator data systems are a common implementation challenge; a unified talent data system can generate prioritization insights](unified-talent-data-system-generates-prioritization-insights.md) — related
+- [In practice, education data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](data-often-fails-to-drive-education-decisions.md) — possibly the same claim (merge candidate)
+- [Data in education often fails to move educators and policymakers or overwhelms them with extraneous information](data-often-leaves-educators-unmoved.md) — possibly the same claim (merge candidate)

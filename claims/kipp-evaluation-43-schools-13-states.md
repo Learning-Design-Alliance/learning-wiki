@@ -46,3 +46,4 @@ Scope statement from the report's summary: the multiyear Mathematica study is "t
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related
 - [Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md) — related
 - [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related
+- [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related

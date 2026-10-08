@@ -53,6 +53,7 @@ The Knowledge Is Power Program (KIPP) is described as "a network of charter scho
 - [KIPP Pre-K program](kipp-prek-program.md)
 - [KIPP (Knowledge Is Power Program) charter middle school network](kipp-charter-middle-school-network.md)
 - [KIPP middle schools as an evaluated intervention across the country](kipp-middle-schools-intervention.md)
+- [KIPP charter school network and its Five Pillars model](kipp-network-five-pillars-model.md)
 
 ## Examples
 -

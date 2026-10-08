@@ -54,6 +54,9 @@ A study design report prepared by Mathematica Policy Research for the U.S. Depar
 - [Independent impact evaluation by Mathematica Policy Research](mpr-independent-impact-evaluation.md)
 - [Teacher Incentive Fund (TIF) performance-based compensation grants for high-need schools](teacher-incentive-fund-performance-compensation-grants.md)
 - [Teacher Incentive Fund (TIF) performance-based compensation program](teacher-incentive-fund-program.md)
+- [Mathematica multi-site random assignment evaluation of TIF pay-for-performance bonuses](mathematica-tif-random-assignment-evaluation.md)
+- [Teacher Incentive Fund (TIF) performance-based compensation program for teachers and principals in high-need schools](teacher-incentive-fund-program-element.md)
+- [Teacher Incentive Fund (TIF) performance-based compensation program](teacher-incentive-fund-tif-program.md)
 
 ## Examples
 -

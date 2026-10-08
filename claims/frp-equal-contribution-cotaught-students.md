@@ -45,3 +45,4 @@ The article defines the Full Roster-Plus Method (FRP) as an improvement on FRM: 
 ## Related Claims
 - [The Full Roster Method effectively counts co-taught students more than once in value-added calculations](frm-counts-cotaught-students-more-than-once.md) — related
 - [Applying the Full Roster-Plus Method instead of the Full Roster Method produces very small empirical differences in value-added estimates in District of Columbia Public Schools data](frp-vs-frm-very-small-empirical-differences.md) — related
+- [The full roster and full roster-plus methods are empirically similar](full-roster-methods-empirically-similar.md) — related

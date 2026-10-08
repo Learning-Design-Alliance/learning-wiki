@@ -39,6 +39,7 @@ The artifact is a guide developed jointly by two research organizations for stat
 ## Related Elements
 
 - [Teacher Incentive Fund (TIF) performance pay evaluation study design report](tif-performance-pay-study-design-report.md)
+- [A district guide for embedding RCTs into planned policies and programs](district-guide-opportunistic-rcts.md)
 
 ## Examples
 

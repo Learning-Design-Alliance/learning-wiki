@@ -49,3 +49,4 @@ The paper's key finding on regression discontinuity designs: robust methods guar
 - [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
 - [The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger](ses-rd-study-power-012-sd.md) — a narrower finding that bears on this claim
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](rd-individual-estimates-substantial-bias-variation.md) — related
+- [The large sample requirement of RD designs is driven primarily by bandwidth selection, not by adjusting for random misspecification error](rd-sample-need-driven-by-bandwidth-selection.md) — reports the opposite

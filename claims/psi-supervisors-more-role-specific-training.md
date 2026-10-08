@@ -46,3 +46,4 @@ Survey comparison of PSI and non-PSI urban district principal supervisors from t
 - [Principal supervisors in PSI and other urban districts reported similar perceptions of central office support and structures](psi-and-other-districts-similar-central-office-support-perceptions.md) — related
 - [PSI districts were more likely than other urban districts to offer programs for new and aspiring supervisors](psi-districts-offer-new-aspiring-supervisor-programs.md) — related
 - [Principal supervisors in PSI districts supervised fewer principals than those in other urban districts](psi-supervisors-supervised-fewer-principals.md) — related
+- [The article documents the typical induction support provided to first-year elementary school teachers in urban districts around the country.](portrait-first-year-urban-teacher-induction-support.md) — related

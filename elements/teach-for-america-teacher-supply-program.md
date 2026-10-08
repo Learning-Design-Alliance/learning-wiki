@@ -52,6 +52,7 @@ Teach For America is a program that supplies teachers for hard-to-staff subjects
 - [Teach For America alternative certification program](teach-for-america-program.md)
 - [Mathematica random assignment study of alternative routes to teacher certification](mathematica-alt-cert-random-assignment-study.md)
 - [Teach For America alternate-route teacher preparation program](teach-for-america-program-element.md)
+- [Alternative teacher certification routes compared in the IES studies: highly selective (Teach For America, Teaching Fellows) and less selective routes](alt-route-teacher-certification-selectivity-tiers.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ Analysis of the timing of student replacement across middle-school grades in 19 
 ## Related Claims
 - [Unlike district schools, KIPP middle schools tend to replace exiting students with higher-achieving students](kipp-replaces-exiting-students-with-higher-achievers.md) — related
 - [Attrition patterns at KIPP middle schools are typically no different than at nearby schools](kipp-attrition-no-different-than-nearby-schools.md) — related
+- [KIPP middle schools' student attrition and replacement rates can be compared with those of nearby district-run schools using longitudinal student-level data.](kipp-middle-school-attrition-replacement-compared-district-schools.md) — related

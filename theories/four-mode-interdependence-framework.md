@@ -39,7 +39,8 @@ The paper develops a conceptual framework defining interdependence as encompassi
 - [Interdependence Modes Weakly Negatively Correlated](../claims/interdependence-modes-weakly-negatively-correlated.md) [+M]
 
 ## Related Theories
-- 
+
+- [Measurement team roles and responsibilities framework for education studies](measurement-team-responsibilities-framework.md)
 
 ## Examples
 -

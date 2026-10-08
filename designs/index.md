@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**203 entries** · 0 stable · 0 in review · 203 drafts
+**204 entries** · 0 stable · 0 in review · 204 drafts
 
 ---
 
@@ -106,6 +106,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four-component intervention model combining child skills, school support, parent skills, and family support](early-risers-four-component-model.md) - Early Risers organizes its intervention as four coordinated components.
 * [Four-element in-class scaffolding session preparing students to author high-quality questions](four-element-question-authoring-scaffolding-session.md) - Before the first assessed authoring task, the courses ran a 90-minute session of four elements: a content-neutral quiz teaching MCQ language, a self-diagnosis quiz guiding students toward learning orientation, a quest...
 * [Four-piece toolkit architecture linking planning, implementation, and evaluation](four-piece-toolkit-planning-evaluation-architecture.md) - The Toolkit is architected as four complementary pieces that map onto stages of instructional practice: an entry-point Technology Affordances Matrix, diagnostic Conceptual Frameworks, concrete Checklists, and an Evalu...
+* [Four-section structure for documenting agency data-use partnerships](four-section-agency-data-use-profile-structure.md) - Each profile follows a recurring four-part structure: background and context for data use; working with SDP/EP fellows; data analysis and reporting; and challenges encountered and lessons learned.
 * [Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation](full-immersion-lecture-lab-day-structure.md) - The summer school organizes each day so that lectures prepare hands-on work: \"In the morning, we usually propose lectures in which, by stimulating the active involvement, we give the necessary background for the follo...
 
 #### G {: #letter-g }

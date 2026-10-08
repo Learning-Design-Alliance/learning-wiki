@@ -50,6 +50,8 @@ An implementation study, titled on the page under the associated project "Strate
 - [Strategic Data Use in Education initiative evaluation (2011-2015)](strategic-data-use-in-education-initiative-evaluation.md)
 - [Strategic Data Project and Education Pioneers programs supporting data capacity in education agencies](sdp-ep-data-capacity-programs.md)
 - [Evaluating the Effectiveness of Charter Management Organizations (CMOs) project, 2008-2012](cmo-effectiveness-evaluation-project.md)
+- [SDP/EP agency profiles documenting data use in twelve education agencies](sdp-ep-agency-data-use-profiles.md)
+- [SDP and EP fellowship programs as the intervention context for agency data-use change](sdp-ep-fellowship-programs-context.md)
 
 ## Examples
 -

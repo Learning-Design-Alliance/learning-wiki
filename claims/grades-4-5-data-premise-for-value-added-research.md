@@ -45,3 +45,5 @@ The article's framing statement of the research premise, offered without cited e
 ## Related Claims
 - [Instruction in upper elementary grades is often departmentalized: about one in six elementary school teachers in the original administrative data was linked to a subject he or she did not teach](one-in-six-elementary-teachers-linked-to-untaught-subject.md) — related
 - [Teacher-confirmed roster data show levels of co-teaching far beyond what appears in administrative data](confirmed-roster-data-reveal-more-co-teaching-than-administrative-data.md) — related
+- [About one in six grade 4 and 5 math and reading/ELA teachers is linked in unconfirmed administrative data to a subject they do not teach](one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data.md) — related
+- [Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data](value-added-error-rates-teacher-and-school-upper-elementary.md) — related

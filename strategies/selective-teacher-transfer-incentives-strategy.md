@@ -39,7 +39,8 @@ A district staffing strategy in which high-performing teachers are offered a lar
 - Equitable access to high-performing teachers
 
 ## Related Strategies
-- 
+
+- [Use transfer incentives to place high-performing teachers in hard-to-staff schools serving disadvantaged students](transfer-incentives-for-hard-to-staff-schools.md)
 
 ## Examples
 -

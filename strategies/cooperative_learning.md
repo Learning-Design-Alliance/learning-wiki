@@ -66,6 +66,7 @@ Cooperative learning is among the most consistently supported instructional stra
 - [Peer Instruction](peer-instruction.md) — a lightweight cooperative format for large classes
 - [Jigsaw](jigsaw.md) — a cooperative structure built on information interdependence
 - [Assign adult learners to heterogeneous cooperative learning groups mixing ability, ethnicity, gender, perspective, and language](heterogeneous-grouping-adult-cooperative-learning.md)
+- [Have measurement team members collaborate to complete measurement tasks successfully](measurement-team-collaboration-strategy.md)
 
 ## Examples
 - **Jigsaw classroom** (Aronson) — students master one segment in "expert groups," then teach it in heterogeneous home groups; originally developed to reduce intergroup tension in desegregated schools.

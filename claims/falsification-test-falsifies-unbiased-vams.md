@@ -46,3 +46,7 @@ Simulation and theoretical results reported by the authors demonstrating the tes
 - [Tracking based on lagged student achievement is usually accounted for in value-added models, which is why the falsification test can mislead](lagged-achievement-tracking-accounted-for-in-vams.md) — a narrower finding that bears on this claim
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — a narrower finding that bears on this claim
 - [The Rothstein falsification test generates large and implausible future teacher effects even when students are randomly assigned to classrooms](rothstein-falsification-test-implausible-effects-random-assignment.md) — a narrower finding that bears on this claim
+- [Rothstein (2010) found that standard VAMs imply implausible future-teacher effects on past student achievement](rothstein-implausible-future-teacher-effects.md) — related
+- [The Rothstein falsification test is not definitive in showing bias in VAM teacher effect estimates](rothstein-test-not-definitive-evidence-of-bias.md) — a broader claim this one bears on
+- [The Rothstein test can reject VAMs even when students are randomly assigned conditional on the covariates in the model](rothstein-test-rejects-vams-random-assignment.md) — related
+- [The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased](rothstein-test-rejects-vams-without-bias.md) — possibly the same claim (merge candidate)

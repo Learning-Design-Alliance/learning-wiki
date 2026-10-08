@@ -57,6 +57,7 @@ Teach For America is a nation-wide alternate route teacher preparation program d
 - [Teach For America alternative certification program](teach-for-america-program.md)
 - [Mathematica random assignment study of alternative routes to teacher certification](mathematica-alt-cert-random-assignment-study.md)
 - [Teacher apprenticeship programs as an approach to mitigating teacher shortages](teacher-apprenticeship-programs-shortage-approach.md)
+- [Alternative teacher certification routes compared in the IES studies: highly selective (Teach For America, Teaching Fellows) and less selective routes](alt-route-teacher-certification-selectivity-tiers.md)
 
 ## Examples
 -

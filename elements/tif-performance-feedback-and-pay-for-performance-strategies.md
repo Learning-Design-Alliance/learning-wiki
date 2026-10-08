@@ -53,6 +53,10 @@ This element comprises the two educator-effectiveness strategies examined in the
 - [Teacher Incentive Fund (TIF) performance-based compensation grants for high-need schools](teacher-incentive-fund-performance-compensation-grants.md)
 - [Teacher Incentive Fund (TIF) federal grant program supporting performance-based compensation systems](teacher-incentive-fund-grant-program.md)
 - [Teacher Incentive Fund (TIF) performance-based compensation program](teacher-incentive-fund-program.md)
+- [Mathematica multi-site random assignment evaluation of TIF pay-for-performance bonuses](mathematica-tif-random-assignment-evaluation.md)
+- [Teacher Incentive Fund (TIF) grants supporting performance-based compensation systems](teacher-incentive-fund-grants-element.md)
+- [Teacher Incentive Fund (TIF) performance-based compensation program for teachers and principals in high-need schools](teacher-incentive-fund-program-element.md)
+- [Teacher Incentive Fund (TIF) performance-based compensation program](teacher-incentive-fund-tif-program.md)
 
 ## Examples
 

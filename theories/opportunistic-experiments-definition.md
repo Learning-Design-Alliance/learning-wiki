@@ -45,7 +45,8 @@ The guide names and defines opportunistic experiments as "type of randomized con
 - [Partially Nested RCTs: a design taxonomy distinguishing I-RCTs, C-RCTs, and PN-RCTs](pn-rct-design-taxonomy.md)
 
 ## Examples
--
+
+- [Embed opportunistic RCTs into planned policies or programs](../strategies/embed-opportunistic-rcts-into-planned-programs.md)
 
 ## Key Sources
 - Alexandra Resch, Jillian Berk, Lauren Akers. (2014). Recognizing and Conducting Opportunistic Experiments in Education: A Guide for Policymakers and Researchers. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/edprojects

@@ -50,6 +50,7 @@ KIPP middle schools are a charter school intervention whose nationwide effects w
 - [KIPP: a network of charter middle schools for disadvantaged students evaluated over multiple years](kipp-charter-school-network.md)
 - [KIPP public charter school network](kipp-public-charter-school-network.md)
 - [KIPP public charter school network multi-grade-level impact evaluation](kipp-network-multigrade-evaluation.md)
+- [KIPP charter school network and its Five Pillars model](kipp-network-five-pillars-model.md)
 
 ## Examples
 -

@@ -61,3 +61,5 @@ Tuttle et al. (2015) randomized controlled trial: 891 lottery applicants (459 of
 - [KIPP outcomes were measured with state tests, a nationally normed assessment including higher-order thinking measures, and student- and parent-reported behaviors](kipp-outcome-measures-normed-assessment-behaviors.md) — related
 - [The Fisher Fellowship selection instrument is reliable, though three of 34 items had relatively low levels of one type of reliability](fisher-fellowship-selection-instrument-reliable.md) — related
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related
+- [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related
+- [Prior research on KIPP suggested positive achievement impacts but was limited by small samples or methodological weaknesses](prior-kipp-research-limited-scope-and-methods.md) — a broader claim this one bears on

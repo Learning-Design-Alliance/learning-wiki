@@ -52,3 +52,5 @@ Observational analysis of teacher value-added estimates under multiple model spe
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
 - [Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails](specification-differences-small-tail-changes.md) — reports the opposite
+- [Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — related
+- [Value-added teacher rankings are insensitive to correcting measurement error in the pretest, with correlations of 0.91–0.99 for elementary and 0.77–0.98 for middle school teachers](value-added-rankings-robust-to-eiv-correction.md) — related

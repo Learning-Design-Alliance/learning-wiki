@@ -44,3 +44,4 @@ The lottery-based study estimated impacts two ways: the effect of the offer of a
 
 ## Related Claims
 - [On average, charter middle schools' impacts on student achievement were negative but not statistically significant](charter-middle-schools-average-achievement-impacts-negative-nonsignificant.md) — possibly the same claim (merge candidate)
+- [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related

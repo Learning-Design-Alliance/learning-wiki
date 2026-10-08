@@ -155,11 +155,13 @@ Understanding with speech on, understanding without it, reading the words unaide
 - [Audiobooks](../elements/audiobooks.md) — human-narrated whole texts; most of the default design above applies to them.
 
 ## Examples
+
 - **Read-aloud support for assigned text**: Learners listen while following along in the print version.
 - **Audio review of instructor feedback**: Written comments are revisited through TTS so learners can process them more carefully.
 - **Chunked listening routine**: Learners pause after each paragraph or section to summarize and annotate.
 - **Pronunciation-supported vocabulary review**: Learners use TTS to hear unfamiliar academic language while reading it.
 - **Strategy pages describing the tool in use**: [Text-to-Speech (TTS)](../strategies/text-to-speech-tts.md), [Text To Speech Technology](../strategies/text-to-speech-technology.md), [Text To Speech Tools](../strategies/text-to-speech-tools.md), [Text-to-Speech Software](../strategies/text-to-speech_software.md).
+- [Apply Section 508 accessibility tips and tools when preparing presentations, Excel files, websites, and multimedia products](../strategies/508-compliance-accessibility-tips-for-education-materials.md)
 
 ## Key Sources
 - Hillaire, G., Iniesto, F., & Rienties, B. (2019). Humanising text-to-speech through emotional expression in online courses. *Journal of Interactive Media in Education, 2019*(1), 12. [https://doi.org/10.5334/jime.519](https://doi.org/10.5334/jime.519)

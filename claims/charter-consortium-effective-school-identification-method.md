@@ -46,3 +46,4 @@ Descriptive report abstract stating the scope of the identification method: a co
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related
 - [Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year](pittsburgh-vam-report-2016-documents-district-use.md) — related
 - [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](dc-value-added-report-design-features.md) — related
+- [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related

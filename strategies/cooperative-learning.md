@@ -65,6 +65,7 @@ Cooperative learning reliably improves achievement when both interdependence and
 - Reciprocal Teaching — structured turn-taking dialogue applied to reading comprehension
 - Problem-Based Learning — cooperative groups applied to ill-structured problems over extended time
 - [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
+- [Have measurement team members collaborate to complete measurement tasks successfully](measurement-team-collaboration-strategy.md)
 
 ## Examples
 - **Jigsaw Classroom** (Aronson, 1978) — students in desegregated Texas classrooms each mastered one segment of material and taught it to teammates, reducing intergroup hostility while raising achievement for minority students. See https://www.jigsaw.org

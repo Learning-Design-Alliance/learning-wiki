@@ -46,3 +46,6 @@ The brief reports district-level variation in the teaching-effectiveness dispari
 - [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-less-effective-teaching.md) — a broader claim this one bears on
 - [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](disadvantaged-students-poorer-access-effective-teachers.md) — related
 - [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](teaching-disparity-weeks-of-learning.md) — related
+- [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](access-effective-teaching-varies-across-districts.md) — possibly the same claim (merge candidate)
+- [Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — related
+- [The teaching-effectiveness disparity represents a small share of the overall achievement gap for disadvantaged students](teaching-effectiveness-disparity-small-share-of-achievement-gap.md) — related

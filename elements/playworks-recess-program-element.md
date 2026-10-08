@@ -45,7 +45,8 @@ Playworks is a school-based program that guides students in organized activities
 - [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](../claims/playworks-rct-more-vigorous-recess-activity.md) [+M]
 
 ## Related Elements
-- 
+
+- [Playworks program (full-time recess coaches in low-income schools)](playworks-program-element.md)
 
 ## Examples
 

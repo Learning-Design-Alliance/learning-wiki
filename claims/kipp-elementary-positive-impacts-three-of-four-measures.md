@@ -54,3 +54,5 @@ The brief's Key Findings report that the rigorous multi-grade evaluation found K
 - [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — related
 - [KIPP middle schools show significant and substantial positive impacts on achievement in reading, math, science, and social studies](kipp-middle-schools-positive-impacts-four-subjects.md) — related
 - [KIPP outcomes were measured with state tests, a nationally normed assessment including higher-order thinking measures, and student- and parent-reported behaviors](kipp-outcome-measures-normed-assessment-behaviors.md) — related
+- [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related
+- [The KIPP evaluation examines student outcomes beyond state test scores, including a nationally norm-referenced test and survey-based measures of attitudes and behavior](kipp-evaluation-outcomes-beyond-state-tests.md) — related

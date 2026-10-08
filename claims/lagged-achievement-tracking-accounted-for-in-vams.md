@@ -46,3 +46,5 @@ The authors' theoretical explanation for why the test's tracking signal is consi
 - [Theoretically and in simulations, the Rothstein test often falsifies unbiased VAMs and fails to falsify biased VAMs](falsification-test-falsifies-unbiased-vams.md) — a broader claim this one bears on
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — a broader claim this one bears on
 - [The Rothstein falsification test generates large and implausible future teacher effects even when students are randomly assigned to classrooms](rothstein-falsification-test-implausible-effects-random-assignment.md) — related
+- [The Rothstein falsification test is not definitive in showing bias in VAM teacher effect estimates](rothstein-test-not-definitive-evidence-of-bias.md) — a broader claim this one bears on
+- [The Rothstein test can reject VAMs even when students are randomly assigned conditional on the covariates in the model](rothstein-test-rejects-vams-random-assignment.md) — related

@@ -47,7 +47,8 @@ The evidence base for this article is a lottery-based study of "a broad set of 3
 - 
 
 ## Examples
--
+
+- [Use school lotteries as a research design for estimating impacts of schools of choice on student outcomes](../strategies/lotteries-to-estimate-school-impacts.md)
 
 ## Key Sources
 - Melissa A. Clark, Philip M. Gleason, Christina Clark Tuttle, Marsha K. Silverberg. (2015). Do Charter Schools Improve Student Achievement? Educational Evaluation and Policy Analysis, vol. 37, no. 4. https://www.mathematica.org/publications/do-charter-schools-improve-student-achievement

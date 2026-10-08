@@ -52,3 +52,5 @@ The random assignment study reports that the alternative-certification teachers 
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related
 - [The findings contradict claims that alternative teacher preparation programs such as Teach For America harm students](tfa-findings-contradict-harm-claims.md) — a broader claim this one bears on
 - [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — related
+- [Secondary math students taught by Teaching Fellows teachers had test scores similar to peers taught by traditional-route teachers](teaching-fellows-secondary-math-similar-traditional.md) — related
+- [Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence](within-school-random-assignment-feasible-but-challenging.md) — related

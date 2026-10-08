@@ -49,3 +49,4 @@ Subject-specific concurrent validity analysis comparing FFL correlations with ma
 - [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — related
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](ffl-scores-not-associated-achievement-growth.md) — related
 - [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](first-study-principal-practice-ratings-value-added-validity.md) — related
+- [Students in New Leaders-led Oakland schools show greater math achievement growth than other OUSD students (effect size 0.16)](new-leaders-oakland-math-growth-es-016.md) — related

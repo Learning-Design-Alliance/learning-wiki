@@ -51,6 +51,7 @@ KIPP is "a nonprofit network of more than 200 public charter schools" serving pr
 - [KIPP: a network of charter middle schools for disadvantaged students evaluated over multiple years](kipp-charter-school-network.md)
 - [KIPP (Knowledge Is Power Program) charter middle school network](kipp-charter-middle-school-network.md)
 - [TurnNJ whole-school turnaround project](turnnj-whole-school-turnaround-project.md)
+- [KIPP charter school network and its Five Pillars model](kipp-network-five-pillars-model.md)
 
 ## Examples
 -

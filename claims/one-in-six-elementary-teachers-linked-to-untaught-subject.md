@@ -45,3 +45,4 @@ Comparative analysis of teacher-student links in which mathematics and/or Englis
 ## Related Claims
 - [Researchers presume grades 4-5 administrative data are better for value-added teacher effectiveness research because of self-contained classrooms and classroom homogeneity](grades-4-5-data-premise-for-value-added-research.md) — related
 - [The effects of departmentalized instruction on student achievement and teacher retention remain unclear](departmentalization-effects-achievement-retention-unclear.md) — related
+- [About one in six grade 4 and 5 math and reading/ELA teachers is linked in unconfirmed administrative data to a subject they do not teach](one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data.md) — possibly the same claim (merge candidate)

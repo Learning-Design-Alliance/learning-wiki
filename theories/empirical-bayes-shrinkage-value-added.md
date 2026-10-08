@@ -42,7 +42,8 @@ The article describes empirical Bayes shrinkage as a procedure "common in the im
 - [Shrinkage had no statistically significant effect on the relative probability that teachers of hard-to-predict students received consequences](../claims/shrinkage-no-significant-effect-consequences-hard-to-predict.md) [~W]
 
 ## Related Theories
-- 
+
+- [Formula-based estimation of value-added classification error rates using ordinary least squares and empirical Bayes estimators](ols-empirical-bayes-error-rate-estimation-framework.md)
 
 ## Examples
 

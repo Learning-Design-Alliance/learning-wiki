@@ -46,3 +46,4 @@ The brief states this is "the third year" that the TLE system "has provided valu
 - [Oklahoma educators received value-added results in spring 2016 based on instruction provided in the 2014–2015 school year](oklahoma-tle-value-added-results-spring-2016.md) — related
 - [The value-added models used for Oklahoma's spring 2016 results were updated relative to prior years](value-added-model-updates-spring-2016.md) — related
 - [Oklahoma's 2013-2014 teacher value-added estimates combined test scores with other information about teachers and students](oklahoma-value-added-uses-test-scores-and-other-information.md) — related
+- [Oklahoma's Pilot Teacher and Leader Evaluation System used a value-added model to estimate teacher and school effectiveness for 2012-2013 instruction](oklahoma-pilot-evaluation-value-added-model-2012-13.md) — related

@@ -48,3 +48,4 @@ A definitional/interpretive statement in the report's introduction explaining th
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
 - [Including late pretest data in RCT analysis could bias post-test impact estimates when pretests are collected after random assignment](late-pretest-inclusion-can-bias-impact-estimates.md) — related
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
+- [Opportunistic RCTs can generate strong evidence for education decisions with minimal added cost and disruption](opportunistic-rcts-strong-evidence-low-cost.md) — related

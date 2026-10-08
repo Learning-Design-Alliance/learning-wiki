@@ -45,6 +45,7 @@ Value-added modeling is a statistical framework for estimating the contribution 
 ## Related Theories
 
 - [Value-added models as a method for separating teachers' contributions to student achievement from other factors](value-added-models-separate-teacher-contributions.md)
+- [Value-added identification of highest-performing teachers as the top 20 percent within district teacher pools](value-added-top-quintile-teacher-identification.md)
 
 ## Examples
 
@@ -53,6 +54,8 @@ Value-added modeling is a statistical framework for estimating the contribution 
 - [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](../elements/dc-value-added-assessment-system.md)
 - [Value-added model for measuring school and teacher performance in DC Public Schools (IMPACT and TEAM)](../elements/dc-impact-team-value-added-model.md)
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](../elements/pittsburgh-value-added-models-2012-13.md)
+- [Charleston County School District BRIDGE multi-dimensional educator evaluation framework](../elements/bridge-multidimensional-educator-evaluation-framework-charleston.md)
+- [Value-added models for measuring school and teacher effectiveness in DC Public Schools (IMPACT and TEAM), 2010-2011](../elements/dcps-impact-team-value-added-models-2010-2011.md)
 
 ## Key Sources
 - Alexandra Resch, Jonah Deutsch. (2015). Measuring School and Teacher Value Added in Charleston County School District, 2014-2015 School Year. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/measuring-school-and-teacher-value-added-in-charleston-county-school-district-20142015-school-year
