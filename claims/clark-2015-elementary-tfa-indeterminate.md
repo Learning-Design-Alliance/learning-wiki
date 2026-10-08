@@ -52,3 +52,4 @@ This RCT across 36 elementary schools randomly assigned students within grade to
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — a broader claim this one bears on
 - [Teaching by first- or second-year TFA corps members shows no significant effect on elementary-grade students' reading compared with non-TFA novice teachers](tfa-corps-no-significant-reading-effect-elementary.md) — a narrower finding that bears on this claim
 - [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](tfa-small-positive-early-elementary-reading-not-math.md) — reports the opposite
+- [The findings contradict claims that alternative teacher preparation programs such as Teach For America harm students](tfa-findings-contradict-harm-claims.md) — a broader claim this one bears on

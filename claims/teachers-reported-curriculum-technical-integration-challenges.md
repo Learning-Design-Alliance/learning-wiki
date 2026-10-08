@@ -48,3 +48,7 @@ Implementation finding from the two-study synthesis: teachers "reported curricul
 - [Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing](teachers-found-ecree-mi-write-useful-writing-instruction.md) — related
 - [Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching](regular-tailored-support-helped-teachers-integrate-tools.md) — related
 - [Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction](teachers-used-ecree-less-than-intended-lacking-time.md) — related
+- [A key barrier to using MI Write is a lack of both curriculum integration and alignment](curriculum-integration-alignment-barrier-mi-write.md) — a narrower finding that bears on this claim
+- [Teachers find Ecree's feedback less useful when it does not align with their typical content sequence and grading standards](ecree-feedback-less-useful-when-misaligned.md) — related
+- [Technical integration with learning management systems and existing teacher tools eases Ecree adoption](lms-integration-eases-ecree-adoption.md) — reports the opposite
+- [Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write](teacher-planning-time-needed-for-mi-write-use.md) — related

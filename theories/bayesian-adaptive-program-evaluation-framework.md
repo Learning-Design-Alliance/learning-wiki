@@ -45,6 +45,7 @@ The article presents a Bayesian approach to randomized program evaluations in wh
 ## Related Theories
 
 - [Bayesian adaptive approach to randomized policy evaluations for estimating heterogeneous treatment effects](bayesian-adaptive-policy-evaluation-heterogeneous-effects.md)
+- [Bayesian hypothesis testing as an approach to the multiple testing problem](bayesian-hypothesis-testing-multiple-testing.md)
 
 ## Examples
 

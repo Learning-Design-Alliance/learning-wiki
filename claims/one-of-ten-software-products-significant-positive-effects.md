@@ -45,3 +45,4 @@ Final report of a congressionally mandated study presenting effects for the 2005
 ## Related Claims
 - [Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness](software-effects-changed-between-cohorts.md) — related
 - [The WWC rated DaisyQuest as having positive effects on phonological processing, its highest applicable rating](wwc-positive-effects-rating-daisyquest.md) — related
+- [After one year, reading and mathematics software products did not increase or decrease test scores by amounts statistically different from zero](edtech-software-null-average-test-score-effects-year-one.md) — a broader claim this one bears on

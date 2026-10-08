@@ -53,3 +53,6 @@ This RCT randomly assigned students in 45 secondary schools to a math class taug
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related
 - [Teaching by first- or second-year TFA corps members shows no significant effect on elementary-grade students' reading compared with non-TFA novice teachers](tfa-corps-no-significant-reading-effect-elementary.md) — related
 - [Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading](tfa-experimental-studies-positive-math-no-reading-effect.md) — a broader claim this one bears on
+- [The findings contradict claims that alternative teacher preparation programs such as Teach For America harm students](tfa-findings-contradict-harm-claims.md) — a broader claim this one bears on
+- [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — related
+- [Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction](tfa-positive-math-achievement-impact.md) — possibly the same claim (merge candidate)

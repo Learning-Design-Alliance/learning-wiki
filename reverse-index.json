@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 5178,
+  "claims->claims": 5302,
   "claims->designs": 13,
   "claims->elements": 108,
   "claims->learner-variables": 1,
@@ -9,21 +9,21 @@
   "claims->principles": 118,
   "claims->processes": 3,
   "claims->theories": 205,
-  "designs->claims": 136,
+  "designs->claims": 137,
   "designs->designs": 28,
   "designs->elements": 42,
   "designs->patterns": 22,
   "designs->principles": 10,
   "designs->theories": 21,
-  "elements->claims": 955,
+  "elements->claims": 982,
   "elements->designs": 2,
-  "elements->elements": 848,
+  "elements->elements": 880,
   "elements->learner-variables": 1,
   "elements->methods": 1,
   "elements->patterns": 248,
   "elements->principles": 315,
   "elements->processes": 1,
-  "elements->theories": 223,
+  "elements->theories": 226,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -68,15 +68,15 @@
   "strategies->patterns": 815,
   "strategies->principles": 1735,
   "strategies->processes": 9,
-  "strategies->theories": 684,
-  "theories->claims": 877,
+  "strategies->theories": 688,
+  "theories->claims": 883,
   "theories->designs": 61,
-  "theories->elements": 201,
+  "theories->elements": 206,
   "theories->methods": 14,
   "theories->patterns": 66,
   "theories->principles": 217,
   "theories->processes": 7,
-  "theories->theories": 736
+  "theories->theories": 744
  },
  "edges": {
   "claims": {
@@ -96,6 +96,207 @@
      {
       "polarity": "~",
       "slug": "vocabulary-levels-test-schmitt-2001",
+      "strength": "W"
+     }
+    ]
+   },
+   "21st-cclc-changed-after-school-time-location-and-companions": {
+    "claims": [
+     {
+      "slug": "21st-cclc-no-effect-academic-outcomes-elementary"
+     },
+     {
+      "slug": "21st-cclc-no-significant-effect-self-care"
+     },
+     {
+      "slug": "21st-cclc-shifted-after-school-supervision-away-from-parents"
+     },
+     {
+      "slug": "21st-cclc-students-felt-safer-after-school"
+     },
+     {
+      "slug": "cclc-elementary-participants-felt-safer"
+     },
+     {
+      "slug": "cclc-elementary-participants-more-negative-behaviors"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "21st-cclc-elementary-afterschool-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "21st-century-community-learning-centers-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "21st-cclc-limited-academic-influence": {
+    "claims": [
+     {
+      "slug": "21st-cclc-no-effect-academic-outcomes-elementary"
+     },
+     {
+      "slug": "cclc-few-impacts-student-achievement"
+     },
+     {
+      "slug": "cclc-no-difference-homework-assistance-completion"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "21st-cclc-elementary-afterschool-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "21st-century-community-learning-centers-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "21st-cclc-more-negative-behavior-incidents": {
+    "claims": [
+     {
+      "slug": "21st-cclc-students-felt-safer-after-school"
+     },
+     {
+      "slug": "cclc-elementary-participants-felt-safer"
+     },
+     {
+      "slug": "cclc-elementary-participants-more-negative-behaviors"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "21st-cclc-elementary-afterschool-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "21st-cclc-no-effect-academic-outcomes-elementary": {
+    "claims": [
+     {
+      "slug": "21st-cclc-changed-after-school-time-location-and-companions"
+     },
+     {
+      "slug": "21st-cclc-limited-academic-influence"
+     },
+     {
+      "slug": "cclc-elementary-participants-felt-safer"
+     },
+     {
+      "slug": "cclc-elementary-participants-more-negative-behaviors"
+     },
+     {
+      "slug": "cclc-few-impacts-student-achievement"
+     },
+     {
+      "slug": "cclc-no-difference-homework-assistance-completion"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "21st-cclc-elementary-afterschool-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "21st-century-community-learning-centers-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "21st-cclc-no-significant-effect-self-care": {
+    "claims": [
+     {
+      "slug": "21st-cclc-changed-after-school-time-location-and-companions"
+     },
+     {
+      "slug": "21st-cclc-shifted-after-school-supervision-away-from-parents"
+     },
+     {
+      "slug": "21st-cclc-students-felt-safer-after-school"
+     },
+     {
+      "slug": "cclc-elementary-participants-felt-safer"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "21st-cclc-elementary-afterschool-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "21st-cclc-shifted-after-school-supervision-away-from-parents": {
+    "claims": [
+     {
+      "slug": "21st-cclc-changed-after-school-time-location-and-companions"
+     },
+     {
+      "slug": "21st-cclc-no-significant-effect-self-care"
+     },
+     {
+      "slug": "21st-cclc-students-felt-safer-after-school"
+     },
+     {
+      "slug": "cclc-elementary-participants-felt-safer"
+     },
+     {
+      "slug": "cclc-elementary-participants-more-negative-behaviors"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "21st-cclc-elementary-afterschool-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "21st-century-community-learning-centers-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "21st-cclc-students-felt-safer-after-school": {
+    "claims": [
+     {
+      "slug": "21st-cclc-changed-after-school-time-location-and-companions"
+     },
+     {
+      "slug": "21st-cclc-more-negative-behavior-incidents"
+     },
+     {
+      "slug": "21st-cclc-no-significant-effect-self-care"
+     },
+     {
+      "slug": "21st-cclc-shifted-after-school-supervision-away-from-parents"
+     },
+     {
+      "slug": "cclc-elementary-participants-felt-safer"
+     },
+     {
+      "slug": "cclc-elementary-participants-more-negative-behaviors"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "21st-cclc-elementary-afterschool-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "21st-century-community-learning-centers-program",
       "strength": "W"
      }
     ]
@@ -191,6 +392,87 @@
       "polarity": "+",
       "slug": "nlts-2012-national-longitudinal-transition-study",
       "strength": "W"
+     }
+    ]
+   },
+   "8th-grade-on-track-nsi-no-impacts-year-two": {
+    "claims": [
+     {
+      "slug": "9th-grade-on-track-nsi-impact-increased-over-time"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-positive-impacts-year-two"
+     },
+     {
+      "slug": "eighth-grade-on-track-nsi-no-year-two-impact"
+     },
+     {
+      "slug": "ninth-grade-on-track-nsi-positive-gpa-pass-credits"
+     },
+     {
+      "slug": "rct-ninth-grade-nsi-attendance-gain"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "nsi-initiative-gates-foundation",
+      "strength": "M"
+     }
+    ]
+   },
+   "9th-grade-on-track-nsi-impact-increased-over-time": {
+    "claims": [
+     {
+      "slug": "8th-grade-on-track-nsi-no-impacts-year-two"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-positive-impacts-year-two"
+     },
+     {
+      "slug": "eighth-grade-on-track-nsi-no-year-two-impact"
+     },
+     {
+      "slug": "ninth-grade-on-track-nsi-positive-gpa-pass-credits"
+     },
+     {
+      "slug": "postsecondary-nsi-college-impact-not-persistent"
+     },
+     {
+      "slug": "rct-ninth-grade-nsi-attendance-gain"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "nsi-initiative-gates-foundation",
+      "strength": "M"
+     }
+    ]
+   },
+   "9th-grade-on-track-nsi-positive-impacts-year-two": {
+    "claims": [
+     {
+      "slug": "8th-grade-on-track-nsi-no-impacts-year-two"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-impact-increased-over-time"
+     },
+     {
+      "slug": "eighth-grade-on-track-nsi-no-year-two-impact"
+     },
+     {
+      "slug": "ninth-grade-on-track-nsi-positive-gpa-pass-credits"
+     },
+     {
+      "slug": "rct-ninth-grade-nsi-attendance-gain"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "nsi-initiative-gates-foundation",
+      "strength": "M"
      }
     ]
    },
@@ -604,6 +886,12 @@
      },
      {
       "slug": "ecree-likely-improved-writing-quality-especially-less-advanced-starters"
+     },
+     {
+      "slug": "ecree-study-examined-use-and-impacts-2021-2022"
+     },
+     {
+      "slug": "mi-write-study-examined-use-and-impact"
      },
      {
       "slug": "some-students-overwhelmed-by-ecree-feedback"
@@ -1671,6 +1959,9 @@
      },
      {
       "slug": "deep-learning-scale-positive-self-reported-gains"
+     },
+     {
+      "slug": "heterogeneous-competency-benefits-individualized-education"
      },
      {
       "slug": "institutional-median-act-predicts-outcomes"
@@ -6872,6 +7163,9 @@
       "slug": "coursework-while-teaching-lower-math"
      },
      {
+      "slug": "little-research-teacher-training-strategy-effectiveness"
+     },
+     {
       "slug": "teacher-characteristics-differ-by-certification-route"
      },
      {
@@ -11012,6 +11306,26 @@
      }
     ]
    },
+   "automated-feedback-supplements-not-replaces-teacher-feedback": {
+    "claims": [
+     {
+      "slug": "mi-write-study-examined-use-and-impact"
+     },
+     {
+      "slug": "some-students-struggled-automated-feedback-use"
+     },
+     {
+      "slug": "teachers-found-ecree-useful-but-some-students-overwhelmed"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mi-write-automated-writing-feedback-tool",
+      "strength": "M"
+     }
+    ]
+   },
    "automatic-word-recognition-frees-resources-for-comprehension": {
     "claims": [
      {
@@ -14869,6 +15183,9 @@
      },
      {
       "slug": "balanced-leadership-retention-not-statistically-significant"
+     },
+     {
+      "slug": "departmentalization-effects-achievement-retention-unclear"
      }
     ],
     "elements": [
@@ -15596,6 +15913,11 @@
       "polarity": "+",
       "slug": "bayesian-factorial-design-hierarchical-priors",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "bayesian-hypothesis-testing-multiple-testing",
+      "strength": "W"
      }
     ]
    },
@@ -15970,6 +16292,70 @@
      },
      {
       "slug": "refutational-text-order-enhances-retention"
+     }
+    ]
+   },
+   "bell-elements-causal-attribution-limited": {
+    "claims": [
+     {
+      "slug": "bell-summer-program-random-assignment-effective"
+     },
+     {
+      "slug": "future-forward-prior-rct-evidence"
+     },
+     {
+      "slug": "ses-rd-study-power-012-sd"
+     }
+    ]
+   },
+   "bell-summer-program-improves-reading-scores": {
+    "claims": [
+     {
+      "slug": "bell-summer-program-increases-parent-reading-encouragement"
+     },
+     {
+      "slug": "bell-summer-program-random-assignment-effective"
+     },
+     {
+      "slug": "low-income-summer-test-score-drop"
+     },
+     {
+      "slug": "summer-reading-loss-widens-gaps"
+     }
+    ]
+   },
+   "bell-summer-program-increases-parent-reading-encouragement": {
+    "claims": [
+     {
+      "slug": "bell-summer-program-improves-reading-scores"
+     },
+     {
+      "slug": "bell-summer-program-random-assignment-effective"
+     },
+     {
+      "slug": "low-income-summer-test-score-drop"
+     },
+     {
+      "slug": "parent-involvement-improves-early-reading"
+     },
+     {
+      "slug": "ready4k-improves-teacher-reported-involvement"
+     }
+    ]
+   },
+   "bell-summer-program-random-assignment-effective": {
+    "claims": [
+     {
+      "slug": "bell-elements-causal-attribution-limited"
+     },
+     {
+      "slug": "bell-summer-program-improves-reading-scores"
+     },
+     {
+      "slug": "bell-summer-program-increases-parent-reading-encouragement"
+     },
+     {
+      "slug": "low-income-summer-test-score-drop"
      }
     ]
    },
@@ -18774,6 +19160,26 @@
      {
       "polarity": "+",
       "slug": "using_manipulatives",
+      "strength": "W"
+     }
+    ]
+   },
+   "bls-estimates-567000-fewer-public-school-teachers-2022": {
+    "claims": [
+     {
+      "slug": "minimal-rigorous-research-teacher-apprenticeships"
+     },
+     {
+      "slug": "pandemic-year-climate-positive-bump-pennsylvania"
+     },
+     {
+      "slug": "pre-covid-climate-scores-steady"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "teacher-apprenticeship-programs-shortage-approach",
       "strength": "W"
      }
     ]
@@ -22181,6 +22587,134 @@
      }
     ]
    },
+   "cclc-elementary-participants-felt-safer": {
+    "claims": [
+     {
+      "slug": "21st-cclc-changed-after-school-time-location-and-companions"
+     },
+     {
+      "slug": "21st-cclc-more-negative-behavior-incidents"
+     },
+     {
+      "slug": "21st-cclc-no-effect-academic-outcomes-elementary"
+     },
+     {
+      "slug": "21st-cclc-no-significant-effect-self-care"
+     },
+     {
+      "slug": "21st-cclc-shifted-after-school-supervision-away-from-parents"
+     },
+     {
+      "slug": "21st-cclc-students-felt-safer-after-school"
+     },
+     {
+      "slug": "cclc-elementary-participants-more-negative-behaviors"
+     },
+     {
+      "slug": "cclc-few-impacts-student-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "21st-cclc-elementary-afterschool-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "21st-century-community-learning-centers-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "cclc-elementary-participants-more-negative-behaviors": {
+    "claims": [
+     {
+      "slug": "21st-cclc-changed-after-school-time-location-and-companions"
+     },
+     {
+      "slug": "21st-cclc-more-negative-behavior-incidents"
+     },
+     {
+      "slug": "21st-cclc-no-effect-academic-outcomes-elementary"
+     },
+     {
+      "slug": "21st-cclc-shifted-after-school-supervision-away-from-parents"
+     },
+     {
+      "slug": "21st-cclc-students-felt-safer-after-school"
+     },
+     {
+      "slug": "cclc-elementary-participants-felt-safer"
+     },
+     {
+      "slug": "cclc-few-impacts-student-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "21st-cclc-elementary-afterschool-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "21st-century-community-learning-centers-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "cclc-few-impacts-student-achievement": {
+    "claims": [
+     {
+      "slug": "21st-cclc-limited-academic-influence"
+     },
+     {
+      "slug": "21st-cclc-no-effect-academic-outcomes-elementary"
+     },
+     {
+      "slug": "cclc-elementary-participants-felt-safer"
+     },
+     {
+      "slug": "cclc-elementary-participants-more-negative-behaviors"
+     },
+     {
+      "slug": "cclc-no-difference-homework-assistance-completion"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "21st-cclc-elementary-afterschool-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "21st-century-community-learning-centers-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "cclc-no-difference-homework-assistance-completion": {
+    "claims": [
+     {
+      "slug": "21st-cclc-limited-academic-influence"
+     },
+     {
+      "slug": "21st-cclc-no-effect-academic-outcomes-elementary"
+     },
+     {
+      "slug": "cclc-few-impacts-student-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "21st-century-community-learning-centers-program",
+      "strength": "W"
+     }
+    ]
+   },
    "cd-facilitates-recall-impairs-recognition": {
     "claims": [
      {
@@ -23082,6 +23616,9 @@
      },
      {
       "slug": "character-ed-studies-mostly-measure-student-outcomes"
+     },
+     {
+      "slug": "grouping-outcomes-impacts-processes-yields-diagnostically-useful-information"
      }
     ]
    },
@@ -28078,6 +28615,22 @@
      }
     ]
    },
+   "ci-groundwork-strong-theory-link-and-equity-depth-limited": {
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "nsi-initiative-gates-foundation",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "nsi-conceptual-framework-networked-ci",
+      "strength": "W"
+     }
+    ]
+   },
    "ciencias-ii-entry-shift-measurement-to-movement": {
     "claims": [
      {
@@ -29069,7 +29622,16 @@
       "slug": "tfa-experimental-studies-positive-math-no-reading-effect"
      },
      {
+      "slug": "tfa-findings-contradict-harm-claims"
+     },
+     {
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
+     },
+     {
+      "slug": "tfa-no-reading-achievement-impact"
+     },
+     {
+      "slug": "tfa-positive-math-achievement-impact"
      },
      {
       "slug": "tfa-positive-mathematics-achievement-effects"
@@ -29116,6 +29678,9 @@
      },
      {
       "slug": "tfa-corps-no-significant-reading-effect-elementary"
+     },
+     {
+      "slug": "tfa-findings-contradict-harm-claims"
      },
      {
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
@@ -36342,6 +36907,9 @@
       "slug": "met-ignores-speaking-skills"
      },
      {
+      "slug": "pandemic-disruptions-hindered-mi-write-implementation"
+     },
+     {
       "slug": "writing-class-inadequate-attention-tem-driven"
      }
     ],
@@ -36669,6 +37237,13 @@
       "polarity": "+",
       "slug": "value-added-tracking-bias-specification-comparison",
       "strength": "W"
+     }
+    ]
+   },
+   "commentary-evaluates-four-actionable-suggestions": {
+    "claims": [
+     {
+      "slug": "large-type-m-errors-significance-filter-education"
      }
     ]
    },
@@ -43180,6 +43755,12 @@
       "slug": "corrective-reading-alphabetics-mixed-outcomes"
      },
      {
+      "slug": "no-consistent-subgroup-benefit-reading-interventions"
+     },
+     {
+      "slug": "power4kids-four-reading-interventions-compared"
+     },
+     {
       "slug": "wilson-reading-system-subgroup-effects-initial-skill-ses"
      }
     ],
@@ -45167,10 +45748,16 @@
       "slug": "largest-experimental-study-of-math-curricula-110-schools"
      },
      {
+      "slug": "many-students-enter-school-poor-math-skills"
+     },
+     {
       "slug": "math-curricula-benefits-extend-to-low-performing-high-poverty-schools"
      },
      {
       "slug": "math-expressions-saxon-outperform-investigations-sfaw-first-grade"
+     },
+     {
+      "slug": "school-level-random-assignment-four-math-curricula"
      },
      {
       "slug": "three-math-curricula-outperform-fourth-after-two-years"
@@ -45181,6 +45768,24 @@
       "polarity": "+",
       "slug": "evaluation-of-mathematics-curricula-project",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mathematica-four-curricula-evaluation-study",
+      "strength": "M"
+     }
+    ]
+   },
+   "curriculum-integration-alignment-barrier-mi-write": {
+    "claims": [
+     {
+      "slug": "monthly-coaching-helped-teachers-integrate-mi-write"
+     },
+     {
+      "slug": "teacher-planning-time-needed-for-mi-write-use"
+     },
+     {
+      "slug": "teachers-reported-curriculum-technical-integration-challenges"
      }
     ]
    },
@@ -45997,6 +46602,9 @@
    },
    "data-infrastructure-performance-measurement-dimension": {
     "claims": [
+     {
+      "slug": "nontraditional-industry-expansion-accelerated"
+     },
      {
       "slug": "report-overviews-federal-support-and-state-variation"
      }
@@ -47623,6 +48231,49 @@
      }
     ]
    },
+   "delayed-entrants-behind-in-math-first-grade": {
+    "claims": [
+     {
+      "slug": "delayed-entrants-slightly-higher-reading-first-grade"
+     },
+     {
+      "slug": "five-percent-repeating-six-percent-delayed-kindergarten-1998"
+     },
+     {
+      "slug": "poor-families-lag-affluent-peers-early-math"
+     },
+     {
+      "slug": "repeaters-lower-reading-math-end-first-grade"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ecls-k-1998-99-longitudinal-dataset",
+      "strength": "W"
+     }
+    ]
+   },
+   "delayed-entrants-slightly-higher-reading-first-grade": {
+    "claims": [
+     {
+      "slug": "delayed-entrants-behind-in-math-first-grade"
+     },
+     {
+      "slug": "five-percent-repeating-six-percent-delayed-kindergarten-1998"
+     },
+     {
+      "slug": "repeaters-lower-reading-math-end-first-grade"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ecls-k-1998-99-longitudinal-dataset",
+      "strength": "W"
+     }
+    ]
+   },
    "deliberate-practice-correlational-limits": {
     "claims": [
      {
@@ -48083,6 +48734,63 @@
      },
      {
       "slug": "todays-excellence-tomorrows-ignorance"
+     }
+    ]
+   },
+   "departmentalization-effects-achievement-retention-unclear": {
+    "claims": [
+     {
+      "slug": "balanced-leadership-other-outcomes-not-established"
+     },
+     {
+      "slug": "departmentalization-implementation-steps-scheduling-challenges"
+     },
+     {
+      "slug": "departmentalized-teacher-experiences-partial-consistency"
+     },
+     {
+      "slug": "systems-thinking-most-promising-for-institutional-conflict"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "ies-90-school-departmentalization-study",
+      "strength": "W"
+     }
+    ]
+   },
+   "departmentalization-implementation-steps-scheduling-challenges": {
+    "claims": [
+     {
+      "slug": "departmentalization-effects-achievement-retention-unclear"
+     },
+     {
+      "slug": "departmentalized-teacher-experiences-partial-consistency"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "ies-90-school-departmentalization-study",
+      "strength": "W"
+     }
+    ]
+   },
+   "departmentalized-teacher-experiences-partial-consistency": {
+    "claims": [
+     {
+      "slug": "departmentalization-effects-achievement-retention-unclear"
+     },
+     {
+      "slug": "departmentalization-implementation-steps-scheduling-challenges"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "ies-90-school-departmentalization-study",
+      "strength": "W"
      }
     ]
    },
@@ -53295,6 +54003,13 @@
      }
     ]
    },
+   "early-math-gaps-grow-by-fourth-grade": {
+    "claims": [
+     {
+      "slug": "teacher-effectiveness-compounds-over-consecutive-years"
+     }
+    ]
+   },
    "early-math-literacy-development-intertwine": {
     "claims": [
      {
@@ -53318,6 +54033,48 @@
     "claims": [
      {
       "slug": "adaptive-learning-improves-outcomes"
+     }
+    ]
+   },
+   "early-reading-first-classroom-practice-impacts": {
+    "claims": [
+     {
+      "slug": "early-reading-first-positive-print-letter-knowledge-impacts"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "enhance-preschool-practices-content-environments",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-reading-first-grant-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "early-reading-first-positive-print-letter-knowledge-impacts": {
+    "claims": [
+     {
+      "slug": "early-reading-first-classroom-practice-impacts"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "enhance-preschool-practices-content-environments",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-reading-first-grant-program",
+      "strength": "W"
      }
     ]
    },
@@ -53937,6 +54694,15 @@
       "slug": "ecree-likely-improved-writing-quality-especially-less-advanced-starters"
      },
      {
+      "slug": "ecree-study-examined-use-and-impacts-2021-2022"
+     },
+     {
+      "slug": "lms-integration-eases-ecree-adoption"
+     },
+     {
+      "slug": "mi-write-study-examined-use-and-impact"
+     },
+     {
       "slug": "some-students-overwhelmed-by-ecree-feedback"
      },
      {
@@ -53957,6 +54723,18 @@
       "polarity": "+",
       "slug": "ecree-automated-writing-feedback-tool",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mi-write-automated-writing-feedback-tool",
+      "strength": "W"
+     }
+    ]
+   },
+   "ecree-feedback-less-useful-when-misaligned": {
+    "claims": [
+     {
+      "slug": "teachers-reported-curriculum-technical-integration-challenges"
      }
     ]
    },
@@ -53967,6 +54745,12 @@
      },
      {
       "slug": "ecree-likely-improved-writing-quality-especially-less-advanced-starters"
+     },
+     {
+      "slug": "ecree-study-examined-use-and-impacts-2021-2022"
+     },
+     {
+      "slug": "mi-write-study-examined-use-and-impact"
      },
      {
       "slug": "some-students-struggled-automated-feedback-use"
@@ -53999,6 +54783,41 @@
      },
      {
       "slug": "teachers-found-ecree-useful-but-some-students-overwhelmed"
+     }
+    ]
+   },
+   "ecree-study-examined-use-and-impacts-2021-2022": {
+    "claims": [
+     {
+      "slug": "about-half-of-students-found-ecree-easy-and-helpful"
+     },
+     {
+      "slug": "ecree-easy-to-use-and-helpful-per-teachers-and-students"
+     },
+     {
+      "slug": "ecree-improved-writing-quality-especially-less-advanced-writers"
+     },
+     {
+      "slug": "mi-write-study-examined-use-and-impact"
+     },
+     {
+      "slug": "teachers-found-ecree-mi-write-useful-writing-instruction"
+     },
+     {
+      "slug": "teachers-found-ecree-useful-but-some-students-overwhelmed"
+     },
+     {
+      "slug": "teachers-need-tailored-support-time-ecree-integration"
+     },
+     {
+      "slug": "teachers-used-ecree-less-than-intended-lacking-time"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mathematica-ecree-study-methods-documentation",
+      "strength": "W"
      }
     ]
    },
@@ -54183,6 +55002,28 @@
       "polarity": "+",
       "slug": "edpuzzle-originals-standards-aligned-lessons",
       "strength": "M"
+     }
+    ]
+   },
+   "edtech-software-null-average-test-score-effects-year-one": {
+    "claims": [
+     {
+      "slug": "math-software-effects-uncorrelated-classroom-school-characteristics"
+     },
+     {
+      "slug": "one-of-ten-software-products-significant-positive-effects"
+     },
+     {
+      "slug": "reading-curricula-no-impacts-one-year-after-implementation"
+     },
+     {
+      "slug": "reading-software-effects-correlated-classroom-characteristics"
+     },
+     {
+      "slug": "school-experience-did-not-enlarge-curriculum-impacts"
+     },
+     {
+      "slug": "software-effects-changed-between-cohorts"
      }
     ]
    },
@@ -55105,6 +55946,29 @@
      {
       "polarity": "~",
       "slug": "spaced-learning",
+      "strength": "M"
+     }
+    ]
+   },
+   "eighth-grade-on-track-nsi-no-year-two-impact": {
+    "claims": [
+     {
+      "slug": "8th-grade-on-track-nsi-no-impacts-year-two"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-impact-increased-over-time"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-positive-impacts-year-two"
+     },
+     {
+      "slug": "ninth-grade-on-track-nsi-positive-gpa-pass-credits"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "nsi-conceptual-framework-networked-ci",
       "strength": "M"
      }
     ]
@@ -56944,6 +57808,16 @@
      },
      {
       "slug": "plar-narrow-participation-gap"
+     }
+    ]
+   },
+   "employer-reluctance-no-mass-cancellations": {
+    "claims": [
+     {
+      "slug": "nontraditional-industry-expansion-accelerated"
+     },
+     {
+      "slug": "technology-pivot-expanded-apprenticeship-agency-reach"
      }
     ]
    },
@@ -58940,6 +59814,9 @@
      },
      {
       "slug": "ses-rd-study-power-012-sd"
+     },
+     {
+      "slug": "tlts-no-detectable-science-effect"
      }
     ]
    },
@@ -58982,6 +59859,31 @@
      }
     ]
    },
+   "everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh": {
+    "claims": [
+     {
+      "slug": "everyday-mathematics-potentially-positive-primary-math-achievement"
+     },
+     {
+      "slug": "everyday-mathematics-small-evidence-base-one-qualifying-study"
+     },
+     {
+      "slug": "everyday-mathematics-taas-subtest-effects-nonsignificant"
+     },
+     {
+      "slug": "experimental-evaluation-four-elementary-math-curricula"
+     },
+     {
+      "slug": "large-scale-experimental-study-curricula-achievement"
+     },
+     {
+      "slug": "math-expressions-saxon-outperform-investigations-sfaw-first-grade"
+     },
+     {
+      "slug": "math-program-implementation-similarity-may-explain-null-effect"
+     }
+    ]
+   },
    "everyday-mathematics-potentially-positive-primary-math-achievement": {
     "claims": [
      {
@@ -58989,6 +59891,9 @@
      },
      {
       "slug": "doors-to-discovery-potentially-positive-oral-language"
+     },
+     {
+      "slug": "everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh"
      },
      {
       "slug": "everyday-mathematics-small-evidence-base-one-qualifying-study"
@@ -59027,6 +59932,9 @@
    "everyday-mathematics-small-evidence-base-one-qualifying-study": {
     "claims": [
      {
+      "slug": "everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh"
+     },
+     {
       "slug": "everyday-mathematics-potentially-positive-primary-math-achievement"
      },
      {
@@ -59047,6 +59955,9 @@
    "everyday-mathematics-taas-subtest-effects-nonsignificant": {
     "claims": [
      {
+      "slug": "everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh"
+     },
+     {
       "slug": "everyday-mathematics-potentially-positive-primary-math-achievement"
      },
      {
@@ -59066,6 +59977,9 @@
    },
    "evidence-determines-nonlinear-phase-movement": {
     "claims": [
+     {
+      "slug": "me-selection-challenging-multi-solution-investments"
+     },
      {
       "slug": "teacher-concern-progression-and-retreat"
      }
@@ -60517,6 +61431,9 @@
    },
    "experimental-evaluation-four-elementary-math-curricula": {
     "claims": [
+     {
+      "slug": "everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh"
+     },
      {
       "slug": "four-curricula-two-year-achievement-study"
      },
@@ -64500,6 +65417,35 @@
      }
     ]
    },
+   "failure-free-reading-impacts-third-grade-only": {
+    "claims": [
+     {
+      "slug": "fifth-grade-cohort-small-fluency-reduction"
+     },
+     {
+      "slug": "four-reading-interventions-improved-third-grade-reading-one-year-later"
+     },
+     {
+      "slug": "interventions-did-not-improve-pssa-scores"
+     },
+     {
+      "slug": "interventions-narrowed-reading-gap-word-attack"
+     },
+     {
+      "slug": "power4kids-four-reading-interventions-compared"
+     },
+     {
+      "slug": "younger-struggling-readers-benefited-more"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "power4kids-evaluation-three-studies",
+      "strength": "M"
+     }
+    ]
+   },
    "failure-free-reading-no-discernible-effects-alphabetics": {
     "claims": [
      {
@@ -64846,6 +65792,9 @@
     "claims": [
      {
       "slug": "fast-takeup-far-below-projected"
+     },
+     {
+      "slug": "tlts-fidelity-two-key-components"
      }
     ],
     "elements": [
@@ -65162,6 +66111,9 @@
      },
      {
       "slug": "no-clear-pattern-characteristics-and-effectiveness"
+     },
+     {
+      "slug": "no-consistent-subgroup-benefit-reading-interventions"
      },
      {
       "slug": "post-intervention-mediator-subgroup-analyses"
@@ -68687,6 +69639,9 @@
    "few-student-subgroup-impact-differences-significant": {
     "claims": [
      {
+      "slug": "national-evaluation-design-supplemental-reading-comprehension-fifth-grade"
+     },
+     {
       "slug": "readabout-teacher-experience-positive-impact-es-022"
      },
      {
@@ -69146,6 +70101,22 @@
      }
     ]
    },
+   "fifth-grade-cohort-small-fluency-reduction": {
+    "claims": [
+     {
+      "slug": "failure-free-reading-impacts-third-grade-only"
+     },
+     {
+      "slug": "four-reading-interventions-improved-third-grade-reading-one-year-later"
+     },
+     {
+      "slug": "interventions-did-not-improve-pssa-scores"
+     },
+     {
+      "slug": "interventions-narrowed-reading-gap-word-attack"
+     }
+    ]
+   },
    "finance-no-significant-direct-effect-governance": {
     "claims": [
      {
@@ -69593,6 +70564,26 @@
       "polarity": "+",
       "slug": "five-factor-mentoring-model-hudson",
       "strength": "M"
+     }
+    ]
+   },
+   "five-percent-repeating-six-percent-delayed-kindergarten-1998": {
+    "claims": [
+     {
+      "slug": "delayed-entrants-behind-in-math-first-grade"
+     },
+     {
+      "slug": "delayed-entrants-slightly-higher-reading-first-grade"
+     },
+     {
+      "slug": "repeaters-lower-reading-math-end-first-grade"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ecls-k-1998-99-longitudinal-dataset",
+      "strength": "W"
      }
     ]
    },
@@ -70926,6 +71917,11 @@
       "polarity": "+",
       "slug": "evaluation-of-mathematics-curricula-project",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mathematica-four-curricula-evaluation-study",
+      "strength": "M"
      }
     ]
    },
@@ -70948,6 +71944,9 @@
      },
      {
       "slug": "largest-experimental-study-of-math-curricula-110-schools"
+     },
+     {
+      "slug": "many-students-enter-school-poor-math-skills"
      },
      {
       "slug": "math-expressions-saxon-outperform-investigations-sfaw-first-grade"
@@ -70974,6 +71973,11 @@
       "polarity": "+",
       "slug": "four-elementary-math-curricula-evaluation-set",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mathematica-four-curricula-evaluation-study",
+      "strength": "M"
      }
     ]
    },
@@ -71113,6 +72117,28 @@
       "polarity": "+",
       "slug": "four-phase-teaching-process-math-communication",
       "strength": "M"
+     }
+    ]
+   },
+   "four-reading-interventions-improved-third-grade-reading-one-year-later": {
+    "claims": [
+     {
+      "slug": "failure-free-reading-impacts-third-grade-only"
+     },
+     {
+      "slug": "fifth-grade-cohort-small-fluency-reduction"
+     },
+     {
+      "slug": "interventions-did-not-improve-pssa-scores"
+     },
+     {
+      "slug": "interventions-narrowed-reading-gap-word-attack"
+     },
+     {
+      "slug": "lips-supplemental-followup-mixed-findings"
+     },
+     {
+      "slug": "younger-struggling-readers-benefited-more"
      }
     ]
    },
@@ -72199,6 +73225,9 @@
    },
    "future-forward-prior-rct-evidence": {
     "claims": [
+     {
+      "slug": "bell-elements-causal-attribution-limited"
+     },
      {
       "slug": "ff-intersectional-impact-black-male-low-attendance"
      },
@@ -75661,6 +76690,36 @@
      }
     ]
    },
+   "grouping-outcomes-impacts-processes-yields-diagnostically-useful-information": {
+    "claims": [
+     {
+      "slug": "character-ed-psychometric-reporting-inconsistent"
+     },
+     {
+      "slug": "pittsburgh-teacher-measures-moderately-correlated"
+     },
+     {
+      "slug": "practice-instrument-partial-reliability-validity-info"
+     },
+     {
+      "slug": "reliability-challenges-epistemic-games"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "outcomes-impacts-processes-framework-publication",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "outcomes-impacts-processes-school-performance-framework",
+      "strength": "M"
+     }
+    ]
+   },
    "grouping-practices-framed-labeling-problem": {
     "claims": [
      {
@@ -77053,6 +78112,23 @@
      },
      {
       "slug": "no-demographic-differences-id-step-performance"
+     }
+    ]
+   },
+   "heterogeneous-competency-benefits-individualized-education": {
+    "claims": [
+     {
+      "slug": "act-deep-interaction-only-practical-competence"
+     },
+     {
+      "slug": "learning-styles-matching-does-not-improve-learning"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "~",
+      "slug": "personalization",
+      "strength": "W"
      }
     ]
    },
@@ -80636,6 +81712,12 @@
      },
      {
       "slug": "large-scale-experimental-study-curricula-achievement"
+     },
+     {
+      "slug": "many-students-enter-school-poor-math-skills"
+     },
+     {
+      "slug": "school-level-random-assignment-four-math-curricula"
      }
     ],
     "elements": [
@@ -80648,6 +81730,11 @@
       "polarity": "+",
       "slug": "four-early-elementary-math-curricula-evaluated",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mathematica-four-curricula-evaluation-study",
+      "strength": "M"
      }
     ]
    },
@@ -82915,6 +84002,27 @@
      }
     ]
    },
+   "inquiry-cycles-partial-completion-3-2-per-year": {
+    "claims": [
+     {
+      "slug": "nsi-network-cohesion-low-but-improving"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "nsi-initiative-gates-foundation",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "nsi-conceptual-framework-networked-ci",
+      "strength": "W"
+     }
+    ]
+   },
    "inquiry-first-stimulates-interest-and-organizes-course": {
     "claims": [
      {
@@ -84822,6 +85930,37 @@
      }
     ]
    },
+   "interventions-did-not-improve-pssa-scores": {
+    "claims": [
+     {
+      "slug": "failure-free-reading-impacts-third-grade-only"
+     },
+     {
+      "slug": "fifth-grade-cohort-small-fluency-reduction"
+     },
+     {
+      "slug": "four-reading-interventions-improved-third-grade-reading-one-year-later"
+     },
+     {
+      "slug": "interventions-narrowed-reading-gap-word-attack"
+     },
+     {
+      "slug": "reading-comprehension-curricula-no-positive-impact-fifth-grade"
+     },
+     {
+      "slug": "reading-curricula-no-impacts-one-year-after-implementation"
+     },
+     {
+      "slug": "school-experience-did-not-enlarge-curriculum-impacts"
+     },
+     {
+      "slug": "year-one-curricula-no-positive-impacts-four-negative"
+     },
+     {
+      "slug": "younger-struggling-readers-benefited-more"
+     }
+    ]
+   },
    "interventions-hasten-one-line-not-others": {
     "claims": [
      {
@@ -84845,6 +85984,25 @@
       "polarity": "+",
       "slug": "ordinal-scales-disentangle-development-from-age",
       "strength": "M"
+     }
+    ]
+   },
+   "interventions-narrowed-reading-gap-word-attack": {
+    "claims": [
+     {
+      "slug": "failure-free-reading-impacts-third-grade-only"
+     },
+     {
+      "slug": "fifth-grade-cohort-small-fluency-reduction"
+     },
+     {
+      "slug": "four-reading-interventions-improved-third-grade-reading-one-year-later"
+     },
+     {
+      "slug": "interventions-did-not-improve-pssa-scores"
+     },
+     {
+      "slug": "younger-struggling-readers-benefited-more"
      }
     ]
    },
@@ -85712,6 +86870,26 @@
       "polarity": "+",
       "slug": "cosine-similarity-item-test-parameter-framework",
       "strength": "M"
+     }
+    ]
+   },
+   "item-misfit-problems-2003-puerto-rico-data": {
+    "claims": [
+     {
+      "slug": "preliminary-analyses-drove-2005-procedure-changes"
+     },
+     {
+      "slug": "special-validity-analysis-puerto-rico-naep"
+     },
+     {
+      "slug": "trial-spanish-naep-math-puerto-rico-2003"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "trial-spanish-naep-math-assessment-puerto-rico",
+      "strength": "W"
      }
     ]
    },
@@ -89770,6 +90948,9 @@
       "slug": "design-differences-hypothesized-explain-achievement-results"
      },
      {
+      "slug": "everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh"
+     },
+     {
       "slug": "experimental-evaluation-four-elementary-math-curricula"
      },
      {
@@ -89788,6 +90969,9 @@
       "slug": "largest-experimental-study-of-math-curricula-110-schools"
      },
      {
+      "slug": "many-students-enter-school-poor-math-skills"
+     },
+     {
       "slug": "math-curricula-benefits-extend-to-low-performing-high-poverty-schools"
      },
      {
@@ -89798,6 +90982,9 @@
      },
      {
       "slug": "math-expressions-saxon-percentile-advantage-first-grade"
+     },
+     {
+      "slug": "school-level-random-assignment-four-math-curricula"
      },
      {
       "slug": "three-elementary-math-curricula-outperform-fourth-two-years"
@@ -89819,6 +91006,20 @@
      {
       "polarity": "+",
       "slug": "curriculum-design-three-dimensions-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "large-type-m-errors-significance-filter-education": {
+    "claims": [
+     {
+      "slug": "commentary-evaluates-four-actionable-suggestions"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "type-m-type-s-error-framework",
       "strength": "M"
      }
     ]
@@ -89848,6 +91049,9 @@
       "slug": "large-scale-experimental-study-curricula-achievement"
      },
      {
+      "slug": "many-students-enter-school-poor-math-skills"
+     },
+     {
       "slug": "math-curricula-benefits-extend-to-low-performing-high-poverty-schools"
      },
      {
@@ -89875,6 +91079,11 @@
      {
       "polarity": "+",
       "slug": "four-elementary-math-curricula-compared",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "mathematica-four-curricula-evaluation-study",
       "strength": "M"
      }
     ]
@@ -91822,6 +93031,9 @@
       "slug": "carroll-data-support-hierarchical-g-model"
      },
      {
+      "slug": "heterogeneous-competency-benefits-individualized-education"
+     },
+     {
       "slug": "intellectual-test-performances-correlated"
      },
      {
@@ -93489,6 +94701,9 @@
    "lips-supplemental-followup-mixed-findings": {
     "claims": [
      {
+      "slug": "four-reading-interventions-improved-third-grade-reading-one-year-later"
+     },
+     {
       "slug": "lips-no-discernible-reading-comprehension-effects"
      },
      {
@@ -94127,6 +95342,23 @@
       "polarity": "+",
       "slug": "know-question-types-before-instructional-decisions",
       "strength": "M"
+     }
+    ]
+   },
+   "little-research-teacher-training-strategy-effectiveness": {
+    "claims": [
+     {
+      "slug": "alt-cert-teachers-no-worse-student-achievement"
+     },
+     {
+      "slug": "uncertainty-preparation-neglected-in-teacher-education"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "teacher-preparation-models-impact-evaluation-design",
+      "strength": "W"
      }
     ]
    },
@@ -94801,6 +96033,25 @@
       "polarity": "+",
       "slug": "llmkt-llm-based-knowledge-tracing",
       "strength": "W"
+     }
+    ]
+   },
+   "lms-integration-eases-ecree-adoption": {
+    "claims": [
+     {
+      "slug": "ecree-easy-to-use-and-helpful-per-teachers-and-students"
+     },
+     {
+      "slug": "regular-tailored-support-helped-teachers-integrate-tools"
+     },
+     {
+      "slug": "teachers-need-tailored-support-time-ecree-integration"
+     },
+     {
+      "slug": "teachers-reported-curriculum-technical-integration-challenges"
+     },
+     {
+      "slug": "teachers-used-ecree-less-than-intended-lacking-time"
      }
     ]
    },
@@ -95669,6 +96920,31 @@
       "polarity": "+",
       "slug": "cavadel-frye-tom-school-readiness-study",
       "strength": "W"
+     }
+    ]
+   },
+   "low-income-summer-test-score-drop": {
+    "claims": [
+     {
+      "slug": "bell-summer-program-improves-reading-scores"
+     },
+     {
+      "slug": "bell-summer-program-increases-parent-reading-encouragement"
+     },
+     {
+      "slug": "bell-summer-program-random-assignment-effective"
+     },
+     {
+      "slug": "springboard-summer-gains-vary-by-starting-level"
+     },
+     {
+      "slug": "springboard-summer-outperforms-matched-comparison"
+     },
+     {
+      "slug": "springboard-summer-significant-reading-gains"
+     },
+     {
+      "slug": "summer-reading-loss-widens-gaps"
      }
     ]
    },
@@ -97013,6 +98289,31 @@
      }
     ]
    },
+   "many-students-enter-school-poor-math-skills": {
+    "claims": [
+     {
+      "slug": "curriculum-choice-mattered-early-elementary-math"
+     },
+     {
+      "slug": "four-curricula-two-year-elementary-math-study-design"
+     },
+     {
+      "slug": "ies-math-curricula-evaluation-second-report"
+     },
+     {
+      "slug": "large-scale-experimental-study-curricula-achievement"
+     },
+     {
+      "slug": "largest-experimental-study-of-math-curricula-110-schools"
+     },
+     {
+      "slug": "math-expressions-saxon-outperform-investigations-sfaw-first-grade"
+     },
+     {
+      "slug": "poor-families-lag-affluent-peers-early-math"
+     }
+    ]
+   },
    "maori-hl2-motivated-cultural-heritage-connection": {
     "claims": [
      {
@@ -98054,6 +99355,9 @@
      },
      {
       "slug": "math-expressions-saxon-outperform-investigations-sfaw-first-grade"
+     },
+     {
+      "slug": "school-level-random-assignment-four-math-curricula"
      }
     ],
     "elements": [
@@ -98088,6 +99392,9 @@
       "slug": "curriculum-choice-mattered-early-elementary-math"
      },
      {
+      "slug": "everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh"
+     },
+     {
       "slug": "experimental-evaluation-four-elementary-math-curricula"
      },
      {
@@ -98101,6 +99408,9 @@
      },
      {
       "slug": "largest-experimental-study-of-math-curricula-110-schools"
+     },
+     {
+      "slug": "many-students-enter-school-poor-math-skills"
      },
      {
       "slug": "math-curricula-benefits-extend-to-low-performing-high-poverty-schools"
@@ -98149,6 +99459,11 @@
       "polarity": "+",
       "slug": "four-elementary-math-curricula-evaluation-set",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "mathematica-four-curricula-evaluation-study",
+      "strength": "M"
      }
     ],
     "principles": [
@@ -98185,6 +99500,26 @@
       "polarity": "+",
       "slug": "four-elementary-math-curricula-evaluation-set",
       "strength": "M"
+     }
+    ]
+   },
+   "math-program-implementation-similarity-may-explain-null-effect": {
+    "claims": [
+     {
+      "slug": "everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh"
+     },
+     {
+      "slug": "stella-comparison-pd-equivalent-implementation-ratings"
+     }
+    ]
+   },
+   "math-software-effects-uncorrelated-classroom-school-characteristics": {
+    "claims": [
+     {
+      "slug": "edtech-software-null-average-test-score-effects-year-one"
+     },
+     {
+      "slug": "reading-software-effects-correlated-classroom-characteristics"
      }
     ]
    },
@@ -98409,6 +99744,32 @@
      }
     ]
    },
+   "me-checklist-phase4-structure-claim": {
+    "claims": [
+     {
+      "slug": "phase-2-goal-descriptive-implementation-evidence"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "me-checklist-evidence-building-resource",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-phase-evidence-building-framework-me-checklist",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "four-phase-evidence-building-process-me-checklist",
+      "strength": "W"
+     }
+    ]
+   },
    "me-inventory-most-useful-early-research-cycle": {
     "claims": [
      {
@@ -98422,6 +99783,41 @@
      {
       "polarity": "+",
       "slug": "measurement-evaluation-needs-inventory-tool",
+      "strength": "W"
+     }
+    ]
+   },
+   "me-selection-challenging-multi-solution-investments": {
+    "claims": [
+     {
+      "slug": "evidence-determines-nonlinear-phase-movement"
+     },
+     {
+      "slug": "me-template-promotes-cross-solution-continuity"
+     },
+     {
+      "slug": "ssi-youth-solutions-papers-evidence-gaps"
+     }
+    ]
+   },
+   "me-template-promotes-cross-solution-continuity": {
+    "claims": [
+     {
+      "slug": "me-selection-challenging-multi-solution-investments"
+     },
+     {
+      "slug": "shared-template-promotes-cross-report-continuity"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "me-plan-template-roadmap",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "measurement-and-evaluation-plan-template",
       "strength": "W"
      }
     ]
@@ -100858,6 +102254,13 @@
      }
     ]
    },
+   "methodological-issues-calculating-average-effect-sizes-meta-analyses": {
+    "claims": [
+     {
+      "slug": "parent-implemented-intervention-improves-outcomes"
+     }
+    ]
+   },
    "methods-assess-impact-variation-across-students-educators-schools": {
     "claims": [
      {
@@ -100934,6 +102337,44 @@
       "polarity": "-",
       "slug": "mi-theory-eight-intelligences-taxonomy",
       "strength": "M"
+     }
+    ]
+   },
+   "mi-write-study-examined-use-and-impact": {
+    "claims": [
+     {
+      "slug": "about-half-of-students-found-ecree-easy-and-helpful"
+     },
+     {
+      "slug": "automated-feedback-supplements-not-replaces-teacher-feedback"
+     },
+     {
+      "slug": "ecree-easy-to-use-and-helpful-per-teachers-and-students"
+     },
+     {
+      "slug": "ecree-improved-writing-quality-especially-less-advanced-writers"
+     },
+     {
+      "slug": "ecree-study-examined-use-and-impacts-2021-2022"
+     },
+     {
+      "slug": "monthly-coaching-helped-teachers-integrate-mi-write"
+     },
+     {
+      "slug": "teachers-found-ecree-mi-write-useful-writing-instruction"
+     },
+     {
+      "slug": "teachers-found-ecree-useful-but-some-students-overwhelmed"
+     },
+     {
+      "slug": "teachers-used-ecree-less-than-intended-lacking-time"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mi-write-study-briefs-series",
+      "strength": "W"
      }
     ]
    },
@@ -101483,6 +102924,23 @@
      {
       "polarity": "+",
       "slug": "ask-framework-collaborative-learning-pbl",
+      "strength": "W"
+     }
+    ]
+   },
+   "minimal-rigorous-research-teacher-apprenticeships": {
+    "claims": [
+     {
+      "slug": "bls-estimates-567000-fewer-public-school-teachers-2022"
+     },
+     {
+      "slug": "nontraditional-industry-expansion-accelerated"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "teacher-apprenticeship-programs-shortage-approach",
       "strength": "W"
      }
     ]
@@ -103175,6 +104633,22 @@
       "polarity": "+",
       "slug": "labov-monitor-model-attention-continuum",
       "strength": "M"
+     }
+    ]
+   },
+   "monthly-coaching-helped-teachers-integrate-mi-write": {
+    "claims": [
+     {
+      "slug": "curriculum-integration-alignment-barrier-mi-write"
+     },
+     {
+      "slug": "mi-write-study-examined-use-and-impact"
+     },
+     {
+      "slug": "regular-tailored-support-helped-teachers-integrate-tools"
+     },
+     {
+      "slug": "teachers-used-ecree-less-than-intended-lacking-time"
      }
     ]
    },
@@ -104943,6 +106417,27 @@
      }
     ]
    },
+   "multiple-testing-corrections-reduce-power": {
+    "claims": [
+     {
+      "slug": "researcher-disagreement-multiple-testing-tradeoff"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "schochet-multiple-testing-guidelines-education",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "bayesian-hypothesis-testing-multiple-testing",
+      "strength": "W"
+     }
+    ]
+   },
    "multiple-ucsmp-courses-null-pooled-mathematics-achievement-test": {
     "claims": [
      {
@@ -105135,6 +106630,40 @@
      {
       "polarity": "+",
       "slug": "narrative-inquiry-experience-based-research-method",
+      "strength": "W"
+     }
+    ]
+   },
+   "national-evaluation-design-supplemental-reading-comprehension-fifth-grade": {
+    "claims": [
+     {
+      "slug": "few-student-subgroup-impact-differences-significant"
+     },
+     {
+      "slug": "readabout-teacher-experience-positive-impact-es-022"
+     },
+     {
+      "slug": "reading-comprehension-curricula-no-positive-impact-fifth-grade"
+     },
+     {
+      "slug": "reading-curricula-no-impacts-one-year-after-implementation"
+     },
+     {
+      "slug": "school-experience-did-not-enlarge-curriculum-impacts"
+     },
+     {
+      "slug": "year-one-curricula-no-positive-impacts-four-negative"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "evaluation-of-reading-comprehension-interventions-design",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "national-study-reading-comprehension-interventions-2004-2010",
       "strength": "W"
      }
     ]
@@ -105731,6 +107260,35 @@
      }
     ]
    },
+   "ninth-grade-on-track-nsi-positive-gpa-pass-credits": {
+    "claims": [
+     {
+      "slug": "8th-grade-on-track-nsi-no-impacts-year-two"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-impact-increased-over-time"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-positive-impacts-year-two"
+     },
+     {
+      "slug": "eighth-grade-on-track-nsi-no-year-two-impact"
+     },
+     {
+      "slug": "nsi-network-cohesion-low-but-improving"
+     },
+     {
+      "slug": "rct-ninth-grade-nsi-attendance-gain"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "nsi-conceptual-framework-networked-ci",
+      "strength": "M"
+     }
+    ]
+   },
    "nj-ged-takers-stronger-grade8-background": {
     "claims": [
      {
@@ -105939,6 +107497,23 @@
      }
     ]
    },
+   "no-association-virtual-instruction-climate": {
+    "claims": [
+     {
+      "slug": "no-lasting-pandemic-climate-decline"
+     },
+     {
+      "slug": "pandemic-year-climate-positive-bump-pennsylvania"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pde-voluntary-school-climate-survey",
+      "strength": "W"
+     }
+    ]
+   },
    "no-clear-pattern-characteristics-and-effectiveness": {
     "claims": [
      {
@@ -105999,6 +107574,19 @@
       "polarity": "+",
       "slug": "aac-decision-making-unaided-aided-options",
       "strength": "M"
+     }
+    ]
+   },
+   "no-consistent-subgroup-benefit-reading-interventions": {
+    "claims": [
+     {
+      "slug": "corrective-reading-subgroup-moderators"
+     },
+     {
+      "slug": "fast-no-subgroup-differential-impact"
+     },
+     {
+      "slug": "wilson-reading-system-subgroup-effects-initial-skill-ses"
      }
     ]
    },
@@ -106489,6 +108077,9 @@
       "slug": "locus-of-control-fails-to-discriminate-delinquents"
      },
      {
+      "slug": "non-academic-competencies-predict-later-success"
+     },
+     {
       "slug": "nonacademic-domains-increase-dimensions"
      },
      {
@@ -106659,6 +108250,31 @@
      }
     ]
    },
+   "no-lasting-pandemic-climate-decline": {
+    "claims": [
+     {
+      "slug": "no-association-virtual-instruction-climate"
+     },
+     {
+      "slug": "pandemic-year-climate-positive-bump-pennsylvania"
+     },
+     {
+      "slug": "pre-covid-climate-scores-steady"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pde-elementary-school-climate-survey",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "pde-voluntary-school-climate-survey",
+      "strength": "W"
+     }
+    ]
+   },
    "no-learning-effect-for-four-explicit-srl-prompts": {
     "claims": [
      {
@@ -106807,6 +108423,13 @@
       "polarity": "+",
       "slug": "differentiated-knowledge-categories-framework",
       "strength": "W"
+     }
+    ]
+   },
+   "no-menu-of-dropout-prevention-program-options-yet": {
+    "claims": [
+     {
+      "slug": "teacher-student-relationships-improve-engagement"
      }
     ]
    },
@@ -107372,6 +108995,13 @@
      }
     ]
    },
+   "non-academic-competencies-predict-later-success": {
+    "claims": [
+     {
+      "slug": "no-group-or-sex-effect-on-locus-of-control"
+     }
+    ]
+   },
    "non-guided-vr-no-better-than-non-vr": {
     "claims": [
      {
@@ -107535,6 +109165,9 @@
      },
      {
       "slug": "nonexperimental-pre-treatment-methods-replicate-itt-under-crossover"
+     },
+     {
+      "slug": "school-level-random-assignment-four-math-curricula"
      }
     ]
    },
@@ -107665,6 +109298,32 @@
      {
       "polarity": "+",
       "slug": "preschool-ef-five-dimension-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "nontraditional-industry-expansion-accelerated": {
+    "claims": [
+     {
+      "slug": "data-infrastructure-performance-measurement-dimension"
+     },
+     {
+      "slug": "employer-reluctance-no-mass-cancellations"
+     },
+     {
+      "slug": "minimal-rigorous-research-teacher-apprenticeships"
+     },
+     {
+      "slug": "providers-adapted-in-person-training-online"
+     },
+     {
+      "slug": "technology-pivot-expanded-apprenticeship-agency-reach"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "teacher-apprenticeship-programs-shortage-approach",
       "strength": "W"
      }
     ]
@@ -108015,6 +109674,29 @@
       "polarity": "+",
       "slug": "office-hours-queue-simulation-framework",
       "strength": "M"
+     }
+    ]
+   },
+   "nsi-network-cohesion-low-but-improving": {
+    "claims": [
+     {
+      "slug": "inquiry-cycles-partial-completion-3-2-per-year"
+     },
+     {
+      "slug": "ninth-grade-on-track-nsi-positive-gpa-pass-credits"
+     },
+     {
+      "slug": "postsecondary-nsi-fafsa-gain-no-enrollment-impact"
+     },
+     {
+      "slug": "rct-ninth-grade-nsi-attendance-gain"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "nsi-conceptual-framework-networked-ci",
+      "strength": "W"
      }
     ]
    },
@@ -109053,6 +110735,9 @@
    "one-of-ten-software-products-significant-positive-effects": {
     "claims": [
      {
+      "slug": "edtech-software-null-average-test-score-effects-year-one"
+     },
+     {
       "slug": "software-effects-changed-between-cohorts"
      },
      {
@@ -109087,6 +110772,19 @@
     "claims": [
      {
       "slug": "learning-is-initiative-construction-old-new-knowledge"
+     }
+    ]
+   },
+   "online-apprenticeship-learning-flexibility-tradeoffs": {
+    "claims": [
+     {
+      "slug": "online-pd-reduces-travel-supports-community"
+     },
+     {
+      "slug": "providers-adapted-in-person-training-online"
+     },
+     {
+      "slug": "technology-pivot-expanded-apprenticeship-agency-reach"
      }
     ]
    },
@@ -109382,6 +111080,9 @@
    },
    "online-pd-reduces-travel-supports-community": {
     "claims": [
+     {
+      "slug": "online-apprenticeship-learning-flexibility-tradeoffs"
+     },
      {
       "slug": "peer-coaching-supports-teacher-professional-development"
      },
@@ -110747,6 +112448,29 @@
      }
     ]
    },
+   "pa-attrition-gaps-early-career-charter-large-leas": {
+    "claims": [
+     {
+      "slug": "pa-attrition-racial-gaps-grew-except-administrators"
+     },
+     {
+      "slug": "pa-staff-attrition-rose-4-to-5-percent-pandemic"
+     },
+     {
+      "slug": "remote-learning-not-associated-elementary-teacher-attrition"
+     }
+    ]
+   },
+   "pa-attrition-racial-gaps-grew-except-administrators": {
+    "claims": [
+     {
+      "slug": "pa-attrition-gaps-early-career-charter-large-leas"
+     },
+     {
+      "slug": "pa-staff-attrition-rose-4-to-5-percent-pandemic"
+     }
+    ]
+   },
    "pa-lessons-average-effect-size-049": {
     "claims": [
      {
@@ -110817,6 +112541,19 @@
      },
      {
       "slug": "pa-lessons-study2-acadience-es-074"
+     }
+    ]
+   },
+   "pa-staff-attrition-rose-4-to-5-percent-pandemic": {
+    "claims": [
+     {
+      "slug": "pa-attrition-gaps-early-career-charter-large-leas"
+     },
+     {
+      "slug": "pa-attrition-racial-gaps-grew-except-administrators"
+     },
+     {
+      "slug": "remote-learning-not-associated-elementary-teacher-attrition"
      }
     ]
    },
@@ -111377,6 +113114,44 @@
      }
     ]
    },
+   "pandemic-disruptions-hindered-mi-write-implementation": {
+    "claims": [
+     {
+      "slug": "college-english-writing-instruction-problems-china"
+     },
+     {
+      "slug": "rpp-adaptive-practices-sustain-partnerships-during-disruption"
+     }
+    ]
+   },
+   "pandemic-year-climate-positive-bump-pennsylvania": {
+    "claims": [
+     {
+      "slug": "bls-estimates-567000-fewer-public-school-teachers-2022"
+     },
+     {
+      "slug": "no-association-virtual-instruction-climate"
+     },
+     {
+      "slug": "no-lasting-pandemic-climate-decline"
+     },
+     {
+      "slug": "pre-covid-climate-scores-steady"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "pde-elementary-school-climate-survey",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "pde-voluntary-school-climate-survey",
+      "strength": "W"
+     }
+    ]
+   },
    "paradoxical-institutional-characteristics-improve-effectiveness-over-time": {
     "claims": [
      {
@@ -111598,6 +113373,9 @@
       "slug": "dialogic-reading-improves-expressive-language"
      },
      {
+      "slug": "methodological-issues-calculating-average-effect-sizes-meta-analyses"
+     },
+     {
       "slug": "parent-coaching-outperforms-information-only"
      },
      {
@@ -111704,6 +113482,9 @@
    },
    "parent-involvement-improves-early-reading": {
     "claims": [
+     {
+      "slug": "bell-summer-program-increases-parent-reading-encouragement"
+     },
      {
       "slug": "big-book-reading-cognitive-autonomy"
      },
@@ -113550,6 +115331,50 @@
      }
     ]
    },
+   "pde-elementary-climate-survey-domains-distinct": {
+    "claims": [
+     {
+      "slug": "pde-elementary-climate-survey-items-measure-intended-constructs"
+     },
+     {
+      "slug": "safe-respectful-climate-domain-below-reliability-threshold"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pde-elementary-school-climate-survey",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "pde-voluntary-school-climate-survey",
+      "strength": "W"
+     }
+    ]
+   },
+   "pde-elementary-climate-survey-items-measure-intended-constructs": {
+    "claims": [
+     {
+      "slug": "pde-elementary-climate-survey-domains-distinct"
+     },
+     {
+      "slug": "safe-respectful-climate-domain-below-reliability-threshold"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pde-elementary-school-climate-survey",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "pde-voluntary-school-climate-survey",
+      "strength": "W"
+     }
+    ]
+   },
    "pdsa-testing-routines-structure-teacher-reflection": {
     "claims": [
      {
@@ -114828,6 +116653,9 @@
      },
      {
       "slug": "pef-fy2024-roi-21-percent-similar-to-fy2023"
+     },
+     {
+      "slug": "tlts-per-pupil-cost-242"
      }
     ],
     "elements": [
@@ -114897,6 +116725,9 @@
      },
      {
       "slug": "pef-fy2024-roi-21-percent-similar-to-fy2023"
+     },
+     {
+      "slug": "tlts-per-pupil-cost-242"
      }
     ],
     "elements": [
@@ -115584,6 +117415,32 @@
      },
      {
       "slug": "ucsmp-algebra-mixed-algebra-domain-effects"
+     }
+    ]
+   },
+   "phase-2-goal-descriptive-implementation-evidence": {
+    "claims": [
+     {
+      "slug": "me-checklist-phase4-structure-claim"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "me-checklist-evidence-building-resource",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "me-checklist-refine-solution-phase-2",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-phase-evidence-building-framework-me-checklist",
+      "strength": "W"
      }
     ]
    },
@@ -116882,6 +118739,9 @@
       "slug": "correlational-design-limits-epistemic-freedom-study"
      },
      {
+      "slug": "grouping-outcomes-impacts-processes-yields-diagnostically-useful-information"
+     },
+     {
       "slug": "pittsburgh-three-measures-differentiate-teacher-performance"
      }
     ]
@@ -118132,6 +119992,16 @@
      }
     ]
    },
+   "poor-families-lag-affluent-peers-early-math": {
+    "claims": [
+     {
+      "slug": "delayed-entrants-behind-in-math-first-grade"
+     },
+     {
+      "slug": "many-students-enter-school-poor-math-skills"
+     }
+    ]
+   },
    "poor-labor-markets-shift-full-time-to-part-time-graduate-enrollment": {
     "claims": [
      {
@@ -118787,6 +120657,63 @@
      }
     ]
    },
+   "postsecondary-enrollment-nsi-fafsa-not-college-year-two": {
+    "claims": [
+     {
+      "slug": "postsecondary-nsi-college-impact-not-persistent"
+     },
+     {
+      "slug": "postsecondary-nsi-fafsa-gain-no-enrollment-impact"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "nsi-initiative-gates-foundation",
+      "strength": "M"
+     }
+    ]
+   },
+   "postsecondary-nsi-college-impact-not-persistent": {
+    "claims": [
+     {
+      "slug": "9th-grade-on-track-nsi-impact-increased-over-time"
+     },
+     {
+      "slug": "postsecondary-enrollment-nsi-fafsa-not-college-year-two"
+     },
+     {
+      "slug": "postsecondary-nsi-fafsa-gain-no-enrollment-impact"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "nsi-initiative-gates-foundation",
+      "strength": "M"
+     }
+    ]
+   },
+   "postsecondary-nsi-fafsa-gain-no-enrollment-impact": {
+    "claims": [
+     {
+      "slug": "nsi-network-cohesion-low-but-improving"
+     },
+     {
+      "slug": "postsecondary-enrollment-nsi-fafsa-not-college-year-two"
+     },
+     {
+      "slug": "postsecondary-nsi-college-impact-not-persistent"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "nsi-conceptual-framework-networked-ci",
+      "strength": "M"
+     }
+    ]
+   },
    "posttest-gains-pretest-to-posttest-concept-model": {
     "claims": [
      {
@@ -118853,6 +120780,115 @@
      },
      {
       "slug": "csl-co-planning-gives-community-partners-voice-in-project"
+     }
+    ]
+   },
+   "power4kids-100-hours-small-group-pullout-instruction": {
+    "claims": [
+     {
+      "slug": "power4kids-first-year-reading-achievement-impacts"
+     },
+     {
+      "slug": "power4kids-four-reading-interventions-compared"
+     },
+     {
+      "slug": "power4kids-two-level-random-assignment-design"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "four-reading-interventions-striving-readers-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "power4kids-evaluation-three-studies",
+      "strength": "M"
+     }
+    ]
+   },
+   "power4kids-first-year-reading-achievement-impacts": {
+    "claims": [
+     {
+      "slug": "power4kids-100-hours-small-group-pullout-instruction"
+     },
+     {
+      "slug": "power4kids-four-reading-interventions-compared"
+     },
+     {
+      "slug": "power4kids-two-level-random-assignment-design"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "four-reading-interventions-striving-readers-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "power4kids-evaluation-three-studies",
+      "strength": "M"
+     }
+    ]
+   },
+   "power4kids-four-reading-interventions-compared": {
+    "claims": [
+     {
+      "slug": "corrective-reading-subgroup-moderators"
+     },
+     {
+      "slug": "failure-free-reading-impacts-third-grade-only"
+     },
+     {
+      "slug": "power4kids-100-hours-small-group-pullout-instruction"
+     },
+     {
+      "slug": "power4kids-first-year-reading-achievement-impacts"
+     },
+     {
+      "slug": "power4kids-two-level-random-assignment-design"
+     },
+     {
+      "slug": "wilson-reading-system-subgroup-effects-initial-skill-ses"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "four-reading-interventions-striving-readers-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "power4kids-evaluation-three-studies",
+      "strength": "M"
+     }
+    ]
+   },
+   "power4kids-two-level-random-assignment-design": {
+    "claims": [
+     {
+      "slug": "power4kids-100-hours-small-group-pullout-instruction"
+     },
+     {
+      "slug": "power4kids-first-year-reading-achievement-impacts"
+     },
+     {
+      "slug": "power4kids-four-reading-interventions-compared"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "four-reading-interventions-striving-readers-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "power4kids-evaluation-three-studies",
+      "strength": "M"
      }
     ]
    },
@@ -119059,6 +121095,153 @@
      }
     ]
    },
+   "pr-2003-achievement-levels-basic-far-below-nation": {
+    "claims": [
+     {
+      "slug": "pr-2005-grade8-below-basic-majority"
+     },
+     {
+      "slug": "pr-grade4-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-grade8-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "trial-spanish-naep-math-puerto-rico-2003"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "trial-spanish-naep-math-assessment-puerto-rico",
+      "strength": "W"
+     }
+    ]
+   },
+   "pr-2005-grade8-below-basic-majority": {
+    "claims": [
+     {
+      "slug": "pr-2003-achievement-levels-basic-far-below-nation"
+     },
+     {
+      "slug": "pr-2005-naep-math-lower-than-nation"
+     }
+    ]
+   },
+   "pr-2005-naep-math-lower-than-nation": {
+    "claims": [
+     {
+      "slug": "pr-2005-grade8-below-basic-majority"
+     },
+     {
+      "slug": "pr-grade4-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-grade8-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-measurement-content-area-largest-gap"
+     },
+     {
+      "slug": "trial-spanish-naep-math-puerto-rico-2003"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "trial-spanish-naep-math-assessment-puerto-rico",
+      "strength": "W"
+     }
+    ]
+   },
+   "pr-gender-differences-content-areas-favor-females": {
+    "claims": [
+     {
+      "slug": "pr-grade4-2003-naep-math-lower-than-nation"
+     }
+    ]
+   },
+   "pr-grade4-2003-naep-math-lower-than-nation": {
+    "claims": [
+     {
+      "slug": "pr-2003-achievement-levels-basic-far-below-nation"
+     },
+     {
+      "slug": "pr-2005-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-gender-differences-content-areas-favor-females"
+     },
+     {
+      "slug": "pr-grade8-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-measurement-content-area-largest-gap"
+     },
+     {
+      "slug": "special-validity-analysis-puerto-rico-naep"
+     },
+     {
+      "slug": "trial-spanish-naep-math-puerto-rico-2003"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "trial-spanish-naep-math-assessment-puerto-rico",
+      "strength": "W"
+     }
+    ]
+   },
+   "pr-grade8-2003-naep-math-lower-than-nation": {
+    "claims": [
+     {
+      "slug": "pr-2003-achievement-levels-basic-far-below-nation"
+     },
+     {
+      "slug": "pr-2005-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-grade4-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-measurement-content-area-largest-gap"
+     },
+     {
+      "slug": "trial-spanish-naep-math-puerto-rico-2003"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "trial-spanish-naep-math-assessment-puerto-rico",
+      "strength": "W"
+     }
+    ]
+   },
+   "pr-measurement-content-area-largest-gap": {
+    "claims": [
+     {
+      "slug": "pr-2005-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-grade4-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-grade8-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "trial-spanish-naep-math-puerto-rico-2003"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "trial-spanish-naep-math-assessment-puerto-rico",
+      "strength": "W"
+     }
+    ]
+   },
    "practice-condition-no-effect-financial-behaviors": {
     "claims": [
      {
@@ -119107,6 +121290,9 @@
    },
    "practice-instrument-partial-reliability-validity-info": {
     "claims": [
+     {
+      "slug": "grouping-outcomes-impacts-processes-yields-diagnostically-useful-information"
+     },
      {
       "slug": "nj-pilot-practice-ratings-varied-most-effective"
      },
@@ -119231,6 +121417,31 @@
      {
       "polarity": "-",
       "slug": "vardegrunden-laroplan-constitutive-values",
+      "strength": "W"
+     }
+    ]
+   },
+   "pre-covid-climate-scores-steady": {
+    "claims": [
+     {
+      "slug": "bls-estimates-567000-fewer-public-school-teachers-2022"
+     },
+     {
+      "slug": "no-lasting-pandemic-climate-decline"
+     },
+     {
+      "slug": "pandemic-year-climate-positive-bump-pennsylvania"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "pde-elementary-school-climate-survey",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "pde-voluntary-school-climate-survey",
       "strength": "W"
      }
     ]
@@ -119728,6 +121939,26 @@
       "polarity": "+",
       "slug": "prek-mathematics-curriculum",
       "strength": "M"
+     }
+    ]
+   },
+   "preliminary-analyses-drove-2005-procedure-changes": {
+    "claims": [
+     {
+      "slug": "item-misfit-problems-2003-puerto-rico-data"
+     },
+     {
+      "slug": "special-validity-analysis-puerto-rico-naep"
+     },
+     {
+      "slug": "trial-spanish-naep-math-puerto-rico-2003"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "trial-spanish-naep-math-assessment-puerto-rico",
+      "strength": "W"
      }
     ]
    },
@@ -123723,6 +125954,19 @@
      }
     ]
    },
+   "providers-adapted-in-person-training-online": {
+    "claims": [
+     {
+      "slug": "nontraditional-industry-expansion-accelerated"
+     },
+     {
+      "slug": "online-apprenticeship-learning-flexibility-tradeoffs"
+     },
+     {
+      "slug": "technology-pivot-expanded-apprenticeship-agency-reach"
+     }
+    ]
+   },
    "proximal-goals-feedback-peer-models-build-learning-efficacy": {
     "claims": [
      {
@@ -125085,6 +127329,32 @@
      }
     ]
    },
+   "rct-ninth-grade-nsi-attendance-gain": {
+    "claims": [
+     {
+      "slug": "8th-grade-on-track-nsi-no-impacts-year-two"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-impact-increased-over-time"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-positive-impacts-year-two"
+     },
+     {
+      "slug": "ninth-grade-on-track-nsi-positive-gpa-pass-credits"
+     },
+     {
+      "slug": "nsi-network-cohesion-low-but-improving"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "nsi-conceptual-framework-networked-ci",
+      "strength": "M"
+     }
+    ]
+   },
    "rct-policy-conclusions-sensitive-to-estimator-choice": {
     "claims": [
      {
@@ -125942,6 +128212,9 @@
       "slug": "few-student-subgroup-impact-differences-significant"
      },
      {
+      "slug": "national-evaluation-design-supplemental-reading-comprehension-fifth-grade"
+     },
+     {
       "slug": "readabout-positive-impact-second-year-experienced-teachers"
      },
      {
@@ -126271,7 +128544,13 @@
    "reading-comprehension-curricula-no-positive-impact-fifth-grade": {
     "claims": [
      {
+      "slug": "interventions-did-not-improve-pssa-scores"
+     },
+     {
       "slug": "lli-no-impact-adolescent-reading-comprehension"
+     },
+     {
+      "slug": "national-evaluation-design-supplemental-reading-comprehension-fifth-grade"
      },
      {
       "slug": "rct-scale-reading-comprehension-curricula-evaluation"
@@ -126323,10 +128602,19 @@
    "reading-curricula-no-impacts-one-year-after-implementation": {
     "claims": [
      {
+      "slug": "edtech-software-null-average-test-score-effects-year-one"
+     },
+     {
       "slug": "few-student-subgroup-impact-differences-significant"
      },
      {
+      "slug": "interventions-did-not-improve-pssa-scores"
+     },
+     {
       "slug": "long-run-effects-null-seven-studies"
+     },
+     {
+      "slug": "national-evaluation-design-supplemental-reading-comprehension-fifth-grade"
      },
      {
       "slug": "readabout-positive-impact-second-year-experienced-teachers"
@@ -127230,6 +129518,16 @@
      }
     ]
    },
+   "reading-software-effects-correlated-classroom-characteristics": {
+    "claims": [
+     {
+      "slug": "edtech-software-null-average-test-score-effects-year-one"
+     },
+     {
+      "slug": "math-software-effects-uncorrelated-classroom-school-characteristics"
+     }
+    ]
+   },
    "reading-strategy-instruction-improves-comprehension": {
     "claims": [
      {
@@ -127542,6 +129840,9 @@
    },
    "ready4k-improves-teacher-reported-involvement": {
     "claims": [
+     {
+      "slug": "bell-summer-program-increases-parent-reading-encouragement"
+     },
      {
       "slug": "parent-involvement-improves-achievement"
      },
@@ -129415,10 +131716,22 @@
    "regular-tailored-support-helped-teachers-integrate-tools": {
     "claims": [
      {
+      "slug": "lms-integration-eases-ecree-adoption"
+     },
+     {
+      "slug": "monthly-coaching-helped-teachers-integrate-mi-write"
+     },
+     {
       "slug": "some-students-struggled-automated-feedback-use"
      },
      {
+      "slug": "teacher-planning-time-needed-for-mi-write-use"
+     },
+     {
       "slug": "teachers-found-ecree-mi-write-useful-writing-instruction"
+     },
+     {
+      "slug": "teachers-need-tailored-support-time-ecree-integration"
      },
      {
       "slug": "teachers-reported-curriculum-technical-integration-challenges"
@@ -129431,6 +131744,11 @@
      {
       "polarity": "+",
       "slug": "ecree-automated-writing-feedback-tool",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mi-write-automated-writing-feedback-tool",
       "strength": "W"
      }
     ]
@@ -129964,6 +132282,9 @@
       "slug": "argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence"
      },
      {
+      "slug": "grouping-outcomes-impacts-processes-yields-diagnostically-useful-information"
+     },
+     {
       "slug": "latent-variable-models-limit-grain-size"
      },
      {
@@ -130044,6 +132365,16 @@
     "claims": [
      {
       "slug": "y-shaped-structure-challenges-bloom-cumulative-hierarchy"
+     }
+    ]
+   },
+   "remote-learning-not-associated-elementary-teacher-attrition": {
+    "claims": [
+     {
+      "slug": "pa-attrition-gaps-early-career-charter-large-leas"
+     },
+     {
+      "slug": "pa-staff-attrition-rose-4-to-5-percent-pandemic"
      }
     ]
    },
@@ -130361,6 +132692,26 @@
      }
     ]
    },
+   "repeaters-lower-reading-math-end-first-grade": {
+    "claims": [
+     {
+      "slug": "delayed-entrants-behind-in-math-first-grade"
+     },
+     {
+      "slug": "delayed-entrants-slightly-higher-reading-first-grade"
+     },
+     {
+      "slug": "five-percent-repeating-six-percent-delayed-kindergarten-1998"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ecls-k-1998-99-longitudinal-dataset",
+      "strength": "W"
+     }
+    ]
+   },
    "repetition-translation-scaffolding-hinders-learning": {
     "claims": [
      {
@@ -130639,6 +132990,27 @@
      {
       "polarity": "+",
       "slug": "four-category-fairness-resource-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
+   "researcher-disagreement-multiple-testing-tradeoff": {
+    "claims": [
+     {
+      "slug": "multiple-testing-corrections-reduce-power"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "schochet-multiple-testing-guidelines-education",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "bayesian-hypothesis-testing-multiple-testing",
       "strength": "W"
      }
     ]
@@ -132742,6 +135114,9 @@
      },
      {
       "slug": "near-term-academic-problem-types-defined"
+     },
+     {
+      "slug": "typical-school-performance-measures-may-mislead-identification"
      }
     ],
     "elements": [
@@ -133175,6 +135550,9 @@
      },
      {
       "slug": "four-relational-components-coaching-partnership"
+     },
+     {
+      "slug": "pandemic-disruptions-hindered-mi-write-implementation"
      },
      {
       "slug": "promise-formal-partnerships-enhance-collaboration-with-conditions"
@@ -133695,6 +136073,28 @@
     "claims": [
      {
       "slug": "sel-programs-improve-behavior-and-achievement"
+     }
+    ]
+   },
+   "safe-respectful-climate-domain-below-reliability-threshold": {
+    "claims": [
+     {
+      "slug": "pde-elementary-climate-survey-domains-distinct"
+     },
+     {
+      "slug": "pde-elementary-climate-survey-items-measure-intended-constructs"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "pde-elementary-school-climate-survey",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "pde-voluntary-school-climate-survey",
+      "strength": "W"
      }
     ]
    },
@@ -134537,7 +136937,16 @@
    "school-experience-did-not-enlarge-curriculum-impacts": {
     "claims": [
      {
+      "slug": "edtech-software-null-average-test-score-effects-year-one"
+     },
+     {
       "slug": "few-student-subgroup-impact-differences-significant"
+     },
+     {
+      "slug": "interventions-did-not-improve-pssa-scores"
+     },
+     {
+      "slug": "national-evaluation-design-supplemental-reading-comprehension-fifth-grade"
      },
      {
       "slug": "readabout-teacher-experience-positive-impact-es-022"
@@ -134619,6 +137028,35 @@
       "polarity": "+",
       "slug": "high-performing-district-cmo-case-studies",
       "strength": "W"
+     }
+    ]
+   },
+   "school-level-random-assignment-four-math-curricula": {
+    "claims": [
+     {
+      "slug": "curriculum-choice-mattered-early-elementary-math"
+     },
+     {
+      "slug": "ies-math-curricula-evaluation-second-report"
+     },
+     {
+      "slug": "large-scale-experimental-study-curricula-achievement"
+     },
+     {
+      "slug": "math-curricula-relative-effects-disadvantaged-first-second-graders"
+     },
+     {
+      "slug": "nonexperimental-comparison-methods-tested-against-charter-rct-benchmark"
+     },
+     {
+      "slug": "three-math-curricula-outperform-fourth-after-two-years"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mathematica-four-curricula-evaluation-study",
+      "strength": "M"
      }
     ]
    },
@@ -144276,6 +146714,9 @@
    "ses-rd-study-power-012-sd": {
     "claims": [
      {
+      "slug": "bell-elements-causal-attribution-limited"
+     },
+     {
       "slug": "evaluators-target-impacts-below-020-sd"
      },
      {
@@ -144289,6 +146730,9 @@
      },
      {
       "slug": "ses-provider-characteristics-not-related-to-impacts"
+     },
+     {
+      "slug": "tlts-no-detectable-science-effect"
      }
     ]
    },
@@ -144717,6 +147161,25 @@
      {
       "polarity": "+",
       "slug": "high-performing-district-cmo-case-studies",
+      "strength": "W"
+     }
+    ]
+   },
+   "shared-template-promotes-cross-report-continuity": {
+    "claims": [
+     {
+      "slug": "me-template-promotes-cross-solution-continuity"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "me-plan-companion-publications-suite",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "measurement-and-evaluation-plan-template",
       "strength": "W"
      }
     ]
@@ -147910,6 +150373,9 @@
       "slug": "barr-cluster-randomized-psat-math-mixed-cohorts"
      },
      {
+      "slug": "edtech-software-null-average-test-score-effects-year-one"
+     },
+     {
       "slug": "green-dot-attendance-year-four-only"
      },
      {
@@ -148049,6 +150515,9 @@
       "slug": "some-students-struggled-automated-feedback-use"
      },
      {
+      "slug": "students-need-guidance-ecree-feedback-advanced-writers"
+     },
+     {
       "slug": "teachers-found-ecree-useful-but-some-students-overwhelmed"
      }
     ],
@@ -148063,6 +150532,9 @@
    "some-students-struggled-automated-feedback-use": {
     "claims": [
      {
+      "slug": "automated-feedback-supplements-not-replaces-teacher-feedback"
+     },
+     {
       "slug": "ecree-easy-to-use-and-helpful-per-teachers-and-students"
      },
      {
@@ -148073,6 +150545,9 @@
      },
      {
       "slug": "some-students-overwhelmed-by-ecree-feedback"
+     },
+     {
+      "slug": "students-need-guidance-ecree-feedback-advanced-writers"
      },
      {
       "slug": "teachers-found-ecree-mi-write-useful-writing-instruction"
@@ -148091,6 +150566,11 @@
      {
       "polarity": "-",
       "slug": "ecree-automated-writing-feedback-tool",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "mi-write-automated-writing-feedback-tool",
       "strength": "W"
      }
     ]
@@ -149831,6 +152311,29 @@
      }
     ]
    },
+   "special-validity-analysis-puerto-rico-naep": {
+    "claims": [
+     {
+      "slug": "item-misfit-problems-2003-puerto-rico-data"
+     },
+     {
+      "slug": "pr-grade4-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "preliminary-analyses-drove-2005-procedure-changes"
+     },
+     {
+      "slug": "trial-spanish-naep-math-puerto-rico-2003"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "trial-spanish-naep-math-assessment-puerto-rico",
+      "strength": "W"
+     }
+    ]
+   },
    "specialization-emphasis-moderates-collaboration": {
     "claims": [
      {
@@ -151070,6 +153573,9 @@
    "springboard-summer-gains-vary-by-starting-level": {
     "claims": [
      {
+      "slug": "low-income-summer-test-score-drop"
+     },
+     {
       "slug": "springboard-summer-attendance-threshold-null"
      },
      {
@@ -151089,6 +153595,9 @@
    },
    "springboard-summer-outperforms-matched-comparison": {
     "claims": [
+     {
+      "slug": "low-income-summer-test-score-drop"
+     },
      {
       "slug": "springboard-summer-attendance-threshold-null"
      },
@@ -151112,6 +153621,9 @@
    },
    "springboard-summer-significant-reading-gains": {
     "claims": [
+     {
+      "slug": "low-income-summer-test-score-drop"
+     },
      {
       "slug": "springboard-summer-attendance-threshold-null"
      },
@@ -151818,6 +154330,9 @@
       "slug": "intervention-value-depends-stakeholder-vantage-point"
      },
      {
+      "slug": "me-selection-challenging-multi-solution-investments"
+     },
+     {
       "slug": "promise-service-costs-relatively-large-investments"
      },
      {
@@ -152338,6 +154853,9 @@
     "claims": [
      {
       "slug": "standardized-tests-problematic-young-children-outcomes"
+     },
+     {
+      "slug": "typical-school-performance-measures-may-mislead-identification"
      }
     ],
     "elements": [
@@ -152482,6 +155000,9 @@
    },
    "stella-comparison-pd-equivalent-implementation-ratings": {
     "claims": [
+     {
+      "slug": "math-program-implementation-similarity-may-explain-null-effect"
+     },
      {
       "slug": "stella-cluster-rct-taylor-2017"
      },
@@ -155355,6 +157876,19 @@
      }
     ]
    },
+   "students-need-guidance-ecree-feedback-advanced-writers": {
+    "claims": [
+     {
+      "slug": "some-students-overwhelmed-by-ecree-feedback"
+     },
+     {
+      "slug": "some-students-struggled-automated-feedback-use"
+     },
+     {
+      "slug": "teachers-found-ecree-useful-but-some-students-overwhelmed"
+     }
+    ]
+   },
    "students-notice-missing-practice-and-examples": {
     "claims": [
      {
@@ -156526,6 +159060,12 @@
    "summer-reading-loss-widens-gaps": {
     "claims": [
      {
+      "slug": "bell-summer-program-improves-reading-scores"
+     },
+     {
+      "slug": "low-income-summer-test-score-drop"
+     },
+     {
       "slug": "teacher-effectiveness-compounds-over-consecutive-years"
      }
     ]
@@ -157325,6 +159865,9 @@
     "claims": [
      {
       "slug": "call-for-black-box-research-institutional-environment"
+     },
+     {
+      "slug": "departmentalization-effects-achievement-retention-unclear"
      },
      {
       "slug": "wpa-conflict-responses-somatic-physical-trope"
@@ -159558,6 +162101,9 @@
       "slug": "disadvantaged-students-less-effective-teaching"
      },
      {
+      "slug": "early-math-gaps-grow-by-fourth-grade"
+     },
+     {
       "slug": "illusory-correlations-persist-through-confirmation-bias"
      },
      {
@@ -160185,6 +162731,22 @@
      }
     ]
    },
+   "teacher-planning-time-needed-for-mi-write-use": {
+    "claims": [
+     {
+      "slug": "curriculum-integration-alignment-barrier-mi-write"
+     },
+     {
+      "slug": "regular-tailored-support-helped-teachers-integrate-tools"
+     },
+     {
+      "slug": "teachers-reported-curriculum-technical-integration-challenges"
+     },
+     {
+      "slug": "teachers-used-ecree-less-than-intended-lacking-time"
+     }
+    ]
+   },
    "teacher-practices-subgroup-differences-mostly-null": {
     "claims": [
      {
@@ -160467,6 +163029,9 @@
      },
      {
       "slug": "motivational-assessments-correlate-weakly-near-tests"
+     },
+     {
+      "slug": "no-menu-of-dropout-prevention-program-options-yet"
      },
      {
       "slug": "parent-involvement-improves-achievement"
@@ -160844,6 +163409,12 @@
       "slug": "ecree-likely-improved-writing-quality-especially-less-advanced-starters"
      },
      {
+      "slug": "ecree-study-examined-use-and-impacts-2021-2022"
+     },
+     {
+      "slug": "mi-write-study-examined-use-and-impact"
+     },
+     {
       "slug": "regular-tailored-support-helped-teachers-integrate-tools"
      },
      {
@@ -160864,6 +163435,11 @@
       "polarity": "+",
       "slug": "ecree-automated-writing-feedback-tool",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mi-write-automated-writing-feedback-tool",
+      "strength": "W"
      }
     ]
    },
@@ -160871,6 +163447,9 @@
     "claims": [
      {
       "slug": "about-half-of-students-found-ecree-easy-and-helpful"
+     },
+     {
+      "slug": "automated-feedback-supplements-not-replaces-teacher-feedback"
      },
      {
       "slug": "ecree-easy-to-use-and-helpful-per-teachers-and-students"
@@ -160882,10 +163461,19 @@
       "slug": "ecree-likely-improved-writing-quality-especially-less-advanced-starters"
      },
      {
+      "slug": "ecree-study-examined-use-and-impacts-2021-2022"
+     },
+     {
+      "slug": "mi-write-study-examined-use-and-impact"
+     },
+     {
       "slug": "some-students-overwhelmed-by-ecree-feedback"
      },
      {
       "slug": "some-students-struggled-automated-feedback-use"
+     },
+     {
+      "slug": "students-need-guidance-ecree-feedback-advanced-writers"
      },
      {
       "slug": "teachers-found-ecree-mi-write-useful-writing-instruction"
@@ -161116,6 +163704,22 @@
      }
     ]
    },
+   "teachers-need-tailored-support-time-ecree-integration": {
+    "claims": [
+     {
+      "slug": "ecree-study-examined-use-and-impacts-2021-2022"
+     },
+     {
+      "slug": "lms-integration-eases-ecree-adoption"
+     },
+     {
+      "slug": "regular-tailored-support-helped-teachers-integrate-tools"
+     },
+     {
+      "slug": "teachers-used-ecree-less-than-intended-lacking-time"
+     }
+    ]
+   },
    "teachers-of-adults-do-not-vary-practices": {
     "claims": [
      {
@@ -161168,13 +163772,25 @@
    "teachers-reported-curriculum-technical-integration-challenges": {
     "claims": [
      {
+      "slug": "curriculum-integration-alignment-barrier-mi-write"
+     },
+     {
       "slug": "ecree-easy-to-use-and-helpful-per-teachers-and-students"
+     },
+     {
+      "slug": "ecree-feedback-less-useful-when-misaligned"
+     },
+     {
+      "slug": "lms-integration-eases-ecree-adoption"
      },
      {
       "slug": "regular-tailored-support-helped-teachers-integrate-tools"
      },
      {
       "slug": "some-students-struggled-automated-feedback-use"
+     },
+     {
+      "slug": "teacher-planning-time-needed-for-mi-write-use"
      },
      {
       "slug": "teachers-found-ecree-mi-write-useful-writing-instruction"
@@ -161187,6 +163803,11 @@
      {
       "polarity": "-",
       "slug": "ecree-automated-writing-feedback-tool",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "mi-write-automated-writing-feedback-tool",
       "strength": "W"
      }
     ]
@@ -161337,13 +163958,31 @@
       "slug": "ecree-district-costs-depend-on-implementation-lower-for-larger-districts"
      },
      {
+      "slug": "ecree-study-examined-use-and-impacts-2021-2022"
+     },
+     {
+      "slug": "lms-integration-eases-ecree-adoption"
+     },
+     {
+      "slug": "mi-write-study-examined-use-and-impact"
+     },
+     {
+      "slug": "monthly-coaching-helped-teachers-integrate-mi-write"
+     },
+     {
       "slug": "regular-tailored-support-helped-teachers-integrate-tools"
      },
      {
       "slug": "some-students-struggled-automated-feedback-use"
      },
      {
+      "slug": "teacher-planning-time-needed-for-mi-write-use"
+     },
+     {
       "slug": "teachers-found-ecree-mi-write-useful-writing-instruction"
+     },
+     {
+      "slug": "teachers-need-tailored-support-time-ecree-integration"
      },
      {
       "slug": "teachers-reported-curriculum-technical-integration-challenges"
@@ -161601,6 +164240,22 @@
       "polarity": "+",
       "slug": "technology-imagery-perception-model",
       "strength": "M"
+     }
+    ]
+   },
+   "technology-pivot-expanded-apprenticeship-agency-reach": {
+    "claims": [
+     {
+      "slug": "employer-reluctance-no-mass-cancellations"
+     },
+     {
+      "slug": "nontraditional-industry-expansion-accelerated"
+     },
+     {
+      "slug": "online-apprenticeship-learning-flexibility-tradeoffs"
+     },
+     {
+      "slug": "providers-adapted-in-person-training-online"
      }
     ]
    },
@@ -162856,6 +165511,34 @@
      }
     ]
    },
+   "tfa-findings-contradict-harm-claims": {
+    "claims": [
+     {
+      "slug": "clark-2013-tfa-secondary-math-rct-positive"
+     },
+     {
+      "slug": "clark-2015-elementary-tfa-indeterminate"
+     },
+     {
+      "slug": "tfa-no-impacts-attendance-promotion-discipline"
+     },
+     {
+      "slug": "tfa-no-reading-achievement-impact"
+     },
+     {
+      "slug": "tfa-positive-math-achievement-impact"
+     },
+     {
+      "slug": "tfa-teachers-report-more-behavior-problems"
+     },
+     {
+      "slug": "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification"
+     },
+     {
+      "slug": "tfa-teaching-fellows-math-teachers-sometimes-more-effective"
+     }
+    ]
+   },
    "tfa-first-two-years-beat-experienced-non-tfa": {
     "claims": [
      {
@@ -162898,6 +165581,9 @@
      },
      {
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
+     },
+     {
+      "slug": "tfa-positive-math-achievement-impact"
      },
      {
       "slug": "tfa-positive-mathematics-achievement-effects"
@@ -162968,6 +165654,72 @@
      }
     ]
    },
+   "tfa-no-impacts-attendance-promotion-discipline": {
+    "claims": [
+     {
+      "slug": "tfa-findings-contradict-harm-claims"
+     },
+     {
+      "slug": "tfa-no-reading-achievement-impact"
+     },
+     {
+      "slug": "tfa-positive-math-achievement-impact"
+     },
+     {
+      "slug": "tfa-teachers-report-more-behavior-problems"
+     }
+    ]
+   },
+   "tfa-no-reading-achievement-impact": {
+    "claims": [
+     {
+      "slug": "clark-2013-tfa-secondary-math-rct-positive"
+     },
+     {
+      "slug": "tfa-findings-contradict-harm-claims"
+     },
+     {
+      "slug": "tfa-no-impacts-attendance-promotion-discipline"
+     },
+     {
+      "slug": "tfa-positive-math-achievement-impact"
+     },
+     {
+      "slug": "tfa-positive-mathematics-achievement-effects"
+     },
+     {
+      "slug": "tfa-teachers-report-more-behavior-problems"
+     },
+     {
+      "slug": "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification"
+     },
+     {
+      "slug": "tfa-teaching-fellows-math-teachers-sometimes-more-effective"
+     }
+    ]
+   },
+   "tfa-positive-math-achievement-impact": {
+    "claims": [
+     {
+      "slug": "clark-2013-tfa-secondary-math-rct-positive"
+     },
+     {
+      "slug": "tfa-findings-contradict-harm-claims"
+     },
+     {
+      "slug": "tfa-math-teachers-raise-achievement-007-sd"
+     },
+     {
+      "slug": "tfa-no-impacts-attendance-promotion-discipline"
+     },
+     {
+      "slug": "tfa-no-reading-achievement-impact"
+     },
+     {
+      "slug": "tfa-positive-mathematics-achievement-effects"
+     }
+    ]
+   },
    "tfa-positive-mathematics-achievement-effects": {
     "claims": [
      {
@@ -162996,6 +165748,12 @@
      },
      {
       "slug": "tfa-no-discernible-ela-effects"
+     },
+     {
+      "slug": "tfa-no-reading-achievement-impact"
+     },
+     {
+      "slug": "tfa-positive-math-achievement-impact"
      },
      {
       "slug": "tfa-potentially-positive-science-effects"
@@ -163085,6 +165843,19 @@
      }
     ]
    },
+   "tfa-teachers-report-more-behavior-problems": {
+    "claims": [
+     {
+      "slug": "tfa-findings-contradict-harm-claims"
+     },
+     {
+      "slug": "tfa-no-impacts-attendance-promotion-discipline"
+     },
+     {
+      "slug": "tfa-no-reading-achievement-impact"
+     }
+    ]
+   },
    "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification": {
     "claims": [
      {
@@ -163100,7 +165871,13 @@
       "slug": "tfa-corps-no-significant-reading-effect-elementary"
      },
      {
+      "slug": "tfa-findings-contradict-harm-claims"
+     },
+     {
       "slug": "tfa-math-teachers-raise-achievement-007-sd"
+     },
+     {
+      "slug": "tfa-no-reading-achievement-impact"
      },
      {
       "slug": "tfa-positive-mathematics-achievement-effects"
@@ -163142,7 +165919,13 @@
       "slug": "first-large-scale-experimental-study-tfa-math"
      },
      {
+      "slug": "tfa-findings-contradict-harm-claims"
+     },
+     {
       "slug": "tfa-math-teachers-raise-achievement-007-sd"
+     },
+     {
+      "slug": "tfa-no-reading-achievement-impact"
      },
      {
       "slug": "tfa-positive-mathematics-achievement-effects"
@@ -163648,6 +166431,15 @@
      }
     ]
    },
+   "thousands-of-new-teachers-hundreds-of-preparation-programs": {
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "teacher-preparation-models-impact-evaluation-design",
+      "strength": "W"
+     }
+    ]
+   },
    "thread-structure-designerly-talk-corpus": {
     "claims": [
      {
@@ -163755,6 +166547,11 @@
       "polarity": "+",
       "slug": "four-elementary-math-curricula-evaluation-set",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mathematica-four-curricula-evaluation-study",
+      "strength": "M"
      }
     ]
    },
@@ -163811,6 +166608,9 @@
      },
      {
       "slug": "math-expressions-saxon-percentile-advantage-first-grade"
+     },
+     {
+      "slug": "school-level-random-assignment-four-math-curricula"
      },
      {
       "slug": "three-elementary-math-curricula-outperform-fourth-two-years"
@@ -164630,6 +167430,123 @@
       "polarity": "+",
       "slug": "value-added-models-separate-teacher-contributions",
       "strength": "W"
+     }
+    ]
+   },
+   "tlts-fidelity-two-key-components": {
+    "claims": [
+     {
+      "slug": "fast-fidelity-high-reach-low"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tntp-turnaround-leadership-teams-strategy",
+      "strength": "M"
+     }
+    ]
+   },
+   "tlts-grade8-social-studies-negative-effect": {
+    "claims": [
+     {
+      "slug": "tlts-no-detectable-science-effect"
+     },
+     {
+      "slug": "tlts-two-year-ela-effect-005-sd"
+     },
+     {
+      "slug": "tlts-two-year-math-effect-009-sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "tntp-turnaround-leadership-teams-strategy",
+      "strength": "M"
+     }
+    ]
+   },
+   "tlts-no-detectable-science-effect": {
+    "claims": [
+     {
+      "slug": "evaluators-target-impacts-below-020-sd"
+     },
+     {
+      "slug": "ses-rd-study-power-012-sd"
+     },
+     {
+      "slug": "tlts-grade8-social-studies-negative-effect"
+     },
+     {
+      "slug": "tlts-two-year-ela-effect-005-sd"
+     },
+     {
+      "slug": "tlts-two-year-math-effect-009-sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "tntp-turnaround-leadership-teams-strategy",
+      "strength": "M"
+     }
+    ]
+   },
+   "tlts-per-pupil-cost-242": {
+    "claims": [
+     {
+      "slug": "pef-facility-payment-model-costs-and-benefits-both-increased"
+     },
+     {
+      "slug": "pef-fy2024-cost-76-million-up-from-54-million"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tntp-turnaround-leadership-teams-strategy",
+      "strength": "M"
+     }
+    ]
+   },
+   "tlts-two-year-ela-effect-005-sd": {
+    "claims": [
+     {
+      "slug": "tlts-grade8-social-studies-negative-effect"
+     },
+     {
+      "slug": "tlts-no-detectable-science-effect"
+     },
+     {
+      "slug": "tlts-two-year-math-effect-009-sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tntp-turnaround-leadership-teams-strategy",
+      "strength": "M"
+     }
+    ]
+   },
+   "tlts-two-year-math-effect-009-sd": {
+    "claims": [
+     {
+      "slug": "tlts-grade8-social-studies-negative-effect"
+     },
+     {
+      "slug": "tlts-no-detectable-science-effect"
+     },
+     {
+      "slug": "tlts-two-year-ela-effect-005-sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tntp-turnaround-leadership-teams-strategy",
+      "strength": "M"
      }
     ]
    },
@@ -166203,6 +169120,41 @@
      }
     ]
    },
+   "trial-spanish-naep-math-puerto-rico-2003": {
+    "claims": [
+     {
+      "slug": "item-misfit-problems-2003-puerto-rico-data"
+     },
+     {
+      "slug": "pr-2003-achievement-levels-basic-far-below-nation"
+     },
+     {
+      "slug": "pr-2005-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-grade4-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-grade8-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "pr-measurement-content-area-largest-gap"
+     },
+     {
+      "slug": "preliminary-analyses-drove-2005-procedure-changes"
+     },
+     {
+      "slug": "special-validity-analysis-puerto-rico-naep"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "trial-spanish-naep-math-assessment-puerto-rico",
+      "strength": "W"
+     }
+    ]
+   },
    "trigg-ohear-bogus-demand-argument-rejected": {
     "claims": [
      {
@@ -167218,6 +170170,16 @@
      }
     ]
    },
+   "typical-school-performance-measures-may-mislead-identification": {
+    "claims": [
+     {
+      "slug": "risk-model-assessed-two-allegheny-agencies"
+     },
+     {
+      "slug": "state-assessment-growth-measures-limited-reading-math-grades-4-8"
+     }
+    ]
+   },
    "typology-renders-effort-expectancy-nonsignificant": {
     "claims": [
      {
@@ -167396,6 +170358,9 @@
      },
      {
       "slug": "guided-reflection-increases-reflective-judgment-sophistication"
+     },
+     {
+      "slug": "little-research-teacher-training-strategy-effectiveness"
      },
      {
       "slug": "reflective-judgment-levels-shape-dilemma-perception-and-action"
@@ -171820,6 +174785,12 @@
       "slug": "corrective-reading-subgroup-moderators"
      },
      {
+      "slug": "no-consistent-subgroup-benefit-reading-interventions"
+     },
+     {
+      "slug": "power4kids-four-reading-interventions-compared"
+     },
+     {
       "slug": "wilson-reading-system-potentially-positive-alphabetics"
      }
     ],
@@ -174792,6 +177763,12 @@
       "slug": "few-student-subgroup-impact-differences-significant"
      },
      {
+      "slug": "interventions-did-not-improve-pssa-scores"
+     },
+     {
+      "slug": "national-evaluation-design-supplemental-reading-comprehension-fifth-grade"
+     },
+     {
       "slug": "readabout-teacher-experience-positive-impact-es-022"
      },
      {
@@ -174881,6 +177858,22 @@
       "polarity": "+",
       "slug": "interactive-model-of-reading-schwantes",
       "strength": "M"
+     }
+    ]
+   },
+   "younger-struggling-readers-benefited-more": {
+    "claims": [
+     {
+      "slug": "failure-free-reading-impacts-third-grade-only"
+     },
+     {
+      "slug": "four-reading-interventions-improved-third-grade-reading-one-year-later"
+     },
+     {
+      "slug": "interventions-did-not-improve-pssa-scores"
+     },
+     {
+      "slug": "interventions-narrowed-reading-gap-word-attack"
      }
     ]
    },
@@ -176148,6 +179141,20 @@
     "theories": [
      {
       "slug": "latent-interpretation-classes-framework"
+     }
+    ]
+   },
+   "21st-cclc-elementary-afterschool-program-element": {
+    "elements": [
+     {
+      "slug": "21st-century-community-learning-centers-program"
+     }
+    ]
+   },
+   "21st-century-community-learning-centers-program": {
+    "elements": [
+     {
+      "slug": "21st-cclc-elementary-afterschool-program-element"
      }
     ]
    },
@@ -197293,6 +200300,9 @@
     "elements": [
      {
       "slug": "dc-value-added-assessment-system"
+     },
+     {
+      "slug": "teacher-level-value-added-model-memphis"
      }
     ],
     "theories": [
@@ -199345,6 +202355,13 @@
      }
     ]
    },
+   "ecree-automated-writing-feedback-tool": {
+    "elements": [
+     {
+      "slug": "mi-write-automated-writing-feedback-tool"
+     }
+    ]
+   },
    "ecri-professional-development-workbooks-leadership-guide": {
     "elements": [
      {
@@ -199948,7 +202965,17 @@
       "slug": "four-elementary-math-curricula-compared"
      },
      {
+      "slug": "mathematica-four-curricula-evaluation-study"
+     },
+     {
       "slug": "ncee-elementary-math-curricula-technical-appendix"
+     }
+    ]
+   },
+   "evaluation-of-reading-comprehension-interventions-design": {
+    "elements": [
+     {
+      "slug": "national-study-reading-comprehension-interventions-2004-2010"
      }
     ]
    },
@@ -202157,6 +205184,13 @@
      }
     ]
    },
+   "four-reading-interventions-striving-readers-element": {
+    "elements": [
+     {
+      "slug": "power4kids-evaluation-three-studies"
+     }
+    ]
+   },
    "four-supplemental-reading-comprehension-curricula": {
     "elements": [
      {
@@ -202797,6 +205831,37 @@
      },
      {
       "slug": "cooperative-learning"
+     }
+    ]
+   },
+   "guide-setting-targets-research-questions": {
+    "elements": [
+     {
+      "slug": "me-plan-template-roadmap"
+     },
+     {
+      "slug": "measurement-and-evaluation-reporting-template"
+     },
+     {
+      "slug": "measurement-evaluation-needs-inventory-tool"
+     },
+     {
+      "slug": "sample-size-guide-mathematica"
+     }
+    ]
+   },
+   "guide-to-measuring-implementation-3us-resource": {
+    "elements": [
+     {
+      "slug": "mathematica-grantee-measurement-tool-suite"
+     },
+     {
+      "slug": "me-plan-companion-publications-suite"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "3us-framework-usability-usefulness-utilization"
      }
     ]
    },
@@ -205359,6 +208424,55 @@
      },
      {
       "slug": "teach-for-america-teacher-supply-program"
+     },
+     {
+      "slug": "teacher-preparation-models-impact-evaluation-design"
+     }
+    ]
+   },
+   "mathematica-ecree-study-methods-documentation": {
+    "elements": [
+     {
+      "slug": "mi-write-study-briefs-series"
+     }
+    ]
+   },
+   "mathematica-evidence-based-solutions-tool-suite": {
+    "elements": [
+     {
+      "slug": "mathematica-grantee-measurement-tool-suite"
+     },
+     {
+      "slug": "me-plan-companion-publications-suite"
+     },
+     {
+      "slug": "prior-research-table-tool"
+     },
+     {
+      "slug": "sample-size-guide-mathematica"
+     }
+    ]
+   },
+   "mathematica-four-curricula-evaluation-study": {
+    "elements": [
+     {
+      "slug": "evaluation-of-mathematics-curricula-project"
+     }
+    ]
+   },
+   "mathematica-grantee-measurement-tool-suite": {
+    "elements": [
+     {
+      "slug": "guide-to-measuring-implementation-3us-resource"
+     },
+     {
+      "slug": "mathematica-evidence-based-solutions-tool-suite"
+     },
+     {
+      "slug": "me-plan-companion-publications-suite"
+     },
+     {
+      "slug": "sample-size-guide-mathematica"
      }
     ]
    },
@@ -205397,10 +208511,174 @@
      }
     ]
    },
+   "me-checklist-evidence-building-resource": {
+    "elements": [
+     {
+      "slug": "me-checklist-phase-1-design-the-solution"
+     },
+     {
+      "slug": "me-checklist-phase-3-early-evidence-document"
+     },
+     {
+      "slug": "me-checklist-refine-solution-phase-2"
+     },
+     {
+      "slug": "sample-size-guide-mathematica"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-phase-evidence-building-framework-me-checklist"
+     },
+     {
+      "slug": "four-phase-evidence-building-process-me-checklist"
+     },
+     {
+      "slug": "four-phase-evidence-building-process"
+     }
+    ]
+   },
    "me-checklist-phase-1-design-the-solution": {
+    "elements": [
+     {
+      "slug": "me-checklist-evidence-building-resource"
+     },
+     {
+      "slug": "me-checklist-phase-3-early-evidence-document"
+     },
+     {
+      "slug": "me-checklist-refine-solution-phase-2"
+     },
+     {
+      "slug": "sample-size-guide-mathematica"
+     }
+    ],
     "theories": [
      {
       "slug": "four-phase-evidence-building-process"
+     }
+    ]
+   },
+   "me-checklist-phase-3-early-evidence-document": {
+    "elements": [
+     {
+      "slug": "me-checklist-evidence-building-resource"
+     },
+     {
+      "slug": "me-checklist-phase-1-design-the-solution"
+     },
+     {
+      "slug": "me-checklist-refine-solution-phase-2"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-phase-evidence-building-framework-me-checklist"
+     },
+     {
+      "slug": "four-phase-evidence-building-process-me-checklist"
+     },
+     {
+      "slug": "four-phase-evidence-building-process"
+     }
+    ]
+   },
+   "me-checklist-refine-solution-phase-2": {
+    "elements": [
+     {
+      "slug": "me-checklist-evidence-building-resource"
+     },
+     {
+      "slug": "me-checklist-phase-1-design-the-solution"
+     },
+     {
+      "slug": "me-checklist-phase-3-early-evidence-document"
+     },
+     {
+      "slug": "sample-size-guide-mathematica"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-phase-evidence-building-framework-me-checklist"
+     },
+     {
+      "slug": "four-phase-evidence-building-process-me-checklist"
+     },
+     {
+      "slug": "four-phase-evidence-building-process"
+     }
+    ]
+   },
+   "me-plan-companion-publications-suite": {
+    "elements": [
+     {
+      "slug": "guide-to-measuring-implementation-3us-resource"
+     },
+     {
+      "slug": "mathematica-evidence-based-solutions-tool-suite"
+     },
+     {
+      "slug": "mathematica-grantee-measurement-tool-suite"
+     },
+     {
+      "slug": "me-plan-template-roadmap"
+     },
+     {
+      "slug": "measurement-and-evaluation-plan-template"
+     },
+     {
+      "slug": "measurement-and-evaluation-reporting-template"
+     }
+    ]
+   },
+   "me-plan-template-roadmap": {
+    "elements": [
+     {
+      "slug": "guide-setting-targets-research-questions"
+     },
+     {
+      "slug": "me-plan-companion-publications-suite"
+     },
+     {
+      "slug": "measurement-and-evaluation-plan-template"
+     },
+     {
+      "slug": "measurement-and-evaluation-reporting-template"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-phase-me-evidence-building-approach"
+     }
+    ]
+   },
+   "measurement-and-evaluation-plan-template": {
+    "elements": [
+     {
+      "slug": "me-plan-companion-publications-suite"
+     },
+     {
+      "slug": "me-plan-template-roadmap"
+     },
+     {
+      "slug": "measurement-and-evaluation-reporting-template"
+     }
+    ]
+   },
+   "measurement-and-evaluation-reporting-template": {
+    "elements": [
+     {
+      "slug": "guide-setting-targets-research-questions"
+     },
+     {
+      "slug": "me-plan-companion-publications-suite"
+     },
+     {
+      "slug": "me-plan-template-roadmap"
+     },
+     {
+      "slug": "measurement-and-evaluation-plan-template"
      }
     ]
    },
@@ -205408,6 +208686,9 @@
     "elements": [
      {
       "slug": "canfield-learning-and-instructional-styles-inventories"
+     },
+     {
+      "slug": "guide-setting-targets-research-questions"
      },
      {
       "slug": "self-assessment-place-based-systems-change-efforts"
@@ -205529,6 +208810,26 @@
     "principles": [
      {
       "slug": "self-regulated-learning"
+     }
+    ]
+   },
+   "mi-write-automated-writing-feedback-tool": {
+    "elements": [
+     {
+      "slug": "ecree-automated-writing-feedback-tool"
+     },
+     {
+      "slug": "mi-write-study-briefs-series"
+     }
+    ]
+   },
+   "mi-write-study-briefs-series": {
+    "elements": [
+     {
+      "slug": "mathematica-ecree-study-methods-documentation"
+     },
+     {
+      "slug": "mi-write-automated-writing-feedback-tool"
      }
     ]
    },
@@ -206001,6 +209302,13 @@
      }
     ]
    },
+   "national-study-reading-comprehension-interventions-2004-2010": {
+    "elements": [
+     {
+      "slug": "evaluation-of-reading-comprehension-interventions-design"
+     }
+    ]
+   },
    "ncee-elementary-math-curricula-technical-appendix": {
     "elements": [
      {
@@ -206042,6 +209350,9 @@
      },
      {
       "slug": "mathematica-value-added-approach-oklahoma-tle"
+     },
+     {
+      "slug": "teacher-level-value-added-model-memphis"
      }
     ]
    },
@@ -206657,6 +209968,13 @@
      }
     ]
    },
+   "outcomes-impacts-processes-framework-publication": {
+    "theories": [
+     {
+      "slug": "outcomes-impacts-processes-school-performance-framework"
+     }
+    ]
+   },
    "pals-materials-and-cost": {
     "elements": [
      {
@@ -206921,6 +210239,20 @@
     "strategies": [
      {
       "slug": "pax-gbg-onsite-training-parent-manuals"
+     }
+    ]
+   },
+   "pde-elementary-school-climate-survey": {
+    "elements": [
+     {
+      "slug": "pde-voluntary-school-climate-survey"
+     }
+    ]
+   },
+   "pde-voluntary-school-climate-survey": {
+    "elements": [
+     {
+      "slug": "pde-elementary-school-climate-survey"
      }
     ]
    },
@@ -207846,6 +211178,9 @@
     "elements": [
      {
       "slug": "pennsylvania-teacher-principal-evaluation-pilot"
+     },
+     {
+      "slug": "teacher-level-value-added-model-memphis"
      }
     ]
    },
@@ -208023,6 +211358,9 @@
      },
      {
       "slug": "pittsburgh-value-added-models-2012-13"
+     },
+     {
+      "slug": "teacher-level-value-added-model-memphis"
      }
     ],
     "theories": [
@@ -208118,6 +211456,13 @@
     "elements": [
      {
       "slug": "simultaneity-proximity-social-skills-group-evaluation"
+     }
+    ]
+   },
+   "power4kids-evaluation-three-studies": {
+    "elements": [
+     {
+      "slug": "four-reading-interventions-striving-readers-element"
      }
     ]
    },
@@ -211144,6 +214489,24 @@
      }
     ]
    },
+   "prior-research-table-tool": {
+    "elements": [
+     {
+      "slug": "mathematica-evidence-based-solutions-tool-suite"
+     },
+     {
+      "slug": "sample-size-guide-mathematica"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-phase-evidence-building-framework-me-checklist"
+     },
+     {
+      "slug": "four-phase-evidence-building-process-me-checklist"
+     }
+    ]
+   },
    "prism-production-system-interpreter": {
     "elements": [
      {
@@ -214092,6 +217455,36 @@
      }
     ]
    },
+   "sample-size-guide-mathematica": {
+    "elements": [
+     {
+      "slug": "guide-setting-targets-research-questions"
+     },
+     {
+      "slug": "mathematica-evidence-based-solutions-tool-suite"
+     },
+     {
+      "slug": "mathematica-grantee-measurement-tool-suite"
+     },
+     {
+      "slug": "me-checklist-evidence-building-resource"
+     },
+     {
+      "slug": "me-checklist-phase-1-design-the-solution"
+     },
+     {
+      "slug": "me-checklist-refine-solution-phase-2"
+     },
+     {
+      "slug": "prior-research-table-tool"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-phase-evidence-building-framework-me-checklist"
+     }
+    ]
+   },
    "sas-nlmixed-irt-testlet-implementation": {
     "theories": [
      {
@@ -216450,6 +219843,13 @@
      }
     ]
    },
+   "study-of-school-turnaround-ell-sig-case-studies": {
+    "elements": [
+     {
+      "slug": "tntp-turnaround-leadership-teams-strategy"
+     }
+    ]
+   },
    "submission": {
     "strategies": [
      {
@@ -216673,6 +220073,9 @@
      },
      {
       "slug": "teach-for-america-teacher-supply-program"
+     },
+     {
+      "slug": "teacher-apprenticeship-programs-shortage-approach"
      }
     ],
     "theories": [
@@ -216707,6 +220110,29 @@
      }
     ]
    },
+   "teacher-apprenticeship-programs-shortage-approach": {
+    "elements": [
+     {
+      "slug": "teach-for-america-program-element"
+     }
+    ]
+   },
+   "teacher-level-value-added-model-memphis": {
+    "elements": [
+     {
+      "slug": "dc-impact-team-value-added-model"
+     },
+     {
+      "slug": "new-leaders-effectiveness-identification-methods"
+     },
+     {
+      "slug": "pennsylvania-pilot-phase1-vam-estimates"
+     },
+     {
+      "slug": "pittsburgh-value-added-models-teacher-school-contributions"
+     }
+    ]
+   },
    "teacher-potential-project-curriculum-pd": {
     "elements": [
      {
@@ -216724,6 +220150,13 @@
      },
      {
       "slug": "teacher-potential-project-curriculum-pd"
+     }
+    ]
+   },
+   "teacher-preparation-models-impact-evaluation-design": {
+    "elements": [
+     {
+      "slug": "mathematica-alt-cert-random-assignment-study"
      }
     ]
    },
@@ -217958,6 +221391,13 @@
      },
      {
       "slug": "wraparound-counseling-special-ed-support"
+     }
+    ]
+   },
+   "tntp-turnaround-leadership-teams-strategy": {
+    "elements": [
+     {
+      "slug": "study-of-school-turnaround-ell-sig-case-studies"
      }
     ]
    },
@@ -247243,6 +250683,26 @@
      }
     ]
    },
+   "3us-framework-usability-usefulness-utilization": {
+    "elements": [
+     {
+      "slug": "guide-to-measuring-implementation-3us-resource"
+     },
+     {
+      "slug": "mathematica-grantee-measurement-tool-suite"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "measure-3us-during-development-and-early-implementation"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-phase-evidence-building-framework-me-checklist"
+     }
+    ]
+   },
    "4p4ct-four-pedagogies-for-ct-framework": {
     "elements": [
      {
@@ -247941,6 +251401,9 @@
     "theories": [
      {
       "slug": "bayesian-adaptive-program-evaluation-framework"
+     },
+     {
+      "slug": "bayesian-hypothesis-testing-multiple-testing"
      }
     ]
    },
@@ -247953,6 +251416,39 @@
     "theories": [
      {
       "slug": "bayesian-adaptive-policy-evaluation-heterogeneous-effects"
+     },
+     {
+      "slug": "bayesian-hypothesis-testing-multiple-testing"
+     }
+    ]
+   },
+   "bayesian-factorial-design-hierarchical-partial-pooling": {
+    "theories": [
+     {
+      "slug": "bayesian-hypothesis-testing-multiple-testing"
+     }
+    ]
+   },
+   "bayesian-factorial-design-hierarchical-priors": {
+    "theories": [
+     {
+      "slug": "bayesian-hypothesis-testing-multiple-testing"
+     }
+    ]
+   },
+   "bayesian-hypothesis-testing-multiple-testing": {
+    "theories": [
+     {
+      "slug": "bayesian-adaptive-policy-evaluation-heterogeneous-effects"
+     },
+     {
+      "slug": "bayesian-adaptive-program-evaluation-framework"
+     },
+     {
+      "slug": "bayesian-factorial-design-hierarchical-partial-pooling"
+     },
+     {
+      "slug": "bayesian-factorial-design-hierarchical-priors"
      }
     ]
    },
@@ -252733,6 +256229,11 @@
      {
       "slug": "intermediary-capacity-building-four-supports"
      }
+    ],
+    "theories": [
+     {
+      "slug": "nsi-conceptual-framework-networked-ci"
+     }
     ]
    },
    "essa-state-discretion-framework": {
@@ -254134,10 +257635,44 @@
      }
     ]
    },
+   "four-phase-evidence-building-framework-me-checklist": {
+    "strategies": [
+     {
+      "slug": "refine-solution-from-implementation-lessons"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "3us-framework-usability-usefulness-utilization"
+     },
+     {
+      "slug": "four-phase-evidence-building-process-me-checklist"
+     },
+     {
+      "slug": "four-phase-evidence-building-process"
+     }
+    ]
+   },
    "four-phase-evidence-building-process": {
     "theories": [
      {
+      "slug": "four-phase-evidence-building-framework-me-checklist"
+     },
+     {
+      "slug": "four-phase-evidence-building-process-me-checklist"
+     },
+     {
       "slug": "four-phase-me-evidence-building-approach"
+     }
+    ]
+   },
+   "four-phase-evidence-building-process-me-checklist": {
+    "theories": [
+     {
+      "slug": "four-phase-evidence-building-framework-me-checklist"
+     },
+     {
+      "slug": "four-phase-evidence-building-process"
      }
     ]
    },
@@ -257491,6 +261026,18 @@
      }
     ]
    },
+   "nsi-conceptual-framework-networked-ci": {
+    "strategies": [
+     {
+      "slug": "nsi-implementation-support-strategies"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "equity-centered-strategic-learning-framework"
+     }
+    ]
+   },
    "oep-social-justice-impact-spectrum": {
     "theories": [
      {
@@ -257588,6 +261135,18 @@
      },
      {
       "slug": "constructionism-imagineering-learning-model-metaverse"
+     }
+    ]
+   },
+   "outcomes-impacts-processes-school-performance-framework": {
+    "elements": [
+     {
+      "slug": "outcomes-impacts-processes-framework-publication"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "use-school-performance-framework-beyond-accountability"
      }
     ]
    },
@@ -263577,15 +267136,15 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 5201,
-  "designs": 198,
-  "elements": 1247,
+  "claims": 5328,
+  "designs": 199,
+  "elements": 1285,
   "learner-variables": 12,
   "methods": 38,
   "patterns": 126,
   "principles": 375,
   "processes": 18,
-  "strategies": 3522,
-  "theories": 1082
+  "strategies": 3556,
+  "theories": 1089
  }
 }

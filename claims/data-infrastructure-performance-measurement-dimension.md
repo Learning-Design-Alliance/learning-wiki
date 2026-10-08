@@ -44,3 +44,4 @@ Final item in the report's enumerated list of characteristics. The report names 
 
 ## Related Claims
 - [The report provides an overview of federal support for state apprenticeship systems and variation across states in key characteristics](report-overviews-federal-support-and-state-variation.md) — related
+- [Apprenticeship expansion into nontraditional industries such as healthcare and education accelerated during the pandemic](nontraditional-industry-expansion-accelerated.md) — related

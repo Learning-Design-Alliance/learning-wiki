@@ -54,3 +54,4 @@ Descriptive statement about the study's scale and design: a large-scale federal 
 - [Four elementary math curricula were evaluated using an experimental design](experimental-evaluation-four-elementary-math-curricula.md) — a broader claim this one bears on
 - [The study examines whether some early elementary school math curricula are more effective than others at improving math achievement in schools serving a high percentage of disadvantaged students.](math-curricula-relative-effects-disadvantaged-first-second-graders.md) — a narrower finding that bears on this claim
 - [Math Expressions and Saxon Math raise first-grade math percentile rank 9 to 12 points more than Investigations and SFAW](math-expressions-saxon-percentile-advantage-first-grade.md) — a narrower finding that bears on this claim
+- [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related

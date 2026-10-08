@@ -83,3 +83,5 @@ Initial-skill-level subgroup analysis reported in the alphabetics findings footn
 ## Related Claims
 - [Corrective Reading showed statistically significant positive effects on two of four alphabetics outcomes, but the alphabetics domain average effect was neither significant nor substantively important](corrective-reading-alphabetics-mixed-outcomes.md) — related
 - [Word attack gains from the Wilson Reading System were concentrated among students with high initial word attack or vocabulary scores and students not eligible for free/reduced lunch](wilson-reading-system-subgroup-effects-initial-skill-ses.md) — related
+- [The interventions did not consistently benefit any baseline subgroup more than another](no-consistent-subgroup-benefit-reading-interventions.md) — reports the opposite
+- [The Power4Kids evaluation covered four widely used reading programs for elementary students with reading problems: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading](power4kids-four-reading-interventions-compared.md) — related

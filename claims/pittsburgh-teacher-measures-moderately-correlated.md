@@ -45,3 +45,4 @@ Correlational analysis of the three district measures found they are "positively
 ## Related Claims
 - [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
 - [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](pittsburgh-three-measures-differentiate-teacher-performance.md) — related
+- [Organizing performance measures into outcomes, impacts, and processes provides rich, fair, and diagnostically useful information](grouping-outcomes-impacts-processes-yields-diagnostically-useful-information.md) — related

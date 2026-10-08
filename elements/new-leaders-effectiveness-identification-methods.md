@@ -44,6 +44,7 @@ A set of methods designed by Mathematica Policy Research under contract with New
 
 - [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](dc-value-added-assessment-system.md)
 - [Mathematica's value-added analysis approach for Oklahoma's Teacher and Leader Effectiveness Evaluation System](mathematica-value-added-approach-oklahoma-tle.md)
+- [Teacher-level value-added model adaptation for identifying high-performing teachers in Memphis](teacher-level-value-added-model-memphis.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ A toolkit published by Mathematica for facilitators of strategic learning initia
 
 - [Use transferable planning tools to design virtual cohort learning activities](../strategies/transferable-cohort-planning-tools.md)
 - [Strengthen grantee strategic learning capacity through scoping support, provider matching, cohort learning activities, and thought partnership](../strategies/intermediary-capacity-building-four-supports.md)
+- [Engage a learning partner to support funders and grantees in designing and carrying out a learning plan and building M&E capacity](../strategies/learning-partner-supports-funder-grantee-me.md)
 
 ## Key Sources
 - Emily Gardner, Emma Pottinger, Ramya Tallapragada, Alexandra Resch, Virginia Knechtel. (2021). Toolkit to Support Capacity Building Initiatives for Strategic Learning Initiatives. Mathematica. https://www.mathematica.org/publications/toolkit-to-support-capacity-building-for-strategic-learning-initiatives

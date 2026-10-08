@@ -46,3 +46,4 @@ Paired t-tests within starting-level categories (at/above, within one grade belo
 - [Meeting the 80% scholar attendance threshold is not significantly associated with reading growth in Springboard Summer](springboard-summer-attendance-threshold-null.md) — related
 - [Springboard Summer scholars show positive, statistically significant reading growth from end-of-year to beginning-of-year assessments, averaging about 1.8 months](springboard-summer-significant-reading-gains.md) — a broader claim this one bears on
 - [Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards](springboard-summer-outperforms-matched-comparison.md) — related
+- [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related

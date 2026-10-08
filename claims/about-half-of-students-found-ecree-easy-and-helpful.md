@@ -48,3 +48,5 @@ Survey of students in grade 8-11 ELA classrooms that used Ecree during the 2021-
 - [Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing](teachers-found-ecree-mi-write-useful-writing-instruction.md) — related
 - [Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year](ecree-likely-improved-writing-quality-especially-less-advanced-starters.md) — related
 - [Some students may be overwhelmed by Ecree's feedback about their writing](some-students-overwhelmed-by-ecree-feedback.md) — related
+- [The Ecree study examined teachers' and students' use of the tool and its impact on student and teacher outcomes during the 2021-2022 school year](ecree-study-examined-use-and-impacts-2021-2022.md) — a broader claim this one bears on
+- [A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes](mi-write-study-examined-use-and-impact.md) — related

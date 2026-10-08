@@ -46,6 +46,7 @@ Mathematica's measurement and evaluation (M&E) approach is a road map for genera
 ## Examples
 
 - [Use an overview resource with an illustrative example to introduce phased evidence building](../strategies/overview-resource-illustrative-example-strategy.md)
+- [Measurement and Evaluation Plan Template as a roadmap for developing an M&E plan with a research partner](../elements/me-plan-template-roadmap.md)
 
 ## Key Sources
 - Kate Place, Kara Conroy, Gregory Chojnacki. (2023). A Road Map for Building Evidence that Drives Learning and Improvement. Mathematica. https://www.mathematica.org/publications/a-road-map-for-building-evidence-that-drives-learning-and-improvement

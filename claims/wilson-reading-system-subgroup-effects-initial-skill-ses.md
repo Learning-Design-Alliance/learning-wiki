@@ -45,3 +45,5 @@ Subgroup analyses reported in the alphabetics appendix of the Torgesen et al. (2
 ## Related Claims
 - [The Wilson Reading System shows potentially positive effects on alphabetics for beginning readers, based on a single randomized controlled trial](wilson-reading-system-potentially-positive-alphabetics.md) — a broader claim this one bears on
 - [Effects of Corrective Reading varied by student subgroup: positive for students with high pretest vocabulary scores and for students not eligible for free/reduced lunch, but not for their counterparts](corrective-reading-subgroup-moderators.md) — related
+- [The interventions did not consistently benefit any baseline subgroup more than another](no-consistent-subgroup-benefit-reading-interventions.md) — reports the opposite
+- [The Power4Kids evaluation covered four widely used reading programs for elementary students with reading problems: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading](power4kids-four-reading-interventions-compared.md) — related

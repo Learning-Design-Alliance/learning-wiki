@@ -48,3 +48,4 @@ The report's key-findings synthesis states that "Common gaps include the propose
 - [All 12 proposed SSI Youth Solutions interventions explicitly or implicitly aim to increase employment among youth with disabilities as a long-term outcome](ssi-youth-solutions-interventions-aim-employment.md) — related
 - [PROMISE youth experienced worse education and employment outcomes than ACS youth with and without disabilities](promise-youth-worse-outcomes-than-acs-peers.md) — related
 - [PROMISE service costs represented relatively large investments](promise-service-costs-relatively-large-investments.md) — related
+- [Determining the right M&E activities for a new or evolving solution is challenging, and more complex when investing in multiple solutions at once](me-selection-challenging-multi-solution-investments.md) — related

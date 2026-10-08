@@ -53,7 +53,8 @@ Check & Connect is a dropout-prevention intervention built on monitoring of scho
 - [Early Warning Intervention and Monitoring System (EWIMS)](ewims-program-element.md)
 
 ## Examples
--
+
+- [Use a systematic approach to identify dropout-prevention approaches for program developers while the scientific basis for new programs is still being built](../strategies/identify-approaches-while-evidence-base-develops.md)
 
 ## Key Sources
 - Dropout Prevention intervention report: Check & Connect. (2015). What Works Clearinghouse, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/InterventionReport/78

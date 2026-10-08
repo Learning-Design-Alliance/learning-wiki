@@ -47,3 +47,4 @@ Quasi-experimental propensity score matching with replacement on seven variables
 - [Reading growth after Springboard Summer varies by starting point relative to grade level, with the largest gains for scholars who started below grade level](springboard-summer-gains-vary-by-starting-level.md) — related
 - [Springboard Summer scholars show positive, statistically significant reading growth from end-of-year to beginning-of-year assessments, averaging about 1.8 months](springboard-summer-significant-reading-gains.md) — related
 - [Family workshop attendance at or above the 80% target is not significantly associated with scholars' reading growth](springboard-summer-family-workshop-attendance-null.md) — related
+- [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related

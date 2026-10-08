@@ -56,6 +56,7 @@ Teach For America is a nation-wide alternate route teacher preparation program d
 - [Teach For America (TFA) as a teacher-supply program for hard-to-staff subjects in high-poverty schools](teach-for-america-teacher-supply-program.md)
 - [Teach For America alternative certification program](teach-for-america-program.md)
 - [Mathematica random assignment study of alternative routes to teacher certification](mathematica-alt-cert-random-assignment-study.md)
+- [Teacher apprenticeship programs as an approach to mitigating teacher shortages](teacher-apprenticeship-programs-shortage-approach.md)
 
 ## Examples
 -

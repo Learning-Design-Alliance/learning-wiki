@@ -38,11 +38,16 @@ The M&E Checklist is a resource that guides users through an evidence-building p
 - improving student or teacher outcomes through well-designed solutions
 
 ## Related Elements
-- 
+
+- [Measurement and Evaluation (M&E) Checklist for evidence-building with priority-community stakeholders](me-checklist-evidence-building-resource.md)
+- [M&E Checklist Phase 3 document: Assess for Early Evidence of Success](me-checklist-phase-3-early-evidence-document.md)
+- [Measurement and Evaluation Checklist Phase 2 document](me-checklist-refine-solution-phase-2.md)
+- [Sample Size Guide: a phase-organized planning document for education solution developers](sample-size-guide-mathematica.md)
 
 ## Examples
 
 - [Collaborate with stakeholders from the priority community throughout evidence building](../strategies/stakeholder-collaboration-evidence-building.md)
+- [Use a suite of measurement and evaluation tools to develop, refine, and scale evidence-based educational solutions](../strategies/measurement-evaluation-tool-suite-evidence-based-solutions.md)
 
 ## Key Sources
 - Ryan Ruggiero, Mikia Manley, Virginia Knechtel, Kate Place, Megan Shoji. (2023). Measurement and Evaluation Checklist: Design the Solution (Phase 1). Mathematica. https://www.mathematica.org/publications/measurement-and-evaluation-checklist-design-the-solution-phase-1

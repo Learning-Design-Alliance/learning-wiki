@@ -51,6 +51,7 @@ The Evaluation of Mathematics Curricula is an IES-funded project, with a stated 
 - [Four early elementary math curricula evaluated: Investigations, Math Expressions, Saxon Math, and Scott Foresman-Addison Wesley Mathematics](four-early-elementary-math-curricula-evaluated.md)
 - [Four elementary math curricula compared in the study](four-elementary-math-curricula-compared.md)
 - [NCEE technical appendix for the elementary math curricula evaluation, organized in six analytic sections](ncee-elementary-math-curricula-technical-appendix.md)
+- [Mathematica national evaluation of four early elementary math curricula](mathematica-four-curricula-evaluation-study.md)
 
 ## Examples
 -

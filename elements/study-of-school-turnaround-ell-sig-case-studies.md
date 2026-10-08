@@ -43,7 +43,8 @@ The Study of School Turnaround is a multi-year evaluation examining school impro
 - [Teachers in SIG schools with a greater PD focus on ELL-related topics more often reported that PD improved their effectiveness as teachers of ELLs](../claims/greater-ell-pd-focus-linked-to-reported-effectiveness-gains.md) [+W]
 
 ## Related Elements
-- 
+
+- [TNTP Turnaround Leadership Teams Strategy (TLTS)](tntp-turnaround-leadership-teams-strategy.md)
 
 ## Examples
 -

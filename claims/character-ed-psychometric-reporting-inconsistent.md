@@ -45,3 +45,4 @@ Cross-case analysis of psychometric reporting across the 95 scaled measures in s
 ## Related Claims
 - [Nearly half of the 95 scaled measures used in character education program studies were developed for the study under review, with only 32 available off the shelf](character-ed-scales-half-study-developed.md) — related
 - [Studies of character education programs most often measure student-level outcomes, with behavioral outcomes measured for 31 of 36 programs, affective for 28, and cognitive for 25](character-ed-studies-mostly-measure-student-outcomes.md) — related
+- [Organizing performance measures into outcomes, impacts, and processes provides rich, fair, and diagnostically useful information](grouping-outcomes-impacts-processes-yields-diagnostically-useful-information.md) — related

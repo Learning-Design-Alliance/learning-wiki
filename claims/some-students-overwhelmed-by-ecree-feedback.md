@@ -47,3 +47,4 @@ A key finding of the brief, stated with the hedge may: "Some students may be ove
 - [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — related
 - [About half of surveyed students agreed Ecree was easy to use and helped improve their writing](about-half-of-students-found-ecree-easy-and-helpful.md) — related
 - [More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback](teachers-found-ecree-useful-but-some-students-overwhelmed.md) — possibly the same claim (merge candidate)
+- [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers](students-need-guidance-ecree-feedback-advanced-writers.md) — possibly the same claim (merge candidate)
