@@ -44,3 +44,5 @@ The brief's framing section states, based on the authors' work in the evaluation
 
 ## Related Claims
 - [Greater participation of district experts in the research process increases the potential for effective research, policy, and practice](district-expert-participation-increases-research-effectiveness.md) — related
+- [Support for data-driven instruction did not increase key data-related activities despite additional resources and emphasis](data-driven-instruction-support-did-not-increase-data-activities.md) — related
+- [States and districts increasingly used performance data as a means to support effective teaching](essa-performance-data-support-effective-teaching.md) — related

@@ -117,3 +117,4 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [READY4K! improves teacher-reported parental involvement at school](ready4k-improves-teacher-reported-involvement.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
+- [TIPS students report significantly higher family involvement in reading and science homework than non-participants](tips-family-involvement-reading-science.md) — a narrower finding that bears on this claim

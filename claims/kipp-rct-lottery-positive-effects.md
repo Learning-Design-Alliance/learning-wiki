@@ -48,3 +48,4 @@ Tuttle et al. (2015) randomized controlled trial: 891 lottery applicants (459 of
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — a broader claim this one bears on
 - [A randomized controlled trial found TFA secondary math teachers outperformed non-TFA comparison teachers in mathematics achievement](clark-2013-tfa-secondary-math-rct-positive.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related
+- [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related

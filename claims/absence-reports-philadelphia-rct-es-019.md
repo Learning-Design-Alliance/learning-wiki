@@ -52,3 +52,4 @@ Randomized evaluation in Philadelphia elementary and secondary schools with a to
 - [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
 - [The weighted mean effect size across the two Absence Reports studies is +0.16, qualifying the intervention for a Strong evidence rating](absence-reports-weighted-mean-016-strong-rating.md) — a broader claim this one bears on
 - [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) — related
+- [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related

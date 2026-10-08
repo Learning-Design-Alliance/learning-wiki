@@ -1,0 +1,47 @@
+---
+type: claim
+title: The report examines how in-school and out-of-school predictors relate individually to each type of near-term academic problem
+description: The report examines how in-school and out-of-school predictors relate individually to each type of near-term academic problem
+id: in-school-out-of-school-predictors-examined
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-08
+evidence_strength: weak
+sources:
+  - id: julie-bruch-2020
+    resource: "https://www.mathematica.org/publications/using-data-from-schools-and-child-welfare-agencies-to-predict-near-term-academic-risks"
+    title: "Julie Bruch, Jonathan Gellar, Lindsay Cattell, John Hotchkiss, Phil Killewald. (2020). Using Data from Schools and Child Welfare Agencies to Predict Near-Term Academic Risks. Regional Educational Laboratory Mid-Atlantic. https://www.mathematica.org/publications/using-data-from-schools-and-child-welfare-agencies-to-predict-near-term-academic-risks"
+    author: Julie Bruch, Jonathan Gellar, Lindsay Cattell, John Hotchkiss, Phil Killewald
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: "?"
+---
+
+# The report examines how in-school and out-of-school predictors relate individually to each type of near-term academic problem
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r?` · `q2`
+
+## Subclaims
+`q2 i?` In-school variables (performance, behavior, and consequences) and out-of-school variables (human services involvement and public benefit receipt) are examined individually in relation to each type of near-term academic problem. [→ Julie Bruch 2020](#julie-bruch-2020)
+
+## Evidence
+
+### Julie Bruch 2020
+
+Julie Bruch, Jonathan Gellar, Lindsay Cattell, John Hotchkiss, Phil Killewald. (2020). Using Data from Schools and Child Welfare Agencies to Predict Near-Term Academic Risks. Regional Educational Laboratory Mid-Atlantic. https://www.mathematica.org/publications/using-data-from-schools-and-child-welfare-agencies-to-predict-near-term-academic-risks
+
+`q2 · i?` · `associational · r?`
+
+Descriptive statement of the report's predictor analysis, which separates in-school variables (performance, behavior, consequences) from out-of-school variables (human services involvement, public benefit receipt) and relates each to each academic problem type. No coefficients are printed in the provided text.
+
+> "It also examines which types of predictors— in-school variables (performance, behavior, and consequences) and out-of-school variables (human services involvement and public benefit receipt)—are individually related to each type of near-term academic problem"
+
+## Discussion
+
+
+## Related Claims
+- [Near-term academic problems targeted include absenteeism, suspensions, poor grades, and low state-test performance](near-term-academic-problem-types-defined.md) — related
+- [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](risk-model-assessed-two-allegheny-agencies.md) — related

@@ -57,8 +57,10 @@ Relationship quality between teacher and learner is consistently associated with
 5. **Use informal edge time deliberately.** Arrive early and stay after class with a plan for whom to talk to, rather than leaving connection to chance.
 
 ## Related Strategies
+
 - [Active listening](active_listening.md) — the conversational skill that makes scheduled connection time productive rather than superficial
 - [Activate background knowledge](activating-prior-knowledge.md) — learner interests surfaced through connection activities become the raw material for activation
+- [Schedule time for intentional learning and recognize children's backgrounds and experiences in preschool classrooms](schedule-intentional-learning-time-preschool.md)
 
 ## Examples
 - **Writing conferences in workshop models** (e.g., Teachers College Reading & Writing Project, https://www.readingandwritingproject.org): scheduled one-on-one conferences during independent writing are a core structural element, combining relationship-building with formative feedback.

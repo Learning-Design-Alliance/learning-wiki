@@ -41,7 +41,8 @@ The review describes Canfield's multi-dimensional instruments, designed because 
 - [Canfield's learning style variables predicted academic success where cognitive style did not](../claims/canfield-learning-style-predicts-academic-success.md) [+W]
 
 ## Related Elements
-- 
+
+- [Measurement and Evaluation Needs Inventory: a self-assessment tool for organizational M&E capacity](measurement-evaluation-needs-inventory-tool.md)
 
 ## Examples
 -

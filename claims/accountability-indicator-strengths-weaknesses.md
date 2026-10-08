@@ -49,3 +49,4 @@ Indicator-level descriptive results from the Malang City questionnaire survey (T
 - [Extreme country cases: Spain reports universal external control of hiring while the Netherlands reports universal internal control of HR, curriculum, and budget](extreme-country-control-cases-spain-netherlands.md) — related
 - [Accountability management system indicator scores average higher than elementary schools' digital transformation capability indicator scores](accountability-indicators-outscore-digital-transformation-indicators.md) — related
 - [Higher-quality superior-school accountability management systems are associated with higher digital transformation capability in Indonesian public elementary schools](accountability-quality-correlates-digital-transformation-capability.md) — related
+- [Shared and well-communicated mission, vision, and goals are critical to district and CMO performance](shared-mission-vision-goals-critical-districts-cmos.md) — related

@@ -66,6 +66,7 @@ Action research operationalizes formative evaluation at the level of one's own t
 - [Reflective Practice](../strategies/reflective-practice.md) — the reflective habit action research formalizes with data
 - [Formative Assessment Loops](../strategies/formative-assessment-loops.md) — the same plan–act–observe logic applied to student learning rather than teaching
 - [Use action research projects in which pre-service and in-service teachers jointly inquire into instructional decision-making](action-research-reflective-teacher-education.md)
+- [Iteratively update a design research plan with findings and resulting design adjustments](update-design-research-plan-with-findings-and-adjustments.md)
 
 ## Examples
 - **Lesson Study in Japanese elementary mathematics** (e.g., through [Mills College Lesson Study Group](https://www.lessonresearch.net)) — teams cycle through co-planning, observation, and revision of a single research lesson.

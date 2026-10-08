@@ -47,3 +47,4 @@ Following the non-participant study, the Partnership added general-topic offerin
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
 - [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related
 - [An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems](competency-workshop-effective-diffusion-strategy.md) — related
+- [Instructional coaching provides individualized support adapted to teachers' needs and classroom contexts, in contrast to traditional professional development workshops](coaching-individualized-support-versus-workshops.md) — related

@@ -47,3 +47,6 @@ Cross-program analysis of student reports across the eight tutoring evaluations.
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — related
 - [The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation](tutoring-effect-size-aligned-with-implementation-quality.md) — related
 - [Higher tutoring attendance rates are associated with greater reading gains](ignite-reading-attendance-associated-gains.md) — related
+- [Student math confidence and sense of belonging in tutoring increased modestly during the school year, with site-level variation](blueprint-confidence-belonging-modest-increase.md) — related
+- [Most Blueprint students reported strong tutor relationships, but reported relationship strength varied across sites](blueprint-tutor-relationships-varied-by-site.md) — a narrower finding that bears on this claim
+- [Students completing the end-of-year survey reported favorable views of their relationships with math tutors and their sense of belonging in tutoring sessions](breakthrough-tutoring-favorable-relationships-belonging.md) — related

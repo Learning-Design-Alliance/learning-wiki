@@ -54,8 +54,10 @@ The checklist operationalizes decades of research showing that the frequency and
 4. Re-assess after a set interval and adjust, using [Assess Performance](../elements/assess-performance.md) as a recurring cycle rather than a single event.
 
 ## Related Strategies
+
 - Read-Aloud Routines — the single highest-leverage behavior most checklists are designed to promote
 - Family Literacy Programs — structured interventions that go beyond awareness to coached practice
+- [Parents support elementary writing skills at home through everyday writing activities like writing stories, reviewing movies, and describing things around them](parent-home-writing-activities-tip-sheet.md)
 
 ## Examples
 - A parent completing the checklist notices few rhyming and alphabet books at home and resolves to borrow a rotating set from the public library rather than purchase them.

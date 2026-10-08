@@ -52,3 +52,4 @@ This is the weakest-evidence claim in this ingest batch: a qualitative synthesis
 - [Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction](relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md) — related
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
 - [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related
+- [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related

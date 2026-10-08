@@ -47,3 +47,4 @@ Two quasi-experimental studies (Tuttle et al. 2015 middle school QED and high sc
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — related
 - [The WWC rated TEEMSS as having potentially positive effects on general science achievement with a small extent of evidence](teemss-potentially-positive-effects-small-evidence.md) — related
 - [TFA teachers show potentially positive effects on science achievement, based on one study](tfa-potentially-positive-science-effects.md) — related
+- [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related

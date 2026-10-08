@@ -44,3 +44,4 @@ Definitional statement from the guide's section on the purposes of self-monitori
 
 ## Related Claims
 - [The self-monitoring process was piloted in 1988-89 in selected districts across North Carolina's eight educational regions](jtpa-self-monitoring-pilot-1988-89.md) — related
+- [States broadened measures for identifying struggling schools while more districts reported improvement activities, particularly teacher professional development](essa-struggling-school-identification-broadened.md) — related

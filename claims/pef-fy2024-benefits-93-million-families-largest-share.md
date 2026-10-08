@@ -47,3 +47,4 @@ Benefit valuation in the FY 2024 benefit-cost analysis, updated with new evidenc
 - [Program costs rose under the PEF's facility payment model, but the size and economic value of benefits also increased](pef-facility-payment-model-costs-and-benefits-both-increased.md) — related
 - [The PEF's total FY 2024 cost was $76 million, up from $54 million in FY 2023, reflecting larger educator payments and new facility administrative costs](pef-fy2024-cost-76-million-up-from-54-million.md) — related
 - [Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023](pef-fy2024-roi-21-percent-similar-to-fy2023.md) — related
+- [PROMISE service costs represented relatively large investments](promise-service-costs-relatively-large-investments.md) — related

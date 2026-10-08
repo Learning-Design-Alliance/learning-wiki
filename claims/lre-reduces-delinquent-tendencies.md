@@ -48,3 +48,4 @@ The digest reports, citing Little and Haley (1982), a study by the Social Scienc
 - [LRE grew rapidly in U.S. curricula after 1975, ranking fourth in social studies priority](lre-curriculum-growth-since-1975.md) — related
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
 - [A Pennsylvania state assessment reportedly showed declining citizenship measure scores from 1974 to 1976](pennsylvania-citizenship-scores-declined-1974-1976.md) — related
+- [Civic-education-focused schooling can boost civic participation in adulthood](civic-focused-education-boosts-adult-participation.md) — related

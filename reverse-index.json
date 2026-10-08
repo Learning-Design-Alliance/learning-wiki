@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 4588,
+  "claims->claims": 4716,
   "claims->designs": 13,
   "claims->elements": 108,
   "claims->learner-variables": 1,
@@ -9,21 +9,21 @@
   "claims->principles": 118,
   "claims->processes": 3,
   "claims->theories": 205,
-  "designs->claims": 133,
+  "designs->claims": 134,
   "designs->designs": 28,
   "designs->elements": 42,
   "designs->patterns": 22,
   "designs->principles": 10,
   "designs->theories": 21,
-  "elements->claims": 825,
+  "elements->claims": 859,
   "elements->designs": 2,
-  "elements->elements": 728,
+  "elements->elements": 757,
   "elements->learner-variables": 1,
   "elements->methods": 1,
   "elements->patterns": 248,
   "elements->principles": 315,
   "elements->processes": 1,
-  "elements->theories": 212,
+  "elements->theories": 213,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -63,20 +63,20 @@
   "processes->theories": 10,
   "strategies->claims": 2336,
   "strategies->designs": 2,
-  "strategies->elements": 2418,
+  "strategies->elements": 2420,
   "strategies->methods": 14,
   "strategies->patterns": 815,
   "strategies->principles": 1735,
   "strategies->processes": 9,
-  "strategies->theories": 676,
-  "theories->claims": 820,
+  "strategies->theories": 677,
+  "theories->claims": 824,
   "theories->designs": 60,
-  "theories->elements": 183,
+  "theories->elements": 186,
   "theories->methods": 14,
   "theories->patterns": 65,
   "theories->principles": 215,
   "theories->processes": 7,
-  "theories->theories": 704
+  "theories->theories": 706
  },
  "edges": {
   "claims": {
@@ -266,6 +266,9 @@
     "claims": [
      {
       "slug": "aac-access-and-integration-barriers-frequent"
+     },
+     {
+      "slug": "demographics-affect-perceived-school-quality"
      },
      {
       "slug": "demographics-unrelated-to-goal-activity"
@@ -571,6 +574,9 @@
       "slug": "barr-reduces-ninth-grade-chronic-absenteeism"
      },
      {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     },
+     {
       "slug": "positive-action-hawaii-rct-absenteeism"
      },
      {
@@ -601,6 +607,9 @@
      },
      {
       "slug": "absence-reports-weighted-mean-strong-rating"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
      },
      {
       "slug": "ewims-reduces-chronic-absenteeism"
@@ -1173,6 +1182,13 @@
      }
     ]
    },
+   "accountability-features-combined-make-middle-schools-more-likely-tsi": {
+    "claims": [
+     {
+      "slug": "middle-schools-disproportionately-identified-tsi-students-with-disabilities"
+     }
+    ]
+   },
    "accountability-indicator-strengths-weaknesses": {
     "claims": [
      {
@@ -1192,6 +1208,9 @@
      },
      {
       "slug": "extreme-country-control-cases-spain-netherlands"
+     },
+     {
+      "slug": "shared-mission-vision-goals-critical-districts-cmos"
      }
     ],
     "theories": [
@@ -14414,6 +14433,9 @@
      },
      {
       "slug": "balanced-leadership-retention-not-statistically-significant"
+     },
+     {
+      "slug": "principal-pd-teachers-report-less-instructional-support"
      }
     ],
     "elements": [
@@ -14608,6 +14630,9 @@
      },
      {
       "slug": "barr-reading-achievement-average-effect-008"
+     },
+     {
+      "slug": "reading-intervention-group-size-varies-by-grade-band"
      }
     ],
     "elements": [
@@ -14694,6 +14719,9 @@
      },
      {
       "slug": "check-and-connect-reduces-dropout-staying-in-school"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
      },
      {
       "slug": "ewims-reduces-chronic-absenteeism"
@@ -18000,6 +18028,112 @@
      }
     ]
    },
+   "blueprint-confidence-belonging-modest-increase": {
+    "claims": [
+     {
+      "slug": "blueprint-tutor-relationships-varied-by-site"
+     },
+     {
+      "slug": "blueprint-tutoring-012-sd-math-gain"
+     },
+     {
+      "slug": "breakthrough-tutoring-favorable-relationships-belonging"
+     },
+     {
+      "slug": "middle-years-math-tutoring-portfolio-positive-average-effects"
+     },
+     {
+      "slug": "strong-student-tutor-relationships-key-to-tutoring-success"
+     },
+     {
+      "slug": "tutoring-may-improve-math-confidence-and-belonging"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "blueprint-math-fellows-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "blueprint-larger-groups-scores-up-relationships-weaker": {
+    "claims": [
+     {
+      "slug": "blueprint-tutor-relationships-varied-by-site"
+     },
+     {
+      "slug": "blueprint-tutoring-012-sd-math-gain"
+     },
+     {
+      "slug": "breakthrough-tutoring-math-gains-similar-national-sample"
+     },
+     {
+      "slug": "tutoring-effect-size-aligned-with-implementation-quality"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "blueprint-math-fellows-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "breakthrough-collaborative-school-year-math-tutoring-pilot",
+      "strength": "W"
+     }
+    ]
+   },
+   "blueprint-tutor-relationships-varied-by-site": {
+    "claims": [
+     {
+      "slug": "blueprint-confidence-belonging-modest-increase"
+     },
+     {
+      "slug": "blueprint-larger-groups-scores-up-relationships-weaker"
+     },
+     {
+      "slug": "blueprint-tutoring-012-sd-math-gain"
+     },
+     {
+      "slug": "breakthrough-tutoring-favorable-relationships-belonging"
+     },
+     {
+      "slug": "cignition-tutor-relationships-positive-uniform"
+     },
+     {
+      "slug": "strong-student-tutor-relationships-key-to-tutoring-success"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "blueprint-math-fellows-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "blueprint-tutoring-012-sd-math-gain": {
+    "claims": [
+     {
+      "slug": "blueprint-confidence-belonging-modest-increase"
+     },
+     {
+      "slug": "blueprint-larger-groups-scores-up-relationships-weaker"
+     },
+     {
+      "slug": "blueprint-tutor-relationships-varied-by-site"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "blueprint-math-fellows-program-element",
+      "strength": "W"
+     }
+    ]
+   },
    "bmtn-external-spread-channels": {
     "claims": [
      {
@@ -18465,6 +18599,72 @@
      {
       "polarity": "+",
       "slug": "link-programs-to-workforce-entry",
+      "strength": "W"
+     }
+    ]
+   },
+   "breakthrough-tutoring-confidence-gain-not-significant": {
+    "claims": [
+     {
+      "slug": "breakthrough-tutoring-math-gains-similar-national-sample"
+     },
+     {
+      "slug": "cignition-tutoring-confidence-enjoyment-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "breakthrough-collaborative-school-year-math-tutoring-pilot",
+      "strength": "W"
+     }
+    ]
+   },
+   "breakthrough-tutoring-favorable-relationships-belonging": {
+    "claims": [
+     {
+      "slug": "blueprint-confidence-belonging-modest-increase"
+     },
+     {
+      "slug": "blueprint-tutor-relationships-varied-by-site"
+     },
+     {
+      "slug": "breakthrough-tutoring-math-gains-similar-national-sample"
+     },
+     {
+      "slug": "cignition-tutor-relationships-positive-uniform"
+     },
+     {
+      "slug": "strong-student-tutor-relationships-key-to-tutoring-success"
+     },
+     {
+      "slug": "tutoring-may-improve-math-confidence-and-belonging"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "breakthrough-collaborative-school-year-math-tutoring-pilot",
+      "strength": "W"
+     }
+    ]
+   },
+   "breakthrough-tutoring-math-gains-similar-national-sample": {
+    "claims": [
+     {
+      "slug": "blueprint-larger-groups-scores-up-relationships-weaker"
+     },
+     {
+      "slug": "breakthrough-tutoring-confidence-gain-not-significant"
+     },
+     {
+      "slug": "breakthrough-tutoring-favorable-relationships-belonging"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "breakthrough-collaborative-school-year-math-tutoring-pilot",
       "strength": "W"
      }
     ]
@@ -20912,6 +21112,23 @@
      }
     ]
    },
+   "cat-potential-more-valid-reliable-than-non-adaptive": {
+    "claims": [
+     {
+      "slug": "cat-selects-questions-based-on-previous-answers"
+     },
+     {
+      "slug": "cresst-tools-feasible-limited-validity"
+     }
+    ]
+   },
+   "cat-selects-questions-based-on-previous-answers": {
+    "claims": [
+     {
+      "slug": "cat-potential-more-valid-reliable-than-non-adaptive"
+     }
+    ]
+   },
    "category-specific-moderation-social-media-short-video": {
     "claims": [
      {
@@ -21036,6 +21253,48 @@
      {
       "polarity": "+",
       "slug": "three-level-rti-prevention-model-case-study",
+      "strength": "W"
+     }
+    ]
+   },
+   "cbsl-pilot-capacity-building-approach": {
+    "claims": [
+     {
+      "slug": "cbsl-pilot-nine-grantees-partnership"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "theme-based-cohort-learning-pattern",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "virtual-learning-cohort-toolkit",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "equity-centered-strategic-learning-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "cbsl-pilot-nine-grantees-partnership": {
+    "claims": [
+     {
+      "slug": "cbsl-pilot-capacity-building-approach"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "equity-centered-strategic-learning-framework",
       "strength": "W"
      }
     ]
@@ -22527,6 +22786,25 @@
      }
     ]
    },
+   "child-guardian-reports-minimal-power-beyond-teacher": {
+    "claims": [
+     {
+      "slug": "landscape-analysis-collected-instruments-learning-strategies-mindsets"
+     },
+     {
+      "slug": "teacher-reports-add-power-beyond-iq"
+     },
+     {
+      "slug": "teacher-reports-highest-internal-consistency-noncognitive"
+     },
+     {
+      "slug": "teacher-reports-most-predictive-later-outcomes"
+     },
+     {
+      "slug": "three-respondent-reports-correlated"
+     }
+    ]
+   },
    "child-language-resistant-to-adult-correction": {
     "claims": [
      {
@@ -22820,6 +23098,42 @@
      {
       "polarity": "+",
       "slug": "read-naturally-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "chronic-absenteeism-early-grades-importance-asserted": {
+    "claims": [
+     {
+      "slug": "early-attendance-preschool-kindergarten-future-success"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     },
+     {
+      "slug": "go-learn-grow-materials-support-attendance-improvement"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-importance"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-spells-success"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-grade-attendance-fact-sheet-nj",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "early-grades-chronic-absenteeism-fact-sheet",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "go-learn-grow-attendance-toolkit",
       "strength": "W"
      }
     ]
@@ -26504,6 +26818,81 @@
      }
     ]
    },
+   "cignition-group-tutoring-fractions-gain-0-44": {
+    "claims": [
+     {
+      "slug": "cignition-tutor-relationships-positive-uniform"
+     },
+     {
+      "slug": "cignition-tutoring-confidence-enjoyment-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cignition-virtual-group-math-tutoring",
+      "strength": "M"
+     }
+    ]
+   },
+   "cignition-tutor-relationships-positive-uniform": {
+    "claims": [
+     {
+      "slug": "blueprint-tutor-relationships-varied-by-site"
+     },
+     {
+      "slug": "breakthrough-tutoring-favorable-relationships-belonging"
+     },
+     {
+      "slug": "cignition-group-tutoring-fractions-gain-0-44"
+     },
+     {
+      "slug": "cignition-tutoring-confidence-enjoyment-gains"
+     },
+     {
+      "slug": "middle-years-math-tutoring-portfolio-positive-average-effects"
+     },
+     {
+      "slug": "tutoring-may-improve-math-confidence-and-belonging"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cignition-virtual-group-math-tutoring",
+      "strength": "W"
+     }
+    ]
+   },
+   "cignition-tutoring-confidence-enjoyment-gains": {
+    "claims": [
+     {
+      "slug": "breakthrough-tutoring-confidence-gain-not-significant"
+     },
+     {
+      "slug": "cignition-group-tutoring-fractions-gain-0-44"
+     },
+     {
+      "slug": "cignition-tutor-relationships-positive-uniform"
+     },
+     {
+      "slug": "cognitive-apprenticeship-attitude-anxiety-confidence-effects"
+     },
+     {
+      "slug": "mastery-positive-affective-effects"
+     },
+     {
+      "slug": "mma-teacher-survey-qualitative-findings"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cignition-virtual-group-math-tutoring",
+      "strength": "W"
+     }
+    ]
+   },
    "cilm-implemented-assessment-highest": {
     "claims": [
      {
@@ -26956,6 +27345,26 @@
      }
     ]
    },
+   "civic-focused-education-boosts-adult-participation": {
+    "claims": [
+     {
+      "slug": "democracy-prep-increases-voter-registration-16-points"
+     },
+     {
+      "slug": "democracy-prep-increases-voting-rates-12-points"
+     },
+     {
+      "slug": "lre-reduces-delinquent-tendencies"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "democracy-prep-public-schools",
+      "strength": "W"
+     }
+    ]
+   },
    "civic-online-reasoning-instruction-improves-evaluation": {
     "claims": [
      {
@@ -27247,6 +27656,9 @@
    "cl-state-teacher-policy-audit-inventory-enables-cross-state-comparison": {
     "claims": [
      {
+      "slug": "me-inventory-most-useful-early-research-cycle"
+     },
+     {
       "slug": "uneven-unit-ai-adoption-shaped-by-industry-alignment"
      }
     ]
@@ -27424,6 +27836,12 @@
      },
      {
       "slug": "literature-review-182-coaching-components-three-categories"
+     },
+     {
+      "slug": "preschool-instruction-key-factors-wwc"
+     },
+     {
+      "slug": "promise-formal-partnerships-enhance-collaboration-with-conditions"
      }
     ],
     "elements": [
@@ -27447,6 +27865,9 @@
      },
      {
       "slug": "clasp-successful-library-use-children"
+     },
+     {
+      "slug": "promise-formal-partnerships-enhance-collaboration-with-conditions"
      }
     ],
     "elements": [
@@ -27591,6 +28012,9 @@
      },
      {
       "slug": "clasp-successful-library-use-children"
+     },
+     {
+      "slug": "promise-formal-partnerships-enhance-collaboration-with-conditions"
      }
     ],
     "elements": [
@@ -29229,6 +29653,23 @@
      }
     ]
    },
+   "coaches-need-district-expectations-full-activities": {
+    "claims": [
+     {
+      "slug": "leader-teacher-diffusion-uneven"
+     },
+     {
+      "slug": "school-leaders-as-instructional-leaders"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ntc-system-of-supports-instructional-coaching",
+      "strength": "W"
+     }
+    ]
+   },
    "coaching-academic-task-fidelity-higher-quality": {
     "claims": [
      {
@@ -29342,6 +29783,23 @@
       "polarity": "+",
       "slug": "supervisory-teacher-coaching-model",
       "strength": "M"
+     }
+    ]
+   },
+   "coaching-individualized-support-versus-workshops": {
+    "claims": [
+     {
+      "slug": "nonparticipant-barriers-professional-development"
+     },
+     {
+      "slug": "pdsa-testing-routines-structure-teacher-reflection"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ntc-system-of-supports-instructional-coaching",
+      "strength": "W"
      }
     ]
    },
@@ -29651,6 +30109,9 @@
    },
    "cognitive-apprenticeship-attitude-anxiety-confidence-effects": {
     "claims": [
+     {
+      "slug": "cignition-tutoring-confidence-enjoyment-gains"
+     },
      {
       "slug": "cognitive-apprenticeship-no-significant-exam-differences-technical-math"
      },
@@ -41278,6 +41739,9 @@
    "cresst-tools-feasible-limited-validity": {
     "claims": [
      {
+      "slug": "cat-potential-more-valid-reliable-than-non-adaptive"
+     },
+     {
       "slug": "family-muac-sms-perceived-acceptable-feasible"
      }
     ],
@@ -43605,6 +44069,60 @@
      }
     ]
    },
+   "data-driven-instruction-support-did-not-change-teacher-practice": {
+    "claims": [
+     {
+      "slug": "data-driven-instruction-support-did-not-increase-data-activities"
+     },
+     {
+      "slug": "data-driven-instruction-support-implemented-as-planned"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "data-driven-instruction-support-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "data-driven-instruction-support-did-not-increase-data-activities": {
+    "claims": [
+     {
+      "slug": "data-driven-instruction-support-did-not-change-teacher-practice"
+     },
+     {
+      "slug": "data-driven-instruction-support-implemented-as-planned"
+     },
+     {
+      "slug": "districts-face-strategic-data-use-challenges-despite-systems"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "data-driven-instruction-support-intervention",
+      "strength": "W"
+     }
+    ]
+   },
+   "data-driven-instruction-support-implemented-as-planned": {
+    "claims": [
+     {
+      "slug": "data-driven-instruction-support-did-not-change-teacher-practice"
+     },
+     {
+      "slug": "data-driven-instruction-support-did-not-increase-data-activities"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "data-driven-instruction-support-intervention",
+      "strength": "W"
+     }
+    ]
+   },
    "data-driven-modeling-more-precise-than-trial-and-error": {
     "claims": [
      {
@@ -43629,6 +44147,20 @@
      {
       "polarity": "+",
       "slug": "tracker-video-analysis-modeling-tool",
+      "strength": "W"
+     }
+    ]
+   },
+   "data-infrastructure-performance-measurement-dimension": {
+    "claims": [
+     {
+      "slug": "report-overviews-federal-support-and-state-variation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "state-apprenticeship-systems-capacity-assessment-study",
       "strength": "W"
      }
     ]
@@ -43800,6 +44332,50 @@
      {
       "polarity": "+",
       "slug": "voucher-market-competition-systemic-effects-theory",
+      "strength": "W"
+     }
+    ]
+   },
+   "dc-reform-analysis-statistical-controls": {
+    "claims": [
+     {
+      "slug": "dc-reforms-improved-math-achievement"
+     },
+     {
+      "slug": "dc-reforms-improved-reading-achievement"
+     }
+    ]
+   },
+   "dc-reforms-improved-math-achievement": {
+    "claims": [
+     {
+      "slug": "dc-reform-analysis-statistical-controls"
+     },
+     {
+      "slug": "dc-reforms-improved-reading-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "naep-data-dc-reform-testimony",
+      "strength": "W"
+     }
+    ]
+   },
+   "dc-reforms-improved-reading-achievement": {
+    "claims": [
+     {
+      "slug": "dc-reform-analysis-statistical-controls"
+     },
+     {
+      "slug": "dc-reforms-improved-math-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "naep-data-dc-reform-testimony",
       "strength": "W"
      }
     ]
@@ -44058,6 +44634,80 @@
       "polarity": "+",
       "slug": "dcmp-intervention-model",
       "strength": "M"
+     }
+    ]
+   },
+   "dcps-27-percent-reported-health-condition-2018-19": {
+    "claims": [
+     {
+      "slug": "dcps-28-percent-health-condition-504-iep-support"
+     },
+     {
+      "slug": "dcps-asthma-most-prevalent-double-national-average"
+     },
+     {
+      "slug": "dcps-health-condition-poorer-education-outcomes"
+     },
+     {
+      "slug": "dcps-health-condition-prevalence-demographic-patterns"
+     }
+    ]
+   },
+   "dcps-28-percent-health-condition-504-iep-support": {
+    "claims": [
+     {
+      "slug": "dcps-27-percent-reported-health-condition-2018-19"
+     },
+     {
+      "slug": "dcps-health-condition-poorer-education-outcomes"
+     },
+     {
+      "slug": "dcps-health-condition-prevalence-demographic-patterns"
+     }
+    ]
+   },
+   "dcps-asthma-most-prevalent-double-national-average": {
+    "claims": [
+     {
+      "slug": "dcps-27-percent-reported-health-condition-2018-19"
+     },
+     {
+      "slug": "dcps-health-condition-poorer-education-outcomes"
+     },
+     {
+      "slug": "dcps-health-condition-prevalence-demographic-patterns"
+     }
+    ]
+   },
+   "dcps-health-condition-poorer-education-outcomes": {
+    "claims": [
+     {
+      "slug": "dcps-27-percent-reported-health-condition-2018-19"
+     },
+     {
+      "slug": "dcps-28-percent-health-condition-504-iep-support"
+     },
+     {
+      "slug": "dcps-asthma-most-prevalent-double-national-average"
+     },
+     {
+      "slug": "dcps-health-condition-prevalence-demographic-patterns"
+     }
+    ]
+   },
+   "dcps-health-condition-prevalence-demographic-patterns": {
+    "claims": [
+     {
+      "slug": "dcps-27-percent-reported-health-condition-2018-19"
+     },
+     {
+      "slug": "dcps-28-percent-health-condition-504-iep-support"
+     },
+     {
+      "slug": "dcps-asthma-most-prevalent-double-national-average"
+     },
+     {
+      "slug": "dcps-health-condition-poorer-education-outcomes"
      }
     ]
    },
@@ -45191,6 +45841,63 @@
      }
     ]
    },
+   "democracy-prep-increases-voter-registration-16-points": {
+    "claims": [
+     {
+      "slug": "civic-focused-education-boosts-adult-participation"
+     },
+     {
+      "slug": "democracy-prep-increases-voting-rates-12-points"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "democracy-prep-public-schools",
+      "strength": "W"
+     }
+    ]
+   },
+   "democracy-prep-increases-voting-rates-12-points": {
+    "claims": [
+     {
+      "slug": "civic-focused-education-boosts-adult-participation"
+     },
+     {
+      "slug": "democracy-prep-increases-voter-registration-16-points"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "democracy-prep-public-schools",
+      "strength": "W"
+     }
+    ]
+   },
+   "demographics-affect-perceived-school-quality": {
+    "claims": [
+     {
+      "slug": "aac-perceptions-null-subgroup-associations"
+     },
+     {
+      "slug": "demographics-affect-school-selection-likelihood"
+     },
+     {
+      "slug": "demographics-unrelated-to-goal-activity"
+     }
+    ]
+   },
+   "demographics-affect-school-selection-likelihood": {
+    "claims": [
+     {
+      "slug": "demographics-affect-perceived-school-quality"
+     },
+     {
+      "slug": "growth-matters-more-when-choosing-between-schools"
+     }
+    ]
+   },
    "demographics-negligible-lms-acceptance": {
     "claims": [
      {
@@ -45295,6 +46002,9 @@
     "claims": [
      {
       "slug": "aac-perceptions-null-subgroup-associations"
+     },
+     {
+      "slug": "demographics-affect-perceived-school-quality"
      },
      {
       "slug": "demographics-trivial-effects-conceptions"
@@ -47975,7 +48685,13 @@
    "districts-face-strategic-data-use-challenges-despite-systems": {
     "claims": [
      {
+      "slug": "data-driven-instruction-support-did-not-increase-data-activities"
+     },
+     {
       "slug": "district-expert-participation-increases-research-effectiveness"
+     },
+     {
+      "slug": "essa-performance-data-support-effective-teaching"
      }
     ]
    },
@@ -49775,6 +50491,52 @@
      }
     ]
    },
+   "early-attendance-preschool-kindergarten-future-success": {
+    "claims": [
+     {
+      "slug": "chronic-absenteeism-early-grades-importance-asserted"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     },
+     {
+      "slug": "go-learn-grow-materials-support-attendance-improvement"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-importance"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-spells-success"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-attendance-importance-poster-infographic",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "early-grade-attendance-fact-sheet-nj",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "early-grades-chronic-absenteeism-fact-sheet",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "go-learn-grow-attendance-toolkit",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "parent-infographic-prek-kindergarten-attendance-importance",
+      "strength": "W"
+     }
+    ]
+   },
    "early-attribution-scales-methodological-flaws": {
     "elements": [
      {
@@ -49951,6 +50713,82 @@
       "polarity": "+",
       "slug": "spup-spoon-taped-to-cup-utensil",
       "strength": "W"
+     }
+    ]
+   },
+   "early-grades-chronic-absenteeism-risk-factors": {
+    "claims": [
+     {
+      "slug": "absence-reports-philadelphia-rct-es-019"
+     },
+     {
+      "slug": "absence-reports-reduce-absences-philadelphia-rct"
+     },
+     {
+      "slug": "barr-reduces-ninth-grade-chronic-absenteeism"
+     },
+     {
+      "slug": "chronic-absenteeism-early-grades-importance-asserted"
+     },
+     {
+      "slug": "early-attendance-preschool-kindergarten-future-success"
+     },
+     {
+      "slug": "ewims-reduces-chronic-absenteeism"
+     },
+     {
+      "slug": "go-learn-grow-materials-support-attendance-improvement"
+     },
+     {
+      "slug": "powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc"
+     },
+     {
+      "slug": "powerschool-attendance-intervention-reduces-chronic-absenteeism"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-importance"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-spells-success"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-attendance-importance-poster-infographic",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "early-grade-attendance-fact-sheet-nj",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "early-grades-chronic-absenteeism-fact-sheet",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "go-learn-grow-attendance-toolkit",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "nj-early-grades-chronic-absenteeism-fact-sheet",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "parent-infographic-prek-kindergarten-attendance-importance",
+      "strength": "W"
+     }
+    ]
+   },
+   "early-math-exposure-supports-development-confidence-later-use": {
+    "claims": [
+     {
+      "slug": "prek-kindergarten-attendance-spells-success"
      }
     ]
    },
@@ -52236,6 +53074,26 @@
      {
       "polarity": "+",
       "slug": "ames-philosophical-belief-inventory",
+      "strength": "W"
+     }
+    ]
+   },
+   "elementary-lower-infection-rates-than-secondary-model": {
+    "claims": [
+     {
+      "slug": "hybrid-attendance-dramatically-reduces-infections-model"
+     },
+     {
+      "slug": "masks-reduce-infection-spread-in-schools-model"
+     },
+     {
+      "slug": "temporary-closures-less-effective-than-hybrid-model"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mathematica-108-school-situation-model",
       "strength": "W"
      }
     ]
@@ -55085,6 +55943,72 @@
      }
     ]
    },
+   "essa-performance-data-support-effective-teaching": {
+    "claims": [
+     {
+      "slug": "districts-face-strategic-data-use-challenges-despite-systems"
+     },
+     {
+      "slug": "essa-transition-standards-stable-district-supports-grew"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "essa-transition-title-i-title-ii-a-survey",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "essa-state-discretion-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "essa-struggling-school-identification-broadened": {
+    "claims": [
+     {
+      "slug": "jtpa-self-monitoring-purposes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "essa-transition-title-i-title-ii-a-survey",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "essa-state-discretion-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "essa-transition-standards-stable-district-supports-grew": {
+    "claims": [
+     {
+      "slug": "essa-performance-data-support-effective-teaching"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "essa-transition-title-i-title-ii-a-survey",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "essa-state-discretion-framework",
+      "strength": "M"
+     }
+    ]
+   },
    "estimation-method-rarely-reported-irt-studies": {
     "claims": [
      {
@@ -55311,6 +56235,9 @@
      },
      {
       "slug": "barr-reduces-ninth-grade-chronic-absenteeism"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
      },
      {
       "slug": "ewims-positive-effects-course-failures"
@@ -56675,6 +57602,29 @@
       "polarity": "~",
       "slug": "locus-of-control-reinforcement-construct",
       "strength": "M"
+     }
+    ]
+   },
+   "expert-forecasts-failed-to-predict-effective-interventions": {
+    "claims": [
+     {
+      "slug": "megastudy-45-percent-interventions-increased-gym-visits"
+     },
+     {
+      "slug": "megastudy-carryover-effects-similar-to-previous-research"
+     },
+     {
+      "slug": "megastudy-only-8-percent-persistent-behaviour-change"
+     },
+     {
+      "slug": "microrewards-after-missed-workout-top-intervention"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "megastudy-massive-field-experiment-method",
+      "strength": "W"
      }
     ]
    },
@@ -66700,6 +67650,11 @@
       "polarity": "+",
       "slug": "fraction-face-off-program",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "naep-data-dc-reform-testimony",
+      "strength": "M"
      }
     ]
    },
@@ -69522,6 +70477,42 @@
      }
     ]
    },
+   "go-learn-grow-materials-support-attendance-improvement": {
+    "claims": [
+     {
+      "slug": "chronic-absenteeism-early-grades-importance-asserted"
+     },
+     {
+      "slug": "early-attendance-preschool-kindergarten-future-success"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-importance"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-spells-success"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-grades-attendance-improvement-toolkit",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "go-learn-grow-attendance-toolkit",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "prek-kindergarten-attendance-toolkit",
+      "strength": "W"
+     }
+    ]
+   },
    "go-tutor-corps-matched-comparison-design": {
     "claims": [
      {
@@ -70667,6 +71658,13 @@
      {
       "slug": "tutoring-may-improve-math-confidence-and-belonging"
      }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "breakthrough-collaborative-school-year-math-tutoring-pilot",
+      "strength": "W"
+     }
     ]
    },
    "group-level-scaffolding-training-increases-teacher-process-support-and-student-participation": {
@@ -70930,6 +71928,16 @@
       "polarity": "+",
       "slug": "pedagogical-judgment-three-components-horn",
       "strength": "W"
+     }
+    ]
+   },
+   "growth-matters-more-when-choosing-between-schools": {
+    "claims": [
+     {
+      "slug": "demographics-affect-school-selection-likelihood"
+     },
+     {
+      "slug": "status-matters-more-than-achievement-quality-evaluation"
      }
     ]
    },
@@ -71991,6 +72999,9 @@
      },
      {
       "slug": "waterford-level-one-no-discernible-oral-language-effects"
+     },
+     {
+      "slug": "wwc-seven-recommendations-preschool-school-readiness"
      }
     ],
     "elements": [
@@ -72020,6 +73031,9 @@
      },
      {
       "slug": "pat-lk-positive-print-knowledge-preschool"
+     },
+     {
+      "slug": "wwc-seven-recommendations-preschool-school-readiness"
      }
     ],
     "elements": [
@@ -72060,6 +73074,15 @@
      {
       "polarity": "~",
       "slug": "graphic-organizers",
+      "strength": "W"
+     }
+    ]
+   },
+   "heising-simons-funded-early-math-family-engagement-projects": {
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ymca-silicon-valley-early-math-family-engagement-project",
       "strength": "W"
      }
     ]
@@ -73300,6 +74323,19 @@
      }
     ]
    },
+   "higher-kei-scores-predict-higher-grade3-ela-pssa": {
+    "claims": [
+     {
+      "slug": "kei-index-threshold-6-matches-cohort-proficiency-rate"
+     },
+     {
+      "slug": "kei-threshold-individual-prediction-errors-large"
+     },
+     {
+      "slug": "spring-reading-assessments-align-kei-pssa"
+     }
+    ]
+   },
    "higher-order-bloom-questions-rare": {
     "claims": [
      {
@@ -74390,6 +75426,29 @@
      }
     ]
    },
+   "hybrid-attendance-dramatically-reduces-infections-model": {
+    "claims": [
+     {
+      "slug": "elementary-lower-infection-rates-than-secondary-model"
+     },
+     {
+      "slug": "masks-reduce-infection-spread-in-schools-model"
+     },
+     {
+      "slug": "temporary-closures-less-effective-than-hybrid-model"
+     },
+     {
+      "slug": "testing-effectiveness-traded-against-school-days-lost"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mathematica-108-school-situation-model",
+      "strength": "W"
+     }
+    ]
+   },
    "hyperinteractivity-can-intensify-inequality": {
     "claims": [
      {
@@ -75122,6 +76181,32 @@
       "polarity": "+",
       "slug": "mfrm-many-facet-rasch-model-ilhan-2018",
       "strength": "W"
+     }
+    ]
+   },
+   "identifying-ssi-youth-for-outreach-challenging": {
+    "claims": [
+     {
+      "slug": "intervention-value-depends-stakeholder-vantage-point"
+     },
+     {
+      "slug": "promise-intensive-case-management-sustainability-uncertain"
+     },
+     {
+      "slug": "promise-ssi-youth-transition-services-baseline-room-for-improvement"
+     },
+     {
+      "slug": "ssi-youth-solutions-interventions-aim-employment"
+     },
+     {
+      "slug": "ssi-youth-solutions-papers-evidence-gaps"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "promise-demonstration-ssi-youth-element",
+      "strength": "M"
      }
     ]
    },
@@ -76394,6 +77479,23 @@
       "polarity": "+",
       "slug": "imse-og-plus-program",
       "strength": "M"
+     }
+    ]
+   },
+   "in-school-out-of-school-predictors-examined": {
+    "claims": [
+     {
+      "slug": "near-term-academic-problem-types-defined"
+     },
+     {
+      "slug": "risk-model-assessed-two-allegheny-agencies"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "school-child-welfare-data-predictive-risk-model",
+      "strength": "W"
      }
     ]
    },
@@ -79343,6 +80445,26 @@
      }
     ]
    },
+   "intervention-value-depends-stakeholder-vantage-point": {
+    "claims": [
+     {
+      "slug": "identifying-ssi-youth-for-outreach-challenging"
+     },
+     {
+      "slug": "ssi-youth-solutions-interventions-aim-employment"
+     },
+     {
+      "slug": "ssi-youth-solutions-papers-evidence-gaps"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "framework-policymakers-identify-select-interventions",
+      "strength": "M"
+     }
+    ]
+   },
    "interventions-hasten-one-line-not-others": {
     "claims": [
      {
@@ -80828,6 +81950,9 @@
    "jtpa-self-monitoring-purposes": {
     "claims": [
      {
+      "slug": "essa-struggling-school-identification-broadened"
+     },
+     {
       "slug": "jtpa-self-monitoring-pilot-1988-89"
      }
     ],
@@ -81008,6 +82133,95 @@
       "polarity": "+",
       "slug": "peircean-architectonics-interdisciplinary-paradigm",
       "strength": "W"
+     }
+    ]
+   },
+   "kauffman-act-scores-higher-impact-not-calculable": {
+    "claims": [
+     {
+      "slug": "kauffman-impacts-exceed-average-charter-impacts"
+     },
+     {
+      "slug": "kauffman-school-seven-year-achievement-impacts"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "ewing-marion-kauffman-school-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "kauffman-impacts-exceed-average-charter-impacts": {
+    "claims": [
+     {
+      "slug": "kauffman-act-scores-higher-impact-not-calculable"
+     },
+     {
+      "slug": "kauffman-school-seven-year-achievement-impacts"
+     },
+     {
+      "slug": "kipp-middle-schools-positive-significant-math-reading-impacts"
+     },
+     {
+      "slug": "kipp-mixed-social-studies"
+     },
+     {
+      "slug": "kipp-positive-ela-achievement"
+     },
+     {
+      "slug": "kipp-positive-math-achievement"
+     },
+     {
+      "slug": "kipp-potentially-positive-science"
+     },
+     {
+      "slug": "kipp-rct-lottery-positive-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ewing-marion-kauffman-school-element",
+      "strength": "M"
+     }
+    ]
+   },
+   "kauffman-school-seven-year-achievement-impacts": {
+    "claims": [
+     {
+      "slug": "kauffman-act-scores-higher-impact-not-calculable"
+     },
+     {
+      "slug": "kauffman-impacts-exceed-average-charter-impacts"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ewing-marion-kauffman-school-element",
+      "strength": "M"
+     }
+    ]
+   },
+   "kei-index-threshold-6-matches-cohort-proficiency-rate": {
+    "claims": [
+     {
+      "slug": "higher-kei-scores-predict-higher-grade3-ela-pssa"
+     },
+     {
+      "slug": "kei-threshold-individual-prediction-errors-large"
+     }
+    ]
+   },
+   "kei-threshold-individual-prediction-errors-large": {
+    "claims": [
+     {
+      "slug": "higher-kei-scores-predict-higher-grade3-ela-pssa"
+     },
+     {
+      "slug": "kei-index-threshold-6-matches-cohort-proficiency-rate"
      }
     ]
    },
@@ -81350,6 +82564,9 @@
       "slug": "charter-consortium-effective-school-identification-method"
      },
      {
+      "slug": "kauffman-impacts-exceed-average-charter-impacts"
+     },
+     {
       "slug": "kipp-positive-ela-achievement"
      },
      {
@@ -81369,6 +82586,9 @@
    },
    "kipp-mixed-social-studies": {
     "claims": [
+     {
+      "slug": "kauffman-impacts-exceed-average-charter-impacts"
+     },
      {
       "slug": "kipp-null-student-progression"
      },
@@ -81423,6 +82643,9 @@
    "kipp-positive-ela-achievement": {
     "claims": [
      {
+      "slug": "kauffman-impacts-exceed-average-charter-impacts"
+     },
+     {
       "slug": "kipp-middle-schools-positive-significant-math-reading-impacts"
      },
      {
@@ -81454,6 +82677,9 @@
    "kipp-positive-math-achievement": {
     "claims": [
      {
+      "slug": "kauffman-impacts-exceed-average-charter-impacts"
+     },
+     {
       "slug": "kipp-middle-schools-positive-significant-math-reading-impacts"
      },
      {
@@ -81484,6 +82710,9 @@
    },
    "kipp-potentially-positive-science": {
     "claims": [
+     {
+      "slug": "kauffman-impacts-exceed-average-charter-impacts"
+     },
      {
       "slug": "kipp-mixed-social-studies"
      },
@@ -81571,6 +82800,9 @@
     "claims": [
      {
       "slug": "clark-2013-tfa-secondary-math-rct-positive"
+     },
+     {
+      "slug": "kauffman-impacts-exceed-average-charter-impacts"
      },
      {
       "slug": "kipp-middle-schools-positive-significant-math-reading-impacts"
@@ -82818,6 +84050,9 @@
    "landscape-analysis-collected-instruments-learning-strategies-mindsets": {
     "claims": [
      {
+      "slug": "child-guardian-reports-minimal-power-beyond-teacher"
+     },
+     {
       "slug": "eleven-components-iar-cdr"
      }
     ],
@@ -83342,6 +84577,9 @@
       "slug": "bmtn-external-spread-channels"
      },
      {
+      "slug": "coaches-need-district-expectations-full-activities"
+     },
+     {
       "slug": "competency-workshop-effective-diffusion-strategy"
      },
      {
@@ -83349,6 +84587,9 @@
      },
      {
       "slug": "nonparticipant-barriers-professional-development"
+     },
+     {
+      "slug": "principal-pd-instructional-leadership-no-practice-change"
      }
     ],
     "patterns": [
@@ -84579,6 +85820,19 @@
       "polarity": "+",
       "slug": "learning-centered-learning-five-assumptions",
       "strength": "W"
+     }
+    ]
+   },
+   "learning-mode-effect-largest-elementary-children": {
+    "claims": [
+     {
+      "slug": "school-staff-referral-and-informal-networks-drive-ssi-applications"
+     },
+     {
+      "slug": "ssi-applications-rebounded-with-in-person-return"
+     },
+     {
+      "slug": "virtual-learning-counties-lower-child-ssi-applications"
      }
     ]
    },
@@ -88786,6 +90040,9 @@
    "lre-reduces-delinquent-tendencies": {
     "claims": [
      {
+      "slug": "civic-focused-education-boosts-adult-participation"
+     },
+     {
       "slug": "gced-potential-culture-of-peace"
      },
      {
@@ -89954,6 +91211,26 @@
      }
     ]
    },
+   "masks-reduce-infection-spread-in-schools-model": {
+    "claims": [
+     {
+      "slug": "elementary-lower-infection-rates-than-secondary-model"
+     },
+     {
+      "slug": "hybrid-attendance-dramatically-reduces-infections-model"
+     },
+     {
+      "slug": "temporary-closures-less-effective-than-hybrid-model"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mathematica-108-school-situation-model",
+      "strength": "W"
+     }
+    ]
+   },
    "massive-range-pbl-outcome-effect-sizes": {
     "claims": [
      {
@@ -90274,6 +91551,9 @@
    "mastery-positive-affective-effects": {
     "claims": [
      {
+      "slug": "cignition-tutoring-confidence-enjoyment-gains"
+     },
+     {
       "slug": "mastery-mixed-teacher-variable-effects"
      },
      {
@@ -90579,6 +91859,9 @@
       "slug": "math-corps-strong-attendance-replication-sites"
      },
      {
+      "slug": "mathematica-implementation-study-early-math-scale-up-2018-2019"
+     },
+     {
       "slug": "summer-math-programs-large-grade-improvements-next-semester"
      },
      {
@@ -90766,6 +92049,20 @@
      }
     ]
    },
+   "mathematica-implementation-study-early-math-scale-up-2018-2019": {
+    "claims": [
+     {
+      "slug": "math-corps-nsf-funded-three-city-replication"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ymca-silicon-valley-early-math-family-engagement-project",
+      "strength": "W"
+     }
+    ]
+   },
    "mba-students-experience-courses-as-coi": {
     "claims": [
      {
@@ -90883,6 +92180,20 @@
       "polarity": "+",
       "slug": "dual-anticipation-start-stop-mdc-intermediate-stage",
       "strength": "M"
+     }
+    ]
+   },
+   "me-inventory-most-useful-early-research-cycle": {
+    "claims": [
+     {
+      "slug": "cl-state-teacher-policy-audit-inventory-enables-cross-state-comparison"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "measurement-evaluation-needs-inventory-tool",
+      "strength": "W"
      }
     ]
    },
@@ -91952,6 +93263,75 @@
      {
       "polarity": "+",
       "slug": "neurotheology-distributed-networks-state-trait-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "megastudy-45-percent-interventions-increased-gym-visits": {
+    "claims": [
+     {
+      "slug": "expert-forecasts-failed-to-predict-effective-interventions"
+     },
+     {
+      "slug": "megastudy-carryover-effects-similar-to-previous-research"
+     },
+     {
+      "slug": "megastudy-only-8-percent-persistent-behaviour-change"
+     },
+     {
+      "slug": "microrewards-after-missed-workout-top-intervention"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "megastudy-massive-field-experiment-method",
+      "strength": "W"
+     }
+    ]
+   },
+   "megastudy-carryover-effects-similar-to-previous-research": {
+    "claims": [
+     {
+      "slug": "expert-forecasts-failed-to-predict-effective-interventions"
+     },
+     {
+      "slug": "megastudy-45-percent-interventions-increased-gym-visits"
+     },
+     {
+      "slug": "megastudy-only-8-percent-persistent-behaviour-change"
+     },
+     {
+      "slug": "microrewards-after-missed-workout-top-intervention"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "megastudy-massive-field-experiment-method",
+      "strength": "W"
+     }
+    ]
+   },
+   "megastudy-only-8-percent-persistent-behaviour-change": {
+    "claims": [
+     {
+      "slug": "expert-forecasts-failed-to-predict-effective-interventions"
+     },
+     {
+      "slug": "megastudy-45-percent-interventions-increased-gym-visits"
+     },
+     {
+      "slug": "megastudy-carryover-effects-similar-to-previous-research"
+     },
+     {
+      "slug": "microrewards-after-missed-workout-top-intervention"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "megastudy-massive-field-experiment-method",
       "strength": "W"
      }
     ]
@@ -93205,6 +94585,29 @@
      }
     ]
    },
+   "microrewards-after-missed-workout-top-intervention": {
+    "claims": [
+     {
+      "slug": "expert-forecasts-failed-to-predict-effective-interventions"
+     },
+     {
+      "slug": "megastudy-45-percent-interventions-increased-gym-visits"
+     },
+     {
+      "slug": "megastudy-carryover-effects-similar-to-previous-research"
+     },
+     {
+      "slug": "megastudy-only-8-percent-persistent-behaviour-change"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "megastudy-massive-field-experiment-method",
+      "strength": "W"
+     }
+    ]
+   },
    "mics-pre-post-no-group-differential-effect": {
     "claims": [
      {
@@ -93228,6 +94631,13 @@
       "polarity": "+",
       "slug": "dct-account-video-l2-comprehension",
       "strength": "M"
+     }
+    ]
+   },
+   "middle-schools-disproportionately-identified-tsi-students-with-disabilities": {
+    "claims": [
+     {
+      "slug": "accountability-features-combined-make-middle-schools-more-likely-tsi"
      }
     ]
    },
@@ -93274,6 +94684,12 @@
    "middle-years-math-tutoring-portfolio-positive-average-effects": {
     "claims": [
      {
+      "slug": "blueprint-confidence-belonging-modest-increase"
+     },
+     {
+      "slug": "cignition-tutor-relationships-positive-uniform"
+     },
+     {
       "slug": "group-and-virtual-tutoring-boost-math-knowledge"
      },
      {
@@ -93287,6 +94703,13 @@
      },
      {
       "slug": "tutoring-may-improve-math-confidence-and-belonging"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cignition-virtual-group-math-tutoring",
+      "strength": "W"
      }
     ]
    },
@@ -94469,6 +95892,9 @@
    },
    "mma-teacher-survey-qualitative-findings": {
     "claims": [
+     {
+      "slug": "cignition-tutoring-confidence-enjoyment-gains"
+     },
      {
       "slug": "cognitive-apprenticeship-attitude-anxiety-confidence-effects"
      },
@@ -97029,6 +98455,13 @@
      {
       "slug": "fraction-face-off-potentially-positive-general-math-achievement"
      }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "naep-data-dc-reform-testimony",
+      "strength": "W"
+     }
     ]
    },
    "naive-hope-negatively-related-civic-engagement": {
@@ -97241,6 +98674,23 @@
       "polarity": "+",
       "slug": "microstructure-experience-macrostructure-general-framework",
       "strength": "M"
+     }
+    ]
+   },
+   "near-term-academic-problem-types-defined": {
+    "claims": [
+     {
+      "slug": "in-school-out-of-school-predictors-examined"
+     },
+     {
+      "slug": "risk-model-assessed-two-allegheny-agencies"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "school-child-welfare-data-predictive-risk-model",
+      "strength": "W"
      }
     ]
    },
@@ -97669,6 +99119,103 @@
       "polarity": "+",
       "slug": "student-momentum-indicator-theory",
       "strength": "M"
+     }
+    ]
+   },
+   "nj-ged-takers-stronger-grade8-background": {
+    "claims": [
+     {
+      "slug": "nj-hse-takers-differ-from-nontakers"
+     },
+     {
+      "slug": "nj-new-threshold-passing-rates"
+     },
+     {
+      "slug": "nj-original-thresholds-hiset-tasc-easier-first-attempt"
+     },
+     {
+      "slug": "nj-reduced-thresholds-equalized-first-attempt-passing"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "nj-three-hse-exam-options",
+      "strength": "W"
+     }
+    ]
+   },
+   "nj-hse-takers-differ-from-nontakers": {
+    "claims": [
+     {
+      "slug": "nj-ged-takers-stronger-grade8-background"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "nj-three-hse-exam-options",
+      "strength": "W"
+     }
+    ]
+   },
+   "nj-new-threshold-passing-rates": {
+    "claims": [
+     {
+      "slug": "nj-ged-takers-stronger-grade8-background"
+     },
+     {
+      "slug": "nj-original-thresholds-hiset-tasc-easier-first-attempt"
+     },
+     {
+      "slug": "nj-reduced-thresholds-equalized-first-attempt-passing"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "nj-three-hse-exam-options",
+      "strength": "W"
+     }
+    ]
+   },
+   "nj-original-thresholds-hiset-tasc-easier-first-attempt": {
+    "claims": [
+     {
+      "slug": "nj-ged-takers-stronger-grade8-background"
+     },
+     {
+      "slug": "nj-new-threshold-passing-rates"
+     },
+     {
+      "slug": "nj-reduced-thresholds-equalized-first-attempt-passing"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "nj-three-hse-exam-options",
+      "strength": "W"
+     }
+    ]
+   },
+   "nj-reduced-thresholds-equalized-first-attempt-passing": {
+    "claims": [
+     {
+      "slug": "nj-ged-takers-stronger-grade8-background"
+     },
+     {
+      "slug": "nj-new-threshold-passing-rates"
+     },
+     {
+      "slug": "nj-original-thresholds-hiset-tasc-easier-first-attempt"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "nj-three-hse-exam-options",
+      "strength": "W"
      }
     ]
    },
@@ -99212,6 +100759,9 @@
    },
    "nonparticipant-barriers-professional-development": {
     "claims": [
+     {
+      "slug": "coaching-individualized-support-versus-workshops"
+     },
      {
       "slug": "competency-workshop-effective-diffusion-strategy"
      },
@@ -102972,6 +104522,9 @@
      },
      {
       "slug": "teacher-student-relationships-improve-engagement"
+     },
+     {
+      "slug": "tips-family-involvement-reading-science"
      }
     ],
     "principles": [
@@ -104824,6 +106377,9 @@
       "slug": "bmtn-external-spread-channels"
      },
      {
+      "slug": "coaching-individualized-support-versus-workshops"
+     },
+     {
       "slug": "pd-support-salience-depends-on-adaptive-cycle-phase"
      },
      {
@@ -106077,6 +107633,9 @@
      },
      {
       "slug": "pef-fy2024-roi-21-percent-similar-to-fy2023"
+     },
+     {
+      "slug": "promise-service-costs-relatively-large-investments"
      }
     ],
     "elements": [
@@ -106143,6 +107702,9 @@
      },
      {
       "slug": "pef-fy2024-cost-76-million-up-from-54-million"
+     },
+     {
+      "slug": "promise-service-costs-relatively-large-investments"
      }
     ],
     "elements": [
@@ -106177,6 +107739,36 @@
       "polarity": "+",
       "slug": "sdl-three-dimensions-framework",
       "strength": "W"
+     }
+    ]
+   },
+   "pennsylvania-2022-ela-proficiency-regained-six-of-ten-points": {
+    "claims": [
+     {
+      "slug": "pennsylvania-2022-math-proficiency-regained-nearly-five-of-thirteen-points"
+     },
+     {
+      "slug": "pennsylvania-2022-proficiency-still-below-pre-pandemic"
+     }
+    ]
+   },
+   "pennsylvania-2022-math-proficiency-regained-nearly-five-of-thirteen-points": {
+    "claims": [
+     {
+      "slug": "pennsylvania-2022-ela-proficiency-regained-six-of-ten-points"
+     },
+     {
+      "slug": "pennsylvania-2022-proficiency-still-below-pre-pandemic"
+     }
+    ]
+   },
+   "pennsylvania-2022-proficiency-still-below-pre-pandemic": {
+    "claims": [
+     {
+      "slug": "pennsylvania-2022-ela-proficiency-regained-six-of-ten-points"
+     },
+     {
+      "slug": "pennsylvania-2022-math-proficiency-regained-nearly-five-of-thirteen-points"
      }
     ]
    },
@@ -108957,6 +110549,23 @@
      }
     ]
    },
+   "pooled-pcr-most-effective-testing-strategy": {
+    "claims": [
+     {
+      "slug": "routine-testing-reduces-within-school-transmission"
+     },
+     {
+      "slug": "testing-effectiveness-traded-against-school-days-lost"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mathematica-108-school-situation-model",
+      "strength": "W"
+     }
+    ]
+   },
    "poor-contact-ee-curriculum-documents": {
     "claims": [
      {
@@ -109711,6 +111320,9 @@
       "slug": "barr-reduces-ninth-grade-chronic-absenteeism"
      },
      {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     },
+     {
       "slug": "ewims-reduces-chronic-absenteeism"
      },
      {
@@ -109752,6 +111364,9 @@
      },
      {
       "slug": "barr-reduces-ninth-grade-chronic-absenteeism"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
      },
      {
       "slug": "powerschool-attendance-intervention-in-seat-attendance-null"
@@ -110025,6 +111640,9 @@
     "claims": [
      {
       "slug": "prek-mathematics-positive-math-effects"
+     },
+     {
+      "slug": "wwc-seven-recommendations-preschool-school-readiness"
      }
     ],
     "designs": [
@@ -110255,6 +111873,81 @@
      }
     ]
    },
+   "prek-kindergarten-attendance-importance": {
+    "claims": [
+     {
+      "slug": "chronic-absenteeism-early-grades-importance-asserted"
+     },
+     {
+      "slug": "early-attendance-preschool-kindergarten-future-success"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     },
+     {
+      "slug": "go-learn-grow-materials-support-attendance-improvement"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-spells-success"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-grades-chronic-absenteeism-fact-sheet",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "go-learn-grow-attendance-toolkit",
+      "strength": "W"
+     }
+    ]
+   },
+   "prek-kindergarten-attendance-spells-success": {
+    "claims": [
+     {
+      "slug": "chronic-absenteeism-early-grades-importance-asserted"
+     },
+     {
+      "slug": "early-attendance-preschool-kindergarten-future-success"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     },
+     {
+      "slug": "early-math-exposure-supports-development-confidence-later-use"
+     },
+     {
+      "slug": "go-learn-grow-materials-support-attendance-improvement"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-importance"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-attendance-importance-poster-infographic",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "early-grades-chronic-absenteeism-fact-sheet",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "go-learn-grow-attendance-toolkit",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "parent-infographic-prek-kindergarten-attendance-importance",
+      "strength": "W"
+     }
+    ]
+   },
    "prek-mathematics-no-oral-language-effects": {
     "claims": [
      {
@@ -110418,6 +112111,13 @@
       "polarity": "+",
       "slug": "grammar-decisions-based-on-learner-variables",
       "strength": "W"
+     }
+    ]
+   },
+   "preschool-instruction-key-factors-wwc": {
+    "claims": [
+     {
+      "slug": "clasp-critical-success-factors-communication"
      }
     ]
    },
@@ -110983,6 +112683,58 @@
      },
      {
       "slug": "longer-exposure-improves-free-recall-no-interaction"
+     }
+    ]
+   },
+   "principal-pd-instructional-leadership-no-practice-change": {
+    "claims": [
+     {
+      "slug": "leader-teacher-diffusion-uneven"
+     },
+     {
+      "slug": "principal-pd-no-change-feedback-usefulness-perceptions"
+     },
+     {
+      "slug": "principal-pd-no-student-achievement-improvement"
+     },
+     {
+      "slug": "principal-pd-teachers-report-less-instructional-support"
+     }
+    ]
+   },
+   "principal-pd-no-change-feedback-usefulness-perceptions": {
+    "claims": [
+     {
+      "slug": "principal-pd-instructional-leadership-no-practice-change"
+     },
+     {
+      "slug": "principal-pd-teachers-report-less-instructional-support"
+     }
+    ]
+   },
+   "principal-pd-no-student-achievement-improvement": {
+    "claims": [
+     {
+      "slug": "principal-pd-instructional-leadership-no-practice-change"
+     },
+     {
+      "slug": "principal-pd-teachers-report-less-instructional-support"
+     }
+    ]
+   },
+   "principal-pd-teachers-report-less-instructional-support": {
+    "claims": [
+     {
+      "slug": "balanced-leadership-comparison-contamination"
+     },
+     {
+      "slug": "principal-pd-instructional-leadership-no-practice-change"
+     },
+     {
+      "slug": "principal-pd-no-change-feedback-usefulness-perceptions"
+     },
+     {
+      "slug": "principal-pd-no-student-achievement-improvement"
      }
     ]
    },
@@ -113667,6 +115419,240 @@
      }
     ]
    },
+   "promise-enrollment-selection-work-oriented-youth": {
+    "claims": [
+     {
+      "slug": "promise-similar-education-enrollment-treatment-control"
+     },
+     {
+      "slug": "promise-youth-worse-outcomes-than-acs-peers"
+     },
+     {
+      "slug": "way2work-implementation-good-effects-absent"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "promise-demonstration-ssi-youth-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "promise-few-differences-job-characteristics-barriers": {
+    "claims": [
+     {
+      "slug": "promise-higher-employment-rates-than-control"
+     },
+     {
+      "slug": "promise-lower-educational-attainment-than-control"
+     },
+     {
+      "slug": "promise-similar-education-enrollment-treatment-control"
+     },
+     {
+      "slug": "promise-youth-worse-outcomes-than-acs-peers"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "promise-demonstration-ssi-youth-element",
+      "strength": "M"
+     }
+    ]
+   },
+   "promise-formal-partnerships-enhance-collaboration-with-conditions": {
+    "claims": [
+     {
+      "slug": "clasp-critical-success-factors-communication"
+     },
+     {
+      "slug": "clasp-diverse-users-missing-library-links"
+     },
+     {
+      "slug": "clasp-limited-collaboration-models"
+     },
+     {
+      "slug": "rpp-adaptive-practices-sustain-partnerships-during-disruption"
+     }
+    ]
+   },
+   "promise-higher-employment-rates-than-control": {
+    "claims": [
+     {
+      "slug": "promise-few-differences-job-characteristics-barriers"
+     },
+     {
+      "slug": "promise-lower-educational-attainment-than-control"
+     },
+     {
+      "slug": "promise-similar-education-enrollment-treatment-control"
+     },
+     {
+      "slug": "promise-youth-worse-outcomes-than-acs-peers"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "promise-demonstration-ssi-youth-element",
+      "strength": "M"
+     }
+    ]
+   },
+   "promise-innovations-case-management-early-work-family-focus": {
+    "claims": [
+     {
+      "slug": "promise-intensive-case-management-sustainability-uncertain"
+     },
+     {
+      "slug": "promise-service-costs-relatively-large-investments"
+     },
+     {
+      "slug": "promise-ssi-youth-transition-services-baseline-room-for-improvement"
+     }
+    ]
+   },
+   "promise-intensive-case-management-sustainability-uncertain": {
+    "claims": [
+     {
+      "slug": "identifying-ssi-youth-for-outreach-challenging"
+     },
+     {
+      "slug": "promise-innovations-case-management-early-work-family-focus"
+     },
+     {
+      "slug": "promise-ssi-youth-transition-services-baseline-room-for-improvement"
+     }
+    ]
+   },
+   "promise-lower-educational-attainment-than-control": {
+    "claims": [
+     {
+      "slug": "promise-few-differences-job-characteristics-barriers"
+     },
+     {
+      "slug": "promise-higher-employment-rates-than-control"
+     },
+     {
+      "slug": "promise-similar-education-enrollment-treatment-control"
+     },
+     {
+      "slug": "promise-youth-worse-outcomes-than-acs-peers"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "promise-demonstration-ssi-youth-element",
+      "strength": "M"
+     }
+    ]
+   },
+   "promise-service-costs-relatively-large-investments": {
+    "claims": [
+     {
+      "slug": "pef-fy2024-benefits-93-million-families-largest-share"
+     },
+     {
+      "slug": "pef-fy2024-roi-21-percent-similar-to-fy2023"
+     },
+     {
+      "slug": "promise-innovations-case-management-early-work-family-focus"
+     },
+     {
+      "slug": "ssi-youth-solutions-papers-evidence-gaps"
+     },
+     {
+      "slug": "web-based-ca-instructor-time-burden"
+     }
+    ]
+   },
+   "promise-similar-education-enrollment-treatment-control": {
+    "claims": [
+     {
+      "slug": "promise-enrollment-selection-work-oriented-youth"
+     },
+     {
+      "slug": "promise-few-differences-job-characteristics-barriers"
+     },
+     {
+      "slug": "promise-higher-employment-rates-than-control"
+     },
+     {
+      "slug": "promise-lower-educational-attainment-than-control"
+     },
+     {
+      "slug": "way2work-high-school-completion-gain-no-postsecondary-effect"
+     },
+     {
+      "slug": "way2work-services-substitutes-for-existing-services"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "promise-demonstration-ssi-youth-element",
+      "strength": "M"
+     }
+    ]
+   },
+   "promise-ssi-youth-transition-services-baseline-room-for-improvement": {
+    "claims": [
+     {
+      "slug": "identifying-ssi-youth-for-outreach-challenging"
+     },
+     {
+      "slug": "promise-innovations-case-management-early-work-family-focus"
+     },
+     {
+      "slug": "promise-intensive-case-management-sustainability-uncertain"
+     },
+     {
+      "slug": "ssi-youth-solutions-interventions-aim-employment"
+     },
+     {
+      "slug": "way2work-services-substitutes-for-existing-services"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "promise-demonstration-ssi-youth-element",
+      "strength": "M"
+     }
+    ]
+   },
+   "promise-youth-worse-outcomes-than-acs-peers": {
+    "claims": [
+     {
+      "slug": "promise-enrollment-selection-work-oriented-youth"
+     },
+     {
+      "slug": "promise-few-differences-job-characteristics-barriers"
+     },
+     {
+      "slug": "promise-higher-employment-rates-than-control"
+     },
+     {
+      "slug": "promise-lower-educational-attainment-than-control"
+     },
+     {
+      "slug": "ssi-youth-solutions-interventions-aim-employment"
+     },
+     {
+      "slug": "ssi-youth-solutions-papers-evidence-gaps"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "promise-demonstration-ssi-youth-element",
+      "strength": "W"
+     }
+    ]
+   },
    "prompt-format-first-second-attempt-accuracy": {
     "claims": [
      {
@@ -114819,6 +116805,25 @@
       "polarity": "+",
       "slug": "reading-apprenticeship-program-family",
       "strength": "W"
+     }
+    ]
+   },
+   "random-assignment-study-data-use-coaching-effects": {
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "data-driven-instruction-support-intervention",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "student-data-instructional-coaching-support",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "student-data-use-coaching-support-schools",
+      "strength": "M"
      }
     ]
    },
@@ -116219,6 +118224,20 @@
      }
     ]
    },
+   "reading-intervention-group-size-varies-by-grade-band": {
+    "claims": [
+     {
+      "slug": "barr-multisite-cluster-psat-cohort-variation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "grades-4-9-reading-interventions-wwc-scope",
+      "strength": "W"
+     }
+    ]
+   },
    "reading-literary-fiction-improves-theory-of-mind": {
     "claims": [
      {
@@ -117025,6 +119044,9 @@
      },
      {
       "slug": "redi-kindergarten-followup-faded-effects"
+     },
+     {
+      "slug": "wwc-seven-recommendations-preschool-school-readiness"
      }
     ],
     "elements": [
@@ -117872,6 +119894,9 @@
      },
      {
       "slug": "red-light-purple-light-uncertain-reading-literacy"
+     },
+     {
+      "slug": "wwc-seven-recommendations-preschool-school-readiness"
      }
     ],
     "designs": [
@@ -117896,6 +119921,9 @@
      },
      {
       "slug": "red-light-purple-light-uncertain-reading-literacy"
+     },
+     {
+      "slug": "wwc-seven-recommendations-preschool-school-readiness"
      }
     ],
     "elements": [
@@ -120000,6 +122028,23 @@
      {
       "polarity": "+",
       "slug": "krashen-five-hypotheses-bilingual-principles",
+      "strength": "W"
+     }
+    ]
+   },
+   "report-overviews-federal-support-and-state-variation": {
+    "claims": [
+     {
+      "slug": "data-infrastructure-performance-measurement-dimension"
+     },
+     {
+      "slug": "saa-oa-registration-differences-examined"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "state-apprenticeship-systems-capacity-assessment-study",
       "strength": "W"
      }
     ]
@@ -122208,6 +124253,23 @@
      }
     ]
    },
+   "risk-model-assessed-two-allegheny-agencies": {
+    "claims": [
+     {
+      "slug": "in-school-out-of-school-predictors-examined"
+     },
+     {
+      "slug": "near-term-academic-problem-types-defined"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "school-child-welfare-data-predictive-risk-model",
+      "strength": "W"
+     }
+    ]
+   },
    "rites-of-passage-socialize-and-transform-youth": {
     "claims": [
      {
@@ -122528,6 +124590,23 @@
      }
     ]
    },
+   "routine-testing-reduces-within-school-transmission": {
+    "claims": [
+     {
+      "slug": "pooled-pcr-most-effective-testing-strategy"
+     },
+     {
+      "slug": "testing-effectiveness-traded-against-school-days-lost"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mathematica-108-school-situation-model",
+      "strength": "W"
+     }
+    ]
+   },
    "routines-focused-justify-then-switch-dea": {
     "claims": [
      {
@@ -122591,6 +124670,9 @@
      },
      {
       "slug": "four-relational-components-coaching-partnership"
+     },
+     {
+      "slug": "promise-formal-partnerships-enhance-collaboration-with-conditions"
      },
      {
       "slug": "relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety"
@@ -122978,6 +125060,20 @@
      },
      {
       "slug": "voyager-alphabetics-null-significance"
+     }
+    ]
+   },
+   "saa-oa-registration-differences-examined": {
+    "claims": [
+     {
+      "slug": "report-overviews-federal-support-and-state-variation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "state-apprenticeship-systems-capacity-assessment-study",
+      "strength": "W"
      }
     ]
    },
@@ -123610,6 +125706,36 @@
       "polarity": "+",
       "slug": "home-culture-inclusion-framework",
       "strength": "M"
+     }
+    ]
+   },
+   "school-leaders-as-instructional-leaders": {
+    "claims": [
+     {
+      "slug": "coaches-need-district-expectations-full-activities"
+     },
+     {
+      "slug": "teachers-key-role-student-success-districts-cmos"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "high-performing-district-cmo-case-studies",
+      "strength": "W"
+     }
+    ]
+   },
+   "school-staff-referral-and-informal-networks-drive-ssi-applications": {
+    "claims": [
+     {
+      "slug": "learning-mode-effect-largest-elementary-children"
+     },
+     {
+      "slug": "ssi-applications-rebounded-with-in-person-return"
+     },
+     {
+      "slug": "virtual-learning-counties-lower-child-ssi-applications"
      }
     ]
    },
@@ -133114,6 +135240,28 @@
      }
     ]
    },
+   "shared-mission-vision-goals-critical-districts-cmos": {
+    "claims": [
+     {
+      "slug": "accountability-indicator-strengths-weaknesses"
+     },
+     {
+      "slug": "teachers-key-role-student-success-districts-cmos"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "correlational-analysis-achievement-growth-district-cmo-practices",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "high-performing-district-cmo-case-studies",
+      "strength": "W"
+     }
+    ]
+   },
    "shared-top-dcs-different-frequencies": {
     "claims": [
      {
@@ -138995,6 +141143,13 @@
      }
     ]
    },
+   "spring-reading-assessments-align-kei-pssa": {
+    "claims": [
+     {
+      "slug": "higher-kei-scores-predict-higher-grade3-ela-pssa"
+     }
+    ]
+   },
    "springboard-summer-attendance-threshold-null": {
     "claims": [
      {
@@ -139733,6 +141888,57 @@
      }
     ]
    },
+   "ssi-applications-rebounded-with-in-person-return": {
+    "claims": [
+     {
+      "slug": "learning-mode-effect-largest-elementary-children"
+     },
+     {
+      "slug": "school-staff-referral-and-informal-networks-drive-ssi-applications"
+     },
+     {
+      "slug": "virtual-learning-counties-lower-child-ssi-applications"
+     }
+    ]
+   },
+   "ssi-youth-solutions-interventions-aim-employment": {
+    "claims": [
+     {
+      "slug": "identifying-ssi-youth-for-outreach-challenging"
+     },
+     {
+      "slug": "intervention-value-depends-stakeholder-vantage-point"
+     },
+     {
+      "slug": "promise-ssi-youth-transition-services-baseline-room-for-improvement"
+     },
+     {
+      "slug": "promise-youth-worse-outcomes-than-acs-peers"
+     },
+     {
+      "slug": "ssi-youth-solutions-papers-evidence-gaps"
+     }
+    ]
+   },
+   "ssi-youth-solutions-papers-evidence-gaps": {
+    "claims": [
+     {
+      "slug": "identifying-ssi-youth-for-outreach-challenging"
+     },
+     {
+      "slug": "intervention-value-depends-stakeholder-vantage-point"
+     },
+     {
+      "slug": "promise-service-costs-relatively-large-investments"
+     },
+     {
+      "slug": "promise-youth-worse-outcomes-than-acs-peers"
+     },
+     {
+      "slug": "ssi-youth-solutions-interventions-aim-employment"
+     }
+    ]
+   },
    "ssl-evidence-gaps-fluency-comprehension": {
     "claims": [
      {
@@ -140301,6 +142507,13 @@
       "polarity": "+",
       "slug": "criterion-referenced-testing-definition",
       "strength": "W"
+     }
+    ]
+   },
+   "status-matters-more-than-achievement-quality-evaluation": {
+    "claims": [
+     {
+      "slug": "growth-matters-more-when-choosing-between-schools"
      }
     ]
    },
@@ -141367,6 +143580,15 @@
    },
    "strong-student-tutor-relationships-key-to-tutoring-success": {
     "claims": [
+     {
+      "slug": "blueprint-confidence-belonging-modest-increase"
+     },
+     {
+      "slug": "blueprint-tutor-relationships-varied-by-site"
+     },
+     {
+      "slug": "breakthrough-tutoring-favorable-relationships-belonging"
+     },
      {
       "slug": "ignite-reading-attendance-associated-gains"
      },
@@ -147684,6 +149906,54 @@
      }
     ]
    },
+   "teacher-reports-add-power-beyond-iq": {
+    "claims": [
+     {
+      "slug": "child-guardian-reports-minimal-power-beyond-teacher"
+     },
+     {
+      "slug": "teacher-reports-highest-internal-consistency-noncognitive"
+     },
+     {
+      "slug": "teacher-reports-most-predictive-later-outcomes"
+     },
+     {
+      "slug": "three-respondent-reports-correlated"
+     }
+    ]
+   },
+   "teacher-reports-highest-internal-consistency-noncognitive": {
+    "claims": [
+     {
+      "slug": "child-guardian-reports-minimal-power-beyond-teacher"
+     },
+     {
+      "slug": "teacher-reports-add-power-beyond-iq"
+     },
+     {
+      "slug": "teacher-reports-most-predictive-later-outcomes"
+     },
+     {
+      "slug": "three-respondent-reports-correlated"
+     }
+    ]
+   },
+   "teacher-reports-most-predictive-later-outcomes": {
+    "claims": [
+     {
+      "slug": "child-guardian-reports-minimal-power-beyond-teacher"
+     },
+     {
+      "slug": "teacher-reports-add-power-beyond-iq"
+     },
+     {
+      "slug": "teacher-reports-highest-internal-consistency-noncognitive"
+     },
+     {
+      "slug": "three-respondent-reports-correlated"
+     }
+    ]
+   },
    "teacher-researcher-difficulties-eased-by-reflective-labs": {
     "claims": [
      {
@@ -148248,6 +150518,28 @@
       "polarity": "+",
       "slug": "teacher-factor-landscape-secondary-writing",
       "strength": "M"
+     }
+    ]
+   },
+   "teachers-key-role-student-success-districts-cmos": {
+    "claims": [
+     {
+      "slug": "school-leaders-as-instructional-leaders"
+     },
+     {
+      "slug": "shared-mission-vision-goals-critical-districts-cmos"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "correlational-analysis-achievement-growth-district-cmo-practices",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "high-performing-district-cmo-case-studies",
+      "strength": "W"
      }
     ]
    },
@@ -149296,6 +151588,26 @@
      }
     ]
    },
+   "temporary-closures-less-effective-than-hybrid-model": {
+    "claims": [
+     {
+      "slug": "elementary-lower-infection-rates-than-secondary-model"
+     },
+     {
+      "slug": "hybrid-attendance-dramatically-reduces-infections-model"
+     },
+     {
+      "slug": "masks-reduce-infection-spread-in-schools-model"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mathematica-108-school-situation-model",
+      "strength": "W"
+     }
+    ]
+   },
    "ten-common-seven-reading-four-listening-subskills": {
     "claims": [
      {
@@ -149459,6 +151771,26 @@
      {
       "polarity": "+",
       "slug": "lc101-launchcode-coding-apprenticeship-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "testing-effectiveness-traded-against-school-days-lost": {
+    "claims": [
+     {
+      "slug": "hybrid-attendance-dramatically-reduces-infections-model"
+     },
+     {
+      "slug": "pooled-pcr-most-effective-testing-strategy"
+     },
+     {
+      "slug": "routine-testing-reduces-within-school-transmission"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mathematica-108-school-situation-model",
       "strength": "W"
      }
     ]
@@ -150318,6 +152650,22 @@
      }
     ]
    },
+   "three-respondent-reports-correlated": {
+    "claims": [
+     {
+      "slug": "child-guardian-reports-minimal-power-beyond-teacher"
+     },
+     {
+      "slug": "teacher-reports-add-power-beyond-iq"
+     },
+     {
+      "slug": "teacher-reports-highest-internal-consistency-noncognitive"
+     },
+     {
+      "slug": "teacher-reports-most-predictive-later-outcomes"
+     }
+    ]
+   },
    "three-srl-strategy-factors-predict-efl-proficiency": {
     "claims": [
      {
@@ -150671,6 +153019,89 @@
       "polarity": "+",
       "slug": "student-momentum-indicator-theory",
       "strength": "M"
+     }
+    ]
+   },
+   "tips-family-involvement-reading-science": {
+    "claims": [
+     {
+      "slug": "parent-involvement-improves-achievement"
+     },
+     {
+      "slug": "tips-family-reported-involvement-math"
+     },
+     {
+      "slug": "tips-math-achievement-favored"
+     },
+     {
+      "slug": "tips-student-reported-family-involvement-math"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tips-interactive-homework-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "tips-family-reported-involvement-math": {
+    "claims": [
+     {
+      "slug": "tips-family-involvement-reading-science"
+     },
+     {
+      "slug": "tips-math-achievement-favored"
+     },
+     {
+      "slug": "tips-student-reported-family-involvement-math"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tips-interactive-homework-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "tips-math-achievement-favored": {
+    "claims": [
+     {
+      "slug": "tips-family-involvement-reading-science"
+     },
+     {
+      "slug": "tips-family-reported-involvement-math"
+     },
+     {
+      "slug": "tips-student-reported-family-involvement-math"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tips-interactive-homework-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "tips-student-reported-family-involvement-math": {
+    "claims": [
+     {
+      "slug": "tips-family-involvement-reading-science"
+     },
+     {
+      "slug": "tips-family-reported-involvement-math"
+     },
+     {
+      "slug": "tips-math-achievement-favored"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tips-interactive-homework-program",
+      "strength": "W"
      }
     ]
    },
@@ -152484,6 +154915,9 @@
    "tutoring-effect-size-aligned-with-implementation-quality": {
     "claims": [
      {
+      "slug": "blueprint-larger-groups-scores-up-relationships-weaker"
+     },
+     {
       "slug": "group-and-virtual-tutoring-boost-math-knowledge"
      },
      {
@@ -152620,6 +155054,15 @@
    "tutoring-may-improve-math-confidence-and-belonging": {
     "claims": [
      {
+      "slug": "blueprint-confidence-belonging-modest-increase"
+     },
+     {
+      "slug": "breakthrough-tutoring-favorable-relationships-belonging"
+     },
+     {
+      "slug": "cignition-tutor-relationships-positive-uniform"
+     },
+     {
       "slug": "group-and-virtual-tutoring-boost-math-knowledge"
      },
      {
@@ -152636,6 +155079,18 @@
      },
      {
       "slug": "summer-math-programs-minimal-mindset-confidence-change"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "breakthrough-collaborative-school-year-math-tutoring-pilot",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "cignition-virtual-group-math-tutoring",
+      "strength": "W"
      }
     ]
    },
@@ -154556,6 +157011,19 @@
      }
     ]
    },
+   "virtual-learning-counties-lower-child-ssi-applications": {
+    "claims": [
+     {
+      "slug": "learning-mode-effect-largest-elementary-children"
+     },
+     {
+      "slug": "school-staff-referral-and-informal-networks-drive-ssi-applications"
+     },
+     {
+      "slug": "ssi-applications-rebounded-with-in-person-return"
+     }
+    ]
+   },
    "virtual-pre-k-class-observations-practical-centers-fccs": {
     "claims": [
      {
@@ -155441,6 +157909,9 @@
      },
      {
       "slug": "waterford-versus-letter-people-similar-outcomes"
+     },
+     {
+      "slug": "wwc-seven-recommendations-preschool-school-readiness"
      }
     ],
     "elements": [
@@ -155467,6 +157938,9 @@
      },
      {
       "slug": "werp-potentially-positive-alphabetics"
+     },
+     {
+      "slug": "wwc-seven-recommendations-preschool-school-readiness"
      }
     ],
     "elements": [
@@ -155557,6 +158031,357 @@
       "polarity": "~",
       "slug": "waterford-early-reading-level-one-curriculum",
       "strength": "W"
+     }
+    ]
+   },
+   "way2work-high-school-completion-gain-no-postsecondary-effect": {
+    "claims": [
+     {
+      "slug": "promise-similar-education-enrollment-treatment-control"
+     },
+     {
+      "slug": "way2work-implementation-good-effects-absent"
+     },
+     {
+      "slug": "way2work-increased-vr-agency-engagement"
+     },
+     {
+      "slug": "way2work-maryland-most-participants-multiple-work-experiences"
+     },
+     {
+      "slug": "way2work-no-employment-expectation-effects"
+     },
+     {
+      "slug": "way2work-participant-satisfaction-service-components"
+     },
+     {
+      "slug": "way2work-service-use-differences-across-school-systems"
+     },
+     {
+      "slug": "way2work-services-substitutes-for-existing-services"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "way2work-maryland-model-essential-services",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "way2work-maryland-program",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "way2work-rct-evaluation-design",
+      "strength": "M"
+     }
+    ]
+   },
+   "way2work-implementation-good-effects-absent": {
+    "claims": [
+     {
+      "slug": "promise-enrollment-selection-work-oriented-youth"
+     },
+     {
+      "slug": "way2work-high-school-completion-gain-no-postsecondary-effect"
+     },
+     {
+      "slug": "way2work-increased-vr-agency-engagement"
+     },
+     {
+      "slug": "way2work-maryland-implemented-as-designed"
+     },
+     {
+      "slug": "way2work-maryland-most-participants-multiple-work-experiences"
+     },
+     {
+      "slug": "way2work-no-employment-expectation-effects"
+     },
+     {
+      "slug": "way2work-participant-satisfaction-service-components"
+     },
+     {
+      "slug": "way2work-service-use-differences-across-school-systems"
+     },
+     {
+      "slug": "way2work-services-substitutes-for-existing-services"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "way2work-maryland-model-essential-services",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "way2work-maryland-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "way2work-increased-vr-agency-engagement": {
+    "claims": [
+     {
+      "slug": "way2work-high-school-completion-gain-no-postsecondary-effect"
+     },
+     {
+      "slug": "way2work-implementation-good-effects-absent"
+     },
+     {
+      "slug": "way2work-maryland-implemented-as-designed"
+     },
+     {
+      "slug": "way2work-maryland-most-participants-multiple-work-experiences"
+     },
+     {
+      "slug": "way2work-no-employment-expectation-effects"
+     },
+     {
+      "slug": "way2work-participant-satisfaction-service-components"
+     },
+     {
+      "slug": "way2work-service-use-differences-across-school-systems"
+     },
+     {
+      "slug": "way2work-services-substitutes-for-existing-services"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "way2work-maryland-model-essential-services",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "way2work-maryland-program",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "way2work-rct-evaluation-design",
+      "strength": "M"
+     }
+    ]
+   },
+   "way2work-maryland-implemented-as-designed": {
+    "claims": [
+     {
+      "slug": "way2work-implementation-good-effects-absent"
+     },
+     {
+      "slug": "way2work-increased-vr-agency-engagement"
+     },
+     {
+      "slug": "way2work-maryland-most-participants-multiple-work-experiences"
+     },
+     {
+      "slug": "way2work-no-employment-expectation-effects"
+     },
+     {
+      "slug": "way2work-participant-satisfaction-service-components"
+     },
+     {
+      "slug": "way2work-service-use-differences-across-school-systems"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "way2work-maryland-model-essential-services",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "way2work-maryland-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "way2work-maryland-most-participants-multiple-work-experiences": {
+    "claims": [
+     {
+      "slug": "way2work-high-school-completion-gain-no-postsecondary-effect"
+     },
+     {
+      "slug": "way2work-implementation-good-effects-absent"
+     },
+     {
+      "slug": "way2work-increased-vr-agency-engagement"
+     },
+     {
+      "slug": "way2work-maryland-implemented-as-designed"
+     },
+     {
+      "slug": "way2work-no-employment-expectation-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "way2work-maryland-model-essential-services",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "way2work-maryland-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "way2work-no-employment-expectation-effects": {
+    "claims": [
+     {
+      "slug": "way2work-high-school-completion-gain-no-postsecondary-effect"
+     },
+     {
+      "slug": "way2work-implementation-good-effects-absent"
+     },
+     {
+      "slug": "way2work-increased-vr-agency-engagement"
+     },
+     {
+      "slug": "way2work-maryland-implemented-as-designed"
+     },
+     {
+      "slug": "way2work-maryland-most-participants-multiple-work-experiences"
+     },
+     {
+      "slug": "way2work-participant-satisfaction-service-components"
+     },
+     {
+      "slug": "way2work-service-use-differences-across-school-systems"
+     },
+     {
+      "slug": "way2work-services-substitutes-for-existing-services"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "way2work-maryland-model-essential-services",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "way2work-maryland-program",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "way2work-rct-evaluation-design",
+      "strength": "M"
+     }
+    ]
+   },
+   "way2work-participant-satisfaction-service-components": {
+    "claims": [
+     {
+      "slug": "way2work-high-school-completion-gain-no-postsecondary-effect"
+     },
+     {
+      "slug": "way2work-implementation-good-effects-absent"
+     },
+     {
+      "slug": "way2work-increased-vr-agency-engagement"
+     },
+     {
+      "slug": "way2work-maryland-implemented-as-designed"
+     },
+     {
+      "slug": "way2work-no-employment-expectation-effects"
+     },
+     {
+      "slug": "way2work-service-use-differences-across-school-systems"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "way2work-maryland-model-essential-services",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "way2work-maryland-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "way2work-service-use-differences-across-school-systems": {
+    "claims": [
+     {
+      "slug": "way2work-high-school-completion-gain-no-postsecondary-effect"
+     },
+     {
+      "slug": "way2work-implementation-good-effects-absent"
+     },
+     {
+      "slug": "way2work-increased-vr-agency-engagement"
+     },
+     {
+      "slug": "way2work-maryland-implemented-as-designed"
+     },
+     {
+      "slug": "way2work-no-employment-expectation-effects"
+     },
+     {
+      "slug": "way2work-participant-satisfaction-service-components"
+     },
+     {
+      "slug": "way2work-services-substitutes-for-existing-services"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "way2work-maryland-model-essential-services",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "way2work-maryland-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "way2work-services-substitutes-for-existing-services": {
+    "claims": [
+     {
+      "slug": "promise-similar-education-enrollment-treatment-control"
+     },
+     {
+      "slug": "promise-ssi-youth-transition-services-baseline-room-for-improvement"
+     },
+     {
+      "slug": "way2work-high-school-completion-gain-no-postsecondary-effect"
+     },
+     {
+      "slug": "way2work-implementation-good-effects-absent"
+     },
+     {
+      "slug": "way2work-increased-vr-agency-engagement"
+     },
+     {
+      "slug": "way2work-no-employment-expectation-effects"
+     },
+     {
+      "slug": "way2work-service-use-differences-across-school-systems"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "way2work-maryland-model-essential-services",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "way2work-maryland-program",
+      "strength": "M"
      }
     ]
    },
@@ -155703,6 +158528,9 @@
      },
      {
       "slug": "oms-videos-animations-most-impactful-modeling"
+     },
+     {
+      "slug": "promise-service-costs-relatively-large-investments"
      },
      {
       "slug": "web-folders-enable-coaching"
@@ -159651,6 +162479,34 @@
      }
     ]
    },
+   "wwc-seven-recommendations-preschool-school-readiness": {
+    "claims": [
+     {
+      "slug": "headsprout-positive-oral-language-preschool"
+     },
+     {
+      "slug": "headsprout-positive-print-knowledge-preschool"
+     },
+     {
+      "slug": "pre-k-mathematics-positive-effects-math-achievement"
+     },
+     {
+      "slug": "ready-set-leap-null-kindergarten-followup"
+     },
+     {
+      "slug": "red-light-purple-light-potentially-positive-self-regulation"
+     },
+     {
+      "slug": "red-light-purple-light-uncertain-language"
+     },
+     {
+      "slug": "waterford-level-one-no-discernible-oral-language-effects"
+     },
+     {
+      "slug": "waterford-level-one-no-discernible-print-knowledge-effects"
+     }
+    ]
+   },
    "xai-interpretation-of-dkt-enhances-trust": {
     "claims": [
      {
@@ -161141,6 +163997,13 @@
     "elements": [
      {
       "slug": "alas-dropout-prevention-program"
+     }
+    ]
+   },
+   "accelerated-reader-program-element": {
+    "elements": [
+     {
+      "slug": "grades-4-9-reading-interventions-wwc-scope"
      }
     ]
    },
@@ -171820,6 +174683,16 @@
      }
     ]
    },
+   "blueprint-math-fellows-program-element": {
+    "elements": [
+     {
+      "slug": "education-corps-high-dosage-literacy-tutoring-program"
+     },
+     {
+      "slug": "literacy-first-tutoring-program-element"
+     }
+    ]
+   },
    "bmtn-shared-rubrics-task-library-resources": {
     "principles": [
      {
@@ -171852,6 +174725,16 @@
      },
      {
       "slug": "onyourmark-virtual-tutoring-program"
+     }
+    ]
+   },
+   "breakthrough-collaborative-school-year-math-tutoring-pilot": {
+    "elements": [
+     {
+      "slug": "galaxy-math-tutoring-program"
+     },
+     {
+      "slug": "zearn-math-digital-lessons"
      }
     ]
    },
@@ -171943,6 +174826,13 @@
     "principles": [
      {
       "slug": "incorporate-spacing-effects-in-cai-design"
+     }
+    ]
+   },
+   "canfield-learning-and-instructional-styles-inventories": {
+    "elements": [
+     {
+      "slug": "measurement-evaluation-needs-inventory-tool"
      }
     ]
    },
@@ -173099,6 +175989,18 @@
      },
      {
       "slug": "weiner-attribution-dimensions-locus-stability-control"
+     }
+    ]
+   },
+   "cbsl-strategic-learning-capacity-toolkit": {
+    "elements": [
+     {
+      "slug": "virtual-learning-cohort-toolkit"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "equity-centered-strategic-learning-framework"
      }
     ]
    },
@@ -175722,6 +178624,13 @@
      },
      {
       "slug": "writing_workshops"
+     }
+    ]
+   },
+   "cignition-virtual-group-math-tutoring": {
+    "elements": [
+     {
+      "slug": "edmentum-tsi-virtual-small-group-tutoring"
      }
     ]
    },
@@ -181759,6 +184668,13 @@
      }
     ]
    },
+   "correlational-analysis-achievement-growth-district-cmo-practices": {
+    "elements": [
+     {
+      "slug": "high-performing-district-cmo-case-studies"
+     }
+    ]
+   },
    "course-portal-moodle-lms-vocational-school": {
     "elements": [
      {
@@ -182006,6 +184922,16 @@
     "strategies": [
      {
       "slug": "preliminary_data_collection"
+     }
+    ]
+   },
+   "data-driven-instruction-support-intervention": {
+    "elements": [
+     {
+      "slug": "student-data-instructional-coaching-support"
+     },
+     {
+      "slug": "student-data-use-coaching-support-schools"
      }
     ]
    },
@@ -183820,6 +186746,97 @@
      }
     ]
    },
+   "early-attendance-importance-poster-infographic": {
+    "elements": [
+     {
+      "slug": "early-grade-attendance-fact-sheet-nj"
+     },
+     {
+      "slug": "early-grades-attendance-improvement-toolkit"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-fact-sheet"
+     },
+     {
+      "slug": "go-learn-grow-attendance-toolkit"
+     },
+     {
+      "slug": "nj-early-grades-chronic-absenteeism-fact-sheet"
+     },
+     {
+      "slug": "parent-infographic-prek-kindergarten-attendance-importance"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-toolkit"
+     }
+    ]
+   },
+   "early-grade-attendance-fact-sheet-nj": {
+    "elements": [
+     {
+      "slug": "early-attendance-importance-poster-infographic"
+     },
+     {
+      "slug": "early-grades-attendance-improvement-toolkit"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-fact-sheet"
+     },
+     {
+      "slug": "nj-early-grades-chronic-absenteeism-fact-sheet"
+     },
+     {
+      "slug": "parent-infographic-prek-kindergarten-attendance-importance"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-toolkit"
+     }
+    ]
+   },
+   "early-grades-attendance-improvement-toolkit": {
+    "elements": [
+     {
+      "slug": "early-attendance-importance-poster-infographic"
+     },
+     {
+      "slug": "early-grade-attendance-fact-sheet-nj"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-fact-sheet"
+     },
+     {
+      "slug": "go-learn-grow-attendance-toolkit"
+     },
+     {
+      "slug": "nj-early-grades-chronic-absenteeism-fact-sheet"
+     },
+     {
+      "slug": "parent-infographic-prek-kindergarten-attendance-importance"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-toolkit"
+     }
+    ]
+   },
+   "early-grades-chronic-absenteeism-fact-sheet": {
+    "elements": [
+     {
+      "slug": "early-attendance-importance-poster-infographic"
+     },
+     {
+      "slug": "early-grade-attendance-fact-sheet-nj"
+     },
+     {
+      "slug": "early-grades-attendance-improvement-toolkit"
+     },
+     {
+      "slug": "nj-early-grades-chronic-absenteeism-fact-sheet"
+     },
+     {
+      "slug": "parent-infographic-prek-kindergarten-attendance-importance"
+     }
+    ]
+   },
    "early-intervention-in-reading-program": {
     "designs": [
      {
@@ -183991,6 +187008,9 @@
    "edmentum-tsi-virtual-small-group-tutoring": {
     "elements": [
      {
+      "slug": "cignition-virtual-group-math-tutoring"
+     },
+     {
       "slug": "edmentum-exact-path-adaptive-program"
      },
      {
@@ -184016,6 +187036,9 @@
     "elements": [
      {
       "slug": "aarp-experience-corps-program"
+     },
+     {
+      "slug": "blueprint-math-fellows-program-element"
      },
      {
       "slug": "booknook-virtual-tutoring-platform"
@@ -184475,6 +187498,13 @@
     "theories": [
      {
       "slug": "descriptive-simulation-modeling-framework-es-office"
+     }
+    ]
+   },
+   "essa-transition-title-i-title-ii-a-survey": {
+    "theories": [
+     {
+      "slug": "essa-state-discretion-framework"
      }
     ]
    },
@@ -186672,6 +189702,9 @@
    "galaxy-math-tutoring-program": {
     "elements": [
      {
+      "slug": "breakthrough-collaborative-school-year-math-tutoring-pilot"
+     },
+     {
       "slug": "early-steps-one-to-one-tutoring-program"
      },
      {
@@ -186732,6 +189765,22 @@
     "theories": [
      {
       "slug": "global-citizenship-three-component-framework-nguyen-2021"
+     }
+    ]
+   },
+   "go-learn-grow-attendance-toolkit": {
+    "elements": [
+     {
+      "slug": "early-attendance-importance-poster-infographic"
+     },
+     {
+      "slug": "early-grades-attendance-improvement-toolkit"
+     },
+     {
+      "slug": "parent-infographic-prek-kindergarten-attendance-importance"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-toolkit"
      }
     ]
    },
@@ -186907,6 +189956,19 @@
      },
      {
       "slug": "vr-resources-table-literacy-classroom"
+     }
+    ]
+   },
+   "grades-4-9-reading-interventions-wwc-scope": {
+    "elements": [
+     {
+      "slug": "accelerated-reader-program-element"
+     },
+     {
+      "slug": "lexia-reading-computerized-supplementary-phonics-program"
+     },
+     {
+      "slug": "read-naturally-program-element"
      }
     ]
    },
@@ -187261,6 +190323,13 @@
      },
      {
       "slug": "myheggerty-digital-resources"
+     }
+    ]
+   },
+   "high-performing-district-cmo-case-studies": {
+    "elements": [
+     {
+      "slug": "correlational-analysis-achievement-growth-district-cmo-practices"
      }
     ]
    },
@@ -188818,6 +191887,9 @@
     "elements": [
      {
       "slug": "assessment-mechanic"
+     },
+     {
+      "slug": "school-child-welfare-data-predictive-risk-model"
      }
     ],
     "processes": [
@@ -189145,6 +192217,9 @@
       "slug": "edmentum-exact-path-adaptive-program"
      },
      {
+      "slug": "grades-4-9-reading-interventions-wwc-scope"
+     },
+     {
       "slug": "headsprout-early-reading-curriculum"
      },
      {
@@ -189218,6 +192293,9 @@
    },
    "literacy-first-tutoring-program-element": {
     "elements": [
+     {
+      "slug": "blueprint-math-fellows-program-element"
+     },
      {
       "slug": "chapter-one-one-on-one-tutoring-program"
      },
@@ -189465,6 +192543,26 @@
     "theories": [
      {
       "slug": "design-thinking-four-phase-sp-toolkit"
+     },
+     {
+      "slug": "four-phase-evidence-building-process"
+     }
+    ]
+   },
+   "me-checklist-phase-1-design-the-solution": {
+    "theories": [
+     {
+      "slug": "four-phase-evidence-building-process"
+     }
+    ]
+   },
+   "measurement-evaluation-needs-inventory-tool": {
+    "elements": [
+     {
+      "slug": "canfield-learning-and-instructional-styles-inventories"
+     },
+     {
+      "slug": "self-assessment-place-based-systems-change-efforts"
      }
     ]
    },
@@ -189989,6 +193087,28 @@
     "patterns": [
      {
       "slug": "nine-key-elements-cooperative-lesson"
+     }
+    ]
+   },
+   "nj-early-grades-chronic-absenteeism-fact-sheet": {
+    "elements": [
+     {
+      "slug": "early-attendance-importance-poster-infographic"
+     },
+     {
+      "slug": "early-grade-attendance-fact-sheet-nj"
+     },
+     {
+      "slug": "early-grades-attendance-improvement-toolkit"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-fact-sheet"
+     },
+     {
+      "slug": "parent-infographic-prek-kindergarten-attendance-importance"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-toolkit"
      }
     ]
    },
@@ -190569,6 +193689,28 @@
      },
      {
       "slug": "pals-peer-tutoring-program-element"
+     }
+    ]
+   },
+   "parent-infographic-prek-kindergarten-attendance-importance": {
+    "elements": [
+     {
+      "slug": "early-attendance-importance-poster-infographic"
+     },
+     {
+      "slug": "early-grade-attendance-fact-sheet-nj"
+     },
+     {
+      "slug": "early-grades-attendance-improvement-toolkit"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-fact-sheet"
+     },
+     {
+      "slug": "go-learn-grow-attendance-toolkit"
+     },
+     {
+      "slug": "nj-early-grades-chronic-absenteeism-fact-sheet"
      }
     ]
    },
@@ -194844,6 +197986,25 @@
      }
     ]
    },
+   "prek-kindergarten-attendance-toolkit": {
+    "elements": [
+     {
+      "slug": "early-attendance-importance-poster-infographic"
+     },
+     {
+      "slug": "early-grade-attendance-fact-sheet-nj"
+     },
+     {
+      "slug": "early-grades-attendance-improvement-toolkit"
+     },
+     {
+      "slug": "go-learn-grow-attendance-toolkit"
+     },
+     {
+      "slug": "nj-early-grades-chronic-absenteeism-fact-sheet"
+     }
+    ]
+   },
    "prek-mathematics-curriculum": {
     "elements": [
      {
@@ -196268,6 +199429,9 @@
    "read-naturally-program-element": {
     "elements": [
      {
+      "slug": "grades-4-9-reading-interventions-wwc-scope"
+     },
+     {
       "slug": "read-naturally-fluency-program"
      },
      {
@@ -197570,6 +200734,13 @@
      }
     ]
    },
+   "ror-early-math-family-engagement-project": {
+    "elements": [
+     {
+      "slug": "ymca-silicon-valley-early-math-family-engagement-project"
+     }
+    ]
+   },
    "rubric": {
     "patterns": [
      {
@@ -198109,6 +201280,18 @@
      }
     ]
    },
+   "school-child-welfare-data-predictive-risk-model": {
+    "elements": [
+     {
+      "slug": "learning-analytics-feedback"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "combine-school-and-human-services-data-for-risk-support"
+     }
+    ]
+   },
    "scientific-reasoning": {
     "elements": [
      {
@@ -198343,6 +201526,13 @@
      },
      {
       "slug": "use_estimation_and_prediction"
+     }
+    ]
+   },
+   "self-assessment-place-based-systems-change-efforts": {
+    "elements": [
+     {
+      "slug": "measurement-evaluation-needs-inventory-tool"
      }
     ]
    },
@@ -199971,6 +203161,26 @@
      }
     ]
    },
+   "student-data-instructional-coaching-support": {
+    "elements": [
+     {
+      "slug": "data-driven-instruction-support-intervention"
+     },
+     {
+      "slug": "student-data-use-coaching-support-schools"
+     }
+    ]
+   },
+   "student-data-use-coaching-support-schools": {
+    "elements": [
+     {
+      "slug": "data-driven-instruction-support-intervention"
+     },
+     {
+      "slug": "student-data-instructional-coaching-support"
+     }
+    ]
+   },
    "student-led-ieps": {
     "strategies": [
      {
@@ -201348,6 +204558,13 @@
      }
     ]
    },
+   "tips-interactive-homework-program": {
+    "strategies": [
+     {
+      "slug": "interactive-homework-home-discussion-assignments"
+     }
+    ]
+   },
    "too-good-for-drugs-k8-curriculum": {
     "elements": [
      {
@@ -201639,6 +204856,13 @@
      }
     ]
    },
+   "virtual-learning-cohort-toolkit": {
+    "elements": [
+     {
+      "slug": "cbsl-strategic-learning-capacity-toolkit"
+     }
+    ]
+   },
    "virtual-recorder-video-sequencer-devices": {
     "elements": [
      {
@@ -201817,6 +205041,36 @@
      },
      {
       "slug": "waterford-upstart-program"
+     }
+    ]
+   },
+   "way2work-maryland-model-essential-services": {
+    "elements": [
+     {
+      "slug": "way2work-maryland-program"
+     },
+     {
+      "slug": "way2work-rct-evaluation-design"
+     }
+    ]
+   },
+   "way2work-maryland-program": {
+    "elements": [
+     {
+      "slug": "way2work-maryland-model-essential-services"
+     },
+     {
+      "slug": "way2work-rct-evaluation-design"
+     }
+    ]
+   },
+   "way2work-rct-evaluation-design": {
+    "elements": [
+     {
+      "slug": "way2work-maryland-model-essential-services"
+     },
+     {
+      "slug": "way2work-maryland-program"
      }
     ]
    },
@@ -202178,8 +205432,18 @@
      }
     ]
    },
+   "ymca-silicon-valley-early-math-family-engagement-project": {
+    "elements": [
+     {
+      "slug": "ror-early-math-family-engagement-project"
+     }
+    ]
+   },
    "zearn-math-digital-lessons": {
     "elements": [
+     {
+      "slug": "breakthrough-collaborative-school-year-math-tutoring-pilot"
+     },
      {
       "slug": "zearn-professional-development-support"
      }
@@ -235946,6 +239210,20 @@
      }
     ]
    },
+   "equity-centered-strategic-learning-framework": {
+    "strategies": [
+     {
+      "slug": "intermediary-capacity-building-four-supports"
+     }
+    ]
+   },
+   "essa-state-discretion-framework": {
+    "elements": [
+     {
+      "slug": "essa-transition-title-i-title-ii-a-survey"
+     }
+    ]
+   },
    "essentialism-and-perennialism-educational-philosophy": {
     "theories": [
      {
@@ -237325,6 +240603,13 @@
      }
     ]
    },
+   "four-phase-evidence-building-process": {
+    "theories": [
+     {
+      "slug": "four-phase-me-evidence-building-approach"
+     }
+    ]
+   },
    "four-phase-gender-understanding-sequence": {
     "theories": [
      {
@@ -237358,6 +240643,11 @@
     "strategies": [
      {
       "slug": "overview-resource-illustrative-example-strategy"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-phase-evidence-building-process"
      }
     ]
    },
@@ -246463,15 +249753,15 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 4607,
-  "designs": 193,
-  "elements": 1094,
+  "claims": 4737,
+  "designs": 194,
+  "elements": 1135,
   "learner-variables": 12,
   "methods": 38,
   "patterns": 126,
   "principles": 375,
   "processes": 18,
-  "strategies": 3440,
-  "theories": 1014
+  "strategies": 3468,
+  "theories": 1019
  }
 }

@@ -48,3 +48,4 @@ WWC review of four studies; Table 4 rates ELA achievement "Positive effects" wit
 - [KIPP shows no discernible effects on high school student progression (graduation within 4 years)](kipp-null-student-progression.md) — related
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — a narrower finding that bears on this claim
+- [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related

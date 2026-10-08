@@ -65,3 +65,4 @@ WWC findings summary across five self-regulation measures from the two qualifyin
 - [Red Light, Purple Light shows uncertain effects on preschool language outcomes](red-light-purple-light-uncertain-language.md) — related
 - [Red Light, Purple Light shows uncertain effects on reading and literacy related achievement](red-light-purple-light-uncertain-reading-literacy.md) — related
 - [Pre-K Mathematics shows uncertain effects on preschool self-regulation skills](pre-k-mathematics-uncertain-self-regulation-effects.md) — related
+- [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related

@@ -64,6 +64,7 @@ Family literacy events work best when they model concrete practices caregivers c
 - [Dialogic Reading](../elements/dialogic-reading.md) — the single most evidence-supported technique to model at such events
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
+- [Parents support elementary writing skills at home through everyday writing activities like writing stories, reviewing movies, and describing things around them](parent-home-writing-activities-tip-sheet.md)
 
 ## Examples
 - **Raising a Reader (https://www.raisingareader.org)** — national program combining family engagement events with rotating book-bag cycles; family nights train caregivers on shared-reading techniques before bags go home.

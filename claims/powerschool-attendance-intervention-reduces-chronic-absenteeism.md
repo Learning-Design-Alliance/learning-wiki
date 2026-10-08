@@ -52,3 +52,4 @@ A randomized control trial in 3 DC public schools randomly assigned 31 teachers 
 - [ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08)](ati-up-reduces-chronic-absenteeism.md) — possibly the same claim (merge candidate)
 - [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related
 - [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) — possibly the same claim (merge candidate)
+- [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related

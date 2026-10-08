@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**193 entries** · 0 stable · 0 in review · 193 drafts
+**194 entries** · 0 stable · 0 in review · 194 drafts
 
 ---
 
@@ -45,6 +45,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Challenge-by-modification pattern: learners modify a minimal working program to test their own model](modify-minimal-program-challenge-pattern.md) - The QRC's instructional pattern is a minimal, transparent computer realization of an experiment that learners modify to embody their own favored model.
 * [CLASP discussion/laboratory activity cycle: small-group work on model-based activities, whole-class discussion, and homework integrated into the next DL meeting](clasp-dl-activity-cycle.md) - The CLASP discussion/laboratory (DL) is the core instructional setting: students in five-member groups at tables with a wall-mounted blackboard work through three activity cycles of 30 to 60 minutes each, twice weekly.
 * [Cognitive-flexibility-informed early literacy instruction combines multiple knowledge linkages, multiple application cases, participatory learning, and scaffolding](cf-informed-literacy-instruction-design.md) - The article enumerates the design characteristics of an early literacy approach informed by cognitive flexibility theory: it \"includes emphasis on multiple alternative systems of linkage among knowledge elements (e.g.
+* [Cohort learning organized around a common theme with guiding values](theme-based-cohort-learning-pattern.md) - The toolkit's design pattern is a learning cohort of participants organized around a common theme, such as equity, supported by guiding values that facilitators consider when planning activities.
 * [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](cbl-cel-coil-cuc-integrated-course-pattern.md) - The article presents a course-level design pattern in which societal engagement (via CBL and CEL), a global challenge, and collaboration (via COIL and a cross-university collaboration) are combined.
 * [Combining visual demonstrations, guided inquiry, computational-model manipulation, and group discussion to teach cutting-edge science concepts](demo-inquiry-model-discussion-sequence.md) - This instructional pattern sequences four modes of engagement around one scientific concept: a physical demonstration, a guided-inquiry worksheet, manipulation of a computational model, and group discussion.
 * [Community-building through celebratory traditions: quarterly awards, bridging ceremonies, and staff-family-student recognition](celebratory-traditions-school-community.md) - This pattern uses recurring celebratory events to build school community and reinforce culture.

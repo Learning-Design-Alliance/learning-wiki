@@ -48,3 +48,5 @@ In-depth micro-case evaluations of individual CLASP programs identified communic
 - [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](clasp-diverse-users-missing-library-links.md) — related
 - [CLASP's impact centered on the number of programs offered rather than program type, with few differences between CLASP and non-CLASP library programs](clasp-impact-number-over-type.md) — related
 - [Literature review identifies 182 candidate coaching components organized into coach, teacher, and interaction factors](literature-review-182-coaching-components-three-categories.md) — related
+- [The guide identifies intentional instruction, interaction and conversation, and sequentially built lessons as important factors in preschool instruction](preschool-instruction-key-factors-wwc.md) — related
+- [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related

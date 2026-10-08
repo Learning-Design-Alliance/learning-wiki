@@ -40,7 +40,8 @@ Mathematica's measurement and evaluation (M&E) approach is a road map for genera
 - [Progress in evidence-based solution development is not always linear; evidence determines phase movement](../claims/evidence-determines-nonlinear-phase-movement.md) [+W]
 
 ## Related Theories
-- 
+
+- [Four-phase evidence-building process for designing and validating solutions](four-phase-evidence-building-process.md)
 
 ## Examples
 

@@ -47,3 +47,4 @@ The evaluation's executive summary states that while Goal 1 was largely achieved
 - [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](clasp-diverse-users-missing-library-links.md) — related
 - [CLASP's impact centered on the number of programs offered rather than program type, with few differences between CLASP and non-CLASP library programs](clasp-impact-number-over-type.md) — related
 - [CLASP successfully established library use among children, reaching thousands of new users who were highly satisfied with programs](clasp-successful-library-use-children.md) — related
+- [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related

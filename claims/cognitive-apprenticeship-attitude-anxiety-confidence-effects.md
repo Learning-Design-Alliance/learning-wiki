@@ -68,3 +68,4 @@ Same SIMS and interview data: the article reports apprenticeship students "gaine
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [A preservice teacher's self-perceived confidence and success with traditional mathematics inhibited reinterpreting his understanding of mathematics](math-confidence-inhibits-philosophy-reinterpretation.md) — related
 - [Teachers report the program supports student interest, confidence, and enjoyment of math](mma-teacher-survey-qualitative-findings.md) — related
+- [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related

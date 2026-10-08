@@ -49,3 +49,4 @@ Cross-program comparison across the eight tutoring evaluations. The brief states
 - [Strong student–tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects](strong-student-tutor-relationships-key-to-tutoring-success.md) — related
 - [In real-world implementation, TSI students attended on average 25.5 of 50 scheduled tutoring sessions](tsi-attendance-half-of-scheduled-sessions.md) — related
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — reports the opposite
+- [Exploratory analyses: students ending the year in larger tutoring groups showed the largest math score increases but reported weaker tutor relationships than peers in smaller groups](blueprint-larger-groups-scores-up-relationships-weaker.md) — related
