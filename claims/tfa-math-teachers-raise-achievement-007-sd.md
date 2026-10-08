@@ -48,3 +48,4 @@ Large-scale experimental study of secondary math teachers from TFA in high-pover
 - [Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification](tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification.md) — related
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — a broader claim this one bears on
 - [In some cases, Teach For America and Teaching Fellows secondary math teachers are more effective than traditionally certified math teachers](tfa-teaching-fellows-math-teachers-sometimes-more-effective.md) — related
+- [Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction](tfa-positive-math-achievement-impact.md) — related

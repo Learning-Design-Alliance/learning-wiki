@@ -48,6 +48,7 @@ A toolkit published by Mathematica in October 2021 for learning cohort facilitat
 
 - [Use transferable planning tools to design virtual cohort learning activities](../strategies/transferable-cohort-planning-tools.md)
 - [Strengthen grantee strategic learning capacity through scoping support, provider matching, cohort learning activities, and thought partnership](../strategies/intermediary-capacity-building-four-supports.md)
+- [Engage a learning partner to support funders and grantees in designing and carrying out a learning plan and building M&E capacity](../strategies/learning-partner-supports-funder-grantee-me.md)
 
 ## Key Sources
 - Rabb, B., Gardner, E., Pottinger, E., Tallapragada, R., Resch, A., Vorias, T., & Knechtel, V. (2021). Toolkit for Building a Virtual Learning Cohort. Mathematica. https://www.mathematica.org/publications/toolkit-for-building-a-virtual-learning-cohort

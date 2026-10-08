@@ -45,3 +45,4 @@ The publisher's abstract describes the study's design: it reuses data from "Math
 ## Related Claims
 - [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) — related
 - [The intent-to-treat experimental impact estimate is the most causally rigorous measure for nonexperimental methods to replicate](itt-estimate-most-causally-rigorous-benchmark.md) — related
+- [The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula](school-level-random-assignment-four-math-curricula.md) — related

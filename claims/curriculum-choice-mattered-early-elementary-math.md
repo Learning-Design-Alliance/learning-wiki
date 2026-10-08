@@ -51,3 +51,5 @@ The report's own summary statement of its headline finding: a large-scale study 
 - [A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade](four-curricula-two-year-elementary-math-study-design.md) — related
 - [A large-scale rigorous study examined how four math curricula affect achievement across two years, first through second grades](four-curricula-two-year-achievement-study.md) — related
 - [The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools](math-curricula-benefits-extend-to-low-performing-high-poverty-schools.md) — a narrower finding that bears on this claim
+- [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related
+- [The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula](school-level-random-assignment-four-math-curricula.md) — related

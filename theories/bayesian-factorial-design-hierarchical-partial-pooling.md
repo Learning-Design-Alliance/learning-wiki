@@ -39,7 +39,8 @@ The article presents a Bayesian approach to factorial design in which hierarchic
 - 
 
 ## Related Theories
-- 
+
+- [Bayesian hypothesis testing as an approach to the multiple testing problem](bayesian-hypothesis-testing-multiple-testing.md)
 
 ## Examples
 

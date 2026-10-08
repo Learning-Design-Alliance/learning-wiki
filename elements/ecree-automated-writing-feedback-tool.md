@@ -48,7 +48,8 @@ Ecree is "an automated feedback tool that supports student writing in the classr
 - [Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching](../claims/regular-tailored-support-helped-teachers-integrate-tools.md) [+W]
 
 ## Related Elements
-- 
+
+- [MI Write automated writing feedback tool](mi-write-automated-writing-feedback-tool.md)
 
 ## Examples
 

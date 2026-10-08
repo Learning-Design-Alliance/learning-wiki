@@ -88,3 +88,4 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [READY4K! improves teacher-reported parental involvement at school](ready4k-improves-teacher-reported-involvement.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — a narrower finding that bears on this claim
 - [Parents play an important role in young children's math development](parents-role-early-math-development.md) — related
+- [The BELL summer program increases the extent to which parents encourage their children to read during the subsequent school year](bell-summer-program-increases-parent-reading-encouragement.md) — a narrower finding that bears on this claim

@@ -46,3 +46,5 @@ Descriptive context from the publication page: the report is "the second from a 
 - [The early elementary math curriculum used by schools mattered for student achievement in first and second grade](curriculum-choice-mattered-early-elementary-math.md) — related
 - [A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade](four-curricula-two-year-elementary-math-study-design.md) — related
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — related
+- [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related
+- [The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula](school-level-random-assignment-four-math-curricula.md) — related

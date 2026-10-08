@@ -44,10 +44,12 @@ The Measurement and Evaluation Needs Inventory is a tool designed to assist an o
 
 - [Canfield's Learning Styles Inventory and Instructional Styles Inventory](canfield-learning-and-instructional-styles-inventories.md)
 - [Self-Assessment of Place-Based Systems Change Efforts instrument](self-assessment-place-based-systems-change-efforts.md)
+- [Guide to Setting Targets for Research Questions: a tool for organizations and research partners to set and use targets](guide-setting-targets-research-questions.md)
 
 ## Examples
 
 - [Conduct an organizational M&E self-assessment early in the research cycle to target external support](../strategies/early-cycle-me-capacity-self-assessment-strategy.md)
+- [Use a suite of measurement and evaluation tools to develop, refine, and scale evidence-based educational solutions](../strategies/measurement-evaluation-tool-suite-evidence-based-solutions.md)
 
 ## Key Sources
 - Megan Shoji, Lindsay Fox, Ryan Ruggiero, Mikia Manley, Kate Place, Virginia Knechtel. (2023). Measurement and Evaluation Needs Inventory. Mathematica. https://www.mathematica.org/publications/measurement-and-evaluation-needs-inventory

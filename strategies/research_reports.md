@@ -64,6 +64,7 @@ Research reports work as both a communication format and a synthesis task. As a 
 - [Argument Construction](../elements/argument-construction.md) — the claim–evidence–reasoning structure of a report is an argument schema applied to empirical data
 - [Peer Feedback](../elements/peer-feedback.md) — structured critique of report drafts improves both the draft and the reviewer's evaluative skill
 - [Use data visualization to make complex concepts accessible in research communication](data-visualization-for-accessible-research-communication.md)
+- [Disseminate evaluation findings through audience-segmented briefs backed by a shared methods summary](audience-segmented-findings-briefs-with-methods-summary.md)
 
 ## Examples
 - **AAAS Science in the Classroom** ([https://www.scienceintheclassroom.org](https://www.scienceintheclassroom.org)) — published research papers annotated with learning lenses, letting students read authentic reports with scaffolds.

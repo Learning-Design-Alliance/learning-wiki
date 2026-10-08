@@ -53,6 +53,7 @@ A large-scale random assignment evaluation of alternative routes to teacher cert
 - [Teach For America alternative certification program](teach-for-america-program.md)
 - [Teach For America (TFA) as a teacher-supply program for hard-to-staff subjects in high-poverty schools](teach-for-america-teacher-supply-program.md)
 - [Teach For America alternate-route teacher preparation program](teach-for-america-program-element.md)
+- [Mathematica's design for the Teacher Preparation Models Impact Evaluation (2003-2009), prepared for the U.S. Department of Education](teacher-preparation-models-impact-evaluation-design.md)
 
 ## Examples
 -

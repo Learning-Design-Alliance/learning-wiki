@@ -37,7 +37,8 @@ The checklist directs users to carry out the evidence-building process in collab
 - designing solutions responsive to the priority community
 
 ## Related Strategies
-- 
+
+- [Refine a solution based on lessons learned during implementation](refine-solution-from-implementation-lessons.md)
 
 ## Examples
 -

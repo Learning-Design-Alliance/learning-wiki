@@ -46,3 +46,4 @@ The author’s descriptive account of current conditions in mainland China: redu
 - [English-major seniors report writing classes receive inadequate attention and are tied to test preparation](writing-class-inadequate-attention-tem-driven.md) — related
 - [Typical Chinese classes of about 50 students made group work difficult to organize](china-class-size-50-students-hinders-group-work.md) — related
 - [China's Matriculation English Test ignores speaking skills despite adding communicative components after 1992](met-ignores-speaking-skills.md) — related
+- [Pandemic-related absences and reading setbacks made consistent writing-focused interactions difficult](pandemic-disruptions-hindered-mi-write-implementation.md) — related

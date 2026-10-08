@@ -42,6 +42,7 @@ An intermediary-led capacity-building strategy in which the intermediary helps g
 ## Related Strategies
 
 - [Use transferable planning tools to design virtual cohort learning activities](transferable-cohort-planning-tools.md)
+- [Engage a learning partner to support funders and grantees in designing and carrying out a learning plan and building M&E capacity](learning-partner-supports-funder-grantee-me.md)
 
 ## Examples
 -

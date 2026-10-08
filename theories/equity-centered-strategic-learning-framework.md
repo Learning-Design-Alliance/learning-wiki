@@ -43,7 +43,8 @@ The partnership defines equity-centered strategic learning as the set of efforts
 - [A pilot initiative partnered Mathematica and Catalyst:Ed with the Gates Foundation and nine K-12 education grantees to build strategic learning capacity from May 2020 to September 2021](../claims/cbsl-pilot-nine-grantees-partnership.md) [+W]
 
 ## Related Theories
-- 
+
+- [NSI conceptual framework: intermediary-led school networks using equity-centered continuous improvement to improve on-track outcomes](nsi-conceptual-framework-networked-ci.md)
 
 ## Examples
 

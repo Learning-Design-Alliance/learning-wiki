@@ -63,3 +63,4 @@ Program-reach data for Cohort 1 treatment schools showed 37 percent attended one
 
 ## Related Claims
 - [FAST take-up was far below the projected 60 percent participation rate, with only about 20 percent typical participation per year](fast-takeup-far-below-projected.md) — possibly the same claim (merge candidate)
+- [TNTP achieved fidelity for TLTS's two key program components across Cohorts 2 and 3](tlts-fidelity-two-key-components.md) — related

@@ -49,3 +49,4 @@ Teacher-reported outcome from the preschool RCT: "teachers reported improved par
 - [READY4K! literacy gains are largest for children in the lower half of the baseline skill distribution](ready4k-largest-gains-lower-baseline-half.md) — related
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [The BELL summer program increases the extent to which parents encourage their children to read during the subsequent school year](bell-summer-program-increases-parent-reading-encouragement.md) — related

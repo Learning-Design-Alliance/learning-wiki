@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**198 entries** · 0 stable · 0 in review · 198 drafts
+**199 entries** · 0 stable · 0 in review · 199 drafts
 
 ---
 
@@ -79,6 +79,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Eight-strategy pattern for overcoming ESL pronunciation challenges within the CLT framework](eight-strategies-esl-pronunciation-bangladesh.md) - The review proposes a matched set of eight strategies mirroring its eight identified challenges: a pronunciation-oriented curriculum within CLT, inclusion of pronunciation assessment, teacher preparedness through CPD,...
 * [Embodied Physics Inquiry Through Dance Improvisation](embodied-physics-inquiry-through-dance.md) - A session structure that pairs a short physics concept demonstration with dance improvisation exploring that concept, validating culturally specific movement styles as legitimate scientific expression.
 * [Engineering inquiry pattern: student-generated starter questions sorted into engineering design-goal challenges](starter-questions-sorted-into-engineering-challenges.md) - In this inquiry pattern, learners first explore phenomena during Starters and write observations and questions on sentence strips, as in science inquiry.
+* [Enhance preschool teacher practices, instructional content, and classroom environments to prepare children for school](enhance-preschool-practices-content-environments.md) - The Early Reading First program embodies the principle that improving preschool quality on three fronts — teacher practices, instructional content, and classroom environments — helps children start school ready.
 * [ERWC instructional focus on discussion, critical thinking, oral language, genre writing, and rhetorical analysis](erwc-instructional-focus-pattern.md) - The ERWC's design centers English instruction on a set of interrelated practices: \"discussions of text meaning, developing critical thinking skills, encouraging group discussions, developing oral language skills, deve...
 * [Expanding then maintenance repetition schedule for audio vocabulary lessons](expanding-then-monthly-repetition-schedule.md) - The article prescribes a two-phase repetition schedule for audio vocabulary lessons.
 * [Explicit Instruction in Historical Contextualization](explicit-instruction-in-historical-contextualization.md) - A two-part unit design that first gives students a reason to engage with historical background knowledge through discussion-based case studies and source-sorting, then supports the procedural writing skill of placing and connecting that background to evidence through modeled text analysis and targeted language practice.

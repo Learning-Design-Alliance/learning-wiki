@@ -45,3 +45,4 @@ Documentary review of instrument developers' evidence for the practice instrumen
 ## Related Claims
 - [Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective](nj-pilot-practice-ratings-varied-most-effective.md) — related
 - [Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons](reliability-challenges-epistemic-games.md) — a broader claim this one bears on
+- [Organizing performance measures into outcomes, impacts, and processes provides rich, fair, and diagnostically useful information](grouping-outcomes-impacts-processes-yields-diagnostically-useful-information.md) — related

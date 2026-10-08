@@ -49,3 +49,4 @@ Analysis of variance comparing 50 delinquent adolescents in a residential treatm
 - [Prior evidence suggested locus of control relates to achievement independently of intelligence, which the present results contradict for delinquent adolescents](prior-claim-achievement-independent-of-intelligence-questioned.md) — related
 - [IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct](iar-cdr-factor-scores-low-intercorrelations.md) — related
 - [Locus of control instruments measuring domains beyond academic achievement increase the number of dimensions obtained](nonacademic-domains-increase-dimensions.md) — related
+- [Multiple non-academic competencies (leadership, sports-related skills, work habits, prosocial behavior, locus of control) appear to predict students' later success in higher education and the labor market](non-academic-competencies-predict-later-success.md) — related

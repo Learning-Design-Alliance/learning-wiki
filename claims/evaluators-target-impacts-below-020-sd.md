@@ -45,3 +45,4 @@ The paper reports a trend in evaluation practice: studies are increasingly power
 ## Related Claims
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — related
 - [The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger](ses-rd-study-power-012-sd.md) — a narrower finding that bears on this claim
+- [TLTS showed no detectable effect on science achievement after two years](tlts-no-detectable-science-effect.md) — related

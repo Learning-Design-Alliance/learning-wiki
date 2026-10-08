@@ -119,3 +119,4 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 - [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related
 - [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — related
 - [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](mi-lacks-empirical-theory-testing.md) — related
+- [Not all students would benefit from improving the same competencies, suggesting an individualized approach to education may be preferable to a one-size-fits-all approach](heterogeneous-competency-benefits-individualized-education.md) — related

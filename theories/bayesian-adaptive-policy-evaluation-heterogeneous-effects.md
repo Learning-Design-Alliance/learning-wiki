@@ -44,6 +44,7 @@ The article presents a statistical method for randomized policy evaluations that
 ## Related Theories
 
 - [Bayesian adaptive randomized program evaluation framework](bayesian-adaptive-program-evaluation-framework.md)
+- [Bayesian hypothesis testing as an approach to the multiple testing problem](bayesian-hypothesis-testing-multiple-testing.md)
 
 ## Examples
 

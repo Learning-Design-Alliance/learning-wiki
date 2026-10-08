@@ -47,3 +47,4 @@ Comparison of program economics before and after the FY 2024 shift to a facility
 - [The PEF's total FY 2024 economic value of benefits was $93 million, up from $67 million in FY 2023, with benefits to families the largest share](pef-fy2024-benefits-93-million-families-largest-share.md) — related
 - [The PEF's total FY 2024 cost was $76 million, up from $54 million in FY 2023, reflecting larger educator payments and new facility administrative costs](pef-fy2024-cost-76-million-up-from-54-million.md) — related
 - [Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023](pef-fy2024-roi-21-percent-similar-to-fy2023.md) — related
+- [Per-pupil costs for TLTS averaged $242 per year](tlts-per-pupil-cost-242.md) — related

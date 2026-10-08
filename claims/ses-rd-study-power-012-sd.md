@@ -48,3 +48,5 @@ Power analysis for the RD design across 42 mini-studies with unique cut points i
 - [Intensity of SES services and other provider characteristics are not significantly related to estimated impacts](ses-provider-characteristics-not-related-to-impacts.md) — related
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — a broader claim this one bears on
 - [Education evaluators increasingly design studies to detect impacts smaller than 0.20 standard deviations](evaluators-target-impacts-below-020-sd.md) — a broader claim this one bears on
+- [The case study cannot distinguish which program elements caused the positive impacts](bell-elements-causal-attribution-limited.md) — related
+- [TLTS showed no detectable effect on science achievement after two years](tlts-no-detectable-science-effect.md) — related

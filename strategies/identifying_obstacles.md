@@ -57,9 +57,11 @@ Anticipating obstacles is most effective when it is tied to specific response pl
 5. Revisit the obstacle plan at [Check-Ins](../elements/check-in.md) during execution; revise plans for obstacles that materialized differently than expected, and log unanticipated ones for future planning.
 
 ## Related Strategies
+
 - **Goal Setting** — obstacle identification presupposes a specified goal; the two form a single planning cycle
 - **Premortem Analysis** — a specific, high-yield technique for step 2
 - **Self-Monitoring** — the enactment-phase counterpart that detects obstacles as they arise
+- [Investigate potential barriers to implementation and replication when documenting a successful program](investigate-implementation-replication-barriers.md)
 
 ## Examples
 - **MCII in schools**: Oettingen's mental-contrasting curricula have students name their wish, visualize the best outcome, identify their biggest internal obstacle, and write an if-then plan — improving effort and grades relative to positive-thinking-only controls.

@@ -46,7 +46,8 @@ The article presents compensatory multidimensional IRT (MIRT), estimated via the
 - [Item Response Theory as a framework for scale development](irt-framework-scale-development.md)
 
 ## Examples
--
+
+- [Create composite outcome measures to reduce the number of hypothesis tests](../strategies/composite-outcome-measures-multiple-testing.md)
 
 ## Key Sources
 - Shu Jing Yen, Leah Walker. (2007). Multidimensional IRT models for Composite Scores. Paper Presented at the 2007 Annual Meeting of the National Council of Measurement in Education, Chicago. https://eric.ed.gov/?id=ED504361

@@ -50,3 +50,5 @@ The random assignment study reports that the alternative-certification teachers 
 - [An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement](clark-2015-elementary-tfa-indeterminate.md) — related
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — a broader claim this one bears on
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related
+- [The findings contradict claims that alternative teacher preparation programs such as Teach For America harm students](tfa-findings-contradict-harm-claims.md) — a broader claim this one bears on
+- [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — related

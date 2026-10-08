@@ -50,3 +50,7 @@ Survey of teachers who used Ecree in grade 8-11 ELA classrooms during the 2021-2
 - [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — related
 - [Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing](teachers-found-ecree-mi-write-useful-writing-instruction.md) — possibly the same claim (merge candidate)
 - [Some students may be overwhelmed by Ecree's feedback about their writing](some-students-overwhelmed-by-ecree-feedback.md) — possibly the same claim (merge candidate)
+- [MI Write's automated feedback is most useful to students when it supplements, not replaces, teacher feedback](automated-feedback-supplements-not-replaces-teacher-feedback.md) — related
+- [The Ecree study examined teachers' and students' use of the tool and its impact on student and teacher outcomes during the 2021-2022 school year](ecree-study-examined-use-and-impacts-2021-2022.md) — a broader claim this one bears on
+- [A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes](mi-write-study-examined-use-and-impact.md) — related
+- [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers](students-need-guidance-ecree-feedback-advanced-writers.md) — related

@@ -47,3 +47,4 @@ Paired t-tests of EOY-to-BOY grade level equivalent change for 673 Springboard S
 - [Reading growth after Springboard Summer varies by starting point relative to grade level, with the largest gains for scholars who started below grade level](springboard-summer-gains-vary-by-starting-level.md) — a narrower finding that bears on this claim
 - [Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards](springboard-summer-outperforms-matched-comparison.md) — related
 - [Family workshop attendance at or above the 80% target is not significantly associated with scholars' reading growth](springboard-summer-family-workshop-attendance-null.md) — related
+- [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related

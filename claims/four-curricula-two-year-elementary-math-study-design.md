@@ -52,3 +52,4 @@ The abstract describes the associated evaluation as "a large-scale, rigorous stu
 - [The early elementary math curriculum used by schools mattered for student achievement in first and second grade](curriculum-choice-mattered-early-elementary-math.md) — related
 - [Four elementary math curricula were evaluated using an experimental design](experimental-evaluation-four-elementary-math-curricula.md) — possibly the same claim (merge candidate)
 - [The curriculum evaluation was the second report from a multi-year (2005-2013) IES-funded study of mathematics curricula](ies-math-curricula-evaluation-second-report.md) — related
+- [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related

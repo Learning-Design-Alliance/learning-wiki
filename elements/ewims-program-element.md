@@ -50,6 +50,7 @@ EWIMS is "a systematic approach used by dedicated teams of school staff to ident
 ## Examples
 
 - [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](../strategies/ewims-training-and-technical-assistance-strategy.md)
+- [Use a systematic approach to identify dropout-prevention approaches for program developers while the scientific basis for new programs is still being built](../strategies/identify-approaches-while-evidence-base-develops.md)
 
 ## Key Sources
 - Faria et al. (2017). Early Warning Intervention and Monitoring System (EWIMS). https://eric.ed.gov/?q=early+warning+intervention+and+monitoring+system

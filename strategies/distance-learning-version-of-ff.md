@@ -39,7 +39,8 @@ The report describes a distance-learning adaptation of Future Forward designed s
 - Continuity of literacy supports and family engagement during disrupted schooling
 
 ## Related Strategies
-- 
+
+- [Use virtual engagement and online training delivery to sustain and extend apprenticeship system operations during disruptions](virtual-engagement-sustain-apprenticeship-systems.md)
 
 ## Examples
 -

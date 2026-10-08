@@ -51,3 +51,5 @@ Key finding synthesized from two studies of Ecree and MI Write in grade 7–11 E
 - [Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching](regular-tailored-support-helped-teachers-integrate-tools.md) — related
 - [Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write](teachers-reported-curriculum-technical-integration-challenges.md) — related
 - [Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction](teachers-used-ecree-less-than-intended-lacking-time.md) — related
+- [The Ecree study examined teachers' and students' use of the tool and its impact on student and teacher outcomes during the 2021-2022 school year](ecree-study-examined-use-and-impacts-2021-2022.md) — related
+- [A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes](mi-write-study-examined-use-and-impact.md) — related

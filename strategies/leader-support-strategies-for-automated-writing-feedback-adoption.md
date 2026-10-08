@@ -38,6 +38,8 @@ The brief aims to inform school and district leaders deciding whether to use aut
 
 - [Use automated writing feedback tools like Ecree to support writing in middle and high school English language arts classrooms](use-ecree-to-support-writing-in-ela-classrooms.md)
 - [Provide strategies and supports for improving automated writing feedback tools to meet teacher and student needs](strategies-improving-automated-feedback-tools.md)
+- [School and district leaders should provide tailored technical support, clear student guidance, and technical integration when deploying automated writing feedback tools](leader-support-strategies-automated-writing-feedback.md)
+- [Provide monthly coaching and planning time, and integrate automated writing feedback tools with curriculum, to support classroom use](support-automated-writing-feedback-through-coaching-and-alignment.md)
 
 ## Examples
 -

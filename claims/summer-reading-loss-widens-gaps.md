@@ -44,3 +44,5 @@ The toolkit asserts, citing research it does not further specify, that "low-inco
 
 ## Related Claims
 - [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related
+- [A well-implemented summer learning program (BELL) improves low-income children's reading test scores](bell-summer-program-improves-reading-scores.md) — a narrower finding that bears on this claim
+- [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — a broader claim this one bears on

@@ -52,3 +52,4 @@ The brief's headline finding, stated in its title, is that after two years three
 - [The early elementary math curriculum used by schools mattered for student achievement in first and second grade](curriculum-choice-mattered-early-elementary-math.md) — a broader claim this one bears on
 - [Four elementary math curricula were evaluated using an experimental design](experimental-evaluation-four-elementary-math-curricula.md) — a broader claim this one bears on
 - [Math Expressions and Saxon Math raise first-grade math percentile rank 9 to 12 points more than Investigations and SFAW](math-expressions-saxon-percentile-advantage-first-grade.md) — related
+- [The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula](school-level-random-assignment-four-math-curricula.md) — related

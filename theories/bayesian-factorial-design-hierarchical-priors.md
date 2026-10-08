@@ -46,7 +46,8 @@ The paper introduces a Bayesian framework for factorial experiments in education
 - [A Bayesian adaptive design can yield superior inference to a standard design using less than one third the sample size under identified conditions](../claims/bayesian-adaptive-superior-inference-smaller-samples.md) [+W]
 
 ## Related Theories
-- 
+
+- [Bayesian hypothesis testing as an approach to the multiple testing problem](bayesian-hypothesis-testing-multiple-testing.md)
 
 ## Examples
 

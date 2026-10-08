@@ -22,7 +22,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 unmarked) · 14 studies (5 causal, 4 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 1 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (3 for, 3 mixed, 1 unmarked) · 15 studies (5 causal, 4 review, 2 quant-synthesis, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 1 of 15 report an effect size · 4 claims rest on one study
 
 ## Description
 Personalization tailors instruction to individual learners — adjusting pacing, task difficulty, content sequencing, or the context of problems to match prior knowledge, skill level, or interests. It ranges from learner-directed choice (topics, pathways) to system-directed adaptation (intelligent tutoring, adaptive difficulty). The core recommendation: replace one-size-fits-all instruction with experiences calibrated to where each learner actually is.
@@ -77,12 +77,14 @@ Personalization works primarily by keeping instruction within each learner's zon
 - [Constructivism](../theories/constructivism.md) — qualifies rather than contradicts: personalization of *path* must not become personalization of *standards*; learners still need generative, effortful processing that adaptive easing can inadvertently remove
 
 ### Claims
+
 - [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S] — meaningful choice raises motivation and effort
 - [Adaptive guidance improves learning relative to fixed instruction.](../claims/expertise-reversal-effect.md) [~M] — adaptation must track growing expertise or it backfires
 - [Personalizing problem contexts to learner interests improves performance.](../claims/contingent-scaffolding-improves-learning.md) [+M] — interest-based personalization of problem contexts improves math performance
 - [Teaching to learning styles does not improve outcomes.](../claims/intuitive-learners-outperform-sensing-learners.md) [X] — style-matched instruction is a discredited form of personalization
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — support calibrated to learner state outperforms fixed support
 - [Sgd Preference Over Pe And Manual Signs](../claims/sgd-preference-over-pe-and-manual-signs.md) [+M]
+- [Not all students would benefit from improving the same competencies, suggesting an individualized approach to education may be preferable to a one-size-fits-all approach](../claims/heterogeneous-competency-benefits-individualized-education.md) [~W] — attached 2026-10-08 from John Deke (2006), which proposed "Individualize competency development rather than applying a one-size-fits-all approach".
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

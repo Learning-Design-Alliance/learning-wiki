@@ -56,3 +56,5 @@ This is a systematic review synthesis (WWC Intervention Report, mathematics achi
 - [The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies](tfa-evidence-base-reduced-to-four-studies.md) — related
 - [Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading](tfa-experimental-studies-positive-math-no-reading-effect.md) — possibly the same claim (merge candidate)
 - [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](tfa-small-positive-early-elementary-reading-not-math.md) — reports the opposite
+- [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — related
+- [Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction](tfa-positive-math-achievement-impact.md) — a narrower finding that bears on this claim
