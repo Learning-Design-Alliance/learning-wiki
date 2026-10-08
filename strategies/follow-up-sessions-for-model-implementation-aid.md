@@ -37,7 +37,8 @@ Among the report's recommendations drawn from the innovation diffusion experienc
 - implementing the learning system model in divisional responsibilities
 
 ## Related Strategies
-- 
+
+- [Support effective data use by offering targeted recommendations and strategies to state officials, district-level staff, and system developers](targeted-recommendations-promote-effective-data-use.md)
 
 ## Examples
 -

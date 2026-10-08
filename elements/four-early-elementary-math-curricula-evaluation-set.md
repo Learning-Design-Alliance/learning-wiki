@@ -43,7 +43,9 @@ The evaluation compared four early elementary math programs, each a textbook-bas
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](../claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) [+M]
 
 ## Related Elements
-- 
+
+- [Four elementary math curricula compared in the study](four-elementary-math-curricula-compared.md)
+- [Four elementary math curricula evaluated: Investigations in Number, Data, and Space; Math Expressions; Saxon Math; and Scott Foresman-Addison Wesley Mathematics](four-elementary-math-curricula-evaluated-agodini.md)
 
 ## Examples
 -

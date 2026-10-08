@@ -45,3 +45,4 @@ Project description from the publication's overview. The article reports that in
 ## Related Claims
 - [A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood](landscape-analysis-collected-instruments-learning-strategies-mindsets.md) — related
 - [The M&E Needs Inventory is positioned as most useful in the early stage of a research cycle](me-inventory-most-useful-early-research-cycle.md) — related
+- [A formative evaluation of the ELTM was conducted in two preschool child development centers serving six classes of children ages 3 to 5](milpitas-eltm-formative-evaluation-scope.md) — related

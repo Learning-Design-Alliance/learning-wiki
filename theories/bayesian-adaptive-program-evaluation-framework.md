@@ -43,11 +43,14 @@ The article presents a Bayesian approach to randomized program evaluations in wh
 - [Bayesian Adaptive Smaller Informative Studies](../claims/bayesian-adaptive-smaller-informative-studies.md) [+M]
 
 ## Related Theories
-- 
+
+- [Bayesian adaptive approach to randomized policy evaluations for estimating heterogeneous treatment effects](bayesian-adaptive-policy-evaluation-heterogeneous-effects.md)
 
 ## Examples
 
 - [Use Bayesian adaptive designs to channel growing public-program data streams into evaluation](../strategies/bayesian-adaptive-designs-for-big-data-evaluation.md)
+- [Simulation study of Bayesian adaptive design conditions](../elements/simulation-study-bayesian-adaptive-design-conditions.md)
+- [Match each study subject to the candidate intervention most likely to benefit them](../strategies/match-subjects-to-most-likely-beneficial-intervention.md)
 
 ## Key Sources
 - Mariel McKenzie Finucane, Ignacio Martinez, Scott Cody. (2018). What Works for Whom? A Bayesian Approach to Channeling Big Data Streams for Public Program Evaluation. American Journal of Evaluation, vol. 39, issue 1. https://journals.sagepub.com/loi/aje

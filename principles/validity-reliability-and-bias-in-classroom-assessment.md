@@ -12,7 +12,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (5 for, 14 mixed) · 18 studies (5 associational, 5 design, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 18 report an effect size · 18 claims rest on one study
+> **Evidence** · 20 claims (6 for, 14 mixed) · 19 studies (6 associational, 5 design, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 19 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,6 +115,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information](../claims/lou-interview-validated-against-ethnography.md) [+W]: used in the situation table for criterion checks at work; its one entry reports the weaker comparison (.65 against readers of written protocols), not the ethnographer comparison its title names.
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge](../claims/verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) [~W], [Cohen's kappa paradox](../claims/cohens-kappa-paradox-decision-consistency.md) [~W], [grade cutoffs are arbitrary at adjacent scores](../claims/grade-cutoffs-arbitrary-adjacent-scores.md) [~W] and [a later-positioned item was more difficult](../claims/later-position-item-more-difficult-fatigue-effect.md) [~M]: arguments, a worked example and one item; used in the default design and the table for what they are.
 - [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](../claims/culturally-diverse-underrepresentation-biased-measures.md) [~W]: a narrative review (`r1`) attributing under-identification to the measures; it bears on the use of assessments for placement, and its title states a cause its entry does not test.
+- [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](../claims/vam-omitting-background-lowers-disadvantaged-district-ratings.md) [+W] — attached 2026-10-08 from Matthew T. Johnson et al. (2015), which proposed "When constructing teacher value-added models, include student and peer background characteristics, especially for districts with many disadvantaged students"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -136,11 +137,13 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Competency-Based Assessment](competency-based-assessment.md) — applies these properties to a criterion-referenced judgement against a threshold, and models assessor agreement and threshold setting for that case
 
 ## Examples
+
 - [Selected-Response Assessment Items](../elements/selected-response-assessment-items.md) — trades some validity for high reliability, since objective scoring removes rater variation but constrains what can be assessed
 - [Constructed-Response Assessment Items](../elements/constructed-response-assessment-items.md) — the reverse tradeoff: broader validity for complex goals, at real risk to reliability without a rubric or model answer
 
 - [Constructive Alignment](../patterns/constructive-alignment.md) — the course-scale check that outcomes, activities and assessment call for the same capability, which is content validity applied to a whole course
 - [Authentic Assessment](../patterns/authentic-assessment.md) — a design that raises construct match for performance goals and depends on calibrated scoring to keep it consistent
+- [Use multiple raters for principal-assigned professional practice ratings to improve consistency](../strategies/multiple-raters-for-practice-ratings.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

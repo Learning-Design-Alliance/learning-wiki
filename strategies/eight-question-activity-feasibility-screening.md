@@ -41,6 +41,7 @@ After identifying educational activities that could foster the behaviors named i
 ## Related Strategies
 
 - [Prioritize felt needs using matrix ranking or paired comparisons before verification](matrix-ranking-paired-comparisons-needs.md)
+- [Use review findings to identify promising targets for social innovations improving poor children's educational prospects](social-innovation-targets-poor-children-educational-prospects.md)
 
 ## Examples
 -

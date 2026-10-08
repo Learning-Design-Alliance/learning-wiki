@@ -46,3 +46,6 @@ The key findings section states this evaluator-facing benefit of the adaptive de
 - [Bayesian adaptive design benefits study subjects by allocating them to more effective treatment arms](bayesian-adaptive-benefits-study-subjects.md) — related
 - [A Bayesian adaptive design can yield superior inference to a standard design using less than one third the sample size under identified conditions](bayesian-adaptive-superior-inference-smaller-samples.md) — a narrower finding that bears on this claim
 - [An adaptive mastery testing strategy reduces test length by 30% to 81% while reaching the same mastery decision as the conventional test for 96% of trainees](adaptive-mastery-testing-reduces-length-preserves-decisions.md) — related
+- [The adaptive trial design reallocates more study subjects to more promising treatment arms as evidence accumulates](adaptive-allocation-to-promising-arms.md) — related
+- [The Bayesian adaptive design can produce better inference and ultimately smaller trials under identifiable conditions](bayesian-adaptive-better-inference-smaller-trials.md) — a narrower finding that bears on this claim
+- [Under certain conditions the Bayesian adaptive design yields superior inference with less than one-third the sample size of a standard design](bayesian-adaptive-superior-inference-smaller-trials.md) — related

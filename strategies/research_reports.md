@@ -59,9 +59,11 @@ Research reports work as both a communication format and a synthesis task. As a 
 6. Close with implications and recommendations tied directly to the evidence, then peer-review drafts for clarity before final revision.
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — reports can present a case's evidence base; cases give reports a narrative anchor
 - [Argument Construction](../elements/argument-construction.md) — the claim–evidence–reasoning structure of a report is an argument schema applied to empirical data
 - [Peer Feedback](../elements/peer-feedback.md) — structured critique of report drafts improves both the draft and the reviewer's evaluative skill
+- [Use data visualization to make complex concepts accessible in research communication](data-visualization-for-accessible-research-communication.md)
 
 ## Examples
 - **AAAS Science in the Classroom** ([https://www.scienceintheclassroom.org](https://www.scienceintheclassroom.org)) — published research papers annotated with learning lenses, letting students read authentic reports with scaffolds.

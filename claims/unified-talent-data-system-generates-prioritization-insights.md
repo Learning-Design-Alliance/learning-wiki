@@ -44,3 +44,4 @@ In its challenges section, the document identifies disconnected data systems for
 
 ## Related Claims
 - [Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession](piecemeal-educator-policymaking-drains-talent.md) — related
+- [In practice, data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](data-use-often-fails-to-drive-decisions.md) — related

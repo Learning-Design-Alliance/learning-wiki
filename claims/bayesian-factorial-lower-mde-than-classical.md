@@ -49,3 +49,4 @@ Simulation study: the authors repeatedly simulated factorial experiments across 
 - [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](seventy-two-arms-classical-double-sample-size.md) — a narrower finding that bears on this claim
 - [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](classical-inference-prohibitive-sample-sizes-factorial.md) — a broader claim this one bears on
 - [Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision](bayesian-partial-pooling-precision-false-positive-control.md) — related
+- [Under certain conditions the Bayesian adaptive design yields superior inference with less than one-third the sample size of a standard design](bayesian-adaptive-superior-inference-smaller-trials.md) — related

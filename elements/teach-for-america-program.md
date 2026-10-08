@@ -49,7 +49,8 @@ Teach For America (TFA) is a highly selective route to teacher certification tha
 - [TFA teachers show potentially positive effects on science achievement, based on one study](../claims/tfa-potentially-positive-science-effects.md) [+W]
 
 ## Related Elements
-- 
+
+- [Teach For America (TFA) as a teacher-supply program for hard-to-staff subjects in high-poverty schools](teach-for-america-teacher-supply-program.md)
 
 ## Examples
 -

@@ -45,3 +45,6 @@ The article's key findings list states this subject-level benefit of the adaptiv
 ## Related Claims
 - [Bayesian adaptive design benefits evaluators by allowing smaller and more informative studies](bayesian-adaptive-smaller-informative-studies.md) — related
 - [A Bayesian adaptive design can yield superior inference to a standard design using less than one third the sample size under identified conditions](bayesian-adaptive-superior-inference-smaller-samples.md) — related
+- [The adaptive trial design reallocates more study subjects to more promising treatment arms as evidence accumulates](adaptive-allocation-to-promising-arms.md) — possibly the same claim (merge candidate)
+- [The Bayesian adaptive design can produce better inference and ultimately smaller trials under identifiable conditions](bayesian-adaptive-better-inference-smaller-trials.md) — related
+- [Under certain conditions the Bayesian adaptive design yields superior inference with less than one-third the sample size of a standard design](bayesian-adaptive-superior-inference-smaller-trials.md) — related

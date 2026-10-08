@@ -65,3 +65,4 @@ The shift from "word count" to "conversational turns" as the operative mechanism
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
 - [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](title-i-preschools-no-increase-social-pretense.md) — related
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](cooperative-learning-language-class-outcomes.md) — related
+- [The article reviews evidence that aspects of the learning environment most closely associated with successful development of early academic competence differ by socioeconomic background](ses-differences-access-academically-auspicious-environments.md) — related

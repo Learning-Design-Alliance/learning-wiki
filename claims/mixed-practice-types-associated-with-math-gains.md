@@ -1,0 +1,48 @@
+---
+type: claim
+title: Practices associated with higher math achievement gains include both student-centered and teacher-directed practices, though some student-centered practices were associated with lower gains
+description: Practices associated with higher math achievement gains include both student-centered and teacher-directed practices, though some student-centered practices were associated with lower gains
+id: mixed-practice-types-associated-with-math-gains
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-08
+evidence_strength: weak
+sources:
+  - id: douglas-h-clements-2013
+    resource: "https://ies.ed.gov/ncee/"
+    title: "Douglas H. Clements, Roberto Agodini, Barbara Harris. (2013). Instructional Practices and Student Math Achievement: Correlations from a Study of Math Curricula (Issue Brief). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/"
+    author: Douglas H. Clements, Roberto Agodini, Barbara Harris
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: "?"
+---
+
+# Practices associated with higher math achievement gains include both student-centered and teacher-directed practices, though some student-centered practices were associated with lower gains
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r?` · `q2`
+
+## Subclaims
+`q2 i?` The pattern of associations suggests that both student-centered and teacher-directed practices relate to higher achievement gains, but some student-centered practices related to lower gains. [→ Douglas H. Clements 2013](#douglas-h-clements-2013)
+
+## Evidence
+
+### Douglas H. Clements 2013
+
+Douglas H. Clements, Roberto Agodini, Barbara Harris. (2013). Instructional Practices and Student Math Achievement: Correlations from a Study of Math Curricula (Issue Brief). Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/
+
+`q2 · i?` · `associational · r?`
+
+The brief's summary interpretation of its correlational pattern across grades, stating "practices associated with higher achievement gains include both student-centered and teacher-directed practices". No effect sizes are printed.
+
+> "These findings suggest that practices associated with higher achievement gains include both student-centered and teacher-directed practices; however, some student-centered practices were associated with lower achievement gains."
+
+## Discussion
+
+
+## Related Claims
+- [Teachers suggesting specific practices in response to students' work is associated with higher math achievement in 1st grade only](suggesting-specific-practices-first-grade-higher-achievement.md) — a narrower finding that bears on this claim
+- [Three student-centered practices were associated with lower 2nd-grade math achievement](student-centered-practices-lower-second-grade-achievement.md) — a narrower finding that bears on this claim
+- [Asking the class to agree with a student's answer and directing students to help one another are associated with higher math achievement](class-agreement-and-peer-help-higher-achievement.md) — a narrower finding that bears on this claim

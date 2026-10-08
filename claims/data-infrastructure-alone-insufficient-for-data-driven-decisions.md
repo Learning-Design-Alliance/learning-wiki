@@ -44,3 +44,6 @@ The review's summary asserts, without reported studies or data, that data-driven
 
 ## Related Claims
 - [The relational taxonomy is argued to support values and moral education because fostering ego strength addresses the gap between moral reasoning and moral behavior](relational-taxonomy-supports-moral-education.md) — a broader claim this one bears on
+- [In practice, data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](data-use-often-fails-to-drive-decisions.md) — related
+- [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](sdp-ep-staff-placement-capacity-theory-of-action.md) — related
+- [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](similar-data-capacity-sdp-ep-agencies.md) — related

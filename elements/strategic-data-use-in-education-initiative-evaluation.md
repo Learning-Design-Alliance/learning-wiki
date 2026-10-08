@@ -39,6 +39,8 @@ The brief draws its data and supporting examples from "work conducted as part of
 ## Related Elements
 
 - [KIPP Pre-K program](kipp-prek-program.md)
+- [Three-brief In Focus series on effective data use in education](in-focus-brief-series-effective-data-use.md)
+- [Mathematica implementation study of Strategic Data Use in Education (2011–2015), prepared for the Gates Foundation](strategic-data-use-in-education-implementation-study.md)
 
 ## Examples
 -

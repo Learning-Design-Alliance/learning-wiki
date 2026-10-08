@@ -39,7 +39,8 @@ The What Works Clearinghouse rates interventions per outcome domain by combining
 - [Everyday Mathematics Small Evidence Base One Qualifying Study](../claims/everyday-mathematics-small-evidence-base-one-qualifying-study.md) [+M]
 
 ## Related Theories
-- 
+
+- [What Works Clearinghouse evidence-based standards for reviewing transition program research](wwc-evidence-standards-transition-review.md)
 
 ## Examples
 -

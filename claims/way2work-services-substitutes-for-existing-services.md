@@ -70,3 +70,4 @@ Authors' interpretation of the service-use findings: control members had ready a
 - [Service use differed across local school systems in Way2Work Maryland](way2work-service-use-differences-across-school-systems.md) — related
 - [Many SSI youth received transition services without PROMISE, but there was substantial room for PROMISE to improve service use](promise-ssi-youth-transition-services-baseline-room-for-improvement.md) — related
 - [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — related
+- [Community-based work programs for transition-age students with disabilities show mixed effects on employment outcomes](community-based-work-programs-mixed-employment-effects.md) — related

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**195 entries** · 0 stable · 0 in review · 195 drafts
+**196 entries** · 0 stable · 0 in review · 196 drafts
 
 ---
 
@@ -109,6 +109,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### G {: #letter-g }
 
 * [Genre-based writing lesson pattern cycling Presenting, Collaborative Practicing, Independent Writing, and Post-Writing Task stages](gbsri-lesson-stage-cycle-pattern.md) - A reusable lesson-level pattern in which each writing task cycles through the GBSRI stages: students first explore real-world sample texts (recipes, cookbooks, YouTube clips) to understand context and genre features;...
+* [Guide structure: define and exemplify, identify candidate experiments, outline critical steps](opportunistic-experiments-guide-structure.md) - The guide follows a three-part organizing structure: it \"defines opportunistic experiments and provides examples,\" \"discusses issues to consider when identifying potential opportunistic experiments,\" and \"outlines the...
 
 #### H {: #letter-h }
 

@@ -52,3 +52,4 @@ RCT analysis of employment and expectation outcomes at the 24-month follow-up, b
 - [Service use differed across local school systems in Way2Work Maryland](way2work-service-use-differences-across-school-systems.md) — related
 - [Most Way2Work Maryland participants (92 percent) had at least one work experience, 74 percent had at least two with one paid, and 44 percent had at least three with one paid](way2work-maryland-most-participants-multiple-work-experiences.md) — related
 - [Primary-outcome impacts in the PROMISE evaluation were measured at an 18-month follow-up point](promise-primary-outcomes-18-month-followup.md) — related
+- [Community-based work programs for transition-age students with disabilities show mixed effects on employment outcomes](community-based-work-programs-mixed-employment-effects.md) — a broader claim this one bears on

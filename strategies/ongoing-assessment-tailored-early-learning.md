@@ -42,6 +42,7 @@ The program emphasizes data-informed instruction: teachers use ongoing assessmen
 - [Adaptive Learning](adaptive-learning.md)
 - [Multi-Tiered System of Supports (MTSS)](multi-tiered-system-of-supports-mtss.md)
 - [Learn About Students' Math Backgrounds](learn_about_students_math_backgrounds.md)
+- [Provide formal training, ongoing supervisory support, and colleague collaboration when introducing new child assessments](supports-for-acting-on-child-assessment-information.md)
 
 ## Examples
 -

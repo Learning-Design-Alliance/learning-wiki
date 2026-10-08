@@ -45,3 +45,5 @@ The article's stated purpose is to examine "behavioral responses" to a selective
 ## Related Claims
 - [The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts](selective-transfer-targets-hardest-to-staff-schools.md) — possibly the same claim (merge candidate)
 - [After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts](tif-pay-for-performance-small-positive-achievement-impacts.md) — related
+- [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](selective-transfer-incentive-20000-hard-to-staff-schools.md) — possibly the same claim (merge candidate)
+- [The paper examines high-performing teachers' willingness to transfer and the transfer offer's effect on receiving schools' internal dynamics](transfer-offer-effects-teacher-willingness-and-school-dynamics.md) — related

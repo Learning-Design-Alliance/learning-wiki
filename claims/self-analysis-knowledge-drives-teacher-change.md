@@ -48,3 +48,4 @@ Theoretical argument in the document's conclusion chapter: teachers can improve 
 - [Feuerstein argues learning through direct, unmediated experience cannot yield meaningful learning or full modifiability](direct-experience-insufficient-for-meaningful-learning.md) — related
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related
 - [High stakes should never be attached to observational measures used in formative evaluation of early childhood programs.](no-high-stakes-on-observational-measures.md) — related
+- [Teachers integrating a new assessment tool into early childhood practice need a range of supports to act effectively on the information it provides](teachers-need-multiple-supports-integrate-new-assessments.md) — related

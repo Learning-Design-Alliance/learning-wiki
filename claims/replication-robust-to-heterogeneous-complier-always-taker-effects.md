@@ -45,3 +45,5 @@ Reported as part of the charter-school within-study comparison demonstration; th
 ## Related Claims
 - [Control-group noncompliance makes experimental and nonexperimental estimands diverge (CACE vs. all treated subjects)](noncompliance-estimand-divergence-cace-itt.md) — related
 - [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) — related
+- [The intent-to-treat experimental impact estimate is the most causally rigorous measure for nonexperimental methods to replicate](itt-estimate-most-causally-rigorous-benchmark.md) — a broader claim this one bears on
+- [Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs](varying-effects-methods-rct-and-quasi-experimental.md) — related
