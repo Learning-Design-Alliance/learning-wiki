@@ -37,6 +37,7 @@ has settled.
     python3 scripts/eval/source_lists.py --list hub  --report
     python3 scripts/eval/source_lists.py --list hub  --queue eval/runs/queues/hub.ndjson
     python3 scripts/eval/source_lists.py --list aied --source ~/aied --queue eval/runs/queues/aied.ndjson
+    python3 scripts/eval/source_lists.py --list hub  --campbell eval/runs/queues/campbell.ndjson
 """
 import argparse
 import collections
@@ -183,6 +184,58 @@ def eric_twin(e: dict) -> "dict | None":
     return None
 
 
+CAMPBELL_ISSN = "1891-1803"  # Campbell Systematic Reviews
+
+
+def campbell_pmc_twin(e: dict) -> "dict | None":
+    """The PubMed Central copy of a Campbell Collaboration review.
+
+    Campbell's review pages are rendered by JavaScript, so the `web` fetch reads an empty
+    shell, and Wiley, which publishes *Campbell Systematic Reviews*, refuses automated PDF
+    downloads (403). Reviews published since the journal moved to Wiley (2018) are
+    deposited in PMC, which the pipeline fetches through the PMC Article Datasets on AWS.
+    So: the review's DOI from Crossref, by title within the journal's ISSN, then its PMC
+    record by DOI.
+
+    A DOI is accepted only when the registry title is the hub's title, or the hub's title
+    followed by a short subtitle ("...: A systematic review"); a protocol is never taken
+    for its review, though the two share most of a title. Where several versions match
+    (a review and its update), the latest is taken. Older reviews (10.4073/csr.*) have no
+    PMC copy and return None."""
+    from eval import discover_articles as da
+    want = norm_title(e["title"])
+    if len(want.split()) < 4:
+        return None
+    items = da._get("https://api.crossref.org/works", {
+        "query.bibliographic": e["title"], "filter": f"issn:{CAMPBELL_ISSN}", "rows": 5,
+    }).json()["message"]["items"]
+    best = None
+    for it in items:
+        got = norm_title((it.get("title") or [""])[0])
+        if got.startswith("protocol") or not got.startswith(want):
+            continue
+        if len(got.split()) - len(want.split()) > 6:
+            continue
+        issued = tuple((it.get("issued") or {}).get("date-parts", [[0]])[0])
+        if best is None or issued > best[0]:
+            best = (issued, it)
+    if not best:
+        return None
+    doi = best[1]["DOI"].lower()
+    ids = da._get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
+                  {"db": "pmc", "term": f"{doi}[doi]", "retmode": "json"}).json()["esearchresult"]["idlist"]
+    if len(ids) != 1:
+        return None
+    uid = ids[0]
+    pmcid = f"PMC{uid}"
+    year = best[0][0] if best[0] and best[0][0] else None
+    return {"id": f"pmc-{uid}", "source": "pubmed", "pmcid": pmcid,
+            "title": (best[1].get("title") or [e["title"]])[0], "authors": e.get("authors") or "et al.",
+            "year": year, "doi": doi, "url": f"https://www.ncbi.nlm.nih.gov/pmc/articles/{pmcid}",
+            "fetch_url": da.pmc_aws.metadata_url(pmcid),
+            "topic_hint": f"{e['list']}: {e['group']} (via PMC)", "list_key": e["key"]}
+
+
 def robots_allows(url: str) -> bool:
     """The same robots.txt check every fetch makes (compliance.check_allowed), made
     up front so a batch does not spend its slots on a site that refuses crawlers:
@@ -232,17 +285,43 @@ def report(entries: list) -> None:
         print(f"{(dom or '')[:12]:12} {(grp or '')[:44]:44} {c['covered']:7} {c['queued']:7} {c['skip']:5}")
 
 
+def campbell_queue(entries: list, out: Path) -> None:
+    """Campbell reviews not yet in the manifest, by their PMC copy, else their ERIC copy."""
+    ids = manifest_index()[0]
+    camp = [e for e in entries if "campbellcollaboration.org" in (e.get("url") or "") and e["state"] != "covered"]
+    rows, seen, none = [], set(), 0
+    for e in camp:
+        twin = campbell_pmc_twin(e) or eric_twin(e)
+        if not twin:
+            none += 1
+        elif twin["id"] not in ids and twin["id"] not in seen:
+            seen.add(twin["id"])
+            rows.append(twin)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows), encoding="utf-8")
+    print(f"Campbell: {len(camp)} reviews not covered; {len(rows)} queued "
+          f"({sum(r['source'] == 'pubmed' for r in rows)} PMC, {sum(r['source'] != 'pubmed' for r in rows)} ERIC); "
+          f"{none} with no copy the pipeline can fetch -> {out}")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--list", choices=["hub", "aied"], required=True)
     ap.add_argument("--source", help="hub: a data.json path or URL; aied: a local clone")
     ap.add_argument("--report", action="store_true")
     ap.add_argument("--queue", type=Path, help="write the queued entries, in priority order, as NDJSON")
+    ap.add_argument("--campbell", type=Path,
+                    help="write a queue of the Campbell reviews the web fetch cannot read (their pages are "
+                         "JavaScript-rendered): each review's PubMed Central copy, found by its DOI, else its "
+                         "ERIC copy (hub only)")
     ap.add_argument("--eric-fallback", action="store_true",
                     help="look each robots-blocked entry up in ERIC by title, and queue the ERIC copy "
                          "(about 2 s an entry, ERIC's rate floor)")
     a = ap.parse_args()
     entries = classify(load_hub(a.source) if a.list == "hub" else load_aied(a.source))
+    if a.campbell:
+        campbell_queue(entries, a.campbell)
+        return
     if a.report or not a.queue:
         report(entries)
     if a.queue:

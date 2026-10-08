@@ -50,3 +50,4 @@ The author's review of studies on input manipulation in adult second language ac
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — reports the opposite
 - [Grammar instruction and skill drills show little carryover to composition success](grammar-drills-little-carryover-composition.md) — a narrower finding that bears on this claim
 - [Repetitive drill and grammar-focused instruction are ineffective teaching devices for language acquisition](repetitive-drill-grammar-focus-ineffective.md) — related
+- [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related

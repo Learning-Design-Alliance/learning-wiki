@@ -49,3 +49,4 @@ The digest reports, citing Little and Haley (1982), a study by the Social Scienc
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
 - [A Pennsylvania state assessment reportedly showed declining citizenship measure scores from 1974 to 1976](pennsylvania-citizenship-scores-declined-1974-1976.md) — related
 - [Civic-education-focused schooling can boost civic participation in adulthood](civic-focused-education-boosts-adult-participation.md) — related
+- [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — reports the opposite

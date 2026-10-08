@@ -1,15 +1,15 @@
 {
  "counts": {
-  "claim": 5110,
+  "claim": 5201,
   "design": 198,
-  "element": 1239,
+  "element": 1247,
   "learner-variable": 12,
   "method": 38,
   "pattern": 126,
   "principle": 375,
   "process": 18,
-  "strategy": 3511,
-  "theory": 1063
+  "strategy": 3522,
+  "theory": 1082
  },
  "kinds": [
   "claim",
@@ -1577,6 +1577,15 @@
    "type": "claim"
   },
   {
+   "description": "Funding sources of included studies and impact of risk of bias on synthesis were the least addressed AMSTAR 2 items in Campbell reviews",
+   "evidence_strength": "weak",
+   "id": "amstar2-funding-and-rob-impact-least-addressed",
+   "path": "claims/amstar2-funding-and-rob-impact-least-addressed.md",
+   "status": "draft",
+   "title": "Funding sources of included studies and impact of risk of bias on synthesis were the least addressed AMSTAR 2 items in Campbell reviews",
+   "type": "claim"
+  },
+  {
    "description": "AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05",
    "evidence_strength": "moderate",
    "id": "amsti-math-problem-solving-effect-0-05",
@@ -1709,6 +1718,15 @@
    "path": "claims/ann-utaut-predictors-lms-acceptance-vocational.md",
    "status": "draft",
    "title": "Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential",
+   "type": "claim"
+  },
+  {
+   "description": "Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations",
+   "evidence_strength": "weak",
+   "id": "annevelink-personalised-instruction-path-test",
+   "path": "claims/annevelink-personalised-instruction-path-test.md",
+   "status": "draft",
+   "title": "Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations",
    "type": "claim"
   },
   {
@@ -3933,6 +3951,24 @@
    "type": "claim"
   },
   {
+   "description": "Only 26% of Campbell reviews completely or partially reported all 27 PRISMA items, with a median of 25 items reported",
+   "evidence_strength": "moderate",
+   "id": "campbell-reviews-prisma-completeness",
+   "path": "claims/campbell-reviews-prisma-completeness.md",
+   "status": "draft",
+   "title": "Only 26% of Campbell reviews completely or partially reported all 27 PRISMA items, with a median of 25 items reported",
+   "type": "claim"
+  },
+  {
+   "description": "Most Campbell intervention reviews are of moderate or lower AMSTAR 2 quality, with 59% rated high or moderate",
+   "evidence_strength": "moderate",
+   "id": "campbell-reviews-quality-distribution-amstar2",
+   "path": "claims/campbell-reviews-quality-distribution-amstar2.md",
+   "status": "draft",
+   "title": "Most Campbell intervention reviews are of moderate or lower AMSTAR 2 quality, with 59% rated high or moderate",
+   "type": "claim"
+  },
+  {
    "description": "Campus polarization predates unionization, and with effective union leadership it tends to diminish rather than increase",
    "evidence_strength": "weak",
    "id": "campus-polarization-predates-unionization",
@@ -5466,6 +5502,24 @@
    "type": "claim"
   },
   {
+   "description": "Class size reduction shows a negative, statistically non-significant effect on mathematics achievement (pooled SMD \u20100.03)",
+   "evidence_strength": "moderate",
+   "id": "class-size-reduction-negative-nonsignificant-math-effect",
+   "path": "claims/class-size-reduction-negative-nonsignificant-math-effect.md",
+   "status": "draft",
+   "title": "Class size reduction shows a negative, statistically non-significant effect on mathematics achievement (pooled SMD \u20100.03)",
+   "type": "claim"
+  },
+  {
+   "description": "Class size reduction produces a small, statistically significant positive effect on reading achievement by end of treatment year (pooled SMD 0.11)",
+   "evidence_strength": "moderate",
+   "id": "class-size-reduction-small-positive-reading-effect",
+   "path": "claims/class-size-reduction-small-positive-reading-effect.md",
+   "status": "draft",
+   "title": "Class size reduction produces a small, statistically significant positive effect on reading achievement by end of treatment year (pooled SMD 0.11)",
+   "type": "claim"
+  },
+  {
    "description": "WTC differs significantly across class sizes in Iranian EFL classes, with the smallest class showing the highest WTC",
    "evidence_strength": "weak",
    "id": "class-size-significant-wtc-difference-iranian-efl",
@@ -5481,6 +5535,15 @@
    "path": "claims/class-size-space-top-kcls-barrier.md",
    "status": "draft",
    "title": "Large class size with small classroom space is the most frequently cited barrier to KCLS implementation in Bhutanese higher secondary schools",
+   "type": "claim"
+  },
+  {
+   "description": "Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding",
+   "evidence_strength": "weak",
+   "id": "class-size-studies-excluded-high-risk-confounding",
+   "path": "claims/class-size-studies-excluded-high-risk-confounding.md",
+   "status": "draft",
+   "title": "Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding",
    "type": "claim"
   },
   {
@@ -6020,6 +6083,15 @@
    "path": "claims/cochran-smith-five-types-intellectual-work.md",
    "status": "draft",
    "title": "Serious talk about teaching in school-based meetings spans five types of intellectual work beyond classroom management",
+   "type": "claim"
+  },
+  {
+   "description": "Campbell reviews co-registered with Cochrane have higher methodological quality than reviews registered only with Campbell",
+   "evidence_strength": "moderate",
+   "id": "cochrane-campbell-coregistration-higher-quality",
+   "path": "claims/cochrane-campbell-coregistration-higher-quality.md",
+   "status": "draft",
+   "title": "Campbell reviews co-registered with Cochrane have higher methodological quality than reviews registered only with Campbell",
    "type": "claim"
   },
   {
@@ -7231,6 +7303,24 @@
    "type": "claim"
   },
   {
+   "description": "Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14\u20130.22 all statistically significant",
+   "evidence_strength": "moderate",
+   "id": "content-domain-effects-similar-range",
+   "path": "claims/content-domain-effects-similar-range.md",
+   "status": "draft",
+   "title": "Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14\u20130.22 all statistically significant",
+   "type": "claim"
+  },
+  {
+   "description": "Content domain shows little association with effect sizes, except fractions in mathematics",
+   "evidence_strength": "weak",
+   "id": "content-domain-little-effect-fractions-exception",
+   "path": "claims/content-domain-little-effect-fractions-exception.md",
+   "status": "draft",
+   "title": "Content domain shows little association with effect sizes, except fractions in mathematics",
+   "type": "claim"
+  },
+  {
    "description": "Content familiarity, not teaching experience, predicted reform-based science teaching practice",
    "evidence_strength": "moderate",
    "id": "content-familiarity-predicts-reform-practice-experience-does-not",
@@ -7679,6 +7769,15 @@
    "path": "claims/core5-teacher-satisfaction-survey-2006.md",
    "status": "draft",
    "title": "Teachers in a 2006 study reported high satisfaction with Core5, averaging 8.5 of 10 points on motivation items",
+   "type": "claim"
+  },
+  {
+   "description": "Cochrane co-registered Campbell reviews report about 2 more PRISMA items than Campbell-only reviews",
+   "evidence_strength": "moderate",
+   "id": "coregistration-more-prisma-items",
+   "path": "claims/coregistration-more-prisma-items.md",
+   "status": "draft",
+   "title": "Cochrane co-registered Campbell reviews report about 2 more PRISMA items than Campbell-only reviews",
    "type": "claim"
   },
   {
@@ -9375,6 +9474,78 @@
    "type": "claim"
   },
   {
+   "description": "The effect of deployment on mental health outcomes does not differ by branch of service or duty/enlistment status",
+   "evidence_strength": "weak",
+   "id": "deployment-effect-no-difference-branch-duty-status",
+   "path": "claims/deployment-effect-no-difference-branch-duty-status.md",
+   "status": "draft",
+   "title": "The effect of deployment on mental health outcomes does not differ by branch of service or duty/enlistment status",
+   "type": "claim"
+  },
+  {
+   "description": "In long-term assessments, personnel reporting high combat exposure have higher odds of screening positive for PTSD and depression than personnel reporting lower exposure",
+   "evidence_strength": "moderate",
+   "id": "deployment-high-combat-exposure-long-term-ptsd-depression",
+   "path": "claims/deployment-high-combat-exposure-long-term-ptsd-depression.md",
+   "status": "draft",
+   "title": "In long-term assessments, personnel reporting high combat exposure have higher odds of screening positive for PTSD and depression than personnel reporting lower exposure",
+   "type": "claim"
+  },
+  {
+   "description": "More than 24 months after exposure, deployed personnel have higher odds of screening positive for PTSD, depression, substance use and common mental disorder than non-deployed personnel",
+   "evidence_strength": "moderate",
+   "id": "deployment-long-term-higher-odds-four-mental-health-domains",
+   "path": "claims/deployment-long-term-higher-odds-four-mental-health-domains.md",
+   "status": "draft",
+   "title": "More than 24 months after exposure, deployed personnel have higher odds of screening positive for PTSD, depression, substance use and common mental disorder than non-deployed personnel",
+   "type": "claim"
+  },
+  {
+   "description": "Long-term prevalence of post-deployment mental health problems is expected to exceed pre-deployed/non-deployed baseline ranges across all four outcome domains",
+   "evidence_strength": "weak",
+   "id": "deployment-long-term-prevalence-ranges-exceed-baseline",
+   "path": "claims/deployment-long-term-prevalence-ranges-exceed-baseline.md",
+   "status": "draft",
+   "title": "Long-term prevalence of post-deployment mental health problems is expected to exceed pre-deployed/non-deployed baseline ranges across all four outcome domains",
+   "type": "claim"
+  },
+  {
+   "description": "Pooled effect sizes for deployment on mental health are robust across components of methodological quality in sensitivity analyses",
+   "evidence_strength": "moderate",
+   "id": "deployment-meta-analysis-robust-sensitivity",
+   "path": "claims/deployment-meta-analysis-robust-sensitivity.md",
+   "status": "draft",
+   "title": "Pooled effect sizes for deployment on mental health are robust across components of methodological quality in sensitivity analyses",
+   "type": "claim"
+  },
+  {
+   "description": "For assessments taken less than 24 months since exposure, the evidence on deployment effects on mental health is inconclusive",
+   "evidence_strength": "weak",
+   "id": "deployment-short-term-evidence-inconclusive",
+   "path": "claims/deployment-short-term-evidence-inconclusive.md",
+   "status": "draft",
+   "title": "For assessments taken less than 24 months since exposure, the evidence on deployment effects on mental health is inconclusive",
+   "type": "claim"
+  },
+  {
+   "description": "At other (variable) time points since exposure, deployed personnel do not have higher odds of screening positive for substance use than non-deployed personnel",
+   "evidence_strength": "moderate",
+   "id": "deployment-substance-use-null-variable-timepoints",
+   "path": "claims/deployment-substance-use-null-variable-timepoints.md",
+   "status": "draft",
+   "title": "At other (variable) time points since exposure, deployed personnel do not have higher odds of screening positive for substance use than non-deployed personnel",
+   "type": "claim"
+  },
+  {
+   "description": "At other (variable) time points since exposure, deployed personnel show significantly higher odds of PTSD and depression than non-deployed personnel, while the common mental disorder analysis is inconclusive",
+   "evidence_strength": "moderate",
+   "id": "deployment-variable-timepoints-ptsd-depression-significant",
+   "path": "claims/deployment-variable-timepoints-ptsd-depression-significant.md",
+   "status": "draft",
+   "title": "At other (variable) time points since exposure, deployed personnel show significantly higher odds of PTSD and depression than non-deployed personnel, while the common mental disorder analysis is inconclusive",
+   "type": "claim"
+  },
+  {
    "description": "Mental health, especially depression, is probably the single most decisive factor in refugee language learning",
    "evidence_strength": "weak",
    "id": "depression-decisive-factor-refugee-language-learning",
@@ -9741,6 +9912,15 @@
    "path": "claims/differential-interpretation-latent-classes-finding.md",
    "status": "draft",
    "title": "Differential interpretation of vague quantifiers is best represented as variability between latent interpretation classes",
+   "type": "claim"
+  },
+  {
+   "description": "Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension",
+   "evidence_strength": "moderate",
+   "id": "differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening",
+   "path": "claims/differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md",
+   "status": "draft",
+   "title": "Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension",
    "type": "claim"
   },
   {
@@ -10387,6 +10567,33 @@
    "path": "claims/drop-in-tutorials-improve-p1y-marks.md",
    "status": "draft",
    "title": "Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined",
+   "type": "claim"
+  },
+  {
+   "description": "Effects of dropout programs on dropout odds are heterogeneous across studies",
+   "evidence_strength": "moderate",
+   "id": "dropout-program-effects-heterogeneous",
+   "path": "claims/dropout-program-effects-heterogeneous.md",
+   "status": "draft",
+   "title": "Effects of dropout programs on dropout odds are heterogeneous across studies",
+   "type": "claim"
+  },
+  {
+   "description": "All program types show positive effects when controlling for other influences, with attendance monitoring and incentives, child care, community service, and school restructuring producing the best results",
+   "evidence_strength": "moderate",
+   "id": "dropout-program-type-effectiveness",
+   "path": "claims/dropout-program-type-effectiveness.md",
+   "status": "draft",
+   "title": "All program types show positive effects when controlling for other influences, with attendance monitoring and incentives, child care, community service, and school restructuring producing the best results",
+   "type": "claim"
+  },
+  {
+   "description": "Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63",
+   "evidence_strength": "moderate",
+   "id": "dropout-programs-or-163-completion",
+   "path": "claims/dropout-programs-or-163-completion.md",
+   "status": "draft",
+   "title": "Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63",
    "type": "claim"
   },
   {
@@ -12902,6 +13109,15 @@
    "type": "claim"
   },
   {
+   "description": "Interventions are more effective for general suspensions and in-school exclusion than for severe sanctions such as permanent exclusion and out-of-school suspension",
+   "evidence_strength": "weak",
+   "id": "exclusion-type-moderates-intervention-effect",
+   "path": "claims/exclusion-type-moderates-intervention-effect.md",
+   "status": "draft",
+   "title": "Interventions are more effective for general suspensions and in-school exclusion than for severe sanctions such as permanent exclusion and out-of-school suspension",
+   "type": "claim"
+  },
+  {
    "description": "",
    "id": "exercise-increases-hippocampal-volume",
    "path": "claims/exercise-increases-hippocampal-volume.md",
@@ -14866,6 +15082,42 @@
    "type": "claim"
   },
   {
+   "description": "Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high",
+   "evidence_strength": "weak",
+   "id": "flipped-classroom-evidence-base-rct-shortage-high-bias",
+   "path": "claims/flipped-classroom-evidence-base-rct-shortage-high-bias.md",
+   "status": "draft",
+   "title": "Only a minority of flipped-classroom studies in health professional education are RCTs, and risk of bias in non-randomised studies is high",
+   "type": "claim"
+  },
+  {
+   "description": "Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence",
+   "evidence_strength": "weak",
+   "id": "flipped-classroom-improves-academic-performance-hpe",
+   "path": "claims/flipped-classroom-improves-academic-performance-hpe.md",
+   "status": "draft",
+   "title": "Flipped classroom learning improves academic performance of undergraduate health professional students compared with traditional class learning (SMD = 0.57), at low certainty of evidence",
+   "type": "claim"
+  },
+  {
+   "description": "The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty",
+   "evidence_strength": "weak",
+   "id": "flipped-classroom-performance-sensitivity-imputed-data",
+   "path": "claims/flipped-classroom-performance-sensitivity-imputed-data.md",
+   "status": "draft",
+   "title": "The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty",
+   "type": "claim"
+  },
+  {
+   "description": "Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty",
+   "evidence_strength": "weak",
+   "id": "flipped-classroom-student-satisfaction-positive",
+   "path": "claims/flipped-classroom-student-satisfaction-positive.md",
+   "status": "draft",
+   "title": "Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty",
+   "type": "claim"
+  },
+  {
    "description": "Learner flow control over animations was rarely used and did not correlate with learning performance",
    "evidence_strength": "weak",
    "id": "flow-control-unused-no-learning-correlation",
@@ -15183,6 +15435,15 @@
    "path": "claims/four-difficulty-themes-textbook-listening.md",
    "status": "draft",
    "title": "Four themes of difficulty in textbook listening activities emerge for both groups: speech rate, speaker's accent, word meaning, and time pressure",
+   "type": "claim"
+  },
+  {
+   "description": "Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness",
+   "evidence_strength": "moderate",
+   "id": "four-implementation-themes-exclusion-interventions",
+   "path": "claims/four-implementation-themes-exclusion-interventions.md",
+   "status": "draft",
+   "title": "Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness",
    "type": "claim"
   },
   {
@@ -16376,6 +16637,15 @@
    "type": "claim"
   },
   {
+   "description": "A 1997 New York City report found that increasing resource room instructional group sizes from 5 to at most 8 students per teacher led to decreases in reading achievement",
+   "evidence_strength": "weak",
+   "id": "gottlieb-1997-group-size-increase-lowered-reading-scores",
+   "path": "claims/gottlieb-1997-group-size-increase-lowered-reading-scores.md",
+   "status": "draft",
+   "title": "A 1997 New York City report found that increasing resource room instructional group sizes from 5 to at most 8 students per teacher led to decreases in reading achievement",
+   "type": "claim"
+  },
+  {
    "description": "Increasing explicitness and centralization of university governance is driven by fiscal stringency and other underlying factors, not by unionization",
    "evidence_strength": "weak",
    "id": "governance-centralization-not-caused-by-unionization",
@@ -16454,6 +16724,15 @@
    "path": "claims/grade-cutoffs-arbitrary-adjacent-scores.md",
    "status": "draft",
    "title": "Grade cutoffs are arbitrary because adjacent scores receiving different grades are not significantly different, per the author's statistical argument",
+   "type": "claim"
+  },
+  {
+   "description": "Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects",
+   "evidence_strength": "weak",
+   "id": "grade-level-moderates-effect-size",
+   "path": "claims/grade-level-moderates-effect-size.md",
+   "status": "draft",
+   "title": "Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects",
    "type": "claim"
   },
   {
@@ -18769,6 +19048,15 @@
    "type": "claim"
   },
   {
+   "description": "Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students",
+   "evidence_strength": "moderate",
+   "id": "implementation-duration-community-moderators",
+   "path": "claims/implementation-duration-community-moderators.md",
+   "status": "draft",
+   "title": "Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students",
+   "type": "claim"
+  },
+  {
    "description": "Adding an if-then plan that says when, where and how to act to a goal intention raises goal attainment, with a medium-to-large pooled effect across 94 tests; in online courses a brief planning activity raised completion only for some learners.",
    "id": "implementation-intentions-improve-goal-attainment",
    "path": "claims/implementation-intentions-improve-goal-attainment.md",
@@ -18921,6 +19209,60 @@
    "path": "claims/incidental-vocabulary-retention-problems.md",
    "status": "draft",
    "title": "Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest",
+   "type": "claim"
+  },
+  {
+   "description": "Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive",
+   "evidence_strength": "weak",
+   "id": "inclusion-effects-heterogeneous-moderator-analyses-inconclusive",
+   "path": "claims/inclusion-effects-heterogeneous-moderator-analyses-inconclusive.md",
+   "status": "draft",
+   "title": "Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive",
+   "type": "claim"
+  },
+  {
+   "description": "The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias",
+   "evidence_strength": "weak",
+   "id": "inclusion-evidence-low-quality-serious-risk-of-bias",
+   "path": "claims/inclusion-evidence-low-quality-serious-risk-of-bias.md",
+   "status": "draft",
+   "title": "The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias",
+   "type": "claim"
+  },
+  {
+   "description": "Inclusion in general is very unlikely to increase or decrease learning and psychosocial adjustment of children with special needs",
+   "evidence_strength": "weak",
+   "id": "inclusion-general-no-increase-or-decrease-learning-psychosocial",
+   "path": "claims/inclusion-general-no-increase-or-decrease-learning-psychosocial.md",
+   "status": "draft",
+   "title": "Inclusion in general is very unlikely to increase or decrease learning and psychosocial adjustment of children with special needs",
+   "type": "claim"
+  },
+  {
+   "description": "Inclusion shows a negligible, non-significant pooled difference for language and literacy learning outcomes",
+   "evidence_strength": "weak",
+   "id": "inclusion-language-literacy-smd-004-nonsignificant",
+   "path": "claims/inclusion-language-literacy-smd-004-nonsignificant.md",
+   "status": "draft",
+   "title": "Inclusion shows a negligible, non-significant pooled difference for language and literacy learning outcomes",
+   "type": "claim"
+  },
+  {
+   "description": "Inclusion shows a negligible, non-significant pooled difference for math learning outcomes",
+   "evidence_strength": "weak",
+   "id": "inclusion-math-outcomes-smd-005-nonsignificant",
+   "path": "claims/inclusion-math-outcomes-smd-005-nonsignificant.md",
+   "status": "draft",
+   "title": "Inclusion shows a negligible, non-significant pooled difference for math learning outcomes",
+   "type": "claim"
+  },
+  {
+   "description": "Inclusion shows a small, non-significant pooled advantage over segregated placement for overall psychosocial adjustment of children with SEN",
+   "evidence_strength": "weak",
+   "id": "inclusion-psychosocial-adjustment-smd-020-nonsignificant",
+   "path": "claims/inclusion-psychosocial-adjustment-smd-020-nonsignificant.md",
+   "status": "draft",
+   "title": "Inclusion shows a small, non-significant pooled advantage over segregated placement for overall psychosocial adjustment of children with SEN",
    "type": "claim"
   },
   {
@@ -22654,6 +22996,24 @@
    "type": "claim"
   },
   {
+   "description": "Linguistic comprehension instruction shows no clear immediate effect on generalized reading comprehension outcomes",
+   "evidence_strength": "moderate",
+   "id": "linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect",
+   "path": "claims/linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect.md",
+   "status": "draft",
+   "title": "Linguistic comprehension instruction shows no clear immediate effect on generalized reading comprehension outcomes",
+   "type": "claim"
+  },
+  {
+   "description": "Linguistic comprehension instruction shows a small immediate effect on generalized linguistic comprehension outcomes",
+   "evidence_strength": "moderate",
+   "id": "linguistic-comprehension-instruction-small-immediate-generalized-effect",
+   "path": "claims/linguistic-comprehension-instruction-small-immediate-generalized-effect.md",
+   "status": "draft",
+   "title": "Linguistic comprehension instruction shows a small immediate effect on generalized linguistic comprehension outcomes",
+   "type": "claim"
+  },
+  {
    "description": "Linguistic intelligence dominated both series while natural intelligence was least frequent",
    "evidence_strength": "moderate",
    "id": "linguistic-intelligence-dominates-elt-textbooks",
@@ -23335,6 +23695,15 @@
    "path": "claims/logit-models-with-and-without-covariates-power.md",
    "status": "draft",
    "title": "The sample size approach handles logit models both with and without baseline covariates",
+   "type": "claim"
+  },
+  {
+   "description": "Longer-run effects of targeted secondary interventions are small and not statistically significant, with only seven studies providing follow-up evidence",
+   "evidence_strength": "weak",
+   "id": "long-run-effects-null-seven-studies",
+   "path": "claims/long-run-effects-null-seven-studies.md",
+   "status": "draft",
+   "title": "Longer-run effects of targeted secondary interventions are small and not statistically significant, with only seven studies providing follow-up evidence",
    "type": "claim"
   },
   {
@@ -24356,6 +24725,15 @@
    "type": "claim"
   },
   {
+   "description": "Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions",
+   "evidence_strength": "moderate",
+   "id": "math-test-effects-larger-than-reading",
+   "path": "claims/math-test-effects-larger-than-reading.md",
+   "status": "draft",
+   "title": "Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions",
+   "type": "claim"
+  },
+  {
    "description": "Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention",
    "evidence_strength": "moderate",
    "id": "math-vocabulary-levels-improve-post-test",
@@ -24551,6 +24929,24 @@
    "path": "claims/measuring-math-impact-key-to-improving-performance.md",
    "status": "draft",
    "title": "Measuring the impact of math instruction and interventions is key to improving students' overall math performance",
+   "type": "claim"
+  },
+  {
+   "description": "Campbell intervention reviews published after the 2014 introduction of MECCIR standards have higher methodological quality than those published before",
+   "evidence_strength": "moderate",
+   "id": "meccir-post-reviews-higher-amstar2-quality",
+   "path": "claims/meccir-post-reviews-higher-amstar2-quality.md",
+   "status": "draft",
+   "title": "Campbell intervention reviews published after the 2014 introduction of MECCIR standards have higher methodological quality than those published before",
+   "type": "claim"
+  },
+  {
+   "description": "Post-MECCIR Campbell reviews report about 2.8 more PRISMA items than pre-MECCIR reviews",
+   "evidence_strength": "moderate",
+   "id": "meccir-post-reviews-more-prisma-items",
+   "path": "claims/meccir-post-reviews-more-prisma-items.md",
+   "status": "draft",
+   "title": "Post-MECCIR Campbell reviews report about 2.8 more PRISMA items than pre-MECCIR reviews",
    "type": "claim"
   },
   {
@@ -25066,6 +25462,15 @@
    "type": "claim"
   },
   {
+   "description": "Unpublished status and higher method quality are associated with smaller estimated effects of dropout programs",
+   "evidence_strength": "moderate",
+   "id": "method-variables-smaller-dropout-effects",
+   "path": "claims/method-variables-smaller-dropout-effects.md",
+   "status": "draft",
+   "title": "Unpublished status and higher method quality are associated with smaller estimated effects of dropout programs",
+   "type": "claim"
+  },
+  {
    "description": "Quantitative methods exist for assessing how impacts of educational interventions on instructional practices and student learning differ across students, educators, and schools",
    "evidence_strength": "moderate",
    "id": "methods-assess-impact-variation-across-students-educators-schools",
@@ -25564,6 +25969,33 @@
    "path": "claims/mnemonic-instruction-improves-recall-for-students-with-disabilities.md",
    "status": "draft",
    "title": "Mnemonic Instruction Improves Recall For Students With Disabilities",
+   "type": "claim"
+  },
+  {
+   "description": "Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test",
+   "evidence_strength": "weak",
+   "id": "mobile-device-moderators-insufficient-evidence",
+   "path": "claims/mobile-device-moderators-insufficient-evidence.md",
+   "status": "draft",
+   "title": "Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test",
+   "type": "claim"
+  },
+  {
+   "description": "Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect",
+   "evidence_strength": "moderate",
+   "id": "mobile-device-review-risk-of-bias-concerns",
+   "path": "claims/mobile-device-review-risk-of-bias-concerns.md",
+   "status": "draft",
+   "title": "Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect",
+   "type": "claim"
+  },
+  {
+   "description": "Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device",
+   "evidence_strength": "moderate",
+   "id": "mobile-devices-small-positive-effect-literacy-numeracy",
+   "path": "claims/mobile-devices-small-positive-effect-literacy-numeracy.md",
+   "status": "draft",
+   "title": "Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device",
    "type": "claim"
   },
   {
@@ -26710,6 +27142,15 @@
    "type": "claim"
   },
   {
+   "description": "There are virtually no contemporary quantitative studies on the effects of small class sizes in special education, making meta-analysis impossible",
+   "evidence_strength": "weak",
+   "id": "no-contemporary-quantitative-studies-special-education-class-size",
+   "path": "claims/no-contemporary-quantitative-studies-special-education-class-size.md",
+   "status": "draft",
+   "title": "There are virtually no contemporary quantitative studies on the effects of small class sizes in special education, making meta-analysis impossible",
+   "type": "claim"
+  },
+  {
    "description": "Students derive no contextual benefit from attending an institution whose student body collectively engages more in deep learning activities",
    "evidence_strength": "moderate",
    "id": "no-contextual-effect-institutional-deep-learning",
@@ -26797,6 +27238,15 @@
    "path": "claims/no-ef-tom-interaction-semantic-fluency.md",
    "status": "draft",
    "title": "No interaction effect of executive functions and theory of mind on semantic fluency in preschool children",
+   "type": "claim"
+  },
+  {
+   "description": "No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness",
+   "evidence_strength": "weak",
+   "id": "no-eligible-crc-studies-identified",
+   "path": "claims/no-eligible-crc-studies-identified.md",
+   "status": "draft",
+   "title": "No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness",
    "type": "claim"
   },
   {
@@ -27067,6 +27517,15 @@
    "path": "claims/no-research-aptitude-form-practice-interaction.md",
    "status": "draft",
    "title": "No research yet addresses the three-way interaction of learner aptitudes, characteristics of the target forms, and practice modalities",
+   "type": "claim"
+  },
+  {
+   "description": "No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search",
+   "evidence_strength": "moderate",
+   "id": "no-rigorous-evaluations-trauma-informed-schools",
+   "path": "claims/no-rigorous-evaluations-trauma-informed-schools.md",
+   "status": "draft",
+   "title": "No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search",
    "type": "claim"
   },
   {
@@ -29388,6 +29847,15 @@
    "type": "claim"
   },
   {
+   "description": "Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students",
+   "evidence_strength": "moderate",
+   "id": "peer-assisted-and-small-group-instruction-most-effective",
+   "path": "claims/peer-assisted-and-small-group-instruction-most-effective.md",
+   "status": "draft",
+   "title": "Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students",
+   "type": "claim"
+  },
+  {
    "description": "",
    "evidence_strength": "low",
    "id": "peer-assisted-learning-improves-achievement",
@@ -29540,6 +30008,15 @@
    "path": "claims/peer-review-approval-clarification-requests.md",
    "status": "draft",
    "title": "Reviewers judged the protocol methodologically rigorous and approved it, while requesting clarification on NPT justification, grey-literature search detail, and analysis steps",
+   "type": "claim"
+  },
+  {
+   "description": "In adjusted meta-regressions, peer-assisted and small-group instruction outperform computer-assisted instruction, coaching, incentives, and progress monitoring",
+   "evidence_strength": "moderate",
+   "id": "peer-small-group-outperform-other-methods",
+   "path": "claims/peer-small-group-outperform-other-methods.md",
+   "status": "draft",
+   "title": "In adjusted meta-regressions, peer-assisted and small-group instruction outperform computer-assisted instruction, coaching, incentives, and progress monitoring",
    "type": "claim"
   },
   {
@@ -30279,6 +30756,15 @@
    "path": "claims/planetary-health-course-three-key-lessons.md",
    "status": "draft",
    "title": "Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships",
+   "type": "claim"
+  },
+  {
+   "description": "The review planned meta\u2010analytic synthesis but could not use it because only one study met the inclusion criteria",
+   "evidence_strength": "weak",
+   "id": "planned-meta-analysis-unavailable-single-study",
+   "path": "claims/planned-meta-analysis-unavailable-single-study.md",
+   "status": "draft",
+   "title": "The review planned meta\u2010analytic synthesis but could not use it because only one study met the inclusion criteria",
    "type": "claim"
   },
   {
@@ -31577,6 +32063,15 @@
    "type": "claim"
   },
   {
+   "description": "Prior reviews of inclusion published before 2000 reported equivocal effects, including a pooled effect size of 0.33 favouring inclusion",
+   "evidence_strength": "weak",
+   "id": "prior-inclusion-reviews-equivocal-wang-baker-033",
+   "path": "claims/prior-inclusion-reviews-equivocal-wang-baker-033.md",
+   "status": "draft",
+   "title": "Prior reviews of inclusion published before 2000 reported equivocal effects, including a pooled effect size of 0.33 favouring inclusion",
+   "type": "claim"
+  },
+  {
    "description": "Prior-knowledge activation instructions before study had little effect on retention in Experiment 2",
    "evidence_strength": "weak",
    "id": "prior-knowledge-activation-little-effect-on-retention",
@@ -31673,6 +32168,24 @@
    "path": "claims/prior-research-direct-instruction-higher-achievement.md",
    "status": "draft",
    "title": "Prior research reviewed in the article reports higher basic-skills achievement for Direct Instruction students, though the review also records dissenting views",
+   "type": "claim"
+  },
+  {
+   "description": "The 2018 review reported a larger pooled effect (SMD = 0.30) that was not sustained at longer-term follow-up",
+   "evidence_strength": "moderate",
+   "id": "prior-review-larger-unsustained-effect",
+   "path": "claims/prior-review-larger-unsustained-effect.md",
+   "status": "draft",
+   "title": "The 2018 review reported a larger pooled effect (SMD = 0.30) that was not sustained at longer-term follow-up",
+   "type": "claim"
+  },
+  {
+   "description": "Prior syntheses of educational technology effects show inconsistent findings, with mobile learning meta-analysis finding near-zero maths effects and reading interventions comparatively more effective",
+   "evidence_strength": "weak",
+   "id": "prior-technology-meta-analyses-inconsistent-effects",
+   "path": "claims/prior-technology-meta-analyses-inconsistent-effects.md",
+   "status": "draft",
+   "title": "Prior syntheses of educational technology effects show inconsistent findings, with mobile learning meta-analysis finding near-zero maths effects and reading interventions comparatively more effective",
    "type": "claim"
   },
   {
@@ -32327,6 +32840,15 @@
    "path": "claims/proximal-goals-feedback-peer-models-build-learning-efficacy.md",
    "status": "draft",
    "title": "Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies",
+   "type": "claim"
+  },
+  {
+   "description": "Prior meta-analyses combining taught-vocabulary (proximal) with generalized outcomes report much larger vocabulary effects than generalized-only syntheses",
+   "evidence_strength": "weak",
+   "id": "proximal-outcomes-inflate-vocabulary-effect-sizes-in-prior-reviews",
+   "path": "claims/proximal-outcomes-inflate-vocabulary-effect-sizes-in-prior-reviews.md",
+   "status": "draft",
+   "title": "Prior meta-analyses combining taught-vocabulary (proximal) with generalized outcomes report much larger vocabulary effects than generalized-only syntheses",
    "type": "claim"
   },
   {
@@ -35136,6 +35658,24 @@
    "type": "claim"
   },
   {
+   "description": "Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi\u2010experimental study with serious risk of bias",
+   "evidence_strength": "weak",
+   "id": "rhs-improves-absenteeism-abstinence-drug-use-single-qed",
+   "path": "claims/rhs-improves-absenteeism-abstinence-drug-use-single-qed.md",
+   "status": "draft",
+   "title": "Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi\u2010experimental study with serious risk of bias",
+   "type": "claim"
+  },
+  {
+   "description": "Recovery high schools were no better or worse than comparison high schools on grade point average, truancy, or alcohol use in the single included study",
+   "evidence_strength": "weak",
+   "id": "rhs-no-difference-gpa-truancy-alcohol",
+   "path": "claims/rhs-no-difference-gpa-truancy-alcohol.md",
+   "status": "draft",
+   "title": "Recovery high schools were no better or worse than comparison high schools on grade point average, truancy, or alcohol use in the single included study",
+   "type": "claim"
+  },
+  {
    "description": "Rhyming poetry instruction improves first-grade students' reading fluency scores, linked to phonemic awareness",
    "evidence_strength": "weak",
    "id": "rhyming-poetry-improves-reading-fluency",
@@ -35187,6 +35727,15 @@
    "path": "claims/risk-model-assessed-two-allegheny-agencies.md",
    "status": "draft",
    "title": "A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies",
+   "type": "claim"
+  },
+  {
+   "description": "Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies",
+   "evidence_strength": "weak",
+   "id": "risk-of-bias-varies-by-study-design",
+   "path": "claims/risk-of-bias-varies-by-study-design.md",
+   "status": "draft",
+   "title": "Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies",
    "type": "claim"
   },
   {
@@ -35687,6 +36236,69 @@
    "type": "claim"
   },
   {
+   "description": "School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis",
+   "evidence_strength": "moderate",
+   "id": "sble-associated-greater-school-level-crime-behavior-problems",
+   "path": "claims/sble-associated-greater-school-level-crime-behavior-problems.md",
+   "status": "draft",
+   "title": "School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis",
+   "type": "claim"
+  },
+  {
+   "description": "The SBLE evidence base contains no randomized experiments and carries high risk of bias",
+   "evidence_strength": "moderate",
+   "id": "sble-evidence-base-no-randomized-studies-high-risk-bias",
+   "path": "claims/sble-evidence-base-no-randomized-studies-high-risk-bias.md",
+   "status": "draft",
+   "title": "The SBLE evidence base contains no randomized experiments and carries high risk of bias",
+   "type": "claim"
+  },
+  {
+   "description": "Review findings are consistent across study design features; no moderator showed meaningful relationships",
+   "evidence_strength": "weak",
+   "id": "sble-findings-consistent-across-design-features",
+   "path": "claims/sble-findings-consistent-across-design-features.md",
+   "status": "draft",
+   "title": "Review findings are consistent across study design features; no moderator showed meaningful relationships",
+   "type": "claim"
+  },
+  {
+   "description": "SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence",
+   "evidence_strength": "moderate",
+   "id": "sble-increases-exclusionary-discipline",
+   "path": "claims/sble-increases-exclusionary-discipline.md",
+   "status": "draft",
+   "title": "SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence",
+   "type": "claim"
+  },
+  {
+   "description": "SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes",
+   "evidence_strength": "moderate",
+   "id": "sble-no-beneficial-learning-effects",
+   "path": "claims/sble-no-beneficial-learning-effects.md",
+   "status": "draft",
+   "title": "SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes",
+   "type": "claim"
+  },
+  {
+   "description": "Student-level analyses show no association between SBLE and crime or behavior outcomes",
+   "evidence_strength": "weak",
+   "id": "sble-student-level-crime-behavior-null",
+   "path": "claims/sble-student-level-crime-behavior-null.md",
+   "status": "draft",
+   "title": "Student-level analyses show no association between SBLE and crime or behavior outcomes",
+   "type": "claim"
+  },
+  {
+   "description": "Students in schools with SBLE tended to feel safer, but this finding rests on very little data",
+   "evidence_strength": "weak",
+   "id": "sble-students-feel-safer-limited-data",
+   "path": "claims/sble-students-feel-safer-limited-data.md",
+   "status": "draft",
+   "title": "Students in schools with SBLE tended to feel safer, but this finding rests on very little data",
+   "type": "claim"
+  },
+  {
    "description": "",
    "evidence_strength": "weak",
    "id": "scaffolded-close-reading-improves-comprehension-for-struggling-readers",
@@ -35777,6 +36389,15 @@
    "path": "claims/school-accountability-multiple-constituencies.md",
    "status": "draft",
    "title": "Schooling's mix of public and private purposes requires accountability to multiple constituencies",
+   "type": "claim"
+  },
+  {
+   "description": "School-based interventions produce a small but statistically significant reduction in school exclusion",
+   "evidence_strength": "moderate",
+   "id": "school-based-interventions-small-significant-reduction-exclusion",
+   "path": "claims/school-based-interventions-small-significant-reduction-exclusion.md",
+   "status": "draft",
+   "title": "School-based interventions produce a small but statistically significant reduction in school exclusion",
    "type": "claim"
   },
   {
@@ -36092,6 +36713,15 @@
    "path": "claims/second-order-model-equivalent-to-testlet-model.md",
    "status": "draft",
    "title": "The second-order multidimensional IRT model for testlets is formally equivalent to the testlet model, and both are restricted bifactor models",
+   "type": "claim"
+  },
+  {
+   "description": "Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant",
+   "evidence_strength": "weak",
+   "id": "secondary-behavioural-outcomes-negligible-nonsignificant",
+   "path": "claims/secondary-behavioural-outcomes-negligible-nonsignificant.md",
+   "status": "draft",
+   "title": "Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant",
    "type": "claim"
   },
   {
@@ -36884,6 +37514,15 @@
    "type": "claim"
   },
   {
+   "description": "Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes",
+   "evidence_strength": "weak",
+   "id": "seven-studies-only-special-education-class-size-review",
+   "path": "claims/seven-studies-only-special-education-class-size-review.md",
+   "status": "draft",
+   "title": "Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes",
+   "type": "claim"
+  },
+  {
    "description": "By 1973, 70% of the US population lived in the nation's 247 Standard Metropolitan Statistical Areas",
    "evidence_strength": "weak",
    "id": "seventy-percent-population-in-metropolitan-areas",
@@ -37540,6 +38179,15 @@
    "type": "claim"
   },
   {
+   "description": "The six key principles of a trauma-informed approach span safety, trustworthiness, peer support, collaboration, empowerment, and cultural issues",
+   "evidence_strength": "weak",
+   "id": "six-key-principles-trauma-informed-approach",
+   "path": "claims/six-key-principles-trauma-informed-approach.md",
+   "status": "draft",
+   "title": "The six key principles of a trauma-informed approach span safety, trustworthiness, peer support, collaboration, empowerment, and cultural issues",
+   "type": "claim"
+  },
+  {
    "description": "Six of thirteen coded moderators significantly influence the effect of CALL feedback: educational level, intervention provider, mother tongue, research context, subject domain, and target language",
    "evidence_strength": "moderate",
    "id": "six-significant-moderators-call-feedback",
@@ -37729,6 +38377,60 @@
    "type": "claim"
   },
   {
+   "description": "Single-case effects of self-management interventions are moderated by student race and special education status, with more pronounced effects for African American students and students receiving special education serv...",
+   "evidence_strength": "moderate",
+   "id": "sm-effects-moderated-race-special-education",
+   "path": "claims/sm-effects-moderated-race-special-education.md",
+   "status": "draft",
+   "title": "Single-case effects of self-management interventions are moderated by student race and special education status, with more pronounced effects for African American students and students receiving special education services",
+   "type": "claim"
+  },
+  {
+   "description": "Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)",
+   "evidence_strength": "moderate",
+   "id": "sm-effects-not-moderated-intervention-characteristics",
+   "path": "claims/sm-effects-not-moderated-intervention-characteristics.md",
+   "status": "draft",
+   "title": "Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)",
+   "type": "claim"
+  },
+  {
+   "description": "Group-design studies show a significant main effect of self-management interventions on classroom behaviors (g = 0.63), but rest on only four studies",
+   "evidence_strength": "weak",
+   "id": "sm-group-design-main-effect-g063",
+   "path": "claims/sm-group-design-main-effect-g063.md",
+   "status": "draft",
+   "title": "Group-design studies show a significant main effect of self-management interventions on classroom behaviors (g = 0.63), but rest on only four studies",
+   "type": "claim"
+  },
+  {
+   "description": "Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies",
+   "evidence_strength": "moderate",
+   "id": "sm-interventions-improve-academic-outcomes-scd",
+   "path": "claims/sm-interventions-improve-academic-outcomes-scd.md",
+   "status": "draft",
+   "title": "Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies",
+   "type": "claim"
+  },
+  {
+   "description": "School-based self-management interventions significantly and positively impact classroom behaviors of school-age students with challenging behaviors (single-case design synthesis)",
+   "evidence_strength": "moderate",
+   "id": "sm-interventions-improve-classroom-behaviors-scd-meta",
+   "path": "claims/sm-interventions-improve-classroom-behaviors-scd-meta.md",
+   "status": "draft",
+   "title": "School-based self-management interventions significantly and positively impact classroom behaviors of school-age students with challenging behaviors (single-case design synthesis)",
+   "type": "claim"
+  },
+  {
+   "description": "Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions",
+   "evidence_strength": "moderate",
+   "id": "small-group-instruction-outperforms-cai-incentives",
+   "path": "claims/small-group-instruction-outperforms-cai-incentives.md",
+   "status": "draft",
+   "title": "Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions",
+   "type": "claim"
+  },
+  {
    "description": "",
    "evidence_strength": "pending",
    "id": "small-group-learning-improves-stem-achievement",
@@ -37762,6 +38464,15 @@
    "path": "claims/small-rural-staffs-cross-subject-plcs-isolation.md",
    "status": "draft",
    "title": "Small rural teaching staffs forced PLCs across grades and subjects, and teachers in four schools felt isolated from same-subject colleagues",
+   "type": "claim"
+  },
+  {
+   "description": "Included qualitative studies find smaller special education class sizes are the preferred option because they allow more individualised instruction time and increased teacher attention",
+   "evidence_strength": "weak",
+   "id": "small-special-education-classes-preferred-individualised-instruction",
+   "path": "claims/small-special-education-classes-preferred-individualised-instruction.md",
+   "status": "draft",
+   "title": "Included qualitative studies find smaller special education class sizes are the preferred option because they allow more individualised instruction time and increased teacher attention",
    "type": "claim"
   },
   {
@@ -39173,6 +39884,15 @@
    "type": "claim"
   },
   {
+   "description": "All four meta-analysable STAR studies report positive, statistically significant effects of small classes, but average effects are small",
+   "evidence_strength": "moderate",
+   "id": "star-studies-positive-small-effects-reading-math",
+   "path": "claims/star-studies-positive-small-effects-reading-math.md",
+   "status": "draft",
+   "title": "All four meta-analysable STAR studies report positive, statistically significant effects of small classes, but average effects are small",
+   "type": "claim"
+  },
+  {
    "description": "Between the 1997 and 1999 STaR assessments, the share of schools effectively using technology rose from 15 to 24 percent, and almost 80 percent of schools had Internet connections",
    "evidence_strength": "weak",
    "id": "star-year2-technology-use-rise",
@@ -40460,6 +41180,15 @@
    "type": "claim"
   },
   {
+   "description": "Substantial unexplained heterogeneity characterises short-term effects of targeted K-6 interventions",
+   "evidence_strength": "strong",
+   "id": "substantial-heterogeneity-short-term-effects",
+   "path": "claims/substantial-heterogeneity-short-term-effects.md",
+   "status": "draft",
+   "title": "Substantial unexplained heterogeneity characterises short-term effects of targeted K-6 interventions",
+   "type": "claim"
+  },
+  {
    "description": "Language subsystems may show supportive, competitive, or precursor relationships depending on available cognitive resources",
    "evidence_strength": "weak",
    "id": "subsystems-show-supportive-competitive-precursor-relationships",
@@ -41002,6 +41731,33 @@
    "path": "claims/target-teach-gains-across-all-subjects.md",
    "status": "draft",
    "title": "Target Teach schools improved in all tested subjects, not only the aligned reading tests, suggesting factors beyond test alignment contributed",
+   "type": "claim"
+  },
+  {
+   "description": "Follow-up effects of targeted K-6 interventions remain positive up to 2 years after intervention ends, with evidence of fadeout",
+   "evidence_strength": "moderate",
+   "id": "targeted-k6-interventions-followup-fadeout",
+   "path": "claims/targeted-k6-interventions-followup-fadeout.md",
+   "status": "draft",
+   "title": "Follow-up effects of targeted K-6 interventions remain positive up to 2 years after intervention ends, with evidence of fadeout",
+   "type": "claim"
+  },
+  {
+   "description": "Targeted school-based interventions have positive short-term effects on standardised reading and mathematics tests for K-6 students with or at risk of academic difficulties",
+   "evidence_strength": "strong",
+   "id": "targeted-k6-interventions-positive-short-term-effects",
+   "path": "claims/targeted-k6-interventions-positive-short-term-effects.md",
+   "status": "draft",
+   "title": "Targeted school-based interventions have positive short-term effects on standardised reading and mathematics tests for K-6 students with or at risk of academic difficulties",
+   "type": "claim"
+  },
+  {
+   "description": "Targeted school-based interventions for Grades 7\u201312 students with or at risk of academic difficulties have positive, statistically significant short-run effects on standardised reading and maths tests (ES = 0.22)",
+   "evidence_strength": "moderate",
+   "id": "targeted-secondary-interventions-positive-short-run-effects",
+   "path": "claims/targeted-secondary-interventions-positive-short-run-effects.md",
+   "status": "draft",
+   "title": "Targeted school-based interventions for Grades 7\u201312 students with or at risk of academic difficulties have positive, statistically significant short-run effects on standardised reading and maths tests (ES = 0.22)",
    "type": "claim"
   },
   {
@@ -42531,6 +43287,33 @@
    "type": "claim"
   },
   {
+   "description": "Teaching by first- or second-year TFA corps members shows no significant effect on elementary-grade students' reading compared with non-TFA novice teachers",
+   "evidence_strength": "weak",
+   "id": "tfa-corps-no-significant-reading-effect-elementary",
+   "path": "claims/tfa-corps-no-significant-reading-effect-elementary.md",
+   "status": "draft",
+   "title": "Teaching by first- or second-year TFA corps members shows no significant effect on elementary-grade students' reading compared with non-TFA novice teachers",
+   "type": "claim"
+  },
+  {
+   "description": "The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies",
+   "evidence_strength": "weak",
+   "id": "tfa-evidence-base-reduced-to-four-studies",
+   "path": "claims/tfa-evidence-base-reduced-to-four-studies.md",
+   "status": "draft",
+   "title": "The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies",
+   "type": "claim"
+  },
+  {
+   "description": "Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading",
+   "evidence_strength": "weak",
+   "id": "tfa-experimental-studies-positive-math-no-reading-effect",
+   "path": "claims/tfa-experimental-studies-positive-math-no-reading-effect.md",
+   "status": "draft",
+   "title": "Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading",
+   "type": "claim"
+  },
+  {
    "description": "TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools",
    "evidence_strength": "moderate",
    "id": "tfa-first-two-years-beat-experienced-non-tfa",
@@ -42582,6 +43365,15 @@
    "path": "claims/tfa-potentially-positive-science-effects.md",
    "status": "draft",
    "title": "TFA teachers show potentially positive effects on science achievement, based on one study",
+   "type": "claim"
+  },
+  {
+   "description": "TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math",
+   "evidence_strength": "weak",
+   "id": "tfa-small-positive-early-elementary-reading-not-math",
+   "path": "claims/tfa-small-positive-early-elementary-reading-not-math.md",
+   "status": "draft",
+   "title": "TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math",
    "type": "claim"
   },
   {
@@ -43050,6 +43842,15 @@
    "path": "claims/time-window-features-null-for-lr-boost-nonlinear.md",
    "status": "draft",
    "title": "Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets",
+   "type": "claim"
+  },
+  {
+   "description": "Whether timing, intensity, and duration of class size reduction moderate its effect remains an open question in the literature the review synthesises",
+   "evidence_strength": "weak",
+   "id": "timing-intensity-duration-moderators-open-question",
+   "path": "claims/timing-intensity-duration-moderators-open-question.md",
+   "status": "draft",
+   "title": "Whether timing, intensity, and duration of class size reduction moderate its effect remains an open question in the literature the review synthesises",
    "type": "claim"
   },
   {
@@ -43644,6 +44445,15 @@
    "path": "claims/trat-weak-correlation-lecture-assessments.md",
    "status": "draft",
    "title": "TRAT scores correlate only very low-to-low with lecture assessment scores, with significance limited to a few topics",
+   "type": "claim"
+  },
+  {
+   "description": "Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes",
+   "evidence_strength": "weak",
+   "id": "trauma-exposure-adverse-school-outcomes",
+   "path": "claims/trauma-exposure-adverse-school-outcomes.md",
+   "status": "draft",
+   "title": "Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes",
    "type": "claim"
   },
   {
@@ -44868,6 +45678,15 @@
    "path": "claims/vocabulary-means-decrease-with-frequency-level.md",
    "status": "draft",
    "title": "Vocabulary test means decrease as word-frequency level rises, but learners scored better on academic vocabulary than the 3000 level",
+   "type": "claim"
+  },
+  {
+   "description": "Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap",
+   "evidence_strength": "moderate",
+   "id": "vocabulary-programs-insufficient-to-close-vocabulary-gap",
+   "path": "claims/vocabulary-programs-insufficient-to-close-vocabulary-gap.md",
+   "status": "draft",
+   "title": "Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap",
    "type": "claim"
   },
   {
@@ -49168,6 +49987,14 @@
    "type": "element"
   },
   {
+   "description": "CRCs \\\"provide recovery oriented support services (e.g., self\u2010help groups, counseling sessions, sober dorms) for students, but are embedded within larger college or university settings.\\\" They operate on at least 75 col...",
+   "id": "collegiate-recovery-communities-element",
+   "path": "elements/collegiate-recovery-communities-element.md",
+   "status": "draft",
+   "title": "Collegiate recovery communities (CRCs): campus\u2010embedded recovery support services within larger universities",
+   "type": "element"
+  },
+  {
    "description": "Communication channels are the element in which learners use designated tools or spaces to coordinate, discuss, ask questions, and share updates during a learning activity.",
    "id": "communication-channels",
    "path": "elements/communication-channels.md",
@@ -50072,6 +50899,14 @@
    "path": "elements/drop-in-tutoring-center-model-tutortrac.md",
    "status": "draft",
    "title": "Drop-in tutoring center model with circulating peer tutors and TutorTrac usage tracking",
+   "type": "element"
+  },
+  {
+   "description": "The article's evidence base is a coded corpus of \\\"130 independent samples of students\\\" drawn from a comprehensive literature search of evaluations of school-based, school-affiliated, and community-based dropout preven...",
+   "id": "dropout-meta-analysis-130-samples-corpus",
+   "path": "elements/dropout-meta-analysis-130-samples-corpus.md",
+   "status": "draft",
+   "title": "Meta-analytic corpus of 130 dropout program evaluation samples",
    "type": "element"
   },
   {
@@ -51195,6 +52030,14 @@
    "type": "element"
   },
   {
+   "description": "The review assembles a corpus of 45 studies involving 8426 undergraduate students in medicine, pharmacy, nursing and other health professional courses, comparing flipped classes with traditional classes.",
+   "id": "flipped-classroom-hpe-review-corpus-45-studies",
+   "path": "elements/flipped-classroom-hpe-review-corpus-45-studies.md",
+   "status": "draft",
+   "title": "Evidence corpus of 45 flipped-classroom studies in undergraduate health professional education (8426 students)",
+   "type": "element"
+  },
+  {
    "description": "Fluency Formula\u2122 is a supplemental curriculum \\\"designed to promote reading fluency for first- through sixth-grade students,\\\" emphasizing \\\"automatic recognition of words, decoding accuracy, and oral expressiveness.\\\" It...",
    "id": "fluency-formula-supplemental-curriculum",
    "path": "elements/fluency-formula-supplemental-curriculum.md",
@@ -51707,11 +52550,27 @@
    "type": "element"
   },
   {
+   "description": "A multiorganization collaboration implemented a trauma-informed approach in Head Start programs in the Appalachian region of the US through \\\"a comprehensive, three\u2010tier model\\\" using trained classroom consultants.",
+   "id": "head-start-three-tier-trauma-informed-model",
+   "path": "elements/head-start-three-tier-trauma-informed-model.md",
+   "status": "draft",
+   "title": "Three-tier trauma-informed consultation model implemented in Appalachian Head Start programs",
+   "type": "element"
+  },
+  {
    "description": "Headsprout Early Reading is an Internet-based supplemental early literacy curriculum of eighty 20-minute animated episodes, the first 40 appropriate for prekindergarten students, plus 30 stories, 100 printable flashca...",
    "id": "headsprout-early-reading-curriculum",
    "path": "elements/headsprout-early-reading-curriculum.md",
    "status": "draft",
    "title": "Headsprout Early Reading: adaptive Internet-based supplemental early literacy curriculum",
+   "type": "element"
+  },
+  {
+   "description": "The Healthy Environments and Response to Trauma in Schools (HEARTS) program is \\\"a whole\u2010school program developed by the University of California, San Francisco to promote school success for students who have been impa...",
+   "id": "hearts-whole-school-program",
+   "path": "elements/hearts-whole-school-program.md",
+   "status": "draft",
+   "title": "HEARTS whole-school trauma-informed program in San Francisco elementary schools",
    "type": "element"
   },
   {
@@ -55419,6 +56278,14 @@
    "type": "element"
   },
   {
+   "description": "RHSs are secondary schools that \\\"provide standard high school education and award secondary school diplomas, but also include therapeutic programming aimed at promoting recovery (e.g., group check\u2010ins, community servi...",
+   "id": "recovery-high-schools-element",
+   "path": "elements/recovery-high-schools-element.md",
+   "status": "draft",
+   "title": "Recovery high schools (RHSs): secondary schools combining standard education with therapeutic recovery programming",
+   "type": "element"
+  },
+  {
    "description": "Red Light, Purple Light is a preschool program of music and movement games aimed at fostering self-regulation in young children, targeting remembering instructions, switching attention between rules, and inhibiting im...",
    "id": "red-light-purple-light-program-element",
    "path": "elements/red-light-purple-light-program-element.md",
@@ -55744,6 +56611,14 @@
    "path": "elements/sas-nlmixed-irt-testlet-implementation.md",
    "status": "draft",
    "title": "SAS NLMIXED implementation of the general polytomous testlet model, 2PL/GPCM, and MIRT-SS models",
+   "type": "element"
+  },
+  {
+   "description": "The review's synthesized corpus comprises \\\"a final sample of 1002 effect sizes from 32 studies,\\\" identified through searches of 64 databases (through 2009), then 18 and 35 databases in 2015 and 2020 updates.",
+   "id": "sble-review-evidence-base-1002-effect-sizes",
+   "path": "elements/sble-review-evidence-base-1002-effect-sizes.md",
+   "status": "draft",
+   "title": "Evidence base of 1002 effect sizes from 32 quasi-experimental studies of school-based law enforcement",
    "type": "element"
   },
   {
@@ -56768,6 +57643,14 @@
    "path": "elements/teach-for-america-program.md",
    "status": "draft",
    "title": "Teach For America alternative certification program",
+   "type": "element"
+  },
+  {
+   "description": "Teach For America is a nation-wide alternate route teacher preparation program designed to address the shortage of effective teachers in high-poverty rural and urban K\u201312 public schools in the USA.",
+   "id": "teach-for-america-program-element",
+   "path": "elements/teach-for-america-program-element.md",
+   "status": "draft",
+   "title": "Teach For America alternate-route teacher preparation program",
    "type": "element"
   },
   {
@@ -64171,6 +65054,14 @@
    "type": "strategy"
   },
   {
+   "description": "The review positions its findings as a baseline for quality-improvement work in evidence synthesis: \\\"This report may be used as a baseline for assessing effects of implementing strategies to address limitations identi...",
+   "id": "baseline-strategy-address-review-limitations",
+   "path": "strategies/baseline-strategy-address-review-limitations.md",
+   "status": "draft",
+   "title": "Use this methodological baseline to target improvements in interpreting risk of bias, reporting study funding, and citing protocols in systematic reviews",
+   "type": "strategy"
+  },
+  {
    "description": "The authors recommend using dense longitudinal MRI datasets to estimate the baseline variability of brain parameters so that plastic changes observed in intervention studies can be compared against naturally occurring...",
    "id": "baseline-variability-estimation-for-plasticity-studies",
    "path": "strategies/baseline-variability-estimation-for-plasticity-studies.md",
@@ -65128,6 +66019,14 @@
    "path": "strategies/categorization.md",
    "status": "review",
    "title": "Categorization",
+   "type": "strategy"
+  },
+  {
+   "description": "Based on the empty evidence base, the review recommends that school leaders, policymakers, and school mental health professionals \\\"proceed with caution in their embrace of a trauma\u2010informed approach as an overarching...",
+   "id": "caution-and-evaluation-trauma-informed-schools",
+   "path": "strategies/caution-and-evaluation-trauma-informed-schools.md",
+   "status": "draft",
+   "title": "Proceed with caution in adopting trauma-informed approaches and begin evaluating them, including descriptive and qualitative research on implementation",
    "type": "strategy"
   },
   {
@@ -72083,6 +72982,14 @@
    "type": "strategy"
   },
   {
+   "description": "Based on the low certainty of evidence for both academic performance and satisfaction, the review recommends that \\\"Future well\u2010designed sufficiently powered RCTs with low risk of bias that report according to the CONS...",
+   "id": "flipped-classroom-needs-well-designed-rcts-consort",
+   "path": "strategies/flipped-classroom-needs-well-designed-rcts-consort.md",
+   "status": "draft",
+   "title": "Future flipped-classroom research should be well-designed, sufficiently powered RCTs with low risk of bias reported per CONSORT",
+   "type": "strategy"
+  },
+  {
    "description": "A pedagogical model that moves first exposure to content outside class (typically via video) and reserves class time for active, instructor-guided application.",
    "id": "flipped-learning",
    "path": "strategies/flipped-learning.md",
@@ -72696,6 +73603,14 @@
    "path": "strategies/future-extensions-interferometer-and-bayesian-unit.md",
    "status": "draft",
    "title": "Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit",
+   "type": "strategy"
+  },
+  {
+   "description": "The review's forward-looking recommendation is to fill the evidence gap from diverse methodological perspectives: more quantitative studies capable of supporting meta-analysis, and more qualitative research across loc...",
+   "id": "future-research-voices-of-children-special-education-class-size",
+   "path": "strategies/future-research-voices-of-children-special-education-class-size.md",
+   "status": "draft",
+   "title": "Future research on special education class size should include rigorous quantitative designs and foreground the voices of children and young people with special needs",
    "type": "strategy"
   },
   {
@@ -74243,6 +75158,14 @@
    "type": "strategy"
   },
   {
+   "description": "Based on the qualitative synthesis, the review concludes that \\\"targeted, context\u2010sensitive interventions supported by strong implementation strategies and whole\u2010school engagement are most likely to achieve sustained r...",
+   "id": "implementation-support-whole-school-engagement",
+   "path": "strategies/implementation-support-whole-school-engagement.md",
+   "status": "draft",
+   "title": "Support exclusion-reduction interventions with strong implementation strategies and whole-school engagement",
+   "type": "strategy"
+  },
+  {
    "description": "Embedding target vocabulary in meaningful contexts\u2014reading, listening, discussion\u2014so learners acquire word meanings incidentally through repeated exposure rather than direct definition teaching.",
    "id": "implicit_instruction-vocabulary",
    "path": "strategies/implicit_instruction-vocabulary.md",
@@ -74440,6 +75363,14 @@
    "path": "strategies/incorporating_self-testing.md",
    "status": "review",
    "title": "Incorporating Self-Testing",
+   "type": "strategy"
+  },
+  {
+   "description": "The review's authors recommend strengthening detection and treatment of mental disorders among deployed personnel after return, because screening-positive odds for PTSD and depression remain elevated in the longer term.",
+   "id": "increase-detection-treatment-post-deployment-mental-disorders",
+   "path": "strategies/increase-detection-treatment-post-deployment-mental-disorders.md",
+   "status": "draft",
+   "title": "Increase efforts to detect and treat post-deployment mental disorders, since effects may be long-lasting",
    "type": "strategy"
   },
   {
@@ -76464,6 +77395,14 @@
    "path": "strategies/long-term-memory-strategies-older-learners.md",
    "status": "draft",
    "title": "Favor learning strategies that rely on long-term memory and integrate new material with existing cognitive structures",
+   "type": "strategy"
+  },
+  {
+   "description": "The review's forward-looking recommendation is that future programs must extend beyond short vocabulary-training cycles.",
+   "id": "longer-language-programs-with-follow-up-assessments",
+   "path": "strategies/longer-language-programs-with-follow-up-assessments.md",
+   "status": "draft",
+   "title": "Develop language intervention programs with longer time frames, transferable strategies, and follow-up assessments",
    "type": "strategy"
   },
   {
@@ -83355,6 +84294,14 @@
    "type": "strategy"
   },
   {
+   "description": "The review's authors recommend several improvements to the evidence base: more research on long-run effects, since only seven studies tested effects beyond three months; more research from non-English-speaking countri...",
+   "id": "research-agenda-secondary-targeted-interventions",
+   "path": "strategies/research-agenda-secondary-targeted-interventions.md",
+   "status": "draft",
+   "title": "Research agenda: study long-run effects, non-English-speaking countries, and maths-targeted interventions, and improve control-group reporting and sample sizes",
+   "type": "strategy"
+  },
+  {
    "description": "The review recommends that future MALL research explore teachers' and learners' perspectives, because MALL's application \\\"highly relies on the general consensus from language teachers and learners\\\" and there is a \\\"lac...",
    "id": "research-emic-views-of-mall-users",
    "path": "strategies/research-emic-views-of-mall-users.md",
@@ -83784,6 +84731,14 @@
    "path": "strategies/rich_resources-diversity.md",
    "status": "review",
    "title": "Rich Resources: Diversity",
+   "type": "strategy"
+  },
+  {
+   "description": "The review's authors recommend caution in adopting recovery schools broadly and call for further research.",
+   "id": "rigorous-evaluation-before-recovery-school-adoption",
+   "path": "strategies/rigorous-evaluation-before-recovery-school-adoption.md",
+   "status": "draft",
+   "title": "Require rigorous evaluation studies of recovery schools before widespread implementation",
    "type": "strategy"
   },
   {
@@ -88259,6 +89214,14 @@
    "type": "strategy"
   },
   {
+   "description": "The review recommends how future research can strengthen the TFA evidence base: studies should \\\"meet objective extant evidence standards\\\" and \\\"compare the same types of TFA and non\u2010TFA teachers so that effect sizes ca...",
+   "id": "tfa-future-research-comparable-teacher-comparisons",
+   "path": "strategies/tfa-future-research-comparable-teacher-comparisons.md",
+   "status": "draft",
+   "title": "Design future TFA studies to meet evidence standards and compare like-for-like teachers so effect sizes can enter meta-analysis",
+   "type": "strategy"
+  },
+  {
    "description": "Learners are given the title of a reading and, in small groups, pool their prior knowledge and predictions about the topic before reading.",
    "id": "the-title-pre-reading",
    "path": "strategies/the-title-pre-reading.md",
@@ -88432,6 +89395,14 @@
    "path": "strategies/thinking_tools_with_graphic_organizers.md",
    "status": "review",
    "title": "Thinking Tools with Graphic Organizers",
+   "type": "strategy"
+  },
+  {
+   "description": "The review's implications for practice recommend that teachers \\\"think carefully about the ways in which they are using mobile devices, how they are using them alongside other teaching activities and approaches, and ho...",
+   "id": "thoughtful-mobile-device-integration-recommendations",
+   "path": "strategies/thoughtful-mobile-device-integration-recommendations.md",
+   "status": "draft",
+   "title": "Teachers and intervention designers should use mobile devices thoughtfully alongside other teaching approaches, ground designs in existing evidence, and evaluate rigorously",
    "type": "strategy"
   },
   {
@@ -90995,6 +91966,14 @@
    "type": "theory"
   },
   {
+   "description": "Anderson (2000) developed a causal model explaining why class size reduction should enhance achievement, depicted in the review's Figure 1.",
+   "id": "anderson-causal-model-class-size-achievement",
+   "path": "theories/anderson-causal-model-class-size-achievement.md",
+   "status": "draft",
+   "title": "Anderson's causal model of how reduced class size affects student achievement",
+   "type": "theory"
+  },
+  {
    "description": "The article reviews Anderson's (2008) interactive model of online education, in which interaction is defined as a reciprocal event involving at least two objects and two actions, and six forms of interaction engage te...",
    "id": "anderson-six-modes-interaction-online-education",
    "path": "theories/anderson-six-modes-interaction-online-education.md",
@@ -91841,6 +92820,14 @@
    "path": "theories/clasp-models-based-organization.md",
    "status": "draft",
    "title": "Models-based curriculum organization: introductory physics structured around a set of 27 models rather than a serial sequence of topics",
+   "type": "theory"
+  },
+  {
+   "description": "The review organises its inquiry around class size as a distinct construct: \\\"Class size refers to the number of students present in a classroom at a given point in time\\\", distinguished from student\u2013teacher ratio and c...",
+   "id": "class-size-mechanism-special-education-framework",
+   "path": "theories/class-size-mechanism-special-education-framework.md",
+   "status": "draft",
+   "title": "Class size as a distinct intervention mechanism in special education, distinguished from student\u2013teacher ratio and caseload",
    "type": "theory"
   },
   {
@@ -92984,6 +93971,14 @@
    "type": "theory"
   },
   {
+   "description": "The review organizes the dropout intervention literature into a set of program types, presented in Table 1 with descriptions and study counts.",
+   "id": "dropout-program-type-taxonomy",
+   "path": "theories/dropout-program-type-taxonomy.md",
+   "status": "draft",
+   "title": "Taxonomy of dropout prevention and intervention program types",
+   "type": "theory"
+  },
+  {
    "description": "The article postulates that constructing the first multiplicative scheme, multiplicative Double Counting (mDC), requires a dual anticipation: anticipating where to shift each count of a composite unit (unit rate, firs...",
    "id": "dual-anticipation-start-stop-mdc-intermediate-stage",
    "path": "theories/dual-anticipation-start-stop-mdc-intermediate-stage.md",
@@ -93473,6 +94468,14 @@
    "type": "theory"
   },
   {
+   "description": "The review organises how exclusion-reduction interventions might work through two levels of change.",
+   "id": "exclusion-intervention-theories-of-change",
+   "path": "theories/exclusion-intervention-theories-of-change.md",
+   "status": "draft",
+   "title": "Individual- and school-level theories of change for exclusion-reduction interventions",
+   "type": "theory"
+  },
+  {
    "description": "Executive functions \u2014 inhibitory control, cognitive flexibility, and working memory \u2014 are self-regulatory processes that emerge gradually from early childhood through adolescence, shaped by both brain maturation and the quality of caregiving and instructional scaffolding a learner receives.",
    "id": "executive-function-development",
    "path": "theories/executive-function-development.md",
@@ -93902,6 +94905,14 @@
    "path": "theories/flammer-transfer-correlation-model.md",
    "status": "draft",
    "title": "A conceptual model deriving transfer from all-or-none learned common and falsely-common task elements and the product-moment correlation",
+   "type": "theory"
+  },
+  {
+   "description": "The review defines the flipped classroom as an educational technique with two parts: \\\"interactive group learning activities inside the classroom and direct personal computer\u2010based individual instruction outside the cl...",
+   "id": "flipped-classroom-definition-blended-learning",
+   "path": "theories/flipped-classroom-definition-blended-learning.md",
+   "status": "draft",
+   "title": "Flipped classroom as reversal of traditional class and self-study activities, fitting within blended learning",
    "type": "theory"
   },
   {
@@ -94775,6 +95786,14 @@
    "path": "theories/implicit-scaffolding-framework.md",
    "status": "draft",
    "title": "Implicit scaffolding framework: guidance built into the tool via affordances, constraints, cueing and feedback",
+   "type": "theory"
+  },
+  {
+   "description": "The review organises the field around opposing theoretical mechanisms, noting \\\"a rather surprising lack of pedagogical, psychological, or didactic theories regarding the specific ways in which inclusive education may...",
+   "id": "inclusion-mechanisms-stigmatisation-peer-effects-individualisation",
+   "path": "theories/inclusion-mechanisms-stigmatisation-peer-effects-individualisation.md",
+   "status": "draft",
+   "title": "Competing theoretical mechanisms account for inclusion effects: anti-stigmatisation and peer benefits versus risks of misaligned individualisation",
    "type": "theory"
   },
   {
@@ -96157,6 +97176,14 @@
    "type": "theory"
   },
   {
+   "description": "The review represents the emerging themes of mobile technology use in the primary classroom as a theory of change (logic model, Figure 1).",
+   "id": "mobile-device-theory-of-change-four-elements",
+   "path": "theories/mobile-device-theory-of-change-four-elements.md",
+   "status": "draft",
+   "title": "Theory of change for mobile technology use in the primary classroom: devices, activities and interventions, outcomes, and moderating factors",
+   "type": "theory"
+  },
+  {
    "description": "The article proposes that the four-class mobile user typology derived from latent class cluster analysis \u2014 eclectic, Internet, basic, and offline entertainment users \u2014 be introduced into technology adoption models suc...",
    "id": "mobile-user-typology-adoption-predictor-framework",
    "path": "theories/mobile-user-typology-adoption-predictor-framework.md",
@@ -97023,6 +98050,14 @@
    "type": "theory"
   },
   {
+   "description": "The review describes a theory of change in which recovery schools build on social connectedness within the educational environment.",
+   "id": "recovery-school-social-capital-theory-of-change",
+   "path": "theories/recovery-school-social-capital-theory-of-change.md",
+   "status": "draft",
+   "title": "Recovery school theory of change: sober peer connectedness and social capital support recovery and academic achievement",
+   "type": "theory"
+  },
+  {
    "description": "The Reflective Judgment Framework (RJF), developed by King and Kitchener, is \\\"a developmental model describing the changing patterns of reasoning over a person's life-span,\\\" assessed by analyzing interviews about ill-...",
    "id": "reflective-judgment-framework-three-levels",
    "path": "theories/reflective-judgment-framework-three-levels.md",
@@ -97279,11 +98314,27 @@
    "type": "theory"
   },
   {
+   "description": "The SAMR model (Puentedura, 2006) describes four levels of classroom technology integration: substitution, augmentation, modification and redefinition.",
+   "id": "samr-model-technology-integration",
+   "path": "theories/samr-model-technology-integration.md",
+   "status": "draft",
+   "title": "SAMR model of technology integration (Substitution, Augmentation, Modification, Redefinition)",
+   "type": "theory"
+  },
+  {
    "description": "The article reports that, grounded in a review of the international EE literature, Sauv\u00e9 (2005) established fifteen different \\\"currents,\\\" each a general way of envisioning and practicing EE, divided into long-traditio...",
    "id": "sauve-fifteen-currents-ee-taxonomy",
    "path": "theories/sauve-fifteen-currents-ee-taxonomy.md",
    "status": "draft",
    "title": "Sauv\u00e9's taxonomy of fifteen currents of environmental education",
+   "type": "theory"
+  },
+  {
+   "description": "The review articulates a general theory of change (Figure 1) for SBLE programs, spanning patrol strategies, school resource officer allocation, police-school liaisons, safe routes programs, and community/problem-orien...",
+   "id": "sble-theory-of-change-deterrence-and-criminalization",
+   "path": "theories/sble-theory-of-change-deterrence-and-criminalization.md",
+   "status": "draft",
+   "title": "Theory of change for school-based law enforcement: deterrence logic with expected safety benefits and possible criminalizing side effects",
    "type": "theory"
   },
   {
@@ -97625,6 +98676,14 @@
    "type": "theory"
   },
   {
+   "description": "The Simple View of Reading is a theoretical model of reading comprehension that the review adopts as a core framework.",
+   "id": "simple-view-of-reading-gough-tunmer",
+   "path": "theories/simple-view-of-reading-gough-tunmer.md",
+   "status": "draft",
+   "title": "Simple View of Reading: reading comprehension as the product of decoding and linguistic comprehension",
+   "type": "theory"
+  },
+  {
    "description": "The article introduces \\\"a novel way of using machine-learning models to generate simulated students\\\" for evaluating knowledge tracing in online mastery learning settings.",
    "id": "simulated-student-evaluation-approach",
    "path": "theories/simulated-student-evaluation-approach.md",
@@ -97800,6 +98859,22 @@
    "path": "theories/sla-three-theory-comparison-framework.md",
    "status": "draft",
    "title": "Comparative framework of three SLA theories (Krashen, Complexity, Socio-cognitive) by philosophy and characteristics",
+   "type": "theory"
+  },
+  {
+   "description": "The review defines SM as \\\"a set of strategies that students are trained in to assess, monitor, and/or evaluate their own behavioral performance\\\", drawing on behavioral psychology and cognitive-behavioral theories.",
+   "id": "sm-eleven-element-framework",
+   "path": "theories/sm-eleven-element-framework.md",
+   "status": "draft",
+   "title": "Self-management (SM) intervention framework: eleven self-directed elements spanning assessment, monitoring, and evaluation of behavioral performance",
+   "type": "theory"
+  },
+  {
+   "description": "The review proposes two behavioral principles underlying SM.",
+   "id": "sm-mechanisms-reactivity-perceived-autonomy",
+   "path": "theories/sm-mechanisms-reactivity-perceived-autonomy.md",
+   "status": "draft",
+   "title": "Mechanisms of change in self-management interventions: reactivity to self-monitoring and perceived autonomy",
    "type": "theory"
   },
   {
@@ -98421,6 +99496,14 @@
    "type": "theory"
   },
   {
+   "description": "The review distills TFA's Theory of Change from TFA's 2010\u201315 Business Plan.",
+   "id": "tfa-theory-of-change-five-component-model",
+   "path": "theories/tfa-theory-of-change-five-component-model.md",
+   "status": "draft",
+   "title": "TFA Theory of Change: a data-driven five-component program model from recruitment through alumni leadership",
+   "type": "theory"
+  },
+  {
    "description": "The article organizes creativity-related applications along two axes.",
    "id": "thematic-taxonomy-creativity-applications",
    "path": "theories/thematic-taxonomy-creativity-applications.md",
@@ -98573,6 +99656,14 @@
    "type": "theory"
   },
   {
+   "description": "The review organises the theoretical background of included interventions into three superordinate components: adaptation of behaviour (social learning theory), individual cognitive learning (cognitive developmental t...",
+   "id": "three-perspectives-targeted-interventions",
+   "path": "theories/three-perspectives-targeted-interventions.md",
+   "status": "draft",
+   "title": "Three theoretical perspectives characterising targeted academic interventions: social learning, cognitive developmental, and pedagogical theory",
+   "type": "theory"
+  },
+  {
    "description": "The report imposes order on wide-ranging views about ACE's role by working from three premises that form \\\"the lens or framework through whichwe have written this Report\\\": ACE is a provider; ACE providers are community...",
    "id": "three-premises-ace-vet-framework",
    "path": "theories/three-premises-ace-vet-framework.md",
@@ -98586,6 +99677,14 @@
    "path": "theories/three-semantic-mapping-strategy-variants.md",
    "status": "draft",
    "title": "Three variants of semantic mapping instruction: teacher-initiated, student-mediated, and teacher-student interactive",
+   "type": "theory"
+  },
+  {
+   "description": "The review organises the diverse included interventions around three superordinate components: \\\"Adaptation of behaviour (social learning theory)\\\", \\\"Individual cognitive learning (cognitive developmental theory)\\\", and...",
+   "id": "three-theoretical-perspectives-targeted-interventions",
+   "path": "theories/three-theoretical-perspectives-targeted-interventions.md",
+   "status": "draft",
+   "title": "Three theoretical perspectives characterising targeted academic interventions: social learning, cognitive developmental, and pedagogical theory",
    "type": "theory"
   },
   {
@@ -98661,6 +99760,14 @@
    "type": "theory"
   },
   {
+   "description": "The TPACK Framework (Mishra & Koehler, 2006) adds a technology filter to Shulman's pedagogical content knowledge theory.",
+   "id": "tpack-framework-teacher-technology-integration",
+   "path": "theories/tpack-framework-teacher-technology-integration.md",
+   "status": "draft",
+   "title": "TPACK framework (Technological, Pedagogical and Content Knowledge) for teacher technology integration",
+   "type": "theory"
+  },
+  {
    "description": "The article uses Ajzen's theory of planned behaviour as its theoretical framework, holding that a learner's decision to participate in learning activities \\\"is shaped by three main elements: their attitude towards lear...",
    "id": "tpb-framework-puppetry-ecology",
    "path": "theories/tpb-framework-puppetry-ecology.md",
@@ -98714,6 +99821,14 @@
    "path": "theories/transspection-beyond-empathy.md",
    "status": "draft",
    "title": "Transspection: imagining oneself in a role within a foreign culture, a step beyond empathy",
+   "type": "theory"
+  },
+  {
+   "description": "The review defines a trauma-informed approach, drawing on SAMHSA and NCTSN, as a program, organization, or system that \\\"realizes the impact of trauma, recognizes the symptoms of trauma, responds by integrating knowled...",
+   "id": "trauma-informed-approach-framework-samhsa",
+   "path": "theories/trauma-informed-approach-framework-samhsa.md",
+   "status": "draft",
+   "title": "SAMHSA-based framework of trauma-informed approaches: four assumptions, six key principles, and three core domains",
    "type": "theory"
   },
   {
@@ -98874,6 +99989,14 @@
    "path": "theories/unified-rc-lc-subskills-taxonomy.md",
    "status": "draft",
    "title": "Unified taxonomy of subskills shared between and exclusive to reading and listening comprehension",
+   "type": "theory"
+  },
+  {
+   "description": "The review's first theoretical perspective holds that linguistic comprehension develops with high interdependence across domains and modalities.",
+   "id": "unitary-core-language-construct",
+   "path": "theories/unitary-core-language-construct.md",
+   "status": "draft",
+   "title": "Unitary language construct: vocabulary, grammar, and listening comprehension reflect a common language factor",
    "type": "theory"
   },
   {
@@ -99449,6 +100572,7 @@
    "ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions": "ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions",
    "amova-null-hypothesis-cutoff-245-rounds-to-300": "amova-null-hypothesis-cutoff-245-rounds-to-300",
    "amova-sample-data-yields-proficient-300": "amova-sample-data-yields-proficient-300",
+   "amstar2-funding-and-rob-impact-least-addressed": "amstar2-funding-and-rob-impact-least-addressed",
    "amsti-math-problem-solving-effect-0-05": "amsti-math-problem-solving-effect-0-05",
    "amsti-math-problem-solving-student-level-effect": "amsti-math-problem-solving-student-level-effect",
    "amsti-promising-evidence-rating": "amsti-promising-evidence-rating",
@@ -99464,6 +100588,7 @@
    "animistic-explanations-persist-beyond-piagetian-stages": "animistic-explanations-persist-beyond-piagetian-stages",
    "ann-method-usable-technology-acceptance-studies": "ann-method-usable-technology-acceptance-studies",
    "ann-utaut-predictors-lms-acceptance-vocational": "ann-utaut-predictors-lms-acceptance-vocational",
+   "annevelink-personalised-instruction-path-test": "annevelink-personalised-instruction-path-test",
    "annotated-videodisc-beats-videotape-retention-recall": "annotated-videodisc-beats-videotape-retention-recall",
    "annotating-improves-learning": "annotating-improves-learning",
    "anonymity-mitigates-evaluation-apprehension": "anonymity-mitigates-evaluation-apprehension",
@@ -99711,6 +100836,8 @@
    "call-meta-analyses-k-effect-size-negative-correlation": "call-meta-analyses-k-effect-size-negative-correlation",
    "call-meta-analyses-mean-effect-d-064": "call-meta-analyses-mean-effect-d-064",
    "calp-can-precede-bics-in-certain-situations": "calp-can-precede-bics-in-certain-situations",
+   "campbell-reviews-prisma-completeness": "campbell-reviews-prisma-completeness",
+   "campbell-reviews-quality-distribution-amstar2": "campbell-reviews-quality-distribution-amstar2",
    "campus-polarization-predates-unionization": "campus-polarization-predates-unionization",
    "canfield-learning-style-predicts-academic-success": "canfield-learning-style-predicts-academic-success",
    "canonical-two-functions-locus-control": "canonical-two-functions-locus-control",
@@ -99881,8 +101008,11 @@
    "class-descriptive-scores-favour-control-post-test": "class-descriptive-scores-favour-control-post-test",
    "class-level-mindset-differences": "class-level-mindset-differences",
    "class-mood-moderates-willingness-to-speak": "class-mood-moderates-willingness-to-speak",
+   "class-size-reduction-negative-nonsignificant-math-effect": "class-size-reduction-negative-nonsignificant-math-effect",
+   "class-size-reduction-small-positive-reading-effect": "class-size-reduction-small-positive-reading-effect",
    "class-size-significant-wtc-difference-iranian-efl": "class-size-significant-wtc-difference-iranian-efl",
    "class-size-space-top-kcls-barrier": "class-size-space-top-kcls-barrier",
+   "class-size-studies-excluded-high-risk-confounding": "class-size-studies-excluded-high-risk-confounding",
    "classical-indeterminism-model-fails-anticorrelation": "classical-indeterminism-model-fails-anticorrelation",
    "classical-inference-prohibitive-sample-sizes-factorial": "classical-inference-prohibitive-sample-sizes-factorial",
    "classifiers-beat-zero-rule-baseline-engagement": "classifiers-beat-zero-rule-baseline-engagement",
@@ -99943,6 +101073,7 @@
    "coaching-responsibilities-mentoring-and-advocacy": "coaching-responsibilities-mentoring-and-advocacy",
    "coaching-shifts-self-reflection-to-insight": "coaching-shifts-self-reflection-to-insight",
    "cochran-smith-five-types-intellectual-work": "cochran-smith-five-types-intellectual-work",
+   "cochrane-campbell-coregistration-higher-quality": "cochrane-campbell-coregistration-higher-quality",
    "code-commit-features-no-correlation-interaction-time": "code-commit-features-no-correlation-interaction-time",
    "code-shifting-highest-mediating-teacher": "code-shifting-highest-mediating-teacher",
    "code-switching-asymmetry-bilingual-teacher-imbalance": "code-switching-asymmetry-bilingual-teacher-imbalance",
@@ -100079,6 +101210,8 @@
    "constructivist-valued-but-not-applicable-person-level": "constructivist-valued-but-not-applicable-person-level",
    "consumer-vs-ie-player-cost-capability-tradeoff": "consumer-vs-ie-player-cost-capability-tradeoff",
    "contact-does-not-yield-understanding": "contact-does-not-yield-understanding",
+   "content-domain-effects-similar-range": "content-domain-effects-similar-range",
+   "content-domain-little-effect-fractions-exception": "content-domain-little-effect-fractions-exception",
    "content-familiarity-predicts-reform-practice-experience-does-not": "content-familiarity-predicts-reform-practice-experience-does-not",
    "content-triggers-dominate-syntactic-triggers-absent-text-chat": "content-triggers-dominate-syntactic-triggers-absent-text-chat",
    "content-words-before-function-words-semantics-precedes-syntax": "content-words-before-function-words-semantics-precedes-syntax",
@@ -100132,6 +101265,7 @@
    "core5-higher-map-scores-special-education": "core5-higher-map-scores-special-education",
    "core5-matched-comparison-es-011": "core5-matched-comparison-es-011",
    "core5-teacher-satisfaction-survey-2006": "core5-teacher-satisfaction-survey-2006",
+   "coregistration-more-prisma-items": "coregistration-more-prisma-items",
    "cornelius-2013-significant-positive-effect-star-math": "cornelius-2013-significant-positive-effect-star-math",
    "correct-correct-clicker-pattern-higher-exam-performance": "correct-correct-clicker-pattern-higher-exam-performance",
    "corrective-feedback-effect-on-l2-development-is-significant-and-durable": "corrective-feedback-effect-on-l2-development-is-significant-and-durable",
@@ -100320,6 +101454,14 @@
    "demographics-unrelated-to-goal-activity": "demographics-unrelated-to-goal-activity",
    "department-differences-mindset-goal-orientation": "department-differences-mindset-goal-orientation",
    "departmental-autonomy-decline-not-function-of-bargaining": "departmental-autonomy-decline-not-function-of-bargaining",
+   "deployment-effect-no-difference-branch-duty-status": "deployment-effect-no-difference-branch-duty-status",
+   "deployment-high-combat-exposure-long-term-ptsd-depression": "deployment-high-combat-exposure-long-term-ptsd-depression",
+   "deployment-long-term-higher-odds-four-mental-health-domains": "deployment-long-term-higher-odds-four-mental-health-domains",
+   "deployment-long-term-prevalence-ranges-exceed-baseline": "deployment-long-term-prevalence-ranges-exceed-baseline",
+   "deployment-meta-analysis-robust-sensitivity": "deployment-meta-analysis-robust-sensitivity",
+   "deployment-short-term-evidence-inconclusive": "deployment-short-term-evidence-inconclusive",
+   "deployment-substance-use-null-variable-timepoints": "deployment-substance-use-null-variable-timepoints",
+   "deployment-variable-timepoints-ptsd-depression-significant": "deployment-variable-timepoints-ptsd-depression-significant",
    "depression-decisive-factor-refugee-language-learning": "depression-decisive-factor-refugee-language-learning",
    "depth-of-processing-improves-l2-retention": "depth-of-processing-improves-l2-retention",
    "descriptive-profile-esos-ecers-groups": "descriptive-profile-esos-ecers-groups",
@@ -100362,6 +101504,7 @@
    "dif-type-i-error-increases-with-dif-items-and-magnitude": "dif-type-i-error-increases-with-dif-items-and-magnitude",
    "different-media-yield-different-knowledge-encoding": "different-media-yield-different-knowledge-encoding",
    "differential-interpretation-latent-classes-finding": "differential-interpretation-latent-classes-finding",
+   "differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening": "differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening",
    "differentiating-above-grade-level-second-grade-achievement": "differentiating-above-grade-level-second-grade-achievement",
    "digital-images-inquiry-student-feedback-ratings": "digital-images-inquiry-student-feedback-ratings",
    "digital-intensity-attenuates-ef-reappraisal-link": "digital-intensity-attenuates-ef-reappraisal-link",
@@ -100435,6 +101578,9 @@
    "dreambox-usage-21-8-hours-below-recommended-dose": "dreambox-usage-21-8-hours-below-recommended-dose",
    "drill-and-grammar-focus-ineffective-for-l2-acquisition": "drill-and-grammar-focus-ineffective-for-l2-acquisition",
    "drop-in-tutorials-improve-p1y-marks": "drop-in-tutorials-improve-p1y-marks",
+   "dropout-program-effects-heterogeneous": "dropout-program-effects-heterogeneous",
+   "dropout-program-type-effectiveness": "dropout-program-type-effectiveness",
+   "dropout-programs-or-163-completion": "dropout-programs-or-163-completion",
    "dst-sct-incommensurable-language-adaptable-system": "dst-sct-incommensurable-language-adaptable-system",
    "dts-associated-with-emotional-scaffolding": "dts-associated-with-emotional-scaffolding",
    "dual-coding-elucidation-improves-lexical-error-awareness": "dual-coding-elucidation-improves-lexical-error-awareness",
@@ -100718,6 +101864,7 @@
    "example-problem-sequences-reduce-cognitive-load-and-improve-learning-outcomes": "worked-examples-example-problem-sequences",
    "excellence-for-all-questionable": "excellence-for-all-questionable",
    "excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck": "excess-new-item-rate-leaves-items-stuck-in-first-leitner-deck",
+   "exclusion-type-moderates-intervention-effect": "exclusion-type-moderates-intervention-effect",
    "exercise-increases-hippocampal-volume": "exercise-increases-hippocampal-volume",
    "existential-films-vehicle-for-bildung": "existential-films-vehicle-for-bildung",
    "existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial": "existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial",
@@ -100943,6 +102090,10 @@
    "flexibility-supports-agency-productive-sequence": "flexibility-supports-agency-productive-sequence",
    "flexible-cooperative-courses-demand-uncertainty-tolerance": "flexible-cooperative-courses-demand-uncertainty-tolerance",
    "flexible-problem-solving-supports-cooperative-learning": "flexible-problem-solving-supports-cooperative-learning",
+   "flipped-classroom-evidence-base-rct-shortage-high-bias": "flipped-classroom-evidence-base-rct-shortage-high-bias",
+   "flipped-classroom-improves-academic-performance-hpe": "flipped-classroom-improves-academic-performance-hpe",
+   "flipped-classroom-performance-sensitivity-imputed-data": "flipped-classroom-performance-sensitivity-imputed-data",
+   "flipped-classroom-student-satisfaction-positive": "flipped-classroom-student-satisfaction-positive",
    "flow-control-unused-no-learning-correlation": "flow-control-unused-no-learning-correlation",
    "fluency-formula-evidence-base-single-small-rct": "fluency-formula-evidence-base-single-small-rct",
    "fluency-formula-fluency-effects-differ-by-initial-ability": "fluency-formula-fluency-effects-differ-by-initial-ability",
@@ -100980,6 +102131,7 @@
    "four-curricula-two-year-achievement-study": "four-curricula-two-year-achievement-study",
    "four-curricula-two-year-elementary-math-study-design": "four-curricula-two-year-elementary-math-study-design",
    "four-difficulty-themes-textbook-listening": "four-difficulty-themes-textbook-listening",
+   "four-implementation-themes-exclusion-interventions": "four-implementation-themes-exclusion-interventions",
    "four-learning-environment-frames-interact": "four-learning-environment-frames-interact",
    "four-math-curricula-different-opportunities-to-learn": "four-math-curricula-different-opportunities-to-learn",
    "four-mobile-user-types-caribbean-higher-education": "four-mobile-user-types-caribbean-higher-education",
@@ -101114,6 +102266,7 @@
    "goldlist-method-improves-l2-vocabulary-retention": "goldlist-method-improves-l2-vocabulary-retention",
    "good-idea-reward-no-incentive-effect": "good-idea-reward-no-incentive-effect",
    "good-learners-violate-practice-principles": "good-learners-violate-practice-principles",
+   "gottlieb-1997-group-size-increase-lowered-reading-scores": "gottlieb-1997-group-size-increase-lowered-reading-scores",
    "governance-centralization-not-caused-by-unionization": "governance-centralization-not-caused-by-unionization",
    "governance-participation-linked-culture-perceptions": "governance-participation-linked-culture-perceptions",
    "gpa-negative-correlation-work-avoidant": "gpa-negative-correlation-work-avoidant",
@@ -101123,6 +102276,7 @@
    "gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs": "gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs",
    "gpt-4o-final-turn-correctness-labeling-is-close-to-human-level": "gpt-4o-final-turn-correctness-labeling-is-close-to-human-level",
    "grade-cutoffs-arbitrary-adjacent-scores": "grade-cutoffs-arbitrary-adjacent-scores",
+   "grade-level-moderates-effect-size": "grade-level-moderates-effect-size",
    "grade-related-to-thinking-styles-dimensions": "grade-related-to-thinking-styles-dimensions",
    "grading-harms-maker-education-outcomes": "grading-harms-maker-education-outcomes",
    "graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more": "graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more",
@@ -101386,6 +102540,7 @@
    "immigration-discussion-hope-immigrant-origin-only": "immigration-discussion-hope-immigrant-origin-only",
    "immigration-discussion-in-gsas-predicts-peer-validation": "immigration-discussion-in-gsas-predicts-peer-validation",
    "immigration-discussion-null-critical-consciousness": "immigration-discussion-null-critical-consciousness",
+   "implementation-duration-community-moderators": "implementation-duration-community-moderators",
    "implementation-intentions-improve-goal-attainment": "implementation-intentions-improve-goal-attainment",
    "implementation-level-moderates-dialogic-reading-effects": "implementation-level-moderates-dialogic-reading-effects",
    "implicit-bias-possible-discipline-disparities": "implicit-bias-possible-discipline-disparities",
@@ -101404,6 +102559,12 @@
    "incidental-vocabulary-retained-intentional-forgotten": "incidental-vocabulary-retained-intentional-forgotten",
    "incidental-vocabulary-retention-problems": "incidental-vocabulary-retention-problems",
    "incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure": "incidental-vocabulary-exposure-limited",
+   "inclusion-effects-heterogeneous-moderator-analyses-inconclusive": "inclusion-effects-heterogeneous-moderator-analyses-inconclusive",
+   "inclusion-evidence-low-quality-serious-risk-of-bias": "inclusion-evidence-low-quality-serious-risk-of-bias",
+   "inclusion-general-no-increase-or-decrease-learning-psychosocial": "inclusion-general-no-increase-or-decrease-learning-psychosocial",
+   "inclusion-language-literacy-smd-004-nonsignificant": "inclusion-language-literacy-smd-004-nonsignificant",
+   "inclusion-math-outcomes-smd-005-nonsignificant": "inclusion-math-outcomes-smd-005-nonsignificant",
+   "inclusion-psychosocial-adjustment-smd-020-nonsignificant": "inclusion-psychosocial-adjustment-smd-020-nonsignificant",
    "incoming-freshmen-average-reflective-judgment-stage-3-5": "incoming-freshmen-average-reflective-judgment-stage-3-5",
    "incorporating-home-culture-improves-academic-performance": "incorporating-home-culture-improves-academic-performance",
    "increased-web-technology-use-over-project": "increased-web-technology-use-over-project",
@@ -101830,6 +102991,8 @@
    "limiting-strategies-resilient-slight-decrease": "limiting-strategies-resilient-slight-decrease",
    "linear-regression-predicts-minimum-rss-bkt-bf": "linear-regression-predicts-minimum-rss-bkt-bf",
    "linguist-review-revealed-item-communication-problems": "linguist-review-revealed-item-communication-problems",
+   "linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect": "linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect",
+   "linguistic-comprehension-instruction-small-immediate-generalized-effect": "linguistic-comprehension-instruction-small-immediate-generalized-effect",
    "linguistic-intelligence-dominates-elt-textbooks": "linguistic-intelligence-dominates-elt-textbooks",
    "linguistics-lacks-workable-decision-criteria": "linguistics-lacks-workable-decision-criteria",
    "lips-evidence-base-small-one-rct": "lips-evidence-base-small-one-rct",
@@ -101906,6 +103069,7 @@
    "locus-of-control-negatively-predicts-subjective-well-being": "locus-of-control-negatively-predicts-subjective-well-being",
    "log-rt-likelihood-correlation-negative-depends-on-difficulty": "log-rt-likelihood-correlation-negative-depends-on-difficulty",
    "logit-models-with-and-without-covariates-power": "logit-models-with-and-without-covariates-power",
+   "long-run-effects-null-seven-studies": "long-run-effects-null-seven-studies",
    "longer-exposure-improves-free-recall-no-interaction": "longer-exposure-improves-free-recall-no-interaction",
    "longer-games-sharpen-wd-learner-differentiation": "longer-games-sharpen-wd-learner-differentiation",
    "longer-partnership-greater-data-capacity": "longer-partnership-greater-data-capacity",
@@ -102020,6 +103184,7 @@
    "math-curricula-study-practices-achievement-correlations-technical-appendix": "math-curricula-study-practices-achievement-correlations-technical-appendix",
    "math-expressions-saxon-outperform-investigations-sfaw-first-grade": "math-expressions-saxon-outperform-investigations-sfaw-first-grade",
    "math-expressions-saxon-percentile-advantage-first-grade": "math-expressions-saxon-percentile-advantage-first-grade",
+   "math-test-effects-larger-than-reading": "math-test-effects-larger-than-reading",
    "math-vocabulary-levels-improve-post-test": "math-vocabulary-levels-improve-post-test",
    "mathematica-implementation-study-early-math-scale-up-2018-2019": "mathematica-implementation-study-early-math-scale-up-2018-2019",
    "mathematica-vam-technical-assistance-phase1": "mathematica-vam-technical-assistance-phase1",
@@ -102042,6 +103207,8 @@
    "measurement-model-reliability-mall-efl": "measurement-model-reliability-mall-efl",
    "measurement-noise-negative-gain-pretest-correlation": "measurement-noise-negative-gain-pretest-correlation",
    "measuring-math-impact-key-to-improving-performance": "measuring-math-impact-key-to-improving-performance",
+   "meccir-post-reviews-higher-amstar2-quality": "meccir-post-reviews-higher-amstar2-quality",
+   "meccir-post-reviews-more-prisma-items": "meccir-post-reviews-more-prisma-items",
    "mechanical-drills-limited-use-meaning-form": "mechanical-drills-limited-use-meaning-form",
    "media-combinations-affect-recall-and-retention": "media-combinations-affect-recall-and-retention",
    "media-comparison-studies-produce-uninterpretable-results": "media-comparison-studies-produce-uninterpretable-results",
@@ -102099,6 +103266,7 @@
    "method-achievement-interaction-self-efficacy": "method-achievement-interaction-self-efficacy",
    "method-approach-effect-sizes-vary-analogy-largest": "method-approach-effect-sizes-vary-analogy-largest",
    "method-of-thought-cannot-be-transferred": "method-of-thought-cannot-be-transferred",
+   "method-variables-smaller-dropout-effects": "method-variables-smaller-dropout-effects",
    "methods-assess-impact-variation-across-students-educators-schools": "methods-assess-impact-variation-across-students-educators-schools",
    "mexican-american-more-heritage-language-than-korean-american": "mexican-american-more-heritage-language-than-korean-american",
    "mi-lacks-empirical-theory-testing": "mi-lacks-empirical-theory-testing",
@@ -102157,6 +103325,9 @@
    "mml-complexity-scales-with-clique-state-spaces": "mml-complexity-scales-with-clique-state-spaces",
    "mml-second-order-dimension-two-dimensional-integrals": "mml-second-order-dimension-two-dimensional-integrals",
    "mnemonic-instruction-improves-recall-for-students-with-disabilities": "mnemonic-instruction-improves-recall-for-students-with-disabilities",
+   "mobile-device-moderators-insufficient-evidence": "mobile-device-moderators-insufficient-evidence",
+   "mobile-device-review-risk-of-bias-concerns": "mobile-device-review-risk-of-bias-concerns",
+   "mobile-devices-small-positive-effect-literacy-numeracy": "mobile-devices-small-positive-effect-literacy-numeracy",
    "mobile-independent-work-initiative-actors": "mobile-independent-work-initiative-actors",
    "mobile-user-typology-predicts-adoption-intention": "mobile-user-typology-predicts-adoption-intention",
    "modality-effect-holds-middle-school-electricity": "modality-effect-holds-middle-school-electricity",
@@ -102289,6 +103460,7 @@
    "no-comprehension-checks-child-efl-nom": "no-comprehension-checks-child-efl-nom",
    "no-consensus-subskill-number-empirical-and-theoretical-sources": "no-consensus-subskill-number-empirical-and-theoretical-sources",
    "no-consistent-pe-vs-sgd-effectiveness-differences": "no-consistent-pe-vs-sgd-effectiveness-differences",
+   "no-contemporary-quantitative-studies-special-education-class-size": "no-contemporary-quantitative-studies-special-education-class-size",
    "no-contextual-effect-institutional-deep-learning": "no-contextual-effect-institutional-deep-learning",
    "no-critical-age-language-learning": "no-critical-age-language-learning",
    "no-da-age-interaction-writing-accuracy": "no-da-age-interaction-writing-accuracy",
@@ -102299,6 +103471,7 @@
    "no-dose-response-asr-practice-time": "no-dose-response-asr-practice-time",
    "no-drop-rate-difference-after-instruction-starts": "no-drop-rate-difference-after-instruction-starts",
    "no-ef-tom-interaction-semantic-fluency": "no-ef-tom-interaction-semantic-fluency",
+   "no-eligible-crc-studies-identified": "no-eligible-crc-studies-identified",
    "no-evidence-older-adults-cannot-learn-language": "no-evidence-older-adults-cannot-learn-language",
    "no-evidence-other-ucsmp-secondary-courses": "no-evidence-other-ucsmp-secondary-courses",
    "no-gender-difference-animistic-explanations": "no-gender-difference-animistic-explanations",
@@ -102329,6 +103502,7 @@
    "no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples": "no-prior-knowledge-by-task-difficulty-interaction-in-algebra-worked-examples",
    "no-pronunciation-assessment-clt-bangladesh": "no-pronunciation-assessment-clt-bangladesh",
    "no-research-aptitude-form-practice-interaction": "no-research-aptitude-form-practice-interaction",
+   "no-rigorous-evaluations-trauma-informed-schools": "no-rigorous-evaluations-trauma-informed-schools",
    "no-service-learning-reported-rpt-forms": "no-service-learning-reported-rpt-forms",
    "no-significant-demographic-associations-ct-knowledge-score": "no-significant-demographic-associations-ct-knowledge-score",
    "no-significant-difference-novelty-communication": "no-significant-difference-novelty-communication",
@@ -102590,6 +103764,7 @@
    "peer-assessment-improves-achievement": "peer-assessment-improves-performance",
    "peer-assessment-improves-performance": "peer-assessment-improves-performance",
    "peer-assessment-structured-criteria-improve-learning": "peer-assessment-structured-criteria-improve-learning",
+   "peer-assisted-and-small-group-instruction-most-effective": "peer-assisted-and-small-group-instruction-most-effective",
    "peer-assisted-learning-improves-achievement": "peer-assisted-learning-improves-achievement",
    "peer-assisted-learning-improves-learning-outcomes": "peer-assisted-learning-improves-learning-outcomes",
    "peer-coaching-supports-teacher-professional-development": "peer-coaching-supports-teacher-professional-development",
@@ -102609,6 +103784,7 @@
    "peer-reflective-groups-challenge-student-teacher-views": "peer-reflective-groups-challenge-student-teacher-views",
    "peer-response-groups-writing-idea-units": "peer-response-groups-writing-idea-units",
    "peer-review-approval-clarification-requests": "peer-review-approval-clarification-requests",
+   "peer-small-group-outperform-other-methods": "peer-small-group-outperform-other-methods",
    "peer-tutoring-improves-achievement": "peer-tutoring-improves-achievement",
    "peer-tutoring-response-groups-positive-eld-effects": "peer-tutoring-response-groups-positive-eld-effects",
    "peerwise-student-questions-75-percent-high-quality": "peerwise-student-questions-75-percent-high-quality",
@@ -102693,6 +103869,7 @@
    "places-most-visible-easiest-to-change": "places-most-visible-easiest-to-change",
    "plan2-most-cost-effective-disc-to-cassette-conversion": "plan2-most-cost-effective-disc-to-cassette-conversion",
    "planetary-health-course-three-key-lessons": "planetary-health-course-three-key-lessons",
+   "planned-meta-analysis-unavailable-single-study": "planned-meta-analysis-unavailable-single-study",
    "planning-in-test-contexts-mixed-effects": "planning-in-test-contexts-mixed-effects",
    "plar-narrow-participation-gap": "plar-narrow-participation-gap",
    "platform-switch-catalyses-teaching-innovation": "platform-switch-catalyses-teaching-innovation",
@@ -102839,6 +104016,7 @@
    "prior-experience-barriers-to-new-management-models": "prior-experience-barriers-to-new-management-models",
    "prior-feedback-meta-analyses-gap-call": "prior-feedback-meta-analyses-gap-call",
    "prior-frequency-slows-subsequent-retrieval": "prior-frequency-slows-subsequent-retrieval",
+   "prior-inclusion-reviews-equivocal-wang-baker-033": "prior-inclusion-reviews-equivocal-wang-baker-033",
    "prior-knowledge-activation-little-effect-on-retention": "prior-knowledge-activation-little-effect-on-retention",
    "prior-knowledge-by-worked-example-type-interaction-on-germane-load": "prior-knowledge-by-worked-example-type-interaction-on-germane-load",
    "prior-knowledge-determines-new-learning": "prior-knowledge-determines-new-learning",
@@ -102850,6 +104028,8 @@
    "prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest": "prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest",
    "prior-practices-mediate-class-interaction-appropriation": "prior-practices-mediate-class-interaction-appropriation",
    "prior-research-direct-instruction-higher-achievement": "prior-research-direct-instruction-higher-achievement",
+   "prior-review-larger-unsustained-effect": "prior-review-larger-unsustained-effect",
+   "prior-technology-meta-analyses-inconsistent-effects": "prior-technology-meta-analyses-inconsistent-effects",
    "prior-workshop-experience-differentiates-concerns": "prior-workshop-experience-differentiates-concerns",
    "private-speech-associated-l2-development-motivation": "private-speech-associated-l2-development-motivation",
    "pro-verbs-context-bound-function-words": "pro-verbs-context-bound-function-words",
@@ -102924,6 +104104,7 @@
    "propdec-colinear-with-student-intercept": "propdec-colinear-with-student-intercept",
    "prospective-teachers-value-constructivist-more-than-practised": "prospective-teachers-value-constructivist-more-than-practised",
    "proximal-goals-feedback-peer-models-build-learning-efficacy": "proximal-goals-feedback-peer-models-build-learning-efficacy",
+   "proximal-outcomes-inflate-vocabulary-effect-sizes-in-prior-reviews": "proximal-outcomes-inflate-vocabulary-effect-sizes-in-prior-reviews",
    "proximal-practices-predict-behaviors-mindsets": "proximal-practices-predict-behaviors-mindsets",
    "psat-national-merit-awards-skew-male": "psat-national-merit-awards-skew-male",
    "pscale-shifts-toward-expansive-strategies": "pscale-shifts-toward-expansive-strategies",
@@ -103242,12 +104423,15 @@
    "rgr-grade1-higher-map-winter-2022": "rgr-grade1-higher-map-winter-2022",
    "rgr-grade2-higher-map-winter-2022": "rgr-grade2-higher-map-winter-2022",
    "rgr-grade3-no-outperformance-map": "rgr-grade3-no-outperformance-map",
+   "rhs-improves-absenteeism-abstinence-drug-use-single-qed": "rhs-improves-absenteeism-abstinence-drug-use-single-qed",
+   "rhs-no-difference-gpa-truancy-alcohol": "rhs-no-difference-gpa-truancy-alcohol",
    "rhyming-poetry-improves-reading-fluency": "rhyming-poetry-improves-reading-fluency",
    "rise-average-effect-size-009": "rise-average-effect-size-009",
    "rise-star-fast-no-difference-es-002": "rise-star-fast-no-difference-es-002",
    "rise-teacher-favorable-implementation-ratings": "rise-teacher-favorable-implementation-ratings",
    "rise-wrcpm-fastbridge-outperformance-es-040": "rise-wrcpm-fastbridge-outperformance-es-040",
    "risk-model-assessed-two-allegheny-agencies": "risk-model-assessed-two-allegheny-agencies",
+   "risk-of-bias-varies-by-study-design": "risk-of-bias-varies-by-study-design",
    "rites-of-passage-socialize-and-transform-youth": "rites-of-passage-socialize-and-transform-youth",
    "rizal-experiment-local-language-faster-literacy": "rizal-experiment-local-language-faster-literacy",
    "rjm-high-interrater-reliability-teacher-educators": "rjm-high-interrater-reliability-teacher-educators",
@@ -103304,6 +104488,13 @@
    "salomon-perkins-learning-with-versus-of-tools": "salomon-perkins-learning-with-versus-of-tools",
    "same-infractions-black-disabilities-more-suspensions": "same-infractions-black-disabilities-more-suspensions",
    "sat-underpredicts-girls-performance": "sat-underpredicts-girls-performance",
+   "sble-associated-greater-school-level-crime-behavior-problems": "sble-associated-greater-school-level-crime-behavior-problems",
+   "sble-evidence-base-no-randomized-studies-high-risk-bias": "sble-evidence-base-no-randomized-studies-high-risk-bias",
+   "sble-findings-consistent-across-design-features": "sble-findings-consistent-across-design-features",
+   "sble-increases-exclusionary-discipline": "sble-increases-exclusionary-discipline",
+   "sble-no-beneficial-learning-effects": "sble-no-beneficial-learning-effects",
+   "sble-student-level-crime-behavior-null": "sble-student-level-crime-behavior-null",
+   "sble-students-feel-safer-limited-data": "sble-students-feel-safer-limited-data",
    "scaffolded-close-reading-improves-comprehension-for-struggling-readers": "scaffolded-close-reading-improves-comprehension-for-struggling-readers",
    "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states": "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states",
    "scaffolding-improves-learning": "scaffolding-improves-learning",
@@ -103315,6 +104506,7 @@
    "schema-perspective-improves-text-recall": "schema-perspective-improves-text-recall",
    "scholarship-of-integration-least-examined": "scholarship-of-integration-least-examined",
    "school-accountability-multiple-constituencies": "school-accountability-multiple-constituencies",
+   "school-based-interventions-small-significant-reduction-exclusion": "school-based-interventions-small-significant-reduction-exclusion",
    "school-constraints-blocked-written-praise-two-sites": "school-constraints-blocked-written-praise-two-sites",
    "school-effect-null-ecology-puppetry-ancova": "school-effect-null-ecology-puppetry-ancova",
    "school-experience-did-not-enlarge-curriculum-impacts": "school-experience-did-not-enlarge-curriculum-impacts",
@@ -103350,6 +104542,7 @@
    "sdt-path-strengths-effort": "sdt-path-strengths-effort",
    "sdt-seven-factor-esp-motivation-structure": "sdt-seven-factor-esp-motivation-structure",
    "second-order-model-equivalent-to-testlet-model": "second-order-model-equivalent-to-testlet-model",
+   "secondary-behavioural-outcomes-negligible-nonsignificant": "secondary-behavioural-outcomes-negligible-nonsignificant",
    "secondary-cooperative-learning-newmann-thompson": "secondary-cooperative-learning-newmann-thompson",
    "secondary-students-higher-realism-than-elementary": "secondary-students-higher-realism-than-elementary",
    "secondary-students-top-metacognitive-behaviors": "secondary-students-top-metacognitive-behaviors",
@@ -103450,6 +104643,7 @@
    "ses-rd-study-power-012-sd": "ses-rd-study-power-012-sd",
    "seven-disciplines-social-sciences-instruction": "seven-disciplines-social-sciences-instruction",
    "seven-nonsignificant-moderators-call-feedback": "seven-nonsignificant-moderators-call-feedback",
+   "seven-studies-only-special-education-class-size-review": "seven-studies-only-special-education-class-size-review",
    "seventy-percent-population-in-metropolitan-areas": "seventy-percent-population-in-metropolitan-areas",
    "seventy-two-arms-classical-double-sample-size": "seventy-two-arms-classical-double-sample-size",
    "severe-depression-co-occurs-self-harm-suicidal-tendencies": "severe-depression-co-occurs-self-harm-suicidal-tendencies",
@@ -103523,6 +104717,7 @@
    "situational-exercises-significant-progress": "situational-exercises-significant-progress",
    "six-factor-governance-model-convergent-validity": "six-factor-governance-model-convergent-validity",
    "six-iterations-360-model-effectiveness": "six-iterations-360-model-effectiveness",
+   "six-key-principles-trauma-informed-approach": "six-key-principles-trauma-informed-approach",
    "six-significant-moderators-call-feedback": "six-significant-moderators-call-feedback",
    "sixth-graders-prevalent-thinking-styles": "sixth-graders-prevalent-thinking-styles",
    "skill-barriers-conversation-facilitation-classroom-management": "skill-barriers-conversation-facilitation-classroom-management",
@@ -103544,10 +104739,17 @@
    "sld-anticipates-start-but-not-stop-in-mdc-hard-numbers": "sld-anticipates-start-but-not-stop-in-mdc-hard-numbers",
    "sleep-deprivation-impairst-astronaut-performance": "sleep-deprivation-impairst-astronaut-performance",
    "slider-extremes-support-qualitative-comparisons": "slider-extremes-support-qualitative-comparisons",
+   "sm-effects-moderated-race-special-education": "sm-effects-moderated-race-special-education",
+   "sm-effects-not-moderated-intervention-characteristics": "sm-effects-not-moderated-intervention-characteristics",
+   "sm-group-design-main-effect-g063": "sm-group-design-main-effect-g063",
+   "sm-interventions-improve-academic-outcomes-scd": "sm-interventions-improve-academic-outcomes-scd",
+   "sm-interventions-improve-classroom-behaviors-scd-meta": "sm-interventions-improve-classroom-behaviors-scd-meta",
+   "small-group-instruction-outperforms-cai-incentives": "small-group-instruction-outperforms-cai-incentives",
    "small-group-learning-improves-stem-achievement": "small-group-learning-improves-stem-achievement",
    "small-presentation-changes-large-participation-impact": "small-presentation-changes-large-participation-impact",
    "small-presentation-groups-make-learning-visible": "small-presentation-groups-make-learning-visible",
    "small-rural-staffs-cross-subject-plcs-isolation": "small-rural-staffs-cross-subject-plcs-isolation",
+   "small-special-education-classes-preferred-individualised-instruction": "small-special-education-classes-preferred-individualised-instruction",
    "smart-comprehension-nonsignificant-substantive-average": "smart-comprehension-nonsignificant-substantive-average",
    "smart-evidence-base-single-small-rct": "smart-evidence-base-single-small-rct",
    "smart-one-year-interim-mixed-significance": "smart-one-year-interim-mixed-significance",
@@ -103712,6 +104914,7 @@
    "standard-two-week-spacing-significant-over-baseline": "standard-two-week-spacing-significant-over-baseline",
    "standardized-tests-problematic-young-children-outcomes": "standardized-tests-problematic-young-children-outcomes",
    "standards-adoption-voluntary-local-guides": "standards-adoption-voluntary-local-guides",
+   "star-studies-positive-small-effects-reading-math": "star-studies-positive-small-effects-reading-math",
    "star-year2-technology-use-rise": "star-year2-technology-use-rise",
    "starbird-intuitive-integral-five-configurations": "starbird-intuitive-integral-five-configurations",
    "stari-improves-word-recognition-comprehension-morphological-awareness": "stari-improves-word-recognition-comprehension-morphological-awareness",
@@ -103856,6 +105059,7 @@
    "stylistic-cognitive-rigidity-reduces-adoption-of-opposites": "stylistic-cognitive-rigidity-reduces-adoption-of-opposites",
    "subject-category-governs-pro-verb-selection": "subject-category-governs-pro-verb-selection",
    "subjective-reasoning-context-dependent": "subjective-reasoning-context-dependent",
+   "substantial-heterogeneity-short-term-effects": "substantial-heterogeneity-short-term-effects",
    "subsystems-show-supportive-competitive-precursor-relationships": "subsystems-show-supportive-competitive-precursor-relationships",
    "subtitled-videos-increase-negotiation-of-meaning-online-tbll": "subtitled-videos-increase-negotiation-of-meaning-online-tbll",
    "subtle-philosophy-evolution-unrecognized-by-teacher": "subtle-philosophy-evolution-unrecognized-by-teacher",
@@ -103917,6 +105121,9 @@
    "tap-no-test-score-impact-year-one": "tap-no-test-score-impact-year-one",
    "tap-raises-teacher-retention-five-points": "tap-raises-teacher-retention-five-points",
    "target-teach-gains-across-all-subjects": "target-teach-gains-across-all-subjects",
+   "targeted-k6-interventions-followup-fadeout": "targeted-k6-interventions-followup-fadeout",
+   "targeted-k6-interventions-positive-short-term-effects": "targeted-k6-interventions-positive-short-term-effects",
+   "targeted-secondary-interventions-positive-short-run-effects": "targeted-secondary-interventions-positive-short-run-effects",
    "task-complexity-and-difficulty-dominate-wd-variance": "task-complexity-and-difficulty-dominate-wd-variance",
    "task-complexity-moderates-information-search-process": "task-complexity-moderates-information-search-process",
    "task-complexity-negatively-related-child-written-production": "task-complexity-negatively-related-child-written-production",
@@ -104093,12 +105300,16 @@
    "texts-foundational-interdisciplinarity": "texts-foundational-interdisciplinarity",
    "textual-prompts-better-near-transfer-than-pictorial": "textual-prompts-better-near-transfer-than-pictorial",
    "textual-prompts-stronger-continuing-motivation": "textual-prompts-stronger-continuing-motivation",
+   "tfa-corps-no-significant-reading-effect-elementary": "tfa-corps-no-significant-reading-effect-elementary",
+   "tfa-evidence-base-reduced-to-four-studies": "tfa-evidence-base-reduced-to-four-studies",
+   "tfa-experimental-studies-positive-math-no-reading-effect": "tfa-experimental-studies-positive-math-no-reading-effect",
    "tfa-first-two-years-beat-experienced-non-tfa": "tfa-first-two-years-beat-experienced-non-tfa",
    "tfa-math-teachers-raise-achievement-007-sd": "tfa-math-teachers-raise-achievement-007-sd",
    "tfa-no-discernible-ela-effects": "tfa-no-discernible-ela-effects",
    "tfa-no-discernible-social-studies-effects": "tfa-no-discernible-social-studies-effects",
    "tfa-positive-mathematics-achievement-effects": "tfa-positive-mathematics-achievement-effects",
    "tfa-potentially-positive-science-effects": "tfa-potentially-positive-science-effects",
+   "tfa-small-positive-early-elementary-reading-not-math": "tfa-small-positive-early-elementary-reading-not-math",
    "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification": "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification",
    "tfa-teaching-fellows-math-teachers-sometimes-more-effective": "tfa-teaching-fellows-math-teachers-sometimes-more-effective",
    "tgfdv-intentions-null-results": "tgfdv-intentions-null-results",
@@ -104151,6 +105362,7 @@
    "time-reallocated-across-instructional-functions": "time-reallocated-across-instructional-functions",
    "time-treatment-interaction-corrective-feedback": "time-treatment-interaction-corrective-feedback",
    "time-window-features-null-for-lr-boost-nonlinear": "time-window-features-null-for-lr-boost-nonlinear",
+   "timing-intensity-duration-moderators-open-question": "timing-intensity-duration-moderators-open-question",
    "tipping-point-hypothesis-insufficient-online-dropout": "tipping-point-hypothesis-insufficient-online-dropout",
    "tips-family-involvement-reading-science": "tips-family-involvement-reading-science",
    "tips-family-reported-involvement-math": "tips-family-reported-involvement-math",
@@ -104217,6 +105429,7 @@
    "translation-accuracy-varies-by-construction": "translation-accuracy-varies-by-construction",
    "trat-scores-exceed-irat-scores": "trat-scores-exceed-irat-scores",
    "trat-weak-correlation-lecture-assessments": "trat-weak-correlation-lecture-assessments",
+   "trauma-exposure-adverse-school-outcomes": "trauma-exposure-adverse-school-outcomes",
    "travel-outside-neighborhood-reduces-single-gender-support": "travel-outside-neighborhood-reduces-single-gender-support",
    "treatment-amenability-subscales-null-manova": "treatment-amenability-subscales-null-manova",
    "treatment-classrooms-less-disruptive-than-control": "treatment-classrooms-less-disruptive-than-control",
@@ -104355,6 +105568,7 @@
    "vocabulary-instruction-improves-comprehension": "vocabulary-instruction-improves-comprehension",
    "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts": "vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts",
    "vocabulary-means-decrease-with-frequency-level": "vocabulary-means-decrease-with-frequency-level",
+   "vocabulary-programs-insufficient-to-close-vocabulary-gap": "vocabulary-programs-insufficient-to-close-vocabulary-gap",
    "vocabulary-uniquely-related-word-reading-spelling-kindergarten": "vocabulary-uniquely-related-word-reading-spelling-kindergarten",
    "vocational-students-depression-detection-26-35-percent": "vocational-students-depression-detection-26-35-percent",
    "vocational-students-low-mental-health-literacy-4-3-percent": "vocational-students-low-mental-health-literacy-4-3-percent",
@@ -104879,6 +106093,7 @@
    "collaborative-way-teaming-model": "collaborative-way-teaming-model",
    "collaborative-web-annotation-marginal-syllabus": "collaborative-web-annotation-marginal-syllabus",
    "collective-concept-mapping": "collective-concept-mapping",
+   "collegiate-recovery-communities-element": "collegiate-recovery-communities-element",
    "communication-channels": "communication-channels",
    "comparing-cases": "comparing-cases",
    "competency-based-learning": "competency-based-learning",
@@ -104993,6 +106208,7 @@
    "dreambox-learning-adaptive-math-program": "dreambox-learning-adaptive-math-program",
    "drill-practice": "drill-practice",
    "drop-in-tutoring-center-model-tutortrac": "drop-in-tutoring-center-model-tutortrac",
+   "dropout-meta-analysis-130-samples-corpus": "dropout-meta-analysis-130-samples-corpus",
    "dropout-timing-stage-definitions": "dropout-timing-stage-definitions",
    "dual-coding": "dual-coding",
    "dual-coding-elucidation-booklets-lexical-pairs": "dual-coding-elucidation-booklets-lexical-pairs",
@@ -105133,6 +106349,7 @@
    "flight-sos-interactive-video": "flight-sos-interactive-video",
    "flipgrid-te-dct-instrument": "flipgrid-te-dct-instrument",
    "flipped-classroom": "flipped-classroom",
+   "flipped-classroom-hpe-review-corpus-45-studies": "flipped-classroom-hpe-review-corpus-45-studies",
    "fluency-formula-supplemental-curriculum": "fluency-formula-supplemental-curriculum",
    "fluency-way-lesson-guide-oral-proficiency": "fluency-way-lesson-guide-oral-proficiency",
    "force-and-motion-microworld-fmm": "force-and-motion-microworld-fmm",
@@ -105197,7 +106414,9 @@
    "hands-on-learning": "hands-on-learning",
    "hb-woodlawn-student-control-school-example": "hb-woodlawn-student-control-school-example",
    "head-start-program-element": "head-start-program-element",
+   "head-start-three-tier-trauma-informed-model": "head-start-three-tier-trauma-informed-model",
    "headsprout-early-reading-curriculum": "headsprout-early-reading-curriculum",
+   "hearts-whole-school-program": "hearts-whole-school-program",
    "heggerty-bridge-to-reading-curriculum": "heggerty-bridge-to-reading-curriculum",
    "heising-simons-family-engagement-early-math-programs": "heising-simons-family-engagement-early-math-programs",
    "high-impact-tutoring-aps-turnaround-component": "high-impact-tutoring-aps-turnaround-component",
@@ -105661,6 +106880,7 @@
    "rebuttals": "rebuttals",
    "recall-prior-knowledge": "recall-prior-knowledge",
    "reciprocal-teaching": "reciprocal-teaching",
+   "recovery-high-schools-element": "recovery-high-schools-element",
    "red-light-purple-light-program-element": "red-light-purple-light-program-element",
    "redi-preschool-program-executive-function-school-readiness": "redi-preschool-program-executive-function-school-readiness",
    "reference-population-sample-timing-checklist": "reference-population-sample-timing-checklist",
@@ -105702,6 +106922,7 @@
    "safersanschools-whole-school-change-program": "safersanschools-whole-school-change-program",
    "salzburg-student-ratings-project": "salzburg-student-ratings-project",
    "sas-nlmixed-irt-testlet-implementation": "sas-nlmixed-irt-testlet-implementation",
+   "sble-review-evidence-base-1002-effect-sizes": "sble-review-evidence-base-1002-effect-sizes",
    "scaffolded-inquiry": "scaffolded-inquiry",
    "scaffolding": "scaffolding",
    "scaffolding-adjusted-support-within-zpd": "scaffolding-adjusted-support-within-zpd",
@@ -105830,6 +107051,7 @@
    "tdf-excel-data-tool": "tdf-excel-data-tool",
    "tdhs-whole-school-reform-model": "tdhs-whole-school-reform-model",
    "teach-for-america-program": "teach-for-america-program",
+   "teach-for-america-program-element": "teach-for-america-program-element",
    "teach-for-america-teacher-supply-program": "teach-for-america-teacher-supply-program",
    "teacher-advancement-program-tap-chicago": "teacher-advancement-program-tap-chicago",
    "teacher-incentive-fund-grant-program": "teacher-incentive-fund-grant-program",
@@ -106845,6 +108067,7 @@
    "barr-pd-and-coaching-implementation-strategy": "barr-pd-and-coaching-implementation-strategy",
    "barr-weekly-teacher-team-meetings": "barr-weekly-teacher-team-meetings",
    "baseline-assessment": "baseline-assessment",
+   "baseline-strategy-address-review-limitations": "baseline-strategy-address-review-limitations",
    "baseline-variability-estimation-for-plasticity-studies": "baseline-variability-estimation-for-plasticity-studies",
    "basic-word-paraphrase-strategic-exercises": "basic-word-paraphrase-strategic-exercises",
    "bayesian-adaptive-designs-for-big-data-evaluation": "bayesian-adaptive-designs-for-big-data-evaluation",
@@ -106965,6 +108188,7 @@
    "case_studies": "case_studies",
    "casp-cerqual-quality-confidence-workflow": "casp-cerqual-quality-confidence-workflow",
    "categorization": "categorization",
+   "caution-and-evaluation-trauma-informed-schools": "caution-and-evaluation-trauma-informed-schools",
    "cbm-goal-line-decision-rules-iep": "cbm-goal-line-decision-rules-iep",
    "cede-power-student-voice": "cede-power-student-voice",
    "centralized-reader-information-management-system": "centralized-reader-information-management-system",
@@ -107834,6 +109058,7 @@
    "flexible_seating": "flexible_seating",
    "flexible_seating_patterns_and_configurations": "flexible_seating_patterns_and_configurations",
    "flipped-classroom": "flipped-classroom",
+   "flipped-classroom-needs-well-designed-rcts-consort": "flipped-classroom-needs-well-designed-rcts-consort",
    "flipped-learning": "flipped-learning",
    "flipped_learning": "flipped_learning",
    "focus_on_enjoyable_moments": "focus_on_enjoyable_moments",
@@ -107911,6 +109136,7 @@
    "future-cdst-research-learner-environment-interaction": "future-cdst-research-learner-environment-interaction",
    "future-directions-for-dialogue-knowledge-tracing": "future-directions-for-dialogue-knowledge-tracing",
    "future-extensions-interferometer-and-bayesian-unit": "future-extensions-interferometer-and-bayesian-unit",
+   "future-research-voices-of-children-special-education-class-size": "future-research-voices-of-children-special-education-class-size",
    "future-studies-quantitative-different-samples-validated-scales": "future-studies-quantitative-different-samples-validated-scales",
    "gain_attention_before_giving_instructions": "gain_attention_before_giving_instructions",
    "gallery-walk": "gallery-walk",
@@ -108104,6 +109330,7 @@
    "imagine-math-optional-pd-sessions": "imagine-math-optional-pd-sessions",
    "immersion-classroom-techniques-esl": "immersion-classroom-techniques-esl",
    "implement_measures_for_student_self-knowledge": "implement_measures_for_student_self-knowledge",
+   "implementation-support-whole-school-engagement": "implementation-support-whole-school-engagement",
    "implicit_instruction-vocabulary": "implicit_instruction-vocabulary",
    "implicit_vocabulary_instruction": "implicit_vocabulary_instruction",
    "impressions_first": "impressions_first",
@@ -108129,6 +109356,7 @@
    "incorporating_methods_for_self-testing": "incorporating_methods_for_self-testing",
    "incorporating_physical_activity_into_classroom_learning": "incorporating_physical_activity_into_classroom_learning",
    "incorporating_self-testing": "incorporating_self-testing",
+   "increase-detection-treatment-post-deployment-mental-disorders": "increase-detection-treatment-post-deployment-mental-disorders",
    "increase-listening-time-replace-drills": "increase-listening-time-replace-drills",
    "increase-professional-accountability-in-schools": "increase-professional-accountability-in-schools",
    "increase-task-size-to-force-fading": "increase-task-size-to-force-fading",
@@ -108382,6 +109610,7 @@
    "logic_puzzles": "logic_puzzles",
    "logs_and_journals_to_guide_reflection": "logs_and_journals_to_guide_reflection",
    "long-term-memory-strategies-older-learners": "long-term-memory-strategies-older-learners",
+   "longer-language-programs-with-follow-up-assessments": "longer-language-programs-with-follow-up-assessments",
    "longitudinal-evaluation-of-elt-engineering-modules": "longitudinal-evaluation-of-elt-engineering-modules",
    "longitudinal-multi-setting-bilingual-policy-research": "longitudinal-multi-setting-bilingual-policy-research",
    "longitudinal-studies-of-computer-involvement-effects": "longitudinal-studies-of-computer-involvement-effects",
@@ -109243,6 +110472,7 @@
    "require_retakes": "require_retakes",
    "requirements-responsibly-support-social-learning": "requirements-responsibly-support-social-learning",
    "rereading": "rereading",
+   "research-agenda-secondary-targeted-interventions": "research-agenda-secondary-targeted-interventions",
    "research-emic-views-of-mall-users": "research-emic-views-of-mall-users",
    "research_map": "research_map",
    "research_map_visualization": "research_map_visualization",
@@ -109297,6 +110527,7 @@
    "rich_library-multimodal_resources": "rich_library-multimodal_resources",
    "rich_library-poetry": "rich_library-poetry",
    "rich_resources-diversity": "rich_resources-diversity",
+   "rigorous-evaluation-before-recovery-school-adoption": "rigorous-evaluation-before-recovery-school-adoption",
    "rip-toolbox-repetition-imagery-patterns": "rip-toolbox-repetition-imagery-patterns",
    "role-assignment": "role-assignment",
    "role-assignment-production-teams": "role-assignment-production-teams",
@@ -109856,6 +111087,7 @@
    "text_chats_in_instruction": "text_chats_in_instruction",
    "text_illustrations_with_graphic_organizers": "text_illustrations_with_graphic_organizers",
    "text_marking": "text_marking",
+   "tfa-future-research-comparable-teacher-comparisons": "tfa-future-research-comparable-teacher-comparisons",
    "the-title-pre-reading": "the-title-pre-reading",
    "the_best_part_of_me_book": "the_best_part_of_me_book",
    "the_disciplinary_steps": "the_disciplinary_steps",
@@ -109878,6 +111110,7 @@
    "thinking_about_emotions_in_advance": "thinking_about_emotions_in_advance",
    "thinking_critically": "thinking_critically",
    "thinking_tools_with_graphic_organizers": "thinking_tools_with_graphic_organizers",
+   "thoughtful-mobile-device-integration-recommendations": "thoughtful-mobile-device-integration-recommendations",
    "three-act-tasks": "three-act-tasks",
    "three-leads-teaching-for-discovery": "three-leads-teaching-for-discovery",
    "three-part-rubric-maker-assessment": "three-part-rubric-maker-assessment",
@@ -110200,6 +111433,7 @@
    "alternative-growth-measures-three-types": "alternative-growth-measures-three-types",
    "amova-accumulative-manifold-validation-analysis": "amova-accumulative-manifold-validation-analysis",
    "anatomy-of-autonomy-in-early-literacy": "anatomy-of-autonomy-in-early-literacy",
+   "anderson-causal-model-class-size-achievement": "anderson-causal-model-class-size-achievement",
    "anderson-six-modes-interaction-online-education": "anderson-six-modes-interaction-online-education",
    "andragogy-knowles-adult-learning-theory": "andragogy-knowles-adult-learning-theory",
    "anthropomorphic-design-forms-taxonomy": "anthropomorphic-design-forms-taxonomy",
@@ -110306,6 +111540,7 @@
    "citizenship-competence-three-components": "citizenship-competence-three-components",
    "cl-number-sequence-hierarchy-defined-by-units-coordination-and-splitting-models-students-algebraic-reasoning": "cl-number-sequence-hierarchy-defined-by-units-coordination-and-splitting-models-students-algebraic-reasoning",
    "clasp-models-based-organization": "clasp-models-based-organization",
+   "class-size-mechanism-special-education-framework": "class-size-mechanism-special-education-framework",
    "classification-methods-taxonomy-categorical-dimensional-person-oriented": "classification-methods-taxonomy-categorical-dimensional-person-oriented",
    "cloud-constructivism-connectivism-innovation-model": "cloud-constructivism-connectivism-innovation-model",
    "clt-three-load-types-framework": "clt-three-load-types-framework",
@@ -110448,6 +111683,7 @@
    "distributed-cognition-system-unit-of-analysis": "distributed-cognition-system-unit-of-analysis",
    "dl2f-dynamic-language-learning-framework": "dl2f-dynamic-language-learning-framework",
    "dp-model-regular-irregular-past-tense-memory-systems": "dp-model-regular-irregular-past-tense-memory-systems",
+   "dropout-program-type-taxonomy": "dropout-program-type-taxonomy",
    "dual-anticipation-start-stop-mdc-intermediate-stage": "dual-anticipation-start-stop-mdc-intermediate-stage",
    "dual-coding-theory": "dual-coding-theory",
    "dual-coding-theory-l2-lexical-application": "dual-coding-theory-l2-lexical-application",
@@ -110509,6 +111745,7 @@
    "ethnomethodology-serious-ethnography-framework": "ethnomethodology-serious-ethnography-framework",
    "evidence-review-function-framework": "evidence-review-function-framework",
    "ex-ante-broader-impacts-frameworks-taxonomy": "ex-ante-broader-impacts-frameworks-taxonomy",
+   "exclusion-intervention-theories-of-change": "exclusion-intervention-theories-of-change",
    "executive-function-development": "executive-function-development",
    "existential-hope-four-adaptive-processes": "existential-hope-four-adaptive-processes",
    "existential-hope-integrative-framework": "existential-hope-integrative-framework",
@@ -110563,6 +111800,7 @@
    "five-models-cooperative-learning-taxonomy": "five-models-cooperative-learning-taxonomy",
    "five-philosophies-teacher-belief-framework": "five-philosophies-teacher-belief-framework",
    "flammer-transfer-correlation-model": "flammer-transfer-correlation-model",
+   "flipped-classroom-definition-blended-learning": "flipped-classroom-definition-blended-learning",
    "focused-unfocused-task-distinction-tblt": "focused-unfocused-task-distinction-tblt",
    "foreign-language-anxiety": "foreign-language-anxiety",
    "formal-nonformal-informal-community-based-education": "formal-nonformal-informal-community-based-education",
@@ -110672,6 +111910,7 @@
    "ikeda-global-citizenship-three-components": "ikeda-global-citizenship-three-components",
    "imagination-cognitive-tool-constructivist-instruction": "imagination-cognitive-tool-constructivist-instruction",
    "implicit-scaffolding-framework": "implicit-scaffolding-framework",
+   "inclusion-mechanisms-stigmatisation-peer-effects-individualisation": "inclusion-mechanisms-stigmatisation-peer-effects-individualisation",
    "inclusion-versus-rightful-presence-contrast": "inclusion-versus-rightful-presence-contrast",
    "indigenous-hl2-motivation-framework-te-huia": "indigenous-hl2-motivation-framework-te-huia",
    "industrial-technology-content-base-industrial-arts": "industrial-technology-content-base-industrial-arts",
@@ -110843,6 +112082,7 @@
    "mitchell-csl-three-component-framework": "mitchell-csl-three-component-framework",
    "mle-theory-human-mediator-cognitive-modifiability": "mle-theory-human-mediator-cognitive-modifiability",
    "mle-three-universal-criteria": "mle-three-universal-criteria",
+   "mobile-device-theory-of-change-four-elements": "mobile-device-theory-of-change-four-elements",
    "mobile-user-typology-adoption-predictor-framework": "mobile-user-typology-adoption-predictor-framework",
    "modernist-responses-three-areas-taxonomy": "modernist-responses-three-areas-taxonomy",
    "molnar-random-sampling-synthesis-method": "molnar-random-sampling-synthesis-method",
@@ -110951,6 +112191,7 @@
    "real-versus-pretend-world-zpd-distinction": "real-versus-pretend-world-zpd-distinction",
    "realism-educational-philosophy": "realism-educational-philosophy",
    "realism-expressionism-poles-of-thought-framework": "realism-expressionism-poles-of-thought-framework",
+   "recovery-school-social-capital-theory-of-change": "recovery-school-social-capital-theory-of-change",
    "reflective-judgment-framework-three-levels": "reflective-judgment-framework-three-levels",
    "reflective-judgment-model-rjm": "reflective-judgment-model-rjm",
    "reflective-practice-schon-coached-reflection": "reflective-practice-schon-coached-reflection",
@@ -110983,7 +112224,9 @@
    "s-nls-spatial-numerical-linked-structuring": "s-nls-spatial-numerical-linked-structuring",
    "sacd-outcome-domain-organization": "sacd-outcome-domain-organization",
    "sacd-six-goal-framework": "sacd-six-goal-framework",
+   "samr-model-technology-integration": "samr-model-technology-integration",
    "sauve-fifteen-currents-ee-taxonomy": "sauve-fifteen-currents-ee-taxonomy",
+   "sble-theory-of-change-deterrence-and-criminalization": "sble-theory-of-change-deterrence-and-criminalization",
    "scaffolding-transfer-integration-framework": "scaffolding-transfer-integration-framework",
    "schema-of-the-moment": "schema-of-the-moment",
    "schema-theory-knowledge-networks": "schema-theory-knowledge-networks",
@@ -111026,6 +112269,7 @@
    "siegel-broad-rationality-critical-thinking-ideal": "siegel-broad-rationality-critical-thinking-ideal",
    "siegel-reasons-conception-critical-thinking": "siegel-reasons-conception-critical-thinking",
    "siegel-two-component-critical-thinking": "siegel-two-component-critical-thinking",
+   "simple-view-of-reading-gough-tunmer": "simple-view-of-reading-gough-tunmer",
    "simulated-student-evaluation-approach": "simulated-student-evaluation-approach",
    "situated-cognition-context-authenticity-activity": "situated-cognition-context-authenticity-activity",
    "situated-cognition-framework-plc": "situated-cognition-framework-plc",
@@ -111048,6 +112292,8 @@
    "skill-discovery-bkt-gumbel-softmax": "skill-discovery-bkt-gumbel-softmax",
    "skill-theory-optimal-real-performance": "skill-theory-optimal-real-performance",
    "sla-three-theory-comparison-framework": "sla-three-theory-comparison-framework",
+   "sm-eleven-element-framework": "sm-eleven-element-framework",
+   "sm-mechanisms-reactivity-perceived-autonomy": "sm-mechanisms-reactivity-perceived-autonomy",
    "social-cartography-heterotopic-mapping": "social-cartography-heterotopic-mapping",
    "social-cartography-postmodern-methodology": "social-cartography-postmodern-methodology",
    "social-constructionism-in-composition": "social-constructionism-in-composition",
@@ -111125,6 +112371,7 @@
    "tefa-four-principles-question-cycle": "tefa-four-principles-question-cycle",
    "tefa-t-teaching-factory-troubleshooting-model": "tefa-t-teaching-factory-troubleshooting-model",
    "tennyson-cocchiarella-concept-instruction-model": "tennyson-cocchiarella-concept-instruction-model",
+   "tfa-theory-of-change-five-component-model": "tfa-theory-of-change-five-component-model",
    "thematic-taxonomy-creativity-applications": "thematic-taxonomy-creativity-applications",
    "thick-authenticity-four-types-framework": "thick-authenticity-four-types-framework",
    "third-space-everyday-academic-language": "third-space-everyday-academic-language",
@@ -111144,8 +112391,10 @@
    "three-levels-civic-learning-university": "three-levels-civic-learning-university",
    "three-mode-psmt-probabilistic-reasoning-model": "three-mode-psmt-probabilistic-reasoning-model",
    "three-patterns-adapting-individual-differences": "three-patterns-adapting-individual-differences",
+   "three-perspectives-targeted-interventions": "three-perspectives-targeted-interventions",
    "three-premises-ace-vet-framework": "three-premises-ace-vet-framework",
    "three-semantic-mapping-strategy-variants": "three-semantic-mapping-strategy-variants",
+   "three-theoretical-perspectives-targeted-interventions": "three-theoretical-perspectives-targeted-interventions",
    "three-tier-cmr-coding-scheme": "three-tier-cmr-coding-scheme",
    "three-time-metaphors-knowledge-organization-systems": "three-time-metaphors-knowledge-organization-systems",
    "three-type-competency-assessment-taxonomy": "three-type-competency-assessment-taxonomy",
@@ -111155,6 +112404,7 @@
    "threshold-hypothesis-bilingual-competence": "threshold-hypothesis-bilingual-competence",
    "tpack": "tpack",
    "tpack-framework-seven-elements": "tpack-framework-seven-elements",
+   "tpack-framework-teacher-technology-integration": "tpack-framework-teacher-technology-integration",
    "tpb-framework-puppetry-ecology": "tpb-framework-puppetry-ecology",
    "tpi-online-research-supervision-tutoring-model": "tpi-online-research-supervision-tutoring-model",
    "traditional-constructivist-conceptions-framework-eren": "traditional-constructivist-conceptions-framework-eren",
@@ -111162,6 +112412,7 @@
    "transfer-appropriate-processing-account-of-retrieval-practice": "transfer-appropriate-processing-account-of-retrieval-practice",
    "transparency-theory-learning-skill-acquisition": "transparency-theory-learning-skill-acquisition",
    "transspection-beyond-empathy": "transspection-beyond-empathy",
+   "trauma-informed-approach-framework-samhsa": "trauma-informed-approach-framework-samhsa",
    "trial-constructivism-root-of-constructivism": "trial-constructivism-root-of-constructivism",
    "trialogical-learning-design-characteristics": "trialogical-learning-design-characteristics",
    "trialogical-learning-framework": "trialogical-learning-framework",
@@ -111182,6 +112433,7 @@
    "ug-parameter-setting-adverb-acquisition": "ug-parameter-setting-adverb-acquisition",
    "understand-solve-check-problem-solving-model": "understand-solve-check-problem-solving-model",
    "unified-rc-lc-subskills-taxonomy": "unified-rc-lc-subskills-taxonomy",
+   "unitary-core-language-construct": "unitary-core-language-construct",
    "universal-versus-targeted-school-based-programs": "universal-versus-targeted-school-based-programs",
    "ur-four-modes-social-capital": "ur-four-modes-social-capital",
    "usage-based-constructional-development": "usage-based-constructional-development",

@@ -52,3 +52,4 @@ The claim rests on one narrative review read from its abstract, and the abstract
 - [Children acquiring a second language through immersion begin with formulaic utterances used as wholes, which are gradually analyzed into component words](formulaic-utterances-dominate-early-immersion-speech.md) — related
 - [Tasks with higher involvement load, involving search and evaluation, are conducive to better word retention, with marginal glosses efficient for incidental learning](involvement-load-tasks-improve-word-retention.md) — related
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
+- [Vocabulary-focused programs are probably insufficient to accelerate vocabulary development and close the vocabulary gap](vocabulary-programs-insufficient-to-close-vocabulary-gap.md) — related

@@ -44,3 +44,4 @@ Evidence summary of three qualifying first-grade studies with 1,501 students and
 
 ## Related Claims
 - [K-PALS shows statistically significant positive effects on Rapid Letter Sounds for kindergarten students in all three training-support conditions](pals-k-pals-significant-rapid-letter-sound-gains.md) — related
+- [Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — a broader claim this one bears on

@@ -49,3 +49,4 @@ Heterogeneity test across the 21 included studies, reported in Table 2. The sign
 - [Effect sizes across SRL intervention studies are highly heterogeneous, requiring a random effects model](srl-effect-sizes-heterogeneous-random-effects.md) — possibly the same claim (merge candidate)
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
 - [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](srl-strategies-large-effect-academic-achievement.md) — related
+- [Targeted school-based interventions have positive short-term effects on standardised reading and mathematics tests for K-6 students with or at risk of academic difficulties](targeted-k6-interventions-positive-short-term-effects.md) — related

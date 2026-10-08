@@ -41,6 +41,11 @@ The shared claim across all three models is that low-value technology integratio
 
 ## Claims
 
+## Related Theories
+
+- [SAMR model of technology integration (Substitution, Augmentation, Modification, Redefinition)](samr-model-technology-integration.md)
+- [TPACK framework (Technological, Pedagogical and Content Knowledge) for teacher technology integration](tpack-framework-teacher-technology-integration.md)
+
 ## Related Principles
 - [TPACK](tpack.md) — TPACK informs which technology, pedagogy, and content combination to choose; SAMR/RAT/PIC-RAT then evaluates the effect of that choice
 

@@ -44,6 +44,7 @@ The article prepares a taxonomy that, for the first time in its account, lists r
 ## Related Theories
 
 - [Taxonomy of macro- and micro-skills of listening comprehension](listening-macro-micro-skills-taxonomy.md)
+- [Unitary language construct: vocabulary, grammar, and listening comprehension reflect a common language factor](unitary-core-language-construct.md)
 
 ## Examples
 

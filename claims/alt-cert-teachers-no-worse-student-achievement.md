@@ -50,3 +50,5 @@ Mathematica's random assignment study of alternative routes to teacher certifica
 - [An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement](clark-2015-elementary-tfa-indeterminate.md) — a narrower finding that bears on this claim
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — related
+- [Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading](tfa-experimental-studies-positive-math-no-reading-effect.md) — related
+- [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](tfa-small-positive-early-elementary-reading-not-math.md) — related

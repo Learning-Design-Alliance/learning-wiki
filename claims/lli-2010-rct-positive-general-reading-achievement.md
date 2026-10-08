@@ -50,3 +50,4 @@ Randomized controlled trial of LLI for grades K–2 in nine rural and suburban s
 - [LLI improves reading outcomes for struggling K-2 readers with an average effect size of +0.13 across two studies](lli-average-effect-size-013-two-studies.md) — related
 - [In a randomized study in rural and suburban Georgia and New York, LLI produced an average effect size of +0.17 across five DIBELS scales with significant differences on Non-Word Fluency and Oral Reading Fluency](lli-georgia-new-york-rct-dibels-017.md) — related
 - [Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced](lli-teacher-perceptions-positive-with-pacing-concerns.md) — related
+- [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — related

@@ -76,3 +76,4 @@ Participants were randomly assigned to one of three groups, and all of them lear
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — encoding quality sets the ceiling on what consolidation can strengthen, so exercise timing interacts with how material is structured
 - [Exercise Increases Hippocampal Volume](exercise-increases-hippocampal-volume.md) — related
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
+- [Whether timing, intensity, and duration of class size reduction moderate its effect remains an open question in the literature the review synthesises](timing-intensity-duration-moderators-open-question.md) — related

@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 5087,
+  "claims->claims": 5178,
   "claims->designs": 13,
   "claims->elements": 108,
   "claims->learner-variables": 1,
@@ -15,15 +15,15 @@
   "designs->patterns": 22,
   "designs->principles": 10,
   "designs->theories": 21,
-  "elements->claims": 948,
+  "elements->claims": 955,
   "elements->designs": 2,
-  "elements->elements": 843,
+  "elements->elements": 848,
   "elements->learner-variables": 1,
   "elements->methods": 1,
   "elements->patterns": 248,
   "elements->principles": 315,
   "elements->processes": 1,
-  "elements->theories": 218,
+  "elements->theories": 223,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -69,14 +69,14 @@
   "strategies->principles": 1735,
   "strategies->processes": 9,
   "strategies->theories": 684,
-  "theories->claims": 861,
-  "theories->designs": 60,
-  "theories->elements": 198,
+  "theories->claims": 877,
+  "theories->designs": 61,
+  "theories->elements": 201,
   "theories->methods": 14,
-  "theories->patterns": 65,
-  "theories->principles": 215,
+  "theories->patterns": 66,
+  "theories->principles": 217,
   "theories->processes": 7,
-  "theories->theories": 725
+  "theories->theories": 736
  },
  "edges": {
   "claims": {
@@ -355,6 +355,9 @@
      },
      {
       "slug": "mdc-articulation-null-correlates-paternal-factors"
+     },
+     {
+      "slug": "mobile-device-moderators-insufficient-evidence"
      },
      {
       "slug": "no-clear-pattern-characteristics-and-effectiveness"
@@ -1200,6 +1203,9 @@
      },
      {
       "slug": "lovaas-model-evidence-base-small-two-studies"
+     },
+     {
+      "slug": "no-rigorous-evaluations-trauma-informed-schools"
      },
      {
       "slug": "pals-evidence-base-single-rct-reservations"
@@ -4345,6 +4351,9 @@
      },
      {
       "slug": "physical-experience-enhances-science-learning"
+     },
+     {
+      "slug": "timing-intensity-duration-moderators-open-question"
      }
     ],
     "elements": [
@@ -6866,7 +6875,13 @@
       "slug": "teacher-characteristics-differ-by-certification-route"
      },
      {
+      "slug": "tfa-experimental-studies-positive-math-no-reading-effect"
+     },
+     {
       "slug": "tfa-positive-mathematics-achievement-effects"
+     },
+     {
+      "slug": "tfa-small-positive-early-elementary-reading-not-math"
      },
      {
       "slug": "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification"
@@ -6879,6 +6894,11 @@
      {
       "polarity": "+",
       "slug": "mathematica-alt-cert-random-assignment-study",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "teach-for-america-program-element",
       "strength": "W"
      }
     ]
@@ -6995,6 +7015,22 @@
       "polarity": "+",
       "slug": "taxonomy-of-process-education-self-growth",
       "strength": "W"
+     }
+    ]
+   },
+   "amstar2-funding-and-rob-impact-least-addressed": {
+    "claims": [
+     {
+      "slug": "campbell-reviews-prisma-completeness"
+     },
+     {
+      "slug": "campbell-reviews-quality-distribution-amstar2"
+     },
+     {
+      "slug": "cochrane-campbell-coregistration-higher-quality"
+     },
+     {
+      "slug": "meccir-post-reviews-higher-amstar2-quality"
      }
     ]
    },
@@ -7504,6 +7540,29 @@
      {
       "polarity": "+",
       "slug": "utaut-four-constructs-lms-acceptance-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "annevelink-personalised-instruction-path-test": {
+    "claims": [
+     {
+      "slug": "feedback-addressing-task-improves-learning"
+     },
+     {
+      "slug": "feedback-most-effective-at-task-and-process-levels"
+     },
+     {
+      "slug": "feedback-praise-reduces-learning"
+     },
+     {
+      "slug": "structured-discussion-methods-improve-comprehension"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "anderson-causal-model-class-size-achievement",
       "strength": "M"
      }
     ]
@@ -19529,6 +19588,9 @@
       "slug": "emotion-labeling-improves-regulation"
      },
      {
+      "slug": "exclusion-type-moderates-intervention-effect"
+     },
+     {
       "slug": "formal-discipline-plan-increases-teacher-control-and-competence"
      },
      {
@@ -19868,6 +19930,13 @@
       "polarity": "+",
       "slug": "warm-demander-pedagogy",
       "strength": "S"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "exclusion-intervention-theories-of-change",
+      "strength": "W"
      }
     ]
    },
@@ -21151,6 +21220,44 @@
       "polarity": "+",
       "slug": "cummins-bics-calp-distinction",
       "strength": "W"
+     }
+    ]
+   },
+   "campbell-reviews-prisma-completeness": {
+    "claims": [
+     {
+      "slug": "amstar2-funding-and-rob-impact-least-addressed"
+     },
+     {
+      "slug": "campbell-reviews-quality-distribution-amstar2"
+     },
+     {
+      "slug": "cochrane-campbell-coregistration-higher-quality"
+     },
+     {
+      "slug": "coregistration-more-prisma-items"
+     },
+     {
+      "slug": "meccir-post-reviews-higher-amstar2-quality"
+     },
+     {
+      "slug": "meccir-post-reviews-more-prisma-items"
+     }
+    ]
+   },
+   "campbell-reviews-quality-distribution-amstar2": {
+    "claims": [
+     {
+      "slug": "amstar2-funding-and-rob-impact-least-addressed"
+     },
+     {
+      "slug": "campbell-reviews-prisma-completeness"
+     },
+     {
+      "slug": "cochrane-campbell-coregistration-higher-quality"
+     },
+     {
+      "slug": "meccir-post-reviews-higher-amstar2-quality"
      }
     ]
    },
@@ -23425,6 +23532,9 @@
      },
      {
       "slug": "check-and-connect-still-enrolled-supplemental"
+     },
+     {
+      "slug": "dropout-programs-or-163-completion"
      }
     ],
     "elements": [
@@ -23448,6 +23558,9 @@
      },
      {
       "slug": "check-and-connect-still-enrolled-supplemental"
+     },
+     {
+      "slug": "dropout-programs-or-163-completion"
      }
     ],
     "elements": [
@@ -23471,6 +23584,9 @@
      },
      {
       "slug": "check-and-connect-still-enrolled-supplemental"
+     },
+     {
+      "slug": "dropout-programs-or-163-completion"
      }
     ],
     "elements": [
@@ -23500,6 +23616,9 @@
      },
      {
       "slug": "check-and-connect-still-enrolled-supplemental"
+     },
+     {
+      "slug": "dropout-programs-or-163-completion"
      }
     ],
     "elements": [
@@ -23523,6 +23642,9 @@
      },
      {
       "slug": "check-and-connect-reduces-dropout-staying-in-school"
+     },
+     {
+      "slug": "dropout-programs-or-163-completion"
      }
     ],
     "elements": [
@@ -28941,6 +29063,12 @@
       "slug": "kipp-rct-lottery-positive-effects"
      },
      {
+      "slug": "tfa-corps-no-significant-reading-effect-elementary"
+     },
+     {
+      "slug": "tfa-experimental-studies-positive-math-no-reading-effect"
+     },
+     {
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
      },
      {
@@ -28987,10 +29115,16 @@
       "slug": "clark-2013-tfa-secondary-math-rct-positive"
      },
      {
+      "slug": "tfa-corps-no-significant-reading-effect-elementary"
+     },
+     {
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
      },
      {
       "slug": "tfa-positive-mathematics-achievement-effects"
+     },
+     {
+      "slug": "tfa-small-positive-early-elementary-reading-not-math"
      },
      {
       "slug": "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification"
@@ -29387,6 +29521,37 @@
      }
     ]
    },
+   "class-size-reduction-negative-nonsignificant-math-effect": {
+    "claims": [
+     {
+      "slug": "class-size-reduction-small-positive-reading-effect"
+     },
+     {
+      "slug": "star-studies-positive-small-effects-reading-math"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "-",
+      "slug": "anderson-causal-model-class-size-achievement",
+      "strength": "W"
+     }
+    ]
+   },
+   "class-size-reduction-small-positive-reading-effect": {
+    "claims": [
+     {
+      "slug": "class-size-reduction-negative-nonsignificant-math-effect"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "anderson-causal-model-class-size-achievement",
+      "strength": "W"
+     }
+    ]
+   },
    "class-size-significant-wtc-difference-iranian-efl": {
     "claims": [
      {
@@ -29426,6 +29591,19 @@
       "polarity": "-",
       "slug": "kagan-structural-approach-kcls",
       "strength": "M"
+     }
+    ]
+   },
+   "class-size-studies-excluded-high-risk-confounding": {
+    "claims": [
+     {
+      "slug": "inclusion-evidence-low-quality-serious-risk-of-bias"
+     },
+     {
+      "slug": "mobile-device-review-risk-of-bias-concerns"
+     },
+     {
+      "slug": "seven-studies-only-special-education-class-size-review"
      }
     ]
    },
@@ -31308,6 +31486,28 @@
      },
      {
       "slug": "organization-simulation-knowledge-practices-support-interdisciplinary-learning"
+     }
+    ]
+   },
+   "cochrane-campbell-coregistration-higher-quality": {
+    "claims": [
+     {
+      "slug": "amstar2-funding-and-rob-impact-least-addressed"
+     },
+     {
+      "slug": "campbell-reviews-prisma-completeness"
+     },
+     {
+      "slug": "campbell-reviews-quality-distribution-amstar2"
+     },
+     {
+      "slug": "coregistration-more-prisma-items"
+     },
+     {
+      "slug": "meccir-post-reviews-higher-amstar2-quality"
+     },
+     {
+      "slug": "meccir-post-reviews-more-prisma-items"
      }
     ]
    },
@@ -38184,6 +38384,9 @@
       "slug": "dialogue-journals-meet-sla-conditions"
      },
      {
+      "slug": "differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening"
+     },
+     {
       "slug": "extensive-reading-improves-grammar-and-writing-style"
      },
      {
@@ -39728,6 +39931,41 @@
       "polarity": "+",
       "slug": "perspective-consciousness-hanvey",
       "strength": "W"
+     }
+    ]
+   },
+   "content-domain-effects-similar-range": {
+    "claims": [
+     {
+      "slug": "content-domain-little-effect-fractions-exception"
+     },
+     {
+      "slug": "lli-2010-rct-positive-general-reading-achievement"
+     },
+     {
+      "slug": "lli-georgia-new-york-rct-dibels-017"
+     },
+     {
+      "slug": "lli-no-discernible-alphabetics-effects"
+     },
+     {
+      "slug": "smart-comprehension-nonsignificant-substantive-average"
+     },
+     {
+      "slug": "structured-literacy-interventions-help-struggling-readers"
+     }
+    ]
+   },
+   "content-domain-little-effect-fractions-exception": {
+    "claims": [
+     {
+      "slug": "content-domain-effects-similar-range"
+     },
+     {
+      "slug": "math-test-effects-larger-than-reading"
+     },
+     {
+      "slug": "peer-small-group-outperform-other-methods"
      }
     ]
    },
@@ -42703,6 +42941,22 @@
      }
     ]
    },
+   "coregistration-more-prisma-items": {
+    "claims": [
+     {
+      "slug": "campbell-reviews-prisma-completeness"
+     },
+     {
+      "slug": "cochrane-campbell-coregistration-higher-quality"
+     },
+     {
+      "slug": "meccir-post-reviews-higher-amstar2-quality"
+     },
+     {
+      "slug": "meccir-post-reviews-more-prisma-items"
+     }
+    ]
+   },
    "cornelius-2013-significant-positive-effect-star-math": {
     "claims": [
      {
@@ -44980,6 +45234,9 @@
      },
      {
       "slug": "cw-fit-reduces-disruptive-behaviors-wills-2016"
+     },
+     {
+      "slug": "sm-group-design-main-effect-g063"
      }
     ],
     "elements": [
@@ -47829,6 +48086,185 @@
      }
     ]
    },
+   "deployment-effect-no-difference-branch-duty-status": {
+    "claims": [
+     {
+      "slug": "deployment-high-combat-exposure-long-term-ptsd-depression"
+     },
+     {
+      "slug": "deployment-long-term-higher-odds-four-mental-health-domains"
+     },
+     {
+      "slug": "deployment-long-term-prevalence-ranges-exceed-baseline"
+     },
+     {
+      "slug": "deployment-meta-analysis-robust-sensitivity"
+     },
+     {
+      "slug": "deployment-short-term-evidence-inconclusive"
+     },
+     {
+      "slug": "deployment-substance-use-null-variable-timepoints"
+     },
+     {
+      "slug": "deployment-variable-timepoints-ptsd-depression-significant"
+     }
+    ]
+   },
+   "deployment-high-combat-exposure-long-term-ptsd-depression": {
+    "claims": [
+     {
+      "slug": "deployment-effect-no-difference-branch-duty-status"
+     },
+     {
+      "slug": "deployment-long-term-higher-odds-four-mental-health-domains"
+     },
+     {
+      "slug": "deployment-long-term-prevalence-ranges-exceed-baseline"
+     },
+     {
+      "slug": "deployment-short-term-evidence-inconclusive"
+     },
+     {
+      "slug": "deployment-variable-timepoints-ptsd-depression-significant"
+     }
+    ]
+   },
+   "deployment-long-term-higher-odds-four-mental-health-domains": {
+    "claims": [
+     {
+      "slug": "deployment-effect-no-difference-branch-duty-status"
+     },
+     {
+      "slug": "deployment-high-combat-exposure-long-term-ptsd-depression"
+     },
+     {
+      "slug": "deployment-long-term-prevalence-ranges-exceed-baseline"
+     },
+     {
+      "slug": "deployment-meta-analysis-robust-sensitivity"
+     },
+     {
+      "slug": "deployment-short-term-evidence-inconclusive"
+     },
+     {
+      "slug": "deployment-substance-use-null-variable-timepoints"
+     },
+     {
+      "slug": "deployment-variable-timepoints-ptsd-depression-significant"
+     }
+    ]
+   },
+   "deployment-long-term-prevalence-ranges-exceed-baseline": {
+    "claims": [
+     {
+      "slug": "deployment-effect-no-difference-branch-duty-status"
+     },
+     {
+      "slug": "deployment-high-combat-exposure-long-term-ptsd-depression"
+     },
+     {
+      "slug": "deployment-long-term-higher-odds-four-mental-health-domains"
+     },
+     {
+      "slug": "deployment-meta-analysis-robust-sensitivity"
+     },
+     {
+      "slug": "deployment-short-term-evidence-inconclusive"
+     },
+     {
+      "slug": "deployment-substance-use-null-variable-timepoints"
+     },
+     {
+      "slug": "deployment-variable-timepoints-ptsd-depression-significant"
+     }
+    ]
+   },
+   "deployment-meta-analysis-robust-sensitivity": {
+    "claims": [
+     {
+      "slug": "deployment-effect-no-difference-branch-duty-status"
+     },
+     {
+      "slug": "deployment-long-term-higher-odds-four-mental-health-domains"
+     },
+     {
+      "slug": "deployment-long-term-prevalence-ranges-exceed-baseline"
+     },
+     {
+      "slug": "deployment-short-term-evidence-inconclusive"
+     }
+    ]
+   },
+   "deployment-short-term-evidence-inconclusive": {
+    "claims": [
+     {
+      "slug": "deployment-effect-no-difference-branch-duty-status"
+     },
+     {
+      "slug": "deployment-high-combat-exposure-long-term-ptsd-depression"
+     },
+     {
+      "slug": "deployment-long-term-higher-odds-four-mental-health-domains"
+     },
+     {
+      "slug": "deployment-long-term-prevalence-ranges-exceed-baseline"
+     },
+     {
+      "slug": "deployment-meta-analysis-robust-sensitivity"
+     },
+     {
+      "slug": "deployment-substance-use-null-variable-timepoints"
+     },
+     {
+      "slug": "deployment-variable-timepoints-ptsd-depression-significant"
+     },
+     {
+      "slug": "inclusion-effects-heterogeneous-moderator-analyses-inconclusive"
+     }
+    ]
+   },
+   "deployment-substance-use-null-variable-timepoints": {
+    "claims": [
+     {
+      "slug": "deployment-effect-no-difference-branch-duty-status"
+     },
+     {
+      "slug": "deployment-long-term-higher-odds-four-mental-health-domains"
+     },
+     {
+      "slug": "deployment-long-term-prevalence-ranges-exceed-baseline"
+     },
+     {
+      "slug": "deployment-short-term-evidence-inconclusive"
+     },
+     {
+      "slug": "deployment-variable-timepoints-ptsd-depression-significant"
+     }
+    ]
+   },
+   "deployment-variable-timepoints-ptsd-depression-significant": {
+    "claims": [
+     {
+      "slug": "deployment-effect-no-difference-branch-duty-status"
+     },
+     {
+      "slug": "deployment-high-combat-exposure-long-term-ptsd-depression"
+     },
+     {
+      "slug": "deployment-long-term-higher-odds-four-mental-health-domains"
+     },
+     {
+      "slug": "deployment-long-term-prevalence-ranges-exceed-baseline"
+     },
+     {
+      "slug": "deployment-short-term-evidence-inconclusive"
+     },
+     {
+      "slug": "deployment-substance-use-null-variable-timepoints"
+     }
+    ]
+   },
    "depression-decisive-factor-refugee-language-learning": {
     "claims": [
      {
@@ -49158,6 +49594,35 @@
      {
       "polarity": "+",
       "slug": "latent-interpretation-classes-framework",
+      "strength": "M"
+     }
+    ]
+   },
+   "differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening": {
+    "claims": [
+     {
+      "slug": "comprehensible-input-insufficient-grammar-acquisition"
+     },
+     {
+      "slug": "form-focused-input-manipulation-illusory-for-competence"
+     },
+     {
+      "slug": "instruction-little-effect-on-route-of-acquisition"
+     },
+     {
+      "slug": "linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect"
+     },
+     {
+      "slug": "linguistic-comprehension-instruction-small-immediate-generalized-effect"
+     },
+     {
+      "slug": "repetitive-drill-grammar-focus-ineffective"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "unitary-core-language-construct",
       "strength": "M"
      }
     ]
@@ -51437,6 +51902,59 @@
      }
     ]
    },
+   "dropout-program-effects-heterogeneous": {
+    "claims": [
+     {
+      "slug": "dropout-programs-or-163-completion"
+     },
+     {
+      "slug": "implementation-duration-community-moderators"
+     }
+    ]
+   },
+   "dropout-program-type-effectiveness": {
+    "claims": [
+     {
+      "slug": "implementation-duration-community-moderators"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dropout-program-type-taxonomy",
+      "strength": "M"
+     }
+    ]
+   },
+   "dropout-programs-or-163-completion": {
+    "claims": [
+     {
+      "slug": "check-and-connect-fifth-year-completion-null"
+     },
+     {
+      "slug": "check-and-connect-increases-credits-progressing"
+     },
+     {
+      "slug": "check-and-connect-no-effect-on-time-completion"
+     },
+     {
+      "slug": "check-and-connect-reduces-dropout-staying-in-school"
+     },
+     {
+      "slug": "check-and-connect-still-enrolled-supplemental"
+     },
+     {
+      "slug": "dropout-program-effects-heterogeneous"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dropout-program-type-taxonomy",
+      "strength": "M"
+     }
+    ]
+   },
    "dst-sct-incommensurable-language-adaptable-system": {
     "claims": [
      {
@@ -52085,6 +52603,9 @@
      },
      {
       "slug": "little-books-evidence-base-small-one-domain"
+     },
+     {
+      "slug": "no-rigorous-evaluations-trauma-informed-schools"
      },
      {
       "slug": "oli-three-of-twelve-studies-meet-wwc-standards"
@@ -59653,6 +60174,29 @@
      }
     ]
    },
+   "exclusion-type-moderates-intervention-effect": {
+    "claims": [
+     {
+      "slug": "brief-intervention-empathic-discipline-cuts-suspensions"
+     },
+     {
+      "slug": "positive-greetings-at-the-door-improve-engagement"
+     },
+     {
+      "slug": "same-infractions-black-disabilities-more-suspensions"
+     },
+     {
+      "slug": "school-based-interventions-small-significant-reduction-exclusion"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "exclusion-intervention-theories-of-change",
+      "strength": "W"
+     }
+    ]
+   },
    "exercise-increases-hippocampal-volume": {
     "claims": [
      {
@@ -65062,6 +65606,9 @@
    "feedback-addressing-task-improves-learning": {
     "claims": [
      {
+      "slug": "annevelink-personalised-instruction-path-test"
+     },
+     {
       "slug": "errors-as-feedback-fossilization-risk"
      },
      {
@@ -65594,6 +66141,9 @@
    },
    "feedback-most-effective-at-task-and-process-levels": {
     "claims": [
+     {
+      "slug": "annevelink-personalised-instruction-path-test"
+     },
      {
       "slug": "errors-as-feedback-fossilization-risk"
      },
@@ -67787,6 +68337,9 @@
    "feedback-praise-reduces-learning": {
     "claims": [
      {
+      "slug": "annevelink-personalised-instruction-path-test"
+     },
+     {
       "slug": "extrinsic-rewards-undermine-intrinsic-motivation-argument"
      },
      {
@@ -68424,6 +68977,9 @@
      },
      {
       "slug": "fhao-three-of-seven-outcomes-favor-program"
+     },
+     {
+      "slug": "sm-group-design-main-effect-g063"
      },
      {
       "slug": "tgfdv-intentions-null-results"
@@ -69425,6 +69981,111 @@
      }
     ]
    },
+   "flipped-classroom-evidence-base-rct-shortage-high-bias": {
+    "claims": [
+     {
+      "slug": "flipped-classroom-improves-academic-performance-hpe"
+     },
+     {
+      "slug": "flipped-classroom-student-satisfaction-positive"
+     },
+     {
+      "slug": "risk-of-bias-varies-by-study-design"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "flipped-classroom-hpe-review-corpus-45-studies",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "flipped-classroom-definition-blended-learning",
+      "strength": "W"
+     }
+    ]
+   },
+   "flipped-classroom-improves-academic-performance-hpe": {
+    "claims": [
+     {
+      "slug": "flipped-classroom-evidence-base-rct-shortage-high-bias"
+     },
+     {
+      "slug": "flipped-classroom-performance-sensitivity-imputed-data"
+     },
+     {
+      "slug": "flipped-classroom-student-satisfaction-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "flipped-classroom-hpe-review-corpus-45-studies",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "flipped-classroom-definition-blended-learning",
+      "strength": "W"
+     }
+    ]
+   },
+   "flipped-classroom-performance-sensitivity-imputed-data": {
+    "claims": [
+     {
+      "slug": "flipped-classroom-improves-academic-performance-hpe"
+     },
+     {
+      "slug": "flipped-classroom-student-satisfaction-positive"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "flipped-classroom-hpe-review-corpus-45-studies",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "flipped-classroom-definition-blended-learning",
+      "strength": "W"
+     }
+    ]
+   },
+   "flipped-classroom-student-satisfaction-positive": {
+    "claims": [
+     {
+      "slug": "flipped-classroom-evidence-base-rct-shortage-high-bias"
+     },
+     {
+      "slug": "flipped-classroom-improves-academic-performance-hpe"
+     },
+     {
+      "slug": "flipped-classroom-performance-sensitivity-imputed-data"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "flipped-classroom-hpe-review-corpus-45-studies",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "flipped-classroom-definition-blended-learning",
+      "strength": "W"
+     }
+    ]
+   },
    "flow-control-unused-no-learning-correlation": {
     "claims": [
      {
@@ -69871,6 +70532,9 @@
       "slug": "comprehensible-input-insufficient-grammar-acquisition"
      },
      {
+      "slug": "differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening"
+     },
+     {
       "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
      },
      {
@@ -70076,6 +70740,13 @@
       "polarity": "+",
       "slug": "four-imperatives-conceptual-framework-building",
       "strength": "W"
+     }
+    ]
+   },
+   "formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire": {
+    "claims": [
+     {
+      "slug": "vocabulary-programs-insufficient-to-close-vocabulary-gap"
      }
     ]
    },
@@ -70319,6 +70990,23 @@
      {
       "polarity": "+",
       "slug": "assess-hll-nhll-listening-differences-first",
+      "strength": "W"
+     }
+    ]
+   },
+   "four-implementation-themes-exclusion-interventions": {
+    "claims": [
+     {
+      "slug": "sel-programs-improve-behavior-and-achievement"
+     },
+     {
+      "slug": "shared-mission-vision-goals-critical-districts-cmos"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "exclusion-intervention-theories-of-change",
       "strength": "W"
      }
     ]
@@ -73768,6 +74456,20 @@
      }
     ]
    },
+   "gottlieb-1997-group-size-increase-lowered-reading-scores": {
+    "claims": [
+     {
+      "slug": "tep-student-population-comparable-to-neighborhood-schools"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "class-size-mechanism-special-education-framework",
+      "strength": "W"
+     }
+    ]
+   },
    "governance-centralization-not-caused-by-unionization": {
     "claims": [
      {
@@ -73957,6 +74659,16 @@
       "polarity": "+",
       "slug": "criterion-referenced-mastery-testing-gentile",
       "strength": "M"
+     }
+    ]
+   },
+   "grade-level-moderates-effect-size": {
+    "claims": [
+     {
+      "slug": "math-test-effects-larger-than-reading"
+     },
+     {
+      "slug": "sm-effects-not-moderated-intervention-characteristics"
      }
     ]
    },
@@ -80822,6 +81534,26 @@
      }
     ]
    },
+   "implementation-duration-community-moderators": {
+    "claims": [
+     {
+      "slug": "dropout-program-effects-heterogeneous"
+     },
+     {
+      "slug": "dropout-program-type-effectiveness"
+     },
+     {
+      "slug": "method-variables-smaller-dropout-effects"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dropout-program-type-taxonomy",
+      "strength": "M"
+     }
+    ]
+   },
    "implementation-intentions-improve-goal-attainment": {
     "patterns": [
      {
@@ -81375,6 +82107,120 @@
       "polarity": "+",
       "slug": "word-text-learner-incidental-factors-framework",
       "strength": "W"
+     }
+    ]
+   },
+   "inclusion-effects-heterogeneous-moderator-analyses-inconclusive": {
+    "claims": [
+     {
+      "slug": "deployment-short-term-evidence-inconclusive"
+     },
+     {
+      "slug": "inclusion-general-no-increase-or-decrease-learning-psychosocial"
+     },
+     {
+      "slug": "method-approach-effect-sizes-vary-analogy-largest"
+     },
+     {
+      "slug": "mobile-device-moderators-insufficient-evidence"
+     },
+     {
+      "slug": "planned-meta-analysis-unavailable-single-study"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "inclusion-mechanisms-stigmatisation-peer-effects-individualisation",
+      "strength": "M"
+     }
+    ]
+   },
+   "inclusion-evidence-low-quality-serious-risk-of-bias": {
+    "claims": [
+     {
+      "slug": "class-size-studies-excluded-high-risk-confounding"
+     },
+     {
+      "slug": "inclusion-general-no-increase-or-decrease-learning-psychosocial"
+     },
+     {
+      "slug": "risk-of-bias-varies-by-study-design"
+     },
+     {
+      "slug": "sble-evidence-base-no-randomized-studies-high-risk-bias"
+     },
+     {
+      "slug": "seven-studies-only-special-education-class-size-review"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "inclusion-mechanisms-stigmatisation-peer-effects-individualisation",
+      "strength": "W"
+     }
+    ]
+   },
+   "inclusion-general-no-increase-or-decrease-learning-psychosocial": {
+    "claims": [
+     {
+      "slug": "inclusion-effects-heterogeneous-moderator-analyses-inconclusive"
+     },
+     {
+      "slug": "inclusion-evidence-low-quality-serious-risk-of-bias"
+     },
+     {
+      "slug": "inclusion-psychosocial-adjustment-smd-020-nonsignificant"
+     },
+     {
+      "slug": "prior-inclusion-reviews-equivocal-wang-baker-033"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "inclusion-mechanisms-stigmatisation-peer-effects-individualisation",
+      "strength": "M"
+     }
+    ]
+   },
+   "inclusion-language-literacy-smd-004-nonsignificant": {
+    "claims": [
+     {
+      "slug": "inclusion-math-outcomes-smd-005-nonsignificant"
+     },
+     {
+      "slug": "inclusion-psychosocial-adjustment-smd-020-nonsignificant"
+     }
+    ]
+   },
+   "inclusion-math-outcomes-smd-005-nonsignificant": {
+    "claims": [
+     {
+      "slug": "inclusion-language-literacy-smd-004-nonsignificant"
+     },
+     {
+      "slug": "inclusion-psychosocial-adjustment-smd-020-nonsignificant"
+     }
+    ]
+   },
+   "inclusion-psychosocial-adjustment-smd-020-nonsignificant": {
+    "claims": [
+     {
+      "slug": "inclusion-general-no-increase-or-decrease-learning-psychosocial"
+     },
+     {
+      "slug": "inclusion-language-literacy-smd-004-nonsignificant"
+     },
+     {
+      "slug": "inclusion-math-outcomes-smd-005-nonsignificant"
+     },
+     {
+      "slug": "planned-meta-analysis-unavailable-single-study"
+     },
+     {
+      "slug": "prior-inclusion-reviews-equivocal-wang-baker-033"
      }
     ]
    },
@@ -82304,6 +83150,9 @@
     "claims": [
      {
       "slug": "comprehensible-input-insufficient-grammar-acquisition"
+     },
+     {
+      "slug": "differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening"
      },
      {
       "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
@@ -92347,6 +93196,50 @@
      }
     ]
    },
+   "linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect": {
+    "claims": [
+     {
+      "slug": "differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening"
+     },
+     {
+      "slug": "linguistic-comprehension-instruction-small-immediate-generalized-effect"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "simple-view-of-reading-gough-tunmer",
+      "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "unitary-core-language-construct",
+      "strength": "W"
+     }
+    ]
+   },
+   "linguistic-comprehension-instruction-small-immediate-generalized-effect": {
+    "claims": [
+     {
+      "slug": "differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening"
+     },
+     {
+      "slug": "linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "simple-view-of-reading-gough-tunmer",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "unitary-core-language-construct",
+      "strength": "W"
+     }
+    ]
+   },
    "linguistic-intelligence-dominates-elt-textbooks": {
     "claims": [
      {
@@ -93324,6 +94217,9 @@
    "lli-2010-rct-positive-general-reading-achievement": {
     "claims": [
      {
+      "slug": "content-domain-effects-similar-range"
+     },
+     {
       "slug": "lli-2010-positive-reading-fluency"
      },
      {
@@ -93452,6 +94348,9 @@
       "slug": "a2i-average-effect-size-023-strong-rating"
      },
      {
+      "slug": "content-domain-effects-similar-range"
+     },
+     {
       "slug": "lli-2010-positive-reading-fluency"
      },
      {
@@ -93518,6 +94417,9 @@
    },
    "lli-no-discernible-alphabetics-effects": {
     "claims": [
+     {
+      "slug": "content-domain-effects-similar-range"
+     },
      {
       "slug": "journeys-positive-effects-itbs-k-2"
      },
@@ -94304,6 +95206,22 @@
       "polarity": "+",
       "slug": "schochet-sample-size-approach-binary-outcomes-rcts",
       "strength": "W"
+     }
+    ]
+   },
+   "long-run-effects-null-seven-studies": {
+    "claims": [
+     {
+      "slug": "reading-curricula-no-impacts-one-year-after-implementation"
+     },
+     {
+      "slug": "spellread-one-year-followup-not-significant"
+     },
+     {
+      "slug": "targeted-k6-interventions-followup-fadeout"
+     },
+     {
+      "slug": "targeted-secondary-interventions-positive-short-run-effects"
      }
     ]
    },
@@ -95156,6 +96074,9 @@
      },
      {
       "slug": "pennsylvania-citizenship-scores-declined-1974-1976"
+     },
+     {
+      "slug": "secondary-behavioural-outcomes-negligible-nonsignificant"
      },
      {
       "slug": "service-learning-improves-civic-and-personal-outcomes"
@@ -97267,6 +98188,25 @@
      }
     ]
    },
+   "math-test-effects-larger-than-reading": {
+    "claims": [
+     {
+      "slug": "content-domain-little-effect-fractions-exception"
+     },
+     {
+      "slug": "grade-level-moderates-effect-size"
+     },
+     {
+      "slug": "peer-small-group-outperform-other-methods"
+     },
+     {
+      "slug": "targeted-k6-interventions-positive-short-term-effects"
+     },
+     {
+      "slug": "targeted-secondary-interventions-positive-short-run-effects"
+     }
+    ]
+   },
    "math-vocabulary-levels-improve-post-test": {
     "claims": [
      {
@@ -97826,6 +98766,44 @@
       "polarity": "+",
       "slug": "menu-of-measures-middle-grades-math",
       "strength": "W"
+     }
+    ]
+   },
+   "meccir-post-reviews-higher-amstar2-quality": {
+    "claims": [
+     {
+      "slug": "amstar2-funding-and-rob-impact-least-addressed"
+     },
+     {
+      "slug": "campbell-reviews-prisma-completeness"
+     },
+     {
+      "slug": "campbell-reviews-quality-distribution-amstar2"
+     },
+     {
+      "slug": "cochrane-campbell-coregistration-higher-quality"
+     },
+     {
+      "slug": "coregistration-more-prisma-items"
+     },
+     {
+      "slug": "meccir-post-reviews-more-prisma-items"
+     }
+    ]
+   },
+   "meccir-post-reviews-more-prisma-items": {
+    "claims": [
+     {
+      "slug": "campbell-reviews-prisma-completeness"
+     },
+     {
+      "slug": "cochrane-campbell-coregistration-higher-quality"
+     },
+     {
+      "slug": "coregistration-more-prisma-items"
+     },
+     {
+      "slug": "meccir-post-reviews-higher-amstar2-quality"
      }
     ]
    },
@@ -99330,6 +100308,9 @@
      },
      {
       "slug": "deliberate-practice-improves-performance"
+     },
+     {
+      "slug": "risk-of-bias-varies-by-study-design"
      }
     ],
     "methods": [
@@ -99810,6 +100791,9 @@
       "slug": "di-medium-positive-effect-academic-achievement"
      },
      {
+      "slug": "inclusion-effects-heterogeneous-moderator-analyses-inconclusive"
+     },
+     {
       "slug": "pbl-large-positive-effect-academic-achievement"
      }
     ],
@@ -99857,6 +100841,20 @@
       "polarity": "+",
       "slug": "mead-social-origin-of-reflective-consciousness",
       "strength": "W"
+     }
+    ]
+   },
+   "method-variables-smaller-dropout-effects": {
+    "claims": [
+     {
+      "slug": "implementation-duration-community-moderators"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "dropout-program-type-taxonomy",
+      "strength": "M"
      }
     ]
    },
@@ -101518,6 +102516,69 @@
       "polarity": "+",
       "slug": "text_illustrations_with_graphic_organizers",
       "strength": "M"
+     }
+    ]
+   },
+   "mobile-device-moderators-insufficient-evidence": {
+    "claims": [
+     {
+      "slug": "aac-perceptions-null-subgroup-associations"
+     },
+     {
+      "slug": "inclusion-effects-heterogeneous-moderator-analyses-inconclusive"
+     },
+     {
+      "slug": "mobile-devices-small-positive-effect-literacy-numeracy"
+     },
+     {
+      "slug": "sel-benefits-persist-follow-up"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "mobile-device-theory-of-change-four-elements",
+      "strength": "W"
+     }
+    ]
+   },
+   "mobile-device-review-risk-of-bias-concerns": {
+    "claims": [
+     {
+      "slug": "class-size-studies-excluded-high-risk-confounding"
+     },
+     {
+      "slug": "mobile-devices-small-positive-effect-literacy-numeracy"
+     },
+     {
+      "slug": "sble-evidence-base-no-randomized-studies-high-risk-bias"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "mobile-device-theory-of-change-four-elements",
+      "strength": "W"
+     }
+    ]
+   },
+   "mobile-devices-small-positive-effect-literacy-numeracy": {
+    "claims": [
+     {
+      "slug": "mobile-device-moderators-insufficient-evidence"
+     },
+     {
+      "slug": "mobile-device-review-risk-of-bias-concerns"
+     },
+     {
+      "slug": "prior-technology-meta-analyses-inconsistent-effects"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "mobile-device-theory-of-change-four-elements",
+      "strength": "W"
      }
     ]
    },
@@ -103192,6 +104253,9 @@
     "claims": [
      {
       "slug": "gced-potential-culture-of-peace"
+     },
+     {
+      "slug": "six-key-principles-trauma-informed-approach"
      },
      {
       "slug": "ssws-deficit-racial-attitudes"
@@ -104938,6 +106002,20 @@
      }
     ]
    },
+   "no-contemporary-quantitative-studies-special-education-class-size": {
+    "claims": [
+     {
+      "slug": "seven-studies-only-special-education-class-size-review"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "class-size-mechanism-special-education-framework",
+      "strength": "W"
+     }
+    ]
+   },
    "no-contextual-effect-institutional-deep-learning": {
     "claims": [
      {
@@ -105208,6 +106286,29 @@
      },
      {
       "slug": "tom-marginal-non-significant-semantic-fluency"
+     }
+    ]
+   },
+   "no-eligible-crc-studies-identified": {
+    "claims": [
+     {
+      "slug": "no-rigorous-evaluations-trauma-informed-schools"
+     },
+     {
+      "slug": "planned-meta-analysis-unavailable-single-study"
+     },
+     {
+      "slug": "rhs-improves-absenteeism-abstinence-drug-use-single-qed"
+     },
+     {
+      "slug": "seven-studies-only-special-education-class-size-review"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "collegiate-recovery-communities-element",
+      "strength": "W"
      }
     ]
    },
@@ -105898,6 +106999,37 @@
     "claims": [
      {
       "slug": "recasts-supported-but-effectiveness-varies"
+     }
+    ]
+   },
+   "no-rigorous-evaluations-trauma-informed-schools": {
+    "claims": [
+     {
+      "slug": "accelerated-reader-thin-evidence-base-318-studies"
+     },
+     {
+      "slug": "dual-language-evidence-base-thin-two-of-122"
+     },
+     {
+      "slug": "no-eligible-crc-studies-identified"
+     },
+     {
+      "slug": "oli-three-of-twelve-studies-meet-wwc-standards"
+     },
+     {
+      "slug": "planned-meta-analysis-unavailable-single-study"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "head-start-three-tier-trauma-informed-model",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "hearts-whole-school-program",
+      "strength": "W"
      }
     ]
    },
@@ -107377,6 +108509,11 @@
       "polarity": "+",
       "slug": "ogap-math-professional-learning-system",
       "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "teach-for-america-program-element",
+      "strength": "W"
      }
     ]
    },
@@ -107602,6 +108739,9 @@
      },
      {
       "slug": "head-start-evidence-base-single-rct"
+     },
+     {
+      "slug": "no-rigorous-evaluations-trauma-informed-schools"
      },
      {
       "slug": "oli-evidence-scope-postsecondary-populations"
@@ -108771,6 +109911,9 @@
      },
      {
       "slug": "rote-drills-disadvantage-older-learners"
+     },
+     {
+      "slug": "vocabulary-programs-insufficient-to-close-vocabulary-gap"
      }
     ]
    },
@@ -109988,6 +111131,9 @@
      },
      {
       "slug": "pals-strong-evidence-first-grade-literacy-es-023"
+     },
+     {
+      "slug": "peer-assisted-and-small-group-instruction-most-effective"
      }
     ],
     "elements": [
@@ -110170,6 +111316,9 @@
     "claims": [
      {
       "slug": "pals-k-pals-significant-rapid-letter-sound-gains"
+     },
+     {
+      "slug": "peer-assisted-and-small-group-instruction-most-effective"
      }
     ],
     "elements": [
@@ -112768,6 +113917,26 @@
      }
     ]
    },
+   "peer-assisted-and-small-group-instruction-most-effective": {
+    "claims": [
+     {
+      "slug": "pals-k-pals-significant-rapid-letter-sound-gains"
+     },
+     {
+      "slug": "pals-strong-evidence-first-grade-literacy-es-023"
+     },
+     {
+      "slug": "targeted-k6-interventions-positive-short-term-effects"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "three-perspectives-targeted-interventions",
+      "strength": "M"
+     }
+    ]
+   },
    "peer-assisted-learning-improves-achievement": {
     "claims": [
      {
@@ -112919,6 +114088,9 @@
     "claims": [
      {
       "slug": "dual-relationships-impair-peer-counsellor-judgement"
+     },
+     {
+      "slug": "six-key-principles-trauma-informed-approach"
      }
     ]
    },
@@ -113455,6 +114627,26 @@
       "polarity": "+",
       "slug": "ppi-panel-aac-review-stages",
       "strength": "W"
+     }
+    ]
+   },
+   "peer-small-group-outperform-other-methods": {
+    "claims": [
+     {
+      "slug": "content-domain-little-effect-fractions-exception"
+     },
+     {
+      "slug": "math-test-effects-larger-than-reading"
+     },
+     {
+      "slug": "small-group-instruction-outperforms-cai-incentives"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "three-perspectives-targeted-interventions",
+      "strength": "M"
      }
     ]
    },
@@ -115912,6 +117104,29 @@
      }
     ]
    },
+   "planned-meta-analysis-unavailable-single-study": {
+    "claims": [
+     {
+      "slug": "inclusion-effects-heterogeneous-moderator-analyses-inconclusive"
+     },
+     {
+      "slug": "inclusion-psychosocial-adjustment-smd-020-nonsignificant"
+     },
+     {
+      "slug": "no-eligible-crc-studies-identified"
+     },
+     {
+      "slug": "no-rigorous-evaluations-trauma-informed-schools"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "collegiate-recovery-communities-element",
+      "strength": "W"
+     }
+    ]
+   },
    "planning-in-test-contexts-mixed-effects": {
     "claims": [
      {
@@ -117322,6 +118537,9 @@
      },
      {
       "slug": "effective-classroom-management-engages-students-over-90-percent-of-time"
+     },
+     {
+      "slug": "exclusion-type-moderates-intervention-effect"
      },
      {
       "slug": "formal-discipline-plan-increases-teacher-control-and-competence"
@@ -119402,6 +120620,16 @@
      }
     ]
    },
+   "prior-inclusion-reviews-equivocal-wang-baker-033": {
+    "claims": [
+     {
+      "slug": "inclusion-general-no-increase-or-decrease-learning-psychosocial"
+     },
+     {
+      "slug": "inclusion-psychosocial-adjustment-smd-020-nonsignificant"
+     }
+    ]
+   },
    "prior-knowledge-activation-little-effect-on-retention": {
     "claims": [
      {
@@ -119827,6 +121055,34 @@
      {
       "polarity": "+",
       "slug": "direct-instruction-distar-reading-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "prior-review-larger-unsustained-effect": {
+    "claims": [
+     {
+      "slug": "school-based-interventions-small-significant-reduction-exclusion"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "exclusion-intervention-theories-of-change",
+      "strength": "W"
+     }
+    ]
+   },
+   "prior-technology-meta-analyses-inconsistent-effects": {
+    "claims": [
+     {
+      "slug": "mobile-devices-small-positive-effect-literacy-numeracy"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "mobile-device-theory-of-change-four-elements",
       "strength": "W"
      }
     ]
@@ -122511,6 +123767,13 @@
      }
     ]
    },
+   "proximal-outcomes-inflate-vocabulary-effect-sizes-in-prior-reviews": {
+    "claims": [
+     {
+      "slug": "vocabulary-instruction-improves-comprehension"
+     }
+    ]
+   },
    "proximal-practices-predict-behaviors-mindsets": {
     "claims": [
      {
@@ -123814,6 +125077,11 @@
       "polarity": "+",
       "slug": "unified-rc-lc-subskills-taxonomy",
       "strength": "M"
+     },
+     {
+      "polarity": "-",
+      "slug": "unitary-core-language-construct",
+      "strength": "W"
      }
     ]
    },
@@ -125056,6 +126324,9 @@
     "claims": [
      {
       "slug": "few-student-subgroup-impact-differences-significant"
+     },
+     {
+      "slug": "long-run-effects-null-seven-studies"
      },
      {
       "slug": "readabout-positive-impact-second-year-experienced-teachers"
@@ -127649,6 +128920,9 @@
      },
      {
       "slug": "reflective-practice-improves-outcomes-when-structured"
+     },
+     {
+      "slug": "sm-effects-not-moderated-intervention-characteristics"
      }
     ],
     "elements": [
@@ -129137,6 +130411,9 @@
      },
      {
       "slug": "comprehensible-input-essential-l2-acquisition"
+     },
+     {
+      "slug": "differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening"
      },
      {
       "slug": "drill-and-grammar-focus-ineffective-for-l2-acquisition"
@@ -131320,6 +132597,51 @@
      }
     ]
    },
+   "rhs-improves-absenteeism-abstinence-drug-use-single-qed": {
+    "claims": [
+     {
+      "slug": "no-eligible-crc-studies-identified"
+     },
+     {
+      "slug": "rhs-no-difference-gpa-truancy-alcohol"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "recovery-high-schools-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "recovery-school-social-capital-theory-of-change",
+      "strength": "M"
+     }
+    ]
+   },
+   "rhs-no-difference-gpa-truancy-alcohol": {
+    "claims": [
+     {
+      "slug": "rhs-improves-absenteeism-abstinence-drug-use-single-qed"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "recovery-high-schools-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "recovery-school-social-capital-theory-of-change",
+      "strength": "W"
+     }
+    ]
+   },
    "rhyming-poetry-improves-reading-fluency": {
     "claims": [
      {
@@ -131426,6 +132748,26 @@
      {
       "polarity": "+",
       "slug": "school-child-welfare-data-predictive-risk-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "risk-of-bias-varies-by-study-design": {
+    "claims": [
+     {
+      "slug": "flipped-classroom-evidence-base-rct-shortage-high-bias"
+     },
+     {
+      "slug": "inclusion-evidence-low-quality-serious-risk-of-bias"
+     },
+     {
+      "slug": "meta-analysis-variation-from-methodological-choices"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "exclusion-intervention-theories-of-change",
       "strength": "W"
      }
     ]
@@ -132663,6 +134005,9 @@
       "slug": "elswd-accommodations-transition-planning-suspension-parental-expectations"
      },
      {
+      "slug": "exclusion-type-moderates-intervention-effect"
+     },
+     {
       "slug": "implicit-bias-possible-discipline-disparities"
      },
      {
@@ -132710,6 +134055,224 @@
      {
       "polarity": "+",
       "slug": "reyes-stanic-five-aspect-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "sble-associated-greater-school-level-crime-behavior-problems": {
+    "claims": [
+     {
+      "slug": "sble-evidence-base-no-randomized-studies-high-risk-bias"
+     },
+     {
+      "slug": "sble-findings-consistent-across-design-features"
+     },
+     {
+      "slug": "sble-increases-exclusionary-discipline"
+     },
+     {
+      "slug": "sble-no-beneficial-learning-effects"
+     },
+     {
+      "slug": "sble-student-level-crime-behavior-null"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "sble-review-evidence-base-1002-effect-sizes",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "sble-theory-of-change-deterrence-and-criminalization",
+      "strength": "M"
+     }
+    ]
+   },
+   "sble-evidence-base-no-randomized-studies-high-risk-bias": {
+    "claims": [
+     {
+      "slug": "inclusion-evidence-low-quality-serious-risk-of-bias"
+     },
+     {
+      "slug": "mobile-device-review-risk-of-bias-concerns"
+     },
+     {
+      "slug": "sble-associated-greater-school-level-crime-behavior-problems"
+     },
+     {
+      "slug": "sble-no-beneficial-learning-effects"
+     },
+     {
+      "slug": "sble-student-level-crime-behavior-null"
+     },
+     {
+      "slug": "sble-students-feel-safer-limited-data"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "sble-review-evidence-base-1002-effect-sizes",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "sble-theory-of-change-deterrence-and-criminalization",
+      "strength": "W"
+     }
+    ]
+   },
+   "sble-findings-consistent-across-design-features": {
+    "claims": [
+     {
+      "slug": "sble-associated-greater-school-level-crime-behavior-problems"
+     },
+     {
+      "slug": "sble-no-beneficial-learning-effects"
+     },
+     {
+      "slug": "seven-nonsignificant-moderators-call-feedback"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "sble-review-evidence-base-1002-effect-sizes",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "sble-theory-of-change-deterrence-and-criminalization",
+      "strength": "W"
+     }
+    ]
+   },
+   "sble-increases-exclusionary-discipline": {
+    "claims": [
+     {
+      "slug": "sble-associated-greater-school-level-crime-behavior-problems"
+     },
+     {
+      "slug": "sble-no-beneficial-learning-effects"
+     },
+     {
+      "slug": "sble-student-level-crime-behavior-null"
+     },
+     {
+      "slug": "sble-students-feel-safer-limited-data"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "sble-review-evidence-base-1002-effect-sizes",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "sble-theory-of-change-deterrence-and-criminalization",
+      "strength": "M"
+     }
+    ]
+   },
+   "sble-no-beneficial-learning-effects": {
+    "claims": [
+     {
+      "slug": "sble-associated-greater-school-level-crime-behavior-problems"
+     },
+     {
+      "slug": "sble-evidence-base-no-randomized-studies-high-risk-bias"
+     },
+     {
+      "slug": "sble-findings-consistent-across-design-features"
+     },
+     {
+      "slug": "sble-increases-exclusionary-discipline"
+     },
+     {
+      "slug": "sble-student-level-crime-behavior-null"
+     },
+     {
+      "slug": "sble-students-feel-safer-limited-data"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "sble-review-evidence-base-1002-effect-sizes",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "sble-theory-of-change-deterrence-and-criminalization",
+      "strength": "M"
+     }
+    ]
+   },
+   "sble-student-level-crime-behavior-null": {
+    "claims": [
+     {
+      "slug": "sble-associated-greater-school-level-crime-behavior-problems"
+     },
+     {
+      "slug": "sble-evidence-base-no-randomized-studies-high-risk-bias"
+     },
+     {
+      "slug": "sble-increases-exclusionary-discipline"
+     },
+     {
+      "slug": "sble-no-beneficial-learning-effects"
+     },
+     {
+      "slug": "sble-students-feel-safer-limited-data"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "sble-review-evidence-base-1002-effect-sizes",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "sble-theory-of-change-deterrence-and-criminalization",
+      "strength": "W"
+     }
+    ]
+   },
+   "sble-students-feel-safer-limited-data": {
+    "claims": [
+     {
+      "slug": "sble-evidence-base-no-randomized-studies-high-risk-bias"
+     },
+     {
+      "slug": "sble-increases-exclusionary-discipline"
+     },
+     {
+      "slug": "sble-no-beneficial-learning-effects"
+     },
+     {
+      "slug": "sble-student-level-crime-behavior-null"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "sble-theory-of-change-deterrence-and-criminalization",
       "strength": "W"
      }
     ]
@@ -132930,6 +134493,23 @@
     "claims": [
      {
       "slug": "four-learning-environment-frames-interact"
+     }
+    ]
+   },
+   "school-based-interventions-small-significant-reduction-exclusion": {
+    "claims": [
+     {
+      "slug": "exclusion-type-moderates-intervention-effect"
+     },
+     {
+      "slug": "prior-review-larger-unsustained-effect"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "exclusion-intervention-theories-of-change",
+      "strength": "W"
      }
     ]
    },
@@ -133762,6 +135342,26 @@
      }
     ]
    },
+   "secondary-behavioural-outcomes-negligible-nonsignificant": {
+    "claims": [
+     {
+      "slug": "lre-reduces-delinquent-tendencies"
+     },
+     {
+      "slug": "sel-programs-improve-behavior-and-achievement"
+     },
+     {
+      "slug": "sr-interventions-improve-cognitive-regulation-young-adults"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "exclusion-intervention-theories-of-change",
+      "strength": "W"
+     }
+    ]
+   },
    "secondary-cooperative-learning-newmann-thompson": {
     "claims": [
      {
@@ -134193,6 +135793,9 @@
       "slug": "mindfulness-programs-benefit-adolescent-regulation"
      },
      {
+      "slug": "mobile-device-moderators-insufficient-evidence"
+     },
+     {
       "slug": "school-success-linked-social-emotional-development"
      },
      {
@@ -134263,10 +135866,16 @@
       "slug": "disruptive-behavior-lowers-engagement-and-achievement"
      },
      {
+      "slug": "four-implementation-themes-exclusion-interventions"
+     },
+     {
       "slug": "mindfulness-programs-benefit-adolescent-regulation"
      },
      {
       "slug": "sacd-program-ies-cdc-collaboration-design"
+     },
+     {
+      "slug": "secondary-behavioural-outcomes-negligible-nonsignificant"
      },
      {
       "slug": "sel-benefits-persist-follow-up"
@@ -140093,6 +141702,12 @@
      },
      {
       "slug": "self-graphing-cbm-progress-motivating"
+     },
+     {
+      "slug": "sm-effects-moderated-race-special-education"
+     },
+     {
+      "slug": "sm-interventions-improve-classroom-behaviors-scd-meta"
      }
     ],
     "elements": [
@@ -140139,6 +141754,18 @@
       "polarity": "+",
       "slug": "self-monitoring-of-attention-sma",
       "strength": "S"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "sm-eleven-element-framework",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "sm-mechanisms-reactivity-perceived-autonomy",
+      "strength": "M"
      }
     ]
    },
@@ -142696,7 +144323,33 @@
       "slug": "cooperative-learning-nonsignificant-moderators"
      },
      {
+      "slug": "sble-findings-consistent-across-design-features"
+     },
+     {
       "slug": "six-significant-moderators-call-feedback"
+     }
+    ]
+   },
+   "seven-studies-only-special-education-class-size-review": {
+    "claims": [
+     {
+      "slug": "class-size-studies-excluded-high-risk-confounding"
+     },
+     {
+      "slug": "inclusion-evidence-low-quality-serious-risk-of-bias"
+     },
+     {
+      "slug": "no-contemporary-quantitative-studies-special-education-class-size"
+     },
+     {
+      "slug": "no-eligible-crc-studies-identified"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "class-size-mechanism-special-education-framework",
+      "strength": "W"
      }
     ]
    },
@@ -142760,6 +144413,9 @@
     "claims": [
      {
       "slug": "academic-burnout-widespread-vocational-students"
+     },
+     {
+      "slug": "trauma-exposure-adverse-school-outcomes"
      },
      {
       "slug": "vocational-students-depression-detection-26-35-percent"
@@ -142938,6 +144594,9 @@
      },
      {
       "slug": "no-consistent-pe-vs-sgd-effectiveness-differences"
+     },
+     {
+      "slug": "small-special-education-classes-preferred-individualised-instruction"
      }
     ],
     "principles": [
@@ -143036,6 +144695,9 @@
      },
      {
       "slug": "five-cmos-approaches-improve-achievement"
+     },
+     {
+      "slug": "four-implementation-themes-exclusion-interventions"
      },
      {
       "slug": "teachers-key-role-student-success-districts-cmos"
@@ -144503,6 +146165,16 @@
      }
     ]
    },
+   "six-key-principles-trauma-informed-approach": {
+    "claims": [
+     {
+      "slug": "multicultural-approach-sensitivity-stressors"
+     },
+     {
+      "slug": "peer-counsellor-competency-qualities-and-referral"
+     }
+    ]
+   },
    "six-significant-moderators-call-feedback": {
     "claims": [
      {
@@ -145098,6 +146770,134 @@
      }
     ]
    },
+   "sm-effects-moderated-race-special-education": {
+    "claims": [
+     {
+      "slug": "self-monitoring-improves-on-task-behavior"
+     },
+     {
+      "slug": "sm-effects-not-moderated-intervention-characteristics"
+     },
+     {
+      "slug": "sm-interventions-improve-classroom-behaviors-scd-meta"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "sm-eleven-element-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "sm-effects-not-moderated-intervention-characteristics": {
+    "claims": [
+     {
+      "slug": "grade-level-moderates-effect-size"
+     },
+     {
+      "slug": "reflective-practice-evidence-mixed-in-professional-education"
+     },
+     {
+      "slug": "sm-effects-moderated-race-special-education"
+     },
+     {
+      "slug": "sm-interventions-improve-classroom-behaviors-scd-meta"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "sm-eleven-element-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "sm-group-design-main-effect-g063": {
+    "claims": [
+     {
+      "slug": "cw-fit-increases-teacher-praise-not-reprimands"
+     },
+     {
+      "slug": "fhao-no-discernible-effects-behavior"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "sm-eleven-element-framework",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "sm-mechanisms-reactivity-perceived-autonomy",
+      "strength": "M"
+     }
+    ]
+   },
+   "sm-interventions-improve-academic-outcomes-scd": {
+    "claims": [
+     {
+      "slug": "sm-interventions-improve-classroom-behaviors-scd-meta"
+     },
+     {
+      "slug": "srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course"
+     },
+     {
+      "slug": "srl-interventions-moderate-effect-online-blended"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "sm-eleven-element-framework",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "sm-mechanisms-reactivity-perceived-autonomy",
+      "strength": "M"
+     }
+    ]
+   },
+   "sm-interventions-improve-classroom-behaviors-scd-meta": {
+    "claims": [
+     {
+      "slug": "self-monitoring-improves-on-task-behavior"
+     },
+     {
+      "slug": "sm-effects-moderated-race-special-education"
+     },
+     {
+      "slug": "sm-effects-not-moderated-intervention-characteristics"
+     },
+     {
+      "slug": "sm-interventions-improve-academic-outcomes-scd"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "sm-eleven-element-framework",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "sm-mechanisms-reactivity-perceived-autonomy",
+      "strength": "M"
+     }
+    ]
+   },
+   "small-group-instruction-outperforms-cai-incentives": {
+    "claims": [
+     {
+      "slug": "peer-small-group-outperform-other-methods"
+     },
+     {
+      "slug": "substantial-heterogeneity-short-term-effects"
+     }
+    ]
+   },
    "small-group-learning-improves-stem-achievement": {
     "claims": [
      {
@@ -145244,8 +147044,25 @@
      }
     ]
    },
+   "small-special-education-classes-preferred-individualised-instruction": {
+    "claims": [
+     {
+      "slug": "sgd-preference-over-pe-and-manual-signs"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "class-size-mechanism-special-education-framework",
+      "strength": "W"
+     }
+    ]
+   },
    "smart-comprehension-nonsignificant-substantive-average": {
     "claims": [
+     {
+      "slug": "content-domain-effects-similar-range"
+     },
      {
       "slug": "core-plus-sat-math-substantively-important"
      },
@@ -148657,6 +150474,9 @@
       "slug": "lips-supplemental-followup-mixed-findings"
      },
      {
+      "slug": "long-run-effects-null-seven-studies"
+     },
+     {
       "slug": "torgesen-2006-spellread-indeterminate"
      }
     ],
@@ -149319,6 +151139,9 @@
       "slug": "mindfulness-programs-benefit-adolescent-regulation"
      },
      {
+      "slug": "secondary-behavioural-outcomes-negligible-nonsignificant"
+     },
+     {
       "slug": "sel-benefits-persist-follow-up"
      }
     ],
@@ -149562,6 +151385,9 @@
       "slug": "peer-feedback-groups-added-to-web-based-srl-training-raise-srl-self-efficacy-and-math-focus-score"
      },
      {
+      "slug": "sm-interventions-improve-academic-outcomes-scd"
+     },
+     {
       "slug": "srl-effect-no-course-type-difference"
      },
      {
@@ -149617,6 +151443,9 @@
      },
      {
       "slug": "mixed-srl-strategy-interventions-greatest-impact"
+     },
+     {
+      "slug": "sm-interventions-improve-academic-outcomes-scd"
      },
      {
       "slug": "srl-effect-no-significant-moderator-differences"
@@ -149707,6 +151536,9 @@
      },
      {
       "slug": "srl-strategies-large-effect-academic-achievement"
+     },
+     {
+      "slug": "targeted-k6-interventions-positive-short-term-effects"
      }
     ]
    },
@@ -150136,6 +151968,9 @@
      },
      {
       "slug": "ssws-perceive-meso-community-school-contexts"
+     },
+     {
+      "slug": "trauma-exposure-adverse-school-outcomes"
      }
     ],
     "elements": [
@@ -150411,6 +152246,20 @@
      {
       "polarity": "+",
       "slug": "itl-unified-progression-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "star-studies-positive-small-effects-reading-math": {
+    "claims": [
+     {
+      "slug": "class-size-reduction-negative-nonsignificant-math-effect"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "anderson-causal-model-class-size-achievement",
       "strength": "W"
      }
     ]
@@ -151910,6 +153759,9 @@
       "slug": "advance-organizers-improve-learning"
      },
      {
+      "slug": "annevelink-personalised-instruction-path-test"
+     },
+     {
       "slug": "argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence"
      },
      {
@@ -152135,6 +153987,9 @@
      },
      {
       "slug": "bridge-to-reading-kindergarten-growth-es-022"
+     },
+     {
+      "slug": "content-domain-effects-similar-range"
      },
      {
       "slug": "direct-instruction-improves-outcomes"
@@ -154276,6 +156131,20 @@
      }
     ]
    },
+   "substantial-heterogeneity-short-term-effects": {
+    "claims": [
+     {
+      "slug": "small-group-instruction-outperforms-cai-incentives"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "three-perspectives-targeted-interventions",
+      "strength": "M"
+     }
+    ]
+   },
    "subsystems-show-supportive-competitive-precursor-relationships": {
     "claims": [
      {
@@ -155812,6 +157681,62 @@
      },
      {
       "slug": "project-based-learning-improves-achievement"
+     }
+    ]
+   },
+   "targeted-k6-interventions-followup-fadeout": {
+    "claims": [
+     {
+      "slug": "long-run-effects-null-seven-studies"
+     },
+     {
+      "slug": "targeted-k6-interventions-positive-short-term-effects"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "three-perspectives-targeted-interventions",
+      "strength": "M"
+     }
+    ]
+   },
+   "targeted-k6-interventions-positive-short-term-effects": {
+    "claims": [
+     {
+      "slug": "math-test-effects-larger-than-reading"
+     },
+     {
+      "slug": "peer-assisted-and-small-group-instruction-most-effective"
+     },
+     {
+      "slug": "srl-meta-analysis-high-heterogeneity"
+     },
+     {
+      "slug": "targeted-k6-interventions-followup-fadeout"
+     },
+     {
+      "slug": "targeted-secondary-interventions-positive-short-run-effects"
+     }
+    ]
+   },
+   "targeted-secondary-interventions-positive-short-run-effects": {
+    "claims": [
+     {
+      "slug": "long-run-effects-null-seven-studies"
+     },
+     {
+      "slug": "math-test-effects-larger-than-reading"
+     },
+     {
+      "slug": "targeted-k6-interventions-positive-short-term-effects"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "three-theoretical-perspectives-targeted-interventions",
+      "strength": "M"
      }
     ]
    },
@@ -160533,6 +162458,9 @@
    "tep-student-population-comparable-to-neighborhood-schools": {
     "claims": [
      {
+      "slug": "gottlieb-1997-group-size-increase-lowered-reading-scores"
+     },
+     {
       "slug": "tep-four-year-math-gain-1-6-years"
      },
      {
@@ -160823,6 +162751,111 @@
      }
     ]
    },
+   "tfa-corps-no-significant-reading-effect-elementary": {
+    "claims": [
+     {
+      "slug": "clark-2013-tfa-secondary-math-rct-positive"
+     },
+     {
+      "slug": "clark-2015-elementary-tfa-indeterminate"
+     },
+     {
+      "slug": "tfa-evidence-base-reduced-to-four-studies"
+     },
+     {
+      "slug": "tfa-first-two-years-beat-experienced-non-tfa"
+     },
+     {
+      "slug": "tfa-positive-mathematics-achievement-effects"
+     },
+     {
+      "slug": "tfa-small-positive-early-elementary-reading-not-math"
+     },
+     {
+      "slug": "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "teach-for-america-program-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "tfa-theory-of-change-five-component-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "tfa-evidence-base-reduced-to-four-studies": {
+    "claims": [
+     {
+      "slug": "tfa-corps-no-significant-reading-effect-elementary"
+     },
+     {
+      "slug": "tfa-no-discernible-ela-effects"
+     },
+     {
+      "slug": "tfa-no-discernible-social-studies-effects"
+     },
+     {
+      "slug": "tfa-positive-mathematics-achievement-effects"
+     },
+     {
+      "slug": "tfa-potentially-positive-science-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "teach-for-america-program-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "tfa-theory-of-change-five-component-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "tfa-experimental-studies-positive-math-no-reading-effect": {
+    "claims": [
+     {
+      "slug": "alt-cert-teachers-no-worse-student-achievement"
+     },
+     {
+      "slug": "clark-2013-tfa-secondary-math-rct-positive"
+     },
+     {
+      "slug": "tfa-first-two-years-beat-experienced-non-tfa"
+     },
+     {
+      "slug": "tfa-no-discernible-ela-effects"
+     },
+     {
+      "slug": "tfa-positive-mathematics-achievement-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "teach-for-america-program-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "tfa-theory-of-change-five-component-model",
+      "strength": "W"
+     }
+    ]
+   },
    "tfa-first-two-years-beat-experienced-non-tfa": {
     "claims": [
      {
@@ -160835,10 +162868,19 @@
       "slug": "first-large-scale-experimental-study-tfa-math"
      },
      {
+      "slug": "tfa-corps-no-significant-reading-effect-elementary"
+     },
+     {
+      "slug": "tfa-experimental-studies-positive-math-no-reading-effect"
+     },
+     {
       "slug": "tfa-math-teachers-raise-achievement-007-sd"
      },
      {
       "slug": "tfa-positive-mathematics-achievement-effects"
+     },
+     {
+      "slug": "tfa-small-positive-early-elementary-reading-not-math"
      }
     ],
     "elements": [
@@ -160870,6 +162912,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "teach-for-america-program-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "teach-for-america-teacher-supply-program",
       "strength": "W"
      }
@@ -160877,6 +162924,12 @@
    },
    "tfa-no-discernible-ela-effects": {
     "claims": [
+     {
+      "slug": "tfa-evidence-base-reduced-to-four-studies"
+     },
+     {
+      "slug": "tfa-experimental-studies-positive-math-no-reading-effect"
+     },
      {
       "slug": "tfa-no-discernible-social-studies-effects"
      },
@@ -160897,6 +162950,9 @@
    },
    "tfa-no-discernible-social-studies-effects": {
     "claims": [
+     {
+      "slug": "tfa-evidence-base-reduced-to-four-studies"
+     },
      {
       "slug": "tfa-no-discernible-ela-effects"
      },
@@ -160924,6 +162980,15 @@
       "slug": "clark-2015-elementary-tfa-indeterminate"
      },
      {
+      "slug": "tfa-corps-no-significant-reading-effect-elementary"
+     },
+     {
+      "slug": "tfa-evidence-base-reduced-to-four-studies"
+     },
+     {
+      "slug": "tfa-experimental-studies-positive-math-no-reading-effect"
+     },
+     {
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
      },
      {
@@ -160934,6 +162999,9 @@
      },
      {
       "slug": "tfa-potentially-positive-science-effects"
+     },
+     {
+      "slug": "tfa-small-positive-early-elementary-reading-not-math"
      },
      {
       "slug": "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification"
@@ -160959,6 +163027,9 @@
       "slug": "reading-apprenticeship-potentially-positive-science-achievement"
      },
      {
+      "slug": "tfa-evidence-base-reduced-to-four-studies"
+     },
+     {
       "slug": "tfa-no-discernible-ela-effects"
      },
      {
@@ -160981,6 +163052,39 @@
      }
     ]
    },
+   "tfa-small-positive-early-elementary-reading-not-math": {
+    "claims": [
+     {
+      "slug": "alt-cert-teachers-no-worse-student-achievement"
+     },
+     {
+      "slug": "clark-2015-elementary-tfa-indeterminate"
+     },
+     {
+      "slug": "tfa-corps-no-significant-reading-effect-elementary"
+     },
+     {
+      "slug": "tfa-first-two-years-beat-experienced-non-tfa"
+     },
+     {
+      "slug": "tfa-positive-mathematics-achievement-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "teach-for-america-program-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "tfa-theory-of-change-five-component-model",
+      "strength": "W"
+     }
+    ]
+   },
    "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification": {
     "claims": [
      {
@@ -160991,6 +163095,9 @@
      },
      {
       "slug": "clark-2015-elementary-tfa-indeterminate"
+     },
+     {
+      "slug": "tfa-corps-no-significant-reading-effect-elementary"
      },
      {
       "slug": "tfa-math-teachers-raise-achievement-007-sd"
@@ -161006,6 +163113,11 @@
      {
       "polarity": "+",
       "slug": "mathematica-alt-cert-random-assignment-study",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "teach-for-america-program-element",
       "strength": "W"
      },
      {
@@ -161043,6 +163155,11 @@
      {
       "polarity": "+",
       "slug": "mathematica-alt-cert-random-assignment-study",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "teach-for-america-program-element",
       "strength": "W"
      },
      {
@@ -162304,6 +164421,20 @@
      },
      {
       "slug": "recency-weighting-models-better-assistments-kdd"
+     }
+    ]
+   },
+   "timing-intensity-duration-moderators-open-question": {
+    "claims": [
+     {
+      "slug": "acute-exercise-timing-memory"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "anderson-causal-model-class-size-achievement",
+      "strength": "W"
      }
     ]
    },
@@ -163955,6 +166086,26 @@
       "polarity": "+",
       "slug": "blackboard-irat-trat-pharmacy-calculations-procedure",
       "strength": "M"
+     }
+    ]
+   },
+   "trauma-exposure-adverse-school-outcomes": {
+    "claims": [
+     {
+      "slug": "severe-depression-co-occurs-self-harm-suicidal-tendencies"
+     },
+     {
+      "slug": "ssws-perceive-enforcement-daily-macro-force"
+     },
+     {
+      "slug": "vocational-students-depression-detection-26-35-percent"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "hearts-whole-school-program",
+      "strength": "W"
      }
     ]
    },
@@ -167085,6 +169236,9 @@
      },
      {
       "slug": "pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone"
+     },
+     {
+      "slug": "proximal-outcomes-inflate-vocabulary-effect-sizes-in-prior-reviews"
      }
     ],
     "learner-variables": [
@@ -167228,6 +169382,23 @@
      }
     ]
    },
+   "vocabulary-programs-insufficient-to-close-vocabulary-gap": {
+    "claims": [
+     {
+      "slug": "formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire"
+     },
+     {
+      "slug": "oral-language-emphasis-program-led-cognitive-gains"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "unitary-core-language-construct",
+      "strength": "W"
+     }
+    ]
+   },
    "vocabulary-uniquely-related-word-reading-spelling-kindergarten": {
     "claims": [
      {
@@ -167245,6 +169416,9 @@
      },
      {
       "slug": "severe-depression-co-occurs-self-harm-suicidal-tendencies"
+     },
+     {
+      "slug": "trauma-exposure-adverse-school-outcomes"
      },
      {
       "slug": "vocational-students-low-mental-health-literacy-4-3-percent"
@@ -173846,6 +176020,13 @@
     "methods": [
      {
       "slug": "multimediatizing-didactized-content-direct-expression"
+     }
+    ]
+   },
+   "tfa-summer-training-institute-design": {
+    "theories": [
+     {
+      "slug": "tfa-theory-of-change-five-component-model"
      }
     ]
    },
@@ -193995,6 +196176,13 @@
      }
     ]
    },
+   "collegiate-recovery-communities-element": {
+    "elements": [
+     {
+      "slug": "recovery-high-schools-element"
+     }
+    ]
+   },
    "communication-channels": {
     "elements": [
      {
@@ -200756,6 +202944,18 @@
      }
     ]
    },
+   "head-start-three-tier-trauma-informed-model": {
+    "elements": [
+     {
+      "slug": "hearts-whole-school-program"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "trauma-informed-approach-framework-samhsa"
+     }
+    ]
+   },
    "headsprout-early-reading-curriculum": {
     "elements": [
      {
@@ -200772,6 +202972,18 @@
      },
      {
       "slug": "waterford-early-reading-program"
+     }
+    ]
+   },
+   "hearts-whole-school-program": {
+    "elements": [
+     {
+      "slug": "head-start-three-tier-trauma-informed-model"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "trauma-informed-approach-framework-samhsa"
      }
     ]
    },
@@ -203139,6 +205351,9 @@
    },
    "mathematica-alt-cert-random-assignment-study": {
     "elements": [
+     {
+      "slug": "teach-for-america-program-element"
+     },
      {
       "slug": "teach-for-america-program"
      },
@@ -211015,6 +213230,13 @@
      }
     ]
    },
+   "recovery-high-schools-element": {
+    "elements": [
+     {
+      "slug": "collegiate-recovery-communities-element"
+     }
+    ]
+   },
    "red-light-purple-light-program-element": {
     "theories": [
      {
@@ -214429,7 +216651,33 @@
       "slug": "mathematica-alt-cert-random-assignment-study"
      },
      {
+      "slug": "teach-for-america-program-element"
+     },
+     {
       "slug": "teach-for-america-teacher-supply-program"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "tfa-theory-of-change-five-component-model"
+     }
+    ]
+   },
+   "teach-for-america-program-element": {
+    "elements": [
+     {
+      "slug": "mathematica-alt-cert-random-assignment-study"
+     },
+     {
+      "slug": "teach-for-america-program"
+     },
+     {
+      "slug": "teach-for-america-teacher-supply-program"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "tfa-theory-of-change-five-component-model"
      }
     ]
    },
@@ -214437,6 +216685,9 @@
     "elements": [
      {
       "slug": "mathematica-alt-cert-random-assignment-study"
+     },
+     {
+      "slug": "teach-for-america-program-element"
      },
      {
       "slug": "teach-for-america-program"
@@ -215747,6 +217998,9 @@
     "theories": [
      {
       "slug": "tpack-framework-seven-elements"
+     },
+     {
+      "slug": "tpack-framework-teacher-technology-integration"
      }
     ]
    },
@@ -222801,6 +225055,11 @@
      },
      {
       "slug": "writing_workshops"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "flipped-classroom-definition-blended-learning"
      }
     ]
    },
@@ -239384,6 +241643,11 @@
      {
       "slug": "digital-learning"
      }
+    ],
+    "theories": [
+     {
+      "slug": "flipped-classroom-definition-blended-learning"
+     }
     ]
    },
    "formative-assessment": {
@@ -244164,6 +246428,9 @@
       "slug": "five-foundations-learning-environments-framework"
      },
      {
+      "slug": "samr-model-technology-integration"
+     },
+     {
       "slug": "student-centered-environments-assumptions-framework"
      }
     ]
@@ -246589,6 +248856,9 @@
      },
      {
       "slug": "kohlberg-moral-development"
+     },
+     {
+      "slug": "recovery-school-social-capital-theory-of-change"
      }
     ]
    },
@@ -250516,6 +252786,16 @@
      }
     ]
    },
+   "exclusion-intervention-theories-of-change": {
+    "theories": [
+     {
+      "slug": "three-perspectives-targeted-interventions"
+     },
+     {
+      "slug": "three-theoretical-perspectives-targeted-interventions"
+     }
+    ]
+   },
    "executive-function-development": {
     "claims": [
      {
@@ -254142,6 +256422,9 @@
       "slug": "krashen-monitor-model-five-hypotheses"
      },
      {
+      "slug": "simple-view-of-reading-gough-tunmer"
+     },
+     {
       "slug": "threshold-hypothesis-bilingual-competence"
      }
     ]
@@ -254876,6 +257159,16 @@
      },
      {
       "slug": "structural-cognitive-modifiability-mle"
+     }
+    ]
+   },
+   "mobile-device-theory-of-change-four-elements": {
+    "theories": [
+     {
+      "slug": "samr-model-technology-integration"
+     },
+     {
+      "slug": "tpack-framework-teacher-technology-integration"
      }
     ]
    },
@@ -256056,6 +258349,21 @@
      }
     ]
    },
+   "recovery-school-social-capital-theory-of-change": {
+    "elements": [
+     {
+      "slug": "collegiate-recovery-communities-element"
+     },
+     {
+      "slug": "recovery-high-schools-element"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "caring-community-developmental-rationale"
+     }
+    ]
+   },
    "reflective-judgment-framework-three-levels": {
     "theories": [
      {
@@ -256355,6 +258663,16 @@
      },
      {
       "slug": "universal-versus-targeted-school-based-programs"
+     }
+    ]
+   },
+   "samr-model-technology-integration": {
+    "theories": [
+     {
+      "slug": "mobile-device-theory-of-change-four-elements"
+     },
+     {
+      "slug": "technology-integration-levels"
      }
     ]
    },
@@ -258217,6 +260535,16 @@
      }
     ]
    },
+   "simple-view-of-reading-gough-tunmer": {
+    "theories": [
+     {
+      "slug": "linguistic-threshold-vs-interdependence-hypotheses"
+     },
+     {
+      "slug": "unitary-core-language-construct"
+     }
+    ]
+   },
    "situated-cognition-context-authenticity-activity": {
     "theories": [
      {
@@ -258661,6 +260989,20 @@
      },
      {
       "slug": "tripart-grammar-framework-form-meaning-pragmatics"
+     }
+    ]
+   },
+   "sm-eleven-element-framework": {
+    "theories": [
+     {
+      "slug": "sm-mechanisms-reactivity-perceived-autonomy"
+     }
+    ]
+   },
+   "sm-mechanisms-reactivity-perceived-autonomy": {
+    "theories": [
+     {
+      "slug": "sm-eleven-element-framework"
      }
     ]
    },
@@ -259972,6 +262314,12 @@
     ],
     "theories": [
      {
+      "slug": "samr-model-technology-integration"
+     },
+     {
+      "slug": "tpack-framework-teacher-technology-integration"
+     },
+     {
       "slug": "tpack"
      }
     ]
@@ -260005,6 +262353,13 @@
     "theories": [
      {
       "slug": "merrill-first-principles-four-phases-problem"
+     }
+    ]
+   },
+   "tfa-theory-of-change-five-component-model": {
+    "elements": [
+     {
+      "slug": "teach-for-america-program-element"
      }
     ]
    },
@@ -260099,6 +262454,13 @@
      }
     ]
    },
+   "three-perspectives-targeted-interventions": {
+    "theories": [
+     {
+      "slug": "exclusion-intervention-theories-of-change"
+     }
+    ]
+   },
    "three-premises-ace-vet-framework": {
     "theories": [
      {
@@ -260115,6 +262477,13 @@
     "strategies": [
      {
       "slug": "teacher-student-interactive-map-construction"
+     }
+    ]
+   },
+   "three-theoretical-perspectives-targeted-interventions": {
+    "theories": [
+     {
+      "slug": "exclusion-intervention-theories-of-change"
      }
     ]
    },
@@ -260196,6 +262565,9 @@
      },
      {
       "slug": "technology-integration-levels"
+     },
+     {
+      "slug": "tpack-framework-teacher-technology-integration"
      }
     ]
    },
@@ -260203,6 +262575,25 @@
     "theories": [
      {
       "slug": "five-foundations-learning-environments-framework"
+     },
+     {
+      "slug": "tpack-framework-teacher-technology-integration"
+     }
+    ]
+   },
+   "tpack-framework-teacher-technology-integration": {
+    "theories": [
+     {
+      "slug": "mobile-device-theory-of-change-four-elements"
+     },
+     {
+      "slug": "technology-integration-levels"
+     },
+     {
+      "slug": "tpack-framework-seven-elements"
+     },
+     {
+      "slug": "tpack"
      }
     ]
    },
@@ -260287,6 +262678,16 @@
      },
      {
       "slug": "hanvey-five-dimensions-global-perspective"
+     }
+    ]
+   },
+   "trauma-informed-approach-framework-samhsa": {
+    "elements": [
+     {
+      "slug": "head-start-three-tier-trauma-informed-model"
+     },
+     {
+      "slug": "hearts-whole-school-program"
      }
     ]
    },
@@ -260509,6 +262910,19 @@
     "theories": [
      {
       "slug": "listening-macro-micro-skills-taxonomy"
+     },
+     {
+      "slug": "unitary-core-language-construct"
+     }
+    ]
+   },
+   "unitary-core-language-construct": {
+    "theories": [
+     {
+      "slug": "simple-view-of-reading-gough-tunmer"
+     },
+     {
+      "slug": "unified-rc-lc-subskills-taxonomy"
      }
     ]
    },
@@ -261163,15 +263577,15 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 5110,
+  "claims": 5201,
   "designs": 198,
-  "elements": 1239,
+  "elements": 1247,
   "learner-variables": 12,
   "methods": 38,
   "patterns": 126,
   "principles": 375,
   "processes": 18,
-  "strategies": 3511,
-  "theories": 1063
+  "strategies": 3522,
+  "theories": 1082
  }
 }

@@ -51,3 +51,4 @@ The report's literature search covering documents publicly available by July 200
 - [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related
 - [The evidence base for the Lovaas Model is small: only two of 58 reviewed studies met WWC evidence standards](lovaas-model-evidence-base-small-two-studies.md) — related
 - [The evidence base for Reading Mastery with adolescent learners is small: only 2 of 175 reviewed studies met WWC evidence standards](reading-mastery-small-evidence-base-adolescents.md) — related
+- [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related

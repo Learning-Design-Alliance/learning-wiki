@@ -83,3 +83,5 @@ The evidence recorded above comes from single-case designs with students with or
 - [Classroom Physical Activity Improves Attention](classroom-physical-activity-improves-attention.md) — related
 - [Self-determination instruction improves outcomes](self-determination-instruction-improves-outcomes.md) — related
 - [Student self-graphing of CBM scores is reported as motivating during secondary prevention](self-graphing-cbm-progress-motivating.md) — related
+- [Single-case effects of self-management interventions are moderated by student race and special education status, with more pronounced effects for African American students and students receiving special education services](sm-effects-moderated-race-special-education.md) — related
+- [School-based self-management interventions significantly and positively impact classroom behaviors of school-age students with challenging behaviors (single-case design synthesis)](sm-interventions-improve-classroom-behaviors-scd-meta.md) — a broader claim this one bears on

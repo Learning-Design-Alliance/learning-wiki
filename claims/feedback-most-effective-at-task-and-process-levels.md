@@ -82,3 +82,4 @@ Open questions: how the four levels interact in real classrooms (e.g., whether p
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — possibly the same claim (merge candidate)
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related
 - [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — possibly the same claim (merge candidate)
+- [Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations](annevelink-personalised-instruction-path-test.md) — related

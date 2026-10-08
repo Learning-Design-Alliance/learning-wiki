@@ -74,3 +74,4 @@ A second MANOVA replaced the overall score with a focus score on ten chapters ea
 - [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](srl-effect-no-course-type-difference.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [Measuring the impact of math instruction and interventions is key to improving students' overall math performance](measuring-math-impact-key-to-improving-performance.md) — related
+- [Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies](sm-interventions-improve-academic-outcomes-scd.md) — related
