@@ -45,6 +45,7 @@ Communities-of-Practice theory (Lave & Wenger) holds that learning is a collecti
 - [Situated cognition: context, authenticity, and activity as key dimensions](situated-cognition-context-authenticity-activity.md)
 - [Situated Learning theory (legitimate peripheral participation in communities of practice)](situated-learning-theory-review-account.md)
 - [Sociocultural theory as the lens through which SLA views learners and learning](sociocultural-theory-lens-sla-learners.md)
+- [Teaching and learning as social enterprises embedded within school and community contexts](teaching-as-social-enterprise-embedded-in-context.md)
 
 ## Examples
 -

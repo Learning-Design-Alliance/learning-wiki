@@ -53,6 +53,7 @@ The framework organizes ECE program quality around "six organizational condition
 ## Examples
 
 - [Early Education Essentials surveys (now The Essential 0-5 Survey)](../elements/early-education-essentials-surveys.md)
+- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../elements/five-essentials-early-education-surveys.md)
 
 ## Key Sources
 - Early Education Essentials: Testing Measurement Validity of an Organizational Conditions and Practices Tool for Early Childhood Education Settings. (2018). https://consortium.uchicago.edu/publications/early-education-essentials-validation-surveys-measuring-early-education-organizational

@@ -52,3 +52,4 @@ Focus-group finding from the Setting Factors section: students reported direct i
 - [Many parents of students with IEPs lacked viable options to engage in school choice after forced school closings](iep-parents-lacked-viable-choice-options.md) — related
 - [After school closings, proximity to home was the deciding factor in families' enrollment choices, outweighing school ratings](proximity-decided-post-closing-enrollment.md) — related
 - [Eighth-grade students navigating high school choice considered three main categories of factors—setting, school, and student factors—plus two overarching concepts of a good school and fit](three-categories-student-choice-factors-high-school.md) — a broader claim this one bears on
+- [Proximity to home was the primary reason families enrolled their children in lower-rated schools instead of their designated welcoming school](chicago-closings-proximity-primary-reason-lower-rated-schools.md) — related

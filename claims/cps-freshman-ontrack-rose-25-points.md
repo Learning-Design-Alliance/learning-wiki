@@ -49,3 +49,6 @@ Descriptive trend analysis of CPS course-grade records shown in Figure 2, coveri
 - [CPS four-year high school graduation rose from 57 percent in 2006 to 75 percent in 2017, with options-school graduates adding 4 more percentage points](cps-hs-graduation-57-to-75.md) — related
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation](gocps-enrollment-stable-after-implementation.md) — related
+- [CPS Freshman OnTrack rates rose 24 percentage points, from 64 percent for the Class of 2006 to 88 percent for the Class of 2019](cps-freshman-ontrack-rose-24-points.md) — related
+- [On-track gains were largest for students with the lowest incoming skills and for African American males](on-track-gains-largest-for-lowest-skills-and-black-males.md) — a narrower finding that bears on this claim
+- [Data coding issues could account for some graduation-rate improvement between 2005 and 2008, but not for improvements in subsequent years](transfer-coding-explains-only-2005-2008-gains.md) — related

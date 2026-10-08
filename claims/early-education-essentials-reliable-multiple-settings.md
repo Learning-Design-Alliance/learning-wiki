@@ -47,3 +47,6 @@ Measurement study in 81 school- and community-based ECE sites in a large Midwest
 - [Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs](strong-essentials-programs-more-supportive-contexts.md) — related
 - [Some, but not all, measured organizational conditions are associated in expected directions with site-level ECE quality metrics](some-essentials-associated-with-site-quality-metrics.md) — related
 - [Parents offer a unique perspective best captured by a distinct sixth essential, Parent Voice](parent-voice-distinct-sixth-essential.md) — a narrower finding that bears on this claim
+- [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](early-ed-essentials-rasch-refined-measures.md) — related
+- [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related
+- [In the spring 2015 pilot, 19 of 27 teacher-survey measures met the 0.80 reliability threshold and all but one met 0.70; the Early Childhood Discipline measure was removed](teacher-survey-pilot-reliability-19-of-27.md) — a narrower finding that bears on this claim

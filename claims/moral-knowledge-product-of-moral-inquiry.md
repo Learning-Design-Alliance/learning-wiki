@@ -49,3 +49,4 @@ Philosophical argument in the section on Dewey's view of character education: th
 - [A meta-analysis of 55 studies found Kohlberg's dilemma discussion approach had a moderate to significant effect on moral education, and Just Community Schools provided a moral culture](dilemma-discussion-meta-analysis-moderate-effect.md) — related
 - [The relational taxonomy is argued to support values and moral education because fostering ego strength addresses the gap between moral reasoning and moral behavior](relational-taxonomy-supports-moral-education.md) — related
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](dewey-morality-in-everyday-problems.md) — related
+- [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related

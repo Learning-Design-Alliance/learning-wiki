@@ -51,3 +51,4 @@ The digest reports, citing Little and Haley (1982), a study by the Social Scienc
 - [Civic-education-focused schooling can boost civic participation in adulthood](civic-focused-education-boosts-adult-participation.md) — related
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — reports the opposite
 - [Adolescent substance use is associated with low academic outcomes, delinquency, and risky sexual behaviors, per cited prior work](adolescent-substance-use-negative-consequences.md) — related
+- [Students reported improved school-work priorities, peer academic behavior, teacher connection and support, and school connectedness after two years](success-project-survey-climate-improvements.md) — related

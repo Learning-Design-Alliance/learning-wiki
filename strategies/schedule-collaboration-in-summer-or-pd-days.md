@@ -39,6 +39,7 @@ To address limited school staff time as an obstacle to cross-sector collaboratio
 ## Related Strategies
 
 - [Use cross-sector collaborative tasks (classroom observation, operations alignment, curriculum development) as vehicles for educator professional development](cross-sector-collaborative-tasks-for-educator-pd.md)
+- [Facilitate cross-sector collaboration so charter and non-charter high schools share best practices on their respective strengths](cross-sector-charter-best-practice-sharing.md)
 
 ## Examples
 -

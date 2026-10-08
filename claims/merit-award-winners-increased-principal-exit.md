@@ -45,3 +45,4 @@ Regression discontinuity-style comparison of schools just above versus just belo
 ## Related Claims
 - [The merit award program produced modest achievement improvements concentrated in schools close to the award threshold](merit-award-modest-gains-near-threshold.md) — related
 - [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related
+- [Principals who just exceeded a merit award threshold are over twice as likely to exit their school the next year than principals who fell just short](merit-award-winners-twice-likely-to-exit-school.md) — possibly the same claim (merge candidate)

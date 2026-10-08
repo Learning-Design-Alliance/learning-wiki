@@ -48,6 +48,10 @@ The 5Es is a framework developed by the Consortium on Chicago School Research de
 - [Informal social learning networks as the coordinating mechanism of systemwide improvement](informal-social-learning-networks-coherence.md)
 - [School organizational processes mediating principal influence: a five-process framework](principal-mediated-organizational-processes-framework.md)
 - [Six organizational conditions of early childhood education programs as higher-level essentials constructs](six-organizational-conditions-ece-essentials.md)
+- [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
+- [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
+- [Five essential supports framework for school improvement](five-essential-supports-school-improvement-framework.md)
+- [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
 
 ## Examples
 -

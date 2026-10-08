@@ -46,3 +46,5 @@ Districtwide survey findings on overall satisfaction with REACH after five years
 - [Teachers and administrators diverged on using evaluation ratings for personnel decisions, with 85 percent of administrators supportive](diverging-views-personnel-decisions-reach.md) — related
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — related
 - [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](educators-receptive-to-feedback-and-compensation-strategies.md) — related
+- [Beginning teachers are more positive about REACH than teachers with more years of experience](reach-beginning-teachers-more-positive-than-veterans.md) — related
+- [Teachers and principals remain optimistic about REACH in year two, but teacher satisfaction with the evaluation process declined from year one](reach-year-two-optimism-declining-satisfaction.md) — related

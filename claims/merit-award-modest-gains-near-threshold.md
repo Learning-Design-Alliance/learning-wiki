@@ -45,3 +45,4 @@ Comparison of achievement growth (ISAT scores, grades 3–8) between schools who
 ## Related Claims
 - [Merit award winners were nearly three times as likely to leave their school the following year (16.9% vs 5.9%), mostly leaving the district](merit-award-winners-increased-principal-exit.md) — related
 - [Principals prefer school-level performance and achievement growth over teacher-level performance alone or test-score levels for incentive awards](principals-prefer-school-level-growth-for-incentives.md) — related
+- [The merit award program's incentives increased student achievement in Chicago schools](merit-award-incentives-increased-achievement.md) — related

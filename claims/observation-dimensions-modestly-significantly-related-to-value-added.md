@@ -45,3 +45,4 @@ In the report's analysis of the relationship between observation scores and stud
 ## Related Claims
 - [The classroom management dimension is most consistently and strongly related to teachers' value-added scores across instruments, subjects, and grades](classroom-management-dimension-strongest-value-added-relationship.md) — related
 - [Eight of ten dimensions of instructional practice are common across all five examined teacher observation instruments](eight-of-ten-dimensions-common-across-five-observation-instruments.md) — related
+- [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](reach-observation-value-added-correlation-0349.md) — a narrower finding that bears on this claim

@@ -47,3 +47,4 @@ Observational analysis of CPS administrative grade data for six freshman cohorts
 - [GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade](non-core-gpa-declines-exceed-core.md) — related
 - [Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school](higher-achievers-larger-gpa-declines-transition.md) — related
 - [Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition](school-variation-gpa-declines.md) — related
+- [Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior](ninth-grade-gpa-increase-with-achievement-trends.md) — related

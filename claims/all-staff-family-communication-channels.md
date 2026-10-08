@@ -47,3 +47,5 @@ Focus-group finding describing a shift in typical school procedures during remot
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
 - [Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families](family-community-knowledge-reach-families.md) — related
+- [School improvement is related to staff interactions, staff relationships with families, and ties to the broader school community](improvement-related-to-staff-family-community-relationships.md) — related
+- [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related

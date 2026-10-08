@@ -52,3 +52,4 @@ The report's Key Findings state, based on analysis of district data on observati
 - [The Pittsburgh VAMs incorporate course-specific assessments, attendance, and course completion alongside state assessments](pittsburgh-vams-use-multiple-outcome-measures.md) — related
 - [Observation scores and student surveys were moderately correlated with student learning and likely captured different dimensions of teaching quality](ratings-moderately-correlated-with-student-learning.md) — related
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
+- [Most variation in teacher evaluation scores is within schools rather than between schools](within-school-variation-dominates-teacher-evaluation-scores.md) — related

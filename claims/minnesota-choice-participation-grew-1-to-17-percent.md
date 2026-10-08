@@ -50,3 +50,4 @@ Observational enrollment analysis compiled from Minnesota Department of Children
 - [Area Learning Center students most often cite individualized education, smaller schools, less restrictive environments, and flexible schedules as enrollment reasons](alc-students-enroll-for-individualized-flexible-settings.md) — related
 - [Public support for cross-district school choice in Minnesota rose from 33% in 1985 to 88% by 1994](minnesota-public-support-cross-district-choice-rose.md) — related
 - [Public school choice was constrained at the middle and high school levels because many districts have only one middle school and one high school](title-i-choice-constrained-single-secondary-schools.md) — related
+- [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related

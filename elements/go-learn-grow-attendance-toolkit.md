@@ -56,6 +56,7 @@ The Go-Learn-Grow materials are a toolkit produced for Regional Educational Labo
 ## Examples
 
 - [Pair attendance-improvement efforts with a companion toolkit for districts, schools, and early childhood providers](../strategies/companion-toolkit-improving-prek-kindergarten-attendance.md)
+- [Provide supports to improve attendance in pre-kindergarten and the early elementary years](../strategies/attendance-supports-prek-early-elementary.md)
 
 ## Key Sources
 - Bleeker, Martha; Grazi, Jaimie; Hurwitz, Felicia. (2019). Strategies for Improving Attendance in Pre-Kindergarten and Kindergarten: Toolkit for Districts, Schools, and Early Childhood Providers. Regional Educational Laboratory Mid-Atlantic. https://ies.ed.gov/ncee/edlabs/regions/mid-atlantic

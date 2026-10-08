@@ -49,3 +49,4 @@ Observational analysis of value-added estimates for teachers in ten districts; c
 - [Main results are robust to grouping schools into four poverty quartiles instead of five quintiles](results-robust-to-quartile-grouping.md) — related
 - [Elementary under-representation of highest-performing teachers appears in 4 of 8 districts despite the aggregate null](elementary-underrepresentation-four-of-eight-districts.md) — related
 - [Findings on the distribution of highest-performing teachers are robust to omitting empirical Bayes shrinkage of the value-added estimates](findings-robust-to-omitting-eb-shrinkage.md) — related
+- [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — related

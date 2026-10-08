@@ -52,3 +52,4 @@ Interview findings report that "Parents’ choices were constrained by fears for
 - [Parents of students with IEPs share a common vision of an ideal school that is safe, supportive, academically strong, and inclusive with needed supports](iep-parents-shared-ideal-school-vision.md) — related
 - [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related
 - [After school closings, proximity to home was the deciding factor in families' enrollment choices, outweighing school ratings](proximity-decided-post-closing-enrollment.md) — related
+- [Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options](chicago-closings-families-chose-welcoming-schools-priorities-and-barriers.md) — related

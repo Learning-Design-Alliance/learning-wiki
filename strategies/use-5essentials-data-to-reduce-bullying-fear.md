@@ -40,6 +40,7 @@ The brief recommends that school teams in Illinois dig into their annual 5Essent
 ## Related Strategies
 
 - [Use the Romanian PSRBVBQ in school practice to identify teachers' bullying perceptions and reveal training needs for bullying prevention](use-psrbvbq-to-identify-teacher-training-needs.md)
+- [Use diagnostic survey results to craft an evidence-based school narrative and action plan](evidence-based-narrative-and-action-plans-from-diagnostics.md)
 
 ## Examples
 -

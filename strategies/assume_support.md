@@ -59,6 +59,7 @@ Family involvement predicts achievement, but the relationship runs through famil
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the same principle applied to content: build on what learners and families bring rather than assuming absence
 - [Accessible Syntax](accessible_syntax.md) — family-facing communication should meet the same plain-language standards as learner-facing materials
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
+- [Use economic indicators plus household size to prioritize families, and target outreach through schools with low family engagement](prioritize-economic-need-household-size-internet-programs.md)
 
 ## Examples
 - **Epstein's Six Types of Involvement framework (Johns Hopkins NNPS)** — a widely used structure for school-family partnership that treats communication and parenting as shared responsibilities rather than family deficits (https://nnps.jhucsos.com).

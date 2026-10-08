@@ -45,3 +45,4 @@ The report's predictive-power analysis across the five instruments found that "T
 ## Related Claims
 - [All seven dimensions of instructional practice with quantitative data are modestly but significantly related to teachers' value-added scores](observation-dimensions-modestly-significantly-related-to-value-added.md) — related
 - [Eight of ten dimensions of instructional practice are common across all five examined teacher observation instruments](eight-of-ten-dimensions-common-across-five-observation-instruments.md) — related
+- [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](reach-observation-value-added-correlation-0349.md) — a broader claim this one bears on

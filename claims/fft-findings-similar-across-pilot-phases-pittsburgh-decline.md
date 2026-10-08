@@ -66,3 +66,4 @@ Cross-phase comparison of FFT-VAM correlations. The report states correlations w
 - [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](fft-vam-correlations-positive-019-022.md) — related
 - [Most school leaders received scores in the top two performance categories on FFL-measured practices](ffl-scores-concentrated-in-top-categories.md) — related
 - [FFT scores showed acceptable-to-good internal consistency, with the overall PPR score more internally consistent than any single domain score](fft-internal-consistency-acceptable-to-good.md) — related
+- [Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data](reach-performance-tasks-little-differentiation.md) — related

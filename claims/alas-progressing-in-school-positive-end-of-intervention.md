@@ -47,3 +47,4 @@ Randomized controlled trial, progressing-in-school outcome conditional on remain
 - [ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention](alas-staying-in-school-positive-end-of-intervention.md) — related
 - [The WWC rates ALAS as having potentially positive effects on staying in school and progressing in school](alas-wwc-potentially-positive-rating.md) — a broader claim this one bears on
 - [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
+- [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related

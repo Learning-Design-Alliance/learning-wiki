@@ -56,3 +56,7 @@ The source is a fact sheet for schools produced for Regional Educational Laborat
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
 - [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](kindergarten-transition-difficulty-academic-risk.md) — related
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
+- [Schools widely employ incentives to improve attendance across all grade levels](incentives-pervasive-prek-to-grade-12.md) — related
+- [Pre-kindergarten absence is widespread in a large urban district, particularly among African American students and those entering with the lowest skills](prek-absence-widespread-african-american-lowest-skills.md) — related
+- [Chronically absent pre-kindergarten students are more likely to be chronically absent in subsequent grades](prek-chronic-absence-predicts-later-chronic-absence.md) — a narrower finding that bears on this claim
+- [Chronic absenteeism is extremely common among CPS preschoolers, with 45 percent of three-year-olds and 36 percent of four-year-olds missing at least 10 percent of enrolled days](preschool-chronic-absenteeism-extremely-high-cps.md) — related

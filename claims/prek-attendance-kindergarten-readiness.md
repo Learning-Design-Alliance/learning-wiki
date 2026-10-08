@@ -52,3 +52,4 @@ The summary reports, citing the Phillips et al. (2017) consensus statement on pr
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related
 - [At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time](repeaters-lower-reading-math-end-first-grade.md) — related
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — a narrower finding that bears on this claim
+- [Chronically absent pre-kindergarten students (absent 10 percent or more of enrolled days) display lower academic and behavioral kindergarten readiness](chronic-prek-absence-lower-kindergarten-readiness.md) — related

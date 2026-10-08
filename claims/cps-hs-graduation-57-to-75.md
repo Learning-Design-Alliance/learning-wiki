@@ -47,3 +47,6 @@ Descriptive cohort analysis of CPS administrative records shown in Figure 3, com
 - [Seventy-six percent of CPS students graduated from high school in 2018, up from 57 percent in 2006](cps-graduation-rate-76-percent-2018.md) — related
 - [CPS Freshman OnTrack rates rose from 58 to 89 percent between 2007 and 2017 while graduation rates rose 19 percentage points](cps-ontrack-rose-58-to-89-graduation-up-19-points.md) — related
 - [Middle grades principals have lasting effects on students' high school outcomes and young-adult life outcomes, beyond contemporaneous achievement effects](middle-grades-principals-lasting-effects-student-outcomes.md) — related
+- [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
+- [CPS high school graduation rates rose from 57 percent to 74 percent between 2006 and 2016](cps-hs-graduation-rose-57-to-74.md) — related
+- [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — related

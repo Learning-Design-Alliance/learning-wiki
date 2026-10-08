@@ -46,3 +46,4 @@ Analysis of pilot observation data from the 2012-2013 school year covering 6,676
 - [Rating distributions and FFT-VAM relationships were broadly similar across the two pilot phases, though top-two-category ratings decreased somewhat in Pittsburgh](fft-findings-similar-across-pilot-phases-pittsburgh-decline.md) — related
 - [FFT scores showed acceptable-to-good internal consistency, with the overall PPR score more internally consistent than any single domain score](fft-internal-consistency-acceptable-to-good.md) — related
 - [Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective](nj-pilot-practice-ratings-varied-most-effective.md) — related
+- [Performance tasks did little to differentiate teachers, with most receiving high scores and over a third receiving default scores due to missing data](reach-performance-tasks-little-differentiation.md) — related

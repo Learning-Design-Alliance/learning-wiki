@@ -49,3 +49,6 @@ This is a descriptive statement in the fact sheet's introduction about how the p
 - [Female principals enacted care through a 'listening then deciding' pattern of situational decision making](listening-then-deciding-situational-decision-making.md) — related
 - [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related
 - [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](all-staff-family-communication-channels.md) — related
+- [Foxglove Elementary distributes leadership across staff roles but has few mechanisms to coordinate the work](foxglove-decentralized-leadership-weak-coordination.md) — related
+- [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related
+- [At Ivy Elementary, teachers lead grade-level goal setting and participate in school-level decisions, with the principal empowering staff](ivy-teacher-led-goals-collective-decisions.md) — a narrower finding that bears on this claim

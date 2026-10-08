@@ -47,3 +47,4 @@ The report's findings summary states the algorithm with 10-percent cutoffs is "g
 - [Near-term academic problems targeted include absenteeism, suspensions, poor grades, and low state-test performance](near-term-academic-problem-types-defined.md) — related
 - [The report examines how in-school and out-of-school predictors relate individually to each type of near-term academic problem](in-school-out-of-school-predictors-examined.md) — related
 - [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](ews-and-algorithm-less-accurate-black-students.md) — related
+- [Students at highest estimated risk of suspension felt safer when suspensions were reduced, while students at lowest risk saw the largest test score gains, with no evidence of overall academic harm](cps-suspension-reduction-risk-stratified-outcomes.md) — related

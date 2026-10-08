@@ -54,3 +54,4 @@ Difference-in-differences analysis of the Philadelphia reform finds that "Postre
 - [Serious incidents of student misconduct increased in Philadelphia following the discipline policy reform](philadelphia-reform-serious-incidents-increased.md) — related
 - [District math and English language arts achievement declined in Philadelphia following the discipline policy reform](philadelphia-reform-math-ela-achievement-declined.md) — related
 - [Attendance, but not academic achievement, improved for previously suspended students following the suspension reform](suspension-reform-improved-attendance-not-achievement.md) — related
+- [District policies discouraging suspensions show mixed effects: shortened suspensions were associated with improved attendance but worse school climate](discipline-policy-changes-mixed-effects.md) — related

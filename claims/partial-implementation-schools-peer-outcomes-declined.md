@@ -51,3 +51,4 @@ Difference-in-differences analysis of peer outcomes under the Philadelphia refor
 - [A Philadelphia reform prohibiting out-of-school suspension for classroom disorder decreased classroom disorder suspensions among students suspended before the reform](philadelphia-classroom-disorder-oss-ban-reduced-suspensions.md) — related
 - [Philadelphia schools varied significantly in how they implemented the discipline policy change](philadelphia-discipline-reform-implementation-varied-significantly.md) — a broader claim this one bears on
 - [Attendance, but not academic achievement, improved for previously suspended students following the suspension reform](suspension-reform-improved-attendance-not-achievement.md) — related
+- [District policies discouraging suspensions show mixed effects: shortened suspensions were associated with improved attendance but worse school climate](discipline-policy-changes-mixed-effects.md) — related

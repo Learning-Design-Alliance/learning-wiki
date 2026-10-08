@@ -64,3 +64,4 @@ Analysis of within-school classroom assignment changes under REACH. Teachers wit
 ## Related Claims
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
 - [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](reach-ratings-increased-over-time.md) — related
+- [Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change](reach-missed-observations-inability-to-rate.md) — related
