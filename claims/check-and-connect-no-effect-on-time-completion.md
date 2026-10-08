@@ -47,3 +47,4 @@ The 2005 replication RCT (144 students) examined whether students completed scho
 - [Check & Connect increases credits accrued (progressing in school) in one RCT](check-and-connect-increases-credits-progressing.md) — related
 - [Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities](check-and-connect-reduces-dropout-staying-in-school.md) — related
 - [Check & Connect increases the percentage still enrolled at end of fourth year (supplemental finding)](check-and-connect-still-enrolled-supplemental.md) — related
+- [Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63](dropout-programs-or-163-completion.md) — a broader claim this one bears on

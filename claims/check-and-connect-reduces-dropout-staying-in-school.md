@@ -68,3 +68,4 @@ Replication RCT with 144 ninth-graders with emotional or behavioral disabilities
 - [Check & Connect increases the percentage still enrolled at end of fourth year (supplemental finding)](check-and-connect-still-enrolled-supplemental.md) — a narrower finding that bears on this claim
 - [ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention](alas-staying-in-school-positive-end-of-intervention.md) — related
 - [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
+- [Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63](dropout-programs-or-163-completion.md) — a broader claim this one bears on

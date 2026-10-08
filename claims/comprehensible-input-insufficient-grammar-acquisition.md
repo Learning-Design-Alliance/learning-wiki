@@ -54,3 +54,4 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 - [In Spada's study, classes with less form-based listening practice improved listening significantly more than the class with the most](spada-listening-practice-paradox.md) — related
 - [Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement](white-adverb-placement-negative-evidence-failed.md) — related
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](cooperative-learning-language-class-outcomes.md) — related
+- [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related

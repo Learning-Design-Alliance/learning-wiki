@@ -48,9 +48,11 @@ For a teacher investigating their own classroom, this is most often small-scale 
 6. Repeat the cycle — action research is cyclical, not a single pass.
 
 ## Related Strategies
+
 - [Youth Participatory Action Research (YPAR)](youth-participatory-action-research-ypar.md) — a related but distinct methodology: student-led inquiry into their own communities, rather than teacher-led inquiry into their own classroom practice
 - [Peer Observation](peer_observation.md) — one data-collection method commonly used within an action research cycle
 - [Build Time for Self-Reflection](build_time_for_self-reflection.md) — the reflective habit action research systematizes into a research cycle
+- [Teachers and intervention designers should use mobile devices thoughtfully alongside other teaching approaches, ground designs in existing evidence, and evaluate rigorously](thoughtful-mobile-device-integration-recommendations.md)
 
 ## Examples
 - A teacher noticing that certain students rarely volunteer answers, reviewing the literature on classroom participation, trying a cold-call-with-think-time intervention, collecting participation data, and refining the approach for the next cycle

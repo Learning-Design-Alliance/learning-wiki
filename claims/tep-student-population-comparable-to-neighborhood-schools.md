@@ -47,3 +47,4 @@ Descriptive finding from the TEP evaluation on student characteristics and attri
 - [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](tep-four-years-math-gain-1-6-years.md) — related
 - [Four years of TEP attendance produced science gains equal to an additional 0.6 years of school relative to comparable NYC public school students](tep-four-years-science-gain-0-6-years.md) — related
 - [Four years of TEP attendance produced English language arts gains equal to an additional 0.4 years of school relative to comparable NYC public school students](tep-four-years-ela-gain-0-4-years.md) — related
+- [A 1997 New York City report found that increasing resource room instructional group sizes from 5 to at most 8 students per teacher led to decreases in reading achievement](gottlieb-1997-group-size-increase-lowered-reading-scores.md) — related

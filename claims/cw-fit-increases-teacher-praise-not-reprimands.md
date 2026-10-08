@@ -78,3 +78,4 @@ From the cluster randomized trial (Wills et al., 2016), reprimands to a group of
 - [CW-FIT has positive effects on teacher practice, with promising WWC evidence across five studies in prekindergarten through grade 7](cw-fit-positive-effects-teacher-practice.md) — a broader claim this one bears on
 - [CW-FIT has positive effects on student behavior, with strong WWC evidence across six studies in kindergarten through grade 10](cw-fit-positive-effects-student-behavior.md) — related
 - [In a cluster randomized trial, CW-FIT classes showed a lower percentage of time displaying disruptive behaviors than comparison classes over six months](cw-fit-reduces-disruptive-behaviors-wills-2016.md) — related
+- [Group-design studies show a significant main effect of self-management interventions on classroom behaviors (g = 0.63), but rest on only four studies](sm-group-design-main-effect-g063.md) — related

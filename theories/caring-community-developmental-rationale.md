@@ -46,6 +46,7 @@ The program rests on a research-based account of students' academic, social, and
 
 - [Gilligan's Ethic of Care](gilligans-ethic-of-care.md)
 - [Kohlberg's Stages of Moral Development](kohlberg-moral-development.md)
+- [Recovery school theory of change: sober peer connectedness and social capital support recovery and academic achievement](recovery-school-social-capital-theory-of-change.md)
 
 ## Examples
 

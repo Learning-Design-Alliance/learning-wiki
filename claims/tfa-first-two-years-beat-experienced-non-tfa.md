@@ -48,3 +48,6 @@ The experimental study compares early-career TFA teachers with more experienced 
 - [TFA secondary math teachers increase student math achievement by 0.07 standard deviations over one school year relative to other math teachers in the same schools](tfa-math-teachers-raise-achievement-007-sd.md) — related
 - [A randomized controlled trial found TFA secondary math teachers outperformed non-TFA comparison teachers in mathematics achievement](clark-2013-tfa-secondary-math-rct-positive.md) — related
 - [This is the first large-scale experimental study of secondary math teachers from Teach For America](first-large-scale-experimental-study-tfa-math.md) — related
+- [Teaching by first- or second-year TFA corps members shows no significant effect on elementary-grade students' reading compared with non-TFA novice teachers](tfa-corps-no-significant-reading-effect-elementary.md) — related
+- [Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading](tfa-experimental-studies-positive-math-no-reading-effect.md) — a broader claim this one bears on
+- [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](tfa-small-positive-early-elementary-reading-not-math.md) — related

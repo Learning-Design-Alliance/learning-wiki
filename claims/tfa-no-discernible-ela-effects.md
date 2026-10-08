@@ -46,3 +46,5 @@ This is the systematic review's synthesis of the English language arts domain fr
 - [TFA teachers show no discernible effects on social studies achievement, based on one study](tfa-no-discernible-social-studies-effects.md) — related
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — related
 - [TFA teachers show potentially positive effects on science achievement, based on one study](tfa-potentially-positive-science-effects.md) — related
+- [The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies](tfa-evidence-base-reduced-to-four-studies.md) — related
+- [Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading](tfa-experimental-studies-positive-math-no-reading-effect.md) — possibly the same claim (merge candidate)

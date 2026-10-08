@@ -82,3 +82,4 @@ A systematic review of 36 vocabulary interventions with comprehension outcomes, 
 - [Cognitive load management](../principles/cognitive-load-management.md) — instructional-time trade-offs against reading load sit under this broader principle
 - [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
+- [Prior meta-analyses combining taught-vocabulary (proximal) with generalized outcomes report much larger vocabulary effects than generalized-only syntheses](proximal-outcomes-inflate-vocabulary-effect-sizes-in-prior-reviews.md) — related

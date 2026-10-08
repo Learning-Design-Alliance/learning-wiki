@@ -43,3 +43,4 @@ Supplemental findings table reporting students’ outcomes one year after the en
 ## Related Claims
 - [In the Torgesen et al. (2006) RCT, SpellRead™ showed indeterminate effects for fifth graders, with no statistically significant or substantively important effects in any domain after six months](torgesen-2006-spellread-indeterminate.md) — related
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](lips-supplemental-followup-mixed-findings.md) — related
+- [Longer-run effects of targeted secondary interventions are small and not statistically significant, with only seven studies providing follow-up evidence](long-run-effects-null-seven-studies.md) — a broader claim this one bears on

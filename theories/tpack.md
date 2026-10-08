@@ -45,6 +45,10 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 
 - [Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy](../claims/lab-technology-gains-depend-on-active-engagement-pedagogy.md) [+M]
 
+## Related Theories
+
+- [TPACK framework (Technological, Pedagogical and Content Knowledge) for teacher technology integration](tpack-framework-teacher-technology-integration.md)
+
 ## Related Principles
 - [Technology Integration Levels (SAMR / RAT / PIC-RAT)](technology-integration-levels.md) — a complementary framework for judging the effect a specific technology choice is having, once a TPACK-informed choice has been made
 

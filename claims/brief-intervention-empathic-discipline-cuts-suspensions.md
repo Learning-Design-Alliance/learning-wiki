@@ -77,3 +77,4 @@ Middle-school math teachers were randomized to a 45–70-minute online empathic-
 - [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
 - [Teachers feel more in control and more competent when they have a formal plan for discipline and procedures](formal-discipline-plan-increases-teacher-control-and-competence.md) — related
 - [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](pbis-suspensions-decreased-41-percent.md) — related
+- [Interventions are more effective for general suspensions and in-school exclusion than for severe sanctions such as permanent exclusion and out-of-school suspension](exclusion-type-moderates-intervention-effect.md) — related
