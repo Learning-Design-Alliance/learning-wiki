@@ -41,6 +41,7 @@ The article recommends that teachers use the course design matrix to implement p
 ## Related Strategies
 
 - [Adopt and adapt parts of several cooperative learning models to fit your teaching style and situation](adopt-and-adapt-multiple-cl-models.md)
+- [Use context-specific fit questions to decide whether a specific measure suits your setting](context-fit-questions-for-measure-selection.md)
 
 ## Examples
 -

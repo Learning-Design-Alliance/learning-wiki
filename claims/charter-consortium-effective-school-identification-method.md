@@ -1,0 +1,46 @@
+---
+type: claim
+title: "A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year."
+description: "A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year."
+id: charter-consortium-effective-school-identification-method
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-08
+evidence_strength: weak
+sources:
+  - id: kevin-booker-2008
+    resource: "https://www.mathematica.org/publications/measuring-charter-school-effectiveness-across-states"
+    title: "Kevin Booker, Duncan Chaplin, Eric Isenberg. (2008). Measuring Charter School Effectiveness Across States. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/measuring-charter-school-effectiveness-across-states"
+    author: Kevin Booker, Duncan Chaplin, Eric Isenberg
+    q: 1
+    i: "?"
+    kind: design
+    rigour: 1
+---
+
+# A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r1` · `q1`
+
+## Subclaims
+`q1 i?` In the first year of the project, Mathematica applied a designed method to identify effective schools for a 99-school charter consortium spanning 18 states and the District of Columbia. [→ Kevin Booker 2008](#kevin-booker-2008)
+
+## Evidence
+
+### Kevin Booker 2008
+
+Kevin Booker, Duncan Chaplin, Eric Isenberg. (2008). Measuring Charter School Effectiveness Across States. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/measuring-charter-school-effectiveness-across-states
+
+`q1 · i?` · `design · r1`
+
+Descriptive report abstract stating the scope of the identification method: a consortium of 99 charter schools across 18 states and the District of Columbia, measured during the project's first year. The page prints no effect sizes or performance statistics.
+
+> "This report presents the method used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia during the first year of this project."
+
+## Discussion
+
+
+## Related Claims
+- [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related

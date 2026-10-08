@@ -51,3 +51,4 @@ This is a single-classroom case study with one teacher and no comparison conditi
 - [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
 - [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) — related
+- [Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12](teachers-key-role-secondary-writing-outcomes.md) — related

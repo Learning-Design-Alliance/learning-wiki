@@ -73,3 +73,4 @@ A second MANOVA replaced the overall score with a focus score on ten chapters ea
 - [Randomized A/B tests of interventions encouraging higher-level study increased lessons completed per level by more than 10% and increased overall studying activity](ab-tests-level-interventions-increase-lessons.md) — related
 - [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](srl-effect-no-course-type-difference.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
+- [Measuring the impact of math instruction and interventions is key to improving students' overall math performance](measuring-math-impact-key-to-improving-performance.md) — related

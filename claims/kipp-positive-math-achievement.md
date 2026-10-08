@@ -47,3 +47,4 @@ WWC systematic review of four studies meeting group design standards. Table 1 re
 - [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — related
 - [KIPP charter schools have potentially positive effects on science achievement for middle and high school students](kipp-potentially-positive-science.md) — related
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — a narrower finding that bears on this claim
+- [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — a narrower finding that bears on this claim

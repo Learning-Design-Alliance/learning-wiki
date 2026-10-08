@@ -103,3 +103,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Aronson et al. (2002) pen-pal growth mindset intervention produced a statistically significant positive effect on quarter GPA (effect size 0.85)](aronson-2002-significant-gpa-effect.md) — a narrower finding that bears on this claim
 - [Growth Mindset interventions have no discernible effects on college enrollment and progressing in college](growth-mindset-no-discernible-enrollment-progressing.md) — related
+- [Evidence of changes in growth mindset or math confidence after the summer programs was minimal](summer-math-programs-minimal-mindset-confidence-change.md) — related

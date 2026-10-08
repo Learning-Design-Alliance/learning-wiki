@@ -50,3 +50,4 @@ Per-indicator comparison plotted in Figure 5 from the quasi-experimental study (
 - [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related
 - [Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic](teachers-adapt-tefa-to-own-terms.md) — related
 - [After one year of TEFA professional development, videotaped lessons showed increased discussion time, more student-student interactions, less IRE interaction, and more varied discussion formats](tefa-pd-year-one-observable-practice-changes.md) — related
+- [Significantly more TPP teachers encouraged students' higher-order thinking skills than district-supported comparison teachers](tpp-teachers-encouraged-higher-order-thinking.md) — related

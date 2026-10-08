@@ -49,6 +49,7 @@ ELLM's instructional support system uses two programs, one developing teachers a
 - [Deliver professional development through a 2-week summer institute followed by year-long on-site coaching](summer-training-plus-onsite-coaching-strategy.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
+- [Use summer programs as learning labs for teachers to practice new instructional strategies](summer-programs-as-teacher-learning-labs.md)
 
 ## Examples
 -

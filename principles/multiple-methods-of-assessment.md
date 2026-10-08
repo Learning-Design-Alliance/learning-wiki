@@ -161,6 +161,7 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Varying Levels of Choice in Assessments](../strategies/varying_levels_of_choice_in_assessments.md) — bounded choice of format in practice.
 - [Authentic Assessment](../patterns/authentic-assessment.md) — a performance with feedback and revision, often paired with a written account.
 - [Family-interview-based assessment task design](../methods/family-interview-based-assessment-task-design.md) — building a context-grounded second method for young children.
+- [Combine observational measures with other methods in formative evaluation of preschool-through-third-grade programs, keeping them free of high stakes.](../strategies/multimethod-formative-evaluation-early-childhood-strategy.md)
 
 ## Key Sources
 - Andrade, H. L., & Brookhart, S. M. (2020). Classroom assessment as the co-regulation of learning. *Assessment in Education: Principles, Policy & Practice, 27*(4), 350-372. [https://doi.org/10.1080/0969594X.2019.1571992](https://doi.org/10.1080/0969594X.2019.1571992)

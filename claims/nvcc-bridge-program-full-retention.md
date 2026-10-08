@@ -44,3 +44,4 @@ Reported outcome for one cohort of the NVCC summer bridge program, which refresh
 
 ## Related Claims
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
+- [Students in three summer math programs showed large improvements in grades the semester after the program](summer-math-programs-large-grade-improvements-next-semester.md) — related

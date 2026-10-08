@@ -44,3 +44,4 @@ WWC review of Peters (1992), an RCT in one Nebraska junior high school in which 
 
 ## Related Claims
 - [UCSMP Algebra shows mixed effects on the algebra domain: one study finds a statistically significant positive effect and one finds an indeterminate effect](ucsmp-algebra-mixed-algebra-domain-effects.md) — reports the opposite
+- [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) — related

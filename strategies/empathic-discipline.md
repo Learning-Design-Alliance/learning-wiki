@@ -57,9 +57,11 @@ The intervention targets teachers' implicit theories of misbehavior: when teache
 5. Align school policy so empathic responses are feasible — exclusionary consequences mandated from above undermine the intervention.
 
 ## Related Strategies
+
 - [Restorative Practices](restorative-practices.md) — a fuller system of relationship-centered responses to harm; empathic discipline provides the mindset foundation
 - [Belonging Interventions](belonging-interventions.md) — student-facing counterpart; both target the belonging–trust cycle from opposite sides
 - [Growth Mindset Framing](growth-mindset-framing.md) — shares the self-persuasion and malleability mechanisms, applied to ability rather than behavior
+- [Identify and address the root causes of discipline disparities in schools flagged as disproportionate](address-root-causes-discipline-disparities.md)
 
 ## Examples
 - **Okonofua, Paunesku, & Walton (2016) field trial** — A 45-minute online module for 39 middle-school math teachers cut suspensions roughly in half (from ~9.6% to ~4.8% of students) across five middle schools, with the largest gains for Black and Latino students ([PDF](https://www.pnas.org/doi/10.1073/pnas.1523698113)).

@@ -41,7 +41,8 @@ The article offers its method comparison as "a useful template for test analysts
 - [Icc Unsigned Area Dif Method](../theories/icc-unsigned-area-dif-method.md)
 
 ## Related Strategies
-- 
+
+- [Use context-specific fit questions to decide whether a specific measure suits your setting](context-fit-questions-for-measure-selection.md)
 
 ## Examples
 -

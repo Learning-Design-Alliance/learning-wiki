@@ -50,6 +50,7 @@ The article adopts the Singapore Polytechnic Department of Educational Developme
 ## Examples
 
 - [Ideation discussion activities in Design Thinking course](../elements/ideation-discussion-design-thinking-course.md)
+- [M&E toolkit accompanying the four-phase approach](../elements/me-approach-associated-toolkit.md)
 
 ## Key Sources
 - Buphate, T. & Esteban, R. H. (2022). Using ideation discussion activities in Design Thinking to develop EFL students' speaking and critical thinking abilities. LEARN Journal: Language Education and Acquisition Research Network, 15(1), 682-708. https://so04.tci-thaijo.org/index.php/LEARN/index

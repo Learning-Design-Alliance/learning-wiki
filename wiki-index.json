@@ -1,15 +1,15 @@
 {
  "counts": {
-  "claim": 4509,
-  "design": 192,
-  "element": 1071,
+  "claim": 4607,
+  "design": 193,
+  "element": 1094,
   "learner-variable": 12,
   "method": 38,
   "pattern": 126,
   "principle": 375,
   "process": 18,
-  "strategy": 3416,
-  "theory": 1007
+  "strategy": 3440,
+  "theory": 1014
  },
  "kinds": [
   "claim",
@@ -186,6 +186,15 @@
    "path": "claims/ablation-all-features-maximize-auc.md",
    "status": "draft",
    "title": "Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs",
+   "type": "claim"
+  },
+  {
+   "description": "About half of surveyed students agreed Ecree was easy to use and helped improve their writing",
+   "evidence_strength": "weak",
+   "id": "about-half-of-students-found-ecree-easy-and-helpful",
+   "path": "claims/about-half-of-students-found-ecree-easy-and-helpful.md",
+   "status": "draft",
+   "title": "About half of surveyed students agreed Ecree was easy to use and helped improve their writing",
    "type": "claim"
   },
   {
@@ -3735,6 +3744,15 @@
    "type": "claim"
   },
   {
+   "description": "Missouri's Teacher Career Ladder program has at most a very small positive effect on student test scores",
+   "evidence_strength": "moderate",
+   "id": "career-ladder-missouri-small-or-no-achievement-effect",
+   "path": "claims/career-ladder-missouri-small-or-no-achievement-effect.md",
+   "status": "draft",
+   "title": "Missouri's Teacher Career Ladder program has at most a very small positive effect on student test scores",
+   "type": "claim"
+  },
+  {
    "description": "In a cluster randomized study across 73 high schools, Carnegie Learning students scored higher on the Algebra Proficiency Exam, with cohort effect sizes of +0.07 and +0.21",
    "evidence_strength": "moderate",
    "id": "carnegie-learning-algebra-i-cluster-randomized-cohorts",
@@ -4137,6 +4155,15 @@
    "path": "claims/character-education-didacticism-critique-dewey-bridge.md",
    "status": "draft",
    "title": "Character education is criticized for didacticism and de-emphasizing reflection and moral judgment, and Dewey's deliberation is proposed as a bridge between it and Kohlberg's approach",
+   "type": "claim"
+  },
+  {
+   "description": "A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.",
+   "evidence_strength": "weak",
+   "id": "charter-consortium-effective-school-identification-method",
+   "path": "claims/charter-consortium-effective-school-identification-method.md",
+   "status": "draft",
+   "title": "A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.",
    "type": "claim"
   },
   {
@@ -9013,6 +9040,24 @@
    "type": "claim"
   },
   {
+   "description": "Greater participation of district experts in the research process increases the potential for effective research, policy, and practice",
+   "evidence_strength": "weak",
+   "id": "district-expert-participation-increases-research-effectiveness",
+   "path": "claims/district-expert-participation-increases-research-effectiveness.md",
+   "status": "draft",
+   "title": "Greater participation of district experts in the research process increases the potential for effective research, policy, and practice",
+   "type": "claim"
+  },
+  {
+   "description": "Districts with data systems in place still face challenges in the strategic use of data",
+   "evidence_strength": "weak",
+   "id": "districts-face-strategic-data-use-challenges-despite-systems",
+   "path": "claims/districts-face-strategic-data-use-challenges-despite-systems.md",
+   "status": "draft",
+   "title": "Districts with data systems in place still face challenges in the strategic use of data",
+   "type": "claim"
+  },
+  {
    "description": "Transitions and disturbances were crucial for the dynamics of expansive learning in the meeting",
    "evidence_strength": "weak",
    "id": "disturbances-crucial-expansive-learning-dynamics",
@@ -9744,6 +9789,42 @@
    "type": "claim"
   },
   {
+   "description": "Districts' costs for using Ecree depend on implementation and support needs, and the price per student would likely be lower for larger districts",
+   "evidence_strength": "weak",
+   "id": "ecree-district-costs-depend-on-implementation-lower-for-larger-districts",
+   "path": "claims/ecree-district-costs-depend-on-implementation-lower-for-larger-districts.md",
+   "status": "draft",
+   "title": "Districts' costs for using Ecree depend on implementation and support needs, and the price per student would likely be lower for larger districts",
+   "type": "claim"
+  },
+  {
+   "description": "Teachers and students found Ecree easy to use and helpful for improving writing",
+   "evidence_strength": "moderate",
+   "id": "ecree-easy-to-use-and-helpful-per-teachers-and-students",
+   "path": "claims/ecree-easy-to-use-and-helpful-per-teachers-and-students.md",
+   "status": "draft",
+   "title": "Teachers and students found Ecree easy to use and helpful for improving writing",
+   "type": "claim"
+  },
+  {
+   "description": "Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year",
+   "evidence_strength": "moderate",
+   "id": "ecree-improved-writing-quality-especially-less-advanced-writers",
+   "path": "claims/ecree-improved-writing-quality-especially-less-advanced-writers.md",
+   "status": "draft",
+   "title": "Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year",
+   "type": "claim"
+  },
+  {
+   "description": "Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year",
+   "evidence_strength": "weak",
+   "id": "ecree-likely-improved-writing-quality-especially-less-advanced-starters",
+   "path": "claims/ecree-likely-improved-writing-quality-especially-less-advanced-starters.md",
+   "status": "draft",
+   "title": "Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year",
+   "type": "claim"
+  },
+  {
    "description": "Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)",
    "evidence_strength": "moderate",
    "id": "ecri-improves-word-reading-outcomes-first-grade",
@@ -10370,6 +10451,15 @@
    "path": "claims/eleven-components-iar-cdr.md",
    "status": "draft",
    "title": "Principal components analyses of both the IAR and CDR yield eleven components with eigenvalues of one or greater",
+   "type": "claim"
+  },
+  {
+   "description": "Most teachers in the 11 SIG schools participated in ELL-related professional development, but it accounted for less than 20 percent of their total PD hours",
+   "evidence_strength": "moderate",
+   "id": "ell-pd-participation-under-20-percent-of-pd-hours",
+   "path": "claims/ell-pd-participation-under-20-percent-of-pd-hours.md",
+   "status": "draft",
+   "title": "Most teachers in the 11 SIG schools participated in ELL-related professional development, but it accounted for less than 20 percent of their total PD hours",
    "type": "claim"
   },
   {
@@ -11279,6 +11369,15 @@
    "path": "claims/everyday-mathematics-taas-subtest-effects-nonsignificant.md",
    "status": "draft",
    "title": "Everyday Mathematics\u00ae showed positive effects on TAAS math subtests (Concepts, Operations, Problem Solving) with effect sizes of 0.25 to 0.31 that were not statistically significant after clustering correction",
+   "type": "claim"
+  },
+  {
+   "description": "Progress in evidence-based solution development is not always linear; evidence determines phase movement",
+   "evidence_strength": "weak",
+   "id": "evidence-determines-nonlinear-phase-movement",
+   "path": "claims/evidence-determines-nonlinear-phase-movement.md",
+   "status": "draft",
+   "title": "Progress in evidence-based solution development is not always linear; evidence determines phase movement",
    "type": "claim"
   },
   {
@@ -12814,12 +12913,30 @@
    "type": "claim"
   },
   {
+   "description": "Few districts structured pay-for-performance bonuses to align well with TIF grant guidance",
+   "evidence_strength": "moderate",
+   "id": "few-districts-aligned-bonuses-with-tif-guidance",
+   "path": "claims/few-districts-aligned-bonuses-with-tif-guidance.md",
+   "status": "draft",
+   "title": "Few districts structured pay-for-performance bonuses to align well with TIF grant guidance",
+   "type": "claim"
+  },
+  {
    "description": "Few kindergartners hold synthetic (18%) or scientific (13%) models of the day and night cycle despite no formal instruction",
    "evidence_strength": "moderate",
    "id": "few-kindergartners-synthetic-scientific-models",
    "path": "claims/few-kindergartners-synthetic-scientific-models.md",
    "status": "draft",
    "title": "Few kindergartners hold synthetic (18%) or scientific (13%) models of the day and night cycle despite no formal instruction",
+   "type": "claim"
+  },
+  {
+   "description": "Few SIG schools with high ELL enrollments used staffing strategies to build teacher capacity for serving ELLs",
+   "evidence_strength": "moderate",
+   "id": "few-sig-schools-staffing-strategies-ell-teacher-capacity",
+   "path": "claims/few-sig-schools-staffing-strategies-ell-teacher-capacity.md",
+   "status": "draft",
+   "title": "Few SIG schools with high ELL enrollments used staffing strategies to build teacher capacity for serving ELLs",
    "type": "claim"
   },
   {
@@ -13521,6 +13638,15 @@
    "type": "claim"
   },
   {
+   "description": "Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled",
+   "evidence_strength": "weak",
+   "id": "foundations-scale-by-supporting-ready-interventions",
+   "path": "claims/foundations-scale-by-supporting-ready-interventions.md",
+   "status": "draft",
+   "title": "Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled",
+   "type": "claim"
+  },
+  {
    "description": "FICSMath instructional experiences converge into four 4C/ID-aligned factors: complex tasks (4 items), whole-task concept overviews (17), procedural support (16), and practice opportunities (13)",
    "evidence_strength": "moderate",
    "id": "four-4cid-factors-observed-variable-counts",
@@ -13806,6 +13932,15 @@
    "path": "claims/functional-fixedness-limits-problem-solving.md",
    "status": "draft",
    "title": "Functional fixedness \u2014 treating an object's or idea's function as fixed \u2014 blocks solutions that require reinterpreting it.",
+   "type": "claim"
+  },
+  {
+   "description": "Funders generally defer to reviewers on how to weigh intellectual merit versus broader impacts, leaving relative emphasis to reviewer discretion",
+   "evidence_strength": "moderate",
+   "id": "funders-defer-to-reviewer-discretion-on-criterion-weighting",
+   "path": "claims/funders-defer-to-reviewer-discretion-on-criterion-weighting.md",
+   "status": "draft",
+   "title": "Funders generally defer to reviewers on how to weigh intellectual merit versus broader impacts, leaving relative emphasis to reviewer discretion",
    "type": "claim"
   },
   {
@@ -14863,6 +14998,15 @@
    "type": "claim"
   },
   {
+   "description": "Teachers in SIG schools with a greater PD focus on ELL-related topics more often reported that PD improved their effectiveness as teachers of ELLs",
+   "evidence_strength": "weak",
+   "id": "greater-ell-pd-focus-linked-to-reported-effectiveness-gains",
+   "path": "claims/greater-ell-pd-focus-linked-to-reported-effectiveness-gains.md",
+   "status": "draft",
+   "title": "Teachers in SIG schools with a greater PD focus on ELL-related topics more often reported that PD improved their effectiveness as teachers of ELLs",
+   "type": "claim"
+  },
+  {
    "description": "Scale scores for object construction and imitation intercorrelate highly in the Greek sample",
    "evidence_strength": "weak",
    "id": "greek-scale-intercorrelations-high",
@@ -14950,6 +15094,15 @@
    "path": "claims/grievance-paradox-peer-promotion-disputes.md",
    "status": "draft",
    "title": "Under a unionized grievance procedure, most presidential grievance cases were faculty-versus-peers promotion disputes, creating a paradox absent from industrial bargaining",
+   "type": "claim"
+  },
+  {
+   "description": "Multiple math tutoring approaches, including group and virtual tutoring, can boost students' math knowledge in grades 4\u201310",
+   "evidence_strength": "moderate",
+   "id": "group-and-virtual-tutoring-boost-math-knowledge",
+   "path": "claims/group-and-virtual-tutoring-boost-math-knowledge.md",
+   "status": "draft",
+   "title": "Multiple math tutoring approaches, including group and virtual tutoring, can boost students' math knowledge in grades 4\u201310",
    "type": "claim"
   },
   {
@@ -16869,6 +17022,15 @@
    "type": "claim"
   },
   {
+   "description": "The authors interpret the same-offense discipline gap as suggesting possible implicit bias against Black students and students with disabilities",
+   "evidence_strength": "weak",
+   "id": "implicit-bias-possible-discipline-disparities",
+   "path": "claims/implicit-bias-possible-discipline-disparities.md",
+   "status": "draft",
+   "title": "The authors interpret the same-offense discipline gap as suggesting possible implicit bias against Black students and students with disabilities",
+   "type": "claim"
+  },
+  {
    "description": "A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance",
    "evidence_strength": "weak",
    "id": "implicit-scaffolding-supports-immediate-exploration",
@@ -17535,6 +17697,15 @@
    "path": "claims/integrity-equity-concerns-span-all-units.md",
    "status": "draft",
    "title": "Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently",
+   "type": "claim"
+  },
+  {
+   "description": "Funders and reviewers assess intellectual merit using both discovery potential and inquiry plans, but assess broader impacts focusing on outcomes with less attention to methods",
+   "evidence_strength": "moderate",
+   "id": "intellectual-merit-versus-broader-impacts-assessment-focus",
+   "path": "claims/intellectual-merit-versus-broader-impacts-assessment-focus.md",
+   "status": "draft",
+   "title": "Funders and reviewers assess intellectual merit using both discovery potential and inquiry plans, but assess broader impacts focusing on outcomes with less attention to methods",
    "type": "claim"
   },
   {
@@ -18679,6 +18850,15 @@
    "type": "claim"
   },
   {
+   "description": "In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial",
+   "evidence_strength": "moderate",
+   "id": "kipp-middle-schools-positive-significant-math-reading-impacts",
+   "path": "claims/kipp-middle-schools-positive-significant-math-reading-impacts.md",
+   "status": "draft",
+   "title": "In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial",
+   "type": "claim"
+  },
+  {
    "description": "KIPP charter schools have potentially positive effects on social studies achievement, with mixed study findings",
    "evidence_strength": "mixed",
    "id": "kipp-mixed-social-studies",
@@ -18724,12 +18904,48 @@
    "type": "claim"
   },
   {
+   "description": "KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school",
+   "evidence_strength": "weak",
+   "id": "kipp-prek-added-reading-benefit-beyond-elementary",
+   "path": "claims/kipp-prek-added-reading-benefit-beyond-elementary.md",
+   "status": "draft",
+   "title": "KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school",
+   "type": "claim"
+  },
+  {
+   "description": "KIPP Pre-K combined with KIPP early elementary school has positive, statistically significant impacts on reading and math achievement after five years",
+   "evidence_strength": "moderate",
+   "id": "kipp-prek-elementary-five-year-reading-math-impacts",
+   "path": "claims/kipp-prek-elementary-five-year-reading-math-impacts.md",
+   "status": "draft",
+   "title": "KIPP Pre-K combined with KIPP early elementary school has positive, statistically significant impacts on reading and math achievement after five years",
+   "type": "claim"
+  },
+  {
+   "description": "KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function",
+   "evidence_strength": "weak",
+   "id": "kipp-prek-possible-executive-function-impact",
+   "path": "claims/kipp-prek-possible-executive-function-impact.md",
+   "status": "draft",
+   "title": "KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function",
+   "type": "claim"
+  },
+  {
    "description": "A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests",
    "evidence_strength": "moderate",
    "id": "kipp-rct-lottery-positive-effects",
    "path": "claims/kipp-rct-lottery-positive-effects.md",
    "status": "draft",
    "title": "A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests",
+   "type": "claim"
+  },
+  {
+   "description": "The KIPP impact on reading skills persists over time, but impacts on reading comprehension largely dissipate by grade 2",
+   "evidence_strength": "moderate",
+   "id": "kipp-reading-skills-persist-comprehension-dissipates-grade-2",
+   "path": "claims/kipp-reading-skills-persist-comprehension-dissipates-grade-2.md",
+   "status": "draft",
+   "title": "The KIPP impact on reading skills persists over time, but impacts on reading comprehension largely dissipate by grade 2",
    "type": "claim"
   },
   {
@@ -19147,6 +19363,15 @@
    "type": "claim"
   },
   {
+   "description": "A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood",
+   "evidence_strength": "weak",
+   "id": "landscape-analysis-collected-instruments-learning-strategies-mindsets",
+   "path": "claims/landscape-analysis-collected-instruments-learning-strategies-mindsets.md",
+   "status": "draft",
+   "title": "A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood",
+   "type": "claim"
+  },
+  {
    "description": "Drop-out from adult language classes is slightly higher than from other courses, with anxiety and feelings of inadequacy a contributing reason",
    "evidence_strength": "weak",
    "id": "language-class-dropout-anxiety",
@@ -19243,6 +19468,15 @@
    "path": "claims/larger-class-size-poorer-performance.md",
    "status": "draft",
    "title": "Larger class size linked to poorer student and teacher performance (review attribution)",
+   "type": "claim"
+  },
+  {
+   "description": "The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools",
+   "evidence_strength": "moderate",
+   "id": "largest-experimental-study-of-math-curricula-110-schools",
+   "path": "claims/largest-experimental-study-of-math-curricula-110-schools.md",
+   "status": "draft",
+   "title": "The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools",
    "type": "claim"
   },
   {
@@ -20170,6 +20404,15 @@
    "type": "claim"
   },
   {
+   "description": "When engagement with partners is relatively limited, researchers should be especially thoughtful about how findings translate to action-oriented recommendations",
+   "evidence_strength": "weak",
+   "id": "limited-engagement-requires-careful-action-oriented-recommendations",
+   "path": "claims/limited-engagement-requires-careful-action-oriented-recommendations.md",
+   "status": "draft",
+   "title": "When engagement with partners is relatively limited, researchers should be especially thoughtful about how findings translate to action-oriented recommendations",
+   "type": "claim"
+  },
+  {
    "description": "Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English",
    "evidence_strength": "moderate",
    "id": "limited-english-use-opportunities-after-training",
@@ -20611,12 +20854,39 @@
    "type": "claim"
   },
   {
+   "description": "Secondary students who received more LLI or were pulled out of other classes were particularly negatively affected, possibly from missing grade-level content",
+   "evidence_strength": "weak",
+   "id": "lli-more-dosage-pullout-negatively-affected",
+   "path": "claims/lli-more-dosage-pullout-negatively-affected.md",
+   "status": "draft",
+   "title": "Secondary students who received more LLI or were pulled out of other classes were particularly negatively affected, possibly from missing grade-level content",
+   "type": "claim"
+  },
+  {
+   "description": "LLI had a negative impact on secondary students' mastery of English language arts/literacy standards",
+   "evidence_strength": "moderate",
+   "id": "lli-negative-impact-ela-standards-mastery",
+   "path": "claims/lli-negative-impact-ela-standards-mastery.md",
+   "status": "draft",
+   "title": "LLI had a negative impact on secondary students' mastery of English language arts/literacy standards",
+   "type": "claim"
+  },
+  {
    "description": "In the 2010 RCT, LLI showed no discernible effects on alphabetics (domain average effect size 0.13, not statistically significant)",
    "evidence_strength": "moderate",
    "id": "lli-no-discernible-alphabetics-effects",
    "path": "claims/lli-no-discernible-alphabetics-effects.md",
    "status": "draft",
    "title": "In the 2010 RCT, LLI showed no discernible effects on alphabetics (domain average effect size 0.13, not statistically significant)",
+   "type": "claim"
+  },
+  {
+   "description": "LLI had no impact on secondary students' reading comprehension in the Oakland RCT",
+   "evidence_strength": "moderate",
+   "id": "lli-no-impact-adolescent-reading-comprehension",
+   "path": "claims/lli-no-impact-adolescent-reading-comprehension.md",
+   "status": "draft",
+   "title": "LLI had no impact on secondary students' reading comprehension in the Oakland RCT",
    "type": "claim"
   },
   {
@@ -20629,12 +20899,57 @@
    "type": "claim"
   },
   {
+   "description": "Students pulled out of other classes to receive LLI were particularly negatively affected",
+   "evidence_strength": "weak",
+   "id": "lli-pull-out-students-particularly-negatively-affected",
+   "path": "claims/lli-pull-out-students-particularly-negatively-affected.md",
+   "status": "draft",
+   "title": "Students pulled out of other classes to receive LLI were particularly negatively affected",
+   "type": "claim"
+  },
+  {
+   "description": "Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity",
+   "evidence_strength": "moderate",
+   "id": "lli-secondary-implementation-challenges-variation",
+   "path": "claims/lli-secondary-implementation-challenges-variation.md",
+   "status": "draft",
+   "title": "Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity",
+   "type": "claim"
+  },
+  {
+   "description": "LLI had a negative impact on secondary students' mastery of English language arts/literacy standards",
+   "evidence_strength": "moderate",
+   "id": "lli-secondary-negative-impact-ela-standards",
+   "path": "claims/lli-secondary-negative-impact-ela-standards.md",
+   "status": "draft",
+   "title": "LLI had a negative impact on secondary students' mastery of English language arts/literacy standards",
+   "type": "claim"
+  },
+  {
+   "description": "In an RCT in Oakland secondary schools, LLI had no impact on students' reading comprehension",
+   "evidence_strength": "moderate",
+   "id": "lli-secondary-no-impact-reading-comprehension",
+   "path": "claims/lli-secondary-no-impact-reading-comprehension.md",
+   "status": "draft",
+   "title": "In an RCT in Oakland secondary schools, LLI had no impact on students' reading comprehension",
+   "type": "claim"
+  },
+  {
    "description": "In the 2013 RCT, subgroup findings for female students in grades 1\u20132 on the STAR Early Literacy Assessment were positive but not statistically significant, yet large enough to be considered substantively important",
    "evidence_strength": "weak",
    "id": "lli-star-female-subgroup-positive-nonsignificant",
    "path": "claims/lli-star-female-subgroup-positive-nonsignificant.md",
    "status": "draft",
    "title": "In the 2013 RCT, subgroup findings for female students in grades 1\u20132 on the STAR Early Literacy Assessment were positive but not statistically significant, yet large enough to be considered substantively important",
+   "type": "claim"
+  },
+  {
+   "description": "Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions",
+   "evidence_strength": "moderate",
+   "id": "lli-students-fell-short-recommended-sessions",
+   "path": "claims/lli-students-fell-short-recommended-sessions.md",
+   "status": "draft",
+   "title": "Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions",
    "type": "claim"
   },
   {
@@ -20980,6 +21295,15 @@
    "type": "claim"
   },
   {
+   "description": "Low-income children show theory of mind development differences compared with typically studied higher-income samples",
+   "evidence_strength": "moderate",
+   "id": "low-income-children-tom-development-differences",
+   "path": "claims/low-income-children-tom-development-differences.md",
+   "status": "draft",
+   "title": "Low-income children show theory of mind development differences compared with typically studied higher-income samples",
+   "type": "claim"
+  },
+  {
    "description": "Introjected regulation was low among Chinese ESP learners except for an identity-maintenance item",
    "evidence_strength": "weak",
    "id": "low-introjected-regulation-esp-learners",
@@ -21022,6 +21346,15 @@
    "path": "claims/low-proficiency-intelligibility-barrier-asr.md",
    "status": "draft",
    "title": "Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness",
+   "type": "claim"
+  },
+  {
+   "description": "Reviewer scores of grant proposals show low overall reliability across six large studies, though reviewers become more consistent with experience",
+   "evidence_strength": "moderate",
+   "id": "low-reliability-grant-reviewer-scores",
+   "path": "claims/low-reliability-grant-reviewer-scores.md",
+   "status": "draft",
+   "title": "Reviewer scores of grant proposals show low overall reliability across six large studies, though reviewers become more consistent with experience",
    "type": "claim"
   },
   {
@@ -21485,6 +21818,24 @@
    "type": "claim"
   },
   {
+   "description": "Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students",
+   "evidence_strength": "moderate",
+   "id": "maryland-black-disabilities-twice-discipline-rates",
+   "path": "claims/maryland-black-disabilities-twice-discipline-rates.md",
+   "status": "draft",
+   "title": "Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students",
+   "type": "claim"
+  },
+  {
+   "description": "Exclusionary discipline rates declined for all student subgroups in Maryland from 2009/10 to 2017/18",
+   "evidence_strength": "moderate",
+   "id": "maryland-exclusionary-discipline-declined-all-subgroups",
+   "path": "claims/maryland-exclusionary-discipline-declined-all-subgroups.md",
+   "status": "draft",
+   "title": "Exclusionary discipline rates declined for all student subgroups in Maryland from 2009/10 to 2017/18",
+   "type": "claim"
+  },
+  {
    "description": "Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive range, from g = -1.26 to g = 1.91",
    "evidence_strength": "weak",
    "id": "massive-range-pbl-outcome-effect-sizes",
@@ -21701,12 +22052,66 @@
    "type": "claim"
   },
   {
+   "description": "An NSF-funded replication of Math Corps operated in three new cities across summers 2017\u20132019 with independent evaluation",
+   "evidence_strength": "moderate",
+   "id": "math-corps-nsf-funded-three-city-replication",
+   "path": "claims/math-corps-nsf-funded-three-city-replication.md",
+   "status": "draft",
+   "title": "An NSF-funded replication of Math Corps operated in three new cities across summers 2017\u20132019 with independent evaluation",
+   "type": "claim"
+  },
+  {
+   "description": "The Math Corps replication sites were successful in serving their priority communities",
+   "evidence_strength": "weak",
+   "id": "math-corps-replication-sites-served-priority-communities",
+   "path": "claims/math-corps-replication-sites-served-priority-communities.md",
+   "status": "draft",
+   "title": "The Math Corps replication sites were successful in serving their priority communities",
+   "type": "claim"
+  },
+  {
+   "description": "Math Corps students made large and statistically significant gains on the Math Corps exam between the start and end of camp in all three replication sites",
+   "evidence_strength": "moderate",
+   "id": "math-corps-significant-exam-gains-replication-sites",
+   "path": "claims/math-corps-significant-exam-gains-replication-sites.md",
+   "status": "draft",
+   "title": "Math Corps students made large and statistically significant gains on the Math Corps exam between the start and end of camp in all three replication sites",
+   "type": "claim"
+  },
+  {
+   "description": "Attendance at Math Corps was strong at all three replication sites",
+   "evidence_strength": "weak",
+   "id": "math-corps-strong-attendance-replication-sites",
+   "path": "claims/math-corps-strong-attendance-replication-sites.md",
+   "status": "draft",
+   "title": "Attendance at Math Corps was strong at all three replication sites",
+   "type": "claim"
+  },
+  {
    "description": "Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood",
    "evidence_strength": "moderate",
    "id": "math-correlates-more-with-ef-than-ef-internally",
    "path": "claims/math-correlates-more-with-ef-than-ef-internally.md",
    "status": "draft",
    "title": "Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood",
+   "type": "claim"
+  },
+  {
+   "description": "The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools",
+   "evidence_strength": "moderate",
+   "id": "math-curricula-benefits-extend-to-low-performing-high-poverty-schools",
+   "path": "claims/math-curricula-benefits-extend-to-low-performing-high-poverty-schools.md",
+   "status": "draft",
+   "title": "The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools",
+   "type": "claim"
+  },
+  {
+   "description": "First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics",
+   "evidence_strength": "moderate",
+   "id": "math-expressions-saxon-outperform-investigations-sfaw-first-grade",
+   "path": "claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md",
+   "status": "draft",
+   "title": "First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics",
    "type": "claim"
   },
   {
@@ -21869,6 +22274,15 @@
    "path": "claims/measurement-noise-negative-gain-pretest-correlation.md",
    "status": "draft",
    "title": "Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score",
+   "type": "claim"
+  },
+  {
+   "description": "Measuring the impact of math instruction and interventions is key to improving students' overall math performance",
+   "evidence_strength": "weak",
+   "id": "measuring-math-impact-key-to-improving-performance",
+   "path": "claims/measuring-math-impact-key-to-improving-performance.md",
+   "status": "draft",
+   "title": "Measuring the impact of math instruction and interventions is key to improving students' overall math performance",
    "type": "claim"
   },
   {
@@ -22372,6 +22786,15 @@
    "path": "claims/middle-stage-lower-complementarity-successful-therapists.md",
    "status": "draft",
    "title": "During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists",
+   "type": "claim"
+  },
+  {
+   "description": "A portfolio of eight math tutoring programs showed positive and meaningful average effects on student math knowledge, perceptions, and beliefs",
+   "evidence_strength": "moderate",
+   "id": "middle-years-math-tutoring-portfolio-positive-average-effects",
+   "path": "claims/middle-years-math-tutoring-portfolio-positive-average-effects.md",
+   "status": "draft",
+   "title": "A portfolio of eight math tutoring programs showed positive and meaningful average effects on student math knowledge, perceptions, and beliefs",
    "type": "claim"
   },
   {
@@ -23380,6 +23803,15 @@
    "type": "claim"
   },
   {
+   "description": "A multimethod approach provides a richer portrayal of young children's performance than any single measure.",
+   "evidence_strength": "weak",
+   "id": "multimethod-approach-richer-portrayal-child-performance",
+   "path": "claims/multimethod-approach-richer-portrayal-child-performance.md",
+   "status": "draft",
+   "title": "A multimethod approach provides a richer portrayal of young children's performance than any single measure.",
+   "type": "claim"
+  },
+  {
    "description": "",
    "evidence_strength": "weak",
    "id": "multimodal-culturally-grounded-assessment-supports-engagement-and-agency",
@@ -23476,6 +23908,15 @@
    "path": "claims/multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md",
    "status": "draft",
    "title": "Multivoiced boundary crossing supports holistic nature connection and ethical reflection",
+   "type": "claim"
+  },
+  {
+   "description": "The article presents a Bayesian reanalysis of NAEP long-term trend reading and math score changes from 2020 to 2023.",
+   "evidence_strength": "weak",
+   "id": "naep-ltt-2020-2023-bayesian-reanalysis",
+   "path": "claims/naep-ltt-2020-2023-bayesian-reanalysis.md",
+   "status": "draft",
+   "title": "The article presents a Bayesian reanalysis of NAEP long-term trend reading and math score changes from 2020 to 2023.",
    "type": "claim"
   },
   {
@@ -23947,6 +24388,15 @@
    "type": "claim"
   },
   {
+   "description": "High stakes should never be attached to observational measures used in formative evaluation of early childhood programs.",
+   "evidence_strength": "weak",
+   "id": "no-high-stakes-on-observational-measures",
+   "path": "claims/no-high-stakes-on-observational-measures.md",
+   "status": "draft",
+   "title": "High stakes should never be attached to observational measures used in formative evaluation of early childhood programs.",
+   "type": "claim"
+  },
+  {
    "description": "Therapy relationships do not show a transition from relational incongruence to congruence across sessions",
    "evidence_strength": "weak",
    "id": "no-incongruence-to-congruence-transition-across-therapy-sessions",
@@ -24316,6 +24766,15 @@
    "type": "claim"
   },
   {
+   "description": "Teachers who made nonproductive adaptations were more likely to adapt lessons to on-grade-level content while delivering the lesson",
+   "evidence_strength": "moderate",
+   "id": "nonproductive-adapters-on-grade-level-during-delivery",
+   "path": "claims/nonproductive-adapters-on-grade-level-during-delivery.md",
+   "status": "draft",
+   "title": "Teachers who made nonproductive adaptations were more likely to adapt lessons to on-grade-level content while delivering the lesson",
+   "type": "claim"
+  },
+  {
    "description": "Kindergarten children's working memory and inhibition T-scores are significantly lower than the excellent-level criterion of 56",
    "evidence_strength": "moderate",
    "id": "nonthaburi-kindergarteners-ef-below-criterion",
@@ -24537,6 +24996,15 @@
    "path": "claims/objections-stage-most-difficult-crito.md",
    "status": "draft",
    "title": "The objections stage is the most difficult stage of CRITO because it demands fallibilism about one's own argument",
+   "type": "claim"
+  },
+  {
+   "description": "Observational measures spanning the preschool to elementary age range offer an alternative to direct testing of young children.",
+   "evidence_strength": "weak",
+   "id": "observational-measures-alternative-direct-testing-early-grades",
+   "path": "claims/observational-measures-alternative-direct-testing-early-grades.md",
+   "status": "draft",
+   "title": "Observational measures spanning the preschool to elementary age range offer an alternative to direct testing of young children.",
    "type": "claim"
   },
   {
@@ -24789,6 +25257,15 @@
    "path": "claims/one-hour-telelectures-too-short.md",
    "status": "draft",
    "title": "Students found one-hour telelectures too short and wanted more time for listening and questioning",
+   "type": "claim"
+  },
+  {
+   "description": "In the 2005-2006 school year, only one of 10 computer-based reading and math software products had statistically significant positive effects on student outcomes",
+   "evidence_strength": "moderate",
+   "id": "one-of-ten-software-products-significant-positive-effects",
+   "path": "claims/one-of-ten-software-products-significant-positive-effects.md",
+   "status": "draft",
+   "title": "In the 2005-2006 school year, only one of 10 computer-based reading and math software products had statistically significant positive effects on student outcomes",
    "type": "claim"
   },
   {
@@ -26453,6 +26930,51 @@
    "path": "claims/peerwise-student-questions-75-percent-high-quality.md",
    "status": "draft",
    "title": "75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)",
+   "type": "claim"
+  },
+  {
+   "description": "A benefit-cost analysis of DC's Early Childhood Educator Pay Equity Fund finds the initiative to address educator pay gaps has economic value",
+   "evidence_strength": "weak",
+   "id": "pef-benefit-cost-analysis-economic-value",
+   "path": "claims/pef-benefit-cost-analysis-economic-value.md",
+   "status": "draft",
+   "title": "A benefit-cost analysis of DC's Early Childhood Educator Pay Equity Fund finds the initiative to address educator pay gaps has economic value",
+   "type": "claim"
+  },
+  {
+   "description": "Program costs rose under the PEF's facility payment model, but the size and economic value of benefits also increased",
+   "evidence_strength": "moderate",
+   "id": "pef-facility-payment-model-costs-and-benefits-both-increased",
+   "path": "claims/pef-facility-payment-model-costs-and-benefits-both-increased.md",
+   "status": "draft",
+   "title": "Program costs rose under the PEF's facility payment model, but the size and economic value of benefits also increased",
+   "type": "claim"
+  },
+  {
+   "description": "The PEF's total FY 2024 economic value of benefits was $93 million, up from $67 million in FY 2023, with benefits to families the largest share",
+   "evidence_strength": "moderate",
+   "id": "pef-fy2024-benefits-93-million-families-largest-share",
+   "path": "claims/pef-fy2024-benefits-93-million-families-largest-share.md",
+   "status": "draft",
+   "title": "The PEF's total FY 2024 economic value of benefits was $93 million, up from $67 million in FY 2023, with benefits to families the largest share",
+   "type": "claim"
+  },
+  {
+   "description": "The PEF's total FY 2024 cost was $76 million, up from $54 million in FY 2023, reflecting larger educator payments and new facility administrative costs",
+   "evidence_strength": "moderate",
+   "id": "pef-fy2024-cost-76-million-up-from-54-million",
+   "path": "claims/pef-fy2024-cost-76-million-up-from-54-million.md",
+   "status": "draft",
+   "title": "The PEF's total FY 2024 cost was $76 million, up from $54 million in FY 2023, reflecting larger educator payments and new facility administrative costs",
+   "type": "claim"
+  },
+  {
+   "description": "Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023",
+   "evidence_strength": "moderate",
+   "id": "pef-fy2024-roi-21-percent-similar-to-fy2023",
+   "path": "claims/pef-fy2024-roi-21-percent-similar-to-fy2023.md",
+   "status": "draft",
+   "title": "Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023",
    "type": "claim"
   },
   {
@@ -28364,6 +28886,15 @@
    "path": "claims/production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md",
    "status": "draft",
    "title": "Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test",
+   "type": "claim"
+  },
+  {
+   "description": "Teachers who made productive adaptations were more likely to consider learning progressions and adapt lessons to below-grade-level content",
+   "evidence_strength": "moderate",
+   "id": "productive-adapters-consider-progressions-below-grade-level",
+   "path": "claims/productive-adapters-consider-progressions-below-grade-level.md",
+   "status": "draft",
+   "title": "Teachers who made productive adaptations were more likely to consider learning progressions and adapt lessons to below-grade-level content",
    "type": "claim"
   },
   {
@@ -30465,6 +30996,15 @@
    "type": "claim"
   },
   {
+   "description": "Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching",
+   "evidence_strength": "moderate",
+   "id": "regular-tailored-support-helped-teachers-integrate-tools",
+   "path": "claims/regular-tailored-support-helped-teachers-integrate-tools.md",
+   "status": "draft",
+   "title": "Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching",
+   "type": "claim"
+  },
+  {
    "description": "In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning",
    "evidence_strength": "weak",
    "id": "regulative-context-critique-methodological-or-paradigmatic",
@@ -31664,6 +32204,60 @@
    "type": "claim"
   },
   {
+   "description": "Saga blended tutoring produced large positive impacts on algebra scores in one district and geometry scores in another, but no effects on two other standardized tests",
+   "evidence_strength": "mixed",
+   "id": "saga-blended-tutoring-test-score-impacts-mixed",
+   "path": "claims/saga-blended-tutoring-test-score-impacts-mixed.md",
+   "status": "draft",
+   "title": "Saga blended tutoring produced large positive impacts on algebra scores in one district and geometry scores in another, but no effects on two other standardized tests",
+   "type": "claim"
+  },
+  {
+   "description": "Saga tutoring impacts were larger in schools with fewer staffing challenges and in tutoring groups of two students or fewer",
+   "evidence_strength": "moderate",
+   "id": "saga-impacts-larger-fewer-staffing-challenges-small-groups",
+   "path": "claims/saga-impacts-larger-fewer-staffing-challenges-small-groups.md",
+   "status": "draft",
+   "title": "Saga tutoring impacts were larger in schools with fewer staffing challenges and in tutoring groups of two students or fewer",
+   "type": "claim"
+  },
+  {
+   "description": "Implementation analysis identified student engagement as a challenge for technology-driven tutoring programs",
+   "evidence_strength": "weak",
+   "id": "saga-implementation-engagement-challenges",
+   "path": "claims/saga-implementation-engagement-challenges.md",
+   "status": "draft",
+   "title": "Implementation analysis identified student engagement as a challenge for technology-driven tutoring programs",
+   "type": "claim"
+  },
+  {
+   "description": "Saga blended tutoring improved student math grades across districts and tutoring models",
+   "evidence_strength": "moderate",
+   "id": "saga-tutoring-improves-math-grades",
+   "path": "claims/saga-tutoring-improves-math-grades.md",
+   "status": "draft",
+   "title": "Saga blended tutoring improved student math grades across districts and tutoring models",
+   "type": "claim"
+  },
+  {
+   "description": "Saga tutoring impacts were larger for students with lower prior math achievement and for Black students",
+   "evidence_strength": "moderate",
+   "id": "saga-tutoring-larger-impacts-lower-prior-achievement",
+   "path": "claims/saga-tutoring-larger-impacts-lower-prior-achievement.md",
+   "status": "draft",
+   "title": "Saga tutoring impacts were larger for students with lower prior math achievement and for Black students",
+   "type": "claim"
+  },
+  {
+   "description": "Saga blended tutoring had a small negative impact on school attendance",
+   "evidence_strength": "moderate",
+   "id": "saga-tutoring-small-negative-attendance-impact",
+   "path": "claims/saga-tutoring-small-negative-attendance-impact.md",
+   "status": "draft",
+   "title": "Saga blended tutoring had a small negative impact on school attendance",
+   "type": "claim"
+  },
+  {
    "description": "SAGE class-size reduction schools showed no statistically significant change in poverty-adjusted effectiveness ratings",
    "evidence_strength": "moderate",
    "id": "sage-schools-no-significant-rating-change",
@@ -31697,6 +32291,15 @@
    "path": "claims/salomon-perkins-learning-with-versus-of-tools.md",
    "status": "draft",
    "title": "Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations",
+   "type": "claim"
+  },
+  {
+   "description": "For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups",
+   "evidence_strength": "moderate",
+   "id": "same-infractions-black-disabilities-more-suspensions",
+   "path": "claims/same-infractions-black-disabilities-more-suspensions.md",
+   "status": "draft",
+   "title": "For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups",
    "type": "claim"
   },
   {
@@ -33742,6 +34345,15 @@
    "type": "claim"
   },
   {
+   "description": "A combination of sociocognitive variables predicts concurrent academic outcomes at school entry",
+   "evidence_strength": "moderate",
+   "id": "sociocognitive-combination-predicts-school-entry-outcomes",
+   "path": "claims/sociocognitive-combination-predicts-school-entry-outcomes.md",
+   "status": "draft",
+   "title": "A combination of sociocognitive variables predicts concurrent academic outcomes at school entry",
+   "type": "claim"
+  },
+  {
    "description": "Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability",
    "evidence_strength": "weak",
    "id": "sociocultural-critique-cummins-framework",
@@ -33787,6 +34399,15 @@
    "type": "claim"
   },
   {
+   "description": "Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness",
+   "evidence_strength": "weak",
+   "id": "software-effects-changed-between-cohorts",
+   "path": "claims/software-effects-changed-between-cohorts.md",
+   "status": "draft",
+   "title": "Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness",
+   "type": "claim"
+  },
+  {
    "description": "Instructors and students agree that personal gain is the primary value of experiential learning, with beauty and social good seen as important but of lesser significance",
    "evidence_strength": "moderate",
    "id": "soka-experiential-learning-gain-primary-value",
@@ -33820,6 +34441,24 @@
    "path": "claims/somatically-informed-teachers-six-movement-awareness-strategies.md",
    "status": "draft",
    "title": "Somatically informed dance teachers use six facilitation strategies to deepen movement sensation",
+   "type": "claim"
+  },
+  {
+   "description": "Some students may be overwhelmed by Ecree's feedback about their writing",
+   "evidence_strength": "weak",
+   "id": "some-students-overwhelmed-by-ecree-feedback",
+   "path": "claims/some-students-overwhelmed-by-ecree-feedback.md",
+   "status": "draft",
+   "title": "Some students may be overwhelmed by Ecree's feedback about their writing",
+   "type": "claim"
+  },
+  {
+   "description": "Some students struggled to use Ecree's and MI Write's automated feedback",
+   "evidence_strength": "moderate",
+   "id": "some-students-struggled-automated-feedback-use",
+   "path": "claims/some-students-struggled-automated-feedback-use.md",
+   "status": "draft",
+   "title": "Some students struggled to use Ecree's and MI Write's automated feedback",
    "type": "claim"
   },
   {
@@ -34412,6 +35051,15 @@
    "type": "claim"
   },
   {
+   "description": "The SPREE process can help build or strengthen a culture of measurement, learning and evaluation even where it is initially absent",
+   "evidence_strength": "weak",
+   "id": "spree-builds-measurement-culture",
+   "path": "claims/spree-builds-measurement-culture.md",
+   "status": "draft",
+   "title": "The SPREE process can help build or strengthen a culture of measurement, learning and evaluation even where it is initially absent",
+   "type": "claim"
+  },
+  {
    "description": "Meeting the 80% scholar attendance threshold is not significantly associated with reading growth in Springboard Summer",
    "evidence_strength": "moderate",
    "id": "springboard-summer-attendance-threshold-null",
@@ -34796,6 +35444,15 @@
    "path": "claims/standard-two-week-spacing-significant-over-baseline.md",
    "status": "draft",
    "title": "Only the Standard two-week-interval treatment showed a statistically significant improvement over the Baseline treatment",
+   "type": "claim"
+  },
+  {
+   "description": "Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.",
+   "evidence_strength": "weak",
+   "id": "standardized-tests-problematic-young-children-outcomes",
+   "path": "claims/standardized-tests-problematic-young-children-outcomes.md",
+   "status": "draft",
+   "title": "Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.",
    "type": "claim"
   },
   {
@@ -35240,6 +35897,15 @@
    "path": "claims/strong-feelings-about-problem-influence-group-growth.md",
    "status": "draft",
    "title": "Strong feelings about a community problem positively influence group growth",
+   "type": "claim"
+  },
+  {
+   "description": "Strong student\u2013tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects",
+   "evidence_strength": "weak",
+   "id": "strong-student-tutor-relationships-key-to-tutoring-success",
+   "path": "claims/strong-student-tutor-relationships-key-to-tutoring-success.md",
+   "status": "draft",
+   "title": "Strong student\u2013tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects",
    "type": "claim"
   },
   {
@@ -36142,6 +36808,33 @@
    "type": "claim"
   },
   {
+   "description": "Students in three summer math programs showed large improvements in grades the semester after the program",
+   "evidence_strength": "weak",
+   "id": "summer-math-programs-large-grade-improvements-next-semester",
+   "path": "claims/summer-math-programs-large-grade-improvements-next-semester.md",
+   "status": "draft",
+   "title": "Students in three summer math programs showed large improvements in grades the semester after the program",
+   "type": "claim"
+  },
+  {
+   "description": "Evidence of changes in growth mindset or math confidence after the summer programs was minimal",
+   "evidence_strength": "weak",
+   "id": "summer-math-programs-minimal-mindset-confidence-change",
+   "path": "claims/summer-math-programs-minimal-mindset-confidence-change.md",
+   "status": "draft",
+   "title": "Evidence of changes in growth mindset or math confidence after the summer programs was minimal",
+   "type": "claim"
+  },
+  {
+   "description": "Teachers used new instructional practices they had learned while delivering the summer programs",
+   "evidence_strength": "weak",
+   "id": "summer-programs-teachers-adopted-new-practices",
+   "path": "claims/summer-programs-teachers-adopted-new-practices.md",
+   "status": "draft",
+   "title": "Teachers used new instructional practices they had learned while delivering the summer programs",
+   "type": "claim"
+  },
+  {
    "description": "Summer reading loss disproportionately widens academic gaps for low-income children",
    "evidence_strength": "weak",
    "id": "summer-reading-loss-widens-gaps",
@@ -36939,6 +37632,15 @@
    "type": "claim"
   },
   {
+   "description": "Teacher experience using the software was not systematically related to changes in product effects between the first and second study year",
+   "evidence_strength": "moderate",
+   "id": "teacher-experience-not-related-to-effect-changes",
+   "path": "claims/teacher-experience-not-related-to-effect-changes.md",
+   "status": "draft",
+   "title": "Teacher experience using the software was not systematically related to changes in product effects between the first and second study year",
+   "type": "claim"
+  },
+  {
    "description": "The kindergarten teacher explicitly discussed the forms an equation can take (FORM) with the goal of expanding the range of equations students would accept as valid",
    "evidence_strength": "weak",
    "id": "teacher-explicitly-discusses-equation-forms-to-widen-kindergarten-acceptance",
@@ -37053,6 +37755,15 @@
    "path": "claims/teacher-perceived-cost-reduces-motivation-to-use-ai.md",
    "status": "draft",
    "title": "Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).",
+   "type": "claim"
+  },
+  {
+   "description": "Teachers shape writing outcomes through instructional practices and through engagement, support, and feedback",
+   "evidence_strength": "weak",
+   "id": "teacher-practices-support-feedback-shape-writing",
+   "path": "claims/teacher-practices-support-feedback-shape-writing.md",
+   "status": "draft",
+   "title": "Teachers shape writing outcomes through instructional practices and through engagement, support, and feedback",
    "type": "claim"
   },
   {
@@ -37212,12 +37923,39 @@
    "type": "claim"
   },
   {
+   "description": "Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing",
+   "evidence_strength": "moderate",
+   "id": "teachers-found-ecree-mi-write-useful-writing-instruction",
+   "path": "claims/teachers-found-ecree-mi-write-useful-writing-instruction.md",
+   "status": "draft",
+   "title": "Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing",
+   "type": "claim"
+  },
+  {
+   "description": "More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback",
+   "evidence_strength": "weak",
+   "id": "teachers-found-ecree-useful-but-some-students-overwhelmed",
+   "path": "claims/teachers-found-ecree-useful-but-some-students-overwhelmed.md",
+   "status": "draft",
+   "title": "More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback",
+   "type": "claim"
+  },
+  {
    "description": "Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.",
    "evidence_strength": "weak",
    "id": "teachers-have-readier-household-entree-than-anthropologists",
    "path": "claims/teachers-have-readier-household-entree-than-anthropologists.md",
    "status": "draft",
    "title": "Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.",
+   "type": "claim"
+  },
+  {
+   "description": "Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12",
+   "evidence_strength": "weak",
+   "id": "teachers-key-role-secondary-writing-outcomes",
+   "path": "claims/teachers-key-role-secondary-writing-outcomes.md",
+   "status": "draft",
+   "title": "Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12",
    "type": "claim"
   },
   {
@@ -37230,12 +37968,30 @@
    "type": "claim"
   },
   {
+   "description": "Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn",
+   "evidence_strength": "moderate",
+   "id": "teachers-misunderstood-bonus-eligibility-and-amounts",
+   "path": "claims/teachers-misunderstood-bonus-eligibility-and-amounts.md",
+   "status": "draft",
+   "title": "Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn",
+   "type": "claim"
+  },
+  {
    "description": "Bhutanese higher secondary teachers hold a moderate level of perception towards KCLS in teaching and learning processes",
    "evidence_strength": "moderate",
    "id": "teachers-moderate-perception-kcls-teaching-learning",
    "path": "claims/teachers-moderate-perception-kcls-teaching-learning.md",
    "status": "draft",
    "title": "Bhutanese higher secondary teachers hold a moderate level of perception towards KCLS in teaching and learning processes",
+   "type": "claim"
+  },
+  {
+   "description": "Middle school math teachers are more likely to make productive than nonproductive adaptations to curricula",
+   "evidence_strength": "moderate",
+   "id": "teachers-more-productive-than-nonproductive-adaptations",
+   "path": "claims/teachers-more-productive-than-nonproductive-adaptations.md",
+   "status": "draft",
+   "title": "Middle school math teachers are more likely to make productive than nonproductive adaptations to curricula",
    "type": "claim"
   },
   {
@@ -37263,6 +38019,15 @@
    "path": "claims/teachers-report-simultaneous-words-graphics-presentation.md",
    "status": "draft",
    "title": "A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect",
+   "type": "claim"
+  },
+  {
+   "description": "Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write",
+   "evidence_strength": "moderate",
+   "id": "teachers-reported-curriculum-technical-integration-challenges",
+   "path": "claims/teachers-reported-curriculum-technical-integration-challenges.md",
+   "status": "draft",
+   "title": "Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write",
    "type": "claim"
   },
   {
@@ -37308,6 +38073,15 @@
    "path": "claims/teachers-use-clt-principles-despite-ignorance.md",
    "status": "draft",
    "title": "Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions",
+   "type": "claim"
+  },
+  {
+   "description": "Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction",
+   "evidence_strength": "weak",
+   "id": "teachers-used-ecree-less-than-intended-lacking-time",
+   "path": "claims/teachers-used-ecree-less-than-intended-lacking-time.md",
+   "status": "draft",
+   "title": "Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction",
    "type": "claim"
   },
   {
@@ -38049,6 +38823,15 @@
    "type": "claim"
   },
   {
+   "description": "After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts",
+   "evidence_strength": "moderate",
+   "id": "tif-pay-for-performance-small-positive-achievement-impacts",
+   "path": "claims/tif-pay-for-performance-small-positive-achievement-impacts.md",
+   "status": "draft",
+   "title": "After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts",
+   "type": "claim"
+  },
+  {
    "description": "Time constraints (47.3%) and course difficulty (27.7%) are the two largest barriers to completing the LC101 coursework phase",
    "evidence_strength": "moderate",
    "id": "time-and-difficulty-largest-coursework-barriers",
@@ -38163,6 +38946,15 @@
    "path": "claims/tom-marginal-non-significant-semantic-fluency.md",
    "status": "draft",
    "title": "Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance",
+   "type": "claim"
+  },
+  {
+   "description": "Theory of mind predicts concurrent literacy and numeracy outcomes at school entry among low-income children",
+   "evidence_strength": "moderate",
+   "id": "tom-predicts-concurrent-academic-outcomes",
+   "path": "claims/tom-predicts-concurrent-academic-outcomes.md",
+   "status": "draft",
+   "title": "Theory of mind predicts concurrent literacy and numeracy outcomes at school entry among low-income children",
    "type": "claim"
   },
   {
@@ -38343,6 +39135,42 @@
    "path": "claims/tpi-implementation-low-participation-positive-assessment.md",
    "status": "draft",
    "title": "Implementation of the TPI procedure reached only one tutor-trainee pair out of nine potential tutors, though participants assessed it positively",
+   "type": "claim"
+  },
+  {
+   "description": "Students taught by TPP teachers engaged significantly more often in reading, writing, and speaking about texts in the second year of TPP",
+   "evidence_strength": "moderate",
+   "id": "tpp-students-more-text-engagement-year-two",
+   "path": "claims/tpp-students-more-text-engagement-year-two.md",
+   "status": "draft",
+   "title": "Students taught by TPP teachers engaged significantly more often in reading, writing, and speaking about texts in the second year of TPP",
+   "type": "claim"
+  },
+  {
+   "description": "Significantly more TPP teachers asked students to cite evidence from texts in discussions and writing",
+   "evidence_strength": "moderate",
+   "id": "tpp-teachers-asked-students-cite-text-evidence",
+   "path": "claims/tpp-teachers-asked-students-cite-text-evidence.md",
+   "status": "draft",
+   "title": "Significantly more TPP teachers asked students to cite evidence from texts in discussions and writing",
+   "type": "claim"
+  },
+  {
+   "description": "Significantly more TPP teachers encouraged students' higher-order thinking skills than district-supported comparison teachers",
+   "evidence_strength": "moderate",
+   "id": "tpp-teachers-encouraged-higher-order-thinking",
+   "path": "claims/tpp-teachers-encouraged-higher-order-thinking.md",
+   "status": "draft",
+   "title": "Significantly more TPP teachers encouraged students' higher-order thinking skills than district-supported comparison teachers",
+   "type": "claim"
+  },
+  {
+   "description": "A significantly greater proportion of TPP teachers demonstrated and sustained CCSS-aligned instructional practices compared with district-supported teachers",
+   "evidence_strength": "moderate",
+   "id": "tpp-teachers-sustained-ccss-aligned-practices",
+   "path": "claims/tpp-teachers-sustained-ccss-aligned-practices.md",
+   "status": "draft",
+   "title": "A significantly greater proportion of TPP teachers demonstrated and sustained CCSS-aligned instructional practices compared with district-supported teachers",
    "type": "claim"
   },
   {
@@ -38771,6 +39599,15 @@
    "type": "claim"
   },
   {
+   "description": "The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation",
+   "evidence_strength": "moderate",
+   "id": "tutoring-effect-size-aligned-with-implementation-quality",
+   "path": "claims/tutoring-effect-size-aligned-with-implementation-quality.md",
+   "status": "draft",
+   "title": "The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation",
+   "type": "claim"
+  },
+  {
    "description": "",
    "id": "tutoring-effectiveness-comes-from-scaffolding-and-feedback",
    "path": "claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md",
@@ -38794,6 +39631,15 @@
    "path": "claims/tutoring-gpa-advantage-no-interaction-background.md",
    "status": "draft",
    "title": "The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status",
+   "type": "claim"
+  },
+  {
+   "description": "Math tutoring programs may improve students' math confidence and sense of belonging",
+   "evidence_strength": "weak",
+   "id": "tutoring-may-improve-math-confidence-and-belonging",
+   "path": "claims/tutoring-may-improve-math-confidence-and-belonging.md",
+   "status": "draft",
+   "title": "Math tutoring programs may improve students' math confidence and sense of belonging",
    "type": "claim"
   },
   {
@@ -38875,6 +39721,15 @@
    "path": "claims/two-step-dissimilation-rules.md",
    "status": "draft",
    "title": "Dissimilation is stated as a two-step rule: delete the generic cognate noun, then replace the verb with a pro-verb",
+   "type": "claim"
+  },
+  {
+   "description": "Programs intended to encourage groundbreaking research split into two funding strategies: applicant track record emphasis versus originality of proposed research",
+   "evidence_strength": "weak",
+   "id": "two-strategies-groundbreaking-research-funding",
+   "path": "claims/two-strategies-groundbreaking-research-funding.md",
+   "status": "draft",
+   "title": "Programs intended to encourage groundbreaking research split into two funding strategies: applicant track record emphasis versus originality of proposed research",
    "type": "claim"
   },
   {
@@ -39037,6 +39892,15 @@
    "path": "claims/unconstrained-topic-writing-yields-frivolous-resolutions.md",
    "status": "draft",
    "title": "Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices",
+   "type": "claim"
+  },
+  {
+   "description": "Children's understanding of teaching predicts changes in literacy scores over time",
+   "evidence_strength": "moderate",
+   "id": "understanding-of-teaching-predicts-literacy-growth",
+   "path": "claims/understanding-of-teaching-predicts-literacy-growth.md",
+   "status": "draft",
+   "title": "Children's understanding of teaching predicts changes in literacy scores over time",
    "type": "claim"
   },
   {
@@ -39496,6 +40360,24 @@
    "path": "claims/virtual-communities-counter-supervision-isolation.md",
    "status": "draft",
    "title": "The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision",
+   "type": "claim"
+  },
+  {
+   "description": "Virtual Pre-K CLASS observations were practical in both centers and family child care homes in an Oregon pilot study",
+   "evidence_strength": "moderate",
+   "id": "virtual-pre-k-class-observations-practical-centers-fccs",
+   "path": "claims/virtual-pre-k-class-observations-practical-centers-fccs.md",
+   "status": "draft",
+   "title": "Virtual Pre-K CLASS observations were practical in both centers and family child care homes in an Oregon pilot study",
+   "type": "claim"
+  },
+  {
+   "description": "Virtual pre-K observations posed substantial logistical challenges despite being practical",
+   "evidence_strength": "moderate",
+   "id": "virtual-pre-k-observations-logistical-challenges",
+   "path": "claims/virtual-pre-k-observations-logistical-challenges.md",
+   "status": "draft",
+   "title": "Virtual pre-K observations posed substantial logistical challenges despite being practical",
    "type": "claim"
   },
   {
@@ -41861,6 +42743,14 @@
    "type": "design"
   },
   {
+   "description": "The page specifies that Reading Plus does not require specialized staffing beyond existing school roles: \\\"Classroom teachers, reading teachers, literacy specialists, and well-prepared paraprofessionals are qualified t...",
+   "id": "reading-plus-qualified-staff-supervision",
+   "path": "designs/reading-plus-qualified-staff-supervision.md",
+   "status": "draft",
+   "title": "Supervise Reading Plus use with qualified classroom teachers, reading teachers, literacy specialists, or well-prepared paraprofessionals",
+   "type": "design"
+  },
+  {
    "description": "Within a typical 45-minute session, students engage in visual perceptual warm-up activities, scaffolded silent reading activities that \\\"dynamically adjust content-level difficulty, degree of repetition, duration of re...",
    "id": "reading-plus-three-part-session-structure",
    "path": "designs/reading-plus-three-part-session-structure.md",
@@ -42420,6 +43310,14 @@
    "path": "elements/aarp-experience-corps-program.md",
    "status": "draft",
    "title": "AARP Foundation Experience Corps volunteer tutoring program for struggling K-3 readers",
+   "type": "element"
+  },
+  {
+   "description": "The evidence base for the brief is an academic literature scan that Mathematica conducted \\\"in partnership with teacher development and writing instruction experts.\\\" The scan's findings and conclusions underpin the bri...",
+   "id": "academic-literature-scan-teacher-factors-writing",
+   "path": "elements/academic-literature-scan-teacher-factors-writing.md",
+   "status": "draft",
+   "title": "Academic literature scan on teacher factors in secondary writing",
    "type": "element"
   },
   {
@@ -43223,6 +44121,14 @@
    "type": "element"
   },
   {
+   "description": "A short-term longitudinal study of \\\"120 low-income preschool and kindergarten children\\\" examining \\\"relations among theory of mind, the understanding of teaching, and learning behaviors and their collective role in chi...",
+   "id": "cavadel-frye-tom-school-readiness-study",
+   "path": "elements/cavadel-frye-tom-school-readiness-study.md",
+   "status": "draft",
+   "title": "Short-term longitudinal study of theory of mind and school readiness in 120 low-income children",
+   "type": "element"
+  },
+  {
    "description": "Curriculum-based measurement (CBM) Computation probes are brief standardized math tests used throughout the RTI process.",
    "id": "cbm-computation-probes-first-grade",
    "path": "elements/cbm-computation-probes-first-grade.md",
@@ -43951,6 +44857,14 @@
    "type": "element"
   },
   {
+   "description": "A research project on \\\"Middle School Math: Culturally Responsive Materials, Teacher Professional Learning, and Student Engagement,\\\" conducted from 2019 to 2024, prepared for the Gates Foundation, and carried out acros...",
+   "id": "cross-district-middle-school-math-curricula-study",
+   "path": "elements/cross-district-middle-school-math-curricula-study.md",
+   "status": "draft",
+   "title": "Cross-district study of middle school math curricula, culturally responsive materials, and teacher professional learning",
+   "type": "element"
+  },
+  {
    "description": "The classroom response system is the technology component of the project's intervention, used to capture teachers' initial interest.",
    "id": "crs-classroom-response-technology-hook",
    "path": "elements/crs-classroom-response-technology-hook.md",
@@ -44084,6 +44998,22 @@
    "path": "elements/dbph-talking-book-audio-service-network.md",
    "status": "draft",
    "title": "Library of Congress DBPH talking-book audio service network",
+   "type": "element"
+  },
+  {
+   "description": "The Pay Equity Fund (PEF) is a Washington, DC initiative to address pay gaps between child care and early education educators and K-12 teachers.",
+   "id": "dc-early-childhood-educator-pay-equity-fund",
+   "path": "elements/dc-early-childhood-educator-pay-equity-fund.md",
+   "status": "draft",
+   "title": "Washington, DC's Early Childhood Educator Pay Equity Fund (PEF)",
+   "type": "element"
+  },
+  {
+   "description": "The PEF is Washington, DC's public funding stream addressing pay disparities between child care and early education (CCEE) educators and public school teachers.",
+   "id": "dc-early-childhood-educator-pay-equity-fund-pef",
+   "path": "elements/dc-early-childhood-educator-pay-equity-fund-pef.md",
+   "status": "draft",
+   "title": "Washington, DC's Early Childhood Educator Pay Equity Fund (PEF)",
    "type": "element"
   },
   {
@@ -44543,6 +45473,14 @@
    "path": "elements/ecological-affordance-profile.md",
    "status": "draft",
    "title": "Ecological Affordance Profile: integrating micro-level observations, formative records, and summative accounts",
+   "type": "element"
+  },
+  {
+   "description": "Ecree is \\\"an automated feedback tool that supports student writing in the classroom.\\\" The brief describes it as a classroom writing-support technology studied in grade 8-11 English language arts classrooms during the...",
+   "id": "ecree-automated-writing-feedback-tool",
+   "path": "elements/ecree-automated-writing-feedback-tool.md",
+   "status": "draft",
+   "title": "Ecree automated writing feedback tool",
    "type": "element"
   },
   {
@@ -45386,6 +46324,14 @@
    "type": "element"
   },
   {
+   "description": "The evaluation compared four early elementary math programs, each a textbook-based curriculum with an associated instructional approach.",
+   "id": "four-early-elementary-math-curricula-evaluation-set",
+   "path": "elements/four-early-elementary-math-curricula-evaluation-set.md",
+   "status": "draft",
+   "title": "Four early elementary math curricula compared in the federal evaluation: Math Expressions, Saxon Math, Investigations in Number, Data, and Space, and Scott Foresman-Addison Wesley Mathematics",
+   "type": "element"
+  },
+  {
    "description": "The proposed system is organized as a hierarchical four-layer architecture: Data Acquisition, Feature Extraction, Intelligent Diagnosis, and Adaptive Training.",
    "id": "four-layer-oral-diagnosis-system-architecture",
    "path": "elements/four-layer-oral-diagnosis-system-architecture.md",
@@ -45986,6 +46932,14 @@
    "type": "element"
   },
   {
+   "description": "The guide is a practical resource for researchers who conduct implementation analyses as part of impact studies of education interventions.",
+   "id": "implementation-research-in-impact-studies-guide",
+   "path": "elements/implementation-research-in-impact-studies-guide.md",
+   "status": "draft",
+   "title": "A researcher's guide for conducting implementation research within impact studies of education interventions",
+   "type": "element"
+  },
+  {
    "description": "IMSE's Morphology+ combines 30 hours of educator training with 148 sequenced lessons providing \\\"explicit instruction in prefixes, suffixes, Greek and Latin roots, vocabulary development, and comprehension.\\\" It is desi...",
    "id": "imse-morphology-plus-program",
    "path": "elements/imse-morphology-plus-program.md",
@@ -46490,6 +47444,22 @@
    "type": "element"
   },
   {
+   "description": "The Knowledge Is Power Program (KIPP) is described as \\\"a network of charter schools for disadvantaged students.\\\" The evaluation covered 22 KIPP middle schools as the first findings of a multi-year study (associated pr...",
+   "id": "kipp-charter-school-network",
+   "path": "elements/kipp-charter-school-network.md",
+   "status": "draft",
+   "title": "KIPP: a network of charter middle schools for disadvantaged students evaluated over multiple years",
+   "type": "element"
+  },
+  {
+   "description": "KIPP Pre-K is a pre-kindergarten program offered by the KIPP charter school network, evaluated as an offer of admission in a study conducted as part of the associated project \\\"KIPP: Preparing Youth for College\\\" over t...",
+   "id": "kipp-prek-program",
+   "path": "elements/kipp-prek-program.md",
+   "status": "draft",
+   "title": "KIPP Pre-K program",
+   "type": "element"
+  },
+  {
    "description": "Knowledge-building is the element in which learners collectively construct, refine, and extend ideas rather than only consume or repeat them.",
    "id": "knowledge-building",
    "path": "elements/knowledge-building.md",
@@ -46607,6 +47577,14 @@
    "path": "elements/ladders-to-literacy-kindergarten-activity-book.md",
    "status": "draft",
    "title": "Ladders to Literacy: A Kindergarten Activity Book \u2014 supplemental print awareness, phonological awareness, and oral language curriculum",
+   "type": "element"
+  },
+  {
+   "description": "This element is the Mathematica Policy Research landscape analysis project on non-cognitive measures.",
+   "id": "landscape-analysis-non-cognitive-measures-instruments",
+   "path": "elements/landscape-analysis-non-cognitive-measures-instruments.md",
+   "status": "draft",
+   "title": "Landscape analysis of instruments measuring learning strategies and student mindsets in middle childhood",
    "type": "element"
   },
   {
@@ -47122,6 +48100,14 @@
    "type": "element"
   },
   {
+   "description": "Math Corps is an intensive summer camp for middle school students, founded at Wayne State University by Steven Kahn and Leonard Boehm nearly 30 years ago.",
+   "id": "math-corps-summer-camp-program",
+   "path": "elements/math-corps-summer-camp-program.md",
+   "status": "draft",
+   "title": "Math Corps summer camp program",
+   "type": "element"
+  },
+  {
    "description": "The Math Story Chart is a teacher-made graphic organizer based on Polya's four-step problem-solving method, with four components: Tell (the information given), Show (the equation demonstrating the algorithm), Solve (t...",
    "id": "math-story-chart-four-step",
    "path": "elements/math-story-chart-four-step.md",
@@ -47130,11 +48116,27 @@
    "type": "element"
   },
   {
+   "description": "A congressionally mandated evaluation of educational technology conducted by Mathematica, examining computer-based reading and math software products across two student cohorts.",
+   "id": "mathematica-congressionally-mandated-edtech-study",
+   "path": "elements/mathematica-congressionally-mandated-edtech-study.md",
+   "status": "draft",
+   "title": "Mathematica's congressionally mandated study of educational technology (reading and math software products, two student cohorts)",
+   "type": "element"
+  },
+  {
    "description": "MATHia is \\\"the technology component of Carnegie Learning High School Math Solution\\\", described as \\\"a web technology that runs on desktop/laptop computers as well as Chromebooks and iPad, Android, and Windows tablets.\\\"...",
    "id": "mathia-tutoring-software",
    "path": "elements/mathia-tutoring-software.md",
    "status": "draft",
    "title": "MATHia tutoring software",
+   "type": "element"
+  },
+  {
+   "description": "The M&E approach ships with an associated toolkit that supports evidence building across the four phases.",
+   "id": "me-approach-associated-toolkit",
+   "path": "elements/me-approach-associated-toolkit.md",
+   "status": "draft",
+   "title": "M&E toolkit accompanying the four-phase approach",
    "type": "element"
   },
   {
@@ -47159,6 +48161,14 @@
    "path": "elements/mentira-mobile-game-pragmatic-feedback.md",
    "status": "draft",
    "title": "Mentira: a place-based mobile game delivering sociopragmatic corrective feedback",
+   "type": "element"
+  },
+  {
+   "description": "A curated resource listing ways to measure middle grades students' math outcomes in a \\\"valid, reliable, and accessible way\\\".",
+   "id": "menu-of-measures-middle-grades-math",
+   "path": "elements/menu-of-measures-middle-grades-math.md",
+   "status": "draft",
+   "title": "Menu of Measures: a curated list of high-quality measures of middle grades math student outcomes",
    "type": "element"
   },
   {
@@ -47263,6 +48273,14 @@
    "path": "elements/mission-based-learning.md",
    "status": "review",
    "title": "Mission-Based Learning",
+   "type": "element"
+  },
+  {
+   "description": "A state teacher performance-incentive program operating in Missouri since 1987, in which districts participate and teachers can earn career-ladder rewards.",
+   "id": "missouri-teacher-career-ladder-program",
+   "path": "elements/missouri-teacher-career-ladder-program.md",
+   "status": "draft",
+   "title": "Missouri Teacher Career Ladder program",
    "type": "element"
   },
   {
@@ -47503,6 +48521,14 @@
    "path": "elements/negotiation.md",
    "status": "review",
    "title": "Negotiation",
+   "type": "element"
+  },
+  {
+   "description": "A set of methods designed by Mathematica Policy Research under contract with New Leaders to identify effective schools and teachers.",
+   "id": "new-leaders-effectiveness-identification-methods",
+   "path": "elements/new-leaders-effectiveness-identification-methods.md",
+   "status": "draft",
+   "title": "New Leaders school and teacher effectiveness identification methods",
    "type": "element"
   },
   {
@@ -48015,6 +49041,14 @@
    "path": "elements/peerwise-online-mcq-authoring-tool.md",
    "status": "draft",
    "title": "PeerWise online tool for student-authored multiple-choice question repositories",
+   "type": "element"
+  },
+  {
+   "description": "A multi-year evaluation project associated with the PEF publication, listed on the page with the time frame \\\"2022 - 2026\\\".",
+   "id": "pef-impact-cost-effectiveness-study",
+   "path": "elements/pef-impact-cost-effectiveness-study.md",
+   "status": "draft",
+   "title": "Early Childhood Educator Pay Equity Fund Impact and Cost Effectiveness Study (2022-2026)",
    "type": "element"
   },
   {
@@ -49954,6 +50988,14 @@
    "type": "element"
   },
   {
+   "description": "The brief draws its data and supporting examples from \\\"work conducted as part of the evaluation of strategic data use initiatives.\\\" The associated project, Strategic Data Use in Education, ran from 2011 to 2015, was p...",
+   "id": "strategic-data-use-in-education-initiative-evaluation",
+   "path": "elements/strategic-data-use-in-education-initiative-evaluation.md",
+   "status": "draft",
+   "title": "Strategic Data Use in Education initiative evaluation (2011-2015)",
+   "type": "element"
+  },
+  {
    "description": "Structured academic controversy is the element in which learners argue multiple sides of an issue before synthesizing a shared conclusion.",
    "id": "structured-academic-controversy",
    "path": "elements/structured-academic-controversy.md",
@@ -50023,6 +51065,14 @@
    "path": "elements/study-carrel-individual-work-area.md",
    "status": "draft",
    "title": "Study carrel as an individual work area shielding a child from disturbance",
+   "type": "element"
+  },
+  {
+   "description": "The Study of School Turnaround is a multi-year evaluation examining school improvement in SIG-funded schools.",
+   "id": "study-of-school-turnaround-ell-sig-case-studies",
+   "path": "elements/study-of-school-turnaround-ell-sig-case-studies.md",
+   "status": "draft",
+   "title": "Study of School Turnaround: case studies of 11 SIG schools with high ELL enrollments",
    "type": "element"
   },
   {
@@ -50154,6 +51204,14 @@
    "type": "element"
   },
   {
+   "description": "The Teacher Incentive Fund is a federal grant program that \\\"provides federal grants to support performance-based compensation systems for teachers and principals in high-need schools.\\\" The 2010 cohort was evaluated na...",
+   "id": "teacher-incentive-fund-grant-program",
+   "path": "elements/teacher-incentive-fund-grant-program.md",
+   "status": "draft",
+   "title": "Teacher Incentive Fund (TIF) federal grant program supporting performance-based compensation systems",
+   "type": "element"
+  },
+  {
    "description": "A coding scheme with four language codes (ISA, \\\"is the same as\\\"; DEF, definition; BAL, balance; FORM, equation form) and two gesture codes (GBAL, balance gesture; GSIDES, equation sides gesture) for a teacher's talk a...",
    "id": "teacher-language-and-gesture-codes-for-mathematical-equivalence",
    "path": "elements/teacher-language-and-gesture-codes-for-mathematical-equivalence.md",
@@ -50167,6 +51225,14 @@
    "path": "elements/teacher-moments-simulation-platform.md",
    "status": "draft",
    "title": "Teacher Moments digital teaching simulation platform",
+   "type": "element"
+  },
+  {
+   "description": "The Teacher Potential Project is a professional learning program developed by EL Education that pairs \\\"a Common Core State Standards (CCSS)-aligned EL Education Language Arts Curriculum\\\" with \\\"intensive PD\\\".",
+   "id": "teacher-potential-project-curriculum-pd",
+   "path": "elements/teacher-potential-project-curriculum-pd.md",
+   "status": "draft",
+   "title": "Teacher Potential Project (TPP): CCSS-aligned EL Education Language Arts Curriculum combined with intensive professional development",
    "type": "element"
   },
   {
@@ -50311,6 +51377,14 @@
    "path": "elements/three-lesson-web-based-srl-training.md",
    "status": "draft",
    "title": "Three-Lesson Web-Based SRL Training",
+   "type": "element"
+  },
+  {
+   "description": "The brief examines three summer programs that \\\"used research-based curricula and instructional practices to boost learning among diverse groups of grade 6\u20138 students during the 2019 and 2020 summers.\\\" The programs wer...",
+   "id": "three-summer-math-programs-grade-6-8",
+   "path": "elements/three-summer-math-programs-grade-6-8.md",
+   "status": "draft",
+   "title": "Three research-based summer math programs for grade 6-8 students (2019 and 2020)",
    "type": "element"
   },
   {
@@ -56234,6 +57308,14 @@
    "type": "strategy"
   },
   {
+   "description": "The report recommends that, given persistent disproportionality in exclusionary discipline, educators and policymakers work to \\\"identify and address the root causes of these discipline disparities\\\".",
+   "id": "address-root-causes-discipline-disparities",
+   "path": "strategies/address-root-causes-discipline-disparities.md",
+   "status": "draft",
+   "title": "Identify and address the root causes of discipline disparities in schools flagged as disproportionate",
+   "type": "strategy"
+  },
+  {
    "description": "Auditing and revising the language, examples, and symbols in learning materials and discourse so they are free from bias and stereotypes and respect diverse identities.",
    "id": "address_biases_in_the_use_of_language_and_symbols",
    "path": "strategies/address_biases_in_the_use_of_language_and_symbols.md",
@@ -56887,6 +57969,14 @@
    "path": "strategies/assess-disruption-reclamation-adaptability.md",
    "status": "draft",
    "title": "Assess disruption and reclamation with rubric levels of adaptability and automated disruption-reclamation profiles",
+   "type": "strategy"
+  },
+  {
+   "description": "A core strategy the guide recommends is measuring fidelity and enactment: researchers should 'assess whether and how the planned intervention is implemented' as part of the impact study.",
+   "id": "assess-whether-and-how-intervention-implemented",
+   "path": "strategies/assess-whether-and-how-intervention-implemented.md",
+   "status": "draft",
+   "title": "Assess whether and how the planned intervention is implemented",
    "type": "strategy"
   },
   {
@@ -59186,6 +60276,14 @@
    "type": "strategy"
   },
   {
+   "description": "The brief recommends that researchers move beyond studying communities to working with them, noting that \\\"Researchers are increasingly engaging in efforts to actively involve community members and study participants i...",
+   "id": "co-construct-research-with-community-participants",
+   "path": "strategies/co-construct-research-with-community-participants.md",
+   "status": "draft",
+   "title": "Actively involve community members and study participants in the co-construction of research",
+   "type": "strategy"
+  },
+  {
    "description": "Learners and instructor jointly develop the evaluation criteria and performance-level descriptions used to assess a task, before the task is completed.",
    "id": "co-construct_rubrics",
    "path": "strategies/co-construct_rubrics.md",
@@ -60202,6 +61300,14 @@
    "type": "strategy"
   },
   {
+   "description": "This recommendation advises school districts exploring math tutoring programs to weigh both in-person and virtual delivery formats rather than restricting consideration to one modality.",
+   "id": "consider-in-person-and-virtual-tutoring-options",
+   "path": "strategies/consider-in-person-and-virtual-tutoring-options.md",
+   "status": "draft",
+   "title": "Consider both in-person and virtual tutoring options when selecting a math tutoring program",
+   "type": "strategy"
+  },
+  {
    "description": "Acknowledge that access to technology and digital literacy can vary based on socio-economic background, social environment, and cultural factors, and design accordingly.",
    "id": "consider_socio-cultural_factors",
    "path": "strategies/consider_socio-cultural_factors.md",
@@ -60303,6 +61409,14 @@
    "path": "strategies/content_word_signal.md",
    "status": "review",
    "title": "Content Word Signal",
+   "type": "strategy"
+  },
+  {
+   "description": "Before adopting a measure from the menu, work through the resource's context-specific questions to determine whether that specific measure is a good fit for your circumstances.",
+   "id": "context-fit-questions-for-measure-selection",
+   "path": "strategies/context-fit-questions-for-measure-selection.md",
+   "status": "draft",
+   "title": "Use context-specific fit questions to decide whether a specific measure suits your setting",
    "type": "strategy"
   },
   {
@@ -61231,6 +62345,14 @@
    "path": "strategies/curiosity-corner-training-coaching-strategy.md",
    "status": "draft",
    "title": "Implement Curiosity Corner with two initial training workshop days plus ongoing onsite coaching and support",
+   "type": "strategy"
+  },
+  {
+   "description": "The study's forward-looking recommendation for districts is to \\\"consider curricula and professional learning that intentionally highlight mathematical learning progressions.\\\" It follows from the finding that productiv...",
+   "id": "curricula-pd-highlighting-learning-progressions",
+   "path": "strategies/curricula-pd-highlighting-learning-progressions.md",
+   "status": "draft",
+   "title": "Districts should consider curricula and professional learning that intentionally highlight mathematical learning progressions",
    "type": "strategy"
   },
   {
@@ -62335,6 +63457,14 @@
    "path": "strategies/do_now_bell_work.md",
    "status": "review",
    "title": "Do Now / Bell Work",
+   "type": "strategy"
+  },
+  {
+   "description": "The guide directs researchers to 'document the context in which the intervention is implemented' and to 'measure the difference between the intervention and what members of the control group receive'.",
+   "id": "document-context-and-measure-contrast",
+   "path": "strategies/document-context-and-measure-contrast.md",
+   "status": "draft",
+   "title": "Document the implementation context and measure the intervention-control contrast",
    "type": "strategy"
   },
   {
@@ -63823,6 +64953,14 @@
    "path": "strategies/evaluating_online_sources.md",
    "status": "review",
    "title": "Evaluating Online Sources",
+   "type": "strategy"
+  },
+  {
+   "description": "The article describes a concrete funder strategy: \\\"Implementing this process can assist foundations in using evaluation research as a tool to determine which interventions are likely to produce desired outcomes, and t...",
+   "id": "evaluation-research-to-select-scalable-interventions",
+   "path": "strategies/evaluation-research-to-select-scalable-interventions.md",
+   "status": "draft",
+   "title": "Use evaluation research as a tool to determine which interventions are likely to produce desired outcomes and which organizations are ready to scale them",
    "type": "strategy"
   },
   {
@@ -67778,6 +68916,14 @@
    "type": "strategy"
   },
   {
+   "description": "This recommendation advises districts to embed tutoring within the regular school day when structuring a selected program.",
+   "id": "integrate-tutoring-into-regular-school-day",
+   "path": "strategies/integrate-tutoring-into-regular-school-day.md",
+   "status": "draft",
+   "title": "Integrate tutoring into the regular school day rather than scheduling it outside instructional time",
+   "type": "strategy"
+  },
+  {
    "description": "Embed explicit anticipation and discussion of emotions into the daily schedule so students predict, plan for, and manage emotional states across academic and social activities.",
    "id": "integrate_emotions_into_daily_schedule_and_routine",
    "path": "strategies/integrate_emotions_into_daily_schedule_and_routine.md",
@@ -67847,6 +68993,14 @@
    "path": "strategies/interaction_with_natural_environment.md",
    "status": "review",
    "title": "Interaction with Natural Environment",
+   "type": "strategy"
+  },
+  {
+   "description": "The report catalogs practices that modify or supplement traditional peer review.",
+   "id": "interactive-and-alternative-grant-review-practices",
+   "path": "strategies/interactive-and-alternative-grant-review-practices.md",
+   "status": "draft",
+   "title": "Interactive and alternative review practices: applicant response rounds, sandpits, bibliometric scoring, decision aids, lotteries, and crowdfunding",
    "type": "strategy"
   },
   {
@@ -68658,6 +69812,14 @@
    "type": "strategy"
   },
   {
+   "description": "The brief aims to inform school and district leaders deciding whether to use automated writing feedback tools like Ecree in middle and high schools, and \\\"provides strategies for school and district leaders to support...",
+   "id": "leader-support-strategies-for-automated-writing-feedback-adoption",
+   "path": "strategies/leader-support-strategies-for-automated-writing-feedback-adoption.md",
+   "status": "draft",
+   "title": "Provide school and district leader support strategies when adopting automated writing feedback tools like Ecree",
+   "type": "strategy"
+  },
+  {
    "description": "Leaderboards showcase the distribution of point totals that learners have accumulated through various learning activities, leveraging competition to drive engagement.",
    "id": "leaderboards",
    "path": "strategies/leaderboards.md",
@@ -69191,6 +70353,14 @@
    "path": "strategies/line_awareness_activities.md",
    "status": "review",
    "title": "Line Awareness Activities",
+   "type": "strategy"
+  },
+  {
+   "description": "The guide recommends that analyses and reporting connect implementation data to impact estimates: it 'presents strategies for analysis and reporting about these topics, and also for linking implementation and impact f...",
+   "id": "link-implementation-and-impact-findings",
+   "path": "strategies/link-implementation-and-impact-findings.md",
+   "status": "draft",
+   "title": "Link implementation and impact findings when analyzing and reporting impact studies",
    "type": "strategy"
   },
   {
@@ -70730,6 +71900,14 @@
    "type": "strategy"
   },
   {
+   "description": "This recommendation directs districts to establish regular monitoring of how a tutoring program is being implemented and whether students attend sessions, as an ongoing support activity after selection.",
+   "id": "monitor-tutoring-implementation-and-attendance-regularly",
+   "path": "strategies/monitor-tutoring-implementation-and-attendance-regularly.md",
+   "status": "draft",
+   "title": "Monitor tutoring implementation and attendance regularly during program rollout",
+   "type": "strategy"
+  },
+  {
    "description": "Actively monitoring and adjusting classroom temperature toward a moderate range (roughly 68\u201374\u00b0F / 20\u201323\u00b0C) to protect attention, task performance, and engagement.",
    "id": "monitor_and_adjust_classroom_temperature",
    "path": "strategies/monitor_and_adjust_classroom_temperature.md",
@@ -71063,6 +72241,14 @@
    "path": "strategies/multimedia-interaction-online-discussion-intervention-package.md",
    "status": "draft",
    "title": "Use multimedia presentations, classroom interactions and synchronous and asynchronous online discussions alongside laboratory experiments to correct teleologic-anthropomorphic language",
+   "type": "strategy"
+  },
+  {
+   "description": "The paper recommends assessing young children's progress through observational measures that span preschool to elementary ages, used for formative evaluation rather than accountability.",
+   "id": "multimethod-formative-evaluation-early-childhood-strategy",
+   "path": "strategies/multimethod-formative-evaluation-early-childhood-strategy.md",
+   "status": "draft",
+   "title": "Combine observational measures with other methods in formative evaluation of preschool-through-third-grade programs, keeping them free of high stakes.",
    "type": "strategy"
   },
   {
@@ -72175,6 +73361,14 @@
    "path": "strategies/output-based-writing-teaching-suggestions.md",
    "status": "draft",
    "title": "Give students more chances to produce output and communicate during writing, with varied assignment types and clear sufficient feedback",
+   "type": "strategy"
+  },
+  {
+   "description": "To help practitioners adopt the phased M&E approach, the publication pairs the framework description with a worked illustration.",
+   "id": "overview-resource-illustrative-example-strategy",
+   "path": "strategies/overview-resource-illustrative-example-strategy.md",
+   "status": "draft",
+   "title": "Use an overview resource with an illustrative example to introduce phased evidence building",
    "type": "strategy"
   },
   {
@@ -77106,6 +78300,14 @@
    "type": "strategy"
   },
   {
+   "description": "This recommendation concerns provider selection criteria: districts should favor tutoring providers whose professional development is matched to their tutors' level of experience and who deliberately invest in buildin...",
+   "id": "select-providers-tailoring-pd-and-relationship-building",
+   "path": "strategies/select-providers-tailoring-pd-and-relationship-building.md",
+   "status": "draft",
+   "title": "Select tutoring providers that tailor professional development to tutor experience levels and invest in student-tutor relationship building",
+   "type": "strategy"
+  },
+  {
    "description": "Selecting and incorporating texts that reflect learners' identities and expose them to authentic perspectives beyond their own experience.",
    "id": "selecting_culturally_responsive_texts",
    "path": "strategies/selecting_culturally_responsive_texts.md",
@@ -78650,6 +79852,14 @@
    "type": "strategy"
   },
   {
+   "description": "The guide treats the specification of implementation research questions as an explicit early step when embedding implementation research in an impact study.",
+   "id": "specify-implementation-research-questions-step",
+   "path": "strategies/specify-implementation-research-questions-step.md",
+   "status": "draft",
+   "title": "Specify implementation research questions as a distinct step in impact study design",
+   "type": "strategy"
+  },
+  {
    "description": "This performative writing assignment tasks students with composing speculative theory-fiction, fusing the speculative imagining of science fiction with theorizing as practical application of existing theories and dedu...",
    "id": "speculative-theory-fiction-assignment",
    "path": "strategies/speculative-theory-fiction-assignment.md",
@@ -79111,6 +80321,14 @@
    "path": "strategies/strategies-disaggregate-participation-data-intersectionally.md",
    "status": "draft",
    "title": "Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses",
+   "type": "strategy"
+  },
+  {
+   "description": "The brief offers strategies for improving automated writing feedback tools so they better meet the needs of teachers and students, aimed at tool developers, instructional support staff, and curriculum developers.",
+   "id": "strategies-improving-automated-feedback-tools",
+   "path": "strategies/strategies-improving-automated-feedback-tools.md",
+   "status": "draft",
+   "title": "Provide strategies and supports for improving automated writing feedback tools to meet teacher and student needs",
    "type": "strategy"
   },
   {
@@ -79791,6 +81009,14 @@
    "path": "strategies/summer-pd-plus-coaching-plus-materials-kits.md",
    "status": "draft",
    "title": "Combine summer professional development with school-year on-site coaching and provision of complete instructional materials",
+   "type": "strategy"
+  },
+  {
+   "description": "The brief suggests that \\\"summer programs can be learning labs for new practices,\\\" because teachers made use of instructional practices they had learned while delivering the programs.",
+   "id": "summer-programs-as-teacher-learning-labs",
+   "path": "strategies/summer-programs-as-teacher-learning-labs.md",
+   "status": "draft",
+   "title": "Use summer programs as learning labs for teachers to practice new instructional strategies",
    "type": "strategy"
   },
   {
@@ -81282,6 +82508,14 @@
    "type": "strategy"
   },
   {
+   "description": "The report's approach is to estimate the impact of an offer of admission to a pre-K program and then \\\"explore whether any impacts persist as students advance beyond kindergarten,\\\" building on a previous study of the s...",
+   "id": "track-prek-impacts-beyond-kindergarten",
+   "path": "strategies/track-prek-impacts-beyond-kindergarten.md",
+   "status": "draft",
+   "title": "Evaluate pre-K programs by tracking impacts beyond kindergarten into early elementary grades",
+   "type": "strategy"
+  },
+  {
    "description": "Students color-code their own confidence in a just-completed assignment (red/orange/green), and the resulting groups are used differently \u2014 the confident students evaluate each other's work in mixed groups while the teacher works directly with the unsure ones.",
    "id": "traffic-lights-self-assessment",
    "path": "strategies/traffic-lights-self-assessment.md",
@@ -81674,6 +82908,14 @@
    "type": "strategy"
   },
   {
+   "description": "The brief aims \\\"to help middle and high school students and their families learn about Ecree, an automated feedback tool that supports student writing in the classroom,\\\" summarizing takeaways from its use in grade 8-1...",
+   "id": "use-ecree-to-support-writing-in-ela-classrooms",
+   "path": "strategies/use-ecree-to-support-writing-in-ela-classrooms.md",
+   "status": "draft",
+   "title": "Use automated writing feedback tools like Ecree to support writing in middle and high school English language arts classrooms",
+   "type": "strategy"
+  },
+  {
    "description": "Provide learners with ongoing, low-stakes information about their performance that they can act on before final evaluation.",
    "id": "use-formative-feedback",
    "path": "strategies/use-formative-feedback.md",
@@ -81682,11 +82924,27 @@
    "type": "strategy"
   },
   {
+   "description": "The brief positions its cross-program findings as decision support for actors working to expand effective tutoring.",
+   "id": "use-implementation-evidence-to-improve-tutoring-access",
+   "path": "strategies/use-implementation-evidence-to-improve-tutoring-access.md",
+   "status": "draft",
+   "title": "Use evaluation evidence on implementation quality, attendance, and relationships to guide tutoring program selection and improvement",
+   "type": "strategy"
+  },
+  {
    "description": "The article's pedagogical recommendation is that EFL and IELTS teachers adopt interactionist Dynamic Assessment in writing classes.",
    "id": "use-interactionist-da-for-writing-accuracy",
    "path": "strategies/use-interactionist-da-for-writing-accuracy.md",
    "status": "draft",
    "title": "Use interactionist DA to give learners more opportunities to interact and improve writing accuracy",
+   "type": "strategy"
+  },
+  {
+   "description": "The brief positions itself as a resource for decision-makers: its goal is \\\"to help school district leaders, teachers, and researchers understand what factors enhance or hinder writing interventions.\\\" District leaders,...",
+   "id": "use-landscape-evidence-writing-intervention-factors",
+   "path": "strategies/use-landscape-evidence-writing-intervention-factors.md",
+   "status": "draft",
+   "title": "Use landscape evidence to understand what factors enhance or hinder writing interventions",
    "type": "strategy"
   },
   {
@@ -82143,6 +83401,14 @@
    "path": "strategies/video-guided-coaching-real-time-behavior-observation.md",
    "status": "draft",
    "title": "Use fine-grained observation of real-time teacher and student behavior in video-guided coaching to analyze interactional fit",
+   "type": "strategy"
+  },
+  {
+   "description": "This strategy replaces in-person classroom observers with video streaming technology to assess classroom quality in pre-K settings.",
+   "id": "video-streaming-virtual-classroom-observation-strategy",
+   "path": "strategies/video-streaming-virtual-classroom-observation-strategy.md",
+   "status": "draft",
+   "title": "Use video streaming technology instead of in-person observers to assess pre-K classroom quality",
    "type": "strategy"
   },
   {
@@ -85760,6 +87026,14 @@
    "type": "theory"
   },
   {
+   "description": "The report describes five frameworks that can be used to evaluate ex ante broader impacts: the HERG Payback Framework, SIAMPI, Contribution Mapping, the Research Contribution Framework, and the RAPID Outcome Mapping A...",
+   "id": "ex-ante-broader-impacts-frameworks-taxonomy",
+   "path": "theories/ex-ante-broader-impacts-frameworks-taxonomy.md",
+   "status": "draft",
+   "title": "Five frameworks for evaluating ex ante broader impacts of research vary in emphasis on methods versus outcomes",
+   "type": "theory"
+  },
+  {
    "description": "Executive functions \u2014 inhibitory control, cognitive flexibility, and working memory \u2014 are self-regulatory processes that emerge gradually from early childhood through adolescence, shaped by both brain maturation and the quality of caregiving and instructional scaffolding a learner receives.",
    "id": "executive-function-development",
    "path": "theories/executive-function-development.md",
@@ -86385,6 +87659,14 @@
    "type": "theory"
   },
   {
+   "description": "Mathematica's measurement and evaluation (M&E) approach is a road map for generating evidence about new or evolving solutions.",
+   "id": "four-phase-me-evidence-building-approach",
+   "path": "theories/four-phase-me-evidence-building-approach.md",
+   "status": "draft",
+   "title": "Four-phase measurement and evaluation approach for evidence-based solution development",
+   "type": "theory"
+  },
+  {
    "description": "A lesson-level teaching process the article uses to develop mathematical communication skills while teaching congruent triangles.",
    "id": "four-phase-teaching-process-math-communication",
    "path": "theories/four-phase-teaching-process-math-communication.md",
@@ -86918,6 +88200,14 @@
    "path": "theories/houle-three-orientations-adult-learners.md",
    "status": "draft",
    "title": "Houle's typology of adult learners as goal-oriented, activity-oriented and learning-oriented",
+   "type": "theory"
+  },
+  {
+   "description": "The report describes a comprehensive taxonomy of the criteria and elements reviewers use to evaluate proposals, developed by Hug and Aeschbach (2020) after screening more than 16,000 articles and identifying 12 studie...",
+   "id": "hug-aeschbach-grant-review-element-taxonomy",
+   "path": "theories/hug-aeschbach-grant-review-element-taxonomy.md",
+   "status": "draft",
+   "title": "Hug and Aeschbach taxonomy of grant review criteria and elements coded as entity-dimension combinations",
    "type": "theory"
   },
   {
@@ -87693,6 +88983,14 @@
    "path": "theories/learning-cycle-three-phase-riparian.md",
    "status": "draft",
    "title": "Learning cycle instructional model: exploration, concept introduction, concept application",
+   "type": "theory"
+  },
+  {
+   "description": "The study uses mathematical learning progressions as the standard against which teachers' content adaptations to middle school math curricula are judged.",
+   "id": "learning-progressions-lens-for-adaptation-alignment",
+   "path": "theories/learning-progressions-lens-for-adaptation-alignment.md",
+   "status": "draft",
+   "title": "Mathematical learning progressions as a lens for evaluating teachers' curriculum adaptations",
    "type": "theory"
   },
   {
@@ -88707,6 +90005,14 @@
    "path": "theories/part-whole-spatial-recall-model.md",
    "status": "draft",
    "title": "Part-whole processing model of spatial recall",
+   "type": "theory"
+  },
+  {
+   "description": "The brief conceptualizes how study participants and community members are involved in research as a continuum rather than a binary.",
+   "id": "participant-engagement-continuum-research-process",
+   "path": "theories/participant-engagement-continuum-research-process.md",
+   "status": "draft",
+   "title": "Participant engagement as a continuum shaped by influencing factors and research stage",
    "type": "theory"
   },
   {
@@ -90035,6 +91341,14 @@
    "type": "theory"
   },
   {
+   "description": "SPREE (Scaling Programs with Research Evidence and Effectiveness) is a process that helps funders and their grantees scale successfully.",
+   "id": "spree-scaling-process-framework",
+   "path": "theories/spree-scaling-process-framework.md",
+   "status": "draft",
+   "title": "SPREE: a process for scaling evidence-based programs grounded in evaluation and implementation science",
+   "type": "theory"
+  },
+  {
    "description": "The article organizes SRL interventions using a coding scheme with four primary strategy dimensions applied to online learning (OL) and blended learning (BL) contexts.",
    "id": "srl-four-strategy-coding-scheme-ol-bl",
    "path": "theories/srl-four-strategy-coding-scheme-ol-bl.md",
@@ -90361,6 +91675,14 @@
    "path": "theories/teacher-agency-system-framework-cdst.md",
    "status": "draft",
    "title": "Framework of the teacher agency system: agency as multi-layered interacting subsystems",
+   "type": "theory"
+  },
+  {
+   "description": "The brief organizes its content around a landscape of teacher factors that drive improvement in secondary writing outcomes.",
+   "id": "teacher-factor-landscape-secondary-writing",
+   "path": "theories/teacher-factor-landscape-secondary-writing.md",
+   "status": "draft",
+   "title": "Teacher-factor landscape for secondary writing improvement",
    "type": "theory"
   },
   {
@@ -91284,6 +92606,7 @@
    "ability-level-differences-verbal-problem-solving": "ability-level-differences-verbal-problem-solving",
    "ability-moderates-hierarchical-organization-benefit": "ability-moderates-hierarchical-organization-benefit",
    "ablation-all-features-maximize-auc": "ablation-all-features-maximize-auc",
+   "about-half-of-students-found-ecree-easy-and-helpful": "about-half-of-students-found-ecree-easy-and-helpful",
    "absence-reports-california-replication-es-010": "absence-reports-california-replication-es-010",
    "absence-reports-philadelphia-rct-es-019": "absence-reports-philadelphia-rct-es-019",
    "absence-reports-reduce-absences-philadelphia-rct": "absence-reports-reduce-absences-philadelphia-rct",
@@ -91680,6 +93003,7 @@
    "capit-reading-kindergarten-readiness-benchmark": "capit-reading-kindergarten-readiness-benchmark",
    "capit-reading-prek-literacy-es-019": "capit-reading-prek-literacy-es-019",
    "capt-strong-segmentals-weak-prosody": "capt-strong-segmentals-weak-prosody",
+   "career-ladder-missouri-small-or-no-achievement-effect": "career-ladder-missouri-small-or-no-achievement-effect",
    "carnegie-learning-algebra-i-cluster-randomized-cohorts": "carnegie-learning-algebra-i-cluster-randomized-cohorts",
    "carnegie-learning-algebra-i-weighted-effect-0-04": "carnegie-learning-algebra-i-weighted-effect-0-04",
    "carousel-task-immediate-repetition-benefits": "carousel-task-immediate-repetition-benefits",
@@ -91725,6 +93049,7 @@
    "chapter-one-improves-orf-kindergarten": "chapter-one-improves-orf-kindergarten",
    "chapter-one-stakeholder-positive-impressions": "chapter-one-stakeholder-positive-impressions",
    "character-education-didacticism-critique-dewey-bridge": "character-education-didacticism-critique-dewey-bridge",
+   "charter-consortium-effective-school-identification-method": "charter-consortium-effective-school-identification-method",
    "chat-absent-from-csl-literature": "chat-absent-from-csl-literature",
    "chat-contradictions-activity-systems-rationale-for-csl": "chat-contradictions-activity-systems-rationale-for-csl",
    "chat-interventionist-transformation-tensions": "chat-interventionist-transformation-tensions",
@@ -92273,6 +93598,8 @@
    "distress-tolerance-uncertainty-intolerance-associations": "distress-tolerance-uncertainty-intolerance-associations",
    "distributed-practice-improves-retention": "distributed-practice-improves-retention",
    "distributed-practice-limits-l2": "distributed-practice-limits-l2",
+   "district-expert-participation-increases-research-effectiveness": "district-expert-participation-increases-research-effectiveness",
+   "districts-face-strategic-data-use-challenges-despite-systems": "districts-face-strategic-data-use-challenges-despite-systems",
    "disturbances-crucial-expansive-learning-dynamics": "disturbances-crucial-expansive-learning-dynamics",
    "diverse-contexts-improve-pseudoword-recognition-accuracy": "diverse-contexts-improve-pseudoword-recognition-accuracy",
    "diverse-contexts-speed-word-identification": "diverse-contexts-speed-word-identification",
@@ -92355,6 +93682,10 @@
    "eclass-validated-interviews-experts": "eclass-validated-interviews-experts",
    "eco-anxiety-associated-depression-anxiety": "eco-anxiety-associated-depression-anxiety",
    "ecology-of-activity-systems-scmd": "ecology-of-activity-systems-scmd",
+   "ecree-district-costs-depend-on-implementation-lower-for-larger-districts": "ecree-district-costs-depend-on-implementation-lower-for-larger-districts",
+   "ecree-easy-to-use-and-helpful-per-teachers-and-students": "ecree-easy-to-use-and-helpful-per-teachers-and-students",
+   "ecree-improved-writing-quality-especially-less-advanced-writers": "ecree-improved-writing-quality-especially-less-advanced-writers",
+   "ecree-likely-improved-writing-quality-especially-less-advanced-starters": "ecree-likely-improved-writing-quality-especially-less-advanced-starters",
    "ecri-improves-word-reading-outcomes-first-grade": "ecri-improves-word-reading-outcomes-first-grade",
    "ed-experience-no-effect-osce-consent": "ed-experience-no-effect-osce-consent",
    "edpuzzle-caaspp-math-effect-009": "edpuzzle-caaspp-math-effect-009",
@@ -92427,6 +93758,7 @@
    "elementary-undergrads-higher-existentialism": "elementary-undergrads-higher-existentialism",
    "eleven-components-iar-cdr": "eleven-components-iar-cdr",
    "eliciting-self-explanations-improves-understanding": "self-explanation-improves-conceptual-understanding",
+   "ell-pd-participation-under-20-percent-of-pd-hours": "ell-pd-participation-under-20-percent-of-pd-hours",
    "ellm-plus-kindergarten-follow-up-significant-effects": "ellm-plus-kindergarten-follow-up-significant-effects",
    "ellm-plus-study2-positive-nonsignificant": "ellm-plus-study2-positive-nonsignificant",
    "ellm-plus-tera3-study1-significant-positive-outcomes": "ellm-plus-tera3-study1-significant-positive-outcomes",
@@ -92528,6 +93860,7 @@
    "everyday-mathematics-potentially-positive-primary-math-achievement": "everyday-mathematics-potentially-positive-primary-math-achievement",
    "everyday-mathematics-small-evidence-base-one-qualifying-study": "everyday-mathematics-small-evidence-base-one-qualifying-study",
    "everyday-mathematics-taas-subtest-effects-nonsignificant": "everyday-mathematics-taas-subtest-effects-nonsignificant",
+   "evidence-determines-nonlinear-phase-movement": "evidence-determines-nonlinear-phase-movement",
    "ewims-positive-effects-course-failures": "ewims-positive-effects-course-failures",
    "ewims-reduces-chronic-absenteeism": "ewims-reduces-chronic-absenteeism",
    "exact-path-bundle-ela-fast-effect-014": "exact-path-bundle-ela-fast-effect-014",
@@ -92705,7 +94038,9 @@
    "females-benefit-free-exploration-then-plan": "females-benefit-free-exploration-then-plan",
    "ferentino-vabs-c-socialization-significant-effect": "ferentino-vabs-c-socialization-significant-effect",
    "few-active-learning-studies-check-treatment-fidelity": "few-active-learning-studies-check-treatment-fidelity",
+   "few-districts-aligned-bonuses-with-tif-guidance": "few-districts-aligned-bonuses-with-tif-guidance",
    "few-kindergartners-synthetic-scientific-models": "few-kindergartners-synthetic-scientific-models",
+   "few-sig-schools-staffing-strategies-ell-teacher-capacity": "few-sig-schools-staffing-strategies-ell-teacher-capacity",
    "fewer-objects-easier-change-detection": "fewer-objects-easier-change-detection",
    "ff-differential-attendance-subgroups": "ff-differential-attendance-subgroups",
    "ff-family-engagement-under-implementation": "ff-family-engagement-under-implementation",
@@ -92786,6 +94121,7 @@
    "formulaic-utterances-dominate-early-immersion-speech": "formulaic-utterances-dominate-early-immersion-speech",
    "foster-1994-daisyquest-significant-both-measures": "foster-1994-daisyquest-significant-both-measures",
    "foundation-integration-predicts-environment-success": "foundation-integration-predicts-environment-success",
+   "foundations-scale-by-supporting-ready-interventions": "foundations-scale-by-supporting-ready-interventions",
    "four-4cid-factors-observed-variable-counts": "four-4cid-factors-observed-variable-counts",
    "four-contexts-influential-preservice-philosophy": "four-contexts-influential-preservice-philosophy",
    "four-difficulty-themes-textbook-listening": "four-difficulty-themes-textbook-listening",
@@ -92818,6 +94154,7 @@
    "full-equality-unattainable-non-eu-partners-eu-alliances": "full-equality-unattainable-non-eu-partners-eu-alliances",
    "full-participation-question-submission": "full-participation-question-submission",
    "functional-fixedness-limits-problem-solving": "functional-fixedness-limits-problem-solving",
+   "funders-defer-to-reviewer-discretion-on-criterion-weighting": "funders-defer-to-reviewer-discretion-on-criterion-weighting",
    "funding-evenhandedness-impedes-global-south-pilots": "funding-evenhandedness-impedes-global-south-pilots",
    "funds-of-knowledge-research-raises-teacher-expectations": "funds-of-knowledge-research-raises-teacher-expectations",
    "funds-of-knowledge-tasks-reveal-computational-thinking": "funds-of-knowledge-tasks-reveal-computational-thinking",
@@ -92937,6 +94274,7 @@
    "grammar-not-focus-of-sla-synthesis": "grammar-not-focus-of-sla-synthesis",
    "graphic-organizers-support-novice-comprehension": "graphic-organizers-support-novice-comprehension",
    "grav-wave-theme-coheres-curriculum": "grav-wave-theme-coheres-curriculum",
+   "greater-ell-pd-focus-linked-to-reported-effectiveness-gains": "greater-ell-pd-focus-linked-to-reported-effectiveness-gains",
    "greek-scale-intercorrelations-high": "greek-scale-intercorrelations-high",
    "green-dot-attendance-year-four-only": "green-dot-attendance-year-four-only",
    "green-dot-ela-first-year-only": "green-dot-ela-first-year-only",
@@ -92947,6 +94285,7 @@
    "greenfield-literacy-training-caaspp-ela-gain": "greenfield-literacy-training-caaspp-ela-gain",
    "grid-overlay-reifies-anchor-shifts-routine": "grid-overlay-reifies-anchor-shifts-routine",
    "grievance-paradox-peer-promotion-disputes": "grievance-paradox-peer-promotion-disputes",
+   "group-and-virtual-tutoring-boost-math-knowledge": "group-and-virtual-tutoring-boost-math-knowledge",
    "group-level-scaffolding-training-increases-teacher-process-support-and-student-participation": "group-level-scaffolding-training-increases-teacher-process-support-and-student-participation",
    "group-mastery-positive-achievement-all-studies": "group-mastery-positive-achievement-all-studies",
    "group-membership-alone-does-not-produce-cooperation": "group-membership-alone-does-not-produce-cooperation",
@@ -93166,6 +94505,7 @@
    "immigration-discussion-null-critical-consciousness": "immigration-discussion-null-critical-consciousness",
    "implementation-intentions-improve-goal-attainment": "implementation-intentions-improve-goal-attainment",
    "implementation-level-moderates-dialogic-reading-effects": "implementation-level-moderates-dialogic-reading-effects",
+   "implicit-bias-possible-discipline-disparities": "implicit-bias-possible-discipline-disparities",
    "implicit-scaffolding-supports-immediate-exploration": "implicit-scaffolding-supports-immediate-exploration",
    "improvised-prayer-theory-of-mind-network": "improvised-prayer-theory-of-mind-network",
    "imse-og-plus-improves-early-literacy": "imse-og-plus-improves-early-literacy",
@@ -93242,6 +94582,7 @@
    "integration-performance-link-fails-in-specialized-offices": "integration-performance-link-fails-in-specialized-offices",
    "integrative-motivation-sustains-long-term": "integrative-motivation-sustains-long-term",
    "integrity-equity-concerns-span-all-units": "integrity-equity-concerns-span-all-units",
+   "intellectual-merit-versus-broader-impacts-assessment-focus": "intellectual-merit-versus-broader-impacts-assessment-focus",
    "intellectual-test-performances-correlated": "intellectual-test-performances-correlated",
    "intelligence-locus-correlation-both-groups": "intelligence-locus-correlation-both-groups",
    "intelligences-not-interchangeable": "intelligences-not-interchangeable",
@@ -93373,12 +94714,17 @@
    "kindergarten-early-algebra-intervention-shifts-equal-sign-understanding": "kindergarten-early-algebra-intervention-shifts-equal-sign-understanding",
    "kindergartners-majority-naive-day-night-models": "kindergartners-majority-naive-day-night-models",
    "kinesthetic-experience-enhances-understanding-physics-of-dance": "kinesthetic-experience-enhances-understanding-physics-of-dance",
+   "kipp-middle-schools-positive-significant-math-reading-impacts": "kipp-middle-schools-positive-significant-math-reading-impacts",
    "kipp-mixed-social-studies": "kipp-mixed-social-studies",
    "kipp-null-student-progression": "kipp-null-student-progression",
    "kipp-positive-ela-achievement": "kipp-positive-ela-achievement",
    "kipp-positive-math-achievement": "kipp-positive-math-achievement",
    "kipp-potentially-positive-science": "kipp-potentially-positive-science",
+   "kipp-prek-added-reading-benefit-beyond-elementary": "kipp-prek-added-reading-benefit-beyond-elementary",
+   "kipp-prek-elementary-five-year-reading-math-impacts": "kipp-prek-elementary-five-year-reading-math-impacts",
+   "kipp-prek-possible-executive-function-impact": "kipp-prek-possible-executive-function-impact",
    "kipp-rct-lottery-positive-effects": "kipp-rct-lottery-positive-effects",
+   "kipp-reading-skills-persist-comprehension-dissipates-grade-2": "kipp-reading-skills-persist-comprehension-dissipates-grade-2",
    "kirsch-computer-grammar-painting-validation": "kirsch-computer-grammar-painting-validation",
    "kit-kaboodle-daily-use-gains": "kit-kaboodle-daily-use-gains",
    "knowledge-barriers-language-development-procedural": "knowledge-barriers-language-development-procedural",
@@ -93425,6 +94771,7 @@
    "ladders-to-literacy-no-general-reading-evidence": "ladders-to-literacy-no-general-reading-evidence",
    "ladders-to-literacy-potentially-positive-alphabetics": "ladders-to-literacy-potentially-positive-alphabetics",
    "ladders-to-literacy-potentially-positive-fluency": "ladders-to-literacy-potentially-positive-fluency",
+   "landscape-analysis-collected-instruments-learning-strategies-mindsets": "landscape-analysis-collected-instruments-learning-strategies-mindsets",
    "language-class-dropout-anxiety": "language-class-dropout-anxiety",
    "language-clique-segregation-peer-choice": "language-clique-segregation-peer-choice",
    "language-entails-conceptually-different-world": "language-entails-conceptually-different-world",
@@ -93436,6 +94783,7 @@
    "language-tests-vary-enormously-construct": "language-tests-vary-enormously-construct",
    "laptop-notes-verbatim-shallower": "laptop-notes-verbatim-shallower",
    "larger-class-size-poorer-performance": "larger-class-size-poorer-performance",
+   "largest-experimental-study-of-math-curricula-110-schools": "largest-experimental-study-of-math-curricula-110-schools",
    "largest-off-task-declines-in-high-baseline-classrooms": "largest-off-task-declines-in-high-baseline-classrooms",
    "late-evening-local-news-increases-with-age": "late-evening-local-news-increases-with-age",
    "latent-ef-factor-preferred-ecls-k-math": "latent-ef-factor-preferred-ecls-k-math",
@@ -93545,6 +94893,7 @@
    "lightning-squad-word-attack-significant-itt": "lightning-squad-word-attack-significant-itt",
    "likelihood-variance-greater-for-girls": "likelihood-variance-greater-for-girls",
    "limited-access-use-auto-centring-technology": "limited-access-use-auto-centring-technology",
+   "limited-engagement-requires-careful-action-oriented-recommendations": "limited-engagement-requires-careful-action-oriented-recommendations",
    "limited-english-use-opportunities-after-training": "limited-english-use-opportunities-after-training",
    "limited-metapragmatic-awareness-nonverbals": "limited-metapragmatic-awareness-nonverbals",
    "limited-parental-awareness-of-alternative-aac-systems": "limited-parental-awareness-of-alternative-aac-systems",
@@ -93594,9 +94943,17 @@
    "lli-average-effect-size-013-two-studies": "lli-average-effect-size-013-two-studies",
    "lli-denver-dra2-kindergarten-only-010": "lli-denver-dra2-kindergarten-only-010",
    "lli-georgia-new-york-rct-dibels-017": "lli-georgia-new-york-rct-dibels-017",
+   "lli-more-dosage-pullout-negatively-affected": "lli-more-dosage-pullout-negatively-affected",
+   "lli-negative-impact-ela-standards-mastery": "lli-negative-impact-ela-standards-mastery",
    "lli-no-discernible-alphabetics-effects": "lli-no-discernible-alphabetics-effects",
+   "lli-no-impact-adolescent-reading-comprehension": "lli-no-impact-adolescent-reading-comprehension",
    "lli-positive-effects-general-reading-achievement-k-2": "lli-positive-effects-general-reading-achievement-k-2",
+   "lli-pull-out-students-particularly-negatively-affected": "lli-pull-out-students-particularly-negatively-affected",
+   "lli-secondary-implementation-challenges-variation": "lli-secondary-implementation-challenges-variation",
+   "lli-secondary-negative-impact-ela-standards": "lli-secondary-negative-impact-ela-standards",
+   "lli-secondary-no-impact-reading-comprehension": "lli-secondary-no-impact-reading-comprehension",
    "lli-star-female-subgroup-positive-nonsignificant": "lli-star-female-subgroup-positive-nonsignificant",
+   "lli-students-fell-short-recommended-sessions": "lli-students-fell-short-recommended-sessions",
    "lli-teacher-perceptions-positive-with-pacing-concerns": "lli-teacher-perceptions-positive-with-pacing-concerns",
    "llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice": "llmkt-knowledge-change-curves-show-mixed-trends-resembling-power-law-of-practice",
    "llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues": "llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues",
@@ -93635,11 +94992,13 @@
    "low-fidelity-pbis-smaller-student-improvements": "low-fidelity-pbis-smaller-student-improvements",
    "low-goal-attainment-child-goals-higher-rate": "low-goal-attainment-child-goals-higher-rate",
    "low-group-first-graders-read-few-words": "low-group-first-graders-read-few-words",
+   "low-income-children-tom-development-differences": "low-income-children-tom-development-differences",
    "low-introjected-regulation-esp-learners": "low-introjected-regulation-esp-learners",
    "low-mail-survey-return-rate-limits-generalizability": "low-mail-survey-return-rate-limits-generalizability",
    "low-motivation-formulaic-writing": "low-motivation-formulaic-writing",
    "low-perception-factors-affecting-kcls": "low-perception-factors-affecting-kcls",
    "low-proficiency-intelligibility-barrier-asr": "low-proficiency-intelligibility-barrier-asr",
+   "low-reliability-grant-reviewer-scores": "low-reliability-grant-reviewer-scores",
    "low-salience-elements-need-extensive-practice": "low-salience-elements-need-extensive-practice",
    "low-stress-tbl-higher-isat-scores": "low-stress-tbl-higher-isat-scores",
    "low-stress-tbl-higher-perceived-effectiveness": "low-stress-tbl-higher-perceived-effectiveness",
@@ -93691,6 +95050,8 @@
    "marginal-glosses-most-beneficial-task": "marginal-glosses-most-beneficial-task",
    "markov-all-dimensions-poor-scaling": "markov-all-dimensions-poor-scaling",
    "martin-2009-indeterminate-effects": "martin-2009-indeterminate-effects",
+   "maryland-black-disabilities-twice-discipline-rates": "maryland-black-disabilities-twice-discipline-rates",
+   "maryland-exclusionary-discipline-declined-all-subgroups": "maryland-exclusionary-discipline-declined-all-subgroups",
    "massive-range-pbl-outcome-effect-sizes": "massive-range-pbl-outcome-effect-sizes",
    "mastery-control-no-entry-differences": "mastery-control-no-entry-differences",
    "mastery-dominant-orientation-project-based-software-course": "mastery-dominant-orientation-project-based-software-course",
@@ -93716,7 +95077,13 @@
    "math-180-rct-grade6-map-es-031": "math-180-rct-grade6-map-es-031",
    "math-anxiety-degrades-performance": "math-anxiety-degrades-performance",
    "math-confidence-inhibits-philosophy-reinterpretation": "math-confidence-inhibits-philosophy-reinterpretation",
+   "math-corps-nsf-funded-three-city-replication": "math-corps-nsf-funded-three-city-replication",
+   "math-corps-replication-sites-served-priority-communities": "math-corps-replication-sites-served-priority-communities",
+   "math-corps-significant-exam-gains-replication-sites": "math-corps-significant-exam-gains-replication-sites",
+   "math-corps-strong-attendance-replication-sites": "math-corps-strong-attendance-replication-sites",
    "math-correlates-more-with-ef-than-ef-internally": "math-correlates-more-with-ef-than-ef-internally",
+   "math-curricula-benefits-extend-to-low-performing-high-poverty-schools": "math-curricula-benefits-extend-to-low-performing-high-poverty-schools",
+   "math-expressions-saxon-outperform-investigations-sfaw-first-grade": "math-expressions-saxon-outperform-investigations-sfaw-first-grade",
    "math-vocabulary-levels-improve-post-test": "math-vocabulary-levels-improve-post-test",
    "mba-students-experience-courses-as-coi": "mba-students-experience-courses-as-coi",
    "mbsr-eight-weeks-gray-matter-increases": "mbsr-eight-weeks-gray-matter-increases",
@@ -93735,6 +95102,7 @@
    "measurement-invariance-gender-structural-equivalence-rejected": "measurement-invariance-gender-structural-equivalence-rejected",
    "measurement-model-reliability-mall-efl": "measurement-model-reliability-mall-efl",
    "measurement-noise-negative-gain-pretest-correlation": "measurement-noise-negative-gain-pretest-correlation",
+   "measuring-math-impact-key-to-improving-performance": "measuring-math-impact-key-to-improving-performance",
    "mechanical-drills-limited-use-meaning-form": "mechanical-drills-limited-use-meaning-form",
    "media-combinations-affect-recall-and-retention": "media-combinations-affect-recall-and-retention",
    "media-comparison-studies-produce-uninterpretable-results": "media-comparison-studies-produce-uninterpretable-results",
@@ -93791,6 +95159,7 @@
    "microphone-use-discourages-student-questions": "microphone-use-discourages-student-questions",
    "mics-pre-post-no-group-differential-effect": "mics-pre-post-no-group-differential-effect",
    "middle-stage-lower-complementarity-successful-therapists": "middle-stage-lower-complementarity-successful-therapists",
+   "middle-years-math-tutoring-portfolio-positive-average-effects": "middle-years-math-tutoring-portfolio-positive-average-effects",
    "mindfulness-programs-benefit-adolescent-regulation": "mindfulness-programs-benefit-adolescent-regulation",
    "mindset-goal-orientation-correlation-student-teachers": "mindset-goal-orientation-correlation-student-teachers",
    "minimal-formal-training-sdm-staff": "minimal-formal-training-sdm-staff",
@@ -93909,6 +95278,7 @@
    "multimedia-principle-words-and-pictures-outcomes": "multimedia-principle-words-and-pictures-outcomes",
    "multimedia-principles-benefit-novices": "multimedia-principles-benefit-novices",
    "multimedia-words-plus-images-beat-words-alone": "multimedia-principle-improves-learning",
+   "multimethod-approach-richer-portrayal-child-performance": "multimethod-approach-richer-portrayal-child-performance",
    "multimodal-culturally-grounded-assessment-supports-engagement-and-agency": "multimodal-culturally-grounded-assessment-supports-engagement-and-agency",
    "multimodal-glosses-improve-incidental-vocabulary-learning": "multimodal-glosses-improve-incidental-vocabulary-learning",
    "multiple-choice-higher-practice-performance-than-short-answer": "multiple-choice-higher-practice-performance-than-short-answer",
@@ -93921,6 +95291,7 @@
    "multiple-ucsmp-courses-positive-general-math-achievement": "multiple-ucsmp-courses-positive-general-math-achievement",
    "multiple-ucsmp-courses-potentially-positive-general-mathematics": "multiple-ucsmp-courses-potentially-positive-general-mathematics",
    "multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection": "multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection",
+   "naep-ltt-2020-2023-bayesian-reanalysis": "naep-ltt-2020-2023-bayesian-reanalysis",
    "naive-hope-negatively-related-civic-engagement": "naive-hope-negatively-related-civic-engagement",
    "narrative-genres-may-disempower-while-claiming-empowerment": "narrative-genres-may-disempower-while-claiming-empowerment",
    "narrative-inquiry-puzzles-not-problems": "narrative-inquiry-puzzles-not-problems",
@@ -93973,6 +95344,7 @@
    "no-group-difference-tat-posttest-cls": "no-group-difference-tat-posttest-cls",
    "no-group-or-sex-effect-on-locus-of-control": "no-group-or-sex-effect-on-locus-of-control",
    "no-heritability-extrapolation-to-expert-performance": "no-heritability-extrapolation-to-expert-performance",
+   "no-high-stakes-on-observational-measures": "no-high-stakes-on-observational-measures",
    "no-incongruence-to-congruence-transition-across-therapy-sessions": "no-incongruence-to-congruence-transition-across-therapy-sessions",
    "no-instructor-bias-clicker-perceptions": "no-instructor-bias-clicker-perceptions",
    "no-item-differences-anova-rjm": "no-item-differences-anova-rjm",
@@ -94014,6 +95386,7 @@
    "nonassessment-unacceptable-alternative": "nonassessment-unacceptable-alternative",
    "nonlinear-circular-design-style-change": "nonlinear-circular-design-style-change",
    "nonparticipant-barriers-professional-development": "nonparticipant-barriers-professional-development",
+   "nonproductive-adapters-on-grade-level-during-delivery": "nonproductive-adapters-on-grade-level-during-delivery",
    "nonthaburi-kindergarteners-ef-below-criterion": "nonthaburi-kindergarteners-ef-below-criterion",
    "norm-referenced-metrics-hide-structural-development": "norm-referenced-metrics-hide-structural-development",
    "normalized-gain-pretest-uncorrelated-alpha-process": "normalized-gain-pretest-uncorrelated-alpha-process",
@@ -94039,6 +95412,7 @@
    "object-construction-leads-other-lines": "object-construction-leads-other-lines",
    "object-formation-iterative-germ-cell-encapsulated": "object-formation-iterative-germ-cell-encapsulated",
    "objections-stage-most-difficult-crito": "objections-stage-most-difficult-crito",
+   "observational-measures-alternative-direct-testing-early-grades": "observational-measures-alternative-direct-testing-early-grades",
    "ocf-focused-pronunciation-grammar-communication-impeding": "ocf-focused-pronunciation-grammar-communication-impeding",
    "odyssey-math-medium-to-large-extent-of-evidence": "odyssey-math-medium-to-large-extent-of-evidence",
    "odyssey-math-potentially-positive-effects-math-achievement": "odyssey-math-potentially-positive-effects-math-achievement",
@@ -94067,6 +95441,7 @@
    "once-rct-no-significant-dibels-effect-low-dosage": "once-rct-no-significant-dibels-effect-low-dosage",
    "once-weighted-average-effect-size-0-14-promising": "once-weighted-average-effect-size-0-14-promising",
    "one-hour-telelectures-too-short": "one-hour-telelectures-too-short",
+   "one-of-ten-software-products-significant-positive-effects": "one-of-ten-software-products-significant-positive-effects",
    "one-step-advance-regardless-of-discrepancy-size": "one-step-advance-regardless-of-discrepancy-size",
    "one-to-one-lexical-equation-objectionable": "one-to-one-lexical-equation-objectionable",
    "online-communities-must-be-designed-and-scaffolded": "online-communities-must-be-designed-and-scaffolded",
@@ -94257,6 +95632,11 @@
    "peer-tutoring-improves-achievement": "peer-tutoring-improves-achievement",
    "peer-tutoring-response-groups-positive-eld-effects": "peer-tutoring-response-groups-positive-eld-effects",
    "peerwise-student-questions-75-percent-high-quality": "peerwise-student-questions-75-percent-high-quality",
+   "pef-benefit-cost-analysis-economic-value": "pef-benefit-cost-analysis-economic-value",
+   "pef-facility-payment-model-costs-and-benefits-both-increased": "pef-facility-payment-model-costs-and-benefits-both-increased",
+   "pef-fy2024-benefits-93-million-families-largest-share": "pef-fy2024-benefits-93-million-families-largest-share",
+   "pef-fy2024-cost-76-million-up-from-54-million": "pef-fy2024-cost-76-million-up-from-54-million",
+   "pef-fy2024-roi-21-percent-similar-to-fy2023": "pef-fy2024-roi-21-percent-similar-to-fy2023",
    "penland-1979-national-self-initiated-learning": "penland-1979-national-self-initiated-learning",
    "pennsylvania-citizenship-scores-declined-1974-1976": "pennsylvania-citizenship-scores-declined-1974-1976",
    "people-come-first-invitational-schools": "people-come-first-invitational-schools",
@@ -94474,6 +95854,7 @@
    "process-writing-improves-writing-quality": "process-writing-improves-writing-quality",
    "process-writing-instruction-improves-writing-quality": "process-writing-improves-writing-quality",
    "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension": "production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension",
+   "productive-adapters-consider-progressions-below-grade-level": "productive-adapters-consider-progressions-below-grade-level",
    "productive-failure-improves-conceptual-learning": "productive-failure-improves-conceptual-learning",
    "productive-failure-improves-learning": "productive-failure-improves-conceptual-learning",
    "professional-dialog-reproduces-knowledge-context-logic": "professional-dialog-reproduces-knowledge-context-logic",
@@ -94712,6 +96093,7 @@
    "regionwide-needs-assessment-inadequate-funds-diversity": "regionwide-needs-assessment-inadequate-funds-diversity",
    "register-compression-singing-accuracy-chinese-classrooms": "register-compression-singing-accuracy-chinese-classrooms",
    "regression-mtcs-significant-k-precision": "regression-mtcs-significant-k-precision",
+   "regular-tailored-support-helped-teachers-integrate-tools": "regular-tailored-support-helped-teachers-integrate-tools",
    "regulative-context-critique-methodological-or-paradigmatic": "regulative-context-critique-methodological-or-paradigmatic",
    "relatedness-care-support-internalization": "relatedness-care-support-internalization",
    "relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent": "relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent",
@@ -94848,10 +96230,17 @@
    "safersanschools-improves-teacher-perceptions-conditions": "safersanschools-improves-teacher-perceptions-conditions",
    "safersanschools-reduces-chronic-absence-student-level": "safersanschools-reduces-chronic-absence-student-level",
    "safersanschools-school-level-results-not-significant": "safersanschools-school-level-results-not-significant",
+   "saga-blended-tutoring-test-score-impacts-mixed": "saga-blended-tutoring-test-score-impacts-mixed",
+   "saga-impacts-larger-fewer-staffing-challenges-small-groups": "saga-impacts-larger-fewer-staffing-challenges-small-groups",
+   "saga-implementation-engagement-challenges": "saga-implementation-engagement-challenges",
+   "saga-tutoring-improves-math-grades": "saga-tutoring-improves-math-grades",
+   "saga-tutoring-larger-impacts-lower-prior-achievement": "saga-tutoring-larger-impacts-lower-prior-achievement",
+   "saga-tutoring-small-negative-attendance-impact": "saga-tutoring-small-negative-attendance-impact",
    "sage-schools-no-significant-rating-change": "sage-schools-no-significant-rating-change",
    "sakt-underperforms-dkt-all-datasets": "sakt-underperforms-dkt-all-datasets",
    "salat-posture-drives-eeg-relaxation-response": "salat-posture-drives-eeg-relaxation-response",
    "salomon-perkins-learning-with-versus-of-tools": "salomon-perkins-learning-with-versus-of-tools",
+   "same-infractions-black-disabilities-more-suspensions": "same-infractions-black-disabilities-more-suspensions",
    "sat-underpredicts-girls-performance": "sat-underpredicts-girls-performance",
    "scaffolded-close-reading-improves-comprehension-for-struggling-readers": "scaffolded-close-reading-improves-comprehension-for-struggling-readers",
    "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states": "scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states",
@@ -95094,15 +96483,19 @@
    "societal-good-instructor-student-contrast": "societal-good-instructor-student-contrast",
    "socio-constructivist-absolutist-views-not-opposite-poles": "socio-constructivist-absolutist-views-not-opposite-poles",
    "socio-emotional-support-most-frequent-code": "socio-emotional-support-most-frequent-code",
+   "sociocognitive-combination-predicts-school-entry-outcomes": "sociocognitive-combination-predicts-school-entry-outcomes",
    "sociocultural-critique-cummins-framework": "sociocultural-critique-cummins-framework",
    "sociocultural-model-limited-by-class-size": "sociocultural-model-limited-by-class-size",
    "sociocultural-sla-demonizes-socially-resistant-learners": "sociocultural-sla-demonizes-socially-resistant-learners",
    "sociohistorical-influences-on-achievement": "sociohistorical-influences-on-achievement",
    "socratic-dialogue-needs-efficiency-and-summaries": "socratic-dialogue-needs-efficiency-and-summaries",
+   "software-effects-changed-between-cohorts": "software-effects-changed-between-cohorts",
    "soka-experiential-learning-gain-primary-value": "soka-experiential-learning-gain-primary-value",
    "solve-attributes-vary-in-discrimination": "solve-attributes-vary-in-discrimination",
    "somatic-return-revisions-thinking": "somatic-return-revisions-thinking",
    "somatically-informed-teachers-six-movement-awareness-strategies": "somatically-informed-teachers-six-movement-awareness-strategies",
+   "some-students-overwhelmed-by-ecree-feedback": "some-students-overwhelmed-by-ecree-feedback",
+   "some-students-struggled-automated-feedback-use": "some-students-struggled-automated-feedback-use",
    "some-users-prefer-people-contexts-institutions-over-subject-browsing": "some-users-prefer-people-contexts-institutions-over-subject-browsing",
    "sound-box-favored-over-sound-sort-maslanka-joseph": "sound-box-favored-over-sound-sort-maslanka-joseph",
    "sound-partners-extent-of-evidence": "sound-partners-extent-of-evidence",
@@ -95174,6 +96567,7 @@
    "spontaneous-strategy-transfer-one-week-delay": "spontaneous-strategy-transfer-one-week-delay",
    "spoon-to-cup-fading-increases-cup-drinking": "spoon-to-cup-fading-increases-cup-drinking",
    "spreading-activation-semantic-distance-inconsistency": "spreading-activation-semantic-distance-inconsistency",
+   "spree-builds-measurement-culture": "spree-builds-measurement-culture",
    "springboard-summer-attendance-threshold-null": "springboard-summer-attendance-threshold-null",
    "springboard-summer-family-workshop-attendance-null": "springboard-summer-family-workshop-attendance-null",
    "springboard-summer-gains-vary-by-starting-level": "springboard-summer-gains-vary-by-starting-level",
@@ -95217,6 +96611,7 @@
    "stages-of-concern-developmental-trend": "stages-of-concern-developmental-trend",
    "stair-step-solar-wind-inputs-improve-lab-results": "stair-step-solar-wind-inputs-improve-lab-results",
    "standard-two-week-spacing-significant-over-baseline": "standard-two-week-spacing-significant-over-baseline",
+   "standardized-tests-problematic-young-children-outcomes": "standardized-tests-problematic-young-children-outcomes",
    "standards-adoption-voluntary-local-guides": "standards-adoption-voluntary-local-guides",
    "star-year2-technology-use-rise": "star-year2-technology-use-rise",
    "starbird-intuitive-integral-five-configurations": "starbird-intuitive-integral-five-configurations",
@@ -95266,6 +96661,7 @@
    "strength-weakness-rankings-shift-over-semester": "strength-weakness-rankings-shift-over-semester",
    "strong-acquisition-tasks-improve-internalization": "strong-acquisition-tasks-improve-internalization",
    "strong-feelings-about-problem-influence-group-growth": "strong-feelings-about-problem-influence-group-growth",
+   "strong-student-tutor-relationships-key-to-tutoring-success": "strong-student-tutor-relationships-key-to-tutoring-success",
    "stronger-belonging-linked-engagement-achievement": "stronger-belonging-linked-engagement-achievement",
    "strongest-motivation-predictors-of-self-efficacy": "strongest-motivation-predictors-of-self-efficacy",
    "strp-teachers-metacognitive-tools-before-during-after": "strp-teachers-metacognitive-tools-before-during-after",
@@ -95368,6 +96764,9 @@
    "suh-2019-mixed-achievement-findings": "suh-2019-mixed-achievement-findings",
    "summarization-effective-with-training": "summarization-improves-learning",
    "summarization-improves-learning": "summarization-improves-learning",
+   "summer-math-programs-large-grade-improvements-next-semester": "summer-math-programs-large-grade-improvements-next-semester",
+   "summer-math-programs-minimal-mindset-confidence-change": "summer-math-programs-minimal-mindset-confidence-change",
+   "summer-programs-teachers-adopted-new-practices": "summer-programs-teachers-adopted-new-practices",
    "summer-reading-loss-widens-gaps": "summer-reading-loss-widens-gaps",
    "sun-rises-exactly-east-only-at-equinoxes": "sun-rises-exactly-east-only-at-equinoxes",
    "superkids-kindergarten-effect-size-023": "superkids-kindergarten-effect-size-023",
@@ -95457,6 +96856,7 @@
    "teacher-expectancy-beliefs-shape-motivation-to-use-ai": "teacher-expectancy-beliefs-shape-motivation-to-use-ai",
    "teacher-expectancy-effects-influence-student-achievement": "teacher-expectation-effects-on-achievement",
    "teacher-expectation-effects-on-achievement": "teacher-expectation-effects-on-achievement",
+   "teacher-experience-not-related-to-effect-changes": "teacher-experience-not-related-to-effect-changes",
    "teacher-explicitly-discusses-equation-forms-to-widen-kindergarten-acceptance": "teacher-explicitly-discusses-equation-forms-to-widen-kindergarten-acceptance",
    "teacher-growth-three-areas-guiding-preschool-math": "teacher-growth-three-areas-guiding-preschool-math",
    "teacher-guided-inquiry-outperforms-student-led": "teacher-guided-inquiry-outperforms-student-led",
@@ -95470,6 +96870,7 @@
    "teacher-method-interaction-significant-mpe-posttest": "teacher-method-interaction-significant-mpe-posttest",
    "teacher-modeling-internalizes-reading-strategies": "teacher-modeling-internalizes-reading-strategies",
    "teacher-perceived-cost-reduces-motivation-to-use-ai": "teacher-perceived-cost-reduces-motivation-to-use-ai",
+   "teacher-practices-support-feedback-shape-writing": "teacher-practices-support-feedback-shape-writing",
    "teacher-questions-low-bloom-levels-cooperative-dialogue": "teacher-questions-low-bloom-levels-cooperative-dialogue",
    "teacher-ratings-outpredict-language-tests": "teacher-ratings-outpredict-language-tests",
    "teacher-reported-engagement-opportunities-increased": "teacher-reported-engagement-opportunities-increased",
@@ -95488,17 +96889,24 @@
    "teachers-adjust-ocf-to-learner-reactions": "teachers-adjust-ocf-to-learner-reactions",
    "teachers-blame-instruction-over-learners-for-progress": "teachers-blame-instruction-over-learners-for-progress",
    "teachers-favor-delayed-ocf-over-immediate": "teachers-favor-delayed-ocf-over-immediate",
+   "teachers-found-ecree-mi-write-useful-writing-instruction": "teachers-found-ecree-mi-write-useful-writing-instruction",
+   "teachers-found-ecree-useful-but-some-students-overwhelmed": "teachers-found-ecree-useful-but-some-students-overwhelmed",
    "teachers-have-readier-household-entree-than-anthropologists": "teachers-have-readier-household-entree-than-anthropologists",
+   "teachers-key-role-secondary-writing-outcomes": "teachers-key-role-secondary-writing-outcomes",
    "teachers-learners-tblt-views-differ-baseline": "teachers-learners-tblt-views-differ-baseline",
+   "teachers-misunderstood-bonus-eligibility-and-amounts": "teachers-misunderstood-bonus-eligibility-and-amounts",
    "teachers-moderate-perception-kcls-teaching-learning": "teachers-moderate-perception-kcls-teaching-learning",
+   "teachers-more-productive-than-nonproductive-adaptations": "teachers-more-productive-than-nonproductive-adaptations",
    "teachers-of-adults-do-not-vary-practices": "teachers-of-adults-do-not-vary-practices",
    "teachers-rather-than-students-want-instructional-design-training": "teachers-rather-than-students-want-instructional-design-training",
    "teachers-report-simultaneous-words-graphics-presentation": "teachers-report-simultaneous-words-graphics-presentation",
+   "teachers-reported-curriculum-technical-integration-challenges": "teachers-reported-curriculum-technical-integration-challenges",
    "teachers-struggle-designing-interactive-activities": "teachers-struggle-designing-interactive-activities",
    "teachers-synthesize-pd-practices-with-context-not-just-transfer-them": "teachers-synthesize-pd-practices-with-context-not-just-transfer-them",
    "teachers-unaware-ocf-strategies-cognition-absent": "teachers-unaware-ocf-strategies-cognition-absent",
    "teachers-use-anthropomorphic-explanations-frequently": "teachers-use-anthropomorphic-explanations-frequently",
    "teachers-use-clt-principles-despite-ignorance": "teachers-use-clt-principles-despite-ignorance",
+   "teachers-used-ecree-less-than-intended-lacking-time": "teachers-used-ecree-less-than-intended-lacking-time",
    "teachers-value-pronunciation-but-seldom-teach-it": "teachers-value-pronunciation-but-seldom-teach-it",
    "teaching-about-emotions-associated-with-space-and-furnishings": "teaching-about-emotions-associated-with-space-and-furnishings",
    "teaching-act-opacity": "teaching-act-opacity",
@@ -95586,6 +96994,7 @@
    "three-themes-barriers-enablers-pro-environmental-dietitians": "three-themes-barriers-enablers-pro-environmental-dietitians",
    "three-variables-jointly-predict-subjective-well-being-34-8-percent": "three-variables-jointly-predict-subjective-well-being-34-8-percent",
    "threefold-cooperative-learning-staff-development-plan": "threefold-cooperative-learning-staff-development-plan",
+   "tif-pay-for-performance-small-positive-achievement-impacts": "tif-pay-for-performance-small-positive-achievement-impacts",
    "time-and-difficulty-largest-coursework-barriers": "time-and-difficulty-largest-coursework-barriers",
    "time-by-group-interaction-problem-solving-plan": "time-by-group-interaction-problem-solving-plan",
    "time-of-day-and-scan-interval-predict-within-person-brain-volume-variance": "time-of-day-and-scan-interval-predict-within-person-brain-volume-variance",
@@ -95599,6 +97008,7 @@
    "todays-excellence-tomorrows-ignorance": "todays-excellence-tomorrows-ignorance",
    "toefl-instruction-no-view-change": "toefl-instruction-no-view-change",
    "tom-marginal-non-significant-semantic-fluency": "tom-marginal-non-significant-semantic-fluency",
+   "tom-predicts-concurrent-academic-outcomes": "tom-predicts-concurrent-academic-outcomes",
    "tom2-bilingual-advantage-nonsignificant-comprehension-ceiling": "tom2-bilingual-advantage-nonsignificant-comprehension-ceiling",
    "too-good-for-drugs-no-discernible-kav-effects": "too-good-for-drugs-no-discernible-kav-effects",
    "too-good-for-drugs-potentially-positive-behavior-effects": "too-good-for-drugs-potentially-positive-behavior-effects",
@@ -95619,6 +97029,10 @@
    "toy-structure-little-difference-fantasy-predisposition": "toy-structure-little-difference-fantasy-predisposition",
    "tpack-course-improves-preservice-preschool-idc": "tpack-course-improves-preservice-preschool-idc",
    "tpi-implementation-low-participation-positive-assessment": "tpi-implementation-low-participation-positive-assessment",
+   "tpp-students-more-text-engagement-year-two": "tpp-students-more-text-engagement-year-two",
+   "tpp-teachers-asked-students-cite-text-evidence": "tpp-teachers-asked-students-cite-text-evidence",
+   "tpp-teachers-encouraged-higher-order-thinking": "tpp-teachers-encouraged-higher-order-thinking",
+   "tpp-teachers-sustained-ccss-aligned-practices": "tpp-teachers-sustained-ccss-aligned-practices",
    "tracker-constant-vx-model-activity": "tracker-constant-vx-model-activity",
    "tracker-incorrect-fx-model-refutes-x-force": "tracker-incorrect-fx-model-refutes-x-force",
    "tracker-parabola-fit-derives-gravitational-acceleration": "tracker-parabola-fit-derives-gravitational-acceleration",
@@ -95667,9 +97081,11 @@
    "tutor-background-subgroup-differences-nonsignificant": "tutor-background-meta-regression-not-predictive",
    "tutoring-benefits-tutors-and-tutees": "tutoring-benefits-tutors-and-tutees",
    "tutoring-center-visits-higher-cumulative-gpa": "tutoring-center-visits-higher-cumulative-gpa",
+   "tutoring-effect-size-aligned-with-implementation-quality": "tutoring-effect-size-aligned-with-implementation-quality",
    "tutoring-effectiveness-comes-from-scaffolding-and-feedback": "tutoring-effectiveness-comes-from-scaffolding-and-feedback",
    "tutoring-good-standing-significant-only-one-cohort": "tutoring-good-standing-significant-only-one-cohort",
    "tutoring-gpa-advantage-no-interaction-background": "tutoring-gpa-advantage-no-interaction-background",
+   "tutoring-may-improve-math-confidence-and-belonging": "tutoring-may-improve-math-confidence-and-belonging",
    "tutoring-stage-thresholds-validated-by-posttest": "tutoring-stage-thresholds-validated-by-posttest",
    "tutoring-visits-no-course-grade-advantage": "tutoring-visits-no-course-grade-advantage",
    "twenty-percent-formal-eighty-informal-learning": "twenty-percent-formal-eighty-informal-learning",
@@ -95679,6 +97095,7 @@
    "two-force-plate-impulse-asymmetry-student-project": "two-force-plate-impulse-asymmetry-student-project",
    "two-gendered-classroom-cultures": "two-gendered-classroom-cultures",
    "two-step-dissimilation-rules": "two-step-dissimilation-rules",
+   "two-strategies-groundbreaking-research-funding": "two-strategies-groundbreaking-research-funding",
    "two-types-of-germane-load-related-to-intrinsic-load": "two-types-of-germane-load-related-to-intrinsic-load",
    "two-way-tasks-promote-interactional-restructuring": "two-way-tasks-promote-interactional-restructuring",
    "two-week-uniform-spacing-greatest-benefit": "two-week-uniform-spacing-greatest-benefit",
@@ -95697,6 +97114,7 @@
    "uncertainty-weighted-multitask-oral-scoring": "uncertainty-weighted-multitask-oral-scoring",
    "unclear-presentation-complex-structure-penalty": "unclear-presentation-complex-structure-penalty",
    "unconstrained-topic-writing-yields-frivolous-resolutions": "unconstrained-topic-writing-yields-frivolous-resolutions",
+   "understanding-of-teaching-predicts-literacy-growth": "understanding-of-teaching-predicts-literacy-growth",
    "unequal-language-demands-question-answering": "unequal-language-demands-question-answering",
    "unequal-staff-hours-undermine-equal-decision-making-icel": "unequal-staff-hours-undermine-equal-decision-making-icel",
    "uneven-icap-mode-distribution-across-units": "uneven-icap-mode-distribution-across-units",
@@ -95749,6 +97167,8 @@
    "vip-potentially-positive-reading-achievement": "vip-potentially-positive-reading-achievement",
    "vip-word-mastery-significant-effect": "vip-word-mastery-significant-effect",
    "virtual-communities-counter-supervision-isolation": "virtual-communities-counter-supervision-isolation",
+   "virtual-pre-k-class-observations-practical-centers-fccs": "virtual-pre-k-class-observations-practical-centers-fccs",
+   "virtual-pre-k-observations-logistical-challenges": "virtual-pre-k-observations-logistical-challenges",
    "visual-channel-overload-hurts-visual-knowledge": "visual-channel-overload-hurts-visual-knowledge",
    "visual-imagery-possible-without-visual-experience": "visual-imagery-possible-without-visual-experience",
    "vocabulary-book-record-disorganised-unwieldy": "vocabulary-book-record-disorganised-unwieldy",
@@ -96030,6 +97450,7 @@
    "puppetry-steam-ecology-lesson-design": "puppetry-steam-ecology-lesson-design",
    "push-in-short-burst-personalized-tutoring": "push-in-short-burst-personalized-tutoring",
    "quilt-project-six-session-integrated-stem-unit": "quilt-project-six-session-integrated-stem-unit",
+   "reading-plus-qualified-staff-supervision": "reading-plus-qualified-staff-supervision",
    "reading-plus-three-part-session-structure": "reading-plus-three-part-session-structure",
    "reading-recovery-lesson-structure-pattern": "reading-recovery-lesson-structure-pattern",
    "reading-recovery-training-cascade": "reading-recovery-training-cascade",
@@ -96102,6 +97523,7 @@
    "aac-school-qes-protocol": "aac-school-qes-protocol",
    "aarp-acceptability-rating-profile": "aarp-acceptability-rating-profile",
    "aarp-experience-corps-program": "aarp-experience-corps-program",
+   "academic-literature-scan-teacher-factors-writing": "academic-literature-scan-teacher-factors-writing",
    "accelerated-middle-schools-program": "accelerated-middle-schools-program",
    "accelerated-reader-program-element": "accelerated-reader-program-element",
    "accommodations": "accommodations",
@@ -96202,6 +97624,7 @@
    "case-studies": "case-studies",
    "case-study": "case-study",
    "causal-dimension-scale-cds-cdsii": "causal-dimension-scale-cds-cdsii",
+   "cavadel-frye-tom-school-readiness-study": "cavadel-frye-tom-school-readiness-study",
    "cbm-computation-probes-first-grade": "cbm-computation-probes-first-grade",
    "challenge-identification": "challenge-identification",
    "chapter-one-one-on-one-tutoring-program": "chapter-one-one-on-one-tutoring-program",
@@ -96293,6 +97716,7 @@
    "cresst-proposed-assessment-tools": "cresst-proposed-assessment-tools",
    "criteria-development": "criteria-development",
    "critical-language-pedagogy-questionnaire": "critical-language-pedagogy-questionnaire",
+   "cross-district-middle-school-math-curricula-study": "cross-district-middle-school-math-curricula-study",
    "crs-classroom-response-technology-hook": "crs-classroom-response-technology-hook",
    "csr-online-teacher-support-materials": "csr-online-teacher-support-materials",
    "ctds-ppas-measurement-instruments": "ctds-ppas-measurement-instruments",
@@ -96310,6 +97734,8 @@
    "dataset-31-studies-innovative-learning-problem-solving": "dataset-31-studies-innovative-learning-problem-solving",
    "day2day-environment-dataset": "day2day-environment-dataset",
    "dbph-talking-book-audio-service-network": "dbph-talking-book-audio-service-network",
+   "dc-early-childhood-educator-pay-equity-fund": "dc-early-childhood-educator-pay-equity-fund",
+   "dc-early-childhood-educator-pay-equity-fund-pef": "dc-early-childhood-educator-pay-equity-fund-pef",
    "dcmp-cost-ingredients": "dcmp-cost-ingredients",
    "dcmp-intervention-model": "dcmp-intervention-model",
    "dcps-sdm-building-level-teams": "dcps-sdm-building-level-teams",
@@ -96368,6 +97794,7 @@
    "eckersley-design-helper-programs": "eckersley-design-helper-programs",
    "eclass-experimental-physics-survey": "eclass-experimental-physics-survey",
    "ecological-affordance-profile": "ecological-affordance-profile",
+   "ecree-automated-writing-feedback-tool": "ecree-automated-writing-feedback-tool",
    "ecri-professional-development-workbooks-leadership-guide": "ecri-professional-development-workbooks-leadership-guide",
    "edmentum-exact-path-adaptive-program": "edmentum-exact-path-adaptive-program",
    "edmentum-exact-path-growth-program": "edmentum-exact-path-growth-program",
@@ -96473,6 +97900,7 @@
    "fluency-way-lesson-guide-oral-proficiency": "fluency-way-lesson-guide-oral-proficiency",
    "force-and-motion-microworld-fmm": "force-and-motion-microworld-fmm",
    "formative-assessment": "formative-assessment",
+   "four-early-elementary-math-curricula-evaluation-set": "four-early-elementary-math-curricula-evaluation-set",
    "four-layer-oral-diagnosis-system-architecture": "four-layer-oral-diagnosis-system-architecture",
    "four-level-rubric-math-communication": "four-level-rubric-math-communication",
    "fraction-face-off-program": "fraction-face-off-program",
@@ -96548,6 +97976,7 @@
    "imagine-math-facts-3d-game-fluency-program": "imagine-math-facts-3d-game-fluency-program",
    "imbedded-aids-textbooks": "imbedded-aids-textbooks",
    "immediate-feedback": "immediate-feedback",
+   "implementation-research-in-impact-studies-guide": "implementation-research-in-impact-studies-guide",
    "imse-morphology-plus-program": "imse-morphology-plus-program",
    "imse-og-plus-program": "imse-og-plus-program",
    "in-class-activities": "in-class-activities",
@@ -96611,6 +98040,8 @@
    "khanmigo-genai-tutoring-app": "khanmigo-genai-tutoring-app",
    "kim-et-al-case-conceptual-elements": "kim-et-al-case-conceptual-elements",
    "kipp-charter-network-intervention": "kipp-charter-network-intervention",
+   "kipp-charter-school-network": "kipp-charter-school-network",
+   "kipp-prek-program": "kipp-prek-program",
    "knowledge-building": "knowledge-building",
    "knowledge-building-discourse": "knowledge-building-discourse",
    "knowledge-map-content-understanding-assessment": "knowledge-map-content-understanding-assessment",
@@ -96626,6 +98057,7 @@
    "labov-phonologization-segment": "labov-phonologization-segment",
    "labov-semantic-network-segment": "labov-semantic-network-segment",
    "ladders-to-literacy-kindergarten-activity-book": "ladders-to-literacy-kindergarten-activity-book",
+   "landscape-analysis-non-cognitive-measures-instruments": "landscape-analysis-non-cognitive-measures-instruments",
    "language-inquiry-attitude-instrument": "language-inquiry-attitude-instrument",
    "lavac-language-laboratory-toolkit": "lavac-language-laboratory-toolkit",
    "lc101-launchcode-coding-apprenticeship-program": "lc101-launchcode-coding-apprenticeship-program",
@@ -96690,11 +98122,15 @@
    "mastery-learning-classroom-management-staff-development-program": "mastery-learning-classroom-management-staff-development-program",
    "mastery-progression": "mastery-progression",
    "math-180-program-element": "math-180-program-element",
+   "math-corps-summer-camp-program": "math-corps-summer-camp-program",
    "math-story-chart-four-step": "math-story-chart-four-step",
+   "mathematica-congressionally-mandated-edtech-study": "mathematica-congressionally-mandated-edtech-study",
    "mathia-tutoring-software": "mathia-tutoring-software",
+   "me-approach-associated-toolkit": "me-approach-associated-toolkit",
    "media-corner-learning-space": "media-corner-learning-space",
    "mental-models": "mental-models",
    "mentira-mobile-game-pragmatic-feedback": "mentira-mobile-game-pragmatic-feedback",
+   "menu-of-measures-middle-grades-math": "menu-of-measures-middle-grades-math",
    "message-design-performance-support-system": "message-design-performance-support-system",
    "meta-utaut-mall-survey-instrument": "meta-utaut-mall-survey-instrument",
    "metacognition": "metacognition",
@@ -96708,6 +98144,7 @@
    "midterm-exam": "midterm-exam",
    "misconception-probes": "misconception-probes",
    "mission-based-learning": "mission-based-learning",
+   "missouri-teacher-career-ladder-program": "missouri-teacher-career-ladder-program",
    "mitp-mathematical-imagery-trainer-proportion": "mitp-mathematical-imagery-trainer-proportion",
    "mivls-ivlas-mivlss-instruments": "mivls-ivlas-mivlss-instruments",
    "mnemosyne-flashcard-review-logs": "mnemosyne-flashcard-review-logs",
@@ -96738,6 +98175,7 @@
    "nasa-cognition-battery-multi-domain-assessment": "nasa-cognition-battery-multi-domain-assessment",
    "nchems-data-element-1107-method-of-instruction": "nchems-data-element-1107-method-of-instruction",
    "negotiation": "negotiation",
+   "new-leaders-effectiveness-identification-methods": "new-leaders-effectiveness-identification-methods",
    "nine-types-positive-interdependence": "nine-types-positive-interdependence",
    "non-examples": "non-examples",
    "noss-nature-of-science-scale-ozgelen": "noss-nature-of-science-scale-ozgelen",
@@ -96802,6 +98240,7 @@
    "peer-teaching": "peer-teaching",
    "peer-tutoring-response-groups-practice": "peer-tutoring-response-groups-practice",
    "peerwise-online-mcq-authoring-tool": "peerwise-online-mcq-authoring-tool",
+   "pef-impact-cost-effectiveness-study": "pef-impact-cost-effectiveness-study",
    "performance-based-assessment": "performance-based-assessment",
    "performance-support": "performance-support",
    "personal-group-evaluation-forms-cooperative-learning": "personal-group-evaluation-forms-cooperative-learning",
@@ -97044,6 +98483,7 @@
    "stepping-stones-to-literacy-curriculum": "stepping-stones-to-literacy-curriculum",
    "sticht-three-positions-oral-written-language": "sticht-three-positions-oral-written-language",
    "story-mine-digital-narrative-intervention": "story-mine-digital-narrative-intervention",
+   "strategic-data-use-in-education-initiative-evaluation": "strategic-data-use-in-education-initiative-evaluation",
    "structured-academic-controversy": "structured-academic-controversy",
    "structured-debate": "structured-debate",
    "structured-discussion": "structured-discussion",
@@ -97053,6 +98493,7 @@
    "student-made-glossary-matlab-syntax": "student-made-glossary-matlab-syntax",
    "student-written-texts": "student-written-texts",
    "study-carrel-individual-work-area": "study-carrel-individual-work-area",
+   "study-of-school-turnaround-ell-sig-case-studies": "study-of-school-turnaround-ell-sig-case-studies",
    "submission": "submission",
    "success-for-all-whole-school-reform-model": "success-for-all-whole-school-reform-model",
    "summarization-and-synthesis": "summarization-and-synthesis",
@@ -97069,8 +98510,10 @@
    "tdf-excel-data-tool": "tdf-excel-data-tool",
    "tdhs-whole-school-reform-model": "tdhs-whole-school-reform-model",
    "teach-for-america-program": "teach-for-america-program",
+   "teacher-incentive-fund-grant-program": "teacher-incentive-fund-grant-program",
    "teacher-language-and-gesture-codes-for-mathematical-equivalence": "teacher-language-and-gesture-codes-for-mathematical-equivalence",
    "teacher-moments-simulation-platform": "teacher-moments-simulation-platform",
+   "teacher-potential-project-curriculum-pd": "teacher-potential-project-curriculum-pd",
    "team-based-inquiry": "team-based-inquiry",
    "technology-affordances-matrix-entry-point": "technology-affordances-matrix-entry-point",
    "technology-integration": "technology-integration",
@@ -97089,6 +98532,7 @@
    "thinksrsd-online-resource": "thinksrsd-online-resource",
    "three-category-poster-rubric-summative-assessment": "three-category-poster-rubric-summative-assessment",
    "three-lesson-web-based-srl-training": "three-lesson-web-based-srl-training",
+   "three-summer-math-programs-grade-6-8": "three-summer-math-programs-grade-6-8",
    "three-tier-task-set-child-efl-complexity": "three-tier-task-set-child-efl-complexity",
    "too-good-for-drugs-k8-curriculum": "too-good-for-drugs-k8-curriculum",
    "too-good-for-violence-curriculum": "too-good-for-violence-curriculum",
@@ -97919,6 +99363,7 @@
    "adaptive-learning": "adaptive-learning",
    "add-cartoon-visuals-to-vocabulary-error-instruction": "add-cartoon-visuals-to-vocabulary-error-instruction",
    "add-enjoyment-elements-to-gamified-language-apps": "add-enjoyment-elements-to-gamified-language-apps",
+   "address-root-causes-discipline-disparities": "address-root-causes-discipline-disparities",
    "address_biases_in_the_use_of_language_and_symbols": "address_biases_in_the_use_of_language_and_symbols",
    "address_digital_literacy": "address_digital_literacy",
    "address_literacy_demands": "address_literacy_demands",
@@ -98001,6 +99446,7 @@
    "asr-read-aloud-compare-repeat-strategy": "asr-read-aloud-compare-repeat-strategy",
    "assess-concerns-three-methods": "assess-concerns-three-methods",
    "assess-disruption-reclamation-adaptability": "assess-disruption-reclamation-adaptability",
+   "assess-whether-and-how-intervention-implemented": "assess-whether-and-how-intervention-implemented",
    "assess_and_differentiate": "assess_and_differentiate",
    "assess_fluency_components": "assess_fluency_components",
    "assessing_and_differentiating_language_skills_in_pbl": "assessing_and_differentiating_language_skills_in_pbl",
@@ -98288,6 +99734,7 @@
    "cloud_text-to-speech_api": "cloud_text-to-speech_api",
    "cloze-procedure": "cloze-procedure",
    "cloze_exercises": "cloze_exercises",
+   "co-construct-research-with-community-participants": "co-construct-research-with-community-participants",
    "co-construct_rubrics": "co-construct_rubrics",
    "co-constructing_classroom_norms": "co-constructing_classroom_norms",
    "co-constructing_knowledge": "co-constructing_knowledge",
@@ -98415,6 +99862,7 @@
    "connecting_struggles_to_strategies": "connecting_struggles_to_strategies",
    "connection_of_prior_knowledge_to_new_learning": "connection_of_prior_knowledge_to_new_learning",
    "consequence-analysis-for-ethical-administrative-choices": "consequence-analysis-for-ethical-administrative-choices",
+   "consider-in-person-and-virtual-tutoring-options": "consider-in-person-and-virtual-tutoring-options",
    "consider_socio-cultural_factors": "consider_socio-cultural_factors",
    "consider_the_news_source": "consider_the_news_source",
    "consider_your_own_identity": "consider_your_own_identity",
@@ -98428,6 +99876,7 @@
    "content-focused_questioning": "content-focused_questioning",
    "content-related_signal_word": "content-related_signal_word",
    "content_word_signal": "content_word_signal",
+   "context-fit-questions-for-measure-selection": "context-fit-questions-for-measure-selection",
    "context-specific_journaling": "context-specific_journaling",
    "contextual-redefinition": "contextual-redefinition",
    "contextual_vocabulary_introduction": "contextual_vocabulary_introduction",
@@ -98544,6 +99993,7 @@
    "curated_material_selection": "curated_material_selection",
    "curating_resources": "curating_resources",
    "curiosity-corner-training-coaching-strategy": "curiosity-corner-training-coaching-strategy",
+   "curricula-pd-highlighting-learning-progressions": "curricula-pd-highlighting-learning-progressions",
    "curriculum-based-measurement": "curriculum-based-measurement",
    "curriculum-mapping-by-grading-periods": "curriculum-mapping-by-grading-periods",
    "curriculum-reiteration-one-step-forward-two-steps-back": "curriculum-reiteration-one-step-forward-two-steps-back",
@@ -98682,6 +100132,7 @@
    "diversity_of_perspectives_and_identities": "diversity_of_perspectives_and_identities",
    "dl2f-philippine-contextual-adaptation-strategy": "dl2f-philippine-contextual-adaptation-strategy",
    "do_now_bell_work": "do_now_bell_work",
+   "document-context-and-measure-contrast": "document-context-and-measure-contrast",
    "document-outline-tool": "document-outline-tool",
    "document_outline": "document_outline",
    "document_outline_strategy": "document_outline_strategy",
@@ -98868,6 +100319,7 @@
    "ethics-curriculum-with-integrated-service-learning": "ethics-curriculum-with-integrated-service-learning",
    "evaluating-drafts-peer-critiques-and-collaborative-exercises": "evaluating-drafts-peer-critiques-and-collaborative-exercises",
    "evaluating_online_sources": "evaluating_online_sources",
+   "evaluation-research-to-select-scalable-interventions": "evaluation-research-to-select-scalable-interventions",
    "evolving-criteria-feedback-conferences": "evolving-criteria-feedback-conferences",
    "ewims-training-and-technical-assistance-strategy": "ewims-training-and-technical-assistance-strategy",
    "exact-path-existing-staff-implementation-strategy": "exact-path-existing-staff-implementation-strategy",
@@ -99362,6 +100814,7 @@
    "integrate-metacognition-before-during-after-lesson": "integrate-metacognition-before-during-after-lesson",
    "integrate-reason-feeling-self-relationship-concept-context": "integrate-reason-feeling-self-relationship-concept-context",
    "integrate-start-early-raise-priority-pronunciation": "integrate-start-early-raise-priority-pronunciation",
+   "integrate-tutoring-into-regular-school-day": "integrate-tutoring-into-regular-school-day",
    "integrate_emotions_into_daily_schedule_and_routine": "integrate_emotions_into_daily_schedule_and_routine",
    "integrated-idc-teacher-preparation-curriculum": "integrated-idc-teacher-preparation-curriculum",
    "integrating_art_and_science": "integrating_art_and_science",
@@ -99371,6 +100824,7 @@
    "intentionally-activate-symbols-for-learning": "intentionally-activate-symbols-for-learning",
    "inter-institutional-society-mentorship-registry": "inter-institutional-society-mentorship-registry",
    "interaction_with_natural_environment": "interaction_with_natural_environment",
+   "interactive-and-alternative-grant-review-practices": "interactive-and-alternative-grant-review-practices",
    "interactive-note-taking": "interactive-note-taking",
    "interactive-read-aloud": "interactive-read-aloud",
    "interactive-read-alouds": "interactive-read-alouds",
@@ -99472,6 +100926,7 @@
    "layered-teacher-implementation-support-science-curriculum": "layered-teacher-implementation-support-science-curriculum",
    "layered-tutor-professional-development-support": "layered-tutor-professional-development-support",
    "lea-four-course-lre-strategy": "lea-four-course-lre-strategy",
+   "leader-support-strategies-for-automated-writing-feedback-adoption": "leader-support-strategies-for-automated-writing-feedback-adoption",
    "leaderboards": "leaderboards",
    "learn_about_students_math_backgrounds": "learn_about_students_math_backgrounds",
    "learner-centric_approach": "learner-centric_approach",
@@ -99539,6 +100994,7 @@
    "limit_background_noise": "limit_background_noise",
    "limited-information-then-efficient-em-sequential-procedure": "limited-information-then-efficient-em-sequential-procedure",
    "line_awareness_activities": "line_awareness_activities",
+   "link-implementation-and-impact-findings": "link-implementation-and-impact-findings",
    "listen_to_the_voices_of_students": "listen_to_the_voices_of_students",
    "listening-tour-classroom-observations": "listening-tour-classroom-observations",
    "listening_and_reading_for_specific_information": "listening_and_reading_for_specific_information",
@@ -99731,6 +101187,7 @@
    "modified_jigsaw_activities": "modified_jigsaw_activities",
    "module-development-course-recommendations": "module-development-course-recommendations",
    "momentum-graphing-prioritizes-course-revisions": "momentum-graphing-prioritizes-course-revisions",
+   "monitor-tutoring-implementation-and-attendance-regularly": "monitor-tutoring-implementation-and-attendance-regularly",
    "monitor_and_adjust_classroom_temperature": "monitor_and_adjust_classroom_temperature",
    "monitoring_progress": "monitoring_progress",
    "monolingual-teacher-staffing-dual-immersion": "monolingual-teacher-staffing-dual-immersion",
@@ -99773,6 +101230,7 @@
    "multimedia-design": "multimedia-design",
    "multimedia-gloss-design-guidelines": "multimedia-gloss-design-guidelines",
    "multimedia-interaction-online-discussion-intervention-package": "multimedia-interaction-online-discussion-intervention-package",
+   "multimethod-formative-evaluation-early-childhood-strategy": "multimethod-formative-evaluation-early-childhood-strategy",
    "multimodal-learning-logs-blogs": "multimodal-learning-logs-blogs",
    "multimodal-presentation": "multimodal-presentation",
    "multimodal_assignments": "multimodal_assignments",
@@ -99912,6 +101370,7 @@
    "outdoor_book_walk": "outdoor_book_walk",
    "outlining": "outlining",
    "output-based-writing-teaching-suggestions": "output-based-writing-teaching-suggestions",
+   "overview-resource-illustrative-example-strategy": "overview-resource-illustrative-example-strategy",
    "pa-lessons-small-group-delivery-training": "pa-lessons-small-group-delivery-training",
    "pacing": "pacing",
    "pair-clickers-with-at-home-reflection-explanations": "pair-clickers-with-at-home-reflection-explanations",
@@ -100528,6 +101987,7 @@
    "select-few-goals-for-facility-design": "select-few-goals-for-facility-design",
    "select-games-participation-proficiency-complementary": "select-games-participation-proficiency-complementary",
    "select-informative-texts-and-multimodal-glosses": "select-informative-texts-and-multimodal-glosses",
+   "select-providers-tailoring-pd-and-relationship-building": "select-providers-tailoring-pd-and-relationship-building",
    "selecting_culturally_responsive_texts": "selecting_culturally_responsive_texts",
    "selecting_tiered_vocabulary_words": "selecting_tiered_vocabulary_words",
    "self-_and_peer-editing": "self-_and_peer-editing",
@@ -100721,6 +102181,7 @@
    "specific_feedback": "specific_feedback",
    "specific_goal_questioning": "specific_goal_questioning",
    "specific_technique_identification": "specific_technique_identification",
+   "specify-implementation-research-questions-step": "specify-implementation-research-questions-step",
    "speculative-theory-fiction-assignment": "speculative-theory-fiction-assignment",
    "speech-to-text_technology": "speech-to-text_technology",
    "speed-chatting-pre-reading": "speed-chatting-pre-reading",
@@ -100779,6 +102240,7 @@
    "storytelling_in_explainer_animations_and_videos": "storytelling_in_explainer_animations_and_videos",
    "strategic_desk_arrangement": "strategic_desk_arrangement",
    "strategies-disaggregate-participation-data-intersectionally": "strategies-disaggregate-participation-data-intersectionally",
+   "strategies-improving-automated-feedback-tools": "strategies-improving-automated-feedback-tools",
    "strategies_to_develop_positive_classroom_pride": "strategies_to_develop_positive_classroom_pride",
    "strategies_to_remember_name_pronunciation": "strategies_to_remember_name_pronunciation",
    "strategy-identification-reflection": "strategy-identification-reflection",
@@ -100864,6 +102326,7 @@
    "summarizing": "summarizing",
    "summative_assessment_to_measure_learning_over_time": "summative_assessment_to_measure_learning_over_time",
    "summer-pd-plus-coaching-plus-materials-kits": "summer-pd-plus-coaching-plus-materials-kits",
+   "summer-programs-as-teacher-learning-labs": "summer-programs-as-teacher-learning-labs",
    "summer-reading-camps-design-attributes": "summer-reading-camps-design-attributes",
    "summer-training-plus-onsite-coaching-strategy": "summer-training-plus-onsite-coaching-strategy",
    "superkids-no-cost-pd-support-strategy": "superkids-no-cost-pd-support-strategy",
@@ -101050,6 +102513,7 @@
    "tossing_activity": "tossing_activity",
    "tpack-video-case-analysis-for-idc-metacognition": "tpack-video-case-analysis-for-idc-metacognition",
    "tpri_diagnostic_assessment": "tpri_diagnostic_assessment",
+   "track-prek-impacts-beyond-kindergarten": "track-prek-impacts-beyond-kindergarten",
    "traffic-lights-self-assessment": "traffic-lights-self-assessment",
    "train-all-foundational-block-staff-og-plus": "train-all-foundational-block-staff-og-plus",
    "train-all-literacy-block-staff-morphology-plus": "train-all-literacy-block-staff-morphology-plus",
@@ -101099,8 +102563,11 @@
    "use-boards-to-understand-learner-anxieties": "use-boards-to-understand-learner-anxieties",
    "use-creact-discussions-in-classroom": "use-creact-discussions-in-classroom",
    "use-current-events-fictional-characters": "use-current-events-fictional-characters",
+   "use-ecree-to-support-writing-in-ela-classrooms": "use-ecree-to-support-writing-in-ela-classrooms",
    "use-formative-feedback": "use-formative-feedback",
+   "use-implementation-evidence-to-improve-tutoring-access": "use-implementation-evidence-to-improve-tutoring-access",
    "use-interactionist-da-for-writing-accuracy": "use-interactionist-da-for-writing-accuracy",
+   "use-landscape-evidence-writing-intervention-factors": "use-landscape-evidence-writing-intervention-factors",
    "use-lou-data-for-change-monitoring-and-staff-development": "use-lou-data-for-change-monitoring-and-staff-development",
    "use-moderators-to-select-call-applications": "use-moderators-to-select-call-applications",
    "use-pre-questions": "use-pre-questions",
@@ -101158,6 +102625,7 @@
    "video-based-instruction": "video-based-instruction",
    "video-based-modeling": "video-based-modeling",
    "video-guided-coaching-real-time-behavior-observation": "video-guided-coaching-real-time-behavior-observation",
+   "video-streaming-virtual-classroom-observation-strategy": "video-streaming-virtual-classroom-observation-strategy",
    "video-taxonomy-as-design-space-strategy": "video-taxonomy-as-design-space-strategy",
    "video_report_cards": "video_report_cards",
    "videoconferencing_for_collaboration": "videoconferencing_for_collaboration",
@@ -101611,6 +103079,7 @@
    "essentialism-and-perennialism-educational-philosophy": "essentialism-and-perennialism-educational-philosophy",
    "ethic-of-care-female-principals-six-categories": "ethic-of-care-female-principals-six-categories",
    "ethnomethodology-serious-ethnography-framework": "ethnomethodology-serious-ethnography-framework",
+   "ex-ante-broader-impacts-frameworks-taxonomy": "ex-ante-broader-impacts-frameworks-taxonomy",
    "executive-function-development": "executive-function-development",
    "existential-hope-four-adaptive-processes": "existential-hope-four-adaptive-processes",
    "existential-hope-integrative-framework": "existential-hope-integrative-framework",
@@ -101689,6 +103158,7 @@
    "four-phase-interest-development": "four-phase-interest-development",
    "four-phase-interpersonal-relationship-model": "four-phase-interpersonal-relationship-model",
    "four-phase-local-curriculum-development-model-industrial-arts": "four-phase-local-curriculum-development-model-industrial-arts",
+   "four-phase-me-evidence-building-approach": "four-phase-me-evidence-building-approach",
    "four-phase-teaching-process-math-communication": "four-phase-teaching-process-math-communication",
    "four-practice-types-taxonomy": "four-practice-types-taxonomy",
    "four-quadrant-design-attribution-framework": "four-quadrant-design-attribution-framework",
@@ -101756,6 +103226,7 @@
    "home-culture-inclusion-framework": "home-culture-inclusion-framework",
    "horning-basic-writers-second-language-theory": "horning-basic-writers-second-language-theory",
    "houle-three-orientations-adult-learners": "houle-three-orientations-adult-learners",
+   "hug-aeschbach-grant-review-element-taxonomy": "hug-aeschbach-grant-review-element-taxonomy",
    "humanizing-mathematics-as-boundary-blurring": "humanizing-mathematics-as-boundary-blurring",
    "humanlikeness-design-anthropomorphism-inference-framework": "humanlikeness-design-anthropomorphism-inference-framework",
    "humanlikeness-multidimensional-design-construct": "humanlikeness-multidimensional-design-construct",
@@ -101852,6 +103323,7 @@
    "learner-centred-facilitation-adult-language": "learner-centred-facilitation-adult-language",
    "learning-centered-learning-five-assumptions": "learning-centered-learning-five-assumptions",
    "learning-cycle-three-phase-riparian": "learning-cycle-three-phase-riparian",
+   "learning-progressions-lens-for-adaptation-alignment": "learning-progressions-lens-for-adaptation-alignment",
    "learning-study-variation-theory-alignment-approach": "learning-study-variation-theory-alignment-approach",
    "learning-theories-interdisciplinary-discovery-studio": "learning-theories-interdisciplinary-discovery-studio",
    "legendre-transform-alternative-encoding-theory": "legendre-transform-alternative-encoding-theory",
@@ -101978,6 +103450,7 @@
    "oxford-lls-six-category-model": "oxford-lls-six-category-model",
    "parsing-first-year-four-domain-framework": "parsing-first-year-four-domain-framework",
    "part-whole-spatial-recall-model": "part-whole-spatial-recall-model",
+   "participant-engagement-continuum-research-process": "participant-engagement-continuum-research-process",
    "pathway-to-planetary-health-framework": "pathway-to-planetary-health-framework",
    "patterson-person-centered-counseling-framework": "patterson-person-centered-counseling-framework",
    "pebble-in-the-pond-instructional-design-model": "pebble-in-the-pond-instructional-design-model",
@@ -102143,6 +103616,7 @@
    "special-participant-observer-role": "special-participant-observer-role",
    "spectral-bkt-intermediate-state-hypotheses": "spectral-bkt-intermediate-state-hypotheses",
    "spectral-bkt-model": "spectral-bkt-model",
+   "spree-scaling-process-framework": "spree-scaling-process-framework",
    "srl-four-strategy-coding-scheme-ol-bl": "srl-four-strategy-coding-scheme-ol-bl",
    "srl-motivational-goal-setting-monitoring-control-framework": "srl-motivational-goal-setting-monitoring-control-framework",
    "srsd-six-stage-model": "srsd-six-stage-model",
@@ -102184,6 +103658,7 @@
    "tdf-framework-for-engagement-determinants": "tdf-framework-for-engagement-determinants",
    "teach-language-as-living-and-developing": "teach-language-as-living-and-developing",
    "teacher-agency-system-framework-cdst": "teacher-agency-system-framework-cdst",
+   "teacher-factor-landscape-secondary-writing": "teacher-factor-landscape-secondary-writing",
    "teacher-metacognition-reflect-analyze-use": "teacher-metacognition-reflect-analyze-use",
    "teacher-self-efficacy-field-specific-belief": "teacher-self-efficacy-field-specific-belief",
    "teacher-technology-adoption-stages": "teacher-technology-adoption-stages",

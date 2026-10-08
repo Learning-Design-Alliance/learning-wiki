@@ -48,3 +48,4 @@ Authors' assessment in the Limitations section: the CHAT approach gave richer un
 - [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
 - [Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project](increased-web-technology-use-over-project.md) — related
 - [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](novice-idc-growth-simplification-linearity-dogmatism.md) — related
+- [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](multimethod-approach-richer-portrayal-child-performance.md) — related

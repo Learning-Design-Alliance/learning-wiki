@@ -45,3 +45,4 @@ Retrospective quasi-experimental study in Iowa during the 2021-2022 school year 
 ## Related Claims
 - [Magnetic Reading Foundations has a positive and statistically significant effect of +0.15 on second-grade spring i-Ready Diagnostic scores](magnetic-reading-foundations-positive-i-ready-effect.md) — related
 - [Students in Magnetic Reading schools scored significantly higher on the Iowa state ELA test (ES = +0.22) in a 2022-2023 prospective matched study](magnetic-reading-prospective-iowa-study-022.md) — related
+- [Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled](foundations-scale-by-supporting-ready-interventions.md) — related
