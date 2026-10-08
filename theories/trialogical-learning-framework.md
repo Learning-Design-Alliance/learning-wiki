@@ -46,6 +46,7 @@ The Trialogical Approach holds that learning occurs not only through monological
 - [Knowledge Creation Metaphor Of Learning](knowledge-creation-metaphor-of-learning.md)
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md)
 - [Myness–Otherness dialogical framework of culture in EFL learning](myness-otherness-dialogical-culture-framework.md)
+- [Shared epistemic agency framework for analyzing knowledge creation in collaborative design](shared-epistemic-agency-framework-kc-design.md)
 
 ## Examples
 

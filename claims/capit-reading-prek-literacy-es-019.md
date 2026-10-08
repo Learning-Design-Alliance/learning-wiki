@@ -47,3 +47,4 @@ A matched comparison study during the 2023-2024 school year in a large Florida d
 - [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](once-program-improves-fastbridge-kindergarten-reading.md) — related
 - [Kindergarteners followed into 1st grade in Spalding schools showed higher FastBridge earlyReading gains (effect size +0.21) than matched comparison peers](spalding-fastbridge-earlyreading-kindergarten-gains.md) — related
 - [Kindergarten students using My Reading Academy outperformed comparison students on end-of-year state literacy assessments (ES +0.17)](mra-kindergarten-literacy-es-017.md) — related
+- [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related

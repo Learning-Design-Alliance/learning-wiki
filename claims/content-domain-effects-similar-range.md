@@ -49,3 +49,4 @@ Subgroup meta-analyses of short-run effects by content domain. The review report
 - [In a 2010 RCT in Georgia and New York, LLI produced a statistically significant positive effect on general reading achievement (effect size 0.35, improvement index +14)](lli-2010-rct-positive-general-reading-achievement.md) — related
 - [SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important](smart-comprehension-nonsignificant-substantive-average.md) — related
 - [Content domain shows little association with effect sizes, except fractions in mathematics](content-domain-little-effect-fractions-exception.md) — related
+- [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](literacy-first-strong-evidence-phonics-fluency-comprehension.md) — related

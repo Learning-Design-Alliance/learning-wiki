@@ -45,3 +45,4 @@ Phase 2 qualitative interviews with experts in evaluation, dissemination, and ev
 ## Related Claims
 - [Subject matter interviews reveal barriers to evidence use in government: untimely evidence, research not geared to decision-makers, limited understanding of evidence, and organizational influences](interview-barriers-evidence-use-government.md) — related
 - [A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions](literature-review-challenges-evidence-use-policy.md) — related
+- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related

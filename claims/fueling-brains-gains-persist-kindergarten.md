@@ -46,3 +46,4 @@ In the two-year quasi-experimental follow-up of the matched sample through the e
 - [Fueling Brains students significantly outperform matched controls on CIRCLE phonological awareness at end of pre-kindergarten (ES +0.26)](fueling-brains-phonological-awareness-advantage.md) — related
 - [Fueling Brains students significantly outperform matched controls on CIRCLE rapid vocabulary at end of pre-kindergarten (ES +0.18)](fueling-brains-rapid-vocabulary-advantage.md) — related
 - [Ready, Set, Leap!® effects do not persist to kindergarten follow-up on oral language, print knowledge, or math measures](ready-set-leap-null-kindergarten-followup.md) — related
+- [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related

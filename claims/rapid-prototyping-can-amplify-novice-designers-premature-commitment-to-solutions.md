@@ -55,3 +55,4 @@ A chapter situating design thinking in the design research field, from which it 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
+- [Engineering team converged earlier than other teams, concluding prototyping two minutes before the time limit](engineering-team-early-convergence-prototyping.md) — related

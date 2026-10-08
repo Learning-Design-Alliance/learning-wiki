@@ -48,3 +48,4 @@ Statewide observational analysis of Pennsylvania public school staff attrition c
 - [Remote learning was not associated with increased attrition among Pennsylvania elementary school teachers](remote-learning-not-associated-elementary-teacher-attrition.md) — related
 - [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — related
 - [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — related
+- [One-year principal retention rates were stable from fall 2016 to fall 2020 and did not decline during the COVID-19 pandemic year](one-year-principal-retention-stable-through-covid.md) — related

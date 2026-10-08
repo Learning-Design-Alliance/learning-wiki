@@ -51,3 +51,4 @@ The frequency and mitigation findings (subclaims 1-2) are descriptive patterns f
 - [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — related
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
 - [Teachers need professional development geared specifically to the curricula they teach, not only generic teaching skills or general content knowledge](teachers-need-curriculum-specific-professional-development.md) — related
+- [The sense-making and interpretation steps of teacher inquiry models proved confusing for teachers](sense-making-interpretation-steps-confusing-for-teachers.md) — related

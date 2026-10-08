@@ -47,3 +47,4 @@ Observational comparison across the three New Jersey HSE exams among the same gr
 - [HSE exam takers completed fewer years of school and were more likely to be lunch-eligible and to identify as Black or Hispanic than non-exam takers](nj-hse-takers-differ-from-nontakers.md) — related
 - [Under the new thresholds, two-thirds of GED takers and more than half of HiSET and TASC takers passed on the first attempt, and three-quarters of all takers ever passed each exam](nj-new-threshold-passing-rates.md) — related
 - [After New Jersey reduced the passing thresholds for two exams, first-attempt passing rates were similar across the three HSE exams](nj-reduced-thresholds-equalized-first-attempt-passing.md) — related
+- [Teachers who were White, female, or had five or more years of experience scored about 14 percentage points higher; emergency-certified teachers scored 14 points lower](ct-pck-group-score-differences.md) — related

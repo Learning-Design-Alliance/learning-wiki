@@ -46,3 +46,4 @@ An evaluation brief on adoption of school improvement practices promoted by SIG 
 - [Rural SIG schools were more likely than nonrural SIG schools to adopt the transformation model (95 versus 74 percent)](rural-sig-schools-favor-transformation-model.md) — related
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related
 - [Teachers in SIG schools with a greater PD focus on ELL-related topics more often reported that PD improved their effectiveness as teachers of ELLs](greater-ell-pd-focus-linked-to-reported-effectiveness-gains.md) — related
+- [Teachers see high workload, habits, low-quality data and skills, and predisposition as the main constraints on data-informed analysis, and none regularly collect teaching data](teacher-data-use-obstacles-workload-habits-skills.md) — related

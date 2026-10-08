@@ -49,3 +49,4 @@ Facilitator subtheme; trainees described head nurses assigning health education 
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related
 - [Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles](transfer-extends-to-specialty-development-roles.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
+- [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related

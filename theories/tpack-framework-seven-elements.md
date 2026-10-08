@@ -42,6 +42,7 @@ TPACK is presented as "an influential foundation theory for teaching with techno
 
 - [Five-foundations framework for learning environments](five-foundations-learning-environments-framework.md)
 - [TPACK framework (Technological, Pedagogical and Content Knowledge) for teacher technology integration](tpack-framework-teacher-technology-integration.md)
+- [CT–PCK construct framework: five core computational thinking practices integrated into middle school math via three instructional strategies](ct-pck-construct-framework.md)
 
 ## Examples
 

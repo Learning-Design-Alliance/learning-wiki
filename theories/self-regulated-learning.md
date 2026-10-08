@@ -61,6 +61,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Executive Function Development](executive-function-development.md) — self-regulation depends substantially on executive-function capacities (inhibitory control, working memory) that develop across childhood and adolescence
 - [Pintrich's four-phase, four-area paradigm of self-regulated learning](pintrich-srl-four-phase-paradigm.md)
 - [Pintrich's four-category model of self-regulated learning strategies](pintrich-four-category-srl-strategy-model.md)
+- [Three-phase SRL scaffolding framework (planning, task execution, post-task reflection) operationalized across iterative design cycles](three-phase-srl-chatbot-scaffolding-framework.md)
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)

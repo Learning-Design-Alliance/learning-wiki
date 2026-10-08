@@ -52,3 +52,4 @@ This is a single-classroom case study with one teacher and no comparison conditi
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
 - [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) — related
 - [Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12](teachers-key-role-secondary-writing-outcomes.md) — related
+- [Qualitative coding of detected clips found students most often gazed at task materials (47.6%), overt help-seeking was nearly absent (1.6%), and the teacher was present in 49.2% of segments](gaze-coding-detected-clips.md) — related

@@ -15,16 +15,16 @@ A persistent, LLM-maintained knowledge base for learning design. Read [CLAUDE.md
 ### [Principles](principles/index.md) (375)
 Research-backed design commitments: what to do and why.
 
-### [Elements](elements/index.md) (1449)
+### [Elements](elements/index.md) (1479)
 Instructional building blocks — the components you compose into patterns.
 
 ### [Patterns](patterns/index.md) (126)
 Reusable instructional designs at the lesson or unit level.
 
-### [Designs](designs/index.md) (204)
+### [Designs](designs/index.md) (205)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-### [Strategies](strategies/index.md) (3656)
+### [Strategies](strategies/index.md) (3694)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Design Processes](processes/index.md) (18)
@@ -33,13 +33,13 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (38)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Theories](theories/index.md) (1146)
+### [Theories](theories/index.md) (1170)
 Explanatory frameworks that ground principles and claims.
 
 ### [Learner Variables](learner-variables/index.md) (12)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (5927)
+### [Claims](claims/index.md) (6167)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

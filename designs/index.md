@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**204 entries** · 0 stable · 0 in review · 204 drafts
+**205 entries** · 0 stable · 0 in review · 205 drafts
 
 ---
 
@@ -38,6 +38,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Blended off-the-job and on-the-job module structure for supervisor training](off-job-on-job-module-blend.md) - The package organises learning as six free-standing modules sequenced so learning integrates with the workplace.
 * [Blended online practice with speech-recognition feedback plus teacher-led small-group oral language instruction](blended-speech-recognition-plus-teacher-small-group-eld.md) - The program's instructional design combines interactive, student-directed online lessons, in which \"speech recognition to provide immediate feedback\" supports listening and speaking practice in academic contexts, with...
 * [Body-Scale Collaborative Geometric Construction](body-scale-collaborative-construction.md) - A group activity in which learners physically build a large geometric structure from manipulatives using only a target image and a list of properties (no assembly instructions), forcing iterative discovery and naming of structural constraints.
+* [Build community engagement and stakeholder buy-in, supported by effective communication and simplified informed consent, to sustain school testing programs](community-engagement-sustains-school-testing-programs.md) - The report's implementation lessons hold that testing programs succeed when schools invest in community engagement and buy-in from key stakeholders.
 * [Building Blocks multi-context implementation pattern: whole-group, small-group, centers, computer activities, and family letters](building-blocks-multi-context-implementation-pattern.md) - The curriculum distributes mathematics learning across several classroom contexts: whole-group instruction during circle time (approximately 5–15 minutes, four or five times per week), small-group instruction with 3 t...
 
 #### C {: #letter-c }

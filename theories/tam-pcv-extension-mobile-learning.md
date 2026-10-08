@@ -50,6 +50,7 @@ The article extends Davis' Technology Acceptance Model, which predicts actual sy
 ## Examples
 
 - [CoLaLe app prototype with geo-fence triggered vocabulary learning sessions](../elements/colale-contextual-language-app-prototype.md)
+- [TAM-grounded post-session survey instrument with five domains and 15 open-ended questions](../elements/tam-five-domain-wat-c-survey-instrument.md)
 
 ## Key Sources
 - Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364

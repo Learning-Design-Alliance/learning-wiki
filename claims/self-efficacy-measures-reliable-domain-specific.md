@@ -68,3 +68,4 @@ Validity discussion of construct validity: self-efficacy for long division corre
 - [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](thinking-styles-scale-reliability-nrm.md) — related
 - [The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established](eeebi-instrument-preliminary-promise.md) — related
 - [Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60](style-scale-correlations-and-observer-agreement.md) — related
+- [Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM](math-teachers-data-use-attitudes-self-efficacy.md) — related

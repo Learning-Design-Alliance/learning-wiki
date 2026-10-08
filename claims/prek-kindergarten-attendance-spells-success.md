@@ -50,3 +50,5 @@ The publication's own title and framing state that preschool and kindergarten at
 - [Attendance in pre-kindergarten and kindergarten is important for young learners](prek-kindergarten-attendance-importance.md) — possibly the same claim (merge candidate)
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
 - [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](kindergarten-transition-difficulty-academic-risk.md) — related
+- [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
+- [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — a narrower finding that bears on this claim

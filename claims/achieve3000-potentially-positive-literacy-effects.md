@@ -44,3 +44,4 @@ Systematic review using WWC Procedures and Standards Handbook (version 3.0) of t
 
 ## Related Claims
 - [General literacy achievement domain: one statistically significant positive effect and one indeterminate effect yield a potentially positive rating](achieve3000-general-literacy-findings.md) — a narrower finding that bears on this claim
+- [Achieve3000 shows moderate ESSA evidence of positive effects on reading fluency](achieve3000-moderate-evidence-reading-fluency.md) — related

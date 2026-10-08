@@ -45,3 +45,4 @@ The article attributes this proposal to Littlemore and Low (2006), reporting it 
 ## Related Claims
 - [Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods](grammar-not-focus-of-sla-synthesis.md) — related
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](learner-centeredness-universal-theme-sla.md) — related
+- [Preferences for visualizing predictions with metaphors were a matter of personal choice, with students wanting to choose their own metaphor](metaphor-preference-personal-choice.md) — related

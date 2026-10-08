@@ -47,6 +47,7 @@ The article identifies Vygotsky as the pioneer of social constructivism, whose s
 - [Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches](constructivism-knowledge-learning-theory-branches.md)
 - [Constructivism](constructivism.md)
 - [Social constructionism as the basis for collaborative writing instruction](social-constructionism-in-composition.md)
+- [Theoretical grounding of LAD design in SCT, SRL, constructivism, social cognitive theory, and transformative learning](lad-theoretical-grounding-sct-srl-tl.md)
 
 ## Examples
 

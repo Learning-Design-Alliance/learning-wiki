@@ -51,3 +51,7 @@ Observational comparison reported in the brief: children attending ECE programs 
 - [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related
 - [Early math and literacy development intertwine in early childhood](early-math-literacy-development-intertwine.md) — related
 - [In 2010, just 29 percent of children entering kindergarten in and near the NAZ Zone met literacy benchmarks on kindergarten readiness tests](naz-29-percent-kindergarten-literacy-benchmarks-2010.md) — related
+- [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related
+- [Early childhood education attendance is associated with statistically significant reductions in special education placement and grade retention](ece-reduces-special-education-retention.md) — related
+- [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — related
+- [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — a narrower finding that bears on this claim

@@ -60,9 +60,11 @@ Trust is not a soft prerequisite; it changes what learners are willing to do cog
 6. **Sustain the routine.** Repeat check-ins and shares regularly; trust is cumulative.
 
 ## Related Strategies
+
 - Activating prior knowledge — personal reflection surfaces the experiences that new content can attach to
 - Discussion-based learning — depends on the relational safety this strategy establishes
 - Collaborative learning — group work functions only when interpersonal trust is present
+- [Build faculty-staff connections and peer community to support persistence of teacher education students](faculty-connections-support-persistence-pcc.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the activity most dependent on established trust

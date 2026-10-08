@@ -54,6 +54,7 @@ The paper presents Constructivism as a theory of knowledge and learning concerne
 - [Vico's principle that we can rationally know only what we ourselves have made as an early formulation of constructivism](vico-constructivist-epistemology.md)
 - [Situated cognition as an epistemological framework for professional learning communities](situated-cognition-framework-plc.md)
 - [Wholetheme constructivism: knowledge understood from the whole, with parts emerging in the context of the whole](wholetheme-constructivism-biofunctional-cognition.md)
+- [Theoretical grounding of LAD design in SCT, SRL, constructivism, social cognitive theory, and transformative learning](lad-theoretical-grounding-sct-srl-tl.md)
 
 ## Examples
 

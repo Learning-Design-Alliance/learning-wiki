@@ -94,6 +94,7 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - [BRT clue variable paradigm shift: clues become the learning field itself](brt-clue-variable-paradigm-shift.md)
 - [ICAP-Bloom adapted coding scheme for cognitive engagement in online discussion posts](icap-bloom-coding-scheme-discussion-posts.md)
 - [Taxonomy development for technology: a four-step research approach to visualize the totality of technology](technology-taxonomy-four-step-approach.md)
+- [TIMSS cognitive domains (Knowing, Applying, Reasoning) as an analytical lens for function art evaluation](timss-cognitive-domains-function-art.md)
 
 ## Examples
 

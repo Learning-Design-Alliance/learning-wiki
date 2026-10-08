@@ -48,3 +48,4 @@ Descriptive analysis of the 15 three-time respondents showed LMS means rising fr
 - [Respondent feedback prompted a revised ten-level LoA scale splitting non-use and adding a replacement level, plus a more cyclic adoption model](loa-revised-ten-level-scale-from-respondent-feedback.md) — related
 - [Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53](loa-videoconferencing-significant-post-posttest-increase.md) — related
 - [Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use](loa-whiteboard-perceived-versus-actual-use.md) — related
+- [Student engagement with LMS learning technologies and course resources increased significantly immediately following interactions with the SensEnablr dashboard](sensenablr-increased-student-engagement.md) — related

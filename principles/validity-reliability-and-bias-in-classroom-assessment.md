@@ -12,7 +12,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (7 for, 14 mixed) · 20 studies (7 associational, 5 design, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 20 report an effect size · 20 claims rest on one study
+> **Evidence** · 22 claims (8 for, 14 mixed) · 21 studies (8 associational, 5 design, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 21 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -117,6 +117,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](../claims/culturally-diverse-underrepresentation-biased-measures.md) [~W]: a narrative review (`r1`) attributing under-identification to the measures; it bears on the use of assessments for placement, and its title states a cause its entry does not test.
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](../claims/vam-omitting-background-lowers-disadvantaged-district-ratings.md) [+W] — attached 2026-10-08 from Matthew T. Johnson et al. (2015), which proposed "When constructing teacher value-added models, include student and peer background characteristics, especially for districts with many disadvantaged students"; tests this page's relationship.
 - [Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness](../claims/proxy-pretest-estimates-biased-but-informative.md) [+W] — attached 2026-10-08 from Elias Walsh et al. (2018), which proposed "Use proxy pre-tests to extend value-added coverage to grades and subjects lacking same-subject prior tests, while weighting estimates appropriately"; tests this page's relationship.
+- [The multiple-choice placement test component and high school GPA similarly predicted passing credit-bearing ELA courses, while the writing component did not predict any outcomes](../claims/cmi-gpa-and-multiple-choice-similarly-predict-ela-passing.md) [+W] — attached 2026-10-08 from Shannon et al. (2026), which proposed "Weight placement measures by their demonstrated predictive value: rely on high school GPA more heavily and drop components that do not predict outcomes".
 
 ## Objective and learner-valued goal
 

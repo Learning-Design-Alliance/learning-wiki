@@ -66,3 +66,5 @@ Review synthesis (citing Ingkavara et al., 2022) presenting the evaluation trans
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
 - [Situated learning research has maintained the central idea of learning in context while integrating different elements across four technological eras](situated-learning-four-era-concept-evolution.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a narrower finding that bears on this claim
+- [LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices](ca-assessment-prompts-authentic-reflective-teaching.md) — related
+- [Maritime instructors resisted automated assessment of simulator performance, preferring learning analytics that support their professional judgment and use existing simulator data](instructors-resist-automated-assessment-prefer-judgment-support.md) — related

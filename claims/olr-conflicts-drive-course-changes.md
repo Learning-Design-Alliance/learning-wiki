@@ -47,3 +47,4 @@ Authors' report of changes to the course activity system following student sugge
 - [Contrastive rhetoric overgeneralizes shared culture and ignores individual differences among L2 writers](contrastive-rhetoric-overgeneralizes-culture.md) — related
 - [Native versus non-native instructor status was a minor factor in students' perceived quality interaction](native-instructor-status-minor-factor.md) — related
 - [Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings](participation-appropriates-olr-conceptual-underpinnings.md) — related
+- [Focus groups with nine writing instructors identified four design priorities for WAT-C: clearer feedback, instructor customization, reduced administrative burden, and a simplified interface](wat-c-four-design-priorities-instructor-focus-groups.md) — related

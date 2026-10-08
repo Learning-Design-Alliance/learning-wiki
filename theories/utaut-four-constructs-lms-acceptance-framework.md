@@ -52,6 +52,7 @@ The Unified Theory of Acceptance and Use of Technology (UTAUT) explains individu
 ## Examples
 
 - [Furnish LMSs with rich content and provide facilitating conditions to raise student acceptance](../strategies/rich-content-and-facilitating-conditions-support-lms-acceptance.md)
+- [TAM-grounded post-session survey instrument with five domains and 15 open-ended questions](../elements/tam-five-domain-wat-c-survey-instrument.md)
 
 ## Key Sources
 - Ozkan, U. B., Cigdem, H., & Erdogan, T. (2020). Artificial neural network approach to predict LMS acceptance of vocational school students. Turkish Online Journal of Distance Education-TOJDE, 21(3), Article 11. https://dergipark.org.tr/en/pub/tojde

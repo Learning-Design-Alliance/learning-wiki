@@ -46,6 +46,7 @@ The digest describes constructivism as the view prominent in the late 1980s that
 - [Radical constructivism: knowing as dynamic adaptation of interpretations of experience](radical-constructivism-von-glasersfeld.md)
 - [Habermas's communicative theory and Kantian limited objectivity as grounding for objective standards in Constructivism](habermas-kantian-limited-objectivity-constructivism.md)
 - [Kantian architectonics: a theory of the systematic, constructivist organization of relations in cognition and higher education](kantian-architectonics-systematic-relations.md)
+- [AR enhanced analytics as a constructivist-, experiential-, and cognitively-grounded integration of AR technology with learning analytics](ar-enhanced-analytics-framework.md)
 
 ## Examples
 

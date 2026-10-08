@@ -46,3 +46,4 @@ Requisite Teacher Characteristics section of the focus group study: teachers saw
 - [Framework identifies teacher prerequisites: basic content knowledge, willingness to engage, and genuine concern for improving student learning](requisite-teacher-characteristics-qualitative-findings.md) — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on
 - [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related
+- [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](teacher-inquiry-incentives-direct-benefits-routine.md) — related

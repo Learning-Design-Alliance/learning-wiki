@@ -47,6 +47,7 @@ PowerSchool Attendance Intervention is a platform intended to "increase family e
 ## Related Elements
 
 - [PowerSchool Attendance Intervention platform for attendance monitoring and two-way family messaging](powerschool-attendance-intervention-platform.md)
+- [PPSD districtwide text-messaging platform for parent and guardian communication](ppsd-text-messaging-platform.md)
 
 ## Examples
 
