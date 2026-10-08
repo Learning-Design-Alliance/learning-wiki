@@ -46,3 +46,4 @@ Comparative analysis of CACE significance findings across 10 large-scale educati
 - [Across five clustered education RCTs, finite-population and super-population estimators yield identical findings on statistical significance](clustered-rct-estimators-identical-significance-findings.md) — related
 - [Control-group noncompliance makes experimental and nonexperimental estimands diverge (CACE vs. all treated subjects)](noncompliance-estimand-divergence-cace-itt.md) — related
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
+- [Asymptotic properties of design-based estimators using group-level averages match those using individual data](group-level-design-based-estimators-match-individual-data-asymptotically.md) — related

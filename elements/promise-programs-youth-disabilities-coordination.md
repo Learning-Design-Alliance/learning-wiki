@@ -41,6 +41,7 @@ The PROMISE programs are state initiatives "designed to improve connections amon
 ## Related Elements
 
 - [PROMISE programs: coordinated federal-state-local service initiatives for youth with disabilities on SSI](promise-programs-youth-disabilities-coordinated-services.md)
+- [Performance Partnership Pilots for Disconnected Youth (P3) initiative](p3-disconnected-youth-initiative-element.md)
 
 ## Examples
 -

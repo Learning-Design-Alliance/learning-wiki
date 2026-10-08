@@ -64,6 +64,7 @@ Early, positive teacher–family contact increases parental engagement and, thro
 - [Building empathy](../principles/building-empathy.md) — early family contact gives teachers the contextual knowledge empathy requires
 - [Two-visit structure: relationship-building visit first, academic-focused visit later](pthv-two-visit-structure-strategy.md)
 - [SIG-funded parent liaisons paired with structured parent contact practices to increase family engagement](parent-liaison-structured-contact-rural-schools.md)
+- [Schedule teacher home visits before the start of the school year to build family relationships](schedule-home-visits-before-school-year-start.md)
 
 ## Examples
 - **Kraft & Dougherty's personalized communication study** — high school teachers sent brief individualized calls/texts about specific students; treated students showed improved homework completion, class participation, and engagement relative to controls.

@@ -39,6 +39,7 @@ A self-assessment tool developed by Mathematica and Equal Measure that helps com
 ## Related Elements
 
 - [Measurement and Evaluation Needs Inventory: a self-assessment tool for organizational M&E capacity](measurement-evaluation-needs-inventory-tool.md)
+- [The Community Ecocycle tool for funder reflection and action in place-based systems change](community-ecocycle-tool.md)
 
 ## Examples
 

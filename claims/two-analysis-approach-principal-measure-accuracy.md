@@ -50,3 +50,4 @@ The brief describes its two sets of analyses: rating stability across years, and
 - [School value-added and adjusted school value-added provide, at most, a small amount of information for predicting principals' contributions in the following year](value-added-measures-small-predictive-info-principal-impacts.md) — related
 - [Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools](pittsburgh-principal-practice-ratings-vary-across-schools.md) — related
 - [School value added provides very poor information for revealing principals' persistent levels of effectiveness](school-value-added-poor-information-principal-effectiveness.md) — related
+- [Insight survey domain averages are more stable across years when a school keeps the same leader, suggesting principals affect these measures](insight-domain-stability-same-leader.md) — related

@@ -48,3 +48,4 @@ Publisher's one-sentence description of the fact sheet on its landing page. It a
 - [The article asserts that the Go-Learn-Grow materials can help districts, schools, and early childhood providers improve pre-K and kindergarten attendance](go-learn-grow-materials-support-attendance-improvement.md) — related
 - [Regular attendance in preschool and kindergarten is presented as important for future school success](early-attendance-preschool-kindergarten-future-success.md) — related
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
+- [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](kindergarten-transition-difficulty-academic-risk.md) — related

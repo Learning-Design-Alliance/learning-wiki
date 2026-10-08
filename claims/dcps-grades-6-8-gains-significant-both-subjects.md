@@ -48,3 +48,4 @@ Grade-level subgroup result from the DCPS principal-replacement analysis. The br
 - [New principals' math achievement gains followed a similar trend to reading but were smaller](dcps-new-principals-math-gains-smaller-than-reading.md) — related
 - [It took three years for new DCPS principals to achieve measurable achievement gains, with no evidence of even temporary declines](dcps-principal-gains-took-three-years-no-declines.md) — a broader claim this one bears on
 - [After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools](dcps-new-principals-reading-gain-4-percentile-points.md) — a narrower finding that bears on this claim
+- [The DC school reforms were associated with learning gains in grade 8 math but not in grade 8 reading](dc-reforms-grade8-math-gains-not-reading.md) — related

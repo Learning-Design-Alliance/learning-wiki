@@ -47,3 +47,4 @@ Province-wide survey screening depression with the Chinese version of the BDI-II
 - [Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students](severe-depression-co-occurs-self-harm-suicidal-tendencies.md) — related
 - [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related
 - [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — related
+- [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — related

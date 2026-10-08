@@ -51,3 +51,4 @@ The key findings report that average middle school impacts were "positive and st
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — related
 - [The evaluation covers 43 KIPP middle schools across 13 states and the District of Columbia and is the most rigorous large-scale evaluation of KIPP charters to date](kipp-evaluation-43-schools-13-states.md) — related
 - [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related
+- [The Fisher Fellowship selection instrument is reliable, though three of 34 items had relatively low levels of one type of reliability](fisher-fellowship-selection-instrument-reliable.md) — related

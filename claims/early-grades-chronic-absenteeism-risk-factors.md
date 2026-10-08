@@ -54,3 +54,4 @@ The source is a fact sheet for schools produced for Regional Educational Laborat
 - [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](absence-reports-philadelphia-rct-es-019.md) — related
 - [The article asserts that the Go-Learn-Grow materials can help districts, schools, and early childhood providers improve pre-K and kindergarten attendance](go-learn-grow-materials-support-attendance-improvement.md) — related
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
+- [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](kindergarten-transition-difficulty-academic-risk.md) — related

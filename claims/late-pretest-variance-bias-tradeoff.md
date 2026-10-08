@@ -48,3 +48,4 @@ The article's framing claim: using late pretests may reduce estimator variance b
 - [Including late pretest data in RCT analysis could bias post-test impact estimates when pretests are collected after random assignment](late-pretest-inclusion-can-bias-impact-estimates.md) — related
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
 - [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](late-pretest-preference-conditional-on-slow-early-impact-growth.md) — related
+- [Empirical examples using real-world education RCT data demonstrate the design-based grouped-data theory](empirical-examples-education-rct-data-demonstrate-theory.md) — related

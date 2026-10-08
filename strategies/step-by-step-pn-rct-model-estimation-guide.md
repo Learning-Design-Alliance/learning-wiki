@@ -39,6 +39,7 @@ The guide offers an implementable recipe for analysts: Chapter 3 provides "a ste
 ## Related Strategies
 
 - [Link implementation and impact findings when analyzing and reporting impact studies](link-implementation-and-impact-findings.md)
+- [Apply BASIE through four key steps: selecting prior evidence, reporting estimates, interpreting estimates, and sensitivity analyses](basie-application-steps.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ The publication cites a U.S. Bureau of Labor estimate that nationally there were
 - [School climate scores were steady across the years before COVID-19 in the Pennsylvania sample](pre-covid-climate-scores-steady.md) — related
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](pandemic-year-climate-positive-bump-pennsylvania.md) — related
 - [Minimal rigorous research is available on the development and implementation of teacher apprenticeship programs](minimal-rigorous-research-teacher-apprenticeships.md) — related
+- [A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically](pandemic-academic-miss-evidence-review-series.md) — related

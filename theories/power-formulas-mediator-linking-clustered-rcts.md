@@ -49,6 +49,7 @@ The article develops statistical power formulas for exploratory analyses that es
 ## Related Theories
 
 - [Conceptual model of teacher practice mediation in education RCTs](rct-teacher-practice-mediation-model.md)
+- [Design-based estimators framework for analyzing grouped administrative data in RCTs](design-based-estimators-grouped-administrative-data-rcts.md)
 
 ## Examples
 

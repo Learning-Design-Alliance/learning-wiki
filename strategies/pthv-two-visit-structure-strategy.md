@@ -42,6 +42,7 @@ PTHV prescribes a two-visit sequence: the first visit builds the relationship an
 - [Home Visits](home-visits.md)
 - [Connect with Parents Early in the School Year](connect_with_parents_early_in_the_school_year.md)
 - [Conduct voluntary, pair-based teacher home visits focused on hopes and dreams across a cross-section of students](pthv-voluntary-pair-visit-implementation-strategy.md)
+- [Schedule teacher home visits before the start of the school year to build family relationships](schedule-home-visits-before-school-year-start.md)
 
 ## Examples
 -

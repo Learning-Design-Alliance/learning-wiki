@@ -41,6 +41,7 @@ This strategy holds that recruitment approaches must accommodate districts' and 
 - [Address districts' and schools' urgent priorities and needs when recruiting them for impact studies](recruitment-address-urgent-priorities-needs.md)
 - [Demonstrate commitment to fairness and collaborative practices when recruiting districts and schools](recruitment-fairness-collaborative-practices.md)
 - [Protect student and staff privacy when recruiting districts and schools for impact studies](recruitment-protect-student-staff-privacy.md)
+- [Actively manage school recruitment to protect the generalizability of impact studies](manage-school-recruitment-generalizability.md)
 
 ## Examples
 -

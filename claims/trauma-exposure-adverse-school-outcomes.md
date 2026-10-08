@@ -65,3 +65,4 @@ The review reports, citing Perfect et al. (2016), a systematic review of school-
 - [School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families](ssws-perceive-enforcement-daily-macro-force.md) — related
 - [Depressive symptoms are detected in 26.35% of secondary vocational students](vocational-students-depression-detection-26-35-percent.md) — related
 - [Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students](severe-depression-co-occurs-self-harm-suicidal-tendencies.md) — related
+- [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — a narrower finding that bears on this claim

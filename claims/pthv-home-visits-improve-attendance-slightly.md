@@ -51,3 +51,4 @@ A quasi-experimental study by the Regional Education Laboratory of the Mid-Atlan
 - [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores](pthv-home-visit-math-gain-no-ela-difference.md) — related
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related
 - [PTHV is rated promising for social-emotional learning with an average effect size of +0.10 from one study](pthv-sel-promising-rating-es-010.md) — related
+- [A teacher home visit slightly improves student attendance on average in grades 1-5](home-visit-slightly-improves-attendance-dcps.md) — related

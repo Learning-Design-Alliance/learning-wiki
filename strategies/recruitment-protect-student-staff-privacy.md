@@ -41,6 +41,7 @@ This strategy holds that recruitment for education impact studies must address t
 - [Account for limited staff capacity when recruiting districts and schools for research](recruitment-account-limited-staff-capacity.md)
 - [Address districts' and schools' urgent priorities and needs when recruiting them for impact studies](recruitment-address-urgent-priorities-needs.md)
 - [Demonstrate commitment to fairness and collaborative practices when recruiting districts and schools](recruitment-fairness-collaborative-practices.md)
+- [Actively manage school recruitment to protect the generalizability of impact studies](manage-school-recruitment-generalizability.md)
 
 ## Examples
 -

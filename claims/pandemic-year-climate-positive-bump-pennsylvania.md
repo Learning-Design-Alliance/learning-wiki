@@ -47,3 +47,5 @@ Analysis of PDE school climate survey scores from a pre-pandemic year (2018/19) 
 - [No association found between 2021/22 school climate scores and the amount of virtual and hybrid instruction in 2020/21](no-association-virtual-instruction-climate.md) — related
 - [No evidence of a significant decline in school climate scores between 2018/19 and 2021/22 in the Pennsylvania sample](no-lasting-pandemic-climate-decline.md) — related
 - [School climate scores were steady across the years before COVID-19 in the Pennsylvania sample](pre-covid-climate-scores-steady.md) — related
+- [A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically](pandemic-academic-miss-evidence-review-series.md) — related
+- [The review synthesized 110 studies on the effectiveness of remote learning practices in K-12 settings](rel-ma-remote-learning-review-110-studies.md) — related

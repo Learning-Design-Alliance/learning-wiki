@@ -52,3 +52,4 @@ The fact sheet reports, from the National Longitudinal Transition Study 2012 com
 - [Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade](iep-youth-transition-activities-declined.md) — related
 - [Youth with an IEP are more likely than in the past to receive supports at school but less likely to receive them at home](iep-youth-school-supports-up-home-supports-down.md) — related
 - [Youth with an IEP are more likely than a decade ago to receive supports at school but less likely to receive them at home](iep-youth-supports-up-school-down-home.md) — related
+- [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related

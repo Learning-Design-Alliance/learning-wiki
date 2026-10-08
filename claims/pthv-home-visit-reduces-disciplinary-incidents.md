@@ -46,3 +46,4 @@ The Mathematica quasi-experimental study with a propensity-score matched compari
 - [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](pthv-home-visits-improve-attendance-slightly.md) — related
 - [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](pthv-home-visit-improves-attendance-es-002.md) — related
 - [Prior home visiting research indicates child-development-focused content is associated with child outcomes and sustained family participation](child-development-focus-linked-to-outcomes-and-participation.md) — related
+- [A pre-school-year teacher home visit reduces the likelihood of a student having a disciplinary incident in grades 1-5](home-visit-reduces-disciplinary-incidents-dcps.md) — possibly the same claim (merge candidate)

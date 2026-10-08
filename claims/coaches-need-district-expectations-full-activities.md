@@ -48,3 +48,4 @@ The brief asserts, without reporting data, that districtwide coaching implementa
 - [Insights from the National Writing Project's teacher-leader preparation are presented as relevant for facilitating professional learning in all areas of instruction](nwp-insights-generalize-across-instruction-areas.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — a broader claim this one bears on
 - [Teachers integrating a new assessment tool into early childhood practice need a range of supports to act effectively on the information it provides](teachers-need-multiple-supports-integrate-new-assessments.md) — related
+- [Elementary school principals spend more than one-third of their workweek providing instructional support to teachers, split fairly evenly between direct and indirect support](principals-third-workweek-instructional-support.md) — related

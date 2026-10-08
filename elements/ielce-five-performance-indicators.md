@@ -48,6 +48,7 @@ The Integrated English Literacy and Civics Education (IELCE) initiative is a fed
 ## Related Elements
 
 - [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](step-one-age-friendly-esl-curriculum.md)
+- [The Workforce Innovation and Opportunity Act (WIOA) as the key federal investment in adult basic skills and high school equivalency](wioa-federal-adult-education-investment.md)
 
 ## Examples
 -

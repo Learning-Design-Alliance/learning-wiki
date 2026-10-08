@@ -47,3 +47,4 @@ A 2021 quasi-experimental study by the Regional Education Laboratory of the Mid-
 - [Home visits showed slight improvements in math scores but no difference in ELA scores](pthv-math-slight-gain-ela-no-difference.md) — related
 - [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores](pthv-home-visit-math-gain-no-ela-difference.md) — related
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related
+- [A teacher home visit slightly improves student attendance on average in grades 1-5](home-visit-slightly-improves-attendance-dcps.md) — related

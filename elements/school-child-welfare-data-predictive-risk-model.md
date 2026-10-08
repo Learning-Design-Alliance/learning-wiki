@@ -45,6 +45,9 @@ The report describes an approach for developing a predictive model that identifi
 ## Related Elements
 
 - [Learning Analytics-Driven Feedback](learning-analytics-feedback.md)
+- [Linked school and human services data approach for predicting near-term academic risk](linked-data-early-warning-approach-element.md)
+- [Predictive model of near-term academic risk combining school and child welfare data](near-term-academic-risk-predictive-model.md)
+- [Linked five-year student-level administrative dataset from Pittsburgh Public Schools, Propel Schools, and Allegheny County DHS](pittsburgh-linked-school-child-welfare-administrative-dataset.md)
 
 ## Examples
 -

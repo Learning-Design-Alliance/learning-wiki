@@ -37,7 +37,10 @@ The report recommends an approach in which local education agencies use both in-
 - Timely identification and support of students at risk of absenteeism, suspension, poor grades, or low test performance
 
 ## Related Strategies
+
 - [School Child Welfare Data Predictive Risk Model](../elements/school-child-welfare-data-predictive-risk-model.md)
+- [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
+- [Use linked school and child welfare data to flag students at academic risk in the coming quarter or semester](linked-school-child-welfare-data-early-warning-strategy.md)
 
 ## Examples
 -

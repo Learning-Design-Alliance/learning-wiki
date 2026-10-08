@@ -52,3 +52,4 @@ The abstract enumerates the outcome domains covered by the interim impact report
 - [PROMISE youth experienced worse education and employment outcomes than ACS youth with and without disabilities](promise-youth-worse-outcomes-than-acs-peers.md) — related
 - [Many SSI youth received transition services without PROMISE, but there was substantial room for PROMISE to improve service use](promise-ssi-youth-transition-services-baseline-room-for-improvement.md) — related
 - [Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services](way2work-services-substitutes-for-existing-services.md) — related
+- [The New Heights program was found to be effective at improving educational outcomes for expectant and parenting students](new-heights-effective-improving-educational-outcomes.md) — related

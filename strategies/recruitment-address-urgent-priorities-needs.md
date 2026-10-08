@@ -41,6 +41,7 @@ This strategy directs researchers to attend to the urgent priorities and needs o
 - [Account for limited staff capacity when recruiting districts and schools for research](recruitment-account-limited-staff-capacity.md)
 - [Demonstrate commitment to fairness and collaborative practices when recruiting districts and schools](recruitment-fairness-collaborative-practices.md)
 - [Protect student and staff privacy when recruiting districts and schools for impact studies](recruitment-protect-student-staff-privacy.md)
+- [Actively manage school recruitment to protect the generalizability of impact studies](manage-school-recruitment-generalizability.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ Analysis of Maryland administrative school discipline, enrollment, and student d
 ## Related Claims
 - [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](maryland-black-disabilities-twice-discipline-rates.md) — related
 - [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](same-infractions-black-disabilities-more-suspensions.md) — related
+- [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — possibly the same claim (merge candidate)

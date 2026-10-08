@@ -45,3 +45,4 @@ The brief's key findings state that message recipients "were more likely to take
 ## Related Claims
 - [Students who received a personalized message about their potential to succeed in AP coursework were 49 percentage points more likely to participate in AP classes than peers who did not receive the message](personalized-ap-message-increases-participation-49-points.md) — related
 - [Small changes in the way information is presented can have a large impact on a person's decision to participate in a program](small-presentation-changes-large-participation-impact.md) — a broader claim this one bears on
+- [Three of four DCPS high schools mandating AP enrollment had higher AP exam taking and passing rates after the mandate, but passing rates remained generally low](ap-mandate-higher-taking-passing-rates-low.md) — related
