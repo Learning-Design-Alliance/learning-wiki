@@ -46,3 +46,5 @@ A key finding from the report's Key Findings section, one of three themes the au
 - [Without clear expectations and support from district leaders, coaches might not devote sufficient time to the full range of coaching activities needed to improve teachers' instruction](coaches-need-district-expectations-full-activities.md) — related
 - [Teachers play a key role in determining students' success in school districts and CMOs](teachers-key-role-student-success-districts-cmos.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — a narrower finding that bears on this claim
+- [CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers](cmo-impact-linked-intense-teacher-coaching.md) — related
+- [Five successful CMOs used identifiable approaches intended to help improve student achievement](five-cmos-approaches-improve-achievement.md) — related

@@ -46,6 +46,8 @@ The evaluation compared four early elementary math programs, each a textbook-bas
 
 - [Four elementary math curricula compared in the study](four-elementary-math-curricula-compared.md)
 - [Four elementary math curricula evaluated: Investigations in Number, Data, and Space; Math Expressions; Saxon Math; and Scott Foresman-Addison Wesley Mathematics](four-elementary-math-curricula-evaluated-agodini.md)
+- [Four early elementary math curricula evaluated: Investigations, Math Expressions, Saxon Math, and Scott Foresman-Addison Wesley Mathematics](four-early-elementary-math-curricula-evaluated.md)
+- [Four elementary school math curricula compared in the evaluation](four-elementary-math-curricula-evaluation-set.md)
 
 ## Examples
 -

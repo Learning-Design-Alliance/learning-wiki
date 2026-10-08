@@ -46,6 +46,8 @@ This element identifies the four elementary mathematics curricula compared in th
 
 - [Four elementary math curricula compared in the study](four-elementary-math-curricula-compared.md)
 - [Four early elementary math curricula compared in the federal evaluation: Math Expressions, Saxon Math, Investigations in Number, Data, and Space, and Scott Foresman-Addison Wesley Mathematics](four-early-elementary-math-curricula-evaluation-set.md)
+- [Four early elementary math curricula evaluated: Investigations, Math Expressions, Saxon Math, and Scott Foresman-Addison Wesley Mathematics](four-early-elementary-math-curricula-evaluated.md)
+- [Four elementary school math curricula compared in the evaluation](four-elementary-math-curricula-evaluation-set.md)
 
 ## Examples
 -

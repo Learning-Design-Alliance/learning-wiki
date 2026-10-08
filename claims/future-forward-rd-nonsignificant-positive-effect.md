@@ -47,3 +47,4 @@ Regression discontinuity study across 12 schools in Wisconsin and South Carolina
 - [A one-semester version of Future Forward showed significant reading gains on Star Reading and DIBELS](future-forward-one-semester-significant-reading-gains.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — related
+- [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related

@@ -49,6 +49,7 @@ An implementation study, titled on the page under the associated project "Strate
 - [Seven agency profiles companion document](seven-agency-profiles-companion-document.md)
 - [Strategic Data Use in Education initiative evaluation (2011-2015)](strategic-data-use-in-education-initiative-evaluation.md)
 - [Strategic Data Project and Education Pioneers programs supporting data capacity in education agencies](sdp-ep-data-capacity-programs.md)
+- [Evaluating the Effectiveness of Charter Management Organizations (CMOs) project, 2008-2012](cmo-effectiveness-evaluation-project.md)
 
 ## Examples
 -

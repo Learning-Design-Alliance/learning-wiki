@@ -45,3 +45,6 @@ A key finding stated in the report's Key Findings section, summarizing themes th
 ## Related Claims
 - [Shared and well-communicated mission, vision, and goals are critical to district and CMO performance](shared-mission-vision-goals-critical-districts-cmos.md) — related
 - [School leaders should be viewed and trained as instructional leaders](school-leaders-as-instructional-leaders.md) — related
+- [CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers](cmo-impact-linked-intense-teacher-coaching.md) — related
+- [CMOs with the greatest positive impact on student achievement were most likely to establish consistent schoolwide behavior expectations for students](cmo-impact-linked-schoolwide-behavior-expectations.md) — related
+- [Five successful CMOs used identifiable approaches intended to help improve student achievement](five-cmos-approaches-improve-achievement.md) — related

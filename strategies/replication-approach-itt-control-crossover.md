@@ -37,7 +37,8 @@ The paper develops a methodological strategy for evaluating nonexperimental meth
 - improving the validity of causal impact estimates in education research
 
 ## Related Strategies
-- 
+
+- [Use regression discontinuity designs to replicate or check experimental impact estimates for education interventions](rd-design-to-replicate-experimental-impact-estimates.md)
 
 ## Examples
 -

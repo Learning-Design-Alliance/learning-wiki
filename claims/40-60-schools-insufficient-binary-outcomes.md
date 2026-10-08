@@ -45,3 +45,4 @@ The article's stated key finding, reported in the abstract. It concludes that "s
 ## Related Claims
 - [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](gee-sample-size-formulas-clustered-school-rcts.md) — related
 - [The sample size approach handles logit models both with and without baseline covariates](logit-models-with-and-without-covariates-power.md) — related
+- [The IV approach to mediator analysis in clustered education RCTs has very little statistical power](iv-mediator-analysis-low-power.md) — related

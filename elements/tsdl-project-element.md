@@ -45,6 +45,7 @@ The Teacher-Student Data Link (TSDL) project was a Gates Foundation-funded initi
 - [Chief Information Officer network for state collaboration](cio-network-state-collaboration.md)
 - [Three-brief In Focus series on effective data use in education](in-focus-brief-series-effective-data-use.md)
 - [TSDL-inspired data activities: roster verification, data system integration, and new data presentation](tsdl-inspired-data-activities.md)
+- [Teacher-Student Data Link project supporting states in linking student and teacher data](teacher-student-data-link-project.md)
 
 ## Examples
 

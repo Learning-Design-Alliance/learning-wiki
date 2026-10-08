@@ -46,6 +46,7 @@ The program's implementation model requires each school to designate a team of a
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Monitor tutoring implementation and attendance regularly during program rollout](monitor-tutoring-implementation-and-attendance-regularly.md)
+- [Consider evaluation issues up front when launching educational reform initiatives](consider-evaluation-issues-when-launching-reform-initiatives.md)
 
 ## Examples
 -

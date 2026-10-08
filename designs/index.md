@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**196 entries** · 0 stable · 0 in review · 196 drafts
+**198 entries** · 0 stable · 0 in review · 198 drafts
 
 ---
 
@@ -228,6 +228,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### T {: #letter-t }
 
+* [TAP's four-component whole-school design combining growth, leadership, feedback, and performance pay](tap-four-component-school-design.md) - TAP bundles four school-wide components: professional growth opportunities, promotion to school leadership roles without leaving the classroom, structured feedback, and performance-based compensation.
 * [Task-based learning units integrated into the curriculum structure with collaborative real-world communication activities](dl2f-task-based-unit-pattern.md) - DL2F organizes instruction into task-based learning units embedded in the existing curriculum structure, with collaboration and communication as focal points through group activities mirroring real-world language use.
 * [Teacher-guided small-group manipulatives lessons paired with parallel take-home parent activities](small-group-manipulatives-with-home-activities-pattern.md) - The Pre-K Mathematics program organizes instruction as weekly math activities presented twice in teacher-guided small-group lessons of four to six children lasting approximately 20 minutes, using concrete manipulative...
 * [Teaching-research nexus with cross-disciplinary, cross-cultural team teaching](cross-disciplinary-team-teaching-research-nexus.md) - Woolyungah's academics span several disciplines and use a team-teaching approach so students encounter a range of approaches to disciplinary and cross-disciplinary research.
@@ -239,6 +240,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Threading, Weaving, Patternmaking](threading-weaving-patternmaking.md) - A three-phase science unit sequence that moves learners from critical annotation of texts exposing embedded bias, through cross-source synthesis, to speculative multimedia redesign of a more just future.
 * [Three pedagogical design considerations for physics simulations: consistent world view, multiple representations, and game for concept testing](three-pedagogical-simulation-design-considerations.md) - The article enumerates three design insights that emerged as pushing the simulation's usefulness: (1) a simulation world view consistent with pen-and-paper representation, with velocity vectors pointing right even for...
 * [Three Practices for Ontological Alignment in Computational Modeling](three-practices-for-ontological-alignment-in-computational-modeling.md) - Three classroom practices — elevating student ideas that match a tool's representational units, explicitly testing links between conceptual and computational models, and introducing evidence that speaks directly to the tool's representational claims — for introducing a computational modeling tool so its structure aligns with students' existing thinking.
+* [Three-component implementation pattern for dual language programs](dual-language-implementation-components-pattern.md) - Table 2 of the report describes three components of dual language program implementation: program leadership and support (a school leadership team of teachers and administrative staff overseeing model selection, devel...
 * [Three-level developmental progression of word-recognition instruction with an older-student variant](sipps-three-level-word-recognition-progression.md) - The curriculum organizes word-recognition instruction into \"three developmental levels of progression in word recognition: simple alphabetic (SIPPS Beginning Level), spelling-pattern (SIPPS Extension Level), and polys...
 * [Three-part session structure combining perceptual warm-up, adaptive silent reading, and contextual analysis activities](reading-plus-three-part-session-structure.md) - Within a typical 45-minute session, students engage in visual perceptual warm-up activities, scaffolded silent reading activities that \"dynamically adjust content-level difficulty, degree of repetition, duration of re...
 * [Three-part unit progression: Preparing to Read, Reading and Responding, Language Arts](open-court-three-part-unit-progression.md) - Each unit of Open Court Reading© is organized into three parts in a logical progression.

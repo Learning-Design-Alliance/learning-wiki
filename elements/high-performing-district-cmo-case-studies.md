@@ -45,6 +45,7 @@ The report developed case studies of organizations identified as high-performing
 ## Related Elements
 
 - [Correlational analysis linking student achievement growth to district and CMO policies and practices](correlational-analysis-achievement-growth-district-cmo-practices.md)
+- [Evaluating the Effectiveness of Charter Management Organizations (CMOs) project, 2008-2012](cmo-effectiveness-evaluation-project.md)
 
 ## Examples
 

@@ -51,3 +51,6 @@ The publication abstract states the paper's purpose: examining sensitivity and p
 - [Teachers of students with hard-to-predict achievement levels tend to have less precise value-added estimates than teachers of other students](hard-to-predict-students-less-precise-teacher-va-estimates.md) — related
 - [Empirical Bayes shrinkage increases the precision of value-added estimates and reduces their absolute value for teachers of hard-to-predict students](shrinkage-increases-precision-reduces-absolute-va.md) — related
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](vam-omitting-background-lowers-disadvantaged-district-ratings.md) — related
+- [Including track indicators and classroom achievement controls simultaneously reduces precision of value-added estimates](combined-specifications-reduce-precision.md) — a narrower finding that bears on this claim
+- [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
+- [Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails](specification-differences-small-tail-changes.md) — related

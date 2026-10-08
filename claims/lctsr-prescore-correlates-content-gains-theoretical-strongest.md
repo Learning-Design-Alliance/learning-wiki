@@ -51,3 +51,4 @@ Correlational analysis over two years of conceptual physics courses relating pre
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — reports the opposite
 - [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](podcast-dose-response-learning-gain.md) — related
+- [The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments.](pretest-posttest-correlation-affects-statistical-power.md) — related

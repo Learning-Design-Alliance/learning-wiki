@@ -49,3 +49,4 @@ The random assignment study reports that the alternative-certification teachers 
 - [A randomized controlled trial found TFA secondary math teachers outperformed non-TFA comparison teachers in mathematics achievement](clark-2013-tfa-secondary-math-rct-positive.md) — a narrower finding that bears on this claim
 - [An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement](clark-2015-elementary-tfa-indeterminate.md) — related
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — a broader claim this one bears on
+- [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related

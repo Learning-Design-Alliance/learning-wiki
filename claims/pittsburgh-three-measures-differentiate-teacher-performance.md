@@ -46,3 +46,4 @@ The report's Key Findings state, based on analysis of district data on observati
 - [Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools](pittsburgh-principal-practice-ratings-vary-across-schools.md) — related
 - [The three Pittsburgh teacher effectiveness measures are positively, moderately correlated, suggesting they are valid and complementary](pittsburgh-teacher-measures-moderately-correlated.md) — related
 - [Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective](nj-pilot-practice-ratings-varied-most-effective.md) — related
+- [Value-added models were developed to estimate teachers' and schools' contributions to student achievement in Pittsburgh Public Schools](pittsburgh-vam-teacher-school-effectiveness-estimates.md) — related

@@ -69,3 +69,4 @@ Ngo et al. (2024) qualify this claim. The claim concerns practice frequency and 
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — related
 - [Students responded positively to ASR pronunciation training and the Rainbow passage, but were mixed on technical aspects of recording and voice typing](positive-student-response-asr-pronunciation-training.md) — related
 - [Teachers attribute students' lack of pronunciation progress mainly to instruction and practice factors rather than learner factors](teachers-blame-instruction-over-learners-for-progress.md) — related
+- [No association between amount of teacher training coursework and classroom effectiveness](no-association-coursework-amount-effectiveness.md) — related

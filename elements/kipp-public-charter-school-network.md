@@ -55,6 +55,7 @@ KIPP is a network of public charter schools serving students from elementary thr
 
 - [KIPP (Knowledge Is Power Program) charter middle school network](kipp-charter-middle-school-network.md)
 - [KIPP public charter school network multi-grade-level impact evaluation](kipp-network-multigrade-evaluation.md)
+- [KIPP middle schools as an evaluated intervention across the country](kipp-middle-schools-intervention.md)
 
 ## Examples
 -

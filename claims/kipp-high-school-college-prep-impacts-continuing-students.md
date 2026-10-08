@@ -45,3 +45,4 @@ The key findings report that for continuing KIPP students, KIPP high schools "ha
 ## Related Claims
 - [For continuing KIPP students, KIPP high schools have positive impacts on college preparation activities and the likelihood of applying to college](kipp-high-school-continuing-students-college-preparation.md) — possibly the same claim (merge candidate)
 - [For students continuing from KIPP middle schools to KIPP high schools, achievement impacts are not statistically significant](kipp-high-school-continuing-students-achievement-null.md) — related
+- [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related

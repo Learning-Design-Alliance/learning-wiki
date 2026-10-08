@@ -44,3 +44,5 @@ Randomized controlled trial assigning 89 schools in ten geographically diverse l
 
 ## Related Claims
 - [Project CRISS® produced statistically significant greater free-recall gains than regular instruction in grades 4 and 6 (Horsfall & Santa, 1994)](project-criss-significant-free-recall-gains-grades-4-6.md) — related
+- [The evaluation was a large-scale randomized control trial spanning 268 teachers, 6,350 students, 89 schools, 10 districts, and 8 states](rct-scale-reading-comprehension-curricula-evaluation.md) — a broader claim this one bears on
+- [Project CRISS, ReadAbout, and Read for Real showed no significant impacts on reading comprehension in the study's first year](three-curricula-no-significant-impacts-year-one.md) — related
