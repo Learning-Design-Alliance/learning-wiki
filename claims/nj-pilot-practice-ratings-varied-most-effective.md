@@ -47,3 +47,6 @@ Analysis of pilot-year data from New Jersey's principal evaluation pilot in 14 s
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
 - [School median student growth percentiles correlate with student disadvantage](school-mgp-correlates-student-disadvantage.md) — related
 - [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](pittsburgh-three-measures-differentiate-teacher-performance.md) — related
+- [FFT-based teacher ratings in Pennsylvania's pilot were overwhelmingly concentrated in the top two performance categories, with less than 0.1 percent rated failing](fft-pilot-ratings-concentrated-top-two-categories.md) — related
+- [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](first-study-principal-practice-ratings-value-added-validity.md) — related
+- [Nearly all New Jersey principals (99 percent) received effective or highly effective overall ratings in the first year of statewide evaluation, with limited variation](nj-principals-99-percent-effective-ratings-limited-variation.md) — related

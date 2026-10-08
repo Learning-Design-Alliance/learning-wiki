@@ -61,3 +61,4 @@ First findings from a multi-year evaluation of the KIPP charter school network, 
 - [KIPP middle schools produce significant achievement gains in reading, math, science, and social studies](kipp-middle-schools-significant-achievement-gains.md) — related
 - [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related
 - [KIPP outcomes were measured with state tests, a nationally normed assessment including higher-order thinking measures, and student- and parent-reported behaviors](kipp-outcome-measures-normed-assessment-behaviors.md) — related
+- [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related

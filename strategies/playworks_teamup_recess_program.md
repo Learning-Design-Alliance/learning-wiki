@@ -58,9 +58,11 @@ TeamUp applies the logic of [Direct Instruction](../patterns/direct-instruction.
 6. Check in with teachers weekly about post-recess classroom behavior and adjust the game plan ([Check-In](../elements/check-in.md)).
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — the broader category of structured-activity recess interventions; TeamUp is one branded implementation
 - [Cooperative Learning](../principles/collaborative-learning.md) — TeamUp games are designed so success requires interdependence among players of mixed skill
 - [Positive Behavioral Interventions and Supports](../theories/behaviorism.md) — TeamUp's predictable routines and explicit expectations operate on the same reinforcement logic in a non-classroom setting
+- [Guide students in organized activities during recess and improve the recess play yard to raise physical activity, especially for girls](organized-recess-activities-yard-improvements-strategy.md)
 
 ## Examples
 - **Playworks TeamUp** ([playworks.org](https://www.playworks.org)) — the program itself: training, game guides, and equipment kits enabling schools to run structured recess without a full-time coach.

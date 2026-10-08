@@ -46,3 +46,4 @@ Methodological statement of the study's identification approach: CPS enrollment 
 - [Business cycle fluctuations have non-linear impacts on female graduate school enrollment](nonlinear-unemployment-effects-female-graduate-enrollment.md) — related
 - [Graduate school enrollment is countercyclical for females and acyclical for males](graduate-enrollment-countercyclical-females-acyclical-males.md) — related
 - [Poor labor market conditions lead to substitution from full-time to part-time graduate enrollment for both genders](poor-labor-markets-shift-full-time-to-part-time-graduate-enrollment.md) — related
+- [College-specific barriers related to resources, time, and local labor market conditions limited implementation of the statewide E-HLTH career studies certificate](college-specific-barriers-limited-ehlth-certificate-implementation.md) — related

@@ -67,3 +67,4 @@ The study examined how teachers move into and out of schools and concluded that 
 - [In the average study district, differences in teacher effectiveness between high- and low-income students' teachers are small](small-average-effectiveness-differences.md) — related
 - [Average differences in teacher effectiveness for high- and low-income students are small in the average study district](small-average-effectiveness-differences-by-income.md) — related
 - [High- and low-income students have similar chances of being taught by the most and least effective teachers](similar-access-most-least-effective-teachers-income.md) — related
+- [TRP teachers who changed schools within their district tended to move to schools with similar low-income shares, a lower percentage of black students, and higher achievement](trp-movers-join-higher-achievement-schools.md) — related

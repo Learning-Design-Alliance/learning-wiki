@@ -47,3 +47,4 @@ The summary's list of consistently associated policies includes "comprehensive b
 - [Long school days or years are among the policies most consistently associated with positive charter-school impacts](long-school-days-years-charter-impacts.md) — related
 - [A mission that prioritizes boosting student achievement is associated with positive charter-school impacts](achievement-focused-mission-charter-impacts.md) — related
 - [Shared and well-communicated mission, vision, and goals are critical to district and CMO performance](shared-mission-vision-goals-critical-districts-cmos.md) — related
+- [Long school days or years, comprehensive behavioral policies with rewards and sanctions, and an achievement-focused mission are most strongly associated with charter school success](extended-time-behavior-policies-mission-associated-charter-success.md) — a broader claim this one bears on

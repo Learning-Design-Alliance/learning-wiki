@@ -47,3 +47,4 @@ The report's key findings state plainly that "The effects of departmentalized in
 - [Systems thinking holds the most promise for understanding departmental and institutional conflict](systems-thinking-most-promising-for-institutional-conflict.md) — related
 - [Schools implementing departmentalized elementary instruction completed key implementation steps, but some faced scheduling challenges](departmentalization-implementation-steps-scheduling-challenges.md) — related
 - [Departmentalized elementary teachers' experiences matched some, but not all, hypothesized benefits and challenges of departmentalized instruction](departmentalized-teacher-experiences-partial-consistency.md) — related
+- [Instruction in upper elementary grades is often departmentalized: about one in six elementary school teachers in the original administrative data was linked to a subject he or she did not teach](one-in-six-elementary-teachers-linked-to-untaught-subject.md) — related

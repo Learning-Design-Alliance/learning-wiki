@@ -64,3 +64,4 @@ Follow-up observation reported by the authors, citing Buyarski (2016): after the
 - [First-year seminars populated by major or advisor show higher retention than unconnected seminars](fys-major-advisor-linkage-higher-retention.md) — related
 - [First-year seminar participation is associated with higher retention and graduation rates](fys-participation-higher-retention-graduation.md) — related
 - [The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment](eportfolio-effective-self-assessment-information-literacy.md) — related
+- [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related

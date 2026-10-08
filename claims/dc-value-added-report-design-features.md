@@ -46,3 +46,4 @@ Descriptive statement from the report's own abstract about what the document con
 - [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](charter-consortium-effective-school-identification-method.md) — related
 - [Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year](pittsburgh-vam-report-2016-documents-district-use.md) — related
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
+- [The Full Roster Method effectively counts co-taught students more than once in value-added calculations](frm-counts-cotaught-students-more-than-once.md) — related

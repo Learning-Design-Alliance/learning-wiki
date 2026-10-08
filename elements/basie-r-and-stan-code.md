@@ -43,6 +43,7 @@ A released code artifact accompanying the guide: the page offers a link to "Down
 ## Related Elements
 
 - [BASIE probability tool (downloadable software)](basie-probability-tool.md)
+- [RMPW software program and online Stata code](rmpw-software-program-and-stata-code.md)
 
 ## Examples
 

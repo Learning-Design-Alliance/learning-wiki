@@ -45,3 +45,4 @@ Baseline characteristic of the randomized controlled trial of 90 eighth-grade st
 ## Related Claims
 - [The Expert Mathematician shows a positive but not statistically significant effect on middle school math achievement (effect size 0.35, improvement index +14 percentile points)](expert-mathematician-potentially-positive-math-achievement.md) — related
 - [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](wwc-potentially-positive-rating-expert-mathematician.md) — related
+- [Within-school variation in baseline achievement is greater in middle school grades, but upper elementary grades show an offsetting amount of between-school variation](achievement-variation-offset-across-grade-bands.md) — related

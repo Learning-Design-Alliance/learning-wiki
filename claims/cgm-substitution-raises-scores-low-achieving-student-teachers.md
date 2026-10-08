@@ -45,3 +45,5 @@ The paper's summary of its comparison of value-added model and Colorado Growth M
 ## Related Claims
 - [Using the Colorado Growth Model in place of a value-added model depresses evaluation scores for teachers with more English language learner students](cgm-substitution-depresses-scores-ell-student-teachers.md) — related
 - [The paper tests two previously unevaluated VAM model variations: teacher-year level average peer characteristics and demographic variation in the lagged-achievement relationship](vam-two-novel-model-variations-tested.md) — related
+- [Most differences in evaluation scores between the Colorado Growth Model and value added are not related to the characteristics of students' teachers](cgm-value-added-differences-unrelated-to-teacher-characteristics.md) — related
+- [Using Colorado Growth Model growth percentiles in place of value added would have altered evaluation consequences for 14% of DCPS teachers](cgm-versus-value-added-changed-evaluation-14-percent-dcps.md) — related

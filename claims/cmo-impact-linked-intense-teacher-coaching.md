@@ -49,3 +49,5 @@ The page's summary of the prior CMO impact report states high-impact CMOs were m
 - [School leaders should be viewed and trained as instructional leaders](school-leaders-as-instructional-leaders.md) — related
 - [Teachers play a key role in determining students' success in school districts and CMOs](teachers-key-role-student-success-districts-cmos.md) — related
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — a broader claim this one bears on
+- [Policies promoting data use to guide teachers' instructional practices are positively associated with charter school achievement impacts](data-use-policies-associated-charter-success.md) — related
+- [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](teacher-feedback-coaching-associated-charter-success.md) — a broader claim this one bears on

@@ -51,3 +51,4 @@ The review's synthesis of included RCTs and QEDs comparing first- or second-year
 - [The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies](tfa-evidence-base-reduced-to-four-studies.md) — related
 - [Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification](tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification.md) — related
 - [TFA corps members hired in the first two years of the i3 scale-up were as effective as other teachers in the same high-poverty schools in teaching reading and math](tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools.md) — related
+- [Under the i3 scale-up grant, TFA planned to grow its corps by 80 percent and aimed for a majority of its teachers to be rated highly effective by the 2014-2015 school year](tfa-i3-grant-growth-and-effectiveness-goals.md) — related

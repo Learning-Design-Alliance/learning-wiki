@@ -46,3 +46,4 @@ In the pilot's descriptive results (n=15), presentation software means and media
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — a broader claim this one bears on
 - [Reported use of bridging/conferencing software showed a significant increase (p<0.001), with mean level rising from 1.00 to 2.60](loa-bridging-conferencing-significant-increase.md) — related
 - [Reported videoconferencing adoption rose significantly after practitioners returned to the workplace (p<0.005), with mean level increasing from 2.00 to 4.53](loa-videoconferencing-significant-post-posttest-increase.md) — related
+- [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related

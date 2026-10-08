@@ -45,3 +45,4 @@ Observational analysis estimating promotion power scores for DC public high scho
 ## Related Claims
 - [Student background characteristics are less strongly related to promotion power scores than to status measures](background-less-related-promotion-power-than-status.md) — related
 - [Schools with high promotion power for high school graduation tended also to have high promotion power for college enrollment](graduation-promotion-power-relates-college-enrollment.md) — related
+- [Parents' school preferences vary considerably across DC applicants](dc-parents-considerable-variation-preferences.md) — related

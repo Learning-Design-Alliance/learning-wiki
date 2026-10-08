@@ -17,15 +17,15 @@ Page counts are regenerated with every index rebuild.
 | Type | Pages | Description |
 |------|-------|-------------|
 | [Principles](principles/) | 375 | Research-backed design commitments: what to do and why. |
-| [Elements](elements/) | 1,351 | Instructional building blocks — the components you compose into patterns. |
+| [Elements](elements/) | 1,383 | Instructional building blocks — the components you compose into patterns. |
 | [Patterns](patterns/) | 126 | Reusable instructional designs at the lesson or unit level. |
-| [Designs](designs/) | 202 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
-| [Strategies](strategies/) | 3,608 | Concrete teaching activity recipes — specific, implementable approaches. |
+| [Designs](designs/) | 203 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
+| [Strategies](strategies/) | 3,626 | Concrete teaching activity recipes — specific, implementable approaches. |
 | [Design Processes](processes/) | 18 | How a course gets designed — whole-process models a designer works through, rather than anything a learner meets. |
 | [Design Methods](methods/) | 38 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
-| [Theories](theories/) | 1,114 | Explanatory frameworks that ground principles and claims. |
+| [Theories](theories/) | 1,123 | Explanatory frameworks that ground principles and claims. |
 | [Learner Variables](learner-variables/) | 12 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
-| [Claims](claims/) | 5,562 | Empirical claims with evidence ratings, sources, and competing views. |
+| [Claims](claims/) | 5,714 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->
 

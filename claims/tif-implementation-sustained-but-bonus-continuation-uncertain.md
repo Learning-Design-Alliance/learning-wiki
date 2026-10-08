@@ -47,3 +47,4 @@ The report's implementation findings state that "Districts typically implemented
 - [The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses](tif-average-bonus-below-recommended-share.md) — related
 - [Some aspects of TIF implementation improved between years one and two while others, including bonus awareness, remained challenging](tif-implementation-mixed-improvement.md) — related
 - [Traditional salary schedules may not reward effective teaching or give the most effective teachers incentives to work in high-need schools, motivating performance-based compensation](traditional-salary-schedules-may-not-reward-effective-teaching.md) — related
+- [On average, states required less than half of eight RTT-aligned teacher evaluation policies, though RTT states required more of these policies than non-RTT states](rtt-states-require-more-teacher-evaluation-policies.md) — related

@@ -43,6 +43,7 @@ A downloadable software artifact released with the guide. The page instructs rea
 ## Related Elements
 
 - [BASIE R and Stan code (released implementation code)](basie-r-and-stan-code.md)
+- [RMPW software program and online Stata code](rmpw-software-program-and-stata-code.md)
 
 ## Examples
 

@@ -46,3 +46,4 @@ The research summary lists the policies most consistently associated with positi
 - [Comprehensive behavioral policies with rewards and sanctions are associated with positive charter-school impacts](behavioral-policies-rewards-sanctions-charter-impacts.md) — related
 - [A mission that prioritizes boosting student achievement is associated with positive charter-school impacts](achievement-focused-mission-charter-impacts.md) — related
 - [Shared and well-communicated mission, vision, and goals are critical to district and CMO performance](shared-mission-vision-goals-critical-districts-cmos.md) — related
+- [Long school days or years, comprehensive behavioral policies with rewards and sanctions, and an achievement-focused mission are most strongly associated with charter school success](extended-time-behavior-policies-mission-associated-charter-success.md) — a broader claim this one bears on

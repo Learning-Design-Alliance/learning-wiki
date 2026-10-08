@@ -46,3 +46,6 @@ The study's reported headline finding on diploma attainment, comparing charter m
 - [The study examines charter high school effects on educational attainment in two settings, Florida and Chicago](charter-attainment-study-florida-chicago-scope.md) — a broader claim this one bears on
 - [Charter middle school students who attend a charter high school are 8 to 10 percentage points more likely to attend college than those who transition to a traditional public high school](charter-high-school-college-attendance-gain.md) — related
 - [Charter high schools in Florida and Chicago showed substantial positive effects on both high school completion and college attendance](charter-schools-positive-attainment-effects.md) — a broader claim this one bears on
+- [Charter high school attendees experience higher earnings in their mid-20s](charter-high-schools-higher-mid-twenties-earnings.md) — related
+- [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — a broader claim this one bears on
+- [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — related

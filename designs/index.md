@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**202 entries** · 0 stable · 0 in review · 202 drafts
+**203 entries** · 0 stable · 0 in review · 203 drafts
 
 ---
 
@@ -248,6 +248,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Three-part session structure combining perceptual warm-up, adaptive silent reading, and contextual analysis activities](reading-plus-three-part-session-structure.md) - Within a typical 45-minute session, students engage in visual perceptual warm-up activities, scaffolded silent reading activities that \"dynamically adjust content-level difficulty, degree of repetition, duration of re...
 * [Three-part unit progression: Preparing to Read, Reading and Responding, Language Arts](open-court-three-part-unit-progression.md) - Each unit of Open Court Reading© is organized into three parts in a logical progression.
 * [Three-phase sequential skill-mastery structure for remedial reading instruction](spellread-three-phase-structure.md) - SpellRead™ organizes instruction as \"140 lessons implemented in three distinct phases that interweave phonemics, phonetics, and instruction in language-based reading and writing\".
+* [Three-practice school improvement package promoted by SIG](sig-three-practice-improvement-package.md) - The School Improvement Grants program promotes a package of school improvement practices for low-performing schools comprising three components: \"using data to inform and differentiate instruction,\" \"expanding technol...
 * [Tiered reading delivery pattern: 90 minutes whole-group core plus 30 minutes small-group Tier 2 for all struggling readers](tier1-tier2-reading-time-allocation-pattern.md) - The studied program used a tiered time structure: \"all students, experimental and control, received 90 minutes of core reading instruction and 30 minutes of Tier 2 (supplemental) instruction.\" Core instruction is whol...
 * [Token reward with mapped milestone prizes sustaining engagement across tutoring sessions](gold-coin-treasure-map-reward-pattern.md) - Pirate Math embeds a motivational routine in its tutoring sessions: students receive gold coins for good work and place them on a treasure map.
 * [Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use](tutor-led-strategies-adult-language-lessons.md) - The guide enumerates tutor-led strategies that \"enhance this particular process and make the learning more effective\": structure the learning so material is \"coherent and meaningful, with supporting interconnections m...

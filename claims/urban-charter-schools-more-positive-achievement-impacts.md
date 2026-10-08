@@ -48,3 +48,4 @@ The article's research summary states that the reviewed evidence indicates urban
 - [KIPP charter schools have potentially positive effects on social studies achievement, with mixed study findings](kipp-mixed-social-studies.md) — related
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — related
 - [KIPP charter schools have potentially positive effects on science achievement for middle and high school students](kipp-potentially-positive-science.md) — related
+- [Urban charter schools and charters serving low-achieving, low-income students show the strongest positive achievement impacts](urban-low-income-charter-schools-strongest-achievement-impacts.md) — a broader claim this one bears on

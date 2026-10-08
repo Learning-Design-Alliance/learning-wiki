@@ -47,3 +47,5 @@ The article compares empirical estimates from the two joint-responsibility metho
 - [Empirical Bayes shrinkage could be used to address bias in proxy pre-test value-added estimates](empirical-bayes-shrinkage-for-proxy-pretest-bias.md) — related
 - [Empirical Bayes shrinkage increases the precision of value-added estimates and reduces their absolute value for teachers of hard-to-predict students](shrinkage-increases-precision-reduces-absolute-va.md) — related
 - [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](dc-value-added-report-design-features.md) — related
+- [The Full Roster Method effectively counts co-taught students more than once in value-added calculations](frm-counts-cotaught-students-more-than-once.md) — related
+- [Applying the Full Roster-Plus Method instead of the Full Roster Method produces very small empirical differences in value-added estimates in District of Columbia Public Schools data](frp-vs-frm-very-small-empirical-differences.md) — related

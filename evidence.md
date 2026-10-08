@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 5,562 |
-| Evidence entries | 6,517 |
-| Distinct studies | 1,904 |
-| Claims resting on one study | 5,348 (96%) |
+| Claims | 5,714 |
+| Evidence entries | 6,675 |
+| Distinct studies | 1,949 |
+| Claims resting on one study | 5,500 (96%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 593 of 1,904 (31%) |
+| Studies reporting an effect size | 594 of 1,949 (30%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 40 | 263 | 92 | 262 | 657 |
+| causal | 40 | 265 | 92 | 266 | 663 |
 | quant-synthesis | 22 | 66 | 31 | 121 | 240 |
-| review | 21 | 79 | 32 | 68 | 200 |
-| associational | 0 | 83 | 95 | 70 | 248 |
-| qualitative | 38 | 78 | 18 | 17 | 151 |
-| design | 9 | 100 | 64 | 11 | 184 |
-| theoretical | 26 | 139 | 30 | 29 | 224 |
+| review | 21 | 79 | 32 | 69 | 201 |
+| associational | 0 | 92 | 97 | 76 | 265 |
+| qualitative | 38 | 78 | 24 | 22 | 162 |
+| design | 9 | 102 | 64 | 13 | 188 |
+| theoretical | 29 | 140 | 32 | 29 | 230 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 314 (16%) | 930 (49%) | 556 (29%) | 104 (5%) |
+| 322 (17%) | 961 (49%) | 562 (29%) | 104 (5%) |
 
-**Studies per claim:** 0: 0, 1: 5,348, 2: 160, 3: 48, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 5,500, 2: 160, 3: 48, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -124,8 +124,8 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 237 | 3 | 3 | 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 223 | 14 | 3 | 2 |
+| [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](claims/few-districts-aligned-bonuses-with-tif-guidance.md) | 1 | 1 | 3 | 1 |
 | [Applying skill theory to grammar conflates constructs: pedagogical rules are not what …](claims/grammar-as-skill-is-a-conflation.md) | 2 | 0 | 3 | 1 |
-| [There is no direct evidence that comprehensible input is necessary for L2 acquisition; …](claims/no-direct-evidence-input-hypothesis.md) | 1 | 0 | 3 | 1 |
 
 ## Evidence by kind of page
 
@@ -134,14 +134,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 321 | 2 | 0 |
-| [elements](elements/index.md) | 1,351 | 1,037 | 1 | 0 |
+| [elements](elements/index.md) | 1,383 | 1,061 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 109 | 8 | 0 |
-| [strategies](strategies/index.md) | 3,608 | 2,336 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,626 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,114 | 905 | 1 | 0 |
+| [theories](theories/index.md) | 1,123 | 914 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 202 | 140 | 1 | 0 |
+| [designs](designs/index.md) | 203 | 141 | 1 | 0 |
 
 ## Toward pooled estimates
 

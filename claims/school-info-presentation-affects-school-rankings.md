@@ -49,3 +49,4 @@ The guide examines, through its underlying experiment, "how it can affect how pa
 - [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — a narrower finding that bears on this claim
 - [Changing the default order in which schools are presented induces meaningful changes in the types of schools low-income parents choose](default-order-changes-school-choice.md) — a narrower finding that bears on this claim
 - [Number-only displays maximized parents' understanding while graphs maximized satisfaction at the expense of understanding](numbers-understanding-graphs-satisfaction-tradeoff.md) — related
+- [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related

@@ -48,3 +48,4 @@ The report's Key Findings state, based on analysis of district data on observati
 - [Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective](nj-pilot-practice-ratings-varied-most-effective.md) — related
 - [Value-added models were developed to estimate teachers' and schools' contributions to student achievement in Pittsburgh Public Schools](pittsburgh-vam-teacher-school-effectiveness-estimates.md) — related
 - [Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools](teacher-survey-domains-differentiate-among-schools.md) — related
+- [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](fft-vam-correlations-positive-019-022.md) — related

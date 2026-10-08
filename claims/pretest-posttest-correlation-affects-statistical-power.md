@@ -46,3 +46,4 @@ A methodological statement from the report's abstract, offered without printed e
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — related
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
+- [Ambiguous preintervention functional forms and other factors affecting posttest means and slopes are common in ITS applications](its-ambiguous-preintervention-functional-forms-common.md) — related

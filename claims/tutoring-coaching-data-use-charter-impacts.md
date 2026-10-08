@@ -49,3 +49,7 @@ The summary characterizes the evidence for these three practices as "moderately 
 - [Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample](booknook-dosage-20-sessions-stronger-effect.md) — a narrower finding that bears on this claim
 - [Teachers play a key role in determining students' success in school districts and CMOs](teachers-key-role-student-success-districts-cmos.md) — related
 - [Urban charter schools have more positive impacts on student achievement than other charter schools](urban-charter-schools-more-positive-achievement-impacts.md) — related
+- [Policies promoting data use to guide teachers' instructional practices are positively associated with charter school achievement impacts](data-use-policies-associated-charter-success.md) — a narrower finding that bears on this claim
+- [High-dosage tutoring is positively associated with charter school achievement impacts](high-dosage-tutoring-associated-charter-success.md) — a narrower finding that bears on this claim
+- [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](teacher-feedback-coaching-associated-charter-success.md) — possibly the same claim (merge candidate)
+- [Urban charter schools and charters serving low-achieving, low-income students show the strongest positive achievement impacts](urban-low-income-charter-schools-strongest-achievement-impacts.md) — related

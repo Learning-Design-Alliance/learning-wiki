@@ -50,3 +50,4 @@ Pilot study of a blended graduate course: 26 students were surveyed three times 
 - [Respondent feedback prompted a revised ten-level LoA scale splitting non-use and adding a replacement level, plus a more cyclic adoption model](loa-revised-ten-level-scale-from-respondent-feedback.md) — related
 - [Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use](loa-whiteboard-perceived-versus-actual-use.md) — related
 - [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](novice-idc-growth-simplification-linearity-dogmatism.md) — related
+- [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related

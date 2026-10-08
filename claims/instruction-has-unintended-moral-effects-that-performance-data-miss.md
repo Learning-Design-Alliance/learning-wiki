@@ -53,3 +53,4 @@ A philosophical argument, first published in *Educational Technology* in 2003, t
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — the empirical literature closest to the harm the argument describes
 - [Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content](highly-reflective-students-found-restructured-course-unchallenging.md) — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — a narrower finding that bears on this claim
+- [Rapid-cycle evaluation determines with high confidence whether and for whom a program change causes intended improvements or unintended consequences](rapid-cycle-evaluation-determines-whether-and-for-whom-changes-work.md) — related

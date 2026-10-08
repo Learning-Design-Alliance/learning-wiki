@@ -45,3 +45,4 @@ Cross-school survey association: teachers in schools with "a greater PD focus on
 ## Related Claims
 - [Most teachers in the 11 SIG schools participated in ELL-related professional development, but it accounted for less than 20 percent of their total PD hours](ell-pd-participation-under-20-percent-of-pd-hours.md) — related
 - [Few SIG schools with high ELL enrollments used staffing strategies to build teacher capacity for serving ELLs](few-sig-schools-staffing-strategies-ell-teacher-capacity.md) — related
+- [Over 96 percent of surveyed low-performing schools adopted three SIG-promoted improvement practices: data-informed differentiated instruction, expanded technology access or computer-assisted instruction, and collaborative or leader-facilitated ongoing professional development](sig-schools-adopt-three-improvement-practices.md) — related

@@ -52,9 +52,11 @@ This element comprises the two educator-effectiveness strategies examined in the
 
 - [Teacher Incentive Fund (TIF) performance-based compensation grants for high-need schools](teacher-incentive-fund-performance-compensation-grants.md)
 - [Teacher Incentive Fund (TIF) federal grant program supporting performance-based compensation systems](teacher-incentive-fund-grant-program.md)
+- [Teacher Incentive Fund (TIF) performance-based compensation program](teacher-incentive-fund-program.md)
 
 ## Examples
--
+
+- [Design pay-for-performance bonus structures that align with grant guidance and clearly communicate eligibility to teachers](../strategies/align-and-communicate-performance-bonus-rules.md)
 
 ## Key Sources
 - Andrew Wayne, Michael Garet, Alison Wellington, Hanley Chiang. (2018). Promoting Educator Effectiveness: The Effects of Two Key Strategies. Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee/

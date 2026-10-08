@@ -48,3 +48,4 @@ Observational analysis of adjacent-year school averages on Insight survey domain
 - [The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy](two-analysis-approach-principal-measure-accuracy.md) — related
 - [Staff feedback from teacher surveys can serve as evidence in evaluating school leaders' performance](staff-feedback-teacher-surveys-principal-evaluation.md) — related
 - [Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools](teacher-survey-domains-differentiate-among-schools.md) — related
+- [Principal practice instrument ratings and school median student growth percentiles showed moderate to high year-to-year stability, but growth percentiles changed more across years in smaller schools](evaluation-measure-year-to-year-stability-school-size.md) — related

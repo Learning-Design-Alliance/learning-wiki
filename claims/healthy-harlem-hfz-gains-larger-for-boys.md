@@ -47,3 +47,4 @@ Moderator finding from the Healthy Harlem evaluation brief: among students in th
 - [The percentage of students in the targeted Harlem Fitness Zone was significantly greater after two and three years of participation than at baseline](healthy-harlem-hfz-percentage-greater-than-baseline.md) — related
 - [Healthy Harlem had some positive impacts on other measures of student self-efficacy and social support](healthy-harlem-self-efficacy-social-support-impacts.md) — related
 - [Healthy Harlem increased students' nutrition knowledge and physical-activity self-efficacy, with gains sustained over three years](healthy-harlem-sustained-nutrition-knowledge-self-efficacy-gains.md) — related
+- [Playworks showed significant impact on some measures of girls' physical activity but no significant impact on measures of boys' physical activity](playworks-gender-differential-impact.md) — related

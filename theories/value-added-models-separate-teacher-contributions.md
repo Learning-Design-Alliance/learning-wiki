@@ -45,12 +45,14 @@ Value-added models are statistical models used in Oklahoma's evaluation system t
 ## Related Theories
 
 - [Value added as a measure of teacher effectiveness](value-added-teacher-effectiveness-measure.md)
+- [Value-added modeling as a framework for measuring educator effectiveness](value-added-modeling-educator-effectiveness-framework.md)
 
 ## Examples
 
 - [Mathematica's value-added analysis approach for Oklahoma's Teacher and Leader Effectiveness Evaluation System](../elements/mathematica-value-added-approach-oklahoma-tle.md)
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](../elements/pittsburgh-value-added-models-teacher-school-contributions.md)
 - [Value-added model for measuring school and teacher performance in DC Public Schools (IMPACT and TEAM)](../elements/dc-impact-team-value-added-model.md)
+- [Oklahoma teacher value-added measures for the 2013-2014 school year](../elements/oklahoma-teacher-value-added-measures-2013-14.md)
 
 ## Key Sources
 - Albert Y. Liu, Elias Walsh, Dallas Dotter. (2016). Measuring Teacher and School Value Added in Oklahoma, Spring 2016. Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/measuring-teacher-and-school-value-added-in-oklahoma-spring-2016

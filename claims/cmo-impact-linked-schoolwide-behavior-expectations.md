@@ -48,3 +48,4 @@ The page summarizes a previous Mathematica/CRPE report on CMOs, stating that "CM
 - [Shared and well-communicated mission, vision, and goals are critical to district and CMO performance](shared-mission-vision-goals-critical-districts-cmos.md) — related
 - [Teachers play a key role in determining students' success in school districts and CMOs](teachers-key-role-student-success-districts-cmos.md) — related
 - [Comprehensive behavioral policies with rewards and sanctions are associated with positive charter-school impacts](behavioral-policies-rewards-sanctions-charter-impacts.md) — a broader claim this one bears on
+- [Long school days or years, comprehensive behavioral policies with rewards and sanctions, and an achievement-focused mission are most strongly associated with charter school success](extended-time-behavior-policies-mission-associated-charter-success.md) — related
