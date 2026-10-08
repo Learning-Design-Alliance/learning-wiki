@@ -44,3 +44,4 @@ One large, two-year study evaluated ECED outcomes in schools located in Arizona,
 
 ## Related Claims
 - [ECED schools made greater gains on state math tests than control schools (effect size +0.14) in one large two-year study](eced-greater-math-gains-state-tests.md) — possibly the same claim (merge candidate)
+- [The Experience Corps program was found to be a low burden to teachers](ec-program-low-burden-to-teachers.md) — related

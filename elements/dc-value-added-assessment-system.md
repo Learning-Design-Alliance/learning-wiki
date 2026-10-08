@@ -49,6 +49,7 @@ The article is associated with the project "Value-Added Assessment System for DC
 - [Mathematica's value-added analysis approach for Oklahoma's Teacher and Leader Effectiveness Evaluation System](mathematica-value-added-approach-oklahoma-tle.md)
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](pittsburgh-value-added-models-teacher-school-contributions.md)
 - [Four principal performance measures based on student test scores](four-test-score-principal-performance-measures.md)
+- [Value-added model for measuring school and teacher performance in DC Public Schools (IMPACT and TEAM)](dc-impact-team-value-added-model.md)
 
 ## Examples
 -

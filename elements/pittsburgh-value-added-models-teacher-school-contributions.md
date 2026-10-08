@@ -45,6 +45,7 @@ Value-added models developed by Mathematica for Pittsburgh Public Schools, commi
 - [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](dc-value-added-assessment-system.md)
 - [Mathematica's value-added analysis approach for Oklahoma's Teacher and Leader Effectiveness Evaluation System](mathematica-value-added-approach-oklahoma-tle.md)
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](pittsburgh-value-added-models-2012-13.md)
+- [Pittsburgh performance-based pay plans for teachers and principals](pittsburgh-performance-based-pay-plans.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article develops a replication method for within-study comparisons in settin
 ## Examples
 
 - [A replication approach for testing nonexperimental methods against experimental ITT impact estimates when experiments include substantial control crossover](../strategies/replication-approach-itt-control-crossover.md)
+- [Use regression discontinuity designs to replicate or check experimental impact estimates for education interventions](../strategies/rd-design-to-replicate-experimental-impact-estimates.md)
 
 ## Key Sources
 - Brian Gill, Joshua Furgeson, Hanley Chiang, Bing-Ru Teh, Joshua Haimson, Natalya Verbitsky-Savitz. (2016). Replicating Experimental Impact Estimates With Nonexperimental Methods in the Context of Control-Group Noncompliance. Statistics and Public Policy, vol. 3, issue 1. https://www.mathematica.org/publications/2015-replicating-experimental-impact-estimates-with-nonexperimental-methods-in-the-context

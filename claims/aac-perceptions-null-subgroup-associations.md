@@ -74,3 +74,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Student demographics affect parents' perceptions of school quality](demographics-affect-perceived-school-quality.md) — related
 - [Subgroup analyses in education impact evaluations can also be based on participants' experiences, mediators, and outcomes measured after program implementation](post-intervention-mediator-subgroup-analyses.md) — related
 - [Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented](pre-intervention-moderator-analyses.md) — related
+- [There was no clear pattern to the relationship between student, teacher, and school characteristics and the effectiveness of the interventions.](no-clear-pattern-characteristics-and-effectiveness.md) — related

@@ -48,3 +48,4 @@ The review attributes this to Carey (1978), cited as background on the fast mapp
 - [L2 learners develop much of their vocabulary incidentally through exposure to words in informative contexts, primarily via extensive reading for meaning](incidental-vocabulary-learning-through-reading-for-meaning.md) — related
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](extensive-reading-improves-vocabulary-and-spelling.md) — a broader claim this one bears on
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
+- [Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text](disadvantaged-students-lack-vocabulary-and-comprehension-strategies.md) — related

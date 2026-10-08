@@ -51,6 +51,7 @@ Teach For America (TFA) is a highly selective route to teacher certification tha
 ## Related Elements
 
 - [Teach For America (TFA) as a teacher-supply program for hard-to-staff subjects in high-poverty schools](teach-for-america-teacher-supply-program.md)
+- [Mathematica random assignment study of alternative routes to teacher certification](mathematica-alt-cert-random-assignment-study.md)
 
 ## Examples
 -

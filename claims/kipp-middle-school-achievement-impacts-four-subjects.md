@@ -49,3 +49,6 @@ The Key Findings section reports middle school achievement impacts across four s
 - [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — a broader claim this one bears on
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — a narrower finding that bears on this claim
 - [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](kipp-middle-schools-positive-significant-achievement-effects.md) — possibly the same claim (merge candidate)
+- [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related
+- [KIPP middle schools show significant and substantial positive impacts on achievement in reading, math, science, and social studies](kipp-middle-schools-positive-impacts-four-subjects.md) — possibly the same claim (merge candidate)
+- [KIPP middle schools produce significant achievement gains in reading, math, science, and social studies](kipp-middle-schools-significant-achievement-gains.md) — possibly the same claim (merge candidate)

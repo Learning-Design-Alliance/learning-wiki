@@ -50,3 +50,4 @@ This RCT randomly assigned students in 45 secondary schools to a math class taug
 - [TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools](tfa-first-two-years-beat-experienced-non-tfa.md) — related
 - [Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification](tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification.md) — reports the opposite
 - [In some cases, Teach For America and Teaching Fellows secondary math teachers are more effective than traditionally certified math teachers](tfa-teaching-fellows-math-teachers-sometimes-more-effective.md) — a broader claim this one bears on
+- [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related

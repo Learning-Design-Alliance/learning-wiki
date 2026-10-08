@@ -67,3 +67,6 @@ The same interdependence section states that working conditions also condition w
 - [Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession](piecemeal-educator-policymaking-drains-talent.md) — related
 - [Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes](academy-influence-not-major-factor.md) — related
 - [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related
+- [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](comprehensive-induction-no-classroom-practice-gains-first-year.md) — related
+- [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related
+- [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](teacher-induction-no-retention-gain-year-1.md) — related

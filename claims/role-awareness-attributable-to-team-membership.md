@@ -48,3 +48,4 @@ Correlational and multiple-regression analyses of the staff survey (Tables 10a a
 - [The more formal SDM training staff received, the more positive their attitudes toward the model (r=.293, p<.001), especially at the elementary level](more-sdm-training-more-positive-staff-attitudes.md) — related
 - [Role awareness was generally low and differed by group: classroom teachers scored 35.4 versus 65.4 for resource staff, with non-team members lowest](role-awareness-group-differences-sdm.md) — related
 - [Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less](minimal-formal-training-sdm-staff.md) — related
+- [No association between amount of teacher training coursework and classroom effectiveness](no-association-coursework-amount-effectiveness.md) — related

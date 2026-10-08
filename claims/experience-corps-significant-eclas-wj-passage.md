@@ -44,3 +44,4 @@ Review summary of the two qualifying studies: "significant differences on ECLAS 
 
 ## Related Claims
 - [Experience Corps tutoring improves reading outcomes for struggling K-3 readers, with an average effect size of +0.13 across two qualifying studies](experience-corps-average-effect-0-13.md) — related
+- [The Experience Corps program was found to be a low burden to teachers](ec-program-low-burden-to-teachers.md) — related

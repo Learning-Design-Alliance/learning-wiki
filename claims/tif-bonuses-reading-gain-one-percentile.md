@@ -50,3 +50,4 @@ Impact evaluation of the 2010 TIF grantees after two years in 10 districts: the 
 - [The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses](tif-average-bonus-below-recommended-share.md) — related
 - [Educators' understanding of the TIF program improved in year two, but more than one-third of teachers still did not know they were eligible for a bonus and underestimated bonus size](tif-educator-understanding-improved-but-incomplete.md) — related
 - [Some aspects of TIF implementation improved between years one and two while others, including bonus awareness, remained challenging](tif-implementation-mixed-improvement.md) — related
+- [The TIF evaluation is designed to estimate impacts of performance pay on student achievement and on educators' attitudes, awareness, mobility, and recruitment](tif-evaluation-outcome-domains-design.md) — related

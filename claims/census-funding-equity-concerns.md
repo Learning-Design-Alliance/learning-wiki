@@ -44,3 +44,4 @@ The brief's overview reports that the cost-containment model "has raised concern
 
 ## Related Claims
 - [Census funding is viewed as a cost-containment approach for special education finance](census-funding-viewed-as-cost-containment.md) — related
+- [Capitation-based special education finance was associated with a rising share of local funding](capitation-rising-local-funding-share.md) — related

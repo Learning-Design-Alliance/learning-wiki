@@ -45,3 +45,6 @@ A key finding in the report's Key Findings section, one of three themes reported
 ## Related Claims
 - [Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest](accountability-indicator-strengths-weaknesses.md) — related
 - [Teachers play a key role in determining students' success in school districts and CMOs](teachers-key-role-student-success-districts-cmos.md) — related
+- [CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers](cmo-impact-linked-intense-teacher-coaching.md) — related
+- [CMOs with the greatest positive impact on student achievement were most likely to establish consistent schoolwide behavior expectations for students](cmo-impact-linked-schoolwide-behavior-expectations.md) — related
+- [Five successful CMOs used identifiable approaches intended to help improve student achievement](five-cmos-approaches-improve-achievement.md) — related

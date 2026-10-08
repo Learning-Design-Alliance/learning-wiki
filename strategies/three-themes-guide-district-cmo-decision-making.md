@@ -37,7 +37,8 @@ The report offers its three themes — teachers' key role, school leaders as ins
 - Selecting levers to most effectively improve student achievement
 
 ## Related Strategies
-- 
+
+- [Offer schools and districts guidance for replicating CMO behavior-expectations and teacher-coaching practices](guidance-replicating-cmo-practices.md)
 
 ## Examples
 -

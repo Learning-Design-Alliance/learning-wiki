@@ -54,6 +54,7 @@ The article describes "the first high-quality study to rigorously examine the im
 - [KIPP (Knowledge Is Power Program) charter middle school network](kipp-charter-middle-school-network.md)
 - [KIPP public charter school network](kipp-public-charter-school-network.md)
 - [KIPP Pre-K program](kipp-prek-program.md)
+- [KIPP middle schools as an evaluated intervention across the country](kipp-middle-schools-intervention.md)
 
 ## Examples
 -

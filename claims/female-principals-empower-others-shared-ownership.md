@@ -68,3 +68,4 @@ Responses to the hypothetical merit-pay dilemma revealed differing enactments of
 - [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related
 - [Female principals enacted care through a 'listening then deciding' pattern of situational decision making](listening-then-deciding-situational-decision-making.md) — related
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related
+- [School climate and parent participation in school were the most frequently measured non-student outcomes, while teacher-level outcomes were rarely assessed](character-ed-school-climate-most-measured-nonstudent.md) — related

@@ -68,3 +68,4 @@ The same key-findings section reports that for continuing KIPP students, "impact
 - [For continuing KIPP students, KIPP high schools have positive impacts on college preparation activities and the likelihood of applying to college](kipp-high-school-continuing-students-college-preparation.md) — related
 - [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — related
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — related
+- [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related

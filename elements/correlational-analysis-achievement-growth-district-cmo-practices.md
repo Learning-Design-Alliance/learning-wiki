@@ -44,6 +44,7 @@ As one of its three study activities, the report "conducted a correlational anal
 ## Related Elements
 
 - [Case studies of three high-performing districts and one high-performing CMO](high-performing-district-cmo-case-studies.md)
+- [Evaluating the Effectiveness of Charter Management Organizations (CMOs) project, 2008-2012](cmo-effectiveness-evaluation-project.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Rosser's testimony on the National Merit Scholarship Corporation, which awards o
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test](test-scores-gate-gifted-program-entry.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
+- [The EPIC evaluation baseline report compares student characteristics across the program's three partners and compares award-determination data with data on all students in the awarded schools](epic-baseline-compares-partner-student-characteristics-and-award-data.md) — related
