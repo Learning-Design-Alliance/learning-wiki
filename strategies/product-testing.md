@@ -60,9 +60,11 @@ Product testing operationalizes [Authentic Audiences & Purposes](../principles/a
 6. Close with reflection connecting test evidence to design principles, so the lesson generalizes beyond this product.
 
 ## Related Strategies
+
 - [Peer Review](../elements/peer-review.md) — a feedback mechanism on work-in-progress; product testing adds real users and observed behavior to peer judgment
 - [Design Thinking](../processes/design-thinking.md) — product testing is the "test" phase of the design cycle, feeding back into empathize and ideate
 - [Exhibition](exhibition.md) — public presentation of finished work; testing differs in that the work is expected to change afterward
+- [Use prototyping tasks to help students unfamiliar with design-mode thinking share incomplete ideas](prototyping-tasks-for-design-mode-thinking-novices.md)
 
 ## Examples
 - **Stanford d.school design courses** — student teams run live usability sessions with real users on low-fidelity prototypes, then iterate before final review ([https://dschool.stanford.edu](https://dschool.stanford.edu))

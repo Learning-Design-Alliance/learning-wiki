@@ -38,9 +38,11 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](../claims/tool-change-most-disruption-online-teaching.md) [+W]
 
 ## Related Elements
+
 - [Hypertext Navigation](hypertext-navigation.md)
 - [Multimedia Learning](multimedia-learning.md)
 - [Self-Paced Learning](self-paced-learning.md)
+- [Turkish K–8 e-learning platform with four module components (lessons, practices, exams, games)](turkish-k8-elearning-platform-four-components.md)
 
 ## Patterns That Use This Element
 - [Flipped Learning](../patterns/flipped-classroom.md)

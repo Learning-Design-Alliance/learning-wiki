@@ -47,3 +47,4 @@ Association reported from the ECLS-K longitudinal dataset comparing end-of-first
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related
 - [At the end of first grade, children whose kindergarten entry was delayed demonstrated slightly higher reading knowledge and skills than those who started on time](delayed-entrants-slightly-higher-reading-first-grade.md) — reports the opposite
 - [In fall 1998, five percent of children were repeating kindergarten and six percent were attending kindergarten for the first time despite being age-eligible a year earlier](five-percent-repeating-six-percent-delayed-kindergarten-1998.md) — related
+- [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related

@@ -51,3 +51,4 @@ Kindergarten follow-up tables (Appendices A4.1–A4.3) print effect sizes from �
 - [Fueling Brains pre-kindergarten gains persist to end of kindergarten on six of seven TX-KEA literacy and math subtests](fueling-brains-gains-persist-kindergarten.md) — related
 - [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](redi-kindergarten-followup-faded-effects.md) — related
 - [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related
+- [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related

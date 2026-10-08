@@ -58,9 +58,11 @@ Perceived teacher availability and warmth are among the strongest correlates of 
 5. **Refer when appropriate.** Recognize the boundary between emotional support and counseling, and have referral pathways ready.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — the structured, group-level form of presence that makes emotional processing routine
 - [Building empathy](../principles/building-empathy.md) — presence models the empathy that discussions of race ask students to practice
 - [Community of inquiry](../principles/community-of-inquiry.md) — teacher presence is one of the three presences (social, cognitive, teaching) that sustain online and blended learning communities
+- [Build faculty-staff connections and peer community to support persistence of teacher education students](faculty-connections-support-persistence-pcc.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the recurring mechanism through which availability becomes visible

@@ -106,3 +106,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — a narrower finding that bears on this claim
 - [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](visual-channel-overload-hurts-visual-knowledge.md) — related
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — a narrower finding that bears on this claim
+- [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](visual-prompts-more-actionable-than-plain-text.md) — related

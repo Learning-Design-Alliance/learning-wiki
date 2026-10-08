@@ -47,3 +47,4 @@ ECLS-K comparison of delayed-entry children with on-time starters on end-of-firs
 - [In fall 1998, five percent of children were repeating kindergarten and six percent were attending kindergarten for the first time despite being age-eligible a year earlier](five-percent-repeating-six-percent-delayed-kindergarten-1998.md) — related
 - [At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time](repeaters-lower-reading-math-end-first-grade.md) — related
 - [Students from poor families lag behind more affluent peers in early elementary math performance](poor-families-lag-affluent-peers-early-math.md) — related
+- [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related

@@ -55,3 +55,4 @@ The report's Key Findings state that a K-3 school-level growth measure was estim
 - [Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data](value-added-error-rates-teacher-and-school-upper-elementary.md) — related
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
 - [Lower measurement error rates can be achieved when schools, rather than individual teachers, are the performance unit](school-as-performance-unit-lower-error-rates.md) — related
+- [Students raised concerns that performance forecasts cannot capture personal circumstances affecting study](forecast-concerns-personal-circumstances.md) — related

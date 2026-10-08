@@ -49,3 +49,4 @@ Item and factor analysis of course-evaluation survey data from 10,974 students i
 - [A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence](civic-subject-alone-insufficient.md) — related
 - [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](mrbq-scale-reliability-mixed.md) — related
 - [No statistically significant differences among the four Knowledge/Judgment item scores (ANOVA p=.549), confirming similar rank scores](no-item-differences-anova-rjm.md) — related
+- [Semantic clustering yielded two-level topic structures reduced to 14 meaningful H-clusters for communication and 16 for digital literacy](two-level-clustering-meaningful-h-clusters.md) — related

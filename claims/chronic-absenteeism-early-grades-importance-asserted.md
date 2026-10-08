@@ -49,3 +49,4 @@ Publisher's one-sentence description of the fact sheet on its landing page. It a
 - [Regular attendance in preschool and kindergarten is presented as important for future school success](early-attendance-preschool-kindergarten-future-success.md) — related
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
 - [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](kindergarten-transition-difficulty-academic-risk.md) — related
+- [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related

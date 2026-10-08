@@ -47,3 +47,4 @@ A dissertation study assigned 27 elementary schools in 15 Oregon districts to ad
 - [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](powerschool-attendance-intervention-reduces-chronic-absenteeism.md) — related
 - [The PowerSchool Attendance Intervention did not significantly increase in-seat attendance in a randomized control trial](powerschool-attendance-intervention-in-seat-attendance-null.md) — related
 - [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) — related
+- [Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19](elementary-schools-larger-absenteeism-increases.md) — related

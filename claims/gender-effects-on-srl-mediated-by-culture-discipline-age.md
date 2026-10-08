@@ -70,3 +70,4 @@ The review reports the opposite-direction findings from other studies: "Female s
 - [Intellectual styles are partly socialized and therefore modifiable to some degree](styles-socialized-and-modifiable.md) — related
 - [Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures](males-more-work-avoidant-than-females-pbl.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
+- [Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM](math-teachers-data-use-attitudes-self-efficacy.md) — related

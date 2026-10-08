@@ -55,3 +55,4 @@ A key finding of the brief, summarizing perceptions gathered in the study of Ecr
 - [The Ecree study examined teachers' and students' use of the tool and its impact on student and teacher outcomes during the 2021-2022 school year](ecree-study-examined-use-and-impacts-2021-2022.md) — a broader claim this one bears on
 - [Technical integration with learning management systems and existing teacher tools eases Ecree adoption](lms-integration-eases-ecree-adoption.md) — related
 - [A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes](mi-write-study-examined-use-and-impact.md) — related
+- [Most pilot teachers used the Write to Succeed practices and found them easy to use and helpful for students, with ease of use increasing across semesters](wts-practices-used-and-rated-helpful.md) — related

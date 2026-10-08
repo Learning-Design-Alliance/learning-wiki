@@ -63,6 +63,7 @@ Sense of belonging predicts persistence and engagement, particularly for at-risk
 - [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 - [Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often](cooperative-learning-group-work-recommendation.md)
 - [Use paired interviews early in a group's life to build connections and surface participant information](paired-interviews-early-group-bonding.md)
+- [Build faculty-staff connections and peer community to support persistence of teacher education students](faculty-connections-support-persistence-pcc.md)
 
 ## Examples
 - **PBL teams with role rotation and team charters** — interdependent roles (facilitator, recorder, skeptic) with individual deliverables prevent free-riding while building team cohesion.

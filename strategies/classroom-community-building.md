@@ -58,9 +58,11 @@ Community building supports learning indirectly but powerfully: sense of belongi
 6. Signal belonging explicitly at high-stakes moments (before exams, after early struggles) — normalizing difficulty as common and temporary [Belonging interventions improve academic outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M].
 
 ## Related Strategies
+
 - [Cooperative Learning](cooperative-learning.md) — structured positive interdependence is the workhorse mechanism through which community becomes academic
 - [Discussion-Based Learning](discussion-based-learning.md) — depends on the psychological safety that community building establishes
 - [Check-In](../elements/check-in.md) — the recurring micro-practice that maintains relational ties
+- [Build faculty-staff connections and peer community to support persistence of teacher education students](faculty-connections-support-persistence-pcc.md)
 
 ## Examples
 - **PBL networks** (e.g., problem-based learning in medical curricula such as at McMaster and Maastricht) use persistent small tutorial groups whose repeated interdependent work builds strong cohort community alongside content learning.

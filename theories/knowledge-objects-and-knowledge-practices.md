@@ -39,9 +39,11 @@ This is a distinct lens from [boundary crossing](boundary-crossing-learning.md):
 - [Organization simulation knowledge practices support interdisciplinary learning](../claims/organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) [+M]
 
 ## Related Theories
+
 - [Boundary Crossing Learning](boundary-crossing-learning.md) — a related but distinct object-centered lens; see Description above for the distinction
 - [Ecological Paradigm of Interdisciplinary Learning](ecological-paradigm-of-interdisciplinary-learning.md) — this framework operationalizes that paradigm's pedagogy-dilemma emphasis on co-created artifacts as visible, negotiable objects
 - [Epistemic Games](epistemic-games.md) — both analyze the moment-to-moment moves interdisciplinary teams use to build shared understanding, at different grains: knowledge practices trace how a project-length artifact evolves, while epistemic games trace short, game-like interaction sequences
+- [Shared epistemic agency framework for analyzing knowledge creation in collaborative design](shared-epistemic-agency-framework-kc-design.md)
 
 ## Examples
 - [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — the pattern this framework was developed to analyze, tracing how student teams built a client offer across six weeks

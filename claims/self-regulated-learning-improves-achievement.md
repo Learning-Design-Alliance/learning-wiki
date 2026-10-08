@@ -206,3 +206,7 @@ Open questions that evidence entries should address include: which strategy fami
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
 - [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](students-deficient-monitoring-maintaining-plan.md) — a narrower finding that bears on this claim
+- [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
+- [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — a narrower finding that bears on this claim
+- [Metacognitive activity alone does not equate to effective regulation; unaccompanied metacognitive processes may be counterproductive](metacognitive-alone-not-effective-regulation.md) — related
+- [A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom](multiple-scaffolds-dls-achievement-srl.md) — a narrower finding that bears on this claim

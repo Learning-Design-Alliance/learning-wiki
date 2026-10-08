@@ -110,3 +110,4 @@ Concrete load-reduction levers documented elsewhere in this wiki include [chunki
 - [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](teachers-use-clt-principles-despite-ignorance.md) — related
 - [A meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes](spatial-contiguity-meta-analysis-36-studies.md) — possibly the same claim (merge candidate)
 - [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
+- [Reported limitations of AR enhanced analytics include cognitive overload from immersive environments, technological constraints, usability challenges, and inconsistent measurement approaches](ar-analytics-limitations-cognitive-overload-inconsistency.md) — related

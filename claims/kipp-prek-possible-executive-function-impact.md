@@ -46,3 +46,4 @@ Listed among the report's key findings as a possible, hedged impact on executive
 - [KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school](kipp-prek-added-reading-benefit-beyond-elementary.md) — related
 - [KIPP Pre-K combined with KIPP early elementary school has positive, statistically significant impacts on reading and math achievement after five years](kipp-prek-elementary-five-year-reading-math-impacts.md) — related
 - [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related
+- [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](prek-small-positive-social-emotional-executive-emotion.md) — related

@@ -66,3 +66,4 @@ Mann–Whitney U comparison of mean attempts per quiz (students had up to six at
 - [Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users](epsrl-higher-course-completion-deadline-rate.md) — related
 - [Students who use the ePSRL Management System post more scaffold reflections and self-reflections per month than non-users](epsrl-increases-metacognitive-reflection-posts.md) — related
 - [Students who use the ePSRL Management System spend more time learning per month and complete the course in fewer months than non-users](epsrl-increases-learning-motivation-time-and-speed.md) — related
+- [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related

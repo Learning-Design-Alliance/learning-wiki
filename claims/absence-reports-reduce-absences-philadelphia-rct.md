@@ -51,3 +51,4 @@ Randomized evaluation by Rogers & Feller (2018) in Philadelphia elementary and s
 - [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related
 - [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
+- [Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19](elementary-schools-larger-absenteeism-increases.md) — related

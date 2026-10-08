@@ -53,7 +53,8 @@ Khanmigo is a GenAI-based educational app launched in 2022 by Khan Academy, powe
 - [Khanmigo partially supports the practicality criterion: affordable subscription, user-friendly interface, portability, and teacher monitoring, but paid access limits some learners](../claims/khanmigo-practicality-partially-supported.md) [~W]
 
 ## Related Elements
-- 
+
+- [Web-based GAI chatbot with instructor-facing learning analytics dashboard](gai-socratic-chatbot-with-instructor-dashboard.md)
 
 ## Examples
 -

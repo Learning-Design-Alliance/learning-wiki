@@ -61,9 +61,11 @@ Relationship quality is one of the most consistently documented classroom influe
 6. Monitor for inequity — audit which students you have genuine connections with and deliberately invest in those you have drifted from.
 
 ## Related Strategies
+
 - [Classroom Community Building](classroom-community-building.md) — extends dyadic teacher–student bonds to peer-level belonging
 - [Restorative Practices](restorative-practices.md) — the conflict-repair mechanism that protects relationships under strain
 - [Warm Demander Pedagogy](warm-demander-pedagogy.md) — the stance combining high expectations with high support
+- [Build faculty-staff connections and peer community to support persistence of teacher education students](faculty-connections-support-persistence-pcc.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — structures the school day around relationship-building routines such as morning meetings and teacher language practices.

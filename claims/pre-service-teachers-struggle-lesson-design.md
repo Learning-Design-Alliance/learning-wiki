@@ -48,3 +48,4 @@ The article cites prior Thai studies (Pornviriyasakul 2011; Chaowakiratipong 201
 - [Instructional design competence of pre-service teachers comprises knowledge, ability, and personal attributes dimensions](idc-competence-three-dimensions-validated.md) — related
 - [Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation](reasons-for-choosing-strategies-methods-techniques.md) — related
 - [Many students in the digital-images inquiry found identifying engineering tradeoffs difficult despite the budget constraint design](students-found-tradeoffs-difficult-in-inquiry.md) — related
+- [Teachers pose inquiry questions mostly about their students, not their own teaching, indicating teaching data remains a novel concept](teachers-inquiry-questions-focus-on-students-not-teaching.md) — related

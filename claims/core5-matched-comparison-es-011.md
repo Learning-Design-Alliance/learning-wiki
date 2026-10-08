@@ -45,3 +45,4 @@ A matched-comparison study of over 6,000 Core5 students in grades 3-5 during the
 ## Related Claims
 - [Across four studies of Lexia Core5, the average effect size on reading outcomes is +0.16](core5-average-es-016-four-studies.md) — a broader claim this one bears on
 - [Core5 use for one year yields significantly higher MAP reading scores than control for K-5 special education students (ES = +0.23)](core5-higher-map-scores-special-education.md) — related
+- [Of 18 reviewed Tier 2 literacy interventions, three had at most promising evidence and 12 had uncertain evidence of effects](most-tier2-interventions-uncertain-or-promising-evidence.md) — related

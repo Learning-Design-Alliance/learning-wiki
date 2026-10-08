@@ -51,6 +51,7 @@ The article presents activity theory as a socio-cultural and historical lens for
 - [Activity theory models learning as participation in a collective activity system whose elements dynamically interact](activity-system-model-l2-writing.md)
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md)
 - [Activity theory: a mediated activity system framework for analyzing cognition in context](activity-theory-mediated-activity-system.md)
+- [AR enhanced analytics as a constructivist-, experiential-, and cognitively-grounded integration of AR technology with learning analytics](ar-enhanced-analytics-framework.md)
 
 ## Examples
 

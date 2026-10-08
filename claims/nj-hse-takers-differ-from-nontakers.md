@@ -44,3 +44,4 @@ Observational comparison of administrative records for New Jersey students who w
 
 ## Related Claims
 - [GED takers had higher grade 8 test scores and were more likely White and less likely lunch-eligible than HiSET and TASC takers](nj-ged-takers-stronger-grade8-background.md) — related
+- [Teachers who were White, female, or had five or more years of experience scored about 14 percentage points higher; emergency-certified teachers scored 14 points lower](ct-pck-group-score-differences.md) — related

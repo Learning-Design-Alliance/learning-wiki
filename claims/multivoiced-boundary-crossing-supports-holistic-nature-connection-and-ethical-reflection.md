@@ -52,3 +52,4 @@ This is a single, small, intensive case (6 students, one week, one school) with 
 - [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related
 - [Contact between societies does not by itself produce cross-cultural understanding](contact-does-not-yield-understanding.md) — related
 - [Student reflections following the trips are reported by the authors as a source of outcomes beyond the completed surface projects](student-reflections-outcomes-beyond-projects.md) — related
+- [Students using an AR system for plant study showed higher learning motivation than a control group](arflora-ar-higher-motivation-plant-study.md) — related

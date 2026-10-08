@@ -43,7 +43,8 @@ GBSRI integrates three genre-based teaching-learning cycles (Macken-Horarik 2002
 - [Gbsri Positive Student Opinions Stage Ratings](../claims/gbsri-positive-student-opinions-stage-ratings.md) [+M]
 
 ## Related Theories
-- 
+
+- [Three-phase SRL scaffolding framework (planning, task execution, post-task reflection) operationalized across iterative design cycles](three-phase-srl-chatbot-scaffolding-framework.md)
 
 ## Examples
 -

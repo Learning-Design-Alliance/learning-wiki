@@ -62,9 +62,11 @@ West's (2014) Communities of Innovation (COI) framework identifies characteristi
 - [Community of Inquiry](../principles/community-of-inquiry.md) — shares an interest in productive group discourse, though COI targets creative/innovative output specifically rather than inquiry and sensemaking generally
 
 ## Examples
+
 - Google's "20% time" policy, credited with producing AdSense, Gmail, and Google News through hacker-motivated, self-directed projects
 - IDEO's studio structure — flat organization, rapid prototyping of products, spaces, and team structures themselves
 - BYU's Center for Animation studio, where biweekly student-run critique sessions over a year and a half drove collaborative innovation on an animated short
+- [Use prototyping tasks to help students unfamiliar with design-mode thinking share incomplete ideas](../strategies/prototyping-tasks-for-design-mode-thinking-novices.md)
 
 ## Key Sources
 - West, R. E. (2018). Communities of innovation: Individual, group, and organizational characteristics leading to greater potential for innovation. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/communities_of_innovation](https://edtechbooks.org/lidtfoundations/communities_of_innovation) (originally published in *TechTrends, 58*(5), 53–61.)

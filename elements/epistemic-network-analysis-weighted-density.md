@@ -49,7 +49,8 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 - [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](../claims/segmentation-boundaries-differentially-affect-statistics.md) [+W]
 
 ## Related Elements
-- 
+
+- [Combined tSSNA and ONA method for analyzing collaborative knowledge creation processes](tssna-ona-combined-method-kc-analysis.md)
 
 ## Examples
 

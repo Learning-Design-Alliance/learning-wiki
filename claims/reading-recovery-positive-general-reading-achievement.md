@@ -67,3 +67,4 @@ The effectiveness summary states that "three studies with strong designs reporte
 - [Reading Recovery shows uncertain effects on general academic achievement ten years after the intervention](reading-recovery-uncertain-longterm-academic-achievement.md) — related
 - [Reading Recovery shows uncertain effects on mathematics achievement three years after the intervention](reading-recovery-uncertain-mathematics-achievement.md) — related
 - [Reading Go! showed positive but not statistically significant effects on reading comprehension](reading-go-comprehension-positive-not-significant.md) — related
+- [Reading Recovery shows strong ESSA evidence of positive effects on general literacy achievement and moderate evidence on academic dispositions for grade 1 students](reading-recovery-strong-evidence-literacy-achievement.md) — related

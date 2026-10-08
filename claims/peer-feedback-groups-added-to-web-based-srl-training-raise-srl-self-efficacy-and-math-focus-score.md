@@ -71,3 +71,4 @@ Same planned contrasts on the mathematics focus score (ten self-chosen chapters)
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
 - [Training SRAE facilitators significantly increased their self-reported knowledge of self-regulation](srae-co-regulation-training-increases-self-regulation-knowledge.md) — related
 - [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](srl-interventions-increase-logged-time-investment-online-math-prep-course.md) — related
+- [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related

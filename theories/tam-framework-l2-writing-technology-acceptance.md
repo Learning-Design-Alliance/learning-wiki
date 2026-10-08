@@ -50,7 +50,8 @@ The study applies the Technology Acceptance Model, adapted from Venkatesh and Da
 - [Meta-UTAUT model of technology acceptance applied to MALL in EFL learning](meta-utaut-model-mall-efl.md)
 
 ## Examples
--
+
+- [TAM-grounded post-session survey instrument with five domains and 15 open-ended questions](../elements/tam-five-domain-wat-c-survey-instrument.md)
 
 ## Key Sources
 - Johnson, C., & Cardoso, W. (2021). Speaking to write: examining language learners’ acceptance of automatic speech recognition as a writing tool. In N. Zoghlami et al. (Eds), CALL and professionalisation: short papers from EUROCALL 2021 (pp. 167-171). Research-publishing.net. https://doi.org/10.14705/rpnet.2021.54.1327

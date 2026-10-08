@@ -47,3 +47,4 @@ Information comparison study (Research Report 77-7) administering conventional a
 - [One- and two-parameter ICC scoring yields highly similar achievement estimates, while the three-parameter model reduces similarity, especially for adaptive test data](icc-scoring-methods-estimate-similarity.md) — related
 - [Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items](adaptive-tests-equal-validity-fewer-items.md) — related
 - [An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality](inter-subtest-branching-halves-battery-length.md) — related
+- [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](cmi-ela-test-precision-declines-above-40th-percentile.md) — related

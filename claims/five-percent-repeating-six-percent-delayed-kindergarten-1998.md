@@ -47,3 +47,4 @@ Descriptive prevalence finding from the Early Childhood Longitudinal Study, Kind
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related
 - [At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time](repeaters-lower-reading-math-end-first-grade.md) — related
 - [At the end of first grade, children whose kindergarten entry was delayed demonstrated slightly higher reading knowledge and skills than those who started on time](delayed-entrants-slightly-higher-reading-first-grade.md) — related
+- [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related

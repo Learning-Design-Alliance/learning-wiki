@@ -94,7 +94,9 @@ The literature offers no single sequence. This composite follows the stages Bann
 - [Humanizing Co-Design with Educators](humanizing-co-design-with-educators.md) — a collaborative design process with practitioners as partners
 
 ## Examples
+
 - *The Journal of the Learning Sciences* 13(1) (2004), which carries two of the papers the chapter leans on most: Barab and Squire (2004) and Collins, Joseph and Bielaczyc (2004)
+- [Four design insights for GAI chatbots supporting SRL: real-time personalization, warm language, platform integration, and course-content embedding](../strategies/four-design-insights-gai-chatbots-srl.md)
 
 ## Key Sources
 - Christensen, K. D. N., & West, R. E. (2018). The development of design-based research. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 323–339). EdTech Books. https://edtechbooks.org/lidtfoundations/development_of_design-based_research

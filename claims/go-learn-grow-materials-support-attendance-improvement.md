@@ -48,3 +48,4 @@ This is the publisher page's own descriptive assertion about the toolkit, offere
 - [Regular attendance in preschool and kindergarten is presented as important for future school success](early-attendance-preschool-kindergarten-future-success.md) — related
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
+- [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related

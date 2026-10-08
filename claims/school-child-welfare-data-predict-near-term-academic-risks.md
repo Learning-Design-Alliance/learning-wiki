@@ -48,3 +48,4 @@ This fact sheet, published by the Regional Educational Laboratory Mid-Atlantic, 
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](risk-model-assessed-two-allegheny-agencies.md) — possibly the same claim (merge candidate)
 - [Near-term academic problems targeted include absenteeism, suspensions, poor grades, and low state-test performance](near-term-academic-problem-types-defined.md) — a narrower finding that bears on this claim
 - [The report examines how in-school and out-of-school predictors relate individually to each type of near-term academic problem](in-school-out-of-school-predictors-examined.md) — related
+- [Predictive models built in a modelable ecosystem generalize across institutions](cross-institutional-generalizability-coursekata-models.md) — related

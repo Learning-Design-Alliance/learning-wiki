@@ -72,3 +72,4 @@ For learning designers, the practical implication is risk management, not exploi
 - [Brief empathic discipline intervention cuts suspensions.](brief-intervention-empathic-discipline-cuts-suspensions.md) — shifting teacher mindsets changes student-facing behavior and outcomes
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) — related
 - [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related
+- [Students raised concerns that performance forecasts cannot capture personal circumstances affecting study](forecast-concerns-personal-circumstances.md) — related

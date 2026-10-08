@@ -46,3 +46,4 @@ The evidence summary synthesizes four studies of Core5 with a total of 17,281 st
 - [Core5 students in grades 3-5 showed significantly larger reading achievement gains than a matched comparison group (ES = +0.11)](core5-matched-comparison-es-011.md) — a narrower finding that bears on this claim
 - [Core5 use for one year yields significantly higher MAP reading scores than control for K-5 special education students (ES = +0.23)](core5-higher-map-scores-special-education.md) — a narrower finding that bears on this claim
 - [Teachers in a 2006 study reported high satisfaction with Core5, averaging 8.5 of 10 points on motivation items](core5-teacher-satisfaction-survey-2006.md) — related
+- [Of 18 reviewed Tier 2 literacy interventions, three had at most promising evidence and 12 had uncertain evidence of effects](most-tier2-interventions-uncertain-or-promising-evidence.md) — related

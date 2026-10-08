@@ -45,3 +45,4 @@ WWC synthesis of May et al. (2015), a low-attrition randomized controlled trial 
 - [Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial](reading-recovery-potentially-positive-reading-fluency.md) — related
 - [Reading Recovery improves receptive communication skills immediately after the intervention, with promising evidence from one small quasi-experimental study](reading-recovery-improves-receptive-communication.md) — related
 - [Reading Recovery improves writing productivity immediately after the intervention, with promising evidence from one small quasi-experimental study](reading-recovery-improves-writing-productivity.md) — related
+- [Reading Recovery shows strong ESSA evidence of positive effects on general literacy achievement and moderate evidence on academic dispositions for grade 1 students](reading-recovery-strong-evidence-literacy-achievement.md) — related

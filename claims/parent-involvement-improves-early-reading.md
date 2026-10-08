@@ -90,3 +90,4 @@ This meta-analysis isolates the "added value" of dialogic (interactive) shared r
 - [Parents play an important role in young children's math development](parents-role-early-math-development.md) — related
 - [The BELL summer program increases the extent to which parents encourage their children to read during the subsequent school year](bell-summer-program-increases-parent-reading-encouragement.md) — a narrower finding that bears on this claim
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related
+- [Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources](ece-larger-benefits-children-most-in-need.md) — related

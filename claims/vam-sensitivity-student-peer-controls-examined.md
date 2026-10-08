@@ -64,3 +64,4 @@ The publication abstract states the paper's purpose: examining sensitivity and p
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
 - [The number of schools in a study would have to nearly double to compensate for the precision lost by using school-level proficiency instead of student-level data](nearly-double-schools-compensate-school-level-data.md) — related
 - [Overall false positive and false negative error rates in teacher value-added performance classification are about 10 and 20 percent, respectively](value-added-false-positive-negative-rates-10-20-percent.md) — related
+- [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related

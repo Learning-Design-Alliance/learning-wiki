@@ -52,3 +52,4 @@ A randomized control trial assigned 31 teachers teaching nearly 1500 6th-12th gr
 - [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](absence-reports-philadelphia-rct-es-019.md) — related
 - [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
+- [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related

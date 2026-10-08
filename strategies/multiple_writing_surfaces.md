@@ -61,9 +61,11 @@ Writable surfaces enact [Active Learning](../principles/active-learning.md) by c
 6. Preserve valuable work by photographing or transferring it into durable notes or portfolios ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — surface writing extends the "share" phase into a public, inspectable artifact
 - [Gallery Walk](gallery-walk.md) — a structured rotation over multiple writing surfaces for peer review
 - [Jigsaw](jigsaw.md) — surface work gives expert groups a shared space to prepare their segment
+- [Use prototyping tasks to help students unfamiliar with design-mode thinking share incomplete ideas](prototyping-tasks-for-design-mode-thinking-novices.md)
 
 ## Examples
 - **Building Thinking Classrooms (Peter Liljedahl)** — mathematics classrooms using vertical non-permanent surfaces with one marker per group; documented increases in persistence and engagement across hundreds of observed classrooms ([Liljedahl's site](https://www.peterliljedahl.com)).

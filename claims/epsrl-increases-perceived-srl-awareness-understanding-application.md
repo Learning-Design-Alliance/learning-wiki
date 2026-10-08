@@ -86,3 +86,4 @@ Wilcoxon Signed-Ranks pre-post comparison of perceived likelihood of applying se
 - [Students who use the ePSRL Management System spend more time learning per month and complete the course in fewer months than non-users](epsrl-increases-learning-motivation-time-and-speed.md) — related
 - [Using the ePSRL Management System shows no significant difference in mean assessment results or mean attempts per quiz between users and non-users](epsrl-no-difference-assessment-results-quiz-attempts.md) — related
 - [Training SRAE facilitators significantly increased their self-reported knowledge of self-regulation](srae-co-regulation-training-increases-self-regulation-knowledge.md) — related
+- [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related

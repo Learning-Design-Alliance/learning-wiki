@@ -68,3 +68,4 @@ Randomized controlled trial of 72 four- and five-year-olds in two Midwestern com
 - [Bright Beginnings shows a substantively important positive effect on the TERA-3 print knowledge measure (effect size 0.32) but no discernible effect on the print knowledge domain overall](bright-beginnings-print-knowledge-tera3-mixed.md) — related
 - [Phonological Awareness Training has positive effects on phonological processing in preschool children, averaging +27 percentile points](phonological-awareness-training-positive-effects-phonological-processing.md) — related
 - [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related
+- [Teaching phonological awareness and print knowledge improved early writing performance with or without early writing instruction](pa-pk-improve-early-writing.md) — related

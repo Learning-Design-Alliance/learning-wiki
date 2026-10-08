@@ -45,3 +45,4 @@ Ethnographic observation of the momentum labs in both years by a supporting facu
 ## Related Claims
 - [Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class](real-time-data-collection-increases-modeling-physics-learning.md) — related
 - [Students who experienced the technology-enhanced class were far more favorable toward technology (76.0%) than no-technology students (20.4%)](student-survey-favorable-toward-lab-technology.md) — related
+- [A tablet-based AR app displaying real-time measurement data above circuit components aided conceptual knowledge acquisition more effectively than traditional physics lab lessons](ar-realtime-measurement-aids-conceptual-knowledge-physics.md) — related
