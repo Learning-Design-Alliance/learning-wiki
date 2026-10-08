@@ -53,3 +53,4 @@ Qualitative analysis of transcript episodes in which students described shorter 
 - [Coordinating attention between whole-strip length and dot spacing does not disrupt and may stabilize the idea that shorter strips take less time](part-whole-coordination-preserves-initial-idea.md) — related
 - [Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking](synchronized-interactional-behaviors-stabilize-activity.md) — related
 - [Spreading activation's semantic distance effect is inconsistent: a cow is verified faster as an animal than as a mammal despite semantic distance](spreading-activation-semantic-distance-inconsistency.md) — related
+- [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](linguistic-coherence-predicts-productive-collaboration.md) — related

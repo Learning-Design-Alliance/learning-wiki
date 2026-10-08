@@ -48,3 +48,4 @@ Descriptive summarisation of usability and acceptability questionnaires complete
 - [The KOKU digital programme improves balance function at 12 weeks compared with standard care in community-dwelling older adults, with the effect increasing over time](koku-improves-balance-12-weeks-older-adults.md) — related
 - [KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate](koku-secondary-outcomes-mixed.md) — related
 - [Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams](high-student-satisfaction-concept-diagrams.md) — related
+- [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](thermos-lad-sus-good-excellent-usability.md) — related

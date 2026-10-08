@@ -46,3 +46,4 @@ Site visit findings on how rural context shaped the SIG requirement to increase 
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — a broader claim this one bears on
 - [Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement](rural-transportation-barriers-parent-involvement.md) — related
 - [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — a broader claim this one bears on
+- [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related

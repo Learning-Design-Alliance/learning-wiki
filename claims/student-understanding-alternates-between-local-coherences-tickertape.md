@@ -76,3 +76,4 @@ Case study of one group of four students in an introductory physics tutorial, ba
 - [Contextual micro-features (worksheet wording, salient length differences, matching part-whole structure) support persistence of the less-distance-implies-less-time intuition](contextual-features-stabilize-distance-time-inference.md) — related
 - [The colloquial ambiguity of the words short and long in a worksheet question sustains the intuition that less distance implies less time](worksheet-wording-sustains-less-distance-less-time.md) — related
 - [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — related
+- [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](linguistic-coherence-predicts-productive-collaboration.md) — related

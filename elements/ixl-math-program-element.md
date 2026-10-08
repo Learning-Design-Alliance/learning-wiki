@@ -47,6 +47,7 @@ IXL Math is "a comprehensive personalized teaching and learning program supporti
 
 - [Exact Path Proficiency + Exact Path Growth digital learning system](exact-path-proficiency-growth-program.md)
 - [Edmentum Exact Path Growth personalized learning program](exact-path-growth-program-element.md)
+- [i-Ready digital learning platform with adaptive diagnostic and personalized instruction](i-ready-platform-element.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Victim–nonvictim comparison from the 2013 School Crime Supplement on fear of a
 - [The 2013 SCS report also covers gangs, weapons, drugs, alcohol, bullying, cyberbullying, and avoidance behaviors at school](scs-2013-report-scope-gangs-weapons-drugs-bullying-avoidance.md) — related
 - [Victims of any crime at school reported being bullied at far higher rates than nonvictims (57 percent vs. 20.4 percent)](victims-bullied-57-vs-nonvictims-20-4.md) — related
 - [Victimized students reported negative school conditions at higher rates than nonvictims](victims-report-negative-school-conditions-higher-rates.md) — a broader claim this one bears on
+- [The effects of attending a bullying-reducing school on graduation are larger for students with a history of victimization](bullying-reduction-effects-larger-for-prior-victimized-students.md) — related

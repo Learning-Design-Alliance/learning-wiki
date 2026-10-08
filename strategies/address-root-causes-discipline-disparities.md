@@ -43,6 +43,7 @@ The report recommends that, given persistent disproportionality in exclusionary 
 - [Restorative Approaches](restorative-approaches.md)
 - [Political Education](political_education.md)
 - [Restorative Practices](restorative_practices.md)
+- [Replace exclusionary discipline with restorative practices and implement data-driven attendance monitoring](restorative-practices-attendance-monitoring-strategy.md)
 
 ## Examples
 -

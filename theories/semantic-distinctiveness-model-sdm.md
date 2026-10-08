@@ -48,7 +48,8 @@ The SDM is a distributional model of lexical semantics that incorporates an atte
 - [Expectancy-congruency learning mechanism updating lexical representations from context fit](expectancy-congruency-learning-mechanism.md)
 
 ## Examples
--
+
+- [Develop a math word problem corpus to establish a semantic space for evaluating new problems' readability](../strategies/mwp-corpus-semantic-space-strategy.md)
 
 ## Key Sources
 - Johns, B. T., Dye, M., & Jones, M. N. (2016). The influence of contextual diversity on word learning. Psychonomic Bulletin & Review. https://doi.org/10.3758/s13423-015-0980-7

@@ -62,6 +62,7 @@ Anticipating obstacles is most effective when it is tied to specific response pl
 - **Premortem Analysis** — a specific, high-yield technique for step 2
 - **Self-Monitoring** — the enactment-phase counterpart that detects obstacles as they arise
 - [Investigate potential barriers to implementation and replication when documenting a successful program](investigate-implementation-replication-barriers.md)
+- [Use premortem analysis before implementing a reform to surface success factors and roadblocks](premortem-analysis-before-reform.md)
 
 ## Examples
 - **MCII in schools**: Oettingen's mental-contrasting curricula have students name their wish, visualize the best outcome, identify their biggest internal obstacle, and write an if-then plan — improving effort and grades relative to positive-thinking-only controls.

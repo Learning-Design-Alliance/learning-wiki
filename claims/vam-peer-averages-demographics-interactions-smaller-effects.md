@@ -49,3 +49,4 @@ Comparative analysis across VAM specification variations, including the two vari
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
+- [Academic and behavioral classroom factors, not student demographics, drive the effect of composition on evaluator ratings](academic-behavioral-factors-drive-rating-effect.md) — related

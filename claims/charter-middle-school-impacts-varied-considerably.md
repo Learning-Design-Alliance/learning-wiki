@@ -59,3 +59,4 @@ Findings from the lottery-based study of 33 charter middle schools across 13 sta
 - [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — related
 - [Lottery-based charter middle schools show no average difference from traditional public schools in student behavior and school progress](charter-middle-schools-no-average-behavior-progress-difference.md) — related
 - [Impacts of charter middle schools on student outcomes varied widely across schools](charter-school-impacts-varied-widely-across-schools.md) — possibly the same claim (merge candidate)
+- [More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages](gap-busting-charter-schools-exceed-state-averages.md) — reports the opposite

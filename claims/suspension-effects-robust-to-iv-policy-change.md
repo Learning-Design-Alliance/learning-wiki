@@ -45,3 +45,4 @@ Instrumental variable analysis leveraging a district-wide policy change in suspe
 ## Related Claims
 - [A suspension decreases math and reading achievement for suspended students](suspension-decreases-suspended-student-achievement.md) — related
 - [District math and English language arts achievement declined in Philadelphia following the discipline policy reform](philadelphia-reform-math-ela-achievement-declined.md) — related
+- [Referrals showed significant negative associations with math growth in grades 2 and 4, but weaker and less consistent effects in reading](referrals-negative-math-growth-inconsistent-reading.md) — related

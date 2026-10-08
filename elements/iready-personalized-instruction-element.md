@@ -49,6 +49,7 @@ i-Ready Personalized Instruction uses information from the i-Ready Diagnostic to
 - [i-Ready Connect digital platform for teacher-facing content, with browser, SSO, and third-party integration requirements](iready-connect-platform-technology.md)
 - [Pathblazer: supplemental online individualized intervention for struggling K–8 learners in mathematics and reading](pathblazer-online-intervention-element.md)
 - [Edmentum Exact Path: computer-adaptive supplemental program supporting instruction and assignment](edmentum-exact-path-adaptive-program.md)
+- [i-Ready digital learning platform with adaptive diagnostic and personalized instruction](i-ready-platform-element.md)
 
 ## Examples
 

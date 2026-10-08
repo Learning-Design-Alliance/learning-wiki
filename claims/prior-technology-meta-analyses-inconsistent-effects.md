@@ -44,3 +44,4 @@ The review reports, citing Talan (2020), a meta-analysis of mobile learning acro
 
 ## Related Claims
 - [Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device](mobile-devices-small-positive-effect-literacy-numeracy.md) — reports the opposite
+- [Math shows slower recovery than reading in the full meta-analysis](math-slower-recovery-than-reading.md) — related

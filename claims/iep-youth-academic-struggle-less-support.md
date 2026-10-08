@@ -50,3 +50,4 @@ The report's key findings state that "Youth with an IEP are more likely than you
 - [Youth with an IEP are more likely than their peers to be socioeconomically disadvantaged and to face problems with health, communication, and completing typical tasks independently](iep-youth-socioeconomic-and-functional-challenges.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
 - [Youth with an IEP lag their peers in planning and taking steps to obtain postsecondary education and jobs](iep-youth-lag-postsecondary-planning.md) — related
+- [Parents of students with IEPs share a common vision of an ideal school that is safe, supportive, academically strong, and inclusive with needed supports](iep-parents-shared-ideal-school-vision.md) — related

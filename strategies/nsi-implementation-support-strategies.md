@@ -40,7 +40,8 @@ The report's implications section recommends actions for intermediaries and scho
 - [Nsi Conceptual Framework Networked Ci](../theories/nsi-conceptual-framework-networked-ci.md)
 
 ## Related Strategies
-- 
+
+- [Pursue continuous collaboration between digital learning platform providers and school districts, with teacher training, to interconnect platform use with instruction](provider-district-collaboration-for-dlp-use.md)
 
 ## Examples
 -

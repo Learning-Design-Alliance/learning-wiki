@@ -12,7 +12,7 @@ generated:
 # User-Centered Design for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Learning technologies fail not only when the pedagogy is wrong, but when the interface itself creates barriers — a learner who cannot find an assignment or navigate a confusing menu is paying a cognitive cost that has nothing to do with the content being taught (Earnshaw, Tawfik, & Schmidt, 2018). **Usability** describes how easily an interface can be used as intended; **user experience (UX)** is the broader "person's perceptions and responses that result from the use... of a product, system, or service" (ISO, 2010). **User-centered design (UCD)** is the practice of centering users' needs and mental models throughout the design process rather than treating the interface as an afterthought to the pedagogy.
@@ -45,6 +45,7 @@ UCD proceeds iteratively: identifying user needs (often via **personas** — det
 ## Claims
 
 - [Training and technical assistance is most engaging when it is grounded in clear expectations, designed around recipient needs, developed with ongoing recipient input, accessible, delivered by equipped providers, and framed as a partnership](../claims/ta-engagement-six-elements-interviews.md) [+W] — attached 2026-10-08 from Kara Conroy et al. (2021), which proposed "Six-element pattern for engaging training and technical assistance design"; tests this page's relationship.
+- [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](../claims/thermos-lad-sus-good-excellent-usability.md) [+W] — attached 2026-10-08 from de Vreugd et al. (2024), which proposed "Plan an explicit usability exploration and adjustment phase before evaluating a LAD's perceived usefulness".
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — both concern how much support structure a learner needs and when it should be reduced, though scaffolding targets content mastery while UCD targets interface usability

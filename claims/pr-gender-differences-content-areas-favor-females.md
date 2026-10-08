@@ -63,3 +63,4 @@ Gender comparison within the 2005 grade 8 NAEP Puerto Rico mathematics assessmen
 
 ## Related Claims
 - [In 2003, fourth-grade public school students in Puerto Rico scored lower on average in NAEP mathematics than public school students in the nation (179 vs. 234 on the 0–500 scale).](pr-grade4-2003-naep-math-lower-than-nation.md) — related
+- [Gender differences in elementary math vary substantially across subdomains, with early female advantages in Geometry reversing by Grades 3-4](subdomain-specific-gender-patterns-elementary-math.md) — related

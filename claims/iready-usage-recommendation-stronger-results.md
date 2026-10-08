@@ -45,3 +45,4 @@ Dosage subgroup analysis within the same quasi-experimental study, reported in t
 ## Related Claims
 - [In the reviewed RCT, students averaged 21.8 hours of DreamBox usage, below the developer's recommended 90 minutes per week](dreambox-usage-21-8-hours-below-recommended-dose.md) — related
 - [DreamBox Learning produced a statistically significant positive effect on MAP overall math scores for K–1 students](dreambox-positive-effect-map-overall-math-k1.md) — related
+- [Math gains from the CAL program occur in classrooms with at least an average of 35 minutes of practice per week](cal-gains-require-35-minutes-weekly-practice.md) — related

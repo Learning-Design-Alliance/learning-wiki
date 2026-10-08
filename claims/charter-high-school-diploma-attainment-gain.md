@@ -49,3 +49,4 @@ The study's reported headline finding on diploma attainment, comparing charter m
 - [Charter high school attendees experience higher earnings in their mid-20s](charter-high-schools-higher-mid-twenties-earnings.md) — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — a broader claim this one bears on
 - [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — related
+- [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — related

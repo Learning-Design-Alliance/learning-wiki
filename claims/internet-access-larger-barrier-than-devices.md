@@ -46,3 +46,5 @@ The LEA survey found that "Access to reliable Internet connection was a larger b
 - [COVID-19 school closures highlighted the need to understand promising remote learning strategies when no classroom alternatives exist](covid-closures-highlight-remote-learning-strategy-need.md) — related
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related
+- [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — reports the opposite
+- [Student access to devices and internet rose from about 60 percent in March 2020 to at least 98 percent by March 2021](student-device-internet-access-near-universal.md) — related

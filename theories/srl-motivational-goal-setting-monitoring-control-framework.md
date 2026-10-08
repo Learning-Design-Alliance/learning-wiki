@@ -44,6 +44,7 @@ The review frames self-regulated learning as a cognitive-motivational approach i
 ## Related Theories
 
 - [Pintrich's four-phase, four-area paradigm of self-regulated learning](pintrich-srl-four-phase-paradigm.md)
+- [Learning readiness as an operationalization of self-regulated learning (SRL)](learning-readiness-srl-operationalization.md)
 
 ## Examples
 -

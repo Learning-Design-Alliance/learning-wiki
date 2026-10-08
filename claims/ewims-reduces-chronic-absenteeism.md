@@ -50,3 +50,4 @@ A randomized evaluation by Faria et al. (2017) assigned 73 high schools in three
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
 - [Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19](elementary-schools-larger-absenteeism-increases.md) — related
+- [Attendance rate was a strong positive predictor of both math and reading growth across all grades](attendance-strong-predictor-growth-all-grades.md) — related

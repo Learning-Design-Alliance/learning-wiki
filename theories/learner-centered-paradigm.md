@@ -56,8 +56,10 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md) — differentiated instruction under this paradigm still relies on scaffolding calibrated to each learner's zone of proximal development
 
 ## Examples
+
 - The Chugach School District (Alaska) systemic transformation to individual learning plans, student assessment binders, and mastery-based graduation standards
 - An "inventory of attainments" progress model (similar to Scouting merit badges) where students move to the next topic upon mastery rather than waiting for the group
+- [Relax the time base of instruction: let students progress at their own pace toward mastery benchmarks](../strategies/relax-time-base-mastery-progression.md)
 
 ## Key Sources
 - Watson, S. L., & Reigeluth, C. M. (2008). The learner-centered paradigm of education. *Educational Technology, 54*(3), 42–48. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/learnercentered_paradigm](https://edtechbooks.org/lidtfoundations/learnercentered_paradigm)

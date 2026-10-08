@@ -89,3 +89,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — a narrower finding that bears on this claim
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
+- [Students in MATHia find it hard to adapt their strategy choices to suit the problem, based on log data from over 600 schools](mathia-students-hard-to-adapt-strategies.md) — related

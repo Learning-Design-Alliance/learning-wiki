@@ -48,6 +48,7 @@ iRCL is described as "a core K–8 math curriculum designed to build conceptual 
 
 - [i-Ready Connect digital platform for teacher-facing content, with browser, SSO, and third-party integration requirements](iready-connect-platform-technology.md)
 - [Curriculum Associates professional development for iRCL: on-site development days and the Online Educator Learning platform](iready-professional-development-offerings.md)
+- [i-Ready digital learning platform with adaptive diagnostic and personalized instruction](i-ready-platform-element.md)
 
 ## Examples
 -

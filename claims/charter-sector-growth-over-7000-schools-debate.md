@@ -46,3 +46,4 @@ Descriptive framing statement from the publication's overview of the charter sch
 - [The charter-school sector has grown to nearly 7,000 schools serving nearly 3 million students since 1992](charter-sector-growth-nearly-7000-schools.md) — related
 - [The charter school sector grew to more than 6,800 schools serving nearly 3 million students across forty states and DC by 2015–16](charter-sector-scale-2015-16.md) — related
 - [Little evidence that Philadelphia charter schools help or harm achievement of students in nearby district schools](philadelphia-charter-no-spillover-nearby-district-schools.md) — a narrower finding that bears on this claim
+- [Demand for Rhode Island charter seats surged, with 30,000 applications submitted for 2,500 available seats in 2024–2025](ri-charter-demand-30000-applications-2500-seats.md) — related

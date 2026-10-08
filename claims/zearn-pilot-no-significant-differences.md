@@ -46,3 +46,4 @@ A matched comparison study conducted during the 2016-17 and 2017-18 school years
 - [Louisiana students using Zearn Math with dedicated implementation support scored significantly higher on LEAP (effect size +0.20)](zearn-louisiana-leap-effect-020.md) — related
 - [Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)](zearn-rct-nwea-map-effect-011.md) — related
 - [Participating schools report more positive teacher and staff perceptions of teaching and learning conditions](safersanschools-improves-teacher-perceptions-conditions.md) — related
+- [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related

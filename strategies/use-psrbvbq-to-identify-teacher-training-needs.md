@@ -39,7 +39,9 @@ The article recommends administering the Romanian version of the PSRBVBQ to teac
 - diagnosing bullying-prevention training needs
 
 ## Related Strategies
+
 - [Psrbvbq Questionnaire](../elements/psrbvbq-questionnaire.md)
+- [Use annual 5Essentials Survey data to identify school-environment strengths and areas to improve for bullying prevention](use-5essentials-data-to-reduce-bullying-fear.md)
 
 ## Examples
 -

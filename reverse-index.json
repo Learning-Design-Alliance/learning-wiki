@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 6132,
+  "claims->claims": 6379,
   "claims->designs": 13,
   "claims->elements": 108,
   "claims->learner-variables": 1,
@@ -9,21 +9,21 @@
   "claims->principles": 118,
   "claims->processes": 3,
   "claims->theories": 205,
-  "designs->claims": 141,
+  "designs->claims": 142,
   "designs->designs": 28,
   "designs->elements": 43,
   "designs->patterns": 22,
   "designs->principles": 10,
   "designs->theories": 21,
-  "elements->claims": 1141,
+  "elements->claims": 1158,
   "elements->designs": 2,
-  "elements->elements": 1020,
+  "elements->elements": 1036,
   "elements->learner-variables": 1,
   "elements->methods": 1,
   "elements->patterns": 248,
   "elements->principles": 315,
   "elements->processes": 1,
-  "elements->theories": 242,
+  "elements->theories": 243,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -68,15 +68,15 @@
   "strategies->patterns": 815,
   "strategies->principles": 1735,
   "strategies->processes": 9,
-  "strategies->theories": 713,
-  "theories->claims": 956,
+  "strategies->theories": 719,
+  "theories->claims": 973,
   "theories->designs": 61,
-  "theories->elements": 233,
+  "theories->elements": 237,
   "theories->methods": 14,
   "theories->patterns": 66,
   "theories->principles": 217,
   "theories->processes": 7,
-  "theories->theories": 791
+  "theories->theories": 800
  },
  "edges": {
   "claims": {
@@ -666,6 +666,9 @@
       "slug": "limited-parental-awareness-of-alternative-aac-systems"
      },
      {
+      "slug": "mastery-platform-effects-uniform-across-demographics"
+     },
+     {
       "slug": "mdc-articulation-null-correlates-paternal-factors"
      },
      {
@@ -1066,6 +1069,9 @@
       "slug": "absence-reports-weighted-mean-strong-rating"
      },
      {
+      "slug": "attendance-strong-predictor-growth-all-grades"
+     },
+     {
       "slug": "barr-reduces-ninth-grade-chronic-absenteeism"
      },
      {
@@ -1280,6 +1286,22 @@
       "polarity": "+",
       "slug": "definite-integral-four-partial-meanings",
       "strength": "W"
+     }
+    ]
+   },
+   "academic-behavioral-factors-drive-rating-effect": {
+    "claims": [
+     {
+      "slug": "classroom-composition-affects-teacher-ratings"
+     },
+     {
+      "slug": "vam-peer-averages-demographics-interactions-smaller-effects"
+     },
+     {
+      "slug": "vam-sensitivity-student-peer-controls-examined"
+     },
+     {
+      "slug": "vam-two-novel-model-variations-tested"
      }
     ]
    },
@@ -5736,6 +5758,32 @@
      }
     ]
    },
+   "adult-sel-measures-not-predicting-student-growth": {
+    "claims": [
+     {
+      "slug": "nslp-participation-associated-lower-growth-goal-attainment"
+     },
+     {
+      "slug": "sample-sel-scores-comparable-original-trust-sample"
+     },
+     {
+      "slug": "teacher-background-characteristics-null-associations-sel"
+     },
+     {
+      "slug": "wellbeing-climate-average-scores-grade-band-differences"
+     },
+     {
+      "slug": "wellbeing-predicts-emotion-regulation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "trust-panorama-adult-sel-survey-instrument",
+      "strength": "W"
+     }
+    ]
+   },
    "adults-faster-early-stage-language-learning": {
     "claims": [
      {
@@ -7320,6 +7368,26 @@
      },
      {
       "slug": "pseo-students-participate-for-unavailable-courses"
+     }
+    ]
+   },
+   "algebra-domain-strongest-predictor-early-math": {
+    "claims": [
+     {
+      "slug": "algebraic-thinking-strongest-cross-domain-predictor"
+     },
+     {
+      "slug": "autoregressive-dominance-domain-prediction"
+     }
+    ]
+   },
+   "algebraic-thinking-strongest-cross-domain-predictor": {
+    "claims": [
+     {
+      "slug": "algebra-domain-strongest-predictor-early-math"
+     },
+     {
+      "slug": "autoregressive-dominance-domain-prediction"
      }
     ]
    },
@@ -11412,6 +11480,16 @@
      }
     ]
    },
+   "attendance-strong-predictor-growth-all-grades": {
+    "claims": [
+     {
+      "slug": "absence-reports-philadelphia-rct-es-019"
+     },
+     {
+      "slug": "ewims-reduces-chronic-absenteeism"
+     }
+    ]
+   },
    "attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer": {
     "claims": [
      {
@@ -11743,6 +11821,174 @@
       "polarity": "~",
       "slug": "willingness-to-communicate-in-l2",
       "strength": "M"
+     }
+    ]
+   },
+   "austin-charter-ell-students-reading-advantage": {
+    "claims": [
+     {
+      "slug": "austin-charter-hispanic-students-reading-advantage"
+     },
+     {
+      "slug": "austin-charter-poverty-students-outperform-district-peers"
+     },
+     {
+      "slug": "austin-charter-vs-district-growth-2018-19"
+     },
+     {
+      "slug": "austin-cmo-vs-independent-charter-growth"
+     },
+     {
+      "slug": "austin-overall-growth-above-state-2018-19"
+     },
+     {
+      "slug": "fort-worth-ell-students-charter-advantage-reading"
+     },
+     {
+      "slug": "houston-ell-charter-advantage-magnet-trails"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
+   "austin-charter-hispanic-students-reading-advantage": {
+    "claims": [
+     {
+      "slug": "austin-charter-ell-students-reading-advantage"
+     },
+     {
+      "slug": "austin-charter-poverty-students-outperform-district-peers"
+     },
+     {
+      "slug": "austin-charter-vs-district-growth-2018-19"
+     },
+     {
+      "slug": "austin-cmo-vs-independent-charter-growth"
+     },
+     {
+      "slug": "fort-worth-hispanic-students-charter-advantage-reading"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
+   "austin-charter-poverty-students-outperform-district-peers": {
+    "claims": [
+     {
+      "slug": "austin-charter-ell-students-reading-advantage"
+     },
+     {
+      "slug": "austin-charter-hispanic-students-reading-advantage"
+     },
+     {
+      "slug": "austin-charter-vs-district-growth-2018-19"
+     },
+     {
+      "slug": "austin-cmo-vs-independent-charter-growth"
+     },
+     {
+      "slug": "fort-worth-charter-beats-district-reading-growth"
+     },
+     {
+      "slug": "fort-worth-poverty-students-charter-advantage-reading"
+     },
+     {
+      "slug": "houston-poverty-charter-beats-district-both-subjects"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
+   "austin-charter-vs-district-growth-2018-19": {
+    "claims": [
+     {
+      "slug": "austin-charter-ell-students-reading-advantage"
+     },
+     {
+      "slug": "austin-charter-hispanic-students-reading-advantage"
+     },
+     {
+      "slug": "austin-charter-poverty-students-outperform-district-peers"
+     },
+     {
+      "slug": "austin-overall-growth-above-state-2018-19"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "M"
+     }
+    ]
+   },
+   "austin-cmo-vs-independent-charter-growth": {
+    "claims": [
+     {
+      "slug": "austin-charter-ell-students-reading-advantage"
+     },
+     {
+      "slug": "austin-charter-hispanic-students-reading-advantage"
+     },
+     {
+      "slug": "austin-charter-poverty-students-outperform-district-peers"
+     },
+     {
+      "slug": "austin-overall-growth-above-state-2018-19"
+     },
+     {
+      "slug": "cmo-schools-advance-reading-math-standalone-reading-only"
+     },
+     {
+      "slug": "fort-worth-cmo-outperforms-independent-charters"
+     },
+     {
+      "slug": "houston-cmo-charters-outgrow-state-independents-null"
+     },
+     {
+      "slug": "newark-cmo-vs-independent-charter-growth"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "M"
+     }
+    ]
+   },
+   "austin-overall-growth-above-state-2018-19": {
+    "claims": [
+     {
+      "slug": "austin-charter-ell-students-reading-advantage"
+     },
+     {
+      "slug": "austin-charter-vs-district-growth-2018-19"
+     },
+     {
+      "slug": "austin-cmo-vs-independent-charter-growth"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "W"
      }
     ]
    },
@@ -12084,6 +12330,9 @@
      },
      {
       "slug": "residual-bias-nonexperimental-estimators"
+     },
+     {
+      "slug": "ri-charter-closure-equity-concern-no-better-alternatives"
      }
     ]
    },
@@ -15634,6 +15883,16 @@
      }
     ]
    },
+   "autoregressive-dominance-domain-prediction": {
+    "claims": [
+     {
+      "slug": "algebra-domain-strongest-predictor-early-math"
+     },
+     {
+      "slug": "algebraic-thinking-strongest-cross-domain-predictor"
+     }
+    ]
+   },
    "auxiliary-hint-task-improves-knowledge-tracing": {
     "claims": [
      {
@@ -15814,6 +16073,9 @@
       "slug": "charter-schools-favorable-graduation-and-college-entry-results"
      },
      {
+      "slug": "credo-cohort1-charter-no-cream-skimming"
+     },
+     {
       "slug": "philadelphia-charter-no-spillover-nearby-district-schools"
      }
     ]
@@ -15951,7 +16213,13 @@
       "slug": "classifiers-beat-zero-rule-baseline-engagement"
      },
      {
+      "slug": "random-forest-best-auc-flagged-problems"
+     },
+     {
       "slug": "svm-outperforms-dt-rf-cognitive-engagement-prediction"
+     },
+     {
+      "slug": "word-count-top-traditional-formulas-unimportant"
      }
     ],
     "theories": [
@@ -17113,6 +17381,26 @@
      {
       "polarity": "+",
       "slug": "building-decision-skills-curriculum",
+      "strength": "W"
+     }
+    ]
+   },
+   "beat-the-odds-under-to-over-transition-rare": {
+    "claims": [
+     {
+      "slug": "growth-status-changeable-sustaining-overperformance-rare"
+     },
+     {
+      "slug": "school-growth-status-unstable-overperforming-hard-to-sustain"
+     },
+     {
+      "slug": "school-level-growth-variation-overperformers"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "school-growth-status-segmentation-approach",
       "strength": "W"
      }
     ]
@@ -18664,6 +18952,47 @@
      {
       "polarity": "+",
       "slug": "working_out_loud",
+      "strength": "M"
+     }
+    ]
+   },
+   "below-grade-students-advance-toward-grade-level-content": {
+    "claims": [
+     {
+      "slug": "dlp-allocates-more-lessons-to-domain-of-need"
+     },
+     {
+      "slug": "on-grade-lesson-share-rises-with-domains-on-grade"
+     },
+     {
+      "slug": "placement-improves-fall-to-spring"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "i-ready-platform-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "bert-predicts-successful-unsuccessful-strategies": {
+    "claims": [
+     {
+      "slug": "mathia-students-hard-to-adapt-strategies"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "bert-strategy-embedding-model-mathia",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "strategy-adaptability-cognitive-flexibility-math",
       "strength": "M"
      }
     ]
@@ -20537,6 +20866,9 @@
      },
      {
       "slug": "edpuzzle-dosage-more-videos-larger-gains"
+     },
+     {
+      "slug": "high-dosage-cal-teachers-buy-in-strategy-monitoring"
      },
      {
       "slug": "ignite-reading-black-students-subgroup-gains"
@@ -22545,6 +22877,41 @@
      }
     ]
    },
+   "bullying-fear-reduction-raises-graduation-rates": {
+    "claims": [
+     {
+      "slug": "bullying-reduction-effects-larger-for-prior-victimized-students"
+     },
+     {
+      "slug": "charter-high-school-diploma-attainment-gain"
+     },
+     {
+      "slug": "charter-high-schools-more-likely-graduate-enroll-college"
+     },
+     {
+      "slug": "charter-schools-positive-attainment-effects"
+     },
+     {
+      "slug": "supportive-environment-predicts-bullying-fear-reduction"
+     }
+    ]
+   },
+   "bullying-reduction-effects-larger-for-prior-victimized-students": {
+    "claims": [
+     {
+      "slug": "bullying-fear-reduction-raises-graduation-rates"
+     },
+     {
+      "slug": "supportive-environment-predicts-bullying-fear-reduction"
+     },
+     {
+      "slug": "victims-fear-attack-higher-than-nonvictims"
+     },
+     {
+      "slug": "victims-report-negative-school-conditions-higher-rates"
+     }
+    ]
+   },
    "bureaucracy-levels-dilemma-icel-equality-reciprocity": {
     "claims": [
      {
@@ -22687,6 +23054,9 @@
      },
      {
       "slug": "governance-integration-enhances-ca-decision-making"
+     },
+     {
+      "slug": "ri-charter-dashboards-reduced-surprise-stress"
      }
     ],
     "elements": [
@@ -22770,6 +23140,26 @@
      }
     ]
    },
+   "cal-gains-require-35-minutes-weekly-practice": {
+    "claims": [
+     {
+      "slug": "cal-teacher-coaching-itt-math-gains-012-022-sd"
+     },
+     {
+      "slug": "high-dosage-cal-teachers-buy-in-strategy-monitoring"
+     },
+     {
+      "slug": "iready-usage-recommendation-stronger-results"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "kwik-cal-teacher-coaching-program",
+      "strength": "W"
+     }
+    ]
+   },
    "cal-learn-evidence-standards-reservations-attrition": {
     "claims": [
      {
@@ -22801,6 +23191,20 @@
      {
       "polarity": "~",
       "slug": "financial-incentives-teen-parents-programs-leap-cal-learn",
+      "strength": "W"
+     }
+    ]
+   },
+   "cal-teacher-coaching-itt-math-gains-012-022-sd": {
+    "claims": [
+     {
+      "slug": "cal-gains-require-35-minutes-weekly-practice"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "kwik-cal-teacher-coaching-program",
       "strength": "W"
      }
     ]
@@ -23728,6 +24132,9 @@
     "claims": [
      {
       "slug": "dynemb-outperforms-dkt-and-bmf-baselines"
+     },
+     {
+      "slug": "random-forest-best-auc-flagged-problems"
      }
     ],
     "elements": [
@@ -25212,6 +25619,9 @@
      },
      {
       "slug": "charter-schools-positive-attainment-effects"
+     },
+     {
+      "slug": "cps-decades-improvement-equitable-gains"
      }
     ],
     "elements": [
@@ -25294,6 +25704,23 @@
      }
     ]
    },
+   "charter-gains-from-existing-schools-not-multilevel": {
+    "claims": [
+     {
+      "slug": "pa-charter-impact-by-grade-configuration"
+     },
+     {
+      "slug": "sc-charter-grade-configuration-differences"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "M"
+     }
+    ]
+   },
    "charter-high-school-college-attendance-gain": {
     "claims": [
      {
@@ -25338,6 +25765,9 @@
    },
    "charter-high-school-diploma-attainment-gain": {
     "claims": [
+     {
+      "slug": "bullying-fear-reduction-raises-graduation-rates"
+     },
      {
       "slug": "charter-attainment-study-florida-chicago-scope"
      },
@@ -25409,6 +25839,9 @@
    },
    "charter-high-schools-more-likely-graduate-enroll-college": {
     "claims": [
+     {
+      "slug": "bullying-fear-reduction-raises-graduation-rates"
+     },
      {
       "slug": "charter-attainment-study-florida-chicago-scope"
      },
@@ -25509,6 +25942,33 @@
      }
     ]
    },
+   "charter-instructional-modes-remote-to-hybrid-shift": {
+    "claims": [
+     {
+      "slug": "charter-schools-remote-transition-35-days"
+     },
+     {
+      "slug": "charter-schools-reported-student-academic-losses"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "charter-school-response-to-the-pandemic-survey",
+      "strength": "W"
+     }
+    ]
+   },
+   "charter-learning-gains-risen-across-credo-studies": {
+    "claims": [
+     {
+      "slug": "charter-students-more-days-learning-reading-math"
+     },
+     {
+      "slug": "cmo-schools-advance-reading-math-standalone-reading-only"
+     }
+    ]
+   },
    "charter-middle-school-impacts-varied-considerably": {
     "claims": [
      {
@@ -25525,6 +25985,9 @@
      },
      {
       "slug": "charter-school-impacts-varied-widely-across-schools"
+     },
+     {
+      "slug": "gap-busting-charter-schools-exceed-state-averages"
      },
      {
       "slug": "kipp-first-report-positive-math-reading-impacts-22-schools"
@@ -25621,6 +26084,9 @@
       "slug": "charter-schools-test-score-impacts-comparable-to-traditional-public-schools"
      },
      {
+      "slug": "gap-busting-charter-schools-exceed-state-averages"
+     },
+     {
       "slug": "kipp-rct-lottery-positive-effects"
      },
      {
@@ -25664,6 +26130,28 @@
      }
     ]
    },
+   "charter-minority-poverty-gains-below-white-peers": {
+    "claims": [
+     {
+      "slug": "credo-cohort1-charter-subgroup-stronger-growth"
+     },
+     {
+      "slug": "gap-busting-charter-schools-exceed-state-averages"
+     },
+     {
+      "slug": "pa-charter-black-poverty-students-reading-gain"
+     },
+     {
+      "slug": "pa-charter-black-students-reading-gain"
+     },
+     {
+      "slug": "ri-charter-gains-black-hispanic-students"
+     },
+     {
+      "slug": "sc-charter-demographic-composition-differs"
+     }
+    ]
+   },
    "charter-offer-and-attendance-impacts-both-negative-nonsignificant": {
     "claims": [
      {
@@ -25681,6 +26169,20 @@
       "polarity": "+",
       "slug": "lottery-based-study-33-charter-middle-schools",
       "strength": "M"
+     }
+    ]
+   },
+   "charter-remote-learning-pd-nearly-universal": {
+    "claims": [
+     {
+      "slug": "teacher-remote-challenges-attention-not-technology"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "charter-school-response-to-the-pandemic-survey",
+      "strength": "W"
      }
     ]
    },
@@ -25764,6 +26266,9 @@
    "charter-schools-positive-attainment-effects": {
     "claims": [
      {
+      "slug": "bullying-fear-reduction-raises-graduation-rates"
+     },
+     {
       "slug": "charter-attainment-study-florida-chicago-scope"
      },
      {
@@ -25800,6 +26305,43 @@
       "polarity": "+",
       "slug": "attainment-based-charter-school-evaluation",
       "strength": "M"
+     }
+    ]
+   },
+   "charter-schools-remote-transition-35-days": {
+    "claims": [
+     {
+      "slug": "charter-instructional-modes-remote-to-hybrid-shift"
+     },
+     {
+      "slug": "planning-timing-no-link-to-instruction-start"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "charter-school-response-to-the-pandemic-survey",
+      "strength": "W"
+     }
+    ]
+   },
+   "charter-schools-reported-student-academic-losses": {
+    "claims": [
+     {
+      "slug": "charter-instructional-modes-remote-to-hybrid-shift"
+     },
+     {
+      "slug": "covid-closures-pennsylvania-learning-loss-equity"
+     },
+     {
+      "slug": "learning-time-decreases-spring-2020"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "charter-school-response-to-the-pandemic-survey",
+      "strength": "W"
      }
     ]
    },
@@ -25861,6 +26403,9 @@
      },
      {
       "slug": "philadelphia-charter-no-spillover-nearby-district-schools"
+     },
+     {
+      "slug": "ri-charter-demand-30000-applications-2500-seats"
      }
     ],
     "theories": [
@@ -25878,6 +26423,47 @@
      },
      {
       "slug": "charter-sector-growth-over-7000-schools-debate"
+     }
+    ]
+   },
+   "charter-special-education-smaller-gains": {
+    "claims": [
+     {
+      "slug": "ri-charter-gains-poverty-sped-ell"
+     },
+     {
+      "slug": "tep-student-population-comparable-to-neighborhood-schools"
+     }
+    ]
+   },
+   "charter-students-more-days-learning-reading-math": {
+    "claims": [
+     {
+      "slug": "charter-learning-gains-risen-across-credo-studies"
+     },
+     {
+      "slug": "cmo-schools-advance-reading-math-standalone-reading-only"
+     },
+     {
+      "slug": "idaho-charter-reading-advantage-math-null"
+     },
+     {
+      "slug": "nm-charter-overall-growth-similar-to-tps"
+     },
+     {
+      "slug": "pa-charter-overall-similar-reading-weaker-math"
+     },
+     {
+      "slug": "ri-charter-positive-gains-reading-math"
+     },
+     {
+      "slug": "ri-charter-students-outperformed-tps-national-studies"
+     },
+     {
+      "slug": "sc-charter-overall-math-weaker-reading-similar"
+     },
+     {
+      "slug": "wa-charter-overall-gains-no-significant-difference"
      }
     ]
    },
@@ -26131,6 +26717,72 @@
       "polarity": "~",
       "slug": "three-phase-srl-chatbot-scaffolding-framework",
       "strength": "M"
+     }
+    ]
+   },
+   "chatgpt-brainstorming-concerns-misalignment-reliability": {
+    "claims": [
+     {
+      "slug": "chatgpt-brainstorming-partner-affordances"
+     },
+     {
+      "slug": "ecree-feedback-less-useful-when-misaligned"
+     },
+     {
+      "slug": "teacher-big-picture-genai-concerns"
+     },
+     {
+      "slug": "teachers-critique-chatgpt-lesson-output"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "chatgpt-teacher-lesson-planning-tool-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "chatgpt-brainstorming-partner-affordances": {
+    "claims": [
+     {
+      "slug": "chatgpt-brainstorming-concerns-misalignment-reliability"
+     },
+     {
+      "slug": "teachers-appreciate-chatgpt-generative-learning-affordances"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "chatgpt-teacher-lesson-planning-tool-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "chatgpt-zero-shot-relevance-extraction-unreliable": {
+    "claims": [
+     {
+      "slug": "curricular-cot-improves-accuracy-larger-models"
+     },
+     {
+      "slug": "llm-accuracy-regression-overestimation-bias"
+     },
+     {
+      "slug": "llm-competency-error-patterns-four-types"
+     },
+     {
+      "slug": "two-stage-relevance-strategy-helps-multi-sentence-variables"
+     },
+     {
+      "slug": "zero-shot-llm-granularity-competency-classification"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "simse-metacognitive-modeling-dataset",
+      "strength": "W"
      }
     ]
    },
@@ -26750,6 +27402,9 @@
      },
      {
       "slug": "tap-raises-teacher-retention-five-points"
+     },
+     {
+      "slug": "teacher-reports-coherence-trust-increased"
      }
     ],
     "elements": [
@@ -32457,6 +33112,26 @@
      }
     ]
    },
+   "class-weighted-loss-marginal-gain-skewed-teaching-ratings": {
+    "claims": [
+     {
+      "slug": "plm-performance-depends-on-pedagogical-expertise-required"
+     },
+     {
+      "slug": "teacher-utterances-alone-sufficient-for-classroom-measures"
+     },
+     {
+      "slug": "two-stage-relevance-strategy-helps-multi-sentence-variables"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "simse-metacognitive-modeling-dataset",
+      "strength": "W"
+     }
+    ]
+   },
    "classical-indeterminism-model-fails-anticorrelation": {
     "claims": [
      {
@@ -32545,6 +33220,9 @@
       "slug": "awl-count-word-count-feature-importance-engagement"
      },
      {
+      "slug": "random-forest-best-auc-flagged-problems"
+     },
+     {
       "slug": "svm-outperforms-dt-rf-cognitive-engagement-prediction"
      }
     ],
@@ -32573,6 +33251,16 @@
       "polarity": "+",
       "slug": "value-added-tracking-bias-specification-comparison",
       "strength": "W"
+     }
+    ]
+   },
+   "classroom-composition-affects-teacher-ratings": {
+    "claims": [
+     {
+      "slug": "academic-behavioral-factors-drive-rating-effect"
+     },
+     {
+      "slug": "ratings-moderately-correlated-with-student-learning"
      }
     ]
    },
@@ -33182,6 +33870,9 @@
      },
      {
       "slug": "organizational-empowerment-enables-transfer"
+     },
+     {
+      "slug": "ri-charter-dashboards-reduced-surprise-stress"
      }
     ],
     "elements": [
@@ -33579,6 +34270,23 @@
       "polarity": "+",
       "slug": "long-interaction-hypothesis",
       "strength": "M"
+     }
+    ]
+   },
+   "closure-urgency-priorities-learning-first": {
+    "claims": [
+     {
+      "slug": "maintaining-student-connection-strategies-closure"
+     },
+     {
+      "slug": "teacher-remote-challenges-attention-not-technology"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "charter-school-response-to-the-pandemic-survey",
+      "strength": "W"
      }
     ]
    },
@@ -33981,6 +34689,28 @@
       "polarity": "+",
       "slug": "national-study-cmo-effectiveness-interim-report",
       "strength": "W"
+     }
+    ]
+   },
+   "cmo-schools-advance-reading-math-standalone-reading-only": {
+    "claims": [
+     {
+      "slug": "austin-cmo-vs-independent-charter-growth"
+     },
+     {
+      "slug": "charter-learning-gains-risen-across-credo-studies"
+     },
+     {
+      "slug": "charter-students-more-days-learning-reading-math"
+     },
+     {
+      "slug": "fort-worth-cmo-outperforms-independent-charters"
+     },
+     {
+      "slug": "houston-cmo-charters-outgrow-state-independents-null"
+     },
+     {
+      "slug": "newark-cmo-vs-independent-charter-growth"
      }
     ]
    },
@@ -41647,6 +42377,73 @@
      }
     ]
    },
+   "complex-policies-lower-minimum-composite-scores": {
+    "claims": [
+     {
+      "slug": "complex-reclassification-policies-higher-el-share"
+     },
+     {
+      "slug": "complexity-weakens-eligibility-reclassification-link"
+     },
+     {
+      "slug": "eligibility-disparities-widen-across-grades"
+     },
+     {
+      "slug": "kind-not-number-of-criteria-determines-long-term-el-status"
+     },
+     {
+      "slug": "mandated-non-elp-requirements-higher-long-term-el-shares"
+     },
+     {
+      "slug": "no-demographic-patterns-across-reclassification-structures"
+     },
+     {
+      "slug": "policy-adherence-high-but-lower-in-mandated-assessment-state"
+     }
+    ]
+   },
+   "complex-reclassification-policies-higher-el-share": {
+    "claims": [
+     {
+      "slug": "complex-policies-lower-minimum-composite-scores"
+     },
+     {
+      "slug": "eligibility-disparities-widen-across-grades"
+     },
+     {
+      "slug": "kind-not-number-of-criteria-determines-long-term-el-status"
+     },
+     {
+      "slug": "mandated-non-elp-requirements-higher-long-term-el-shares"
+     },
+     {
+      "slug": "no-demographic-patterns-across-reclassification-structures"
+     }
+    ]
+   },
+   "complexity-weakens-eligibility-reclassification-link": {
+    "claims": [
+     {
+      "slug": "complex-policies-lower-minimum-composite-scores"
+     },
+     {
+      "slug": "eligibility-disparities-widen-across-grades"
+     },
+     {
+      "slug": "kind-not-number-of-criteria-determines-long-term-el-status"
+     },
+     {
+      "slug": "policy-adherence-high-but-lower-in-mandated-assessment-state"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reclassification-policy-complexity-taxonomy",
+      "strength": "M"
+     }
+    ]
+   },
    "component-measures-distinct-dimensions-principal-performance": {
     "claims": [
      {
@@ -41657,6 +42454,9 @@
      },
      {
       "slug": "principal-ratings-negative-correlation-socioeconomic-disadvantage"
+     },
+     {
+      "slug": "ratings-moderately-correlated-with-student-learning"
      }
     ],
     "elements": [
@@ -43391,6 +44191,9 @@
       "slug": "students-learned-more-constructive-than-active"
      },
      {
+      "slug": "teachers-appreciate-chatgpt-generative-learning-affordances"
+     },
+     {
       "slug": "teachers-struggle-designing-interactive-activities"
      }
     ],
@@ -43720,6 +44523,16 @@
      }
     ]
    },
+   "context-adjusted-ratings-raise-black-teacher-rankings": {
+    "claims": [
+     {
+      "slug": "vam-estimates-highly-correlated-across-specifications"
+     },
+     {
+      "slug": "vam-sensitivity-student-peer-controls-examined"
+     }
+    ]
+   },
    "context-clarification-validation-interviews": {
     "claims": [
      {
@@ -43808,6 +44621,13 @@
       "polarity": "+",
       "slug": "ecological-affordance-profile",
       "strength": "W"
+     }
+    ]
+   },
+   "contextualized-gpa-stronger-than-contextualized-test-scores": {
+    "claims": [
+     {
+      "slug": "restricted-samples-explain-divergent-grade-predictions"
      }
     ]
    },
@@ -45145,6 +45965,9 @@
     "claims": [
      {
       "slug": "generative-processing-improves-learning"
+     },
+     {
+      "slug": "mathia-students-hard-to-adapt-strategies"
      },
      {
       "slug": "pia-strategic-cycle-tfa-random-ideas"
@@ -47153,6 +47976,9 @@
    "covid-closures-pennsylvania-learning-loss-equity": {
     "claims": [
      {
+      "slug": "charter-schools-reported-student-academic-losses"
+     },
+     {
       "slug": "pa-leas-in-person-learning-expanded-2020-21"
      },
      {
@@ -47249,6 +48075,39 @@
      },
      {
       "slug": "cpc-correlation-nonsignificant-chunking"
+     }
+    ]
+   },
+   "cps-algebra-initiative-gains": {
+    "claims": [
+     {
+      "slug": "cps-decades-improvement-equitable-gains"
+     },
+     {
+      "slug": "double-dose-algebra-discontinued-prematurely"
+     }
+    ]
+   },
+   "cps-decades-improvement-equitable-gains": {
+    "claims": [
+     {
+      "slug": "charter-attainment-study-florida-chicago-scope"
+     },
+     {
+      "slug": "cps-algebra-initiative-gains"
+     },
+     {
+      "slug": "double-dose-algebra-discontinued-prematurely"
+     },
+     {
+      "slug": "teacher-reports-coherence-trust-increased"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-5es-framework",
+      "strength": "M"
      }
     ]
    },
@@ -47367,6 +48226,171 @@
      },
      {
       "slug": "passage-attributes-intercorrelated"
+     }
+    ]
+   },
+   "credo-cohort1-charter-no-cream-skimming": {
+    "claims": [
+     {
+      "slug": "average-charter-schools-similar-to-nearby-traditional-public-schools"
+     },
+     {
+      "slug": "credo-cohort1-charter-positive-growth-contributions"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-growth-benchmarking-approach",
+      "strength": "W"
+     }
+    ]
+   },
+   "credo-cohort1-charter-positive-growth-contributions": {
+    "claims": [
+     {
+      "slug": "credo-cohort1-charter-no-cream-skimming"
+     },
+     {
+      "slug": "credo-cohort1-charter-subgroup-stronger-growth"
+     },
+     {
+      "slug": "credo-cohort1-district-weaker-growth-exceptions"
+     },
+     {
+      "slug": "credo-cohort1-innovation-schools-citywide-trends-denver-exception"
+     },
+     {
+      "slug": "credo-cohort1-magnet-strong-positive-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-growth-benchmarking-approach",
+      "strength": "W"
+     }
+    ]
+   },
+   "credo-cohort1-charter-subgroup-stronger-growth": {
+    "claims": [
+     {
+      "slug": "charter-minority-poverty-gains-below-white-peers"
+     },
+     {
+      "slug": "credo-cohort1-charter-positive-growth-contributions"
+     },
+     {
+      "slug": "credo-cohort1-district-weaker-growth-exceptions"
+     },
+     {
+      "slug": "credo-cohort1-innovation-schools-citywide-trends-denver-exception"
+     },
+     {
+      "slug": "fort-worth-hispanic-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-poverty-students-charter-advantage-reading"
+     },
+     {
+      "slug": "sc-charter-demographic-composition-differs"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-growth-benchmarking-approach",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
+   "credo-cohort1-district-weaker-growth-exceptions": {
+    "claims": [
+     {
+      "slug": "credo-cohort1-charter-positive-growth-contributions"
+     },
+     {
+      "slug": "credo-cohort1-charter-subgroup-stronger-growth"
+     },
+     {
+      "slug": "credo-cohort1-innovation-schools-citywide-trends-denver-exception"
+     },
+     {
+      "slug": "credo-cohort1-magnet-strong-positive-growth"
+     },
+     {
+      "slug": "fort-worth-black-students-charter-district-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-growth-benchmarking-approach",
+      "strength": "W"
+     }
+    ]
+   },
+   "credo-cohort1-innovation-schools-citywide-trends-denver-exception": {
+    "claims": [
+     {
+      "slug": "credo-cohort1-charter-positive-growth-contributions"
+     },
+     {
+      "slug": "credo-cohort1-charter-subgroup-stronger-growth"
+     },
+     {
+      "slug": "credo-cohort1-district-weaker-growth-exceptions"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-growth-benchmarking-approach",
+      "strength": "W"
+     }
+    ]
+   },
+   "credo-cohort1-magnet-strong-positive-growth": {
+    "claims": [
+     {
+      "slug": "credo-cohort1-charter-positive-growth-contributions"
+     },
+     {
+      "slug": "credo-cohort1-district-weaker-growth-exceptions"
+     },
+     {
+      "slug": "memphis-model-adjusts-mobility-demographics-measurement-error"
+     },
+     {
+      "slug": "newark-magnet-special-ed-math-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-growth-benchmarking-approach",
+      "strength": "W"
+     }
+    ]
+   },
+   "credo-race-ethnicity-growth-without-benchmark": {
+    "claims": [
+     {
+      "slug": "ri-charter-gains-black-hispanic-students"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-growth-benchmarking-approach",
+      "strength": "W"
      }
     ]
    },
@@ -49230,6 +50254,9 @@
    "curricular-cot-improves-accuracy-larger-models": {
     "claims": [
      {
+      "slug": "chatgpt-zero-shot-relevance-extraction-unreliable"
+     },
+     {
       "slug": "llm-accuracy-regression-overestimation-bias"
      },
      {
@@ -49343,6 +50370,20 @@
       "polarity": "+",
       "slug": "mathematica-four-curricula-evaluation-study",
       "strength": "M"
+     }
+    ]
+   },
+   "curriculum-coverage-ela-math-fared-best": {
+    "claims": [
+     {
+      "slug": "learning-time-decreases-spring-2020"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "charter-school-response-to-the-pandemic-survey",
+      "strength": "W"
      }
     ]
    },
@@ -50326,6 +51367,9 @@
      },
      {
       "slug": "dcps-principal-gains-took-three-years-no-declines"
+     },
+     {
+      "slug": "decentralization-accountability-sorting-mechanisms-school-capacity"
      }
     ]
    },
@@ -51011,6 +52055,9 @@
      },
      {
       "slug": "dcps-principal-gains-took-three-years-no-declines"
+     },
+     {
+      "slug": "decentralization-accountability-sorting-mechanisms-school-capacity"
      }
     ]
    },
@@ -51278,6 +52325,30 @@
       "polarity": "+",
       "slug": "debriefing",
       "strength": "W"
+     }
+    ]
+   },
+   "decentralization-accountability-sorting-mechanisms-school-capacity": {
+    "claims": [
+     {
+      "slug": "dc-2007-reforms-teacher-quality-and-school-choice-aims"
+     },
+     {
+      "slug": "dcps-39-percent-principals-did-not-return-2008-09"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ccsr-cps-longitudinal-data-archive",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ccsr-supporting-search-for-solutions-theory-of-action",
+      "strength": "M"
      }
     ]
    },
@@ -52915,6 +53986,9 @@
       "slug": "demographics-unrelated-to-goal-activity"
      },
      {
+      "slug": "experience-negative-age-gender-null-data-use"
+     },
+     {
       "slug": "four-patterns-consonance-dissonance-pca"
      },
      {
@@ -53826,6 +54900,35 @@
       "polarity": "+",
       "slug": "schema-theory-knowledge-networks",
       "strength": "M"
+     }
+    ]
+   },
+   "device-access-gap-internet": {
+    "claims": [
+     {
+      "slug": "device-provision-equity-high-poverty"
+     },
+     {
+      "slug": "internet-access-larger-barrier-than-devices"
+     },
+     {
+      "slug": "student-device-internet-access-near-universal"
+     },
+     {
+      "slug": "teacher-remote-challenges-attention-not-technology"
+     },
+     {
+      "slug": "teachers-access-but-low-skill-and-use"
+     }
+    ]
+   },
+   "device-provision-equity-high-poverty": {
+    "claims": [
+     {
+      "slug": "device-access-gap-internet"
+     },
+     {
+      "slug": "ell-mll-remote-support-challenges"
      }
     ]
    },
@@ -55520,6 +56623,16 @@
      }
     ]
    },
+   "discipline-acts-peak-grade-three-elementary": {
+    "claims": [
+     {
+      "slug": "male-students-higher-discipline-rates-elementary"
+     },
+     {
+      "slug": "referrals-negative-math-growth-inconsistent-reading"
+     }
+    ]
+   },
    "discipline-concern-declines-all-groups": {
     "claims": [
      {
@@ -56497,6 +57610,52 @@
      }
     ]
    },
+   "district-performance-stronger-predictor-than-prek4-enrollment": {
+    "claims": [
+     {
+      "slug": "district-size-negative-math-association"
+     },
+     {
+      "slug": "high-prek4-states-greater-kindergarten-math-growth"
+     },
+     {
+      "slug": "marginal-state-characteristics-math-improvement"
+     },
+     {
+      "slug": "no-significant-district-offerings-math-links"
+     },
+     {
+      "slug": "specialized-prek-teacher-training-math-improvement"
+     }
+    ]
+   },
+   "district-prek4-participation-increased-all-categories": {
+    "claims": [
+     {
+      "slug": "high-prek4-states-greater-kindergarten-math-growth"
+     },
+     {
+      "slug": "no-significant-district-offerings-math-links"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "prek4-investment-three-category-classification",
+      "strength": "W"
+     }
+    ]
+   },
+   "district-size-negative-math-association": {
+    "claims": [
+     {
+      "slug": "district-performance-stronger-predictor-than-prek4-enrollment"
+     },
+     {
+      "slug": "high-prek4-states-greater-kindergarten-math-growth"
+     }
+    ]
+   },
    "district-variation-teaching-disparity": {
     "claims": [
      {
@@ -56862,6 +58021,29 @@
      }
     ]
    },
+   "dlp-allocates-more-lessons-to-domain-of-need": {
+    "claims": [
+     {
+      "slug": "below-grade-students-advance-toward-grade-level-content"
+     },
+     {
+      "slug": "on-grade-lesson-share-rises-with-domains-on-grade"
+     },
+     {
+      "slug": "placement-improves-fall-to-spring"
+     },
+     {
+      "slug": "similar-lesson-quantity-regardless-of-placement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "i-ready-platform-element",
+      "strength": "W"
+     }
+    ]
+   },
    "doctoral-teachers-highest-advanced-oer-competence": {
     "claims": [
      {
@@ -57010,6 +58192,16 @@
      },
      {
       "slug": "tutoring-stage-thresholds-validated-by-posttest"
+     }
+    ]
+   },
+   "double-dose-algebra-discontinued-prematurely": {
+    "claims": [
+     {
+      "slug": "cps-algebra-initiative-gains"
+     },
+     {
+      "slug": "cps-decades-improvement-equitable-gains"
      }
     ]
    },
@@ -58886,6 +60078,19 @@
      }
     ]
    },
+   "early-math-growth-decelerates-first-half-year": {
+    "claims": [
+     {
+      "slug": "grade1-2-math-growth-nonlinear-deceleration"
+     },
+     {
+      "slug": "grade3-accelerated-growth-on-above-grade-level"
+     },
+     {
+      "slug": "school-level-growth-variation-overperformers"
+     }
+    ]
+   },
    "early-math-literacy-development-intertwine": {
     "claims": [
      {
@@ -59744,6 +60949,9 @@
    },
    "ecree-feedback-less-useful-when-misaligned": {
     "claims": [
+     {
+      "slug": "chatgpt-brainstorming-concerns-misalignment-reliability"
+     },
      {
       "slug": "teachers-reported-curriculum-technical-integration-challenges"
      }
@@ -62165,6 +63373,32 @@
      }
     ]
    },
+   "eligibility-disparities-widen-across-grades": {
+    "claims": [
+     {
+      "slug": "complex-policies-lower-minimum-composite-scores"
+     },
+     {
+      "slug": "complex-reclassification-policies-higher-el-share"
+     },
+     {
+      "slug": "complexity-weakens-eligibility-reclassification-link"
+     },
+     {
+      "slug": "mandated-non-elp-requirements-higher-long-term-el-shares"
+     }
+    ]
+   },
+   "ell-mll-remote-support-challenges": {
+    "claims": [
+     {
+      "slug": "device-provision-equity-high-poverty"
+     },
+     {
+      "slug": "ell-support-communication-challenges-most-reported"
+     }
+    ]
+   },
    "ell-pd-participation-under-20-percent-of-pd-hours": {
     "claims": [
      {
@@ -62178,6 +63412,30 @@
      {
       "polarity": "+",
       "slug": "study-of-school-turnaround-ell-sig-case-studies",
+      "strength": "W"
+     }
+    ]
+   },
+   "ell-students-fewer-disciplinary-acts": {
+    "claims": [
+     {
+      "slug": "ese-students-higher-disciplinary-rates"
+     },
+     {
+      "slug": "male-students-higher-discipline-rates-elementary"
+     }
+    ]
+   },
+   "ell-support-communication-challenges-most-reported": {
+    "claims": [
+     {
+      "slug": "ell-mll-remote-support-challenges"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "charter-school-response-to-the-pandemic-survey",
       "strength": "W"
      }
     ]
@@ -65225,6 +66483,16 @@
      }
     ]
    },
+   "ese-students-higher-disciplinary-rates": {
+    "claims": [
+     {
+      "slug": "ell-students-fewer-disciplinary-acts"
+     },
+     {
+      "slug": "male-students-higher-discipline-rates-elementary"
+     }
+    ]
+   },
    "esea-flexibility-narrowed-accountability-focus": {
     "elements": [
      {
@@ -65634,6 +66902,16 @@
      }
     ]
    },
+   "evaluator-bias-not-effectiveness-drives-composition-effect": {
+    "claims": [
+     {
+      "slug": "principal-ratings-negative-correlation-socioeconomic-disadvantage"
+     },
+     {
+      "slug": "school-mgp-correlates-student-disadvantage"
+     }
+    ]
+   },
    "evaluators-target-impacts-below-020-sd": {
     "claims": [
      {
@@ -65969,6 +67247,9 @@
     "claims": [
      {
       "slug": "absence-reports-reduce-absences-philadelphia-rct"
+     },
+     {
+      "slug": "attendance-strong-predictor-growth-all-grades"
      },
      {
       "slug": "barr-reduces-ninth-grade-chronic-absenteeism"
@@ -66556,6 +67837,29 @@
      }
     ]
    },
+   "exam-weeks-exercises-as-formative-practice": {
+    "claims": [
+     {
+      "slug": "final-exam-subtracted-network-group-differences"
+     },
+     {
+      "slug": "flipped-classroom-preparing-revisiting-summative-most-used"
+     },
+     {
+      "slug": "low-performers-procrastinated-exercises-and-videos"
+     },
+     {
+      "slug": "topic-level-time-management-group-differences"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ena-strategies-time-topics-network-model",
+      "strength": "W"
+     }
+    ]
+   },
    "example-problem-sequences-reduce-cognitive-load": {
     "claims": [
      {
@@ -67026,6 +68330,9 @@
       "slug": "dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data"
      },
      {
+      "slug": "llama2-qlora-unsatisfactory-for-teaching-quality-tasks"
+     },
+     {
       "slug": "llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues"
      }
     ],
@@ -67219,6 +68526,19 @@
      },
      {
       "slug": "students-report-engagement-after-mle-lessons"
+     }
+    ]
+   },
+   "experience-negative-age-gender-null-data-use": {
+    "claims": [
+     {
+      "slug": "demographics-trivial-effects-conceptions"
+     },
+     {
+      "slug": "school-factors-mediated-by-teacher-characteristics"
+     },
+     {
+      "slug": "wst-characteristics-predict-teacher-digital-data-use"
      }
     ]
    },
@@ -70157,6 +71477,23 @@
      }
     ]
    },
+   "facial-features-low-rapport-no-added-modalities": {
+    "claims": [
+     {
+      "slug": "multimodality-reverses-silence-interpretation-cps"
+     },
+     {
+      "slug": "time-window-features-null-for-lr-boost-nonlinear"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "four-rationales-combining-modalities-mmca",
+      "strength": "W"
+     }
+    ]
+   },
    "facilitated-self-directed-learning-empowers-adults": {
     "claims": [
      {
@@ -72089,6 +73426,9 @@
      },
      {
       "slug": "lli-star-female-subgroup-positive-nonsignificant"
+     },
+     {
+      "slug": "mastery-platform-effects-uniform-across-demographics"
      },
      {
       "slug": "no-clear-pattern-characteristics-and-effectiveness"
@@ -76763,6 +78103,58 @@
      }
     ]
    },
+   "final-exam-ena-x-dimension-significant": {
+    "claims": [
+     {
+      "slug": "final-exam-subtracted-network-group-differences"
+     },
+     {
+      "slug": "low-performers-procrastinated-exercises-and-videos"
+     },
+     {
+      "slug": "midterm-ena-no-significant-difference"
+     },
+     {
+      "slug": "weekly-ena-ttests-significant-weeks"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ena-strategies-time-topics-network-model",
+      "strength": "W"
+     }
+    ]
+   },
+   "final-exam-subtracted-network-group-differences": {
+    "claims": [
+     {
+      "slug": "exam-weeks-exercises-as-formative-practice"
+     },
+     {
+      "slug": "final-exam-ena-x-dimension-significant"
+     },
+     {
+      "slug": "flipped-classroom-preparing-revisiting-summative-most-used"
+     },
+     {
+      "slug": "low-performers-procrastinated-exercises-and-videos"
+     },
+     {
+      "slug": "midterm-ena-no-significant-difference"
+     },
+     {
+      "slug": "topic-level-time-management-group-differences"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ena-strategies-time-topics-network-model",
+      "strength": "M"
+     }
+    ]
+   },
    "finance-no-significant-direct-effect-governance": {
     "claims": [
      {
@@ -77002,6 +78394,12 @@
     "claims": [
      {
       "slug": "fine-tuned-gpt4o-mini-generalizes-tscc"
+     },
+     {
+      "slug": "gpt4-high-recall-low-precision-pii-redaction"
+     },
+     {
+      "slug": "gpt4-redaction-compared-to-prior-methods"
      },
      {
       "slug": "no-single-pii-model-dominates-categories"
@@ -77746,6 +79144,29 @@
      }
     ]
    },
+   "flagged-problems-shorter-more-sentences-descriptives": {
+    "claims": [
+     {
+      "slug": "mathia-word-problems-flagged-reading-gaps"
+     },
+     {
+      "slug": "partial-dependence-nonlinear-relationships"
+     },
+     {
+      "slug": "random-forest-best-auc-flagged-problems"
+     },
+     {
+      "slug": "word-count-top-traditional-formulas-unimportant"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "mwp-readability-metrics-five-category-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
    "flashlight360-one-year-composite-outgains": {
     "claims": [
      {
@@ -78036,6 +79457,26 @@
      {
       "polarity": "+",
       "slug": "flipped-classroom-definition-blended-learning",
+      "strength": "W"
+     }
+    ]
+   },
+   "flipped-classroom-preparing-revisiting-summative-most-used": {
+    "claims": [
+     {
+      "slug": "exam-weeks-exercises-as-formative-practice"
+     },
+     {
+      "slug": "final-exam-subtracted-network-group-differences"
+     },
+     {
+      "slug": "low-performers-procrastinated-exercises-and-videos"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ena-strategies-time-topics-network-model",
       "strength": "W"
      }
     ]
@@ -78870,6 +80311,235 @@
      }
     ]
    },
+   "fort-worth-black-students-charter-district-growth": {
+    "claims": [
+     {
+      "slug": "credo-cohort1-district-weaker-growth-exceptions"
+     },
+     {
+      "slug": "fort-worth-charter-beats-district-reading-growth"
+     },
+     {
+      "slug": "fort-worth-cmo-outperforms-independent-charters"
+     },
+     {
+      "slug": "fort-worth-ell-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-gender-subgroups-charter-district-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-growth-benchmarking-approach",
+      "strength": "W"
+     }
+    ]
+   },
+   "fort-worth-charter-beats-district-reading-growth": {
+    "claims": [
+     {
+      "slug": "austin-charter-poverty-students-outperform-district-peers"
+     },
+     {
+      "slug": "fort-worth-black-students-charter-district-growth"
+     },
+     {
+      "slug": "fort-worth-cmo-outperforms-independent-charters"
+     },
+     {
+      "slug": "fort-worth-ell-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-gender-subgroups-charter-district-growth"
+     },
+     {
+      "slug": "fort-worth-hispanic-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-overall-growth-below-state-2018-19"
+     },
+     {
+      "slug": "fort-worth-poverty-students-charter-advantage-reading"
+     },
+     {
+      "slug": "newark-charter-vs-district-within-newark-2018-19"
+     }
+    ]
+   },
+   "fort-worth-cmo-outperforms-independent-charters": {
+    "claims": [
+     {
+      "slug": "austin-cmo-vs-independent-charter-growth"
+     },
+     {
+      "slug": "cmo-schools-advance-reading-math-standalone-reading-only"
+     },
+     {
+      "slug": "fort-worth-black-students-charter-district-growth"
+     },
+     {
+      "slug": "fort-worth-charter-beats-district-reading-growth"
+     },
+     {
+      "slug": "fort-worth-ell-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-gender-subgroups-charter-district-growth"
+     },
+     {
+      "slug": "fort-worth-hispanic-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-overall-growth-below-state-2018-19"
+     },
+     {
+      "slug": "houston-cmo-charters-outgrow-state-independents-null"
+     },
+     {
+      "slug": "newark-cmo-vs-independent-charter-growth"
+     }
+    ]
+   },
+   "fort-worth-ell-students-charter-advantage-reading": {
+    "claims": [
+     {
+      "slug": "austin-charter-ell-students-reading-advantage"
+     },
+     {
+      "slug": "fort-worth-black-students-charter-district-growth"
+     },
+     {
+      "slug": "fort-worth-charter-beats-district-reading-growth"
+     },
+     {
+      "slug": "fort-worth-cmo-outperforms-independent-charters"
+     },
+     {
+      "slug": "fort-worth-gender-subgroups-charter-district-growth"
+     },
+     {
+      "slug": "fort-worth-hispanic-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-overall-growth-below-state-2018-19"
+     },
+     {
+      "slug": "fort-worth-poverty-students-charter-advantage-reading"
+     }
+    ]
+   },
+   "fort-worth-gender-subgroups-charter-district-growth": {
+    "claims": [
+     {
+      "slug": "fort-worth-black-students-charter-district-growth"
+     },
+     {
+      "slug": "fort-worth-charter-beats-district-reading-growth"
+     },
+     {
+      "slug": "fort-worth-cmo-outperforms-independent-charters"
+     },
+     {
+      "slug": "fort-worth-ell-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-hispanic-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-overall-growth-below-state-2018-19"
+     },
+     {
+      "slug": "fort-worth-poverty-students-charter-advantage-reading"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
+   "fort-worth-hispanic-students-charter-advantage-reading": {
+    "claims": [
+     {
+      "slug": "austin-charter-hispanic-students-reading-advantage"
+     },
+     {
+      "slug": "credo-cohort1-charter-subgroup-stronger-growth"
+     },
+     {
+      "slug": "fort-worth-charter-beats-district-reading-growth"
+     },
+     {
+      "slug": "fort-worth-cmo-outperforms-independent-charters"
+     },
+     {
+      "slug": "fort-worth-ell-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-gender-subgroups-charter-district-growth"
+     },
+     {
+      "slug": "fort-worth-overall-growth-below-state-2018-19"
+     },
+     {
+      "slug": "fort-worth-poverty-students-charter-advantage-reading"
+     }
+    ]
+   },
+   "fort-worth-overall-growth-below-state-2018-19": {
+    "claims": [
+     {
+      "slug": "fort-worth-charter-beats-district-reading-growth"
+     },
+     {
+      "slug": "fort-worth-cmo-outperforms-independent-charters"
+     },
+     {
+      "slug": "fort-worth-ell-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-gender-subgroups-charter-district-growth"
+     },
+     {
+      "slug": "fort-worth-hispanic-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-poverty-students-charter-advantage-reading"
+     }
+    ]
+   },
+   "fort-worth-poverty-students-charter-advantage-reading": {
+    "claims": [
+     {
+      "slug": "austin-charter-poverty-students-outperform-district-peers"
+     },
+     {
+      "slug": "credo-cohort1-charter-subgroup-stronger-growth"
+     },
+     {
+      "slug": "fort-worth-charter-beats-district-reading-growth"
+     },
+     {
+      "slug": "fort-worth-ell-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-gender-subgroups-charter-district-growth"
+     },
+     {
+      "slug": "fort-worth-hispanic-students-charter-advantage-reading"
+     },
+     {
+      "slug": "fort-worth-overall-growth-below-state-2018-19"
+     },
+     {
+      "slug": "houston-poverty-charter-beats-district-both-subjects"
+     }
+    ]
+   },
    "foster-1994-daisyquest-significant-both-measures": {
     "claims": [
      {
@@ -79122,6 +80792,9 @@
    },
    "four-implementation-themes-exclusion-interventions": {
     "claims": [
+     {
+      "slug": "leader-investment-lever-teacher-confidence-satisfaction-skyline"
+     },
      {
       "slug": "leadership-buy-in-investments-facilitate-trauma-engaged-implementation"
      },
@@ -81257,6 +82930,22 @@
      }
     ]
    },
+   "gap-busting-charter-schools-exceed-state-averages": {
+    "claims": [
+     {
+      "slug": "charter-middle-school-impacts-varied-considerably"
+     },
+     {
+      "slug": "charter-middle-schools-no-average-achievement-advantage"
+     },
+     {
+      "slug": "charter-minority-poverty-gains-below-white-peers"
+     },
+     {
+      "slug": "ri-charter-gains-poverty-sped-ell"
+     }
+    ]
+   },
    "gardner-no-detailed-classroom-application-plan": {
     "claims": [
      {
@@ -81805,6 +83494,32 @@
      },
      {
       "slug": "trait-self-regulation-relates-only-to-knowledge-map-scores-in-a-puzzle-game"
+     },
+     {
+      "slug": "wec-effects-more-pronounced-males-literacy"
+     }
+    ]
+   },
+   "gender-gap-reverses-male-favored-elementary-math": {
+    "claims": [
+     {
+      "slug": "grade3-initial-status-positive-growth-correlation"
+     },
+     {
+      "slug": "male-overrepresentation-high-achievers-rises-elementary"
+     },
+     {
+      "slug": "subdomain-specific-gender-patterns-elementary-math"
+     },
+     {
+      "slug": "suspensions-negative-math-growth-upper-elementary"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cumulative-educational-experience-account-gender-math-gaps",
+      "strength": "M"
      }
     ]
    },
@@ -81831,6 +83546,29 @@
      },
      {
       "slug": "two-vs-four-year-transfers-differ-key-characteristics"
+     }
+    ]
+   },
+   "gender-identity-relationship-management-wellbeing-differences": {
+    "claims": [
+     {
+      "slug": "measurement-invariance-gender-structural-equivalence-rejected"
+     },
+     {
+      "slug": "racial-identity-relationship-management-differences"
+     },
+     {
+      "slug": "sample-sel-scores-comparable-original-trust-sample"
+     },
+     {
+      "slug": "transformational-leadership-gender-specific-pathways"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "trust-panorama-adult-sel-survey-instrument",
+      "strength": "W"
      }
     ]
    },
@@ -83205,6 +84943,52 @@
      }
     ]
    },
+   "gpt4-detects-pii-missed-by-human-coders": {
+    "claims": [
+     {
+      "slug": "gpt4-high-recall-low-precision-pii-redaction"
+     },
+     {
+      "slug": "gpt4-over-redaction-of-non-pii-names-and-locations"
+     },
+     {
+      "slug": "gpt4-redaction-performance-varies-by-course-content"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "gpt4-zero-shot-pii-redaction-pipeline",
+      "strength": "W"
+     }
+    ]
+   },
+   "gpt4-high-recall-low-precision-pii-redaction": {
+    "claims": [
+     {
+      "slug": "fine-tuned-gpt4o-mini-highest-recall-crapii"
+     },
+     {
+      "slug": "gpt4-detects-pii-missed-by-human-coders"
+     },
+     {
+      "slug": "gpt4-over-redaction-of-non-pii-names-and-locations"
+     },
+     {
+      "slug": "gpt4-redaction-compared-to-prior-methods"
+     },
+     {
+      "slug": "gpt4-redaction-performance-varies-by-course-content"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "gpt4-zero-shot-pii-redaction-pipeline",
+      "strength": "W"
+     }
+    ]
+   },
    "gpt4-models-strong-semantic-alignment-topic-labels": {
     "claims": [
      {
@@ -83212,6 +84996,81 @@
      },
      {
       "slug": "two-level-clustering-meaningful-h-clusters"
+     }
+    ]
+   },
+   "gpt4-over-redaction-of-non-pii-names-and-locations": {
+    "claims": [
+     {
+      "slug": "gpt4-detects-pii-missed-by-human-coders"
+     },
+     {
+      "slug": "gpt4-high-recall-low-precision-pii-redaction"
+     },
+     {
+      "slug": "gpt4-redaction-compared-to-prior-methods"
+     },
+     {
+      "slug": "gpt4-redaction-performance-varies-by-course-content"
+     },
+     {
+      "slug": "low-precision-pii-detection-semantic-disruption"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "gpt4-zero-shot-pii-redaction-pipeline",
+      "strength": "W"
+     }
+    ]
+   },
+   "gpt4-redaction-compared-to-prior-methods": {
+    "claims": [
+     {
+      "slug": "fine-tuned-gpt4o-mini-highest-recall-crapii"
+     },
+     {
+      "slug": "gpt4-high-recall-low-precision-pii-redaction"
+     },
+     {
+      "slug": "gpt4-over-redaction-of-non-pii-names-and-locations"
+     },
+     {
+      "slug": "gpt4-redaction-performance-varies-by-course-content"
+     },
+     {
+      "slug": "verifier-models-raise-precision-reduce-recall"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "gpt4-zero-shot-pii-redaction-pipeline",
+      "strength": "W"
+     }
+    ]
+   },
+   "gpt4-redaction-performance-varies-by-course-content": {
+    "claims": [
+     {
+      "slug": "gpt4-detects-pii-missed-by-human-coders"
+     },
+     {
+      "slug": "gpt4-high-recall-low-precision-pii-redaction"
+     },
+     {
+      "slug": "gpt4-over-redaction-of-non-pii-names-and-locations"
+     },
+     {
+      "slug": "gpt4-redaction-compared-to-prior-methods"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "gpt4-zero-shot-pii-redaction-pipeline",
+      "strength": "W"
      }
     ]
    },
@@ -83327,6 +85186,57 @@
      }
     ]
    },
+   "grade1-2-math-growth-nonlinear-deceleration": {
+    "claims": [
+     {
+      "slug": "early-math-growth-decelerates-first-half-year"
+     },
+     {
+      "slug": "grade3-accelerated-growth-on-above-grade-level"
+     },
+     {
+      "slug": "grade3-initial-status-positive-growth-correlation"
+     },
+     {
+      "slug": "school-level-growth-variation-overperformers"
+     },
+     {
+      "slug": "school-level-variation-math-growth-grade1-2"
+     }
+    ]
+   },
+   "grade3-accelerated-growth-on-above-grade-level": {
+    "claims": [
+     {
+      "slug": "early-math-growth-decelerates-first-half-year"
+     },
+     {
+      "slug": "grade1-2-math-growth-nonlinear-deceleration"
+     },
+     {
+      "slug": "grade3-initial-status-positive-growth-correlation"
+     },
+     {
+      "slug": "initial-disparities-persist-through-grade3"
+     }
+    ]
+   },
+   "grade3-initial-status-positive-growth-correlation": {
+    "claims": [
+     {
+      "slug": "gender-gap-reverses-male-favored-elementary-math"
+     },
+     {
+      "slug": "grade1-2-math-growth-nonlinear-deceleration"
+     },
+     {
+      "slug": "grade3-accelerated-growth-on-above-grade-level"
+     },
+     {
+      "slug": "initial-disparities-persist-through-grade3"
+     }
+    ]
+   },
    "grades-4-5-data-premise-for-value-added-research": {
     "claims": [
      {
@@ -83343,6 +85253,16 @@
      },
      {
       "slug": "vam-report-synthesized-21-empirical-studies"
+     }
+    ]
+   },
+   "grading-differences-small-gpa-averages-teacher-differences": {
+    "claims": [
+     {
+      "slug": "restricted-samples-explain-divergent-grade-predictions"
+     },
+     {
+      "slug": "sat-underpredicts-girls-performance"
      }
     ]
    },
@@ -84660,6 +86580,26 @@
      {
       "polarity": "+",
       "slug": "growth-mindset-intervention-exposure-application",
+      "strength": "W"
+     }
+    ]
+   },
+   "growth-status-changeable-sustaining-overperformance-rare": {
+    "claims": [
+     {
+      "slug": "beat-the-odds-under-to-over-transition-rare"
+     },
+     {
+      "slug": "school-growth-status-unstable-overperforming-hard-to-sustain"
+     },
+     {
+      "slug": "school-level-variation-math-growth-grade1-2"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "school-growth-status-segmentation-approach",
       "strength": "W"
      }
     ]
@@ -86827,6 +88767,26 @@
      }
     ]
    },
+   "high-dosage-cal-teachers-buy-in-strategy-monitoring": {
+    "claims": [
+     {
+      "slug": "booknook-dosage-20-sessions-stronger-effect"
+     },
+     {
+      "slug": "cal-gains-require-35-minutes-weekly-practice"
+     },
+     {
+      "slug": "personalized-learning-effects-vary-with-fidelity"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "kwik-cal-teacher-coaching-program",
+      "strength": "W"
+     }
+    ]
+   },
    "high-dosage-tutoring-associated-charter-success": {
     "claims": [
      {
@@ -87018,6 +88978,32 @@
       "polarity": "+",
       "slug": "value-added-teacher-performance-measurement-nccee-brief",
       "strength": "W"
+     }
+    ]
+   },
+   "high-prek4-states-greater-kindergarten-math-growth": {
+    "claims": [
+     {
+      "slug": "district-performance-stronger-predictor-than-prek4-enrollment"
+     },
+     {
+      "slug": "district-prek4-participation-increased-all-categories"
+     },
+     {
+      "slug": "district-size-negative-math-association"
+     },
+     {
+      "slug": "low-vs-growing-states-grade-level-likelihood"
+     },
+     {
+      "slug": "no-significant-district-offerings-math-links"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "prek4-investment-three-category-classification",
+      "strength": "M"
      }
     ]
    },
@@ -88529,6 +90515,148 @@
      }
     ]
    },
+   "houston-black-students-charter-magnet-beat-district": {
+    "claims": [
+     {
+      "slug": "houston-charter-beats-district-reading-and-math-2018-19"
+     },
+     {
+      "slug": "houston-ell-charter-advantage-magnet-trails"
+     },
+     {
+      "slug": "houston-magnet-reading-advantage-not-math-2018-19"
+     },
+     {
+      "slug": "houston-overall-growth-2018-19-math-positive-reading-null"
+     },
+     {
+      "slug": "houston-poverty-charter-beats-district-both-subjects"
+     }
+    ]
+   },
+   "houston-charter-beats-district-reading-and-math-2018-19": {
+    "claims": [
+     {
+      "slug": "houston-black-students-charter-magnet-beat-district"
+     },
+     {
+      "slug": "houston-ell-charter-advantage-magnet-trails"
+     },
+     {
+      "slug": "houston-magnet-reading-advantage-not-math-2018-19"
+     },
+     {
+      "slug": "houston-overall-growth-2018-19-math-positive-reading-null"
+     },
+     {
+      "slug": "houston-poverty-charter-beats-district-both-subjects"
+     },
+     {
+      "slug": "wa-charter-school-level-variation-three-of-nine"
+     }
+    ]
+   },
+   "houston-cmo-charters-outgrow-state-independents-null": {
+    "claims": [
+     {
+      "slug": "austin-cmo-vs-independent-charter-growth"
+     },
+     {
+      "slug": "cmo-schools-advance-reading-math-standalone-reading-only"
+     },
+     {
+      "slug": "fort-worth-cmo-outperforms-independent-charters"
+     },
+     {
+      "slug": "houston-overall-growth-2018-19-math-positive-reading-null"
+     },
+     {
+      "slug": "houston-poverty-charter-beats-district-both-subjects"
+     },
+     {
+      "slug": "newark-cmo-vs-independent-charter-growth"
+     }
+    ]
+   },
+   "houston-ell-charter-advantage-magnet-trails": {
+    "claims": [
+     {
+      "slug": "austin-charter-ell-students-reading-advantage"
+     },
+     {
+      "slug": "houston-black-students-charter-magnet-beat-district"
+     },
+     {
+      "slug": "houston-charter-beats-district-reading-and-math-2018-19"
+     },
+     {
+      "slug": "houston-magnet-reading-advantage-not-math-2018-19"
+     },
+     {
+      "slug": "houston-poverty-charter-beats-district-both-subjects"
+     },
+     {
+      "slug": "newark-charter-ell-growth-vs-state"
+     }
+    ]
+   },
+   "houston-magnet-reading-advantage-not-math-2018-19": {
+    "claims": [
+     {
+      "slug": "houston-black-students-charter-magnet-beat-district"
+     },
+     {
+      "slug": "houston-charter-beats-district-reading-and-math-2018-19"
+     },
+     {
+      "slug": "houston-ell-charter-advantage-magnet-trails"
+     },
+     {
+      "slug": "houston-overall-growth-2018-19-math-positive-reading-null"
+     }
+    ]
+   },
+   "houston-overall-growth-2018-19-math-positive-reading-null": {
+    "claims": [
+     {
+      "slug": "houston-black-students-charter-magnet-beat-district"
+     },
+     {
+      "slug": "houston-charter-beats-district-reading-and-math-2018-19"
+     },
+     {
+      "slug": "houston-cmo-charters-outgrow-state-independents-null"
+     },
+     {
+      "slug": "houston-magnet-reading-advantage-not-math-2018-19"
+     }
+    ]
+   },
+   "houston-poverty-charter-beats-district-both-subjects": {
+    "claims": [
+     {
+      "slug": "austin-charter-poverty-students-outperform-district-peers"
+     },
+     {
+      "slug": "fort-worth-poverty-students-charter-advantage-reading"
+     },
+     {
+      "slug": "houston-black-students-charter-magnet-beat-district"
+     },
+     {
+      "slug": "houston-charter-beats-district-reading-and-math-2018-19"
+     },
+     {
+      "slug": "houston-cmo-charters-outgrow-state-independents-null"
+     },
+     {
+      "slug": "houston-ell-charter-advantage-magnet-trails"
+     },
+     {
+      "slug": "ri-learning-gaps-tps-subgroups"
+     }
+    ]
+   },
    "hpm-directed-activation-zeigarnik-account": {
     "claims": [
      {
@@ -89393,6 +91521,209 @@
      }
     ]
    },
+   "idaho-brick-and-mortar-charter-gains": {
+    "claims": [
+     {
+      "slug": "idaho-charter-grade-configuration-effects"
+     },
+     {
+      "slug": "idaho-charter-reading-advantage-math-null"
+     },
+     {
+      "slug": "idaho-online-charter-learning-deficits"
+     },
+     {
+      "slug": "idaho-rural-charter-advantage"
+     },
+     {
+      "slug": "sc-online-charter-students-weaker-growth"
+     }
+    ]
+   },
+   "idaho-charter-grade-configuration-effects": {
+    "claims": [
+     {
+      "slug": "idaho-brick-and-mortar-charter-gains"
+     },
+     {
+      "slug": "idaho-charter-growth-period-reading"
+     },
+     {
+      "slug": "idaho-charter-reading-advantage-math-null"
+     },
+     {
+      "slug": "idaho-charter-school-level-distribution"
+     },
+     {
+      "slug": "idaho-online-charter-learning-deficits"
+     },
+     {
+      "slug": "idaho-rural-charter-advantage"
+     },
+     {
+      "slug": "pa-charter-impact-by-grade-configuration"
+     },
+     {
+      "slug": "sc-charter-gains-by-years-of-enrollment"
+     },
+     {
+      "slug": "sc-charter-grade-configuration-differences"
+     }
+    ]
+   },
+   "idaho-charter-growth-period-reading": {
+    "claims": [
+     {
+      "slug": "idaho-charter-grade-configuration-effects"
+     },
+     {
+      "slug": "idaho-charter-reading-advantage-math-null"
+     },
+     {
+      "slug": "idaho-charter-school-level-distribution"
+     },
+     {
+      "slug": "idaho-charter-years-of-enrollment-null"
+     },
+     {
+      "slug": "pa-charter-math-gap-varies-by-growth-period"
+     },
+     {
+      "slug": "wa-charter-gains-by-growth-period"
+     }
+    ]
+   },
+   "idaho-charter-reading-advantage-math-null": {
+    "claims": [
+     {
+      "slug": "charter-students-more-days-learning-reading-math"
+     },
+     {
+      "slug": "idaho-brick-and-mortar-charter-gains"
+     },
+     {
+      "slug": "idaho-charter-grade-configuration-effects"
+     },
+     {
+      "slug": "idaho-charter-growth-period-reading"
+     },
+     {
+      "slug": "idaho-charter-school-level-distribution"
+     },
+     {
+      "slug": "idaho-online-charter-learning-deficits"
+     },
+     {
+      "slug": "idaho-rural-charter-advantage"
+     },
+     {
+      "slug": "pa-charter-black-students-reading-gain"
+     },
+     {
+      "slug": "pa-charter-overall-similar-reading-weaker-math"
+     },
+     {
+      "slug": "wa-charter-school-level-variation-three-of-nine"
+     }
+    ]
+   },
+   "idaho-charter-school-level-distribution": {
+    "claims": [
+     {
+      "slug": "idaho-charter-grade-configuration-effects"
+     },
+     {
+      "slug": "idaho-charter-growth-period-reading"
+     },
+     {
+      "slug": "idaho-charter-reading-advantage-math-null"
+     },
+     {
+      "slug": "idaho-charter-years-of-enrollment-null"
+     },
+     {
+      "slug": "idaho-online-charter-learning-deficits"
+     },
+     {
+      "slug": "idaho-rural-charter-advantage"
+     },
+     {
+      "slug": "pa-charter-impact-by-grade-configuration"
+     },
+     {
+      "slug": "ri-charter-closure-equity-concern-no-better-alternatives"
+     },
+     {
+      "slug": "wa-charter-school-level-variation-three-of-nine"
+     }
+    ]
+   },
+   "idaho-charter-years-of-enrollment-null": {
+    "claims": [
+     {
+      "slug": "idaho-charter-growth-period-reading"
+     },
+     {
+      "slug": "idaho-charter-school-level-distribution"
+     },
+     {
+      "slug": "nm-charter-third-year-reading-gain"
+     },
+     {
+      "slug": "wa-charter-gains-by-growth-period"
+     },
+     {
+      "slug": "wa-charter-gains-by-years-enrolled"
+     }
+    ]
+   },
+   "idaho-online-charter-learning-deficits": {
+    "claims": [
+     {
+      "slug": "idaho-brick-and-mortar-charter-gains"
+     },
+     {
+      "slug": "idaho-charter-grade-configuration-effects"
+     },
+     {
+      "slug": "idaho-charter-reading-advantage-math-null"
+     },
+     {
+      "slug": "idaho-charter-school-level-distribution"
+     },
+     {
+      "slug": "nm-online-charter-weaker-growth"
+     },
+     {
+      "slug": "pa-charter-overall-similar-reading-weaker-math"
+     },
+     {
+      "slug": "pa-charter-poverty-students-weaker-math"
+     },
+     {
+      "slug": "sc-online-charter-students-weaker-growth"
+     }
+    ]
+   },
+   "idaho-rural-charter-advantage": {
+    "claims": [
+     {
+      "slug": "idaho-brick-and-mortar-charter-gains"
+     },
+     {
+      "slug": "idaho-charter-grade-configuration-effects"
+     },
+     {
+      "slug": "idaho-charter-reading-advantage-math-null"
+     },
+     {
+      "slug": "idaho-charter-school-level-distribution"
+     },
+     {
+      "slug": "pa-charter-impact-by-locale"
+     }
+    ]
+   },
    "idc-ability-dimension-highest-loading": {
     "claims": [
      {
@@ -89942,6 +92273,76 @@
      }
     ]
    },
+   "iep-implementation-first-enrollment-factor": {
+    "claims": [
+     {
+      "slug": "iep-parents-lacked-viable-choice-options"
+     },
+     {
+      "slug": "iep-parents-safety-transportation-constraints"
+     },
+     {
+      "slug": "iep-parents-shared-ideal-school-vision"
+     }
+    ]
+   },
+   "iep-parents-lacked-viable-choice-options": {
+    "claims": [
+     {
+      "slug": "iep-implementation-first-enrollment-factor"
+     },
+     {
+      "slug": "iep-parents-safety-transportation-constraints"
+     },
+     {
+      "slug": "iep-parents-shared-ideal-school-vision"
+     },
+     {
+      "slug": "title-i-choice-constrained-single-secondary-schools"
+     }
+    ]
+   },
+   "iep-parents-safety-transportation-constraints": {
+    "claims": [
+     {
+      "slug": "iep-implementation-first-enrollment-factor"
+     },
+     {
+      "slug": "iep-parents-lacked-viable-choice-options"
+     },
+     {
+      "slug": "iep-parents-shared-ideal-school-vision"
+     },
+     {
+      "slug": "rural-setting-exacerbates-school-improvement-challenges"
+     },
+     {
+      "slug": "rural-sig-schools-additional-location-challenges"
+     },
+     {
+      "slug": "rural-transportation-barriers-parent-involvement"
+     },
+     {
+      "slug": "rural-transportation-shapes-learning-time-expansion"
+     }
+    ]
+   },
+   "iep-parents-shared-ideal-school-vision": {
+    "claims": [
+     {
+      "slug": "iep-implementation-first-enrollment-factor"
+     },
+     {
+      "slug": "iep-parents-lacked-viable-choice-options"
+     },
+     {
+      "slug": "iep-parents-safety-transportation-constraints"
+     },
+     {
+      "slug": "iep-youth-academic-struggle-less-support"
+     }
+    ]
+   },
    "iep-youth-academic-struggle-less-support": {
     "claims": [
      {
@@ -89949,6 +92350,9 @@
      },
      {
       "slug": "elswd-more-academic-struggle-less-activity-participation"
+     },
+     {
+      "slug": "iep-parents-shared-ideal-school-vision"
      },
      {
       "slug": "iep-youth-bullying-suspension-engagement"
@@ -91213,6 +93617,9 @@
      },
      {
       "slug": "implementation-not-associated-most-outcomes"
+     },
+     {
+      "slug": "wellbeing-climate-average-scores-grade-band-differences"
      }
     ]
    },
@@ -91327,6 +93734,9 @@
      },
      {
       "slug": "trauma-exposure-adverse-school-outcomes"
+     },
+     {
+      "slug": "wellbeing-climate-average-scores-grade-band-differences"
      }
     ]
    },
@@ -92672,6 +95082,16 @@
      },
      {
       "slug": "reappraisal-and-suppression-reverse-linked-to-ef"
+     }
+    ]
+   },
+   "initial-disparities-persist-through-grade3": {
+    "claims": [
+     {
+      "slug": "grade3-accelerated-growth-on-above-grade-level"
+     },
+     {
+      "slug": "grade3-initial-status-positive-growth-correlation"
      }
     ]
    },
@@ -94681,10 +97101,16 @@
       "slug": "covid-closures-highlight-remote-learning-strategy-need"
      },
      {
+      "slug": "device-access-gap-internet"
+     },
+     {
       "slug": "online-apprenticeship-learning-flexibility-tradeoffs"
      },
      {
       "slug": "rural-sig-schools-additional-location-challenges"
+     },
+     {
+      "slug": "student-device-internet-access-near-universal"
      }
     ],
     "elements": [
@@ -95331,6 +97757,9 @@
    },
    "iready-usage-recommendation-stronger-results": {
     "claims": [
+     {
+      "slug": "cal-gains-require-35-minutes-weekly-practice"
+     },
      {
       "slug": "dreambox-positive-effect-map-overall-math-k1"
      },
@@ -96798,6 +99227,9 @@
       "slug": "memphis-model-adjusts-mobility-demographics-measurement-error"
      },
      {
+      "slug": "positive-deviant-schools-math-growth"
+     },
+     {
       "slug": "school-as-performance-unit-lower-error-rates"
      },
      {
@@ -98009,6 +100441,28 @@
       "polarity": "+",
       "slug": "achieve3000-five-step-literacy-routine",
       "strength": "W"
+     }
+    ]
+   },
+   "kind-not-number-of-criteria-determines-long-term-el-status": {
+    "claims": [
+     {
+      "slug": "complex-policies-lower-minimum-composite-scores"
+     },
+     {
+      "slug": "complex-reclassification-policies-higher-el-share"
+     },
+     {
+      "slug": "complexity-weakens-eligibility-reclassification-link"
+     },
+     {
+      "slug": "mandated-non-elp-requirements-higher-long-term-el-shares"
+     },
+     {
+      "slug": "no-demographic-patterns-across-reclassification-structures"
+     },
+     {
+      "slug": "policy-adherence-high-but-lower-in-mandated-assessment-state"
      }
     ]
    },
@@ -99567,6 +102021,9 @@
      },
      {
       "slug": "koku-secondary-outcomes-mixed"
+     },
+     {
+      "slug": "thermos-lad-sus-good-excellent-usability"
      }
     ],
     "designs": [
@@ -100678,6 +103135,40 @@
      {
       "polarity": "+",
       "slug": "atts-trafficked-women-attitude-scale",
+      "strength": "W"
+     }
+    ]
+   },
+   "lad-impact-on-study-behaviour-varied-mostly-null": {
+    "claims": [
+     {
+      "slug": "thermos-lad-preparatory-phase-not-supported"
+     },
+     {
+      "slug": "thermos-lad-supported-appraisal-phase"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "thermos-learning-analytics-dashboard",
+      "strength": "W"
+     }
+    ]
+   },
+   "lad-stakeholders-agree-predetermined-differ-new-constructs": {
+    "claims": [
+     {
+      "slug": "thermos-lad-preparatory-phase-not-supported"
+     },
+     {
+      "slug": "thermos-lad-supported-appraisal-phase"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "thermos-learning-analytics-dashboard",
       "strength": "W"
      }
     ]
@@ -101882,6 +104373,33 @@
      }
     ]
    },
+   "leader-investment-lever-teacher-confidence-satisfaction-skyline": {
+    "claims": [
+     {
+      "slug": "four-implementation-themes-exclusion-interventions"
+     },
+     {
+      "slug": "leaders-allocated-resources-expand-organizational-capacity-skyline"
+     },
+     {
+      "slug": "leadership-buy-in-investments-facilitate-trauma-engaged-implementation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "skyline-ela-curriculum-k-2",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-5es-framework",
+      "strength": "M"
+     }
+    ]
+   },
    "leader-teacher-diffusion-uneven": {
     "claims": [
      {
@@ -101947,6 +104465,27 @@
      }
     ]
    },
+   "leaders-allocated-resources-expand-organizational-capacity-skyline": {
+    "claims": [
+     {
+      "slug": "leader-investment-lever-teacher-confidence-satisfaction-skyline"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "skyline-ela-curriculum-k-2",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-5es-framework",
+      "strength": "M"
+     }
+    ]
+   },
    "leaders-key-to-cross-sector-collaboration": {
     "claims": [
      {
@@ -101986,6 +104525,9 @@
      },
      {
       "slug": "interview-facilitators-evidence-use"
+     },
+     {
+      "slug": "leader-investment-lever-teacher-confidence-satisfaction-skyline"
      },
      {
       "slug": "resource-awareness-use-associated-with-higher-implementation"
@@ -103393,6 +105935,33 @@
      }
     ]
    },
+   "learning-readiness-strongest-wec-component": {
+    "claims": [
+     {
+      "slug": "wec-achievement-relationship-stable-year-census"
+     },
+     {
+      "slug": "wec-index-weak-positive-association-academic-outcomes"
+     },
+     {
+      "slug": "well-being-index-least-predictive-academic-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "wec-wellbeing-engagement-collection-survey",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "learning-readiness-srl-operationalization",
+      "strength": "M"
+     }
+    ]
+   },
    "learning-space-redesign-alone-insufficient": {
     "claims": [
      {
@@ -103617,6 +106186,36 @@
      },
      {
       "slug": "drop-in-tutorials-improve-p1y-marks"
+     }
+    ]
+   },
+   "learning-time-decreases-proficiency-moderation": {
+    "claims": [
+     {
+      "slug": "learning-time-decreases-spring-2020"
+     },
+     {
+      "slug": "self-directed-learning-increase-universal"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "charter-school-response-to-the-pandemic-survey",
+      "strength": "W"
+     }
+    ]
+   },
+   "learning-time-decreases-spring-2020": {
+    "claims": [
+     {
+      "slug": "charter-schools-reported-student-academic-losses"
+     },
+     {
+      "slug": "curriculum-coverage-ela-math-fared-best"
+     },
+     {
+      "slug": "learning-time-decreases-proficiency-moderation"
      }
     ]
    },
@@ -104968,6 +107567,26 @@
      }
     ]
    },
+   "linguistic-coherence-predicts-productive-collaboration": {
+    "claims": [
+     {
+      "slug": "network-of-intuitive-ideas-stabilizes-thinking"
+     },
+     {
+      "slug": "part-whole-coordination-preserves-initial-idea"
+     },
+     {
+      "slug": "student-understanding-alternates-between-local-coherences-tickertape"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-rationales-combining-modalities-mmca",
+      "strength": "W"
+     }
+    ]
+   },
    "linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect": {
     "claims": [
      {
@@ -106064,6 +108683,23 @@
      }
     ]
    },
+   "llama2-qlora-unsatisfactory-for-teaching-quality-tasks": {
+    "claims": [
+     {
+      "slug": "existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial"
+     },
+     {
+      "slug": "plm-performance-depends-on-pedagogical-expertise-required"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "simse-metacognitive-modeling-dataset",
+      "strength": "W"
+     }
+    ]
+   },
    "lli-2010-positive-reading-fluency": {
     "claims": [
      {
@@ -106615,6 +109251,9 @@
    "llm-accuracy-regression-overestimation-bias": {
     "claims": [
      {
+      "slug": "chatgpt-zero-shot-relevance-extraction-unreliable"
+     },
+     {
       "slug": "curricular-cot-improves-accuracy-larger-models"
      },
      {
@@ -106663,6 +109302,9 @@
    },
    "llm-competency-error-patterns-four-types": {
     "claims": [
+     {
+      "slug": "chatgpt-zero-shot-relevance-extraction-unreliable"
+     },
      {
       "slug": "llm-accuracy-regression-overestimation-bias"
      },
@@ -107986,10 +110628,42 @@
      }
     ]
    },
+   "low-performers-procrastinated-exercises-and-videos": {
+    "claims": [
+     {
+      "slug": "exam-weeks-exercises-as-formative-practice"
+     },
+     {
+      "slug": "final-exam-ena-x-dimension-significant"
+     },
+     {
+      "slug": "final-exam-subtracted-network-group-differences"
+     },
+     {
+      "slug": "flipped-classroom-preparing-revisiting-summative-most-used"
+     },
+     {
+      "slug": "midterm-ena-no-significant-difference"
+     },
+     {
+      "slug": "topic-level-time-management-group-differences"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ena-strategies-time-topics-network-model",
+      "strength": "W"
+     }
+    ]
+   },
    "low-precision-pii-detection-semantic-disruption": {
     "claims": [
      {
       "slug": "fine-tuned-gpt4o-mini-equitable-across-culture-gender"
+     },
+     {
+      "slug": "gpt4-over-redaction-of-non-pii-names-and-locations"
      },
      {
       "slug": "no-single-pii-model-dominates-categories"
@@ -108201,6 +110875,20 @@
      {
       "polarity": "~",
       "slug": "summative-assessment",
+      "strength": "W"
+     }
+    ]
+   },
+   "low-vs-growing-states-grade-level-likelihood": {
+    "claims": [
+     {
+      "slug": "high-prek4-states-greater-kindergarten-math-growth"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "prek4-investment-three-category-classification",
       "strength": "W"
      }
     ]
@@ -108892,6 +111580,16 @@
      }
     ]
    },
+   "maintaining-student-connection-strategies-closure": {
+    "claims": [
+     {
+      "slug": "closure-urgency-priorities-learning-first"
+     },
+     {
+      "slug": "teacher-remote-challenges-attention-not-technology"
+     }
+    ]
+   },
    "majors-background-affects-outcomes": {
     "claims": [
      {
@@ -109004,6 +111702,36 @@
       "polarity": "+",
       "slug": "reyes-stanic-five-aspect-model",
       "strength": "W"
+     }
+    ]
+   },
+   "male-overrepresentation-high-achievers-rises-elementary": {
+    "claims": [
+     {
+      "slug": "gender-gap-reverses-male-favored-elementary-math"
+     },
+     {
+      "slug": "mfr-increases-fall-to-spring-within-year"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cumulative-educational-experience-account-gender-math-gaps",
+      "strength": "W"
+     }
+    ]
+   },
+   "male-students-higher-discipline-rates-elementary": {
+    "claims": [
+     {
+      "slug": "discipline-acts-peak-grade-three-elementary"
+     },
+     {
+      "slug": "ell-students-fewer-disciplinary-acts"
+     },
+     {
+      "slug": "ese-students-higher-disciplinary-rates"
      }
     ]
    },
@@ -109139,6 +111867,28 @@
       "polarity": "+",
       "slug": "seven-stages-of-concern-innovation",
       "strength": "W"
+     }
+    ]
+   },
+   "mandated-non-elp-requirements-higher-long-term-el-shares": {
+    "claims": [
+     {
+      "slug": "complex-policies-lower-minimum-composite-scores"
+     },
+     {
+      "slug": "complex-reclassification-policies-higher-el-share"
+     },
+     {
+      "slug": "eligibility-disparities-widen-across-grades"
+     },
+     {
+      "slug": "kind-not-number-of-criteria-determines-long-term-el-status"
+     },
+     {
+      "slug": "no-demographic-patterns-across-reclassification-structures"
+     },
+     {
+      "slug": "policy-adherence-high-but-lower-in-mandated-assessment-state"
      }
     ]
    },
@@ -109490,6 +112240,26 @@
       "polarity": "+",
       "slug": "word-text-learner-incidental-factors-framework",
       "strength": "M"
+     }
+    ]
+   },
+   "marginal-state-characteristics-math-improvement": {
+    "claims": [
+     {
+      "slug": "district-performance-stronger-predictor-than-prek4-enrollment"
+     },
+     {
+      "slug": "no-significant-district-offerings-math-links"
+     },
+     {
+      "slug": "specialized-prek-teacher-training-math-improvement"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "prek4-investment-three-category-classification",
+      "strength": "W"
      }
     ]
    },
@@ -109980,6 +112750,63 @@
     "claims": [
      {
       "slug": "mastery-positive-affective-effects"
+     }
+    ]
+   },
+   "mastery-platform-effects-uniform-across-demographics": {
+    "claims": [
+     {
+      "slug": "aac-perceptions-null-subgroup-associations"
+     },
+     {
+      "slug": "fast-no-subgroup-differential-impact"
+     },
+     {
+      "slug": "mastery-platform-longitudinal-positive-effects"
+     },
+     {
+      "slug": "wraparound-ses-subgroup-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "khan-academy-map-accelerator-platform",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "within-student-longitudinal-causal-design",
+      "strength": "W"
+     }
+    ]
+   },
+   "mastery-platform-longitudinal-positive-effects": {
+    "claims": [
+     {
+      "slug": "mastery-platform-effects-uniform-across-demographics"
+     },
+     {
+      "slug": "prior-cross-sectional-platform-usage-achievement-link"
+     },
+     {
+      "slug": "time-varying-confounds-limit-platform-estimates"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "khan-academy-map-accelerator-platform",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "within-student-longitudinal-causal-design",
+      "strength": "M"
      }
     ]
    },
@@ -110646,6 +113473,20 @@
      }
     ]
    },
+   "math-slower-recovery-than-reading": {
+    "claims": [
+     {
+      "slug": "prior-technology-meta-analyses-inconsistent-effects"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "pace-of-learning-pol-construct",
+      "strength": "W"
+     }
+    ]
+   },
    "math-software-effects-uncorrelated-classroom-school-characteristics": {
     "claims": [
      {
@@ -110797,6 +113638,49 @@
      {
       "polarity": "+",
       "slug": "pennsylvania-teacher-principal-evaluation-pilot",
+      "strength": "W"
+     }
+    ]
+   },
+   "mathia-students-hard-to-adapt-strategies": {
+    "claims": [
+     {
+      "slug": "bert-predicts-successful-unsuccessful-strategies"
+     },
+     {
+      "slug": "controlled-interaction-patterns-higher-self-explanation-quality"
+     },
+     {
+      "slug": "self-regulated-learning-predicts-achievement"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "strategy-adaptability-cognitive-flexibility-math",
+      "strength": "M"
+     }
+    ]
+   },
+   "mathia-word-problems-flagged-reading-gaps": {
+    "claims": [
+     {
+      "slug": "flagged-problems-shorter-more-sentences-descriptives"
+     },
+     {
+      "slug": "partial-dependence-nonlinear-relationships"
+     },
+     {
+      "slug": "random-forest-best-auc-flagged-problems"
+     },
+     {
+      "slug": "word-count-top-traditional-formulas-unimportant"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "mwp-readability-metrics-five-category-taxonomy",
       "strength": "W"
      }
     ]
@@ -111259,6 +114143,9 @@
    },
    "measurement-invariance-gender-structural-equivalence-rejected": {
     "claims": [
+     {
+      "slug": "gender-identity-relationship-management-wellbeing-differences"
+     },
      {
       "slug": "transformational-leadership-gender-specific-pathways"
      },
@@ -112383,6 +115270,9 @@
    "memphis-model-adjusts-mobility-demographics-measurement-error": {
     "claims": [
      {
+      "slug": "credo-cohort1-magnet-strong-positive-growth"
+     },
+     {
       "slug": "k3-growth-measure-validity-precision-caution"
      },
      {
@@ -112731,6 +115621,9 @@
      },
      {
       "slug": "reentry-without-mentors-greatest-fuller-progress"
+     },
+     {
+      "slug": "teacher-big-picture-genai-concerns"
      },
      {
       "slug": "teacher-concern-progression-and-retreat"
@@ -113606,6 +116499,26 @@
      }
     ]
    },
+   "mfr-increases-fall-to-spring-within-year": {
+    "claims": [
+     {
+      "slug": "male-overrepresentation-high-achievers-rises-elementary"
+     },
+     {
+      "slug": "placement-improves-fall-to-spring"
+     },
+     {
+      "slug": "wec-effects-more-pronounced-males-literacy"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cumulative-educational-experience-account-gender-math-gaps",
+      "strength": "M"
+     }
+    ]
+   },
    "mi-lacks-empirical-theory-testing": {
     "claims": [
      {
@@ -113706,6 +116619,23 @@
      {
       "polarity": "+",
       "slug": "mall-mobile2-0-subdivision-of-call",
+      "strength": "W"
+     }
+    ]
+   },
+   "microphone-most-used-mmca-sensor": {
+    "claims": [
+     {
+      "slug": "mmca-studies-mostly-two-or-three-modalities"
+     },
+     {
+      "slug": "more-modalities-not-always-better-mental-state-detection"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "mmca-definitional-framework-five-modalities",
       "strength": "W"
      }
     ]
@@ -113945,6 +116875,29 @@
      },
      {
       "slug": "small-districts-mixed-inclusion-by-selpa-composition"
+     }
+    ]
+   },
+   "midterm-ena-no-significant-difference": {
+    "claims": [
+     {
+      "slug": "final-exam-ena-x-dimension-significant"
+     },
+     {
+      "slug": "final-exam-subtracted-network-group-differences"
+     },
+     {
+      "slug": "low-performers-procrastinated-exercises-and-videos"
+     },
+     {
+      "slug": "weekly-ena-ttests-significant-weeks"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ena-strategies-time-topics-network-model",
+      "strength": "W"
      }
     ]
    },
@@ -115328,6 +118281,28 @@
      }
     ]
    },
+   "mmca-studies-mostly-two-or-three-modalities": {
+    "claims": [
+     {
+      "slug": "microphone-most-used-mmca-sensor"
+     },
+     {
+      "slug": "more-modalities-not-always-better-mental-state-detection"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-rationales-combining-modalities-mmca",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mmca-definitional-framework-five-modalities",
+      "strength": "W"
+     }
+    ]
+   },
    "mml-bifactor-two-dimensional-integrals-general-conditions": {
     "claims": [
      {
@@ -116286,6 +119261,31 @@
      },
      {
       "slug": "ffl-validity-moderate-tenure-principals"
+     }
+    ]
+   },
+   "more-modalities-not-always-better-mental-state-detection": {
+    "claims": [
+     {
+      "slug": "microphone-most-used-mmca-sensor"
+     },
+     {
+      "slug": "mmca-studies-mostly-two-or-three-modalities"
+     },
+     {
+      "slug": "spoken-versus-signaled-written-null"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "four-rationales-combining-modalities-mmca",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mmca-definitional-framework-five-modalities",
+      "strength": "W"
      }
     ]
    },
@@ -117976,6 +120976,20 @@
      }
     ]
    },
+   "multimodality-reverses-silence-interpretation-cps": {
+    "claims": [
+     {
+      "slug": "facial-features-low-rapport-no-added-modalities"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-rationales-combining-modalities-mmca",
+      "strength": "W"
+     }
+    ]
+   },
    "multiple-choice-higher-practice-performance-than-short-answer": {
     "claims": [
      {
@@ -119077,6 +122091,9 @@
       "slug": "contextual-features-stabilize-distance-time-inference"
      },
      {
+      "slug": "linguistic-coherence-predicts-productive-collaboration"
+     },
+     {
       "slug": "material-arrangement-affords-stability"
      },
      {
@@ -119229,6 +122246,133 @@
      },
      {
       "slug": "misconceptions-interfere-with-new-learning"
+     }
+    ]
+   },
+   "newark-charter-ell-growth-vs-state": {
+    "claims": [
+     {
+      "slug": "houston-ell-charter-advantage-magnet-trails"
+     },
+     {
+      "slug": "newark-charter-growth-vs-state-2018-19"
+     },
+     {
+      "slug": "newark-charter-poverty-growth"
+     },
+     {
+      "slug": "newark-charter-vs-district-within-newark-2018-19"
+     },
+     {
+      "slug": "newark-cmo-vs-independent-charter-growth"
+     }
+    ]
+   },
+   "newark-charter-growth-vs-state-2018-19": {
+    "claims": [
+     {
+      "slug": "newark-charter-ell-growth-vs-state"
+     },
+     {
+      "slug": "newark-charter-poverty-growth"
+     },
+     {
+      "slug": "newark-charter-vs-district-within-newark-2018-19"
+     },
+     {
+      "slug": "newark-cmo-vs-independent-charter-growth"
+     },
+     {
+      "slug": "newark-overall-growth-vs-state-2018-19"
+     }
+    ]
+   },
+   "newark-charter-poverty-growth": {
+    "claims": [
+     {
+      "slug": "newark-charter-ell-growth-vs-state"
+     },
+     {
+      "slug": "newark-charter-growth-vs-state-2018-19"
+     },
+     {
+      "slug": "newark-charter-vs-district-within-newark-2018-19"
+     },
+     {
+      "slug": "newark-cmo-vs-independent-charter-growth"
+     }
+    ]
+   },
+   "newark-charter-vs-district-within-newark-2018-19": {
+    "claims": [
+     {
+      "slug": "fort-worth-charter-beats-district-reading-growth"
+     },
+     {
+      "slug": "newark-charter-ell-growth-vs-state"
+     },
+     {
+      "slug": "newark-charter-growth-vs-state-2018-19"
+     },
+     {
+      "slug": "newark-charter-poverty-growth"
+     },
+     {
+      "slug": "newark-cmo-vs-independent-charter-growth"
+     },
+     {
+      "slug": "newark-overall-growth-vs-state-2018-19"
+     }
+    ]
+   },
+   "newark-cmo-vs-independent-charter-growth": {
+    "claims": [
+     {
+      "slug": "austin-cmo-vs-independent-charter-growth"
+     },
+     {
+      "slug": "cmo-schools-advance-reading-math-standalone-reading-only"
+     },
+     {
+      "slug": "fort-worth-cmo-outperforms-independent-charters"
+     },
+     {
+      "slug": "houston-cmo-charters-outgrow-state-independents-null"
+     },
+     {
+      "slug": "newark-charter-ell-growth-vs-state"
+     },
+     {
+      "slug": "newark-charter-growth-vs-state-2018-19"
+     },
+     {
+      "slug": "newark-charter-poverty-growth"
+     },
+     {
+      "slug": "newark-charter-vs-district-within-newark-2018-19"
+     }
+    ]
+   },
+   "newark-magnet-special-ed-math-growth": {
+    "claims": [
+     {
+      "slug": "credo-cohort1-magnet-strong-positive-growth"
+     },
+     {
+      "slug": "newark-overall-growth-vs-state-2018-19"
+     }
+    ]
+   },
+   "newark-overall-growth-vs-state-2018-19": {
+    "claims": [
+     {
+      "slug": "newark-charter-growth-vs-state-2018-19"
+     },
+     {
+      "slug": "newark-charter-vs-district-within-newark-2018-19"
+     },
+     {
+      "slug": "newark-magnet-special-ed-math-growth"
      }
     ]
    },
@@ -119645,6 +122789,177 @@
      }
     ]
    },
+   "nm-charter-grade-configuration-reading": {
+    "claims": [
+     {
+      "slug": "nm-charter-overall-growth-similar-to-tps"
+     },
+     {
+      "slug": "nm-charter-sector-improvement-trajectory"
+     },
+     {
+      "slug": "nm-charter-third-year-reading-gain"
+     },
+     {
+      "slug": "nm-urban-charter-reading-advantage"
+     },
+     {
+      "slug": "pa-charter-impact-by-grade-configuration"
+     },
+     {
+      "slug": "sc-charter-grade-configuration-differences"
+     }
+    ]
+   },
+   "nm-charter-overall-growth-similar-to-tps": {
+    "claims": [
+     {
+      "slug": "charter-students-more-days-learning-reading-math"
+     },
+     {
+      "slug": "nm-charter-grade-configuration-reading"
+     },
+     {
+      "slug": "nm-charter-sector-improvement-trajectory"
+     },
+     {
+      "slug": "nm-charter-third-year-reading-gain"
+     },
+     {
+      "slug": "nm-online-charter-weaker-growth"
+     },
+     {
+      "slug": "nm-urban-charter-reading-advantage"
+     },
+     {
+      "slug": "school-characteristics-benchmark-shares"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
+   "nm-charter-sector-improvement-trajectory": {
+    "claims": [
+     {
+      "slug": "nm-charter-grade-configuration-reading"
+     },
+     {
+      "slug": "nm-charter-overall-growth-similar-to-tps"
+     },
+     {
+      "slug": "nm-charter-third-year-reading-gain"
+     },
+     {
+      "slug": "nm-online-behind-brick-and-mortar"
+     },
+     {
+      "slug": "nm-online-charter-weaker-growth"
+     },
+     {
+      "slug": "nm-urban-charter-reading-advantage"
+     }
+    ]
+   },
+   "nm-charter-third-year-reading-gain": {
+    "claims": [
+     {
+      "slug": "idaho-charter-years-of-enrollment-null"
+     },
+     {
+      "slug": "nm-charter-grade-configuration-reading"
+     },
+     {
+      "slug": "nm-charter-overall-growth-similar-to-tps"
+     },
+     {
+      "slug": "nm-charter-sector-improvement-trajectory"
+     },
+     {
+      "slug": "nm-online-charter-weaker-growth"
+     },
+     {
+      "slug": "nm-urban-charter-reading-advantage"
+     },
+     {
+      "slug": "sc-charter-gains-by-years-of-enrollment"
+     },
+     {
+      "slug": "wa-charter-gains-by-years-enrolled"
+     }
+    ]
+   },
+   "nm-online-behind-brick-and-mortar": {
+    "claims": [
+     {
+      "slug": "nm-charter-sector-improvement-trajectory"
+     },
+     {
+      "slug": "nm-online-charter-weaker-growth"
+     },
+     {
+      "slug": "sc-online-charter-students-weaker-growth"
+     }
+    ]
+   },
+   "nm-online-charter-weaker-growth": {
+    "claims": [
+     {
+      "slug": "idaho-online-charter-learning-deficits"
+     },
+     {
+      "slug": "nm-charter-overall-growth-similar-to-tps"
+     },
+     {
+      "slug": "nm-charter-sector-improvement-trajectory"
+     },
+     {
+      "slug": "nm-charter-third-year-reading-gain"
+     },
+     {
+      "slug": "nm-online-behind-brick-and-mortar"
+     },
+     {
+      "slug": "sc-online-charter-students-weaker-growth"
+     }
+    ]
+   },
+   "nm-urban-charter-reading-advantage": {
+    "claims": [
+     {
+      "slug": "nm-charter-grade-configuration-reading"
+     },
+     {
+      "slug": "nm-charter-overall-growth-similar-to-tps"
+     },
+     {
+      "slug": "nm-charter-sector-improvement-trajectory"
+     },
+     {
+      "slug": "nm-charter-third-year-reading-gain"
+     },
+     {
+      "slug": "pa-charter-impact-by-locale"
+     },
+     {
+      "slug": "school-characteristics-benchmark-shares"
+     },
+     {
+      "slug": "wa-charter-school-level-variation-three-of-nine"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-school-sector-taxonomy",
+      "strength": "W"
+     }
+    ]
+   },
    "no-age-by-treatment-interaction-acceptability": {
     "claims": [
      {
@@ -119986,6 +123301,22 @@
      }
     ]
    },
+   "no-demographic-patterns-across-reclassification-structures": {
+    "claims": [
+     {
+      "slug": "complex-policies-lower-minimum-composite-scores"
+     },
+     {
+      "slug": "complex-reclassification-policies-higher-el-share"
+     },
+     {
+      "slug": "kind-not-number-of-criteria-determines-long-term-el-status"
+     },
+     {
+      "slug": "mandated-non-elp-requirements-higher-long-term-el-shares"
+     }
+    ]
+   },
    "no-difference-operational-skills-usability": {
     "claims": [
      {
@@ -120247,6 +123578,19 @@
       "polarity": "~",
       "slug": "ucsmp-secondary-mathematics-curriculum",
       "strength": "W"
+     }
+    ]
+   },
+   "no-evidence-overperformers-fewer-students-behind": {
+    "claims": [
+     {
+      "slug": "overperformers-more-white-dominant-not-income-or-locale-tied"
+     },
+     {
+      "slug": "school-growth-status-unstable-overperforming-hard-to-sustain"
+     },
+     {
+      "slug": "school-level-growth-variation-overperformers"
      }
     ]
    },
@@ -121054,6 +124398,25 @@
       "polarity": "+",
       "slug": "seven-dimensional-outcome-comparison-framework",
       "strength": "W"
+     }
+    ]
+   },
+   "no-significant-district-offerings-math-links": {
+    "claims": [
+     {
+      "slug": "district-performance-stronger-predictor-than-prek4-enrollment"
+     },
+     {
+      "slug": "district-prek4-participation-increased-all-categories"
+     },
+     {
+      "slug": "high-prek4-states-greater-kindergarten-math-growth"
+     },
+     {
+      "slug": "marginal-state-characteristics-math-improvement"
+     },
+     {
+      "slug": "specialized-prek-teacher-training-math-improvement"
      }
     ]
    },
@@ -122213,6 +125576,16 @@
      }
     ]
    },
+   "nslp-participation-associated-lower-growth-goal-attainment": {
+    "claims": [
+     {
+      "slug": "adult-sel-measures-not-predicting-student-growth"
+     },
+     {
+      "slug": "wellbeing-predicts-emotion-regulation"
+     }
+    ]
+   },
    "nudge-letters-phone-calls-attendance-teams-highest-fidelity": {
     "claims": [
      {
@@ -123296,6 +126669,29 @@
      {
       "polarity": "+",
       "slug": "language-socialization-perspective-vocational-esl",
+      "strength": "W"
+     }
+    ]
+   },
+   "on-grade-lesson-share-rises-with-domains-on-grade": {
+    "claims": [
+     {
+      "slug": "below-grade-students-advance-toward-grade-level-content"
+     },
+     {
+      "slug": "dlp-allocates-more-lessons-to-domain-of-need"
+     },
+     {
+      "slug": "placement-improves-fall-to-spring"
+     },
+     {
+      "slug": "similar-lesson-quantity-regardless-of-placement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "i-ready-platform-element",
       "strength": "W"
      }
     ]
@@ -125325,6 +128721,23 @@
      }
     ]
    },
+   "overperformer-demographics-white-not-income": {
+    "claims": [
+     {
+      "slug": "overperformers-more-white-dominant-not-income-or-locale-tied"
+     }
+    ]
+   },
+   "overperformers-more-white-dominant-not-income-or-locale-tied": {
+    "claims": [
+     {
+      "slug": "no-evidence-overperformers-fewer-students-behind"
+     },
+     {
+      "slug": "overperformer-demographics-white-not-income"
+     }
+    ]
+   },
    "oversubscribed-charter-middle-schools-prevalence": {
     "claims": [
      {
@@ -125446,6 +128859,204 @@
      },
      {
       "slug": "pa-staff-attrition-rose-4-to-5-percent-pandemic"
+     }
+    ]
+   },
+   "pa-charter-black-poverty-students-reading-gain": {
+    "claims": [
+     {
+      "slug": "charter-minority-poverty-gains-below-white-peers"
+     },
+     {
+      "slug": "pa-charter-black-students-reading-gain"
+     },
+     {
+      "slug": "pa-charter-hispanic-students-similar-to-tps-peers"
+     },
+     {
+      "slug": "pa-charter-poverty-students-weaker-math"
+     },
+     {
+      "slug": "ri-charter-gains-black-hispanic-students"
+     }
+    ]
+   },
+   "pa-charter-black-students-reading-gain": {
+    "claims": [
+     {
+      "slug": "charter-minority-poverty-gains-below-white-peers"
+     },
+     {
+      "slug": "idaho-charter-reading-advantage-math-null"
+     },
+     {
+      "slug": "pa-charter-black-poverty-students-reading-gain"
+     },
+     {
+      "slug": "pa-charter-hispanic-students-similar-to-tps-peers"
+     },
+     {
+      "slug": "pa-charter-overall-similar-reading-weaker-math"
+     },
+     {
+      "slug": "pa-charter-poverty-students-weaker-math"
+     },
+     {
+      "slug": "wa-charter-school-level-variation-three-of-nine"
+     }
+    ]
+   },
+   "pa-charter-hispanic-students-similar-to-tps-peers": {
+    "claims": [
+     {
+      "slug": "pa-charter-black-poverty-students-reading-gain"
+     },
+     {
+      "slug": "pa-charter-black-students-reading-gain"
+     },
+     {
+      "slug": "pa-charter-poverty-students-weaker-math"
+     }
+    ]
+   },
+   "pa-charter-impact-by-grade-configuration": {
+    "claims": [
+     {
+      "slug": "charter-gains-from-existing-schools-not-multilevel"
+     },
+     {
+      "slug": "idaho-charter-grade-configuration-effects"
+     },
+     {
+      "slug": "idaho-charter-school-level-distribution"
+     },
+     {
+      "slug": "nm-charter-grade-configuration-reading"
+     },
+     {
+      "slug": "pa-charter-overall-similar-reading-weaker-math"
+     },
+     {
+      "slug": "pa-charter-poverty-students-weaker-math"
+     },
+     {
+      "slug": "sc-charter-grade-configuration-differences"
+     },
+     {
+      "slug": "wa-charter-school-level-variation-three-of-nine"
+     }
+    ]
+   },
+   "pa-charter-impact-by-locale": {
+    "claims": [
+     {
+      "slug": "idaho-rural-charter-advantage"
+     },
+     {
+      "slug": "nm-urban-charter-reading-advantage"
+     },
+     {
+      "slug": "pa-charter-overall-similar-reading-weaker-math"
+     },
+     {
+      "slug": "pa-charter-poverty-students-weaker-math"
+     },
+     {
+      "slug": "school-characteristics-benchmark-shares"
+     },
+     {
+      "slug": "wa-charter-school-level-variation-three-of-nine"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "credo-city-studies-growth-benchmarking-approach",
+      "strength": "W"
+     }
+    ]
+   },
+   "pa-charter-math-gap-varies-by-growth-period": {
+    "claims": [
+     {
+      "slug": "idaho-charter-growth-period-reading"
+     },
+     {
+      "slug": "pa-charter-overall-similar-reading-weaker-math"
+     },
+     {
+      "slug": "pa-charter-poverty-students-weaker-math"
+     },
+     {
+      "slug": "sc-charter-math-gap-narrows-over-growth-periods"
+     },
+     {
+      "slug": "sc-charter-overall-math-weaker-reading-similar"
+     },
+     {
+      "slug": "wa-charter-gains-by-growth-period"
+     }
+    ]
+   },
+   "pa-charter-overall-similar-reading-weaker-math": {
+    "claims": [
+     {
+      "slug": "charter-students-more-days-learning-reading-math"
+     },
+     {
+      "slug": "idaho-charter-reading-advantage-math-null"
+     },
+     {
+      "slug": "idaho-online-charter-learning-deficits"
+     },
+     {
+      "slug": "pa-charter-black-students-reading-gain"
+     },
+     {
+      "slug": "pa-charter-impact-by-grade-configuration"
+     },
+     {
+      "slug": "pa-charter-impact-by-locale"
+     },
+     {
+      "slug": "pa-charter-math-gap-varies-by-growth-period"
+     },
+     {
+      "slug": "pa-charter-poverty-students-weaker-math"
+     },
+     {
+      "slug": "sc-charter-overall-math-weaker-reading-similar"
+     }
+    ]
+   },
+   "pa-charter-poverty-students-weaker-math": {
+    "claims": [
+     {
+      "slug": "idaho-online-charter-learning-deficits"
+     },
+     {
+      "slug": "pa-charter-black-poverty-students-reading-gain"
+     },
+     {
+      "slug": "pa-charter-black-students-reading-gain"
+     },
+     {
+      "slug": "pa-charter-hispanic-students-similar-to-tps-peers"
+     },
+     {
+      "slug": "pa-charter-impact-by-grade-configuration"
+     },
+     {
+      "slug": "pa-charter-impact-by-locale"
+     },
+     {
+      "slug": "pa-charter-math-gap-varies-by-growth-period"
+     },
+     {
+      "slug": "pa-charter-overall-similar-reading-weaker-math"
+     },
+     {
+      "slug": "sc-charter-overall-math-weaker-reading-similar"
      }
     ]
    },
@@ -127243,6 +130854,9 @@
       "slug": "contextual-features-stabilize-distance-time-inference"
      },
      {
+      "slug": "linguistic-coherence-predicts-productive-collaboration"
+     },
+     {
       "slug": "material-artifact-stability-stabilizes-thinking"
      },
      {
@@ -127266,6 +130880,29 @@
      {
       "polarity": "+",
       "slug": "four-options-co-teaching-value-added",
+      "strength": "W"
+     }
+    ]
+   },
+   "partial-dependence-nonlinear-relationships": {
+    "claims": [
+     {
+      "slug": "flagged-problems-shorter-more-sentences-descriptives"
+     },
+     {
+      "slug": "mathia-word-problems-flagged-reading-gaps"
+     },
+     {
+      "slug": "random-forest-best-auc-flagged-problems"
+     },
+     {
+      "slug": "word-count-top-traditional-formulas-unimportant"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "mwp-readability-metrics-five-category-taxonomy",
       "strength": "W"
      }
     ]
@@ -130818,6 +134455,9 @@
       "slug": "ecree-district-costs-depend-on-implementation-lower-for-larger-districts"
      },
      {
+      "slug": "high-dosage-cal-teachers-buy-in-strategy-monitoring"
+     },
+     {
       "slug": "kauffman-school-hallmarks-implemented-faithfully"
      },
      {
@@ -131190,6 +134830,9 @@
      },
      {
       "slug": "philadelphia-charter-gains-equal-district-schools"
+     },
+     {
+      "slug": "ri-charter-closure-equity-concern-no-better-alternatives"
      }
     ]
    },
@@ -132526,6 +136169,9 @@
       "slug": "pittsburgh-vams-use-multiple-outcome-measures"
      },
      {
+      "slug": "ratings-moderately-correlated-with-student-learning"
+     },
+     {
       "slug": "teacher-survey-domains-differentiate-among-schools"
      }
     ],
@@ -132700,6 +136346,32 @@
      }
     ]
    },
+   "placement-improves-fall-to-spring": {
+    "claims": [
+     {
+      "slug": "below-grade-students-advance-toward-grade-level-content"
+     },
+     {
+      "slug": "dlp-allocates-more-lessons-to-domain-of-need"
+     },
+     {
+      "slug": "mfr-increases-fall-to-spring-within-year"
+     },
+     {
+      "slug": "on-grade-lesson-share-rises-with-domains-on-grade"
+     },
+     {
+      "slug": "similar-lesson-quantity-regardless-of-placement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "i-ready-platform-element",
+      "strength": "W"
+     }
+    ]
+   },
    "places-most-visible-easiest-to-change": {
     "claims": [
      {
@@ -132827,6 +136499,20 @@
      {
       "polarity": "~",
       "slug": "task-planning-taxonomy-ellis",
+      "strength": "W"
+     }
+    ]
+   },
+   "planning-timing-no-link-to-instruction-start": {
+    "claims": [
+     {
+      "slug": "charter-schools-remote-transition-35-days"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "charter-school-response-to-the-pandemic-survey",
       "strength": "W"
      }
     ]
@@ -133410,6 +137096,9 @@
       "slug": "plc-participation-changes-teacher-norms-understanding-practice"
      },
      {
+      "slug": "ri-charter-shift-punitive-to-collaborative-culture"
+     },
+     {
       "slug": "situated-learning-three-barrier-categories"
      },
      {
@@ -133606,6 +137295,29 @@
      {
       "polarity": "+",
       "slug": "95-phonics-lesson-library-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "plm-performance-depends-on-pedagogical-expertise-required": {
+    "claims": [
+     {
+      "slug": "class-weighted-loss-marginal-gain-skewed-teaching-ratings"
+     },
+     {
+      "slug": "llama2-qlora-unsatisfactory-for-teaching-quality-tasks"
+     },
+     {
+      "slug": "teacher-utterances-alone-sufficient-for-classroom-measures"
+     },
+     {
+      "slug": "two-stage-relevance-strategy-helps-multi-sentence-variables"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "simse-metacognitive-modeling-dataset",
       "strength": "W"
      }
     ]
@@ -133855,6 +137567,22 @@
       "polarity": "-",
       "slug": "self-in-relation-development-theory",
       "strength": "W"
+     }
+    ]
+   },
+   "policy-adherence-high-but-lower-in-mandated-assessment-state": {
+    "claims": [
+     {
+      "slug": "complex-policies-lower-minimum-composite-scores"
+     },
+     {
+      "slug": "complexity-weakens-eligibility-reclassification-link"
+     },
+     {
+      "slug": "kind-not-number-of-criteria-determines-long-term-el-status"
+     },
+     {
+      "slug": "mandated-non-elp-requirements-higher-long-term-el-shares"
      }
     ]
    },
@@ -134557,6 +138285,16 @@
       "polarity": "+",
       "slug": "tennyson-cocchiarella-concept-instruction-model",
       "strength": "M"
+     }
+    ]
+   },
+   "positive-deviant-schools-math-growth": {
+    "claims": [
+     {
+      "slug": "k3-growth-measure-validity-precision-caution"
+     },
+     {
+      "slug": "school-level-growth-variation-overperformers"
      }
     ]
    },
@@ -135376,6 +139114,9 @@
     "claims": [
      {
       "slug": "pr-grade4-2003-naep-math-lower-than-nation"
+     },
+     {
+      "slug": "subdomain-specific-gender-patterns-elementary-math"
      }
     ]
    },
@@ -137095,6 +140836,9 @@
       "slug": "correlational-design-limits-epistemic-freedom-study"
      },
      {
+      "slug": "evaluator-bias-not-effectiveness-drives-composition-effect"
+     },
+     {
       "slug": "school-mgp-correlates-student-disadvantage"
      },
      {
@@ -137440,6 +141184,33 @@
      },
      {
       "slug": "pcc-teacher-education-thirty-percent-ontime-graduation"
+     }
+    ]
+   },
+   "prior-cross-sectional-platform-usage-achievement-link": {
+    "claims": [
+     {
+      "slug": "mastery-platform-longitudinal-positive-effects"
+     },
+     {
+      "slug": "time-varying-confounds-limit-platform-estimates"
+     },
+     {
+      "slug": "zearn-pilot-no-significant-differences"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "khan-academy-map-accelerator-platform",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "within-student-longitudinal-causal-design",
+      "strength": "W"
      }
     ]
    },
@@ -137989,6 +141760,9 @@
    },
    "prior-technology-meta-analyses-inconsistent-effects": {
     "claims": [
+     {
+      "slug": "math-slower-recovery-than-reading"
+     },
      {
       "slug": "mobile-devices-small-positive-effect-literacy-numeracy"
      }
@@ -141932,6 +145706,23 @@
      }
     ]
    },
+   "racial-identity-relationship-management-differences": {
+    "claims": [
+     {
+      "slug": "gender-identity-relationship-management-wellbeing-differences"
+     },
+     {
+      "slug": "sample-sel-scores-comparable-original-trust-sample"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "trust-panorama-adult-sel-survey-instrument",
+      "strength": "W"
+     }
+    ]
+   },
    "racism-shapes-resolve-to-teach-childrens-cultures": {
     "claims": [
      {
@@ -141974,6 +145765,41 @@
      {
       "polarity": "+",
       "slug": "student-data-use-coaching-support-schools",
+      "strength": "M"
+     }
+    ]
+   },
+   "random-forest-best-auc-flagged-problems": {
+    "claims": [
+     {
+      "slug": "awl-count-word-count-feature-importance-engagement"
+     },
+     {
+      "slug": "catboost-best-performing-risk-classifier"
+     },
+     {
+      "slug": "classifiers-beat-zero-rule-baseline-engagement"
+     },
+     {
+      "slug": "flagged-problems-shorter-more-sentences-descriptives"
+     },
+     {
+      "slug": "mathia-word-problems-flagged-reading-gaps"
+     },
+     {
+      "slug": "partial-dependence-nonlinear-relationships"
+     },
+     {
+      "slug": "svm-outperforms-dt-rf-cognitive-engagement-prediction"
+     },
+     {
+      "slug": "word-count-top-traditional-formulas-unimportant"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "mwp-readability-metrics-five-category-taxonomy",
       "strength": "M"
      }
     ]
@@ -142198,6 +146024,19 @@
       "polarity": "+",
       "slug": "mfrm-many-facet-rasch-model-ilhan-2018",
       "strength": "M"
+     }
+    ]
+   },
+   "ratings-moderately-correlated-with-student-learning": {
+    "claims": [
+     {
+      "slug": "classroom-composition-affects-teacher-ratings"
+     },
+     {
+      "slug": "component-measures-distinct-dimensions-principal-performance"
+     },
+     {
+      "slug": "pittsburgh-three-measures-differentiate-teacher-performance"
      }
     ]
    },
@@ -146483,6 +150322,22 @@
      }
     ]
    },
+   "referrals-negative-math-growth-inconsistent-reading": {
+    "claims": [
+     {
+      "slug": "discipline-acts-peak-grade-three-elementary"
+     },
+     {
+      "slug": "suspension-effects-robust-to-iv-policy-change"
+     },
+     {
+      "slug": "suspension-spillovers-small-negative-peer-achievement"
+     },
+     {
+      "slug": "suspensions-negative-math-growth-upper-elementary"
+     }
+    ]
+   },
    "reflection-combines-active-and-dynamic-self-regulation": {
     "claims": [
      {
@@ -148736,6 +152591,16 @@
      }
     ]
    },
+   "restricted-samples-explain-divergent-grade-predictions": {
+    "claims": [
+     {
+      "slug": "contextualized-gpa-stronger-than-contextualized-test-scores"
+     },
+     {
+      "slug": "grading-differences-small-gpa-averages-teacher-differences"
+     }
+    ]
+   },
    "results-robust-to-quartile-grouping": {
     "claims": [
      {
@@ -150649,6 +154514,292 @@
      }
     ]
    },
+   "ri-charter-closure-equity-concern-no-better-alternatives": {
+    "claims": [
+     {
+      "slug": "authorizer-type-charter-effectiveness-ohio-study"
+     },
+     {
+      "slug": "idaho-charter-school-level-distribution"
+     },
+     {
+      "slug": "philadelphia-charter-no-spillover-nearby-district-schools"
+     },
+     {
+      "slug": "ri-charter-framework-reduced-political-interference"
+     },
+     {
+      "slug": "school-characteristics-benchmark-shares"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-performance-review-system-2017",
+      "strength": "W"
+     }
+    ]
+   },
+   "ri-charter-dashboards-reduced-surprise-stress": {
+    "claims": [
+     {
+      "slug": "ca-visualization-supports-targeted-feedback-and-pedagogical-adjustment"
+     },
+     {
+      "slug": "clear-roles-and-training-support-ca-implementation"
+     },
+     {
+      "slug": "ri-charter-framework-reduced-political-interference"
+     },
+     {
+      "slug": "ri-charter-shift-punitive-to-collaborative-culture"
+     },
+     {
+      "slug": "sdp-ep-partnerships-enabled-new-data-use-practices"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-performance-review-system-2017",
+      "strength": "W"
+     }
+    ]
+   },
+   "ri-charter-demand-30000-applications-2500-seats": {
+    "claims": [
+     {
+      "slug": "charter-sector-growth-over-7000-schools-debate"
+     },
+     {
+      "slug": "ri-charter-positive-gains-reading-math"
+     },
+     {
+      "slug": "ri-charter-schools-outperform-share-vs-credo-2013"
+     },
+     {
+      "slug": "ri-charter-students-outperformed-tps-national-studies"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-performance-review-system-2017",
+      "strength": "W"
+     }
+    ]
+   },
+   "ri-charter-framework-reduced-political-interference": {
+    "claims": [
+     {
+      "slug": "ri-charter-closure-equity-concern-no-better-alternatives"
+     },
+     {
+      "slug": "ri-charter-dashboards-reduced-surprise-stress"
+     },
+     {
+      "slug": "ri-charter-shift-punitive-to-collaborative-culture"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-multidimensional-quality-standards-pattern",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-performance-review-system-2017",
+      "strength": "W"
+     }
+    ]
+   },
+   "ri-charter-gains-black-hispanic-students": {
+    "claims": [
+     {
+      "slug": "charter-minority-poverty-gains-below-white-peers"
+     },
+     {
+      "slug": "credo-race-ethnicity-growth-without-benchmark"
+     },
+     {
+      "slug": "pa-charter-black-poverty-students-reading-gain"
+     },
+     {
+      "slug": "ri-charter-gains-poverty-sped-ell"
+     },
+     {
+      "slug": "ri-charter-positive-gains-reading-math"
+     },
+     {
+      "slug": "ri-charter-students-outperformed-tps-national-studies"
+     }
+    ]
+   },
+   "ri-charter-gains-poverty-sped-ell": {
+    "claims": [
+     {
+      "slug": "charter-special-education-smaller-gains"
+     },
+     {
+      "slug": "gap-busting-charter-schools-exceed-state-averages"
+     },
+     {
+      "slug": "ri-charter-gains-black-hispanic-students"
+     },
+     {
+      "slug": "ri-charter-positive-gains-reading-math"
+     },
+     {
+      "slug": "ri-charter-students-outperformed-tps-national-studies"
+     },
+     {
+      "slug": "ri-learning-gaps-tps-subgroups"
+     }
+    ]
+   },
+   "ri-charter-positive-gains-reading-math": {
+    "claims": [
+     {
+      "slug": "charter-students-more-days-learning-reading-math"
+     },
+     {
+      "slug": "ri-charter-demand-30000-applications-2500-seats"
+     },
+     {
+      "slug": "ri-charter-gains-black-hispanic-students"
+     },
+     {
+      "slug": "ri-charter-gains-poverty-sped-ell"
+     },
+     {
+      "slug": "ri-charter-schools-outperform-share-vs-credo-2013"
+     },
+     {
+      "slug": "ri-charter-students-outperformed-tps-national-studies"
+     },
+     {
+      "slug": "sc-charter-math-gap-narrows-over-growth-periods"
+     },
+     {
+      "slug": "wa-charter-gains-by-growth-period"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-performance-review-system-2017",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "ri-charter-tps-demographic-comparison-2023",
+      "strength": "W"
+     }
+    ]
+   },
+   "ri-charter-schools-outperform-share-vs-credo-2013": {
+    "claims": [
+     {
+      "slug": "ri-charter-demand-30000-applications-2500-seats"
+     },
+     {
+      "slug": "ri-charter-positive-gains-reading-math"
+     },
+     {
+      "slug": "ri-charter-students-outperformed-tps-national-studies"
+     },
+     {
+      "slug": "wa-charter-school-level-variation-three-of-nine"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-performance-review-system-2017",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "ri-charter-tps-demographic-comparison-2023",
+      "strength": "W"
+     }
+    ]
+   },
+   "ri-charter-shift-punitive-to-collaborative-culture": {
+    "claims": [
+     {
+      "slug": "plc-norms-three-categories-trust-prerequisite"
+     },
+     {
+      "slug": "ri-charter-dashboards-reduced-surprise-stress"
+     },
+     {
+      "slug": "ri-charter-framework-reduced-political-interference"
+     },
+     {
+      "slug": "rpp-adaptive-practices-sustain-partnerships-during-disruption"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-performance-review-system-2017",
+      "strength": "W"
+     }
+    ]
+   },
+   "ri-charter-students-outperformed-tps-national-studies": {
+    "claims": [
+     {
+      "slug": "charter-students-more-days-learning-reading-math"
+     },
+     {
+      "slug": "ri-charter-demand-30000-applications-2500-seats"
+     },
+     {
+      "slug": "ri-charter-gains-black-hispanic-students"
+     },
+     {
+      "slug": "ri-charter-gains-poverty-sped-ell"
+     },
+     {
+      "slug": "ri-charter-positive-gains-reading-math"
+     },
+     {
+      "slug": "ri-charter-schools-outperform-share-vs-credo-2013"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-performance-review-system-2017",
+      "strength": "W"
+     }
+    ]
+   },
+   "ri-learning-gaps-tps-subgroups": {
+    "claims": [
+     {
+      "slug": "houston-poverty-charter-beats-district-both-subjects"
+     },
+     {
+      "slug": "ri-charter-gains-poverty-sped-ell"
+     },
+     {
+      "slug": "underserved-groups-lower-benchmark-shares-pol"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-tps-demographic-comparison-2023",
+      "strength": "W"
+     }
+    ]
+   },
    "rise-average-effect-size-009": {
     "claims": [
      {
@@ -151491,6 +155642,9 @@
      },
      {
       "slug": "relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety"
+     },
+     {
+      "slug": "ri-charter-shift-punitive-to-collaborative-culture"
      }
     ]
    },
@@ -151785,6 +155939,9 @@
       "slug": "dc-parents-distance-demographics-academics-drive-choice"
      },
      {
+      "slug": "iep-parents-safety-transportation-constraints"
+     },
+     {
       "slug": "rural-sig-schools-additional-location-challenges"
      },
      {
@@ -151810,6 +155967,9 @@
    },
    "rural-sig-schools-additional-location-challenges": {
     "claims": [
+     {
+      "slug": "iep-parents-safety-transportation-constraints"
+     },
      {
       "slug": "internet-access-larger-barrier-than-devices"
      },
@@ -151925,6 +156085,9 @@
    "rural-transportation-barriers-parent-involvement": {
     "claims": [
      {
+      "slug": "iep-parents-safety-transportation-constraints"
+     },
+     {
       "slug": "rural-setting-exacerbates-school-improvement-challenges"
      },
      {
@@ -151960,6 +156123,9 @@
    },
    "rural-transportation-shapes-learning-time-expansion": {
     "claims": [
+     {
+      "slug": "iep-parents-safety-transportation-constraints"
+     },
      {
       "slug": "rural-setting-exacerbates-school-improvement-challenges"
      },
@@ -152522,6 +156688,26 @@
      }
     ]
    },
+   "sample-sel-scores-comparable-original-trust-sample": {
+    "claims": [
+     {
+      "slug": "adult-sel-measures-not-predicting-student-growth"
+     },
+     {
+      "slug": "gender-identity-relationship-management-wellbeing-differences"
+     },
+     {
+      "slug": "racial-identity-relationship-management-differences"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "trust-panorama-adult-sel-survey-instrument",
+      "strength": "W"
+     }
+    ]
+   },
    "sanction-threat-math-gains-persist-middle-school": {
     "claims": [
      {
@@ -152582,6 +156768,9 @@
    },
    "sat-underpredicts-girls-performance": {
     "claims": [
+     {
+      "slug": "grading-differences-small-gpa-averages-teacher-differences"
+     },
      {
       "slug": "male-oriented-item-content-biases-test-scores"
      },
@@ -152833,6 +157022,145 @@
       "polarity": "+",
       "slug": "sble-theory-of-change-deterrence-and-criminalization",
       "strength": "W"
+     }
+    ]
+   },
+   "sc-charter-demographic-composition-differs": {
+    "claims": [
+     {
+      "slug": "charter-minority-poverty-gains-below-white-peers"
+     },
+     {
+      "slug": "credo-cohort1-charter-subgroup-stronger-growth"
+     },
+     {
+      "slug": "sc-charter-school-quality-range-reading-math"
+     }
+    ]
+   },
+   "sc-charter-gains-by-years-of-enrollment": {
+    "claims": [
+     {
+      "slug": "idaho-charter-grade-configuration-effects"
+     },
+     {
+      "slug": "nm-charter-third-year-reading-gain"
+     },
+     {
+      "slug": "sc-charter-grade-configuration-differences"
+     },
+     {
+      "slug": "sc-charter-school-quality-range-reading-math"
+     },
+     {
+      "slug": "wa-charter-gains-by-years-enrolled"
+     }
+    ]
+   },
+   "sc-charter-grade-configuration-differences": {
+    "claims": [
+     {
+      "slug": "charter-gains-from-existing-schools-not-multilevel"
+     },
+     {
+      "slug": "idaho-charter-grade-configuration-effects"
+     },
+     {
+      "slug": "nm-charter-grade-configuration-reading"
+     },
+     {
+      "slug": "pa-charter-impact-by-grade-configuration"
+     },
+     {
+      "slug": "sc-charter-gains-by-years-of-enrollment"
+     },
+     {
+      "slug": "sc-charter-school-quality-range-reading-math"
+     }
+    ]
+   },
+   "sc-charter-math-gap-narrows-over-growth-periods": {
+    "claims": [
+     {
+      "slug": "pa-charter-math-gap-varies-by-growth-period"
+     },
+     {
+      "slug": "ri-charter-positive-gains-reading-math"
+     },
+     {
+      "slug": "sc-charter-overall-math-weaker-reading-similar"
+     },
+     {
+      "slug": "sc-charter-school-quality-range-reading-math"
+     },
+     {
+      "slug": "wa-charter-gains-by-growth-period"
+     },
+     {
+      "slug": "wa-charter-gains-by-years-enrolled"
+     }
+    ]
+   },
+   "sc-charter-overall-math-weaker-reading-similar": {
+    "claims": [
+     {
+      "slug": "charter-students-more-days-learning-reading-math"
+     },
+     {
+      "slug": "pa-charter-math-gap-varies-by-growth-period"
+     },
+     {
+      "slug": "pa-charter-overall-similar-reading-weaker-math"
+     },
+     {
+      "slug": "pa-charter-poverty-students-weaker-math"
+     },
+     {
+      "slug": "sc-charter-math-gap-narrows-over-growth-periods"
+     },
+     {
+      "slug": "sc-charter-school-quality-range-reading-math"
+     }
+    ]
+   },
+   "sc-charter-school-quality-range-reading-math": {
+    "claims": [
+     {
+      "slug": "sc-charter-demographic-composition-differs"
+     },
+     {
+      "slug": "sc-charter-gains-by-years-of-enrollment"
+     },
+     {
+      "slug": "sc-charter-grade-configuration-differences"
+     },
+     {
+      "slug": "sc-charter-math-gap-narrows-over-growth-periods"
+     },
+     {
+      "slug": "sc-charter-overall-math-weaker-reading-similar"
+     },
+     {
+      "slug": "sc-online-charter-students-weaker-growth"
+     }
+    ]
+   },
+   "sc-online-charter-students-weaker-growth": {
+    "claims": [
+     {
+      "slug": "idaho-brick-and-mortar-charter-gains"
+     },
+     {
+      "slug": "idaho-online-charter-learning-deficits"
+     },
+     {
+      "slug": "nm-online-behind-brick-and-mortar"
+     },
+     {
+      "slug": "nm-online-charter-weaker-growth"
+     },
+     {
+      "slug": "sc-charter-school-quality-range-reading-math"
      }
     ]
    },
@@ -153089,6 +157417,25 @@
      }
     ]
    },
+   "school-characteristics-benchmark-shares": {
+    "claims": [
+     {
+      "slug": "nm-charter-overall-growth-similar-to-tps"
+     },
+     {
+      "slug": "nm-urban-charter-reading-advantage"
+     },
+     {
+      "slug": "pa-charter-impact-by-locale"
+     },
+     {
+      "slug": "ri-charter-closure-equity-concern-no-better-alternatives"
+     },
+     {
+      "slug": "underserved-groups-lower-benchmark-shares-pol"
+     }
+    ]
+   },
    "school-child-welfare-data-predict-near-term-academic-risks": {
     "claims": [
      {
@@ -153186,6 +157533,49 @@
      },
      {
       "slug": "year-one-curricula-no-positive-impacts-four-negative"
+     }
+    ]
+   },
+   "school-factors-mediated-by-teacher-characteristics": {
+    "claims": [
+     {
+      "slug": "experience-negative-age-gender-null-data-use"
+     },
+     {
+      "slug": "teachers-access-but-low-skill-and-use"
+     },
+     {
+      "slug": "wst-characteristics-predict-teacher-digital-data-use"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "will-skill-tool-model-digital-data-use",
+      "strength": "S"
+     }
+    ]
+   },
+   "school-growth-status-unstable-overperforming-hard-to-sustain": {
+    "claims": [
+     {
+      "slug": "beat-the-odds-under-to-over-transition-rare"
+     },
+     {
+      "slug": "growth-status-changeable-sustaining-overperformance-rare"
+     },
+     {
+      "slug": "no-evidence-overperformers-fewer-students-behind"
+     },
+     {
+      "slug": "school-level-variation-math-growth-grade1-2"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "school-growth-status-segmentation-approach",
+      "strength": "W"
      }
     ]
    },
@@ -153353,6 +157743,35 @@
      }
     ]
    },
+   "school-level-growth-variation-overperformers": {
+    "claims": [
+     {
+      "slug": "beat-the-odds-under-to-over-transition-rare"
+     },
+     {
+      "slug": "early-math-growth-decelerates-first-half-year"
+     },
+     {
+      "slug": "grade1-2-math-growth-nonlinear-deceleration"
+     },
+     {
+      "slug": "no-evidence-overperformers-fewer-students-behind"
+     },
+     {
+      "slug": "positive-deviant-schools-math-growth"
+     },
+     {
+      "slug": "school-level-variation-math-growth-grade1-2"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "school-growth-status-segmentation-approach",
+      "strength": "W"
+     }
+    ]
+   },
    "school-level-implementation-moderates-discipline-reform-peer-effects": {
     "claims": [
      {
@@ -153419,10 +157838,29 @@
      }
     ]
    },
+   "school-level-variation-math-growth-grade1-2": {
+    "claims": [
+     {
+      "slug": "grade1-2-math-growth-nonlinear-deceleration"
+     },
+     {
+      "slug": "growth-status-changeable-sustaining-overperformance-rare"
+     },
+     {
+      "slug": "school-growth-status-unstable-overperforming-hard-to-sustain"
+     },
+     {
+      "slug": "school-level-growth-variation-overperformers"
+     }
+    ]
+   },
    "school-mgp-correlates-student-disadvantage": {
     "claims": [
      {
       "slug": "correlational-design-limits-epistemic-freedom-study"
+     },
+     {
+      "slug": "evaluator-bias-not-effectiveness-drives-composition-effect"
      },
      {
       "slug": "nj-pilot-practice-ratings-varied-most-effective"
@@ -154131,6 +158569,9 @@
      },
      {
       "slug": "longer-partnership-greater-data-capacity"
+     },
+     {
+      "slug": "ri-charter-dashboards-reduced-surprise-stress"
      },
      {
       "slug": "sdp-ep-aim-enhance-data-capacity"
@@ -156031,6 +160472,13 @@
       "polarity": "+",
       "slug": "strengths-based_ieps",
       "strength": "M"
+     }
+    ]
+   },
+   "self-directed-learning-increase-universal": {
+    "claims": [
+     {
+      "slug": "learning-time-decreases-proficiency-moderation"
      }
     ]
    },
@@ -162860,10 +167308,20 @@
       "slug": "task_analysis",
       "strength": "M"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "learning-readiness-srl-operationalization",
+      "strength": "M"
+     }
     ]
    },
    "self-regulated-learning-predicts-achievement": {
     "claims": [
+     {
+      "slug": "mathia-students-hard-to-adapt-strategies"
+     },
      {
       "slug": "self-monitoring-improves-self-regulation"
      },
@@ -164841,6 +169299,26 @@
      {
       "polarity": "+",
       "slug": "sdp-ep-fellowship-programs-data-capacity",
+      "strength": "W"
+     }
+    ]
+   },
+   "similar-lesson-quantity-regardless-of-placement": {
+    "claims": [
+     {
+      "slug": "dlp-allocates-more-lessons-to-domain-of-need"
+     },
+     {
+      "slug": "on-grade-lesson-share-rises-with-domains-on-grade"
+     },
+     {
+      "slug": "placement-improves-fall-to-spring"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "i-ready-platform-element",
       "strength": "W"
      }
     ]
@@ -169757,6 +174235,19 @@
      }
     ]
    },
+   "specialized-prek-teacher-training-math-improvement": {
+    "claims": [
+     {
+      "slug": "district-performance-stronger-predictor-than-prek4-enrollment"
+     },
+     {
+      "slug": "marginal-state-characteristics-math-improvement"
+     },
+     {
+      "slug": "no-significant-district-offerings-math-links"
+     }
+    ]
+   },
    "species-eulogy-fosters-more-than-human-recognition": {
     "claims": [
      {
@@ -170684,6 +175175,9 @@
      },
      {
       "slug": "modality-effect-narration-over-text"
+     },
+     {
+      "slug": "more-modalities-not-always-better-mental-state-detection"
      },
      {
       "slug": "redundancy-effect-not-significant-middle-school"
@@ -172273,6 +176767,13 @@
       "polarity": "+",
       "slug": "desirable-difficulties-spacing-retrieval-l2",
       "strength": "M"
+     }
+    ]
+   },
+   "standardized-tests-partial-information-learning": {
+    "claims": [
+     {
+      "slug": "successive-cohort-indicators-false-performance-gains"
      }
     ]
    },
@@ -174480,6 +178981,16 @@
      }
     ]
    },
+   "student-device-internet-access-near-universal": {
+    "claims": [
+     {
+      "slug": "device-access-gap-internet"
+     },
+     {
+      "slug": "internet-access-larger-barrier-than-devices"
+     }
+    ]
+   },
    "student-educator-relationship-builds-self-efficacy-and-belonging": {
     "claims": [
      {
@@ -174922,6 +179433,9 @@
      },
      {
       "slug": "contextual-features-stabilize-distance-time-inference"
+     },
+     {
+      "slug": "linguistic-coherence-predicts-productive-collaboration"
      },
      {
       "slug": "material-artifact-stability-stabilizes-thinking"
@@ -176305,6 +180819,23 @@
      }
     ]
    },
+   "subdomain-specific-gender-patterns-elementary-math": {
+    "claims": [
+     {
+      "slug": "gender-gap-reverses-male-favored-elementary-math"
+     },
+     {
+      "slug": "pr-gender-differences-content-areas-favor-females"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "cumulative-educational-experience-account-gender-math-gaps",
+      "strength": "W"
+     }
+    ]
+   },
    "subject-category-governs-pro-verb-selection": {
     "claims": [
      {
@@ -176560,6 +181091,9 @@
      },
      {
       "slug": "memphis-model-adjusts-mobility-demographics-measurement-error"
+     },
+     {
+      "slug": "standardized-tests-partial-information-learning"
      },
      {
       "slug": "teacher-team-and-full-roster-methods-more-stable-than-partial-credit"
@@ -177026,6 +181560,23 @@
      }
     ]
    },
+   "supportive-environment-predicts-bullying-fear-reduction": {
+    "claims": [
+     {
+      "slug": "bullying-fear-reduction-raises-graduation-rates"
+     },
+     {
+      "slug": "bullying-reduction-effects-larger-for-prior-victimized-students"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "5essentials-supportive-environment-measures",
+      "strength": "W"
+     }
+    ]
+   },
    "survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate": {
     "claims": [
      {
@@ -177118,6 +181669,9 @@
       "slug": "philadelphia-reform-math-ela-achievement-declined"
      },
      {
+      "slug": "referrals-negative-math-growth-inconsistent-reading"
+     },
+     {
       "slug": "suspension-decreases-suspended-student-achievement"
      }
     ]
@@ -177157,6 +181711,9 @@
       "slug": "philadelphia-reform-math-ela-achievement-declined"
      },
      {
+      "slug": "referrals-negative-math-growth-inconsistent-reading"
+     },
+     {
       "slug": "suspension-spillovers-no-change-peer-absences"
      },
      {
@@ -177177,6 +181734,16 @@
      },
      {
       "slug": "suspension-spillovers-small-negative-peer-achievement"
+     }
+    ]
+   },
+   "suspensions-negative-math-growth-upper-elementary": {
+    "claims": [
+     {
+      "slug": "gender-gap-reverses-male-favored-elementary-math"
+     },
+     {
+      "slug": "referrals-negative-math-growth-inconsistent-reading"
      }
     ]
    },
@@ -177270,6 +181837,9 @@
      },
      {
       "slug": "cohens-kappa-paradox-decision-consistency"
+     },
+     {
+      "slug": "random-forest-best-auc-flagged-problems"
      },
      {
       "slug": "science-values-imposed-on-language"
@@ -179968,6 +184538,26 @@
      }
     ]
    },
+   "teacher-background-characteristics-null-associations-sel": {
+    "claims": [
+     {
+      "slug": "adult-sel-measures-not-predicting-student-growth"
+     },
+     {
+      "slug": "wellbeing-climate-average-scores-grade-band-differences"
+     },
+     {
+      "slug": "wellbeing-predicts-emotion-regulation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "trust-panorama-adult-sel-survey-instrument",
+      "strength": "W"
+     }
+    ]
+   },
    "teacher-belief-dimensions-single-factor": {
     "claims": [
      {
@@ -179985,6 +184575,22 @@
       "polarity": "+",
       "slug": "mrbq-mathematics-related-beliefs-questionnaire",
       "strength": "W"
+     }
+    ]
+   },
+   "teacher-big-picture-genai-concerns": {
+    "claims": [
+     {
+      "slug": "chatgpt-brainstorming-concerns-misalignment-reliability"
+     },
+     {
+      "slug": "mentors-may-inhibit-concern-development"
+     },
+     {
+      "slug": "teachers-critique-chatgpt-lesson-output"
+     },
+     {
+      "slug": "unmentored-first-year-task-concerns-flat"
      }
     ]
    },
@@ -180336,6 +184942,11 @@
      {
       "polarity": "+",
       "slug": "expectancy-value-framework-for-teacher-ai-use-motivation",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "will-skill-tool-model-digital-data-use",
       "strength": "W"
      }
     ]
@@ -181088,6 +185699,22 @@
      }
     ]
    },
+   "teacher-remote-challenges-attention-not-technology": {
+    "claims": [
+     {
+      "slug": "charter-remote-learning-pd-nearly-universal"
+     },
+     {
+      "slug": "closure-urgency-priorities-learning-first"
+     },
+     {
+      "slug": "device-access-gap-internet"
+     },
+     {
+      "slug": "maintaining-student-connection-strategies-closure"
+     }
+    ]
+   },
    "teacher-reported-engagement-opportunities-increased": {
     "claims": [
      {
@@ -181111,6 +185738,30 @@
      },
      {
       "slug": "three-respondent-reports-correlated"
+     }
+    ]
+   },
+   "teacher-reports-coherence-trust-increased": {
+    "claims": [
+     {
+      "slug": "chicago-tap-year-two-impact-evaluation"
+     },
+     {
+      "slug": "cps-decades-improvement-equitable-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ccsr-cps-longitudinal-data-archive",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-5es-framework",
+      "strength": "M"
      }
     ]
    },
@@ -181670,6 +186321,26 @@
      }
     ]
    },
+   "teacher-utterances-alone-sufficient-for-classroom-measures": {
+    "claims": [
+     {
+      "slug": "class-weighted-loss-marginal-gain-skewed-teaching-ratings"
+     },
+     {
+      "slug": "plm-performance-depends-on-pedagogical-expertise-required"
+     },
+     {
+      "slug": "two-stage-relevance-strategy-helps-multi-sentence-variables"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "simse-metacognitive-modeling-dataset",
+      "strength": "W"
+     }
+    ]
+   },
    "teacher-workshops-validate-app-evaluation-framework": {
     "claims": [
      {
@@ -181689,6 +186360,26 @@
       "polarity": "+",
       "slug": "rosell-aguilar-app-taxonomy-language-learning",
       "strength": "W"
+     }
+    ]
+   },
+   "teachers-access-but-low-skill-and-use": {
+    "claims": [
+     {
+      "slug": "device-access-gap-internet"
+     },
+     {
+      "slug": "school-factors-mediated-by-teacher-characteristics"
+     },
+     {
+      "slug": "wst-characteristics-predict-teacher-digital-data-use"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "will-skill-tool-model-digital-data-use",
+      "strength": "M"
      }
     ]
    },
@@ -181754,6 +186445,33 @@
      }
     ]
    },
+   "teachers-appreciate-chatgpt-generative-learning-affordances": {
+    "claims": [
+     {
+      "slug": "chatgpt-brainstorming-partner-affordances"
+     },
+     {
+      "slug": "constructive-learning-beats-active-passive"
+     },
+     {
+      "slug": "teachers-critique-chatgpt-lesson-output"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "chatgpt-teacher-lesson-planning-tool-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "generative-learning-eight-strategies-framework",
+      "strength": "M"
+     }
+    ]
+   },
    "teachers-blame-instruction-over-learners-for-progress": {
     "claims": [
      {
@@ -181761,6 +186479,33 @@
      },
      {
       "slug": "no-pronunciation-assessment-clt-bangladesh"
+     }
+    ]
+   },
+   "teachers-critique-chatgpt-lesson-output": {
+    "claims": [
+     {
+      "slug": "chatgpt-brainstorming-concerns-misalignment-reliability"
+     },
+     {
+      "slug": "teacher-big-picture-genai-concerns"
+     },
+     {
+      "slug": "teachers-appreciate-chatgpt-generative-learning-affordances"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "chatgpt-teacher-lesson-planning-tool-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "generative-learning-eight-strategies-framework",
+      "strength": "W"
      }
     ]
    },
@@ -183848,6 +188593,9 @@
    "tep-student-population-comparable-to-neighborhood-schools": {
     "claims": [
      {
+      "slug": "charter-special-education-smaller-gains"
+     },
+     {
       "slug": "gottlieb-1997-group-size-increase-lowered-reading-scores"
      },
      {
@@ -185300,6 +190048,67 @@
      }
     ]
    },
+   "thermos-lad-preparatory-phase-not-supported": {
+    "claims": [
+     {
+      "slug": "lad-impact-on-study-behaviour-varied-mostly-null"
+     },
+     {
+      "slug": "lad-stakeholders-agree-predetermined-differ-new-constructs"
+     },
+     {
+      "slug": "thermos-lad-supported-appraisal-phase"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "thermos-learning-analytics-dashboard",
+      "strength": "W"
+     }
+    ]
+   },
+   "thermos-lad-supported-appraisal-phase": {
+    "claims": [
+     {
+      "slug": "lad-impact-on-study-behaviour-varied-mostly-null"
+     },
+     {
+      "slug": "lad-stakeholders-agree-predetermined-differ-new-constructs"
+     },
+     {
+      "slug": "thermos-lad-preparatory-phase-not-supported"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "thermos-learning-analytics-dashboard",
+      "strength": "W"
+     }
+    ]
+   },
+   "thermos-lad-sus-good-excellent-usability": {
+    "claims": [
+     {
+      "slug": "koku-high-usability-acceptability"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "thermos-learning-analytics-dashboard",
+      "strength": "W"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "user-centered-design-for-learning",
+      "strength": "W"
+     }
+    ]
+   },
    "thinking-math-grade-level-moderation": {
     "claims": [
      {
@@ -185636,6 +190445,20 @@
       "polarity": "+",
       "slug": "mathematica-four-curricula-evaluation-study",
       "strength": "M"
+     }
+    ]
+   },
+   "three-extra-years-leaves-quarter-undereducated": {
+    "claims": [
+     {
+      "slug": "underserved-groups-lower-benchmark-shares-pol"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "pace-of-learning-pol-construct",
+      "strength": "W"
      }
     ]
    },
@@ -186724,6 +191547,30 @@
      }
     ]
    },
+   "time-varying-confounds-limit-platform-estimates": {
+    "claims": [
+     {
+      "slug": "mastery-platform-longitudinal-positive-effects"
+     },
+     {
+      "slug": "prior-cross-sectional-platform-usage-achievement-link"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "khan-academy-map-accelerator-platform",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "within-student-longitudinal-causal-design",
+      "strength": "M"
+     }
+    ]
+   },
    "time-window-features-null-for-lr-boost-nonlinear": {
     "claims": [
      {
@@ -186734,6 +191581,9 @@
      },
      {
       "slug": "expert-kc-model-adds-little-predictive-power"
+     },
+     {
+      "slug": "facial-features-low-rapport-no-added-modalities"
      },
      {
       "slug": "propdec-colinear-with-student-intercept"
@@ -186879,6 +191729,9 @@
     "claims": [
      {
       "slug": "chosen-schools-higher-achievement-than-origin-schools"
+     },
+     {
+      "slug": "iep-parents-lacked-viable-choice-options"
      },
      {
       "slug": "minnesota-choice-participation-grew-1-to-17-percent"
@@ -187586,6 +192439,29 @@
       "polarity": "+",
       "slug": "dewey-pedagogical-principles-school-as-life",
       "strength": "M"
+     }
+    ]
+   },
+   "topic-level-time-management-group-differences": {
+    "claims": [
+     {
+      "slug": "exam-weeks-exercises-as-formative-practice"
+     },
+     {
+      "slug": "final-exam-subtracted-network-group-differences"
+     },
+     {
+      "slug": "low-performers-procrastinated-exercises-and-videos"
+     },
+     {
+      "slug": "weekly-ena-ttests-significant-weeks"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ena-strategies-time-topics-network-model",
+      "strength": "W"
      }
     ]
    },
@@ -188716,6 +193592,9 @@
    },
    "transformational-leadership-gender-specific-pathways": {
     "claims": [
+     {
+      "slug": "gender-identity-relationship-management-wellbeing-differences"
+     },
      {
       "slug": "harassment-no-significant-effect-teacher-self-efficacy"
      },
@@ -190372,6 +195251,29 @@
      }
     ]
    },
+   "two-stage-relevance-strategy-helps-multi-sentence-variables": {
+    "claims": [
+     {
+      "slug": "chatgpt-zero-shot-relevance-extraction-unreliable"
+     },
+     {
+      "slug": "class-weighted-loss-marginal-gain-skewed-teaching-ratings"
+     },
+     {
+      "slug": "plm-performance-depends-on-pedagogical-expertise-required"
+     },
+     {
+      "slug": "teacher-utterances-alone-sufficient-for-classroom-measures"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "simse-metacognitive-modeling-dataset",
+      "strength": "W"
+     }
+    ]
+   },
    "two-states-three-cities-not-generalizable": {
     "claims": [
      {
@@ -190940,6 +195842,26 @@
      }
     ]
    },
+   "underserved-groups-lower-benchmark-shares-pol": {
+    "claims": [
+     {
+      "slug": "ri-learning-gaps-tps-subgroups"
+     },
+     {
+      "slug": "school-characteristics-benchmark-shares"
+     },
+     {
+      "slug": "three-extra-years-leaves-quarter-undereducated"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "pace-of-learning-pol-construct",
+      "strength": "W"
+     }
+    ]
+   },
    "understanding-of-teaching-predicts-literacy-growth": {
     "claims": [
      {
@@ -191234,6 +196156,9 @@
      },
      {
       "slug": "not-all-educators-develop-impact-concerns"
+     },
+     {
+      "slug": "teacher-big-picture-genai-concerns"
      },
      {
       "slug": "teacher-concern-progression-and-retreat"
@@ -192080,6 +197005,9 @@
    "vam-estimates-highly-correlated-across-specifications": {
     "claims": [
      {
+      "slug": "context-adjusted-ratings-raise-black-teacher-rankings"
+     },
+     {
       "slug": "disadvantaged-students-receive-less-effective-teaching"
      },
      {
@@ -192206,6 +197134,9 @@
    "vam-peer-averages-demographics-interactions-smaller-effects": {
     "claims": [
      {
+      "slug": "academic-behavioral-factors-drive-rating-effect"
+     },
+     {
       "slug": "mathematica-vam-technical-assistance-phase1"
      },
      {
@@ -192280,10 +197211,16 @@
    "vam-sensitivity-student-peer-controls-examined": {
     "claims": [
      {
+      "slug": "academic-behavioral-factors-drive-rating-effect"
+     },
+     {
       "slug": "cgm-value-added-differences-unrelated-to-teacher-characteristics"
      },
      {
       "slug": "combined-specifications-reduce-precision"
+     },
+     {
+      "slug": "context-adjusted-ratings-raise-black-teacher-rankings"
      },
      {
       "slug": "hard-to-predict-students-less-precise-teacher-va-estimates"
@@ -192356,6 +197293,9 @@
    },
    "vam-two-novel-model-variations-tested": {
     "claims": [
+     {
+      "slug": "academic-behavioral-factors-drive-rating-effect"
+     },
      {
       "slug": "cgm-substitution-depresses-scores-ell-student-teachers"
      },
@@ -192634,6 +197574,9 @@
       "slug": "fine-tuned-gpt4o-mini-highest-recall-crapii"
      },
      {
+      "slug": "gpt4-redaction-compared-to-prior-methods"
+     },
+     {
       "slug": "low-precision-pii-detection-semantic-disruption"
      },
      {
@@ -192735,6 +197678,9 @@
       "slug": "3-percent-students-victimized-any-crime-school-2012-13"
      },
      {
+      "slug": "bullying-reduction-effects-larger-for-prior-victimized-students"
+     },
+     {
       "slug": "scs-2013-report-scope-gangs-weapons-drugs-bullying-avoidance"
      },
      {
@@ -192749,6 +197695,9 @@
     "claims": [
      {
       "slug": "3-percent-students-victimized-any-crime-school-2012-13"
+     },
+     {
+      "slug": "bullying-reduction-effects-larger-for-prior-victimized-students"
      },
      {
       "slug": "few-demographic-differences-school-victimization"
@@ -193994,6 +198943,117 @@
      }
     ]
    },
+   "wa-charter-cohort-years-enrollment-null": {
+    "claims": [
+     {
+      "slug": "wa-charter-gains-by-growth-period"
+     },
+     {
+      "slug": "wa-charter-gains-by-years-enrolled"
+     }
+    ]
+   },
+   "wa-charter-gains-by-growth-period": {
+    "claims": [
+     {
+      "slug": "idaho-charter-growth-period-reading"
+     },
+     {
+      "slug": "idaho-charter-years-of-enrollment-null"
+     },
+     {
+      "slug": "pa-charter-math-gap-varies-by-growth-period"
+     },
+     {
+      "slug": "ri-charter-positive-gains-reading-math"
+     },
+     {
+      "slug": "sc-charter-math-gap-narrows-over-growth-periods"
+     },
+     {
+      "slug": "wa-charter-cohort-years-enrollment-null"
+     },
+     {
+      "slug": "wa-charter-gains-by-years-enrolled"
+     },
+     {
+      "slug": "wa-charter-overall-gains-no-significant-difference"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "ri-charter-performance-review-system-2017",
+      "strength": "M"
+     }
+    ]
+   },
+   "wa-charter-gains-by-years-enrolled": {
+    "claims": [
+     {
+      "slug": "idaho-charter-years-of-enrollment-null"
+     },
+     {
+      "slug": "nm-charter-third-year-reading-gain"
+     },
+     {
+      "slug": "sc-charter-gains-by-years-of-enrollment"
+     },
+     {
+      "slug": "sc-charter-math-gap-narrows-over-growth-periods"
+     },
+     {
+      "slug": "wa-charter-cohort-years-enrollment-null"
+     },
+     {
+      "slug": "wa-charter-gains-by-growth-period"
+     },
+     {
+      "slug": "wa-charter-overall-gains-no-significant-difference"
+     }
+    ]
+   },
+   "wa-charter-overall-gains-no-significant-difference": {
+    "claims": [
+     {
+      "slug": "charter-students-more-days-learning-reading-math"
+     },
+     {
+      "slug": "wa-charter-gains-by-growth-period"
+     },
+     {
+      "slug": "wa-charter-gains-by-years-enrolled"
+     }
+    ]
+   },
+   "wa-charter-school-level-variation-three-of-nine": {
+    "claims": [
+     {
+      "slug": "houston-charter-beats-district-reading-and-math-2018-19"
+     },
+     {
+      "slug": "idaho-charter-reading-advantage-math-null"
+     },
+     {
+      "slug": "idaho-charter-school-level-distribution"
+     },
+     {
+      "slug": "nm-urban-charter-reading-advantage"
+     },
+     {
+      "slug": "pa-charter-black-students-reading-gain"
+     },
+     {
+      "slug": "pa-charter-impact-by-grade-configuration"
+     },
+     {
+      "slug": "pa-charter-impact-by-locale"
+     },
+     {
+      "slug": "ri-charter-schools-outperform-share-vs-credo-2013"
+     }
+    ]
+   },
    "washington-anticipated-project-method": {
     "claims": [
      {
@@ -194953,6 +200013,72 @@
      }
     ]
    },
+   "wec-achievement-relationship-stable-year-census": {
+    "claims": [
+     {
+      "slug": "learning-readiness-strongest-wec-component"
+     },
+     {
+      "slug": "wec-effects-more-pronounced-males-literacy"
+     },
+     {
+      "slug": "wec-index-weak-positive-association-academic-outcomes"
+     },
+     {
+      "slug": "well-being-index-least-predictive-academic-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "wec-wellbeing-engagement-collection-survey",
+      "strength": "W"
+     }
+    ]
+   },
+   "wec-effects-more-pronounced-males-literacy": {
+    "claims": [
+     {
+      "slug": "gender-effects-on-srl-mediated-by-culture-discipline-age"
+     },
+     {
+      "slug": "mfr-increases-fall-to-spring-within-year"
+     },
+     {
+      "slug": "wec-achievement-relationship-stable-year-census"
+     },
+     {
+      "slug": "well-being-index-least-predictive-academic-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "wec-wellbeing-engagement-collection-survey",
+      "strength": "W"
+     }
+    ]
+   },
+   "wec-index-weak-positive-association-academic-outcomes": {
+    "claims": [
+     {
+      "slug": "learning-readiness-strongest-wec-component"
+     },
+     {
+      "slug": "wec-achievement-relationship-stable-year-census"
+     },
+     {
+      "slug": "well-being-index-least-predictive-academic-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "wec-wellbeing-engagement-collection-survey",
+      "strength": "W"
+     }
+    ]
+   },
    "week6-attendance-interaction-favors-flex": {
     "claims": [
      {
@@ -194966,6 +200092,49 @@
      },
      {
       "slug": "pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet"
+     }
+    ]
+   },
+   "weekly-ena-ttests-significant-weeks": {
+    "claims": [
+     {
+      "slug": "final-exam-ena-x-dimension-significant"
+     },
+     {
+      "slug": "midterm-ena-no-significant-difference"
+     },
+     {
+      "slug": "topic-level-time-management-group-differences"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "ena-strategies-time-topics-network-model",
+      "strength": "M"
+     }
+    ]
+   },
+   "well-being-index-least-predictive-academic-outcomes": {
+    "claims": [
+     {
+      "slug": "learning-readiness-strongest-wec-component"
+     },
+     {
+      "slug": "wec-achievement-relationship-stable-year-census"
+     },
+     {
+      "slug": "wec-effects-more-pronounced-males-literacy"
+     },
+     {
+      "slug": "wec-index-weak-positive-association-academic-outcomes"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "wec-wellbeing-engagement-collection-survey",
+      "strength": "W"
      }
     ]
    },
@@ -195001,6 +200170,41 @@
       "polarity": "-",
       "slug": "conditions-for-productive-group-creativity",
       "strength": "M"
+     }
+    ]
+   },
+   "wellbeing-climate-average-scores-grade-band-differences": {
+    "claims": [
+     {
+      "slug": "adult-sel-measures-not-predicting-student-growth"
+     },
+     {
+      "slug": "implementation-associated-elementary-caring-others"
+     },
+     {
+      "slug": "implementation-not-associated-most-outcomes"
+     },
+     {
+      "slug": "teacher-background-characteristics-null-associations-sel"
+     },
+     {
+      "slug": "wellbeing-predicts-emotion-regulation"
+     }
+    ]
+   },
+   "wellbeing-predicts-emotion-regulation": {
+    "claims": [
+     {
+      "slug": "adult-sel-measures-not-predicting-student-growth"
+     },
+     {
+      "slug": "nslp-participation-associated-lower-growth-goal-attainment"
+     },
+     {
+      "slug": "teacher-background-characteristics-null-associations-sel"
+     },
+     {
+      "slug": "wellbeing-climate-average-scores-grade-band-differences"
      }
     ]
    },
@@ -196216,6 +201420,32 @@
      {
       "polarity": "+",
       "slug": "field-dependence-independence-dichotomous-concepts",
+      "strength": "M"
+     }
+    ]
+   },
+   "word-count-top-traditional-formulas-unimportant": {
+    "claims": [
+     {
+      "slug": "awl-count-word-count-feature-importance-engagement"
+     },
+     {
+      "slug": "flagged-problems-shorter-more-sentences-descriptives"
+     },
+     {
+      "slug": "mathia-word-problems-flagged-reading-gaps"
+     },
+     {
+      "slug": "partial-dependence-nonlinear-relationships"
+     },
+     {
+      "slug": "random-forest-best-auc-flagged-problems"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "mwp-readability-metrics-five-category-taxonomy",
       "strength": "M"
      }
     ]
@@ -198477,6 +203707,9 @@
       "slug": "ixl-math-positive-subgroup-impacts"
      },
      {
+      "slug": "mastery-platform-effects-uniform-across-demographics"
+     },
+     {
       "slug": "progress-learning-subgroup-effects-sped-hispanic-black"
      },
      {
@@ -198645,6 +203878,26 @@
      },
      {
       "slug": "isa-help-seeking-more-informative-than-correct-response"
+     }
+    ]
+   },
+   "wst-characteristics-predict-teacher-digital-data-use": {
+    "claims": [
+     {
+      "slug": "experience-negative-age-gender-null-data-use"
+     },
+     {
+      "slug": "school-factors-mediated-by-teacher-characteristics"
+     },
+     {
+      "slug": "teachers-access-but-low-skill-and-use"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "will-skill-tool-model-digital-data-use",
+      "strength": "S"
      }
     ]
    },
@@ -199558,6 +204811,9 @@
    "zearn-pilot-no-significant-differences": {
     "claims": [
      {
+      "slug": "prior-cross-sectional-platform-usage-achievement-link"
+     },
+     {
       "slug": "safersanschools-improves-teacher-perceptions-conditions"
      },
      {
@@ -199622,6 +204878,9 @@
    },
    "zero-shot-llm-granularity-competency-classification": {
     "claims": [
+     {
+      "slug": "chatgpt-zero-shot-relevance-extraction-unreliable"
+     },
      {
       "slug": "curricular-cot-improves-accuracy-larger-models"
      },
@@ -211555,6 +216814,18 @@
      }
     ]
    },
+   "bert-strategy-embedding-model-mathia": {
+    "elements": [
+     {
+      "slug": "mathia-strategy-choice-problems"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "strategy-adaptability-cognitive-flexibility-math"
+     }
+    ]
+   },
    "bkt-rnn-pytorch-implementation": {
     "theories": [
      {
@@ -212945,6 +218216,60 @@
      }
     ]
    },
+   "ccsr-cps-longitudinal-data-archive": {
+    "elements": [
+     {
+      "slug": "ccsr-individualized-school-reports-isrs"
+     },
+     {
+      "slug": "ccsr-steering-committee-stakeholder-structure"
+     },
+     {
+      "slug": "ellevation-four-state-el-records-database"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "ccsr-supporting-search-for-solutions-theory-of-action"
+     }
+    ]
+   },
+   "ccsr-individualized-school-reports-isrs": {
+    "elements": [
+     {
+      "slug": "ccsr-cps-longitudinal-data-archive"
+     },
+     {
+      "slug": "ccsr-steering-committee-stakeholder-structure"
+     },
+     {
+      "slug": "progress-tracking"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "ccsr-supporting-search-for-solutions-theory-of-action"
+     }
+    ]
+   },
+   "ccsr-steering-committee-stakeholder-structure": {
+    "elements": [
+     {
+      "slug": "ccsr-cps-longitudinal-data-archive"
+     },
+     {
+      "slug": "ccsr-individualized-school-reports-isrs"
+     },
+     {
+      "slug": "ppi-panel-aac-review-stages"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "ccsr-supporting-search-for-solutions-theory-of-action"
+     }
+    ]
+   },
    "challenge-identification": {
     "elements": [
      {
@@ -213075,6 +218400,13 @@
     "theories": [
      {
       "slug": "black-box-analysis-instruction-learning-interface"
+     }
+    ]
+   },
+   "chatgpt-teacher-lesson-planning-tool-element": {
+    "theories": [
+     {
+      "slug": "generative-learning-eight-strategies-framework"
      }
     ]
    },
@@ -221818,6 +227150,77 @@
      }
     ]
    },
+   "credo-city-studies-growth-benchmarking-approach": {
+    "elements": [
+     {
+      "slug": "credo-days-of-learning-translation"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "credo-city-studies-school-sector-taxonomy"
+     }
+    ]
+   },
+   "credo-days-of-learning-measure": {
+    "elements": [
+     {
+      "slug": "credo-days-of-learning-metric"
+     },
+     {
+      "slug": "credo-days-of-learning-translation"
+     }
+    ]
+   },
+   "credo-days-of-learning-metric": {
+    "elements": [
+     {
+      "slug": "credo-days-of-learning-measure"
+     },
+     {
+      "slug": "credo-days-of-learning-translation"
+     }
+    ]
+   },
+   "credo-days-of-learning-translation": {
+    "elements": [
+     {
+      "slug": "credo-city-studies-growth-benchmarking-approach"
+     },
+     {
+      "slug": "credo-days-of-learning-measure"
+     },
+     {
+      "slug": "credo-days-of-learning-metric"
+     }
+    ]
+   },
+   "credo-virtual-control-record-method": {
+    "elements": [
+     {
+      "slug": "credo-virtual-control-record-methodology"
+     },
+     {
+      "slug": "vcr-matched-comparison-method-ri-charter"
+     },
+     {
+      "slug": "vcr-virtual-control-record-method"
+     }
+    ]
+   },
+   "credo-virtual-control-record-methodology": {
+    "elements": [
+     {
+      "slug": "credo-virtual-control-record-method"
+     },
+     {
+      "slug": "vcr-matched-comparison-method-ri-charter"
+     },
+     {
+      "slug": "vcr-virtual-control-record-method"
+     }
+    ]
+   },
    "cresst-integrated-assessment-system": {
     "elements": [
      {
@@ -223864,6 +229267,11 @@
      {
       "slug": "district-charter-collaboration-grant-survey"
      }
+    ],
+    "theories": [
+     {
+      "slug": "credo-city-studies-school-sector-taxonomy"
+     }
     ]
    },
    "district-guide-opportunistic-rcts": {
@@ -224497,6 +229905,16 @@
      }
     ]
    },
+   "ellevation-four-state-el-records-database": {
+    "elements": [
+     {
+      "slug": "ccsr-cps-longitudinal-data-archive"
+     },
+     {
+      "slug": "pittsburgh-linked-school-child-welfare-administrative-dataset"
+     }
+    ]
+   },
    "emac-ethnic-minority-affairs-committee-case": {
     "theories": [
      {
@@ -225111,6 +230529,9 @@
      },
      {
       "slug": "exact-path-proficiency-growth-system"
+     },
+     {
+      "slug": "i-ready-platform-element"
      },
      {
       "slug": "ixl-math-program-element"
@@ -228314,6 +233735,25 @@
      }
     ]
    },
+   "i-ready-platform-element": {
+    "elements": [
+     {
+      "slug": "exact-path-proficiency-growth-program"
+     },
+     {
+      "slug": "iready-classroom-mathematics-curriculum"
+     },
+     {
+      "slug": "iready-personalized-instruction-element"
+     },
+     {
+      "slug": "ixl-math-program-element"
+     },
+     {
+      "slug": "turkish-k8-elearning-platform-four-components"
+     }
+    ]
+   },
    "ican-learn-mastery-based-math-curriculum": {
     "elements": [
      {
@@ -229273,6 +234713,9 @@
    "iready-classroom-mathematics-curriculum": {
     "elements": [
      {
+      "slug": "i-ready-platform-element"
+     },
+     {
       "slug": "iready-connect-platform-technology"
      },
      {
@@ -229297,6 +234740,9 @@
     "elements": [
      {
       "slug": "edmentum-exact-path-adaptive-program"
+     },
+     {
+      "slug": "i-ready-platform-element"
      },
      {
       "slug": "iready-connect-platform-technology"
@@ -229363,6 +234809,9 @@
      },
      {
       "slug": "exact-path-proficiency-growth-program"
+     },
+     {
+      "slug": "i-ready-platform-element"
      }
     ],
     "principles": [
@@ -230817,6 +236266,18 @@
     "theories": [
      {
       "slug": "value-added-models-separate-teacher-contributions"
+     }
+    ]
+   },
+   "mathia-strategy-choice-problems": {
+    "elements": [
+     {
+      "slug": "bert-strategy-embedding-model-mathia"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "strategy-adaptability-cognitive-flexibility-math"
      }
     ]
    },
@@ -233989,6 +239450,9 @@
    "pittsburgh-linked-school-child-welfare-administrative-dataset": {
     "elements": [
      {
+      "slug": "ellevation-four-state-el-records-database"
+     },
+     {
       "slug": "linked-data-early-warning-approach-element"
      },
      {
@@ -234205,6 +239669,9 @@
     "elements": [
      {
       "slug": "aac-school-qes-protocol"
+     },
+     {
+      "slug": "ccsr-steering-committee-stakeholder-structure"
      }
     ]
    },
@@ -237531,6 +242998,9 @@
    },
    "progress-tracking": {
     "elements": [
+     {
+      "slug": "ccsr-individualized-school-reports-isrs"
+     },
      {
       "slug": "gamification"
      },
@@ -241633,6 +247103,9 @@
      },
      {
       "slug": "student-facing-dashboard-online-distance-education"
+     },
+     {
+      "slug": "thermos-learning-analytics-dashboard"
      }
     ],
     "strategies": [
@@ -243546,6 +249019,13 @@
      }
     ]
    },
+   "thermos-learning-analytics-dashboard": {
+    "elements": [
+     {
+      "slug": "sensenablr-dashboard"
+     }
+    ]
+   },
    "think-aloud": {
     "elements": [
      {
@@ -244886,6 +250366,9 @@
     "elements": [
      {
       "slug": "digital-learning"
+     },
+     {
+      "slug": "i-ready-platform-element"
      }
     ]
    },
@@ -245030,6 +250513,32 @@
     "elements": [
      {
       "slug": "four-test-score-principal-performance-measures"
+     }
+    ]
+   },
+   "vcr-matched-comparison-method-ri-charter": {
+    "elements": [
+     {
+      "slug": "credo-virtual-control-record-method"
+     },
+     {
+      "slug": "credo-virtual-control-record-methodology"
+     },
+     {
+      "slug": "vcr-virtual-control-record-method"
+     }
+    ]
+   },
+   "vcr-virtual-control-record-method": {
+    "elements": [
+     {
+      "slug": "credo-virtual-control-record-method"
+     },
+     {
+      "slug": "credo-virtual-control-record-methodology"
+     },
+     {
+      "slug": "vcr-matched-comparison-method-ri-charter"
      }
     ]
    },
@@ -275932,6 +281441,18 @@
      }
     ]
    },
+   "ccsr-supporting-search-for-solutions-theory-of-action": {
+    "strategies": [
+     {
+      "slug": "no-surprises-pre-release-briefing-strategy"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-traditional-models-researcher-influence-taxonomy"
+     }
+    ]
+   },
    "cdst-interdependent-language-subsystems-framework": {
     "theories": [
      {
@@ -278541,6 +284062,13 @@
      }
     ]
    },
+   "cumulative-educational-experience-account-gender-math-gaps": {
+    "strategies": [
+     {
+      "slug": "early-domain-specific-gender-equity-interventions"
+     }
+    ]
+   },
    "dales-cone-of-experience": {
     "theories": [
      {
@@ -279568,6 +285096,13 @@
      }
     ]
    },
+   "el-reclassification-policy-structure-taxonomy": {
+    "theories": [
+     {
+      "slug": "reclassification-policy-complexity-taxonomy"
+     }
+    ]
+   },
    "elaborated-levels-of-abstraction-cos": {
     "theories": [
      {
@@ -279692,6 +285227,13 @@
     "theories": [
      {
       "slug": "empowerment-five-component-definition-counselling"
+     }
+    ]
+   },
+   "ena-strategies-time-topics-network-model": {
+    "strategies": [
+     {
+      "slug": "early-warning-systems-time-management-strategy-use"
      }
     ]
    },
@@ -280093,6 +285635,9 @@
      },
      {
       "slug": "self-efficacy-theory"
+     },
+     {
+      "slug": "will-skill-tool-model-digital-data-use"
      }
     ]
    },
@@ -281452,6 +286997,13 @@
      }
     ]
    },
+   "four-rationales-combining-modalities-mmca": {
+    "theories": [
+     {
+      "slug": "mmca-definitional-framework-five-modalities"
+     }
+    ]
+   },
    "four-skill-categories-technology-use": {
     "theories": [
      {
@@ -281459,6 +287011,13 @@
      },
      {
       "slug": "four-category-technology-content-taxonomy"
+     }
+    ]
+   },
+   "four-traditional-models-researcher-influence-taxonomy": {
+    "theories": [
+     {
+      "slug": "ccsr-supporting-search-for-solutions-theory-of-action"
      }
     ]
    },
@@ -281707,6 +287266,18 @@
     "elements": [
      {
       "slug": "sas-nlmixed-irt-testlet-implementation"
+     }
+    ]
+   },
+   "generative-learning-eight-strategies-framework": {
+    "elements": [
+     {
+      "slug": "chatgpt-teacher-lesson-planning-tool-element"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "genai-lesson-design-recommendations"
      }
     ]
    },
@@ -283598,6 +289169,16 @@
      }
     ]
    },
+   "learning-readiness-srl-operationalization": {
+    "theories": [
+     {
+      "slug": "self-regulated-learning"
+     },
+     {
+      "slug": "srl-motivational-goal-setting-monitoring-control-framework"
+     }
+    ]
+   },
    "learning-theories-interdisciplinary-discovery-studio": {
     "theories": [
      {
@@ -284488,6 +290069,13 @@
      }
     ]
    },
+   "mmca-definitional-framework-five-modalities": {
+    "theories": [
+     {
+      "slug": "four-rationales-combining-modalities-mmca"
+     }
+    ]
+   },
    "mobile-device-theory-of-change-four-elements": {
     "theories": [
      {
@@ -285034,6 +290622,18 @@
      },
      {
       "slug": "swain-output-hypothesis"
+     }
+    ]
+   },
+   "pace-of-learning-pol-construct": {
+    "strategies": [
+     {
+      "slug": "relax-time-base-mastery-progression"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "student-momentum-indicator-theory"
      }
     ]
    },
@@ -285753,6 +291353,13 @@
      },
      {
       "slug": "traditional-modern-philosophies-ends-means"
+     }
+    ]
+   },
+   "reclassification-policy-complexity-taxonomy": {
+    "theories": [
+     {
+      "slug": "el-reclassification-policy-structure-taxonomy"
      }
     ]
    },
@@ -287772,6 +293379,9 @@
       "slug": "information-processing-theory"
      },
      {
+      "slug": "learning-readiness-srl-operationalization"
+     },
+     {
       "slug": "locus-of-control"
      },
      {
@@ -289236,6 +294846,9 @@
    "srl-motivational-goal-setting-monitoring-control-framework": {
     "theories": [
      {
+      "slug": "learning-readiness-srl-operationalization"
+     },
+     {
       "slug": "pintrich-srl-four-phase-paradigm"
      }
     ]
@@ -289501,6 +295114,9 @@
     "theories": [
      {
       "slug": "course-walls-concept"
+     },
+     {
+      "slug": "pace-of-learning-pol-construct"
      }
     ]
    },
@@ -291013,6 +296629,18 @@
      }
     ]
    },
+   "will-skill-tool-model-digital-data-use": {
+    "strategies": [
+     {
+      "slug": "personalized-subject-specific-data-use-support"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "expectancy-value-theory"
+     }
+    ]
+   },
    "willingness-to-communicate-in-l2": {
     "theories": [
      {
@@ -291273,15 +296901,15 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 6167,
-  "designs": 205,
-  "elements": 1479,
+  "claims": 6418,
+  "designs": 206,
+  "elements": 1508,
   "learner-variables": 12,
   "methods": 38,
   "patterns": 126,
   "principles": 375,
   "processes": 18,
-  "strategies": 3694,
-  "theories": 1170
+  "strategies": 3719,
+  "theories": 1189
  }
 }

@@ -45,3 +45,4 @@ Three-stage WLSMV multigroup invariance sequence (Nmen=251, Nwomen=255) followed
 ## Related Claims
 - [Transformational leadership's protective effect against harassment operates among women but not men, while its self-efficacy effect operates among men but not women (exploratory)](transformational-leadership-gender-specific-pathways.md) — related
 - [Both transformational and servant leadership are negatively associated with workplace harassment among university teachers](transformational-servant-leadership-negatively-associated-workplace-harassment.md) — related
+- [Teachers identifying as women or non-binary/third gender reported higher relationship management scores than men, while men reported higher well-being](gender-identity-relationship-management-wellbeing-differences.md) — related

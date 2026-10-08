@@ -48,3 +48,4 @@ Subgroup analyses from the same 2023-24 quasi-experimental study of the Wraparou
 - [Subgroup analyses show strongest Progress Learning effects for SPED, Hispanic, and Black students on MAP science](progress-learning-subgroup-effects-sped-hispanic-black.md) — related
 - [iRCL effects were consistent across grades, especially pronounced in Grades 4 and 5, with significant benefits for Hispanic, Black, economically disadvantaged, English learner, and disability subgroups](irecl-grade-and-subgroup-effects.md) — related
 - [Positive STEMscopes Math effects were found for Economically Disadvantaged (+0.51), Hispanic (+0.35) and Black (+0.74) students](stemscopes-math-subgroup-effects.md) — related
+- [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
