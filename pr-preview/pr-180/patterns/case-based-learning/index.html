@@ -1,0 +1,1110 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A reusable policy for learning from realistic cases: establish what learners can already do with the target concept, have them compare several cases that share a principle rather than study one at a time, make the principle explicit, and judge the unit on transfer to a new case rather than on enjoyment or recall.">
+      
+      
+      
+        <link rel="canonical" href="https://learning-design-alliance.github.io/learning-wiki/patterns/case-based-learning/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../branding/lazuli-favicon.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Case-Based Learning - Learning Design Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../branding/lazuli-theme.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#case-based-learning" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Learning Design Wiki" class="md-header__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lazuli-monogram-lapis.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Learning Design Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Case-Based Learning
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Learning Design Wiki" class="md-nav__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lazuli-monogram-lapis.svg" alt="logo">
+
+    </a>
+    Learning Design Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../principles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patterns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../theories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Theories
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../claims/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claims
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../log/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Log
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CLAUDE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema & Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#description-and-scope" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Description and scope
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inputs-establish-the-design-brief" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Inputs: establish the design brief
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sequence-and-conditional-policy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sequence and conditional policy
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#choosing-configurations-from-evidence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Choosing configurations from evidence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-evidence-not-yet-read-against-this-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Further evidence, not yet read against this model
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#illustrative-design-instance-and-observation-record" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Illustrative design instance and observation record
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elements-and-limits" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elements and limits
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Related Patterns
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Key Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="case-based-learning">Case-Based Learning<a class="headerlink" href="#case-based-learning" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Pattern</strong> · <a href="../">All patterns</a>
+<strong>Evidence</strong> · 7 claims (4 for, 3 mixed) · 17 studies (8 causal, 4 quant-synthesis, 2 review, 1 associational, 1 qualitative, 1 theoretical), <code>q2</code>–<code>q4</code> · 2 of 17 report an effect size · 2 claims rest on one study</p>
+</blockquote>
+<h2 id="description-and-scope">Description and scope<a class="headerlink" href="#description-and-scope" title="Permanent link">&para;</a></h2>
+<p>A reusable policy for organizing a lesson around realistic cases (scenarios, incidents, dilemmas or worked situations) that learners analyse, and for deciding how many cases to use, how learners work with them, and when the principle they share is made explicit. It applies the <a href="./">case-based learning principle</a>, which has not yet been rewritten as a conditional model, and draws on <a href="../../principles/analogical-reasoning/">analogical reasoning</a> and <a href="../../principles/cognitive-flexibility/">cognitive flexibility</a>. The study configurations below are evidence; the response-dependent policy is an <strong>untested design proposal</strong>. Use it to gather better evidence about a learner group, not to certify that a learner "can reason from cases".</p>
+<p><strong>What the evidence does and does not test.</strong> The wiki's strongest evidence concerns one component, <em>comparing</em> cases (<code>case-comparison</code>), against studying the same cases one at a time, single cases, or conventional instruction. Case-based learning as a whole format has one non-randomized classroom comparison and a systematic review that found its effect on learning inconclusive. So this page treats comparison, an explicit principle and a transfer probe as the configuration, and treats "use cases" on its own as an unsupported promise.</p>
+<p><a href="../problem-based-learning/">Problem-based learning</a> is a neighbouring, converted pattern: it organizes a unit around one problem learners must investigate and decides how much guidance to give before or after it. This pattern is narrower and works at lesson grain: the case is an object of analysis and comparison, not a driving problem, and its decisions concern case selection, comparison and the timing of the principle. Where a case is used as a problem to solve before instruction, use the problem-based pattern's guidance on problem-first phases. The <a href="../case-based-learning-harvard-method/">Harvard-method page</a> describes one discussion-centred configuration of the format.</p>
+<h2 id="inputs-establish-the-design-brief">Inputs: establish the design brief<a class="headerlink" href="#inputs-establish-the-design-brief" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Record or elicit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learner and starting observation</td>
+<td>Age band and task-specific starting knowledge (<code>novice</code>, <code>intermediate</code>, <code>advanced</code>, or <code>?</code>); a brief independent analysis of one case: what the learner thinks matters in it, what principle (if any) they name, and what they would do. Preserve unknowns.</td>
+</tr>
+<tr>
+<td>Context and activities</td>
+<td>Setting (<code>classroom</code>, <code>online-instructor-led</code>, <code>workplace-clinical</code>, ...), time available, group or individual work, who facilitates, and exactly which cases, prompts, explanations and feedback are planned and in what order.</td>
+</tr>
+<tr>
+<td>Learner-valued goal</td>
+<td>Ask what the learner wants to be able to do with cases like these and why (for example, decide in their own practice, argue a position, pass an exam). Record disagreement with the designer objective; negotiate rather than assume agreement.</td>
+</tr>
+<tr>
+<td>Designer objective</td>
+<td>The principle, concept or judgement (<code>principle</code>, <code>concept</code>, <code>complex-skill</code>) the cases are meant to carry, and whether the domain is well structured (one principle applies the same way across cases) or ill structured (the concept plays out differently case by case).</td>
+</tr>
+<tr>
+<td>Outcome</td>
+<td>Separate instruments for factual recall, use of the principle in a new case (<code>near-transfer</code>, <code>far-transfer</code>) and, where it matters, a decision or product; individual as well as group measures; immediate and delayed horizons.</td>
+</tr>
+</tbody>
+</table>
+<p>A request for "more realistic, engaging teaching" does not specify these inputs. Ask for them before choosing cases, a number of cases or a predicted gain. Check first that each case actually instantiates the target principle and that a correct analysis of it requires the principle, not only common sense or reading the case.</p>
+<h2 id="sequence-and-conditional-policy">Sequence and conditional policy<a class="headerlink" href="#sequence-and-conditional-policy" title="Permanent link">&para;</a></h2>
+<ol>
+<li><strong>Elicit briefly.</strong> Give one case and ask each learner (not only the group) what matters in it and why. Keep this short and record it as a learning exposure.</li>
+<li><strong>Select at least two cases that share the target principle.</strong> Choose cases whose surface details differ while the principle stays the same; for an ill-structured target, add cases in which the concept plays out differently. Record how the cases differ and on which dimension they are meant to contrast.</li>
+<li><strong>Have learners compare, not just read.</strong> Present the cases together and prompt for what is the same, what differs and why. Studying the same cases one after another is a different configuration with weaker recorded results; record which was delivered.</li>
+<li><strong>Make the principle explicit after the comparison.</strong> State the principle, connected to what learners found in the cases; correct a principle that learners have abstracted wrongly.</li>
+<li><strong>Reobserve individually on a new case.</strong> Use a case with new surface details, scored separately for recall and for use of the principle, at the agreed horizon. If the response disagrees with the expectation, revise the interpretation or the configuration.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Observation</th>
+<th>Discriminating probe</th>
+<th>Proposed action, with its uncertainty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learner retells the case but names no principle</td>
+<td>Ask what would change the outcome of the case; give a second case and ask what the two have in common.</td>
+<td>If the comparison releases a principle, continue with comparison. If not, the learner may lack the concept the cases presuppose: teach it explicitly or use a worked example before further cases. Neither branch is a validated diagnosis.</td>
+</tr>
+<tr>
+<td>Learner names a principle, but a surface feature of the case</td>
+<td>Give a case with the same surface feature and a different principle, and one with different surface and the same principle.</td>
+<td>Choose cases that vary the misleading surface feature and hold the principle constant, and prompt for the contrast. The comparison evidence does not establish how many cases are enough.</td>
+</tr>
+<tr>
+<td>Lively discussion, but individual answers on a new case do not use the principle</td>
+<td>Individual analysis of a changed case, matched in demand to the discussion.</td>
+<td>Add an individual comparison task and an explicit statement of the principle; record who contributed what. A review of the format notes that any benefit may come from group work rather than from the cases, so discussion alone does not show learning.</td>
+</tr>
+<tr>
+<td>Principle used on the new case, factual recall weak</td>
+<td>Score recall separately under the same conditions.</td>
+<td>Add targeted recall practice if recall is part of the objective. In one small experiment, multiple-case study improved transfer essays while a drill group recalled more facts, so this pattern is expected rather than a failure.</td>
+</tr>
+<tr>
+<td>Correct on an immediate new case, not at a delay</td>
+<td>A matched new case after the agreed interval.</td>
+<td>Plan a later comparison or retrieval of the principle. The comparison meta-analysis found larger benefits on immediate than on delayed tests, so an immediate success does not forecast a delayed one.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="choosing-configurations-from-evidence">Choosing configurations from evidence<a class="headerlink" href="#choosing-configurations-from-evidence" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Whether to expect anything from the format itself.</strong> <a href="../../claims/case-based-learning-improves-exam-performance/">Case-based learning improves exam performance</a> [~M] rests on one non-randomized within-cohort comparison in an introductory community-college biology course (56 students; case-taught topics scored higher on regular exams than matched topics taught by short lecture, reading and discussion, an 18-percentage-point average difference, no standardized effect size) and on a systematic review of 104 papers in health professional education that found the evidence inconclusive on whether case-based learning improves learning more than other activities, noting that gains may come from the group work. Plan and evaluate a specific configuration; do not promise a gain from the label. Neither entry reports a delayed outcome.</li>
+<li><strong>Compare cases rather than study them one at a time.</strong> <a href="../../claims/comparing-contrasting-cases-improves-learning/">Comparing contrasting cases improves learning</a> [+M]: across 57 experiments (336 tests) case comparison produced greater learning than single, sequential or non-analogous case study, traditional instruction and controls (d = .50, 95% CI [.44, .56]); in a randomized experiment with undergraduate novices learning negotiation, 48% of those who compared two cases on one page used the principle in a new negotiation against 19% of those who studied the same cases separately. The pooled estimate mixes several comparison conditions, so it is not solely a "compare vs. same cases separately" effect. The same evidence underlies <a href="../../claims/comparing-contrasting-cases-improves-learning/">multiple contrasting cases support abstraction</a> [+M].</li>
+<li><strong>When the principle is stated, and on which outcome to judge.</strong> The same meta-analysis found larger benefits when learners were asked to find similarities, when the principle was given <em>after</em> the comparison, with perceptual content, and on immediate tests. That supports step 4's order and the delayed probe in the table; it does not set a lag or a dose. In seventh-grade algebra, comparing solution methods side by side raised procedural knowledge and flexibility but not conceptual knowledge (abstract only), so a comparison may change how learners use and choose methods without changing their grasp of the concept.</li>
+<li><strong>Multiple perspectives in ill-structured domains.</strong> <a href="../../claims/cognitive-flexibility-theory-multiple-cases/">Presenting multiple cases from different perspectives supports transfer in ill-structured domains</a> [~M]: in a small randomized experiment (34 paid university volunteers, the social impact of technology), revisiting short cases under several themes produced better transfer essays than computer drill, while drill produced better factual recall; the treatment bundled several features, so which one mattered is not known. The comparison meta-analysis does not isolate ill-structured domains or multiple perspectives, and its smaller delayed benefit cuts against the theory's prediction that the advantage grows at delay. Choose this configuration for an ill-structured target judged on transfer, and measure recall separately.</li>
+<li><strong>Novices.</strong> No claim recorded here tests case-based learning by prior knowledge. The claim pages' discussions propose, without evidence entries, that novices may need the concept supplied or comparison scaffolded; the comparison experiments themselves used novices. Treat expertise as an open moderator and elicit the starting response rather than assume.</li>
+</ul>
+<p>Do not rank these results against one another: their comparators (separate cases, drill, lecture and reading, other activities) and outcomes (exam items, transfer essays, a negotiation, procedural knowledge) differ. A precise abstention names the missing comparison, outcome or observation and the next way to resolve it.</p>
+<h2 id="further-evidence-not-yet-read-against-this-model">Further evidence, not yet read against this model<a class="headerlink" href="#further-evidence-not-yet-read-against-this-model" title="Permanent link">&para;</a></h2>
+<!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+<p>Claims this page cited before it was rewritten as a conditional model. Both claims it cited before the 2026-10-02 rewrite are now read in the model above, so none remains here.
+- <a href="../../claims/whole-task-performance-improves-transfer/">A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills</a> [+W] aligns with case-based learning when the case requires integrating multiple concepts into a coherent response
+- Transfer is stronger when learners articulate why a response fits the case rather than merely selecting an option <a href="../../claims/self-explanation-improves-conceptual-understanding/">Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.</a> [+S]
+- Facilitation matters: questioning and hints often outperform simply telling learners what the right answer was <a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding improves learning more than fixed or absent support.</a> [+M]
+- <a href="../../claims/part-task-practice-reduces-load-for-novices/">Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.</a> [~M] — some novices need component instruction or worked examples before cases become productive</p>
+<h2 id="illustrative-design-instance-and-observation-record">Illustrative design instance and observation record<a class="headerlink" href="#illustrative-design-instance-and-observation-record" title="Permanent link">&para;</a></h2>
+<p><em>Illustration only, invented, not a tested lesson.</em> A workplace session for new team leads on handling conflict between staff. The designer's objective is that each lead can recognise when a dispute is about a task rather than a relationship and choose a response that fits; one lead says she wants to stop avoiding difficult conversations. Agree that both a correct reading of a new case and a planned first conversation matter. Ask each lead to analyse one short case; most describe who was at fault and none distinguishes task from relationship. Give two further cases with different settings and the same underlying distinction, ask leads to compare all three in pairs, then state the distinction explicitly against what they found. Assess individually with a new case at the end of the session and again three weeks later, scored separately for reading the case and for the planned response.</p>
+<p>Record: <strong>cases and how they differ → each learner's first analysis → comparison prompts, explanation and facilitation actually given, with timing → principles learners named → candidate interpretations and confidence basis → distinguishing probe → principle statement delivered → individual analysis of a new case at the stated horizon</strong>. Preserve the learner's stated purpose and any change in it. An agent may summarize this record but must not fabricate missing inputs or assign numerical state probabilities without a calibrated model.</p>
+<h2 id="elements-and-limits">Elements and limits<a class="headerlink" href="#elements-and-limits" title="Permanent link">&para;</a></h2>
+<p><a href="../../elements/case-studies/">Case studies</a>, <a href="../../elements/case-based-learning/">case-based learning</a>, <a href="../../elements/comparing-cases/">comparing cases</a>, <a href="../../elements/discussion-based-learning/">discussion-based learning</a>, <a href="../../elements/self-explanation/">self-explanation</a>, <a href="../../elements/scaffolding/">scaffolding</a> and <a href="../../elements/worked-examples/">worked examples</a>.</p>
+<p>This pattern is scoped to lessons in which cases are analysed and compared and the principle they share is made explicit. Whole case-based curricula, cases used as unguided problems before any instruction, discussion formats judged on participation, and assessment of professional competence need distinct configurations and evidence. The wiki records no randomized comparison of case-based learning as a whole format with another approach, and the diagnostic branches above remain to be tested with actual learners.</p>
+<h2 id="related-patterns">Related Patterns<a class="headerlink" href="#related-patterns" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../case-based-learning-harvard-method/">Case-Based Learning (Harvard Method)</a></li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Herreid, C. F. (2011). <em>Case study teaching</em>. NSTA Press.</li>
+<li>Kaddoura, M. A. (2011). Critical thinking skills of nursing students in lecture-based teaching and case-based learning. <em>International Journal for the Scholarship of Teaching and Learning, 5</em>(2).</li>
+<li>Hoffer, E. R. (2020). Case-based teaching: Using stories for engagement and inclusion. <em>International Journal on Social and Educational Sciences, 2</em>(2), 75-80.</li>
+<li>Vinney, L., Friberg, J. C., &amp; Smyers, M. (2019). Case-based perspective-taking as a mechanism to improve metacognition and higher-level thinking. <em>Journal of the Scholarship of Teaching and Learning, 19</em>(3), 91-104.</li>
+<li>Ellet, W. (2007). <em>The case study handbook: How to read, discuss, and write persuasively about cases</em>.</li>
+</ul>
+<!-- deprecated 2026-10-02: superseded by the conditional model above. Old body kept verbatim.
+
+## Description
+Case-based learning is the short-form canonical pattern for learning through analysis of realistic cases.
+
+## Design
+
+### Elements Used
+- [Case Studies](../elements/case-studies.md)
+- [Discussion-Based Learning](../elements/discussion-based-learning.md)
+
+## Claims
+- [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
+- [Multiple Contrasting Cases Support Abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
+-->
+
+<!-- merged 2026-10-05 from principles/case-studiescase-based-learning ("Case Studies/Case-based Learning"), misfiled as a principle and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Case Studies/Case-based Learning
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 2 claims rest on one study
+
+## Description
+Case studies use realistic scenarios, dilemmas, or incidents as the object of analysis so learners must interpret evidence, weigh alternatives, and justify action. Rather than receiving rules first and applying them later, learners grapple with ambiguity closer to professional practice: what matters here, what information is missing, what options are plausible, and how should a decision be defended?
+
+## Implications
+Case-based learning is powerful because it places concepts inside realistic uncertainty instead of leaving them as detached rules. When learners have to interpret evidence, justify a decision, and compare alternatives, they are more likely to build transferable judgment than when they only rehearse isolated subskills [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S]. That transfer is stronger when learners explain why their response fits the case rather than simply picking an answer [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. The tradeoff is that ambiguity can overload novices, so the strongest case designs combine realism with structure: prompts, expert modeling, staged information release, and responsive questioning that helps learners move through complexity without simply being told the answer [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M].
+
+### Context
+#### Requirements
+- A well-chosen case with enough complexity to require interpretation, not just recall
+- Time for analysis, discussion, and revision of judgment rather than a single quick answer
+- Facilitation that pushes learners to justify claims with evidence from the case
+- Clear connection between case analysis and underlying concepts, frameworks, or procedures
+
+#### Constraints
+- Poorly written or overly contrived cases reduce authenticity and invite superficial discussion
+- Novices can become overwhelmed by ambiguity if cases are introduced without enough framing, vocabulary, or modeling
+- Discussion can collapse into opinion-sharing unless learners are held to evidence, criteria, and reasoning
+- Case learning is weaker when learners never compare their judgment to expert reasoning or later outcomes
+
+### Target Learners
+- Learners preparing for professions where judgment under uncertainty matters
+- Learners developing analytical reasoning, decision-making, and argumentation
+- Learners who benefit from concrete scenarios instead of abstract exposition alone
+- More effective once learners have at least minimal background knowledge about the domain and its core concepts
+
+### Target Learning Objectives
+- Apply concepts to realistic, messy, and incomplete situations
+- Strengthen evidence-based reasoning and decision justification
+- Compare multiple interpretations or solution paths without assuming one obvious answer
+- Build transfer from classroom knowledge to practice-oriented situations
+
+### Theory
+#### Supporting
+- Situated and experiential perspectives support case work because learners engage with realistic situations that approximate use contexts
+- Constructivist perspectives support case analysis as an active process of interpretation, comparison, and meaning-making
+- Social constructivist perspectives support discussion-based case teaching where reasoning is sharpened through challenge and perspective-taking
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] aligns with case-based learning when the case requires integrating multiple concepts into a coherent response
+
+#### Contradicting / Qualifying
+- Cases are not automatically effective for novices; some learners need models, prompts, or worked analyses before open discussion
+- Transfer is stronger when learners articulate why a response fits the case rather than merely selecting an option [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
+- Facilitation matters: questioning and hints often outperform simply telling learners what the right answer was [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
+
+### Claims
+- [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+S] — cases can approximate whole-task professional reasoning better than isolated subskill drills
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — discussion and written justification improve learning when learners explain why their interpretation fits the evidence
+- [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — instructor probing and responsive hints improve transfer more than answer-giving alone
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — some novices need component instruction or worked examples before cases become productive
+
+## Related Principles
+- [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — cases become stronger when decisions are framed for realistic stakeholders
+- [Inquiry-based Learning](../principles/inquiry-based-learning.md) — case work often begins with uncertainty, question generation, and evidence seeking
+- [Explaining Their Thinking](../principles/self-explanation.md) — case analysis depends on visible reasoning, not just chosen conclusions
+- [Ask Experts](../principles/ask-experts.md) — expert commentary can make tacit judgment visible after learners attempt a case themselves
+
+## Examples
+<!- - Links to elements or patterns that apply this principle - ->
+- [Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md) — structured whole-class analysis of a complex case
+- [Case Studies](../strategies/case_studies.md) — localized use of real or simulated scenarios for application and discussion
+- Medical diagnosis cases, business decision memos, legal briefs, and engineering incident reviews are all common implementations
+- Interrupted cases, where new information is released in stages, can preserve uncertainty while creating natural decision points
+
+## Key Sources
+- Kaddoura, M. A. (2011). Critical thinking skills of nursing students in lecture-based teaching and case-based learning. *International Journal for the Scholarship of Teaching and Learning, 5*(2).
+- Hoffer, E. R. (2020). Case-based teaching: Using stories for engagement and inclusion. *International Journal on Social and Educational Sciences, 2*(2), 75-80.
+- Vinney, L., Friberg, J. C., & Smyers, M. (2019). Case-based perspective-taking as a mechanism to improve metacognition and higher-level thinking. *Journal of the Scholarship of Teaching and Learning, 19*(3), 91-104.
+- Ellet, W. (2007). *The case study handbook: How to read, discuss, and write persuasively about cases*.
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>pattern</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>case-based-learning</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Case-Based Learning</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>A reusable policy for learning from realistic cases: establish what learners can already do with the target concept, have them compare several cases that share a principle rather than study one at a time, make the principle explicit, and judge the unit on transfer to a new case rather than on enjoyment or recall.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>grain_size</code></td>
+<td><code>lesson</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-02</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.top", "navigation.indexes", "navigation.tracking", "navigation.path", "navigation.prune", "navigation.instant", "navigation.instant.progress", "navigation.instant.prefetch", "toc.follow", "search.suggest", "search.highlight", "search.share", "content.code.copy", "content.tooltips"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
