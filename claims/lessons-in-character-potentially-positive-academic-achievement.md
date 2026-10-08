@@ -48,3 +48,4 @@ WWC recalculation of the Dietsch, Bayha, & Zheng (2005) randomized controlled tr
 - [Lessons in Character shows no discernible effects on student behavior](lessons-in-character-no-discernible-behavior-effects.md) — related
 - [Lessons in Character shows no discernible effects on knowledge, attitudes, and values](lessons-in-character-no-discernible-kav-effects.md) — related
 - [Improvement indices favor Lessons in Character across all three outcome domains, largest for academic achievement](lessons-in-character-improvement-index-all-domains.md) — related
+- [Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance](fast-qed-dose-effects-reading-math-attendance.md) — related

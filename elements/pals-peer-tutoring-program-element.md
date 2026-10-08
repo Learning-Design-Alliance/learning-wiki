@@ -49,6 +49,7 @@ PALS is "a supplemental peer-tutoring program in which student pairs perform a s
 
 - [PALS commercially distributed materials and cost structure](pals-materials-and-cost.md)
 - [PALS: structured peer-tutoring program supplementing the primary reading curriculum](pals-peer-tutoring-reading-program.md)
+- [Peer-Assisted Learning Strategies (PALS) first-grade literacy program](pals-peer-assisted-learning-strategies-program.md)
 
 ## Examples
 

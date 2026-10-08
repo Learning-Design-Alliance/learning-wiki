@@ -42,6 +42,7 @@ In the qualifying research, "teachers met with program implementation staff for 
 - [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
 - [Online asynchronous professional learning series completed in teams across the school year](stari-professional-learning-series.md)
 - [Implement Exact Path with existing district staff plus vendor-provided professional development](exact-path-existing-staff-vendor-pd-implementation.md)
+- [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](exact-path-implementation-existing-staff-pd.md)
 
 ## Examples
 -

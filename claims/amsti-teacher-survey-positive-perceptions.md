@@ -46,3 +46,4 @@ Teacher surveys administered across AMSTI treatment and comparison groups using 
 - [AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05](amsti-math-problem-solving-effect-0-05.md) — related
 - [AMSTI qualifies for the Promising evidence rating based on one study of 9343 students](amsti-promising-evidence-rating.md) — related
 - [AMSTI teachers reported more student engagement, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-engagement-active-learning.md) — possibly the same claim (merge candidate)
+- [Participating schools report more positive teacher and staff perceptions of teaching and learning conditions](safersanschools-improves-teacher-perceptions-conditions.md) — related

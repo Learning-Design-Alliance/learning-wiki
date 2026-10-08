@@ -55,6 +55,8 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Intensive trainer-led observation and feedback model for tutoring professional development](early-steps-trainer-observation-feedback-training.md)
 - [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
 - [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
+- [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
+- [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 
 ## Examples
 -

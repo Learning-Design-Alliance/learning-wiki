@@ -45,6 +45,7 @@ The program's professional development model centers on a one-day workshop: "Tea
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
 - [Online asynchronous professional learning series completed in teams across the school year](stari-professional-learning-series.md)
 - [Train-the-Trainer professional development for attendance-intervention staff](train-the-trainer-attendance-intervention-pd.md)
+- [Implement PAX Good Behavior Game via one-day onsite teacher training with home-support manuals for parents](pax-gbg-onsite-training-parent-manuals.md)
 
 ## Examples
 -

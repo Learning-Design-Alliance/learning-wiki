@@ -48,6 +48,7 @@ Each decodable book in the packs includes a QR code linking to a 2-minute phonic
 ## Examples
 
 - [Provide accessible caregiver resources to reinforce phonics at home](../strategies/family-support-hub-home-literacy-reinforcement.md)
+- [Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection](../strategies/family-support-hub-caregiver-literacy-resources.md)
 
 ## Key Sources
 - Just Right Reader Take-Everywhere Literacy Packs™: Evidence Rating. (2025). Program description with quasi-experimental evaluation. https://evidenceforessa.org/program/just-right-reader-take-everywhere-literacy-packs/

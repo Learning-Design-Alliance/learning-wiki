@@ -50,3 +50,5 @@ An exploratory analysis within the same quasi-experimental study compared combin
 - [Exact Path Proficiency + Growth shows statistically significant positive ELA effects across Grades 6-8](exact-path-bundle-ela-significant-grades-6-8.md) — related
 - [Exact Path use produced a statistically significant positive effect on 6th-grade ELA achievement (effect size = +0.16) in a quasi-experimental study](exact-path-ela-effect-016.md) — related
 - [Exact Path use produced a statistically significant positive effect on 6th-grade Mathematics achievement (effect size = +0.06) in the same quasi-experimental study](exact-path-math-effect-006.md) — related
+- [Exact Path has a statistically significant positive effect on grade 6 ELA achievement (effect size +0.16)](exact-path-ela-effect-016-dcps.md) — related
+- [Exact Path has a statistically significant positive effect on grade 6 Mathematics achievement (effect size +0.06)](exact-path-math-effect-006-dcps.md) — related

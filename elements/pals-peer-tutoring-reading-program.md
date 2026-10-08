@@ -51,6 +51,7 @@ Peer-Assisted Learning Strategies and Peer-Assisted Literacy Strategies are "pee
 
 - [Peer-Assisted Learning Strategies (PALS): structured reciprocal peer-tutoring supplement for grades 2–6 reading and math](pals-peer-tutoring-program-element.md)
 - [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
+- [Peer-Assisted Learning Strategies (PALS) first-grade literacy program](pals-peer-assisted-learning-strategies-program.md)
 
 ## Examples
 

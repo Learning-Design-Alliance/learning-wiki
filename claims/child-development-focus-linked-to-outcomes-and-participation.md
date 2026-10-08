@@ -45,3 +45,4 @@ The review attributes this to a national Early Head Start evaluation across 17 p
 ## Related Claims
 - [Goals set in Head Start home visiting were largely adult centered, with only a small portion addressing child development](head-start-home-visit-goals-adult-focused.md) — related
 - [Families who documented goals received more home visits than families who did not](home-visit-frequency-associated-with-goal-setting.md) — related
+- [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related

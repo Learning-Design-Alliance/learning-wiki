@@ -47,6 +47,7 @@ Exact Path Growth is described as "a computer-adaptive supplemental program" tha
 - [Lexia Reading: computerized supplementary phonics practice program with adaptive independent practice and web-based progress reporting](lexia-reading-computerized-supplementary-phonics-program.md)
 - [Edmentum Exact Path Growth personalized learning program](exact-path-growth-program-element.md)
 - [i-Ready Personalized Instruction (online individualized reading lessons for grades K-8)](iready-personalized-instruction-element.md)
+- [Edmentum Exact Path Growth personalized learning program](edmentum-exact-path-growth-program.md)
 
 ## Examples
 -

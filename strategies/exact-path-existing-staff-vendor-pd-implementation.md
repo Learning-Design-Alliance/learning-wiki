@@ -42,6 +42,7 @@ The program is designed for implementation without additional hiring: districts 
 - [Implement Exact Path with existing district staff supported by vendor professional development and standard technology](exact-path-existing-staff-implementation-strategy.md)
 - [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](exact-path-implementation-strategy.md)
 - [Provide implementation professional development and support approximately every three weeks](sipps-three-week-pd-support-cadence.md)
+- [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](exact-path-implementation-existing-staff-pd.md)
 
 ## Examples
 -

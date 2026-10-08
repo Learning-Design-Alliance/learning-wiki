@@ -67,6 +67,7 @@ The *quality* of family literacy interaction matters more than its quantity: car
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
 - [Provide accessible caregiver resources to reinforce phonics at home](family-support-hub-home-literacy-reinforcement.md)
+- [Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection](family-support-hub-caregiver-literacy-resources.md)
 
 ## Examples
 - **Dialogic reading interventions** (Whitehurst et al., 1988): parents of preschoolers trained in interactive questioning showed significant gains in children's expressive language relative to controls.

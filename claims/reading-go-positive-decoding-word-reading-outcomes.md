@@ -52,3 +52,4 @@ One study of language-minority, low-SES first graders in New York City compared 
 - [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](sound-partners-positive-first-grade-effects-english-learners.md) — related
 - [Sound Partners produces significantly positive reading outcomes for English learner kindergartners (effect size +0.60)](sound-partners-positive-kindergarten-effects-english-learners.md) — related
 - [LiPS has potentially positive effects on alphabetics for students with learning disabilities, with statistically significant advantages on two of eight measures](lips-potentially-positive-alphabetics-learning-disabilities.md) — related
+- [Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)](ecri-improves-word-reading-outcomes-first-grade.md) — related

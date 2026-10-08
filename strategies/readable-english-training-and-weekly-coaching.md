@@ -53,6 +53,7 @@ The page specifies a professional development model for implementing Readable En
 - [Support tutors with a 2-day initial workshop plus weekly per-child progress meetings](tutor-workshop-weekly-progress-meetings.md)
 - [Add ongoing professional development and increased support for EL students when implementing IXL Math](ixl-math-ongoing-pd-and-el-support.md)
 - [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
+- [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 
 ## Examples
 -

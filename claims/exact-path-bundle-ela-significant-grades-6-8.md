@@ -48,3 +48,5 @@ The same Florida quasi-experimental study of middle school students reports that
 - [Exact Path Proficiency + Growth improves middle school Mathematics achievement (ES +0.11)](exact-path-bundle-fast-math-effect-011.md) — related
 - [Exploratory analysis suggests students using the combined program outperformed peers using Exact Path Growth alone](exact-path-combined-outperforms-growth-alone-exploratory.md) — related
 - [Students using Proficiency + Growth outperformed peers using Growth alone (exploratory)](exact-path-proficiency-adds-gains-beyond-growth.md) — related
+- [Exact Path has a statistically significant positive effect on grade 6 ELA achievement (effect size +0.16)](exact-path-ela-effect-016-dcps.md) — a narrower finding that bears on this claim
+- [Exact Path has a statistically significant positive effect on grade 6 Mathematics achievement (effect size +0.06)](exact-path-math-effect-006-dcps.md) — related

@@ -50,6 +50,7 @@ Pre-K Mathematics is "a supplemental curriculum designed to develop the informal
 - [DreamBox Learning adaptive online mathematics program](dreambox-learning-adaptive-math-program.md)
 - [SRA Real Math Building Blocks PreK supplemental preschool mathematics curriculum](sra-real-math-building-blocks-prek-curriculum.md)
 - [Pre-K Mathematics supplemental preschool program](pre-k-mathematics-program-element.md)
+- [Thinking Math! (Innovamat PreK-8 mathematics curriculum)](thinking-math-innovamat-curriculum-element.md)
 
 ## Examples
 -

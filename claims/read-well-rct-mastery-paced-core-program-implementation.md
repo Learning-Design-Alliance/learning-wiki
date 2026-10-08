@@ -62,3 +62,4 @@ The trial was conducted in a rural eastern Colorado elementary school where 61% 
 
 ## Related Claims
 - [Teachers and interventionists gave mostly favorable implementation ratings, with over 90% comfortable implementing and finding it supplemented the core program well](rise-teacher-favorable-implementation-ratings.md) — related
+- [Instructional assistants can deliver most Tier 2 small-group reading instruction under the ECRI model](instructional-assistants-deliver-tier2-small-group-reading.md) — related

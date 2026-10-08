@@ -44,3 +44,4 @@ Randomized controlled trial (Stein et al., 2008) in 67 schools with 2,959 kinder
 
 ## Related Claims
 - [For first-grade nonresponders, PALS showed no statistically significant effects on seven alphabetics outcomes compared with adult tutoring](pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring.md) — related
+- [PALS shows strong evidence of positive effects on first-grade literacy, with an average effect size of +0.23 across three studies](pals-strong-evidence-first-grade-literacy-es-023.md) — related

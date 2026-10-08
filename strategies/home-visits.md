@@ -62,6 +62,7 @@ Home visits operate on the relationship-first logic that trust between educators
 - [Family engagement communication](family-engagement.md) — the broader communication system home visits anchor
 - [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
 - [Two-visit structure: relationship-building visit first, academic-focused visit later](pthv-two-visit-structure-strategy.md)
+- [Conduct voluntary, pair-based teacher home visits focused on hopes and dreams across a cross-section of students](pthv-voluntary-pair-visit-implementation-strategy.md)
 
 ## Examples
 - **[Parent Teacher Home Visits](https://www.pthvp.org)** — The best-documented model, originating in Sacramento in 1998 and now used in hundreds of districts; studies in Sacramento City Unified and other districts link participation to reduced chronic absenteeism.

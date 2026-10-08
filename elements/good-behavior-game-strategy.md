@@ -51,6 +51,7 @@ Good Behavior Game is "a specific classroom management strategy that aims to imp
 ## Related Elements
 
 - [PAX Good Behavior Game program](pax-good-behavior-game-program.md)
+- [PAX Good Behavior Game program package (team-based behavior management with training, manuals, timers, and parent materials)](pax-good-behavior-game-program-element.md)
 
 ## Examples
 

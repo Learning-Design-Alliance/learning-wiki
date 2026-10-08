@@ -59,9 +59,11 @@ Embedded questions work primarily as retrieval practice: answering a question ab
 6. Review platform analytics to find segments with high error rates and revise those segments.
 
 ## Related Strategies
+
 - [Retrieval Practice](retrieval-practice.md) — the testing effect is the core mechanism; embedded questions are retrieval practice delivered in-video
 - [Flipped Classroom](flipped-classroom.md) — interactive quizzing makes pre-class video accountability feasible
 - [Segmenting](segmenting.md) — question pauses double as segmentation, controlling cognitive load
+- [Use Edpuzzle's embedded questions, analytics, and LMS integration to support differentiation](edpuzzle-embedded-questions-analytics-differentiation.md)
 
 ## Examples
 - **[Edpuzzle](https://edpuzzle.com)** — teachers overlay multiple-choice and open-ended questions on existing videos and track per-student watch and response data.

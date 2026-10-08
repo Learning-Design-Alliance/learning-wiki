@@ -51,3 +51,6 @@ Quasi-experimental study of middle school students in a large Florida district c
 - [Exact Path use produced a statistically significant positive effect on 6th-grade ELA achievement (effect size = +0.16) in a quasi-experimental study](exact-path-ela-effect-016.md) — related
 - [Exact Path use produced a statistically significant positive effect on 6th-grade Mathematics achievement (effect size = +0.06) in the same quasi-experimental study](exact-path-math-effect-006.md) — related
 - [The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students](exact-path-study-diverse-sample.md) — related
+- [Exact Path has a statistically significant positive effect on grade 6 ELA achievement (effect size +0.16)](exact-path-ela-effect-016-dcps.md) — related
+- [The supporting evidence for Exact Path is a single quasi-experimental study of nearly 10,000 diverse grade 6 students](exact-path-evidence-base-quasi-experimental-dcps.md) — related
+- [Exact Path has a statistically significant positive effect on grade 6 Mathematics achievement (effect size +0.06)](exact-path-math-effect-006-dcps.md) — related

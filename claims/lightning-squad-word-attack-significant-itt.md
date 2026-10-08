@@ -53,3 +53,4 @@ Cluster randomized study across 23 schools of 390 grade 2-3 students performing 
 - [Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86)](early-steps-tutoring-improves-word-attack-passage-comprehension.md) — related
 - [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](reading-go-positive-decoding-word-reading-outcomes.md) — related
 - [Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls](superkids-kindergarten-effect-size-023.md) — related
+- [Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)](ecri-improves-word-reading-outcomes-first-grade.md) — related

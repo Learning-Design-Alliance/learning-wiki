@@ -46,3 +46,4 @@ End-of-year surveys and interviews with 33 teachers across four districts, attri
 - [Prekindergarten results for My Reading Academy were not positive, yielding an average effect size of +0.04 across grades](mra-prekindergarten-results-not-positive.md) — related
 - [Teachers reported PCP easy to use and beneficial for phonics instruction, but sometimes challenging to fit into 30 minutes](pcp-teacher-feedback-usability-time-fit.md) — related
 - [Kindergarten students using My Reading Academy outperformed comparison students on end-of-year state literacy assessments (ES +0.17)](mra-kindergarten-literacy-es-017.md) — related
+- [Participating schools report more positive teacher and staff perceptions of teaching and learning conditions](safersanschools-improves-teacher-perceptions-conditions.md) — related

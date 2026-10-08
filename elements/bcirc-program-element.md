@@ -52,6 +52,7 @@ BCIRC is an adaptation of the Cooperative Integrated Reading and Composition (CI
 
 - [Cooperative Integrated Reading and Composition® (CIRC) reading and writing program](circ-reading-writing-program.md)
 - [Cooperative Integrated Reading and Composition® (CIRC) program](circ-program-element.md)
+- [Lectura Proactiva: one-to-small-group Spanish reading intervention accelerating the transition to reading in English](lectura-proactiva-program-element.md)
 
 ## Examples
 -

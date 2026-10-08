@@ -40,6 +40,7 @@ Galaxy Math's professional development model combines "a 2-day initial workshop"
 
 - [Implement Curiosity Corner with two initial training workshop days plus ongoing onsite coaching and support](curiosity-corner-training-coaching-strategy.md)
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
+- [Arrange PALS tutor training through AIR by specifying training type, grade level, group size, and location](pals-air-tutoring-training-request-strategy.md)
 
 ## Examples
 -

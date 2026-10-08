@@ -50,9 +50,11 @@ PAX Good Behavior Game is a commercial version of the long-standing Good Behavio
 ## Related Elements
 
 - [Good Behavior Game classroom management strategy](good-behavior-game-strategy.md)
+- [PAX Good Behavior Game program package (team-based behavior management with training, manuals, timers, and parent materials)](pax-good-behavior-game-program-element.md)
 
 ## Examples
--
+
+- [Implement PAX Good Behavior Game via one-day onsite teacher training with home-support manuals for parents](../strategies/pax-gbg-onsite-training-parent-manuals.md)
 
 ## Key Sources
 - Evidence for Learning. (2023). PAX Good Behavior Game (Evidence Rating). https://evidenceforessa.org/program/pax-good-behavior-game-reading/

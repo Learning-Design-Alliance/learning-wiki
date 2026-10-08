@@ -70,6 +70,7 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 - [Train parents as one-on-one reading coaches through weekly family workshops](parent-reading-coach-family-workshops.md)
 - [Engage parents through home-learning packets with videos, tips, and activity suggestions](redi-parent-home-learning-packets.md)
 - [Provide accessible caregiver resources to reinforce phonics at home](family-support-hub-home-literacy-reinforcement.md)
+- [Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection](family-support-hub-caregiver-literacy-resources.md)
 
 ## Examples
 - **Dialogic reading interventions** (Whitehurst et al., 1988) — parents of preschoolers trained in interactive questioning produced significant gains in expressive language compared with controls.

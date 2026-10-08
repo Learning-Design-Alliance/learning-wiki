@@ -46,3 +46,4 @@ One student randomized study: 483 6th-8th graders below proficient on the MCAS i
 - [Morphological Instruction Improves Literacy](morphological-instruction-improves-literacy.md) — related
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
 - [One semester of PowerUp use raised STAR Reading scores by +0.36 among grade 6-8 struggling readers](powerup-star-reading-gain-036.md) — related
+- [After one year, middle school students using Reading Edge scored higher on the Gates-MacGinitie Reading Tests with an overall effect size of +0.15](reading-edge-gates-macginitie-es-015.md) — related

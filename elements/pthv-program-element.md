@@ -43,11 +43,13 @@ PTHV is a family engagement program co-created by parents and educators using co
 - [Home visits showed slight improvements in math scores but no difference in ELA scores](../claims/pthv-math-slight-gain-ela-no-difference.md) [~W]
 
 ## Related Elements
-- 
+
+- [Parent Teacher Home Visits (PTHV) family engagement model](pthv-parent-teacher-home-visits-model.md)
 
 ## Examples
 
 - [Two-visit structure: relationship-building visit first, academic-focused visit later](../strategies/pthv-two-visit-structure-strategy.md)
+- [Conduct voluntary, pair-based teacher home visits focused on hopes and dreams across a cross-section of students](../strategies/pthv-voluntary-pair-visit-implementation-strategy.md)
 
 ## Key Sources
 - Parent Teacher Home Visits. (2021). Evidence summary reporting a 2021 Mathematica Regional Educational Laboratory Mid-Atlantic quasi-experimental study. https://evidenceforessa.org/program/parent-teacher-home-visits-attendance/

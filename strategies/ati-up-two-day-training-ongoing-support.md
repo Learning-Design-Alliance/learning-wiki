@@ -41,6 +41,7 @@ ATI-UP's professional development model has "school-based teams attend two days 
 ## Related Strategies
 
 - [Use a monthly school attendance team to review data and problem-solve](monthly-attendance-data-team-review.md)
+- [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 
 ## Examples
 -

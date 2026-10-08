@@ -45,3 +45,4 @@ Qualitative component of a 2009 matched study: structured interviews with all 23
 ## Related Claims
 - [Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls](superkids-kindergarten-effect-size-023.md) — related
 - [Superkids teachers report higher satisfaction, ease of use, and more core-program time than comparison teachers (D'Agostino, 2009)](superkids-teacher-satisfaction-dagostino-2009.md) — related
+- [Participating schools report more positive teacher and staff perceptions of teaching and learning conditions](safersanschools-improves-teacher-perceptions-conditions.md) — related

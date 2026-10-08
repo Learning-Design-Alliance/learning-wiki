@@ -65,6 +65,7 @@ Tiering operationalizes instruction within each learner's zone of proximal devel
 - [Scaffolding](../principles/scaffolding.md) — the primary dimension along which tiers typically vary
 - [Formative Assessment](../principles/assessment-for-learning.md) — supplies the evidence that drives tier placement
 - [Differentiate one shared article to each student's reading level rather than assigning varied texts](differentiate-single-article-to-reading-level.md)
+- [Use Edpuzzle's embedded questions, analytics, and LMS integration to support differentiation](edpuzzle-embedded-questions-analytics-differentiation.md)
 
 ## Examples
 - **Parallel math tasks (Marilyn Burns / NCTM tradition)**: all students investigate the same relationship (e.g., patterns in perimeter), with tiers offering manipulatives and sentence frames, open investigation, or a generalization-and-proof challenge.

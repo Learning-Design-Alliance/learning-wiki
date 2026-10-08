@@ -41,6 +41,7 @@ The summary states that Exact Path Growth "is implemented by a district's curren
 
 - [Implement Exact Path with existing district staff supported by vendor professional development and standard technology](exact-path-existing-staff-implementation-strategy.md)
 - [Implement Exact Path with existing district staff plus vendor-provided professional development](exact-path-existing-staff-vendor-pd-implementation.md)
+- [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](exact-path-implementation-existing-staff-pd.md)
 
 ## Examples
 -

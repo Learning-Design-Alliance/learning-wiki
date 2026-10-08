@@ -44,3 +44,4 @@ Earlier quasi-experimental study during the 2013-2014 school year covering kinde
 
 ## Related Claims
 - [K–8 students using Imagine Math in a charter network scored significantly higher than matched non-users on NWEA MAP Growth Math (ES +0.08)](imagine-math-charter-network-study-positive-effect.md) — related
+- [Thinking Math! students scored significantly higher in mathematics than matched comparison students after two years (ES = +0.24)](thinking-math-two-year-effect-024.md) — related

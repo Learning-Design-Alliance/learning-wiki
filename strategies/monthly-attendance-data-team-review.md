@@ -40,6 +40,7 @@ ATI-UP requires each school to "designate a team of at least three members (admi
 ## Related Strategies
 
 - [Provide two days of pre-implementation training plus ongoing technical support for school teams](ati-up-two-day-training-ongoing-support.md)
+- [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 
 ## Examples
 -
