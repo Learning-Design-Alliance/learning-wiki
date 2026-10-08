@@ -45,3 +45,4 @@ The report's abstract states as a methodological premise that "Statistical proce
 ## Related Claims
 - [Researchers disagree about using multiple testing procedures and the trade-off between type I error and statistical power (type II error)](researcher-disagreement-multiple-testing-tradeoff.md) — related
 - [Multiple comparison adjustments are needed when conducting hypothesis tests across pairwise contrasts to identify the most effective interventions](multi-armed-multiple-comparison-adjustments.md) — related
+- [Conducting many hypothesis tests across multiple outcomes and subgroups in social policy impact evaluations can lead to spurious impact findings](multiple-testing-spurious-impact-findings.md) — related

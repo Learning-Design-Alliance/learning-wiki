@@ -45,3 +45,4 @@ The paper's summary attributes the large sample requirement of RD designs to ban
 ## Related Claims
 - [Regression discontinuity designs in education require 9 to 17 times as many schools or students as randomized controlled trials to achieve the same statistical precision](rd-designs-need-9-to-17-times-rct-sample.md) — related
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — reports the opposite
+- [Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education evaluations](rd-designs-need-three-to-four-times-larger-samples-than-experiments.md) — related

@@ -67,3 +67,4 @@ Authors' interpretation from the case-study interviews, hedged with "It appears 
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](similar-data-capacity-sdp-ep-agencies.md) — related
 - [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](sdp-ep-staff-placement-capacity-theory-of-action.md) — a broader claim this one bears on
 - [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](sdp-ep-aim-enhance-data-capacity.md) — a broader claim this one bears on
+- [The NIH Intramural Research Loan Repayment Program evaluation combined an outcomes evaluation with a process analysis drawing on focus groups, staff interviews, and administrative data](nih-lrp-mixed-process-outcomes-evaluation.md) — related

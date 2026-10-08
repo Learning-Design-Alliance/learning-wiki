@@ -56,3 +56,4 @@ Mathematica's random assignment study of alternative routes to teacher certifica
 - [Elementary students taught by teachers from less selective alternative routes had test scores similar to peers taught by traditional-route teachers](elementary-less-selective-alt-routes-similar-traditional.md) — a narrower finding that bears on this claim
 - [Secondary math students taught by Teaching Fellows teachers had test scores similar to peers taught by traditional-route teachers](teaching-fellows-secondary-math-similar-traditional.md) — related
 - [Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence](within-school-random-assignment-feasible-but-challenging.md) — related
+- [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on

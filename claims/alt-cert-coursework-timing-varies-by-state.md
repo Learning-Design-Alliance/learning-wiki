@@ -46,3 +46,4 @@ Descriptive finding from the study's data on 80 teacher training programs: "Most
 - [Students of alternatively certified teachers taking coursework while teaching scored lower in math than students of traditionally certified counterparts](coursework-while-teaching-lower-math.md) — related
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
 - [Coursework hour requirements varied widely across certification programs and did not consistently differ by route](coursework-hours-vary-by-route-and-state.md) — related
+- [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on

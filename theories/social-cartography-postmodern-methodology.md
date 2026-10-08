@@ -49,6 +49,7 @@ Social cartography is a methodology, grounded in an anti-foundational perspectiv
 
 - [Heterotopic social cartography maps perspectival difference as an intertextual field](heterotopic-social-cartography-mapping.md)
 - [Social cartography as heterotopic mapping of perspectival difference](social-cartography-heterotopic-mapping.md)
+- [Social network analysis as a methodological approach to measuring and mapping relationships](sna-measuring-mapping-relationships-approach.md)
 
 ## Examples
 

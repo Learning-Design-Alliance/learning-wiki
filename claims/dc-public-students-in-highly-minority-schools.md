@@ -47,3 +47,4 @@ Student-weighted decile distribution of White/non-White enrollment mix across DC
 - [Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools](dc-voucher-schools-closer-to-metro-racial-mix.md) — related
 - [The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American](dc-voucher-program-likely-reducing-segregation.md) — related
 - [After one year, DC's voucher program had no statistically significant effect, positive or negative, on public school test-score gains](dc-voucher-competition-no-public-school-effect-year-one.md) — related
+- [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — related

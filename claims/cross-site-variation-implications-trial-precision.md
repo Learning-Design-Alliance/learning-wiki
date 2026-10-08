@@ -45,3 +45,4 @@ The abstract states the authors "consider the implications of this variation for
 ## Related Claims
 - [Cross-site standard deviations of ITT effects were estimated for education and workforce interventions using data from 16 large multisite randomized controlled trials](cross-site-itt-effect-variation-16-multisite-rcts.md) — related
 - [The study explores hypotheses about factors that predict the magnitude of cross-site impact variation](hypotheses-predicting-cross-site-impact-variation.md) — related
+- [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](power-limited-to-large-site-subgroups.md) — a narrower finding that bears on this claim

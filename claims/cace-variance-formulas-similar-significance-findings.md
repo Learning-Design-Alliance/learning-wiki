@@ -48,3 +48,4 @@ Comparative analysis of CACE significance findings across 10 large-scale educati
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
 - [Asymptotic properties of design-based estimators using group-level averages match those using individual data](group-level-design-based-estimators-match-individual-data-asymptotically.md) — related
 - [Design-based and model-based methods yield very similar impact estimates and levels of statistical significance in re-analyses of nine education RCTs](design-and-model-based-methods-similar-impact-estimates.md) — related
+- [Variance correction terms matter little for CACE significance findings in education RCTs](cace-variance-correction-terms-matter-little.md) — possibly the same claim (merge candidate)

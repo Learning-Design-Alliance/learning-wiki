@@ -54,3 +54,4 @@ The paper's analysis of empirical Bayes shrinkage applied to teacher value-added
 - [Empirical Bayes shrinkage could be used to address bias in proxy pre-test value-added estimates](empirical-bayes-shrinkage-for-proxy-pretest-bias.md) — related
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
 - [Findings on the distribution of highest-performing teachers are robust to omitting empirical Bayes shrinkage of the value-added estimates](findings-robust-to-omitting-eb-shrinkage.md) — related
+- [The paper compares the reliability of value-added measures of teacher performance with standards for evaluations in other fields](value-added-reliability-compared-other-fields.md) — related

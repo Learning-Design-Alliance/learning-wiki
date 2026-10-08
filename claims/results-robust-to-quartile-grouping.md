@@ -45,3 +45,6 @@ Robustness analysis re-grouping schools into poverty quartiles, presented in Fig
 ## Related Claims
 - [The distribution of highest-performing teachers across schools is statistically unlikely to be random, with significance for middle school teachers on both poverty and achievement groupings but for elementary teachers only on achievement groupings](highest-performing-teacher-distribution-nonuniform.md) — related
 - [Findings on the distribution of highest-performing teachers are robust to omitting empirical Bayes shrinkage of the value-added estimates](findings-robust-to-omitting-eb-shrinkage.md) — related
+- [The most extreme district disparity: District A's high-poverty middle schools had about 1 in 20 highest-performing math teachers versus about 12 in 20 in the lowest-poverty quintile](district-a-extreme-middle-school-math-disparity.md) — related
+- [Across ten districts combined, elementary schools show no statistically significant difference from an equitable distribution of highest-performing teachers](elementary-equitable-distribution-highest-performing-teachers.md) — related
+- [Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools](high-poverty-middle-schools-underrepresented-highest-performing-teachers.md) — related

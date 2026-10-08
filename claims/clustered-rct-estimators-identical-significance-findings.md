@@ -48,3 +48,4 @@ Empirical analysis applying the considered estimators to data from five large-sc
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
 - [Design-based and model-based methods yield very similar impact estimates and levels of statistical significance in re-analyses of nine education RCTs](design-and-model-based-methods-similar-impact-estimates.md) — related
 - [Differences between design-based and model-based impact estimates are no greater than differences between the two considered model-based methods](design-model-differences-no-greater-than-model-model.md) — related
+- [Variance correction terms matter little for CACE significance findings in education RCTs](cace-variance-correction-terms-matter-little.md) — related

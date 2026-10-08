@@ -47,3 +47,4 @@ The Chicago year-one evaluation reports a significant retention impact: "TAP tea
 - [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](chicago-tap-no-student-achievement-impact.md) — related
 - [Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results](chicago-tap-year-two-impact-evaluation.md) — related
 - [Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools](tap-increases-reported-mentoring-support.md) — related
+- [A five-year evaluation of TAP in high-need Chicago public schools began in 2007](tap-chicago-five-year-evaluation-design-2007.md) — related

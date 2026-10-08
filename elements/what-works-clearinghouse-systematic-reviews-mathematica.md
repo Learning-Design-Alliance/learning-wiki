@@ -49,6 +49,7 @@ The What Works Clearinghouse is an initiative through which systematic reviews a
 ## Examples
 
 - [Increase the supply of high quality systematic reviews so decision makers have more useful evidence summaries](../strategies/increase-supply-of-high-quality-systematic-reviews.md)
+- [Use the What Works Clearinghouse and other sources of research findings as a base for educator-researcher engagement](../strategies/use-what-works-clearinghouse-as-engagement-base.md)
 
 ## Key Sources
 - Jill Constantine. (2013). Systematic Reviews as a Tool in Evidence-Based Decision Making: Improving Research and Informing Practice. Jacobs Foundation. https://www.jacobsfoundation.de/en/

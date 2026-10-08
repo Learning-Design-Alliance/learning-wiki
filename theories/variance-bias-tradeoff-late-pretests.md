@@ -47,6 +47,7 @@ The paper organizes the late pretest decision as a tradeoff: including late pret
 ## Related Theories
 
 - [A loss function approach grounded in the causal inference literature for evaluating late pretest use in RCTs](loss-function-approach-late-pretests.md)
+- [Suitability and feasibility framework for deciding whether to use state tests in education experiments](suitability-feasibility-framework-state-tests-rct.md)
 
 ## Examples
 -

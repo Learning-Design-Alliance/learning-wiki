@@ -45,3 +45,4 @@ Descriptive data on coursework requirements collected from 80 teacher training p
 ## Related Claims
 - [Most alternatively certified teachers completed some coursework before entering the classroom, though this varied by state](alt-cert-coursework-timing-varies-by-state.md) — related
 - [No association between amount of teacher training coursework and classroom effectiveness](no-association-coursework-amount-effectiveness.md) — related
+- [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on

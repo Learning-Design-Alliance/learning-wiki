@@ -47,3 +47,4 @@ Observed in the Sim 1 results (Figure 2 and Table 7), where the lowest DC estima
 - [For skewed datasets, W-DC and LL-DC produce similar and preferred estimates, while PS-DC diverges at high-frequency scores](dc-methods-skewed-data-w-dc-ll-dc-preferred.md) — related
 - [The LL-DC, PS-DC, and W-DC methods produce similar decision consistency estimates (within 0.044) for normally or close to normally distributed datasets](dc-methods-similar-normal-distributions.md) — related
 - [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related
+- [Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students](conditional-reliability-low-at-score-tails.md) — related

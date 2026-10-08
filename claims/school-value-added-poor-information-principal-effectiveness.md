@@ -51,3 +51,4 @@ Quantitative analysis of math and reading outcomes for 4th through 8th grade stu
 - [Average achievement and adjusted average achievement measures provide no information for predicting principals' contributions to student achievement in the following year](average-achievement-measures-no-predictive-information-principals.md) — related
 - [School value-added and adjusted school value-added provide at most a small amount of information for predicting principals' future contributions to student achievement](school-value-added-small-predictive-information-principals.md) — related
 - [Value-added models were used to estimate teacher and principal effectiveness measures in Charleston County School District in 2013-2014](value-added-models-estimate-charleston-teacher-principal-effectiveness-2013-14.md) — related
+- [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related

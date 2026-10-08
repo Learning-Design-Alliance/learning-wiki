@@ -47,3 +47,5 @@ Analytical derivation reported in the methods paper: for each of the two causal 
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
 - [The developed estimators apply to a wide range of education research designs, including clustered and blocked designs](design-based-estimators-clustered-blocked-designs.md) — a broader claim this one bears on
 - [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](variance-adjustment-reduces-precision-multi-armed.md) — related
+- [OLS regression-adjusted standard errors and significance levels for average treatment effect estimators are similar to Neyman-model estimates when baseline covariates are included in experimental designs](ols-neyman-similar-standard-errors-with-covariates.md) — related
+- [Precision standards for education impact estimates are discussed for standardized test scores of elementary school students](precision-standards-elementary-test-scores.md) — related

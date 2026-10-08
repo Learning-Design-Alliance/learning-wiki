@@ -48,3 +48,4 @@ Simulated power analysis comparing the IV estimator's non-centrality parameter t
 - [Mediator-outcome association analyses can identify teacher practice mediators most associated with student learning](mediator-analyses-identify-key-teacher-practices.md) — related
 - [Measurement error in the mediator reduces statistical power for mediator-achievement association estimates](mediator-measurement-error-reduces-power.md) — related
 - [Estimating associations between student and teacher practice outcomes can examine the extent to which RCT data support a study's conceptual model](mediator-outcome-associations-test-conceptual-model.md) — related
+- [Education RCTs typically estimate the intention-to-treat parameter by comparing treatment and control group mean outcomes](education-rcts-typically-estimate-intention-to-treat.md) — related

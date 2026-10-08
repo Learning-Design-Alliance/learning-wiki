@@ -45,3 +45,4 @@ An observational study of state special education finance over 1991-92 to 2003-0
 ## Related Claims
 - [Disability rates tended to fall following state special education capitation finance reforms](disability-rates-fall-after-capitation-reforms.md) — a broader claim this one bears on
 - [Capitation-based special education finance was associated with a rising share of local funding](capitation-rising-local-funding-share.md) — related
+- [The initiative was associated with an overall increase in promotions to the next grade, concentrated among special education students](focus-high-schools-promotion-increase-special-education.md) — related

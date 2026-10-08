@@ -40,6 +40,8 @@ EPIC (the Effective Practice Incentive Community) is a school-level award progra
 
 - [Teacher Incentive Fund (TIF) performance pay evaluation study design report](tif-performance-pay-study-design-report.md)
 - [Teacher Advancement Program (TAP): performance pay, professional development, and advancement opportunities tied to student achievement growth](teacher-advancement-program-tap-chicago.md)
+- [Design report for the evaluation of the Effective Practice Incentive Community (EPIC) initiative](epic-evaluation-design-report.md)
+- [Effective Practice Incentive Community (EPIC) incentive program](epic-incentive-program-element.md)
 
 ## Examples
 -

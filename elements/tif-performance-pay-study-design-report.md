@@ -57,6 +57,7 @@ A study design report prepared by Mathematica Policy Research for the U.S. Depar
 - [Mathematica multi-site random assignment evaluation of TIF pay-for-performance bonuses](mathematica-tif-random-assignment-evaluation.md)
 - [Teacher Incentive Fund (TIF) performance-based compensation program for teachers and principals in high-need schools](teacher-incentive-fund-program-element.md)
 - [Teacher Incentive Fund (TIF) performance-based compensation program](teacher-incentive-fund-tif-program.md)
+- [Design report for the evaluation of the Effective Practice Incentive Community (EPIC) initiative](epic-evaluation-design-report.md)
 
 ## Examples
 -

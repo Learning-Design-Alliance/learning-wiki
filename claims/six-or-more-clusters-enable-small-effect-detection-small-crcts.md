@@ -48,3 +48,4 @@ Simulation study of scenario-specific detectability in small CRCTs. The author r
 - [Power calculations for small CRCTs can be accurate when design effects from small-sample spurious correlations are taken into account](power-calculations-accurate-spurious-correlation-design-effects-small-crcts.md) — related
 - [Under certain conditions the Bayesian adaptive design yields superior inference with less than one-third the sample size of a standard design](bayesian-adaptive-superior-inference-smaller-trials.md) — related
 - [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](bayesian-factorial-lower-mde.md) — related
+- [Small sample sizes reduced the power of the school choice analysis to detect achievement effects](school-choice-analysis-low-statistical-power.md) — related

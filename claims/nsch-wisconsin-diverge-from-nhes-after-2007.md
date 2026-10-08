@@ -46,3 +46,5 @@ The chapter compares trend data across the NSCH, Wisconsin administrative data, 
 - [The 2012 NHES estimate implies the percentage of homeschooled schoolchildren is likely within a range from 3.0% to 3.9%](nhes-2012-homeschooling-range-3-0-to-3-9.md) — related
 - [NHES-based estimates of homeschooling grew from 1.4% of U.S. schoolchildren in 1996 to 3.4% (about 1,773,000 children) in 2012](nhes-homeschooling-growth-1-4-to-3-4-percent.md) — related
 - [Rising survey cooperation among homeschooling families may mean pre-2012 NHES estimates undercounted homeschoolers and overstated the growth rate](nhes-response-bias-may-overstate-homeschooling-growth.md) — related
+- [Using available homeschooling data carries pitfalls that the research literature must address](homeschooling-data-pitfalls.md) — a broader claim this one bears on
+- [Quantitative research on homeschooling covers available data sources, estimates of homeschooled children, part-time homeschooling, and families' reasons for homeschooling](quantitative-homeschooling-research-scope.md) — a broader claim this one bears on

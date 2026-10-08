@@ -48,3 +48,4 @@ Early findings from Mathematica's study of Chicago's K-8 schools comparing TAP a
 - [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](chicago-tap-no-student-achievement-impact.md) — related
 - [Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results](chicago-tap-year-two-impact-evaluation.md) — related
 - [TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers](tap-raises-teacher-retention-five-points.md) — related
+- [A five-year evaluation of TAP in high-need Chicago public schools began in 2007](tap-chicago-five-year-evaluation-design-2007.md) — related

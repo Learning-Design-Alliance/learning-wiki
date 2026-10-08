@@ -46,3 +46,4 @@ The chapter presents the 2012 NHES estimate as "the midpoint of a range of plaus
 - [NHES-based estimates of homeschooling grew from 1.4% of U.S. schoolchildren in 1996 to 3.4% (about 1,773,000 children) in 2012](nhes-homeschooling-growth-1-4-to-3-4-percent.md) — related
 - [Rising survey cooperation among homeschooling families may mean pre-2012 NHES estimates undercounted homeschoolers and overstated the growth rate](nhes-response-bias-may-overstate-homeschooling-growth.md) — related
 - [NSCH and Wisconsin data track NHES homeschooling estimates until 2007, then diverge with a flat or slightly downward trend from 2007 to 2012](nsch-wisconsin-diverge-from-nhes-after-2007.md) — related
+- [Quantitative research on homeschooling covers available data sources, estimates of homeschooled children, part-time homeschooling, and families' reasons for homeschooling](quantitative-homeschooling-research-scope.md) — a broader claim this one bears on

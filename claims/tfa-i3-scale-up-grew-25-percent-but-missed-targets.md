@@ -46,3 +46,4 @@ Implementation study of TFA's i3 scale-up during the first two years of the gran
 - [Under the i3 scale-up grant, TFA planned to grow its corps by 80 percent and aimed for a majority of its teachers to be rated highly effective by the 2014-2015 school year](tfa-i3-grant-growth-and-effectiveness-goals.md) — related
 - [TFA corps members hired in the first two years of the i3 scale-up were as effective as other teachers in the same high-poverty schools in teaching reading and math](tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools.md) — related
 - [As it scaled, TFA generally maintained fidelity to its core program model, with small changes to its pre-service training program](tfa-i3-scale-up-maintained-program-fidelity.md) — related
+- [The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers](americas-teacher-corps-federal-proposal.md) — related

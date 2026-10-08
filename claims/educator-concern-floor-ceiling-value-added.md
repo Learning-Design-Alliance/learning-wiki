@@ -45,3 +45,5 @@ The paper states this concern as motivation for the study; the article offers no
 ## Related Claims
 - [Test scores at the floor of a test's score scale contain real information about students' performance, so floor scores do not distort teacher value-added estimates](floor-test-scores-contain-real-information-value-added.md) — related
 - [The lower a test's score ceiling, the more teacher value-added estimates shrink toward the average teacher, because ceiling scores contain imprecise information about achievement](lower-ceilings-shrink-value-added-toward-average.md) — related
+- [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — related
+- [The paper clarifies confusion about the use of value-added information in teacher evaluation](value-added-use-of-information-clarified.md) — a broader claim this one bears on

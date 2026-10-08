@@ -49,6 +49,7 @@ The Teacher Advancement Program (TAP) is a school-level teacher incentive model 
 - [Effective Practice Incentive Community (EPIC) school award program](effective-practice-incentive-community-epic-program.md)
 - [Teacher Advancement Program (TAP) whole-school intervention](tap-whole-school-teacher-intervention.md)
 - [Chicago TAP evaluation project (2006-2012), prepared for the Joyce Foundation](chicago-tap-evaluation-project-joyce-foundation.md)
+- [Teacher Advancement Program (TAP): a whole-school teacher evaluation, compensation, and professional development model](tap-teacher-advancement-program-whole-school-model.md)
 
 ## Examples
 -

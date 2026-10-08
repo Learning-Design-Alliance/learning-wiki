@@ -46,6 +46,7 @@ The report presents a design-based framework for multi-armed randomized controll
 ## Related Theories
 
 - [Design-based estimation framework extended from two-group RCTs to multi-armed RCTs](design-based-estimators-multi-armed-rcts.md)
+- [A framework that balances Type I and Type II errors for addressing the multiple testing problem in social policy impact evaluations](type-i-type-ii-balance-framework-multiple-testing.md)
 
 ## Examples
 

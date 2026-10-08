@@ -45,3 +45,4 @@ Descriptive baseline statistics report for the EPIC evaluation, published by Mat
 
 ## Related Claims
 - [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](psat-national-merit-awards-skew-male.md) — related
+- [Principals exhibit an incomplete understanding of how achievement growth is captured in EPIC performance measures](principals-incomplete-understanding-growth-measures.md) — related

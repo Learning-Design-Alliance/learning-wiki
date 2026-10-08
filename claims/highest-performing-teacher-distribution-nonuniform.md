@@ -44,3 +44,7 @@ Chi-square independence tests of teacher status by school quintile using distric
 
 ## Related Claims
 - [Main results are robust to grouping schools into four poverty quartiles instead of five quintiles](results-robust-to-quartile-grouping.md) — related
+- [The most extreme district disparity: District A's high-poverty middle schools had about 1 in 20 highest-performing math teachers versus about 12 in 20 in the lowest-poverty quintile](district-a-extreme-middle-school-math-disparity.md) — a narrower finding that bears on this claim
+- [District G shows the opposite pattern: highest-poverty elementary schools were most likely to have highest-performing teachers](district-g-elementary-favors-high-poverty-schools.md) — related
+- [Across ten districts combined, elementary schools show no statistically significant difference from an equitable distribution of highest-performing teachers](elementary-equitable-distribution-highest-performing-teachers.md) — related
+- [Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools](high-poverty-middle-schools-underrepresented-highest-performing-teachers.md) — a narrower finding that bears on this claim

@@ -40,6 +40,7 @@ SEdS are "tutoring or other academic support services offered outside the regula
 
 - [Regression discontinuity design exploiting oversubscription rationing of SEdS](seds-oversubscription-regression-discontinuity-design.md)
 - [Title I Supplemental Educational Services (SES) tutoring program](title-i-ses-tutoring-program.md)
+- [Two NCLB Title I educational options: school transfer and supplemental educational services](nclb-title-i-choice-and-ses-options.md)
 
 ## Examples
 -

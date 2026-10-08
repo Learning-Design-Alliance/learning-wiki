@@ -45,3 +45,4 @@ Descriptive statement of the study design: an observational examination of "seve
 ## Related Claims
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
 - [In Pennsylvania districts using hybrid instruction with precautions in fall 2020, increases in student and staff infections were no greater than community increases outside school](hybrid-instruction-infection-increases-no-greater-than-community.md) — possibly the same claim (merge candidate)
+- [The report examined value-added implementation in seven school districts or states](vam-report-examined-seven-district-states-implementation.md) — related

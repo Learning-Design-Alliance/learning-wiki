@@ -45,3 +45,4 @@ Analytical estimation of classification error rates using OLS and empirical Baye
 ## Related Claims
 - [Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data](value-added-error-rates-teacher-and-school-upper-elementary.md) — a broader claim this one bears on
 - [Error rates for comparing a teacher's performance to the average are about 25 percent with three years of data and 35 percent with one year of data](value-added-teacher-comparison-error-rates-25-35-percent.md) — related
+- [Overall false positive and false negative error rates in teacher value-added performance classification are about 10 and 20 percent, respectively](value-added-false-positive-negative-rates-10-20-percent.md) — possibly the same claim (merge candidate)

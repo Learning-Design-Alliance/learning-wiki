@@ -47,3 +47,4 @@ Retention comparison between Chicago TAP schools and comparison schools from the
 - [TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers](tap-raises-teacher-retention-five-points.md) — related
 - [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](chicago-tap-no-student-achievement-impact.md) — related
 - [Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results](chicago-tap-year-two-impact-evaluation.md) — related
+- [A five-year evaluation of TAP in high-need Chicago public schools began in 2007](tap-chicago-five-year-evaluation-design-2007.md) — related

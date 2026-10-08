@@ -44,3 +44,4 @@ Systematic review against WWC group design standards identified 12 eligible stud
 
 ## Related Claims
 - [No studies meeting WWC group design standards exist for UCSMP Geometry, Advanced Algebra, Functions Statistics and Trigonometry, or Precalculus and Discrete Mathematics](no-evidence-other-ucsmp-secondary-courses.md) — related
+- [Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base](educators-engage-researchers-via-what-works-clearinghouse.md) — related

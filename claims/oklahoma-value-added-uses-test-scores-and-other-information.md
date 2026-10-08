@@ -47,3 +47,4 @@ Descriptive statement from the report's own overview of its analytic purpose: th
 - [Oklahoma educators received value-added results in spring 2016 based on instruction provided in the 2014–2015 school year](oklahoma-tle-value-added-results-spring-2016.md) — related
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related
 - [Spring 2016 was the third year Oklahoma's TLE provided value-added results to educators](tle-third-year-value-added-results.md) — related
+- [The paper clarifies confusion about the use of value-added information in teacher evaluation](value-added-use-of-information-clarified.md) — a broader claim this one bears on

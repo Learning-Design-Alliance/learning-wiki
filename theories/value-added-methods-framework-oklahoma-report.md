@@ -51,7 +51,8 @@ The report treats value-added methods as an organizing framework for measuring e
 - [Three-method framework for accounting for co-teaching in value-added models](three-methods-co-teaching-value-added-framework.md)
 
 ## Examples
--
+
+- [Organize VAM development information around data elements, modeling considerations, role-specific features, and implementation features](../strategies/vam-development-information-areas.md)
 
 ## Key Sources
 - Elias Walsh, Albert Y. Liu, Dallas Dotter. (2014). Measuring Teacher and School Value Added in Oklahoma, 2012-2013 School Year. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/measuring-teacher-and-school-value-added-in-oklahoma-20122013-school-year

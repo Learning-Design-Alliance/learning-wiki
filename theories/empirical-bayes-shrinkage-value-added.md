@@ -44,6 +44,7 @@ The article describes empirical Bayes shrinkage as a procedure "common in the im
 ## Related Theories
 
 - [Formula-based estimation of value-added classification error rates using ordinary least squares and empirical Bayes estimators](ols-empirical-bayes-error-rate-estimation-framework.md)
+- [Hypothesis-testing framework for computing error rates of value-added performance measurement systems](hypothesis-testing-error-rate-framework-value-added.md)
 
 ## Examples
 

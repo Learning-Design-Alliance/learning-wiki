@@ -37,7 +37,9 @@ The strategy the report documents at TEP is to concentrate resources on the teac
 - raising student achievement in math, English language arts, and science
 
 ## Related Strategies
+
 - [Tep Teacher Compensation Model](../elements/tep-teacher-compensation-model.md)
+- [Reward service in high-poverty Title I schools with a salary supplement and portable credential for recognized effective teachers](atc-title-i-salary-supplement-strategy.md)
 
 ## Examples
 -

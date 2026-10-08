@@ -45,3 +45,4 @@ The review reports that for social-emotional competence, three studies from two 
 ## Related Claims
 - [The eligible evidence base for FBA-based interventions consists entirely of single-case design studies, 17 of which met pilot standards](fba-evidence-base-single-case-only.md) — related
 - [FBA-based interventions show potentially positive effects on school engagement for children identified with or at risk for an emotional disturbance](fba-potentially-positive-school-engagement.md) — related
+- [Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base](educators-engage-researchers-via-what-works-clearinghouse.md) — related

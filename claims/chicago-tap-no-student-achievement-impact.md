@@ -51,3 +51,4 @@ Final evaluation report of Chicago TAP after four years, comparing participating
 - [Teachers in Chicago TAP schools at the start of the program were about 20 percent more likely than teachers in comparison schools to remain in the same school three years later](chicago-tap-increased-teacher-retention.md) — related
 - [Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools](tap-increases-reported-mentoring-support.md) — related
 - [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](educators-receptive-to-feedback-and-compensation-strategies.md) — related
+- [A five-year evaluation of TAP in high-need Chicago public schools began in 2007](tap-chicago-five-year-evaluation-design-2007.md) — related

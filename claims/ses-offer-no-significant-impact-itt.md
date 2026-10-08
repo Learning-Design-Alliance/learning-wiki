@@ -45,3 +45,4 @@ Regression discontinuity (fuzzy RD) evaluation of SES offers in six oversubscrib
 ## Related Claims
 - [Participating in SES (averaging about 21 hours) shows no statistically significant impact on reading or math achievement for students near the cutoff](ses-participation-no-significant-impact-tot.md) — possibly the same claim (merge candidate)
 - [Intensity of SES services and other provider characteristics are not significantly related to estimated impacts](ses-provider-characteristics-not-related-to-impacts.md) — related
+- [Participants in supplemental educational services experienced significant gains in achievement](ses-participants-significant-achievement-gains.md) — reports the opposite

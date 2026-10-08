@@ -47,3 +47,4 @@ The authors' interpretive inference (not a direct test), combining the printed 9
 - [After one year, DC's voucher program had no statistically significant effect, positive or negative, on public school test-score gains](dc-voucher-competition-no-public-school-effect-year-one.md) — related
 - [Voucher-participating private schools in DC have racial compositions closer to the surrounding metro area than public schools](dc-voucher-schools-closer-to-metro-racial-mix.md) — related
 - [Far fewer voucher-participating private schools than DC public schools are racially homogeneous (90% or 95%+ one race)](dc-voucher-schools-less-racially-homogeneous.md) — related
+- [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — related

@@ -47,3 +47,4 @@ A subgroup finding from the random assignment study: among alternatively certifi
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — reports the opposite
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
 - [Elementary students taught by teachers from less selective alternative routes had test scores similar to peers taught by traditional-route teachers](elementary-less-selective-alt-routes-similar-traditional.md) — reports the opposite
+- [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on

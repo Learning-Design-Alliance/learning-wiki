@@ -47,3 +47,6 @@ Lottery-based impact study comparing test score outcomes of students admitted th
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related
 - [Both the offer of charter admission and actual attendance showed similarly negative, non-significant average achievement impacts](charter-offer-and-attendance-impacts-both-negative-nonsignificant.md) — possibly the same claim (merge candidate)
 - [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related
+- [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — possibly the same claim (merge candidate)
+- [Lottery-based charter middle schools show no average difference from traditional public schools in student behavior and school progress](charter-middle-schools-no-average-behavior-progress-difference.md) — related
+- [Impacts of charter middle schools on student outcomes varied widely across schools](charter-school-impacts-varied-widely-across-schools.md) — related

@@ -47,3 +47,5 @@ Subgroup pattern reported in the lottery-based study of 33 charter middle school
 - [On average, charter middle schools' impacts on student achievement were negative but not statistically significant](charter-middle-schools-average-achievement-impacts-negative-nonsignificant.md) — related
 - [KIPP middle schools admit students disadvantaged in ways similar to other local students](kipp-admission-similar-disadvantage-to-local-students.md) — related
 - [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related
+- [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — related
+- [Impacts of charter middle schools on student outcomes varied widely across schools](charter-school-impacts-varied-widely-across-schools.md) — a broader claim this one bears on
