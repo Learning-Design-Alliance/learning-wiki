@@ -47,3 +47,4 @@ The report's Key Findings state, based on analysis of district data on observati
 - [The three Pittsburgh teacher effectiveness measures are positively, moderately correlated, suggesting they are valid and complementary](pittsburgh-teacher-measures-moderately-correlated.md) — related
 - [Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective](nj-pilot-practice-ratings-varied-most-effective.md) — related
 - [Value-added models were developed to estimate teachers' and schools' contributions to student achievement in Pittsburgh Public Schools](pittsburgh-vam-teacher-school-effectiveness-estimates.md) — related
+- [Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools](teacher-survey-domains-differentiate-among-schools.md) — related

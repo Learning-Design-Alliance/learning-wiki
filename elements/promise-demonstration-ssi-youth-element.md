@@ -50,6 +50,7 @@ PROMISE (Promoting Readiness of Minors in Supplemental Security Income) is descr
 ## Related Elements
 
 - [PROMISE programs: coordinated federal-state-local service initiatives for youth with disabilities on SSI](promise-programs-youth-disabilities-coordinated-services.md)
+- [Performance Partnership Pilots for Disconnected Youth (P3) initiative](p3-disconnected-youth-initiative-element.md)
 
 ## Examples
 

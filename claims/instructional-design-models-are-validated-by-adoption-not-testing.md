@@ -54,3 +54,4 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - [The claim that computer simulation necessarily enforces clearer, more rigorous psychological theory specification does not hold up](simulation-rigor-enforcement-claim-overstated.md) — related
 - [Mainstream American linguistics can state formal alternatives but cannot derive workable criteria for deciding among them](linguistics-lacks-workable-decision-criteria.md) — related
 - [Open education is asserted to lack a solid theoretical or philosophical foundation](open-education-lacks-theoretical-foundation.md) — related
+- [There is not yet much rigorous evidence to guide decision making around instructional and support strategies for adult learners](little-rigorous-evidence-adult-learner-strategies.md) — related

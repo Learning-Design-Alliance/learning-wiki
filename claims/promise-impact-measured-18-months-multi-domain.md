@@ -48,3 +48,4 @@ Interim impact report of a multi-site evaluation of six PROMISE programs for you
 - [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — possibly the same claim (merge candidate)
 - [The PROMISE interim evaluation measured impacts on primary outcomes at 18 months after enrollment](promise-impacts-measured-18-months.md) — a broader claim this one bears on
 - [Primary-outcome impacts in the PROMISE evaluation were measured at an 18-month follow-up point](promise-primary-outcomes-18-month-followup.md) — a broader claim this one bears on
+- [The New Heights program was found to be effective at improving educational outcomes for expectant and parenting students](new-heights-effective-improving-educational-outcomes.md) — related

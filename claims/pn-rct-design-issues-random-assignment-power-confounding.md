@@ -45,3 +45,4 @@ The guide's own statement of scope for its design chapters (Chapters 1 and 2), e
 ## Related Claims
 - [PN-RCTs arise when treatment students are clustered but control students receive the protocol individually](pn-rct-arises-from-clustered-treatment-individual-control.md) — related
 - [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](gee-sample-size-formulas-clustered-school-rcts.md) — related
+- [A methodological review identifies six key decisions school health researchers must address when designing, conducting, and analyzing cluster randomized trials](six-key-decisions-cluster-randomized-school-health-trials.md) — related

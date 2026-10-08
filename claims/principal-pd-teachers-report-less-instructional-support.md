@@ -47,3 +47,4 @@ In the randomized comparison of the 100 elementary schools, teacher survey repor
 - [Teachers whose principals received the program were no more likely to report positive perceptions of the usefulness of the feedback provided](principal-pd-no-change-feedback-usefulness-perceptions.md) — related
 - [The principal professional development program did not improve student achievement in English language arts or math](principal-pd-no-student-achievement-improvement.md) — related
 - [Comparison-group contamination occurred in the Balanced Leadership® trial](balanced-leadership-comparison-contamination.md) — related
+- [According to teachers, principals with elementary teaching experience provided more helpful and actionable direct instructional support in some cases](teaching-experience-principals-more-helpful-support.md) — related

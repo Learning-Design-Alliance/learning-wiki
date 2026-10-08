@@ -37,7 +37,9 @@ Borrowed from ecological systems theory (Gunderson & Holling's panarchy model), 
 - [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](../claims/pd-support-salience-depends-on-adaptive-cycle-phase.md) [~M]
 
 ## Related Theories
+
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md) — both are systems-level frameworks for teacher/classroom change, but CHAT analyzes activity systems and boundary-crossing, while adaptive cycles specifically models phase and timing dynamics
+- [Community developmental phases in place-based systems change](community-developmental-phases-ecocycle.md)
 
 ## Examples
 - [Video-Based Reflection](../elements/video-based-reflection.md) — the source study found video-based reflection was most salient in problematization and conservation phases, while invoking external practices/frameworks was more salient in reorganization and growth phases

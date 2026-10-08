@@ -43,12 +43,15 @@ A toolkit published by Mathematica in October 2021 for learning cohort facilitat
 ## Related Elements
 
 - [Toolkit of guides and templates for launching and sustaining an intermediary-led cohort of strategic learning grantees](cbsl-strategic-learning-capacity-toolkit.md)
+- [Capacity Building for Strategic Learning (CBSL) pilot initiative](cbsl-pilot-initiative.md)
 
 ## Examples
 
 - [Use transferable planning tools to design virtual cohort learning activities](../strategies/transferable-cohort-planning-tools.md)
 - [Strengthen grantee strategic learning capacity through scoping support, provider matching, cohort learning activities, and thought partnership](../strategies/intermediary-capacity-building-four-supports.md)
 - [Engage a learning partner to support funders and grantees in designing and carrying out a learning plan and building M&E capacity](../strategies/learning-partner-supports-funder-grantee-me.md)
+- [Four-part capacity-building support model: scoping, provider matching, cohort learning, and thought partnership](../strategies/four-part-capacity-building-support-model.md)
+- [Intermediary-led grantee cohort model with four support components](../strategies/intermediary-led-grantee-cohort-model.md)
 
 ## Key Sources
 - Rabb, B., Gardner, E., Pottinger, E., Tallapragada, R., Resch, A., Vorias, T., & Knechtel, V. (2021). Toolkit for Building a Virtual Learning Cohort. Mathematica. https://www.mathematica.org/publications/toolkit-for-building-a-virtual-learning-cohort

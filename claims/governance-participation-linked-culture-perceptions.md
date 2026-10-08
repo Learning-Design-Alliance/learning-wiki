@@ -47,3 +47,4 @@ ANOVA by level of governance participation (Table 5) in the 455-respondent surve
 - [Satisfaction with facilities and infrastructure rises with student enrollment size](facilities-ratings-rise-with-enrollment-size.md) — related
 - [Higher educational attainment is associated with more positive evaluations of international cooperation efforts](education-level-internationalization-perceptions.md) — related
 - [Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem)](organizational-climate-influences-teaching-behavior.md)
+- [Former participants desired more follow-up with their cohort and more support developing talent, managing resources, and cultivating organizational culture](kipp-leadership-participants-desire-more-support.md) — related

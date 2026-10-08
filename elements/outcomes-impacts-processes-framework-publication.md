@@ -44,7 +44,8 @@ A published framework document from the Regional Educational Laboratory (REL) Mi
 - [Organizing performance measures into outcomes, impacts, and processes provides rich, fair, and diagnostically useful information](../claims/grouping-outcomes-impacts-processes-yields-diagnostically-useful-information.md) [+W]
 
 ## Related Elements
-- 
+
+- [Considerations for Reopening Pennsylvania Schools (REL Mid-Atlantic publication, June 2020)](considerations-reopening-pennsylvania-schools-publication.md)
 
 ## Examples
 

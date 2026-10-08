@@ -49,3 +49,4 @@ The report compares RD-based impact estimates with experimental impact estimates
 - [Author-reported RD findings count toward effectiveness ratings only if standard errors account for clustering of students at unique forcing variable values](rd-clustering-and-discreteness-requirement.md) — related
 - [A study qualifies as an RD design only if assignment uses an ordinal forcing variable with at least four unique values on each side of the cutoff and no confounding factor](rd-qualification-criteria-forcing-variable.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
+- [Asymptotic properties of design-based estimators using group-level averages match those using individual data](group-level-design-based-estimators-match-individual-data-asymptotically.md) — related

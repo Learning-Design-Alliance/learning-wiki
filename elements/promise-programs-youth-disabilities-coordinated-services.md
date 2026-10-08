@@ -50,6 +50,7 @@ PROMISE programs are state-level initiatives designed, in the article's words, t
 
 - [PROMISE programs: state-level initiatives connecting federal programs for youth with disabilities and their families](promise-programs-youth-disabilities-coordination.md)
 - [PROMISE federal demonstration for youth ages 14-16 receiving Supplemental Security Income](promise-demonstration-ssi-youth-element.md)
+- [Performance Partnership Pilots for Disconnected Youth (P3) initiative](p3-disconnected-youth-initiative-element.md)
 
 ## Examples
 

@@ -49,6 +49,7 @@ PTHV is a family engagement program co-created by parents and educators using co
 ## Related Elements
 
 - [Parent Teacher Home Visits (PTHV) program](pthv-program-element.md)
+- [Structured relationship-building teacher home visits as a family engagement program component](structured-teacher-home-visits-family-engagement.md)
 
 ## Examples
 

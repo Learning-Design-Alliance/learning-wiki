@@ -47,3 +47,4 @@ Descriptive statistics on a 21-item, 5-point Likert questionnaire adapted from Z
 - [Ideation discussion activities in Design Thinking significantly improved EFL students' overall English-speaking test scores from pre-test to post-test](ideation-discussion-improves-efl-speaking-scores.md) — related
 - [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) — related
 - [Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams](high-student-satisfaction-concept-diagrams.md) — related
+- [Designers and providers assess recipient engagement in training and TA through attendance, active participation, progress between check-ins, and satisfaction survey data and response rates](ta-engagement-measurement-methods.md) — related

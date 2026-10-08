@@ -1,0 +1,48 @@
+---
+type: claim
+title: Participants who accessed the report card site with mobile devices had more difficulty using it
+description: Participants who accessed the report card site with mobile devices had more difficulty using it
+id: mobile-access-increases-report-card-difficulty
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-08
+evidence_strength: moderate
+sources:
+  - id: jesse-chandler-2021
+    resource: "https://ies.ed.gov/ncee/edlabs"
+    title: "Jesse Chandler, Jacob Hartog, Erin Lipman, Jonathan Gellar. (2021). The Effect of School Report Card Design on Usability, Understanding, and Satisfaction. Regional Educational Laboratory Mid-Atlantic, U.S. Department of Education, Institute of Education Sciences. https://ies.ed.gov/ncee/edlabs"
+    author: Jesse Chandler, Jacob Hartog, Erin Lipman, Jonathan Gellar
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
+---
+
+# Participants who accessed the report card site with mobile devices had more difficulty using it
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q2`
+
+## Subclaims
+`q2 i?` Mobile-device users had more difficulty using the report card site than other participants. [→ Jesse Chandler 2021](#jesse-chandler-2021)
+
+## Evidence
+
+### Jesse Chandler 2021
+
+Jesse Chandler, Jacob Hartog, Erin Lipman, Jonathan Gellar. (2021). The Effect of School Report Card Design on Usability, Understanding, and Satisfaction. Regional Educational Laboratory Mid-Atlantic, U.S. Department of Education, Institute of Education Sciences. https://ies.ed.gov/ncee/edlabs
+
+`q2 · i?` · `causal · r?`
+
+Design-comparison study of the DC school report card. The summary states that "participants who accessed the site with mobile devices had more difficulty using it."
+
+> "In general, participants who accessed the site with mobile devices had more difficulty using it."
+
+## Discussion
+
+
+## Related Claims
+- [AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access](aac-user-barriers-cognitive-load-access.md) — related
+- [Moving the link to the STAR framework from the top of the page to beneath the STAR score improved the school report card site's usability](star-link-beneath-score-improves-usability.md) — related
+- [Making year-over-year change salient helped users identify which schools improved most but lowered usability and satisfaction ratings](year-over-year-salience-mixed-effects.md) — related

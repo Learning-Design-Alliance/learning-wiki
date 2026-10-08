@@ -45,3 +45,8 @@ Descriptive statement of the report's predictor analysis, which separates in-sch
 ## Related Claims
 - [Near-term academic problems targeted include absenteeism, suspensions, poor grades, and low state-test performance](near-term-academic-problem-types-defined.md) — related
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](risk-model-assessed-two-allegheny-agencies.md) — related
+- [A machine learning algorithm with 10-percent risk-score cutoffs better targets students most likely to experience academic problems and has the advantage in predicting suspensions](algorithm-ten-percent-cutoffs-targets-highest-risk.md) — related
+- [The study uses five years of linked school and child welfare administrative data to predict near-term academic risks, with the two most recent years serving as outcome years](five-year-linked-data-predict-near-term-academic-risks.md) — related
+- [A partnership developed an approach for identifying at-risk students using school data linked with child welfare, justice, human services, and public benefits data.](linked-school-human-services-data-identify-near-term-academic-risk.md) — a broader claim this one bears on
+- [A predictive model built from school and child welfare data identifies students at risk of near-term academic problems](school-child-welfare-data-predict-near-term-academic-risks.md) — related
+- [Of 259 predictors analyzed for enrollment prediction, four stand out as most important: prior cohort sizes, in-school suspensions, out-of-school suspensions, and absences](sdp-enrollment-four-key-predictors.md) — related

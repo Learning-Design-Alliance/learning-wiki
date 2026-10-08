@@ -47,3 +47,4 @@ Social-validity questionnaire administered to the six participants after the int
 - [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](high-survey-agreement-ideation-discussion.md) — related
 - [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — related
 - [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) — related
+- [Designers and providers assess recipient engagement in training and TA through attendance, active participation, progress between check-ins, and satisfaction survey data and response rates](ta-engagement-measurement-methods.md) — related

@@ -70,6 +70,7 @@ Equity of access is a precondition for the benefits of any instructional design:
 - [Support digital inclusion through onboarding processes, device lending and technical support when deploying digital learning programmes with older adults](digital-inclusion-onboarding-device-lending.md)
 - [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](dl2f-philippine-contextual-adaptation-strategy.md)
 - [Adapt practice activities to learners' age, cultural background, and aptitudes](adapt-practice-age-culture-aptitude.md)
+- [Attend to a set of interrelated engagement-support factors when designing remote and hybrid instruction](design-remote-instruction-around-engagement-factors.md)
 
 ## Examples
 - **Kolibri (Learning Equality)** — an offline-first platform designed for low-connectivity schools and refugee education settings; content syncs without continuous internet (https://learningequality.org/kolibri/)

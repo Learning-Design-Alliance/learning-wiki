@@ -63,6 +63,7 @@ Giving learners authentic decision rights increases ownership and intrinsic moti
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the within-lesson counterpart: students choose how to pursue goals the curriculum sets
 - [Activating Prior Knowledge](activating_prior_knowledge.md) — voice mechanisms double as tools for surfacing what students already know and want to know
 - [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
+- [Use six concrete strategies to incorporate recipient input and make training and TA engaging](six-strategies-recipient-input-ta.md)
 
 ## Examples
 - **Students as Partners (International)** — a global movement documented by Cook-Sather and colleagues in which undergraduates co-design courses and curriculum with faculty; many institutions (e.g., McMaster's Student Partners Program) run formal partnership programs.

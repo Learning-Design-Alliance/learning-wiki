@@ -57,6 +57,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
+- [DCPS recommends regular AP teacher participation in the Advanced Placement Summer Institute to promote quality AP instruction](dcps-recommends-regular-apsi-participation.md)
 
 ## Examples
 -

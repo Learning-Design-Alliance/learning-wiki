@@ -47,3 +47,4 @@ ANOVA across positional groups in the 455-respondent survey, reported for Figure
 - [Satisfaction with facilities and infrastructure rises with student enrollment size](facilities-ratings-rise-with-enrollment-size.md) — related
 - [The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence](global-citizenship-scale-employable-developing-context.md) — related
 - [Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities](leadership-strongest-predictor-vietnamese-governance.md) — related
+- [Staff feedback from teacher surveys can serve as evidence in evaluating school leaders' performance](staff-feedback-teacher-surveys-principal-evaluation.md) — related

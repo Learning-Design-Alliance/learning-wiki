@@ -37,7 +37,8 @@ Based on the empty evidence base, the review recommends that school leaders, pol
 - Informing policy and practice on trauma-informed school reform
 
 ## Related Strategies
-- 
+
+- [Initiate trauma-informed planning before the start of the school year](initiate-trauma-planning-before-school-year-start.md)
 
 ## Examples
 -

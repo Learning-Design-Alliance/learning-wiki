@@ -14,7 +14,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 9 claims (5 for, 4 mixed) · 8 studies (4 quant-synthesis, 2 associational, 1 causal, 1 qualitative), `q2`–`q4` · 4 of 8 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 9 studies (4 quant-synthesis, 3 associational, 1 causal, 1 qualitative), `q2`–`q4` · 4 of 9 report an effect size · 9 claims rest on one study
 
 ## Description and scope
 
@@ -94,6 +94,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](../claims/blended-teaching-shifts-identity-to-co-facilitator.md) [+W] — not yet checked against its sources
 - [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](../claims/theorem-theses-confirmed-by-survey.md) [+W] — checked by the judge: all 1 entries pass (full text)
+- [In Pennsylvania districts using hybrid instruction with precautions in fall 2020, increases in student and staff infections were no greater than community increases outside school](../claims/hybrid-instruction-infection-increases-no-greater-than-community.md) [~M] — attached 2026-10-08 from Brian Gill (2021), which proposed "Pair hybrid instruction with precautions such as mask-wearing and physical distancing to mitigate in-school virus transmission".
 
 ## Illustrative design instance and observation record
 

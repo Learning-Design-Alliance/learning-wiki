@@ -47,3 +47,4 @@ The WWC review of the RCT found that only the principal turnover outcome met sta
 - [Balanced Leadership® may increase school leader retention at the school (potentially positive effects rating)](balanced-leadership-potentially-positive-school-leader-retention.md) — related
 - [The retention effect of Balanced Leadership® was not statistically significant in the contributing study](balanced-leadership-retention-not-statistically-significant.md) — related
 - [The effects of departmentalized instruction on student achievement and teacher retention remain unclear](departmentalization-effects-achievement-retention-unclear.md) — related
+- [High teacher turnover rates may be costly to school districts, disrupt operations, and lower student achievement](high-teacher-turnover-costly-disruptive-lowers-achievement.md) — related

@@ -48,3 +48,4 @@ Key findings from the DCPS principal-replacement analysis covering principal cha
 - [New principals' math achievement gains followed a similar trend to reading but were smaller](dcps-new-principals-math-gains-smaller-than-reading.md) — related
 - [After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools](dcps-new-principals-reading-gain-4-percentile-points.md) — related
 - [Achievement gains under new principals were larger and happened faster in DCPS middle schools than in elementary schools](dcps-principal-gains-larger-faster-middle-schools.md) — related
+- [The 2007 DC reforms aimed to improve student achievement by hiring and retaining higher quality teachers and providing families more public school choices](dc-2007-reforms-teacher-quality-and-school-choice-aims.md) — related

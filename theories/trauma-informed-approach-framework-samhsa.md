@@ -46,6 +46,7 @@ The review defines a trauma-informed approach, drawing on SAMHSA and NCTSN, as a
 - [Three-tier trauma-informed consultation model implemented in Appalachian Head Start programs](../elements/head-start-three-tier-trauma-informed-model.md)
 - [HEARTS whole-school trauma-informed program in San Francisco elementary schools](../elements/hearts-whole-school-program.md)
 - [Proceed with caution in adopting trauma-informed approaches and begin evaluating them, including descriptive and qualitative research on implementation](../strategies/caution-and-evaluation-trauma-informed-schools.md)
+- [Initiate trauma-informed planning before the start of the school year](../strategies/initiate-trauma-planning-before-school-year-start.md)
 
 ## Key Sources
 - Maynard BR, Farina A, Dell NA, Kelly MS. (2019). Effects of trauma‐informed approaches in schools: A systematic review. Campbell Systematic Reviews. https://doi.org/10.1002/cl2.1018

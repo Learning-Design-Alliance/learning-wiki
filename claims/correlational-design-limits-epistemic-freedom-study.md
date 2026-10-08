@@ -52,3 +52,4 @@ The authors' own limitations section for this correlational, cross-sectional stu
 - [Overlapping confidence intervals of Japanese math performance and mastery learning effects indicate a potential relationship, not a causal conclusion](overlapping-ci-potential-relationship.md) — a narrower finding that bears on this claim
 - [The three Pittsburgh teacher effectiveness measures are positively, moderately correlated, suggesting they are valid and complementary](pittsburgh-teacher-measures-moderately-correlated.md) — related
 - [School median student growth percentiles correlate with student disadvantage](school-mgp-correlates-student-disadvantage.md) — a narrower finding that bears on this claim
+- [A K-3 school-level growth measure was estimated and examined, with validity and precision concerns suggesting cautious use for accountability](k3-growth-measure-validity-precision-caution.md) — related

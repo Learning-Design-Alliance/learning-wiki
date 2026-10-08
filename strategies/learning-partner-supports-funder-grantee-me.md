@@ -40,6 +40,9 @@ The brief states that "a learning partner can support funders and their grantees
 
 - [Funders should develop learning goals, plan their M&E approach, and communicate expectations before releasing an RFP and awarding grants](funders-plan-me-before-rfp.md)
 - [Strengthen grantee strategic learning capacity through scoping support, provider matching, cohort learning activities, and thought partnership](intermediary-capacity-building-four-supports.md)
+- [Funder recommendations: evidence on importance plus tips for starting and sustaining initiatives](funder-recommendations-strategic-learning-initiatives.md)
+- [Offer implications for funders and program implementers engaged in systems change](implications-for-funders-and-implementers-systems-change.md)
+- [Intermediary-led grantee cohort model with four support components](intermediary-led-grantee-cohort-model.md)
 
 ## Examples
 -

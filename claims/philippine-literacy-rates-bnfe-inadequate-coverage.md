@@ -47,3 +47,4 @@ Descriptive statistics reported in the Literacy subsection of Part II's contextu
 - [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](adult-literacy-programs-violate-adult-learning-principles.md) — related
 - [Proposed equivalency system between non-formal and formal education streams will not work without local government uptake](equivalency-system-requires-local-government-uptake.md) — related
 - [Labor export policy depletes the educated segment of the Philippine manpower pool, explaining the remaining workforce's under-education](labor-export-depletes-educated-manpower-pool.md) — related
+- [Nearly 43 million U.S. adults lack the basic English literacy skills required to succeed in the workforce and achieve economic self-sufficiency](43-million-adults-lack-basic-english-literacy.md) — related
