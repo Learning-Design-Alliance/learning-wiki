@@ -49,3 +49,4 @@ Key findings from the five-year PROMISE random assignment evaluation report that
 - [PROMISE treatment group youth had higher employment rates than control group youth](promise-higher-employment-rates-than-control.md) — related
 - [Way2Work Maryland did not affect postsecondary education and training outcomes, but more treatment group members completed high school within two years of enrollment](way2work-high-school-completion-gain-no-postsecondary-effect.md) — related
 - [Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services](way2work-services-substitutes-for-existing-services.md) — related
+- [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — related

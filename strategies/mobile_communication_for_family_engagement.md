@@ -68,6 +68,7 @@ Texting works because it lowers the cost of the school-to-family information flo
 - [Escalating multi-channel contact immediately upon missed assessment, starting with SMS](escalating-multichannel-contact-missed-assessment.md)
 - [Mail parents personalized, actionable absence reports about their own student's attendance](mail-personalized-absence-reports-parents.md)
 - [Use universally designed auto-translated two-way messaging so families need only basic text messaging](auto-translated-two-way-family-messaging.md)
+- [Pair personalized messages with an effort to call attention to them](pair-personalized-messages-with-attention-efforts.md)
 
 ## Examples
 - **[TalkingPoints](https://www.talkingpts.org)** — two-way translated family messaging used widely in U.S. districts; families and teachers exchange texts in their own languages.

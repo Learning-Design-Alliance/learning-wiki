@@ -83,3 +83,4 @@ An intact group of 37 four-year-olds at a play-oriented preschool was rated on b
 - [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related
 - [Guided Play Improves Academic Outcomes](guided-play-improves-academic-outcomes.md) — related
 - [The study's correlational, cross-sectional design limits internal validity and causal interpretation](correlational-design-limits-epistemic-freedom-study.md) — related
+- [Exposing young children to early math concepts supports reasoning, problem solving, and later success in and out of school](early-math-exposure-supports-reasoning-and-later-success.md) — a broader claim this one bears on

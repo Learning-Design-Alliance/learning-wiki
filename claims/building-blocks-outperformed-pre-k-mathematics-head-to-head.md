@@ -47,3 +47,4 @@ Head-to-head curriculum comparison within the 2006 randomized trial (21 teachers
 - [In a 2007 randomized trial, Building Blocks for Math significantly improved geometry but not number outcomes](building-blocks-2007-geometry-significant-number-null.md) — related
 - [In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)](building-blocks-hofer-2013-scale-up-effect.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math produces statistically significant positive effects on preschool children's math outcomes](prek-mathematics-positive-math-effects.md) — related
+- [Pre-K Mathematics remains effective at the state scale, with a positive and statistically significant effect of .30 on the ECLS-B Mathematics Assessment](pre-k-mathematics-effective-state-scale-es-30.md) — related

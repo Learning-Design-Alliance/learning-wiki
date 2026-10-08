@@ -44,3 +44,5 @@ An untested framing assertion opening the brief: the authors state that early ma
 
 ## Related Claims
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
+- [Supporting early childhood math development is important for young children's development](early-math-development-importance.md) — a broader claim this one bears on
+- [Exposing young children to early math concepts supports reasoning, problem solving, and later success in and out of school](early-math-exposure-supports-reasoning-and-later-success.md) — related

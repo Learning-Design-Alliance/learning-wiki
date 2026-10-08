@@ -1,0 +1,50 @@
+---
+type: claim
+title: "Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform"
+description: "Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform"
+id: philadelphia-reform-modest-decline-nonviolent-suspensions
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-08
+evidence_strength: moderate
+sources:
+  - id: johanna-lacoe-2018
+    resource: "https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student"
+    title: "Johanna Lacoe, Matthew P. Steinberg. (2018). Rolling Back Zero Tolerance: The Effect of Discipline Policy Reform on Suspension Usage and Student Outcomes. Peabody Journal of Education, vol. 93, issue 2. https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student"
+    author: Johanna Lacoe, Matthew P. Steinberg
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: "?"
+---
+
+# Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q3`
+
+## Subclaims
+`q3 i?` The reform resulted in a modest decline in suspensions for nonviolent infractions in the year of reform. [→ Johanna Lacoe 2018](#johanna-lacoe-2018)
+
+## Evidence
+
+### Johanna Lacoe 2018
+
+Johanna Lacoe, Matthew P. Steinberg. (2018). Rolling Back Zero Tolerance: The Effect of Discipline Policy Reform on Suspension Usage and Student Outcomes. Peabody Journal of Education, vol. 93, issue 2. https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student
+
+`q3 · i?` · `causal · r?`
+
+Difference-in-differences analysis of Philadelphia's district-level discipline policy reform, which limited suspensions for nonviolent student misconduct. The authors report "a modest decline in suspensions for nonviolent infractions in the year of reform"; no effect size is printed.
+
+> "Employing a difference-in-differences approach, we find that Philadelphia's reform resulted in a modest decline in suspensions for nonviolent infractions in the year of reform"
+
+## Discussion
+
+
+## Related Claims
+- [District math and English language arts achievement declined in Philadelphia following the discipline policy reform](philadelphia-reform-math-ela-achievement-declined.md) — related
+- [Total suspensions in Philadelphia remained unchanged following the discipline policy reform](philadelphia-reform-total-suspensions-unchanged.md) — related
+- [Serious incidents of student misconduct increased in Philadelphia following the discipline policy reform](philadelphia-reform-serious-incidents-increased.md) — related
+- [Truancy rates increased in Philadelphia following the discipline policy reform](philadelphia-reform-truancy-increased.md) — related
+- [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](same-infractions-black-disabilities-more-suspensions.md) — related

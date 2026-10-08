@@ -51,3 +51,4 @@ A randomized control trial assigned 587 kindergarten through second-grade studen
 - [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](future-forward-differential-impact-subgroups.md) — related
 - [Future Forward produces statistically significant gains in foundational literacy skills in a two-year RCT](future-forward-rct-literacy-gains.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
+- [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related

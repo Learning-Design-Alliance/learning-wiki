@@ -46,3 +46,4 @@ Key finding from the evaluation of the 2021-2022 school-year tutoring pilot at B
 - [Exploratory analyses: students ending the year in larger tutoring groups showed the largest math score increases but reported weaker tutor relationships than peers in smaller groups](blueprint-larger-groups-scores-up-relationships-weaker.md) — related
 - [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](breakthrough-tutoring-confidence-gain-not-significant.md) — related
 - [Students completing the end-of-year survey reported favorable views of their relationships with math tutors and their sense of belonging in tutoring sessions](breakthrough-tutoring-favorable-relationships-belonging.md) — related
+- [Effect sizes of Pre-K Mathematics decreased over time as the intervention moved through successive scale-up phases](pre-k-math-effect-sizes-decreased-over-scale-up.md) — related

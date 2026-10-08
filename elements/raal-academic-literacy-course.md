@@ -47,6 +47,7 @@ RAAL is "the only RA program targeted to struggling readers." Students reading 2
 - [Reading Apprenticeship® Academic Literacy curriculum for 9th-grade students](reading-apprenticeship-academic-literacy-curriculum.md)
 - [Reading Apprenticeship® teacher professional development program](reading-apprenticeship-professional-development-program.md)
 - [READ 180® blended-learning reading intervention for struggling adolescent readers](read-180-blended-reading-intervention.md)
+- [Reading Apprenticeship Across the Disciplines blended professional development program](reading-apprenticeship-across-disciplines-blended-pd.md)
 
 ## Examples
 -

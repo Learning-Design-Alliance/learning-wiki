@@ -26,7 +26,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (14 for, 9 mixed) · 31 studies (12 review, 8 causal, 6 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 5 of 31 report an effect size · 13 claims rest on one study
+> **Evidence** · 24 claims (15 for, 9 mixed) · 32 studies (12 review, 9 causal, 6 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 5 of 32 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,7 @@ Claims that bear on the relationship but are not part of the model above; severa
 - [Teacher Intrinsic Interest Value Increases Motivation To Use Ai](../claims/teacher-intrinsic-interest-value-increases-motivation-to-use-ai.md) [+W]
 - [Teacher Perceived Cost Reduces Motivation To Use Ai](../claims/teacher-perceived-cost-reduces-motivation-to-use-ai.md) [+W]
 - [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker](../claims/sdt-path-strengths-effort.md) [+W] — attached 2026-10-07 from Takahashi et al. (2020), which proposed "Foster learners' enjoyment and accumulated L2 learning experience to motivate effort".
+- [Students who received a personalized message about their potential to succeed in AP coursework were 49 percentage points more likely to participate in AP classes than peers who did not receive the message](../claims/personalized-ap-message-increases-participation-49-points.md) [+W] — attached 2026-10-08 from Naihobe Gonzalez (2017), which proposed "Use personalized messages added to existing communications to encourage student participation in advanced coursework"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

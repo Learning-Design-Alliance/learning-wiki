@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**194 entries** · 0 stable · 0 in review · 194 drafts
+**195 entries** · 0 stable · 0 in review · 195 drafts
 
 ---
 
@@ -21,6 +21,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Adopt Connect Science without additional staffing, using existing classroom teachers trained through its professional development](connect-science-no-additional-staffing.md) - The program is designed to be delivered by regular classroom teachers rather than added personnel: the article states \"No additional staffing requirements.\" Implementation instead depends on teacher preparation throug...
 * [Adopted instructional materials should reflect learning principles, pupil maturity, major cultures, varied teaching methods, and individual differences](materials-reflect-principles-of-learning.md) - The framework's philosophy section sets criteria for what adopted courses and materials should reflect.
 * [Align field-trip activities with state curriculum objectives via a correlation chart](correlation-chart-curriculum-alignment.md) - The packet aligns every activity with state standards so teachers can justify the trip instructionally.
+* [Align Tier 2 supplemental reading instruction with Tier 1 core instruction through teacher professional development and materials](align-tier2-with-tier1-core-reading-instruction.md) - The program's central design principle is alignment: it provides \"teachers with professional development and materials to improve the alignment of Tier 2 with Tier 1 core instruction.\" Core reading teachers also recei...
 * [Alternating independent-level and instructional-level texts across tutoring lessons](alternating-independent-instructional-level-texts.md) - Within LLI, lessons alternate between \"independent level\" texts and more challenging \"instructional level\" texts.
 * [Attendance interventions can be delivered at scale with minimal staffing, training, and technology](minimal-staffing-absence-report-programs.md) - The page specifies that the Absence Reports intervention requires minimal staffing — one district staff member supporting implementation at approximately 30 minutes per week and one district-level data staff member su...
 * [Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives](field-day-embedded-assessment-unit.md) - The Type 3 assessment is organized as a project unit (a class Field Day, including a cookie-selling sub-project) whose everyday activities double as assessment occasions.

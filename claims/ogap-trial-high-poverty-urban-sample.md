@@ -45,3 +45,4 @@ Descriptive characteristics of the two-year RCT sample in grades 3–5 across 61
 ## Related Claims
 - [OGAP Math improves upper-elementary math achievement on the Pennsylvania state math test with an effect size of +0.20 over two years](ogap-math-pssa-effect-020-two-year-rct.md) — related
 - [OLI evidence base covers community college and postsecondary students across diverse racial and ethnic groups](oli-evidence-scope-postsecondary-populations.md) — related
+- [Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch](field-trip-effects-largest-hispanic-frpl-students.md) — related

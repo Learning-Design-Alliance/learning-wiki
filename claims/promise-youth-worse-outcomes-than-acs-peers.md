@@ -49,3 +49,4 @@ The report benchmarks PROMISE youth outcomes against ACS youth and reports that 
 - [Treatment and control groups showed few differences in job characteristics, work search activities, and perceived barriers to employment](promise-few-differences-job-characteristics-barriers.md) — related
 - [All 12 proposed SSI Youth Solutions interventions explicitly or implicitly aim to increase employment among youth with disabilities as a long-term outcome](ssi-youth-solutions-interventions-aim-employment.md) — related
 - [Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges](ssi-youth-solutions-papers-evidence-gaps.md) — related
+- [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — related

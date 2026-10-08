@@ -49,3 +49,4 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](program-review-five-design-findings.md) — related
 - [Prominent existing AI literacy frameworks are not tailored to higher education](ai-literacy-frameworks-gap-higher-education.md) — related
+- [Educators support educating the whole child but report barriers and call for more support](educators-call-support-whole-child.md) — related

@@ -48,6 +48,7 @@ Reading Apprenticeship® calls for teachers to integrate four dimensions of clas
 
 - [Reading Apprenticeship® Academic Literacy curriculum for 9th-grade students](../elements/reading-apprenticeship-academic-literacy-curriculum.md)
 - [Reading Apprenticeship® teacher professional development program](../elements/reading-apprenticeship-professional-development-program.md)
+- [Reading Apprenticeship Across the Disciplines blended professional development program](../elements/reading-apprenticeship-across-disciplines-blended-pd.md)
 
 ## Key Sources
 - What Works Clearinghouse. (2010). WWC Intervention Report: Reading Apprenticeship®. U.S. Department of Education, What Works Clearinghouse. http://www.wested.org/ReadingApprenticeship

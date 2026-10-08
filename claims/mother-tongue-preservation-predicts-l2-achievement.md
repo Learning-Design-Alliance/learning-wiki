@@ -49,3 +49,4 @@ The review reports the UNESCO investigation by Skutnabb-Kangas and Toukomaa (197
 - [Semilingualism — less than native-like skill in both languages — is associated with detrimental cognitive and academic consequences](semilingualism-associated-with-negative-cognitive-effects.md) — related
 - [Adolescents who use more language learning strategies are the more proficient ones, and strategy adoption varies with cultural background.](strategy-use-correlates-with-l2-proficiency-in-adolescents.md) — related
 - [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](meta-analyses-validate-extensive-reading-benefits-length-moderates.md) — related
+- [Mexican American children used more heritage language at home while Korean American children used more English](mexican-american-more-heritage-language-than-korean-american.md) — related

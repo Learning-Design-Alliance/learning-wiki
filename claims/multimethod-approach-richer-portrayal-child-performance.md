@@ -46,3 +46,4 @@ The abstract asserts that "Using a multimethod approach would provide a richer p
 - [The CHAT approach yielded richer understanding of technology integration than a cognitive paradigm, but pilot findings must be interpreted cautiously (two subjects only)](chat-richer-understanding-pilot-caveats.md) — related
 - [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) — related
 - [Observational measures spanning the preschool to elementary age range offer an alternative to direct testing of young children.](observational-measures-alternative-direct-testing-early-grades.md) — related
+- [The EDIT uses a multimethod approach gathering evidence with checklists, ratings, and rubrics](edit-multimethod-checklists-ratings-rubrics.md) — a narrower finding that bears on this claim

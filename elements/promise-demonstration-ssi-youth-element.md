@@ -48,7 +48,8 @@ PROMISE (Promoting Readiness of Minors in Supplemental Security Income) is descr
 - [Identifying SSI youth for outreach is challenging under the current transition system](../claims/identifying-ssi-youth-for-outreach-challenging.md) [~M]
 
 ## Related Elements
-- 
+
+- [PROMISE programs: coordinated federal-state-local service initiatives for youth with disabilities on SSI](promise-programs-youth-disabilities-coordinated-services.md)
 
 ## Examples
 

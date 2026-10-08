@@ -76,3 +76,4 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 - [Randomized A/B tests of interventions encouraging higher-level study increased lessons completed per level by more than 10% and increased overall studying activity](ab-tests-level-interventions-increase-lessons.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [Measuring the impact of math instruction and interventions is key to improving students' overall math performance](measuring-math-impact-key-to-improving-performance.md) — related
+- [Upper-elementary teachers have large effects on students' self-reported behavior in class, self-efficacy in math, and happiness in class that are similar in magnitude to their effects on math test scores](teachers-large-effects-behaviors-mindsets-similar-to-test-scores.md) — related

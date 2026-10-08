@@ -65,3 +65,4 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](scaffolding-lower-adherence-than-scripted-components.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
 - [Districts' costs for using Ecree depend on implementation and support needs, and the price per student would likely be lower for larger districts](ecree-district-costs-depend-on-implementation-lower-for-larger-districts.md) — a narrower finding that bears on this claim
+- [The Kauffman School's hallmarks are largely being implemented faithfully](kauffman-school-hallmarks-implemented-faithfully.md) — a narrower finding that bears on this claim

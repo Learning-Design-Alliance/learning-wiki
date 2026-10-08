@@ -68,3 +68,4 @@ In the same RCT's differential-effects models, students with low baseline attend
 - [FF's attendance impact was greatest for Black male students, and especially Black male students with low baseline attendance](ff-intersectional-impact-black-male-low-attendance.md) — a narrower finding that bears on this claim
 - [Future Forward holds 'Strong' evidence ratings for Family Engagement and Attendance in addition to literacy](future-forward-strong-ratings-family-engagement-attendance.md) — related
 - [One year of Future Forward participation produced a statistically significant positive impact on school attendance of lower-primary students compared to BAU literacy instruction](ff-rct-significant-attendance-impact.md) — a broader claim this one bears on
+- [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related

@@ -66,3 +66,4 @@ This systematic review searched for studies (1977–2020) comparing guided play 
 - [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md) — a narrower finding that bears on this claim
+- [Parents play an important role in young children's math development](parents-role-early-math-development.md) — related

@@ -49,3 +49,4 @@ WWC re-analysis of the Carlo et al. (2004) randomized controlled trial's English
 - [VIP shows no statistically significant or substantively important impacts on PPVT-R and Morphology outcomes for English language learners](vip-null-ppvt-morphology-impacts.md) — related
 - [VIP produces a statistically significant effect on Word Mastery (taught-word definition selection) for English language learners, effect size 1.03](vip-word-mastery-significant-effect.md) — related
 - [Dual language programs improved English literacy achievement, with a potentially positive effects rating based on one study](dual-language-programs-improve-literacy-achievement.md) — related
+- [Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews](wwc-attrition-standard-shapes-study-design.md) — related
