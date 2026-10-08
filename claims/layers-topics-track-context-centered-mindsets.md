@@ -49,3 +49,4 @@ Topic-prevalence analysis of Layers responses (N = 7,429 sentence rows) against 
 - [Structural topic modeling identifies simulation decision points indicative of different equity mindsets across four digital teaching simulations](stm-identifies-equity-mindset-decision-points-in-simulations.md) — a broader claim this one bears on
 - [Teachers who made productive adaptations were more likely to consider learning progressions and adapt lessons to below-grade-level content](productive-adapters-consider-progressions-below-grade-level.md) — related
 - [Teachers framed communication and digital literacy as foundational skills requiring clear, contextually relevant definitions](teachers-frame-communication-digital-literacy-foundational.md) — related
+- [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related

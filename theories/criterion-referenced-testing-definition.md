@@ -45,6 +45,7 @@ The paper defines criterion-referenced testing as an approach whose tests are "d
 - [Criterion-referenced (mastery) testing as the advocated grading framework](criterion-referenced-mastery-testing-gentile.md)
 - [Criterion-referenced testing, as defined by Glaser, measures mastery of defined abilities rather than relative standing among test takers](criterion-referenced-testing-mastery-framework.md)
 - [Three patterns of instructional adaptation to individual differences, each with distinct measurement requirements](three-patterns-adapting-individual-differences.md)
+- [Criterion-referenced versus norm-referenced tests as two distinct assessment purposes](crt-versus-nrt-assessment-purposes.md)
 
 ## Examples
 

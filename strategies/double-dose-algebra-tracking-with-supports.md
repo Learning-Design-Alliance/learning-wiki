@@ -42,7 +42,8 @@ The double-dose algebra strategy keeps homogeneous classes but gives low-skill s
 - Algebra course passing/failure
 
 ## Related Strategies
-- 
+
+- [Use double-period support courses to expand instructional time for low-skilled 9th-grade math students](double-period-support-course-for-low-skilled-9th-graders.md)
 
 ## Examples
 -

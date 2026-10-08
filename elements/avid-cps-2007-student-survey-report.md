@@ -49,10 +49,12 @@ A district-wide survey and reporting tool developed by CCSR for Chicago Public S
 
 - [Individualized school reports (ISRs) tracking schools on core research-linked indicators](ccsr-individualized-school-reports-isrs.md)
 - [My School, My Voice surveys and the 31-measure individual school survey report](my-school-my-voice-survey-report-element.md)
+- [UChicago Consortium biennial school survey of teachers and grade 6-10 students](uchicago-consortium-biennial-teacher-student-survey.md)
 
 ## Examples
 
 - [Use individualized survey reports disaggregated by student type to target AVID program improvement areas](../strategies/avid-survey-report-target-improvement-strategy.md)
+- [Use individualized school survey reports for self-assessment, internal program review, and improvement planning](../strategies/school-survey-reports-for-self-assessment-planning.md)
 
 ## Key Sources
 - Jenny Nagaoka, Jonah Deutsch, Andy Brake, Melissa Roderick. (2007). Individual School Report: Responses from the 2007 AVID SURVEY. Consortium on Chicago School Research. http://ccsr.uchicago.edu/AVID

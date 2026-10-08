@@ -47,3 +47,4 @@ Findings section of the brief, from the observational CPS analysis: within-censu
 - [Overage students at high schools with great racial equity climate are twice as likely to graduate in four years as those at schools with poor racial equity climate](racial-equity-climate-doubles-overage-graduation.md) — related
 - [Neighborhood groupings reveal variation within Chicago's 77 community areas that typical analyses miss](groupings-finer-grained-than-77-community-areas.md) — related
 - [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
+- [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related

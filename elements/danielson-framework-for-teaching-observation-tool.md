@@ -51,6 +51,7 @@ The Charlotte Danielson Framework for Teaching divides teaching into four domain
 - [Framework for Teaching (FFT) observation instrument with 22 components scored into four domains and an overall Professional Practice Rating](fft-22-component-observation-instrument.md)
 - [The Framework for Teaching observation rubric with 22 components in four domains](framework-for-teaching-22-component-rubric.md)
 - [Pennsylvania Teacher and Principal Evaluation Pilot (2010-2015), Phase 2 classroom-observation study](pennsylvania-teacher-evaluation-pilot-phase-2.md)
+- [Principal buy-in typology table from the Excellence in Teaching Year 1 exit interviews](eit-principal-buyin-typology-table-element.md)
 
 ## Examples
 -

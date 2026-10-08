@@ -50,3 +50,4 @@ Interrupted time-series with within-cohort comparisons of classroom academic com
 - [Failure rates increased and grades declined for higher-skill students in single-period algebra after the policy](grades-declined-higher-skill-single-period-students.md) — related
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](double-dose-induced-algebra-tracking.md) — related
+- [The double-dose policy led schools to track algebra classes by students' entering math skills](double-dose-led-to-tracking-by-entering-skills.md) — related

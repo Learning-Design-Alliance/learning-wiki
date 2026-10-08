@@ -44,3 +44,4 @@ Analysis of the 20-item roadblock rankings across 1997-2007 surveys (Table 2) fo
 
 ## Related Claims
 - [Elementary principals in low-achieving schools spend more time on instruction while those in high-achieving schools spend more on external management](elementary-quartile-time-allocation-differences.md) — related
+- [Principals most commonly cited time for teacher planning, difficulty removing poor teachers, community social problems, apathetic parents, test-score pressure, and problem students as roadblocks](principals-roadblocks-to-school-improvement.md) — related

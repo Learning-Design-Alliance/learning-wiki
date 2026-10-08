@@ -54,6 +54,7 @@ The five essential supports framework posits that school improvement depends on 
 - [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
 - [Five essential supports framework for school improvement](five-essential-supports-school-improvement-framework.md)
 - [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
+- [Model of Essential Supports for Student Learning](model-essential-supports-student-learning.md)
 
 ## Examples
 

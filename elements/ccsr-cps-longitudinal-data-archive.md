@@ -47,6 +47,7 @@ The CCSR data archive is a linked longitudinal database on Chicago Public School
 - [Individualized school reports (ISRs) tracking schools on core research-linked indicators](ccsr-individualized-school-reports-isrs.md)
 - [CCSR steering committee as multi-partisan stakeholder advisory structure](ccsr-steering-committee-stakeholder-structure.md)
 - [Ellevation Education student-level EL records database (2016-17 to 2023-24, four states)](ellevation-four-state-el-records-database.md)
+- [UChicago Consortium biennial school survey of teachers and grade 6-10 students](uchicago-consortium-biennial-teacher-student-survey.md)
 
 ## Examples
 -

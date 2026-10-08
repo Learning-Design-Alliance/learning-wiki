@@ -47,3 +47,4 @@ An interrupted time-series design combined with within-cohort comparisons of Chi
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](double-dose-induced-algebra-tracking.md) — reports the opposite
 - [The algebra-for-all policy increased algebra access for low-skill students previously in remedial math](algebra-for-all-increased-low-skill-access.md) — related
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
+- [The double-dose policy led schools to track algebra classes by students' entering math skills](double-dose-led-to-tracking-by-entering-skills.md) — reports the opposite

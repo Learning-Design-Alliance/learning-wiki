@@ -45,3 +45,4 @@ Results-section comparison across the ten CHSRI schools: the student-supports fa
 ## Related Claims
 - [In CHSRI small high schools, strong freshman course performance is associated with the combination of developmental practices, deep principal leadership, and teacher influence](chsri-combination-three-conditions-strong-course-performance.md) — a broader claim this one bears on
 - [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — related
+- [Students report fewer violent incidents and a personalized, supportive environment in CHSRI small schools](chsri-small-schools-fewer-violent-incidents-personalization.md) — related

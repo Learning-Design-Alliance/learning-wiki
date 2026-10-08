@@ -46,3 +46,4 @@ Cross-case findings from 7 CPS schools showed that "Schools with stronger IISSs 
 - [Colleagues were the most cited influential resource supporting instructional improvement efforts across seven Chicago schools](colleagues-most-cited-resource-instructional-improvement.md) — related
 - [Programmatic churn from constant turnover of curricula and initiatives hindered teachers' capacity for personalized, evaluation-driven improvement](programmatic-churn-hinders-personalized-improvement.md) — related
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
+- [CPS currently lacks internal capacity to conduct substantial research, evaluation, or systematic use of data to improve teaching and learning](cps-lacks-capacity-to-use-data-for-improvement.md) — related

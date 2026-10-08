@@ -47,3 +47,4 @@ Community-context analysis using social capital measures from PHDCN surveys, Chi
 - [Students with a history of abuse or neglect are at particularly high risk of suspension, with almost a third suspended in 2013-14](abuse-neglect-history-high-suspension-risk.md) — related
 - [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related
 - [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](five-essential-elements-three-of-five-improvement-odds.md) — related
+- [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related

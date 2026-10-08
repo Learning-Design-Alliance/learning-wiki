@@ -46,3 +46,4 @@ Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach fo
 - [Teachers' limited skills in facilitating conversations and managing classrooms was the second most salient implementation barrier](skill-barriers-conversation-facilitation-classroom-management.md) — related
 - [Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier](knowledge-barriers-language-development-procedural.md) — related
 - [Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations](memory-habit-barriers-contextual.md) — related
+- [Daily teaching demands competed with and distracted from a sustained developmental focus on instructional improvement](daily-demands-compete-with-developmental-focus.md) — possibly the same claim (merge candidate)

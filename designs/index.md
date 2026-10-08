@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**207 entries** · 0 stable · 0 in review · 207 drafts
+**208 entries** · 0 stable · 0 in review · 208 drafts
 
 ---
 
@@ -204,6 +204,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Scaffolded video ethnography project with peer assessment and self-reflection](scaffolded-video-ethnography-project.md) - The video project is the key component of a cross-cultural communication course: students videotape a five- to seven-minute interview with a native or experienced speaker about cross-cultural experiences, then give a...
 * [Scaffolding via level-gated progression and hearts in Duolingo](duolingo-scaffolding-hearts-progression.md) - The article describes Duolingo's design as scaffolding, in which learners progress into more advanced levels once they show competence at the previous level.
 * [School-community-family partnership pattern pairing tutoring dosage with regular family contact](tutoring-plus-family-engagement-partnership-pattern.md) - The program's design pattern combines a minimum tutoring dosage with structured family outreach: \"FF sites are expected to provide students with a minimum of three 30-minute tutoring sessions per week and to communica...
+* [Schoolwide coherence through coordinated adoption of a structured direct instruction program](direct-instruction-coordinated-adoption-pattern.md) - Ackerman Elementary achieved the highest coherence ratings among the 11 field study schools by adopting a Direct Instruction program providing scripted lessons and matching assessments in mathematics and reading for g...
 * [Scripted lessons combining role-playing, cooperative learning games, small group activities, and classroom discussion](scripted-role-play-cooperative-learning-lessons.md) - The program's lesson design pattern pairs fully scripted lessons with active, participatory methods.
 * [Scripted one-to-one tutoring with fixed dosage and paraprofessional tutors](scripted-one-to-one-paraprofessional-tutoring.md) - Galaxy Math operationalizes tutoring as a scripted, fixed-dosage, one-to-one delivery model: \"The program is scripted, and tutors are expected to follow the scripts without reading them or memorizing them.\" Sessions a...
 * [Secuencia de cinco actividades que va del problema cotidiano a la construcción de un instrumento de medición](five-activity-shadow-to-sundial-sequence.md) - El patrón organiza la enseñanza en cinco actividades encadenadas: indagación introductoria sobre las sombras y la hora sin relojes; diseño de una maqueta de los arcos solares; debate histórico sobre modelos geocéntric...

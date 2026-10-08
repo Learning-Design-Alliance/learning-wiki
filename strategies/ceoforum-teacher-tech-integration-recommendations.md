@@ -47,6 +47,7 @@ The report issues a set of dated recommendations directed at educators, administ
 - [Provide professional development programs so teachers learn to implement self-regulated learning strategies in their lessons](teacher-professional-development-srl-strategies.md)
 - [Prepare educational staff early for digital transformation competency and train teachers to select and use appropriate communication technology tools](early-staff-preparation-digital-competency-training.md)
 - [Certify tutors before tutoring begins and provide professional development to supervising school staff](tutor-certification-and-staff-pd.md)
+- [Provide extensive collegial support and professional development for technology integration to avoid maintaining the digital divide](collegial-support-professional-development-technology-integration.md)
 
 ## Examples
 -

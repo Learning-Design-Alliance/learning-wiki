@@ -46,3 +46,4 @@ The report presents this interdependence claim as a lesson from CCSR's research 
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](sustained-weakness-one-support-few-improve.md) — a narrower finding that bears on this claim
 - [Elementary schools with clusters of three or more NBCTs demonstrate greater strength on 7 of 12 essential supports measures](nbct-clusters-elementary-stronger-essential-supports.md) — related
 - [Artistic and social-emotional competencies are mutually reinforcing](artistic-sel-competencies-mutually-reinforcing.md) — related
+- [Schools that improved focused on multiple mutually-reinforcing aspects of school organization rather than a single aspect](multi-area-mutually-reinforcing-improvement-distinguishes-strong-schools.md) — possibly the same claim (merge candidate)

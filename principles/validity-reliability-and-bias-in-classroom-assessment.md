@@ -148,6 +148,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Constructive Alignment](../patterns/constructive-alignment.md) — the course-scale check that outcomes, activities and assessment call for the same capability, which is content validity applied to a whole course
 - [Authentic Assessment](../patterns/authentic-assessment.md) — a design that raises construct match for performance goals and depends on calibrated scoring to keep it consistent
 - [Use multiple raters for principal-assigned professional practice ratings to improve consistency](../strategies/multiple-raters-for-practice-ratings.md)
+- [Authentic intellectual work scoring rubrics with double-scoring design for inter-scorer reliability](../elements/aiw-scoring-rubrics-double-scoring-element.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

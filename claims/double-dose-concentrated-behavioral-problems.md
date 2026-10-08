@@ -45,3 +45,4 @@ Cross-cohort discontinuity analysis of classroom disciplinary and absentee measu
 ## Related Claims
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](double-dose-induced-algebra-tracking.md) — related
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
+- [The double-dose policy led schools to track algebra classes by students' entering math skills](double-dose-led-to-tracking-by-entering-skills.md) — related

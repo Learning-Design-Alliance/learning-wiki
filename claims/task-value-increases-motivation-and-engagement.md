@@ -95,3 +95,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related
 - [Employers value social and emotional development alongside content knowledge for workforce preparation](employers-value-social-emotional-skills.md) — related
 - [Education researchers have not isolated cost-effective, reliable predictors of teacher performance, motivating exam-based certification](no-reliable-cost-effective-teacher-performance-predictors.md) — related
+- [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — related

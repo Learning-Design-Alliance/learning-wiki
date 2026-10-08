@@ -48,3 +48,4 @@ The introduction states that "much research documents the impact of changing sch
 - [Mid-year entry effects on stable students are not driven by mid-year entrants' characteristics](mid-year-entry-effects-not-driven-by-entrant-characteristics.md) — related
 - [Poor, minority, and low-achieving students are disproportionately exposed to mid-year entry](disadvantaged-students-disproportionately-exposed-mid-year-entry.md) — related
 - [Negative effects of mid-year entry are somewhat larger for Asian students and students not qualifying for free or reduced-price lunch](mid-year-entry-effects-larger-asian-non-frl-students.md) — related
+- [School mobility, especially frequent within-year moves, slows instructional pacing in schools with many mobile students](student-mobility-slows-instructional-pacing.md) — related

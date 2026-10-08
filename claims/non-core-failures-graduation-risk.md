@@ -70,3 +70,4 @@ Observational analysis of 2011-14 cohorts (Table 1). The report notes more than 
 - [Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate](algebra-failers-failed-multiple-courses-off-track.md) — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Students who fail algebra are significantly less likely to graduate on time, and algebra failure rates are consistently high in urban districts](algebra-failure-graduation-risk.md) — related
+- [Core-course failures in freshman year strongly predict non-graduation, similarly across subjects](core-course-failures-predict-non-graduation.md) — related

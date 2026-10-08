@@ -66,3 +66,4 @@ Trend analysis of CPS reading scores by age cohort across three reform eras. The
 - [Percent meeting standards is an imprecise metric whose cut-score concentration produced the Era 2 misconception that Chicago taught basic skills better than high-level skills](percent-meeting-standards-imprecise-metric.md) — related
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related
 - [ISAT scores are not comparable over time: students with identical earlier and later test scores earned different seventh-grade ISAT scores depending on the year tested](isat-scores-noncomparable-over-time.md) — related
+- [Chicago high school reform efforts of the late 1990s were studied at the district, school, and departmental levels in a 2001 conference volume](chicago-high-school-reform-multi-level-studies.md) — related

@@ -65,3 +65,4 @@ Same 2011 student survey descriptive analysis covering creative technology use (
 - [About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use](teacher-technology-use-preparation-versus-instruction-gap.md) — related
 - [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md) — related
 - [Most CPS students in grades 6-12 have home internet access, with 92 percent reporting some access and 75 percent a high-speed connection](cps-students-home-internet-access-92-percent.md) — related
+- [Most Chicago public school students use technology infrequently and for a narrow range of low-level activities](cps-students-infrequent-narrow-technology-use.md) — possibly the same claim (merge candidate)

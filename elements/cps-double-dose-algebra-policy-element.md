@@ -55,10 +55,12 @@ A district-wide policy requiring all first-time ninth-graders scoring below the 
 ## Related Elements
 
 - [Chicago's double-dose algebra policy (two periods of algebra with teacher supports)](chicago-double-dose-algebra-policy.md)
+- [Double-dose algebra policy in the Chicago Public Schools](cps-double-dose-algebra-policy.md)
 
 ## Examples
 
 - [Double-dose algebra: tracking with supports as an alternative to detracking](../strategies/double-dose-algebra-tracking-with-supports.md)
+- [Use double-period support courses to expand instructional time for low-skilled 9th-grade math students](../strategies/double-period-support-course-for-low-skilled-9th-graders.md)
 
 ## Key Sources
 - Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739

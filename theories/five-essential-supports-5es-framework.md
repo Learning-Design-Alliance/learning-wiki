@@ -52,6 +52,9 @@ The 5Es is a framework developed by the Consortium on Chicago School Research de
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
 - [Five essential supports framework for school improvement](five-essential-supports-school-improvement-framework.md)
 - [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
+- [Essential supports framework for educational technology use in schools](essential-supports-educational-technology-use-framework.md)
+- [Instructional program coherence framework: common framework, supportive working conditions, and strategic resource allocation](instructional-program-coherence-framework.md)
+- [Race as a proxy for vulnerability in urban school reform](race-as-proxy-for-vulnerability.md)
 
 ## Examples
 -

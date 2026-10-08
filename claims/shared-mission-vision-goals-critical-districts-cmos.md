@@ -53,3 +53,4 @@ A key finding in the report's Key Findings section, one of three themes reported
 - [Comprehensive behavioral policies with rewards and sanctions are associated with positive charter-school impacts](behavioral-policies-rewards-sanctions-charter-impacts.md) — related
 - [Long school days or years are among the policies most consistently associated with positive charter-school impacts](long-school-days-years-charter-impacts.md) — related
 - [Long school days or years, comprehensive behavioral policies with rewards and sanctions, and an achievement-focused mission are most strongly associated with charter school success](extended-time-behavior-policies-mission-associated-charter-success.md) — related
+- [CHSRI small schools lack a shared vision of high-quality instruction, and the link between school themes and curriculum remains weak in year two](chsri-no-shared-vision-quality-instruction.md) — a narrower finding that bears on this claim

@@ -46,3 +46,4 @@ Across 7 CPS schools, teachers reported that "Structures that facilitated person
 - [Colleagues were the most cited influential resource supporting instructional improvement efforts across seven Chicago schools](colleagues-most-cited-resource-instructional-improvement.md) — related
 - [Educator grantees in the District-Charter Collaboration Grants cited collaborative work on classroom observation, operations alignment, and curriculum development as particularly helpful to their professional development](district-charter-collaboration-grants-educator-pd-benefits.md) — related
 - [Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes](academy-influence-not-major-factor.md) — related
+- [Chicago's professional development spending was not integrated into a comprehensive strategy for improving instruction](cps-pd-spending-not-integrated.md) — related

@@ -67,3 +67,4 @@ Figures 2 and 3 plot predicted outcomes by DEEP score for ACT Composite scores o
 - [An institution's median ACT Composite score is positively and significantly related to three of the four first-year outcomes](institutional-median-act-predicts-outcomes.md) — related
 - [Variance in first-year critical thinking is far more institutional (32.0%) than variance in self-reported gains (3.1-6.2%)](institutional-variance-critical-thinking-versus-gains.md) — related
 - [Not all students would benefit from improving the same competencies, suggesting an individualized approach to education may be preferable to a one-size-fits-all approach](heterogeneous-competency-benefits-individualized-education.md) — related
+- [The ACT does not distinguish well among low-achieving students, while WorkKeys differentiates achievement levels among these students](act-weak-at-low-end-workkeys-differentiates.md) — related

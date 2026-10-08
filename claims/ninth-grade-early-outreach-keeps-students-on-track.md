@@ -51,3 +51,4 @@ The chapter's overview asserts, citing prior research, that dropout risk signs a
 - [ALAS increases the likelihood that high-risk students stay on track to graduate on time at the end of the intervention](alas-progressing-in-school-positive-end-of-intervention.md) — related
 - [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](on-track-ninth-graders-3-5-times-more-likely-to-graduate.md) — related
 - [ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention](alas-staying-in-school-positive-end-of-intervention.md) — related
+- [The on-track indicator is strongly related to students' likelihood of graduating](on-track-indicator-related-to-graduation-likelihood.md) — related

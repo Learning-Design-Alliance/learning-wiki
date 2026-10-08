@@ -51,6 +51,8 @@ The Early Education Essentials is a measurement and organizing framework adaptin
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
+- [The Five Essential Supports framework organizes school climate measurement into five key components of student learning](five-essential-supports-ccsr-survey-framework.md)
+- [The Five Essential Supports framework organizes school development measures](five-essential-supports-survey-measures-framework.md)
 
 ## Examples
 

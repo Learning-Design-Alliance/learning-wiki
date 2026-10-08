@@ -49,3 +49,4 @@ Analysis of CCSR 2007 teacher survey essential supports measures comparing schoo
 - [High schools with clusters of at least three NBCTs score higher on professional capacity measures](nbct-clusters-high-schools-professional-capacity.md) — reports the opposite
 - [No significant differences in one-year learning gains between schools with NBCT clusters and similar schools](nbct-clusters-no-learning-gain-difference.md) — related
 - [NBCTs report holding school leadership positions at higher rates than other teachers (50% vs 32%)](nbcts-assume-leadership-roles-more.md) — related
+- [Schools small by design showed significantly higher teacher influence and all four professional capacity measures](small-by-design-schools-higher-teacher-influence-and-capacity.md) — related

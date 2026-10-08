@@ -46,6 +46,7 @@ The article adopts the PLC construct as "a group of teachers who share a common 
 
 - [I3P stage-based model: open innovation as a strategy to foster Professional Learning Communities in higher education](i3p-open-innovation-plc-model.md)
 - [Community of practice with Wenger's five membership trajectories](community-of-practice-membership-trajectories.md)
+- [Taxonomy of supportive versus developmental practices in teacher professional communities](supportive-versus-developmental-practices-taxonomy.md)
 
 ## Examples
 

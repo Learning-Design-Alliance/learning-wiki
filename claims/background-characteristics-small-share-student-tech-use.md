@@ -63,3 +63,4 @@ Same HLM models (Tables C.1 and C.2, Model A). The report states the racial diff
 
 ## Related Claims
 - [Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level](hardship-index-explains-community-variation-chicago-connected.md) — related
+- [Grow use is consistently greater in predominantly African-American schools across Chicago](greater-grow-use-african-american-schools.md) — related

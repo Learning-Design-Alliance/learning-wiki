@@ -39,7 +39,8 @@ The paper organizes approaches to using student test scores for school evaluatio
 - 
 
 ## Related Theories
-- 
+
+- [Value-added academic productivity indicator estimating each school's contribution to student learning from longitudinal test scores](value-added-academic-productivity-indicator-ccsr.md)
 
 ## Examples
 -

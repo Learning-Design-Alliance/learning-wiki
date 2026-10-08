@@ -47,3 +47,4 @@ Cohort analysis of four-year graduation rates for students entering as freshmen 
 - [Nearly all CHSRI schools graduated at least as many students as predicted given the students they served](chsri-school-level-graduation-at-or-above-predicted.md) — related
 - [Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools](nlci-freshman-ontrack-not-consistently-higher.md) — related
 - [Outcome differences between CHSRI new-start and redesigned schools were not statistically significant after accounting for incoming student differences](chsri-new-start-redesigned-no-significant-outcome-differences.md) — related
+- [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related

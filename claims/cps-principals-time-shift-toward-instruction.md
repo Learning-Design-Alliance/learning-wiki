@@ -45,3 +45,4 @@ Survey trend analysis across 1997-2007 administrations (Figure 6) shows the inst
 ## Related Claims
 - [Elementary principals in low-achieving schools spend more time on instruction while those in high-achieving schools spend more on external management](elementary-quartile-time-allocation-differences.md) — related
 - [CPS principals' overall use of technology in their work rose dramatically between 2001 and 2005](cps-principals-technology-use-rose-dramatically-2001-2005.md) — related
+- [LAUNCH elementary principals reported spending about twice as much time on professional development as veteran principals and more time on staff development than other principals](launch-principals-more-professional-development-time.md) — related

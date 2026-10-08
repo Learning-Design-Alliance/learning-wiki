@@ -46,3 +46,4 @@ Descriptive comparison of high school enrollment for Success school graduates ag
 - [Most CPS charter high schools enrolled students with eighth-grade test scores similar to or lower than their neighborhood feeder pools but with higher eighth-grade attendance](cps-charter-incoming-skills-feeder-pool.md) — related
 - [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
+- [Analysis of Chicago Public Schools enrollment data determined whether students attend their neighborhood school, a magnet school, or another non-neighborhood school](cps-enrollment-neighborhood-magnet-nonneighborhood-analysis.md) — related

@@ -51,3 +51,4 @@ Descriptive analysis of CPS course transcript data showing how the three structu
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
+- [The double-dose policy led schools to track algebra classes by students' entering math skills](double-dose-led-to-tracking-by-entering-skills.md) — possibly the same claim (merge candidate)

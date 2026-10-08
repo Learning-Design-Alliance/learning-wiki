@@ -79,3 +79,4 @@ In its Succeeding Systemically section, the digest asserts, drawing on the class
 - [Internal drive from teachers, rather than top-down curriculum prescriptions, leads to the most successful change in educational practices](teacher-internal-drive-successful-change.md) — related
 - [An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems](competency-workshop-effective-diffusion-strategy.md) — related
 - [An innovation and improvement space in local school communities brought forward new leaders](local-innovation-space-new-leaders.md) — related
+- [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — a narrower finding that bears on this claim

@@ -50,11 +50,13 @@ An instructional support strategy in which "First-time ninth-grade students who 
 ## Related Elements
 
 - [Chicago Public Schools 2003 double-dose algebra policy with three structural guidelines for support courses](cps-double-dose-algebra-policy-element.md)
+- [Double-dose algebra policy in the Chicago Public Schools](cps-double-dose-algebra-policy.md)
 
 ## Examples
 
 - [Couple subject-area curriculum reforms with comprehensive strategies to improve attendance and academic behaviors](../strategies/couple-curriculum-reform-with-academic-behavior-strategies.md)
 - [Double-dose algebra: tracking with supports as an alternative to detracking](../strategies/double-dose-algebra-tracking-with-supports.md)
+- [Use double-period support courses to expand instructional time for low-skilled 9th-grade math students](../strategies/double-period-support-course-for-low-skilled-9th-graders.md)
 
 ## Key Sources
 - Claire Durwood, Emily Krone, and Christopher Mazzeo. (2010). Are Two Algebra Classes Better Than One? The Effects of Double-Dose Instruction in Chicago. Consortium on Chicago School Research, University of Chicago. http://ccsr.uchicago.edu/content/page.php?cat=3&content_id=34
