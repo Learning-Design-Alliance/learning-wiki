@@ -44,3 +44,4 @@ A synthesis claim drawn from the behavioral science literature on accountability
 
 ## Related Claims
 - [Behavioral science research shows accountability comes in many forms that activate different mechanisms](accountability-many-forms-different-mechanisms.md) — a broader claim this one bears on
+- [Outcome-based accountability is only one of multiple forms of accountability, each invoking distinct motivational mechanisms](outcome-accountability-one-of-multiple-forms.md) — related

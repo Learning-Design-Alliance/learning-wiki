@@ -45,3 +45,4 @@ The same survey experiment reports an effect on selection behavior: demographics
 ## Related Claims
 - [Student demographics affect parents' perceptions of school quality](demographics-affect-perceived-school-quality.md) — related
 - [Growth matters more than achievement or status when parents choose between schools](growth-matters-more-when-choosing-between-schools.md) — related
+- [The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide](school-info-presentation-affects-parent-understanding.md) — related

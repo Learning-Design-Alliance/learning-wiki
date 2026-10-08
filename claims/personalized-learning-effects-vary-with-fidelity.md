@@ -66,3 +66,5 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
 - [Districts' costs for using Ecree depend on implementation and support needs, and the price per student would likely be lower for larger districts](ecree-district-costs-depend-on-implementation-lower-for-larger-districts.md) — a narrower finding that bears on this claim
 - [The Kauffman School's hallmarks are largely being implemented faithfully](kauffman-school-hallmarks-implemented-faithfully.md) — a narrower finding that bears on this claim
+- [Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement](blended-learning-effects-vary-by-intervention-and-domain.md) — related
+- [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — related

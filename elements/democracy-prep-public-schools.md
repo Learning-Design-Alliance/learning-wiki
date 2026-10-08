@@ -44,7 +44,8 @@ Democracy Prep Public Schools is a charter school network whose civic-outcomes e
 - [Democracy Prep charter schools increase students' voting rates by about 12 percentage points in the 2016 election](../claims/democracy-prep-increases-voting-rates-12-points.md) [+W]
 
 ## Related Elements
-- 
+
+- [Democracy Prep Public Schools charter network](democracy-prep-charter-network.md)
 
 ## Examples
 -

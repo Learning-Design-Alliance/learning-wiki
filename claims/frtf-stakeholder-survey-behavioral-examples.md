@@ -63,3 +63,4 @@ The selected steering committee, comprising experts in WIL and talent developmen
 
 ## Related Claims
 - [A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents](frtf-synthesis-46-frameworks-12-talents.md) — related
+- [Peer-reviewed research and industry research describe soft skills that employers seek in new hires](peer-reviewed-and-industry-research-soft-skills-employers-seek.md) — a broader claim this one bears on

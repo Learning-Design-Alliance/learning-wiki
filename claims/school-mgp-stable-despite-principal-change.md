@@ -51,3 +51,5 @@ Observational analysis of pilot data on school median student growth percentiles
 - [Average achievement and adjusted average achievement provide no information for predicting principals' contributions to student achievement in the following year](average-achievement-measures-no-predictive-info-principal-impacts.md) — related
 - [Insight survey domain averages are more stable across years when a school keeps the same leader, suggesting principals affect these measures](insight-domain-stability-same-leader.md) — related
 - [When a school gets a new principal, Insight survey domain scores change more than student proficiency rates](new-principal-survey-scores-change-more-than-proficiency.md) — related
+- [Principals are essential to student achievement, with principals' effects almost as large as teachers' effects](principals-essential-student-achievement-effects-near-teacher-size.md) — related
+- [Student growth measures describe gains in student learning based on how much students' test scores changed over a school year](student-growth-measures-describe-test-score-gains.md) — related

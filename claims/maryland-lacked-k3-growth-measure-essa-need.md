@@ -48,3 +48,4 @@ The report's introduction states the motivation: "MSDE lacks a measure of how we
 - [Schools' K-3 growth estimates are much less precise for smaller schools than for larger schools](k3-growth-precision-lower-for-smaller-schools.md) — related
 - [Administering the Kindergarten Readiness Assessment to a subset of students per classroom greatly reduces precision of schools' K-3 growth estimates](kra-subset-administration-greatly-reduces-growth-precision.md) — related
 - [The overall Kindergarten Readiness Assessment score predicts grade 3 achievement about as well as combinations of its subscores](kra-overall-score-predicts-grade3-as-well-as-subscores.md) — related
+- [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — related

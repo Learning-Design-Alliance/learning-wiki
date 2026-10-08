@@ -46,3 +46,5 @@ Empirical analysis applying the considered estimators to data from five large-sc
 - [Appropriate average treatment effect estimators can be derived for both finite-population and super-population models of clustered RCTs](appropriate-estimators-derived-for-each-causal-model.md) — related
 - [CACE estimators based on correct variance formulas and commonly used simplified formulas yield very similar significance findings across 10 education RCTs](cace-variance-formulas-similar-significance-findings.md) — related
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
+- [Design-based and model-based methods yield very similar impact estimates and levels of statistical significance in re-analyses of nine education RCTs](design-and-model-based-methods-similar-impact-estimates.md) — related
+- [Differences between design-based and model-based impact estimates are no greater than differences between the two considered model-based methods](design-model-differences-no-greater-than-model-model.md) — related

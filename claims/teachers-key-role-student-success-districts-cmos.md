@@ -48,3 +48,4 @@ A key finding stated in the report's Key Findings section, summarizing themes th
 - [CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers](cmo-impact-linked-intense-teacher-coaching.md) — related
 - [CMOs with the greatest positive impact on student achievement were most likely to establish consistent schoolwide behavior expectations for students](cmo-impact-linked-schoolwide-behavior-expectations.md) — related
 - [Five successful CMOs used identifiable approaches intended to help improve student achievement](five-cmos-approaches-improve-achievement.md) — related
+- [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — related

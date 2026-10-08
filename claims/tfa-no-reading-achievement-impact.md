@@ -51,3 +51,4 @@ Randomized experiment on the impact of Teach For America on student achievement.
 - [Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification](tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification.md) — related
 - [Teach For America teachers were more likely than their peers to report problems with student behavior](tfa-teachers-report-more-behavior-problems.md) — related
 - [In some cases, Teach For America and Teaching Fellows secondary math teachers are more effective than traditionally certified math teachers](tfa-teaching-fellows-math-teachers-sometimes-more-effective.md) — related
+- [TFA teachers in lower elementary grades (prekindergarten through grade 2) had a positive, statistically significant effect on reading achievement of 0.12 standard deviations](tfa-lower-elementary-reading-effect-012-sd.md) — reports the opposite

@@ -58,3 +58,5 @@ This is a systematic review synthesis (WWC Intervention Report, mathematics achi
 - [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](tfa-small-positive-early-elementary-reading-not-math.md) — reports the opposite
 - [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — related
 - [Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction](tfa-positive-math-achievement-impact.md) — a narrower finding that bears on this claim
+- [TFA corps members hired in the first two years of the i3 scale-up were as effective as other teachers in the same high-poverty schools in teaching reading and math](tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools.md) — a narrower finding that bears on this claim
+- [TFA teachers in lower elementary grades (prekindergarten through grade 2) had a positive, statistically significant effect on reading achievement of 0.12 standard deviations](tfa-lower-elementary-reading-effect-012-sd.md) — related

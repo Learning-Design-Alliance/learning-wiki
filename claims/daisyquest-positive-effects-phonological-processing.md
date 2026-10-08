@@ -59,3 +59,4 @@ WWC synthesis of two randomized controlled trials (Foster et al., 1994; Lonigan 
 - [STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points](stella-potentially-positive-science-achievement.md) — related
 - [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related
 - [Of 225 reviewed studies of phonological awareness training, only four RCTs met WWC evidence standards without reservations](phonological-awareness-training-thin-rct-evidence-base.md) — related
+- [Federally funded evidence reviews have historically reserved their highest quality ratings for randomized control trials](evidence-reviews-reserve-highest-ratings-for-rcts.md) — related

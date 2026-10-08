@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 5,422 |
-| Evidence entries | 6,376 |
-| Distinct studies | 1,859 |
-| Claims resting on one study | 5,208 (96%) |
+| Claims | 5,562 |
+| Evidence entries | 6,517 |
+| Distinct studies | 1,904 |
+| Claims resting on one study | 5,348 (96%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 592 of 1,859 (32%) |
+| Studies reporting an effect size | 593 of 1,904 (31%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 40 | 257 | 91 | 251 | 639 |
-| quant-synthesis | 22 | 66 | 31 | 120 | 239 |
-| review | 21 | 76 | 30 | 66 | 193 |
-| associational | 0 | 80 | 95 | 63 | 238 |
-| qualitative | 38 | 78 | 17 | 17 | 150 |
-| design | 9 | 100 | 63 | 11 | 183 |
-| theoretical | 26 | 138 | 27 | 26 | 217 |
+| causal | 40 | 263 | 92 | 262 | 657 |
+| quant-synthesis | 22 | 66 | 31 | 121 | 240 |
+| review | 21 | 79 | 32 | 68 | 200 |
+| associational | 0 | 83 | 95 | 70 | 248 |
+| qualitative | 38 | 78 | 18 | 17 | 151 |
+| design | 9 | 100 | 64 | 11 | 184 |
+| theoretical | 26 | 139 | 30 | 29 | 224 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 302 (16%) | 908 (49%) | 546 (29%) | 103 (6%) |
+| 314 (16%) | 930 (49%) | 556 (29%) | 104 (5%) |
 
-**Studies per claim:** 0: 0, 1: 5,208, 2: 160, 3: 48, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 5,348, 2: 160, 3: 48, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -102,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-125 claims are cited both ways.
+130 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -134,14 +134,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 321 | 2 | 0 |
-| [elements](elements/index.md) | 1,322 | 1,010 | 1 | 0 |
+| [elements](elements/index.md) | 1,351 | 1,037 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 109 | 8 | 0 |
-| [strategies](strategies/index.md) | 3,592 | 2,336 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,608 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,100 | 891 | 1 | 0 |
+| [theories](theories/index.md) | 1,114 | 905 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 201 | 139 | 1 | 0 |
+| [designs](designs/index.md) | 202 | 140 | 1 | 0 |
 
 ## Toward pooled estimates
 

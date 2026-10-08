@@ -18,7 +18,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (5 for) · 6 studies (3 review, 2 causal, 1 quant-synthesis), `q2`–`q4` · 0 of 6 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 7 studies (3 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 0 of 7 report an effect size · 5 claims rest on one study
 
 ## Description
 Ben Goldacre (2013) argues that teaching should be an evidence-based profession, which would require a cultural shift: recognizing that we don't necessarily "know" what works best and need evidence that something works; giving teachers better access to research outcomes; helping teachers understand how research works so they can become critical consumers of it; and giving teachers access to networks of others interested in research. This isn't only research done by academics — research by teachers on their own practice is itself part of the same evidence base, and is increasingly embedded in schools as a contributor to school improvement.
@@ -58,6 +58,7 @@ Philosopher Karl Popper proposed the criterion that separates scientific from un
 - [Matching Instruction To Styles No Effect](../claims/learning-styles-matching-does-not-improve-learning.md) [+M]
 - [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](../claims/math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) [+M] — attached 2026-10-08 from Agodini et al. (2009), which proposed "Choose early elementary math curricula based on rigorous experimental evidence of achievement effects, since textbook-based programs differ in impact".
 - [There is not yet much rigorous evidence to guide decision making around instructional and support strategies for adult learners](../claims/little-rigorous-evidence-adult-learner-strategies.md) [+W] — attached 2026-10-08 from Kelley Borradaile et al. (2021), which proposed "Adult education programs should use evidence-based strategies to improve services and participant success".
+- [A null study finding can have multiple possible causes and requires interpretation before it informs decisions](../claims/null-findings-require-interpretation-of-causes.md) [+W] — attached 2026-10-08 from Neil Seftor (2016), which proposed "Education decision-makers should examine what a null-effect study means before making program decisions".
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

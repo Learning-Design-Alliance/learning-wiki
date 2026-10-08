@@ -45,3 +45,5 @@ Analytical result stated in the article's abstract: due to "the linearity of the
 ## Related Claims
 - [CACE estimators based on correct variance formulas and commonly used simplified formulas yield very similar significance findings across 10 education RCTs](cace-variance-formulas-similar-significance-findings.md) — related
 - [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
+- [Design-based and model-based methods yield very similar impact estimates and levels of statistical significance in re-analyses of nine education RCTs](design-and-model-based-methods-similar-impact-estimates.md) — related
+- [The developed estimators apply to a wide range of education research designs, including clustered and blocked designs](design-based-estimators-clustered-blocked-designs.md) — related

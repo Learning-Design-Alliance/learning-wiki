@@ -48,3 +48,4 @@ The brief reports that the two measures accounting for students' past achievemen
 - [The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy](two-analysis-approach-principal-measure-accuracy.md) — related
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
 - [School value added provides very poor information for revealing principals' persistent levels of effectiveness](school-value-added-poor-information-principal-effectiveness.md) — possibly the same claim (merge candidate)
+- [Principals are essential to student achievement, with principals' effects almost as large as teachers' effects](principals-essential-student-achievement-effects-near-teacher-size.md) — related

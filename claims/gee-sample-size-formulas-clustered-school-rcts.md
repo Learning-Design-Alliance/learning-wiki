@@ -47,3 +47,4 @@ Theoretical analysis reported in the article's abstract. It derives sample size 
 - [The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations](stella-cluster-rct-taylor-2017.md) — related
 - [PN-RCT design choices include random assignment possibilities, cluster formation, statistical power, and confounding factors](pn-rct-design-issues-random-assignment-power-confounding.md) — related
 - [A methodological review identifies six key decisions school health researchers must address when designing, conducting, and analyzing cluster randomized trials](six-key-decisions-cluster-randomized-school-health-trials.md) — related
+- [The developed estimators apply to a wide range of education research designs, including clustered and blocked designs](design-based-estimators-clustered-blocked-designs.md) — related

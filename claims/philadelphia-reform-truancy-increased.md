@@ -47,3 +47,5 @@ Difference-in-differences analysis of student outcomes after Philadelphia's disc
 - [Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform](philadelphia-reform-modest-decline-nonviolent-suspensions.md) — related
 - [Serious incidents of student misconduct increased in Philadelphia following the discipline policy reform](philadelphia-reform-serious-incidents-increased.md) — related
 - [Total suspensions in Philadelphia remained unchanged following the discipline policy reform](philadelphia-reform-total-suspensions-unchanged.md) — related
+- [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](partial-implementation-schools-peer-outcomes-declined.md) — related
+- [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related

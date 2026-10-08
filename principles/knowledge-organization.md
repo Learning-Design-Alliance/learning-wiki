@@ -12,7 +12,7 @@ generated:
 # Knowledge Organization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (12 for, 6 mixed) · 22 studies (8 causal, 5 quant-synthesis, 5 review, 2 theoretical, 1 associational, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (13 for, 6 mixed) · 23 studies (8 causal, 5 quant-synthesis, 5 review, 2 design, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 23 report an effect size · 14 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,7 @@ Do not rank these by effect label: physics students on hierarchies, pooled conce
 - [Readers given a perspective or schema recall more text information than readers instructed to carefully read the story](../claims/schema-perspective-improves-text-recall.md) [+W]: one experiment reported second-hand in the same essay; a perspective given before reading, closer to [Activation](activation.md) than to this page.
 - [Narrative memory is superior when content follows stereotypical story grammar structure, and goal information is critical to comprehension](../claims/story-grammar-structure-aids-narrative-memory.md) [+W]: a review of story-grammar studies, second-hand; it bears on organizing narrative content only.
 - [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](../claims/interactive-beats-constructive-concept-mapping.md) [+W]: one study reported in a theory article with its design undescribed; used above only for the large-class row.
+- [Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)](../claims/frtf-talent-cluster-sorting-validated.md) [+W] — attached 2026-10-08 from Pretti et al. (2021), which proposed "Use a shared talent framework to give WIL stakeholders a common language for communicating about talent"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

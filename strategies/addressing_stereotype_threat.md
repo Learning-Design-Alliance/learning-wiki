@@ -60,10 +60,13 @@ Stereotype threat operates through working-memory load and physiological stress,
 5. Use [Check-Ins](../principles/check-ins.md) and belonging surveys to monitor whether students feel they fit, and follow up with [Accommodations](../elements/accommodations.md) where structural barriers persist.
 
 ## Related Strategies
+
 - Growth mindset framing — teaching that ability is malleable removes the fixed-ability premise on which threat operates
 - Belonging interventions — normalize early struggle as temporary and common, directly countering threat's belonging doubts
 - Wise feedback — the highest-leverage single practice for threatened students receiving critical work
 - [Standardized Test Fairness and Bias](../principles/standardized-test-fairness-and-bias.md) — the fuller mechanism and evidence base this strategy responds to
+- [Deliver salient, personalized ability signals to encourage educational investments](salient-personalized-ability-signals-strategy.md)
+
 ## Related Elements
 - <!-- TODO -->
 ## Tools

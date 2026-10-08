@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 5394,
+  "claims->claims": 5533,
   "claims->designs": 13,
   "claims->elements": 108,
   "claims->learner-variables": 1,
@@ -9,21 +9,21 @@
   "claims->principles": 118,
   "claims->processes": 3,
   "claims->theories": 205,
-  "designs->claims": 139,
+  "designs->claims": 140,
   "designs->designs": 28,
-  "designs->elements": 42,
+  "designs->elements": 43,
   "designs->patterns": 22,
   "designs->principles": 10,
   "designs->theories": 21,
-  "elements->claims": 1010,
+  "elements->claims": 1037,
   "elements->designs": 2,
-  "elements->elements": 907,
+  "elements->elements": 929,
   "elements->learner-variables": 1,
   "elements->methods": 1,
   "elements->patterns": 248,
   "elements->principles": 315,
   "elements->processes": 1,
-  "elements->theories": 233,
+  "elements->theories": 235,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -68,15 +68,15 @@
   "strategies->patterns": 815,
   "strategies->principles": 1735,
   "strategies->processes": 9,
-  "strategies->theories": 694,
-  "theories->claims": 891,
+  "strategies->theories": 697,
+  "theories->claims": 905,
   "theories->designs": 61,
-  "theories->elements": 209,
+  "theories->elements": 218,
   "theories->methods": 14,
   "theories->patterns": 66,
   "theories->principles": 217,
   "theories->processes": 7,
-  "theories->theories": 749
+  "theories->theories": 754
  },
  "edges": {
   "claims": {
@@ -876,6 +876,94 @@
      }
     ]
    },
+   "ability-signal-increases-ap-exam-taking": {
+    "claims": [
+     {
+      "slug": "ability-signal-increases-ap-participation-49-points"
+     },
+     {
+      "slug": "ability-signal-informational-value-bayesian-updating"
+     },
+     {
+      "slug": "ability-signal-one-more-ap-course"
+     },
+     {
+      "slug": "personalized-ap-message-increases-exam-taking-and-passing"
+     }
+    ]
+   },
+   "ability-signal-increases-ap-participation-49-points": {
+    "claims": [
+     {
+      "slug": "ability-signal-increases-ap-exam-taking"
+     },
+     {
+      "slug": "ability-signal-informational-value-bayesian-updating"
+     },
+     {
+      "slug": "ability-signal-one-more-ap-course"
+     },
+     {
+      "slug": "non-surveyed-students-did-not-respond-to-signal"
+     },
+     {
+      "slug": "personalized-ap-message-increases-exam-taking-and-passing"
+     },
+     {
+      "slug": "personalized-ap-message-increases-participation-49-points"
+     },
+     {
+      "slug": "small-presentation-changes-large-participation-impact"
+     }
+    ]
+   },
+   "ability-signal-informational-value-bayesian-updating": {
+    "claims": [
+     {
+      "slug": "ability-signal-increases-ap-exam-taking"
+     },
+     {
+      "slug": "ability-signal-increases-ap-participation-49-points"
+     },
+     {
+      "slug": "ability-signal-one-more-ap-course"
+     },
+     {
+      "slug": "non-surveyed-students-did-not-respond-to-signal"
+     },
+     {
+      "slug": "personalized-ap-message-increases-exam-taking-and-passing"
+     },
+     {
+      "slug": "personalized-ap-message-increases-participation-49-points"
+     },
+     {
+      "slug": "small-presentation-changes-large-participation-impact"
+     }
+    ]
+   },
+   "ability-signal-one-more-ap-course": {
+    "claims": [
+     {
+      "slug": "ability-signal-increases-ap-exam-taking"
+     },
+     {
+      "slug": "ability-signal-increases-ap-participation-49-points"
+     },
+     {
+      "slug": "ability-signal-informational-value-bayesian-updating"
+     },
+     {
+      "slug": "non-surveyed-students-did-not-respond-to-signal"
+     },
+     {
+      "slug": "personalized-ap-message-increases-exam-taking-and-passing"
+     },
+     {
+      "slug": "personalized-ap-message-increases-participation-49-points"
+     }
+    ]
+   },
    "ablation-all-features-maximize-auc": {
     "claims": [
      {
@@ -1583,11 +1671,17 @@
     "claims": [
      {
       "slug": "accountability-many-forms-different-mechanisms"
+     },
+     {
+      "slug": "outcome-accountability-one-of-multiple-forms"
      }
     ]
    },
    "accountability-features-combined-make-middle-schools-more-likely-tsi": {
     "claims": [
+     {
+      "slug": "growth-measures-combined-with-observations-in-evaluation"
+     },
      {
       "slug": "middle-schools-disproportionately-identified-tsi-students-with-disabilities"
      }
@@ -1652,6 +1746,9 @@
     "claims": [
      {
       "slug": "accountability-effects-depend-on-type-context-task"
+     },
+     {
+      "slug": "outcome-accountability-one-of-multiple-forms"
      }
     ]
    },
@@ -1911,6 +2008,25 @@
       "polarity": "+",
       "slug": "wiles-bondi-curriculum-management-plan",
       "strength": "W"
+     }
+    ]
+   },
+   "achievement-focused-mission-charter-impacts": {
+    "claims": [
+     {
+      "slug": "behavioral-policies-rewards-sanctions-charter-impacts"
+     },
+     {
+      "slug": "democracy-prep-charter-schools-boost-student-voting"
+     },
+     {
+      "slug": "five-cmos-approaches-improve-achievement"
+     },
+     {
+      "slug": "long-school-days-years-charter-impacts"
+     },
+     {
+      "slug": "shared-mission-vision-goals-critical-districts-cmos"
      }
     ]
    },
@@ -5249,6 +5365,9 @@
       "slug": "adlab-intergroup-interaction-time-increased-over-semester"
      },
      {
+      "slug": "each-accountability-form-favorable-or-unfavorable-effects"
+     },
+     {
       "slug": "simucase-lacks-behavioral-authenticity"
      },
      {
@@ -8339,7 +8458,13 @@
       "slug": "clustered-rct-estimators-identical-significance-findings"
      },
      {
+      "slug": "design-based-estimators-clustered-blocked-designs"
+     },
+     {
       "slug": "rct-policy-conclusions-sensitive-to-estimator-choice"
+     },
+     {
+      "slug": "variance-adjustment-reduces-precision-multi-armed"
      }
     ],
     "theories": [
@@ -8372,8 +8497,65 @@
      }
     ]
    },
+   "aps-cis-case-management-no-evidence": {
+    "claims": [
+     {
+      "slug": "aps-specialist-support-little-impact-evidence"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "aps-turnaround-strategy-year2-evaluation",
+      "strength": "W"
+     }
+    ]
+   },
+   "aps-partnership-schools-mixed-effects": {
+    "claims": [
+     {
+      "slug": "aps-turnaround-first-year-report-scope"
+     },
+     {
+      "slug": "aps-turnaround-math-gains-targeted-schools"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "aps-turnaround-strategy-year2-evaluation",
+      "strength": "W"
+     }
+    ]
+   },
+   "aps-specialist-support-little-impact-evidence": {
+    "claims": [
+     {
+      "slug": "aps-cis-case-management-no-evidence"
+     },
+     {
+      "slug": "aps-turnaround-math-gains-targeted-schools"
+     },
+     {
+      "slug": "tlts-no-detectable-science-effect"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "aps-turnaround-strategy-year2-evaluation",
+      "strength": "W"
+     }
+    ]
+   },
    "aps-turnaround-first-year-report-scope": {
     "claims": [
+     {
+      "slug": "aps-partnership-schools-mixed-effects"
+     },
+     {
+      "slug": "aps-turnaround-math-gains-targeted-schools"
+     },
      {
       "slug": "kauffman-school-significant-achievement-impacts-first-three-years"
      },
@@ -8403,6 +8585,26 @@
      {
       "polarity": "+",
       "slug": "high-impact-tutoring-aps-turnaround-component",
+      "strength": "W"
+     }
+    ]
+   },
+   "aps-turnaround-math-gains-targeted-schools": {
+    "claims": [
+     {
+      "slug": "aps-partnership-schools-mixed-effects"
+     },
+     {
+      "slug": "aps-specialist-support-little-impact-evidence"
+     },
+     {
+      "slug": "aps-turnaround-first-year-report-scope"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "aps-turnaround-strategy-year2-evaluation",
       "strength": "W"
      }
     ]
@@ -10596,6 +10798,25 @@
      }
     ]
    },
+   "assignment-variable-manipulation-biases-rd-estimates": {
+    "claims": [
+     {
+      "slug": "rd-clustering-and-discreteness-requirement"
+     },
+     {
+      "slug": "rd-individual-estimates-substantial-bias-variation"
+     },
+     {
+      "slug": "rd-qualification-criteria-forcing-variable"
+     },
+     {
+      "slug": "rd-replication-matches-experimental-estimates-two-interventions"
+     },
+     {
+      "slug": "rd-theory-valid-causal-inference-at-cutoff"
+     }
+    ]
+   },
    "assimilation-accommodation-baldwin-piaget-shared": {
     "claims": [
      {
@@ -10956,6 +11177,28 @@
       "polarity": "+",
       "slug": "rule-space-model-cognitive-diagnosis",
       "strength": "M"
+     }
+    ]
+   },
+   "attrition-does-not-contribute-inequitable-access": {
+    "claims": [
+     {
+      "slug": "hiring-transfer-patterns-consistent-small-differences"
+     },
+     {
+      "slug": "hiring-transfers-not-attrition-drive-inequity"
+     },
+     {
+      "slug": "pa-attrition-gaps-early-career-charter-large-leas"
+     },
+     {
+      "slug": "pa-attrition-racial-gaps-grew-except-administrators"
+     },
+     {
+      "slug": "pa-staff-attrition-rose-4-to-5-percent-pandemic"
+     },
+     {
+      "slug": "remote-learning-not-associated-elementary-teacher-attrition"
      }
     ]
    },
@@ -15056,6 +15299,13 @@
      }
     ]
    },
+   "average-charter-similar-to-nearby-traditional-schools": {
+    "claims": [
+     {
+      "slug": "charter-high-school-college-attendance-gain"
+     }
+    ]
+   },
    "avoidant-style-higher-certainty-knowledge": {
     "claims": [
      {
@@ -15339,6 +15589,9 @@
      },
      {
       "slug": "balanced-leadership-potentially-positive-school-leader-retention"
+     },
+     {
+      "slug": "leadership-central-rapid-school-improvement"
      }
     ],
     "elements": [
@@ -15470,6 +15723,13 @@
       "slug": "barr-program-element",
       "strength": "W"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "multisite-rct-design-average-and-variation",
+      "strength": "W"
+     }
     ]
    },
    "barr-multisite-rct-map-math-es-008": {
@@ -15491,6 +15751,13 @@
      },
      {
       "slug": "barr-suburban-rct-map-math-es-033"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "multisite-rct-design-average-and-variation",
+      "strength": "W"
      }
     ]
    },
@@ -15756,6 +16023,9 @@
      },
      {
       "slug": "classical-inference-prohibitive-sample-sizes-factorial"
+     },
+     {
+      "slug": "five-design-factors-impact-parent-school-choice-outcomes"
      },
      {
       "slug": "seventy-two-arms-classical-double-sample-size"
@@ -16042,6 +16312,9 @@
       "slug": "classical-inference-prohibitive-sample-sizes-factorial"
      },
      {
+      "slug": "five-design-factors-impact-parent-school-choice-outcomes"
+     },
+     {
       "slug": "seventy-two-arms-classical-double-sample-size"
      }
     ],
@@ -16079,6 +16352,13 @@
      {
       "polarity": "+",
       "slug": "bcirc-program-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "statistical-significance-effect-criterion",
       "strength": "W"
      }
     ]
@@ -16125,6 +16405,13 @@
      {
       "polarity": "+",
       "slug": "bcirc-program-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "statistical-significance-effect-criterion",
       "strength": "W"
      }
     ]
@@ -16287,6 +16574,22 @@
      }
     ]
    },
+   "behavioral-policies-rewards-sanctions-charter-impacts": {
+    "claims": [
+     {
+      "slug": "achievement-focused-mission-charter-impacts"
+     },
+     {
+      "slug": "cmo-impact-linked-schoolwide-behavior-expectations"
+     },
+     {
+      "slug": "long-school-days-years-charter-impacts"
+     },
+     {
+      "slug": "shared-mission-vision-goals-critical-districts-cmos"
+     }
+    ]
+   },
    "behaviorism-fails-linguistic-generativity": {
     "claims": [
      {
@@ -16408,6 +16711,9 @@
      },
      {
       "slug": "future-forward-prior-rct-evidence"
+     },
+     {
+      "slug": "null-findings-require-interpretation-of-causes"
      },
      {
       "slug": "ses-rd-study-power-012-sd"
@@ -17820,6 +18126,30 @@
      }
     ]
    },
+   "bias-elimination-not-predicted-by-pretest-selection-correlation": {
+    "claims": [
+     {
+      "slug": "second-pretest-wave-additional-bias-elimination"
+     },
+     {
+      "slug": "single-pretest-wave-reduces-selection-bias"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "three-within-study-comparisons-pretest-bias-design",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "pretest-privileging-bias-control-rationale",
+      "strength": "M"
+     }
+    ]
+   },
    "bics-acquired-faster-than-calc-immigrant-children": {
     "claims": [
      {
@@ -18969,6 +19299,26 @@
      }
     ]
    },
+   "blended-learning-effects-vary-by-intervention-and-domain": {
+    "claims": [
+     {
+      "slug": "methods-assess-impact-variation-across-students-educators-schools"
+     },
+     {
+      "slug": "personalized-learning-effects-vary-with-fidelity"
+     },
+     {
+      "slug": "werp-alphabetics-effects-vary-by-outcome"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "blended-learning-impacts-implementation-infographic",
+      "strength": "W"
+     }
+    ]
+   },
    "blended-learning-improves-outcomes": {
     "claims": [
      {
@@ -19270,6 +19620,26 @@
      }
     ]
    },
+   "block-weighting-full-randomized-sample-avoids-bias": {
+    "claims": [
+     {
+      "slug": "design-based-estimators-clustered-blocked-designs"
+     },
+     {
+      "slug": "multi-armed-estimators-modify-two-group-estimators"
+     },
+     {
+      "slug": "pairwise-contrast-samples-represent-full-randomized-set"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "design-based-estimators-multi-armed-rcts",
+      "strength": "W"
+     }
+    ]
+   },
    "bls-estimates-567000-fewer-public-school-teachers-2022": {
     "claims": [
      {
@@ -19540,6 +19910,9 @@
      },
      {
       "slug": "pathblazer-positive-reading-achievement-cluster-rct"
+     },
+     {
+      "slug": "tutoring-coaching-data-use-charter-impacts"
      }
     ],
     "elements": [
@@ -19569,6 +19942,9 @@
      },
      {
       "slug": "renzulli-learning-oral-reading-fluency-growth"
+     },
+     {
+      "slug": "tutoring-coaching-data-use-charter-impacts"
      }
     ],
     "elements": [
@@ -20116,6 +20492,9 @@
      },
      {
       "slug": "reading-literary-fiction-improves-theory-of-mind"
+     },
+     {
+      "slug": "suspension-decreases-suspended-student-achievement"
      },
      {
       "slug": "teacher-expectation-effects-on-achievement"
@@ -21570,6 +21949,9 @@
       "slug": "clustered-rct-estimators-identical-significance-findings"
      },
      {
+      "slug": "design-and-model-based-methods-similar-impact-estimates"
+     },
+     {
       "slug": "group-level-design-based-estimators-match-individual-data-asymptotically"
      },
      {
@@ -21602,6 +21984,9 @@
    "cal-learn-evidence-standards-reservations-attrition": {
     "claims": [
      {
+      "slug": "evidence-reviews-reserve-highest-ratings-for-rcts"
+     },
+     {
       "slug": "financial-incentives-ged-receipt-significant"
      },
      {
@@ -21618,6 +22003,9 @@
      },
      {
       "slug": "wwc-potentially-positive-rating-staying-in-school"
+     },
+     {
+      "slug": "wwc-standards-may-have-improved-research-quality"
      }
     ],
     "elements": [
@@ -23885,6 +24273,9 @@
    "charter-high-school-college-attendance-gain": {
     "claims": [
      {
+      "slug": "average-charter-similar-to-nearby-traditional-schools"
+     },
+     {
       "slug": "charter-attainment-study-florida-chicago-scope"
      },
      {
@@ -23938,6 +24329,33 @@
      {
       "polarity": "+",
       "slug": "attainment-based-charter-school-evaluation",
+      "strength": "M"
+     }
+    ]
+   },
+   "charter-sector-growth-nearly-7000-schools": {
+    "claims": [
+     {
+      "slug": "charter-sector-growth-over-7000-schools-debate"
+     },
+     {
+      "slug": "first-nationwide-online-charter-operations-survey-127-principals"
+     },
+     {
+      "slug": "online-charter-schools-200-schools-200000-students"
+     }
+    ]
+   },
+   "charter-sector-growth-over-7000-schools-debate": {
+    "claims": [
+     {
+      "slug": "charter-sector-growth-nearly-7000-schools"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "charter-original-design-experimentation-innovation",
       "strength": "M"
      }
     ]
@@ -24573,6 +24991,9 @@
       "slug": "chicago-tap-year-two-impact-evaluation"
      },
      {
+      "slug": "educators-receptive-to-feedback-and-compensation-strategies"
+     },
+     {
       "slug": "tap-increases-reported-mentoring-support"
      },
      {
@@ -24607,6 +25028,9 @@
      },
      {
       "slug": "chicago-tap-year-two-impact-evaluation"
+     },
+     {
+      "slug": "educators-receptive-to-feedback-and-compensation-strategies"
      },
      {
       "slug": "tap-increases-reported-mentoring-support"
@@ -24673,6 +25097,9 @@
       "slug": "chicago-tap-year-two-impact-evaluation"
      },
      {
+      "slug": "educators-receptive-to-feedback-and-compensation-strategies"
+     },
+     {
       "slug": "tap-increases-reported-mentoring-support"
      },
      {
@@ -24713,6 +25140,9 @@
      },
      {
       "slug": "chicago-tap-no-student-achievement-impact"
+     },
+     {
+      "slug": "educators-receptive-to-feedback-and-compensation-strategies"
      },
      {
       "slug": "tap-increases-reported-mentoring-support"
@@ -29231,6 +29661,13 @@
       "slug": "circ-program-element",
       "strength": "W"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "statistical-significance-effect-criterion",
+      "strength": "W"
+     }
     ]
    },
    "circ-qed-subgroups-null": {
@@ -29329,16 +29766,36 @@
    "civic-focused-education-boosts-adult-participation": {
     "claims": [
      {
+      "slug": "democracy-prep-98-percent-probability-positive-civic-impacts"
+     },
+     {
+      "slug": "democracy-prep-charter-schools-boost-student-voting"
+     },
+     {
       "slug": "democracy-prep-increases-voter-registration-16-points"
      },
      {
       "slug": "democracy-prep-increases-voting-rates-12-points"
      },
      {
+      "slug": "democracy-prep-lottery-registration-gain-16-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-voting-gain-12-points"
+     },
+     {
       "slug": "lre-reduces-delinquent-tendencies"
+     },
+     {
+      "slug": "us-civic-engagement-and-civics-knowledge-fall-short"
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "democracy-prep-charter-network",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "democracy-prep-public-schools",
@@ -29742,6 +30199,9 @@
       "slug": "clark-2015-elementary-tfa-indeterminate"
      },
      {
+      "slug": "effect-defined-as-statistically-significant-group-difference"
+     },
+     {
       "slug": "first-large-scale-experimental-study-tfa-math"
      },
      {
@@ -29758,6 +30218,9 @@
      },
      {
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
+     },
+     {
+      "slug": "tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools"
      },
      {
       "slug": "tfa-no-reading-achievement-impact"
@@ -29809,6 +30272,9 @@
       "slug": "clark-2013-tfa-secondary-math-rct-positive"
      },
      {
+      "slug": "effect-defined-as-statistically-significant-group-difference"
+     },
+     {
       "slug": "tfa-corps-no-significant-reading-effect-elementary"
      },
      {
@@ -29816,6 +30282,12 @@
      },
      {
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
+     },
+     {
+      "slug": "tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools"
+     },
+     {
+      "slug": "tfa-no-significant-impacts-upper-elementary-other-subgroups"
      },
      {
       "slug": "tfa-positive-mathematics-achievement-effects"
@@ -30359,6 +30831,9 @@
       "slug": "bayesian-partial-pooling-precision-false-positive-control"
      },
      {
+      "slug": "five-design-factors-impact-parent-school-choice-outcomes"
+     },
+     {
       "slug": "seventy-two-arms-classical-double-sample-size"
      }
     ],
@@ -30432,6 +30907,9 @@
      },
      {
       "slug": "price-only-procurement-criticized-by-suppliers"
+     },
+     {
+      "slug": "student-characteristics-affect-observation-results-more-in-ela-than-math"
      }
     ],
     "strategies": [
@@ -30479,6 +30957,23 @@
       "polarity": "~",
       "slug": "supply_caddy",
       "strength": "M"
+     }
+    ]
+   },
+   "classroom-management-dimension-strongest-value-added-relationship": {
+    "claims": [
+     {
+      "slug": "eight-of-ten-dimensions-common-across-five-observation-instruments"
+     },
+     {
+      "slug": "observation-dimensions-modestly-significantly-related-to-value-added"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "met-project-data-five-instrument-comparison",
+      "strength": "W"
      }
     ]
    },
@@ -31442,6 +31937,12 @@
       "slug": "cace-variance-formulas-similar-significance-findings"
      },
      {
+      "slug": "design-and-model-based-methods-similar-impact-estimates"
+     },
+     {
+      "slug": "design-model-differences-no-greater-than-model-model"
+     },
+     {
       "slug": "rct-policy-conclusions-sensitive-to-estimator-choice"
      }
     ],
@@ -31515,6 +32016,9 @@
      },
      {
       "slug": "teachers-key-role-student-success-districts-cmos"
+     },
+     {
+      "slug": "tutoring-coaching-data-use-charter-impacts"
      }
     ],
     "elements": [
@@ -31527,6 +32031,9 @@
    },
    "cmo-impact-linked-schoolwide-behavior-expectations": {
     "claims": [
+     {
+      "slug": "behavioral-policies-rewards-sanctions-charter-impacts"
+     },
      {
       "slug": "cmo-impact-linked-intense-teacher-coaching"
      },
@@ -39795,6 +40302,27 @@
      }
     ]
    },
+   "confirmed-roster-data-reveal-more-co-teaching-than-administrative-data": {
+    "claims": [
+     {
+      "slug": "teacher-team-and-full-roster-methods-produce-similar-estimates"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "teacher-team-method-co-teaching-value-added",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "three-method-framework-co-teaching-value-added",
+      "strength": "M"
+     }
+    ]
+   },
    "conflict-devolves-to-aggression-low-self-esteem": {
     "claims": [
      {
@@ -43275,6 +43803,9 @@
       "slug": "cooperative-learning-moderate-overall-effect-second-order"
      },
      {
+      "slug": "effect-defined-as-statistically-significant-group-difference"
+     },
+     {
       "slug": "seven-nonsignificant-moderators-call-feedback"
      },
      {
@@ -44247,6 +44778,9 @@
       "slug": "dialogic-reading-improves-language-outcomes"
      },
      {
+      "slug": "effect-defined-as-statistically-significant-group-difference"
+     },
+     {
       "slug": "parent-implemented-intervention-improves-outcomes"
      }
     ],
@@ -44860,6 +45394,43 @@
      },
      {
       "slug": "mobile-user-typology-predicts-adoption-intention"
+     }
+    ]
+   },
+   "cross-site-itt-effect-variation-16-multisite-rcts": {
+    "claims": [
+     {
+      "slug": "cross-site-variation-implications-trial-precision"
+     },
+     {
+      "slug": "hypotheses-predicting-cross-site-impact-variation"
+     },
+     {
+      "slug": "varying-effects-methods-rct-and-quasi-experimental"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "multisite-rct-design-average-and-variation",
+      "strength": "M"
+     }
+    ]
+   },
+   "cross-site-variation-implications-trial-precision": {
+    "claims": [
+     {
+      "slug": "cross-site-itt-effect-variation-16-multisite-rcts"
+     },
+     {
+      "slug": "hypotheses-predicting-cross-site-impact-variation"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "multisite-rct-design-average-and-variation",
+      "strength": "W"
      }
     ]
    },
@@ -46338,6 +46909,9 @@
     "claims": [
      {
       "slug": "vip-potentially-positive-reading-achievement"
+     },
+     {
+      "slug": "wwc-design-exclusions-decreasing-over-time"
      }
     ],
     "elements": [
@@ -46611,6 +47185,9 @@
      },
      {
       "slug": "earobics-positive-effects-alphabetics"
+     },
+     {
+      "slug": "evidence-reviews-reserve-highest-ratings-for-rcts"
      },
      {
       "slug": "foster-1994-daisyquest-significant-both-measures"
@@ -47223,6 +47800,9 @@
      },
      {
       "slug": "pittsburgh-vam-report-2016-documents-district-use"
+     },
+     {
+      "slug": "teacher-team-and-full-roster-methods-produce-similar-estimates"
      }
     ],
     "elements": [
@@ -48515,14 +49095,62 @@
    "default-order-changes-school-choice": {
     "claims": [
      {
+      "slug": "default-sort-academic-performance-shifts-school-choices"
+     },
+     {
+      "slug": "five-design-factors-impact-parent-school-choice-outcomes"
+     },
+     {
+      "slug": "icons-concise-summaries-higher-performing-schools"
+     },
+     {
+      "slug": "school-info-presentation-affects-school-rankings"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "online-school-chooser-tool-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "school-choice-website-factorial-experiment",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "school-choice-architecture-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "default-sort-academic-performance-shifts-school-choices": {
+    "claims": [
+     {
+      "slug": "default-order-changes-school-choice"
+     },
+     {
+      "slug": "five-design-factors-impact-parent-school-choice-outcomes"
+     },
+     {
       "slug": "icons-concise-summaries-higher-performing-schools"
      }
     ],
     "elements": [
      {
       "polarity": "+",
-      "slug": "school-choice-website-factorial-experiment",
-      "strength": "M"
+      "slug": "online-school-chooser-tool-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "school-choice-architecture-framework",
+      "strength": "W"
      }
     ]
    },
@@ -48906,16 +49534,103 @@
      }
     ]
    },
+   "democracy-prep-98-percent-probability-positive-civic-impacts": {
+    "claims": [
+     {
+      "slug": "civic-focused-education-boosts-adult-participation"
+     },
+     {
+      "slug": "democracy-prep-charter-schools-boost-student-voting"
+     },
+     {
+      "slug": "democracy-prep-increases-voter-registration-16-points"
+     },
+     {
+      "slug": "democracy-prep-increases-voting-rates-12-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-registration-gain-16-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-voting-gain-12-points"
+     },
+     {
+      "slug": "us-civic-engagement-and-civics-knowledge-fall-short"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "democracy-prep-charter-network",
+      "strength": "M"
+     }
+    ]
+   },
+   "democracy-prep-charter-schools-boost-student-voting": {
+    "claims": [
+     {
+      "slug": "achievement-focused-mission-charter-impacts"
+     },
+     {
+      "slug": "civic-focused-education-boosts-adult-participation"
+     },
+     {
+      "slug": "democracy-prep-98-percent-probability-positive-civic-impacts"
+     },
+     {
+      "slug": "democracy-prep-increases-voter-registration-16-points"
+     },
+     {
+      "slug": "democracy-prep-increases-voting-rates-12-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-registration-gain-16-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-voting-gain-12-points"
+     },
+     {
+      "slug": "us-civic-engagement-and-civics-knowledge-fall-short"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "democracy-prep-charter-network",
+      "strength": "M"
+     }
+    ]
+   },
    "democracy-prep-increases-voter-registration-16-points": {
     "claims": [
      {
       "slug": "civic-focused-education-boosts-adult-participation"
      },
      {
+      "slug": "democracy-prep-98-percent-probability-positive-civic-impacts"
+     },
+     {
+      "slug": "democracy-prep-charter-schools-boost-student-voting"
+     },
+     {
       "slug": "democracy-prep-increases-voting-rates-12-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-registration-gain-16-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-voting-gain-12-points"
+     },
+     {
+      "slug": "us-civic-engagement-and-civics-knowledge-fall-short"
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "democracy-prep-charter-network",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "democracy-prep-public-schools",
@@ -48929,14 +49644,98 @@
       "slug": "civic-focused-education-boosts-adult-participation"
      },
      {
+      "slug": "democracy-prep-98-percent-probability-positive-civic-impacts"
+     },
+     {
+      "slug": "democracy-prep-charter-schools-boost-student-voting"
+     },
+     {
       "slug": "democracy-prep-increases-voter-registration-16-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-registration-gain-16-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-voting-gain-12-points"
+     },
+     {
+      "slug": "us-civic-engagement-and-civics-knowledge-fall-short"
      }
     ],
     "elements": [
      {
       "polarity": "+",
+      "slug": "democracy-prep-charter-network",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "democracy-prep-public-schools",
       "strength": "W"
+     }
+    ]
+   },
+   "democracy-prep-lottery-registration-gain-16-points": {
+    "claims": [
+     {
+      "slug": "civic-focused-education-boosts-adult-participation"
+     },
+     {
+      "slug": "democracy-prep-98-percent-probability-positive-civic-impacts"
+     },
+     {
+      "slug": "democracy-prep-charter-schools-boost-student-voting"
+     },
+     {
+      "slug": "democracy-prep-increases-voter-registration-16-points"
+     },
+     {
+      "slug": "democracy-prep-increases-voting-rates-12-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-voting-gain-12-points"
+     },
+     {
+      "slug": "us-civic-engagement-and-civics-knowledge-fall-short"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "democracy-prep-charter-network",
+      "strength": "M"
+     }
+    ]
+   },
+   "democracy-prep-lottery-voting-gain-12-points": {
+    "claims": [
+     {
+      "slug": "civic-focused-education-boosts-adult-participation"
+     },
+     {
+      "slug": "democracy-prep-98-percent-probability-positive-civic-impacts"
+     },
+     {
+      "slug": "democracy-prep-charter-schools-boost-student-voting"
+     },
+     {
+      "slug": "democracy-prep-increases-voter-registration-16-points"
+     },
+     {
+      "slug": "democracy-prep-increases-voting-rates-12-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-registration-gain-16-points"
+     },
+     {
+      "slug": "us-civic-engagement-and-civics-knowledge-fall-short"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "democracy-prep-charter-network",
+      "strength": "M"
      }
     ]
    },
@@ -48950,6 +49749,9 @@
      },
      {
       "slug": "demographics-unrelated-to-goal-activity"
+     },
+     {
+      "slug": "school-info-presentation-affects-parent-understanding"
      }
     ]
    },
@@ -48960,6 +49762,9 @@
      },
      {
       "slug": "growth-matters-more-when-choosing-between-schools"
+     },
+     {
+      "slug": "school-info-presentation-affects-parent-understanding"
      }
     ]
    },
@@ -49463,6 +50268,72 @@
      }
     ]
    },
+   "design-and-model-based-methods-similar-impact-estimates": {
+    "claims": [
+     {
+      "slug": "cace-variance-formulas-similar-significance-findings"
+     },
+     {
+      "slug": "clustered-rct-estimators-identical-significance-findings"
+     },
+     {
+      "slug": "design-model-differences-no-greater-than-model-model"
+     },
+     {
+      "slug": "group-level-design-based-estimators-match-individual-data-asymptotically"
+     },
+     {
+      "slug": "rct-policy-conclusions-sensitive-to-estimator-choice"
+     }
+    ]
+   },
+   "design-based-advantages-over-model-based-approaches": {
+    "claims": [
+     {
+      "slug": "design-model-differences-no-greater-than-model-model"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "design-based-causal-inference-approach",
+      "strength": "W"
+     }
+    ]
+   },
+   "design-based-estimators-clustered-blocked-designs": {
+    "claims": [
+     {
+      "slug": "appropriate-estimators-derived-for-each-causal-model"
+     },
+     {
+      "slug": "block-weighting-full-randomized-sample-avoids-bias"
+     },
+     {
+      "slug": "gee-sample-size-formulas-clustered-school-rcts"
+     },
+     {
+      "slug": "group-level-design-based-estimators-match-individual-data-asymptotically"
+     },
+     {
+      "slug": "multi-armed-estimators-modify-two-group-estimators"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "empirical-example-multi-armed-education-rct",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "design-based-estimators-multi-armed-rcts",
+      "strength": "W"
+     }
+    ]
+   },
    "design-based-research-roles-compete-and-threaten-credible-claims": {
     "claims": [
      {
@@ -49531,6 +50402,22 @@
       "polarity": "+",
       "slug": "six-theories-of-anthropomorphism",
       "strength": "W"
+     }
+    ]
+   },
+   "design-model-differences-no-greater-than-model-model": {
+    "claims": [
+     {
+      "slug": "clustered-rct-estimators-identical-significance-findings"
+     },
+     {
+      "slug": "design-and-model-based-methods-similar-impact-estimates"
+     },
+     {
+      "slug": "design-based-advantages-over-model-based-approaches"
+     },
+     {
+      "slug": "rct-policy-conclusions-sensitive-to-estimator-choice"
      }
     ]
    },
@@ -51151,6 +52038,22 @@
      }
     ]
    },
+   "disadvantaged-students-disproportionately-exposed-mid-year-entry": {
+    "claims": [
+     {
+      "slug": "mid-year-entry-effects-not-driven-by-entrant-characteristics"
+     },
+     {
+      "slug": "mid-year-entry-negative-math-effects-persist-beyond-exposure-year"
+     },
+     {
+      "slug": "mid-year-entry-small-negative-short-run-effects-stable-students"
+     },
+     {
+      "slug": "sparse-research-spillovers-mid-year-entry-stable-classmates"
+     }
+    ]
+   },
    "disadvantaged-students-lack-vocabulary-and-comprehension-strategies": {
     "claims": [
      {
@@ -51588,6 +52491,9 @@
    "display-design-understanding-satisfaction-ease": {
     "claims": [
      {
+      "slug": "five-design-factors-impact-parent-school-choice-outcomes"
+     },
+     {
       "slug": "icons-concise-summaries-higher-performing-schools"
      },
      {
@@ -51595,6 +52501,9 @@
      },
      {
       "slug": "points-possible-improves-score-understanding"
+     },
+     {
+      "slug": "school-info-presentation-affects-school-rankings"
      }
     ],
     "elements": [
@@ -51602,6 +52511,13 @@
       "polarity": "+",
       "slug": "school-choice-website-factorial-experiment",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "school-choice-architecture-framework",
+      "strength": "W"
      }
     ]
    },
@@ -52210,6 +53126,26 @@
      },
      {
       "slug": "essa-performance-data-support-effective-teaching"
+     }
+    ]
+   },
+   "districts-lack-blended-learning-evidence-and-implementation-guidance": {
+    "claims": [
+     {
+      "slug": "saga-blended-tutoring-test-score-impacts-mixed"
+     },
+     {
+      "slug": "saga-implementation-engagement-challenges"
+     },
+     {
+      "slug": "saga-tutoring-improves-math-grades"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "blended-learning-impacts-implementation-infographic",
+      "strength": "W"
      }
     ]
    },
@@ -54042,6 +54978,23 @@
      }
     ]
    },
+   "each-accountability-form-favorable-or-unfavorable-effects": {
+    "claims": [
+     {
+      "slug": "adlab-students-perceived-adk-jump-and-authentic-practice"
+     },
+     {
+      "slug": "tbl-survey-above-neutral"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-forms-accountability-taxonomy-education",
+      "strength": "W"
+     }
+    ]
+   },
    "early-and-later-stage-complementarity-null-by-outcome": {
     "claims": [
      {
@@ -55807,6 +56760,35 @@
      }
     ]
    },
+   "educators-receptive-to-feedback-and-compensation-strategies": {
+    "claims": [
+     {
+      "slug": "chicago-tap-incomplete-implementation-pay-value-added"
+     },
+     {
+      "slug": "chicago-tap-increased-mentoring-promotion-compensation"
+     },
+     {
+      "slug": "chicago-tap-no-student-achievement-impact"
+     },
+     {
+      "slug": "chicago-tap-year-two-impact-evaluation"
+     },
+     {
+      "slug": "pay-for-performance-implementation-gap-bonus-unawareness"
+     },
+     {
+      "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tif-performance-feedback-and-pay-for-performance-strategies",
+      "strength": "W"
+     }
+    ]
+   },
    "ee-discourses-restricted-conservation-preservation": {
     "claims": [
      {
@@ -55913,6 +56895,41 @@
       "polarity": "+",
       "slug": "irt-framework-scale-development",
       "strength": "W"
+     }
+    ]
+   },
+   "effect-defined-as-statistically-significant-group-difference": {
+    "claims": [
+     {
+      "slug": "clark-2013-tfa-secondary-math-rct-positive"
+     },
+     {
+      "slug": "clark-2015-elementary-tfa-indeterminate"
+     },
+     {
+      "slug": "cooperative-learning-nonsignificant-moderators"
+     },
+     {
+      "slug": "crain-thoreson-dale-1999-parent-led-null-effects"
+     },
+     {
+      "slug": "home-visit-frequency-associated-with-goal-setting"
+     },
+     {
+      "slug": "lips-potentially-positive-alphabetics-learning-disabilities"
+     },
+     {
+      "slug": "reading-go-positive-decoding-word-reading-outcomes"
+     },
+     {
+      "slug": "wwc-corrections-eliminate-author-reported-significance"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "statistical-significance-effect-criterion",
+      "strength": "M"
      }
     ]
    },
@@ -56403,6 +57420,26 @@
       "polarity": "~",
       "slug": "spaced-learning",
       "strength": "M"
+     }
+    ]
+   },
+   "eight-of-ten-dimensions-common-across-five-observation-instruments": {
+    "claims": [
+     {
+      "slug": "classroom-management-dimension-strongest-value-added-relationship"
+     },
+     {
+      "slug": "observation-dimensions-modestly-significantly-related-to-value-added"
+     },
+     {
+      "slug": "student-characteristics-affect-observation-results-more-in-ela-than-math"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "met-project-data-five-instrument-comparison",
+      "strength": "W"
      }
     ]
    },
@@ -57380,6 +58417,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "nlts-2012-dataset-design-documentation",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "nlts-2012-national-longitudinal-transition-study",
       "strength": "W"
      }
@@ -57404,6 +58446,11 @@
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "nlts-2012-dataset-design-documentation",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "nlts-2012-national-longitudinal-transition-study",
@@ -58259,6 +59306,40 @@
       "polarity": "+",
       "slug": "five-dimensions-affective-development-preschool",
       "strength": "W"
+     }
+    ]
+   },
+   "empirical-bayes-shrinkage-for-proxy-pretest-bias": {
+    "claims": [
+     {
+      "slug": "hard-to-predict-students-less-precise-teacher-va-estimates"
+     },
+     {
+      "slug": "low-prior-achievement-free-lunch-teachers-less-precise-va"
+     },
+     {
+      "slug": "proxy-pretest-difference-driven-by-bias-not-precision"
+     },
+     {
+      "slug": "proxy-pretest-estimates-biased-but-informative"
+     },
+     {
+      "slug": "shrinkage-differential-impact-concern"
+     },
+     {
+      "slug": "shrinkage-increases-precision-reduces-absolute-va"
+     },
+     {
+      "slug": "shrinkage-leaves-accountability-consequences-unchanged"
+     },
+     {
+      "slug": "shrinkage-no-significant-effect-consequences-hard-to-predict"
+     },
+     {
+      "slug": "shrinkage-no-significant-effect-extreme-ratings"
+     },
+     {
+      "slug": "teacher-team-and-full-roster-methods-produce-similar-estimates"
      }
     ]
    },
@@ -60016,6 +61097,15 @@
      }
     ]
    },
+   "esea-flexibility-narrowed-accountability-focus": {
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "title-i-title-iia-implementation-study-2013-14",
+      "strength": "W"
+     }
+    ]
+   },
    "esl-learners-positive-perceptions-asr-writing": {
     "claims": [
      {
@@ -60169,6 +61259,11 @@
       "polarity": "+",
       "slug": "essa-transition-title-i-title-ii-a-survey",
       "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "title-i-title-iia-implementation-study-2013-14",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -60269,6 +61364,9 @@
      },
      {
       "slug": "personal-ethic-of-care-transferred-from-motherhood"
+     },
+     {
+      "slug": "principal-role-expanded-beyond-administrative-oversight"
      },
      {
       "slug": "principals-maintain-connectedness-despite-bureaucracy"
@@ -60572,6 +61670,19 @@
       "polarity": "+",
       "slug": "evidence-review-function-framework",
       "strength": "W"
+     }
+    ]
+   },
+   "evidence-reviews-reserve-highest-ratings-for-rcts": {
+    "claims": [
+     {
+      "slug": "cal-learn-evidence-standards-reservations-attrition"
+     },
+     {
+      "slug": "daisyquest-positive-effects-phonological-processing"
+     },
+     {
+      "slug": "future-forward-rct-literacy-gains"
      }
     ]
    },
@@ -70025,6 +71136,9 @@
       "slug": "parent-involvement-increased-three-years"
      },
      {
+      "slug": "principal-role-expanded-beyond-administrative-oversight"
+     },
+     {
       "slug": "principals-maintain-connectedness-despite-bureaucracy"
      }
     ],
@@ -70099,6 +71213,9 @@
    "few-districts-aligned-bonuses-with-tif-guidance": {
     "claims": [
      {
+      "slug": "performance-feedback-and-pay-for-performance-improve-achievement"
+     },
+     {
       "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
      },
      {
@@ -70108,6 +71225,9 @@
       "slug": "tif-bonuses-reading-gain-one-percentile"
      },
      {
+      "slug": "tif-implementation-sustained-but-bonus-continuation-uncertain"
+     },
+     {
       "slug": "tif-pay-for-performance-small-positive-achievement-impacts"
      }
     ],
@@ -70115,6 +71235,16 @@
      {
       "polarity": "~",
       "slug": "teacher-incentive-fund-grant-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "teacher-incentive-fund-performance-compensation-grants",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "tif-performance-feedback-and-pay-for-performance-strategies",
       "strength": "W"
      },
      {
@@ -70879,6 +72009,9 @@
    "first-nationwide-online-charter-operations-survey-127-principals": {
     "claims": [
      {
+      "slug": "charter-sector-growth-nearly-7000-schools"
+     },
+     {
       "slug": "few-prior-studies-online-instruction-operations-effects"
      },
      {
@@ -71098,6 +72231,9 @@
    "five-cmos-approaches-improve-achievement": {
     "claims": [
      {
+      "slug": "achievement-focused-mission-charter-impacts"
+     },
+     {
       "slug": "cmo-impact-linked-intense-teacher-coaching"
      },
      {
@@ -71121,6 +72257,56 @@
       "polarity": "+",
       "slug": "cmo-effectiveness-evaluation-project",
       "strength": "W"
+     }
+    ]
+   },
+   "five-design-factors-impact-parent-school-choice-outcomes": {
+    "claims": [
+     {
+      "slug": "bayesian-72-arm-half-sample-size-classical"
+     },
+     {
+      "slug": "bayesian-partial-pooling-precision-false-positive-control"
+     },
+     {
+      "slug": "classical-inference-prohibitive-sample-sizes-factorial"
+     },
+     {
+      "slug": "default-order-changes-school-choice"
+     },
+     {
+      "slug": "default-sort-academic-performance-shifts-school-choices"
+     },
+     {
+      "slug": "display-design-understanding-satisfaction-ease"
+     },
+     {
+      "slug": "icons-concise-summaries-higher-performing-schools"
+     },
+     {
+      "slug": "school-info-presentation-affects-school-rankings"
+     },
+     {
+      "slug": "seventy-two-arms-classical-double-sample-size"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "online-school-chooser-tool-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "school-choice-info-presentation-guide",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "school-choice-architecture-framework",
+      "strength": "M"
      }
     ]
    },
@@ -73191,6 +74377,9 @@
     "claims": [
      {
       "slug": "frtf-synthesis-46-frameworks-12-talents"
+     },
+     {
+      "slug": "peer-reviewed-and-industry-research-soft-skills-employers-seek"
      }
     ],
     "principles": [
@@ -73258,6 +74447,11 @@
       "polarity": "+",
       "slug": "common-language-talent-framework-wil-stakeholders",
       "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "knowledge-organization",
+      "strength": "W"
      }
     ],
     "theories": [
@@ -73405,6 +74599,31 @@
       "polarity": "+",
       "slug": "lightbody-equality-framework-cel",
       "strength": "W"
+     }
+    ]
+   },
+   "full-implementation-schools-peer-outcomes-unaffected": {
+    "claims": [
+     {
+      "slug": "partial-implementation-schools-peer-outcomes-declined"
+     },
+     {
+      "slug": "philadelphia-classroom-disorder-oss-ban-reduced-suspensions"
+     },
+     {
+      "slug": "philadelphia-reform-math-ela-achievement-declined"
+     },
+     {
+      "slug": "philadelphia-reform-modest-decline-nonviolent-suspensions"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
+     },
+     {
+      "slug": "suspension-reform-improved-attendance-not-achievement"
+     },
+     {
+      "slug": "suspensions-more-salient-for-suspended-students-than-peers"
      }
     ]
    },
@@ -73908,6 +75127,9 @@
    },
    "future-forward-rct-literacy-gains": {
     "claims": [
+     {
+      "slug": "evidence-reviews-reserve-highest-ratings-for-rcts"
+     },
      {
       "slug": "ff-prior-rct-literacy-attendance-impacts"
      },
@@ -74860,6 +76082,9 @@
       "slug": "40-60-schools-insufficient-binary-outcomes"
      },
      {
+      "slug": "design-based-estimators-clustered-blocked-designs"
+     },
+     {
       "slug": "pn-rct-design-issues-random-assignment-power-confounding"
      },
      {
@@ -75279,6 +76504,9 @@
      },
      {
       "slug": "generation-no-overall-knowledge-effect-l2-vocabulary"
+     },
+     {
+      "slug": "multi-armed-multiple-comparison-adjustments"
      }
     ],
     "elements": [
@@ -77104,6 +78332,12 @@
       "slug": "cace-variance-formulas-similar-significance-findings"
      },
      {
+      "slug": "design-and-model-based-methods-similar-impact-estimates"
+     },
+     {
+      "slug": "design-based-estimators-clustered-blocked-designs"
+     },
+     {
       "slug": "rd-replication-matches-experimental-estimates-two-interventions"
      }
     ],
@@ -77416,6 +78650,19 @@
      },
      {
       "slug": "status-matters-more-than-achievement-quality-evaluation"
+     }
+    ]
+   },
+   "growth-measures-combined-with-observations-in-evaluation": {
+    "claims": [
+     {
+      "slug": "accountability-features-combined-make-middle-schools-more-likely-tsi"
+     },
+     {
+      "slug": "k3-growth-measure-validity-precision-caution"
+     },
+     {
+      "slug": "maryland-lacked-k3-growth-measure-essa-need"
      }
     ]
    },
@@ -78266,6 +79513,9 @@
    "hard-to-predict-students-less-precise-teacher-va-estimates": {
     "claims": [
      {
+      "slug": "empirical-bayes-shrinkage-for-proxy-pretest-bias"
+     },
+     {
       "slug": "k3-growth-measure-validity-precision-caution"
      },
      {
@@ -78424,6 +79674,13 @@
       "polarity": "-",
       "slug": "head-start-program-element",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "statistical-significance-effect-criterion",
+      "strength": "W"
      }
     ]
    },
@@ -78587,6 +79844,256 @@
      },
      {
       "slug": "belonging-interventions-improve-outcomes"
+     }
+    ]
+   },
+   "healthy-harlem-bmi-reduction-baseline-overweight-get-fit-prevention": {
+    "claims": [
+     {
+      "slug": "healthy-harlem-fitness-gains-vary-by-gender"
+     },
+     {
+      "slug": "healthy-harlem-get-fit-prevention-pacer-increases"
+     },
+     {
+      "slug": "healthy-harlem-self-efficacy-social-support-impacts"
+     }
+    ],
+    "designs": [
+     {
+      "polarity": "+",
+      "slug": "universal-prevention-plus-targeted-intensive-tier-pattern",
+      "strength": "M"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "get-fit-and-prevention-components",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-initiative-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "healthy-harlem-fitness-gains-vary-by-gender": {
+    "claims": [
+     {
+      "slug": "healthy-harlem-bmi-reduction-baseline-overweight-get-fit-prevention"
+     },
+     {
+      "slug": "healthy-harlem-get-fit-prevention-pacer-increases"
+     },
+     {
+      "slug": "healthy-harlem-hfz-gains-larger-for-boys"
+     },
+     {
+      "slug": "healthy-harlem-hfz-percentage-greater-than-baseline"
+     },
+     {
+      "slug": "healthy-harlem-self-efficacy-social-support-impacts"
+     },
+     {
+      "slug": "healthy-harlem-sustained-nutrition-knowledge-self-efficacy-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "get-fit-and-prevention-components",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-initiative-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "healthy-harlem-get-fit-prevention-pacer-increases": {
+    "claims": [
+     {
+      "slug": "healthy-harlem-bmi-reduction-baseline-overweight-get-fit-prevention"
+     },
+     {
+      "slug": "healthy-harlem-fitness-gains-vary-by-gender"
+     },
+     {
+      "slug": "healthy-harlem-hfz-percentage-greater-than-baseline"
+     },
+     {
+      "slug": "healthy-harlem-self-efficacy-social-support-impacts"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "get-fit-and-prevention-components",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-initiative-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "healthy-harlem-hfz-gains-larger-for-boys": {
+    "claims": [
+     {
+      "slug": "healthy-harlem-fitness-gains-vary-by-gender"
+     },
+     {
+      "slug": "healthy-harlem-hfz-percentage-greater-than-baseline"
+     },
+     {
+      "slug": "healthy-harlem-self-efficacy-social-support-impacts"
+     },
+     {
+      "slug": "healthy-harlem-sustained-nutrition-knowledge-self-efficacy-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "get-fit-and-prevention-components",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "healthy-harlem-initiative-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "healthy-harlem-hfz-percentage-greater-than-baseline": {
+    "claims": [
+     {
+      "slug": "healthy-harlem-fitness-gains-vary-by-gender"
+     },
+     {
+      "slug": "healthy-harlem-get-fit-prevention-pacer-increases"
+     },
+     {
+      "slug": "healthy-harlem-hfz-gains-larger-for-boys"
+     },
+     {
+      "slug": "healthy-harlem-self-efficacy-social-support-impacts"
+     },
+     {
+      "slug": "healthy-harlem-sustained-nutrition-knowledge-self-efficacy-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "get-fit-and-prevention-components",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-initiative-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "healthy-harlem-self-efficacy-social-support-impacts": {
+    "claims": [
+     {
+      "slug": "healthy-harlem-bmi-reduction-baseline-overweight-get-fit-prevention"
+     },
+     {
+      "slug": "healthy-harlem-fitness-gains-vary-by-gender"
+     },
+     {
+      "slug": "healthy-harlem-get-fit-prevention-pacer-increases"
+     },
+     {
+      "slug": "healthy-harlem-hfz-gains-larger-for-boys"
+     },
+     {
+      "slug": "healthy-harlem-hfz-percentage-greater-than-baseline"
+     },
+     {
+      "slug": "healthy-harlem-sustained-nutrition-knowledge-self-efficacy-gains"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "get-fit-and-prevention-components",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-initiative-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-program-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "healthy-harlem-sustained-nutrition-knowledge-self-efficacy-gains": {
+    "claims": [
+     {
+      "slug": "healthy-harlem-fitness-gains-vary-by-gender"
+     },
+     {
+      "slug": "healthy-harlem-hfz-gains-larger-for-boys"
+     },
+     {
+      "slug": "healthy-harlem-hfz-percentage-greater-than-baseline"
+     },
+     {
+      "slug": "healthy-harlem-self-efficacy-social-support-impacts"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "get-fit-and-prevention-components",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-initiative-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "healthy-harlem-program-element",
+      "strength": "W"
      }
     ]
    },
@@ -80075,6 +81582,54 @@
      }
     ]
    },
+   "hiring-transfer-patterns-consistent-small-differences": {
+    "claims": [
+     {
+      "slug": "attrition-does-not-contribute-inequitable-access"
+     },
+     {
+      "slug": "hiring-transfers-not-attrition-drive-inequity"
+     },
+     {
+      "slug": "math-inequity-subset-districts"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers-income"
+     },
+     {
+      "slug": "small-average-effectiveness-differences-by-income"
+     },
+     {
+      "slug": "small-average-effectiveness-differences"
+     }
+    ]
+   },
+   "hiring-transfers-not-attrition-drive-inequity": {
+    "claims": [
+     {
+      "slug": "attrition-does-not-contribute-inequitable-access"
+     },
+     {
+      "slug": "hiring-transfer-patterns-consistent-small-differences"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers-income"
+     },
+     {
+      "slug": "small-average-effectiveness-differences-by-income"
+     },
+     {
+      "slug": "small-average-effectiveness-differences"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "26-district-teacher-effectiveness-dataset",
+      "strength": "M"
+     }
+    ]
+   },
    "hispanic-adults-limited-lcs-awareness-focus-groups": {
     "claims": [
      {
@@ -80485,6 +82040,9 @@
       "slug": "child-development-focus-linked-to-outcomes-and-participation"
      },
      {
+      "slug": "effect-defined-as-statistically-significant-group-difference"
+     },
+     {
       "slug": "enrollment-duration-differs-by-goal-status"
      },
      {
@@ -80588,6 +82146,23 @@
      {
       "polarity": "+",
       "slug": "developing-your-cultural-awareness",
+      "strength": "W"
+     }
+    ]
+   },
+   "homeschooling-equal-across-grade-levels": {
+    "claims": [
+     {
+      "slug": "nhes-homeschooling-growth-1-4-to-3-4-percent"
+     },
+     {
+      "slug": "online-charters-parent-participation-expectations"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "survey-datasets-for-homeschooling-research",
       "strength": "W"
      }
     ]
@@ -81230,6 +82805,23 @@
      }
     ]
    },
+   "hypotheses-predicting-cross-site-impact-variation": {
+    "claims": [
+     {
+      "slug": "cross-site-itt-effect-variation-16-multisite-rcts"
+     },
+     {
+      "slug": "cross-site-variation-implications-trial-precision"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "multisite-rct-design-average-and-variation",
+      "strength": "W"
+     }
+    ]
+   },
    "i3p-calls-plc-implementation-stage-no-significant-differences": {
     "claims": [
      {
@@ -81631,17 +83223,38 @@
       "slug": "default-order-changes-school-choice"
      },
      {
+      "slug": "default-sort-academic-performance-shifts-school-choices"
+     },
+     {
       "slug": "display-design-understanding-satisfaction-ease"
      },
      {
+      "slug": "five-design-factors-impact-parent-school-choice-outcomes"
+     },
+     {
       "slug": "numbers-understanding-graphs-satisfaction-tradeoff"
+     },
+     {
+      "slug": "school-info-presentation-affects-school-rankings"
      }
     ],
     "elements": [
      {
       "polarity": "+",
+      "slug": "school-choice-info-presentation-guide",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "school-choice-website-factorial-experiment",
       "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "school-choice-architecture-framework",
+      "strength": "W"
      }
     ]
    },
@@ -82164,6 +83777,9 @@
      },
      {
       "slug": "industrial-arts-teacher-education-technical-and-human-sides"
+     },
+     {
+      "slug": "literature-review-challenges-evidence-use-policy"
      }
     ],
     "theories": [
@@ -82225,6 +83841,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "nlts-2012-dataset-design-documentation",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "nlts-2012-dataset",
       "strength": "W"
      },
@@ -82260,6 +83881,11 @@
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "nlts-2012-dataset-design-documentation",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "nlts-2012-dataset",
@@ -82369,6 +83995,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "nlts-2012-dataset-design-documentation",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "nlts-2012-dataset",
       "strength": "W"
      },
@@ -82451,6 +84082,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "nlts-2012-dataset-design-documentation",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "nlts-2012-dataset",
       "strength": "W"
      },
@@ -82502,6 +84138,11 @@
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "nlts-2012-dataset-design-documentation",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "nlts-2012-dataset",
@@ -86915,6 +88556,40 @@
      }
     ]
    },
+   "interview-barriers-evidence-use-government": {
+    "claims": [
+     {
+      "slug": "interview-facilitators-evidence-use"
+     },
+     {
+      "slug": "resource-mismatch-and-support-discontinuity-constrain-transfer"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "policy-analysis-decision-making-capacity-project",
+      "strength": "W"
+     }
+    ]
+   },
+   "interview-facilitators-evidence-use": {
+    "claims": [
+     {
+      "slug": "interview-barriers-evidence-use-government"
+     },
+     {
+      "slug": "literature-review-challenges-evidence-use-policy"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "policy-analysis-decision-making-capacity-project",
+      "strength": "W"
+     }
+    ]
+   },
    "interview-perceptions-problem-solving-plan-steps": {
     "claims": [
      {
@@ -88578,6 +90253,9 @@
       "slug": "correlational-design-limits-epistemic-freedom-study"
      },
      {
+      "slug": "growth-measures-combined-with-observations-in-evaluation"
+     },
+     {
       "slug": "hard-to-predict-students-less-precise-teacher-va-estimates"
      },
      {
@@ -88755,6 +90433,9 @@
      },
      {
       "slug": "kipp-rct-lottery-positive-effects"
+     },
+     {
+      "slug": "urban-charter-schools-more-positive-achievement-impacts"
      }
     ],
     "elements": [
@@ -89956,6 +91637,9 @@
      },
      {
       "slug": "kipp-rct-lottery-positive-effects"
+     },
+     {
+      "slug": "urban-charter-schools-more-positive-achievement-impacts"
      }
     ],
     "elements": [
@@ -90097,6 +91781,9 @@
      },
      {
       "slug": "kipp-potentially-positive-science"
+     },
+     {
+      "slug": "urban-charter-schools-more-positive-achievement-impacts"
      }
     ],
     "elements": [
@@ -90335,6 +92022,9 @@
      },
      {
       "slug": "tfa-potentially-positive-science-effects"
+     },
+     {
+      "slug": "urban-charter-schools-more-positive-achievement-impacts"
      }
     ],
     "elements": [
@@ -92253,6 +93943,9 @@
      },
      {
       "slug": "late-pretest-variance-bias-tradeoff"
+     },
+     {
+      "slug": "rct-gold-standard-randomization-logic"
      }
     ],
     "theories": [
@@ -92287,6 +93980,9 @@
      },
      {
       "slug": "late-pretest-variance-bias-tradeoff"
+     },
+     {
+      "slug": "rct-gold-standard-randomization-logic"
      }
     ],
     "theories": [
@@ -92678,6 +94374,27 @@
       "polarity": "+",
       "slug": "mise-systemic-reform-strategy",
       "strength": "M"
+     }
+    ]
+   },
+   "leadership-central-rapid-school-improvement": {
+    "claims": [
+     {
+      "slug": "balanced-leadership-retention-not-statistically-significant"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "turnaround-leaders-competencies-infographic",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-domains-rapid-school-improvement-framework",
+      "strength": "W"
      }
     ]
    },
@@ -95671,6 +97388,9 @@
    "lips-potentially-positive-alphabetics-learning-disabilities": {
     "claims": [
      {
+      "slug": "effect-defined-as-statistically-significant-group-difference"
+     },
+     {
       "slug": "lips-evidence-base-small-one-rct"
      },
      {
@@ -95934,6 +97654,9 @@
       "slug": "personal-ethic-of-care-transferred-from-motherhood"
      },
      {
+      "slug": "principal-role-expanded-beyond-administrative-oversight"
+     },
+     {
       "slug": "principals-maintain-connectedness-despite-bureaucracy"
      }
     ],
@@ -96192,6 +97915,13 @@
       "slug": "literacy-first-tutoring-program-element",
       "strength": "W"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "multisite-rct-design-average-and-variation",
+      "strength": "W"
+     }
     ]
    },
    "literacy-first-grade3-staar-follow-up": {
@@ -96302,6 +98032,23 @@
      {
       "polarity": "+",
       "slug": "active-ingredients-coaching-conceptual-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "literature-review-challenges-evidence-use-policy": {
+    "claims": [
+     {
+      "slug": "iei-implementation-gaps-boundary-conditions"
+     },
+     {
+      "slug": "interview-facilitators-evidence-use"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "policy-analysis-decision-making-capacity-project",
       "strength": "W"
      }
     ]
@@ -97585,6 +99332,19 @@
      }
     ]
    },
+   "long-school-days-years-charter-impacts": {
+    "claims": [
+     {
+      "slug": "achievement-focused-mission-charter-impacts"
+     },
+     {
+      "slug": "behavioral-policies-rewards-sanctions-charter-impacts"
+     },
+     {
+      "slug": "shared-mission-vision-goals-critical-districts-cmos"
+     }
+    ]
+   },
    "longer-exposure-improves-free-recall-no-interaction": {
     "claims": [
      {
@@ -97663,6 +99423,9 @@
      },
      {
       "slug": "sdp-ep-year1-agencies-began-partnership"
+     },
+     {
+      "slug": "seed-partnership-project-knowledge-sharing-partnerships"
      },
      {
       "slug": "similar-data-capacity-sdp-ep-agencies"
@@ -98143,6 +99906,9 @@
    },
    "low-prior-achievement-free-lunch-teachers-less-precise-va": {
     "claims": [
+     {
+      "slug": "empirical-bayes-shrinkage-for-proxy-pretest-bias"
+     },
      {
       "slug": "hard-to-predict-students-less-precise-teacher-va-estimates"
      },
@@ -99398,6 +101164,28 @@
      }
     ]
    },
+   "many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses": {
+    "claims": [
+     {
+      "slug": "partial-implementation-schools-peer-outcomes-declined"
+     },
+     {
+      "slug": "philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses"
+     },
+     {
+      "slug": "philadelphia-classroom-disorder-oss-ban-reduced-suspensions"
+     },
+     {
+      "slug": "philadelphia-discipline-reform-implementation-varied-significantly"
+     },
+     {
+      "slug": "philadelphia-reform-modest-decline-nonviolent-suspensions"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
+     }
+    ]
+   },
    "many-students-enter-school-poor-math-skills": {
     "claims": [
      {
@@ -99684,6 +101472,9 @@
    },
    "maryland-lacked-k3-growth-measure-essa-need": {
     "claims": [
+     {
+      "slug": "growth-measures-combined-with-observations-in-evaluation"
+     },
      {
       "slug": "k3-growth-less-valid-than-grade3-4-similar-precision"
      },
@@ -100670,6 +102461,35 @@
      }
     ]
    },
+   "math-inequity-subset-districts": {
+    "claims": [
+     {
+      "slug": "hiring-transfer-patterns-consistent-small-differences"
+     },
+     {
+      "slug": "meaningful-math-inequity-subset-districts"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers-income"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers"
+     },
+     {
+      "slug": "small-average-effectiveness-differences-by-income"
+     },
+     {
+      "slug": "small-average-effectiveness-differences"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "26-district-teacher-effectiveness-dataset",
+      "strength": "M"
+     }
+    ]
+   },
    "math-program-implementation-similarity-may-explain-null-effect": {
     "claims": [
      {
@@ -101183,6 +103003,22 @@
      }
     ]
    },
+   "meaningful-math-inequity-subset-districts": {
+    "claims": [
+     {
+      "slug": "math-inequity-subset-districts"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers"
+     },
+     {
+      "slug": "small-average-effectiveness-differences-by-income"
+     },
+     {
+      "slug": "small-average-effectiveness-differences"
+     }
+    ]
+   },
    "meanings-grow-out-of-social-intercourse": {
     "claims": [
      {
@@ -101414,6 +103250,9 @@
      },
      {
       "slug": "multimedia-principle-words-and-pictures-outcomes"
+     },
+     {
+      "slug": "school-info-presentation-affects-parent-understanding"
      }
     ],
     "elements": [
@@ -103431,6 +105270,9 @@
    "methods-assess-impact-variation-across-students-educators-schools": {
     "claims": [
      {
+      "slug": "blended-learning-effects-vary-by-intervention-and-domain"
+     },
+     {
       "slug": "post-intervention-mediator-subgroup-analyses"
      },
      {
@@ -103651,6 +105493,73 @@
       "polarity": "+",
       "slug": "dct-account-video-l2-comprehension",
       "strength": "M"
+     }
+    ]
+   },
+   "mid-year-entry-effects-larger-asian-non-frl-students": {
+    "claims": [
+     {
+      "slug": "mid-year-entry-effects-not-driven-by-entrant-characteristics"
+     },
+     {
+      "slug": "mid-year-entry-negative-math-effects-persist-beyond-exposure-year"
+     },
+     {
+      "slug": "sparse-research-spillovers-mid-year-entry-stable-classmates"
+     }
+    ]
+   },
+   "mid-year-entry-effects-not-driven-by-entrant-characteristics": {
+    "claims": [
+     {
+      "slug": "disadvantaged-students-disproportionately-exposed-mid-year-entry"
+     },
+     {
+      "slug": "mid-year-entry-effects-larger-asian-non-frl-students"
+     },
+     {
+      "slug": "mid-year-entry-negative-math-effects-persist-beyond-exposure-year"
+     },
+     {
+      "slug": "mid-year-entry-small-negative-short-run-effects-stable-students"
+     },
+     {
+      "slug": "sparse-research-spillovers-mid-year-entry-stable-classmates"
+     }
+    ]
+   },
+   "mid-year-entry-negative-math-effects-persist-beyond-exposure-year": {
+    "claims": [
+     {
+      "slug": "disadvantaged-students-disproportionately-exposed-mid-year-entry"
+     },
+     {
+      "slug": "mid-year-entry-effects-larger-asian-non-frl-students"
+     },
+     {
+      "slug": "mid-year-entry-effects-not-driven-by-entrant-characteristics"
+     },
+     {
+      "slug": "mid-year-entry-small-negative-short-run-effects-stable-students"
+     },
+     {
+      "slug": "sparse-research-spillovers-mid-year-entry-stable-classmates"
+     }
+    ]
+   },
+   "mid-year-entry-small-negative-short-run-effects-stable-students": {
+    "claims": [
+     {
+      "slug": "disadvantaged-students-disproportionately-exposed-mid-year-entry"
+     },
+     {
+      "slug": "mid-year-entry-effects-not-driven-by-entrant-characteristics"
+     },
+     {
+      "slug": "mid-year-entry-negative-math-effects-persist-beyond-exposure-year"
+     },
+     {
+      "slug": "sparse-research-spillovers-mid-year-entry-stable-classmates"
      }
     ]
    },
@@ -106358,6 +108267,26 @@
      }
     ]
    },
+   "most-states-adopted-college-career-readiness-standards-2013-14": {
+    "claims": [
+     {
+      "slug": "standards-adoption-voluntary-local-guides"
+     },
+     {
+      "slug": "state-assessments-sophisticated-response-formats"
+     },
+     {
+      "slug": "state-educator-evaluation-laws-district-implementation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "title-i-title-iia-implementation-study-2013-14",
+      "strength": "W"
+     }
+    ]
+   },
    "mother-tongue-affects-sla-production": {
     "claims": [
      {
@@ -106902,6 +108831,84 @@
      {
       "polarity": "+",
       "slug": "ordinal-scales-disentangle-development-from-age",
+      "strength": "W"
+     }
+    ]
+   },
+   "multi-armed-cace-complex-assumptions": {
+    "claims": [
+     {
+      "slug": "pairwise-contrast-samples-represent-full-randomized-set"
+     },
+     {
+      "slug": "variance-adjustment-reduces-precision-multi-armed"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "multi-armed-rct-design-based-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "multi-armed-estimators-modify-two-group-estimators": {
+    "claims": [
+     {
+      "slug": "block-weighting-full-randomized-sample-avoids-bias"
+     },
+     {
+      "slug": "design-based-estimators-clustered-blocked-designs"
+     },
+     {
+      "slug": "multi-armed-multiple-comparison-adjustments"
+     },
+     {
+      "slug": "pairwise-contrast-samples-represent-full-randomized-set"
+     },
+     {
+      "slug": "variance-adjustment-reduces-precision-multi-armed"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "empirical-example-multi-armed-education-rct",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "design-based-estimators-multi-armed-rcts",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "multi-armed-rct-design-based-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "multi-armed-multiple-comparison-adjustments": {
+    "claims": [
+     {
+      "slug": "generation-no-pairwise-differences-knowledge"
+     },
+     {
+      "slug": "multi-armed-estimators-modify-two-group-estimators"
+     },
+     {
+      "slug": "multiple-testing-corrections-reduce-power"
+     },
+     {
+      "slug": "pairwise-contrast-samples-represent-full-randomized-set"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "multi-armed-rct-design-based-framework",
       "strength": "W"
      }
     ]
@@ -107603,6 +109610,9 @@
    "multiple-testing-corrections-reduce-power": {
     "claims": [
      {
+      "slug": "multi-armed-multiple-comparison-adjustments"
+     },
+     {
       "slug": "researcher-disagreement-multiple-testing-tradeoff"
      }
     ],
@@ -107711,6 +109721,9 @@
      },
      {
       "slug": "school-value-added-poor-information-principal-effectiveness"
+     },
+     {
+      "slug": "student-growth-measures-describe-test-score-gains"
      },
      {
       "slug": "two-analysis-approach-principal-measure-accuracy"
@@ -108528,6 +110541,69 @@
       "polarity": "+",
       "slug": "indigenous-hl2-motivation-framework-te-huia",
       "strength": "M"
+     }
+    ]
+   },
+   "nhes-2012-homeschooling-range-3-0-to-3-9": {
+    "claims": [
+     {
+      "slug": "nhes-homeschooling-growth-1-4-to-3-4-percent"
+     },
+     {
+      "slug": "nhes-response-bias-may-overstate-homeschooling-growth"
+     },
+     {
+      "slug": "nsch-wisconsin-diverge-from-nhes-after-2007"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "survey-datasets-for-homeschooling-research",
+      "strength": "W"
+     }
+    ]
+   },
+   "nhes-homeschooling-growth-1-4-to-3-4-percent": {
+    "claims": [
+     {
+      "slug": "homeschooling-equal-across-grade-levels"
+     },
+     {
+      "slug": "nhes-2012-homeschooling-range-3-0-to-3-9"
+     },
+     {
+      "slug": "nhes-response-bias-may-overstate-homeschooling-growth"
+     },
+     {
+      "slug": "nsch-wisconsin-diverge-from-nhes-after-2007"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "survey-datasets-for-homeschooling-research",
+      "strength": "W"
+     }
+    ]
+   },
+   "nhes-response-bias-may-overstate-homeschooling-growth": {
+    "claims": [
+     {
+      "slug": "nhes-2012-homeschooling-range-3-0-to-3-9"
+     },
+     {
+      "slug": "nhes-homeschooling-growth-1-4-to-3-4-percent"
+     },
+     {
+      "slug": "nsch-wisconsin-diverge-from-nhes-after-2007"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "survey-datasets-for-homeschooling-research",
+      "strength": "W"
      }
     ]
    },
@@ -109407,6 +111483,32 @@
      }
     ]
    },
+   "no-identified-blended-learning-implementation-strategies": {
+    "claims": [
+     {
+      "slug": "saga-blended-tutoring-test-score-impacts-mixed"
+     },
+     {
+      "slug": "saga-implementation-engagement-challenges"
+     },
+     {
+      "slug": "saga-tutoring-improves-math-grades"
+     },
+     {
+      "slug": "saga-tutoring-larger-impacts-lower-prior-achievement"
+     },
+     {
+      "slug": "saga-tutoring-small-negative-attendance-impact"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "blended-learning-impacts-implementation-infographic",
+      "strength": "W"
+     }
+    ]
+   },
    "no-incongruence-to-congruence-transition-across-therapy-sessions": {
     "claims": [
      {
@@ -109968,6 +112070,9 @@
      },
      {
       "slug": "biglan-subtypes-engaged-scholarship"
+     },
+     {
+      "slug": "null-findings-require-interpretation-of-causes"
      }
     ],
     "principles": [
@@ -110223,6 +112328,13 @@
       "slug": "explicit-instruction-math-strategies",
       "strength": "M"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "statistical-significance-effect-criterion",
+      "strength": "W"
+     }
     ]
    },
    "no-treatment-moderators-eb-pretest-attendance": {
@@ -110361,6 +112473,19 @@
      },
      {
       "slug": "reformed-pedagogy-content-gains-but-no-reasoning-gains"
+     }
+    ]
+   },
+   "non-surveyed-students-did-not-respond-to-signal": {
+    "claims": [
+     {
+      "slug": "ability-signal-increases-ap-participation-49-points"
+     },
+     {
+      "slug": "ability-signal-informational-value-bayesian-updating"
+     },
+     {
+      "slug": "ability-signal-one-more-ap-course"
      }
     ]
    },
@@ -110733,6 +112858,16 @@
      }
     ]
    },
+   "not-all-programs-rct-evaluable-nonexperimental-needed": {
+    "claims": [
+     {
+      "slug": "rct-gold-standard-randomization-logic"
+     },
+     {
+      "slug": "varying-effects-methods-rct-and-quasi-experimental"
+     }
+    ]
+   },
    "notetaking-feedback-limits-grammar-resolution": {
     "claims": [
      {
@@ -110949,6 +113084,26 @@
      }
     ]
    },
+   "nsch-wisconsin-diverge-from-nhes-after-2007": {
+    "claims": [
+     {
+      "slug": "nhes-2012-homeschooling-range-3-0-to-3-9"
+     },
+     {
+      "slug": "nhes-homeschooling-growth-1-4-to-3-4-percent"
+     },
+     {
+      "slug": "nhes-response-bias-may-overstate-homeschooling-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "survey-datasets-for-homeschooling-research",
+      "strength": "W"
+     }
+    ]
+   },
    "nsf-strategy-increases-helped-students-busy-normal-queues": {
     "claims": [
      {
@@ -111025,6 +113180,29 @@
      }
     ]
    },
+   "null-findings-require-interpretation-of-causes": {
+    "claims": [
+     {
+      "slug": "bell-elements-causal-attribution-limited"
+     },
+     {
+      "slug": "no-service-learning-reported-rpt-forms"
+     },
+     {
+      "slug": "rct-gold-standard-randomization-logic"
+     },
+     {
+      "slug": "temporal-gap-confounds-motivational-loss-caution"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "evidence-based-teaching-and-scientific-reasoning",
+      "strength": "W"
+     }
+    ]
+   },
    "number-board-games-improve-numerical-knowledge": {
     "claims": [
      {
@@ -111071,6 +113249,9 @@
      },
      {
       "slug": "points-possible-improves-score-understanding"
+     },
+     {
+      "slug": "school-info-presentation-affects-school-rankings"
      }
     ],
     "elements": [
@@ -111292,6 +113473,23 @@
      {
       "polarity": "+",
       "slug": "impersonal-critique-provides-emotional-space",
+      "strength": "W"
+     }
+    ]
+   },
+   "observation-dimensions-modestly-significantly-related-to-value-added": {
+    "claims": [
+     {
+      "slug": "classroom-management-dimension-strongest-value-added-relationship"
+     },
+     {
+      "slug": "eight-of-ten-dimensions-common-across-five-observation-instruments"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "met-project-data-five-instrument-comparison",
       "strength": "W"
      }
     ]
@@ -111758,6 +113956,9 @@
      },
      {
       "slug": "teemss-evidence-qed-with-reservations"
+     },
+     {
+      "slug": "wwc-design-exclusions-decreasing-over-time"
      }
     ],
     "elements": [
@@ -112116,6 +114317,9 @@
    "online-charter-schools-200-schools-200000-students": {
     "claims": [
      {
+      "slug": "charter-sector-growth-nearly-7000-schools"
+     },
+     {
       "slug": "first-nationwide-online-charter-operations-survey-127-principals"
      },
      {
@@ -112243,6 +114447,9 @@
     "claims": [
      {
       "slug": "first-nationwide-online-charter-operations-survey-127-principals"
+     },
+     {
+      "slug": "homeschooling-equal-across-grade-levels"
      },
      {
       "slug": "online-charter-schools-200-schools-200000-students"
@@ -113407,6 +115614,26 @@
      }
     ]
    },
+   "outcome-accountability-one-of-multiple-forms": {
+    "claims": [
+     {
+      "slug": "accountability-effects-depend-on-type-context-task"
+     },
+     {
+      "slug": "accountability-many-forms-different-mechanisms"
+     },
+     {
+      "slug": "school-accountability-multiple-constituencies"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "four-forms-accountability-taxonomy-education",
+      "strength": "M"
+     }
+    ]
+   },
    "outcome-consistency-drives-stable-versus-unstable-attributions": {
     "claims": [
      {
@@ -113776,6 +116003,9 @@
    "pa-attrition-gaps-early-career-charter-large-leas": {
     "claims": [
      {
+      "slug": "attrition-does-not-contribute-inequitable-access"
+     },
+     {
       "slug": "pa-attrition-racial-gaps-grew-except-administrators"
      },
      {
@@ -113788,6 +116018,9 @@
    },
    "pa-attrition-racial-gaps-grew-except-administrators": {
     "claims": [
+     {
+      "slug": "attrition-does-not-contribute-inequitable-access"
+     },
      {
       "slug": "pa-attrition-gaps-early-career-charter-large-leas"
      },
@@ -113928,6 +116161,9 @@
    },
    "pa-staff-attrition-rose-4-to-5-percent-pandemic": {
     "claims": [
+     {
+      "slug": "attrition-does-not-contribute-inequitable-access"
+     },
      {
       "slug": "covid-trauma-adversely-affects-teaching-and-learning"
      },
@@ -114098,6 +116334,49 @@
      {
       "polarity": "~",
       "slug": "social-interdependence",
+      "strength": "W"
+     }
+    ]
+   },
+   "pairwise-contrast-samples-represent-full-randomized-set": {
+    "claims": [
+     {
+      "slug": "block-weighting-full-randomized-sample-avoids-bias"
+     },
+     {
+      "slug": "multi-armed-cace-complex-assumptions"
+     },
+     {
+      "slug": "multi-armed-estimators-modify-two-group-estimators"
+     },
+     {
+      "slug": "multi-armed-multiple-comparison-adjustments"
+     },
+     {
+      "slug": "variance-adjustment-reduces-precision-multi-armed"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "empirical-example-multi-armed-education-rct",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "design-based-estimators-multi-armed-rcts",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "multi-armed-rct-design-based-framework",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "multisite-rct-design-average-and-variation",
       "strength": "W"
      }
     ]
@@ -115432,6 +117711,34 @@
      }
     ]
    },
+   "partial-implementation-schools-peer-outcomes-declined": {
+    "claims": [
+     {
+      "slug": "full-implementation-schools-peer-outcomes-unaffected"
+     },
+     {
+      "slug": "many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses"
+     },
+     {
+      "slug": "philadelphia-classroom-disorder-oss-ban-reduced-suspensions"
+     },
+     {
+      "slug": "philadelphia-discipline-reform-implementation-varied-significantly"
+     },
+     {
+      "slug": "philadelphia-reform-math-ela-achievement-declined"
+     },
+     {
+      "slug": "philadelphia-reform-truancy-increased"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
+     },
+     {
+      "slug": "suspension-reform-improved-attendance-not-achievement"
+     }
+    ]
+   },
    "participant-examples-support-identity-reconstruction-through-academic-content": {
     "claims": [
      {
@@ -116201,6 +118508,32 @@
      {
       "polarity": "+",
       "slug": "pax-good-behavior-game-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "pay-for-performance-implementation-gap-bonus-unawareness": {
+    "claims": [
+     {
+      "slug": "educators-receptive-to-feedback-and-compensation-strategies"
+     },
+     {
+      "slug": "teachers-limited-understanding-of-tif-bonus-program"
+     },
+     {
+      "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
+     },
+     {
+      "slug": "tif-educator-understanding-improved-but-incomplete"
+     },
+     {
+      "slug": "tif-implementation-mixed-improvement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "tif-performance-feedback-and-pay-for-performance-strategies",
       "strength": "W"
      }
     ]
@@ -117869,6 +120202,30 @@
      }
     ]
    },
+   "peer-reviewed-and-industry-research-soft-skills-employers-seek": {
+    "claims": [
+     {
+      "slug": "frtf-stakeholder-survey-behavioral-examples"
+     },
+     {
+      "slug": "western-pa-employer-convening-soft-skills-new-hires"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "youre-hired-rel-mid-atlantic-report",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "soft-skills-employer-demand-construct",
+      "strength": "M"
+     }
+    ]
+   },
    "peer-small-group-outperform-other-methods": {
     "claims": [
      {
@@ -118466,6 +120823,41 @@
      }
     ]
    },
+   "performance-feedback-and-pay-for-performance-improve-achievement": {
+    "claims": [
+     {
+      "slug": "few-districts-aligned-bonuses-with-tif-guidance"
+     },
+     {
+      "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
+     },
+     {
+      "slug": "tif-average-bonus-below-recommended-share"
+     },
+     {
+      "slug": "tif-bonuses-easily-earned-top-performers-larger"
+     },
+     {
+      "slug": "tif-bonuses-reading-gain-one-percentile"
+     },
+     {
+      "slug": "tif-evaluation-outcome-domains-design"
+     },
+     {
+      "slug": "tif-implementation-mixed-improvement"
+     },
+     {
+      "slug": "tif-pay-for-performance-small-positive-achievement-impacts"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tif-performance-feedback-and-pay-for-performance-strategies",
+      "strength": "W"
+     }
+    ]
+   },
    "performance-goal-discrepancy-motivates-teacher-change": {
     "claims": [
      {
@@ -118652,6 +121044,9 @@
      },
      {
       "slug": "listening-then-deciding-situational-decision-making"
+     },
+     {
+      "slug": "principal-role-expanded-beyond-administrative-oversight"
      }
     ],
     "theories": [
@@ -118688,6 +121083,18 @@
    "personalized-ap-message-increases-exam-taking-and-passing": {
     "claims": [
      {
+      "slug": "ability-signal-increases-ap-exam-taking"
+     },
+     {
+      "slug": "ability-signal-increases-ap-participation-49-points"
+     },
+     {
+      "slug": "ability-signal-informational-value-bayesian-updating"
+     },
+     {
+      "slug": "ability-signal-one-more-ap-course"
+     },
+     {
       "slug": "ap-mandate-higher-taking-passing-rates-low"
      },
      {
@@ -118707,6 +121114,15 @@
    },
    "personalized-ap-message-increases-participation-49-points": {
     "claims": [
+     {
+      "slug": "ability-signal-increases-ap-participation-49-points"
+     },
+     {
+      "slug": "ability-signal-informational-value-bayesian-updating"
+     },
+     {
+      "slug": "ability-signal-one-more-ap-course"
+     },
      {
       "slug": "personalized-ap-message-increases-exam-taking-and-passing"
      },
@@ -118732,6 +121148,9 @@
    "personalized-learning-effects-vary-with-fidelity": {
     "claims": [
      {
+      "slug": "blended-learning-effects-vary-by-intervention-and-domain"
+     },
+     {
       "slug": "coaching-components-inconsistently-reported"
      },
      {
@@ -118745,6 +121164,9 @@
      },
      {
       "slug": "teacher-buy-in-mediates-coaching-benefit"
+     },
+     {
+      "slug": "tutoring-coaching-data-use-charter-impacts"
      },
      {
       "slug": "wide-variability-foi-early-language-curricula"
@@ -118999,6 +121421,19 @@
      }
     ]
    },
+   "philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses": {
+    "claims": [
+     {
+      "slug": "many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses"
+     },
+     {
+      "slug": "philadelphia-classroom-disorder-oss-ban-reduced-suspensions"
+     },
+     {
+      "slug": "philadelphia-reform-modest-decline-nonviolent-suspensions"
+     }
+    ]
+   },
    "philadelphia-accelerated-schools-credit-accumulation-evaluation": {
     "claims": [
      {
@@ -119027,8 +121462,49 @@
      }
     ]
    },
+   "philadelphia-classroom-disorder-oss-ban-reduced-suspensions": {
+    "claims": [
+     {
+      "slug": "full-implementation-schools-peer-outcomes-unaffected"
+     },
+     {
+      "slug": "many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses"
+     },
+     {
+      "slug": "partial-implementation-schools-peer-outcomes-declined"
+     },
+     {
+      "slug": "philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
+     },
+     {
+      "slug": "suspension-reform-improved-attendance-not-achievement"
+     }
+    ]
+   },
+   "philadelphia-discipline-reform-implementation-varied-significantly": {
+    "claims": [
+     {
+      "slug": "many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses"
+     },
+     {
+      "slug": "partial-implementation-schools-peer-outcomes-declined"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
+     }
+    ]
+   },
    "philadelphia-reform-math-ela-achievement-declined": {
     "claims": [
+     {
+      "slug": "full-implementation-schools-peer-outcomes-unaffected"
+     },
+     {
+      "slug": "partial-implementation-schools-peer-outcomes-declined"
+     },
      {
       "slug": "philadelphia-reform-modest-decline-nonviolent-suspensions"
      },
@@ -119040,11 +121516,29 @@
      },
      {
       "slug": "philadelphia-reform-truancy-increased"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
+     },
+     {
+      "slug": "suspension-effects-robust-to-iv-policy-change"
+     },
+     {
+      "slug": "suspension-spillovers-small-negative-peer-achievement"
      }
     ]
    },
    "philadelphia-reform-modest-decline-nonviolent-suspensions": {
     "claims": [
+     {
+      "slug": "full-implementation-schools-peer-outcomes-unaffected"
+     },
+     {
+      "slug": "many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses"
+     },
+     {
+      "slug": "philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses"
+     },
      {
       "slug": "philadelphia-reform-math-ela-achievement-declined"
      },
@@ -119059,6 +121553,9 @@
      },
      {
       "slug": "same-infractions-black-disabilities-more-suspensions"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
      }
     ]
    },
@@ -119075,6 +121572,9 @@
      },
      {
       "slug": "philadelphia-reform-truancy-increased"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
      }
     ]
    },
@@ -119091,11 +121591,17 @@
      },
      {
       "slug": "philadelphia-reform-truancy-increased"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
      }
     ]
    },
    "philadelphia-reform-truancy-increased": {
     "claims": [
+     {
+      "slug": "partial-implementation-schools-peer-outcomes-declined"
+     },
      {
       "slug": "philadelphia-reform-math-ela-achievement-declined"
      },
@@ -119107,6 +121613,9 @@
      },
      {
       "slug": "philadelphia-reform-total-suspensions-unchanged"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
      }
     ]
    },
@@ -119139,6 +121648,13 @@
       "polarity": "+",
       "slug": "eportfolio-as-curriculum-framework",
       "strength": "W"
+     }
+    ]
+   },
+   "philanthropies-support-science-through-capacity-and-training": {
+    "claims": [
+     {
+      "slug": "proliferation-of-systems-change-success-research"
      }
     ]
    },
@@ -124146,6 +126662,38 @@
      }
     ]
    },
+   "principal-role-expanded-beyond-administrative-oversight": {
+    "claims": [
+     {
+      "slug": "ethic-of-care-found-in-three-female-principals"
+     },
+     {
+      "slug": "female-principals-empower-others-shared-ownership"
+     },
+     {
+      "slug": "listening-then-deciding-situational-decision-making"
+     },
+     {
+      "slug": "personal-ethic-of-care-transferred-from-motherhood"
+     },
+     {
+      "slug": "principals-maintain-connectedness-despite-bureaucracy"
+     }
+    ]
+   },
+   "principals-essential-student-achievement-effects-near-teacher-size": {
+    "claims": [
+     {
+      "slug": "school-mgp-stable-despite-principal-change"
+     },
+     {
+      "slug": "school-value-added-poor-information-principal-effectiveness"
+     },
+     {
+      "slug": "value-added-measures-small-predictive-info-principal-impacts"
+     }
+    ]
+   },
    "principals-maintain-connectedness-despite-bureaucracy": {
     "claims": [
      {
@@ -124159,6 +126707,9 @@
      },
      {
       "slug": "listening-then-deciding-situational-decision-making"
+     },
+     {
+      "slug": "principal-role-expanded-beyond-administrative-oversight"
      }
     ],
     "theories": [
@@ -126951,6 +129502,9 @@
     "claims": [
      {
       "slug": "kos-evaluation-must-account-for-change-over-time"
+     },
+     {
+      "slug": "philanthropies-support-science-through-capacity-and-training"
      }
     ],
     "theories": [
@@ -127543,6 +130097,45 @@
       "polarity": "+",
       "slug": "academic-behaviors-mindsets-outcomes",
       "strength": "M"
+     }
+    ]
+   },
+   "proxy-pretest-difference-driven-by-bias-not-precision": {
+    "claims": [
+     {
+      "slug": "empirical-bayes-shrinkage-for-proxy-pretest-bias"
+     },
+     {
+      "slug": "proxy-pretest-estimates-biased-but-informative"
+     },
+     {
+      "slug": "same-subject-pretest-omission-dominates-background-omission"
+     },
+     {
+      "slug": "second-pretest-wave-additional-bias-elimination"
+     },
+     {
+      "slug": "vam-sensitivity-student-peer-controls-examined"
+     }
+    ]
+   },
+   "proxy-pretest-estimates-biased-but-informative": {
+    "claims": [
+     {
+      "slug": "empirical-bayes-shrinkage-for-proxy-pretest-bias"
+     },
+     {
+      "slug": "proxy-pretest-difference-driven-by-bias-not-precision"
+     },
+     {
+      "slug": "same-subject-pretest-omission-dominates-background-omission"
+     }
+    ],
+    "principles": [
+     {
+      "polarity": "+",
+      "slug": "validity-reliability-and-bias-in-classroom-assessment",
+      "strength": "W"
      }
     ]
    },
@@ -128929,6 +131522,25 @@
      }
     ]
    },
+   "rct-gold-standard-randomization-logic": {
+    "claims": [
+     {
+      "slug": "late-pretest-inclusion-can-bias-impact-estimates"
+     },
+     {
+      "slug": "late-pretest-inclusion-can-bias-posttest-estimates"
+     },
+     {
+      "slug": "not-all-programs-rct-evaluable-nonexperimental-needed"
+     },
+     {
+      "slug": "null-findings-require-interpretation-of-causes"
+     },
+     {
+      "slug": "rct-policy-conclusions-sensitive-to-estimator-choice"
+     }
+    ]
+   },
    "rct-ninth-grade-nsi-attendance-gain": {
     "claims": [
      {
@@ -128965,6 +131577,15 @@
      },
      {
       "slug": "clustered-rct-estimators-identical-significance-findings"
+     },
+     {
+      "slug": "design-and-model-based-methods-similar-impact-estimates"
+     },
+     {
+      "slug": "design-model-differences-no-greater-than-model-model"
+     },
+     {
+      "slug": "rct-gold-standard-randomization-logic"
      },
      {
       "slug": "rd-clustering-and-discreteness-requirement"
@@ -129033,8 +131654,47 @@
      }
     ]
    },
+   "rd-average-bias-below-0-01-sd-high-internal-validity": {
+    "claims": [
+     {
+      "slug": "rd-individual-estimates-substantial-bias-variation"
+     },
+     {
+      "slug": "rd-non-parametric-methods-favored"
+     },
+     {
+      "slug": "rd-replication-matches-experimental-estimates-two-interventions"
+     },
+     {
+      "slug": "rd-shrunken-bias-below-0-07-sd-external-validity"
+     },
+     {
+      "slug": "rd-theory-valid-causal-inference-at-cutoff"
+     },
+     {
+      "slug": "rd-well-implemented-matches-experimental-estimates"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "synthetic-within-study-comparison-rd",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "within-study-comparison-rd-rct-cutoff",
+      "strength": "M"
+     }
+    ]
+   },
    "rd-clustering-and-discreteness-requirement": {
     "claims": [
+     {
+      "slug": "assignment-variable-manipulation-biases-rd-estimates"
+     },
      {
       "slug": "rct-policy-conclusions-sensitive-to-estimator-choice"
      },
@@ -129045,12 +131705,70 @@
       "slug": "rd-replication-matches-experimental-estimates-two-interventions"
      },
      {
+      "slug": "rd-theory-valid-causal-inference-at-cutoff"
+     },
+     {
       "slug": "wwc-corrections-eliminate-author-reported-significance"
+     }
+    ]
+   },
+   "rd-individual-estimates-substantial-bias-variation": {
+    "claims": [
+     {
+      "slug": "assignment-variable-manipulation-biases-rd-estimates"
+     },
+     {
+      "slug": "rd-average-bias-below-0-01-sd-high-internal-validity"
+     },
+     {
+      "slug": "rd-non-parametric-methods-favored"
+     },
+     {
+      "slug": "rd-replication-matches-experimental-estimates-two-interventions"
+     },
+     {
+      "slug": "rd-shrunken-bias-below-0-07-sd-external-validity"
+     },
+     {
+      "slug": "rdd-robust-methods-need-larger-samples"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "within-study-comparison-rd-rct-cutoff",
+      "strength": "W"
+     }
+    ]
+   },
+   "rd-non-parametric-methods-favored": {
+    "claims": [
+     {
+      "slug": "rd-average-bias-below-0-01-sd-high-internal-validity"
+     },
+     {
+      "slug": "rd-individual-estimates-substantial-bias-variation"
+     },
+     {
+      "slug": "rd-shrunken-bias-below-0-07-sd-external-validity"
+     },
+     {
+      "slug": "rd-theory-valid-causal-inference-at-cutoff"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "within-study-comparison-rd-rct-cutoff",
+      "strength": "W"
      }
     ]
    },
    "rd-qualification-criteria-forcing-variable": {
     "claims": [
+     {
+      "slug": "assignment-variable-manipulation-biases-rd-estimates"
+     },
      {
       "slug": "grade-cutoffs-arbitrary-adjacent-scores"
      },
@@ -129059,11 +131777,17 @@
      },
      {
       "slug": "rd-replication-matches-experimental-estimates-two-interventions"
+     },
+     {
+      "slug": "rd-theory-valid-causal-inference-at-cutoff"
      }
     ]
    },
    "rd-replication-matches-experimental-estimates-two-interventions": {
     "claims": [
+     {
+      "slug": "assignment-variable-manipulation-biases-rd-estimates"
+     },
      {
       "slug": "future-forward-prior-rct-evidence"
      },
@@ -129074,10 +131798,22 @@
       "slug": "group-level-design-based-estimators-match-individual-data-asymptotically"
      },
      {
+      "slug": "rd-average-bias-below-0-01-sd-high-internal-validity"
+     },
+     {
       "slug": "rd-clustering-and-discreteness-requirement"
      },
      {
+      "slug": "rd-individual-estimates-substantial-bias-variation"
+     },
+     {
       "slug": "rd-qualification-criteria-forcing-variable"
+     },
+     {
+      "slug": "rd-theory-valid-causal-inference-at-cutoff"
+     },
+     {
+      "slug": "rd-well-implemented-matches-experimental-estimates"
      },
      {
       "slug": "rdd-robust-methods-need-larger-samples"
@@ -129086,10 +131822,100 @@
       "slug": "ses-rd-study-power-012-sd"
      }
     ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "synthetic-within-study-comparison-rd",
+      "strength": "W"
+     }
+    ],
     "theories": [
      {
       "polarity": "+",
       "slug": "rd-design-framework-wwc-standards",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "within-study-comparison-rd-rct-cutoff",
+      "strength": "W"
+     }
+    ]
+   },
+   "rd-shrunken-bias-below-0-07-sd-external-validity": {
+    "claims": [
+     {
+      "slug": "rd-average-bias-below-0-01-sd-high-internal-validity"
+     },
+     {
+      "slug": "rd-individual-estimates-substantial-bias-variation"
+     },
+     {
+      "slug": "rd-non-parametric-methods-favored"
+     },
+     {
+      "slug": "rd-theory-valid-causal-inference-at-cutoff"
+     },
+     {
+      "slug": "rd-well-implemented-matches-experimental-estimates"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "within-study-comparison-rd-rct-cutoff",
+      "strength": "M"
+     }
+    ]
+   },
+   "rd-theory-valid-causal-inference-at-cutoff": {
+    "claims": [
+     {
+      "slug": "assignment-variable-manipulation-biases-rd-estimates"
+     },
+     {
+      "slug": "rd-average-bias-below-0-01-sd-high-internal-validity"
+     },
+     {
+      "slug": "rd-clustering-and-discreteness-requirement"
+     },
+     {
+      "slug": "rd-non-parametric-methods-favored"
+     },
+     {
+      "slug": "rd-qualification-criteria-forcing-variable"
+     },
+     {
+      "slug": "rd-replication-matches-experimental-estimates-two-interventions"
+     },
+     {
+      "slug": "rd-shrunken-bias-below-0-07-sd-external-validity"
+     }
+    ]
+   },
+   "rd-well-implemented-matches-experimental-estimates": {
+    "claims": [
+     {
+      "slug": "rd-average-bias-below-0-01-sd-high-internal-validity"
+     },
+     {
+      "slug": "rd-replication-matches-experimental-estimates-two-interventions"
+     },
+     {
+      "slug": "rd-shrunken-bias-below-0-07-sd-external-validity"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "synthetic-within-study-comparison-rd",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "within-study-comparison-rd-rct-cutoff",
       "strength": "W"
      }
     ]
@@ -129127,6 +131953,9 @@
      },
      {
       "slug": "future-forward-rd-nonsignificant-positive-effect"
+     },
+     {
+      "slug": "rd-individual-estimates-substantial-bias-variation"
      },
      {
       "slug": "rd-replication-matches-experimental-estimates-two-interventions"
@@ -130413,6 +133242,9 @@
      },
      {
       "slug": "ecri-improves-word-reading-outcomes-first-grade"
+     },
+     {
+      "slug": "effect-defined-as-statistically-significant-group-difference"
      },
      {
       "slug": "lightning-squad-word-attack-significant-itt"
@@ -134040,6 +136872,9 @@
    "remote-learning-not-associated-elementary-teacher-attrition": {
     "claims": [
      {
+      "slug": "attrition-does-not-contribute-inequitable-access"
+     },
+     {
       "slug": "pa-attrition-gaps-early-career-charter-large-leas"
      },
      {
@@ -134738,6 +137573,9 @@
     "claims": [
      {
       "slug": "advanced-competency-transfer-limited-by-institutional-resources"
+     },
+     {
+      "slug": "interview-barriers-evidence-use-government"
      },
      {
       "slug": "organizational-empowerment-enables-transfer"
@@ -136444,6 +139282,9 @@
       "slug": "teacher-responses-can-close-off-pupil-thinking"
      },
      {
+      "slug": "traditional-salary-schedules-may-not-reward-effective-teaching"
+     },
+     {
       "slug": "ur-student-generated-question-engagement"
      }
     ],
@@ -137586,6 +140427,9 @@
      },
      {
       "slug": "small-rural-staffs-cross-subject-plcs-isolation"
+     },
+     {
+      "slug": "traditional-salary-schedules-may-not-reward-effective-teaching"
      }
     ],
     "theories": [
@@ -137911,6 +140755,12 @@
       "slug": "covid-continuity-of-learning-steps"
      },
      {
+      "slug": "districts-lack-blended-learning-evidence-and-implementation-guidance"
+     },
+     {
+      "slug": "no-identified-blended-learning-implementation-strategies"
+     },
+     {
       "slug": "saga-impacts-larger-fewer-staffing-challenges-small-groups"
      },
      {
@@ -137952,6 +140802,12 @@
       "slug": "covid-continuity-of-learning-steps"
      },
      {
+      "slug": "districts-lack-blended-learning-evidence-and-implementation-guidance"
+     },
+     {
+      "slug": "no-identified-blended-learning-implementation-strategies"
+     },
+     {
       "slug": "saga-blended-tutoring-test-score-impacts-mixed"
      },
      {
@@ -137971,7 +140827,13 @@
    "saga-tutoring-improves-math-grades": {
     "claims": [
      {
+      "slug": "districts-lack-blended-learning-evidence-and-implementation-guidance"
+     },
+     {
       "slug": "middle-years-math-tutoring-portfolio-positive-average-effects"
+     },
+     {
+      "slug": "no-identified-blended-learning-implementation-strategies"
      },
      {
       "slug": "saga-blended-tutoring-test-score-impacts-mixed"
@@ -137989,6 +140851,9 @@
    },
    "saga-tutoring-larger-impacts-lower-prior-achievement": {
     "claims": [
+     {
+      "slug": "no-identified-blended-learning-implementation-strategies"
+     },
      {
       "slug": "saga-blended-tutoring-test-score-impacts-mixed"
      },
@@ -138013,6 +140878,9 @@
      },
      {
       "slug": "future-forward-improves-school-attendance"
+     },
+     {
+      "slug": "no-identified-blended-learning-implementation-strategies"
      },
      {
       "slug": "saga-blended-tutoring-test-score-impacts-mixed"
@@ -138126,6 +140994,19 @@
      },
      {
       "slug": "philadelphia-reform-modest-decline-nonviolent-suspensions"
+     }
+    ]
+   },
+   "same-subject-pretest-omission-dominates-background-omission": {
+    "claims": [
+     {
+      "slug": "proxy-pretest-difference-driven-by-bias-not-precision"
+     },
+     {
+      "slug": "proxy-pretest-estimates-biased-but-informative"
+     },
+     {
+      "slug": "vam-sensitivity-student-peer-controls-examined"
      }
     ]
    },
@@ -138604,6 +141485,13 @@
      }
     ]
    },
+   "school-accountability-multiple-constituencies": {
+    "claims": [
+     {
+      "slug": "outcome-accountability-one-of-multiple-forms"
+     }
+    ]
+   },
    "school-based-interventions-small-significant-reduction-exclusion": {
     "claims": [
      {
@@ -138744,6 +141632,78 @@
      }
     ]
    },
+   "school-info-presentation-affects-parent-understanding": {
+    "claims": [
+     {
+      "slug": "demographics-affect-perceived-school-quality"
+     },
+     {
+      "slug": "demographics-affect-school-selection-likelihood"
+     },
+     {
+      "slug": "media-combinations-affect-recall-and-retention"
+     },
+     {
+      "slug": "school-info-presentation-affects-school-rankings"
+     },
+     {
+      "slug": "small-presentation-changes-large-participation-impact"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "evidence-based-guide-school-choice-info-parents",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "school-choice-info-presentation-guide",
+      "strength": "W"
+     }
+    ]
+   },
+   "school-info-presentation-affects-school-rankings": {
+    "claims": [
+     {
+      "slug": "default-order-changes-school-choice"
+     },
+     {
+      "slug": "display-design-understanding-satisfaction-ease"
+     },
+     {
+      "slug": "five-design-factors-impact-parent-school-choice-outcomes"
+     },
+     {
+      "slug": "icons-concise-summaries-higher-performing-schools"
+     },
+     {
+      "slug": "numbers-understanding-graphs-satisfaction-tradeoff"
+     },
+     {
+      "slug": "school-info-presentation-affects-parent-understanding"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "evidence-based-guide-school-choice-info-parents",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "school-choice-info-presentation-guide",
+      "strength": "M"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "school-choice-architecture-framework",
+      "strength": "W"
+     }
+    ]
+   },
    "school-leaders-as-instructional-leaders": {
     "claims": [
      {
@@ -138767,6 +141727,43 @@
       "polarity": "+",
       "slug": "high-performing-district-cmo-case-studies",
       "strength": "W"
+     }
+    ]
+   },
+   "school-level-implementation-moderates-discipline-reform-peer-effects": {
+    "claims": [
+     {
+      "slug": "full-implementation-schools-peer-outcomes-unaffected"
+     },
+     {
+      "slug": "many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses"
+     },
+     {
+      "slug": "partial-implementation-schools-peer-outcomes-declined"
+     },
+     {
+      "slug": "philadelphia-classroom-disorder-oss-ban-reduced-suspensions"
+     },
+     {
+      "slug": "philadelphia-discipline-reform-implementation-varied-significantly"
+     },
+     {
+      "slug": "philadelphia-reform-math-ela-achievement-declined"
+     },
+     {
+      "slug": "philadelphia-reform-modest-decline-nonviolent-suspensions"
+     },
+     {
+      "slug": "philadelphia-reform-serious-incidents-increased"
+     },
+     {
+      "slug": "philadelphia-reform-total-suspensions-unchanged"
+     },
+     {
+      "slug": "philadelphia-reform-truancy-increased"
+     },
+     {
+      "slug": "suspension-reform-improved-attendance-not-achievement"
      }
     ]
    },
@@ -138833,7 +141830,13 @@
       "slug": "nj-pilot-practice-ratings-varied-most-effective"
      },
      {
+      "slug": "principals-essential-student-achievement-effects-near-teacher-size"
+     },
+     {
       "slug": "school-mgp-correlates-student-disadvantage"
+     },
+     {
+      "slug": "student-growth-measures-describe-test-score-gains"
      },
      {
       "slug": "value-added-measures-small-predictive-info-principal-impacts"
@@ -138873,6 +141876,9 @@
      },
      {
       "slug": "multiyear-averaging-no-accuracy-gain-principal-measures"
+     },
+     {
+      "slug": "principals-essential-student-achievement-effects-near-teacher-size"
      },
      {
       "slug": "two-analysis-approach-principal-measure-accuracy"
@@ -139376,6 +142382,9 @@
       "slug": "sdp-ep-staff-placement-capacity-theory-of-action"
      },
      {
+      "slug": "seed-partnership-project-knowledge-sharing-partnerships"
+     },
+     {
       "slug": "similar-data-capacity-sdp-ep-agencies"
      },
      {
@@ -139583,6 +142592,33 @@
      {
       "polarity": "+",
       "slug": "multidimensional-irt-models-testlet-based-tests",
+      "strength": "M"
+     }
+    ]
+   },
+   "second-pretest-wave-additional-bias-elimination": {
+    "claims": [
+     {
+      "slug": "bias-elimination-not-predicted-by-pretest-selection-correlation"
+     },
+     {
+      "slug": "proxy-pretest-difference-driven-by-bias-not-precision"
+     },
+     {
+      "slug": "single-pretest-wave-reduces-selection-bias"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "three-within-study-comparisons-pretest-bias-design",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "pretest-privileging-bias-control-rationale",
       "strength": "M"
      }
     ]
@@ -139841,6 +142877,16 @@
       "polarity": "-",
       "slug": "four-phase-interest-development",
       "strength": "M"
+     }
+    ]
+   },
+   "seed-partnership-project-knowledge-sharing-partnerships": {
+    "claims": [
+     {
+      "slug": "longer-partnership-greater-data-capacity"
+     },
+     {
+      "slug": "sdp-ep-partnerships-enabled-new-data-use-practices"
      }
     ]
    },
@@ -148653,6 +151699,9 @@
      },
      {
       "slug": "classical-inference-prohibitive-sample-sizes-factorial"
+     },
+     {
+      "slug": "five-design-factors-impact-parent-school-choice-outcomes"
      }
     ],
     "elements": [
@@ -148952,6 +152001,12 @@
       "slug": "accountability-indicator-strengths-weaknesses"
      },
      {
+      "slug": "achievement-focused-mission-charter-impacts"
+     },
+     {
+      "slug": "behavioral-policies-rewards-sanctions-charter-impacts"
+     },
+     {
       "slug": "cmo-impact-linked-intense-teacher-coaching"
      },
      {
@@ -148962,6 +152017,9 @@
      },
      {
       "slug": "four-implementation-themes-exclusion-interventions"
+     },
+     {
+      "slug": "long-school-days-years-charter-impacts"
      },
      {
       "slug": "teachers-key-role-student-success-districts-cmos"
@@ -149224,6 +152282,9 @@
    "shrinkage-differential-impact-concern": {
     "claims": [
      {
+      "slug": "empirical-bayes-shrinkage-for-proxy-pretest-bias"
+     },
+     {
       "slug": "hard-to-predict-students-less-precise-teacher-va-estimates"
      },
      {
@@ -149260,6 +152321,9 @@
    "shrinkage-increases-precision-reduces-absolute-va": {
     "claims": [
      {
+      "slug": "empirical-bayes-shrinkage-for-proxy-pretest-bias"
+     },
+     {
       "slug": "hard-to-predict-students-less-precise-teacher-va-estimates"
      },
      {
@@ -149281,12 +152345,18 @@
       "slug": "shrinkage-no-significant-effect-extreme-ratings"
      },
      {
+      "slug": "teacher-team-and-full-roster-methods-produce-similar-estimates"
+     },
+     {
       "slug": "vam-sensitivity-student-peer-controls-examined"
      }
     ]
    },
    "shrinkage-leaves-accountability-consequences-unchanged": {
     "claims": [
+     {
+      "slug": "empirical-bayes-shrinkage-for-proxy-pretest-bias"
+     },
      {
       "slug": "hard-to-predict-students-less-precise-teacher-va-estimates"
      },
@@ -149309,6 +152379,9 @@
    },
    "shrinkage-no-significant-effect-consequences-hard-to-predict": {
     "claims": [
+     {
+      "slug": "empirical-bayes-shrinkage-for-proxy-pretest-bias"
+     },
      {
       "slug": "hard-to-predict-students-less-precise-teacher-va-estimates"
      },
@@ -149342,6 +152415,9 @@
    },
    "shrinkage-no-significant-effect-extreme-ratings": {
     "claims": [
+     {
+      "slug": "empirical-bayes-shrinkage-for-proxy-pretest-bias"
+     },
      {
       "slug": "hard-to-predict-students-less-precise-teacher-va-estimates"
      },
@@ -149514,6 +152590,54 @@
       "polarity": "+",
       "slug": "clear-structure",
       "strength": "W"
+     }
+    ]
+   },
+   "similar-access-most-least-effective-teachers": {
+    "claims": [
+     {
+      "slug": "math-inequity-subset-districts"
+     },
+     {
+      "slug": "meaningful-math-inequity-subset-districts"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers-income"
+     },
+     {
+      "slug": "small-average-effectiveness-differences-by-income"
+     },
+     {
+      "slug": "small-average-effectiveness-differences"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "26-district-teacher-effectiveness-dataset",
+      "strength": "M"
+     }
+    ]
+   },
+   "similar-access-most-least-effective-teachers-income": {
+    "claims": [
+     {
+      "slug": "hiring-transfer-patterns-consistent-small-differences"
+     },
+     {
+      "slug": "hiring-transfers-not-attrition-drive-inequity"
+     },
+     {
+      "slug": "math-inequity-subset-districts"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers"
+     },
+     {
+      "slug": "small-average-effectiveness-differences-by-income"
+     },
+     {
+      "slug": "small-average-effectiveness-differences"
      }
     ]
    },
@@ -150243,6 +153367,30 @@
       "polarity": "+",
       "slug": "comprehension-hypothesis-comprehensible-input-sla",
       "strength": "W"
+     }
+    ]
+   },
+   "single-pretest-wave-reduces-selection-bias": {
+    "claims": [
+     {
+      "slug": "bias-elimination-not-predicted-by-pretest-selection-correlation"
+     },
+     {
+      "slug": "second-pretest-wave-additional-bias-elimination"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "three-within-study-comparisons-pretest-bias-design",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "pretest-privileging-bias-control-rationale",
+      "strength": "M"
      }
     ]
    },
@@ -151205,6 +154353,63 @@
      }
     ]
    },
+   "small-average-effectiveness-differences": {
+    "claims": [
+     {
+      "slug": "hiring-transfer-patterns-consistent-small-differences"
+     },
+     {
+      "slug": "hiring-transfers-not-attrition-drive-inequity"
+     },
+     {
+      "slug": "math-inequity-subset-districts"
+     },
+     {
+      "slug": "meaningful-math-inequity-subset-districts"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers-income"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers"
+     },
+     {
+      "slug": "small-average-effectiveness-differences-by-income"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "26-district-teacher-effectiveness-dataset",
+      "strength": "M"
+     }
+    ]
+   },
+   "small-average-effectiveness-differences-by-income": {
+    "claims": [
+     {
+      "slug": "hiring-transfer-patterns-consistent-small-differences"
+     },
+     {
+      "slug": "hiring-transfers-not-attrition-drive-inequity"
+     },
+     {
+      "slug": "math-inequity-subset-districts"
+     },
+     {
+      "slug": "meaningful-math-inequity-subset-districts"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers-income"
+     },
+     {
+      "slug": "similar-access-most-least-effective-teachers"
+     },
+     {
+      "slug": "small-average-effectiveness-differences"
+     }
+    ]
+   },
    "small-group-instruction-outperforms-cai-incentives": {
     "claims": [
      {
@@ -151304,10 +154509,19 @@
    "small-presentation-changes-large-participation-impact": {
     "claims": [
      {
+      "slug": "ability-signal-increases-ap-participation-49-points"
+     },
+     {
+      "slug": "ability-signal-informational-value-bayesian-updating"
+     },
+     {
       "slug": "personalized-ap-message-increases-exam-taking-and-passing"
      },
      {
       "slug": "personalized-ap-message-increases-participation-49-points"
+     },
+     {
+      "slug": "school-info-presentation-affects-parent-understanding"
      }
     ],
     "elements": [
@@ -153978,6 +157192,25 @@
      }
     ]
    },
+   "sparse-research-spillovers-mid-year-entry-stable-classmates": {
+    "claims": [
+     {
+      "slug": "disadvantaged-students-disproportionately-exposed-mid-year-entry"
+     },
+     {
+      "slug": "mid-year-entry-effects-larger-asian-non-frl-students"
+     },
+     {
+      "slug": "mid-year-entry-effects-not-driven-by-entrant-characteristics"
+     },
+     {
+      "slug": "mid-year-entry-negative-math-effects-persist-beyond-exposure-year"
+     },
+     {
+      "slug": "mid-year-entry-small-negative-short-run-effects-stable-students"
+     }
+    ]
+   },
    "spatial-contiguity-meta-analysis-36-studies": {
     "claims": [
      {
@@ -156636,6 +159869,9 @@
       "slug": "itl-standards-infrastructure-prerequisite"
      },
      {
+      "slug": "most-states-adopted-college-career-readiness-standards-2013-14"
+     },
+     {
       "slug": "wisconsin-itl-four-content-standards"
      }
     ],
@@ -156775,6 +160011,34 @@
       "polarity": "+",
       "slug": "alternative-growth-measures-three-types",
       "strength": "M"
+     }
+    ]
+   },
+   "state-assessments-sophisticated-response-formats": {
+    "claims": [
+     {
+      "slug": "most-states-adopted-college-career-readiness-standards-2013-14"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "title-i-title-iia-implementation-study-2013-14",
+      "strength": "W"
+     }
+    ]
+   },
+   "state-educator-evaluation-laws-district-implementation": {
+    "claims": [
+     {
+      "slug": "most-states-adopted-college-career-readiness-standards-2013-14"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "title-i-title-iia-implementation-study-2013-14",
+      "strength": "W"
      }
     ]
    },
@@ -158736,6 +162000,23 @@
      }
     ]
    },
+   "student-characteristics-affect-observation-results-more-in-ela-than-math": {
+    "claims": [
+     {
+      "slug": "classroom-design-affects-learning-progress"
+     },
+     {
+      "slug": "eight-of-ten-dimensions-common-across-five-observation-instruments"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "met-project-data-five-instrument-comparison",
+      "strength": "W"
+     }
+    ]
+   },
    "student-educator-relationship-builds-self-efficacy-and-belonging": {
     "claims": [
      {
@@ -158917,6 +162198,16 @@
       "polarity": "+",
       "slug": "designerly-talk-informal-design-discourse",
       "strength": "W"
+     }
+    ]
+   },
+   "student-growth-measures-describe-test-score-gains": {
+    "claims": [
+     {
+      "slug": "multiyear-averaging-no-accuracy-gain-principal-measures"
+     },
+     {
+      "slug": "school-mgp-stable-despite-principal-change"
      }
     ]
    },
@@ -161281,6 +164572,90 @@
      }
     ]
    },
+   "suspension-decreases-suspended-student-achievement": {
+    "claims": [
+     {
+      "slug": "brief-intervention-empathic-discipline-cuts-suspensions"
+     },
+     {
+      "slug": "suspension-effects-robust-to-iv-policy-change"
+     },
+     {
+      "slug": "suspension-reform-improved-attendance-not-achievement"
+     },
+     {
+      "slug": "suspensions-more-salient-for-suspended-students-than-peers"
+     }
+    ]
+   },
+   "suspension-effects-robust-to-iv-policy-change": {
+    "claims": [
+     {
+      "slug": "philadelphia-reform-math-ela-achievement-declined"
+     },
+     {
+      "slug": "suspension-decreases-suspended-student-achievement"
+     }
+    ]
+   },
+   "suspension-reform-improved-attendance-not-achievement": {
+    "claims": [
+     {
+      "slug": "full-implementation-schools-peer-outcomes-unaffected"
+     },
+     {
+      "slug": "partial-implementation-schools-peer-outcomes-declined"
+     },
+     {
+      "slug": "philadelphia-classroom-disorder-oss-ban-reduced-suspensions"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
+     },
+     {
+      "slug": "suspension-decreases-suspended-student-achievement"
+     }
+    ]
+   },
+   "suspension-spillovers-no-change-peer-absences": {
+    "claims": [
+     {
+      "slug": "suspension-spillovers-small-negative-peer-achievement"
+     },
+     {
+      "slug": "suspensions-more-salient-for-suspended-students-than-peers"
+     }
+    ]
+   },
+   "suspension-spillovers-small-negative-peer-achievement": {
+    "claims": [
+     {
+      "slug": "philadelphia-reform-math-ela-achievement-declined"
+     },
+     {
+      "slug": "suspension-spillovers-no-change-peer-absences"
+     },
+     {
+      "slug": "suspensions-more-salient-for-suspended-students-than-peers"
+     }
+    ]
+   },
+   "suspensions-more-salient-for-suspended-students-than-peers": {
+    "claims": [
+     {
+      "slug": "full-implementation-schools-peer-outcomes-unaffected"
+     },
+     {
+      "slug": "suspension-decreases-suspended-student-achievement"
+     },
+     {
+      "slug": "suspension-spillovers-no-change-peer-absences"
+     },
+     {
+      "slug": "suspension-spillovers-small-negative-peer-achievement"
+     }
+    ]
+   },
    "svas-advantage-across-test-rubrics": {
     "claims": [
      {
@@ -163569,6 +166944,9 @@
    "tbl-survey-above-neutral": {
     "claims": [
      {
+      "slug": "each-accountability-form-favorable-or-unfavorable-effects"
+     },
+     {
       "slug": "tbl-module-prepares-independent-projects"
      },
      {
@@ -165217,6 +168595,46 @@
      }
     ]
    },
+   "teacher-team-and-full-roster-methods-produce-similar-estimates": {
+    "claims": [
+     {
+      "slug": "confirmed-roster-data-reveal-more-co-teaching-than-administrative-data"
+     },
+     {
+      "slug": "dc-value-added-report-design-features"
+     },
+     {
+      "slug": "empirical-bayes-shrinkage-for-proxy-pretest-bias"
+     },
+     {
+      "slug": "shrinkage-increases-precision-reduces-absolute-va"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "full-roster-method-co-teaching-value-added",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "partial-credit-method-co-teaching-value-added",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "teacher-team-method-co-teaching-value-added",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "three-method-framework-co-teaching-value-added",
+      "strength": "M"
+     }
+    ]
+   },
    "teacher-transfer-incentive-behavioral-responses": {
     "claims": [
      {
@@ -165588,6 +169006,9 @@
      },
      {
       "slug": "shared-mission-vision-goals-critical-districts-cmos"
+     },
+     {
+      "slug": "tutoring-coaching-data-use-charter-impacts"
      }
     ],
     "elements": [
@@ -165638,10 +169059,45 @@
      }
     ]
    },
+   "teachers-limited-understanding-of-tif-bonus-program": {
+    "claims": [
+     {
+      "slug": "pay-for-performance-implementation-gap-bonus-unawareness"
+     },
+     {
+      "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
+     },
+     {
+      "slug": "tif-educator-understanding-improved-but-incomplete"
+     },
+     {
+      "slug": "tif-implementation-mixed-improvement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "teacher-incentive-fund-performance-compensation-grants",
+      "strength": "W"
+     }
+    ]
+   },
    "teachers-misunderstood-bonus-eligibility-and-amounts": {
     "claims": [
      {
+      "slug": "educators-receptive-to-feedback-and-compensation-strategies"
+     },
+     {
       "slug": "few-districts-aligned-bonuses-with-tif-guidance"
+     },
+     {
+      "slug": "pay-for-performance-implementation-gap-bonus-unawareness"
+     },
+     {
+      "slug": "performance-feedback-and-pay-for-performance-improve-achievement"
+     },
+     {
+      "slug": "teachers-limited-understanding-of-tif-bonus-program"
      },
      {
       "slug": "tif-bonuses-easily-earned-top-performers-larger"
@@ -165666,6 +169122,16 @@
      {
       "polarity": "~",
       "slug": "teacher-incentive-fund-grant-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "-",
+      "slug": "teacher-incentive-fund-performance-compensation-grants",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "tif-performance-feedback-and-pay-for-performance-strategies",
       "strength": "W"
      },
      {
@@ -166851,6 +170317,9 @@
     "claims": [
      {
       "slug": "glossary-intervention-lowered-satisfaction-m-tutor"
+     },
+     {
+      "slug": "null-findings-require-interpretation-of-causes"
      }
     ],
     "elements": [
@@ -167521,6 +170990,9 @@
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
      },
      {
+      "slug": "tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools"
+     },
+     {
       "slug": "tfa-positive-mathematics-achievement-effects"
      },
      {
@@ -167657,6 +171129,9 @@
       "slug": "tfa-experimental-studies-positive-math-no-reading-effect"
      },
      {
+      "slug": "tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools"
+     },
+     {
       "slug": "tfa-math-teachers-raise-achievement-007-sd"
      },
      {
@@ -167674,6 +171149,78 @@
      }
     ]
    },
+   "tfa-grades-1-2-math-effect-016-sd-marginal": {
+    "claims": [
+     {
+      "slug": "tfa-lower-elementary-reading-effect-012-sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tfa-investing-innovation-scale-up-program",
+      "strength": "W"
+     }
+    ]
+   },
+   "tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools": {
+    "claims": [
+     {
+      "slug": "clark-2013-tfa-secondary-math-rct-positive"
+     },
+     {
+      "slug": "clark-2015-elementary-tfa-indeterminate"
+     },
+     {
+      "slug": "tfa-corps-no-significant-reading-effect-elementary"
+     },
+     {
+      "slug": "tfa-first-two-years-beat-experienced-non-tfa"
+     },
+     {
+      "slug": "tfa-math-teachers-raise-achievement-007-sd"
+     },
+     {
+      "slug": "tfa-positive-mathematics-achievement-effects"
+     },
+     {
+      "slug": "tfa-small-positive-early-elementary-reading-not-math"
+     },
+     {
+      "slug": "tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tfa-investing-innovation-scale-up-program",
+      "strength": "M"
+     }
+    ]
+   },
+   "tfa-lower-elementary-reading-effect-012-sd": {
+    "claims": [
+     {
+      "slug": "tfa-grades-1-2-math-effect-016-sd-marginal"
+     },
+     {
+      "slug": "tfa-no-reading-achievement-impact"
+     },
+     {
+      "slug": "tfa-no-significant-impacts-upper-elementary-other-subgroups"
+     },
+     {
+      "slug": "tfa-positive-mathematics-achievement-effects"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "tfa-investing-innovation-scale-up-program",
+      "strength": "W"
+     }
+    ]
+   },
    "tfa-math-teachers-raise-achievement-007-sd": {
     "claims": [
      {
@@ -167681,6 +171228,9 @@
      },
      {
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
+     },
+     {
+      "slug": "tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools"
      },
      {
       "slug": "tfa-positive-math-achievement-impact"
@@ -167779,6 +171329,9 @@
       "slug": "tfa-findings-contradict-harm-claims"
      },
      {
+      "slug": "tfa-lower-elementary-reading-effect-012-sd"
+     },
+     {
       "slug": "tfa-no-impacts-attendance-promotion-discipline"
      },
      {
@@ -167795,6 +171348,23 @@
      },
      {
       "slug": "tfa-teaching-fellows-math-teachers-sometimes-more-effective"
+     }
+    ]
+   },
+   "tfa-no-significant-impacts-upper-elementary-other-subgroups": {
+    "claims": [
+     {
+      "slug": "clark-2015-elementary-tfa-indeterminate"
+     },
+     {
+      "slug": "tfa-lower-elementary-reading-effect-012-sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "tfa-investing-innovation-scale-up-program",
+      "strength": "M"
      }
     ]
    },
@@ -167842,6 +171412,12 @@
      },
      {
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
+     },
+     {
+      "slug": "tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools"
+     },
+     {
+      "slug": "tfa-lower-elementary-reading-effect-012-sd"
      },
      {
       "slug": "tfa-math-teachers-raise-achievement-007-sd"
@@ -167925,6 +171501,9 @@
       "slug": "tfa-first-two-years-beat-experienced-non-tfa"
      },
      {
+      "slug": "tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools"
+     },
+     {
       "slug": "tfa-positive-mathematics-achievement-effects"
      }
     ],
@@ -167972,6 +171551,9 @@
      },
      {
       "slug": "tfa-findings-contradict-harm-claims"
+     },
+     {
+      "slug": "tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools"
      },
      {
       "slug": "tfa-math-teachers-raise-achievement-007-sd"
@@ -168974,6 +172556,9 @@
       "slug": "few-districts-aligned-bonuses-with-tif-guidance"
      },
      {
+      "slug": "performance-feedback-and-pay-for-performance-improve-achievement"
+     },
+     {
       "slug": "tif-bonuses-easily-earned-top-performers-larger"
      },
      {
@@ -168981,9 +172566,25 @@
      },
      {
       "slug": "tif-implementation-mixed-improvement"
+     },
+     {
+      "slug": "tif-implementation-sustained-but-bonus-continuation-uncertain"
+     },
+     {
+      "slug": "traditional-salary-schedules-may-not-reward-effective-teaching"
      }
     ],
     "elements": [
+     {
+      "polarity": "-",
+      "slug": "teacher-incentive-fund-performance-compensation-grants",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "tif-performance-feedback-and-pay-for-performance-strategies",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "tif-performance-pay-study-design-report",
@@ -168993,6 +172594,9 @@
    },
    "tif-bonuses-easily-earned-top-performers-larger": {
     "claims": [
+     {
+      "slug": "performance-feedback-and-pay-for-performance-improve-achievement"
+     },
      {
       "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
      },
@@ -169017,10 +172621,30 @@
      }
     ]
    },
+   "tif-bonuses-improved-achievement-1-2-percentile-points": {
+    "claims": [
+     {
+      "slug": "tif-bonuses-reading-gain-one-percentile"
+     },
+     {
+      "slug": "tif-pay-for-performance-small-positive-achievement-impacts"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "teacher-incentive-fund-performance-compensation-grants",
+      "strength": "W"
+     }
+    ]
+   },
    "tif-bonuses-reading-gain-one-percentile": {
     "claims": [
      {
       "slug": "few-districts-aligned-bonuses-with-tif-guidance"
+     },
+     {
+      "slug": "performance-feedback-and-pay-for-performance-improve-achievement"
      },
      {
       "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
@@ -169030,6 +172654,9 @@
      },
      {
       "slug": "tif-bonuses-easily-earned-top-performers-larger"
+     },
+     {
+      "slug": "tif-bonuses-improved-achievement-1-2-percentile-points"
      },
      {
       "slug": "tif-educator-understanding-improved-but-incomplete"
@@ -169055,6 +172682,12 @@
    "tif-educator-understanding-improved-but-incomplete": {
     "claims": [
      {
+      "slug": "pay-for-performance-implementation-gap-bonus-unawareness"
+     },
+     {
+      "slug": "teachers-limited-understanding-of-tif-bonus-program"
+     },
+     {
       "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
      },
      {
@@ -169073,6 +172706,9 @@
    },
    "tif-evaluation-outcome-domains-design": {
     "claims": [
+     {
+      "slug": "performance-feedback-and-pay-for-performance-improve-achievement"
+     },
      {
       "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
      },
@@ -169100,6 +172736,15 @@
    "tif-implementation-mixed-improvement": {
     "claims": [
      {
+      "slug": "pay-for-performance-implementation-gap-bonus-unawareness"
+     },
+     {
+      "slug": "performance-feedback-and-pay-for-performance-improve-achievement"
+     },
+     {
+      "slug": "teachers-limited-understanding-of-tif-bonus-program"
+     },
+     {
       "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
      },
      {
@@ -169116,6 +172761,37 @@
      },
      {
       "slug": "tif-evaluation-outcome-domains-design"
+     },
+     {
+      "slug": "tif-implementation-sustained-but-bonus-continuation-uncertain"
+     }
+    ]
+   },
+   "tif-implementation-sustained-but-bonus-continuation-uncertain": {
+    "claims": [
+     {
+      "slug": "few-districts-aligned-bonuses-with-tif-guidance"
+     },
+     {
+      "slug": "tif-average-bonus-below-recommended-share"
+     },
+     {
+      "slug": "tif-implementation-mixed-improvement"
+     },
+     {
+      "slug": "traditional-salary-schedules-may-not-reward-effective-teaching"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "teacher-incentive-fund-performance-compensation-grants",
+      "strength": "W"
+     },
+     {
+      "polarity": "~",
+      "slug": "tif-performance-feedback-and-pay-for-performance-strategies",
+      "strength": "W"
      }
     ]
    },
@@ -169128,10 +172804,16 @@
       "slug": "few-districts-aligned-bonuses-with-tif-guidance"
      },
      {
+      "slug": "performance-feedback-and-pay-for-performance-improve-achievement"
+     },
+     {
       "slug": "teacher-transfer-incentive-behavioral-responses"
      },
      {
       "slug": "teachers-misunderstood-bonus-eligibility-and-amounts"
+     },
+     {
+      "slug": "tif-bonuses-improved-achievement-1-2-percentile-points"
      },
      {
       "slug": "tif-bonuses-reading-gain-one-percentile"
@@ -169144,6 +172826,16 @@
      {
       "polarity": "+",
       "slug": "teacher-incentive-fund-grant-program",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "teacher-incentive-fund-performance-compensation-grants",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "tif-performance-feedback-and-pay-for-performance-strategies",
       "strength": "W"
      },
      {
@@ -169569,6 +173261,9 @@
    },
    "tlts-no-detectable-science-effect": {
     "claims": [
+     {
+      "slug": "aps-specialist-support-little-impact-evidence"
+     },
      {
       "slug": "evaluators-target-impacts-below-020-sd"
      },
@@ -170652,6 +174347,22 @@
      }
     ]
    },
+   "traditional-salary-schedules-may-not-reward-effective-teaching": {
+    "claims": [
+     {
+      "slug": "rewards-undermine-intrinsic-motivation"
+     },
+     {
+      "slug": "rural-teacher-commutes-hinder-staffing"
+     },
+     {
+      "slug": "tif-average-bonus-below-recommended-share"
+     },
+     {
+      "slug": "tif-implementation-sustained-but-bonus-continuation-uncertain"
+     }
+    ]
+   },
    "traditional-student-participation-inefficient-spain": {
     "claims": [
      {
@@ -171694,6 +175405,28 @@
       "polarity": "~",
       "slug": "ask-experts",
       "strength": "W"
+     }
+    ]
+   },
+   "tutoring-coaching-data-use-charter-impacts": {
+    "claims": [
+     {
+      "slug": "booknook-dosage-20-sessions-stronger-effect"
+     },
+     {
+      "slug": "booknook-small-positive-map-reading-growth"
+     },
+     {
+      "slug": "cmo-impact-linked-intense-teacher-coaching"
+     },
+     {
+      "slug": "personalized-learning-effects-vary-with-fidelity"
+     },
+     {
+      "slug": "teachers-key-role-student-success-districts-cmos"
+     },
+     {
+      "slug": "urban-charter-schools-more-positive-achievement-impacts"
      }
     ]
    },
@@ -173080,6 +176813,25 @@
      }
     ]
    },
+   "urban-charter-schools-more-positive-achievement-impacts": {
+    "claims": [
+     {
+      "slug": "kauffman-impacts-exceed-average-charter-impacts"
+     },
+     {
+      "slug": "kipp-middle-schools-positive-significant-achievement-effects"
+     },
+     {
+      "slug": "kipp-mixed-social-studies"
+     },
+     {
+      "slug": "kipp-potentially-positive-science"
+     },
+     {
+      "slug": "tutoring-coaching-data-use-charter-impacts"
+     }
+    ]
+   },
    "urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits": {
     "claims": [
      {
@@ -173100,6 +176852,31 @@
       "polarity": "~",
       "slug": "environmental-neuroscience-active-ingredients-framework",
       "strength": "M"
+     }
+    ]
+   },
+   "us-civic-engagement-and-civics-knowledge-fall-short": {
+    "claims": [
+     {
+      "slug": "civic-focused-education-boosts-adult-participation"
+     },
+     {
+      "slug": "democracy-prep-98-percent-probability-positive-civic-impacts"
+     },
+     {
+      "slug": "democracy-prep-charter-schools-boost-student-voting"
+     },
+     {
+      "slug": "democracy-prep-increases-voter-registration-16-points"
+     },
+     {
+      "slug": "democracy-prep-increases-voting-rates-12-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-registration-gain-16-points"
+     },
+     {
+      "slug": "democracy-prep-lottery-voting-gain-12-points"
      }
     ]
    },
@@ -173283,6 +177060,9 @@
       "slug": "multiyear-averaging-no-accuracy-gain-principal-measures"
      },
      {
+      "slug": "principals-essential-student-achievement-effects-near-teacher-size"
+     },
+     {
       "slug": "school-mgp-stable-despite-principal-change"
      },
      {
@@ -173463,6 +177243,12 @@
       "slug": "mathematica-vam-technical-assistance-phase1"
      },
      {
+      "slug": "proxy-pretest-difference-driven-by-bias-not-precision"
+     },
+     {
+      "slug": "same-subject-pretest-omission-dominates-background-omission"
+     },
+     {
       "slug": "shrinkage-increases-precision-reduces-absolute-va"
      },
      {
@@ -173510,6 +177296,41 @@
      }
     ]
    },
+   "variance-adjustment-reduces-precision-multi-armed": {
+    "claims": [
+     {
+      "slug": "appropriate-estimators-derived-for-each-causal-model"
+     },
+     {
+      "slug": "multi-armed-cace-complex-assumptions"
+     },
+     {
+      "slug": "multi-armed-estimators-modify-two-group-estimators"
+     },
+     {
+      "slug": "pairwise-contrast-samples-represent-full-randomized-set"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "empirical-example-multi-armed-education-rct",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "design-based-estimators-multi-armed-rcts",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "multi-armed-rct-design-based-framework",
+      "strength": "W"
+     }
+    ]
+   },
    "variation-embodiment-awareness-promotes-constructive-teaching-montessori": {
     "claims": [
      {
@@ -173538,6 +177359,9 @@
    "varying-effects-methods-rct-and-quasi-experimental": {
     "claims": [
      {
+      "slug": "cross-site-itt-effect-variation-16-multisite-rcts"
+     },
+     {
       "slug": "head-start-impact-study-comparison-crossover"
      },
      {
@@ -173554,6 +177378,9 @@
      },
      {
       "slug": "nonexperimental-pre-treatment-methods-replicate-itt-under-crossover"
+     },
+     {
+      "slug": "not-all-programs-rct-evaluable-nonexperimental-needed"
      },
      {
       "slug": "replication-robust-to-heterogeneous-complier-always-taker-effects"
@@ -176019,6 +179846,9 @@
    "werp-alphabetics-effects-vary-by-outcome": {
     "claims": [
      {
+      "slug": "blended-learning-effects-vary-by-intervention-and-domain"
+     },
+     {
       "slug": "phonemic-segmentation-favored-over-rhyme-alliteration-yeh"
      },
      {
@@ -176129,6 +179959,11 @@
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "three-within-study-comparisons-pretest-bias-design",
+      "strength": "W"
+     },
      {
       "polarity": "+",
       "slug": "waterford-early-reading-program",
@@ -176258,6 +180093,27 @@
      },
      {
       "slug": "premodern-narratives-assimilate-language-to-world"
+     }
+    ]
+   },
+   "western-pa-employer-convening-soft-skills-new-hires": {
+    "claims": [
+     {
+      "slug": "peer-reviewed-and-industry-research-soft-skills-employers-seek"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "youre-hired-rel-mid-atlantic-report",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "soft-skills-employer-demand-construct",
+      "strength": "W"
      }
     ]
    },
@@ -179582,6 +183438,9 @@
      },
      {
       "slug": "vip-potentially-positive-reading-achievement"
+     },
+     {
+      "slug": "wwc-standards-may-have-improved-research-quality"
      }
     ]
    },
@@ -179598,6 +183457,9 @@
      },
      {
       "slug": "dreambox-measurement-geometry-subtest-not-significant-after-correction"
+     },
+     {
+      "slug": "effect-defined-as-statistically-significant-group-difference"
      },
      {
       "slug": "fhao-three-of-seven-outcomes-favor-program"
@@ -179632,6 +183494,37 @@
       "polarity": "-",
       "slug": "too-good-for-drugs-k8-curriculum",
       "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "statistical-significance-effect-criterion",
+      "strength": "W"
+     }
+    ]
+   },
+   "wwc-design-exclusions-decreasing-over-time": {
+    "claims": [
+     {
+      "slug": "cwpt-grade4-differential-attrition-excluded"
+     },
+     {
+      "slug": "oli-three-of-twelve-studies-meet-wwc-standards"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "wwc-database-of-reviewed-studies",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "wwc-design-standards-causal-evidence-framework",
+      "strength": "M"
      }
     ]
    },
@@ -179850,6 +183743,54 @@
      },
      {
       "slug": "waterford-level-one-no-discernible-print-knowledge-effects"
+     }
+    ]
+   },
+   "wwc-standards-may-have-improved-research-quality": {
+    "claims": [
+     {
+      "slug": "cal-learn-evidence-standards-reservations-attrition"
+     },
+     {
+      "slug": "wwc-attrition-standard-shapes-study-design"
+     },
+     {
+      "slug": "wwc-studies-meeting-standards-increasing-over-time"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "wwc-database-of-reviewed-studies",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "wwc-design-standards-causal-evidence-framework",
+      "strength": "W"
+     }
+    ]
+   },
+   "wwc-studies-meeting-standards-increasing-over-time": {
+    "claims": [
+     {
+      "slug": "wwc-standards-may-have-improved-research-quality"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "wwc-database-of-reviewed-studies",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "wwc-design-standards-causal-evidence-framework",
+      "strength": "M"
      }
     ]
    },
@@ -181351,6 +185292,13 @@
     "elements": [
      {
       "slug": "21st-cclc-elementary-afterschool-program-element"
+     }
+    ]
+   },
+   "26-district-teacher-effectiveness-dataset": {
+    "elements": [
+     {
+      "slug": "ies-teacher-effectiveness-equity-study-26-districts"
      }
     ]
    },
@@ -202744,6 +206692,20 @@
      }
     ]
    },
+   "democracy-prep-charter-network": {
+    "elements": [
+     {
+      "slug": "democracy-prep-public-schools"
+     }
+    ]
+   },
+   "democracy-prep-public-schools": {
+    "elements": [
+     {
+      "slug": "democracy-prep-charter-network"
+     }
+    ]
+   },
    "demonstration": {
     "claims": [
      {
@@ -204955,6 +208917,16 @@
      }
     ]
    },
+   "empirical-example-multi-armed-education-rct": {
+    "theories": [
+     {
+      "slug": "design-based-estimators-multi-armed-rcts"
+     },
+     {
+      "slug": "multi-armed-rct-design-based-framework"
+     }
+    ]
+   },
    "energy-skate-park-basics-sim": {
     "theories": [
      {
@@ -205201,6 +209173,11 @@
     ]
    },
    "essa-transition-title-i-title-ii-a-survey": {
+    "elements": [
+     {
+      "slug": "title-i-title-iia-implementation-study-2013-14"
+     }
+    ],
     "theories": [
      {
       "slug": "essa-state-discretion-framework"
@@ -205310,6 +209287,16 @@
      },
      {
       "slug": "ucsmp-secondary-mathematics-curriculum"
+     }
+    ]
+   },
+   "evidence-based-guide-school-choice-info-parents": {
+    "elements": [
+     {
+      "slug": "online-school-chooser-tool-element"
+     },
+     {
+      "slug": "school-choice-info-presentation-guide"
      }
     ]
    },
@@ -207537,6 +211524,21 @@
      }
     ]
    },
+   "full-roster-method-co-teaching-value-added": {
+    "elements": [
+     {
+      "slug": "partial-credit-method-co-teaching-value-added"
+     },
+     {
+      "slug": "teacher-team-method-co-teaching-value-added"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "three-method-framework-co-teaching-value-added"
+     }
+    ]
+   },
    "functional-approach-oral-dialogue-to-written-discourse-model": {
     "theories": [
      {
@@ -207729,6 +211731,16 @@
     "strategies": [
      {
       "slug": "songs_and_rhymes"
+     }
+    ]
+   },
+   "get-fit-and-prevention-components": {
+    "elements": [
+     {
+      "slug": "healthy-harlem-initiative-element"
+     },
+     {
+      "slug": "healthy-harlem-program-element"
      }
     ]
    },
@@ -208330,6 +212342,31 @@
      }
     ]
    },
+   "healthy-harlem-initiative-element": {
+    "elements": [
+     {
+      "slug": "get-fit-and-prevention-components"
+     },
+     {
+      "slug": "healthy-harlem-program-element"
+     }
+    ]
+   },
+   "healthy-harlem-program-element": {
+    "designs": [
+     {
+      "slug": "universal-prevention-plus-targeted-intensive-tier-pattern"
+     }
+    ],
+    "elements": [
+     {
+      "slug": "get-fit-and-prevention-components"
+     },
+     {
+      "slug": "healthy-harlem-initiative-element"
+     }
+    ]
+   },
    "hearts-whole-school-program": {
     "elements": [
      {
@@ -208530,6 +212567,13 @@
      },
      {
       "slug": "wioa-federal-adult-education-investment"
+     }
+    ]
+   },
+   "ies-teacher-effectiveness-equity-study-26-districts": {
+    "elements": [
+     {
+      "slug": "26-district-teacher-effectiveness-dataset"
      }
     ]
    },
@@ -211767,12 +215811,28 @@
    "nlts-2012-dataset": {
     "elements": [
      {
+      "slug": "nlts-2012-dataset-design-documentation"
+     },
+     {
+      "slug": "nlts-2012-national-longitudinal-transition-study"
+     }
+    ]
+   },
+   "nlts-2012-dataset-design-documentation": {
+    "elements": [
+     {
+      "slug": "nlts-2012-dataset"
+     },
+     {
       "slug": "nlts-2012-national-longitudinal-transition-study"
      }
     ]
    },
    "nlts-2012-national-longitudinal-transition-study": {
     "elements": [
+     {
+      "slug": "nlts-2012-dataset-design-documentation"
+     },
      {
       "slug": "nlts-2012-dataset"
      }
@@ -212271,6 +216331,16 @@
      }
     ]
    },
+   "online-school-chooser-tool-element": {
+    "elements": [
+     {
+      "slug": "evidence-based-guide-school-choice-info-parents"
+     },
+     {
+      "slug": "school-choice-website-factorial-experiment"
+     }
+    ]
+   },
    "onyourmark-virtual-tutoring-program": {
     "elements": [
      {
@@ -212528,6 +216598,16 @@
      },
      {
       "slug": "whole-task-practice"
+     }
+    ]
+   },
+   "partial-credit-method-co-teaching-value-added": {
+    "elements": [
+     {
+      "slug": "full-roster-method-co-teaching-value-added"
+     },
+     {
+      "slug": "teacher-team-method-co-teaching-value-added"
      }
     ]
    },
@@ -218246,6 +222326,13 @@
      }
     ]
    },
+   "rate-the-leader-infographic-staff-feedback": {
+    "elements": [
+     {
+      "slug": "turnaround-leaders-competencies-infographic"
+     }
+    ]
+   },
    "reach-differentiation-practice-framework": {
     "elements": [
      {
@@ -220303,6 +224390,28 @@
     "strategies": [
      {
       "slug": "combine-school-and-human-services-data-for-risk-support"
+     }
+    ]
+   },
+   "school-choice-info-presentation-guide": {
+    "elements": [
+     {
+      "slug": "evidence-based-guide-school-choice-info-parents"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "complementarity-choice-and-control"
+     },
+     {
+      "slug": "school-choice-architecture-framework"
+     }
+    ]
+   },
+   "school-choice-website-factorial-experiment": {
+    "elements": [
+     {
+      "slug": "online-school-chooser-tool-element"
      }
     ]
    },
@@ -222474,6 +226583,13 @@
      }
     ]
    },
+   "synthetic-within-study-comparison-rd": {
+    "theories": [
+     {
+      "slug": "within-study-comparison-rd-rct-cutoff"
+     }
+    ]
+   },
    "tablet-magnetometer-demonstration-set": {
     "principles": [
      {
@@ -222595,6 +226711,29 @@
      }
     ]
    },
+   "teacher-incentive-fund-grant-program": {
+    "elements": [
+     {
+      "slug": "teacher-incentive-fund-performance-compensation-grants"
+     },
+     {
+      "slug": "tif-performance-feedback-and-pay-for-performance-strategies"
+     }
+    ]
+   },
+   "teacher-incentive-fund-performance-compensation-grants": {
+    "elements": [
+     {
+      "slug": "teacher-incentive-fund-grant-program"
+     },
+     {
+      "slug": "tif-performance-feedback-and-pay-for-performance-strategies"
+     },
+     {
+      "slug": "tif-performance-pay-study-design-report"
+     }
+    ]
+   },
    "teacher-level-value-added-model-memphis": {
     "elements": [
      {
@@ -222642,6 +226781,21 @@
     "elements": [
      {
       "slug": "tsdl-project-element"
+     }
+    ]
+   },
+   "teacher-team-method-co-teaching-value-added": {
+    "elements": [
+     {
+      "slug": "full-roster-method-co-teaching-value-added"
+     },
+     {
+      "slug": "partial-credit-method-co-teaching-value-added"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "three-method-framework-co-teaching-value-added"
      }
     ]
    },
@@ -223842,6 +227996,23 @@
      }
     ]
    },
+   "three-within-study-comparisons-pretest-bias-design": {
+    "theories": [
+     {
+      "slug": "pretest-privileging-bias-control-rationale"
+     }
+    ]
+   },
+   "tif-performance-feedback-and-pay-for-performance-strategies": {
+    "elements": [
+     {
+      "slug": "teacher-incentive-fund-grant-program"
+     },
+     {
+      "slug": "teacher-incentive-fund-performance-compensation-grants"
+     }
+    ]
+   },
    "tif-performance-pay-study-design-report": {
     "elements": [
      {
@@ -223852,6 +228023,9 @@
      },
      {
       "slug": "mpr-independent-impact-evaluation"
+     },
+     {
+      "slug": "teacher-incentive-fund-performance-compensation-grants"
      }
     ]
    },
@@ -223869,6 +228043,13 @@
      },
      {
       "slug": "wraparound-counseling-special-ed-support"
+     }
+    ]
+   },
+   "title-i-title-iia-implementation-study-2013-14": {
+    "elements": [
+     {
+      "slug": "essa-transition-title-i-title-ii-a-survey"
      }
     ]
    },
@@ -224044,6 +228225,18 @@
      },
      {
       "slug": "blooms-taxonomy"
+     }
+    ]
+   },
+   "turnaround-leaders-competencies-infographic": {
+    "elements": [
+     {
+      "slug": "rate-the-leader-infographic-staff-feedback"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "four-domains-rapid-school-improvement-framework"
      }
     ]
    },
@@ -224823,6 +229016,13 @@
      },
      {
       "slug": "ror-early-math-family-engagement-project"
+     }
+    ]
+   },
+   "youre-hired-rel-mid-atlantic-report": {
+    "theories": [
+     {
+      "slug": "soft-skills-employer-demand-construct"
      }
     ]
    },
@@ -257674,10 +261874,27 @@
      }
     ]
    },
+   "design-based-causal-inference-approach": {
+    "strategies": [
+     {
+      "slug": "use-design-based-methods-randomized-studies"
+     }
+    ]
+   },
    "design-based-estimators-grouped-administrative-data-rcts": {
     "theories": [
      {
       "slug": "power-formulas-mediator-linking-clustered-rcts"
+     }
+    ]
+   },
+   "design-based-estimators-multi-armed-rcts": {
+    "theories": [
+     {
+      "slug": "multi-armed-rct-design-based-framework"
+     },
+     {
+      "slug": "multisite-rct-design-average-and-variation"
      }
     ]
    },
@@ -260205,6 +264422,30 @@
      }
     ]
    },
+   "four-domains-rapid-school-improvement-framework": {
+    "elements": [
+     {
+      "slug": "turnaround-leaders-competencies-infographic"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "turnaround-leader-research-based-strategies"
+     }
+    ]
+   },
+   "four-forms-accountability-taxonomy-education": {
+    "strategies": [
+     {
+      "slug": "use-transparency-to-promote-professional-accountability"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "logics-of-accountability-four-logic-framework"
+     }
+    ]
+   },
    "four-institutional-forms-competing-values-taxonomy": {
     "theories": [
      {
@@ -262718,6 +266959,9 @@
     ],
     "theories": [
      {
+      "slug": "four-forms-accountability-taxonomy-education"
+     },
+     {
       "slug": "four-institutional-forms-competing-values-taxonomy"
      },
      {
@@ -263402,6 +267646,13 @@
      }
     ]
    },
+   "multi-armed-rct-design-based-framework": {
+    "theories": [
+     {
+      "slug": "design-based-estimators-multi-armed-rcts"
+     }
+    ]
+   },
    "multidimensional-domain-specific-locus-of-control": {
     "theories": [
      {
@@ -263495,6 +267746,13 @@
     "theories": [
      {
       "slug": "multiple-local-coherences-real-time-stability"
+     }
+    ]
+   },
+   "multisite-rct-design-average-and-variation": {
+    "theories": [
+     {
+      "slug": "design-based-estimators-multi-armed-rcts"
      }
     ]
    },
@@ -269598,8 +273856,26 @@
      }
     ]
    },
+   "wwc-design-standards-causal-evidence-framework": {
+    "elements": [
+     {
+      "slug": "wwc-database-of-reviewed-studies"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "wwc-effectiveness-rating-framework"
+     },
+     {
+      "slug": "wwc-evidence-standards-transition-review"
+     }
+    ]
+   },
    "wwc-effectiveness-rating-framework": {
     "theories": [
+     {
+      "slug": "wwc-design-standards-causal-evidence-framework"
+     },
      {
       "slug": "wwc-evidence-standards-transition-review"
      }
@@ -269607,6 +273883,9 @@
    },
    "wwc-evidence-standards-transition-review": {
     "theories": [
+     {
+      "slug": "wwc-design-standards-causal-evidence-framework"
+     },
      {
       "slug": "wwc-effectiveness-rating-framework"
      }
@@ -269762,15 +274041,15 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 5422,
-  "designs": 201,
-  "elements": 1322,
+  "claims": 5562,
+  "designs": 202,
+  "elements": 1351,
   "learner-variables": 12,
   "methods": 38,
   "patterns": 126,
   "principles": 375,
   "processes": 18,
-  "strategies": 3592,
-  "theories": 1100
+  "strategies": 3608,
+  "theories": 1114
  }
 }

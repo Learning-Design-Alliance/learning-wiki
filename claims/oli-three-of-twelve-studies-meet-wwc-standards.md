@@ -51,3 +51,4 @@ The report's research summary section describes its literature search reflecting
 - [The evidence base for Facing History and Ourselves is limited: only one of eight reviewed studies met WWC evidence standards, and it used a quasi-experimental rather than randomized design](fhao-limited-evidence-base-one-quasi-experiment.md) — related
 - [The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations](reading-plus-evidence-extent-small-one-study.md) — related
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related
+- [The number and proportion of studies excluded due to ineligible design are decreasing over time](wwc-design-exclusions-decreasing-over-time.md) — related

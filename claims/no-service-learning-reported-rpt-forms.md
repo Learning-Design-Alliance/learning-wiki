@@ -48,3 +48,4 @@ Null finding from the document analysis in the limitations section. The research
 - [Faculty in applied, hard, and life disciplines are more likely than colleagues in pure, soft, and nonlife disciplines to report publicly engaged scholarship overall](biglan-dimensions-vary-overall-engaged-scholarship.md) — related
 - [Intensity of publicly engaged activity is higher in applied (2.29 vs 1.76) and life (2.28 vs 1.63) disciplines, with no significant hard/soft difference](biglan-intensity-activity-varies.md) — related
 - [Degree of engagement is higher in applied (1.52 vs 1.22, p=.016) and life (1.56 vs 1.07, p=.000) disciplines, with no significant hard/soft difference](biglan-degree-engagement-varies.md) — related
+- [A null study finding can have multiple possible causes and requires interpretation before it informs decisions](null-findings-require-interpretation-of-causes.md) — a broader claim this one bears on

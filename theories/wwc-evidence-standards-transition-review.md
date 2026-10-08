@@ -45,6 +45,7 @@ The review applies a structured evidence-rating framework in which programs rece
 ## Related Theories
 
 - [WWC effectiveness rating framework for intervention evidence](wwc-effectiveness-rating-framework.md)
+- [What Works Clearinghouse design standards as a framework defining causal evidence requirements in education research](wwc-design-standards-causal-evidence-framework.md)
 
 ## Examples
 -

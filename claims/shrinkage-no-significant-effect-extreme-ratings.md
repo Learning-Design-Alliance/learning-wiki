@@ -48,3 +48,4 @@ The paper reports a null finding: shrinkage has "no statistically significant ef
 - [Shrinkage does not change accountability consequences for teachers of hard-to-predict students, since extreme-rating probabilities are unaffected](shrinkage-leaves-accountability-consequences-unchanged.md) — possibly the same claim (merge candidate)
 - [Shrinkage had no statistically significant effect on the relative probability that teachers of hard-to-predict students received consequences](shrinkage-no-significant-effect-consequences-hard-to-predict.md) — related
 - [Shrinkage could differentially affect consequences for teachers of fewer students or students with hard-to-predict achievement](shrinkage-differential-impact-concern.md) — related
+- [Empirical Bayes shrinkage could be used to address bias in proxy pre-test value-added estimates](empirical-bayes-shrinkage-for-proxy-pretest-bias.md) — related

@@ -52,6 +52,7 @@ NLTS 2012 is a national longitudinal study of youth with disabilities, conducted
 ## Related Elements
 
 - [National Longitudinal Transition Study 2012 (NLTS 2012)](nlts-2012-dataset.md)
+- [NLTS 2012 dataset and design documentation](nlts-2012-dataset-design-documentation.md)
 
 ## Examples
 -

@@ -48,3 +48,7 @@ Difference-in-differences analysis of Philadelphia's district-level discipline p
 - [Serious incidents of student misconduct increased in Philadelphia following the discipline policy reform](philadelphia-reform-serious-incidents-increased.md) — related
 - [Truancy rates increased in Philadelphia following the discipline policy reform](philadelphia-reform-truancy-increased.md) — related
 - [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](same-infractions-black-disabilities-more-suspensions.md) — related
+- [In schools that eliminated classroom disorder out-of-school suspensions, peer math achievement and attendance were unaffected](full-implementation-schools-peer-outcomes-unaffected.md) — related
+- [Many Philadelphia schools did not comply with the policy change prohibiting out-of-school suspension for low-level offenses](many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses.md) — related
+- [The School District of Philadelphia reformed its student code of conduct in 2012-2013 to prohibit suspensions and expulsions for two types of non-violent student conduct](philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses.md) — related
+- [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related

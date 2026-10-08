@@ -49,3 +49,6 @@ A key finding in the report's Key Findings section, one of three themes reported
 - [CMOs with the greatest positive impact on student achievement were most likely to establish consistent schoolwide behavior expectations for students](cmo-impact-linked-schoolwide-behavior-expectations.md) — related
 - [Five successful CMOs used identifiable approaches intended to help improve student achievement](five-cmos-approaches-improve-achievement.md) — related
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](four-implementation-themes-exclusion-interventions.md) — related
+- [A mission that prioritizes boosting student achievement is associated with positive charter-school impacts](achievement-focused-mission-charter-impacts.md) — a narrower finding that bears on this claim
+- [Comprehensive behavioral policies with rewards and sanctions are associated with positive charter-school impacts](behavioral-policies-rewards-sanctions-charter-impacts.md) — related
+- [Long school days or years are among the policies most consistently associated with positive charter-school impacts](long-school-days-years-charter-impacts.md) — related

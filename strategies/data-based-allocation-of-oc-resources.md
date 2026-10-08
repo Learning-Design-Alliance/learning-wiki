@@ -37,7 +37,8 @@ The article's concluding recommendation is that school leaders use their finding
 - Favorable implementer attitudes toward evidence-based practices to support implementation of universal prevention programs for youth mental health
 
 ## Related Strategies
-- 
+
+- [Use research-based turnaround leadership strategies to support a comprehensive turnaround initiative](turnaround-leader-research-based-strategies.md)
 
 ## Examples
 -
