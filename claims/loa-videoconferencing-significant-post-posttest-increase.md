@@ -49,3 +49,4 @@ Descriptive analysis of the 15 respondents completing all three surveys showed v
 - [Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December](loa-lms-adoption-growth.md) — related
 - [Interactive whiteboard results showed shifts between orientation/preparation after returning to schools, raising questions about perceived versus actual use](loa-whiteboard-perceived-versus-actual-use.md) — related
 - [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](novice-idc-growth-simplification-linearity-dogmatism.md) — related
+- [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related

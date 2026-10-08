@@ -47,3 +47,4 @@ Finding on interagency collaboration from the national PROMISE evaluation. The a
 - [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](clasp-diverse-users-missing-library-links.md) — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
 - [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](clasp-critical-success-factors-communication.md) — related
+- [FEIP was associated with improvements in interagency collaboration and organizational capacity to support family engagement](feip-interagency-collaboration-capacity-improvements.md) — related

@@ -53,9 +53,11 @@ The Teacher Incentive Fund is a federal grant program established by Congress in
 - [Teacher Incentive Fund (TIF) federal grant program supporting performance-based compensation systems](teacher-incentive-fund-grant-program.md)
 - [Teacher Incentive Fund (TIF) performance pay evaluation study design report](tif-performance-pay-study-design-report.md)
 - [Teacher Incentive Fund (TIF) educator evaluation and compensation strategies](tif-performance-feedback-and-pay-for-performance-strategies.md)
+- [Teacher Incentive Fund (TIF) performance-based compensation program](teacher-incentive-fund-program.md)
 
 ## Examples
--
+
+- [Design pay-for-performance bonus structures that align with grant guidance and clearly communicate eligibility to teachers](../strategies/align-and-communicate-performance-bonus-rules.md)
 
 ## Key Sources
 - Hanley Chiang, Cecilia Speroni, Mariesa Herrmann, Kristin Hallgren, Paul Burkander, Alison Wellington. (2017). Evaluation of the Teacher Incentive Fund: Final Report on Implementation and Impacts of Pay-for-Performance Across Four Years. Washington, DC: U.S. Department of Education, National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences. https://ies.ed.gov/ncee/pubs

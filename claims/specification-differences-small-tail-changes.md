@@ -47,3 +47,4 @@ Comparison of value-added estimates across model specifications using urban scho
 - [Teacher value-added estimates are highly correlated across model specifications that differ in student and peer control variables](vam-estimates-highly-correlated-across-specifications.md) — reports the opposite
 - [The choice of which assessment to use as the outcome measure matters more for value-added estimates than any student or peer control-variable specification choice](vam-outcome-assessment-choice-dominates-specification-choices.md) — related
 - [Including track indicators in value-added models may reduce tracking-related bias for high school reading teachers](track-indicators-reduce-bias-high-school-reading.md) — related
+- [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — related

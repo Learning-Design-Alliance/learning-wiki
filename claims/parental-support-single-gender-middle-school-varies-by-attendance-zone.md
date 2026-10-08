@@ -46,3 +46,4 @@ A district telephone survey report maps parental support by elementary attendanc
 - [Parents supported having a single-gender option available but were less supportive when choosing it for their own child](moderate-option-support-lower-personal-choice-support.md) — related
 - [Support for single-gender middle schools dropped when traditional-school attendance required travel outside the neighborhood](travel-outside-neighborhood-reduces-single-gender-support.md) — related
 - [Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns](neighborhood-based-desegregation-plans-short-term.md) — related
+- [The CVPromise catchment area was deliberately aligned with the attendance zone of Castle Park Elementary, a low-performing school in program improvement status](cvpromise-catchment-aligned-to-castle-park-elementary-attendance-zone.md) — related

@@ -43,7 +43,8 @@ New Jersey piloted its principal evaluation system, which combines measures of t
 - [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](../claims/practice-instrument-partial-reliability-validity-info.md) [~M]
 
 ## Related Elements
-- 
+
+- [New Jersey statewide principal evaluation system (2013/14)](nj-statewide-principal-evaluation-system.md)
 
 ## Examples
 -

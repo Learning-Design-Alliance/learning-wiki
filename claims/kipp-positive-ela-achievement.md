@@ -58,3 +58,4 @@ WWC review of four studies; Table 4 rates ELA achievement "Positive effects" wit
 - [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](kipp-middle-schools-positive-significant-achievement-effects.md) — a broader claim this one bears on
 - [KIPP middle schools show significant and substantial positive impacts on achievement in reading, math, science, and social studies](kipp-middle-schools-positive-impacts-four-subjects.md) — a narrower finding that bears on this claim
 - [KIPP middle schools produce significant achievement gains in reading, math, science, and social studies](kipp-middle-schools-significant-achievement-gains.md) — related
+- [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related

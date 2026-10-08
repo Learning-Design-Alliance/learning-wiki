@@ -56,3 +56,5 @@ The publication abstract states the paper's purpose: examining sensitivity and p
 - [Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails](specification-differences-small-tail-changes.md) — related
 - [Bias, not precision loss, drives the difference in proxy pre-test value-added estimates](proxy-pretest-difference-driven-by-bias-not-precision.md) — related
 - [Omitting same-subject pre-tests affects value-added estimates more than excluding other student background characteristics](same-subject-pretest-omission-dominates-background-omission.md) — a narrower finding that bears on this claim
+- [Most differences in evaluation scores between the Colorado Growth Model and value added are not related to the characteristics of students' teachers](cgm-value-added-differences-unrelated-to-teacher-characteristics.md) — related
+- [Oklahoma's 2013-2014 teacher value-added estimates combined test scores with other information about teachers and students](oklahoma-value-added-uses-test-scores-and-other-information.md) — related

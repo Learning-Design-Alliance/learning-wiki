@@ -50,6 +50,7 @@ This element is the analytic approach Mathematica applied to produce value-added
 - [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](dc-value-added-assessment-system.md)
 - [New Leaders school and teacher effectiveness identification methods](new-leaders-effectiveness-identification-methods.md)
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](pittsburgh-value-added-models-teacher-school-contributions.md)
+- [Oklahoma teacher value-added measures for the 2013-2014 school year](oklahoma-teacher-value-added-measures-2013-14.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ The report's framing statement describes the coverage limits of traditional annu
 ## Related Claims
 - [Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.](standardized-tests-problematic-young-children-outcomes.md) — related
 - [Using typical measures of school performance may lead state and local decisionmakers astray when identifying schools for support](typical-school-performance-measures-may-mislead-identification.md) — related
+- [Alternative student growth measures brought financial costs and implementation challenges around teacher time, test administration, and rigor](implementation-costs-and-challenges-growth-measures.md) — related

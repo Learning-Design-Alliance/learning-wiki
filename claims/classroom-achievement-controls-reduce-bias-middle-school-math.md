@@ -45,3 +45,4 @@ Observational analysis of urban school district data comparing value-added speci
 ## Related Claims
 - [Including track indicators and classroom achievement controls simultaneously reduces precision of value-added estimates](combined-specifications-reduce-precision.md) — related
 - [Including track indicators in value-added models may reduce tracking-related bias for high school reading teachers](track-indicators-reduce-bias-high-school-reading.md) — related
+- [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — related

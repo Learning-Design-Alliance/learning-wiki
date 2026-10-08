@@ -46,3 +46,4 @@ The paper's summary of its factorial experiment reports that "simple design choi
 - [Changing the default order in which schools are presented induces meaningful changes in the types of schools low-income parents choose](default-order-changes-school-choice.md) — possibly the same claim (merge candidate)
 - [Displaying data with icons or concise summaries led parents to choose schools with higher academic performance than graphs, numbers, or detailed displays](icons-concise-summaries-higher-performing-schools.md) — related
 - [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — a broader claim this one bears on
+- [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related

@@ -40,12 +40,14 @@ The article organizes the problem of modeling value added "when the same student
 - [Teacher Team And Full Roster Methods Produce Similar Estimates](../claims/teacher-team-and-full-roster-methods-produce-similar-estimates.md) [+M]
 
 ## Related Theories
-- 
+
+- [Options framework for addressing co-teaching in value-added models](coteaching-value-added-options-framework.md)
 
 ## Examples
 
 - [Full Roster Method for co-taught value-added estimation](../elements/full-roster-method-co-teaching-value-added.md)
 - [Teacher Team Method for co-taught value-added estimation](../elements/teacher-team-method-co-teaching-value-added.md)
+- [Policymakers and model developers should use the Full Roster-Plus Method to account for co-teaching in value-added models](../strategies/use-full-roster-plus-method-for-coteaching.md)
 
 ## Key Sources
 - Heinrich Hock, Eric Isenberg. (2017). Methods for Accounting for Co-Teaching in Value-Added Models. Statistics and Public Policy, vol. 4, issue 1. https://www.mathematica.org/publications/methods-for-accounting-for-co-teaching-in-value-added-models

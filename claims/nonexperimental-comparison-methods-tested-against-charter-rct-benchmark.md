@@ -46,3 +46,5 @@ The publisher's abstract describes the study's design: it reuses data from "Math
 - [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) — related
 - [The intent-to-treat experimental impact estimate is the most causally rigorous measure for nonexperimental methods to replicate](itt-estimate-most-causally-rigorous-benchmark.md) — related
 - [The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula](school-level-random-assignment-four-math-curricula.md) — related
+- [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](predictive-baseline-data-reduce-nonexperimental-bias.md) — a narrower finding that bears on this claim
+- [Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies](prior-bias-studies-used-weaker-designs.md) — related

@@ -46,7 +46,8 @@ New activities undertaken by states and districts that grew out of the TSDL proj
 - [Teacher-Student Data Link (TSDL) project](tsdl-project-element.md)
 
 ## Examples
--
+
+- [Pilot statewide roster verification systems before full implementation](../strategies/pilot-statewide-rv-systems-before-implementation.md)
 
 ## Key Sources
 - Cassie Pickens Jewell, Kristin Hallgren, Sarah Wissel. (2014). The Teacher-Student Data Link Project: Three Lasting Accomplishments. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/the-teacher-student-data-link-project-accomplishments

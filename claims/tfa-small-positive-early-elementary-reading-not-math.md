@@ -49,3 +49,4 @@ The review's synthesis across the four included studies found a positive reading
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — reports the opposite
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related
 - [TFA corps members hired in the first two years of the i3 scale-up were as effective as other teachers in the same high-poverty schools in teaching reading and math](tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools.md) — related
+- [Under the i3 scale-up grant, TFA planned to grow its corps by 80 percent and aimed for a majority of its teachers to be rated highly effective by the 2014-2015 school year](tfa-i3-grant-growth-and-effectiveness-goals.md) — related

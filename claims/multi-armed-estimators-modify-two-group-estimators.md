@@ -48,3 +48,4 @@ Methodological exposition in an IES analytic report: the author states that two-
 - [In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units](pairwise-contrast-samples-represent-full-randomized-set.md) — related
 - [The developed estimators apply to a wide range of education research designs, including clustered and blocked designs](design-based-estimators-clustered-blocked-designs.md) — related
 - [Multiple comparison adjustments are needed when conducting hypothesis tests across pairwise contrasts to identify the most effective interventions](multi-armed-multiple-comparison-adjustments.md) — related
+- [Blocked randomization is always recommended in small CRCTs, but covariate adjustment for blocking depends on a precision-versus-degrees-of-freedom tradeoff](blocked-randomization-always-covariate-adjustment-tradeoff-small-crcts.md) — related

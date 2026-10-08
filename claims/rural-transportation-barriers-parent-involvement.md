@@ -67,3 +67,4 @@ Site visit data on improvement actions: four of nine rural schools made parent i
 - [Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day](rural-transportation-shapes-learning-time-expansion.md) — related
 - [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — related
 - [Small rural teaching staffs forced PLCs across grades and subjects, and teachers in four schools felt isolated from same-subject colleagues](small-rural-staffs-cross-subject-plcs-isolation.md) — related
+- [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — a broader claim this one bears on

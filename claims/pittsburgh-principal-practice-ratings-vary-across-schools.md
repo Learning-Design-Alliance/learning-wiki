@@ -45,3 +45,4 @@ Analysis of the principal-assigned professional practice rating found "Variation
 ## Related Claims
 - [The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy](two-analysis-approach-principal-measure-accuracy.md) — related
 - [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](pittsburgh-three-measures-differentiate-teacher-performance.md) — related
+- [Component measure ratings had low to moderate positive correlations with each other, suggesting the components measure distinct dimensions of principal performance](component-measures-distinct-dimensions-principal-performance.md) — related

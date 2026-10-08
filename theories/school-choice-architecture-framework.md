@@ -45,7 +45,8 @@ The article organizes its inquiry around the idea that the architecture of schoo
 - [How school information is presented can affect how parents rank their school choices](../claims/school-info-presentation-affects-school-rankings.md) [+W]
 
 ## Related Theories
-- 
+
+- [Preference-based sorting of students into schools under different school-choice policies](preference-based-student-sorting-under-choice-policies.md)
 
 ## Examples
 

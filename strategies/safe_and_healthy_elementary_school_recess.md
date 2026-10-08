@@ -61,9 +61,11 @@ Structured recess leverages the fact that social skills and self-regulation are 
 7. Monitor and iterate: track activity levels, incident reports, and student feedback; adjust game offerings and roles.
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — the overlapping strategy of raising physical activity levels during recess; safe-and-healthy recess adds the social-climate and conflict-resolution layer
 - [Cooperative Learning](../patterns/cooperative-learning.md) — the same group-reward and individual-accountability logic applied to playground games rather than academic tasks
 - [Social-Emotional Learning Integration](../strategies/social-emotional-learning-integration.md) — recess as a practice field for SEL competencies taught in the classroom
+- [Guide students in organized activities during recess and improve the recess play yard to raise physical activity, especially for girls](organized-recess-activities-yard-improvements-strategy.md)
 
 ## Related Elements
 - [Modeling](../elements/modeling.md) — coaches demonstrate games and dispute resolution before students run them independently

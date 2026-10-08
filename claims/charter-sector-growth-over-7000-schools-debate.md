@@ -44,3 +44,4 @@ Descriptive framing statement from the publication's overview of the charter sch
 
 ## Related Claims
 - [The charter-school sector has grown to nearly 7,000 schools serving nearly 3 million students since 1992](charter-sector-growth-nearly-7000-schools.md) — related
+- [The charter school sector grew to more than 6,800 schools serving nearly 3 million students across forty states and DC by 2015–16](charter-sector-scale-2015-16.md) — related

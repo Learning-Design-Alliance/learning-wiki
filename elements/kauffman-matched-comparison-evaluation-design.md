@@ -47,6 +47,7 @@ The evaluation identified a group of students in other Kansas City district and 
 
 - [Ewing Marion Kauffman Charter School](ewing-marion-kauffman-charter-school.md)
 - [Ewing Marion Kauffman School: a tuition-free charter school serving Kansas City students in grades 5-10](ewing-marion-kauffman-charter-school-element.md)
+- [Matched comparison group design for charter school impact evaluation](matched-comparison-group-charter-evaluation-design.md)
 
 ## Examples
 -

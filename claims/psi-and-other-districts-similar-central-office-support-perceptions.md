@@ -46,3 +46,4 @@ Survey comparison of supervisor perceptions across PSI and non-PSI urban distric
 - [Principal supervisors in PSI districts supervised fewer principals than those in other urban districts](psi-supervisors-supervised-fewer-principals.md) — related
 - [PSI district principal supervisors were more likely to receive role-specific training and rated it more highly than supervisors in other urban districts](psi-supervisors-more-role-specific-training.md) — related
 - [PSI districts were more likely than other urban districts to offer programs for new and aspiring supervisors](psi-districts-offer-new-aspiring-supervisor-programs.md) — related
+- [Stronger working relationships emerged among highest-level central office administrators, but rifts and skepticism about systemic change remained among other staff](central-office-relationships-stronger-at-top-with-rifts-among-other-staff.md) — related

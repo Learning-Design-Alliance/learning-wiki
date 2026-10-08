@@ -52,3 +52,4 @@ A key finding in the report's Key Findings section, one of three themes reported
 - [A mission that prioritizes boosting student achievement is associated with positive charter-school impacts](achievement-focused-mission-charter-impacts.md) — a narrower finding that bears on this claim
 - [Comprehensive behavioral policies with rewards and sanctions are associated with positive charter-school impacts](behavioral-policies-rewards-sanctions-charter-impacts.md) — related
 - [Long school days or years are among the policies most consistently associated with positive charter-school impacts](long-school-days-years-charter-impacts.md) — related
+- [Long school days or years, comprehensive behavioral policies with rewards and sanctions, and an achievement-focused mission are most strongly associated with charter school success](extended-time-behavior-policies-mission-associated-charter-success.md) — related

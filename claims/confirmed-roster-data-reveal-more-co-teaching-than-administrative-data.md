@@ -44,3 +44,4 @@ The article reports, from its DC Public Schools value-added project, that teache
 
 ## Related Claims
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
+- [Researchers presume grades 4-5 administrative data are better for value-added teacher effectiveness research because of self-contained classrooms and classroom homogeneity](grades-4-5-data-premise-for-value-added-research.md) — related

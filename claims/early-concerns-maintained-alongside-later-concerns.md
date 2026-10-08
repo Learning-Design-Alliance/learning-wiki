@@ -51,3 +51,4 @@ Discussion of the case study's interview and SoCQ findings: teachers developed C
 - [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
 - [Two independent research efforts identified the same three pre-use phases of the adoption process](three-pre-use-phases-independently-identified.md) — related
 - [The Transtheoretical Model of Change applies to the adoption of improved study skills: decisional balance pros and cons follow the TTM pattern across stages, self-efficacy rises from contemplation to maintenance, and action/maintenance students use more deep achieving strategies.](ttm-applies-to-study-skill-adoption.md) — related
+- [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related

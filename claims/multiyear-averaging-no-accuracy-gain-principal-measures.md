@@ -49,3 +49,5 @@ A key finding of the brief is that "Averaging measures across multiple recent ye
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
 - [School value added provides very poor information for revealing principals' persistent levels of effectiveness](school-value-added-poor-information-principal-effectiveness.md) — related
 - [Student growth measures describe gains in student learning based on how much students' test scores changed over a school year](student-growth-measures-describe-test-score-gains.md) — related
+- [Average achievement and adjusted average achievement measures provide no information for predicting principals' contributions to student achievement in the following year](average-achievement-measures-no-predictive-information-principals.md) — related
+- [School value-added and adjusted school value-added provide at most a small amount of information for predicting principals' future contributions to student achievement](school-value-added-small-predictive-information-principals.md) — related

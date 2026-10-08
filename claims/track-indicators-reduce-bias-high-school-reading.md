@@ -46,3 +46,4 @@ Observational analysis of urban school district data comparing value-added model
 - [Including track indicators and classroom achievement controls simultaneously reduces precision of value-added estimates](combined-specifications-reduce-precision.md) — related
 - [Accounting for mean and standard deviation of classroom achievement may reduce bias for middle school math teachers](classroom-achievement-controls-reduce-bias-middle-school-math.md) — related
 - [Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails](specification-differences-small-tail-changes.md) — related
+- [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — related

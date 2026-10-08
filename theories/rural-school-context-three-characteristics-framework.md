@@ -48,7 +48,8 @@ The brief organizes rural context around three characteristics that distinguish 
 - 
 
 ## Examples
--
+
+- [Nine rural schools within a 35-school SIG school improvement process study](../elements/nine-rural-sig-schools-study.md)
 
 ## Key Sources
 - A Focused Look at Rural Schools Receiving School Improvement Grants. (2014). NCEE Evaluation Brief, NCEE 2014-4013. https://ies.ed.gov/ncee/pubs/20144013/

@@ -51,3 +51,4 @@ The brief's key findings summarize two IES studies: a two-year evaluation of per
 - [Some aspects of TIF implementation improved between years one and two while others, including bonus awareness, remained challenging](tif-implementation-mixed-improvement.md) — related
 - [In the 2010 TIF pay-for-performance programs, over 60% of teachers received a bonus, with average bonuses of about $1,800 and top performers earning more than 3 times the average](tif-bonuses-easily-earned-top-performers-larger.md) — related
 - [The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses](tif-average-bonus-below-recommended-share.md) — related
+- [The TIF evaluation provides an in-depth analysis of implementation and pay-for-performance impacts for ten districts after three years, and program-wide implementation descriptions for all 2010 grantees](tif-evaluation-scope-ten-districts-three-years.md) — related

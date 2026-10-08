@@ -52,3 +52,4 @@ The study's summary states it "examined the effects of five design factors on kn
 - [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](classical-inference-prohibitive-sample-sizes-factorial.md) — related
 - [Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision](bayesian-partial-pooling-precision-false-positive-control.md) — related
 - [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a broader claim this one bears on
+- [FEIP implementation was associated with improvements in parents' knowledge and attitudes about family engagement and their uptake of family engagement supports](feip-parent-knowledge-attitudes-uptake-improvements.md) — related
