@@ -44,3 +44,6 @@ The article reports from its analysis of teacher value-added estimates that "tea
 
 ## Related Claims
 - [Shrinkage could differentially affect consequences for teachers of fewer students or students with hard-to-predict achievement](shrinkage-differential-impact-concern.md) — related
+- [Teachers of students with hard-to-predict achievement levels tend to have less precise value-added estimates than teachers of other students](hard-to-predict-students-less-precise-teacher-va-estimates.md) — possibly the same claim (merge candidate)
+- [Empirical Bayes shrinkage increases the precision of value-added estimates and reduces their absolute value for teachers of hard-to-predict students](shrinkage-increases-precision-reduces-absolute-va.md) — related
+- [Shrinkage does not change accountability consequences for teachers of hard-to-predict students, since extreme-rating probabilities are unaffected](shrinkage-leaves-accountability-consequences-unchanged.md) — related

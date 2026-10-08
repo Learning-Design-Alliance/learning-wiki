@@ -43,7 +43,8 @@ Value-added models are statistical models used in Oklahoma's evaluation system t
 - [Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year](../claims/pittsburgh-vam-report-2016-documents-district-use.md) [+W]
 
 ## Related Theories
-- 
+
+- [Value added as a measure of teacher effectiveness](value-added-teacher-effectiveness-measure.md)
 
 ## Examples
 

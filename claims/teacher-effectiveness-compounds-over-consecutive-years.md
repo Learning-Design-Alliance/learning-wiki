@@ -49,3 +49,5 @@ This finding is the empirical backbone of the argument for growth (or "value-add
 - [District achievement data showed performance dropping off substantially in the middle grades relative to national norms](achievement-drops-in-middle-grades.md) — related
 - [Summer reading loss disproportionately widens academic gaps for low-income children](summer-reading-loss-widens-gaps.md) — related
 - [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — related
+- [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-less-effective-teaching.md) — related
+- [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](vam-omitting-background-lowers-disadvantaged-district-ratings.md) — related

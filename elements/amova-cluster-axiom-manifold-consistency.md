@@ -45,6 +45,7 @@ The AMOVA Cluster Axiom for Manifold Consistency is a logical-mathematical rule 
 ## Related Elements
 
 - [Accumulative Crosswise-Validation Analysis: within-row and between-column validity measurement](accumulative-crosswise-validation-analysis.md)
+- [Checklist 4: reporting evidence of reliability and construct validity](reliability-construct-validity-evidence-checklist.md)
 
 ## Examples
 -

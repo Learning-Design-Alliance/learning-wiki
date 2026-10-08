@@ -47,3 +47,4 @@ Authors' interpretive statement (no data reported): the WWC, Home Visiting Evide
 - [VIP shows potentially positive effects on reading achievement for fifth-grade English language learners (effect size 0.50, not statistically significant)](vip-potentially-positive-reading-achievement.md) — related
 - [The evidence base for the Lovaas Model is small: only two of 58 reviewed studies met WWC evidence standards](lovaas-model-evidence-base-small-two-studies.md) — related
 - [No studies meeting WWC group design standards exist for UCSMP Geometry, Advanced Algebra, Functions Statistics and Trigonometry, or Precalculus and Discrete Mathematics](no-evidence-other-ucsmp-secondary-courses.md) — related
+- [The guide argues opportunistic experiments have potentially low cost while not conducting them has potentially high cost](opportunistic-experiments-low-cost-high-cost-of-inaction.md) — related

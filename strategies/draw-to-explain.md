@@ -58,8 +58,10 @@ Drawing is a generative learning activity: learners must construct external stru
 5. Fade support over time — from completing partial diagrams to drawing from scratch — as competence grows [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - **Draw-to-remember** — same drawing act but oriented to recall rather than explanation; weaker for causal understanding
 - **Peer explanation** — drawings become artifacts for peer critique, adding feedback loops
+- [Use data visualization to make complex concepts accessible in research communication](data-visualization-for-accessible-research-communication.md)
 
 ## Examples
 - **[Picturing to Learn](https://picturingtosolve.org)** (Harvard/MIT) — undergraduate science students create drawings to explain concepts to non-experts; the audience constraint improves selectivity and reveals misconceptions.

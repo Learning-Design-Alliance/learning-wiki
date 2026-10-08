@@ -47,3 +47,4 @@ WWC synthesis of two quasi-experimental studies (Frechtling et al., 2006; Hecht,
 - [The Frechtling, Zhang, and Silverstein (2006) study showed a substantively important positive average alphabetics effect, while Hecht (2003) did not](voyager-study-average-effect-sizes-differ.md) — related
 - [Evidence extent for Voyager is moderate to large for alphabetics and small for comprehension, with no qualifying studies of fluency or general reading achievement](voyager-extent-of-evidence-by-domain.md) — related
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
+- [Functional life skills development programs show potentially positive effects on independent living, with a small evidence base](functional-life-skills-independent-living-potentially-positive.md) — related

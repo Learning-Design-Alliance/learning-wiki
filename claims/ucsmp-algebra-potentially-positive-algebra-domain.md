@@ -50,3 +50,4 @@ WWC synthesis of two studies of UCSMP Algebra meeting standards with reservation
 - [The WWC rates multiple UCSMP courses as having potentially positive effects on mathematics achievement for secondary students](wwc-rating-multiple-ucsmp-courses-potentially-positive.md) — related
 - [Four years of multiple UCSMP courses have potentially positive effects on general mathematics achievement, with site-level and measure-level inconsistency](multiple-ucsmp-courses-positive-general-math-achievement.md) — related
 - [UCSMP Algebra has potentially positive effects on general mathematics achievement for secondary students, with a small extent of evidence](ucsmp-algebra-potentially-positive-general-mathematics-achievement.md) — related
+- [Functional life skills development programs show potentially positive effects on independent living, with a small evidence base](functional-life-skills-independent-living-potentially-positive.md) — related

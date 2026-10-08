@@ -74,10 +74,12 @@ Checklists can be customized with different scales (4-point, 7-point), criteria,
 6. Fade use as competence grows: move from full checklists to partial lists to learner-generated criteria, transferring monitoring responsibility [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ## Related Strategies
+
 - Rubrics — scaled checklists with quality-level descriptors; rubrics add graded performance levels where checklists mark presence or absence
 - Self-assessment protocols — checklists are the most common artifact through which structured self-assessment is operationalized
 - Progress portfolios — checklists supply the item-level evidence that portfolios aggregate into a growth narrative
 - [Rubrics](rubrics.md) — the more informative next step when quality, not just presence, needs to be assessed
+- [Use the checklists against a draft methods and results section to check completeness of reporting](use-checklists-to-check-reporting-completeness.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the checklist is the instrument; performance assessment is the act it supports

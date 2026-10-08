@@ -46,3 +46,4 @@ The report's summary describes this as "suggestive evidence" of an added Pre-K b
 - [KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function](kipp-prek-possible-executive-function-impact.md) — related
 - [KIPP Pre-K combined with KIPP early elementary school has positive, statistically significant impacts on reading and math achievement after five years](kipp-prek-elementary-five-year-reading-math-impacts.md) — related
 - [The KIPP impact on reading skills persists over time, but impacts on reading comprehension largely dissipate by grade 2](kipp-reading-skills-persist-comprehension-dissipates-grade-2.md) — related
+- [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](first-rigorous-study-kipp-all-grade-levels.md) — a broader claim this one bears on

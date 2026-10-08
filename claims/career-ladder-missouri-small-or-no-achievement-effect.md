@@ -44,3 +44,4 @@ Quasi-experimental matched comparison of 524 Missouri school districts over a ni
 
 ## Related Claims
 - [After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts](tif-pay-for-performance-small-positive-achievement-impacts.md) — related
+- [One year of teaching-effectiveness differences is estimated to represent 4 percent of the existing reading achievement gap and 2 to 3 percent of the math gap](teaching-disparity-share-of-achievement-gap.md) — related

@@ -44,3 +44,5 @@ The program design, as described in the article, offered $20,000 to "high-perfor
 
 ## Related Claims
 - [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — possibly the same claim (merge candidate)
+- [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](selective-transfer-incentive-20000-hard-to-staff-schools.md) — possibly the same claim (merge candidate)
+- [The paper examines high-performing teachers' willingness to transfer and the transfer offer's effect on receiving schools' internal dynamics](transfer-offer-effects-teacher-willingness-and-school-dynamics.md) — related

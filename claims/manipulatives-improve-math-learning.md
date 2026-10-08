@@ -60,3 +60,4 @@ This claim currently lacks evidence entries. Studies establishing when manipulat
 - [Hands-on learning improves achievement](hands-on-learning-improves-achievement.md) — possibly the same claim (merge candidate)
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
+- [Using more representations of mathematical ideas is associated with increased student math achievement](more-representations-mathematical-ideas-higher-achievement.md) — related

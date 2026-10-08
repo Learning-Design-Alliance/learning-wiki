@@ -49,6 +49,7 @@ KIPP Pre-K is a pre-kindergarten program offered by the KIPP charter school netw
 
 - [KIPP: a network of charter middle schools for disadvantaged students evaluated over multiple years](kipp-charter-school-network.md)
 - [Strategic Data Use in Education initiative evaluation (2011-2015)](strategic-data-use-in-education-initiative-evaluation.md)
+- [KIPP public charter school network multi-grade-level impact evaluation](kipp-network-multigrade-evaluation.md)
 
 ## Examples
 -

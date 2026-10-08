@@ -50,3 +50,5 @@ The authors' own limitations section for this correlational, cross-sectional stu
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Adults' resorting to epistemic violence correlates negatively with past enjoyment of and tendency toward education-related epistemic freedom](epistemic-violence-negatively-correlated-epistemic-freedom.md) — related
 - [Overlapping confidence intervals of Japanese math performance and mastery learning effects indicate a potential relationship, not a causal conclusion](overlapping-ci-potential-relationship.md) — a narrower finding that bears on this claim
+- [The three Pittsburgh teacher effectiveness measures are positively, moderately correlated, suggesting they are valid and complementary](pittsburgh-teacher-measures-moderately-correlated.md) — related
+- [School median student growth percentiles correlate with student disadvantage](school-mgp-correlates-student-disadvantage.md) — a narrower finding that bears on this claim

@@ -63,6 +63,7 @@ Frequent, personalized teacher-family communication measurably increases student
 - [Check-Ins](../principles/check-ins.md) — low-cost recurring contact structures that communication schedules extend to families
 - [Action-Oriented Feedback](../strategies/action-oriented-feedback.md) — the feedback framing that makes progress communication actionable rather than evaluative
 - [Use universally designed auto-translated two-way messaging so families need only basic text messaging](auto-translated-two-way-family-messaging.md)
+- [SIG-funded parent liaisons paired with structured parent contact practices to increase family engagement](parent-liaison-structured-contact-rural-schools.md)
 
 ## Examples
 - **Kraft & Dougherty's texting intervention** — teachers sent brief individualized messages (positive notes, progress reminders) to families of high school students several times per month; treated students showed increased homework completion and class participation.

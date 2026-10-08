@@ -50,7 +50,9 @@ A research-practice partnership (RPP) can respond to a crisis or sudden disrupti
 6. After the acute phase passes, deliberately return to reflect on what the disruption revealed about the partnership's own resilience, and consider it a resource for future disruptions rather than a one-time exception.
 
 ## Related Strategies
+
 - (none yet linked)
+- [Build implementation support through inclusive needs assessments, flexible responses, and online best-practice resources](inclusive-needs-assessments-flexible-support-strategy.md)
 
 ## Examples
 - A Boston early-childhood RPP paused longitudinal data collection to rapidly survey teachers' and parents' pandemic experiences; a Houston research-practice partnership with a decade of prior relationship was able to quickly turn around student-needs dashboards for its district because trust and context knowledge were already in place.

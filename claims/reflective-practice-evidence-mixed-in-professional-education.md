@@ -72,3 +72,4 @@ A meta-analysis of controlled experiments testing reflective interventions inten
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related
 - [Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies](adult-learner-groups-more-heterogeneous.md) — related
 - [Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong](reflective-methods-overanalysis-limits.md) — related
+- [Quantitative methods exist for assessing how impacts of educational interventions on instructional practices and student learning differ across students, educators, and schools](methods-assess-impact-variation-across-students-educators-schools.md) — a broader claim this one bears on

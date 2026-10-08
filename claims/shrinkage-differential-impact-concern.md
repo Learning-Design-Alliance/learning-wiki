@@ -45,3 +45,7 @@ This is the article's motivating analytical argument, not a tested result: it st
 ## Related Claims
 - [Teachers of students with low prior achievement and who receive free lunch tend to have less precise value-added estimates](low-prior-achievement-free-lunch-teachers-less-precise-va.md) — related
 - [Shrinkage had no statistically significant effect on the relative probability that teachers of hard-to-predict students received consequences](shrinkage-no-significant-effect-consequences-hard-to-predict.md) — related
+- [Teachers of students with hard-to-predict achievement levels tend to have less precise value-added estimates than teachers of other students](hard-to-predict-students-less-precise-teacher-va-estimates.md) — related
+- [Empirical Bayes shrinkage increases the precision of value-added estimates and reduces their absolute value for teachers of hard-to-predict students](shrinkage-increases-precision-reduces-absolute-va.md) — related
+- [Shrinkage does not change accountability consequences for teachers of hard-to-predict students, since extreme-rating probabilities are unaffected](shrinkage-leaves-accountability-consequences-unchanged.md) — related
+- [Shrinkage has no statistically significant effect on the relative probability that teachers of hard-to-predict students receive extreme value-added ratings](shrinkage-no-significant-effect-extreme-ratings.md) — related

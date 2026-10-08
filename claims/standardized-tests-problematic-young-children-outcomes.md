@@ -44,3 +44,4 @@ The paper's abstract states that the paper explains problems with relying solely
 
 ## Related Claims
 - [Observational measures spanning the preschool to elementary age range offer an alternative to direct testing of young children.](observational-measures-alternative-direct-testing-early-grades.md) — related
+- [Traditional annual state assessment growth measures typically cover only reading and math in grades 4-8, limiting their use in teacher evaluation](state-assessment-growth-measures-limited-reading-math-grades-4-8.md) — related

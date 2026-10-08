@@ -45,3 +45,5 @@ Analytical/methodological statement from the article's framing of the problem, n
 ## Related Claims
 - [Replication of ITT estimates holds even when treatment effects differ for compliers and always-takers](replication-robust-to-heterogeneous-complier-always-taker-effects.md) — related
 - [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) — related
+- [The intent-to-treat experimental impact estimate is the most causally rigorous measure for nonexperimental methods to replicate](itt-estimate-most-causally-rigorous-benchmark.md) — related
+- [Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs](varying-effects-methods-rct-and-quasi-experimental.md) — related
