@@ -48,3 +48,5 @@ Finding from the national PROMISE evaluation, which relied on a randomized contr
 - [The intensive case management offered by PROMISE might be difficult to sustain in the current system](promise-intensive-case-management-sustainability-uncertain.md) — related
 - [All 12 proposed SSI Youth Solutions interventions explicitly or implicitly aim to increase employment among youth with disabilities as a long-term outcome](ssi-youth-solutions-interventions-aim-employment.md) — related
 - [Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services](way2work-services-substitutes-for-existing-services.md) — related
+- [Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade](iep-youth-transition-activities-declined.md) — related
+- [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — related

@@ -81,3 +81,4 @@ This paper synthesizes meta-analytic evidence on learning strategies into a mode
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Students typically receive little or no instruction in how to analyze, answer, and write answers to questions](little-instruction-in-answering-questions.md) — related
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related
+- [Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth](higher-order-thinking-questions-related-to-growth.md) — related

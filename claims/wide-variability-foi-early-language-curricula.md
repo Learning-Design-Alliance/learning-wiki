@@ -64,3 +64,4 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 ## Related Claims
 - [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](scaffolding-lower-adherence-than-scripted-components.md) — a narrower finding that bears on this claim
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
+- [The quality of evidence about technology effectiveness varies widely across information sources](evidence-quality-varies-widely-sources.md) — related

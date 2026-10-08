@@ -93,3 +93,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety](extensive-reading-affective-benefits-anxiety-moderator.md) — related
 - [Integrative motivation sustains long-term language-learning motivation better than instrumental motivation](integrative-motivation-sustains-long-term.md) — related
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related
+- [Employers value social and emotional development alongside content knowledge for workforce preparation](employers-value-social-emotional-skills.md) — related

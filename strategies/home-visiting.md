@@ -62,6 +62,7 @@ Home visiting works because instruction is situated in the environment where lea
 - [Coaching](../elements/coaching.md) — the model–observe–feedback cycle within each visit is a coaching cycle
 - [Community-Based Learning](../principles/community-based-learning.md) — situates instruction in the learner's own community and context
 - [Provide home visitors training and a structure for collaborative goal setting with attainable, child-focused goals](train-home-visitors-collaborative-goal-structure.md)
+- [Coordinate services across programs and agencies to reinforce parent and child outcomes](coordinate-services-across-programs-and-agencies-two-generation.md)
 
 ## Examples
 - **[Nurse-Family Partnership](https://www.nursefamilypartnership.org)** — nurse home visiting for first-time low-income mothers from pregnancy through age 2; the most rigorously evaluated home visiting model, with randomized-trial evidence of effects on child maltreatment, maternal life course, and later child outcomes.

@@ -52,3 +52,4 @@ Systematic review finding: of 12 eligible studies, only three met WWC group desi
 - [UCSMP Algebra has potentially positive effects on the algebra domain, with mixed findings across two studies and a small extent of evidence](ucsmp-algebra-potentially-positive-algebra-domain.md) — related
 - [UCSMP Algebra has potentially positive effects on general mathematics achievement for secondary students, with a small extent of evidence](ucsmp-algebra-potentially-positive-general-mathematics-achievement.md) — related
 - [The evidence base for UCSMP is small, with no studies meeting WWC group design standards without reservations](ucsmp-small-evidence-base-no-unreserved-studies.md) — related
+- [Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews](wwc-attrition-standard-shapes-study-design.md) — related

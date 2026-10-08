@@ -49,3 +49,4 @@ Observational comparison reported in the brief: children attending ECE programs 
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [78.9% of ADK pupils attending at least 80% of sessions met the print-concepts objective of 12 or more of 17 items on the Balloons test](adk-78-9-percent-met-balloons-objective.md) — related
 - [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related
+- [Early math and literacy development intertwine in early childhood](early-math-literacy-development-intertwine.md) — related

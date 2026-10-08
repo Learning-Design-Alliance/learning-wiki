@@ -44,7 +44,8 @@ The Teacher Potential Project is a professional learning program developed by EL
 - [A significantly greater proportion of TPP teachers demonstrated and sustained CCSS-aligned instructional practices compared with district-supported teachers](../claims/tpp-teachers-sustained-ccss-aligned-practices.md) [+W]
 
 ## Related Elements
-- 
+
+- [EL Education's Teacher Potential Project (TPP): standards-aligned ELA curriculum with embedded professional development](teacher-potential-project-program.md)
 
 ## Examples
 -

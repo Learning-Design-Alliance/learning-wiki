@@ -86,3 +86,4 @@ The digest reports the study groups offered "a safe, non-judgmental environment 
 - [Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related
 - [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](osp-overcomes-ict-barriers.md) — related
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — related
+- [Family engagement programs can integrate mathematical thinking and activities across a range of settings](family-engagement-programs-can-integrate-early-math.md) — related

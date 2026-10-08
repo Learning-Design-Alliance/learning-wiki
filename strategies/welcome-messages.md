@@ -59,9 +59,11 @@ Welcome messages are a low-cost intervention for establishing [social presence](
 5. Follow up within the first week with individual or small-group [check-ins](../elements/check-in.md) to sustain the presence the message initiated.
 
 ## Related Strategies
+
 - [Check-In](../elements/check-in.md) — the recurring counterpart; welcome messages open the relationship, check-ins maintain it
 - [Advance Organizers](../elements/advance-organizers.md) — the orientation content of a welcome message functions as a course-level organizer
 - [Accommodations](../elements/accommodations.md) — welcome messages are a natural place to invite students to share access needs early
+- [Pair personalized messages with an effort to call attention to them](pair-personalized-messages-with-attention-efforts.md)
 
 ## Examples
 - **Penn State World Campus** — faculty guidance recommends a welcome letter plus a short video introduction posted before the course opens, with a "start here" module linked from the message.

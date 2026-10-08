@@ -46,3 +46,4 @@ In the DHHS ACF (2010) randomized controlled trial, comparison-group parents wer
 - [The evidence base for Head Start's school-readiness effects is small: only one of 40 eligible studies met WWC group design standards](head-start-evidence-base-single-rct.md) — related
 - [Head Start has potentially positive effects on general reading achievement for 3- and 4-year-old children, based on parent-rated emergent literacy](head-start-potentially-positive-reading-achievement.md) — related
 - [Head Start shows no discernible effects on mathematics achievement for 4-year-old children](head-start-no-discernible-mathematics-effects.md) — related
+- [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) — related

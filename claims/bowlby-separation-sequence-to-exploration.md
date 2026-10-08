@@ -47,3 +47,4 @@ The review lays out the sequence: attachment develops, separation produces emoti
 - [The review reports that one-year-olds' exploration covaries with attachment, occurring most when the mother is present](attachment-exploration-covariation-one-year-olds.md) — a narrower finding that bears on this claim
 - [The review reports that specific emotions differentiate from a generalized excitement state in a stable developmental sequence](emotions-differentiate-from-generalized-excitement.md) — related
 - [Affective competence at age five is characterized by twelve observable skills](affectively-competent-five-year-old-attributes.md) — related
+- [Students' success in school and beyond is inextricably linked to healthy social and emotional development](school-success-linked-social-emotional-development.md) — related

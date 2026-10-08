@@ -38,7 +38,8 @@ The report measures a charter school's impact by identifying a comparison group 
 - Estimating school-level impacts on achievement growth and college-readiness outcomes
 
 ## Related Strategies
-- 
+
+- [Use a matched comparison group design with qualitative mechanism exploration to evaluate charter school impacts](matched-comparison-group-design-with-qualitative-mechanism-exploration.md)
 
 ## Examples
 -

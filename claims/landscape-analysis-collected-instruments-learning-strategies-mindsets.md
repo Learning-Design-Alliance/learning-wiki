@@ -45,3 +45,4 @@ The publication page states the project's goal in a single sentence: it "collect
 ## Related Claims
 - [Principal components analyses of both the IAR and CDR yield eleven components with eigenvalues of one or greater](eleven-components-iar-cdr.md) — related
 - [Child and guardian reports add minimal predictive power beyond teacher reports of noncognitive skills](child-guardian-reports-minimal-power-beyond-teacher.md) — related
+- [The EDIT was developed iteratively beginning in 2012 under OPRE commissioning](edit-iterative-development-2012-opre.md) — related

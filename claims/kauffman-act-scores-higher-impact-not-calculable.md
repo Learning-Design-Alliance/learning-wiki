@@ -45,3 +45,5 @@ Descriptive comparison in the report's Key Findings: Kauffman students' ACT scor
 ## Related Claims
 - [During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools](kauffman-school-seven-year-achievement-impacts.md) — related
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
+- [The Kauffman Foundation's prior Kansas City education programs preceded and motivated the founding of the Kauffman charter school](kauffman-prior-programs-preceded-charter-school-founding.md) — related
+- [The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions](kauffman-school-matched-comparison-group-design.md) — related

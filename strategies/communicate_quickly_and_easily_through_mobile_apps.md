@@ -65,6 +65,7 @@ Frequent, low-cost communication increases parental awareness of student work an
 - [Check-ins](../principles/check-ins.md) — app messaging is a low-cost vehicle for routine check-ins with students and families
 - [Action-oriented feedback](action-oriented_feedback.md) — progress messages work when they name the next action, not just the outcome
 - [Escalating multi-channel contact immediately upon missed assessment, starting with SMS](escalating-multichannel-contact-missed-assessment.md)
+- [Pair personalized messages with an effort to call attention to them](pair-personalized-messages-with-attention-efforts.md)
 
 ## Related Elements
 - [Check-in](../elements/check-in.md) — the recurring touchpoint the app operationalizes

@@ -12,7 +12,7 @@ generated:
 # Least Restrictive Environment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (1 causal, 1 qualitative, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The U.S. IDEA legislation requires placing students with disabilities in the **least restrictive environment (LRE)** — the combination of settings that involves the student with regular classrooms and school programs as much as possible. The exact combination is determined by the circumstances of the particular school and student, not fixed by disability label alone: a kindergartner with a mild cognitive disability might spend most of the day in a regular kindergarten classroom with a teacher assistant's help, while an adolescent with a similar disability might be assigned mainly to specially designed classes but still join some school-wide activities with non-disabled peers. This variation partly reflects a real (and debatable) pattern in teacher perception — curriculum modification is generally seen as more difficult to manage at higher grade levels — rather than being dictated purely by the disability's nature. A student whose disability is strictly physical, by contrast, might spend virtually the entire school career in regular classes, since curriculum adjustment may not be an issue at all.
@@ -43,6 +43,7 @@ LRE placement typically comes with a formal **individual educational plan (IEP)*
 
 - [Tacoma's progressive inclusion program pervaded district operations and limited out-of-district placements to two over twenty years](../claims/progressive-inclusion-limited-out-of-district-placements.md) [+M]
 - [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](../claims/disability-inclusion-starts-from-exclusion.md) [~W]
+- [Students pulled out of other classes to receive LLI were particularly negatively affected](../claims/lli-pull-out-students-particularly-negatively-affected.md) [+W] — attached 2026-10-08 from Naihobe Gonzalez et al. (2018), which proposed "Schedule adolescent reading interventions so students do not miss grade-level content"; tests this page's relationship.
 
 ## Related Principles
 - [Functional Behavior Assessment](functional-behavior-assessment.md) — IEP due-process requirements directly constrain how discipline plans can be changed for a student under a behavior-related IEP

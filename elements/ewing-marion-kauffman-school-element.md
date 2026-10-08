@@ -43,7 +43,9 @@ The Ewing Marion Kauffman School is a public, tuition-free charter school servin
 - [During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools](../claims/kauffman-school-seven-year-achievement-impacts.md) [+M]
 
 ## Related Elements
-- 
+
+- [Ewing Marion Kauffman Charter School](ewing-marion-kauffman-charter-school.md)
+- [Ewing Marion Kauffman charter school in Kansas City, founded by the Kauffman Foundation](kauffman-school-urban-charter-kansas-city.md)
 
 ## Examples
 

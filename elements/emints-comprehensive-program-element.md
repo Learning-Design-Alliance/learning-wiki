@@ -51,6 +51,7 @@ The eMINTS Comprehensive Program is a teacher professional development intervent
 - [Reading Apprenticeship® teacher professional development program](reading-apprenticeship-professional-development-program.md)
 - [STeLLA® professional development program](stella-professional-development-program.md)
 - [eMINTS professional development program for middle schools](emints-program-element.md)
+- [Reading Apprenticeship Across the Disciplines blended professional development program](reading-apprenticeship-across-disciplines-blended-pd.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ This is the report's own expert synthesis, not an empirical test. The listed att
 ## Related Claims
 - [The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration](bowlby-separation-sequence-to-exploration.md) — related
 - [The review reports that one-year-olds' exploration covaries with attachment, occurring most when the mother is present](attachment-exploration-covariation-one-year-olds.md) — related
+- [Students' success in school and beyond is inextricably linked to healthy social and emotional development](school-success-linked-social-emotional-development.md) — related

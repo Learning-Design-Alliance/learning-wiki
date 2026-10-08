@@ -46,3 +46,4 @@ Simulation study (more than 100 runs) modeling reported school scores as varying
 - [Direct Instruction schools' ratings rose significantly only when the program was fully supported with training and coaching](direct-instruction-gains-depend-on-implementation-support.md) — related
 - [SAGE class-size reduction schools showed no statistically significant change in poverty-adjusted effectiveness ratings](sage-schools-no-significant-rating-change.md) — related
 - [BKT learning-rate parameters estimated from simulated student data correlate positively with those estimated from human data](simulated-data-initializes-bkt-parameters.md) — related
+- [Despite differences in topic and available research, evidence reviews typically favor evaluations that limit potential bias](evidence-reviews-favor-low-bias-evaluations.md) — related

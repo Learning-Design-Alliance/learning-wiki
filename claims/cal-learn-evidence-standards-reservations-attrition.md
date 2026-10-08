@@ -48,3 +48,4 @@ WWC research review of the Cal-Learn randomized controlled trial (Mauldon et al.
 - [Financial incentives for teen parents show no discernible effects on progressing in school](financial-incentives-teen-parents-progressing-in-school.md) — related
 - [Financial incentives for teen parents show no discernible effects on completing school](financial-incentives-teen-parents-completing-school.md) — related
 - [The WWC rated financial incentives for teen parents as potentially positive rather than positive for staying in school because only one study showed statistically significant positive outcomes in that domain](wwc-potentially-positive-rating-staying-in-school.md) — related
+- [Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews](wwc-attrition-standard-shapes-study-design.md) — related

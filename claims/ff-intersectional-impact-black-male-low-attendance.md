@@ -70,3 +70,4 @@ In the same RCT, Black male students with low baseline attendance in FF had a mo
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
 - [Future Forward holds 'Strong' evidence ratings for Family Engagement and Attendance in addition to literacy](future-forward-strong-ratings-family-engagement-attendance.md) — related
 - [Prior randomized studies of FF/SPARK found positive impacts on literacy and school attendance meeting WWC standards Without Reservations](ff-prior-rct-literacy-attendance-impacts.md) — related
+- [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related

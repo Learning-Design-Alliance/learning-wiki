@@ -45,3 +45,4 @@ PCER Consortium (2008) randomized trial, 270 children in 36 schools, assessed ph
 ## Related Claims
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool oral language](prek-mathematics-no-oral-language-effects.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool print knowledge](prek-mathematics-no-print-knowledge-effects.md) — related
+- [Early math and literacy development intertwine in early childhood](early-math-literacy-development-intertwine.md) — related

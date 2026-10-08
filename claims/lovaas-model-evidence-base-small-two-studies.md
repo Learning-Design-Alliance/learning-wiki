@@ -45,3 +45,4 @@ The WWC's systematic review screened 58 studies against its evidence standards f
 ## Related Claims
 - [The evidence base for Accelerated Reader with adolescent learners is thin: only 2 of 318 reviewed studies met WWC standards](accelerated-reader-thin-evidence-base-318-studies.md) — related
 - [The evidence base for Corrective Reading in grades K–3 is small: one of 25 reviewed studies met WWC standards, and no studies addressed general reading achievement](corrective-reading-small-evidence-base.md) — related
+- [Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews](wwc-attrition-standard-shapes-study-design.md) — related

@@ -41,7 +41,9 @@ A set of methods designed by Mathematica Policy Research under contract with New
 - [A value-added-style method was used to identify effective schools for a consortium of 99 charter schools in 18 states and the District of Columbia in the project's first year.](../claims/charter-consortium-effective-school-identification-method.md) [+W]
 
 ## Related Elements
-- 
+
+- [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](dc-value-added-assessment-system.md)
+- [Mathematica's value-added analysis approach for Oklahoma's Teacher and Leader Effectiveness Evaluation System](mathematica-value-added-approach-oklahoma-tle.md)
 
 ## Examples
 -

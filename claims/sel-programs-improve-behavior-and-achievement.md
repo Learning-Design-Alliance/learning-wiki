@@ -157,3 +157,4 @@ Open questions include the durability of achievement effects after programs end,
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [The affective component is suggested to contribute at least as much to language learning as cognitive skills](affective-component-contributes-as-much-as-cognitive.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
+- [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related

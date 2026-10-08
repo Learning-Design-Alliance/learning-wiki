@@ -88,3 +88,4 @@ A narrative review and synthesis of the experimental literature on praise and ch
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
 - [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
 - [Appropriately used technology can support practices that improve achievement, but inappropriate use can harm student performance](technology-use-right-tool-right-objective.md) — a broader claim this one bears on
+- [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related

@@ -49,3 +49,4 @@ Narrative review attribution in the Process dimension section: the article state
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Peer reflective groups encourage student teachers to challenge existing theories and model collaborative professional development](peer-reflective-groups-challenge-student-teacher-views.md) — related
+- [Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth](higher-order-thinking-questions-related-to-growth.md) — a narrower finding that bears on this claim

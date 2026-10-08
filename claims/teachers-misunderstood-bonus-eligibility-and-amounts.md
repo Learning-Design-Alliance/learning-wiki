@@ -45,3 +45,7 @@ An implementation finding from the three-year TIF evaluation. The snapshot repor
 ## Related Claims
 - [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](few-districts-aligned-bonuses-with-tif-guidance.md) — related
 - [After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts](tif-pay-for-performance-small-positive-achievement-impacts.md) — related
+- [In the 2010 TIF pay-for-performance programs, over 60% of teachers received a bonus, with average bonuses of about $1,800 and top performers earning more than 3 times the average](tif-bonuses-easily-earned-top-performers-larger.md) — related
+- [Offering pay-for-performance bonuses in 10 TIF districts increased student reading achievement by 1 percentile point after two years, with a similar-magnitude but statistically non-significant math effect](tif-bonuses-reading-gain-one-percentile.md) — related
+- [Educators' understanding of the TIF program improved in year two, but more than one-third of teachers still did not know they were eligible for a bonus and underestimated bonus size](tif-educator-understanding-improved-but-incomplete.md) — a narrower finding that bears on this claim
+- [Some aspects of TIF implementation improved between years one and two while others, including bonus awareness, remained challenging](tif-implementation-mixed-improvement.md) — a narrower finding that bears on this claim

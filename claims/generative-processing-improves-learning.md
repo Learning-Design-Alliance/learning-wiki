@@ -84,3 +84,4 @@ A meta-analysis of studies that induced self-explanation — a generative strate
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](causal-links-implicit-in-history-textbooks.md) — related
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
+- [Different evidence types differ in how strongly they can support claims about effectiveness](evidence-types-differ-support-strength.md) — related

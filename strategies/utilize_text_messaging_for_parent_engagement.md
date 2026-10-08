@@ -67,6 +67,7 @@ Texting works because it lowers the behavioral cost of engagement: parents act o
 - Attendance nudges — a well-evidenced narrow application of the same low-cost messaging logic
 - [Mail parents personalized, actionable absence reports about their own student's attendance](mail-personalized-absence-reports-parents.md)
 - [Use universally designed auto-translated two-way messaging so families need only basic text messaging](auto-translated-two-way-family-messaging.md)
+- [Pair personalized messages with an effort to call attention to them](pair-personalized-messages-with-attention-efforts.md)
 
 ## Examples
 - **[READY4K](https://ready4k.parentpowered.com)** (Stanford-developed, now ParentPowered) — weekly texted literacy tips matched to classroom curriculum; a large randomized trial in San Francisco showed gains in early literacy [~S].
