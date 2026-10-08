@@ -48,3 +48,5 @@ Quasi-experimental comparison of students in 8th-grade on-track NSI schools to s
 - [The impact of the 9th-grade on-track NSI appeared to increase over time](9th-grade-on-track-nsi-impact-increased-over-time.md) — related
 - [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
 - [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related
+- [Students' attendance and middle grades on-track rates in Success schools improved during the first two program years, especially in Year 2](success-project-attendance-ontrack-improved.md) — related
+- [Success schools' student GPAs did not show much improvement in the first two years](success-project-gpas-little-improvement.md) — related

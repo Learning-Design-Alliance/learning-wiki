@@ -60,10 +60,12 @@ CRT is not primarily about engagement or climate; its strongest formulations tre
 6. **Assess inclusively.** Use [Assessment](../elements/assessment.md) formats that measure the target construct rather than cultural familiarity with the context.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the cognitive mechanism CRT operationalizes: familiar frames make new content learnable
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking practices that support the intergroup climate CRT requires
 - [Community-Based Learning](../principles/community-based-learning.md) — extends CRT by making the community itself the learning context
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — connects student work to real community stakeholders, reinforcing relevance
+- [Design credit-recovery interventions to address broader academic deficits and engagement, not only algebra content](credit-recovery-address-broader-deficits-and-engagement.md)
 
 ## Examples
 - **Zaretta Hammond's "Culturally Responsive Teaching and the Brain" (2015)** — widely used professional-learning framework organizing CRT around information processing and "warm demander" pedagogy.

@@ -49,3 +49,4 @@ Descriptive analysis by race/ethnicity and gender (Figure 5). Black and Latina y
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Students earned higher average grades in CS courses than in core courses, with few failing CS](cs-grades-higher-than-core.md) — related
 - [GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade](non-core-gpa-declines-exceed-core.md) — related
+- [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related

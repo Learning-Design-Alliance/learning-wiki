@@ -63,6 +63,7 @@ Restorative approaches treat classroom climate as a precondition for learning: s
 - [Positive Behavior Interventions and Supports](../strategies/positive-behavior-interventions-and-supports.md) — often combined with restorative practices; PBIS supplies structure, restorative approaches supply relational repair
 - [Social-Emotional Learning](../patterns/social-emotional-learning.md) — restorative dialogue exercises the same competencies in authentic contexts
 - [Identify and address the root causes of discipline disparities in schools flagged as disproportionate](address-root-causes-discipline-disparities.md)
+- [Provide schools, administrators, and teachers with supports and resources when curbing suspension use](support-schools-when-curbing-suspensions.md)
 
 ## Examples
 - **[International Institute for Restorative Practices](https://www.iirp.edu)** — whole-school implementation model and training; the basis for the RAND Pittsburgh study.

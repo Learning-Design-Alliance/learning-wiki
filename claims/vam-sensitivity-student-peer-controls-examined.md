@@ -67,3 +67,4 @@ The publication abstract states the paper's purpose: examining sensitivity and p
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related
 - [Academic and behavioral classroom factors, not student demographics, drive the effect of composition on evaluator ratings](academic-behavioral-factors-drive-rating-effect.md) — related
 - [Simulated adjustment of ratings for classroom context improves Black teachers' rankings by about 8 percentile points, with the largest gains for teachers serving more disadvantaged students](context-adjusted-ratings-raise-black-teacher-rankings.md) — related
+- [Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles](reach-va-overlap-across-observation-quintiles.md) — related

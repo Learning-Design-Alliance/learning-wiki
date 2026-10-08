@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "claims->claims": 6592,
+  "claims->claims": 6780,
   "claims->designs": 13,
   "claims->elements": 108,
   "claims->learner-variables": 1,
@@ -15,15 +15,15 @@
   "designs->patterns": 22,
   "designs->principles": 10,
   "designs->theories": 21,
-  "elements->claims": 1171,
+  "elements->claims": 1185,
   "elements->designs": 2,
-  "elements->elements": 1040,
+  "elements->elements": 1048,
   "elements->learner-variables": 1,
   "elements->methods": 1,
   "elements->patterns": 248,
   "elements->principles": 315,
   "elements->processes": 1,
-  "elements->theories": 245,
+  "elements->theories": 250,
   "learner-variables->claims": 12,
   "learner-variables->elements": 12,
   "learner-variables->learner-variables": 3,
@@ -68,15 +68,15 @@
   "strategies->patterns": 815,
   "strategies->principles": 1735,
   "strategies->processes": 9,
-  "strategies->theories": 721,
-  "theories->claims": 988,
+  "strategies->theories": 725,
+  "theories->claims": 1002,
   "theories->designs": 61,
-  "theories->elements": 244,
+  "theories->elements": 251,
   "theories->methods": 14,
   "theories->patterns": 66,
   "theories->principles": 217,
   "theories->processes": 7,
-  "theories->theories": 813
+  "theories->theories": 819
  },
  "edges": {
   "claims": {
@@ -441,6 +441,12 @@
      },
      {
       "slug": "rct-ninth-grade-nsi-attendance-gain"
+     },
+     {
+      "slug": "success-project-attendance-ontrack-improved"
+     },
+     {
+      "slug": "success-project-gpas-little-improvement"
      }
     ],
     "elements": [
@@ -470,6 +476,12 @@
      },
      {
       "slug": "rct-ninth-grade-nsi-attendance-gain"
+     },
+     {
+      "slug": "success-project-attendance-ontrack-improved"
+     },
+     {
+      "slug": "success-project-gpas-little-improvement"
      }
     ],
     "elements": [
@@ -492,10 +504,19 @@
       "slug": "eighth-grade-on-track-nsi-no-year-two-impact"
      },
      {
+      "slug": "ninth-grade-course-performance-explains-recent-gains"
+     },
+     {
       "slug": "ninth-grade-on-track-nsi-positive-gpa-pass-credits"
      },
      {
       "slug": "rct-ninth-grade-nsi-attendance-gain"
+     },
+     {
+      "slug": "success-project-attendance-ontrack-improved"
+     },
+     {
+      "slug": "success-project-gpas-little-improvement"
      }
     ],
     "elements": [
@@ -1259,6 +1280,16 @@
      },
      {
       "slug": "treatment-science-pretest-independent-effects"
+     }
+    ]
+   },
+   "abuse-neglect-history-high-suspension-risk": {
+    "claims": [
+     {
+      "slug": "high-suspension-schools-concentrated-disadvantage"
+     },
+     {
+      "slug": "low-achievement-disability-suspension-rates-cps"
      }
     ]
    },
@@ -5438,6 +5469,9 @@
       "slug": "adk-process-evaluation-no-major-problems"
      },
      {
+      "slug": "attendance-tied-to-educational-outcomes"
+     },
+     {
       "slug": "balloons-posttest-median-15-range-2-17"
      },
      {
@@ -6690,6 +6724,57 @@
      }
     ]
    },
+   "african-american-boys-oss-disparity-cps": {
+    "claims": [
+     {
+      "slug": "african-american-boys-suspended-13-points-higher"
+     },
+     {
+      "slug": "cps-arrest-rates-declined-racial-disparities"
+     },
+     {
+      "slug": "cps-high-school-oss-rates-declined-2009-2014"
+     },
+     {
+      "slug": "defiance-drives-most-high-school-suspensions"
+     },
+     {
+      "slug": "high-suspension-schools-concentrated-disadvantage"
+     },
+     {
+      "slug": "iss-rates-doubled-african-american-high-school-students"
+     },
+     {
+      "slug": "low-achievement-disability-suspension-rates-cps"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mtss-framework-alternative-discipline-cps",
+      "strength": "W"
+     }
+    ]
+   },
+   "african-american-boys-suspended-13-points-higher": {
+    "claims": [
+     {
+      "slug": "african-american-boys-oss-disparity-cps"
+     },
+     {
+      "slug": "boys-black-students-more-likely-overage"
+     },
+     {
+      "slug": "cps-arrest-rates-declined-racial-disparities"
+     },
+     {
+      "slug": "high-suspension-schools-concentrated-disadvantage"
+     },
+     {
+      "slug": "iss-rates-doubled-african-american-high-school-students"
+     }
+    ]
+   },
    "afterschool-dose-little-support-outcomes": {
     "claims": [
      {
@@ -7328,6 +7413,9 @@
      },
      {
       "slug": "barr-reduces-ninth-grade-chronic-absenteeism"
+     },
+     {
+      "slug": "ninth-grade-early-outreach-keeps-students-on-track"
      }
     ],
     "elements": [
@@ -7368,6 +7456,9 @@
      },
      {
       "slug": "check-and-connect-reduces-dropout-staying-in-school"
+     },
+     {
+      "slug": "ninth-grade-early-outreach-keeps-students-on-track"
      }
     ],
     "elements": [
@@ -7443,6 +7534,116 @@
      }
     ]
    },
+   "algebra-failers-failed-multiple-courses-off-track": {
+    "claims": [
+     {
+      "slug": "algebra-failure-linked-to-incoming-academic-deficits"
+     },
+     {
+      "slug": "algebra-failure-linked-to-ninth-grade-disengagement"
+     },
+     {
+      "slug": "algebra-i-failers-more-likely-male-african-american"
+     },
+     {
+      "slug": "first-two-course-failures-30-point-graduation-decrease"
+     },
+     {
+      "slug": "freshman-warning-indicators-identify-70-percent-nongraduates"
+     },
+     {
+      "slug": "low-summer-algebra-credit-recovery-rate-before-study"
+     },
+     {
+      "slug": "ninth-grade-course-performance-explains-recent-gains"
+     },
+     {
+      "slug": "non-core-failures-graduation-risk"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "online-algebra-i-credit-recovery-course-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "algebra-failure-linked-to-incoming-academic-deficits": {
+    "claims": [
+     {
+      "slug": "algebra-failers-failed-multiple-courses-off-track"
+     },
+     {
+      "slug": "algebra-failure-linked-to-ninth-grade-disengagement"
+     },
+     {
+      "slug": "algebra-i-failers-more-likely-male-african-american"
+     },
+     {
+      "slug": "low-summer-algebra-credit-recovery-rate-before-study"
+     },
+     {
+      "slug": "ontrack-predicts-graduation-beyond-prior-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "online-algebra-i-credit-recovery-course-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "algebra-failure-linked-to-ninth-grade-disengagement": {
+    "claims": [
+     {
+      "slug": "algebra-failers-failed-multiple-courses-off-track"
+     },
+     {
+      "slug": "algebra-failure-linked-to-incoming-academic-deficits"
+     },
+     {
+      "slug": "algebra-i-failers-more-likely-male-african-american"
+     },
+     {
+      "slug": "low-summer-algebra-credit-recovery-rate-before-study"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "online-algebra-i-credit-recovery-course-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "algebra-i-failers-more-likely-male-african-american": {
+    "claims": [
+     {
+      "slug": "algebra-failers-failed-multiple-courses-off-track"
+     },
+     {
+      "slug": "algebra-failure-linked-to-incoming-academic-deficits"
+     },
+     {
+      "slug": "algebra-failure-linked-to-ninth-grade-disengagement"
+     },
+     {
+      "slug": "low-summer-algebra-credit-recovery-rate-before-study"
+     },
+     {
+      "slug": "on-track-gains-largest-for-lowest-skills-and-black-males"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "online-algebra-i-credit-recovery-course-element",
+      "strength": "W"
+     }
+    ]
+   },
    "algebraic-thinking-strongest-cross-domain-predictor": {
     "claims": [
      {
@@ -7478,6 +7679,9 @@
    },
    "algorithm-ten-percent-cutoffs-targets-highest-risk": {
     "claims": [
+     {
+      "slug": "cps-suspension-reduction-risk-stratified-outcomes"
+     },
      {
       "slug": "ews-and-algorithm-less-accurate-black-students"
      },
@@ -7585,6 +7789,12 @@
      },
      {
       "slug": "family-community-knowledge-reach-families"
+     },
+     {
+      "slug": "improvement-related-to-staff-family-community-relationships"
+     },
+     {
+      "slug": "ivy-principal-culture-relationships-priority"
      },
      {
       "slug": "parent-involvement-increased-three-years"
@@ -11418,6 +11628,9 @@
    "assessment-weights-shrank-gender-grade-gap": {
     "claims": [
      {
+      "slug": "class-conditions-shift-grades"
+     },
+     {
       "slug": "cps-gradebook-category-weights-assessments-dominate"
      },
      {
@@ -11653,6 +11866,16 @@
      }
     ]
    },
+   "attendance-benefits-strongest-low-incoming-skills": {
+    "claims": [
+     {
+      "slug": "prek-absence-widespread-african-american-lowest-skills"
+     },
+     {
+      "slug": "preschool-absence-lower-kindergarten-readiness"
+     }
+    ]
+   },
    "attendance-strong-predictor-growth-all-grades": {
     "claims": [
      {
@@ -11660,6 +11883,26 @@
      },
      {
       "slug": "ewims-reduces-chronic-absenteeism"
+     }
+    ]
+   },
+   "attendance-tied-to-educational-outcomes": {
+    "claims": [
+     {
+      "slug": "adk-78-9-percent-met-balloons-objective"
+     },
+     {
+      "slug": "chicago-closings-66-percent-attended-welcoming-school"
+     },
+     {
+      "slug": "freshman-attendance-predicts-graduation-independent-of-gpa"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "attendance-incentive-design-considerations-framework",
+      "strength": "W"
      }
     ]
    },
@@ -16448,6 +16691,9 @@
    "background-less-related-promotion-power-than-status": {
     "claims": [
      {
+      "slug": "cps-charter-variation-among-schools"
+     },
+     {
       "slug": "graduation-promotion-power-relates-college-enrollment"
      },
      {
@@ -16866,6 +17112,9 @@
      },
      {
       "slug": "green-dot-attendance-year-four-only"
+     },
+     {
+      "slug": "ninth-grade-early-outreach-keeps-students-on-track"
      },
      {
       "slug": "ninth-grade-early-warning-systems-improvements"
@@ -20406,6 +20655,9 @@
       "slug": "higher-achievers-larger-gpa-declines-transition"
      },
      {
+      "slug": "ninth-grade-gpa-demographic-variation"
+     },
+     {
       "slug": "non-core-gpa-declines-exceed-core"
      },
      {
@@ -20426,6 +20678,9 @@
      },
      {
       "slug": "nlci-fullday-conversion-attendance-gains"
+     },
+     {
+      "slug": "race-ethnicity-participation-differences-chicago-connected"
      }
     ]
    },
@@ -21063,6 +21318,9 @@
    "board-certification-identifies-more-expert-teachers": {
     "claims": [
      {
+      "slug": "credentials-difference-observation-only-not-value-added"
+     },
+     {
       "slug": "teacher-student-relationships-improve-engagement"
      }
     ],
@@ -21412,6 +21670,9 @@
    },
    "boys-black-students-more-likely-overage": {
     "claims": [
+     {
+      "slug": "african-american-boys-suspended-13-points-higher"
+     },
      {
       "slug": "groupings-finer-grained-than-77-community-areas"
      },
@@ -24794,6 +25055,108 @@
      }
     ]
    },
+   "ccss-elementary-teachers-greater-impact-beliefs": {
+    "claims": [
+     {
+      "slug": "ccss-few-ela-math-response-group-differences"
+     },
+     {
+      "slug": "ccss-pd-impact-on-teaching-practices-elementary-more"
+     },
+     {
+      "slug": "ccss-preparedness-increased-2016"
+     },
+     {
+      "slug": "ccss-teachers-report-fewer-barriers-than-administrators"
+     }
+    ]
+   },
+   "ccss-few-ela-math-response-group-differences": {
+    "claims": [
+     {
+      "slug": "ccss-elementary-teachers-greater-impact-beliefs"
+     },
+     {
+      "slug": "ccss-pd-impact-on-teaching-practices-elementary-more"
+     },
+     {
+      "slug": "ccss-preparedness-increased-2016"
+     },
+     {
+      "slug": "ccss-teachers-report-fewer-barriers-than-administrators"
+     }
+    ]
+   },
+   "ccss-pd-impact-on-teaching-practices-elementary-more": {
+    "claims": [
+     {
+      "slug": "ccss-elementary-teachers-greater-impact-beliefs"
+     },
+     {
+      "slug": "ccss-few-ela-math-response-group-differences"
+     },
+     {
+      "slug": "ccss-preparedness-increased-2016"
+     },
+     {
+      "slug": "ccss-teachers-report-fewer-barriers-than-administrators"
+     },
+     {
+      "slug": "extensive-pd-larger-instructional-improvements-elementary"
+     }
+    ]
+   },
+   "ccss-preparedness-increased-2016": {
+    "claims": [
+     {
+      "slug": "ccss-elementary-teachers-greater-impact-beliefs"
+     },
+     {
+      "slug": "ccss-few-ela-math-response-group-differences"
+     },
+     {
+      "slug": "ccss-pd-impact-on-teaching-practices-elementary-more"
+     },
+     {
+      "slug": "ccss-teacher-collaboration-grade-level-teams-observations"
+     },
+     {
+      "slug": "ccss-teachers-report-fewer-barriers-than-administrators"
+     }
+    ]
+   },
+   "ccss-teacher-collaboration-grade-level-teams-observations": {
+    "claims": [
+     {
+      "slug": "ccss-preparedness-increased-2016"
+     },
+     {
+      "slug": "ccss-teachers-report-fewer-barriers-than-administrators"
+     },
+     {
+      "slug": "ivy-progress-monitoring-tiered-supports"
+     }
+    ]
+   },
+   "ccss-teachers-report-fewer-barriers-than-administrators": {
+    "claims": [
+     {
+      "slug": "ccss-elementary-teachers-greater-impact-beliefs"
+     },
+     {
+      "slug": "ccss-few-ela-math-response-group-differences"
+     },
+     {
+      "slug": "ccss-pd-impact-on-teaching-practices-elementary-more"
+     },
+     {
+      "slug": "ccss-preparedness-increased-2016"
+     },
+     {
+      "slug": "ccss-teacher-collaboration-grade-level-teams-observations"
+     }
+    ]
+   },
    "ccssm-pl-benefits-low-average-achievers-not-high": {
     "claims": [
      {
@@ -25597,6 +25960,13 @@
      }
     ]
    },
+   "challenge-identifying-practices-from-evaluations": {
+    "claims": [
+     {
+      "slug": "no-menu-of-dropout-prevention-program-options-yet"
+     }
+    ]
+   },
    "challenge-support-imbalance-effects-novice-learners": {
     "claims": [
      {
@@ -25921,6 +26291,9 @@
      },
      {
       "slug": "relational-taxonomy-supports-moral-education"
+     },
+     {
+      "slug": "ten-developmental-experiences-build-character"
      }
     ],
     "principles": [
@@ -26238,6 +26611,9 @@
      },
      {
       "slug": "graduation-promotion-power-relates-college-enrollment"
+     },
+     {
+      "slug": "success-project-high-school-enrollment-shifts"
      }
     ],
     "elements": [
@@ -26556,6 +26932,13 @@
      }
     ]
    },
+   "charter-reputation-attracts-higher-achievers": {
+    "claims": [
+     {
+      "slug": "cps-charter-incoming-skills-feeder-pool"
+     }
+    ]
+   },
    "charter-research-shift-from-test-scores-to-long-term-outcomes": {
     "claims": [
      {
@@ -26578,6 +26961,9 @@
      },
      {
       "slug": "sed-behavior-impacts-exceed-test-score-impacts-long-run"
+     },
+     {
+      "slug": "success-project-high-school-enrollment-shifts"
      }
     ]
    },
@@ -26667,6 +27053,9 @@
      },
      {
       "slug": "charter-schools-favorable-graduation-and-college-entry-results"
+     },
+     {
+      "slug": "cps-charter-better-college-outcomes"
      }
     ],
     "elements": [
@@ -27299,6 +27688,9 @@
      },
      {
       "slug": "dropout-programs-or-163-completion"
+     },
+     {
+      "slug": "ninth-grade-early-outreach-keeps-students-on-track"
      }
     ],
     "elements": [
@@ -27572,6 +27964,158 @@
      }
     ]
    },
+   "chicago-closings-66-percent-attended-welcoming-school": {
+    "claims": [
+     {
+      "slug": "attendance-tied-to-educational-outcomes"
+     },
+     {
+      "slug": "chicago-closings-93-percent-higher-rated-than-closed-school"
+     },
+     {
+      "slug": "chicago-closings-no-increase-in-families-leaving-district"
+     },
+     {
+      "slug": "chicago-closings-proximity-relocation-predict-welcoming-enrollment"
+     }
+    ]
+   },
+   "chicago-closings-93-percent-higher-rated-than-closed-school": {
+    "claims": [
+     {
+      "slug": "chicago-closings-66-percent-attended-welcoming-school"
+     },
+     {
+      "slug": "chicago-closings-no-increase-in-families-leaving-district"
+     },
+     {
+      "slug": "chicago-closings-proximity-relocation-predict-welcoming-enrollment"
+     }
+    ]
+   },
+   "chicago-closings-affected-students-more-disadvantaged": {
+    "claims": [
+     {
+      "slug": "chicago-closings-no-increase-in-families-leaving-district"
+     },
+     {
+      "slug": "covid-closures-pennsylvania-learning-loss-equity"
+     },
+     {
+      "slug": "socioeconomic-disadvantage-essentials-strength"
+     }
+    ]
+   },
+   "chicago-closings-families-chose-welcoming-schools-priorities-and-barriers": {
+    "claims": [
+     {
+      "slug": "chicago-closings-proximity-primary-reason-lower-rated-schools"
+     },
+     {
+      "slug": "chicago-closings-proximity-relocation-predict-welcoming-enrollment"
+     },
+     {
+      "slug": "iep-parents-lacked-viable-choice-options"
+     },
+     {
+      "slug": "iep-parents-safety-transportation-constraints"
+     },
+     {
+      "slug": "proximity-decided-post-closing-enrollment"
+     }
+    ]
+   },
+   "chicago-closings-families-own-definition-of-academic-quality": {
+    "claims": [
+     {
+      "slug": "iep-parents-lacked-viable-choice-options"
+     },
+     {
+      "slug": "iep-parents-shared-ideal-school-vision"
+     },
+     {
+      "slug": "proximity-decided-post-closing-enrollment"
+     }
+    ]
+   },
+   "chicago-closings-no-increase-in-families-leaving-district": {
+    "claims": [
+     {
+      "slug": "chicago-closings-66-percent-attended-welcoming-school"
+     },
+     {
+      "slug": "chicago-closings-93-percent-higher-rated-than-closed-school"
+     },
+     {
+      "slug": "chicago-closings-affected-students-more-disadvantaged"
+     }
+    ]
+   },
+   "chicago-closings-proximity-primary-reason-lower-rated-schools": {
+    "claims": [
+     {
+      "slug": "chicago-closings-families-chose-welcoming-schools-priorities-and-barriers"
+     },
+     {
+      "slug": "chicago-closings-safety-rating-predicts-welcoming-enrollment"
+     },
+     {
+      "slug": "location-constrains-high-school-choice-set"
+     },
+     {
+      "slug": "proximity-decided-post-closing-enrollment"
+     }
+    ]
+   },
+   "chicago-closings-proximity-relocation-predict-welcoming-enrollment": {
+    "claims": [
+     {
+      "slug": "chicago-closings-66-percent-attended-welcoming-school"
+     },
+     {
+      "slug": "chicago-closings-93-percent-higher-rated-than-closed-school"
+     },
+     {
+      "slug": "chicago-closings-families-chose-welcoming-schools-priorities-and-barriers"
+     },
+     {
+      "slug": "chicago-closings-safety-rating-predicts-welcoming-enrollment"
+     },
+     {
+      "slug": "proximity-decided-post-closing-enrollment"
+     },
+     {
+      "slug": "welcoming-school-mobility-spike-relocating-schools"
+     }
+    ]
+   },
+   "chicago-closings-safety-rating-predicts-welcoming-enrollment": {
+    "claims": [
+     {
+      "slug": "chicago-closings-proximity-primary-reason-lower-rated-schools"
+     },
+     {
+      "slug": "chicago-closings-proximity-relocation-predict-welcoming-enrollment"
+     }
+    ]
+   },
+   "chicago-connected-28-percent-eligible-participated": {
+    "claims": [
+     {
+      "slug": "chicago-connected-participation-rose-with-eligibility-index"
+     }
+    ]
+   },
+   "chicago-connected-participation-rose-with-eligibility-index": {
+    "claims": [
+     {
+      "slug": "chicago-connected-28-percent-eligible-participated"
+     },
+     {
+      "slug": "economic-need-higher-chicago-connected-participation"
+     }
+    ]
+   },
    "chicago-neighborhood-groupings-reflect-segregation": {
     "claims": [
      {
@@ -27602,6 +28146,41 @@
       "polarity": "+",
       "slug": "informal-social-learning-networks-coherence",
       "strength": "M"
+     }
+    ]
+   },
+   "chicago-strong-essentials-tenfold-gains": {
+    "claims": [
+     {
+      "slug": "school-size-elementary-essentials-weakness"
+     },
+     {
+      "slug": "schools-strong-three-plus-supports-ten-times-more-likely-improve"
+     },
+     {
+      "slug": "strong-supports-cluster-ten-times-more-likely-to-improve"
+     },
+     {
+      "slug": "sustained-weakness-one-support-few-improve"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "5essentials-survey-diagnostic-tools",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "5essentials-survey-system-illinois",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-framework-illinois",
+      "strength": "W"
      }
     ]
    },
@@ -28228,6 +28807,9 @@
       "slug": "kindergarten-transition-difficulty-academic-risk"
      },
      {
+      "slug": "prek-chronic-absence-predicts-later-chronic-absence"
+     },
+     {
       "slug": "prek-kindergarten-attendance-importance"
      },
      {
@@ -28249,6 +28831,25 @@
       "polarity": "+",
       "slug": "go-learn-grow-attendance-toolkit",
       "strength": "W"
+     }
+    ]
+   },
+   "chronic-prek-absence-lower-kindergarten-readiness": {
+    "claims": [
+     {
+      "slug": "multiyear-chronic-absenteeism-lower-second-grade-reading"
+     },
+     {
+      "slug": "prek-attendance-kindergarten-readiness"
+     },
+     {
+      "slug": "prek-chronic-absence-predicts-later-chronic-absence"
+     },
+     {
+      "slug": "preschool-absence-lower-kindergarten-readiness"
+     },
+     {
+      "slug": "preschool-chronic-absenteeism-extremely-high-cps"
      }
     ]
    },
@@ -33433,6 +34034,16 @@
      }
     ]
    },
+   "class-conditions-shift-grades": {
+    "claims": [
+     {
+      "slug": "assessment-weights-shrank-gender-grade-gap"
+     },
+     {
+      "slug": "class-peer-achievement-lowers-grades"
+     }
+    ]
+   },
    "class-descriptive-scores-favour-control-post-test": {
     "claims": [
      {
@@ -33485,6 +34096,16 @@
       "polarity": "+",
       "slug": "willingness-to-communicate-in-l2",
       "strength": "W"
+     }
+    ]
+   },
+   "class-peer-achievement-lowers-grades": {
+    "claims": [
+     {
+      "slug": "class-conditions-shift-grades"
+     },
+     {
+      "slug": "demanding-schedule-gpa-penalty"
      }
     ]
    },
@@ -33868,6 +34489,9 @@
      },
      {
       "slug": "observation-dimensions-modestly-significantly-related-to-value-added"
+     },
+     {
+      "slug": "reach-observation-value-added-correlation-0349"
      }
     ],
     "elements": [
@@ -41417,6 +42041,9 @@
    "common-strategies-structured-curriculum-small-group-progress-monitoring": {
     "claims": [
      {
+      "slug": "ivy-progress-monitoring-tiered-supports"
+     },
+     {
       "slug": "most-tier2-interventions-uncertain-or-promising-evidence"
      },
      {
@@ -42929,6 +43556,22 @@
       "polarity": "+",
       "slug": "zoom-in",
       "strength": "M"
+     }
+    ]
+   },
+   "competency-focused-internships-improved-experience": {
+    "claims": [
+     {
+      "slug": "illinois-principal-preparation-five-benefit-areas"
+     },
+     {
+      "slug": "illinois-principal-preparation-requirements-inflexibility"
+     },
+     {
+      "slug": "illinois-principal-preparation-stakeholders-positive-policy-goals"
+     },
+     {
+      "slug": "managerial-skills-deemphasized-worry"
      }
     ]
    },
@@ -47914,6 +48557,9 @@
       "slug": "higher-achievers-larger-gpa-declines-transition"
      },
      {
+      "slug": "ninth-grade-gpa-increase-with-achievement-trends"
+     },
+     {
       "slug": "non-core-gpa-declines-exceed-core"
      },
      {
@@ -48701,6 +49347,9 @@
       "slug": "charter-schools-reported-student-academic-losses"
      },
      {
+      "slug": "chicago-closings-affected-students-more-disadvantaged"
+     },
+     {
       "slug": "pa-leas-in-person-learning-expanded-2020-21"
      },
      {
@@ -48829,6 +49478,31 @@
      }
     ]
    },
+   "cps-arrest-rates-declined-racial-disparities": {
+    "claims": [
+     {
+      "slug": "african-american-boys-oss-disparity-cps"
+     },
+     {
+      "slug": "african-american-boys-suspended-13-points-higher"
+     },
+     {
+      "slug": "cps-high-school-oss-rates-declined-2009-2014"
+     },
+     {
+      "slug": "defiance-drives-most-high-school-suspensions"
+     },
+     {
+      "slug": "iss-rates-doubled-african-american-high-school-students"
+     },
+     {
+      "slug": "low-achievement-disability-suspension-rates-cps"
+     },
+     {
+      "slug": "safety-perceptions-improved-as-oss-declined"
+     }
+    ]
+   },
    "cps-attainment-gaps-black-latino-young-men": {
     "claims": [
      {
@@ -48851,13 +49525,172 @@
       "slug": "cps-attainment-gaps-black-latino-young-men"
      },
      {
+      "slug": "cps-bachelors-dai-rose-7-points"
+     },
+     {
+      "slug": "cps-college-enrollment-growth-four-year"
+     },
+     {
       "slug": "cps-dai-gaps-race-gender"
      },
      {
       "slug": "cps-dai-projected-bachelors-doubled-2006-2018"
      },
      {
+      "slug": "cps-direct-bachelors-dai-rose-2006-2016"
+     },
+     {
       "slug": "cps-four-year-graduation-flat-49-percent"
+     },
+     {
+      "slug": "cps-immediate-college-enrollment-two-thirds-2017"
+     }
+    ]
+   },
+   "cps-bachelors-dai-rose-7-points": {
+    "claims": [
+     {
+      "slug": "cps-bachelors-dai-2017-19-percent"
+     },
+     {
+      "slug": "cps-dai-projected-bachelors-doubled-2006-2018"
+     },
+     {
+      "slug": "cps-direct-bachelors-dai-rose-2006-2016"
+     },
+     {
+      "slug": "cps-graduating-gpas-improved"
+     }
+    ]
+   },
+   "cps-charter-better-attendance-test-scores": {
+    "claims": [
+     {
+      "slug": "cps-charter-incoming-skills-feeder-pool"
+     },
+     {
+      "slug": "cps-charter-similar-or-lower-behaviors-promotion"
+     },
+     {
+      "slug": "cps-charter-variation-among-schools"
+     }
+    ]
+   },
+   "cps-charter-better-college-outcomes": {
+    "claims": [
+     {
+      "slug": "charter-schools-positive-attainment-effects"
+     },
+     {
+      "slug": "cps-charter-higher-transfer-rates"
+     },
+     {
+      "slug": "cps-charter-organizational-capacity-differences"
+     },
+     {
+      "slug": "cps-charter-similar-or-lower-behaviors-promotion"
+     },
+     {
+      "slug": "cps-charter-variation-among-schools"
+     },
+     {
+      "slug": "cps-four-year-graduation-flat-49-percent"
+     },
+     {
+      "slug": "green-dot-positive-student-progression"
+     }
+    ]
+   },
+   "cps-charter-higher-transfer-rates": {
+    "claims": [
+     {
+      "slug": "cps-charter-better-college-outcomes"
+     },
+     {
+      "slug": "cps-charter-incoming-skills-feeder-pool"
+     },
+     {
+      "slug": "cps-charter-variation-among-schools"
+     }
+    ]
+   },
+   "cps-charter-incoming-skills-feeder-pool": {
+    "claims": [
+     {
+      "slug": "charter-reputation-attracts-higher-achievers"
+     },
+     {
+      "slug": "cps-charter-better-attendance-test-scores"
+     },
+     {
+      "slug": "cps-charter-higher-transfer-rates"
+     },
+     {
+      "slug": "cps-charter-similar-or-lower-behaviors-promotion"
+     },
+     {
+      "slug": "success-project-high-school-enrollment-shifts"
+     }
+    ]
+   },
+   "cps-charter-organizational-capacity-differences": {
+    "claims": [
+     {
+      "slug": "cps-charter-better-college-outcomes"
+     },
+     {
+      "slug": "cps-charter-similar-or-lower-behaviors-promotion"
+     },
+     {
+      "slug": "relational-trust-materializes-regardless-of-environments"
+     },
+     {
+      "slug": "teacher-reports-coherence-trust-increased"
+     }
+    ]
+   },
+   "cps-charter-similar-or-lower-behaviors-promotion": {
+    "claims": [
+     {
+      "slug": "cps-charter-better-attendance-test-scores"
+     },
+     {
+      "slug": "cps-charter-better-college-outcomes"
+     },
+     {
+      "slug": "cps-charter-incoming-skills-feeder-pool"
+     },
+     {
+      "slug": "cps-charter-organizational-capacity-differences"
+     }
+    ]
+   },
+   "cps-charter-variation-among-schools": {
+    "claims": [
+     {
+      "slug": "background-less-related-promotion-power-than-status"
+     },
+     {
+      "slug": "cps-charter-better-attendance-test-scores"
+     },
+     {
+      "slug": "cps-charter-better-college-outcomes"
+     },
+     {
+      "slug": "cps-charter-higher-transfer-rates"
+     }
+    ]
+   },
+   "cps-college-enrollment-growth-four-year": {
+    "claims": [
+     {
+      "slug": "cps-bachelors-dai-2017-19-percent"
+     },
+     {
+      "slug": "cps-four-year-enrollment-47-percent-2016"
+     },
+     {
+      "slug": "cps-graduating-gpas-improved"
      },
      {
       "slug": "cps-immediate-college-enrollment-two-thirds-2017"
@@ -48902,7 +49735,13 @@
       "slug": "cps-bachelors-dai-2017-19-percent"
      },
      {
+      "slug": "cps-bachelors-dai-rose-7-points"
+     },
+     {
       "slug": "cps-dai-gaps-race-gender"
+     },
+     {
+      "slug": "cps-direct-bachelors-dai-rose-2006-2016"
      },
      {
       "slug": "cps-four-year-graduation-flat-49-percent"
@@ -48935,8 +49774,37 @@
      }
     ]
    },
+   "cps-direct-bachelors-dai-rose-2006-2016": {
+    "claims": [
+     {
+      "slug": "cps-bachelors-dai-2017-19-percent"
+     },
+     {
+      "slug": "cps-bachelors-dai-rose-7-points"
+     },
+     {
+      "slug": "cps-dai-projected-bachelors-doubled-2006-2018"
+     },
+     {
+      "slug": "cps-immediate-college-enrollment-two-thirds-2017"
+     }
+    ]
+   },
+   "cps-four-year-college-graduation-flat": {
+    "claims": [
+     {
+      "slug": "cps-four-year-college-graduation-steady-near-50"
+     },
+     {
+      "slug": "cps-four-year-graduation-flat-49-percent"
+     }
+    ]
+   },
    "cps-four-year-college-graduation-steady-near-50": {
     "claims": [
+     {
+      "slug": "cps-four-year-college-graduation-flat"
+     },
      {
       "slug": "cps-four-year-enrollment-47-percent-2016"
      },
@@ -48952,6 +49820,9 @@
      },
      {
       "slug": "cps-6400-more-direct-college-enrollees"
+     },
+     {
+      "slug": "cps-college-enrollment-growth-four-year"
      },
      {
       "slug": "cps-four-year-college-graduation-steady-near-50"
@@ -48976,7 +49847,13 @@
       "slug": "cps-bachelors-dai-2017-19-percent"
      },
      {
+      "slug": "cps-charter-better-college-outcomes"
+     },
+     {
       "slug": "cps-dai-projected-bachelors-doubled-2006-2018"
+     },
+     {
+      "slug": "cps-four-year-college-graduation-flat"
      },
      {
       "slug": "cps-four-year-college-graduation-steady-near-50"
@@ -48995,8 +49872,27 @@
      }
     ]
    },
+   "cps-freshman-ontrack-rose-24-points": {
+    "claims": [
+     {
+      "slug": "cps-freshman-ontrack-rose-25-points"
+     },
+     {
+      "slug": "cps-ontrack-rose-58-to-89-graduation-up-19-points"
+     },
+     {
+      "slug": "ontrack-gains-largest-among-highest-risk-students"
+     },
+     {
+      "slug": "ontrack-gains-largest-in-lowest-performing-schools"
+     }
+    ]
+   },
    "cps-freshman-ontrack-rose-25-points": {
     "claims": [
+     {
+      "slug": "cps-freshman-ontrack-rose-24-points"
+     },
      {
       "slug": "cps-hs-graduation-57-to-75"
      },
@@ -49010,10 +49906,16 @@
       "slug": "gocps-enrollment-stable-after-implementation"
      },
      {
+      "slug": "on-track-gains-largest-for-lowest-skills-and-black-males"
+     },
+     {
       "slug": "ontrack-gains-largest-among-highest-risk-students"
      },
      {
       "slug": "ontrack-gains-largest-in-lowest-performing-schools"
+     },
+     {
+      "slug": "transfer-coding-explains-only-2005-2008-gains"
      }
     ]
    },
@@ -49171,13 +50073,48 @@
      }
     ]
    },
+   "cps-graduating-gpas-improved": {
+    "claims": [
+     {
+      "slug": "cps-bachelors-dai-rose-7-points"
+     },
+     {
+      "slug": "cps-college-enrollment-growth-four-year"
+     },
+     {
+      "slug": "graduate-qualifications-rose-not-lowered-standards"
+     }
+    ]
+   },
    "cps-graduation-rate-76-percent-2018": {
     "claims": [
      {
       "slug": "cps-hs-graduation-57-to-75"
      },
      {
+      "slug": "cps-hs-graduation-rose-57-to-74"
+     },
+     {
       "slug": "cps-ontrack-rose-58-to-89-graduation-up-19-points"
+     }
+    ]
+   },
+   "cps-graduation-rates-rose-22-points-1998-2014": {
+    "claims": [
+     {
+      "slug": "cps-hs-graduation-57-to-75"
+     },
+     {
+      "slug": "cps-hs-graduation-rose-57-to-74"
+     },
+     {
+      "slug": "cps-ontrack-rose-58-to-89-graduation-up-19-points"
+     },
+     {
+      "slug": "dropout-decline-drove-diploma-gains"
+     },
+     {
+      "slug": "graduate-qualifications-rose-not-lowered-standards"
      }
     ]
    },
@@ -49191,6 +50128,40 @@
      }
     ]
    },
+   "cps-high-school-oss-rates-declined-2009-2014": {
+    "claims": [
+     {
+      "slug": "african-american-boys-oss-disparity-cps"
+     },
+     {
+      "slug": "cps-arrest-rates-declined-racial-disparities"
+     },
+     {
+      "slug": "defiance-drives-most-high-school-suspensions"
+     },
+     {
+      "slug": "iss-rates-doubled-african-american-high-school-students"
+     },
+     {
+      "slug": "low-achievement-disability-suspension-rates-cps"
+     },
+     {
+      "slug": "safety-perceptions-improved-as-oss-declined"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cps-severe-infraction-suspension-reform-element",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "mtss-framework-alternative-discipline-cps",
+      "strength": "W"
+     }
+    ]
+   },
    "cps-hs-graduation-57-to-75": {
     "claims": [
      {
@@ -49200,10 +50171,35 @@
       "slug": "cps-graduation-rate-76-percent-2018"
      },
      {
+      "slug": "cps-graduation-rates-rose-22-points-1998-2014"
+     },
+     {
+      "slug": "cps-hs-graduation-rose-57-to-74"
+     },
+     {
       "slug": "cps-ontrack-rose-58-to-89-graduation-up-19-points"
      },
      {
+      "slug": "graduate-qualifications-rose-not-lowered-standards"
+     },
+     {
       "slug": "middle-grades-principals-lasting-effects-student-outcomes"
+     }
+    ]
+   },
+   "cps-hs-graduation-rose-57-to-74": {
+    "claims": [
+     {
+      "slug": "cps-graduation-rate-76-percent-2018"
+     },
+     {
+      "slug": "cps-graduation-rates-rose-22-points-1998-2014"
+     },
+     {
+      "slug": "cps-hs-graduation-57-to-75"
+     },
+     {
+      "slug": "graduate-qualifications-rose-not-lowered-standards"
      }
     ]
    },
@@ -49216,10 +50212,45 @@
       "slug": "cps-bachelors-dai-2017-19-percent"
      },
      {
+      "slug": "cps-college-enrollment-growth-four-year"
+     },
+     {
+      "slug": "cps-direct-bachelors-dai-rose-2006-2016"
+     },
+     {
       "slug": "cps-four-year-enrollment-47-percent-2016"
      },
      {
       "slug": "cps-four-year-graduation-flat-49-percent"
+     }
+    ]
+   },
+   "cps-individual-essentials-community-patterns": {
+    "claims": [
+     {
+      "slug": "illinois-high-school-essentials-outcomes-cps"
+     },
+     {
+      "slug": "school-characteristics-chicago-connected-participation"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "5essentials-survey-system-illinois",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-early-education-framework",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-framework-illinois",
+      "strength": "W"
      }
     ]
    },
@@ -49239,8 +50270,40 @@
      }
     ]
    },
+   "cps-on-track-rate-rose-25-points-districtwide": {
+    "claims": [
+     {
+      "slug": "cps-ontrack-rose-58-to-89-graduation-up-19-points"
+     },
+     {
+      "slug": "graduation-gaps-racial-widened-others-narrowed"
+     },
+     {
+      "slug": "ninth-grade-gpa-increase-with-achievement-trends"
+     },
+     {
+      "slug": "on-track-gains-largest-for-lowest-skills-and-black-males"
+     },
+     {
+      "slug": "ontrack-gains-largest-among-highest-risk-students"
+     },
+     {
+      "slug": "ontrack-gains-largest-in-lowest-performing-schools"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "freshman-ontrack-indicator-element",
+      "strength": "M"
+     }
+    ]
+   },
    "cps-ontrack-rose-58-to-89-graduation-up-19-points": {
     "claims": [
+     {
+      "slug": "cps-freshman-ontrack-rose-24-points"
+     },
      {
       "slug": "cps-freshman-ontrack-rose-25-points"
      },
@@ -49248,7 +50311,13 @@
       "slug": "cps-graduation-rate-76-percent-2018"
      },
      {
+      "slug": "cps-graduation-rates-rose-22-points-1998-2014"
+     },
+     {
       "slug": "cps-hs-graduation-57-to-75"
+     },
+     {
+      "slug": "cps-on-track-rate-rose-25-points-districtwide"
      },
      {
       "slug": "freshman-ontrack-predictiveness-held-over-time"
@@ -49267,6 +50336,13 @@
      },
      {
       "slug": "sophomore-ontrack-predictive-but-limited"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "freshman-ontrack-indicator-element",
+      "strength": "M"
      }
     ]
    },
@@ -49287,6 +50363,86 @@
     "claims": [
      {
       "slug": "cps-grades-4-8-no-credit-incompletes-spring-2020"
+     }
+    ]
+   },
+   "cps-suspension-reduction-attendance": {
+    "claims": [
+     {
+      "slug": "cps-suspension-reduction-perceived-safety"
+     },
+     {
+      "slug": "cps-suspension-reduction-school-climate"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cps-severe-infraction-suspension-reform-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "cps-suspension-reduction-perceived-safety": {
+    "claims": [
+     {
+      "slug": "cps-suspension-reduction-attendance"
+     },
+     {
+      "slug": "cps-suspension-reduction-school-climate"
+     },
+     {
+      "slug": "safety-perceptions-improved-as-oss-declined"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cps-severe-infraction-suspension-reform-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "cps-suspension-reduction-risk-stratified-outcomes": {
+    "claims": [
+     {
+      "slug": "algorithm-ten-percent-cutoffs-targets-highest-risk"
+     },
+     {
+      "slug": "cps-suspension-reduction-school-climate"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cps-severe-infraction-suspension-reform-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "cps-suspension-reduction-school-climate": {
+    "claims": [
+     {
+      "slug": "cps-suspension-reduction-attendance"
+     },
+     {
+      "slug": "cps-suspension-reduction-perceived-safety"
+     },
+     {
+      "slug": "cps-suspension-reduction-risk-stratified-outcomes"
+     },
+     {
+      "slug": "high-suspension-rates-worse-school-climate"
+     },
+     {
+      "slug": "high-suspension-schools-concentrated-disadvantage"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cps-severe-infraction-suspension-reform-element",
+      "strength": "W"
      }
     ]
    },
@@ -49418,6 +50574,26 @@
      },
      {
       "slug": "passage-attributes-intercorrelated"
+     }
+    ]
+   },
+   "credentials-difference-observation-only-not-value-added": {
+    "claims": [
+     {
+      "slug": "board-certification-identifies-more-expert-teachers"
+     },
+     {
+      "slug": "experience-credentials-teacher-evaluation-scores"
+     },
+     {
+      "slug": "school-poverty-score-gaps-persist-controlling-teacher-background"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
      }
     ]
    },
@@ -50183,6 +51359,9 @@
      },
      {
       "slug": "low-ses-cs-enrollment-access-explained"
+     },
+     {
+      "slug": "ninth-grade-gpa-demographic-variation"
      }
     ]
    },
@@ -50667,6 +51846,9 @@
      },
      {
       "slug": "nj-hse-takers-differ-from-nontakers"
+     },
+     {
+      "slug": "teacher-race-observation-gaps-explained-by-school-poverty"
      }
     ],
     "elements": [
@@ -53553,6 +54735,12 @@
      },
      {
       "slug": "dcps-39-percent-principals-did-not-return-2008-09"
+     },
+     {
+      "slug": "foxglove-decentralized-leadership-weak-coordination"
+     },
+     {
+      "slug": "inclusive-leadership-builds-teacher-capacity"
      }
     ],
     "elements": [
@@ -54429,6 +55617,25 @@
      }
     ]
    },
+   "defiance-drives-most-high-school-suspensions": {
+    "claims": [
+     {
+      "slug": "african-american-boys-oss-disparity-cps"
+     },
+     {
+      "slug": "cps-arrest-rates-declined-racial-disparities"
+     },
+     {
+      "slug": "cps-high-school-oss-rates-declined-2009-2014"
+     },
+     {
+      "slug": "high-suspension-schools-concentrated-disadvantage"
+     },
+     {
+      "slug": "low-achievement-disability-suspension-rates-cps"
+     }
+    ]
+   },
    "deficit-view-of-minority-households-lowers-academic-expectations": {
     "claims": [
      {
@@ -54858,6 +56065,19 @@
       "polarity": "+",
       "slug": "justify-rationality-to-justify-critical-thinking-teaching",
       "strength": "S"
+     }
+    ]
+   },
+   "demanding-schedule-gpa-penalty": {
+    "claims": [
+     {
+      "slug": "class-peer-achievement-lowers-grades"
+     },
+     {
+      "slug": "ninth-grade-gpa-demographic-variation"
+     },
+     {
+      "slug": "race-gender-grade-differences-persist"
      }
     ]
    },
@@ -57563,6 +58783,9 @@
       "slug": "gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school"
      },
      {
+      "slug": "reform-narrowly-focuses-on-instruction"
+     },
+     {
       "slug": "turkish-education-selective-elite-formation-contrary-dewey"
      }
     ],
@@ -57913,6 +59136,19 @@
       "polarity": "+",
       "slug": "fuller-teacher-concerns-theory-three-stages",
       "strength": "W"
+     }
+    ]
+   },
+   "discipline-policy-changes-mixed-effects": {
+    "claims": [
+     {
+      "slug": "high-suspension-rates-worse-school-climate"
+     },
+     {
+      "slug": "partial-implementation-schools-peer-outcomes-declined"
+     },
+     {
+      "slug": "school-level-implementation-moderates-discipline-reform-peer-effects"
      }
     ]
    },
@@ -58882,6 +60118,9 @@
      },
      {
       "slug": "highest-performing-teacher-distribution-nonuniform"
+     },
+     {
+      "slug": "lower-rated-schools-tend-higher-poverty"
      }
     ],
     "theories": [
@@ -59905,6 +61144,19 @@
       "polarity": "+",
       "slug": "three-group-engagement-taxonomy",
       "strength": "W"
+     }
+    ]
+   },
+   "dropout-decline-drove-diploma-gains": {
+    "claims": [
+     {
+      "slug": "cps-graduation-rates-rose-22-points-1998-2014"
+     },
+     {
+      "slug": "on-track-gains-not-driven-by-grade-inflation"
+     },
+     {
+      "slug": "sophomore-gains-unequal-by-race-gender"
      }
     ]
    },
@@ -61037,6 +62289,9 @@
       "slug": "go-learn-grow-materials-support-attendance-improvement"
      },
      {
+      "slug": "incentives-pervasive-prek-to-grade-12"
+     },
+     {
       "slug": "prek-kindergarten-attendance-importance"
      },
      {
@@ -61227,8 +62482,95 @@
      }
     ]
    },
+   "early-ed-essentials-rasch-refined-measures": {
+    "claims": [
+     {
+      "slug": "early-education-essentials-reliable-multiple-settings"
+     },
+     {
+      "slug": "parent-focus-groups-shaped-survey-content"
+     },
+     {
+      "slug": "parent-survey-pilot-253-responses"
+     },
+     {
+      "slug": "teacher-survey-pilot-reliability-19-of-27"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-ed-essentials-survey-measurement-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "early-ed-essentials-site-score-grouping-efa": {
+    "claims": [
+     {
+      "slug": "early-ed-essentials-validation-sample-81-sites"
+     },
+     {
+      "slug": "early-education-essentials-sensitive-site-differences"
+     },
+     {
+      "slug": "ece-sample-instructional-support-lowest-class-domain"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-ed-essentials-survey-measurement-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "early-ed-essentials-validation-sample-81-sites": {
+    "claims": [
+     {
+      "slug": "early-ed-essentials-site-score-grouping-efa"
+     },
+     {
+      "slug": "early-education-essentials-reliable-multiple-settings"
+     },
+     {
+      "slug": "early-education-essentials-sensitive-site-differences"
+     },
+     {
+      "slug": "ece-sample-instructional-support-lowest-class-domain"
+     },
+     {
+      "slug": "ece-site-attendance-averaged-85-percent"
+     },
+     {
+      "slug": "parent-focus-groups-shaped-survey-content"
+     },
+     {
+      "slug": "parent-survey-pilot-253-responses"
+     },
+     {
+      "slug": "parent-voice-distinct-sixth-essential"
+     },
+     {
+      "slug": "strong-essentials-programs-more-supportive-contexts"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-ed-essentials-survey-measurement-system",
+      "strength": "W"
+     }
+    ]
+   },
    "early-education-essentials-reliable-multiple-settings": {
     "claims": [
+     {
+      "slug": "early-ed-essentials-rasch-refined-measures"
+     },
+     {
+      "slug": "early-ed-essentials-validation-sample-81-sites"
+     },
      {
       "slug": "early-education-essentials-sensitive-site-differences"
      },
@@ -61240,12 +62582,20 @@
      },
      {
       "slug": "strong-essentials-programs-more-supportive-contexts"
+     },
+     {
+      "slug": "teacher-survey-pilot-reliability-19-of-27"
      }
     ],
     "elements": [
      {
       "polarity": "+",
       "slug": "early-education-essentials-surveys",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essentials-early-education-surveys",
       "strength": "W"
      }
     ],
@@ -61264,6 +62614,12 @@
    },
    "early-education-essentials-sensitive-site-differences": {
     "claims": [
+     {
+      "slug": "early-ed-essentials-site-score-grouping-efa"
+     },
+     {
+      "slug": "early-ed-essentials-validation-sample-81-sites"
+     },
      {
       "slug": "early-education-essentials-reliable-multiple-settings"
      },
@@ -61372,6 +62728,9 @@
       "slug": "go-learn-grow-materials-support-attendance-improvement"
      },
      {
+      "slug": "incentives-pervasive-prek-to-grade-12"
+     },
+     {
       "slug": "kindergarten-transition-difficulty-academic-risk"
      },
      {
@@ -61381,10 +62740,19 @@
       "slug": "powerschool-attendance-intervention-reduces-chronic-absenteeism"
      },
      {
+      "slug": "prek-absence-widespread-african-american-lowest-skills"
+     },
+     {
+      "slug": "prek-chronic-absence-predicts-later-chronic-absence"
+     },
+     {
       "slug": "prek-kindergarten-attendance-importance"
      },
      {
       "slug": "prek-kindergarten-attendance-spells-success"
+     },
+     {
+      "slug": "preschool-chronic-absenteeism-extremely-high-cps"
      }
     ],
     "elements": [
@@ -62095,6 +63463,37 @@
      }
     ]
    },
+   "ece-sample-instructional-support-lowest-class-domain": {
+    "claims": [
+     {
+      "slug": "early-ed-essentials-site-score-grouping-efa"
+     },
+     {
+      "slug": "early-ed-essentials-validation-sample-81-sites"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-ed-essentials-survey-measurement-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "ece-site-attendance-averaged-85-percent": {
+    "claims": [
+     {
+      "slug": "early-ed-essentials-validation-sample-81-sites"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-ed-essentials-survey-measurement-system",
+      "strength": "W"
+     }
+    ]
+   },
    "eced-greater-math-gains-state-tests": {
     "claims": [
      {
@@ -62210,6 +63609,13 @@
      }
     ]
    },
+   "ecls-kindergarten-literacy-math-gap-one-sd": {
+    "claims": [
+     {
+      "slug": "poor-families-lag-affluent-peers-early-math"
+     }
+    ]
+   },
    "eco-anxiety-associated-depression-anxiety": {
     "claims": [
      {
@@ -62266,6 +63672,22 @@
       "polarity": "+",
       "slug": "chat-six-element-activity-framework",
       "strength": "W"
+     }
+    ]
+   },
+   "economic-need-higher-chicago-connected-participation": {
+    "claims": [
+     {
+      "slug": "chicago-connected-participation-rose-with-eligibility-index"
+     },
+     {
+      "slug": "english-learners-higher-iep-null-participation"
+     },
+     {
+      "slug": "hardship-index-explains-community-variation-chicago-connected"
+     },
+     {
+      "slug": "school-characteristics-chicago-connected-participation"
      }
     ]
    },
@@ -63895,6 +65317,12 @@
      },
      {
       "slug": "ninth-grade-on-track-nsi-positive-gpa-pass-credits"
+     },
+     {
+      "slug": "success-project-attendance-ontrack-improved"
+     },
+     {
+      "slug": "success-project-gpas-little-improvement"
      }
     ],
     "theories": [
@@ -64004,6 +65432,174 @@
       "polarity": "~",
       "slug": "early-intervention-in-reading-program",
       "strength": "W"
+     }
+    ]
+   },
+   "eitp-heterogeneity-baseline-achievement": {
+    "claims": [
+     {
+      "slug": "eitp-heterogeneity-poverty"
+     },
+     {
+      "slug": "eitp-heterogeneity-race-null"
+     },
+     {
+      "slug": "eitp-persistent-reading-gap"
+     },
+     {
+      "slug": "eitp-year1-reading-effect-010sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "eitp-danielson-observation-conference-system",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "process-based-evaluation-theory-of-action",
+      "strength": "W"
+     }
+    ]
+   },
+   "eitp-heterogeneity-poverty": {
+    "claims": [
+     {
+      "slug": "eitp-heterogeneity-baseline-achievement"
+     },
+     {
+      "slug": "eitp-year1-math-effect-null"
+     },
+     {
+      "slug": "eitp-year1-reading-effect-010sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "eitp-danielson-observation-conference-system",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "process-based-evaluation-theory-of-action",
+      "strength": "W"
+     }
+    ]
+   },
+   "eitp-heterogeneity-race-null": {
+    "claims": [
+     {
+      "slug": "eitp-heterogeneity-baseline-achievement"
+     },
+     {
+      "slug": "eitp-year1-reading-effect-010sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "eitp-danielson-observation-conference-system",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "process-based-evaluation-theory-of-action",
+      "strength": "W"
+     }
+    ]
+   },
+   "eitp-persistent-reading-gap": {
+    "claims": [
+     {
+      "slug": "eitp-heterogeneity-baseline-achievement"
+     },
+     {
+      "slug": "eitp-year1-math-effect-null"
+     },
+     {
+      "slug": "eitp-year1-reading-effect-010sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "eitp-danielson-observation-conference-system",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "process-based-evaluation-theory-of-action",
+      "strength": "W"
+     }
+    ]
+   },
+   "eitp-year1-math-effect-null": {
+    "claims": [
+     {
+      "slug": "eitp-heterogeneity-poverty"
+     },
+     {
+      "slug": "eitp-persistent-reading-gap"
+     },
+     {
+      "slug": "eitp-year1-reading-effect-010sd"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "eitp-danielson-observation-conference-system",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "process-based-evaluation-theory-of-action",
+      "strength": "W"
+     }
+    ]
+   },
+   "eitp-year1-reading-effect-010sd": {
+    "claims": [
+     {
+      "slug": "eitp-heterogeneity-baseline-achievement"
+     },
+     {
+      "slug": "eitp-heterogeneity-poverty"
+     },
+     {
+      "slug": "eitp-heterogeneity-race-null"
+     },
+     {
+      "slug": "eitp-persistent-reading-gap"
+     },
+     {
+      "slug": "eitp-year1-math-effect-null"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "eitp-danielson-observation-conference-system",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "process-based-evaluation-theory-of-action",
+      "strength": "M"
      }
     ]
    },
@@ -65041,6 +66637,9 @@
      },
      {
       "slug": "proficient-by-eighth-grade-els-strong-outcomes"
+     },
+     {
+      "slug": "special-populations-training-increased-but-debated"
      },
      {
       "slug": "tep-student-population-comparable-to-neighborhood-schools"
@@ -66312,6 +67911,13 @@
      }
     ]
    },
+   "english-learners-higher-iep-null-participation": {
+    "claims": [
+     {
+      "slug": "economic-need-higher-chicago-connected-participation"
+     }
+    ]
+   },
    "english-priority-over-spanish-in-practice": {
     "claims": [
      {
@@ -66701,6 +68307,9 @@
     "claims": [
      {
       "slug": "epic-year2-methods-identify-effective-schools-teachers"
+     },
+     {
+      "slug": "merit-award-incentives-increased-achievement"
      },
      {
       "slug": "principal-attitudes-shape-teacher-evaluation-engagement"
@@ -68270,6 +69879,9 @@
      },
      {
       "slug": "heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments"
+     },
+     {
+      "slug": "ivy-principal-culture-relationships-priority"
      },
      {
       "slug": "listening-then-deciding-situational-decision-making"
@@ -70020,6 +71632,19 @@
       "polarity": "+",
       "slug": "critical-language-pedagogy-questionnaire",
       "strength": "W"
+     }
+    ]
+   },
+   "experience-credentials-teacher-evaluation-scores": {
+    "claims": [
+     {
+      "slug": "credentials-difference-observation-only-not-value-added"
+     },
+     {
+      "slug": "school-poverty-score-gaps-persist-controlling-teacher-background"
+     },
+     {
+      "slug": "teacher-race-observation-gaps-explained-by-school-poverty"
      }
     ]
    },
@@ -72367,6 +73992,9 @@
    "extensive-pd-larger-instructional-improvements-elementary": {
     "claims": [
      {
+      "slug": "ccss-pd-impact-on-teaching-practices-elementary-more"
+     },
+     {
       "slug": "ccssm-professional-learning-greater-improvements-chicago-middle-grades"
      },
      {
@@ -74501,6 +76129,16 @@
      }
     ]
    },
+   "family-circumstances-cumulative-absence-burden": {
+    "claims": [
+     {
+      "slug": "health-primary-reason-preschool-absences"
+     },
+     {
+      "slug": "preschool-chronic-absenteeism-extremely-high-cps"
+     }
+    ]
+   },
    "family-community-knowledge-reach-families": {
     "claims": [
      {
@@ -74658,6 +76296,9 @@
    "family-voices-inform-all-essentials": {
     "claims": [
      {
+      "slug": "instruction-delivery-depends-on-school-context"
+     },
+     {
       "slug": "parent-voice-distinct-sixth-essential"
      },
      {
@@ -74675,6 +76316,11 @@
      {
       "polarity": "+",
       "slug": "early-education-essentials-six-essential-supports-framework",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-framework-illinois",
       "strength": "W"
      },
      {
@@ -78479,7 +80125,19 @@
       "slug": "facilitated-self-directed-learning-empowers-adults"
      },
      {
+      "slug": "foxglove-decentralized-leadership-weak-coordination"
+     },
+     {
       "slug": "goal-identify-principal-strategies-instruction"
+     },
+     {
+      "slug": "improvement-related-to-staff-family-community-relationships"
+     },
+     {
+      "slug": "ivy-principal-culture-relationships-priority"
+     },
+     {
+      "slug": "ivy-teacher-led-goals-collective-decisions"
      },
      {
       "slug": "listening-then-deciding-situational-decision-making"
@@ -79004,6 +80662,9 @@
      },
      {
       "slug": "more-evidence-needed-ffl-validity"
+     },
+     {
+      "slug": "supports-matter-in-combined-clusters"
      }
     ],
     "theories": [
@@ -79361,6 +81022,9 @@
      },
      {
       "slug": "fft-vam-correlations-positive-019-022"
+     },
+     {
+      "slug": "reach-performance-tasks-little-differentiation"
      }
     ],
     "elements": [
@@ -79411,6 +81075,9 @@
      },
      {
       "slug": "nj-pilot-practice-ratings-varied-most-effective"
+     },
+     {
+      "slug": "reach-performance-tasks-little-differentiation"
      }
     ],
     "elements": [
@@ -79447,6 +81114,9 @@
      },
      {
       "slug": "pittsburgh-three-measures-differentiate-teacher-performance"
+     },
+     {
+      "slug": "school-climate-associated-higher-teacher-evaluation-scores"
      }
     ],
     "elements": [
@@ -80342,6 +82012,12 @@
    },
    "first-two-course-failures-30-point-graduation-decrease": {
     "claims": [
+     {
+      "slug": "algebra-failers-failed-multiple-courses-off-track"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-graduation"
+     },
      {
       "slug": "non-core-failures-graduation-risk"
      },
@@ -82759,6 +84435,29 @@
      }
     ]
    },
+   "foxglove-assignment-feedback-and-progress-reviews": {
+    "claims": [
+     {
+      "slug": "foxglove-decentralized-leadership-weak-coordination"
+     }
+    ]
+   },
+   "foxglove-decentralized-leadership-weak-coordination": {
+    "claims": [
+     {
+      "slug": "decentralization-accountability-sorting-mechanisms-school-capacity"
+     },
+     {
+      "slug": "female-principals-empower-others-shared-ownership"
+     },
+     {
+      "slug": "foxglove-assignment-feedback-and-progress-reviews"
+     },
+     {
+      "slug": "principal-role-expanded-beyond-administrative-oversight"
+     }
+    ]
+   },
    "fraction-face-off-potentially-positive-general-math-achievement": {
     "claims": [
      {
@@ -83050,10 +84749,16 @@
    "freshman-attendance-predicts-graduation-independent-of-gpa": {
     "claims": [
      {
+      "slug": "attendance-tied-to-educational-outcomes"
+     },
+     {
       "slug": "freshman-ontrack-predictiveness-held-over-time"
      },
      {
       "slug": "freshman-warning-indicators-identify-70-percent-nongraduates"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-graduation"
      },
      {
       "slug": "non-core-failures-graduation-risk"
@@ -83073,6 +84778,16 @@
      }
     ]
    },
+   "freshman-gpa-stable-through-eleventh-grade": {
+    "claims": [
+     {
+      "slug": "ninth-grade-gpa-predicts-college-enrollment-persistence"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-graduation"
+     }
+    ]
+   },
    "freshman-ontrack-predictiveness-held-over-time": {
     "claims": [
      {
@@ -83083,6 +84798,15 @@
      },
      {
       "slug": "freshman-attendance-predicts-graduation-independent-of-gpa"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-graduation"
+     },
+     {
+      "slug": "on-track-gains-did-not-lower-act-scores"
+     },
+     {
+      "slug": "on-track-gains-not-driven-by-grade-inflation"
      },
      {
       "slug": "ontrack-gains-largest-among-highest-risk-students"
@@ -83100,6 +84824,11 @@
     "elements": [
      {
       "polarity": "+",
+      "slug": "freshman-ontrack-indicator-element",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
       "slug": "graduation-pathways-data-tools",
       "strength": "W"
      }
@@ -83115,10 +84844,16 @@
    "freshman-warning-indicators-identify-70-percent-nongraduates": {
     "claims": [
      {
+      "slug": "algebra-failers-failed-multiple-courses-off-track"
+     },
+     {
       "slug": "freshman-attendance-predicts-graduation-independent-of-gpa"
      },
      {
       "slug": "non-core-failures-graduation-risk"
+     },
+     {
+      "slug": "on-track-gains-not-driven-by-grade-inflation"
      },
      {
       "slug": "performance-declines-freshman-to-sophomore"
@@ -85394,6 +87129,9 @@
      },
      {
       "slug": "prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap"
+     },
+     {
+      "slug": "race-gender-grade-differences-persist"
      }
     ]
    },
@@ -85475,6 +87213,9 @@
      },
      {
       "slug": "prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap"
+     },
+     {
+      "slug": "race-gender-grade-differences-persist"
      }
     ]
    },
@@ -87666,6 +89407,25 @@
      }
     ]
    },
+   "graduate-qualifications-rose-not-lowered-standards": {
+    "claims": [
+     {
+      "slug": "cps-graduating-gpas-improved"
+     },
+     {
+      "slug": "cps-graduation-rates-rose-22-points-1998-2014"
+     },
+     {
+      "slug": "cps-hs-graduation-57-to-75"
+     },
+     {
+      "slug": "cps-hs-graduation-rose-57-to-74"
+     },
+     {
+      "slug": "ninth-grade-gpa-increase-with-achievement-trends"
+     }
+    ]
+   },
    "graduate-students-develop-interactive-modules-as-course-project": {
     "claims": [
      {
@@ -87711,6 +89471,16 @@
       "polarity": "+",
       "slug": "educational-philosophies-taxonomy-wiles-bondi",
       "strength": "W"
+     }
+    ]
+   },
+   "graduation-gaps-racial-widened-others-narrowed": {
+    "claims": [
+     {
+      "slug": "cps-on-track-rate-rose-25-points-districtwide"
+     },
+     {
+      "slug": "sophomore-gains-unequal-by-race-gender"
      }
     ]
    },
@@ -88208,6 +89978,9 @@
    "green-dot-positive-student-progression": {
     "claims": [
      {
+      "slug": "cps-charter-better-college-outcomes"
+     },
+     {
       "slug": "green-dot-attendance-year-four-only"
      },
      {
@@ -88678,6 +90451,9 @@
     "claims": [
      {
       "slug": "boys-black-students-more-likely-overage"
+     },
+     {
+      "slug": "hardship-index-explains-community-variation-chicago-connected"
      },
      {
       "slug": "neighborhood-centered-analysis-five-chicago-groupings"
@@ -89699,6 +91475,19 @@
      }
     ]
    },
+   "hardship-index-explains-community-variation-chicago-connected": {
+    "claims": [
+     {
+      "slug": "economic-need-higher-chicago-connected-participation"
+     },
+     {
+      "slug": "groupings-finer-grained-than-77-community-areas"
+     },
+     {
+      "slug": "school-grade-variance-small-explained"
+     }
+    ]
+   },
    "harlow-surrogate-preference-challenges-secondary-drive": {
     "claims": [
      {
@@ -90002,6 +91791,19 @@
      },
      {
       "slug": "belonging-interventions-improve-outcomes"
+     }
+    ]
+   },
+   "health-primary-reason-preschool-absences": {
+    "claims": [
+     {
+      "slug": "family-circumstances-cumulative-absence-burden"
+     },
+     {
+      "slug": "preschool-absence-lower-kindergarten-readiness"
+     },
+     {
+      "slug": "preschool-chronic-absenteeism-extremely-high-cps"
      }
     ]
    },
@@ -91312,6 +93114,9 @@
       "slug": "highest-performing-teacher-distribution-nonuniform"
      },
      {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
+     },
+     {
       "slug": "results-robust-to-quartile-grouping"
      }
     ],
@@ -91571,6 +93376,55 @@
      }
     ]
    },
+   "high-suspension-rates-worse-school-climate": {
+    "claims": [
+     {
+      "slug": "cps-suspension-reduction-school-climate"
+     },
+     {
+      "slug": "discipline-policy-changes-mixed-effects"
+     },
+     {
+      "slug": "school-climate-associated-higher-teacher-evaluation-scores"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cps-severe-infraction-suspension-reform-element",
+      "strength": "W"
+     }
+    ]
+   },
+   "high-suspension-schools-concentrated-disadvantage": {
+    "claims": [
+     {
+      "slug": "abuse-neglect-history-high-suspension-risk"
+     },
+     {
+      "slug": "african-american-boys-oss-disparity-cps"
+     },
+     {
+      "slug": "african-american-boys-suspended-13-points-higher"
+     },
+     {
+      "slug": "cps-suspension-reduction-school-climate"
+     },
+     {
+      "slug": "defiance-drives-most-high-school-suspensions"
+     },
+     {
+      "slug": "iss-rates-doubled-african-american-high-school-students"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "cps-severe-infraction-suspension-reform-element",
+      "strength": "W"
+     }
+    ]
+   },
    "high-teacher-turnover-costly-disruptive-lowers-achievement": {
     "claims": [
      {
@@ -91638,6 +93492,9 @@
      },
      {
       "slug": "core-gpa-declines-eighth-to-ninth-grade-cps"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-plan-scores"
      },
      {
       "slug": "non-core-gpa-declines-exceed-core"
@@ -94680,6 +96537,12 @@
    "iep-parents-lacked-viable-choice-options": {
     "claims": [
      {
+      "slug": "chicago-closings-families-chose-welcoming-schools-priorities-and-barriers"
+     },
+     {
+      "slug": "chicago-closings-families-own-definition-of-academic-quality"
+     },
+     {
       "slug": "iep-implementation-first-enrollment-factor"
      },
      {
@@ -94698,6 +96561,9 @@
    },
    "iep-parents-safety-transportation-constraints": {
     "claims": [
+     {
+      "slug": "chicago-closings-families-chose-welcoming-schools-priorities-and-barriers"
+     },
      {
       "slug": "iep-implementation-first-enrollment-factor"
      },
@@ -94729,6 +96595,9 @@
    },
    "iep-parents-shared-ideal-school-vision": {
     "claims": [
+     {
+      "slug": "chicago-closings-families-own-definition-of-academic-quality"
+     },
      {
       "slug": "iep-implementation-first-enrollment-factor"
      },
@@ -95398,6 +97267,184 @@
      },
      {
       "slug": "second-order-model-equivalent-to-testlet-model"
+     }
+    ]
+   },
+   "illinois-high-school-essentials-outcomes-cps": {
+    "claims": [
+     {
+      "slug": "cps-individual-essentials-community-patterns"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "5essentials-survey-system-illinois",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "five-essential-supports-framework-illinois",
+      "strength": "W"
+     }
+    ]
+   },
+   "illinois-principal-preparation-enrollment-declines": {
+    "claims": [
+     {
+      "slug": "illinois-principal-preparation-pipeline-shortage-concern"
+     },
+     {
+      "slug": "illinois-principal-preparation-reduced-enrollments"
+     },
+     {
+      "slug": "illinois-principal-preparation-resource-limitations"
+     },
+     {
+      "slug": "illinois-principal-preparation-stakeholders-positive-policy-goals"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "illinois-principal-preparation-theory-of-change",
+      "strength": "M"
+     }
+    ]
+   },
+   "illinois-principal-preparation-five-benefit-areas": {
+    "claims": [
+     {
+      "slug": "competency-focused-internships-improved-experience"
+     },
+     {
+      "slug": "illinois-principal-preparation-requirements-inflexibility"
+     },
+     {
+      "slug": "illinois-principal-preparation-resource-limitations"
+     },
+     {
+      "slug": "illinois-principal-preparation-stakeholders-positive-policy-goals"
+     },
+     {
+      "slug": "managerial-skills-deemphasized-worry"
+     },
+     {
+      "slug": "policy-strengthened-university-district-partnerships"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "illinois-principal-preparation-theory-of-change",
+      "strength": "M"
+     }
+    ]
+   },
+   "illinois-principal-preparation-pipeline-shortage-concern": {
+    "claims": [
+     {
+      "slug": "illinois-principal-preparation-enrollment-declines"
+     },
+     {
+      "slug": "illinois-principal-preparation-reduced-enrollments"
+     },
+     {
+      "slug": "illinois-principal-preparation-resource-limitations"
+     },
+     {
+      "slug": "illinois-principal-preparation-stakeholders-positive-policy-goals"
+     }
+    ]
+   },
+   "illinois-principal-preparation-reduced-enrollments": {
+    "claims": [
+     {
+      "slug": "illinois-principal-preparation-enrollment-declines"
+     },
+     {
+      "slug": "illinois-principal-preparation-pipeline-shortage-concern"
+     },
+     {
+      "slug": "illinois-principal-preparation-resource-limitations"
+     },
+     {
+      "slug": "paradoxical-strategies-linked-to-recovery-from-decline"
+     }
+    ]
+   },
+   "illinois-principal-preparation-requirements-inflexibility": {
+    "claims": [
+     {
+      "slug": "competency-focused-internships-improved-experience"
+     },
+     {
+      "slug": "illinois-principal-preparation-five-benefit-areas"
+     },
+     {
+      "slug": "illinois-principal-preparation-resource-limitations"
+     },
+     {
+      "slug": "illinois-principal-preparation-stakeholders-positive-policy-goals"
+     }
+    ]
+   },
+   "illinois-principal-preparation-resource-limitations": {
+    "claims": [
+     {
+      "slug": "illinois-principal-preparation-enrollment-declines"
+     },
+     {
+      "slug": "illinois-principal-preparation-five-benefit-areas"
+     },
+     {
+      "slug": "illinois-principal-preparation-pipeline-shortage-concern"
+     },
+     {
+      "slug": "illinois-principal-preparation-reduced-enrollments"
+     },
+     {
+      "slug": "illinois-principal-preparation-requirements-inflexibility"
+     },
+     {
+      "slug": "illinois-principal-preparation-stakeholders-positive-policy-goals"
+     }
+    ]
+   },
+   "illinois-principal-preparation-stakeholders-positive-policy-goals": {
+    "claims": [
+     {
+      "slug": "competency-focused-internships-improved-experience"
+     },
+     {
+      "slug": "illinois-principal-preparation-enrollment-declines"
+     },
+     {
+      "slug": "illinois-principal-preparation-five-benefit-areas"
+     },
+     {
+      "slug": "illinois-principal-preparation-pipeline-shortage-concern"
+     },
+     {
+      "slug": "illinois-principal-preparation-requirements-inflexibility"
+     },
+     {
+      "slug": "illinois-principal-preparation-resource-limitations"
+     },
+     {
+      "slug": "managerial-skills-deemphasized-worry"
+     },
+     {
+      "slug": "policy-strengthened-university-district-partnerships"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "illinois-principal-preparation-theory-of-change",
+      "strength": "M"
      }
     ]
    },
@@ -96205,6 +98252,26 @@
      }
     ]
    },
+   "improvement-related-to-staff-family-community-relationships": {
+    "claims": [
+     {
+      "slug": "all-staff-family-communication-channels"
+     },
+     {
+      "slug": "female-principals-empower-others-shared-ownership"
+     },
+     {
+      "slug": "parent-to-parent-forums-community-support"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "teaching-as-social-enterprise-embedded-in-context",
+      "strength": "W"
+     }
+    ]
+   },
    "improvised-prayer-theory-of-mind-network": {
     "claims": [
      {
@@ -96359,6 +98426,23 @@
      {
       "polarity": "+",
       "slug": "functional-behavior-assessment",
+      "strength": "W"
+     }
+    ]
+   },
+   "incentives-pervasive-prek-to-grade-12": {
+    "claims": [
+     {
+      "slug": "early-attendance-preschool-kindergarten-future-success"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "attendance-incentive-design-considerations-framework",
       "strength": "W"
      }
     ]
@@ -96814,6 +98898,33 @@
      },
      {
       "slug": "prior-inclusion-reviews-equivocal-wang-baker-033"
+     }
+    ]
+   },
+   "inclusive-leadership-builds-teacher-capacity": {
+    "claims": [
+     {
+      "slug": "decentralization-accountability-sorting-mechanisms-school-capacity"
+     },
+     {
+      "slug": "local-innovation-space-new-leaders"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "teaching-as-social-enterprise-embedded-in-context",
+      "strength": "W"
+     }
+    ]
+   },
+   "incoming-achievement-explains-gains-only-before-2006": {
+    "claims": [
+     {
+      "slug": "ninth-grade-course-performance-explains-recent-gains"
+     },
+     {
+      "slug": "ontrack-predicts-graduation-beyond-prior-achievement"
      }
     ]
    },
@@ -97739,6 +99850,9 @@
       "slug": "new-principal-survey-scores-change-more-than-proficiency"
      },
      {
+      "slug": "school-climate-associated-higher-teacher-evaluation-scores"
+     },
+     {
       "slug": "school-mgp-stable-despite-principal-change"
      },
      {
@@ -97909,6 +100023,26 @@
       "polarity": "+",
       "slug": "infant-controlled-system-adaptive-fit-theory",
       "strength": "W"
+     }
+    ]
+   },
+   "instruction-delivery-depends-on-school-context": {
+    "claims": [
+     {
+      "slug": "family-voices-inform-all-essentials"
+     },
+     {
+      "slug": "school-characteristics-chicago-connected-participation"
+     },
+     {
+      "slug": "ssws-perceive-meso-community-school-contexts"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "teaching-as-social-enterprise-embedded-in-context",
+      "strength": "M"
      }
     ]
    },
@@ -100543,6 +102677,32 @@
      }
     ]
    },
+   "iss-rates-doubled-african-american-high-school-students": {
+    "claims": [
+     {
+      "slug": "african-american-boys-oss-disparity-cps"
+     },
+     {
+      "slug": "african-american-boys-suspended-13-points-higher"
+     },
+     {
+      "slug": "cps-arrest-rates-declined-racial-disparities"
+     },
+     {
+      "slug": "cps-high-school-oss-rates-declined-2009-2014"
+     },
+     {
+      "slug": "high-suspension-schools-concentrated-disadvantage"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "mtss-framework-alternative-discipline-cps",
+      "strength": "W"
+     }
+    ]
+   },
    "istation-sc-map-reading-growth-006": {
     "claims": [
      {
@@ -101125,6 +103285,69 @@
       "polarity": "+",
       "slug": "power-formulas-mediator-linking-clustered-rcts",
       "strength": "W"
+     }
+    ]
+   },
+   "ivy-principal-culture-relationships-priority": {
+    "claims": [
+     {
+      "slug": "all-staff-family-communication-channels"
+     },
+     {
+      "slug": "ethic-of-care-found-in-three-female-principals"
+     },
+     {
+      "slug": "female-principals-empower-others-shared-ownership"
+     },
+     {
+      "slug": "ivy-progress-monitoring-tiered-supports"
+     },
+     {
+      "slug": "ivy-teacher-led-goals-collective-decisions"
+     },
+     {
+      "slug": "listening-then-deciding-situational-decision-making"
+     },
+     {
+      "slug": "personal-ethic-of-care-transferred-from-motherhood"
+     },
+     {
+      "slug": "principal-role-expanded-beyond-administrative-oversight"
+     },
+     {
+      "slug": "principals-maintain-connectedness-despite-bureaucracy"
+     }
+    ]
+   },
+   "ivy-progress-monitoring-tiered-supports": {
+    "claims": [
+     {
+      "slug": "ccss-teacher-collaboration-grade-level-teams-observations"
+     },
+     {
+      "slug": "common-strategies-structured-curriculum-small-group-progress-monitoring"
+     },
+     {
+      "slug": "ivy-principal-culture-relationships-priority"
+     },
+     {
+      "slug": "ivy-teacher-led-goals-collective-decisions"
+     }
+    ]
+   },
+   "ivy-teacher-led-goals-collective-decisions": {
+    "claims": [
+     {
+      "slug": "female-principals-empower-others-shared-ownership"
+     },
+     {
+      "slug": "ivy-principal-culture-relationships-priority"
+     },
+     {
+      "slug": "ivy-progress-monitoring-tiered-supports"
+     },
+     {
+      "slug": "principal-role-expanded-beyond-administrative-oversight"
      }
     ]
    },
@@ -106856,6 +109079,9 @@
       "slug": "principal-pd-instructional-leadership-no-practice-change"
      },
      {
+      "slug": "rel-midwest-plc-collaborative-research-lessons"
+     },
+     {
       "slug": "teacher-leaders-support-colleague-professional-learning"
      }
     ],
@@ -107967,6 +110193,9 @@
      },
      {
       "slug": "principal-effects-indirect-through-organizational-processes"
+     },
+     {
+      "slug": "supports-matter-in-combined-clusters"
      }
     ],
     "theories": [
@@ -110571,6 +112800,9 @@
       "slug": "goal-identify-principal-strategies-instruction"
      },
      {
+      "slug": "ivy-principal-culture-relationships-priority"
+     },
+     {
       "slug": "personal-ethic-of-care-transferred-from-motherhood"
      },
      {
@@ -112353,6 +114585,9 @@
    "local-innovation-space-new-leaders": {
     "claims": [
      {
+      "slug": "inclusive-leadership-builds-teacher-capacity"
+     },
+     {
       "slug": "isolated-innovations-are-rejected-by-the-system-they-enter"
      },
      {
@@ -112427,6 +114662,9 @@
    },
    "location-constrains-high-school-choice-set": {
     "claims": [
+     {
+      "slug": "chicago-closings-proximity-primary-reason-lower-rated-schools"
+     },
      {
       "slug": "iep-parents-lacked-viable-choice-options"
      },
@@ -112966,6 +115204,25 @@
      }
     ]
    },
+   "low-achievement-disability-suspension-rates-cps": {
+    "claims": [
+     {
+      "slug": "abuse-neglect-history-high-suspension-risk"
+     },
+     {
+      "slug": "african-american-boys-oss-disparity-cps"
+     },
+     {
+      "slug": "cps-arrest-rates-declined-racial-disparities"
+     },
+     {
+      "slug": "cps-high-school-oss-rates-declined-2009-2014"
+     },
+     {
+      "slug": "defiance-drives-most-high-school-suspensions"
+     }
+    ]
+   },
    "low-equity-participants-converge-toward-high-equity-responses": {
     "claims": [
      {
@@ -113321,6 +115578,9 @@
       "slug": "observation-scores-rated-most-accurate-vam-least"
      },
      {
+      "slug": "reach-missed-observations-inability-to-rate"
+     },
+     {
       "slug": "reach-ratings-increased-over-time"
      }
     ]
@@ -113490,6 +115750,29 @@
      }
     ]
    },
+   "low-summer-algebra-credit-recovery-rate-before-study": {
+    "claims": [
+     {
+      "slug": "algebra-failers-failed-multiple-courses-off-track"
+     },
+     {
+      "slug": "algebra-failure-linked-to-incoming-academic-deficits"
+     },
+     {
+      "slug": "algebra-failure-linked-to-ninth-grade-disengagement"
+     },
+     {
+      "slug": "algebra-i-failers-more-likely-male-african-american"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "online-algebra-i-credit-recovery-course-element",
+      "strength": "W"
+     }
+    ]
+   },
    "low-vs-growing-states-grade-level-likelihood": {
     "claims": [
      {
@@ -113562,6 +115845,23 @@
      }
     ]
    },
+   "lower-rated-schools-tend-higher-poverty": {
+    "claims": [
+     {
+      "slug": "district-g-elementary-favors-high-poverty-schools"
+     },
+     {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
    "lower-retention-at-below-average-proficiency-schools": {
     "claims": [
      {
@@ -113595,6 +115895,69 @@
       "polarity": "+",
       "slug": "peerwise-online-mcq-authoring-tool",
       "strength": "W"
+     }
+    ]
+   },
+   "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools": {
+    "claims": [
+     {
+      "slug": "high-poverty-middle-schools-underrepresented-highest-performing-teachers"
+     },
+     {
+      "slug": "lower-rated-schools-tend-higher-poverty"
+     },
+     {
+      "slug": "lowest-value-added-teachers-overrepresented-high-poverty"
+     },
+     {
+      "slug": "observation-scores-stronger-poverty-concentration"
+     },
+     {
+      "slug": "observation-scores-stronger-school-characteristic-relationship"
+     },
+     {
+      "slug": "observation-scores-stronger-school-poverty-relationship-than-value-added"
+     },
+     {
+      "slug": "reach-va-overlap-across-observation-quintiles"
+     },
+     {
+      "slug": "school-climate-associated-higher-teacher-evaluation-scores"
+     },
+     {
+      "slug": "school-poverty-score-gaps-persist-controlling-teacher-background"
+     },
+     {
+      "slug": "teacher-race-observation-gaps-explained-by-school-poverty"
+     },
+     {
+      "slug": "top-value-added-teachers-higher-in-highest-poverty-schools"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "lowest-value-added-teachers-overrepresented-high-poverty": {
+    "claims": [
+     {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
+     },
+     {
+      "slug": "observation-scores-stronger-poverty-concentration"
+     },
+     {
+      "slug": "observation-scores-stronger-school-characteristic-relationship"
+     },
+     {
+      "slug": "school-poverty-score-gaps-persist-controlling-teacher-background"
+     },
+     {
+      "slug": "top-value-added-teachers-higher-in-highest-poverty-schools"
      }
     ]
    },
@@ -113670,6 +116033,9 @@
      },
      {
       "slug": "service-learning-improves-civic-and-personal-outcomes"
+     },
+     {
+      "slug": "success-project-survey-climate-improvements"
      }
     ],
     "designs": [
@@ -114349,6 +116715,33 @@
      }
     ]
    },
+   "male-teachers-lower-evaluation-scores": {
+    "claims": [
+     {
+      "slug": "male-teachers-lower-observation-and-value-added-scores"
+     },
+     {
+      "slug": "teacher-race-observation-gaps-explained-by-school-poverty"
+     }
+    ]
+   },
+   "male-teachers-lower-observation-and-value-added-scores": {
+    "claims": [
+     {
+      "slug": "male-teachers-lower-evaluation-scores"
+     },
+     {
+      "slug": "minority-teachers-lower-observation-no-value-added-difference"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
    "males-more-work-avoidant-than-females-pbl": {
     "claims": [
      {
@@ -114481,6 +116874,19 @@
       "polarity": "+",
       "slug": "seven-stages-of-concern-innovation",
       "strength": "W"
+     }
+    ]
+   },
+   "managerial-skills-deemphasized-worry": {
+    "claims": [
+     {
+      "slug": "competency-focused-internships-improved-experience"
+     },
+     {
+      "slug": "illinois-principal-preparation-five-benefit-areas"
+     },
+     {
+      "slug": "illinois-principal-preparation-stakeholders-positive-policy-goals"
      }
     ]
    },
@@ -118386,13 +120792,50 @@
      }
     ]
    },
+   "merit-award-incentives-increased-achievement": {
+    "claims": [
+     {
+      "slug": "epic-principals-positive-attitudes-merit-pay"
+     },
+     {
+      "slug": "merit-award-modest-gains-near-threshold"
+     },
+     {
+      "slug": "merit-award-winners-twice-likely-to-exit-school"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "chicago-principal-merit-award-program",
+      "strength": "W"
+     }
+    ]
+   },
    "merit-award-modest-gains-near-threshold": {
     "claims": [
+     {
+      "slug": "merit-award-incentives-increased-achievement"
+     },
      {
       "slug": "merit-award-winners-increased-principal-exit"
      },
      {
       "slug": "principals-prefer-school-level-growth-for-incentives"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "chicago-principal-merit-award-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "merit-award-signaling-theory",
+      "strength": "M"
      }
     ]
    },
@@ -118402,7 +120845,48 @@
       "slug": "merit-award-modest-gains-near-threshold"
      },
      {
+      "slug": "merit-award-winners-twice-likely-to-exit-school"
+     },
+     {
       "slug": "residency-completers-retention-similar-rates"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "chicago-principal-merit-award-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "merit-award-signaling-theory",
+      "strength": "M"
+     }
+    ]
+   },
+   "merit-award-winners-twice-likely-to-exit-school": {
+    "claims": [
+     {
+      "slug": "merit-award-incentives-increased-achievement"
+     },
+     {
+      "slug": "merit-award-winners-increased-principal-exit"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "chicago-principal-merit-award-program",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "merit-award-signaling-theory",
+      "strength": "M"
      }
     ]
    },
@@ -120068,6 +122552,9 @@
       "slug": "minnesota-public-support-cross-district-choice-rose"
      },
      {
+      "slug": "school-characteristics-chicago-connected-participation"
+     },
+     {
       "slug": "title-i-choice-constrained-single-secondary-schools"
      }
     ]
@@ -120184,6 +122671,29 @@
      {
       "polarity": "~",
       "slug": "instructor-accessibility",
+      "strength": "W"
+     }
+    ]
+   },
+   "minority-teachers-lower-observation-no-value-added-difference": {
+    "claims": [
+     {
+      "slug": "male-teachers-lower-observation-and-value-added-scores"
+     },
+     {
+      "slug": "observation-scores-stronger-school-characteristic-relationship"
+     },
+     {
+      "slug": "observation-scores-stronger-school-poverty-relationship-than-value-added"
+     },
+     {
+      "slug": "teacher-race-observation-gaps-explained-by-school-poverty"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
       "strength": "W"
      }
     ]
@@ -121949,6 +124459,9 @@
      },
      {
       "slug": "relational-taxonomy-supports-moral-education"
+     },
+     {
+      "slug": "ten-developmental-experiences-build-character"
      }
     ],
     "principles": [
@@ -124133,6 +126646,26 @@
      }
     ]
    },
+   "multiyear-chronic-absence-third-grade-reading-intervention": {
+    "claims": [
+     {
+      "slug": "multiyear-chronic-absenteeism-lower-second-grade-reading"
+     },
+     {
+      "slug": "preschool-absenteeism-predicts-later-absenteeism"
+     }
+    ]
+   },
+   "multiyear-chronic-absenteeism-lower-second-grade-reading": {
+    "claims": [
+     {
+      "slug": "chronic-prek-absence-lower-kindergarten-readiness"
+     },
+     {
+      "slug": "multiyear-chronic-absence-third-grade-reading-intervention"
+     }
+    ]
+   },
    "naep-ltt-2020-2023-bayesian-reanalysis": {
     "claims": [
      {
@@ -125365,6 +127898,56 @@
      }
     ]
    },
+   "ninth-grade-course-performance-explains-recent-gains": {
+    "claims": [
+     {
+      "slug": "9th-grade-on-track-nsi-positive-impacts-year-two"
+     },
+     {
+      "slug": "algebra-failers-failed-multiple-courses-off-track"
+     },
+     {
+      "slug": "incoming-achievement-explains-gains-only-before-2006"
+     },
+     {
+      "slug": "ninth-grade-on-track-nsi-positive-gpa-pass-credits"
+     },
+     {
+      "slug": "ontrack-predicts-graduation-beyond-prior-achievement"
+     },
+     {
+      "slug": "rct-ninth-grade-nsi-attendance-gain"
+     }
+    ]
+   },
+   "ninth-grade-early-outreach-keeps-students-on-track": {
+    "claims": [
+     {
+      "slug": "alas-progressing-in-school-positive-end-of-intervention"
+     },
+     {
+      "slug": "alas-staying-in-school-positive-end-of-intervention"
+     },
+     {
+      "slug": "barr-reduces-ninth-grade-chronic-absenteeism"
+     },
+     {
+      "slug": "check-and-connect-reduces-dropout-staying-in-school"
+     },
+     {
+      "slug": "non-core-failures-graduation-risk"
+     },
+     {
+      "slug": "on-track-ninth-graders-3-5-times-more-likely-to-graduate"
+     },
+     {
+      "slug": "ontrack-gains-largest-among-highest-risk-students"
+     },
+     {
+      "slug": "ontrack-predicts-graduation-beyond-prior-achievement"
+     }
+    ]
+   },
    "ninth-grade-early-warning-systems-improvements": {
     "claims": [
      {
@@ -125372,6 +127955,92 @@
      },
      {
       "slug": "ewims-reduces-chronic-absenteeism"
+     },
+     {
+      "slug": "ontrack-predicts-graduation-beyond-prior-achievement"
+     }
+    ]
+   },
+   "ninth-grade-gpa-demographic-variation": {
+    "claims": [
+     {
+      "slug": "black-students-disproportionate-gpa-declines"
+     },
+     {
+      "slug": "cs-grades-higher-than-core"
+     },
+     {
+      "slug": "demanding-schedule-gpa-penalty"
+     },
+     {
+      "slug": "race-gender-grade-differences-persist"
+     },
+     {
+      "slug": "sat-underpredicts-girls-performance"
+     },
+     {
+      "slug": "school-attended-determines-suspension-risk-more-than-background"
+     }
+    ]
+   },
+   "ninth-grade-gpa-increase-with-achievement-trends": {
+    "claims": [
+     {
+      "slug": "core-gpa-declines-eighth-to-ninth-grade-cps"
+     },
+     {
+      "slug": "cps-on-track-rate-rose-25-points-districtwide"
+     },
+     {
+      "slug": "graduate-qualifications-rose-not-lowered-standards"
+     }
+    ]
+   },
+   "ninth-grade-gpa-predicts-college-enrollment-persistence": {
+    "claims": [
+     {
+      "slug": "freshman-gpa-stable-through-eleventh-grade"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-graduation"
+     },
+     {
+      "slug": "nlci-high-school-outcomes-lower-than-similar-students"
+     }
+    ]
+   },
+   "ninth-grade-gpa-predicts-graduation": {
+    "claims": [
+     {
+      "slug": "first-two-course-failures-30-point-graduation-decrease"
+     },
+     {
+      "slug": "freshman-attendance-predicts-graduation-independent-of-gpa"
+     },
+     {
+      "slug": "freshman-gpa-stable-through-eleventh-grade"
+     },
+     {
+      "slug": "freshman-ontrack-predictiveness-held-over-time"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-college-enrollment-persistence"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-plan-scores"
+     },
+     {
+      "slug": "ontrack-predicts-graduation-beyond-prior-achievement"
+     }
+    ]
+   },
+   "ninth-grade-gpa-predicts-plan-scores": {
+    "claims": [
+     {
+      "slug": "higher-achievers-larger-gpa-declines-transition"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-graduation"
      },
      {
       "slug": "ontrack-predicts-graduation-beyond-prior-achievement"
@@ -125391,6 +128060,9 @@
      },
      {
       "slug": "eighth-grade-on-track-nsi-no-year-two-impact"
+     },
+     {
+      "slug": "ninth-grade-course-performance-explains-recent-gains"
      },
      {
       "slug": "nsi-network-cohesion-low-but-improving"
@@ -125669,6 +128341,9 @@
     "claims": [
      {
       "slug": "middle-grades-principals-lasting-effects-student-outcomes"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-college-enrollment-persistence"
      },
      {
       "slug": "nlci-freshman-ontrack-not-consistently-higher"
@@ -127039,6 +129714,9 @@
    "no-menu-of-dropout-prevention-program-options-yet": {
     "claims": [
      {
+      "slug": "challenge-identifying-practices-from-evaluations"
+     },
+     {
       "slug": "teacher-student-relationships-improve-engagement"
      }
     ]
@@ -127717,6 +130395,9 @@
    "non-core-failures-graduation-risk": {
     "claims": [
      {
+      "slug": "algebra-failers-failed-multiple-courses-off-track"
+     },
+     {
       "slug": "civic-engagement-higher-graduation-all-students"
      },
      {
@@ -127727,6 +130408,9 @@
      },
      {
       "slug": "freshman-warning-indicators-identify-70-percent-nongraduates"
+     },
+     {
+      "slug": "ninth-grade-early-outreach-keeps-students-on-track"
      },
      {
       "slug": "on-track-ninth-graders-3-5-times-more-likely-to-graduate"
@@ -128980,6 +131664,9 @@
      },
      {
       "slug": "eight-of-ten-dimensions-common-across-five-observation-instruments"
+     },
+     {
+      "slug": "reach-observation-value-added-correlation-0349"
      }
     ],
     "elements": [
@@ -129014,7 +131701,90 @@
       "slug": "ratings-moderately-correlated-with-student-learning"
      },
      {
+      "slug": "reach-teachers-fair-observations-unfair-student-growth"
+     },
+     {
+      "slug": "reach-teachers-question-student-growth-weight-fairness"
+     },
+     {
       "slug": "two-analysis-approach-principal-measure-accuracy"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "observation-scores-stronger-poverty-concentration": {
+    "claims": [
+     {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
+     },
+     {
+      "slug": "lowest-value-added-teachers-overrepresented-high-poverty"
+     },
+     {
+      "slug": "observation-scores-stronger-school-characteristic-relationship"
+     },
+     {
+      "slug": "observation-scores-stronger-school-poverty-relationship-than-value-added"
+     },
+     {
+      "slug": "school-poverty-score-gaps-persist-controlling-teacher-background"
+     }
+    ]
+   },
+   "observation-scores-stronger-school-characteristic-relationship": {
+    "claims": [
+     {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
+     },
+     {
+      "slug": "lowest-value-added-teachers-overrepresented-high-poverty"
+     },
+     {
+      "slug": "minority-teachers-lower-observation-no-value-added-difference"
+     },
+     {
+      "slug": "observation-scores-stronger-poverty-concentration"
+     },
+     {
+      "slug": "observation-scores-stronger-school-poverty-relationship-than-value-added"
+     },
+     {
+      "slug": "teacher-race-observation-gaps-explained-by-school-poverty"
+     }
+    ]
+   },
+   "observation-scores-stronger-school-poverty-relationship-than-value-added": {
+    "claims": [
+     {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
+     },
+     {
+      "slug": "minority-teachers-lower-observation-no-value-added-difference"
+     },
+     {
+      "slug": "observation-scores-stronger-poverty-concentration"
+     },
+     {
+      "slug": "observation-scores-stronger-school-characteristic-relationship"
+     },
+     {
+      "slug": "school-poverty-score-gaps-persist-controlling-teacher-background"
+     },
+     {
+      "slug": "teacher-race-observation-gaps-explained-by-school-poverty"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
      }
     ]
    },
@@ -129771,8 +132541,56 @@
      }
     ]
    },
+   "on-track-gains-did-not-lower-act-scores": {
+    "claims": [
+     {
+      "slug": "freshman-ontrack-predictiveness-held-over-time"
+     },
+     {
+      "slug": "on-track-gains-largest-for-lowest-skills-and-black-males"
+     }
+    ]
+   },
+   "on-track-gains-largest-for-lowest-skills-and-black-males": {
+    "claims": [
+     {
+      "slug": "algebra-i-failers-more-likely-male-african-american"
+     },
+     {
+      "slug": "cps-freshman-ontrack-rose-25-points"
+     },
+     {
+      "slug": "cps-on-track-rate-rose-25-points-districtwide"
+     },
+     {
+      "slug": "on-track-gains-did-not-lower-act-scores"
+     },
+     {
+      "slug": "ontrack-gains-largest-among-highest-risk-students"
+     }
+    ]
+   },
+   "on-track-gains-not-driven-by-grade-inflation": {
+    "claims": [
+     {
+      "slug": "dropout-decline-drove-diploma-gains"
+     },
+     {
+      "slug": "freshman-ontrack-predictiveness-held-over-time"
+     },
+     {
+      "slug": "freshman-warning-indicators-identify-70-percent-nongraduates"
+     },
+     {
+      "slug": "sophomore-gains-unequal-by-race-gender"
+     }
+    ]
+   },
    "on-track-ninth-graders-3-5-times-more-likely-to-graduate": {
     "claims": [
+     {
+      "slug": "ninth-grade-early-outreach-keeps-students-on-track"
+     },
      {
       "slug": "non-core-failures-graduation-risk"
      },
@@ -130551,7 +133369,13 @@
    "ontrack-gains-largest-among-highest-risk-students": {
     "claims": [
      {
+      "slug": "cps-freshman-ontrack-rose-24-points"
+     },
+     {
       "slug": "cps-freshman-ontrack-rose-25-points"
+     },
+     {
+      "slug": "cps-on-track-rate-rose-25-points-districtwide"
      },
      {
       "slug": "cps-ontrack-rose-58-to-89-graduation-up-19-points"
@@ -130563,6 +133387,12 @@
       "slug": "middle-grades-principals-lasting-effects-student-outcomes"
      },
      {
+      "slug": "ninth-grade-early-outreach-keeps-students-on-track"
+     },
+     {
+      "slug": "on-track-gains-largest-for-lowest-skills-and-black-males"
+     },
+     {
       "slug": "ontrack-gains-largest-in-lowest-performing-schools"
      },
      {
@@ -130571,12 +133401,25 @@
      {
       "slug": "sophomore-gains-unequal-by-race-gender"
      }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "freshman-ontrack-indicator-element",
+      "strength": "M"
+     }
     ]
    },
    "ontrack-gains-largest-in-lowest-performing-schools": {
     "claims": [
      {
+      "slug": "cps-freshman-ontrack-rose-24-points"
+     },
+     {
       "slug": "cps-freshman-ontrack-rose-25-points"
+     },
+     {
+      "slug": "cps-on-track-rate-rose-25-points-districtwide"
      },
      {
       "slug": "cps-ontrack-rose-58-to-89-graduation-up-19-points"
@@ -130598,6 +133441,9 @@
    "ontrack-predicts-graduation-beyond-prior-achievement": {
     "claims": [
      {
+      "slug": "algebra-failure-linked-to-incoming-academic-deficits"
+     },
+     {
       "slug": "cps-ontrack-rose-58-to-89-graduation-up-19-points"
      },
      {
@@ -130607,7 +133453,22 @@
       "slug": "freshman-ontrack-predictiveness-held-over-time"
      },
      {
+      "slug": "incoming-achievement-explains-gains-only-before-2006"
+     },
+     {
+      "slug": "ninth-grade-course-performance-explains-recent-gains"
+     },
+     {
+      "slug": "ninth-grade-early-outreach-keeps-students-on-track"
+     },
+     {
       "slug": "ninth-grade-early-warning-systems-improvements"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-graduation"
+     },
+     {
+      "slug": "ninth-grade-gpa-predicts-plan-scores"
      },
      {
       "slug": "on-track-ninth-graders-3-5-times-more-likely-to-graduate"
@@ -130623,6 +133484,11 @@
      }
     ],
     "elements": [
+     {
+      "polarity": "+",
+      "slug": "freshman-ontrack-indicator-element",
+      "strength": "M"
+     },
      {
       "polarity": "+",
       "slug": "graduation-pathways-data-tools",
@@ -133139,6 +136005,9 @@
       "slug": "colorado-deinstitutionalization-incentives-declined-placements"
      },
      {
+      "slug": "illinois-principal-preparation-reduced-enrollments"
+     },
+     {
       "slug": "paradoxical-institutional-characteristics-improve-effectiveness-over-time"
      }
     ]
@@ -133350,6 +136219,31 @@
      {
       "polarity": "+",
       "slug": "aac-school-qes-protocol",
+      "strength": "W"
+     }
+    ]
+   },
+   "parent-focus-groups-shaped-survey-content": {
+    "claims": [
+     {
+      "slug": "early-ed-essentials-rasch-refined-measures"
+     },
+     {
+      "slug": "early-ed-essentials-validation-sample-81-sites"
+     },
+     {
+      "slug": "parent-survey-pilot-253-responses"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-ed-essentials-survey-measurement-system",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essentials-early-education-surveys",
       "strength": "W"
      }
     ]
@@ -133598,6 +136492,37 @@
      }
     ]
    },
+   "parent-survey-pilot-253-responses": {
+    "claims": [
+     {
+      "slug": "early-ed-essentials-rasch-refined-measures"
+     },
+     {
+      "slug": "early-ed-essentials-validation-sample-81-sites"
+     },
+     {
+      "slug": "parent-focus-groups-shaped-survey-content"
+     },
+     {
+      "slug": "parent-voice-distinct-sixth-essential"
+     },
+     {
+      "slug": "teacher-survey-pilot-reliability-19-of-27"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-ed-essentials-survey-measurement-system",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essentials-early-education-surveys",
+      "strength": "W"
+     }
+    ]
+   },
    "parent-to-parent-forums-community-support": {
     "claims": [
      {
@@ -133608,6 +136533,9 @@
      },
      {
       "slug": "family-focused-co-curricular-events-relationships"
+     },
+     {
+      "slug": "improvement-related-to-staff-family-community-relationships"
      },
      {
       "slug": "mobile-apps-timely-parent-teacher-communication"
@@ -133623,6 +136551,9 @@
    "parent-voice-distinct-sixth-essential": {
     "claims": [
      {
+      "slug": "early-ed-essentials-validation-sample-81-sites"
+     },
+     {
       "slug": "early-education-essentials-reliable-multiple-settings"
      },
      {
@@ -133632,13 +136563,26 @@
       "slug": "family-voices-inform-all-essentials"
      },
      {
+      "slug": "parent-survey-pilot-253-responses"
+     },
+     {
       "slug": "strong-essentials-programs-more-supportive-contexts"
      }
     ],
     "elements": [
      {
       "polarity": "+",
+      "slug": "early-ed-essentials-survey-measurement-system",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
       "slug": "early-education-essentials-surveys",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essentials-early-education-surveys",
       "strength": "W"
      }
     ],
@@ -134184,6 +137128,9 @@
    },
    "partial-implementation-schools-peer-outcomes-declined": {
     "claims": [
+     {
+      "slug": "discipline-policy-changes-mixed-effects"
+     },
      {
       "slug": "full-implementation-schools-peer-outcomes-unaffected"
      },
@@ -137653,6 +140600,9 @@
       "slug": "gendered-parental-motivation-maori-hl2"
      },
      {
+      "slug": "ivy-principal-culture-relationships-priority"
+     },
+     {
       "slug": "listening-then-deciding-situational-decision-making"
      },
      {
@@ -139449,6 +142399,9 @@
       "slug": "pittsburgh-three-measures-differentiate-teacher-performance"
      },
      {
+      "slug": "reach-evaluator-consistency-and-severity"
+     },
+     {
       "slug": "two-analysis-approach-principal-measure-accuracy"
      }
     ],
@@ -139508,6 +142461,9 @@
      },
      {
       "slug": "teacher-survey-domains-differentiate-among-schools"
+     },
+     {
+      "slug": "within-school-variation-dominates-teacher-evaluation-scores"
      }
     ],
     "elements": [
@@ -141036,6 +143992,23 @@
      }
     ]
    },
+   "policy-strengthened-university-district-partnerships": {
+    "claims": [
+     {
+      "slug": "illinois-principal-preparation-five-benefit-areas"
+     },
+     {
+      "slug": "illinois-principal-preparation-stakeholders-positive-policy-goals"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "illinois-principal-preparation-theory-of-change",
+      "strength": "M"
+     }
+    ]
+   },
    "polish-meanings-narrower-than-english-partners": {
     "claims": [
      {
@@ -141317,6 +144290,9 @@
     "claims": [
      {
       "slug": "delayed-entrants-behind-in-math-first-grade"
+     },
+     {
+      "slug": "ecls-kindergarten-literacy-math-gap-one-sd"
      },
      {
       "slug": "economically-disadvantaged-greater-kindergarten-transition-risk"
@@ -143296,6 +146272,19 @@
      }
     ]
    },
+   "prek-absence-widespread-african-american-lowest-skills": {
+    "claims": [
+     {
+      "slug": "attendance-benefits-strongest-low-incoming-skills"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     },
+     {
+      "slug": "preschool-absence-lower-kindergarten-readiness"
+     }
+    ]
+   },
    "prek-advanced-language-reading-writing-math": {
     "claims": [
      {
@@ -143327,6 +146316,9 @@
       "slug": "capit-reading-prek-literacy-es-019"
      },
      {
+      "slug": "chronic-prek-absence-lower-kindergarten-readiness"
+     },
+     {
       "slug": "cl-early-childhood-education-improves-school-readiness"
      },
      {
@@ -143352,6 +146344,25 @@
      }
     ]
    },
+   "prek-chronic-absence-predicts-later-chronic-absence": {
+    "claims": [
+     {
+      "slug": "chronic-absenteeism-early-grades-importance-asserted"
+     },
+     {
+      "slug": "chronic-prek-absence-lower-kindergarten-readiness"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     },
+     {
+      "slug": "prek-kindergarten-attendance-importance"
+     },
+     {
+      "slug": "preschool-absenteeism-predicts-later-absenteeism"
+     }
+    ]
+   },
    "prek-kindergarten-attendance-importance": {
     "claims": [
      {
@@ -143371,6 +146382,9 @@
      },
      {
       "slug": "kindergarten-transition-difficulty-academic-risk"
+     },
+     {
+      "slug": "prek-chronic-absence-predicts-later-chronic-absence"
      },
      {
       "slug": "prek-kindergarten-attendance-spells-success"
@@ -143647,6 +146661,54 @@
       "polarity": "+",
       "slug": "grammar-decisions-based-on-learner-variables",
       "strength": "W"
+     }
+    ]
+   },
+   "preschool-absence-lower-kindergarten-readiness": {
+    "claims": [
+     {
+      "slug": "attendance-benefits-strongest-low-incoming-skills"
+     },
+     {
+      "slug": "chronic-prek-absence-lower-kindergarten-readiness"
+     },
+     {
+      "slug": "health-primary-reason-preschool-absences"
+     },
+     {
+      "slug": "prek-absence-widespread-african-american-lowest-skills"
+     }
+    ]
+   },
+   "preschool-absenteeism-predicts-later-absenteeism": {
+    "claims": [
+     {
+      "slug": "multiyear-chronic-absence-third-grade-reading-intervention"
+     },
+     {
+      "slug": "prek-chronic-absence-predicts-later-chronic-absence"
+     },
+     {
+      "slug": "preschool-chronic-absenteeism-extremely-high-cps"
+     }
+    ]
+   },
+   "preschool-chronic-absenteeism-extremely-high-cps": {
+    "claims": [
+     {
+      "slug": "chronic-prek-absence-lower-kindergarten-readiness"
+     },
+     {
+      "slug": "early-grades-chronic-absenteeism-risk-factors"
+     },
+     {
+      "slug": "family-circumstances-cumulative-absence-burden"
+     },
+     {
+      "slug": "health-primary-reason-preschool-absences"
+     },
+     {
+      "slug": "preschool-absenteeism-predicts-later-absenteeism"
      }
     ]
    },
@@ -144263,6 +147325,9 @@
       "slug": "reach-evaluation-perceived-instruction-improvement"
      },
      {
+      "slug": "reach-observation-process-reflection-and-feedback-use"
+     },
+     {
       "slug": "trusting-teacher-evaluator-relationships-reduce-anxiety"
      }
     ]
@@ -144387,6 +147452,15 @@
       "slug": "female-principals-empower-others-shared-ownership"
      },
      {
+      "slug": "foxglove-decentralized-leadership-weak-coordination"
+     },
+     {
+      "slug": "ivy-principal-culture-relationships-priority"
+     },
+     {
+      "slug": "ivy-teacher-led-goals-collective-decisions"
+     },
+     {
       "slug": "listening-then-deciding-situational-decision-making"
      },
      {
@@ -144477,6 +147551,9 @@
      },
      {
       "slug": "female-principals-empower-others-shared-ownership"
+     },
+     {
+      "slug": "ivy-principal-culture-relationships-priority"
      },
      {
       "slug": "listening-then-deciding-situational-decision-making"
@@ -144620,6 +147697,9 @@
      },
      {
       "slug": "gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math"
+     },
+     {
+      "slug": "race-gender-grade-differences-persist"
      },
      {
       "slug": "survey-self-reports-do-not-explain-gender-grade-gap"
@@ -148207,6 +151287,18 @@
    "proximity-decided-post-closing-enrollment": {
     "claims": [
      {
+      "slug": "chicago-closings-families-chose-welcoming-schools-priorities-and-barriers"
+     },
+     {
+      "slug": "chicago-closings-families-own-definition-of-academic-quality"
+     },
+     {
+      "slug": "chicago-closings-proximity-primary-reason-lower-rated-schools"
+     },
+     {
+      "slug": "chicago-closings-proximity-relocation-predict-welcoming-enrollment"
+     },
+     {
       "slug": "default-sort-academic-performance-shifts-school-choices"
      },
      {
@@ -149395,6 +152487,32 @@
      }
     ]
    },
+   "race-ethnicity-participation-differences-chicago-connected": {
+    "claims": [
+     {
+      "slug": "black-students-largest-fullday-attendance-gap"
+     }
+    ]
+   },
+   "race-gender-grade-differences-persist": {
+    "claims": [
+     {
+      "slug": "demanding-schedule-gpa-penalty"
+     },
+     {
+      "slug": "gender-gap-persists-controlling-course-enrollment"
+     },
+     {
+      "slug": "gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math"
+     },
+     {
+      "slug": "ninth-grade-gpa-demographic-variation"
+     },
+     {
+      "slug": "prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap"
+     }
+    ]
+   },
    "race-matched-teacher-achievement-benefits": {
     "claims": [
      {
@@ -149753,6 +152871,9 @@
      },
      {
       "slug": "pittsburgh-three-measures-differentiate-teacher-performance"
+     },
+     {
+      "slug": "reach-observation-value-added-correlation-0349"
      }
     ]
    },
@@ -149857,6 +152978,9 @@
      },
      {
       "slug": "9th-grade-on-track-nsi-positive-impacts-year-two"
+     },
+     {
+      "slug": "ninth-grade-course-performance-explains-recent-gains"
      },
      {
       "slug": "ninth-grade-on-track-nsi-positive-gpa-pass-credits"
@@ -150460,6 +153584,69 @@
      }
     ]
    },
+   "reach-beginning-teachers-more-positive-than-veterans": {
+    "claims": [
+     {
+      "slug": "reach-evaluation-perceived-instruction-improvement"
+     },
+     {
+      "slug": "reach-perceptions-stable-year-two-to-year-three"
+     },
+     {
+      "slug": "reach-satisfaction-varies-across-schools"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reach-teacher-evaluation-system-chicago",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-changing-practice-communication-collaboration": {
+    "claims": [
+     {
+      "slug": "reach-evaluation-perceived-instruction-improvement"
+     },
+     {
+      "slug": "reach-observation-process-reflection-and-feedback-use"
+     },
+     {
+      "slug": "reach-perceptions-stable-year-two-to-year-three"
+     },
+     {
+      "slug": "reach-year-two-optimism-declining-satisfaction"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reach-teacher-evaluation-system-chicago",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-effort-questioned-more-effort-than-results-worth": {
+    "claims": [
+     {
+      "slug": "reach-increased-teacher-and-administrator-stress"
+     },
+     {
+      "slug": "reach-perceptions-stable-year-two-to-year-three"
+     },
+     {
+      "slug": "reach-year-two-optimism-declining-satisfaction"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "reach-teacher-evaluation-system-chicago",
+      "strength": "W"
+     }
+    ]
+   },
    "reach-evaluation-perceived-instruction-improvement": {
     "claims": [
      {
@@ -150469,7 +153656,243 @@
       "slug": "principal-attitudes-shape-teacher-evaluation-engagement"
      },
      {
+      "slug": "reach-beginning-teachers-more-positive-than-veterans"
+     },
+     {
+      "slug": "reach-changing-practice-communication-collaboration"
+     },
+     {
       "slug": "reach-satisfaction-varies-across-schools"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-evaluator-consistency-and-severity": {
+    "claims": [
+     {
+      "slug": "pittsburgh-principal-practice-ratings-vary-across-schools"
+     }
+    ]
+   },
+   "reach-fewer-teachers-top-rating-categories-than-checklist": {
+    "claims": [
+     {
+      "slug": "reach-fewer-top-two-ratings-than-checklist"
+     },
+     {
+      "slug": "reach-ratings-increased-over-time"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "reach-teacher-evaluation-system-chicago",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "reach-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-fewer-top-two-ratings-than-checklist": {
+    "claims": [
+     {
+      "slug": "reach-fewer-teachers-top-rating-categories-than-checklist"
+     },
+     {
+      "slug": "reach-missed-observations-inability-to-rate"
+     },
+     {
+      "slug": "reach-ratings-increased-over-time"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "reach-teacher-evaluation-system-chicago",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-increased-teacher-and-administrator-stress": {
+    "claims": [
+     {
+      "slug": "reach-effort-questioned-more-effort-than-results-worth"
+     },
+     {
+      "slug": "reach-increased-teacher-stress-anxiety"
+     },
+     {
+      "slug": "reach-perceptions-stable-year-two-to-year-three"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reach-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-increased-teacher-stress-anxiety": {
+    "claims": [
+     {
+      "slug": "reach-increased-teacher-and-administrator-stress"
+     },
+     {
+      "slug": "reach-perceptions-stable-year-two-to-year-three"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "reach-teacher-evaluation-system-chicago",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-missed-observations-inability-to-rate": {
+    "claims": [
+     {
+      "slug": "low-ratings-linked-teacher-exit-and-reassignment"
+     },
+     {
+      "slug": "reach-fewer-top-two-ratings-than-checklist"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "reach-teacher-evaluation-system-chicago",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "reach-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-observation-process-reflection-and-feedback-use": {
+    "claims": [
+     {
+      "slug": "principal-attitudes-shape-teacher-evaluation-engagement"
+     },
+     {
+      "slug": "reach-changing-practice-communication-collaboration"
+     },
+     {
+      "slug": "reach-perceptions-stable-year-two-to-year-three"
+     },
+     {
+      "slug": "trusting-teacher-evaluator-relationships-reduce-anxiety"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reach-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-observation-value-added-correlation-0349": {
+    "claims": [
+     {
+      "slug": "classroom-management-dimension-strongest-value-added-relationship"
+     },
+     {
+      "slug": "observation-dimensions-modestly-significantly-related-to-value-added"
+     },
+     {
+      "slug": "ratings-moderately-correlated-with-student-learning"
+     },
+     {
+      "slug": "reach-only-quarter-individual-value-added"
+     }
+    ]
+   },
+   "reach-only-quarter-individual-value-added": {
+    "claims": [
+     {
+      "slug": "reach-observation-value-added-correlation-0349"
+     }
+    ]
+   },
+   "reach-perceptions-stable-year-two-to-year-three": {
+    "claims": [
+     {
+      "slug": "reach-beginning-teachers-more-positive-than-veterans"
+     },
+     {
+      "slug": "reach-changing-practice-communication-collaboration"
+     },
+     {
+      "slug": "reach-effort-questioned-more-effort-than-results-worth"
+     },
+     {
+      "slug": "reach-increased-teacher-and-administrator-stress"
+     },
+     {
+      "slug": "reach-increased-teacher-stress-anxiety"
+     },
+     {
+      "slug": "reach-observation-process-reflection-and-feedback-use"
+     },
+     {
+      "slug": "reach-teachers-fair-observations-unfair-student-growth"
+     },
+     {
+      "slug": "reach-teachers-question-student-growth-weight-fairness"
+     },
+     {
+      "slug": "reach-year-two-optimism-declining-satisfaction"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reach-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-performance-tasks-little-differentiation": {
+    "claims": [
+     {
+      "slug": "fft-findings-similar-across-pilot-phases-pittsburgh-decline"
+     },
+     {
+      "slug": "fft-pilot-ratings-concentrated-top-two-categories"
      }
     ]
    },
@@ -150477,6 +153900,26 @@
     "claims": [
      {
       "slug": "low-ratings-linked-teacher-exit-and-reassignment"
+     },
+     {
+      "slug": "reach-fewer-teachers-top-rating-categories-than-checklist"
+     },
+     {
+      "slug": "reach-fewer-top-two-ratings-than-checklist"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "reach-teacher-evaluation-system-chicago",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "reach-students-teacher-evaluation-system",
+      "strength": "W"
      }
     ]
    },
@@ -150489,7 +153932,92 @@
       "slug": "educators-receptive-to-feedback-and-compensation-strategies"
      },
      {
+      "slug": "reach-beginning-teachers-more-positive-than-veterans"
+     },
+     {
       "slug": "reach-evaluation-perceived-instruction-improvement"
+     },
+     {
+      "slug": "reach-year-two-optimism-declining-satisfaction"
+     }
+    ]
+   },
+   "reach-teachers-fair-observations-unfair-student-growth": {
+    "claims": [
+     {
+      "slug": "observation-scores-rated-most-accurate-vam-least"
+     },
+     {
+      "slug": "reach-perceptions-stable-year-two-to-year-three"
+     },
+     {
+      "slug": "reach-teachers-question-student-growth-weight-fairness"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "reach-teacher-evaluation-system",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-teachers-question-student-growth-weight-fairness": {
+    "claims": [
+     {
+      "slug": "observation-scores-rated-most-accurate-vam-least"
+     },
+     {
+      "slug": "reach-perceptions-stable-year-two-to-year-three"
+     },
+     {
+      "slug": "reach-teachers-fair-observations-unfair-student-growth"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "reach-teacher-evaluation-system-chicago",
+      "strength": "W"
+     }
+    ]
+   },
+   "reach-va-overlap-across-observation-quintiles": {
+    "claims": [
+     {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
+     },
+     {
+      "slug": "vam-bottom-quintile-reclassification-26-percent"
+     },
+     {
+      "slug": "vam-estimates-highly-correlated-across-specifications"
+     },
+     {
+      "slug": "vam-sensitivity-student-peer-controls-examined"
+     }
+    ]
+   },
+   "reach-year-two-optimism-declining-satisfaction": {
+    "claims": [
+     {
+      "slug": "reach-changing-practice-communication-collaboration"
+     },
+     {
+      "slug": "reach-effort-questioned-more-effort-than-results-worth"
+     },
+     {
+      "slug": "reach-perceptions-stable-year-two-to-year-three"
+     },
+     {
+      "slug": "reach-satisfaction-varies-across-schools"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "reach-teacher-evaluation-system-chicago",
+      "strength": "W"
      }
     ]
    },
@@ -154136,6 +157664,9 @@
       "slug": "guided-reflection-increases-reflective-judgment-sophistication"
      },
      {
+      "slug": "ten-developmental-experiences-build-character"
+     },
+     {
       "slug": "uncertainty-preparation-neglected-in-teacher-education"
      }
     ],
@@ -154502,6 +158033,20 @@
      }
     ]
    },
+   "reform-narrowly-focuses-on-instruction": {
+    "claims": [
+     {
+      "slug": "disability-inclusion-starts-from-exclusion"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "teaching-as-social-enterprise-embedded-in-context",
+      "strength": "M"
+     }
+    ]
+   },
    "reform-teacher-training-insufficient": {
     "claims": [
      {
@@ -154809,6 +158354,23 @@
      }
     ]
    },
+   "rel-midwest-plc-collaborative-research-lessons": {
+    "claims": [
+     {
+      "slug": "leader-teacher-diffusion-uneven"
+     },
+     {
+      "slug": "sig-schools-adopt-three-improvement-practices"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "research-alliance-engagement-model",
+      "strength": "M"
+     }
+    ]
+   },
    "relatedness-care-support-internalization": {
     "claims": [
      {
@@ -154898,6 +158460,96 @@
       "polarity": "+",
       "slug": "relational-domain-taxonomy-brandhorst",
       "strength": "W"
+     }
+    ]
+   },
+   "relational-trust-correlates-leadership-collaboration": {
+    "claims": [
+     {
+      "slug": "relational-trust-materializes-regardless-of-environments"
+     },
+     {
+      "slug": "relational-trust-similar-positive-valparaiso-illinois"
+     },
+     {
+      "slug": "survey-supervisor-rating-correlations-026-046"
+     },
+     {
+      "slug": "teacher-parent-trust-lower-valparaiso"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "5essentials-survey-relational-trust-measure",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "relational-trust-in-schools-valparaiso-illinois",
+      "strength": "W"
+     }
+    ]
+   },
+   "relational-trust-materializes-regardless-of-environments": {
+    "claims": [
+     {
+      "slug": "cps-charter-organizational-capacity-differences"
+     },
+     {
+      "slug": "relational-trust-correlates-leadership-collaboration"
+     },
+     {
+      "slug": "school-size-ses-condition-trust-differently"
+     },
+     {
+      "slug": "teacher-parent-trust-lower-valparaiso"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "5essentials-survey-relational-trust-measure",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "relational-trust-in-schools-valparaiso-illinois",
+      "strength": "W"
+     }
+    ]
+   },
+   "relational-trust-similar-positive-valparaiso-illinois": {
+    "claims": [
+     {
+      "slug": "relational-trust-correlates-leadership-collaboration"
+     },
+     {
+      "slug": "school-size-ses-condition-trust-differently"
+     },
+     {
+      "slug": "teacher-parent-trust-lower-valparaiso"
+     },
+     {
+      "slug": "teacher-reports-coherence-trust-increased"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "5essentials-survey-relational-trust-measure",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "relational-trust-in-schools-valparaiso-illinois",
+      "strength": "M"
      }
     ]
    },
@@ -159437,6 +163089,13 @@
      {
       "slug": "ri-charter-shift-punitive-to-collaborative-culture"
      }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "relational-trust-in-schools-valparaiso-illinois",
+      "strength": "W"
+     }
     ]
    },
    "rpq-two-factor-model-fits-better-turkish-adolescents": {
@@ -160220,6 +163879,19 @@
      }
     ]
    },
+   "safety-perceptions-improved-as-oss-declined": {
+    "claims": [
+     {
+      "slug": "cps-arrest-rates-declined-racial-disparities"
+     },
+     {
+      "slug": "cps-high-school-oss-rates-declined-2009-2014"
+     },
+     {
+      "slug": "cps-suspension-reduction-perceived-safety"
+     }
+    ]
+   },
    "saga-blended-tutoring-test-score-impacts-mixed": {
     "claims": [
      {
@@ -160582,6 +164254,9 @@
      },
      {
       "slug": "mit-lower-sat-math-scores-equal-performance"
+     },
+     {
+      "slug": "ninth-grade-gpa-demographic-variation"
      },
      {
       "slug": "psat-national-merit-awards-skew-male"
@@ -161203,6 +164878,13 @@
      }
     ]
    },
+   "school-attended-determines-suspension-risk-more-than-background": {
+    "claims": [
+     {
+      "slug": "ninth-grade-gpa-demographic-variation"
+     }
+    ]
+   },
    "school-based-interventions-small-significant-reduction-exclusion": {
     "claims": [
      {
@@ -161255,6 +164937,22 @@
      }
     ]
    },
+   "school-characteristics-chicago-connected-participation": {
+    "claims": [
+     {
+      "slug": "cps-individual-essentials-community-patterns"
+     },
+     {
+      "slug": "economic-need-higher-chicago-connected-participation"
+     },
+     {
+      "slug": "instruction-delivery-depends-on-school-context"
+     },
+     {
+      "slug": "minnesota-choice-participation-grew-1-to-17-percent"
+     }
+    ]
+   },
    "school-child-welfare-data-predict-near-term-academic-risks": {
     "claims": [
      {
@@ -161296,6 +164994,22 @@
      },
      {
       "slug": "six-or-more-clusters-enable-small-effect-detection-small-crcts"
+     }
+    ]
+   },
+   "school-climate-associated-higher-teacher-evaluation-scores": {
+    "claims": [
+     {
+      "slug": "fft-vam-correlations-positive-019-022"
+     },
+     {
+      "slug": "high-suspension-rates-worse-school-climate"
+     },
+     {
+      "slug": "insight-domain-stability-same-leader"
+     },
+     {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
      }
     ]
    },
@@ -161375,6 +165089,16 @@
       "polarity": "+",
       "slug": "will-skill-tool-model-digital-data-use",
       "strength": "S"
+     }
+    ]
+   },
+   "school-grade-variance-small-explained": {
+    "claims": [
+     {
+      "slug": "hardship-index-explains-community-variation-chicago-connected"
+     },
+     {
+      "slug": "teacher-effects-one-fifth-within-student-variance"
      }
     ]
    },
@@ -161600,6 +165324,9 @@
    "school-level-implementation-moderates-discipline-reform-peer-effects": {
     "claims": [
      {
+      "slug": "discipline-policy-changes-mixed-effects"
+     },
+     {
       "slug": "full-implementation-schools-peer-outcomes-unaffected"
      },
      {
@@ -161758,6 +165485,34 @@
      }
     ]
    },
+   "school-poverty-score-gaps-persist-controlling-teacher-background": {
+    "claims": [
+     {
+      "slug": "credentials-difference-observation-only-not-value-added"
+     },
+     {
+      "slug": "experience-credentials-teacher-evaluation-scores"
+     },
+     {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
+     },
+     {
+      "slug": "lowest-value-added-teachers-overrepresented-high-poverty"
+     },
+     {
+      "slug": "observation-scores-stronger-poverty-concentration"
+     },
+     {
+      "slug": "observation-scores-stronger-school-poverty-relationship-than-value-added"
+     },
+     {
+      "slug": "teacher-race-observation-gaps-explained-by-school-poverty"
+     },
+     {
+      "slug": "top-value-added-teachers-higher-in-highest-poverty-schools"
+     }
+    ]
+   },
    "school-proficiency-adjustment-less-precision-than-student-pretests": {
     "claims": [
      {
@@ -161781,6 +165536,60 @@
      },
      {
       "slug": "student-cs-access-92-percent-2018"
+     }
+    ]
+   },
+   "school-size-elementary-essentials-weakness": {
+    "claims": [
+     {
+      "slug": "chicago-strong-essentials-tenfold-gains"
+     },
+     {
+      "slug": "schools-strong-three-plus-supports-ten-times-more-likely-improve"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "5essentials-survey-system-illinois",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "five-essential-supports-framework-illinois",
+      "strength": "W"
+     }
+    ]
+   },
+   "school-size-ses-condition-trust-differently": {
+    "claims": [
+     {
+      "slug": "relational-trust-materializes-regardless-of-environments"
+     },
+     {
+      "slug": "relational-trust-similar-positive-valparaiso-illinois"
+     },
+     {
+      "slug": "socioeconomic-disadvantage-essentials-strength"
+     },
+     {
+      "slug": "teacher-parent-trust-lower-valparaiso"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "5essentials-survey-relational-trust-measure",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "relational-trust-in-schools-valparaiso-illinois",
+      "strength": "W"
      }
     ]
    },
@@ -161984,6 +165793,46 @@
      {
       "polarity": "+",
       "slug": "mental-self-government-intellectual-styles",
+      "strength": "W"
+     }
+    ]
+   },
+   "schools-strong-three-plus-supports-ten-times-more-likely-improve": {
+    "claims": [
+     {
+      "slug": "chicago-strong-essentials-tenfold-gains"
+     },
+     {
+      "slug": "school-size-elementary-essentials-weakness"
+     },
+     {
+      "slug": "strong-supports-cluster-ten-times-more-likely-to-improve"
+     },
+     {
+      "slug": "sustained-weakness-one-support-few-improve"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "5essentials-survey-diagnostic-tools",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essentials-early-education-surveys",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-early-education-framework",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essentials-framework-early-education-adaptation",
       "strength": "W"
      }
     ]
@@ -162881,6 +166730,9 @@
      },
      {
       "slug": "smartphone-attachment-impatience-impulsivity"
+     },
+     {
+      "slug": "ten-developmental-experiences-build-character"
      }
     ],
     "theories": [
@@ -163334,6 +167186,9 @@
      },
      {
       "slug": "stronger-belonging-linked-engagement-achievement"
+     },
+     {
+      "slug": "success-project-survey-climate-improvements"
      }
     ],
     "patterns": [
@@ -172956,6 +176811,9 @@
       "slug": "greater-ell-pd-focus-linked-to-reported-effectiveness-gains"
      },
      {
+      "slug": "rel-midwest-plc-collaborative-research-lessons"
+     },
+     {
       "slug": "rural-sig-schools-additional-location-challenges"
      },
      {
@@ -176094,6 +179952,30 @@
      }
     ]
    },
+   "socioeconomic-disadvantage-essentials-strength": {
+    "claims": [
+     {
+      "slug": "chicago-closings-affected-students-more-disadvantaged"
+     },
+     {
+      "slug": "school-size-ses-condition-trust-differently"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "5essentials-survey-system-illinois",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "five-essential-supports-framework-illinois",
+      "strength": "W"
+     }
+    ]
+   },
    "sociohistorical-influences-on-achievement": {
     "claims": [
      {
@@ -176418,6 +180300,15 @@
      },
      {
       "slug": "cps-dai-gaps-race-gender"
+     },
+     {
+      "slug": "dropout-decline-drove-diploma-gains"
+     },
+     {
+      "slug": "graduation-gaps-racial-widened-others-narrowed"
+     },
+     {
+      "slug": "on-track-gains-not-driven-by-grade-inflation"
      },
      {
       "slug": "ontrack-gains-largest-among-highest-risk-students"
@@ -178220,6 +182111,16 @@
       "polarity": "+",
       "slug": "one-step-equations-operational-relational-lines-classification",
       "strength": "W"
+     }
+    ]
+   },
+   "special-populations-training-increased-but-debated": {
+    "claims": [
+     {
+      "slug": "els-not-overidentified-special-education"
+     },
+     {
+      "slug": "tep-student-population-comparable-to-neighborhood-schools"
      }
     ]
    },
@@ -180449,6 +184350,9 @@
       "slug": "family-community-knowledge-reach-families"
      },
      {
+      "slug": "instruction-delivery-depends-on-school-context"
+     },
+     {
       "slug": "ssw-awareness-linked-advocacy-actions"
      },
      {
@@ -182271,6 +186175,9 @@
    "strong-essentials-programs-more-supportive-contexts": {
     "claims": [
      {
+      "slug": "early-ed-essentials-validation-sample-81-sites"
+     },
+     {
       "slug": "early-education-essentials-reliable-multiple-settings"
      },
      {
@@ -182293,6 +186200,11 @@
      {
       "polarity": "+",
       "slug": "early-education-essentials-surveys",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essentials-early-education-surveys",
       "strength": "W"
      }
     ],
@@ -182367,6 +186279,33 @@
      },
      {
       "slug": "tutoring-may-improve-math-confidence-and-belonging"
+     }
+    ]
+   },
+   "strong-supports-cluster-ten-times-more-likely-to-improve": {
+    "claims": [
+     {
+      "slug": "chicago-strong-essentials-tenfold-gains"
+     },
+     {
+      "slug": "schools-strong-three-plus-supports-ten-times-more-likely-improve"
+     },
+     {
+      "slug": "supports-matter-in-combined-clusters"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "5essentials-survey-diagnostic-tools",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-school-improvement-framework",
+      "strength": "S"
      }
     ]
    },
@@ -184632,6 +188571,11 @@
     ],
     "elements": [
      {
+      "polarity": "~",
+      "slug": "6to16-curriculum-element",
+      "strength": "W"
+     },
+     {
       "polarity": "-",
       "slug": "gocps-centralized-enrollment-platform",
       "strength": "W"
@@ -185349,6 +189293,117 @@
      }
     ]
    },
+   "success-project-attendance-ontrack-improved": {
+    "claims": [
+     {
+      "slug": "8th-grade-on-track-nsi-no-impacts-year-two"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-impact-increased-over-time"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-positive-impacts-year-two"
+     },
+     {
+      "slug": "eighth-grade-on-track-nsi-no-year-two-impact"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "6to16-curriculum-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "success-project-three-lever-theory-of-action",
+      "strength": "W"
+     }
+    ]
+   },
+   "success-project-gpas-little-improvement": {
+    "claims": [
+     {
+      "slug": "8th-grade-on-track-nsi-no-impacts-year-two"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-impact-increased-over-time"
+     },
+     {
+      "slug": "9th-grade-on-track-nsi-positive-impacts-year-two"
+     },
+     {
+      "slug": "eighth-grade-on-track-nsi-no-year-two-impact"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "-",
+      "slug": "6to16-curriculum-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "success-project-three-lever-theory-of-action",
+      "strength": "M"
+     }
+    ]
+   },
+   "success-project-high-school-enrollment-shifts": {
+    "claims": [
+     {
+      "slug": "charter-high-schools-more-likely-graduate-enroll-college"
+     },
+     {
+      "slug": "charter-research-shift-from-test-scores-to-long-term-outcomes"
+     },
+     {
+      "slug": "cps-charter-incoming-skills-feeder-pool"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "~",
+      "slug": "6to16-curriculum-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "success-project-three-lever-theory-of-action",
+      "strength": "W"
+     }
+    ]
+   },
+   "success-project-survey-climate-improvements": {
+    "claims": [
+     {
+      "slug": "lre-reduces-delinquent-tendencies"
+     },
+     {
+      "slug": "sel-programs-improve-behavior-and-achievement"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "6to16-curriculum-element",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "success-project-three-lever-theory-of-action",
+      "strength": "W"
+     }
+    ]
+   },
    "successful-difficult-retrieval-greater-future-success": {
     "claims": [
      {
@@ -185879,6 +189934,33 @@
      }
     ]
    },
+   "supports-matter-in-combined-clusters": {
+    "claims": [
+     {
+      "slug": "ffl-concurrent-validity-value-added"
+     },
+     {
+      "slug": "learning-climate-teacher-collaboration-common-goals"
+     },
+     {
+      "slug": "strong-supports-cluster-ten-times-more-likely-to-improve"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "5essentials-survey-diagnostic-tools",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-school-improvement-framework",
+      "strength": "M"
+     }
+    ]
+   },
    "survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate": {
     "claims": [
      {
@@ -185938,6 +190020,9 @@
    },
    "survey-supervisor-rating-correlations-026-046": {
     "claims": [
+     {
+      "slug": "relational-trust-correlates-leadership-collaboration"
+     },
      {
       "slug": "staff-feedback-teacher-surveys-principal-evaluation"
      },
@@ -186053,6 +190138,35 @@
      },
      {
       "slug": "referrals-negative-math-growth-inconsistent-reading"
+     }
+    ]
+   },
+   "sustained-weakness-one-support-few-improve": {
+    "claims": [
+     {
+      "slug": "chicago-strong-essentials-tenfold-gains"
+     },
+     {
+      "slug": "schools-strong-three-plus-supports-ten-times-more-likely-improve"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "five-essentials-early-education-surveys",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "five-essential-supports-early-education-framework",
+      "strength": "M"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essentials-framework-early-education-adaptation",
+      "strength": "W"
      }
     ]
    },
@@ -189201,6 +193315,16 @@
      }
     ]
    },
+   "teacher-effects-one-fifth-within-student-variance": {
+    "claims": [
+     {
+      "slug": "school-grade-variance-small-explained"
+     },
+     {
+      "slug": "within-student-noncognitive-factors-relate-to-grades"
+     }
+    ]
+   },
    "teacher-efficacy-pck-underpin-differentiation": {
     "claims": [
      {
@@ -189892,6 +194016,36 @@
      }
     ]
    },
+   "teacher-parent-trust-lower-valparaiso": {
+    "claims": [
+     {
+      "slug": "relational-trust-correlates-leadership-collaboration"
+     },
+     {
+      "slug": "relational-trust-materializes-regardless-of-environments"
+     },
+     {
+      "slug": "relational-trust-similar-positive-valparaiso-illinois"
+     },
+     {
+      "slug": "school-size-ses-condition-trust-differently"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "5essentials-survey-relational-trust-measure",
+      "strength": "W"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "~",
+      "slug": "relational-trust-in-schools-valparaiso-illinois",
+      "strength": "M"
+     }
+    ]
+   },
    "teacher-perceived-cost-reduces-motivation-to-use-ai": {
     "claims": [
      {
@@ -190018,6 +194172,34 @@
      }
     ]
    },
+   "teacher-race-observation-gaps-explained-by-school-poverty": {
+    "claims": [
+     {
+      "slug": "ct-pck-group-score-differences"
+     },
+     {
+      "slug": "experience-credentials-teacher-evaluation-scores"
+     },
+     {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
+     },
+     {
+      "slug": "male-teachers-lower-evaluation-scores"
+     },
+     {
+      "slug": "minority-teachers-lower-observation-no-value-added-difference"
+     },
+     {
+      "slug": "observation-scores-stronger-school-characteristic-relationship"
+     },
+     {
+      "slug": "observation-scores-stronger-school-poverty-relationship-than-value-added"
+     },
+     {
+      "slug": "school-poverty-score-gaps-persist-controlling-teacher-background"
+     }
+    ]
+   },
    "teacher-ratings-outpredict-language-tests": {
     "claims": [
      {
@@ -190086,7 +194268,13 @@
       "slug": "chicago-tap-year-two-impact-evaluation"
      },
      {
+      "slug": "cps-charter-organizational-capacity-differences"
+     },
+     {
       "slug": "cps-decades-improvement-equitable-gains"
+     },
+     {
+      "slug": "relational-trust-similar-positive-valparaiso-illinois"
      },
      {
       "slug": "stronger-iiss-supports-improvement-regardless-of-origin"
@@ -190452,6 +194640,31 @@
      {
       "polarity": "+",
       "slug": "rate-the-leader-infographic-staff-feedback",
+      "strength": "W"
+     }
+    ]
+   },
+   "teacher-survey-pilot-reliability-19-of-27": {
+    "claims": [
+     {
+      "slug": "early-ed-essentials-rasch-refined-measures"
+     },
+     {
+      "slug": "early-education-essentials-reliable-multiple-settings"
+     },
+     {
+      "slug": "parent-survey-pilot-253-responses"
+     }
+    ],
+    "elements": [
+     {
+      "polarity": "+",
+      "slug": "early-ed-essentials-survey-measurement-system",
+      "strength": "W"
+     },
+     {
+      "polarity": "+",
+      "slug": "five-essentials-early-education-surveys",
       "strength": "W"
      }
     ]
@@ -192634,6 +196847,29 @@
      }
     ]
    },
+   "ten-developmental-experiences-build-character": {
+    "claims": [
+     {
+      "slug": "character-education-didacticism-critique-dewey-bridge"
+     },
+     {
+      "slug": "moral-knowledge-product-of-moral-inquiry"
+     },
+     {
+      "slug": "reflective-judgment-levels-shape-dilemma-perception-and-action"
+     },
+     {
+      "slug": "secure-base-enables-exploration"
+     }
+    ],
+    "theories": [
+     {
+      "polarity": "+",
+      "slug": "foundations-young-adult-success-framework",
+      "strength": "W"
+     }
+    ]
+   },
    "ten-motivation-subfactors-correlate-self-efficacy": {
     "claims": [
      {
@@ -192948,6 +197184,9 @@
      },
      {
       "slug": "gottlieb-1997-group-size-increase-lowered-reading-scores"
+     },
+     {
+      "slug": "special-populations-training-increased-but-debated"
      },
      {
       "slug": "tep-four-year-math-gain-1-6-years"
@@ -196831,6 +201070,19 @@
      }
     ]
    },
+   "top-value-added-teachers-higher-in-highest-poverty-schools": {
+    "claims": [
+     {
+      "slug": "lowest-scoring-teachers-overrepresented-in-highest-poverty-schools"
+     },
+     {
+      "slug": "lowest-value-added-teachers-overrepresented-high-poverty"
+     },
+     {
+      "slug": "school-poverty-score-gaps-persist-controlling-teacher-background"
+     }
+    ]
+   },
    "topic-level-time-management-group-differences": {
     "claims": [
      {
@@ -197934,6 +202186,13 @@
      }
     ]
    },
+   "transfer-coding-explains-only-2005-2008-gains": {
+    "claims": [
+     {
+      "slug": "cps-freshman-ontrack-rose-25-points"
+     }
+    ]
+   },
    "transfer-extends-to-specialty-development-roles": {
     "claims": [
      {
@@ -198611,6 +202870,9 @@
      },
      {
       "slug": "principal-attitudes-shape-teacher-evaluation-engagement"
+     },
+     {
+      "slug": "reach-observation-process-reflection-and-feedback-use"
      }
     ],
     "theories": [
@@ -201419,6 +205681,9 @@
       "slug": "mathematica-vam-technical-assistance-phase1"
      },
      {
+      "slug": "reach-va-overlap-across-observation-quintiles"
+     },
+     {
       "slug": "vam-estimates-highly-correlated-across-specifications"
      },
      {
@@ -201445,6 +205710,9 @@
      },
      {
       "slug": "pretest-posttest-correlations-vary-by-achievement-level"
+     },
+     {
+      "slug": "reach-va-overlap-across-observation-quintiles"
      },
      {
       "slug": "specification-differences-small-tail-changes"
@@ -201669,6 +205937,9 @@
      },
      {
       "slug": "proxy-pretest-difference-driven-by-bias-not-precision"
+     },
+     {
+      "slug": "reach-va-overlap-across-observation-quintiles"
      },
      {
       "slug": "rothstein-test-not-definitive-evidence-of-bias"
@@ -204574,6 +208845,9 @@
    "welcoming-school-mobility-spike-relocating-schools": {
     "claims": [
      {
+      "slug": "chicago-closings-proximity-relocation-predict-welcoming-enrollment"
+     },
+     {
       "slug": "closures-no-effect-absences-suspensions"
      }
     ]
@@ -205845,6 +210119,13 @@
      }
     ]
    },
+   "within-school-variation-dominates-teacher-evaluation-scores": {
+    "claims": [
+     {
+      "slug": "pittsburgh-three-measures-differentiate-teacher-performance"
+     }
+    ]
+   },
    "within-sector-variability-rivals-between-sector": {
     "claims": [
      {
@@ -205875,6 +210156,9 @@
      },
      {
       "slug": "student-classroom-interaction-variance-noncognitive-factors"
+     },
+     {
+      "slug": "teacher-effects-one-fifth-within-student-variance"
      }
     ],
     "elements": [
@@ -210520,10 +214804,50 @@
       "slug": "5essentials-racial-equity-civic-engagement-measures"
      },
      {
+      "slug": "5essentials-survey-relational-trust-measure"
+     },
+     {
       "slug": "5essentials-survey-sed-climate-measures"
      },
      {
       "slug": "early-education-essentials-surveys"
+     }
+    ]
+   },
+   "5essentials-survey-diagnostic-tools": {
+    "elements": [
+     {
+      "slug": "5essentials-survey-system-illinois"
+     },
+     {
+      "slug": "early-ed-essentials-survey-measurement-system"
+     },
+     {
+      "slug": "early-education-essentials-surveys"
+     },
+     {
+      "slug": "five-essentials-early-education-surveys"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "five-essential-supports-framework-uchicago-consortium"
+     },
+     {
+      "slug": "five-essential-supports-school-improvement-framework"
+     }
+    ]
+   },
+   "5essentials-survey-relational-trust-measure": {
+    "elements": [
+     {
+      "slug": "5essentials-supportive-environment-measures"
+     },
+     {
+      "slug": "5essentials-survey-sed-climate-measures"
+     },
+     {
+      "slug": "5essentials-survey-system-illinois"
      }
     ]
    },
@@ -210534,6 +214858,52 @@
      },
      {
       "slug": "5essentials-supportive-environment-measures"
+     },
+     {
+      "slug": "5essentials-survey-relational-trust-measure"
+     },
+     {
+      "slug": "5essentials-survey-system-illinois"
+     }
+    ]
+   },
+   "5essentials-survey-system-illinois": {
+    "elements": [
+     {
+      "slug": "5essentials-survey-diagnostic-tools"
+     },
+     {
+      "slug": "5essentials-survey-relational-trust-measure"
+     },
+     {
+      "slug": "5essentials-survey-sed-climate-measures"
+     },
+     {
+      "slug": "early-ed-essentials-survey-measurement-system"
+     },
+     {
+      "slug": "early-education-essentials-surveys"
+     },
+     {
+      "slug": "five-essentials-early-education-surveys"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "five-essential-supports-framework-illinois"
+     },
+     {
+      "slug": "five-essential-supports-framework-uchicago-consortium"
+     },
+     {
+      "slug": "five-essentials-framework-early-education-adaptation"
+     }
+    ]
+   },
+   "6to16-curriculum-element": {
+    "theories": [
+     {
+      "slug": "success-project-three-lever-theory-of-action"
      }
     ]
    },
@@ -233991,10 +238361,37 @@
      }
     ]
    },
+   "early-ed-essentials-survey-measurement-system": {
+    "elements": [
+     {
+      "slug": "5essentials-survey-diagnostic-tools"
+     },
+     {
+      "slug": "5essentials-survey-system-illinois"
+     },
+     {
+      "slug": "five-essentials-early-education-surveys"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "five-essentials-framework-early-education-adaptation"
+     }
+    ]
+   },
    "early-education-essentials-surveys": {
     "elements": [
      {
       "slug": "5essentials-supportive-environment-measures"
+     },
+     {
+      "slug": "5essentials-survey-diagnostic-tools"
+     },
+     {
+      "slug": "5essentials-survey-system-illinois"
+     },
+     {
+      "slug": "five-essentials-early-education-surveys"
      }
     ],
     "theories": [
@@ -234378,6 +238775,21 @@
      },
      {
       "slug": "stella-cost-structure"
+     }
+    ]
+   },
+   "eitp-danielson-observation-conference-system": {
+    "elements": [
+     {
+      "slug": "reach-teacher-evaluation-system-chicago"
+     },
+     {
+      "slug": "reach-teacher-evaluation-system"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "process-based-evaluation-theory-of-action"
      }
     ]
    },
@@ -236057,6 +240469,9 @@
     "theories": [
      {
       "slug": "fast-logic-model-school-turnaround"
+     },
+     {
+      "slug": "success-project-three-lever-theory-of-action"
      }
     ]
    },
@@ -236901,6 +241316,39 @@
     "principles": [
      {
       "slug": "summative-assessment"
+     }
+    ]
+   },
+   "five-essentials-early-education-surveys": {
+    "elements": [
+     {
+      "slug": "5essentials-survey-diagnostic-tools"
+     },
+     {
+      "slug": "5essentials-survey-system-illinois"
+     },
+     {
+      "slug": "early-ed-essentials-survey-measurement-system"
+     },
+     {
+      "slug": "early-education-essentials-surveys"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "early-education-essentials-six-essential-supports-framework"
+     },
+     {
+      "slug": "five-essential-supports-early-education-framework"
+     },
+     {
+      "slug": "five-essential-supports-framework-illinois"
+     },
+     {
+      "slug": "five-essentials-framework-early-education-adaptation"
+     },
+     {
+      "slug": "six-organizational-conditions-ece-essentials"
      }
     ]
    },
@@ -248649,6 +253097,26 @@
     "elements": [
      {
       "slug": "prototype-practice-framework-secondary-mathematics-differentiation"
+     }
+    ]
+   },
+   "reach-teacher-evaluation-system": {
+    "elements": [
+     {
+      "slug": "eitp-danielson-observation-conference-system"
+     },
+     {
+      "slug": "reach-teacher-evaluation-system-chicago"
+     }
+    ]
+   },
+   "reach-teacher-evaluation-system-chicago": {
+    "elements": [
+     {
+      "slug": "eitp-danielson-observation-conference-system"
+     },
+     {
+      "slug": "reach-teacher-evaluation-system"
      }
     ]
    },
@@ -284810,6 +289278,13 @@
      }
     ]
    },
+   "attendance-incentive-design-considerations-framework": {
+    "strategies": [
+     {
+      "slug": "evaluation-cycle-improves-incentive-implementation"
+     }
+    ]
+   },
    "attribution-theory": {
     "learner-variables": [
      {
@@ -288182,6 +292657,9 @@
      },
      {
       "slug": "sociocultural-theory-lens-sla-learners"
+     },
+     {
+      "slug": "teaching-as-social-enterprise-embedded-in-context"
      }
     ]
    },
@@ -288948,7 +293426,13 @@
       "slug": "arts-education-sel-theory-of-action"
      },
      {
+      "slug": "foundations-young-adult-success-framework"
+     },
+     {
       "slug": "sociocultural-theory"
+     },
+     {
+      "slug": "teaching-as-social-enterprise-embedded-in-context"
      },
      {
       "slug": "ten-developmental-experiences-arts-framework"
@@ -289561,6 +294045,12 @@
    },
    "early-education-essentials-six-essential-supports-framework": {
     "theories": [
+     {
+      "slug": "five-essential-supports-early-education-framework"
+     },
+     {
+      "slug": "five-essential-supports-framework-illinois"
+     },
      {
       "slug": "five-essential-supports-framework-uchicago-consortium"
      },
@@ -291255,7 +295745,19 @@
    "five-essential-supports-5es-framework": {
     "theories": [
      {
+      "slug": "five-essential-supports-early-education-framework"
+     },
+     {
+      "slug": "five-essential-supports-framework-illinois"
+     },
+     {
       "slug": "five-essential-supports-framework-uchicago-consortium"
+     },
+     {
+      "slug": "five-essential-supports-school-improvement-framework"
+     },
+     {
+      "slug": "five-essentials-framework-early-education-adaptation"
      },
      {
       "slug": "informal-social-learning-networks-coherence"
@@ -291268,6 +295770,57 @@
      }
     ]
    },
+   "five-essential-supports-early-education-framework": {
+    "elements": [
+     {
+      "slug": "five-essentials-early-education-surveys"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "early-education-essentials-six-essential-supports-framework"
+     },
+     {
+      "slug": "five-essential-supports-5es-framework"
+     },
+     {
+      "slug": "five-essential-supports-framework-illinois"
+     },
+     {
+      "slug": "five-essential-supports-framework-uchicago-consortium"
+     },
+     {
+      "slug": "five-essentials-framework-early-education-adaptation"
+     }
+    ]
+   },
+   "five-essential-supports-framework-illinois": {
+    "elements": [
+     {
+      "slug": "5essentials-survey-system-illinois"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "early-education-essentials-six-essential-supports-framework"
+     },
+     {
+      "slug": "five-essential-supports-5es-framework"
+     },
+     {
+      "slug": "five-essential-supports-early-education-framework"
+     },
+     {
+      "slug": "five-essential-supports-framework-uchicago-consortium"
+     },
+     {
+      "slug": "five-essential-supports-school-improvement-framework"
+     },
+     {
+      "slug": "five-essentials-framework-early-education-adaptation"
+     }
+    ]
+   },
    "five-essential-supports-framework-uchicago-consortium": {
     "theories": [
      {
@@ -291275,6 +295828,68 @@
      },
      {
       "slug": "five-essential-supports-5es-framework"
+     },
+     {
+      "slug": "five-essential-supports-early-education-framework"
+     },
+     {
+      "slug": "five-essential-supports-framework-illinois"
+     },
+     {
+      "slug": "five-essential-supports-school-improvement-framework"
+     },
+     {
+      "slug": "five-essentials-framework-early-education-adaptation"
+     }
+    ]
+   },
+   "five-essential-supports-school-improvement-framework": {
+    "elements": [
+     {
+      "slug": "5essentials-survey-diagnostic-tools"
+     }
+    ],
+    "strategies": [
+     {
+      "slug": "evidence-based-narrative-and-action-plans-from-diagnostics"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "five-essential-supports-5es-framework"
+     },
+     {
+      "slug": "five-essential-supports-framework-illinois"
+     },
+     {
+      "slug": "five-essential-supports-framework-uchicago-consortium"
+     },
+     {
+      "slug": "five-essentials-framework-early-education-adaptation"
+     }
+    ]
+   },
+   "five-essentials-framework-early-education-adaptation": {
+    "elements": [
+     {
+      "slug": "early-ed-essentials-survey-measurement-system"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "five-essential-supports-5es-framework"
+     },
+     {
+      "slug": "five-essential-supports-early-education-framework"
+     },
+     {
+      "slug": "five-essential-supports-framework-illinois"
+     },
+     {
+      "slug": "five-essential-supports-framework-uchicago-consortium"
+     },
+     {
+      "slug": "five-essential-supports-school-improvement-framework"
      }
     ]
    },
@@ -291418,6 +296033,18 @@
     "theories": [
      {
       "slug": "epistemic-injustice"
+     }
+    ]
+   },
+   "foundations-young-adult-success-framework": {
+    "strategies": [
+     {
+      "slug": "align-developmental-experiences-with-primed"
+     }
+    ],
+    "theories": [
+     {
+      "slug": "developmental-relationships-context-sel"
      }
     ]
    },
@@ -296148,6 +300775,13 @@
      }
     ]
    },
+   "research-alliance-engagement-model": {
+    "strategies": [
+     {
+      "slug": "researcher-professional-learning-community-strategy"
+     }
+    ]
+   },
    "research-design-taxonomy": {
     "elements": [
      {
@@ -299859,6 +304493,13 @@
      }
     ]
    },
+   "success-project-three-lever-theory-of-action": {
+    "elements": [
+     {
+      "slug": "6to16-curriculum-element"
+     }
+    ]
+   },
    "suitability-feasibility-framework-state-tests-rct": {
     "strategies": [
      {
@@ -300100,6 +304741,16 @@
      },
      {
       "slug": "loa-survey-instrument-cbam-adaptation"
+     }
+    ]
+   },
+   "teaching-as-social-enterprise-embedded-in-context": {
+    "theories": [
+     {
+      "slug": "cop-theory-community-membership-learning"
+     },
+     {
+      "slug": "developmental-relationships-context-sel"
      }
     ]
    },
@@ -301655,15 +306306,15 @@
  },
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
-  "claims": 6632,
+  "claims": 6820,
   "designs": 207,
-  "elements": 1524,
+  "elements": 1541,
   "learner-variables": 12,
   "methods": 38,
   "patterns": 126,
   "principles": 375,
   "processes": 18,
-  "strategies": 3742,
-  "theories": 1206
+  "strategies": 3761,
+  "theories": 1221
  }
 }

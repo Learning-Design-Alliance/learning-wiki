@@ -45,3 +45,4 @@ The overview summarizes the longitudinal multi-method study of hundreds of schoo
 ## Related Claims
 - [Parents of students with IEPs share a common vision of an ideal school that is safe, supportive, academically strong, and inclusive with needed supports](iep-parents-shared-ideal-school-vision.md) — related
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — related
+- [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](supports-matter-in-combined-clusters.md) — related

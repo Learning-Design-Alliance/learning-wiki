@@ -49,7 +49,8 @@ The Framework for Teaching is a classroom-observation rubric used by principals 
 - [Pennsylvania Teacher and Principal Evaluation Pilot (2010-2015), Phase 2 classroom-observation study](pennsylvania-teacher-evaluation-pilot-phase-2.md)
 
 ## Examples
--
+
+- [Use multiple classroom observations with rubric-based ratings and evidence as the evaluation component teachers perceive as fair](../strategies/multiple-rubric-based-observations-as-fair-evaluation.md)
 
 ## Key Sources
 - Elias Walsh, Stephen Lipscomb. (2013). Classroom Observations from Phase 2 of the Pennsylvania Teacher Evaluation Pilot: Assessing Internal Consistency, Score Variation, and Relationships with Value Added. Cambridge, MA: Mathematica Policy Research. https://www.mathematica.org/publications/classroom-observations-from-phase-2-of-the-pennsylvania-teacher-evaluation-pilot-assessing-internal-consistency-score-variation-and-relationships-with-value-added

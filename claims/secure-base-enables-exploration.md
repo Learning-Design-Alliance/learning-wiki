@@ -51,3 +51,4 @@ Theoretical synthesis of Bowlby's attachment account: the internalized attachmen
 - [The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration](bowlby-separation-sequence-to-exploration.md) — a narrower finding that bears on this claim
 - [The better the five foundations are integrated, the greater the probability of success in the designed setting](foundation-integration-predicts-environment-success.md) — a broader claim this one bears on
 - [Deaf children's attachment and self-concept improve with better communication skills and deaf parents](deaf-children-communication-skills-self-concept.md) — related
+- [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related

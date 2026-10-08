@@ -46,3 +46,4 @@ Descriptive comparison from the district-wide CPS study (Figure 2 footnote). The
 - [District-wide pre-k attendance rates increased modestly (1.5 percentage points) as full-day enrollment expanded, with Black students gaining 3 percentage points](district-prek-attendance-increased-with-fullday-expansion.md) — related
 - [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion](nlci-fullday-conversion-attendance-gains.md) — related
 - [Students in full-day pre-k programs had significantly higher attendance rates than students in half-day programs across all study years](full-day-prek-higher-attendance-than-half-day.md) — related
+- [Latinx, Black, and Asian students participated at higher rates than White peers; household size explained Latinx, Black, and Asian differences](race-ethnicity-participation-differences-chicago-connected.md) — related

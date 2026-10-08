@@ -47,3 +47,4 @@ Cohort comparison of Collins Academy High School students with students of simil
 - [Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools](nlci-freshman-ontrack-not-consistently-higher.md) — reports the opposite
 - [High student mobility limited the vertical-integration strategy: only about one-third of the 2014-15 NLCI pre-k cohort remained at NLCI schools by second grade](nlci-student-mobility-limits-vertical-integration-gains.md) — related
 - [Test scores in grades 2-8 at NLCI schools improved at rates similar to the district, so gains cannot be attributed to the initiative](nlci-test-scores-improved-similar-to-district.md) — related
+- [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related

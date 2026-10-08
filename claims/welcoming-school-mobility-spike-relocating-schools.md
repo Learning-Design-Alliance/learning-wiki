@@ -44,3 +44,4 @@ Administrative-data analysis of transfer rates for 13,218 welcoming-school stude
 
 ## Related Claims
 - [School closures had no effect on absences or suspension rates for affected students](closures-no-effect-absences-suspensions.md) — related
+- [Proximity and relocation into the closed school building strongly predicted enrollment in designated welcoming schools](chicago-closings-proximity-relocation-predict-welcoming-enrollment.md) — related

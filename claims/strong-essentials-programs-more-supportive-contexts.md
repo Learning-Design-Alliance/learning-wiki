@@ -49,3 +49,4 @@ Qualitative component of the 2017 validation study: researchers blind to survey 
 - [Parents offer a unique perspective best captured by a distinct sixth essential, Parent Voice](parent-voice-distinct-sixth-essential.md) — related
 - [Some, but not all, measured organizational conditions are associated in expected directions with site-level ECE quality metrics](some-essentials-associated-with-site-quality-metrics.md) — related
 - [Programs with strong essential supports are more likely to have higher teacher-child interactions and better child attendance than programs with very weak supports](strong-essentials-linked-class-and-attendance.md) — a narrower finding that bears on this claim
+- [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related

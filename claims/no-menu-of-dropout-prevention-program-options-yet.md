@@ -45,3 +45,4 @@ Theoretical argument from a book chapter drawing on recent federal evaluations o
 
 ## Related Claims
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
+- [Drawing promising practices from program evaluations and extant character-development studies is challenging](challenge-identifying-practices-from-evaluations.md) — related

@@ -49,6 +49,9 @@ The Early Education Essentials are surveys "created in partnership with Start Ea
 ## Related Elements
 
 - [5Essentials Survey Supportive Environment measures](5essentials-supportive-environment-measures.md)
+- [5Essentials survey-based diagnostic tools](5essentials-survey-diagnostic-tools.md)
+- [5Essentials Survey system measuring school organizational conditions](5essentials-survey-system-illinois.md)
+- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](five-essentials-early-education-surveys.md)
 
 ## Examples
 -

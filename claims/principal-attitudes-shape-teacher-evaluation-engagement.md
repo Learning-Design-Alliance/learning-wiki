@@ -46,3 +46,4 @@ Interview study across 7 CPS schools found that "Principals' attitudes toward an
 - [Trusting teacher-evaluator relationships lessened evaluation anxiety and encouraged teachers to welcome and use REACH feedback](trusting-teacher-evaluator-relationships-reduce-anxiety.md) — related
 - [Most principals in EPIC sites have positive attitudes toward EPIC and merit pay in general](epic-principals-positive-attitudes-merit-pay.md) — related
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — related
+- [Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching](reach-observation-process-reflection-and-feedback-use.md) — related

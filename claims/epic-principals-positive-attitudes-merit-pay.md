@@ -47,3 +47,4 @@ Baseline survey of principals and vice principals in the Memphis and Washington,
 - [Principals exhibit an incomplete understanding of how achievement growth is captured in EPIC performance measures](principals-incomplete-understanding-growth-measures.md) — related
 - [The EPIC project applied a set of methods to identify effective schools and teachers across a multi-state charter school consortium in its second year.](epic-year2-methods-identify-effective-schools-teachers.md) — related
 - [Principals' attitudes toward and framing of the REACH evaluation system shaped teachers' engagement with the evaluation process](principal-attitudes-shape-teacher-evaluation-engagement.md) — related
+- [The merit award program's incentives increased student achievement in Chicago schools](merit-award-incentives-increased-achievement.md) — related

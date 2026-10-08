@@ -45,3 +45,4 @@ Descriptive trend reporting in the snapshot's milestone list; unlike graduation 
 ## Related Claims
 - [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — possibly the same claim (merge candidate)
 - [Nearly half (47 percent) of CPS graduates enrolled directly in a four-year college in 2016, with total direct enrollment up by roughly 5,500 students over a decade](cps-four-year-enrollment-47-percent-2016.md) — related
+- [CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate](cps-four-year-college-graduation-flat.md) — related

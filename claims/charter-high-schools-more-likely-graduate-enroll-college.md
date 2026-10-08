@@ -54,3 +54,4 @@ The study analyzes Florida data on students attending charter high schools, conf
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — a broader claim this one bears on
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — related
 - [High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender](civic-engagement-higher-graduation-all-students.md) — related
+- [After two years, fewer graduates attended career academies and neighborhood high schools and more attended charter schools; these shifts were no different from comparison schools](success-project-high-school-enrollment-shifts.md) — related

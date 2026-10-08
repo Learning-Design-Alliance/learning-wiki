@@ -47,3 +47,4 @@ Qualitative multiple-case study of ten traditional-aged juniors in a teacher pre
 - [Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers](guided-reflection-increases-reflective-judgment-sophistication.md) — related
 - [Learning to deal with uncertainty and ill-defined dilemmas is often not a priority in preservice teacher education programs](uncertainty-preparation-neglected-in-teacher-education.md) — related
 - [Traditional-aged college students average around stage 3.8 on the Reflective Judgment Interview, near the Pre-Reflective to Quasi-Reflective transition](college-students-average-reflective-judgment-3-8.md) — related
+- [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related

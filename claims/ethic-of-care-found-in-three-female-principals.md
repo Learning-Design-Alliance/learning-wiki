@@ -50,3 +50,4 @@ Inductive qualitative case study of three female principals at elementary, junio
 - [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
 - [The study's goal was to identify specific strategies successful principals used to influence instruction and learning](goal-identify-principal-strategies-instruction.md) — related
+- [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related

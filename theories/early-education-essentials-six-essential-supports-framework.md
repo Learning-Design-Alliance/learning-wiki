@@ -49,10 +49,13 @@ The Early Education Essentials is a measurement and organizing framework adaptin
 
 - [Six organizational conditions of early childhood education programs as higher-level essentials constructs](six-organizational-conditions-ece-essentials.md)
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
+- [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
+- [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
 
 ## Examples
 
 - [Early Education Essentials surveys (now The Essential 0-5 Survey)](../elements/early-education-essentials-surveys.md)
+- [Five Essentials—Early Education surveys: teacher and parent surveys measuring five organizational constructs in pre-k settings](../elements/five-essentials-early-education-surveys.md)
 
 ## Key Sources
 - Pacchiano, D.M., Wagner, M.R., & Lewandowski, H., with Ehrlich, S.B. & Stein, A.G. (2018). Early Education Essentials: Illustrations of Strong Organizational Practices in Programs Poised for Improvement. Chicago, IL: The Ounce of Prevention Fund and the University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/early-education-essentials-illustrations-strong-organizational-practices-programs

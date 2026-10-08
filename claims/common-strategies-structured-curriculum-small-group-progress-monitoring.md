@@ -45,3 +45,4 @@ Descriptive coding analysis of the 18 reviewed interventions reports that "8 of 
 ## Related Claims
 - [Of 18 reviewed Tier 2 literacy interventions, three had at most promising evidence and 12 had uncertain evidence of effects](most-tier2-interventions-uncertain-or-promising-evidence.md) — related
 - [Among language-only interventions, instructional practices and one-on-one or small-group delivery produced significantly larger language gains than curricula and large-group or whole-class delivery](small-group-language-instruction-larger-effects.md) — related
+- [Ivy Elementary staff jointly monitor progress toward goals in team meetings and organize tiered supports for students](ivy-progress-monitoring-tiered-supports.md) — related

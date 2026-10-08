@@ -46,3 +46,4 @@ Observational comparison of associations between student background characterist
 - [DC public high schools show wide variation in promotion power for college-ready SAT scores, graduation, and college enrollment](wide-variation-dc-high-school-promotion-power.md) — related
 - [Schools with high promotion power for high school graduation tended also to have high promotion power for college enrollment](graduation-promotion-power-relates-college-enrollment.md) — related
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](vam-omitting-background-lowers-disadvantaged-district-ratings.md) — related
+- [There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled](cps-charter-variation-among-schools.md) — related

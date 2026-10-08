@@ -49,3 +49,4 @@ Philosophical argument in the article's framing section: the author states that 
 - [Dewey holds that virtues cannot be given fixed meanings because they express interests in changing objects and institutions, so virtues should be taught in relation to specific situations](dewey-virtues-not-fixed-meaning.md) — related
 - [The relational taxonomy is argued to support values and moral education because fostering ego strength addresses the gap between moral reasoning and moral behavior](relational-taxonomy-supports-moral-education.md) — related
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](dewey-morality-in-everyday-problems.md) — related
+- [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related

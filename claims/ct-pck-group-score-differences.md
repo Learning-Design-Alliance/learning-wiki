@@ -49,3 +49,4 @@ One-way ANOVA and descriptive comparison of survey scores across teacher charact
 - [GED takers had higher grade 8 test scores and were more likely White and less likely lunch-eligible than HiSET and TASC takers](nj-ged-takers-stronger-grade8-background.md) — related
 - [HSE exam takers completed fewer years of school and were more likely to be lunch-eligible and to identify as Black or Hispanic than non-exam takers](nj-hse-takers-differ-from-nontakers.md) — related
 - [Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance](ct-pck-score-range-distribution.md) — related
+- [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — related

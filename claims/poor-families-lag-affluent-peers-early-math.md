@@ -46,3 +46,4 @@ The report's framing section states, as background motivation for the evaluation
 - [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related
 - [Children from economically disadvantaged families are at greater risk for poor kindergarten transitions than their peers](economically-disadvantaged-greater-kindergarten-transition-risk.md) — related
+- [Children from low-income families enter kindergarten one full standard deviation (15 standard score points) behind higher-income peers in literacy and mathematics (ECLS-K, attributed to Zill & West, 2001)](ecls-kindergarten-literacy-math-gap-one-sd.md) — related

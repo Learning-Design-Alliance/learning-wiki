@@ -46,3 +46,4 @@ Qualitative interviews with 44 teachers across 7 CPS schools found that "Positiv
 - [Principals' attitudes toward and framing of the REACH evaluation system shaped teachers' engagement with the evaluation process](principal-attitudes-shape-teacher-evaluation-engagement.md) — related
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
 - [Facilitators reported that co-regulation strategies strengthened their facilitation and made their interactions with youth more intentional](co-regulation-strategies-strengthen-facilitation-intentionality.md) — related
+- [Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching](reach-observation-process-reflection-and-feedback-use.md) — related

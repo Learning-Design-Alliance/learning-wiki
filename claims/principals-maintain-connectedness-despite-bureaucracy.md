@@ -67,3 +67,4 @@ Interview finding: the principals maintained contacts with colleagues and profes
 - [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
 - [Female principals enacted care through a 'listening then deciding' pattern of situational decision making](listening-then-deciding-situational-decision-making.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
+- [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related

@@ -48,3 +48,5 @@ Multilevel modeling of survey data from 81 ECE sites produced site-level essenti
 - [Parents offer a unique perspective best captured by a distinct sixth essential, Parent Voice](parent-voice-distinct-sixth-essential.md) — related
 - [Some, but not all, measured organizational conditions are associated in expected directions with site-level ECE quality metrics](some-essentials-associated-with-site-quality-metrics.md) — related
 - [Programs with strong essential supports are more likely to have higher teacher-child interactions and better child attendance than programs with very weak supports](strong-essentials-linked-class-and-attendance.md) — related
+- [Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis](early-ed-essentials-site-score-grouping-efa.md) — related
+- [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related

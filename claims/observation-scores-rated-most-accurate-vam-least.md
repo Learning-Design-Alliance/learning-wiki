@@ -51,3 +51,5 @@ Survey of approximately 12,000 CPS teachers comparing perceived accuracy of REAC
 - [Classroom composition significantly affects teacher performance ratings: a one SD increase in classroom quality raises observation scores by 0.07 SD and student survey ratings by 0.13 SD](classroom-composition-affects-teacher-ratings.md) — related
 - [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](fft-vam-correlations-positive-019-022.md) — related
 - [The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy](two-analysis-approach-principal-measure-accuracy.md) — related
+- [Teachers view classroom observations as a fair way to evaluate their performance but largely reject student growth measures as unfair](reach-teachers-fair-observations-unfair-student-growth.md) — related
+- [Most teachers believe their REACH evaluation relies too heavily on student growth and question the fairness of the growth assessments](reach-teachers-question-student-growth-weight-fairness.md) — related

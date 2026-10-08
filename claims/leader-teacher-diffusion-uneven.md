@@ -70,3 +70,4 @@ CPRE's account of the Leader Teacher diffusion strategy: success depended on sel
 - [An intensive principal professional development program did not change principals' practices in the ways intended by the program](principal-pd-instructional-leadership-no-practice-change.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices](leader-training-residency-facilitated-practice-sharing-but-implementation-lagged.md) — related
+- [A two-year professional learning community helped eight REL Midwest researchers identify collaborative-research challenges and apply solutions in their alliance work](rel-midwest-plc-collaborative-research-lessons.md) — related

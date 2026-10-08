@@ -47,3 +47,5 @@ Finding from the 2017 validation study, in which a new ECE parent survey was cre
 - [Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families](family-voices-inform-all-essentials.md) — related
 - [The Early Education Essentials is reliable across multiple ECE settings](early-education-essentials-reliable-multiple-settings.md) — a broader claim this one bears on
 - [Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs](strong-essentials-programs-more-supportive-contexts.md) — related
+- [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related
+- [The final spring 2015 parent-survey pilot collected 253 parent responses across seven school-based and nine center-based Chicago preschool sites, in English and Spanish](parent-survey-pilot-253-responses.md) — related

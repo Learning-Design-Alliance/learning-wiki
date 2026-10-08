@@ -59,9 +59,11 @@ RP improves climate and can reduce exclusionary discipline, but effects on acade
 6. **Monitor data** on referrals, suspensions, attendance, and climate surveys; adjust tier intensity based on evidence rather than ideology.
 
 ## Related Strategies
+
 - [Check-ins](../elements/check-in.md) — the daily proactive ritual that makes relational repair possible when conflict arises
 - [Active listening](../strategies/active-listening.md) — the core facilitation skill for circles and conferences
 - [Acceptance, responsibility, and sharing](acceptance-responsibility-and-sharing.md) — the accountability stance restorative conferences ask of students
+- [Provide schools, administrators, and teachers with supports and resources when curbing suspension use](support-schools-when-curbing-suspensions.md)
 
 ## Examples
 - **Oakland Unified School District (CA)** — whole-school RP adoption since 2010 with a dedicated Office of Restorative Justice; associated with reduced suspensions for African American students in district reports ([ousd.org/restorative-justice](https://www.ousd.org/restorative-justice)).

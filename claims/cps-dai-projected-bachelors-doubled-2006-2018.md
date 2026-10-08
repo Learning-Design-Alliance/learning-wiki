@@ -47,3 +47,5 @@ Descriptive district-data analysis by the UChicago Consortium and To&Through Pro
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
 - [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
 - [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
+- [CPS's Bachelor's Degree Attainment Index rose 7 percentage points, from 11 percent for 2006 ninth-graders to 18 percent for 2016 ninth-graders](cps-bachelors-dai-rose-7-points.md) — related
+- [The estimated percentage of CPS ninth-graders taking a direct path to a bachelor's degree nearly doubled between 2006 and 2016, from 9 percent to 16 percent](cps-direct-bachelors-dai-rose-2006-2016.md) — related

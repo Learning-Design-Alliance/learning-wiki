@@ -66,3 +66,4 @@ The report states that after these comparisons "the difference after these compa
 - [Differential course placement gave young men and women different grading category weights, with young women more often in honors and geometry](differential-course-placement-created-different-category-weights.md) — related
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — related
 - [Student self-reports of effort, social well-being, and math instruction do not explain the gender grade difference](survey-self-reports-do-not-explain-gender-grade-gap.md) — related
+- [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related

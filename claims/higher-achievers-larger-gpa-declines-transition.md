@@ -66,3 +66,4 @@ Descriptive analysis of 2016-17 cohort members with both NWEA scores and grades 
 - [CPS students' core GPAs continue to decline between eighth and ninth grade despite steady improvement in both eighth- and ninth-grade grades](core-gpa-declines-eighth-to-ninth-grade-cps.md) — related
 - [Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition](school-variation-gpa-declines.md) — related
 - [GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade](non-core-gpa-declines-exceed-core.md) — related
+- [Ninth-grade GPA predicts beginning-of-tenth-grade PLAN scores even after controlling for eighth-grade test scores, suggesting grades reflect new learning](ninth-grade-gpa-predicts-plan-scores.md) — related

@@ -44,3 +44,5 @@ Administrative ratings data across REACH implementation years. The release repor
 
 ## Related Claims
 - [Lower REACH ratings predicted teacher exit: more than half of unsatisfactory-rated teachers left CPS and low-VAM teachers moved out of tested grades/subjects](low-ratings-linked-teacher-exit-and-reassignment.md) — related
+- [Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system](reach-fewer-teachers-top-rating-categories-than-checklist.md) — reports the opposite
+- [Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)](reach-fewer-top-two-ratings-than-checklist.md) — related

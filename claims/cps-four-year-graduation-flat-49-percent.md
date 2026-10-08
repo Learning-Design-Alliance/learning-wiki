@@ -51,3 +51,5 @@ Descriptive trend analysis shown in Figure 6 for high school graduating classes 
 - [Small year-to-year increases in CPS milestones have accumulated so that approximately 6,400 more students enroll directly in college today than 12 years ago](cps-6400-more-direct-college-enrollees.md) — related
 - [Two-thirds of CPS graduates immediately enrolled in a two- or four-year college in 2017, up from 50 percent in 2006](cps-immediate-college-enrollment-two-thirds-2017.md) — related
 - [Only 12.9 percent of students without prior college experience graduated within five years, putting them at risk of credit expiration](no-prior-experience-low-five-year-graduation.md) — related
+- [Charter high school students had comparable high school graduation but much higher four-year college enrollment, selective-college enrollment, and four-semester college completion than comparable non-charter students](cps-charter-better-college-outcomes.md) — related
+- [CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate](cps-four-year-college-graduation-flat.md) — related

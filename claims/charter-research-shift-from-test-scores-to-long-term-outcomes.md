@@ -50,3 +50,4 @@ The article's framing of the literature states that "various studies have examin
 - [The study examines charter high school effects on educational attainment in two settings, Florida and Chicago](charter-attainment-study-florida-chicago-scope.md) — related
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related
 - [Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts](sed-behavior-impacts-exceed-test-score-impacts-long-run.md) — related
+- [After two years, fewer graduates attended career academies and neighborhood high schools and more attended charter schools; these shifts were no different from comparison schools](success-project-high-school-enrollment-shifts.md) — related

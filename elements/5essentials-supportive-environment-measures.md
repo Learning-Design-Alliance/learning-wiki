@@ -45,6 +45,7 @@ The Supportive Environment essential of the 5Essentials Survey is defined based 
 
 - [5Essentials Survey measures of socioemotional development and school climate](5essentials-survey-sed-climate-measures.md)
 - [Early Education Essentials surveys (now The Essential 0-5 Survey)](early-education-essentials-surveys.md)
+- [5Essentials school survey as a measure of school relational trust and climate](5essentials-survey-relational-trust-measure.md)
 
 ## Examples
 

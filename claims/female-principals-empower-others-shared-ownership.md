@@ -71,3 +71,7 @@ Responses to the hypothetical merit-pay dilemma revealed differing enactments of
 - [School climate and parent participation in school were the most frequently measured non-student outcomes, while teacher-level outcomes were rarely assessed](character-ed-school-climate-most-measured-nonstudent.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — a broader claim this one bears on
 - [The study's goal was to identify specific strategies successful principals used to influence instruction and learning](goal-identify-principal-strategies-instruction.md) — related
+- [Foxglove Elementary distributes leadership across staff roles but has few mechanisms to coordinate the work](foxglove-decentralized-leadership-weak-coordination.md) — related
+- [School improvement is related to staff interactions, staff relationships with families, and ties to the broader school community](improvement-related-to-staff-family-community-relationships.md) — a broader claim this one bears on
+- [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related
+- [At Ivy Elementary, teachers lead grade-level goal setting and participate in school-level decisions, with the principal empowering staff](ivy-teacher-led-goals-collective-decisions.md) — a narrower finding that bears on this claim

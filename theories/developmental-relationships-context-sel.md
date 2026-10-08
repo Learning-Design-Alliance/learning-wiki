@@ -44,6 +44,8 @@ A second organizing concept holds that experiences influence development most wh
 - [Ten developmental experiences framework: five action and five reflection experiences underpin social-emotional development](ten-developmental-experiences-arts-framework.md)
 - [Sociocultural Theory](sociocultural-theory.md)
 - [Adolescent Peer Group Structure](adolescent-peer-group-structure.md)
+- [Foundations for Young Adult Success developmental framework](foundations-young-adult-success-framework.md)
+- [Teaching and learning as social enterprises embedded within school and community contexts](teaching-as-social-enterprise-embedded-in-context.md)
 
 ## Examples
 

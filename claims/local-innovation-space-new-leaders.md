@@ -46,3 +46,4 @@ The book's overview reports this as part of its historical account of the transf
 - [In a contrasting case study of Chicago schools with teacher-reported strong principal instructional leadership, half showed continuously growing test scores while half did not](strong-leadership-schools-split-test-score-growth.md) — related
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
+- [Inclusive school leadership plays a critical role in building teachers' capacity for school improvement](inclusive-leadership-builds-teacher-capacity.md) — related

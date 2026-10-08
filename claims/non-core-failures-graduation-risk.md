@@ -67,3 +67,5 @@ Observational analysis of 2011-14 cohorts (Table 1). The report notes more than 
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](freshman-attendance-predicts-graduation-independent-of-gpa.md) — related
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related
 - [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](on-track-ninth-graders-3-5-times-more-likely-to-graduate.md) — related
+- [Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate](algebra-failers-failed-multiple-courses-off-track.md) — related
+- [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related

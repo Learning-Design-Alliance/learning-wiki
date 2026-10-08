@@ -48,3 +48,4 @@ The source is a poster/infographic product page stating the importance of "atten
 - [Attendance in pre-kindergarten and kindergarten is important for young learners](prek-kindergarten-attendance-importance.md) — possibly the same claim (merge candidate)
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
 - [The article asserts that the Go-Learn-Grow materials can help districts, schools, and early childhood providers improve pre-K and kindergarten attendance](go-learn-grow-materials-support-attendance-improvement.md) — related
+- [Schools widely employ incentives to improve attendance across all grade levels](incentives-pervasive-prek-to-grade-12.md) — related

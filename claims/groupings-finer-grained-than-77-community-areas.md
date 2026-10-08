@@ -45,3 +45,4 @@ The brief's comparative statement about analytic granularity: the groupings "all
 ## Related Claims
 - [Within the same neighborhoods and schools, boys and Black students are more likely to be overage for grade, a proxy for prior retention](boys-black-students-more-likely-overage.md) — related
 - [A neighborhood-centered analysis of Chicago census data yields a parsimonious set of five neighborhood groupings](neighborhood-centered-analysis-five-chicago-groupings.md) — related
+- [Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level](hardship-index-explains-community-variation-chicago-connected.md) — related

@@ -48,3 +48,5 @@ Analysis of 2014-15 freshmen by graduation status (Figure 9) shows the three war
 - [Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores](sophomore-ontrack-predictive-but-limited.md) — related
 - [Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures](non-core-failures-graduation-risk.md) — related
 - [Student performance declines from freshman to sophomore year, with course failures rising in every subject and attendance declining sharply](performance-declines-freshman-to-sophomore.md) — related
+- [Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate](algebra-failers-failed-multiple-courses-off-track.md) — related
+- [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related

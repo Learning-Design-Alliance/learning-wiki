@@ -70,3 +70,4 @@ The regression analyses found "significantly or marginally significantly" higher
 - [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — related
 - [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](ffl-pilot-psychometric-analysis.md) — related
 - [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](more-evidence-needed-ffl-validity.md) — reports the opposite
+- [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](supports-matter-in-combined-clusters.md) — related

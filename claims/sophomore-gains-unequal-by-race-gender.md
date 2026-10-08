@@ -51,3 +51,6 @@ Disaggregated cohort analysis (Figure 16) shows sophomore gains "have not been e
 - [Student performance declines from freshman to sophomore year, with course failures rising in every subject and attendance declining sharply](performance-declines-freshman-to-sophomore.md) — related
 - [Projected bachelor's degree attainment is far lower for Black and Latino young men (10 and 14 percent) than the CPS district average of 20 percent](cps-attainment-gaps-black-latino-young-men.md) — related
 - [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
+- [The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes](dropout-decline-drove-diploma-gains.md) — related
+- [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
+- [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related
