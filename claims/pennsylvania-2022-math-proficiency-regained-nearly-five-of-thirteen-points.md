@@ -45,3 +45,5 @@ Key findings of the same Mathematica research brief; math recovery was smaller i
 ## Related Claims
 - [By spring 2022, Pennsylvania grades 5–8 English language arts proficiency had regained 6 points of a 10-point pandemic-era drop relative to rates predicted for 2021](pennsylvania-2022-ela-proficiency-regained-six-of-ten-points.md) — related
 - [Pennsylvania 2022 proficiency rates remained below pre-pandemic levels despite evidence that student learning had begun to recover](pennsylvania-2022-proficiency-still-below-pre-pandemic.md) — related
+- [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
+- [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — related

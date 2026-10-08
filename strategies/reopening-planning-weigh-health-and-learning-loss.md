@@ -40,6 +40,8 @@ This strategy captures the publication's framing of how districts should approac
 
 - [Attend to a set of interrelated engagement-support factors when designing remote and hybrid instruction](design-remote-instruction-around-engagement-factors.md)
 - [State education agencies can commission regional educational laboratory analytic support to develop COVID-19 mitigation guidance for school reopening](state-agencies-commission-rel-analytic-support-reopening-guidance.md)
+- [Educational leaders should weigh the demographic shift in tested students and other contextual data when planning student growth and recovery support](consider-demographic-shift-and-contextual-data-in-recovery-planning.md)
+- [Multi-pronged policy strategy for COVID-19 learning recovery for BIPOC students](covid-recovery-policy-strategy-bipoc-students.md)
 
 ## Examples
 -

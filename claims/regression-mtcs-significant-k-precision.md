@@ -64,3 +64,4 @@ Same regression models as the primary analysis; the authors interpret the adjust
 - [Least Squares procedures consistently outperform the MTCS method for estimating MIRT translation parameters m1 and m2](least-squares-beats-mtcs-translation-estimates.md) — related
 - [The developed MIRT equating methods behave as unbiased, effective, and consistent estimators of transformation parameters](mirt-equating-methods-unbiased-effective-consistent.md) — related
 - [The Ratio of Trace method consistently yields the most precise estimates of the MIRT dilation parameter k across all simulated equating situations](ratio-of-trace-best-dilation-estimate-mirt-equating.md) — related
+- [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related

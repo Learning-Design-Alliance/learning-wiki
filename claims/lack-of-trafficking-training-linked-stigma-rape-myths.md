@@ -67,3 +67,4 @@ Item-level correlations between training and six APPS/ATTS items, with r values 
 - [Counselors exposed to 'sex trafficking' labels reported more victimization-oriented attitudes than counselors exposed to 'prostitute' labels](trafficking-labels-shift-counselor-attitudes-toward-victimization.md) — related
 - [Male counselors reported more rape myth acceptance and lower empathy than female counselors](male-counselors-more-rape-myths-less-empathy.md) — related
 - [Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group](label-condition-moderates-empathy-predictors.md) — related
+- [Previous dyslexia training and confidence predict teachers' dyslexia knowledge, but years of experience do not](training-confidence-predict-dyslexia-knowledge-not-experience.md) — related

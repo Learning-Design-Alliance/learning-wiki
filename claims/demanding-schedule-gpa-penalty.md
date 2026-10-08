@@ -46,3 +46,4 @@ The authors combine coefficients from Tables 2b and 2c into schedule-level illus
 - [Grades are lower in classes with higher-achieving peers, consistent with teachers adjusting expectations rather than grading on a curve](class-peer-achievement-lowers-grades.md) — related
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
+- [Students flagged as honors courses demonstrated greater than expected science growth](honors-courses-greater-science-growth.md) — related

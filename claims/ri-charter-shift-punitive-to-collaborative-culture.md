@@ -47,3 +47,4 @@ In the same qualitative interview study of 14 Rhode Island key officials, partic
 - [Key officials report that Rhode Island's new charter performance framework reduced political interference through standardized, transparent data and consistent processes](ri-charter-framework-reduced-political-interference.md) — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related
+- [Educators need a shift in adult mindsets—from evaluative/accountability data use toward improvement-oriented use—for student experience data to improve practice](adult-mindset-shift-student-experience-data.md) — related

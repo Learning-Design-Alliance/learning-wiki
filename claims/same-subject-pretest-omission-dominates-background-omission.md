@@ -47,3 +47,4 @@ Analysis of statewide Oklahoma data comparing value-added model specifications w
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — a broader claim this one bears on
 - [Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness](proxy-pretest-estimates-biased-but-informative.md) — related
 - [Oklahoma's 2013-2014 teacher value-added estimates combined test scores with other information about teachers and students](oklahoma-value-added-uses-test-scores-and-other-information.md) — related
+- [Rapid guessing did not appear to substantively affect teacher value-added estimates under the value-added specifications used](rapid-guessing-no-substantive-effect-value-added.md) — related

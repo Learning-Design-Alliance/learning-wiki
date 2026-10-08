@@ -45,6 +45,7 @@ The review presents two dueling hypotheses about English Language Learners' read
 - [The threshold hypothesis: two levels of bilingual competence mediate cognitive and academic effects of bilingualism](threshold-hypothesis-bilingual-competence.md)
 - [Krashen's Monitor Model: five hypotheses distinguishing subconscious acquisition from conscious language learning](krashen-monitor-model-five-hypotheses.md)
 - [Simple View of Reading: reading comprehension as the product of decoding and linguistic comprehension](simple-view-of-reading-gough-tunmer.md)
+- [Simple View of Reading as the organizing framework for Spanish MAP Reading Fluency](simple-view-of-reading-spanish-map-reading-fluency-design.md)
 
 ## Examples
 

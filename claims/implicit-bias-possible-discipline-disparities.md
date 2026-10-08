@@ -45,3 +45,5 @@ This is the authors' interpretation of the disparity findings, not a tested resu
 ## Related Claims
 - [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](same-infractions-black-disabilities-more-suspensions.md) — related
 - [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](maryland-black-disabilities-twice-discipline-rates.md) — related
+- [Within fight pairs, Black and poor students are punished more harshly than the opponents they fight](fight-pairs-black-poor-punished-more-harshly.md) — related
+- [Prior studies of discipline disparities were limited by a selection challenge that prevented identifying discrimination](selection-challenge-limited-prior-discipline-studies.md) — related

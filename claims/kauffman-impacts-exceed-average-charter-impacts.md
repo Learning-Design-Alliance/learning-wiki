@@ -67,3 +67,4 @@ Benchmarking statement in the report's Key Findings comparing the Kauffman evalu
 - [The Kauffman School evaluation examined attendance and discipline outcomes in addition to achievement during the school's first two years](kauffman-school-evaluation-covered-attendance-and-discipline.md) — related
 - [KIPP's Five Pillars strongly influenced the charter school community and traditional public schools](kipp-five-pillars-influenced-charter-sector.md) — related
 - [Charter schools, on average, show test-score impacts that are not substantially better or worse than conventional public schools](charter-schools-test-score-impacts-comparable-to-traditional-public-schools.md) — related
+- [Students in single-discipline courses begin the year with higher achievement, roughly three or four points across subjects](single-discipline-students-higher-baseline.md) — related

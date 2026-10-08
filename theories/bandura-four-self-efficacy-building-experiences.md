@@ -45,6 +45,7 @@ The article organizes its synthesis around Bandura's four experiences critical t
 - [Self-Efficacy Theory](self-efficacy-theory.md)
 - [Social Learning Theory](social-learning-theory.md)
 - [Bandura's four sources of self-efficacy as a framework for educator practice with marginalised students](bandura-four-sources-self-efficacy-educator-framework.md)
+- [Four-domain SEL construct framework: growth mindset, self-efficacy, social awareness, and self-management](four-sel-domains-framework-soland-2019.md)
 
 ## Examples
 

@@ -47,3 +47,5 @@ Growth model run by Grade 1 fall placement level (on/above, one below, two below
 - [Overall mathematics growth in Grades 1 and 2 was nonlinear with slight deceleration, with larger weekly growth and deceleration rates in Grade 1 than Grade 2](grade1-2-math-growth-nonlinear-deceleration.md) — related
 - [In Grade 3 only, higher initial fall status was associated with larger within-year growth, suggesting baseline gaps may widen](grade3-initial-status-positive-growth-correlation.md) — related
 - [Initial achievement disparities among Grade 1 placement groups persisted through Grade 3](initial-disparities-persist-through-grade3.md) — related
+- [SWCPM score ranges corresponding to ARM performance levels show monotonic progression across terms within grades, except in first grade](swcpm-arm-range-monotonic-except-grade-1.md) — related
+- [Within-group achievement variation increased across time, so a standardized difference in later grades reflects a larger difference in knowledge](within-group-variation-increases-across-time.md) — related

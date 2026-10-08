@@ -46,3 +46,4 @@ The abstract lists as report content "problems with item misfit in the 2003 data
 - [A special validity analysis was conducted on the Puerto Rico trial assessment data](special-validity-analysis-puerto-rico-naep.md) — related
 - [Preliminary analyses of the 2003 Puerto Rico data led to changes in administration and translation procedures for the 2005 assessment](preliminary-analyses-drove-2005-procedure-changes.md) — related
 - [A trial Spanish-language NAEP mathematics assessment was administered to Puerto Rico public school students in grades 4 and 8 in 2003](trial-spanish-naep-math-puerto-rico-2003.md) — related
+- [The vast majority of Spanish Math (91%) and Reading (98%) items show no misfit across fall, winter, and spring terms](spanish-items-longitudinal-fit-no-misfit.md) — related

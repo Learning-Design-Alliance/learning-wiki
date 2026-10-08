@@ -51,6 +51,7 @@ Item response theory (IRT) is presented as one of two fundamental approaches to 
 - [Many-Facet Rasch Model (MFRM)](mfrm-many-facet-rasch-model-ilhan-2018.md)
 - [Compensatory multidimensional item response theory as a framework for composite score creation](compensatory-mirt-composite-scoring-framework.md)
 - [Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models](graphical-model-framework-mml-irt-estimation.md)
+- [RIT vertical equal-interval scale grounded in item response theory](rit-vertical-equal-interval-scale.md)
 
 ## Examples
 

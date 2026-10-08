@@ -45,3 +45,4 @@ The publication's overview states this as an asserted potential advantage with n
 ## Related Claims
 - [Computerized adaptive testing selects test questions based on test takers' answers to previous questions](cat-selects-questions-based-on-previous-answers.md) — related
 - [CRESST assessment tools show feasibility in evaluation data, but reliability and validity information is limited](cresst-tools-feasible-limited-validity.md) — related
+- [The three test adaptation measures extend the prior work of Reckase, Zu, and Kim (2019)](adaptation-measures-extend-reckase-zu-kim-2019.md) — related

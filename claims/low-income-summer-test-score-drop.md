@@ -50,3 +50,5 @@ The article states, as background motivating the study, that "a growing body of 
 - [Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards](springboard-summer-outperforms-matched-comparison.md) — related
 - [Springboard Summer scholars show positive, statistically significant reading growth from end-of-year to beginning-of-year assessments, averaging about 1.8 months](springboard-summer-significant-reading-gains.md) — related
 - [Reading growth after Springboard Summer varies by starting point relative to grade level, with the largest gains for scholars who started below grade level](springboard-summer-gains-vary-by-starting-level.md) — related
+- [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — a narrower finding that bears on this claim
+- [Summer learning loss findings call into question explanations based on summer program access and school-year length](summer-loss-explanations-questioned.md) — related

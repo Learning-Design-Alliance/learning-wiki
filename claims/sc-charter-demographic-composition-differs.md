@@ -46,3 +46,4 @@ Descriptive comparison of 2016-17 demographics across TPS, feeder schools, and c
 - [Black, Hispanic, and poverty students enrolled in charter schools show stronger growth trends than the same subgroups citywide in several cities](credo-cohort1-charter-subgroup-stronger-growth.md) — related
 - [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related
 - [About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform](sc-charter-school-quality-range-reading-math.md) — related
+- [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md) — related

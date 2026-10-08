@@ -42,6 +42,7 @@ The brief recommends that schools use their 5Essentials survey data to understan
 - [Use a targeted universalist approach to identify student groups with less positive survey reports and respond with empathy, curiosity, and support](targeted-universalist-review-of-5essentials-subgroup-reports.md)
 - [Use diagnostic survey results to craft an evidence-based school narrative and action plan](evidence-based-narrative-and-action-plans-from-diagnostics.md)
 - [Use annual 5Essentials Survey data to identify school-environment strengths and areas to improve for bullying prevention](use-5essentials-data-to-reduce-bullying-fear.md)
+- [Use Cultivate data as a framework for action to identify strengths and improvement areas in learning environments](cultivate-framework-for-action-school-improvement.md)
 
 ## Examples
 -

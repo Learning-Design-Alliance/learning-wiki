@@ -48,3 +48,4 @@ Kindergarten follow-up of the PCER cluster randomized study (fewer than 350 stud
 - [Curiosity Corner shows no discernible effects on preschool print knowledge in the PCER randomized trial](curiosity-corner-no-discernible-print-knowledge-effects.md) — related
 - [In the PCER study, Curiosity Corner showed non-significant positive effects on immediate reading and phonological measures](curiosity-corner-pcer-immediate-null-effects.md) — related
 - [Two cluster randomized experiments with 225 students rate Curiosity Corner as Promising with an average kindergarten follow-up effect of +0.33](curiosity-corner-promising-evidence-rating.md) — related
+- [Convergence between pre-K graduates and nonattenders is largest for more constrained skills such as letter-word identification](convergence-largest-for-more-constrained-skills.md) — related

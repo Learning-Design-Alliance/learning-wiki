@@ -47,3 +47,5 @@ A fact sheet published by Regional Educational Laboratory Mid-Atlantic in July 2
 - [Saga blended tutoring produced large positive impacts on algebra scores in one district and geometry scores in another, but no effects on two other standardized tests](saga-blended-tutoring-test-score-impacts-mixed.md) — a narrower finding that bears on this claim
 - [Implementation analysis identified student engagement as a challenge for technology-driven tutoring programs](saga-implementation-engagement-challenges.md) — related
 - [In-person learning in Pennsylvania LEAs expanded as the 2020–2021 school year progressed](pa-leas-in-person-learning-expanded-2020-21.md) — related
+- [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
+- [The report positions family engagement as an often-underutilized strategy for supporting student academic growth during COVID recovery](family-engagement-underutilized-covid-recovery-strategy.md) — related

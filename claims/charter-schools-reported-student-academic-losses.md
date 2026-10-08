@@ -46,3 +46,4 @@ School-reported perceptions of individual student losses (Figure 9), a descripti
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
 - [Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year](charter-instructional-modes-remote-to-hybrid-shift.md) — related
 - [Between 70 and 80 percent of schools reported decreased learning time in spring 2020, with one in five reporting significant decreases in ELA and math](learning-time-decreases-spring-2020.md) — related
+- [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — a broader claim this one bears on

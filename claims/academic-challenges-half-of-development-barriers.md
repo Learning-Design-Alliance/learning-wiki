@@ -48,3 +48,4 @@ Qualitative theme 2 asked students what obstacles they encountered during growth
 - [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
 - [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related
 - [Treatable and preventable health issues are barriers to students' academic engagement and contribute to over one million US high school students dropping out each year](health-issues-barrier-academic-engagement-dropout.md) — related
+- [DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do](dhh-systemic-barriers-low-expectations.md) — related

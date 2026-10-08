@@ -64,3 +64,4 @@ Figure 1 caption reporting the per-increment association between the composite l
 ## Related Claims
 - [Improvements in learning conditions between October and February predict higher likelihood of a B or better in math the following term](condition-improvement-predicts-grade-improvement.md) — related
 - [Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students](learning-conditions-predict-grades-across-demographics.md) — related
+- [Students' experiences of learning conditions strongly and significantly predict their self-reports of school engagement](learning-conditions-predict-school-engagement.md) — related

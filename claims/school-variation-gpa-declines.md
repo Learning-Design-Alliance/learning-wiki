@@ -48,3 +48,4 @@ Descriptive school-level analysis of GPA change distributions across CPS high sc
 - [Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school](higher-achievers-larger-gpa-declines-transition.md) — related
 - [GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade](non-core-gpa-declines-exceed-core.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
+- [Some high schools mitigated the typical negative effects of proximity to homicide on student outcomes while most schools saw declines](some-schools-mitigate-homicide-effects.md) — related

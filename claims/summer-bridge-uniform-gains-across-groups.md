@@ -46,3 +46,4 @@ Across four years of Summer Bridge achievement analyses, the report found little
 - [Students in higher-achieving schools had larger Summer Bridge gains, so the program did not ameliorate quality differences across schools](summer-bridge-gains-vary-by-school-achievement.md) — reports the opposite
 - [Summer Bridge produced only small sustained effects: slightly larger two-year gains than comparable non-attendees, without changing learning trajectories](summer-bridge-small-sustained-effects.md) — related
 - [Summer Bridge produced short-term test-score gains and allowed more students to meet promotion cutoffs, particularly among sixth and eighth graders](summer-bridge-short-term-test-score-gains.md) — related
+- [Summer learning loss findings call into question explanations based on summer program access and school-year length](summer-loss-explanations-questioned.md) — related

@@ -56,6 +56,7 @@ Really Great Reading offers structured foundational literacy curricula grounded 
 ## Examples
 
 - [Deliver RGR instruction via incremental self-paced online professional development completed before and after instruction begins](../strategies/rgr-incremental-online-pd-strategy.md)
+- [Report a zone of proximal development level with aligned instructional resources for foundational skills](../strategies/zpd-level-instructional-resources-strategy.md)
 
 ## Key Sources
 - Really Great Reading. (2023). Really Great Reading. https://www.reallygreatreading.com

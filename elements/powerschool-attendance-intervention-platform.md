@@ -53,6 +53,7 @@ PowerSchool Attendance Intervention is a school-family engagement tool that help
 
 - [Utilize Text Messaging for Parent Engagement](../strategies/utilize_text_messaging_for_parent_engagement.md)
 - [Communicate Quickly and Easily Through Mobile Apps](../strategies/communicate_quickly_and_easily_through_mobile_apps.md)
+- [Redefine the chronic-absenteeism threshold, monitor attendance bins, and provide targeted academic catch-up supports to prior-year absentees](../strategies/lower-chronic-threshold-and-academic-catch-up-strategy.md)
 
 ## Key Sources
 - PowerSchool Attendance Intervention. (2024). PowerSchool Attendance Intervention program description and evidence summary. https://www.powerschool.com/

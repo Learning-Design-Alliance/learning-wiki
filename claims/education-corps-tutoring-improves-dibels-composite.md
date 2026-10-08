@@ -59,3 +59,4 @@ A randomized study across 9 schools in a single large North Carolina district du
 - [Lectura Proactiva's evidence base comes from randomized studies of Spanish-speaking first graders below the 25th percentile in urban Texas schools](lectura-proactiva-evidence-population-scope.md) — related
 - [The Experience Corps program was found to be a low burden to teachers](ec-program-low-burden-to-teachers.md) — related
 - [Students receiving Experience Corps tutoring and mentorship showed significant improvements in reading and comprehension skills](ec-tutoring-improves-reading-comprehension.md) — related
+- [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on

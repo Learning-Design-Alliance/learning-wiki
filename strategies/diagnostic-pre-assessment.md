@@ -63,6 +63,7 @@ Diagnostic assessment is the empirical foundation for [Activation](../principles
 - [Formative Assessment With Feedback](formative-assessment-with-feedback.md) — the during-instruction counterpart; diagnostics are its pre-instruction phase
 - [Mastery Learning](mastery-learning.md) — diagnostics set the entry criteria and pacing for mastery-based sequences
 - [Analyze the types of errors students make on assessment items, not just correct/incorrect scores](error-type-analysis-informs-teaching.md)
+- [Use test adaptation measures in operational settings to identify adaptation difficulties and suggest processes for improving adaptivity](use-adaptation-measures-operationally-improve-adaptivity.md)
 
 ## Examples
 - **ALEKS** (https://www.aleks.com) — uses adaptive knowledge-space diagnostics to map each learner's precise knowledge state in math and chemistry, then serves only instruction on what is not yet known.

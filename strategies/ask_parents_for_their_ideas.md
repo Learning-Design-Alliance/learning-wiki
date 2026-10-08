@@ -57,8 +57,10 @@ Soliciting parent voice works through the same mechanism as student voice: being
 6. Follow up with parents who raised individual concerns, using [Class Discussion](../elements/class-discussion.md) or conference time to address them.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the same elicitation move applied to students rather than families
 - [Community-Based Learning](../principles/community-based-learning.md) — extends partnership from families to the wider community
+- [Use improved communication strategies to drive family involvement and partnerships with schools](improved-communication-drives-family-involvement-partnerships.md)
 
 ## Related Elements
 - [Check-Ins](../principles/check-ins.md) — lightweight prompts that make solicitation routine rather than episodic

@@ -81,3 +81,5 @@ A systematic review of experimental and quasi-experimental studies of universal 
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [SEL Programs Improve Academic Achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Learning Genie effects on SEL outcomes were mixed, with Social and Emotional Development scores showing the greatest gains](learning-genie-sel-outcomes-mixed.md) — a narrower finding that bears on this claim
+- [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
+- [Research on summer programs addresses their implementation, design, and efficacy for literacy, math, and social-emotional learning outcomes](summer-programs-research-implementation-design-efficacy.md) — related

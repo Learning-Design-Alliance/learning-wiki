@@ -47,3 +47,4 @@ Survey of a representative sample of 200 Pennsylvania LEAs found that "Most stud
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
 - [In-person learning in Pennsylvania LEAs expanded as the 2020–2021 school year progressed](pa-leas-in-person-learning-expanded-2020-21.md) — related
 - [A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically](pandemic-academic-miss-evidence-review-series.md) — related
+- [Students with disabilities may have experienced disproportionate academic impacts from COVID-19, according to NWEA research](swd-disproportionate-covid-academic-impacts.md) — related

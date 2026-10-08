@@ -67,3 +67,5 @@ Null result from the same PLS analysis (n=1,265): the pre-literacy subscale show
 - [Good attendance is more strongly related to academic gains for students who enter preschool with lower incoming skills than for those entering with higher skills](attendance-benefits-strongest-low-incoming-skills.md) — related
 - [Pre-kindergarten absence is widespread in a large urban district, particularly among African American students and those entering with the lowest skills](prek-absence-widespread-african-american-lowest-skills.md) — related
 - [Freshmen who miss more than two weeks of school per semester fail at least two classes on average, regardless of incoming test scores](two-weeks-absence-course-failure.md) — related
+- [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related
+- [Students chronically absent (10%+) in the prior year start the following school year 0.22 to 0.47 SDs lower in mathematics than peers with no prior-year absences](prior-year-chronic-absence-lower-fall-math-achievement.md) — related

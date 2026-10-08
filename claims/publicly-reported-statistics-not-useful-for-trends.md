@@ -70,3 +70,4 @@ Comparison of publicly reported proficiency trends with the report's own student
 - [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
 - [Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior](ninth-grade-gpa-increase-with-achievement-trends.md) — reports the opposite
 - [Profile trends labeled up or down are determined by statistical criteria, so those labels denote statistically significant trends](trend-labels-statistically-significant-criteria.md) — related
+- [Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution](variability-driven-by-bottom-of-distribution.md) — related

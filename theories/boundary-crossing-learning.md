@@ -57,11 +57,13 @@ A related, complementary construct is the **boundary object** (Star & Griesemer,
 - [Knowledge Objects and Knowledge Practices](knowledge-objects-and-knowledge-practices.md) — a related but distinct object-centered lens: knowledge objects foreground how an object is collaboratively built and evolves, while boundary objects foreground how one object serves multiple practices at once
 
 ## Examples
+
 - [Bioart Boundary-Crossing Making](../designs/bioart-boundary-crossing-making.md) — a project design that explicitly crosses institutional (school/lab/art-institution), interpersonal (student/researcher/artist), and intrapersonal (teacher-as-learner) boundaries
 - [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — uses a scientific research paper as a boundary object that functions differently (compelling, concrete, normative, novel) at different points in a semester
 - [Broker-Facilitated Cross-Domain Integration](../strategies/broker-facilitated-cross-domain-integration.md) — a facilitation strategy for enacting the coordination mechanism between institutions that do not already have working relationships
 - [Multilevel Professional Development School Partnership](../designs/multilevel-professional-development-school-partnership.md) — a three-tier meeting structure (policy, broad, and small knowledge communities) for a school-university research partnership
 - [Broker Position Circulation](../strategies/broker-position-circulation.md) — deliberately transferring a bridging role to a successor to counter the broker involvement paradox
+- [Deliberately bridge student experience data work across tools, initiatives, and partner organizations](../strategies/bridge-student-experience-data-across-initiatives.md)
 
 ## Key Sources
 - Liukkonen, P., Vartiainen, H., Pöllänen, S., & Kokko, S. (2023). Interacting with nature in and through boundary crossing learning: A case of bioart-making. *Journal of the Learning Sciences, 32*(4-5), 534-572. [https://doi.org/10.1080/10508406.2023.2263845](https://doi.org/10.1080/10508406.2023.2263845)

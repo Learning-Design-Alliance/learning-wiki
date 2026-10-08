@@ -44,3 +44,4 @@ Longitudinal field research on 12 Annenberg schools over five years (Part Two, '
 
 ## Related Claims
 - [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](essential-supports-mutual-trust-reinforce-each-other.md) — possibly the same claim (merge candidate)
+- [Science and literacy instruction are connected and mutually reinforcing](science-literacy-instruction-connection-partnership.md) — related

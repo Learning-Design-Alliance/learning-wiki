@@ -47,3 +47,4 @@ Short-term cohort trend analysis of first-year course-taking among high school e
 - [On-track rates after ninth grade rose from 42.2 to 50.6 percent, with slightly less than half the adjusted improvement attributable to better-prepared entering students](chicago-on-track-rates-rose-half-beyond-composition.md) — related
 - [Graduation by age 18 rose slightly, and adjusting for incoming student composition cuts the increase roughly in half](chicago-graduation-gains-halved-by-composition-adjustment.md) — related
 - [Algebra/geometry sequence passing rose from 36.5 to 49.7 percent, with changes in incoming students accounting for only 17.8 percent of the improvement](chicago-algebra-geometry-passing-rose-mostly-school-factors.md) — related
+- [Students flagged as honors courses demonstrated greater than expected science growth](honors-courses-greater-science-growth.md) — related

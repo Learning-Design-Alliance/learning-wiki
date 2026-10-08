@@ -45,3 +45,4 @@ Implementation analysis of the 2019-20 scale-up found the average FF student rec
 ## Related Claims
 - [The family engagement component of FF did not fully scale up: only 30.2% of families were contacted at the intended frequency and no site met the fidelity threshold](ff-family-engagement-under-implementation.md) — related
 - [The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions](future-forward-tutoring-scaled-up.md) — possibly the same claim (merge candidate)
+- [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — related

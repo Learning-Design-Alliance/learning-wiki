@@ -45,3 +45,6 @@ Key findings of a Mathematica research brief comparing 2022 statewide assessment
 ## Related Claims
 - [By spring 2022, Pennsylvania grades 5–8 math proficiency had regained nearly 5 points of a 13-point drop relative to rates predicted for 2021](pennsylvania-2022-math-proficiency-regained-nearly-five-of-thirteen-points.md) — related
 - [Pennsylvania 2022 proficiency rates remained below pre-pandemic levels despite evidence that student learning had begun to recover](pennsylvania-2022-proficiency-still-below-pre-pandemic.md) — a broader claim this one bears on
+- [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related
+- [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
+- [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — related

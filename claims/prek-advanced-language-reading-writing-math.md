@@ -50,3 +50,4 @@ The summary reports, citing Gormley, Gayer, Phillips, and Dawson (2005) on unive
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — a broader claim this one bears on
 - [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](prek-small-positive-social-emotional-executive-emotion.md) — related
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — a narrower finding that bears on this claim
+- [Pre-K graduates outperform nonattending peers in achievement and executive functioning at the end of kindergarten](pre-k-graduates-outperform-nonattenders-end-of-kindergarten.md) — possibly the same claim (merge candidate)

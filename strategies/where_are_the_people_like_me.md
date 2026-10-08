@@ -60,8 +60,10 @@ The strategy works by making an invisible curriculum visible: media selections l
 6. Optionally extend into production: learners create or re-imagine media that addresses the gaps they identified ([Act It Out](../elements/act-it-out.md) or media creation).
 
 ## Related Strategies
+
 - [Case Studies](../patterns/case-based-learning.md) — media examples function as short cases; the same observe-analyze-generalize arc applies
 - [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — the strategy depends on learners drawing on lived experience with media as prior knowledge
+- [Ask students to reflect on how they have been exposed to and impacted by society's messages about race, gender, and sexual identity, after the teacher has modeled vulnerability](student-reflection-social-messages-after-teacher-modeling.md)
 
 ## Examples
 - Students audit the ethnic composition of lead characters across a season of a popular streaming series, then discuss what the pattern signals about whose stories are considered central.

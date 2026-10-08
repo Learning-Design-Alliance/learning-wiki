@@ -46,3 +46,4 @@ The WWC's synthesis of the Steele et al. (2017) randomized controlled trial with
 - [BCIRC has potentially positive effects on reading achievement for Spanish-speaking English language learners (effect size 0.61, not statistically significant after clustering correction)](bcirc-potentially-positive-reading-achievement.md) — related
 - [VIP shows potentially positive effects on reading achievement for fifth-grade English language learners (effect size 0.50, not statistically significant)](vip-potentially-positive-reading-achievement.md) — related
 - [The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners](reading-mastery-potentially-positive-effects-ell-reading.md) — related
+- [Dual language participants started 2nd grade with lower achievement than nonparticipants](dual-language-lower-starting-achievement-grade-2.md) — related

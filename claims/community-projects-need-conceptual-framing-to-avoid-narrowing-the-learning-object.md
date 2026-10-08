@@ -53,3 +53,4 @@ This is a single interpretive case study (evidence tier q1) with no comparison c
 - [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](local-indigenous-culture-student-interest.md) — related
 - [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](online-communities-must-be-designed-and-scaffolded.md) — related
 - [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](entrepreneur-course-trial-matches-business-majors.md) — related
+- [The authors argue that analyzing power imbalances, misshapen structures, and hidden assumptions are familiar critical thinking tasks for hesitant readers](power-analysis-as-familiar-critical-thinking.md) — related

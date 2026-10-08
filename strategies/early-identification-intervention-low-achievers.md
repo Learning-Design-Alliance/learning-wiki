@@ -39,6 +39,7 @@ Based on evidence that achievement gaps widened most between first and third gra
 ## Related Strategies
 
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](early-indicators-online-system-process-data.md)
+- [Targeted investments in early literacy and math programs for the youngest students](targeted-investments-early-literacy-math-programs.md)
 
 ## Examples
 -

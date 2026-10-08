@@ -64,6 +64,7 @@ Communication that is specific, frequent, and oriented toward learning tasks pro
 - [Action Planning](action_planning.md) — family communication can deliver and reinforce student action plans
 - [Check-Ins](../principles/check-ins.md) — the student-facing counterpart of regular structured contact
 - [Parents should reinforce on-time attendance, communicate with teachers, and make academics the freshman's top priority](parent-support-freshman-attendance-priority.md)
+- [Use improved communication strategies to drive family involvement and partnerships with schools](improved-communication-drives-family-involvement-partnerships.md)
 
 ## Examples
 - **Parent Teacher Home Visits** (https://www.pthp.org) — trained educators visit families at home to build relational trust before academic problem-solving
