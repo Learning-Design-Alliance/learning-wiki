@@ -48,3 +48,5 @@ Summary of the Middle Years Math project's evaluations of eight tutoring program
 - [Strong student–tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects](strong-student-tutor-relationships-key-to-tutoring-success.md) — related
 - [Saga blended tutoring improved student math grades across districts and tutoring models](saga-tutoring-improves-math-grades.md) — a narrower finding that bears on this claim
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — a narrower finding that bears on this claim
+- [Student math confidence and sense of belonging in tutoring increased modestly during the school year, with site-level variation](blueprint-confidence-belonging-modest-increase.md) — related
+- [Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors](cignition-tutor-relationships-positive-uniform.md) — related

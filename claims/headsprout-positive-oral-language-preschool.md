@@ -48,3 +48,4 @@ Randomized controlled trial (Huffstetter, 2005) reviewed by the WWC: 62 four-yea
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's oral language](waterford-level-one-no-discernible-oral-language-effects.md) — related
 - [Doors to Discovery™ shows potentially positive effects on preschool oral language (PPVT-III effect size 0.27, not statistically significant)](doors-to-discovery-potentially-positive-oral-language.md) — related
 - [Bright Beginnings shows no discernible effects on preschool oral language (domain average effect size 0.15, not statistically significant)](bright-beginnings-null-oral-language.md) — related
+- [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related

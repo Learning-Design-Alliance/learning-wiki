@@ -49,3 +49,6 @@ Description of the evaluation design across the eight programs: the studies asse
 - [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [A portfolio of eight math tutoring programs showed positive and meaningful average effects on student math knowledge, perceptions, and beliefs](middle-years-math-tutoring-portfolio-positive-average-effects.md) — a broader claim this one bears on
+- [Student math confidence and sense of belonging in tutoring increased modestly during the school year, with site-level variation](blueprint-confidence-belonging-modest-increase.md) — a narrower finding that bears on this claim
+- [Students completing the end-of-year survey reported favorable views of their relationships with math tutors and their sense of belonging in tutoring sessions](breakthrough-tutoring-favorable-relationships-belonging.md) — related
+- [Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors](cignition-tutor-relationships-positive-uniform.md) — related

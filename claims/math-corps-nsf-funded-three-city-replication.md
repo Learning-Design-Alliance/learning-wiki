@@ -49,3 +49,4 @@ Descriptive background from the brief: an NSF Advancing Informal STEM Learning g
 - [Teachers used new instructional practices they had learned while delivering the summer programs](summer-programs-teachers-adopted-new-practices.md) — related
 - [Students in three summer math programs showed large improvements in grades the semester after the program](summer-math-programs-large-grade-improvements-next-semester.md) — related
 - [Evidence of changes in growth mindset or math confidence after the summer programs was minimal](summer-math-programs-minimal-mindset-confidence-change.md) — related
+- [Mathematica conducted an implementation study of the early math scale-up effort during 2018 and 2019](mathematica-implementation-study-early-math-scale-up-2018-2019.md) — related

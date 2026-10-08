@@ -51,6 +51,7 @@ Lexia Reading is a computerized reading program that "provides phonics instructi
 - [Headsprout Early Reading: adaptive Internet-based supplemental early literacy curriculum](headsprout-early-reading-curriculum.md)
 - [Lexia Core5 Reading blended literacy program](lexia-core5-reading-program.md)
 - [Lexia Core5 Reading: blended, personalized fundamental literacy instruction for grades pre-K-5](lexia-core5-reading-program-element.md)
+- [Reading interventions for grades 4–9 as defined by the WWC practice guide](grades-4-9-reading-interventions-wwc-scope.md)
 
 ## Examples
 -

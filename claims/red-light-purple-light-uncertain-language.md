@@ -45,3 +45,4 @@ WWC synthesis of the language domain, based on one qualifying study (Schmitt et 
 ## Related Claims
 - [Red Light, Purple Light has potentially positive effects on preschool children's self-regulation, with moderate evidence](red-light-purple-light-potentially-positive-self-regulation.md) — related
 - [Red Light, Purple Light shows uncertain effects on reading and literacy related achievement](red-light-purple-light-uncertain-reading-literacy.md) — possibly the same claim (merge candidate)
+- [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related

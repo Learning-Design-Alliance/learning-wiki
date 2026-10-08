@@ -63,6 +63,7 @@ Free play builds agency and intrinsic motivation by giving learners control over
 - [Learning Through Play](learning-through-play.md) — the broader family of play-based pedagogies
 - [Cooperative Learning](cooperative-learning.md) — structures the social interaction that free play develops informally
 - [Resist policies that reduce time for social pretend play in preschool and primary grades](resist-policies-reducing-social-pretend-play-time.md)
+- [Schedule time for intentional learning and recognize children's backgrounds and experiences in preschool classrooms](schedule-intentional-learning-time-preschool.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — free play provides repeated, self-initiated practice of emerging skills in varied contexts

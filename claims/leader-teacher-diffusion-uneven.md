@@ -66,3 +66,5 @@ CPRE's account of the Leader Teacher diffusion strategy: success depended on sel
 - [Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background](nonparticipant-barriers-professional-development.md) — related
 - [Content familiarity, not teaching experience, predicted reform-based science teaching practice](content-familiarity-predicts-reform-practice-experience-does-not.md) — related
 - [An intensive competency-based mastery workshop can be an effective diffusion strategy for statewide curriculum leaders to develop learning systems](competency-workshop-effective-diffusion-strategy.md) — related
+- [Without clear expectations and support from district leaders, coaches might not devote sufficient time to the full range of coaching activities needed to improve teachers' instruction](coaches-need-district-expectations-full-activities.md) — related
+- [An intensive principal professional development program did not change principals' practices in the ways intended by the program](principal-pd-instructional-leadership-no-practice-change.md) — related

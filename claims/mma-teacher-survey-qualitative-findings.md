@@ -67,3 +67,4 @@ Qualitative component of the randomized Southern California study (Thai et al., 
 - [Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety](extensive-reading-affective-benefits-anxiety-moderator.md) — a broader claim this one bears on
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [Teachers implementing TDHS Strategic Reading reported positive experiences and greater impact on student reading than traditional curricula](tdhs-teacher-survey-positive-perceptions.md) — related
+- [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related

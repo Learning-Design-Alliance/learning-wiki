@@ -67,3 +67,4 @@ For the Get Ready to Read! Screen (19 classrooms/268 children), the study author
 - [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](werp-potentially-positive-alphabetics.md) — related
 - [Waterford Early Reading Level One™ and Let's Begin with the Letter People® produce similar outcomes in oral language and print knowledge](waterford-versus-letter-people-similar-outcomes.md) — related
 - [Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled](foundations-scale-by-supporting-ready-interventions.md) — related
+- [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related

@@ -71,3 +71,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Intervention engagement (narratives consumed) showed no clear association with outcome changes](story-mine-engagement-outcome-null-association.md) — related
 - [Family demographics were largely unrelated to goal setting, with child gender the only associated variable](demographics-unrelated-to-goal-activity.md) — related
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related
+- [Student demographics affect parents' perceptions of school quality](demographics-affect-perceived-school-quality.md) — related

@@ -46,3 +46,4 @@ A multi-site cluster randomized study across high schools in 12 states and the D
 - [In a large multi-site cluster randomized study, BARR improved PSAT/NMSQT math scores in one cohort but the second cohort performed similarly to comparison students](barr-cluster-randomized-psat-math-mixed-cohorts.md) — related
 - [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](barr-multisite-rct-map-math-es-008.md) — related
 - [BARR improves reading achievement across grades 7–12 with an average effect size of +0.08 across three randomized studies](barr-reading-achievement-average-effect-008.md) — a broader claim this one bears on
+- [Group size in grades 4–9 reading interventions typically varies, with smaller groups in grades 4 and 5 than in middle and high school elective reading courses](reading-intervention-group-size-varies-by-grade-band.md) — related

@@ -47,3 +47,4 @@ Two quasi-experimental studies with 10,363 students. The Tuttle et al. (2015, Hi
 - [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — related
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — related
 - [KIPP shows no discernible effects on high school student progression (graduation within 4 years)](kipp-null-student-progression.md) — related
+- [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related

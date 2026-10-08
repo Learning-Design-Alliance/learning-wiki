@@ -65,6 +65,7 @@ Monitoring works because it converts vague intentions into concrete feedback loo
 - [Spaced Scheduling](spaced-scheduling.md) — distributed review points create natural monitoring intervals [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
 - [Use program-generated intervention reports to inform small-group instruction and one-on-one planning](pathblazer-reports-inform-small-group-instruction.md)
 - [Use data dashboards and alerts so teachers monitor progress and intervene when students struggle](dashboard-monitoring-teacher-intervention.md)
+- [Iteratively update a design research plan with findings and resulting design adjustments](update-design-research-plan-with-findings-and-adjustments.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — a lightweight recurring monitoring ritual

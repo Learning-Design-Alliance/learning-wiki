@@ -49,3 +49,4 @@ Randomized controlled trial (Huffstetter, 2005) reviewed by the WWC: 62 four-yea
 - [The Bright Beginnings preschool curriculum shows no discernible effects on preschool children's school readiness across oral language, print knowledge, phonological processing, and math domains](bright-beginnings-no-discernible-effects-preschool.md) — related
 - [Phonological awareness training plus letter knowledge training has positive effects on preschoolers' print knowledge](pat-lk-positive-print-knowledge-preschool.md) — related
 - [Kindergarten follow-up shows statistically significant positive effects of Curiosity Corner on two print knowledge measures, not included in the effectiveness rating](curiosity-corner-kindergarten-followup-print-gains.md) — related
+- [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related
