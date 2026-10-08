@@ -49,3 +49,4 @@ Implementation study of eight early-adopting districts incorporating perspective
 - [Alternative student growth measures brought financial costs and implementation challenges around teacher time, test administration, and rigor](implementation-costs-and-challenges-growth-measures.md) — related
 - [Evidence on reliability and validity of alternative student growth measures, especially student learning objectives, is limited](limited-reliability-validity-evidence-alternative-growth-measures.md) — related
 - [Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems](eight-districts-use-alternative-teacher-effectiveness-measures.md) — possibly the same claim (merge candidate)
+- [Incorporating measures of student growth into teacher evaluation systems remained an ongoing challenge for early adopter districts](student-growth-measures-ongoing-challenge.md) — related

@@ -41,6 +41,7 @@ Individualized survey reports are customized data products that bring CCSR resea
 - [CCSR longitudinal data archive on Chicago Public Schools](ccsr-cps-longitudinal-data-archive.md)
 - [Progress Tracking](progress-tracking.md)
 - [CCSR steering committee as multi-partisan stakeholder advisory structure](ccsr-steering-committee-stakeholder-structure.md)
+- [2007 CPS AVID student and teacher survey with individualized school reports](avid-cps-2007-student-survey-report.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Scope statement for the 2013 School Crime Supplement analysis: the report "provi
 - [Victims of any crime at school reported being bullied at far higher rates than nonvictims (57 percent vs. 20.4 percent)](victims-bullied-57-vs-nonvictims-20-4.md) — related
 - [Victimized students reported negative school conditions at higher rates than nonvictims](victims-report-negative-school-conditions-higher-rates.md) — related
 - [National estimates indicate nearly half of students report having ever used illicit drugs and most report having drunk alcohol before leaving high school](national-estimates-adolescent-substance-use-prevalence.md) — related
+- [More than half of CPS high school teachers report robbery or theft problems and over 60 percent report gang activity and physical conflicts among students](high-school-teacher-crime-disorder-reports.md) — related

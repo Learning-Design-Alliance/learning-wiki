@@ -44,3 +44,4 @@ Executive Summary report of the relationship between school characteristics (aca
 
 ## Related Claims
 - [Most CPS charter high schools enrolled students with eighth-grade test scores similar to or lower than their neighborhood feeder pools but with higher eighth-grade attendance](cps-charter-incoming-skills-feeder-pool.md) — related
+- [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related

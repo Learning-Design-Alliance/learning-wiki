@@ -43,7 +43,8 @@ New Leaders is a principal preparation program founded in 2000 that has trained 
 - [Attending a New Leaders-led school in Oakland has positive, statistically significant effects on student achievement](../claims/new-leaders-oakland-positive-significant-achievement-effects.md) [+W]
 
 ## Related Elements
-- 
+
+- [New Leaders for New Schools principal training program](nlns-principal-training-program.md)
 
 ## Examples
 -

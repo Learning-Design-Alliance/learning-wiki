@@ -66,3 +66,5 @@ The agenda further reports, citing Hart et al. (2020) and Jackson, Porter, Easto
 - [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — related
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [Educators rated their well-being and school climate perceptions as average, with grade-level-band differences in both](wellbeing-climate-average-scores-grade-band-differences.md) — related
+- [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](adult-supervision-safety-gradient.md) — related
+- [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](parent-partnerships-and-climate-predict-teacher-staying.md) — related

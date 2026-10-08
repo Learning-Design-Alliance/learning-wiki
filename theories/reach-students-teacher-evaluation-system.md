@@ -58,7 +58,8 @@ REACH (Recognizing Educators Advancing Chicago's Students) is CPS's teacher eval
 - 
 
 ## Examples
--
+
+- [REACH Students teacher evaluation system](../elements/reach-students-evaluation-system.md)
 
 ## Key Sources
 - Jiang, J. Y., & Sporte, S. E. (2016). Teacher Evaluation in Chicago: Differences in Observation and Value-Added Scores by Teacher, Student, and School Characteristics. UChicago Consortium on School Research. https://eric.ed.gov/?id=ED562786

@@ -48,3 +48,4 @@ Survey of district and charter educators in the grant evaluation. "Nearly all re
 - [In schoolwide grant-activity cities, about half of surveyed educators collaborated with educators from the opposite sector](schoolwide-grant-half-collaborated-across-sector.md) — related
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related
+- [Time constraints, student attendance, and slow central-office approval of Statements of Work were the major implementation barriers reported by coordinators, principals, and vendors](coc-implementation-barriers-time-attendance-sow.md) — related

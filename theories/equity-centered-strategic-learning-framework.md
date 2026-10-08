@@ -46,6 +46,7 @@ The partnership defines equity-centered strategic learning as the set of efforts
 
 - [NSI conceptual framework: intermediary-led school networks using equity-centered continuous improvement to improve on-track outcomes](nsi-conceptual-framework-networked-ci.md)
 - [Equity-centered strategic learning as a four-part organizational capability](equity-centered-strategic-learning-definition.md)
+- [Strategic Human Resource Management as a Framework for Instructional Improvement](strategic-hrm-instructional-improvement-framework.md)
 
 ## Examples
 

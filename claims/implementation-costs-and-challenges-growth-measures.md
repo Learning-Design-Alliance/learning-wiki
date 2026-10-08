@@ -46,3 +46,4 @@ Key finding of the implementation study: districts experienced financial costs a
 - [Evidence on reliability and validity of alternative student growth measures, especially student learning objectives, is limited](limited-reliability-validity-evidence-alternative-growth-measures.md) — related
 - [Traditional annual state assessment growth measures typically cover only reading and math in grades 4-8, limiting their use in teacher evaluation](state-assessment-growth-measures-limited-reading-math-grades-4-8.md) — related
 - [Early-adopting districts used alternative student growth measures alongside other measures in formal teacher evaluations](early-adopters-used-alternative-growth-measures-in-formal-evaluations.md) — related
+- [Incorporating measures of student growth into teacher evaluation systems remained an ongoing challenge for early adopter districts](student-growth-measures-ongoing-challenge.md) — a broader claim this one bears on

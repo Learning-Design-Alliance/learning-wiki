@@ -46,6 +46,7 @@ The chapter's organizing framework holds that teaching and learning are "social 
 
 - [Communities-of-Practice theory as a framework for understanding community membership and learning](cop-theory-community-membership-learning.md)
 - [Developmental relationships: experiences shape development most within strong, supportive, sustained relationships with adults and peers](developmental-relationships-context-sel.md)
+- [School social-organizational structure mediates community influences on school safety](school-social-organization-mediation-framework.md)
 
 ## Examples
 

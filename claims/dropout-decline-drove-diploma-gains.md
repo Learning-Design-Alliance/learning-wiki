@@ -46,3 +46,5 @@ Analysis of student outcomes at age 19 across cohorts (Figure 3, Table 1). The s
 - [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related
+- [Chicago high school graduation rates improved dramatically over 20 years without a decline in average high school academic performance](cps-graduation-rates-improved-without-performance-decline.md) — related
+- [High school stability improvements in CPS were largely driven by declining dropout rates, which fell from 7.1 percent to 3.2 percent during the school year between 1995 and 2006](hs-stability-driven-by-dropout-decline.md) — related

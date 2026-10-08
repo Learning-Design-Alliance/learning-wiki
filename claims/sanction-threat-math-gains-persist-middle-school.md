@@ -46,3 +46,4 @@ A regression discontinuity study of students who attended threatened elementary 
 - [Accountability sanction effects were not consistent across years and outcomes](ayp-effects-inconsistent-across-years-and-outcomes.md) — related
 - [Evidence for persistence of threat-induced reading improvements is less consistent than for math](sanction-threat-reading-gains-persistence-inconsistent.md) — related
 - [Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain](sanction-threats-short-run-score-gains-gaming-uncertain.md) — a broader claim this one bears on
+- [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related

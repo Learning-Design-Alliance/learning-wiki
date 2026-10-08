@@ -45,3 +45,4 @@ The report's potential-bias analysis using Measures of Effective Teaching projec
 ## Related Claims
 - [Eight of ten dimensions of instructional practice are common across all five examined teacher observation instruments](eight-of-ten-dimensions-common-across-five-observation-instruments.md) — related
 - [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — related
+- [English/language arts classes in high-performing CHSRI schools required high academic demand, with high-level skill activities in 21 of 23 observed classes](chsri-classes-high-academic-demand.md) — related

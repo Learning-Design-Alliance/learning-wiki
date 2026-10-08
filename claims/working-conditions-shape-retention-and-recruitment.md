@@ -70,3 +70,4 @@ The same interdependence section states that working conditions also condition w
 - [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](comprehensive-induction-no-classroom-practice-gains-first-year.md) — related
 - [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related
 - [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](teacher-induction-no-retention-gain-year-1.md) — related
+- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — a narrower finding that bears on this claim

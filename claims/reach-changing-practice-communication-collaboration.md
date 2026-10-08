@@ -47,3 +47,6 @@ Teacher and administrator survey data from the year-two REACH brief. "Eighty-six
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — possibly the same claim (merge candidate)
 - [Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching](reach-observation-process-reflection-and-feedback-use.md) — related
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related
+- [Principal-teacher conferences were perceived as more reflective and objective than past evaluations, but many principals lacked the instructional coaching skills for deep discussions of practice](conferences-reflective-but-coaching-skills-lacking.md) — related
+- [REACH observations consumed substantial administrator time—about six hours per observation cycle and roughly two to three full weeks per year](observation-workload-administrator-time.md) — related
+- [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](reach-observation-process-supports-growth.md) — related

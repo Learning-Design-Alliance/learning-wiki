@@ -45,3 +45,6 @@ The chapter's overview states, based on a longitudinal multi-method study of hun
 ## Related Claims
 - [School-related factors influence teachers' digital data use only indirectly, mediated by teacher will-skill-tool characteristics, in a model explaining 50% of variance](school-factors-mediated-by-teacher-characteristics.md) — related
 - [Building a strong learning climate by supporting and guiding teacher collaboration around common goals is highlighted as a key finding](learning-climate-teacher-collaboration-common-goals.md) — related
+- [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — related
+- [School learning climate is the only process through which high school leadership accounts for differences across schools in instructional quality and achievement](learning-climate-only-cross-school-pathway.md) — a narrower finding that bears on this claim
+- [High school principals influence student achievement most strongly through school culture and climate](principal-leadership-strongest-through-school-climate.md) — a narrower finding that bears on this claim

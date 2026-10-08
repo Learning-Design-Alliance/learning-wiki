@@ -55,3 +55,4 @@ The study analyzes Florida data on students attending charter high schools, conf
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — related
 - [High school civic engagement is associated with higher graduation rates for all students regardless of age at entry, race, or gender](civic-engagement-higher-graduation-all-students.md) — related
 - [After two years, fewer graduates attended career academies and neighborhood high schools and more attended charter schools; these shifts were no different from comparison schools](success-project-high-school-enrollment-shifts.md) — related
+- [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related

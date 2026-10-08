@@ -47,3 +47,4 @@ Year 3 (2015) UChicago Consortium Administrator Survey of CPS principals and ass
 - [Trusting teacher-evaluator relationships lessened evaluation anxiety and encouraged teachers to welcome and use REACH feedback](trusting-teacher-evaluator-relationships-reduce-anxiety.md) — related
 - [Principals' attitudes toward and framing of the REACH evaluation system shaped teachers' engagement with the evaluation process](principal-attitudes-shape-teacher-evaluation-engagement.md) — related
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related
+- [Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations](reach-observation-process-supports-growth.md) — a broader claim this one bears on

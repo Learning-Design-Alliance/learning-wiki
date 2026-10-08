@@ -46,3 +46,4 @@ Survey of teacher and administrator opinions on high-stakes uses of REACH rating
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — related
 - [Teacher satisfaction with REACH was moderate overall but varied widely across schools](reach-satisfaction-varies-across-schools.md) — related
+- [Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits](dual-evaluator-coach-role-undermines-learning.md) — related

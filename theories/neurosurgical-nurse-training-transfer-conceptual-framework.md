@@ -47,7 +47,8 @@ A framework, presented as Figure 1, depicting training transfer as an adaptive r
 - [Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles](../claims/transfer-extends-to-specialty-development-roles.md) [+W]
 
 ## Related Theories
-- 
+
+- [Strategic Human Resource Management as a Framework for Instructional Improvement](strategic-hrm-instructional-improvement-framework.md)
 
 ## Examples
 

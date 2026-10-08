@@ -59,9 +59,11 @@ Communication that is specific, frequent, and oriented toward learning tasks pro
 6. Use patterns from family responses to adjust instruction, closing the loop like [Assessment for Learning](../principles/assessment-for-learning.md)
 
 ## Related Strategies
+
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a classroom analog: brief, regular, individualized contact about learning
 - [Action Planning](action_planning.md) — family communication can deliver and reinforce student action plans
 - [Check-Ins](../principles/check-ins.md) — the student-facing counterpart of regular structured contact
+- [Parents should reinforce on-time attendance, communicate with teachers, and make academics the freshman's top priority](parent-support-freshman-attendance-priority.md)
 
 ## Examples
 - **Parent Teacher Home Visits** (https://www.pthp.org) — trained educators visit families at home to build relational trust before academic problem-solving

@@ -55,6 +55,7 @@ The report articulates the program's theory of action, which held that "The Succ
 - [6to16 college-readiness and social capital curriculum](../elements/6to16-curriculum-element.md)
 - [Support high school selection by expanding school fit beyond programs to commute, safety, and family circumstances](../strategies/expand-high-school-fit-to-family-context.md)
 - [Families and Schools Together (FAST) program](../elements/fast-program-element.md)
+- [Implement or expand IB Diploma Programs in urban neighborhood high schools to promote college readiness](../strategies/expand-ib-dp-urban-districts-college-readiness.md)
 
 ## Key Sources
 - Cowhy, J.R. & de la Torre, M. (2017). The Success Project: The Implementation and Early Outcomes of a Middle Grade Program. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/success-project-implementation-and-early-outcomes-middle-grade-program

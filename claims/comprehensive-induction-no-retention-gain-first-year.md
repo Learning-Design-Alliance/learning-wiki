@@ -55,3 +55,4 @@ First-year results of a large-scale randomized controlled study of two comprehen
 - [Comprehensive teacher induction showed no impacts on outcomes other than student achievement](induction-no-other-outcome-impacts.md) — a broader claim this one bears on
 - [The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program](induction-null-impacts-one-and-two-year-programs.md) — related
 - [One year of comprehensive teacher induction showed no impact on student achievement](one-year-induction-no-impact.md) — related
+- [Combining intensive mentoring with other supports is associated with the largest retention-plan gaps: 48 percentage points for elementary and 55 for high school novices](combined-mentoring-supports-largest-retention-gain.md) — related

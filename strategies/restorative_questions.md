@@ -59,9 +59,11 @@ Restorative questions operationalize the principle that learners internalize sel
 6. **Follow up** on the agreement at a set time, treating completion as part of the learning loop.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the proactive, low-stakes version of the same questioning stance; builds the trust restorative questions depend on
 - [Class Discussion](../elements/class-discussion.md) — the general dialogic format; restorative questions are a specialized, norm-governed instance
 - [Coaching](../elements/coaching.md) — shares the non-judgmental, question-driven elicitation of the learner's own reasoning
+- [Train teachers and staff on how to deal with conflict in constructive ways to prevent conflicts from escalating](constructive-conflict-training-staff.md)
 
 ## Examples
 - **International Institute for Restorative Practices (IIRP) SaferSanerSchools program** — whole-school implementation training built around the restorative questions; evaluated in a randomized trial in Pittsburgh public schools ([https://www.iirp.edu](https://www.iirp.edu)) [+M]

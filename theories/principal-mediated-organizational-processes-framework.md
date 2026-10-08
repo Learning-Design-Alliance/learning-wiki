@@ -42,6 +42,8 @@ The chapter organizes principal influence around a set of school organizational 
 ## Related Theories
 
 - [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
+- [Framework of five essential supports and contextual resources for school improvement](five-essential-supports-framework-ccsr.md)
+- [Four organizational supports mediating leadership effects on instruction and learning](four-organizational-supports-leadership-pathways.md)
 
 ## Examples
 -

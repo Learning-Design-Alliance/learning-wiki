@@ -66,3 +66,4 @@ The same background statement notes that "the extent to which these test score i
 - [Threat-induced math improvements from attending a threatened elementary school persist at least through the first one to two years of middle school](sanction-threat-math-gains-persist-middle-school.md) — a narrower finding that bears on this claim
 - [Evidence for persistence of threat-induced reading improvements is less consistent than for math](sanction-threat-reading-gains-persistence-inconsistent.md) — related
 - [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — related
+- [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related

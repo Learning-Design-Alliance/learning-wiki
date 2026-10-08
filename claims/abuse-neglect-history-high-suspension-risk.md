@@ -45,3 +45,4 @@ Observational analysis linking Chicago discipline records with child welfare dat
 ## Related Claims
 - [Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS](low-achievement-disability-suspension-rates-cps.md) — related
 - [A subset of about a quarter of Chicago high schools and 10 percent of middle-grades schools have very high suspension rates, almost all predominantly serving African-American students](high-suspension-schools-concentrated-disadvantage.md) — related
+- [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — related

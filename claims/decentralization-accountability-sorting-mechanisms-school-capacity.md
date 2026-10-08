@@ -47,3 +47,4 @@ The report's synthesis of its own Chicago research program, including the Charti
 - [In the 2008-2009 school year, 39 percent of DCPS principals (51 individuals) did not return, as part of Chancellor Rhee's replacement reforms following mayoral control](dcps-39-percent-principals-did-not-return-2008-09.md) — related
 - [Foxglove Elementary distributes leadership across staff roles but has few mechanisms to coordinate the work](foxglove-decentralized-leadership-weak-coordination.md) — a narrower finding that bears on this claim
 - [Inclusive school leadership plays a critical role in building teachers' capacity for school improvement](inclusive-leadership-builds-teacher-capacity.md) — related
+- [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](organizational-gains-without-instructional-gains.md) — related

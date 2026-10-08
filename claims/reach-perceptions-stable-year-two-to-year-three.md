@@ -71,3 +71,4 @@ Year 3 MVMS teacher survey and Consortium Administrator Survey items on expected
 - [Beginning teachers are more positive about REACH than teachers with more years of experience](reach-beginning-teachers-more-positive-than-veterans.md) — related
 - [Teachers report the REACH observation process encouraged reflection and that they used observation feedback to improve their teaching](reach-observation-process-reflection-and-feedback-use.md) — related
 - [Teachers and principals remain optimistic about REACH in year two, but teacher satisfaction with the evaluation process declined from year one](reach-year-two-optimism-declining-satisfaction.md) — related
+- [REACH observations consumed substantial administrator time—about six hours per observation cycle and roughly two to three full weeks per year](observation-workload-administrator-time.md) — related

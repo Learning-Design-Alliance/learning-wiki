@@ -51,3 +51,4 @@ The report's key findings state that "evidence is limited on the reliability and
 - [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — related
 - [Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems](eight-districts-use-alternative-teacher-effectiveness-measures.md) — related
 - [The reliability of a teacher evaluation system determines the proportion of teachers who can be identified as exceptional](evaluation-reliability-determines-exceptional-teacher-proportion.md) — related
+- [Incorporating measures of student growth into teacher evaluation systems remained an ongoing challenge for early adopter districts](student-growth-measures-ongoing-challenge.md) — related

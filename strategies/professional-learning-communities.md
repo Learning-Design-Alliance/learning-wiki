@@ -71,6 +71,7 @@ PLCs work when they shift professional learning from transmission (expert delive
 - [Incorporate a method for identifying areas of improvement into PLC models](plc-method-identifying-improvement-areas.md)
 - [Support program implementation with curriculum-embedded professional learning: workshops, planning and classroom coaching, leadership walkthroughs, and student-work data analysis](lenses-professional-learning-support-strategy.md)
 - [Convene a researcher professional learning community to address collaborative-research challenges](researcher-professional-learning-community-strategy.md)
+- [Use school-wide instructional goals to focus teacher-team collaboration on common instructional issues](school-wide-goals-guide-teacher-teams.md)
 
 ## Examples
 - **Solution Tree / DuFour model** ([solutiontree.com](https://www.solutiontree.com)) — the most widely adopted PLC framework; schools organize into course-alike or grade-level teams running assessment-analysis cycles.

@@ -52,3 +52,4 @@ Interview statement from Principal Walker in the Ivy case study. He describes th
 - [The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles](personal-ethic-of-care-transferred-from-motherhood.md) — related
 - [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](all-staff-family-communication-channels.md) — related
 - [At Ivy Elementary, teachers lead grade-level goal setting and participate in school-level decisions, with the principal empowering staff](ivy-teacher-led-goals-collective-decisions.md) — related
+- [High-performing CHSRI schools shared four practices for guiding and sustaining instructional improvement: defining leadership responsibilities, creatively distributing them, institutionalizing routines, and focusing team work on school-wide goals](chsri-four-improvement-practices.md) — related

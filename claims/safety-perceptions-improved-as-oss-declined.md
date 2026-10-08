@@ -46,3 +46,4 @@ Trend analysis of My Voice, My School survey responses from spring 2007 and 2009
 - [Arrest rates for CPS students declined after 2009-10, with African American boys arrested at twice the district average rate](cps-arrest-rates-declined-racial-disparities.md) — related
 - [Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14](cps-high-school-oss-rates-declined-2009-2014.md) — related
 - [Perceived safety changes under reduced suspension use varied by school racial composition: a small decline in predominantly Latino schools and a similar-sized but non-significant improvement in predominantly Black schools](cps-suspension-reduction-perceived-safety.md) — related
+- [Student reports of safety did not improve faster in Culture of Calm schools than in other similar high schools](coc-student-safety-no-faster-improvement.md) — a narrower finding that bears on this claim

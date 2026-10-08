@@ -47,3 +47,6 @@ Descriptive analysis of charter annual-report policy data and teacher/student su
 - [On study habits, grit, and promotion to tenth grade, charter students performed similarly to or slightly below comparable non-charter students, with the promotion gap possibly reflecting charters' higher promotion requirements](cps-charter-similar-or-lower-behaviors-promotion.md) — related
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
 - [Relational trust appears to materialize in schools regardless of vast differences in environments](relational-trust-materializes-regardless-of-environments.md) — related
+- [Schools with stronger college-going cultures have higher student ACT scores, regardless of student backgrounds](college-going-culture-associated-higher-act-scores.md) — related
+- [Fewer than 30 percent of high school teachers report that most or all of their students will go on to college](teachers-underestimate-students-college-plans.md) — related
+- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related

@@ -59,8 +59,10 @@ Co-construction converts norms from external compliance demands into shared comm
 5. Model and invoke the norms consistently; schedule a midpoint [Check-In](../elements/check-in.md) for students to amend or retire norms that are not working.
 
 ## Related Strategies
+
 - [Active-Listening](active-listening.md) — the facilitation stance that makes genuine co-construction possible rather than performative
 - [Classroom physical activity and community routines](classroom-routines.md) — norms are sustained through the routines that operationalize them
+- [Staff certification processes and flexible rule reevaluation to protect equipment and maintain a safe, productive youth-driven space](youmedia-staff-certification-and-flexible-rules.md)
 
 ## Examples
 - **Responsive Classroom** (Center for Responsive Schools) — teacher-guided creation of classroom rules with students at the start of the year, with teacher final authority; widely used in US elementary schools. [https://www.responsiveschools.org](https://www.responsiveschools.org)

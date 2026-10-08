@@ -47,6 +47,7 @@ The report builds its measurement system on the five essentials framework develo
 - [Five essential supports framework for school improvement](five-essential-supports-school-improvement-framework.md)
 - [Five Essential Supports for School Improvement (5Es) framework](five-essential-supports-5es-framework.md)
 - [Five Essential Supports framework for improving student learning](five-essential-supports-framework-uchicago-consortium.md)
+- [Four organizational supports mediating leadership effects on instruction and learning](four-organizational-supports-leadership-pathways.md)
 
 ## Examples
 

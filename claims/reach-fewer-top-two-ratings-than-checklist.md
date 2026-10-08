@@ -46,3 +46,4 @@ District-wide descriptive comparison of non-tenured teachers' ratings under the 
 - [Under REACH fewer teachers received ratings in the top two categories than under the prior checklist system](reach-fewer-teachers-top-rating-categories-than-checklist.md) — related
 - [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](reach-ratings-increased-over-time.md) — related
 - [Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change](reach-missed-observations-inability-to-rate.md) — related
+- [The Danielson Framework identified far more teachers as low-performing than the prior CPS checklist (8 percent vs 0.3 percent)](framework-identifies-more-unsatisfactory-teachers.md) — related

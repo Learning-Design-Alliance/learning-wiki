@@ -65,3 +65,4 @@ Observational analysis of restorative justice practices alongside suspensions. T
 - [Schools with higher suspension rates have worse climates for learning, even compared to schools serving similar student populations](high-suspension-rates-worse-school-climate.md) — related
 - [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](partial-implementation-schools-peer-outcomes-declined.md) — related
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related
+- [Schools with high suspension rates are less safe than schools with lower suspension rates serving similar students](high-suspension-rates-less-safe.md) — related

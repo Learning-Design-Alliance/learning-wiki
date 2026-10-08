@@ -46,3 +46,4 @@ Qualitative finding from group interviews with parents at the four study program
 - [Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs](strong-essentials-programs-more-supportive-contexts.md) — a broader claim this one bears on
 - [Parents offer a unique perspective best captured by a distinct sixth essential, Parent Voice](parent-voice-distinct-sixth-essential.md) — related
 - [Teachers' ability to deliver strong instruction depends substantially on the school context, family resources and challenges, and the larger community](instruction-delivery-depends-on-school-context.md) — related
+- [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](organizational-gains-without-instructional-gains.md) — related

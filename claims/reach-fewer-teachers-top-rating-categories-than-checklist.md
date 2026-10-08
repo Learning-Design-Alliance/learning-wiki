@@ -64,3 +64,4 @@ REACH final ratings for non-tenured teachers across Years 1-3 compared with prio
 ## Related Claims
 - [Fewer non-tenured teachers were rated in the top two categories under REACH (58%) than under the previous checklist system (87%)](reach-fewer-top-two-ratings-than-checklist.md) — related
 - [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](reach-ratings-increased-over-time.md) — reports the opposite
+- [The Danielson Framework identified far more teachers as low-performing than the prior CPS checklist (8 percent vs 0.3 percent)](framework-identifies-more-unsatisfactory-teachers.md) — related

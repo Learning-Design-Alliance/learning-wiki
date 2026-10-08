@@ -53,3 +53,6 @@ Observational analysis of CPS freshman cohorts (Figure 1) shows four-year gradua
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Rising ninth-grade on-track rates did not negatively affect schools' average ACT scores](on-track-gains-did-not-lower-act-scores.md) — related
 - [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related
+- [On-track rates in Chicago improved over time alongside indicator-based data tool use](chicago-ontrack-rates-improved-over-time.md) — related
+- [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related
+- [The freshman on-track indicator predicts five-year graduation equally or more strongly for students with disabilities than for students without disabilities, with on-track students two to six times more likely to graduate](on-track-predicts-graduation-students-with-disabilities.md) — a narrower finding that bears on this claim

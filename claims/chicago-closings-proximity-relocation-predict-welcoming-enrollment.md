@@ -50,3 +50,4 @@ Administrative-data analysis of displaced students' enrollment patterns (Figure 
 - [Welcoming-school students transferred out at higher-than-expected rates just before the merger, driven exclusively by the 14 welcoming schools that had to relocate into closed-school buildings](welcoming-school-mobility-spike-relocating-schools.md) — related
 - [After school closings, proximity to home was the deciding factor in families' enrollment choices, outweighing school ratings](proximity-decided-post-closing-enrollment.md) — a broader claim this one bears on
 - [Families were more likely to enroll in designated welcoming schools with above-average reported safety levels](chicago-closings-safety-rating-predicts-welcoming-enrollment.md) — related
+- [Displaced students changed schools a second time at roughly twice the rate of comparison students during the first year and the following summer](elevated-subsequent-mobility-after-displacement.md) — related

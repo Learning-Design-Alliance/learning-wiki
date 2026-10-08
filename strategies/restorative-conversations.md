@@ -58,9 +58,11 @@ Restorative conversations operationalize [Social Learning Theory](../theories/so
 5. **Agree and follow up** — record the agreement and check in on it; a [Check-In](../elements/check-in.md) a few days later signals the relationship, not the incident, was the point.
 
 ## Related Strategies
+
 - [Active Listening](../strategies/active-listening.md) — the core facilitation skill; without it the conversation collapses into interrogation
 - [Check-In](../elements/check-in.md) — the routine, low-intensity form that builds the trust restorative conversations depend on
 - [Class Discussion](../elements/class-discussion.md) — restorative circles scale the same dialogue structure to whole-group norm-setting
+- [Train teachers and staff on how to deal with conflict in constructive ways to prevent conflicts from escalating](constructive-conflict-training-staff.md)
 
 ## Examples
 - **[Oakland Unified School District](https://www.ousd.org/restorative-justice)** — a district-wide restorative justice program associated with reduced suspensions and improved school climate; its whole-school model layers affective statements, circles, and formal conferences.

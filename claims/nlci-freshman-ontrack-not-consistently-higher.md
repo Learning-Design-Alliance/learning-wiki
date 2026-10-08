@@ -47,3 +47,5 @@ Cohort analysis of first-time ninth-graders at Collins Academy and of NLCI eight
 - [Elementary attendance and school climate improved over time at NLCI schools but not significantly more than at comparison schools](nlci-elementary-attendance-climate-not-significantly-different.md) — related
 - [NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative](nlci-high-school-outcomes-lower-than-similar-students.md) — reports the opposite
 - [CPS Freshman OnTrack rates rose from 58 to 89 percent between 2007 and 2017 while graduation rates rose 19 percentage points](cps-ontrack-rose-58-to-89-graduation-up-19-points.md) — related
+- [CHSRI students graduated at significantly higher four-year rates than similar students, with differences of 7 to more than 9 percentage points across cohorts](chsri-higher-four-year-graduation-rates.md) — related
+- [Displaced students' freshman on-track-to-graduate rates did not differ from comparison students, regardless of their grade at closing](no-effect-high-school-on-track-rates.md) — related

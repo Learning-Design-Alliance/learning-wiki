@@ -42,6 +42,7 @@ The article recommends providing supports to improve attendance in pre-kindergar
 ## Related Strategies
 
 - [Provide early, proactive, domain-specific interventions to support equitable access to advanced mathematics](early-domain-specific-gender-equity-interventions.md)
+- [Monitor preschool attendance at student and school levels with watch lists and share records across the preschool-to-kindergarten transition](monitor-preschool-attendance-watch-lists-transition-sharing.md)
 
 ## Examples
 -

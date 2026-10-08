@@ -52,3 +52,4 @@ Difference-in-differences analysis of Philadelphia's discipline reform reports t
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related
 - [Negative achievement effects of suspension are robust to instrumental variable estimates leveraging a district-wide suspension policy change](suspension-effects-robust-to-iv-policy-change.md) — related
 - [Exposure to suspensions for serious misconduct has very small negative spillovers onto peer achievement](suspension-spillovers-small-negative-peer-achievement.md) — related
+- [High-skill students' math test scores declined as a consequence of the composition change](algebra-for-all-high-skill-scores-declined.md) — related

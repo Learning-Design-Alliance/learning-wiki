@@ -18,7 +18,7 @@ sources:
 # Community-Based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 14 studies (3 causal, 3 review, 2 associational, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 3 of 14 report an effect size · 9 claims rest on one study
+> **Evidence** · 12 claims (8 for, 4 mixed) · 15 studies (3 causal, 3 review, 3 associational, 2 qualitative, 2 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 3 of 15 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -72,6 +72,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Diversity Enhances All Civic Competence Outcomes](../claims/diversity-enhances-all-civic-competence-outcomes.md) [+M]
 - [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](../claims/planetary-health-course-three-key-lessons.md) [+W] — attached 2026-10-07 from Addison et al. (2025), which proposed "Prepare students with the skills and competencies to effectively and ethically complete societal-engagement investigations before meeting the challenge agent".
+- [Service learning experiences and in-class civic learning opportunities have a larger impact on high school students' commitment to civic participation than other school, family, or community influences](../claims/service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) [+W] — attached 2026-10-08 from Susan E. Sporte et al. (2007), which proposed "Embed civic best practices across the curriculum rather than relying on required civics courses"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

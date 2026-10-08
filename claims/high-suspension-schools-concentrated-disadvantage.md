@@ -49,3 +49,4 @@ Observational analysis of Chicago district discipline data. The report identifie
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
 - [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
 - [School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell](cps-suspension-reduction-school-climate.md) — related
+- [Schools with high suspension rates are less safe than schools with lower suspension rates serving similar students](high-suspension-rates-less-safe.md) — related

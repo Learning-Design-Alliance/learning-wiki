@@ -65,6 +65,7 @@ Clear expectations reduce uncertainty and off-task behavior, freeing working mem
 - [Attention](../elements/attention.md) — signals and routines for managing focus depend on pre-established norms
 - [Accommodations](../elements/accommodations.md) — expectations must be set with flexibility for documented learner needs
 - [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
+- [Staff certification processes and flexible rule reevaluation to protect equipment and maintain a safe, productive youth-driven space](youmedia-staff-certification-and-flexible-rules.md)
 
 ## Examples
 - **Responsive Classroom (Center for Responsive Schools)** — K–8 program in which teachers and students co-create classroom rules during the first weeks, then practice routines ("Interactive Modeling"); see [responsivereads.com](https://www.responsivereads.com) / [centerforresponsiveschools.org](https://www.centerforresponsiveschools.org).

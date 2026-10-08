@@ -44,3 +44,4 @@ The report's summary of Phase 2 findings states that "across nearly all componen
 
 ## Related Claims
 - [Phase 1 of the Pennsylvania pilot examined whether teachers with higher classroom observation scores on specific professional practices tended to have greater value-added impacts on student achievement](observation-scores-value-added-relationship-pennsylvania-pilot.md) — a broader claim this one bears on
+- [Danielson Framework observation ratings are valid measures of teaching practice, with higher ratings corresponding to higher student test-score growth in reading and math](danielson-ratings-predict-value-added.md) — possibly the same claim (merge candidate)

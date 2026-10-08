@@ -46,3 +46,5 @@ Regression analysis of 2011-13 cohorts taking fall tenth-grade PLAN, using the s
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school](higher-achievers-larger-gpa-declines-transition.md) — related
+- [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
+- [ISAT scores are not comparable over time: students with identical earlier and later test scores earned different seventh-grade ISAT scores depending on the year tested](isat-scores-noncomparable-over-time.md) — related

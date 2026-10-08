@@ -48,3 +48,4 @@ Latent one-level SEM with cluster robust standard errors (lavaan) on the same su
 - [About half of teachers report access to data technologies, but roughly half lack confidence in their data skills and do not use digital data to plan and adjust teaching](teachers-access-but-low-skill-and-use.md) — related
 - [Teaching experience is a minor negative predictor of digital data use, while age and gender show no significant effect](experience-negative-age-gender-null-data-use.md) — related
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — related
+- [Teacher technology use and school culture explain an additional 18 percent of school-by-school differences in high school student technology use](teacher-use-culture-explain-school-variance-student-tech-use.md) — related

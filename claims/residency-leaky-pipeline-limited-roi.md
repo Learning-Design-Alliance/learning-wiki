@@ -46,3 +46,4 @@ Analysis of CPS personnel employment trajectories for residency cohorts. The stu
 - [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related
 - [Residency-trained principals raised math and reading test scores more than non-residency new principals in their first two years](residency-principals-raise-test-scores-first-two-years.md) — related
 - [Cross-sector collaboration is less widespread among school leaders than central office administrators but is particularly strong among participants in grant-funded intensive leadership training or principal residency programs](leadership-program-participants-show-strongest-cross-sector-collaboration.md) — related
+- [Fund-supported principals are younger and have shorter tenure than other CPS principals](fund-principals-younger-shorter-tenure.md) — related

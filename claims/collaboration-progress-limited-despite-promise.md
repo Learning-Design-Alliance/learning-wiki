@@ -48,3 +48,4 @@ Headline finding of the implementation analysis of grantee activities from Decem
 - [School co-locations or partnerships, aspiring-leader programs, and shared Common Core preparation are the most promising avenues for cross-sector collaboration](district-charter-promising-collaboration-avenues.md) — a narrower finding that bears on this claim
 - [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — related
 - [Teachers across sectors are receptive to collaboration on average, but the proportion of teachers involved in grant activities has been limited](teachers-receptive-but-involvement-limited.md) — related
+- [Structural Fragmentation of HRM Functions Impedes Strategic Coordination in School Districts](hrm-structural-fragmentation-impedes-coordination.md) — related

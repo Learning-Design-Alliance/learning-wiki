@@ -45,3 +45,7 @@ The brief reports, citing Bryk et al. (2010), that a sustained weakness in one d
 ## Related Claims
 - [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](chicago-strong-essentials-tenfold-gains.md) — related
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — related
+- [Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools](disadvantaged-schools-with-supports-improve-equally.md) — related
+- [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](essential-supports-mutual-trust-reinforce-each-other.md) — a broader claim this one bears on
+- [Schools strong in the essential supports are more likely to improve student learning over time](essential-supports-strong-schools-improve-learning.md) — related
+- [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](five-essential-elements-three-of-five-improvement-odds.md) — related

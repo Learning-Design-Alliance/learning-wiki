@@ -49,3 +49,4 @@ Study 1 thematic network analysis (Attride-Stirling method) of instructor interv
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
 - [Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment](societal-good-instructor-student-contrast.md) — related
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
+- [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related

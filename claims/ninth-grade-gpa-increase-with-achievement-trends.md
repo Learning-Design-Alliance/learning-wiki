@@ -46,3 +46,5 @@ Descriptive trend analysis of eight entering CPS cohorts (unadjusted, no control
 - [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — related
 - [CPS students' core GPAs continue to decline between eighth and ninth grade despite steady improvement in both eighth- and ninth-grade grades](core-gpa-declines-eighth-to-ninth-grade-cps.md) — related
 - [Districtwide ninth-grade on-track rates rose 25 percentage points between 2007 and 2013 across racial, gender, and achievement subgroups](cps-on-track-rate-rose-25-points-districtwide.md) — related
+- [ACT scores rose even with more test takers, growing most in Era 3 in selective enrollment and racially integrated schools](act-scores-rose-most-selective-integrated-schools.md) — related
+- [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — reports the opposite

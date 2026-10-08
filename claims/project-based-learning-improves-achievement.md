@@ -71,3 +71,4 @@ Meta-analysis comparing project-based learning against traditional, teacher-led 
 - [A scoping review of a 2% sample of search returns can estimate the scope of a PBL meta-analysis, including projected studies, outcomes, and exclusion reasons](scoping-review-estimates-meta-analysis-scope.md) — related
 - [Target Teach schools improved in all tested subjects, not only the aligned reading tests, suggesting factors beyond test alignment contributed](target-teach-gains-across-all-subjects.md) — related
 - [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](authentic-intellectual-work-complex-thinking-gains.md) — related
+- [Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations](intellectually-ambitious-instruction-improves-learning.md) — related
