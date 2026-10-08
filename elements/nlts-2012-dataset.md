@@ -51,6 +51,7 @@ The National Longitudinal Transition Study 2012 is a national research study of 
 ## Related Elements
 
 - [National Longitudinal Transition Study 2012 (NLTS 2012)](nlts-2012-national-longitudinal-transition-study.md)
+- [NLTS 2012 dataset and design documentation](nlts-2012-dataset-design-documentation.md)
 
 ## Examples
 -

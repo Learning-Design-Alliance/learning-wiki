@@ -48,3 +48,4 @@ In the same RCT, the science outcome was not a focus of TLTS supports. The repor
 - [After two years, TLTS raised student ELA achievement by 0.05 standard deviations relative to comparison schools](tlts-two-year-ela-effect-005-sd.md) — related
 - [The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger](ses-rd-study-power-012-sd.md) — related
 - [Education evaluators increasingly design studies to detect impacts smaller than 0.20 standard deviations](evaluators-target-impacts-below-020-sd.md) — related
+- [There is little evidence that math and reading specialists, one Turnaround Strategy component in targeted schools, had an impact on academic outcomes](aps-specialist-support-little-impact-evidence.md) — related

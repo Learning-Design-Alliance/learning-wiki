@@ -46,3 +46,4 @@ Randomized controlled trial comparing parent-implemented dialogic reading with a
 - [Dialogic reading favored significant gains on lexical diversity during play and total utterances during book reading, but not on four other measures (Dale et al., 1996)](dale-1996-significant-lexical-diversity-play-total-utterances-book-reading.md) — related
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — a broader claim this one bears on
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — reports the opposite
+- [A program is said to have an effect when the difference between program and non-program groups is statistically significant](effect-defined-as-statistically-significant-group-difference.md) — a broader claim this one bears on

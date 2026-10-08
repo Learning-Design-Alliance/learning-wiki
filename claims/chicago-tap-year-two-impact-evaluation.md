@@ -50,3 +50,4 @@ The report's own abstract states that it "details second-year results from Mathe
 - [TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers](tap-raises-teacher-retention-five-points.md) — related
 - [Teachers in Chicago TAP schools at the start of the program were about 20 percent more likely than teachers in comparison schools to remain in the same school three years later](chicago-tap-increased-teacher-retention.md) — related
 - [Chicago TAP increased the amount of mentoring, promotion opportunities, and compensation in participating schools relative to non-TAP schools](chicago-tap-increased-mentoring-promotion-compensation.md) — related
+- [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](educators-receptive-to-feedback-and-compensation-strategies.md) — related

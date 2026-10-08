@@ -56,3 +56,5 @@ This RCT randomly assigned students in 45 secondary schools to a math class taug
 - [The findings contradict claims that alternative teacher preparation programs such as Teach For America harm students](tfa-findings-contradict-harm-claims.md) — a broader claim this one bears on
 - [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — related
 - [Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction](tfa-positive-math-achievement-impact.md) — possibly the same claim (merge candidate)
+- [A program is said to have an effect when the difference between program and non-program groups is statistically significant](effect-defined-as-statistically-significant-group-difference.md) — a broader claim this one bears on
+- [TFA corps members hired in the first two years of the i3 scale-up were as effective as other teachers in the same high-poverty schools in teaching reading and math](tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools.md) — related

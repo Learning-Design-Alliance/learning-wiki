@@ -46,3 +46,4 @@ Observational analysis of how pandemic-era attrition changes varied with staff c
 - [Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic](pa-staff-attrition-rose-4-to-5-percent-pandemic.md) — a broader claim this one bears on
 - [Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed](pa-attrition-racial-gaps-grew-except-administrators.md) — related
 - [Remote learning was not associated with increased attrition among Pennsylvania elementary school teachers](remote-learning-not-associated-elementary-teacher-attrition.md) — related
+- [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — related

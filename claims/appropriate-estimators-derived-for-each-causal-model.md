@@ -45,3 +45,5 @@ Analytical derivation reported in the methods paper: for each of the two causal 
 ## Related Claims
 - [Across five clustered education RCTs, finite-population and super-population estimators yield identical findings on statistical significance](clustered-rct-estimators-identical-significance-findings.md) — related
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
+- [The developed estimators apply to a wide range of education research designs, including clustered and blocked designs](design-based-estimators-clustered-blocked-designs.md) — a broader claim this one bears on
+- [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](variance-adjustment-reduces-precision-multi-armed.md) — related

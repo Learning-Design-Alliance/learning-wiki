@@ -50,3 +50,4 @@ WWC improvement-index computation across the nine alphabetics findings in Hecht 
 - [Waterford Early Reading Program™ showed no discernible effects on comprehension, with a small non-significant effect size on vocabulary](werp-no-discernible-comprehension.md) — related
 - [Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains](waterford-level-one-small-extent-of-evidence.md) — related
 - [Waterford Upstart participation shows statistically significant positive effects on early literacy skills in matched quasi-experimental cohorts](waterford-upstart-positive-early-literacy-effects.md) — reports the opposite
+- [Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement](blended-learning-effects-vary-by-intervention-and-domain.md) — related

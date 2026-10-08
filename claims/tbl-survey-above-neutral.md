@@ -46,3 +46,4 @@ End-of-semester survey using an instrument established by Mennenga (2010) with t
 - [After the TBL module, students were better prepared to design and implement independent final research projects](tbl-module-prepares-independent-projects.md) — related
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — related
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
+- [Each form of accountability can produce favorable or unfavorable effects](each-accountability-form-favorable-or-unfavorable-effects.md) — a broader claim this one bears on

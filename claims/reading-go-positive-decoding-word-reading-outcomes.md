@@ -53,3 +53,4 @@ One study of language-minority, low-SES first graders in New York City compared 
 - [Sound Partners produces significantly positive reading outcomes for English learner kindergartners (effect size +0.60)](sound-partners-positive-kindergarten-effects-english-learners.md) — related
 - [LiPS has potentially positive effects on alphabetics for students with learning disabilities, with statistically significant advantages on two of eight measures](lips-potentially-positive-alphabetics-learning-disabilities.md) — related
 - [Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)](ecri-improves-word-reading-outcomes-first-grade.md) — related
+- [A program is said to have an effect when the difference between program and non-program groups is statistically significant](effect-defined-as-statistically-significant-group-difference.md) — a broader claim this one bears on

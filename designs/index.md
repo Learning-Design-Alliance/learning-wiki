@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**201 entries** · 0 stable · 0 in review · 201 drafts
+**202 entries** · 0 stable · 0 in review · 202 drafts
 
 ---
 
@@ -254,6 +254,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### U {: #letter-u }
 
+* [Universal prevention plus targeted intensive goal-setting tier for students needing additional support](universal-prevention-plus-targeted-intensive-tier-pattern.md) - The program combines a universal tier delivered to all participants with an intensive targeted tier for students identified as needing more support.
 * [Use a digital platform to deliver layered scaffolding, differentiation, and ongoing formative assessment with standards-aligned rubrics](digital-platform-scaffolding-formative-assessment-principle.md) - Lenses is a hybrid program with print and digital components.
 
 #### W {: #letter-w }

@@ -46,3 +46,6 @@ In the same randomized factorial experiment, the article reports that icon-based
 - [Changing the default order in which schools are presented induces meaningful changes in the types of schools low-income parents choose](default-order-changes-school-choice.md) — related
 - [Display design affected parents' understanding of school information and their self-reported satisfaction and ease of use](display-design-understanding-satisfaction-ease.md) — a broader claim this one bears on
 - [Number-only displays maximized parents' understanding while graphs maximized satisfaction at the expense of understanding](numbers-understanding-graphs-satisfaction-tradeoff.md) — related
+- [Setting the default sort order to academic performance instead of distance from home induces parents to choose academically higher performing schools](default-sort-academic-performance-shifts-school-choices.md) — related
+- [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — a broader claim this one bears on
+- [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a broader claim this one bears on

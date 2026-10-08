@@ -46,3 +46,5 @@ Beyond school choices, the randomized factorial experiment measured "parents’ 
 - [Number-only displays maximized parents' understanding while graphs maximized satisfaction at the expense of understanding](numbers-understanding-graphs-satisfaction-tradeoff.md) — a narrower finding that bears on this claim
 - [Displaying data with icons or concise summaries led parents to choose schools with higher academic performance than graphs, numbers, or detailed displays](icons-concise-summaries-higher-performing-schools.md) — a narrower finding that bears on this claim
 - [Reporting the number of points possible for each metric led to better understanding of how the STAR score is calculated](points-possible-improves-score-understanding.md) — related
+- [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — a broader claim this one bears on
+- [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — related

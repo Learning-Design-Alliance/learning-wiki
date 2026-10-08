@@ -49,3 +49,4 @@ Implementation finding from the final evaluation report of Chicago TAP after fou
 - [TAP produced no measurable impacts on student test scores through March of the start-up year](tap-no-test-score-impact-year-one.md) — related
 - [Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results](chicago-tap-year-two-impact-evaluation.md) — related
 - [Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools](tap-increases-reported-mentoring-support.md) — related
+- [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](educators-receptive-to-feedback-and-compensation-strategies.md) — related

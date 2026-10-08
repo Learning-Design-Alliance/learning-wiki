@@ -50,3 +50,5 @@ Matched comparison study of Saga's blended tutoring models in three U.S. school 
 - [Saga tutoring impacts were larger in schools with fewer staffing challenges and in tutoring groups of two students or fewer](saga-impacts-larger-fewer-staffing-challenges-small-groups.md) — related
 - [Implementation analysis identified student engagement as a challenge for technology-driven tutoring programs](saga-implementation-engagement-challenges.md) — related
 - [During COVID-19 school disruptions, schools can take steps to ensure students continue to progress academically whether at home or at school](covid-continuity-of-learning-steps.md) — a broader claim this one bears on
+- [Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation](districts-lack-blended-learning-evidence-and-implementation-guidance.md) — a broader claim this one bears on
+- [Research has not yet identified blended learning implementation strategies that increase the likelihood of positive effects on students](no-identified-blended-learning-implementation-strategies.md) — related

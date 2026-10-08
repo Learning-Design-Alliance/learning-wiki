@@ -47,6 +47,7 @@ The guide's organizing framework is complementarity, "wherein opposites are attr
 - [Use choice data as a referendum to identify and improve least-chosen schools rather than magnetizing only the best](../strategies/improve-least-chosen-schools-via-choice-data.md)
 - [Implement desegregation, choice, and school improvement simultaneously rather than incrementally](../principles/simultaneous-desegregation-choice-improvement.md)
 - [Establish parent-staffed Parent Information Centers to equalize access to the choice process](../strategies/parent-information-centers-for-choice-equity.md)
+- [Evidence-based guide on presenting school choice information to parents](../elements/school-choice-info-presentation-guide.md)
 
 ## Key Sources
 - Willie, Charles V.; Alves, Michael J. (1996). Controlled Choice: A New Approach to School Desegregated Education and School Improvement. Education Alliance Press. https://eric.ed.gov/?id=ED430265

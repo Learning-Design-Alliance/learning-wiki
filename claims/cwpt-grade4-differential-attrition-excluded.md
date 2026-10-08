@@ -44,3 +44,4 @@ Study-characteristics appendix for the Greenwood et al. (1993) randomized contro
 
 ## Related Claims
 - [VIP shows potentially positive effects on reading achievement for fifth-grade English language learners (effect size 0.50, not statistically significant)](vip-potentially-positive-reading-achievement.md) — related
+- [The number and proportion of studies excluded due to ineligible design are decreasing over time](wwc-design-exclusions-decreasing-over-time.md) — related

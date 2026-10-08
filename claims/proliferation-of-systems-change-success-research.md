@@ -44,3 +44,4 @@ The brief's framing observation, from its introduction, that growing stakeholder
 
 ## Related Claims
 - [Evaluating knowledge organization systems by correctness alone is atemporal and must account for change over time](kos-evaluation-must-account-for-change-over-time.md) — related
+- [Philanthropic organizations support basic science by funding scientists, building research capacity, and training new generations of scientists](philanthropies-support-science-through-capacity-and-training.md) — related

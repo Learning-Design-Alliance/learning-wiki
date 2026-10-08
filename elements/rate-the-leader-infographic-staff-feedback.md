@@ -47,7 +47,8 @@ A published infographic from the Regional Educational Laboratory Mid-Atlantic, r
 - [Nearly all teacher survey domains and scales correlate small-to-moderately (0.26 to 0.46) with supervisors' ratings of principals' leadership](../claims/survey-supervisor-rating-correlations-026-046.md) [+W]
 
 ## Related Elements
-- 
+
+- [Competencies and Strategies of Effective School Turnaround Leaders infographic](turnaround-leaders-competencies-infographic.md)
 
 ## Examples
 

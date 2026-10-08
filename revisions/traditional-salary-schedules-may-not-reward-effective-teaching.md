@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/traditional-salary-schedules-may-not-reward-effective-teaching.md
+---
+
+# Revision history: [claims/traditional-salary-schedules-may-not-reward-effective-teaching](../claims/traditional-salary-schedules-may-not-reward-effective-teaching.md)
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-5236 (Evaluation of the Teacher Incentive Fund: Final Report on Implementation and Impacts of Pay-for-Performance Across Four Years) via eval_harness.py + ingest_extractions.py

@@ -44,3 +44,4 @@ An examination of school accountability systems in two states conducted by the R
 
 ## Related Claims
 - [Middle schools with low-performing students with disabilities are disproportionately identified for Targeted Support and Improvement, accounting for 67% of TSI schools in one state](middle-schools-disproportionately-identified-tsi-students-with-disabilities.md) — related
+- [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — related

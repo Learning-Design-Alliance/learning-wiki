@@ -49,3 +49,4 @@ Two quasi-experimental studies with 10,363 students. The Tuttle et al. (2015, Hi
 - [KIPP shows no discernible effects on high school student progression (graduation within 4 years)](kipp-null-student-progression.md) — related
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
 - [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](kipp-middle-schools-positive-significant-achievement-effects.md) — related
+- [Urban charter schools have more positive impacts on student achievement than other charter schools](urban-charter-schools-more-positive-achievement-impacts.md) — related

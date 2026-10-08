@@ -46,3 +46,4 @@ The article reports a trade-off between outcome measures in the experiment: "rep
 - [Display design affected parents' understanding of school information and their self-reported satisfaction and ease of use](display-design-understanding-satisfaction-ease.md) — a broader claim this one bears on
 - [Displaying data with icons or concise summaries led parents to choose schools with higher academic performance than graphs, numbers, or detailed displays](icons-concise-summaries-higher-performing-schools.md) — related
 - [Reporting the number of points possible for each metric led to better understanding of how the STAR score is calculated](points-possible-improves-score-understanding.md) — related
+- [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — related

@@ -48,3 +48,4 @@ Theoretical analysis in the paper's framing of the problem: pretests collected a
 - [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — possibly the same claim (merge candidate)
 - [Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off](late-pretest-variance-bias-tradeoff.md) — related
 - [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](late-pretest-preference-conditional-on-slow-early-impact-growth.md) — related
+- [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](rct-gold-standard-randomization-logic.md) — related

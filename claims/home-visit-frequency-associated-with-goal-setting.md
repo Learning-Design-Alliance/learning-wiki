@@ -47,3 +47,4 @@ ANOVA comparing home visiting frequency for 42 families with documented goals ve
 - [Slightly more than half of Head Start home-based families documented goals on the Family Partnership Agreement](half-of-head-start-families-document-goals.md) — related
 - [Goals set in Head Start home visiting were largely adult centered, with only a small portion addressing child development](head-start-home-visit-goals-adult-focused.md) — related
 - [Prior home visiting research indicates child-development-focused content is associated with child outcomes and sustained family participation](child-development-focus-linked-to-outcomes-and-participation.md) — related
+- [A program is said to have an effect when the difference between program and non-program groups is statistically significant](effect-defined-as-statistically-significant-group-difference.md) — related

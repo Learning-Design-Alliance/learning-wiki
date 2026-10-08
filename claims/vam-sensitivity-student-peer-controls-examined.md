@@ -54,3 +54,5 @@ The publication abstract states the paper's purpose: examining sensitivity and p
 - [Including track indicators and classroom achievement controls simultaneously reduces precision of value-added estimates](combined-specifications-reduce-precision.md) — a narrower finding that bears on this claim
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails](specification-differences-small-tail-changes.md) — related
+- [Bias, not precision loss, drives the difference in proxy pre-test value-added estimates](proxy-pretest-difference-driven-by-bias-not-precision.md) — related
+- [Omitting same-subject pre-tests affects value-added estimates more than excluding other student background characteristics](same-subject-pretest-omission-dominates-background-omission.md) — a narrower finding that bears on this claim

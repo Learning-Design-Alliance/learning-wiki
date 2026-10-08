@@ -12,7 +12,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (6 for, 14 mixed) · 19 studies (6 associational, 5 design, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 19 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (7 for, 14 mixed) · 20 studies (7 associational, 5 design, 4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 20 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge](../claims/verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) [~W], [Cohen's kappa paradox](../claims/cohens-kappa-paradox-decision-consistency.md) [~W], [grade cutoffs are arbitrary at adjacent scores](../claims/grade-cutoffs-arbitrary-adjacent-scores.md) [~W] and [a later-positioned item was more difficult](../claims/later-position-item-more-difficult-fatigue-effect.md) [~M]: arguments, a worked example and one item; used in the default design and the table for what they are.
 - [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](../claims/culturally-diverse-underrepresentation-biased-measures.md) [~W]: a narrative review (`r1`) attributing under-identification to the measures; it bears on the use of assessments for placement, and its title states a cause its entry does not test.
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](../claims/vam-omitting-background-lowers-disadvantaged-district-ratings.md) [+W] — attached 2026-10-08 from Matthew T. Johnson et al. (2015), which proposed "When constructing teacher value-added models, include student and peer background characteristics, especially for districts with many disadvantaged students"; tests this page's relationship.
+- [Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness](../claims/proxy-pretest-estimates-biased-but-informative.md) [+W] — attached 2026-10-08 from Elias Walsh et al. (2018), which proposed "Use proxy pre-tests to extend value-added coverage to grades and subjects lacking same-subject prior tests, while weighting estimates appropriately"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

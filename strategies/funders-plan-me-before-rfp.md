@@ -41,6 +41,7 @@ The brief recommends that, before releasing a request for proposals and awarding
 - [Engage a learning partner to support funders and grantees in designing and carrying out a learning plan and building M&E capacity](learning-partner-supports-funder-grantee-me.md)
 - [Measure usability, usefulness, and utilization during development and early implementation](measure-3us-during-development-and-early-implementation.md)
 - [Offer implications for funders and program implementers engaged in systems change](implications-for-funders-and-implementers-systems-change.md)
+- [Philanthropies jointly develop evaluation practice for basic science investments through a cross-organization working group](philanthropy-working-group-shared-evaluation-practice.md)
 
 ## Examples
 -

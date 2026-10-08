@@ -43,4 +43,4 @@ The authors' interpretive argument (type e) applying the behavioral accountabili
 
 
 ## Related Claims
--
+- [Outcome-based accountability is only one of multiple forms of accountability, each invoking distinct motivational mechanisms](outcome-accountability-one-of-multiple-forms.md) — related

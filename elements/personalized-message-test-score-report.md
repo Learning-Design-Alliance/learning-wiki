@@ -49,6 +49,7 @@ A behavioral-science-informed intervention in which a personalized message about
 ## Examples
 
 - [Pair personalized messages with an effort to call attention to them](../strategies/pair-personalized-messages-with-attention-efforts.md)
+- [Deliver salient, personalized ability signals to encourage educational investments](../strategies/salient-personalized-ability-signals-strategy.md)
 
 ## Key Sources
 - Naihobe Gonzalez. (2017). Small Changes Make a Big Difference: How Behavioral Science Improved Participation in Advanced Placement (Issue Brief). Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/small-changes-make-a-big-difference-how-behavioral-science-improved-participation-in-advanced

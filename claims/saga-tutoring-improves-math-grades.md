@@ -48,3 +48,5 @@ In the matched comparison analysis across three districts, the report states "Sa
 - [Saga tutoring impacts were larger for students with lower prior math achievement and for Black students](saga-tutoring-larger-impacts-lower-prior-achievement.md) — related
 - [Saga tutoring impacts were larger in schools with fewer staffing challenges and in tutoring groups of two students or fewer](saga-impacts-larger-fewer-staffing-challenges-small-groups.md) — related
 - [A portfolio of eight math tutoring programs showed positive and meaningful average effects on student math knowledge, perceptions, and beliefs](middle-years-math-tutoring-portfolio-positive-average-effects.md) — a broader claim this one bears on
+- [Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation](districts-lack-blended-learning-evidence-and-implementation-guidance.md) — a broader claim this one bears on
+- [Research has not yet identified blended learning implementation strategies that increase the likelihood of positive effects on students](no-identified-blended-learning-implementation-strategies.md) — related

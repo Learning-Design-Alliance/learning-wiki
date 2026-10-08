@@ -46,3 +46,4 @@ The randomized survey experiment reports that "student demographics affect both 
 - [Student demographics affect parents' likelihood of selecting into a school](demographics-affect-school-selection-likelihood.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [Family demographics were largely unrelated to goal setting, with child gender the only associated variable](demographics-unrelated-to-goal-activity.md) — related
+- [The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide](school-info-presentation-affects-parent-understanding.md) — related

@@ -167,3 +167,4 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [Teacher responses, including verbal rewards, can close off pupil thinking rather than sustain it](teacher-responses-can-close-off-pupil-thinking.md) — related
 - [Students who generate their own research question are apt to be more invested and more engaged](ur-student-generated-question-engagement.md) — related
 - [Early ability to delay gratification predicts later life outcomes](early-delay-of-gratification-predicts-later-outcomes.md) — both concern how external structure interacts with a learner's own self-regulation of motivation
+- [Traditional salary schedules may not reward effective teaching or give the most effective teachers incentives to work in high-need schools, motivating performance-based compensation](traditional-salary-schedules-may-not-reward-effective-teaching.md) — related

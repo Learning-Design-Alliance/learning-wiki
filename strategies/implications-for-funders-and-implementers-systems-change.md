@@ -42,6 +42,7 @@ The brief closes by offering "implications for funders and program implementers 
 - [Funders should develop learning goals, plan their M&E approach, and communicate expectations before releasing an RFP and awarding grants](funders-plan-me-before-rfp.md)
 - [Engage a learning partner to support funders and grantees in designing and carrying out a learning plan and building M&E capacity](learning-partner-supports-funder-grantee-me.md)
 - [Funders use structured self-reflection to focus place-based systems change investments](funder-self-reflection-to-focus-systems-change-investments.md)
+- [Philanthropies jointly develop evaluation practice for basic science investments through a cross-organization working group](philanthropy-working-group-shared-evaluation-practice.md)
 
 ## Examples
 -

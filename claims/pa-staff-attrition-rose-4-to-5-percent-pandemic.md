@@ -47,3 +47,4 @@ Statewide observational analysis of Pennsylvania public school staff attrition c
 - [Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed](pa-attrition-racial-gaps-grew-except-administrators.md) — related
 - [Remote learning was not associated with increased attrition among Pennsylvania elementary school teachers](remote-learning-not-associated-elementary-teacher-attrition.md) — related
 - [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — related
+- [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — related

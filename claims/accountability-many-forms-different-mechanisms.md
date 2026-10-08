@@ -44,3 +44,4 @@ The authors' review of the behavioral science literature on accountability, pres
 
 ## Related Claims
 - [Accountability can produce positive or negative effects depending on type, decision context, and task nature](accountability-effects-depend-on-type-context-task.md) — a narrower finding that bears on this claim
+- [Outcome-based accountability is only one of multiple forms of accountability, each invoking distinct motivational mechanisms](outcome-accountability-one-of-multiple-forms.md) — possibly the same claim (merge candidate)

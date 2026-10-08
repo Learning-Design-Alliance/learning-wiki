@@ -37,7 +37,8 @@ As a specific implementable recommendation within its multi-pronged approach, th
 - Improving teaching and school practice through professionally grounded accountability
 
 ## Related Strategies
-- 
+
+- [Use transparency to promote professional accountability](use-transparency-to-promote-professional-accountability.md)
 
 ## Examples
 -

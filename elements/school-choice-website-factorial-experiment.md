@@ -45,10 +45,12 @@ A randomized factorial experiment in which 3,500 low-income parents of school-ag
 - [Number-only displays maximized parents' understanding while graphs maximized satisfaction at the expense of understanding](../claims/numbers-understanding-graphs-satisfaction-tradeoff.md) [+M]
 
 ## Related Elements
-- 
+
+- [Online school chooser tool for low-income parents](online-school-chooser-tool-element.md)
 
 ## Examples
--
+
+- [Default school-listing sort order to academic performance rather than distance from home](../strategies/default-sort-order-academic-performance-strategy.md)
 
 ## Key Sources
 - Steven Glazerman, Ira Nichols-Barrer, Jon Valant, Jesse Chandler, Alyson Burnett. (2020). The Choice Architecture of School Choice Websites. Journal of Research on Educational Effectiveness, vol. 13, issue 2. https://www.mathematica.org/publications/the-choice-architecture-of-school-choice-websites
