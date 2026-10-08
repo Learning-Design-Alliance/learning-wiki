@@ -46,6 +46,7 @@ Value-added models are statistical models used in Oklahoma's evaluation system t
 
 - [Value added as a measure of teacher effectiveness](value-added-teacher-effectiveness-measure.md)
 - [Value-added modeling as a framework for measuring educator effectiveness](value-added-modeling-educator-effectiveness-framework.md)
+- [Value-added measurement of teacher performance as the basis for defining highest-performing teachers](value-added-teacher-performance-measurement-nccee-brief.md)
 
 ## Examples
 

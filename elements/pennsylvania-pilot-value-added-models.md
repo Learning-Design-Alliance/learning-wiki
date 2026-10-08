@@ -44,6 +44,7 @@ The report describes value-added models developed to estimate the contributions 
 ## Related Elements
 
 - [Value-added models (VAMs) developed and estimated for Phase 1 of the Pennsylvania Teacher and Principal Evaluation Pilot](pennsylvania-pilot-phase1-vam-estimates.md)
+- [Team Pennsylvania Foundation teacher and principal evaluation pilot project](team-pennsylvania-evaluation-pilot-project.md)
 
 ## Examples
 -

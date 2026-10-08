@@ -48,3 +48,4 @@ The article's description of the Full Roster Method (FRM), attributed to Hock an
 - [Applying the Full Roster-Plus Method instead of the Full Roster Method produces very small empirical differences in value-added estimates in District of Columbia Public Schools data](frp-vs-frm-very-small-empirical-differences.md) — related
 - [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](dc-value-added-report-design-features.md) — related
 - [The full roster and full roster-plus methods are empirically similar](full-roster-methods-empirically-similar.md) — related
+- [The report synthesizes 21 empirical studies on value-added model key issues and findings](vam-report-synthesized-21-empirical-studies.md) — related

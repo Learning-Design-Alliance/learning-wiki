@@ -51,3 +51,4 @@ The brief reports that the two measures accounting for students' past achievemen
 - [Principals are essential to student achievement, with principals' effects almost as large as teachers' effects](principals-essential-student-achievement-effects-near-teacher-size.md) — related
 - [Average achievement and adjusted average achievement measures provide no information for predicting principals' contributions to student achievement in the following year](average-achievement-measures-no-predictive-information-principals.md) — related
 - [School value-added and adjusted school value-added provide at most a small amount of information for predicting principals' future contributions to student achievement](school-value-added-small-predictive-information-principals.md) — possibly the same claim (merge candidate)
+- [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related

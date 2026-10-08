@@ -50,6 +50,7 @@ TAP is a whole-school intervention that aims to improve schools by raising teach
 
 - [Teacher Advancement Program (TAP): performance pay, professional development, and advancement opportunities tied to student achievement growth](teacher-advancement-program-tap-chicago.md)
 - [Chicago TAP evaluation project (2006-2012), prepared for the Joyce Foundation](chicago-tap-evaluation-project-joyce-foundation.md)
+- [Teacher Advancement Program (TAP): a whole-school teacher evaluation, compensation, and professional development model](tap-teacher-advancement-program-whole-school-model.md)
 
 ## Examples
 -

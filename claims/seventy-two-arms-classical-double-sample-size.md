@@ -49,3 +49,4 @@ From the simulation-based power calculations comparing classical and Bayesian me
 - [Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision](bayesian-partial-pooling-precision-false-positive-control.md) — related
 - [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](classical-inference-prohibitive-sample-sizes-factorial.md) — a broader claim this one bears on
 - [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — related
+- [The number of schools in a study would have to nearly double to compensate for the precision lost by using school-level proficiency instead of student-level data](nearly-double-schools-compensate-school-level-data.md) — related

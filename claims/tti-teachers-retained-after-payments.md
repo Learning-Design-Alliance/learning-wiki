@@ -47,3 +47,5 @@ A key finding of the TTI evaluation report, from the multisite randomized experi
 - [Most TTI teachers stayed on the job even after transfer payments ended](tti-teachers-stayed-after-payments-ended.md) — possibly the same claim (merge candidate)
 - [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](selective-transfer-incentive-20000-hard-to-staff-schools.md) — related
 - [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — related
+- [The Talent Transfer Initiative increased elementary school math and reading test scores by the equivalent of 4 to 10 percentile points](tti-elementary-test-score-gains.md) — related
+- [TTI did not increase test scores in middle schools](tti-no-middle-school-effects.md) — related

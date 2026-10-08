@@ -53,3 +53,4 @@ The report's key findings state that TFA corps members hired in the first two ye
 - [An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement](clark-2015-elementary-tfa-indeterminate.md) — related
 - [Under the i3 scale-up grant, TFA planned to grow its corps by 80 percent and aimed for a majority of its teachers to be rated highly effective by the 2014-2015 school year](tfa-i3-grant-growth-and-effectiveness-goals.md) — related
 - [During the first two years of the i3 scale-up, TFA expanded its corps by 25 percent but fell short of annual targets for increasing the number of teachers and teacher effectiveness](tfa-i3-scale-up-grew-25-percent-but-missed-targets.md) — related
+- [The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers](americas-teacher-corps-federal-proposal.md) — related

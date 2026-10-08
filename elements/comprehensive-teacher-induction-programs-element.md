@@ -47,7 +47,9 @@ The article describes comprehensive teacher induction as a support model for nov
 - [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](../claims/comprehensive-induction-no-classroom-practice-gains-first-year.md) [-W]
 
 ## Related Elements
-- 
+
+- [Comprehensive teacher induction program model](comprehensive-teacher-induction-program-model.md)
+- [Comprehensive teacher induction programs](comprehensive-teacher-induction-programs.md)
 
 ## Examples
 -

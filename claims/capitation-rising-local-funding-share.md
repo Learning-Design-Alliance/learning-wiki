@@ -47,3 +47,4 @@ In the same 1991-92 to 2003-04 state finance analysis, the article reports that 
 - [Post-capitation disability-rate declines were concentrated in subjectively diagnosed categories and occurred more quickly in less severe categories](capitation-declines-subjective-mild-categories.md) — related
 - [Census funding is viewed as a cost-containment approach for special education finance](census-funding-viewed-as-cost-containment.md) — related
 - [Census funding has raised concerns about funding equity](census-funding-equity-concerns.md) — related
+- [The initiative was associated with an overall increase in promotions to the next grade, concentrated among special education students](focus-high-schools-promotion-increase-special-education.md) — related

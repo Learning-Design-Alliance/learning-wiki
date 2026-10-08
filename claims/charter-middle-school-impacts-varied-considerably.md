@@ -56,3 +56,6 @@ Findings from the lottery-based study of 33 charter middle schools across 13 sta
 - [Lottery-based research on schools of choice faces identifiable challenges](lottery-based-research-challenges-schools-of-choice.md) — related
 - [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related
 - [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related
+- [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — related
+- [Lottery-based charter middle schools show no average difference from traditional public schools in student behavior and school progress](charter-middle-schools-no-average-behavior-progress-difference.md) — related
+- [Impacts of charter middle schools on student outcomes varied widely across schools](charter-school-impacts-varied-widely-across-schools.md) — possibly the same claim (merge candidate)

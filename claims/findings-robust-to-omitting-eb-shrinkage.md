@@ -47,3 +47,5 @@ Alternative-specification check of the main distributional findings, re-estimati
 - [Shrinkage has no statistically significant effect on the relative probability that teachers of hard-to-predict students receive extreme value-added ratings](shrinkage-no-significant-effect-extreme-ratings.md) — related
 - [Shrinkage does not change accountability consequences for teachers of hard-to-predict students, since extreme-rating probabilities are unaffected](shrinkage-leaves-accountability-consequences-unchanged.md) — related
 - [Main results are robust to grouping schools into four poverty quartiles instead of five quintiles](results-robust-to-quartile-grouping.md) — related
+- [Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools](high-poverty-middle-schools-underrepresented-highest-performing-teachers.md) — related
+- [The report synthesizes 21 empirical studies on value-added model key issues and findings](vam-report-synthesized-21-empirical-studies.md) — related

@@ -48,3 +48,4 @@ Descriptive overview in the brief's opening text states the national scale of th
 - [Online charter school students receive less live teacher contact time in a week than conventional-school students receive in a day](online-charters-low-live-teacher-contact-time.md) — related
 - [Online charter schools place significant expectations on parents, with 43, 56, and 78 percent at high school, middle, and elementary levels expecting active parental participation in instruction](online-charters-parent-participation-expectations.md) — related
 - [The charter-school sector has grown to nearly 7,000 schools serving nearly 3 million students since 1992](charter-sector-growth-nearly-7000-schools.md) — related
+- [Much remains unknown about charter school performance, particularly at the elementary level](charter-elementary-school-performance-little-known.md) — related

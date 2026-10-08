@@ -53,3 +53,5 @@ The report's Key Findings state that a K-3 school-level growth measure was estim
 - [Maryland lacked a measure of schools' support of academic growth from kindergarten to grade 3, creating a critical accountability need under ESSA](maryland-lacked-k3-growth-measure-essa-need.md) — related
 - [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — related
 - [Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data](value-added-error-rates-teacher-and-school-upper-elementary.md) — related
+- [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
+- [Lower measurement error rates can be achieved when schools, rather than individual teachers, are the performance unit](school-as-performance-unit-lower-error-rates.md) — related

@@ -41,6 +41,7 @@ This strategy directs local education agencies to develop or update continuity o
 
 - [State education agencies can commission regional educational laboratory analytic support to develop COVID-19 mitigation guidance for school reopening](state-agencies-commission-rel-analytic-support-reopening-guidance.md)
 - [Initiate trauma-informed planning before the start of the school year](initiate-trauma-planning-before-school-year-start.md)
+- [Review the evaluation plan and possibilities for further research when funding is restored](roads-to-success-further-research-if-funding-restored.md)
 
 ## Examples
 -

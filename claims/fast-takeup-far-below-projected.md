@@ -46,3 +46,4 @@ Implementation data from the validation project in the School District of Philad
 - [Fidelity of FAST program-component delivery was high (97–98 percent overall), but reach to families fell far below design expectations](fast-fidelity-high-reach-low.md) — possibly the same claim (merge candidate)
 - [Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT](fast-rct-no-meaningful-enduring-effects.md) — related
 - [The study concluded FAST is unlikely to meaningfully contribute to turning around low-performing schools, though reading benefits may exist for participating families](fast-unlikely-school-turnaround-conclusion.md) — related
+- [Participation rates for state assessments are generally very high and exceed RCT minimum participation requirements](state-test-participation-rates-high.md) — related

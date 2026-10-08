@@ -50,3 +50,4 @@ The study examines college persistence among Florida students as one of two long
 - [The study examines charter high school effects on educational attainment in two settings, Florida and Chicago](charter-attainment-study-florida-chicago-scope.md) — related
 - [Charter middle school students who attend a charter high school are 7 to 15 percentage points more likely to earn a standard diploma than those who transition to a traditional public high school](charter-high-school-diploma-attainment-gain.md) — related
 - [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
+- [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related

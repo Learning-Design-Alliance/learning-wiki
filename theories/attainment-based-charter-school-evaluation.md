@@ -44,7 +44,8 @@ The report frames its contribution as moving beyond the standard outcome measure
 - [Charter middle school students who attend a charter high school are 8 to 10 percentage points more likely to attend college than those who transition to a traditional public high school](../claims/charter-high-school-college-attendance-gain.md) [+M]
 
 ## Related Theories
-- 
+
+- [Charter school effects as a multi-dimensional policy question spanning achievement, attainment, integration, and competition](charter-effects-four-dimension-framework.md)
 
 ## Examples
 -

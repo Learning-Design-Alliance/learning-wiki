@@ -54,3 +54,4 @@ This finding is the empirical backbone of the argument for growth (or "value-add
 - [Early socioeconomic math performance gaps grow over time, producing substantial differences by fourth grade](early-math-gaps-grow-by-fourth-grade.md) — related
 - [Accurate teacher-student data links are required when high-stakes teacher evaluation decisions include student achievement growth](accurate-teacher-student-links-high-stakes-evaluation.md) — related
 - [Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — related
+- [The paper examines consequences for teachers versus students of classifying and misclassifying teachers as effective or ineffective](value-added-misclassification-consequences-teachers-students.md) — related

@@ -45,3 +45,5 @@ The paper's background synthesis states that "the average charter school perform
 ## Related Claims
 - [The average charter school performs about the same as nearby traditional public schools, but charter effects vary greatly](average-charter-similar-to-nearby-traditional-schools.md) — possibly the same claim (merge candidate)
 - [Charter middle school students who attend a charter high school are 8 to 10 percentage points more likely to attend college than those who transition to a traditional public high school](charter-high-school-college-attendance-gain.md) — related
+- [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related
+- [Little evidence that Philadelphia charter schools help or harm achievement of students in nearby district schools](philadelphia-charter-no-spillover-nearby-district-schools.md) — related

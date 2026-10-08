@@ -41,7 +41,8 @@ Mandatory-random student drug testing (MRSDT) is a school-based program in which
 - [Mandatory-random student drug testing reduces high school students' reported past-30-day substance use relative to schools without MRSDT](../claims/mrsdt-reduces-past-30-day-substance-use.md) [+W]
 
 ## Related Elements
-- 
+
+- [Mandatory-random student drug testing programs for high school students](mandatory-random-student-drug-testing-programs.md)
 
 ## Examples
 -

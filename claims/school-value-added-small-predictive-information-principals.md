@@ -49,3 +49,4 @@ Key finding from the report's simulation of predictive accuracy using Pennsylvan
 - [The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy](two-analysis-approach-principal-measure-accuracy.md) — related
 - [Averaging principal performance measures across multiple recent years does not improve their accuracy for predicting principals' contributions in the following year](multiyear-averaging-no-accuracy-gain-principal-measures.md) — related
 - [School value added provides very poor information for revealing principals' persistent levels of effectiveness](school-value-added-poor-information-principal-effectiveness.md) — related
+- [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related

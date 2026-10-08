@@ -48,6 +48,7 @@ The report treats Bayesian hypothesis testing as one of the approaches addressed
 - [Bayesian adaptive approach to randomized policy evaluations for estimating heterogeneous treatment effects](bayesian-adaptive-policy-evaluation-heterogeneous-effects.md)
 - [Bayesian adaptive randomized program evaluation framework](bayesian-adaptive-program-evaluation-framework.md)
 - [BASIE framework: Bayesian interpretation of impact estimates as an alternative to null hypothesis significance testing](basie-bayesian-interpretation-of-estimates-framework.md)
+- [A framework that balances Type I and Type II errors for addressing the multiple testing problem in social policy impact evaluations](type-i-type-ii-balance-framework-multiple-testing.md)
 
 ## Examples
 

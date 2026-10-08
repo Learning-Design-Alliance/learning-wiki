@@ -49,3 +49,4 @@ IES evaluation study comparison of student test scores for secondary math teache
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — a broader claim this one bears on
 - [The findings contradict claims that alternative teacher preparation programs such as Teach For America harm students](tfa-findings-contradict-harm-claims.md) — a broader claim this one bears on
 - [Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction](tfa-positive-math-achievement-impact.md) — related
+- [Alternative routes to teaching were promoted in the past decade because of concerns about teacher shortages and teacher quality](alternative-routes-promoted-shortage-quality-concerns.md) — related

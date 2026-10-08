@@ -49,3 +49,4 @@ Distributional analysis of unshrunken individual impact estimates across the 15 
 - [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
 - [The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones](rd-non-parametric-methods-favored.md) — related
 - [Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity](rd-shrunken-bias-below-0-07-sd-external-validity.md) — related
+- [Schools that missed AYP showed some positive subsequent achievement impacts under NCLB accountability](missing-ayp-positive-achievement-impacts.md) — related

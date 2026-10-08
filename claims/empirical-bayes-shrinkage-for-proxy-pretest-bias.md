@@ -53,3 +53,4 @@ The authors propose, based on the Oklahoma analysis, that "empirical Bayes shrin
 - [Bias, not precision loss, drives the difference in proxy pre-test value-added estimates](proxy-pretest-difference-driven-by-bias-not-precision.md) — related
 - [Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness](proxy-pretest-estimates-biased-but-informative.md) — related
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
+- [The paper clarifies confusion about the use of value-added information in teacher evaluation](value-added-use-of-information-clarified.md) — a broader claim this one bears on

@@ -52,3 +52,4 @@ The article compares empirical estimates from the two joint-responsibility metho
 - [The Full Roster Method offers the most promise for robust, practical implementation among the three co-teaching value-added methods considered.](full-roster-method-most-promise-practical-implementation.md) — a broader claim this one bears on
 - [The full roster and full roster-plus methods are empirically similar](full-roster-methods-empirically-similar.md) — related
 - [The Teacher Team Method and Full Roster Method provide a more stable approach than the Partial Credit Method for estimating teacher effects when students have multiple teachers for the same subject.](teacher-team-and-full-roster-methods-more-stable-than-partial-credit.md) — related
+- [The report synthesizes 21 empirical studies on value-added model key issues and findings](vam-report-synthesized-21-empirical-studies.md) — related

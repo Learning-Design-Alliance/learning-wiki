@@ -42,6 +42,8 @@ This element is a teacher-level value-added application described on the publica
 - [Value-added model for measuring school and teacher performance in DC Public Schools (IMPACT and TEAM)](dc-impact-team-value-added-model.md)
 - [Value-added models (VAMs) developed and estimated for Phase 1 of the Pennsylvania Teacher and Principal Evaluation Pilot](pennsylvania-pilot-phase1-vam-estimates.md)
 - [New Leaders school and teacher effectiveness identification methods](new-leaders-effectiveness-identification-methods.md)
+- [Methods for identifying effective schools in Memphis City Schools (Year 2)](memphis-school-effectiveness-identification-methods-year-2.md)
+- [Value-added model for identifying effective schools in Memphis City school district](memphis-value-added-school-effectiveness-model.md)
 
 ## Examples
 -

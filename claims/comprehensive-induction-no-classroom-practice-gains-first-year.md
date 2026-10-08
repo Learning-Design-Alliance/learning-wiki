@@ -49,3 +49,6 @@ First-year results from a large-scale randomized controlled study of two compreh
 - [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](teacher-induction-no-retention-gain-year-1.md) — related
 - [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
+- [Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes](high-intensity-teacher-induction-retention-outcomes-study.md) — a broader claim this one bears on
+- [Comprehensive teacher induction showed no impacts on outcomes other than student achievement](induction-no-other-outcome-impacts.md) — a broader claim this one bears on
+- [One year of comprehensive teacher induction showed no impact on student achievement](one-year-induction-no-impact.md) — related

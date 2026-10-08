@@ -58,3 +58,4 @@ The publication's own summary of the evaluation states that the study measured a
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related
 - [The second phase of the national KIPP evaluation nearly doubled the sample to 43 KIPP middle schools and estimated achievement impacts in four subjects](kipp-evaluation-43-middle-schools-four-subjects.md) — related
 - [The national KIPP evaluation uses experimental and quasi-experimental methods to estimate effects of KIPP middle schools across the country](kipp-evaluation-experimental-quasi-experimental-design.md) — a broader claim this one bears on
+- [Charter schools, on average, show test-score impacts that are not substantially better or worse than conventional public schools](charter-schools-test-score-impacts-comparable-to-traditional-public-schools.md) — related

@@ -46,3 +46,4 @@ The report cites survey statistics on teacher training and technology reliance i
 - [Only 20 percent of U.S. teachers felt well prepared to integrate educational technology into classroom instruction (1998)](only-20-percent-teachers-prepared-integrate-technology.md) — related
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](technology-training-spending-inadequate.md) — related
+- [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — related

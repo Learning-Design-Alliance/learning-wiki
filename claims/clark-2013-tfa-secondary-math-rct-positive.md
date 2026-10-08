@@ -62,3 +62,4 @@ This RCT randomly assigned students in 45 secondary schools to a math class taug
 - [Secondary math students taught by Teaching Fellows teachers had test scores similar to peers taught by traditional-route teachers](teaching-fellows-secondary-math-similar-traditional.md) — related
 - [Secondary math students taught by Teach For America teachers outperformed peers taught by traditional-route teachers by 0.06 standard deviations](tfa-secondary-math-outperforms-traditional-006-sd.md) — related
 - [Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence](within-school-random-assignment-feasible-but-challenging.md) — related
+- [The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers](americas-teacher-corps-federal-proposal.md) — related

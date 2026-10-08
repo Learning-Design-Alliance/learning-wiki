@@ -45,3 +45,4 @@ Empirical estimates computed from data drawn from four previously published educ
 ## Related Claims
 - [The large sample requirement of RD designs is driven primarily by bandwidth selection, not by adjusting for random misspecification error](rd-sample-need-driven-by-bandwidth-selection.md) — related
 - [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
+- [Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education evaluations](rd-designs-need-three-to-four-times-larger-samples-than-experiments.md) — reports the opposite

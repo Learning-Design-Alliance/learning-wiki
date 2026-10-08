@@ -48,6 +48,7 @@ The article proposes evaluating the late pretest decision using a loss function 
 
 - [Variance-bias tradeoff framework for deciding whether to use late pretest data in education RCTs](variance-bias-tradeoff-late-pretests.md)
 - [Neyman causal inference framework distinguishing finite-population and super-population models for clustered education RCTs](neyman-framework-clustered-rct-causal-models.md)
+- [Suitability and feasibility framework for deciding whether to use state tests in education experiments](suitability-feasibility-framework-state-tests-rct.md)
 
 ## Examples
 -

@@ -49,3 +49,6 @@ Implementation findings from the seven-district TTI pilot report. The incentive 
 - [Most TTI teachers stayed on the job even after transfer payments ended](tti-teachers-stayed-after-payments-ended.md) — related
 - [TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points](tti-increased-elementary-test-scores.md) — related
 - [TTI was more cost-effective than similar teacher-transfer incentive interventions](tti-more-cost-effective-than-similar-interventions.md) — related
+- [Highest-performing teachers moved students up 4 to 14 percentile points per school year relative to the average district teacher](highest-performing-teachers-4-to-14-percentile-gains.md) — related
+- [The Talent Transfer Initiative increased elementary school math and reading test scores by the equivalent of 4 to 10 percentile points](tti-elementary-test-score-gains.md) — related
+- [TTI did not increase test scores in middle schools](tti-no-middle-school-effects.md) — related

@@ -50,6 +50,7 @@ The study defines teacher performance using value-added estimates from a student
 ## Related Theories
 
 - [Value-added modeling as a framework for measuring educator effectiveness](value-added-modeling-educator-effectiveness-framework.md)
+- [Value-added measurement of teacher performance as the basis for defining highest-performing teachers](value-added-teacher-performance-measurement-nccee-brief.md)
 
 ## Examples
 

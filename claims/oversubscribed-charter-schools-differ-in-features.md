@@ -48,3 +48,4 @@ A comparison of oversubscribed and non-oversubscribed charter middle schools in 
 - [On average, charter middle schools' impacts on student achievement were negative but not statistically significant](charter-middle-schools-average-achievement-impacts-negative-nonsignificant.md) — related
 - [Charter middle school impacts were more positive for more disadvantaged schools and students and more negative for the more advantaged](charter-impacts-more-positive-for-disadvantaged-students.md) — related
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related
+- [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — related

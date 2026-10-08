@@ -51,3 +51,6 @@ The publication abstract describes the study's design: analysis of individual st
 - [Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used](residual-bias-nonexperimental-estimators.md) — related
 - [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](first-rigorous-study-kipp-all-grade-levels.md) — related
 - [The report concludes there is reason for concern about whether the online charter school sector is likely to be effective in promoting student achievement](online-charters-effectiveness-concern.md) — related
+- [Much remains unknown about charter school performance, particularly at the elementary level](charter-elementary-school-performance-little-known.md) — related
+- [Differences among individual charter authorizers are likely greater than differences across authorizer types](individual-authorizer-differences-exceed-type-differences.md) — related
+- [In Ohio, charter schools authorized by nonprofits are less effective in promoting student achievement than other charter schools](nonprofit-authorized-charters-less-effective-ohio.md) — related

@@ -47,3 +47,4 @@ Reliability analysis of the two case-study examinations, whose unadjusted Cronba
 - [Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)](intra-testlet-items-slightly-more-difficult.md) — related
 - [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](mrbq-scale-reliability-mixed.md) — related
 - [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) — related
+- [Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons](unreliability-reduces-rct-statistical-power.md) — related

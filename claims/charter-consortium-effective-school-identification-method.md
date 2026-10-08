@@ -47,3 +47,4 @@ Descriptive report abstract stating the scope of the identification method: a co
 - [Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year](pittsburgh-vam-report-2016-documents-district-use.md) — related
 - [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](dc-value-added-report-design-features.md) — related
 - [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related
+- [The EPIC project applied a set of methods to identify effective schools and teachers across a multi-state charter school consortium in its second year.](epic-year2-methods-identify-effective-schools-teachers.md) — related

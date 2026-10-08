@@ -59,9 +59,11 @@ Badging works when it functions as a competency signal, not a participation trop
 6. Review badge rigor periodically — retire or tighten badges that are awarded near-universally.
 
 ## Related Strategies
+
 - [Competency-Based Progression](competency-based-progression.md) — badging is the recognition layer for competency-based pacing
 - [Gamification](gamification.md) — badges are one gamification mechanic; rigor of assessment is the key differentiator
 - [Mastery Learning](mastery-learning.md) — badges awarded only on demonstrated mastery enact mastery-based advancement
+- [Reward service in high-poverty Title I schools with a salary supplement and portable credential for recognized effective teachers](atc-title-i-salary-supplement-strategy.md)
 
 ## Examples
 - **[Mozilla Open Badges](https://openbadges.org)** — open technical standard for verifiable digital badges with issuer, criteria, and evidence metadata; the de facto interoperability standard.

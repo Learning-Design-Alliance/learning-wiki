@@ -45,3 +45,4 @@ The chapter's key findings state that "Children were equally likely to be homesc
 ## Related Claims
 - [Online charter schools place significant expectations on parents, with 43, 56, and 78 percent at high school, middle, and elementary levels expecting active parental participation in instruction](online-charters-parent-participation-expectations.md) — related
 - [NHES-based estimates of homeschooling grew from 1.4% of U.S. schoolchildren in 1996 to 3.4% (about 1,773,000 children) in 2012](nhes-homeschooling-growth-1-4-to-3-4-percent.md) — related
+- [Quantitative research on homeschooling covers available data sources, estimates of homeschooled children, part-time homeschooling, and families' reasons for homeschooling](quantitative-homeschooling-research-scope.md) — a broader claim this one bears on

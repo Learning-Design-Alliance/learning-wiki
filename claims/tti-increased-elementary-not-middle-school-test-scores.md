@@ -46,3 +46,5 @@ Impact finding from the TTI evaluation's key findings: the transfer-incentive in
 - [TTI transfer incentives did not increase middle school test scores](tti-no-middle-school-effect.md) — possibly the same claim (merge candidate)
 - [TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points](tti-increased-elementary-test-scores.md) — related
 - [TTI was more cost-effective than similar teacher-transfer incentive interventions](tti-more-cost-effective-than-similar-interventions.md) — related
+- [The Talent Transfer Initiative increased elementary school math and reading test scores by the equivalent of 4 to 10 percentile points](tti-elementary-test-score-gains.md) — related
+- [TTI did not increase test scores in middle schools](tti-no-middle-school-effects.md) — possibly the same claim (merge candidate)

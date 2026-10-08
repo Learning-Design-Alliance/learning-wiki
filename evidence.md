@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 5,814 |
-| Evidence entries | 6,776 |
-| Distinct studies | 1,990 |
-| Claims resting on one study | 5,600 (96%) |
+| Claims | 5,927 |
+| Evidence entries | 6,890 |
+| Distinct studies | 2,033 |
+| Claims resting on one study | 5,713 (96%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 596 of 1,990 (30%) |
+| Studies reporting an effect size | 596 of 2,033 (29%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 40 | 267 | 92 | 277 | 676 |
+| causal | 40 | 270 | 92 | 288 | 690 |
 | quant-synthesis | 22 | 66 | 31 | 121 | 240 |
-| review | 21 | 80 | 32 | 68 | 201 |
-| associational | 0 | 93 | 98 | 93 | 284 |
+| review | 21 | 81 | 32 | 71 | 205 |
+| associational | 0 | 93 | 98 | 104 | 295 |
 | qualitative | 38 | 78 | 24 | 23 | 163 |
-| design | 9 | 102 | 65 | 12 | 188 |
-| theoretical | 29 | 141 | 38 | 30 | 238 |
+| design | 9 | 103 | 67 | 12 | 191 |
+| theoretical | 30 | 143 | 40 | 36 | 249 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 336 (17%) | 984 (49%) | 566 (28%) | 104 (5%) |
+| 350 (17%) | 1,005 (49%) | 574 (28%) | 104 (5%) |
 
-**Studies per claim:** 0: 0, 1: 5,600, 2: 160, 3: 48, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 5,713, 2: 160, 3: 48, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -50,6 +50,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
 | [Curtis J. Jones and DongMei Li, University of Wisconsin-Milwaukee. (2021). Testing the Impact and Scalability …](claims/ff-differential-attendance-subgroups.md) | q3 | 12 | 12 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
+| [Steven Glazerman and Jeffrey Max. (2011). Do Low-Income Students Have Equal Access to the Highest-Performing …](claims/district-a-extreme-middle-school-math-disparity.md) | q2 | 10 | 10 |
 | [Christina Clark Tuttle, Brian Gill, Philip Gleason, Virginia Knechtel, Ira Nichols-Barrer, Alexandra Resch. …](claims/kipp-evaluation-43-middle-schools-four-subjects.md) | q2 | 10 | 10 |
 | [Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is …](claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) | q3 | 10 | 10 |
 | [Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of …](claims/extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) | q3 | 10 | 10 |
@@ -62,7 +63,6 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student …](claims/dialogue-kt-performance-is-relatively-low-compared-to-standard-kt.md) | q2 | 9 | 9 |
 | [Weiss, David J. (1980). Final Report: Computerized Adaptive Performance Evaluation. …](claims/achievement-dimensionality-changes-during-instruction.md) | q2 | 8 | 8 |
 | [Guskey, Thomas R.; Gates, Sally L. (1985). A Synthesis of Research on Group-Based Mastery Learning Programs. …](claims/group-mastery-positive-achievement-all-studies.md) | q3 | 8 | 8 |
-| [Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students …](claims/belief-consistent-facts-better-recognized.md) | q3 | 8 | 8 |
 
 ## Citation load against evidence base
 
@@ -134,12 +134,12 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 321 | 2 | 0 |
-| [elements](elements/index.md) | 1,420 | 1,092 | 1 | 0 |
+| [elements](elements/index.md) | 1,449 | 1,117 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 109 | 8 | 0 |
-| [strategies](strategies/index.md) | 3,645 | 2,336 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,656 | 2,336 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,133 | 922 | 1 | 0 |
+| [theories](theories/index.md) | 1,146 | 933 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
 | [designs](designs/index.md) | 204 | 141 | 1 | 0 |
 

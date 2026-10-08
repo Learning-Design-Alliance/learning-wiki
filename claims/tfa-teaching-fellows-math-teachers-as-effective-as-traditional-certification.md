@@ -55,3 +55,4 @@ A large-scale random assignment study of secondary school math teachers compared
 - [TFA corps members hired in the first two years of the i3 scale-up were as effective as other teachers in the same high-poverty schools in teaching reading and math](tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools.md) — related
 - [Secondary math students taught by Teaching Fellows teachers had test scores similar to peers taught by traditional-route teachers](teaching-fellows-secondary-math-similar-traditional.md) — possibly the same claim (merge candidate)
 - [Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence](within-school-random-assignment-feasible-but-challenging.md) — related
+- [The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers](americas-teacher-corps-federal-proposal.md) — related

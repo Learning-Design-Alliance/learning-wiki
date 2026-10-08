@@ -47,3 +47,4 @@ Scope statement for the 2013 School Crime Supplement analysis: the report "provi
 - [Victims of any crime, theft, and violence reported fearing attack or harm at school at higher rates than nonvictims](victims-fear-attack-higher-than-nonvictims.md) — related
 - [Victims of any crime at school reported being bullied at far higher rates than nonvictims (57 percent vs. 20.4 percent)](victims-bullied-57-vs-nonvictims-20-4.md) — related
 - [Victimized students reported negative school conditions at higher rates than nonvictims](victims-report-negative-school-conditions-higher-rates.md) — related
+- [National estimates indicate nearly half of students report having ever used illicit drugs and most report having drunk alcohol before leaving high school](national-estimates-adolescent-substance-use-prevalence.md) — related

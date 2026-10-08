@@ -47,3 +47,4 @@ Randomized experiment examining student achievement and other outcomes. The stud
 - [Teach For America teachers were more likely than their peers to report problems with student behavior](tfa-teachers-report-more-behavior-problems.md) — related
 - [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — related
 - [Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction](tfa-positive-math-achievement-impact.md) — related
+- [Alternative routes to teaching were promoted in the past decade because of concerns about teacher shortages and teacher quality](alternative-routes-promoted-shortage-quality-concerns.md) — related

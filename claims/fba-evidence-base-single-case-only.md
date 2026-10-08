@@ -45,3 +45,4 @@ The research summary reports the screening outcome: "no eligible group design st
 ## Related Claims
 - [FBA-based interventions show potentially positive effects on school engagement for children identified with or at risk for an emotional disturbance](fba-potentially-positive-school-engagement.md) — related
 - [Single-case evidence on FBA-based interventions for social-emotional competence does not reach the threshold for an effectiveness rating](fba-social-emotional-competence-below-threshold.md) — related
+- [Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base](educators-engage-researchers-via-what-works-clearinghouse.md) — related

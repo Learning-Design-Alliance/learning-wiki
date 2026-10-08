@@ -45,3 +45,5 @@ Analysis of data from a large urban district finds that "students who score at t
 ## Related Claims
 - [Some educators are concerned that students scoring at the bottom or top of a test's score distribution will negatively affect the value-added estimates of those students' teachers](educator-concern-floor-ceiling-value-added.md) — related
 - [The lower a test's score ceiling, the more teacher value-added estimates shrink toward the average teacher, because ceiling scores contain imprecise information about achievement](lower-ceilings-shrink-value-added-toward-average.md) — related
+- [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — reports the opposite
+- [The paper clarifies confusion about the use of value-added information in teacher evaluation](value-added-use-of-information-clarified.md) — a broader claim this one bears on
