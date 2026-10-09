@@ -47,7 +47,7 @@ Like Realism, Pragmatism requires empirical observation of the real world; unlik
 - [Dewey's five-phase reflective cycle of thought](dewey-five-phase-reflective-cycle.md)
 
 ## Examples
-- [Project-Based Learning](../strategies/project-based_learning.md)
+- [Project-Based Learning](../strategies/project-based-learning.md)
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Key Sources

@@ -55,14 +55,14 @@ Modeling works because learners acquire social-cognitive skills by observing a c
 1. **Choose an anchor** — a story, character, news event, or [Case Study](../elements/case-studies.md) with genuine, defensible perspective differences.
 2. **Model empathic reasoning aloud** — use a [Think-Aloud](../elements/think-aloud.md) structure: "When I read what she said, I notice she might be feeling… I think that because… I could be wrong, so I'd want to ask…"
 3. **Explain the move explicitly** — name the skill being demonstrated (noticing cues, withholding judgment, checking assumptions) so learners can label and reuse it.
-4. **Facilitate structured discussion** — use [Class Discussion](../elements/class-discussion.md) norms and [Active Listening](../strategies/active_listening.md) protocols so learners articulate perspectives themselves, not just hear the facilitator's.
+4. **Facilitate structured discussion** — use [Class Discussion](../elements/class-discussion.md) norms and [Active Listening](active-listening.md) protocols so learners articulate perspectives themselves, not just hear the facilitator's.
 5. **Introduce contrast** — bring in a second perspective or stakeholder to prevent anchoring on a single sympathetic reading; [Cognitive Conflict](../elements/cognitive-conflict.md) between perspectives drives deeper reasoning.
 6. **Extend to social issues** — connect the interpersonal case to structural questions (fairness, access, justice), using [Address Biases in the Use of Language and Symbols](../strategies/address_biases_in_the_use_of_language_and_symbols.md) to examine framing.
 7. **Debrief the process** — ask learners what cues they used and where their inferences might fail, building transferable metacognition ([Coaching](../elements/coaching.md)).
 
 ## Related Strategies
 - [Acting-Role-Play](acting-role-play.md) — embodied rehearsal of the perspectives discussed
-- [Active Listening](active_listening.md) — the discussion protocol that operationalizes empathy during conversation
+- [Active Listening](active-listening.md) — the discussion protocol that operationalizes empathy during conversation
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — extends perspective analysis to systemic framing
 
 ## Related Elements

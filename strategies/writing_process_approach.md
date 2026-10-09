@@ -76,8 +76,8 @@ The approach works because it externalizes and distributes the cognitive demands
 ## Related Strategies
 
 - [5-minute writing conferences](5-minute_writing_conferences.md) — the conferring mechanism at the heart of workshop implementations
-- [Activating prior knowledge](activating_prior_knowledge.md) — planning in the process model is fundamentally retrieval and organization of prior knowledge
-- [Action-oriented feedback](action-oriented_feedback.md) — conference and peer feedback should specify what to do next, not just evaluate
+- [Activating prior knowledge](activating-prior-knowledge.md) — planning in the process model is fundamentally retrieval and organization of prior knowledge
+- [Action-oriented feedback](action-oriented-feedback.md) — conference and peer feedback should specify what to do next, not just evaluate
 - [Use GenAI across the writing process stages of pre-writing, drafting language support, and revision feedback, and for discussion questions, differentiated explanations, and scaffolded practice](genai-writing-process-and-instructional-uses.md)
 
 ## Examples

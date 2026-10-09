@@ -23,7 +23,7 @@ Co-construction converts classroom management from external control to internali
 ### Context
 #### Requirements
 - A structured protocol (e.g., think-pair-share on "what do we need from each other to do our best work?"), not an open-ended brainstorm
-- Teacher facilitation skills: [Active Listening](active_listening.md), synthesizing student input into precise, positively-phrased statements
+- Teacher facilitation skills: [Active Listening](active-listening.md), synthesizing student input into precise, positively-phrased statements
 - A visible artifact — poster, syllabus section, shared document — that norms can be referred back to
 - A routine for revisiting norms (weekly check-in, post-conflict debrief) so they remain live rather than decorative
 
@@ -59,7 +59,7 @@ Co-construction converts classroom management from external control to internali
 
 ## Related Strategies
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a sibling autonomy-supportive structure from Responsive Classroom; norms give academic choice its guardrails
-- [Active Listening](active_listening.md) — the facilitation skill the teacher models during the co-construction process itself
+- [Active Listening](active-listening.md) — the facilitation skill the teacher models during the co-construction process itself
 
 ## Examples
 - **Responsive Classroom (Center for Responsive Schools)** — its "Hopes and Dreams → classroom rules" routine has students state personal goals, then derive shared rules that serve those goals ([responsivereads.com](https://www.responsivereads.com)).

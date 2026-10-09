@@ -58,7 +58,7 @@ Relationship quality between teacher and learner is consistently associated with
 
 ## Related Strategies
 
-- [Active listening](active_listening.md) — the conversational skill that makes scheduled connection time productive rather than superficial
+- [Active listening](active-listening.md) — the conversational skill that makes scheduled connection time productive rather than superficial
 - [Activate background knowledge](activating-prior-knowledge.md) — learner interests surfaced through connection activities become the raw material for activation
 - [Schedule time for intentional learning and recognize children's backgrounds and experiences in preschool classrooms](schedule-intentional-learning-time-preschool.md)
 

@@ -63,7 +63,7 @@ Dictation is a form of retrieval practice for orthographic knowledge: producing 
 
 ## Related Strategies
 - [Spelling Instruction Through Encoding](../strategies/spelling_instruction_through_encoding.md) — dictation is the retrieval-practice component of explicit spelling routines
-- [Phonics Instruction](../strategies/phonics_instruction.md) — dictation provides the encoding (spelling) counterpart to decoding practice
+- [Phonics Instruction](phonics-instruction.md) — dictation provides the encoding (spelling) counterpart to decoding practice
 - [Self-Correction Routines](../strategies/self-correction_routines.md) — the comparison-and-correction step that makes dictation instructional
 
 ## Examples

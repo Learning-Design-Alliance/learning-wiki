@@ -59,9 +59,9 @@ Portfolios shift assessment authority toward learners, requiring them to evaluat
 
 ## Related Strategies
 
-- [Rubric-Based Self-Assessment](rubric-based_self-assessment.md) — supplies the criteria that make portfolio selection and reflection evaluative rather than descriptive
-- [Learning Journals](learning_journals.md) — the reflective engine that generates portfolio commentary over time
-- [Exhibition of Learning](exhibition_of_learning.md) — a culminating authentic audience for the finished portfolio
+- [Rubric-Based Self-Assessment](rubric-based-self-assessment.md) — supplies the criteria that make portfolio selection and reflection evaluative rather than descriptive
+- [Learning Journals](learning-journals.md) — the reflective engine that generates portfolio commentary over time
+- [Exhibition of Learning](exhibition-of-learning.md) — a culminating authentic audience for the finished portfolio
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 - [Prepare for rising demand for assessment tools and embedded assessment models in maker learning](prepare-for-rising-maker-assessment-demand.md)
 

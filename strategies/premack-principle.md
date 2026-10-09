@@ -60,7 +60,7 @@ The principle works because response probability itself predicts reinforcement v
 6. Fade the contingency as task engagement becomes self-sustaining, shifting toward naturally occurring consequences and [autonomy](../claims/autonomy-supports-intrinsic-motivation.md) support.
 
 ## Related Strategies
-- [Token economies](../strategies/token_economy.md) — generalize the same contingency structure using symbolic reinforcers exchangeable for preferred activities
+- [Token economies](token-economy.md) — generalize the same contingency structure using symbolic reinforcers exchangeable for preferred activities
 - [Behavior contracts](../strategies/behavior_contracts.md) — formalize the if–then contingency in writing with learner input
 - [Choice boards](../elements/choice-boards.md) — embed learner choice into the reinforcement menu, softening the controlling aspect of the contingency
 

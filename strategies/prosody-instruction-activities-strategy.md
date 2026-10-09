@@ -47,7 +47,6 @@ This strategy focuses instructional time on reading with expression. The guide d
 - [Echo Reading](echo-reading.md)
 - [Choral Reading](choral-reading.md)
 - [Rereading](rereading.md)
-- [Choral Reading](choral_reading.md)
 
 ## Examples
 -

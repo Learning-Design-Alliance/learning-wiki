@@ -59,7 +59,7 @@ Dictionary and thesaurus use converts word-learning from passive guessing into a
 
 ## Related Strategies
 - [Annotating](../principles/annotating.md) — recording looked-up words in the margins or a glossary is the annotation habit that makes lookups durable
-- [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) — connecting a new word's definition to known concepts and experiences is what converts a lookup into learning
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting a new word's definition to known concepts and experiences is what converts a lookup into learning
 - [Chunking](../principles/chunking.md) — grouping looked-up words into semantic clusters (e.g., by the thesaurus's synonym sets) reduces the memory load of vocabulary study
 
 ## Related Elements

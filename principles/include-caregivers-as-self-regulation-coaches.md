@@ -146,11 +146,9 @@ Adult knowledge, adult practice, the young person's regulation with the adult pr
 
 - [Family Engagement Supporting Children With Disabilities](../strategies/family_engagement-supporting_children_with_disabilities.md)
 - [Don’t Jump Into "Fix It" Mode](../strategies/dont_jump_into_fix_it_mode.md)
-- [Check In_Check Out](../strategies/check-in_check-out.md)
-- [Check In Check Out](../strategies/check-in-check-out.md)
-- [Check In/Check Out](../strategies/check-incheck-out.md)
+- [Check In_Check Out](../strategies/check-incheck-out.md)
 - [Shadowing to Address Behavior Problems](../strategies/shadowing_to_address_behavior_problems.md)
-- [Shadowing (for behavior adjustment)](../strategies/shadowing-for-behavior-adjustment-variant.md)
+- [Shadowing (for behavior adjustment)](../strategies/shadowing-behavior-adjustment.md)
 - [Parent-teacher collaboration on independent self-care tasks and patience training to promote EF](../strategies/parent-teacher-collaboration-independent-tasks-patience.md)
 - [Provide self-regulation interventions at varying levels and intensity matched to youth context and needs](../strategies/tiered-self-regulation-intervention-support.md)
 - [Target emotion regulation skills in middle and high school youth](../strategies/target-emotion-regulation-skills-adolescents.md)
@@ -193,11 +191,11 @@ The brief's third guideline holds that self-regulation interventions for adolesc
 
 - [Family Engagement Supporting Children With Disabilities](../strategies/family_engagement-supporting_children_with_disabilities.md)
 - [Don’t Jump Into "Fix It" Mode](../strategies/dont_jump_into_fix_it_mode.md)
-- [Check In_Check Out](../strategies/check-in_check-out.md)
-- [Check In Check Out](../strategies/check-in-check-out.md)
+- [Check In_Check Out](../strategies/check-incheck-out.md)
+- [Check In Check Out](../strategies/check-incheck-out.md)
 - [Check In/Check Out](../strategies/check-incheck-out.md)
 - [Shadowing to Address Behavior Problems](../strategies/shadowing_to_address_behavior_problems.md)
-- [Shadowing (for behavior adjustment)](../strategies/shadowing-for-behavior-adjustment-variant.md)
+- [Shadowing (for behavior adjustment)](../strategies/shadowing-behavior-adjustment.md)
 - [Parent-teacher collaboration on independent self-care tasks and patience training to promote EF](../strategies/parent-teacher-collaboration-independent-tasks-patience.md)
 
 ## Key Sources

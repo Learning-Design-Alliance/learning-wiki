@@ -58,7 +58,7 @@ Emotion labeling converts diffuse affective experience into discrete, manipulabl
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a routine check-in format for daily emotion labeling
 - [Acting-Role-Play](../strategies/acting-role-play.md) — embodied enactment of emotions for recognition practice
-- [Active Listening](../strategies/active_listening.md) — adult modeling of accurate emotion labeling in conversation
+- [Active Listening](active-listening.md) — adult modeling of accurate emotion labeling in conversation
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — facilitator prompts that connect labels to causes and behaviors

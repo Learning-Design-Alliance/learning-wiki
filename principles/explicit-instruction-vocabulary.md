@@ -163,8 +163,8 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 ## Examples
 <!-- Links to elements or patterns that apply this principle -->
 - [Teach Academic Vocabulary](../strategies/teach_academic_vocabulary.md) — direct teaching of project-critical terms before and during use
-- [Tiered Vocabulary Instruction](../strategies/tiered_vocabulary_instruction.md) — selecting high-utility words intentionally
-- [Word Study](../strategies/word_study.md) — examining patterns and morphology to reinforce word learning
+- [Tiered Vocabulary Instruction](../strategies/tiered-vocabulary-instruction.md) — selecting high-utility words intentionally
+- [Word Study](../strategies/word-study.md) — examining patterns and morphology to reinforce word learning
 - Requiring learners to use target words in explanation, discussion, and writing tasks rather than only on quizzes
 - [Use the Ten Times Two routine to build observational vocabulary before data analysis](../strategies/ten-times-two-looking-activity.md)
 - [Pair fluency instruction with oral language and vocabulary support before first reading of a new text](../strategies/pair-fluency-instruction-with-vocabulary-support-eb.md)
@@ -238,8 +238,8 @@ Explicit vocabulary instruction works when it treats words as tools for meaning-
 <!-- deprecated 2026-10-05 (continued):
 
 - [Teach Academic Vocabulary](../strategies/teach_academic_vocabulary.md) — direct teaching of project-critical terms before and during use
-- [Tiered Vocabulary Instruction](../strategies/tiered_vocabulary_instruction.md) — selecting high-utility words intentionally
-- [Word Study](../strategies/word_study.md) — examining patterns and morphology to reinforce word learning
+- [Tiered Vocabulary Instruction](../strategies/tiered-vocabulary-instruction.md) — selecting high-utility words intentionally
+- [Word Study](../strategies/word-study.md) — examining patterns and morphology to reinforce word learning
 - Requiring learners to use target words in explanation, discussion, and writing tasks rather than only on quizzes
 
 ## Key Sources

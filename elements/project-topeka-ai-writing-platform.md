@@ -54,7 +54,7 @@ Project Topeka was an initiative using Turnitin's Revision Assistant, an AES/AWE
 
 ## Examples
 
-- [Revision_Cycles](../strategies/revision_cycles.md)
+- [Revision_Cycles](../strategies/revision-cycles.md)
 
 ## Key Sources
 - Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D. (2024). Teaching Partner, Grading Assistant, Substitute Teacher: Three Ways Teachers Positioned an Artificial Intelligence Tool in Writing Instruction. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7

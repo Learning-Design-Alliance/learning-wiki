@@ -58,7 +58,7 @@ Authentic, purposeful tasks improve engagement and help learners see the value o
 5. After the trip, compare predictions with actual outcomes and discuss why estimates were off ([Assess Performance](../elements/assess-performance.md)); feedback should target the estimation strategy, not just the answer [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
-- [Estimation Activities](estimation_activities.md) — the prediction-check cycle at the core of route tracking is a general estimation routine
+- [Estimation Activities](estimation-activities.md) — the prediction-check cycle at the core of route tracking is a general estimation routine
 - [Real-World Math Connections](real-world_math_connections.md) — Map It Out! is a specific instance of situating computation in family life
 - [Travel Journals](travel_journals.md) — pairs naturally; the journal records the data the map work generates
 

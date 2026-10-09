@@ -65,7 +65,7 @@ Relationship skills are teachable: meta-analytic evidence shows that sequenced, 
 
 ## Related Strategies
 
-- [Active Listening](active_listening.md) — the receptive half of relationship skills; teaching it explicitly supports the identification-and-support cycle
+- [Active Listening](active-listening.md) — the receptive half of relationship skills; teaching it explicitly supports the identification-and-support cycle
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking underlies conflict resolution and repair
 - [Check-Ins](../principles/check-ins.md) — a low-cost routine for surfacing relational states that observation alone misses
 - [Implement cooperative learning with extended training, direct social-skills teaching, and small initial groups](staff-development-for-cooperative-learning.md)

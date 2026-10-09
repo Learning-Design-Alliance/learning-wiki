@@ -38,7 +38,7 @@ The program's recommended implementation involves "a dedicated 30- to 60-minute 
 
 ## Related Strategies
 
-- [Independent Reading](independent_reading.md)
+- [Independent Reading](independent-reading.md)
 - [Supported Independent Reading](supported_independent_reading.md)
 - [Wide Reading](wide-reading.md)
 

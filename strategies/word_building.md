@@ -58,8 +58,8 @@ Word building converts the abstract mapping between sounds and spellings into a 
 5. Transfer to text: have learners find the pattern in a decodable passage or book.
 
 ## Related Strategies
-- [Word Sorts](word_sorts.md) — the complementary classification task; building constructs words, sorting compares them
-- [Decodable Text Reading](decodable_text_reading.md) — the connected-text application that consolidates patterns practiced in isolation
+- [Word Sorts](word-sorts.md) — the complementary classification task; building constructs words, sorting compares them
+- [Decodable Text Reading](decodable-text-reading.md) — the connected-text application that consolidates patterns practiced in isolation
 
 ## Examples
 - **Patricia Cunningham's "Making Words"** (Cunningham & Hall, 1997) — the widely adopted word-ladder routine using letter tiles in whole-class and small-group settings.

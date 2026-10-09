@@ -59,7 +59,7 @@ Feedback is among the most powerful influences on achievement, but only when it 
 
 ## Related Strategies
 - [Formative Assessment](../patterns/formative-assessment.md) — the instructional pattern this strategy extends into grading policy
-- [Standards-Based Grading](../strategies/standards-based_grading.md) — a grading system in which marks map directly to demonstrated outcomes
+- [Standards-Based Grading](standards-based-grading.md) — a grading system in which marks map directly to demonstrated outcomes
 - [Feedback Loops](../elements/feedback.md) — the element-level mechanism this strategy operationalizes
 
 ## Examples

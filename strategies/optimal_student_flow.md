@@ -59,7 +59,7 @@ Flow design works by reducing the extraneous cognitive load imposed by the envir
 6. Review flow data — transition duration, off-task incidents, student feedback — and adjust the layout each term as needs change.
 
 ## Related Strategies
-- [Classroom Routines and Procedures](classroom_routines_and_procedures.md) — the behavioral counterpart; flow is layout plus taught routines
+- [Classroom Routines and Procedures](classroom-routines-and-procedures.md) — the behavioral counterpart; flow is layout plus taught routines
 - [Learning Centers](learning-centers.md) — the primary structural context in which flow design operates
 - [Time Management in Instruction](time-management-in-instruction.md) — recovered transition time is reinvested through pacing decisions
 

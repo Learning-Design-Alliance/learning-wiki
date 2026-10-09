@@ -8,7 +8,7 @@
 "pattern":126,
 "principle":375,
 "process":18,
-"strategy":4505,
+"strategy":4347,
 "theory":1695
 },
 "kinds":[
@@ -120258,19 +120258,12 @@
 "type":"strategy"
 },
 {
+"aliases":["action-oriented_feedback"],
 "description":"Feedback that tells learners what specifically to do next, framed as an actionable step rather than a judgment of the work or the person.",
 "id":"action-oriented-feedback",
 "path":"strategies/action-oriented-feedback.md",
 "status":"review",
 "title":"Action Oriented Feedback",
-"type":"strategy"
-},
-{
-"description":"Action-oriented feedback provides students with specific, concrete steps they can take to improve their writing, rather than evaluations or error marks alone.",
-"id":"action-oriented_feedback",
-"path":"strategies/action-oriented_feedback.md",
-"status":"review",
-"title":"Action-Oriented Feedback",
 "type":"strategy"
 },
 {
@@ -120306,6 +120299,7 @@
 "type":"strategy"
 },
 {
+"aliases":["activating_prior_knowledge"],
 "description":"Deliberately prompting learners to retrieve and surface what they already know before encountering new material, so new information can be integrated with existing mental schemas.",
 "id":"activating-prior-knowledge",
 "path":"strategies/activating-prior-knowledge.md",
@@ -120327,14 +120321,6 @@
 "path":"strategies/activating_background_knowledge.md",
 "status":"review",
 "title":"Activating Background Knowledge",
-"type":"strategy"
-},
-{
-"description":"Prompting learners to recall and share what they already know about a topic before introducing new information.",
-"id":"activating_prior_knowledge",
-"path":"strategies/activating_prior_knowledge.md",
-"status":"review",
-"title":"Activating Prior Knowledge",
 "type":"strategy"
 },
 {
@@ -120362,6 +120348,7 @@
 "type":"strategy"
 },
 {
+"aliases":["active_listening"],
 "description":"A communication practice in which the listener attends fully to a speaker, reflects back meaning, and checks understanding before responding.",
 "id":"active-listening",
 "path":"strategies/active-listening.md",
@@ -120391,14 +120378,6 @@
 "path":"strategies/active-transitions.md",
 "status":"review",
 "title":"Active Transitions",
-"type":"strategy"
-},
-{
-"description":"A communication practice in which the listener deliberately attends to, reflects, and responds to a speaker's meaning and feeling before adding their own contribution.",
-"id":"active_listening",
-"path":"strategies/active_listening.md",
-"status":"review",
-"title":"Active Listening",
 "type":"strategy"
 },
 {
@@ -121274,6 +121253,7 @@
 "type":"strategy"
 },
 {
+"aliases":["anticipation_guide"],
 "description":"A pre-reading or pre-instruction strategy in which learners respond to provocative agree/disagree statements about upcoming content, then revisit their answers after learning.",
 "id":"anticipation-guide",
 "path":"strategies/anticipation-guide.md",
@@ -121282,25 +121262,10 @@
 "type":"strategy"
 },
 {
+"aliases":["anticipation_guides"],
 "description":"A pre-reading strategy in which learners respond to a set of statements about upcoming content before encountering it, then revisit and revise their answers afterward.",
 "id":"anticipation-guides",
 "path":"strategies/anticipation-guides.md",
-"status":"review",
-"title":"Anticipation Guides",
-"type":"strategy"
-},
-{
-"description":"A pre-reading or pre-instruction strategy in which learners respond to provocative statements about upcoming content, then revisit and revise their responses after learning.",
-"id":"anticipation_guide",
-"path":"strategies/anticipation_guide.md",
-"status":"review",
-"title":"Anticipation Guide",
-"type":"strategy"
-},
-{
-"description":"A pre-reading strategy in which learners respond to a short set of statements about a text's key ideas before reading, then revisit and revise their responses afterward.",
-"id":"anticipation_guides",
-"path":"strategies/anticipation_guides.md",
 "status":"review",
 "title":"Anticipation Guides",
 "type":"strategy"
@@ -121714,6 +121679,7 @@
 "type":"strategy"
 },
 {
+"aliases":["attention_signals"],
 "description":"A pre-taught auditory, visual, or verbal cue that instructors use to quickly regain learners' focus and quiet the environment before continuing instruction.",
 "id":"attention-signals",
 "path":"strategies/attention-signals.md",
@@ -121735,14 +121701,6 @@
 "path":"strategies/attention_check.md",
 "status":"review",
 "title":"Attention Check",
-"type":"strategy"
-},
-{
-"description":"Attention signals are brief, pre-taught cues that instructors use to regain learner focus and quiet a noisy environment so instruction can resume.",
-"id":"attention_signals",
-"path":"strategies/attention_signals.md",
-"status":"review",
-"title":"Attention Signals",
 "type":"strategy"
 },
 {
@@ -122242,17 +122200,10 @@
 "type":"strategy"
 },
 {
+"aliases":["belonging_interventions"],
 "description":"Brief, targeted activities that strengthen students' sense of social belonging in an educational setting, buffering against doubt and improving persistence and performance.",
 "id":"belonging-interventions",
 "path":"strategies/belonging-interventions.md",
-"status":"review",
-"title":"Belonging Interventions",
-"type":"strategy"
-},
-{
-"description":"Brief, structured activities that reframe students' doubts about belonging as normal and temporary, sustaining engagement for learners at risk of feeling like outsiders.",
-"id":"belonging_interventions",
-"path":"strategies/belonging_interventions.md",
 "status":"review",
 "title":"Belonging Interventions",
 "type":"strategy"
@@ -122506,17 +122457,10 @@
 "type":"strategy"
 },
 {
+"aliases":["brain_breaks"],
 "description":"Short, structured pauses in instruction — often involving movement, social interaction, or a shift of activity — used to restore attention and manage cognitive load during extended learning sessions.",
 "id":"brain-breaks",
 "path":"strategies/brain-breaks.md",
-"status":"review",
-"title":"Brain Breaks",
-"type":"strategy"
-},
-{
-"description":"Brain breaks are short, structured pauses (1–5 minutes) in which learners shift away from instructional content through movement, play, or creative activity to restore attention and support consolidation.",
-"id":"brain_breaks",
-"path":"strategies/brain_breaks.md",
 "status":"review",
 "title":"Brain Breaks",
 "type":"strategy"
@@ -123154,17 +123098,10 @@
 "type":"strategy"
 },
 {
+"aliases":["case-based-learningcase-based-learning","case-based_learning"],
 "description":"Learners analyze realistic, narrative accounts of authentic situations to build reasoning, decision-making, and applied knowledge.",
 "id":"case-based-learning",
 "path":"strategies/case-based-learning.md",
-"status":"review",
-"title":"Case Based Learning",
-"type":"strategy"
-},
-{
-"description":"Learners analyze realistic or authentic cases to build reasoning, decision-making, and applied knowledge in context.",
-"id":"case-based-learningcase-based-learning",
-"path":"strategies/case-based-learningcase-based-learning.md",
 "status":"review",
 "title":"Case Based Learning",
 "type":"strategy"
@@ -123175,14 +123112,6 @@
 "path":"strategies/case-based-teaching.md",
 "status":"review",
 "title":"Case Based Teaching",
-"type":"strategy"
-},
-{
-"description":"Learners analyze realistic, narrative accounts of authentic professional or disciplinary situations to build reasoning, judgment, and applied knowledge.",
-"id":"case-based_learning",
-"path":"strategies/case-based_learning.md",
-"status":"review",
-"title":"Case Based Learning",
 "type":"strategy"
 },
 {
@@ -123410,22 +123339,6 @@
 "type":"strategy"
 },
 {
-"description":"A Tier 2 behavioral intervention in which a mentored student receives brief daily check-ins with an adult and a point card rated by teachers across the day, pairing goal-setting with frequent positive feedback.",
-"id":"check-in-check-out",
-"path":"strategies/check-in-check-out.md",
-"status":"review",
-"title":"Check In Check Out",
-"type":"strategy"
-},
-{
-"description":"A Tier 2 behavior intervention in which a mentor briefly checks in with a student at the start of the day and checks out at the end, using a daily point card to structure goals, feedback, and home–school communication.",
-"id":"check-in_check-out",
-"path":"strategies/check-in_check-out.md",
-"status":"review",
-"title":"Check In_Check Out",
-"type":"strategy"
-},
-{
 "description":"A brief, structured opening ritual in which each learner reports on their state, progress, or readiness, establishing connection and informing instruction.",
 "id":"check-in_routines",
 "path":"strategies/check-in_routines.md",
@@ -123434,6 +123347,7 @@
 "type":"strategy"
 },
 {
+"aliases":["check-in-check-out","check-in_check-out"],
 "description":"A structured Tier 2 behavior intervention in which a mentee checks in with an adult at the start of each day to receive goals and points, and checks out at day's end for feedback and reinforcement.",
 "id":"check-incheck-out",
 "path":"strategies/check-incheck-out.md",
@@ -123610,6 +123524,7 @@
 "type":"strategy"
 },
 {
+"aliases":["choral_counting"],
 "description":"A whole-class counting routine in which learners count aloud together by a chosen increment while the teacher records the sequence in an organized layout, then the class discusses patterns in the count.",
 "id":"choral-counting",
 "path":"strategies/choral-counting.md",
@@ -123618,6 +123533,7 @@
 "type":"strategy"
 },
 {
+"aliases":["choral_reading"],
 "description":"Learners read a text aloud in unison with a teacher or peer model, building fluency, word recognition, and expressive reading through supported group practice.",
 "id":"choral-reading",
 "path":"strategies/choral-reading.md",
@@ -123631,22 +123547,6 @@
 "path":"strategies/choral-responding.md",
 "status":"review",
 "title":"Choral Responding",
-"type":"strategy"
-},
-{
-"description":"A whole-group counting routine in which learners count aloud together by a chosen increment while the teacher records the sequence in an organized visual layout, surfacing patterns for discussion.",
-"id":"choral_counting",
-"path":"strategies/choral_counting.md",
-"status":"review",
-"title":"Choral Counting",
-"type":"strategy"
-},
-{
-"description":"Learners read a text aloud together as a group, guided by a fluent model, to build fluency, word recognition, and confidence.",
-"id":"choral_reading",
-"path":"strategies/choral_reading.md",
-"status":"review",
-"title":"Choral Reading",
 "type":"strategy"
 },
 {
@@ -124018,6 +123918,7 @@
 "type":"strategy"
 },
 {
+"aliases":["classroom_physical_activity_breaks"],
 "description":"Short (1–5 minute) movement-based activities integrated into class time to energize learners, calm the group, or redirect attention.",
 "id":"classroom-physical-activity-breaks",
 "path":"strategies/classroom-physical-activity-breaks.md",
@@ -124050,6 +123951,7 @@
 "type":"strategy"
 },
 {
+"aliases":["classroom_routines"],
 "description":"Repeated, predictable sequences of behavior for common classroom activities that automate procedural aspects of learning so attention can go to content and thinking.",
 "id":"classroom-routines",
 "path":"strategies/classroom-routines.md",
@@ -124058,6 +123960,7 @@
 "type":"strategy"
 },
 {
+"aliases":["classroom_routines_and_procedures"],
 "description":"Established, rehearsed patterns for recurring classroom activities that automate logistics so attention and time are freed for learning.",
 "id":"classroom-routines-and-procedures",
 "path":"strategies/classroom-routines-and-procedures.md",
@@ -124127,30 +124030,6 @@
 "path":"strategies/classroom_pbis.md",
 "status":"review",
 "title":"Classroom PBIS",
-"type":"strategy"
-},
-{
-"description":"Integrating short movement-based activities into classroom instruction to energize learners, redirect attention, and support self-regulation.",
-"id":"classroom_physical_activity_breaks",
-"path":"strategies/classroom_physical_activity_breaks.md",
-"status":"review",
-"title":"Classroom Physical Activity Breaks",
-"type":"strategy"
-},
-{
-"description":"Repeated, predictable sequences of classroom behavior that automate procedural and managerial aspects of learning so attention and time are freed for content.",
-"id":"classroom_routines",
-"path":"strategies/classroom_routines.md",
-"status":"review",
-"title":"Classroom Routines",
-"type":"strategy"
-},
-{
-"description":"Establishing consistent, rehearsed patterns for recurring classroom activities so that management demands recede and instructional time is protected.",
-"id":"classroom_routines_and_procedures",
-"path":"strategies/classroom_routines_and_procedures.md",
-"status":"review",
-"title":"Classroom Routines and Procedures",
 "type":"strategy"
 },
 {
@@ -124314,19 +124193,12 @@
 "type":"strategy"
 },
 {
+"aliases":["co-creating_classroom_norms"],
 "description":"Involving learners in generating, discussing, and ratifying the behavioral and interactional norms that govern a classroom community.",
 "id":"co-creating-classroom-norms",
 "path":"strategies/co-creating-classroom-norms.md",
 "status":"review",
 "title":"Co Creating Classroom Norms",
-"type":"strategy"
-},
-{
-"description":"Students and teacher jointly generate, discuss, and adopt the behavioral and academic norms that govern the classroom community.",
-"id":"co-creating_classroom_norms",
-"path":"strategies/co-creating_classroom_norms.md",
-"status":"review",
-"title":"Co-Creating Classroom Norms",
 "type":"strategy"
 },
 {
@@ -124594,6 +124466,7 @@
 "type":"strategy"
 },
 {
+"aliases":["cold_calling"],
 "description":"The instructor poses a question to a specific, named student who has not volunteered to answer, distributing participation across the whole class.",
 "id":"cold-calling",
 "path":"strategies/cold-calling.md",
@@ -124607,14 +124480,6 @@
 "path":"strategies/cold_call_to_sample_pair_responses.md",
 "status":"review",
 "title":"Cold Call To Sample Pair Responses",
-"type":"strategy"
-},
-{
-"description":"The instructor poses a question and names a specific student to respond, rather than waiting for volunteers, distributing participation across the whole class.",
-"id":"cold_calling",
-"path":"strategies/cold_calling.md",
-"status":"review",
-"title":"Cold Calling",
 "type":"strategy"
 },
 {
@@ -124674,6 +124539,7 @@
 "type":"strategy"
 },
 {
+"aliases":["collaborative_writing"],
 "description":"Learners work together through the entire writing process—planning, drafting, revising, editing, and publishing—producing shared texts of higher quality than they typically achieve alone.",
 "id":"collaborative-writing",
 "path":"strategies/collaborative-writing.md",
@@ -124751,14 +124617,6 @@
 "path":"strategies/collaborative_storytelling_with_guiding_questions.md",
 "status":"review",
 "title":"Collaborative Storytelling with Guiding Questions",
-"type":"strategy"
-},
-{
-"description":"Structuring learners to co-produce a written text through shared planning, drafting, revising, and editing, typically supported by shared documents or writing platforms.",
-"id":"collaborative_writing",
-"path":"strategies/collaborative_writing.md",
-"status":"review",
-"title":"Collaborative Writing",
 "type":"strategy"
 },
 {
@@ -125058,6 +124916,7 @@
 "type":"strategy"
 },
 {
+"aliases":["community_building"],
 "description":"Deliberate design of interpersonal structures, norms, and shared activities that create belonging, trust, and mutual accountability among learners.",
 "id":"community-building",
 "path":"strategies/community-building.md",
@@ -125111,14 +124970,6 @@
 "path":"strategies/community-socratic-circles-build-district-support.md",
 "status":"draft",
 "title":"Extend structured racial discourse into the community to build support for classroom discussions",
-"type":"strategy"
-},
-{
-"description":"Deliberate design of interpersonal structures, norms, and shared activities that create trust, belonging, and sustained engagement among learners.",
-"id":"community_building",
-"path":"strategies/community_building.md",
-"status":"review",
-"title":"Community Building",
 "type":"strategy"
 },
 {
@@ -126098,6 +125949,7 @@
 "type":"strategy"
 },
 {
+"aliases":["cooperative_learning"],
 "description":"Structured small-group work in which learners pursue shared goals under conditions of positive interdependence and individual accountability.",
 "id":"cooperative-learning",
 "path":"strategies/cooperative-learning.md",
@@ -126135,14 +125987,6 @@
 "path":"strategies/cooperative_classroom_activities.md",
 "status":"review",
 "title":"Cooperative Classroom Activities",
-"type":"strategy"
-},
-{
-"description":"Structuring small-group work so that learners pursue shared goals under conditions of positive interdependence and individual accountability.",
-"id":"cooperative_learning",
-"path":"strategies/cooperative_learning.md",
-"status":"review",
-"title":"Cooperative Learning",
 "type":"strategy"
 },
 {
@@ -126346,17 +126190,10 @@
 "type":"strategy"
 },
 {
+"aliases":["craap_test"],
 "description":"A checklist-based rubric (Currency, Relevance, Authority, Accuracy, Purpose) that students apply to score the credibility of a website or source.",
 "id":"craap-test",
 "path":"strategies/craap-test.md",
-"status":"review",
-"title":"CRAAP Test",
-"type":"strategy"
-},
-{
-"description":"A checklist-based rubric (Currency, Relevance, Authority, Accuracy, Purpose) that guides learners through evaluating the credibility of a source such as a website.",
-"id":"craap_test",
-"path":"strategies/craap_test.md",
 "status":"review",
 "title":"CRAAP Test",
 "type":"strategy"
@@ -126690,17 +126527,10 @@
 "type":"strategy"
 },
 {
+"aliases":["critique_protocols"],
 "description":"Structured routines that guide learners to give and receive specific, kind, and useful feedback on work-in-progress.",
 "id":"critique-protocols",
 "path":"strategies/critique-protocols.md",
-"status":"review",
-"title":"Critique Protocols",
-"type":"strategy"
-},
-{
-"description":"Structured routines for giving and receiving feedback on work-in-progress, making peer critique specific, kind, and useful.",
-"id":"critique_protocols",
-"path":"strategies/critique_protocols.md",
 "status":"review",
 "title":"Critique Protocols",
 "type":"strategy"
@@ -126954,6 +126784,7 @@
 "type":"strategy"
 },
 {
+"aliases":["culturally_responsive_teaching"],
 "description":"Teaching that engages students cognitively and emotionally by connecting instruction to their cultural identities, community experiences, and funds of knowledge to promote equity and belonging.",
 "id":"culturally-responsive-teaching",
 "path":"strategies/culturally-responsive-teaching.md",
@@ -126994,14 +126825,6 @@
 "type":"strategy"
 },
 {
-"description":"Culturally responsive teaching engages students cognitively and emotionally by using their cultural identities, languages, and community experiences as assets in instruction.",
-"id":"culturally_responsive_teaching",
-"path":"strategies/culturally_responsive_teaching.md",
-"status":"review",
-"title":"Culturally Responsive Teaching",
-"type":"strategy"
-},
-{
 "description":"The primer lists essential practices for fostering a culture of critical thinking and communication: \\\"treating argumentation as a collective responsibility for building knowledge, building a classroom culture and norm...",
 "id":"culture-practices-for-collaborative-argumentation",
 "path":"strategies/culture-practices-for-collaborative-argumentation.md",
@@ -127034,6 +126857,7 @@
 "type":"strategy"
 },
 {
+"aliases":["cumulative_review"],
 "description":"Systematically revisiting previously learned concepts and skills throughout a course so that retention is maintained and new learning connects to old.",
 "id":"cumulative-review",
 "path":"strategies/cumulative-review.md",
@@ -127055,14 +126879,6 @@
 "path":"strategies/cumulative-review-quizzing.md",
 "status":"review",
 "title":"Cumulative Review Quizzing",
-"type":"strategy"
-},
-{
-"description":"Cumulative review systematically revisits previously learned concepts and skills throughout a course, integrating older material into current activities rather than teaching topics in isolated blocks.",
-"id":"cumulative_review",
-"path":"strategies/cumulative_review.md",
-"status":"review",
-"title":"Cumulative Review",
 "type":"strategy"
 },
 {
@@ -127426,6 +127242,7 @@
 "type":"strategy"
 },
 {
+"aliases":["decodable_text_reading"],
 "description":"Beginning readers practice with texts deliberately restricted to phonics patterns already taught, so decoding—not guessing—is the primary word-reading strategy.",
 "id":"decodable-text-reading",
 "path":"strategies/decodable-text-reading.md",
@@ -127447,14 +127264,6 @@
 "path":"strategies/decodable-texts.md",
 "status":"review",
 "title":"Decodable Texts",
-"type":"strategy"
-},
-{
-"description":"Having beginning readers practice with texts whose words are restricted to letter–sound patterns already taught, so decoding rather than guessing is the primary reading strategy.",
-"id":"decodable_text_reading",
-"path":"strategies/decodable_text_reading.md",
-"status":"review",
-"title":"Decodable Text Reading",
 "type":"strategy"
 },
 {
@@ -128402,17 +128211,10 @@
 "type":"strategy"
 },
 {
+"aliases":["discussion_protocols"],
 "description":"Structured routines that govern how learners take turns, build on ideas, and reason together in discussion, replacing free-form conversation with explicit norms and sequences.",
 "id":"discussion-protocols",
 "path":"strategies/discussion-protocols.md",
-"status":"review",
-"title":"Discussion Protocols",
-"type":"strategy"
-},
-{
-"description":"Structured routines that govern how learners take turns, build on ideas, and reason together during discussion, replacing free-for-all conversation with predictable participation structures.",
-"id":"discussion_protocols",
-"path":"strategies/discussion_protocols.md",
 "status":"review",
 "title":"Discussion Protocols",
 "type":"strategy"
@@ -128506,6 +128308,7 @@
 "type":"strategy"
 },
 {
+"aliases":["distributed_practice"],
 "description":"Practicing content in short sessions spaced over time rather than massed into one long session, leveraging desirable difficulties to strengthen long-term retention.",
 "id":"distributed-practice",
 "path":"strategies/distributed-practice.md",
@@ -128527,14 +128330,6 @@
 "path":"strategies/distributed-practice-spacing-effect.md",
 "status":"review",
 "title":"Distributed Practice (Spacing Effect)",
-"type":"strategy"
-},
-{
-"description":"Distributed practice involves practicing content in short sessions spaced out over time, contrasting with massed practice (cramming) where content is practiced in one long session.",
-"id":"distributed_practice",
-"path":"strategies/distributed_practice.md",
-"status":"review",
-"title":"Distributed Practice",
 "type":"strategy"
 },
 {
@@ -128658,6 +128453,7 @@
 "type":"strategy"
 },
 {
+"aliases":["document_outline_tool"],
 "description":"Students use the \\\"Document outline\\\" tool in Google Docs to extract evidence supporting the main ideas they've found in a text.",
 "id":"document-outline-tool",
 "path":"strategies/document-outline-tool.md",
@@ -128687,14 +128483,6 @@
 "path":"strategies/document_outline_strategy.md",
 "status":"review",
 "title":"Document Outline Strategy",
-"type":"strategy"
-},
-{
-"description":"Learners plan and structure a document by drafting an outline — headings, sections, and key points — before writing prose, using a dedicated tool or template.",
-"id":"document_outline_tool",
-"path":"strategies/document_outline_tool.md",
-"status":"review",
-"title":"Document Outline Tool",
 "type":"strategy"
 },
 {
@@ -129874,17 +129662,10 @@
 "type":"strategy"
 },
 {
+"aliases":["empathic_discipline"],
 "description":"A brief online intervention that reframes discipline as a relationship-preserving act, reducing suspensions by shifting teachers' mindset from punitive to empathic responses to misbehavior.",
 "id":"empathic-discipline",
 "path":"strategies/empathic-discipline.md",
-"status":"review",
-"title":"Empathic Discipline",
-"type":"strategy"
-},
-{
-"description":"A discipline approach that frames misbehavior as an opportunity to understand the student's perspective and maintain the relationship, rather than to punish.",
-"id":"empathic_discipline",
-"path":"strategies/empathic_discipline.md",
 "status":"review",
 "title":"Empathic Discipline",
 "type":"strategy"
@@ -130418,6 +130199,7 @@
 "type":"strategy"
 },
 {
+"aliases":["establishing_classroom_routines"],
 "description":"Deliberately teaching and rehearsing predictable procedures for recurring classroom activities so that management overhead drops and instructional time increases.",
 "id":"establishing-classroom-routines",
 "path":"strategies/establishing-classroom-routines.md",
@@ -130466,14 +130248,6 @@
 "type":"strategy"
 },
 {
-"description":"Deliberately teaching and rehearsing predictable procedures for recurring classroom activities so that management runs automatically and instructional time is protected.",
-"id":"establishing_classroom_routines",
-"path":"strategies/establishing_classroom_routines.md",
-"status":"review",
-"title":"Establishing Classroom Routines",
-"type":"strategy"
-},
-{
 "description":"Students and teacher jointly generate, negotiate, and ratify the behavioral and intellectual norms that will govern classroom interaction.",
 "id":"establishing_norms_co-constructively",
 "path":"strategies/establishing_norms_co-constructively.md",
@@ -130514,6 +130288,7 @@
 "type":"strategy"
 },
 {
+"aliases":["estimation_activities"],
 "description":"Learners generate a reasoned estimate of a quantity, answer, or outcome before computing, measuring, or being told the exact value.",
 "id":"estimation-activities",
 "path":"strategies/estimation-activities.md",
@@ -130527,14 +130302,6 @@
 "path":"strategies/estimation-warm-ups.md",
 "status":"review",
 "title":"Estimation Warm Ups",
-"type":"strategy"
-},
-{
-"description":"Learners generate approximate answers to quantitative problems before computing exact solutions, building number sense and calibration.",
-"id":"estimation_activities",
-"path":"strategies/estimation_activities.md",
-"status":"review",
-"title":"Estimation Activities",
 "type":"strategy"
 },
 {
@@ -130762,14 +130529,7 @@
 "type":"strategy"
 },
 {
-"description":"The program is designed for implementation by a district's current teachers, school leaders, and district leaders, with guidance from Edmentum's dedicated Customer Success Managers, so \\\"no additional staffing is requi...",
-"id":"exact-path-implementation-existing-staff-pd",
-"path":"strategies/exact-path-implementation-existing-staff-pd.md",
-"status":"draft",
-"title":"Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers",
-"type":"strategy"
-},
-{
+"aliases":["exact-path-implementation-existing-staff-pd"],
 "description":"The summary states that Exact Path Growth \\\"is implemented by a district's current teachers, school leaders, and district leaders with guidance provided by Edmentum's dedicated Customer Success Managers\\\" and that \\\"No a...",
 "id":"exact-path-implementation-strategy",
 "path":"strategies/exact-path-implementation-strategy.md",
@@ -130778,17 +130538,10 @@
 "type":"strategy"
 },
 {
+"aliases":["exam_wrappers"],
 "description":"A short reflective activity completed immediately before and/or after an exam that prompts students to analyze their preparation, performance, and adjustment strategies.",
 "id":"exam-wrappers",
 "path":"strategies/exam-wrappers.md",
-"status":"review",
-"title":"Exam Wrappers",
-"type":"strategy"
-},
-{
-"description":"A short reflective activity completed immediately before or after an exam in which students analyze their preparation strategies and performance to improve future studying.",
-"id":"exam_wrappers",
-"path":"strategies/exam_wrappers.md",
 "status":"review",
 "title":"Exam Wrappers",
 "type":"strategy"
@@ -130850,19 +130603,12 @@
 "type":"strategy"
 },
 {
+"aliases":["exhibition_of_learning"],
 "description":"A culminating public presentation of learner work to an authentic audience, requiring synthesis, communication, and defense of what has been learned.",
 "id":"exhibition-of-learning",
 "path":"strategies/exhibition-of-learning.md",
 "status":"review",
 "title":"Exhibition Of Learning",
-"type":"strategy"
-},
-{
-"description":"A culminating public event where learners present finished work to an authentic audience, making their learning visible and open to questioning.",
-"id":"exhibition_of_learning",
-"path":"strategies/exhibition_of_learning.md",
-"status":"review",
-"title":"Exhibition of Learning",
 "type":"strategy"
 },
 {
@@ -130874,6 +130620,7 @@
 "type":"strategy"
 },
 {
+"aliases":["exit_ticket"],
 "description":"A short, structured task completed by learners at the end of a lesson to surface what they understood, what they missed, and what questions remain.",
 "id":"exit-ticket",
 "path":"strategies/exit-ticket.md",
@@ -130882,6 +130629,7 @@
 "type":"strategy"
 },
 {
+"aliases":["exit_tickets"],
 "description":"Short end-of-lesson prompts for self-assessment and reflection that also yield formative assessment data.",
 "id":"exit-tickets",
 "path":"strategies/exit-tickets.md",
@@ -130895,22 +130643,6 @@
 "path":"strategies/exit-tutoring-at-grade-level-consistency.md",
 "status":"draft",
 "title":"Exit students from tutoring once they consistently read at the average level for their grade",
-"type":"strategy"
-},
-{
-"description":"A short, end-of-lesson formative assessment that asks learners to respond to a prompt before leaving, giving the instructor immediate evidence of understanding.",
-"id":"exit_ticket",
-"path":"strategies/exit_ticket.md",
-"status":"review",
-"title":"Exit Ticket",
-"type":"strategy"
-},
-{
-"description":"Short prompts completed by learners at the end of a lesson to surface their understanding, self-assess, and give the instructor formative data for the next lesson.",
-"id":"exit_tickets",
-"path":"strategies/exit_tickets.md",
-"status":"review",
-"title":"Exit Tickets",
 "type":"strategy"
 },
 {
@@ -131098,6 +130830,7 @@
 "type":"strategy"
 },
 {
+"aliases":["explicit_strategy_instruction"],
 "description":"Directly teaching learners specific cognitive and metacognitive strategies — what they are, how to execute them, and when and why to use them — through modeling, guided practice, and feedback.",
 "id":"explicit-strategy-instruction",
 "path":"strategies/explicit-strategy-instruction.md",
@@ -131130,6 +130863,7 @@
 "type":"strategy"
 },
 {
+"aliases":["explicit_teaching"],
 "description":"The teacher clearly shows students what to do and how to do it, making learning intentions and success criteria transparent, modelling the target performance, checking for understanding, and consolidating at the close of each lesson.",
 "id":"explicit-teaching",
 "path":"strategies/explicit-teaching.md",
@@ -131274,27 +131008,11 @@
 "type":"strategy"
 },
 {
-"description":"Directly teaching learners specific cognitive and metacognitive strategies — what to do, how, when, and why — through naming, modeling, guided practice, and feedback.",
-"id":"explicit_strategy_instruction",
-"path":"strategies/explicit_strategy_instruction.md",
-"status":"review",
-"title":"Explicit Strategy Instruction",
-"type":"strategy"
-},
-{
 "description":"The teacher describes and demonstrates a skill or concept step by step, making expert thinking visible before students attempt it independently.",
 "id":"explicit_teacher_modeling",
 "path":"strategies/explicit_teacher_modeling.md",
 "status":"review",
 "title":"Explicit Teacher Modeling",
-"type":"strategy"
-},
-{
-"description":"When teachers adopt explicit teaching practices they clearly show students what to do and how to do it.",
-"id":"explicit_teaching",
-"path":"strategies/explicit_teaching.md",
-"status":"review",
-"title":"Explicit Teaching",
 "type":"strategy"
 },
 {
@@ -131666,6 +131384,7 @@
 "type":"strategy"
 },
 {
+"aliases":["family_engagement"],
 "description":"Family engagement is a collaborative practice in which families and school personnel work together to support children's learning, development, and wellbeing across home and school settings.",
 "id":"family-engagement",
 "path":"strategies/family-engagement.md",
@@ -131759,14 +131478,6 @@
 "path":"strategies/family_book_club.md",
 "status":"review",
 "title":"Family Book Club",
-"type":"strategy"
-},
-{
-"description":"Family engagement is a practice in which families and school personnel collaborate to support and improve the learning and development of children.",
-"id":"family_engagement",
-"path":"strategies/family_engagement.md",
-"status":"review",
-"title":"Family Engagement",
 "type":"strategy"
 },
 {
@@ -132010,6 +131721,7 @@
 "type":"strategy"
 },
 {
+"aliases":["find_the_total"],
 "description":"Learners view two dot cards, find the total, and explain their addition strategy aloud in a number-talk format.",
 "id":"find-the-total",
 "path":"strategies/find-the-total.md",
@@ -132023,14 +131735,6 @@
 "path":"strategies/find_the_difference.md",
 "status":"review",
 "title":"Find the Difference",
-"type":"strategy"
-},
-{
-"description":"Learners are shown two dot cards and asked to find the total number of dots, then explain their strategy aloud in a number-talk format.",
-"id":"find_the_total",
-"path":"strategies/find_the_total.md",
-"status":"review",
-"title":"Find the Total",
 "type":"strategy"
 },
 {
@@ -132194,17 +131898,10 @@
 "type":"strategy"
 },
 {
+"aliases":["flashcard_drill"],
 "description":"Repeated retrieval of facts or vocabulary using card-based question–answer pairs, typically with self-paced cycling and spacing.",
 "id":"flashcard-drill",
 "path":"strategies/flashcard-drill.md",
-"status":"review",
-"title":"Flashcard Drill",
-"type":"strategy"
-},
-{
-"description":"Structured self-testing with card-based question–answer pairs, typically scheduled by spaced repetition, to build durable recall of discrete facts and associations.",
-"id":"flashcard_drill",
-"path":"strategies/flashcard_drill.md",
 "status":"review",
 "title":"Flashcard Drill",
 "type":"strategy"
@@ -132242,17 +131939,10 @@
 "type":"strategy"
 },
 {
+"aliases":["flexible_seating"],
 "description":"Providing a variety of seating options and letting learners choose where and how they sit based on task and personal need.",
 "id":"flexible-seating",
 "path":"strategies/flexible-seating.md",
-"status":"review",
-"title":"Flexible Seating",
-"type":"strategy"
-},
-{
-"description":"Flexible seating provides learners with a variety of seating options and allows them to choose where and how they sit based on task demands and personal needs.",
-"id":"flexible_seating",
-"path":"strategies/flexible_seating.md",
 "status":"review",
 "title":"Flexible Seating",
 "type":"strategy"
@@ -132282,17 +131972,10 @@
 "type":"strategy"
 },
 {
+"aliases":["flipped_learning"],
 "description":"A pedagogical model that moves first exposure to content outside class (typically via video) and reserves class time for active, instructor-guided application.",
 "id":"flipped-learning",
 "path":"strategies/flipped-learning.md",
-"status":"review",
-"title":"Flipped Learning",
-"type":"strategy"
-},
-{
-"description":"Flipped learning delivers first-exposure instruction outside class (typically via video) and repurposes class time for active, instructor-facilitated application and problem-solving.",
-"id":"flipped_learning",
-"path":"strategies/flipped_learning.md",
 "status":"review",
 "title":"Flipped Learning",
 "type":"strategy"
@@ -132506,6 +132189,7 @@
 "type":"strategy"
 },
 {
+"aliases":["formative_feedback"],
 "description":"Giving learners information about their work that tells them where they are going, how they are doing, and what to do next — while there is still time and opportunity to act on it.",
 "id":"formative-feedback",
 "path":"strategies/formative-feedback.md",
@@ -132551,14 +132235,6 @@
 "path":"strategies/formative_assessment_to_gauge_student_progress_and_guide_instruction.md",
 "status":"review",
 "title":"Formative Assessment to Gauge Student Progress and Guide Instruction",
-"type":"strategy"
-},
-{
-"description":"Feedback delivered during learning that gives learners actionable information about their performance and how to improve, rather than an evaluative judgment of final quality.",
-"id":"formative_feedback",
-"path":"strategies/formative_feedback.md",
-"status":"review",
-"title":"Formative Feedback",
 "type":"strategy"
 },
 {
@@ -132610,17 +132286,10 @@
 "type":"strategy"
 },
 {
+"aliases":["fostering_self-advocacy_and_self-determination"],
 "description":"Prioritizing explicit instruction and authentic practice of self-advocacy and self-determination skills so students — especially those with disabilities — can direct their own learning and life paths.",
 "id":"fostering-self-advocacy-and-self-determination",
 "path":"strategies/fostering-self-advocacy-and-self-determination.md",
-"status":"review",
-"title":"Fostering Self-Advocacy and Self-Determination",
-"type":"strategy"
-},
-{
-"description":"Prioritizing self-advocacy and self-determination skills in education to improve educational and life outcomes, especially for students with disabilities.",
-"id":"fostering_self-advocacy_and_self-determination",
-"path":"strategies/fostering_self-advocacy_and_self-determination.md",
 "status":"review",
 "title":"Fostering Self-Advocacy and Self-Determination",
 "type":"strategy"
@@ -132810,6 +132479,7 @@
 "type":"strategy"
 },
 {
+"aliases":["frayer_model","the_frayer_model"],
 "description":"A graphic organizer that develops conceptual understanding of a term by requiring learners to define it, describe its features, generate examples, and generate non-examples.",
 "id":"frayer-model",
 "path":"strategies/frayer-model.md",
@@ -132818,14 +132488,7 @@
 "type":"strategy"
 },
 {
-"description":"A four-quadrant graphic organizer in which learners define a concept, describe its characteristics, generate examples, and generate non-examples.",
-"id":"frayer_model",
-"path":"strategies/frayer_model.md",
-"status":"review",
-"title":"Frayer Model",
-"type":"strategy"
-},
-{
+"aliases":["free_play"],
 "description":"Child-led, self-directed activity in which learners explore and develop physical, social, cognitive, and creative skills through interactions with their environment and peers.",
 "id":"free-play",
 "path":"strategies/free-play.md",
@@ -132879,14 +132542,6 @@
 "path":"strategies/free_math_worksheets.md",
 "status":"review",
 "title":"Free Math Worksheets",
-"type":"strategy"
-},
-{
-"description":"Free play is a child-led activity where learners explore and develop skills through self-directed interactions with their environment and peers.",
-"id":"free_play",
-"path":"strategies/free_play.md",
-"status":"review",
-"title":"Free Play",
 "type":"strategy"
 },
 {
@@ -133162,6 +132817,7 @@
 "type":"strategy"
 },
 {
+"aliases":["gallery_walk"],
 "description":"Learners rotate in small groups through stations or posted work around a room, responding to prompts, solving tasks, or critiquing peers' products.",
 "id":"gallery-walk",
 "path":"strategies/gallery-walk.md",
@@ -133183,14 +132839,6 @@
 "path":"strategies/gallery_quote_walk_check-in.md",
 "status":"review",
 "title":"Gallery Quote Walk Check-In",
-"type":"strategy"
-},
-{
-"description":"Learners rotate in small groups through stations or posted artifacts around a room, responding to prompts and building on each other's ideas.",
-"id":"gallery_walk",
-"path":"strategies/gallery_walk.md",
-"status":"review",
-"title":"Gallery Walk",
 "type":"strategy"
 },
 {
@@ -133442,6 +133090,7 @@
 "type":"strategy"
 },
 {
+"aliases":["goal-setting_conferences"],
 "description":"One-on-one or small-group conversations in which teacher and learner jointly set, monitor, and revise specific learning goals.",
 "id":"goal-setting-conferences",
 "path":"strategies/goal-setting-conferences.md",
@@ -133450,6 +133099,7 @@
 "type":"strategy"
 },
 {
+"aliases":["goal_setting_for_writing"],
 "description":"Learners set specific, product- or process-focused goals for a writing task, then use them to guide drafting and revision.",
 "id":"goal-setting-in-writing",
 "path":"strategies/goal-setting-in-writing.md",
@@ -133474,27 +133124,11 @@
 "type":"strategy"
 },
 {
-"description":"Short one-on-one conversations in which teacher and learner jointly set, monitor, and adjust specific learning goals.",
-"id":"goal-setting_conferences",
-"path":"strategies/goal-setting_conferences.md",
-"status":"review",
-"title":"Goal Setting Conferences",
-"type":"strategy"
-},
-{
 "description":"Learners set or are given specific, challenging, proximal targets for performance, which directs attention, effort, and persistence toward those targets.",
 "id":"goal_setting",
 "path":"strategies/goal_setting.md",
 "status":"review",
 "title":"Goal Setting",
-"type":"strategy"
-},
-{
-"description":"Setting clear, task-specific goals for writing, supported by self-assessment, peer support, and progress feedback, to improve writing quality and motivation.",
-"id":"goal_setting_for_writing",
-"path":"strategies/goal_setting_for_writing.md",
-"status":"review",
-"title":"Goal Setting for Writing",
 "type":"strategy"
 },
 {
@@ -133610,6 +133244,7 @@
 "type":"strategy"
 },
 {
+"aliases":["gradual_release_of_responsibility"],
 "description":"A instructional sequence that shifts cognitive responsibility from teacher to learner through structured phases — \"I do, we do, you do\" — so that support fades as competence grows.",
 "id":"gradual-release-of-responsibility",
 "path":"strategies/gradual-release-of-responsibility.md",
@@ -133642,14 +133277,6 @@
 "type":"strategy"
 },
 {
-"description":"A instructional sequence that shifts cognitive responsibility from teacher to learner across three phases — focused instruction (\"I do\"), guided instruction (\"we do\"), and independent learning (\"you do\").",
-"id":"gradual_release_of_responsibility",
-"path":"strategies/gradual_release_of_responsibility.md",
-"status":"review",
-"title":"Gradual Release of Responsibility",
-"type":"strategy"
-},
-{
 "description":"Sequencing multimodal composition instruction from teacher modeling, to guided collaborative analysis, to independent design work, transferring responsibility as competence grows.",
 "id":"gradual_release_of_responsibility_in_multimodal_composition",
 "path":"strategies/gradual_release_of_responsibility_in_multimodal_composition.md",
@@ -133666,6 +133293,7 @@
 "type":"strategy"
 },
 {
+"aliases":["graphic_organizers"],
 "description":"Visual-spatial displays (maps, matrices, hierarchies) that externalize the structure of content so learners can see relationships among concepts at a glance.",
 "id":"graphic-organizers",
 "path":"strategies/graphic-organizers.md",
@@ -133674,6 +133302,7 @@
 "type":"strategy"
 },
 {
+"aliases":["graphic-organizers-guided-notes-for-processing-speed"],
 "description":"Providing students with graphic organizers or guided notes during lectures to help them pull out the important points.",
 "id":"graphic-organizers-and-guided-notes-processing-speed",
 "path":"strategies/graphic-organizers-and-guided-notes-processing-speed.md",
@@ -133682,19 +133311,12 @@
 "type":"strategy"
 },
 {
+"aliases":["graphic-organizers-and-visual-aids-for-attention"],
 "description":"Using graphic organizers and visual aids to help students identify the most important information and focus on it.",
 "id":"graphic-organizers-and-visual-aids-attention",
 "path":"strategies/graphic-organizers-and-visual-aids-attention.md",
 "status":"review",
 "title":"Graphic Organizers and Visual Aids (Attention)",
-"type":"strategy"
-},
-{
-"description":"Visual structures such as diagrams, advance organizers, and color-coded notes direct learner attention to key information and relationships.",
-"id":"graphic-organizers-and-visual-aids-for-attention",
-"path":"strategies/graphic-organizers-and-visual-aids-for-attention.md",
-"status":"review",
-"title":"Graphic Organizers and Visual Aids (for Attention)",
 "type":"strategy"
 },
 {
@@ -133706,14 +133328,7 @@
 "type":"strategy"
 },
 {
-"description":"During lecture, learners are provided with graphic organizers or guided notes to help pull out the important points.",
-"id":"graphic-organizers-guided-notes-for-processing-speed",
-"path":"strategies/graphic-organizers-guided-notes-for-processing-speed.md",
-"status":"review",
-"title":"Graphic Organizers / Guided Notes (for Processing Speed)",
-"type":"strategy"
-},
-{
+"aliases":["graphic_organizers_for_math"],
 "description":"Graphic organizers break down math problems into steps, which helps students figure out what's being asked in a word problem or which operation to use.",
 "id":"graphic-organizers-math",
 "path":"strategies/graphic-organizers-math.md",
@@ -133727,14 +133342,6 @@
 "path":"strategies/graphic_notes.md",
 "status":"review",
 "title":"Graphic Notes",
-"type":"strategy"
-},
-{
-"description":"Visual displays (maps, matrices, hierarchies, diagrams) that externalize the structure of content so learners can see relationships among concepts at a glance.",
-"id":"graphic_organizers",
-"path":"strategies/graphic_organizers.md",
-"status":"review",
-"title":"Graphic Organizers",
 "type":"strategy"
 },
 {
@@ -133783,14 +133390,6 @@
 "path":"strategies/graphic_organizers_for_lecture_support.md",
 "status":"review",
 "title":"Graphic Organizers for Lecture Support",
-"type":"strategy"
-},
-{
-"description":"Graphic organizers help learners break down math problems into steps to understand what's being asked or which operation to use.",
-"id":"graphic_organizers_for_math",
-"path":"strategies/graphic_organizers_for_math.md",
-"status":"review",
-"title":"Graphic Organizers for Math",
 "type":"strategy"
 },
 {
@@ -134138,6 +133737,7 @@
 "type":"strategy"
 },
 {
+"aliases":["guided_play"],
 "description":"A pedagogical approach that combines child-directed free play with intentional learning goals through light adult scaffolding.",
 "id":"guided-play",
 "path":"strategies/guided-play.md",
@@ -134199,14 +133799,6 @@
 "path":"strategies/guided_inquiry.md",
 "status":"review",
 "title":"Guided Inquiry",
-"type":"strategy"
-},
-{
-"description":"Guided play combines child-directed free play with intentional learning goals through light adult scaffolding.",
-"id":"guided_play",
-"path":"strategies/guided_play.md",
-"status":"review",
-"title":"Guided Play",
 "type":"strategy"
 },
 {
@@ -134290,19 +133882,12 @@
 "type":"strategy"
 },
 {
+"aliases":["headings_and_highlight_strategy"],
 "description":"A collaborative digital reading routine in which pairs highlight key ideas and distill sections into four-word headings, then compare and justify their choices with text evidence.",
 "id":"headings-and-highlight-strategy-variant",
 "path":"strategies/headings-and-highlight-strategy-variant.md",
 "status":"review",
 "title":"\\\"Headings and Highlight\\\" Strategy",
-"type":"strategy"
-},
-{
-"description":"A collaborative reading routine in which students highlight unknown words and key ideas, then negotiate four-word headings for text sections to force distillation of main ideas.",
-"id":"headings_and_highlight_strategy",
-"path":"strategies/headings_and_highlight_strategy.md",
-"status":"review",
-"title":"Headings and Highlight Strategy",
 "type":"strategy"
 },
 {
@@ -134578,6 +134163,7 @@
 "type":"strategy"
 },
 {
+"aliases":["in_a_hot_seat"],
 "description":"One learner assumes the role of a book character, historical figure, or concept and answers classmates' questions in character while seated before the group.",
 "id":"hot_seat",
 "path":"strategies/hot_seat.md",
@@ -135178,14 +134764,6 @@
 "type":"strategy"
 },
 {
-"description":"Learners create a character different from themselves from a stimulus such as a photo or object, then answer classmates' questions in character from a designated \"hot seat.\"",
-"id":"in_a_hot_seat",
-"path":"strategies/in_a_hot_seat.md",
-"status":"review",
-"title":"In A Hot Seat",
-"type":"strategy"
-},
-{
 "description":"The author recommends gentle, incidental corrective feedback that preserves the journal's communicative nature: clarification and confirmation requests such as \\\"What do you mean by….?\\\", recasting errors in the teacher...",
 "id":"incidental-corrective-feedback-in-dialogue-journals",
 "path":"strategies/incidental-corrective-feedback-in-dialogue-journals.md",
@@ -135418,6 +134996,7 @@
 "type":"strategy"
 },
 {
+"aliases":["independent_reading"],
 "description":"Students select and read books on their own, within their reading level and interests, during dedicated time with teacher guidance on book selection and strategy use.",
 "id":"independent-reading",
 "path":"strategies/independent-reading.md",
@@ -135426,6 +135005,7 @@
 "type":"strategy"
 },
 {
+"aliases":["independent_reading_time"],
 "description":"Scheduled in-class time during which learners self-select and read texts independently, with light structural support from the teacher.",
 "id":"independent-reading-time",
 "path":"strategies/independent-reading-time.md",
@@ -135447,22 +135027,6 @@
 "path":"strategies/independent_practice.md",
 "status":"review",
 "title":"Independent Practice",
-"type":"strategy"
-},
-{
-"description":"Independent reading involves students selecting and reading books on their own, within their reading level and interests, during dedicated time with teacher guidance.",
-"id":"independent_reading",
-"path":"strategies/independent_reading.md",
-"status":"review",
-"title":"Independent Reading",
-"type":"strategy"
-},
-{
-"description":"Scheduled in-class time in which students self-select and silently read texts at their own level, with light structure and accountability.",
-"id":"independent_reading_time",
-"path":"strategies/independent_reading_time.md",
-"status":"review",
-"title":"Independent Reading Time",
 "type":"strategy"
 },
 {
@@ -136034,6 +135598,7 @@
 "type":"strategy"
 },
 {
+"aliases":["interactive_read-alouds"],
 "description":"The facilitator reads a text aloud and pauses at planned points to engage learners in prediction, questioning, discussion, and personal connection, deepening comprehension of texts above learners' independent reading level.",
 "id":"interactive-read-alouds",
 "path":"strategies/interactive-read-alouds.md",
@@ -136079,14 +135644,6 @@
 "path":"strategies/interactive_modeling.md",
 "status":"review",
 "title":"Interactive Modeling",
-"type":"strategy"
-},
-{
-"description":"Interactive read-alouds involve stopping during the reading process to engage learners in discussions and activities that promote deeper understanding of the text.",
-"id":"interactive_read-alouds",
-"path":"strategies/interactive_read-alouds.md",
-"status":"review",
-"title":"Interactive Read-Alouds",
 "type":"strategy"
 },
 {
@@ -136538,6 +136095,7 @@
 "type":"strategy"
 },
 {
+"aliases":["jigsaw_reading"],
 "description":"Learners each read a distinct segment of a text, then teach it to peers in expert groups before returning to home groups to assemble the full picture.",
 "id":"jigsaw-reading",
 "path":"strategies/jigsaw-reading.md",
@@ -136559,14 +136117,6 @@
 "path":"strategies/jigsaw_method.md",
 "status":"review",
 "title":"Jigsaw Method",
-"type":"strategy"
-},
-{
-"description":"Learners each read a distinct segment of a text, then teach it to peers in expert groups before returning to home groups to assemble the complete picture.",
-"id":"jigsaw_reading",
-"path":"strategies/jigsaw_reading.md",
-"status":"review",
-"title":"Jigsaw Reading",
 "type":"strategy"
 },
 {
@@ -136850,6 +136400,7 @@
 "type":"strategy"
 },
 {
+"aliases":["kwl_chart"],
 "description":"A graphic organizer that structures a lesson around what students Know (K), Want to know (W), and have Learned (L) about a topic.",
 "id":"kwl-chart",
 "path":"strategies/kwl-chart.md",
@@ -136858,25 +136409,10 @@
 "type":"strategy"
 },
 {
+"aliases":["kwl_charts"],
 "description":"A three-column graphic organizer (Know, Want to know, Learned) used before and after instruction to activate prior knowledge, set learning goals, and prompt reflection.",
 "id":"kwl-charts",
 "path":"strategies/kwl-charts.md",
-"status":"review",
-"title":"KWL Charts",
-"type":"strategy"
-},
-{
-"description":"A KWL chart is a graphic organizer used to structure a lesson by tapping into what students already Know (K), what they Want to know (W), and what they have Learned (L) about a topic.",
-"id":"kwl_chart",
-"path":"strategies/kwl_chart.md",
-"status":"review",
-"title":"KWL Chart",
-"type":"strategy"
-},
-{
-"description":"KWL (Know, Want to know, Learned) charts are advance organizers that help students activate prior knowledge, identify learning goals, and reflect on what they have learned.",
-"id":"kwl_charts",
-"path":"strategies/kwl_charts.md",
 "status":"review",
 "title":"KWL Charts",
 "type":"strategy"
@@ -136970,17 +136506,10 @@
 "type":"strategy"
 },
 {
+"aliases":["lateral_reading"],
 "description":"Evaluating the trustworthiness of online information by leaving the original site and consulting other sources to see what they say about it.",
 "id":"lateral-reading",
 "path":"strategies/lateral-reading.md",
-"status":"review",
-"title":"Lateral Reading",
-"type":"strategy"
-},
-{
-"description":"Lateral reading is a digital literacy strategy that involves evaluating the trustworthiness of online information by leaving the original site and consulting other digital sources to see what they say about it.",
-"id":"lateral_reading",
-"path":"strategies/lateral_reading.md",
 "status":"review",
 "title":"Lateral Reading",
 "type":"strategy"
@@ -137234,6 +136763,7 @@
 "type":"strategy"
 },
 {
+"aliases":["learning_journals"],
 "description":"Learners regularly record, reflect on, and analyze their own learning experiences in an ongoing written (or multimedia) log.",
 "id":"learning-journals",
 "path":"strategies/learning-journals.md",
@@ -137242,6 +136772,7 @@
 "type":"strategy"
 },
 {
+"aliases":["learning_logs"],
 "description":"Short, prompt-driven reflective writing at the start or end of a lesson in which learners review prior material, define concepts, or make personal connections in a few minutes of writing.",
 "id":"learning-logs",
 "path":"strategies/learning-logs.md",
@@ -137351,22 +136882,6 @@
 "path":"strategies/learning_interest_inventories.md",
 "status":"review",
 "title":"Learning Interest Inventories",
-"type":"strategy"
-},
-{
-"description":"Learners regularly record, reflect on, and monitor their own learning in an ongoing written (or multimedia) log, making thinking visible and supporting metacognitive development.",
-"id":"learning_journals",
-"path":"strategies/learning_journals.md",
-"status":"review",
-"title":"Learning Journals",
-"type":"strategy"
-},
-{
-"description":"Learning logs are short, reflective writing activities completed at the beginning or end of a class to review previously learned material or focus on new concepts.",
-"id":"learning_logs",
-"path":"strategies/learning_logs.md",
-"status":"review",
-"title":"Learning Logs",
 "type":"strategy"
 },
 {
@@ -137738,6 +137253,7 @@
 "type":"strategy"
 },
 {
+"aliases":["literacy_centers"],
 "description":"Designated classroom areas where students work independently or collaboratively on meaningful literacy tasks while the teacher delivers targeted small-group instruction.",
 "id":"literacy-centers",
 "path":"strategies/literacy-centers.md",
@@ -137762,14 +137278,7 @@
 "type":"strategy"
 },
 {
-"description":"Literacy centers are designated areas in the classroom where students work independently or collaboratively on meaningful literacy tasks to explore and expand their learning.",
-"id":"literacy_centers",
-"path":"strategies/literacy_centers.md",
-"status":"review",
-"title":"Literacy Centers",
-"type":"strategy"
-},
-{
+"aliases":["literature_circles"],
 "description":"Small, student-led reading groups that choose a shared book, prepare notes and marked passages, and meet regularly to discuss it, culminating in creative or reflective projects.",
 "id":"literature-circles",
 "path":"strategies/literature-circles.md",
@@ -137783,14 +137292,6 @@
 "path":"strategies/literature-social-stories.md",
 "status":"review",
 "title":"Literature/Social Stories",
-"type":"strategy"
-},
-{
-"description":"Small, student-led reading groups that choose texts, prepare through annotation and role-based notes, and meet regularly to discuss and respond to a shared book.",
-"id":"literature_circles",
-"path":"strategies/literature_circles.md",
-"status":"review",
-"title":"Literature Circles",
 "type":"strategy"
 },
 {
@@ -138474,6 +137975,7 @@
 "type":"strategy"
 },
 {
+"aliases":["math_talks"],
 "description":"Structured whole-class or small-group conversations in which learners share, compare, and justify mathematical reasoning and problem-solving strategies.",
 "id":"math-talks",
 "path":"strategies/math-talks.md",
@@ -138575,14 +138077,6 @@
 "path":"strategies/math_songs.md",
 "status":"review",
 "title":"Math Songs",
-"type":"strategy"
-},
-{
-"description":"Math talks are structured whole-class or small-group conversations in which learners share, compare, and justify strategies for solving a mathematical problem.",
-"id":"math_talks",
-"path":"strategies/math_talks.md",
-"status":"review",
-"title":"Math Talks",
 "type":"strategy"
 },
 {
@@ -138730,17 +138224,10 @@
 "type":"strategy"
 },
 {
+"aliases":["mentor_texts"],
 "description":"Using published or exemplary texts as models that learners study, imitate, and adapt to develop their own writing, reading, or disciplinary craft.",
 "id":"mentor-texts",
 "path":"strategies/mentor-texts.md",
-"status":"review",
-"title":"Mentor Texts",
-"type":"strategy"
-},
-{
-"description":"Mentor texts are examples of high-quality writing used to teach students how to improve their own writing skills.",
-"id":"mentor_texts",
-"path":"strategies/mentor_texts.md",
 "status":"review",
 "title":"Mentor Texts",
 "type":"strategy"
@@ -139018,6 +138505,7 @@
 "type":"strategy"
 },
 {
+"aliases":["mindfulness_breaks"],
 "description":"Short, structured activities that direct attention to the present moment, used to restore focus, reduce stress, and support self-regulation during learning.",
 "id":"mindfulness-breaks",
 "path":"strategies/mindfulness-breaks.md",
@@ -139039,14 +138527,6 @@
 "path":"strategies/mindfulness_and_movement_integration.md",
 "status":"review",
 "title":"Mindfulness and Movement Integration",
-"type":"strategy"
-},
-{
-"description":"Short, structured activities that pause instruction to cultivate present-moment attention and emotional regulation, restoring cognitive resources for learning.",
-"id":"mindfulness_breaks",
-"path":"strategies/mindfulness_breaks.md",
-"status":"review",
-"title":"Mindfulness Breaks",
 "type":"strategy"
 },
 {
@@ -139362,6 +138842,7 @@
 "type":"strategy"
 },
 {
+"aliases":["model_the_assignment_or_skill"],
 "description":"Modeling a skill or assignment by verbalizing thought processes while working through it, so learners can observe expert reasoning before attempting the task themselves.",
 "id":"model_assignment_or_skill",
 "path":"strategies/model_assignment_or_skill.md",
@@ -139415,14 +138896,6 @@
 "path":"strategies/model_reflection.md",
 "status":"review",
 "title":"Model Reflection",
-"type":"strategy"
-},
-{
-"description":"Teachers demonstrate how to perform a task or skill by verbalizing their thought processes while completing it.",
-"id":"model_the_assignment_or_skill",
-"path":"strategies/model_the_assignment_or_skill.md",
-"status":"review",
-"title":"Model the Assignment or Skill",
 "type":"strategy"
 },
 {
@@ -139746,6 +139219,7 @@
 "type":"strategy"
 },
 {
+"aliases":["morphological_instruction"],
 "description":"Explicit teaching of morphemes — inflectional suffixes, prefixes, and derivational endings — so learners understand how word parts carry meaning and spelling patterns.",
 "id":"morphological-instruction",
 "path":"strategies/morphological-instruction.md",
@@ -139759,14 +139233,6 @@
 "path":"strategies/morphological_analysis_of_latin_and_greek_roots.md",
 "status":"review",
 "title":"Morphological Analysis of Latin and Greek Roots",
-"type":"strategy"
-},
-{
-"description":"Explicitly teaching morphemes — roots, prefixes, suffixes, and inflections — so learners can use word structure to decode, spell, and derive meaning.",
-"id":"morphological_instruction",
-"path":"strategies/morphological_instruction.md",
-"status":"review",
-"title":"Morphological Instruction",
 "type":"strategy"
 },
 {
@@ -139802,17 +139268,10 @@
 "type":"strategy"
 },
 {
+"aliases":["movement_breaks"],
 "description":"Brief, structured physical activities (1–5 minutes) embedded in instruction to restore attention, manage energy, and support self-regulation.",
 "id":"movement-breaks",
 "path":"strategies/movement-breaks.md",
-"status":"review",
-"title":"Movement Breaks",
-"type":"strategy"
-},
-{
-"description":"Brief, structured physical activities (1–5 minutes) inserted into instruction to restore attention, support self-regulation, and improve readiness to learn.",
-"id":"movement_breaks",
-"path":"strategies/movement_breaks.md",
 "status":"review",
 "title":"Movement Breaks",
 "type":"strategy"
@@ -139866,17 +139325,10 @@
 "type":"strategy"
 },
 {
+"aliases":["muddiest_point"],
 "description":"A one-minute classroom assessment technique in which learners write down the single least-clear point from a lecture or lesson, giving the instructor immediate diagnostic feedback.",
 "id":"muddiest-point",
 "path":"strategies/muddiest-point.md",
-"status":"review",
-"title":"Muddiest Point",
-"type":"strategy"
-},
-{
-"description":"A one-minute classroom assessment in which learners write the single thing they found most confusing, giving the instructor immediate diagnostic feedback.",
-"id":"muddiest_point",
-"path":"strategies/muddiest_point.md",
 "status":"review",
 "title":"Muddiest Point",
 "type":"strategy"
@@ -140234,6 +139686,7 @@
 "type":"strategy"
 },
 {
+"aliases":["multisensory_phonics_instruction"],
 "description":"Teaching letter–sound correspondences through simultaneous visual, auditory, and kinaesthetic-tactile channels — seeing the grapheme, saying the phoneme, and tracing or building it.",
 "id":"multisensory-phonics-instruction",
 "path":"strategies/multisensory-phonics-instruction.md",
@@ -140271,14 +139724,6 @@
 "path":"strategies/multisensory_memory_strategies_for_irregular_words.md",
 "status":"review",
 "title":"Multisensory Memory Strategies for Irregular Words",
-"type":"strategy"
-},
-{
-"description":"Teaching letter–sound relationships through simultaneous visual, auditory, and kinesthetic–tactile channels so that decoding is grounded in multiple sensory traces.",
-"id":"multisensory_phonics_instruction",
-"path":"strategies/multisensory_phonics_instruction.md",
-"status":"review",
-"title":"Multisensory Phonics Instruction",
 "type":"strategy"
 },
 {
@@ -140706,17 +140151,10 @@
 "type":"strategy"
 },
 {
+"aliases":["normalizing_struggle"],
 "description":"Creating a classroom culture in which difficulty and failure are framed as expected, valuable parts of learning, so students persist through challenges rather than avoiding them.",
 "id":"normalizing-struggle",
 "path":"strategies/normalizing-struggle.md",
-"status":"review",
-"title":"Normalizing Struggle",
-"type":"strategy"
-},
-{
-"description":"Normalizing struggle creates classroom culture in which difficulty, error, and productive failure are treated as expected and valuable parts of learning rather than signs of inadequacy.",
-"id":"normalizing_struggle",
-"path":"strategies/normalizing_struggle.md",
 "status":"review",
 "title":"Normalizing Struggle",
 "type":"strategy"
@@ -140826,6 +140264,7 @@
 "type":"strategy"
 },
 {
+"aliases":["number_talks"],
 "description":"A short, routine classroom discourse activity in which students mentally solve a computation problem and discuss their strategies, making arithmetic reasoning visible and comparable.",
 "id":"number-talks",
 "path":"strategies/number-talks.md",
@@ -140847,14 +140286,6 @@
 "path":"strategies/number_relationships_and_reasoning_strategies.md",
 "status":"review",
 "title":"Number Relationships and Reasoning Strategies",
-"type":"strategy"
-},
-{
-"description":"Number Talks are short, daily classroom routines in which students mentally solve a numerical problem and discuss their strategies as a class.",
-"id":"number_talks",
-"path":"strategies/number_talks.md",
-"status":"review",
-"title":"Number Talks",
 "type":"strategy"
 },
 {
@@ -141570,6 +141001,7 @@
 "type":"strategy"
 },
 {
+"aliases":["paired_reading"],
 "description":"A learner and a more fluent partner read aloud together in unison, with the partner gradually releasing the learner into independent reading with supportive correction.",
 "id":"paired-reading",
 "path":"strategies/paired-reading.md",
@@ -141583,14 +141015,6 @@
 "path":"strategies/paired-repeated-reading.md",
 "status":"review",
 "title":"Paired Repeated Reading",
-"type":"strategy"
-},
-{
-"description":"A fluency strategy in which a proficient reader and a developing reader read a text aloud together, with the stronger reader modeling fluent reading and gradually releasing the learner to read alone.",
-"id":"paired_reading",
-"path":"strategies/paired_reading.md",
-"status":"review",
-"title":"Paired Reading",
 "type":"strategy"
 },
 {
@@ -141770,6 +141194,7 @@
 "type":"strategy"
 },
 {
+"aliases":["partner_reading"],
 "description":"Two learners take turns reading an assigned text aloud to each other, providing feedback and monitoring comprehension.",
 "id":"partner-reading",
 "path":"strategies/partner-reading.md",
@@ -141783,14 +141208,6 @@
 "path":"strategies/partner-with-iep-families-provide-clear-service-information.md",
 "status":"draft",
 "title":"District leaders should partner with families of students with IEPs and provide clear, accessible information so families can understand and compare how their child would be served",
-"type":"strategy"
-},
-{
-"description":"Partner reading is a cooperative learning strategy in which two learners take turns reading an assigned text aloud and provide each other with immediate corrective feedback to build fluency and monitor comprehension.",
-"id":"partner_reading",
-"path":"strategies/partner_reading.md",
-"status":"review",
-"title":"Partner Reading",
 "type":"strategy"
 },
 {
@@ -141962,6 +141379,7 @@
 "type":"strategy"
 },
 {
+"aliases":["peer_critique"],
 "description":"Learners exchange structured, criteria-based feedback on each other's work to improve quality and deepen their own understanding.",
 "id":"peer-critique",
 "path":"strategies/peer-critique.md",
@@ -141986,6 +141404,7 @@
 "type":"strategy"
 },
 {
+"aliases":["peer_feedback_protocols"],
 "description":"Structured routines that guide learners to give and receive feedback on each other's work using explicit criteria and sentence frames.",
 "id":"peer-feedback-protocols",
 "path":"strategies/peer-feedback-protocols.md",
@@ -142026,6 +141445,7 @@
 "type":"strategy"
 },
 {
+"aliases":["peer_mediation"],
 "description":"A structured process in which trained students act as neutral third parties to help classmates resolve interpersonal conflicts themselves.",
 "id":"peer-mediation",
 "path":"strategies/peer-mediation.md",
@@ -142034,6 +141454,7 @@
 "type":"strategy"
 },
 {
+"aliases":["peer_observation"],
 "description":"A collaborative, non-evaluative process in which teachers observe one another's practice to exchange feedback, surface tacit expertise, and improve teaching.",
 "id":"peer-observation",
 "path":"strategies/peer-observation.md",
@@ -142090,6 +141511,7 @@
 "type":"strategy"
 },
 {
+"aliases":["peer_tutoring"],
 "description":"Learners take structured turns as tutor and tutee, explaining, questioning, and correcting each other to deepen mastery of shared content.",
 "id":"peer-tutoring",
 "path":"strategies/peer-tutoring.md",
@@ -142146,14 +141568,6 @@
 "type":"strategy"
 },
 {
-"description":"Learners exchange structured, criteria-based feedback on each other's work to deepen understanding of quality standards and improve revision.",
-"id":"peer_critique",
-"path":"strategies/peer_critique.md",
-"status":"review",
-"title":"Peer Critique",
-"type":"strategy"
-},
-{
 "description":"Learners evaluate and comment on each other's work against explicit criteria, both giving and receiving formative feedback.",
 "id":"peer_feedback",
 "path":"strategies/peer_feedback.md",
@@ -142162,43 +141576,11 @@
 "type":"strategy"
 },
 {
-"description":"Structured routines that guide learners to give and receive feedback on each other's work using explicit criteria, sentence frames, and staged procedures.",
-"id":"peer_feedback_protocols",
-"path":"strategies/peer_feedback_protocols.md",
-"status":"review",
-"title":"Peer Feedback Protocols",
-"type":"strategy"
-},
-{
-"description":"A structured process in which trained students act as neutral third parties to help classmates resolve interpersonal conflicts themselves.",
-"id":"peer_mediation",
-"path":"strategies/peer_mediation.md",
-"status":"review",
-"title":"Peer Mediation",
-"type":"strategy"
-},
-{
-"description":"A reciprocal process in which educators observe one another's teaching or learners observe peers' performance, using structured protocols to generate formative feedback.",
-"id":"peer_observation",
-"path":"strategies/peer_observation.md",
-"status":"review",
-"title":"Peer Observation",
-"type":"strategy"
-},
-{
 "description":"Learners exchange drafts and provide structured feedback on each other's work, then revise based on that feedback.",
 "id":"peer_revision",
 "path":"strategies/peer_revision.md",
 "status":"review",
 "title":"Peer Revision",
-"type":"strategy"
-},
-{
-"description":"Learners take structured turns as tutor and tutee, with one student explaining, questioning, and giving feedback to another under teacher-set routines.",
-"id":"peer_tutoring",
-"path":"strategies/peer_tutoring.md",
-"status":"review",
-"title":"Peer Tutoring",
 "type":"strategy"
 },
 {
@@ -142466,17 +141848,10 @@
 "type":"strategy"
 },
 {
+"aliases":["phonics_instruction"],
 "description":"Systematic, explicit teaching of letter–sound correspondences and blending so learners can decode unfamiliar words independently.",
 "id":"phonics-instruction",
 "path":"strategies/phonics-instruction.md",
-"status":"review",
-"title":"Phonics Instruction",
-"type":"strategy"
-},
-{
-"description":"Systematic instruction in letter–sound relationships and how to use them to decode and spell words.",
-"id":"phonics_instruction",
-"path":"strategies/phonics_instruction.md",
 "status":"review",
 "title":"Phonics Instruction",
 "type":"strategy"
@@ -142498,6 +141873,7 @@
 "type":"strategy"
 },
 {
+"aliases":["physical_activity_breaks"],
 "description":"Short periods of movement integrated into instruction or work routines to restore attention, reduce fatigue, and support well-being.",
 "id":"physical-activity-breaks",
 "path":"strategies/physical-activity-breaks.md",
@@ -142527,14 +141903,6 @@
 "path":"strategies/physical_activity-encouraging_environment.md",
 "status":"review",
 "title":"Physical Activity-Encouraging Environment",
-"type":"strategy"
-},
-{
-"description":"Short, structured bouts of movement (2–10 minutes) integrated into lessons or work sessions to restore attention, reduce fatigue, and support well-being.",
-"id":"physical_activity_breaks",
-"path":"strategies/physical_activity_breaks.md",
-"status":"review",
-"title":"Physical Activity Breaks",
 "type":"strategy"
 },
 {
@@ -142954,6 +142322,7 @@
 "type":"strategy"
 },
 {
+"aliases":["positive_behavior_interventions_and_supports"],
 "description":"A schoolwide framework that teaches and reinforces expected behaviors through explicit instruction, consistent acknowledgment systems, and tiered support rather than reactive punishment.",
 "id":"positive-behavior-interventions-and-supports",
 "path":"strategies/positive-behavior-interventions-and-supports.md",
@@ -142962,6 +142331,7 @@
 "type":"strategy"
 },
 {
+"aliases":["positive_behavior_support"],
 "description":"A schoolwide or classroom framework that prevents problem behavior by teaching and reinforcing expected behaviors rather than punishing infractions.",
 "id":"positive-behavior-support",
 "path":"strategies/positive-behavior-support.md",
@@ -142970,6 +142340,7 @@
 "type":"strategy"
 },
 {
+"aliases":["positive_behavioral_interventions_and_supports_pbis"],
 "description":"A school-wide, tiered framework for teaching and reinforcing positive behavior expectations rather than relying on punishment.",
 "id":"positive-behavioral-interventions-and-supports-pbis",
 "path":"strategies/positive-behavioral-interventions-and-supports-pbis.md",
@@ -143018,6 +142389,7 @@
 "type":"strategy"
 },
 {
+"aliases":["positive_narration"],
 "description":"The teacher verbally describes desired student behavior as it occurs, drawing attention to on-task actions rather than misbehavior.",
 "id":"positive-narration",
 "path":"strategies/positive-narration.md",
@@ -143103,38 +142475,6 @@
 "path":"strategies/positive_affirmations.md",
 "status":"review",
 "title":"Positive Affirmations",
-"type":"strategy"
-},
-{
-"description":"A schoolwide framework that teaches and reinforces expected behavior through a multi-tiered system of prevention, rather than relying on reactive punishment.",
-"id":"positive_behavior_interventions_and_supports",
-"path":"strategies/positive_behavior_interventions_and_supports.md",
-"status":"review",
-"title":"Positive Behavior Interventions and Supports",
-"type":"strategy"
-},
-{
-"description":"A schoolwide, function-based approach to preventing problem behavior by teaching and reinforcing expected behaviors rather than punishing unwanted ones.",
-"id":"positive_behavior_support",
-"path":"strategies/positive_behavior_support.md",
-"status":"review",
-"title":"Positive Behavior Support",
-"type":"strategy"
-},
-{
-"description":"A school-wide framework that teaches and reinforces expected behaviors proactively rather than reacting to misbehavior with punishment.",
-"id":"positive_behavioral_interventions_and_supports_pbis",
-"path":"strategies/positive_behavioral_interventions_and_supports_pbis.md",
-"status":"review",
-"title":"Positive Behavioral Interventions and Supports (PBIS)",
-"type":"strategy"
-},
-{
-"description":"Describing students' on-task behavior aloud, in specific and positive terms, to reinforce expectations and redirect the whole class without confrontation.",
-"id":"positive_narration",
-"path":"strategies/positive_narration.md",
-"status":"review",
-"title":"Positive Narration",
 "type":"strategy"
 },
 {
@@ -143450,17 +142790,10 @@
 "type":"strategy"
 },
 {
+"aliases":["pre-teaching_vocabulary"],
 "description":"Introducing key new words and their meanings before learners encounter them in a text or lesson, so that reading or instruction proceeds without vocabulary-induced breakdowns.",
 "id":"pre-teaching-vocabulary",
 "path":"strategies/pre-teaching-vocabulary.md",
-"status":"review",
-"title":"Pre-Teaching Vocabulary",
-"type":"strategy"
-},
-{
-"description":"Pre-teaching vocabulary involves introducing new words before encountering them in a text or lesson.",
-"id":"pre-teaching_vocabulary",
-"path":"strategies/pre-teaching_vocabulary.md",
 "status":"review",
 "title":"Pre-Teaching Vocabulary",
 "type":"strategy"
@@ -144050,6 +143383,7 @@
 "type":"strategy"
 },
 {
+"aliases":["process_writing"],
 "description":"An instructional approach that treats writing as a recursive cycle of planning, drafting, revising, and editing rather than a single-shot product, with explicit instruction and feedback at each stage.",
 "id":"process-writing",
 "path":"strategies/process-writing.md",
@@ -144087,14 +143421,6 @@
 "path":"strategies/process_for_constructive_decision-making.md",
 "status":"review",
 "title":"Process for Constructive Decision-Making",
-"type":"strategy"
-},
-{
-"description":"An approach to writing instruction that treats composing as a recursive cycle of planning, drafting, revising, and editing, with explicit instruction and feedback at each stage.",
-"id":"process_writing",
-"path":"strategies/process_writing.md",
-"status":"review",
-"title":"Process Writing",
 "type":"strategy"
 },
 {
@@ -144194,6 +143520,7 @@
 "type":"strategy"
 },
 {
+"aliases":["project-based_learning"],
 "description":"Learners investigate a real-world, complex problem or challenge over an extended period, producing a public product while developing collaboration, communication, critical thinking, and creativity.",
 "id":"project-based-learning",
 "path":"strategies/project-based-learning.md",
@@ -144215,14 +143542,6 @@
 "path":"strategies/project-based-learning-pbl-in-math.md",
 "status":"review",
 "title":"Project-Based Learning (PBL) in Math",
-"type":"strategy"
-},
-{
-"description":"Project-based learning (PBL) engages learners in sustained inquiry on real-world problems, culminating in an authentic product or presentation.",
-"id":"project-based_learning",
-"path":"strategies/project-based_learning.md",
-"status":"review",
-"title":"Project-based Learning",
 "type":"strategy"
 },
 {
@@ -144570,6 +143889,7 @@
 "type":"strategy"
 },
 {
+"aliases":["proximity_control"],
 "description":"The teacher moves physically closer to students to prevent or redirect off-task behavior nonverbally.",
 "id":"proximity-control",
 "path":"strategies/proximity-control.md",
@@ -144583,14 +143903,6 @@
 "path":"strategies/proximity-management.md",
 "status":"review",
 "title":"Proximity Management",
-"type":"strategy"
-},
-{
-"description":"The teacher moves physically near students to prevent or redirect off-task behavior nonverbally, maintaining instructional flow without public reprimand.",
-"id":"proximity_control",
-"path":"strategies/proximity_control.md",
-"status":"review",
-"title":"Proximity Control",
 "type":"strategy"
 },
 {
@@ -144746,17 +144058,10 @@
 "type":"strategy"
 },
 {
+"aliases":["question-answer_relationships"],
 "description":"QAR teaches learners to classify questions by where their answers come from — in the text, across the text, or from prior knowledge — so they can select the right comprehension strategy for each.",
 "id":"question-answer-relationships",
 "path":"strategies/question-answer-relationships.md",
-"status":"review",
-"title":"Question Answer Relationships",
-"type":"strategy"
-},
-{
-"description":"A strategy that teaches learners to classify comprehension questions by where the answer must come from — in the text or in their own knowledge — and to match their search strategy accordingly.",
-"id":"question-answer_relationships",
-"path":"strategies/question-answer_relationships.md",
 "status":"review",
 "title":"Question Answer Relationships",
 "type":"strategy"
@@ -144810,17 +144115,10 @@
 "type":"strategy"
 },
 {
+"aliases":["question_generation"],
 "description":"Learners formulate their own questions about material — before, during, or after instruction — to activate prior knowledge, direct attention, and deepen processing.",
 "id":"question-generation",
 "path":"strategies/question-generation.md",
-"status":"review",
-"title":"Question Generation",
-"type":"strategy"
-},
-{
-"description":"Learners compose their own questions about material — before, during, or after instruction — to activate prior knowledge, direct attention, and deepen processing.",
-"id":"question_generation",
-"path":"strategies/question_generation.md",
 "status":"review",
 "title":"Question Generation",
 "type":"strategy"
@@ -145210,6 +144508,7 @@
 "type":"strategy"
 },
 {
+"aliases":["read_alouds"],
 "description":"An educator reads a text aloud to learners, pausing to model effective reading and thinking strategies such as questioning, inferencing, and using context cues.",
 "id":"read-alouds",
 "path":"strategies/read-alouds.md",
@@ -145263,14 +144562,6 @@
 "path":"strategies/read_aloud_with_highlighting.md",
 "status":"review",
 "title":"Read Aloud with Highlighting",
-"type":"strategy"
-},
-{
-"description":"The teacher reads a text aloud to learners while modeling fluent reading, thinking, and vocabulary engagement, making complex text accessible beyond learners' independent reading levels.",
-"id":"read_alouds",
-"path":"strategies/read_alouds.md",
-"status":"review",
-"title":"Read-Alouds",
 "type":"strategy"
 },
 {
@@ -145330,6 +144621,7 @@
 "type":"strategy"
 },
 {
+"aliases":["reading_conferences"],
 "description":"One-on-one instructor–learner interactions during independent reading that provide targeted feedback, strategy coaching, and gap diagnosis.",
 "id":"reading-conferences",
 "path":"strategies/reading-conferences.md",
@@ -145431,14 +144723,6 @@
 "path":"strategies/reading_and_writing_for_real-world_math_applications.md",
 "status":"review",
 "title":"Reading and Writing for Real-World Math Applications",
-"type":"strategy"
-},
-{
-"description":"One-on-one, brief teacher–student conversations during independent reading in which the teacher assesses the reader's thinking, coaches strategy use, and sets a next-step goal.",
-"id":"reading_conferences",
-"path":"strategies/reading_conferences.md",
-"status":"review",
-"title":"Reading Conferences",
 "type":"strategy"
 },
 {
@@ -145554,6 +144838,7 @@
 "type":"strategy"
 },
 {
+"aliases":["reciprocal_peer_tutoring"],
 "description":"Students of similar ability are paired and alternate between tutor and tutee roles, taking turns teaching, questioning, and giving each other feedback.",
 "id":"reciprocal-peer-tutoring",
 "path":"strategies/reciprocal-peer-tutoring.md",
@@ -145575,14 +144860,6 @@
 "path":"strategies/reciprocal-teaching-peer-assisted-learning-strategies-pals.md",
 "status":"review",
 "title":"Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)",
-"type":"strategy"
-},
-{
-"description":"Reciprocal peer tutoring (RPT) pairs students of similar ability who alternate the roles of tutor and tutee, taking turns teaching, questioning, and giving feedback.",
-"id":"reciprocal_peer_tutoring",
-"path":"strategies/reciprocal_peer_tutoring.md",
-"status":"review",
-"title":"Reciprocal Peer Tutoring",
 "type":"strategy"
 },
 {
@@ -145906,6 +145183,7 @@
 "type":"strategy"
 },
 {
+"aliases":["reflective_journaling"],
 "description":"Learners regularly write structured reflections connecting course content to their own thoughts, experiences, and emotions to deepen understanding and develop reflective practice.",
 "id":"reflective-journaling",
 "path":"strategies/reflective-journaling.md",
@@ -145951,14 +145229,6 @@
 "path":"strategies/reflective_assessment.md",
 "status":"review",
 "title":"Reflective Assessment",
-"type":"strategy"
-},
-{
-"description":"Reflective journaling is a technique used to encourage reflective learning by highlighting students' thoughts and perceptions about course content.",
-"id":"reflective_journaling",
-"path":"strategies/reflective_journaling.md",
-"status":"review",
-"title":"Reflective Journaling",
 "type":"strategy"
 },
 {
@@ -146258,17 +145528,10 @@
 "type":"strategy"
 },
 {
+"aliases":["repeated_reading"],
 "description":"Learners reread the same passage multiple times until reaching a fluency criterion such as a target words-correct-per-minute rate.",
 "id":"repeated-reading",
 "path":"strategies/repeated-reading.md",
-"status":"review",
-"title":"Repeated Reading",
-"type":"strategy"
-},
-{
-"description":"Learners reread the same text multiple times until they reach a fluency criterion, building automatic word recognition that frees cognitive resources for comprehension.",
-"id":"repeated_reading",
-"path":"strategies/repeated_reading.md",
 "status":"review",
 "title":"Repeated Reading",
 "type":"strategy"
@@ -146666,6 +145929,7 @@
 "type":"strategy"
 },
 {
+"aliases":["restorative_circles"],
 "description":"A structured dialogue format in which a community addresses harm, conflict, or misbehavior by giving every participant an equal voice to share perspectives, name impacts, and agree on repair.",
 "id":"restorative-circles",
 "path":"strategies/restorative-circles.md",
@@ -146690,6 +145954,7 @@
 "type":"strategy"
 },
 {
+"aliases":["restorative_practices"],
 "description":"A whole-community approach that builds relationships and repairs harm through facilitated dialogue rather than exclusionary punishment.",
 "id":"restorative-practices",
 "path":"strategies/restorative-practices.md",
@@ -146714,33 +145979,10 @@
 "type":"strategy"
 },
 {
+"aliases":["restorative_questions"],
 "description":"Open-ended questions that help learners reflect on harm, responsibility, and repair after conflict, replacing punitive discipline with dialogue.",
 "id":"restorative-questions",
 "path":"strategies/restorative-questions.md",
-"status":"review",
-"title":"Restorative Questions",
-"type":"strategy"
-},
-{
-"description":"A structured, facilitated dialogue format in which community members affected by harm or conflict collaboratively name what happened, identify impacts, and agree on how to repair relationships.",
-"id":"restorative_circles",
-"path":"strategies/restorative_circles.md",
-"status":"review",
-"title":"Restorative Circles",
-"type":"strategy"
-},
-{
-"description":"A relational approach to building classroom community and responding to harm through facilitated dialogue, replacing exclusionary discipline with accountability and repair.",
-"id":"restorative_practices",
-"path":"strategies/restorative_practices.md",
-"status":"review",
-"title":"Restorative Practices",
-"type":"strategy"
-},
-{
-"description":"Open-ended questions that shift responsibility for reflection and repair onto the learner after harm or conflict, replacing adult-imposed judgment with structured dialogue.",
-"id":"restorative_questions",
-"path":"strategies/restorative_questions.md",
 "status":"review",
 "title":"Restorative Questions",
 "type":"strategy"
@@ -146786,6 +146028,7 @@
 "type":"strategy"
 },
 {
+"aliases":["retrieval_practice"],
 "description":"Actively recalling information from memory — rather than re-reading it — to strengthen long-term retention and reveal knowledge gaps.",
 "id":"retrieval-practice",
 "path":"strategies/retrieval-practice.md",
@@ -146834,14 +146077,6 @@
 "type":"strategy"
 },
 {
-"description":"Actively recalling information from memory — rather than re-reading it — to strengthen long-term retention and understanding.",
-"id":"retrieval_practice",
-"path":"strategies/retrieval_practice.md",
-"status":"review",
-"title":"Retrieval Practice",
-"type":"strategy"
-},
-{
 "description":"Students first recall everything they can about a topic from memory (a Brain Dump), then organize the retrieved material into a graphic organizer, optionally with a partner, and finally verify against source material.",
 "id":"retrieval_practice_with_graphic_organizers",
 "path":"strategies/retrieval_practice_with_graphic_organizers.md",
@@ -146882,19 +146117,12 @@
 "type":"strategy"
 },
 {
+"aliases":["revision_cycles"],
 "description":"Structured cycles in which learners produce work, receive feedback, and revise it before final submission or publication.",
 "id":"revision-cycles",
 "path":"strategies/revision-cycles.md",
 "status":"review",
 "title":"Revision Cycles",
-"type":"strategy"
-},
-{
-"description":"Structured cycles in which learners produce work, receive feedback, and revise it, treating improvement as an iterative process rather than a one-shot submission.",
-"id":"revision_cycles",
-"path":"strategies/revision_cycles.md",
-"status":"review",
-"title":"Revision_Cycles",
 "type":"strategy"
 },
 {
@@ -147082,6 +146310,7 @@
 "type":"strategy"
 },
 {
+"aliases":["role_play"],
 "description":"Learners act out realistic scenarios in a safe environment, practicing communication, decision-making, and interpersonal skills with feedback before facing the real situation.",
 "id":"role-play",
 "path":"strategies/role-play.md",
@@ -147135,14 +146364,6 @@
 "path":"strategies/role-specific-sustained-ai-professional-learning-pathways.md",
 "status":"draft",
 "title":"Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16",
-"type":"strategy"
-},
-{
-"description":"Learners act out assigned roles in a simulated scenario, practicing interpersonal skills and decision-making in a safe environment with structured feedback.",
-"id":"role_play",
-"path":"strategies/role_play.md",
-"status":"review",
-"title":"Role Play",
 "type":"strategy"
 },
 {
@@ -147242,6 +146463,7 @@
 "type":"strategy"
 },
 {
+"aliases":["rubric-based_self-assessment"],
 "description":"Learners evaluate their own work against an explicit rubric, using the criteria as both a quality standard and a guide for revision.",
 "id":"rubric-based-self-assessment",
 "path":"strategies/rubric-based-self-assessment.md",
@@ -147250,14 +146472,7 @@
 "type":"strategy"
 },
 {
-"description":"Learners evaluate their own work against an explicit rubric, using the criteria as both a quality standard and a guide for revision.",
-"id":"rubric-based_self-assessment",
-"path":"strategies/rubric-based_self-assessment.md",
-"status":"review",
-"title":"Rubric-Based Self Assessment",
-"type":"strategy"
-},
-{
+"aliases":["rubric_co-construction"],
 "description":"Learners and instructor collaboratively develop the evaluation criteria and performance-level descriptions used to assess their work.",
 "id":"rubric-co-construction",
 "path":"strategies/rubric-co-construction.md",
@@ -147271,14 +146486,6 @@
 "path":"strategies/rubric-feedback.md",
 "status":"review",
 "title":"Rubric Feedback",
-"type":"strategy"
-},
-{
-"description":"Learners work with the instructor to build or refine the evaluation criteria and quality definitions they will be assessed against.",
-"id":"rubric_co-construction",
-"path":"strategies/rubric_co-construction.md",
-"status":"review",
-"title":"Rubric_Co Construction",
 "type":"strategy"
 },
 {
@@ -147466,14 +146673,7 @@
 "type":"strategy"
 },
 {
-"description":"Temporary, structured support that helps learners manage their emotional, motivational, and behavioral responses, gradually withdrawn as independent self-regulation develops.",
-"id":"scaffolding_for_self-regulation",
-"path":"strategies/scaffolding_for_self-regulation.md",
-"status":"review",
-"title":"Scaffolding for Self-Regulation",
-"type":"strategy"
-},
-{
+"aliases":["scaffolding_for_self-regulation"],
 "description":"Temporarily structuring tasks, modeling self-regulatory moves, and fading support so learners develop the ability to manage their own emotions, effort, and learning processes.",
 "id":"scaffolding_self-regulation",
 "path":"strategies/scaffolding_self-regulation.md",
@@ -147546,17 +146746,10 @@
 "type":"strategy"
 },
 {
+"aliases":["schema-based_instruction"],
 "description":"Teaching learners to recognize the underlying structure of problem types so they can map problem features to appropriate solution strategies.",
 "id":"schema-based-instruction",
 "path":"strategies/schema-based-instruction.md",
-"status":"review",
-"title":"Schema-Based Instruction",
-"type":"strategy"
-},
-{
-"description":"Schema-based instruction teaches learners to recognize the underlying structure of problems so they can map surface features to an appropriate solution strategy.",
-"id":"schema-based_instruction",
-"path":"strategies/schema-based_instruction.md",
 "status":"review",
 "title":"Schema-Based Instruction",
 "type":"strategy"
@@ -147786,27 +146979,12 @@
 "type":"strategy"
 },
 {
-"description":"A Project Zero thinking routine in which learners observe a stimulus and record what they see, what they think about it, and what it makes them wonder, surfacing observations, interpretations, and questions.",
-"id":"see,_think,_wonder",
-"path":"strategies/see,_think,_wonder.md",
-"status":"review",
-"title":"See, Think, Wonder",
-"type":"strategy"
-},
-{
+"aliases":["see_think_wonder","see","_think","_wonder"],
 "description":"A Project Zero thinking routine in which learners observe a stimulating image and record what they see, what they think about it, and what it makes them wonder.",
 "id":"see-think-wonder",
 "path":"strategies/see-think-wonder.md",
 "status":"review",
 "title":"See, Think, Wonder",
-"type":"strategy"
-},
-{
-"description":"A visible-thinking routine that asks learners to describe what they observe, interpret what they think is happening, and pose questions about what they wonder.",
-"id":"see_think_wonder",
-"path":"strategies/see_think_wonder.md",
-"status":"review",
-"title":"See_Think_Wonder",
 "type":"strategy"
 },
 {
@@ -148058,6 +147236,7 @@
 "type":"strategy"
 },
 {
+"aliases":["self-monitoring_checklists"],
 "description":"Learners use structured checklists to track their own performance, progress, or comprehension against explicit criteria during learning tasks.",
 "id":"self-monitoring-checklists",
 "path":"strategies/self-monitoring-checklists.md",
@@ -148082,6 +147261,7 @@
 "type":"strategy"
 },
 {
+"aliases":["self-monitoring_of_behavior"],
 "description":"Learners observe and record their own behavior (attention, compliance, performance), producing reactive improvements in the monitored behavior and building self-regulation.",
 "id":"self-monitoring-of-behavior",
 "path":"strategies/self-monitoring-of-behavior.md",
@@ -148106,33 +147286,10 @@
 "type":"strategy"
 },
 {
+"aliases":["self-monitoring_strategies"],
 "description":"Techniques that prompt learners to track their own comprehension, performance, and progress against criteria during learning.",
 "id":"self-monitoring-strategies",
 "path":"strategies/self-monitoring-strategies.md",
-"status":"review",
-"title":"Self Monitoring Strategies",
-"type":"strategy"
-},
-{
-"description":"Learners use structured checklists to track their own progress, accuracy, and strategy use against explicit criteria during learning tasks.",
-"id":"self-monitoring_checklists",
-"path":"strategies/self-monitoring_checklists.md",
-"status":"review",
-"title":"Self Monitoring_Checklists",
-"type":"strategy"
-},
-{
-"description":"Self-monitoring is a strategy where learners self-assess their behavior and record the results, increasing or decreasing the frequency, intensity, or duration of existing behavior.",
-"id":"self-monitoring_of_behavior",
-"path":"strategies/self-monitoring_of_behavior.md",
-"status":"review",
-"title":"Self-Monitoring of Behavior",
-"type":"strategy"
-},
-{
-"description":"Learners deliberately observe, record, and evaluate their own performance, attention, or comprehension during learning to regulate effort and strategy use.",
-"id":"self-monitoring_strategies",
-"path":"strategies/self-monitoring_strategies.md",
 "status":"review",
 "title":"Self Monitoring Strategies",
 "type":"strategy"
@@ -148202,14 +147359,7 @@
 "type":"strategy"
 },
 {
-"description":"Scaffolding self-regulation means providing temporary external structure — prompts, routines, and co-regulation from a facilitator — so learners can practice managing emotional and behavioral responses in an emotionally safe context.",
-"id":"self-regulation_-_scaffolding",
-"path":"strategies/self-regulation_-_scaffolding.md",
-"status":"review",
-"title":"Self-Regulation - Scaffolding",
-"type":"strategy"
-},
-{
+"aliases":["self-regulation_-_scaffolding"],
 "description":"Scaffolding provides learners with a safe and emotionally supportive context to learn how to manage their responses to challenging or stimulating situations.",
 "id":"self-regulation_scaffolding",
 "path":"strategies/self-regulation_scaffolding.md",
@@ -148338,6 +147488,7 @@
 "type":"strategy"
 },
 {
+"aliases":["sentence_combining"],
 "description":"Learners take short, kernel sentences and combine them into more complex, mature sentences using coordination, subordination, and embedding.",
 "id":"sentence-combining",
 "path":"strategies/sentence-combining.md",
@@ -148378,6 +147529,7 @@
 "type":"strategy"
 },
 {
+"aliases":["sentence_frames"],
 "description":"Sentence frames provide partially completed sentence starters that structure learners' oral or written responses, supporting academic language production and respectful dialogue.",
 "id":"sentence-frames",
 "path":"strategies/sentence-frames.md",
@@ -148399,22 +147551,6 @@
 "path":"strategies/sentence-manipulation-and-semantic-mapping-strategies.md",
 "status":"draft",
 "title":"Use sentence manipulation, sentence combining, sentence expanding, semantic feature analysis, and semantic mapping",
-"type":"strategy"
-},
-{
-"description":"Practice how to combine two simple sentences into a compound or complex sentence.",
-"id":"sentence_combining",
-"path":"strategies/sentence_combining.md",
-"status":"review",
-"title":"Sentence Combining",
-"type":"strategy"
-},
-{
-"description":"Provide partially completed sentence starters that structure academic or dialogic language so learners can participate in discussion and writing beyond their current independent production level.",
-"id":"sentence_frames",
-"path":"strategies/sentence_frames.md",
-"status":"review",
-"title":"Sentence Frames",
 "type":"strategy"
 },
 {
@@ -148482,17 +147618,10 @@
 "type":"strategy"
 },
 {
+"aliases":["service_learning"],
 "description":"A teaching strategy that integrates meaningful community service with academic instruction and structured reflection, so learners apply course concepts to authentic community-identified needs.",
 "id":"service-learning",
 "path":"strategies/service-learning.md",
-"status":"review",
-"title":"Service Learning",
-"type":"strategy"
-},
-{
-"description":"A teaching strategy that integrates meaningful community service with academic instruction and structured reflection, so learners apply course content to authentic community-identified needs.",
-"id":"service_learning",
-"path":"strategies/service_learning.md",
 "status":"review",
 "title":"Service Learning",
 "type":"strategy"
@@ -148658,6 +147787,7 @@
 "type":"strategy"
 },
 {
+"aliases":["shadowing-for-behavior-adjustment-variant","shadowing_for_behavior_adjustment"],
 "description":"An adult follows a child closely, within arm's reach, to provide constant direct supervision and prevent unwanted behaviors (e.g., biting) before they occur.",
 "id":"shadowing-behavior-adjustment",
 "path":"strategies/shadowing-behavior-adjustment.md",
@@ -148666,27 +147796,11 @@
 "type":"strategy"
 },
 {
-"description":"An adult follows a child everywhere they go, staying within arm's reach to prevent unwanted behavior before it happens.",
-"id":"shadowing-for-behavior-adjustment-variant",
-"path":"strategies/shadowing-for-behavior-adjustment-variant.md",
-"status":"review",
-"title":"Shadowing (for behavior adjustment)",
-"type":"strategy"
-},
-{
 "description":"Shadowing is a direct observation technique where an adult follows a student throughout their school day to gain real-time qualitative evidence of the student's experiences.",
 "id":"shadowing_a_student",
 "path":"strategies/shadowing_a_student.md",
 "status":"review",
 "title":"Shadowing a Student",
-"type":"strategy"
-},
-{
-"description":"An adult maintains close, continuous proximity to a child to prevent harmful behaviors before they occur, then coaches replacement behaviors.",
-"id":"shadowing_for_behavior_adjustment",
-"path":"strategies/shadowing_for_behavior_adjustment.md",
-"status":"review",
-"title":"Shadowing for Behavior Adjustment",
 "type":"strategy"
 },
 {
@@ -148770,6 +147884,7 @@
 "type":"strategy"
 },
 {
+"aliases":["shared_reading"],
 "description":"An interactive read-aloud in which an adult models fluent reading while learners follow the text, participate through prediction and questioning, and gradually take over parts of the reading.",
 "id":"shared-reading",
 "path":"strategies/shared-reading.md",
@@ -148794,6 +147909,7 @@
 "type":"strategy"
 },
 {
+"aliases":["shared_writing"],
 "description":"Teacher and students collaboratively compose a text, with the teacher scribing student-generated ideas and guiding revision.",
 "id":"shared-writing",
 "path":"strategies/shared-writing.md",
@@ -148802,27 +147918,11 @@
 "type":"strategy"
 },
 {
-"description":"An interactive read-aloud in which an adult models fluent reading while learners follow the text, participate in prediction and discussion, and gradually take over parts of the reading.",
-"id":"shared_reading",
-"path":"strategies/shared_reading.md",
-"status":"review",
-"title":"Shared Reading",
-"type":"strategy"
-},
-{
 "description":"A classroom practice in which students publicly share reflections on their academic work—both successes and struggles—so that the class collectively supports each member's ongoing improvement.",
 "id":"shared_reflection",
 "path":"strategies/shared_reflection.md",
 "status":"review",
 "title":"Shared Reflection",
-"type":"strategy"
-},
-{
-"description":"Shared writing involves a teacher and students collaboratively composing a text, with the teacher acting as a scribe who records and refines student-generated ideas.",
-"id":"shared_writing",
-"path":"strategies/shared_writing.md",
-"status":"review",
-"title":"Shared Writing",
 "type":"strategy"
 },
 {
@@ -148890,19 +147990,12 @@
 "type":"strategy"
 },
 {
+"aliases":["sift_method"],
 "description":"A four-move strategy (Stop, Investigate the source, Find better coverage, Trace claims) for evaluating online information quickly through lateral rather than vertical reading.",
 "id":"sift-method",
 "path":"strategies/sift-method.md",
 "status":"review",
 "title":"Sift Method",
-"type":"strategy"
-},
-{
-"description":"A four-move strategy (Stop, Investigate the source, Find better coverage, Trace claims) for efficiently evaluating the credibility of online information.",
-"id":"sift_method",
-"path":"strategies/sift_method.md",
-"status":"review",
-"title":"SIFT Method",
 "type":"strategy"
 },
 {
@@ -149458,6 +148551,7 @@
 "type":"strategy"
 },
 {
+"aliases":["socratic_seminar"],
 "description":"A structured, dialogue-based discussion in which participants question, analyze, and build meaning from a shared text through open-ended inquiry rather than teacher-led explanation.",
 "id":"socratic-seminar",
 "path":"strategies/socratic-seminar.md",
@@ -149471,14 +148565,6 @@
 "path":"strategies/socratic_questioning.md",
 "status":"review",
 "title":"Socratic Questioning",
-"type":"strategy"
-},
-{
-"description":"A structured, open-ended dialogue in which learners question a shared text or problem, building understanding through reasoned discussion rather than teacher explanation.",
-"id":"socratic_seminar",
-"path":"strategies/socratic_seminar.md",
-"status":"review",
-"title":"Socratic Seminar",
 "type":"strategy"
 },
 {
@@ -149634,6 +148720,7 @@
 "type":"strategy"
 },
 {
+"aliases":["spaced_retrieval_practice"],
 "description":"Scheduling recall attempts across increasing intervals of time so that learners must reconstruct knowledge from memory rather than re-expose themselves to it.",
 "id":"spaced-retrieval-practice",
 "path":"strategies/spaced-retrieval-practice.md",
@@ -149671,14 +148758,6 @@
 "path":"strategies/spaced_repetition.md",
 "status":"review",
 "title":"Spaced Repetition",
-"type":"strategy"
-},
-{
-"description":"Distributing retrieval attempts over time and across sessions so learners must reconstruct knowledge from memory rather than re-expose themselves to it.",
-"id":"spaced_retrieval_practice",
-"path":"strategies/spaced_retrieval_practice.md",
-"status":"review",
-"title":"Spaced Retrieval Practice",
 "type":"strategy"
 },
 {
@@ -149794,6 +148873,7 @@
 "type":"strategy"
 },
 {
+"aliases":["spelling_retrieval_practice"],
 "description":"Learners practice spelling by generating word spellings from memory rather than copying or passively re-reading them.",
 "id":"spelling-retrieval-practice",
 "path":"strategies/spelling-retrieval-practice.md",
@@ -149807,14 +148887,6 @@
 "path":"strategies/spelling_instruction_through_encoding.md",
 "status":"review",
 "title":"Spelling Instruction Through Encoding",
-"type":"strategy"
-},
-{
-"description":"Learners practice spelling by actively retrieving and producing word spellings from memory rather than re-reading or copying them.",
-"id":"spelling_retrieval_practice",
-"path":"strategies/spelling_retrieval_practice.md",
-"status":"review",
-"title":"Spelling Retrieval Practice",
 "type":"strategy"
 },
 {
@@ -149994,17 +149066,10 @@
 "type":"strategy"
 },
 {
+"aliases":["standards-based_grading"],
 "description":"Shift from arbitrary points and percentages to evaluating students on mastery of specific learning standards, making expectations clear and grades meaningful.",
 "id":"standards-based-grading",
 "path":"strategies/standards-based-grading.md",
-"status":"review",
-"title":"Standards-Based Grading",
-"type":"strategy"
-},
-{
-"description":"Shift from arbitrary points and percentages to evaluating students on mastery of specific learning standards, making expectations clear and grades meaningful.",
-"id":"standards-based_grading",
-"path":"strategies/standards-based_grading.md",
 "status":"review",
 "title":"Standards-Based Grading",
 "type":"strategy"
@@ -150138,17 +149203,10 @@
 "type":"strategy"
 },
 {
+"aliases":["station_rotation"],
 "description":"Learners move between fixed stations — teacher-led, collaborative, and independent/digital — on a set schedule, so one teacher can differentiate instruction within a single class period.",
 "id":"station-rotation",
 "path":"strategies/station-rotation.md",
-"status":"review",
-"title":"Station Rotation",
-"type":"strategy"
-},
-{
-"description":"Students rotate through a fixed sequence of learning stations — typically including teacher-led, collaborative, and digital/independent work — within a single lesson or class period.",
-"id":"station_rotation",
-"path":"strategies/station_rotation.md",
 "status":"review",
 "title":"Station Rotation",
 "type":"strategy"
@@ -150282,6 +149340,7 @@
 "type":"strategy"
 },
 {
+"aliases":["stop_and_jot"],
 "description":"A processing activity in which learners pause at designated points in a lesson to write brief responses to instructor-posed questions before instruction continues.",
 "id":"stop-and-jot",
 "path":"strategies/stop-and-jot.md",
@@ -150295,14 +149354,6 @@
 "path":"strategies/stop-and-reflect-moments-ai-thinking.md",
 "status":"draft",
 "title":"Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing",
-"type":"strategy"
-},
-{
-"description":"A processing activity that provides structured opportunities for learners to pause and respond in writing to key questions during a lesson.",
-"id":"stop_and_jot",
-"path":"strategies/stop_and_jot.md",
-"status":"review",
-"title":"Stop and Jot",
 "type":"strategy"
 },
 {
@@ -150650,6 +149701,7 @@
 "type":"strategy"
 },
 {
+"aliases":["structured_academic_controversy"],
 "description":"A cooperative learning procedure in which pairs of students research and advocate opposing positions on an issue, then reverse perspectives, reach consensus, and report jointly.",
 "id":"structured-academic-controversy",
 "path":"strategies/structured-academic-controversy.md",
@@ -150770,14 +149822,6 @@
 "type":"strategy"
 },
 {
-"description":"A cooperative learning procedure in which pairs of opposing teams research, advocate, and then reverse perspectives on a contested issue.",
-"id":"structured_academic_controversy",
-"path":"strategies/structured_academic_controversy.md",
-"status":"review",
-"title":"Structured Academic Controversy",
-"type":"strategy"
-},
-{
 "description":"School-wide programs that embed family participation in students' academic learning, sustained across years and evaluated for effectiveness.",
 "id":"structured_and_sustained_family_engagement_programs",
 "path":"strategies/structured_and_sustained_family_engagement_programs.md",
@@ -150858,19 +149902,12 @@
 "type":"strategy"
 },
 {
+"aliases":["student-created_magazines"],
 "description":"Students research real-world applications of a subject area, read primary sources closely, and write and assemble articles into a collaborative magazine.",
 "id":"student-created-magazines",
 "path":"strategies/student-created-magazines.md",
 "status":"review",
 "title":"Student-Created Magazines",
-"type":"strategy"
-},
-{
-"description":"Learners research, write, edit, and design a magazine issue for a real audience, combining disciplinary writing with authentic publication.",
-"id":"student-created_magazines",
-"path":"strategies/student-created_magazines.md",
-"status":"review",
-"title":"Student Created Magazines",
 "type":"strategy"
 },
 {
@@ -150946,6 +149983,7 @@
 "type":"strategy"
 },
 {
+"aliases":["student-led_conferences"],
 "description":"A conference format in which students prepare and deliver a presentation of their own learning, goals, and work samples to teachers and families, replacing the teacher-dominated report.",
 "id":"student-led-conferences",
 "path":"strategies/student-led-conferences.md",
@@ -150967,14 +150005,6 @@
 "path":"strategies/student-led-rotating-discussion-leader-groups.md",
 "status":"draft",
 "title":"Implement student-led weekly discussion groups in which rotating leaders choose topics, facilitate discussion, and post summaries, unmediated by teaching staff",
-"type":"strategy"
-},
-{
-"description":"Meetings in which students take the lead in presenting and discussing their learning progress with families, with the teacher acting as facilitator rather than primary speaker.",
-"id":"student-led_conferences",
-"path":"strategies/student-led_conferences.md",
-"status":"review",
-"title":"Student-Led Conferences",
 "type":"strategy"
 },
 {
@@ -151482,6 +150512,7 @@
 "type":"strategy"
 },
 {
+"aliases":["support-for-decoding-text-mathematical-notation-and-symbols"],
 "description":"Providing strategies and tools so that written text, mathematical notation, and other symbol systems do not become a barrier to the learning goal.",
 "id":"support-decoding-of-text-mathematical-notation-and-symbols",
 "path":"strategies/support-decoding-of-text-mathematical-notation-and-symbols.md",
@@ -151495,14 +150526,6 @@
 "path":"strategies/support-first-year-curriculum-adopters-quick-start.md",
 "status":"draft",
 "title":"Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans",
-"type":"strategy"
-},
-{
-"description":"Ensuring that text and symbols do not impede the learning goal by providing necessary support for decoding.",
-"id":"support-for-decoding-text-mathematical-notation-and-symbols",
-"path":"strategies/support-for-decoding-text-mathematical-notation-and-symbols.md",
-"status":"review",
-"title":"Support for Decoding Text, Mathematical Notation, and Symbols",
 "type":"strategy"
 },
 {
@@ -152898,14 +151921,6 @@
 "type":"strategy"
 },
 {
-"description":"A graphic organizer that builds conceptual understanding of a single term by requiring a definition, essential characteristics, examples, and non-examples.",
-"id":"the_frayer_model",
-"path":"strategies/the_frayer_model.md",
-"status":"review",
-"title":"The Frayer Model",
-"type":"strategy"
-},
-{
 "description":"A classroom ritual in which students publicly commit to caring for shared materials and acting responsibly toward the learning environment.",
 "id":"the_pencil_pledge",
 "path":"strategies/the_pencil_pledge.md",
@@ -152946,19 +151961,12 @@
 "type":"strategy"
 },
 {
+"aliases":["think-aloud_modeling"],
 "description":"Think-aloud modeling is a strategy in which an instructor performs a task while verbalizing the reasoning, checks, and decisions normally kept internal.",
 "id":"think-aloud-modeling",
 "path":"strategies/think-aloud-modeling.md",
 "status":"review",
 "title":"Think-Aloud Modeling",
-"type":"strategy"
-},
-{
-"description":"The instructor verbalizes their reasoning, monitoring, and decision-making while performing a task, making expert thinking visible for learners.",
-"id":"think-aloud_modeling",
-"path":"strategies/think-aloud_modeling.md",
-"status":"review",
-"title":"Think Aloud Modeling",
 "type":"strategy"
 },
 {
@@ -153250,6 +152258,7 @@
 "type":"strategy"
 },
 {
+"aliases":["tiered_assignments"],
 "description":"The same core learning goal is addressed through tasks at different levels of complexity, support, or abstraction, so all learners work on appropriately challenging versions of the same assignment.",
 "id":"tiered-assignments",
 "path":"strategies/tiered-assignments.md",
@@ -153266,6 +152275,7 @@
 "type":"strategy"
 },
 {
+"aliases":["tiered_vocabulary_instruction"],
 "description":"Categorizes words into three tiers by frequency and utility, concentrating explicit instruction on high-utility Tier Two words that mature language users encounter across contexts.",
 "id":"tiered-vocabulary-instruction",
 "path":"strategies/tiered-vocabulary-instruction.md",
@@ -153274,27 +152284,11 @@
 "type":"strategy"
 },
 {
-"description":"Designing the same core task at multiple levels of complexity, scaffolding, or abstraction so all learners work on the same essential understanding at an appropriate challenge level.",
-"id":"tiered_assignments",
-"path":"strategies/tiered_assignments.md",
-"status":"review",
-"title":"Tiered Assignments",
-"type":"strategy"
-},
-{
 "description":"A physical classroom arrangement in which seating is stepped or elevated so that every participant in a group can see and hear the speaker, supporting small-group discussion and demonstration.",
 "id":"tiered_seating_areas",
 "path":"strategies/tiered_seating_areas.md",
 "status":"review",
 "title":"Tiered Seating Areas",
-"type":"strategy"
-},
-{
-"description":"Tiered vocabulary instruction categorizes words into three tiers based on their frequency and utility, concentrating explicit teaching on high-utility words that carry the most comprehension payoff.",
-"id":"tiered_vocabulary_instruction",
-"path":"strategies/tiered_vocabulary_instruction.md",
-"status":"review",
-"title":"Tiered Vocabulary Instruction",
 "type":"strategy"
 },
 {
@@ -153370,17 +152364,10 @@
 "type":"strategy"
 },
 {
+"aliases":["timely_feedback"],
 "description":"Providing feedback as soon as possible after a learner demonstrates performance, so the feedback connects directly to the action that prompted it.",
 "id":"timely-feedback",
 "path":"strategies/timely-feedback.md",
-"status":"review",
-"title":"Timely Feedback",
-"type":"strategy"
-},
-{
-"description":"Delivering feedback soon after performance so learners can still connect the information to the task, reducing error consolidation and enabling immediate correction.",
-"id":"timely_feedback",
-"path":"strategies/timely_feedback.md",
 "status":"review",
 "title":"Timely Feedback",
 "type":"strategy"
@@ -153458,17 +152445,10 @@
 "type":"strategy"
 },
 {
+"aliases":["token_economy"],
 "description":"A token economy awards tangible or symbolic tokens for target behaviors, which learners later exchange for backup reinforcers.",
 "id":"token-economy",
 "path":"strategies/token-economy.md",
-"status":"review",
-"title":"Token Economy",
-"type":"strategy"
-},
-{
-"description":"A system in which learners earn tokens for target behaviors and exchange them for backup reinforcers, applying operant conditioning to shape classroom conduct and effort.",
-"id":"token_economy",
-"path":"strategies/token_economy.md",
 "status":"review",
 "title":"Token Economy",
 "type":"strategy"
@@ -153730,6 +152710,7 @@
 "type":"strategy"
 },
 {
+"aliases":["turn_and_talk"],
 "description":"Learners engage in short, structured discussions with a partner to rehearse, articulate, and refine what they have just learned.",
 "id":"turn-and-talk",
 "path":"strategies/turn-and-talk.md",
@@ -153743,14 +152724,6 @@
 "path":"strategies/turn-around_time.md",
 "status":"review",
 "title":"Turn Around Time",
-"type":"strategy"
-},
-{
-"description":"Turn and Talk involves learners engaging in short discussions with a partner to explain what they heard.",
-"id":"turn_and_talk",
-"path":"strategies/turn_and_talk.md",
-"status":"review",
-"title":"Turn and Talk",
 "type":"strategy"
 },
 {
@@ -153890,19 +152863,12 @@
 "type":"strategy"
 },
 {
+"aliases":["two_stars_and_a_wish"],
 "description":"A structured peer-feedback protocol in which reviewers name two strengths (\"stars\") and one suggestion for improvement (\"wish\") about a peer's work.",
 "id":"two-stars-and-a-wish",
 "path":"strategies/two-stars-and-a-wish.md",
 "status":"review",
 "title":"Two Stars And A Wish",
-"type":"strategy"
-},
-{
-"description":"A structured peer-feedback format in which reviewers offer two specific strengths (\"stars\") and one actionable improvement suggestion (\"wish\").",
-"id":"two_stars_and_a_wish",
-"path":"strategies/two_stars_and_a_wish.md",
-"status":"review",
-"title":"Two Stars and a Wish",
 "type":"strategy"
 },
 {
@@ -154066,6 +153032,7 @@
 "type":"strategy"
 },
 {
+"aliases":["use_analogies"],
 "description":"Introduce new concepts by mapping them onto familiar, well-structured knowledge domains so learners can reason from the known to the unknown.",
 "id":"use-analogies",
 "path":"strategies/use-analogies.md",
@@ -154407,14 +153374,6 @@
 "path":"strategies/use-what-works-clearinghouse-as-engagement-base.md",
 "status":"draft",
 "title":"Use the What Works Clearinghouse and other sources of research findings as a base for educator-researcher engagement",
-"type":"strategy"
-},
-{
-"description":"Introduce new material by mapping it onto a familiar, well-understood domain so learners can reason about the unfamiliar through the familiar.",
-"id":"use_analogies",
-"path":"strategies/use_analogies.md",
-"status":"review",
-"title":"Use Analogies",
 "type":"strategy"
 },
 {
@@ -155122,6 +154081,7 @@
 "type":"strategy"
 },
 {
+"aliases":["vocabulary_instruction"],
 "description":"Explicitly teaching target words and their meanings — with definitions, context, and repeated use — so students can understand and deploy new vocabulary in reading, writing, and discussion.",
 "id":"vocabulary-instruction",
 "path":"strategies/vocabulary-instruction.md",
@@ -155146,6 +154106,7 @@
 "type":"strategy"
 },
 {
+"aliases":["vocabulary_pre-teaching"],
 "description":"Teaching key word meanings before learners encounter them in a text or task, so that unfamiliar vocabulary does not block comprehension.",
 "id":"vocabulary-pre-teaching",
 "path":"strategies/vocabulary-pre-teaching.md",
@@ -155154,27 +154115,11 @@
 "type":"strategy"
 },
 {
-"description":"Explicitly teaching vocabulary words and their definitions, along with providing context, to help students understand and use new words effectively.",
-"id":"vocabulary_instruction",
-"path":"strategies/vocabulary_instruction.md",
-"status":"review",
-"title":"Vocabulary Instruction",
-"type":"strategy"
-},
-{
 "description":"Instructors present vocabulary embedded in meaningful context so learners infer meaning themselves, aiding understanding and retention.",
 "id":"vocabulary_meaning_through_context",
 "path":"strategies/vocabulary_meaning_through_context.md",
 "status":"review",
 "title":"Vocabulary Meaning Through Context",
-"type":"strategy"
-},
-{
-"description":"Selecting and directly teaching a small set of high-value words before learners encounter them in a text or task, so that unfamiliar vocabulary does not block comprehension.",
-"id":"vocabulary_pre-teaching",
-"path":"strategies/vocabulary_pre-teaching.md",
-"status":"review",
-"title":"Vocabulary Pre-Teaching",
 "type":"strategy"
 },
 {
@@ -155210,17 +154155,10 @@
 "type":"strategy"
 },
 {
+"aliases":["wait_time"],
 "description":"A deliberate pause of at least three seconds after posing a question (and again after a response) that gives learners time to process, formulate, and extend their answers.",
 "id":"wait-time",
 "path":"strategies/wait-time.md",
-"status":"review",
-"title":"Wait Time",
-"type":"strategy"
-},
-{
-"description":"Wait time is the period of silence between the time a question is asked and the time when one or more learners respond to that question.",
-"id":"wait_time",
-"path":"strategies/wait_time.md",
 "status":"review",
 "title":"Wait Time",
 "type":"strategy"
@@ -155394,19 +154332,12 @@
 "type":"strategy"
 },
 {
+"aliases":["whats-my-emotion-game-eq-chart"],
 "description":"One learner demonstrates an emotion through body language and facial expressions while the rest of the class guesses the emotion, building emotional literacy through enactment and feedback.",
 "id":"whats-my-emotion-game-charades",
 "path":"strategies/whats-my-emotion-game-charades.md",
 "status":"review",
 "title":"What’s My Emotion? Game",
-"type":"strategy"
-},
-{
-"description":"Using an EQ Feeling Chart, students identify how they are feeling individually, then one student demonstrates an emotion non-verbally while the class guesses what it is.",
-"id":"whats-my-emotion-game-eq-chart",
-"path":"strategies/whats-my-emotion-game-eq-chart.md",
-"status":"review",
-"title":"What's My Emotion? Game",
 "type":"strategy"
 },
 {
@@ -155602,6 +154533,7 @@
 "type":"strategy"
 },
 {
+"aliases":["word_sort"],
 "description":"Students categorize key terms into self-generated groups before formal definitions are provided, then revisit and revise their sorts after instruction.",
 "id":"word-sort",
 "path":"strategies/word-sort.md",
@@ -155618,6 +154550,7 @@
 "type":"strategy"
 },
 {
+"aliases":["word_sorts"],
 "description":"A hands-on word study activity in which learners categorize words by shared orthographic, phonological, or morphological features to build decoding, spelling, and vocabulary knowledge.",
 "id":"word-sorts",
 "path":"strategies/word-sorts.md",
@@ -155626,6 +154559,7 @@
 "type":"strategy"
 },
 {
+"aliases":["word_study"],
 "description":"An investigative approach to spelling and word knowledge instruction in which students examine, sort, and compare words to discover patterns and generalizations rather than memorize word lists.",
 "id":"word-study",
 "path":"strategies/word-study.md",
@@ -155642,6 +154576,7 @@
 "type":"strategy"
 },
 {
+"aliases":["word_walls"],
 "description":"A prominently displayed, growing collection of key content vocabulary that learners access, use, and reorganize throughout instruction to move words into long-term memory.",
 "id":"word-walls",
 "path":"strategies/word-walls.md",
@@ -155698,38 +154633,6 @@
 "type":"strategy"
 },
 {
-"description":"Students sort key terms into categories before instruction, then re-sort after exposure to definitions, making their prior knowledge visible and building relational frameworks.",
-"id":"word_sort",
-"path":"strategies/word_sort.md",
-"status":"review",
-"title":"Word Sort",
-"type":"strategy"
-},
-{
-"description":"Learners categorize word cards by shared orthographic, phonological, or morphological features, inducing spelling-sound patterns through comparison rather than memorizing rules.",
-"id":"word_sorts",
-"path":"strategies/word_sorts.md",
-"status":"review",
-"title":"Word Sorts",
-"type":"strategy"
-},
-{
-"description":"Word study is an approach to spelling and word knowledge instruction that emphasizes active investigation of word patterns rather than rote memorization of word lists.",
-"id":"word_study",
-"path":"strategies/word_study.md",
-"status":"review",
-"title":"Word Study",
-"type":"strategy"
-},
-{
-"description":"Word walls are a strategy for supporting vocabulary development and retention by providing learners with constant access to important content vocabulary.",
-"id":"word_walls",
-"path":"strategies/word_walls.md",
-"status":"review",
-"title":"Word Walls",
-"type":"strategy"
-},
-{
 "description":"The article recommends that faculty embed themselves in the community before designing a CSL project.",
 "id":"work-alongside-partners-before-designing-csl-project",
 "path":"strategies/work-alongside-partners-before-designing-csl-project.md",
@@ -155754,6 +154657,7 @@
 "type":"strategy"
 },
 {
+"aliases":["worked_examples_first"],
 "description":"Presenting fully worked solutions before asking learners to solve problems independently, so novices study expert performance instead of searching for it.",
 "id":"worked-examples-first",
 "path":"strategies/worked-examples-first.md",
@@ -155775,14 +154679,6 @@
 "path":"strategies/worked_example_routine.md",
 "status":"review",
 "title":"Worked Example Routine",
-"type":"strategy"
-},
-{
-"description":"Sequence instruction so learners study fully worked solutions before attempting problems themselves, then fade support as expertise grows.",
-"id":"worked_examples_first",
-"path":"strategies/worked_examples_first.md",
-"status":"review",
-"title":"Worked_Examples_First",
 "type":"strategy"
 },
 {
@@ -155882,6 +154778,7 @@
 "type":"strategy"
 },
 {
+"aliases":["writing_conferences"],
 "description":"One-on-one, conversation-based meetings in which a teacher and student discuss the student's writing in progress, positioning the teacher as coach rather than evaluator.",
 "id":"writing-conferences",
 "path":"strategies/writing-conferences.md",
@@ -155919,14 +154816,6 @@
 "path":"strategies/writing-to-learn.md",
 "status":"review",
 "title":"Writing To Learn",
-"type":"strategy"
-},
-{
-"description":"Writing conferences are brief, individualized meetings between a teacher and a student focused on the student's writing.",
-"id":"writing_conferences",
-"path":"strategies/writing_conferences.md",
-"status":"review",
-"title":"Writing Conferences",
 "type":"strategy"
 },
 {
@@ -183716,6 +182605,8 @@
 "3-source_rule":"3-source_rule",
 "5-minute_writing_conferences":"5-minute_writing_conferences",
 "508-compliance-accessibility-tips-for-education-materials":"508-compliance-accessibility-tips-for-education-materials",
+"_think":"see-think-wonder",
+"_wonder":"see-think-wonder",
 "a2i-pd-huddles-coaching-rollout":"a2i-pd-huddles-coaching-rollout",
 "a_finders_guide_to_facts":"a_finders_guide_to_facts",
 "academic-choice-planning-working-reflecting":"academic-choice-planning-working-reflecting",
@@ -183740,7 +182631,7 @@
 "act_it_out":"act_it_out",
 "acting-role-play":"acting-role-play",
 "action-oriented-feedback":"action-oriented-feedback",
-"action-oriented_feedback":"action-oriented_feedback",
+"action-oriented_feedback":"action-oriented-feedback",
 "action-research":"action-research",
 "action-research-reflective-teacher-education":"action-research-reflective-teacher-education",
 "action_planning":"action_planning",
@@ -183748,7 +182639,7 @@
 "activating-prior-knowledge":"activating-prior-knowledge",
 "activating_and_using_background_knowledge":"activating_and_using_background_knowledge",
 "activating_background_knowledge":"activating_background_knowledge",
-"activating_prior_knowledge":"activating_prior_knowledge",
+"activating_prior_knowledge":"activating-prior-knowledge",
 "activation":"activation",
 "active-comparison-parallel-application-prompts":"active-comparison-parallel-application-prompts",
 "active-genai-assignments-structured-reflection":"active-genai-assignments-structured-reflection",
@@ -183756,7 +182647,7 @@
 "active-monitoring":"active-monitoring",
 "active-recess":"active-recess",
 "active-transitions":"active-transitions",
-"active_listening":"active_listening",
+"active_listening":"active-listening",
 "actively_listen_to_what_students_say":"actively_listen_to_what_students_say",
 "activities_for_student_self-reflection":"activities_for_student_self-reflection",
 "activity-system-analysis-as-csl-reflection-tool":"activity-system-analysis-as-csl-reflection-tool",
@@ -183868,8 +182759,8 @@
 "anticipate-barriers-build-in-data-use-strategies":"anticipate-barriers-build-in-data-use-strategies",
 "anticipation-guide":"anticipation-guide",
 "anticipation-guides":"anticipation-guides",
-"anticipation_guide":"anticipation_guide",
-"anticipation_guides":"anticipation_guides",
+"anticipation_guide":"anticipation-guide",
+"anticipation_guides":"anticipation-guides",
 "anxiety-reduction-cll-nonpunitive-errors":"anxiety-reduction-cll-nonpunitive-errors",
 "appalachian-strengths-as-scaffolds-k8-ct":"appalachian-strengths-as-scaffolds-k8-ct",
 "applicable_reflection":"applicable_reflection",
@@ -183924,7 +182815,7 @@
 "attention-signals":"attention-signals",
 "attention_breaks":"attention_breaks",
 "attention_check":"attention_check",
-"attention_signals":"attention_signals",
+"attention_signals":"attention-signals",
 "attribution-retraining":"attribution-retraining",
 "audience-informed-design-priorities-digital-heritage":"audience-informed-design-priorities-digital-heritage",
 "audience-segmented-findings-briefs-with-methods-summary":"audience-segmented-findings-briefs-with-methods-summary",
@@ -183988,7 +182879,7 @@
 "behavioral_shadowing":"behavioral_shadowing",
 "bell-ringer":"bell-ringer",
 "belonging-interventions":"belonging-interventions",
-"belonging_interventions":"belonging_interventions",
+"belonging_interventions":"belonging-interventions",
 "berthoff-style-variation-exercises":"berthoff-style-variation-exercises",
 "best-practices-from-largest-impact-schools":"best-practices-from-largest-impact-schools",
 "big_10_student_motivators":"big_10_student_motivators",
@@ -184021,7 +182912,7 @@
 "brain-based_learning_through_movement":"brain-based_learning_through_movement",
 "brain-based_learning_with_movement_breaks":"brain-based_learning_with_movement_breaks",
 "brain-breaks":"brain-breaks",
-"brain_breaks":"brain_breaks",
+"brain_breaks":"brain-breaks",
 "brain_dumps":"brain_dumps",
 "brainstorming":"brainstorming",
 "brainstorming-pre-reading":"brainstorming-pre-reading",
@@ -184102,9 +182993,9 @@
 "carnegie-learning-initial-training-plus-coaching":"carnegie-learning-initial-training-plus-coaching",
 "case-based-discussion":"case-based-discussion",
 "case-based-learning":"case-based-learning",
-"case-based-learningcase-based-learning":"case-based-learningcase-based-learning",
+"case-based-learningcase-based-learning":"case-based-learning",
 "case-based-teaching":"case-based-teaching",
-"case-based_learning":"case-based_learning",
+"case-based_learning":"case-based-learning",
 "case_studies":"case_studies",
 "casp-cerqual-quality-confidence-workflow":"casp-cerqual-quality-confidence-workflow",
 "categorization":"categorization",
@@ -184133,8 +183024,8 @@
 "chart-based_retrieval_and_spaced_practice":"chart-based_retrieval_and_spaced_practice",
 "chat-interpretation-simple-to-whole-activity":"chat-interpretation-simple-to-whole-activity",
 "check-in-activities":"check-in-activities",
-"check-in-check-out":"check-in-check-out",
-"check-in_check-out":"check-in_check-out",
+"check-in-check-out":"check-incheck-out",
+"check-in_check-out":"check-incheck-out",
 "check-in_routines":"check-in_routines",
 "check-incheck-out":"check-incheck-out",
 "check-program-versus-comparison-group-design":"check-program-versus-comparison-group-design",
@@ -184161,8 +183052,8 @@
 "choral-counting":"choral-counting",
 "choral-reading":"choral-reading",
 "choral-responding":"choral-responding",
-"choral_counting":"choral_counting",
-"choral_reading":"choral_reading",
+"choral_counting":"choral-counting",
+"choral_reading":"choral-reading",
 "choreography-analysis-final-project-culminating":"choreography-analysis-final-project-culminating",
 "chunk_directions":"chunk_directions",
 "chunked-animations-with-pauses":"chunked-animations-with-pauses",
@@ -184223,9 +183114,9 @@
 "classroom_library":"classroom_library",
 "classroom_management_with_graphic_organizers":"classroom_management_with_graphic_organizers",
 "classroom_pbis":"classroom_pbis",
-"classroom_physical_activity_breaks":"classroom_physical_activity_breaks",
-"classroom_routines":"classroom_routines",
-"classroom_routines_and_procedures":"classroom_routines_and_procedures",
+"classroom_physical_activity_breaks":"classroom-physical-activity-breaks",
+"classroom_routines":"classroom-routines",
+"classroom_routines_and_procedures":"classroom-routines-and-procedures",
 "classroom_seating_arrangements":"classroom_seating_arrangements",
 "classtime-kickoff-plus-ongoing-pd-strategy":"classtime-kickoff-plus-ongoing-pd-strategy",
 "classwide_peer_editing":"classwide_peer_editing",
@@ -184247,7 +183138,7 @@
 "co-constructing_rubrics_with_students":"co-constructing_rubrics_with_students",
 "co-create-ai-literacy-policies-task-forces":"co-create-ai-literacy-policies-task-forces",
 "co-creating-classroom-norms":"co-creating-classroom-norms",
-"co-creating_classroom_norms":"co-creating_classroom_norms",
+"co-creating_classroom_norms":"co-creating-classroom-norms",
 "co-design-feedback-loops-ai-evaluation":"co-design-feedback-loops-ai-evaluation",
 "co-design-human-in-the-loop-ai-edtech-strategy":"co-design-human-in-the-loop-ai-edtech-strategy",
 "co-design-in-class-assessment-conversation":"co-design-in-class-assessment-conversation",
@@ -184283,7 +183174,7 @@
 "cold-call":"cold-call",
 "cold-calling":"cold-calling",
 "cold_call_to_sample_pair_responses":"cold_call_to_sample_pair_responses",
-"cold_calling":"cold_calling",
+"cold_calling":"cold-calling",
 "collaborative-annotation":"collaborative-annotation",
 "collaborative-autoethnography-for-teacher-pd":"collaborative-autoethnography-for-teacher-pd",
 "collaborative-critique-and-redesign-of-flawed-studies":"collaborative-critique-and-redesign-of-flawed-studies",
@@ -184301,7 +183192,7 @@
 "collaborative_problem-solving_with_sticky_notes":"collaborative_problem-solving_with_sticky_notes",
 "collaborative_storytelling":"collaborative_storytelling",
 "collaborative_storytelling_with_guiding_questions":"collaborative_storytelling_with_guiding_questions",
-"collaborative_writing":"collaborative_writing",
+"collaborative_writing":"collaborative-writing",
 "collaborative_writing_with_online_platforms":"collaborative_writing_with_online_platforms",
 "collect-data-then-evaluate-progress-cycle":"collect-data-then-evaluate-progress-cycle",
 "collect-early-objective-and-subjective-feedback":"collect-early-objective-and-subjective-feedback",
@@ -184346,7 +183237,7 @@
 "community-partner-sel-alignment":"community-partner-sel-alignment",
 "community-prompts-authentic-audience-360-film":"community-prompts-authentic-audience-360-film",
 "community-socratic-circles-build-district-support":"community-socratic-circles-build-district-support",
-"community_building":"community_building",
+"community_building":"community-building",
 "community_building_on_student_voice":"community_building_on_student_voice",
 "community_involvement":"community_involvement",
 "companion-toolkit-improving-prek-kindergarten-attendance":"companion-toolkit-improving-prek-kindergarten-attendance",
@@ -184474,7 +183365,7 @@
 "cooperative-retraining-programs-displaced-workers":"cooperative-retraining-programs-displaced-workers",
 "cooperative-structures-for-adult-classrooms":"cooperative-structures-for-adult-classrooms",
 "cooperative_classroom_activities":"cooperative_classroom_activities",
-"cooperative_learning":"cooperative_learning",
+"cooperative_learning":"cooperative-learning",
 "cooperative_learning_activities":"cooperative_learning_activities",
 "cooperative_learning_strategies":"cooperative_learning_strategies",
 "cooperative_teaching":"cooperative_teaching",
@@ -184501,7 +183392,7 @@
 "cps-grading-guidance-improvement-strategies":"cps-grading-guidance-improvement-strategies",
 "cra-small-group-math-tutoring-secondary-prevention":"cra-small-group-math-tutoring-secondary-prevention",
 "craap-test":"craap-test",
-"craap_test":"craap_test",
+"craap_test":"craap-test",
 "cramming":"cramming",
 "create-own-360-images-street-view":"create-own-360-images-street-view",
 "create_a_calm-down_corner":"create_a_calm-down_corner",
@@ -184544,7 +183435,7 @@
 "critique-and-revision":"critique-and-revision",
 "critique-protocol":"critique-protocol",
 "critique-protocols":"critique-protocols",
-"critique_protocols":"critique_protocols",
+"critique_protocols":"critique-protocols",
 "crito-five-step-argument-assessment":"crito-five-step-argument-assessment",
 "cross-age-tutoring":"cross-age-tutoring",
 "cross-age_peer_tutoring":"cross-age_peer_tutoring",
@@ -184581,7 +183472,7 @@
 "culturally_competent_family_engagement":"culturally_competent_family_engagement",
 "culturally_responsive_curriculum_scorecards":"culturally_responsive_curriculum_scorecards",
 "culturally_responsive_practice":"culturally_responsive_practice",
-"culturally_responsive_teaching":"culturally_responsive_teaching",
+"culturally_responsive_teaching":"culturally-responsive-teaching",
 "culture-practices-for-collaborative-argumentation":"culture-practices-for-collaborative-argumentation",
 "culture-themed-picture-book-data-generation":"culture-themed-picture-book-data-generation",
 "culture_responsive_instruction":"culture_responsive_instruction",
@@ -184589,7 +183480,7 @@
 "cumulative-review":"cumulative-review",
 "cumulative-review-quizzes":"cumulative-review-quizzes",
 "cumulative-review-quizzing":"cumulative-review-quizzing",
-"cumulative_review":"cumulative_review",
+"cumulative_review":"cumulative-review",
 "curate-open-education-resources-for-making":"curate-open-education-resources-for-making",
 "curated_material_selection":"curated_material_selection",
 "curating_resources":"curating_resources",
@@ -184638,7 +183529,7 @@
 "decodable-text-reading":"decodable-text-reading",
 "decodable-text-reading-practice":"decodable-text-reading-practice",
 "decodable-texts":"decodable-texts",
-"decodable_text_reading":"decodable_text_reading",
+"decodable_text_reading":"decodable-text-reading",
 "decoding-drills":"decoding-drills",
 "dedicated-informal-learning-survey-design":"dedicated-informal-learning-survey-design",
 "default-sort-order-academic-performance-strategy":"default-sort-order-academic-performance-strategy",
@@ -184758,7 +183649,7 @@
 "discussion-oriented_flipped_classroom":"discussion-oriented_flipped_classroom",
 "discussion-pre-reading":"discussion-pre-reading",
 "discussion-protocols":"discussion-protocols",
-"discussion_protocols":"discussion_protocols",
+"discussion_protocols":"discussion-protocols",
 "discussion_web":"discussion_web",
 "discussions":"discussions",
 "discussions_to_guide_reflection":"discussions_to_guide_reflection",
@@ -184773,7 +183664,7 @@
 "distributed-practice":"distributed-practice",
 "distributed-practice-spaced-learning":"distributed-practice-spaced-learning",
 "distributed-practice-spacing-effect":"distributed-practice-spacing-effect",
-"distributed_practice":"distributed_practice",
+"distributed_practice":"distributed-practice",
 "district-actions-powerful-technology-impact":"district-actions-powerful-technology-impact",
 "district-ai-policy-evaluation-infrastructure-strategy":"district-ai-policy-evaluation-infrastructure-strategy",
 "district-extreme-weather-preparedness-playbook":"district-extreme-weather-preparedness-playbook",
@@ -184793,7 +183684,7 @@
 "document-prior-research-before-evaluation":"document-prior-research-before-evaluation",
 "document_outline":"document_outline",
 "document_outline_strategy":"document_outline_strategy",
-"document_outline_tool":"document_outline_tool",
+"document_outline_tool":"document-outline-tool",
 "dolch_sight_word_list_-_cloze_passage_worksheets":"dolch_sight_word_list_-_cloze_passage_worksheets",
 "dolch_sight_word_list_-_flash_cards":"dolch_sight_word_list_-_flash_cards",
 "dolch_sight_word_list_-_word_shape_worksheets":"dolch_sight_word_list_-_word_shape_worksheets",
@@ -184942,7 +183833,7 @@
 "emotional_vocabulary_building":"emotional_vocabulary_building",
 "emotional_walking_game":"emotional_walking_game",
 "empathic-discipline":"empathic-discipline",
-"empathic_discipline":"empathic_discipline",
+"empathic_discipline":"empathic-discipline",
 "empathy-asset-framing-tech-free-spaces-digital-wellbeing":"empathy-asset-framing-tech-free-spaces-digital-wellbeing",
 "empathy-exercise-reflection-and-forward-planning":"empathy-exercise-reflection-and-forward-planning",
 "empathy-interview-conduct-practices":"empathy-interview-conduct-practices",
@@ -185015,7 +183906,7 @@
 "establishing-group-roles":"establishing-group-roles",
 "establishing-routines":"establishing-routines",
 "establishing_classroom_norms":"establishing_classroom_norms",
-"establishing_classroom_routines":"establishing_classroom_routines",
+"establishing_classroom_routines":"establishing-classroom-routines",
 "establishing_norms_co-constructively":"establishing_norms_co-constructively",
 "establishing_routines_and_procedures":"establishing_routines_and_procedures",
 "establishing_rules_and_expectations":"establishing_rules_and_expectations",
@@ -185023,7 +183914,7 @@
 "estimate_and_predict":"estimate_and_predict",
 "estimation-activities":"estimation-activities",
 "estimation-warm-ups":"estimation-warm-ups",
-"estimation_activities":"estimation_activities",
+"estimation_activities":"estimation-activities",
 "estimation_and_prediction":"estimation_and_prediction",
 "estimation_and_prediction_activities":"estimation_and_prediction_activities",
 "estimation_and_prediction_for_self-awareness":"estimation_and_prediction_for_self-awareness",
@@ -185052,10 +183943,10 @@
 "ewims-training-and-technical-assistance-strategy":"ewims-training-and-technical-assistance-strategy",
 "exact-path-existing-staff-implementation-strategy":"exact-path-existing-staff-implementation-strategy",
 "exact-path-existing-staff-vendor-pd-implementation":"exact-path-existing-staff-vendor-pd-implementation",
-"exact-path-implementation-existing-staff-pd":"exact-path-implementation-existing-staff-pd",
+"exact-path-implementation-existing-staff-pd":"exact-path-implementation-strategy",
 "exact-path-implementation-strategy":"exact-path-implementation-strategy",
 "exam-wrappers":"exam-wrappers",
-"exam_wrappers":"exam_wrappers",
+"exam_wrappers":"exam-wrappers",
 "examine-data-across-subgroups-and-within-category-diversity":"examine-data-across-subgroups-and-within-category-diversity",
 "exchange-personal-information-before-telelecture":"exchange-personal-information-before-telelecture",
 "exemplar-analysis":"exemplar-analysis",
@@ -185064,13 +183955,13 @@
 "exercise_for_cognitive_enhancement":"exercise_for_cognitive_enhancement",
 "exhibition":"exhibition",
 "exhibition-of-learning":"exhibition-of-learning",
-"exhibition_of_learning":"exhibition_of_learning",
+"exhibition_of_learning":"exhibition-of-learning",
 "existential-hope-research-agenda":"existential-hope-research-agenda",
 "exit-ticket":"exit-ticket",
 "exit-tickets":"exit-tickets",
 "exit-tutoring-at-grade-level-consistency":"exit-tutoring-at-grade-level-consistency",
-"exit_ticket":"exit_ticket",
-"exit_tickets":"exit_tickets",
+"exit_ticket":"exit-ticket",
+"exit_tickets":"exit-tickets",
 "expand-audience-concept-adjust-tone-word-choice":"expand-audience-concept-adjust-tone-word-choice",
 "expand-freshman-success-to-non-core-courses":"expand-freshman-success-to-non-core-courses",
 "expand-grade-level-pools-ends-and-weak-areas":"expand-grade-level-pools-ends-and-weak-areas",
@@ -185116,9 +184007,9 @@
 "explicit_instruction_in_self-advocacy_and_self-determination":"explicit_instruction_in_self-advocacy_and_self-determination",
 "explicit_instruction_on_book_selection_and_care":"explicit_instruction_on_book_selection_and_care",
 "explicit_or_direct_instruction":"explicit_or_direct_instruction",
-"explicit_strategy_instruction":"explicit_strategy_instruction",
+"explicit_strategy_instruction":"explicit-strategy-instruction",
 "explicit_teacher_modeling":"explicit_teacher_modeling",
-"explicit_teaching":"explicit_teaching",
+"explicit_teaching":"explicit-teaching",
 "explicitly_addressing_social_awareness":"explicitly_addressing_social_awareness",
 "explicitly_discuss_different_perspectives":"explicitly_discuss_different_perspectives",
 "exploit-marginalized-difference-against-somatic-response":"exploit-marginalized-difference-against-somatic-response",
@@ -185177,7 +184068,7 @@
 "family-support-hub-caregiver-literacy-resources":"family-support-hub-caregiver-literacy-resources",
 "family-support-hub-home-literacy-reinforcement":"family-support-hub-home-literacy-reinforcement",
 "family_book_club":"family_book_club",
-"family_engagement":"family_engagement",
+"family_engagement":"family-engagement",
 "family_engagement-supporting_children_with_disabilities":"family_engagement-supporting_children_with_disabilities",
 "fast-forword-high-intensity-dosage-schedule":"fast-forword-high-intensity-dosage-schedule",
 "fate-informed-mmla-design-strategy":"fate-informed-mmla-design-strategy",
@@ -185210,7 +184101,7 @@
 "find-north-with-gnomon-shadow-curve":"find-north-with-gnomon-shadow-curve",
 "find-the-total":"find-the-total",
 "find_the_difference":"find_the_difference",
-"find_the_total":"find_the_total",
+"find_the_total":"find-the-total",
 "finger-painting-arts_integration":"finger-painting-arts_integration",
 "finger_speed-differences":"finger_speed-differences",
 "finger_speed-sums":"finger_speed-sums",
@@ -185232,18 +184123,18 @@
 "five-step-district-ai-adoption-roadmap":"five-step-district-ai-adoption-roadmap",
 "five_high_fives":"five_high_fives",
 "flashcard-drill":"flashcard-drill",
-"flashcard_drill":"flashcard_drill",
+"flashcard_drill":"flashcard-drill",
 "flashcards":"flashcards",
 "flexible-activity-based-specifications":"flexible-activity-based-specifications",
 "flexible-discussion-groups-in-science":"flexible-discussion-groups-in-science",
 "flexible-implementation-structured-tutoring-preservice-tutors":"flexible-implementation-structured-tutoring-preservice-tutors",
 "flexible-seating":"flexible-seating",
-"flexible_seating":"flexible_seating",
+"flexible_seating":"flexible-seating",
 "flexible_seating_patterns_and_configurations":"flexible_seating_patterns_and_configurations",
 "flipped-classroom":"flipped-classroom",
 "flipped-classroom-needs-well-designed-rcts-consort":"flipped-classroom-needs-well-designed-rcts-consort",
 "flipped-learning":"flipped-learning",
-"flipped_learning":"flipped_learning",
+"flipped_learning":"flipped-learning",
 "focus-support-lowest-achievers-catch-up":"focus-support-lowest-achievers-catch-up",
 "focus_on_enjoyable_moments":"focus_on_enjoyable_moments",
 "focus_on_issues_of_justice":"focus_on_issues_of_justice",
@@ -185276,7 +184167,7 @@
 "formative-self-assessment":"formative-self-assessment",
 "formative-tests-with-corrective-feedback":"formative-tests-with-corrective-feedback",
 "formative_assessment_to_gauge_student_progress_and_guide_instruction":"formative_assessment_to_gauge_student_progress_and_guide_instruction",
-"formative_feedback":"formative_feedback",
+"formative_feedback":"formative-feedback",
 "forms-adoption-support-strategies":"forms-adoption-support-strategies",
 "fossil_analysis":"fossil_analysis",
 "foster-citizenship-prevent-silencing-ee":"foster-citizenship-prevent-silencing-ee",
@@ -185284,7 +184175,7 @@
 "foster_self-advocacy_and_self-determination":"foster_self-advocacy_and_self-determination",
 "foster_self-awareness":"foster_self-awareness",
 "fostering-self-advocacy-and-self-determination":"fostering-self-advocacy-and-self-determination",
-"fostering_self-advocacy_and_self-determination":"fostering_self-advocacy_and_self-determination",
+"fostering_self-advocacy_and_self-determination":"fostering-self-advocacy-and-self-determination",
 "fostering_student_self-knowledge":"fostering_student_self-knowledge",
 "four-considerations-supporting-kindergarten-class-2021":"four-considerations-supporting-kindergarten-class-2021",
 "four-corner-press-plan":"four-corner-press-plan",
@@ -185309,7 +184200,7 @@
 "frame-aided-writing-procedure":"frame-aided-writing-procedure",
 "frame-score-differences-around-overlap-and-opportunity":"frame-score-differences-around-overlap-and-opportunity",
 "frayer-model":"frayer-model",
-"frayer_model":"frayer_model",
+"frayer_model":"frayer-model",
 "free-play":"free-play",
 "free-recall-writing-as-retrieval-practice":"free-recall-writing-as-retrieval-practice",
 "free-writing":"free-writing",
@@ -185317,7 +184208,7 @@
 "free_choice_time-student-directed_learning":"free_choice_time-student-directed_learning",
 "free_graphing_calculator_app":"free_graphing_calculator_app",
 "free_math_worksheets":"free_math_worksheets",
-"free_play":"free_play",
+"free_play":"free-play",
 "freedom-based-education-settings":"freedom-based-education-settings",
 "freewriting-private-ungraded-warmup":"freewriting-private-ungraded-warmup",
 "frequent-informed-consent-every-session":"frequent-informed-consent-every-session",
@@ -185355,7 +184246,7 @@
 "gallery-walk":"gallery-walk",
 "gallery_quote_walk":"gallery_quote_walk",
 "gallery_quote_walk_check-in":"gallery_quote_walk_check-in",
-"gallery_walk":"gallery_walk",
+"gallery_walk":"gallery-walk",
 "game-based-learning-gbl":"game-based-learning-gbl",
 "game-based-review":"game-based-review",
 "game-based_incentives_for_quiet":"game-based_incentives_for_quiet",
@@ -185391,9 +184282,9 @@
 "goal-setting-in-writing":"goal-setting-in-writing",
 "goal-setting-with-learners":"goal-setting-with-learners",
 "goal-setting-with-students":"goal-setting-with-students",
-"goal-setting_conferences":"goal-setting_conferences",
+"goal-setting_conferences":"goal-setting-conferences",
 "goal_setting":"goal_setting",
-"goal_setting_for_writing":"goal_setting_for_writing",
+"goal_setting_for_writing":"goal-setting-in-writing",
 "golden-spike-neologism-assignment":"golden-spike-neologism-assignment",
 "goldlist-classroom-implementation-practices":"goldlist-classroom-implementation-practices",
 "gonoodle-physical-activity-movement-breaks":"gonoodle-physical-activity-movement-breaks",
@@ -185412,25 +184303,25 @@
 "gradual-shift-to-higher-level-prompts":"gradual-shift-to-higher-level-prompts",
 "gradual-therapeutic-admission-strategy":"gradual-therapeutic-admission-strategy",
 "gradual_increase_of_independent_reading_time":"gradual_increase_of_independent_reading_time",
-"gradual_release_of_responsibility":"gradual_release_of_responsibility",
+"gradual_release_of_responsibility":"gradual-release-of-responsibility",
 "gradual_release_of_responsibility_in_multimodal_composition":"gradual_release_of_responsibility_in_multimodal_composition",
 "grammar-instruction-from-noticed-writing-problems":"grammar-instruction-from-noticed-writing-problems",
 "graphic-organizers":"graphic-organizers",
 "graphic-organizers-and-guided-notes-processing-speed":"graphic-organizers-and-guided-notes-processing-speed",
 "graphic-organizers-and-visual-aids-attention":"graphic-organizers-and-visual-aids-attention",
-"graphic-organizers-and-visual-aids-for-attention":"graphic-organizers-and-visual-aids-for-attention",
+"graphic-organizers-and-visual-aids-for-attention":"graphic-organizers-and-visual-aids-attention",
 "graphic-organizers-guided-notes":"graphic-organizers-guided-notes",
-"graphic-organizers-guided-notes-for-processing-speed":"graphic-organizers-guided-notes-for-processing-speed",
+"graphic-organizers-guided-notes-for-processing-speed":"graphic-organizers-and-guided-notes-processing-speed",
 "graphic-organizers-math":"graphic-organizers-math",
 "graphic_notes":"graphic_notes",
-"graphic_organizers":"graphic_organizers",
+"graphic_organizers":"graphic-organizers",
 "graphic_organizers_and_visual_aids":"graphic_organizers_and_visual_aids",
 "graphic_organizers_as_text_illustrations":"graphic_organizers_as_text_illustrations",
 "graphic_organizers_as_thinking_tools":"graphic_organizers_as_thinking_tools",
 "graphic_organizers_for_assessment":"graphic_organizers_for_assessment",
 "graphic_organizers_for_classroom_management":"graphic_organizers_for_classroom_management",
 "graphic_organizers_for_lecture_support":"graphic_organizers_for_lecture_support",
-"graphic_organizers_for_math":"graphic_organizers_for_math",
+"graphic_organizers_for_math":"graphic-organizers-math",
 "graphic_organizers_for_note-taking":"graphic_organizers_for_note-taking",
 "graphic_organizers_for_pre-reading":"graphic_organizers_for_pre-reading",
 "graphic_organizers_for_pre-writing":"graphic_organizers_for_pre-writing",
@@ -185482,7 +184373,7 @@
 "guided-writing":"guided-writing",
 "guided_discovery_with_word_sorting":"guided_discovery_with_word_sorting",
 "guided_inquiry":"guided_inquiry",
-"guided_play":"guided_play",
+"guided_play":"guided-play",
 "haiti-scale-up-strategy-grades-infrastructure-kolibri":"haiti-scale-up-strategy-grades-infrastructure-kolibri",
 "hand-frame-by-frame-analysis-real-time-non-majors":"hand-frame-by-frame-analysis-real-time-non-majors",
 "hands-on-college-entry-assistance":"hands-on-college-entry-assistance",
@@ -185494,7 +184385,7 @@
 "handwriting-instruction":"handwriting-instruction",
 "have-explicit-conversations-about-emotions-and-social-issues-including-issues-of-social-justice":"have-explicit-conversations-about-emotions-and-social-issues-including-issues-of-social-justice",
 "headings-and-highlight-strategy-variant":"headings-and-highlight-strategy-variant",
-"headings_and_highlight_strategy":"headings_and_highlight_strategy",
+"headings_and_highlight_strategy":"headings-and-highlight-strategy-variant",
 "health_and_dietary_planning":"health_and_dietary_planning",
 "heat_transfer_investigations":"heat_transfer_investigations",
 "help-seeking":"help-seeking",
@@ -185604,7 +184495,7 @@
 "improvisation_in_mathematics":"improvisation_in_mathematics",
 "in-game-scaffolds-with-usage-tracking":"in-game-scaffolds-with-usage-tracking",
 "in-service-training-teacher-centered-awareness":"in-service-training-teacher-centered-awareness",
-"in_a_hot_seat":"in_a_hot_seat",
+"in_a_hot_seat":"hot_seat",
 "incidental-corrective-feedback-in-dialogue-journals":"incidental-corrective-feedback-in-dialogue-journals",
 "include-female-leaders-perspectives-in-administration-study":"include-female-leaders-perspectives-in-administration-study",
 "include-procedural-knowledge-in-rat":"include-procedural-knowledge-in-rat",
@@ -185638,8 +184529,8 @@
 "independent-reading-time":"independent-reading-time",
 "independent-tasks-describe-distinguishing-features":"independent-tasks-describe-distinguishing-features",
 "independent_practice":"independent_practice",
-"independent_reading":"independent_reading",
-"independent_reading_time":"independent_reading_time",
+"independent_reading":"independent-reading",
+"independent_reading_time":"independent-reading-time",
 "indicators-bridge-research-and-practice":"indicators-bridge-research-and-practice",
 "indigenous-non-indigenous-collaborative-pedagogy":"indigenous-non-indigenous-collaborative-pedagogy",
 "indirect-error-correction-self-correction":"indirect-error-correction-self-correction",
@@ -185717,7 +184608,7 @@
 "interactive-writing":"interactive-writing",
 "interactive_delivery_with_questioning":"interactive_delivery_with_questioning",
 "interactive_modeling":"interactive_modeling",
-"interactive_read-alouds":"interactive_read-alouds",
+"interactive_read-alouds":"interactive-read-alouds",
 "interactive_scenarios":"interactive_scenarios",
 "interactive_storytelling":"interactive_storytelling",
 "interdependence-chains-activity":"interdependence-chains-activity",
@@ -185777,7 +184668,7 @@
 "jigsaw-reading":"jigsaw-reading",
 "jigsaw-sharing-inquiry-posters":"jigsaw-sharing-inquiry-posters",
 "jigsaw_method":"jigsaw_method",
-"jigsaw_reading":"jigsaw_reading",
+"jigsaw_reading":"jigsaw-reading",
 "job-embedded-coaching-school-leaders":"job-embedded-coaching-school-leaders",
 "job-search-skills-training-in-vocational-esl":"job-search-skills-training-in-vocational-esl",
 "join-national-innovation-networks-ai-readiness":"join-national-innovation-networks-ai-readiness",
@@ -185815,8 +184706,8 @@
 "kwl":"kwl",
 "kwl-chart":"kwl-chart",
 "kwl-charts":"kwl-charts",
-"kwl_chart":"kwl_chart",
-"kwl_charts":"kwl_charts",
+"kwl_chart":"kwl-chart",
+"kwl_charts":"kwl-charts",
 "lab-rotation":"lab-rotation",
 "labeling_emotions_throughout_the_day":"labeling_emotions_throughout_the_day",
 "laboratory-reports":"laboratory-reports",
@@ -185829,7 +184720,7 @@
 "larger-tent-cross-field-adult-learning-literature":"larger-tent-cross-field-adult-learning-literature",
 "last-lesson-last-week-last-month":"last-lesson-last-week-last-month",
 "lateral-reading":"lateral-reading",
-"lateral_reading":"lateral_reading",
+"lateral_reading":"lateral-reading",
 "latin-and-greek-roots-for-academic-vocabulary":"latin-and-greek-roots-for-academic-vocabulary",
 "latin-prefixes-suffixes-and-roots":"latin-prefixes-suffixes-and-roots",
 "layered-educator-support-ai-labs":"layered-educator-support-ai-labs",
@@ -185876,8 +184767,8 @@
 "learning_contracts":"learning_contracts",
 "learning_goal_setting":"learning_goal_setting",
 "learning_interest_inventories":"learning_interest_inventories",
-"learning_journals":"learning_journals",
-"learning_logs":"learning_logs",
+"learning_journals":"learning-journals",
+"learning_logs":"learning-logs",
 "learning_strategy_&_tool_fair":"learning_strategy_&_tool_fair",
 "learning_through_reflection":"learning_through_reflection",
 "lectura-proactiva-daily-small-group-delivery":"lectura-proactiva-daily-small-group-delivery",
@@ -185927,10 +184818,10 @@
 "literacy-centers":"literacy-centers",
 "literacy-champion-school-level-contact":"literacy-champion-school-level-contact",
 "literacy-rich-environment":"literacy-rich-environment",
-"literacy_centers":"literacy_centers",
+"literacy_centers":"literacy-centers",
 "literature-circles":"literature-circles",
 "literature-social-stories":"literature-social-stories",
-"literature_circles":"literature_circles",
+"literature_circles":"literature-circles",
 "literature_reviews":"literature_reviews",
 "little-books-teacher-workshop-structured-routine":"little-books-teacher-workshop-structured-routine",
 "live_writing_demonstrations":"live_writing_demonstrations",
@@ -186029,7 +184920,7 @@
 "math_journals":"math_journals",
 "math_key_word_flashcards":"math_key_word_flashcards",
 "math_songs":"math_songs",
-"math_talks":"math_talks",
+"math_talks":"math-talks",
 "math_vocabulary_word_walls":"math_vocabulary_word_walls",
 "mathematical_dance":"mathematical_dance",
 "mathspace-mastery-oriented-feedback-workflow":"mathspace-mastery-oriented-feedback-workflow",
@@ -186049,7 +184940,7 @@
 "mental-contrasting-with-implementation-intentions":"mental-contrasting-with-implementation-intentions",
 "mentor-text-analysis":"mentor-text-analysis",
 "mentor-texts":"mentor-texts",
-"mentor_texts":"mentor_texts",
+"mentor_texts":"mentor-texts",
 "mentoring":"mentoring",
 "mentoring-for-community-lifelong-learning":"mentoring-for-community-lifelong-learning",
 "mentors-peers-college-aspirations":"mentors-peers-college-aspirations",
@@ -186087,7 +184978,7 @@
 "mindfulness-breaks":"mindfulness-breaks",
 "mindfulness-practice":"mindfulness-practice",
 "mindfulness_and_movement_integration":"mindfulness_and_movement_integration",
-"mindfulness_breaks":"mindfulness_breaks",
+"mindfulness_breaks":"mindfulness-breaks",
 "mindfulness_practices":"mindfulness_practices",
 "mindfulness_techniques":"mindfulness_techniques",
 "mindfulness_techniques_for_emotional_regulation":"mindfulness_techniques_for_emotional_regulation",
@@ -186134,7 +185025,7 @@
 "model_positive_connections_to_math":"model_positive_connections_to_math",
 "model_receiving_feedback":"model_receiving_feedback",
 "model_reflection":"model_reflection",
-"model_the_assignment_or_skill":"model_the_assignment_or_skill",
+"model_the_assignment_or_skill":"model_assignment_or_skill",
 "modeled-writing":"modeled-writing",
 "modeling":"modeling",
 "modeling-and-demonstration":"modeling-and-demonstration",
@@ -186177,13 +185068,13 @@
 "morphological-awareness-instruction":"morphological-awareness-instruction",
 "morphological-instruction":"morphological-instruction",
 "morphological_analysis_of_latin_and_greek_roots":"morphological_analysis_of_latin_and_greek_roots",
-"morphological_instruction":"morphological_instruction",
+"morphological_instruction":"morphological-instruction",
 "morphology-instruction":"morphology-instruction",
 "motion_and_forces_experiments":"motion_and_forces_experiments",
 "motor_images":"motor_images",
 "movement-based-learning":"movement-based-learning",
 "movement-breaks":"movement-breaks",
-"movement_breaks":"movement_breaks",
+"movement_breaks":"movement-breaks",
 "moving-toward-the-touch-improvisation":"moving-toward-the-touch-improvisation",
 "mozilla-four-web-literacies":"mozilla-four-web-literacies",
 "mpsa-cross-profession-applications":"mpsa-cross-profession-applications",
@@ -186191,7 +185082,7 @@
 "mra-implementation-plan-and-pd-strategy":"mra-implementation-plan-and-pd-strategy",
 "mtp-s-video-review-consultant-feedback-cycle":"mtp-s-video-review-consultant-feedback-cycle",
 "muddiest-point":"muddiest-point",
-"muddiest_point":"muddiest_point",
+"muddiest_point":"muddiest-point",
 "multi-assessment-plus-enrollment-data-for-gap-trends":"multi-assessment-plus-enrollment-data-for-gap-trends",
 "multi-format-media-access-provision":"multi-format-media-access-provision",
 "multi-institution-tutoring-evaluation-strategy":"multi-institution-tutoring-evaluation-strategy",
@@ -186241,7 +185132,7 @@
 "multisensory-teaching":"multisensory-teaching",
 "multisensory_instruction":"multisensory_instruction",
 "multisensory_memory_strategies_for_irregular_words":"multisensory_memory_strategies_for_irregular_words",
-"multisensory_phonics_instruction":"multisensory_phonics_instruction",
+"multisensory_phonics_instruction":"multisensory-phonics-instruction",
 "multisyllable_word_instruction":"multisyllable_word_instruction",
 "music-dance":"music-dance",
 "music_and_dance_integration":"music_and_dance_integration",
@@ -186296,7 +185187,7 @@
 "normalize-destigmatize-help-seeking-classroom":"normalize-destigmatize-help-seeking-classroom",
 "normalizing-error":"normalizing-error",
 "normalizing-struggle":"normalizing-struggle",
-"normalizing_struggle":"normalizing_struggle",
+"normalizing_struggle":"normalizing-struggle",
 "normalizing_trouble":"normalizing_trouble",
 "normalizing_trouble_and_struggle":"normalizing_trouble_and_struggle",
 "norms-for-individualizing-instruction-and-goal-setting":"norms-for-individualizing-instruction-and-goal-setting",
@@ -186313,7 +185204,7 @@
 "number-talks":"number-talks",
 "number_rack_app":"number_rack_app",
 "number_relationships_and_reasoning_strategies":"number_relationships_and_reasoning_strategies",
-"number_talks":"number_talks",
+"number_talks":"number-talks",
 "numbered-heads-together":"numbered-heads-together",
 "numbers_to_100":"numbers_to_100",
 "nunan-five-research-design-points":"nunan-five-research-design-points",
@@ -186405,7 +185296,7 @@
 "paired-interviews-early-group-bonding":"paired-interviews-early-group-bonding",
 "paired-reading":"paired-reading",
 "paired-repeated-reading":"paired-repeated-reading",
-"paired_reading":"paired_reading",
+"paired_reading":"paired-reading",
 "pairing_with_positive_role_models":"pairing_with_positive_role_models",
 "pals-air-tutoring-training-request-strategy":"pals-air-tutoring-training-request-strategy",
 "pals-teacher-training-workshop-modeling-role-play":"pals-teacher-training-workshop-modeling-role-play",
@@ -186430,7 +185321,7 @@
 "participatory-questionnaire-card-sorting-focus-groups":"participatory-questionnaire-card-sorting-focus-groups",
 "partner-reading":"partner-reading",
 "partner-with-iep-families-provide-clear-service-information":"partner-with-iep-families-provide-clear-service-information",
-"partner_reading":"partner_reading",
+"partner_reading":"partner-reading",
 "partner_reading_with_retell":"partner_reading_with_retell",
 "partnering-with-academic-researchers":"partnering-with-academic-researchers",
 "partners-as-buffers-reducing-vulnerability":"partners-as-buffers-reducing-vulnerability",
@@ -186475,13 +185366,13 @@
 "peer_and_self-assessment":"peer_and_self-assessment",
 "peer_assessment":"peer_assessment",
 "peer_coaching":"peer_coaching",
-"peer_critique":"peer_critique",
+"peer_critique":"peer-critique",
 "peer_feedback":"peer_feedback",
-"peer_feedback_protocols":"peer_feedback_protocols",
-"peer_mediation":"peer_mediation",
-"peer_observation":"peer_observation",
+"peer_feedback_protocols":"peer-feedback-protocols",
+"peer_mediation":"peer-mediation",
+"peer_observation":"peer-observation",
 "peer_revision":"peer_revision",
-"peer_tutoring":"peer_tutoring",
+"peer_tutoring":"peer-tutoring",
 "peergrade":"peergrade",
 "pegword_strategy":"pegword_strategy",
 "pencil_grasp_activities":"pencil_grasp_activities",
@@ -186516,14 +185407,14 @@
 "phonemic-awareness-instruction":"phonemic-awareness-instruction",
 "phonics-based_spelling_instruction":"phonics-based_spelling_instruction",
 "phonics-instruction":"phonics-instruction",
-"phonics_instruction":"phonics_instruction",
+"phonics_instruction":"phonics-instruction",
 "phonological_and_metalinguistic_awareness_exercises":"phonological_and_metalinguistic_awareness_exercises",
 "phonological_awareness_development_through_rhyming":"phonological_awareness_development_through_rhyming",
 "physical-activity-breaks":"physical-activity-breaks",
 "physical-activity-recess":"physical-activity-recess",
 "physical-sensory-accommodations-older-learners":"physical-sensory-accommodations-older-learners",
 "physical_activity-encouraging_environment":"physical_activity-encouraging_environment",
-"physical_activity_breaks":"physical_activity_breaks",
+"physical_activity_breaks":"physical-activity-breaks",
 "physical_education":"physical_education",
 "physics-context-ell-language-development":"physics-context-ell-language-development",
 "pictionary-pre-reading":"pictionary-pre-reading",
@@ -186595,10 +185486,10 @@
 "positive-teacher-student-relationships":"positive-teacher-student-relationships",
 "positive-time-out":"positive-time-out",
 "positive_affirmations":"positive_affirmations",
-"positive_behavior_interventions_and_supports":"positive_behavior_interventions_and_supports",
-"positive_behavior_support":"positive_behavior_support",
-"positive_behavioral_interventions_and_supports_pbis":"positive_behavioral_interventions_and_supports_pbis",
-"positive_narration":"positive_narration",
+"positive_behavior_interventions_and_supports":"positive-behavior-interventions-and-supports",
+"positive_behavior_support":"positive-behavior-support",
+"positive_behavioral_interventions_and_supports_pbis":"positive-behavioral-interventions-and-supports-pbis",
+"positive_narration":"positive-narration",
 "positive_scripts":"positive_scripts",
 "post-adoption-fidelity-monitoring-feedback":"post-adoption-fidelity-monitoring-feedback",
 "post-entry-mentorship-support-alternative-stem-programs":"post-entry-mentorship-support-alternative-stem-programs",
@@ -186639,7 +185530,7 @@
 "pre-task-similar-task-subtitled-videos-strategy":"pre-task-similar-task-subtitled-videos-strategy",
 "pre-teach-forms-before-journal-entries":"pre-teach-forms-before-journal-entries",
 "pre-teaching-vocabulary":"pre-teaching-vocabulary",
-"pre-teaching_vocabulary":"pre-teaching_vocabulary",
+"pre-teaching_vocabulary":"pre-teaching-vocabulary",
 "pre-training":"pre-training",
 "pre-writing_skills_activities":"pre-writing_skills_activities",
 "pre-writing_with_graphic_organizers":"pre-writing_with_graphic_organizers",
@@ -186718,7 +185609,7 @@
 "process-writing-natural-settings-facilitate-acquisition":"process-writing-natural-settings-facilitate-acquisition",
 "process-writing-workshop":"process-writing-workshop",
 "process_for_constructive_decision-making":"process_for_constructive_decision-making",
-"process_writing":"process_writing",
+"process_writing":"process-writing",
 "process_writing_approach":"process_writing_approach",
 "proctor_intervention_for_rapid_guessing":"proctor_intervention_for_rapid_guessing",
 "producing_counter-texts":"producing_counter-texts",
@@ -186734,7 +185625,7 @@
 "project-based-learning":"project-based-learning",
 "project-based-learning-pbl":"project-based-learning-pbl",
 "project-based-learning-pbl-in-math":"project-based-learning-pbl-in-math",
-"project-based_learning":"project-based_learning",
+"project-based_learning":"project-based-learning",
 "project-based_transformation_of_society":"project-based_transformation_of_society",
 "project-quest-support-components-strategy":"project-quest-support-components-strategy",
 "project_management_tools_for_group_work":"project_management_tools_for_group_work",
@@ -186780,7 +185671,7 @@
 "providing_multiple_means_of_representation":"providing_multiple_means_of_representation",
 "proximity-control":"proximity-control",
 "proximity-management":"proximity-management",
-"proximity_control":"proximity_control",
+"proximity_control":"proximity-control",
 "pthv-two-visit-structure-strategy":"pthv-two-visit-structure-strategy",
 "pthv-voluntary-pair-visit-implementation-strategy":"pthv-voluntary-pair-visit-implementation-strategy",
 "public-private-partnership-family-engagement-formative-practices":"public-private-partnership-family-engagement-formative-practices",
@@ -186801,7 +185692,7 @@
 "quality_homework_assignments":"quality_homework_assignments",
 "quantitative-data-collection-microcredential-evaluation":"quantitative-data-collection-microcredential-evaluation",
 "question-answer-relationships":"question-answer-relationships",
-"question-answer_relationships":"question-answer_relationships",
+"question-answer_relationships":"question-answer-relationships",
 "question-answering":"question-answering",
 "question-answering-relationships":"question-answering-relationships",
 "question-based_elearning_design":"question-based_elearning_design",
@@ -186809,7 +185700,7 @@
 "question-formulation-technique":"question-formulation-technique",
 "question-formulation-technique-qft":"question-formulation-technique-qft",
 "question-generation":"question-generation",
-"question_generation":"question_generation",
+"question_generation":"question-generation",
 "questioning":"questioning",
 "questioning-contrepreuve-disequilibration":"questioning-contrepreuve-disequilibration",
 "questioning-techniques":"questioning-techniques",
@@ -186865,7 +185756,7 @@
 "read-naturally-pass-timing-criteria-routine":"read-naturally-pass-timing-criteria-routine",
 "read_aloud":"read_aloud",
 "read_aloud_with_highlighting":"read_aloud_with_highlighting",
-"read_alouds":"read_alouds",
+"read_alouds":"read-alouds",
 "read_and_reflect":"read_and_reflect",
 "readable-english-ela-block-delivery":"readable-english-ela-block-delivery",
 "readable-english-training-and-weekly-coaching":"readable-english-training-and-weekly-coaching",
@@ -186886,7 +185777,7 @@
 "reading_aloud":"reading_aloud",
 "reading_and_understanding_written_math_problems":"reading_and_understanding_written_math_problems",
 "reading_and_writing_for_real-world_math_applications":"reading_and_writing_for_real-world_math_applications",
-"reading_conferences":"reading_conferences",
+"reading_conferences":"reading-conferences",
 "reading_documentation_and_reflection":"reading_documentation_and_reflection",
 "reading_in_math_class":"reading_in_math_class",
 "reading_laterally":"reading_laterally",
@@ -186904,7 +185795,7 @@
 "reciprocal-peer-tutoring":"reciprocal-peer-tutoring",
 "reciprocal-questioning":"reciprocal-questioning",
 "reciprocal-teaching-peer-assisted-learning-strategies-pals":"reciprocal-teaching-peer-assisted-learning-strategies-pals",
-"reciprocal_peer_tutoring":"reciprocal_peer_tutoring",
+"reciprocal_peer_tutoring":"reciprocal-peer-tutoring",
 "reciprocal_teaching":"reciprocal_teaching",
 "recognize-analyze-judge-evaluate-beliefs":"recognize-analyze-judge-evaluate-beliefs",
 "recognize-informal-sns-learning-design-pedagogy":"recognize-informal-sns-learning-design-pedagogy",
@@ -186951,7 +185842,7 @@
 "reflective-teaching-portfolios":"reflective-teaching-portfolios",
 "reflective-writing":"reflective-writing",
 "reflective_assessment":"reflective_assessment",
-"reflective_journaling":"reflective_journaling",
+"reflective_journaling":"reflective-journaling",
 "reflective_prompts":"reflective_prompts",
 "reflex_math_app":"reflex_math_app",
 "reflexive-noticing-facilitation":"reflexive-noticing-facilitation",
@@ -186990,7 +185881,7 @@
 "repeat_key_points":"repeat_key_points",
 "repeated-loa-with-real-time-aggregate-reporting":"repeated-loa-with-real-time-aggregate-reporting",
 "repeated-reading":"repeated-reading",
-"repeated_reading":"repeated_reading",
+"repeated_reading":"repeated-reading",
 "repeated_reading_for_fluency":"repeated_reading_for_fluency",
 "repeating_key_points_in_different_ways":"repeating_key_points_in_different_ways",
 "repertoire-response-as-fading-starting-point":"repertoire-response-as-fading-starting-point",
@@ -187047,9 +185938,9 @@
 "restorative-practices-attendance-monitoring-strategy":"restorative-practices-attendance-monitoring-strategy",
 "restorative-practices-circles":"restorative-practices-circles",
 "restorative-questions":"restorative-questions",
-"restorative_circles":"restorative_circles",
-"restorative_practices":"restorative_practices",
-"restorative_questions":"restorative_questions",
+"restorative_circles":"restorative-circles",
+"restorative_practices":"restorative-practices",
+"restorative_questions":"restorative-questions",
 "restorying-through-electronic-quilting":"restorying-through-electronic-quilting",
 "retain-strengthen-improve-choice-options":"retain-strengthen-improve-choice-options",
 "retakes-and-revisions":"retakes-and-revisions",
@@ -187061,14 +185952,14 @@
 "retrieval-practice-three-classroom-strategies":"retrieval-practice-three-classroom-strategies",
 "retrieval-practice-training":"retrieval-practice-training",
 "retrieval-practice-warm-ups":"retrieval-practice-warm-ups",
-"retrieval_practice":"retrieval_practice",
+"retrieval_practice":"retrieval-practice",
 "retrieval_practice_with_graphic_organizers":"retrieval_practice_with_graphic_organizers",
 "reverse-integration-attitude-strategy":"reverse-integration-attitude-strategy",
 "review-accommodations-landscape-past-present-future":"review-accommodations-landscape-past-present-future",
 "revise-safe-respectful-domain-for-reliability":"revise-safe-respectful-domain-for-reliability",
 "revision-and-resubmission":"revision-and-resubmission",
 "revision-cycles":"revision-cycles",
-"revision_cycles":"revision_cycles",
+"revision_cycles":"revision-cycles",
 "rgr-incremental-online-pd-strategy":"rgr-incremental-online-pd-strategy",
 "rhyming-poetry-three-step-instruction-sequence":"rhyming-poetry-three-step-instruction-sequence",
 "rhyming_games":"rhyming_games",
@@ -187099,7 +185990,7 @@
 "role-reversal-20-flipping-the-teacher":"role-reversal-20-flipping-the-teacher",
 "role-specific-ai-professional-learning-leadership":"role-specific-ai-professional-learning-leadership",
 "role-specific-sustained-ai-professional-learning-pathways":"role-specific-sustained-ai-professional-learning-pathways",
-"role_play":"role_play",
+"role_play":"role-play",
 "room-positioning":"room-positioning",
 "routine-robust-z-drift-monitoring":"routine-robust-z-drift-monitoring",
 "routinely-validate-longitudinal-construct-invariance":"routinely-validate-longitudinal-construct-invariance",
@@ -187113,10 +186004,10 @@
 "rubric-based-assessment":"rubric-based-assessment",
 "rubric-based-feedback":"rubric-based-feedback",
 "rubric-based-self-assessment":"rubric-based-self-assessment",
-"rubric-based_self-assessment":"rubric-based_self-assessment",
+"rubric-based_self-assessment":"rubric-based-self-assessment",
 "rubric-co-construction":"rubric-co-construction",
 "rubric-feedback":"rubric-feedback",
-"rubric_co-construction":"rubric_co-construction",
+"rubric_co-construction":"rubric-co-construction",
 "rubrics":"rubrics",
 "running-records":"running-records",
 "safe-space-arts-instruction-strategy":"safe-space-arts-instruction-strategy",
@@ -187140,7 +186031,7 @@
 "scaffolding-group-investigation-gifted-classrooms":"scaffolding-group-investigation-gifted-classrooms",
 "scaffolding-in-pbl":"scaffolding-in-pbl",
 "scaffolding-within-zpd-classroom-strategy":"scaffolding-within-zpd-classroom-strategy",
-"scaffolding_for_self-regulation":"scaffolding_for_self-regulation",
+"scaffolding_for_self-regulation":"scaffolding_self-regulation",
 "scaffolding_self-regulation":"scaffolding_self-regulation",
 "scaffolding_structure_and_function_in_pbl":"scaffolding_structure_and_function_in_pbl",
 "scalable-summer-school-post-pandemic-recovery-strategy":"scalable-summer-school-post-pandemic-recovery-strategy",
@@ -187151,7 +186042,7 @@
 "schedule-home-visits-before-school-year-start":"schedule-home-visits-before-school-year-start",
 "schedule-intentional-learning-time-preschool":"schedule-intentional-learning-time-preschool",
 "schema-based-instruction":"schema-based-instruction",
-"schema-based_instruction":"schema-based_instruction",
+"schema-based_instruction":"schema-based-instruction",
 "scholarships-disadvantaged-undergraduates-research-careers":"scholarships-disadvantaged-undergraduates-research-careers",
 "school-counselling-corrective-relationships-flexibility":"school-counselling-corrective-relationships-flexibility",
 "school-family-partnerships-for-sel":"school-family-partnerships-for-sel",
@@ -187180,9 +186071,9 @@
 "secure-detailed-cte-teacher-feedback-for-curriculum-development":"secure-detailed-cte-teacher-feedback-for-curriculum-development",
 "secure-enclave-kinetic-data-access":"secure-enclave-kinetic-data-access",
 "seductive-details-removal":"seductive-details-removal",
-"see,_think,_wonder":"see,_think,_wonder",
+"see":"see-think-wonder",
 "see-think-wonder":"see-think-wonder",
-"see_think_wonder":"see_think_wonder",
+"see_think_wonder":"see-think-wonder",
 "seernet-practitioner-engagement-strategy":"seernet-practitioner-engagement-strategy",
 "segmentation-for-postsecondary-success-strategy":"segmentation-for-postsecondary-success-strategy",
 "segmenting":"segmenting",
@@ -187221,9 +186112,9 @@
 "self-monitoring-of-performance":"self-monitoring-of-performance",
 "self-monitoring-of-performance-smp":"self-monitoring-of-performance-smp",
 "self-monitoring-strategies":"self-monitoring-strategies",
-"self-monitoring_checklists":"self-monitoring_checklists",
-"self-monitoring_of_behavior":"self-monitoring_of_behavior",
-"self-monitoring_strategies":"self-monitoring_strategies",
+"self-monitoring_checklists":"self-monitoring-checklists",
+"self-monitoring_of_behavior":"self-monitoring-of-behavior",
+"self-monitoring_strategies":"self-monitoring-strategies",
 "self-organized_learning_groups":"self-organized_learning_groups",
 "self-questioning":"self-questioning",
 "self-regulated-learning":"self-regulated-learning",
@@ -187232,7 +186123,7 @@
 "self-regulated-strategy-development":"self-regulated-strategy-development",
 "self-regulated-strategy-development-srsd":"self-regulated-strategy-development-srsd",
 "self-regulation_-_mindfulness_techniques":"self-regulation_-_mindfulness_techniques",
-"self-regulation_-_scaffolding":"self-regulation_-_scaffolding",
+"self-regulation_-_scaffolding":"self-regulation_scaffolding",
 "self-regulation_scaffolding":"self-regulation_scaffolding",
 "self-reinforcement":"self-reinforcement",
 "self-reinforcement_in_writing":"self-reinforcement_in_writing",
@@ -187257,8 +186148,8 @@
 "sentence-frames":"sentence-frames",
 "sentence-frames-and-starters":"sentence-frames-and-starters",
 "sentence-manipulation-and-semantic-mapping-strategies":"sentence-manipulation-and-semantic-mapping-strategies",
-"sentence_combining":"sentence_combining",
-"sentence_frames":"sentence_frames",
+"sentence_combining":"sentence-combining",
+"sentence_frames":"sentence-frames",
 "sentence_starters":"sentence_starters",
 "sentence_stems_for_reflection":"sentence_stems_for_reflection",
 "separate-product-process-and-progress-criteria":"separate-product-process-and-progress-criteria",
@@ -187268,7 +186159,7 @@
 "sequence-vs-then-av-teacher-training":"sequence-vs-then-av-teacher-training",
 "sequencing-everyday-tasks-k2":"sequencing-everyday-tasks-k2",
 "service-learning":"service-learning",
-"service_learning":"service_learning",
+"service_learning":"service-learning",
 "set-confidentiality-rules-before-public-reflection":"set-confidentiality-rules-before-public-reflection",
 "set_a_high_bar_for_each_student":"set_a_high_bar_for_each_student",
 "set_aside_your_own_reaction":"set_aside_your_own_reaction",
@@ -187290,9 +186181,9 @@
 "sfa-facilitator-and-pd-implementation-strategy":"sfa-facilitator-and-pd-implementation-strategy",
 "shadow_a_student":"shadow_a_student",
 "shadowing-behavior-adjustment":"shadowing-behavior-adjustment",
-"shadowing-for-behavior-adjustment-variant":"shadowing-for-behavior-adjustment-variant",
+"shadowing-for-behavior-adjustment-variant":"shadowing-behavior-adjustment",
 "shadowing_a_student":"shadowing_a_student",
-"shadowing_for_behavior_adjustment":"shadowing_for_behavior_adjustment",
+"shadowing_for_behavior_adjustment":"shadowing-behavior-adjustment",
 "shadowing_to_address_behavior_problems":"shadowing_to_address_behavior_problems",
 "shadowing_to_adjust_behavior_problems":"shadowing_to_adjust_behavior_problems",
 "shape_search":"shape_search",
@@ -187307,9 +186198,9 @@
 "shared-skills-first-tools-directory":"shared-skills-first-tools-directory",
 "shared-support-plan-before-micro-credential-pilots":"shared-support-plan-before-micro-credential-pilots",
 "shared-writing":"shared-writing",
-"shared_reading":"shared_reading",
+"shared_reading":"shared-reading",
 "shared_reflection":"shared_reflection",
-"shared_writing":"shared_writing",
+"shared_writing":"shared-writing",
 "sharing_and_discussion_of_independent_reading":"sharing_and_discussion_of_independent_reading",
 "shift-intervention-unit-to-school-building-for-refinement":"shift-intervention-unit-to-school-building-for-refinement",
 "shoeless_learning_spaces":"shoeless_learning_spaces",
@@ -187319,7 +186210,7 @@
 "show_me":"show_me",
 "showdown-trade-a-problem-class-readers":"showdown-trade-a-problem-class-readers",
 "sift-method":"sift-method",
-"sift_method":"sift_method",
+"sift_method":"sift-method",
 "signage_and_displays":"signage_and_displays",
 "signaling":"signaling",
 "signaling_and_highlighting":"signaling_and_highlighting",
@@ -187391,7 +186282,7 @@
 "sociocultural-teacher-preparation-gifted":"sociocultural-teacher-preparation-gifted",
 "socratic-seminar":"socratic-seminar",
 "socratic_questioning":"socratic_questioning",
-"socratic_seminar":"socratic_seminar",
+"socratic_seminar":"socratic-seminar",
 "socratic_seminars":"socratic_seminars",
 "soliciting_feedback_on_instruction":"soliciting_feedback_on_instruction",
 "solution-support-reasoning-rubric-categories":"solution-support-reasoning-rubric-categories",
@@ -187416,7 +186307,7 @@
 "spaced_learning_through_activity_breaks":"spaced_learning_through_activity_breaks",
 "spaced_practice":"spaced_practice",
 "spaced_repetition":"spaced_repetition",
-"spaced_retrieval_practice":"spaced_retrieval_practice",
+"spaced_retrieval_practice":"spaced-retrieval-practice",
 "spaces_that_foster_creativity":"spaces_that_foster_creativity",
 "spacing-effects-in-drill-and-practice-cai":"spacing-effects-in-drill-and-practice-cai",
 "spacing_activities_in_handwriting":"spacing_activities_in_handwriting",
@@ -187433,7 +186324,7 @@
 "spelling-instruction":"spelling-instruction",
 "spelling-retrieval-practice":"spelling-retrieval-practice",
 "spelling_instruction_through_encoding":"spelling_instruction_through_encoding",
-"spelling_retrieval_practice":"spelling_retrieval_practice",
+"spelling_retrieval_practice":"spelling-retrieval-practice",
 "spellread-professional-development-support":"spellread-professional-development-support",
 "spherical-earth-before-day-night-instruction":"spherical-earth-before-day-night-instruction",
 "spider-structured-aac-search-strategy":"spider-structured-aac-search-strategy",
@@ -187457,7 +186348,7 @@
 "standardized-compatible-subassemblies-repair-reduction":"standardized-compatible-subassemblies-repair-reduction",
 "standardized-reporting-protocols-ar-analytics":"standardized-reporting-protocols-ar-analytics",
 "standards-based-grading":"standards-based-grading",
-"standards-based_grading":"standards-based_grading",
+"standards-based_grading":"standards-based-grading",
 "standards-mastery-based-grading":"standards-mastery-based-grading",
 "standards-profiles-targeted-support-strategy":"standards-profiles-targeted-support-strategy",
 "stari-component-skills-linked-to-themes":"stari-component-skills-linked-to-themes",
@@ -187475,7 +186366,7 @@
 "state-guidance-for-district-tor-implementation":"state-guidance-for-district-tor-implementation",
 "statewide-mentoring-retention-study-recommendation":"statewide-mentoring-retention-study-recommendation",
 "station-rotation":"station-rotation",
-"station_rotation":"station_rotation",
+"station_rotation":"station-rotation",
 "stations-interacting_with_multiple_texts":"stations-interacting_with_multiple_texts",
 "statistical-adjustment-separates-school-effects-from-background":"statistical-adjustment-separates-school-effects-from-background",
 "statistical-control-method-selection-strategy":"statistical-control-method-selection-strategy",
@@ -187494,7 +186385,7 @@
 "stokamer-syllabus-change-taxonomy-civic-competence":"stokamer-syllabus-change-taxonomy-civic-competence",
 "stop-and-jot":"stop-and-jot",
 "stop-and-reflect-moments-ai-thinking":"stop-and-reflect-moments-ai-thinking",
-"stop_and_jot":"stop_and_jot",
+"stop_and_jot":"stop-and-jot",
 "storage_areas":"storage_areas",
 "story-mapping":"story-mapping",
 "story-retelling":"story-retelling",
@@ -187553,7 +186444,7 @@
 "structured-reflection-equality-reciprocity-icel":"structured-reflection-equality-reciprocity-icel",
 "structured-segmented-instruction":"structured-segmented-instruction",
 "structured-student-teacher-meal-conversations":"structured-student-teacher-meal-conversations",
-"structured_academic_controversy":"structured_academic_controversy",
+"structured_academic_controversy":"structured-academic-controversy",
 "structured_and_sustained_family_engagement_programs":"structured_and_sustained_family_engagement_programs",
 "structured_discussion_techniques":"structured_discussion_techniques",
 "structured_music_and_dance_activities":"structured_music_and_dance_activities",
@@ -187565,7 +186456,7 @@
 "student-co-created-behavior-guides":"student-co-created-behavior-guides",
 "student-co-facilitation-via-shared-chat-typing":"student-co-facilitation-via-shared-chat-typing",
 "student-created-magazines":"student-created-magazines",
-"student-created_magazines":"student-created_magazines",
+"student-created_magazines":"student-created-magazines",
 "student-critical-mass-structuring":"student-critical-mass-structuring",
 "student-driven_classroom_transformation":"student-driven_classroom_transformation",
 "student-generated-mapping-strategy":"student-generated-mapping-strategy",
@@ -187578,7 +186469,7 @@
 "student-led-conferences":"student-led-conferences",
 "student-led-ieps":"student-led-ieps",
 "student-led-rotating-discussion-leader-groups":"student-led-rotating-discussion-leader-groups",
-"student-led_conferences":"student-led_conferences",
+"student-led_conferences":"student-led-conferences",
 "student-owned-portfolios-maker-assessment":"student-owned-portfolios-maker-assessment",
 "student-ownership-practices-middle-school":"student-ownership-practices-middle-school",
 "student-pair_math_games":"student-pair_math_games",
@@ -187644,7 +186535,7 @@
 "support-children-entering-kindergarten-first-grade":"support-children-entering-kindergarten-first-grade",
 "support-decoding-of-text-mathematical-notation-and-symbols":"support-decoding-of-text-mathematical-notation-and-symbols",
 "support-first-year-curriculum-adopters-quick-start":"support-first-year-curriculum-adopters-quick-start",
-"support-for-decoding-text-mathematical-notation-and-symbols":"support-for-decoding-text-mathematical-notation-and-symbols",
+"support-for-decoding-text-mathematical-notation-and-symbols":"support-decoding-of-text-mathematical-notation-and-symbols",
 "support-schools-when-curbing-suspensions":"support-schools-when-curbing-suspensions",
 "support-self-paced-access-over-barrier-removal":"support-self-paced-access-over-barrier-removal",
 "support-sensemaking-for-equity-visualizations":"support-sensemaking-for-equity-visualizations",
@@ -187819,14 +186710,14 @@
 "the-title-pre-reading":"the-title-pre-reading",
 "the_best_part_of_me_book":"the_best_part_of_me_book",
 "the_disciplinary_steps":"the_disciplinary_steps",
-"the_frayer_model":"the_frayer_model",
+"the_frayer_model":"frayer-model",
 "the_pencil_pledge":"the_pencil_pledge",
 "the_role_of_background_knowledge":"the_role_of_background_knowledge",
 "themed-token-rewards-moon-rocks":"themed-token-rewards-moon-rocks",
 "theory-based-ocf-training-for-efl-teachers":"theory-based-ocf-training-for-efl-teachers",
 "things_to_consider_as_a_healthy_skeptic":"things_to_consider_as_a_healthy_skeptic",
 "think-aloud-modeling":"think-aloud-modeling",
-"think-aloud_modeling":"think-aloud_modeling",
+"think-aloud_modeling":"think-aloud-modeling",
 "think-alouds":"think-alouds",
 "think-alouds_for_online_reading_strategies":"think-alouds_for_online_reading_strategies",
 "think-pair-share-turn-talk":"think-pair-share-turn-talk",
@@ -187866,9 +186757,9 @@
 "tiered-assignments":"tiered-assignments",
 "tiered-self-regulation-intervention-support":"tiered-self-regulation-intervention-support",
 "tiered-vocabulary-instruction":"tiered-vocabulary-instruction",
-"tiered_assignments":"tiered_assignments",
+"tiered_assignments":"tiered-assignments",
 "tiered_seating_areas":"tiered_seating_areas",
-"tiered_vocabulary_instruction":"tiered_vocabulary_instruction",
+"tiered_vocabulary_instruction":"tiered-vocabulary-instruction",
 "time-boxing":"time-boxing",
 "time-management-in-instruction":"time-management-in-instruction",
 "time-metaphors-as-evaluation-lenses":"time-metaphors-as-evaluation-lenses",
@@ -187879,7 +186770,7 @@
 "timed-writing-sprints":"timed-writing-sprints",
 "timed_math_fact_drills":"timed_math_fact_drills",
 "timely-feedback":"timely-feedback",
-"timely_feedback":"timely_feedback",
+"timely_feedback":"timely-feedback",
 "timely_peer_review":"timely_peer_review",
 "timers":"timers",
 "timers_and_pacing":"timers_and_pacing",
@@ -187890,7 +186781,7 @@
 "toc-retention-supports-mentoring-mental-health":"toc-retention-supports-mentoring-mental-health",
 "token-economies":"token-economies",
 "token-economy":"token-economy",
-"token_economy":"token_economy",
+"token_economy":"token-economy",
 "tossing_activity":"tossing_activity",
 "tpack-video-case-analysis-for-idc-metacognition":"tpack-video-case-analysis-for-idc-metacognition",
 "tpri_diagnostic_assessment":"tpri_diagnostic_assessment",
@@ -187925,7 +186816,7 @@
 "tripwire-mitigation-defense-ripe-problems":"tripwire-mitigation-defense-ripe-problems",
 "turn-and-talk":"turn-and-talk",
 "turn-around_time":"turn-around_time",
-"turn_and_talk":"turn_and_talk",
+"turn_and_talk":"turn-and-talk",
 "turnaround-leader-research-based-strategies":"turnaround-leader-research-based-strategies",
 "tutor-booster-training-model":"tutor-booster-training-model",
 "tutor-certification-and-staff-pd":"tutor-certification-and-staff-pd",
@@ -187944,7 +186835,7 @@
 "two-stage-exams":"two-stage-exams",
 "two-stage-quizzes":"two-stage-quizzes",
 "two-stars-and-a-wish":"two-stars-and-a-wish",
-"two_stars_and_a_wish":"two_stars_and_a_wish",
+"two_stars_and_a_wish":"two-stars-and-a-wish",
 "uncluttered_environment":"uncluttered_environment",
 "uncluttered_learning_environment":"uncluttered_learning_environment",
 "understand_your_bias":"understand_your_bias",
@@ -188008,7 +186899,7 @@
 "use-transparency-to-promote-professional-accountability":"use-transparency-to-promote-professional-accountability",
 "use-unique-not-different-for-learners":"use-unique-not-different-for-learners",
 "use-what-works-clearinghouse-as-engagement-base":"use-what-works-clearinghouse-as-engagement-base",
-"use_analogies":"use_analogies",
+"use_analogies":"use-analogies",
 "use_body_language_and_demonstrations":"use_body_language_and_demonstrations",
 "use_books_to_teach_emotions":"use_books_to_teach_emotions",
 "use_concrete_examples":"use_concrete_examples",
@@ -188101,15 +186992,15 @@
 "vocabulary-instruction-small-groups":"vocabulary-instruction-small-groups",
 "vocabulary-journals":"vocabulary-journals",
 "vocabulary-pre-teaching":"vocabulary-pre-teaching",
-"vocabulary_instruction":"vocabulary_instruction",
+"vocabulary_instruction":"vocabulary-instruction",
 "vocabulary_meaning_through_context":"vocabulary_meaning_through_context",
-"vocabulary_pre-teaching":"vocabulary_pre-teaching",
+"vocabulary_pre-teaching":"vocabulary-pre-teaching",
 "voi-tco-edtech-investment-evaluation":"voi-tco-edtech-investment-evaluation",
 "voluntary-statewide-climate-survey-tracking":"voluntary-statewide-climate-survey-tracking",
 "volunteer-faculty-recruitment-modeling-practice":"volunteer-faculty-recruitment-modeling-practice",
 "volunteers-first-small-wins-sustainability":"volunteers-first-small-wins-sustainability",
 "wait-time":"wait-time",
-"wait_time":"wait_time",
+"wait_time":"wait-time",
 "wall_calendar":"wall_calendar",
 "warm-demander-pedagogy":"warm-demander-pedagogy",
 "warning_and_consequence":"warning_and_consequence",
@@ -188132,7 +187023,7 @@
 "welcome-messages":"welcome-messages",
 "what_would_their_day_look_like":"what_would_their_day_look_like",
 "whats-my-emotion-game-charades":"whats-my-emotion-game-charades",
-"whats-my-emotion-game-eq-chart":"whats-my-emotion-game-eq-chart",
+"whats-my-emotion-game-eq-chart":"whats-my-emotion-game-charades",
 "whats_below_the_surface_(iceberg_analysis)":"whats_below_the_surface_(iceberg_analysis)",
 "whats_my_emotion_game_check-in":"whats_my_emotion_game_check-in",
 "whats_my_number":"whats_my_number",
@@ -188169,17 +187060,17 @@
 "word_processing_and_technology_tools":"word_processing_and_technology_tools",
 "word_processing_for_composition":"word_processing_for_composition",
 "word_processing_for_writing_skills":"word_processing_for_writing_skills",
-"word_sort":"word_sort",
-"word_sorts":"word_sorts",
-"word_study":"word_study",
-"word_walls":"word_walls",
+"word_sort":"word-sort",
+"word_sorts":"word-sorts",
+"word_study":"word-study",
+"word_walls":"word-walls",
 "work-alongside-partners-before-designing-csl-project":"work-alongside-partners-before-designing-csl-project",
 "worked-example-fading":"worked-example-fading",
 "worked-examples":"worked-examples",
 "worked-examples-first":"worked-examples-first",
 "worked-examples-seatwork-homework-problem-solving":"worked-examples-seatwork-homework-problem-solving",
 "worked_example_routine":"worked_example_routine",
-"worked_examples_first":"worked_examples_first",
+"worked_examples_first":"worked-examples-first",
 "worked_examples_types":"worked_examples_types",
 "working-memory-support-strategies":"working-memory-support-strategies",
 "working_out_loud":"working_out_loud",
@@ -188197,7 +187088,7 @@
 "writing-process-components-planning-through-publishing":"writing-process-components-planning-through-publishing",
 "writing-process-portfolios":"writing-process-portfolios",
 "writing-to-learn":"writing-to-learn",
-"writing_conferences":"writing_conferences",
+"writing_conferences":"writing-conferences",
 "writing_down_goals":"writing_down_goals",
 "writing_process_approach":"writing_process_approach",
 "writing_workshop":"writing_workshop",

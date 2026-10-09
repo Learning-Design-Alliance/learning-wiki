@@ -40,7 +40,7 @@ The guide's fourth recommendation has students 'establish attainable academic an
 ## Related Strategies
 
 - [Provide academic support and enrichment to improve academic performance of at-risk students](academic-support-enrichment-dropout-strategy.md)
-- [Positive Behavior Support](positive_behavior_support.md)
+- [Positive Behavior Support](positive-behavior-support.md)
 - [Explicit Interpersonal Skills Instruction](explicit-interpersonal-skills-instruction.md)
 - [Create a Classroom Code of Conduct](create_a_classroom_code_of_conduct.md)
 - [Establishing Classroom Norms](establishing_classroom_norms.md)

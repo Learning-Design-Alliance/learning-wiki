@@ -59,7 +59,7 @@ Calming movement breaks support self-regulation, which is a precondition for att
 5. Fade adult prompting over time so learners initiate breaks independently, consistent with [Scaffolding](../principles/cognitive-load-management.md) principles of gradual responsibility transfer.
 
 ## Related Strategies
-- [Brain Breaks](brain_breaks.md) — energizing counterpart; use when learners are under-aroused rather than over-aroused
+- [Brain Breaks](brain-breaks.md) — energizing counterpart; use when learners are under-aroused rather than over-aroused
 - [Sensory Tools and Fidgets](sensory_tools_and_fidgets.md) — quieter, in-seat alternative for learners who need input without leaving the task
 - [Mindful Breathing](mindful_breathing.md) — pairs naturally with movement breaks as a re-entry routine
 

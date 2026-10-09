@@ -48,7 +48,7 @@ Automaticity Theory (AT) is presented as a main theory in developing reading flu
 - [Teach phonics and fluency together through a three-step rhyming poetry sequence](../strategies/rhyming-poetry-three-step-instruction-sequence.md)
 - [Repeated Reading for Fluency](../strategies/repeated_reading_for_fluency.md)
 - [Reading Fluency Practice](../strategies/reading-fluency-practice.md)
-- [Choral Reading](../strategies/choral_reading.md)
+- [Choral Reading](../strategies/choral-reading.md)
 - [Echo Reading](../strategies/echo-reading.md)
 - [Dolch Sight Word List - Cloze Passage Worksheets](../strategies/dolch_sight_word_list_-_cloze_passage_worksheets.md)
 - [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](../strategies/prosody-instruction-activities-strategy.md)

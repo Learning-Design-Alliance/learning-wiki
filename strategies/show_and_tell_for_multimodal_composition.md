@@ -61,8 +61,8 @@ Explaining one's own work to peers converts composing knowledge into articulate,
 
 ## Related Strategies
 - [Author's Chair](../strategies/authors_chair.md) — the print-writing workshop antecedent; show and tell extends its rationale-sharing function to multimodal work
-- [Peer Feedback Protocols](../strategies/peer_feedback_protocols.md) — supplies the response structures that keep show and tell critique productive
-- [Gallery Walk](../strategies/gallery_walk.md) — a spatial variant that trades live narration for annotated display and movement
+- [Peer Feedback Protocols](peer-feedback-protocols.md) — supplies the response structures that keep show and tell critique productive
+- [Gallery Walk](gallery-walk.md) — a spatial variant that trades live narration for annotated display and movement
 
 ## Examples
 - **First-year composition multimodal units** (per Selfe, 2007): students present digital video or web-text projects weekly, explaining sound-image juxtapositions and revision decisions before final submission.

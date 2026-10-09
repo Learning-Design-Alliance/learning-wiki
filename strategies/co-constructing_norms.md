@@ -60,8 +60,8 @@ Co constructed norms increase learner ownership and buy-in, which supports engag
 6. **Revisit and revise.** Schedule checkpoints (e.g., midterm) where the community reviews whether norms are working and amends them — modeling that agreements are living commitments.
 
 ## Related Strategies
-- [Establishing Classroom Routines](establishing_classroom_routines.md) — routines operationalize norms as repeated practice
-- [Restorative Circles](restorative_circles.md) — a protocol for repairing community when norms are broken
+- [Establishing Classroom Routines](establishing-classroom-routines.md) — routines operationalize norms as repeated practice
+- [Restorative Circles](restorative-circles.md) — a protocol for repairing community when norms are broken
 - [Team Contracts](team_contracts.md) — norm co construction scoped to small-group project work
 
 ## Examples

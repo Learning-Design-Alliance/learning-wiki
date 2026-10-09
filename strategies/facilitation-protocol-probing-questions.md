@@ -47,7 +47,7 @@ The facilitation protocol assigns the facilitator the 'primary responsibility...
 - [Socratic Seminars](socratic_seminars.md)
 - [Critical Friends Protocol](critical-friends-protocol.md)
 - [Discussing Race With Students](discussing_race_with_students.md)
-- [Socratic Seminar](socratic_seminar.md)
+- [Socratic Seminar](socratic-seminar.md)
 
 ## Examples
 -

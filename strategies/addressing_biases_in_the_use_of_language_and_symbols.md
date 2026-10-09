@@ -61,7 +61,7 @@ Environmental and linguistic cues shape who feels they belong, and belonging in 
 ## Related Strategies
 
 - [Accessible Syntax](accessible_syntax.md) — inclusive language work overlaps with plain-language revision; both reduce unnecessary barriers to comprehension
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — culturally varied examples only activate prior knowledge if learners can actually see themselves in them
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — culturally varied examples only activate prior knowledge if learners can actually see themselves in them
 - [Building Empathy](../principles/building-empathy.md) — auditing materials for bias is itself an empathy-building exercise for designers and learners
 - [Intentionally activate symbols so they assist transformative learning](intentionally-activate-symbols-for-learning.md)
 

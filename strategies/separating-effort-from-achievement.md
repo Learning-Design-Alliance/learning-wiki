@@ -58,7 +58,7 @@ The strategy targets attribution and motivation: learners who attribute success 
 5. In whole-class discourse, celebrate improvement and strategy use separately from top scores, so multiple learners have legitimate paths to recognition.
 
 ## Related Strategies
-- [Action-oriented feedback](action-oriented_feedback.md) — the mechanism that makes effort feedback actionable rather than merely encouraging
+- [Action-oriented feedback](action-oriented-feedback.md) — the mechanism that makes effort feedback actionable rather than merely encouraging
 - [Activating prior knowledge](activating-prior-knowledge.md) — reduces the effort needed for success, making effort–achievement links visible sooner
 - [Achievable micro-goals](achievable_micro-goals.md) — structures frequent effort→progress experiences that the separation depends on
 

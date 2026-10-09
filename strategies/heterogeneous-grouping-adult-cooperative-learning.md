@@ -38,7 +38,7 @@ The report describes how program participants are placed into cooperative learni
 
 ## Related Strategies
 
-- [Cooperative Learning](cooperative_learning.md)
+- [Cooperative Learning](cooperative-learning.md)
 - [Complex Instruction](complex_instruction.md)
 
 ## Examples

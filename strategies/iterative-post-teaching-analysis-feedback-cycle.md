@@ -39,9 +39,8 @@ A clinical-instructor routine in which candidates submit written post-teaching a
 ## Related Strategies
 
 - [Revision And Resubmission](revision-and-resubmission.md)
-- [Revision_Cycles](revision_cycles.md)
+- [Revision_Cycles](revision-cycles.md)
 - [Equitable Assessment Rubrics](equitable_assessment_rubrics.md)
-- [Revision Cycles](revision-cycles.md)
 
 ## Examples
 -

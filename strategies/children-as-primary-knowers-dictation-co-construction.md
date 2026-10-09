@@ -42,7 +42,6 @@ In the Modena project, five-year-olds work collaboratively to co-construct texts
 
 ## Related Strategies
 
-- [Shared Writing](shared_writing.md)
 - [Shared Writing](shared-writing.md)
 
 ## Examples

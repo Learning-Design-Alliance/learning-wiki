@@ -54,12 +54,12 @@ Identification must precede support: generic social-emotional programming misses
 1. **Observe and identify.** Use structured observation and rubrics across multiple contexts (structured work, transitions, unstructured time) to map each student's relationship-skill strengths and challenges; avoid single-incident judgments.
 2. **Name strengths explicitly.** Communicate identified strengths to the student to build social self-efficacy before targeting gaps.
 3. **Select matched supports.** Choose from: peer pairing with a positive role model; group assignments built around common interests; visible communication protocols (sentence stems, turn-taking norms); literature and [case studies](../elements/case-studies.md) that externalize social dilemmas for analysis.
-4. **Model and rehearse.** Demonstrate target interactions (e.g., disagreeing respectfully) through [role-play](../strategies/acting-role-play.md) and [active listening](../strategies/active_listening.md) practice before students apply skills in real group work.
+4. **Model and rehearse.** Demonstrate target interactions (e.g., disagreeing respectfully) through [role-play](../strategies/acting-role-play.md) and [active listening](active-listening.md) practice before students apply skills in real group work.
 5. **Coach in context.** Use [Coaching](../elements/coaching.md) during authentic collaborative tasks, prompting and debriefing in the moment rather than after the fact.
 6. **Reflect and adjust.** Have students reflect on which strategies helped ([self-monitoring improves self-regulation](../claims/self-monitoring-improves-self-regulation.md) [+M]); the educator adjusts supports based on reflection and continued observation.
 
 ## Related Strategies
-- [Active listening](../strategies/active_listening.md) — the core communication behavior most relationship-skill supports target
+- [Active listening](active-listening.md) — the core communication behavior most relationship-skill supports target
 - [Acting-role-play](../strategies/acting-role-play.md) — low-risk rehearsal of social interactions before live application
 - [Check-ins](../principles/check-ins.md) — routine structures that surface relational states and give students practice naming them
 - [Building empathy](../principles/building-empathy.md) — perspective-taking underlies conflict management and cooperation

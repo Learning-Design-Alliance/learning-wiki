@@ -54,7 +54,7 @@ Word prediction functions as an [accommodation](../elements/accommodations.md) t
 ### Instructions
 1. Assess the learner's transcription bottleneck: confirm that spelling/keystroke demands, not idea generation, are the limiting factor.
 2. Configure the tool — set prediction list length, enable phonetic matching, and load topic dictionaries for the current assignment.
-3. Model tool use explicitly: demonstrate scanning the list, listening to readback, and selecting, using a [think-aloud](../strategies/think-aloud_modeling.md) approach.
+3. Model tool use explicitly: demonstrate scanning the list, listening to readback, and selecting, using a [think-aloud](think-aloud-modeling.md) approach.
 4. Pair the tool with [practice](../elements/practice.md) on authentic writing tasks so prediction becomes automatic rather than attention-demanding.
 5. Fade support as fluency develops — reduce prediction frequency or move to abbreviation expansion — and continue targeted spelling instruction alongside.
 

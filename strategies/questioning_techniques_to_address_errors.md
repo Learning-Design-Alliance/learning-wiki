@@ -60,7 +60,7 @@ Questioning that targets the *reasoning behind* an error converts a mistake into
 ## Related Strategies
 
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — errors often stem from misapplied prior knowledge; questioning surfaces which prior idea is being invoked
-- [Action-Oriented Feedback](../strategies/action-oriented_feedback.md) — questioning is a form of feedback that tells learners *where their thinking went wrong* rather than what the answer is
+- [Action-Oriented Feedback](action-oriented-feedback.md) — questioning is a form of feedback that tells learners *where their thinking went wrong* rather than what the answer is
 - [Question students about why a correct answer was chosen, rather than why an error was made](question-correct-answers-not-errors.md)
 
 ## Examples

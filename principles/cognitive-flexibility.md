@@ -129,7 +129,7 @@ Noticing that a case differs, saying what changes, choosing an appropriate metho
 
 ## Examples
 - [Intermediate Mechanics Tutorials](../elements/intermediate-mechanics-tutorials-imt.md)
-- [Math Talks](../strategies/math_talks.md)
+- [Math Talks](../strategies/math-talks.md)
 - [Math Talks / Number Talks](../strategies/math-talks-number-talks.md)
 
 ### Illustrative
@@ -225,7 +225,7 @@ The authors recommend modeling multiple valid solution procedures as pathways ov
 ## Examples
 
 - [Intermediate Mechanics Tutorials](../elements/intermediate-mechanics-tutorials-imt.md)
-- [Math Talks](../strategies/math_talks.md)
+- [Math Talks](../strategies/math-talks.md)
 - [Math Talks / Number Talks](../strategies/math-talks-number-talks.md)
 
 ## Key Sources

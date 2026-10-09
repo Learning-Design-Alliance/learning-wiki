@@ -53,7 +53,7 @@ Identity mapping converts tacit cultural assumptions into articulable knowledge,
 
 ### Instructions
 1. Individually create an identity map: place yourself at the center and mark the identity categories most salient to you, noting which you chose and which were assigned.
-2. In pairs, share maps using constructivist listening — the listener paraphrases and asks clarifying questions only, practicing [Active Listening](active_listening.md).
+2. In pairs, share maps using constructivist listening — the listener paraphrases and asks clarifying questions only, practicing [Active Listening](active-listening.md).
 3. Reflect in writing on one marker: how might it shape what you notice, assume, or value about students and families who differ from you on that dimension?
 4. Connect to practice: identify one recurring interaction pattern (e.g., with a particular student or family) and analyze it through the lens of your map, using [Coaching](../elements/coaching.md) or peer discussion to test the interpretation.
 5. Revisit and revise the map periodically; treat it as a living document tied to ongoing [Class Discussion](../elements/class-discussion.md) or professional learning community cycles.
@@ -61,7 +61,7 @@ Identity mapping converts tacit cultural assumptions into articulable knowledge,
 ## Related Strategies
 
 - [Activating Background Knowledge](activating_background_knowledge.md) — the same activation logic applied to the educator's own prior experience before interpreting learners
-- [Active Listening](active_listening.md) — the dyad protocol depends on listening without evaluation
+- [Active Listening](active-listening.md) — the dyad protocol depends on listening without evaluation
 - [Conduct empathy interviews to understand user experiences with technology](empathy-interviews-for-ai-policy-development.md)
 
 ## Examples

@@ -1,6 +1,7 @@
 ---
 type: strategy
 id: scaffolding_self-regulation
+aliases: [scaffolding_for_self-regulation]
 title: Scaffolding Self-Regulation
 description: Temporarily structuring tasks, modeling self-regulatory moves, and fading support so learners develop the ability to manage their own emotions, effort, and learning processes.
 status: review
@@ -28,30 +29,47 @@ Self-regulatory skill is learnable: strategy instruction embedded in subject-mat
 - Structured opportunities to practice regulatory moves with prompts ([Check-In](../elements/check-in.md), [Self-Assessment](../elements/self-assessment.md), [Goal-Setting](../elements/goal-setting.md))
 - A plan for [Fading](../elements/fading.md) — supports are temporary by definition; without withdrawal, learners remain dependent
 - An emotionally safe climate: predictable routines, error normalization, and low-stakes practice before high-stakes performance
+- An emotionally safe environment with predictable routines and clear expectations, so regulation demands come from the task rather than from threat or ambiguity
+- External regulation aids: checklists, goal-setting frames, visual timers, calm-down routines, [Check-Ins](../principles/check-ins.md) before and during demanding tasks
+- Immediate, process-focused [Feedback](../elements/feedback.md) and [Coaching](../elements/coaching.md) during practice
 
 #### Constraints
 - Accurately diagnosing a learner's regulatory skill level is difficult; misjudged support either infantilizes capable learners or abandons struggling ones [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - Static, one-size-fits-all scaffolds lose effectiveness as expertise grows — support that helped novices becomes redundant or distracting for more advanced learners [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 - Over-scaffolding creates prompt-dependence: learners execute strategies only when prompted, and regulation does not internalize [-M]
 - Highly emotional or reactive learners may need co-regulation (adult as external regulator) before self-regulation strategies can take hold; jumping straight to strategy instruction often fails [-W]
+- Support that is never withdrawn produces dependence: learners attribute success to the scaffold rather than to their own capability, undermining self-efficacy [Fading support promotes transfer of responsibility to the learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [-M]
+- Too much structure too early can suppress the learner's own strategy generation; highly directive scaffolding benefits novices but becomes counterproductive as competence grows [Guidance effectiveness reverses as learner expertise increases.](../claims/expertise-reversal-effect.md) [~S]
+- Scaffolds imposed during acute emotional dysregulation are less effective; regulation supports must be established before the learner is flooded, not during the crisis
 
 #### Implementation Variability
 - **Strategy-embedded**: teach regulatory strategies inside content instruction (e.g., SRSD writing instruction teaches planning, drafting, and revising strategies within writing tasks)
 - **Routine-based**: class-wide structures — goal-setting at task start, [Check-In](../elements/check-in.md) mid-task, self-evaluation at end — that all students use
 - **Co-regulation first**: for younger or highly dysregulated learners, the adult models and shares regulatory control before transferring it
 - **Technology-mediated**: adaptive systems that prompt planning and reflection at calibrated points ([Adaptive Difficulty](../elements/adaptive-difficulty.md))
+- **Co-regulation first:** teacher and learner share regulatory work (teacher sets the goal, learner monitors progress) before full self-regulation is expected
+- **Peer scaffolding:** structured peer partnerships where partners prompt each other's planning and reflection
+- **Environmental scaffolds:** classroom design, visual schedules, and reduced-distraction spaces that lower regulatory demands without adult intervention
+- **Digital scaffolds:** apps such as [ClassDojo](https://www.classdojo.com) or self-monitoring tools that prompt goal setting and reflection cycles
 
 ### Target Learners
 - K–12 and post-secondary students generally, with the largest gains for younger learners and those with weak prior strategy repertoires [Self-regulation strategy instruction improves academic performance.](../claims/self-regulated-learning-improves-achievement.md) [+S]
 - Students with learning disabilities, ADHD, or emotional/behavioral challenges, who benefit most from explicit strategy instruction and external structure [+M]
 - Learners who experience task-related anxiety; emotionally safe, scaffolded practice reduces avoidance [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M]
 - Less beneficial for already highly self-regulated learners, for whom prompts and check-ins add friction without new information [~M]
+- Learners who struggle with emotional or behavioral regulation, including highly reactive students in K–12 settings
+- Novices facing tasks that exceed their current self-regulatory capacity [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
+- Young children, whose self-regulation is still substantially external and responsive to adult co-regulation
 
 ### Target Learning Goals
 - Metacognitive skill: planning, monitoring, and evaluating one's own learning
 - Emotional self-regulation: managing frustration, anxiety, and impulse in learning contexts
 - Academic strategy acquisition: study skills, writing processes, problem-solving routines
 - Long-term autonomy: reducing dependence on external direction over time
+- Emotional regulation: recognizing and managing reactions to frustration, novelty, and failure
+- Behavioral self-control: planning, monitoring, and adjusting behavior during extended tasks
+- Metacognitive strategy use: goal setting, self-monitoring, and self-evaluation [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+S]
+- Academic self-efficacy and persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 
 ### Instructions
 1. **Assess current regulation.** Observe or conference with learners to identify which regulatory phase (planning, monitoring, emotional control) is weakest.
@@ -67,15 +85,96 @@ Self-regulatory skill is learnable: strategy instruction embedded in subject-mat
 - [Self-Assessment](../elements/self-assessment.md) — the monitoring skill learners must internalize for regulation to transfer
 - [Goal-Setting with Students](../strategies/goal-setting-with-students.md) — the planning phase made collaborative rather than imposed
 - [Emotion Check-Ins](../strategies/emotion-check-ins.md) — building awareness of emotional states as a precondition for managing them
+- [Self-Monitoring Checklists](self-monitoring-checklists.md) — a concrete scaffold that later becomes the learner's own tool
+- [Goal-Setting Conferences](goal-setting-conferences.md) — structures the planning phase of the self-regulation cycle
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development) writing instruction** — a well-validated curriculum model in which teachers model planning strategies for writing, students practice with graphic organizers and self-statements ("What do I do first?"), and supports fade as students internalize the process (see [Graham & Harris's SRSD materials](https://srsdresearch.org)).
 - **Zimmerman's cyclical training in study skills courses** — college learning-to-learn courses that have students set process goals, monitor study sessions with logs, and self-evaluate before exams, cycling through forethought–performance–reflection each term.
 - **Second Step (Committee for Children)** — a K–8 social-emotional curriculum that scaffolds emotional regulation through teacher-modeled calm-down steps, role-played practice, and progressively less-prompted application in real situations ([https://www.secondstep.org](https://www.secondstep.org)).
 - **Khan Academy mastery tracking** — the platform's goal-setting and progress dashboards externalize monitoring, prompting learners to plan their own practice sequence before support is withdrawn.
+- **Tools of the Mind** ([toolsofthemind.org](https://toolsofthemind.org)) — an early-childhood curriculum built entirely on scaffolding self-regulation through mature dramatic play, planning mats, and written play plans that children complete before acting, with supports faded across the year.
+- **Zimmerman's cyclical training studies** — learners taught to scaffold their own study through forethought (goal setting), performance (self-monitoring), and self-reflection phases, with external prompts withdrawn as the cycle becomes habitual.
+- A teacher supports a student prone to outbursts during independent work with a visual task checklist, a scheduled check-in every ten minutes, and a taught calm-down routine; over the term, check-ins move from teacher-initiated to student-initiated and then are dropped.
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
 - Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231–264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
 - Graham, S., & Harris, K. R. (2005). Improving the writing performance of young struggling writers: Theoretical and programmatic research from the center on accelerating student learning. *The Journal of Special Education, 39*(1), 19–33. [doi:10.1177/00224669050390010301](https://doi.org/10.1177/00224669050390010301)
 - van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–student interaction: A decade of research. *Educational Psychology Review, 22*(3), 271–296. [doi:10.1007/s10648-010-9127-6](https://doi.org/10.1007/s10648-010-9127-6)
+- Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
+- Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231-264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
+- Pino-Pasternak, D., Whitebread, D., & Tolmie, A. (2014). Dimensions of parental involvement in home-school relationships: A metacognitive and self-regulatory perspective. *Review of Education, 2*(3), 210–241.
+- Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)
+
+<!-- merged 2026-10-09 from strategies/scaffolding_for_self-regulation ("Scaffolding for Self-Regulation"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Scaffolding for Self-Regulation
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 7 claims (6 for, 1 mixed) · 17 studies (5 causal, 5 review, 3 quant-synthesis, 3 theoretical, 1 qualitative), `q1`–`q4` · 2 of 17 report an effect size
+
+## Description
+Scaffolding for self-regulation provides temporary external structure — routines, prompts, checklists, co-regulation from an adult or peer, and immediate feedback — that helps learners manage emotional and behavioral responses in new or challenging situations. The support is calibrated to the learner's current capability and progressively faded as internal self-regulatory capacity develops. The mechanism is Vygotskian: learners first experience regulation *through* a more capable other, then internalize those strategies as self-regulation.
+
+## Design Implications
+
+Effective scaffolding of self-regulation is contingent — the amount and type of support must respond to the learner's moment-to-moment performance, not follow a fixed schedule [Contingent scaffolding improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [+M]. External supports work because they substitute for still-developing internal monitoring and control processes; as those processes strengthen, responsibility must transfer to the learner or dependence results [Fading support promotes transfer of responsibility to the learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]. Feedback should target processes and strategies rather than the person or the outcome [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+
+### Context
+#### Requirements
+- An emotionally safe environment with predictable routines and clear expectations, so regulation demands come from the task rather than from threat or ambiguity
+- Explicit modeling of self-regulatory strategies ([Think-Aloud](../elements/think-aloud.md)) — learners need to see monitoring, coping, and revision modeled, not just be told to do them
+- External regulation aids: checklists, goal-setting frames, visual timers, calm-down routines, [Check-Ins](../principles/check-ins.md) before and during demanding tasks
+- Immediate, process-focused [Feedback](../elements/feedback.md) and [Coaching](../elements/coaching.md) during practice
+- A plan for [Fading](../elements/fading.md) — predetermined criteria for reducing support as the learner demonstrates independent use of strategies
+
+#### Constraints
+- Support that is never withdrawn produces dependence: learners attribute success to the scaffold rather than to their own capability, undermining self-efficacy [Fading support promotes transfer of responsibility to the learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [-M]
+- Too much structure too early can suppress the learner's own strategy generation; highly directive scaffolding benefits novices but becomes counterproductive as competence grows [Guidance effectiveness reverses as learner expertise increases.](../claims/expertise-reversal-effect.md) [~S]
+- Scaffolding delivered without contingency — support that ignores the learner's actual performance state — adds load without benefit [Contingent scaffolding improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [~M]
+- Scaffolds imposed during acute emotional dysregulation are less effective; regulation supports must be established before the learner is flooded, not during the crisis
+
+#### Implementation Variability
+- **Co-regulation first:** teacher and learner share regulatory work (teacher sets the goal, learner monitors progress) before full self-regulation is expected
+- **Peer scaffolding:** structured peer partnerships where partners prompt each other's planning and reflection
+- **Environmental scaffolds:** classroom design, visual schedules, and reduced-distraction spaces that lower regulatory demands without adult intervention
+- **Digital scaffolds:** apps such as [ClassDojo](https://www.classdojo.com) or self-monitoring tools that prompt goal setting and reflection cycles
+
+### Target Learners
+- Learners who struggle with emotional or behavioral regulation, including highly reactive students in K–12 settings
+- Novices facing tasks that exceed their current self-regulatory capacity [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
+- Young children, whose self-regulation is still substantially external and responsive to adult co-regulation
+- Less beneficial for learners who already regulate independently, for whom added structure is redundant or irritating [Guidance effectiveness reverses as learner expertise increases.](../claims/expertise-reversal-effect.md) [~M]
+
+### Target Learning Goals
+- Emotional regulation: recognizing and managing reactions to frustration, novelty, and failure
+- Behavioral self-control: planning, monitoring, and adjusting behavior during extended tasks
+- Metacognitive strategy use: goal setting, self-monitoring, and self-evaluation [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+S]
+- Academic self-efficacy and persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
+
+### Instructions
+1. **Assess the current regulatory capacity** — observe where the learner's regulation breaks down (task initiation, frustration tolerance, sustained attention) and identify which phase of the cycle needs support.
+2. **Model the strategy explicitly** — use [Think-Aloud](../elements/think-aloud.md) to demonstrate coping and monitoring ("I notice I'm getting frustrated; I'll take a breath and re-read the problem").
+3. **Co-regulate during [Practice](../elements/practice.md)** — provide structured routines, prompts, and immediate [Coaching](../elements/coaching.md) while the learner attempts the task with support in place.
+4. **Give process-level [Feedback](../elements/feedback.md)** — name the strategy the learner used and its effect, rather than praising the person or the outcome [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+5. **Fade deliberately** — remove one support at a time as the learner demonstrates independent use, transferring monitoring responsibility to the learner [Fading support promotes transfer of responsibility to the learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
+6. **Support self-monitoring** — shift from external prompts to learner-run tools such as self-rating scales and reflection journals [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+S].
+
+## Related Strategies
+- [Gradual Release of Responsibility](gradual-release-of-responsibility.md) — the general instructional arc (I do, we do, you do) that this strategy applies to regulatory skills
+- [Self-Monitoring Checklists](self-monitoring-checklists.md) — a concrete scaffold that later becomes the learner's own tool
+- [Goal-Setting Conferences](goal-setting-conferences.md) — structures the planning phase of the self-regulation cycle
+
+## Examples
+- **Tools of the Mind** ([toolsofthemind.org](https://toolsofthemind.org)) — an early-childhood curriculum built entirely on scaffolding self-regulation through mature dramatic play, planning mats, and written play plans that children complete before acting, with supports faded across the year.
+- **Zimmerman's cyclical training studies** — learners taught to scaffold their own study through forethought (goal setting), performance (self-monitoring), and self-reflection phases, with external prompts withdrawn as the cycle becomes habitual.
+- A teacher supports a student prone to outbursts during independent work with a visual task checklist, a scheduled check-in every ten minutes, and a taught calm-down routine; over the term, check-ins move from teacher-initiated to student-initiated and then are dropped.
+
+## Key Sources
+- Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
+- Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. [doi:10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)
+- Dignath, C., & Büttner, G. (2008). Components of fostering self-regulated learning among students: A meta-analysis on intervention studies at primary and secondary school level. *Metacognition and Learning, 3*(3), 231-264. [doi:10.1007/s11409-008-9029-x](https://doi.org/10.1007/s11409-008-9029-x)
+- Pino-Pasternak, D., Whitebread, D., & Tolmie, A. (2014). Dimensions of parental involvement in home-school relationships: A metacognitive and self-regulatory perspective. *Review of Education, 2*(3), 210–241.
+- Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)
+-->

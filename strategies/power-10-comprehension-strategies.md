@@ -44,7 +44,7 @@ The Power 10 are a set of teacher strategies used in both ECED curricula (Readin
 ## Related Strategies
 
 - [Quick Writes](quick_writes.md)
-- [Graphic Organizers / Guided Notes (for Processing Speed)](graphic-organizers-guided-notes-for-processing-speed.md)
+- [Graphic Organizers / Guided Notes (for Processing Speed)](graphic-organizers-and-guided-notes-processing-speed.md)
 
 ## Examples
 -

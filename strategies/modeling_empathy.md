@@ -52,13 +52,13 @@ Modeling empathy works through the same observational mechanisms as skill demons
 
 ### Instructions
 1. Establish the norm explicitly and live it: state that mistakes are part of learning, then visibly respond to your own errors without defensiveness.
-2. When a student is upset, demonstrate the response you want students to learn — eye contact, private conversation, validation of the feeling before addressing the behavior ([Active Listening](../strategies/active_listening.md)).
+2. When a student is upset, demonstrate the response you want students to learn — eye contact, private conversation, validation of the feeling before addressing the behavior ([Active Listening](active-listening.md)).
 3. Narrate the reasoning occasionally so the model is learnable, not just observable ([Demonstration](../elements/demonstration.md)).
 4. Reaffirm empathic responses when students produce them, keeping reactions consistent across students and situations ([Coaching](../elements/coaching.md)).
 5. Provide structured rehearsal through [Role-Play](../strategies/acting-role-play.md) so observation converts into practiced behavior.
 
 ## Related Strategies
-- [Active Listening](../strategies/active_listening.md) — the conversational skill through which empathic modeling is most often enacted
+- [Active Listening](active-listening.md) — the conversational skill through which empathic modeling is most often enacted
 - [Role-Play](../strategies/acting-role-play.md) — converts observed empathic behavior into rehearsed practice
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a structured routine for attending to emotional states
 

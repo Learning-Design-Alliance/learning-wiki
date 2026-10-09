@@ -1,8 +1,11 @@
 name: PR preview
 
+# Only PRs that change how the site is built get a preview: a content batch rewrites
+# hundreds of pages, and a full preview of each (~19,000 pages) was filling gh-pages.
+# A preview of any other PR can be had by adding the `preview` label.
 on:
   pull_request:
-    types: [opened, reopened, synchronize, closed]
+    types: [opened, reopened, synchronize, closed, labeled]
 
 concurrency:
   group: pr-preview-${{ github.event.pull_request.number }}
@@ -13,8 +16,29 @@ permissions:
   pull-requests: write
 
 jobs:
-  deploy-preview:
+  changes:
     if: github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    outputs:
+      site: ${{ steps.diff.outputs.site }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - id: diff
+        run: |
+          if git diff --name-only "origin/${{ github.base_ref }}...HEAD" | grep -qE '^(mkdocs\.yml|docs_hooks/|scripts/build_site\.sh|scripts/build_longtail\.py|branding/|requirements-docs\.txt|\.github/workflows/pr-preview\.yml)'; then
+            echo "site=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "site=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  deploy-preview:
+    needs: changes
+    if: >-
+      github.event.action != 'closed' &&
+      (needs.changes.outputs.site == 'true' ||
+       contains(github.event.pull_request.labels.*.name, 'preview'))
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -28,21 +52,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements-docs.txt
 
-      - name: Set up docs directory
-        run: |
-          mkdir -p docs
-          # The folder list is read from okf_lib rather than repeated here — this
-          # was the fifteenth hard-coded copy of it, and adding two kinds broke
-          # all three workflows at once because none of them knew.
-          for dir in $(python3 -c "import sys; sys.path.insert(0, 'scripts'); import okf_lib; print(' '.join(okf_lib.CONTENT_FOLDERS))") branding; do
-            ln -s ../$dir docs/$dir
-          done
-          ln -s ../index.md docs/index.md
-          ln -s ../CLAUDE.md docs/CLAUDE.md
-          ln -s ../evidence.md docs/evidence.md
-
+      # The curated tier with mkdocs, the long tail with build_longtail.py, and the
+      # Pagefind index over both (docs_hooks/two_tier.py).
       - name: Build docs site
-        run: mkdocs build --strict
+        run: scripts/build_site.sh --strict
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@ffa7509e91a3ec8dfc2e5536c4d5c1acdf7a6de9  # v1

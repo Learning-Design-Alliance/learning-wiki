@@ -64,7 +64,7 @@ Emotions are causally linked to achievement through their effects on attention, 
 
 ## Related Strategies
 - [Check-ins](../elements/check-in.md) — the lightweight daily routine that operationalizes emotion discussion
-- [Active listening](active_listening.md) — the teacher skill that makes emotional disclosure safe and productive
+- [Active listening](active-listening.md) — the teacher skill that makes emotional disclosure safe and productive
 - [Building empathy](../principles/building-empathy.md) — perspective-taking discussions extend the same skill from self to others
 - [Achievable micro-goals](achievable_micro-goals.md) — a common regulatory response to the frustration surfaced in emotion discussions
 

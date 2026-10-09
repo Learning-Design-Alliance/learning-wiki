@@ -38,7 +38,7 @@ Prompts work by triggering self-explanation and strategy evaluation at moments w
 - **Planning prompts** before tasks: "What is your goal for this problem? What strategy fits it?" — process goals set this way outperform outcome goals for novices [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
 - **Monitoring prompts** mid-task: "Which step are you least sure about? How could you check it?"
 - **Evaluation prompts** post-task: "What was the hardest part, and what does that tell you about what to study next?"
-- **Attribution prompts** after feedback: "Was your error a knowledge gap or a strategy problem?" — connects reflection to [Action-Oriented Feedback](../strategies/action-oriented_feedback.md)
+- **Attribution prompts** after feedback: "Was your error a knowledge gap or a strategy problem?" — connects reflection to [Action-Oriented Feedback](action-oriented-feedback.md)
 - **Faded prompting**: begin with full scripted prompts, then reduce to cue words, then remove entirely as learners adopt the habit
 
 ### Target Learners
@@ -62,7 +62,7 @@ Prompts work by triggering self-explanation and strategy evaluation at moments w
 ## Related Strategies
 
 - [Self-explanation prompts](../strategies/self-explanation-prompts.md) — a sibling technique focused on explaining *content* rather than regulating *process*
-- [Action-oriented feedback](../strategies/action-oriented_feedback.md) — feedback that prompts learners to decide what to do next pairs naturally with attribution prompts
+- [Action-oriented feedback](action-oriented-feedback.md) — feedback that prompts learners to decide what to do next pairs naturally with attribution prompts
 - [Activating prior knowledge](../strategies/activating-prior-knowledge.md) — planning prompts often double as activation by asking what learners already know about a task
 - [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
 - [Teach prompting as a five-part skill (role, task, audience, constraints, justification) with a structured ask-generate-evaluate cycle](five-part-prompt-framework-with-evaluation-cycle.md)

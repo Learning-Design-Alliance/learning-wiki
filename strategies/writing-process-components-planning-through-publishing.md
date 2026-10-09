@@ -48,7 +48,6 @@ The guide recommends introducing students to the components of the writing proce
 - [Process Writing Workshop](process-writing-workshop.md)
 - [Process Writing Approach](process_writing_approach.md)
 - [Workshop-Based Writing Instruction](workshop-based_writing_instruction.md)
-- [Process Writing](process_writing.md)
 
 ## Examples
 -

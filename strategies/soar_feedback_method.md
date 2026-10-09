@@ -19,7 +19,7 @@ The SOAR method is a quality framework for feedback on student writing: feedback
 
 ## Design Implications
 
-SOAR aligns with the finding that feedback is most effective when it addresses the task and the processes for improving it, rather than the self [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Vague praise ("good job") and global criticism ("unclear") give the writer nothing to act on; specific, actionable comments paired with a manageable revision scope convert feedback into observable changes in the next draft [Action-oriented feedback improves revision quality.](action-oriented_feedback.md) [+M].
+SOAR aligns with the finding that feedback is most effective when it addresses the task and the processes for improving it, rather than the self [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Vague praise ("good job") and global criticism ("unclear") give the writer nothing to act on; specific, actionable comments paired with a manageable revision scope convert feedback into observable changes in the next draft [Action-oriented feedback improves revision quality.](action-oriented-feedback.md) [+M].
 
 ### Context
 #### Requirements
@@ -56,7 +56,7 @@ SOAR aligns with the finding that feedback is most effective when it addresses t
 5. **Be Ongoing.** Return feedback before the next draft is due, and check whether prior comments were acted on in the revision ([Formative Assessment](../patterns/formative-assessment.md)).
 
 ## Related Strategies
-- [Action-Oriented Feedback](action-oriented_feedback.md) — the "A" in SOAR, elaborated as a standalone technique
+- [Action-Oriented Feedback](action-oriented-feedback.md) — the "A" in SOAR, elaborated as a standalone technique
 - [Rubric-Based Assessment](rubric-based-assessment.md) — supplies the shared criteria that make feedback specific and reasonable
 - [Peer Feedback Protocols](peer-feedback-protocols.md) — scales ongoing feedback between drafts while building student evaluative skill
 

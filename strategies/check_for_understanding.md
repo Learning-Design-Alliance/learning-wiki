@@ -60,7 +60,7 @@ Checking for understanding operationalizes formative assessment at the moment of
 ## Related Strategies
 - [Check-Ins](../principles/check-ins.md) — the ongoing, during-work counterpart to the pre-task check
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the pre-instruction check that establishes what learners already hold
-- [Action-Oriented Feedback](action-oriented_feedback.md) — what to deliver when the check reveals a gap
+- [Action-Oriented Feedback](action-oriented-feedback.md) — what to deliver when the check reveals a gap
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the formal assessment element this strategy instantiates in miniature

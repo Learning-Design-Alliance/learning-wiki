@@ -54,16 +54,16 @@ Strengths-based framing raises self-efficacy, which in turn predicts persistence
 ### Instructions
 1. **Identify strengths.** Observe students across settings, interview them about what they enjoy and do well socially, and record specific instances (not traits) of effective communication, cooperation, or conflict handling.
 2. **Share the profile with the student.** Use [Individual Reflection](../elements/individual-reflection.md) or a brief conference so the student names their own strengths; self-identified strengths are more motivating than assigned labels.
-3. **Design a strength-anchored task.** Create a [Collaboration](../elements/collaboration.md) task or group role that requires the student's strength, paired with one explicit stretch skill (e.g., a strong communicator practices listening by facilitating a discussion using [Active Listening](active_listening.md) norms).
+3. **Design a strength-anchored task.** Create a [Collaboration](../elements/collaboration.md) task or group role that requires the student's strength, paired with one explicit stretch skill (e.g., a strong communicator practices listening by facilitating a discussion using [Active Listening](active-listening.md) norms).
 4. **Model and rehearse the stretch skill.** Demonstrate the target behavior, then rehearse it through [Acting-Role-Play](acting-role-play.md) before live application.
 5. **Coach in the moment.** During the activity, use [Coaching](../elements/coaching.md) prompts and process-level [Provide Feedback](../elements/provide-feedback.md) ("You noticed Maya hadn't spoken and invited her in — that's the skill we're practicing").
 6. **Reflect and consolidate.** Close with [Peer Discussion](../elements/peer-discussion.md) or individual reflection on what worked, reinforcing the link between the student's strength and the new skill.
 
 ## Related Strategies
 
-- [Active Listening](active_listening.md) — a concrete relationship skill frequently targeted as the "stretch" component
+- [Active Listening](active-listening.md) — a concrete relationship skill frequently targeted as the "stretch" component
 - [Acting-Role-Play](acting-role-play.md) — the rehearsal method for practicing new social behaviors in low-stakes conditions
-- [Peer Tutoring](../strategies/peer_tutoring.md) — a formalized version of strength-based peer pairing
+- [Peer Tutoring](peer-tutoring.md) — a formalized version of strength-based peer pairing
 - [Manage group conflict constructively by having members observe one another and treat differences as strength](constructive-conflict-management-clg.md)
 - [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
 

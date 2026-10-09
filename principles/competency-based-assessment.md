@@ -106,7 +106,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 
 - A teacher preparation program assesses classroom facilitation through observed teaching, annotated lesson plans, and a rubric tied to explicit competencies instead of a single written final.
 - A cybersecurity course certifies learners on incident response only after they complete a live scenario within defined quality criteria, not merely explain the steps on paper.
-- [Standards-/Mastery-Based Grading](../strategies/standards-based_grading.md) — classroom grading organised around demonstrated standards rather than averaged scores.
+- [Standards-/Mastery-Based Grading](../strategies/standards-based-grading.md) — classroom grading organised around demonstrated standards rather than averaged scores.
 - [Frame course specifications in competencies and build in 'I can do...' benchmark tasks as informal assessment](../strategies/competency-course-specifications-benchmark-tasks.md)
 - Performance checklists and rubric-based demonstrations in technical training, clinical education, and workplace certification
 - [Grade Students Based on Demonstrated Learning](../strategies/grade_students_based_on_demonstrated_learning.md) — evaluation based on evidence rather than averages or behavior proxies
@@ -241,7 +241,7 @@ Competency-based learning and assessment are strongest when mastery is defined a
 ## Examples
 <!- - Links to elements or patterns that apply this principle - ->
 - Performance checklists and rubric-based demonstrations in technical training, clinical education, and workplace certification
-- [Standards-/Mastery-Based Grading](../strategies/standards-based_grading.md) — classroom grading organized around demonstrated standards
+- [Standards-/Mastery-Based Grading](../strategies/standards-based-grading.md) — classroom grading organized around demonstrated standards
 - [Grade Students Based on Demonstrated Learning](../strategies/grade_students_based_on_demonstrated_learning.md) — evaluation based on evidence rather than averages or behavior proxies
 - Applied projects, simulations, and observed performances are stronger competency evidence than multiple-choice recall alone
 

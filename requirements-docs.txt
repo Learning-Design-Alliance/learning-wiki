@@ -2,3 +2,5 @@ mkdocs-material>=9.5
 # A lint dependency as well as a docs one: scripts/observation_lib.py reads
 # observations/*.yaml, and lint.py's check_observations runs before mkdocs.
 PyYAML>=6.0
+# The site search index (scripts/build_site.sh); the extended build handles more languages.
+pagefind[extended]==1.3.0

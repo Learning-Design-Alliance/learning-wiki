@@ -59,7 +59,7 @@ Quiet spaces work by lowering environmental stimulation during moments of arousa
 
 ## Related Strategies
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — reduces the ambient stimulation that makes the quiet space necessary in the first place
-- [Brain Breaks](../strategies/brain_breaks.md) — scheduled whole-class regulation breaks that reduce demand on the individual quiet space
+- [Brain Breaks](brain-breaks.md) — scheduled whole-class regulation breaks that reduce demand on the individual quiet space
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the re-entry routine that converts time away into a self-regulation learning opportunity

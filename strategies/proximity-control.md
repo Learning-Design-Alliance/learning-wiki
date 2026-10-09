@@ -1,6 +1,7 @@
 ---
 type: strategy
 id: proximity-control
+aliases: [proximity_control]
 title: Proximity Control
 description: The teacher moves physically closer to students to prevent or redirect off-task behavior nonverbally.
 status: review
@@ -27,28 +28,45 @@ Proximity control works because it makes surveillance visible and immediate whil
 - Early detection of off-task behavior — proximity works as prevention, not remediation
 - A calm, neutral demeanor; the move should read as routine presence, not threat
 - A room layout that permits movement between desks and groups
+- A room layout with clear pathways allowing the teacher to move freely among students
+- Established behavioral expectations, so the nonverbal signal is already understood
+- Calm, neutral teacher demeanor — proximity delivered with visible irritation becomes a confrontation
+- Continued teaching while moving; stopping instruction to hover undermines the "business as usual" signal
 
 #### Constraints
 - Ineffective once behavior has escalated into open defiance — at that point proximity can feel like a challenge and intensify the confrontation [-M]
 - Requires continuous physical monitoring; a teacher seated at a desk or anchored to a screen loses the strategy entirely [-M]
 - Some students experience close physical presence as intrusive or anxiety-provoking, particularly adolescents and students with trauma histories [~W]
 - Effects are short-lived: proximity suppresses behavior in the moment but does not teach replacement behavior or address its cause [-W]
+- Ineffective or counterproductive when the behavior is a bid for attention — approaching can reinforce exactly what it targets [-M]
+- Less effective in large lecture halls or fixed-seat layouts where movement is impractical
+- Can feel intrusive or surveillance-like to anxious students or older learners; overuse damages autonomy and trust [~W]
+- Requires genuine awareness behind it: moving near a student without noticing the actual problem exposes a lack of withitness and weakens the teacher's credibility [-W]
 
 #### Implementation Variability
 - **Circulating during seatwork** — the teacher moves a planned loop through the room, pausing near waning groups
 - **Teaching from the perimeter** — delivering instruction from different room positions so no zone feels unsupervised
 - **Proximity with a private prompt** — moving near while quietly redirecting ("Where are you on question 3?"), combining presence with a low-stakes re-engagement question
 - **Digital analog** — in online classes, circulating through breakout rooms or using monitoring dashboards serves a parallel monitoring function [~W]
+- **Circulating during independent work** — routine movement through the room as ongoing monitoring, not a response to any specific student
+- **Targeted proximity** — standing beside a specific off-task student for a few seconds, then moving on
+- **Working alongside** — sitting or kneeling at a student's desk to help, which combines proximity with instructional support
+- **Digital analogues** — in online learning, proximity has no direct equivalent; presence is simulated through frequent check-ins, chat monitoring, and screen visibility
 
 ### Target Learners
 - Whole classes during independent or small-group work, where the teacher cannot attend to every student simultaneously
 - Younger students and students who respond to adult presence cues before behavior escalates
 - Less appropriate for students for whom adult closeness is aversive or who seek attention through proximity itself [~W]
+- Most effective with school-age learners in whole-class or small-group settings, where social awareness of the teacher's presence is high [~M]
+- Useful for students who respond poorly to public verbal correction (e.g., students with anxiety or oppositional patterns), because it redirects without singling them out verbally
+- Less appropriate for adult learners, where hovering can read as distrust [-W]
 
 ### Target Learning Goals
 - Protecting time-on-task, the precondition for nearly all academic objectives
 - Maintaining the conditions for [Collaborative Learning](../principles/collaborative-learning.md) and [Class Discussion](../elements/class-discussion.md) by keeping side conversations from derailing group work
 - Building a predictable, orderly environment that supports [Clear Structure](../principles/clear-structure.md)
+- Not a learning goal in itself; serves **time-on-task** and **academic learning time** by protecting instructional continuity
+- Supports **self-regulation development** when paired with private, brief redirections rather than public discipline
 
 ### Instructions
 1. Scan the room continuously and identify early signs of drift (side talk, off-task materials, stalled work) before disruption spreads.
@@ -61,14 +79,88 @@ Proximity control works because it makes surveillance visible and immediate whil
 - [Check-In](../elements/check-in.md) — a verbal follow-on when presence alone does not re-engage the student
 - [Coaching](../elements/coaching.md) — circulating with purpose, conferring briefly with individual students during work time
 - [Act It Out](../elements/act-it-out.md) — an alternative that addresses the underlying skill gap rather than the surface behavior
+- **Withitness and overlapping** — Kounin's companion techniques; proximity is the physical expression of withitness
+- **Nonverbal cues and signals** — the same low-intensity continuum (eye contact, gesture, proximity) before verbal intervention
+- **Positive narration** — describing on-task behavior aloud while circulating reinforces expectations during proximity moves
 
 ## Examples
 - **Elementary literacy stations**: during small-group rotations, the teacher runs a planned circuit between stations, pausing at tables where voices rise or work stalls; most groups self-correct as she approaches.
 - **Secondary lab work**: during a chemistry practical, the teacher moves between benches rather than staying at the front desk, which keeps safety-critical behavior (goggles, procedure adherence) under visible monitoring.
 - **Responsive Classroom teacher language**: proximity is taught as one of several nonverbal redirect strategies alongside private cues and strategic pausing (https://www.responsiveclassroom.org).
+- During small-group work in a middle-school math class, the teacher notices two students drifting off-task, walks over and stands beside their table while continuing to explain a problem to the adjacent group; both students rejoin the work without any verbal exchange.
+- **Responsive Classroom** teacher language training (https://www.responsivelistrong.org) includes proximity among its recommended nonverbal redirection strategies for elementary classrooms.
+- In a writing workshop, the teacher conducts brief conferring sessions at individual students' desks, so routine proximity doubles as formative assessment and relationship-building.
 
 ## Key Sources
 - Kounin, J. S. (1970). *Discipline and group management in classrooms*. New York: Holt, Rinehart & Winston.
 - Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103–112. [doi:10.1207/S15326985EP3602_5](https://doi.org/10.1207/S15326985EP3602_5)
 - Marzano, R. J., & Marzano, J. S. (2003). The key to classroom management. *Educational Leadership, 61*(1), 6–13.
 - Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+- Kounin, J. S. (1970). *Discipline and group management in classrooms*. Holt, Rinehart & Winston.
+
+<!-- merged 2026-10-09 from strategies/proximity_control ("Proximity Control"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Proximity Control
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · 1 claim (1 for) · 3 studies (2 associational, 1 review), `q2` · 1 of 3 report an effect size
+
+## Description
+Proximity control is a low-intensity classroom management strategy in which the teacher repositions themselves — standing near, walking past, or working alongside a student or group — to reduce off-task or disruptive behavior. It works through nonverbal presence rather than verbal correction, allowing instruction to continue uninterrupted while signaling awareness and expectations.
+
+## Design Implications
+
+Proximity control is a core component of "withitness" — the teacher's communicated awareness of everything happening in the room — which Kounin's classic observational studies linked to markedly lower disruption rates (Kounin, 1970). Its effectiveness rests on prevention rather than reaction: a brief, neutral physical approach typically redirects behavior before it escalates, avoiding the attention and instructional time lost to public reprimand [~M]. It pairs naturally with environmental design, since traffic patterns and sightlines determine whether proximity is even feasible [Classroom design affects learning progress.](../claims/classroom-design-affects-learning-progress.md) [+M].
+
+### Context
+#### Requirements
+- A room layout with clear pathways allowing the teacher to move freely among students
+- Established behavioral expectations, so the nonverbal signal is already understood
+- Calm, neutral teacher demeanor — proximity delivered with visible irritation becomes a confrontation
+- Continued teaching while moving; stopping instruction to hover undermines the "business as usual" signal
+
+#### Constraints
+- Ineffective or counterproductive when the behavior is a bid for attention — approaching can reinforce exactly what it targets [-M]
+- Less effective in large lecture halls or fixed-seat layouts where movement is impractical
+- Can feel intrusive or surveillance-like to anxious students or older learners; overuse damages autonomy and trust [~W]
+- Requires genuine awareness behind it: moving near a student without noticing the actual problem exposes a lack of withitness and weakens the teacher's credibility [-W]
+
+#### Implementation Variability
+- **Circulating during independent work** — routine movement through the room as ongoing monitoring, not a response to any specific student
+- **Targeted proximity** — standing beside a specific off-task student for a few seconds, then moving on
+- **Working alongside** — sitting or kneeling at a student's desk to help, which combines proximity with instructional support
+- **Digital analogues** — in online learning, proximity has no direct equivalent; presence is simulated through frequent check-ins, chat monitoring, and screen visibility
+
+### Target Learners
+- Most effective with school-age learners in whole-class or small-group settings, where social awareness of the teacher's presence is high [~M]
+- Useful for students who respond poorly to public verbal correction (e.g., students with anxiety or oppositional patterns), because it redirects without singling them out verbally
+- Less appropriate for adult learners, where hovering can read as distrust [-W]
+
+### Target Learning Goals
+- Not a learning goal in itself; serves **time-on-task** and **academic learning time** by protecting instructional continuity
+- Supports **self-regulation development** when paired with private, brief redirections rather than public discipline
+
+### Instructions
+1. Establish and teach behavioral expectations so the nonverbal signal has shared meaning.
+2. Arrange the room for movement and sightlines; plan a traffic path that reaches all students [Classroom design affects learning progress.](../claims/classroom-design-affects-learning-progress.md) [+M].
+3. Teach and circulate continuously during student work, scanning the whole room rather than fixating on one group (withitness).
+4. When off-task behavior appears, move casually toward the student while continuing instruction; pause briefly nearby, then move on.
+5. If proximity does not redirect within a few seconds, escalate privately and minimally (quiet word, [check-in](../elements/check-in.md)) rather than publicly.
+6. Avoid using proximity punitively or repeatedly with the same student; pair with positive interaction so presence is not associated only with correction.
+
+## Related Strategies
+- **Withitness and overlapping** — Kounin's companion techniques; proximity is the physical expression of withitness
+- **Nonverbal cues and signals** — the same low-intensity continuum (eye contact, gesture, proximity) before verbal intervention
+- **Positive narration** — describing on-task behavior aloud while circulating reinforces expectations during proximity moves
+
+## Examples
+- During small-group work in a middle-school math class, the teacher notices two students drifting off-task, walks over and stands beside their table while continuing to explain a problem to the adjacent group; both students rejoin the work without any verbal exchange.
+- **Responsive Classroom** teacher language training (https://www.responsivelistrong.org) includes proximity among its recommended nonverbal redirection strategies for elementary classrooms.
+- In a writing workshop, the teacher conducts brief conferring sessions at individual students' desks, so routine proximity doubles as formative assessment and relationship-building.
+
+## Key Sources
+- Kounin, J. S. (1970). *Discipline and group management in classrooms*. Holt, Rinehart & Winston.
+- Emmer, E. T., & Stough, L. M. (2001). Classroom management: A critical part of educational psychology, with implications for teacher education. *Educational Psychologist, 36*(2), 103–112. [doi:10.1207/S15326985EP3602_5](https://doi.org/10.1207/S15326985EP3602_5)
+- Marzano, R. J., & Marzano, J. S. (2003). The key to classroom management. *Educational Leadership, 61*(1), 6–13.
+- Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children, 31*(1), 351-380. [doi:10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)
+-->

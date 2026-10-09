@@ -41,7 +41,7 @@ Provide students with skeletal map templates and term lists and have them analyz
 - [Semantic Mapping Principle](../principles/graphic-organizers.md)
 - [Teacher-provided graphic map as review](teacher-provided-advance-graphic-map.md)
 - [Hexagonal Thinking](hexagonal_thinking.md)
-- [Graphic Organizers](graphic_organizers.md)
+- [Graphic Organizers](graphic-organizers.md)
 - [Graphic Organizers for Assessment](graphic_organizers_for_assessment.md)
 - [Concept Mapping](concept_mapping.md)
 - [Graphic Organizers as Thinking Tools](graphic_organizers_as_thinking_tools.md)

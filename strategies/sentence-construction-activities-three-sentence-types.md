@@ -39,7 +39,6 @@ The guide recommends introducing a sentence construction activity so students le
 
 ## Related Strategies
 
-- [Sentence Combining](sentence_combining.md)
 - [Sentence Combining](sentence-combining.md)
 - [Manipulatives: Sentence Combining](manipulatives-sentence_combining.md)
 - [Sentence Expansion](sentence-expansion.md)

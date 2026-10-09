@@ -58,7 +58,7 @@ Quiet signals are an application of classical conditioning and routine-based beh
 5. Pair the signal with a predictable follow-on structure — a transition, a [Check-In](../elements/check-in.md), or the next instructional segment — so the cue signals not just silence but what comes next.
 
 ## Related Strategies
-- [Establishing classroom routines](../strategies/establishing_classroom_routines.md) — quiet signals are one instance of the broader routine-building repertoire
+- [Establishing classroom routines](establishing-classroom-routines.md) — quiet signals are one instance of the broader routine-building repertoire
 - [Proximity control](../strategies/proximity-control.md) — a complementary non-verbal management move for individual off-task behavior
 - [Positive reinforcement](../strategies/positive-reinforcement.md) — the mechanism that establishes and maintains the signal–response routine
 

@@ -65,7 +65,7 @@ Shadowing works because it collapses the delay between behavior, feedback, and r
 - [Planned Ignoring](planned-ignoring.md) — often paired: minimize attention for the problem behavior while shadowing reinforces the replacement
 - [Precorrection](precorrection.md) — the antecedent prompting strategy shadowing delivers in real time
 - [Behavior-Specific Praise](behavior-specific-praise.md) — the primary reinforcement tool during shadowing
-- [Check-In/Check-Out](check-in-check-out.md) — the natural next step down in support intensity after fading
+- [Check-In/Check-Out](check-incheck-out.md) — the natural next step down in support intensity after fading
 
 ## Examples
 - **Preschool biting plan** — A teacher shadows a 4-year-old during free play, prompts "Can you tell Sam you want a turn?" when the child reaches for a toy, and reinforces the verbal request with immediate access; proximity is faded to across-the-room monitoring within three weeks.

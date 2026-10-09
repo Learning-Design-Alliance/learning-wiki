@@ -51,7 +51,7 @@ Take-home literacy packs containing decodable books aligned with the Science of 
 
 - [Provide accessible caregiver resources to reinforce phonics at home](../strategies/family-support-hub-home-literacy-reinforcement.md)
 - [Introduce take-home decodable packs through teacher-led small-group instruction before sending them home](../strategies/small-group-then-home-decodable-practice.md)
-- [Decodable Text Reading](../strategies/decodable_text_reading.md)
+- [Decodable Text Reading](../strategies/decodable-text-reading.md)
 - [Decodable Text Reading Practice](../strategies/decodable-text-reading-practice.md)
 
 ## Key Sources

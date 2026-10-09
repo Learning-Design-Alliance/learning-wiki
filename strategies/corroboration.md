@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 1 claim (1 for) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
-Corroboration is a source-verification strategy in which learners treat a single source's claim as provisional until it is confirmed by at least one other independent source. Learners identify the claim, locate additional sources on the same question, and compare the accounts — attending to agreement, disagreement, and each source's evidence and incentives. It is one of the three core heuristics of civic online reasoning, alongside [lateral reading](../strategies/lateral_reading.md) and source evaluation.
+Corroboration is a source-verification strategy in which learners treat a single source's claim as provisional until it is confirmed by at least one other independent source. Learners identify the claim, locate additional sources on the same question, and compare the accounts — attending to agreement, disagreement, and each source's evidence and incentives. It is one of the three core heuristics of civic online reasoning, alongside [lateral reading](lateral-reading.md) and source evaluation.
 
 ## Design Implications
 
@@ -52,14 +52,14 @@ Corroboration shifts learners from evaluating a source in isolation to evaluatin
 
 ### Instructions
 1. **Identify the claim.** Restate it as a specific, checkable proposition (who, what, when).
-2. **Read laterally first.** Before corroborating, establish what the original source is using [Lateral Reading](../strategies/lateral_reading.md) — corroboration with an unreliable first source is wasted effort.
+2. **Read laterally first.** Before corroborating, establish what the original source is using [Lateral Reading](lateral-reading.md) — corroboration with an unreliable first source is wasted effort.
 3. **Find independent sources.** Search for the claim separately; require sources with different origins (see [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md)).
 4. **Compare accounts.** Record what each source claims, its evidence, and its incentives, using [Comparing Cases](../elements/comparing-cases.md) or a simple matrix.
 5. **Seek disconfirmation.** Prompt learners to search for reasons the claim might be false, not just confirmation.
 6. **Decide and justify.** Classify the claim as confirmed / disputed / unverifiable and state the evidential basis — a form of [Argument Construction](../elements/argument-construction.md).
 
 ## Related Strategies
-- [Lateral Reading](../strategies/lateral_reading.md) — the companion heuristic; establish what a source is before weighing its claim
+- [Lateral Reading](lateral-reading.md) — the companion heuristic; establish what a source is before weighing its claim
 - [3-Source Rule](../strategies/3-source_rule.md) — a concrete corroboration threshold learners can apply habitually
 - [A Finder's Guide to Facts](../strategies/a_finders_guide_to_facts.md) — teaches the source-incentive analysis that makes corroboration discriminating
 

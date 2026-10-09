@@ -61,7 +61,7 @@ Emotional regulation is a component of broader self-regulation, and self-regulat
 
 ## Related Strategies
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — breaking tasks into attainable steps reduces the frustration that dysregulates learners
-- [Active Listening](../strategies/active_listening.md) — the adult stance that makes co-regulation and check-ins effective
+- [Active Listening](active-listening.md) — the adult stance that makes co-regulation and check-ins effective
 - [Acting-Role-Play](../strategies/acting-role-play.md) — lets students rehearse regulation strategies in low-stakes simulated situations
 
 ## Examples

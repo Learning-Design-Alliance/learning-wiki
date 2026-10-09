@@ -49,7 +49,7 @@ The NNPS model is organized around "a framework of six types of involvement and 
 - [Monthly Action Team meetings with shared leadership and activity-quality evaluation](../strategies/nnps-atp-monthly-meetings-evaluation.md)
 - [Structured and Sustained Family Engagement Programs](../strategies/structured_and_sustained_family_engagement_programs.md)
 - [Offering Multiple Options for Family Engagement](../strategies/offering_multiple_options_for_family_engagement.md)
-- [Family Engagement](../strategies/family_engagement.md)
+- [Family Engagement](../strategies/family-engagement.md)
 - [Offer Services and Events to Bring Parents into the School](../strategies/offer_services_and_events_to_bring_parents_into_the_school.md)
 - [Assume Support](../strategies/assume_support.md)
 - [Publicize Volunteer Opportunities and Student Involvement](../strategies/publicize_volunteer_opportunities_and_student_involvement.md)

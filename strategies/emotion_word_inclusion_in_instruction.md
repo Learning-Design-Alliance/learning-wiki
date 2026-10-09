@@ -61,7 +61,7 @@ Naming emotions supports emotion understanding and regulation, which in turn und
 
 ## Related Strategies
 - [What's My Emotion? Game Check-In](whats_my_emotion_game_check-in.md) — a structured routine that turns emotion labeling into a low-stakes warm-up
-- [Active Listening](active_listening.md) — the attending and reflecting skills that make accurate labeling possible
+- [Active Listening](active-listening.md) — the attending and reflecting skills that make accurate labeling possible
 - [Acting-Role-Play](acting-role-play.md) — enacting emotional scenarios gives learners practice using emotion words in context
 
 ## Examples

@@ -57,7 +57,7 @@ The app exemplifies game-framed [Practice](../elements/practice.md) for math fac
 
 ## Related Strategies
 - [Timed math fact drills](timed_math_fact_drills.md) — the non-digital counterpart; the app gamifies the same retrieval-practice mechanism
-- [Station rotation](station_rotation.md) — a common classroom structure for scheduling short app-based practice blocks
+- [Station rotation](station-rotation.md) — a common classroom structure for scheduling short app-based practice blocks
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the core mechanism; the app is a delivery vehicle for distributed retrieval practice

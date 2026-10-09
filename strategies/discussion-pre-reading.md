@@ -59,7 +59,7 @@ Pre-reading discussion works by activating relevant prior knowledge and creating
 6. Read the text; afterwards, return to the propositions and have learners revisit their original positions, citing textual evidence for any change ([Advance Organizers](../elements/advance-organizers.md) can bridge debate to text structure).
 
 ## Related Strategies
-- [Anticipation Guide](anticipation_guide.md) — the written, individual version of the same pre-reading commitment mechanism
+- [Anticipation Guide](anticipation-guide.md) — the written, individual version of the same pre-reading commitment mechanism
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-stakes discussion structure usable at the same point in the lesson
 - [Jigsaw](jigsaw.md) — an alternative pre-reading-to-post-reading discussion structure distributing text segments
 

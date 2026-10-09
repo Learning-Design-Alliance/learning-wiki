@@ -17,7 +17,7 @@ generated:
 ## Description
 Glasser's (1990) cooperation-through-problem-solving approach — also called reality therapy — is the other half of the humanist tradition in classroom management, alongside [Ginott's Congruent Communication](ginotts-congruent-communication.md); Glasser and Ginott "represent two sides of the same coin." Glasser holds that effective classroom managers create a learning environment students *want* to be in, develop mutually agreed-upon standards of behavior that must be followed to remain in that environment, and hold problem-solving conferences with students who violate those standards.
 
-Glasser advocates [cooperative learning](../strategies/cooperative_learning.md) as the specific instructional approach that makes a classroom a place students want to be. In his view, whole-group instruction — where students compete with one another for limited rewards — inevitably leaves roughly half the class bored, frustrated, inattentive, or disruptive. Faced with the resulting misbehavior, Glasser argues, teachers commonly fall back on **boss management**: using reward and coercive power to manipulate and control learners. Boss management jeopardizes the development of self-control, teaches students to value external reward over the satisfaction of doing good work, and produces disruption, frustration, and inattentiveness once those rewards fail to materialize. Glasser (1990) contrasts boss management with **lead management** directly:
+Glasser advocates [cooperative learning](../strategies/cooperative-learning.md) as the specific instructional approach that makes a classroom a place students want to be. In his view, whole-group instruction — where students compete with one another for limited rewards — inevitably leaves roughly half the class bored, frustrated, inattentive, or disruptive. Faced with the resulting misbehavior, Glasser argues, teachers commonly fall back on **boss management**: using reward and coercive power to manipulate and control learners. Boss management jeopardizes the development of self-control, teaches students to value external reward over the satisfaction of doing good work, and produces disruption, frustration, and inattentiveness once those rewards fail to materialize. Glasser (1990) contrasts boss management with **lead management** directly:
 
 | Boss | Leader |
 |---|---|
@@ -56,7 +56,7 @@ Applied concretely, Glasser's specific recommendations for taking over a disrupt
 - [Kounin's Classroom Management Research](kounins-classroom-management-research.md) — the prevention-oriented tradition that, unlike Glasser's largely reactive problem-solving conferences, focuses on what effective managers do before misbehavior occurs
 
 ## Examples
-- [Cooperative Learning](../strategies/cooperative_learning.md) — the concrete instructional strategy Glasser recommends as an alternative to competitive whole-group instruction
+- [Cooperative Learning](../strategies/cooperative-learning.md) — the concrete instructional strategy Glasser recommends as an alternative to competitive whole-group instruction
 - [Low-Profile Classroom Control](../strategies/low-profile-classroom-control.md) — cites Glasser's point that an effective consequence for rule-breaking is temporary removal from the classroom, provided the classroom is somewhere the student wants to be
 
 ## Key Sources

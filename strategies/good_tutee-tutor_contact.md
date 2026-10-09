@@ -51,12 +51,12 @@ Contact quality predicts both motivation and achievement: learner-centered teach
 ### Instructions
 1. Open every session with a brief personal check-in — name use, follow-up on something the tutee mentioned previously (see [Check-Ins](../principles/check-ins.md)).
 2. Establish session continuity: agree on goals and review them at the start of each meeting, so contact accumulates around visible progress.
-3. Model engagement through [Active Listening](active_listening.md) — paraphrase the tutee's confusion before correcting it, so disclosure is rewarded rather than penalized.
+3. Model engagement through [Active Listening](active-listening.md) — paraphrase the tutee's confusion before correcting it, so disclosure is rewarded rather than penalized.
 4. Use [Coaching](../elements/coaching.md) during the session: guide rather than tell, adjusting support as the tutee's competence grows.
 5. Close with specific, actionable feedback and an explicit invitation to return, ending on a note of progress [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
-- [Active Listening](active_listening.md) — the conversational skill that converts contact time into trust
+- [Active Listening](active-listening.md) — the conversational skill that converts contact time into trust
 - [Achievable Micro-Goals](achievable_micro-goals.md) — gives each contact a visible success, reinforcing the relationship with progress
 - [Action Planning](action_planning.md) — structures what tutees commit to between contacts
 

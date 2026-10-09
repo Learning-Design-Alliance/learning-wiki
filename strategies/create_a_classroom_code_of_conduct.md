@@ -30,7 +30,7 @@ Co-constructed norms combine two mechanisms: clear behavioral expectations, whic
 
 #### Constraints
 - Codes created but never referenced or enforced lose all effect; consistency of teacher follow-through is the limiting factor, not the quality of the code [-S]
-- Consensus-building can consume substantial instructional time, and dominant students can steer the discussion unless facilitation structures (e.g., [Active Listening](active_listening.md) protocols, think-pair-share) equalize participation [~M]
+- Consensus-building can consume substantial instructional time, and dominant students can steer the discussion unless facilitation structures (e.g., [Active Listening](active-listening.md) protocols, think-pair-share) equalize participation [~M]
 - A code alone, without taught routines and modeled behaviors, does not improve classroom climate; expectations must be explicitly taught and rehearsed like any other skill [-S]
 - Purely rule-based, punitive enforcement framed around the code can undermine the autonomy benefits of co-construction [~M]
 
@@ -59,7 +59,7 @@ Co-constructed norms combine two mechanisms: clear behavioral expectations, whic
 
 ## Related Strategies
 
-- [Active Listening](active_listening.md) — the facilitation stance that makes the elicitation discussion genuine rather than performative
+- [Active Listening](active-listening.md) — the facilitation stance that makes the elicitation discussion genuine rather than performative
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — the dispositions the code is designed to cultivate
 - [Action Planning](action_planning.md) — converting agreed norms into concrete behavioral commitments
 - [Student-co-created acceptable/unacceptable behavior guides for conflict management](student-co-created-behavior-guides.md)

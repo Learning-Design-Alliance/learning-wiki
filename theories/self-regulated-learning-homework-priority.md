@@ -46,8 +46,8 @@ The paper defines self-regulated learning as "the ability for a student to plan,
 
 - [Self-Directed Learning](../principles/self-directed-learning.md)
 - [Teach Self-Regulation Skills](../strategies/teach_self-regulation_skills.md)
-- [Scaffolding for Self-Regulation](../strategies/scaffolding_for_self-regulation.md)
-- [Self Monitoring Strategies](../strategies/self-monitoring_strategies.md)
+- [Scaffolding for Self-Regulation](../strategies/scaffolding_self-regulation.md)
+- [Self Monitoring Strategies](../strategies/self-monitoring-strategies.md)
 - [Self Monitoring](../strategies/self-monitoring.md)
 - [Self Regulated Learning Strategy Instruction](../strategies/self-regulated-learning-strategy-instruction.md)
 

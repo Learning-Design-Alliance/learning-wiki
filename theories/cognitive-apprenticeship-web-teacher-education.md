@@ -50,7 +50,7 @@ The article applies the cognitive apprenticeship model, in which the teacher fir
 
 - [Over My Shoulder (OMS) media: screen-capture videos, Flash animations and text instructions modeling instructor problem-solving](../elements/oms-modeling-media.md)
 - [Cognitive Apprenticeship](../strategies/cognitive-apprenticeship.md)
-- [Model the Assignment or Skill](../strategies/model_the_assignment_or_skill.md)
+- [Model the Assignment or Skill](../strategies/model_assignment_or_skill.md)
 - [Cognitive Apprenticeship](../elements/cognitive-apprenticeship.md)
 - [Provide modeling media in multiple file formats and physical copy options to support student access](../strategies/multi-format-media-access-provision.md)
 

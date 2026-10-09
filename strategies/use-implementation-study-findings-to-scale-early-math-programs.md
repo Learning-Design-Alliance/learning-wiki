@@ -38,7 +38,7 @@ The brief's stated purpose is to translate implementation-study evidence into ac
 
 ## Related Strategies
 
-- [Family Engagement](family_engagement.md)
+- [Family Engagement](family-engagement.md)
 - [Seven practical tips for integrating early math into family engagement programs](seven-tips-early-math-family-engagement.md)
 
 ## Examples

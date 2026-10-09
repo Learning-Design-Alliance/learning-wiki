@@ -56,7 +56,7 @@ Measurement tasks sit at the intersection of procedural skill and conceptual und
 5. Have learners record, report, and compare results; discuss sources of error and precision limits
 
 ## Related Strategies
-- [Estimation Activities](estimation_activities.md) — prediction before measurement makes unit size meaningful
+- [Estimation Activities](estimation-activities.md) — prediction before measurement makes unit size meaningful
 - [Hands-On Laboratory Procedures](hands-on_laboratory_procedures.md) — measurement is the entry-level laboratory skill
 
 ## Examples

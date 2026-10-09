@@ -61,7 +61,7 @@ Extending wait-time beyond the typical sub-second classroom pause changes both t
 ## Related Strategies
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — the broader accommodation set this strategy belongs to
 - [Chunking](../principles/chunking.md) — reduces the per-pass processing load, making think-time more productive
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — gives the re-reading pass something to hook onto
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — gives the re-reading pass something to hook onto
 
 ## Examples
 - **Wait-time in science discourse**: Rowe's classic studies found that extending teacher wait-time from ~1 to 3+ seconds increased student response length, student-initiated questions, and participation by slower responders (Rowe, 1974).

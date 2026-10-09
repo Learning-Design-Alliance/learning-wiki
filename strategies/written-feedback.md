@@ -54,10 +54,10 @@ Written feedback is one of the most powerful — and most variable — influence
 2. Collect work and diagnose against the criteria, identifying one or two high-leverage issues per learner rather than marking everything ([Cognitive Load Management](../principles/cognitive-load-management.md))
 3. Write comments in the form of a next action ("Add a topic sentence that states your claim") rather than a judgment ("weak paragraph")
 4. Withhold the grade until the learner has read and acted on the comments
-5. Build in class time for revision and resubmission, so feedback is a midpoint, not an endpoint ([Action-Oriented Feedback](action-oriented_feedback.md))
+5. Build in class time for revision and resubmission, so feedback is a midpoint, not an endpoint ([Action-Oriented Feedback](action-oriented-feedback.md))
 
 ## Related Strategies
-- [Action-Oriented Feedback](action-oriented_feedback.md) — the framing principle: every comment should specify what to do next
+- [Action-Oriented Feedback](action-oriented-feedback.md) — the framing principle: every comment should specify what to do next
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — the oral counterpart; written and conferenced feedback are often alternated in writing instruction
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight structure for learners to process and respond to feedback received
 

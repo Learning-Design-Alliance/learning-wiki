@@ -53,13 +53,13 @@ Prompt, predictable responses to harmful language function as classroom norm-set
 ### Instructions
 1. Establish classroom norms about respectful language early, with student input, so interventions are predictable.
 2. When abusive language occurs, stop it immediately with a brief, calm public statement ("I don't allow that term in my classroom. I'll talk with you after class.").
-3. Hold a private follow-up conversation using [Active Listening](active_listening.md) — ask what the student meant, then explain the impact of the words and ask them to consider the target's perspective.
+3. Hold a private follow-up conversation using [Active Listening](active-listening.md) — ask what the student meant, then explain the impact of the words and ask them to consider the target's perspective.
 4. Involve the student in a repair or solution (apology, reflection, or commitment), rather than imposing one unilaterally.
 5. Follow through consistently on every future occurrence; use [Check-Ins](../principles/check-ins.md) to monitor classroom climate afterward.
 6. Escalate to administrators or families if the behavior persists or involves targeted harassment.
 
 ## Related Strategies
-- [Active Listening](active_listening.md) — the conversational stance that makes the private follow-up corrective rather than confrontational
+- [Active Listening](active-listening.md) — the conversational stance that makes the private follow-up corrective rather than confrontational
 - [Building Empathy](../principles/building-empathy.md) — the private conversation aims at perspective-taking, not just compliance
 
 ## Related Elements

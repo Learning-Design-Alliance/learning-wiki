@@ -59,7 +59,7 @@ Instructional language competes with task content for limited working memory; co
 
 ## Related Strategies
 - [Accessible Syntax](accessible_syntax.md) — the sentence-level craft underlying clear instructions
-- [Activate Background Knowledge](activating_prior_knowledge.md) — pre-teaching vocabulary and context so instructions can stay lean
+- [Activate Background Knowledge](activating-prior-knowledge.md) — pre-teaching vocabulary and context so instructions can stay lean
 - [Modeling](../patterns/direct-instruction.md) — showing the task can substitute for some verbal instruction entirely
 
 ## Examples

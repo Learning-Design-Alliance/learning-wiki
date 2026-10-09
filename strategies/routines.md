@@ -35,7 +35,7 @@ Routines function as a form of [Automaticity](../elements/automaticity.md) appli
 - Rigid routines poorly serve open-ended, discussion-driven formats where unpredictability is the point
 
 #### Implementation Variability
-- **Opening routines**: warm-up problems, retrieval starters, or [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) prompts at a fixed entry point
+- **Opening routines**: warm-up problems, retrieval starters, or [Activating Prior Knowledge](activating-prior-knowledge.md) prompts at a fixed entry point
 - **Transition routines**: timed material distribution, group formation signals, attention cues
 - **Discourse routines**: talk protocols such as think-pair-share, numbered heads, or sentence stems for accountable discussion
 - **Feedback routines**: standardized revision cycles where learners know exactly what to do when work is returned
@@ -60,7 +60,7 @@ Routines function as a form of [Automaticity](../elements/automaticity.md) appli
 6. **Review periodically.** Retire routines that no longer serve learning; introduce variation deliberately when attention wanes.
 
 ## Related Strategies
-- [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) — a common opening routine that doubles as retrieval and readiness work
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — a common opening routine that doubles as retrieval and readiness work
 - [Act It Out](../strategies/act_it_out.md) — rehearsal technique for establishing behavioral and discourse routines
 - [Check-In](../elements/check-in.md) — a routine that builds relational predictability alongside procedural predictability
 

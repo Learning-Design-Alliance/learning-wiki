@@ -38,7 +38,7 @@ As the second component of the staff development plan, during March 1998 each in
 
 ## Related Strategies
 
-- [Peer Observation](peer_observation.md)
+- [Peer Observation](peer-observation.md)
 
 ## Examples
 -

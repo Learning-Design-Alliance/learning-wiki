@@ -47,7 +47,6 @@ The brief organizes measurement work around a team whose members carry defined r
 - [Have measurement team members collaborate to complete measurement tasks successfully](../strategies/measurement-team-collaboration-strategy.md)
 - [Role Assignment](../strategies/role-assignment.md)
 - [Collaborative Group Work](../strategies/collaborative_group_work.md)
-- [Cooperative Learning](../strategies/cooperative_learning.md)
 - [Cooperative Learning](../strategies/cooperative-learning.md)
 
 ## Key Sources

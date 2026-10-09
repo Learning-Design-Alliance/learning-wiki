@@ -40,7 +40,7 @@ The report recommends that schools provide training to teachers and staff on con
 
 - [Conflict De Escalation](conflict_de-escalation.md)
 - [Restorative Conversations](restorative-conversations.md)
-- [Restorative Questions](restorative_questions.md)
+- [Restorative Questions](restorative-questions.md)
 - [Increase adult presence in the areas where students feel least safe, particularly just outside and around the school building](increase-adult-presence-unsafe-areas.md)
 - [Focus reduction efforts on high schools, racial/achievement disparities, and conflict prevention/de-escalation](three-focus-areas-reducing-exclusionary-discipline.md)
 

@@ -51,7 +51,6 @@ The review defines SM as "a set of strategies that students are trained in to as
 
 ## Examples
 
-- [Self-Monitoring of Behavior](../strategies/self-monitoring_of_behavior.md)
 - [Self-Monitoring of Behavior](../strategies/self-monitoring-of-behavior.md)
 - [Self-Monitoring of Performance (SMP)](../strategies/self-monitoring-of-performance-smp.md)
 - [Whole Class Self-Monitoring](../strategies/whole_class_self-monitoring.md)

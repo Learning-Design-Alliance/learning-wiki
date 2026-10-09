@@ -24,7 +24,7 @@ Teacher–student relationship quality is consistently associated with engagemen
 ### Context
 #### Requirements
 - Regular, low-stakes opportunities to learn about individual students (interest inventories, check-ins, conferences)
-- Commitment to [Active Listening](../strategies/active_listening.md) and non-judgmental interaction
+- Commitment to [Active Listening](active-listening.md) and non-judgmental interaction
 - Explicit modeling of perspective-taking language ("I can see why you might read it that way…") so students acquire the practice themselves, connecting to [Building Empathy](../principles/building-empathy.md)
 
 #### Constraints
@@ -50,14 +50,14 @@ Teacher–student relationship quality is consistently associated with engagemen
 
 ### Instructions
 1. Gather perspective data early: interest inventories, brief conferences, or [Check-ins](../principles/check-ins.md) that surface students' goals and constraints.
-2. Practice [Active Listening](../strategies/active_listening.md) — paraphrase the student's position before responding, and ask clarifying questions rather than assuming intent.
+2. Practice [Active Listening](active-listening.md) — paraphrase the student's position before responding, and ask clarifying questions rather than assuming intent.
 3. Reframe problem-solving as joint and solution-focused: name the obstacle from the student's point of view, then negotiate next steps without blame.
 4. Model perspective-taking publicly during [Class Discussion](../elements/class-discussion.md) ("Let me try to state the opposing view fairly first"), making the skill observable.
 5. Verify your inferences — check whether your read of a student's situation is accurate before acting on it.
 
 ## Related Strategies
 
-- [Active Listening](../strategies/active_listening.md) — the core conversational technique through which perspective-taking is enacted
+- [Active Listening](active-listening.md) — the core conversational technique through which perspective-taking is enacted
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy operationalizes in teacher–student interactions
 - [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
 - [Use small shared-meal conversations among teachers, students, and a facilitator to surface student perspectives on assessment and strengthen relationships](structured-student-teacher-meal-conversations.md)

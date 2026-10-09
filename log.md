@@ -8999,7 +8999,7 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Ingest**: [elements/pax-good-behavior-game-program-element](elements/pax-good-behavior-game-program-element.md) — Ingested from hub-653 (PAX Good Behavior Game — Math) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/pax-gbg-positive-reading-effects](claims/pax-gbg-positive-reading-effects.md) — Ingested from hub-653 (PAX Good Behavior Game — Math) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/pax-gbg-math-effect-032](claims/pax-gbg-math-effect-032.md) — Ingested from hub-653 (PAX Good Behavior Game — Math) via eval_harness.py + ingest_extractions.py
-* **Ingest**: [strategies/exact-path-implementation-existing-staff-pd](strategies/exact-path-implementation-existing-staff-pd.md) — Ingested from hub-652 (Exact Path Growth — Math) via eval_harness.py + ingest_extractions.py
+* **Ingest**: [strategies/exact-path-implementation-existing-staff-pd](strategies/exact-path-implementation-strategy.md) — Ingested from hub-652 (Exact Path Growth — Math) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/exact-path-evidence-base-quasi-experimental-dcps](claims/exact-path-evidence-base-quasi-experimental-dcps.md) — Ingested from hub-652 (Exact Path Growth — Math) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/exact-path-ela-effect-016-dcps](claims/exact-path-ela-effect-016-dcps.md) — Ingested from hub-652 (Exact Path Growth — Math) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/exact-path-math-effect-006-dcps](claims/exact-path-math-effect-006-dcps.md) — Ingested from hub-652 (Exact Path Growth — Math) via eval_harness.py + ingest_extractions.py

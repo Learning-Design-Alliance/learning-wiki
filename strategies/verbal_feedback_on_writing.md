@@ -61,7 +61,7 @@ Verbal feedback works because it increases feedback *uptake*: students report au
 
 ## Related Strategies
 - [5-minute_writing_conferences](5-minute_writing_conferences.md) — the synchronous, in-person counterpart; verbal feedback scales the same conversational mode asynchronously
-- [Action-oriented feedback](action-oriented_feedback.md) — verbal feedback should carry action-oriented content to improve revision quality
+- [Action-oriented feedback](action-oriented-feedback.md) — verbal feedback should carry action-oriented content to improve revision quality
 
 ## Examples
 - **Online composition courses**: Instructors return drafts with embedded audio comments (via Word/LMS audio annotation or tools such as [Kaizena](https://kaizena.com)), and students submit a revision memo listing changes made in response to each comment.

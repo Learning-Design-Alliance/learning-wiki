@@ -61,7 +61,7 @@ Decodable practice closes the loop between phonics instruction and actual readin
 ## Related Strategies
 - [Repeated reading for fluency](repeated_reading_for_fluency.md) — the fluency-building mechanism that makes decodable practice pay off
 - [Act It Out](act_it_out.md) — adds comprehension and engagement work on top of decoding practice
-- [Read-alouds](read_alouds.md) — the complementary channel for vocabulary and knowledge that controlled text cannot supply
+- [Read-alouds](read-alouds.md) — the complementary channel for vocabulary and knowledge that controlled text cannot supply
 
 ## Examples
 - **[Flyleaf Publishing](https://flyleafpublishing.com/)** — Decodable chapter books sequenced to a published phonics scope and sequence, with pre-teaching guides for irregular words.

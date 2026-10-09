@@ -60,7 +60,7 @@ Emotion identification games work because they pair repeated exposure to express
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a specific check-in variant of the same recognition task
 - [Acting/Role-Play](../strategies/acting-role-play.md) — extends identification into enacting and resolving emotional situations
-- [Active Listening](../strategies/active_listening.md) — the receptive skill that emotion identification feeds into during peer interaction
+- [Active Listening](active-listening.md) — the receptive skill that emotion identification feeds into during peer interaction
 
 ## Related Elements
 - [Practice](../elements/practice.md) — repeated recognition trials are the core mechanism

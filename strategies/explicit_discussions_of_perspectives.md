@@ -61,9 +61,9 @@ Perspective-taking does not reliably emerge from exposure to diverse material al
 
 ## Related Strategies
 
-- [Structured Academic Controversy](../strategies/structured_academic_controversy.md) — a formalized sequence for arguing both sides of an issue
+- [Structured Academic Controversy](structured-academic-controversy.md) — a formalized sequence for arguing both sides of an issue
 - [Role-Play](../strategies/acting-role-play.md) — embodied perspective adoption
-- [Socratic Seminar](../strategies/socratic_seminar.md) — text-based discussion that surfaces interpretive differences
+- [Socratic Seminar](socratic-seminar.md) — text-based discussion that surfaces interpretive differences
 - [Manage group conflict constructively by having members observe one another and treat differences as strength](constructive-conflict-management-clg.md)
 
 ## Related Elements

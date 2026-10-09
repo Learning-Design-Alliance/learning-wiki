@@ -123,7 +123,7 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - [Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md) — uses a structured field-note reflection protocol to turn educators' own classroom experience into design input
 - [Schon's design-studio practicum as a reflective learning environment](../elements/schon-design-studio-practicum.md)
 - Post-practicum debriefs that identify one concrete change for the next round.
-- [Reflective Journaling](../strategies/reflective_journaling.md)
+- [Reflective Journaling](../strategies/reflective-journaling.md)
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.
@@ -350,7 +350,7 @@ The article recommends structuring written reflection with instructor prompts ra
 
 ## Examples
 
-- [Reflective Journaling](../strategies/reflective_journaling.md)
+- [Reflective Journaling](../strategies/reflective-journaling.md)
 
 ## Key Sources
 - Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning: Guided vs. Free, Dialogic vs. Expressive, and Public vs. Private. Teaching & Learning Inquiry, 2(1), 81-93. https://scholar.google.com/scholar?q=Methods+of+Reflection+about+Service+Learning. [doi:10.20343/teachlearninqu.2.1.81](https://doi.org/10.20343/teachlearninqu.2.1.81)

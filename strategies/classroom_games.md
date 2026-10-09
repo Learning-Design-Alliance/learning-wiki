@@ -59,8 +59,8 @@ Games work when the winning actions *are* the learning actions — when answerin
 
 ## Related Strategies
 
-- [Spaced retrieval practice](../strategies/spaced_retrieval_practice.md) — games are one delivery vehicle; scheduling game reviews across weeks multiplies retention benefit
-- [Peer tutoring](../strategies/peer_tutoring.md) — team games create natural peer-teaching moments when stronger students explain answers
+- [Spaced retrieval practice](spaced-retrieval-practice.md) — games are one delivery vehicle; scheduling game reviews across weeks multiplies retention benefit
+- [Peer tutoring](peer-tutoring.md) — team games create natural peer-teaching moments when stronger students explain answers
 - [Formative assessment](../patterns/formative-assessment.md) — game performance data reveals which content needs reteaching
 - [Select games that maximize participation and match proficiency, and use games as complementary activities](select-games-participation-proficiency-complementary.md)
 

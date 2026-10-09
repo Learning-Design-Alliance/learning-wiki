@@ -87,7 +87,7 @@ Advance organizers improve comprehension and retention by giving learners a subs
 
 ## Examples
 
-**[Activating Prior Knowledge](../strategies/activating_prior_knowledge.md)** — Brief pre-instruction prompts or frameworks that surface what learners already know, the anchoring function of a comparative organizer.
+**[Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)** — Brief pre-instruction prompts or frameworks that surface what learners already know, the anchoring function of a comparative organizer.
 
 **[Headings and Highlight Strategy](../strategies/headings-and-highlight-strategy-variant.md)** — Text previews that use headings and emphasis as a structural organizer directing attention to the passage's macro-structure [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]
 

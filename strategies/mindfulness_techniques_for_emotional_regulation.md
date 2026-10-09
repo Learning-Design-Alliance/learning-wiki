@@ -61,7 +61,7 @@ Mindfulness training functions as a self-regulation support: by strengthening at
 
 ## Related Strategies
 - [Check-ins](../principles/check-ins.md) — brief emotional-state monitoring that pairs naturally with mindfulness practice and supplies the noticing data
-- [Self-monitoring strategies](self-monitoring_strategies.md) — mindfulness is the embodied form of the same self-observation loop
+- [Self-monitoring strategies](self-monitoring-strategies.md) — mindfulness is the embodied form of the same self-observation loop
 - [Movement breaks](movement-breaks.md) — an alternative regulation route for learners who cannot engage with stillness-based practice
 
 ## Examples

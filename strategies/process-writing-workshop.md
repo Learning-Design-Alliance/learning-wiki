@@ -65,7 +65,7 @@ The workshop's effectiveness rests on separating the cognitively demanding subpr
 
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — the individual conferencing engine of the workshop, compressed to a manageable routine
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight closure routine for the sharing phase
-- [Sentence Combining](sentence_combining.md) — an explicit mini-lesson strategy with strong meta-analytic support that slots into step 1
+- [Sentence Combining](sentence-combining.md) — an explicit mini-lesson strategy with strong meta-analytic support that slots into step 1
 - [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
 
 ## Examples

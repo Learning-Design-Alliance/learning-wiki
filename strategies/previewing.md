@@ -60,7 +60,7 @@ Previewing works by orienting attention and reducing uncertainty: learners who k
 6. Follow through: deliver the task as previewed, and revisit the preview's guiding questions during or after the task.
 
 ## Related Strategies
-- [Activating prior knowledge](../strategies/activating_prior_knowledge.md) — previewing often includes this step; both prepare the ground before new content
+- [Activating prior knowledge](activating-prior-knowledge.md) — previewing often includes this step; both prepare the ground before new content
 - [Chunking](../principles/chunking.md) — previews present the chunk structure of a task in advance
 - [Advance organizers](../elements/advance-organizers.md) — the classic, more formalized version of content previewing
 

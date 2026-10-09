@@ -58,7 +58,7 @@ Feedback is among the most powerful influences on achievement, but its effects a
 5. Provide an opportunity to revise or retry, closing the loop ([Practice](../elements/practice.md))
 
 ## Related Strategies
-- [Action-Oriented Feedback](action-oriented_feedback.md) — a variant that structures every comment around a next action
+- [Action-Oriented Feedback](action-oriented-feedback.md) — a variant that structures every comment around a next action
 - [Check-Ins](../principles/check-ins.md) — low-stakes moments that generate the evidence feedback depends on
 - [Coaching](../elements/coaching.md) — feedback embedded in an ongoing relationship with guided practice
 

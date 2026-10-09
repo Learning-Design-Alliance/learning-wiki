@@ -61,7 +61,7 @@ Reflection converts experience into usable knowledge: unexamined experience rare
 6. Periodically ask students to reread earlier entries and write a synthesis entry identifying patterns and revised plans.
 
 ## Related Strategies
-- [Exam Wrappers](exam_wrappers.md) — a tightly scoped journal reflection tied to an assessment event
+- [Exam Wrappers](exam-wrappers.md) — a tightly scoped journal reflection tied to an assessment event
 - [Self-Assessment](../elements/self-assessment.md) — reflection directed at evaluating one's own work against criteria
 - [Learning Goal Setting](learning_goal_setting.md) — the planning counterpart that reflection closes the loop on
 

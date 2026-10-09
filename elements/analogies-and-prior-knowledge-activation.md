@@ -69,7 +69,7 @@ Analogies support comprehension by letting learners import a known relational st
 
 ## Examples
 
-**[Activating Prior Knowledge](../strategies/activating_prior_knowledge.md)** — Opening prompts or brainstorm questions that surface what learners already know before new content is presented; the analogy then builds on the retrieved structure.
+**[Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)** — Opening prompts or brainstorm questions that surface what learners already know before new content is presented; the analogy then builds on the retrieved structure.
 
 **[PhET Interactive Simulations](https://phet.colorado.edu)** — Physics simulations pair abstract concepts (charge, energy) with visualizable analogues, combining analogy with [dual coding](dual-coding.md) through simultaneous visual and verbal representation.
 

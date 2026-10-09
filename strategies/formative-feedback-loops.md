@@ -53,13 +53,13 @@ Formative feedback loops operationalize [Assessment for Learning](../principles/
 ### Instructions
 1. Establish success criteria and share exemplars before the task ([Rubrics](../elements/rubrics.md))
 2. Elicit evidence through a low-stakes checkpoint ([Check-Ins](../elements/check-in.md), draft, quiz)
-3. Deliver feedback that names the gap and one concrete next action ([Action-Oriented Feedback](action-oriented_feedback.md))
+3. Deliver feedback that names the gap and one concrete next action ([Action-Oriented Feedback](action-oriented-feedback.md))
 4. Require a revision or re-attempt that applies the feedback ([Practice](../elements/practice.md))
 5. Re-assess against the same criteria and repeat, fading support as accuracy grows
 
 ## Related Strategies
 
-- [Action-Oriented Feedback](action-oriented_feedback.md) — the feedback message design that makes loops actionable
+- [Action-Oriented Feedback](action-oriented-feedback.md) — the feedback message design that makes loops actionable
 - [Retrieval Practice](retrieval-practice.md) — a checkpoint mechanism that both elicits evidence and strengthens memory
 - [Mastery Learning](mastery-learning.md) — loops with an explicit criterion-referenced exit condition
 - [Using Mathspace workflows to provide timely, mastery-oriented feedback on student work](mathspace-mastery-oriented-feedback-workflow.md)

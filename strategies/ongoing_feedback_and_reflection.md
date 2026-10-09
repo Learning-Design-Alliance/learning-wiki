@@ -41,7 +41,7 @@ Self-assessment against explicit criteria is the specific form that works, becau
 - A predictable rhythm — feedback at known points, so learners can plan around it rather than receive it as interruption
 - Explicit criteria the learner uses to judge their own work *before* seeing the instructor's judgement ([Criteria Development](../elements/criteria-development.md))
 - Prompts that ask for specific evidence and a specific next action, not for feelings about the work ([Metacognitive Reflection](../elements/metacognitive-reflection.md))
-- A persistent record across cycles — journal, portfolio, or log — so a learner can see whether the thing they committed to changed ([Learning Journals](learning_journals.md))
+- A persistent record across cycles — journal, portfolio, or log — so a learner can see whether the thing they committed to changed ([Learning Journals](learning-journals.md))
 - Enough time in the course for several cycles; a single feedback-plus-reflection event is not this strategy
 - Goals the learner has set or accepted, since reflection without a target has nothing to measure against [Goal setting improves performance](../claims/goal-setting-improves-performance.md) [+S]
 
@@ -54,7 +54,7 @@ Self-assessment against explicit criteria is the specific form that works, becau
 - Written reflection disadvantages learners for whom writing is itself the barrier; the modality should not be the assessment [-W]
 
 #### Implementation Variability
-- **Learning journal with fixed prompts** — a short entry after each feedback point, structured by the same three questions each time ([Learning Journals](learning_journals.md))
+- **Learning journal with fixed prompts** — a short entry after each feedback point, structured by the same three questions each time ([Learning Journals](learning-journals.md))
 - **Portfolio with reflective commentary** — learners select work and argue for what it demonstrates, which forces judgement against criteria ([Portfolio Assessment](portfolio-assessment.md))
 - **Self-assess-then-compare** — learner scores their work against the rubric, instructor scores independently, the two are compared and the gap discussed ([Formative Self-Assessment](formative-self-assessment.md))
 - **Action-commitment logs** — each cycle ends with one written commitment, and the next cycle opens by checking it
@@ -80,7 +80,7 @@ Self-assessment against explicit criteria is the specific form that works, becau
 2. **Establish criteria before the first cycle.** Develop or share the rubric, ideally with learners, so self-assessment has a referent ([Criteria Development](../elements/criteria-development.md)).
 3. **Have learners self-assess first, every time.** Before releasing your feedback, require their own judgement against the criteria — this is the step that builds calibration ([Formative Self-Assessment](formative-self-assessment.md)).
 4. **Release feedback and compare.** Discuss where the two judgements differ rather than only what the work needs; the gap is the more informative object ([Feedback](../elements/feedback.md)).
-5. **Require one written commitment.** End each cycle with a single specific action for the next one, recorded where it can be found again ([Learning Journals](learning_journals.md)).
+5. **Require one written commitment.** End each cycle with a single specific action for the next one, recorded where it can be found again ([Learning Journals](learning-journals.md)).
 6. **Open the next cycle with last cycle's commitment.** Check it explicitly. This is what stops reflection becoming a genre exercise.
 7. **Keep the reflections ungraded.** Assess the work; use the reflection as evidence for the conversation, not for the mark.
 8. **Fade the scaffolding across the term.** Move from supplied prompts to learner-generated questions as calibration improves ([Fading](../elements/fading.md)).
@@ -89,7 +89,7 @@ Self-assessment against explicit criteria is the specific form that works, becau
 - [Formative Feedback](formative-feedback.md) — the properties that make each feedback point in this cycle actionable
 - [Formative Assessment Cycles](formative-assessment-cycles.md) — the instructor-side loop this pairs with on the learner side
 - [Formative Self-Assessment](formative-self-assessment.md) — the self-judgement move in isolation
-- [Learning Journals](learning_journals.md) — the persistent record that makes cumulative reflection possible
+- [Learning Journals](learning-journals.md) — the persistent record that makes cumulative reflection possible
 - [Portfolio Assessment](portfolio-assessment.md) — reflection organized around selected evidence over a whole course
 - [Goal-Setting Conferences](goal-setting-conferences.md) — the recurring conversation format, with the learner leading
 

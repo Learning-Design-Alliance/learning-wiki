@@ -56,7 +56,7 @@ Compounds act as a bridge between single-syllable word spelling and general mult
 5. Extend: sort compounds, generate new compounds from known base words, and bridge to non-compound multisyllabic words.
 
 ## Related Strategies
-- [Word Sorts](word_sorts.md) — natural follow-on activity for comparing compound structures
+- [Word Sorts](word-sorts.md) — natural follow-on activity for comparing compound structures
 - [Dictation](dictation.md) — the production format in which compound spelling is typically assessed and practiced
 
 ## Examples

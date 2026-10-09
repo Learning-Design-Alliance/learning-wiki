@@ -60,8 +60,8 @@ The routine works because it forces generative processing: learners must select,
 
 ## Related Strategies
 - [3-2-1_Reflection](3-2-1_reflection.md) — the canonical slug for this routine; variants across grade levels share the same structure
-- [Muddiest Point](../strategies/muddiest_point.md) — a minimal one-item variant that isolates the highest-value component (the lingering confusion)
-- [Exit Tickets](../strategies/exit_tickets.md) — the broader family of end-of-class formative checks of which 3-2-1 is one template
+- [Muddiest Point](muddiest-point.md) — a minimal one-item variant that isolates the highest-value component (the lingering confusion)
+- [Exit Tickets](exit-tickets.md) — the broader family of end-of-class formative checks of which 3-2-1 is one template
 - [Think-Pair-Share](../patterns/think-pair-share.md) — pairs individual written reflection with peer elaboration
 
 ## Examples

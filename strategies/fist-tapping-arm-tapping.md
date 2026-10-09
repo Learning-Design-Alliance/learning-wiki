@@ -60,7 +60,7 @@ Tapping converts an abstract orthographic task into a coordinated motor-verbal s
 ## Related Strategies
 - [Air Writing](air_writing.md) — the same motor-tracing logic applied to letter formation
 - [Simultaneous Multisensory Instruction](simultaneous_multisensory_instruction.md) — the broader VAKT family of routines
-- [Choral Reading](choral_reading.md) — group verbal rehearsal paired with a physical or visual anchor
+- [Choral Reading](choral-reading.md) — group verbal rehearsal paired with a physical or visual anchor
 
 ## Examples
 - **Orton-Gillingham lessons** — arm tapping is a standard spelling procedure in certified OG curricula such as the [Wilson Reading System](https://www.wilsonlanguage.com) and [SPIRE](https://www.schoolspecialty.com/spire).

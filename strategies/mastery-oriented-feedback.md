@@ -57,7 +57,7 @@ Feedback is among the most powerful influences on achievement, but its effects a
 5. Follow up with a brief [Check-In](../elements/check-in.md) to confirm the learner understood and acted on the feedback
 
 ## Related Strategies
-- [Action-Oriented Feedback](action-oriented_feedback.md) — the sibling strategy emphasizing that feedback must specify what to do next
+- [Action-Oriented Feedback](action-oriented-feedback.md) — the sibling strategy emphasizing that feedback must specify what to do next
 - [Formative Assessment Loops](../patterns/formative-assessment.md) — the pattern in which mastery feedback is the corrective step
 
 ## Examples

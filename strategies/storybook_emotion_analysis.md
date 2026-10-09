@@ -57,7 +57,7 @@ Storybook discussion works because narrative provides emotionally rich but low-s
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a complementary face-to-face emotion recognition warm-up
 - [Act It Out](../strategies/act_it_out.md) — embodied extension of character emotion work
-- [Active Listening](../strategies/active_listening.md) — the facilitation stance that keeps discussion learner-driven
+- [Active Listening](active-listening.md) — the facilitation stance that keeps discussion learner-driven
 
 ## Examples
 - **RULER Approach (Yale Center for Emotional Intelligence)** — uses children's literature with "Mood Meter" prompts so students analyze characters' feelings and locate them on a valence–arousal grid. [https://ei.yale.edu](https://ei.yale.edu)

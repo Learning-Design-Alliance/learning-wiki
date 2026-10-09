@@ -58,7 +58,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 ## Related Strategies
 - [Formative Assessment](formative-assessment.md) — the broader cycle of which this model is the feedback component
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the classroom practice tradition this model operationalizes
-- [Action-Oriented Feedback](action-oriented_feedback.md) — feedback phrased as actionable next steps, the Feed Forward move
+- [Action-Oriented Feedback](action-oriented-feedback.md) — feedback phrased as actionable next steps, the Feed Forward move
 - [Self-Assessment](../elements/self-assessment.md) — learners running the three questions independently
 
 ## Examples

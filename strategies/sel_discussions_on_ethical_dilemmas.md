@@ -24,7 +24,7 @@ Structured dilemma discussions work because they require learners to articulate 
 ### Context
 #### Requirements
 - A curated set of age-appropriate, culturally relevant dilemmas with genuine (not rhetorical) tension between competing values
-- A facilitator skilled in open questioning, [Active Listening](active_listening.md), and withholding premature judgment
+- A facilitator skilled in open questioning, [Active Listening](active-listening.md), and withholding premature judgment
 - Discussion norms that make disagreement safe — ground rules, turn-taking structures, or [Assigned Positions](../elements/assigned-positions.md)
 - A closure step where students articulate a reasoned position ([Argument Construction](../elements/argument-construction.md)), not just a vote
 

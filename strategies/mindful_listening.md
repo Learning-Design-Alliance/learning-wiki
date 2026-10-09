@@ -37,7 +37,7 @@ Mindful listening operationalizes attention training: the act of noticing distra
 #### Implementation Variability
 - **Chime focus:** ring a bell and have learners raise hands when they can no longer hear it, then report what else they noticed
 - **Sound mapping:** learners silently inventory every sound they can hear for one minute, then compare lists
-- **Mindful listening to others:** extend the anchor to a partner speaking, bridging to [Active Listening](active_listening.md) and discussion norms
+- **Mindful listening to others:** extend the anchor to a partner speaking, bridging to [Active Listening](active-listening.md) and discussion norms
 - **Guided audio:** apps and recordings (e.g., Mindful Schools lessons, Calm, Headspace) substitute for instructor-led delivery
 
 ### Target Learners
@@ -59,7 +59,7 @@ Mindful listening operationalizes attention training: the act of noticing distra
 5. **Build the routine** ([Practice](../elements/practice.md)): repeat daily or at consistent transition points, gradually lengthening duration and fading instructor prompts.
 
 ## Related Strategies
-- [Active Listening](active_listening.md) — mindful listening to sound is a stepping stone to mindful listening to people; both train full attention to the present input
+- [Active Listening](active-listening.md) — mindful listening to sound is a stepping stone to mindful listening to people; both train full attention to the present input
 - [Check-ins](../principles/check-ins.md) — the debrief structure that turns a private practice into shared metacognitive awareness
 
 ## Examples

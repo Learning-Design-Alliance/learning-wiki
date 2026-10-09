@@ -154,6 +154,11 @@ def _impact_contexts() -> dict:
     return _IMPACT
 
 
+# Set by scripts/build_longtail.py: the long tail's claim pages link one shared copy
+# of the legend instead of carrying it, since it was 5.7 KB of an 11.6 KB page.
+LEGEND_URL = None
+
+
 def _evidence_legend(meta=None) -> str:
     """A collapsed key to `q3 i2`, placed where the bare codes appear.
 
@@ -185,6 +190,13 @@ def _evidence_legend(meta=None) -> str:
                       "A recorded context still needs the benchmark eligibility check."
                       if effects else "    **This claim:** no standardized effect is recorded in "
                       "`observations/` for it yet, so no benchmark reading is possible.")
+    if LEGEND_URL and meta is not None:
+        return "\n".join([
+            "", '??? info "Reading the evidence codes"', "",
+            "    `q` is the design tier, `i` the impact, `n` the sample, and the kind with its `r`",
+            f"    the rigour judged within that kind: [what each code means]({LEGEND_URL}).", "",
+            context_status, "",
+        ])
     return "\n".join([
         "", '??? info "Reading the evidence codes"', "",
         "    The letters are abbreviations:", "",

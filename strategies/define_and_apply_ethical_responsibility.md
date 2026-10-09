@@ -38,7 +38,7 @@ The applying half works largely through argument. Requiring learners to construc
 ### Context
 #### Requirements
 - A domain-specific statement of obligations — a professional code, a disciplinary norm, a course integrity policy — concrete enough to be applied, not a list of virtues
-- Cases with genuine tension: if the right answer is obvious, learners practise recognizing obvious answers ([Case-Based Learning](case-based_learning.md))
+- Cases with genuine tension: if the right answer is obvious, learners practise recognizing obvious answers ([Case-Based Learning](case-based-learning.md))
 - A discussion climate where a learner can voice an unpopular position without social penalty, or the exercise produces performance rather than reasoning ([Norm Setting](norm_setting.md))
 - A requirement to decide and justify, not merely to explore the considerations
 - An instructor willing to hold the tension rather than resolve it, and to make their own reasoning visible when they do take a position ([Think-Aloud](../elements/think-aloud.md))
@@ -89,7 +89,7 @@ The applying half works largely through argument. Requiring learners to construc
 - [SEL Discussions on Ethical Dilemmas](sel_discussions_on_ethical_dilemmas.md) — the dilemma-discussion format in a social-emotional frame
 - [Structured Academic Controversy](structured-academic-controversy.md) — the argument structure that makes contested discussion productive
 - [Barometer: Taking a Stand on Controversial Issues](barometer-taking_a_stand_on_controversial_issues.md) — a fast, physical commitment device for opening a contested question
-- [Case-Based Learning](case-based_learning.md) — the vehicle for the applying half of the strategy
+- [Case-Based Learning](case-based-learning.md) — the vehicle for the applying half of the strategy
 - [Civic Online Reasoning](civic-online-reasoning.md) — the same define-and-apply pattern for the ethics of information
 - [Pairing an ethics curriculum with integrated community service learning](ethics-curriculum-with-integrated-service-learning.md)
 

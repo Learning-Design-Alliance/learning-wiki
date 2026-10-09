@@ -60,7 +60,7 @@ Exemplars work because they convert abstract rubric language into perceptual, co
 ## Related Strategies
 - [Use Worked Examples](../strategies/use_worked_examples.md) — the problem-solving analogue: models of solutions rather than models of finished products
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — makes the *evaluation* reasoning visible, not just the product
-- [Action-Oriented Feedback](../strategies/action-oriented_feedback.md) — exemplars show the target; actionable feedback tells learners how to close the gap
+- [Action-Oriented Feedback](action-oriented-feedback.md) — exemplars show the target; actionable feedback tells learners how to close the gap
 
 ## Examples
 - **Calibrated Peer Review (https://calibratedpeerreview.org)** — students first rate sample essays and receive feedback on the accuracy of their judgments before reviewing peers, operationalizing exemplar-based calibration.

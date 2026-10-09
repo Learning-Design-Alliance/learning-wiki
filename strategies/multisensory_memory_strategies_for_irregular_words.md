@@ -63,7 +63,7 @@ Multisensory encoding supports retention by giving learners redundant retrieval 
 ## Related Strategies
 - [Acronyms and acrostics](acronyms_and_acrostics.md) — the mnemonic family this strategy draws on for embedding irregular spellings
 - [Act it out](act_it_out.md) — the kinesthetic-encoding cousin, applied to word meaning rather than spelling
-- [Activating prior knowledge](activating_prior_knowledge.md) — linking new irregular words to known word families reduces memory load
+- [Activating prior knowledge](activating-prior-knowledge.md) — linking new irregular words to known word families reduces memory load
 
 ## Related Elements
 - [Practice](../elements/practice.md) — repeated, distributed writing and reading of the word is the engine of retention

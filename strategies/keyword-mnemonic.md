@@ -63,7 +63,7 @@ The strategy works by converting abstract verbal material into concrete, interac
 ## Related Strategies
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — the other major verbal mnemonic family; better suited to ordered lists than paired associates
 - [Act It Out](act_it_out.md) — embodiment as an alternative elaborative encoding route
-- [Spaced Retrieval Practice](spaced_retrieval_practice.md) — the necessary follow-through for durable retention
+- [Spaced Retrieval Practice](spaced-retrieval-practice.md) — the necessary follow-through for durable retention
 
 ## Examples
 - **Raugh & Atkinson's Russian vocabulary studies** — the original classroom implementation: Stanford students learned 120 Russian words with keyword imagery, roughly doubling vocabulary-test performance over rote control conditions.

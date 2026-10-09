@@ -61,7 +61,7 @@ Reflection prompts work best when they target processes rather than outcomes: as
 
 ## Related Strategies
 - [Self-explanation](../elements/self-explanation.md) — the underlying mechanism: articulating reasoning produces the learning benefit
-- [Exit tickets](../strategies/exit_tickets.md) — a lightweight, routine format for end-of-session reflection
+- [Exit tickets](exit-tickets.md) — a lightweight, routine format for end-of-session reflection
 - [Goal setting](../strategies/goal_setting.md) — reflection is most powerful when paired with explicit goals to reflect against
 
 ## Examples

@@ -59,7 +59,7 @@ Movement supports cognition primarily through improved attention and executive f
 ## Related Strategies
 - [Act It Out](act_it_out.md) — the content-embedded variant: dramatizing concepts as an encoding strategy
 - [Active Learning](../principles/active-learning.md) — movement is one channel for the active engagement this principle requires
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — movement warm-ups can double as activation activities
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — movement warm-ups can double as activation activities
 
 ## Examples
 - **[GoNoodle](https://www.gonoodle.com)** — free classroom movement-break videos used as structured transitions between instructional segments in K–5 classrooms.

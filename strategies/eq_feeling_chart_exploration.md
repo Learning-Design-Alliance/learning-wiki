@@ -55,13 +55,13 @@ Naming an emotional state (affect labeling) measurably reduces its intensity and
 ### Instructions
 1. Display the EQ Feeling Chart and briefly model its use, naming a feeling of your own and its origin (a brief [Demonstration](../elements/demonstration.md) of the target behavior).
 2. Learners privately identify their feeling on the chart, optionally noting intensity.
-3. In pairs, learners share their feeling and discuss its origin using structured prompts; partners practice [Active Listening](../strategies/active_listening.md) — reflecting back what they heard rather than advising.
+3. In pairs, learners share their feeling and discuss its origin using structured prompts; partners practice [Active Listening](active-listening.md) — reflecting back what they heard rather than advising.
 4. Pairs share *observations* (not disclosures) with the whole class in a facilitated [Class Discussion](../elements/class-discussion.md): "What feelings showed up in our room today? What patterns did you notice?"
 5. Close by connecting feelings to learning: "How might this feeling affect your work today?" — linking the activity to ongoing [Check-Ins](../principles/check-ins.md).
 
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a gamified variant of the same emotion-identification goal
-- [Active Listening](../strategies/active_listening.md) — the partner skill that makes the discussion phase productive
+- [Active Listening](active-listening.md) — the partner skill that makes the discussion phase productive
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — an individualized follow-up channel for learners reluctant to share publicly
 
 ## Related Elements

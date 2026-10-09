@@ -60,9 +60,9 @@ Vocabulary knowledge is a strong predictor of comprehension, and it grows throug
 
 ## Related Strategies
 
-- [Pre-teaching vocabulary before reading](../strategies/pre-teaching_vocabulary.md) — a common deployment of small-group vocabulary time
+- [Pre-teaching vocabulary before reading](pre-teaching-vocabulary.md) — a common deployment of small-group vocabulary time
 - [Text Talk](../strategies/text-talk.md) — the read-aloud questioning routine that supplies rich word contexts
-- [Word walls](../strategies/word_walls.md) — environmental support that keeps taught words visible for reuse
+- [Word walls](word-walls.md) — environmental support that keeps taught words visible for reuse
 - [Run brief small-group mini-vocabulary lessons with a fixed routine: say the word, student-friendly definition, example, synonym, sentence writing, and graphic organizer](mini-vocabulary-lesson-routine-small-group.md)
 
 ## Examples

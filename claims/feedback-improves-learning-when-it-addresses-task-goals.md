@@ -65,7 +65,7 @@ A meta-analysis of 607 effect sizes (23,663 observations) of feedback interventi
 
 **Boundary conditions.** Task-goal feedback is not uniformly beneficial. If the task goals are unclear to learners, feedback about the task cannot be interpreted — goal clarity is a precondition. Feedback that simply supplies the answer can short-circuit the retrieval effort that produces learning, so timing and completeness matter. And as with scaffolding generally, the value of feedback diminishes with expertise: highly skilled performers may find process-level feedback redundant, echoing the [expertise reversal effect](../theories/expertise-reversal-effect.md). Feedback also adds information to working memory; poorly timed or excessive feedback can contribute to [cognitive overload degrading learning](cognitive-overload-degrades-learning.md).
 
-**Design implications.** Make the task goal visible before performance begins, so feedback has a referent. Frame comments as answers to "where am I going, how am I doing, and where to next?" rather than evaluations of the learner. Prefer process- and task-level comments over praise or personal judgments, and withhold full solutions when the goal is to strengthen retrieval — see [Action-oriented feedback](../strategies/action-oriented_feedback.md) for a concrete implementation.
+**Design implications.** Make the task goal visible before performance begins, so feedback has a referent. Frame comments as answers to "where am I going, how am I doing, and where to next?" rather than evaluations of the learner. Prefer process- and task-level comments over praise or personal judgments, and withhold full solutions when the goal is to strengthen retrieval — see [Action-oriented feedback](../strategies/action-oriented-feedback.md) for a concrete implementation.
 
 **Open questions.** The relative effectiveness of process-level versus task-level feedback across domains, and the optimal timing of feedback (immediate versus delayed) for different task types, remain actively debated. Confidence in this claim should be calibrated once specific studies are added to the Evidence section.
 
@@ -74,7 +74,7 @@ A meta-analysis of 607 effect sizes (23,663 observations) of feedback interventi
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — feedback is the core mechanism through which formative assessment acts.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — feedback adds information; excess or mistimed feedback can overload working memory.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — feedback benefits shrink and can reverse as learner expertise grows.
-- [Action-oriented feedback](../strategies/action-oriented_feedback.md) — a concrete strategy for making feedback actionable at the task level.
+- [Action-oriented feedback](../strategies/action-oriented-feedback.md) — a concrete strategy for making feedback actionable at the task level.
 - [Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization](errors-as-feedback-fossilization-risk.md) — a narrower finding that bears on this claim
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — possibly the same claim (merge candidate)
 - [Feedback Answers Three Questions](feedback-answers-three-questions.md) — related

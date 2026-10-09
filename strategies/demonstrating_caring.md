@@ -52,7 +52,7 @@ Perceived teacher caring and warmth are among the strongest relational predictor
 - In large or online classes, per-student caring signals scale poorly; generic warmth ("I care about all of you") is less effective than individualized acknowledgment [+W]
 
 #### Implementation Variability
-- **Verbal**: personal greetings, [Active Listening](active_listening.md) responses, referencing students' earlier comments in later instruction
+- **Verbal**: personal greetings, [Active Listening](active-listening.md) responses, referencing students' earlier comments in later instruction
 - **Written**: personalized feedback comments, brief notes, individual email check-ins with absent or struggling students
 - **Structural**: [5-minute writing conferences](5-minute_writing_conferences.md), rotating one-on-one time, flexible policies that signal trust
 - **Digital**: personalized feedback in LMS comments, instructor presence in discussion forums, video messages rather than text-only announcements
@@ -70,13 +70,13 @@ Perceived teacher caring and warmth are among the strongest relational predictor
 ### Instructions
 1. Learn and consistently use every learner's name within the first weeks; mispronunciation corrected promptly is itself a caring signal.
 2. Open sessions with a brief [Check-In](../elements/check-in.md) — a one-word mood poll, a question about the previous class — that gives each learner a moment of individual acknowledgment.
-3. Practice [Active Listening](active_listening.md) when students speak: reflect back what was said, ask a follow-up, and reference it later ("Yesterday Maria pointed out…").
+3. Practice [Active Listening](active-listening.md) when students speak: reflect back what was said, ask a follow-up, and reference it later ("Yesterday Maria pointed out…").
 4. Pair warmth with high expectations — communicate explicitly that caring and challenge go together ("I'm pushing you on this because I know you can do it").
 5. Follow up individually when a student struggles, misses class, or shares something personal; use [5-minute writing conferences](5-minute_writing_conferences.md) or brief one-on-one conversations to convert concern into action.
 6. Distribute attention deliberately and track it, so that caring signals reach all learners rather than the most vocal or most struggling.
 
 ## Related Strategies
-- [Active Listening](active_listening.md) — the conversational skill through which caring is most often expressed and perceived
+- [Active Listening](active-listening.md) — the conversational skill through which caring is most often expressed and perceived
 - [5-minute writing conferences](5-minute_writing_conferences.md) — a structural routine that guarantees individualized caring contact at scale
 - [Check-ins](../principles/check-ins.md) — low-cost repeated signals of individual attention embedded in session openings
 

@@ -46,7 +46,6 @@ An implementable fluency-building routine: students do "1-minute practice readin
 - [Repeated Reading](repeated-reading.md)
 - [Repeated Reading for Fluency](repeated_reading_for_fluency.md)
 - [Reading Fluency Practice](reading-fluency-practice.md)
-- [Repeated Reading](repeated_reading.md)
 - [Paired Repeated Reading](paired-repeated-reading.md)
 
 ## Examples

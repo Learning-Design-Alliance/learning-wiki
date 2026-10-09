@@ -41,7 +41,6 @@ The primer recommends giving students time to think and write responses before d
 - [Use Templates and Tools That Allow for Scaffolding](use_templates_and_tools_that_allow_for_scaffolding.md)
 - [Sentence Frames And Starters](sentence-frames-and-starters.md)
 - [Sentence Frames](sentence-frames.md)
-- [Sentence Frames](sentence_frames.md)
 - [Scaffolding Structure and Function in PBL](scaffolding_structure_and_function_in_pbl.md)
 
 ## Examples

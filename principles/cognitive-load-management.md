@@ -121,7 +121,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
 - [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md)
 - [Allow Think-Time and Re-reading (Processing Speed)](../strategies/allow-think-time-and-re-reading-processing-speed.md)
-- [Wait Time](../strategies/wait_time.md)
+- [Wait Time](../strategies/wait-time.md)
 - [Allowing Think-Time and Re-Reading](../strategies/allowing_think-time_and_re-reading.md)
 - [Think-Time and Re-Reading](../strategies/think-time_and_re-reading.md)
 - [Jointly varying intrinsic and extraneous load in a Reversi game to isolate germane load effects](../designs/reversi-training-conditions-varying-intrinsic-and-extraneous-load.md)
@@ -328,7 +328,7 @@ Because older adults tend to process information more slowly and may have declin
 - [Step One: a free age-friendly pre-beginning ESL and citizenship curriculum for older immigrants](../elements/step-one-age-friendly-esl-curriculum.md)
 - [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md)
 - [Allow Think-Time and Re-reading (Processing Speed)](../strategies/allow-think-time-and-re-reading-processing-speed.md)
-- [Wait Time](../strategies/wait_time.md)
+- [Wait Time](../strategies/wait-time.md)
 - [Allowing Think-Time and Re-Reading](../strategies/allowing_think-time_and_re-reading.md)
 - [Think-Time and Re-Reading](../strategies/think-time_and_re-reading.md)
 

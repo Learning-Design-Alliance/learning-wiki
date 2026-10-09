@@ -50,7 +50,7 @@ For a teacher investigating their own classroom, this is most often small-scale 
 ## Related Strategies
 
 - [Youth Participatory Action Research (YPAR)](youth-participatory-action-research-ypar.md) — a related but distinct methodology: student-led inquiry into their own communities, rather than teacher-led inquiry into their own classroom practice
-- [Peer Observation](peer_observation.md) — one data-collection method commonly used within an action research cycle
+- [Peer Observation](peer-observation.md) — one data-collection method commonly used within an action research cycle
 - [Build Time for Self-Reflection](build_time_for_self-reflection.md) — the reflective habit action research systematizes into a research cycle
 - [Teachers and intervention designers should use mobile devices thoughtfully alongside other teaching approaches, ground designs in existing evidence, and evaluate rigorously](thoughtful-mobile-device-integration-recommendations.md)
 - [Use local data to identify which remote learning strategies work best for your own students](use-local-data-refine-remote-learning-strategies.md)

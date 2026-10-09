@@ -60,7 +60,7 @@ Repetition supports learners whose working-memory and processing-speed constrain
 
 ## Related Strategies
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — the broader accommodation package this strategy belongs to
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — anchoring repeated points to existing schemas improves encoding
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — anchoring repeated points to existing schemas improves encoding
 - [Chunking](../principles/chunking.md) — reduces the amount that must be processed per exposure
 
 ## Examples

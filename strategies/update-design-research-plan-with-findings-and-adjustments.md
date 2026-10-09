@@ -41,7 +41,7 @@ The template prescribes a planning-and-revision workflow: organizations first do
 - [Action Research](action-research.md)
 - [Monitoring Progress](monitoring_progress.md)
 - [Understanding By Design Unit Template](understanding-by-design-unit-template.md)
-- [Revision_Cycles](revision_cycles.md)
+- [Revision_Cycles](revision-cycles.md)
 - [Revision And Resubmission](revision-and-resubmission.md)
 
 ## Examples

@@ -55,10 +55,10 @@ Self assessment works when it functions as an act of [Assessment for Learning](.
 2. Study annotated exemplars at several quality levels so learners can recognize the criteria in real work ([Comparing Cases](../elements/comparing-cases.md))
 3. Have learners produce a draft, then score it against the rubric, citing specific evidence for each judgment
 4. Require one concrete revision action per identified gap, then a second self-check after revision ([Practice](../elements/practice.md))
-5. Follow with [Action-Oriented Feedback](../strategies/action-oriented_feedback.md) from the instructor or peers to correct persistent miscalibration
+5. Follow with [Action-Oriented Feedback](action-oriented-feedback.md) from the instructor or peers to correct persistent miscalibration
 
 ## Related Strategies
-- [Action-Oriented Feedback](action-oriented_feedback.md) — external feedback that corrects what self assessment misses
+- [Action-Oriented Feedback](action-oriented-feedback.md) — external feedback that corrects what self assessment misses
 - [Check-Ins](../principles/check-ins.md) — lighter-weight monitoring of learner status during instruction
 
 ## Examples

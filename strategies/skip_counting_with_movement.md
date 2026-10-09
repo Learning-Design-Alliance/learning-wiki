@@ -62,7 +62,7 @@ Movement-based counting exploits two supports for memory: rhythmic grouping, whi
 
 ## Related Strategies
 - [Counting Circles](counting_circles.md) — oral count-around-the-circle routine targeting the same fluency goal without movement
-- [Choral Counting](choral_counting.md) — public recording of count-bys that makes the pattern visible on the board, complementing the embodied version
+- [Choral Counting](choral-counting.md) — public recording of count-bys that makes the pattern visible on the board, complementing the embodied version
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the routine is repeated, low-stakes practice toward automaticity

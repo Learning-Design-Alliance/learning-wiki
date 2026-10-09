@@ -59,7 +59,7 @@ Goal setting works because specific, difficult goals regulate effort, persistenc
 
 ## Related Strategies
 - [Achievable micro-goals](achievable_micro-goals.md) — decomposes learning goals into proximal sub-goals that build self-efficacy
-- [Activating prior knowledge](activating_prior_knowledge.md) — the assumption-auditing step is a form of activation that surfaces what observation should test
+- [Activating prior knowledge](activating-prior-knowledge.md) — the assumption-auditing step is a form of activation that surfaces what observation should test
 - [Check-ins](../principles/check-ins.md) — provides the monitoring checkpoints that make goals regulatory rather than decorative
 
 ## Examples

@@ -58,7 +58,7 @@ Background music can improve task performance when it raises arousal and mood wi
 
 ## Related Strategies
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — ambient music is one tool within a broader acoustic environment plan
-- [Classroom Routines](classroom_routines.md) — the music works as a routine cue, not standalone
+- [Classroom Routines](classroom-routines.md) — the music works as a routine cue, not standalone
 
 ## Examples
 - A high school teacher plays Bach cello suites at low volume during the five-minute entry window, then fades them out as the do-now activity begins; transition noise drops noticeably within the first weeks.

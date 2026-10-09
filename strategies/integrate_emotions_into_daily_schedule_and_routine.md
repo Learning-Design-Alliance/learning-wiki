@@ -61,7 +61,7 @@ Anticipating emotions before they occur is a form of situation selection and cog
 
 - [Achievable Micro-Goals](achievable_micro-goals.md) — breaking the day into manageable segments pairs naturally with per-activity emotion planning
 - [Action Planning](action_planning.md) — the recorded coping strategies are a form of if-then action plan
-- [Activate Background Knowledge](activating_prior_knowledge.md) — prediction draws on students' prior emotional experience of similar activities
+- [Activate Background Knowledge](activating-prior-knowledge.md) — prediction draws on students' prior emotional experience of similar activities
 - [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 - [Organize teachers into shared-content teams with at least 90 minutes weekly to plan instruction and embed social-emotional skills](weekly-shared-content-teacher-teams.md)
 

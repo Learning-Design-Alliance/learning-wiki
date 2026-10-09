@@ -61,8 +61,8 @@ BOOKMATCH operationalizes [Scaffolding](../elements/scaffolding.md) for a metaco
 7. Fade the artifacts: remove bookmarks and charts as students demonstrate internalized self-selection.
 
 ## Related Strategies
-- [Reading conferences](reading_conferences.md) — the one-to-one setting where selection decisions are reviewed and refined
-- [Independent reading time](independent_reading_time.md) — the instructional context BOOKMATCH is designed to make productive
+- [Reading conferences](reading-conferences.md) — the one-to-one setting where selection decisions are reviewed and refined
+- [Independent reading time](independent-reading-time.md) — the instructional context BOOKMATCH is designed to make productive
 - [Choice boards](../elements/choice-boards.md) — a related structure for structuring student autonomy within boundaries
 
 ## Examples

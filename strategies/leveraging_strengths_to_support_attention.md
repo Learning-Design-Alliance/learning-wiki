@@ -60,7 +60,7 @@ Attention is a limited resource that is allocated, not merely possessed; cues th
 ## Related Strategies
 - [Chunking Directions](../strategies/chunking_directions.md) — the task-structure counterpart: breaking instructions into manageable units so attention is not spent holding multi-step sequences
 - [Preferential Seating](../strategies/preferential_seating.md) — the environmental counterpart: positioning the learner to reduce competing attentional demands
-- [Graphic Organizers](../strategies/graphic_organizers.md) — a common strength-routed support that externalizes structure visually
+- [Graphic Organizers](graphic-organizers.md) — a common strength-routed support that externalizes structure visually
 
 ## Examples
 - A middle-school student with ADHD who is a strong artist receives a visual task card with icons for each step of a lab procedure, plus a self-monitoring checklist they designed; on-task time increases and the teacher fades verbal redirections over six weeks.

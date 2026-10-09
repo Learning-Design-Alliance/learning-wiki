@@ -41,7 +41,7 @@ The article recommends that during initial vocabulary acquisition, teachers use 
 - [Spaced Retrieval](spaced-retrieval.md)
 - [Spaced Practice Scheduling](spaced-practice-scheduling.md)
 - [Spaced Scheduling](spaced-scheduling.md)
-- [Distributed Practice](distributed_practice.md)
+- [Distributed Practice](distributed-practice.md)
 
 ## Examples
 -

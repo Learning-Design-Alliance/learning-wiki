@@ -40,7 +40,7 @@ The authors recommend that, because metacognitive strategies facilitate reading 
 ## Related Strategies
 
 - [KWL](kwl.md)
-- [KWL Charts](kwl_charts.md)
+- [KWL Charts](kwl-charts.md)
 - [Integrate AI literacy across grades and subject-area learning rather than confining it to electives](integrate-ai-literacy-across-subject-areas.md)
 
 ## Examples
