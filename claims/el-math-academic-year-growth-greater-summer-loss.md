@@ -48,3 +48,4 @@ Longitudinal math growth analysis from K-4 comparing ELs and never-ELs across sc
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related
 - [Dual language participants grew faster than nonparticipants in math during each school year in grades 2 to 5 but lost more learning during subsequent summers](dual-language-math-faster-school-year-growth-greater-summer-loss.md) — related
 - [Students with disabilities in grades K-4 grow as much or more academically during some school years than peers without disabilities](swd-school-year-growth-matches-or-exceeds-peers.md) — related
+- [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — related

@@ -44,3 +44,6 @@ Cross-grade comparison of racial/ethnic achievement gaps in the K-8 test-score d
 
 ## Related Claims
 - [Schools play less of a role in widening racial/ethnic achievement gaps than children's prekindergarten environments](schools-less-role-than-prekindergarten-environments.md) — related
+- [The study frames schooling as a candidate explanation for the development of racial and ethnic inequalities in academic skills](schooling-role-racial-ethnic-inequality-development.md) — related
+- [A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade](seasonal-analysis-2m-students-racial-ethnic-disparities-k-8.md) — related
+- [The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade](seasonal-disparities-analysis-span-kindergarten-eighth-grade.md) — related

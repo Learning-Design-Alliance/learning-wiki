@@ -61,3 +61,4 @@ Stated limitation: the pooled state samples were heterogeneous by gender and eth
 - [The dashboard's cohort view restricts results to students who consistently tested across selected terms, and those outcomes may be positively biased](cohort-view-consistent-testers-positive-bias.md) — related
 - [The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)](map-cat-longitudinal-construct-invariance-ten-states.md) — related
 - [Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used](residual-bias-nonexperimental-estimators.md) — a broader claim this one bears on
+- [Teacher effects may be heterogeneous across students of differing aptitudes, affecting growth modeling and teacher evaluation](teacher-effect-heterogeneity-across-aptitudes.md) — related

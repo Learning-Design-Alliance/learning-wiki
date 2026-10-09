@@ -46,3 +46,6 @@ The study's design as stated: longitudinal achievement test data spanning "six a
 - [Little was known before this study about students who rapidly guess over the course of several tests](little-known-repeated-rapid-guessing-gap.md) — related
 - [Rapid guessing on achievement tests tends to be more state-like than academic achievement scores, which are fairly stable over time](rapid-guessing-more-state-like-than-achievement.md) — a narrower finding that bears on this claim
 - [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-associated-self-efficacy-self-management.md) — related
+- [The study examines whether rapid guessing over several tests is associated with background variables such as English learner status](rapid-guessing-background-variables-examined.md) — related
+- [Rapid guessing on achievement tests tends to be fairly state-like rather than a stable trait-like behavior, compared to academic achievement scores which are fairly stable](rapid-guessing-state-like-not-trait.md) — related
+- [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — related

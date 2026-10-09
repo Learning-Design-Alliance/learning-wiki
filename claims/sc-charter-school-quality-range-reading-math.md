@@ -49,3 +49,4 @@ School-level analysis of 54 schools with reading scores and 55 with math scores 
 - [South Carolina charter schools enroll larger shares of white students and smaller shares of students in poverty, ELLs, and special education students than TPS](sc-charter-demographic-composition-differs.md) — related
 - [Charter middle school students gain in math while multi-level charter students lag in both subjects relative to TPS peers](sc-charter-grade-configuration-differences.md) — related
 - [Online charter school students show substantially weaker growth than both TPS peers and brick-and-mortar charter students in reading and math](sc-online-charter-students-weaker-growth.md) — related
+- [Charter school students perform consistently better on standardized mathematics achievement measures than traditional public school peers, with modest differences](charter-math-achievement-consistently-better-modest.md) — reports the opposite

@@ -50,3 +50,4 @@ Simulation conditions constructed by the authors in which students are "randomly
 - [Theoretically and in simulations, the Rothstein test often falsifies unbiased VAMs and fails to falsify biased VAMs](falsification-test-falsifies-unbiased-vams.md) — related
 - [Tracking based on lagged student achievement is usually accounted for in value-added models, which is why the falsification test can mislead](lagged-achievement-tracking-accounted-for-in-vams.md) — related
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — related
+- [Student growth modeling and teacher value-added modeling are complex due to non-random assignment, measurement error, multidimensionality, and covariates](growth-value-added-modeling-complexity-sources.md) — related

@@ -49,3 +49,10 @@ The fairness and administration chapters describe test engagement functionality,
 - [The assessment's engagement feature had a consistently positive impact under both in-person and remote proctoring](engagement-feature-positive-impact-both-proctoring-modes.md) — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — related
+- [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](proctor-notification-improves-performance-and-validity.md) — related
+- [Proctor notification when students disengage makes a significant impact on student test engagement](proctor-notification-improves-test-engagement.md) — related
+- [After a proctor notification triggered by rapid-guessing detection, test-taking engagement tended to increase](proctor-notification-increases-engagement.md) — related
+- [Identifying rapid guessing is important for the validity of achievement test scores, particularly with low-stakes tests](rapid-guessing-identification-important-for-score-validity.md) — related
+- [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) — related
+- [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
+- [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — related

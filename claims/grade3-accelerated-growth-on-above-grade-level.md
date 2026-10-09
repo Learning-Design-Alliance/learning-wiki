@@ -49,3 +49,4 @@ Growth model run by Grade 1 fall placement level (on/above, one below, two below
 - [Initial achievement disparities among Grade 1 placement groups persisted through Grade 3](initial-disparities-persist-through-grade3.md) — related
 - [SWCPM score ranges corresponding to ARM performance levels show monotonic progression across terms within grades, except in first grade](swcpm-arm-range-monotonic-except-grade-1.md) — related
 - [Within-group achievement variation increased across time, so a standardized difference in later grades reflects a larger difference in knowledge](within-group-variation-increases-across-time.md) — related
+- [Within-year (fall-to-spring) achievement gains decelerate linearly as students move through school, at roughly 1.4 to 4 RIT per year depending on subject and centering grade](fall-to-spring-gains-decelerate-across-grades.md) — related

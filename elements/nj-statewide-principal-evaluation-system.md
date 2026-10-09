@@ -48,6 +48,7 @@ New Jersey implemented a new principal evaluation system to improve principal ef
 ## Related Elements
 
 - [New Jersey's principal evaluation system pilot in 14 school districts (2012/13)](nj-principal-evaluation-pilot-2012-13.md)
+- [New York's APPR teacher and principal evaluation system](new-york-appr-evaluation-system.md)
 
 ## Examples
 -

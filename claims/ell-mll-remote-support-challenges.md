@@ -64,3 +64,5 @@ Moderator finding from the same survey section on ELL/MLL support: high-poverty 
 ## Related Claims
 - [High-poverty schools were overrepresented among New York charter schools that had not provided devices to students before building closure (86.8% of non-providers vs 79.3% of the sample)](device-provision-equity-high-poverty.md) — related
 - [Communication challenges were the most reported barrier to supporting English language learner students, cited by 63 percent of schools](ell-support-communication-challenges-most-reported.md) — related
+- [Limited English fluency and low native-language literacy among parents hinder school communication in ELL communities](ell-parent-language-literacy-barrier.md) — related
+- [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — a broader claim this one bears on

@@ -46,3 +46,6 @@ Longitudinal study relating repeated rapid guessing across multiple test adminis
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — possibly the same claim (merge candidate)
 - [Little was known before this study about students who rapidly guess over the course of several tests](little-known-repeated-rapid-guessing-gap.md) — related
 - [Rapid guessing can be examined over three years using six test administrations to distinguish trait-like from situational disengagement](six-administrations-three-years-rapid-guessing-design.md) — related
+- [The study examines whether rapid guessing over several tests is associated with background variables such as English learner status](rapid-guessing-background-variables-examined.md) — related
+- [Rapid guessing on achievement tests tends to be fairly state-like rather than a stable trait-like behavior, compared to academic achievement scores which are fairly stable](rapid-guessing-state-like-not-trait.md) — related
+- [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — possibly the same claim (merge candidate)

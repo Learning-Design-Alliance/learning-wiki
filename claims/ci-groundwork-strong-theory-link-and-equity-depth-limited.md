@@ -62,4 +62,6 @@ Artifact and interview analysis in Research Question 2 found most schools showed
 
 
 ## Related Claims
--
+- [Education research urges cultures of inquiry and root-cause determination but provides almost no detailed methodology for finding root causes](no-detailed-root-cause-methodology-guidance.md) — related
+- [SIPs generally reflect surface-level discussions of root causes, leading to plans that address symptoms rather than causes](sips-address-symptoms-not-causes.md) — related
+- [Most School Improvement Plans do not guide staff efforts to tackle the root causes that prevent significant performance improvement](sips-do-not-guide-root-cause-efforts.md) — related

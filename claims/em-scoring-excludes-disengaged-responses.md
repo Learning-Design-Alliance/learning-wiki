@@ -49,3 +49,7 @@ The article's abstract describes the E-M scoring mechanism: it estimates fully-e
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related
 - [Standard effort-moderated scoring accounts for roughly one-third of score distortion due to differential disengagement on low-stakes achievement tests](standard-em-scoring-one-third-distortion.md) — related
 - [The authors provide a method for identifying partial test-taking engagement, supported by validation evidence](method-identifying-partial-test-taking-engagement.md) — related
+- [In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring](effort-moderated-cat-negligible-bias-simulation.md) — related
+- [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — related
+- [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
+- [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related

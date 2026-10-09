@@ -49,7 +49,8 @@ The page's featured item concerns "rapid guessing" used "to detect test taker di
 - [Rapid-guessing behavior as a validated indicator of test-taking disengagement on state summative assessments](rapid-guessing-disengagement-indicator.md)
 
 ## Examples
--
+
+- [Use response time to identify test taker disengagement as rapid-guessing behavior](../strategies/response-time-identifies-rapid-guessing.md)
 
 ## Key Sources
 - Wise, S. (2020). Validation and applications of rapid guessing to detect test taker disengagement. NWEA Research. https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/

@@ -44,3 +44,4 @@ The interview's overview of test limitations states tests give "one type of info
 
 ## Related Claims
 - [Successive cohort indicators are subject to false performance gains, and the paper assesses which school evaluation methods provide useful accountability information](successive-cohort-indicators-false-performance-gains.md) — related
+- [Teachers have far more power to shape what happens to students than investors or scouts, partly through their opinions of each child](teachers-shape-student-outcomes-through-opinions.md) — related

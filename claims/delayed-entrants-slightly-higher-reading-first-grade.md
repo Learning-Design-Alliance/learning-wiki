@@ -46,3 +46,4 @@ ECLS-K comparison of delayed-entry children with on-time starters on end-of-firs
 - [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related
 - [At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time](repeaters-lower-reading-math-end-first-grade.md) — reports the opposite
 - [In fall 1998, five percent of children were repeating kindergarten and six percent were attending kindergarten for the first time despite being age-eligible a year earlier](five-percent-repeating-six-percent-delayed-kindergarten-1998.md) — related
+- [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — related

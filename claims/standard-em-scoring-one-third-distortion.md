@@ -48,3 +48,5 @@ Evaluation using achievement test data from test takers who were quickly reteste
 - [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — related
 - [A modified E-M scoring method using more liberal time thresholds accounts for two-thirds or more of score distortion, outperforming standard thresholds](liberal-threshold-em-scoring-two-thirds-distortion.md) — related
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
+- [In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring](effort-moderated-cat-negligible-bias-simulation.md) — related
+- [E-M scoring partially accounts for observed RIT score differences between disengaged first tests and engaged retests](em-scoring-partially-accounts-retest-score-differences.md) — possibly the same claim (merge candidate)

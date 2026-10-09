@@ -49,3 +49,4 @@ Rescoring analysis: 3,000 test events were randomly selected in each subject and
 - [Point measure correlations were unchanged by the difficulty adjustment because the new person ability estimates are linear transformations of the old ones](map-k2-point-measure-correlations-unchanged.md) — related
 - [Old (English-borrowed) and newly calibrated Spanish item RITs differ negligibly, with correlations of 0.98 and no statistically significant paired t-test differences](spanish-item-rit-calibration-negligible-differences.md) — related
 - [Including or excluding calibration status 10 items in scoring has a negligible impact on Spanish student RIT scores for monolingual and bilingual students](status-10-items-negligible-score-impact.md) — related
+- [Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates](ci-effects-small-on-ability-item-larger-on-speed.md) — related

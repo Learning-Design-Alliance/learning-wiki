@@ -47,3 +47,7 @@ The page's abstract reports a large-scale comparison of threshold-setting method
 - [Prior threshold-method comparison studies typically used simulated or small-scale data, or non-CAT large-scale data with few items](prior-threshold-studies-limited-scale.md) — related
 - [Detecting noneffortful responses requires setting response time thresholds that separate effortful from noneffortful responses](rt-thresholds-separate-noneffortful-responses.md) — related
 - [Low examinee effort is a major threat to valid uses of many test scores](low-examinee-effort-threat-to-score-validity.md) — a broader claim this one bears on
+- [CATs can have important advantages over conventional tests in identifying instances when examinees exhibit low effort](cats-advantage-identifying-low-effort.md) — related
+- [Conditioning results from multiple disengagement detection methods on response times shows how the conditional approach aids threshold setting and misclassification avoidance](conditioning-detection-methods-on-response-times.md) — related
+- [Information-based rapid-guessing threshold methods set thresholds more reliably than methods based on response accuracy or visual inspection](information-based-thresholds-more-reliable-than-accuracy-visual-methods.md) — related
+- [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — related

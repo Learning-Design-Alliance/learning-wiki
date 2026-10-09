@@ -49,6 +49,7 @@ The CPAA is "a computerized, adaptive assessment" integrated into teachers' prac
 ## Examples
 
 - [Use assessment data to inform teacher practice in preschool](../strategies/assessment-data-informs-teacher-practice-preschool.md)
+- [Adopt computerized adaptive testing to serve both low- and high-achieving students](../strategies/adopt-cat-for-low-and-high-achievers.md)
 
 ## Key Sources
 - Emily Moiduddin, Celina Kamler, Lizabeth Malone, Kathryn Gonzalez. (2014). Milpitas Early Learning Transitions Model: Using Assessment Data to Inform Teacher Practice. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/milpitas-early-learning-transitions-model-using-assessment-data-to-inform-teacher-practice

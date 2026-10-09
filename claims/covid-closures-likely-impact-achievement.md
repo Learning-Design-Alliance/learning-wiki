@@ -51,3 +51,7 @@ The brief's own description states the central assertion without reporting data 
 - [Schools reported that about 40 percent of their students experienced considerable or major academic losses since March 2020](charter-schools-reported-student-academic-losses.md) — a narrower finding that bears on this claim
 - [Projected COVID-19 learning loss was not universal, with the top third of students potentially making gains in reading](covid-learning-loss-not-universal-top-third-reading-gains.md) — a narrower finding that bears on this claim
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — a narrower finding that bears on this claim
+- [The forum addressed modeling of school openings, closings, and learning loss during COVID-19](covid-modeling-openings-closings-learning-loss.md) — related
+- [Education leaders had little data on the impacts of school closures on learning at the time of the COVID-19 spring 2020 closures](little-data-closure-impacts-2020.md) — related
+- [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — related
+- [Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures](summer-learning-loss-insights-covid-closures.md) — related

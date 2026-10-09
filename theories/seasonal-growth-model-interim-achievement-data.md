@@ -44,6 +44,7 @@ The article introduces a general statistical model motivated by the seasonal cha
 ## Related Theories
 
 - [Piecewise multilevel growth modeling of seasonal learning patterns](piecewise-multilevel-growth-seasonal-learning.md)
+- [The Compound Polynomial (CP) growth model](compound-polynomial-growth-model.md)
 
 ## Examples
 

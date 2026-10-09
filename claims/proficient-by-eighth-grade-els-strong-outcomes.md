@@ -69,3 +69,4 @@ Descriptive multi-outcome comparison (attendance, math and reading NWEA-MAP, cou
 - [GPAs were very similar for students who did and did not enter CPS as ELs, with a reading-grade gap that closed by seventh grade and similar Freshman OnTrack rates](el-gpas-reading-grades-ontrack-similar.md) — related
 - [Students who began as ELs were not overidentified for special education services relative to students never classified as ELs](els-not-overidentified-special-education.md) — related
 - [ELs who did not reach proficiency by eighth grade showed continued growth but started first grade with much lower ACCESS scores, and rising grade-level thresholds meant they never met the proficiency cut](non-proficient-els-low-first-grade-access-growth.md) — related
+- [Years-as-EL course-taking differences disappear once eighth-grade test scores are considered](el-course-taking-gaps-explained-by-prior-achievement.md) — related

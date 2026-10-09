@@ -44,3 +44,4 @@ A theoretical/definitional statement in the article's Research Puzzles section, 
 
 ## Related Claims
 - [When a real-life quilt problem was turned into a contextualized mathematics task, its context dropped out during solving and both designers judged it too school-like](contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school.md) — related
+- [Education problems resemble problems in many social settings: they lack clear definitions, have many potential causes, lack simple solutions, and defy straightforward measurement](education-problems-lack-clear-definitions-and-simple-solutions.md) — related

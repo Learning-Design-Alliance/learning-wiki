@@ -48,3 +48,4 @@ The study evaluated whether rapid guessing influenced teacher value-added estima
 - [Omitting same-subject pre-tests affects value-added estimates more than excluding other student background characteristics](same-subject-pretest-omission-dominates-background-omission.md) — related
 - [Replacing classroom peer characteristics with teacher-level averages and allowing demographics to influence the lagged-achievement relationship have smaller practical consequences than other specification choices](vam-peer-averages-demographics-interactions-smaller-effects.md) — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
+- [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — related

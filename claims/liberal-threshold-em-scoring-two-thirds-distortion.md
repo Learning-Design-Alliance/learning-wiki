@@ -45,3 +45,4 @@ Second reported finding from the same retest-data evaluation: the article states
 ## Related Claims
 - [Standard effort-moderated scoring accounts for roughly one-third of score distortion due to differential disengagement on low-stakes achievement tests](standard-em-scoring-one-third-distortion.md) — related
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
+- [E-M scoring partially accounts for observed RIT score differences between disengaged first tests and engaged retests](em-scoring-partially-accounts-retest-score-differences.md) — related

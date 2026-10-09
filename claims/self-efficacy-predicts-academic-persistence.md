@@ -88,3 +88,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [When a strong sense of self-efficacy is accompanied by sustained student effort, better academic achievement is likely](self-efficacy-with-sustained-effort-better-achievement.md) — related
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — a narrower finding that bears on this claim
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related
+- [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](self-efficacy-associated-graduation-and-math.md) — related

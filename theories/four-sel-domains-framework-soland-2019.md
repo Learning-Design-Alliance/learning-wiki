@@ -44,6 +44,7 @@ The article organizes its stability analysis around four distinct social-emotion
 ## Related Theories
 
 - [Bandura's four self-efficacy building experiences framework](bandura-four-self-efficacy-building-experiences.md)
+- [State-trait composition framework for social-emotional learning constructs](state-trait-composition-sel-constructs.md)
 
 ## Examples
 -

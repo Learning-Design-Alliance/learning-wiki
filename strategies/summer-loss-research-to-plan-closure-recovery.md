@@ -41,6 +41,7 @@ The brief recommends drawing on the established research base on summer learning
 - [Educational leaders should weigh the demographic shift in tested students and other contextual data when planning student growth and recovery support](consider-demographic-shift-and-contextual-data-in-recovery-planning.md)
 - [Multi-pronged policy strategy for COVID-19 learning recovery for BIPOC students](covid-recovery-policy-strategy-bipoc-students.md)
 - [Use federal ESSER and IDEA funding to provide early intervention, extended school year support in the summer, and other evidence-based supports for students with disabilities](esser-idea-funding-swd-recovery-supports.md)
+- [Convene educators, policymakers, and families to plan for the impacts of extended pauses in classroom instruction](convene-stakeholders-plan-closure-impacts.md)
 
 ## Examples
 -

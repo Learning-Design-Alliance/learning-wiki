@@ -52,3 +52,5 @@ Observational analysis of MAP Growth scores from 2.1 million BIPOC students in g
 - [Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic](gender-and-school-poverty-moderate-pandemic-gains.md) — related
 - [Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022](pandemic-declines-largest-hispanic-black-aian-students.md) — related
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
+- [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related
+- [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — related

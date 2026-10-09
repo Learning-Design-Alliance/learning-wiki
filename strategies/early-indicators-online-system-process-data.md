@@ -45,6 +45,7 @@ The authors recommend creating indicators to alert educators to students needing
 - [Use findings on strategy–time-management links to develop early warning systems and interventions promoting effective time management and strategy use in flipped classrooms](early-warning-systems-time-management-strategy-use.md)
 - [Use school-level data systems to identify which students need which types of support for dropout prevention](school-level-data-systems-identify-student-support-needs.md)
 - [Invest early: identify learning problems and intervene before third or sixth grade rather than waiting for promotional gates](early-identification-intervention-low-achievers.md)
+- [Use kindergarten-entry test data for early identification so educators can intervene before third grade](early-identification-kindergarten-intervention-before-third-grade.md)
 
 ## Examples
 -

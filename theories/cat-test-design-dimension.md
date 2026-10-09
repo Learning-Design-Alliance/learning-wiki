@@ -45,6 +45,7 @@ Computerized adaptive test (CAT) designs are treated in the article as a test-de
 ## Related Theories
 
 - [Testlet-level CFA as a method for assessing dimensionality of CAT data despite sparse item-level data](testlet-level-cfa-for-cat-data.md)
+- [A CAT-sensitive process for evaluating content alignment](cat-sensitive-alignment-evaluation-process.md)
 
 ## Examples
 -

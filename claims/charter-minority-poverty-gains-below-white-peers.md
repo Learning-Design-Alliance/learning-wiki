@@ -49,3 +49,5 @@ Student-level subgroup analysis in the national charter school study finds "stro
 - [Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially](pa-charter-black-students-reading-gain.md) — a narrower finding that bears on this claim
 - [More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages](gap-busting-charter-schools-exceed-state-averages.md) — related
 - [South Carolina charter schools enroll larger shares of white students and smaller shares of students in poverty, ELLs, and special education students than TPS](sc-charter-demographic-composition-differs.md) — related
+- [Charter school students perform consistently better on standardized mathematics achievement measures than traditional public school peers, with modest differences](charter-math-achievement-consistently-better-modest.md) — related
+- [Some charter school students grow faster than their traditional public school peers](some-charter-students-grow-faster-than-tps-peers.md) — a broader claim this one bears on

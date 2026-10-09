@@ -49,6 +49,7 @@ This element is the data-linkage approach developed by the partnership: school r
 - [Predictive model of near-term academic risk combining school and child welfare data](near-term-academic-risk-predictive-model.md)
 - [Linked five-year student-level administrative dataset from Pittsburgh Public Schools, Propel Schools, and Allegheny County DHS](pittsburgh-linked-school-child-welfare-administrative-dataset.md)
 - [Machine learning early warning algorithm using in- and out-of-school data to estimate per-student, per-problem, per-quarter risk scores](ml-early-warning-risk-score-algorithm.md)
+- [Arizona linked education–child welfare student database](arizona-linked-education-child-welfare-database.md)
 
 ## Examples
 

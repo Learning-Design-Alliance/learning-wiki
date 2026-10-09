@@ -47,3 +47,6 @@ The article asserts, in its abstract, that "Low examinee effort is a major threa
 - [The study evaluates the relative importance of educational reforms and gaming behavior in generating test score gains by threatened schools](evaluating-reforms-versus-gaming-in-threatened-schools.md) — related
 - [Detecting noneffortful responses requires setting response time thresholds that separate effortful from noneffortful responses](rt-thresholds-separate-noneffortful-responses.md) — related
 - [Response-time threshold-setting methods for detecting noneffortful item responses were compared using reading scores from over 728,923 US students in 2,056 schools](threshold-methods-compared-large-scale-reading-data.md) — a narrower finding that bears on this claim
+- [CATs can effectively address the validity threat posed by unmotivated examinees in low-stakes testing](cats-address-unmotivated-examinee-validity-threat.md) — related
+- [CATs can have important advantages over conventional tests in identifying instances when examinees exhibit low effort](cats-advantage-identifying-low-effort.md) — related
+- [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — possibly the same claim (merge candidate)

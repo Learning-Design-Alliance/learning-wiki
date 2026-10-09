@@ -47,3 +47,4 @@ This is the authors' stated motivation, offered without supporting data on this 
 - [Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas](internet-access-larger-barrier-than-devices.md) — related
 - [Evidence on what works in remote learning is scant, prompting schools and teachers to try many approaches](remote-learning-evidence-scant-2020.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
+- [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — a narrower finding that bears on this claim

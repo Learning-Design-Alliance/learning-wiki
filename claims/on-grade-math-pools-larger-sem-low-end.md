@@ -49,3 +49,4 @@ CAT simulation of mathematics item pools using the SAS sandbox tool, with 500 si
 - [Reading SEMs exceed those in mathematics under all pool types, and only the all-grade reading pool meets the operational SEM stopping rule on average](reading-sems-higher-all-pools.md) — related
 - [Bias and RMSE of ability estimates are larger for on-grade item pools than for ±1-grade and all-grade pools across content areas and simulee types](on-grade-pools-larger-bias-rmse.md) — related
 - [Restricted item pools show higher item use rates than all-grade pools, and use rates drop sharply for off-grade simulees](pool-utilization-higher-restricted-pools.md) — related
+- [CAT development decisions influence and might threaten content alignment](cat-development-decisions-threaten-alignment.md) — related

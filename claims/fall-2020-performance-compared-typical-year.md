@@ -48,3 +48,4 @@ The page lists this as the first of three key questions the visualizations explo
 - [Fall 2020 math achievement was 5 to 10 percentile points lower than pre-COVID-19 performance by same-grade students](fall-2020-math-achievement-5-10-percentile-points-lower.md) — a narrower finding that bears on this claim
 - [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related
 - [Students showed lower math growth in fall 2020 across grades 3-8 relative to peers in the previous, more typical year](fall-2020-lower-math-growth-grades-3-8.md) — related
+- [Educators and evaluators faced open questions about how to measure student performance after COVID disruptions](measuring-student-performance-after-covid-open-question.md) — related

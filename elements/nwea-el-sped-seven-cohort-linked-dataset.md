@@ -46,6 +46,7 @@ Through a research-practice partnership, the study links "student demographic da
 ## Related Elements
 
 - [NWEA dataset of 186,139 ever-ELs and never-EL peers in 1,520 schools](nwea-186k-ever-el-dataset.md)
+- [Years-as-EL student-level dataset from a California district (N = 41,343)](california-district-years-as-el-course-taking-dataset.md)
 
 ## Examples
 -

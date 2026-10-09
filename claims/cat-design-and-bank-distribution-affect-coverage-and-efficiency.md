@@ -47,3 +47,6 @@ The article's stated purpose, as printed in its description: it investigates "th
 - [On-grade mathematics item pools yield larger SEMs and lower efficiency than all-grade pools for on-grade students, especially at the low end of the scale](on-grade-math-pools-larger-sem-low-end.md) — related
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related
 - [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related
+- [CAT adjusts test questions as the testing goes along](cat-adjusts-questions-during-testing.md) — related
+- [CAT development decisions influence and might threaten content alignment](cat-development-decisions-threaten-alignment.md) — related
+- [Procedures developed for evaluating content alignment of linear tests are not readily applicable to computerized adaptive tests](linear-alignment-procedures-not-applicable-cats.md) — related

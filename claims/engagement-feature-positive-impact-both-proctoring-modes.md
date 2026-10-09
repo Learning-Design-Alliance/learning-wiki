@@ -48,3 +48,6 @@ The study evaluated the assessment's engagement feature, which "automatically pa
 - [Test engagement was high across all grades on fall 2020 MAP Growth tests in both administration modes](map-growth-fall-2020-high-test-engagement.md) — related
 - [The grade-level disengagement pattern was not meaningfully different between remote and in-school testing](disengagement-pattern-similar-remote-versus-in-school.md) — related
 - [Student test-taking disengagement on remotely administered adaptive interim assessments differs from disengagement on the same assessment administered in school](remote-interim-testing-disengagement-differs-from-in-school.md) — related
+- [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](proctor-notification-improves-performance-and-validity.md) — related
+- [Proctor notification when students disengage makes a significant impact on student test engagement](proctor-notification-improves-test-engagement.md) — possibly the same claim (merge candidate)
+- [After a proctor notification triggered by rapid-guessing detection, test-taking engagement tended to increase](proctor-notification-increases-engagement.md) — related

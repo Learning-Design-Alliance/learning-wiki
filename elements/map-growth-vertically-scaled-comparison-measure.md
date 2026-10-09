@@ -51,9 +51,11 @@ MAP Growth is NWEA's assessment used in this study as a common assessment agains
 - [MAP Growth interim computer adaptive assessment system](map-growth-interim-cat-assessment.md)
 - [MAP Growth assessment data as the evidence base for national pandemic-recovery monitoring](map-growth-pandemic-recovery-data.md)
 - [MAP Growth: computer-adaptive, vertically scaled interim assessment on the RIT scale](map-growth-interim-assessment.md)
+- [SEDA measures of district educational opportunity](seda-district-educational-opportunity-measures.md)
 
 ## Examples
--
+
+- [Validate district-level opportunity measures against a common assessment](../strategies/validate-opportunity-measures-via-common-assessment.md)
 
 ## Key Sources
 - Megan Kuhfeld, Thurston Domina, Paul Hanselman. (2019). Validating the SEDA measures of district educational opportunities via a common assessment. AERA Open 5(2). https://www.nwea.org/research/publication/validating-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment/

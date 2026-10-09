@@ -48,3 +48,4 @@ Figure 3 analysis for District G elementary teachers (N=407 teachers as printed)
 - [Across ten districts combined, elementary schools show no statistically significant difference from an equitable distribution of highest-performing teachers](elementary-equitable-distribution-highest-performing-teachers.md) — related
 - [Elementary under-representation of highest-performing teachers appears in 4 of 8 districts despite the aggregate null](elementary-underrepresentation-four-of-eight-districts.md) — related
 - [Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools](lower-rated-schools-tend-higher-poverty.md) — reports the opposite
+- [Sixty percent of the highest-poverty schools also have above-average student growth](sixty-percent-high-poverty-schools-above-average-growth.md) — related

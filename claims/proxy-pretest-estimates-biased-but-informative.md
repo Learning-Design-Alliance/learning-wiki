@@ -49,3 +49,4 @@ The authors' interpretation from the Oklahoma statewide analysis: proxy pre-test
 - [The report explicitly discusses limitations of the Oklahoma value-added model](oklahoma-value-added-model-limitations-discussed.md) — related
 - [The paper clarifies confusion about the use of value-added information in teacher evaluation](value-added-use-of-information-clarified.md) — a broader claim this one bears on
 - [Standardized test proficiency provides biased information about school quality, indicating a need for alternative metrics](standardized-tests-biased-school-quality.md) — related
+- [Multiple sources of student information can be accumulated to estimate teacher effectiveness](multiple-sources-accumulate-teacher-effectiveness.md) — related

@@ -46,3 +46,4 @@ Review authors' critical appraisal of the 82 non-STAR studies using an extended 
 - [Comprehensive searches identified only seven eligible studies, and quantitative synthesis was blocked by critical risk of bias and unreportable effect sizes](seven-studies-only-special-education-class-size-review.md) — related
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
 - [Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect](mobile-device-review-risk-of-bias-concerns.md) — related
+- [Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations](propensity-stratification-multilevel-reduces-selection-bias.md) — related

@@ -48,3 +48,7 @@ The page's abstract reports a discussion paper synthesizing "six important insig
 - [Two decades of research have produced advances in both the measurement of test-taking disengagement and understanding of its distortive impact on individual and aggregated scores](disengagement-research-advances-measurement-and-impact.md) — possibly the same claim (merge candidate)
 - [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — related
+- [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — related
+- [Previous research found a meaningful correlation between countries' mean engagement and mean performance on large-scale international assessments, motivating validity questions about aggregated scores](engagement-performance-correlation-countries.md) — a narrower finding that bears on this claim
+- [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](proctor-notification-improves-performance-and-validity.md) — related
+- [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related

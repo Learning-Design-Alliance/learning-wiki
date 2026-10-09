@@ -41,10 +41,14 @@ This element is the NWEA Research brief of April 2020 by Megan Kuhfeld and Beth 
 - [Technical appendix documenting the projection methodology of the COVID-19 slide white paper](covid-slide-technical-appendix.md)
 - [Analysis of typical summer learning patterns of five million students as a basis for COVID-19 loss projections](five-million-student-summer-learning-patterns-analysis.md)
 - [NWEA COVID-19 learning-loss research series on seasonal learning patterns and equity](nwea-covid-learning-loss-research-series.md)
+- [The COVID-19 slide research brief and technical appendix on summer learning loss and school closures](covid-19-slide-research-brief-element.md)
+- [COVID-19 closures & learning loss webinar (NWEA Research, April 2020)](covid-closures-learning-loss-webinar-nwea.md)
+- [NWEA seminar presentation projecting COVID-19 learning loss and 2020-21 test score effects](kuhfeld-2020-covid-learning-loss-projection-presentation.md)
 
 ## Examples
 
 - [Use summer learning loss research to help educators, policy makers, and families plan for and address impacts of extended school closures](../strategies/summer-loss-research-to-plan-closure-recovery.md)
+- [Convene educators, policymakers, and families to plan for the impacts of extended pauses in classroom instruction](../strategies/convene-stakeholders-plan-closure-impacts.md)
 
 ## Key Sources
 - Megan Kuhfeld, Beth Tarasawa. (2020). The COVID-19 slide: What summer learning loss can tell us about the potential impact of school closures on student academic achievement. NWEA Research brief. https://www.nwea.org/research/publication/the-covid-19-slide-what-summer-learning-loss-can-tell-us-about-the-potential-impact-of-school-closures-on-student-academic-achievement/

@@ -40,7 +40,8 @@ In Stage 7 of the research model, the article recommends an interpretation seque
 - [Chat Seven Stage Research Model](../theories/chat-seven-stage-research-model.md)
 
 ## Related Strategies
-- 
+
+- [Begin improvement work by collecting data and close the cycle by evaluating progress](collect-data-then-evaluate-progress-cycle.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ The 2025 MAP Growth norms update recalibrates the national reference group for R
 
 - [2025 MAP Growth Achievement and Growth Norms dataset and norms tables](map-growth-2025-norms-dataset.md)
 - [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth-assessment-database.md)
+- [School Challenge Index (SCI) and MAP Growth conditional growth metrics for school-level poverty and growth measurement](sci-and-map-growth-school-metrics.md)
 
 ## Examples
 

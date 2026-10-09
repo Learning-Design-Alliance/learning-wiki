@@ -50,3 +50,4 @@ Figure 8a comparison of Black charter students against their Black TPS VCR peers
 - [Pennsylvania charter school students show similar reading growth but weaker math growth (about 30 fewer days of learning) than matched TPS peers](pa-charter-overall-similar-reading-weaker-math.md) — related
 - [Charter students in poverty show similar reading growth but significantly weaker math growth (about 18 fewer days) than their TPS peers in poverty](pa-charter-poverty-students-weaker-math.md) — related
 - [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related
+- [Some charter school students grow faster than their traditional public school peers](some-charter-students-grow-faster-than-tps-peers.md) — a broader claim this one bears on

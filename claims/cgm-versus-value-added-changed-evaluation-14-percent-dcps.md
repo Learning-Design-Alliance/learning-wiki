@@ -46,3 +46,4 @@ Observational analysis of DCPS teacher evaluation data comparing a typical value
 - [Most differences in evaluation scores between the Colorado Growth Model and value added are not related to the characteristics of students' teachers](cgm-value-added-differences-unrelated-to-teacher-characteristics.md) — related
 - [Using the Colorado Growth Model in place of a value-added model increases evaluation scores for teachers of low-achieving students](cgm-substitution-raises-scores-low-achieving-student-teachers.md) — related
 - [Using the Colorado Growth Model in place of a value-added model depresses evaluation scores for teachers with more English language learner students](cgm-substitution-depresses-scores-ell-student-teachers.md) — related
+- [Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP](federal-policy-growth-modeling-requirements-nclb-rttp.md) — related

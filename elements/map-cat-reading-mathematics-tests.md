@@ -53,6 +53,7 @@ MAP tests are computerized adaptive assessments published by NWEA since 2000 for
 - [Reading comprehension test with passages aligned to Common Core State Standards administered under computerized adaptive test designs](ccss-aligned-reading-comprehension-cat.md)
 - [MAP (Measures of Academic Progress) computerised adaptive test system](map-cat-assessment-system-element.md)
 - [MAP Growth: computer-adaptive, vertically scaled interim assessment on the RIT scale](map-growth-interim-assessment.md)
+- [MAP for Primary Grades Skills Checklist tests (NS34 and LI52) as the empirical data source](mpg-skills-checklist-tests-ns34-li52.md)
 
 ## Examples
 -

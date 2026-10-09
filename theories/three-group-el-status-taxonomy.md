@@ -52,7 +52,8 @@ The article organizes its analysis around three distinct English Learner groups 
 - 
 
 ## Examples
--
+
+- [Analyze EL outcomes by years-as-EL subgroups rather than treating ELs as one group](../strategies/analyze-el-outcomes-by-years-as-el-subgroups.md)
 
 ## Key Sources
 - Angela Johnson. (2020). Within-year achievement gains for English Learners. NWEA Research working paper. https://www.nwea.org/research/publication/within-year-achievement-gains-for-english-learners/

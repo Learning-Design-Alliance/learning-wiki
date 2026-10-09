@@ -53,9 +53,12 @@ MAP is a computerised adaptive assessment system published by NWEA since 1976, c
 - [NWEA 2020 MAP Growth Achievement Status and Growth Norms for Students and Schools](2020-map-growth-status-and-growth-norms.md)
 - [Spanish MAP Growth Reading assessment: an adaptive K–8 reading assessment on a RIT scale linked to the English version](spanish-map-growth-reading-assessment.md)
 - [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth-assessment-database.md)
+- [MAP Growth assessment](map-growth-assessment-nwea.md)
+- [MAP for Primary Grades Skills Checklist tests (NS34 and LI52) as the empirical data source](mpg-skills-checklist-tests-ns34-li52.md)
 
 ## Examples
--
+
+- [Adopt computerized adaptive testing to serve both low- and high-achieving students](../strategies/adopt-cat-for-low-and-high-achievers.md)
 
 ## Key Sources
 - Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/

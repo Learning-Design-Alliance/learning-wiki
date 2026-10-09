@@ -67,6 +67,7 @@ Exposure to print and rich language input is one of the strongest environmental 
 - [Independent Reading] — the learner-driven use of the environment that builds volume and fluency
 - [Word Walls and Environmental Print] — curated reference displays that support automatic word recognition [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
 - [Encourage cognition and literacy by providing varied reading, writing, and drawing materials and building environmental awareness](varied-materials-and-environmental-awareness-encourage-literacy.md)
+- [Use teacher PD targeting pedagogical content knowledge, research-based practices, and print environments to improve early literacy instruction quality in low-resource countries](teacher-pd-improve-early-literacy-least-developed-countries.md)
 
 ## Examples
 - **[Reading Recovery](https://readingrecovery.org)** — pairs a print-rich intervention setting with intensive one-to-one mediation for struggling first-grade readers.

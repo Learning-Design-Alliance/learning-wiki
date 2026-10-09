@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**216 entries** · 0 stable · 0 in review · 216 drafts
+**217 entries** · 0 stable · 0 in review · 217 drafts
 
 ---
 
@@ -224,6 +224,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [SFA® ability-grouped 90-minute daily reading block with sequenced phonics-to-comprehension instruction](sfa-regrouped-reading-block-sequenced-literacy.md) - SFA® elementary reading programs \"combine cooperative-learning strategies with detailed lessons, which incorporate multimedia, puppet skits, and videos to support students' engagement and classroom instruction.\" Stude...
 * [Shared-dialogue foundation methods: team-defined mission, behavioral standards, cultural intelligence, and self-assessments](shared-dialogue-foundation-methods.md) - This pattern is the article's own enumerated set of methods for creating a student shared dialogue before and during an international interdisciplinary service-learning course.
 * [Short frequent one-to-one tutoring sessions with scripted phonics lessons and mastery checks](sound-partners-tutoring-session-pattern.md) - The program's instructional pattern is \"30 minute sessions of one-to-one tutoring that take place four days per week throughout one school year.\" Each session includes from four to eight short activities, with the las...
+* [Six common contexts where proportional relationships arise](proportional-relationship-common-contexts.md) - The paper enumerates the everyday and mathematical settings where, in its words, 'common sense informs us that a proportional relationship is at play': unit conversion and exchange rates, constant rates, percentages,...
 * [Six-part section structure for FEA-based experiential learning modules](fea-module-six-part-section-structure.md) - Each section of the FEA-based learning module followed a fixed internal structure of six sub-sections: \"Educational objective, Problem description and objective analysis, Mathematical equation, General steps of the FE...
 * [Six-phase assignment process mapped to BRT cognitive steps](brt-six-phase-assignment-process.md) - Each weekly assignment is structured under six phases corresponding to BRT's cognitive process dimensions.
 * [Six-step classroom C/I process: ideas, questions, positive comments, negative comments, metric, new ideas — cycled to refine the solution](six-step-ci-classroom-process.md) - The article's process \"begins with statement by the instructor of a problem or goal, and then involves requests for: (1) ideas, (2) questions, (3) positive critical comments on the ideas, (4) negative critical comment...

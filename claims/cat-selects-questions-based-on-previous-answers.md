@@ -44,3 +44,4 @@ Definitional statement from the publication's overview of CAT, describing the ad
 
 ## Related Claims
 - [CAT has the potential to be more valid and reliable than non-adaptive tests](cat-potential-more-valid-reliable-than-non-adaptive.md) — related
+- [CAT adjusts test questions as the testing goes along](cat-adjusts-questions-during-testing.md) — possibly the same claim (merge candidate)

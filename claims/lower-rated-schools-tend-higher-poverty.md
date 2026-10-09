@@ -45,3 +45,4 @@ Analysis of school-level distributions of observation ratings across 519 schools
 ## Related Claims
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — a broader claim this one bears on
 - [District G shows the opposite pattern: highest-poverty elementary schools were most likely to have highest-performing teachers](district-g-elementary-favors-high-poverty-schools.md) — reports the opposite
+- [Sixty percent of the highest-poverty schools also have above-average student growth](sixty-percent-high-poverty-schools-above-average-growth.md) — related

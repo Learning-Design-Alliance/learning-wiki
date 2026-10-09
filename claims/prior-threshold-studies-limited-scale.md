@@ -46,3 +46,4 @@ The abstract characterizes the research gap: prior comparisons "typically do so 
 - [Threshold-setting methods are compared using reading scores from over 728,923 students on a computer-adaptive test of nearly 12,000 items](large-scale-cat-threshold-method-comparison.md) — a narrower finding that bears on this claim
 - [Response-time threshold-setting methods for detecting noneffortful item responses were compared using reading scores from over 728,923 US students in 2,056 schools](threshold-methods-compared-large-scale-reading-data.md) — related
 - [Detecting noneffortful responses requires setting response time thresholds that separate effortful from noneffortful responses](rt-thresholds-separate-noneffortful-responses.md) — related
+- [Information-based rapid-guessing threshold methods set thresholds more reliably than methods based on response accuracy or visual inspection](information-based-thresholds-more-reliable-than-accuracy-visual-methods.md) — related

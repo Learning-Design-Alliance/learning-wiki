@@ -51,3 +51,4 @@ Descriptive statement from the brief's own landing-page description: it is "the 
 - [Student reports of social skills and perseverance were declining before the pandemic, fell further during remote learning in the middle grades, and remained below 2011 levels through 2022-23](social-skills-perseverance-declined-pandemic.md) — related
 - [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
+- [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related

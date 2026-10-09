@@ -65,3 +65,4 @@ Survey on budget involvement (Tables 24-25): nearly 60 percent report moderate i
 - [Only 4 percent of LSCs show three or more signs of inactivity, and the most common problem is having fewer than two active committees](lsc-inactivity-signs-minority.md) — related
 - [An estimated 19 percent of Local School Councils are nonfunctional](lsc-nonfunctional-19-percent.md) — related
 - [More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members](lsc-principal-evaluation-process.md) — related
+- [Most School Improvement Plans do not guide staff efforts to tackle the root causes that prevent significant performance improvement](sips-do-not-guide-root-cause-efforts.md) — related

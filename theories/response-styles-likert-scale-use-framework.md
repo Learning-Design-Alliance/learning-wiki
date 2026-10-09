@@ -43,10 +43,12 @@ The article frames response styles as differences in how respondents use the cat
 - [Response styles can affect estimates of growth parameters, including the slope, on social-emotional survey constructs](../claims/response-styles-affect-growth-parameter-estimates.md) [+W]
 
 ## Related Theories
-- 
+
+- [Response styles as scale-usage differences independent of true score](response-styles-scale-usage-definition.md)
 
 ## Examples
--
+
+- [Compare growth estimates from IRT scoring models that do and do not account for response styles when evaluating longitudinal survey scores](../strategies/irt-scoring-with-and-without-response-styles.md)
 
 ## Key Sources
 - James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. Multivariate Behavioral Research. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores-journal/

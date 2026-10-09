@@ -45,6 +45,7 @@ EMC questions are the article's proposed modification of the traditional multipl
 
 - [Traditional multiple-choice test item structure: stem, alternatives, and plausible distractors](traditional-mc-item-stem-alternatives-distractors.md)
 - [ConcepTest](conceptest.md)
+- [Technology-enhanced items (TEIs) as an assessment format adaptable to learning styles](technology-enhanced-items-tei-element.md)
 
 ## Examples
 

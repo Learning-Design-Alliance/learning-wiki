@@ -47,3 +47,4 @@ The same regression analysis comparing the eligibility-reclassification relation
 - [The kind of test-based reclassification criteria, not the number, is likely the more salient determinant of long-term EL status](kind-not-number-of-criteria-determines-long-term-el-status.md) — related
 - [States with more complex reclassification policies set lower minimum WIDA composite score cutoffs](complex-policies-lower-minimum-composite-scores.md) — related
 - [Disparities in reclassification eligibility across states widen as grade levels progress, with states relying solely on ELP criteria showing sharp increases by grade 5](eligibility-disparities-widen-across-grades.md) — related
+- [Information about English-language development is critical for accurately predicting the grade an EL will reclassify](english-development-information-critical-reclassification-prediction.md) — related

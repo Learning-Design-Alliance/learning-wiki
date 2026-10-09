@@ -47,3 +47,5 @@ The article's framing statement, offered as motivation for the study: interim as
 - [Few models exist for estimating growth in the presence of multiple raters despite growing multi-rater longitudinal data](few-models-for-growth-with-multiple-raters.md) — related
 - [The study conducts analyses aimed at reducing barriers to generating empirical benchmarks for repeated measures achievement data](analyses-reduce-barriers-empirical-benchmarks-repeated-measures.md) — related
 - [The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses](seasonal-model-combines-polynomial-and-piecewise-features.md) — related
+- [The CP model fits seasonal achievement data better than a traditional polynomial growth model on RMSE, AIC, and BIC while reducing residual autocorrelation](cp-model-fits-seasonal-growth-better-than-polynomial.md) — a narrower finding that bears on this claim
+- [Seasonality affects estimates of school effectiveness](seasonality-affects-school-effectiveness-estimates.md) — related

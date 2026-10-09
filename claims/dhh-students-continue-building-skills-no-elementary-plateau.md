@@ -46,3 +46,5 @@ Longitudinal analysis of NWEA MAP Growth data from grades 2 to 8 across seven re
 ## Related Claims
 - [DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do](dhh-systemic-barriers-low-expectations.md) — related
 - [Deaf students plateau at fourth-grade reading skill despite prolonged schooling](deaf-students-reading-plateau-fourth-grade.md) — reports the opposite
+- [New research tracked academic growth trajectories of students who are deaf or hard of hearing across grades 2-8](dhh-growth-trajectories-grades-2-8-study.md) — related
+- [Students who are deaf or hard of hearing continue to grow and acquire literacy skills well into middle school when tracked across grades 2-8](dhh-students-continue-literacy-growth-into-middle-school.md) — possibly the same claim (merge candidate)

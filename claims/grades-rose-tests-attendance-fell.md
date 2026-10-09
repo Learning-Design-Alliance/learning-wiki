@@ -46,3 +46,4 @@ In its data-use priority section, the agenda describes the post-pandemic pattern
 - [Chronic absenteeism in grades 6-11 in Chicago increased by about 20 percentage points after the pandemic and remained high through 2023-24](chronic-absenteeism-increased-20-points-post-pandemic-cps.md) — related
 - [Course grades of students in grades 4-8 declined during remote and hybrid learning relative to pre-pandemic years](cps-grades-4-8-declined-remote-learning.md) — reports the opposite
 - [High school course grades improved in spring 2020 and remained higher than pre-pandemic levels through spring 2021, with a slight rise in Fs](cps-high-school-grades-improved-remote-learning.md) — a narrower finding that bears on this claim
+- [Educators and evaluators faced open questions about how to measure student performance after COVID disruptions](measuring-student-performance-after-covid-open-question.md) — related

@@ -44,3 +44,4 @@ Narrative synthesis of ICC estimates compiled by Chiang (2009) from fall-spring 
 
 ## Related Claims
 - [In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools](ols-mediator-power-requires-150-200-schools.md) — related
+- [More of the variance in linear growth lies at the school level for fall-to-spring than for spring-to-spring estimates, in some cases twice or three times as much](more-school-level-variance-fall-to-spring-growth.md) — related

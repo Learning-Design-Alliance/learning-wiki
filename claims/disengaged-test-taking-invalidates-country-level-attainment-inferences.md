@@ -47,3 +47,5 @@ The author's statement of the problem motivating the review. The article reports
 - [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related
 - [Student test-taking disengagement on remotely administered adaptive interim assessments differs from disengagement on the same assessment administered in school](remote-interim-testing-disengagement-differs-from-in-school.md) — related
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — a broader claim this one bears on
+- [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — possibly the same claim (merge candidate)
+- [Previous research found a meaningful correlation between countries' mean engagement and mean performance on large-scale international assessments, motivating validity questions about aggregated scores](engagement-performance-correlation-countries.md) — related

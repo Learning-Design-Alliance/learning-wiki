@@ -47,3 +47,4 @@ The article attributes this finding to two prior nationally representative studi
 - [Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017](kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md) — related
 - [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — related
 - [Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract](shrinking-gaps-kindergarten-entry.md) — related
+- [A national study examines trends and disparities in children's academic skills at school entry for students who began kindergarten between 2010 and 2017](national-trends-kindergarten-entry-skills-2010-2017.md) — related

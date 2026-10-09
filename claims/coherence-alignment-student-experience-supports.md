@@ -65,3 +65,4 @@ District staff participants reported that principals "experience a disconnect be
 - [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — a broader claim this one bears on
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
 - [Teachers reporting better professional development and curricular coherence have better instructional practices than other teachers in their school](pd-coherence-benefit-individual-teachers.md) — related
+- [Teachers are more likely than ever to hold formal performance goals as districts align improvement efforts](teachers-formal-performance-goals-increasing.md) — related

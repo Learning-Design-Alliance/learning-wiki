@@ -26,7 +26,7 @@ sources:
 # Assessment for Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 19 studies (6 causal, 6 quant-synthesis, 3 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q4` · 6 of 19 report an effect size · 7 claims rest on one study
+> **Evidence** · 14 claims (8 for, 6 mixed) · 20 studies (6 causal, 6 quant-synthesis, 3 review, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 20 report an effect size · 8 claims rest on one study
 
 ## Conditional relationship
 
@@ -69,6 +69,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Both Conditions Significant Prepost Gains Larger Experimental Effect Sizes](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]
 - [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](../claims/no-significant-posttest-retention-decline-either-group.md) [~W]
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](../claims/pretest-equivalence-noss-sks-groups.md) [~W]
+- [Immediate, informative test results enable teachers to differentiate instruction to individual needs](../claims/immediate-adaptive-test-results-enable-differentiation.md) [+W] — attached 2026-10-09 from Freeman (2014), which proposed "Use adaptive assessment results to differentiate instruction to current academic needs".
 
 ## Objective and learner-valued goal
 

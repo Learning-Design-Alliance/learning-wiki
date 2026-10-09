@@ -44,6 +44,7 @@ The brief distinguishes frameworks from competencies: competencies are the knowl
 ## Related Theories
 
 - [Ten-criteria taxonomy for evaluating SEL frameworks: five conceptual-clarity and five implementation-support criteria](ten-criteria-sel-framework-evaluation-taxonomy.md)
+- [State-trait composition framework for social-emotional learning constructs](state-trait-composition-sel-constructs.md)
 
 ## Examples
 

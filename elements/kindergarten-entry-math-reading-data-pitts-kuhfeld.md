@@ -38,7 +38,8 @@ The article presents new data describing children's math and reading skills as t
 - early reading skills
 
 ## Related Elements
-- 
+
+- [Companion journal article: Mind the kinder-gap — new data on children's math and reading skills at kindergarten entry](mind-the-kinder-gap-journal-article.md)
 
 ## Examples
 -

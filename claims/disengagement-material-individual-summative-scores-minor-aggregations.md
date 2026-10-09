@@ -53,3 +53,10 @@ The page's abstract reports a study of test-taking engagement on a large-scale s
 - [Disengaged test-taking responses can distort the content representation of test items](disengaged-responses-distort-item-content-representation.md) — related
 - [Twenty years of research on disengaged test taking in international assessment programs yields six insights with implications for assessment programs](six-insights-test-taking-disengagement-international-programs.md) — related
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — a broader claim this one bears on
+- [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — related
+- [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
+- [Rapid-guessing behavior varies by item and is significantly related to item length, item position, and presence of ancillary reading material](rapid-guessing-item-length-position-ancillary-material.md) — related
+- [Rapid guessing tends to negatively distort scores and diminish validity](rapid-guessing-negatively-distorts-scores.md) — related
+- [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
+- [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
+- [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related

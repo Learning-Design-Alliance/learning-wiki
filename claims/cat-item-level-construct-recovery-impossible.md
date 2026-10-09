@@ -46,3 +46,4 @@ Simulation study calibrating Rasch, 2PL, and bifactor data with Mplus under five
 - [The study examines how CAT test design and item bank distribution affect content coverage and test efficiency in a CCSS-aligned reading comprehension test](cat-design-and-bank-distribution-affect-coverage-and-efficiency.md) — related
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — reports the opposite
 - [MCAR item and response missingness in linear tests shows no differential effect on model fit across Designs 1 to 4](mcar-missingness-linear-tests-no-fit-effect.md) — related
+- [CAT development decisions influence and might threaten content alignment](cat-development-decisions-threaten-alignment.md) — related

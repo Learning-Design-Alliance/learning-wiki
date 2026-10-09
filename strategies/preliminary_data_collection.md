@@ -65,6 +65,7 @@ Data-informed problem framing improves the fit between interventions and local c
 - [Equity Audits](equity-audits.md) — a systematic application focused on disaggregated inequity data
 - [Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school](needs-assessment-baseline-and-projective-data.md)
 - [Use a Data-Informed Decision Matrix linking data types to strategic questions](data-informed-decision-matrix-swot.md)
+- [Differentiate root-cause facilitation, protocols and tools according to the school's organizational culture and past performance results](differentiate-facilitation-by-culture-and-past-performance.md)
 
 ## Examples
 - A school team reviewing achievement and behavioral data disaggregated by race, then conducting walkthroughs and student focus groups to understand school culture before redesigning discipline practices — surfacing how specific policies reinforced disproportionality.

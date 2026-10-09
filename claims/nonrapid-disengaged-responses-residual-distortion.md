@@ -52,3 +52,14 @@ Third reported finding from the retest-data evaluation: the authors interpret re
 - [A modified E-M scoring method using more liberal time thresholds accounts for two-thirds or more of score distortion, outperforming standard thresholds](liberal-threshold-em-scoring-two-thirds-distortion.md) — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Standard effort-moderated scoring accounts for roughly one-third of score distortion due to differential disengagement on low-stakes achievement tests](standard-em-scoring-one-third-distortion.md) — related
+- [Distortive effects of disengagement on school means were diluted by the high proportion of students exhibiting no non-effortful behavior](disengagement-diluted-by-engaged-majority.md) — related
+- [In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring](effort-moderated-cat-negligible-bias-simulation.md) — related
+- [E-M scoring partially accounts for observed RIT score differences between disengaged first tests and engaged retests](em-scoring-partially-accounts-retest-score-differences.md) — related
+- [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — a broader claim this one bears on
+- [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](rapid-guesses-in-scoring-distort-scores.md) — related
+- [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
+- [Rapid guessing differs from solution behavior as a form of test-taker disengagement](rapid-guessing-differs-from-solution-behavior.md) — related
+- [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) — related
+- [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
+- [Rapid guessing tends to negatively distort scores and diminish validity](rapid-guessing-negatively-distorts-scores.md) — related
+- [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related

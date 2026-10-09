@@ -45,3 +45,4 @@ The report states that value-added estimates were obtained during the first phas
 ## Related Claims
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [Phase 1 of the Pennsylvania pilot examined whether teachers with higher classroom observation scores on specific professional practices tended to have greater value-added impacts on student achievement](observation-scores-value-added-relationship-pennsylvania-pilot.md) — related
+- [Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP](federal-policy-growth-modeling-requirements-nclb-rttp.md) — related

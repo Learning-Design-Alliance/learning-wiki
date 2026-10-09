@@ -48,3 +48,4 @@ In this theoretical article's literature review, the author synthesizes Klein (2
 - [Newell's complex systems theory of interdisciplinarity fails to explain integration, as its critics and Newell himself acknowledge](newell-complex-systems-theory-integration-gap.md) — related
 - [No special pedagogy or unique strategy set exists for teaching interdisciplinarity; a variety of pedagogies is required](no-unique-pedagogy-interdisciplinarity.md) — related
 - [Interdisciplinarity is almost impossible to practice without the integrative power of texts, which are foundational to the disciplines](texts-foundational-interdisciplinarity.md) — related
+- [The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling](hpl-ii-integrative-multifield-designs.md) — related

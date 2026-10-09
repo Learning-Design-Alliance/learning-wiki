@@ -45,3 +45,5 @@ The article reports, citing a study in Gibson and Levin's The psychology of read
 ## Related Claims
 - [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](dhh-students-continue-building-skills-no-elementary-plateau.md) — reports the opposite
+- [New research tracked academic growth trajectories of students who are deaf or hard of hearing across grades 2-8](dhh-growth-trajectories-grades-2-8-study.md) — related
+- [Students who are deaf or hard of hearing continue to grow and acquire literacy skills well into middle school when tracked across grades 2-8](dhh-students-continue-literacy-growth-into-middle-school.md) — reports the opposite

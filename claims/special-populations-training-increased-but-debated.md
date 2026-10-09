@@ -45,3 +45,4 @@ Key finding: the redesigned programs increased training for leading special stud
 ## Related Claims
 - [TEP's student population was similar to other neighborhood schools: high poverty, mostly Hispanic, with similar rates of special education services](tep-student-population-comparable-to-neighborhood-schools.md) — related
 - [Students who began as ELs were not overidentified for special education services relative to students never classified as ELs](els-not-overidentified-special-education.md) — related
+- [The study gives explicit consideration to cultural differences and similarities in learning, including English learners and learners with learning disabilities](hpl-ii-cultural-differences-special-populations.md) — related

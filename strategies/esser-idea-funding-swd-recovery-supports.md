@@ -41,6 +41,7 @@ The brief recommends directing federal recovery and special education funding to
 - [Educational leaders should weigh the demographic shift in tested students and other contextual data when planning student growth and recovery support](consider-demographic-shift-and-contextual-data-in-recovery-planning.md)
 - [Multi-pronged policy strategy for COVID-19 learning recovery for BIPOC students](covid-recovery-policy-strategy-bipoc-students.md)
 - [Use summer learning loss research to help educators, policy makers, and families plan for and address impacts of extended school closures](summer-loss-research-to-plan-closure-recovery.md)
+- [Deploy federal recovery funding to support recovery, accelerate learning, and transform schools](deploy-federal-aid-recovery-acceleration.md)
 
 ## Examples
 -

@@ -47,3 +47,7 @@ Authors' interpretation of the seasonal analysis results, stated in the abstract
 - [Racial/ethnic disparities observed among older students are largely already in place among kindergartners](older-student-disparities-present-at-kindergarten.md) — related
 - [No evidence that the racial/ethnic achievement gap in CPS elementary scores narrowed or widened from 1992 to 2000](cps-racial-ethnic-gap-unchanged-1992-2000.md) — related
 - [Poor White students consistently outperformed poor Black and poor Hispanic students in achievement, with gaps widening around ages 7-8](poor-white-students-outperform-poor-black-hispanic-gaps-widen-ages-7-8.md) — related
+- [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
+- [The study frames schooling as a candidate explanation for the development of racial and ethnic inequalities in academic skills](schooling-role-racial-ethnic-inequality-development.md) — related
+- [A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade](seasonal-analysis-2m-students-racial-ethnic-disparities-k-8.md) — related
+- [The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade](seasonal-disparities-analysis-span-kindergarten-eighth-grade.md) — related

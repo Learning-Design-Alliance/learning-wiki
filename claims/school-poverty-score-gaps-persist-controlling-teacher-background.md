@@ -51,3 +51,4 @@ Analysis controlling for teacher characteristics including experience, advanced 
 - [Teachers with National Board Certification or advanced degrees differ from other teachers only on observation scores, not value added](credentials-difference-observation-only-not-value-added.md) — related
 - [Teachers with the lowest value-added scores are overrepresented in Chicago's highest-poverty schools](lowest-value-added-teachers-overrepresented-high-poverty.md) — related
 - [Top-scoring teachers in highest-poverty schools have higher value-added scores than their counterparts in lower-poverty schools](top-value-added-teachers-higher-in-highest-poverty-schools.md) — related
+- [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](achievement-weighting-clouds-learning-high-poverty.md) — related

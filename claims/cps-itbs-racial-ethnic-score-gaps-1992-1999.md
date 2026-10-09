@@ -89,3 +89,4 @@ Descriptive trend comparison by race/ethnicity, 1992-1999 (Part 2). The brief re
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
 - [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related
 - [Poor White students consistently outperformed poor Black and poor Hispanic students in achievement, with gaps widening around ages 7-8](poor-white-students-outperform-poor-black-hispanic-gaps-widen-ages-7-8.md) — related
+- [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
