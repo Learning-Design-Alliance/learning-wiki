@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="in-descriptive-logit-models-demographic-variables-predict-dropout-at-enrollment-eg-males-have-a-60-higher-chance-of-dropping-out-than-females-but-most-lose-significance-once-first-semester-performance-data-is-controlled">In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled<a class="headerlink" href="#in-descriptive-logit-models-demographic-variables-predict-dropout-at-enrollment-eg-males-have-a-60-higher-chance-of-dropping-out-than-females-but-most-lose-significance-once-first-semester-performance-data-is-controlled" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · associational <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> At enrollment, male students, older students, and immigrants show higher dropout odds; first-generation immigrants have a 22% higher rate and second-generation immigrants a 46% higher rate than native students. <a href="#johannes-berens-2019">→ Johannes Berens 2019</a>
+<code>q2 i?</code> Most demographic variables lose statistical significance when first-semester performance data is included in the model. <a href="#johannes-berens-2019-2">→ Johannes Berens 2019 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="johannes-berens-2019">Johannes Berens 2019<a class="headerlink" href="#johannes-berens-2019" title="Permanent link">&para;</a></h3>
+<p>Johannes Berens, Kerstin Schneider, Simon Görtz, Simon Oster, Julian Burghoff. (2019). Early Detection of Students at Risk - Predicting Student Dropouts Using Administrative Student Data from German Universities and Machine Learning Methods. Journal of Educational Data Mining, Volume 11, No 3. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/389</p>
+<p><code>q2 · i?</code> · <code>associational · r?</code></p>
+<p>Pooled-sample logit models on SU training data (N = 12,728 at enrollment), reporting odds ratios; the models are described as strictly descriptive with no causal interpretation. The quote reports the printed demographic correlates; no standardized effect size is printed.</p>
+<blockquote>
+<p>"At enrollment, males have a 60% higher chance of dropping out than females. Age at enrollment shares a positive correlation with dropping out. At the time of enrollment, immigrants have a higher dropout risk as compared to native students (baseline category), and first-generation immigrants have a higher dropout risk than second-generation immigrants."</p>
+</blockquote>
+<h3 id="johannes-berens-2019-2">Johannes Berens 2019 (2)<a class="headerlink" href="#johannes-berens-2019-2" title="Permanent link">&para;</a></h3>
+<p>Johannes Berens, Kerstin Schneider, Simon Görtz, Simon Oster, Julian Burghoff. (2019). Early Detection of Students at Risk - Predicting Student Dropouts Using Administrative Student Data from German Universities and Machine Learning Methods. Journal of Educational Data Mining, Volume 11, No 3. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/389</p>
+<p><code>q2 · i?</code> · <code>associational · r2</code></p>
+<p>In the same SU logit specifications, adding first-semester performance data (average grade, credit points, exams taken, failed exams) renders most demographic coefficients statistically insignificant, consistent with the AIC falling from 15,658 to 11,988.</p>
+<blockquote>
+<p>"Most of the demographic variables lose statistical significance when controlling for the performance data available after"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../demographic-predictors-reduce-actionability/">Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects</a> — related</li>
+<li><a href="../performance-data-dominates-demographics-in-dropout-prediction/">Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available</a> — a broader claim this one bears on</li>
+<li><a href="../mixed-evidence-demographic-predictor-performance/">Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction</a> — related</li>
+<li><a href="../ignoring-teacher-knowledge-misidentifies-risk-students/">Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views</a> — related</li>
+<li><a href="../abc-early-warning-indicators-predict-dropout/">Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>logit-demographic-predictors-weaken-after-performance-controls</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is controlled</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>In descriptive logit models, demographic variables predict dropout at enrollment (e.g., males have a 60% higher chance of dropping out than females), but most lose significance once first-semester performance data is...</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-08</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>johannes-berens-2019</code>, <code>johannes-berens-2019-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

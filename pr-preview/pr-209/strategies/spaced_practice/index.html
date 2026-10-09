@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Spaced Practice - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="spaced-practice">Spaced Practice<a class="headerlink" href="#spaced-practice" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · no claims cited</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Spaced practice distributes study sessions and reviews across time rather than concentrating them in a single block. Its benefit comes partly from the retrieval effort each spaced encounter requires: after a delay, memory is partially faded, and successful recall under those conditions strengthens the trace more than an easy, immediate repetition would. Instructors implement spacing by breaking content into shorter sessions across days or weeks, opening sessions with low-stakes recall of prior material, and scheduling cumulative review. Digital platforms can automate the schedule — sending reminders, resurfacing lapsed items, and gating re-engagement until the intended interval has elapsed.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Spaced practice is one of the most robust findings in learning science: distributing repetitions reliably improves long-term retention relative to massing them, across ages, materials, and tasks <a href="https://doi.org/10.1037/0033-2909.132.3.354">Cepeda et al.'s meta-analysis of 254 studies.</a> [+S]. Spacing combines multiplicatively with <a href="../../elements/practice/">retrieval practice</a> — testing itself, spaced over time, produces the largest durable gains <a href="https://doi.org/10.1037/a0031313">Dunlosky et al. rate practice testing and distributed practice the two highest-utility techniques.</a> [+S].</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A curriculum plan that revisits content at expanding intervals rather than treating each unit as closed</li>
+<li>Retrieval-based activities at the start of each session (<a href="../../elements/practice/">Practice</a>, cumulative quizzing), not passive re-reading</li>
+<li>Scheduling infrastructure — a course calendar, spiral curriculum map, or platform that automates item resurfacing and reminders</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Learners systematically misjudge spacing as less effective than cramming because massed study feels easier and produces better short-term performance <a href="https://doi.org/10.1037/a0031313">Learners' preferences diverge from optimal scheduling.</a> [-M] — expect resistance and teach the evidence explicitly</li>
+<li>Benefits accrue over weeks and months; spacing does little for performance on an assessment occurring the next day [~S]</li>
+<li>Gating mechanisms that lock content until an interval passes can frustrate motivated learners or block just-in-time reference use; intervals that are too long cause retrieval failure rather than productive difficulty [~M]</li>
+<li>Requires sustained adherence across a term; a single spaced session has negligible effect</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Expanding schedules</strong> (1 day → 3 days → 1 week) vs. <strong>fixed schedules</strong> (every 3 days); expanding intervals are generally at least as effective and more efficient [~S]</li>
+<li><strong>Instructor-driven</strong> (spiral curriculum, cumulative exams) vs. <strong>learner-driven</strong> (flashcard apps with spaced-repetition algorithms such as Anki's SM-2)</li>
+<li><strong>Within-session spacing</strong> (interleaving item types) vs. <strong>between-session spacing</strong> (days between lessons) — related but distinct mechanisms</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>All age groups benefit, from early readers to medical residents <a href="https://doi.org/10.1037/0033-2909.132.3.354">Cepeda et al. found spacing effects across lifespan and materials.</a> [+S]</li>
+<li>Particularly high value for cumulative disciplines (languages, anatomy, mathematics) where later content depends on retained earlier content</li>
+<li>Learners with weaker metacognitive monitoring benefit most from instructor- or algorithm-scheduled spacing, since they are least likely to self-schedule effectively [~M]</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Long-term retention of declarative knowledge (vocabulary, facts, definitions)</li>
+<li>Fluency and automaticity in procedural skills through distributed rehearsal</li>
+<li>Cumulative course mastery rather than unit-by-unit performance</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Map the content to be retained and identify items that must remain active across the whole course.</li>
+<li>Schedule first review within 1–7 days of initial instruction, then at expanding intervals.</li>
+<li>Open each session with retrieval, not re-exposure — have learners <a href="../../elements/practice/">recall prior material</a> before any restudy [+S].</li>
+<li>Interleave spaced review of older items with new instruction rather than isolating review blocks.</li>
+<li>Give feedback after retrieval attempts (<a href="../../elements/practice/">Provide Feedback</a>); spaced retrieval with feedback outperforms spaced re-reading <a href="https://doi.org/10.1207/s15326985ps3806_1">Roediger &amp; Karpicke's testing-effect experiments.</a> [+S].</li>
+<li>If using a platform, configure intervals and reminders; consider soft gating (nudges) rather than hard lockouts.</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../elements/practice/">Retrieval Practice</a> — the activity that makes each spaced encounter effortful and effective; spacing without retrieval is weak re-exposure</li>
+<li><a href="../../elements/practice/">Interleaving</a> — within-session counterpart; mixing item types during spaced sessions compounds the benefit</li>
+<li><a href="../../elements/assessment/">Cumulative Assessment</a> — assessment structure that forces spaced review rather than unit-then-forget study</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Duolingo</strong> — algorithmically schedules review of lapsed vocabulary items and prompts returning learners with "practice" sessions targeting weakened items (<a href="https://www.duolingo.com">duolingo.com</a>)</li>
+<li><strong>Anki</strong> — open-source spaced-repetition flashcard system using the SM-2 expanding-interval algorithm; widely used in medical education (<a href="https://apps.ankiweb.net">apps.ankiweb.net</a>)</li>
+<li>A world-language course replaces end-of-unit tests with weekly cumulative quizzes covering all vocabulary to date, converting the assessment schedule itself into a spacing schedule</li>
+<li><strong>Khan Academy</strong> — mastery system re-assigns previously "mastered" skills for review after delays, requiring learners to demonstrate retention over time</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., &amp; Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. <em>Psychological Bulletin, 132</em>(3), 354–380. <a href="https://doi.org/10.1037/0033-2909.132.3.354">doi:10.1037/0033-2909.132.3.354</a></li>
+<li>Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving students' learning with effective learning techniques. <em>Psychological Science in the Public Interest, 14</em>(1), 4–58. <a href="https://doi.org/10.1177/1529100612453266">doi:10.1177/1529100612453266</a></li>
+<li>Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science, 17</em>(3), 249–255. <a href="https://doi.org/10.1111/j.1467-9280.2006.01693.x">doi:10.1111/j.1467-9280.2006.01693.x</a></li>
+<li>Kang, S. H. K. (2016). Spaced repetition promotes efficient and effective learning: Policy implications of innovations in teaching and learning. <em>Policy Insights from the Behavioral and Brain Sciences, 3</em>(1), 12–19. <a href="https://doi.org/10.1177/2372732215624708">doi:10.1177/2372732215624708</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>spaced_practice</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Spaced Practice</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Spaced practice distributes learning sessions and reviews over time, contrasting with massed practice (cramming), to improve long-term retention.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-29</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

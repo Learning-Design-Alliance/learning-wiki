@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Segmenting - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="segmenting">Segmenting<a class="headerlink" href="#segmenting" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 2 claims (2 for) · 5 studies (2 causal, 2 review, 1 quant-synthesis), <code>q2</code>–<code>q4</code> · 1 of 5 report an effect size</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Segmenting divides continuous instructional material — animation, video, narrated slides, complex diagrams — into discrete, meaningful parts that learners can process one at a time, typically with a "continue" button or pause point between parts. It is one of Mayer's multimedia design principles, grounded in the observation that a continuous presentation forces learners to hold and integrate many pieces of information in working memory simultaneously <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+S].</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Segmenting works because working memory is severely limited; when a continuous animation or narration streams past, essential processing on one part competes with representation of the next, and learning suffers <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+S]. Segment boundaries should fall at conceptual breaks — the end of a causal step, a sub-process, or a scene — not at arbitrary time intervals, so that each segment is a coherent unit <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+M]. Segmenting is most powerful when combined with learner control: letting learners pace their progression through segments allows re-viewing of poorly understood parts and prevents advancing before integration is complete.</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Content with identifiable conceptual structure — steps, stages, or sub-processes that can serve as natural segment boundaries</li>
+<li>A pacing mechanism (continue button, pause prompts, chaptered video) rather than a single continuous stream</li>
+<li>Segment-sized units small enough to be processed in one working-memory pass, but not so small that the whole's structure is lost</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Segmenting material that is already low in element interactivity (simple, familiar content) adds navigation overhead without load benefit [~M]</li>
+<li>Over-fine segmentation can fragment a coherent causal narrative, harming schema formation — learners may see the trees and lose the process</li>
+<li>Learner pacing without guidance invites skipping or shallow re-viewing; segmenting alone does not guarantee active processing [-W]</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Hard segmentation</strong>: content is pre-cut into fixed segments with continue buttons (typical in Mayer's experiments)</li>
+<li><strong>Learner-controlled pausing</strong>: continuous media with explicit prompts to pause and summarize before continuing</li>
+<li><strong>Segmented with questions</strong>: each segment followed by a short retrieval question, combining pacing with <a href="../../elements/practice/">Practice</a></li>
+<li><strong>Chaptered video</strong>: platforms like YouTube chapters or Coursera's segmented lecture videos apply the same principle at course scale</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Novices with low prior knowledge, who lack schemas to hold incoming material efficiently <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+S]</li>
+<li>Learners with lower working memory capacity, who benefit most from externally imposed pacing</li>
+<li>Less beneficial for experts, who can self-pace mentally and may find forced pauses disruptive [~W]</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Understanding dynamic, multi-step processes (mechanical, biological, computational)</li>
+<li>Transfer of procedural knowledge explained through animation or narrated demonstration</li>
+<li>Retention of complex narrated explanations where integration across moments in time is required</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Map the content's conceptual structure and mark natural boundaries — one step, stage, or sub-process per segment (<a href="../../principles/chunking/">Chunking</a>)</li>
+<li>Produce or re-cut the media so each segment is a self-contained unit, ending at a completion point rather than mid-explanation</li>
+<li>Add a pacing control (continue button, pause prompt) so learners decide when to advance</li>
+<li>Optionally append a brief question or summary prompt after each segment to enforce active processing (<a href="../../elements/practice/">Practice</a>)</li>
+<li>Check that the full sequence still communicates the whole process — add an advance organizer or overview if segmentation obscures global structure (<a href="../../elements/advance-organizers/">Advance Organizers</a>)</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../pre-training/">Pre-training</a> — teaching names and characteristics of key concepts before the segmented presentation reduces load further; the two principles are complementary</li>
+<li><a href="../signaling/">Signaling</a> — cues highlight what matters <em>within</em> each segment; segmenting manages load <em>between</em> segments</li>
+<li><a href="../modality/">Modality</a> — narrating segments offloads visual working memory; frequently combined with segmenting in multimedia design</li>
+<li><a href="../chunked-animations-with-pauses/">Present animations as distinct logical chunks separated by short pauses</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Mayer &amp; Chandler (2001)</strong> — the canonical experiment: a lightning-formation animation split into user-paced segments produced substantially better transfer than the continuous version.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — short, single-concept videos (typically under 10 minutes) rather than full lectures; each video is effectively one segment in a paced sequence.</li>
+<li><strong><a href="https://www.coursera.org">Coursera</a></strong> — lecture videos broken into 5–10 minute segments with in-video quiz prompts at segment boundaries.</li>
+<li><strong>PhET simulations</strong> (<a href="https://phet.colorado.edu">https://phet.colorado.edu</a>) — complex phenomena explored through discrete, learner-paced manipulations rather than a continuous animation.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Mayer, R. E., &amp; Chandler, P. (2001). When learning is just a click away: Does simple user interaction foster deeper understanding of multimedia messages? <em>Journal of Educational Psychology, 93</em>(2), 390–397. <a href="https://doi.org/10.1037/0022-0663.93.2.390">doi:10.1037/0022-0663.93.2.390</a></li>
+<li>Mayer, R. E. (2021). <em>Multimedia Learning</em> (3rd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/9781316941355">doi:10.1017/9781316941355</a></li>
+<li>Moreno, R. (2007). Optimising learning from animations by minimising cognitive load: cognitive and affective consequences of signalling and segmentation methods. <em>Applied Cognitive Psychology, 21</em>(6), 765–781. <a href="https://doi.org/10.1002/acp.1348">doi:10.1002/acp.1348</a></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the Science of Instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>segmenting</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Segmenting</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Breaking continuous instructional material (especially animation, video, or narration) into learner-paced segments to manage cognitive load.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-29</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

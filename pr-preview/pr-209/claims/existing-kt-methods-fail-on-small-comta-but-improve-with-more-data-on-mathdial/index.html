@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset. - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="existing-kt-methods-fail-to-beat-a-majority-class-baseline-on-the-small-comta-dialogue-dataset-but-perform-significantly-better-on-the-larger-mathdial-dataset">Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.<a class="headerlink" href="#existing-kt-methods-fail-to-beat-a-majority-class-baseline-on-the-small-comta-dialogue-dataset-but-perform-significantly-better-on-the-larger-mathdial-dataset" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> On CoMTA, all existing KT methods almost completely fail, unable to outperform the majority-class baseline (Acc. 57.83±5.08, AUC 50.0±0.00, F1 58.87±29.70). <a href="#alexander-scarlatos-2024">→ Alexander Scarlatos 2024</a>
+<code>q2 i?</code> On MathDial, which has 21x more data than CoMTA, existing KT methods perform significantly better, against a majority baseline Acc. of 52.64. <a href="#alexander-scarlatos-2024-2">→ Alexander Scarlatos 2024 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="alexander-scarlatos-2024">Alexander Scarlatos 2024<a class="headerlink" href="#alexander-scarlatos-2024" title="Permanent link">&para;</a></h3>
+<p>Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>CoMTA results of the benchmark comparison with 5-fold cross-validation: existing methods "almost completely fail, unable to outperform the simple baseline of predicting the majority class label", which scores Acc. of 57.83±5.08, AUC of 50.0±0.00, and F1 of 58.87±29.70.</p>
+<blockquote>
+<p>"On CoMTA, we see that all existing KT methods almost completely fail, unable to outperform the simple baseline of predicting the majority class label (which corresponds to an Acc. of 57.83±5.08, AUC of 50.0±0.00, and F1 of 58.87±29.70)."</p>
+</blockquote>
+<h3 id="alexander-scarlatos-2024-2">Alexander Scarlatos 2024 (2)<a class="headerlink" href="#alexander-scarlatos-2024-2" title="Permanent link">&para;</a></h3>
+<p>Alexander Scarlatos, Ryan S. Baker, and Andrew Lan. (2024). Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs. Published in LAK25: The 15th International Learning Analytics and Knowledge Conference. https://arxiv.org/abs/2409.16490</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>MathDial results of the same comparison: "existing KT methods perform significantly better" with 21x more data; the majority baseline gets an Acc. of 52.64 since class labels are balanced. No effect size is printed.</p>
+<blockquote>
+<p>"On MathDial, which has 21x more data than CoMTA, we see that existing KT methods perform significantly better (for reference, the majority baseline only gets an Acc. of 52.64 since class labels are balanced)."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues/">Llmkt Outperforms Existing Kt Methods On Tutoring Dialogues</a></li>
+<li><a href="../dialogue-kt-performance-is-relatively-low-compared-to-standard-kt/">Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task.</a> — related</li>
+<li><a href="../dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data/">DKT-Sem, a DKT variant using semantic text embeddings, performs better than existing KT methods on tutoring dialogues, with a smaller margin on the larger MathDial dataset.</a> — related</li>
+<li><a href="../llama2-qlora-unsatisfactory-for-teaching-quality-tasks/">Fine-tuning Llama2-7B with parameter-efficient methods yields unsatisfactory results for measuring subject-matter teaching practices, only marginally improving the majority baseline</a> — related</li>
+<li><a href="../standardized-benchmarks-too-generic-for-education/">Standardized benchmarks are often too generic to reflect the needs of innovative educational applications</a> — related</li>
+<li><a href="../clst-outperforms-baselines-cold-start/">In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-09-24</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>alexander-scarlatos-2024</code>, <code>alexander-scarlatos-2024-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

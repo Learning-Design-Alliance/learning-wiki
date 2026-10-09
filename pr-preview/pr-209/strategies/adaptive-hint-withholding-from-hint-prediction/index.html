@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="use-predicted-hint-taking-likelihood-and-hint-effects-to-adaptively-decide-whether-to-withhold-or-provide-hints">Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints<a class="headerlink" href="#use-predicted-hint-taking-likelihood-and-hint-effects-to-adaptively-decide-whether-to-withhold-or-provide-hints" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · no claims cited</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The article proposes that a learning environment use a hint-taking prediction model to make adaptive decisions on showing hints, because learners misuse on-demand hints. It suggests the environment "can proactively suggest hints to students who are stuck with a concept and have a low likelihood of taking a hint themselves", while withholding hints from students prone to abusing them without attempting the problem.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A trained hint-taking prediction model and knowledge tracing model over the learner's response and hint sequence.</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The article notes offering hints indiscriminately can lead to poor learning outcomes, and that integrating the two task predictions into long-term outcome-optimizing strategies is left as future work.</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Students in interactive e-learning environments with on-demand hints</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Regulating help-seeking behavior</li>
+<li>Improving learning outcomes through appropriately timed hints</li>
+</ul>
+<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../theories/colearn-multi-task-hint-knowledge-model/">Colearn Multi Task Hint Knowledge Model</a></li>
+</ul>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../hint-design/">Hint Design</a></li>
+<li><a href="../help-seeking/">Help Seeking</a></li>
+<li><a href="../encouraging_students_to_ask_for_help/">Encouraging Students to Ask for Help</a></li>
+<li><a href="../encouraging_help-seeking_behavior/">Encouraging Help-Seeking Behavior</a></li>
+<li><a href="../early-prediction-adaptive-pedagogical-strategy/">Use early student-model predictions to identify at-risk students and adapt pedagogical strategy during tutoring</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Ritwick Chaudhry, Harvineet Singh, Pradeep Dogga, and Shiv Kumar Saini. (2017). Modeling Hint-Taking Behavior and Knowledge State of Students with Multi-Task Learning. Proceedings of the 11th International Conference on Educational Data Mining. https://educationaldatamining.org/</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>adaptive-hint-withholding-from-hint-prediction</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The article proposes that a learning environment use a hint-taking prediction model to make adaptive decisions on showing hints, because learners misuse on-demand hints.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-09-25</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>ritwick-chaudhry-2017</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

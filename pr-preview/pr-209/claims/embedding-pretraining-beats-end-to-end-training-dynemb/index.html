@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="embedding-pretraining-outperforms-end-to-end-training-in-dynemb-avoiding-the-overfitting-that-end-to-end-training-exhibits">Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits<a class="headerlink" href="#embedding-pretraining-outperforms-end-to-end-training-in-dynemb-avoiding-the-overfitting-that-end-to-end-training-exhibits" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> On ASSISTment09 under the Most Recent evaluation, end-to-end training caused overfitting while the pretraining strategy's learning curve showed neither overfitting nor underfitting, and pretraining was also computationally more efficient. <a href="#liangbei-xu-and-mark-a-davenport-2020">→ Liangbei Xu and Mark A. Davenport 2020</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="liangbei-xu-and-mark-a-davenport-2020">Liangbei Xu and Mark A. Davenport 2020<a class="headerlink" href="#liangbei-xu-and-mark-a-davenport-2020" title="Permanent link">&para;</a></h3>
+<p>Liangbei Xu and Mark A. Davenport. (2020). Dynamic Knowledge Embedding and Tracing. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020). https://educationaldatamining.org</p>
+<p><code>q2 · i? · the article prints no effect size for this finding</code> · <code>design · r2</code></p>
+<p>Experiment 3 compared training strategies on ASSISTment09 using the Most Recent evaluation method, plotting training and testing log-loss in Figure 4; end-to-end training overfit while the pretraining strategy did not, and pretraining also improved computational efficiency.</p>
+<blockquote>
+<p>"In Figure 4, we can see that end-to-end (E2E for short) training (with/without pretraining the ques- tion embedding) will cause over-ﬁtting, while the learning curve of proposed pretraining strategy does not suﬀer from over-ﬁtting or under-ﬁtting."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../dynemb-tracks-knowledge-without-skill-tags/">Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVMN performance, while DynEmb tracks knowledge using pretrained question embeddings instead of tags</a> — related</li>
+<li><a href="../dynemb-performance-stable-across-embedding-dimensionality/">DynEmb's response-prediction AUC is stable over a wide range of question-embedding dimensionalities</a> — related</li>
+<li><a href="../dynemb-outperforms-dkt-and-bmf-baselines/">DynEmb outperforms BMF and DKT baselines in future response prediction across five tutoring datasets, with AUC improvement up to 5.43% in the New User setting</a> — related</li>
+<li><a href="../model1-outperforms-complex-model2/">The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture</a> — related</li>
+<li><a href="../dynemb-question-embedding-clusters-by-skill/">The learned question embedding aligns with manually labeled skill categories, showing clear clustering of questions by skill in a multidimensional scaling visualization</a> — related</li>
+<li><a href="../pretraining-improves-transfer/">Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>embedding-pretraining-beats-end-to-end-training-dynemb</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-09-25</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>liangbei-xu-and-mark-a-davenport-2020</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

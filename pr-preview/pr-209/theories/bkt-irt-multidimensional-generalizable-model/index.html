@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../theories/">Theories</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Theory">
+<h1 id="bktirt-bayesian-knowledge-tracing-augmented-with-multidimensional-generalizable-student-abilities-and-problem-effects">BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects<a class="headerlink" href="#bktirt-bayesian-knowledge-tracing-augmented-with-multidimensional-generalizable-student-abilities-and-problem-effects" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Theory</strong> · <a href="../">All theories</a>
+<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>BKT+IRT merges BKT's temporal hidden-state dynamics with IRT-style student ability and problem difficulty effects: student ability and problem-specific offsets modulate BKT's guessing, slipping, learning, and forgetting probabilities via logit offsets. Student abilities are multidimensional (learning, not-forgetting, guessing, not-slipping dimensions), and new students' abilities are inferred by a sequential Bayesian update over discretized ability values or learnable student prototypes. The article states this "merges BKT temporal dynamics with problem and student effects from IRT models", retaining interpretable parameters unlike black-box NN models.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Requires an answer sequence split by KC and V BKT layers (one per ability level) combined via a sequential Bayesian update layer</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The model assumes new students can be categorized into roughly the same prototypes learned during training, which the authors judge reasonable for large student cohorts</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>students practicing exercises in intelligent tutoring systems</li>
+</ul>
+<h3 id="target-learning-objectives">Target Learning Objectives<a class="headerlink" href="#target-learning-objectives" title="Permanent link">&para;</a></h3>
+<ul>
+<li>prediction of student performance to enable adaptive exercise selection</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Multidimensional Abilities Improve Unidimensional Some Datasets [+M]</li>
+<li><a href="../../claims/bkt-irt-matches-dkt-some-datasets/">Bkt Irt Matches Dkt Some Datasets</a> [+M]</li>
+<li><a href="../../claims/bkt-extensions-close-to-state-of-art-auc/">On seven of eight real-world datasets, the novel BKT extensions achieve prediction performance within 0.04 AUC-ROC points of state-of-the-art models</a> [+W]</li>
+</ul>
+<h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Adaptive Learning</li>
+<li><a href="../bkt-two-state-hmm-student-model/">Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories</a></li>
+<li><a href="../bayesian-knowledge-tracing-two-state-model/">Bayesian Knowledge Tracing (Two-State Hidden Markov Model)</a></li>
+<li><a href="../bkt-four-parameter-two-form-model/">Bayesian Knowledge Tracing: a four-parameter student-learning model in two forms (HMM and Knowledge Tracing Algorithm)</a></li>
+<li><a href="../bkt-mastery-updating-model/">Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Khajah, M. M. (2024). Supercharging BKT with Multidimensional Generalizable IRT and Skill Discovery. Journal of Educational Data Mining, Volume 16, No 1, 2024. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/16-1</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>theory</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>BKT+IRT merges BKT's temporal hidden-state dynamics with IRT-style student ability and problem difficulty effects: student ability and problem-specific offsets modulate BKT's guessing, slipping, learning, and forgetti...</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-09-27</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>khajah-2024</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

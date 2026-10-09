@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../theories/">Theories</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Theory">
+<h1 id="bayesian-knowledge-tracing-as-a-model-of-changing-skill-mastery-during-game-based-assessment">Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment<a class="headerlink" href="#bayesian-knowledge-tracing-as-a-model-of-changing-skill-mastery-during-game-based-assessment" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Theory</strong> · <a href="../">All theories</a>
+<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>BKT models students' changing knowledge states during practice by updating, after each response, the probability that a skill is mastered. It parameterizes initial mastery, transition to mastery after an opportunity, slipping, and guessing, and updates mastery conditional on each correct or incorrect response. The article applies it to Raging Skies by treating each storm-feature measurement as a subskill updated per opportunity, and storm-type identification as evidence for the general interpreting skill. The authors note it "typically models the first attempts of solving a problem".</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Tasks must be scoreable as correct or incorrect per step, with retry actions removed so first attempts are modeled</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Assumes model parameters do not vary with time, a simplification relative to DBN</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Grade 5 science students</li>
+</ul>
+<h3 id="target-learning-objectives">Target Learning Objectives<a class="headerlink" href="#target-learning-objectives" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Weather observation and interpretation skills from the Weather Watch unit</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/bkt-fits-raging-skies-process-data/">Bkt Fits Raging Skies Process Data</a> [+M]</li>
+<li><a href="../../claims/bkt-mastery-profile-weather-skills/">Bkt Mastery Profile Weather Skills</a> [+M]</li>
+</ul>
+<h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../bayesian-knowledge-tracing-two-state-model/">Bayesian Knowledge Tracing (Two-State Hidden Markov Model)</a></li>
+<li><a href="../bkt-four-parameter-two-form-model/">Bayesian Knowledge Tracing: a four-parameter student-learning model in two forms (HMM and Knowledge Tracing Algorithm)</a></li>
+<li><a href="../bkt-two-state-hmm-student-model/">Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories</a></li>
+<li><a href="../bkt-irt-multidimensional-generalizable-model/">BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects</a></li>
+<li><a href="../ms-bkt-multistate-recency-weight-model/">MS-BKT: a multistate knowledge tracing model with data-driven recency weights replacing the learning rate</a></li>
+<li><a href="../spectral-bkt-model/">Spectral BKT: a BKT variant combining feature compensation (3-gram observations) with model compensation (four latent states)</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Ying Cui, Man-Wai Chu, Fu Chen. (2019). Analyzing Student Process Data in Game-Based Assessments with Bayesian Knowledge Tracing and Dynamic Bayesian Networks. Journal of Educational Data Mining, Volume 11, No 1. https://jedm.educationaldatamining.org/index.php/JEDM/article/view/397</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>theory</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>BKT models students' changing knowledge states during practice by updating, after each response, the probability that a skill is mastered.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-09</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>ying-cui-2019</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

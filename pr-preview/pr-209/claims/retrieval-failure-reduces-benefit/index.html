@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Retrieval Failure Reduces Benefit - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="retrieval-failure-reduces-benefit">Retrieval Failure Reduces Benefit<a class="headerlink" href="#retrieval-failure-reduces-benefit" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · quant-synthesis <code>r?</code> · <code>q4</code> · n=159 effect sizes (61 studies)</p>
+</blockquote>
+<p>When learners attempt retrieval practice but fail to successfully retrieve the target information, the learning benefit of the retrieval attempt is reduced compared with successful retrieval. The claim concerns the <em>quality</em> of the retrieval attempt, not the presence of failure per se — see Discussion for boundary conditions.</p>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q4 i?</code> Across the testing-effect literature, the memory benefit of a retrieval attempt scales with how often retrieval succeeds: without corrective feedback, initial recall performance at or below 50% produced no reliable testing effect, while effects grew significantly larger as retrieval success rose toward and beyond 75%. <a href="#rowland-2014">→ Rowland 2014</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="rowland-2014">Rowland 2014<a class="headerlink" href="#rowland-2014" title="Permanent link">&para;</a></h3>
+<p>Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. <em>Psychological Bulletin, 140</em>(6), 1432–1463. <a href="https://doi.org/10.1037/a0037559">doi:10.1037/a0037559</a></p>
+<p><code>q4 · meta-analytic review (random-effects model, 159 effect sizes from 61 studies)</code> · <code>i? · effect differs by subgroup: g=0.03 at ≤50% initial recall, g=0.56 at &gt;75%</code> · <code>n=159 effect sizes (61 studies)</code> · <code>quant-synthesis · r?</code></p>
+<p>This meta-analysis pooled 159 effect sizes from 61 published and unpublished studies comparing final retention of tested vs. restudied material (Hedges's g, random-effects model). A dedicated "retrievability and reexposure" moderator analysis split the no-feedback studies by how often the initial retrieval attempt succeeded. Where more than half of initial retrieval attempts failed (≤50% correct) and no feedback followed, the testing effect was statistically indistinguishable from zero; as the proportion of successful retrievals rose (51–75%, then &gt;75%), the size of the benefit rose with it, and studies that provided feedback after retrieval (regardless of initial success) showed the largest effects of all. The pattern directly supports <a href="../../elements/practice/">practice</a> calibrated to a learner's likely success and pairing failed attempts with feedback, as this claim's Discussion recommends.</p>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<p><strong>Why failure matters.</strong> Retrieval practice is among the most robust learning strategies, but its benefit is not automatic. A retrieval attempt appears to produce learning primarily when it succeeds — the act of reconstructing an answer strengthens the memory trace. When learners cannot retrieve the answer at all, the attempt may contribute little, and if learners then immediately see the answer, the failed attempt can function as passive re-exposure rather than active reconstruction. This connects to the broader principle that <a href="../../principles/cognitive-load-management/">cognitive load management</a> matters: a retrieval task pitched far beyond what the learner can access may consume effort without producing consolidation.</p>
+<p><strong>Moderators and boundary conditions.</strong> The claim should not be read as "failure is always bad." Partial retrieval — recalling fragments, related cues, or the gist — may still confer benefit, and some literature on pretesting and errorful learning suggests that unsuccessful attempts followed by feedback can outperform study alone under certain conditions. The critical variables appear to be (a) whether the learner makes a genuine retrieval attempt rather than giving up immediately, (b) whether feedback follows the attempt, and (c) whether task difficulty is calibrated so that retrieval is challenging but achievable. Designers using <a href="../../elements/practice/">retrieval practice</a> should therefore ensure learners possess enough prior knowledge to have a realistic chance of success — for example by <a href="../activation-improves-learning/">activating prior knowledge</a> before quizzing — and should pair difficult retrieval attempts with timely corrective feedback.</p>
+<p><strong>Design implications.</strong> Calibrate question difficulty so most learners can retrieve with effort; scaffold with cues or <a href="../chunking-reduces-working-memory-load/">chunking</a> when material exceeds what learners can access; and always follow failed attempts with feedback that allows successful restudy. Repeated outright failure should trigger adaptation of difficulty rather than more of the same practice — a principle consistent with <a href="../../principles/adaptive-learning/">adaptive learning</a> approaches that adjust item difficulty to learner performance.</p>
+<p><strong>Open questions.</strong> The precise threshold at which retrieval difficulty stops helping and starts hurting is unresolved, as is the role of learner motivation: repeated retrieval failure may also carry affective costs that erode engagement and <a href="../../elements/belonging/">belonging</a>, independent of any direct cognitive effect. Whether partial retrieval (gist or fragments) yields benefits proportional to its completeness, and how feedback timing interacts with retrieval success, remain open empirical questions.</p>
+<p><strong>Evidence status.</strong> The meta-analysis recorded above supports the claim through a moderator analysis, not a direct manipulation of retrieval success, so the pattern is correlational across groups of studies. Pretesting and errorful-learning studies, where failed retrieval followed by feedback helps, are a counterpoint recorded on the <a href="../pretesting-enhances-learning/">pretesting claim page</a>.</p>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> — organizing material into chunks raises the chance that retrieval attempts succeed</li>
+<li><a href="../activation-improves-learning/">Activation improves learning.</a> — activating relevant prior knowledge raises the odds that a retrieval attempt succeeds</li>
+<li><a href="../adaptive-learning-improves-outcomes/">Adaptive learning improves outcomes.</a> — adjusting difficulty to the learner helps keep retrieval attempts in the productive, challenging-but-achievable zone</li>
+<li><a href="../../principles/cognitive-load-management/">Cognitive load management.</a> — the theoretical framework for calibrating task difficulty to learner capacity</li>
+<li><a href="../desirable-difficulties-enhance-learning/">Desirable Difficulties Enhance Learning</a> — related</li>
+<li><a href="../pretesting-can-harm-motivation/">Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it</a> — related</li>
+<li><a href="../pretesting-enhances-learning/">Pretesting enhances learning</a> — related</li>
+<li><a href="../repeated-retrieval-success-predicts-final-recall/">Repeated successful retrieval during learning predicted final recall in both experiments</a> — related</li>
+<li><a href="../retrieval-practice-improves-retention/">Retrieval practice improves long-term retention</a> — a broader claim this one bears on</li>
+<li><a href="../retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent/">Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects</a> — possibly the same claim (merge candidate)</li>
+<li><a href="../unsuccessful-retrieval-smaller-benefit-than-successful/">Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty</a> — a narrower finding that bears on this claim</li>
+<li><a href="../espark-post-quiz-mastery-failure-rate/">In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>retrieval-failure-reduces-benefit</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Retrieval Failure Reduces Benefit</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-09-25</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>rowland-2014</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

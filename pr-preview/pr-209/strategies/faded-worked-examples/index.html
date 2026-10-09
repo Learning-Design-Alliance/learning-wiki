@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Faded Worked Examples - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="faded-worked-examples">Faded Worked Examples<a class="headerlink" href="#faded-worked-examples" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 4 claims (3 for, 1 mixed) · 6 studies (3 causal, 1 quant-synthesis, 1 review, 1 theoretical), <code>q3</code>–<code>q4</code> · 1 of 6 report an effect size · 1 claim rests on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Faded worked examples present a series of problems in which the expert's solution is initially complete, then progressively incomplete — first the final steps are omitted (backward fading), later earlier steps (forward fading), until the learner solves entire problems independently. The technique operationalizes <a href="../../principles/scaffolding/">Scaffolding</a> within example-based learning: support is withdrawn in step-sized increments matched to growing competence.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Fading combines the working-memory benefits of <a href="../../principles/worked-examples/">Worked Examples</a> for novices with the practice benefits of problem solving, avoiding the pitfalls of either alone <a href="../../claims/worked-examples-with-practice-improve-transfer/">Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer</a> [+S]. Completion problems — where learners fill in the missing steps — force active processing of the faded portion rather than passive reading <a href="../../claims/worked-examples-reduce-novice-search/">Worked examples reduce unnecessary search for novices.</a> [+M]. Fading should be calibrated to expertise: fading too slowly wastes time for fast learners, too quickly reintroduces unguided search <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M].</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A problem domain with structured, step-based solutions (algebra, physics, programming, argument construction)</li>
+<li>A sequence of isomorphic or near-isomorphic problems so faded steps build on the same schema</li>
+<li>Completion prompts at each faded step, ideally with self-explanation prompts asking <em>why</em> the step works</li>
+<li>A diagnostic or adaptive mechanism (or instructor judgment) for deciding when to fade further</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Ineffective when learners lack the knowledge to complete faded steps — premature fading produces guessing and error encoding [-S]</li>
+<li>Poor fit for ill-structured domains with no canonical solution steps; use <a href="../../elements/case-studies/">Case Studies</a> or <a href="../../elements/comparing-cases/">Comparing Cases</a> instead</li>
+<li>Static fading schedules ignore individual differences; fixed sequences can bore advanced learners and overwhelm novices [~M] — adaptive fading mitigates this</li>
+<li>Learners who skip the example and jump to the problem lose the benefit; design must make studying the worked portion necessary</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Backward fading</strong> (omit final steps first) is generally easier and slightly more effective than forward fading, especially for low-knowledge learners [+W]</li>
+<li><strong>Adaptive fading</strong> — fading triggered by learner performance on completion steps rather than a fixed schedule (Renkl &amp; Atkinson's approach)</li>
+<li><strong>Alternating example–problem pairs</strong> — each worked example immediately followed by an isomorphic problem, a simpler variant of fading</li>
+<li><strong>Self-explanation prompts</strong> appended to worked steps to deepen processing without changing the fade schedule</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Novices in a structured domain, who benefit from full guidance before independent problem solving <a href="../../claims/worked-examples-reduce-novice-search/">Worked examples reduce unnecessary search for novices.</a> [+M]</li>
+<li>Low-prior-knowledge learners, for whom premature problem solving imposes extraneous load <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+M]</li>
+<li>Less beneficial for advanced learners, who learn more from problem solving than from studying examples <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M] — the <a href="../../theories/expertise-reversal-effect/">expertise reversal effect</a> applies to the fade schedule itself</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Procedural fluency in well-structured domains (mathematics, science, programming)</li>
+<li>Schema acquisition: recognizing which solution method applies to which problem</li>
+<li>Transfer to near problems with changed surface features <a href="../../claims/worked-examples-with-practice-improve-transfer/">Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer</a> [+S]</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Select a problem sequence of increasing complexity within one solution schema.</li>
+<li>Present the first problem as a fully worked example with reasoning annotations (<a href="../../elements/think-aloud/">Think-Aloud</a> or written rationale).</li>
+<li>Present the second problem with the final one or two steps omitted; learners complete them (<a href="../../elements/practice/">Practice</a>).</li>
+<li>Fade earlier steps across subsequent problems until learners solve full problems unaided.</li>
+<li>Add self-explanation prompts ("Why is this step valid?") at worked steps to prevent passive copying.</li>
+<li>Monitor completion accuracy; slow the fade if error rates spike, accelerate it for learners solving completions quickly (<a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a>).</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../use_worked_examples/">Use Worked Examples</a> — the non-faded parent strategy; fading is its dynamic extension</li>
+<li><a href="../self-explanation-prompts/">Self-Explanation Prompting</a> — the standard companion, converting example study into generative processing</li>
+<li><a href="../interleaving/">Interleaving</a> — faded sequences can be interleaved across problem types to build discrimination</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Atkinson, Renkl &amp; Merrill's adaptive algebra tutor</strong> — computer-based faded worked examples in probability and algebra where fading was contingent on completion-step performance (see Renkl &amp; Atkinson, 2003, below).</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — hint systems function as on-demand fading: each successive hint reveals one more solution step, letting learners complete the remainder themselves.</li>
+<li><strong><a href="https://www.codecademy.com">Codecademy</a></strong> — early lessons provide full code to run, then partially completed code with TODO markers, then blank scaffolds — a fade from example to independent coding.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Renkl, A., &amp; Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. <em>Educational Psychologist, 38</em>(1), 15–22. <a href="https://doi.org/10.1207/S15326985EP3801_3">doi:10.1207/S15326985EP3801_3</a></li>
+<li>Renkl, A., Atkinson, R. K., &amp; Große, C. S. (2004). How fading worked solution steps works — a cognitive load perspective. <em>Instructional Science, 32</em>(1–2), 59–82. <a href="https://doi.org/10.1023/b:truc.0000021815.74806.f6">doi:10.1023/b:truc.0000021815.74806.f6</a></li>
+<li>Sweller, J., &amp; Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. <em>Cognition and Instruction, 2</em>(1), 59–89. <a href="https://doi.org/10.1207/s1532690xci0201_3">doi:10.1207/s1532690xci0201_3</a></li>
+<li>van Gog, T., &amp; Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. <em>Educational Psychology Review, 22</em>(2), 155–174. <a href="https://doi.org/10.1007/s10648-010-9134-7">doi:10.1007/s10648-010-9134-7</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>faded-worked-examples</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Faded Worked Examples</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>A sequence that begins with fully worked examples and progressively removes solution steps, transferring responsibility from the model to the learner.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

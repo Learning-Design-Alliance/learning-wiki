@@ -1,0 +1,1139 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A reusable question, individual vote, peer discussion, revote and explanation policy for conceptual questions, with an isomorphic individual check to separate revised reasoning from copying.">
+      
+      
+        <meta name="author" content="Eric Mazur">
+      
+      
+        <link rel="canonical" href="https://learning-design-alliance.github.io/learning-wiki/patterns/peer-instruction/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../branding/lazuli-favicon.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Peer Instruction - Learning Design Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../branding/lazuli-theme.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#peer-instruction" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Learning Design Wiki" class="md-header__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lazuli-monogram-lapis.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Learning Design Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Peer Instruction
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <form class="lt-header-search" action="../../search/" role="search" style="margin:0 .6rem;align-self:center"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki" style="font:inherit;font-size:.7rem;padding:.25rem .5rem;border-radius:.2rem;border:0;width:11rem;max-width:30vw;background:var(--md-default-bg-color);color:var(--md-default-fg-color)"></form><div class="md-header__source">
+        <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Learning Design Wiki" class="md-nav__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lazuli-monogram-lapis.svg" alt="logo">
+
+    </a>
+    Learning Design Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../search/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Search
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../principles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patterns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../products/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Products & Programmes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../research-methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../theories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Theories
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../claims/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claims
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CLAUDE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema & Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#description-and-scope" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Description and scope
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inputs-establish-the-design-brief" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Inputs: establish the design brief
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sequence-and-conditional-policy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sequence and conditional policy
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#choosing-configurations-from-evidence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Choosing configurations from evidence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-evidence-not-yet-read-against-this-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Further evidence, not yet read against this model
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#illustrative-design-instance-and-observation-record" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Illustrative design instance and observation record
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elements-and-limits" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elements and limits
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Related Patterns
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Examples
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Key Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset" data-pagefind-body data-pagefind-filter="kind:Pattern"><span data-pagefind-filter="tier:canonical"></span>
+                
+                  
+
+
+
+<h1 id="peer-instruction">Peer Instruction<a class="headerlink" href="#peer-instruction" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Pattern</strong> · <a href="../">All patterns</a>
+<strong>Evidence</strong> · 9 claims (4 for, 5 mixed) · 19 studies (5 causal, 5 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), <code>q2</code>–<code>q4</code> · 4 of 19 report an effect size · 4 claims rest on one study</p>
+</blockquote>
+<h2 id="description-and-scope">Description and scope<a class="headerlink" href="#description-and-scope" title="Permanent link">&para;</a></h2>
+<p>A reusable policy for using a conceptual question to elicit an individual committed answer, have learners discuss their reasoning with peers, collect a second answer and close with explanation: <strong>question → individual vote → peer discussion → revote → explanation</strong>. It instantiates the <a href="../../principles/peer-discussion/">Peer Discussion principle</a>. The study configurations below are evidence; the response-dependent policy (when to discuss, when to explain, when to move on) is an <strong>untested design proposal</strong>. Use it to collect better observations of reasoning, not to certify that a class has understood because a revote converged.</p>
+<h2 id="inputs-establish-the-design-brief">Inputs: establish the design brief<a class="headerlink" href="#inputs-establish-the-design-brief" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Record or elicit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learner and starting observation</td>
+<td>Each learner's individual answer and, where possible, confidence and a one-line reason; the class distribution; task-specific prior instruction. Preserve unknowns rather than labelling the class "novice".</td>
+</tr>
+<tr>
+<td>Context and activities</td>
+<td>Setting (<code>classroom</code>, <code>online-instructor-led</code>), class and group size, response mode (clickers, cards, digital poll, written), time per cycle, whether the distribution is shown before discussion, how groups are formed, language and access conditions, and what the instructor explains afterwards.</td>
+</tr>
+<tr>
+<td>Learner-valued goal</td>
+<td>Ask what learners want from the discussion and why. Record disagreement with the designer's objective; do not assume that participation means agreement.</td>
+</tr>
+<tr>
+<td>Designer objective</td>
+<td>The concept or principle targeted, the misconception or alternative the question is built to separate, and whether the aim is answering this kind of question, explaining it, or applying it to an unfamiliar case.</td>
+</tr>
+<tr>
+<td>Outcome</td>
+<td>An individual answer on a new isomorphic question, a justification rubric, and the horizon (<code>immediate</code> in-class, or <code>delayed</code>); any course exam or concept inventory used, and how closely it matches the questions practised.</td>
+</tr>
+</tbody>
+</table>
+<p>A request to "make lectures more interactive" does not specify these inputs. Ask for them before prescribing a cycle length, a correct-answer threshold for discussion, or an expected gain. Check that the question has one defensible answer and that its distractors represent reasoning learners actually hold.</p>
+<h2 id="sequence-and-conditional-policy">Sequence and conditional policy<a class="headerlink" href="#sequence-and-conditional-policy" title="Permanent link">&para;</a></h2>
+<ol>
+<li><strong>Pose the question and collect individual answers.</strong> No discussion before the first vote. Record the distribution and, if feasible, confidence and reasons. Withhold the correct answer.</li>
+<li><strong>Decide whether to discuss.</strong> Use the distribution as one observation, not a rule: a split class suggests reasoning worth exchanging; near-unanimity in either direction may call for explanation or a harder question. Any threshold is a local choice; the evidence here does not set one.</li>
+<li><strong>Peer discussion of reasoning.</strong> Ask learners to convince a neighbour of their answer by giving a reason, not to agree on a letter. Circulate and sample what groups say.</li>
+<li><strong>Revote, then an isomorphic check.</strong> Collect a second individual answer. Where the aim is understanding, follow with a new isomorphic question answered alone, since the revote cannot separate revision from copying.</li>
+<li><strong>Explain and reobserve.</strong> Explain why the stronger reasoning is stronger, address the distractors chosen, and recheck at the stated horizon. If observations disagree with the expectation, revise the question, grouping or explanation rather than the interpretation.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Observation</th>
+<th>Discriminating probe</th>
+<th>Proposed action, with its uncertainty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Individual answers split across options</td>
+<td>Ask a sample of learners for their reasons before discussion.</td>
+<td>Run peer discussion, then revote and an isomorphic question. If reasons show the question is ambiguous rather than diagnostic, fix the question; the split itself does not say which.</td>
+</tr>
+<tr>
+<td>Most answer correctly on the first vote</td>
+<td>Ask for a justification or pose an isomorphic question with changed surface features.</td>
+<td>If justifications hold, explain briefly and move on; if they do not, the correct answers may be guesses or recognition, and a harder or changed question may be needed.</td>
+</tr>
+<tr>
+<td>Few answer correctly on the first vote</td>
+<td>Ask what learners took the question to be asking; check whether the needed concept was ever taught.</td>
+<td>Consider explanation or a simpler bridging question before discussion. Discussion among learners who share one misconception may reinforce it; this is a proposal, not a tested branch.</td>
+</tr>
+<tr>
+<td>Revote converges, isomorphic question does not improve</td>
+<td>Compare who changed answers with who spoke first or most confidently in each group.</td>
+<td>Treat the revote gain as possible copying; add instructor explanation and another isomorphic check rather than declaring understanding.</td>
+</tr>
+<tr>
+<td>Some groups talk little or one member dominates</td>
+<td>Ask privately or in writing for each learner's reasoning; vary group composition on the next question.</td>
+<td>Adjust grouping, roles or response mode. Neither silence nor talk volume alone establishes understanding.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="choosing-configurations-from-evidence">Choosing configurations from evidence<a class="headerlink" href="#choosing-configurations-from-evidence" title="Permanent link">&para;</a></h2>
+<ul>
+<li>For a check that separates revision from copying, <a href="../../claims/peer-discussion-improves-conceptual-understanding/">the isomorphic-question design</a> [+M] supports following the revote with a new isomorphic question answered alone. In the recorded comparison, peer discussion followed by instructor explanation exceeded either alone in undergraduate genetics courses; that is one quasi-experimental classroom study with no standardized effect size, and its "similar gains" detail could not be confirmed from the abstract. It supports keeping the explanation step, not dropping it.</li>
+<li>For the expectation over a course, <a href="../../claims/active-learning-improves-exam-performance/">active learning in undergraduate STEM</a> [+M] reports 0.47 SD higher exam and concept-inventory scores than traditional lecturing across 158 studies, largest on concept inventories and in small classes, and gap narrowing only under high-intensity active learning. Peer instruction is one of many formats pooled; the synthesis does not isolate it, and the entries have not been confirmed against their sources.</li>
+<li>For what the vote alone may contribute, <a href="../../claims/classroom-quizzing-improves-exam-performance-across-grades-and-content/">classroom quizzing</a> [+W] is reported (second-hand, via a review chapter) to improve classroom exams without any discussion step. A design that drops discussion is a different configuration, and gains from the full cycle should not be attributed to discussion alone.</li>
+<li>For what the cycle may not change, <a href="../../claims/reformed-pedagogy-content-gains-but-no-reasoning-gains/">content gains without reasoning gains</a> [~W] records normalized gains of about 0.38–0.42 on content instruments but 0.06 on a scientific-reasoning test under an active-engagement pedagogy, in an associational study with no comparison group, not yet checked. Do not expect concept-question practice to build general reasoning ability unless that is taught and measured.</li>
+<li>For grouping, <a href="../../claims/cooperative-conceptual-change-chemistry-misconceptions/">poor group leadership</a> [~W] is reported (second-hand) to have prevented effective discussion in cooperative conceptual-change groups in community-college chemistry. Watch who closes the discussion.</li>
+</ul>
+<p>Do not convert a normalized gain into a d, rank these studies by effect labels, or predict delayed retention from in-class revote changes. A precise abstention names the missing comparison, target or observation and the next way to resolve it.</p>
+<h2 id="further-evidence-not-yet-read-against-this-model">Further evidence, not yet read against this model<a class="headerlink" href="#further-evidence-not-yet-read-against-this-model" title="Permanent link">&para;</a></h2>
+<!-- Restored 2026-10-01 (maintainer's decision): claims this page cited before the 2026-10-01 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+<p>Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.</p>
+<ul>
+<li><a href="../../claims/self-explanation-improves-conceptual-understanding/">Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.</a> [+S] — not settled: the text available could not confirm the entries (abstract)</li>
+<li><a href="../../claims/self-monitoring-improves-self-regulation/">Self-monitoring improves self-regulation and supports better learning decisions.</a> [~M] — not settled: the text available could not confirm the entries (abstract)</li>
+<li><a href="../../claims/contingent-scaffolding-improves-learning/">Contingent scaffolding improves learning more than fixed or absent support.</a> [~M] — not settled: the text available could not confirm the entries (abstract)</li>
+<li><a href="../../claims/specific-difficult-goals-lead-to-higher-performance/">Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.</a> [~M] — not yet checked against its sources</li>
+</ul>
+<h2 id="illustrative-design-instance-and-observation-record">Illustrative design instance and observation record<a class="headerlink" href="#illustrative-design-instance-and-observation-record" title="Permanent link">&para;</a></h2>
+<p><em>Invented illustration, not a tested lesson.</em> In an introductory physics lecture, the instructor poses a question on whether a heavier and a lighter ball dropped together land at the same time. Individual answers split between two options. A learner says she wants to be able to explain her answer to a younger sibling; the instructor's objective is reasoning about acceleration that transfers to an inclined-plane case. After discussion and revote, learners answer an isomorphic question about two carts on a ramp alone, then the instructor explains and asks for a one-line justification; the same kind of question returns on a quiz the following week. These are local design choices; the evidence above does not establish their optimality.</p>
+<p>Record: <strong>question and intended distinction → individual answer, confidence and reason → distribution shown or withheld → group composition and sampled talk → revote → isomorphic individual answer → candidate interpretations (revision, copying, convergence) and their basis → instructor explanation given → next observation at the stated horizon</strong>. Preserve the learner's stated purpose and any change in it. An agent may summarize this record but must not fabricate missing inputs or assign numerical probabilities of understanding without a calibrated model.</p>
+<h2 id="elements-and-limits">Elements and limits<a class="headerlink" href="#elements-and-limits" title="Permanent link">&para;</a></h2>
+<p><a href="../../elements/conceptest/">ConcepTest</a>, <a href="../../elements/conceptual-questioning/">conceptual questioning</a>, <a href="../../elements/misconception-probes/">misconception probes</a>, <a href="../../elements/peer-discussion/">peer discussion</a>, <a href="../../elements/reassessment/">reassessment</a>, <a href="../../elements/feedback/">feedback</a> and <a href="../../elements/debrief/">debrief</a>. Principles the cycle draws on: <a href="../../principles/peer-discussion/">Peer Discussion</a>, <a href="../../principles/formative-assessment/">Formative Assessment</a>, <a href="../../principles/immediate-feedback/">Immediate Feedback</a> and <a href="../../principles/purposeful-reflection/">Purposeful Reflection</a>.</p>
+<p>This pattern is scoped to conceptual questions with a defensible answer. Open-ended discussion, procedural fluency, first exposure to unfamiliar material and attitude change need different configurations and evidence. The policy supports observation and design reasoning; its branches, any discussion threshold and its effect on delayed or transfer outcomes remain to be tested with learners.</p>
+<h2 id="related-patterns">Related Patterns<a class="headerlink" href="#related-patterns" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../think-pair-share/">Think-Pair-Share</a></li>
+<li><a href="../discussion-based-learning/">Discussion Group</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Physics learners debating force or motion concept questions before repolling.</li>
+<li>Medical learners comparing diagnostic reasoning on a conceptual clinical prompt.</li>
+<li>Math or engineering classes using concept checks before moving into longer problem work.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Mazur, E. (1997). <em>Peer instruction: A user's manual</em>. Prentice Hall.</li>
+<li>Crouch, C. H., &amp; Mazur, E. (2001). Peer instruction: Ten years of experience and results. <em>American Journal of Physics, 69</em>(9), 970-977. <a href="https://doi.org/10.1119/1.1374249">https://doi.org/10.1119/1.1374249</a></li>
+<li>Hake, R. R. (1998). Interactive-engagement versus traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses. <em>American Journal of Physics, 66</em>(1), 64-74. <a href="https://doi.org/10.1119/1.18809">doi:10.1119/1.18809</a></li>
+<li>Deslauriers, L., Schelew, E., &amp; Wieman, C. (2011). Improved learning in a large-enrollment physics class. <em>Science, 332</em>(6031), 862-864. <a href="https://doi.org/10.1126/science.1201783">doi:10.1126/science.1201783</a></li>
+<li>Arduini-Van Hoose, N. (2020). Flipped classroom. In <em>Educational psychology</em>. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.</li>
+</ul>
+<!-- deprecated 2026-10-01: superseded by the conditional model above; the body it replaced, kept verbatim.
+
+## Description
+Peer Instruction is a pattern in which learners first answer a conceptual question individually, then discuss their reasoning with peers, and then answer again before instructor debrief. The key mechanism is not the poll itself. It is the combination of commitment, peer explanation, reconsideration, and feedback that helps learners confront misconceptions and refine understanding.
+
+The pattern is especially effective for conceptual questions that require reasoning rather than recall. It works well in large classes because it creates active processing without needing the instructor to hear every learner individually.
+
+In practice, students typically answer individually via clickers or a handheld response system (anonymously, with results visible immediately to the instructor); if a large fraction of the class (usually 30-65%) answers incorrectly, students discuss in small groups while the instructor circulates, then answer again, with the instructor closing the cycle by explaining the correct answer and following up with related questions — each full cycle typically taking 13-15 minutes. The evidence for its effectiveness is unusually well quantified: Hake's (1998) large survey compared 2,084 students in 14 traditionally-taught introductory physics courses against 4,458 students in 48 courses using "interactive engagement" methods (broadly, active, feedback-rich approaches including peer instruction), finding pre/post-test learning gains almost two standard deviations higher for the interactive-engagement group (0.48 ± 0.14 vs. 0.23 ± 0.04). Assessing peer instruction specifically across eight years at Harvard, Crouch and Mazur (2001) found even larger gains (0.49 to 0.74), compared to just 0.25-0.40 for traditionally-taught sections at the same institution during the same period. Deslauriers, Schelew, and Wieman (2011) found a similar effect in a more tightly controlled comparison: two sections of the same large-enrollment physics course, showing no prior differences, were taught identically until one section was "flipped" for a single week (pre-class reading and quizzes, in-class small-group discussion of clicker and written-response questions, no lecture) while the other continued as before — the flipped section still showed a substantial learning-gain advantage over the matched control from that single week's change alone.
+
+## Implications
+
+### Context
+#### Requirements
+- **Conceptually rich questions**: The prompt needs to provoke reasoning and disagreement, not simple memory.
+- **Initial individual commitment**: Learners should answer before discussion so they have something to compare and defend.
+- **Peer explanation time**: The discussion phase must give enough time for reasoning exchange.
+- **Instructor debrief**: Learners need closure on why the stronger reasoning is stronger.
+#### Constraints
+- **Weak questions flatten the pattern**: Fact recall items do not generate much conceptual change.
+- **Noisy consensus risk**: Learners can converge on an answer socially without improving reasoning if facilitation is weak.
+- **Technology is optional but not sufficient**: Clickers or polling help, but the real work happens in the discussion.
+- **Not ideal for first exposure to very unfamiliar material**: Some initial orientation may be needed before conceptual polling works.
+#### Grain Size
+- Lesson
+
+### Target Goals
+- **Conceptual understanding**: Surfacing and revising misconceptions.
+- **Reasoning articulation**: Learners explain why an answer makes sense.
+- **Formative diagnosis**: Instructors see where understanding is strong or weak.
+
+### Target Learners
+- **Learners in STEM and concept-heavy courses**: Strong fit for questions where common misconceptions are predictable.
+- **Large-group settings**: Useful where whole-class interactivity is otherwise difficult.
+- **Learners who benefit from peer explanation**: The pattern leverages students as reasoning partners.
+
+### Theory
+#### Supporting
+- Social constructivist perspectives — learners refine ideas by explaining and comparing reasoning with peers.
+- Conceptual change traditions — confronting conflicting explanations can trigger revision of prior understanding.
+- Formative assessment perspectives — repeated questioning provides immediate evidence about current understanding.
+#### Contradicting / Qualifying
+- Peer instruction is not just polling; without discussion and debrief it loses much of its value.
+- The pattern is stronger for conceptual reasoning than for pure procedural fluency.
+
+### Claims
+#### Supporting
+- [Self-explanation improves conceptual understanding and problem-solving performance.](../../claims/self-explanation-improves-conceptual-understanding/) [+S]
+- [Self-monitoring improves self-regulation and supports better learning decisions.](../../claims/self-monitoring-improves-self-regulation/) [~M]
+- [Contingent scaffolding improves learning more than fixed or absent support.](../../claims/contingent-scaffolding-improves-learning/) [~M]
+#### Contradicting
+- [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../../claims/specific-difficult-goals-lead-to-higher-performance/) [~S]
+
+## Design
+
+### Sequence
+1. Pose a conceptual question and have learners answer individually.
+2. Reveal the distribution or ask learners to compare responses without announcing the answer.
+3. Have learners discuss reasoning with peers.
+4. Re-poll or reassess after discussion.
+5. Debrief the reasoning and clarify the concept.
+
+### Elements Used
+- [Conceptual Questioning](../elements/conceptual-questioning.md)
+- [Peer Discussion](../elements/peer-discussion.md)
+- [Reassessment](../elements/reassessment.md)
+- [Feedback](../elements/feedback.md)
+
+### Affordances
+- [Peer Discussion](../principles/peer-discussion.md)
+- [Formative Assessment](../principles/formative-assessment.md)
+- [Immediate Feedback](../principles/immediate-feedback.md)
+- [Purposeful Reflection](../principles/purposeful-reflection.md)
+
+### Personalization
+- Questions can be delivered through clickers, cards, hand signals, or digital polls.
+- Pairs or small groups can be mixed intentionally depending on confidence and prior knowledge.
+- The amount of instructor explanation after the repoll can vary depending on the quality of peer reasoning.
+
+## Impact
+- Often improves engagement and conceptual understanding in large classes.
+- Most effective when misconceptions are surfaced through strong questions and resolved through debrief.
+
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>pattern</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>peer-instruction</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Peer Instruction</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>A reusable question, individual vote, peer discussion, revote and explanation policy for conceptual questions, with an isomorphic individual check to separate revised reasoning from copying.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>grain_size</code></td>
+<td><code>lesson</code></td>
+</tr>
+<tr>
+<td><code>author</code></td>
+<td><code>Eric Mazur</code></td>
+</tr>
+<tr>
+<td><code>canonical</code></td>
+<td><code>True</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-01</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>crouch-2001</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.top", "navigation.indexes", "navigation.tracking", "navigation.path", "navigation.prune", "toc.follow", "content.code.copy", "content.tooltips"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="regularization-based-graphical-modeling-has-key-drawbacks-including-difficulty-obtaining-valid-parameter-uncertainty-and-inflated-false-positive-rates">Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates<a class="headerlink" href="#regularization-based-graphical-modeling-has-key-drawbacks-including-difficulty-obtaining-valid-parameter-uncertainty-and-inflated-false-positive-rates" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · design <code>r1</code> · <code>q1</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q1 i?</code> Obtaining a valid measure of parameter uncertainty is very difficult with regularization-based graphical modeling. <a href="#donald-williams-2021">→ Donald Williams 2021</a>
+<code>q1 i?</code> Regularization can produce an inflated false positive rate in graphical modeling. <a href="#donald-williams-2021">→ Donald Williams 2021</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="donald-williams-2021">Donald Williams 2021<a class="headerlink" href="#donald-williams-2021" title="Permanent link">&para;</a></h3>
+<p>Donald Williams. (2021). GGMnonreg: Non-regularized Gaussian graphical models in R. Journal of Open Source Software, 6(67), 3308. https://doi.org/10.21105/joss.03308</p>
+<p><code>q1 · i?</code> · <code>design · r1</code></p>
+<p>The article asserts, citing prior literature (Bühlmann et al., 2014; Donald R. Williams et al., 2019), that "there can be an inflated false positive rate" and that valid parameter uncertainty is very difficult to obtain under regularization. No new empirical test of these drawbacks is reported in this article.</p>
+<blockquote>
+<p>"There are key drawbacks of regularization, including, but not limited to, the fact that obtaining a valid measure of parameter uncertainty is very (very) difficult (Bühlmann et al., 2014) and there can be an inflated false positive rate"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../frequentist-glasso-difficulty-uncertainty-centrality/">The frequentist graphical LASSO has difficulty estimating centrality indices and uncertainty in these measures in symptom networks</a> — a narrower finding that bears on this claim</li>
+<li><a href="../ggmnonreg-designed-for-low-dimensional-data/">Non-regularized graphical model methods are specifically designed for low-dimensional data common in the social-behavioral sciences</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>regularization-drawbacks-uncertainty-false-positives</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-08</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>donald-williams-2021</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

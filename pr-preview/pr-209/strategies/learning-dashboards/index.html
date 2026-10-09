@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Learning Dashboards - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="learning-dashboards">Learning Dashboards<a class="headerlink" href="#learning-dashboards" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · no claims cited</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Learning dashboards aggregate data about learner behavior (time on task, progress, quiz scores, peer comparison) and present it visually to learners, instructors, or both. They are carried out by embedding analytics visualizations in a learning environment — course homepages, LMS widgets, or standalone tools — with the intent that seeing the data prompts reflection, goal-setting, or corrective action.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Dashboards are only as effective as the self-regulatory behavior they trigger; displaying data does not by itself change learning [~M]. Their value depends on whether the displayed metrics are actionable (tied to specific next steps rather than raw activity counts) and whether they support rather than undermine motivation. Comparative displays are the most consequential design choice: normative comparisons (rankings, class averages) can motivate or demotivate depending on the learner's standing and goal orientation [~M].</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Valid, timely data — metrics must actually relate to learning outcomes, not just engagement proxies</li>
+<li>Actionable framing: each display should suggest what to do next (<a href="../../elements/assessment/">Assessment</a> feedback loops, recommended resources)</li>
+<li>Learner support in interpreting the data — dashboards without guidance on how to respond rarely change behavior [~M]</li>
+<li>Alignment with <a href="../../principles/assessment-for-learning/">Assessment for Learning</a> — the dashboard should function as formative feedback, not surveillance</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Raw activity metrics (logins, minutes spent) correlate weakly with achievement and can encourage gaming or shallow "time-on-task" behavior [-M]</li>
+<li>Normative peer comparisons depress motivation and engagement for lower-performing learners [~M] — self-referenced (progress over time) displays avoid this</li>
+<li>Information overload: too many indicators degrades use; <a href="../../principles/chunking/">Chunking</a> and progressive disclosure of detail are necessary</li>
+<li>Dashboards can create a false sense of mastery when completion or activity is displayed as if it were competence [-M]</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Learner-facing</strong> (self-regulation support): progress bars, goal-setting, self-referenced trends</li>
+<li><strong>Instructor-facing</strong> (teaching analytics): at-risk identification, cohort patterns, triggering <a href="../../elements/check-in/">Check-ins</a> or outreach</li>
+<li><strong>Comparative vs. self-referenced</strong>: rankings vs. personal growth trajectories</li>
+<li><strong>Static vs. adaptive</strong>: dashboards coupled to <a href="../../principles/adaptive-learning/">Adaptive Learning</a> recommendations close the loop from data to action</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Self-regulated learners benefit most; learners with weak metacognitive skills may misinterpret or ignore dashboard data [~M] — pairing with <a href="../../theories/self-regulated-learning/">Self-Regulated Learning</a> instruction improves outcomes</li>
+<li>At-risk learners in large enrollment courses, when instructors use analytics for early outreach [~M]</li>
+<li>Lower-performing learners are harmed by ranking-style displays [~M]</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Metacognitive monitoring: accurate self-assessment of progress and gaps</li>
+<li>Study behavior regulation: planning, time allocation, help-seeking</li>
+<li>Not well suited to conceptual learning goals directly — dashboards support the <em>regulation</em> of learning, not the learning itself</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Define which metrics are validly linked to learning in your course (e.g., practice quiz performance, not logins).</li>
+<li>Choose self-referenced displays (progress toward goals, change over time) over normative rankings.</li>
+<li>Pair each visualization with an actionable prompt or recommended next step (<a href="../../elements/assessment/">Assessment</a> results linked to targeted resources).</li>
+<li>Teach learners how to interpret and act on the data — a brief orientation or <a href="../../elements/check-in/">Check-in</a> routine.</li>
+<li>Review instructor-facing views on a schedule and intervene early with struggling learners; the dashboard triggers, the human conversation delivers, the intervention.</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../principles/assessment-for-learning/">Assessment for Learning</a> — dashboards are a delivery mechanism for formative feedback data</li>
+<li>Early-alert analytics — instructor-facing variant focused on retention</li>
+<li><a href="../data-activism-participation-storytelling/">Data activism through intentional participation, student-centric learning analytics, and storytelling</a></li>
+<li><a href="../dashboard-monitoring-teacher-intervention/">Use data dashboards and alerts so teachers monitor progress and intervene when students struggle</a></li>
+<li><a href="../edpuzzle-embedded-questions-analytics-differentiation/">Use Edpuzzle's embedded questions, analytics, and LMS integration to support differentiation</a></li>
+<li><a href="../grade1-orientation-and-teacher-dashboard-strategy/">Provide an orientation period for Grade 1 students and teacher-facing monitoring dashboards</a></li>
+<li><a href="../lad-reference-frames-and-educational-integration/">Include reference frames in a LAD and balance dashboard support with integration into existing educational structures</a></li>
+<li><a href="../ct-profile-differentiated-teacher-training-dashboard/">Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard</a></li>
+<li><a href="../seven-courseware-integration-recommendations/">Seven recommendations for effective courseware integration by instructors</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong><a href="https://www.open.ac.uk">Open University, UK — "Student Progress Dashboard"</a></strong> — self-referenced progress indicators shown to distance learners; evaluated studies found effects depended on students' prior attainment.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — learner dashboard showing skill mastery levels, recommended next activities, and activity history; couples display directly to actionable recommendations.</li>
+<li><strong><a href="https://www.instructure.com/canvas">Canvas / Blackboard LMS analytics</a></strong> — instructor-facing course analytics for at-risk identification; widely deployed but frequently showing activity metrics of questionable validity.</li>
+<li><strong>LAK research prototypes (e.g., ViTAL, OnTrack)</strong> — research dashboards studied for effects on self-regulated learning behavior.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Verbert, K., Duval, E., Klerkx, J., Govaerts, S., &amp; Santos, J. L. (2013). Learning analytics dashboard applications. <em>IEEE Transactions on Learning Technologies, 6</em>(3), 150–158. <a href="https://doi.org/10.1177/0002764213479363">doi:10.1177/0002764213479363</a></li>
+<li>Bodily, R., &amp; Verbert, K. (2017). Review of research on student-facing learning analytics dashboards and educational recommender systems. <em>IEEE Transactions on Learning Technologies, 10</em>(4), 405–418. <a href="https://doi.org/10.1109/tlt.2017.2740172">doi:10.1109/tlt.2017.2740172</a></li>
+<li>Jivet, I., Scheffel, M., Drachsler, H., &amp; Specht, M. (2018). License to evaluate: Preparing learners for educational recommender systems and learning analytics dashboards. <em>Proceedings of the 8th International Conference on Learning Analytics and Knowledge (LAK '18)</em>, 41–50.</li>
+<li>Corrin, L., &amp; de Barba, P. (2015). How do students interpret feedback delivered via dashboards? <em>Proceedings of the 5th International Conference on Learning Analytics and Knowledge (LAK '15)</em>, 430–431. <a href="https://doi.org/10.1145/2723576.2723662">doi:10.1145/2723576.2723662</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>learning-dashboards</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Learning Dashboards</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Visual displays of learner activity and performance data intended to support self-regulated learning and instructional decision-making.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-29</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

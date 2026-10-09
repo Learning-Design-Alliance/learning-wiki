@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Scaffolded Problem Sequencing - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="scaffolded-problem-sequencing">Scaffolded Problem Sequencing<a class="headerlink" href="#scaffolded-problem-sequencing" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 5 claims (3 for, 1 mixed, 1 against) · 9 studies (5 causal, 2 quant-synthesis, 1 review, 1 theoretical), <code>q3</code>–<code>q4</code> · 2 of 9 report an effect size · 1 claim rests on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Scaffolded problem sequencing arranges a set of practice tasks along a deliberate difficulty gradient, pairing each step of increasing complexity with an appropriate level of support — from worked examples, to completion problems, to independent problem solving. The sequence is designed so that learners are neither overwhelmed by premature complexity nor bored by redundant practice, with supports <a href="../../elements/fading/">faded</a> as competence grows.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Sequencing works because it keeps each task within working memory limits while still requiring new learning; uncontrolled difficulty spikes are a primary cause of <a href="../../claims/cognitive-overload-degrades-learning/">cognitive overload degrading learning</a> [+S]. The optimal sequence depends on learner expertise: too much support for advanced learners wastes time and can even depress performance, an instance of the expertise-reversal pattern <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M]. Sequences should therefore be treated as adjustable, not fixed.</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A task class broken into features that drive difficulty (number of steps, unfamiliarity, number of interacting concepts)</li>
+<li>A bank of problems ordered on those features, with support levels attached (<a href="../../elements/worked-examples/">worked examples</a>, completion problems, hints, bare problems)</li>
+<li>A fading rule: criteria for when to withdraw support (e.g., accuracy thresholds, or a fixed example-to-problem ratio)</li>
+<li>Diagnostic checks between stages to confirm readiness to advance (<a href="../../elements/assessment/">Assessment</a>)</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Sequences calibrated for novices misfire for learners with prior knowledge, who perform worse with high support than with independent practice <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [-M]</li>
+<li>Overly gradual sequences can promote passive pattern-matching on worked examples rather than genuine problem solving <a href="../../claims/worked-examples-with-practice-improve-transfer/">Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer</a> [-S] — learners may imitate surface procedures without forming schemas</li>
+<li>Fixed linear sequences ignore between-learner variance; without diagnosis or <a href="../../elements/adaptive-difficulty/">adaptive difficulty</a>, a large fraction of the class is mis-placed at any given step [~M]</li>
+<li>Sequencing by surface difficulty (problem "size") rather than by conceptual feature can leave core misconceptions untouched until late in the sequence</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Completion problems</strong>: each task omits part of the solution, so support fades within the task itself rather than across tasks</li>
+<li><strong>Alternation</strong>: worked example → isomorphic problem pairs, rather than blocks of examples then blocks of problems <a href="../../claims/worked-examples-with-practice-improve-transfer/">Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer</a> [+S]</li>
+<li><strong>Backwards fading</strong>: begin with full examples and remove the last step first, then earlier steps</li>
+<li><strong>Learner-controlled</strong>: learners choose when to see a worked example (e.g., on-demand hints in Khan Academy), trading calibration demands for autonomy</li>
+<li><strong>Multiple-case sequences</strong>: varying surface features across isomorphic problems to support abstraction <a href="../../claims/comparing-contrasting-cases-improves-learning/">Comparing contrasting cases improves learning.</a> [+M]</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Novices in a structured domain (mathematics, programming, physics, chemistry), who lack schemas for managing problem complexity <a href="../../claims/worked-examples-reduce-novice-search/">Worked examples reduce unnecessary search for novices.</a> [+M]</li>
+<li>Learners with low prior knowledge, for whom unsequenced problem sets produce unproductive search and frustration</li>
+<li>Less beneficial for advanced learners, who profit more from problem solving with minimal support <a href="../../claims/worked-examples-less-effective-with-expertise/">Worked-example guidance becomes less effective as learner expertise increases.</a> [~M]</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Procedural fluency: building reliable execution of multi-step methods</li>
+<li>Schema construction: learning which problem features call for which solution approaches</li>
+<li>Transfer to variant problems: sequences that vary surface features while preserving deep structure <a href="../../claims/comparing-contrasting-cases-improves-learning/">Comparing contrasting cases improves learning.</a> [+M]</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Decompose the target skill into difficulty-driving features and order them from fewest to most interacting elements (<a href="../../principles/chunking/">Chunking</a>)</li>
+<li>Open the sequence with fully worked examples with reasoning made visible (<a href="../../elements/think-aloud/">Think-Aloud</a>)</li>
+<li>Move to completion problems in which learners supply progressively larger portions of the solution (<a href="../../elements/fading/">Fading</a>)</li>
+<li>Alternate examples with isomorphic practice problems rather than batching them (<a href="../../elements/practice/">Practice</a>)</li>
+<li>Diagnose readiness before advancing; allow fast learners to skip ahead and struggling learners to repeat with fresh isomorphic problems (<a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a>)</li>
+<li>Close the sequence with problems that vary surface features so learners must select, not just execute, a method</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../use_worked_examples/">Use Worked Examples</a> — the support mechanism most commonly faded across a sequence</li>
+<li><a href="../interleaving/">Interleaving</a> — contrasts with blocked sequencing; once basic fluency is established, mixing problem types improves discrimination</li>
+<li><a href="../completion-problems/">Completion Problems</a> — the within-task form of fading</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong><a href="../../patterns/4cid-four-component-instructional-design/">4C/ID</a></strong> — van Merriënboer's model organizes whole learning tasks into task classes of increasing complexity, with decreasing learner support within each class; the canonical implementation of scaffolded sequencing.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — exercise sets ordered by difficulty within a skill, with on-demand hints that function as partial worked examples.</li>
+<li><strong><a href="https://www.codecademy.com">Codecademy</a></strong> — sequences from guided, scaffolded code completion toward free-form projects.</li>
+<li><strong>Cognitive Tutor (Carnegie Learning)</strong> — adaptive algebra sequences that adjust problem selection and hint availability based on real-time skill estimates (<a href="../../patterns/cognitive-apprenticeship/">Cognitive Apprenticeship</a> lineage).</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Sweller, J., &amp; Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. <em>Cognition and Instruction, 2</em>(1), 59–89. <a href="https://doi.org/10.1207/s1532690xci0201_3">doi:10.1207/s1532690xci0201_3</a></li>
+<li>Kalyuga, S., Ayres, P., Chandler, P., &amp; Sweller, J. (2003). The expertise reversal effect. <em>Educational Psychologist, 38</em>(1), 23–31. <a href="https://doi.org/10.1207/S15326985EP3801_4">doi:10.1207/S15326985EP3801_4</a></li>
+<li>Renkl, A., &amp; Atkinson, R. K. (2003). Structuring the transition from example study to problem solving in cognitive skill acquisition: A cognitive load perspective. <em>Educational Psychologist, 38</em>(1), 15–22. <a href="https://doi.org/10.1207/S15326985EP3801_3">doi:10.1207/S15326985EP3801_3</a></li>
+<li>van Merriënboer, J. J. G. (1997). <em>Training complex cognitive skills: A four-component instructional design model for technical training.</em> Educational Technology Publications.</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>scaffolded-problem-sequencing</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Scaffolded Problem Sequencing</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Ordering practice problems from simple to complex with graduated support, so each task is slightly beyond current competence but within reach with available scaffolds.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

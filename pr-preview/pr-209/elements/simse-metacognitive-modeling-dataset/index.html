@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SimSE dataset of simulated teaching sessions for pre-service teachers rated on metacognitive modeling components - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../elements/">Elements</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Element">
+<h1 id="simse-dataset-of-simulated-teaching-sessions-for-pre-service-teachers-rated-on-metacognitive-modeling-components">SimSE dataset of simulated teaching sessions for pre-service teachers rated on metacognitive modeling components<a class="headerlink" href="#simse-dataset-of-simulated-teaching-sessions-for-pre-service-teachers-rated-on-metacognitive-modeling-components" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Element</strong> · <a href="../">All elements</a>
+<strong>Evidence</strong> · 6 claims (6 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 6 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The SimSE dataset was collected as part of TeachSim, "a teaching simulation platform for pre-service teachers," from Fall 2022 to Spring 2023. It contains 1,135 five-minute transcribed teaching sessions (teachers' talk only), each annotated with five metacognitive modeling components — Unpacking, Self-Instruction, Self-Regulation, Objective, and Ending — scored 1 to 3 by experts. The sessions focus on teaching metacognitive modeling while unpacking a word problem, a practice the authors describe as critical for supporting students with special needs in general math education.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Well-defined rubrics that delineate each category unambiguously, given the high cost of annotation</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Label distributions are highly skewed towards low ratings, which may account for up to 80% of samples for some components</li>
+<li>Sessions comprise teacher utterances only, making it a simpler context than in-person classrooms</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Pre-service teachers in teaching simulation sessions; students with special needs in general math classrooms as the instructional target</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Metacognitive modeling: narrating actions, decisions, and thought processes while demonstrating metacognitive strategies</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/chatgpt-zero-shot-relevance-extraction-unreliable/">ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality</a> [+W]</li>
+<li><a href="../../claims/class-weighted-loss-marginal-gain-skewed-teaching-ratings/">Class-weighted loss marginally improves PLM performance on skewed instruction-quality ratings, achieving best performance on 10 of 16 variables in the three-way setting and 9 of 16 in the binary setting</a> [+W]</li>
+<li><a href="../../claims/llama2-qlora-unsatisfactory-for-teaching-quality-tasks/">Fine-tuning Llama2-7B with parameter-efficient methods yields unsatisfactory results for measuring subject-matter teaching practices, only marginally improving the majority baseline</a> [+W]</li>
+<li><a href="../../claims/plm-performance-depends-on-pedagogical-expertise-required/">Fine-tuned PLMs measure high-inference teaching practices better when the variable requires less pedagogical expertise, matching human-rater agreement on lexical variables but degrading on inference-heavy ones</a> [+W]</li>
+<li><a href="../../claims/teacher-utterances-alone-sufficient-for-classroom-measures/">Using only teachers' utterances as input achieves comparable or better PLM performance than including student utterances, even for student-oriented observation variables</a> [+W]</li>
+<li><a href="../../claims/two-stage-relevance-strategy-helps-multi-sentence-variables/">A two-stage relevance-then-classification strategy improves PLM scoring of metacognitive modeling components whose assessment relies on multiple relevant sentences</a> [+W]</li>
+</ul>
+<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Paiheng Xu, Jing Liu, Nathan Jones, Julie Cohen, and Wei Ai. (2024). The Promises and Pitfalls of Using Language Models to Measure Instruction Quality in Education. Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). https://aclanthology.org/volumes/2024.naacl-long/</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>element</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>simse-metacognitive-modeling-dataset</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>SimSE dataset of simulated teaching sessions for pre-service teachers rated on metacognitive modeling components</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The SimSE dataset was collected as part of TeachSim, "a teaching simulation platform for pre-service teachers," from Fall 2022 to Spring 2023.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-08</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>paiheng-xu-2024</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

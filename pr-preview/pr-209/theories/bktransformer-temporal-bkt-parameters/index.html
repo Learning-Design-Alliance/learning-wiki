@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BKTransformer: transformer-based generation of temporally-evolving BKT parameters - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../theories/">Theories</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Theory">
+<h1 id="bktransformer-transformer-based-generation-of-temporally-evolving-bkt-parameters">BKTransformer: transformer-based generation of temporally-evolving BKT parameters<a class="headerlink" href="#bktransformer-transformer-based-generation-of-temporally-evolving-bkt-parameters" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Theory</strong> · <a href="../">All theories</a>
+<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 design), <code>q2</code> · 1 of 1 report an effect size · 2 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>BKTransformer extends OptimNN by generating BKT parameters that vary over time within a student's problem sequence. A base parameter network f generates per-skill parameters, and a transformer decoder g (GPT-2-style, resembling SAKT) additively adjusts them conditioned on the student's sequence; the key architectural difference from SAKT is that the final layer "outputs BKT parameters as opposed to the correctness prediction". Predicting BKT parameters rather than correctness directly lets correctness predictions be "probabilistically justified by the produced slip, guess, forget, and learn parameters", retaining a layer of interpretability over deep KT methods while allowing non-Markovian learning and parameter sharing across skills.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Penalty terms on adjustment magnitude and consecutive-timestep adjustment differences (coefficients lambda5, lambda6) to keep parameters from varying arbitrarily over time</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The paper states it is unable to fully interpret the components of BKTransformer that precede the BKT layer, preventing understanding of how and why parameters evolve as they do</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>students in intelligent tutoring systems and computerized tutoring contexts</li>
+</ul>
+<h3 id="target-learning-objectives">Target Learning Objectives<a class="headerlink" href="#target-learning-objectives" title="Permanent link">&para;</a></h3>
+<ul>
+<li>student response correctness prediction and mastery probability estimation in knowledge tracing</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/bktransformer-rivals-deep-kt-auc/">Bktransformer Rivals Deep Kt Auc</a> [+M]</li>
+<li><a href="../../claims/bkt-parameter-evolution-interpretability/">Bkt Parameter Evolution Interpretability</a> [+M]</li>
+</ul>
+<h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../adaptive-g-ukt-unified-probabilistic-framework/">Adaptive G-UKT: a unified probabilistic knowledge tracing framework coupling Gaussian state representations, adaptive graph topology learning, Wasserstein attention, and uncertainty-gated contrastive regularization</a></li>
+<li><a href="../bkt-two-state-hmm-student-model/">Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Badrinath, A. and Pardos, Z. (2023). Optimizing Bayesian Knowledge Tracing with Neural Network Parameter Generation. https://github.com/abadrinath947/OptimNN</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>theory</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>BKTransformer: transformer-based generation of temporally-evolving BKT parameters</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>BKTransformer extends OptimNN by generating BKT parameters that vary over time within a student's problem sequence.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-09-26</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>badrinath-2023</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

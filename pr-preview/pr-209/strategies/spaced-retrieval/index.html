@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Spaced Retrieval - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="spaced-retrieval">Spaced Retrieval<a class="headerlink" href="#spaced-retrieval" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · no claims cited</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Spaced retrieval combines two of the most robust findings in learning science: <em>spacing</em> (distributing study across time rather than massing it) and <em>retrieval practice</em> (actively recalling information instead of rereading it). Learners attempt to recall material, receive feedback, and then revisit it after a delay — with intervals expanding as memory strengthens (e.g., one day, three days, one week). The strategy is carried out through low-stakes quizzes, flashcards, cumulative review, or prompts embedded in later lessons.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Retrieval attempts strengthen memory more than restudying of equivalent duration, and the advantage grows when retrieval is spaced over time rather than immediately repeated [~S]. The two effects are complementary: spacing introduces <em>desirable difficulty</em> by partially weakening memory, forcing effortful reconstruction at each recall attempt. Success depends on feedback — retrieval without correction can entrench errors, so every recall attempt should be followed by verification.</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Identifiable core content worth retaining long-term (facts, definitions, procedures, formulas)</li>
+<li>A schedule that revisits material at expanding intervals, not a single review</li>
+<li>Feedback or answer-checking after each retrieval attempt</li>
+<li>Low-stakes framing so retrieval functions as learning, not evaluation (<a href="../../elements/assessment/">Assessment</a> for learning rather than of learning)</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Learners experience retrieval as harder and less productive than rereading, and often abandon spaced systems prematurely [~S] — perceived fluency from rereading masquerades as learning</li>
+<li>Spacing benefits shrink for highly complex or rapidly changing material where the underlying schema, not the memory trace, is the bottleneck</li>
+<li>Retrieval of partially learned or never-encoded material yields little benefit and can reinforce guessing if feedback is delayed or absent</li>
+<li>Expanding schedules require tracking; without a system (software or instructor-managed review), spacing collapses into cramming</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Expanding vs. fixed intervals:</strong> expanding schedules (1 day → 3 days → 1 week) are generally efficient; fixed short intervals work well for very new material</li>
+<li><strong>Cumulative quizzing:</strong> each assessment includes items from prior units, embedding spacing without a separate review system</li>
+<li><strong>Flashcard scheduling:</strong> algorithms such as those in Anki or SuperMemo automate interval selection</li>
+<li><strong>Interleaved retrieval:</strong> mixing item types within a session adds discrimination practice on top of spacing</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Learners of all ages; spacing benefits appear from early childhood through adulthood and across subject domains [~S]</li>
+<li>Learners preparing for cumulative or delayed assessments (licensing exams, end-of-course tests)</li>
+<li>Struggling learners benefit, but need more frequent initial retrieval and tighter intervals before expansion</li>
+<li>Less useful for learners who already retrieve the material effortlessly — successful, easy recall adds little; difficulty must be calibrated</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Long-term retention of declarative knowledge: vocabulary, facts, definitions, formulas</li>
+<li>Automaticity of foundational procedures so working memory is freed for higher-order tasks</li>
+<li>Maintenance of previously mastered skills over months and years</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Identify the small set of high-value items that must be retained (not everything deserves spacing).</li>
+<li>Ensure material is initially understood and encoded — retrieval does not substitute for first teaching (<a href="../../principles/chunking/">Chunking</a> reduces initial load).</li>
+<li>Schedule the first retrieval within 24–48 hours of initial learning.</li>
+<li>Present a retrieval prompt (<a href="../../elements/practice/">Practice</a>, quiz item, or flashcard) and require an actual recall attempt — written or spoken, not a recognition glance.</li>
+<li>Provide immediate feedback and re-study for missed items, then shorten that item's next interval.</li>
+<li>Expand intervals for successfully recalled items (e.g., 1 day → 3 days → 1 week → 1 month).</li>
+<li>Make the schedule visible and explain the rationale to learners, since the effort of retrieval is otherwise misread as ineffectiveness.</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Cumulative quizzing — the classroom-scale implementation of spaced retrieval across a course</li>
+<li>Interleaved practice — combines spacing with discrimination between problem types</li>
+<li>Rereading and highlighting — the common alternatives that spaced retrieval replaces; less effective at equal time</li>
+<li><a href="../generation-as-post-encoding-consolidation-strategy/">Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation</a></li>
+<li><a href="../retrieval-practice-three-classroom-strategies/">Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong><a href="https://apps.ankiweb.net">Anki</a></strong> — spaced-repetition flashcard software using the SM-2 expanding-interval algorithm; widely used in medical education for high-volume factual retention.</li>
+<li><strong><a href="https://www.duolingo.com">Duolingo</a></strong> — schedules review of previously learned vocabulary at expanding intervals interleaved with new material.</li>
+<li><strong>Cumulative midterm/final design</strong> — courses where each quiz includes 20–30% items from prior units, converting assessment into spaced retrieval without extra study time.</li>
+<li><strong>Retrieval warm-ups</strong> — opening a class with two or three recall questions from the previous week before introducing new content.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. <em>Psychological Science, 17</em>(3), 249–255. <a href="https://doi.org/10.1111/j.1467-9280.2006.01693.x">doi:10.1111/j.1467-9280.2006.01693.x</a></li>
+<li>Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., &amp; Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. <em>Psychological Bulletin, 132</em>(3), 354–380. <a href="https://doi.org/10.1037/0033-2909.132.3.354">doi:10.1037/0033-2909.132.3.354</a></li>
+<li>Karpicke, J. D., &amp; Roediger, H. L. (2008). The critical importance of retrieval for learning. <em>Science, 319</em>(5865), 966–968. <a href="https://doi.org/10.1126/science.1152408">doi:10.1126/science.1152408</a></li>
+<li>Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving students' learning with effective learning techniques. <em>Psychological Science in the Public Interest, 14</em>(1), 4–58. <a href="https://doi.org/10.1177/1529100612453266">doi:10.1177/1529100612453266</a></li>
+<li>Bjork, R. A., &amp; Bjork, E. L. (2020). Desirable difficulties in theory and practice. <em>Journal of Applied Research in Memory and Cognition, 9</em>(4), 475–479. <a href="https://doi.org/10.1016/j.jarmac.2020.09.003">doi:10.1016/j.jarmac.2020.09.003</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>spaced-retrieval</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Spaced Retrieval</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Scheduling recall attempts at increasing intervals over time so that effortful retrieval, rather than rereading, drives durable memory.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-29</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
