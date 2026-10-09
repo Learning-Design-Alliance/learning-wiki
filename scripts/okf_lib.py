@@ -23,8 +23,8 @@ WIKI_ROOT = Path(__file__).parent.parent
 # a set written down N times drifts at the first addition. The copies that
 # mean "every content folder" now derive from here; the ones that mean a
 # genuine subset derive from here too, minus what they exclude and why.
-CONTENT_FOLDERS = ["principles", "elements", "patterns", "designs", "strategies",
-                   "processes", "methods",
+CONTENT_FOLDERS = ["principles", "elements", "patterns", "designs", "products", "strategies",
+                   "processes", "methods", "research-methods",
                    "theories", "learner-variables", "claims"]
 
 WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)(?:\|([^\]]*))?\]\]")

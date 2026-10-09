@@ -44,7 +44,6 @@ The evaluation's headline finding as of the end of the 2012-2013 school year: im
 
 ## Related Claims
 - [TEP's achievement impacts were consistently positive across subjects and cohorts, with especially large effects in math, by the end of the 2012-2013 school year](tep-impacts-positive-across-subjects-cohorts.md) — possibly the same claim (merge candidate)
-- [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](tep-four-years-math-gain-1-6-years.md) — a narrower finding that bears on this claim
 - [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](tep-four-year-math-gain-1-6-years.md) — a narrower finding that bears on this claim
 - [TEP's cumulative four-year effect equals approximately 78% of the Hispanic-white achievement gap in math, 17% in English language arts, and 25% in science](tep-cumulative-effect-achievement-gap-benchmarks.md) — a narrower finding that bears on this claim
 - [Four years of TEP attendance produced English language arts gains equal to an additional 0.4 years of school relative to comparable NYC public school students](tep-four-years-ela-gain-0-4-years.md) — a narrower finding that bears on this claim

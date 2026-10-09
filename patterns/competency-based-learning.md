@@ -81,7 +81,7 @@ Record: **competency, criterion and check form → placement response and parall
 
 ## Elements and limits
 
-[Assessment](../elements/assessment.md), [formative assessment](../elements/formative-assessment.md), [feedback](../elements/feedback.md), [reassessment](../elements/reassessment.md), [adaptive mastery learning](../elements/adaptive-mastery-learning.md), [learning objectives](../elements/learning-objectives.md), [rubric](../elements/rubric.md), [self-assessment](../elements/self-assessment.md), [portfolio](../elements/portfolio.md) and [practice](../elements/practice.md).
+[Assessment](../elements/assessment.md), [formative assessment](../elements/formative-assessment.md), [feedback](../elements/feedback.md), [reassessment](../elements/reassessment.md), [adaptive mastery learning](../elements/adaptive-mastery-learning.md), [learning objectives](../elements/learning-objectives.md), [rubric](../elements/rubrics.md), [self-assessment](../elements/self-assessment.md), [portfolio](../elements/portfolio.md) and [practice](../elements/practice.md).
 
 This pattern is scoped to a course organised around a competency map with criterion-referenced evidence. It does not establish that a competency-based course outperforms a time-based one, an optimal degree of self-pacing, a criterion, a number of attempts or a unit size, or a forecast for an individual learner. The risk named by the earlier page, that a competency map atomises a complex performance into isolated skills, is why the sequence includes an integrated task; whether that guards against it remains to be tested. Programme-level competency certification and credit policy need their own configuration and evidence.
 

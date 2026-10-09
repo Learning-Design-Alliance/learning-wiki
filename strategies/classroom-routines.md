@@ -75,7 +75,7 @@ Routines function as classroom-level [chunking](../principles/chunking.md): bund
 ## Related Strategies
 - [Establishing classroom norms](establishing_classroom_norms.md) — norms govern *behavior expectations*; routines operationalize them into repeatable procedures
 - [Activating prior knowledge](activating-prior-knowledge.md) — a common content embedded in entry routines
-- [Exit tickets](exit-tickets.md) — a closure routine that doubles as formative assessment
+- [Exit tickets](exit-ticket.md) — a closure routine that doubles as formative assessment
 - [Establishing rules and expectations](../strategies/establishing_rules_and_expectations.md) — routines operationalize rules as concrete behaviors
 - [Timers and pacing](../strategies/timers_and_pacing.md) — tools that support transition routines
 

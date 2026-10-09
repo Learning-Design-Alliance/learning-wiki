@@ -60,7 +60,7 @@ The strategy works because the audience and purpose are genuinely authentic — 
 6. Close with brief peer feedback against the rubric and an instructor [check-in](../elements/check-in.md) with anxious presenters.
 
 ## Related Strategies
-- [Icebreaker and community-building openers](../strategies/activating_background_knowledge.md) — the "All About Me" is a substantive, content-producing alternative to game-style icebreakers
+- [Icebreaker and community-building openers](activate_background_knowledge.md) — the "All About Me" is a substantive, content-producing alternative to game-style icebreakers
 - [Peer feedback protocols](../strategies/action-oriented-feedback.md) — structures the audience response that makes presentations formative rather than performative
 
 ## Examples

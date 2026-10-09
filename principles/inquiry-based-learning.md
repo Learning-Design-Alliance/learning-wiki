@@ -189,7 +189,7 @@ Inquiry-based learning is the short-form canonical pattern for organizing learni
 ### Elements Used
 - [Inquiry-Based Learning](../elements/inquiry-based-learning.md)
 - [Guided Inquiry](../elements/guided-inquiry.md)
-- [Problem Scenarios](../elements/problem-scenarios.md)
+- [Problem Scenarios](../elements/problem-scenario.md)
 
 ## Claims
 - [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]

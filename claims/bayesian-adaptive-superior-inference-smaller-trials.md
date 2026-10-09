@@ -47,7 +47,6 @@ Simulation study comparing the Bayesian adaptive design against a standard desig
 - [A Bayesian adaptive design can yield superior inference to a standard design using less than one third the sample size under identified conditions](bayesian-adaptive-superior-inference-smaller-samples.md) — possibly the same claim (merge candidate)
 - [Bayesian adaptive design benefits evaluators by allowing smaller and more informative studies](bayesian-adaptive-smaller-informative-studies.md) — related
 - [Bayesian adaptive design benefits study subjects by allocating them to more effective treatment arms](bayesian-adaptive-benefits-study-subjects.md) — related
-- [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](bayesian-factorial-lower-mde-than-classical.md) — related
 - [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](bayesian-factorial-lower-mde.md) — related
 - [For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](bayesian-72-arm-half-sample-size-classical.md) — related
 - [Detecting small effects is very difficult with four clusters, but with six or more clusters small effects can be detected with high probability under realistic circumstances](six-or-more-clusters-enable-small-effect-detection-small-crcts.md) — related

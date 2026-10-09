@@ -66,7 +66,7 @@ Sentence stems reduce the blank-page problem by externalizing the structure of a
 - Teachers can write stems specific to the task or discipline; offering a menu of stems lets learners choose the frames they find most useful, and learners can eventually author their own.
 
 ## Related Strategies
-- [Exit Tickets](exit-tickets.md) — a common delivery vehicle for stem-based reflection at the end of a lesson
+- [Exit Tickets](exit-ticket.md) — a common delivery vehicle for stem-based reflection at the end of a lesson
 - [Portfolio Assessment](portfolio-assessment.md) — stems structure the written justification that accompanies selected work
 - [Writing Conferences](writing-conferences.md) — stems give the conference a reflective starting point
 

@@ -59,7 +59,7 @@ Hands-on manipulation of concrete parts supports early science learning by letti
 6. **Justify and share:** each learner explains one trait choice and its function to a partner or the class ([Practice](../elements/practice.md) with [Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
-- [Sorting and Classifying](../strategies/sorting_and_classifying.md) — the part-sorting variant is a direct application of classification practice
+- [Sorting and Classifying](sort-and-classify.md) — the part-sorting variant is a direct application of classification practice
 - [Activate Background Knowledge](../strategies/activating-prior-knowledge.md) — the opening picture discussion surfaces what learners already know about animals
 - [Measure and Graph Data](../strategies/measure_and_graph_data.md) — the measurement extension feeds directly into data recording
 

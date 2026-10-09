@@ -40,7 +40,7 @@ MAP Growth is a "vertically scaled interim assessment" measuring achievement and
 
 ## Claims
 
-- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](../claims/adaptive-testing-precision-advantage.md) [+W]
+- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](../claims/adaptive-testing-beats-fixed-form-precision-same-length.md) [+W]
 
 ## Related Elements
 

@@ -45,7 +45,6 @@ From the simulation-based power calculations comparing classical and Bayesian me
 ## Related Claims
 - [For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](bayesian-72-arm-half-sample-size-classical.md) — possibly the same claim (merge candidate)
 - [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](bayesian-factorial-lower-mde.md) — a broader claim this one bears on
-- [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](bayesian-factorial-lower-mde-than-classical.md) — a broader claim this one bears on
 - [Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision](bayesian-partial-pooling-precision-false-positive-control.md) — related
 - [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](classical-inference-prohibitive-sample-sizes-factorial.md) — a broader claim this one bears on
 - [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — related

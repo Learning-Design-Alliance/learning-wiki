@@ -43,8 +43,7 @@ Descriptive estimate from the brief's comparison of the COVID year student group
 
 
 ## Related Claims
-- [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](catch-up-requires-additional-months-reading-math.md) — related
-- [The average student needs an estimated 4.5 additional months of schooling to catch up in math](math-catchup-4-point-5-months.md) — related
 - [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](months-of-schooling-needed-to-catch-up-2023-24.md) — related
+- [The average student needs an estimated 4.5 additional months of schooling to catch up in math](math-catchup-4-point-5-months.md) — related
 - [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](pandemic-recovery-stalled-2022-23.md) — a broader claim this one bears on
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — a broader claim this one bears on

@@ -47,7 +47,6 @@ The review organises how exclusion-reduction interventions might work through tw
 
 ## Related Theories
 
-- [Three theoretical perspectives characterising targeted academic interventions: social learning, cognitive developmental, and pedagogical theory](three-theoretical-perspectives-targeted-interventions.md)
 - [Three theoretical perspectives characterising targeted academic interventions: social learning, cognitive developmental, and pedagogical theory](three-perspectives-targeted-interventions.md)
 
 ## Examples

@@ -43,9 +43,8 @@ Score-precision analysis (Chapter 7) based on the standard error of measurement 
 
 
 ## Related Claims
-- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-precision-advantage.md) — a broader claim this one bears on
+- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — a broader claim this one bears on
 - [The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm](content-proximity-pilot-validity-reliability-comparability.md) — related
-- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — possibly the same claim (merge candidate)
 - [Updated 2025 MAP Growth screening thresholds are set at the 35th percentile with adjustments for the Enhanced Item-Selection Algorithm](map-growth-2025-thresholds-35th-percentile-eisa.md) — related
 - [Post-COVID norm shifts and NWEA's enhanced item selection algorithm change the interpretation of MAP Growth metrics for school accountability](post-covid-norm-shifts-change-map-growth-accountability-metrics.md) — related
 - [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related

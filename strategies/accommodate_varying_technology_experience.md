@@ -61,7 +61,7 @@ Technology unfamiliarity imposes extraneous [cognitive load](../principles/cogni
 ## Related Strategies
 
 - [Address Digital Literacy](address_digital_literacy.md) — the broader skill-building counterpart; this strategy removes immediate barriers while that one develops durable fluency
-- [Activating Background Knowledge](activating_background_knowledge.md) — technology experience is a form of prior knowledge that must be surfaced, not assumed
+- [Activating Background Knowledge](activate_background_knowledge.md) — technology experience is a form of prior knowledge that must be surfaced, not assumed
 - [Guide adult students through self-regulated learning skills within the course of study using educational technology](guide-adult-students-srl-skills-within-course-via-technology.md)
 - [Provide an orientation period for Grade 1 students and teacher-facing monitoring dashboards](grade1-orientation-and-teacher-dashboard-strategy.md)
 - [Provide support, feedback, guidance, and coaching along the way for low-skilled adult learners](coaching-and-support-for-low-skilled-adult-learners.md)

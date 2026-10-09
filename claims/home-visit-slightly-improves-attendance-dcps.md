@@ -45,4 +45,3 @@ Same matched comparison group study of grades 1-5 home visits in DC Public Schoo
 ## Related Claims
 - [A pre-school-year teacher home visit reduces the likelihood of a student having a disciplinary incident in grades 1-5](home-visit-reduces-disciplinary-incidents-dcps.md) — related
 - [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](pthv-home-visits-improve-attendance-slightly.md) — related
-- [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](pthv-home-visit-improves-attendance-es-002.md) — related

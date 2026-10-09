@@ -49,4 +49,3 @@ WWC effectiveness rating for the multiple UCSMP courses intervention in the gene
 - [The WWC rates UCSMP Algebra as having potentially positive effects on mathematics achievement for secondary students](wwc-rating-ucsmp-algebra-potentially-positive.md) — related
 - [Four years of multiple UCSMP courses have potentially positive effects on general mathematics achievement, with a small extent of evidence](multiple-ucsmp-courses-potentially-positive-general-mathematics.md) — possibly the same claim (merge candidate)
 - [UCSMP Algebra has potentially positive effects on the algebra domain, with mixed findings across two studies and a small extent of evidence](ucsmp-algebra-potentially-positive-algebra-domain.md) — related
-- [UCSMP Algebra has potentially positive effects on general mathematics achievement for secondary students, with a small extent of evidence](ucsmp-algebra-potentially-positive-general-mathematics-achievement.md) — related

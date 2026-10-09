@@ -45,7 +45,6 @@ The brief's comparison across race/ethnicity groups in 2023-24 assessment data f
 ## Related Claims
 - [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — related
 - [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related
-- [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-of-pre-pandemic-trends.md) — a broader claim this one bears on
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — a broader claim this one bears on
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related

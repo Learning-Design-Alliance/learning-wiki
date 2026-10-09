@@ -59,7 +59,7 @@ Art journaling leverages dual coding: pairing verbal and visual representations 
 5. Periodically ask learners to revisit earlier entries and annotate what has changed in their understanding ([Self-Explanation](../elements/self-explanation.md)).
 
 ## Related Strategies
-- [Reflective Journaling](reflective-journaling.md) — the prose-only variant; art journaling adds a visual modality
+- [Reflective Journaling](reflective-journals.md) — the prose-only variant; art journaling adds a visual modality
 - [Sketchnoting](sketchnoting.md) — real-time visual note-taking; art journaling is reflective and cumulative rather than in-the-moment
 - [Draw-to-Explain](draw-to-explain.md) — a single-task version of the same dual-modality principle
 

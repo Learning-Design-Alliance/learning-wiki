@@ -45,7 +45,6 @@ The authors' demonstration, using an experiment performed for the U.S. Departmen
 ## Related Claims
 - [For a 72-arm factorial experiment (five factors with two or three levels each), a classical experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](bayesian-72-arm-half-sample-size-classical.md) — related
 - [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](bayesian-factorial-lower-mde.md) — related
-- [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](bayesian-factorial-lower-mde-than-classical.md) — related
 - [For 72 treatment arms, a classical factorial experiment requires nearly twice the sample size of a Bayesian experiment for a given MDE](seventy-two-arms-classical-double-sample-size.md) — related
 - [Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments](classical-inference-prohibitive-sample-sizes-factorial.md) — related
 - [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — related

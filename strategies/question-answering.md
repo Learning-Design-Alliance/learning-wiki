@@ -60,7 +60,7 @@ Answering questions forces retrieval and elaboration, which strengthens memory f
 
 ## Related Strategies
 - [Socratic questioning](../elements/socratic-questioning.md) — a sustained dialectical variant where follow-up questions drive the whole exchange
-- [Cold calling](../strategies/cold-calling.md) — a distribution technique that raises accountability for answering
+- [Cold calling](cold-call.md) — a distribution technique that raises accountability for answering
 - [Retrieval practice](../strategies/retrieval-practice.md) — the broader family of memory-strengthening techniques that question answering instantiates
 
 ## Examples

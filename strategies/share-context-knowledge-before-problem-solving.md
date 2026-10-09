@@ -41,7 +41,6 @@ Before students work on a problem, the teacher can surface prior knowledge of it
 
 - Prepare Personalized Familiar Problem Contexts
 - [Activate Background Knowledge](activate_background_knowledge.md)
-- [Activating Background Knowledge](activating_background_knowledge.md)
 - [Activating Prior Knowledge](activating-prior-knowledge.md)
 - [Activation](activation.md)
 - [Connecting Background Knowledge To Content](connecting_background_knowledge_to_content.md)

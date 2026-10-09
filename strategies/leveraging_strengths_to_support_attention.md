@@ -58,7 +58,7 @@ Attention is a limited resource that is allocated, not merely possessed; cues th
 5. **Monitor and revise.** Use brief [Check-Ins](../principles/check-ins.md) and work-sample review to judge whether the support is still working; retire or replace stale supports.
 
 ## Related Strategies
-- [Chunking Directions](../strategies/chunking_directions.md) — the task-structure counterpart: breaking instructions into manageable units so attention is not spent holding multi-step sequences
+- [Chunking Directions](chunk_directions.md) — the task-structure counterpart: breaking instructions into manageable units so attention is not spent holding multi-step sequences
 - [Preferential Seating](../strategies/preferential_seating.md) — the environmental counterpart: positioning the learner to reduce competing attentional demands
 - [Graphic Organizers](graphic-organizers.md) — a common strength-routed support that externalizes structure visually
 

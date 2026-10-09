@@ -63,8 +63,8 @@ Simultaneous visible response converts passive listening into active responding 
 
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — signals can precede pair discussion; the signal commits learners before they verbalize
-- [Exit Tickets](exit-tickets.md) — a written, individualized complement when nuance matters more than speed
-- [Cold Calling](cold-calling.md) — signal data identifies which learners to call on for justification
+- [Exit Tickets](exit-ticket.md) — a written, individualized complement when nuance matters more than speed
+- [Cold Calling](cold-call.md) — signal data identifies which learners to call on for justification
 
 ## Examples
 - A fifth-grade class signals agree/disagree/unsure in response to a historical figure's claim about war, then discusses why signals diverged (Alber, Edutopia: https://www.edutopia.org/blog/dipsticks-to-check-for-understanding-rebecca-alber).

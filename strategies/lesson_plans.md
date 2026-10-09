@@ -55,7 +55,7 @@ Well-structured lessons support learning because they manage the learner's cogni
 2. Open with an activating activity or [Advance Organizer](../elements/advance-organizers.md) that connects new material to prior knowledge
 3. Sequence content in small chunks, alternating presentation with guided [Practice](../elements/practice.md) rather than presenting everything first [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
 4. Insert planned checks for understanding (cold call, mini-whiteboards, quick writes) after each chunk; treat results as decision points, not formalities
-5. Plan the [Assessment](../elements/assessment.md) segment to align with the objectives — an [Exit Ticket](../strategies/exit-tickets.md) or comparable check that would reveal whether each objective was met
+5. Plan the [Assessment](../elements/assessment.md) segment to align with the objectives — an [Exit Ticket](exit-ticket.md) or comparable check that would reveal whether each objective was met
 6. Note timing and a fallback for each segment; identify in advance which segment can be cut or extended
 
 ## Related Strategies

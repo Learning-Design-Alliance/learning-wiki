@@ -39,7 +39,7 @@ Worked examples are the element in which learners study complete or partial solu
 - [Sequencing worked examples with practice problems improves learning for novices](../claims/worked-example-problem-sequences.md) [+W]
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+W]
 - [Example-problem sequences reduce cognitive load and improve learning outcomes.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W]
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+W]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W]
 - [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+M]
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+M]
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]

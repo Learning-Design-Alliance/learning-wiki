@@ -60,7 +60,7 @@ Note-taking supports learning through two mechanisms: external storage for later
 
 ## Related Strategies
 - [Annotating](../principles/annotating.md) — note-making applied directly to a text rather than a separate page
-- [Summarization](summarization.md) — the core generative act within note-making
+- [Summarization](summarizing.md) — the core generative act within note-making
 - [Retrieval Practice](retrieval-practice.md) — converting notes into cue questions turns review into retrieval
 
 ## Examples

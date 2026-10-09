@@ -88,7 +88,7 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 
 **Domain fit.** Concept mapping works best for material with rich relational structure — hierarchical taxonomies, causal systems, interrelated processes — and adds little for content that is genuinely list-like or procedural, where a [concept map](../elements/concept-map.md) imposes arbitrary structure.
 
-**Open questions.** Much of the literature compares mapping to passive or less-structured alternatives; comparisons against equally generative activities (e.g., [self-explanation](../elements/self-explanation.md), [summarization](../strategies/summarization.md)) show smaller or mixed advantages. Whether the benefit lies in the *visual* format or in the *relational processing* it elicits remains contested.
+**Open questions.** Much of the literature compares mapping to passive or less-structured alternatives; comparisons against equally generative activities (e.g., [self-explanation](../elements/self-explanation.md), [summarization](../strategies/summarizing.md)) show smaller or mixed advantages. Whether the benefit lies in the *visual* format or in the *relational processing* it elicits remains contested.
 
 **Scoring and implementation.** When maps are used as [assessment](../elements/assessment.md), scoring the *quality of links* (labeled, directional, hierarchically organized) rather than node count better captures relational understanding. Time-on-task is a persistent confound: mapping is slow, and some reported advantages shrink when matched against other activities given equal time.
 

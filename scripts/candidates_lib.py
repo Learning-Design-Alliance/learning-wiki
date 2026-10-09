@@ -16,9 +16,15 @@ So ingest now appends each principle or pattern contribution here, and
     new      a general idea no canonical page or open candidate covers: it waits
     design   a design for one setting (the settled rule: never a pattern)
     drop     too thin to be a page: it restates one finding, or is an opinion
-    artifact a named product, tool, dataset, instrument or programme framework (an
-             element or theory candidate only): recorded, no page written, until the
-             wiki has a kind for them (maintainer's decision, open 2026-10-09)
+    product  a named product or programme others adopt (software, curriculum, assessment
+             or instrument, dataset, branded programme or initiative), or one such
+             programme's own framework, indicator or theory of change: written to or
+             added to that product's page in products/ (maintainer, 2026-10-10)
+    research-method  a method for studying learning or evaluating education that is
+             specific to education or especially useful in it: a page in
+             research-methods/. A general social-science method is a drop.
+    artifact the outcome before products/ existed (2026-10-09); no longer given, and
+             not settled, so those candidates are asked again
     promoted written (or converted) as a canonical page by an agent; settled
 
 Elements and theories joined the ledger on 2026-10-09: batches were writing about 0.7
@@ -34,7 +40,8 @@ canonical page (backlog-folds.ndjson records each fold and each refusal). They w
 `new` candidate, so a later batch's candidate can join them.
 
 A cluster is PROMOTED, for an agent to write as a canonical page in the
-conditional-model format, once it rests on two independent sources, or on one
+conditional-model format, once it rests on two independent sources (no shared author and
+not the same publishing organisation: settle_candidates.independent), or on one
 synthesis (a meta-analysis or systematic review) coded q3 or above. Nothing here
 writes a principle or pattern page.
 
@@ -54,10 +61,10 @@ LEDGER_DIR = WIKI_ROOT / "eval" / "candidates"
 CANDIDATES = LEDGER_DIR / "candidates.ndjson"
 DECISIONS = LEDGER_DIR / "decisions.ndjson"
 CANDIDATE_TYPES = ("principle", "pattern", "element", "theory")
-OUTCOMES = ("attach", "join", "new", "design", "artifact", "drop", "promoted")
+OUTCOMES = ("attach", "join", "new", "design", "product", "research-method", "artifact", "drop", "promoted")
 # Decisions after which a candidate is settled and never re-asked. `new` and `join`
 # stay open: a later batch may bring the canonical page or the second source.
-SETTLED = ("attach", "design", "artifact", "drop", "promoted")
+SETTLED = ("attach", "design", "product", "research-method", "drop", "promoted")
 FIELDS = ("type", "slug", "title", "description", "requirements", "constraints",
           "target_learners", "target_learning_goals", "claims_cited", "related",
           "theory_supporting", "examples", "key_sources", "grain_size",

@@ -3,7 +3,7 @@ type: revisions
 page: ../claims/repeated-rapid-guessing-associated-self-efficacy-self-management.md
 ---
 
-# Revision history: [claims/repeated-rapid-guessing-associated-self-efficacy-self-management](../claims/repeated-rapid-guessing-associated-self-efficacy-self-management.md)
+# Revision history: [claims/repeated-rapid-guessing-associated-self-efficacy-self-management](../claims/repeated-rapid-guessing-self-efficacy-self-management.md)
 
 ### 2026-10-08 · ingest · process:wiki-ingest
 Ingested from hub-7584 (Do students rapidly guess repeatedly over time? A longitudinal analysis of student test disengagement, background, and attitudes) via eval_harness.py + ingest_extractions.py

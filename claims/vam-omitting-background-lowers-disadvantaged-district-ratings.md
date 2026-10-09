@@ -43,11 +43,10 @@ Cross-specification comparison of teacher ratings for a district with many disad
 
 
 ## Related Claims
-- [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-less-effective-teaching.md) — related
+- [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — related
 - [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](disadvantaged-students-poorer-access-effective-teachers.md) — related
 - [Teacher value-added estimates are highly correlated across model specifications that differ in student and peer control variables](vam-estimates-highly-correlated-across-specifications.md) — related
 - [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [Student background characteristics are less strongly related to promotion power scores than to status measures](background-less-related-promotion-power-than-status.md) — related
-- [Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — related

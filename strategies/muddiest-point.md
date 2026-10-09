@@ -80,7 +80,7 @@ The technique operationalizes [Assessment for Learning](../principles/assessment
 - [3-2-1 Reflection](3-2-1_reflection.md) — a broader exit-ticket format that includes muddiest-point-style items among structured prompts
 - [One-Minute Paper](one-minute-paper.md) — the parent technique; muddiest point is its most focused variant
 - [Check-In](../elements/check-in.md) — a lighter affective counterpart that gauges learner state rather than content confusion
-- [Exit Tickets](exit-tickets.md) — the general family of end-of-class written checks; muddiest point is the confusion-focused variant
+- [Exit Tickets](exit-ticket.md) — the general family of end-of-class written checks; muddiest point is the confusion-focused variant
 
 ## Examples
 - **Mosteller's statistics course (Harvard)** — the original report: Mosteller used muddiest-point cards in an introductory statistics lecture course and adjusted each subsequent lecture to the collected responses, reporting strong student approval at negligible time cost.
@@ -147,7 +147,7 @@ The technique operationalizes [Assessment for Learning](../principles/assessment
 
 ## Related Strategies
 - [3-2-1 Reflection](3-2-1_reflection.md) — a broader end-of-session reflection that includes muddiest-point-style confusion reporting alongside recall and connections
-- [Exit Tickets](exit-tickets.md) — the general family of end-of-class written checks; muddiest point is the confusion-focused variant
+- [Exit Tickets](exit-ticket.md) — the general family of end-of-class written checks; muddiest point is the confusion-focused variant
 
 ## Examples
 - **Mosteller's statistics course at Harvard** — Frederick Mosteller used the muddiest point weekly in an introductory statistics course, opening each class by addressing the prior week's confusions; he reported it as the feedback technique students rated most helpful.

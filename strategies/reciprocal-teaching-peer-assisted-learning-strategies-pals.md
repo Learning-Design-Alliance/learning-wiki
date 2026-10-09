@@ -63,7 +63,7 @@ PALS combines the comprehension-strategy modeling of reciprocal teaching with th
 1. **Pair and assign roles.** Rank students by reading performance, split the list, and pair across it; designate the stronger reader as the first Coach.
 2. **Train the routines.** Model each activity — partner reading, paragraph shrinking (summarize to the main idea in ten words or fewer), prediction relay — with the whole class rehearsing before pairs begin.
 3. **Partner reading with retell.** The Player reads aloud; the Coach follows the text, corrects errors, and awards points, then asks for a retell ([Practice](../elements/practice.md) with immediate correction).
-4. **Paragraph shrinking.** Players read and summarize paragraph by paragraph; Coaches prompt with scripted questions and award points for accurate, brief summaries ([Summarization](summarization.md)).
+4. **Paragraph shrinking.** Players read and summarize paragraph by paragraph; Coaches prompt with scripted questions and award points for accurate, brief summaries ([Summarization](summarizing.md)).
 5. **Prediction relay.** Partners alternate predicting what comes next, reading to check, and generating new predictions — the reciprocal-teaching core ([Questioning](questioning.md), [Prediction](../elements/prediction.md)).
 6. **Monitor and fade.** Circulate, reinforce accurate coaching, and progressively reduce script reliance as pairs internalize the strategies ([Fading](../elements/fading.md)).
 

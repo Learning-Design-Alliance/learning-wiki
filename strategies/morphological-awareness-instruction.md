@@ -63,7 +63,7 @@ Morphological instruction leverages the systematic structure of English — the 
 
 - [Phonics Instruction](phonics-instruction.md) — complementary word-level approach; morphology extends decoding beyond the alphabetic principle
 - [Vocabulary Instruction](vocabulary-instruction.md) — morphological analysis is a generative alternative to definitional teaching
-- [Word Sorts](word-sorts.md) — a common activity vehicle for morphological comparison
+- [Word Sorts](word-sort.md) — a common activity vehicle for morphological comparison
 - [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
 - [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 

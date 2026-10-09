@@ -61,7 +61,7 @@ Audiobooks exploit the fact that listening comprehension typically develops ahea
 
 ## Related Strategies
 - [Assigned Readings](../elements/assigned-readings.md) — audiobooks are an alternative delivery mode for the same assigned content
-- [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — preview listening builds the knowledge base print reading then requires
+- [Activating Background Knowledge](activate_background_knowledge.md) — preview listening builds the knowledge base print reading then requires
 - [Chunking](../principles/chunking.md) — dividing long recordings into manageable listening segments mirrors chunking of text
 
 ## Examples

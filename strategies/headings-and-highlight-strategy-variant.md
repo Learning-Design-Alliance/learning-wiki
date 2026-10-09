@@ -86,7 +86,7 @@ The strategy converts passive reading into generative processing: selecting key 
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the underlying pair-discussion structure applied to reading
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the structure of collaborative, strategy-mediated reading of difficult text with explicit justification
 - [Text-Based Collaborative Annotation](../strategies/collaborative-annotation.md) — the highlighting phase generalized to ongoing social annotation
-- [Summarization](../strategies/summarization.md) — the heading task is a constrained form of summarizing
+- [Summarization](summarizing.md) — the heading task is a constrained form of summarizing
 
 ## Examples
 - A middle school social studies class reads a primary-source excerpt on the American Revolution in Google Docs; pairs produce four-word headings ("Colonists Reject Taxation"), defend them against a rival pair's "No Representation, Resistance," and the class consolidates a student-built outline of the document.
@@ -158,7 +158,7 @@ The strategy works because it converts passive reading into generative processin
 ## Related Strategies
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the structure of collaborative, strategy-mediated reading of difficult text with explicit justification
 - [Text-Based Collaborative Annotation](../strategies/collaborative-annotation.md) — the highlighting phase generalized to ongoing social annotation
-- [Summarization](../strategies/summarization.md) — the heading task is a constrained form of summarizing
+- [Summarization](summarizing.md) — the heading task is a constrained form of summarizing
 
 ## Related Elements
 - [Annotating](../principles/annotating.md) — the marking behavior that anchors the first two phases

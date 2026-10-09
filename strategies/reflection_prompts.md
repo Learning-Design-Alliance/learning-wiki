@@ -60,7 +60,7 @@ Reflection prompts improve learning when they are specific, structured, and tied
 5. Close the loop: use responses to adjust the next lesson, or have learners act on their stated intention — reflection that changes subsequent behavior is what drives gains [~M].
 
 ## Related Strategies
-- [Exit Tickets](exit-tickets.md) — the most common delivery vehicle for a single reflection prompt at lesson close
+- [Exit Tickets](exit-ticket.md) — the most common delivery vehicle for a single reflection prompt at lesson close
 - [Learning Journals](learning-journals.md) — sustained reflection prompts across time, enabling learners to see their own trajectory
 - [Self-Assessment](../elements/self-assessment.md) — reflection prompts with criteria attached become self-assessment
 

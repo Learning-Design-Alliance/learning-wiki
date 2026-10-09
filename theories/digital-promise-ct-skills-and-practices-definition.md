@@ -40,7 +40,7 @@ The report defines computational thinking for practitioners as practices and ski
 ## Related Theories
 
 - [Three Powerful Uses Of Computers Ct](three-powerful-uses-of-computers-ct.md)
-- [Three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-three-circle-framework.md)
+- [Three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-framework-three-circles.md)
 
 ## Examples
 

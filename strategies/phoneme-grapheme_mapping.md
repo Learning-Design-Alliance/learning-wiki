@@ -58,7 +58,7 @@ Phoneme-grapheme mapping operationalizes systematic phonics at the word level: b
 5. Revisit mapped words across subsequent sessions and in connected reading and writing [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ## Related Strategies
-- [Word Sorting](word-sorting.md) — complementary word-study activity that contrasts grapheme patterns across word sets
+- [Word Sorting](word-sort.md) — complementary word-study activity that contrasts grapheme patterns across word sets
 - [Dictation](dictation.md) — a natural follow-on in which learners apply mapped correspondences without the grid scaffold
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — mapping builds on known letter-sound correspondences when introducing new patterns
 

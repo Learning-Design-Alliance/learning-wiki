@@ -38,7 +38,7 @@ Prediction Relay operationalizes the finding that generating predictions before 
 - Written predictions in sentence frames for older students; oral predictions for younger ones
 - Whole-class prediction relays on a projected text as a low-preparation variant
 - Extension into expository text by predicting "what information will come next" rather than plot events
-- Combine with [Summarization](../strategies/summarization.md) steps from the base PALS sequence for longer passages
+- Combine with [Summarization](summarizing.md) steps from the base PALS sequence for longer passages
 
 ### Target Learners
 - Students in grades 2–6, the range for which PALS Reading was originally validated

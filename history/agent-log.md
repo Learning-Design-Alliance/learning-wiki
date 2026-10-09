@@ -5,6 +5,31 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-10 — products and research methods; a tighter independence rule; search that finds the main page
+
+- **Two kinds** (maintainer): `products/` for named products and programmes others adopt (a
+  programme's own tools, frameworks and indicators are components on its page) and
+  `research-methods/` for education-specific research methods (general social-science methods
+  are not pages). The ledger's `artifact` outcome became `product` and `research-method`;
+  re-settling the open candidates ($0.18) wrote 42 product and 32 method pages, and the
+  duplicates it made (To&Through three ways, CRIS three ways, PAI, Freshman On-Track,
+  Inclusive Innovation) were folded. The settle prompt now lists existing product and method
+  names so later candidates reuse them. An AI-assisted qualitative codebook method was dropped.
+- **Independence** (maintainer): two sources promote a cluster only when they share no author
+  and no publisher (web domain, the publisher a report names, or a report's DOI prefix, which
+  is the registrant's: 10.51388 is Digital Promise's). An unidentifiable source is not
+  independent. Promoted clusters 39 → 21.
+- **Search on the site** (maintainer's scale retest): Pagefind 1.3.0 dropped results for words
+  at chunk boundaries ("retrieval practice" found 3 pages); 1.5.2 finds 884. The main page for
+  a topic ranked 34th–70th; the search page's Main pages list now puts it first for retrieval
+  practice, worked examples, phonics, growth mindset, cognitive load and spaced practice
+  (spaced practice through the alias). Learning styles' key page is a claim, which the list
+  does not search. One line per result; a header search box on every page.
+- **Agent search** folds titles that differ by word ending, and weights inbound links more;
+  99 stem-equal duplicates were folded (53 strategies, 20 elements, 9 theories, 17 claims).
+- **Deploys replace the published tree**, keeping open previews, so gh-pages stops growing
+  with renamed pages. Not done: moving the long tail off Pages, needed near 85,000 pages.
+
 ## 2026-10-09 (later) — the scale fixes: a two-tier site, Pagefind, rotated log, compact indexes, a shorter CLAUDE.md
 
 After batch 47 the maintainer's scale test found the site heading past Pages' 1 GB limit, a 20 MB

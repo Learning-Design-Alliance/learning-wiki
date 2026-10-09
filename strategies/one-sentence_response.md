@@ -59,7 +59,7 @@ One-sentence response is a low-cost implementation of [Active Learning](../princ
 
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the oral sibling; one-sentence response adds a written artifact and universal participation
-- [Exit Tickets](exit-tickets.md) — the same mechanism positioned as end-of-lesson formative assessment
+- [Exit Tickets](exit-ticket.md) — the same mechanism positioned as end-of-lesson formative assessment
 - [Wait Time](wait-time.md) — the questioning practice that gives written responses time to form
 
 ## Related Elements

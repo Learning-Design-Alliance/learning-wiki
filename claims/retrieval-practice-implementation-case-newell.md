@@ -44,8 +44,7 @@ Case study of research use in practice: a former NMSA math teacher, motivated by
 
 ## Related Claims
 - [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) — a broader claim this one bears on
-- [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-long-term-retention.md) — a broader claim this one bears on
+- [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
-- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Learners Misjudge Retrieval Benefit](learners-misjudge-retrieval-benefit.md) — related

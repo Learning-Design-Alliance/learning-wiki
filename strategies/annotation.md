@@ -56,7 +56,7 @@ Annotation works because it is a generative activity: transforming and elaborati
 5. Gradually loosen the scheme as students internalize the reading practices ([Fading](../elements/fading.md)).
 
 ## Related Strategies
-- [Summarization](summarization.md) — a summary is a whole-text annotation; both are generative processing strategies
+- [Summarization](summarizing.md) — a summary is a whole-text annotation; both are generative processing strategies
 - [Close Reading](close-reading.md) — annotation is the primary tool of close reading routines
 - [Peer Review](../elements/peer-review.md) — annotating a peer's work is a common peer-review format
 

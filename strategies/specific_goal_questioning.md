@@ -61,7 +61,7 @@ Directed questions function as an attention-focusing mechanism: they tell learne
 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — a goal question posed before reading serves the same preparatory function, priming relevant schemas
-- [Annotating Text](../strategies/annotating_text.md) — the natural recording mechanism for goal-directed reading
+- [Annotating Text](annotating-texts.md) — the natural recording mechanism for goal-directed reading
 
 ## Examples
 - A middle-school teacher studying mentor personal narratives asks only: "Find the first sentence that makes you want to keep reading. Why does it work?" Students mark the grabber, write a one-sentence explanation, then compare choices in pairs before drafting grabbers for their own narratives.

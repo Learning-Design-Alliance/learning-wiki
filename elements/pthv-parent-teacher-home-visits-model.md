@@ -41,7 +41,7 @@ PTHV is a family engagement program co-created by parents and educators using co
 
 ## Claims
 
-- [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](../claims/pthv-home-visit-improves-attendance-es-002.md) [+W]
+- [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](../claims/pthv-home-visits-improve-attendance-slightly.md) [+W]
 - [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores](../claims/pthv-home-visit-math-gain-no-ela-difference.md) [+W]
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](../claims/pthv-home-visit-reduces-disciplinary-incidents.md) [+W]
 - [PTHV is rated promising for social-emotional learning with an average effect size of +0.10 from one study](../claims/pthv-sel-promising-rating-es-010.md) [+W]

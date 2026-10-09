@@ -44,7 +44,6 @@ The framework is a two-dimensional matrix for scaffolding AI and data literacy i
 
 - [AI literacy as critical understanding, use, and evaluation of AI systems](ai-literacy-framework-digital-promise.md)
 - [AI Literacy Framework of three interconnected Modes of Engagement: Understand, Evaluate, and Use](ai-literacy-framework-three-modes-of-engagement.md)
-- [AI literacy as critical understanding, use, and evaluation of AI systems](ai-literacy-understand-use-evaluate.md)
 
 ## Examples
 

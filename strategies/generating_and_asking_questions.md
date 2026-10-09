@@ -58,7 +58,7 @@ Question generation is one of the better-supported comprehension strategies: int
 
 ## Related Strategies
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — the best-validated multi-strategy package that includes question generation
-- [Summarization](summarization.md) — question generation identifies the main ideas that summaries must capture
+- [Summarization](summarizing.md) — question generation identifies the main ideas that summaries must capture
 - [Self-Explanation](../elements/self-explanation.md) — a sibling generative strategy; questions prompt the explanations
 
 ## Examples

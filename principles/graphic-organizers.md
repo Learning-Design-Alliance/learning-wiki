@@ -157,9 +157,8 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 - **Partially completed organizers**: Instructors prefill key nodes and ask learners to supply connections or examples.
 - [Graphic Organizers](../elements/graphic-organizers.md), [Concept Mapping](../elements/concept-mapping.md) and [Advance Organizers](../elements/advance-organizers.md) — the elements that carry this principle.
 - [Graphic Organizers for Note-Taking](../strategies/graphic_organizers_for_note-taking.md) — learners structure notes from readings or lectures in an organizer.
-- [KWL Charts](../strategies/kwl-charts.md)
+- [KWL Charts](../strategies/kwl-chart.md)
 - [Pre-Reading Graphic Organizers](../strategies/pre-reading_graphic_organizers.md)
-- [KWL Chart](../strategies/kwl-chart.md)
 - [Note-Taking Using Graphic Organizers](../strategies/note-taking_using_graphic_organizers.md)
 - [Graphic Organizers for Pre-Reading](../strategies/graphic_organizers_for_pre-reading.md)
 - [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md)
@@ -280,7 +279,7 @@ Teachers should use graphic organizers to structure lessons and material, pre-te
 
 ## Examples
 
-- [KWL Charts](../strategies/kwl-charts.md)
+- [KWL Charts](../strategies/kwl-chart.md)
 - [Pre-Reading Graphic Organizers](../strategies/pre-reading_graphic_organizers.md)
 - [KWL Chart](../strategies/kwl-chart.md)
 - [KWL Chart](../strategies/kwl-chart.md)
@@ -288,7 +287,7 @@ Teachers should use graphic organizers to structure lessons and material, pre-te
 - [Graphic Organizers for Pre-Reading](../strategies/graphic_organizers_for_pre-reading.md)
 - [Pre-Teaching Vocabulary](../strategies/pre-teaching-vocabulary.md)
 - [Clarifying](../strategies/clarifying.md)
-- [KWL Charts](../strategies/kwl-charts.md)
+- [KWL Charts](../strategies/kwl-chart.md)
 
 ## Key Sources
 - Using Graphic Organizers in Instruction: A Review of Research and Teacher Practice. (1998). https://eric.ed.gov/?id=ED427095

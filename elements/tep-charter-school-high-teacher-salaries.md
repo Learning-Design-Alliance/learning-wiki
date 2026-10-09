@@ -40,7 +40,7 @@ The Equity Project Charter School is a New York City charter school whose distin
 
 - [TEP's cumulative four-year effect equals approximately 78% of the Hispanic-white achievement gap in math, 17% in English language arts, and 25% in science](../claims/tep-cumulative-effect-achievement-gap-benchmarks.md) [+M]
 - [Four years of TEP attendance produced English language arts gains equal to an additional 0.4 years of school relative to comparable NYC public school students](../claims/tep-four-years-ela-gain-0-4-years.md) [+M]
-- [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](../claims/tep-four-years-math-gain-1-6-years.md) [+M]
+- [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](../claims/tep-four-year-math-gain-1-6-years.md) [+M]
 - [Four years of TEP attendance produced science gains equal to an additional 0.6 years of school relative to comparable NYC public school students](../claims/tep-four-years-science-gain-0-6-years.md) [+M]
 - [TEP's achievement impacts were consistently positive across subjects and cohorts through 2012-2013, with especially large effects in math](../claims/tep-impacts-consistently-positive-math-largest.md) [+M]
 - [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](../claims/tep-four-year-math-gain-1-6-years.md) [+M]

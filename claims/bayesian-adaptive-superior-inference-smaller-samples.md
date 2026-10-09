@@ -45,7 +45,6 @@ The article's key-findings summary reports the comparative result of the propose
 ## Related Claims
 - [Bayesian adaptive design benefits study subjects by allocating them to more effective treatment arms](bayesian-adaptive-benefits-study-subjects.md) — related
 - [Bayesian adaptive design benefits evaluators by allowing smaller and more informative studies](bayesian-adaptive-smaller-informative-studies.md) — a broader claim this one bears on
-- [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](bayesian-factorial-lower-mde-than-classical.md) — related
 - [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](bayesian-factorial-lower-mde.md) — related
 - [The adaptive trial design reallocates more study subjects to more promising treatment arms as evidence accumulates](adaptive-allocation-to-promising-arms.md) — related
 - [The Bayesian adaptive design can produce better inference and ultimately smaller trials under identifiable conditions](bayesian-adaptive-better-inference-smaller-trials.md) — a broader claim this one bears on

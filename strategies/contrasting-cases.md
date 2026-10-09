@@ -89,7 +89,7 @@ The strategy is most distinctive when it runs *before* instruction. Schwartz and
 - [Comparing Cases](comparing_cases.md) — comparison of cases that are not necessarily engineered to isolate a single dimension
 - [Analogical Encoding](analogical-encoding.md) — comparison of structurally parallel cases to abstract a shared relational schema, rather than to detect a difference
 - [Comparing Multiple Solution Methods](comparing_multiple_solution_methods.md) — contrasting cases applied to procedures instead of concepts
-- [Worked Examples](worked-examples.md) — the alternative when the goal is fluent execution rather than discrimination; example–problem pairs and contrast sets often alternate [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S]
+- [Worked Examples](worked-examples.md) — the alternative when the goal is fluent execution rather than discrimination; example–problem pairs and contrast sets often alternate [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S]
 - [Case-Based Learning](case-based-learning.md) — extended authentic cases, where the contrast is across a sequence rather than within one activity [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]
 
 ## Examples

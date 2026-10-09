@@ -62,7 +62,7 @@ Activating relevant prior knowledge is one of the most consistently supported co
 
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the general-case activation routine this strategy specializes for ELLs
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — the elicitation half of the cycle
-- [Activate Background Knowledge](activating_background_knowledge.md) — quick pre-instruction routines
+- [Activate Background Knowledge](activate_background_knowledge.md) — quick pre-instruction routines
 - [Build mathematics instruction on children's funds of knowledge uncovered through home visits and teacher study groups](funds-of-knowledge-mathematics-instruction.md)
 
 ## Examples

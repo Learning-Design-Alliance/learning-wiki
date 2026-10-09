@@ -59,8 +59,8 @@ The strategy operationalizes active participation for all learners rather than t
 
 ## Related Strategies
 - [Wait Time](wait-time.md) — the silent think phase enacts extended wait time, increasing response quality and participation
-- [Cold Calling](cold-calling.md) — often combined after the write phase so every learner can be called on with a prepared answer
-- [Exit Tickets](exit-tickets.md) — the written component can double as a formative artifact collected at the end of class
+- [Cold Calling](cold-call.md) — often combined after the write phase so every learner can be called on with a prepared answer
+- [Exit Tickets](exit-ticket.md) — the written component can double as a formative artifact collected at the end of class
 
 ## Examples
 - A fourth-grade teacher asked "What is an equivalent fraction?" Students wrote their responses, shared with partners, and then revised their written definitions after a class discussion surfaced the misconception that equivalence means "looks the same."

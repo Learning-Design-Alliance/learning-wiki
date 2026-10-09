@@ -59,7 +59,7 @@ Interviews convert private, often vague impressions of learning into explicit ve
 
 ## Related Strategies
 
-- [Exit tickets and closing reflections](exit-tickets.md) — written, whole-class cousins of the interview that trade depth for efficiency
+- [Exit tickets and closing reflections](exit-ticket.md) — written, whole-class cousins of the interview that trade depth for efficiency
 - [Learning conferences](../strategies/learning_conferences.md) — the teacher-led variant anchored to portfolios and goal-setting
 - [Identify information gaps through national conference review to set research and development strategies](national-conference-gap-identification-strategy.md)
 

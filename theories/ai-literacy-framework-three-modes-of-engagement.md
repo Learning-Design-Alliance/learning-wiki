@@ -50,7 +50,6 @@ The report defines AI literacy as the knowledge and skills that enable people to
 - [Three Types of Use: Interacting with AI, Creating with AI, and Problem Solving with AI](three-types-of-ai-use-interact-create-problem-solve.md)
 - [AI & Data Acumen Learning Outcomes Framework: seven knowledge dimensions crossed with four cognitive proficiency levels](ai-data-acumen-learning-outcomes-framework.md)
 - [AI Literacy Framework's three Modes of Engagement: Understand, Use, Evaluate](ai-literacy-modes-understand-use-evaluate-report.md)
-- [AI literacy as critical understanding, use, and evaluation of AI systems](ai-literacy-understand-use-evaluate.md)
 
 ## Examples
 

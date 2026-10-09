@@ -60,7 +60,7 @@ Socratic questioning works because generating an answer forces deeper processing
 
 ## Related Strategies
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the complementary expert-side disclosure; Socratic questioning elicits learner reasoning, think-alouds model expert reasoning
-- [Cold Calling](cold-calling.md) — a participation-distribution technique often paired with Socratic sequences
+- [Cold Calling](cold-call.md) — a participation-distribution technique often paired with Socratic sequences
 - [Peer Instruction](../strategies/peer-instruction.md) — replaces instructor questioning with structured peer dialogue around conceptual questions
 
 ## Examples

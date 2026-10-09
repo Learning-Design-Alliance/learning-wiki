@@ -47,7 +47,7 @@ The brief describes a promising approach to support early childhood math develop
 
 ## Examples
 
-- [Home Visiting](../strategies/home-visiting.md)
+- [Home Visiting](../strategies/home-visits.md)
 - [Family Literacy Programs](../strategies/family-literacy-programs.md)
 - [Family Engagement](../strategies/family-engagement.md)
 

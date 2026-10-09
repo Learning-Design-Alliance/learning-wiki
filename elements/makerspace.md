@@ -52,7 +52,7 @@ Learning in a makerspace is driven by a learner-centered, self-regulated dynamic
 - 
 
 ## Related Elements
-- [Simulations](simulations.md)
+- [Simulations](simulation.md)
 - [Role-Playing](role-playing.md)
 
 ## Examples

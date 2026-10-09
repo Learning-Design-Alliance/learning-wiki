@@ -82,7 +82,7 @@ Learning journals work because writing forces elaboration and externalization: t
 ## Related Strategies
 
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a synchronous complement that turns journal entries into individual dialogue
-- [Exit Tickets](exit-tickets.md) — a single-session, lower-commitment variant of the same reflection mechanism
+- [Exit Tickets](exit-ticket.md) — a single-session, lower-commitment variant of the same reflection mechanism
 - [Portfolio Assessment](portfolio-assessment.md) — journals curated and assessed as evidence of growth over time
 - [Use Flexible Discussion Groups for Science Content Analysis](flexible-discussion-groups-in-science.md)
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — journal prompts that open a unit by surfacing what learners already believe
@@ -163,7 +163,7 @@ Learning journals work primarily by forcing elaboration and self-monitoring: tra
 
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — pairs journal entries with brief individual feedback conversations
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — journal prompts that open a unit by surfacing what learners already believe
-- [Exit Tickets](exit-tickets.md) — a single-session, single-prompt micro-journal used for daily formative checks
+- [Exit Tickets](exit-ticket.md) — a single-session, single-prompt micro-journal used for daily formative checks
 - [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
 
 ## Examples

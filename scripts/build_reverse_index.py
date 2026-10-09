@@ -45,16 +45,16 @@ OUT_PATH = WIKI_ROOT / "reverse-index.json"
 # link to them and the edge is free to collect, even though the spec does not
 # read it yet.
 TARGET_KINDS = ("elements", "principles", "patterns", "claims", "learner-variables",
-                "theories", "processes", "methods", "designs")
+                "theories", "processes", "methods", "designs", "products", "research-methods")
 # Kinds that can point. A strategy is the interesting source — it is the layer
 # that says what to actually do — but a pattern citing a claim is an edge too.
 SOURCE_KINDS = ("strategies", "patterns", "elements", "principles", "theories", "claims",
-                "learner-variables", "processes", "methods", "designs")
+                "learner-variables", "processes", "methods", "designs", "products", "research-methods")
 
 SINGULAR = {"elements": "element", "principles": "principle", "patterns": "pattern",
             "claims": "claim", "learner-variables": "learner-variable", "theories": "theory",
             "strategies": "strategy", "processes": "process", "methods": "method",
-            "designs": "design"}
+            "designs": "design", "products": "product", "research-methods": "research-method"}
 
 # ](../kind/slug.md) and ](kind/slug.md) and ](slug.md) — the wiki's three link
 # spellings (see CLAUDE.md's cross-link conventions). The same-folder form has

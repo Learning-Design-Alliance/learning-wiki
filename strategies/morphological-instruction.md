@@ -80,7 +80,7 @@ Morphological instruction works because English orthography is morphophonemic: s
 
 - [Phonics Instruction](../strategies/phonics-instruction.md) — complementary; morphology explains spellings phonics cannot (e.g., *healed* keeps the *e* because of the base word)
 - [Vocabulary Instruction](../strategies/vocabulary-instruction.md) — derivational morphology is a high-leverage vocabulary strategy
-- [Word Sorting](../strategies/word-sorting.md) — the primary practice format for morphological study
+- [Word Sorting](word-sort.md) — the primary practice format for morphological study
 - [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — morphological analysis builds on known words; activating familiar word families anchors new derivations
 

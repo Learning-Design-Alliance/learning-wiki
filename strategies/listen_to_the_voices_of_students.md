@@ -61,7 +61,7 @@ Elevating student voice builds on self-determination research: experiences of au
 
 - [Actively Listen to What Students Say](../strategies/actively_listen_to_what_students_say.md) — the receptive skill that makes voice-giving genuine rather than performative
 - [Action Planning](../strategies/action_planning.md) — converts student input into concrete, student-owned next steps
-- [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — student stories are a primary vehicle for surfacing prior knowledge and identity
+- [Activating Background Knowledge](activate_background_knowledge.md) — student stories are a primary vehicle for surfacing prior knowledge and identity
 - [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
 - [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 - [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](autonomy-supportive-context-components.md)

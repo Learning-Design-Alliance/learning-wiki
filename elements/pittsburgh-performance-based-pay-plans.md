@@ -43,7 +43,6 @@ As part of the same project, Mathematica assisted Pittsburgh Public Schools in d
 
 ## Related Elements
 
-- [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](pittsburgh-value-added-models-2012-13.md)
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](pittsburgh-value-added-models-teacher-school-contributions.md)
 
 ## Examples

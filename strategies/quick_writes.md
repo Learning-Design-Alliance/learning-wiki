@@ -60,10 +60,10 @@ Quick Writes function as a writing-to-learn activity: composing forces learners 
 
 ## Related Strategies
 
-- [Exit Tickets](exit-tickets.md) — a quick write variant used specifically as end-of-class formative assessment
+- [Exit Tickets](exit-ticket.md) — a quick write variant used specifically as end-of-class formative assessment
 - [Journaling](journaling.md) — longer-form reflective writing; quick writes trade depth for frequency
 - [Retrieval Practice](retrieval-practice.md) — quick writes are a generative retrieval format when prompts require recall from memory
-- [Summarization](summarization.md) — a common quick write prompt type with its own evidence base
+- [Summarization](summarizing.md) — a common quick write prompt type with its own evidence base
 - [Use the Power 10 strategies to help students comprehend, organize, and remember information in any context](power-10-comprehension-strategies.md)
 
 ## Examples

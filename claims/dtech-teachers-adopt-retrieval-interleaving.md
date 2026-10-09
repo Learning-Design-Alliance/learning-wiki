@@ -65,7 +65,6 @@ The report describes biology teacher Neal Addicott implementing interleaved prac
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
-- [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-long-term-retention.md) — a broader claim this one bears on
 - [Spaced Repetition Improves Retention](spaced-repetition-improves-retention.md) — a broader claim this one bears on
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on

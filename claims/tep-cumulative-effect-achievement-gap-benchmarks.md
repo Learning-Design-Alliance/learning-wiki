@@ -45,7 +45,6 @@ A second benchmark analysis in the same evaluation expresses the cumulative four
 ## Related Claims
 - [Four years of TEP attendance produced English language arts gains equal to an additional 0.4 years of school relative to comparable NYC public school students](tep-four-years-ela-gain-0-4-years.md) — related
 - [Four years of TEP attendance produced science gains equal to an additional 0.6 years of school relative to comparable NYC public school students](tep-four-years-science-gain-0-6-years.md) — related
-- [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](tep-four-years-math-gain-1-6-years.md) — related
 - [Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools](tep-four-year-math-gain-1-6-years.md) — related
 - [TEP's achievement impacts were consistently positive across subjects and cohorts through 2012-2013, with especially large effects in math](tep-impacts-consistently-positive-math-largest.md) — a broader claim this one bears on
 - [TEP's achievement impacts were consistently positive across subjects and cohorts, with especially large effects in math, by the end of the 2012-2013 school year](tep-impacts-positive-across-subjects-cohorts.md) — a broader claim this one bears on

@@ -59,7 +59,7 @@ Fact fluency is a well-documented bottleneck: students who must compute basic fa
 
 ## Related Strategies
 - [Spaced retrieval routines](activating-prior-knowledge.md) — the daily warm-up slot doubles as activation of prior knowledge for the day's lesson
-- [Cover-Copy-Compare](activating_background_knowledge.md) — a self-managed variant suited to independent practice stations
+- [Cover-Copy-Compare](activate_background_knowledge.md) — a self-managed variant suited to independent practice stations
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the core mechanism; daily routines are short, high-frequency practice trials

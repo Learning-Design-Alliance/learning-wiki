@@ -1,6 +1,7 @@
 ---
 type: element
 id: problem-scenario
+aliases: [problem-scenarios]
 title: Problem Scenario
 description: Learners engage with a structured real-world scenario that requires problem-solving.
 canonical: true
@@ -8,6 +9,11 @@ status: review
 generated:
   by: "claude/unspecified"
   at: 2026-08-29
+sources:
+  - id: hmelo-silver-2004
+    resource: "https://doi.org/10.1023/B:EDPR.0000034022.16470.f3"
+    title: "Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266"
+    author: Hmelo-Silver, C. E
 ---
 
 # Problem Scenario
@@ -28,12 +34,15 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - Access to resources, data, or experts learners can consult as the problem unfolds
 - A decision point or deliverable that forces commitment, not just discussion
 - Debriefing or feedback that connects the scenario experience back to the target concepts
+- **A realistic situation with a clear problem**
+- **Details sufficient to support investigation or decision-making**
 
 #### Constraints
 - Without adequate scaffolding, novices flounder in unguided exploration and may encode misconceptions; minimally guided discovery underperforms explicit support for learners without prior knowledge [~S]
 - Scenarios with a single "correct" answer collapse into guess-the-teacher's-intent exercises, undermining the authenticity that makes them work
 - High scenario complexity can overload working memory; without [Cognitive Load Management](../principles/cognitive-load-management.md), learners attend to surface details rather than underlying principles
 - Expensive to design and maintain well; weak scenarios cost more than they return
+- **Overly simple scenarios may not sustain meaningful reasoning**
 
 ### Target Learners
 - Intermediate learners who have foundational concepts and are ready to apply them; pure novices typically need worked models first
@@ -45,34 +54,43 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - Transfer: applying concepts to novel, realistic situations [Whole-task practice supports transfer better than part-task drill alone.](../claims/whole-task-performance-improves-transfer.md) [+M]
 - Decision-making under uncertainty: weighing trade-offs and justifying commitments
 - Collaboration and communication when scenarios are tackled in teams
+- Support situated problem analysis and authentic application.
 
 ### Affordances
 - [Active Learning](../principles/active-learning.md) — a scenario makes learners the decision-makers rather than recipients, requiring them to generate, test, and defend solutions
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a *structured* scenario controls what information is available and when, letting designers release complexity gradually instead of exposing learners to the full messiness of reality at once
 - [Constructivism](../principles/constructivism.md) — scenarios create the conditions for learners to construct workable models through experience and feedback rather than transmission
 - [Collaborative Learning](../principles/collaborative-learning.md) — realistic problems are naturally too large for one perspective, making team roles and negotiated decisions authentic rather than artificial
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Situated Learning](../theories/situated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
+- [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](../claims/dewey-rejects-fixed-moral-stages.md) [+W]
 
 ## Related Elements
 - [Case Study](case-study.md) — the retrospective sibling; cases show how a situation resolved, while problem scenarios ask learners to resolve it themselves
 - [Coaching](coaching.md) — the feedback mechanism that keeps scenario exploration productive
 - [Articulation](articulation.md) — requiring learners to justify decisions converts scenario activity into examinable reasoning
 - [Assessment](assessment.md) — scenario performance and decision quality provide authentic evidence of learning
+- [Problem Presentation](problem-presentation.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
 
 ## Patterns That Use This Element
 - [Anchored Instruction](../patterns/anchored-instruction.md) — the anchor is a rich problem scenario (e.g., the Jasper Woodbury adventure series) around which instruction is organized
 - [Case-Based Learning](../patterns/case-based-learning.md) — scenarios and cases alternate as the core learning object
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — scenarios supply the realistic tasks in which modeling, coaching, and fading occur
 - Problem-Based Learning — the scenario is the trigger for the entire inquiry cycle (see [Maastricht University's PBL program](https://www.maastrichtuniversity.nl/education/problem-based-learning))
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
 
 ## Examples
 - **[Harvard Business School case method](https://www.hbs.edu/mba/academic-experience/coursework/Pages/the-case-method.aspx)** — students receive a business dilemma, must decide on a course of action before class, and defend it in discussion; a hybrid of scenario and case
 - **[Jasper Woodbury Problem Solving Series](https://peabody.vanderbilt.edu/research/learning-technology-center/jasper-project/)** — video-anchored mathematical problem scenarios requiring extended, data-driven solution planning
 - **[Maastricht University Problem-Based Learning](https://www.maastrichtuniversity.nl/education/problem-based-learning)** — a seven-step scenario-driven tutorial process used across the entire curriculum
 - **[CapsimInbox](https://www.capsim.com)** — simulated business scenarios where learners make sequential management decisions and receive performance feedback
+- A realistic case introduction that frames the decisions learners will need to make.
 
 ## Key Sources
 - Barrows, H. S. (1986). A taxonomy of problem-based learning methods. *Medical Education, 20*(6), 481–486. [doi:10.1111/j.1365-2923.1986.tb01386.x](https://doi.org/10.1111/j.1365-2923.1986.tb01386.x)
@@ -80,3 +98,51 @@ Problem scenarios support learning by giving knowledge a purpose and a context o
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/BF02505024](https://doi.org/10.1007/BF02505024)
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235–266. [doi:10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)
+- Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266. [https://doi.org/10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)
+
+<!-- merged 2026-10-09 from elements/problem-scenarios ("Problem Scenarios"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Problem Scenarios
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+
+## Description
+Problem scenarios are concrete situations presented to learners as the context for inquiry, analysis, or solution development. They are useful when learners need a realistic frame that makes a problem meaningful and actionable.
+
+## Design Implications
+
+### Context
+#### Requirements
+- **A realistic situation with a clear problem**
+- **Details sufficient to support investigation or decision-making**
+#### Constraints
+- **Overly simple scenarios may not sustain meaningful reasoning**
+
+### Target Learning Goals
+- Support situated problem analysis and authentic application.
+
+### Affordances
+- [Problem-based Learning](../principles/problem-based-learning.md)
+- [Situated Learning](../theories/situated-learning.md)
+
+### Claims
+<!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
+- [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](../claims/dewey-rejects-fixed-moral-stages.md) [+W]
+
+## Related Elements
+- [Problem Scenario](problem-scenario.md)
+- [Problem Presentation](problem-presentation.md)
+- [Scenario-Based Learning](scenario-based-learning.md)
+
+## Patterns That Use This Element
+- [Problem-Based Learning](../patterns/problem-based-learning.md)
+- [Goal-Based Scenarios](../patterns/goal-based-scenarios.md)
+
+## Examples
+- A realistic case introduction that frames the decisions learners will need to make.
+
+## Key Sources
+- Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266. [https://doi.org/10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)
+-->

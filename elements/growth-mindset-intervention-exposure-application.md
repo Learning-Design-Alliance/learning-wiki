@@ -55,7 +55,6 @@ A brief psychological intervention for postsecondary students aiming to improve 
 - [Growth Mindset Framing](../strategies/growth-mindset-framing.md)
 - [Promote a Growth Mindset](../strategies/promote_a_growth_mindset.md)
 - [Growth Mindset Development](../strategies/growth_mindset_development.md)
-- [Promoting a Growth Mindset](../strategies/promoting_a_growth_mindset.md)
 - [Effort-Based Praise](../strategies/effort-based_praise.md)
 - [Promote a Growth Mindset in Math](../strategies/promote_a_growth_mindset_in_math.md)
 - [Set a High Bar for Each Student](../strategies/set_a_high_bar_for_each_student.md)

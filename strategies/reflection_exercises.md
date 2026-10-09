@@ -62,7 +62,7 @@ Reflection converts experience into learning by forcing reprocessing of events t
 
 ## Related Strategies
 - [Goal-Setting](../elements/goal-setting.md) — reflection cycles typically pair goal-setting with progress review
-- [Exit Tickets](exit-tickets.md) — a short-form reflection routine embedded in class endings
+- [Exit Tickets](exit-ticket.md) — a short-form reflection routine embedded in class endings
 - [Journaling](journaling.md) — the sustained written form of this strategy
 
 ## Examples

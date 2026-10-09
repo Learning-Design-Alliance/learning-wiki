@@ -62,7 +62,7 @@ Scenario analysis works because it situates abstract principles (honesty, fairne
 ## Related Strategies
 - [Case-based learning](case-based-learning.md) — the broader family; scenario analysis is its structured, discussion-centered variant
 - [Role-play and simulation](acting-role-play.md) — enacting the scenario rather than analyzing it; often paired as a follow-up
-- [Journaling reflection](reflective-journaling.md) — the individual reflection step generalized into a routine practice
+- [Journaling reflection](reflective-journals.md) — the individual reflection step generalized into a routine practice
 
 ## Examples
 - **Health professions education**: Problem-based and case-based curricula (e.g., the hybrid PBL tracks at McMaster and Maastricht) present clinical scenarios; students analyze differential diagnoses and management decisions before group discussion — a well-studied instance of the format [+M].

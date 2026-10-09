@@ -56,7 +56,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — not settled: the text available could not confirm the entries (abstract)
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [~M] — novices often learn initial routines more effectively from modeled examples followed by closely related practice; not yet checked against its sources
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M] — novices often learn initial routines more effectively from modeled examples followed by closely related practice; not yet checked against its sources
 
 ## Objective and learner-valued goal
 
@@ -150,7 +150,7 @@ Direct instruction is strongest when learners need a clear model of what success
 Explicit instruction is the principle of teaching with clear explanations, modeling, guided practice, and deliberate checks for understanding rather than leaving key steps or criteria implicit. This page serves as the canonical short-form target for links that refer to explicit instruction broadly rather than to a domain-specific variant.
 
 ## Implications
-Explicit instruction is especially useful when learners do not yet know what to attend to, what successful performance looks like, or how to begin a task productively. Clear explanation, modeling, guided practice, and checks for understanding can reduce unnecessary ambiguity and help novices build an initial workable routine faster than unguided discovery alone [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [~M]. The tradeoff is that explicitness should support learning, not replace thinking: instruction is strongest when support is responsive to actual learner need [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M], and once learners have enough footing it needs to shift toward application, judgment, and increasing independence rather than permanent step-by-step direction.
+Explicit instruction is especially useful when learners do not yet know what to attend to, what successful performance looks like, or how to begin a task productively. Clear explanation, modeling, guided practice, and checks for understanding can reduce unnecessary ambiguity and help novices build an initial workable routine faster than unguided discovery alone [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M]. The tradeoff is that explicitness should support learning, not replace thinking: instruction is strongest when support is responsive to actual learner need [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M], and once learners have enough footing it needs to shift toward application, judgment, and increasing independence rather than permanent step-by-step direction.
 
 ### Context
 #### Requirements
@@ -174,7 +174,7 @@ Explicit instruction is especially useful when learners do not yet know what to 
 
 ### Claims
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — explicit teaching is more effective when guidance adapts to what learners actually understand and can do
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [~M] — novices often learn initial routines more effectively from modeled examples followed by closely related practice
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [~M] — novices often learn initial routines more effectively from modeled examples followed by closely related practice
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

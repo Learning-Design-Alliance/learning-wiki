@@ -62,7 +62,7 @@ Family literacy programs work by changing the *distribution and quality* of lite
 ## Related Strategies
 
 - [Dialogic Reading](../elements/dialogic-reading.md) — the single most-researched coached technique within family literacy programs
-- [Home Visiting](../strategies/home-visiting.md) — a delivery mode that reaches families unlikely to attend center-based sessions
+- [Home Visiting](home-visits.md) — a delivery mode that reaches families unlikely to attend center-based sessions
 - [Read-Alouds](../strategies/read-alouds.md) — the classroom counterpart whose techniques programs teach caregivers to replicate at home
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Train parents as one-on-one reading coaches through weekly family workshops](parent-reading-coach-family-workshops.md)

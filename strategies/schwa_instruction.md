@@ -58,7 +58,7 @@ Schwa instruction is a form of structured literacy teaching that connects phonol
 
 ## Related Strategies
 - [Syllable Division Instruction](../strategies/syllable-division-instruction.md) — schwa only makes sense once students can identify syllables and locate the accent
-- [Word Sorting](../strategies/word-sorting.md) — the primary practice format for contrasting schwa and full-vowel spellings
+- [Word Sorting](word-sort.md) — the primary practice format for contrasting schwa and full-vowel spellings
 - [Morphology Instruction](../strategies/morphology-instruction.md) — morphological relatives (*define* → *definition*) reveal where the schwa hides the full vowel
 
 ## Related Elements

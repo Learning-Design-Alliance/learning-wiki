@@ -45,7 +45,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 
 ## Related Elements
 - [Application](application.md)
-- [Simulations](simulations.md)
+- [Simulations](simulation.md)
 - [In-Class Activities](in-class-activities.md)
 
 ## Patterns That Use This Element

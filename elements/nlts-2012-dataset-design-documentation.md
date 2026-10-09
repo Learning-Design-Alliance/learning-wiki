@@ -49,7 +49,6 @@ The National Longitudinal Transition Study (NLTS) 2012 is a national dataset on 
 ## Related Elements
 
 - [National Longitudinal Transition Study 2012 (NLTS 2012)](nlts-2012-dataset.md)
-- [National Longitudinal Transition Study 2012 (NLTS 2012)](nlts-2012-national-longitudinal-transition-study.md)
 - [National Longitudinal Transition Study 2012 (NLTS 2012) surveys of secondary-school youth with disabilities and their parents](nlts-2012-surveys-youth-disabilities-parents.md)
 
 ## Examples

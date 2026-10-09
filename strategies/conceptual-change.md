@@ -59,7 +59,7 @@ Learners do not enter instruction as blank slates; intuitive misconceptions (e.g
 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the diagnostic first step; conceptual change is activation with a confrontational purpose
-- [Predicting-observing-explaining](../strategies/predicting-observing-explaining.md) — a structured routine for the elicit-confront cycle *(if unavailable, use POE routines within inquiry instruction)*
+- [Predicting-observing-explaining](predict-observe-explain.md) — a structured routine for the elicit-confront cycle *(if unavailable, use POE routines within inquiry instruction)*
 
 ## Examples
 - **Physics education research curricula** such as *Tutorials in Introductory Physics* (University of Washington) and *Physics by Inquiry* (McDermott et al.) — built entirely on eliciting common misconceptions, confronting them with experiments, and guided reconstruction.

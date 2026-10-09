@@ -45,7 +45,6 @@ This strategy asks educators to build a classroom culture that treats asking for
 - [Creating a Culture of Error](creating_a_culture_of_error.md)
 - [Building a Supportive Classroom Environment for Mistakes](building_a_supportive_classroom_environment_for_mistakes.md)
 - [Encourage Student Self-Advocacy](encourage_student_self-advocacy.md)
-- [Encouraging Student Self-Advocacy](encouraging_student_self-advocacy.md)
 - [Share information about existing school and community health resources with students and their families, prioritizing youth-friendly resources](share-health-resource-information-students-families.md)
 
 ## Examples

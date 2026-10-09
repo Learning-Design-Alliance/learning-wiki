@@ -61,7 +61,7 @@ Questioning functions as both an assessment mechanism and a learning mechanism: 
 
 ## Related Strategies
 - [Class Discussion](../elements/class-discussion.md) — questioning is the primary engine of productive discussion
-- [Cold Calling](cold-calling.md) — a distribution technique that pairs with questioning norms
+- [Cold Calling](cold-call.md) — a distribution technique that pairs with questioning norms
 - [Think-Pair-Share](../patterns/think-pair-share.md) — lowers the stakes of public questioning and increases response quality
 - [Formative Assessment](formative-assessment.md) — questioning is the most frequent formative-assessment tool in classrooms
 

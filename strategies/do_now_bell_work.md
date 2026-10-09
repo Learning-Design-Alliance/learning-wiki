@@ -19,7 +19,7 @@ A Do Now (also called bell work, bell ringer, or warm-up) is a brief task — ty
 
 ## Design Implications
 
-Do Nows serve two functions at once: a classroom-management routine that establishes an academic tone from the first minute, and a learning event — most powerfully as retrieval practice on previously taught content [Retrieval practice produces durable learning beyond restudying.](../claims/retrieval-practice-improves-long-term-retention.md) [+S]. Because the task occupies the opening minutes, its content choice determines whether the time is spent consolidating memory, activating relevant prior knowledge [Activation improves learning.](../claims/activation-improves-learning.md) [+M], or merely filling time.
+Do Nows serve two functions at once: a classroom-management routine that establishes an academic tone from the first minute, and a learning event — most powerfully as retrieval practice on previously taught content [Retrieval practice produces durable learning beyond restudying.](../claims/retrieval-practice-improves-retention.md) [+S]. Because the task occupies the opening minutes, its content choice determines whether the time is spent consolidating memory, activating relevant prior knowledge [Activation improves learning.](../claims/activation-improves-learning.md) [+M], or merely filling time.
 
 ### Context
 #### Requirements
@@ -35,7 +35,7 @@ Do Nows serve two functions at once: a classroom-management routine that establi
 - Repeating the same format daily reduces engagement; novelty and format variation sustain attention [~W]
 
 #### Implementation Variability
-- **Retrieval Do Now**: 2–4 questions on material from a previous lesson, days, or weeks — spaced retrieval [Retrieval practice produces durable learning beyond restudying.](../claims/retrieval-practice-improves-long-term-retention.md) [+S]
+- **Retrieval Do Now**: 2–4 questions on material from a previous lesson, days, or weeks — spaced retrieval [Retrieval practice produces durable learning beyond restudying.](../claims/retrieval-practice-improves-retention.md) [+S]
 - **Activation Do Now**: a prompt or question that surfaces relevant prior knowledge or misconceptions before new content ([Activation](../elements/activation.md))
 - **Quick write**: a 3-minute written response to a provocative question, priming discussion ([Class Discussion](../elements/class-discussion.md))
 - **Prediction Do Now**: students predict an outcome or generate a hypothesis, creating curiosity for the lesson
@@ -61,7 +61,7 @@ Do Nows serve two functions at once: a classroom-management routine that establi
 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the activation Do Now is a compact, routine version of this strategy
-- [Exit Tickets](../strategies/exit-tickets.md) — the bookend strategy; exit ticket results often feed the next day's Do Now, closing the retrieval loop
+- [Exit Tickets](exit-ticket.md) — the bookend strategy; exit ticket results often feed the next day's Do Now, closing the retrieval loop
 - [Spaced Retrieval](../strategies/spaced-retrieval.md) — Do Nows are the most practical daily vehicle for distributing retrieval across lessons
 
 ## Examples

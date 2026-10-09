@@ -20,6 +20,7 @@ adds a Search page for Pagefind, and marks each page's article for Pagefind to i
 tiers agree on which page lives where.
 """
 import os
+from html import escape as html_escape
 import posixpath
 import re
 from pathlib import Path
@@ -161,15 +162,67 @@ def landing_markdown(folder: str, page_url: str, root: Path = ROOT) -> str:
 SEARCH_PAGE = """# Search
 
 <link href="../pagefind/pagefind-ui.css" rel="stylesheet">
-<div id="search"></div>
+<div id="main-pages" hidden>
+<p><strong>Main pages</strong></p>
+<ol id="main-pages-list"></ol>
+<p><strong>All results</strong></p>
+</div>
+<div id="wiki-search"></div>
 <script src="../pagefind/pagefind-ui.js"></script>
-<script>
-  window.addEventListener("DOMContentLoaded", function () {
-    var ui = new PagefindUI({ element: "#search", showSubResults: true, showImages: false,
-                              openFilters: ["kind"] });
-    var q = new URLSearchParams(window.location.search).get("q");
-    if (q) { ui.triggerSearch(q); }
-  });
+<script type="module">
+  // Long pages are not penalised and repeated words count for less, so a topic's
+  // main page is not buried under claims that repeat its words more densely.
+  const ranking = { pageLength: 0, termFrequency: 0.3 };
+  const pf = await import("../pagefind/pagefind.js");
+  await pf.options({ ranking });
+  const box = document.getElementById("main-pages");
+  const list = document.getElementById("main-pages-list");
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"})[c]);
+  let seq = 0;
+  // The canonical pages first, then the rest of the curated tier (principles, patterns,
+  // designs, products, methods, canonical elements and theories), above the full results.
+  async function mainPages(term) {
+    const n = ++seq;
+    if (!term || term.trim().length < 2) { box.hidden = true; return; }
+    const canon = await pf.search(term, { filters: { tier: "canonical" } });
+    const rest = await pf.search(term, { filters: { tier: "curated" } });
+    const pool = [...(canon ? canon.results.slice(0, 12).map(x => [x, 0]) : []),
+                  ...(rest ? rest.results.slice(0, 12).map(x => [x, 1]) : [])];
+    const rows = await Promise.all(pool.map(async ([x, tier], i) => ({ d: await x.data(), tier, i })));
+    // A page named by the query is the main page for it: rank by how many query words
+    // the title carries (by their first five letters, so "practice" finds "practise"),
+    // then the shorter title, then canonical over curated, then Pagefind's own order.
+    const words = term.toLowerCase().match(/[a-z0-9]+/g) || [];
+    for (const r of rows) {
+      const t = ((r.d.meta.title || "") + " " + (r.d.meta.aliases || "")).toLowerCase();
+      r.cover = words.filter(w => t.includes(w.slice(0, 5))).length;
+      r.len = ((r.d.meta.title || "").toLowerCase().match(/[a-z0-9]+/g) || []).length;
+    }
+    rows.sort((a, b) => b.cover - a.cover || a.len - b.len || a.tier - b.tier || a.i - b.i);
+    const seen = new Set();
+    const top = rows.filter(r => !seen.has(r.d.url) && seen.add(r.d.url)).slice(0, 5).map(r => r.d);
+    if (n !== seq) return;
+    list.innerHTML = top.map(d => `<li><a href="${esc(d.url)}">${esc(d.meta.title)}</a>`
+      + ` <small>${esc(((d.filters || {}).kind || [""])[0])}</small></li>`).join("");
+    box.hidden = !top.length;
+  }
+  const ui = new PagefindUI({ element: "#wiki-search", showSubResults: false, showImages: false,
+                              openFilters: ["kind"], ranking,
+                              processTerm: t => { mainPages(t); return t; } });
+  // `tier` is the Main pages list's own filter, not one for readers: hide its block.
+  new MutationObserver(() => {
+    // Main pages sits between the search box and the full results.
+    const drawer = document.querySelector("#wiki-search .pagefind-ui__drawer");
+    if (drawer && box.nextElementSibling !== drawer) { drawer.before(box); }
+    for (const el of document.querySelectorAll("#wiki-search .pagefind-ui__filter-name")) {
+      if (el.textContent.trim().toLowerCase() === "tier") {
+        const block = el.closest(".pagefind-ui__filter-block") || el.closest("details");
+        if (block) block.style.display = "none";
+      }
+    }
+  }).observe(document.getElementById("wiki-search"), { childList: true, subtree: true });
+  const q = new URLSearchParams(window.location.search).get("q");
+  if (q) { ui.triggerSearch(q); }
 </script>
 
 Search covers every page in the wiki, both the curated pages and the claims,
@@ -203,17 +256,50 @@ def on_page_markdown(markdown, page, config, files):
 
 def pagefind_attrs(kind: str) -> str:
     """The article's Pagefind attributes: index it, and file it under its kind so a
-    search can be narrowed to principles, claims, ..."""
+    search can be narrowed to principles, claims, ... A curated-tier content page also
+    carries TIER_MARK, which the search page's Main pages list searches on its own."""
     label = KIND_LABELS.get(kind, "")
     return " data-pagefind-body" + (f' data-pagefind-filter="kind:{label}"' if label else "")
 
 
+# Pagefind reads one filter per attribute ("kind:Principle, tier:curated" became one kind
+# value), so the tier rides on an empty element of its own inside the article.
+# `canonical` for the pages the ledger settles against (canonical: true), `curated` for the
+# rest of the curated tier; the Main pages list searches the canonical ones first.
+TIER_MARK = '<span data-pagefind-filter="tier:{tier}"></span>'
+
+
+
 KIND_LABELS = {"principle": "Principle", "element": "Element", "pattern": "Pattern", "design": "Design",
+               "product": "Product or programme", "research-method": "Research method",
                "strategy": "Strategy", "process": "Design process", "method": "Design method",
                "theory": "Theory", "learner-variable": "Learner variable", "claim": "Claim"}
 
 
+HEADER_SEARCH = ('<form class="lt-header-search" action="{rel}search/" role="search" '
+                 'style="margin:0 .6rem;align-self:center">'
+                 '<input name="q" type="search" placeholder="Search" aria-label="Search the wiki" '
+                 'style="font:inherit;font-size:.7rem;padding:.25rem .5rem;border-radius:.2rem;border:0;'
+                 'width:11rem;max-width:30vw;background:var(--md-default-bg-color);'
+                 'color:var(--md-default-fg-color)"></form>')
+
+
 def on_post_page(output, page, config):
     kind = str((page.meta or {}).get("type") or "")
-    return output.replace('<article class="md-content__inner md-typeset">',
-                          f'<article class="md-content__inner md-typeset"{pagefind_attrs(kind)}>', 1)
+    meta = page.meta or {}
+    canonical = str(meta.get("canonical", "")).lower() == "true"
+    mark = TIER_MARK.format(tier="canonical" if canonical else "curated") if kind in KIND_LABELS else ""
+    # A page's former slugs name it too ("spaced-practice" is Spaced Learning), so the
+    # search page's Main pages ranking reads them beside the title.
+    aliases = meta.get("aliases") or []
+    if mark and isinstance(aliases, list) and aliases:
+        words = " ".join(str(a).replace("-", " ").replace("_", " ") for a in aliases)
+        mark += f'<span data-pagefind-meta="aliases:{html_escape(words)}"></span>'
+    if page.file.src_uri != "search.md":       # the search page itself is not a result
+        output = output.replace('<article class="md-content__inner md-typeset">',
+                                f'<article class="md-content__inner md-typeset"{pagefind_attrs(kind)}>{mark}', 1)
+    # A search box in the header, sending the reader to the search page (?q=), since
+    # the theme's own box went with its lunr search.
+    rel = "../" * page.url.count("/")
+    return output.replace('<div class="md-header__source">',
+                          HEADER_SEARCH.format(rel=rel) + '<div class="md-header__source">', 1)

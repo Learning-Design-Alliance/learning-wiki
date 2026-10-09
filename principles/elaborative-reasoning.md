@@ -114,8 +114,7 @@ Elaboration works because it changes how information is encoded and organized. A
 - [Making Connections](../strategies/making_connections.md)
 - [Activation](../strategies/activation.md)
 - [Keyword Strategy](../strategies/keyword_strategy.md)
-- [Connection of Prior Knowledge to New Learning](../strategies/connection_of_prior_knowledge_to_new_learning.md)
-- [Connect Prior Knowledge to New Learning](../strategies/connect_prior_knowledge_to_new_learning.md)
+- [Connection of Prior Knowledge to New Learning](../strategies/connect_prior_knowledge_to_new_learning.md)
 - [Background Knowledge Activation](../strategies/background_knowledge_activation.md)
 - [Elaborative Interrogation](../strategies/elaborative-interrogation.md)
 - [Self Explanation Prompts](../strategies/self-explanation-prompts.md)
@@ -222,7 +221,7 @@ The essay presents schema elaboration, following Bransford (1985), as a way to a
 - [Making Connections](../strategies/making_connections.md)
 - [Activation](../strategies/activation.md)
 - [Keyword Strategy](../strategies/keyword_strategy.md)
-- [Connection of Prior Knowledge to New Learning](../strategies/connection_of_prior_knowledge_to_new_learning.md)
+- [Connection of Prior Knowledge to New Learning](../strategies/connect_prior_knowledge_to_new_learning.md)
 - [Connect Prior Knowledge to New Learning](../strategies/connect_prior_knowledge_to_new_learning.md)
 - [Background Knowledge Activation](../strategies/background_knowledge_activation.md)
 

@@ -39,7 +39,7 @@ The article recommends that language teachers first enrich their own cultural aw
 
 ## Related Strategies
 
-- [Developing Cultural Awareness](developing_cultural_awareness.md)
+- [Developing Cultural Awareness](develop_cultural_awareness.md)
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 
 ## Examples

@@ -59,7 +59,7 @@ Manipulatives reduce the representational burden of abstract content by groundin
 ## Related Strategies
 
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — manipulatives are one offloading accommodation within this broader set
-- [Activating Background Knowledge](activating_background_knowledge.md) — concrete materials anchor new concepts in familiar experience
+- [Activating Background Knowledge](activate_background_knowledge.md) — concrete materials anchor new concepts in familiar experience
 - [Unplugged coding with printable motion and trigger blocks as a physical introduction to online coding](unplugged-printable-blocks-k2-introduction.md)
 
 ## Examples

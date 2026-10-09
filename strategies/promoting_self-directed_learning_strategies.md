@@ -66,7 +66,7 @@ Self-directed learning is not discovery learning: the strategies that make indep
 - Measure transfer: performance on tasks where the teacher has not pre-selected the approach
 
 ## Related Strategies
-- [Teaching Metacognitive Strategies](teaching-metacognitive-strategies.md) — the monitoring and evaluation component of the self-direction cycle
+- [Teaching Metacognitive Strategies](teach-metacognitive-strategies.md) — the monitoring and evaluation component of the self-direction cycle
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — structured peer practice of named comprehension strategies
 - [Goal-Setting with Students](goal-setting-with-students.md) — the planning phase of self-regulation
 - [Formative Self-Assessment](formative-self-assessment.md) — builds the evaluative judgment self-directed learners need

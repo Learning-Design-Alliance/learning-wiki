@@ -51,7 +51,6 @@ The primer defines two distinct approaches to students working in groups. In coo
 
 - [Structured Peer Discussion Roles](../strategies/structured-peer-discussion-roles.md)
 - [Establish Group Roles](../strategies/establish-group-roles.md)
-- [Establishing Group Roles](../strategies/establishing-group-roles.md)
 - [Role Assignment](../strategies/role-assignment.md)
 - [Ritualize collaborative activities so students become fluent in the skills the ritual requires](../strategies/ritualized-collaborative-activities-build-fluency.md)
 - [Structure reflection after collaboration for both students and teachers using prompts, exit tickets, journals, rubrics, plus-and-delta, and gallery walks](../strategies/structured-reflection-after-collaboration.md)

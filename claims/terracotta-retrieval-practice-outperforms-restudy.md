@@ -48,5 +48,4 @@ The white paper reports the ManyClasses 2 study by Motz et al. (2024), conducted
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
-- [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-long-term-retention.md) — a broader claim this one bears on
 - [Retrieval practice benefits have been observed in children, healthy older adults, and memory-impaired patient groups, not only college students](retrieval-practice-benefits-generalize-to-children-older-adults-and-memory-impaired-patients.md) — related

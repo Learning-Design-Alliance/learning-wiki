@@ -43,7 +43,6 @@ The brief's description contrasts the two subjects in one sentence: math shows "
 
 
 ## Related Claims
-- [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-of-pre-pandemic-trends.md) — related
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
 - [MAP Growth data shows U.S. reading improving after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](map-growth-reading-turnaround-2025-2026.md) — reports the opposite
 - [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — a broader claim this one bears on

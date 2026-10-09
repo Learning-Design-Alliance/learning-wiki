@@ -63,7 +63,7 @@ Connections work because they activate and integrate prior knowledge with new te
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the pre-reading counterpart; connections extend activation into and beyond reading
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — packages connection-making with predicting, questioning, and clarifying in a peer-dialogue routine
-- [Question-Answer Relationships](question-answering-relationships.md) — complementary strategy for linking questions to text-based and knowledge-based sources
+- [Question-Answer Relationships](question-answer-relationships.md) — complementary strategy for linking questions to text-based and knowledge-based sources
 - [Annotating Texts](annotating-texts.md) — the written medium through which connections are often recorded
 
 ## Examples

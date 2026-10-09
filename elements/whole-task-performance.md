@@ -69,7 +69,7 @@ Whole-task performance accelerates skill acquisition and transfer by embedding l
 
 ## Related Elements
 - [Problem-Based Learning](problem-based-learning.md) — drives inquiry through the structure of an authentic, ill-structured problem.
-- [Simulations](simulations.md) — provides the high-fidelity environment necessary for safe, repeated whole-task performance.
+- [Simulations](simulation.md) — provides the high-fidelity environment necessary for safe, repeated whole-task performance.
 - [Coaching](coaching.md) — offers the targeted guidance required as learners navigate integrated challenges.
 - [Debriefing](debrief.md) — essential for reflecting on the integrated decision-making process after the task is complete.
 - [Part-task practice](part-task-practice.md) — often a necessary precursor or supplement for routine skills that must be automated to free up working memory.

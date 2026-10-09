@@ -53,6 +53,8 @@ TYPE_SINGULAR = {
     "elements": "element",
     "patterns": "pattern",
     "designs": "design",
+    "products": "product",
+    "research-methods": "research-method",
     "strategies": "strategy",
     "theories": "theory",
     "claims": "claim",

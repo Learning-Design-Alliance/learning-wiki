@@ -1,6 +1,7 @@
 ---
 type: element
 id: observation-shadowing
+aliases: [observationshadowing]
 title: Observation Shadowing
 description: Learners observe a live or recorded performance by an expert or peer, then immediately imitate or "shadow" that performance themselves.
 canonical: true
@@ -27,12 +28,15 @@ Shadowing converts passive observation into an active reproduction attempt, whic
 - A visible, well-structured model whose key moves are observable (or made observable through [Think-Aloud](think-aloud.md) narration)
 - An immediate reproduction opportunity with the model still available for reference (replay, side-by-side, or step-pause-imitate structure)
 - Feedback on the learner's shadow attempt, so discrepancies between model and copy are detected ([Practice](practice.md) with corrective information)
+- **A clear observation focus**
+- **A performance, workflow, or setting worth examining**
 
 #### Constraints
 - Observation alone produces overconfidence: learners who only watch rate their own ability far higher than tested performance warrants [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [-S] — shadowing must include the reproduction step, not just the watching step
 - Ineffective when the model's skill is far above the learner's; novices cannot extract imitable structure from expert performance that is too fluent or too fast
 - Poor fit for tasks where the observable surface does not reveal the underlying decisions (e.g., strategic or diagnostic reasoning), unless the model verbalizes those decisions
 - Imitating a flawed or idiosyncratic model transmits the flaws; model quality is a hard prerequisite
+- **Passive watching is not enough without prompts or debrief**
 
 ### Target Learners
 - Novices acquiring a motor, linguistic, or procedural skill (pronunciation, coding patterns, lab technique) who benefit from a concrete copy target [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
@@ -43,12 +47,15 @@ Shadowing converts passive observation into an active reproduction attempt, whic
 - Procedural and psychomotor skill acquisition: reproducing correct technique
 - Fluency building: rapid imitation cycles build automaticity of basic moves
 - Calibration: comparing one's own shadow attempt against the model exposes gaps between perceived and actual competence
+- Build noticing, contextual understanding, and preparation for later performance.
 
 ### Affordances
 - [Worked Examples](../principles/worked-examples.md) — a shadowed performance is a worked example enacted in real time; the learner studies the complete solution and immediately produces a parallel one
 - [Explicit Instruction](../principles/direct-instruction.md) — when the model narrates decisions while performing, shadowing converts tacit expertise into imitable steps rather than leaving learners to infer intent from outcomes
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — the model externalizes the solution structure, freeing working memory to attend to matching one's own execution to the observed one instead of planning from scratch
 - [Scaffolding](../principles/scaffolding.md) — shadowing is a temporary support that should fade: full imitation → partial imitation with learner decisions → independent performance
+- [Observation/Shadowing](../principles/observationshadowing.md)
+- [Metacognition](../principles/self-regulated-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -59,6 +66,7 @@ Shadowing converts passive observation into an active reproduction attempt, whic
 - [Think-Aloud](think-aloud.md) — narration that makes the model's invisible decisions observable
 - [Fading](fading.md) — progressively withdraws the model so learners move from copying to independent performance
 - [Demonstration](demonstration.md) — the observation half of the cycle; shadowing adds the immediate reproduction half
+- [Observation](observation.md)
 
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the modeling→coaching sequence, where learners shadow the expert before coached independent work
@@ -78,3 +86,42 @@ Shadowing converts passive observation into an active reproduction attempt, whic
 - Sweller, J., & Cooper, G. A. (1985). The use of worked examples as a substitute for problem solving in learning algebra. *Cognition and Instruction, 2*(1), 59–89. [doi:10.1207/s1532690xci0201_3](https://doi.org/10.1207/s1532690xci0201_3)
 - van Gog, T., & Rummel, N. (2010). Example-based learning: Integrating cognitive and social-cognitive research perspectives. *Educational Psychology Review, 22*(2), 155–174. [doi:10.1007/s10648-010-9134-7](https://doi.org/10.1007/s10648-010-9134-7)
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
+- Schon, D. A. (1983). *The reflective practitioner*. Basic Books.
+
+<!-- merged 2026-10-09 from elements/observationshadowing ("Observation/Shadowing"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Observation/Shadowing
+
+> **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
+
+## Description
+Observation/shadowing is the element in which learners watch practice in context in order to notice decisions, routines, and tacit moves before attempting similar work themselves.
+
+## Design Implications
+
+### Context
+#### Requirements
+- **A clear observation focus**
+- **A performance, workflow, or setting worth examining**
+#### Constraints
+- **Passive watching is not enough without prompts or debrief**
+
+### Target Learning Goals
+- Build noticing, contextual understanding, and preparation for later performance.
+
+### Affordances
+- [Observation/Shadowing](../principles/observationshadowing.md)
+- [Metacognition](../principles/self-regulated-learning.md)
+
+### Claims
+<!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
+- 
+
+## Related Elements
+- [Observation](observation.md)
+- [Demonstration](demonstration.md)
+
+## Key Sources
+- Schon, D. A. (1983). *The reflective practitioner*. Basic Books.
+-->

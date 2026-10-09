@@ -63,7 +63,7 @@ Highlighting on its own is one of the least effective study strategies when used
 
 ## Related Strategies
 - [Annotating](../principles/annotating.md) — the broader family of text-marking moves; highlighting is the color-categorized subset
-- [Summarization](summarization.md) — the natural follow-on task that converts highlights into learning
+- [Summarization](summarizing.md) — the natural follow-on task that converts highlights into learning
 - [Close Reading](close-reading.md) — category-driven highlighting operationalizes close-reading routines digitally
 
 ## Examples

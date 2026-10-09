@@ -1,6 +1,7 @@
 ---
 type: element
 id: simulation
+aliases: [simulations]
 title: Simulation
 description: A simulation is an interactive model of a system or environment in which learners act, observe consequences, and iterate, learning through controlled experimentation rather than direct instruction.
 canonical: true
@@ -52,6 +53,8 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Scaffolding](../principles/scaffolding.md) — simulations can stage complexity, starting with few variables and adding them as competence grows; [Fading](fading.md) applies naturally by progressively removing hints, prompts, and constraints
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — a well-designed simulation strips away irrelevant real-world complexity, letting learners attend to the variables that matter
 - [Feedback](feedback.md) — the simulation's response to learner actions is immediate, task-level feedback; effectiveness rises when debriefing elevates it to the process level [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
+- [Simulations/Immersive Virtual Environments](../principles/simulations-immersive-virtual-environments.md)
+- [Experiential Learning](../principles/experiential-learning.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -70,6 +73,9 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Graduate SLP students perceive the simulation's learning mode as highly beneficial](../claims/simucase-learning-mode-perceived-beneficial.md) [+M]
 - [Reflective practice improves outcomes when structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
 - [Students perceive debriefing as among the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+M]
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
+- [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](../claims/students-recommend-simulation-in-each-course.md) [+W]
+- [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -120,6 +126,8 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Coaching](coaching.md) — instructor or system guidance during simulation attempts
 - [Fading](fading.md) — progressively removing scaffolds within the simulation as expertise grows
 - [Feedback](feedback.md) — the core mechanism through which simulation actions become learning
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Role-Playing](role-playing.md)
 
 ## Patterns That Use This Element
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — simulation provides the exploration and articulation phases in a safe environment
@@ -144,3 +152,36 @@ Simulations support learning by making system dynamics explorable: learners buil
 - Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
 - Issenberg, S. B., McGaghie, W. C., Petrusa, E. R., Lee Gordon, D., & Scalese, R. J. (2005). Features and uses of high-fidelity medical simulations that lead to effective learning: A BEME systematic review. *Medical Teacher, 27*(1), 10–28. [doi:10.1080/01421590500046924](https://doi.org/10.1080/01421590500046924)
 - Wouters, P., van Nimwegen, C., van Oostendorp, H., & van der Spek, E. D. (2013). A meta-analysis of the cognitive and motivational effects of serious games. *Journal of Educational Psychology, 105*(2), 249–265. [doi:10.1037/a0031311](https://doi.org/10.1037/a0031311)
+- de Freitas, S. (2006). Learning in immersive worlds. JISC.
+
+<!-- merged 2026-10-09 from elements/simulations ("Simulations"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Simulations
+
+> **Element** · [All elements](index.md)
+> **Evidence** · 5 claims (4 for, 1 against) · 4 studies (2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 4 report an effect size · 5 claims rest on one study
+
+## Description
+Simulations are the element in which learners engage with realistic, model-based scenarios that approximate authentic systems or environments.
+
+## Design Implications
+
+### Affordances
+- [Simulations/Immersive Virtual Environments](../principles/simulations-immersive-virtual-environments.md)
+- [Experiential Learning](../principles/experiential-learning.md)
+
+### Claims
+<!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
+- [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
+- [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
+- [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](../claims/students-recommend-simulation-in-each-course.md) [+W]
+- [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
+- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+W]
+
+## Related Elements
+- [Scenario-Based Learning](scenario-based-learning.md)
+- [Role-Playing](role-playing.md)
+
+## Key Sources
+- de Freitas, S. (2006). Learning in immersive worlds. JISC.
+-->

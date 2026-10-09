@@ -97,7 +97,7 @@ Learning logs convert review time into generative processing: retrieving and art
 6. Vary prompt types across the week to target definitions, examples, connections, and summaries.
 
 ## Related Strategies
-- [Exit Tickets](exit-tickets.md) — a shorter, more assessment-focused variant of the closing log
+- [Exit Tickets](exit-ticket.md) — a shorter, more assessment-focused variant of the closing log
 - [Journaling](journaling.md) — longer-form reflective writing across multiple sessions
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the function served by opening logs
 
@@ -169,7 +169,7 @@ Learning logs combine retrieval practice with generative writing: prompting lear
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — opening logs serve this function in written form
-- [Exit Tickets](exit-tickets.md) — a shorter, more focused closing-log variant aimed at a single check for understanding
+- [Exit Tickets](exit-ticket.md) — a shorter, more focused closing-log variant aimed at a single check for understanding
 - [Journaling](journaling.md) — the broader family of reflective writing practices from which learning logs derive
 
 ## Related Elements

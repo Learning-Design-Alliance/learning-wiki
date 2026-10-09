@@ -58,7 +58,7 @@ TPS operationalizes [Active Learning](../principles/active-learning.md) by repla
 
 ## Related Strategies
 - [Jigsaw](../strategies/jigsaw.md) — a more elaborate cooperative structure; TPS is the minimal unit of the same peer-talk logic
-- [Cold Calling](../strategies/cold-calling.md) — pairs with TPS as an accountability mechanism for the Share phase
+- [Cold Calling](cold-call.md) — pairs with TPS as an accountability mechanism for the Share phase
 - [Wait Time](../strategies/wait-time.md) — the Think step institutionalizes Rowe's wait-time finding; extending pauses after questions improves response quality [~S]
 
 ## Examples

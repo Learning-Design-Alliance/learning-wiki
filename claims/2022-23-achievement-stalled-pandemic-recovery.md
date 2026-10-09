@@ -44,7 +44,6 @@ Technical appendix accompanying the NWEA brief titled "Education's long COVID: 2
 
 ## Related Claims
 - [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](pandemic-recovery-stalled-2022-23.md) — possibly the same claim (merge candidate)
-- [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-of-pre-pandemic-trends.md) — related
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — a narrower finding that bears on this claim
 - [Academic rebounding in reading and math was uneven across school years and summers, especially in reading](rebounding-uneven-across-school-years-summers-reading.md) — related

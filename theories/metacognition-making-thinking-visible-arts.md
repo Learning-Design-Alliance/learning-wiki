@@ -48,7 +48,7 @@ The article presents metacognition as "the awareness and understanding of one's 
 - [Metacognitive Strategies](../strategies/metacognitive_strategies.md)
 - [Metacognitive Accountable Talk Stems](../strategies/metacognitive_accountable_talk_stems.md)
 - [Write Alouds](../strategies/write_alouds.md)
-- [Teaching Metacognitive Strategies](../strategies/teaching-metacognitive-strategies.md)
+- [Teaching Metacognitive Strategies](../strategies/teach-metacognitive-strategies.md)
 - [Comprehension Monitoring](../strategies/comprehension_monitoring.md)
 - [Purposeful Reflection](../principles/purposeful-reflection.md)
 

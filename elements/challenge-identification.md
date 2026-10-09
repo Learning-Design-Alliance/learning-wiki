@@ -27,4 +27,4 @@ Challenge identification is the element in which learners or instructors surface
 - [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](../claims/confidence-obstacles-math-communication.md) [+W]
 
 ## Related Elements
-- [Problem Scenarios](problem-scenarios.md)
+- [Problem Scenarios](problem-scenario.md)

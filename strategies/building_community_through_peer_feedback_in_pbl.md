@@ -60,7 +60,7 @@ Peer feedback improves achievement when it is structured and criterion-reference
 
 ## Related Strategies
 
-- [Critique Protocols](../strategies/critique-protocols.md) — the specific feedback structures (e.g., "kind, specific, helpful") that make peer feedback safe and useful
+- [Critique Protocols](critique-protocol.md) — the specific feedback structures (e.g., "kind, specific, helpful") that make peer feedback safe and useful
 - [Gallery Walk](../strategies/gallery-walk.md) — a common format for whole-class peer feedback on displayed drafts
 - [Revision Cycles](../strategies/revision-cycles.md) — the drafting-and-revising routine that gives feedback a purpose
 - [Foster a classroom culture of critical thinking through collective responsibility, trust norms, multiple perspectives, scaffolding, and frequent argumentation opportunities](culture-practices-for-collaborative-argumentation.md)
@@ -69,7 +69,7 @@ Peer feedback improves achievement when it is structured and criterion-reference
 - [Feedback](../elements/feedback.md) — the core element; quality of peer feedback determines both learning and community outcomes
 - [Peer Interaction](../elements/peer-interaction.md) — the social structure through which community is built
 - [Revision](../elements/revision.md) — the step that makes feedback consequential and growth visible
-- [Rubric](../elements/rubric.md) — shared criteria that anchor critique and reduce personal judgment
+- [Rubric](../elements/rubrics.md) — shared criteria that anchor critique and reduce personal judgment
 
 ## Patterns That Use This Strategy
 - [Project-Based Learning](project-based-learning.md) — critique and revision is a core design principle of Gold Standard PBL

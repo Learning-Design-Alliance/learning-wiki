@@ -42,7 +42,7 @@ Inclusive cultural response draws on culturally relevant pedagogy, which holds t
 
 ### Target Learners
 - All learners, particularly those from underrepresented backgrounds whose identities are rarely reflected in canonical curricula [~M]
-- Learners whose prior knowledge and lived experience can be activated when content connects to familiar contexts ([Activating Background Knowledge](../strategies/activating_background_knowledge.md))
+- Learners whose prior knowledge and lived experience can be activated when content connects to familiar contexts ([Activating Background Knowledge](activate_background_knowledge.md))
 - Majority-culture learners, who benefit from encountering perspectives that complicate default assumptions and build empathy [Building Empathy](../principles/building-empathy.md) [+W]
 
 ### Target Learning Goals
@@ -59,7 +59,7 @@ Inclusive cultural response draws on culturally relevant pedagogy, which holds t
 
 ## Related Strategies
 
-- [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — inclusive content only pays off when learners' existing knowledge and experience are explicitly brought into play
+- [Activating Background Knowledge](activate_background_knowledge.md) — inclusive content only pays off when learners' existing knowledge and experience are explicitly brought into play
 - [Address Biases in the Use of Language and Symbols](../strategies/address_biases_in_the_use_of_language_and_symbols.md) — the companion micro-level move; inclusive texts lose credibility if surrounding language and imagery carry bias
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 

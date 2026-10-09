@@ -56,7 +56,6 @@ Value-added modeling is a statistical framework for estimating the contribution 
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](../elements/pittsburgh-value-added-models-teacher-school-contributions.md)
 - [Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)](../elements/dc-value-added-assessment-system.md)
 - [Value-added model for measuring school and teacher performance in DC Public Schools (IMPACT and TEAM)](../elements/dc-impact-team-value-added-model.md)
-- [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](../elements/pittsburgh-value-added-models-2012-13.md)
 - [Charleston County School District BRIDGE multi-dimensional educator evaluation framework](../elements/bridge-multidimensional-educator-evaluation-framework-charleston.md)
 - [Value-added models for measuring school and teacher effectiveness in DC Public Schools (IMPACT and TEAM), 2010-2011](../elements/dcps-impact-team-value-added-models-2010-2011.md)
 

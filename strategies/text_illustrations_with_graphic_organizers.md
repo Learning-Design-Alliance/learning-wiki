@@ -61,7 +61,7 @@ Pairing text with a structure-preserving graphic exploits dual-channel processin
 ## Related Strategies
 - [Advance Organizers](../elements/advance-organizers.md) — the before-reading variant; text illustrations typically operate during or after reading
 - [Concept Mapping](../elements/concept-mapping.md) — learner-generated node-and-link diagrams; the most open-ended organizer form
-- [Summarization](summarization.md) — organizer construction is a structured, spatial form of summarizing
+- [Summarization](summarizing.md) — organizer construction is a structured, spatial form of summarizing
 - [Annotating](../principles/annotating.md) — complementary text-marking strategy operating on the text itself rather than beside it
 
 ## Examples

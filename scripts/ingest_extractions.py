@@ -69,6 +69,8 @@ TYPE_TO_FOLDER = {
     "element": "elements",
     "pattern": "patterns",
     "design": "designs",
+    "product": "products",
+    "research-method": "research-methods",
     "strategy": "strategies",
     "theory": "theories",
     "learner-variable": "learner-variables",

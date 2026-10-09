@@ -407,6 +407,8 @@ BANNER_TYPES = {
     "processes": ("Design Process", "process"),
     "methods": ("Design Method", "method"),
     "designs": ("Design", "design"),
+    "products": ("Product or Programme", "product"),
+    "research-methods": ("Research Method", "research-method"),
     "learner-variables": ("Learner Variable", "learner-variable"),
     "claims": ("Claim", "claim"),
 }

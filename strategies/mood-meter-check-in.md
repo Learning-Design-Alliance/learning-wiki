@@ -60,7 +60,7 @@ Affective states influence attention, working memory, and willingness to engage,
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a play-based variant for younger learners building the same emotion vocabulary
 - [3-2-1 Reflection](3-2-1_reflection.md) — a closing routine that can bookend the Mood Meter at the end of a session
-- [Exit Tickets](exit-tickets.md) — a parallel end-of-session formative routine; the Mood Meter is its affective counterpart
+- [Exit Tickets](exit-ticket.md) — a parallel end-of-session formative routine; the Mood Meter is its affective counterpart
 
 ## Examples
 - **RULER (Yale Center for Emotional Intelligence)** — the Mood Meter is one of four RULER anchor tools; whole-school implementations include staff, student, and family Mood Meter check-ins ([https://ei.yale.edu/ruler](https://ei.yale.edu/ruler)).

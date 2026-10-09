@@ -61,7 +61,7 @@ Do not convert reported partial η² into a probability, rank unlike comparators
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+W] — not settled: the abstract available could not confirm the entries
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+W] — not yet checked against its sources
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W] — not yet checked against its sources
 - [Example-problem sequences reduce cognitive load and improve learning outcomes.](../claims/example-problem-sequences-reduce-cognitive-load.md) [+W] — not yet checked against its sources
 
 ## Illustrative design instance and observation record
