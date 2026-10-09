@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Two adaptive item-selection architectures: sequential maximum-information selection (COLO) versus whole-test shadow-test assembly (CBE) - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../theories/">Theories</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Theory">
+<h1 id="two-adaptive-item-selection-architectures-sequential-maximum-information-selection-colo-versus-whole-test-shadow-test-assembly-cbe">Two adaptive item-selection architectures: sequential maximum-information selection (COLO) versus whole-test shadow-test assembly (CBE)<a class="headerlink" href="#two-adaptive-item-selection-architectures-sequential-maximum-information-selection-colo-versus-whole-test-shadow-test-assembly-cbe" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Theory</strong> · <a href="../">All theories</a>
+<strong>Evidence</strong> · 8 claims (7 for, 1 mixed) · 2 studies (1 causal, 1 design), <code>q2</code> · 0 of 2 report an effect size · 8 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The report contrasts two fundamentally different adaptive testing architectures operating under the Rasch model. COLO employs the Kingsbury and Zara algorithm, selecting one item at a time based on maximum Fisher information with content balancing by item count and SEM; "COLO selects one item at a time quickly but does not look ahead at the remaining assessment, which can lead to constraint conflicts." The CBE instead leverages "a modified shadow test approach (van der Linden &amp; Reese, 1998) and weighted penalty model (Segall &amp; Davey, 1995)", constructing a student-specific plan (SSP) that guarantees content and other constraints are fulfilled before items are ordered. Constraints are must-haves; guidelines are nice-to-haves the engine may violate to meet more important rules.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>An item pool sufficient to assemble feasible student-specific plans meeting blueprint constraints</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The shadow test approach was originally proposed for fixed-length tests; variable-length MAP Growth tests required new item ordering rules to prevent content constraint violations</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>K-12 students taking adaptive assessments</li>
+</ul>
+<h3 id="target-learning-objectives">Target Learning Objectives<a class="headerlink" href="#target-learning-objectives" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Accurate and content-valid adaptive measurement of student ability</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/cbe-colo-comparable-content-validity-theta-recovery/">Cbe Colo Comparable Content Validity Theta Recovery</a> [+M]</li>
+<li><a href="../../claims/cbe-better-adaptivity-extreme-achievers-shallow-banks/">Cbe Better Adaptivity Extreme Achievers Shallow Banks</a> [~M]</li>
+<li><a href="../../claims/cbe-allows-repeated-items-across-administrations/">Across administrations, the CBE may re-administer an item to the same student before the longitudinal exposure window elapses when the item bank cannot fulfill test requirements, which COLO does not allow</a> [+W]</li>
+<li><a href="../../claims/colo-better-within-administration-item-exposure/">Within a single administration, COLO administered more items and overexposed fewer items than the CBE, likely due to its randomesque exposure-control procedure</a> [+W]</li>
+<li><a href="../../claims/cbe-better-adaptivity-extreme-achievers/">CBE shows better engine adaptivity than COLO, especially for extremely low or high achievement students</a> [+W]</li>
+<li><a href="../../claims/cbe-colo-item-exposure-comparable/">Item exposure rates are comparable across engines, with most items below 10%, and the CBE Reading item-use rate is lower than COLO's</a> [+W]</li>
+<li><a href="../../claims/cbe-colo-reliability-comparable-cbe-higher-precision/">Marginal reliabilities of MAP Growth winter scores are comparable across engines and all in the 0.90s, with CBE showing slightly higher precision (lower SEM)</a> [+W]</li>
+<li><a href="../../claims/cbe-longer-test-duration-comparable-length/">Test lengths are comparable across engines, but CBE test durations are higher than COLO's in both terms and content areas, more prominently in Reading</a> [+W]</li>
+</ul>
+<h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../elements/cbe-project-altair-enhancements/">CBE enhancements for MAP Growth delivery (Project Altair)</a></li>
+<li><a href="../../elements/cbe-test-models-guidelines-constraints/">Enhanced constraint-based engine (CBE) test models with guidelines and constraints for MAP Growth delivery</a></li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Hu, A., Chien, M., &amp; Meyer, P. (2021). Comparability of MAP Growth tests administered through different technology and psychometric infrastructure: A simulation study. NWEA. https://www.nwea.org/research/publication/comparability-of-map-growth-tests-administered-through-different-technology-and-psychometric-infrastructure-a-simulation-study/</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>theory</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Two adaptive item-selection architectures: sequential maximum-information selection (COLO) versus whole-test shadow-test assembly (CBE)</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The report contrasts two fundamentally different adaptive testing architectures operating under the Rasch model.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-08</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>hu-2021</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

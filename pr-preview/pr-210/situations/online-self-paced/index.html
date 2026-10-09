@@ -1,0 +1,2596 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A persistent, LLM-maintained knowledge base for learning design — principles, elements, patterns, designs, products and programmes, strategies, design processes and methods, research methods, theories, learner variables, and empirical claims.">
+      
+      
+      
+        <link rel="canonical" href="https://learning-design-alliance.github.io/learning-wiki/situations/online-self-paced/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../branding/lazuli-favicon.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Designing for online-self-paced - Learning Design Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../branding/lazuli-theme.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#designing-for-online-self-paced" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Learning Design Wiki" class="md-header__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lazuli-monogram-lapis.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Learning Design Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Designing for online-self-paced
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <form class="lt-header-search" action="../../search/" role="search" style="margin:0 .6rem;align-self:center"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki" style="font:inherit;font-size:.7rem;padding:.25rem .5rem;border-radius:.2rem;border:0;width:11rem;max-width:30vw;background:var(--md-default-bg-color);color:var(--md-default-fg-color)"></form><div class="md-header__source">
+        <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Learning Design Wiki" class="md-nav__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lazuli-monogram-lapis.svg" alt="logo">
+
+    </a>
+    Learning Design Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../search/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Search
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design for a Situation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../principles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../patterns/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patterns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../products/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Products & Programmes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../research-methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../theories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Theories
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../claims/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claims
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CLAUDE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema & Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#blended-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Blended Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#authentic-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Authentic Assessment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cognitive-activation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cognitive Activation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cognitive-flexibility" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cognitive Flexibility
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#constructive-alignment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Constructive Alignment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#debriefing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Debriefing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#deliberate-practice" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Deliberate Practice
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#develop-understanding" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Develop Understanding
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#digital-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Digital Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dual-coding" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dual Coding
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elaboration-theory" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elaboration Theory
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#error-analysis" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Error Analysis
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#experience-with-languaging-activities-elas-guided-by-a-sequence-of-experience-based-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#experiential-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Experiential Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#experiential-learning-cycle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Experiential Learning Cycle
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#explicit-instruction-vocabulary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Explicit Instruction: Vocabulary
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#feedback-loops" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Feedback Loops
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#goal-setting-monitoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Goal Setting &amp; Monitoring
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#graphic-organizers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Graphic Organizers
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#guided-practice" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Guided Practice
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#holistic-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Holistic Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#journaling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Journaling
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#memory-consolidation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Memory Consolidation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motivation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Motivation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#multimodal-instruction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Multimodal Instruction
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#note-taking" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Note-taking
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#online-course-design-community-of-inquiry" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Online Course Design (Community of Inquiry)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pre-reading-questioning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pre-reading Questioning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#procedural-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Procedural Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#process-based-writing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Process-based Writing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reflection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Reflection
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#self-monitoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Self-monitoring
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#social-interdependence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Social Interdependence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#structured-peer-review" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Structured Peer Review
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#transfer-of-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Transfer of Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#universal-design-for-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Universal Design For Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ask-experts" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ask Experts
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#concept-attainment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Concept Attainment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#criterion-and-norm-referenced-testing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Criterion- and Norm-Referenced Testing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cultural-life-experiences-connections" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cultural &amp; Life Experiences Connections
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#culturally-responsive-classroom-norms" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Culturally Responsive Classroom Norms
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#engagement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Engagement
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#epistemic-cognition" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Epistemic Cognition
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#epistemic-games" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Epistemic Games
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evaluating-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Evaluating Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#flexible-grouping" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Flexible Grouping
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fostering-communities-of-learning-fcl" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fostering Communities of Learning (FCL)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#game-based-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Game-based Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gamification" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Gamification
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#knowledge-organization" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Knowledge Organization
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#modeling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Modeling
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#multiple-methods-of-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Multiple Methods of Assessment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#observationshadowing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Observation/Shadowing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phonics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Phonics
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#positive-self-talk" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Positive Self-talk
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sequencing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sequencing
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#social-emotional-learning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Social Emotional Learning
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#strengths-based-approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Strengths-based Approach
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#structured-academic-controversy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Structured Academic Controversy
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summative-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summative Assessment
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#text-to-speech" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Text-to-Speech
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wise-feedback-across-racial-and-ethnic-difference" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Wise Feedback Across Racial and Ethnic Difference
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset" data-pagefind-body>
+                
+                  
+
+
+
+<h1 id="designing-for-online-self-paced">Designing for <code>online-self-paced</code><a class="headerlink" href="#designing-for-online-self-paced" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Setting</strong> · digital, learner-paced, no live instructor · <a href="../">All situations</a></p>
+</blockquote>
+<p>64 rows from 62 pages say what to change when the brief's setting is <code>online-self-paced</code>; 37 of them cite a claim. Pages whose rows cite claims come first. Read the basis before relying on a row: many carry a claim to learners or settings it did not test, and say so.</p>
+<h2 id="blended-learning"><a href="../../patterns/blended-learning/">Blended Learning</a><a class="headerlink" href="#blended-learning" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The online part is <code>online-self-paced</code> and learners have little experience of it</td>
+<td>Add planning prompts, a visible schedule with intermediate deadlines and self-monitoring checks; review them at the next in-person session.</td>
+<td><a href="../../claims/srl-interventions-moderate-effect-online-blended/">SRL interventions in online and blended environments</a> [+M], pooled across 15 studies, populations not reported on the claim page</td>
+</tr>
+<tr>
+<td>No teacher present between sessions, or a large group <em>(from the wording)</em></td>
+<td>Monitor completion each week, contact non-starters within the first week or two, and keep a named person learners can ask.</td>
+<td><a href="../../claims/online-continuing-education-persistence-lower-than-onground/">Online continuing-education persistence</a> [~W], fully online adult continuing education, associational; untested for blends</td>
+</tr>
+</tbody>
+</table>
+<h2 id="authentic-assessment"><a href="../../patterns/authentic-assessment/">Authentic Assessment</a><a class="headerlink" href="#authentic-assessment" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Give the rubric and scored exemplars up front; have learners score an exemplar and see the expert's score before self-assessing; use structured peer review in a timed window; reserve teacher or practitioner judgement for the final product.</td>
+<td><a href="../../claims/peer-assessment-improves-performance/">Peer assessment</a> [+M] (robust to online or offline delivery in the meta-analysis); <a href="../../claims/self-assessment-accuracy-is-low-without-training/">self-assessment training</a> [~S]; carried to authentic tasks untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cognitive-activation"><a href="../../principles/cognitive-activation/">Cognitive Activation</a><a class="headerlink" href="#cognitive-activation" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Put the prompt in the material with a required typed answer before the model explanation is revealed; the learner then compares the two.</td>
+<td><a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation prompts improve learning from worked examples</a> [+M] (prompting is tested; the reveal-after-commit step is untested)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cognitive-flexibility"><a href="../../principles/cognitive-flexibility/">Cognitive Flexibility</a><a class="headerlink" href="#cognitive-flexibility" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting <code>online-self-paced</code> or hypertext</td>
+<td>Give a guided route through the cases (a theme per pass) rather than free browsing, and build the comparison prompts into the pages.</td>
+<td><a href="../../claims/cft-hypertext-design-higher-achievement-scores/">Students in the flexible hypertext-based course design scored higher on achievement tests (76%) than students in the direct online course design (59%)</a> [~W]: groups studied different software, so it does not isolate the design; navigation burden is untested, from the theory page</td>
+</tr>
+</tbody>
+</table>
+<h2 id="constructive-alignment"><a href="../../patterns/constructive-alignment/">Constructive Alignment</a><a class="headerlink" href="#constructive-alignment" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code> with no teacher present</td>
+<td>Build practice with immediate feedback into each module ahead of its assessed task; make criteria and exemplars part of the module; audit automatically scored items for recall-only questions.</td>
+<td><a href="../../claims/practice-presence-raises-cbi-posttest-achievement/">Practice presence</a> [+M] (computer-based lesson, undergraduates); the audit is untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="debriefing"><a href="../../principles/debriefing/">Debriefing</a><a class="headerlink" href="#debriefing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no facilitator</td>
+<td>Replace the live debrief with a written self-debrief: three to five specific questions tied to the criteria, then a model performance or expert commentary to compare with, then one change for the next module, shown back at its start</td>
+<td><a href="../../claims/reflective-practice-improves-outcomes-when-structured/">Reflective Practice Improves Outcomes When Structured</a> [+M] (classroom engineering course); <a href="../../claims/metacognitive-prompts-improve-learning/">Metacognitive prompts improve learning</a> [+M] (computer-based environments)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="deliberate-practice"><a href="../../principles/deliberate-practice/">Deliberate Practice</a><a class="headerlink" href="#deliberate-practice" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no coach present</td>
+<td>Give items with automatic checking or a worked answer to compare; have the learner score against annotated exemplars and keep an error log; require one whole-task submission per session reviewed by a person or a rubric-based check</td>
+<td><a href="../../claims/self-monitoring-improves-self-regulation/">Self-monitoring improves self-regulation and supports better learning decisions.</a> [+M] (reviews; untested within deliberate practice or online)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="develop-understanding"><a href="../../patterns/develop-understanding/">Develop Understanding</a><a class="headerlink" href="#develop-understanding" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher</td>
+<td>Make every prompt require a typed explanation before the next screen; give worked explanations to compare against; include automatically checked prediction items with feedback; end with an unseen changed item.</td>
+<td><a href="../../claims/practice-presence-raises-cbi-posttest-achievement/">Practice present in a computer-based lesson</a> [+M] (undergraduates, one lesson, horizon not reported); the explanation-comparison step is untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="digital-learning"><a href="../../principles/digital-learning/">Digital Learning</a><a class="headerlink" href="#digital-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no teacher present</td>
+<td>Add the contact task in week 1, a fixed weekly rhythm with a deadline, visible progress against a criterion, and a weekly plan prompt; check logins by day 3</td>
+<td><a href="../../claims/srl-interventions-moderate-effect-online-blended/">Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments</a> [+M] (15 studies); a diary alone did not help in one course (<a href="../../claims/learning-diary-alone-no-significant-srl-gains-online-math-prep-course/">A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course</a> [~M])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="dual-coding"><a href="../../principles/dual-coding/">Dual Coding</a><a class="headerlink" href="#dual-coding" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Build drawing templates, a model drawing to compare with, and a self-check list into the material</td>
+<td><a href="../../claims/drawing-improves-learning/">Drawing in STEM</a> [+M] (online drawing benefited more from instructor-provided scaffolds than paper-based drawing)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="elaboration-theory"><a href="../../patterns/elaboration-theory/">Elaboration Theory</a><a class="headerlink" href="#elaboration-theory" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Keep the epitome as a persistent map on every page, with the current level highlighted; make each synthesis an activity the system checks (arrange items into the map, mark the new detail), not a passage to read.</td>
+<td><a href="../../claims/strong-acquisition-tasks-improve-internalization/">Learners explicating the organisation</a> [+M] for the synthesis activity (same 20-student high-school experiment; untested online); the persistent map is an untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="error-analysis"><a href="../../principles/error-analysis/">Error Analysis</a><a class="headerlink" href="#error-analysis" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>The system must supply the correct solution and the explanation; log error streaks and self-reported confusion, and switch to a worked example after repeated errors on one item type.</td>
+<td><a href="../../claims/confusion-amplifies-negative-effect-of-incorrect-trials/">confusion with prior incorrect trials</a> [~W] (exploratory); the switch rule is an untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="experience-with-languaging-activities-elas-guided-by-a-sequence-of-experience-based-questions"><a href="../../patterns/experience-with-languaging-activities/">Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions</a><a class="headerlink" href="#experience-with-languaging-activities-elas-guided-by-a-sequence-of-experience-based-questions" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher</td>
+<td>Embed the four prompts after each segment; after the learner commits a step 4 answer, show a model answer and ask them to mark what they missed; adapt the stem to the content of the segment.</td>
+<td><a href="../../claims/metacognitive-prompts-improve-learning/">Metacognitive prompts</a> [+S]: in computer-based environments prompts helped, more so with feedback, task-specific and adaptive (meta-analysis read from its abstract)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="experiential-learning"><a href="../../principles/experiential-learning/">Experiential Learning</a><a class="headerlink" href="#experiential-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no facilitator present</td>
+<td>Replace the live debrief with specific written prompts after each task and a model answer to compare against; let learners retry a changed task with automatic feedback</td>
+<td><a href="../../claims/reflective-practice-improves-outcomes-when-structured/">Reflective Practice Improves Outcomes When Structured</a> [+M] for specific written prompts (engineering undergraduates, in a classroom course); untested online</td>
+</tr>
+</tbody>
+</table>
+<h2 id="experiential-learning-cycle"><a href="../../patterns/experiential-learning-cycle/">Experiential Learning Cycle</a><a class="headerlink" href="#experiential-learning-cycle" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no facilitator</td>
+<td>Replace the live debrief with three written prompts after each task and a model answer to compare against; offer an automatically scored changed task as the retry.</td>
+<td><a href="../../claims/reflective-practice-improves-outcomes-when-structured/">Structured reflection</a> [+M] for written specific prompts (a classroom engineering course); untested online</td>
+</tr>
+</tbody>
+</table>
+<h2 id="explicit-instruction-vocabulary"><a href="../../principles/explicit-instruction-vocabulary/">Explicit Instruction: Vocabulary</a><a class="headerlink" href="#explicit-instruction-vocabulary" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, phone-only, or no teacher present</td>
+<td>Build each word as a short card (meaning, example, picture, audio) with recall prompts scheduled by the app over two to three weeks; put the words into short readings or audio inside the course; ask for one typed or spoken use per word</td>
+<td><a href="../../claims/spaced-repetition-supplement-triples-vocabulary-retention/">Supplemental computer-based spaced repetition…</a> [+M] (EFL cadets, alongside classroom teaching, not instead of it)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="feedback-loops"><a href="../../principles/feedback-loops/">Feedback Loops</a><a class="headerlink" href="#feedback-loops" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Build automatically checked items with a retry on a new item after each piece of information; route a learner who fails twice to a worked example; keep a delayed recheck in a later session</td>
+<td><a href="../../claims/adaptive-learning-improves-outcomes/">Adaptive learning improves outcomes</a> [+S] (intelligent tutoring beat large-group, textbook and other computer instruction, not human tutoring or small groups)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="goal-setting-monitoring"><a href="../../principles/goal-setting-monitoring/">Goal Setting &amp; Monitoring</a><a class="headerlink" href="#goal-setting-monitoring" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Build goal setting and an if-then plan into the first session (a short writing activity); show progress against the goal on every return; do not expect the prompt to help every learner</td>
+<td><a href="../../claims/implementation-intentions-improve-goal-attainment/">Implementation intentions</a> [~M] (course completion rose for learners in individualist cultures, not collectivist)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="graphic-organizers"><a href="../../principles/graphic-organizers/">Graphic Organizers</a><a class="headerlink" href="#graphic-organizers" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no teacher present</td>
+<td>Place the organizer next to the text it summarises (not on a separate page); give partial organizers with a reference version revealed after the learner submits; add one explanation question per organizer</td>
+<td><a href="../../claims/dual-coding-improves-learning/">Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed</a> [+M] (graphics added to text helped reading comprehension, elementary to adult; carried to organizers, which it did not isolate); the reveal-and-compare step is untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="guided-practice"><a href="../../principles/guided-practice/">Guided Practice</a><a class="headerlink" href="#guided-practice" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no teacher present</td>
+<td>Build practice items with automatic checking and feedback after each item into the lesson; do not cut them to save time; add an unaided check item before the next topic</td>
+<td><a href="../../claims/practice-presence-raises-cbi-posttest-achievement/">In one experiment with 256 undergraduates, computer-based lesson versions that included practice produced significantly higher posttest scores than versions without practice</a> [+M] (undergraduates, one computer-based lesson; horizon not reported)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="holistic-learning"><a href="../../principles/holistic-learning/">Holistic Learning</a><a class="headerlink" href="#holistic-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Keep the map on every screen with today's part highlighted; make the closing placement an arrange-or-label activity the system checks; add a redraw-from-memory item from the middle of the course</td>
+<td><a href="../../claims/strong-acquisition-tasks-improve-internalization/">Learner-built organisation</a> [+M] (classroom study, untested online); <a href="../../claims/concept-mapping-improves-learning/">concept mapping</a> [~S] for the redraw; the persistent map is untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="journaling"><a href="../../principles/journaling/">Journaling</a><a class="headerlink" href="#journaling" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Put the prompts in the platform at the end of each module, tied to that module; require a "next step" line; show the learner their last "next step" at the start of the next module; pair the diary with short self-regulation training.</td>
+<td><a href="../../claims/web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math/">training with diary</a> [~M] and <a href="../../claims/learning-diary-alone-no-significant-srl-gains-online-math-prep-course/">diary alone</a> [-M] (prospective university students, online mathematics preparation; no mathematics gain either way)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="memory-consolidation"><a href="../../principles/memory-consolidation/">Memory Consolidation</a><a class="headerlink" href="#memory-consolidation" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Online, self-paced, or phone-only <em>(from the wording)</em></td>
+<td>Put the returns in the app's queue or a dated reminder, with automatic checking; show a delayed check, not a streak, as the progress signal</td>
+<td><a href="../../claims/learners-misjudge-spacing-benefits/">Learners Misjudge Spacing Benefits</a> [+M] (adults, lab and flashcard software: learners prefer massing, so do not leave scheduling to them)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="motivation"><a href="../../principles/motivation/">Motivation</a><a class="headerlink" href="#motivation" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code> and voluntary (an open online course)</td>
+<td>Do not open with a test on material not yet taught, or make it optional and say errors are expected; track return days and completion, not clicks; build the four questions into the first activity</td>
+<td><a href="../../claims/pretesting-can-harm-motivation/">Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it</a> [~M] (one randomized MOOC experiment, abstract); the rest untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="multimodal-instruction"><a href="../../principles/multimodal-instruction/">Multimodal Instruction</a><a class="headerlink" href="#multimodal-instruction" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, learner-paced media</td>
+<td>On-screen text beside a static visual is acceptable. Give pause, replay and a text version. Do not convert all text to audio.</td>
+<td><a href="../../claims/modality-effect-narration-over-text/">Modality</a> [~M]: its advantage shrinks when learners control pacing</td>
+</tr>
+<tr>
+<td>One session only, or no teacher present <em>(from the wording)</em></td>
+<td>Use one representation pair, not a full set. Build the translation prompts and their model answers into the material, so a learner without a teacher can check a sketch or explanation.</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="note-taking"><a href="../../principles/note-taking/">Note-taking</a><a class="headerlink" href="#note-taking" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code> video</td>
+<td>Put the pause points into the video (a prompt screen at each break); give a downloadable outline for the first modules; end each module with a short recall quiz learners answer before reopening their notes</td>
+<td>Pauses and outline: untested here. Quiz: <a href="../../claims/retrieval-practice-improves-retention/">Retrieval Practice Improves Long Term Retention</a> [+S] (carried to reviewing notes)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="online-course-design-community-of-inquiry"><a href="../../patterns/online-course-design/">Online Course Design (Community of Inquiry)</a><a class="headerlink" href="#online-course-design-community-of-inquiry" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code> with rolling enrolment, or one teacher for hundreds of learners</td>
+<td>Replace teacher feedback on each piece with automatic feedback on self-checks, a weekly teacher summary of common errors, and peer review against a rubric; keep the week-1 if-then plan; give the teacher's time to learners flagged by a missed week.</td>
+<td><a href="../../claims/implementation-intentions-improve-goal-attainment/">Implementation intentions</a> [+S] (the two field experiments were in large online courses); the rest is untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pre-reading-questioning"><a href="../../principles/pre-reading-questioning/">Pre-reading Questioning</a><a class="headerlink" href="#pre-reading-questioning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code> course or module, no teacher present</td>
+<td>Keep pre-questions to two, framed as a puzzle with no score; show the answer straight after the relevant section; track drop-off at the pre-question screen and remove it if completion falls</td>
+<td><a href="../../claims/pretesting-can-harm-motivation/">Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it</a> [-M] (399 adults in a MOOC: pre-tests reduced persistence; post-test gains only among those who finished)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="procedural-learning"><a href="../../principles/procedural-learning/">Procedural Learning</a><a class="headerlink" href="#procedural-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present, or phone-only</td>
+<td>Build the worked example and five to eight practice items with automatic checking and a worked answer after each into the lesson; one step per screen on a phone; an unaided check item before the next procedure; scheduled review prompts two days and one week later</td>
+<td><a href="../../claims/practice-presence-raises-cbi-posttest-achievement/">practice included in computer-based lessons</a> [+M] (undergraduates, one lesson; horizon not reported); schedule untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="process-based-writing"><a href="../../principles/process-based-writing/">Process-based Writing</a><a class="headerlink" href="#process-based-writing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code> or asynchronous course, no teacher reading every draft</td>
+<td>Build in a rubric-guided peer review with practice on rated examples, a reviewer memo with each revision, and a self-check against the criteria before submission</td>
+<td><a href="../../claims/rubrics-improve-peer-feedback-quality/">rubrics and peer reviewers</a> [~M] (one MOOC writing course, one online graduate course); <a href="../../claims/peer-assessment-improves-performance/">Peer assessment improves academic performance by a small average amount</a> [+M] (online and offline did not differ)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="reflection"><a href="../../principles/reflection/">Reflection</a><a class="headerlink" href="#reflection" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Use task-specific prompts tied to that week's content, require a written next step, and open the next module by showing it back; flag entries that repeat word for word.</td>
+<td><a href="../../claims/reflective-practice-improves-outcomes-when-structured/">Structured reflection</a> [+M]; tested in a classroom engineering course, untested self-paced</td>
+</tr>
+</tbody>
+</table>
+<h2 id="self-monitoring"><a href="../../principles/self-monitoring/">Self-monitoring</a><a class="headerlink" href="#self-monitoring" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no teacher present</td>
+<td>Build the checks into the software as task-specific prompts at natural pauses, each followed by an item with automatic feedback that shows the learner whether their judgement was right; do not rely on a free-text diary</td>
+<td><a href="../../claims/metacognitive-prompts-improve-learning/">Metacognitive prompts improve learning</a> [+M] (meta-analysis in computer-based environments, g = 0.40 on learning outcomes, larger with feedback, task-specific and adaptive prompts); <a href="../../claims/learning-diary-alone-no-significant-srl-gains-online-math-prep-course/">diary alone</a> [-M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="social-interdependence"><a href="../../principles/social-interdependence/">Social Interdependence</a><a class="headerlink" href="#social-interdependence" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code> or asynchronous online groups</td>
+<td>Do not rely on assigned roles or a group reward to raise achievement; require each member to post a stated number of contributions that respond to others', and assess individually</td>
+<td><a href="../../claims/interdependence-type-no-achievement-effect-asynchronous/">Interdependence type did not affect posttest achievement</a> [~M] (280 undergraduate business majors, triads; non-significant, no effect size); <a href="../../claims/interaction-quantity-correlates-posttest-online-groups/">more interactions went with higher posttest scores</a> [+W] (same study, correlational)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="structured-peer-review"><a href="../../patterns/structured-peer-review/">Structured Peer Review</a><a class="headerlink" href="#structured-peer-review" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-instructor-led</code> or <code>online-self-paced</code>, asynchronous</td>
+<td>Use a tool that assigns drafts at random, hides authors' names, locks a review once submitted and shows the author all reviews together; a calibration anchor before the first review; a deadline for the revision plan.</td>
+<td><a href="../../claims/peer-assessment-benefits-assessor/">Assessor meta-analysis</a> [+M]: computer-mediated peer assessment did better than paper; <a href="../../claims/peer-assessment-improves-performance/">peer assessment</a> [+M] found no online/offline difference. The tool rules are untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="transfer-of-learning"><a href="../../principles/transfer-of-learning/">Transfer of Learning</a><a class="headerlink" href="#transfer-of-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no teacher present</td>
+<td>Build the comparison prompt and the principle statement into the materials; use automatically checked retrieval questions in changed formats; add an unprompted transfer item before the next unit</td>
+<td><a href="../../claims/retrieval-practice-improves-transfer/">Retrieval Practice Improves Transfer</a> [~S] (lab and prose-passage studies; carried to self-paced courses untested)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="universal-design-for-learning"><a href="../../principles/universal-design-for-learning/">Universal Design For Learning</a><a class="headerlink" href="#universal-design-for-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no teacher present</td>
+<td>Build the access layers into the media (editable text, captions and transcripts, pause and replay, glossary links); give automatic, criterion-referenced feedback on each product format</td>
+<td><a href="../../claims/learner-paced-beats-system-paced-complex-material/">Letting learners pace instruction helped on complex material in one experiment</a> [~M] (primary-school animation and a meta-analysis of learner control; achievement gain not general); the rest untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="ask-experts"><a href="../../principles/ask-experts/">Ask Experts</a><a class="headerlink" href="#ask-experts" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no expert live</td>
+<td>Use an asynchronous question queue: each question carries the learner's attempt; the expert answers the commonest ones with a recorded think-aloud and the rest in writing within a set time (say two working days); add an adaptive tutor or worked-feedback items for routine steps</td>
+<td>untested proposal; human and intelligent tutoring had similar effects over no tutoring in one review read from its abstract (<a href="../../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback/">tutoring claim</a> [~M])</td>
+</tr>
+</tbody>
+</table>
+<h2 id="concept-attainment"><a href="../../patterns/concept-attainment/">Concept Attainment</a><a class="headerlink" href="#concept-attainment" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher</td>
+<td>The system gives the yes/no label after the learner commits a written hypothesis; show the hypothesis history beside the items; end with a classification set with feedback and a stated definition.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="criterion-and-norm-referenced-testing"><a href="../../principles/criterion-and-norm-referenced-testing/">Criterion- and Norm-Referenced Testing</a><a class="headerlink" href="#criterion-and-norm-referenced-testing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Self-paced mobile study for school-age learners with no live teacher <em>(from the wording)</em></td>
+<td>Teach the difference with short worked examples and a tap-to-sort activity (statements sorted into "tells you what I can do" and "tells you how I rank"), and assess with auto-scored items against a stated criterion; do not ask learners to write test items on a phone</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="cultural-life-experiences-connections"><a href="../../principles/cultural-life-experiences-connections/">Cultural &amp; Life Experiences Connections</a><a class="headerlink" href="#cultural-life-experiences-connections" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no teacher present</td>
+<td>Give prompts that ask the learner to write their own example and explain the concept in it, with a bank of worked examples from several contexts; require no public sharing</td>
+<td>untested</td>
+</tr>
+</tbody>
+</table>
+<h2 id="culturally-responsive-classroom-norms"><a href="../../principles/culturally-responsive-classroom-norms/">Culturally Responsive Classroom Norms</a><a class="headerlink" href="#culturally-responsive-classroom-norms" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Leave response windows open rather than timed; give discussion-board options to post after reading others or to reply privately; state the platform's conventions on help and copying in plain terms</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="engagement"><a href="../../principles/engagement/">Engagement</a><a class="headerlink" href="#engagement" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no teacher present</td>
+<td>Replace the greeting with a named welcome and first-minute check-in; build a visible progress record and automatic learning checks; track return days, not only clicks</td>
+<td>untested; <a href="../../claims/story-mine-engagement-outcome-null-association/">Intervention engagement (narratives consumed) showed no clear association with outcome changes</a> [~W] warns that usage counts need not track outcomes (a mental-health app, not learning)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="epistemic-cognition"><a href="../../principles/epistemic-cognition/">Epistemic Cognition</a><a class="headerlink" href="#epistemic-cognition" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Provide recorded demonstrations of the expert move, live practice items with model reasoning shown after the learner commits a judgment and a confidence rating, and a delayed check on new items.</td>
+<td>Untested proposal; the online-argumentation synthesis does not report teacher presence</td>
+</tr>
+</tbody>
+</table>
+<h2 id="epistemic-games"><a href="../../patterns/epistemic-games/">Epistemic Games</a><a class="headerlink" href="#epistemic-games" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher</td>
+<td>Mentor characters must carry all guidance: a modelled decision before each new decision type, required written justification, scripted feedback with reasons, and a written debrief prompt at the end of each session. Expect weaker debriefs than with a person.</td>
+<td>Untested proposal; <a href="../../claims/feedback-improves-learning/">feedback</a> [+S] carried to software feedback</td>
+</tr>
+</tbody>
+</table>
+<h2 id="evaluating-sources"><a href="../../principles/evaluating-sources/">Evaluating Sources</a><a class="headerlink" href="#evaluating-sources" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Short recorded demonstrations of the off-page move; practice items where the learner commits a verdict, a reason and a confidence rating before a model answer and the fact-checker's search are shown; a delayed check on new sites</td>
+<td>Untested; all studies were taught in classes</td>
+</tr>
+</tbody>
+</table>
+<h2 id="flexible-grouping"><a href="../../principles/flexible-grouping/">Flexible Grouping</a><a class="headerlink" href="#flexible-grouping" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no live teacher</td>
+<td>Replace live regrouping with branching: a short check routes each learner to a support module or an extension; asynchronous discussion groups are assigned by the course for mixing, and change each unit</td>
+<td>untested here; individualised routing is modelled in <a href="../../principles/adaptive-learning/">Adaptive Learning</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="fostering-communities-of-learning-fcl"><a href="../../patterns/fostering-communities-of-learning-fcl/">Fostering Communities of Learning (FCL)</a><a class="headerlink" href="#fostering-communities-of-learning-fcl" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code> or phone-only, no live sessions</td>
+<td>Replace live jigsaw with asynchronous teaching: each expert posts a short explanation and two questions; peers answer and the expert replies; an automatic individual quiz on every part decides progress.</td>
+<td>Untested proposal; <a href="../../claims/learning-by-teaching-improves-tutor-learning/">learning by teaching</a> [~M] found interactive teaching better than non-interactive, so expect less benefit without live questions</td>
+</tr>
+</tbody>
+</table>
+<h2 id="game-based-learning"><a href="../../principles/game-based-learning/">Game-based Learning</a><a class="headerlink" href="#game-based-learning" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Put the modelling, hints and debrief questions inside the game (a worked example screen between levels, a "why did that work?" prompt after each level); log attempts per level to find where learners stall</td>
+<td>untested proposal; the tested child gains had an adult present</td>
+</tr>
+</tbody>
+</table>
+<h2 id="gamification"><a href="../../principles/gamification/">Gamification</a><a class="headerlink" href="#gamification" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>The software must give the informational message after each item (step 3) and run the level checks (step 4); if streaks are used, allow a missed day without losing the streak, so one absence does not end practice</td>
+<td>untested proposal; the meta-analysis pooled informal and online settings with school ones</td>
+</tr>
+</tbody>
+</table>
+<h2 id="knowledge-organization"><a href="../../principles/knowledge-organization/">Knowledge Organization</a><a class="headerlink" href="#knowledge-organization" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Use drag-and-drop sorting into the organization with automatic checking, then a closed-book rebuild the learner compares with a reference map; do not drop the rebuild to save time</td>
+<td>untested; the closed-book rebuild rests on <a href="../../claims/closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions/">The same quizzing or concept-mapping activity produces more learning when done without viewing the material, as retrieval, than while viewing it</a> [+M] (second-hand, settings not stated)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="modeling"><a href="../../principles/modeling/">Modeling</a><a class="headerlink" href="#modeling" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, or video only</td>
+<td>Record short clips, one decision each (about 2–5 minutes), each ending in a predict-or-explain question the learner must answer before the next clip; follow with automatically checked practice items</td>
+<td>untested proposal; the explanation prompt is carried from <a href="../../claims/self-explanation-improves-conceptual-understanding/">Prompting learners to self-explain…</a> [+S]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="multiple-methods-of-assessment"><a href="../../principles/multiple-methods-of-assessment/">Multiple Methods of Assessment</a><a class="headerlink" href="#multiple-methods-of-assessment" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Pair auto-scored items with one short constructed or recorded response per goal, reviewed by a peer with the criteria or sampled by a tutor; have the learner self-assess against the criteria with an example first</td>
+<td>untested proposal; self-assessment limit from <a href="../../claims/self-assessment-accuracy-is-low-without-training/">Self Assessment Accuracy Is Low Without Training</a> [~M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="observationshadowing"><a href="../../principles/observationshadowing/">Observation/Shadowing</a><a class="headerlink" href="#observationshadowing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, recordings only, no one to debrief</td>
+<td>Short authentic clips (5–15 minutes) each with two focus questions the learner must answer before going on, then a written expert account of the clip's decisions to compare with; one replay of the clip after the comparison</td>
+<td>untested proposal; the explanation prompt is carried from <a href="../../claims/self-explanation-improves-conceptual-understanding/">Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.</a> [+S]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="phonics"><a href="../../principles/phonics/">Phonics</a><a class="headerlink" href="#phonics" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No teacher present: an app or self-paced programme <em>(from the wording)</em></td>
+<td>Choose or build software that models every sound in audio, has the learner blend before revealing the word, checks reading aloud (speech recognition or a recorded sample a person reviews), and gates new correspondences on the weekly check</td>
+<td>untested proposal; no claim here tests phonics delivered without a teacher</td>
+</tr>
+</tbody>
+</table>
+<h2 id="positive-self-talk"><a href="../../principles/positive-self-talk/">Positive Self-talk</a><a class="headerlink" href="#positive-self-talk" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Show the learner's own cue at the point where errors or long pauses occur (after a wrong answer, after a set idle time), with the next action as a button; let the learner edit their cues</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sequencing"><a href="../../principles/sequencing/">Sequencing</a><a class="headerlink" href="#sequencing" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no teacher present</td>
+<td>Build the prerequisite check and the move-on rule into the software or the materials: each stage ends with two unaided items that unlock the next or route back</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="social-emotional-learning"><a href="../../patterns/social-emotional-learning/">Social Emotional Learning</a><a class="headerlink" href="#social-emotional-learning" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, no adult present</td>
+<td>Use short video models and private reflection prompts; ask learners to log one real use of the skill a week; add a human contact (tutor message, peer partner) where possible, since coaching and modelling in the moment cannot happen.</td>
+<td>Untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="strengths-based-approach"><a href="../../principles/strengths-based-approach/">Strengths-based Approach</a><a class="headerlink" href="#strengths-based-approach" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, or learners work on phones only</td>
+<td>Build the strengths record into the platform: a short self-report on what has worked, and feedback that names the specific item the learner got right and the next item it unlocks; keep each entry to a few lines</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="structured-academic-controversy"><a href="../../patterns/structured-academic-controversy/">Structured Academic Controversy</a><a class="headerlink" href="#structured-academic-controversy" title="Permanent link">&para;</a></h2>
+<p><small>Pattern</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting <code>online-self-paced</code>, or no teacher present</td>
+<td>Run it asynchronously over <code>days-weeks</code>: positions posted, restatements as replies that the original author must accept, reversal posts, then a joint document. Grade the restatement and the individual position, not post counts. A shared misconception and a caricatured reversal will go unseen, so add a facilitator check before the synthesis.</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="summative-assessment"><a href="../../principles/summative-assessment/">Summative Assessment</a><a class="headerlink" href="#summative-assessment" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, phone-only, or some learners remote while others sit in the room</td>
+<td>Give remote and in-room learners the same tasks, time and permitted aids; prefer open-book items that ask for application to a new case over recall that can be looked up; follow a sample of submissions with a short oral check of the learner's own work; make tasks readable on a phone screen</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="text-to-speech"><a href="../../principles/text-to-speech/">Text-to-Speech</a><a class="headerlink" href="#text-to-speech" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setting is <code>online-self-paced</code>, no teacher present</td>
+<td>Build the speech control into every page and question, put a question or summary prompt at each section break with automatic checking where possible, and add the periodic with/without check from the default arc</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<h2 id="wise-feedback-across-racial-and-ethnic-difference"><a href="../../principles/wise-feedback-across-difference/">Wise Feedback Across Racial and Ethnic Difference</a><a class="headerlink" href="#wise-feedback-across-racial-and-ethnic-difference" title="Permanent link">&para;</a></h2>
+<p><small>Principle</small></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>online-self-paced</code>, automated feedback, no instructor present</td>
+<td>A system cannot credibly state personal belief; state the standard, the specific gap and the next step, and say that learners at this point commonly reach the standard on revision (only if your data show it); route learners who stall to a person</td>
+<td>untested; carried from the belonging message's "common and passing" framing (<a href="../../claims/belonging-interventions-improve-outcomes/">Belonging Interventions Improve Outcomes</a> [~M])</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.top", "navigation.indexes", "navigation.tracking", "navigation.path", "navigation.prune", "toc.follow", "content.code.copy", "content.tooltips"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>

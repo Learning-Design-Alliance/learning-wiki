@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Four Moves and a Habit - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="four-moves-and-a-habit">Four Moves and a Habit<a class="headerlink" href="#four-moves-and-a-habit" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 4 claims (3 for, 1 mixed) · 10 studies (3 causal, 3 quant-synthesis, 2 associational, 1 review, 1 theoretical), <code>q2</code>–<code>q4</code> · 3 of 10 report an effect size · 1 claim rests on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The Four Moves and a Habit (also known as SIFT) is a fact-checking framework developed by Mike Caulfield for evaluating online information. The four moves are: <strong>Stop</strong> and check your emotional reaction (the habit), <strong>Investigate the source</strong> before engaging with its content, <strong>Find better coverage</strong> of the claim from more reliable outlets, and <strong>Trace claims, quotes, and media to their original context</strong>. Unlike traditional checklist approaches (e.g., CRAAP), it treats the web as the fact-checker's tool rather than the object of suspicion — learners open new tabs and consult external sources about a source instead of scrutinizing the source page itself.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>The framework works because it replaces exhaustive, page-internal evaluation with the fast, external verification strategies used by professional fact-checkers. Research shows that expert fact-checkers evaluate sources by leaving the page and reading laterally — checking what other sites say about the source — while historians and undergraduates tend to read vertically, staying on the page and being routinely deceived by professional design <a href="https://doi.org/10.3102/0034654319839149">Lateral reading outperforms vertical reading for source evaluation.</a> [+S]. The "stop" habit leverages the fact that strong emotional reactions (outrage, vindication) reliably predict susceptibility to misinformation, so interrupting the reaction creates space for deliberate evaluation [~M].</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Access to online information and the ability to open parallel tabs and searches</li>
+<li>Basic search skills: querying a source's name plus "wikipedia," using reverse image search, finding original publication dates</li>
+<li>Willingness to abandon a source quickly when it fails investigation — the framework explicitly optimizes for <em>not</em> reading dubious material deeply</li>
+<li>Minimal prior knowledge of specific sources; the moves themselves supply the evaluative leverage <a href="../../claims/prior-knowledge-not-related-to-performance/">Prior knowledge of individual sources is not required for lateral reading to improve evaluation.</a> [~W]</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Ineffective when learners remain on the source page and apply the moves as an internal checklist — the benefit comes from external corroboration, not from re-reading <a href="https://doi.org/10.3102/0034654319839149">Lateral reading outperforms vertical reading for source evaluation.</a> [-S]</li>
+<li>Requires reliable third-party infrastructure (Wikipedia, established news outlets, fact-checking sites); in information environments lacking such anchors, "find better coverage" degrades into circular sourcing</li>
+<li>The "stop" habit is the least trained and most easily dropped move; without it, learners fact-check only claims they already doubt, confirming rather than correcting bias [~W]</li>
+<li>Time-pressured learners default to shallow heuristics (design quality, domain suffix) when the moves are not practiced to automaticity [-M]</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Taught as full lessons (Caulfield's open textbook), as short video micro-lessons (Stanford History Education Group's Civic Online Reasoning curriculum), or as embedded prompts in a research assignment</li>
+<li>Can be compressed to "SIFT" as a memorable acronym for quick application, or expanded with domain-specific moves (e.g., tracing scientific claims to journal articles)</li>
+<li>Works as a whole-class <a href="../../elements/case-based-learning/">Case-Based Learning</a> activity using live, real-world claims rather than sanitized examples</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Undergraduate and secondary students conducting online research, who default to vertical reading and design-based judgments <a href="https://doi.org/10.3102/0034654319839149">Lateral reading outperforms vertical reading for source evaluation.</a> [+S]</li>
+<li>Novices with little background knowledge of sources — the moves substitute external verification for expertise <a href="../../claims/prior-knowledge-not-related-to-performance/">Prior knowledge of individual sources is not required for lateral reading to improve evaluation.</a> [~W]</li>
+<li>Less effective for learners who already habitually read laterally; instruction adds little for professional fact-checkers [~W]</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Source evaluation: judging the credibility of websites, authors, and media</li>
+<li>Claim tracing: locating original context for quotes, statistics, and images</li>
+<li>Metacognitive self-monitoring: recognizing when emotional arousal is driving acceptance of a claim <a href="../../claims/self-monitoring-improves-self-regulation/">Self-monitoring improves self-regulation.</a> [+M]</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>Stop.</strong> Notice your emotional reaction to the claim; if it is strong, slow down before sharing or accepting it. This habit precedes and frames every other move.</li>
+<li><strong>Investigate the source.</strong> Open a new tab and search for what known references say about the source or author — not what the source says about itself. Compare coverage of the same source across outlets to sharpen discrimination between reliable and unreliable publishers <a href="../../claims/comparing-contrasting-cases-improves-learning/">Multiple contrasting cases support abstraction.</a> [+M]</li>
+<li><strong>Find better coverage.</strong> Look for the claim in more authoritative outlets; the goal is the <em>claim's</em> credibility, not the original page's.</li>
+<li><strong>Trace to the original.</strong> Follow quotes, figures, and media upstream to their original context — via citation-chasing, reverse image search, or archival links — and check whether the original supports the framing. Verbalizing why a source passed or failed each move strengthens the evaluative schema <a href="../../claims/self-explanation-improves-conceptual-understanding/">Self-explanation improves conceptual understanding.</a> [+M]</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../a_finders_guide_to_facts/">A Finder's Guide to Facts</a> — complementary framework emphasizing how to locate authoritative sources rather than vet a given one</li>
+<li><a href="../3-source_rule/">3-Source Rule</a> — a corroboration heuristic that operationalizes the "find better coverage" move</li>
+<li><a href="../mozilla-four-web-literacies/">Use Mozilla's four basic web literacies to frame open learning for personal development</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong><a href="https://webliteracy.pressbooks.com/">Web Literacy for Student Fact-Checkers</a></strong> — Caulfield's open textbook, the canonical statement of the four moves, with worked demonstrations of each technique</li>
+<li><strong><a href="https://cor.stanford.edu/">Civic Online Reasoning</a></strong> — Stanford History Education Group curriculum built on lateral-reading research; includes classroom-ready assessments showing large gains in students' source evaluation after brief instruction</li>
+<li><strong>First-year composition courses</strong> using SIFT as a pre-research routine: students apply the moves to sources found via Google before admitting them into an annotated bibliography</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Caulfield, M. (2017). <em>Web literacy for student fact-checkers... and other people who care about facts.</em> Pressbooks. <a href="https://webliteracy.pressbooks.com/">https://webliteracy.pressbooks.com/</a></li>
+<li>Wineburg, S., &amp; McGrew, S. (2019). Lateral reading and the nature of expertise: Reading college and professional fact-checkers. <em>The Reading Teacher, 72</em>(5), 585–595.</li>
+<li>Breakstone, J., Smith, M., Wineburg, S., Lester, A., Ortega, T., &amp; Dreier, S. (2021). Civic online reasoning: Curriculum evaluation with large-scale field trials. <em>Teachers College Record, 123</em>(5), 1–48.</li>
+<li>McGrew, S., Ortega, T., Breakstone, J., &amp; Wineburg, S. (2017). The challenge that's bigger than fake news: Civic reasoning in a social-media environment. <em>American Educator, 41</em>(3), 4–9.</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>four_moves_and_a_habit</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Four Moves and a Habit</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>A framework for fact-checking that includes four key moves: Check for previous work, go upstream to find the source, read laterally, and circle back.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-29</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

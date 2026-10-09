@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Just In Time Learning - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="just-in-time-learning">Just In Time Learning<a class="headerlink" href="#just-in-time-learning" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 7 claims (5 for, 2 mixed) · 20 studies (9 quant-synthesis, 6 causal, 4 review, 1 theoretical), <code>q1</code>–<code>q4</code> · 8 of 20 report an effect size</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Just In Time (JIT) learning defers instruction until the point of need: learners attempt a task first, and content, hints, or mini-lessons are delivered when a gap becomes apparent. The approach trades comprehensive front-loaded instruction for on-demand support embedded in the task context, so new information arrives with immediate relevance and an immediate opportunity to apply it.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>JIT delivery exploits the fact that information encountered at the moment of application is better encoded and more likely to transfer than the same information delivered abstractly in advance <a href="../../claims/activation-improves-learning/">Activation of relevant prior knowledge at the point of need improves learning.</a> [+M]. It also manages cognitive load by withholding material until learners have a schema to attach it to, reducing the burden of holding unused content in working memory <a href="../../claims/chunking-reduces-working-memory-load/">Chunking reduces working memory load.</a> [+S]. However, JIT is not unguided discovery: learners left to search for needed information without structure waste limited working memory resources <a href="../../claims/cognitive-overload-degrades-learning/">Minimal guidance is less effective than guided instruction for novices.</a> [~S]. Effective JIT systems anticipate need points and deliver support proactively at those moments rather than requiring learners to find it themselves.</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A well-structured task or problem that creates authentic need points where specific knowledge becomes necessary</li>
+<li>Modular, small-grain content assets (short explanations, hints, demos) that can be surfaced independently</li>
+<li>A mechanism for detecting need — learner request, error detection, or instructor diagnosis (<a href="../../elements/assessment/">Assessment</a>, <a href="../../elements/check-in/">Check-In</a>)</li>
+<li>Rapid feedback loops so the just-delivered content is applied immediately (<a href="../../elements/practice/">Practice</a>)</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Pure learner-initiated "pull" models fail for novices, who do not know what they do not know and cannot formulate useful queries <a href="../../claims/cognitive-overload-degrades-learning/">Minimal guidance is less effective than guided instruction for novices.</a> [-S]</li>
+<li>Fragmenting content into micro-units can prevent learners from building an integrated schema of the whole domain; some advance framing is still needed <a href="../../claims/advance-organizers-improve-learning/">Advance organizers improve learning.</a> [~M]</li>
+<li>Poorly timed support — delivered after frustration or after the task is complete — loses most of its benefit</li>
+<li>High-stakes or safety-critical skills require systematic coverage in advance; JIT alone leaves dangerous gaps</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Just-in-Time Teaching (JiTT)</strong>: learners complete pre-class warm-up questions; the instructor adapts that day's instruction to the misconceptions revealed [Novak et al., 1999]</li>
+<li><strong>Embedded performance support</strong>: help panels, tooltips, and contextual documentation inside software (e.g., Salesforce in-app guidance, WalkMe)</li>
+<li><strong>Adaptive sequencing</strong>: platforms like <a href="https://www.khanacademy.org">Khan Academy</a> and <a href="https://www.duolingo.com">Duolingo</a> surface review and new content based on error patterns <a href="../../claims/adaptive-learning-improves-outcomes/">Adaptive learning improves outcomes.</a> [+M]</li>
+<li><strong>Workshop-on-demand</strong>: instruction scheduled in response to demonstrated need in project-based or workplace settings</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Adult and workplace learners with immediate performance goals, who are highly motivated by relevance <a href="../../claims/autonomy-supports-intrinsic-motivation/">Autonomy supports intrinsic motivation.</a> [+M]</li>
+<li>Intermediate learners who have enough prior knowledge to recognize when they need help</li>
+<li>Novices need more scaffolding and proactive (system-initiated) JIT support rather than open-ended search <a href="../../claims/cognitive-overload-degrades-learning/">Minimal guidance is less effective than guided instruction for novices.</a> [-S]</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Procedural and tool-based skills where knowledge is needed at specific task moments</li>
+<li>Troubleshooting, diagnosis, and applied problem solving</li>
+<li>Less suited to foundational conceptual frameworks, which benefit from systematic, sequenced instruction</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Design or select an authentic task that learners can begin with existing knowledge (<a href="../../elements/case-studies/">Case Studies</a>, <a href="../../elements/anchored-instruction/">Anchored Instruction</a>)</li>
+<li>Map the task's need points — the moments where specific knowledge or procedures become necessary</li>
+<li>Prepare modular support assets for each need point: brief explanations, <a href="../../elements/demonstration/">Demonstrations</a>, worked examples, or hints (<a href="../../elements/scaffolding/">Scaffolding</a>)</li>
+<li>Establish a trigger mechanism — learner request, error detection, or instructor review of warm-up responses (<a href="../../elements/assessment/">Assessment</a>)</li>
+<li>Deliver support at the need point and require immediate application (<a href="../../elements/practice/">Practice</a>)</li>
+<li>Provide an advance organizer or overview so learners retain a map of the whole domain even though details arrive on demand <a href="../../claims/advance-organizers-improve-learning/">Advance organizers improve learning.</a> [+M]</li>
+<li>Schedule spaced follow-up so just-learned content is revisited and retained <a href="../../claims/spaced-practice-improves-retention/">Spaced practice improves retention.</a> [+S]</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../elements/scaffolding/">Scaffolding</a> — JIT support is scaffolding delivered at need points; both require fading as competence grows</li>
+<li><a href="../../principles/adaptive-learning/">Adaptive Learning</a> — automates the diagnosis-and-deliver loop at scale</li>
+<li><a href="../../patterns/cognitive-apprenticeship/">Cognitive Apprenticeship</a> — expert hints and coaching during task performance are a JIT mechanism</li>
+<li><a href="../../patterns/blended-learning/">Blended Learning</a> — JiTT is a common blended design, with online warm-ups driving face-to-face instruction</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Just-in-Time Teaching (JiTT)</strong> (<a href="http://www.jitt.org">https://www.jitt.org</a>) — web-based pre-class questions on physics or biology; instructors adjust lecture content to the misconceptions students reveal hours before class [Novak et al., 1999]</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — hints and step-by-step solution reveals triggered when a learner stalls on an exercise</li>
+<li><strong><a href="https://www.walkme.com">WalkMe</a></strong> and <strong><a href="https://www.salesforce.com">Salesforce In-App Guidance</a></strong> — contextual walkthroughs surfaced inside enterprise software at the exact workflow step where users typically fail</li>
+<li><strong>Microsoft Learn</strong> (<a href="https://learn.microsoft.com">https://learn.microsoft.com</a>) — modular docs and sandboxes structured so developers pull only the content needed for the task at hand</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Novak, G. M., Patterson, E. T., Gavrin, A. D., &amp; Christian, W. (1999). <em>Just-in-Time Teaching: Blending Active Learning with Web Instruction</em>. Prentice Hall.</li>
+<li>Kirschner, P. A., Sweller, J., &amp; Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. <em>Educational Psychologist, 41</em>(2), 75–86. <a href="https://doi.org/10.1207/s15326985ep4102_1">doi:10.1207/s15326985ep4102_1</a></li>
+<li>Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., &amp; Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. <em>Psychological Bulletin, 132</em>(3), 354–380. <a href="https://doi.org/10.1037/0033-2909.132.3.354">doi:10.1037/0033-2909.132.3.354</a></li>
+<li>Sweller, J., van Merriënboer, J. J. G., &amp; Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. <em>Educational Psychology Review, 31</em>(2), 261–292. <a href="https://doi.org/10.1007/s10648-019-09465-5">doi:10.1007/s10648-019-09465-5</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>just-in-time-learning</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Just In Time Learning</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Delivering instruction at the moment learners need it to complete a task, rather than in advance of it.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

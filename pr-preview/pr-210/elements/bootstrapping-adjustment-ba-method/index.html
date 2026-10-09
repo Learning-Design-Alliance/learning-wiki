@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bootstrapping adjustment (BA) method for item parameter bias reduction - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../elements/">Elements</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Element">
+<h1 id="bootstrapping-adjustment-ba-method-for-item-parameter-bias-reduction">Bootstrapping adjustment (BA) method for item parameter bias reduction<a class="headerlink" href="#bootstrapping-adjustment-ba-method-for-item-parameter-bias-reduction" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Element</strong> · <a href="../">All elements</a>
+<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 design), <code>q1</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>BA is one of two item parameter adjustment methods proposed in the article, reducing biases in both item difficulty and item discrimination parameters using statistical bootstrapping. In four steps it repeatedly samples anchor students based on the unbiased ability estimates to form standard-normal-distributed samples of the same size, applies 2PL-IRT to each sample, and averages the resulting difficulty and discrimination estimates over K repetitions. The article states "The BA method relies on less constraint and could reduce the biases contained in both item discrimination and diﬃculty estimates", and that it "has the potential for applying on more complicated IRT models, such as 3PL-IRT".</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Requires unbiased ability estimates from the semi-supervised deep learning architecture as the basis for sampling</li>
+<li>Requires repeated sampling K times to average difficulty and discrimination estimates</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Its reduced-bias performance was evaluated in simulation under the 2PL-IRT model; applicability to 3PL-IRT is stated only as potential</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>K-12 students using a statewide virtual learning environment for Algebra I</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Unbiased item difficulty and discrimination estimation for operational ability measurement in VLEs</li>
+</ul>
+<h3 id="affordances">Affordances<a class="headerlink" href="#affordances" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../theories/semi-supervised-deep-learning-irt-bias-adjustment-framework/">Semi Supervised Deep Learning Irt Bias Adjustment Framework</a></li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/iea-ba-reduce-difficulty-estimate-bias/">Both proposed adjustment methods (IEA and BA) reduce RMSE of item difficulty estimates from direct 2PL-IRT fitting, with BA yielding more consistent (lower-variance) estimates in simulation</a> [+W]</li>
+<li><a href="../../claims/semi-supervised-deep-learning-unbiased-ability-estimates/">A semi-supervised deep learning architecture recovers the ability distribution of anchor students more accurately than direct 2PL-IRT fitting under simulated nonignorable missingness</a> [+W]</li>
+</ul>
+<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Xue, K., Huggins-Manley, A. C., &amp; Leite, W. (2020). Semi-supervised Learning Method for Adjusting Biased Item Difficulty Estimates Caused by Nonignorable Missingness under 2PL-IRT Model. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020), pp. 715-719. https://educationaldatamining.org/EDM2020/</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>element</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>bootstrapping-adjustment-ba-method</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Bootstrapping adjustment (BA) method for item parameter bias reduction</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>BA is one of two item parameter adjustment methods proposed in the article, reducing biases in both item difficulty and item discrimination parameters using statistical bootstrapping.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-08</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>xue-2020</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

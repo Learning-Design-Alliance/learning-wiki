@@ -1,0 +1,893 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A persistent, LLM-maintained knowledge base for learning design — principles, elements, patterns, designs, products and programmes, strategies, design processes and methods, research methods, theories, learner variables, and empirical claims.">
+      
+      
+      
+        <link rel="canonical" href="https://learning-design-alliance.github.io/learning-wiki/research-methods/">
+      
+      
+        <link rel="prev" href="../methods/">
+      
+      
+        <link rel="next" href="../theories/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../branding/lazuli-favicon.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Research Methods - Learning Design Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../branding/lazuli-theme.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#research-methods" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Learning Design Wiki" class="md-header__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../branding/lazuli-monogram-lapis.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Learning Design Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Research Methods
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <form class="lt-header-search" action="../search/" role="search" style="margin:0 .6rem;align-self:center"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki" style="font:inherit;font-size:.7rem;padding:.25rem .5rem;border-radius:.2rem;border:0;width:11rem;max-width:30vw;background:var(--md-default-bg-color);color:var(--md-default-fg-color)"></form><div class="md-header__source">
+        <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Learning Design Wiki" class="md-nav__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../branding/lazuli-monogram-lapis.svg" alt="logo">
+
+    </a>
+    Learning Design Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../search/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Search
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../situations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design for a Situation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../principles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../patterns/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patterns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../products/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Products & Programmes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../strategies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Methods
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#draft" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Draft
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../theories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Theories
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../claims/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claims
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CLAUDE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema & Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#draft" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Draft
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset" data-pagefind-body>
+                
+                  
+
+
+
+<h1 id="research-methods">Research Methods<a class="headerlink" href="#research-methods" title="Permanent link">&para;</a></h1>
+<p>Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.</p>
+<p><strong>30 entries</strong> · 0 stable · 0 in review · 30 drafts</p>
+<hr />
+<h2 id="draft">Draft<a class="headerlink" href="#draft" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="baseline-covariate-adjustment-in-education-randomized-trials/">Baseline covariate adjustment in education randomized trials</a> - The paper recommends that studies using student achievement outcomes generally aim to collect and use baseline data, because analyses using more than one wave of data typically have much greater statistical power than posttest-only analyses.</li>
+<li><a href="bayesian-analysis-for-complex-factorial-experiments/">Bayesian analysis for complex factorial experiments</a> - The paper recommends that researchers interested in studying complex interventions adopt Bayesian analysis for factorial designs.</li>
+<li><a href="college-readiness-predictor-selection-using-decision-trees-random-forests-lasso-and-factor/">College-readiness predictor selection using decision trees, random forests, lasso, and factor analysis</a> - This framework uses data reduction to select, from thousands of measures, the variables that maximize classification accuracy for college enrollment and persistence.</li>
+<li><a href="combined-regression-discontinuity-and-interrupted-time-series-design-with-instrumental-var/">Combined regression discontinuity and interrupted time-series design with instrumental variables</a> - When a threshold-based policy changes conditions for non-targeted students too, a standard regression discontinuity cannot estimate the policy effect, only the enrollment effect.</li>
+<li><a href="compound-polynomial-cp-growth-model/">Compound Polynomial (CP) growth model</a> - The CP model is a multilevel growth model whose design matrix combines a within-year (fall-to-spring) matrix with a between-year (spring-to-spring) polynomial matrix, so that both kinds of growth are estimated in one model.</li>
+<li><a href="correct-variance-estimation-for-cace-in-clustered-education-rcts/">Correct variance estimation for CACE in clustered education RCTs</a> - The report's methodological contribution is to work out the correct variance formulas for the CACE estimator under clustered designs and to compare them with \"those that are typically used in practice\".</li>
+<li><a href="design-based-rct-analysis-with-grouped-administrative-data/">Design-based RCT analysis with grouped administrative data</a> - The article recommends analyzing RCTs with grouped administrative data \"to help improve data access,\" using design-based estimators formed as group-level averages.</li>
+<li><a href="digital-learning-platform-process-data-analysis/">Digital learning platform process-data analysis</a> - The report urges researchers to use the robust log data DLPs generate, such as which tasks students begin, time spent, and detailed progress.</li>
+<li><a href="early-warning-indicator-construction/">Early-warning indicator construction</a> - A Consortium report cited in the paper outlines five characteristics of effective indicators: predictiveness, usability and clarity, real time/right time availability, direct causal linkage to outcomes, and malleability.</li>
+<li><a href="embedded-experimental-designs-in-digital-learning-platforms/">Embedded experimental designs in digital learning platforms</a> - This pattern describes embedding interventions directly within platform infrastructure—modifying problem formats, feedback types, or visual scaffolds—and observing effects during authentic learning activities.</li>
+<li><a href="exploratory-digital-learning-platform-data-analysis-for-research-planning/">Exploratory digital learning platform data analysis for research planning</a> - The report advises that DLPs offer access to data on large numbers of users or full user populations, usable for secondary analysis or to refine hypotheses and run power calculations.</li>
+<li><a href="forcing-variable-integrity-checks-in-regression-discontinuity-designs/">Forcing-variable integrity checks in regression discontinuity designs</a> - Standard 1 requires that no systematic manipulation of the forcing variable occurred, since manipulation makes \"the true relationship between the outcome and forcing variable can no longer be identified, which could lead to biased impact estimates.\" Institutional integrity requires describing who sc</li>
+<li><a href="irt-based-repeated-measurement-linking-with-re-randomized-groups-and-concurrent-links/">IRT-based repeated-measurement linking with re-randomized groups and concurrent links</a> - The article recommends an IRT framework for its repeated measurement linking design because IRT \"easily allows for incomplete designs and for equality constraints between item parameters.\" The author notes that when new randomized groups are formed at each occasion and all links are put to work in c</li>
+<li><a href="joint-modeling-of-english-proficiency-growth-and-reclassification-timing-srem/">Joint modeling of English proficiency growth and reclassification timing (SREM)</a> - Because the joint model outperformed the conventional approach, the article supports designing EL policy analytics that estimate proficiency growth and reclassification timing together rather than separately.</li>
+<li><a href="logit-based-power-planning-for-clustered-education-rcts-with-binary-outcomes/">Logit-based power planning for clustered education RCTs with binary outcomes</a> - Because binary outcomes demand larger samples than continuous test-score or behavioral-scale outcomes, designers of clustered school-based RCTs should plan for more schools than the 40 to 60 typically used.</li>
+<li><a href="longitudinal-achievement-growth-analysis/">Longitudinal achievement growth analysis</a> - This principle holds that educators and researchers should use longitudinal data analysis to track how academic achievement for DHH students progresses over time.</li>
+<li><a href="lottery-based-randomized-controlled-trials-for-school-choice-evaluation/">Lottery-based randomized controlled trials for school-choice evaluation</a> - When a school of choice has more applicants than seats, its admissions lottery can serve as the randomizer for a causal evaluation.</li>
+<li><a href="matching-sample-definitions-and-analysis-methods-to-clustered-education-trial-designs/">Matching sample definitions and analysis methods to clustered education trial designs</a> - Among the practical steps the article recommends for meeting evidence and accountability demands are \"identifying appropriate sample definitions and analysis methods.\" In a clustered design this means defining the school and student samples deliberately and using analysis methods appropriate to clus</li>
+<li><a href="multi-armed-randomized-trial-analysis/">Multi-armed randomized trial analysis</a> - The report's guidance is that analysts running studies with several intervention arms should not simply reuse two-group methods: estimators \"need to be modified for the multi-armed design,\" hypothesis tests across pairwise contrasts require multiple comparison adjustments, and CACE estimation demand</li>
+<li><a href="multiple-design-element-interrupted-time-series-evaluation/">Multiple-design-element interrupted time series evaluation</a> - Because the basic single-group ITS depends on extrapolating the pretest functional form as a counterfactual, an assumption the authors call problematic, evaluators should add multiple design elements to the basic ITS structure.</li>
+<li><a href="planned-comparable-group-courseware-impact-study/">Planned Comparable-Group Courseware Impact Study</a> - The article distills lessons from the NGCC evaluation about conducting impact studies: measuring impact requires an objective outcome measure, a comparison group, evidence of comparability, adequate numbers in both groups, and holding other influences constant.</li>
+<li><a href="precision-based-sample-size-planning-for-clustered-education-trials/">Precision-based sample-size planning for clustered education trials</a> - The article recommends that evaluators discuss \"appropriate precision standards\" and then determine, for each random-assignment design, \"the required number of schools to achieve those standards\" using empirical parameter values.</li>
+<li><a href="propensity-score-stratification-with-multilevel-models/">Propensity score stratification with multilevel models</a> - When estimating the achievement effects of school transfer or school choice from non-experimental data, the article recommends combining propensity score stratification with multilevel models.</li>
+<li><a href="remnant-based-covariate-adjustment-reloop/">Remnant-based covariate adjustment (ReLOOP+)</a> - This principle directs platform researchers analyzing randomized experiments to train outcome-prediction models on log data from non-experimental ('remnant') users and incorporate those predictions, together with within-sample covariates, into design-based covariate-adjusted estimators such as ReLOO</li>
+<li><a href="sel-status-and-growth-early-warning-modeling/">SEL status-and-growth early-warning modeling</a> - This framework treats social-emotional learning constructs (academic growth mindset, self-efficacy, self-management) as developmental processes with their own growth trajectories, asking \"whether a student's mean SEL score in 6th grade (status) or growth between 6th through 8th grade is more predict</li>
+<li><a href="sensitivity-analysis-across-estimators-and-cluster-level-weighting-schemes-for-clustered-r/">Sensitivity analysis across estimators and cluster-level weighting schemes for clustered RCTs</a> - Because standard errors from alternative estimators of treatment effects in clustered RCTs can differ, the report's key recommendation is that analysts \"test the sensitivity of their impact findings using different estimation methods and cluster-level weighting schemes\".</li>
+<li><a href="small-cluster-randomized-trial-design-and-analysis/">Small cluster-randomized trial design and analysis</a> - The article offers best practices for designing and analyzing cluster randomized controlled trials with ten or fewer clusters, contexts where it says meaningful effects may still be detectable.</li>
+<li><a href="statistical-analysis-of-partially-nested-randomized-controlled-trials/">Statistical analysis of partially nested randomized controlled trials</a> - Because PN-RCT treatment students are nested in intervention clusters while control students are not, analysis must use \"basic statistical models that adjust for the clustering of treatment students within intervention clusters\".</li>
+<li><a href="the-stacks/">The Stacks</a> - The Stacks is a workshop visualization that 'allows for a small set of different, parallel dimensions of evidence rather than sequential levels'.</li>
+<li><a href="trajectory-based-early-indicator-framework-for-college-readiness-monitoring/">Trajectory-based early indicator framework for college readiness monitoring</a> - The article presents a framework that applies college readiness benchmarks to longitudinal middle-grades assessment data, assigning each student a series of up to six on-track status indicators and grouping students into six trajectory patterns.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.sections", "navigation.top", "navigation.indexes", "navigation.tracking", "navigation.path", "navigation.prune", "toc.follow", "content.code.copy", "content.tooltips"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>

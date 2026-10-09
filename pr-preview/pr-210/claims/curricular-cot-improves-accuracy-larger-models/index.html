@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="curricular-chain-of-thought-prompting-improves-competency-classification-accuracy-over-zero-shot-with-gains-concentrated-in-larger-models-while-definition-based-prompting-does-not-improve-performance">Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance<a class="headerlink" href="#curricular-chain-of-thought-prompting-improves-competency-classification-accuracy-over-zero-shot-with-gains-concentrated-in-larger-models-while-definition-based-prompting-does-not-improve-performance" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Curricular CoT improves prediction accuracy over the zero-shot baseline across all granularity levels, more apparently in GPT-4o and Llama3-70B. <a href="#zhen-xu-2026">→ Zhen Xu 2026</a>
+<code>q2 i?</code> The definition-based (DEF) strategy does not improve performance and can even reduce accuracy. <a href="#zhen-xu-2026-2">→ Zhen Xu 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="zhen-xu-2026">Zhen Xu 2026<a class="headerlink" href="#zhen-xu-2026" title="Permanent link">&para;</a></h3>
+<p>Zhen Xu, Xin Guan, Chenxi Shi, Qinhao Chen, Renzhe Yu. (2026). Evaluating 21st-Century Competencies in Postsecondary Curricula with Large Language Models: Performance Benchmarking and Reasoning-Based Prompting Strategies. Journal of Learning Analytics 13(1), 7–30. https://doi.org//10.18608/jla.2026.9127</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Experiment comparing five prompting strategies (DEF, CQA, CQ, QA, A) against the zero-shot baseline across four models and four granularity levels; the article describes the gains as modest but consistent, particularly in binary tasks.</p>
+<blockquote>
+<p>"Overall, we find that curricular CoT improves prediction accuracy over the zero-shot baseline across all levels of task granularity. However, these improvements are more apparent in larger and more advanced models, such as GPT-4o and Llama3-70B."</p>
+</blockquote>
+<h3 id="zhen-xu-2026-2">Zhen Xu 2026 (2)<a class="headerlink" href="#zhen-xu-2026-2" title="Permanent link">&para;</a></h3>
+<p>Zhen Xu, Xin Guan, Chenxi Shi, Qinhao Chen, Renzhe Yu. (2026). Evaluating 21st-Century Competencies in Postsecondary Curricula with Large Language Models: Performance Benchmarking and Reasoning-Based Prompting Strategies. Journal of Learning Analytics 13(1), 7–30. https://doi.org//10.18608/jla.2026.9127</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Same prompting-strategy comparison: providing competency definitions from human annotator notes failed to help and in some cells lowered accuracy relative to the zero-shot baseline.</p>
+<blockquote>
+<p>"In contrast, the definition-based (DEF) strategy, which provides the model with human-annotated notes for each competency, does not improve performance and can even reduce accuracy."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../llm-accuracy-regression-overestimation-bias/">Curriculum document type and competency framework significantly predict LLM prediction accuracy, and zero-shot LLMs systematically overestimate competency coverage</a> — related</li>
+<li><a href="../zero-shot-llm-granularity-competency-classification/">Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification</a> — related</li>
+<li><a href="../chatgpt-zero-shot-relevance-extraction-unreliable/">ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality</a> — related</li>
+<li><a href="../prompt-dimension-interaction-error-rates/">Prompt type interacts with coding dimension in error rates: definitions and instructions can impair detection of listing</a> — related</li>
+<li><a href="../prompt-type-minimal-impact-llm-coding/">Zero-shot prompt type has minimal impact on LLM-human coding concordance</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>curricular-cot-improves-accuracy-larger-models</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-08</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>zhen-xu-2026</code>, <code>zhen-xu-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

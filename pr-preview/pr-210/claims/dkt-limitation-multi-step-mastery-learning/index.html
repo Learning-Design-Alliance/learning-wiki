@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="deep-knowledge-tracing-has-a-fundamental-limitation-that-prevents-it-from-supporting-mastery-learning-on-multi-step-problems">Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems<a class="headerlink" href="#deep-knowledge-tracing-has-a-fundamental-limitation-that-prevents-it-from-supporting-mastery-learning-on-multi-step-problems" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code> · <code>i2</code> medium</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> DKT predictions between problems confuse the mastery learning system on multi-step problems because some KCs cannot be correctly applied on the first step, making the system think the KC is unmastered. <a href="#dkt-1">→ dkt-1</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="dkt-1">dkt-1<a class="headerlink" href="#dkt-1" title="Permanent link">&para;</a></h3>
+<p>Qiao Zhang and Christopher MacLellan “Going Online: A simulated student approach for evaluating knowledge tracing in the context of mastery learning”. 2021. In: Proceedings of The 14th International Conference on Educational Data Mining (EDM21). International Educational Data Mining Society, 331-337. https://educationaldatamining.org/edm2021/</p>
+<p><code>q2 · i2</code> · <code>design · r2</code></p>
+<p>Sequence analysis of DKT predictions for a single student's full sequence (Fig. 7) showed the student never masters "AD Answer Numerator" or "AD Answer Denominator", explaining why the DKT tutor gives almost all AD problems. The authors trace the erratic behavior to predictions sampled between problems.</p>
+<blockquote>
+<p>"Unfortunately, for multi-step problems some KCs cannot be correctly applied on the first step. DKT correctly predicts these KCs will have near 0% correctness (any attempts will be incorrect)."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../bkt-most-efficient-online-mastery-learning/">BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems</a> — related</li>
+<li><a href="../dkt-input-output-representation-affects-performance/">DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets</a> — related</li>
+<li><a href="../problem-counts-by-knowledge-tracing-condition/">In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two</a> — related</li>
+<li><a href="../forecast-concerns-personal-circumstances/">Students raised concerns that performance forecasts cannot capture personal circumstances affecting study</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>dkt-limitation-multi-step-mastery-learning</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-09-25</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>dkt-1</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

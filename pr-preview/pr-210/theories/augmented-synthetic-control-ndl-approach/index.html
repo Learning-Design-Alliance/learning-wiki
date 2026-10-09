@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Augmented synthetic control method for estimating counterfactual outcomes of no-deadlines programs - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../theories/">Theories</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Theory">
+<h1 id="augmented-synthetic-control-method-for-estimating-counterfactual-outcomes-of-no-deadlines-programs">Augmented synthetic control method for estimating counterfactual outcomes of no-deadlines programs<a class="headerlink" href="#augmented-synthetic-control-method-for-estimating-counterfactual-outcomes-of-no-deadlines-programs" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Theory</strong> · <a href="../">All theories</a>
+<strong>Evidence</strong> · 2 claims (1 for, 1 mixed) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The memo applies the augmented synthetic control method (Ben-Michael, Feller, and Rothstein 2021a), which the article says uses "a specifically weighted average of comparison units for which the pre-implementation outcome trends match those of the treated units." Weighted comparison-unit outcomes in post-implementation periods estimate the treated units' counterfactuals. Ridge regression generates weights, and the other focal outcomes are included as covariates. Comparison programs are restricted to the same directorate so directorate-wide changes affect both treated and comparison programs.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Enough pre- and post-treatment data for each cohort (the memo requires at least six years pre- and three years post-implementation) and enough comparison units</li>
+<li>Comparison programs in the same directorate as the NDL program</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The memo states its data include six to nine pre-intervention years and three to seven comparison programs, both smaller than typical synthetic control studies, creating risks of poor counterfactuals and overfitting</li>
+<li>Programs switching to NDL mid-fiscal-year were removed</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>NSF program officers and evaluation staff</li>
+</ul>
+<h3 id="target-learning-objectives">Target Learning Objectives<a class="headerlink" href="#target-learning-objectives" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Estimating impacts of no-deadlines submission policies on proposal volume, quality, reviewer burden, collaboration, and requested funding</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/synthetic-control-poor-fit-bio-few-comparisons/">Synthetic Control Poor Fit Bio Few Comparisons</a> [~M]</li>
+<li><a href="../../claims/ndl-reduced-proposal-volume-geo-exploratory/">Ndl Reduced Proposal Volume Geo Exploratory</a> [+M]</li>
+</ul>
+<h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../strategies/future-rigorous-ndl-evaluation-considerations/">Design considerations for a future rigorous evaluation of no-deadlines approaches</a></li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Fesler, Lily and Lindsay Fox. (2022). No-deadlines Synthetic Control and Exploratory Outcomes Analysis and Recommendations for a Future Rigorous Evaluation [Memorandum]. Alexandria, VA: National Science Foundation. https://www.mathematica.org/publications/no-deadlines-synthetic-control-and-exploratory-outcomes-analysis-and-recommendations-for-a-future</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>theory</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Augmented synthetic control method for estimating counterfactual outcomes of no-deadlines programs</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The memo applies the augmented synthetic control method (Ben-Michael, Feller, and Rothstein 2021a), which the article says uses "a specifically weighted average of comparison units for which the pre-implementation out...</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-08</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>fesler-2022</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
