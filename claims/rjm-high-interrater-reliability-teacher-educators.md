@@ -48,3 +48,4 @@ Mixed-method study of eight teacher educators: two raters independently coded 95
 - [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](lou-interview-interrater-reliability-high.md) — related
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
 - [Every teacher educator participant produced narrative from every RJM level, with a preponderance near a typical level slightly above 4.0](typical-level-slightly-above-four.md) — related
+- [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related

@@ -66,3 +66,4 @@ Authors' interpretation (type e) from the Discussion, attributing the null H2b a
 - [Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise](industrial-arts-teacher-education-technical-and-human-sides.md) — related
 - [A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions](literature-review-challenges-evidence-use-policy.md) — related
 - [Predictive analytics can benefit education only if educators heed how their use should differ from industry](predictive-analytics-benefit-heed-schooling-differences.md) — related
+- [Worker and jobseeker input on skills-first pathway design and implementation is far too often limited or missing](worker-input-on-skills-first-pathways-limited-or-missing.md) — related

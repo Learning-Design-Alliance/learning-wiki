@@ -59,3 +59,4 @@ The mechanism is illustrated through two carefully transcribed, representative e
 - [The better the five foundations are integrated, the greater the probability of success in the designed setting](foundation-integration-predicts-environment-success.md) — related
 - [A teacher can only describe what the teacher and pupils do when teaching occurs; what happens between them remains unknown](teaching-act-opacity.md) — related
 - [Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12](teachers-key-role-secondary-writing-outcomes.md) — related
+- [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — related

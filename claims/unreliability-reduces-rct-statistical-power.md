@@ -45,3 +45,4 @@ Analytical discussion in the reliability section of the paper, drawing on classi
 ## Related Claims
 - [In clustered school-based RCTs, OLS mediator analyses yield precise teacher practice-achievement estimates only with about 150 to 200 study schools](ols-mediator-power-requires-150-200-schools.md) — related
 - [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
+- [Standardized test data proved too statistically unreliable for determining individual teacher effectiveness, and support for its use is waning](test-based-teacher-effectiveness-unreliable.md) — related

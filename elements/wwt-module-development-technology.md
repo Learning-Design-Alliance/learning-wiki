@@ -47,6 +47,7 @@ WorldWide Telescope (WWT) is described as "an interactive scientiﬁc data visua
 - [JavaScript with the d3.js library as a web-native module-development technology](javascript-d3-module-development-technology.md)
 - [Python with matplotlib as a module-development technology leveraging existing graduate research skills](python-matplotlib-module-development-technology.md)
 - [Wolfram Computable Document Format as a module-development technology](wolfram-cdf-module-development-technology.md)
+- [EarthTime data visualizations provide interactive, time-lapse representations of large data sets for classroom discovery](earthtime-data-visualization-tool.md)
 
 ## Examples
 

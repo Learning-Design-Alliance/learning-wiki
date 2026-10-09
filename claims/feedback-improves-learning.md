@@ -134,3 +134,5 @@ Open questions: how durable feedback effects are over time, how feedback interac
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — the optimal feedback type shifts from directive to self-evaluative prompts as expertise grows.
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — a narrower finding that bears on this claim
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
+- [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
+- [Formative assessment practices coherent with OpenSciEd are constrained by grading expectations misaligned with formative goals and by the time cost of evaluating and giving feedback on three-dimensional tasks.](openscied-formative-assessment-feasibility-challenges.md) — related

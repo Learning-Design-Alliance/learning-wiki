@@ -56,6 +56,7 @@ Implementation is supported through multiple professional development formats ra
 - [Use Curriculum Associates professional learning: introductory course, on-site development days, and free OEL digital courses](magnetic-reading-professional-learning-strategy.md)
 - [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
+- [Multi-layer coach training and support system: coach camp, paired mentoring, ongoing webinars, and coach-the-coach sessions](vils-coach-training-support-system.md)
 
 ## Examples
 -

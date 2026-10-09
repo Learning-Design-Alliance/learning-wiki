@@ -45,3 +45,4 @@ Cross-study comparison of causal estimates from the present state-level cluster 
 ## Related Claims
 - [Pre-K Mathematics remains effective at the state scale, with a positive and statistically significant effect of .30 on the ECLS-B Mathematics Assessment](pre-k-mathematics-effective-state-scale-es-30.md) — related
 - [Eighth graders in the Breakthrough Collaborative math tutoring pilot showed math score growth from beginning to end of year at both affiliates, similar to a national pre-pandemic sample](breakthrough-tutoring-math-gains-similar-national-sample.md) — related
+- [Substantial improvement in outcomes: breakthroughs change learning or life trajectories rather than improving incrementally](breakthrough-substantial-outcome-improvement-trajectories.md) — related

@@ -64,6 +64,7 @@ Integrated SEL improves both behavioral and academic outcomes, with meta-analyti
 - [Acting-Role-Play](acting-role-play.md) — a vehicle for practicing perspective-taking within content
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — autonomy-supportive structure aligned with SEL self-management goals
 - [Implement Connect Science through a staged professional development sequence with coaching and reflective practice](connect-science-staged-pd-sequence.md)
+- [Embed algorithmic thinking lessons across content, standalone, SEL, problem-based, and review contexts](when-to-teach-algorithms-five-contexts.md)
 
 ## Examples
 - **[RULER](https://www.rulerapproach.org)** (Yale Center for Emotional Intelligence) — integrates emotion-labeling tools (mood meter, meta-moment) into classroom routines and academic work.

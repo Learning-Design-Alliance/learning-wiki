@@ -37,7 +37,8 @@ The article recommends that an organization conduct a self-assessment of its exi
 - Diagnose organizational M&E capacity and prioritize areas for support
 
 ## Related Strategies
-- 
+
+- [Conduct research in partnership with educators on equity problems educators prioritize](educator-partnership-centered-equity-research.md)
 
 ## Examples
 -

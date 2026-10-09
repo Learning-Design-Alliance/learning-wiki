@@ -45,3 +45,4 @@ Table 11 of the randomized comparison reports Pilot × % Minority interaction co
 ## Related Claims
 - [Higher-achieving schools realized a bigger first-year reading benefit from the evaluation pilot than lower-achieving schools](eitp-heterogeneity-baseline-achievement.md) — related
 - [After the first year of the EITP pilot, cohort 1 schools improved reading achievement by 0.10 standard deviations relative to cohort 2 schools](eitp-year1-reading-effect-010sd.md) — related
+- [Ethnically/racially diverse students perceived piloted education technology products as more beneficial than White students did](diverse-students-perceive-edtech-more-beneficial.md) — related

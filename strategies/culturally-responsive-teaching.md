@@ -60,9 +60,11 @@ CRT treats students' cultural knowledge as an instructional asset rather than a 
 6. Assess belonging and fairness perceptions alongside academic outcomes, and adjust.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — CRT extends activation to cultural and community knowledge as the bridge to new content
 - [Community-Based Learning](../principles/community-based-learning.md) — situates instruction in students' communities, enacting the asset-based stance directly
 - [Building Empathy](../principles/building-empathy.md) — the intergroup-attitude work that supports inclusive classrooms
+- [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 
 ## Examples
 - **Funds of Knowledge projects** (Moll et al., University of Arizona) — teachers conduct household visits to map students' community knowledge and design instruction around it.

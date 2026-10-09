@@ -39,6 +39,8 @@ Following research on human-centred learning analytics, the authors suggest "the
 ## Related Strategies
 
 - [Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support](personalized-subject-specific-data-use-support.md)
+- [Implement a systems change approach addressing five factors simultaneously for AI and digital equity](systems-change-five-factors-ai-equity.md)
+- [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
 
 ## Examples
 -

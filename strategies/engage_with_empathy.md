@@ -59,8 +59,10 @@ Empathic engagement builds the social presence that online discussion depends on
 6. Reflect: periodically review anonymized exchanges as a group and evaluate them against the norms ([Whole-Class Sharing](../elements/whole-class-sharing.md)).
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the face-to-face counterpart; restating before responding is its online form
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy operationalizes in digital contexts
+- [Teachers should learn about students' lives and commitments outside school and build relationships, which students say increases respect, effort, and engagement](teachers-learn-students-outside-commitments.md)
 
 ## Examples
 - When presenting a new idea, use the sentence frame: "According to _______, we should think about ______ in this way: _______." When disagreeing, say: "I appreciate the experience shared by _________, but in my experience __________."

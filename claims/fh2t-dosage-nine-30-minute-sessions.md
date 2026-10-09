@@ -45,3 +45,4 @@ Dosage and outcome specification from the same RCT of Grade 7 students: "nine 30
 ## Related Claims
 - [FH2T use raised Grade 7 students' algebraic understanding significantly more than an active comparison condition (g = 0.14) in an RCT](fh2t-rct-algebraic-understanding-g-014.md) — related
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — related
+- [Educators used FH2T's teacher console insights to modify instruction, and recommended the console share students' mathematical capabilities and content-area difficulties](fh2t-teacher-console-instructional-modification.md) — related

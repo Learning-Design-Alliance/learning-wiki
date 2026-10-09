@@ -63,6 +63,7 @@ Relationship quality is one of the most consistent correlates of achievement and
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a scalable structure for individual relationship-building contact
 - [Check-Ins](../elements/check-in.md) — the recurring ritual that maintains relational connection over a course
 - [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
+- [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
 
 ## Examples
 - **Restorative practice circles** (used across many US districts): structured community circles in which teachers and students share perspectives, building relational trust that underpins classroom management.

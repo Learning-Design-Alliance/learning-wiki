@@ -46,3 +46,4 @@ Secondary analysis of the same survey data by age group (n = 191; Figure 7), rea
 - [Experience of blended course design shifts students' interaction priorities from teacher toward student interaction](blended-experience-shifts-priority-to-student-interaction.md) — related
 - [The ratio of SMM time to ALT-PE decreased gradually with increasing expertise level](smm-alt-pe-ratio-decreases-with-expertise.md) — related
 - [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](theorem-theses-confirmed-by-survey.md) — related
+- [Both educator groups rank research to inform best practices in teaching and learning as the most important research goal](best-practices-research-top-goal-educators.md) — related

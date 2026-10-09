@@ -44,6 +44,7 @@ The document enumerates concrete state policy actions organized in three section
 ## Related Strategies
 
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
+- [Districts should map virtual-learning and equity actions onto the seven domains of a comprehensive, aligned principal pipeline](seven-domain-pipeline-virtual-leadership-strategies.md)
 
 ## Examples
 -

@@ -164,6 +164,7 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - [Ground coaching conversations in the work of children](../patterns/ground-conversations-in-childrens-work.md)
 - [Leveraging Strengths in Relationship Skills](../strategies/leveraging_strengths_in_relationship_skills.md)
 - [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
+- [Leverage what students do well and enjoy to address their learning challenges](../strategies/leverage-strengths-to-mitigate-challenges.md)
 
 ## Key Sources
 - Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. *Intervention in School and Clinic, 55*(1), 46-51. [https://doi.org/10.1177/1053451218767918](https://doi.org/10.1177/1053451218767918)

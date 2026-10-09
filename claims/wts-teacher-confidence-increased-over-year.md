@@ -65,3 +65,4 @@ Survey-based comparison of average confidence gains from beginning to end of yea
 - [Teachers reported increased use of culturally and linguistically relevant instruction over the year, while teacher collaboration remained unchanged](wts-clri-increased-collaboration-unchanged.md) — related
 - [Teachers with a local coach completed far more of the intended Write to Succeed professional learning activities than teachers without one](wts-local-coach-higher-activity-completion.md) — related
 - [Most pilot teachers used the Write to Succeed practices and found them easy to use and helpful for students, with ease of use increasing across semesters](wts-practices-used-and-rated-helpful.md) — related
+- [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related

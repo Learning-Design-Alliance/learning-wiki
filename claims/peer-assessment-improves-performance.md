@@ -98,3 +98,4 @@ A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary,
 - [Authentic audiences improve student work.](authentic-audiences-improve-student-work.md) — a real peer audience raises the stakes and quality of work
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — related
+- [Peer and self-assessment both show significant effects on academic performance with no significant difference between their impacts](peer-self-assessment-improve-performance-equally.md) — a broader claim this one bears on

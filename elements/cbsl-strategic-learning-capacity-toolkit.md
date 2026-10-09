@@ -40,6 +40,8 @@ A toolkit published by Mathematica for facilitators of strategic learning initia
 
 - [Toolkit for Building a Virtual Learning Cohort with ten transferable planning tools](virtual-learning-cohort-toolkit.md)
 - [Capacity Building for Strategic Learning (CBSL) pilot initiative](cbsl-pilot-initiative.md)
+- [Alumni Survey Design Toolkit for sustainability and scalability](alumni-survey-design-toolkit.md)
+- [Journey map and adapted empathy map templates for capturing learner experience](journey-empathy-map-templates-ler.md)
 
 ## Examples
 

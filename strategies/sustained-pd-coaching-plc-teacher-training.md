@@ -57,6 +57,7 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Support implementation with initial Science of Reading training plus PLC-based lesson study](sor-pd-plc-lesson-study-implementation-support.md)
 - [Support implementation with initial Science of Reading training plus PLC-based lesson study and model lessons](plc-lesson-study-implementation-support.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
+- [Sequence pathway development activities across three years: buy-in, SCRIPT assessment and summer institutes led by model-district teachers, then piloting with microcredentials](three-year-pathway-development-activities.md)
 
 ## Examples
 -

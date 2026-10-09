@@ -60,9 +60,11 @@ Story mapping works because it externalizes the *schema* of narrative text, givi
 5. Use completed maps for retelling, comparison across texts, or as planning tools for students' own narrative writing ([Annotating](../principles/annotating.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — story maps work best when learners first activate what they know about narrative structure and the story's topic
 - [Summarizing](summarizing.md) — the completed map is a natural scaffold for summary writing
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — both make comprehension strategies explicit and gradually shift responsibility to learners
+- [Story retelling with familiar picture books to practice sequencing](story-retelling-sequencing-familiar-books.md)
 
 ## Examples
 - **Peer-Assisted Learning Strategies (PALS) for Reading** (Vanderbilt University) — embeds story mapping and retelling in structured peer tutoring routines ([https://pals.vanderbilt.edu](https://pals.vanderbilt.edu)).

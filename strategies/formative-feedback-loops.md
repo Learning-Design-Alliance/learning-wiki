@@ -58,9 +58,11 @@ Formative feedback loops operationalize [Assessment for Learning](../principles/
 5. Re-assess against the same criteria and repeat, fading support as accuracy grows
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented_feedback.md) — the feedback message design that makes loops actionable
 - [Retrieval Practice](retrieval-practice.md) — a checkpoint mechanism that both elicits evidence and strengthens memory
 - [Mastery Learning](mastery-learning.md) — loops with an explicit criterion-referenced exit condition
+- [Using Mathspace workflows to provide timely, mastery-oriented feedback on student work](mathspace-mastery-oriented-feedback-workflow.md)
 
 ## Examples
 - **Draft–feedback–revision cycles in writing instruction** — Black & Wiliam's review documents large gains when teachers embed comment-based feedback and revision into ordinary classroom work.

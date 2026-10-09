@@ -68,9 +68,11 @@ Visual schedules convert a verbal, memory-dependent sequence into a persistent e
 - Images can be customized to the learner's actual routines, materials, and environment; schedules can be physical, laminated, or digital. Involving the learner in choosing images increases buy-in.
 
 ## Related Strategies
+
 - [Checklists](checklists.md) — the text-based counterpart; picture schedules serve the same function for pre-readers
 - [Task Analysis](../methods/task-analysis.md) — the prerequisite method for breaking routines into schedulable steps
 - [Fading](../elements/fading.md) — the process for withdrawing adult prompting and eventually the schedule itself as independence grows
+- [Sequencing familiar everyday tasks to teach order of instructions](sequencing-everyday-tasks-k2.md)
 
 ## Related Elements
 - [Accommodations](../elements/accommodations.md) — visual schedules function as a universal design accommodation for executive function and reading load

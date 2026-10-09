@@ -46,3 +46,4 @@ Randomized controlled trial with low attrition across four Texas community colle
 - [DCMP has positive effects on progressing in college, based on two studies meeting WWC standards](dcmp-positive-effects-progressing-college.md) — related
 - [DCMP has positive effects on progressing in developmental education, based on three studies meeting WWC standards](dcmp-positive-effects-progressing-developmental-education.md) — a broader claim this one bears on
 - [In a propensity-score-matched QED, DCMP students passed college-level math at much higher rates than a two-to-three-semester sequence comparison](dcmp-qed-schudde-keisler-college-math.md) — related
+- [Carnegie Math Pathways students earned college-level math credits at three to four times the rate of peers in traditional sequences and graduated at double the rate](carnegie-math-pathways-outcomes-claim.md) — related

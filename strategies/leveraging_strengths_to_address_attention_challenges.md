@@ -62,9 +62,11 @@ Attention is a limited resource, especially for students with ADHD or weak execu
 7. **Evaluate and adjust.** Track on-task behavior and engagement data; drop supports that show no effect and intensify multi-component support if gains stall.
 
 ## Related Strategies
+
 - [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md) — shares the profile-then-accommodate approach for a related executive function dimension
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — chunking applied to motivation and task initiation
 - [Activate Background Knowledge](../strategies/activate_background_knowledge.md) — leveraging existing knowledge as an attentional and comprehension anchor
+- [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
 
 ## Examples
 - **Elementary classroom:** A third-grader with ADHD sits beside the teacher, receives directions one step at a time with a pictorial checklist, and earns movement breaks every 20 minutes; the teacher tracks on-task minutes per period to evaluate the package.

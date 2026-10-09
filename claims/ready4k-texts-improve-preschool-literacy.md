@@ -50,3 +50,4 @@ Randomized controlled trial with the San Francisco Unified School District durin
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Parent Involvement Improves Achievement](parent-involvement-improves-achievement.md) — related
+- [An online individualized instruction program was highly effective in improving literacy skills in preschool through third grade](individualized-instruction-reading-effective-p3.md) — related

@@ -64,6 +64,7 @@ Rhyming games work because they direct attention to the rime unit (vowel + final
 - [Word Family Charts](word-family-charts.md) — the print bridge from oral rhyme to spelling patterns
 - [Phonemic Awareness Drills](phonemic-awareness-drills.md) — the next developmental step after rhyme, moving to individual phonemes
 - [Teach phonics and fluency together through a three-step rhyming poetry sequence](rhyming-poetry-three-step-instruction-sequence.md)
+- [Assess all students and form small groups with similar abilities so phonological awareness instruction can be provided at the appropriate level](assess-and-group-for-phonological-awareness.md)
 
 ## Examples
 - **Rhyming bingo** — children cover pictures that rhyme with a called word; combines recognition practice with peer play in small groups

@@ -47,3 +47,4 @@ Fisher's exact test compared responses across the two instructors' sections beca
 - [Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material](clickers-perceived-learning-benefit.md) — related
 - [The MLM group showed greater preference for the study materials over their current textbook than the two text-based groups](mlm-group-prefers-study-materials-over-textbook.md) — related
 - [Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam performance differences](students-perceive-clicker-levels-equally-helpful.md) — related
+- [Students who reported their teacher was more knowledgeable with the program perceived education technology as more beneficial](teacher-knowledge-higher-perceived-benefit.md) — related

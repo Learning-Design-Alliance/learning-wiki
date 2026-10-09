@@ -47,7 +47,9 @@ A teacher (or team) articulates their own inquiry question about their practice;
 5. The team debriefs, reflecting on what the clips revealed and drawing in outside practices, frameworks, or prior experience as relevant.
 
 ## Related Strategies
+
 - (none yet linked)
+- [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](four-micro-credential-ecosystem-recommendations.md)
 
 ## Examples
 - Project SIGMa used this cycle with school-based teacher teams over one to two years, with teams entering and progressing through different phases of the [adaptive cycle](../theories/adaptive-cycles-framework.md) of change at different rates.

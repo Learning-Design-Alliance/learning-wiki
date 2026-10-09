@@ -60,9 +60,11 @@ Instructions are the first cognitive task learners face; poorly structured direc
 6. Deliver instructions, then have learners restate or begin the first step immediately to surface misunderstandings early ([Check-In](../elements/check-in.md), [Coaching](../elements/coaching.md)).
 
 ## Related Strategies
+
 - [Modeling](../strategies/modeling.md) — demonstration can replace or supplement verbal instructions for complex procedures
 - [Front-Loading Vocabulary](../strategies/front-loading-vocabulary.md) — pre-teaching terms that instructions depend on
 - [Routines and Signals](../strategies/routines-and-signals.md) — rehearsed routines reduce how much instruction is needed at all
+- [Sequencing familiar everyday tasks to teach order of instructions](sequencing-everyday-tasks-k2.md)
 
 ## Examples
 - An elementary teacher prepares a picture-based checklist for a writing workshop, grouping all "drafting" tasks under one instruction set so directions are given once per phase rather than per student.

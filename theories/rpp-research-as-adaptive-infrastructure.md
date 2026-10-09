@@ -42,6 +42,7 @@ The UChicago Consortium's model treats research "as an active force for continuo
 ## Related Theories
 
 - [Relational trust in schools](relational-trust-in-schools-valparaiso-illinois.md)
+- [Research Practice Partnerships (RPPs) as long-term partnerships focused on problems of practice](research-practice-partnerships-rpp.md)
 
 ## Examples
 -

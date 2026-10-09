@@ -66,3 +66,4 @@ Genesee's critique as summarized in the introduction: the framework is valuable 
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — reports the opposite
 - [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](bics-acquired-faster-than-calc-immigrant-children.md) — related
 - [Immersion and submersion programs differ socioculturally, communicating success versus failure to children](immersion-submersion-sociocultural-contrast.md) — related
+- [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related

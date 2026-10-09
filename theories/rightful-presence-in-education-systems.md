@@ -42,6 +42,7 @@ The brief defines rightful presence as a systems-level extension of a concept fr
 
 - [Inclusion versus rightful presence: a four-dimension contrast (rights, time, burden, culture)](inclusion-versus-rightful-presence-contrast.md)
 - [Rightful Presence](rightful-presence.md)
+- [DEIB framework: diversity, equity, inclusion and belonging as interdependent foundations of collaborative learning](deib-framework-collaborative-learning.md)
 
 ## Examples
 

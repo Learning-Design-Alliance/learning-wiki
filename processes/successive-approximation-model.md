@@ -99,8 +99,10 @@ Where the scope itself is unsettled, SAM is the wrong tool and [Design Thinking]
 - [Learner Experience Design](learner-experience-design.md) — supplies the evaluation methods the review cycles need
 
 ## Examples
+
 - **Corporate e-learning production** — the setting SAM was developed in, where fixed delivery dates and shifting subject-matter make a full up-front specification unaffordable
 - **Course redesign with a live cohort** — successive rounds released to consecutive cohorts, each informed by the last
+- [Replace monolithic comprehensive studies with smaller, agile research cycles that test one conjecture at a time](../strategies/agile-cycles-replace-monolithic-studies.md)
 
 ## Key Sources
 - Cullen. Ch. 26 in *Design for Learning*. EdTech Books. [https://edtechbooks.org/id/agile_design](https://edtechbooks.org/id/agile_design)

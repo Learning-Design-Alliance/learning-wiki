@@ -47,6 +47,7 @@ The handbook defines collaborative approaches to adult learning as participatory
 ## Related Theories
 
 - [Collaborative learning in adult literacy is defined by nine interlocking characteristics](collaborative-learning-nine-characteristics-adult-literacy.md)
+- [Distinction between cooperative learning and collaborative learning as two approaches to students working in groups](cooperative-versus-collaborative-learning-distinction.md)
 
 ## Related Patterns
 - 
@@ -58,6 +59,7 @@ The handbook defines collaborative approaches to adult learning as participatory
 - [Inclusive Innovation Process](../strategies/inclusive_innovation_process.md)
 - [Youth Participatory Action Research (YPAR)](../strategies/youth-participatory-action-research-ypar.md)
 - [Challenge Based Learning](../strategies/challenge_based_learning.md)
+- [Fund collaborative participatory teams and broaden dissemination to bridge edtech design and research for MLLs](../strategies/participatory-collaborative-funding-bridge-mll-design-research.md)
 
 ## Key Sources
 - You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners. (1993). Parma City School District. https://eric.ed.gov/?id=ED361492

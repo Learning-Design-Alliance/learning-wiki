@@ -50,3 +50,4 @@ Theoretical argument drawing on organizational research and research on professi
 - [Teachers drawing on a combination of professional development sources experience higher quality development than those drawing primarily on one source](multiple-pd-sources-higher-quality.md) — a narrower finding that bears on this claim
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](coherence-alignment-student-experience-supports.md) — a narrower finding that bears on this claim
 - [Schools with many unrelated and unsustained initiatives show smaller gains than schools with coherent programs](instructional-program-coherence-smaller-gains.md) — related
+- [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related

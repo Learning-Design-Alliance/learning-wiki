@@ -57,3 +57,4 @@ A chapter situating design thinking in the design research field, from which it 
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
 - [Engineering team converged earlier than other teams, concluding prototyping two minutes before the time limit](engineering-team-early-convergence-prototyping.md) — related
 - [For classroom assessments of complex constructs such as learning progressions in math and science, test score use is more effectively conceptualized as part of a potential solution to a problem, or 'job-to-be-done'](score-use-as-job-to-be-done.md) — related
+- [AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project](ai-prototyping-accelerates-development-with-feedback-loops.md) — related

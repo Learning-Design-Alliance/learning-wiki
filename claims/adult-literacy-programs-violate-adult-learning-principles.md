@@ -48,3 +48,4 @@ This is the handbook's research-review section on problems of adult literacy pro
 - [ACE's main VET contribution is General Education and Training (around 20% of provision), with around 10% in non-industry-specific occupational training and little in industry-specific training](ace-vet-contribution-concentration-general-education.md) — related
 - [Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose](group-membership-alone-does-not-produce-cooperation.md) — related
 - [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](collaborative-group-work-beats-competitive-classrooms-k12.md) — related
+- [Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners](cohort-support-improves-adult-persistence.md) — related

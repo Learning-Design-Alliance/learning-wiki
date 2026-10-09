@@ -60,7 +60,9 @@ Peer feedback works when it is treated as formative [assessment](../elements/ass
 6. Debrief the process itself ([class discussion](../elements/class-discussion.md)) to reinforce norms and improve feedback quality over time.
 
 ## Related Strategies
+
 - Peer critique and revision cycles pair naturally with portfolio and draft-based writing approaches; see [Assessment for Learning](../principles/assessment-for-learning.md) for the underlying formative-assessment principle.
+- [Foster a classroom culture of critical thinking through collective responsibility, trust norms, multiple perspectives, scaffolding, and frequent argumentation opportunities](culture-practices-for-collaborative-argumentation.md)
 
 ## Examples
 - **El Education (Expeditionary Learning) "Critique and Revision" protocol** — students use kind/specific/helpful norms to critique drafts of expedition products before public exhibition ([https://eleducation.org](https://eleducation.org)).

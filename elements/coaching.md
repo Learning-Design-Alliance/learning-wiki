@@ -76,6 +76,7 @@ Coaching accelerates skill development by keeping learners in a productive strug
 **[Codecademy](https://www.codecademy.com)** — Hints, solution reveals, and AI-assisted Q&A approximate coaching at scale during coding [practice](practice.md), though with weaker diagnosis than a human coach.
 
 **Athletic and music instruction** — The paradigm case: a coach observes each repetition, corrects technique immediately, and adjusts drills to the individual performer's errors.
+- [Use micro-modeling, demonstrations, and peer-to-peer classroom tours to remove technical and pedagogical barriers during AI tool adoption](../strategies/micro-modeling-peer-tours-remove-barriers.md)
 
 ## Key Sources
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. In L. B. Resnick (Ed.), *Knowing, learning, and instruction: Essays in honor of Robert Glaser* (pp. 453–494). Lawrence Erlbaum Associates. [doi:10.4324/9781315044408-14](https://doi.org/10.4324/9781315044408-14)

@@ -42,6 +42,7 @@ This recommendation directs districts to establish regular monitoring of how a t
 - [Use a monthly school attendance team to review data and problem-solve](monthly-attendance-data-team-review.md)
 - [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 - [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
+- [Plan mutual accountability for implementation, including rollout plans, educator supports, and early indicators for pivoting](obc-mutual-accountability-implementation.md)
 
 ## Examples
 -

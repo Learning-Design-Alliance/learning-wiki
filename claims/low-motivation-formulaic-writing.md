@@ -45,3 +45,4 @@ Qualitative interview finding from the study's semi-structured interviews with s
 ## Related Claims
 - [Students report teacher feedback on writing is insufficient, and they value scores over feedback](insufficient-writing-feedback-scores-over-feedback.md) — related
 - [English-major seniors report writing classes receive inadequate attention and are tied to test preparation](writing-class-inadequate-attention-tem-driven.md) — related
+- [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — a broader claim this one bears on

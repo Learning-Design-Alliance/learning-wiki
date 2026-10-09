@@ -163,10 +163,12 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice](humanistic-radical-adult-education.md)
 
 ## Examples
+
 - **Community-based examples**: Mathematics, literacy, or policy tasks use scenarios drawn from learners' work, neighborhood, or civic contexts.
 - **Learner-generated case material**: Learners contribute examples from their own experiences and compare how course concepts apply.
 - **Text selection with representation**: Instructors choose readings and cases that reflect a broader range of voices, histories, and cultural frames.
 - **Context mapping**: Before a new unit, learners identify what prior experience or community knowledge might connect to the topic.
+- [Connect computer science learning to Appalachian ingenuity and community identity to move it from novelty to change](../strategies/connect-ct-to-appalachian-ingenuity.md)
 
 ## Key Sources
 - Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.7](https://doi.org/10.1002/ace.7)

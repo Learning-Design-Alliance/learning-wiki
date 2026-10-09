@@ -49,3 +49,4 @@ Table 4 reports Instructor A's students' perceived changes: Variation in lessons
 - [No instructor bias was evident in students' liking of the clicker implementation or perceived learning benefit](no-instructor-bias-clicker-perceptions.md) — related
 - [Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material](clickers-perceived-learning-benefit.md) — related
 - [Students attributed improved understanding to the discussion process of the implementation model rather than the clicker technology itself](learning-attributed-to-process-not-technology.md) — related
+- [Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking](technology-group-work-engagement-student-thinking.md) — related

@@ -41,6 +41,7 @@ The article's implementation model assigns the platform to "classroom teachers" 
 
 - [Implement Learning Genie with initial training on observation-based assessment and ongoing technical assistance](learning-genie-implementation-training-strategy.md)
 - [Implement the spiral-review supplement with existing classroom staff, teacher onboarding training, and weekly computer-based quizzes](low-staffing-spiral-review-implementation.md)
+- [Plan mutual accountability for implementation, including rollout plans, educator supports, and early indicators for pivoting](obc-mutual-accountability-implementation.md)
 
 ## Examples
 -

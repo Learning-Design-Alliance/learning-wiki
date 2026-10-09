@@ -51,3 +51,4 @@ The one entry is a single class at Maui Community College: six scorers, six team
 - [The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives](rjm-high-interrater-reliability-teacher-educators.md) — related
 - [The GED essay is scored holistically on a six-point scale by two independent readers](ged-essay-holistic-six-point-two-readers.md) — related
 - [Reviewer scores of grant proposals show low overall reliability across six large studies, though reviewers become more consistent with experience](low-reliability-grant-reviewer-scores.md) — related
+- [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related

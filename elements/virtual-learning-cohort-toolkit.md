@@ -44,6 +44,8 @@ A toolkit published by Mathematica in October 2021 for learning cohort facilitat
 
 - [Toolkit of guides and templates for launching and sustaining an intermediary-led cohort of strategic learning grantees](cbsl-strategic-learning-capacity-toolkit.md)
 - [Capacity Building for Strategic Learning (CBSL) pilot initiative](cbsl-pilot-initiative.md)
+- [Alumni Survey Design Toolkit for sustainability and scalability](alumni-survey-design-toolkit.md)
+- [Journey map and adapted empathy map templates for capturing learner experience](journey-empathy-map-templates-ler.md)
 
 ## Examples
 

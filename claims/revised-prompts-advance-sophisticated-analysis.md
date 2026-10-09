@@ -47,3 +47,4 @@ Discussion-section synthesis of the qualitative case data comparing candidates' 
 - [Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers](guided-reflection-increases-reflective-judgment-sophistication.md) — related
 - [Elaborative Encoding Improves Retention](elaborative-encoding-improves-retention.md) — a broader claim this one bears on
 - [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — related
+- [Many teachers' knowledge of students' GC and CoV increased in sophistication over the school year, and teachers reported the professional learning and just-in-time supports were helpful](teacher-knowledge-and-pl-supports-grew.md) — related

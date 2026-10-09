@@ -57,9 +57,11 @@ Language demands are a hidden source of extraneous load in PBL: students wrestli
 4. Monitor use, prompt students to revise formulaic responses, and progressively fade the scaffolds as proficiency develops.
 
 ## Related Strategies
+
 - [Sentence Frames and Starters](sentence-frames-and-starters.md) — the general-purpose version of this strategy, not tied to PBL contexts
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — front-loads the conceptual vocabulary that stems then organize
 - [Structured Academic Controversy](structured-academic-controversy.md) — a PBL discussion format that depends heavily on function-specific discourse stems
+- [Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load](templates-and-posted-talk-moves-scaffolds.md)
 
 ## Examples
 - In a project-based science unit on ecosystems, students use "The data show that ___, which suggests that ___" when writing evidence-based claims, with the teacher modeling the move aloud before team investigations.

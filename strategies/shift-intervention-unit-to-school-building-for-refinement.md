@@ -37,7 +37,8 @@ The article proposes that interventions facilitating movement from nonuse to rou
 - Refinement, integration, and renewal of innovation use beyond initial routine implementation
 
 ## Related Strategies
-- 
+
+- [Shift from developing and confirming new interventions to elaborating and refining well-used resources to address equity issues](elaborate-and-refine-well-used-resources.md)
 
 ## Examples
 -

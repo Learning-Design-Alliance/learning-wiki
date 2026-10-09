@@ -72,3 +72,5 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related
 - [Classrooms in high-performing CHSRI schools showed positive, mutually respectful student-teacher relationships with emotional and academic support](chsri-positive-student-teacher-relationships.md) — related
 - [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
+- [Positive classroom climate is associated with more frequent socially shared regulation of learning](positive-climate-promotes-shared-regulation.md) — related
+- [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related

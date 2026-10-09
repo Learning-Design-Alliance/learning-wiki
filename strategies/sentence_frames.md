@@ -60,9 +60,11 @@ Sentence frames are a language scaffold in the Vygotskian sense: they lower the 
 5. Fade support: remove frames or reduce them to word banks as learners internalize the structures, and celebrate student-generated alternatives.
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the modeling method that shows learners *when* a frame fits, not just what it says
 - [Acting-Role-Play](../strategies/acting-role-play.md) — rehearsal context where frames can be practiced before authentic use
 - [Active-Listening](../strategies/active-listening.md) — frames often encode listening moves ("So what you're saying is…") that support this strategy
+- [Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load](templates-and-posted-talk-moves-scaffolds.md)
 
 ## Related Elements
 - [Peer Discussion](../elements/peer-discussion.md) — the structured exchange where frames do their work

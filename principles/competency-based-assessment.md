@@ -111,6 +111,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Grade Students Based on Demonstrated Learning](../strategies/grade_students_based_on_demonstrated_learning.md) — evaluation based on evidence rather than averages or behavior proxies
 - Applied projects, simulations, and observed performances are stronger competency evidence than multiple-choice recall alone
 - [Portfolio entries with written commentary for assessing teaching practice](../designs/portfolio-with-written-commentary-assessment.md)
+- [Reorient AI assessment toward formative, holistic portraits of learner competencies rather than automated grading](../strategies/ai-assessment-holistic-competency-portraits.md)
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.

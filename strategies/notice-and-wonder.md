@@ -58,8 +58,10 @@ The routine works because it forces activation of prior knowledge and attention 
 5. Debrief by returning to the recorded notices/wonders to connect student ideas to the solution.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — Notice and Wonder is a discourse-based enactment of activation
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a compatible structure for the individual-then-collect phase
+- [Use the Ten Times Two routine to build observational vocabulary before data analysis](ten-times-two-looking-activity.md)
 
 ## Examples
 - **NCTM / Illustrative Mathematics routines** — Notice and Wonder is a named instructional routine in the [Illustrative Mathematics](https://illustrativemathematics.org) K–12 curriculum, typically opening lessons with a graph or context before the task.

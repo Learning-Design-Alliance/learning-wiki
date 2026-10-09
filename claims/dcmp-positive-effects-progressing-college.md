@@ -46,3 +46,4 @@ WWC synthesis of two studies (Rutschow et al., 2019; Schudde & Keisler, 2019) re
 - [DCMP has positive effects on progressing in developmental education, based on three studies meeting WWC standards](dcmp-positive-effects-progressing-developmental-education.md) — related
 - [In an RCT, DCMP significantly increased completion of the developmental math sequence and passing of college-level math](dcmp-rct-rutschow-developmental-outcomes.md) — related
 - [In a propensity-score-matched QED, DCMP students passed college-level math at much higher rates than a two-to-three-semester sequence comparison](dcmp-qed-schudde-keisler-college-math.md) — related
+- [Carnegie Math Pathways students earned college-level math credits at three to four times the rate of peers in traditional sequences and graduated at double the rate](carnegie-math-pathways-outcomes-claim.md) — related

@@ -48,3 +48,4 @@ Qualitative thematic analysis (Braun and Clarke's six steps) of free-text barrie
 - [Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice](situated-learning-three-barrier-categories.md) — related
 - [Adult language learners join classes with varied, overlapping motivations that fall into goal-, activity- and learning-orientated categories](adult-learner-motivation-three-categories.md) — related
 - [Global change instruction poses a distinctive challenge: learners must view global change holistically while analysing individual issues at local and regional levels](global-change-holistic-and-local-analysis-challenge.md) — related
+- [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](adult-learner-barriers-situational-and-internal.md) — related

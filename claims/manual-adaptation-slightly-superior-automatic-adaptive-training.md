@@ -46,3 +46,4 @@ Experimental comparison of eight independent groups of eight subjects each under
 - [Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable](gain-time-constant-product-superior-forcing-function-amplitude.md) — related
 - [Transfer task performance is the critical measure of what adaptive training accomplishes](transfer-task-measures-adaptive-training-effectiveness.md) — related
 - [System compensation as implemented is not a satisfactory adaptive variable](system-compensation-unsatisfactory-adaptive-variable.md) — related
+- [K-12 educators value product-improvement research more, and individual-adaptation research less, than higher education educators](k12-product-functionality-goal-difference.md) — related

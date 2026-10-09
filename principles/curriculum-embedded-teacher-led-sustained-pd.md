@@ -51,6 +51,7 @@ MISE's core guiding principles for professional development remained constant ac
 
 - [Peer Teacher Workshops (PTWs)](../elements/peer-teacher-workshops-mise.md)
 - [Redesign workshop structure, content, timing, and location in response to non-participant barriers](../strategies/redesign-pd-to-lower-participation-barriers.md)
+- [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../elements/teaching-is-my-favorite-color-network.md)
 
 ## Key Sources
 - Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404

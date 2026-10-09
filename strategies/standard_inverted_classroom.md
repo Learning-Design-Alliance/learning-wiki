@@ -59,7 +59,9 @@ The model works only when both halves are redesigned: pre-class materials must b
 6. Close with synthesis or exit tickets; use results to adjust the next cycle
 
 ## Related Strategies
+
 - See the [Flipped Classroom](../patterns/flipped-classroom.md) pattern — the standard inverted classroom is the canonical implementation of this pattern
+- [Use a real-time preparedness dashboard to let instructors pivot lesson plans when few students have completed pre-class work](preparedness-dashboard-pivot-to-didactic-lecture.md)
 
 ## Examples
 - **Bergmann & Sams' chemistry flip (Woodland Park High School, CO)** — the original K-12 implementation; recorded lessons for absent students became the default, with class time devoted to labs and problem solving ([flippedclassroom.org](https://flippedclassroom.org))

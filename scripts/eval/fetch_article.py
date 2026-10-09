@@ -118,6 +118,34 @@ def _report_pdf_link(html: str, base: str) -> "str | None":
     return best
 
 
+_DSPACE_ITEM_RE = __import__("re").compile(r"^(https?://[^/]+)/items/([0-9a-f-]{36})/?$")
+
+
+def _fetch_dspace_item(fetch_url: str) -> "str | None":
+    """A DSpace 7 item page (Digital Promise's repository holds ~280 hub entries) is an
+    Angular shell with no text in its HTML. DSpace's REST API, which robots.txt does not
+    refuse, lists the item's bundles: the ORIGINAL bundle holds the deposited work, and
+    its first PDF is read as an article. Returns None for any other URL, or for an item
+    with no PDF in ORIGINAL, so the ordinary web fetch runs instead."""
+    m = _DSPACE_ITEM_RE.match(fetch_url)
+    if not m:
+        return None
+    origin, uuid = m.groups()
+    try:
+        bundles = _get(f"{origin}/server/api/core/items/{uuid}/bundles").json()["_embedded"]["bundles"]
+    except (FetchError, requests.RequestException, ValueError, KeyError):
+        return None
+    for b in bundles:
+        if b.get("name") != "ORIGINAL":
+            continue
+        streams = _get(b["_links"]["bitstreams"]["href"]).json()["_embedded"]["bitstreams"]
+        for bs in streams:
+            r = _get(f"{origin}/server/api/core/bitstreams/{bs['uuid']}/content")
+            if "pdf" in r.headers.get("Content-Type", "").lower() or r.content[:5] == b"%PDF-":
+                return _extract_pdf_text(r.content)
+    return None
+
+
 def _fetch_web(fetch_url: str) -> str:
     """A report or article on the publisher's own site (the curated lists in
     scripts/eval/source_lists.py: WWC, Evidence for ESSA, Mathematica, Brookings, ...).
@@ -125,6 +153,9 @@ def _fetch_web(fetch_url: str) -> str:
     the work's PDF is followed to it; otherwise the page's own text is the work, if it
     is long enough to be one. robots.txt and the per-domain rate floor apply through
     compliance.guard, as for every other source."""
+    dspace = _fetch_dspace_item(fetch_url)
+    if dspace:
+        return dspace
     resp = _get(fetch_url)
     ctype = resp.headers.get("Content-Type", "").lower()
     if "pdf" in ctype or resp.content[:5] == b"%PDF-":

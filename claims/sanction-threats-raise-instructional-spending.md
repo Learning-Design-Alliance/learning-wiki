@@ -47,3 +47,4 @@ The study reports spending responses of threatened schools, finding that "Sancti
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](technology-training-spending-inadequate.md) — related
 - [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related
 - [Accountability sanction effects were not consistent across years and outcomes](ayp-effects-inconsistent-across-years-and-outcomes.md) — related
+- [Per-learner technology spending is far lower in adult education (about $50) than in K-12 (about $145), signaling stagnant innovation in the adult market](adult-ed-tech-spending-50-versus-145-k12.md) — related

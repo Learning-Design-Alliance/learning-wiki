@@ -59,9 +59,11 @@ Rubrics and exemplars make quality criteria visible, supporting self-regulated p
 6. Fade support over successive tasks: move from instructor-annotated exemplars, to unannotated exemplars, to rubric co-construction.
 
 ## Related Strategies
+
 - **Use Worked Examples** — the problem-solving analogue: exemplars for well-structured tasks, rubric-and-exemplar pairs for open-ended ones
 - **Peer Review With Rubrics** — applying the rubric to others' work as calibration practice
 - **Self-Assessment** — the internalization endpoint of rubric use
+- [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
 
 ## Examples
 - **[Explain Everything / model essays in AP courses](https://apcentral.collegeboard.org)** — College Board publishes scored sample essays with grader commentary for every free-response question; students study scored exemplars against the published rubric before writing.

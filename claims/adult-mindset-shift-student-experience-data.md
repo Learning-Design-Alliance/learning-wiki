@@ -45,3 +45,4 @@ Qualitative field scan of 60-minute interviews with 27 CPS staff and external pa
 ## Related Claims
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
 - [Simulation-response convergence was corroborated by survey-based changes in mindsets and practices and by human rater ratings for Roster Justice](convergence-corroborated-by-surveys-and-human-raters.md) — related
+- [Shifting away from traditional IRE recitation toward student participation in discussion improves student learning](ire-shift-toward-discussion-improves-learning.md) — related

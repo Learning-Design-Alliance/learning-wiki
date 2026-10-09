@@ -47,3 +47,4 @@ Cohort analysis following Chicago students from age 13 until exit, tracking the 
 - [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
 - [Rising honors course-taking was due primarily to better-prepared students, with only small adjusted gains](chicago-honors-course-gains-due-to-better-prepared-students.md) — related
 - [Graduation by age 18 was slightly higher in later cohorts despite earlier off-schedule status](graduation-by-18-slightly-higher-later-cohorts.md) — related
+- [Talladega County Schools' graduation rate rose from just above 70 percent in 2008 to 93 percent after its transition to project-based learning supported by digital technologies](talladega-graduation-rate-70-to-93-pbl-digital.md) — related

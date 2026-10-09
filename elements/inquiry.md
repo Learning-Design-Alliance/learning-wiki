@@ -55,11 +55,13 @@ Inquiry supports learning by engaging learners in knowledge construction, which 
 - 
 
 ## Related Elements
+
 - [Coaching](coaching.md) — instructor guidance during investigation is what separates effective scaffolded inquiry from ineffective discovery
 - [Case Studies](case-studies.md) — a structured inquiry format using authentic cases as the object of investigation
 - [Class Discussion](class-discussion.md) — the synthesis mechanism where evidence and competing explanations are negotiated
 - [Argumentation](argumentation.md) — the practice of defending conclusions from evidence, central to inquiry outcomes
 - [Cognitive Conflict](cognitive-conflict.md) — the discrepant-evidence mechanism driving conceptual change
+- [The Data Routine: a four-element structure for student engagement with data in science investigations](data-routine-four-elements.md)
 
 ## Patterns That Use This Element
 - [Case-Based Learning](../patterns/case-based-learning.md) — inquiry into an authentic case with instructor facilitation

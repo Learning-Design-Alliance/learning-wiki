@@ -45,3 +45,4 @@ Descriptive analysis of Gradebook data from SY 2016-17 covering 1,599 ninth-grad
 ## Related Claims
 - [In CPS ninth-grade math sections using mastery-based or weekly grading, those categories determined nearly all of the final grade; otherwise assessments carried the highest weight, with a median of 60 percent exceeding the CPS/CTU 50 percent recommendation](cps-gradebook-category-weights-assessments-dominate.md) — related
 - [Most CPS ninth-grade math teachers used two or three grading category families, averaging 2.43 families per section](cps-gradebook-two-or-three-category-families.md) — related
+- [Students report that tests dominate assessment, carry too much weight, and create stress, while extended performance-based assessments offer better opportunities to learn and showcase learning](students-report-tests-dominate-and-overweight-grades.md) — related

@@ -59,8 +59,11 @@ Algorithmic systems in education systematically encode and amplify racial dispar
 5. **Document, mitigate, and re-audit.** Record findings, implement mitigations (data rebalancing, proxy removal, human review of high-stakes outputs), and schedule recurring re-audits as the product and its context change.
 
 ## Related Strategies
+
 - [Culturally Responsive Teaching](culturally_responsive_teaching.md) — the pedagogical counterpart: equitable design of content and instruction parallels equitable design of tools
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — extends bias auditing from algorithms to content and representation
+- [Implement a systems change approach addressing five factors simultaneously for AI and digital equity](systems-change-five-factors-ai-equity.md)
+- [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
 
 ## Examples
 - **[AI in Education Toolkit for Racial Equity](https://www.racialequityedtech.org)** — the toolkit itself, offering stage-by-stage actions for edtech developers and guidance for districts evaluating products.

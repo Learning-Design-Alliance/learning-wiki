@@ -45,3 +45,4 @@ In discussing CPS's shift to an equity-based staffing and Opportunity Index fund
 ## Related Claims
 - [Systems-level barriers to school AAC use include limited clinical expertise, need–system mismatch, funding difficulty, and unfamiliar communication partners](systems-level-aac-implementation-barriers.md) — related
 - [After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts](tif-pay-for-performance-small-positive-achievement-impacts.md) — related
+- [Support for tax-funded tailored instruction is wide but shallow, with paying for adequate staff seen as the major barrier, cited by 86 percent of teachers](tailored-instruction-barriers-shallow-tax-support.md) — related

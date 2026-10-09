@@ -60,8 +60,10 @@ Reflection works because it forces retrieval and elaboration — both robust con
 5. **Feed forward** — open the next session by revisiting reflections, closing the loop
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the bookend strategy: reflection consolidates what activation prepared
 - [Action-Oriented Feedback](action-oriented-feedback.md) — reflection turns feedback into a plan rather than a verdict
+- [Structure reflection after collaboration for both students and teachers using prompts, exit tickets, journals, rubrics, plus-and-delta, and gallery walks](structured-reflection-after-collaboration.md)
 
 ## Examples
 - **"I used to think… now I think…"** routine (Project Zero, Harvard Graduate School of Education, [visiblethinkingrz](https://pz.harvard.edu/thinking-routines)) — a sentence-starter protocol that makes conceptual change explicit

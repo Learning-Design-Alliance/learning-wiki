@@ -93,6 +93,7 @@ Two evidential caveats matter. Social-emotional learning as a whole is well supp
 - [Acting / Role Play](acting-role-play.md) — rehearsal space for the target interaction before it happens for real
 - [Building Trusting Relationships](building_trusting_relationships.md) — the teacher–learner relationship that makes this kind of feedback receivable
 - [Combine needs-based and pre-taught approaches when introducing social skills to cooperative groups](mixed-approach-teaching-social-skills.md)
+- [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
 
 ## Examples
 

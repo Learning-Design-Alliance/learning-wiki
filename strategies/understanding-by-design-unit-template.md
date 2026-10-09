@@ -62,6 +62,7 @@ Backward design counters the common "activity-oriented" and "coverage-oriented" 
 - [Performance Task Design](performance-task-design.md) — the Stage 2 assessment genre at the template's core
 - [Rubric Design](../elements/rubric-design.md) — the scoring instrument that makes understanding visible
 - [Iteratively update a design research plan with findings and resulting design adjustments](update-design-research-plan-with-findings-and-adjustments.md)
+- [Plan and design backwards from a research-based learning goal to features, metrics, and measurement tools](backwards-design-from-research-based-goal.md)
 
 ## Examples
 - **ASCD UbD Exchange and *Understanding by Design* Professional Development Workbook** — the official template with design standards used in thousands of school systems ([ASCD](https://www.ascd.org))

@@ -64,3 +64,4 @@ From the same student perspective synthesis, the article reports students' prefe
 ## Related Claims
 - [Maritime instructors resisted automated assessment of simulator performance, preferring learning analytics that support their professional judgment and use existing simulator data](instructors-resist-automated-assessment-prefer-judgment-support.md) — related
 - [The heuristic framework deliberately retains automatic performance checks opposed by instructors and students, as context-appropriate measure selection matters](framework-retains-automatic-assessment-heuristic-for-other-contexts.md) — related
+- [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — related

@@ -44,6 +44,7 @@ The study organizes chatbot design around a three-phase conceptualization of sel
 
 - [GBSRI framework: four stages with seven steps integrating SFL genre-based teaching-learning cycles with social-cognitive self-regulated learning phases](gbsri-four-stage-framework.md)
 - [Self-Regulated Learning](self-regulated-learning.md)
+- [Three-phase framework of teacher roles in collaborative learning: before, during, and after](three-phase-teacher-roles-before-during-after-collaboration.md)
 
 ## Examples
 

@@ -80,6 +80,7 @@ Checklists can be customized with different scales (4-point, 7-point), criteria,
 - Progress portfolios — checklists supply the item-level evidence that portfolios aggregate into a growth narrative
 - [Rubrics](rubrics.md) — the more informative next step when quality, not just presence, needs to be assessed
 - [Use the checklists against a draft methods and results section to check completeness of reporting](use-checklists-to-check-reporting-completeness.md)
+- [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the checklist is the instrument; performance assessment is the act it supports

@@ -61,9 +61,11 @@ Academic discourse is a hidden curriculum: its routines are second nature to ins
 6. Provide feedback targeted at the discourse moves, not just content [Feedback most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
+
 - Sentence frames and sentence starters — the partial-script variant of the same function
 - Structured academic discussion — routines that scripts slot into
 - Modeling expert performance — the oral demonstration of a script in use
+- [Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load](templates-and-posted-talk-moves-scaffolds.md)
 
 ## Examples
 - **Zwiers' academic language scripts (USA)** — Jeff Zwiers' work on academic conversation prompts ("I agree with ___ because…", "What's your evidence?") supplies complete scripts for classroom dialogue across content areas.

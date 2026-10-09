@@ -60,10 +60,12 @@ The routine's power comes from its explicit separation of evidence and inference
 5. **Share and connect** — pair-share, then whole-class synthesis ([Class Discussion](../elements/class-discussion.md)), then reveal context or begin the lesson the questions point toward.
 
 ## Related Strategies
+
 - [Zoom In](../strategies/zoom-in.md) — a Project Zero companion routine that reveals an image incrementally, showing how new evidence revises interpretation
 - [Claim, Evidence, Reasoning](../strategies/claim-evidence-reasoning.md) — formalizes the See/Think distinction into a scientific argument structure
 - [I Notice, I Wonder](../strategies/i-notice-i-wonder.md) — a mathematics-oriented variant used to open problem solving
 - [KWL](../strategies/kwl.md) — a related pre-inquiry routine that elicits prior knowledge and questions, but without the evidence/inference separation
+- [Use the Ten Times Two routine to build observational vocabulary before data analysis](ten-times-two-looking-activity.md)
 
 ## Examples
 - **Project Zero / Visible Thinking** ([pz.harvard.edu](https://pz.harvard.edu/thinking-routines)) — the source repository, with the routine documented for arts, museum, and classroom use.

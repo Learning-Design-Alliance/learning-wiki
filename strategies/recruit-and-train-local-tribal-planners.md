@@ -40,6 +40,7 @@ For building local planning capability, the report recommends that "Emphasis sho
 ## Related Strategies
 
 - [Establish continuing one-to-one specialist relationships so expert skills transfer to the tribe](continuing-one-to-one-specialist-skill-transfer.md)
+- [Build local capacity by recruiting and training staff from the schools' rural zones](recruit-train-local-rural-zone-staff.md)
 
 ## Examples
 -

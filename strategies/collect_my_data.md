@@ -59,8 +59,10 @@ Giving learners ownership of the data question and collection process turns an a
 5. **Interpret and share.** Learners state one claim their graph supports ("Most people chose dogs"), compare across groups, and discuss what the data cannot tell them.
 
 ## Related Strategies
+
 - [Case-based learning](../patterns/case-based-learning.md) — shares the structure of reasoning from evidence, but with narrative cases rather than learner-collected data
 - [Check-ins](../principles/check-ins.md) — a lightweight data-collection routine that can feed class data sets learners later graph
+- [Four recommendations for deepening mathematics integration in science investigations](four-recommendations-math-in-science.md)
 
 ## Examples
 - **First-grade classroom survey** — students tally classmates' favorite fruits on a class chart, then build a pictograph with fruit stickers and report the "winner" to the class.

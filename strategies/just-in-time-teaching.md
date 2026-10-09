@@ -59,9 +59,11 @@ JiTT operationalizes formative assessment: pre-class responses give the instruct
 6. Close the loop: explicitly tell learners how their responses shaped the session, sustaining the preparation norm.
 
 ## Related Strategies
+
 - Peer Instruction — a natural in-class companion; warm-up responses seed clicker questions and peer debate
 - Flipped Classroom — shares the pre-class/in-class split, but JiTT's distinguishing feature is instructor adaptation to response content rather than fixed pre-class content delivery
 - Formative feedback loops — JiTT is essentially a scheduled, whole-class formative assessment cycle
+- [Use a real-time preparedness dashboard to let instructors pivot lesson plans when few students have completed pre-class work](preparedness-dashboard-pivot-to-didactic-lecture.md)
 
 ## Examples
 - **IUPUI introductory physics (Novak et al.)** — the original implementation: web-based warm-ups due at 6 a.m., with the 9:30 a.m. lecture rebuilt around student answers; materials published in *Just-in-Time Teaching: Blending Active Learning with Web Technology* (1999).

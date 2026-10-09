@@ -65,6 +65,7 @@ Strengths-based framing raises self-efficacy, which in turn predicts persistence
 - [Acting-Role-Play](acting-role-play.md) — the rehearsal method for practicing new social behaviors in low-stakes conditions
 - [Peer Tutoring](../strategies/peer_tutoring.md) — a formalized version of strength-based peer pairing
 - [Manage group conflict constructively by having members observe one another and treat differences as strength](constructive-conflict-management-clg.md)
+- [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — in-the-moment support during authentic social interaction

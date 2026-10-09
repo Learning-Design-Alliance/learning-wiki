@@ -48,3 +48,4 @@ Narrative background synthesis in the protocol introduction, drawing on cited st
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md) — related
 - [Increases in school funding can improve student outcomes when funds support the specific needs of students](school-funding-improves-outcomes-when-targeted.md) — related
+- [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related

@@ -72,3 +72,4 @@ Well-aligned organizers and advance organizers can support learning — see [Adv
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related
 - [The finding that single-discipline course takers perform as well as peers despite instruction-assessment mismatch runs counter to prevailing alignment assumptions](alignment-assumption-complicated-by-growth-findings.md) — related
+- [The webinar presents glyphs, pictographs, bar graphs, and Google Forms as ways for K-2 students to collect and analyze data.](k2-glyphs-pictographs-graphs-forms-data-collection.md) — related

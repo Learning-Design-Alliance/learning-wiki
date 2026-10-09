@@ -49,3 +49,4 @@ Spending projections reported in the New Urgency section of the report, contrast
 - [Between the 1997 and 1999 STaR assessments, the share of schools effectively using technology rose from 15 to 24 percent, and almost 80 percent of schools had Internet connections](star-year2-technology-use-rise.md) — related
 - [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — related
 - [Chicago's professional development spending was not integrated into a comprehensive strategy for improving instruction](cps-pd-spending-not-integrated.md) — related
+- [Per-learner technology spending is far lower in adult education (about $50) than in K-12 (about $145), signaling stagnant innovation in the adult market](adult-ed-tech-spending-50-versus-145-k12.md) — related

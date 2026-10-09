@@ -45,6 +45,7 @@ The page describes an implementation model in which the vendor partners with the
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Assign points of contact and use vendor-supported professional development when implementing i-Ready Personalized Instruction](iready-implementation-points-of-contact-pd.md)
 - [Monitor tutoring implementation and attendance regularly during program rollout](monitor-tutoring-implementation-and-attendance-regularly.md)
+- [Plan mutual accountability for implementation, including rollout plans, educator supports, and early indicators for pivoting](obc-mutual-accountability-implementation.md)
 
 ## Examples
 -

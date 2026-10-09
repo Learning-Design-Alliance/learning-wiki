@@ -40,6 +40,11 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](../claims/integrity-equity-concerns-span-all-units.md) [~M]
 
+## Related Strategies
+
+- [Seven research priorities for AI in learning, spanning expanded scenarios, teacher assistance, assessment, responsible AI, equity policy, stakeholder engagement, and ecosystem strengthening](seven-ai-learning-research-recommendations.md)
+- [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
+
 ## Related Principles
 - 
 

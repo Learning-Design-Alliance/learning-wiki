@@ -44,3 +44,4 @@ The Consortium's study of the 2021 Skyline launch with Chicago Public Schools fo
 
 ## Related Claims
 - [Teachers whose leaders prioritized at least one organizational capacity lever reported greater confidence and satisfaction with Skyline materials](leader-investment-lever-teacher-confidence-satisfaction-skyline.md) — related
+- [Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher.](openscied-teacher-leader-priority-differences.md) — related

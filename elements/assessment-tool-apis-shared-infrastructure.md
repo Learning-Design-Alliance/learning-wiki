@@ -44,6 +44,7 @@ The report identifies two classes of software needed for computer-based automate
 
 - [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](cresst-integrated-assessment-system.md)
 - [Eight proposed CRESST assessment tools with specifications and scalability outlooks](cresst-proposed-assessment-tools.md)
+- [Learning management systems (LMSs) as infrastructure for competency-based, personalized learning](lms-competency-based-learning-infrastructure.md)
 
 ## Examples
 

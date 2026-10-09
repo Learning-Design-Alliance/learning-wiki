@@ -59,9 +59,11 @@ Strengths-based goal framing aligns with self-determination research: when learn
 6. **Increase learner voice over time** — from contributing present-levels input, to attending the meeting, to leading it.
 
 ## Related Strategies
+
 - Student-Led IEPs — the fullest expression of learner participation; the student presents and often chairs their own meeting
 - Self-Determined Learning Model of Instruction (SDLMI) — a structured teaching model in which students set, act on, and evaluate their own learning goals; the instructional engine behind strengths-based goal-setting
 - Asset-Based Framing — the broader classroom-level mindset of which strengths-based IEPs are the special-education case
+- [Interview the student one-on-one about strengths, interests, and growth areas before writing the IEP](student-interview-strengths-interests-growth-areas.md)
 
 ## Related Elements
 - [Accommodations](../elements/accommodations.md) — strengths and preferences should drive which accommodations are selected, not just the deficit profile

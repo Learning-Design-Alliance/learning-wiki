@@ -26,7 +26,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (10 for, 1 mixed) · 3 studies (1 causal, 1 design, 1 theoretical), `q1`–`q2` · 1 of 3 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (12 for, 1 mixed) · 4 studies (1 causal, 1 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 1 of 4 report an effect size · 13 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -69,6 +69,8 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](../claims/qualitative-themes-visualization-versus-operability.md) [+W]
 - [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](../claims/vr-training-higher-safety-awareness-ratings.md) [+W]
 - [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](../claims/vr-training-higher-satisfaction-self-evaluation.md) [+W]
+- [Teachers who positioned AI as a partner remained instructional leaders, weaving the tool into rich instruction and using score data to decide what to re-teach](../claims/partner-positioning-instructional-leadership.md) [+M] — attached 2026-10-09 from Hillary Greene Nolan et al. (2024), which proposed "Keep the teacher at the instructional helm when AI tools enter writing instruction"; tests this page's relationship.
+- [The focus of teacher-student interactions differed by AI positioning: learning for partners, score-increasing for assistants, completion for substitutes](../claims/interaction-focus-varies-by-ai-positioning.md) [+M] — attached 2026-10-09 from Hillary Greene Nolan et al. (2024), which proposed "Keep the teacher at the instructional helm when AI tools enter writing instruction"; tests this page's relationship.
 
 ## Related Principles
 

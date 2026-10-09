@@ -57,6 +57,7 @@ Phonological Awareness Training is a general practice aimed at enhancing young c
 - [Phonemic Awareness Blending And Segmenting](../strategies/phonemic-awareness-blending-and-segmenting.md)
 - [Phonemic Awareness Drills](../strategies/phonemic-awareness-drills.md)
 - [Phonemic Awareness Instruction](../strategies/phonemic-awareness-instruction.md)
+- [Assess all students and form small groups with similar abilities so phonological awareness instruction can be provided at the appropriate level](../strategies/assess-and-group-for-phonological-awareness.md)
 
 ## Key Sources
 - What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Phonological Awareness Training. https://ies.ed.gov/ncee/wwc

@@ -72,3 +72,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Resource constraints can sharpen scientific thinking, and evaluating achievement without accounting for available resources risks undervaluing under-resourced researchers](resource-constraints-sharpen-thinking-evaluation-risk.md) — related
 - [Students report games make the classroom atmosphere fun and increase participation](games-fun-atmosphere-participation.md) — related
 - [Students perceived clickers' greatest course impact as lesson variation and fun, with learning influence a distant second](clickers-fun-variation-over-learning.md) — related
+- [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
+- [Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking](technology-group-work-engagement-student-thinking.md) — related

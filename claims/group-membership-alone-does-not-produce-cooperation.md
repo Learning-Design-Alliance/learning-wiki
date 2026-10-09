@@ -44,3 +44,4 @@ This is the handbook's preface argument, a conceptual distinction drawn from dic
 
 ## Related Claims
 - [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](adult-literacy-programs-violate-adult-learning-principles.md) — related
+- [Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners](cohort-support-improves-adult-persistence.md) — related

@@ -59,11 +59,13 @@ Strengths-based differentiation works because it pairs compensatory access with 
 6. **Review and revise.** Reassess profiles periodically; strengths and challenges shift with content and development.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) — a strength is often existing knowledge; surfacing it is the first move in leveraging it
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — sequencing work so learners repeatedly experience competence through their strengths
 - [Action-Oriented Feedback](../strategies/action-oriented_feedback.md) — the feedback style that keeps strengths-based framing tied to process, not person
 - [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md) — a concrete example of matching supports to a specific learning difference
 - [Activities for Student Self-Reflection](../strategies/activities_for_student_self-reflection.md) — the self-awareness routines that make the strategy learner-owned
+- [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the one-to-one vehicle for profiling and strategy alignment

@@ -67,6 +67,7 @@ Collaborative reflection works because it combines external perspective with soc
 - [Professional Learning Communities](../strategies/professional-learning-communities.md) — the ongoing team structure within which peer reflection typically lives
 - [Instructional Coaching](../strategies/instructional-coaching.md) — replaces the reciprocal peer with an expert partner
 - [New teachers should diagnose problem areas with reflection, mentoring, self-assessment, observation of experts, and video review](new-teacher-management-problem-identification-strategy.md)
+- [RPIP focus-group professional learning cycle: consultancy, four-week try-out with commitment and hypothesis, then artifact debrief](rpip-consultancy-tryout-debrief-cycle.md)
 
 ## Examples
 - **Lesson study in Japan and the U.S.** — Teams of teachers jointly plan a "research lesson," observe it live while collecting data on student thinking, then revise and reteach it in another class. Documented in the U.S. via the Mills College Lesson Study Group ([lessonresearch.net](https://www.lessonresearch.net)).

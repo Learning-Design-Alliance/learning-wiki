@@ -57,8 +57,10 @@ Manipulatives work by grounding abstract symbols in perceptual, enactive experie
 5. Fade toward drawings and then symbols ([Fading](../elements/fading.md)), keeping the manipulative available but no longer required.
 
 ## Related Strategies
+
 - [Concrete-Representational-Abstract sequence](../strategies/concrete-representational-abstract.md) — the instructional sequence that formalizes the fading of manipulatives
 - [Use Worked Examples](../strategies/use_worked_examples.md) — demonstrations can be enacted on manipulatives before learners act independently
+- [Unplugged coding with printable motion and trigger blocks as a physical introduction to online coding](unplugged-printable-blocks-k2-introduction.md)
 
 ## Examples
 - **Cognitively Guided Instruction** ([CGI for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md)) — children model word problems with counters and drawings; teachers use the children's own strategies, not a prescribed procedure, to connect actions to notation.

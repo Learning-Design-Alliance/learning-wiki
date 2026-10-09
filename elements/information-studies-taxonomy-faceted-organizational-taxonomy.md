@@ -45,7 +45,8 @@ The Information Studies Taxonomy was developed to organize resources in a digita
 - [Users infer a variety of relationships between task concepts and taxonomy categories and prefer common or generic associations over formal disciplinary relations](../claims/users-infer-varied-relationships-prefer-generic-associations.md) [+W]
 
 ## Related Elements
-- 
+
+- [Curated list of data repositories for classroom data collection](data-repository-list-element.md)
 
 ## Examples
 

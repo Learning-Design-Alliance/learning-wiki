@@ -59,9 +59,11 @@ Self assessment works when learners have clear criteria and act on their judgmen
 5. Compare self-scores with instructor or peer scores; discuss large discrepancies to build calibration.
 
 ## Related Strategies
+
 - [Peer Assessment](../elements/peer-assessment.md) — applying the same rubric to others' work; peer and self assessment reinforce each other and peer scoring often calibrates self-scoring
 - [Formative Feedback Loops](formative-feedback-loops.md) — self assessment is the learner-driven half of a feedback cycle
 - [Portfolio Assessment](portfolio-assessment.md) — rubric-based self evaluation gives portfolios their reflective component
+- [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
 
 ## Examples
 - **Writing workshops using a 6+1 Trait rubric** — students score their own drafts on organization and voice before teacher conferencing, then revise the weakest trait.

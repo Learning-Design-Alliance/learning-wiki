@@ -46,3 +46,4 @@ Analysis of interaction logs from 15 of 34 enrolled students who voluntarily use
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — related
 - [Students primarily used the Socratic-tutor chatbot as a study aid aligned with existing study habits rather than for the intended Socratic reflection](chatbot-used-as-study-aid-not-socratic-reflection.md) — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
+- [K-2 students showed sustained high engagement with Puzzlets, choosing it as their first station choice 27 out of 36 times](puzzlets-high-engagement-station-choice.md) — related

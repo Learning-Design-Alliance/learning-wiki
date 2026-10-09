@@ -40,9 +40,11 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](../claims/loa-pilot-self-reported-increase-all-20-technologies.md) [+W]
 
 ## Related Elements
+
 - [Digital Learning](digital-learning.md)
 - [Multimedia Learning](multimedia-learning.md)
 - [Communication Channels](communication-channels.md)
+- [Learning management systems (LMSs) as infrastructure for competency-based, personalized learning](lms-competency-based-learning-infrastructure.md)
 
 ## Key Sources
 - Means, B., Toyama, Y., Murphy, R., Bakia, M., & Jones, K. (2010). *Evaluation of evidence-based practices in online learning*. U.S. Department of Education.

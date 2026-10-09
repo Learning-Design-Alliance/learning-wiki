@@ -58,9 +58,11 @@ Sentence frames reduce the linguistic and cognitive burden of response productio
 5. Assess both the content of responses and the quality of interaction (clarity, respectfulness), using observation and participant feedback.
 
 ## Related Strategies
+
 - **Think-Pair-Share** — a discussion structure in which sentence frames are commonly embedded to structure the pair exchange
 - **Accountable Talk** — a discourse routine whose norms sentence frames operationalize
 - **Sentence Stems and Word Banks** — lighter-weight variants that provide vocabulary rather than full syntax
+- [Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load](templates-and-posted-talk-moves-scaffolds.md)
 
 ## Examples
 - **Science argumentation**: "The evidence shows ______, which supports my claim that ______" used in claim–evidence–reasoning (CER) writing frames common in NGSS-aligned curricula.

@@ -57,12 +57,14 @@ Argumentation improves conceptual understanding and scientific reasoning because
 - 
 
 ## Related Elements
+
 - [Argument Construction](argument-construction.md) — the compositional skill this element depends on; learners must build arguments before defending them
 - [Class Discussion](class-discussion.md) — the common discourse venue; argumentation gives discussion a rigorous structure
 - [Cognitive Conflict](cognitive-conflict.md) — the productive disagreement that motivates justification and evidence-seeking
 - [Collaborative Decision-Making](collaborative-decision-making.md) — justification is how groups warrant the decisions they reach
 - [Articulation](articulation.md) — the verbalization skill that makes reasoning inspectable and critiquable
 - Structured Academic Controversy — a cooperative-learning format that operationalizes argumentation by assigning positions and requiring perspective-switching
+- [Claim-Evidence-Reasoning (CER) framework and The Argumentation Toolkit](cer-framework-argumentation-toolkit.md)
 
 ## Patterns That Use This Element
 - [Debate](../patterns/debate.md) — the canonical argumentation pattern; assigned positions force evidence-gathering on both sides

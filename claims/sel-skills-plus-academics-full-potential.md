@@ -51,3 +51,4 @@ The consensus statement enumerates social, emotional, and academic capacities to
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related
 - [In schools where students experience peer support for academic work, student learning is more likely](peer-support-academic-work-learning-more-likely.md) — related
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — related
+- [Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners](cohort-support-improves-adult-persistence.md) — a narrower finding that bears on this claim

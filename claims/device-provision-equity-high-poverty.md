@@ -46,3 +46,4 @@ Descriptive survey analysis of pre-closure device distribution among New York ch
 - [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — related
 - [Just under half of New York charter schools (45.8%) reported no challenges supporting ELL/MLL students remotely; high-poverty schools were more likely to report challenges](ell-mll-remote-support-challenges.md) — related
 - [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — related
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related

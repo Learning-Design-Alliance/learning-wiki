@@ -49,6 +49,7 @@ Relational trust is the concept Bryk and Schneider develop to name "how effectiv
 ## Related Theories
 
 - [Relational trust as an organizational property grounded in discernment of intentions within mutual obligations](relational-trust-theory-schooling.md)
+- [Tseng's (2012) qualities of successful researcher-school partnerships: trust, shared commitments, and open dialogue to improve research and its use](tseng-qualities-successful-researcher-school-partnerships.md)
 
 ## Examples
 

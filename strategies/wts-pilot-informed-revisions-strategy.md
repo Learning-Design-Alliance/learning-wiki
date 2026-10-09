@@ -37,7 +37,8 @@ The report describes concrete revisions made for the 2024/25 efficacy study base
 - Effective implementation of evidence-based writing instruction practices
 
 ## Related Strategies
-- 
+
+- [Maintain professional development and educator collaboration throughout an edtech pilot](sustain-pd-and-collaboration-throughout-edtech-pilot.md)
 
 ## Examples
 -

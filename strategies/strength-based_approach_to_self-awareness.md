@@ -58,10 +58,12 @@ Strength-based self-awareness work aligns with [Self-Regulated Learning](../theo
 6. Fade prompts as the student independently initiates reflection and accurate prediction.
 
 ## Related Strategies
+
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the journaling routines this strategy deploys
 - [Achievable Micro-Goals](achievable_micro-goals.md) — converts self-awareness insights into actionable next steps
 - [Action Planning](action_planning.md) — structures goals that emerge from reflection
 - [Active Listening](active_listening.md) — the teacher stance required for accurate strength identification
+- [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
 
 ## Examples
 - **RULER Approach (Yale Center for Emotional Intelligence)** — the "Recognize" and "Understand" pillars operationalize emotion labeling and reflection; the Mood Meter gives students a concrete tool for identifying feelings (https://ei.yale.edu/ruler).

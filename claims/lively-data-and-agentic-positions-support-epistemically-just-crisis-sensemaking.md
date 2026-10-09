@@ -54,3 +54,4 @@ This is a qualitative, single-study, small-sample case analysis (4 focal cases, 
 - [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related
 - [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md) — related
 - [Relational trust shapes whether SWOT functions as organisational learning or superficial compliance](trust-determines-swot-diagnostic-quality.md) — related
+- [Personas developed without care and empathy can create stereotypes](personas-risk-stereotypes-without-empathy.md) — related

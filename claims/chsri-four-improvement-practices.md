@@ -53,3 +53,4 @@ Cross-case qualitative analysis of three high-performing CHSRI schools based on 
 - [Weak instructional program coherence impairs sustained school improvement even when staff share a test-score goal](weak-coherence-impairs-improvement-wilson.md) — related
 - [Schools commonly require documented teacher performance goals, created collaboratively with a principal or set by the principal](documented-teacher-goals-collaborative-or-principal-set.md) — related
 - [Goal setting is widely believed to improve individual performance, and this belief is being tested in schools](goal-setting-belief-tested-in-schools.md) — related
+- [The OBC model benefits from clearly defined roles and shared responsibilities across district, school, and provider teams.](obc-clear-roles-shared-responsibility.md) — a narrower finding that bears on this claim

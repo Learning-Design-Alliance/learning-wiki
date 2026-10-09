@@ -65,6 +65,7 @@ Cultural awareness is a precondition for culturally responsive pedagogy: instruc
 - [Building Empathy](../principles/building-empathy.md) — the learner-facing counterpart: developing students' awareness of each other
 - [Community-Based Learning](../principles/community-based-learning.md) — situates learning in learners' own cultural contexts, requiring educator awareness to design well
 - [Teachers enrich their own cultural awareness first, then explore native and foreign cultures through authentic settings](teacher-cultural-awareness-first-strategy.md)
+- [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 
 ## Examples
 - **Funds of Knowledge project (Moll et al., University of Arizona)** — teachers conduct household visits in Mexican-American communities and redesign instruction around the knowledge found there (e.g., using a family's construction expertise to anchor measurement units).

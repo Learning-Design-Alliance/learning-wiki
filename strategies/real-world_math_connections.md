@@ -66,6 +66,7 @@ Contextual anchoring supports transfer and meaning-making, but only when the con
 - [Case-Based Learning](../patterns/case-based-learning.md) — using extended real cases as the vehicle for reasoning, applicable to quantitative cases
 - [Cognitively Guided Instruction (CGI for Math)](../patterns/cognitively-guided-instruction-cgi-for-math.md) — builds on students' informal contextual reasoning about number problems
 - [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](problem-situation-sequences-progressive-comprehension.md)
+- [Four recommendations for deepening mathematics integration in science investigations](four-recommendations-math-in-science.md)
 
 ## Examples
 - **Realistic Mathematics Education (Freudenthal Institute, Netherlands)** — a full curriculum approach in which formal mathematics is progressively reinvented from contextual problems (e.g., the "double number line" emerging from measurement contexts). [https://www.fi.uu.nl/en/rme/](https://www.fi.uu.nl/en/rme/)

@@ -12,7 +12,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (26 for, 15 mixed) · 33 studies (13 associational, 7 design, 5 review, 4 causal, 3 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 33 report an effect size · 40 claims rest on one study
+> **Evidence** · 42 claims (27 for, 15 mixed) · 34 studies (13 associational, 7 design, 5 review, 4 causal, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 34 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](../claims/proctor-notification-improves-performance-and-validity.md) [+W] — attached 2026-10-09 from Steven Wise et al. (2018), which proposed "Monitor test-taking effort in real time and alert proctors to disengagement to protect score validity on low-stakes tests"; tests this page's relationship.
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](../claims/rapid-guessing-signals-disengaged-test-taking.md) [+W] — attached 2026-10-09 from Steven Wise et al. (2018), which proposed "Monitor test-taking effort in real time and alert proctors to disengagement to protect score validity on low-stakes tests"; tests this page's relationship.
 - [Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity](../claims/cbt-unique-advantages-control-construct-irrelevant-factors.md) [+W] — attached 2026-10-09 from Steven Wise (2018), which proposed "Weigh benefits against costs, disadvantages, and challenges when deciding whether to move from paper-and-pencil to computer-based tests"; tests this page's relationship.
+- [Rapid guessing tends to negatively distort scores and diminish validity](../claims/rapid-guessing-negatively-distorts-scores.md) [+W] — attached 2026-10-09 from Steven Wise (2017), which proposed "Exclude rapid guesses from scoring because they do not contribute to measurement"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -45,3 +45,4 @@ The report states as motivating context that "Nearly 43 million U.S. adults lack
 ## Related Claims
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](older-beginners-excluded-from-standard-adl-esl.md) — related
 - [Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele](philippine-literacy-rates-bnfe-inadequate-coverage.md) — related
+- [US adult education serves only a fraction of an estimated 36 million low-skilled adults, and digital materials receive only about a quarter of the adult instructional-materials budget](adult-ed-market-underserved-and-underdigitized.md) — related

@@ -44,6 +44,7 @@ DBIR is an emerging research-and-development approach the article positions as t
 ## Related Theories
 
 - [Co-constructionism requires an active individual, an active environment, and culture](co-constructionism-active-individual-environment-culture.md)
+- [Participatory design as a discrete approach to engaging practitioners in research design](participatory-design-practitioner-engagement.md)
 
 ## Examples
 

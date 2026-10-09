@@ -47,3 +47,4 @@ The effort-cluster decline (0.675 to 0.549, the only ANOVA-significant shift in 
 - [CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes](clasp-mpex-epistemologies-unchanged.md) — related
 - [MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added](mpex-consistent-pedagogy-across-tech-years.md) — related
 - [A substantial fraction of students reported increased interest in physics and ability to connect physics to their life science majors and careers](life-science-examples-increase-interest-and-relevance.md)
+- [Student attitudes toward learning English and school declined slightly over both pilots, with the decline in believing school is a good place to learn statistically significant in both districts](student-attitudes-declined-over-pilots.md) — related

@@ -44,3 +44,4 @@ Conceptual analysis of Wikipedia's workings, citing prior studies (e.g. Greenste
 
 ## Related Claims
 - [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — a broader claim this one bears on
+- [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related

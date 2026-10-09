@@ -64,6 +64,7 @@ Belonging is a measurable lever on achievement: brief interventions that normali
 - **Belonging Interventions** — the social-psychological complement: brief activities that reframe belonging uncertainty
 - **Interest-Based Project Design** — extends common ground from group formation to task selection
 - [Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support](foster-community-counsellor-education-practices.md)
+- [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the lightweight opening move that surfaces shared experience

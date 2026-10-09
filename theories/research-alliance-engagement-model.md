@@ -40,7 +40,8 @@ The article describes the research alliance model as a way of engaging with prac
 - [Rel Midwest Plc Collaborative Research Lessons](../claims/rel-midwest-plc-collaborative-research-lessons.md) [+M]
 
 ## Related Theories
-- 
+
+- [Participatory design as a discrete approach to engaging practitioners in research design](participatory-design-practitioner-engagement.md)
 
 ## Examples
 

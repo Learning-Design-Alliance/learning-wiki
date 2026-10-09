@@ -64,3 +64,4 @@ In the same focus groups, students suggested topics such as mental health and pe
 ## Related Claims
 - [The LAD was mostly perceived to support student appraisal of study behaviour by providing new insights or awareness](thermos-lad-supported-appraisal-phase.md) — related
 - [The LAD did not support the preparatory phase because most participants did not use the actionable feedback despite perceiving it as potentially useful](thermos-lad-preparatory-phase-not-supported.md) — related
+- [Both educator groups rank research to inform best practices in teaching and learning as the most important research goal](best-practices-research-top-goal-educators.md) — related

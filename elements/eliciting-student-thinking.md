@@ -57,11 +57,13 @@ Eliciting thinking converts passive reception into generative processing; verbal
 - 
 
 ## Related Elements
+
 - [Self-Explanation](self-explanation.md) — the individual, prompted form of eliciting one's own thinking
 - [Peer Discussion](peer-discussion.md) — socializes elicitation; students articulate and critique reasoning with each other
 - [Metacognition](metacognition.md) — the self-monitoring capacity that elicitation develops and depends on
 - [Questioning](../strategies/questioning.md) — the primary prompt mechanism for elicitation
 - [Check-ins](../principles/check-ins.md) — lightweight, frequent elicitation of student state and understanding
+- [Nine talk moves addressing four goals for productive discussion](nine-talk-moves-four-goals.md)
 
 ## Patterns That Use This Element
 - [Cognitively Guided Instruction (CGI) for Math](../patterns/cognitively-guided-instruction-cgi-for-math.md) — teachers elicit children's informal solution strategies and build instruction on them

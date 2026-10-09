@@ -61,8 +61,10 @@ Strength-based framing builds on positive psychology and social-emotional learni
 6. **Model continuously.** Teacher narration of their own perspective-taking ("I think Maya saw it differently because…") makes the skill visible throughout the day.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the teacher-side skill that makes strength identification and discussion authentic
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy operationalizes through a strength lens
+- [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
 
 ## Examples
 - **Second Step (Committee for Children)** — universal SEL curriculum using scenario discussions and role-plays; teachers frame scenarios around characters' strengths before examining their missteps. [https://www.secondstep.org](https://www.secondstep.org)

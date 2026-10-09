@@ -51,3 +51,4 @@ Randomized controlled trial of Way2Work Maryland with 401 enrolled high school s
 - [Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment](way2work-no-employment-expectation-effects.md) — related
 - [Participants reported satisfaction with selected Way2Work Maryland service components](way2work-participant-satisfaction-service-components.md) — related
 - [Service use differed across local school systems in Way2Work Maryland](way2work-service-use-differences-across-school-systems.md) — related
+- [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related

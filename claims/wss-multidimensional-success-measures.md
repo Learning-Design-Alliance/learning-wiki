@@ -46,3 +46,4 @@ Findings statement from the Question 3 section of the field scan. A CBO leader c
 - [CBO leaders cautioned that assessing WSS outcomes without accounting for district inputs obscures how resource allocation determines policy success](wss-outcomes-need-input-transparency.md) — related
 - [CPS officials and CBO leaders intended the WSS Framework to ground safety plans in community perspectives, facilitate power-sharing, and redefine school safety](wss-goals-community-perspectives-power-sharing.md) — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
+- [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related

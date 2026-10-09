@@ -47,3 +47,4 @@ Interview study across 7 CPS schools found "Teachers repeatedly lamented that th
 - [Schools with stronger Instructional Improvement Support Systems supported teacher improvement regardless of whether efforts originated from evaluation data or elsewhere](stronger-iiss-supports-improvement-regardless-of-origin.md) — related
 - [A standing committee structure sustains middle school change despite personnel turnover](committee-structure-sustains-change-despite-turnover.md) — related
 - [CPS currently lacks internal capacity to conduct substantial research, evaluation, or systematic use of data to improve teaching and learning](cps-lacks-capacity-to-use-data-for-improvement.md) — related
+- [Low-income US schools focus most on testing and have the fewest resources for interest-driven activities](low-income-schools-test-prep-crowds-out-interest-activities.md) — related

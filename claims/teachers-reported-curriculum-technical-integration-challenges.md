@@ -52,3 +52,5 @@ Implementation finding from the two-study synthesis: teachers "reported curricul
 - [Teachers find Ecree's feedback less useful when it does not align with their typical content sequence and grading standards](ecree-feedback-less-useful-when-misaligned.md) — related
 - [Technical integration with learning management systems and existing teacher tools eases Ecree adoption](lms-integration-eases-ecree-adoption.md) — reports the opposite
 - [Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write](teacher-planning-time-needed-for-mi-write-use.md) — related
+- [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
+- [Mathspace classroom use was limited, with 90% of teachers using it two hours or less weekly and two-thirds reporting technical challenges](mathspace-limited-classroom-use-technical-challenges.md) — related

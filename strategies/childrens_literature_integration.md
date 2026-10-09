@@ -61,9 +61,11 @@ Literature integration works because narrative provides a meaningful context tha
 6. Extend home connection through a lending library or digital collection with suggested family activities.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — stories activate familiar situations before formal math begins
 - [Anchored Instruction](../patterns/anchored-instruction.md) — the story functions as a narrative anchor for problem solving, the same mechanism as the Jasper Woodbury adventures
 - [Read-Alouds with Accountable Talk](../elements/class-discussion.md) — discussion structures carry the mathematical load of the read-aloud
+- [Use a culture-themed children's book to generate data for K-2 glyph and graph activities.](culture-themed-picture-book-data-generation.md)
 
 ## Examples
 - **[The Mathical Book Prize](https://mathicalbooks.org)** (Mathematical Sciences Research Institute & Children's Book Council) — an annually curated list of math-rich children's literature vetted by mathematicians and educators, usable as a selection starting point.

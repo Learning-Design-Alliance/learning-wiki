@@ -36,6 +36,10 @@ Many real problems are not purely one or the other. A nine-dot puzzle ("connect 
 ### Strategies for Solving Ill-Structured Problems
 Beyond recognizing structure, several general strategies help regardless of a problem's specific content (Thagard, 2005): **problem analysis** — identifying a problem's component parts and working on each separately, especially useful for ill-structured problems (e.g., "devise a plan to improve bicycle transportation in the city" decomposes into installing bike lanes, educating cyclists and motorists, fixing potholes, and revising relevant traffic laws); [working backward](../strategies/direct_instruction-problem-solving_strategies.md) — starting from the target solution and reasoning back to the given problem, useful when a well-structured problem contains distracting or misleading elements; and [analogical thinking](../principles/analogical-reasoning.md) — using a structurally similar prior problem or experience to guide a new one (e.g., applying lessons from improving conditions for cars to the bicycle-transportation problem, since both involve roadway and driver-education measures).
 
+## Related Theories
+
+- [Algorithms defined as precise step-by-step plans with four characteristics: finite, inputs and outputs, effective, definite](algorithm-definition-four-characteristics-k2.md)
+
 ## Related Principles
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — one of the general strategies useful across both well- and ill-structured problems
 - [Problem-based Learning](../principles/problem-based-learning.md) — deliberately poses ill-structured problems as a design choice

@@ -46,3 +46,4 @@ Learning-gains tables print negative TPS standard deviation units, e.g. "Student
 - [Students in poverty in Houston charter schools outperformed district-school students in poverty in both subjects](houston-poverty-charter-beats-district-both-subjects.md) — related
 - [Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS](ri-charter-gains-poverty-sped-ell.md) — related
 - [Historically underserved student groups show substantially lower shares meeting the 12th-grade reading benchmark, with gaps up to 30 percentage points](underserved-groups-lower-benchmark-shares-pol.md) — related
+- [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
