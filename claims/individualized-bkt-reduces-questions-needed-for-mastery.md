@@ -46,3 +46,4 @@ Narrative review attributing this to Lee and Brunskill, who "suggest" individual
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
 - [The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of students' answers when a day or more has elapsed since their previous responses.](bkt-overestimates-accuracy-after-a-day-elapses.md) — related
 - [The survey reports, citing Desmarais and Baker, that students using the BKT-sequence recommendation algorithm solved more difficult exercises, obtained higher performance and spent more time in the system than students using the traditional approach.](bkt-sequence-recommendation-students-solved-harder-exercises.md) — related
+- [An intelligent reading tutor used 20 minutes a day offered time efficiencies over conventional human tutoring of 30 or more minutes a day](intelligent-reading-tutor-time-efficiency-over-human-tutoring.md) — related

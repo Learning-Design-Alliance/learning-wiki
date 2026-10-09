@@ -39,6 +39,7 @@ The report adapts the seven-domain "comprehensive, aligned" principal pipelineâ€
 ## Related Strategies
 
 - [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](tdf-state-policy-actions-career-continuum.md)
+- [Institute strategies that turn the assistant principal experience into a structured program for developing school-leadership skills](structured-ap-experience-development-program.md)
 
 ## Examples
 -

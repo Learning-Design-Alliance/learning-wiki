@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/coach-teacher-technology-use-perception-gap.md
+---
+
+# Revision history: [claims/coach-teacher-technology-use-perception-gap](../claims/coach-teacher-technology-use-perception-gap.md)
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-794 (Prevalence of Coaching and Approaches to Supporting Coaching in Education) via eval_harness.py + ingest_extractions.py

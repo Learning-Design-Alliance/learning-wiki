@@ -45,3 +45,4 @@ IPW analysis of National Student Clearinghouse records for two CPS cohorts, unco
 ## Related Claims
 - [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related
 - [Attending a top-tier nonselective high school raises ACT scores, with the largest gains for students whose counterfactual is a bottom-tier school](top-tier-nonselective-schools-raise-act-scores.md) — related
+- [Bottom Line increases enrollment in a four-year college among low-income high school students](bottom-line-increases-four-year-college-enrollment.md) — related

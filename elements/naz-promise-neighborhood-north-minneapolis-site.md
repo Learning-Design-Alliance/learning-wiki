@@ -50,6 +50,7 @@ The Northside Achievement Zone is a Promise Neighborhood site serving "a contigu
 - [Buffalo Promise Neighborhood program element](buffalo-promise-neighborhood-program.md)
 - [Chula Vista Promise Neighborhood (CVPromise): a place-based community program serving the Castle Park neighborhood](cvpromise-chula-vista-promise-neighborhood-program.md)
 - [Los Angeles Promise Neighborhood: a two-community Promise Neighborhoods implementation spanning Pacoima and Hollywood](la-promise-neighborhood-two-community-site.md)
+- [Promise Neighborhoods federal grant program](promise-neighborhoods-federal-grant-program-element.md)
 
 ## Examples
 -

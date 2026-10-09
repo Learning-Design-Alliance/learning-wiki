@@ -41,6 +41,7 @@ The paper enumerates six principles: "Problem-focused and user-centered", "Addre
 ## Related Theories
 
 - [Improvement Science is a systematic approach to identifying and solving educational problems through iterative testing, data collection, reflection and refinement](improvement-science-systematic-iterative-approach.md)
+- [Network-based continuous improvement in education](network-based-continuous-improvement-education.md)
 
 ## Examples
 

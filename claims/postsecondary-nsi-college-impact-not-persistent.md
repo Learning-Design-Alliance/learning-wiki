@@ -46,3 +46,6 @@ Comparison of the postsecondary enrollment NSI's college enrollment impacts acro
 - [The impact of the 9th-grade on-track NSI appeared to increase over time](9th-grade-on-track-nsi-impact-increased-over-time.md) — related
 - [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](postsecondary-enrollment-nsi-fafsa-not-college-year-two.md) — related
 - [Well-matched postsecondary enrollment NSI raised FAFSA completion but did not significantly affect postsecondary enrollment after year two](postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) — related
+- [Text-message college transition messaging did not increase college persistence among GEAR UP students](gear-up-text-messaging-no-persistence-impact.md) — related
+- [The study also examines persistence in college over the first two postsecondary years](kipp-study-examines-college-persistence-two-years.md) — related
+- [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](postsecondary-enrollment-nsi-fafsa-gains-no-enrollment-change.md) — related

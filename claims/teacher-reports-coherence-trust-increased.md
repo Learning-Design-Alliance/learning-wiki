@@ -54,3 +54,4 @@ The article describes Figure 1, UChicago Consortium trend data on two indicators
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
 - [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related
 - [Survey snapshots and trend graphs track school development measure responses from 1994 to 2003](survey-response-trends-1994-2003-report-format.md) — related
+- [KIPP's rapid growth over two decades created an enormous need for strong principals to lead its schools](kipp-growth-created-principal-need.md) — related

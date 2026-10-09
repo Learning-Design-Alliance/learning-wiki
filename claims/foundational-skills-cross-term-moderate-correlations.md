@@ -47,3 +47,4 @@ Correlational analysis (Table 3.2) using listwise deletion, computed only on stu
 - [Between-term score correlations are moderate and lowest for Phonological Awareness](spanish-foundational-skills-between-term-correlations.md) — related
 - [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](true-score-correlations-above-090.md) — reports the opposite
 - [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related
+- [CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495](ccm-external-validation-correlations-pre-post-tests.md) — related

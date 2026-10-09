@@ -62,6 +62,7 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Run eight one-hour professional learning community sessions spread across the school year](eight-one-hour-plc-sessions-writing-instruction.md)
 - [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
 - [Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines](summer-institute-plc-coaching-data-routines.md)
+- [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
 
 ## Examples
 -

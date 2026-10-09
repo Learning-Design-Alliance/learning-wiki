@@ -45,3 +45,4 @@ The summary's implementation section states staffing and technology needs descri
 ## Related Claims
 - [Grades 6–8 students using Twig Science showed significantly greater gains on the Imagine Galileo science benchmark than matched non-using peers (effect size +0.15)](twig-science-greater-galileo-gains-middle-school.md) — related
 - [Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning](mobile-independent-work-initiative-actors.md) — related
+- [SIM requires no specialized technology beyond computers or tablets that most schools already provide](sim-no-specialized-technology-requirements.md) — related

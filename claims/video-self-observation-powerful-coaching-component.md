@@ -47,3 +47,4 @@ Observation stage section of the qualitative study: in the web-mediated CSI coac
 - [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Judgments of learning are often inaccurate](fluent-illusions-mislead-self-assessment.md) — related
+- [Video-based analysis of teacher-student interactions mediates positive coaching outcomes, and challenging teachers supports reflection but is uncommon](video-analysis-mediation-coaching-outcomes.md) — related

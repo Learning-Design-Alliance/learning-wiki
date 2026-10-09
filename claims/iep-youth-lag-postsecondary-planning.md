@@ -45,3 +45,4 @@ Among the report's key findings on transition preparation, "Youth with an IEP la
 ## Related Claims
 - [Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade](iep-youth-transition-activities-declined.md) — related
 - [Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support](iep-youth-academic-struggle-less-support.md) — related
+- [In 2012, youth with disabilities were more likely than other students to struggle academically and less likely to take steps to obtain postsecondary education and jobs](youth-disabilities-academic-struggle-fewer-postsecondary-steps.md) — possibly the same claim (merge candidate)

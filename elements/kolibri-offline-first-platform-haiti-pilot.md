@@ -44,10 +44,12 @@ Kolibri is Learning Equality's "open-source, offline-first" platform, which the 
 - [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](../claims/breakthrough-tutoring-confidence-gain-not-significant.md) [~W]
 
 ## Related Elements
-- 
+
+- [Kolibri: Learning Equality's open-source, offline-first digital platform for content access without internet connectivity](kolibri-offline-first-platform.md)
 
 ## Examples
--
+
+- [Scale-up strategy: add grades 3 and 4, expand solar and connectivity with local capacity-building, and adopt Kolibri for offline access](../strategies/haiti-scale-up-strategy-grades-infrastructure-kolibri.md)
 
 ## Key Sources
 - Digital Promise (2021). Introducing Blended Learning in Low-Tech Settings: Lessons from Haiti. https://digitalpromise.org/initiative/global-education/haiti

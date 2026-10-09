@@ -47,6 +47,7 @@ The Computational Thinking Micro-credentials are professional learning tools in 
 - [The educator micro-credentialing ecosystem: Digital Promise's PK-12 platform, 400+ micro-credentials, and the NEA partnership](educator-micro-credentialing-ecosystem.md)
 - [Micro-credential stack pairing data analysis with algorithm creation](ct-booster-microcredentials-data-algorithms.md)
 - [Educator micro-credentials: five-step competency-based professional learning credential](educator-micro-credentials-five-step-process.md)
+- [Micro-credentials as digital competency certifications for educator professional learning](micro-credentials-digital-competency-certifications.md)
 
 ## Examples
 -

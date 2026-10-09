@@ -40,6 +40,7 @@ Implementation requires standard networked computers or tablets with microphone 
 
 - [Imagine Español: personalized Spanish language and literacy program for grades Pre-K–6](imagine-espanol-program-element.md)
 - [Reading Plus technology access requirements](reading-plus-technology-access-requirements.md)
+- [Achieve3000 technology requirements: individual device per lesson with optional apps](achieve3000-technology-requirements.md)
 
 ## Examples
 -

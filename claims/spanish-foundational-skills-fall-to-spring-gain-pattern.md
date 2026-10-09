@@ -48,3 +48,4 @@ Descriptive statistics of test scores in the norming sample by school year, grad
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related
 - [Norming-sample testing volume is concentrated in kindergarten and grade 1, which together account for more than 70% of test events](spanish-foundational-skills-testing-volume-concentration.md) — related
 - [Foundational Skills test scores generally increased across terms and grades, with less growth observed at higher grades](foundational-skills-scores-increase-across-terms-and-grades.md) — possibly the same claim (merge candidate)
+- [Fall-to-spring growth rates in high school grades, particularly in reading, are often close to zero and can be negative](high-school-fall-spring-growth-near-zero.md) — related

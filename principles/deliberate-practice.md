@@ -140,6 +140,8 @@ Drill performance, whole-task performance at the end of a session, retained perf
 
 ## Examples
 
+- [Use in-game scaffolds with automatic feedback displays in math game tasks, monitoring scaffold use against mastery data](../strategies/in-game-scaffolds-with-usage-tracking.md)
+
 ### Illustrative
 
 **[Mastery Learning](../patterns/mastery-learning.md)** — Learners repeat focused practice-and-feedback cycles until a defined performance standard is met.

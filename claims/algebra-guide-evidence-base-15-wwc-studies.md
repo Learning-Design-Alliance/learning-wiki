@@ -53,3 +53,5 @@ The guide's own account of its literature search and screening: a search for alg
 - [The evidence base for Accelerated Reader with adolescent learners is thin: only 2 of 318 reviewed studies met WWC standards](accelerated-reader-thin-evidence-base-318-studies.md) — related
 - [Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards](clear-behavior-expectations-strong-evidence-14-studies.md) — related
 - [No rigorous causal studies of specific turnaround practices existed at the time of the guide](no-rigorous-causal-studies-turnaround-practices.md) — related
+- [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
+- [The guide's recommendations rest on 21 studies meeting WWC standards, with participant samples ranging from 51 to 15,898 students](wwc-advising-evidence-base-21-studies.md) — related

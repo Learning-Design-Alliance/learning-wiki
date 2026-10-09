@@ -45,6 +45,7 @@ The assessment's test design is explicitly grounded in the Simple View of Readin
 
 - [Simple View of Reading as the organizing framework for Spanish MAP Reading Fluency](simple-view-of-reading-spanish-map-reading-fluency-design.md)
 - [Simple View of Reading: reading comprehension as the product of decoding and linguistic comprehension](simple-view-of-reading-gough-tunmer.md)
+- [Reading Rope (Strand Model of Skilled Reading): word recognition and language comprehension as multifaceted strands](reading-rope-strand-model-skilled-reading.md)
 
 ## Examples
 

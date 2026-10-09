@@ -58,9 +58,11 @@ New knowledge is stored in relation to existing knowledge structures; instructio
 5. **Fade** the familiar context, gradually presenting content in more formal or unfamiliar settings so learners generalize beyond the bridge
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the activation routine this strategy builds on; connecting goes further by explicitly bridging to new content
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — the diagnostic step of learning what learners actually bring
 - [Activate Background Knowledge](activate_background_knowledge.md) — the general principle of readiness before instruction
+- [Check context familiarity by asking the class to share what they know about a problem's context before working on it](share-context-knowledge-before-problem-solving.md)
 
 ## Examples
 - **[Anchored Instruction](../patterns/anchored-instruction.md)** (e.g., *The Adventures of Jasper Woodbury* mathematics series) — embeds new math content in a rich video story world that gives all learners a shared experiential anchor.

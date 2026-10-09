@@ -70,6 +70,7 @@ The framework applies participatory design principles to educational change: sol
 - [Engineer purpose-built solutions using fit-to-context analysis and a Heilmeier Catechism-style question set](purpose-built-solutions-heilmeier-catechism-questions.md)
 - [Center educators in research by shifting power dynamics, including diverse educators, and structuring feedback loops](strategies-centering-educators-research-seernet.md)
 - [Build teacher capacity through iterative, equity-centered professional development for pathway implementation](teacher-capacity-pd-ct-pathways.md)
+- [Use student experience data in an iterative inquire-change-monitor cycle with students as partners](cultivate-data-improvement-cycle.md)
 
 ## Examples
 - A school district convened a team of students, district administrators, teachers, community organizations, and the Center for Inclusive Innovation to address an equity-related problem; students led professional development on racialized experiences that educators rated as highly impactful.

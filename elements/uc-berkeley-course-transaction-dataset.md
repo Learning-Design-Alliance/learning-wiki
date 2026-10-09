@@ -46,7 +46,8 @@ The study analyzes timestamped student course transactions (waitlists, adds, swa
 - [Students preferentially late-drop courses with higher predicted workload than retained courses, regardless of enrollment delay group](../claims/preferential-late-drop-high-workload-courses.md) [+W]
 
 ## Related Elements
-- 
+
+- [Waitlist-cutoff research design using administrative course registration data](waitlist-cutoff-registration-data-design.md)
 
 ## Examples
 -

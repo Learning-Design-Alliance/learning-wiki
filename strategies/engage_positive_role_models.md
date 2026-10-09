@@ -59,9 +59,11 @@ Role models work through [Social Learning Theory](../theories/social-learning-th
 5. Follow up with reflection or goal-setting so learners connect the model's trajectory to their own; revisit the model's example in later lessons.
 
 ## Related Strategies
+
 - [Ask Experts](../principles/ask-experts.md) — a complementary move where learners interrogate expertise directly rather than observing it
 - [Community-Based Learning](../principles/community-based-learning.md) — extends role-model contact into sustained engagement with community settings
 - [Building Empathy](../principles/building-empathy.md) — contact with diverse models supports perspective-taking alongside aspiration
+- [Surround students with college-educated mentors and college-going peers to build college aspirations](mentors-peers-college-aspirations.md)
 
 ## Examples
 - **[Cristo Rey Network](https://cristoreynetwork.org)** — corporate work-study program placing high school students in professional workplaces, pairing them with adult workplace mentors over four years.

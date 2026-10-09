@@ -66,6 +66,7 @@ Retrieval of relevant prior knowledge at the start of instruction improves compr
 - [Misconception Repair](misconception-repair.md) — the necessary follow-through when activation surfaces errors
 - [Spaced Practice](../principles/spaced-learning.md) — activation prompts at lesson openings can implement spacing of earlier content
 - [Verify Prerequisite Knowledge Before Audiovisual Presentations](prerequisite-checks-before-audiovisual-presentations.md)
+- [Check context familiarity by asking the class to share what they know about a problem's context before working on it](share-context-knowledge-before-problem-solving.md)
 
 ## Examples
 - **[KWL charts](https://www.readingrockets.org/strategies/kwl)** — a widely used reading-comprehension routine in which students list what they Know and Want to learn before reading, then return to record what they Learned.

@@ -48,3 +48,4 @@ The review reports, citing Sporte, Hart, & Wechsler (2009) and Allensworth et al
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
+- [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — a narrower finding that bears on this claim

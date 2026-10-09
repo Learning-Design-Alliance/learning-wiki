@@ -45,7 +45,8 @@ Math Corps is an intensive summer camp for middle school students, founded at Wa
 - [Attendance at Math Corps was strong at all three replication sites](../claims/math-corps-strong-attendance-replication-sites.md) [+M]
 
 ## Related Elements
-- 
+
+- [Math Corps summer program for Detroit middle school students](math-corps-summer-program-element.md)
 
 ## Examples
 -

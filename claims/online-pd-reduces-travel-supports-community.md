@@ -47,3 +47,4 @@ The brief's framing statement, offered without supporting data or argument, list
 - [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](peer-monitoring-exceeds-social-presence.md) — related
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
+- [The brief reports that online tools can engage prospective adult learners and make enrollment convenient given work and family demands](online-tools-convenient-enrollment-adult-learners.md) — related

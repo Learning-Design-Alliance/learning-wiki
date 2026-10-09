@@ -46,3 +46,4 @@ The report attributes this claim to Tapia (2016) in its Test Design section, con
 - [Four oral reading scores together best predict passage comprehension and enable individualized instruction](four-scores-predict-passage-comprehension.md) — related
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](spanish-decoding-rate-better-predictor-than-accuracy.md) — possibly the same claim (merge candidate)
 - [Syllable awareness is a strong and prominent predictor of Spanish reading development](syllable-awareness-strong-predictor-spanish-reading.md) — related
+- [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](word-recognition-fluency-predicts-comprehension-grades-1-3.md) — related

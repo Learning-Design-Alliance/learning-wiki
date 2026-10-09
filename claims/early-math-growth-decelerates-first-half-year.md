@@ -49,3 +49,4 @@ Three-level hierarchical growth model of i-Ready Diagnostic scores (fall, winter
 - [Over a quarter of variance in student growth lies at the school level, and 12-16% of schools significantly overperform average growth](school-level-growth-variation-overperformers.md) — related
 - [Within-year (fall-to-spring) achievement gains decelerate linearly as students move through school, at roughly 1.4 to 4 RIT per year depending on subject and centering grade](fall-to-spring-gains-decelerate-across-grades.md) — related
 - [In the study data, mean spring grade-2 math RIT was 190.6 with linear spring-to-spring growth of 14.5 RIT, and mean fall-to-spring gain in grade-2 math was 13.4 RIT](grade2-math-growth-descriptives-cp-model.md) — related
+- [Fall-to-spring growth rates in high school grades, particularly in reading, are often close to zero and can be negative](high-school-fall-spring-growth-near-zero.md) — related

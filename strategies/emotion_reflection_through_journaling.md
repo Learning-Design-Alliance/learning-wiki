@@ -61,10 +61,12 @@ Expressive writing about emotional experiences reliably improves psychological a
 6. Fade prompts over time as learners internalize the reflection cycle ([Fading](../elements/fading.md))
 
 ## Related Strategies
+
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the broader family of reflective practices; journaling is its most sustained, record-based form
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a low-stakes emotion-labeling warm-up that builds the vocabulary journaling depends on
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the natural goal-setting companion to pattern review sessions
 - [Action Planning](action_planning.md) — converts journal-derived insights into committed next steps
+- [A three-part goal-setting roadmap: collaborate on goals, establish autonomous activities, and check in regularly](growth-goal-roadmap-collaborate-activities-check-ins.md)
 
 ## Examples
 - **Pre-exam expressive writing** — Ramirez & Beilock had students write about test anxieties for 10 minutes before a high-stakes exam, closing the performance gap for anxious students ([Science](https://www.science.org/doi/10.1126/science.1199427))

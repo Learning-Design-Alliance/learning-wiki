@@ -61,6 +61,10 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Provide welcoming schools with more ongoing training, time for reflection, and targeted support when integrating displaced students and staff](ongoing-training-support-welcoming-school-integration.md)
 - [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
+- [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
+- [Phased SIM professional development plan: initial planning days, monthly site PD and coaching, monthly leadership-team sessions, and annual program-specific training with coaching](sim-phased-professional-development-plan.md)
+- [Provide extensive initial training plus ongoing coaching, with a teacher-level facilitator, when adopting a whole-school reform model](tdhs-extensive-pd-coaching-facilitator.md)
+- [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 
 ## Examples
 -

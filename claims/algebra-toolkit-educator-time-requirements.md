@@ -46,3 +46,4 @@ Descriptive resource table in this REL document listing educator professional de
 - [Each toolkit PLC requires one facilitator who leads sessions and supports educators between them](algebra-toolkit-facilitator-role-requirements.md) — related
 - [School leaders contribute recruitment, participation in select PLC sessions, and classroom observation visits](algebra-toolkit-school-leader-time-requirements.md) — related
 - [Toolkit implementation requires modest physical and technological infrastructure: one meeting space, one computer per participant, and 12 to 18 hours of internet connection](algebra-toolkit-space-technology-requirements.md) — related
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — related

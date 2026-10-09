@@ -47,3 +47,4 @@ Narrative review attributing this to Moschkovich's (1996) analysis of how Latino
 - [Systemic approach in in-service teacher education promotes holistic thinking but short, fragmented training hinders it (review reports Khisty, 1997)](systemic-approach-in-service-teacher-education.md) — related
 - [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related
+- [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](unfamiliar-contexts-distract-from-mathematics.md) — related

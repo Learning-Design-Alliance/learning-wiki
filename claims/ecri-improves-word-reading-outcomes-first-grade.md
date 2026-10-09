@@ -50,3 +50,4 @@ A comparison study of 811 first graders in Oregon and Massachusetts assigned stu
 - [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](sound-partners-positive-first-grade-effects-english-learners.md) — related
 - [Instructional assistants can deliver most Tier 2 small-group reading instruction under the ECRI model](instructional-assistants-deliver-tier2-small-group-reading.md) — related
 - [Enhanced math instruction adapted to after-school settings produced modest but statistically significant math gains after one year, while enhanced reading instruction showed no differences](enhanced-academic-instruction-math-gains-reading-null.md) — related
+- [TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies](tri-average-effect-size-051-woodcock-outcomes.md) — related

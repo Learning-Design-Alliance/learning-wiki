@@ -49,3 +49,4 @@ The brief asserts, without reporting data, that districtwide coaching implementa
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — a broader claim this one bears on
 - [Teachers integrating a new assessment tool into early childhood practice need a range of supports to act effectively on the information it provides](teachers-need-multiple-supports-integrate-new-assessments.md) — related
 - [Elementary school principals spend more than one-third of their workweek providing instructional support to teachers, split fairly evenly between direct and indirect support](principals-third-workweek-instructional-support.md) — related
+- [District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed](district-leaders-active-role-coaching-success.md) — related

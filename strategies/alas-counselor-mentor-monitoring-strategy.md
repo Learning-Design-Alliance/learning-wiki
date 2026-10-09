@@ -39,7 +39,8 @@ ALAS assigns each student a counselor/mentor who monitors attendance, behavior, 
 - classroom behavior and homework completion
 
 ## Related Strategies
-- 
+
+- [Trainee-selected, program-screened and trained mentors sustained through monthly staff contact after residential programming](trainee-selected-screened-trained-mentors.md)
 
 ## Examples
 -

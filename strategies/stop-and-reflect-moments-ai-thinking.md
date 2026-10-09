@@ -44,6 +44,7 @@ The guide recommends, in both its agency and metacognition sections, to "Build i
 - [Metacognitive Journaling](metacognitive_journaling.md)
 - [Discussions to Guide Reflection](discussions_to_guide_reflection.md)
 - [Journaling for Metacognitive Awareness](journaling_for_metacognitive_awareness.md)
+- [Support learners to evaluate AI outputs by verifying sources, reporting errors, and overriding recommendations](evaluate-ai-outputs-verify-override.md)
 
 ## Examples
 -

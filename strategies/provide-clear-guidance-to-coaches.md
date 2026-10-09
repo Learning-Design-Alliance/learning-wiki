@@ -42,6 +42,7 @@ The brief recommends that districts provide clear guidance to coaches as they im
 - [Engage district leaders as they implement a coaching program](engage-district-leaders-in-coaching-implementation.md)
 - [Track coaching activities to support districtwide coaching implementation](track-coaching-activities.md)
 - [Provide guidance to districts on implementing the statewide ToR definition](state-guidance-for-district-tor-implementation.md)
+- [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 
 ## Examples
 -

@@ -41,7 +41,8 @@ The brief's organizing framework is systems change, which it defines as "shiftin
 - [Research on systems change success has proliferated as philanthropic interest grows](../claims/proliferation-of-systems-change-success-research.md) [+W]
 
 ## Related Theories
-- 
+
+- [Promise Neighborhoods' cradle-to-career continuum model of community-wide poverty mitigation](promise-neighborhoods-cradle-to-career-continuum-theory.md)
 
 ## Examples
 

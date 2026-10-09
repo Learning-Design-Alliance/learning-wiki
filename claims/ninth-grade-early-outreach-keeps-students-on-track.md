@@ -57,3 +57,4 @@ The chapter's overview asserts, citing prior research, that dropout risk signs a
 - [Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year](lynwood-dfi-decrease-intervention-tracking.md) — related
 - [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — a narrower finding that bears on this claim
+- [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — a narrower finding that bears on this claim

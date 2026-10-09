@@ -46,3 +46,5 @@ Matched comparison analysis comparing NSI schools with similar schools in other 
 - [Network cohesion in NSI increased over time but remained low, with about 16 percent of possible school-to-school connections realized](nsi-network-cohesion-low-but-improving.md) — related
 - [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](postsecondary-enrollment-nsi-fafsa-not-college-year-two.md) — possibly the same claim (merge candidate)
 - [The postsecondary enrollment NSI's first-year impact on college enrollment did not persist into schools' second year](postsecondary-nsi-college-impact-not-persistent.md) — related
+- [The study also examines persistence in college over the first two postsecondary years](kipp-study-examines-college-persistence-two-years.md) — related
+- [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](postsecondary-enrollment-nsi-fafsa-gains-no-enrollment-change.md) — possibly the same claim (merge candidate)

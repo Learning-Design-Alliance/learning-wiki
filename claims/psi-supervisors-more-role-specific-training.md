@@ -47,3 +47,5 @@ Survey comparison of PSI and non-PSI urban district principal supervisors from t
 - [PSI districts were more likely than other urban districts to offer programs for new and aspiring supervisors](psi-districts-offer-new-aspiring-supervisor-programs.md) — related
 - [Principal supervisors in PSI districts supervised fewer principals than those in other urban districts](psi-supervisors-supervised-fewer-principals.md) — related
 - [The article documents the typical induction support provided to first-year elementary school teachers in urban districts around the country.](portrait-first-year-urban-teacher-induction-support.md) — related
+- [Districts and principal supervisors made substantial changes to principal supervision as a result of the PSI](psi-districts-supervisors-made-substantial-changes.md) — a broader claim this one bears on
+- [Principal supervisor roles in PSI districts differed from other urban districts in key ways while supervisors' work with principals showed important similarities](psi-supervisor-role-differences-and-similarities.md) — a broader claim this one bears on

@@ -12,7 +12,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (28 for, 15 mixed) · 35 studies (13 associational, 7 design, 6 review, 4 causal, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 35 report an effect size · 42 claims rest on one study
+> **Evidence** · 44 claims (29 for, 15 mixed) · 36 studies (13 associational, 7 review, 7 design, 4 causal, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 36 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity](../claims/cbt-unique-advantages-control-construct-irrelevant-factors.md) [+W] — attached 2026-10-09 from Steven Wise (2018), which proposed "Weigh benefits against costs, disadvantages, and challenges when deciding whether to move from paper-and-pencil to computer-based tests"; tests this page's relationship.
 - [Rapid guessing tends to negatively distort scores and diminish validity](../claims/rapid-guessing-negatively-distorts-scores.md) [+W] — attached 2026-10-09 from Steven Wise (2017), which proposed "Exclude rapid guesses from scoring because they do not contribute to measurement"; tests this page's relationship.
 - [CATs can effectively address the validity threat posed by unmotivated examinees in low-stakes testing](../claims/cats-address-unmotivated-examinee-validity-threat.md) [+W] — attached 2026-10-09 from Steven Wise (2014), which proposed "Use computerized adaptive tests in low-stakes programs to mitigate unmotivated examinees"; tests this page's relationship.
+- [A substantial share of students are misplaced by single placement tests, more often into developmental courses than the reverse](../claims/misplacement-rates-24-33-percent.md) [+W] — attached 2026-10-09 from Bailey et al. (2016), which proposed "Use multiple measures—such as high school GPA alongside placement tests—to assess postsecondary readiness and place students".
 
 ## Objective and learner-valued goal
 

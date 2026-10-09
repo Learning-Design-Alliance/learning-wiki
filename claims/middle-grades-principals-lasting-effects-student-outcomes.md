@@ -46,3 +46,4 @@ Observational analysis of CPS administrative data 1994–2018 estimating princip
 - [NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative](nlci-high-school-outcomes-lower-than-similar-students.md) — related
 - [CPS four-year high school graduation rose from 57 percent in 2006 to 75 percent in 2017, with options-school graduates adding 4 more percentage points](cps-hs-graduation-57-to-75.md) — related
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — related
+- [KIPP's rapid growth over two decades created an enormous need for strong principals to lead its schools](kipp-growth-created-principal-need.md) — related

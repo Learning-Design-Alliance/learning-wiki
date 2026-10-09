@@ -46,3 +46,4 @@ This is the article's own framing assertion in the CREATE K-12 pillar, offered w
 - [Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers](skills-based-hiring-widens-talent-pool.md) — related
 - [Students believed interdisciplinary studio experiences would ease their transition into the workforce](studio-experience-prepares-students-for-workforce.md) — related
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
+- [Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes](career-pathways-design-moderate-evidence.md) — related

@@ -75,3 +75,4 @@ The same subgroup analysis reports that on-track rates "among Black young men in
 - [On-track gains were largest for students with the lowest incoming skills and for African American males](on-track-gains-largest-for-lowest-skills-and-black-males.md) — possibly the same claim (merge candidate)
 - [Citywide freshman on-track rates improved from 48 to 58 percent over a decade, with declines tied to increased course-taking](on-track-rate-citywide-trends.md) — related
 - [Schools vary widely in freshman on-track rates even among students with similar backgrounds](school-differences-in-on-track-rates.md) — related
+- [Learning gains were highest for students whose background knowledge was lowest at pre-test](haiti-pilot-highest-gains-lowest-background-knowledge.md) — related

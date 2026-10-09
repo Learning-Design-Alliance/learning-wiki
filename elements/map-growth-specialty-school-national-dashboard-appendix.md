@@ -42,6 +42,7 @@ A technical appendix documenting the sample and methods used to build the MAP Gr
 - [MAP Growth National Dashboard](map-growth-national-dashboard.md)
 - [Technical appendix document accompanying the gender-gap STEM trends study](nwea-technical-appendix-gender-gap-stem-trends.md)
 - [Specialty Schools National Dashboard: interactive tool for achievement and growth patterns in US private and charter schools](specialty-schools-national-dashboard.md)
+- [Technical appendix documenting dashboard data, sample, and methods](map-growth-dashboard-technical-appendix.md)
 
 ## Examples
 -

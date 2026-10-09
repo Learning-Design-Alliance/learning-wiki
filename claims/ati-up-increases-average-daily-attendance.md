@@ -48,3 +48,4 @@ A dissertation study assigned 27 elementary schools in 15 Oregon districts to ad
 - [The PowerSchool Attendance Intervention did not significantly increase in-seat attendance in a randomized control trial](powerschool-attendance-intervention-in-seat-attendance-null.md) — related
 - [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism-rct-dc.md) — related
 - [Chronic absenteeism increased by more than 2 percentage points in 64 percent of elementary schools versus 35 percent of secondary schools between 2017/18 and 2018/19](elementary-schools-larger-absenteeism-increases.md) — related
+- [NNPS implementation increases elementary school average daily attendance more than matched comparison schools (effect size +0.07)](nnps-increases-elementary-attendance.md) — related

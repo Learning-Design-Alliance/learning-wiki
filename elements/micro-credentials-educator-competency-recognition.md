@@ -41,6 +41,8 @@ Micro-credentials are a mechanism for recognizing specific competencies that sup
 - [Digital Promise's Computational Thinking micro-credentials recognize educators whose students apply CT practices](digital-promise-ct-micro-credentials.md)
 - [Micro-credentialing (digital badges) for recognizing teacher competencies](micro-credentialing-digital-badges-teachers.md)
 - [Digital Open Badges](digital-open-badges.md)
+- [Micro-credentials as digital competency certifications for educator professional learning](micro-credentials-digital-competency-certifications.md)
+- [Spanish-language micro-credential system with Journey Map and TUPS assessment for personalized technology professional learning](pr-spanish-micro-credential-journey-map-system.md)
 
 ## Examples
 

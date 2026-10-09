@@ -44,3 +44,4 @@ Weighted descriptive analysis of the mentoring survey reported in figure 1 and t
 
 ## Related Claims
 - [Most first-year Missouri teachers in the study met with their mentors several times a month for meetings averaging less than 30 minutes](missouri-first-year-teachers-frequent-brief-mentor-meetings.md) — related
+- [Teachers who find coaching valuable spend more time and meet more frequently with their coaches](coaching-time-frequency-linked-to-perceived-value.md) — related

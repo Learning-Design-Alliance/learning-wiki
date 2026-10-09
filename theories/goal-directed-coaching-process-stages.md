@@ -45,6 +45,7 @@ The article adapts Hanft, Rush, and Shelden's (2004) coaching stages framework a
 ## Related Theories
 
 - [Responsive literacy coaching as a co-learner model grounded in trust and inquiry](responsive-literacy-coaching-co-learner-model.md)
+- [Instructional coaching frameworks: Knight's four forms and the multidisciplinary skills-process-development framework](instructional-coaching-frameworks-knight-multidisciplinary.md)
 
 ## Examples
 

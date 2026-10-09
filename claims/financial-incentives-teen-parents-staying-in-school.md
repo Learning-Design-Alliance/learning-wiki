@@ -67,3 +67,4 @@ Randomized controlled trial of Ohio's LEAP program meeting WWC standards; survey
 - [Financial incentives for teen parents show no discernible effects on completing school](financial-incentives-teen-parents-completing-school.md) — related
 - [Financial incentives for teen parents show no discernible effects on progressing in school](financial-incentives-teen-parents-progressing-in-school.md) — related
 - [The WWC rated financial incentives for teen parents as potentially positive rather than positive for staying in school because only one study showed statistically significant positive outcomes in that domain](wwc-potentially-positive-rating-staying-in-school.md) — possibly the same claim (merge candidate)
+- [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — related

@@ -38,7 +38,8 @@ The brief recommends that because different milestones bind for different groups
 - Four-year college enrollment and bachelor's degree completion
 
 ## Related Strategies
-- 
+
+- [Use data on students' college application and enrollment choices to support college-going decisions](use-college-choice-data-to-support-college-going-decisions.md)
 
 ## Examples
 -

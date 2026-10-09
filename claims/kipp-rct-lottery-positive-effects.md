@@ -65,3 +65,4 @@ Tuttle et al. (2015) randomized controlled trial: 891 lottery applicants (459 of
 - [Prior research on KIPP suggested positive achievement impacts but was limited by small samples or methodological weaknesses](prior-kipp-research-limited-scope-and-methods.md) — a broader claim this one bears on
 - [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — reports the opposite
 - [Students in single-discipline courses begin the year with higher achievement, roughly three or four points across subjects](single-discipline-students-higher-baseline.md) — related
+- [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related

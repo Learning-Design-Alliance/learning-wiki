@@ -66,3 +66,4 @@ Case study observations (Theme 3) on resource use: both educators incorporated m
 - [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
 - [Haitian teachers reported that pilot trainings improved their teaching, classroom management, and use of technology](haiti-teacher-training-self-reported-improvements.md) — related
 - [Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways](overarching-conceptions-expanded-multiple-technologies.md) — related
+- [Most teacher-created lessons did not rely substantially on existing OER, with teachers preferring Google search over OER repositories](teachers-did-not-rely-substantially-on-oer.md) — related

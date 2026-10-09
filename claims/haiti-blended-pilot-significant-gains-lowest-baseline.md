@@ -46,3 +46,4 @@ The poster's IMPACT section reports "Statistically significant learning gains" f
 - [In 75% of observed lesson segments in the Haiti pilot, all pupils were engaged](haiti-blended-pilot-75-percent-segments-all-engaged.md) — related
 - [Haitian teachers reported that pilot trainings improved their teaching, classroom management, and use of technology](haiti-teacher-training-self-reported-improvements.md) — related
 - [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](breakthrough-tutoring-confidence-gain-not-significant.md) — related
+- [Learning gains were highest for students whose background knowledge was lowest at pre-test](haiti-pilot-highest-gains-lowest-background-knowledge.md) — a broader claim this one bears on

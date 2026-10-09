@@ -46,3 +46,4 @@ Follow-up outcomes from the same randomized trial of 1,224 ninth-graders: "no st
 - [Online Algebra I credit recovery students were less likely to recover credit and scored lower on an algebra post-test than face-to-face students](online-credit-recovery-lower-credit-and-posttest.md) — reports the opposite
 - [Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses](online-credit-recovery-evidence-gap.md) — a broader claim this one bears on
 - [Students in online Algebra I credit recovery reported that the course was more difficult than students in face-to-face credit recovery reported](online-credit-recovery-perceived-more-difficult.md) — related
+- [Embedding test-taking strategies and ACT practice items in algebra improved practice ACT mathematics scores (McMann, 1994; effect size 0.34)](algebra-embedded-act-strategies-improve-math-mcmann.md) — related

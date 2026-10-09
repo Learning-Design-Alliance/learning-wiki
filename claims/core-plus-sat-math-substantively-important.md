@@ -52,3 +52,4 @@ SAT math outcome from the same quasi-experiment by Schoen and Hirsch (2002). The
 - [Too Good for Drugs has potentially positive effects on student behavior, with a WWC-computed domain average effect size of 0.25 that is not statistically significant](too-good-for-drugs-potentially-positive-behavior-effects.md) — related
 - [One of four qualifying studies found significant positive ITED outcomes for Core-Plus Mathematics](core-plus-one-of-four-studies-significant.md) — related
 - [The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points](effect-size-025-substantively-important-threshold.md) — a broader claim this one bears on
+- [A school SAT preparation course improved SAT scores at one Texas school (Filizola, 2008; domain average effect size 0.28), driven by the mathematics subtest](sat-prep-course-texas-improves-sat-filizola.md) — a broader claim this one bears on

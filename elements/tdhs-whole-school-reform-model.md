@@ -46,6 +46,7 @@ TDHS is described as "a whole-school reform model that focuses on reading and ma
 ## Related Elements
 
 - [Success for All® (SFA®) whole-school reform model](success-for-all-whole-school-reform-model.md)
+- [Talent Development High School program](talent-development-high-school-program.md)
 
 ## Examples
 

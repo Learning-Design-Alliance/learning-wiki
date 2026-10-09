@@ -51,3 +51,5 @@ The WWC's rating rationale (Appendices A5.1–A5.3) states the positive-effects 
 - [No studies meeting WWC standards addressed SSL effects on fluency, comprehension, or general reading achievement, and the extent of alphabetics evidence is small](ssl-evidence-gaps-fluency-comprehension.md) — related
 - [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related
 - [The evidence base for Headsprout Early Reading is limited to one small RCT, supporting only a potentially positive rating](headsprout-evidence-base-small-one-study.md) — related
+- [The evidence base for the program is a single RCT of 3,074 randomly assigned youth, with 1,196 in the follow-up analysis sample, and the WWC rates the extent of evidence as small](challengge-single-rct-small-evidence-base.md) — related
+- [The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study](jobstart-wwc-potentially-positive-rating.md) — related

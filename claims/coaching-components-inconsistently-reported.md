@@ -46,3 +46,4 @@ Review analysis of coaching components (Table 4): training was offered in 81% of
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on
 - [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors](supervisory-coaching-mixed-teacher-student-outcomes.md) — related
+- [Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation](haiti-pilot-training-satisfaction-96-fidelity.md) — related

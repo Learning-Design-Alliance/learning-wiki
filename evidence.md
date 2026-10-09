@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 9,463 |
-| Evidence entries | 10,928 |
-| Distinct studies | 2,997 |
-| Claims resting on one study | 9,221 (97%) |
+| Claims | 9,795 |
+| Evidence entries | 11,311 |
+| Distinct studies | 3,101 |
+| Claims resting on one study | 9,548 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 663 of 2,997 (22%) |
+| Studies reporting an effect size | 697 of 3,101 (22%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 42 | 325 | 103 | 323 | 793 |
-| quant-synthesis | 22 | 72 | 33 | 122 | 249 |
-| review | 26 | 139 | 59 | 98 | 322 |
-| associational | 14 | 309 | 153 | 210 | 686 |
-| qualitative | 43 | 133 | 45 | 49 | 270 |
-| design | 20 | 198 | 109 | 23 | 350 |
-| theoretical | 32 | 191 | 57 | 47 | 327 |
+| causal | 48 | 358 | 103 | 336 | 845 |
+| quant-synthesis | 22 | 81 | 37 | 122 | 262 |
+| review | 32 | 142 | 60 | 101 | 335 |
+| associational | 14 | 311 | 155 | 215 | 695 |
+| qualitative | 44 | 134 | 47 | 49 | 274 |
+| design | 21 | 205 | 111 | 24 | 361 |
+| theoretical | 32 | 192 | 58 | 47 | 329 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 558 (19%) | 1,665 (56%) | 669 (22%) | 105 (4%) |
+| 568 (18%) | 1,711 (55%) | 710 (23%) | 112 (4%) |
 
-**Studies per claim:** 0: 0, 1: 9,221, 2: 186, 3: 50, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 9,548, 2: 191, 3: 50, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -86,7 +86,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 201 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 189 pages | 2 | q3 | 0 of 2 |
 | [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 174 pages | 3 | q3 | 1 of 3 |
-| [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 129 pages | 2 | q2–q3 | 0 of 2 |
+| [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 130 pages | 2 | q2–q3 | 0 of 2 |
 | [Spaced Repetition Improves Retention](claims/spaced-repetition-improves-retention.md) | 121 pages | 3 | q3–q4 | 1 of 3 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 111 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 101 pages | 2 | q3 | 0 of 2 |
@@ -134,14 +134,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 323 | 2 | 0 |
-| [elements](elements/index.md) | 2,045 | 1,565 | 1 | 0 |
+| [elements](elements/index.md) | 2,135 | 1,641 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
-| [strategies](strategies/index.md) | 4,315 | 2,337 | 6 | 0 |
+| [strategies](strategies/index.md) | 4,384 | 2,338 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,637 | 1,341 | 1 | 0 |
+| [theories](theories/index.md) | 1,663 | 1,365 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 234 | 148 | 1 | 0 |
+| [designs](designs/index.md) | 249 | 157 | 1 | 0 |
 
 ## Toward pooled estimates
 

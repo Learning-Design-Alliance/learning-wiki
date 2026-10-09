@@ -22,7 +22,7 @@ sources:
 # Accessible Vocabulary & Syntax
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (6 for, 3 mixed, 1 against) · 19 studies (7 causal, 5 review, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 19 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (7 for, 3 mixed, 1 against) · 20 studies (7 causal, 5 review, 4 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 20 report an effect size · 6 claims rest on one study
 
 ## Conditional relationship
 
@@ -78,6 +78,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
+- [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](../claims/unfamiliar-contexts-distract-from-mathematics.md) [+W] — attached 2026-10-09 from Preparing Problems for Classroom Instruction (2012), which proposed "Personalize and scaffold problem contexts before problem solving: reword problems into familiar contexts and clarify unfamiliar words in advance".
 
 ## Objective and learner-valued goal
 

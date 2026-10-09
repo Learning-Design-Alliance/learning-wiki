@@ -49,3 +49,4 @@ WWC synthesis of two studies (12,698 students in 36 schools) reporting: Tracey a
 - [Tracey and Young (2004): grade 5 students using differentiated KidBiz3000® outscored comparison students on the SRI (effect size 0.29)](kidbiz-differentiated-sri-positive-effect.md) — related
 - [Hill and Lenard (2016): LevelSet Lexile effects were negative in spring 2014 and positive in spring 2015](kidbiz-levelset-year-contrast.md) — related
 - [All five studies of Fast ForWord in the general literacy achievement domain showed indeterminate effects](fast-forword-general-literacy-indeterminate.md) — related
+- [One small evaluation of Achieve3000 found positive effects on the SRI but not Terra Nova (average effect size +0.16)](achieve3000-small-study-positive-sri.md) — related

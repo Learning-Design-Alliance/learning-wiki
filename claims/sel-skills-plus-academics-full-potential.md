@@ -53,3 +53,4 @@ The consensus statement enumerates social, emotional, and academic capacities to
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — related
 - [Cohort membership and mentor-rich environments contribute to skill development and persistence for adult learners](cohort-support-improves-adult-persistence.md) — a narrower finding that bears on this claim
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — related
+- [Decades of research show SEL benefits student well-being, academic performance, attendance, graduation rates, and future success](sel-decades-of-research-benefits.md) — related

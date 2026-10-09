@@ -44,3 +44,4 @@ The WWC intervention rating scheme requires two or more studies showing statisti
 
 ## Related Claims
 - [Watching Arthur improves English narrative skill development in kindergarten English language learners more than an alternative educational program (potentially positive effects)](arthur-potentially-positive-narrative-skill-effects.md) — possibly the same claim (merge candidate)
+- [The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study](jobstart-wwc-potentially-positive-rating.md) — related

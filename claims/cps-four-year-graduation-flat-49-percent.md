@@ -54,3 +54,4 @@ Descriptive trend analysis shown in Figure 6 for high school graduating classes 
 - [Charter high school students had comparable high school graduation but much higher four-year college enrollment, selective-college enrollment, and four-semester college completion than comparable non-charter students](cps-charter-better-college-outcomes.md) — related
 - [CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate](cps-four-year-college-graduation-flat.md) — related
 - [A rural district that closed device and connectivity divides and trained teachers saw graduation rates rise from 67 percent to over 94 percent and college enrollment double](lindsay-usd-digital-equity-outcomes.md) — related
+- [Students who enroll in developmental education courses attain degrees at lower rates than comparable entrants who do not](dev-ed-enrollment-lower-degree-attainment.md) — related

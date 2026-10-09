@@ -45,3 +45,4 @@ WWC synthesis of three randomized controlled trials (more than 800 students in G
 ## Related Claims
 - [Effects of accelerated middle schools on dropping out varied by site: significant in Michigan, substantively important but not significant in Georgia, and null in New Jersey](accelerated-middle-schools-dropout-site-variation.md) — a narrower finding that bears on this claim
 - [Accelerated middle schools show positive effects on progressing in school, with an average improvement index of +35 percentile points](accelerated-middle-schools-progressing-in-school-positive.md) — related
+- [The average improvement index for New Chance on completing school is +8 percentile points](new-chance-improvement-index-plus-8.md) — related

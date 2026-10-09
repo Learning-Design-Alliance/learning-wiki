@@ -58,9 +58,11 @@ The strategy rests on social learning theory: learners acquire attitudes, expect
 5. **Re-evaluate on a cycle.** Revisit the audit every few weeks; environments drift, and substitutions lose novelty. Adjust rather than treating the plan as one-time.
 
 ## Related Strategies
+
 - [Goal Setting](../elements/goal-setting.md) — substitution is more durable when the new influences are tied to explicit learning goals
 - [Peer Tutoring](peer-tutoring.md) — structures positive peer interaction that doubles as academic support
 - [Self-Monitoring](self-monitoring.md) — the reflective mechanism that powers the audit and re-evaluation cycle
+- [Surround students with college-educated mentors and college-going peers to build college aspirations](mentors-peers-college-aspirations.md)
 
 ## Examples
 - **First-year seminar programs** (e.g., the University of South Carolina's University 101 model) deliberately place new students into cohort communities with peer mentors, substituting structured supportive networks for the anonymous, sometimes alienating default environment. See [https://sc.edu/about/offices_and_divisions/university_101/](https://sc.edu/about/offices_and_divisions/university_101/)

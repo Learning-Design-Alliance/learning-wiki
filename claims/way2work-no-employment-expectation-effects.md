@@ -54,3 +54,4 @@ RCT analysis of employment and expectation outcomes at the 24-month follow-up, b
 - [Primary-outcome impacts in the PROMISE evaluation were measured at an 18-month follow-up point](promise-primary-outcomes-18-month-followup.md) — related
 - [Community-based work programs for transition-age students with disabilities show mixed effects on employment outcomes](community-based-work-programs-mixed-employment-effects.md) — a broader claim this one bears on
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
+- [LLC did not affect employment for all participants within the first 24 months of enrollment](llc-no-employment-impact-all-participants-24-months.md) — related

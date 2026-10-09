@@ -46,3 +46,4 @@ Theoretical assertion made in the paper's discussion of quadrant-one instruction
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented](vygotsky-challenging-tasks-promote-growth.md) — related
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — a narrower finding that bears on this claim
+- [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — a narrower finding that bears on this claim

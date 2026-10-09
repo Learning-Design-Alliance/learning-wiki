@@ -49,3 +49,5 @@ As a key finding, the snapshot reports that teacher attrition patterns over the 
 - [Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic](pa-staff-attrition-rose-4-to-5-percent-pandemic.md) — related
 - [Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed](pa-attrition-racial-gaps-grew-except-administrators.md) — related
 - [Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income](hiring-transfer-patterns-consistent-small-differences.md) — related
+- [Eliminating attrition inequities alone does little to close teacher quality gaps](attrition-equity-alone-little-tqg-effect.md) — related
+- [Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students](three-processes-contribute-teacher-quality-gaps.md) — reports the opposite

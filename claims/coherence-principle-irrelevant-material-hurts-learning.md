@@ -94,3 +94,4 @@ A review and meta-analysis of the seductive-detail literature. The effect held o
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — a broader claim this one bears on
 - [Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation](coherence-theory-student-learning-motivation.md) — related
+- [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](personalized-problem-contexts-boost-engagement-grades-4-8.md) — reports the opposite

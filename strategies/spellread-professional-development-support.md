@@ -57,6 +57,9 @@ The article reports that SpellRead™ implementation is supported by "comprehens
 - [Multi-layer coach training and support system: coach camp, paired mentoring, ongoing webinars, and coach-the-coach sessions](vils-coach-training-support-system.md)
 - [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
 - [Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines](summer-institute-plc-coaching-data-routines.md)
+- [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
+- [Phased SIM professional development plan: initial planning days, monthly site PD and coaching, monthly leadership-team sessions, and annual program-specific training with coaching](sim-phased-professional-development-plan.md)
+- [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 
 ## Examples
 -

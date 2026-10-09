@@ -45,6 +45,7 @@ Spanish MAP Reading Fluency is "an adaptive assessment that supports students on
 - [MAP Reading Fluency adaptive online early literacy assessment](map-reading-fluency-assessment.md)
 - [Spanish MAP Reading Fluency adaptive oral reading assessment](spanish-map-reading-fluency-assessment.md)
 - [Stress Awareness field test measures for Spanish suprasegmental phonology](stress-awareness-field-test-measures.md)
+- [MAP Reading Fluency adaptive oral reading fluency assessment with dyslexia screener and progress monitoring](map-reading-fluency-adaptive-assessment-element.md)
 
 ## Examples
 

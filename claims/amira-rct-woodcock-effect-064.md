@@ -52,3 +52,4 @@ Student-randomized trial in two suburban schools with a majority White populatio
 - [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](literacy-packs-dibels-es-039-quasi-experiment.md) — related
 - [Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials](reading-recovery-positive-general-reading-achievement.md) — related
 - [Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18)](lightning-squad-word-attack-significant-itt.md) — related
+- [TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies](tri-average-effect-size-051-woodcock-outcomes.md) — related

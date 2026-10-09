@@ -46,3 +46,5 @@ Qualitative implementation analysis drawing on interviews with central office ad
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related
 - [Principal supervisors in PSI and other urban districts reported similar perceptions of central office support and structures](psi-and-other-districts-similar-central-office-support-perceptions.md) — related
 - [Interviews with 13 education leaders from Kentucky and California, two states with contrasting teacher-evaluation approaches, provided the data for the collaborative grounded theory analysis](thirteen-education-leaders-interviews-two-states-teacher-evaluation.md) — related
+- [The PSI did not improve teachers' perceptions of principals' performance](psi-no-improvement-teacher-perceptions-of-principals.md) — related
+- [Principal supervisor roles in PSI districts differed from other urban districts in key ways while supervisors' work with principals showed important similarities](psi-supervisor-role-differences-and-similarities.md) — related

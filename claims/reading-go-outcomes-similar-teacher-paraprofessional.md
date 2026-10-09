@@ -44,3 +44,4 @@ The page reports, from the one study of Reading Go!, that "Outcomes were similar
 
 ## Related Claims
 - [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](reading-go-positive-decoding-word-reading-outcomes.md) — related
+- [Fraction Face-Off! tutoring can be delivered by either teachers or paraprofessionals with no technology required.](fraction-face-off-paraprofessional-delivery.md) — related

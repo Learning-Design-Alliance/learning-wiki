@@ -45,3 +45,5 @@ The matched comparison group evaluation compared suspension rates between the Ka
 ## Related Claims
 - [Days lost to suspension at the Kauffman School are small on average relative to instructional time added by its extended school day and year](kauffman-suspension-days-small-versus-extended-time.md) — related
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related
+- [Kauffman students had higher attendance rates and were less likely to be suspended than similar Kansas City students](kauffman-students-higher-attendance-lower-suspension.md) — reports the opposite
+- [Kauffman students were less likely to be suspended than other similar students in Kansas City](kauffman-students-less-likely-suspended.md) — reports the opposite

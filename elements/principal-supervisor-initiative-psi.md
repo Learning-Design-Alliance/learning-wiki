@@ -44,7 +44,8 @@ The Principal Supervisor Initiative is a district-level reform program launched 
 - [Principal supervisors in PSI and other urban districts reported similar perceptions of central office support and structures](../claims/psi-and-other-districts-similar-central-office-support-perceptions.md) [~W]
 
 ## Related Elements
-- 
+
+- [Principal Supervisor Initiative (PSI)](principal-supervisor-initiative-element.md)
 
 ## Examples
 -

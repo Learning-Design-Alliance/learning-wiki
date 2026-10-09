@@ -47,3 +47,4 @@ Analysis of CPS records linked to National Student Clearinghouse data (2008-10 c
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative](nlci-high-school-outcomes-lower-than-similar-students.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
+- [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related

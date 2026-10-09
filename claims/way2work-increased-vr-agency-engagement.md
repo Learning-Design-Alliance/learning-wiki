@@ -52,3 +52,4 @@ Randomized controlled trial of Way2Work Maryland with 401 enrolled high school s
 - [Participants reported satisfaction with selected Way2Work Maryland service components](way2work-participant-satisfaction-service-components.md) — related
 - [Service use differed across local school systems in Way2Work Maryland](way2work-service-use-differences-across-school-systems.md) — related
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
+- [LLC produced large impacts on service use in the two years after enrollment, particularly services the program intended to offer](llc-large-impact-service-use-two-years.md) — a broader claim this one bears on

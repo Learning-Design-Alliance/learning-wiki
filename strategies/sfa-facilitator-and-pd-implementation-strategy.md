@@ -48,6 +48,7 @@ SFA assigns a program facilitator who "provides support for program implementati
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
+- [Provide extensive initial training plus ongoing coaching, with a teacher-level facilitator, when adopting a whole-school reform model](tdhs-extensive-pd-coaching-facilitator.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ The testimony's stated method: NAEP data from the early 1990s to 2017 combined w
 - [The 2007 DC school reforms improved student learning in math, per testimony based on NAEP data from the early 1990s to 2017](dc-reforms-improved-math-achievement.md) — related
 - [The 2007 DC reforms aimed to improve student achievement by hiring and retaining higher quality teachers and providing families more public school choices](dc-2007-reforms-teacher-quality-and-school-choice-aims.md) — related
 - [The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress](dc-reforms-larger-expected-grade4-math-reading-naep-gains.md) — related
+- [The DC reforms were associated with larger than expected improvements in grade 4 math and reading NAEP scores](dc-reforms-larger-expected-grade4-math-reading-naep.md) — related

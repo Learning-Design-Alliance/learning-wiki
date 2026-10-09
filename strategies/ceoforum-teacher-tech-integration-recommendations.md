@@ -50,6 +50,8 @@ The report issues a set of dated recommendations directed at educators, administ
 - [Provide extensive collegial support and professional development for technology integration to avoid maintaining the digital divide](collegial-support-professional-development-technology-integration.md)
 - [During adoption, determine professional learning needs and secure sustainable funding for training before proceeding](adoption-stage-professional-learning-funding.md)
 - [Prepare and test technology before launch, scaffold the learning curve, and leverage tech-savvy students as peer resources](prepare-test-technology-before-launch-scaffold.md)
+- [Provide faculty professional development in adult learning theory and pedagogy for career pathways instruction](faculty-pd-adult-learning-career-pathways.md)
+- [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](pr-eight-recommendations-technology-integration-support.md)
 
 ## Examples
 -

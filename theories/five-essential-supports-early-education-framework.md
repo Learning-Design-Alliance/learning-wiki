@@ -54,6 +54,7 @@ The five essential supports framework specifies five school- or center-level org
 - [Model of Essential Supports for Student Learning](model-essential-supports-student-learning.md)
 - [Five essential supports for student learning framework](five-essential-supports-ccsr-sipaaa.md)
 - [Four types of R&D enabling conditions in school systems: mindsets, behaviors and routines, structures and tools, and systems supports](rd-enabling-conditions-four-types.md)
+- [Six-dimension construct map for measuring ELA and math curriculum-shift implementation](shared-measures-construct-map-curriculum-shifts.md)
 
 ## Examples
 

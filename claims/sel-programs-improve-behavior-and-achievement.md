@@ -168,3 +168,5 @@ Open questions include the durability of achievement effects after programs end,
 - [Research on summer programs addresses their implementation, design, and efficacy for literacy, math, and social-emotional learning outcomes](summer-programs-research-implementation-design-efficacy.md) — related
 - [Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice](forms-sel-checkins-anonymity.md) — a narrower finding that bears on this claim
 - [Implementing specific SEL curricula can improve academic performance, including learning to read](sel-curricula-improve-academic-performance.md) — related
+- [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](getting-ready-replication-relationships.md) — related
+- [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — related

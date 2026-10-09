@@ -46,3 +46,4 @@ The national PROMISE evaluation identified the program's main departures from us
 - [PROMISE service costs represented relatively large investments](promise-service-costs-relatively-large-investments.md) — related
 - [The intensive case management offered by PROMISE might be difficult to sustain in the current system](promise-intensive-case-management-sustainability-uncertain.md) — related
 - [Many SSI youth received transition services without PROMISE, but there was substantial room for PROMISE to improve service use](promise-ssi-youth-transition-services-baseline-room-for-improvement.md) — related
+- [Receiving an intensive, one-on-one service may matter more than receiving services across multiple pillars](intensive-one-on-one-service-more-important-than-multi-pillar-breadth.md) — related

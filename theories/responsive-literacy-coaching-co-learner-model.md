@@ -44,6 +44,8 @@ The article articulates a framework of eight principles for responsive literacy 
 
 - [Goal-directed coaching process staged as joint planning, action/practice, observation, individual reflection, feedback, and reflective discussion in a loop](goal-directed-coaching-process-stages.md)
 - [Conceptual framework of active ingredients of instructional coaching comprising characteristics, relational contexts, and processes](active-ingredients-coaching-conceptual-framework.md)
+- [Coaching as a partnership among principals, coaches, and teachers](coaching-as-partnership-approach.md)
+- [Instructional coaching frameworks: Knight's four forms and the multidisciplinary skills-process-development framework](instructional-coaching-frameworks-knight-multidisciplinary.md)
 
 ## Examples
 

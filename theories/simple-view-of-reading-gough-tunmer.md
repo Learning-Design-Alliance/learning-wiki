@@ -47,6 +47,7 @@ The Simple View of Reading is a theoretical model of reading comprehension that 
 - [Unitary language construct: vocabulary, grammar, and listening comprehension reflect a common language factor](unitary-core-language-construct.md)
 - [Simple View of Reading as the design basis for MAP Reading Fluency](simple-view-of-reading-design-basis.md)
 - [Simple View of Reading as the organizing framework for Spanish MAP Reading Fluency](simple-view-of-reading-spanish-map-reading-fluency-design.md)
+- [Simple View of Reading: comprehension as the product of word recognition and language comprehension](simple-view-of-reading-product-model.md)
 
 ## Examples
 

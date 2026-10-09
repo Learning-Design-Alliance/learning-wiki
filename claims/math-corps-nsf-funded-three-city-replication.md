@@ -50,3 +50,5 @@ Descriptive background from the brief: an NSF Advancing Informal STEM Learning g
 - [Students in three summer math programs showed large improvements in grades the semester after the program](summer-math-programs-large-grade-improvements-next-semester.md) — related
 - [Evidence of changes in growth mindset or math confidence after the summer programs was minimal](summer-math-programs-minimal-mindset-confidence-change.md) — related
 - [Mathematica conducted an implementation study of the early math scale-up effort during 2018 and 2019](mathematica-implementation-study-early-math-scale-up-2018-2019.md) — related
+- [Few Math Corps participants had encounters with the criminal justice system](math-corps-few-criminal-justice-encounters.md) — related
+- [Participation in the Math Corps summer program had a large and statistically significant impact on college enrollment](math-corps-large-significant-impact-college-enrollment.md) — related

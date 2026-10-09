@@ -67,3 +67,4 @@ Interview evidence from a third-grade teacher who used a Form asking students to
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on
 - [The stability of social-emotional learning competencies over time is an open empirical question with implications for teachers and schools](sel-competencies-stability-over-time-question.md) — related
+- [The Cultivate Survey's impact question indicates whether students experience authentic voice and influence in school improvement](cultivate-impact-question-authentic-voice.md) — related

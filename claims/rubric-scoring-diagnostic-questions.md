@@ -50,3 +50,4 @@ The introduction states the intended analytic uses of the rubrics as three diagn
 - [Scorers found all rubric dimensions important, with feedback bearing mainly on the scoring and training process rather than rubric design](scorer-feedback-dimensions-important-process-implications.md) — related
 - [Scorers had difficulty distinguishing rubric scoring from everyday grading and AP scoring, and training took longer than expected](scorer-training-longer-than-expected-grading-confusion.md) — related
 - [Two rubric dimensions (claims and evidence, comparison) showed low inter-scorer consistency in the pilot](hts-rubrics-low-consistency-claims-evidence-comparison.md) — related
+- [Student deeper learning outcomes were positively and strongly correlated with ratings of deeper learning opportunities](student-work-outcomes-correlate-with-opportunity-ratings.md) — related

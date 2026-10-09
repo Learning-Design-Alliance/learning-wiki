@@ -48,3 +48,4 @@ Large-scale analysis of math and reading test scores for over seven million K-8 
 - [A seven-million-student K-8 dataset spanning fall, winter, and spring of 2016-17 was used to test within-year growth linearity](seven-million-student-three-season-dataset-growth-linearity.md) — related
 - [Seasonal growth patterns were examined with math and reading scores for over seven million K-8 students across three within-year test occasions](seven-million-students-three-seasonal-occasions.md) — related
 - [Policy decisions such as shortening or extending the school year depend on accurate within-year learning estimates](school-year-policy-depends-on-growth-estimates.md) — related
+- [Fall-to-spring growth rates in high school grades, particularly in reading, are often close to zero and can be negative](high-school-fall-spring-growth-near-zero.md) — related

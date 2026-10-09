@@ -51,3 +51,4 @@ National probability-based KnowledgePanel survey of undergraduates whose in-pers
 - [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — possibly the same claim (merge candidate)
 - [An estimated one-third of students fail to learn because of psychosocial problems that interfere with engagement in instruction](one-third-students-fail-learn-psychosocial-barriers.md) — related
+- [Teachers' technology use increased during COVID-19 remote learning, but infrastructure and device barriers hindered effective integration](pr-teacher-tech-use-increased-infrastructure-barriers.md) — related

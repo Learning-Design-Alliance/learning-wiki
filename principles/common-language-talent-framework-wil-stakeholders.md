@@ -51,6 +51,7 @@ Because WIL programs rely on co-creation among employers, students, and educator
 ## Examples
 
 - [Apply the FRTF as curricular support, as a student and program assessment tool, and to map academic learning outcomes to workplace-relevant language](../strategies/frtf-application-strategies-wil-programs.md)
+- [Align school and community partner SEL efforts through common language and coordinated communication](../strategies/community-partner-sel-alignment.md)
 
 ## Key Sources
 - Pretti, T. J., Etmanski, B., & Drewery, D. W. (2021). Development and validation of a future ready talent framework. International Journal of Work-Integrated Learning, Special Issue, 22(3), 369-383. https://eric.ed.gov/?id=EJ1313416

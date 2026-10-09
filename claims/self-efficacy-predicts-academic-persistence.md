@@ -92,3 +92,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Educators grew more confident supporting student autonomy and leading media production through the program](360-filmmakers-challenge-educator-confidence-autonomy.md) — related
 - [Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning](productive-difficulty-edge-of-mastery.md) — related
 - [EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration](edm-infers-broader-student-attributes.md) — related
+- [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — related

@@ -52,3 +52,4 @@ The report's key findings state that over the past decade "youth with an IEP hav
 - [Participation in key transition activities, including discussing transition plans with school staff and student employment during high school, declined over the decade](iep-youth-transition-activities-declined.md) — related
 - [Youth with an IEP are more likely than in the past to receive supports at school but less likely to receive them at home](iep-youth-school-supports-up-home-supports-down.md) — related
 - [Youth with an IEP are more likely than a decade ago to receive supports at school but less likely to receive them at home](iep-youth-supports-up-school-down-home.md) — related
+- [From 2003 to 2012, youth with disabilities showed greater school engagement and support use but became less likely to participate in some key transition activities](engagement-up-transition-activities-down-2003-2012.md) — related

@@ -41,6 +41,7 @@ The report provides a preliminary list of cost ingredients for implementing DCMP
 - [Dcmp Intervention Model](dcmp-intervention-model.md)
 - [STeLLA® cost structure](stella-cost-structure.md)
 - [OLI cost structure: low or no cost courses with per-student maintenance fees for credit delivery](oli-cost-structure-maintenance-fees.md)
+- [FLIGHT cost profile and funding model](flight-cost-profile-funding-model.md)
 
 ## Examples
 -

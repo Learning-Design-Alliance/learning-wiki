@@ -45,6 +45,7 @@ The Rule Space model (Tatsuoka, 1983) is an IRT-based diagnostic classification 
 ## Related Theories
 
 - [Understand-solve-check model of examinee problem solving](understand-solve-check-problem-solving-model.md)
+- [Continuous Conjunctive Model (CCM) for stealth assessment in game learning analytics](ccm-continuous-conjunctive-model-theory.md)
 
 ## Examples
 

@@ -66,3 +66,4 @@ Exploratory analyses of provider characteristics (organization type, staff, grou
 - [Participating in SES (averaging about 21 hours) shows no statistically significant impact on reading or math achievement for students near the cutoff](ses-participation-no-significant-impact-tot.md) — related
 - [The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger](ses-rd-study-power-012-sd.md) — related
 - [Participants in supplemental educational services experienced significant gains in achievement](ses-participants-significant-achievement-gains.md) — related
+- [Receiving an intensive, one-on-one service may matter more than receiving services across multiple pillars](intensive-one-on-one-service-more-important-than-multi-pillar-breadth.md) — related

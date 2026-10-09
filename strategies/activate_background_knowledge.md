@@ -60,8 +60,10 @@ New learning is stored in relation to existing knowledge structures; when releva
 6. Revisit the activated knowledge during [Application](../elements/application.md) tasks so the connection is used, not just stated.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the closely overlapping routine; this page treats activation as a deliberate instructional strategy rather than a momentary warm-up
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — the diagnostic, learner-knowledge-mapping counterpart
+- [Check context familiarity by asking the class to share what they know about a problem's context before working on it](share-context-knowledge-before-problem-solving.md)
 
 ## Examples
 - **KWL charts (Ogle, 1986)** — Learners record what they *Know*, what they *Want* to know, and later what they *Learned*; widely used in reading instruction to structure activation before and reflection after a text.

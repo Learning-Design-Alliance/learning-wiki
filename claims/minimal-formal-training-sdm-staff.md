@@ -52,3 +52,4 @@ Survey findings on training participation and hours (Tables 2, A-2 through A-6).
 - [Training amount related to role awareness (r=.225, p<.01), but regression showed role awareness was most directly attributable to building-team membership](role-awareness-attributable-to-team-membership.md) — related
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — related
+- [Program dosage was low for many participants: nearly half of Talent Search participants received 10 or fewer hours of services a year](talent-search-low-dosage-half-participants.md) — related

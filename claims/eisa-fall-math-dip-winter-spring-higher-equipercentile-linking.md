@@ -51,3 +51,4 @@ Section 2.6 reports concordance studies (attributed to Lewis and Kuhfeld 2024) c
 - [Updated 2025 MAP Growth screening thresholds are set at the 35th percentile with adjustments for the Enhanced Item-Selection Algorithm](map-growth-2025-thresholds-35th-percentile-eisa.md) — related
 - [Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading](norms-prediction-rmsd-math-reading.md) — related
 - [Spanish MAP Growth Reading universal screening cut scores correspond to the 40th percentile of Spanish norms, established by linking to English cut scores](spanish-map-growth-reading-40th-percentile-cut-scores.md) — related
+- [The enhanced item-selection algorithm (EISA) causes shifts in math scores that were fully accounted for in the 2025 norms and the dashboard](eisa-causes-math-score-shifts-accounted-in-2025-norms.md) — related

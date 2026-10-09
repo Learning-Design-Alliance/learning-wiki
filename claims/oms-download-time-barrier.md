@@ -46,3 +46,4 @@ Case study observation and email-interview data from the I-TEP course. The study
 - [Integrating cognitive apprenticeship methods in a Web-based course required a significant and largely unbounded instructor time investment](web-based-ca-instructor-time-burden.md) — related
 - [In a Web-based teacher education course, screen-capture videos and Flash animations modeling the instructor's internal problem-solving processes were the elements students most strongly associated with cognitive apprenticeship modeling](oms-videos-animations-most-impactful-modeling.md) — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
+- [SIM requires no specialized technology beyond computers or tablets that most schools already provide](sim-no-specialized-technology-requirements.md) — reports the opposite

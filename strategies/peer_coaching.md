@@ -65,6 +65,8 @@ Peer coaching works because articulating feedback to a peer forces the coach to 
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — structured role rotation applied to comprehension strategies
 - [Learning Communities](learning-communities.md) — the group-scale version of mutual support and accountability
 - [Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support](foster-community-counsellor-education-practices.md)
+- [Differentiate coaching support to meet teachers where they are, establish clear DLS expectations, and provide coaches additional training for consistent messaging](differentiate-coaching-support-meet-teachers-where-they-are.md)
+- [Protect confidentiality and a non-evaluative stance so teachers trust the coach-teacher relationship](non-evaluative-confidential-coaching-support.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the general element; peer coaching removes the expert/novice asymmetry

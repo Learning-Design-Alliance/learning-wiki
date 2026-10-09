@@ -87,3 +87,5 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice](forms-sel-checkins-anonymity.md) — a narrower finding that bears on this claim
 - [Implementing specific SEL curricula can improve academic performance, including learning to read](sel-curricula-improve-academic-performance.md) — related
 - [Students reported statistically significant pre-post improvements in attitudes about learning after the summer ed-tech programs](summer-edtech-attitude-gains-significant.md) — a narrower finding that bears on this claim
+- [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — related
+- [Decades of research show SEL benefits student well-being, academic performance, attendance, graduation rates, and future success](sel-decades-of-research-benefits.md) — a broader claim this one bears on

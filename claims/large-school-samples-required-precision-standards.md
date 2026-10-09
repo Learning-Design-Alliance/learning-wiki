@@ -52,3 +52,4 @@ Theoretical and empirical power analysis for experimental education evaluations,
 - [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](power-limited-to-large-site-subgroups.md) — related
 - [Precision standards for education impact estimates are discussed for standardized test scores of elementary school students](precision-standards-elementary-test-scores.md) — related
 - [Required numbers of schools differ across school, classroom, and student random-assignment designs](required-schools-vary-by-assignment-level.md) — a narrower finding that bears on this claim
+- [Results for high school achievement are less clear because data limitations precluded a credible impact analysis](dc-high-school-results-inconclusive-data-limitations.md) — related

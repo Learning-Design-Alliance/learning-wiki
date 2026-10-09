@@ -54,6 +54,7 @@ MAP Reading Fluency is "an adaptive online assessment that supports students on 
 - [Spanish MAP Reading Fluency Foundational Skills assessment](spanish-map-reading-fluency-foundational-skills-assessment.md)
 - [Spanish MAP Reading Fluency adaptive oral reading assessment](spanish-map-reading-fluency-assessment.md)
 - [MAP Reading Fluency Adaptive Oral Reading default form routing students to Oral Reading Fluency or Foundational Skills tracks](map-reading-fluency-adaptive-oral-reading-routing.md)
+- [MAP Reading Fluency adaptive oral reading fluency assessment with dyslexia screener and progress monitoring](map-reading-fluency-adaptive-assessment-element.md)
 
 ## Examples
 

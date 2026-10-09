@@ -53,3 +53,4 @@ The Chicago teacher mobility study (The Schools Teachers Leave) found work envir
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related
 - [In schools characterized by high relational trust, educators were more likely to experiment with new practices and work together with parents to advance improvements](high-relational-trust-educators-experiment-and-partner-with-parents.md) — related
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related
+- [The Cultivate Survey's impact question indicates whether students experience authentic voice and influence in school improvement](cultivate-impact-question-authentic-voice.md) — related

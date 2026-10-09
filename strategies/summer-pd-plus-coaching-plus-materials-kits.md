@@ -52,6 +52,8 @@ The article's implementation model pairs a 2-week summer training session with o
 - [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
 - [Add ongoing professional development and increased support for EL students when implementing IXL Math](ixl-math-ongoing-pd-and-el-support.md)
 - [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
+- [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
+- [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 
 ## Examples
 -

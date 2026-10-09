@@ -48,7 +48,8 @@ Financial incentives for teen parents are components of state welfare programs i
 - [The WWC rated financial incentives for teen parents as potentially positive rather than positive for staying in school because only one study showed statistically significant positive outcomes in that domain](../claims/wwc-potentially-positive-rating-staying-in-school.md) [+W]
 
 ## Related Elements
-- 
+
+- [New Chance: a two-phase education and employment program for young welfare mothers who dropped out of school](new-chance-program-young-welfare-mothers.md)
 
 ## Examples
 -

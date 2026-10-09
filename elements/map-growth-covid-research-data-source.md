@@ -49,6 +49,7 @@ The page situates the technical appendix within NWEA's portfolio of research usi
 - [MAP Growth assessments as the data source for pandemic learning-loss analysis](map-growth-assessment-pandemic-recovery-data.md)
 - [NWEA COVID-19 learning-loss research series on seasonal learning patterns and equity](nwea-covid-learning-loss-research-series.md)
 - [NWEA MAP Growth interim assessments](nwea-map-growth-interim-assessments-element.md)
+- [Technical appendix documenting dashboard data, sample, and methods](map-growth-dashboard-technical-appendix.md)
 
 ## Examples
 -

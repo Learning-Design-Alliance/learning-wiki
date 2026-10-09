@@ -49,6 +49,7 @@ The evaluation team's conceptual framework describes how intermediaries create a
 
 - [Equity-centered strategic learning as an organizational capacity framework](equity-centered-strategic-learning-framework.md)
 - [Equity-centered strategic learning as a four-part organizational capability](equity-centered-strategic-learning-definition.md)
+- [Network-based continuous improvement in education](network-based-continuous-improvement-education.md)
 
 ## Examples
 

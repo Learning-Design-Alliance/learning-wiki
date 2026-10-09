@@ -74,9 +74,11 @@ This creates a genuine tension for teachers, who must evaluate students' learnin
 - [Transfer of Learning](transfer-of-learning.md) — divergent, abstraction-oriented thinking is also one of the general mechanisms that supports transfer
 
 ## Examples
+
 - A teacher who must test students' vocabulary understanding can still set aside separate time for students to write poems or invent word games with the same vocabulary, supporting both mastery and creative exploration.
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](../strategies/student-owned-portfolios-maker-assessment.md)
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](../strategies/three-part-rubric-maker-assessment.md)
+- [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](../strategies/discourage-mental-offloading-balance-guidance-application.md)
 
 ## Key Sources
 - Gardner, H. (1993). *Creating minds: An anatomy of creativity seen through the lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi*. Basic Books.

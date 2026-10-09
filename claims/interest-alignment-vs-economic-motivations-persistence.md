@@ -46,3 +46,4 @@ ANOVA tests of survey-rated motivations across the three persistence groups (524
 - [Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase](job-and-pay-largest-apprenticeship-barriers.md) — related
 - [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — related
 - [Adult training yields better results the more closely it is related to a real job or occupation](employer-relevant-training-improves-adult-outcomes.md) — related
+- [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related
