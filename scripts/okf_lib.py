@@ -10,6 +10,7 @@ bundle-relative markdown links (`[Label](/folder/slug.md)`) instead of Obsidian
 wikilinks.
 """
 
+import json
 import re
 from datetime import date
 from pathlib import Path
@@ -398,10 +399,69 @@ def relative_link(name: str, target_folder: str, from_folder: str | None) -> str
     return f"[{name}]({to_relative(f'/{target_folder}/{slug}.md', from_folder)})"
 
 
+def dump_json_records(obj, depth: int = 2) -> str:
+    """JSON for a large generated index: mappings and lists laid out one entry per line
+    down to `depth` levels, each entry below that compact on its line. The same value
+    json.dumps(obj, sort_keys=True) gives, so readers are unaffected, at a fraction of
+    indent=1's size, and a page that changes still changes only its own line."""
+    def c(v):
+        return json.dumps(v, sort_keys=True, separators=(",", ":"), ensure_ascii=False)
+
+    def lay(v, d):
+        if d == 0 or not isinstance(v, (dict, list)) or not v:
+            return c(v)
+        if isinstance(v, list):
+            return "[\n" + ",\n".join(lay(x, d - 1) for x in v) + "\n]"
+        return "{\n" + ",\n".join(f"{c(k)}:{lay(v[k], d - 1)}" for k in sorted(v)) + "\n}"
+    return lay(obj, depth) + "\n"
+
+
+LOG_ARCHIVE = WIKI_ROOT / "log"
+_LOG_DAY = re.compile(r"^## (\d{4}-\d{2})-\d{2}\s*$", re.M)
+
+
+def rotate_log(today: "date | None" = None) -> list:
+    """Move every month but the current one out of log.md into log/YYYY-MM.md.
+
+    log.md had reached 5.3 MB (3 MB of it the first nine days of October 2026, one
+    bullet per page a batch writes), which every batch rewrote and the docs site
+    rendered as one page. log.md keeps the current month; each earlier month is a
+    file of its own, newest day first, with its links made relative to log/. A month
+    already archived gains the moved days above what it holds. Returns the months moved."""
+    log_path = WIKI_ROOT / "log.md"
+    text = log_path.read_text(encoding="utf-8")
+    current = (today or date.today()).isoformat()[:7]
+    starts = [m for m in _LOG_DAY.finditer(text)]
+    if not starts:
+        return []
+    head = text[:starts[0].start()]
+    keep, moved = [], {}
+    for i, m in enumerate(starts):
+        end = starts[i + 1].start() if i + 1 < len(starts) else len(text)
+        section = text[m.start():end].rstrip("\n") + "\n"
+        if m.group(1) == current:
+            keep.append(section)
+        else:
+            moved.setdefault(m.group(1), []).append(section)
+    if not moved:
+        return []
+    LOG_ARCHIVE.mkdir(exist_ok=True)
+    folders = "|".join(re.escape(f) for f in CONTENT_FOLDERS + ["sources", "observations", "research"])
+    for month, sections in moved.items():
+        body = re.sub(rf"\]\((?=(?:{folders})/)", "](../", "\n".join(sections))
+        path = LOG_ARCHIVE / f"{month}.md"
+        title = f"# Wiki Log, {month}\n\nArchived from log.md by okf_lib.rotate_log(); newest day first.\n\n"
+        old = path.read_text(encoding="utf-8")[len(title):] if path.exists() else ""
+        path.write_text(title + body + ("\n" + old if old.strip() else ""), encoding="utf-8")
+    log_path.write_text(head + "\n".join(keep), encoding="utf-8")
+    return sorted(moved)
+
+
 def append_log_entries(bullet_lines: list) -> None:
     """Insert one or more '* **Op**: ...' bullets under today's '## YYYY-MM-DD'
     heading in log.md (OKF's date-grouped, newest-first log convention),
     creating that heading if this is the first entry logged today."""
+    rotate_log()
     log_path = WIKI_ROOT / "log.md"
     text = log_path.read_text(encoding="utf-8")
     today = date.today().isoformat()

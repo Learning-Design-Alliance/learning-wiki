@@ -34,6 +34,9 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+import okf_lib  # noqa: E402
+
 WIKI_ROOT = Path(__file__).parent.parent
 OUT_PATH = WIKI_ROOT / "reverse-index.json"
 
@@ -122,7 +125,7 @@ def main() -> None:
     args = ap.parse_args()
 
     data = build()
-    rendered = json.dumps(data, indent=1, sort_keys=True) + "\n"
+    rendered = okf_lib.dump_json_records(data, depth=3)
 
     if args.check:
         if not OUT_PATH.exists():

@@ -279,7 +279,7 @@ def build_root_index(counts: dict) -> str:
         "",
         "## Quick navigation",
         "",
-        "* [Ingest & edit log](log.md)",
+        "* [Ingest & edit log](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/log.md) (current month; earlier months in `log/`)",
         "* [Schema & agent guide](CLAUDE.md)",
         "",
         "## How to use this wiki",
@@ -398,8 +398,10 @@ def main():
     print()
     # evidence.md is the third: its tables count the claims and their citations.
     for generated in ("build_reverse_index.py", "build_wiki_index.py", "build_evidence_report.py"):
+        # check=True: a generator that crashes must stop the run, not leave last
+        # run's file in place looking current (build_reverse_index, 2026-10-09).
         subprocess.run([_sys.executable, str(Path(__file__).parent / generated)],
-                       cwd=str(WIKI_ROOT))
+                       cwd=str(WIKI_ROOT), check=True)
 
     print(f"\nDone. {total_pages} content pages across {len(PAGE_TYPES)} types.")
 
