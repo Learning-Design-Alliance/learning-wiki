@@ -16,7 +16,17 @@ So ingest now appends each principle or pattern contribution here, and
     new      a general idea no canonical page or open candidate covers: it waits
     design   a design for one setting (the settled rule: never a pattern)
     drop     too thin to be a page: it restates one finding, or is an opinion
+    artifact a named product, tool, dataset, instrument or programme framework (an
+             element or theory candidate only): recorded, no page written, until the
+             wiki has a kind for them (maintainer's decision, open 2026-10-09)
     promoted written (or converted) as a canonical page by an agent; settled
+
+Elements and theories joined the ledger on 2026-10-09: batches were writing about 0.7
+element and 0.4 theory pages an article, one page per source, mostly a product,
+programme or one paper's framework ("REACH teacher evaluation system", "Chicago's
+three-pronged theory of change"). Links the same article's claims and strategies make
+to such a candidate are kept by ingest and resolved by settle: to the canonical page
+it attaches to, to the design page it becomes, or unlinked.
 
 A candidate may also be an existing page (`origin: page`, id `page:<kind>/<slug>`): the
 batch-written principles and patterns from before the ledger that were not folded into a
@@ -43,14 +53,16 @@ WIKI_ROOT = Path(__file__).parent.parent
 LEDGER_DIR = WIKI_ROOT / "eval" / "candidates"
 CANDIDATES = LEDGER_DIR / "candidates.ndjson"
 DECISIONS = LEDGER_DIR / "decisions.ndjson"
-CANDIDATE_TYPES = ("principle", "pattern")
-OUTCOMES = ("attach", "join", "new", "design", "drop", "promoted")
+CANDIDATE_TYPES = ("principle", "pattern", "element", "theory")
+OUTCOMES = ("attach", "join", "new", "design", "artifact", "drop", "promoted")
 # Decisions after which a candidate is settled and never re-asked. `new` and `join`
 # stay open: a later batch may bring the canonical page or the second source.
-SETTLED = ("attach", "design", "drop", "promoted")
+SETTLED = ("attach", "design", "artifact", "drop", "promoted")
 FIELDS = ("type", "slug", "title", "description", "requirements", "constraints",
           "target_learners", "target_learning_goals", "claims_cited", "related",
-          "theory_supporting", "examples", "key_sources", "grain_size")
+          "theory_supporting", "examples", "key_sources", "grain_size",
+          # elements and theories
+          "affordances", "context", "target_learning_objectives", "implications")
 
 
 def candidate_id(article_id: str, ctype: str, slug: str) -> str:

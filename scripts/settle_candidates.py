@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-settle_candidates.py — decide what each principle or pattern candidate becomes.
+settle_candidates.py — decide what each principle, pattern, element or theory candidate becomes.
 
 Pass 2 of the candidate process (candidates_lib.py has the why). Ingest puts every
 principle and pattern an extraction proposes into eval/candidates/candidates.ndjson
@@ -38,6 +38,15 @@ whose attached claims test their relationship, for an agent to update.
 Canonical pages are the principles and patterns the 2026-10-02 triage classed as
 canonical (eval/page-triage/triage.tsv), plus every page converted since.
 
+Elements and theories (2026-10-09) are decided the same way against their own
+canonical index: every element or theory page no batch wrote (the curated ones),
+plus any batch page ten or more pages link to. Two more outcomes apply to them:
+"design" for a named programme for one setting (the settled rule: designs/), and
+"artifact" for a product, tool, dataset, instrument or one programme's framework,
+which is recorded and written nowhere until the wiki has a kind for it. After the
+decisions, links the source's own pages make to the candidate are resolved: to the
+page it attaches to, to its design page, or unlinked (resolve_links).
+
     python3 scripts/settle_candidates.py                    # settle open candidates (dry run)
     python3 scripts/settle_candidates.py --apply            # and write attachments and designs
     python3 scripts/settle_candidates.py --report           # clusters, promotions, update queue
@@ -68,6 +77,9 @@ import okf_lib  # noqa: E402
 import search_index  # noqa: E402
 
 TRIAGE = WIKI_ROOT / "eval" / "page-triage" / "triage.tsv"
+FAMILY = {"principle": "pp", "pattern": "pp", "element": "elements", "theory": "theories"}
+FAMILY_FOLDERS = {"pp": ("principles", "patterns"), "elements": ("elements",), "theories": ("theories",)}
+ET_CANON_INBOUND = 10   # a batch-written element or theory this many pages link to is canonical
 FURTHER = "Further evidence, not yet read against this model"
 CONVERTED_MARK = "\n## " + FURTHER  # every converted page has it; the other headings vary by wave
 SYSTEM = "You organise a learning-design wiki. Reply with one JSON object and nothing else."
@@ -117,6 +129,53 @@ Reply: {{"outcome": "...", "n": <number or letter or null>, "why": "one sentence
  "claims": [{{"k": <claim number>, "bears": true, "marker": "+W", "tests": false}}]}}"""
 
 
+ET_PROMPT = """A learning-design wiki keeps ONE canonical page per general {kind}. {what} Extraction read one
+article and proposed the CANDIDATE below as a new {kind} page. Most such proposals restate a canonical page in
+one source's words, or name something that is not a general {kind} at all. Decide what it becomes.
+
+CANDIDATE [{ctype}] from {source}
+Title: {title}
+{description}
+{extra}
+Claims it cites:
+{claims}
+
+CANONICAL PAGES nearest by text (numbers refer to the full CANONICAL INDEX in the system message):
+{canon}
+
+OPEN CANDIDATES (proposed from other sources, not yet pages):
+{open}
+
+Outcomes:
+- "attach": the candidate is a canonical page's {kind}, a variant of it, or a narrower case of it, so its
+  evidence belongs on that page. Give "n", the page's number in the CANONICAL INDEX. Check the whole index.
+  Prefer attach whenever a reader of that page should see this source.
+- "join": no canonical page fits, but an open candidate is the same general {kind}. Give "n", its letter.
+- "new": a general {kind}, used or studied beyond this one source, that no index page covers. Name the
+  closest index page in "why" and say what it lacks.
+- "design": a specific course, programme or intervention for one setting or population (a named programme).
+- "artifact": a named product, tool, platform, dataset, survey, test or measurement instrument, or one
+  programme's or organisation's own framework, model, rubric or theory of change.
+- "drop": not a page: it restates one empirical finding (that is a claim), or is too vague to act on.
+
+For "attach" only, judge each of the candidate's claims against THAT page: "bears" (is the claim directly
+about the page's {kind}?), "marker" (+ supports or illustrates it, ~ depends on conditions, - counts against
+it; then S/M/W from the claim's evidence line, e.g. "+W"), and "tests" (does the claim test the page's central
+idea, as opposed to illustrating it?). A null, non-significant or "no difference" result is never "+".
+Reply: {{"outcome": "...", "n": <number or letter or null>, "why": "one sentence",
+ "claims": [{{"k": <claim number>, "bears": true, "marker": "+W", "tests": false}}]}}"""
+
+ET_WHAT = {
+    "elements": ("instructional element",
+                 "An element is a general building block of instruction (worked examples, feedback, a "
+                 "rubric, a simulation, peer tutoring), reusable across courses and domains."),
+    "theories": ("learning theory",
+                 "A theory is a general explanatory framework of how people learn or are taught "
+                 "(cognitive load theory, self-determination theory), not one study's model or one "
+                 "programme's theory of change."),
+}
+
+
 # ---------------------------------------------------------------- canonical pages
 
 def canonical_keys() -> set:
@@ -128,6 +187,15 @@ def canonical_keys() -> set:
     for folder in ("principles", "patterns"):
         for p in (WIKI_ROOT / folder).glob("*.md"):
             if p.stem != "index" and CONVERTED_MARK in p.read_text(encoding="utf-8"):
+                keys.add(f"{folder}/{p.stem}")
+    edges = json.loads((WIKI_ROOT / "reverse-index.json").read_text(encoding="utf-8"))["edges"]
+    for folder in ("elements", "theories"):
+        inbound = {s: sum(len(v) for v in d.values()) for s, d in edges.get(folder, {}).items()}
+        for p in (WIKI_ROOT / folder).glob("*.md"):
+            if p.stem == "index":
+                continue
+            head = p.read_text(encoding="utf-8")[:800]
+            if "process:wiki-ingest" not in head or inbound.get(p.stem, 0) >= ET_CANON_INBOUND:
                 keys.add(f"{folder}/{p.stem}")
     return keys
 
@@ -231,7 +299,7 @@ def short_source(cand: dict) -> str:
 def canon_neighbours(db, cand: dict, canon: set, k: int = 10) -> list:
     text = f"{cand.get('title', '')} {cand.get('description', '')}"
     found = []
-    for folder in ("principles", "patterns"):
+    for folder in FAMILY_FOLDERS[FAMILY.get(cand.get("type"), "pp")]:
         for r in search_index.query(db, text, folder=folder, limit=40, mode="OR"):
             key = f"{r[1]}/{r[2]}"
             if key in canon and key != cand.get("page"):
@@ -239,9 +307,10 @@ def canon_neighbours(db, cand: dict, canon: set, k: int = 10) -> list:
     return [k for _, k in sorted(found, key=lambda x: -x[0])[:k]]
 
 
-def system_prompt(index: list) -> str:
+def system_prompt(index: list, family: str = "pp") -> str:
     """The canonical index, the same in every call so the provider can cache it."""
-    return (SYSTEM + "\n\nCANONICAL INDEX (every canonical principle and pattern page):\n"
+    what = {"pp": "principle and pattern", "elements": "element", "theories": "theory"}[family]
+    return (SYSTEM + f"\n\nCANONICAL INDEX (every canonical {what} page):\n"
             + "\n".join(f"{i + 1}. [{r['folder'][:-1]}] {r['title']}" for i, r in enumerate(index)))
 
 
@@ -257,7 +326,11 @@ def decide(cand: dict, canon_recs: list, open_rows: list, api_key: str, model: s
         v = cand.get(f)
         if v:
             extra.append(f"{label}: " + "; ".join(map(str, v if isinstance(v, list) else [v]))[:300])
-    prompt = PROMPT.format(
+    family = FAMILY.get(cand.get("type"), "pp")
+    template = PROMPT if family == "pp" else ET_PROMPT
+    kind, what = ET_WHAT.get(family, ("", ""))
+    prompt = template.format(
+        kind=kind, what=what,
         ctype=cand.get("type", "principle"), source=short_source(cand), title=cand.get("title", ""),
         description=(cand.get("description") or "")[:900], extra="\n".join(extra),
         claims="\n".join(f"{i + 1}. {c['title']} [evidence: {c['evidence'] or 'none recorded'}]"
@@ -273,6 +346,8 @@ def decide(cand: dict, canon_recs: list, open_rows: list, api_key: str, model: s
             break
         except Exception:
             d = None
+    if isinstance(d, dict) and d.get("outcome") == "artifact" and family == "pp":
+        d["outcome"] = "drop"   # principles and patterns have no artifact outcome
     if not isinstance(d, dict) or d.get("outcome") not in cl.OUTCOMES:
         return {"id": cand["id"], "outcome": "error", "why": (gen.raw_text or "")[:200],
                 "cost_usd": gen.cost_usd}
@@ -360,14 +435,17 @@ def settle(cands: list, open_pool: list, model: str, concurrency: int) -> list:
             recs[k] = lp.record(k, pages[k])
         return recs[k]
 
-    index = [rec(k) for k in sorted(canon) if k in pages]
-    system = system_prompt(index)
+    indexes, systems = {}, {}
+    for family, folders in FAMILY_FOLDERS.items():
+        indexes[family] = [rec(k) for k in sorted(canon) if k in pages and k.split("/")[0] in folders]
+        systems[family] = system_prompt(indexes[family], family)
 
     def one(cand):
         db = sqlite3.connect(search_index.DB_PATH)
+        family = FAMILY.get(cand.get("type"), "pp")
         try:
             near = [rec(k) for k in canon_neighbours(db, cand, canon) if k in pages]
-            return decide(cand, near, sim.near(cand), api_key, model, index, system)
+            return decide(cand, near, sim.near(cand), api_key, model, indexes[family], systems[family])
         except Exception as e:
             return {"id": cand["id"], "outcome": "error", "why": f"{type(e).__name__}: {e}"[:300]}
         finally:
@@ -404,6 +482,57 @@ def write_attach(dec: dict, cand: dict) -> int:
         lp.insert(path, heads, bullet, FURTHER if converted else "Claims")
         n += 1
     return n
+
+
+_LINK = re.compile(r"\[([^\]]*)\]\(((?:\.\./[a-z-]+/)?([^)/#\s]+)\.md)(#[^)]*)?\)")
+
+
+def resolve_links(cand: dict, dec: "dict | None", source_pages: dict) -> int:
+    """Point the links an element or theory candidate's own source made to it (from that
+    article's claims and strategies, which ingest left as written) at what it became:
+    the canonical page it attaches to, the design page written for it, or, for any other
+    outcome or none, no link (the text stays). A slug that is a page anyway is left alone."""
+    folder = {"element": "elements", "theory": "theories"}.get(cand.get("type"))
+    slug = cand.get("slug")
+    if not folder or not slug or (WIKI_ROOT / folder / f"{slug}.md").exists():
+        return 0
+    target = None
+    if dec and dec.get("outcome") == "attach":
+        target = dec.get("target")
+    elif dec and dec.get("outcome") == "design" and dec.get("page"):
+        target = dec["page"][:-3]
+    n = 0
+    for rel in source_pages.get(cand.get("article_id"), []):
+        path = WIKI_ROOT / rel
+        if not path.exists():
+            continue
+        text = path.read_text(encoding="utf-8")
+
+        def fix(m):
+            nonlocal n
+            if m.group(3) != slug or (path.parent / m.group(2)).resolve() != (WIKI_ROOT / folder / f"{slug}.md").resolve():
+                return m.group(0)
+            n += 1
+            if not target or not (WIKI_ROOT / f"{target}.md").exists():
+                return m.group(1)
+            tf, ts = target.split("/")
+            dest = f"{ts}.md" if tf == path.parent.name else f"../{tf}/{ts}.md"
+            return f"[{m.group(1)}]({dest})"
+
+        out = _LINK.sub(fix, text)
+        if out != text:
+            path.write_text(out, encoding="utf-8")
+    return n
+
+
+def source_pages_by_article() -> dict:
+    """article id -> the pages its latest ingest wrote (sources/manifest.ndjson)."""
+    out = {}
+    for line in (WIKI_ROOT / "sources" / "manifest.ndjson").read_text(encoding="utf-8").splitlines():
+        m = json.loads(line)
+        if m.get("status") == "ingested" and m.get("pages"):
+            out[m["id"]] = m["pages"]
+    return out
 
 
 def write_design(cand: dict, actor: str) -> str | None:
@@ -709,11 +838,18 @@ def main() -> None:
                 d["page"] = path
                 designs += 1
     cl.append_decisions([d for d in decs if d["outcome"] != "error"])
+    # Every element or theory candidate settled this run, whatever its outcome (an error
+    # included), leaves no link to a page that does not exist.
+    by_id = {d["id"]: d for d in decs}
+    src = source_pages_by_article()
+    relinked = sum(resolve_links(c, by_id.get(c["id"]), src) for c in todo
+                   if c.get("type") in ("element", "theory"))
     if designs:
         import subprocess
         subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "add_type_banner.py"), "--apply"],
                        cwd=WIKI_ROOT, check=False)
-    print(f"applied: {attached} claim link(s) attached, {designs} design page(s) written; "
+    print(f"applied: {attached} claim link(s) attached, {designs} design page(s) written, "
+          f"{relinked} link(s) to element/theory candidates resolved; "
           f"decisions -> {cl.DECISIONS.relative_to(WIKI_ROOT)}")
     report(cands, cl.load_decisions())
 
