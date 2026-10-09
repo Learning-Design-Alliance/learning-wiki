@@ -47,7 +47,8 @@ A methodological artifact consisting of a series of simulation and empirical stu
 - [Four years of longitudinal social-emotional survey scores analyzed under competing IRT scoring models](four-years-longitudinal-sel-survey-scores-irt-scoring.md)
 
 ## Examples
--
+
+- [Compare growth estimates from IRT scoring models that do and do not account for response styles when evaluating longitudinal survey scores](../strategies/irt-scoring-with-and-without-response-styles.md)
 
 ## Key Sources
 - Megan Kuhfeld, James Soland. (2020). Avoiding bias from sum scores in growth estimates: An examination of IRT-based approaches to scoring longitudinal survey responses. Psychological Methods. https://doi.org/10.1037/met0000367

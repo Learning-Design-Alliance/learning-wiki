@@ -45,3 +45,4 @@ MFR analysis pooling both cohorts, defining high achievers as students scoring a
 ## Related Claims
 - [Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades](gender-gap-reverses-male-favored-elementary-math.md) — related
 - [Male-to-female ratios among high achievers tend to increase from fall to spring within each school year](mfr-increases-fall-to-spring-within-year.md) — related
+- [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](male-female-gap-conclusions-sensitive-to-test-effort.md) — related

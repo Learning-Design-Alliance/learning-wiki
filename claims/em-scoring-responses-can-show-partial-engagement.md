@@ -51,3 +51,7 @@ The article reports, citing a recent study, that responses used in E-M scoring "
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related
 - [Standard effort-moderated scoring accounts for roughly one-third of score distortion due to differential disengagement on low-stakes achievement tests](standard-em-scoring-one-third-distortion.md) — related
 - [The authors provide a method for identifying partial test-taking engagement, supported by validation evidence](method-identifying-partial-test-taking-engagement.md) — related
+- [Distortive effects of disengagement on school means were diluted by the high proportion of students exhibiting no non-effortful behavior](disengagement-diluted-by-engaged-majority.md) — related
+- [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — a broader claim this one bears on
+- [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
+- [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md) — related

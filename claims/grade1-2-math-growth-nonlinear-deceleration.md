@@ -48,3 +48,4 @@ Three-level hierarchical linear growth model with a quadratic term, fit by grade
 - [Over a quarter of variance in student growth lies at the school level, and 12-16% of schools significantly overperform average growth](school-level-growth-variation-overperformers.md) — related
 - [In Grade 3 only, higher initial fall status was associated with larger within-year growth, suggesting baseline gaps may widen](grade3-initial-status-positive-growth-correlation.md) — related
 - [Students who placed on or above grade level in Grade 1 showed accelerated second-half growth in Grade 3, while growth rates declined in all placement groups](grade3-accelerated-growth-on-above-grade-level.md) — related
+- [In the study data, mean spring grade-2 math RIT was 190.6 with linear spring-to-spring growth of 14.5 RIT, and mean fall-to-spring gain in grade-2 math was 13.4 RIT](grade2-math-growth-descriptives-cp-model.md) — related

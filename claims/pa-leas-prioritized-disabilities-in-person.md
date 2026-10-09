@@ -48,3 +48,4 @@ Survey of a representative sample of 200 Pennsylvania LEAs found that "Most stud
 - [In-person learning in Pennsylvania LEAs expanded as the 2020–2021 school year progressed](pa-leas-in-person-learning-expanded-2020-21.md) — related
 - [A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically](pandemic-academic-miss-evidence-review-series.md) — related
 - [Students with disabilities may have experienced disproportionate academic impacts from COVID-19, according to NWEA research](swd-disproportionate-covid-academic-impacts.md) — related
+- [Students with disabilities suffered disproportionately from reduced instructional time and disconnection from school communities during COVID-19](students-with-disabilities-disproportionately-hurt-by-covid-instructional-loss.md) — related

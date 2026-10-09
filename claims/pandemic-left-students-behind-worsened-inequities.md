@@ -47,3 +47,4 @@ This is the authors' interpretive conclusion drawn from their trend modeling of 
 - [NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading](post-covid-middle-school-reading-urgent-challenge.md) — related
 - [The lowest-performing middle school readers fell further behind during post-COVID recovery](lowest-performing-middle-school-readers-falling-further-behind.md) — a narrower finding that bears on this claim
 - [Post-COVID classrooms show increased academic diversity, with more students off-track and further behind grade-level proficiency](post-covid-classrooms-academically-diverse-more-students-off-track.md) — a narrower finding that bears on this claim
+- [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related

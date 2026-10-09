@@ -45,9 +45,11 @@ The study's data and analysis setup: four years of longitudinal survey scores on
 ## Related Elements
 
 - [Simulation and empirical comparison of scoring approaches for longitudinal survey growth estimation](simulation-empirical-scoring-approach-comparison.md)
+- [Longitudinal SEL dataset from a large urban district with about 3,000 students per timepoint](four-year-longitudinal-sel-dataset-urban-district.md)
 
 ## Examples
--
+
+- [Compare growth estimates from IRT scoring models that do and do not account for response styles when evaluating longitudinal survey scores](../strategies/irt-scoring-with-and-without-response-styles.md)
 
 ## Key Sources
 - James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. Multivariate Behavioral Research. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores-journal/

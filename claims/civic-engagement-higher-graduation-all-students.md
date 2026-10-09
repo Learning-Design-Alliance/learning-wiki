@@ -47,3 +47,4 @@ High school findings from the observational CPS analysis: school civic engagemen
 - [Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures](non-core-failures-graduation-risk.md) — related
 - [Non-test-based indicators such as graduation rates are poorly suited to stabilization models assuming normal distributions, which may impose excessive adjustments](non-test-based-indicators-poorly-suited-to-stabilization.md) — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
+- [Kindergarten entry-age effects do not differ by gender or race](entry-age-effects-no-gender-race-differences.md) — related

@@ -15,12 +15,14 @@ sources:
     author: Steven Wise
     q: 2
     i: "?"
+    kind: associational
+    rigour: "?"
 ---
 
 # Disengaged test-taking responses can distort the content representation of test items
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Disengaged responses on tests can distort item content representation, beyond their known effects on scores. [→ Steven Wise 2020](#steven-wise-2020)
@@ -31,7 +33,7 @@ sources:
 
 Steven Wise. (2020). The impact of test-taking disengagement on item content representation. NWEA Research brief. https://www.nwea.org/resources/the-impact-of-test-taking-disengagement-on-item-content-representation/
 
-`q2 · i?`
+`q2 · i?` · `associational · r?`
 
 The brief's own summary of the associated research states that "New research shows how disengaged responses can also distort content representation." No effect size, sample, or method details are printed in the brief text.
 
@@ -48,3 +50,6 @@ The brief's own summary of the associated research states that "New research sho
 - [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — related
 - [E-M scoring assumes the remaining responses are unaffected by disengagement, and this assumption can fail under partial engagement](em-scoring-assumes-remaining-responses-unaffected.md) — related
 - [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related
+- [Differential rapid guessing often resulted in test events with meaningfully distorted item content representation](differential-rapid-guessing-distorts-content-representation.md) — a narrower finding that bears on this claim
+- [Disengaged student responses raise the issue of whether engaged responses maintain the intended content representation](disengaged-responses-threaten-engaged-content-representation.md) — a narrower finding that bears on this claim
+- [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related

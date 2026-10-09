@@ -49,3 +49,4 @@ Statewide quasi-experimental analysis comparing matched charter students' one-ye
 - [Charter math disadvantage varies across growth periods and narrows over time, with no significant math difference in 2017-18](sc-charter-math-gap-narrows-over-growth-periods.md) — related
 - [About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform](sc-charter-school-quality-range-reading-math.md) — related
 - [Charter students' math disadvantage is concentrated in the first two growth periods, with performance similar to VCR peers by 2016-2017](pa-charter-math-gap-varies-by-growth-period.md) — related
+- [Charter school students perform consistently better on standardized mathematics achievement measures than traditional public school peers, with modest differences](charter-math-achievement-consistently-better-modest.md) — reports the opposite

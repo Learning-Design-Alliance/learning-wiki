@@ -49,3 +49,5 @@ Longitudinal analysis of two cohorts (8,361 and 9,325 students) tracked 2017-201
 - [Suspensions showed significant negative associations with math growth in grades 3-5, with increasingly negative effects](suspensions-negative-math-growth-upper-elementary.md) — related
 - [Boys regain the advantage in middle school STEM skills in post-COVID gender achievement gap trends](boys-regain-advantage-middle-school-stem-post-covid.md) — related
 - [A two-million-student MAP Growth sample was used to test whether gender gaps widened among low- and high-achieving students](two-million-student-map-growth-gender-gaps-achievement-levels.md) — related
+- [Female kindergarteners outscore males in math and reading at entry; the reading gap was stable while the small math gap narrowed slightly](gender-gaps-at-kindergarten-entry-2010-2017.md) — related
+- [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](male-female-gap-conclusions-sensitive-to-test-effort.md) — related

@@ -46,3 +46,4 @@ This is the brief's own conceptual argument for the Balance criterion, not a tes
 - [Fewer than 18% of 136 examined SEL frameworks explicitly reference culture and diversity](fewer-than-18-percent-sel-frameworks-reference-culture.md) — related
 - [Among specific student constructs, academic content, discipline issues, and interpersonal competencies were the most frequently measured outcomes in character education program studies](character-ed-most-measured-student-constructs.md) — related
 - [Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys](civic-competence-four-epistemological-components.md) — related
+- [Measuring SEL involves a tradeoff between measuring narrower discrete skills and measuring broader competencies](sel-measurement-narrow-skills-versus-broad-competency-tradeoff.md) — related

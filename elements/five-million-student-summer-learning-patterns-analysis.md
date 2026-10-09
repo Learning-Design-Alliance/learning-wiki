@@ -47,6 +47,8 @@ The paper bases its COVID-19 learning-loss projections partly on "analyses of ty
 - [Technical appendix documenting the projection methodology of the COVID-19 slide white paper](covid-slide-technical-appendix.md)
 - [NWEA research brief 'The COVID-19 slide' with associated working paper, presentation, and technical appendix](covid-slide-research-brief-element.md)
 - [NWEA COVID-19 learning-loss research series on seasonal learning patterns and equity](nwea-covid-learning-loss-research-series.md)
+- [The COVID-19 slide research brief and technical appendix on summer learning loss and school closures](covid-19-slide-research-brief-element.md)
+- [NWEA seminar presentation projecting COVID-19 learning loss and 2020-21 test score effects](kuhfeld-2020-covid-learning-loss-projection-presentation.md)
 
 ## Examples
 

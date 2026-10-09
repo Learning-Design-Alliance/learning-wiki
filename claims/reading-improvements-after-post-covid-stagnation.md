@@ -57,3 +57,4 @@ The listing's description of the Trends Snapshot report states that MAP Growth N
 - [NWEA reports a positive turn for U.S. reading achievement after a period of post-COVID stagnation](post-covid-reading-positive-turn-nwea.md) — possibly the same claim (merge candidate)
 - [NWEA reports historically underserved groups showed the largest reading gains from 2025 to 2026 as US reading turned positive after post-COVID stagnation](reading-gains-2025-2026-underserved-groups.md) — possibly the same claim (merge candidate)
 - [Historically underserved groups showed the largest reading gains from 2025 to 2026, per NWEA](underserved-groups-largest-reading-gains-2025-2026.md) — possibly the same claim (merge candidate)
+- [The COVID-19 pandemic impacted historically underserved students more severely than their peers](covid-impacted-historically-underserved-students-more-severely.md) — reports the opposite

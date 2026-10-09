@@ -47,9 +47,11 @@ SEDA is described as "the first data set to allow comparisons of district academ
 ## Related Elements
 
 - [NWEA MAP Growth vertically scaled assessment as a common comparison measure](map-growth-vertically-scaled-comparison-measure.md)
+- [SEDA measures of district educational opportunity](seda-district-educational-opportunity-measures.md)
 
 ## Examples
--
+
+- [Validate district-level opportunity measures against a common assessment](../strategies/validate-opportunity-measures-via-common-assessment.md)
 
 ## Key Sources
 - Megan Kuhfeld, Thurston Domina, Paul Hanselman. (2019). Validating the SEDA measures of district educational opportunities via a common assessment. AERA Open 5(2). https://www.nwea.org/research/publication/validating-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment/

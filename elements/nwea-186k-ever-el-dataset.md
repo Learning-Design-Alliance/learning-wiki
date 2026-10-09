@@ -40,6 +40,7 @@ The study leverages what the author calls "unique data that include 186,139 ever
 ## Related Elements
 
 - [Research-practice partnership dataset linking seven cohorts of test takers' demographic and English proficiency data to seven years of EL and SPED participation](nwea-el-sped-seven-cohort-linked-dataset.md)
+- [Years-as-EL student-level dataset from a California district (N = 41,343)](california-district-years-as-el-course-taking-dataset.md)
 
 ## Examples
 -

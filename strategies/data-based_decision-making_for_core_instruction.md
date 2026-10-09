@@ -83,6 +83,7 @@ DBDM operationalizes [Assessment for Learning](../principles/assessment-for-lear
 - [Formative Assessment](../patterns/formative-assessment.md) — the assessment principle DBDM enacts at the program level
 - [Direct Instruction](../patterns/direct-instruction.md) — a common Tier 1 core whose pacing and emphasis DBDM adjusts
 - [Weekly teacher team meetings to review each student's strengths, progress, and obstacles](barr-weekly-teacher-team-meetings.md)
+- [Begin improvement work by collecting data and close the cycle by evaluating progress](collect-data-then-evaluate-progress-cycle.md)
 
 ## Examples
 - **Response to Intervention (RTI)** — Tier 1 progress monitoring with decision rules (e.g., [DIBELS](https://dibels.uoregon.edu) benchmarks every 6–8 weeks) determines whether core instruction is sufficient or students need supplemental tiers [Fuchs & Fuchs, 2006].

@@ -67,3 +67,4 @@ Figure 2 reports the proportion of kindergarten students improving or maintainin
 - [Kindergarten math performance is lower in districts with more schools](district-size-negative-math-association.md) — related
 - [Low and Growing states have nearly identical average math scale scores, but students in Low states are more likely to improve or maintain grade level (64% vs. 60%)](low-vs-growing-states-grade-level-likelihood.md) — related
 - [No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth](no-significant-district-offerings-math-links.md) — related
+- [District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time](district-prek-enrollment-not-associated-entry-skills.md) — related

@@ -57,3 +57,4 @@ The brief's own description of its Spring 2025 findings states the data "highlig
 - [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](map-growth-reading-improvements-after-stagnation.md) — related
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — related
 - [U.S. reading achievement shows a positive turn after years of post-COVID stagnation, with the largest 2025-to-2026 reading gains among historically underserved groups](map-growth-reading-improvement-post-covid.md) — related
+- [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related

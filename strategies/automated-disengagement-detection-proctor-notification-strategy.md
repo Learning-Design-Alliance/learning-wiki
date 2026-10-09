@@ -39,6 +39,7 @@ During remote testing, build an engagement feature into the assessment that "aut
 ## Related Strategies
 
 - [Proctor Intervention for Rapid Guessing](proctor_intervention_for_rapid_guessing.md)
+- [Notify test proctors when students disengage so students give their best effort on testing day](notify-proctors-when-students-disengage.md)
 
 ## Examples
 -

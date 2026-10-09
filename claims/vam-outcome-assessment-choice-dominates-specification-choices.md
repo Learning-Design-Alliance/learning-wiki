@@ -50,3 +50,4 @@ Comparative analysis of specification choices in a northern state dataset. The a
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails](specification-differences-small-tail-changes.md) — related
 - [The Pittsburgh VAMs incorporate course-specific assessments, attendance, and course completion alongside state assessments](pittsburgh-vams-use-multiple-outcome-measures.md) — related
+- [Teacher value-added estimates are sensitive to the test scale on which they are computed](value-added-sensitive-to-test-scale.md) — related

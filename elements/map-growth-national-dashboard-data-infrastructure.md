@@ -47,7 +47,8 @@ MAP Growth is NWEA's assessment product, and the MAP Growth National Dashboard i
 - [MAP Growth National Dashboard as the data source for post-COVID recovery analysis](map-growth-national-dashboard-recovery-data.md)
 
 ## Examples
--
+
+- [Districts should design and implement data collection processes now to shape collective learning from ESSER interventions](../strategies/design-data-collection-for-collective-learning-esser.md)
 
 ## Key Sources
 - Megan Kuhfeld, Meredith Langi, Karyn Lewis. (2022). Technical appendix for: The widening achievement divide during COVID-19. NWEA Research. https://www.nwea.org/research/publication/technical-appendix-for-the-widening-achievement-divide-during-covid-19/

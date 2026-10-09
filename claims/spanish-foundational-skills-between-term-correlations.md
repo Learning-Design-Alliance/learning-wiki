@@ -50,3 +50,4 @@ Correlational analysis of norming-sample test events after listwise deletion (st
 - [Cross-term Foundational Skills scores were moderately correlated, with correlations ranging from 0.48 to 0.82 depending on domain and grade](foundational-skills-cross-term-moderate-correlations.md) — related
 - [Foundational Skills test scores generally increased across terms and grades, with less growth observed at higher grades](foundational-skills-scores-increase-across-terms-and-grades.md) — related
 - [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](true-score-correlations-above-090.md) — reports the opposite
+- [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related

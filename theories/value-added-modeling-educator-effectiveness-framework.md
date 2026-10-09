@@ -48,6 +48,7 @@ Value-added modeling is a statistical framework for estimating the contribution 
 - [Value-added identification of highest-performing teachers as the top 20 percent within district teacher pools](value-added-top-quintile-teacher-identification.md)
 - [Value-added measurement of teacher performance as the basis for defining highest-performing teachers](value-added-teacher-performance-measurement-nccee-brief.md)
 - [Value-added academic productivity indicator estimating each school's contribution to student learning from longitudinal test scores](value-added-academic-productivity-indicator-ccsr.md)
+- [The learning productivity measurement system as a framework for using student and school descriptive indicators of learning progress](learning-productivity-measurement-system-framework.md)
 
 ## Examples
 

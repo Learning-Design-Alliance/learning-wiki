@@ -45,6 +45,7 @@ The brief recommends that decisions about supporting students' academic growth a
 - [Use NAEP 2024 results, available January 2025, for better estimates of academic recovery](naep-2024-preferred-recovery-estimates.md)
 - [Use multiple evidence sources alongside benchmark scores when identifying students for intensive intervention](combine-screening-benchmarks-with-other-risk-factors.md)
 - [Educational leaders should examine demographic shifts in the tested student population before making growth and recovery support decisions](consider-demographic-shifts-in-tested-students-decisions.md)
+- [Include a district leader's perspective on supporting returning students in recovery planning](district-leader-perspective-recovery-planning.md)
 
 ## Examples
 -

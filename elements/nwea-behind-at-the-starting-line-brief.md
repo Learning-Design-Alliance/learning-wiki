@@ -48,7 +48,8 @@ A research brief by NWEA's research team (Megan Kuhfeld, Karyn Lewis, Emily Mort
 - [NWEA technical appendix for the Behind at the Starting Line research brief](nwea-behind-starting-line-technical-appendix.md)
 
 ## Examples
--
+
+- [Use kindergarten-entry test data for early identification so educators can intervene before third grade](../strategies/early-identification-kindergarten-intervention-before-third-grade.md)
 
 ## Key Sources
 - Megan Kuhfeld, Karyn Lewis, Emily Morton. (2026). Behind at the starting line: What Kindergarten test scores tell us about reaching proficiency in 3rd grade. NWEA Research brief. https://www.nwea.org/research/publication/behind-at-the-starting-line-what-kindergarten-test-scores-tell-us-about-reaching-proficiency-in-3rd-grade/

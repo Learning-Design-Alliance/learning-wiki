@@ -43,7 +43,8 @@ The brief situates rural achievement within an equity framing and connects it to
 - [Black–White achievement gaps widen during the school year in both rural and nonrural schools](../claims/black-white-gaps-widen-during-school-year-rural-and-nonrural.md) [+W]
 
 ## Related Theories
-- 
+
+- [Seasonal learning patterns and summer loss as an accountability-relevant phenomenon](seasonal-learning-summer-loss-accountability-framework.md)
 
 ## Examples
 

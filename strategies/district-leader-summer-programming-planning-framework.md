@@ -41,6 +41,7 @@ The brief offers district leaders a set of recommendations organized as a framew
 ## Related Strategies
 
 - [Offer scalable summer school as a post-pandemic academic recovery intervention for districts](scalable-summer-school-post-pandemic-recovery-strategy.md)
+- [Include a district leader's perspective on supporting returning students in recovery planning](district-leader-perspective-recovery-planning.md)
 
 ## Examples
 -

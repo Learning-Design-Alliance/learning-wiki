@@ -46,3 +46,4 @@ The study of the Spring 2019 state summative assessment found subgroup differenc
 - [Disengagement has a material impact on individual state summative test scores, though its impact on score aggregations may be relatively minor](disengagement-material-individual-scores-minor-aggregations.md) — related
 - [Disengaged test taking materially impacts individual state summative test scores but may have relatively minor impact on score aggregations](disengagement-material-individual-summative-scores-minor-aggregations.md) — related
 - [A meaningful percentage of Grade 8 state summative test events showed rapid guessing, varying by subject: 5.5% in mathematics, 6.7% in ELA, and 3.5% in science](rapid-guessing-state-summative-grade8-subject-rates.md) — related
+- [Disengaged test-taking rates varied greatly by subgroup, grade, and term in this sample](disengagement-rates-vary-subgroup-grade-term.md) — a narrower finding that bears on this claim

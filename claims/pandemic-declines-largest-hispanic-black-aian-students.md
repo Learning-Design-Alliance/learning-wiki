@@ -48,3 +48,4 @@ Subgroup analysis of the MAP Growth observational dataset comparing 2021-22 achi
 - [Middle school achievement declines in spring 2022 appear to be mostly unchanged from earlier pandemic levels](middle-school-declines-mostly-unchanged-2022.md) — related
 - [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
 - [American Indian and Alaska Native, Black, and Latinx students and students in high-poverty schools were disproportionately impacted by pandemic-era achievement declines, particularly in elementary grades](covid-2020-21-disproportionate-impacts-racialized-high-poverty.md) — possibly the same claim (merge candidate)
+- [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related

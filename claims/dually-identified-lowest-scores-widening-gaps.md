@@ -55,3 +55,4 @@ Achievement trajectories plotted in Figure 2 for the kindergarten cohort show du
 - [In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss](el-reading-graded-growth-pattern-summer-loss.md) — related
 - [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — a broader claim this one bears on
 - [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related
+- [Ignoring summer loss changes which schools are identified as low performers](ignoring-summer-loss-changes-low-performer-identification.md) — related

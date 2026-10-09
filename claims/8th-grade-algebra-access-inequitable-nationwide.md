@@ -52,3 +52,4 @@ The brief's own description states its central finding: access to early Algebra 
 - [A NWEA research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) — related
 - [An NWEA study using nationwide MAP Growth scores examines how many students ready for Algebra enrolled in 8th grade and how outcomes differed for students who were or were not ready](algebra-8th-grade-placement-readiness-enrollment-outcomes.md) — related
 - [Taking Algebra in 8th grade instead of 9th grade raises questions of readiness and enrollment that NWEA examined with nationwide MAP Growth data](algebra-placement-8th-versus-9th-grade-outcomes.md) — related
+- [Prior studies find significant course access gaps between ELs and non-ELs](prior-studies-el-non-el-course-access-gaps.md) — a narrower finding that bears on this claim

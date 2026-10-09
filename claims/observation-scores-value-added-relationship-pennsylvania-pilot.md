@@ -47,3 +47,4 @@ The report's own summary states that it examines whether teachers with higher cl
 - [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](fft-vam-correlations-positive-019-022.md) — a narrower finding that bears on this claim
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [Phase 1 of the Pennsylvania evaluation pilot produced value-added estimates of teacher and principal contributions to student achievement growth](phase-1-pennsylvania-value-added-estimates-produced.md) — related
+- [Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP](federal-policy-growth-modeling-requirements-nclb-rttp.md) — related

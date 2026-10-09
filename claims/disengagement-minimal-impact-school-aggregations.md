@@ -48,3 +48,4 @@ Analysis of the Spring 2019 state summative assessment found that score aggregat
 - [A meaningful percentage of Grade 8 state summative test events showed rapid guessing, varying by subject: 5.5% in mathematics, 6.7% in ELA, and 3.5% in science](rapid-guessing-state-summative-grade8-subject-rates.md) — related
 - [Two decades of research have produced advances in both the measurement of test-taking disengagement and understanding of its distortive impact on individual and aggregated scores](disengagement-research-advances-measurement-and-impact.md) — related
 - [School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions](school-officials-use-aggregate-scores-for-monitoring.md) — related
+- [Even a small amount of rapid-guessing behavior can impact institutional rankings](small-rapid-guessing-impacts-institutional-rankings.md) — reports the opposite

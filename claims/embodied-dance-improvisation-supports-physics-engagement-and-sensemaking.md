@@ -56,3 +56,4 @@ This is exploratory, proof-of-concept research (the authors' own characterizatio
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [A playful embodied pedagogy tends to make transformative learning affirming and may promote less catastrophic responses to disorientation](playful-pedagogy-less-catastrophic-responses.md) — related
 - [A teacher's awareness of why a learning object must be treated in accordance with variation theory and embodiment promotes a more constructive and effective way to direct children's learning](variation-embodiment-awareness-promotes-constructive-teaching-montessori.md) — related
+- [Learning styles impact teachers, pedagogy, student engagement, and assessment in K-12 education](learning-styles-impact-teachers-pedagogy-engagement-assessment.md) — related

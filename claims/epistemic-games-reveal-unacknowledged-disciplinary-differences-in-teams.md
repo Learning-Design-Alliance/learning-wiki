@@ -57,3 +57,4 @@ This is methodologically careful naturalistic research (q2-q3: peer-reviewed, sy
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
 - [Students believed interdisciplinary studio experiences would ease their transition into the workforce](studio-experience-prepares-students-for-workforce.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
+- [The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling](hpl-ii-integrative-multifield-designs.md) — related

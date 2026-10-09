@@ -81,3 +81,4 @@ In its Succeeding Systemically section, the digest asserts, drawing on the class
 - [An innovation and improvement space in local school communities brought forward new leaders](local-innovation-space-new-leaders.md) — related
 - [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — a narrower finding that bears on this claim
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](coherence-alignment-student-experience-supports.md) — a narrower finding that bears on this claim
+- [Assessment accommodations, once adopted, tend to feel transitional rather than fully equal parts of an assessment](accommodations-feel-transitional-not-fully-equal.md) — a narrower finding that bears on this claim

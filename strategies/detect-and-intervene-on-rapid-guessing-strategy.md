@@ -39,6 +39,7 @@ The article states that its findings on the state-like nature of rapid guessing 
 ## Related Strategies
 
 - [Proctor Intervention for Rapid Guessing](proctor_intervention_for_rapid_guessing.md)
+- [Use longitudinal disengagement findings to inform detection of rapid guessing and interventions to reduce its effect on observed achievement test scores](detect-and-intervene-on-rapid-guessing.md)
 
 ## Examples
 -

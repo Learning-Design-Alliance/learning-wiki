@@ -47,3 +47,5 @@ Convergent validity analysis comparing SEDA district growth estimates against es
 - [Small systematic discrepancies imply SEDA growth estimates may not generalize to MAP Growth-based estimates in some states](seda-growth-generalization-limited-some-states.md) — related
 - [SEDA and MAP Growth district growth estimates in ELA correlate at .82 (precision-adjusted)](seda-map-growth-ela-growth-correlation-082.md) — related
 - [SEDA growth estimates show a high degree of congruence with MAP Growth-based estimates overall](seda-map-growth-high-overall-congruence.md) — a broader claim this one bears on
+- [Validation research via a common assessment supports SEDA achievement scores](common-assessment-supports-seda-achievement-scores.md) — related
+- [SEDA growth estimates show differences from common-assessment-based estimates](seda-growth-estimates-show-differences.md) — related

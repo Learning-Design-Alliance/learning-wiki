@@ -47,3 +47,4 @@ This NWEA research brief, announced June 2020, asks "Does entering school older 
 - [The school-entry-age findings were produced with a multi-state regression discontinuity analysis covering academic growth through second grade](school-entry-age-multistate-regression-discontinuity-analysis.md) — possibly the same claim (merge candidate)
 - [Redshirted students' early-grade academic advantage over on-time peers fades as students move through school](redshirting-academic-advantage-short-lived.md) — a broader claim this one bears on
 - [Following the 2021-22 kindergarten cohort through third grade tested whether redshirted students showed academic advantages](redshirted-cohort-third-grade-outcomes.md) — related
+- [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — related

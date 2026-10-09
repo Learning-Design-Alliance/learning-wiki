@@ -50,6 +50,7 @@ The Consortium's academic productivity research uses a value-added approach in w
 - [Value-added modeling as a framework for measuring educator effectiveness](value-added-modeling-educator-effectiveness-framework.md)
 - [Value-added measurement of teacher performance as the basis for defining highest-performing teachers](value-added-teacher-performance-measurement-nccee-brief.md)
 - [Grade productivity profile framework: input, output, and learning-gain trends for each school grade](grade-productivity-profile-three-trends.md)
+- [The learning productivity measurement system as a framework for using student and school descriptive indicators of learning progress](learning-productivity-measurement-system-framework.md)
 
 ## Examples
 

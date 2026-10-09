@@ -37,7 +37,9 @@ The article recommends a set of actions for state boards of education: seek evid
 - School improvement planning, realistic goal setting, and use of improvement data
 
 ## Related Strategies
+
 - Malleability Predictive Validity Non Negotiable Indicator Criteria
+- [Use growth measures rather than achievement as the primary indicator of school effectiveness in ESSA accountability](growth-based-essa-accountability-for-low-achieving-schools.md)
 
 ## Examples
 -

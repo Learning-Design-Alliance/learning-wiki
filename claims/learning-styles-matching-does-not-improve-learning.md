@@ -121,3 +121,4 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 - [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](mi-lacks-empirical-theory-testing.md) — related
 - [Not all students would benefit from improving the same competencies, suggesting an individualized approach to education may be preferable to a one-size-fits-all approach](heterogeneous-competency-benefits-individualized-education.md) — related
 - [Preferences for visualizing predictions with metaphors were a matter of personal choice, with students wanting to choose their own metaphor](metaphor-preference-personal-choice.md) — related
+- [Learning styles have been used in education for classifying students by their preferences for taking in, processing, and demonstrating information](learning-styles-classify-student-preferences.md) — related

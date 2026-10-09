@@ -48,3 +48,4 @@ Figure 3 disaggregates percentile rank changes by school poverty level, with "hi
 - [First- and second-grade spring 2022 achievement in reading and math was lower than spring 2019 prepandemic achievement](early-elementary-spring-2022-achievement-below-2019.md) — related
 - [Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic](gender-and-school-poverty-moderate-pandemic-gains.md) — related
 - [The dashboard supports comparisons of achievement trends between student groups, including by school poverty level, with a recommendation to compare similar groups](student-group-comparisons-poverty-categories.md) — related
+- [School poverty (%FRL) accounts for about 50% of a school's median student achievement](frl-accounts-for-half-of-school-achievement.md) — related

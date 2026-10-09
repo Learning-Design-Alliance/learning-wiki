@@ -41,7 +41,8 @@ The article frames school entry age as a factor shaping academic growth through 
 - [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](../claims/school-entry-age-early-advantage-fades-by-later-grades.md) [+W]
 
 ## Related Theories
-- 
+
+- [Regression discontinuity embedded in a piecewise multilevel growth model for entry-age effects](rd-piecewise-growth-model-entry-age.md)
 
 ## Examples
 

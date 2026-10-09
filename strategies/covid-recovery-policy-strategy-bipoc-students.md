@@ -41,6 +41,7 @@ The report offers a set of policy recommendations meant to encompass a wide rang
 - [Use summer learning loss research to help educators, policy makers, and families plan for and address impacts of extended school closures](summer-loss-research-to-plan-closure-recovery.md)
 - [When planning for the school year during COVID-19, schools and districts should weigh public health factors alongside educational factors such as potential learning loss](reopening-planning-weigh-health-and-learning-loss.md)
 - [Use federal ESSER and IDEA funding to provide early intervention, extended school year support in the summer, and other evidence-based supports for students with disabilities](esser-idea-funding-swd-recovery-supports.md)
+- [Deploy federal recovery funding to support recovery, accelerate learning, and transform schools](deploy-federal-aid-recovery-acceleration.md)
 
 ## Examples
 -

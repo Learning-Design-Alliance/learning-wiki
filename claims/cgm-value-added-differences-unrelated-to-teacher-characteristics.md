@@ -48,3 +48,4 @@ Analysis of DCPS evaluation scores across the two methods for all teachers and t
 - [The paper tests two previously unevaluated VAM model variations: teacher-year level average peer characteristics and demographic variation in the lagged-achievement relationship](vam-two-novel-model-variations-tested.md) — related
 - [Using Colorado Growth Model growth percentiles in place of value added would have altered evaluation consequences for 14% of DCPS teachers](cgm-versus-value-added-changed-evaluation-14-percent-dcps.md) — related
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related
+- [Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP](federal-policy-growth-modeling-requirements-nclb-rttp.md) — related

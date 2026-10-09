@@ -49,3 +49,5 @@ The study's analysis of seasonal math and reading test scores reports that the l
 - [Policy decisions such as shortening or extending the school year require accurate estimates of within-year learning](school-year-policy-requires-accurate-within-year-growth-estimates.md) — related
 - [A seven-million-student K-8 dataset spanning fall, winter, and spring of 2016-17 was used to test within-year growth linearity](seven-million-student-three-season-dataset-growth-linearity.md) — related
 - [Seasonal growth patterns were examined with math and reading scores for over seven million K-8 students across three within-year test occasions](seven-million-students-three-seasonal-occasions.md) — related
+- [A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade](seasonal-analysis-2m-students-racial-ethnic-disparities-k-8.md) — related
+- [Seasonality affects estimates of school effectiveness](seasonality-affects-school-effectiveness-estimates.md) — related

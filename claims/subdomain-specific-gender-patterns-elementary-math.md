@@ -45,3 +45,4 @@ MANOVA-based subdomain analysis of Cohort 1 across Measurement and Data, Number 
 ## Related Claims
 - [Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades](gender-gap-reverses-male-favored-elementary-math.md) — related
 - [Gender differences within Puerto Rico were absent overall but appeared in single content areas: females scored higher in geometry and spatial sense at grade 4 in 2003 (5 points) and 2005 (4 points), and in data analysis and probability at grade 8 in 2005 (8 points).](pr-gender-differences-content-areas-favor-females.md) — related
+- [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](male-female-gap-conclusions-sensitive-to-test-effort.md) — related

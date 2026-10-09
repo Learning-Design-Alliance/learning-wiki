@@ -17,7 +17,7 @@ sources:
 # Effort-moderated (E-M) scoring: excluding rapid-guess responses from test scoring
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (6 for, 1 mixed, 3 against) · 6 studies (2 review, 2 design, 1 associational), `q2` · 0 of 6 report an effect size · 10 claims rest on one study
+> **Evidence** · 10 claims (6 for, 1 mixed, 3 against) · 6 studies (2 review, 2 associational, 2 design), `q2` · 0 of 6 report an effect size · 10 claims rest on one study
 
 ## Description
 Effort-moderated (E-M) scoring is a scoring approach for low-stakes tests in which "item responses classified as rapid guesses are identified and excluded from scoring." It addresses disengaged test taking, which the article describes as "a validity threat that is particularly prevalent with low‐stakes tests." The study evaluated it with achievement test data from quickly retested test takers showing differential disengagement.
@@ -50,7 +50,8 @@ Effort-moderated (E-M) scoring is a scoring approach for low-stakes tests in whi
 - [Disengaged test-taking responses can distort the content representation of test items](../claims/disengaged-responses-distort-item-content-representation.md) [+W]
 
 ## Related Elements
-- 
+
+- [Two techniques for accounting for test disengagement: sample removal and rapid-guess score adjustment](two-disengagement-accounting-techniques.md)
 
 ## Examples
 -

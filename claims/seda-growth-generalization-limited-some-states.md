@@ -47,3 +47,5 @@ Boundary condition stated in the abstract of the validity study: despite high ov
 - [SEDA growth estimates show a high degree of congruence with MAP Growth-based estimates overall](seda-map-growth-high-overall-congruence.md) — related
 - [SEDA and MAP Growth district growth estimates in mathematics correlate at .90 (precision-adjusted)](seda-map-growth-math-growth-correlation-090.md) — related
 - [SEDA and MAP Growth district growth estimates in ELA correlate at .82 (precision-adjusted)](seda-map-growth-ela-growth-correlation-082.md) — related
+- [Validation research via a common assessment supports SEDA achievement scores](common-assessment-supports-seda-achievement-scores.md) — related
+- [SEDA growth estimates show differences from common-assessment-based estimates](seda-growth-estimates-show-differences.md) — possibly the same claim (merge candidate)
