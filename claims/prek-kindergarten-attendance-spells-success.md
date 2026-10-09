@@ -52,3 +52,4 @@ The publication's own title and framing state that preschool and kindergarten at
 - [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](kindergarten-transition-difficulty-academic-risk.md) — related
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — a narrower finding that bears on this claim
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related

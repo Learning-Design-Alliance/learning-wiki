@@ -53,3 +53,4 @@ The page's description of the March 2026 Trend Snapshots brief states it "highli
 - [MAP Growth data show reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](map-growth-reading-improvements-post-covid.md) — related
 - [Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement](spring-2025-map-growth-modest-math-recovery.md) — related
 - [A NWEA brief highlights middle school reading as an urgent challenge in academic recovery, with evidence of post-COVID-19 declines among struggling adolescent readers](struggling-adolescent-readers-post-covid-declines-brief.md) — related
+- [The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery](nwea-visualization-state-level-covid-insights.md) — related

@@ -30,7 +30,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (3 for, 5 mixed, 1 against) · 19 studies (7 causal, 7 review, 4 quant-synthesis, 1 associational), `q2`–`q4` · 4 of 19 report an effect size · 3 claims rest on one study
+> **Evidence** · 10 claims (4 for, 5 mixed, 1 against) · 20 studies (8 review, 7 causal, 4 quant-synthesis, 1 associational), `q2`–`q4` · 4 of 20 report an effect size · 4 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Video Treatment Significant Macs Pre Post Gain](../claims/video-treatment-significant-macs-pre-post-gain.md) [+M]
+- [Combining voiced auditory descriptions with tactile graphics increased braille readers' likelihood of answering assessment items correctly](../claims/auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment.md) [+W] — attached 2026-10-09 from Steinbach (2022), which proposed "Provide BVI students with a mixed-representational, multi-sensory approach to mathematical materials"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

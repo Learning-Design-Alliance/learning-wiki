@@ -50,6 +50,7 @@ MAP Growth is NWEA's assessment used in this study as a common assessment agains
 - [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth-assessment-database.md)
 - [MAP Growth interim computer adaptive assessment system](map-growth-interim-cat-assessment.md)
 - [MAP Growth assessment data as the evidence base for national pandemic-recovery monitoring](map-growth-pandemic-recovery-data.md)
+- [MAP Growth: computer-adaptive, vertically scaled interim assessment on the RIT scale](map-growth-interim-assessment.md)
 
 ## Examples
 -

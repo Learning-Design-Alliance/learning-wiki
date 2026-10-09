@@ -12,7 +12,7 @@ generated:
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (6 for, 13 mixed, 2 against) · 11 studies (8 theoretical, 2 design, 1 review), `q1`–`q2` · 0 of 11 report an effect size · 21 claims rest on one study
+> **Evidence** · 22 claims (6 for, 14 mixed, 2 against) · 12 studies (8 theoretical, 2 design, 1 review, 1 associational), `q1`–`q2` · 0 of 12 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,7 @@ The earlier page cited no claim pages. These bear on neighbouring questions:
 - [Intersection point k0 of item difficulty and discriminating curves provides a data-driven item-deletion criterion](../claims/k0-intersection-item-deletion-criterion.md) [~W]: Chakrabartty (2021), a statistical item-deletion method illustrated on one 50-item test (`q2`, theoretical `r2`). It is the kind of statistical screening step 3 warns against for a criterion-referenced test; for a norm-referenced test it may fit.
 - [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer](../claims/test-scores-gate-gifted-program-entry.md) [~W] and [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](../claims/gifted-underrepresentation-diverse-students.md) [~W]: selection-gate outcomes, read against a fairness model on [Standardized Test Fairness and Bias](standardized-test-fairness-and-bias.md).
 - [Transcript grades are a blurred currency of performance information](../claims/transcript-grades-blurred-currency.md) [~W]: Fricke (1976), an argument (`q1`, theoretical `r2`) that grade inflation and Pass/Fail grading blur what a transcript reports; bears on step 12's reporting, not tested.
+- [Updated norms are heavily weighted toward 2021/22 pandemic-era performance, with lower norm-group performance than the prior norms](../claims/pandemic-weighted-norms-lower-performance.md) [~W] — attached 2026-10-09 from Wei He (2022), which proposed "Update achievement norms periodically with recent data and combine normative information with other evidence for high-stakes decisions".
 
 ## Objective and learner-valued goal
 

@@ -51,3 +51,4 @@ Projection analysis within the MAP Growth observational study: the brief project
 - [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
 - [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — related
 - [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — related
+- [The 2021-22 study investigated whether achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether there were initial signs of rebounding or recovery.](2021-22-gains-compared-to-pre-pandemic-trends-rebound-signs.md) — related

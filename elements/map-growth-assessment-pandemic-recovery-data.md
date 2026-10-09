@@ -48,6 +48,12 @@ MAP Growth is NWEA's assessment product whose scores supply the achievement and 
 - [MAP Growth National Dashboard as the data source for post-COVID recovery analysis](map-growth-national-dashboard-recovery-data.md)
 - [MAP Growth assessment scores as the achievement outcome data source](map-growth-scores-heat-study-outcome.md)
 - [Specialty Schools National Dashboard: interactive tool for achievement and growth patterns in US private and charter schools](specialty-schools-national-dashboard.md)
+- [MAP Growth computer-adaptive assessment and its national norms and dashboard](map-growth-assessment-element.md)
+- [NWEA MAP Growth assessment data as the measurement basis for COVID-19 learning-loss research](map-growth-covid-research-data-source.md)
+- [MAP Growth assessment and National Dashboard as the data infrastructure for NWEA COVID-recovery research](map-growth-national-dashboard-data-infrastructure.md)
+- [MAP Growth assessment and National Dashboard as data sources for NWEA COVID-recovery research](map-growth-national-dashboard-data-source.md)
+- [NWEA MAP Growth interim assessments](nwea-map-growth-interim-assessments-element.md)
+- [NWEA MAP Growth assessment as national data source for seasonal skill-growth analysis](nwea-map-growth-seasonal-inequality-data.md)
 
 ## Examples
 -

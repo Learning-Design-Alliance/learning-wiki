@@ -43,6 +43,7 @@ Symphony Math is a technology intervention program designed to help K-8 students
 ## Related Elements
 
 - [Pathblazer: supplemental online individualized intervention for struggling K–8 learners in mathematics and reading](pathblazer-online-intervention-element.md)
+- [KinderTEK: an iPad-delivered kindergarten mathematics intervention](kindertek-ipad-kindergarten-math-intervention.md)
 
 ## Examples
 

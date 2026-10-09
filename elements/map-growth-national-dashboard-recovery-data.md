@@ -41,6 +41,9 @@ The MAP Growth National Dashboard is the data source this research brief uses to
 - [MAP Growth National Dashboard](map-growth-national-dashboard.md)
 - [MAP Growth assessments as the data source for pandemic learning-loss analysis](map-growth-assessment-pandemic-recovery-data.md)
 - [Specialty Schools National Dashboard: interactive tool for achievement and growth patterns in US private and charter schools](specialty-schools-national-dashboard.md)
+- [NWEA MAP Growth assessment data as the measurement basis for COVID-19 learning-loss research](map-growth-covid-research-data-source.md)
+- [MAP Growth assessment and National Dashboard as the data infrastructure for NWEA COVID-recovery research](map-growth-national-dashboard-data-infrastructure.md)
+- [MAP Growth assessment and National Dashboard as data sources for NWEA COVID-recovery research](map-growth-national-dashboard-data-source.md)
 
 ## Examples
 -

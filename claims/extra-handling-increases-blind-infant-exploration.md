@@ -47,3 +47,4 @@ The report's section on adaptation-mastery in blind and partially seeing childre
 - [The review reports that one-year-olds' exploration covaries with attachment, occurring most when the mother is present](attachment-exploration-covariation-one-year-olds.md) — related
 - [Interventions can hasten one line of development without hastening others](interventions-hasten-one-line-not-others.md) — a broader claim this one bears on
 - [Stimulus change can selectively reinforce behaviors that produce change and elicit exploratory behavior](stimulus-change-reinforces-exploratory-behavior.md) — related
+- [Vision is not required for developing number sense and math skills in BVI learners](vision-not-required-for-number-sense-bvi.md) — related

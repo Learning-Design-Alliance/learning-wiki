@@ -47,3 +47,5 @@ The article reports an examination of rapid guessing prevalence on achievement t
 - [Rapid guessing did not appear to substantively affect teacher value-added estimates under the value-added specifications used](rapid-guessing-no-substantive-effect-value-added.md) — related
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related
+- [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
+- [A meaningful percentage of Grade 8 state summative test events showed rapid guessing, varying by subject: 5.5% in mathematics, 6.7% in ELA, and 3.5% in science](rapid-guessing-state-summative-grade8-subject-rates.md) — a narrower finding that bears on this claim

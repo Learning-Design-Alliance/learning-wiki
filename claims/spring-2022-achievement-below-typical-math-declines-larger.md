@@ -51,3 +51,4 @@ Observational comparison of spring 2022 MAP Growth achievement against a similar
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — a narrower finding that bears on this claim
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — related
+- [The 2021-22 study investigated how student achievement in spring 2022 compared to pre-pandemic levels.](spring-2022-achievement-compared-to-pre-pandemic-levels.md) — related

@@ -52,6 +52,7 @@ The 2025 MAP Growth Norms are a released set of national achievement and growth 
 - [2025 MAP Growth norms update with Enhanced Item Selection Algorithm (EISA) alignment](2025-map-growth-norms-eisa-update.md)
 - [Spanish Foundational Skills achievement and growth norms tables (grades K-3)](spanish-foundational-skills-norms-tables-k-3.md)
 - [MAP Growth interim computer adaptive assessment system](map-growth-interim-cat-assessment.md)
+- [NWEA 2020 MAP Growth Achievement Status and Growth Norms for Students and Schools](2020-map-growth-status-and-growth-norms.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Trend modeling of test scores from 4.9 million U.S. students in Grades 3 through
 - [Reading and math gains during 2020-21 were diminished compared to pre-pandemic trends, especially in the latter half of the school year](covid-2020-21-diminished-gains-latter-half-year.md) — related
 - [Students in grades 3-8 made reading and math gains in 2020-21 but ended the year with lower achievement than in a typical year, with larger declines in math than in reading](covid-2020-21-lower-achievement-larger-math-declines.md) — related
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related
+- [The Learning during COVID-19 research investigated whether 2020-21 school-year gains and spring 2021 achievement differed from pre-pandemic trends and levels in reading and math.](covid-2020-21-achievement-compared-pre-pandemic.md) — related

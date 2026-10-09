@@ -18,7 +18,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (25 mixed) · 14 studies (5 causal, 4 review, 3 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 14 report an effect size · 24 claims rest on one study
+> **Evidence** · 26 claims (1 for, 25 mixed) · 15 studies (5 causal, 4 review, 4 associational, 1 quant-synthesis, 1 theoretical), `q1`–`q3` · 2 of 15 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,7 @@ Claims found while rewriting, used in the default design or the situation table 
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge](../claims/verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) [~W] and [research on minority group testing has rarely examined alternative symbolic forms](../claims/minority-testing-research-neglects-alternative-symbolic-forms.md) [~W]: a 1986 review's contention and its note of a gap (`q1` and `q2`).
 - [Item purification made both DIF methods more sensitive, flagging more items](../claims/item-purification-increases-dif-detection-sensitivity.md) [~M], [the chi-square test for NC-DIF is overly sensitive at large sample sizes](../claims/nc-dif-chi-square-overly-sensitive-large-samples.md) [~M] and [Type I error rates of polytomous DIF indices increase with the number and magnitude of DIF items](../claims/dif-type-i-error-increases-with-dif-items-and-magnitude.md) [~M]: one examination and two simulation reports (`q2`). They show how much a DIF flag depends on analysis choices.
 - [Higher trait or induced anxiety is associated with smaller testing effects](../claims/higher-anxiety-is-associated-with-smaller-testing-effects.md) [~M], [a revised low-stress TBL format produced higher iSAT scores](../claims/low-stress-tbl-higher-isat-scores.md) [~M] and [medical students in the high-stakes TBL format perceived questions as less fair](../claims/high-stakes-tbl-questions-seen-harder-less-fair.md) [~M]: retrieval practice and team-based learning in health-professions courses, carried here only as signs that stakes and anxiety change scores and perceived fairness.
+- [Math assessment items can be classified as high-quality or low-quality for students with visual impairments based on whether they measure achievement equally well for students with and without VI](../claims/map-growth-item-quality-vi-classification.md) [+W] — attached 2026-10-09 from Kang Xue (2022), which proposed "Assess item quality for accessible math tests by checking whether items measure achievement equally well for students with and without visual impairments"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

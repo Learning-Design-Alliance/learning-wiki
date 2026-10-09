@@ -37,7 +37,8 @@ Districts with school choice systems, substantial student mobility, or both can 
 - Stable staffing and student assignments across the fall semester
 
 ## Related Strategies
-- 
+
+- [Adjust transition programs based on family suggestions: longer student sessions, better district-family communication, work-friendly parent sessions, and staffing continuity into fall](family-suggested-transition-program-improvements.md)
 
 ## Examples
 -

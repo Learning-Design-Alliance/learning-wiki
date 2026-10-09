@@ -37,7 +37,10 @@ This element is the NWEA Research brief of April 2020 by Megan Kuhfeld and Beth 
 - Understanding and projecting academic achievement impacts of extended school closures
 
 ## Related Elements
-- 
+
+- [Technical appendix documenting the projection methodology of the COVID-19 slide white paper](covid-slide-technical-appendix.md)
+- [Analysis of typical summer learning patterns of five million students as a basis for COVID-19 loss projections](five-million-student-summer-learning-patterns-analysis.md)
+- [NWEA COVID-19 learning-loss research series on seasonal learning patterns and equity](nwea-covid-learning-loss-research-series.md)
 
 ## Examples
 

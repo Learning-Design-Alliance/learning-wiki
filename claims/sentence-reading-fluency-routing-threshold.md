@@ -45,3 +45,4 @@ Design specification in the Test Forms section of the technical report describin
 ## Related Claims
 - [Adaptive routing and comprehension-based passage leveling structure the MAP Reading Fluency assessment](map-rf-adaptive-routing-and-passage-leveling.md) — related
 - [MAP Reading Fluency administered at scale, with 407,964 students receiving Foundational Skills scores and 277,920 receiving Oral Reading Fluency scores in 2020–2021](map-rf-2020-21-operational-scale.md) — related
+- [NWEA claims MAP Reading Fluency's mechanisms of change are hypothesized to lead to all students reading fluently with comprehension](map-rf-theory-action-overarching-goal.md) — related

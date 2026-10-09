@@ -46,3 +46,4 @@ The article describes prior research on the same platform using a between-group 
 - [Longitudinal within-student analysis of a mathematics mastery learning platform replicates positive effects on standardized math test scores](mastery-platform-longitudinal-positive-effects.md) — related
 - [Time-varying confounds (e.g., hiring a tutor, school policy changes) remain an uneliminated threat to the platform's estimated effects](time-varying-confounds-limit-platform-estimates.md) — related
 - [An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students](zearn-pilot-no-significant-differences.md) — related
+- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](platform-modality-no-relationship-cognitive-engagement.md) — related

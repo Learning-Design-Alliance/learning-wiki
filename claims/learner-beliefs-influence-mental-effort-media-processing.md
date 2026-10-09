@@ -69,3 +69,4 @@ A second review-attributed finding (Salomon & Leigh, in press) on predisposition
 - [Every medium favors certain symbol systems and cultivates different representational skills and mental operations](media-favor-specific-symbol-systems-and-skills.md) — related
 - [The medium of a story shapes children's apprehension: television highlights action, picture books figurative language, radio sound effects](media-symbol-biases-shape-story-apprehension.md) — related
 - [Transfer from instructional media is empirically possible but its probability under heavy real-world exposure remains unestablished](media-transfer-possible-but-probability-unestablished.md) — related
+- [Students' perceptions of interactions with their teacher lay the stage for future interactions and ultimately influence students' success in school](student-perceptions-stage-future-interactions-school-success.md) — related

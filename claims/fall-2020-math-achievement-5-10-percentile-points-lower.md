@@ -47,3 +47,4 @@ Analysis of MAP Growth assessment data from nearly 4.4 million students in grade
 - [Students showed lower math growth in fall 2020 across grades 3-8 relative to peers in the previous, more typical year](fall-2020-lower-math-growth-grades-3-8.md) — related
 - [Average fall 2021 math scores in Grades 3–8 were .20–.27 SD lower than same-grade peers' fall 2019 scores](covid-math-decline-020-027-sd-grades-3-8.md) — related
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
+- [The visualizations address how students performed in fall 2020 compared to a typical school year](fall-2020-performance-compared-typical-year.md) — a broader claim this one bears on

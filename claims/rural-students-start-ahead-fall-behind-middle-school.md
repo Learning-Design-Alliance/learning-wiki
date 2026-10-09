@@ -46,3 +46,5 @@ Large-scale observational analysis of fall and spring achievement data for 840,0
 - [The rural–nonrural achievement divergence is driven by larger summer losses for rural students](rural-achievement-divergence-driven-by-summer-loss.md) — related
 - [Black–White achievement gaps widen during the school year in both rural and nonrural schools](black-white-gaps-widen-during-school-year-rural-and-nonrural.md) — related
 - [Kindergarten test scores show patterns that can predict academic success or identify students at risk of falling further behind by third grade](kindergarten-scores-predict-third-grade-trajectories.md) — related
+- [Rural students' math and reading achievement can be characterized nationally using data from over 2,300 rural schools](rural-schools-achievement-growth-national-analysis.md) — a broader claim this one bears on
+- [Rural students are characterized as a substantially sized but overlooked group, comprising about 20 percent of the national student population](rural-students-forgotten-20-percent-framing.md) — related

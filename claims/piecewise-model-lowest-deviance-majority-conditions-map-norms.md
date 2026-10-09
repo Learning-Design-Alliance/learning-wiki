@@ -44,3 +44,4 @@ Section 4.1.4 reports relative-fit comparison of three candidate models (quadrat
 
 ## Related Claims
 - [The 2025 MAP Growth norms adopted a two-year, two-level piecewise mixed-effects design because two consecutive years of data are sufficient for within-year and adjacent-year growth norms](two-year-piecewise-design-sufficient-for-map-growth-norms.md) — related
+- [The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses](seasonal-model-combines-polynomial-and-piecewise-features.md) — related

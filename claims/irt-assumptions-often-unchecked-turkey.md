@@ -52,3 +52,4 @@ The review's assumption-check analysis (Table 1) found "the unidimensionality as
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [Sample sizes in Turkish IRT-based scale development studies ranged from 166 to 2223, with about half below the recommended 500](irt-scale-development-turkey-sample-sizes.md) — related
 - [Bayesian PPMC methods are increasingly used to investigate multidimensionality in IRT models](ppmc-increasingly-used-for-irt-multidimensionality.md) — related
+- [Little of the existing IRT scaling and linking expertise from large-scale educational assessment is applied to scaling psychological and social-emotional survey constructs](scaling-expertise-gap-sel-constructs.md) — related

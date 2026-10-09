@@ -46,3 +46,4 @@ The review attributes this to a national Early Head Start evaluation across 17 p
 - [Goals set in Head Start home visiting were largely adult centered, with only a small portion addressing child development](head-start-home-visit-goals-adult-focused.md) — related
 - [Families who documented goals received more home visits than families who did not](home-visit-frequency-associated-with-goal-setting.md) — related
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related
+- [Understanding kindergarten expectations and acquiring tools to support children at home were especially beneficial for families without prior preschool or structured school experience](transition-program-benefits-families-without-preschool-experience.md) — related

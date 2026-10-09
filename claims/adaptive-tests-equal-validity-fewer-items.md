@@ -47,3 +47,4 @@ Construct validation study (Research Report 78-4) with two independent groups of
 - [Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items](adaptive-testing-more-precise-achievement-measurement.md) — related
 - [One- and two-parameter ICC scoring yields highly similar achievement estimates, while the three-parameter model reduces similarity, especially for adaptive test data](icc-scoring-methods-estimate-similarity.md) — related
 - [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — related
+- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-precision-advantage.md) — related

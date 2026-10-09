@@ -45,3 +45,4 @@ The paper's narrative review of the empirical decisionmaking literature in educa
 ## Related Claims
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](dewey-morality-in-everyday-problems.md) — related
 - [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
+- [The TCSA literature is sparse, with very few empirical or quantitative studies of the models' measurement properties](tcsa-literature-sparse-few-quantitative-studies.md) — related

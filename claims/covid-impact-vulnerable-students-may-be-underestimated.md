@@ -44,3 +44,4 @@ Authors' interpretive caution drawn from their analysis of fall 2020 MAP Growth 
 
 ## Related Claims
 - [Approximately one in four students who tested the prior year were missing from fall 2020 data, disproportionately Black or Latinx students in higher-poverty schools, so prior estimates likely understated pandemic impacts](missing-fall-2020-testers-understate-impacts.md) — possibly the same claim (merge candidate)
+- [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — possibly the same claim (merge candidate)

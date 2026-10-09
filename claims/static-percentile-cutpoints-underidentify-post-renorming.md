@@ -48,3 +48,6 @@ The paper's screening illustration: a third-grade reader at the 40th achievement
 - [Under the 2025 norms, higher math growth expectations lower conditional growth percentiles for higher-growth students](2025-norms-lower-math-cgp-higher-growth-students.md) — related
 - [Norm shifts can change teacher evaluation CGP outcomes independently of instructional quality](cgp-norm-shifts-change-teacher-evaluation-outcomes.md) — related
 - [Norm shifts can raise achievement percentiles for schools serving struggling students even when RIT gains and projected proficiency do not improve](norm-shifts-raise-school-percentiles-struggling-students.md) — related
+- [Updated 2025 MAP Growth screening thresholds are set at the 35th percentile with adjustments for the Enhanced Item-Selection Algorithm](map-growth-2025-thresholds-35th-percentile-eisa.md) — related
+- [MAP Growth cut scores at the 30th percentile of national norms best identify Grade K-8 students in need of intensive intervention in reading and mathematics](map-growth-30th-percentile-screening-cut-scores.md) — related
+- [Post-COVID norm shifts and NWEA's enhanced item selection algorithm change the interpretation of MAP Growth metrics for school accountability](post-covid-norm-shifts-change-map-growth-accountability-metrics.md) — a broader claim this one bears on

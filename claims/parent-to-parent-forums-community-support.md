@@ -50,3 +50,4 @@ Focus-group finding about a high school that created a virtual parent group with
 - [PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community](pktp-family-activities-built-informal-relationships.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [School improvement is related to staff interactions, staff relationships with families, and ties to the broader school community](improvement-related-to-staff-family-community-relationships.md) — related
+- [Families particularly valued meeting education staff early, familiarizing themselves with school layout and routines, and building social connections with other families](transition-program-valued-early-staff-contact-routines-social-connections.md) — related

@@ -42,6 +42,9 @@ The article's evidence base is score data from "the 3.4 million students who too
 - [MAP Growth reading and mathematics assessment dataset (7 million students, grades 3-8, 25,000 schools, 2020-21 to fall 2022)](map-growth-7-million-student-pandemic-recovery-dataset.md)
 - [National K–8 fall and spring achievement dataset covering 840,000 students in 8,800 public schools](national-k8-fall-spring-achievement-dataset-840000-students.md)
 - [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth-assessment-database.md)
+- [NWEA test-score dataset of over 2.5 million kindergarten through eighth-grade students across three cohorts (2015-2018)](nwea-k8-three-cohort-seasonal-dataset.md)
+- [NWEA MAP Growth assessment as national data source for seasonal skill-growth analysis](nwea-map-growth-seasonal-inequality-data.md)
+- [Multi-season math and reading score dataset for over seven million K-8 students (2016-17)](seven-million-k8-three-season-score-dataset.md)
 
 ## Examples
 -

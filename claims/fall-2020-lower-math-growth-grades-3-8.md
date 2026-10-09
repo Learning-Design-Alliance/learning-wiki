@@ -46,3 +46,6 @@ Growth analysis of fall 2020 MAP Growth data from nearly 4.4 million students in
 - [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
 - [Fall 2020 math achievement was 5 to 10 percentile points lower than pre-COVID-19 performance by same-grade students](fall-2020-math-achievement-5-10-percentile-points-lower.md) — related
 - [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
+- [Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains](covid-closures-projected-math-gains-37-50-percent.md) — related
+- [The visualizations address how students performed in fall 2020 compared to a typical school year](fall-2020-performance-compared-typical-year.md) — related
+- [The visualizations address how student growth changed since school buildings closed in March 2020](student-growth-change-since-march-2020-closures.md) — a broader claim this one bears on

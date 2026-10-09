@@ -48,3 +48,7 @@ The study tested whether social-emotional factors, including "low academic self-
 - [Rapid guessing on achievement tests varies across grades, subjects, and teachers](rapid-guessing-varies-grade-subject-teacher.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — related
+- [Little was known before this study about students who rapidly guess over the course of several tests](little-known-repeated-rapid-guessing-gap.md) — related
+- [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
+- [A meaningful percentage of Grade 8 state summative test events showed rapid guessing, varying by subject: 5.5% in mathematics, 6.7% in ELA, and 3.5% in science](rapid-guessing-state-summative-grade8-subject-rates.md) — related
+- [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-associated-self-efficacy-self-management.md) — possibly the same claim (merge candidate)

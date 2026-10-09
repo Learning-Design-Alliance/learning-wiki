@@ -50,3 +50,5 @@ The brief tracked "the gap in achievement between the COVID year student group c
 - [The average student needs an estimated 4.1 additional months of schooling to catch up in reading](reading-catchup-4-point-1-months.md) — a narrower finding that bears on this claim
 - [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
 - [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — reports the opposite
+- [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — a broader claim this one bears on
+- [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — possibly the same claim (merge candidate)

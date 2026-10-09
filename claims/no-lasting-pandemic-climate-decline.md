@@ -48,3 +48,4 @@ Comparison of climate scores between 2018/19 and 2021/22 in the same sample of P
 - [School climate scores were steady across the years before COVID-19 in the Pennsylvania sample](pre-covid-climate-scores-steady.md) — related
 - [A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically](pandemic-academic-miss-evidence-review-series.md) — related
 - [Students' perceptions of their classes and schools matter more for attendance in post-pandemic years than before the pandemic](student-perceptions-attendance-post-pandemic.md) — related
+- [The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors](pandemic-promoted-teacher-adaptation-lasting-practices.md) — related

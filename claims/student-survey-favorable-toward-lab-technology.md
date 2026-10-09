@@ -47,3 +47,4 @@ WebCT-administered post-instruction surveys, with responses coded by two PER res
 - [Real-time data collection made the momentum lab substantially more efficient, cutting lab duration from two hours to one](real-time-data-collection-increases-lab-efficiency.md) — related
 - [Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class](real-time-data-collection-increases-modeling-physics-learning.md) — related
 - [MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added](mpex-consistent-pedagogy-across-tech-years.md)
+- [Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems](students-prefer-technology-enhanced-task-interactivity-animation.md) — related

@@ -51,3 +51,4 @@ Model comparison on a 20% scenario-held-out test set, with 3-fold cross-validati
 - [All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts](classifiers-beat-zero-rule-baseline-engagement.md) — related
 - [Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts](awl-count-word-count-feature-importance-engagement.md) — related
 - [In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom](word-count-top-traditional-formulas-unimportant.md) — related
+- [Three word embedding methods and three classifiers were introduced to predict item quality for accessible math assessments](word-embedding-classifiers-predict-item-quality-vi.md) — a broader claim this one bears on

@@ -48,3 +48,4 @@ The article’s own description of the research brief’s scope: it “examines 
 - [Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains](post-covid-recovery-diverges-across-schools.md) — possibly the same claim (merge candidate)
 - [The lowest-performing middle school readers fell further behind during post-COVID recovery](lowest-performing-middle-school-readers-falling-further-behind.md) — a narrower finding that bears on this claim
 - [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — related
+- [NWEA research examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions](chronic-absenteeism-academic-recovery-relationship.md) — related

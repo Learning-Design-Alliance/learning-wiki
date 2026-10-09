@@ -55,3 +55,5 @@ Analysis of MAP Growth reading and mathematics assessment data from 7 million st
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — reports the opposite
 - [Academic rebounding in reading and math was uneven across school years and summers, especially in reading](rebounding-uneven-across-school-years-summers-reading.md) — related
 - [Current third-graders showed the largest reading achievement gap and the least rebounding](third-graders-largest-reading-gap-least-rebounding.md) — related
+- [The 2021-22 study investigated whether achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether there were initial signs of rebounding or recovery.](2021-22-gains-compared-to-pre-pandemic-trends-rebound-signs.md) — related
+- [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — reports the opposite

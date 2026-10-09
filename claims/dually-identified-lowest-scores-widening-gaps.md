@@ -50,3 +50,8 @@ Achievement trajectories plotted in Figure 2 for the kindergarten cohort show du
 - [The rural–nonrural achievement divergence is driven by larger summer losses for rural students](rural-achievement-divergence-driven-by-summer-loss.md) — related
 - [Dually-identified students make smaller gains than the all-student average across all grades in math and in kindergarten and 1st grade in reading](dually-identified-smaller-gains.md) — related
 - [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
+- [ELs lost more academic skill during summers than never-ELs in both math and reading](el-greater-summer-loss-both-subjects.md) — related
+- [In math, ELs grew more than never-ELs during academic years but lost more during summers](el-math-academic-year-growth-greater-summer-loss.md) — related
+- [In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss](el-reading-graded-growth-pattern-summer-loss.md) — related
+- [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — a broader claim this one bears on
+- [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related

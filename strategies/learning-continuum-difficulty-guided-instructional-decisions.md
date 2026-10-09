@@ -37,7 +37,8 @@ The Learning Continuum is a MAP Growth tool that organizes the skills and concep
 - Planning formative assessment, enrichment, scaffolding, and instructional priorities
 
 ## Related Strategies
-- 
+
+- [Combine formative assessment information with MAP Growth scores for instructional decisions](combine-formative-assessment-with-map-growth-scores.md)
 
 ## Examples
 -

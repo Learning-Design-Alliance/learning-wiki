@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/equated-wcpm-smaller-residuals-one-exception.md
+---
+
+# Revision history: [claims/equated-wcpm-smaller-residuals-one-exception](../claims/equated-wcpm-smaller-residuals-one-exception.md)
+
+### 2026-10-08 · ingest · process:wiki-ingest
+Ingested from hub-7570 (Equating WCPM scores across passages of MAP Reading Fluency) via eval_harness.py + ingest_extractions.py

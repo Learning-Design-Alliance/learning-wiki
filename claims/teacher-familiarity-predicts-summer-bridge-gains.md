@@ -45,3 +45,4 @@ Teacher surveys from the 1999 Summer Bridge program showed eighth-grade teachers
 ## Related Claims
 - [Most Chicago teachers and principals reported that Summer Bridge and Lighthouse had positive effects on participating students](cps-educators-positive-on-summer-bridge-lighthouse.md) — related
 - [Mandatory summer curricula are not teacher proof: individualizing instruction and quality of teacher-student interactions were associated with larger gains](summer-curricula-not-teacher-proof.md) — related
+- [Families particularly valued meeting education staff early, familiarizing themselves with school layout and routines, and building social connections with other families](transition-program-valued-early-staff-contact-routines-social-connections.md) — related

@@ -68,3 +68,4 @@ gamified vocabulary practice.
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — more specific
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related: full digital games rather than game elements
 - [Data Element 1107 (Method of Instruction) shows three deficiencies: higher-education bias, non-descriptive morphology, and no stated relation between instructional methods and learning outcomes](element-1107-three-deficiencies-method-of-instruction.md) — related
+- [Students taking gameful assessments report higher satisfaction than students taking traditional assessments in a Grades 3–7 mixed-methods study](gameful-assessments-higher-student-satisfaction.md) — a narrower finding that bears on this claim

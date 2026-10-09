@@ -44,7 +44,8 @@ The article frames creativity as "a cognitive process involving both the retriev
 - 
 
 ## Examples
--
+
+- [Iterate and innovate on gameful assessment design in response to mixed engagement evidence](../strategies/iterate-gameful-assessment-design.md)
 
 ## Key Sources
 - Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434

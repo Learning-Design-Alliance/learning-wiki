@@ -47,3 +47,4 @@ Analysis of 2023-24 assessment data compares COVID-era test score averages with 
 - [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](months-of-schooling-needed-to-catch-up-2023-24.md) — related
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-of-pre-pandemic-trends.md) — related
+- [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — related

@@ -49,3 +49,4 @@ The page's description of the technical appendix to a research brief on struggli
 - [MAP Growth data shows U.S. reading improvements after a period of post-COVID stagnation, with historically underserved groups showing the largest 2025–2026 gains](map-growth-reading-improvements-after-stagnation.md) — related
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](middle-school-reading-stagnant-lowest-performers-behind.md) — a narrower finding that bears on this claim
 - [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](k2-academic-recovery-positive-trends-post-covid.md) — related
+- [The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery](nwea-visualization-state-level-covid-insights.md) — related

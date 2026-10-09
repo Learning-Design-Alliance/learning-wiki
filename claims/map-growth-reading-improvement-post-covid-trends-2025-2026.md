@@ -52,3 +52,7 @@ The page's description of the 2026 Trends Snapshot, which used MAP Growth Nation
 - [US reading achievement showed a positive turn after years of post-COVID stagnation, with historically underserved groups showing the largest reading gains from 2025 to 2026](post-covid-reading-positive-turn-2026.md) — possibly the same claim (merge candidate)
 - [Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement](spring-2025-map-growth-modest-math-recovery.md) — related
 - [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — reports the opposite
+- [U.S. reading achievement shows a positive turn after years of post-COVID stagnation, with the largest 2025-to-2026 reading gains among historically underserved groups](map-growth-reading-improvement-post-covid.md) — possibly the same claim (merge candidate)
+- [NWEA reports a positive turn for U.S. reading achievement after a period of post-COVID stagnation](post-covid-reading-positive-turn-nwea.md) — possibly the same claim (merge candidate)
+- [NWEA reports historically underserved groups showed the largest reading gains from 2025 to 2026 as US reading turned positive after post-COVID stagnation](reading-gains-2025-2026-underserved-groups.md) — possibly the same claim (merge candidate)
+- [Historically underserved groups showed the largest reading gains from 2025 to 2026, per NWEA](underserved-groups-largest-reading-gains-2025-2026.md) — possibly the same claim (merge candidate)

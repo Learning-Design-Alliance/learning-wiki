@@ -49,3 +49,5 @@ The brief's own description states the central assertion without reporting data 
 - [COVID-19 school closures highlighted the need to understand promising remote learning strategies when no classroom alternatives exist](covid-closures-highlight-remote-learning-strategy-need.md) — related
 - [During COVID-19 school disruptions, schools can take steps to ensure students continue to progress academically whether at home or at school](covid-continuity-of-learning-steps.md) — related
 - [Schools reported that about 40 percent of their students experienced considerable or major academic losses since March 2020](charter-schools-reported-student-academic-losses.md) — a narrower finding that bears on this claim
+- [Projected COVID-19 learning loss was not universal, with the top third of students potentially making gains in reading](covid-learning-loss-not-universal-top-third-reading-gains.md) — a narrower finding that bears on this claim
+- [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ The paper's synthesis identifies the policies "most consistently found to be ass
 - [Shared and well-communicated mission, vision, and goals are critical to district and CMO performance](shared-mission-vision-goals-critical-districts-cmos.md) — related
 - [CMOs with the greatest positive impact on student achievement were most likely to establish consistent schoolwide behavior expectations for students](cmo-impact-linked-schoolwide-behavior-expectations.md) — related
 - [The evaluation examined charter school effects by years of operation, grades served, mission, and demographics, plus student composition and turnover](philadelphia-charter-evaluation-multiple-moderators.md) — related
+- [Policy decisions such as shortening or extending the school year depend on accurate within-year learning estimates](school-year-policy-depends-on-growth-estimates.md) — related

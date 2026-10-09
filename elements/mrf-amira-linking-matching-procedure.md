@@ -38,7 +38,8 @@ The linking study dataset was built by matching MAP Reading Fluency records to A
 - Accurate linking of oral reading benchmark scores to reading mastery scores for placement decisions
 
 ## Related Elements
-- 
+
+- [Post-stratification raking weighting procedure for linking study samples](post-stratification-raking-weighting-linking-studies.md)
 
 ## Examples
 -

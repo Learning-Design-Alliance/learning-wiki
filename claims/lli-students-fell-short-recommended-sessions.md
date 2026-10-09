@@ -50,3 +50,4 @@ Implementation finding from the Oakland evaluation: students received varying LL
 - [LLI had a negative impact on secondary students' mastery of English language arts/literacy standards](lli-secondary-negative-impact-ela-standards.md) — related
 - [In an RCT in Oakland secondary schools, LLI had no impact on students' reading comprehension](lli-secondary-no-impact-reading-comprehension.md) — related
 - [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](once-rct-no-significant-dibels-effect-low-dosage.md) — related
+- [Second-order technology barriers may be most influential on technology-based intervention implementation, and the quantity of barriers reported was associated with the percentage of students meeting target durations of use](second-order-technology-barriers-influence-implementation.md) — related

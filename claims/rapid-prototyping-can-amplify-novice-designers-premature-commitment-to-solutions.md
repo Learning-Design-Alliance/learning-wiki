@@ -56,3 +56,4 @@ A chapter situating design thinking in the design research field, from which it 
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
 - [Engineering team converged earlier than other teams, concluding prototyping two minutes before the time limit](engineering-team-early-convergence-prototyping.md) — related
+- [For classroom assessments of complex constructs such as learning progressions in math and science, test score use is more effectively conceptualized as part of a potential solution to a problem, or 'job-to-be-done'](score-use-as-job-to-be-done.md) — related

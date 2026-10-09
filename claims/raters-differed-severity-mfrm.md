@@ -46,3 +46,4 @@ MFRM analysis (FACETS) of the crossed-design rating data; Table 2 reports a rate
 - [CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design](ctt-mfrm-agreement-robust-to-design.md) — related
 - [The chi-square significance test for NC-DIF is overly sensitive at large sample sizes, requiring an empirical cutoff value](nc-dif-chi-square-overly-sensitive-large-samples.md) — related
 - [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](rasch-adjustment-of-scorer-severity.md) — related
+- [Few models exist for estimating growth in the presence of multiple raters despite growing multi-rater longitudinal data](few-models-for-growth-with-multiple-raters.md) — related

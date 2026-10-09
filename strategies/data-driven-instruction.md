@@ -64,6 +64,7 @@ DDI operationalizes [Assessment for Learning](../principles/assessment-for-learn
 - [Direct Instruction](../patterns/direct-instruction.md) — a common reteaching response when data reveals whole-group gaps
 - [Adaptive Learning](../principles/adaptive-learning.md) — automates the measure-adjust cycle at scale
 - [Use program-generated intervention reports to inform small-group instruction and one-on-one planning](pathblazer-reports-inform-small-group-instruction.md)
+- [Combine formative assessment information with MAP Growth scores for instructional decisions](combine-formative-assessment-with-map-growth-scores.md)
 
 ## Examples
 - **Uncommon Schools / Relay GSE DDI model** — weekly interim assessments, item-level analysis in teacher meetings, and scripted reteach plans; widely replicated in charter networks

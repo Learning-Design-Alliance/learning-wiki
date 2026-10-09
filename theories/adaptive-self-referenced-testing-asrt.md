@@ -43,7 +43,8 @@ ASRT is a proposed framework, arising from the project's finding that norm-refer
 - [Inter Subtest Branching Halves Battery Length](../claims/inter-subtest-branching-halves-battery-length.md) [+M]
 
 ## Related Theories
-- 
+
+- [Scale drift across years and grades as a measurement challenge arising from changing instruction, materials, and standards](scale-drift-across-years-and-grades-challenge.md)
 
 ## Examples
 -

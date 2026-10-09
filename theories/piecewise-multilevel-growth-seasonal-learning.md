@@ -44,10 +44,12 @@ The article applies "a piecewise multilevel growth model to administrative data 
 ## Related Theories
 
 - [MAP Growth norms taxonomy: ten norms per subject, level, and grade, spanning achievement, within-year growth, and between-year growth](map-growth-norms-taxonomy-ten-norms.md)
+- [A general statistical model for interim achievement data that jointly represents year-to-year growth and within-year seasonal gains and losses](seasonal-growth-model-interim-achievement-data.md)
 
 ## Examples
 
 - [NWEA MAP Growth assessment dataset (3.4 million students) as the evidence base for seasonal learning analysis](../elements/nwea-map-growth-3-4-million-seasonal-dataset.md)
+- [Use longitudinal interim assessment data, modeled with seasonal trends, to monitor progress of students, classrooms, and schools within and across school years](../strategies/monitor-progress-with-seasonal-interim-growth-models.md)
 
 ## Key Sources
 - Angela Johnson. (2020). Dual language education and academic growth. NWEA Research Working Paper. https://www.nwea.org/research/publication/dual-language-education-and-academic-growth/

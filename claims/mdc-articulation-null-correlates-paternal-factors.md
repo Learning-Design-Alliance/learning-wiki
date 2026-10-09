@@ -47,3 +47,4 @@ Null findings from the same 1971 survey of 412 tested MDC, in which children's G
 - [The types of speech articulation errors among MDC approximated those reported for the general school-age population](mdc-error-types-match-general-population.md) — related
 - [In two of three integrated schools, MDC articulation disorder incidence was about three times that of civilian dependent children in grades 2 through 4, but lower in grades 5 and 6](mdc-articulation-three-times-cdc-grades-2-4.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md)
+- [Effects of two or more school moves on child functioning are not significant after controlling for the number of analyses conducted](cumulative-moves-nonsignificant-after-multiple-analysis-control.md) — related

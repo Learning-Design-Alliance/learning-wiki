@@ -54,3 +54,7 @@ A trends snapshot using MAP Growth National Dashboard data "points to a positive
 - [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — related
 - [Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement](spring-2025-map-growth-modest-math-recovery.md) — related
 - [A NWEA brief highlights middle school reading as an urgent challenge in academic recovery, with evidence of post-COVID-19 declines among struggling adolescent readers](struggling-adolescent-readers-post-covid-declines-brief.md) — related
+- [U.S. reading achievement shows a positive turn after years of post-COVID stagnation, with the largest 2025-to-2026 reading gains among historically underserved groups](map-growth-reading-improvement-post-covid.md) — possibly the same claim (merge candidate)
+- [NWEA reports a positive turn for U.S. reading achievement after a period of post-COVID stagnation](post-covid-reading-positive-turn-nwea.md) — possibly the same claim (merge candidate)
+- [NWEA reports historically underserved groups showed the largest reading gains from 2025 to 2026 as US reading turned positive after post-COVID stagnation](reading-gains-2025-2026-underserved-groups.md) — possibly the same claim (merge candidate)
+- [Historically underserved groups showed the largest reading gains from 2025 to 2026, per NWEA](underserved-groups-largest-reading-gains-2025-2026.md) — possibly the same claim (merge candidate)

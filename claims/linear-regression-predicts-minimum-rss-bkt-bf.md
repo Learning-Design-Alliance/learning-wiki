@@ -47,3 +47,4 @@ Numerical modeling study using the Psychology MOOC GT Spring 2013 dataset (5615 
 - [The very high adjusted R² of the RSS-estimation model may indicate BKT works better when percent correct is very high, leaving little room for T and G](high-pc-bkt-little-room-t-g.md) — related
 - [In a preliminary PCA, RMSE is highly correlated with the slip parameter S, while T and G appear orthogonal to RMSE](pca-rmse-correlates-slip-orthogonal-t-g.md) — related
 - [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related
+- [BFpack handles common statistical analyses with default priors and data missing at random](bfpack-default-priors-missing-data.md) — related

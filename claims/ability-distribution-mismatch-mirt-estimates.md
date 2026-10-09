@@ -45,3 +45,4 @@ Second simulation study, Condition 2 (normal first dimension, positively skewed 
 ## Related Claims
 - [Applying a MIRT model to unidimensional data yields larger difficulty-parameter error but smaller first-dimension discrimination error than multidimensional data](mirt-recovers-unidimensional-parameters.md) — related
 - [Distributions of external control scores differ across school-function domains, with curriculum skewing toward internal control](control-score-distributions-vary-by-domain.md) — related
+- [Existing item fit statistics are derived for linear tests under assumptions of no missing responses and normal ability distributions, leaving adaptive testing contexts understudied](item-fit-statistics-derived-for-linear-tests-only.md) — related

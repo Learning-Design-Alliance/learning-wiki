@@ -48,3 +48,5 @@ The discussion summarizes the study's trajectory findings: ever-ELs were "closin
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [Ever-ELs and current-ELs make larger fall-to-spring gains than the all-student average in early grades but smaller gains in middle grades](ever-current-el-gains-grade-pattern.md) — related
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
+- [Asian students generally pull ahead of White students at a faster rate during summers than during school periods](asian-white-summer-growth-advantage.md) — related
+- [Non-linear within-year growth has implications for extending the school year, summer learning loss, and racial/ethnic achievement gaps](nonlinear-growth-implications-school-year-summer-gaps.md) — related

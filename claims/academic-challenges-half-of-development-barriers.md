@@ -49,3 +49,4 @@ Qualitative theme 2 asked students what obstacles they encountered during growth
 - [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related
 - [Treatable and preventable health issues are barriers to students' academic engagement and contribute to over one million US high school students dropping out each year](health-issues-barrier-academic-engagement-dropout.md) — related
 - [DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do](dhh-systemic-barriers-low-expectations.md) — related
+- [BVI students face material and instructional barriers: late STEM materials, error-laden tactile worksheets, and variable teacher graphic descriptions](bvi-material-instructional-barriers.md) — related

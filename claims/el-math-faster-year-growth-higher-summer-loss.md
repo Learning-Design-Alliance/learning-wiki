@@ -54,3 +54,7 @@ Piecewise multilevel growth models (Model 2) estimated monthly learning rates fo
 - [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
 - [Academic rebounding in reading and math was uneven across school years and summers, especially in reading](rebounding-uneven-across-school-years-summers-reading.md) — related
 - [Summer credit recovery increased the number of math, English Language Arts, science, and social science classes taken by newcomer EL students](summer-credit-recovery-increases-course-taking-newcomer-els.md) — related
+- [ELs lost more academic skill during summers than never-ELs in both math and reading](el-greater-summer-loss-both-subjects.md) — related
+- [In math, ELs grew more than never-ELs during academic years but lost more during summers](el-math-academic-year-growth-greater-summer-loss.md) — possibly the same claim (merge candidate)
+- [Students with disabilities in grades K-4 grow as much or more academically during some school years than peers without disabilities](swd-school-year-growth-matches-or-exceeds-peers.md) — related
+- [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related

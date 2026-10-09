@@ -67,3 +67,6 @@ Test-retest reliability with alternate forms across consecutive windows (Table 4
 - [The vast majority of Spanish Math (91%) and Reading (98%) items show no misfit across fall, winter, and spring terms](spanish-items-longitudinal-fit-no-misfit.md) — related
 - [Spanish Reading items show gradually increasing mean p values and stable discrimination with no negatively discriminating items](spanish-reading-item-statistics-stable.md) — related
 - [Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability](spanish-rit-scores-increase-by-grade.md) — related
+- [Fall 2020 MAP Growth tests showed high levels of marginal reliability across all grades in both remote and in-person administration](map-growth-fall-2020-high-marginal-reliability.md) — related
+- [Marginal reliabilities for Spanish MAP Growth Reading are in the 0.90s across all grades](spanish-map-reading-marginal-reliability-090s.md) — related
+- [Spanish MAP Growth Reading test-retest reliability ranges from 0.50 at Grade K to 0.83 at Grade 5, with no estimate for Grades 6–8](spanish-map-reading-test-retest-reliability-050-083.md) — related

@@ -53,3 +53,4 @@ Cohort comparison of fall-to-fall MAP Growth gains: the pandemic cohort (fall 20
 - [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — a broader claim this one bears on
 - [Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short](pandemic-growth-varied-by-pre-pandemic-achievement-status.md) — related
+- [Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains](covid-closures-projected-reading-gains-63-68-percent.md) — related

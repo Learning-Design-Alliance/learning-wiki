@@ -17,7 +17,7 @@ sources:
 # Establish an appropriate researcher signature by balancing participant, researcher, and audience voices, and judge validity by believability
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In narrative inquiry, the researcher must negotiate between representing the participant's voice and the researcher's own voice, avoiding too strong a stamp that overshadows participants or too thin a stamp that duplicates their voice—what Clandinin and Connelly call living on an edge. Validity rests on concrete examples of actual practices presented in enough detail through creating believable stories, so the relevant community can judge trustworthiness and usefulness. Because open-endedness pervades all data, inquirers must maintain ongoing reflection, or wakefulness, remaining awake to critiques.
@@ -38,7 +38,8 @@ In narrative inquiry, the researcher must negotiate between representing the par
 - establishing credibility and researcher identity in narrative inquiry
 
 ### Claims
-- 
+
+- [Drawing on the positional reflexivity of two researchers with distinct perspectives can function as a strength for cogenerating themes and theory in policy evaluation](../claims/dual-researcher-positional-reflexivity-strength-theory-generation.md) [+W] — attached 2026-10-09 from Anderson et al. (2016), which proposed "Varied perspectives should be a critical component in the methodological and analytical choices of education research when the goal is deeper understanding of program or policy impact".
 
 ## Related Principles
 

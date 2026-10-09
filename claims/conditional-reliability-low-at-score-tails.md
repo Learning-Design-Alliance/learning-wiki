@@ -46,3 +46,4 @@ Psychometric discussion in the reliability section, citing Lord and Novick and H
 - [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — related
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — related
 - [Measurement precision is strongest for students in the middle of the Spanish score distribution, with CSEM near the 3.3 RIT target](spanish-csem-middle-deciles-most-precise.md) — a narrower finding that bears on this claim
+- [The book argues that quality assessments can provide accurate and timely information to maximize student learning, in contrast to punitive testing rhetoric](quality-assessments-accurate-timely-information-maximize-learning.md) — related

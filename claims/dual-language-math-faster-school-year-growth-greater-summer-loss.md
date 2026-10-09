@@ -49,3 +49,4 @@ The piecewise multilevel growth model applied to administrative data from a larg
 - [In reading, dual language participants grew slightly more slowly during school years but lost less learning during summers, closing the gap with the national average](dual-language-reading-slower-school-year-growth-less-summer-loss.md) — related
 - [Students who made the greatest school-year gains experienced the greatest summer learning loss](greatest-gains-greatest-summer-loss.md) — a broader claim this one bears on
 - [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
+- [In math, ELs grew more than never-ELs during academic years but lost more during summers](el-math-academic-year-growth-greater-summer-loss.md) — related

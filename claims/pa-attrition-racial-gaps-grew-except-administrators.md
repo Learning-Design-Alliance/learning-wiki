@@ -46,3 +46,4 @@ Observational comparison of attrition rates by staff race/ethnicity across job c
 - [Pandemic-era attrition gaps widened for early-career teachers and health and counseling staff, charter school staff, and LEA administrators in large LEAs](pa-attrition-gaps-early-career-charter-large-leas.md) — related
 - [Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic](pa-staff-attrition-rose-4-to-5-percent-pandemic.md) — related
 - [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — related
+- [Attrition was concentrated in schools with higher concentrations of racial/ethnic minorities and socioeconomically disadvantaged students](map-growth-attrition-school-concentration-pattern.md) — related

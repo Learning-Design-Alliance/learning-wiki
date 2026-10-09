@@ -49,3 +49,5 @@ Descriptive finding from the fall 2020 MAP Growth analysis of nearly 4.4 million
 - [The average student demonstrated positive math and reading gains during the 2020-2021 school year](positive-gains-2020-2021-school-year.md) — related
 - [Students in grades 3-8 made reading and math gains in 2020-21 but ended the year with lower achievement than in a typical year, with larger declines in math than in reading](covid-2020-21-lower-achievement-larger-math-declines.md) — related
 - [Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains](post-covid-recovery-diverges-across-schools.md) — related
+- [Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains](covid-closures-projected-reading-gains-63-68-percent.md) — related
+- [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related
