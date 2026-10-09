@@ -48,3 +48,6 @@ The study analyzed whether academic disengagement indicators (chronic absenteeis
 - [Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness](attendance-effort-drive-grades-graduation.md) — related
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related
 - [Rapid guessing on achievement tests varies across grades, subjects, and teachers](rapid-guessing-varies-grade-subject-teacher.md) — related
+- [Little was known before this study about students who rapidly guess over the course of several tests](little-known-repeated-rapid-guessing-gap.md) — related
+- [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
+- [A meaningful percentage of Grade 8 state summative test events showed rapid guessing, varying by subject: 5.5% in mathematics, 6.7% in ELA, and 3.5% in science](rapid-guessing-state-summative-grade8-subject-rates.md) — related

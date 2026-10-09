@@ -40,7 +40,8 @@ To help practitioners adopt the phased M&E approach, the publication pairs the f
 - [Four Phase Me Evidence Building Approach](../theories/four-phase-me-evidence-building-approach.md)
 
 ## Related Strategies
-- 
+
+- [Provide teachers, administrators, and educational leaders with practical resources and strategies for assessment use](assessment-education-resources-for-educators.md)
 
 ## Examples
 -

@@ -39,6 +39,8 @@ The study leverages achievement data measured at two points in each school year 
 ## Related Elements
 
 - [NWEA MAP Growth assessment dataset (3.4 million students) as the evidence base for seasonal learning analysis](nwea-map-growth-3-4-million-seasonal-dataset.md)
+- [NWEA test-score dataset of over 2.5 million kindergarten through eighth-grade students across three cohorts (2015-2018)](nwea-k8-three-cohort-seasonal-dataset.md)
+- [NWEA MAP Growth assessment as national data source for seasonal skill-growth analysis](nwea-map-growth-seasonal-inequality-data.md)
 
 ## Examples
 -

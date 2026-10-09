@@ -47,3 +47,5 @@ Seasonal growth modeling across fall and spring test administrations for 840,000
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related
 - [Rural students start kindergarten slightly ahead of nonrural students but fall behind by middle school](rural-students-start-ahead-fall-behind-middle-school.md) — related
 - [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — a broader claim this one bears on
+- [Non-linear within-year growth has implications for extending the school year, summer learning loss, and racial/ethnic achievement gaps](nonlinear-growth-implications-school-year-summer-gaps.md) — related
+- [Rural students are characterized as a substantially sized but overlooked group, comprising about 20 percent of the national student population](rural-students-forgotten-20-percent-framing.md) — related

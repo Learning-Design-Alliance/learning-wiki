@@ -46,7 +46,8 @@ PKTP is a community approach in Chicago's Altgeld-Riverdale neighborhood that pr
 - [Inclusive, family-focused co-curricular events deepened relationships between educators and parents](../claims/family-focused-co-curricular-events-relationships.md) [+W]
 
 ## Related Elements
-- 
+
+- [Three-week structured summer kindergarten transition program](three-week-structured-kindergarten-transition-program.md)
 
 ## Examples
 -

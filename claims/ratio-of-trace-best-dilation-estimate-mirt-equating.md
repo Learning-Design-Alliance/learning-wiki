@@ -47,3 +47,4 @@ Descriptive analysis of a simulation study using known ACT Form-24B item paramet
 - [The developed MIRT equating methods behave as unbiased, effective, and consistent estimators of transformation parameters](mirt-equating-methods-unbiased-effective-consistent.md) — related
 - [Regression analysis shows the MTCS method significantly degrades dilation-parameter precision relative to the Ratio of Eigenvalues method, while simulation factors explain most RMSE variation](regression-mtcs-significant-k-precision.md) — related
 - [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related
+- [Both proposed adjustment methods (IEA and BA) reduce RMSE of item difficulty estimates from direct 2PL-IRT fitting, with BA yielding more consistent (lower-variance) estimates in simulation](iea-ba-reduce-difficulty-estimate-bias.md) — related

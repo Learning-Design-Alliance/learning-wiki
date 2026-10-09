@@ -45,3 +45,4 @@ Section 4.2 explains the shift from the three-year cohort design of the 2015 and
 ## Related Claims
 - [The 2025 MAP Growth norms were derived from one of the largest norming samples ever created, spanning 116,225,831 test events from 13,804,182 students in 29,720 schools across 7,000 districts over six testing terms](map-growth-2025-norms-massive-norming-sample.md) — related
 - [Across 90 grade-subject-level conditions, the three-piece piecewise model showed the lowest deviance for 64% of student-level and 78% of school-level models, outperforming both compound polynomial candidates](piecewise-model-lowest-deviance-majority-conditions-map-norms.md) — related
+- [The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses](seasonal-model-combines-polynomial-and-piecewise-features.md) — related

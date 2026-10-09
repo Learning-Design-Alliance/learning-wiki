@@ -54,6 +54,8 @@ Computer adaptive Spanish-language assessments parallel to English MAP Growth, a
 - [Spanish MAP Reading Fluency Foundational Skills assessment](spanish-map-reading-fluency-foundational-skills-assessment.md)
 - [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth-assessment-database.md)
 - [Spanish Foundational Skills achievement and growth norms tables (grades K-3)](spanish-foundational-skills-norms-tables-k-3.md)
+- [MAP Growth: computer-adaptive, vertically scaled interim assessment on the RIT scale](map-growth-interim-assessment.md)
+- [Spanish MAP Growth Reading assessment: an adaptive K–8 reading assessment on a RIT scale linked to the English version](spanish-map-growth-reading-assessment.md)
 
 ## Examples
 -

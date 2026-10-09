@@ -51,3 +51,4 @@ The brief's summary of 2023-24 MAP Growth data reports that "Growth during 2023-
 - [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — related
 - [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](pre-covid-covid-gap-widened-2023-24.md) — related
 - [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](pre-covid-covid-score-gap-widened-2023-24.md) — related
+- [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — related

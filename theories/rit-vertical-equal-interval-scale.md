@@ -42,6 +42,7 @@ The RIT scale is the report's central measurement framework: an equal-interval v
 
 - [Item Response Theory as a framework for scale development](irt-framework-scale-development.md)
 - [MAP Growth norms taxonomy: ten norms per subject, level, and grade, spanning achievement, within-year growth, and between-year growth](map-growth-norms-taxonomy-ten-norms.md)
+- [Unidimensional Rasch model scaling of MAP scores on the RIT scale](rasch-unidimensional-scaling-rit-map.md)
 
 ## Examples
 
@@ -49,6 +50,9 @@ The RIT scale is the report's central measurement framework: an equal-interval v
 - [NWEA MAP Growth vertically scaled assessment as a common comparison measure](../elements/map-growth-vertically-scaled-comparison-measure.md)
 - [Use the Learning Continuum to locate skills by difficulty and guide formative assessment and scaffolding decisions](../strategies/learning-continuum-difficulty-guided-instructional-decisions.md)
 - [NWEA MAP Growth assessment and longitudinal achievement database](../elements/nwea-map-growth-assessment-database.md)
+- [MAP Growth Course-Specific assessments with documented psychometric quality evidence](../elements/map-growth-course-specific-assessments.md)
+- [MAP Growth: computer-adaptive, vertically scaled interim assessment on the RIT scale](../elements/map-growth-interim-assessment.md)
+- [Spanish MAP Growth Reading assessment: an adaptive K–8 reading assessment on a RIT scale linked to the English version](../elements/spanish-map-growth-reading-assessment.md)
 
 ## Key Sources
 - MAP Growth Technical Report for 2024–2025. (2026). HMH Education Company. https://www.nwea.org/research/publication/map-growth-technical-report/

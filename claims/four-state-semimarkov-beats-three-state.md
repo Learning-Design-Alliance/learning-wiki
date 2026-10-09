@@ -45,3 +45,4 @@ Nested-model comparison for Form 1 in which distribution parameters were constra
 ## Related Claims
 - [Semi-Markov models fit the writing-process data better than continuous-time Markov chain models](semimarkov-preferred-over-ctmc.md) — a broader claim this one bears on
 - [In the mixed-scenario comparison, the single-scenario essay-last group spent longer time in local-editing and jump-editing states than the mixed-scenario essay-last group](single-vs-mixed-scenario-editing-durations.md) — related
+- [Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users](screen-reader-effort-quadratic-equation-bvi.md) — related

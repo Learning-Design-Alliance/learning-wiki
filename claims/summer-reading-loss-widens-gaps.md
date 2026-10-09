@@ -49,3 +49,4 @@ The toolkit asserts, citing research it does not further specify, that "low-inco
 - [Mathematics education acts as a gatekeeper to academic opportunity that disproportionately affects students from historically marginalized communities](mathematics-education-gatekeeper-marginalized-students.md) — a broader claim this one bears on
 - [Summer learning loss findings call into question explanations based on summer program access and school-year length](summer-loss-explanations-questioned.md) — related
 - [The reality of summer learning loss is more complex than the long-standing gap-widening account](summer-loss-more-complex-than-gap-account.md) — related
+- [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related

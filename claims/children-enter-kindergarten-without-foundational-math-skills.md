@@ -49,3 +49,4 @@ The article states, citing Garcia & Weiss (2015), that many children enter kinde
 - [In 2010, just 29 percent of children entering kindergarten in and near the NAZ Zone met literacy benchmarks on kindergarten readiness tests](naz-29-percent-kindergarten-literacy-benchmarks-2010.md) — a narrower finding that bears on this claim
 - [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
 - [Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract](shrinking-gaps-kindergarten-entry.md) — related
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related

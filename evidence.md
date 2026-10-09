@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 7,873 |
-| Evidence entries | 9,157 |
-| Distinct studies | 2,421 |
-| Claims resting on one study | 7,659 (97%) |
+| Claims | 8,205 |
+| Evidence entries | 9,509 |
+| Distinct studies | 2,514 |
+| Claims resting on one study | 7,989 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 628 of 2,421 (26%) |
+| Studies reporting an effect size | 633 of 2,514 (25%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 40 | 301 | 97 | 298 | 736 |
+| causal | 40 | 306 | 97 | 305 | 748 |
 | quant-synthesis | 22 | 68 | 31 | 121 | 242 |
-| review | 22 | 88 | 37 | 81 | 228 |
-| associational | 14 | 243 | 119 | 166 | 542 |
-| qualitative | 41 | 91 | 29 | 28 | 189 |
-| design | 14 | 125 | 68 | 14 | 221 |
-| theoretical | 32 | 152 | 42 | 37 | 263 |
+| review | 22 | 90 | 37 | 84 | 233 |
+| associational | 14 | 273 | 121 | 185 | 593 |
+| qualitative | 41 | 91 | 30 | 30 | 192 |
+| design | 14 | 133 | 71 | 18 | 236 |
+| theoretical | 32 | 156 | 44 | 38 | 270 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 391 (16%) | 1,300 (54%) | 626 (26%) | 104 (4%) |
+| 423 (17%) | 1,356 (54%) | 631 (25%) | 104 (4%) |
 
-**Studies per claim:** 0: 0, 1: 7,659, 2: 160, 3: 48, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 7,989, 2: 162, 3: 48, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -59,10 +59,10 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is …](claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) | q3 | 10 | 10 |
 | [Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of …](claims/extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) | q3 | 10 | 10 |
 | [Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A …](claims/attentive-knowledge-tracing-benefits-from-repeated-interactions.md) | q2 | 10 | 10 |
+| [Johnson, A. (2022). Achievement and growth for English Learners. (NWEA Center for School and Student Progress …](claims/dually-identified-lowest-scores-widening-gaps.md) | q2 | 10 | 10 |
 | [Julia B. Smith, BetsAnn Smith, Anthony S. Bryk. (1998). Setting the Pace: Opportunities to Learn in Chicago's …](claims/chicago-lessons-lack-depth-and-complexity.md) | q2 | 9 | 9 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Phonological …](claims/alignment-trained-skill-larger-effects-phonological-awareness.md) | q2 | 9 | 9 |
 | [Building Decision Skills. (2006). WWC Intervention Report, What Works Clearinghouse. …](claims/bds-curriculum-adds-beyond-service-learning-alone.md) | q2 | 9 | 9 |
-| [What Works Clearinghouse, U.S. Department of Education. (2007). WWC Intervention Report: Waterford Early …](claims/waterford-level-one-no-discernible-oral-language-effects.md) | q2 | 9 | 9 |
 
 ## Citation load against evidence base
 
@@ -102,7 +102,7 @@ Of the 39 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-138 claims are cited both ways.
+139 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -133,15 +133,15 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
-| [principles](principles/index.md) | 375 | 322 | 2 | 0 |
-| [elements](elements/index.md) | 1,675 | 1,286 | 1 | 0 |
+| [principles](principles/index.md) | 375 | 323 | 2 | 0 |
+| [elements](elements/index.md) | 1,755 | 1,352 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
-| [strategies](strategies/index.md) | 3,864 | 2,336 | 6 | 0 |
+| [strategies](strategies/index.md) | 3,899 | 2,337 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,317 | 1,092 | 1 | 0 |
+| [theories](theories/index.md) | 1,364 | 1,134 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 214 | 143 | 1 | 0 |
+| [designs](designs/index.md) | 216 | 144 | 1 | 0 |
 
 ## Toward pooled estimates
 

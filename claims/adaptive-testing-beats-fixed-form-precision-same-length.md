@@ -46,3 +46,5 @@ The technical report's design overview states this precision advantage for the c
 - [Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items](adaptive-testing-more-precise-achievement-measurement.md) — related
 - [Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items](adaptive-tests-equal-validity-fewer-items.md) — related
 - [Simulations of adaptive, multistage, and fixed form tests show the adaptation measures can be used operationally to identify difficulties with adaptation](simulation-shows-adaptation-measures-identify-difficulties.md) — related
+- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-precision-advantage.md) — possibly the same claim (merge candidate)
+- [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](spanish-map-reading-adaptive-lower-sem.md) — possibly the same claim (merge candidate)

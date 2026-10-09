@@ -37,7 +37,8 @@ The paper recommends that leaders using MAP Growth in screening, evaluation, or 
 - Accurate identification of students for intervention; fair teacher evaluation; valid school authorization and accreditation decisions
 
 ## Related Strategies
-- 
+
+- [Use multiple evidence sources alongside benchmark scores when identifying students for intensive intervention](combine-screening-benchmarks-with-other-risk-factors.md)
 
 ## Examples
 -

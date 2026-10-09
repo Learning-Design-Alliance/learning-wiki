@@ -49,3 +49,6 @@ Observational analysis of MAP Growth scores (fall, winter, spring) for a kinderg
 - [Ever-ELs closed in on the national average by end of 4th grade, with Asian and White ever-ELs surpassing it in 2nd grade](ever-els-closing-national-average-gap.md) — related
 - [All three English Learner groups have lower mean math and reading achievement than the all-student average in kindergarten](el-groups-lower-kindergarten-achievement.md) — related
 - [Ever-ELs and current-ELs make larger fall-to-spring gains than the all-student average in early grades but smaller gains in middle grades](ever-current-el-gains-grade-pattern.md) — related
+- [ELs lost more academic skill during summers than never-ELs in both math and reading](el-greater-summer-loss-both-subjects.md) — related
+- [All three English Learner groups had lower K-4 test scores than never-ELs](el-groups-lower-k4-achievement-never-els.md) — possibly the same claim (merge candidate)
+- [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related

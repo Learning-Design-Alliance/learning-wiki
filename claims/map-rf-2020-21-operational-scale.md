@@ -46,3 +46,4 @@ Operational use counts reported in the Technical Characteristics chapter for the
 - [Mean foundational-skills scores rise from fall to spring with the largest gains in kindergarten and grade 1, and growth flattens by grades 2-3](spanish-foundational-skills-fall-to-spring-gain-pattern.md) — related
 - [Adaptive routing and comprehension-based passage leveling structure the MAP Reading Fluency assessment](map-rf-adaptive-routing-and-passage-leveling.md) — related
 - [Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks](sentence-reading-fluency-routing-threshold.md) — related
+- [NWEA claims MAP Reading Fluency's mechanisms of change are hypothesized to lead to all students reading fluently with comprehension](map-rf-theory-action-overarching-goal.md) — related

@@ -1,0 +1,49 @@
+---
+type: claim
+title: Classroom reading comprehension practice differs from formal assessment in item placement relative to the passage
+description: Classroom reading comprehension practice differs from formal assessment in item placement relative to the passage
+id: classroom-versus-formal-assessment-item-placement-difference
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-08
+evidence_strength: weak
+sources:
+  - id: guerreiro-2022
+    resource: "https://www.nwea.org/research/publication/measuring-student-reading-comprehension-performance-considerations-of-accuracy-equity-and-engagement-by-embedding-comprehension-items-within-reading-passages/"
+    title: "Guerreiro, M., & Johnson, J. (2022). Measuring student reading comprehension performance: Considerations of accuracy, equity, and engagement by embedding comprehension items within reading passages. Practical Assessment, Research, and Evaluation, 27. https://www.nwea.org/research/publication/measuring-student-reading-comprehension-performance-considerations-of-accuracy-equity-and-engagement-by-embedding-comprehension-items-within-reading-passages/"
+    author: "Guerreiro, M., & Johnson, J."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: "?"
+---
+
+# Classroom reading comprehension practice differs from formal assessment in item placement relative to the passage
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r?` · `q2`
+
+## Subclaims
+`q2 i?` Traditional formal assessments prompt students to read a multi-paragraph passage before displaying related questions, an approach not utilized in classroom practices. [→ Guerreiro 2022](#guerreiro-2022)
+
+## Evidence
+
+### Guerreiro 2022
+
+Guerreiro, M., & Johnson, J. (2022). Measuring student reading comprehension performance: Considerations of accuracy, equity, and engagement by embedding comprehension items within reading passages. Practical Assessment, Research, and Evaluation, 27. https://www.nwea.org/research/publication/measuring-student-reading-comprehension-performance-considerations-of-accuracy-equity-and-engagement-by-embedding-comprehension-items-within-reading-passages/
+
+`q2 · i?` · `causal · r?`
+
+The article contrasts formal assessment formats with classroom practice, noting that the read-then-answer format "is not utilized during classroom practices"; this is a descriptive claim about assessment conventions rather than a tested comparison.
+
+> "Traditional reading comprehension assessments often prompt students to read a multi-paragraph passage prior to displaying a set of questions that are related to the passage; however, this approach is not utilized during classroom practices."
+
+## Discussion
+
+
+## Related Claims
+- [Embedding comprehension items within reading passages significantly affects measured reading achievement compared with answering items at the end of the passage](embedding-items-within-passages-significant-achievement-impact.md) — related
+- [Traditional end-of-passage assessment formats may inadvertently measure extraneous constructs such as working memory, attention, and language](end-of-passage-format-measures-extraneous-constructs.md) — related
+- [Embedded-item passages may yield improved student reading comprehension scores and a more valid measurement approach](embedded-items-improved-scores-validity.md) — related
+- [Embedding items has the potential to be a more equitable measure of reading comprehension for marginalized groups](embedded-items-potential-equity-marginalized-groups.md) — related

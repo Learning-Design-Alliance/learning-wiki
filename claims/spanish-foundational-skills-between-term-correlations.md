@@ -46,3 +46,7 @@ Correlational analysis of norming-sample test events after listwise deletion (st
 ## Related Claims
 - [Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten](spanish-reliability-marginal-test-retest.md) — related
 - [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](swcpm-arm-high-correlation-grades-1-5.md) — related
+- [True-score-model correlations among fall, winter, and spring scores exceed 0.90 for almost all course-specific tests, indicating strongly correlated administrations across terms.](course-specific-term-score-correlations-above-090.md) — reports the opposite
+- [Cross-term Foundational Skills scores were moderately correlated, with correlations ranging from 0.48 to 0.82 depending on domain and grade](foundational-skills-cross-term-moderate-correlations.md) — related
+- [Foundational Skills test scores generally increased across terms and grades, with less growth observed at higher grades](foundational-skills-scores-increase-across-terms-and-grades.md) — related
+- [True-score-model correlations between term scores exceed 0.90 for almost all course-specific tests](true-score-correlations-above-090.md) — reports the opposite

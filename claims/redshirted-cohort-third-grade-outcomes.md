@@ -46,3 +46,4 @@ A longitudinal follow-up of the 2021-22 kindergarten cohort through third grade 
 - [Redshirted students' early-grade academic advantage over on-time peers fades as students move through school](redshirting-academic-advantage-short-lived.md) — related
 - [Redshirted children may gain a physical maturity advantage over peers, which some parents cite for sports](redshirting-physical-maturity-advantage-sports.md) — related
 - [Redshirting kindergartners likely carries costs that outweigh its academic benefits](redshirting-costs-outweigh-academic-benefits.md) — related
+- [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](school-entry-age-early-advantage-fades-by-later-grades.md) — related

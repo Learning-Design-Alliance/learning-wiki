@@ -48,3 +48,4 @@ Case narrative of Gina, a second-year middle school math teacher in the project,
 - [Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration](tefa-skill-areas-sequential-order.md) — related
 - [After one year of TEFA professional development, videotaped lessons showed increased discussion time, more student-student interactions, less IRE interaction, and more varied discussion formats](tefa-pd-year-one-observable-practice-changes.md) — related
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related
+- [Within-person changes in response time have inconsistent implications for accuracy, predicting higher accuracy in some cases and declines in others](within-person-time-accuracy-association-varies.md) — related

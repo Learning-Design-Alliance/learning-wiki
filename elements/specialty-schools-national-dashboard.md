@@ -50,6 +50,7 @@ The Specialty Schools National Dashboard is an interactive data visualization to
 - [MAP Growth National Dashboard with user guide and technical appendix](map-growth-national-dashboard-element.md)
 - [MAP Growth National Dashboard as the data source for post-COVID recovery analysis](map-growth-national-dashboard-recovery-data.md)
 - [MAP Growth assessments as the data source for pandemic learning-loss analysis](map-growth-assessment-pandemic-recovery-data.md)
+- [NWEA research partnership map visualizing collaborations with universities, foundations, think tanks, and school systems](nwea-research-partnership-map.md)
 
 ## Examples
 -

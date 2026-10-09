@@ -37,7 +37,8 @@ The MAP Growth Goal Explorer is a data visualization designed to support and sim
 - Setting realistic and meaningful academic growth goals for a school year
 
 ## Related Elements
-- 
+
+- [NWEA College Explorer tool linking MAP Growth scores to higher-education benchmarks](nwea-college-explorer-tool.md)
 
 ## Examples
 

@@ -53,3 +53,4 @@ The brief's summary of MAP Growth data from 7 million students in grades 3-8 rep
 - [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related
 - [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](pandemic-recovery-stalled-2022-23.md) — related
 - [Academic rebounding in reading and math was uneven across school years and summers, especially in reading](rebounding-uneven-across-school-years-summers-reading.md) — related
+- [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — related

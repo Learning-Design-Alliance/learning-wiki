@@ -50,3 +50,4 @@ Observational analysis of adjacent-year school averages on Insight survey domain
 - [Most teacher survey domains and scales used by DCPS meaningfully differentiate among schools](teacher-survey-domains-differentiate-among-schools.md) — related
 - [Principal practice instrument ratings and school median student growth percentiles showed moderate to high year-to-year stability, but growth percentiles changed more across years in smaller schools](evaluation-measure-year-to-year-stability-school-size.md) — related
 - [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](school-climate-associated-higher-teacher-evaluation-scores.md) — related
+- [A large-scale long-term study examined the measurement stability of Rasch measurement scales that had been in place for almost 40 years](long-term-study-rasch-scale-stability-almost-40-years.md) — related

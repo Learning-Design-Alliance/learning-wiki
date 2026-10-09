@@ -50,3 +50,4 @@ The page's own description of the technical appendix states it "highlights an ur
 - [Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress](middle-school-reading-stagnant-post-covid.md) — a narrower finding that bears on this claim
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](middle-school-reading-stagnant-lowest-performers-behind.md) — a narrower finding that bears on this claim
 - [Reading achievement remained stalled as of Spring 2025 according to MAP Growth national data](spring-2025-map-growth-reading-stalled.md) — related
+- [The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery](nwea-visualization-state-level-covid-insights.md) — related

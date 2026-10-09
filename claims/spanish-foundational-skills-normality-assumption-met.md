@@ -45,3 +45,6 @@ Graphical normality checks (histograms, Q-Q plots, CDF curves, and residuals fro
 ## Related Claims
 - [Given assumption violations and the uniformity factor, the authors judge the LDF method more likely accurate and superior to ICC for this performance assessment](ldf-superior-to-icc-for-this-performance-assessment.md) — related
 - [The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy](irt-assumption-violations-cause-dif-method-discrepancy.md) — related
+- [Q-Q plots, CDF curves, and residual checks support the joint normality assumption underlying the multivariate true score model for the course-specific tests.](course-specific-norms-normality-supported.md) — a narrower finding that bears on this claim
+- [The multivariate normality assumption of the norming model was judged met for all domains and grades, despite some tail deviations in Q-Q plots](normality-assumption-met-foundational-skills-norming.md) — possibly the same claim (merge candidate)
+- [Normality assumptions of the true score model appeared reasonable for the course-specific tests](normality-assumption-reasonable-course-specific.md) — possibly the same claim (merge candidate)

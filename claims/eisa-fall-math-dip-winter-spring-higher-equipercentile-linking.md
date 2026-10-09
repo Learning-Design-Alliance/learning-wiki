@@ -46,3 +46,8 @@ Section 2.6 reports concordance studies (attributed to Lewis and Kuhfeld 2024) c
 - [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related
 - [The 2025 MAP Growth norms were derived from one of the largest norming samples ever created, spanning 116,225,831 test events from 13,804,182 students in 29,720 schools across 7,000 districts over six testing terms](map-growth-2025-norms-massive-norming-sample.md) — related
 - [Mean foundational-skills scores rise from fall to spring with the largest gains in kindergarten and grade 1, and growth flattens by grades 2-3](spanish-foundational-skills-fall-to-spring-gain-pattern.md) — related
+- [Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with small effects varying by grade](content-proximity-math-scores-higher.md) — related
+- [Content Proximity pilot tests contained significantly more on-grade items and made better use of adjacent-grade items than traditional MAP Growth tests](content-proximity-more-on-grade-items.md) — related
+- [Updated 2025 MAP Growth screening thresholds are set at the 35th percentile with adjustments for the Enhanced Item-Selection Algorithm](map-growth-2025-thresholds-35th-percentile-eisa.md) — related
+- [Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading](norms-prediction-rmsd-math-reading.md) — related
+- [Spanish MAP Growth Reading universal screening cut scores correspond to the 40th percentile of Spanish norms, established by linking to English cut scores](spanish-map-growth-reading-40th-percentile-cut-scores.md) — related

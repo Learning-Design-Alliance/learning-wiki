@@ -53,6 +53,8 @@ A Spanish-language early-grades reading assessment covering three domains: Phono
 - [Spanish MAP Reading Fluency adaptive oral reading assessment](spanish-map-reading-fluency-assessment.md)
 - [Achievement and growth norms for Spanish MAP Reading Fluency Foundational Skills (grades K–3)](spanish-map-reading-fluency-foundational-skills-norms.md)
 - [Stress Awareness field test measures for Spanish suprasegmental phonology](stress-awareness-field-test-measures.md)
+- [MAP Reading Fluency Foundational Skills achievement and growth norms for Grades K-3 in three domains](map-reading-fluency-foundational-skills-norms-k-3.md)
+- [Spanish MAP Growth Reading assessment: an adaptive K–8 reading assessment on a RIT scale linked to the English version](spanish-map-growth-reading-assessment.md)
 
 ## Examples
 

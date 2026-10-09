@@ -49,3 +49,4 @@ Analysis of policy initiative effects in Chapter 4 of the executive summary and 
 - [Residential mobility explains 55-61 percent of the school-year race gap in mobility, school average achievement an additional 16 percent, and access to school choice options increasingly explains the summer gap](race-gap-explained-by-residential-achievement-choice.md) — related
 - [Under NCLB, CPS transfer demand far exceeded available seats, and school classifications were unstable](nclb-cps-transfer-demand-exceeds-seats.md) — related
 - [School mobility, especially frequent within-year moves, slows instructional pacing in schools with many mobile students](student-mobility-slows-instructional-pacing.md) — related
+- [School mobility during elementary school did not appear to be a pervasive risk for children's functioning, though very high mobility rates could not be studied](elementary-school-mobility-not-pervasive-risk.md) — related

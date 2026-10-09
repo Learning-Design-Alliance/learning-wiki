@@ -47,3 +47,5 @@ DIF analysis comparing male–female and Hispanic–White examinees across terms
 - [Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands](ldf-identifies-seven-absolute-dif-items.md) — related
 - [DIF was found for four items but could not be anticipated from differential response times between boys and girls alone](dif-not-predictable-from-differential-response-times.md) — related
 - [The vast majority of Spanish Math (91%) and Reading (98%) items show no misfit across fall, winter, and spring terms](spanish-items-longitudinal-fit-no-misfit.md) — related
+- [The Spanish math test population is predominantly Hispanic (about 78%), unlike the English math test population (about 15%), with implications for Spanish norms](spanish-english-test-population-ethnicity-difference.md) — related
+- [DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)](spanish-map-reading-dif-patterns.md) — related

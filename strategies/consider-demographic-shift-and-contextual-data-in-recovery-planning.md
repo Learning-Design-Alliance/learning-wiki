@@ -43,6 +43,8 @@ The brief recommends that decisions about supporting students' academic growth a
 - [Use school-level recovery patterns to target support and long-term improvement investments where they are needed most](target-support-by-school-recovery-patterns.md)
 - [Use summer learning loss research to help educators, policy makers, and families plan for and address impacts of extended school closures](summer-loss-research-to-plan-closure-recovery.md)
 - [Use NAEP 2024 results, available January 2025, for better estimates of academic recovery](naep-2024-preferred-recovery-estimates.md)
+- [Use multiple evidence sources alongside benchmark scores when identifying students for intensive intervention](combine-screening-benchmarks-with-other-risk-factors.md)
+- [Educational leaders should examine demographic shifts in the tested student population before making growth and recovery support decisions](consider-demographic-shifts-in-tested-students-decisions.md)
 
 ## Examples
 -

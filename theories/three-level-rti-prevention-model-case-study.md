@@ -45,7 +45,8 @@ The case study presents RTI as a multi-level prevention framework in which stude
 - [Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms](../claims/three-options-setting-iep-goals-cbm.md) [+W]
 
 ## Related Theories
-- 
+
+- [Response-to-intervention multitiered support model with universal screening and progress monitoring as its assessment components](rti-multitiered-screening-progress-monitoring-model.md)
 
 ## Examples
 

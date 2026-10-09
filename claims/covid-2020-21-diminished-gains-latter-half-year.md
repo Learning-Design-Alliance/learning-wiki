@@ -50,3 +50,5 @@ The brief's summary describes an analysis of within-year gains on MAP Growth ass
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — possibly the same claim (merge candidate)
 - [Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short](pandemic-growth-varied-by-pre-pandemic-achievement-status.md) — related
 - [The average student demonstrated positive math and reading gains during the 2020-2021 school year](positive-gains-2020-2021-school-year.md) — related
+- [The Learning during COVID-19 research investigated whether 2020-21 school-year gains and spring 2021 achievement differed from pre-pandemic trends and levels in reading and math.](covid-2020-21-achievement-compared-pre-pandemic.md) — possibly the same claim (merge candidate)
+- [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related

@@ -63,6 +63,7 @@ CBM operationalizes [Assessment for Learning](../principles/assessment-for-learn
 - [Formative assessment cycles](../patterns/formative-assessment.md) — CBM is a specialized, high-frequency form of the assess-adjust loop
 - [Mastery-based progression](../patterns/competency-based-learning.md) — CBM data can gate advancement decisions
 - [Use one-minute timed grade-level passages to monitor oral reading fluency progress](one-minute-timed-passage-fluency-monitoring.md)
+- [Combine formative assessment information with MAP Growth scores for instructional decisions](combine-formative-assessment-with-map-growth-scores.md)
 
 ## Examples
 - **AIMSweb / FastBridge** (Pearson/Renaissance) — commercial CBM systems with digital probes, automated graphing, and norm comparisons (https://www.fastbridge.org)

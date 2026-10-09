@@ -49,3 +49,4 @@ Information comparison study (Research Report 77-7) administering conventional a
 - [An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality](inter-subtest-branching-halves-battery-length.md) — related
 - [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](cmi-ela-test-precision-declines-above-40th-percentile.md) — related
 - [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — related
+- [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-precision-advantage.md) — related

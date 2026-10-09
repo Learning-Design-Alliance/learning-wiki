@@ -65,3 +65,4 @@ Same regression models as the primary analysis; the authors interpret the adjust
 - [The developed MIRT equating methods behave as unbiased, effective, and consistent estimators of transformation parameters](mirt-equating-methods-unbiased-effective-consistent.md) — related
 - [The Ratio of Trace method consistently yields the most precise estimates of the MIRT dilation parameter k across all simulated equating situations](ratio-of-trace-best-dilation-estimate-mirt-equating.md) — related
 - [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related
+- [Both proposed adjustment methods (IEA and BA) reduce RMSE of item difficulty estimates from direct 2PL-IRT fitting, with BA yielding more consistent (lower-variance) estimates in simulation](iea-ba-reduce-difficulty-estimate-bias.md) — related

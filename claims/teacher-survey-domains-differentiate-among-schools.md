@@ -48,3 +48,4 @@ Analysis of two teacher surveys DCPS has used (Panorama and Insight) examined wh
 - [Nearly all teacher survey domains and scales correlate small-to-moderately (0.26 to 0.46) with supervisors' ratings of principals' leadership](survey-supervisor-rating-correlations-026-046.md) — related
 - [Insight survey domain averages are more stable across years when a school keeps the same leader, suggesting principals affect these measures](insight-domain-stability-same-leader.md) — related
 - [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](pittsburgh-three-measures-differentiate-teacher-performance.md) — related
+- [A large-scale long-term study examined the measurement stability of Rasch measurement scales that had been in place for almost 40 years](long-term-study-rasch-scale-stability-almost-40-years.md) — related

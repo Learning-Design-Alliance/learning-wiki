@@ -44,3 +44,4 @@ The intended-uses chapter describes linking studies (e.g., Hu, 2021) whose resul
 
 ## Related Claims
 - [MAP Growth reliability coefficients average about 0.95, with lower values in Science and early grades and stronger test-retest reliability over shorter intervals](map-growth-reliability-095-subject-and-interval-variation.md) — related
+- [Linking studies connect MAP Growth scores to state summative proficiency predictions and external measures](map-growth-linking-studies-predictions.md) — related

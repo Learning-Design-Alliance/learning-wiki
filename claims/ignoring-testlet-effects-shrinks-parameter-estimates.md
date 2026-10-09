@@ -52,3 +52,4 @@ Figures 4 and 5 display item intercept and loading estimates with 95% confidence
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related
 - [PPMC-N detects local dependence in dichotomous IRT models comparably to the Bayesian PPMC approach](ppmc-n-comparable-to-bayesian-ppmc-local-dependence.md) — related
+- [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related

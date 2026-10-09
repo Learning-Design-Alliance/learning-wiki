@@ -58,3 +58,4 @@ Observational analysis of pilot data on school median student growth percentiles
 - [School value added can reflect school-specific influences on student achievement growth that are outside principals' control](value-added-reflects-influences-outside-principal-control.md) — related
 - [Ninth-grade teachers' grade effects are stable across years](teacher-grade-effects-stable-across-years.md) — related
 - [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](effective-principals-positive-student-outcomes.md) — related
+- [A large-scale long-term study examined the measurement stability of Rasch measurement scales that had been in place for almost 40 years](long-term-study-rasch-scale-stability-almost-40-years.md) — related

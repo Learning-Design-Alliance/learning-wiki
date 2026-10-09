@@ -44,6 +44,7 @@ MAP Growth is NWEA's national assessment used in this brief as one of three data
 ## Related Elements
 
 - [Technical appendix document accompanying the gender-gap STEM trends study](nwea-technical-appendix-gender-gap-stem-trends.md)
+- [NWEA MAP Growth assessment as national data source for seasonal skill-growth analysis](nwea-map-growth-seasonal-inequality-data.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Model comparison on the common student sample using Root-Mean-Square Error (Tabl
 - [The Ratio of Trace method consistently yields the most precise estimates of the MIRT dilation parameter k across all simulated equating situations](ratio-of-trace-best-dilation-estimate-mirt-equating.md) — related
 - [A linear regression on skill variables (n, dim, pc) predicts the minimum RSS value for BKT-BF training with high predictive ability](linear-regression-predicts-minimum-rss-bkt-bf.md) — related
 - [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](swcpm-arm-high-correlation-grades-1-5.md) — related
+- [BFpack handles common statistical analyses with default priors and data missing at random](bfpack-default-priors-missing-data.md) — related

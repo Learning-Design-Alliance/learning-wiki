@@ -46,7 +46,8 @@ Springboard Summer is an intensive 5-week summer literacy program for rising kin
 - [Springboard Summer scholars show positive, statistically significant reading growth from end-of-year to beginning-of-year assessments, averaging about 1.8 months](../claims/springboard-summer-significant-reading-gains.md) [+W]
 
 ## Related Elements
-- 
+
+- [Three-week structured summer kindergarten transition program](three-week-structured-kindergarten-transition-program.md)
 
 ## Examples
 -
