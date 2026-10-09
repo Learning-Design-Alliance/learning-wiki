@@ -3,6 +3,7 @@ type: learner-variable
 id: digital-literacy
 title: Digital Literacy
 description: Whether a learner can operate the interface the instruction is delivered through, independently of whether they can reach it.
+canonical: true
 status: draft
 generated:
   by: "claude/unspecified"

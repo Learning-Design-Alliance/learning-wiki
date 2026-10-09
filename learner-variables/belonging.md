@@ -3,6 +3,7 @@ type: learner-variable
 id: belonging
 title: Belonging
 description: Whether a learner expects to be treated as a full participant in this setting, and how much of their attention that question consumes.
+canonical: true
 status: draft
 generated:
   by: "claude/unspecified"

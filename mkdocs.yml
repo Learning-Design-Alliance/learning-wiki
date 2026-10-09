@@ -53,6 +53,7 @@ extra_css:
 
 hooks:
   - docs_hooks/page_metadata.py
+  - docs_hooks/situations.py
   - docs_hooks/two_tier.py
 
 # Search is Pagefind's, built over both tiers by scripts/build_site.sh; the
@@ -76,6 +77,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Search: search.md
+  - Design for a Situation: situations/index.md
   - Principles: principles/index.md
   - Elements: elements/index.md
   - Patterns: patterns/index.md

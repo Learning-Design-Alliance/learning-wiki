@@ -3,6 +3,7 @@ type: learner-variable
 id: reading-and-language
 title: Reading and Language
 description: What a learner can read fluently, and whether the language of instruction is the one they think in.
+canonical: true
 status: draft
 generated:
   by: "claude/unspecified"

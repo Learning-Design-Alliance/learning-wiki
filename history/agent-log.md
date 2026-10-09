@@ -5,6 +5,40 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-10 (later) — search for design work: situation index, learner variables canonical, a designer query set
+
+The maintainer's retest asked how well the wiki serves learner analysis, context analysis and
+choosing patterns and principles. 30 designer queries found: no learner-variable page in the top
+ten even for its own title ("working memory"), no converted page in the top five for any of ten
+learner queries, and the best guidance (the 1,117 rows of the 77 `## Fitting the design to a
+situation` tables) reachable only from its own page.
+
+- **`situation-index.json`** (`scripts/build_situation_index.py`, run by `build_indexes.py`,
+  `--check` in CI) collects every row with its tags from `evidence-dimensions.json` (expertise,
+  age, population band, knowledge type, setting, duration), the claims its basis cites with their
+  markers, and `basis_kind` (`claim` 543, `untested` 573). 690 rows name their situation in words,
+  not tags; conservative patterns read 567 of them as `inferred_tags` (single-session,
+  workplace-clinical, classroom, online-self-paced, novice, child, adult), checked against the
+  rows they match. `advanced` is never inferred: its patterns caught the teacher ("an
+  inexperienced teacher"), and "adult" caught the facilitator ("scarce adult time"). 550 rows
+  still carry neither; they name facets the vocabulary has no value for (second language of
+  instruction, stakes, class size, scarce facilitator time), which the `text` argument reaches.
+- **MCP `situations` tool**: tags and/or words → the matching rows, grouped by page, pages
+  covering more of the tags first; no arguments returns the vocabulary.
+- **Site: "Design for a Situation"** (`docs_hooks/situations.py`): one generated page per tag
+  plus an index, 1,389 links, all resolving. No wiki page is edited.
+- **Learner variables are `canonical: true`** (`settle_candidates.py --mark-canonical` now stamps
+  every learner-variable page; they are not added to `canonical_keys()`, the ledger's index).
+  Agent search also gives +10 to a page whose title *is* the query.
+- **`eval/search/designer-queries.json` + `scripts/eval_search.py`**: 38 search queries with
+  acceptable answers and 14 situation checks. main → this change: learner hit@5 42% → 67%, all
+  68% → 76% (hit@1 37% → 45%); situations 14/14. Goal queries stay at 50%: "improve writing",
+  "build conceptual understanding", "long-term retention" land on claims, not the principle,
+  which goal-type hub pages would fix (a maintainer decision).
+- **Found, not fixed: learner-variable pages are nearly unlinked.** Only 7 of 12 have any inbound
+  link, and none links to `prior-knowledge`; claims reporting learner-characteristic findings do
+  not link into them, which the learning-design-spec join (`spec/learners.md`) relies on.
+
 ## 2026-10-10 — products and research methods; a tighter independence rule; search that finds the main page
 
 - **Two kinds** (maintainer): `products/` for named products and programmes others adopt (a

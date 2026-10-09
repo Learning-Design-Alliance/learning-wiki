@@ -3,6 +3,7 @@ type: learner-variable
 id: attention
 title: Attention
 description: How long a learner can sustain focus on one thing, and how easily something else takes it away.
+canonical: true
 status: draft
 generated:
   by: "claude/unspecified"
