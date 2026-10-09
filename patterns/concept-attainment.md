@@ -3,6 +3,7 @@ type: pattern
 id: concept-attainment
 title: Concept Attainment
 description: "A reusable policy in which learners infer a concept's defining attributes by comparing labelled examples and non-examples, then classify new instances; expected to improve classification of new instances where the concept has identifiable attributes, the examples are chosen to contrast on them, guidance and a stated rule follow the induction, and learners can already interpret the instances."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

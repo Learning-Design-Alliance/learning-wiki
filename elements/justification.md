@@ -3,6 +3,7 @@ type: element
 id: justification
 title: Justification
 description: Justification is the element in which learners explain why a claim, choice, or solution is warranted using reasons, criteria, or evidence.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

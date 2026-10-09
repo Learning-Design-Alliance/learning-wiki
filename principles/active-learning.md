@@ -3,6 +3,7 @@ type: principle
 id: active-learning
 title: Active Learning
 description: "For learners meeting new material in a course, class time spent generating, explaining or applying the content with feedback, rather than only listening, is expected to raise course-end exam and concept-inventory scores, qualified by guidance for novices, the kind of engagement and what else changed with the format."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

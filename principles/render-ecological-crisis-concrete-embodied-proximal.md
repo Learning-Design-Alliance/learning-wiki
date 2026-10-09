@@ -3,6 +3,7 @@ type: principle
 id: render-ecological-crisis-concrete-embodied-proximal
 title: Render planetary ecological crisis concrete, embodied, proximal, and implicative for students
 description: "Extending Fassett and Warren's commitments to concrete mundane practices and structural critique, the article argues that \"a critical pedagogy of the Anthropocene must render the 'larger' structure of planetary ecolog..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

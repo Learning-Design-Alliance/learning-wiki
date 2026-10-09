@@ -3,6 +3,7 @@ type: principle
 id: teacher-as-designer-guider-consultant
 title: "Change the teacher's role from indoctrinator to designer, guider, and academic consultant in student-centered teaching"
 description: "Because students are the subjects of learning, the article argues the teacher's role must change \"from the initiator and the indoctrinator into the helper and the driver for students constructing meanings initiatively\"."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

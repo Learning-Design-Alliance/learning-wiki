@@ -2,6 +2,7 @@
 type: theory
 title: Psychosocial Theory of Identity Development
 description: Erikson's psychosocial theory holds that healthy development unfolds through eight life stages, each defined by a crisis between two opposing forces whose resolution yields a specific psychosocial virtue.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

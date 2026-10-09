@@ -3,6 +3,7 @@ type: principle
 id: self-monitoring
 title: Self-monitoring
 description: "For a learner with a readable criterion and a next move for each result, taught, test-based checks of their own work at set points during a task are expected to improve performance on it, but no claim here isolates self-monitoring against its absence on a learning outcome."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

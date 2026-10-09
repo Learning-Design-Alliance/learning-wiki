@@ -2,6 +2,7 @@
 type: theory
 title: Adaptive Cycles Framework
 description: Adapted from ecological systems theory, the adaptive cycles framework describes learning as moving through four non-linear phases — problematization, reorganization, growth, and conservation — each of which opens the learner to different kinds of support.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

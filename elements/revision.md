@@ -3,6 +3,7 @@ type: element
 id: revision
 title: Revision
 description: Learners improve their work based on feedback and self-reflection.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

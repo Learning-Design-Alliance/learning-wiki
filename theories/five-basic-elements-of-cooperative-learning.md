@@ -2,6 +2,7 @@
 type: theory
 title: "Five basic elements make cooperative learning work: positive interdependence, face-to-face interaction, individual accountability, interpersonal and small group skills, and group processing"
 description: "The report presents five essential basic elements that must be \"precisely structured into every learning group\" for cooperative learning to work."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

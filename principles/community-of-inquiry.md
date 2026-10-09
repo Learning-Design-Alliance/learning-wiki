@@ -3,6 +3,7 @@ type: principle
 id: community-of-inquiry
 title: Community of Inquiry
 description: "For learners in a discussion-based course whose shared inquiry stalls at sharing ideas, the CoI framework proposes that designed social, cognitive and teaching presence together move discourse towards resolution, but the wiki holds only survey associations and descriptive profiles of the presences, no test of that effect on learning."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: simulations-immersive-virtual-environments
 title: "Simulations & Immersive Virtual Environments"
 description: Simulations and immersive virtual environments let learners practice decisions, procedures, and interpretations inside a designed representation of reality.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

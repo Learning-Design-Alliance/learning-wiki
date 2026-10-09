@@ -3,6 +3,7 @@ type: element
 id: elaboration
 title: Elaboration
 description: Elaboration asks learners to connect new material to prior knowledge by generating explanations, examples, analogies, or associations beyond what was presented.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

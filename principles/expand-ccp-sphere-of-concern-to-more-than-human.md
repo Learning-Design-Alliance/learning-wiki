@@ -3,6 +3,7 @@ type: principle
 id: expand-ccp-sphere-of-concern-to-more-than-human
 title: "Expand critical communication pedagogy's sphere of concern to include more-than-human existents because anthropocentrism and speciesism maintain social hierarchy"
 description: "This principle holds that critical communication pedagogy, alongside emancipating human life from colonial, imperial, and capitalist domination, \"must also expand its sphere of concern to include more-than-human exist..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

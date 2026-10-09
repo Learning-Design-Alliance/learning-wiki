@@ -3,6 +3,7 @@ type: principle
 id: entangle-environmental-and-social-justice
 title: Figure environmental justice and social justice as co-constitutive projects toward ecological justice
 description: "The article argues that an ecologically attuned CCP should treat environmental justice and social justice as intimately entangled rather than discrete, so that \"CCP should figure efforts toward human and more-than-hum..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -2,6 +2,7 @@
 type: theory
 title: Glasser's Choice Theory and Cooperative Learning
 description: Glasser's reality-therapy approach holds that effective classroom managers build an environment students would regret leaving — through mutually agreed-upon rules, cooperative learning instead of competitive whole-group instruction, and "lead management" rather than "boss management" — so that students choose good behavior rather than needing to be forced into it.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

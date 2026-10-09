@@ -3,6 +3,7 @@ type: pattern
 id: spaced-learning
 title: Spaced Learning
 description: "A reusable policy for distributing learning opportunities, preserving total practice, gap and assessment horizon when comparing schedules."
+canonical: true
 status: review
 generated:
   by: codex/unspecified

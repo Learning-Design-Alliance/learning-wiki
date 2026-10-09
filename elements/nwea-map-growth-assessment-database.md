@@ -3,6 +3,7 @@ type: element
 id: nwea-map-growth-assessment-database
 title: NWEA MAP Growth assessment and longitudinal achievement database
 description: MAP Growth is a computer adaptive test that measures achievement status and growth over time, vertically scaled to allow estimation of gains across time and aligned to state content standards, with scores reported on...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

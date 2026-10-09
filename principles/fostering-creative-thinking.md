@@ -4,6 +4,7 @@ id: fostering-creative-thinking
 aliases: [assess-process-over-product-maker-education, low-stakes-nonjudgmental-creativity-environment]
 title: Fostering Creative Thinking
 description: Creative thinking — generating ideas that are new, useful, and appropriate — can be deliberately stimulated through divergent-thinking prompts, protecting intrinsic motivation from constant evaluation, and finding room for experimentation alongside necessary assessment.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

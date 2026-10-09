@@ -4,6 +4,7 @@ id: inquiry-based-learning
 aliases: [guiding-problem-question-structures-astronomy-sequence]
 title: Inquiry-based Learning
 description: For school science learners, inquiry that is guided (prompts, feedback, teacher-led explanation and a synthesis) is associated with better conceptual understanding than comparison instruction, while unguided discovery of essential content learns less than explicit instruction for novices.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

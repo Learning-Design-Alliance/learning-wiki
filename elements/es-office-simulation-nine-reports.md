@@ -3,6 +3,7 @@ type: element
 id: es-office-simulation-nine-reports
 title: Local office simulation model with nine statistical output reports
 description: "The report's central artifact is a computer simulation of a local office day, stepping through applicant interviews, job-order handling and miscellaneous tasks hour by hour while gathering statistics on system behavior."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

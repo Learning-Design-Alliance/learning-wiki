@@ -2,6 +2,7 @@
 type: theory
 title: Instinct, Drive, and Arousal Theories
 description: Three historically successive biological accounts of motivation — behavior driven by unlearned instincts, by drives that restore homeostasis, or by maintaining an optimal level of physiological arousal — that predate and partly underlie behaviorist and cognitive theories of motivation.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

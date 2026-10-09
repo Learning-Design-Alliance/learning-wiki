@@ -3,6 +3,7 @@ type: element
 id: el-structured-pedagogy-package
 title: "Structured pedagogy package: student books, teachers' guides, and teacher professional development"
 description: "The brief describes structured pedagogy as \"a coordinated approach to improving classroom instruction that involves provision of student materials and lesson plans, training, and continuous support.\" Its components in..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

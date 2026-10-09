@@ -3,6 +3,7 @@ type: element
 id: 5essentials-survey-system-illinois
 title: 5Essentials Survey system measuring school organizational conditions
 description: The 5Essentials Survey is a confidential statewide survey administered to students in grades 6-12 and all teachers that measures the five essential supports framework.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

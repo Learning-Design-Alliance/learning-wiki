@@ -3,6 +3,7 @@ type: element
 id: recall-prior-knowledge
 title: Recall prior knowledge
 description: "Activates learners' existing mental models to connect new information."
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

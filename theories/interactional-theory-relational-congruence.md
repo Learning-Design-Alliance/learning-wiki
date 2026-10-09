@@ -2,6 +2,7 @@
 type: theory
 title: Interactional theory of therapeutic relationship formation and change
 description: "Interactional theory (attributed to Strong, 1982, and Claiborn & Lichtenberg, 1989) holds that therapeutic change is generated in the process of forming the relationship rather than after a stable relationship is esta..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

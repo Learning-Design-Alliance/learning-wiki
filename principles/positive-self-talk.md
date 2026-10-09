@@ -3,6 +3,7 @@ type: principle
 id: positive-self-talk
 title: Positive Self-talk
 description: "For a learner who stalls, rushes or freezes at a predictable hard moment in a task, a few short, credible self-talk cues tied to a next action, modeled and rehearsed, are expected to improve performance and persistence; claims test self-talk only on sport and motor tasks, not on academic learning on its own."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

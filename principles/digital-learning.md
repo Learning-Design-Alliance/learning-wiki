@@ -4,6 +4,7 @@ id: digital-learning
 aliases: [shared-whiteboard-dual-cohort-workspace]
 title: Digital Learning
 description: "Putting part of a course on a digital tool is expected to help only through the method it makes affordable (more practice with feedback, adaptive hints, prompts to explain, visible progress) and not through the medium itself; no claim here tests a digital against a non-digital version of the same method."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

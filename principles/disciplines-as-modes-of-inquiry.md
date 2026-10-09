@@ -3,6 +3,7 @@ type: principle
 id: disciplines-as-modes-of-inquiry
 title: Help students understand disciplines as modes of inquiry rather than static bodies of information
 description: "Sharon Bailin's plenary address extends the standard skills-and-dispositions account of critical thinking by requiring that students understand disciplines as modes of inquiry."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

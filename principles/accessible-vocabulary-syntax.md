@@ -4,6 +4,7 @@ id: accessible-vocabulary-syntax
 aliases: [plain-english-workplace-materials]
 title: "Accessible Vocabulary & Syntax"
 description: "For a learner whose failure on a content task may be linguistic rather than conceptual, removing avoidable wording barriers while explicitly teaching the few essential terms is expected to improve comprehension of the taught material, with weak evidence for transfer to authentic texts or delayed retention."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

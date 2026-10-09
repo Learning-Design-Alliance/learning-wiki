@@ -3,6 +3,7 @@ type: principle
 id: flexible-grouping
 title: Flexible Grouping
 description: "In a class whose learners differ on the current task, forming temporary similar-need and mixed groups for a stated purpose from recent task evidence, and re-forming them as the evidence changes, is expected to match support and challenge to need better than one whole-class format or fixed ability groups, though no claim here tests flexible grouping itself."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

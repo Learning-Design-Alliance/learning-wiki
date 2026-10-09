@@ -3,6 +3,7 @@ type: principle
 id: epistemic-cognition
 title: Epistemic Cognition
 description: "When learners must judge claims, explicit teaching and practice of the standards for a particular kind of evidence (checking who is behind a web source, judging a study's methods, justifying an argument with evidence) is associated with better judgments of that kind, measured up to five weeks later; the gains have not been shown to carry over to other kinds of evidence."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

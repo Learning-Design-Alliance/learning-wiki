@@ -3,6 +3,7 @@ type: element
 id: response-redundancy-congruence-index
 title: Response redundancy index of relational congruence based on information theory
 description: "A quantitative index operationalizing relational congruence as patterning in verbal interaction, drawing on Shannon and Weaver's mathematical theory of communication."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

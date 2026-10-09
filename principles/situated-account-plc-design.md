@@ -3,6 +3,7 @@ type: principle
 id: situated-account-plc-design
 title: Design professional learning communities around situated teacher agency and practice, not attitude change
 description: "The paper proposes a practice-based focus for PLCs: \"professional learning in schools is situated in the context of educational practices,\" so designs must acknowledge the contextual, dynamic, and relational nature of..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -4,6 +4,7 @@ id: sequencing
 aliases: [articulate-partial-meanings-integral-planning, free-exploration-before-organized-plan-sequence, number-difficulty-impacts-mdc-construction, vicarious-before-mastery-teacher-development]
 title: Sequencing
 description: "For a novice on a target whose parts depend on each other, meeting the parts in an order that puts what a step rests on before it and moves from what the learner can process toward full complexity, revised from the learner's responses, is expected to improve performance on tasks that draw on the whole; no claim tests that general rule, and tests of particular orders (example or problem first, parts or whole first, blocked or mixed) favour different orders for different learners and goals."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

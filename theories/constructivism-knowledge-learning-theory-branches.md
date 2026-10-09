@@ -2,6 +2,7 @@
 type: theory
 title: Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches
 description: The paper presents Constructivism as a theory of knowledge and learning concerned with what one knows and how one comes to know, treating knowledge as internally constructed and socially mediated.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

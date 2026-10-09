@@ -3,6 +3,7 @@ type: element
 id: map-growth-national-dashboard
 title: MAP Growth National Dashboard
 description: The MAP Growth National Dashboard is a NWEA data product that releases national trend data on student achievement and growth.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

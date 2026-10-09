@@ -3,6 +3,7 @@ type: element
 id: motivational-delivery-checklist
 title: Motivational Delivery Checklist
 description: "The digest describes the Motivational Delivery Checklist, developed by Keller and Keller (1989), as \"a 47-item ARCS-based instrument for evaluating the motivational characteristics of an instructor's classroom delivery\"."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

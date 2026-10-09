@@ -3,6 +3,7 @@ type: element
 id: self-assessment
 title: Self-Assessment
 description: Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

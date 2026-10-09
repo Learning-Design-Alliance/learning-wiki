@@ -3,6 +3,7 @@ type: element
 id: summative-assessment
 title: Summative Assessment
 description: "Summative assessment is the element in which a learner's performance is judged at the end of a unit, course, or other instructional sequence."
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -4,6 +4,7 @@ id: discipline-specific-engaged-scholarship-policies
 aliases: [portfolio-review-nontraditional-contributions-rigor]
 title: Replace one-size-fits-all engagement policies with discipline-specific RPT policies, professional development, and institutional support
 description: Because publicly engaged scholarship manifests differently across disciplinary groups, institutions should move beyond universal, institution-wide policies.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

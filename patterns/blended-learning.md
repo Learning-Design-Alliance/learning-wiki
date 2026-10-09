@@ -3,6 +3,7 @@ type: pattern
 id: blended-learning
 title: Blended Learning
 description: "A reusable course-level policy that assigns each part of a course to online or in-person work by what that mode does that the other does not, with the in-person time spent on practice and interaction and the online part supported for self-regulation and persistence; the wiki holds no test of the blend itself apart from the extra time and materials it usually brings."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

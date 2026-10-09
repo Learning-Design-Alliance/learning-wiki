@@ -3,6 +3,7 @@ type: element
 id: discriminant-function-analysis
 title: Discriminant function analysis (Wilks method)
 description: A multivariate statistical technique (Wilks method) used to identify variables that maximally discriminate among outcome groups and to determine the number and interpretation of discriminating dimensions, up to the nu...
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

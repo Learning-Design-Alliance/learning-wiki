@@ -3,6 +3,7 @@ type: principle
 id: teacher-parent-solidarity-over-remote-sanctions
 title: Strengthen ties between teachers and parents rather than pressing for remote sanctions behind teaching
 description: "The report describes Mead's 1942 analysis of the teacher's role, in which she observed the tremendous emotional and social significance of every teacher action within the community and that teacher deviations arouse t..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

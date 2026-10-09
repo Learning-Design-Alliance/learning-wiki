@@ -3,6 +3,7 @@ type: pattern
 id: experience-with-languaging-activities
 title: Experience with Languaging Activities (ELAs) guided by a sequence of experience-based questions
 description: "A reusable routine in which learners answer, in talk or writing, what they experienced or read, what they think of it, what they learned and what more needs to be known, expected to improve understanding of content where the learned-answer prompt is content-specific and checked and learners can already make sense of the experience; no claim tests the routine as a whole, only parts of it."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

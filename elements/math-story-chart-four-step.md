@@ -3,6 +3,7 @@ type: element
 id: math-story-chart-four-step
 title: "Math Story Chart: a four-step word-problem organizer (Tell-Show-Solve-Answer and Look Back)"
 description: "The Math Story Chart is a teacher-made graphic organizer based on Polya's four-step problem-solving method, with four components: Tell (the information given), Show (the equation demonstrating the algorithm), Solve (t..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

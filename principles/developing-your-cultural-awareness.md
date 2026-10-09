@@ -3,6 +3,7 @@ type: principle
 id: developing-your-cultural-awareness
 title: Developing Your Cultural Awareness
 description: "A recurring cycle in which an educator gathers outside evidence about their own practice, names the assumption it shows and changes one decision is expected to make their reading of learners more accurate and less excluding; no claim tests this whole, and one brief empathic-discipline exercise tests a narrow version."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

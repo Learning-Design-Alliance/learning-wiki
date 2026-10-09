@@ -3,6 +3,7 @@ type: element
 id: spaced-repetition
 title: Spaced Repetition
 description: Spaced repetition is the element in which key material is revisited at strategically increasing intervals rather than massed into a single session.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

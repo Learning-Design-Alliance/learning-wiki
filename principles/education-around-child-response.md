@@ -3,6 +3,7 @@ type: principle
 id: education-around-child-response
 title: "Organize education around the child's response to material rather than the material provided by elders"
 description: "In the reconstructed lectures Mead contrasts old education, which he argues neglected and even wiped out the attitude of the child, with an approach centered on the learner's response."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

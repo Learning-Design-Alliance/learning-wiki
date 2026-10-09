@@ -4,6 +4,7 @@ id: strengths-based-approach
 aliases: [find-strengths-and-entry-points-per-teacher, remedial-instruction-build-on-strengths-integrate-sources]
 title: Strengths-based Approach
 description: "For a learner described mainly by gaps, collecting evidence of what they can already do, naming it as specific performances and building tasks, roles and support from it, with barriers still addressed, is expected to raise teacher expectations, make competence visible and support self-efficacy and persistence; no claim here compares it with deficit-organized instruction, and praise of the person or brief belief exercises limit it."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

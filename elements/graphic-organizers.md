@@ -3,6 +3,7 @@ type: element
 id: graphic-organizers
 title: Graphic Organizers
 description: Graphic organizers are visual structures that help learners sort, compare, and connect ideas.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: pattern
 id: grading-by-contract-fricke
 title: "Grading by contract: students propose specific work and criteria within teacher-presented options"
 description: Contract grading is a course-level arrangement in which the teacher presents a number of options (such as a specified number of correct responses or quality of performance), and within these limits each student may th...
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

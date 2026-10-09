@@ -411895,7 +411895,7 @@
  "note": "Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
  "totals": {
   "claims": 10549,
-  "designs": 265,
+  "designs": 263,
   "elements": 2194,
   "learner-variables": 12,
   "methods": 38,

@@ -3,6 +3,7 @@ type: theory
 id: learner-centered-paradigm
 title: Learner-Centered Paradigm of Education
 description: The learner-centered paradigm replaces a time-fixed, group-based, sorting-oriented school system with one that holds attainment constant and lets pace and path vary to fit each learner.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

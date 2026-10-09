@@ -3,6 +3,7 @@ type: element
 id: multi-mode-expression
 title: Multi-mode expression
 description: Expressing understanding through combined modes of information (text, image, sound, video).
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: element
 id: elements-equip-participation-observation-tool
 title: EQUIP (Equity Quantified in Participation) classroom observation tool
 description: EQUIP is a classroom observation tool that counts relatively low-inference indicators of participation — participation sequences, whole-class discussion type, teacher solicitation method, type of student talk, talk le...
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

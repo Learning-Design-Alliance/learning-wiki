@@ -4,6 +4,7 @@ id: direct-instruction
 aliases: [explicit-teaching]
 title: Direct Instruction
 description: "A reusable explicit-teaching policy for a structured target (elicit, explain and model, guide practice with checks, hand over on unaided success), qualified by task-specific expertise, outcome type and horizon."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

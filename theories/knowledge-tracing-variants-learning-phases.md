@@ -2,6 +2,7 @@
 type: theory
 title: Four-Phase Taxonomy of Knowledge Tracing Variants
 description: "The survey's second organizing axis groups extensions of the fundamental models by the learning phase they add: \"we classify and review current variants of fundamental KT models into four categories\" — individualizati..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

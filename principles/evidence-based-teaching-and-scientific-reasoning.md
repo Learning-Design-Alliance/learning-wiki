@@ -4,6 +4,7 @@ id: evidence-based-teaching-and-scientific-reasoning
 aliases: [implement-research-based-pedagogy-not-untested-theories]
 title: Evidence-Based Teaching and Scientific Reasoning
 description: Teaching should be grounded in evidence rather than personal impression or ideology, because personal inquiry is systematically vulnerable to confirmation bias; the scientific method guards against this through systematic empiricism, empirically answerable questions, and public, self-correcting knowledge.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

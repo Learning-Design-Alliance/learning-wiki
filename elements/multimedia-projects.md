@@ -3,6 +3,7 @@ type: element
 id: multimedia-projects
 title: Multimedia Projects
 description: Multimedia projects are the element in which learners create artifacts that combine text, visuals, audio, video, or interaction.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

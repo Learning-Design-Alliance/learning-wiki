@@ -3,6 +3,7 @@ type: principle
 id: explicit-instruction-vocabulary
 title: "Explicit Instruction: Vocabulary"
 description: "For a learner whose comprehension or use of language is limited by particular unknown words, explicitly teaching a small selected set and then arranging repeated encounters and use across contexts is expected to improve knowledge of those words and comprehension of texts that use them more than exposure alone, which claims test for school-age and second-language learners, but not for general comprehension, dose or schedule."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

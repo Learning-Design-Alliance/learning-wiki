@@ -3,6 +3,7 @@ type: principle
 id: check-ins
 title: Check-ins
 description: "A brief, recurring prompt for learners to report their state can guide the next instructional move, but only when the report is read as uncertain evidence, checked against performance where accuracy matters, and acted on."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

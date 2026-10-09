@@ -3,6 +3,7 @@ type: principle
 id: peer-learning
 title: Peer Learning
 description: Peer learning is the principle that learners can deepen understanding by explaining, questioning, modeling, and responding to one another.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

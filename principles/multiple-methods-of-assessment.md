@@ -3,6 +3,7 @@ type: principle
 id: multiple-methods-of-assessment
 title: Multiple Methods of Assessment
 description: "When one assessment method can mislead about a learner (through reading load, an unfamiliar symbol system, anxiety or a capability that shows only with help), a judgement drawn from two or more methods sampling the same goal under common, calibrated criteria is expected to be more accurate than one drawn from a single method, and bounded choice of format to raise motivation rather than achievement; no claim here tests the relationship as a whole."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

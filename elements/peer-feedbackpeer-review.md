@@ -3,6 +3,7 @@ type: element
 id: peer-feedbackpeer-review
 title: Peer Feedback/Peer Review
 description: "Peer feedback/peer review is the element in which learners evaluate one another's work against criteria and provide revision-oriented feedback."
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: pattern
 id: four-characteristics-criterion-referenced-tests
 title: Four characteristics inherent in criterion-referenced tests
 description: "The paper enumerates four design characteristics of criterion-referenced tests: \"the classes of behaviors that define different achievement levels are specified as clearly as is possible before the test is constructed..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

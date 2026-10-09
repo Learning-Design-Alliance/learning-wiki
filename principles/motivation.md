@@ -4,6 +4,7 @@ id: motivation
 aliases: [target-expectancy-value-components-in-teacher-ai-training]
 title: Motivation
 description: "For a learner whose effort or persistence is low, motivation is expected to rise when the design repairs the component that is low for that learner (expectancy of success, task value, ownership, or belonging) rather than adding generic boosts, and to raise learning only through effort on a task that demands thinking; claims test single components, and none tests the matching relationship."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

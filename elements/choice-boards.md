@@ -3,6 +3,7 @@ type: element
 id: choice-boards
 title: Choice Boards
 description: A choice board is a visual matrix of learning activities from which learners select a required subset, offering structured autonomy over how they practice and demonstrate learning.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

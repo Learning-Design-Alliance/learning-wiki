@@ -3,6 +3,7 @@ type: pattern
 id: team-based-learning
 title: Team Based Learning
 description: "A unit-level readiness-assurance policy (individual closed-book test, team retest with immediate feedback, appeals, targeted clarification, then team application) whose test-and-feedback steps rest on retrieval evidence and whose team formation, application exercises and peer evaluation do not."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

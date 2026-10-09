@@ -3,6 +3,7 @@ type: element
 id: inquiry-based-exploration
 title: Inquiry-Based Exploration
 description: Learners investigate open-ended problems and generate solutions.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

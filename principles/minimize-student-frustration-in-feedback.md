@@ -3,6 +3,7 @@ type: principle
 id: minimize-student-frustration-in-feedback
 title: Minimize student frustration by making feedback clear, legible, focused, and transparent
 description: "Teachers should avoid responding in ways that cause frustration: unclear or cryptic comments such as confusing symbols, abbreviations, single-word questions, vague remarks, and grammar jargon; illegible handwriting; a..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -2,6 +2,7 @@
 type: theory
 title: Deep Learning Knowledge Tracing Models
 description: "The survey reviews deep learning KT in four sub-categories: deep knowledge tracing with recurrent networks, memory-aware tracing such as DKVMN with key and value matrices, attentive tracing such as SAKT, SAINT and AKT..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

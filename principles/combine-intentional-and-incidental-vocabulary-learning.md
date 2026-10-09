@@ -3,6 +3,7 @@ type: principle
 id: combine-intentional-and-incidental-vocabulary-learning
 title: Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 description: "The review argues that intentional instruction and incidental exposure should complement each other: initial intentional learning builds the lexical knowledge that later incidental acquisition depends on, and gloss or..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -4,6 +4,7 @@ id: self-regulated-learning
 aliases: [metacognition, self-regulation, scale-srl-support-with-web-based-training-and-peer-feedback-groups]
 title: Self-Regulated Learning
 description: "When learners are explicitly taught and prompted to plan, monitor against stated criteria and act on what they notice, their regulation activity and task performance may improve, qualified by monitoring accuracy, prior knowledge, whether support is used, and which outcome is measured."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

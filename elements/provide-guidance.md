@@ -3,6 +3,7 @@ type: element
 id: provide-guidance
 title: Provide guidance
 description: Offers scaffolding, modeling, or examples to support learning.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

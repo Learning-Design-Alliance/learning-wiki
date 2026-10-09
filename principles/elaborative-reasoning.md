@@ -4,6 +4,7 @@ id: elaborative-reasoning
 aliases: [model-and-monitor-elaborative-interrogation-answer-quality, precise-meaningful-elaboration-facilitates-encoding, promote-self-generated-elaboration-for-expertise]
 title: Elaborative Reasoning
 description: Elaborative reasoning asks learners to go beyond restating material by generating connections, explanations, examples, and inferences that tie new content to prior knowledge.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

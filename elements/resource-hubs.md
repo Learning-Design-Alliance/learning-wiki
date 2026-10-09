@@ -3,6 +3,7 @@ type: element
 id: resource-hubs
 title: Resource Hubs
 description: Resource hubs are centralized collections of materials, links, tools, or references that learners can return to during a course or project.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

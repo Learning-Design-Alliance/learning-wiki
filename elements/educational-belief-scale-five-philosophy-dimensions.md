@@ -3,6 +3,7 @@ type: element
 id: educational-belief-scale-five-philosophy-dimensions
 title: Educational Belief Scale (40 items, five philosophy sub-dimensions)
 description: "A self-report instrument the article uses to measure teachers' educational philosophy beliefs: \"there are 40 items composed of five sub-dimensions that are scored as five-point Likert-type\"."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

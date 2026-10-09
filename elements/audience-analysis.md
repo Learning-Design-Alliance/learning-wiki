@@ -3,6 +3,7 @@ type: element
 id: audience-analysis
 title: Audience Analysis
 description: A front-end design activity that identifies learners' prior knowledge, characteristics, needs, and context so instruction can be matched to who will actually learn from it.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

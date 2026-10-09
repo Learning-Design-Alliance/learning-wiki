@@ -2,6 +2,7 @@
 type: theory
 title: "Perspective consciousness: recognizing that one's view of the world is shaped, partial, and not universally shared"
 description: "Dimension 1 defines perspective consciousness as \"the recognition or awareness on the part of the individual that heor she has a view of the world that is not universally shared\" and shaped by influences that escape c..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

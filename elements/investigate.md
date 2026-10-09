@@ -3,6 +3,7 @@ type: element
 id: investigate
 title: Investigate
 description: Investigate is the element in which learners collect information, examine evidence, or test ideas to answer a question.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

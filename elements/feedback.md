@@ -3,6 +3,7 @@ type: element
 id: feedback
 title: Feedback
 description: Learners receive input from instructors or peers to refine their work.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

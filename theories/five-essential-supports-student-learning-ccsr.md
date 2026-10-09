@@ -2,6 +2,7 @@
 type: theory
 title: Five Essential Supports for Student Learning
 description: "The report organizes its survey results around a framework of \"the five essential supports for student learning, initially presented in Annenberg's\" work, which are also included in the Chicago Public Schools' School..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

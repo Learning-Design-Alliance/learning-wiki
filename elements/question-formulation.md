@@ -3,6 +3,7 @@ type: element
 id: question-formulation
 title: Question Formulation
 description: Learners generate their own questions to guide inquiry.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

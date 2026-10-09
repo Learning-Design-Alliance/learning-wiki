@@ -2,6 +2,7 @@
 type: theory
 title: Behaviorism
 description: Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

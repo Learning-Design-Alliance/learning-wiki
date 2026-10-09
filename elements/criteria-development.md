@@ -3,6 +3,7 @@ type: element
 id: criteria-development
 title: Criteria Development
 description: Learners create rubrics or evaluation frameworks for assessment.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

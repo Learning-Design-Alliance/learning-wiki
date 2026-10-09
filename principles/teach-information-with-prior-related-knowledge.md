@@ -3,6 +3,7 @@ type: principle
 id: teach-information-with-prior-related-knowledge
 title: Teach new information for which learners have some prior related knowledge, because familiarity stimulates elaborative processing that supports later retrieval
 description: This principle holds that presenting information students already have some knowledge about encourages elaborative processing, which in turn increases the probability that target propositions will be recalled after a...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

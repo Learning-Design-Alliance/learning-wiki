@@ -3,6 +3,7 @@ type: element
 id: peer-teaching
 title: Peer Teaching
 description: Learners explain concepts to peers, reinforcing their own understanding.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

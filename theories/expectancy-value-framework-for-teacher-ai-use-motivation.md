@@ -2,6 +2,7 @@
 type: theory
 title: "Expectancy-Value Framework for Teachers' Motivation to Use AI Applications"
 description: A theoretical application of Expectancy-Value Theory to why teachers do or do not adopt AI applications in education.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

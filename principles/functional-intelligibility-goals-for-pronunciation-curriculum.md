@@ -3,6 +3,7 @@ type: principle
 id: functional-intelligibility-goals-for-pronunciation-curriculum
 title: Set realistic long-range oral communication goals aiming for functional intelligibility, functional communicability, and enhanced self-confidence, based on learner needs analysis
 description: "For curriculum planning, the digest recommends that programs \"start by establishing long range oral communication goals and objectives that identify pronunciation needs as well as speech functions and the contexts in..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

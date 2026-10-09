@@ -3,6 +3,7 @@ type: element
 id: anchored-instruction
 title: Anchored Instruction
 description: "Anchored instruction situates learning around a shared, meaningful scenario or \"anchor\" that gives learners a concrete context for inquiry, analysis, and problem solving."
+canonical: true
 status: review
 generated:
   by: codex/unspecified

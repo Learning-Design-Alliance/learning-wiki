@@ -4,6 +4,7 @@ id: worked-examples
 aliases: [match-worked-example-type-to-learner-prior-knowledge]
 title: Worked Examples
 description: "An example-first relationship qualified by task knowledge, representation, configuration and assessment horizon."
+canonical: true
 status: review
 generated:
   by: codex/unspecified

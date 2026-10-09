@@ -3,6 +3,7 @@ type: element
 id: position-development
 title: Position Development
 description: Learners construct and refine a defensible stance on a contested issue through evidence-based reasoning and adversarial or dialogic testing.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

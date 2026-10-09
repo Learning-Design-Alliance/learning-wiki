@@ -2,6 +2,7 @@
 type: theory
 title: The number sequence hierarchy (INS, TNS, aTNS, ENS, GNS) defined by units coordination and splitting
 description: "The article organizes students' concepts of number as a hierarchy — INS, TNS, aTNS, ENS, GNS — defined by the cognitive structures of units coordination and splitting."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

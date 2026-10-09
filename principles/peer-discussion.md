@@ -3,6 +3,7 @@ type: principle
 id: peer-discussion
 title: Peer Discussion
 description: "When learners commit an individual answer to a conceptual question and then discuss their reasoning with peers, later independent answers to a new isomorphic question may improve, conditional on the question, group dynamics, instructor follow-up and an immediate horizon."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -2,6 +2,7 @@
 type: theory
 title: Knowledge Tracing as a Learner-Modeling Task
 description: "The survey defines knowledge tracing (KT) as a learner-modeling task over sequences of exercise interactions: \"knowledge tracing aims to monitor students’ evolving knowledge states during the learning process and pred..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

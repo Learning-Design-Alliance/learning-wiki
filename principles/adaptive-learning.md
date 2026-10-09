@@ -4,6 +4,7 @@ id: adaptive-learning
 aliases: [adaptive-learning-consistent-with-cognitive-structure, gain-then-time-constant-adaptive-progression, multi-objective-exercise-recommendation-objectives]
 title: Adaptive Learning
 description: "When learners on a cumulative, decomposable task start from different observed responses, choosing each next task, hint or check from the learner's own recent responses (rather than one fixed path) may improve aligned achievement, conditional on how well the responses diagnose the learner, what the adaptation changes, and whether support is withdrawn as performance grows."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

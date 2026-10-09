@@ -4,6 +4,7 @@ id: mastery-learning
 aliases: [mastery-learning-formative-corrective-cycle]
 title: Mastery Learning
 description: "A reusable gate-correct-recheck policy for cumulative units: elicit a criterion-referenced response, interpret a shortfall, give responsive correction and recheck on a parallel task before advancing, with time, attempts and the outcome horizon stated."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: element
 id: literacy-first-tutoring-program-element
 title: Literacy First early literacy tutoring program for kindergarten through grade 2
 description: Literacy First (formerly AmeriCorps for Community Engagement and Education, then A Community for Education) is an early literacy intervention providing trained tutors for students in kindergarten through grade 2, larg...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

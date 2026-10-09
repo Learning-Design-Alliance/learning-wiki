@@ -3,6 +3,7 @@ type: element
 id: role-reversal
 title: Role Reversal
 description: Learners switch sides in a debate or discussion to argue from the opposite perspective.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

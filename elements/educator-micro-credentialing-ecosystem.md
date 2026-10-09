@@ -3,6 +3,7 @@ type: element
 id: educator-micro-credentialing-ecosystem
 title: "The educator micro-credentialing ecosystem: Digital Promise's PK-12 platform, 400+ micro-credentials, and the NEA partnership"
 description: The micro-credentialing ecosystem is a set of platforms and issuers through which PK-12 teachers and administrators demonstrate and earn recognition for specific skills.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

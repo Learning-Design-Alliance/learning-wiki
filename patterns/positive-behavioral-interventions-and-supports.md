@@ -3,6 +3,7 @@ type: pattern
 id: positive-behavioral-interventions-and-supports
 title: Positive Behavioral Interventions And Supports
 description: PBIS is a school-wide framework that teaches and reinforces expected behavior through tiered prevention rather than reactive punishment.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

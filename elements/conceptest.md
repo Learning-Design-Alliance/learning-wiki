@@ -3,6 +3,7 @@ type: element
 id: conceptest
 title: ConcepTest
 description: A multiple-choice question targeting a single conceptual difficulty, used with student voting and peer discussion to expose and confront misconceptions.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

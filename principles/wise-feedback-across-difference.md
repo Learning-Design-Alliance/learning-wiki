@@ -3,6 +3,7 @@ type: principle
 id: wise-feedback-across-difference
 title: Wise Feedback Across Racial and Ethnic Difference
 description: "When critical feedback crosses a racial or ethnic difference, or reaches a learner from a group stereotyped in the domain, specific task-level critique stated together with the high standard it is held to and an explicit assurance that the learner can reach it is expected to be trusted and acted on more than the same critique without that framing; no claim in the wiki tests this, and neighbouring brief identity-targeted interventions are fragile."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

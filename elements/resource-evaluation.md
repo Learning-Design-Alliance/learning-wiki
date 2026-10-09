@@ -3,6 +3,7 @@ type: element
 id: resource-evaluation
 title: Resource Evaluation
 description: Learners assess the credibility and relevance of sources.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

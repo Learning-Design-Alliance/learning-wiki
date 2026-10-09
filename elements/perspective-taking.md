@@ -3,6 +3,7 @@ type: element
 id: perspective-taking
 title: Perspective-Taking
 description: Learners deliberately consider multiple viewpoints on an issue to build cognitive flexibility, empathy, and deeper conceptual understanding.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

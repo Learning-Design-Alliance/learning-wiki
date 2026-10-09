@@ -2,6 +2,7 @@
 type: theory
 title: Retrieval Practice Experiment Architecture and Factors
 description: "The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

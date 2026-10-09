@@ -3,6 +3,7 @@ type: element
 id: comta-and-mathdial-tutoring-dialogue-datasets
 title: CoMTA and MathDial Math Tutoring Dialogue Datasets
 description: The article evaluates dialogueKT on two existing math tutoring dialogue datasets.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

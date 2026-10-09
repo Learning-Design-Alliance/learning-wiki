@@ -3,6 +3,7 @@ type: principle
 id: functional-behavior-assessment
 title: Functional Behavior Assessment
 description: "For a learner whose disruptive behavior recurs despite sound classroom management, identifying what triggers it and what it gets them, then changing the trigger and teaching a replacement that meets the same need, with consistent documented responses, is expected to reduce it more than generic or escalating discipline, though no claim here tests a function-based plan against a generic one."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

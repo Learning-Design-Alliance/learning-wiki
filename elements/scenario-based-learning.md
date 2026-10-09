@@ -3,6 +3,7 @@ type: element
 id: scenario-based-learning
 title: Scenario-Based Learning
 description: Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

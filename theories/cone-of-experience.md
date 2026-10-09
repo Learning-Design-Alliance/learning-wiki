@@ -3,6 +3,7 @@ type: theory
 id: cone-of-experience
 title: Cone of Experience (Concrete-to-Abstract Media Selection)
 description: Dale's Cone of Experience arranges learning experiences along a continuum from concrete, direct experience to abstract, symbolic (verbal) experience, as guidance for balancing — not ranking — media and instructional method choices.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

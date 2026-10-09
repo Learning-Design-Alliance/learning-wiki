@@ -3,6 +3,7 @@ type: element
 id: dialogic-reading
 title: Dialogic Reading
 description: An interactive shared-reading method in which an adult prompts children with questions, expands their responses, and gives feedback, turning storybook reading into a dialogue that builds expressive language.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

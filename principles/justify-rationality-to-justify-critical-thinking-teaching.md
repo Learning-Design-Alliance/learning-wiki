@@ -3,6 +3,7 @@ type: principle
 id: justify-rationality-to-justify-critical-thinking-teaching
 title: Educational efforts to foster critical thinking require a justification of rationality
 description: Because critical thinking is the educational cognate of rationality, educators who teach students to seek reasons and justifications must themselves be able to justify their commitment to critical thinking; otherwise...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

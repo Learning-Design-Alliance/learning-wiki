@@ -3,6 +3,7 @@ type: element
 id: collaborative-inquiry
 title: Collaborative Inquiry
 description: Collaborative inquiry is the element in which learners investigate a question together through shared sensemaking and evidence use.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

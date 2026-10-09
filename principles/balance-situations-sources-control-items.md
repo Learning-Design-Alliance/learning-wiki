@@ -3,6 +3,7 @@ type: principle
 id: balance-situations-sources-control-items
 title: Developers of locus of control instruments should account for the balance of situations and sources of control items, which affects obtained scores
 description: "The article concludes that instrument developers must attend to how situations and sources of control are represented in their items, because \"the balance of situations and sources of control items will affect the sco..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

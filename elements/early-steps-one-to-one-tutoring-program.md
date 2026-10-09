@@ -3,6 +3,7 @@ type: element
 id: early-steps-one-to-one-tutoring-program
 title: Early Steps one-to-one first-grade tutoring program
 description: Early Steps, based on an earlier version called Howard Street Tutoring, is a one-to-one tutoring model delivered in 30-minute sessions five days a week across the entire first grade year.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

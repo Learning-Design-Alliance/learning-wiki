@@ -3,6 +3,7 @@ type: element
 id: practice-testing
 title: Practice Testing
 description: Learners actively retrieve information from memory as a learning activity, rather than rereading or reviewing material.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

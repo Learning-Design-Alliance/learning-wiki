@@ -3,6 +3,7 @@ type: element
 id: assessment-mechanic
 title: Assessment Mechanic
 description: The repeated in-game activity designed to elicit behaviour a log can capture and an evidence model can interpret — assessment built as a mechanic rather than bolted on as a test.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

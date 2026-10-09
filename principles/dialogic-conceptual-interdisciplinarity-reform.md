@@ -3,6 +3,7 @@ type: principle
 id: dialogic-conceptual-interdisciplinarity-reform
 title: Adopt a conceptual, dialogic approach to interdisciplinarity rather than a reductive instrumental one to strengthen integrative learning
 description: The article recommends moving beyond instrumental theories of interdisciplinarity toward a conceptual approach grounded in dialogism, in which integration is a form of construction or authoring that creates meanings u...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -3,6 +3,7 @@ type: pattern
 id: practice-spectrum-drills-to-task-based
 title: Spectrum of systematic practice types from communicative drills to role plays, task-based and content-based teaching
 description: "The article presents systematic practice as \"a house with many rooms\": a spectrum far beyond mechanical drills."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

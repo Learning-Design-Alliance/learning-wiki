@@ -3,6 +3,7 @@ type: principle
 id: instructor-accessibility
 title: Instructor Accessibility
 description: "For a learner who gets stuck on course work between contacts, published channels, a kept reply window, an invitation that makes asking normal and replies that respond to the learner's attempt are expected to raise the share who get help before they disengage, though no claim here tests instructor accessibility as such."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

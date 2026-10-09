@@ -2,6 +2,7 @@
 type: theory
 title: Maslow's Hierarchy of Needs
 description: Maslow's hierarchy of needs proposes that human motivation is organized by prepotency, from physiological needs through safety, love/belonging, and esteem to self-actualization, with lower needs typically requiring substantial (not complete) satisfaction before higher needs become active motivators.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

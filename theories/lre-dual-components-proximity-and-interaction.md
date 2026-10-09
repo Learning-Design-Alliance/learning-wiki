@@ -2,6 +2,7 @@
 type: theory
 title: "Least restrictive environment defined by two components: proximity to the regular educational environment and opportunity to interact with non-handicapped children"
 description: The report defines the LRE concept from P.L.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

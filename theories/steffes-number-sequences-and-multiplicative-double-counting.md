@@ -2,6 +2,7 @@
 type: theory
 title: Steffe's Number Sequences and Multiplicative Double Counting
 description: A constructivist model of how children's numerical reasoning progresses through three number sequences (initial, tacitly nested, explicitly nested), and how the explicit reversal of nesting enables multiplicative double counting — the foundational form of multiplicative reasoning.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

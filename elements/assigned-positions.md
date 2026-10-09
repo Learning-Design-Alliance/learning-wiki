@@ -3,6 +3,7 @@ type: element
 id: assigned-positions
 title: Assigned Positions
 description: Learners are assigned a specific stance on an issue and must argue from that perspective.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

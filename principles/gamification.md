@@ -3,6 +3,7 @@ type: principle
 id: gamification
 title: Gamification
 description: "For learners whose bottleneck is keeping going through repeated practice, a game layer (points, levels, badges, team scores, a theme) added to sound instruction is expected to give a small gain in later performance when it rewards accuracy and improvement rather than activity, leaves meaningful choice and keeps decoration tied to content; one meta-analysis tests gamification on average, and no claim tests these conditions."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

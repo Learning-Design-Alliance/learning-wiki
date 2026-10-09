@@ -3,6 +3,7 @@ type: principle
 id: goal-setting-monitoring
 title: "Goal Setting & Monitoring"
 description: "When a learner holds a specific, challenging goal for a task, with a plan for reaching it and feedback to check progress against it, effort and task performance may rise, qualified by task complexity and the learner's expertise (process goals before outcome goals for novices), commitment and self-efficacy, and whether the outcome measured is behaviour, regulation or learning."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: assess-alone-and-assisted-performance
 title: "Assess children's cognitive development both when performing alone and when assisted"
 description: "The article reports Vygotsky's assessment principle that a true picture of cognitive development requires measuring both ability levels."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

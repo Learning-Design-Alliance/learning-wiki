@@ -3,6 +3,7 @@ type: element
 id: map-growth-assessment-pandemic-recovery-data
 title: MAP Growth assessments as the data source for pandemic learning-loss analysis
 description: "MAP Growth is NWEA's assessment product whose scores supply the achievement and growth data used in this brief and related NWEA COVID-19 recovery research."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

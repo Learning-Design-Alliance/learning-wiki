@@ -3,6 +3,7 @@ type: element
 id: application
 title: Application
 description: Learners actively apply knowledge in meaningful tasks.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

@@ -3,6 +3,7 @@ type: principle
 id: bind-teaching-testing-task-based-washback
 title: Bind language teaching and language testing through task-based assessment to harness wash-back
 description: The article argues that task-based language testing (e.g., IELTS) and task-based language teaching should be bound together because assessment exerts a wash-back effect on teaching.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

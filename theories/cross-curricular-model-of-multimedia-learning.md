@@ -2,6 +2,7 @@
 type: theory
 title: Cross-curricular model of multimedia learning
 description: "The article's organizing framework holds that multimedia learning is grounded in multi-mode expression, an activity isomorphic to cross-curricular activities."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

@@ -2,6 +2,7 @@
 type: theory
 title: Goal Orientation Theory
 description: Goal Orientation Theory holds that the reason a learner pursues an achievement goal — mastering material versus outperforming or avoiding negative judgment from others — shapes learning and motivation as much as the goal's content, organized along a mastery/performance x approach/avoidance grid.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

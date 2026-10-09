@@ -3,6 +3,7 @@ type: element
 id: collaborative-learning
 title: Collaborative Learning
 description: Learners work in structured teams to solve problems and complete tasks.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

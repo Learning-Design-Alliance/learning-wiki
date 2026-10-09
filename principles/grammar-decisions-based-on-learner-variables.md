@@ -4,6 +4,7 @@ id: grammar-decisions-based-on-learner-variables
 aliases: [align-grammar-instruction-with-learner-beliefs]
 title: Base decisions about teaching grammar primarily on learner needs and variables (Celce-Murcia)
 description: The bibliography reports, citing Celce-Murcia (1985), that whether to teach grammar should be based primarily upon the need of the learner.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

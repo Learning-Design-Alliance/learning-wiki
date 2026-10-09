@@ -3,6 +3,7 @@ type: element
 id: concept-mapping
 title: Concept Mapping
 description: Concept mapping is the element in which learners represent concepts and their relationships visually, typically as nodes and labeled links.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

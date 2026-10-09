@@ -3,6 +3,7 @@ type: principle
 id: journaling
 title: Journaling
 description: "For a learner keeping a journal over a course, short recurring entries written to task-specific, metacognitive prompts and then read and used are expected to improve understanding and self-regulation more than an unprompted or unused diary, though no claim tests keeping a journal against not keeping one on a learning outcome, and a diary alone showed no detected gain."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

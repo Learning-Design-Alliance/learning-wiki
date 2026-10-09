@@ -3,6 +3,7 @@ type: principle
 id: effective-classroom-management-plan
 title: Effective Classroom Management Plan Criteria
 description: "For a group of learners in a shared space, a classroom-wide plan put in place before problems arise and kept consistently (relationships, taught rules and routines, unobtrusive redirection, a short consistent response to persistent misbehavior, self-control taught with external controls planned to fade, and corrections checked for cultural meaning) is expected to reduce disruption and raise engaged time more than improvised practice; one meta-analysis tests planned universal management against usual practice, but no claim tests the six-part plan or any of its traditions."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

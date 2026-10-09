@@ -3,6 +3,7 @@ type: theory
 id: three-language-knowledge-aspects-for-reading
 title: "Three aspects of children's language knowledge hypothesized to support fluent reading acquisition"
 description: "In analyzing how home-school language switching affects reading development, the paper distinguishes three general aspects of children's knowledge of language hypothesized as important for acquiring fluent reading ski..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

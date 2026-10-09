@@ -3,6 +3,7 @@ type: element
 id: collaborative-decision-making
 title: Collaborative Decision-Making
 description: Collaborative decision-making is the element in which learners evaluate options together and negotiate a shared choice or recommendation.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

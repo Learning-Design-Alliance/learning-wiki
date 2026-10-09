@@ -4,6 +4,7 @@ id: structured-academic-controversy
 aliases: [structured-academic-controversy-sac]
 title: Structured Academic Controversy
 description: "A reusable policy for cooperative argument on a contested question, in which pairs argue assigned positions, restate and then reverse them, and write a joint conclusion, expected to support each learner's reasoned, individually checked position, conditional on an arguable question, evidence for both sides, an individual check and a stated horizon; untested as a whole."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

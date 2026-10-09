@@ -2,6 +2,7 @@
 type: theory
 title: Kounin's Classroom Management Research
 description: Kounin's tradition of classroom-management research found that the distinction between more and less effective classroom managers lies mainly in what they do to prevent misbehavior — through withitness, overlapping, well-taught rules and routines, and prompt consequences — rather than in how they respond after misbehavior occurs.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

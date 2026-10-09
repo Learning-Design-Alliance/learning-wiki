@@ -4,6 +4,7 @@ id: explicit-instruction-math-strategies
 aliases: [recommend-polya-style-instruction-for-verbal-problems]
 title: "Explicit Instruction: Math Strategies"
 description: Direct instruction in math strategies may support some adult learners once conceptual understanding is in place.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

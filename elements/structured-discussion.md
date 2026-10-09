@@ -3,6 +3,7 @@ type: element
 id: structured-discussion
 title: Structured Discussion
 description: Structured discussion is the element in which talk is guided by prompts, roles, turns, protocols, or evidence requirements rather than left entirely open.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

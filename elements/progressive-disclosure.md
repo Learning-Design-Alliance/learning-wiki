@@ -3,6 +3,7 @@ type: element
 id: progressive-disclosure
 title: Progressive Disclosure
 description: Progressive disclosure presents information in sequenced stages, revealing complexity only as the learner is ready, rather than showing everything at once.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

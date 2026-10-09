@@ -3,6 +3,7 @@ type: principle
 id: overgeneralizations-as-evidence-of-progress
 title: "Treat children's overgeneralized forms as evidence of progress rather than as errors or signs of weakness"
 description: "The paper draws an educational implication from the four-stage acquisition sequence: forms like 'corned,' 'goed' and 'taked' arise from overgeneralization of a rule and signal that the child has gained important under..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

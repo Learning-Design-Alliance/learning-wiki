@@ -3,6 +3,7 @@ type: element
 id: probing
 title: Probing
 description: Probing uses targeted follow-up questions to push learners beyond initial answers, exposing reasoning, surfacing misconceptions, and deepening elaboration.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

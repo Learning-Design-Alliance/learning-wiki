@@ -3,6 +3,7 @@ type: pattern
 id: collaborative-learning
 title: Collaborative Learning
 description: "A reusable policy for joint work that elicits each member's starting response, chooses a task that needs the members' reasoning, and uses individual checks rather than the group's product or self-report to choose the next activity."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

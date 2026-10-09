@@ -3,6 +3,7 @@ type: principle
 id: ground-edi-in-disrupting-oppression
 title: Ground EDI initiatives in an explicit commitment to disrupting systems of power and oppression rather than inclusion alone
 description: The article argues that where EDI initiatives exhibit an explicit commitment to disrupting systems of power and oppression, they are better positioned to address the root causes of the problems they intend to resolve,...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -3,6 +3,7 @@ type: principle
 id: graded-readers-fun-easy-frequent-material-principle
 title: "Choose graded readers over authentic texts and children's books, keeping material fun, easy, and frequent"
 description: "The article recommends that ER material \"should be fun, easy, and frequent\", since enjoyment drives voluntary reading, appropriate difficulty prevents frustration, and frequency builds a lasting reading habit."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

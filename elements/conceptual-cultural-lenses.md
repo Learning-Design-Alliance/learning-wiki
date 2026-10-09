@@ -3,6 +3,7 @@ type: element
 id: conceptual-cultural-lenses
 title: Conceptual lenses for examining cultural perspectives
 description: Conceptual lenses are a curricular element the article recommends for graduate leadership coursework.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

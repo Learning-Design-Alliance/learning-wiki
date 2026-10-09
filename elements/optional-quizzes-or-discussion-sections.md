@@ -3,6 +3,7 @@ type: element
 id: optional-quizzes-or-discussion-sections
 title: Optional Quizzes or Discussion Sections
 description: Supplementary activities designed to reinforce learning and provide formative feedback.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

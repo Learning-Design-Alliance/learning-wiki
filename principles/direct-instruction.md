@@ -4,6 +4,7 @@ id: direct-instruction
 aliases: [explicit-instruction]
 title: Direct Instruction
 description: "For a learner with no working method for a structured target, explicit explanation, modelling and guided practice with checks is expected to beat minimally guided discovery on near-term performance, qualified by task-specific expertise, age, outcome type and horizon."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

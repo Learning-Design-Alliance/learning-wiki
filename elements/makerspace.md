@@ -3,6 +3,7 @@ type: element
 id: makerspace
 title: Makerspace
 description: A Makerspace is a physical or mobile space, formal or informal, where learners use digital and physical tools to design, build, and iterate on self-directed projects.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

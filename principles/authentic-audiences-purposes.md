@@ -3,6 +3,7 @@ type: principle
 id: authentic-audiences-purposes
 title: "Authentic Audiences & Purposes"
 description: "For writing and project work, addressing a genuine reader beyond the teacher-as-grader is associated with higher-rated products in small comparisons, conditional on the audience being credible, the criteria explicit and support for revision present."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

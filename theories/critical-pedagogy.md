@@ -2,6 +2,7 @@
 type: theory
 title: Critical Pedagogy
 description: Critical pedagogy applies critical theory to education, treating teaching and learning as inherently political and knowledge and language as never fully neutral; its goal, per Paulo Freire, is emancipating marginalized groups by developing critical consciousness (conscientização) in students.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

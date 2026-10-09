@@ -3,6 +3,7 @@ type: element
 id: promote-a-sense-of-home
 title: Promote a Sense of Home
 description: Promote a sense of home is the element of creating belonging, familiarity, and social warmth within a learning environment.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

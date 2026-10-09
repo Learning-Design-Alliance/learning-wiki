@@ -3,6 +3,7 @@ type: element
 id: map-cat-assessment-system-element
 title: MAP (Measures of Academic Progress) computerised adaptive test system
 description: MAP is a computerised adaptive assessment system published by NWEA since 1976, covering reading, language usage, mathematics and science.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -4,6 +4,7 @@ id: feedback-loops
 aliases: [design-feedback-on-external-outputs-asynchronous]
 title: Feedback Loops
 description: "For a learner whose performance can be observed, information about it is expected to improve later performance only when the loop closes (the information says what to change, a next attempt uses it, and that attempt is checked again on a new item); corrective feedback and correct-and-recheck programmes are supported on average, but no claim here tests a closed loop against the same feedback without a next attempt."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

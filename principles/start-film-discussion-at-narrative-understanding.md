@@ -3,6 +3,7 @@ type: principle
 id: start-film-discussion-at-narrative-understanding
 title: Begin film discussion at the level of narrative understanding before moving to analysis
 description: Because spontaneous, intuitive responses to a film constitute the level of narrative understanding, the article recommends that post-screening discussion start there — registering impressions and emotions with questio...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

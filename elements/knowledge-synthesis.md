@@ -3,6 +3,7 @@ type: element
 id: knowledge-synthesis
 title: Knowledge Synthesis
 description: Learners integrate multiple perspectives and sources to develop a cohesive understanding.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

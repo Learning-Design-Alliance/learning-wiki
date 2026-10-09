@@ -4,6 +4,7 @@ id: formative-assessment
 aliases: [analyze-student-dialogue-turns-as-formative-assessment, formative-evaluation-conferences-fricke, pair-audio-discussions-with-feedback-and-self-assessment]
 title: Formative Assessment
 description: "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy."
+canonical: true
 status: review
 generated:
   by: codex/unspecified

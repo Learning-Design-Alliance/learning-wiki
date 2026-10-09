@@ -3,6 +3,7 @@ type: element
 id: retrieval
 title: Retrieval
 description: Retrieval practice asks learners to actively recall information from memory rather than re-read or re-hear it, strengthening the memory trace each time it is accessed.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

@@ -2,6 +2,7 @@
 type: theory
 title: Critical Constructive Feedback Processing
 description: A five-stage information-processing model of what has to happen — noticing, decoding, making sense, acting upon, and making progress — for feedback on a wrong answer to actually change performance, treating "feedback neglect" as a measurable drop-out at any stage rather than a single yes/no outcome.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

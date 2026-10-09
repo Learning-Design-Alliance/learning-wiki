@@ -3,6 +3,7 @@ type: principle
 id: analogical-reasoning
 title: Analogical Reasoning
 description: "Comparing a new situation with a provided analogous case, prompted to find the shared relation and followed by the principle, is expected to help learners who do not yet see that structure transfer it to a near new case at a short horizon; analogies from a familiar source domain, far transfer and delayed effects are untested here."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

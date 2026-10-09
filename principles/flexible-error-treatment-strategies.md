@@ -3,6 +3,7 @@ type: principle
 id: flexible-error-treatment-strategies
 title: Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 description: "The article proposes that \"teachers should employ different and flexible error treatment strategies in accordance with the teaching objectives, students' linguistic competence, their affective factors and the effectiv..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

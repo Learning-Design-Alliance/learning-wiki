@@ -3,6 +3,7 @@ type: element
 id: direct-instruction
 title: Direct instruction
 description: Presents new content through explicit explanations, lectures, or demonstrations, with structured guidance before independent practice.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

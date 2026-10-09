@@ -3,6 +3,7 @@ type: element
 id: whole-task-performance
 title: Whole-task performance
 description: Whole-task performance engages learners in authentic, complex tasks that integrate multiple skills and knowledge areas simultaneously, mirroring the conditions of real-world practice.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

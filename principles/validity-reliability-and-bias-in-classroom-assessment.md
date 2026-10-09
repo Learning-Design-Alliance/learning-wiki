@@ -3,6 +3,7 @@ type: principle
 id: validity-reliability-and-bias-in-classroom-assessment
 title: Validity, Reliability, and Bias in Classroom Assessment
 description: "A classroom assessment score is expected to support a decision about a learner only as far as the tasks sample the intended capability without demands unrelated to it, the score is consistent across items, occasions and raters, and no group is disadvantaged by content or administration; no claim here tests that relationship in classrooms, and the claims that bear on it come mostly from large-scale testing and simulations."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

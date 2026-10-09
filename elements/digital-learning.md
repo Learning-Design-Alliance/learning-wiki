@@ -3,6 +3,7 @@ type: element
 id: digital-learning
 title: Digital Learning
 description: Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

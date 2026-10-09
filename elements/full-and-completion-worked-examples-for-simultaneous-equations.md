@@ -3,6 +3,7 @@ type: element
 id: full-and-completion-worked-examples-for-simultaneous-equations
 title: Full and completion worked examples for simultaneous-equation algebra
 description: Two versions of the same worked algebra problems used in the study.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

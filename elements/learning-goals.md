@@ -3,6 +3,7 @@ type: element
 id: learning-goals
 title: Learning Goals
 description: Learning goals are explicit statements of what learners should know or be able to do after instruction, serving as the reference point for designing activities and assessments.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

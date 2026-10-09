@@ -3,6 +3,7 @@ type: element
 id: pre-class-preparation
 title: Pre-Class Preparation
 description: Pre-class preparation is the element in which learners engage with readings, videos, prompts, or other materials before a live class session so that class time can focus on discussion, application, or problem solving.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

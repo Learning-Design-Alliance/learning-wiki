@@ -3,6 +3,7 @@ type: element
 id: advance-organizers
 title: Advance Organizers
 description: Concept maps, outlines, or visual guides that help learners structure new information before instruction.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

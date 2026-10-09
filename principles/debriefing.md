@@ -3,6 +3,7 @@ type: principle
 id: debriefing
 title: Debriefing
 description: "For learners who have just shared an experience (a simulation, case, team exercise or real event), a facilitated debrief that establishes what happened, asks for their reasoning at a few decision points against stated criteria, gives task- and process-level feedback and ends with one change to try is expected to improve the next comparable performance more than the experience alone or an unstructured recap, though no claim here compares an experience with and without a debrief."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

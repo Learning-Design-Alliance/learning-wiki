@@ -3,6 +3,7 @@ type: element
 id: engage
 title: Engage
 description: Engage is the element in which instruction opens with an activity or prompt that draws attention and establishes interest.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

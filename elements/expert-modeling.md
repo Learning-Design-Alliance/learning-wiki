@@ -3,6 +3,7 @@ type: element
 id: expert-modeling
 title: Expert Modeling
 description: Expert modeling is the element in which a skilled performer demonstrates not only what to do, but how an expert notices cues, makes decisions, and checks quality during performance.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: element
 id: create-a-low-stress-environment
 title: Create a Low-Stress Environment
 description: Create a low-stress environment is the element of designing routines, norms, and spaces that reduce unnecessary anxiety during learning.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

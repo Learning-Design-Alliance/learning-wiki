@@ -3,6 +3,7 @@ type: pattern
 id: shared-power-co-creation-of-educational-systems
 title: "Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices"
 description: "The brief characterizes rightful presence by \"a fundamental shift in power\" in which students, families, and communities who most frequently experience systemic inequities become integral in the shaping and design of..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

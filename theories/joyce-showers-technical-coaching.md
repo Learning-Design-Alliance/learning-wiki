@@ -2,6 +2,7 @@
 type: theory
 title: "Joyce and Showers' technical coaching: a cyclical training extension for transferring new teaching skills"
 description: "The paper analyzes Joyce and Showers' model, which borrows coaching from athletics and treats it as the next step after training."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

@@ -2,6 +2,7 @@
 type: theory
 title: Dialogue Knowledge Tracing (dialogueKT) Framework
 description: "DialogueKT is the task the article proposes, which \"analyzes student discourse within the knowledge tracing (KT) framework\"."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

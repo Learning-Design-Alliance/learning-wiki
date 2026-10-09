@@ -3,6 +3,7 @@ type: theory
 id: communities-of-innovation
 title: Communities of Innovation
 description: A Community of Innovation is a group focused on producing innovative output together, distinguished by named characteristics at the individual, group, and organizational level — hacker motivation, dynamic expertise and autonomy; group flow, idea prototyping, cognitive diversity, and productive critique; flexible structure and psychological safety.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

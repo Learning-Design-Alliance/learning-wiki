@@ -3,6 +3,7 @@ type: pattern
 id: learning-by-producing-pattern
 title: Learning by Producing (multimedia production as learning)
 description: "A reusable policy in which learners make a media product for a real audience to learn its content and media skills: study exemplars, learn the content (explicitly, for novices), plan a blueprint checked for content, produce in roles, revise against criteria and present; no claim tests learning by producing itself, and the sequence rests on neighbouring claims about projects, guidance, audiences, teaching others and the quality of learner-made representations."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

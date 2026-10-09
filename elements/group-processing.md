@@ -3,6 +3,7 @@ type: element
 id: group-processing
 title: Group Processing
 description: A structured reflection in which cooperative groups evaluate how well they worked together and identify behaviors to keep or change.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

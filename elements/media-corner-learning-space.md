@@ -3,6 +3,7 @@ type: element
 id: media-corner-learning-space
 title: Media corner / flexible multimedia learning space
 description: A prepared open classroom space equipped with multimedia tools and learning aids such as guidebooks, activity sheets, and orientation leaflets that fosters diverse production activities.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

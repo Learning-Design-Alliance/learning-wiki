@@ -2,6 +2,7 @@
 type: theory
 title: Designerly Stances
 description: A framework describing six dimensions along which a teacher's approach to a problem of practice can range from a "beginning designer" stance (fixed problem, routine issue, designer-centric) to an "informed designer" stance (co-evolving frames, systemic issue, stakeholder-centered).
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

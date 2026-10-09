@@ -3,6 +3,7 @@ type: element
 id: writing-prompts
 title: Writing Prompts
 description: A writing prompt is a task specification that directs learners to produce written text — explaining, arguing, reflecting, or synthesizing — in order to consolidate and reveal understanding.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

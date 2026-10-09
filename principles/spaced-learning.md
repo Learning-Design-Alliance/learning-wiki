@@ -4,6 +4,7 @@ id: spaced-learning
 aliases: [spacing, spaced-practice, augment-single-session-workshop-with-spaced-retrieval, podcasts-as-revision-adjunct-distributed-listening]
 title: Spaced Learning
 description: "A conditional model relating learner state, activity and subsequent observation; the linked pattern specifies a reusable design policy."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

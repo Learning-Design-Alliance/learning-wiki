@@ -3,6 +3,7 @@ type: principle
 id: mindfulness-activities
 title: Mindfulness Activities
 description: Mindfulness activities are short structured practices that help learners attend to the present moment, notice internal state, and regulate reaction before acting.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

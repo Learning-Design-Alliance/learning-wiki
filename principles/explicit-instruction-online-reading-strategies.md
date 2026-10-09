@@ -3,6 +3,7 @@ type: principle
 id: explicit-instruction-online-reading-strategies
 title: "Explicit Instruction: Online Reading Strategies"
 description: Research shows that, along with traditional reading comprehension strategies, learners use unique strategies to read the non-linear, hyperlinked structure of online texts.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

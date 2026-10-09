@@ -3,6 +3,7 @@ type: principle
 id: procedural-learning
 title: Procedural Learning
 description: "For a novice on a procedure, a visible model, supported attempts with feedback, support withdrawn on unaided success, then mixed practice spread over sessions with the steps tied to their reasons are expected to yield accurate, fluent, retained and flexible unaided performance; no claim tests the arc as a whole, only single links in it."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

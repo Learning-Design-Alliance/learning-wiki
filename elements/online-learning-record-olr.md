@@ -3,6 +3,7 @@ type: element
 id: online-learning-record-olr
 title: "Online Learning Record (OLR): a portfolio record integrating classroom activity, assessment, and research"
 description: "The OLR is described as \"a portfolio record integrating classroom activity (teaching and learning), assessment, and research\" (Syverson, 1995)."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

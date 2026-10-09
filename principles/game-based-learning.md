@@ -4,6 +4,7 @@ id: game-based-learning
 aliases: [learning-embedded-in-the-core-mechanic]
 title: Game-based Learning
 description: "For a learner who has not yet reached a stated capability, a game whose winning move is the target reasoning, with modelling for novices and a debrief that asks for the reasoning outside the game, is expected to improve aligned outside-game performance; enjoyment and game score are separate outcomes, and no claim here tests games as a whole against non-game instruction."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

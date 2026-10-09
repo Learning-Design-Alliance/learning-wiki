@@ -2,6 +2,7 @@
 type: theory
 title: Five Essential Supports for School Improvement (5Es) framework
 description: The 5Es is a framework developed by the Consortium on Chicago School Research detailing what school leaders should attend to when improving schools.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

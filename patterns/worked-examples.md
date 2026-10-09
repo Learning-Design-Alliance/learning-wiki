@@ -3,6 +3,7 @@ type: pattern
 id: worked-examples
 title: Worked Examples
 description: "A reusable example-first policy for a structured task, qualified by task-specific knowledge, representation and intended outcome."
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -4,6 +4,7 @@ id: competency-based-assessment
 aliases: [competency-based-learning-assessment, performance-based-teacher-certification-assessment]
 title: Competency-Based Assessment
 description: "Scoring a learner's response on a task that represents the intended capability against explicit criteria and a stated threshold, by consistent assessors, is expected to support better teaching, progression and certification decisions than a rank or seat time, though no claim here tests that comparison and assessor agreement is not guaranteed."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

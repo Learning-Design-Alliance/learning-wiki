@@ -4,6 +4,7 @@ id: elaboration-theory
 aliases: [reigeluths-elaboration-theory]
 title: Elaboration Theory
 description: "A reusable course-level sequencing policy: an epitome of the most general ideas, elaborated level by level toward detail and tied back to the whole by learner-built synthesis; one small study of hierarchical knowledge organisation bears on it, and no claim tests the sequence itself."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

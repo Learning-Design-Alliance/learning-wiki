@@ -2,6 +2,7 @@
 type: theory
 title: Kohlberg's Stages of Moral Development
 description: Kohlberg's cognitive-developmental theory holds that moral reasoning develops through six invariant, hierarchically-ordered stages grouped into three levels, as a person's current stage proves inadequate for new moral dilemmas.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

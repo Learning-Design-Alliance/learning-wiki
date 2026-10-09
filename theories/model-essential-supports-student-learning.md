@@ -2,6 +2,7 @@
 type: theory
 title: Model of Essential Supports for Student Learning
 description: "The Model of Essential Supports for Student Learning identifies seven areas of school organization and practice that support ambitious academic learning: school leadership, teacher professional community, parent and c..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

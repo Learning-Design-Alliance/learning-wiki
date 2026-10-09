@@ -4,6 +4,7 @@ id: harmonize-opposites-in-educational-change
 aliases: [combine-communicative-with-traditional-methods, combine-pb-and-simulation-il-instruction, teach-scientist-and-poet-truths]
 title: "Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale"
 description: "Applying Newton's third law as a metaphor, the essay argues every educational change provokes an equal and opposite reaction, so \"the best course may be to strike a balance between competing ideas\"."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

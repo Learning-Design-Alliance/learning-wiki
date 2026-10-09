@@ -2,6 +2,7 @@
 type: theory
 title: Cultural-Historical Activity Theory
 description: Cultural-historical activity theory (CHAT) explains learning and development as mediated by tools, roles, and communities within a historically evolving activity system, not as an individual, decontextualized process.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

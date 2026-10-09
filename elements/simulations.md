@@ -3,6 +3,7 @@ type: element
 id: simulations
 title: Simulations
 description: Simulations are the element in which learners engage with realistic, model-based scenarios that approximate authentic systems or environments.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

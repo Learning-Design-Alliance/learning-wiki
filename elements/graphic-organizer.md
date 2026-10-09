@@ -3,6 +3,7 @@ type: element
 id: graphic-organizer
 title: Graphic Organizer
 description: A graphic organizer is a visual-spatial instructional tool that presents key concepts and the relationships between them in a hierarchical, spatially configured display, using different shapes for descriptions, exampl...
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

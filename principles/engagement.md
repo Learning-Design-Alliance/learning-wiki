@@ -3,6 +3,7 @@ type: principle
 id: engagement
 title: Engagement
 description: "For a learner whose participation in a task is low, a personal contact, a visible reason for the task and visible, reachable progress are expected to raise observed on-task time, completion and persistence, and that engagement is expected to raise learning only when the task requires thinking with the target; claims test single conditions on single outcomes, and none tests engagement as a whole or shows that it causes learning."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

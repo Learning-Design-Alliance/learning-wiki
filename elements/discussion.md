@@ -3,6 +3,7 @@ type: element
 id: discussion
 title: Discussion
 description: Discussion is a structured verbal exchange in which learners articulate, question, and build on ideas together to construct and refine understanding.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

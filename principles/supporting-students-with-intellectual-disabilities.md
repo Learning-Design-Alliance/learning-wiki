@@ -3,6 +3,7 @@ type: principle
 id: supporting-students-with-intellectual-disabilities
 title: Supporting Students with Intellectual Disabilities
 description: "For a student with an intellectual disability who is not yet doing an age-appropriate academic or daily-life task, teaching it in small steps with more practice, specific feedback on what the student did, functional everyday contexts and full participation in the class is expected to raise performance and participation more than lowered expectations or separate, younger-age materials, though no claim in the wiki tests this combination; neighbouring claims test mastery pacing, mnemonics, self-determination instruction, student-led IEPs and praise."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: engage-teachers-literacy-events-learner-to-learner
 title: Engage teachers in literacy events learner-to-learner to build trusting coaching relationships
 description: The author argues that coaching relationships begin when coaches join teachers as fellow readers and writers rather than experts.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

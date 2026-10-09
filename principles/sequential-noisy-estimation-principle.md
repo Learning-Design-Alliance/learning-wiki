@@ -3,6 +3,7 @@ type: principle
 id: sequential-noisy-estimation-principle
 title: Use stochastic approximation for sequential parameter estimation when observations are noisy and each observation is costly
 description: The article supports using the Robbins-Monro procedure in settings where a parameter must be estimated sequentially from noisy observations, as in adaptive measurement of learner ability.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

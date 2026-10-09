@@ -3,6 +3,7 @@ type: pattern
 id: differentiated-activity-structures-for-inclusive-participation
 title: Differentiated Activity Structures for Inclusive Participation
 description: When a participatory or deliberative process fails to sustain an underrepresented group's engagement despite outreach and translation, redesign the activity's own tools, norms, and division of labor — a dedicated deliberative space, native-language deliberation instead of sequential interpretation, and flexible agendas — rather than adding more interpretation or outreach to the existing structure.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

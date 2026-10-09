@@ -3,6 +3,7 @@ type: principle
 id: responsive-teaching
 title: Responsive Teaching
 description: Responsive teaching is the in-the-moment adaptation of instruction to learners' emerging ideas, using evidence from student thinking to decide what to do next.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

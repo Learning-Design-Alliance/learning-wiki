@@ -2,6 +2,7 @@
 type: theory
 title: Activity theory models learning as participation in a collective activity system whose elements dynamically interact
 description: "The article presents activity theory, tracing it to Vygotsky and Leont'ev and using Engestrom's (1987) graphical model of a human activity system."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

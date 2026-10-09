@@ -3,6 +3,7 @@ type: pattern
 id: collaborative-evaluation
 title: Collaborative Evaluation
 description: "Learners who judge work against shared criteria alone, compare their judgments in a small group and then with a reference judgment are expected to judge new work more accurately and to improve their own work, where they know the domain well enough to see quality and the ratings carry no grade; no claim tests collaborative evaluation itself, and the evidence is peer-assessment, rubric-training and judgment-accuracy studies carried to it."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

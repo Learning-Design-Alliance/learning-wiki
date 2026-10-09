@@ -2,6 +2,7 @@
 type: theory
 title: Ginott's Congruent Communication
 description: Ginott's communication skills approach holds that learners can control their own behavior when teachers let them, and that congruent communication — sane messages, accepting feelings, avoiding labels, cautious praise, and "I-messages" — builds the self-esteem that underlies acceptable behavior.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

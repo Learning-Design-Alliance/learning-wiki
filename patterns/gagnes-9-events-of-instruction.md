@@ -4,6 +4,7 @@ id: gagnes-9-events-of-instruction
 aliases: [gagnés-9-events, gagnés-9-events-of-instruction]
 title: "Gagné's 9 Events of Instruction"
 description: "A reusable lesson policy that moves a learner from an observed starting response through presentation, guided and independent performance with feedback, to a check at a stated horizon, keeping or dropping each event according to what the learner's responses show rather than running all nine by rote."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

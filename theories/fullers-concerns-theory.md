@@ -2,6 +2,7 @@
 type: theory
 title: Fuller's Concerns Theory of Teacher Development
 description: New teachers pass through a predictable sequence of concerns — self-survival, then the teaching task, then impact on students — with the most effective and experienced teachers reaching student-centered concerns at a high level of commitment.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

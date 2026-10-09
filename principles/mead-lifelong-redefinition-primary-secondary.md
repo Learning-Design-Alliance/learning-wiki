@@ -3,6 +3,7 @@ type: principle
 id: mead-lifelong-redefinition-primary-secondary
 title: Redefine primary and secondary education as lifelong stages so adults retain the right to study throughout life
 description: "The report describes Mead's redefinition of educational stages: primary education teaches all children what they need to be fully human, including basic skills of reading, writing, numbers, money, geography, and commu..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -3,6 +3,7 @@ type: element
 id: map-growth-interim-cat-assessment
 title: MAP Growth interim computer adaptive assessment system
 description: MAP Growth is an interim computer adaptive test administered up to four times per year in Math, Reading, Language Usage, and Science, with scores on the RIT scale.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

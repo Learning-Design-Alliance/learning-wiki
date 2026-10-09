@@ -3,6 +3,7 @@ type: element
 id: decision-making
 title: Decision-Making
 description: Learners evaluate options and make informed choices within a structured learning activity.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

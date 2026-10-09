@@ -3,6 +3,7 @@ type: pattern
 id: case-based-learning
 title: Case-Based Learning
 description: "A reusable policy for learning from realistic cases: establish what learners can already do with the target concept, have them compare several cases that share a principle rather than study one at a time, make the principle explicit, and judge the unit on transfer to a new case rather than on enjoyment or recall."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

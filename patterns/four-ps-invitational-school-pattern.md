@@ -3,6 +3,7 @@ type: pattern
 id: four-ps-invitational-school-pattern
 title: "The Four P's: aligning places, people, policies, and programs to make each school day an invitation to learning"
 description: "The article organizes school practice around four coordinated levers: 'the places (classrooms, offices, hallways, commons, restrooms, playing fields, gymnasiums, lawns, libraries); the people...; the policies (rules,..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

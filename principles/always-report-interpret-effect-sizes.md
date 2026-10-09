@@ -4,6 +4,7 @@ id: always-report-interpret-effect-sizes
 aliases: [report-effect-sizes-with-p-values]
 title: Always report and interpret effect sizes alongside p values for primary outcomes
 description: The principle, drawn from the APA Task Force on Statistical Inference report, is that researchers must report effect-size estimates whenever p values are reported, and interpret them in practical and theoretical conte...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

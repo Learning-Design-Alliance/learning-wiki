@@ -3,6 +3,7 @@ type: element
 id: lectures
 title: Lectures
 description: Instructor-led presentation of content in a structured format.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

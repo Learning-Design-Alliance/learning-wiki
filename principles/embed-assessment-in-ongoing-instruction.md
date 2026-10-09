@@ -3,6 +3,7 @@ type: principle
 id: embed-assessment-in-ongoing-instruction
 title: Embed competency assessment in ongoing instruction rather than administering it as a separate test event
 description: "The guide's third assessment type integrates assessment into the instructional process so that evidence of competency is gathered while students do mathematics, not in a separate sitting."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

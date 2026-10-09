@@ -3,6 +3,7 @@ type: principle
 id: content-selected-from-competencies
 title: Select content from competencies, not the reverse
 description: "The guide instructs curriculum developers to select content on the basis of the competencies to be developed, warning that \"Too often in the past the reverse procedure has been practiced, often resulting in obsolete o..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

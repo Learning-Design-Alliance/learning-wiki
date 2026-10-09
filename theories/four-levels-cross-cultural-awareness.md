@@ -2,6 +2,7 @@
 type: theory
 title: Four levels of cross-cultural awareness, with believability achieved only at the intellectual-analysis and immersion levels
 description: "The essay discriminates four levels of cross-cultural awareness: Level I, awareness of superficial or very visible cultural traits such as stereotypes, gained through tourism, textbooks, and National Geographic; Level..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

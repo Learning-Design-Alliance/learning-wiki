@@ -3,6 +3,7 @@ type: element
 id: worked-examples
 title: Worked Examples
 description: Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

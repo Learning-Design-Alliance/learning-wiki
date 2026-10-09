@@ -3,6 +3,7 @@ type: element
 id: individual-response
 title: Individual Response
 description: Learners answer a question or solve a problem independently before group discussion.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

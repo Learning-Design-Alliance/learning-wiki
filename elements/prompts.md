@@ -3,6 +3,7 @@ type: element
 id: prompts
 title: Prompts
 description: A prompt is a cue, question, or instruction embedded in a learning task that directs learner attention, elicits a response, or scaffolds a cognitive process at the moment it is needed.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

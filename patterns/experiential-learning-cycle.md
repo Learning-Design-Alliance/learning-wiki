@@ -3,6 +3,7 @@ type: pattern
 id: experiential-learning-cycle
 title: Experiential Learning Cycle
 description: "A reusable sequence of bounded experience, prompted debrief, a stated and checked principle and a changed attempt with feedback, repeated across sessions with support fading, is expected to improve performance and near transfer where learners can interpret the experience; no claim tests the cycle as a whole, only its steps."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

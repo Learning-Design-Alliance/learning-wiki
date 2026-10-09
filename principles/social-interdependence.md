@@ -3,6 +3,7 @@ type: principle
 id: social-interdependence
 title: Social Interdependence
 description: "For learners who can contribute to a multi-week group task, making the group's success depend on every member's individually assessed learning (a shared goal, team recognition built from individual results, and distinct roles or resources) is expected to make members help and hold one another to account and so raise individual achievement; claims test the reward-plus-accountability component in school studies, while one online experiment found role or reward structures changed interaction and attitudes but not achievement."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

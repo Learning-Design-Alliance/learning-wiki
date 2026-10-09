@@ -3,6 +3,7 @@ type: principle
 id: holistic-learning
 title: Holistic Learning
 description: "For a learner without an organisation of their own for interconnected content, giving a usable whole early (a map of the main ideas, a model or a complete simple task) and keeping later details attached to it is expected to help integrative tasks more than learning details in isolation, unless the whole is too complex for a novice to follow; no claim tests whole-first against parts-first, and one small set of physics experiments on hierarchical organisation bears on it."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

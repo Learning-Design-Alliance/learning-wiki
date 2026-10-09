@@ -3,6 +3,7 @@ type: principle
 id: provide-experiences-not-direct-teaching-sla
 title: Neither mental representation nor skill can be directly taught; teachers provide experiences and act as informed consumers of instructional research
 description: "The article concludes that teachers and materials cannot directly intervene in the development of either mental representation or skill; instead, both evolve based on learners' experiences in and out of classrooms."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -3,6 +3,7 @@ type: principle
 id: note-taking
 title: Note-taking
 description: "For a learner meeting a dense stream of new material they will need later, selective notes restated in their own words, supported by a teacher-supplied outline that is withdrawn as skill grows and reviewed by recalling from them, are expected to beat no notes or verbatim notes; one claim tests guided notes, and none tests note-taking itself against no notes."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

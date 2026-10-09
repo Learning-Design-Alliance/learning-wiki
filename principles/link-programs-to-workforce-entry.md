@@ -3,6 +3,7 @@ type: principle
 id: link-programs-to-workforce-entry
 title: Link program elements to workforce entry points and employer-recognized credentials so learners see an immediate economic payoff
 description: "The article argues that pathway programs should tie every design element to employment: \"The priority of linking program elements to the workforce can be seen in every aspect of its design and implementation.\" At CNMC..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

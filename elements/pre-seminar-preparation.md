@@ -3,6 +3,7 @@ type: element
 id: pre-seminar-preparation
 title: Pre-Seminar Preparation
 description: Learners review content before engaging in discussion-based activities.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

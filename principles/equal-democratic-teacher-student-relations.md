@@ -3,6 +3,7 @@ type: principle
 id: equal-democratic-teacher-student-relations
 title: Change teaching from authoritative conducting to equal association and communication between teachers and students
 description: "The article argues teaching should move from authoritative conducting to equal association and communication: in traditional teaching teachers hold a sovereign authoritative position and do not respect or care for stu..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

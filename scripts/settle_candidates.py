@@ -535,8 +535,55 @@ def source_pages_by_article() -> dict:
     return out
 
 
+_GENERIC = {"the", "a", "an", "of", "and", "for", "in", "project", "program", "programme",
+            "initiative", "intervention", "model", "curriculum", "course"}
+
+
+def design_name_key(title: str) -> str:
+    """A design's programme name: its title before the first colon or dash, without
+    filler and generic words. "Tough As Nails: NSF-funded ..." and "Tough as Nails
+    project: a K-8 ..." are one programme written up from two sources (batch 47)."""
+    head = re.split(r":|\s[-–—]\s", title or "", maxsplit=1)[0]
+    return " ".join(w for w in re.findall(r"[a-z0-9]+", head.lower()) if w not in _GENERIC)
+
+
+def existing_design(title: str) -> "Path | None":
+    """The design page already written for the programme this title names, if any.
+    A name key of one word is too weak to match on."""
+    key = design_name_key(title)
+    if len(key.split()) < 2:
+        return None
+    for p in sorted((WIKI_ROOT / "designs").glob("*.md")):
+        if p.stem == "index":
+            continue
+        m = re.search(r"^title:\s*(.+)$", p.read_text(encoding="utf-8")[:1500], re.M)
+        if m and design_name_key(m.group(1).strip().strip('"')) == key:
+            return p
+    return None
+
+
+def add_key_source(path: Path, citation: str) -> bool:
+    """Append a citation to a page's `## Key Sources`, unless it is there already."""
+    text = path.read_text(encoding="utf-8")
+    if not citation or citation in text or "## Key Sources" not in text:
+        return False
+    head, tail = text.split("## Key Sources", 1)
+    m = re.search(r"\n(?=## |<!--)", tail)
+    cut = m.start() if m else len(tail)
+    section = tail[:cut].rstrip("\n") + f"\n- {citation}\n"
+    path.write_text(head + "## Key Sources" + section + ("\n" + tail[cut:].lstrip("\n") if tail[cut:].strip() else ""),
+                    encoding="utf-8")
+    return True
+
+
 def write_design(cand: dict, actor: str) -> str | None:
+    """Write the design page a candidate became, or, when the programme already has one
+    (existing_design), add the candidate's source to that page's Key Sources and return it."""
     import ingest_extractions as ie
+    same = existing_design(cand.get("title", ""))
+    if same:
+        add_key_source(same, cand.get("citation") or "")
+        return f"designs/{same.name}"
     contrib = {k: cand[k] for k in cl.FIELDS if k in cand}
     contrib["type"] = "design"
     if cand.get("citation"):
@@ -768,6 +815,29 @@ def backlog_candidates() -> list:
     return out
 
 
+def mark_canonical(apply: bool) -> int:
+    """Stamp `canonical: true` on every page in canonical_keys(), so search ranks the
+    page the ledger settles against above the one-source pages on the same idea
+    (build_wiki_index.py carries it into wiki-index.json). Only adds the key; a page
+    that has it is left alone. Returns the number of pages (to be) stamped."""
+    n = 0
+    for key in sorted(canonical_keys()):
+        path = WIKI_ROOT / f"{key}.md"
+        if not path.exists():
+            continue
+        text = path.read_text(encoding="utf-8")
+        fm_lines, _ = okf_lib.split_frontmatter(text)
+        if any(line.startswith("canonical:") for line in fm_lines):
+            continue
+        m = re.search(r"^status:", text, re.M)
+        if not text.startswith("---\n") or not m or m.start() > text.find("\n---", 4):
+            continue
+        n += 1
+        if apply:
+            path.write_text(text[:m.start()] + "canonical: true\n" + text[m.start():], encoding="utf-8")
+    return n
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--apply", action="store_true", help="write attachments and designs, and record decisions")
@@ -775,6 +845,8 @@ def main() -> None:
     ap.add_argument("--backlog", action="store_true", help="dry run over pre-ledger batch pages")
     ap.add_argument("--fold-backlog", type=Path, metavar="DECISIONS",
                     help="fold the pages a --backlog run attached, after a second read (with --apply)")
+    ap.add_argument("--mark-canonical", action="store_true",
+                    help="stamp canonical: true on the canonical pages (with --apply; else count)")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--out", default=None, help="decisions file for --backlog")
     ap.add_argument("--model", default=DEFAULT_MODEL)
@@ -782,6 +854,9 @@ def main() -> None:
     ap.add_argument("--by", default="process:settle-candidates")
     args = ap.parse_args()
 
+    if args.mark_canonical:
+        print(f"{mark_canonical(args.apply)} page(s) {'stamped' if args.apply else 'to stamp'} canonical: true")
+        return
     if args.report:
         report(cl.load_candidates(), cl.load_decisions())
         return

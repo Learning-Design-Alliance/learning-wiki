@@ -3,6 +3,7 @@ type: principle
 id: combine-audio-visual-compensate-sensory-loss
 title: Compensate for age-related sensory impairments by combining audio input with visual presentation
 description: The digest notes that hearing loss and declining visual acuity affect many people as they age and can interfere with learning, particularly understanding speech in the presence of background noise.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

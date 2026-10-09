@@ -3,6 +3,7 @@ type: element
 id: multimedia-production-project
 title: Multimedia production project
 description: A learning activity in which pupils design and produce a multimedia product, such as a CD-ROM encyclopedia, slide-show, home town database, botanical database, computer art gallery, or handmade TV program, taking dive...
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

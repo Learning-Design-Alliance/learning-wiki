@@ -3,6 +3,7 @@ type: element
 id: mental-models
 title: Mental Models
 description: A mental model is a learner's internal representation of how a system, process, or domain works, which they use to explain phenomena, predict outcomes, and reason about new situations.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

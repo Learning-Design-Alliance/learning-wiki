@@ -3,6 +3,7 @@ type: element
 id: metacognitive-strategies
 title: Metacognitive Strategies
 description: Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: element
 id: pre-class-videolecture
 title: Pre-Class Video/Lecture
 description: Instructional content is delivered via video or recorded lecture before in-class activities, freeing class time for active learning.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

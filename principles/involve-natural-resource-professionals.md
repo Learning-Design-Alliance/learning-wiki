@@ -3,6 +3,7 @@ type: principle
 id: involve-natural-resource-professionals
 title: Involve local natural resource professionals in youth environmental learning programs
 description: Because community-based environmental study depends on local information and technical accuracy, the guide urges leaders to recruit a local natural resource expert.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

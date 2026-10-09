@@ -3,6 +3,7 @@ type: principle
 id: ask-experts
 title: Ask Experts
 description: "For a novice or intermediate learner who brings a specific question or attempt to someone with more domain expertise, a consultation in which the expert has the learner explain first, responds with the least help that works, and does less across a series, followed by applying the advice, is expected to improve unaided performance on that task, though no claim here tests expert access as such."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

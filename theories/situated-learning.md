@@ -2,6 +2,7 @@
 type: theory
 title: Situated Learning
 description: Situated learning holds that knowledge is inseparable from the social, material, and cultural contexts in which it is used.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

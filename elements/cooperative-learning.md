@@ -3,6 +3,7 @@ type: element
 id: cooperative-learning
 title: Cooperative Learning
 description: Learners work in small structured groups toward shared goals, with positive interdependence and individual accountability built into the task design.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

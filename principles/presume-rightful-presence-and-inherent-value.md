@@ -3,6 +3,7 @@ type: principle
 id: presume-rightful-presence-and-inherent-value
 title: Presume the rightful presence and inherent value of disenfranchised students, families, and communities from the start
 description: "The principle holds that building a culture of true belonging must begin \"with the presumption of the rightful presence and inherent value of the disenfranchised.\" Inherent value means a person's value is assumed to e..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"
