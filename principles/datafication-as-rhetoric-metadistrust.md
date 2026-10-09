@@ -3,6 +3,7 @@ type: principle
 id: datafication-as-rhetoric-metadistrust
 title: Treat datafication as one form of rhetoric and practice metadistrust toward data-based arguments
 description: "The article argues, citing McQuillan, that \"Datafication itself is a rhetorical move, because it is saying that the important aspects of reality are ones that can be expressed as data.\" Reframing datafication as rheto..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

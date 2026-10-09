@@ -3,6 +3,7 @@ type: pattern
 id: project-and-instructional-space
 title: Project Space and Instructional Space
 description: Reigeluth's response to problem-based instruction's weaknesses — learners work on an authentic project and "freeze" it whenever they hit a learning gap, moving into an individualized instructional space for targeted mastery practice before returning to apply the new skill.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

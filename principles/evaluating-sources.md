@@ -3,6 +3,7 @@ type: principle
 id: evaluating-sources
 title: Evaluating Sources
 description: "For adolescent and adult novices who judge unfamiliar web sources by their own features, several lessons teaching and practising a move off the page (searching what independent sources say about who is behind it) are expected to improve credibility judgments of new sites up to five weeks later; one claim tests this package against untaught classes, though not against a checklist taught over the same number of sessions, nor for research articles or primary documents."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

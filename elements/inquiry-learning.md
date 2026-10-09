@@ -3,6 +3,7 @@ type: element
 id: inquiry-learning
 title: Inquiry Learning
 description: Learners investigate questions, generate or test hypotheses, and construct understanding through structured exploration rather than receiving explanations first.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

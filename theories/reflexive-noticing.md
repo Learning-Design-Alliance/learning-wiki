@@ -2,6 +2,7 @@
 type: theory
 title: Reflexive Noticing
 description: A discourse-level mechanism by which teacher professional dialogue shifts from stabilization talk (defending a frozen "common sense" about students) toward possibility talk (treating student difficulties as the object of, not the impediment to, teachers' work) — by sustaining puzzles instead of prematurely closing them.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

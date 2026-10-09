@@ -3,6 +3,7 @@ type: element
 id: persuasion
 title: Persuasion
 description: Learners develop techniques to convince others using logic and evidence.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

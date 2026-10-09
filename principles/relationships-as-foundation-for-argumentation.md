@@ -3,6 +3,7 @@ type: principle
 id: relationships-as-foundation-for-argumentation
 title: Relationships as Foundation for Argumentation
 description: Trust, emotional safety, and strong teacher-student and student-student relationships are a necessary foundational layer beneath productive scientific argumentation and equitable classroom discourse — without them, students are less willing to share, revise, or challenge ideas in front of peers.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

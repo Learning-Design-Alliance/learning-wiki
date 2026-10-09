@@ -2,6 +2,7 @@
 type: theory
 title: Play and Cognitive Development
 description: Children's play progresses through developmentally-linked cognitive types (functional, constructive, symbolic, and games with rules) and increasingly social participation structures, serving cognitive, social-emotional, and self-regulatory development.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

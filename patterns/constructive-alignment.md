@@ -3,6 +3,7 @@ type: pattern
 id: constructive-alignment
 title: Constructive Alignment
 description: "Constructive alignment is expected to raise performance on the intended capability when the stated outcome, the practised activities and the assessed task demand the same performance at the outcome's level, with practice and feedback before assessment; no claim here tests alignment itself, and one study found practice above the assessed level served a lower-level exam better."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

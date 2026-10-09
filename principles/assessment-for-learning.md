@@ -4,6 +4,7 @@ id: assessment-for-learning
 aliases: [formative-assessment-embedded-explicit-reflective-instruction]
 title: Assessment for Learning
 description: "Assessment evidence gathered during instruction is expected to support learning when teacher and learner read it against shared criteria, under stakes that let partial understanding show, with a revision step before the outcome is judged."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

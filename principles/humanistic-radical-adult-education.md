@@ -3,6 +3,7 @@ type: principle
 id: humanistic-radical-adult-education
 title: Adopt humanistic and radical approaches so adult learners develop as individuals and can question social injustice
 description: The article presents two further approaches within the pragmatic progressive stance.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

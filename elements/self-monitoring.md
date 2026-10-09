@@ -3,6 +3,7 @@ type: element
 id: self-monitoring
 title: Self-Monitoring
 description: Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

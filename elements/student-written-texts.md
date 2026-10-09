@@ -3,6 +3,7 @@ type: element
 id: student-written-texts
 title: Student-Written Texts
 description: Learner-authored texts used as supplementary reading resources in literacy instruction.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: element
 id: map-growth-assessment-element
 title: MAP Growth computer-adaptive assessment and its national norms and dashboard
 description: "MAP Growth is NWEA's assessment product, administered remotely or in person, whose scores are interpreted against national achievement and growth norms and summarized through tools such as the MAP Growth National Dash..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

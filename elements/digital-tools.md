@@ -3,6 +3,7 @@ type: element
 id: digital-tools
 title: Digital Tools
 description: Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: element
 id: mastery-progression
 title: Mastery Progression
 description: Learners cannot advance until they demonstrate mastery of foundational content.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

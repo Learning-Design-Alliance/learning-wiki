@@ -3,6 +3,7 @@ type: element
 id: individual-accountability
 title: Individual Accountability
 description: Individual accountability structures cooperative work so that each member's learning and contribution is separately assessed, preventing free-riding and ensuring every learner does the cognitive work.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

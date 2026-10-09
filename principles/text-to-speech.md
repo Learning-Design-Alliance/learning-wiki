@@ -3,6 +3,7 @@ type: principle
 id: text-to-speech
 title: Text-to-Speech
 description: "For a learner whose barrier to a text is decoding, vision or fatigue rather than its language, and when the goal is its meaning rather than reading the words, hearing the text read aloud while following the print with control of pace is expected to raise comprehension over print alone; no claim in the wiki tests text-to-speech itself."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: building-empathy
 title: Building Empathy
 description: For a learner forming an interpretation of another person or group, structured perspective-taking with concrete accounts and comparison of interpretations may improve attitudes towards that group, a relationship qualified by outcome, dose, target and horizon.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

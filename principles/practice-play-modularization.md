@@ -3,6 +3,7 @@ type: principle
 id: practice-play-modularization
 title: Allow practice play in relaxed conditions so skills can become modularized
 description: "Humm's overview draws on Piaget's practice play and Bruner's modularization: skills consolidate into streamlined, efficient, transferable forms over time, and unmodularized actions perform poorly under pressure."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

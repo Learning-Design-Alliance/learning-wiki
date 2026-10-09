@@ -3,6 +3,7 @@ type: principle
 id: knowledge-organization
 title: Knowledge Organization
 description: "For a learner who holds a topic as unconnected facts and must later use it for tasks that cut across it, teaching the content with an explicit organization built for those tasks, and having learners sort into, explain and rebuild that organization from memory, is expected to improve integrative tasks but not single-detail tasks; one small 1979 physics report tests the core contrast, and no claim tests other kinds of organization or a course-long framework."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

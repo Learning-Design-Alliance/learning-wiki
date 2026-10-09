@@ -42,6 +42,7 @@ import contextlib
 import inspect
 import io
 import json
+import math
 import re
 import sys
 from pathlib import Path
@@ -149,10 +150,22 @@ def _tokens(s: str) -> list[str]:
 
 
 def _title_key(title: str) -> str:
-    """Titles that differ only in case, punctuation or hyphen-vs-underscore slugs are
-    one page written twice ("Flashcard Drill" as flashcard-drill and flashcard_drill;
+    """Titles that differ only in case, punctuation, filler words or hyphen-vs-underscore
+    slugs are one page written twice ("Flashcard Drill" as flashcard-drill and flashcard_drill;
     857 such pairs, CLAUDE.md), so search shows the pair once."""
-    return " ".join(_tokens(title))
+    return " ".join(t for t in _tokens(title) if t not in _FILLER)
+
+
+# Words whose presence or absence does not make a title another page's ("The Effects
+# of Feedback" and "Effects of feedback"); search_index's stop list, which FTS5 ignores too.
+_FILLER = {"the", "a", "an", "of", "and", "or", "in", "on", "for", "to", "with", "by", "at",
+           "from", "as", "is", "are", "its", "their"}
+
+
+def _inbound(wiki: "Wiki", pid: str) -> int:
+    """How many pages link to this one (reverse-index.json)."""
+    kind, slug = pid.split("/", 1)
+    return sum(len(v) for v in wiki.edges.get(wiki.folder_of.get(kind, ""), {}).get(slug, {}).values())
 
 
 def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limit: int):
@@ -173,6 +186,9 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
         db = search_index.ensure(wiki.root)
         folder = wiki.folder_of.get(kind) if kind else None
         rows = [(r, "all") for r in search_index.query(db, query, folder=folder, limit=limit * 4, mode="AND")]
+        seen = {r[0][0] for r in rows}
+        rows += [(r, "all") for r in search_index.query(db, query, folder=folder, limit=limit * 4, mode="AND",
+                                                        title_only=True) if r[0] not in seen]
         total = db.execute("select count(*) from pages where pages match ?" + (" and folder = ?" if folder else ""),
                            [search_index.match_expr(query, mode="AND")] + ([folder] if folder else [])).fetchone()[0]
         if total < limit and len(terms) > 1:
@@ -200,7 +216,9 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
             # Below every all-words match, ordered by that coverage.
             score = -100 + 3 * covered + min(score, 10) / 10
         else:
-            score += 3 * covered
+            # A page much of the wiki links to is more often the one wanted than a
+            # one-source page with the same words: up to +6 at ~400 inbound links.
+            score += 3 * covered + min(6.0, math.log1p(_inbound(wiki, pid)))
         if wiki.pages[pid].get("canonical") and covered == len(terms):
             # The hub for an idea outranks its fragments, draft or not, when the
             # query names that idea (every word in its title or description); a

@@ -2,6 +2,7 @@
 type: theory
 title: Knowledge Objects and Knowledge Practices
 description: A framework for analyzing collaborative knowledge-building through the evolving artifacts a group constructs (knowledge objects) and the epistemic practices they use to construct and negotiate them (knowledge practices).
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: element
 id: visual-imagery
 title: Visual Imagery
 description: Visual imagery asks learners to form or use mental pictures — or supports them with concrete images — so that verbal content is encoded in both visual and verbal channels.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

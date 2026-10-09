@@ -3,6 +3,7 @@ type: element
 id: adaptive-learning
 title: Adaptive Learning
 description: "Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge."
+canonical: true
 status: review
 generated:
   by: codex/unspecified

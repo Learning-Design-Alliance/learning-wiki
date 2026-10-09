@@ -2,6 +2,7 @@
 type: theory
 title: "The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices"
 description: The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—th...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

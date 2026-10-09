@@ -3,6 +3,7 @@ type: element
 id: daily-before-and-after-srl-learning-diary
 title: Daily Before-and-After SRL Learning Diary
 description: A daily online learning diary with two sections per learning day.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

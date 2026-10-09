@@ -2,6 +2,7 @@
 type: theory
 title: The Five Essential Supports framework organizes school climate measurement into five key components of student learning
 description: "The report organizes its school measures under an 'Overview of the Five Essential Supports and Corresponding Consortium Profiles and Measures' diagram listing five 'ESSENTIAL SUPPORTS' key components: School Leadershi..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

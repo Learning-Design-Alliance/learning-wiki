@@ -3,6 +3,7 @@ type: pattern
 id: peer-instruction
 title: Peer Instruction
 description: "A reusable question, individual vote, peer discussion, revote and explanation policy for conceptual questions, with an isomorphic individual check to separate revised reasoning from copying."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

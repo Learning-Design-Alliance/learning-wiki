@@ -2,6 +2,7 @@
 type: theory
 title: Ellsworth's Framework of Educational Change
 description: Ellsworth's organisation of the classic educational change models around a communication model, in which a change agent communicates an innovation to an intended adopter through a change process, across an environment that contains resistance.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

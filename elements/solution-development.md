@@ -3,6 +3,7 @@ type: element
 id: solution-development
 title: Solution Development
 description: Learners synthesize information to propose and test solutions.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

@@ -3,6 +3,7 @@ type: element
 id: self-explanation
 title: Self-Explanation
 description: Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

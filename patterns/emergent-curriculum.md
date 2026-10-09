@@ -3,6 +3,7 @@ type: pattern
 id: emergent-curriculum
 title: Emergent Curriculum
 description: Emergent curriculum builds instruction from students' own expressed interests as they arise, rather than from goals set in advance by curriculum writers or teachers, requiring continuous observation and flexible responsiveness in place of predetermined planning.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

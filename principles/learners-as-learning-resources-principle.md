@@ -3,6 +3,7 @@ type: principle
 id: learners-as-learning-resources-principle
 title: Treat other people and technology as learning resources whose selection and evaluation learners control
 description: "The article's fifth assumption holds that other learners, teachers, family members, community people, employers, and technology tools are learning resources, and that learners should gain control over selecting and ev..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

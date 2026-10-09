@@ -3,6 +3,7 @@ type: element
 id: problem-based-learning
 title: Problem-Based Learning
 description: Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

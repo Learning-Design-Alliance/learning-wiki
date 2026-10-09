@@ -3,6 +3,7 @@ type: principle
 id: problem-based-learning
 title: Problem-based Learning
 description: "For learners who must apply knowledge to ill-structured problems, organizing work around problems has a small, highly variable and possibly inflated average effect; what is better supported is guidance for novices on the target content, with a problem-first phase as a narrower option followed by instruction."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

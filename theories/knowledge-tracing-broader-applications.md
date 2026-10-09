@@ -2,6 +2,7 @@
 type: theory
 title: Applications of Knowledge Tracing Beyond Student Learning
 description: "Beyond resource recommendation and adaptive learning, the survey states \"the KT methods can be expanded to be utilized in any systems that necessitate continuous evaluation of user capabilities or states.\" It names pl..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

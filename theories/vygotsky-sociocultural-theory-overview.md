@@ -2,6 +2,7 @@
 type: theory
 title: "Vygotsky's sociocultural theory: development is historically situated, culturally determined, and proceeds through internalization of social interaction"
 description: "The article presents Vygotsky's core theoretical position: unlike Piaget's focus on biological and structural development, Vygotsky \"stressed the contribution of culture, social interaction and the historical dimensio..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

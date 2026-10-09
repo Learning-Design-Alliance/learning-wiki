@@ -3,6 +3,7 @@ type: principle
 id: learner-control-information-flow-with-on-demand-tools
 title: Keep the learner in control of the information flow with on-demand tools and supports
 description: "The article argues interactive video's power lies in providing context and contextual clues while giving learners control of the information flow, which research suggests is very necessary."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

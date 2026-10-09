@@ -2,6 +2,7 @@
 type: theory
 title: Expertise Reversal Effect
 description: The expertise reversal effect is the idea that instructional guidance that helps novices can become redundant or counterproductive as learner expertise increases.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: element
 id: model-revision
 title: Model Revision
 description: Learners refine their conceptual models based on evidence and feedback.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

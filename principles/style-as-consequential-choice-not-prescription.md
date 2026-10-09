@@ -3,6 +3,7 @@ type: principle
 id: style-as-consequential-choice-not-prescription
 title: Teach style as attention to language choices with consequences, not as prescriptive rules
 description: The article argues style should be taught as a viable element of writing instruction in which students understand that the decisions they make when using language directly affect the meaning they convey.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

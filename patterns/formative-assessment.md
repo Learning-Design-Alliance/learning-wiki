@@ -4,6 +4,7 @@ id: formative-assessment
 aliases: [keypad-quizzing-interrupts-lecture-for-formative-assessment]
 title: Formative Assessment
 description: "A reusable elicit–interpret–act–reobserve policy, qualified by what a response can establish and by whether a relevant next action is available."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: element
 id: identity-status-interview
 title: Modified identity status interview
 description: "A modified version of Marcia's identity status interview, used in this study to classify participants into the achievement, moratorium, foreclosure, and diffusion statuses based on crisis and commitment criteria."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

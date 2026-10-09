@@ -4,6 +4,7 @@ id: fostering-communities-of-learning-fcl
 aliases: [jigsaw, jigsaw-learning, jigsaw-method]
 title: Fostering Communities of Learning (FCL)
 description: "A reusable research-and-teach cycle in which learners become expert on one part of a shared theme, teach it to peers in jigsaw groups and read through reciprocal teaching, expected to raise each learner's understanding of the whole theme where research is guided, teaching is structured and every member is checked on every part; no claim tests the pattern as a whole, only its components."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

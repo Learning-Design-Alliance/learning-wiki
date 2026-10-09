@@ -2,6 +2,7 @@
 type: theory
 title: Five essentials framework of organizational supports for school improvement
 description: "The report builds its measurement system on the five essentials framework developed by Tony Bryk and colleagues, which the report describes as identifying \"five organizational features of schools that interact with li..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

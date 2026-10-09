@@ -3,6 +3,7 @@ type: element
 id: dc-value-added-assessment-system
 title: Value-Added Assessment System for DC Schools and Teachers (2009–2015 project context)
 description: "The article is associated with the project \"Value-Added Assessment System for DC Schools and Teachers,\" with a stated time frame of 2009–2015, prepared for District of Columbia Public Schools."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -3,6 +3,7 @@ type: principle
 id: error-analysis
 title: Error Analysis
 description: "For a learner who can already follow a correct solution, comparing an incorrect solution with a correct one, explaining the error and seeing the correction is expected to improve conceptual understanding, and correcting errors (confident ones first) to improve later recall, but the evidence is a few short studies, mostly children in mathematics and adults on recall items."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

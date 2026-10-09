@@ -3,6 +3,7 @@ type: element
 id: peer-discussion
 title: Peer Discussion
 description: Learners engage in structured conversations with classmates to explore, articulate, and refine ideas.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

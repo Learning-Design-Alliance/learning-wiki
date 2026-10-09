@@ -3,6 +3,7 @@ type: principle
 id: popham-four-instructional-development-principles
 title: "Popham's four broadened principles for instructional products"
 description: "The digest reports that as programmed instruction's original prescriptions were questioned, Popham (1971) broadened and reduced them to four principles: \"provide relevant practice for the learner\", \"provide knowledge..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

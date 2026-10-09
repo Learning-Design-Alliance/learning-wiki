@@ -3,6 +3,7 @@ type: element
 id: retrieval-practice
 title: Retrieval Practice
 description: Retrieval practice is the element in which learners recall information from memory rather than only re-exposing themselves to it.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

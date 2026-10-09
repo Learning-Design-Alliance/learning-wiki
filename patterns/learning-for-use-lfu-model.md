@@ -3,6 +3,7 @@ type: pattern
 id: learning-for-use-lfu-model
 title: Learning-for-Use (LfU) Model
 description: Learning-for-Use is a pattern for designing inquiry so that knowledge is learned in response to a meaningful need and then refined through application.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

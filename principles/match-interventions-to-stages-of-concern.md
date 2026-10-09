@@ -4,6 +4,7 @@ id: match-interventions-to-stages-of-concern
 aliases: [diagnostic-prescriptive-change-facilitation]
 title: "Match the form and content of staff development interventions to clients' assessed Stages of Concern"
 description: "For adults adopting an innovation in their work, support whose form and content are matched to each person's assessed Stages of Concern and Levels of Use, and kept up after use begins, is expected to move concerns and use forward more than uniform support, though no claim in this wiki tests matched against unmatched support."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: element
 id: antecedent-behavior-consequence-model
 title: Antecedent-Behavior-Consequence (ABC) Model
 description: The ABC model analyzes behavior as an environmental trigger (antecedent) producing an observable action (behavior) followed by an outcome that strengthens or weakens its recurrence (consequence) — the applied-behavior-analysis framework for identifying what is actually maintaining a classroom behavior before intervening.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

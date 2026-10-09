@@ -3,6 +3,7 @@ type: element
 id: jigsaw-learning
 title: Jigsaw Learning
 description: Jigsaw learning is the short-form canonical target for the jigsaw-style distribution of expertise and peer teaching.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

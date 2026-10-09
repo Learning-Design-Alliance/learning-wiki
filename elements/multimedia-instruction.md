@@ -3,6 +3,7 @@ type: element
 id: multimedia-instruction
 title: Multimedia Instruction
 description: Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

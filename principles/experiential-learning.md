@@ -4,6 +4,7 @@ id: experiential-learning
 aliases: [experiential-course-design-practice-centered-diagnostic]
 title: Experiential Learning
 description: "For learners building applied, professional or interpersonal capability, an experience followed by structured reflection and a further attempt with feedback is expected to improve performance and transfer, while unguided experience for novices learns less than guided instruction."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: relaxed-atmosphere-communicative-activities
 title: Create a relaxed, non-threatening atmosphere before engaging students in communicative activities
 description: The article argues that communicative activities are harder to engage in under stress, discomfort, fatigue, emotional distress or hostility, so teachers should create a comfortable and harmonious atmosphere where stud...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

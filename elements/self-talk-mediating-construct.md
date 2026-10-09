@@ -3,6 +3,7 @@ type: element
 id: self-talk-mediating-construct
 title: Self-talk as the mediating internal verbalization of teacher feedback
 description: Self-talk is the internal verbalization by which students perceive, interpret, and integrate teacher statements and feedback, serving as the mediating step between external feedback and academic self-concept.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

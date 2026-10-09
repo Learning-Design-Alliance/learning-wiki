@@ -4,6 +4,7 @@ id: scaffolding
 aliases: [pre-assessment-scaffolding-hypothesized-quality-driver, text-system-controlled-prompts-for-novices]
 title: Scaffolding
 description: "Temporary support given while a learner attempts a task they cannot yet complete alone may improve later cognitive outcomes compared with unsupported attempts, qualified by the learner's task-specific starting response, the kind of support, the setting and whether the outcome is measured without the support."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

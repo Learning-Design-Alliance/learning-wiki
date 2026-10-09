@@ -3,6 +3,7 @@ type: element
 id: open-ended-discussion
 title: Open-Ended Discussion
 description: Facilitated dialogue where learners explore topics without predetermined answers.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

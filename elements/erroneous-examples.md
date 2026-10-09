@@ -3,6 +3,7 @@ type: element
 id: erroneous-examples
 title: Erroneous Examples
 description: Erroneous examples are worked examples that intentionally contain a mistake for learners to identify, explain, and correct.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: element
 id: belonging
 title: Belonging
 description: Belonging is learners' perception of being accepted, valued, and socially connected within a learning community; it functions as a motivational precondition that designs must actively cultivate.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

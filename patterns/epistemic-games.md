@@ -3,6 +3,7 @@ type: pattern
 id: epistemic-games
 title: Epistemic Games
 description: "A reusable policy in which learners take a role in a simulation of a profession's work and learn its way of deciding; expected to improve decisions justified in the practice's terms where the practice has been studied, mentors model decisions and feedback and debriefs are given, and the outcome is judged outside the game; no claim in this wiki tests epistemic games."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: element
 id: jigsaw
 title: Jigsaw
 description: Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

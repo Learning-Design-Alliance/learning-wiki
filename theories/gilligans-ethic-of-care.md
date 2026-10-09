@@ -2,6 +2,7 @@
 type: theory
 title: Gilligan's Ethic of Care
 description: Gilligan proposed a morality of care — centered on responsibility, interdependence, and responsiveness to others' needs — as a complement to Kohlberg's justice-centered account, organized into three positions of increasing sophistication rather than strict developmental stages.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

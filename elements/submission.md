@@ -3,6 +3,7 @@ type: element
 id: submission
 title: Submission
 description: Learners submit work for assessment, feedback, or peer review at structured checkpoints.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

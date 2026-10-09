@@ -3,6 +3,7 @@ type: element
 id: speech-to-text
 title: Speech-to-text
 description: Speech-to-text converts spoken language into written text, giving learners another route for composing, capturing ideas, and participating in text-based environments.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

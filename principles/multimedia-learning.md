@@ -4,6 +4,7 @@ id: multimedia-learning
 aliases: [visual-representations-benefit-only-with-adequate-processing-resources]
 title: Multimedia Learning
 description: "For a learner without a working model of a structure or process, a relevant picture placed with the words that explain it may improve a learning test over words alone, qualified by redundancy, decorative additions, pacing, prior knowledge and assessment horizon."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

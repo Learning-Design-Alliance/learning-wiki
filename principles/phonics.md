@@ -4,6 +4,7 @@ id: phonics
 aliases: [explicit-instruction-phonics]
 title: Phonics
 description: "For a beginning reader who cannot yet turn print into sound, explicit teaching of letter–sound correspondences in a planned sequence, applied at once to reading and spelling words, is expected to produce more accurate decoding and word reading than unsystematic or no phonics; a meta-analysis tests this for kindergarten to grade 6, with smaller gains for older struggling readers and for comprehension, and a contested advantage over whole-language teaching."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

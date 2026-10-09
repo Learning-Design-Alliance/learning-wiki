@@ -3,6 +3,7 @@ type: principle
 id: observationshadowing
 title: Observation/Shadowing
 description: "For a newcomer to a practice, watching it done as work, with a written focus, a record that separates what was seen from its meaning, a prompt to explain the performer's decisions, a same-day debrief and a prompt own attempt, is expected to improve what the learner notices and their readiness to perform, though no claim tests shadowing or peer observation directly; the evidence is one observation-training study with teacher candidates and findings carried from self-explanation and contingent support."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

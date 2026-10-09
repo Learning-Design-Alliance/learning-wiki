@@ -3,6 +3,7 @@ type: principle
 id: cooperative-learning
 title: Cooperative Learning
 description: "For learners who can take part in the task, structured small-group work in which each member's learning is individually checked and counts toward the group's success is expected to raise individually measured achievement over several weeks, more than individualistic or competitive work; grouping alone is not expected to."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

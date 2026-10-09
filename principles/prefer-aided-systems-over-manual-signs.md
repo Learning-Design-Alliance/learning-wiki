@@ -3,6 +3,7 @@ type: principle
 id: prefer-aided-systems-over-manual-signs
 title: Strongly consider aided AAC systems over manual signs, particularly for children with fine motor limitations
 description: "The article advises that \"Practitioners might want to strongly consider aided systems over manual signs, particularly for children with fine motor limitations.\" Aided systems such as PE and SGDs enable children to acq..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

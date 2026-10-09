@@ -4,6 +4,7 @@ id: community-based-learning
 aliases: [weave-diversity-into-community-based-learning]
 title: Community-Based Learning
 description: "For a learner whose coursework stays school-internal, giving the work a real role in a community is associated with civic attitudes, self-reported growth and deeper reflection when the work is tied to course concepts, reflection is structured and relationships are supported; no claim here tests its effect on content learning."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

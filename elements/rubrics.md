@@ -3,6 +3,7 @@ type: element
 id: rubrics
 title: Rubrics
 description: Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

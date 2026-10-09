@@ -3,6 +3,7 @@ type: principle
 id: guided-practice
 title: Guided Practice
 description: "For a learner who has seen a model but cannot yet perform a structured task alone, several practice attempts with support and feedback still available, reduced as unaided success appears, are expected to produce more accurate independent performance than no practice or unsupported practice, though no claim here tests guided against independent practice directly."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

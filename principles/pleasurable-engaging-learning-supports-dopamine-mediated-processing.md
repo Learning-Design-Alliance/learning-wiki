@@ -3,6 +3,7 @@ type: principle
 id: pleasurable-engaging-learning-supports-dopamine-mediated-processing
 title: Make learning pleasurable and engaging, because anticipated pleasure releases dopamine that supports processing of new information
 description: "Drawing on Willis (2007), the review argues that because dopamine is associated with attention, memory, learning, and executive function, \"when the brain releases dopamine in expectation of pleasurable experience, thi..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

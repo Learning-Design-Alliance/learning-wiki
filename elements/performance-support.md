@@ -3,6 +3,7 @@ type: element
 id: performance-support
 title: Performance Support
 description: Performance support provides task-specific guidance at the moment of need within the work context, reducing reliance on memorized knowledge.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

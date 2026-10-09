@@ -3,6 +3,7 @@ type: principle
 id: include-caregivers-as-self-regulation-coaches
 title: Include parents, teachers, or mentors in any self-regulation intervention and support their own skills and coaching capacity
 description: "For adolescents and young adults in a self-regulation programme, adding coached support for the adults around them (their own regulation, and rehearsed co-regulation of the young person) is expected to make gains larger and more transferable, a practice brief's guideline that no claim in this wiki tests directly; neighbouring syntheses show coached parent training beating information alone for younger children."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: pattern
 id: online-course-design
 title: Online Course Design (Community of Inquiry)
 description: "An online course whose structure stays constant, whose weekly cycle builds interaction with content, the teacher and peers by design, whose first week centres on contact with a person and whose discussion is structured to reach a conclusion is expected to raise end-of-term performance and completion over one left to chance; no claim tests this, and the nearest claims bear on self-regulation support, if-then planning for completion and where online learners drop out."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

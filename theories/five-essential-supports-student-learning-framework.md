@@ -2,6 +2,7 @@
 type: theory
 title: Five Essential Supports framework for organizing school improvement measures
 description: "The Consortium's framework holds that five domains—school leadership, parent and community partnerships, a student-centered learning climate, professional capacity, and quality of the instructional program—are \"freque..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

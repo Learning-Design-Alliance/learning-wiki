@@ -3,6 +3,7 @@ type: element
 id: embodied-choreographic-assessment
 title: Embodied Choreographic Assessment
 description: An iterative formative-assessment task in which learners collaboratively choreograph movement to represent a concept, then revise it across cycles of peer feedback and reflection.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

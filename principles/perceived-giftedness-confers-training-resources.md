@@ -3,6 +3,7 @@ type: principle
 id: perceived-giftedness-confers-training-resources
 title: Treat perceived giftedness as access to superior training resources, and define the giftedness construct explicitly before labeling
 description: "The article argues that perceived \"giftedness\" operates mainly by giving children \"access to superior training resources, resulting in developmental advantages\": parents who see talent arrange early instruction, teach..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

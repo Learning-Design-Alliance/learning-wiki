@@ -4,6 +4,7 @@ id: dual-coding
 aliases: [creating-visual-representations]
 title: Dual Coding
 description: "For a learner without a working model of a structure or process, pairing the words that explain it with a visual of the same idea, supplied or learner-made, is expected to improve comprehension over words alone; claims test each half against words alone, none tests the sequence, and direct tests favour provided over learner-built organizers for transfer."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

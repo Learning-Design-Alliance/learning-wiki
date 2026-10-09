@@ -3,6 +3,7 @@ type: pattern
 id: multimedia-learning
 title: Multimedia Learning
 description: "A reusable policy for pairing an explanation's words with an informative picture, choosing placement, channel, pacing and segmentation from the learner's observed response and the intended outcome."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

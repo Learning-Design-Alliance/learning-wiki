@@ -4,6 +4,7 @@ id: autonomy
 aliases: [learner-choice, structure-with-student-control-cross-cultural-tasks, student-choice-builds-ownership-maker-education]
 title: Autonomy
 description: "For a learner whose engagement is controlled by pressure or reward, meaningful choice within structure, a rationale for required work and non-controlling language are expected to sustain motivation and voluntary engagement; their effect on learning outcomes is small, inconsistent and depends on what the learner controls and when."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

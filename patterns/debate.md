@@ -4,6 +4,7 @@ id: debate
 aliases: [debate-format]
 title: Debate
 description: "A reusable policy for structured argument on a contested question, in which preparing, defending and answering opposing cases is expected to improve individual argument, conditional on an arguable resolution, evidence and questioning in the rules, moderated turns, a debrief, and an individual outcome at a stated horizon."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

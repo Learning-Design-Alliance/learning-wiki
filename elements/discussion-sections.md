@@ -3,6 +3,7 @@ type: element
 id: discussion-sections
 title: Discussion Sections
 description: Smaller, instructor- or TA-led sessions where learners analyze and discuss course material in depth.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

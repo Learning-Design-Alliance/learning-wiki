@@ -2,6 +2,7 @@
 type: theory
 title: Theoretical Domains Framework as an organizing framework for behavioral determinants of intervention engagement
 description: "The Theoretical Domains Framework (TDF) is \"an integrative framework that draws from 33 behavior change theories to characterize and evaluate behavioral determinants of implementation,\" comprising 14 domains with 84 c..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

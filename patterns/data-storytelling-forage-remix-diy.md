@@ -3,6 +3,7 @@ type: pattern
 id: data-storytelling-forage-remix-diy
 title: Data Storytelling — Forage, Remix, DIY
 description: A three-stage pattern that builds learners' data-storytelling and critical-data-literacy skills by moving from analyzing existing data stories, to remixing an exemplary one, to authoring and performing an original one with open data.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

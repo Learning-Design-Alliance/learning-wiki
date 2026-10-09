@@ -2,6 +2,7 @@
 type: theory
 title: Locus of Control
 description: Locus of control is a person's generalized belief about whether their outcomes are caused mainly by their own effort (internal) or by forces outside their control such as luck, chance, or powerful others (external).
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

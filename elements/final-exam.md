@@ -3,6 +3,7 @@ type: element
 id: final-exam
 title: Final Exam
 description: "A cumulative assessment evaluating learners' mastery of the entire course material."
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

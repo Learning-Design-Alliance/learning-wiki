@@ -3,6 +3,7 @@ type: principle
 id: dc-estimate-guideline-085
 title: Target a decision consistency estimate of at least 0.85 for high stakes exams while interpreting lower values in light of cut score location, reliability, and population heterogeneity
 description: "The article endorses Subkoviak's (1988) guidance that tests used for serious decisions should achieve an agreement coefficient exceeding 0.85, while arguing the acceptable value should be a programmatic policy decisio..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

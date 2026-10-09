@@ -3,6 +3,7 @@ type: pattern
 id: structured-peer-review
 title: Structured Peer Review
 description: "A reusable policy in which learners comment on one another's drafts against explicit criteria and each author then revises before the work is judged; expected to improve the revised work, and possibly the reviewers' own later work, where reviewers are calibrated on the criteria, comments point to the draft and suggest changes, revision is required and stakes are formative; no claim tests the full cycle, though peer feedback on writing and peer assessment are each tested against no feedback."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

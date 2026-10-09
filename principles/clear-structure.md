@@ -4,6 +4,7 @@ id: clear-structure
 aliases: [clear-structure-presentation, combine-signalling-and-cueing-to-highlight-changes]
 title: Clear Structure
 description: "For learners without an organization of their own for unfamiliar material, making its organization explicit (signals, lean organizers, graphics that match the content and task) may improve what they select and recall on immediate tests, an effect qualified by prior knowledge, structural match and outcome."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

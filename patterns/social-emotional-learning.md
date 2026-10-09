@@ -3,6 +3,7 @@ type: pattern
 id: social-emotional-learning
 title: Social Emotional Learning
 description: "For school-age learners, a sustained programme, delivered mainly by their own teachers, that explicitly teaches one named social or emotional skill at a time, rehearses it actively with feedback and cues it in daily routines and academic work is expected to improve those skills most, and conduct, distress and achievement by smaller amounts, with gains persisting at follow-up; meta-analyses test universal K–12 SEL programmes as a whole against controls, but no claim tests this sequence's steps, adult learners or one-off formats."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

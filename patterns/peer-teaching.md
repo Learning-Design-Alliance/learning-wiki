@@ -3,6 +3,7 @@ type: pattern
 id: peer-teaching
 title: Peer Teaching
 description: Peer teaching is the short-form canonical pattern for learners teaching concepts, processes, or interpretations to one another.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

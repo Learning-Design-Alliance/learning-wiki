@@ -3,6 +3,7 @@ type: principle
 id: activation
 title: Activation
 description: "For learners whose relevant prior knowledge is accurate and is then used by the instruction that follows, an activity that makes it visible before instruction may improve comprehension or retention, while activating topic knowledge alone has often shown little effect and activated misconceptions need confronting."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

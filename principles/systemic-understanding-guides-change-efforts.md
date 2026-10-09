@@ -3,6 +3,7 @@ type: principle
 id: systemic-understanding-guides-change-efforts
 title: Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed
 description: "The digest's central recommendation is that practitioners \"must strive to guide all our change efforts with a systemic understanding of the context\" in which they undertake them."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

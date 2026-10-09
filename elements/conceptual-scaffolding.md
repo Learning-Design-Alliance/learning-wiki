@@ -3,6 +3,7 @@ type: element
 id: conceptual-scaffolding
 title: Conceptual Scaffolding
 description: Conceptual scaffolding is the element in which learners are given temporary structures, prompts, or representations that help them understand the underlying ideas of a domain before handling them independently.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

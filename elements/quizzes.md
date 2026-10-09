@@ -3,6 +3,7 @@ type: element
 id: quizzes
 title: Quizzes
 description: Short, low-stakes assessments that reinforce learning and provide feedback.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

@@ -3,6 +3,7 @@ type: element
 id: part-task-practice
 title: Part-task practice
 description: Isolated, repeated practice of elements that require automation for efficient task performance.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

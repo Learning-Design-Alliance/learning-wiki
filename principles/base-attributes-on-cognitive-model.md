@@ -3,6 +3,7 @@ type: principle
 id: base-attributes-on-cognitive-model
 title: Base diagnostic item attributes on an independently constructed cognitive model of problem solving
 description: When applying cognitive diagnosis in a complex domain, item attributes should be derived from a problem-solving model built independently of the items, rather than listed intuitively.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

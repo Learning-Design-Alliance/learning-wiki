@@ -3,6 +3,7 @@ type: element
 id: significant-others-statements-inventory
 title: Significant Others Statements Inventory (SOSI)
 description: "The SOSI is an eight-subscale instrument measuring children's perceived frequency of positive and negative statements made by parents, teachers, siblings, and peers."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

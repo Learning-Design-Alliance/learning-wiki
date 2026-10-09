@@ -3,6 +3,7 @@ type: pattern
 id: authentic-assessment
 title: Authentic Assessment
 description: "Assessing a capability through an extended task that mirrors real practice, with public criteria, feedback and revision before the final judgement, is expected to improve performance and transfer of that capability for learners who already have its components; no claim here tests authentic assessment against conventional tests, and guidance for novices, untrained self-assessment and scorer disagreement limit it."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

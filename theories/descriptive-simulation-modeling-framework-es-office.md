@@ -2,6 +2,7 @@
 type: theory
 title: Two-stage descriptive-plus-simulation modeling framework for Employment Service local office operations
 description: "The report proposes a two-stage modeling framework: a descriptive model capturing office activities, priorities and flows, and a simulation model built on it that adds statistics-gathering."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

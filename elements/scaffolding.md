@@ -3,6 +3,7 @@ type: element
 id: scaffolding
 title: Scaffolding
 description: Scaffolding is the element in which support is added temporarily so learners can perform tasks they could not yet complete independently.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

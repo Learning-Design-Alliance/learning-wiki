@@ -4,6 +4,7 @@ id: professional-development
 aliases: [coaching-level-2-necessary-supports-implementation-and-dialogue]
 title: Professional Development
 description: "A reusable policy for teachers: one observable classroom practice is modelled, rehearsed, enacted with the teacher's own students and given feedback in coaching cycles over a term, with support faded and use checked later; expected to change observed practice where the target is specific and coach time is sustained, though no claim here compares it with one-off workshops."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: supporting-gifted-and-talented-students
 title: Supporting Gifted and Talented Students
 description: "For a student whose work on a unit shows the target already done, replacing the practice they do not need with acceleration or harder enrichment, chosen from that response rather than the label, is expected to sustain progress and engagement; no claim tests this, so the page gives a labelled default design."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

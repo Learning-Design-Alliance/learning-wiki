@@ -3,6 +3,7 @@ type: element
 id: spanish-map-reading-fluency-foundational-skills-assessment
 title: Spanish MAP Reading Fluency Foundational Skills assessment
 description: "A Spanish-language early-grades reading assessment covering three domains: Phonological Awareness, Phonics & Word Recognition, and Language Comprehension."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

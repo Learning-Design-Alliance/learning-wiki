@@ -4,6 +4,7 @@ id: flipped-learning
 aliases: [multimedia-modules-for-pre-lecture-preparation]
 title: Flipped Learning
 description: "For learners who can follow a topic's first explanation on their own, moving that first exposure before the live session and spending the freed time on application with feedback is expected to give better course outcomes than spending live time on the same exposition, provided learners prepare and the home time is not simply added; no claim here compares a flipped course with the same course unflipped."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

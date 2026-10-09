@@ -3,6 +3,7 @@ type: element
 id: reinforcement
 title: Reinforcement
 description: Reinforcement is the delivery of a consequence (reward, praise, feedback, or removal of an aversive condition) contingent on a learner's behavior, intended to increase the frequency or persistence of that behavior.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

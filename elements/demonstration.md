@@ -3,6 +3,7 @@ type: element
 id: demonstration
 title: Demonstration
 description: A demonstration presents a complete or partial model of a skill, process, or solution so learners can observe expert performance before attempting it themselves.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: collaboration-paramount-pedagogy-collectivity
 title: Make collaboration paramount in pedagogy because humanity is intrinsically collective
 description: The article argues that because learning and freedom are socially mediated, collaborative creation should be central to transformative pedagogy.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

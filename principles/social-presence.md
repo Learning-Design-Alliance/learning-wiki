@@ -3,6 +3,7 @@ type: principle
 id: social-presence
 title: Social Presence
 description: "For learners in an online or blended group course whose part in discussion is thin or guarded, designed chances to be seen and heard as a person (course-tied introductions, a visible instructor, small stable groups, structured replies, some live contact) are expected to raise open participation and persistence, but the wiki holds only survey associations and correlational syntheses, and no claim tests that design on learning."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

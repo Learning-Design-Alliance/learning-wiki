@@ -3,6 +3,7 @@ type: principle
 id: avoid-student-intercepts-for-transfer
 title: Avoid fixed or random student intercepts in learner models intended to transfer to new student populations
 description: The article argues that to be maximally applicable, a learner model needs to adapt to student differences without requiring student parameters estimated from prior data.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

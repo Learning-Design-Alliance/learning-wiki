@@ -4,6 +4,7 @@ id: rhetorical-skill-development
 aliases: [teach-rhetorical-choices-not-tools]
 title: Rhetorical Skill Development
 description: Rhetorical skill development is the principle of helping learners craft arguments, communicate persuasively, respond to audiences, and use language strategically for effect.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: minimize-errors-for-precision-and-associations
 title: Teach response precision and new associations with minimal errors, using mediators and stimulus fading
 description: For tasks where precise responding must be gradually brought under subject-matter control, Glaser recommends contracting performance tolerances progressively and minimizing errors, because abrupt constriction of crite...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -3,6 +3,7 @@ type: element
 id: iterative-learning
 title: Iterative Learning
 description: Iterative learning is the element in which learners improve through repeated cycles of attempt, feedback, revision, and retry.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -2,6 +2,7 @@
 type: theory
 title: Humanizing Mathematics as Boundary Blurring
 description: "The author's conceptualization of humanizing mathematics, contrasted with approaches that bring cultural knowledge into school mathematics."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

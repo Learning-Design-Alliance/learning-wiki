@@ -3,6 +3,7 @@ type: element
 id: class-discussion
 title: Class Discussion
 description: Structured conversations where learners analyze and reflect on content.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

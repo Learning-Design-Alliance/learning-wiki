@@ -4,6 +4,7 @@ id: cognitive-load-theory
 aliases: [lower-extraneous-load-to-increase-germane-effort-in-stem]
 title: Cognitive Load Theory
 description: "For a task-specific novice on high-element-interactivity material, reducing avoidable processing is expected to improve performance or efficiency, a relationship that weakens or reverses as task-specific expertise grows."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

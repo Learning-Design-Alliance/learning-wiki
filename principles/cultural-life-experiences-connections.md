@@ -4,6 +4,7 @@ id: cultural-life-experiences-connections
 aliases: [culturally-responsive-adult-curriculum]
 title: "Cultural & Life Experiences Connections"
 description: "For learners whose instruction draws on contexts they do not recognise or see no stake in, building some tasks, examples and assessments from their own cultural, community, family and work experience, tied to the concept taught, is expected to raise engagement, open sharing of developing thinking and the competence an assessment can see; no claim here compares it with the same content taught without that connection."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

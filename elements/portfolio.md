@@ -3,6 +3,7 @@ type: element
 id: portfolio
 title: Portfolio
 description: A portfolio is a purposeful, curated collection of learner work assembled over time, accompanied by reflection, used to document growth and assess competence.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

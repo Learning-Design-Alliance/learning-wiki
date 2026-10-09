@@ -2,6 +2,7 @@
 type: theory
 title: Information Processing Theory
 description: Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

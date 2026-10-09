@@ -2,6 +2,7 @@
 type: theory
 title: Historical Reasoning Framework
 description: A framework treating historical reasoning as six interrelated aspects — asking historical questions, making evidence-based claims, using sources, using substantive concepts, constructing historical context, and applying meta-concepts like corroboration — usable both to design history instruction and to score students' historical writing.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

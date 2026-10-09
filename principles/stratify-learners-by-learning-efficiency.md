@@ -3,6 +3,7 @@ type: principle
 id: stratify-learners-by-learning-efficiency
 title: Classify learners by learning efficiency and effectiveness (e.g., ratio of acquisition rate to retention) rather than current performance level
 description: "The article recommends identifying expert learners by classifying performers on the amount of learning that has occurred, using absolute retention, pre-to-retention change, or \"the relationship or ratio between rate o..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

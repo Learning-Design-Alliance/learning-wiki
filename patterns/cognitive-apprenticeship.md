@@ -3,6 +3,7 @@ type: pattern
 id: cognitive-apprenticeship
 title: Cognitive Apprenticeship
 description: "A reusable modeling, coaching, scaffolding, fading, articulation and exploration policy for complex cognitive skills, whose phase transitions depend on observed unaided performance and remain an untested design proposal."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

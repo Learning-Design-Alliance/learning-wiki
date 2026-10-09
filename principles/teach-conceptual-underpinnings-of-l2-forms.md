@@ -3,6 +3,7 @@ type: principle
 id: teach-conceptual-underpinnings-of-l2-forms
 title: Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units
 description: "The article argues that learner difficulties such as avoidance and overgeneralization \"are consequences that are not successfully remedied by only placing attention to the structural aspects of forms in the L2 classro..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

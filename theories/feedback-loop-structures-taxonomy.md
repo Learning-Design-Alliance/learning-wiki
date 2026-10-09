@@ -2,6 +2,7 @@
 type: theory
 title: "Five structural forms for systems of feedback loops: generator, amplifier, activator, aggregator, catalyzer"
 description: The report proposes a taxonomy of structures, described as the overarching forms that systems of multiple feedback loops take toward a larger goal.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

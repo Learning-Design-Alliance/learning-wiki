@@ -2,6 +2,7 @@
 type: theory
 title: Womanist Restorying
 description: A Black feminist/womanist storytelling methodology in which learners deconstruct dominant narratives about who belongs in a domain, analyze whose perspectives those narratives silence, and reconstruct alternative narratives grounded in their own lived experience.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: pre-reading-questioning
 title: Pre-reading Questioning
 description: "For a reader about to meet an expository text whose central ideas they do not yet know, attempting a few aligned questions before reading and checking the attempts against the text afterwards is expected to improve later memory of the questioned content over reading alone, possibly at some cost to unquestioned content; one laboratory claim tests this with undergraduates, and no claim tests its classroom, comprehension or purpose-setting forms."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

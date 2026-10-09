@@ -3,6 +3,7 @@ type: element
 id: standards-based-certification-framework
 title: Certificate fields differentiated by developmental level and subject
 description: "The digest explains that the National Board rejected a single general certificate, noting that \"its holder is proficient in teaching all subjects to all students of all ages is unwarranted\" (NBPTS, 1991), and instead..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

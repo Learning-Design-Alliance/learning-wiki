@@ -3,6 +3,7 @@ type: element
 id: inquiry-based-learning
 title: Inquiry-Based Learning
 description: Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

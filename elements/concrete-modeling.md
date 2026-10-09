@@ -3,6 +3,7 @@ type: element
 id: concrete-modeling
 title: Concrete Modeling
 description: Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: culturally-responsive-classroom-norms
 title: Culturally Responsive Classroom Norms
 description: "For learners whose home or community norms of talk, questioning, competition, time and conduct differ from the classroom's, widening the classroom's norms (longer wait time, private or all-student response, cooperative options, conventions taught explicitly) and reading a departure from a norm as a possible difference of convention before judging ability or defiance is expected to make questioning show more of what learners know and to raise participation and reduce disciplinary exclusion; no claim here tests this, though claims test wait time, cooperative structures and empathic discipline in general populations."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

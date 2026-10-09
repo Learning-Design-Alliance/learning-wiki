@@ -3,6 +3,7 @@ type: principle
 id: transfer-of-learning
 title: Transfer of Learning
 description: "Showing the same structure in several surface forms, prompting learners to compare them and name what they share, and then having them retrieve and apply it on changed items is expected to raise near transfer to new cases once the original learning is secure; no claim tests varied against single-context instruction directly, and far transfer stayed at floor where it was measured."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

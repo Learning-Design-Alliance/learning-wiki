@@ -3,6 +3,7 @@ type: element
 id: collaboration
 title: Collaboration
 description: Collaboration is the short-form canonical target for learners working together toward a shared product, understanding, or decision.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

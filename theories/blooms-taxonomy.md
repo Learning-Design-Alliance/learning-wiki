@@ -2,6 +2,7 @@
 type: theory
 title: Bloom's Taxonomy
 description: Bloom's Taxonomy classifies learning goals into cognitive, psychomotor, and affective domains, each organized as a hierarchy from simpler to more complex levels, to help teachers select objectives and match them to instructional strategies.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

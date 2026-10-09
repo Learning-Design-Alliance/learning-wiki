@@ -3,6 +3,7 @@ type: element
 id: dual-coding
 title: Dual Coding
 description: Dual coding is the element in which verbal and visual representations are used together to support understanding and memory.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

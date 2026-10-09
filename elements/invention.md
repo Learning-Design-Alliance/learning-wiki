@@ -3,6 +3,7 @@ type: element
 id: invention
 title: Invention
 description: An invention task asks learners to devise their own solution method or representation for a problem before receiving canonical instruction, preparing them to learn more deeply from subsequent teaching.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

@@ -2,6 +2,7 @@
 type: theory
 title: The Five Essential Supports framework organizes school development measures
 description: The UChicago Consortium groups roughly 25 survey composite measures of school development under five essential supports for student learning, which Consortium research identified as School Leadership, Parent and Commu...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

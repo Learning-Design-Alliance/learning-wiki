@@ -3,6 +3,7 @@ type: element
 id: group-roles
 title: Group Roles
 description: Structured, assigned responsibilities within a small group that distribute the work of collaboration and make each member's contribution visible.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

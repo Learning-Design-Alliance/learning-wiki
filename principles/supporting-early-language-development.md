@@ -3,6 +3,7 @@ type: principle
 id: supporting-early-language-development
 title: Support Early Language Development
 description: Early language development is fastest in environments with responsive, reciprocal adult-child interaction — conversational turn-taking, varied input, and immediate feedback — rather than passive exposure to language alone.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

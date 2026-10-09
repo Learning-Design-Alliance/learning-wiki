@@ -4,6 +4,7 @@ id: chunking
 aliases: [keep-chunking-study-outlines-short]
 title: Chunking
 description: "For a learner who cannot yet treat a task's elements as familiar units, presenting the material in meaningful units with boundaries at conceptual breaks, then recombining them, is expected to ease processing and may improve immediate performance; what counts as a unit depends on that learner's prior knowledge."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

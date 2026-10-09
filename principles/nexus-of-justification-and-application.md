@@ -3,6 +3,7 @@ type: principle
 id: nexus-of-justification-and-application
 title: Teach undergraduate content within a nexus of justification and application
 description: "The editors maintain that students should see course content within a nexus of justification and application: content must be learned in relation to the methodological and substantive principles that make it justifiab..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

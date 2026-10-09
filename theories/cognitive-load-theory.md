@@ -2,6 +2,7 @@
 type: theory
 title: Cognitive Load Theory
 description: Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

@@ -2,6 +2,7 @@
 type: theory
 title: Student Orientation Toward Achievement
 description: Covington's self-worth typology classifies students by how they combine motivation to approach success with motivation to avoid failure, yielding four profiles — success-oriented, overstriving, failure-avoiding, and failure-accepting — with different strategies and different degrees of self-handicapping.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

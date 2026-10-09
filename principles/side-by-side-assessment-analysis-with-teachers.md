@@ -3,6 +3,7 @@ type: principle
 id: side-by-side-assessment-analysis-with-teachers
 title: Conduct assessments side by side with teachers rather than as the sole administrator
 description: "The coach conducts and analyzes assessments together with teachers, looking for consistency and talking through discrepancies, which builds teachers' confidence in analysis and leads to changes in assessment questions..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

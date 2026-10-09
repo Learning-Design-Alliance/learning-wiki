@@ -3,6 +3,7 @@ type: element
 id: rubric-design
 title: Rubric Design
 description: Rubric design is the element in which criteria and performance levels are made explicit through a structured evaluative framework.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

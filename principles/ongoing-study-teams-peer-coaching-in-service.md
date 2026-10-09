@@ -4,6 +4,7 @@ id: ongoing-study-teams-peer-coaching-in-service
 aliases: [literacy-coaches-job-embedded-support]
 title: Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 description: "Drawing on Licklider's 1997 review of adult learning theory, the digest argues that self-directness, including self-learning from experience in natural settings, is an important component of adult learning."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

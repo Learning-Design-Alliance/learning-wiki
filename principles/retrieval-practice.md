@@ -4,6 +4,7 @@ id: retrieval-practice
 aliases: [balance-retrieval-success-and-retrieval-effort]
 title: Retrieval Practice
 description: "For learners who have studied material, recalling it from memory rather than restudying tends to raise delayed retention when initial retrieval mostly succeeds or is corrected by feedback; restudy can lead at a few minutes, transfer gains are smaller and conditional, and high element-interactivity material is contested."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

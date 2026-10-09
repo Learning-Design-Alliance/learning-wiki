@@ -3,6 +3,7 @@ type: element
 id: hypertext-navigation
 title: Hypertext Navigation
 description: Learners explore interconnected digital content at their own pace.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

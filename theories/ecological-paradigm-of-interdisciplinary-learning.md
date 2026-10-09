@@ -2,6 +2,7 @@
 type: theory
 title: Ecological Paradigm of Interdisciplinary Learning
 description: A framework that studies and designs for interdisciplinary learning as a group-level, socio-material process distributed across learners, artifacts, and institutions, rather than as an individual cognitive-integration outcome.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

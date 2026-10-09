@@ -3,6 +3,7 @@ type: principle
 id: cognitive-activation
 title: Cognitive Activation
 description: "For learners working toward a concept or principle, tasks that require them to explain, compare, predict or justify beyond what was presented, with enough guidance to produce something correct, are expected to improve immediate understanding and near transfer more than tasks completed by recall or copying, with weak evidence for classroom and delayed outcomes and no claim testing cognitive activation as a dimension of teaching quality."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

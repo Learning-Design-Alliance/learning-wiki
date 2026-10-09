@@ -3,6 +3,7 @@ type: principle
 id: co-create-environments-with-experienced-inequity-groups
 title: Co-create learning environments with and for students from identity groups that most frequently experience inequities
 description: "Among its guiding assumptions, the brief states that \"Environments are more conducive to learning and personal growth when co-created with and for students from identity groups that most frequently experience inequiti..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -4,6 +4,7 @@ id: universal-design-for-learning
 aliases: [diverse-exercise-types-learning-styles]
 title: Universal Design For Learning
 description: "For a class whose learners vary in access, language, prior knowledge and motivation, planning several routes into content, engagement and expression while the goal and criteria stay fixed is expected to let more learners reach the goal than a single-route design; no claim here tests UDL as a framework, only its parts."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

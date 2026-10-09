@@ -3,6 +3,7 @@ type: element
 id: solution-step-task-difficulty-levels-for-simultaneous-equations
 title: Solution-step difficulty levels for simultaneous-equation problems
 description: "A five-level scheme for grading simultaneous-equation problems by the number of variables and solution steps, following Sweller's production/solution step method, in which \"the difficulty of the content, which is ofte..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

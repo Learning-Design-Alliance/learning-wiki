@@ -2,6 +2,7 @@
 type: theory
 title: Expectancy-Value Theory
 description: Expectancy-Value Theory holds that the two most immediate predictors of a learner's motivation to engage in a task are their expectancy of succeeding at it and the value they place on it, with value further divided into intrinsic, attainment, utility, and cost components.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

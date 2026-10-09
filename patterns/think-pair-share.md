@@ -3,6 +3,7 @@ type: pattern
 id: think-pair-share
 title: Think-Pair-Share
 description: "A reusable think, pair, share policy for open questions, in which protected individual think time and a partner exchange of reasoning are expected to widen and improve public responses, conditional on the prompt, pair dynamics, individual accountability and an immediate horizon."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

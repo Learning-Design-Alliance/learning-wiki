@@ -3,6 +3,7 @@ type: principle
 id: flexible-congruence-context-appropriateness
 title: Teach learners to be both congruent and incongruent and to know when each is appropriate
 description: Because congruence of messages is context-dependent, culturally effective functioning requires the ability to communicate both congruently and incongruently and to judge which is appropriate in a given situation.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

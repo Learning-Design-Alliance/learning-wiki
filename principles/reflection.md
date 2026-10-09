@@ -4,6 +4,7 @@ id: reflection
 aliases: [reflective-practice, guided-prompts-and-faculty-involvement-encourage-integrative-reflection]
 title: Reflection
 description: "For a learner who has just performed a task or acted in a practice setting, structured prompts to examine that performance against a stated criterion and commit to a change are expected to improve later performance more than unguided reflection, qualified by the learner's ability to judge their own work, access to feedback, and whether the planned change is acted on."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

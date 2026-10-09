@@ -3,6 +3,7 @@ type: element
 id: just-in-time-information
 title: Just-in-Time Information
 description: Instruction is provided at the point of need rather than upfront.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

@@ -3,6 +3,7 @@ type: theory
 id: educational-psychology-as-art-and-science
 title: Educational Psychology as Both Art and Science
 description: Educational psychology bridges the scientific study of learning with the art of teaching practice — research findings inform practice, and practice raises new questions for systematic study, in a continuing loop.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

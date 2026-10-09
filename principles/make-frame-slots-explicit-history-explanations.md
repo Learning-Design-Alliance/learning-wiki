@@ -3,6 +3,7 @@ type: principle
 id: make-frame-slots-explicit-history-explanations
 title: Make frame slot content and relationships explicit in historical explanations, especially for younger readers
 description: The principle holds that explanations in history and social studies textbooks should make the content of the Goal, Problem, Plan, Action, and Outcome slots and the relationships among them explicit, because psychologi...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

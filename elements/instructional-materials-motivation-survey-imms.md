@@ -3,6 +3,7 @@ type: element
 id: instructional-materials-motivation-survey-imms
 title: Instructional Materials Motivation Survey (IMMS)
 description: The IMMS is one of several instruments the digest says were developed for assessing the motivational quality of instructional situations.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

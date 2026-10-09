@@ -3,6 +3,7 @@ type: element
 id: argumentation
 title: Argumentation
 description: Learners construct logical, evidence-based arguments to support their claims.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

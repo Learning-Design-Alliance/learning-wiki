@@ -3,6 +3,7 @@ type: element
 id: metaphors
 title: Metaphors
 description: Metaphors are explanatory comparisons that map a less familiar concept onto a more familiar image or experience.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

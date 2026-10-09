@@ -2,6 +2,7 @@
 type: theory
 title: "Zone of Proximal Development: the gap between independent and assisted problem solving"
 description: "The paper presents Vygotsky's zone of proximal development as the construct at the centre of his sociocultural account of development."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

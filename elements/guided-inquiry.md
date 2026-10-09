@@ -3,6 +3,7 @@ type: element
 id: guided-inquiry
 title: Guided Inquiry
 description: Guided inquiry is the element in which learners investigate questions or problems with structured prompts, facilitator support, or staged resources that keep the inquiry productive.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

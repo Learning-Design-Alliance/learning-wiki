@@ -17,8 +17,10 @@ reads it that could not rebuild it.
     python3 scripts/search_index.py "worked examples novices" [--kind claim]
 """
 import argparse
+import os
 import re
 import sqlite3
+import time
 import sys
 from pathlib import Path
 
@@ -76,9 +78,22 @@ def build(root: Path = WIKI_ROOT, path: Path = None) -> Path:
     return path
 
 
+RECHECK = float(os.environ.get("WIKI_SEARCH_RECHECK", "60"))
+_checked = {}   # index path -> time.monotonic() of its last freshness check
+
+
 def ensure(root: Path = WIKI_ROOT) -> sqlite3.Connection:
-    """An open connection to a current index, rebuilding it first if the wiki changed."""
+    """An open connection to a current index, rebuilding it first if the wiki changed.
+
+    The freshness check stats every content file (about 95% of a query's time at
+    18,800 pages, 2026-10-09), so a long-running process (the MCP server) makes it
+    at most once every RECHECK seconds (WIKI_SEARCH_RECHECK, default 60); a page
+    edited in between is found by the next check. A one-off command always checks."""
     path = DB_PATH if root == WIKI_ROOT else root / ".cache" / "wiki-search.db"
+    last = _checked.get(path)
+    if last is not None and time.monotonic() - last < RECHECK and path.exists():
+        return sqlite3.connect(path)
+    _checked[path] = time.monotonic()
     want = _fingerprint(root)
     have = None
     if path.exists():
@@ -107,19 +122,27 @@ def match_expr(text: str, max_terms: int = 24, mode: str = "OR") -> str | None:
     return f" {mode} ".join(f'"{w}"' for w in words[:max_terms])
 
 
-def query(db: sqlite3.Connection, text: str, folder: str = None, limit: int = 10, mode: str = "AND"):
+def query(db: sqlite3.Connection, text: str, folder: str = None, limit: int = 10, mode: str = "AND",
+          title_only: bool = False):
     """[(pid, folder, slug, title, description, status, score)], best first. `mode`
-    AND needs every word (a search box); OR ranks by how many match (retrieval)."""
+    AND needs every word (a search box); OR ranks by how many match (retrieval).
+    `title_only` matches the words in titles alone: BM25 penalises a long body, so a
+    long canonical page whose title IS the query can rank below 40 short pages that
+    mention it (principles/retrieval-practice, 2026-10-09)."""
     expr = match_expr(text, mode=mode)
     if not expr:
         return []
+    if title_only:
+        expr = f"title : ({expr})"
     sql = ("select pid, folder, slug, title, description, status, "
            "bm25(pages, 0, 0, 4.0, 10.0, 3.0, 0, 1.0) as s from pages where pages match ?")
     args = [expr]
     if folder:
         sql += " and folder = ?"
         args.append(folder)
-    sql += " order by s limit ?"
+    # In a title-only pass the shortest titles holding every word come first: the
+    # page named exactly by the query, not the page whose body repeats it most.
+    sql += " order by length(title), s limit ?" if title_only else " order by s limit ?"
     args.append(limit)
     return [(*r[:6], -r[6]) for r in db.execute(sql, args).fetchall()]
 

@@ -3,6 +3,7 @@ type: pattern
 id: self-regulated-learning
 title: Self-Regulated Learning
 description: "A reusable plan–monitor–act policy that makes regulation explicit with task-specific prompts, modelled self-assessment and a usable next action, then reads the response before handing regulation to the learner."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

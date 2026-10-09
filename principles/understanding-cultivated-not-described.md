@@ -4,6 +4,7 @@ id: understanding-cultivated-not-described
 aliases: [instructor-indirect-narration-studio]
 title: Understanding must be cultivated through exploration, not described or told
 description: "The paper's Table 1 asserts that \"Wisdom cannot be 'told'\" and that understanding must be cultivated rather than described, with understanding becoming deeper as learners \"get to know\" and explore it."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

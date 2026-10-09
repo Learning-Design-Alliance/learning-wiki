@@ -3,6 +3,7 @@ type: element
 id: sentence-starters
 title: Sentence Starters
 description: Sentence starters (or sentence frames) provide partial sentence openings that structure learner responses, reducing the language-generation burden so learners can focus on content and reasoning.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

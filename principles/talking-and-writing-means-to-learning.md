@@ -4,6 +4,7 @@ id: talking-and-writing-means-to-learning
 aliases: [reduce-teacher-talk-increase-student-talk]
 title: Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 description: "The article presents the Bullock Report's basic tenet, adopted by Cummins for minority students, that \"talking and writing are a means to learning\" (p.50)."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

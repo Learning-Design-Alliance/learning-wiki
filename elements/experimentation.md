@@ -3,6 +3,7 @@ type: element
 id: experimentation
 title: Experimentation
 description: Learners form predictions, manipulate variables, and test hypotheses against observed outcomes rather than receiving conclusions directly.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

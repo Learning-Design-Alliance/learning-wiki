@@ -3,6 +3,7 @@ type: principle
 id: align-professional-learning-with-preparation-and-induction
 title: Align ongoing professional learning content with what was taught during preparation and induction
 description: "The framework's learning-experiences interdependency example holds that preparation should transition seamlessly into comprehensive induction and mentoring, which should align with ongoing professional growth opportun..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

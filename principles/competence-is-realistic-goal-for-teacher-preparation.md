@@ -3,6 +3,7 @@ type: principle
 id: competence-is-realistic-goal-for-teacher-preparation
 title: Pursue competence, not expertise, as the realistic goal for the vast majority of teacher education graduates
 description: "The article argues that teacher education should aim to prepare novices and help advanced beginners become competent, since competence 'can be achieved by the vast majority of graduates of our teacher training colleges'."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

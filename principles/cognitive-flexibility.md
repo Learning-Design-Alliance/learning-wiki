@@ -4,6 +4,7 @@ id: cognitive-flexibility
 aliases: [represent-procedures-as-shared-resources-to-clarify-thinking]
 title: Cognitive Flexibility
 description: "Revisiting the same concepts across several cases, perspectives or representations that differ in how the concept applies, with explicit prompts to compare them, is expected to help learners with some but rigid knowledge of an ill-structured domain transfer it to a new case at a short horizon; it may cost factual recall, novices may need a simpler start, and delayed effects are untested here."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

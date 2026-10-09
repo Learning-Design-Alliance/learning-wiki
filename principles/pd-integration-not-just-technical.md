@@ -3,6 +3,7 @@ type: principle
 id: pd-integration-not-just-technical
 title: Professional development should guide teachers on integrating digital content and tools, not just offer technical know-how
 description: "The report argues that professional development remains a key issue for creating digital learning environments and that \"professional development that guides teachers on the effective integration of digital content an..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

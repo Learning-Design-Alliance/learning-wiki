@@ -2,6 +2,7 @@
 type: theory
 title: Research Design Taxonomy — Quantitative/Qualitative and Descriptive/Correlational/Experimental
 description: Two overlapping ways of classifying a research study — quantitative vs. qualitative (or mixed) by data type, and descriptive vs. correlational vs. experimental by what conclusion the design can actually support — determine what a study can and can't tell you, independent of how well it was executed.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

@@ -4,6 +4,7 @@ id: cognitive-load-management
 aliases: [design-principles-depend-on-prior-knowledge, determine-element-interactivity-before-designing-instruction, low-task-complexity-child-learners-recasts, measured-pace-one-concept-at-a-time-older-learners, reduce-extraneous-optimize-intrinsic-increase-germane]
 title: Cognitive Load Management
 description: "Across a sequence, matching how presentation, task order and support distribute processing demand to a learner's current task-specific capacity is expected to improve learning, while keeping effortful processing that the intended outcome and horizon need."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

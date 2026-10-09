@@ -2,6 +2,7 @@
 type: theory
 title: Strength and Retrieval Effort Account (New Theory of Disuse and Bifurcation)
 description: "This account holds that effortful retrieval strengthens knowledge and that \"The degree to which knowledge is strengthened is assumed to be proportional to the amount of effort involved in retrieval\"."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: element
 id: spiral-curriculum
 title: Spiral Curriculum
 description: Spiral curriculum is the element in which important ideas are revisited repeatedly over time, with each return expanding complexity or depth.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

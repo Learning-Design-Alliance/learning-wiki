@@ -3,6 +3,7 @@ type: element
 id: epitome-elaboration-theory
 title: Epitome (Elaboration Theory)
 description: A simplified version of the full concept is introduced first before elaborating on details.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

@@ -3,6 +3,7 @@ type: element
 id: mastery-criterion-remediation
 title: Mastery criterion with remediation and retesting
 description: A mastery criterion is a single criterion — such as a specified number of correct responses or a quality of performance — that defines when learning is complete.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

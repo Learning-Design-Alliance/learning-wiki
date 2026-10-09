@@ -2,6 +2,7 @@
 type: theory
 title: Critical Maker-Entrepreneurialism
 description: A synthesis of critical youth studies, identity-in-practice, humanization, and funds-of-knowledge frameworks describing how youth makers can redefine entrepreneurialism away from profit and competition toward community care, collective benefit, and justice — while still engaging with mainstream entrepreneurial platforms and institutions.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

@@ -3,6 +3,7 @@ type: element
 id: after-school-teacher-research-labs
 title: After-School Teacher Research Labs
 description: "Study groups in which teacher-researchers and university-based researchers \"discuss research findings, and to plan, develop, and support innovations in instruction\"."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

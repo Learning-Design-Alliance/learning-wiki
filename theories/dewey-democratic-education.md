@@ -2,6 +2,7 @@
 type: theory
 title: "Dewey's democratic education"
 description: "The article grounds its egalitarian program-design argument in Dewey's democratic education, quoting Democracy and Education on \"that type of education which gives individuals a personal interest in social relationshi..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

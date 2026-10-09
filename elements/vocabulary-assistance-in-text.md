@@ -3,6 +3,7 @@ type: element
 id: vocabulary-assistance-in-text
 title: Vocabulary assistance embedded directly in the text
 description: Vocabulary help, such as pronunciation and glossing of difficult terms, embedded directly in the text as one of the enumerated aid types.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

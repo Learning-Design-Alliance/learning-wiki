@@ -4,6 +4,7 @@ id: cooperative-learning
 aliases: [jigsaw-structures-adult-learners]
 title: Cooperative Learning
 description: "A reusable policy for small-group work that elicits each member's starting response, sets interdependence and individual accountability together, and uses individual checks rather than the group product to choose the next activity."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

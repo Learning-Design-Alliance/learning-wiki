@@ -3,6 +3,7 @@ type: element
 id: goal-setting
 title: Goal Setting
 description: Goal setting is the element in which learners or instructors establish clear targets for performance, progress, or improvement.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -2,6 +2,7 @@
 type: theory
 title: Executive Function Development
 description: Executive functions — inhibitory control, cognitive flexibility, and working memory — are self-regulatory processes that emerge gradually from early childhood through adolescence, shaped by both brain maturation and the quality of caregiving and instructional scaffolding a learner receives.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

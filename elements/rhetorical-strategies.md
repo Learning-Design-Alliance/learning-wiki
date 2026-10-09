@@ -3,6 +3,7 @@ type: element
 id: rhetorical-strategies
 title: Rhetorical Strategies
 description: Rhetorical strategies are deliberate moves learners use to persuade, frame, emphasize, appeal to an audience, or strengthen the force of an argument.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

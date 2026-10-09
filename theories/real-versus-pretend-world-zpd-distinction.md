@@ -2,6 +2,7 @@
 type: theory
 title: Real world versus pretend world activities as two distinct ZPD contexts
 description: "The paper's central organising distinction is between two activity types dominating children's learning."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

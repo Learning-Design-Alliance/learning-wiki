@@ -3,6 +3,7 @@ type: pattern
 id: competency-based-learning
 title: Competency-Based Learning
 description: "A reusable course-level policy that maps a course to stated competencies, places each learner by a criterion-referenced response, lets pace vary and advances on demonstrated competence, with the validity of the evidence, the support offered, time and completion stated as conditions."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

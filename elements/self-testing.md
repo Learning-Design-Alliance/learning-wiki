@@ -3,6 +3,7 @@ type: element
 id: self-testing
 title: Self-Testing
 description: Self-testing is the element in which learners quiz themselves or otherwise attempt to retrieve knowledge without immediate external prompting.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: element
 id: independent-study
 title: Independent Study
 description: Learners work through material, tasks, or inquiry on their own, with responsibility for pacing, effort, and self-monitoring shifted from instructor to learner.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

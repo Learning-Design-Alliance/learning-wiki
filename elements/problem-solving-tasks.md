@@ -3,6 +3,7 @@ type: element
 id: problem-solving-tasks
 title: Problem-Solving Tasks
 description: Learners complete structured activities that require critical thinking and application.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

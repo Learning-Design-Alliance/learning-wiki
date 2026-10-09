@@ -3,6 +3,7 @@ type: principle
 id: lateral-transmission-alongside-vertical
 title: Balance vertical transmission with lateral transmission so all members of society continually learn from new discoveries
 description: "Drawing on Mead's 1958-1959 essays, the report describes a shift from purely vertical teaching, in which experienced teachers transmit the tried and true to inexperienced pupils, toward \"the lateral transmission, to e..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

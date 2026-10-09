@@ -3,6 +3,7 @@ type: principle
 id: annotating
 title: Annotating
 description: "For readers of a demanding text, marking it may improve later performance on what was marked, while gains in comprehension are expected only from annotations that make the reader select, explain or question, and remain largely untested."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

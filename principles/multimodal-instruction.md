@@ -4,6 +4,7 @@ id: multimodal-instruction
 aliases: [integrate-video-narration-text-for-l2-macs-comprehension]
 title: Multimodal Instruction
 description: "For a learner who cannot yet explain a structure that one mode shows poorly, coordinated modes that each carry part of the meaning, with the learner translating between them, may improve immediate comprehension over a single mode, qualified by representational competence, pacing, redundancy and access; matching modes to learning styles does not."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

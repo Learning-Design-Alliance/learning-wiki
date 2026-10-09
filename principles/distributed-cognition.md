@@ -3,6 +3,7 @@ type: principle
 id: distributed-cognition
 title: Distributed Cognition
 description: Distributed cognition is the principle that thinking and problem solving are often spread across people, tools, representations, and environments rather than residing entirely inside one learner.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

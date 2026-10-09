@@ -3,6 +3,7 @@ type: principle
 id: video-replay-analysis
 title: Video Replay Analysis
 description: Video replay analysis uses recorded performance, instruction, or interaction as an object for review.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

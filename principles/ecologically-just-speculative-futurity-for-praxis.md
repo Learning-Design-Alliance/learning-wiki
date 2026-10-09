@@ -3,6 +3,7 @@ type: principle
 id: ecologically-just-speculative-futurity-for-praxis
 title: Cultivate ecologically just speculative futurity as requisite to political praxis
 description: "To counter apocalypticism that emerges when we fail to imagine life beyond oppressive structures, the article argues that \"an ecologically-attuned CCP must explicitly facilitate the imagining of more emancipatory futu..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

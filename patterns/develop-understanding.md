@@ -3,6 +3,7 @@ type: pattern
 id: develop-understanding
 title: Develop Understanding
 description: "For a learner meeting a concept or principle, a lesson that elicits their existing ideas, explains the idea while refuting any wrong one, guides its use with self-explanation prompts, checks on a changed item and connects it by comparing cases is expected to improve explanation and prediction on new cases, though no claim tests the sequence as a whole; its components are tested separately."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

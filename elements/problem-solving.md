@@ -3,6 +3,7 @@ type: element
 id: problem-solving
 title: Problem Solving
 description: Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -2,6 +2,7 @@
 type: theory
 title: "Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation"
 description: Levels of Use of the Innovation (LoU) is a generic implementation variable describing the performance of an individual using any innovation, part of the Concerns-Based Adoption Model.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

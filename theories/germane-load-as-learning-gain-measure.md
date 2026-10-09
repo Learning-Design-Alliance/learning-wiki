@@ -2,6 +2,7 @@
 type: theory
 title: Germane load operationalized as learning effects measured by test-score increases
 description: "The article operationalizes germane load as learning effects: the portion of working memory resources devoted to schema construction during a learning phase, whose behavioral signature is improvement on post-test prob..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

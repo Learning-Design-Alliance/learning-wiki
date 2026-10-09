@@ -3,6 +3,7 @@ type: element
 id: cognitive-strategies
 title: Cognitive Strategies
 description: Cognitive strategies are deliberate mental procedures — rehearsal, elaboration, organization, and monitoring — that learners use to select, construct, and retain information.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

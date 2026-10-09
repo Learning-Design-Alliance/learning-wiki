@@ -3,6 +3,7 @@ type: pattern
 id: balanced-pronunciation-curriculum-three-areas
 title: Balanced pronunciation curriculum covering suprasegmentals, segmentals, and fluency, with a short list of central features selected by diagnosis
 description: The article proposes that a pronunciation curriculum balance three areas — suprasegmentals, segmentals, and fluency — because research has uncovered speech dimensions in all three that affect intelligibility and compr...
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

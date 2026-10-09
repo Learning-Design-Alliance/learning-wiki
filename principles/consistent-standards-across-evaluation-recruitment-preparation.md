@@ -3,6 +3,7 @@ type: principle
 id: consistent-standards-across-evaluation-recruitment-preparation
 title: Apply the same educator standards across evaluation, recruitment and hiring, and preparation program selection
 description: This principle holds that a single set of teacher and leader standards should govern effectiveness evaluation, recruitment and hiring, and preparation program entry and graduation decisions.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

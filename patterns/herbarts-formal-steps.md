@@ -3,6 +3,7 @@ type: pattern
 id: herbarts-formal-steps
 title: Herbart's Formal Steps
 description: Johann Herbart's five-step lesson sequence — review, prepare, present, relate, apply — is one of the earliest systematic lesson-design patterns, built on the premise that new material must be deliberately connected to what a learner already knows.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

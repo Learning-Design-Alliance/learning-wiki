@@ -3,6 +3,7 @@ type: element
 id: learning-mechanic
 title: Learning Mechanic
 description: The repeated learner-facing activity at the heart of a game for learning — a design pattern, grounded in learning theory, that a concrete game mechanic instantiates without displacing the learning goal.
+canonical: true
 status: review
 generated:
   by: claude/unspecified

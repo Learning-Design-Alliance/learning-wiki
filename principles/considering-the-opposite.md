@@ -3,6 +3,7 @@ type: principle
 id: considering-the-opposite
 title: Considering The Opposite
 description: Learners deliberately generate and evaluate hypotheses that contradict their initial judgment, reducing overconfidence and anchoring biases in reasoning and decision-making.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

@@ -3,6 +3,7 @@ type: principle
 id: oral-aural-before-literacy-foreign-language
 title: Foreign language instruction must establish oral-aural competency before teaching literacy
 description: "The article argues that because the home environment cannot supply the natural oral-aural stage for a foreign language, \"schools must take the place of the home environment and make sure that learners are competent at..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

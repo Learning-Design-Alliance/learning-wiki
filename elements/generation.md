@@ -3,6 +3,7 @@ type: element
 id: generation
 title: Generation
 description: Generation requires learners to produce an answer, word, rule, or representation themselves rather than passively reading or receiving it, strengthening memory and comprehension.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

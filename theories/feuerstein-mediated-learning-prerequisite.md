@@ -2,6 +2,7 @@
 type: theory
 title: "Feuerstein's mediated learning: human mediation as prerequisite for direct learning"
 description: "The paper presents Feuerstein's theory of mediated learning as filling a gap in Vygotsky's account of the human mediator."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

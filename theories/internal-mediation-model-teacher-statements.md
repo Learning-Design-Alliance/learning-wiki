@@ -2,6 +2,7 @@
 type: theory
 title: Internal mediation model of teacher statements, self-talk and self-concepts
 description: "The article articulates an internal mediation model in which the influence of teachers' statements on children's academic self-concepts follows a pathway: the student receives specific performance feedback from the te..."
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

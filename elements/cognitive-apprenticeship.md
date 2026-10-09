@@ -3,6 +3,7 @@ type: element
 id: cognitive-apprenticeship
 title: Cognitive Apprenticeship
 description: Cognitive apprenticeship is the element in which learners observe expert thinking, practice with coaching, and gradually assume more responsibility.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

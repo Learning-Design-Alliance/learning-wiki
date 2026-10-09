@@ -3,6 +3,7 @@ type: principle
 id: mastery-learning
 title: Mastery Learning
 description: "When a learner's response on a unit check falls short of a stated criterion, corrective support and a further check before advancing may raise later unit and course performance, qualified by the validity of the check, the quality of the correction, the time it costs and the horizon assessed."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

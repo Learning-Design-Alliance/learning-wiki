@@ -4,6 +4,7 @@ id: 4cid-four-component-instructional-design
 aliases: [4cid, tell-show-do-distributed-across-whole-tasks, whole-task-progression-increasing-complexity]
 title: 4C/ID (Four-Component Instructional Design)
 description: "A reusable whole-task policy for complex skills: learning tasks in simple-to-complex task classes with fading support, supportive and just-in-time procedural information, and selective part-task practice, whose response-dependent branches are untested proposals."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

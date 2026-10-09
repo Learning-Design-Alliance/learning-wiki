@@ -3,6 +3,7 @@ type: element
 id: addressing-student-misconceptions
 title: Addressing Student Misconceptions
 description: Students of all ages carry misleading or outright wrong prior beliefs into a lesson, some well-documented and predictable, others idiosyncratic — anticipating them in advance and treating them with respect even while correcting them is more effective than assuming a blank slate.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

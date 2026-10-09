@@ -4,6 +4,7 @@ id: standardized-test-fairness-and-bias
 aliases: [similar-item-positions-across-booklets]
 title: Standardized Test Fairness and Bias
 description: "A standardized test score is expected to support a selection or placement decision equally well across groups only where its items do not depend on group background, it predicts the later outcome equally accurately for each group, and the testing conditions do not depress one group's scores; no claim tests this relationship, and the claims bearing on it are second-hand testimony, narrative reviews, psychometric studies of item-bias methods and a values-affirmation intervention that did not replicate."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

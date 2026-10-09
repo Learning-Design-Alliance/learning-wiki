@@ -3,6 +3,7 @@ type: element
 id: check-in
 title: Check In
 description: A brief, structured interaction that surfaces learners' current understanding, emotional state, or progress so instruction can be adjusted in response.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

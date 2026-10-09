@@ -4,6 +4,7 @@ id: teacher-as-mediator-not-content-disseminator
 aliases: [dual-teacher-role-acquisition-and-learning, teacher-as-facilitator-constructivist-classroom, teacher-as-facilitator-for-discovery, writing-teacher-as-facilitator-not-lecturer]
 title: Educators should act as mediators and facilitators of learning rather than content disseminators
 description: "Drawing on MLE theory, the article recommends that teachers reconceive their role: the mediator guides rather than dominates the learning process, engaging students in expressing and internalizing their understanding."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -3,6 +3,7 @@ type: principle
 id: criterion-and-norm-referenced-testing
 title: Criterion- and Norm-Referenced Testing
 description: "A decision about a learner is expected to be more accurate when the score matches the question asked: a criterion-referenced report against skills defined in advance for what a learner can do and should be taught next, a norm-referenced score read against a fitting norm group (and never alone) for relative standing and selection, and a diagnostic profile for why a learner struggles; no claim here tests the relationship."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

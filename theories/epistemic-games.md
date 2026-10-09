@@ -2,6 +2,7 @@
 type: theory
 title: Epistemic Games
 description: A framework describing knowledge construction as playing generative, rule-like "games" — recognizable sets of moves, constraints, and strategies organized around building a particular kind of knowledge — which can be enacted individually or collaboratively.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

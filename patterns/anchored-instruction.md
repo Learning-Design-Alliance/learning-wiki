@@ -3,6 +3,7 @@ type: pattern
 id: anchored-instruction
 title: Anchored Instruction
 description: "A reusable policy for building a lesson or unit around a shared narrative or media scenario: check that solving the anchor's problem requires the target concept, guide novices through it rather than leave them to search, connect the anchor explicitly to the concept, and judge the unit on individual use of the concept in a new situation."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

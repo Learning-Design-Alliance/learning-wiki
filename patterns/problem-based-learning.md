@@ -4,6 +4,7 @@ id: problem-based-learning
 aliases: [problem-based-learning-pbl]
 title: Problem-Based Learning
 description: "A reusable policy for problem-centred units: establish what learners already know of the target content, guide novices explicitly, use a problem-first phase only where learners can generate partial solutions and instruction follows, and judge the unit on individual outcomes."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

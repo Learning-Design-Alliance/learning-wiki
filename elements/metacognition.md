@@ -3,6 +3,7 @@ type: element
 id: metacognition
 title: Metacognition
 description: Metacognition is the element in which learners monitor, explain, and regulate their own thinking.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: memory-consolidation
 title: Memory Consolidation
 description: "For a learner who can perform something at the end of a session, planning later encounters that make them reactivate and use the material, and judging security only on a delayed unaided check, is expected to leave more available at the horizon than treating one fluent exposure as finished; no claim tests this as a whole, only its spacing and retrieval routes and a post-learning exercise-timing effect."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

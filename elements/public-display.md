@@ -3,6 +3,7 @@ type: element
 id: public-display
 title: Public Display
 description: Public display is the element in which learner work is made visible to a wider audience in the classroom or beyond.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

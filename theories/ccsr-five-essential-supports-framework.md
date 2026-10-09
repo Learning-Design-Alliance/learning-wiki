@@ -2,6 +2,7 @@
 type: theory
 title: Five Essential Supports framework for organizing school improvement conditions
 description: "The report organizes all school survey profiles around five domains: school leadership, parent and community partnerships, student-centered learning climate, professional capacity, and quality of the instructional pro..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

@@ -2,6 +2,7 @@
 type: theory
 title: Five Essential Supports framework for improving student learning
 description: "The agenda describes the Consortium's Five Essential Supports framework, in which five dimensions of school organization are \"known to be linked to improving student outcomes\"."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

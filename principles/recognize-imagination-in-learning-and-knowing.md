@@ -3,6 +3,7 @@ type: principle
 id: recognize-imagination-in-learning-and-knowing
 title: Recognize and acknowledge the profound importance of the human imagination in learning and knowing when designing history instruction
 description: "The paper's concluding principle holds that history teaching should treat imagination as a legitimate, central component of knowledge construction rather than as mere fiction-making."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

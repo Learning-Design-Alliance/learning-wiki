@@ -4,6 +4,7 @@ id: expanding-social-networks
 aliases: [age-friendly-classroom-remedy-social-isolation]
 title: Expanding Social Networks
 description: Networking and supporting adult learners in expanding their social networks provide access to additional resources and Social Supports, which can impact their trajectory and Motivation.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: embed-basic-science-unit-clinical-curricula
 title: Embed basic science and mechanisms of disease as a distinct unit in clinical curricula
 description: The principle holds that clinical training curricula should embed basic science and mechanisms of disease as their own unit, integrated with practicing clinical skills and society guidelines, so that learners can reco...
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

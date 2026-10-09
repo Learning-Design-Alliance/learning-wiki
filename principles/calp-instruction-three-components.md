@@ -3,6 +3,7 @@ type: principle
 id: calp-instruction-three-components
 title: "Instruction promoting bilingual students' CALP should integrate cognitive challenge, academic content, and critical language awareness"
 description: "Cummins specifies three components an instructional program in bilingual, ESL or mainstream classes should address to promote CALP: cognitively challenging instruction requiring higher-order thinking, integration of a..."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

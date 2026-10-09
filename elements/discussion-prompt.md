@@ -3,6 +3,7 @@ type: element
 id: discussion-prompt
 title: Discussion Prompt
 description: A structured question or statement that initiates meaningful conversation among learners.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

@@ -3,6 +3,7 @@ type: element
 id: application-of-knowledge
 title: Application of Knowledge
 description: Learners apply concepts to real-world problems or case studies.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

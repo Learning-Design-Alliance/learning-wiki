@@ -3,6 +3,7 @@ type: element
 id: inquiry-and-research
 title: Inquiry and Research
 description: Learners investigate a topic through questioning, data gathering, and evidence evaluation to build understanding they construct rather than receive.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

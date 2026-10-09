@@ -4,6 +4,7 @@ id: technology-augments-not-supplants-processes
 aliases: [physical-world-augments-simulation-learning, vr-radiation-training-complementary-to-hands-on]
 title: Technology should augment, not supplant, learning processes in student-centered environments
 description: Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

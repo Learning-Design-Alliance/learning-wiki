@@ -3,6 +3,7 @@ type: principle
 id: no-universal-threshold-app-evaluation
 title: "Evaluate apps against criteria relevant to their purpose and the learner's needs, not against a universal pass threshold"
 description: The article argues against evaluation schemes that require an app to meet a minimum score or all criteria, because apps serve different purposes for different learners.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

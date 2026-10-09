@@ -3,6 +3,7 @@ type: element
 id: knowledge-building-discourse
 title: Knowledge-Building Discourse
 description: Learners engage in structured discussions to deepen understanding.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

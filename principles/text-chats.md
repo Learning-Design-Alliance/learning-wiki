@@ -3,6 +3,7 @@ type: principle
 id: text-chats
 title: Text Chats
 description: Text chats use live or near-live written exchange as a learning space for discussion, coordination, questioning, and low-stakes composition.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

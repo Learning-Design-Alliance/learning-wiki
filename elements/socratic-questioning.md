@@ -3,6 +3,7 @@ type: element
 id: socratic-questioning
 title: Socratic Questioning
 description: Socratic questioning is the element in which prompts are used to probe assumptions, clarify reasoning, test evidence, and extend implications.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

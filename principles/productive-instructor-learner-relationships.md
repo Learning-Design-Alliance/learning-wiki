@@ -3,6 +3,7 @@ type: principle
 id: productive-instructor-learner-relationships
 title: Build productive instructor-learner relationships so adults feel connected and take an active role in learning
 description: "The article argues that relationship-building is among the most important building blocks of education: a facilitator must relate to different personalities and backgrounds."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

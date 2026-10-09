@@ -3,6 +3,7 @@ type: principle
 id: provide-peer-authored-syntactically-appropriate-texts
 title: Provide young readers with syntactically appropriate peer-authored texts rather than basal readers
 description: "The review argues that texts accounting for readers' cognitive and linguistic experiences, and texts written by peers, are more accessible to young readers than basal readers."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

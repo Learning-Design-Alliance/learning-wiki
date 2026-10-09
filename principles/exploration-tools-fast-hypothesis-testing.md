@@ -3,6 +3,7 @@ type: principle
 id: exploration-tools-fast-hypothesis-testing
 title: Use computer tools that let students explore hypotheses and solutions faster so they can test many ideas without frustration
 description: "Exploration involves \"pushing students to try out different hypotheses, methods and strategies to see their effects,\" putting students in control of problem solving."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

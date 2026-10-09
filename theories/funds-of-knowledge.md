@@ -2,6 +2,7 @@
 type: theory
 title: Funds of Knowledge
 description: Funds of knowledge holds that households and communities — especially those of minoritized and working-class families — hold historically accumulated, practical bodies of knowledge and skill that are legitimate, underused resources for instruction.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

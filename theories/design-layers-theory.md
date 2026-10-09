@@ -2,6 +2,7 @@
 type: theory
 title: Design Layers Theory
 description: Design Layers Theory holds that an instructional design is not a single unified artifact but a stack of interacting layers — model/content, strategy, message, control, representation, media-logic, and management — each governed by its own goals, constructs, and tools, which explains why designers gravitate toward different entry points and why designs of the same content differ structurally.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

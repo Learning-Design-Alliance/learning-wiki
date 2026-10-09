@@ -4,6 +4,7 @@ id: deliberate-practice
 aliases: [structured-deliberate-practice-for-licensing-review]
 title: Deliberate Practice
 description: "For a learner who can already perform a task but has stopped improving on part of it, repeated attempts on that one diagnosed component, set just beyond reliable performance, judged against an explicit standard with feedback and a deliberate change on each next attempt, are expected to improve whole-task performance more than repeating the whole task; no claim tests this in schooling, and the nearest causal evidence is simulation training with deliberate practice in the health professions."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

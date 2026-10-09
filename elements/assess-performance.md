@@ -3,6 +3,7 @@ type: element
 id: assess-performance
 title: Assess performance
 description: Measures learner progress and determines mastery of content.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

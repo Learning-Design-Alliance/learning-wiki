@@ -2,6 +2,7 @@
 type: theory
 title: ARCS Model of Motivational Design
 description: Keller's ARCS model holds that learner motivation depends on four conditions — Attention, Relevance, Confidence, and Satisfaction — and provides a systematic process for diagnosing which condition is unmet and selecting a matching design tactic.
+canonical: true
 status: draft
 generated:
   by: claude/unspecified

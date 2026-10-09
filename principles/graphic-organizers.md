@@ -4,6 +4,7 @@ id: graphic-organizers
 aliases: [graphic-organizers-scaffold-comprehension-principle, semantic-mapping-principle]
 title: Graphic Organizers
 description: "For learners who do not yet hold a material's structure, a diagram whose layout matches that structure, provided first and later built and explained by the learner, is expected to improve comprehension and retention over text alone; concept-map meta-analyses test this for node-link maps, and no claim tests other organizer forms, partial organizers or fading."
+canonical: true
 status: review
 generated:
   by: claude/unspecified

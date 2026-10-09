@@ -3,6 +3,7 @@ type: element
 id: rebuttals
 title: Rebuttals
 description: Learners counter opposing viewpoints with evidence-based arguments.
+canonical: true
 status: review
 generated:
   by: "claude/unspecified"

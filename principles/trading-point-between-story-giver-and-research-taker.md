@@ -3,6 +3,7 @@ type: principle
 id: trading-point-between-story-giver-and-research-taker
 title: Establish a viable trading point between life story giver and research taker through active collaboration
 description: The article argues that listening to people and capturing their voices is not sufficient; a far more active collaboration is required.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

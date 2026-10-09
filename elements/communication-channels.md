@@ -3,6 +3,7 @@ type: element
 id: communication-channels
 title: Communication Channels
 description: Communication channels are the element in which learners use designated tools or spaces to coordinate, discuss, ask questions, and share updates during a learning activity.
+canonical: true
 status: review
 generated:
   by: codex/unspecified

@@ -3,6 +3,7 @@ type: principle
 id: productive-usage-guaranteed-by-design
 title: Design tools so productive usage is guaranteed by affordances and constraints rather than instructions
 description: "Drawing on Norman's tool-design model, the article argues that effective designs make affordances salient and use productive constraints so that correct usage requires no textual direction."
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

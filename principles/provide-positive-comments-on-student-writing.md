@@ -3,6 +3,7 @@ type: principle
 id: provide-positive-comments-on-student-writing
 title: Provide positive comments alongside constructive criticism when responding to student writing
 description: Because instructional feedback is inherently evaluative and can pose identity threats, teachers should acknowledge positive aspects of student work and highlight the strengths of their writing.
+canonical: true
 status: draft
 generated:
   by: "process:wiki-ingest"

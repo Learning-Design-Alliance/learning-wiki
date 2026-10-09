@@ -3,6 +3,7 @@ type: principle
 id: cognitive-disequilibrium
 title: Cognitive Disequilibrium
 description: "For a learner who holds a confident but inaccurate explanation, meeting evidence it cannot account for and then being helped to resolve the mismatch is expected to improve conceptual understanding more than the correct account alone, with weak evidence that the revision lasts or that conflict without support helps."
+canonical: true
 status: review
 generated:
   by: claude/unspecified
