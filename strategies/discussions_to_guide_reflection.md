@@ -25,7 +25,7 @@ Reflection discussions work because verbalizing reasoning forces the reorganizat
 #### Requirements
 - Focused prompts that direct attention to reasoning, strategy, and change over time — not just content recall
 - Adequate wait time and psychological safety, so learners risk exposing incomplete thinking
-- A facilitator who probes ("What makes you say that?") rather than evaluates, using [Active Listening](active_listening.md) techniques
+- A facilitator who probes ("What makes you say that?") rather than evaluates, using [Active Listening](active-listening.md) techniques
 - A structure that ensures every learner articulates, not only volunteers (think-pair-share, rotating roles, written pre-thinking before talk)
 
 #### Constraints
@@ -61,7 +61,7 @@ Reflection discussions work because verbalizing reasoning forces the reorganizat
 
 ## Related Strategies
 
-- [Active Listening](active_listening.md) — the facilitation skill that keeps reflection discussions probing rather than evaluating
+- [Active Listening](active-listening.md) — the facilitation skill that keeps reflection discussions probing rather than evaluating
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the written, individual counterpart; pairing written and oral reflection raises both
 - [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
 

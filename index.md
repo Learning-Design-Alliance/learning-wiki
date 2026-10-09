@@ -24,7 +24,7 @@ Reusable instructional designs at the lesson or unit level.
 ### [Designs](designs/index.md) (263)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-### [Strategies](strategies/index.md) (4505)
+### [Strategies](strategies/index.md) (4347)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Design Processes](processes/index.md) (18)

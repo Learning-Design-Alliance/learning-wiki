@@ -53,7 +53,7 @@ A mastery criterion is a single criterion — such as a specified number of corr
 - [Competency Based Progression](../strategies/competency-based-progression.md)
 - [Grade Students Based on Demonstrated Learning](../strategies/grade_students_based_on_demonstrated_learning.md)
 - [Mastery Based Progression](../strategies/mastery-based-progression.md)
-- [Standards-Based Grading](../strategies/standards-based_grading.md)
+- [Standards-Based Grading](../strategies/standards-based-grading.md)
 - [Exit students from tutoring once they consistently read at the average level for their grade](../strategies/exit-tutoring-at-grade-level-consistency.md)
 
 ## Key Sources

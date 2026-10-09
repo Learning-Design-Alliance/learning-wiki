@@ -26,7 +26,7 @@ Formative evaluation is among the highest-yield interventions in education; revi
 - Clear success criteria that learners and instructor share ([Constructive Alignment](../patterns/constructive-alignment.md))
 - Low-stakes elicitation tasks that surface understanding, not just compliance ([Practice](../elements/practice.md), [Check-In](../elements/check-in.md))
 - A mechanism for the instructor to act on the evidence — reteach, regroup, or revise materials
-- Feedback that is specific and actionable rather than evaluative ([Action-Oriented Feedback](action-oriented_feedback.md))
+- Feedback that is specific and actionable rather than evaluative ([Action-Oriented Feedback](action-oriented-feedback.md))
 
 #### Constraints
 - Feedback that is only a grade or score produces little or no learning gain; grades can even overshadow written comments [Feedback improves learning when it answers where am I going, how am I doing, and where to next.](../claims/feedback-answers-three-questions-improves-learning.md) [-M]
@@ -54,13 +54,13 @@ Formative evaluation is among the highest-yield interventions in education; revi
 1. Define success criteria and share them with learners before instruction begins ([Constructive Alignment](../patterns/constructive-alignment.md)).
 2. Elicit evidence frequently with low-stakes tasks — [Check-In](../elements/check-in.md) prompts, minute papers, or brief [Practice](../elements/practice.md) items.
 3. Interpret responses against the criteria, distinguishing errors of understanding from slips.
-4. Deliver [Action-Oriented Feedback](action-oriented_feedback.md) that specifies the next step, not just the deficit.
+4. Deliver [Action-Oriented Feedback](action-oriented-feedback.md) that specifies the next step, not just the deficit.
 5. Adjust instruction — reteach, regroup, or modify upcoming tasks — and close the loop visibly so learners see that evidence changes what happens next.
 6. Periodically transfer the evaluative role to learners through [Self-Assessment](../elements/self-assessment.md) against exemplars.
 
 ## Related Strategies
 
-- [Action-Oriented Feedback](action-oriented_feedback.md) — the delivery mechanism that makes formative evidence actionable
+- [Action-Oriented Feedback](action-oriented-feedback.md) — the delivery mechanism that makes formative evidence actionable
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight elicitation routine for surfacing understanding and confusion
 - [Check-Ins](../principles/check-ins.md) — the ongoing relational practice that keeps the feedback channel open
 - [Use open-ended reflection questions as self-assessment in place of end-of-unit tests](open-ended-reflection-maker-self-assessment.md)

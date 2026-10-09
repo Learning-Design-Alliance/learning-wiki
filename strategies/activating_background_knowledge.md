@@ -60,7 +60,7 @@ Activation improves comprehension by reducing the working-memory burden of proce
 ## Related Strategies
 
 - [Activating and Using Background Knowledge](activating_and_using_background_knowledge.md) — variant that pairs activation with immediate application of what is recalled
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — closely related framing emphasizing retrieval before instruction
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — closely related framing emphasizing retrieval before instruction
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — diagnostic orientation: assessing what learners bring before designing instruction
 - [Check context familiarity by asking the class to share what they know about a problem's context before working on it](share-context-knowledge-before-problem-solving.md)
 

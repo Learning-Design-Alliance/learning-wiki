@@ -48,7 +48,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Belonging](../elements/belonging.md) — the instructional element itself — what a design does to establish standing
 - [Belonging Interventions](../strategies/belonging-interventions.md) — brief framing exercises that reinterpret early difficulty as normal
 - [Addressing Stereotype Threat](../strategies/addressing_stereotype_threat.md) — removes cues that make group membership salient during assessment
-- [Empathic Discipline](../strategies/empathic_discipline.md) — reframes a corrective interaction as investment rather than exclusion
+- [Empathic Discipline](../strategies/empathic-discipline.md) — reframes a corrective interaction as investment rather than exclusion
 - [Positive Greetings at the Door](../strategies/positive-greetings-at-the-door.md) — a low-cost routine that establishes recognition before instruction begins
 
 ## Key Sources

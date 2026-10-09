@@ -40,7 +40,7 @@ Ten Times Two is a quiet observation routine: students look at an image for at l
 
 ## Related Strategies
 
-- [See, Think, Wonder](see,_think,_wonder.md)
+- [See, Think, Wonder](see-think-wonder.md)
 - [Notice And Wonder](notice-and-wonder.md)
 - [I Notice I Wonder](i-notice-i-wonder.md)
 

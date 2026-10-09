@@ -59,8 +59,8 @@ Dictation is a form of retrieval practice applied to the sound–spelling system
 5. Re-test misspelled items in a later session, spaced across days ([Spaced retrieval practice produces durable retention.](../claims/spaced-retrieval-improves-retention.md) [+S]).
 
 ## Related Strategies
-- [Spelling practice through retrieval](spelling_retrieval_practice.md) — dictation is the listening-based form of spelling retrieval
-- [Phonics instruction](phonics_instruction.md) — dictation provides the production-side counterpart to decoding instruction
+- [Spelling practice through retrieval](spelling-retrieval-practice.md) — dictation is the listening-based form of spelling retrieval
+- [Phonics instruction](phonics-instruction.md) — dictation provides the production-side counterpart to decoding instruction
 - [Cloze exercises](cloze_exercises.md) — partial dictation is a cloze task with an audio source
 
 ## Examples

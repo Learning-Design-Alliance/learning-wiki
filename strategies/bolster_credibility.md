@@ -57,7 +57,7 @@ The strategy exploits the contrast between genuine engagement and strawman repre
 5. Discuss in class how the criterion changed their credibility judgments, surfacing cases where engagement with disagreement changed their own view ([Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
-- [Lateral Reading](lateral_reading.md) — verifying source credibility by leaving the page and checking what others say; complements the internal-evidence focus of this strategy
+- [Lateral Reading](lateral-reading.md) — verifying source credibility by leaving the page and checking what others say; complements the internal-evidence focus of this strategy
 - [Steelmanning](steelmanning.md) — the constructive counterpart: building the strongest version of an opposing argument
 - [Fact-Checking](fact-checking.md) — addresses factual accuracy; Bolster Credibility addresses argumentative fairness
 

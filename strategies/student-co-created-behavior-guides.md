@@ -42,9 +42,8 @@ This strategy has students brainstorm and compile lists of unacceptable and acce
 
 ## Related Strategies
 
-- [Co-Creating Classroom Norms](co-creating_classroom_norms.md)
+- [Co-Creating Classroom Norms](co-creating-classroom-norms.md)
 - [Create a Classroom Code of Conduct](create_a_classroom_code_of_conduct.md)
-- [Co Creating Classroom Norms](co-creating-classroom-norms.md)
 - [Classroom Norms Co Creation](classroom-norms-co-creation.md)
 
 ## Examples

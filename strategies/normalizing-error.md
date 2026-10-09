@@ -59,7 +59,7 @@ Error normalization works by reducing the threat response that otherwise causes 
 6. Align assessment with the norm: allow revision or resubmission so the grade reflects learning from error, not error avoidance.
 
 ## Related Strategies
-- [Action-oriented feedback](action-oriented_feedback.md) — the feedback style that makes examined errors actionable
+- [Action-oriented feedback](action-oriented-feedback.md) — the feedback style that makes examined errors actionable
 - [Activating prior knowledge](activating-prior-knowledge.md) — surfaces preconceptions, which often include the errors to be normalized
 - [Check-in](../elements/check-in.md) — low-stakes routines that surface confusion early
 

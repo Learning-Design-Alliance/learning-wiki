@@ -58,7 +58,7 @@ Prior knowledge is among the strongest predictors of new learning: what students
 5. **Apply and check** — have students [Practice](../elements/practice.md) the new content in a context that draws on their own experience, and [Provide Feedback](../elements/provide-feedback.md) that corrects misconceptions surfaced during activation.
 
 ## Related Strategies
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — the general-case sibling strategy; this page emphasizes the cultural and personal-knowledge dimension
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — the general-case sibling strategy; this page emphasizes the cultural and personal-knowledge dimension
 - [Activate Background Knowledge](activate_background_knowledge.md) — narrower elicitation techniques
 - [Accessible Syntax](accessible_syntax.md) — complementary language-access strategy for multilingual learners
 

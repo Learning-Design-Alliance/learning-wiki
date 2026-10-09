@@ -62,7 +62,7 @@ Feedback only improves achievement when learners actually use it, and resubmissi
 
 ## Related Strategies
 
-- [Action-Oriented Feedback](action-oriented_feedback.md) — the feedback style that makes revision actionable rather than evaluative
+- [Action-Oriented Feedback](action-oriented-feedback.md) — the feedback style that makes revision actionable rather than evaluative
 - [Action Planning](action_planning.md) — structures how learners convert feedback into revision steps
 - [Iterative post-teaching analysis with rubric-aligned written feedback and revise-and-resubmit cycles](iterative-post-teaching-analysis-feedback-cycle.md)
 - [Iteratively update a design research plan with findings and resulting design adjustments](update-design-research-plan-with-findings-and-adjustments.md)

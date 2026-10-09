@@ -61,7 +61,7 @@ Unaddressed abusive language signals tacit acceptance, degrades psychological sa
 
 ## Related Strategies
 - [Establishing Classroom Norms](establishing_classroom_norms.md) — the prerequisite; intervention works only when norms are explicit and shared
-- [Restorative Practices](restorative_practices.md) — the follow-up framework that turns incidents into repair rather than punishment
+- [Restorative Practices](restorative-practices.md) — the follow-up framework that turns incidents into repair rather than punishment
 - [Bystander Intervention Training](bystander_intervention_training.md) — extends the strategy from teacher-only to community-owned enforcement
 
 ## Examples

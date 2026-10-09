@@ -58,8 +58,8 @@ Visual displays of expectations work because they offload memory: students do no
 5. Fade verbal prompting over time, letting the graphic carry the reminder load; refresh or co-construct new charts when routines change.
 
 ## Related Strategies
-- [Establishing Classroom Routines](establishing_classroom_routines.md) — the behavioral routines that graphic organizers make visible
-- [Positive Behavior Interventions and Supports](positive_behavior_interventions_and_supports.md) — the school-wide framework that standardizes expectation matrices
+- [Establishing Classroom Routines](establishing-classroom-routines.md) — the behavioral routines that graphic organizers make visible
+- [Positive Behavior Interventions and Supports](positive-behavior-interventions-and-supports.md) — the school-wide framework that standardizes expectation matrices
 - [Co-Constructing Norms](co-constructing_norms.md) — involving students in authoring the visuals increases ownership
 
 ## Examples

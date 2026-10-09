@@ -56,7 +56,6 @@ Read Naturally® is a supplemental reading program using texts, audio CDs, and c
 
 - [Reading Fluency Practice](../strategies/reading-fluency-practice.md)
 - [Repeated Reading for Fluency](../strategies/repeated_reading_for_fluency.md)
-- [Repeated Reading](../strategies/repeated_reading.md)
 - [Repeated Reading](../strategies/repeated-reading.md)
 
 ## Key Sources

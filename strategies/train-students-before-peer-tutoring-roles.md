@@ -42,7 +42,7 @@ Before peer tutoring or response groups are used routinely, students must be tau
 ## Related Strategies
 
 - [Peer Tutoring With Structured Materials](peer-tutoring-with-structured-materials.md)
-- [Peer Tutoring](peer_tutoring.md)
+- [Peer Tutoring](peer-tutoring.md)
 - [Peer Mediated Instruction](peer-mediated-instruction.md)
 - [Cross Age Tutoring](cross-age-tutoring.md)
 - [Cross-Age Peer Tutoring](cross-age_peer_tutoring.md)

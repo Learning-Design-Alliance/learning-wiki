@@ -54,7 +54,7 @@ Modeling is most effective when the model's reasoning is verbalized, not just pe
 
 ### Instructions
 1. Identify authentic moments — conflict, frustration, celebration — where an empathic response is genuinely needed; avoid staged scenarios.
-2. Perform the empathic behavior visibly: [Active Listening](../strategies/active_listening.md), restating the other's perspective, naming the emotion.
+2. Perform the empathic behavior visibly: [Active Listening](active-listening.md), restating the other's perspective, naming the emotion.
 3. Narrate the reasoning aloud ([Think-Aloud](../elements/think-aloud.md)): what cue you noticed, why you chose that response, what effect you hoped for.
 4. Contrast with a non-example when useful — briefly show what a dismissive response would look like and why it fails.
 5. Transfer responsibility: have learners rehearse through [Role-Play](../strategies/acting-role-play.md) or structured [Class Discussion](../elements/class-discussion.md), with [Coaching](../elements/coaching.md) and feedback.
@@ -62,7 +62,7 @@ Modeling is most effective when the model's reasoning is verbalized, not just pe
 
 ## Related Strategies
 
-- [Active Listening](../strategies/active_listening.md) — the core behavioral component being modeled
+- [Active Listening](active-listening.md) — the core behavioral component being modeled
 - [Acting-Role-Play](../strategies/acting-role-play.md) — the rehearsal mechanism that converts observation into enactment
 - [Act It Out](../strategies/act_it_out.md) — embodied enactment of social scenarios for younger learners
 - [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)

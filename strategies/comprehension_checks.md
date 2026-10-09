@@ -59,7 +59,7 @@ Comprehension checks convert reading from passive input into retrieval practice,
 
 ## Related Strategies
 - [Reciprocal Teaching](reciprocal_teaching.md) — learners take over the questioning role
-- [Question-Answer Relationships](question-answer_relationships.md) — teaches learners to classify and answer question types
+- [Question-Answer Relationships](question-answer-relationships.md) — teaches learners to classify and answer question types
 - [Stop-and-Jot](stop-and-jot.md) — a minimal written variant of the check
 
 ## Examples

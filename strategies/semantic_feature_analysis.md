@@ -59,9 +59,9 @@ SFA works because it requires learners to compare and contrast related concepts 
 6. Follow with a writing or discussion task that requires using the distinctions the grid surfaced.
 
 ## Related Strategies
-- [Frayer Model](frayer_model.md) — single-concept deep analysis; SFA extends the same feature-analysis logic across a whole word set
+- [Frayer Model](frayer-model.md) — single-concept deep analysis; SFA extends the same feature-analysis logic across a whole word set
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — SFA is a structured vehicle for this broader move
-- [Word Walls](word_walls.md) — SFA grids can anchor a wall display of related terms
+- [Word Walls](word-walls.md) — SFA grids can anchor a wall display of related terms
 
 ## Examples
 - **Science:** a grid of vertebrate classes (mammal, bird, reptile, amphibian, fish) against features (warm-blooded, live birth, scales, aquatic) — contested cells drive the lesson

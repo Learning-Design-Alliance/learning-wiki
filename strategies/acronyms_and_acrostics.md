@@ -59,7 +59,7 @@ These devices reduce the working-memory and retrieval burden of arbitrary ordere
 
 ## Related Strategies
 - [Chunking](../principles/chunking.md) — the underlying mechanism; acronyms are chunking applied to verbal lists
-- [Spaced Retrieval Practice](../strategies/spaced_retrieval_practice.md) — the practice schedule that makes the cue durable
+- [Spaced Retrieval Practice](spaced-retrieval-practice.md) — the practice schedule that makes the cue durable
 - [Dual Coding](../theories/dual-coding-theory.md) — pairing the verbal device with an image strengthens it further
 
 ## Examples

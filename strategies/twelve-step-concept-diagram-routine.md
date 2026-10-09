@@ -40,7 +40,7 @@ The article specifies a 12-step instructional sequence for each vocabulary word:
 ## Related Strategies
 
 - [Explicit Vocabulary Instruction](explicit-vocabulary-instruction.md)
-- [The Frayer Model](the_frayer_model.md)
+- [The Frayer Model](frayer-model.md)
 
 ## Examples
 -

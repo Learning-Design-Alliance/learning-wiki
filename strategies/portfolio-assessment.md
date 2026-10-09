@@ -61,8 +61,8 @@ Portfolios shift assessment from a summative snapshot toward [Assessment for Lea
 
 ## Related Strategies
 
-- [Rubric-Based Self-Assessment](rubric-based_self-assessment.md) — supplies the criteria infrastructure portfolios depend on
-- [Learning Journals](learning_journals.md) — a reflective complement that documents process between artifacts
+- [Rubric-Based Self-Assessment](rubric-based-self-assessment.md) — supplies the criteria infrastructure portfolios depend on
+- [Learning Journals](learning-journals.md) — a reflective complement that documents process between artifacts
 - [Conferencing](conferencing.md) — one-on-one portfolio review deepens the feedback loop
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 - [Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios](ai-competency-assessment-strategies.md)

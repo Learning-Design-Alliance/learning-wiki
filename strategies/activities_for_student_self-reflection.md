@@ -59,9 +59,9 @@ Self-reflection works because it converts experience into usable knowledge about
 5. Ask students to name one concrete change for the next task, and revisit it at the next cycle ([Practice](../elements/practice.md)).
 
 ## Related Strategies
-- [Exam Wrappers](exam_wrappers.md) — a tightly scoped post-assessment form of self-reflection
-- [Learning Journals](learning_journals.md) — ongoing written reflection across a term
-- [Exit Tickets](exit_tickets.md) — brief end-of-class reflection on understanding
+- [Exam Wrappers](exam-wrappers.md) — a tightly scoped post-assessment form of self-reflection
+- [Learning Journals](learning-journals.md) — ongoing written reflection across a term
+- [Exit Tickets](exit-tickets.md) — brief end-of-class reflection on understanding
 
 ## Examples
 - **Exam wrappers in calculus**: After a midterm, students complete a short form — how they studied, which error types dominated, one change for the next exam — and instructors open the next class by discussing common patterns.

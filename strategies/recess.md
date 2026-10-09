@@ -58,7 +58,7 @@ Recess leverages the well-documented link between physical activity and cognitiv
 5. Never withhold recess as punishment; use targeted behavioral support instead [-S].
 
 ## Related Strategies
-- [Brain breaks / movement breaks](../strategies/movement_breaks.md) — shorter in-class activity bursts that serve a similar attentional-reset function when full recess is impossible
+- [Brain breaks / movement breaks](movement-breaks.md) — shorter in-class activity bursts that serve a similar attentional-reset function when full recess is impossible
 - [Physical education](../strategies/physical_education.md) — instruction in skills and fitness; complements but does not replace the unstructured play of recess
 
 ## Related Elements

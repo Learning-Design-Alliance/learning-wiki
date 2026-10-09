@@ -57,7 +57,6 @@ Ready, Set, Leap!® is a preschool curriculum focusing on "early reading skills,
 
 ## Examples
 
-- [Multisensory Phonics Instruction](../strategies/multisensory_phonics_instruction.md)
 - [Multisensory Phonics Instruction](../strategies/multisensory-phonics-instruction.md)
 - [Simultaneous Multisensory Instruction](../strategies/simultaneous_multisensory_instruction.md)
 

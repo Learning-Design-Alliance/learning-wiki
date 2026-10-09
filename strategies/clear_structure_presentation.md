@@ -38,7 +38,7 @@ Signaling — headings, previews, pointer words, and emphasis — reliably impro
 - **Advance organizers** — abstract, comparative frameworks presented before the material ([Advance Organizers](../elements/advance-organizers.md))
 - **Signaling in text** — headings, previews, summaries, pointer words, typographic emphasis
 - **Signaling in multimedia** — on-screen headings, voice emphasis, and highlighted key steps in narrated animation [Media features such as headings and emphasis affect what learners recall and retain.](../claims/media-combinations-affect-recall-and-retention.md) [+M]
-- **Outlining tools** — learner-facing document outlines and navigation panes that let learners re-orient at any point ([Document Outline Tool](../strategies/document_outline_tool.md))
+- **Outlining tools** — learner-facing document outlines and navigation panes that let learners re-orient at any point ([Document Outline Tool](document-outline-tool.md))
 
 ### Target Learners
 - Novices, who lack the schemas to infer structure from unorganized content and benefit most from externally supplied organization [Chunking content into organized units reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]
@@ -54,14 +54,14 @@ Signaling — headings, previews, pointer words, and emphasis — reliably impro
 1. Analyze the content and commit to an explicit hierarchy — what are the top-level ideas, and what is subordinate to what?
 2. Present an advance organizer or outline before the detail ([Advance Organizers](../elements/advance-organizers.md)), framing what learners are about to encounter and how it connects to prior knowledge.
 3. Chunk the content into sections that each map to one node of the hierarchy ([Chunking](../principles/chunking.md)).
-4. Signal the structure locally: consistent headings, preview sentences, transitions, and sparing emphasis on the few structurally critical points ([Headings and Highlight Strategy](../strategies/headings_and_highlight_strategy.md)).
+4. Signal the structure locally: consistent headings, preview sentences, transitions, and sparing emphasis on the few structurally critical points ([Headings and Highlight Strategy](headings-and-highlight-strategy-variant.md)).
 5. Close sections with brief summaries that restate position in the hierarchy, and keep the full outline visible (sidebar, agenda slide) throughout.
 
 ## Related Strategies
 - [Chunking](../principles/chunking.md) — the unit-sizing decision that makes a structure usable in working memory
 - [Advance Organizers](../elements/advance-organizers.md) — the "before" half of structure presentation
-- [Headings and Highlight Strategy](../strategies/headings_and_highlight_strategy.md) — the "during" half: local signaling within the material
-- [Document Outline Tool](../strategies/document_outline_tool.md) — persistent structural navigation for long documents
+- [Headings and Highlight Strategy](headings-and-highlight-strategy-variant.md) — the "during" half: local signaling within the material
+- [Document Outline Tool](document-outline-tool.md) — persistent structural navigation for long documents
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — unit → lesson → exercise hierarchy with persistent progress navigation, so learners always know where they are in the structure.

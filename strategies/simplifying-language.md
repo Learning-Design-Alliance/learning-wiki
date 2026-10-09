@@ -31,7 +31,7 @@ Simplifying language reduces extraneous cognitive load imposed by dense syntax a
 #### Constraints
 - Over-simplified text can lower engagement and reduce inference-making for knowledgeable readers; coherence effects reverse with expertise [~M]
 - Simplifying away all technical vocabulary prevents learners from acquiring the discipline's language, harming later reading and communication [-M]
-- Simplified language does not compensate for missing background knowledge; vocabulary support without [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) yields limited gains [-M]
+- Simplified language does not compensate for missing background knowledge; vocabulary support without [Activating Prior Knowledge](activating-prior-knowledge.md) yields limited gains [-M]
 - Machine or formulaic simplification can distort meaning or strip necessary qualifiers, especially in technical or legal content [-W]
 
 #### Implementation Variability
@@ -60,7 +60,7 @@ Simplifying language reduces extraneous cognitive load imposed by dense syntax a
 
 ## Related Strategies
 - [Accessible Syntax](accessible_syntax.md) — the sentence-level companion: restructuring grammar rather than choosing simpler words
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — simplification works best when it lowers language load while prior knowledge supplies context
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — simplification works best when it lowers language load while prior knowledge supplies context
 - [Chunking](../principles/chunking.md) — structural simplification at the level of passages and sections
 
 ## Examples

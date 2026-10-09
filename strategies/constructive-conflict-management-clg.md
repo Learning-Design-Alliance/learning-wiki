@@ -40,7 +40,7 @@ The guide advises facilitators to treat conflict in collaborative learning group
 
 - [Explicit Discussions of Perspectives](explicit_discussions_of_perspectives.md)
 - [Leveraging Strengths to Improve Relationship Skills](leveraging_strengths_to_improve_relationship_skills.md)
-- [Co-Creating Classroom Norms](co-creating_classroom_norms.md)
+- [Co-Creating Classroom Norms](co-creating-classroom-norms.md)
 
 ## Examples
 -

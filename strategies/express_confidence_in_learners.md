@@ -36,7 +36,7 @@ Expressed confidence works primarily through self-efficacy and expectation effec
 #### Implementation Variability
 - Whole-class framing ("this class can master this material") vs. individual encouragement for struggling learners
 - Written form (feedback comments, report-card language) vs. verbal form (check-ins, conferences)
-- Embedded in [Action-Oriented Feedback](action-oriented_feedback.md) — confidence statements attached to specific next steps rather than delivered standalone
+- Embedded in [Action-Oriented Feedback](action-oriented-feedback.md) — confidence statements attached to specific next steps rather than delivered standalone
 
 ### Target Learners
 - Struggling learners and those with low self-efficacy, who benefit most from credible external evidence of capability [Belonging interventions improve outcomes, particularly for students at risk of feeling they do not belong.](../claims/belonging-interventions-improve-outcomes.md) [+M]
@@ -56,7 +56,7 @@ Expressed confidence works primarily through self-efficacy and expectation effec
 5. Avoid ability-labeled praise; frame confidence around effort, strategy, and improvability.
 
 ## Related Strategies
-- [Action-Oriented Feedback](action-oriented_feedback.md) — confidence statements gain credibility when attached to actionable next steps
+- [Action-Oriented Feedback](action-oriented-feedback.md) — confidence statements gain credibility when attached to actionable next steps
 - [Achievable Micro-Goals](achievable_micro-goals.md) — small wins supply the evidence that makes expressed confidence believable
 - [Active Listening](active-listening.md) — builds the relationship trust that determines whether confidence statements are accepted
 

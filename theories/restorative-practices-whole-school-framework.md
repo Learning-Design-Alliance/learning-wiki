@@ -55,7 +55,7 @@ The program is grounded in restorative practices, operationalized through 11 ess
 - [Restorative Justice Conferencing](../strategies/restorative-justice-conferencing.md)
 - [Restorative Circles](../strategies/restorative-circles.md)
 - [Restorative Questions](../strategies/restorative-questions.md)
-- [Co-Creating Classroom Norms](../strategies/co-creating_classroom_norms.md)
+- [Co-Creating Classroom Norms](../strategies/co-creating-classroom-norms.md)
 - [Circle Time Emotions](../strategies/circle_time_emotions.md)
 - [Restorative Practices Circles](../strategies/restorative-practices-circles.md)
 

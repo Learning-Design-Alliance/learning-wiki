@@ -59,7 +59,7 @@ Scenario-based learning works because it situates knowledge in the context of us
 6. Debrief: have learners articulate the principles before the system states them ([Self-Explanation](../elements/self-explanation.md)).
 
 ## Related Strategies
-- [Case-Based Learning](case-based_learning.md) — scenario analysis without branching; scenarios are the interactive extension of cases
+- [Case-Based Learning](case-based-learning.md) — scenario analysis without branching; scenarios are the interactive extension of cases
 - [Role-Play](acting-role-play.md) — the live, human-mediated counterpart to simulated scenarios
 - [Worked Examples](use_worked_examples.md) — a modeled expert scenario can precede learner-driven scenarios as a fading sequence
 

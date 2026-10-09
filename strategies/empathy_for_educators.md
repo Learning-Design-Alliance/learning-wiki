@@ -56,12 +56,12 @@ Empathic teacher mindsets shape the relational climate in which all other instru
 1. **Establish baseline attributions.** Reflect (individually or in peer [Coaching](../elements/coaching.md)) on a recent discipline incident: what did you assume about the student's motivation?
 2. **Gather student voice.** Use surveys, [Check-In](../elements/check-in.md) routines, or [5-Minute Writing Conferences](5-minute_writing_conferences.md) to hear students' actual experiences rather than imagining them.
 3. **Practice perspective-taking with evidence.** Analyze [Case Studies](../elements/case-studies.md) or student work to ground perspective-taking in real data, not projection.
-4. **Reframe discipline encounters.** Approach misbehavior as information about unmet needs; respond first with [Active Listening](active_listening.md) before consequences.
+4. **Reframe discipline encounters.** Approach misbehavior as information about unmet needs; respond first with [Active Listening](active-listening.md) before consequences.
 5. **Act on what you learn.** Adjust instruction — pacing, [Scaffolding](../elements/scaffolding.md), content relevance — so empathy produces visible changes students can perceive.
 6. **Reflect and sustain.** Debrief in professional learning communities; monitor for empathic burnout and set boundaries.
 
 ## Related Strategies
-- [Active Listening](active_listening.md) — the conversational skill through which empathy is enacted day to day
+- [Active Listening](active-listening.md) — the conversational skill through which empathy is enacted day to day
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a low-cost routine for gathering individual student voice
 - [Action Research](action-research.md) — a systematic frame for testing whether empathic adjustments actually change outcomes
 

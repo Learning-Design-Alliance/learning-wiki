@@ -63,7 +63,7 @@ The station works because it externalizes a regulation routine that young learne
 
 - [Class Meetings](class-meetings.md) — a forum for collectively establishing and revisiting station norms and for repairing harm after conflicts
 - [Positive Time-Out](positive-time-out.md) — the broader Positive Discipline concept the station operationalizes
-- [Check-In Check-Out](check-in-check-out.md) — a more structured Tier 2 behavior support for students whose needs exceed what the station alone provides
+- [Check-In Check-Out](check-incheck-out.md) — a more structured Tier 2 behavior support for students whose needs exceed what the station alone provides
 - [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)
 
 ## Related Elements

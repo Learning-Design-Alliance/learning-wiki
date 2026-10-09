@@ -39,7 +39,6 @@ The playbook recommends three implementable family actions: (1) build a communit
 ## Related Strategies
 
 - [Family Engagement](family-engagement.md)
-- [Family Engagement](family_engagement.md)
 - [Monthly Action Team meetings with shared leadership and activity-quality evaluation](nnps-atp-monthly-meetings-evaluation.md)
 - [Offer Services and Events to Bring Parents into the School](offer_services_and_events_to_bring_parents_into_the_school.md)
 - [Parents and LSC members partner with principals by learning the leadership team, reviewing the CIWP and school data, and fostering a welcoming school culture](parent-lsc-principal-partnership-strategy.md)

@@ -60,7 +60,7 @@ The strategy rests on the finding that behavior is strongly regulated by perceiv
 
 ## Related Strategies
 - [Personalized Normative Feedback](personalized_normative_feedback.md) — the individualized variant with the strongest evidence
-- [Belonging Interventions](belonging_interventions.md) — same social-perception mechanism applied to academic identity
+- [Belonging Interventions](belonging-interventions.md) — same social-perception mechanism applied to academic identity
 - [Public Commitment](public_commitment.md) — complementary: visible peer behavior creates the norms the campaign publicizes
 
 ## Examples

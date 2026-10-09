@@ -19,7 +19,7 @@ Action planning is the process by which learners translate self-reflective insig
 
 ## Design Implications
 
-Action planning closes the loop between reflection and behavior change; without a specific plan, reflective insight rarely alters subsequent performance [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. Plans are most effective when they are specific, proximal, and framed as if-then contingencies rather than vague aspirations [Gollwitzer, 1999](https://doi.org/10.1037/0003-066X.54.7.493) [+S]. Follow-up structures — [check-ins](../principles/check-ins.md), [coaching](../elements/coaching.md), or [action-oriented feedback](action-oriented_feedback.md) — are needed to keep plans active, since unmonitored plans decay quickly [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+S].
+Action planning closes the loop between reflection and behavior change; without a specific plan, reflective insight rarely alters subsequent performance [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]. Plans are most effective when they are specific, proximal, and framed as if-then contingencies rather than vague aspirations [Gollwitzer, 1999](https://doi.org/10.1037/0003-066X.54.7.493) [+S]. Follow-up structures — [check-ins](../principles/check-ins.md), [coaching](../elements/coaching.md), or [action-oriented feedback](action-oriented-feedback.md) — are needed to keep plans active, since unmonitored plans decay quickly [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+S].
 
 ### Context
 #### Requirements
@@ -58,7 +58,7 @@ Action planning closes the loop between reflection and behavior change; without 
 5. Fade the scaffolding over time so learners internalize the plan–act–reflect cycle [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
-- [Action-oriented feedback](action-oriented_feedback.md) — feedback that names a next action feeds directly into the plan
+- [Action-oriented feedback](action-oriented-feedback.md) — feedback that names a next action feeds directly into the plan
 - [Achievable micro-goals](achievable_micro-goals.md) — a way of sizing plan steps to guarantee early success
 - [Activities for student self-reflection](activities_for_student_self-reflection.md) — the reflective precursor that generates plan content
 

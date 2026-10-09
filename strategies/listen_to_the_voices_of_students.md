@@ -24,7 +24,7 @@ Elevating student voice builds on self-determination research: experiences of au
 ### Context
 #### Requirements
 - A classroom environment that is psychologically safe and inclusive; students must trust that their contributions will be treated with respect before they will speak authentically
-- A deliberate shift from teacher-centered to student-centered facilitation — the teacher's role moves from evaluator to listener and co-constructor ([Active Listening](../strategies/active_listening.md))
+- A deliberate shift from teacher-centered to student-centered facilitation — the teacher's role moves from evaluator to listener and co-constructor ([Active Listening](active-listening.md))
 - Structured formats that distribute talk, so voice is not captured by a confident few ([Class Discussion](../elements/class-discussion.md), [Peer Interaction](../elements/peer-interaction.md))
 - Authentic audiences and purposes for student stories, so sharing has consequence beyond the grade ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md))
 
@@ -53,7 +53,7 @@ Elevating student voice builds on self-determination research: experiences of au
 ### Instructions
 1. Establish safety and norms for respectful sharing before asking for authentic voice ([Check-Ins](../principles/check-ins.md))
 2. Open structured sharing opportunities where students tell their own stories and pose their own questions ([Peer Interaction](../elements/peer-interaction.md), [Whole-Class Sharing](../elements/whole-class-sharing.md))
-3. Model receptive listening — paraphrase, ask follow-up questions, and visibly act on what students say ([Active Listening](../strategies/active_listening.md))
+3. Model receptive listening — paraphrase, ask follow-up questions, and visibly act on what students say ([Active Listening](active-listening.md))
 4. Hand over authorship: students design projects, select topics, and lead discussions ([Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md))
 5. Close the loop by reflecting with students on how their input shaped the class, making agency visible
 

@@ -75,7 +75,7 @@ Social awareness develops through the same mechanisms as other complex skills: o
 
 ## Related Strategies
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy operationalizes through explicit diagnosis and aligned instruction
-- [Active Listening](../strategies/active_listening.md) — the educator practice that both models social awareness and gathers diagnostic information
+- [Active Listening](active-listening.md) — the educator practice that both models social awareness and gathers diagnostic information
 - [Address Biases in the Use of Language and Symbols](../strategies/address_biases_in_the_use_of_language_and_symbols.md) — guards against the constraint that taught "norms" encode educator bias
 - [Check-Ins](../principles/check-ins.md) — the routine mechanism for identifying students' social-emotional states over time
 

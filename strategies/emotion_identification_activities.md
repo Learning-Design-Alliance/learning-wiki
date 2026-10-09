@@ -60,7 +60,7 @@ Accurate emotion labeling is a foundational component of social-emotional learni
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](whats_my_emotion_game_check-in.md) — a structured guessing-game variant of this strategy
 - [Act It Out](act_it_out.md) — embodiment of emotions through movement and drama
-- [Active Listening](active_listening.md) — the facilitation stance needed when learners share feelings
+- [Active Listening](active-listening.md) — the facilitation stance needed when learners share feelings
 
 ## Examples
 - **RULER (Yale Center for Emotional Intelligence)** — the "Mood Meter" has learners locate their emotional state on axes of energy and pleasantness, then label it precisely; classroom-based RULER implementation improved social-emotional competence and climate (https://ei.yale.edu).

@@ -68,7 +68,7 @@ Activation works because new knowledge is encoded in terms of what is already kn
 
 ## Examples
 
-**[Activating Prior Knowledge](../strategies/activating_prior_knowledge.md)** — Structured pre-instruction prompts (KWL charts, prediction tasks, brainstorming) that require learners to retrieve relevant knowledge before new content is presented.
+**[Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)** — Structured pre-instruction prompts (KWL charts, prediction tasks, brainstorming) that require learners to retrieve relevant knowledge before new content is presented.
 
 **[Activate Background Knowledge](../strategies/activate_background_knowledge.md)** — UDL-aligned practice of explicitly connecting lesson content to learners' lived experience and prior lessons at the start of instruction.
 

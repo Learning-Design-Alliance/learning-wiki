@@ -50,7 +50,7 @@ Empathy is teachable but not automatic: explicit instruction combined with persp
 - Social-emotional learning: recognizing and responding to others' emotions
 - Perspective-taking as a cognitive skill: modeling another person's goals, constraints, and values
 - Ethical reasoning and prosocial behavior
-- Communication: audience analysis and [Active Listening](../strategies/active_listening.md)
+- Communication: audience analysis and [Active Listening](active-listening.md)
 
 ### Instructions
 1. Define empathy explicitly as a class, contrasting it with sympathy and agreement; post the definition for ongoing reference.
@@ -62,7 +62,7 @@ Empathy is teachable but not automatic: explicit instruction combined with persp
 
 ## Related Strategies
 - [Acting-Role-Play](../strategies/acting-role-play.md) — the primary practice vehicle for rehearsing empathic responses
-- [Active Listening](../strategies/active_listening.md) — the conversational skill empathy instruction should feed into
+- [Active Listening](active-listening.md) — the conversational skill empathy instruction should feed into
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a low-stakes routine for building emotion vocabulary that underpins empathic accuracy
 
 ## Examples

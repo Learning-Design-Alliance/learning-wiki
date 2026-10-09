@@ -39,8 +39,8 @@ The guide's fifth recommendation, graded Strong, asks teachers of English learne
 
 ## Related Strategies
 
-- [Partner Reading](partner_reading.md)
-- [Paired Reading](paired_reading.md)
+- [Partner Reading](partner-reading.md)
+- [Paired Reading](paired-reading.md)
 
 ## Examples
 -

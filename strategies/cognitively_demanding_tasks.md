@@ -61,7 +61,7 @@ Selecting or designing a high-demand task is only the first step; the demand mus
 
 ## Related Strategies
 - [Productive Struggle](productive_struggle.md) — the disposition this strategy aims to cultivate; demand is only productive when struggle is supported, not abandoned
-- [Number Talks](number_talks.md) — a routine built on comparing multiple mental strategies for a single problem
+- [Number Talks](number-talks.md) — a routine built on comparing multiple mental strategies for a single problem
 - [Low-Floor High-Ceiling Tasks](low-floor_high-ceiling_tasks.md) — a task-design adaptation that personalizes demand within one problem
 
 ## Related Elements

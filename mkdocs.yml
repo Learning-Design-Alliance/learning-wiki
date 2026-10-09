@@ -7,6 +7,12 @@ edit_uri: ""
 copyright: Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
 
 docs_dir: docs
+
+# Links from the curated tier to the long tail are directory URLs the two_tier hook
+# writes (claims/<slug>/), which mkdocs cannot resolve and would report one by one.
+validation:
+  links:
+    unrecognized_links: ignore
 site_dir: site
 
 theme:
@@ -35,13 +41,7 @@ theme:
     - navigation.tracking
     - navigation.path
     - navigation.prune
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.instant.prefetch
     - toc.follow
-    - search.suggest
-    - search.highlight
-    - search.share
     - content.code.copy
     - content.tooltips
 
@@ -53,11 +53,11 @@ extra_css:
 
 hooks:
   - docs_hooks/page_metadata.py
-  - docs_hooks/search_trim.py
+  - docs_hooks/two_tier.py
 
-plugins:
-  - search:
-      lang: en
+# Search is Pagefind's, built over both tiers by scripts/build_site.sh; the
+# built-in lunr index had reached 20 MB at 18,800 pages.
+plugins: []
 
 markdown_extensions:
   - admonition
@@ -75,6 +75,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Search: search.md
   - Principles: principles/index.md
   - Elements: elements/index.md
   - Patterns: patterns/index.md

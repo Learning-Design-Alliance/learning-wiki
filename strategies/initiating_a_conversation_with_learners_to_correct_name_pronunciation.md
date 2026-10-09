@@ -52,14 +52,14 @@ Names are core to identity; repeated mispronunciation signals exclusion and depr
 
 ### Instructions
 1. Before the term, review the roster and flag names you are unsure how to pronounce; do not guess aloud in class.
-2. At first contact, ask the learner to say their name and repeat it back; use [active listening](../strategies/active_listening.md) — attend to stress and syllables rather than approximating from spelling.
+2. At first contact, ask the learner to say their name and repeat it back; use [active listening](active-listening.md) — attend to stress and syllables rather than approximating from spelling.
 3. Practice aloud and ask for correction; if you struggle, name it as your limitation ("That's my ear, not your name").
 4. Record a phonetic version (roster note, name tent, or tool) so the correction persists across sessions.
 5. Invite ongoing correction and respond to it without defensiveness or embarrassment — treat each correction as routine, not an event.
 6. Follow up privately if you notice yourself reverting; never ask the learner to accept a shortened or anglicized name for your convenience.
 
 ## Related Strategies
-- [Active listening](../strategies/active_listening.md) — the conversational stance that makes the correction exchange respectful rather than performative
+- [Active listening](active-listening.md) — the conversational stance that makes the correction exchange respectful rather than performative
 - [Check-ins](../principles/check-ins.md) — name conversations fit naturally into recurring one-to-one check-in routines
 
 ## Related Elements

@@ -58,8 +58,8 @@ The strategy works because comprehension depends on connecting new text to exist
 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the broader family; The Title is a minimal, text-anchored variant
-- [Anticipation Guides](../strategies/anticipation_guides.md) — a structured pre-reading variant using agree/disagree statements instead of open brainstorming
-- [KWL Charts](../strategies/kwl_charts.md) — extends the activity across the full reading cycle with a "Learned" phase
+- [Anticipation Guides](anticipation-guides.md) — a structured pre-reading variant using agree/disagree statements instead of open brainstorming
+- [KWL Charts](kwl-charts.md) — extends the activity across the full reading cycle with a "Learned" phase
 
 ## Examples
 - Before reading an article titled "The History of Jazz Music," learners brainstorm in groups what they know about jazz's origins and cultural impact, then check their predictions against the article.

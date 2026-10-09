@@ -59,7 +59,7 @@ Classroom pride strategies work primarily through social-affective mechanisms: p
 
 ## Related Strategies
 - [Check-ins](../principles/check-ins.md) — regular emotional temperature-taking sustains the positive climate that pride strategies depend on
-- [Action-oriented feedback](action-oriented_feedback.md) — the feedback quality that makes reinforcement credible rather than empty
+- [Action-oriented feedback](action-oriented-feedback.md) — the feedback quality that makes reinforcement credible rather than empty
 
 ## Examples
 - **Display walls and "author's chairs"** — elementary classrooms that publish finished writing and invite learners to read it aloud to visiting staff or parents.

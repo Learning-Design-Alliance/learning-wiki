@@ -60,7 +60,7 @@ Routines and signals reduce the working-memory and attentional demands of non-in
 
 ## Related Strategies
 - [Clear Structure](../principles/clear-structure.md) — routines are the procedural expression of structural predictability
-- [Classroom Norms](../strategies/co-creating_classroom_norms.md) — co-created norms give routines legitimacy and learner buy-in
+- [Classroom Norms](co-creating-classroom-norms.md) — co-created norms give routines legitimacy and learner buy-in
 - [Chunking](../principles/chunking.md) — routines package multi-step procedures into single retrievable units
 
 ## Examples

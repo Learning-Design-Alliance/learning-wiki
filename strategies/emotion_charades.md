@@ -61,7 +61,7 @@ Emotion recognition is a foundational component of social-emotional competence, 
 ## Related Strategies
 - [Act It Out](act_it_out.md) — broader dramatization strategy; Emotion Charades is a focused application to emotion recognition
 - [Acting-Role-Play](acting-role-play.md) — extended role-play for practicing social responses, not just recognizing emotions
-- [Active Listening](active_listening.md) — the receptive counterpart: attending to cues in real interaction
+- [Active Listening](active-listening.md) — the receptive counterpart: attending to cues in real interaction
 
 ## Examples
 - **RULER Approach (Yale Center for Emotional Intelligence)** — uses mood-meter and emotion-vocabulary activities alongside charades-style games to build granularity in emotion labeling (https://ei.yale.edu)

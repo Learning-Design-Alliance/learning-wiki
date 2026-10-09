@@ -59,7 +59,7 @@ Memory games reliably improve performance on the trained task and very similar t
 
 ## Related Strategies
 - [Spaced repetition](../strategies/spaced_repetition.md) — scheduling principle that determines whether game gains persist
-- [Retrieval practice games](../strategies/retrieval_practice.md) — memory games reframed as low-stakes retrieval of curriculum content
+- [Retrieval practice games](retrieval-practice.md) — memory games reframed as low-stakes retrieval of curriculum content
 
 ## Examples
 - **Concentration / matching cards** — a classic physical game; when the pairs are vocabulary–definition or country–capital, the game doubles as retrieval practice on content.

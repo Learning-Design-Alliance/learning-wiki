@@ -72,7 +72,7 @@ Student voice practices work primarily through belonging and autonomy: when stud
 
 ## Related Strategies
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — voice routines surface the prior knowledge that activation strategies then build on
-- [Active Listening](../strategies/active_listening.md) — the teacher-side counterpart; voice only builds community when listening is genuine
+- [Active Listening](active-listening.md) — the teacher-side counterpart; voice only builds community when listening is genuine
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — a norms-based strategy that creates the safety voice requires
 
 ## Examples

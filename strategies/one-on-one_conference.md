@@ -26,7 +26,7 @@ Conferences concentrate the conditions under which feedback works best: it is di
 - Protected time and a private (or at least low-distraction) setting; short, frequent conferences often beat long infrequent ones
 - A concrete artifact or performance to anchor the conversation — feedback attached to specific work outperforms general praise [Feedback is most effective when directed at the task and process levels rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]
 - A structure that makes the learner an active participant: self-assessment first, then instructor input, then jointly set next steps ([Self-Assessment](../elements/self-assessment.md), [Goal-Setting](../elements/goal-setting.md))
-- Instructor skill in [Active Listening](active_listening.md) — questioning and eliciting before telling
+- Instructor skill in [Active Listening](active-listening.md) — questioning and eliciting before telling
 
 #### Constraints
 - Highly time-intensive; at scale, conference time crowds out other instruction, so frequency must be rationed or the format adapted (peer conferences, small-group conferences, brief check-ins)
@@ -63,7 +63,7 @@ Conferences concentrate the conditions under which feedback works best: it is di
 
 ## Related Strategies
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a compressed variant that makes conferencing feasible at class scale
-- [Active Listening](active_listening.md) — the core interactional skill that determines conference quality
+- [Active Listening](active-listening.md) — the core interactional skill that determines conference quality
 - [Check-Ins](../principles/check-ins.md) — the lightweight cousin; brief individual contact between full conferences
 
 ## Related Elements

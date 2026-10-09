@@ -61,7 +61,7 @@ The strategies work by raising perceived autonomy and task value rather than by 
 7. **Build empathy deliberately.** Use perspective-taking tasks and [building-empathy](../principles/building-empathy.md) routines (character interviews, peer feedback protocols) so relatedness extends to the people inside the content.
 
 ## Related Strategies
-- [Activating prior knowledge](activating_prior_knowledge.md) — choice and talk strategies land better when tasks connect to what students already know
+- [Activating prior knowledge](activating-prior-knowledge.md) — choice and talk strategies land better when tasks connect to what students already know
 - [Academic choice (planning, working, reflecting)](academic-choice-planning-working-reflecting.md) — the structured version of the choice motivator
 - [Act it out](act_it_out.md) — a play-based embodiment variant that supports comprehension
 - [Action planning](action_planning.md) — supports the negotiation and goal-setting motivators

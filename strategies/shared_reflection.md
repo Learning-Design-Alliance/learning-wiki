@@ -56,7 +56,7 @@ Shared reflection converts reflection from an individual metacognitive act into 
 1. **Establish norms and safety.** Before the first round, co-create agreements about how struggles will be received; the teacher models vulnerability first by sharing their own reflection.
 2. **Model the reflective move.** Demonstrate the protocol on your own work using a [Think-Aloud](../elements/think-aloud.md), making the reasoning behind strategy choices explicit.
 3. **Structure the share.** Use a consistent prompt sequence (e.g., "What did you try? What happened? What will you change?") with time limits; support articulation with [Sentence Starters](../elements/sentence-starters.md) or [Advance Organizers](../elements/advance-organizers.md) for students who need them.
-4. **Respond, don't evaluate.** Peers and teacher respond with questions and suggestions rather than judgments; connect responses to [Action-Oriented Feedback](../strategies/action-oriented_feedback.md) so reflection leads to concrete next steps.
+4. **Respond, don't evaluate.** Peers and teacher respond with questions and suggestions rather than judgments; connect responses to [Action-Oriented Feedback](action-oriented-feedback.md) so reflection leads to concrete next steps.
 5. **Act on the reflection.** Adjust grouping, pacing, or reteaching based on what was shared, and revisit prior reflections at the next round so students see continuity [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] — gradually release responsibility for prompting from teacher to students as the routine matures.
 
 ## Related Strategies

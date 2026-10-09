@@ -60,7 +60,7 @@ High expectations work through the combination of demanding goals and strong sup
 6. When students stall, guide them through the initial steps of the task rather than lowering the target; praise only genuine accomplishment.
 
 ## Related Strategies
-- [Growth-oriented feedback](action-oriented_feedback.md) — the feedback mechanism that makes high expectations actionable rather than punitive
+- [Growth-oriented feedback](action-oriented-feedback.md) — the feedback mechanism that makes high expectations actionable rather than punitive
 - [Activating prior knowledge](activating-prior-knowledge.md) — establishes the baseline from which individual expectations are calibrated
 
 ## Examples

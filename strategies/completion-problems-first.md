@@ -57,7 +57,7 @@ Completion problems reduce the unguided search that makes early problem solving 
 4. Transition to full problem solving once completion accuracy is high, with feedback on each attempt ([Practice](../elements/practice.md), [Assessment](../elements/assessment.md)).
 
 ## Related Strategies
-- [Worked examples first](worked_examples_first.md) — the preceding phase; completion problems assume example study has occurred
+- [Worked examples first](worked-examples-first.md) — the preceding phase; completion problems assume example study has occurred
 - [Faded guidance](faded-guidance.md) — the general principle this strategy instantiates in problem sequences
 - [Example-problem pairs](../elements/example-problem-pairs.md) — an alternating variant with similar rationale
 

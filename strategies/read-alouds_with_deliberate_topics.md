@@ -64,7 +64,7 @@ Narrative provides concrete, emotionally engaging cases of social behavior that 
 ## Related Strategies
 - [Act It Out](act_it_out.md) — dramatizing story dilemmas deepens perspective-taking beyond discussion
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — pre-reading prompts connect the story to students' own experience
-- [Active Listening](active_listening.md) — the discussion phase depends on students building on peers' interpretations
+- [Active Listening](active-listening.md) — the discussion phase depends on students building on peers' interpretations
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the curated text is the anchor for the session

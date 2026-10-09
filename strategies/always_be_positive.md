@@ -58,7 +58,7 @@ A positive stance works not as generic cheerfulness but as a precondition for th
 
 ## Related Strategies
 - [Activating background knowledge](../strategies/activating_background_knowledge.md) — a positive, low-threat climate makes students willing to surface what they already know, including partial or mistaken ideas
-- [Active listening](../strategies/active_listening.md) — the mechanism by which positivity stays authentic: students must feel heard, not merely cheered
+- [Active listening](active-listening.md) — the mechanism by which positivity stays authentic: students must feel heard, not merely cheered
 
 ## Examples
 - **PBIS (Positive Behavioral Interventions and Supports)** ([https://www.pbis.org](https://www.pbis.org)) — a widely adopted whole-school framework that operationalizes "always be positive" as explicitly taught expectations and high rates of specific, positive acknowledgment.

@@ -47,8 +47,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Attention](../elements/attention.md) — the element that names the design target
 - [Proximity](../elements/proximity.md) — places related material where attention does not have to travel
 - [Signaling](../strategies/signaling.md) — cues the structure so attention lands on what carries the point
-- [Brain Breaks](../strategies/brain_breaks.md) — short resets between sustained runs
-- [Movement Breaks](../strategies/movement_breaks.md) — the physical-activity remedy in practice
+- [Brain Breaks](../strategies/brain-breaks.md) — short resets between sustained runs
+- [Movement Breaks](../strategies/movement-breaks.md) — the physical-activity remedy in practice
 - [Executive Function Development](../theories/executive-function-development.md) — why the capacity differs by age and develops
 - [ARCS Model of Motivational Design](../theories/arcs-model.md) — treats attention as the first thing a design must earn
 

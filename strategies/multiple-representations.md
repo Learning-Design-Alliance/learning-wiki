@@ -57,7 +57,7 @@ Multiple representations support abstraction and transfer because identifying th
 6. Fade representational support as expertise develops, converging on the most efficient form for the domain.
 
 ## Related Strategies
-- [Use Analogies](../strategies/use_analogies.md) — an analogy is a representation drawn from prior knowledge; mapping it to the target concept is a translation exercise
+- [Use Analogies](use-analogies.md) — an analogy is a representation drawn from prior knowledge; mapping it to the target concept is a translation exercise
 - [Use Worked Examples](../strategies/use_worked_examples.md) — worked examples can embed multiple representations of the same solution step
 
 ## Examples

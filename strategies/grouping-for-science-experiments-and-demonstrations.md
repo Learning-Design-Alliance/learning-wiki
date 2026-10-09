@@ -41,7 +41,7 @@ The digest recommends grouping pupils during science experiments and demonstrati
 - [Use Flexible Discussion Groups for Science Content Analysis](flexible-discussion-groups-in-science.md)
 - [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](heterogeneous-grouping-for-science-projects.md)
 - [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
-- [Activating Prior Knowledge](activating_prior_knowledge.md)
+- [Activating Prior Knowledge](activating-prior-knowledge.md)
 
 ## Examples
 -

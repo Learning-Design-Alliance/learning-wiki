@@ -59,9 +59,9 @@ Active listening converts student talk from performance into formative evidence:
 
 ## Related Strategies
 
-- [Active Listening](active_listening.md) — the general communication skill this classroom strategy instantiates
+- [Active Listening](active-listening.md) — the general communication skill this classroom strategy instantiates
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — the same listening stance applied to individual written work
-- [Action-Oriented Feedback](action-oriented_feedback.md) — what responsive listening feeds into
+- [Action-Oriented Feedback](action-oriented-feedback.md) — what responsive listening feeds into
 - [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
 
 ## Examples

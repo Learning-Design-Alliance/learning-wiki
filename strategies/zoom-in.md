@@ -60,7 +60,7 @@ Zoom In structures inquiry by creating a controlled sequence of evidence reveals
 6. **Extend into content.** Follow with [annotating](../principles/annotating.md) the full image, a related text, or a writing task that applies the revised interpretation.
 
 ## Related Strategies
-- [See/Think/Wonder](see_think_wonder.md) — the simpler observation routine Zoom In extends with staged evidence reveals
+- [See/Think/Wonder](see-think-wonder.md) — the simpler observation routine Zoom In extends with staged evidence reveals
 - [Claim-Support-Question](claim-support-question.md) — the justification structure Zoom In relies on at each stage
 - [3-2-1 Reflection](3-2-1_reflection.md) — a closing structure for the synthesis discussion
 

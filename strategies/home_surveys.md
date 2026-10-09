@@ -61,7 +61,7 @@ Home surveys operationalize family engagement as a two-way data flow rather than
 ## Related Strategies
 - [Check-ins](../principles/check-ins.md) — the in-class counterpart; surveys extend the same monitoring function into the home context
 - [Activating background knowledge](activating-prior-knowledge.md) — family knowledge inventories supply the cultural and experiential material that activation depends on
-- [Action-oriented feedback](action-oriented_feedback.md) — the same principle applies to family input: data is only useful when it drives a visible change
+- [Action-oriented feedback](action-oriented-feedback.md) — the same principle applies to family input: data is only useful when it drives a visible change
 
 ## Examples
 - **TalkingPoints** (https://www.talkingpts.org) — two-way translated messaging used by schools to run recurring family pulse surveys in families' home languages without requiring smartphones or English proficiency.

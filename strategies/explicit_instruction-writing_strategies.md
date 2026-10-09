@@ -60,7 +60,7 @@ Explicit strategy instruction works because it converts the tacit processes expe
 
 ## Related Strategies
 
-- [Process Writing](../strategies/process_writing.md) — strategy instruction is often embedded within a process-writing classroom
+- [Process Writing](process-writing.md) — strategy instruction is often embedded within a process-writing classroom
 - [Peer Revision](../strategies/peer_revision.md) — a structured revision strategy that can be explicitly taught
 - [Goal Setting](../strategies/goal_setting.md) — the self-regulation component that makes SRSD more than procedure training
 - [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)

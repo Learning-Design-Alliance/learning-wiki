@@ -41,8 +41,7 @@ A sequenced recipe for building students' assessment skills: first teach student
 ## Related Strategies
 
 - [Rubric Based Self Assessment](rubric-based-self-assessment.md)
-- [Self Monitoring_Checklists](self-monitoring_checklists.md)
-- [Rubric-Based Self Assessment](rubric-based_self-assessment.md)
+- [Self Monitoring_Checklists](self-monitoring-checklists.md)
 - [Checklists](checklists.md)
 - [Calibrated Peer Review](calibrated_peer_review.md)
 - [Use Rubrics And Exemplars](use-rubrics-and-exemplars.md)

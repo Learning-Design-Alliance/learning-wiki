@@ -60,7 +60,7 @@ Reading aloud converts reading from a purely visual task into a multimodal one; 
 ## Related Strategies
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the teacher-side counterpart: verbalizing expert reasoning while reading
 - [Annotating](../principles/annotating.md) — pairs naturally; students mark what their ear catches
-- [Repeated Reading](../strategies/repeated_reading.md) — oral re-reading builds fluency for developing readers
+- [Repeated Reading](repeated-reading.md) — oral re-reading builds fluency for developing readers
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the revision or answering step that converts a heard error into a fix

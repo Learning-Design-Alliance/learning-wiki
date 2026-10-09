@@ -59,8 +59,8 @@ Learner-centered teacher-student relationships show consistent positive associat
 
 ## Related Strategies
 - [Action Planning](action_planning.md) — the planning discipline that turns intention into scheduled teacher moves
-- [Action-Oriented Feedback](action-oriented_feedback.md) — feedback that tells students what to do next, enacting intentionality at the task level
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — an intentional instructional move that signals whose knowledge counts in the classroom
+- [Action-Oriented Feedback](action-oriented-feedback.md) — feedback that tells students what to do next, enacting intentionality at the task level
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — an intentional instructional move that signals whose knowledge counts in the classroom
 
 ## Examples
 - **Empathic discipline practice (Okonofua et al., 2016)** — Middle-school teachers completed a brief online module reframing misbehavior as a relationship moment; the "teacher–student relationship" framing halved suspension rates across the following year. [https://doi.org/10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)

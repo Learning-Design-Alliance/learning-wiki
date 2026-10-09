@@ -60,7 +60,7 @@ Frequent reflection builds the self-monitoring component of self-regulated learn
 ## Related Strategies
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the broader family of self-reflection activities this strategy draws on
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — one-on-one conversations that deepen written reflections
-- [Exam Wrappers](exam_wrappers.md) — post-assessment reflection on study strategies
+- [Exam Wrappers](exam-wrappers.md) — post-assessment reflection on study strategies
 
 ## Examples
 - **Exam wrappers** (widely used in postsecondary STEM, e.g., Carnegie Mellon's Eberly Center materials): after each exam, students answer a short form about how they studied and what they will change; instructors review aggregated responses to adjust teaching.

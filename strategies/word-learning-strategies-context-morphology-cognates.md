@@ -43,10 +43,9 @@ As part of intensive vocabulary instruction, teach word-learning strategies to h
 - [Morphological Analysis Instruction](morphological-analysis-instruction.md)
 - [Morphological Analysis](morphological-analysis.md)
 - [Greek Combining Forms](greek_combining_forms.md)
-- [Morphological Instruction](morphological_instruction.md)
+- [Morphological Instruction](morphological-instruction.md)
 - [Latin Prefixes, Suffixes, and Roots](latin-prefixes-suffixes-and-roots.md)
 - [Morphological Analysis of Latin and Greek Roots](morphological_analysis_of_latin_and_greek_roots.md)
-- [Morphological Instruction](morphological-instruction.md)
 - [Morphological Awareness Instruction](morphological-awareness-instruction.md)
 
 ## Examples

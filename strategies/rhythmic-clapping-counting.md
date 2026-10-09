@@ -60,7 +60,7 @@ Rhythmic clapping is a form of embodied, multimodal encoding: representing a pat
 
 ## Related Strategies
 - [Act It Out](act_it_out.md) — the broader embodied- enactment family; clapping is its rhythmic subset
-- [Choral Counting](choral_counting.md) — pairs naturally: counting aloud with rhythm reinforces number sequences
+- [Choral Counting](choral-counting.md) — pairs naturally: counting aloud with rhythm reinforces number sequences
 
 ## Examples
 - A kindergarten teacher claps "clap-clap-pause, clap-clap-clap" and students echo it, then count the claps to connect the pattern to the numbers 2 and 3.

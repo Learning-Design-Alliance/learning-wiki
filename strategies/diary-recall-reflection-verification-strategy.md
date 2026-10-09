@@ -44,7 +44,7 @@ The learner keeps a daily journal of communication problems and dubious utteranc
 ## Related Strategies
 
 - [Multimodal Learning Logs/Blogs](multimodal-learning-logs-blogs.md)
-- [Learning Journals](learning_journals.md)
+- [Learning Journals](learning-journals.md)
 - [Field Journals](field-journals.md)
 - [Retrieval Practice With Graphic Organizers](retrieval_practice_with_graphic_organizers.md)
 - [Graphic Organizers for Retrieval Practice](graphic_organizers_for_retrieval_practice.md)

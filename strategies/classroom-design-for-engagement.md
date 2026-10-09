@@ -54,7 +54,7 @@ The most commonly inverted finding concerns wall display. Visual stimulation is 
 
 #### Implementation Variability
 - **Layout-to-activity matching** — rows for presentation, clusters for collaboration, horseshoe for discussion, with explicit transitions between them ([Room Positioning](room-positioning.md))
-- **Flexible seating** — a range of seat types learners choose among, which supplies the ownership factor directly ([Flexible Seating](flexible_seating.md))
+- **Flexible seating** — a range of seat types learners choose among, which supplies the ownership factor directly ([Flexible Seating](flexible-seating.md))
 - **Display discipline** — a rule that wall material is current, with anything stale removed, rather than accumulating across a year
 - **Environmental basics audit** — a termly check of daylight, glare, temperature, ventilation, and noise ([Natural Lighting](natural_lighting.md), [Acoustics and Noise Management](acoustics_and_noise_management.md))
 - **Student-led design** — learners survey, propose, and implement changes, which makes the ownership effect an explicit part of the curriculum ([Involving Learners in Classroom Design](involving_learners_in_classroom_design.md))
@@ -84,7 +84,7 @@ The most commonly inverted finding concerns wall display. Visual stimulation is 
 ## Related Strategies
 - [Classroom Design Optimization](classroom_design_optimization.md) — the same environmental factors framed as a whole-room optimization problem
 - [Room Positioning](room-positioning.md) — the layout and sightline component in isolation
-- [Flexible Seating](flexible_seating.md) — seat choice as the practical route to the ownership and flexibility factors
+- [Flexible Seating](flexible-seating.md) — seat choice as the practical route to the ownership and flexibility factors
 - [Natural Lighting](natural_lighting.md) — the single highest-leverage naturalness factor
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the condition most often ignored and most damaging when poor
 - [Involving Learners in Classroom Design](involving_learners_in_classroom_design.md) — turns the ownership factor into a learner activity

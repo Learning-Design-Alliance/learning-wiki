@@ -40,8 +40,6 @@ Recommendation 7 has teachers use behavior ratings, such as a Daily Behavior Rep
 
 - [Teach Students Self Monitor Reflect Behavior](teach-students-self-monitor-reflect-behavior.md)
 - [Check In/Check Out](check-incheck-out.md)
-- [Check In_Check Out](check-in_check-out.md)
-- [Check In Check Out](check-in-check-out.md)
 
 ## Examples
 -

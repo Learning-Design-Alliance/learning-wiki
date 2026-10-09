@@ -64,7 +64,7 @@ Peer review doubles as assessment and learning: reviewing others' work requires 
 
 ## Related Strategies
 - [Calibrated Peer Review](calibrated_peer_review.md) — a specific technology-supported implementation of the calibration variation
-- [Revision Cycles](revision_cycles.md) — the author-side half of the review loop
+- [Revision Cycles](revision-cycles.md) — the author-side half of the review loop
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — instructor modeling of critique is the training phase for reviewers

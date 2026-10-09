@@ -63,7 +63,7 @@ Debate is a high-intensity form of [Active Learning](../principles/active-learni
 
 ## Related Strategies
 
-- [Structured Academic Controversy](structured_academic_controversy.md) — the cooperative-learning variant that switches sides and synthesizes
+- [Structured Academic Controversy](structured-academic-controversy.md) — the cooperative-learning variant that switches sides and synthesizes
 - [Role-Play](acting-role-play.md) — adjacent strategy; debate is role-play with an adversarial evidence structure
 - [Socratic Seminar](socratic-seminar.md) — dialogue-based alternative that probes rather than opposes
 - [Refuse debate with pseudoscience until the challenge is met, using the challenge's existence as the argument](refuse-debate-until-challenge-met.md)

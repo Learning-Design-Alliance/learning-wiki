@@ -52,7 +52,7 @@ Assigning a grade is rarely a single, self-evident calculation — it bundles se
 
 ## Related Strategies
 - [Equitable Grading](../strategies/equitable_grading.md) — addresses bias and inconsistency in how grading criteria are applied, a related but distinct concern from the compositional choices this page describes
-- [Standards-Based Grading](../strategies/standards-based_grading.md) — one specific resolution to the letter-grade-vs-objective-checklist tradeoff described here, favoring mastery-of-standards over points
+- [Standards-Based Grading](../strategies/standards-based-grading.md) — one specific resolution to the letter-grade-vs-objective-checklist tradeoff described here, favoring mastery-of-standards over points
 
 ## Key Sources
 - Popham, W. J. (2005). *Classroom assessment: What teachers need to know* (4th ed.). Allyn & Bacon.

@@ -24,7 +24,7 @@ Open-ended questions surface information that closed questions systematically mi
 ### Context
 #### Requirements
 - A safe, low-stakes relational climate; students disclose little when disclosure feels risky or performative
-- Educator skill in [Active Listening](../strategies/active_listening.md) — following up on the answer rather than steering back to a predetermined point
+- Educator skill in [Active Listening](active-listening.md) — following up on the answer rather than steering back to a predetermined point
 - Comfort with silence; open-ended questions require wait time of several seconds to produce substantive responses
 - Genuine willingness to act on what is heard; asking without responding erodes trust quickly
 
@@ -53,13 +53,13 @@ Open-ended questions surface information that closed questions systematically mi
 ### Instructions
 1. **Notice** — attend to nonverbal cues (affect, posture, work quality) without jumping to interpretation.
 2. **Ask openly** — use a genuine open prompt ("What's going on with this for you?") and allow several seconds of wait time.
-3. **Listen and follow up** — apply [Active Listening](../strategies/active_listening.md): reflect back what you heard and probe the student's own framing rather than redirecting.
+3. **Listen and follow up** — apply [Active Listening](active-listening.md): reflect back what you heard and probe the student's own framing rather than redirecting.
 4. **Offer options only if needed** — if the student stalls, supply candidate feelings or causes ("frustrated, nervous, or something else?") as scaffolding, then return to openness.
 5. **Respond** — connect what you learned to action: adjust instruction, arrange support, or schedule a follow-up [Check-In](../principles/check-ins.md).
 6. **Normalize** — build the practice into routines such as [Class Discussion](../elements/class-discussion.md) openers or written warm-ups so disclosure is ordinary, not exceptional.
 
 ## Related Strategies
-- [Active Listening](../strategies/active_listening.md) — the follow-through skill; an open question without skilled listening is wasted
+- [Active Listening](active-listening.md) — the follow-through skill; an open question without skilled listening is wasted
 - [Check-Ins](../principles/check-ins.md) — the routine structure that makes individual open questions sustainable at scale
 - [Building Empathy](../principles/building-empathy.md) — open questions are the primary data-gathering move for empathic response
 

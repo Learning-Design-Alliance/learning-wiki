@@ -56,8 +56,8 @@ Withitness functions as a preventive management strategy rather than a reactive 
 
 ## Related Strategies
 - [Establishing Routines and Procedures](../strategies/establishing_routines_and_procedures.md) — withitness enforces routines; routines reduce the monitoring load
-- [Proximity Control](../strategies/proximity_control.md) — a physical withitness move that redirects without verbal interruption
-- [Positive Narration](../strategies/positive_narration.md) — describing on-task behavior aloud makes awareness visible
+- [Proximity Control](proximity-control.md) — a physical withitness move that redirects without verbal interruption
+- [Positive Narration](positive-narration.md) — describing on-task behavior aloud makes awareness visible
 
 ## Examples
 - **Kounin's observational studies** — Teachers rated "withit" had classes with roughly half the off-task disruption of comparable teachers, independent of how they handled misbehavior once it occurred.

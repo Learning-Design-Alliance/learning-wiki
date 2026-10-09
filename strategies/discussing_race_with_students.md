@@ -62,9 +62,9 @@ Race talk triggers strong emotions and identity threat that can shut down produc
 
 ## Related Strategies
 
-- [Structured Academic Controversy](../strategies/structured_academic_controversy.md) — a debate protocol that channels disagreement productively, useful for contested racial topics
-- [Restorative Circles](../strategies/restorative_circles.md) — a normed dialogue structure suited to repairing harm after difficult conversations
-- [Culturally Responsive Teaching](../strategies/culturally_responsive_teaching.md) — the broader stance that makes race talk continuous rather than exceptional
+- [Structured Academic Controversy](structured-academic-controversy.md) — a debate protocol that channels disagreement productively, useful for contested racial topics
+- [Restorative Circles](restorative-circles.md) — a normed dialogue structure suited to repairing harm after difficult conversations
+- [Culturally Responsive Teaching](culturally-responsive-teaching.md) — the broader stance that makes race talk continuous rather than exceptional
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
 
 ## Examples

@@ -63,7 +63,7 @@ Reflection converts raw emotional experience into usable insight, but only when 
 ## Related Strategies
 
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the broader family of reflection practices this strategy specializes for post-mistake situations
-- [Active Listening](active_listening.md) — the conversational skill that makes mentor- or peer-mediated reflection productive
+- [Active Listening](active-listening.md) — the conversational skill that makes mentor- or peer-mediated reflection productive
 - [Action Planning](action_planning.md) — the natural follow-on that converts reflection into committed next steps
 - [Use a seven-perspective reflective heuristic (locus, process, politics, metaphor, history, existence, systems) to respond to professional conflict](seven-perspective-conflict-heuristics-wpa.md)
 

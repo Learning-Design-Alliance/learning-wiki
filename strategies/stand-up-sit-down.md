@@ -59,7 +59,7 @@ The strategy pairs retrieval practice with embodied response, leveraging the fin
 
 ## Related Strategies
 - [Act It Out](act_it_out.md) — sibling embodied-response strategy; both use physical action as the response channel
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — warm-up rounds of Stand Up/Sit Down can surface what the class already recalls before new instruction
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — warm-up rounds of Stand Up/Sit Down can surface what the class already recalls before new instruction
 
 ## Examples
 - A Grade 3 teacher runs "Stand if the answer is even" with prompts like 7 × 4 + 3, scanning for students who remain seated to target in the next round.

@@ -58,7 +58,7 @@ Recognition of learner success builds positive teacher-learner relationships, an
 5. Monitor distribution and sincerity: ensure every learner is recognized regularly and adjust the public/private balance to the age group and classroom climate.
 
 ## Related Strategies
-- [Action-Oriented Feedback](action-oriented_feedback.md) — the recognition mechanism through which pride is instilled; feedback naming concrete behavior is what makes pride earned rather than flattered
+- [Action-Oriented Feedback](action-oriented-feedback.md) — the recognition mechanism through which pride is instilled; feedback naming concrete behavior is what makes pride earned rather than flattered
 - [Active Listening](active-listening.md) — noticing and reflecting learner accomplishments requires attending closely to what learners actually do
 - [Check-Ins](5-minute_writing_conferences.md) — routine one-to-one moments where private, age-appropriate recognition can be delivered
 

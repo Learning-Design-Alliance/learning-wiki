@@ -59,9 +59,9 @@ The OMP operationalizes [Assessment for Learning](../principles/assessment-for-l
 
 ## Related Strategies
 
-- [Muddiest Point](muddiest_point.md) — the single-question variant, focused purely on confusion
+- [Muddiest Point](muddiest-point.md) — the single-question variant, focused purely on confusion
 - [3-2-1 Reflection](3-2-1_reflection.md) — a structured variant adding "things I want to know more about"
-- [Exit Ticket](exit_ticket.md) — the broader family of end-of-session written checks
+- [Exit Ticket](exit-ticket.md) — the broader family of end-of-session written checks
 - [Use reflection assignments to check adult learners' understanding and participation change](reflection-assignments-adult-understanding.md)
 
 ## Examples

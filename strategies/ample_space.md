@@ -57,9 +57,9 @@ Physical environment features account for a measurable portion of variance in le
 5. Establish behavioral norms for movement and noise so added space supports rather than distracts from learning.
 
 ## Related Strategies
-- [Flexible Seating](../strategies/flexible_seating.md) — the furniture-side complement; ample space without movable furniture limits reconfiguration
+- [Flexible Seating](flexible-seating.md) — the furniture-side complement; ample space without movable furniture limits reconfiguration
 - [Acoustics and Noise Management](../strategies/acoustics_and_noise_management.md) — open space raises noise risk; the two must be designed together
-- [Brain Breaks and Movement](../strategies/brain_breaks.md) — movement-based strategies require physical room to execute
+- [Brain Breaks and Movement](brain-breaks.md) — movement-based strategies require physical room to execute
 
 ## Examples
 - **Clever Classrooms (University of Salford, 2015)** — the HEAD study of 153 classrooms in 27 UK schools linking spatial characteristics (including room area and flexibility) to learning progress: [http://www.salford.ac.uk/cleverclassrooms](http://www.salford.ac.uk/cleverclassrooms)

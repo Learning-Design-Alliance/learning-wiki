@@ -49,7 +49,7 @@ The brief describes a promising approach to support early childhood math develop
 
 - [Home Visiting](../strategies/home-visiting.md)
 - [Family Literacy Programs](../strategies/family-literacy-programs.md)
-- [Family Engagement](../strategies/family_engagement.md)
+- [Family Engagement](../strategies/family-engagement.md)
 
 ## Key Sources
 - Barbara Harris, Dana Petersen. (2019). Developing Math Skills in Early Childhood. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/developing-math-skills-in-early-childhood

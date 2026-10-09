@@ -38,7 +38,7 @@ The guide recommends that instructors model culturally responsive assessment by 
 
 ## Related Strategies
 
-- [Co-Creating Classroom Norms](co-creating_classroom_norms.md)
+- [Co-Creating Classroom Norms](co-creating-classroom-norms.md)
 
 ## Examples
 -

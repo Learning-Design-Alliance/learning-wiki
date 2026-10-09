@@ -44,7 +44,7 @@ Before implementing portfolios, educators analyze the most meaningful engagement
 - [Portfolio Development](portfolio_development.md)
 - [Student Portfolio Creation](student_portfolio_creation.md)
 - [Portfolio Assessment](portfolio-assessment.md)
-- [Stop and Jot](stop_and_jot.md)
+- [Stop and Jot](stop-and-jot.md)
 
 ## Examples
 -

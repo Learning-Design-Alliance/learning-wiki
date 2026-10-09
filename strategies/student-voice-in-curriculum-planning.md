@@ -61,7 +61,7 @@ Giving learners authentic decision rights increases ownership and intrinsic moti
 ## Related Strategies
 
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — the within-lesson counterpart: students choose how to pursue goals the curriculum sets
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — voice mechanisms double as tools for surfacing what students already know and want to know
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — voice mechanisms double as tools for surfacing what students already know and want to know
 - [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
 - [Use six concrete strategies to incorporate recipient input and make training and TA engaging](six-strategies-recipient-input-ta.md)
 - [Center youth as partners, not participants, in co-design](center-youth-as-partners-not-participants.md)

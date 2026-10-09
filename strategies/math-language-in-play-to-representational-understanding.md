@@ -42,7 +42,7 @@ The article recommends that teachers embed mathematical language in everyday int
 
 ## Related Strategies
 
-- [Guided Play](guided_play.md)
+- [Guided Play](guided-play.md)
 
 ## Examples
 -

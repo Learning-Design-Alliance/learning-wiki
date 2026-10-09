@@ -60,7 +60,7 @@ Learner involvement in environmental design is a form of autonomy support: provi
 
 ## Related Strategies
 - [Academic Choice (planning, working, reflecting)](academic-choice-planning-working-reflecting.md) — the same autonomy-support logic applied to academic work rather than physical space
-- [Flexible Seating](flexible_seating.md) — a common outcome of learner-involved design processes
+- [Flexible Seating](flexible-seating.md) — a common outcome of learner-involved design processes
 - [Co-Constructing Classroom Norms](co-constructing_classroom_norms.md) — companion practice extending learner voice from space to behavior
 
 ## Examples

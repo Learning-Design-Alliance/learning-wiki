@@ -56,7 +56,7 @@ Connecting activates prior knowledge before or during new learning, which improv
 5. Fade the prompts over time so learners internalize the habit of asking the connecting question themselves
 
 ## Related Strategies
-- [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) — the broader family; connecting is the problem-focused variant that asks learners to map a current task onto a remembered one
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — the broader family; connecting is the problem-focused variant that asks learners to map a current task onto a remembered one
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — the underlying mechanism when the connection is between structurally similar problems
 
 ## Affordances

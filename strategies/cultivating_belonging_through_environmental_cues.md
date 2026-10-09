@@ -59,9 +59,9 @@ Belonging is a psychological state that predicts engagement, persistence, and ac
 
 ## Related Strategies
 
-- [Belonging interventions](belonging_interventions.md) — the direct, social-psychological counterpart; environmental cues sustain what brief interventions initiate
+- [Belonging interventions](belonging-interventions.md) — the direct, social-psychological counterpart; environmental cues sustain what brief interventions initiate
 - [Norm setting](norm_setting.md) — co-created behavioral norms are a social cue that signals collective ownership of the space
-- [Culturally responsive teaching](culturally_responsive_teaching.md) — the broader pedagogical stance of which environmental representation is one visible component
+- [Culturally responsive teaching](culturally-responsive-teaching.md) — the broader pedagogical stance of which environmental representation is one visible component
 - [Expose girls to female role models who have succeeded in math and science](expose-girls-female-math-science-role-models.md)
 
 ## Examples

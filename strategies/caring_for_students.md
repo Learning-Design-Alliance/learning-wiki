@@ -26,7 +26,7 @@ Perceived teacher care and support are consistently associated with higher engag
 - Early and sustained effort to know students individually (names, interests, goals, circumstances)
 - Consistent, fair treatment; care perceived as favoritism undermines trust
 - Communication of both warmth *and* high expectations — "wise" feedback framing that pairs criticism with belief in the student's capacity
-- Structures that surface student experience: [check-ins](../principles/check-ins.md), surveys, informal conversation, [active listening](active_listening.md)
+- Structures that surface student experience: [check-ins](../principles/check-ins.md), surveys, informal conversation, [active listening](active-listening.md)
 
 #### Constraints
 - Care perceived as inauthentic or performative reduces trust [-M] — students are sensitive to inconsistency between stated care and actual responsiveness
@@ -60,7 +60,7 @@ Perceived teacher care and support are consistently associated with higher engag
 ## Related Strategies
 - [Check-ins](../principles/check-ins.md) — the routine mechanism through which care becomes visible and actionable
 - [Building Empathy](../principles/building-empathy.md) — the teacher-side disposition work that makes care authentic
-- [Active Listening](active_listening.md) — the conversational skill underlying responsive relationships
+- [Active Listening](active-listening.md) — the conversational skill underlying responsive relationships
 - [Community of Inquiry](../principles/community-of-inquiry.md) — extends relational trust to peer-to-peer dimensions of the learning environment
 
 ## Examples

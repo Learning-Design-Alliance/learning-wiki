@@ -48,7 +48,6 @@ The learning unit consists of file cards with one corner removed and four or fiv
 
 ## Examples
 
-- [Flashcard Drill](../strategies/flashcard_drill.md)
 - [Flashcard Drill](../strategies/flashcard-drill.md)
 - [Allocate revision time economically by concentrating self-testing on the box of not-yet-known items](../strategies/concentrate-revision-on-unknown-box.md)
 

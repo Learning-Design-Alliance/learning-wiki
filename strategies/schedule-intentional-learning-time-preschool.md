@@ -39,7 +39,7 @@ This strategy, drawn from the guide's key findings, directs preschool educators 
 ## Related Strategies
 
 - [Purposeful Scheduling for Learner Connections](purposeful_scheduling_for_learner_connections.md)
-- [Free Play](free_play.md)
+- [Free Play](free-play.md)
 
 ## Examples
 -

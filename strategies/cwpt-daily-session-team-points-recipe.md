@@ -39,11 +39,10 @@ The report describes a concrete implementation routine for CWPT: practice 30 min
 
 ## Related Strategies
 
-- [Reciprocal Peer Tutoring](reciprocal_peer_tutoring.md)
+- [Reciprocal Peer Tutoring](reciprocal-peer-tutoring.md)
 - [Peer Tutoring With Structured Materials](peer-tutoring-with-structured-materials.md)
 - [PALS_Peer Assisted Learning Strategies](pals_peer-assisted-learning-strategies.md)
 - [Peer Tutoring](peer-tutoring.md)
-- [Peer Tutoring](peer_tutoring.md)
 - [Train students in tutor and group roles before routine use of peer tutoring or response groups](train-students-before-peer-tutoring-roles.md)
 
 ## Examples

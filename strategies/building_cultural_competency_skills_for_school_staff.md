@@ -61,7 +61,7 @@ Cultural competency training works when it moves beyond awareness-raising toward
 
 ## Related Strategies
 
-- [Active Listening](active_listening.md) — the core conversational skill for family conferences and cross-cultural communication
+- [Active Listening](active-listening.md) — the core conversational skill for family conferences and cross-cultural communication
 - [Activating Background Knowledge](activating_background_knowledge.md) — staff learn families' funds of knowledge before designing instruction and outreach
 - [Action Planning](action_planning.md) — converts training insights into concrete, scheduled relationship-building commitments
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — a concrete, observable application of competency training to school materials and messaging

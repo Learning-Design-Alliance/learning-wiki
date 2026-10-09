@@ -53,7 +53,7 @@ Naming emotions builds the vocabulary needed for later emotional regulation and 
 
 ### Instructions
 1. Select a read-aloud text with clear emotional arcs and supportive illustrations ([Assigned Readings](../elements/assigned-readings.md)).
-2. Preview the emotion posters with students, connecting each face and label to a personal experience ([Activating Prior Knowledge](activating_prior_knowledge.md)).
+2. Preview the emotion posters with students, connecting each face and label to a personal experience ([Activating Prior Knowledge](activating-prior-knowledge.md)).
 3. During the read-aloud, pause at emotionally significant moments and ask: "How does the character feel? What in the words or pictures tells you that?" ([Conceptual Questioning](../elements/conceptual-questioning.md)).
 4. Have students point to or name the emotion on the poster, then justify the choice with specific evidence ([Class Discussion](../elements/class-discussion.md)).
 5. Model the reasoning aloud when students struggle, narrating how word choice or an illustration signals a feeling ([Think-Aloud](../elements/think-aloud.md)).

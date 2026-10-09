@@ -57,7 +57,7 @@ Feedback has among the largest documented effects on achievement, but only when 
 4. Require application: the next draft or task must show movement on the goal, and feedback on the new attempt should acknowledge that movement.
 
 ## Related Strategies
-- [Action-oriented feedback](action-oriented_feedback.md) — reasonable feedback is a scoping discipline applied to action-oriented comments
+- [Action-oriented feedback](action-oriented-feedback.md) — reasonable feedback is a scoping discipline applied to action-oriented comments
 - [5-minute writing conferences](5-minute_writing_conferences.md) — a natural setting for delivering one-focus feedback orally
 - [Achievable micro-goals](achievable_micro-goals.md) — the "Grow" comment functions as a micro-goal students carry forward
 

@@ -44,7 +44,6 @@ The article describes implementing Building Decision Skills inside an elective c
 - [Professional development and schoolwide seminars supporting the ethics curriculum](bds-professional-development-seminars.md)
 - [Define and Apply Ethical Responsibility](define_and_apply_ethical_responsibility.md)
 - [Service Learning](service-learning.md)
-- [Service Learning](service_learning.md)
 
 ## Examples
 -

@@ -23,7 +23,7 @@ Premature solutions undermine the autonomy that fuels intrinsic motivation; supp
 
 ### Context
 #### Requirements
-- Genuinely open-ended listening before any evaluative or advisory response ([Active Listening](../strategies/active_listening.md))
+- Genuinely open-ended listening before any evaluative or advisory response ([Active Listening](active-listening.md))
 - Questions that return ownership to the student ("What have you tried?" "What would help most?")
 - Willingness to accept that the student may want no intervention at all
 - A follow-up structure for co-constructing solutions once the problem is understood ([Coaching](../elements/coaching.md))
@@ -51,14 +51,14 @@ Premature solutions undermine the autonomy that fuels intrinsic motivation; supp
 - Relational trust and help-seeking: learning that asking for support does not mean surrendering control
 
 ### Instructions
-1. **Stop and listen.** Give full attention; do not interrupt with advice, reassurance, or correction ([Active Listening](../strategies/active_listening.md)).
+1. **Stop and listen.** Give full attention; do not interrupt with advice, reassurance, or correction ([Active Listening](active-listening.md)).
 2. **Check understanding.** Reflect back what you heard and ask clarifying questions until the student confirms you understand the problem as *they* see it.
 3. **Ask before advising.** "Do you want ideas, or do you just want me to know?" — let the student set the agenda.
 4. **Co-construct options.** If help is wanted, brainstorm together rather than prescribing ([Collaborative Decision-Making](../elements/collaborative-decision-making.md)); the student should leave owning the plan.
 5. **Follow up.** Check in later on how the chosen approach went ([Check-Ins](../principles/check-ins.md)), reinforcing that the student's judgment is taken seriously.
 
 ## Related Strategies
-- [Active Listening](../strategies/active_listening.md) — the core skill that makes the pause before fixing possible
+- [Active Listening](active-listening.md) — the core skill that makes the pause before fixing possible
 - [Actively Listen to What Students Say](../strategies/actively_listen_to_what_students_say.md) — classroom variant of the same listening discipline
 - [Action Planning](../strategies/action_planning.md) — the structured follow-on once a student has chosen a course of action
 

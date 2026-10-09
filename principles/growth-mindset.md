@@ -125,7 +125,7 @@ Mindset interventions are best understood as small motivational levers, not stan
 
 **[Achievable micro-goals](../strategies/achievable_micro-goals.md)** — Breaking challenging work into short, attainable steps gives learners repeated firsthand evidence that effort changes performance, converting mindset messaging into experienced success.
 
-**[Action-oriented feedback](../strategies/action-oriented_feedback.md)** — Feedback that names a specific next strategy ("try factoring out the common term first") operationalizes growth mindset: it treats the current state as improvable and tells the learner how.
+**[Action-oriented feedback](../strategies/action-oriented-feedback.md)** — Feedback that names a specific next strategy ("try factoring out the common term first") operationalizes growth mindset: it treats the current state as improvable and tells the learner how.
 
 **Brainology (MIND Research Institute)** — Dweck and Blackwell's computer-based curriculum teaching students how the brain forms new connections with practice; the intervention used in Blackwell, Trzesniewski & Dweck (2007), which reversed declining math grades among seventh graders relative to a study-skills control.
 

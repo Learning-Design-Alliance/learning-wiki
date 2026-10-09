@@ -25,7 +25,7 @@ Student voice practices work because they support learners' basic psychological 
 #### Requirements
 - Psychological safety: norms that treat student contributions as legitimate and protect them from ridicule or dismissal
 - Regular, low-stakes structures for expression ([Check-ins](../principles/check-ins.md), reflection sheets, [Class Discussion](../elements/class-discussion.md) with student roles)
-- Support tools for learners who struggle to articulate their thoughts (sentence stems, [Active Listening](active_listening.md) protocols, written or anonymous channels)
+- Support tools for learners who struggle to articulate their thoughts (sentence stems, [Active Listening](active-listening.md) protocols, written or anonymous channels)
 - Instructor follow-through: student input must visibly shape decisions, or the practice becomes performative
 
 #### Constraints
@@ -54,13 +54,13 @@ Student voice practices work because they support learners' basic psychological 
 ### Instructions
 1. **Establish safety first.** Co-create discussion norms with students before asking for vulnerable contributions; model respectful response to every contribution.
 2. **Open with low-stakes structures.** Begin each session with a brief [Check-in](../principles/check-ins.md) or use reflection sheets so sharing becomes routine rather than exceptional.
-3. **Scaffold expression.** Provide sentence stems ("I noticed…", "I'm confused by…", "I need…") and [Active Listening](active_listening.md) norms so students can articulate ideas and respond to peers.
+3. **Scaffold expression.** Provide sentence stems ("I noticed…", "I'm confused by…", "I need…") and [Active Listening](active-listening.md) norms so students can articulate ideas and respond to peers.
 4. **Hand over discussion leadership.** Move from instructor-moderated [Class Discussion](../elements/class-discussion.md) to student-led formats with rotating facilitators, gradually fading instructor control as facilitation competence grows.
 5. **Close the loop.** Publicly connect decisions and instruction to student input ("Several of you asked for…, so today we…") so voice has visible consequence.
 6. **Assess participation formatively.** Track breadth of participation (who speaks, how often) rather than volume, and adjust facilitation to include hesitant voices.
 
 ## Related Strategies
-- [Active Listening](active_listening.md) — the instructor-side skill that makes student contributions feel heard rather than merely collected
+- [Active Listening](active-listening.md) — the instructor-side skill that makes student contributions feel heard rather than merely collected
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — an individualized channel for student voice with students who won't speak in whole-class settings
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured way to give students decision-making authority over their learning
 

@@ -36,7 +36,7 @@ The Platinum Rule operationalizes learner-centeredness: instruction calibrated t
 
 #### Implementation Variability
 - **Diagnostic-first:** begin each course or unit by eliciting student goals and constraints, then adapt
-- **Interactional:** apply in-the-moment during feedback, choosing framing the recipient can use ([Action-oriented feedback](action-oriented_feedback.md) tailored to the learner's current level)
+- **Interactional:** apply in-the-moment during feedback, choosing framing the recipient can use ([Action-oriented feedback](action-oriented-feedback.md) tailored to the learner's current level)
 - **Peer-level:** teach students to apply the rule to each other in [Collaboration](../elements/collaboration.md) and peer review, negotiating how teammates want to work and receive critique
 - **Mentoring/coaching:** mentors ask mentees to define success and preferred support style before structuring the relationship
 
@@ -58,8 +58,8 @@ The Platinum Rule operationalizes learner-centeredness: instruction calibrated t
 5. **Follow up** — Check whether the adjustment worked and revise again; the rule is iterative, not a one-time accommodation.
 
 ## Related Strategies
-- [Active listening](active_listening.md) — the core interactional skill that makes the Platinum Rule possible
-- [Action-oriented feedback](action-oriented_feedback.md) — feedback framed for what the recipient can actually use
+- [Active listening](active-listening.md) — the core interactional skill that makes the Platinum Rule possible
+- [Action-oriented feedback](action-oriented-feedback.md) — feedback framed for what the recipient can actually use
 - [Activating background knowledge](activating_background_knowledge.md) — the diagnostic step of finding out what the learner brings
 
 ## Related Elements

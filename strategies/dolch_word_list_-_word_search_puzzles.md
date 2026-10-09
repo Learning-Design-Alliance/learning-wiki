@@ -58,7 +58,7 @@ The rationale is that automatic recognition of high-frequency words frees workin
 5. Reintroduce the same words in new puzzles across days rather than in one session ([Spaced Repetition](../claims/spaced-repetition-improves-retention.md)).
 
 ## Related Strategies
-- [Flashcard Drill](flashcard_drill.md) — a more direct retrieval-based route to the same automaticity goal
+- [Flashcard Drill](flashcard-drill.md) — a more direct retrieval-based route to the same automaticity goal
 - [Repeated Reading](repeated-reading.md) — builds fluency in connected text where sight words are applied
 - [Word Walls](word-walls.md) — ongoing visual reference reinforcing the same high-frequency vocabulary
 

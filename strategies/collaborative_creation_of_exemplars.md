@@ -62,9 +62,9 @@ The strategy works because comparing multiple worked responses at different qual
 
 ## Related Strategies
 
-- [Gallery Walk](gallery_walk.md) — a natural follow-on where learners apply co-constructed criteria to peers' posted work
-- [Two Stars and a Wish](two_stars_and_a_wish.md) — structured peer feedback that can use the co-constructed criteria as its vocabulary
-- [Rubric Co-Construction](rubric_co-construction.md) — the same criteria-building move applied to formal scoring tools
+- [Gallery Walk](gallery-walk.md) — a natural follow-on where learners apply co-constructed criteria to peers' posted work
+- [Two Stars and a Wish](two-stars-and-a-wish.md) — structured peer feedback that can use the co-constructed criteria as its vocabulary
+- [Rubric Co-Construction](rubric-co-construction.md) — the same criteria-building move applied to formal scoring tools
 - [Structure reflection after collaboration for both students and teachers using prompts, exit tickets, journals, rubrics, plus-and-delta, and gallery walks](structured-reflection-after-collaboration.md)
 
 ## Related Elements

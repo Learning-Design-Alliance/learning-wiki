@@ -58,7 +58,7 @@ Bias awareness supports equitable learning environments, but the evidence base d
 
 ## Related Strategies
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — the curricular and linguistic surface expression of the same underlying bias work
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — inclusive practice that values diverse entry points, reducing stereotype threat conditions
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — inclusive practice that values diverse entry points, reducing stereotype threat conditions
 - [Clear Structure](../principles/clear-structure.md) — transparent criteria are the primary structural countermeasure to evaluative bias
 
 ## Examples

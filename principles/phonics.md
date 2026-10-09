@@ -151,7 +151,7 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 
 ## Examples
 
-- [Word Study](../strategies/word_study.md) — pattern-based work on spelling and word structure
+- [Word Study](../strategies/word-study.md) — pattern-based work on spelling and word structure
 - Adult decoding lessons focused on high-value sound-symbol correspondences and transfer to authentic reading tasks
 - Guided reading of short adult-appropriate texts that reuse taught patterns
 - Spelling and proofreading practice tied to taught phonics patterns can reinforce transfer into writing
@@ -338,7 +338,7 @@ Explicit phonics instruction is appropriate when word-level reading is the bottl
 
 ## Examples
 <!- - Links to elements or patterns that apply this principle - ->
-- [Word Study](../strategies/word_study.md) — pattern-based work on spelling and word structure
+- [Word Study](../strategies/word-study.md) — pattern-based work on spelling and word structure
 - Adult decoding lessons focused on high-value sound-symbol correspondences and transfer to authentic reading tasks
 - Guided reading of short adult-appropriate texts that reuse taught patterns
 - Spelling and proofreading practice tied to taught phonics patterns can reinforce transfer into writing

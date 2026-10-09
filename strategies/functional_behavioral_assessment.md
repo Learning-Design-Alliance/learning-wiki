@@ -62,7 +62,7 @@ FBA applies behavioral assessment logic to instruction: interventions matched to
 ## Related Strategies
 
 - [Direct Instruction](../patterns/direct-instruction.md) — reducing escape-motivated behavior often requires restructuring instruction so tasks are within reach
-- [Check-In/Check-Out](../strategies/check-in_check-out.md) — a Tier 2 support that can serve attention-maintained behavior when informed by FBA findings
+- [Check-In/Check-Out](check-incheck-out.md) — a Tier 2 support that can serve attention-maintained behavior when informed by FBA findings
 - [Select individualized FBA-based intervention components matched to each student's assessed behavior function](fba-individualized-intervention-selection.md)
 
 ## Examples

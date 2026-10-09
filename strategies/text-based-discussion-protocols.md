@@ -62,7 +62,7 @@ Structured discussion improves comprehension and reasoning more reliably than re
 ## Related Strategies
 
 - [Reciprocal Teaching](reciprocal_teaching.md) — a role-rotation protocol specifically for reading comprehension
-- [Socratic Seminar](socratic_seminar.md) — the most widely used whole-class variant
+- [Socratic Seminar](socratic-seminar.md) — the most widely used whole-class variant
 - [Accountable Talk](accountable_talk.md) — a talk-moves framework from the Institute for Learning
 - [Structure online small group work to maximize meaningful exchanges, assign conversational roles, ensure question-and-answer opportunity, and provide instructor feedback](structure-online-group-interactions-roles-feedback.md)
 

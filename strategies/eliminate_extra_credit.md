@@ -54,7 +54,7 @@ Grades function best as transparent signals of mastery; optional add-on tasks co
 5. Monitor grade distributions across demographic groups after implementation to verify the change is narrowing, not widening, gaps.
 
 ## Related Strategies
-- [Standards-Based Grading](standards-based_grading.md) — the broader grading philosophy this strategy typically accompanies
+- [Standards-Based Grading](standards-based-grading.md) — the broader grading philosophy this strategy typically accompanies
 - [Eliminate Group Grades](eliminate_group_grades.md) — a companion move toward grades that reflect individual learning
 
 ## Examples

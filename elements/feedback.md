@@ -148,7 +148,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 
 ## Examples
 
-**[Action-Oriented Feedback](../strategies/action-oriented_feedback.md)** — Comments phrased as a next action ("add a counterexample here") rather than a judgment ("weak argument"), making the revision path explicit.
+**[Action-Oriented Feedback](../strategies/action-oriented-feedback.md)** — Comments phrased as a next action ("add a counterexample here") rather than a judgment ("weak argument"), making the revision path explicit.
 
 **[5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md)** — Brief one-on-one conferences delivering targeted feedback on a single writing focus, keeping the loop short and actionable.
 

@@ -65,7 +65,7 @@ Self-regulation is not a fixed trait but a cyclical process of forethought, perf
 ## Related Strategies
 - [Scaffolding](../principles/cognitive-load-management.md) — temporary external regulation that is faded as students internalize control
 - [Formative Assessment](../patterns/formative-assessment.md) — feedback loops that teach students to evaluate their own work
-- [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) — forethought phase of the self-regulation cycle applied to content
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — forethought phase of the self-regulation cycle applied to content
 - [Class Discussion](../elements/class-discussion.md) — a social context for practicing turn-taking, impulse control, and perspective management
 
 ## Examples

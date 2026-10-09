@@ -62,7 +62,7 @@ Reflection converts experience into transferable knowledge by forcing learners t
 
 - [3-2-1 Reflection](../strategies/3-2-1_reflection.md) — a lightweight structured protocol for end-of-session reflection
 - [Action Planning](../strategies/action_planning.md) — the forward-looking half of the reflection cycle
-- [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) — reflection before learning serves the same retrieval function
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — reflection before learning serves the same retrieval function
 - [Engineer pauses, multimodal anchors, and improved prosody into AI-generated audio revision tools](engineer-pauses-anchors-prosody-ai-audio.md)
 
 ## Examples

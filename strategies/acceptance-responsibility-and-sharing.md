@@ -53,12 +53,12 @@ The strategy operationalizes research on forgiveness and emotional disclosure: s
 1. **Process emotions first.** Have each party privately name what they felt and what happened, using journaling or [Individual Reflection](../strategies/individual_reflection.md) before any joint conversation.
 2. **Accept the event.** Guide learners to acknowledge what occurred without minimizing or catastrophizing, including accepting that some outcomes cannot be changed.
 3. **Take responsibility.** Ask each learner to identify their own contribution — actions, tone, omissions — stated without excuses or counter-accusations.
-4. **Share.** Structure a direct conversation (or written exchange) using "I" statements: what each person felt and experienced, with each party receiving the other's feelings without interruption. [Active listening](../strategies/active_listening.md) norms and a talking-piece or turn protocol help.
+4. **Share.** Structure a direct conversation (or written exchange) using "I" statements: what each person felt and experienced, with each party receiving the other's feelings without interruption. [Active listening](active-listening.md) norms and a talking-piece or turn protocol help.
 5. **Close or release.** If resolution occurs, agree on what changes going forward; if not, support learners in accepting the outcome and articulating what they learned.
 
 ## Related Strategies
-- [Restorative Questions](../strategies/restorative_questions.md) — a structured prompt set that elicits the acceptance and responsibility steps
-- [Peer Mediation](../strategies/peer_mediation.md) — a facilitated format for the sharing step when direct conversation stalls
+- [Restorative Questions](restorative-questions.md) — a structured prompt set that elicits the acceptance and responsibility steps
+- [Peer Mediation](peer-mediation.md) — a facilitated format for the sharing step when direct conversation stalls
 - [Conflict De-escalation](../strategies/conflict_de-escalation.md) — the preceding phase that makes this strategy possible
 
 ## Examples

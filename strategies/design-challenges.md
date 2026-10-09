@@ -60,8 +60,8 @@ Design challenges sit at the productive end of inquiry-based learning: they work
 6. **Extract and share principles** — teams present designs and articulate generalizable lessons; instructor consolidates target concepts
 
 ## Related Strategies
-- [Case-Based Learning](case-based_learning.md) — analyzing existing designs complements creating new ones
-- [Project-Based Learning](project-based_learning.md) — design challenges are a common project type within it
+- [Case-Based Learning](case-based-learning.md) — analyzing existing designs complements creating new ones
+- [Project-Based Learning](project-based-learning.md) — design challenges are a common project type within it
 - [Peer Review](../elements/peer-review.md) — structured critique of design rationales sharpens criteria use
 
 ## Examples

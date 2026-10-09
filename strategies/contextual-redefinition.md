@@ -59,7 +59,7 @@ The strategy leverages inference from context while protecting against the well-
 6. Re-encounter the words in the target text and schedule brief spaced reviews over subsequent sessions [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+S].
 
 ## Related Strategies
-- [Frayer Model](frayer_model.md) — extends a confirmed definition into a four-quadrant concept analysis
+- [Frayer Model](frayer-model.md) — extends a confirmed definition into a four-quadrant concept analysis
 - [Pretesting](pretesting.md) — shares the guess-then-feedback mechanism
 - [Morphological Analysis](morphological-analysis.md) — complements contextual inference with word-part analysis
 

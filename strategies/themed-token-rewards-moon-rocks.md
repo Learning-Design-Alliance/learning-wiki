@@ -39,7 +39,6 @@ Galaxy Math embeds motivation in its space theme: "students can earn 'moon rocks
 ## Related Strategies
 
 - [Token Economies](token-economies.md)
-- [Token Economy](token_economy.md)
 - [Token Economy](token-economy.md)
 - [Mystery Motivator](mystery-motivator.md)
 - [Positive Reinforcement Schedules](positive-reinforcement-schedules.md)

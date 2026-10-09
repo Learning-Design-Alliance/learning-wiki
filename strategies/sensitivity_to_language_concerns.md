@@ -55,7 +55,7 @@ Language proficiency interacts directly with cognitive load: unfamiliar vocabula
 1. Survey learners' language backgrounds and proficiency levels at the start of instruction; record home languages and prior schooling.
 2. Audit upcoming materials for unnecessary linguistic load; rewrite for [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) and break dense passages into [Chunking](../principles/chunking.md) units.
 3. Identify the academic language demands of the lesson (key terms, sentence structures) and teach them explicitly alongside content.
-4. Activate learners' prior knowledge, inviting connections to home-language concepts [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) [Activation improves learning.](../claims/activation-improves-learning.md) [+M].
+4. Activate learners' prior knowledge, inviting connections to home-language concepts [Activating Prior Knowledge](activating-prior-knowledge.md) [Activation improves learning.](../claims/activation-improves-learning.md) [+M].
 5. Provide multiple representations — visuals, demonstrations, [Analogies](../elements/analogies.md) — so comprehension does not hinge on one linguistic formulation.
 6. Allow structured use of home languages for drafting and peer discussion; require target-language output at the production stage.
 7. Assess content knowledge with linguistically accessible tasks, or accommodate by separating language proficiency from content mastery ([Accommodations](../elements/accommodations.md)).

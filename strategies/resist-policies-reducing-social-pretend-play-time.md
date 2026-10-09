@@ -41,7 +41,6 @@ The article recommends that educators protect time for social pretend play, whic
 ## Related Strategies
 
 - [Play Based Learning](play-based-learning.md)
-- [Free Play](free_play.md)
 - [Free Play](free-play.md)
 
 ## Examples

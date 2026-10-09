@@ -39,7 +39,6 @@ The brief discusses how measurement team members can work together to complete m
 ## Related Strategies
 
 - [Cooperative Learning](cooperative-learning.md)
-- [Cooperative Learning](cooperative_learning.md)
 - [Establishing Group Roles](establishing-group-roles.md)
 
 ## Examples

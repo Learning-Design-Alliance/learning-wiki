@@ -59,7 +59,7 @@ Strengths-based regulation works because it raises self-efficacy: students who e
 
 ## Related Strategies
 - [achievable_micro-goals](achievable_micro-goals.md) — breaking regulation goals into small wins builds the same self-efficacy that strengths provide
-- [active_listening](active_listening.md) — the primary tool for accurately identifying a student's strengths and emotional triggers
+- [active_listening](active-listening.md) — the primary tool for accurately identifying a student's strengths and emotional triggers
 - [action_planning](action_planning.md) — structures the strength-to-strategy mapping into a concrete, reviewable plan
 
 ## Examples

@@ -55,7 +55,7 @@ Peer-Assisted Learning Strategies and Peer-Assisted Literacy Strategies are "pee
 
 ## Examples
 
-- [Reciprocal Peer Tutoring](../strategies/reciprocal_peer_tutoring.md)
+- [Reciprocal Peer Tutoring](../strategies/reciprocal-peer-tutoring.md)
 - [Reciprocal Teaching: Peer Assisted Learning Strategies (PALS)](../strategies/reciprocal-teaching-peer-assisted-learning-strategies-pals.md)
 - [PALS_Peer Assisted Learning Strategies](../strategies/pals_peer-assisted-learning-strategies.md)
 

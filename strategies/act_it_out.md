@@ -61,7 +61,7 @@ Enactment converts abstract or social knowledge into concrete, embodied experien
 
 ## Related Strategies
 - [Acting-Role-Play](acting-role-play.md) — the broader family of dramatic techniques; Act It Out is the targeted, problem-focused variant
-- [Active Listening](active_listening.md) — a skill frequently rehearsed through enactment and debriefed as its core content
+- [Active Listening](active-listening.md) — a skill frequently rehearsed through enactment and debriefed as its core content
 - [Check-Ins](../principles/check-ins.md) — establishing the group trust that role-play requires before emotionally loaded scenarios
 
 ## Examples

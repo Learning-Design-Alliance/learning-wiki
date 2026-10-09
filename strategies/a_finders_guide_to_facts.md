@@ -58,7 +58,7 @@ The guide works by interrupting the automatic acceptance response: readers who p
 5. Follow with a contrasting-cases activity: real, satirical, and fabricated stories sorted side by side, so learners abstract the discriminating features [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ## Related Strategies
-- [Case-Based Learning](../strategies/case-based_learning.md) — real news stories serve as authentic cases for evaluation practice
+- [Case-Based Learning](case-based-learning.md) — real news stories serve as authentic cases for evaluation practice
 - [3-Source Rule](../strategies/3-source_rule.md) — a complementary verification habit: cross-checking claims across independent sources
 
 ## Examples

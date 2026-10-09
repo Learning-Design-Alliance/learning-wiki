@@ -23,7 +23,7 @@ Retakes and revisions operationalize [Assessment for Learning](../principles/ass
 
 ### Context
 #### Requirements
-- Specific, actionable feedback tied to the original performance ([Action-oriented feedback](action-oriented_feedback.md) or [Feedback](../elements/assessment.md) commentary)
+- Specific, actionable feedback tied to the original performance ([Action-oriented feedback](action-oriented-feedback.md) or [Feedback](../elements/assessment.md) commentary)
 - A required remediation step between attempts — re-study, targeted [Practice](../elements/practice.md), or error analysis — not just a re-test
 - A clear grade policy: replacement, averaging, or best-of, communicated in advance
 - Parallel forms or revised prompts to prevent memorization of answers on retake

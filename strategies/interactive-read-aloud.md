@@ -44,7 +44,7 @@ Interactive read alouds work because listening comprehension draws on the same l
 - Emergent and early readers (preK–3), for whom listening comprehension outpaces decoding [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+S]
 - Multilingual learners, who can build vocabulary and discourse knowledge orally before print
 - Older striving readers, who can access age-appropriate ideas through read alouds without being confined to decodable texts
-- Students with limited background knowledge, when the read aloud is paired with [activating prior knowledge](../strategies/activating_prior_knowledge.md) [Activation improves learning.](../claims/activation-improves-learning.md) [+M]
+- Students with limited background knowledge, when the read aloud is paired with [activating prior knowledge](activating-prior-knowledge.md) [Activation improves learning.](../claims/activation-improves-learning.md) [+M]
 
 ### Target Learning Goals
 - Vocabulary acquisition through contextualized exposure to rich language
@@ -62,7 +62,7 @@ Interactive read alouds work because listening comprehension draws on the same l
 ## Related Strategies
 - [Act It Out](../strategies/act_it_out.md) — dramatizing scenes from the read aloud deepens comprehension through embodiment
 - [Accountable Talk](../strategies/accountable_talk.md) — structures the student discussion that makes the read aloud interactive rather than passive
-- [Activating Prior Knowledge](../strategies/activating_prior_knowledge.md) — the pre-reading move that connects new text to existing knowledge
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — the pre-reading move that connects new text to existing knowledge
 
 ## Examples
 - **Fountas & Pinnell Classroom Interactive Read-Aloud Collection** ([heinemann.com](https://www.heinemann.com/fountasandpinnell)) — published text sets with planned discussion prompts for K–6 classrooms

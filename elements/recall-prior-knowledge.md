@@ -69,7 +69,7 @@ Activating prior knowledge improves comprehension and retention because new info
 Merrill's First Principles also place activation first ("activation of existing knowledge"), though no dedicated pattern page exists yet.
 
 ## Examples
-- **[Activating Prior Knowledge](../strategies/activating_prior_knowledge.md)** — a general strategy of opening questions, brainstorming, or quick-writes before new instruction.
+- **[Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)** — a general strategy of opening questions, brainstorming, or quick-writes before new instruction.
 - **[Activate Background Knowledge](../strategies/activate_background_knowledge.md)** — a UDL-aligned variant that deliberately surfaces diverse learner experiences as assets.
 - **K-W-L charts** — learners record what they *Know*, what they *Want* to know, and later what they *Learned*; the K and W columns are the activation component.
 - **[Khan Academy](https://www.khanacademy.org)** — unit introductions and "review" prerequisites links prompt recall of earlier topics before new lessons.

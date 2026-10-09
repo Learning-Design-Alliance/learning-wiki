@@ -58,8 +58,8 @@ Skimming functions as a form of advance organizer: a brief exposure to the struc
 5. Assign the thorough reading, asking learners to confirm or revise their predictions ([Annotating](../principles/annotating.md)).
 
 ## Related Strategies
-- [Activating Prior Knowledge](activating_prior_knowledge.md) — skimming is a text-based route to the same goal
-- [Question Generation](question_generation.md) — predictions from a skim become questions the thorough reading answers
+- [Activating Prior Knowledge](activating-prior-knowledge.md) — skimming is a text-based route to the same goal
+- [Question Generation](question-generation.md) — predictions from a skim become questions the thorough reading answers
 
 ## Related Elements
 - [Activation](activation.md) — the skim primes relevant schema before detailed processing

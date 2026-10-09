@@ -44,7 +44,7 @@ Within dialogic reading, the adult progressively reduces their own reading and i
 ## Related Strategies
 
 - [Dialogic Reading](dialogic_reading.md)
-- [Shared Reading](shared_reading.md)
+- [Shared Reading](shared-reading.md)
 
 ## Examples
 -

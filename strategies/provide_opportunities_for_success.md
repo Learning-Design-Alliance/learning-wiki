@@ -60,7 +60,7 @@ Early success builds efficacy beliefs that sustain motivation through later diff
 
 ## Related Strategies
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — the task-decomposition mechanism that raises success frequency
-- [Action-Oriented Feedback](../strategies/action-oriented_feedback.md) — the feedback style that converts attempts into earned successes
+- [Action-Oriented Feedback](action-oriented-feedback.md) — the feedback style that converts attempts into earned successes
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — ensures the first task builds on what learners can already do
 
 ## Examples

@@ -59,7 +59,7 @@ Novices cannot reliably distinguish deep structure from surface features, so ung
 6. Connect the pattern back to the big idea explicitly, using [Analogies](../elements/analogies.md) where a familiar domain shares the same structure.
 
 ## Related Strategies
-- [Headings and Highlight](headings_and_highlight_strategy.md) — the concrete text-marking implementation of the signaling component
+- [Headings and Highlight](headings-and-highlight-strategy-variant.md) — the concrete text-marking implementation of the signaling component
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — gives learners a framework onto which highlighted patterns can attach
 - [Chunking](../principles/chunking.md) — grouping related features so the highlighted structure fits in working memory
 

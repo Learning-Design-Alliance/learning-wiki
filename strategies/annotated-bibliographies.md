@@ -61,7 +61,7 @@ Annotated bibliographies work because they force generative engagement with text
 
 ## Related Strategies
 - [Literature Reviews](../strategies/literature_reviews.md) — the annotated bibliography is a scaffolded precursor; annotations become the raw material for synthesis
-- [Jigsaw Reading](../strategies/jigsaw_reading.md) — distributes source reading across a group, with annotations as the sharing mechanism
+- [Jigsaw Reading](jigsaw-reading.md) — distributes source reading across a group, with annotations as the sharing mechanism
 - [Citation Chaining](../strategies/citation_chaining.md) — a discovery method learners can apply while building the bibliography
 
 ## Examples
