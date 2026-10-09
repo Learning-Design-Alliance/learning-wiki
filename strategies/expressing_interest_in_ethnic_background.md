@@ -55,12 +55,12 @@ This strategy enacts culturally responsive teaching by making students' identiti
 1. Model first: the teacher researches and shares their own ethnic background, including name etymology, demonstrating the depth and tone expected
 2. Provide structured inquiry: students investigate their backgrounds through family interviews, name research, or tradition analysis, with [Direct Instruction](../elements/direct-instruction.md) on what culture encompasses (values, beliefs, social behaviors — not only visible customs)
 3. Facilitate structured sharing through [Class Discussion](../elements/class-discussion.md) and [Collaboration](../elements/collaboration.md), using protocols that let students choose what to share and pass on personal items
-4. Connect to content: explicitly link students' backgrounds to upcoming topics, activating background knowledge as an instructional asset [Activating Background Knowledge](../strategies/activating_background_knowledge.md)
+4. Connect to content: explicitly link students' backgrounds to upcoming topics, activating background knowledge as an instructional asset [Activating Background Knowledge](activate_background_knowledge.md)
 5. Sustain the practice: learn and use correct name pronunciations daily; revisit cultural connections throughout the term rather than treating this as a one-time unit
 
 ## Related Strategies
 
-- [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — treats students' cultural knowledge as a resource for new learning
+- [Activating Background Knowledge](activate_background_knowledge.md) — treats students' cultural knowledge as a resource for new learning
 - [Building Empathy](../principles/building-empathy.md) — the perspective-taking this strategy cultivates among peers
 - [Check-ins](../principles/check-ins.md) — ongoing low-stakes opportunities to signal interest in students as individuals
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)

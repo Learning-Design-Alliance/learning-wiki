@@ -47,7 +47,6 @@ A set of value-added models created for the Pittsburgh Public Schools and the Pi
 
 ## Related Elements
 
-- [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](pittsburgh-value-added-models-2012-13.md)
 - [Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools](pittsburgh-value-added-models-teacher-school-contributions.md)
 
 ## Examples

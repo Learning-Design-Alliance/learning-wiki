@@ -37,7 +37,7 @@ A set of six standards (three for writing, three for mathematics) translating th
 - intellectual quality of classroom assignments in writing and mathematics
 
 ### Affordances
-- [Authentic Intellectual Work Framework Newmann](../theories/authentic-intellectual-work-framework-newmann.md)
+- [Authentic Intellectual Work Framework Newmann](../theories/authentic-intellectual-work-three-criteria.md)
 
 ## Claims
 

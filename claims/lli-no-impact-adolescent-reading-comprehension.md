@@ -45,7 +45,6 @@ Findings from the randomized controlled trial of LLI in Oakland secondary school
 ## Related Claims
 - [LLI had a negative impact on secondary students' mastery of English language arts/literacy standards](lli-negative-impact-ela-standards-mastery.md) — related
 - [In an RCT in Oakland secondary schools, LLI had no impact on students' reading comprehension](lli-secondary-no-impact-reading-comprehension.md) — possibly the same claim (merge candidate)
-- [LLI had a negative impact on secondary students' mastery of English language arts/literacy standards](lli-secondary-negative-impact-ela-standards.md) — related
 - [Secondary students who received more LLI or were pulled out of other classes were particularly negatively affected, possibly from missing grade-level content](lli-more-dosage-pullout-negatively-affected.md) — related
 - [Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity](lli-secondary-implementation-challenges-variation.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related

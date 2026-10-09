@@ -3,4 +3,7 @@ mkdocs-material>=9.5
 # observations/*.yaml, and lint.py's check_observations runs before mkdocs.
 PyYAML>=6.0
 # The site search index (scripts/build_site.sh); the extended build handles more languages.
-pagefind[extended]==1.3.0
+# 1.3.0 dropped results for words at index-chunk boundaries ("retrieval practice" found 3 pages).
+# The wrapper does not pin its binary, so both are pinned.
+pagefind[extended]==1.5.2
+pagefind-bin-extended==1.5.2

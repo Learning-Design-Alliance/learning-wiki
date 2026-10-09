@@ -60,7 +60,7 @@ Teacher expectations are among the most powerful and self-fulfilling forces in t
 
 ## Related Strategies
 - [Scaffolding in PBL](scaffolding-in-pbl.md) — the support side of the equation; high expectations without scaffolding is neglect
-- [Critique Protocols](critique-protocols.md) — the routine that makes "excellence" concrete and attainable through revision
+- [Critique Protocols](critique-protocol.md) — the routine that makes "excellence" concrete and attainable through revision
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md) — grounds high expectations in students' identities and communities
 
 ## Related Elements

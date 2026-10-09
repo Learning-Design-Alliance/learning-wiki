@@ -61,7 +61,7 @@ Hand-raising lets a small minority of confident students dominate discourse whil
 ## Related Strategies
 - [Wait Time](wait-time.md) — the pause that makes cold calling a thinking technique rather than a gotcha
 - [Think-Pair-Share](../patterns/think-pair-share.md) — rehearsal structure that de-risks individual response
-- [Cold Calling](cold-calling.md) — the selection technique at the core of this strategy
+- [Cold Calling](cold-call.md) — the selection technique at the core of this strategy
 - [Classroom Response Systems](classroom-response-systems.md) — anonymous whole-class alternative achieving the same universal accountability
 
 ## Examples

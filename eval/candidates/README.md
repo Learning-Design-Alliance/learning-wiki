@@ -34,7 +34,8 @@ So the extraction proposes and a second pass decides. Rationale: `scripts/candid
 
    `new` and `join` stay open and are asked again on each run.
 3. **Promote and update (agents, as in the conversion waves).** `settle_candidates.py --report` lists:
-   - **promoted clusters**: two independent sources, or one claim whose evidence is a quant-synthesis or review
+   - **promoted clusters**: two independent sources (different articles, no author in common, not the same
+     publishing organisation by the publisher's own web domain; maintainer, 2026-10-10), or one claim whose evidence is a quant-synthesis or review
      coded q3 or above. Each is written as a canonical page in the conditional-model format
      (`principle-pattern-authoring.md`), from the cluster's claims and, where those are not enough, its cached
      articles;

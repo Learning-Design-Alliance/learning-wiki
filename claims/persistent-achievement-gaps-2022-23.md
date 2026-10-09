@@ -43,7 +43,6 @@ The brief tracked "the gap in achievement between the COVID year student group c
 
 
 ## Related Claims
-- [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-of-pre-pandemic-trends.md) — related
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
 - [The average student needs an estimated 4.5 additional months of schooling to catch up in math](math-catchup-4-point-5-months.md) — a narrower finding that bears on this claim
 - [Progress toward pandemic academic recovery stalled in the 2022-23 school year despite continued learning](pandemic-recovery-stalled-2022-23.md) — related

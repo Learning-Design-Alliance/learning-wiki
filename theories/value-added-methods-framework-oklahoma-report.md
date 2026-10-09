@@ -48,7 +48,6 @@ The report treats value-added methods as an organizing framework for measuring e
 ## Related Theories
 
 - [Three-method framework for accounting for co-teaching in value-added models](three-method-framework-co-teaching-value-added.md)
-- [Three-method framework for accounting for co-teaching in value-added models](three-methods-co-teaching-value-added-framework.md)
 
 ## Examples
 

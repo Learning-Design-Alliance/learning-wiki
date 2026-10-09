@@ -43,7 +43,6 @@ The report's key findings state that over the past decade "youth with an IEP hav
 
 
 ## Related Claims
-- [Among students with an IEP, youth with emotional disturbance or an intellectual disability experienced more positive changes over the past decade than youth in other disability groups](emotional-disturbance-intellectual-disability-more-positive-changes.md) — related
 - [Among students with an IEP, youth with emotional disturbance or an intellectual disability experienced more positive changes over the past decade than youth in other disability groups](emotional-disturbance-intellectual-disability-most-positive-change.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
 - [Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions](iep-youth-increased-school-engagement-2003-2012.md) — possibly the same claim (merge candidate)

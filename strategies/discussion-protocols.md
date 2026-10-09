@@ -83,7 +83,7 @@ Protocols work because they convert discussion from a social performance into a 
 - [Cooperative Learning](../patterns/cooperative-learning.md) — small-group structures with complementary role and accountability mechanisms
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the most widely used lightweight protocol
 - [Jigsaw](jigsaw.md) — a protocol that distributes expertise across group members
-- [Cold Calling](cold-calling.md) — an alternative participation structure that trades protocol predictability for randomized accountability
+- [Cold Calling](cold-call.md) — an alternative participation structure that trades protocol predictability for randomized accountability
 
 ## Examples
 - **Think-Pair-Share** (Lyman, 1981) — the most widely used protocol; individual think time, pair rehearsal, whole-class share, used across K-12 and higher education.
@@ -159,7 +159,7 @@ Protocols convert discussion from a social-performance activity into a cognitive
 - [Debate](debate.md) — a competitive protocol variant that sharpens argument construction
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the most widely used lightweight protocol
 - [Jigsaw](jigsaw.md) — a protocol that distributes expertise across group members
-- [Cold Calling](cold-calling.md) — an alternative participation structure that trades protocol predictability for randomized accountability
+- [Cold Calling](cold-call.md) — an alternative participation structure that trades protocol predictability for randomized accountability
 
 ## Examples
 - **Socratic seminars in ELA classrooms** — students discuss a shared text in an inner circle while outer-circle peers track evidence use, then swap; widely used in International Baccalaureate and Expeditionary Learning (EL Education) schools ([EL Education protocols](https://eleducation.org))

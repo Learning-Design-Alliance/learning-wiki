@@ -61,7 +61,7 @@ Culturally responsive practice improves engagement and achievement when it conne
 
 ## Related Strategies
 
-- [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — the general mechanism by which culturally responsive content connections improve comprehension
+- [Activating Background Knowledge](activate_background_knowledge.md) — the general mechanism by which culturally responsive content connections improve comprehension
 - [Accessible Syntax](../strategies/accessible_syntax.md) — language-level responsiveness for multilingual learners
 - [Actively Listen to What Students Say](../strategies/actively_listen_to_what_students_say.md) — the relational practice that surfaces the cultural knowledge responsiveness depends on
 - [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)

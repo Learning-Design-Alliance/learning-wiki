@@ -26,7 +26,7 @@ Text marking converts reading from passive reception into generative processing:
 - A clear marking purpose tied to the learning goal (find the claim, trace the argument, locate evidence)
 - A limited, taught symbol code or annotation scheme — learners must be shown how to mark before being asked to do it ([Modeling](../elements/demonstration.md) of an annotated text helps)
 - Texts complex enough to reward marking; marking trivial texts adds effort without benefit
-- A follow-up use for the marks (discussion, writing, [Summarization](summarization.md)) so annotation serves a downstream task
+- A follow-up use for the marks (discussion, writing, [Summarization](summarizing.md)) so annotation serves a downstream task
 
 #### Constraints
 - Unguided highlighting is weak: learners over-mark, and the motor act of highlighting creates an illusion of mastery without deeper processing [-S]
@@ -60,7 +60,7 @@ Text marking converts reading from passive reception into generative processing:
 
 ## Related Strategies
 - [Annotating](../principles/annotating.md) — the broader element; text marking is a structured, code-governed form of it
-- [Summarization](summarization.md) — marks provide the raw material for a summary
+- [Summarization](summarizing.md) — marks provide the raw material for a summary
 - [Close Reading](close-reading.md) — repeated-read protocols that often embed text marking
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — includes predicting and clarifying moves that marking can support
 

@@ -45,4 +45,4 @@ The appendix states the study's second analytic aim: "We also tracked the gap in
 ## Related Claims
 - [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — related
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — possibly the same claim (merge candidate)
-- [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](pre-covid-covid-score-gap-widened-2023-24.md) — related
+- [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](pre-covid-covid-gap-widened-2023-24.md) — related

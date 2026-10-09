@@ -57,7 +57,7 @@ Multiplicative double counting makes the coordination of composite units explici
 
 ## Related Strategies
 - [Counting-based arithmetic strategies](counting-based-arithmetic-strategies.md) — the unitary-counting precursor that double counting is designed to supersede
-- [Concrete-representational-abstract sequencing](concrete-representational-abstract-sequencing.md) — the fading trajectory PGBM-style activities follow
+- [Concrete-representational-abstract sequencing](concrete-representational-abstract-sequence.md) — the fading trajectory PGBM-style activities follow
 
 ## Related Elements
 - [Practice](../elements/practice.md) — coordination of three units develops only through repeated, varied counting activity

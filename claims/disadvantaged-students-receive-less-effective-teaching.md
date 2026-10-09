@@ -3,6 +3,7 @@ type: claim
 title: Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades
 description: Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades
 id: disadvantaged-students-receive-less-effective-teaching
+aliases: [disadvantaged-students-less-effective-teaching]
 status: draft
 generated:
   by: "process:wiki-ingest"
@@ -25,8 +26,11 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
+
 `q3 i?` Based on data from 29 districts in grades 4-8 and two states in grades 4 and 5, disadvantaged students received less-effective teaching in a given year than other students in those grades. [→ Jeffrey Max 2014](#jeffrey-max-2014)
 `q3 i?` The average disparity in teaching effectiveness was equivalent to about four weeks of learning for reading and two weeks for math. [→ Jeffrey Max 2014](#jeffrey-max-2014)
+
+`q2 i?` Based on data from 29 districts and two states, disadvantaged students received less-effective teaching in a given year than other students in the same grades. [→ Jeffrey Max 2014](#jeffrey-max-2014)
 
 ## Evidence
 
@@ -40,12 +44,25 @@ The brief reports a synthesis of three IES studies using value-added measures ac
 
 > "Based on data from 29 districts in grades 4-8 and two states in grades 4 and 5, disadvantaged students received less-effective teaching in a given year than other students in those grades. The average disparity in teaching effectiveness was equivalent to about four weeks of learning for reading and two weeks for math."
 
+<!-- merged 2026-10-09 from disadvantaged-students-less-effective-teaching: that page's entry for this study, which differed from the one above, kept verbatim.
+### Jeffrey Max 2014
+
+Jeffrey Max, Steven Glazerman. (2014). Do Disadvantaged Students Get Less Effective Teaching? Key Findings from Recent Institute of Education Sciences Studies (Evaluation Brief). Washington, DC: Institute of Education Sciences. https://ies.ed.gov/ncee/
+
+`q2 · i?` · `associational · r?`
+
+The brief summarizes recent IES studies using value-added measures of teacher effectiveness across 29 districts and two states, reporting that "disadvantaged students received less-effective teaching in a given year than other students in those grades." No effect size is printed.
+
+> "Based on data from 29 districts in grades 4-8 and two states in grades 4 and 5, disadvantaged students received less-effective teaching in a given year than other students in those grades."
+-->
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](access-effective-teaching-varies-across-districts.md) — a narrower finding that bears on this claim
-- [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-less-effective-teaching.md) — possibly the same claim (merge candidate)
 - [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](disadvantaged-students-poorer-access-effective-teachers.md) — possibly the same claim (merge candidate)
 - [Access to effective teaching for disadvantaged students varied across districts, from no statistically significant difference to a disparity equivalent to 13 weeks of learning](district-variation-teaching-disparity.md) — related
 - [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](teaching-disparity-weeks-of-learning.md) — a narrower finding that bears on this claim

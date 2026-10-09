@@ -41,13 +41,12 @@ The facilitation protocol assigns the facilitator the 'primary responsibility...
 - [Plan engagement by defining objectives, aligned questions, engagement type, and piloted materials](plan-engagement-objectives-questions-type-pilot.md)
 - [Record sessions with consent, data-protection communication, disclosure norms, and detailed notetaking](recording-consent-and-data-protection-tips.md)
 - [Notetaking practices: verbatim statements, contextual notes, and 24-hour review](structured-notetaking-verbatim-context-review.md)
-- [Interactive Read-Alouds](interactive-read-alouds.md)
+- [Interactive Read-Alouds](interactive-read-aloud.md)
 - [Facilitating Discourse (Online)](facilitating-discourse-online.md)
 - [Instructor Presence In Discussions](instructor-presence-in-discussions.md)
-- [Socratic Seminars](socratic_seminars.md)
+- [Socratic Seminars](socratic-seminar.md)
 - [Critical Friends Protocol](critical-friends-protocol.md)
 - [Discussing Race With Students](discussing_race_with_students.md)
-- [Socratic Seminar](socratic-seminar.md)
 
 ## Examples
 -

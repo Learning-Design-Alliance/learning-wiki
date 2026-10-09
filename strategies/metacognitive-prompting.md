@@ -61,7 +61,7 @@ Metacognitive prompting works by making self-regulatory processes explicit at th
 ## Related Strategies
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight structured reflection routine that functions as an end-of-task evaluation prompt
 - [Think-Aloud Modeling](think-aloud-modeling.md) — instructor modeling of the very monitoring moves the prompts ask learners to perform
-- [Self-Explanation Prompting](self-explanation-prompting.md) — a closely related prompt type focused on explaining reasoning rather than regulating it
+- [Self-Explanation Prompting](self-explanation-prompts.md) — a closely related prompt type focused on explaining reasoning rather than regulating it
 
 ## Examples
 - **Reciprocal Teaching** (Palincsar & Brown) — students take turns prompting each other to summarize, question, clarify, and predict while reading; the prompts are the intervention.

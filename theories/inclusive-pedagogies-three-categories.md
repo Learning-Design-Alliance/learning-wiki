@@ -43,7 +43,6 @@ The report organizes inclusive computing pedagogy into three categories. As prin
 ## Related Theories
 
 - [A three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-framework-three-circles.md)
-- [Three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-three-circle-framework.md)
 
 ## Examples
 

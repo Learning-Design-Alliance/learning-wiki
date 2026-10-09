@@ -42,8 +42,7 @@ Post-implementation debrief sessions in the RCS pilot yielded iteration learning
 ## Related Strategies
 
 - [Prepare the Ground](prepare_the_ground.md)
-- [Socratic Seminars](socratic_seminars.md)
-- [Socratic Seminar](socratic-seminar.md)
+- [Socratic Seminars](socratic-seminar.md)
 
 ## Examples
 -

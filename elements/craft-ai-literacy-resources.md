@@ -38,7 +38,7 @@ CRAFT stands for "Classroom-Ready Resources About AI For Teaching" and is descri
 - AI literacy through classroom-ready resources
 
 ### Affordances
-- [Ai Literacy Understand Use Evaluate](../theories/ai-literacy-understand-use-evaluate.md)
+- [Ai Literacy Understand Use Evaluate](../theories/ai-literacy-framework-digital-promise.md)
 
 ## Related Elements
 - 

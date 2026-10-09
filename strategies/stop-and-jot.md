@@ -79,7 +79,7 @@ Stop and Jot converts passive listening into intermittent [Active Learning](../p
 
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — same pause structure with oral instead of written processing
-- [Exit Tickets](exit-tickets.md) — the same jot moved to the end of a lesson
+- [Exit Tickets](exit-ticket.md) — the same jot moved to the end of a lesson
 - [Interactive Note-Taking](interactive-note-taking.md) — Stop and Jot is one structured prompt type within a broader note-taking system
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — opening jots often serve this function before new content
 - [Identify 2-3 intentional pause points for collecting and reflecting on artifacts](identify-two-three-portfolio-pause-points.md)
@@ -154,7 +154,7 @@ Stop and Jot enacts [Active Learning](../principles/active-learning.md) by inser
 ## Related Strategies
 
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the oral counterpart; Stop and Jot adds a written record and individual accountability
-- [Exit Tickets](exit-tickets.md) — the end-of-lesson variant, trading in-the-moment diagnosis for end-of-class summary
+- [Exit Tickets](exit-ticket.md) — the end-of-lesson variant, trading in-the-moment diagnosis for end-of-class summary
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — opening jots often serve this function before new content
 - [Identify 2-3 intentional pause points for collecting and reflecting on artifacts](identify-two-three-portfolio-pause-points.md)
 

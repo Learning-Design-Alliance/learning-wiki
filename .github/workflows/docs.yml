@@ -49,18 +49,29 @@ jobs:
       - name: Build docs site
         run: scripts/build_site.sh
 
-      # Reports (doesn't fail the build) files left on gh-pages by keep_files: true
-      # for pages that have since been renamed or deleted, so they're easy to spot
-      # and clean up instead of accumulating silently.
-      - name: Check for orphaned gh-pages files
+      # Reports the files the previous deploy left on gh-pages that this build no
+      # longer produces (renamed or deleted pages, the old lunr index). The deploy
+      # below removes them; this says what went.
+      - name: Report files this deploy removes from gh-pages
         run: python3 scripts/find_orphaned_pages.py | tee -a "$GITHUB_STEP_SUMMARY"
 
-      # Not `mkdocs gh-deploy` — that force-replaces the whole gh-pages branch history,
-      # which would wipe out the pr-preview/ subfolders that pr-preview.yml deploys there.
-      # keep_files: true leaves anything not part of this build (i.e. pr-preview/*) alone.
+      # The open PR previews live on gh-pages under pr-preview/ (pr-preview.yml) and
+      # are not part of this build, so they are copied into it before the deploy
+      # replaces the published tree.
+      - name: Carry the open PR previews over
+        run: |
+          if git ls-tree -d --name-only origin/gh-pages pr-preview >/dev/null 2>&1 \
+             && [ -n "$(git ls-tree -d --name-only origin/gh-pages pr-preview)" ]; then
+            git archive origin/gh-pages pr-preview | tar -x -C site
+          fi
+
+      # keep_files: false replaces the published tree with this build. It was true,
+      # to keep the previews, and so kept every page ever renamed or deleted as well:
+      # the published site only grew (2026-10-10). Not `mkdocs gh-deploy`, which
+      # force-replaces the branch history.
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@329bcc8f12caed2cefe5a5b80781499a6f3b361b  # v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
-          keep_files: true
+          keep_files: false

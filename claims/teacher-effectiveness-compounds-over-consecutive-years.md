@@ -49,10 +49,9 @@ This finding is the empirical backbone of the argument for growth (or "value-add
 - [District achievement data showed performance dropping off substantially in the middle grades relative to national norms](achievement-drops-in-middle-grades.md) — related
 - [Summer reading loss disproportionately widens academic gaps for low-income children](summer-reading-loss-widens-gaps.md) — related
 - [Teacher expectation bias predicted Dutch secondary students' performance up to five years later, after controls for prior achievement, IQ and motivation, in one large correlational cohort study](teacher-expectation-effects-on-achievement.md) — related
-- [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-less-effective-teaching.md) — related
+- [Disadvantaged students in grades 4-8 receive less effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — related
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](vam-omitting-background-lowers-disadvantaged-district-ratings.md) — related
 - [Early socioeconomic math performance gaps grow over time, producing substantial differences by fourth grade](early-math-gaps-grow-by-fourth-grade.md) — related
 - [Accurate teacher-student data links are required when high-stakes teacher evaluation decisions include student achievement growth](accurate-teacher-student-links-high-stakes-evaluation.md) — related
-- [Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades](disadvantaged-students-receive-less-effective-teaching.md) — related
 - [The paper examines consequences for teachers versus students of classifying and misclassifying teachers as effective or ineffective](value-added-misclassification-consequences-teachers-students.md) — related
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](systemic-challenges-gaps-isolation-shifting-skills.md) — related

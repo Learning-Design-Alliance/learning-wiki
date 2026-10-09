@@ -47,5 +47,4 @@ The brief's key findings report this subgroup pattern from the Oakland RCT, with
 - [LLI had no impact on secondary students' reading comprehension in the Oakland RCT](lli-no-impact-adolescent-reading-comprehension.md) — related
 - [Students pulled out of other classes to receive LLI were particularly negatively affected](lli-pull-out-students-particularly-negatively-affected.md) — a narrower finding that bears on this claim
 - [Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity](lli-secondary-implementation-challenges-variation.md) — related
-- [LLI had a negative impact on secondary students' mastery of English language arts/literacy standards](lli-secondary-negative-impact-ela-standards.md) — related
 - [In an RCT in Oakland secondary schools, LLI had no impact on students' reading comprehension](lli-secondary-no-impact-reading-comprehension.md) — related

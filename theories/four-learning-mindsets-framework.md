@@ -51,7 +51,6 @@ The synthesis names four learning mindsets that are particularly important for s
 - [Growth Mindset Framing](../strategies/growth-mindset-framing.md)
 - [Express Confidence in Learners](../strategies/express_confidence_in_learners.md)
 - [Promote a Growth Mindset](../strategies/promote_a_growth_mindset.md)
-- [Promoting a Growth Mindset](../strategies/promoting_a_growth_mindset.md)
 - [Responding with \"Yet\"](../strategies/responding_with_yet.md)
 
 ## Key Sources

@@ -50,7 +50,6 @@ Systematic review finding: of 12 eligible studies, only three met WWC group desi
 - [The WWC rates multiple UCSMP courses as having potentially positive effects on mathematics achievement for secondary students](wwc-rating-multiple-ucsmp-courses-potentially-positive.md) — related
 - [The WWC rated DreamBox Learning as having potentially positive effects on mathematics achievement with a small extent of evidence](dreambox-potentially-positive-effects-small-evidence.md) — related
 - [UCSMP Algebra has potentially positive effects on the algebra domain, with mixed findings across two studies and a small extent of evidence](ucsmp-algebra-potentially-positive-algebra-domain.md) — related
-- [UCSMP Algebra has potentially positive effects on general mathematics achievement for secondary students, with a small extent of evidence](ucsmp-algebra-potentially-positive-general-mathematics-achievement.md) — related
 - [The evidence base for UCSMP is small, with no studies meeting WWC group design standards without reservations](ucsmp-small-evidence-base-no-unreserved-studies.md) — related
 - [Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews](wwc-attrition-standard-shapes-study-design.md) — related
 - [Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base](educators-engage-researchers-via-what-works-clearinghouse.md) — related

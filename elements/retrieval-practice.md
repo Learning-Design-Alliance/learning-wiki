@@ -37,7 +37,7 @@ Retrieval practice is the element in which learners recall information from memo
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
-- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]
+- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-retention.md) [+S]
 - [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [+M]
 - [Retrieval Fails Without Encoding](../claims/pretesting-enhances-learning.md) [+M]
 - [Retrieval Practice Improves Transfer](../claims/retrieval-practice-improves-transfer.md) [+M]

@@ -75,7 +75,7 @@ Wait time converts questioning from rapid recall into genuine thinking time. Row
 
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — institutionalizes wait time by giving every learner a processing partner before public response
-- [Cold Calling](cold-calling.md) — pairs with wait time so that calling on non-volunteers happens after adequate thinking time, not instead of it
+- [Cold Calling](cold-call.md) — pairs with wait time so that calling on non-volunteers happens after adequate thinking time, not instead of it
 - [Questioning Techniques](questioning-techniques.md) — wait time is the temporal half of effective questioning; question quality is the other half
 - [Questioning](../strategies/questioning.md) — wait time is the pacing discipline that makes well-designed questions effective
 
@@ -147,7 +147,7 @@ Wait time works because responding to a question — especially a higher-order o
 
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — structures the wait time into paired rehearsal, lowering the social cost of answering
-- [Cold Calling](../strategies/cold-calling.md) — pairs naturally with wait time so that called-on students have had time to prepare an answer
+- [Cold Calling](cold-call.md) — pairs naturally with wait time so that called-on students have had time to prepare an answer
 - [Questioning](../strategies/questioning.md) — wait time is the pacing discipline that makes well-designed questions effective
 
 ## Related Elements

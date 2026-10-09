@@ -62,7 +62,7 @@ Scaffolded questioning operationalizes [Scaffolding](../principles/scaffolding.m
 
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the opening questions of a scaffolded sequence serve this function
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the instructor's contingent response to a wrong answer is feedback embedded in dialogue
-- [Cold Calling](cold-calling.md) — an accountability mechanism often combined with scaffolded questioning, provided support follows the call
+- [Cold Calling](cold-call.md) — an accountability mechanism often combined with scaffolded questioning, provided support follows the call
 - [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](zpd-masked-rl-content-sequencing.md)
 - [Use questioning and counter-suggestions (contrepreuve) to produce disequilibration and support cognitive growth](questioning-contrepreuve-disequilibration.md)
 - [Use an observational checklist to scaffold support levels: open-ended questioning for children needing less support, explicit instruction for children needing more](checklist-based-scaffolding-differentiated-support.md)

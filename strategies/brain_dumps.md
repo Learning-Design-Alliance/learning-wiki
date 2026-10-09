@@ -61,7 +61,7 @@ Brain dumps enact [Retrieval Practice](../principles/retrieval-practice.md) at n
 
 - [Spaced Retrieval](spaced-retrieval.md) — distributing brain dumps over time multiplies the retention benefit
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a pre-instruction brain dump is one concrete way to do this
-- [Exit Tickets](exit-tickets.md) — a brief, structured post-lesson variant of the same retrieval mechanism
+- [Exit Tickets](exit-ticket.md) — a brief, structured post-lesson variant of the same retrieval mechanism
 - [Retrieval Practice With Graphic Organizers](retrieval_practice_with_graphic_organizers.md)
 
 ## Related Elements

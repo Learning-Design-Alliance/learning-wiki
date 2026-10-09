@@ -60,7 +60,7 @@ Random calling distributes participation across the whole class and keeps every 
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the standard preparation structure that makes random calling low-threat
 - [Wait Time](wait-time.md) — the pause that converts nomination into thinking
-- [Cold Calling](cold-calling.md) — the broader family of non-voluntary questioning techniques
+- [Cold Calling](cold-call.md) — the broader family of non-voluntary questioning techniques
 
 ## Examples
 - **Wheel of Names** ([wheelofnames.com](https://wheelofnames.com)) — a free spinner teachers use to draw names publicly and transparently.

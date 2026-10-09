@@ -75,7 +75,7 @@ TWPS converts passive question-and-answer routines into structured [active learn
 
 ## Related Strategies
 - [Jigsaw](jigsaw.md) — a complementary cooperative structure; TWPS handles single-question discussion, jigsaw handles distributed content expertise
-- [Cold Calling](cold-calling.md) — an alternative participation routine; TWPS achieves similar accountability with lower social risk
+- [Cold Calling](cold-call.md) — an alternative participation routine; TWPS achieves similar accountability with lower social risk
 - [Wait Time](wait-time.md) — the silent thinking stage operationalizes extended wait time within a larger routine
 
 ## Examples

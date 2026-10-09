@@ -51,7 +51,7 @@ The Platinum Rule operationalizes learner-centeredness: instruction calibrated t
 - Metacognitive: learning to diagnose others' needs — a core skill for peer teaching, mentoring, and collaborative work
 
 ### Instructions
-1. **Elicit** — Ask the learner what they are trying to achieve, what has worked for them before, and what support they want ([Activating background knowledge](activating_background_knowledge.md)).
+1. **Elicit** — Ask the learner what they are trying to achieve, what has worked for them before, and what support they want ([Activating background knowledge](activate_background_knowledge.md)).
 2. **Listen and verify** — Paraphrase what you heard; check your interpretation rather than assuming it.
 3. **Diagnose need vs. want** — Weigh the learner's stated preference against evidence of what will produce learning; when they conflict, explain the reasoning rather than silently overriding.
 4. **Adapt** — Adjust pacing, framing, feedback style, or task design to the individual (e.g., process-level feedback for a struggling novice [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]).
@@ -60,7 +60,7 @@ The Platinum Rule operationalizes learner-centeredness: instruction calibrated t
 ## Related Strategies
 - [Active listening](active-listening.md) — the core interactional skill that makes the Platinum Rule possible
 - [Action-oriented feedback](action-oriented-feedback.md) — feedback framed for what the recipient can actually use
-- [Activating background knowledge](activating_background_knowledge.md) — the diagnostic step of finding out what the learner brings
+- [Activating background knowledge](activate_background_knowledge.md) — the diagnostic step of finding out what the learner brings
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — a sustained relationship in which responsiveness to individual needs is the mechanism

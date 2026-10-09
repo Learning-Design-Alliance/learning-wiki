@@ -39,7 +39,7 @@ The article recommends that programs train and structure home visitors' goal-set
 
 ## Related Strategies
 
-- [Home Visiting](home-visiting.md)
+- [Home Visiting](home-visits.md)
 - [Set growth goals collaboratively so they balance meaningfulness and realism](collaborative-growth-goal-setting-balancing-meaningful-realistic.md)
 
 ## Examples

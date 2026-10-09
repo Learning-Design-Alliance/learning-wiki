@@ -93,7 +93,7 @@ Record: **unit, criterion and check form â†’ instruction and practice received â
 
 ## Elements and limits
 
-[Formative assessment](../elements/formative-assessment.md), [feedback](../elements/feedback.md), [reassessment](../elements/reassessment.md), [adaptive mastery learning](../elements/adaptive-mastery-learning.md), [rubric](../elements/rubric.md) and [practice](../elements/practice.md).
+[Formative assessment](../elements/formative-assessment.md), [feedback](../elements/feedback.md), [reassessment](../elements/reassessment.md), [adaptive mastery learning](../elements/adaptive-mastery-learning.md), [rubric](../elements/rubrics.md) and [practice](../elements/practice.md).
 
 This pattern is scoped to cumulative units with a definable check. Performances that develop continuously without a single threshold, open-ended projects, and programme-level competency certification need other configurations and evidence. The evidence above concerns programmes and averages; whether this page's diagnostic branches improve decisions for individual learners, and what cut score or attempt limit serves a given goal, remain to be tested with learners.
 

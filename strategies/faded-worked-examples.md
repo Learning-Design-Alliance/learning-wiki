@@ -60,7 +60,7 @@ Fading combines the working-memory benefits of [Worked Examples](../principles/w
 
 ## Related Strategies
 - [Use Worked Examples](use_worked_examples.md) — the non-faded parent strategy; fading is its dynamic extension
-- [Self-Explanation Prompting](self-explanation-prompting.md) — the standard companion, converting example study into generative processing
+- [Self-Explanation Prompting](self-explanation-prompts.md) — the standard companion, converting example study into generative processing
 - [Interleaving](interleaving.md) — faded sequences can be interleaved across problem types to build discrimination
 
 ## Examples

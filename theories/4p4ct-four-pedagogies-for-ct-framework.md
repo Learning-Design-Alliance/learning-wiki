@@ -46,8 +46,7 @@ The 4P4CT (Four Pedagogies for CT) framework is a conceptual framework for teach
 
 - [Taxonomy of pedagogical approaches in scripts of computational processes: tutoring vs. simulation, each with two sub-categories](ct-script-pedagogy-taxonomy-tutoring-simulation.md)
 - [Distinguishing computing, computer science, computational thinking, and programming](computing-family-term-distinctions.md)
-- [Three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-three-circle-framework.md)
-- [A three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-framework-three-circles.md)
+- [Three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-framework-three-circles.md)
 - [Three powerful ways of using computers that integrate with academic subject matter: data work, automation, and modeling systems](three-powerful-uses-of-computers-ct.md)
 
 ## Examples

@@ -82,7 +82,7 @@ Peer feedback works when it functions as formative assessment in the hands of le
 - [Collaborative learning](../patterns/collaborative-learning.md) — protocols structure the peer interaction that makes collaboration productive
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the principle protocols operationalize: feedback must specify what to do next
 - [Rubric-Based Self-Assessment](rubric-based-self-assessment.md) — the same criteria applied to one's own work; peer review builds toward self-assessment
-- [Critique Protocols](critique-protocols.md) — closely related routines (e.g., tuning protocols) for group examination of a single work
+- [Critique Protocols](critique-protocol.md) — closely related routines (e.g., tuning protocols) for group examination of a single work
 
 ## Examples
 - **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu/) — web system where students first calibrate on instructor-scored exemplars, then review peers' writing in large STEM courses.
@@ -155,7 +155,7 @@ Peer feedback works when it functions as [assessment for learning](../principles
 ## Related Strategies
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the principle protocols operationalize: feedback must specify what to do next
 - [Rubric-Based Self-Assessment](rubric-based-self-assessment.md) — the same criteria applied to one's own work; peer review builds toward self-assessment
-- [Critique Protocols](critique-protocols.md) — closely related routines (e.g., tuning protocols) for group examination of a single work
+- [Critique Protocols](critique-protocol.md) — closely related routines (e.g., tuning protocols) for group examination of a single work
 
 ## Examples
 - **Critical Friends Groups tuning protocols** ([National School Reform Faculty](https://www.nsrfharmony.org)) — staged presentation, clarifying questions, and warm/cool feedback on work in progress.

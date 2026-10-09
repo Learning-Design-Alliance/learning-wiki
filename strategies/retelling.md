@@ -64,7 +64,7 @@ Retelling is a generative task: reconstructing a text from memory requires the l
 ## Related Strategies
 
 - [Dialogic Reading](../elements/dialogic-reading.md) — the adult-prompting counterpart for pre-readers; PEER sequences and CROWD prompts scaffold early retells
-- [Summarization](../strategies/summarization.md) — retelling's expository sibling; summary requires selection and compression, retell requires completeness
+- [Summarization](summarizing.md) — retelling's expository sibling; summary requires selection and compression, retell requires completeness
 - [Think-Aloud](../elements/think-aloud.md) — during reading, whereas retelling is after reading; both externalize comprehension
 - [Story retelling with familiar picture books to practice sequencing](story-retelling-sequencing-familiar-books.md)
 

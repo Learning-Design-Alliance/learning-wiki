@@ -44,7 +44,7 @@ Self-testing is the element in which learners quiz themselves or otherwise attem
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
 - [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]
 - [The same quizzing or concept-mapping activity produces more learning when done without viewing the material, as retrieval, than while viewing it](../claims/closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) [+M]
-- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]
+- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-retention.md) [+S]
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [+W]
 - [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+M]
 - [Pretesting enhances learning](../claims/pretesting-enhances-learning.md) [+M]

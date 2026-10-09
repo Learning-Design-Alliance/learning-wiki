@@ -59,7 +59,7 @@ A well-presented problem engages learners in authentic problem-solving by making
 ## Related Elements
 - [Case Study](case-study.md) — a related element that presents an already-analyzed situation; problem presentation differs in that the resolution is unknown and learner-driven
 - [Inquiry-Based Learning](inquiry-based-learning.md) — the questioning process the presented problem is meant to trigger
-- [Problem Scenarios](problem-scenarios.md) — the narrative framing device often used to deliver the problem
+- [Problem Scenarios](problem-scenario.md) — the narrative framing device often used to deliver the problem
 - [Challenge Identification](challenge-identification.md) — the analytic step learners perform on the presented problem
 - [Coaching](coaching.md) — the facilitation element that keeps problem analysis productive
 

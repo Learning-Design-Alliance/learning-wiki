@@ -173,8 +173,10 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   frameworks become components of one page) or a research-method page, or drops it. The old
   `artifact` outcome is no longer given, and its candidates are asked again. Promotion to a new canonical page is
   an agent's job, checked by `scripts/check_design_page.py`. **Do not re-enable
-  `--direct-pages`.** The independence rule for a promotion cluster (same author over several
-  years is a research agenda, not two sources) is still open.
+  `--direct-pages`.** A cluster promotes on two **independent** sources: different articles
+  with no author in common and not published by the same organisation (maintainer,
+  2026-10-10: one author or organisation across years is a research agenda, not
+  confirmation; `settle_candidates.independent`), or on one synthesis at q3 or above.
 - **A fresh container needs `pip install -r requirements-eval.txt`** (without pypdf most PDFs fail).
 - **After a container restart the proxy port changes**; a process started before it keeps the
   old `HTTPS_PROXY` and every request fails. Compare `/proc/<pid>/environ` with the current
@@ -243,8 +245,7 @@ refers to. The parts still open as of 2026-10-09: the sweep of older pages onto 
 conventions (`priority_worklist.py`, `check_evidence_markers.py`), the citation backlogs
 (`check_citations.py` and its `--collisions`, `--metadata`, `--titles`, `--variants` modes;
 `citation_worklist.py` for the book backlog), and the maintainer decisions listed in the
-2026-10-09 history entry (a kind for products and programmes, the independence rule, a
-research-methods kind).
+2026-10-09 history entry; the kinds and the independence rule were settled 2026-10-10.
 
 ---
 

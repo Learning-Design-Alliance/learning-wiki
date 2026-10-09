@@ -60,7 +60,7 @@ Identity mapping converts tacit cultural assumptions into articulable knowledge,
 
 ## Related Strategies
 
-- [Activating Background Knowledge](activating_background_knowledge.md) — the same activation logic applied to the educator's own prior experience before interpreting learners
+- [Activating Background Knowledge](activate_background_knowledge.md) — the same activation logic applied to the educator's own prior experience before interpreting learners
 - [Active Listening](active-listening.md) — the dyad protocol depends on listening without evaluation
 - [Conduct empathy interviews to understand user experiences with technology](empathy-interviews-for-ai-policy-development.md)
 

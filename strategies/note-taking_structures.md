@@ -59,7 +59,7 @@ Structured notes work through two mechanisms: they reduce the transcription burd
 ## Related Strategies
 
 - [Annotating](../principles/annotating.md) — a text-based cousin: marking and marginalia serve the same organize-and-generate function on source documents
-- [Summarization](summarization.md) — the generative act structured notes should prompt at review time
+- [Summarization](summarizing.md) — the generative act structured notes should prompt at review time
 - [Retrieval Practice](retrieval-practice.md) — Cornell cue columns convert notes into self-test prompts
 - [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](coaching-framework-discussion-guide-grid-questions.md)
 - [Notetaking practices: verbatim statements, contextual notes, and 24-hour review](structured-notetaking-verbatim-context-review.md)

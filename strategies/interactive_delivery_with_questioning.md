@@ -60,7 +60,7 @@ Questioning converts passive reception into [Active Learning](../principles/acti
 6. Close by asking students to summarize the key idea in their own words, converting the exchange into a [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) opportunity.
 
 ## Related Strategies
-- [Cold Calling](cold-calling.md) — the participation-distribution technique that makes whole-class questioning equitable
+- [Cold Calling](cold-call.md) — the participation-distribution technique that makes whole-class questioning equitable
 - [Think-Pair-Share](../patterns/think-pair-share.md) — structures individual reasoning before public questioning
 - [Wait Time](wait-time.md) — the pause discipline that determines response quality
 - [Peer Instruction](peer-instruction.md) — a fully specified questioning protocol built around conceptual questions and peer debate

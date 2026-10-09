@@ -59,7 +59,7 @@ Response cards are a low-cost implementation of [Active Learning](../principles/
 
 ## Related Strategies
 - [Choral Responding](choral-responding.md) — the verbal sibling of response cards; same whole-group response logic with spoken answers
-- [Cold Calling](cold-calling.md) — complementary technique that guarantees individual accountability alongside group display
+- [Cold Calling](cold-call.md) — complementary technique that guarantees individual accountability alongside group display
 - [Formative Assessment Routines](formative-assessment-routines.md) — response cards as one data-gathering tool within a broader assessment cycle
 
 ## Examples

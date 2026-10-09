@@ -37,14 +37,13 @@ The report treats Bayesian hypothesis testing as one of the approaches addressed
 
 ### Claims
 
-- [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](../claims/bayesian-factorial-lower-mde-than-classical.md) [+W]
+- [Bayesian analysis yields substantially lower minimum detectable effects than classical methods for complex factorial experiments](../claims/bayesian-factorial-lower-mde.md) [+W]
 - [Statistical procedures that correct for multiple testing typically reduce the statistical power of hypothesis tests in impact evaluations](../claims/multiple-testing-corrections-reduce-power.md) [+W]
 - [Researchers disagree about using multiple testing procedures and the trade-off between type I error and statistical power (type II error)](../claims/researcher-disagreement-multiple-testing-tradeoff.md) [+W]
 
 ## Related Theories
 
-- [A Bayesian approach to factorial design using hierarchical priors and partial pooling](bayesian-factorial-design-hierarchical-partial-pooling.md)
-- [Bayesian approach to factorial design using hierarchical priors and partial pooling](bayesian-factorial-design-hierarchical-priors.md)
+- [A Bayesian approach to factorial design using hierarchical priors and partial pooling](bayesian-factorial-design-hierarchical-priors.md)
 - [Bayesian adaptive approach to randomized policy evaluations for estimating heterogeneous treatment effects](bayesian-adaptive-policy-evaluation-heterogeneous-effects.md)
 - [Bayesian adaptive randomized program evaluation framework](bayesian-adaptive-program-evaluation-framework.md)
 - [BASIE framework: Bayesian interpretation of impact estimates as an alternative to null hypothesis significance testing](basie-bayesian-interpretation-of-estimates-framework.md)

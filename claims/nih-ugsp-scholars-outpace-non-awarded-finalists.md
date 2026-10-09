@@ -44,8 +44,7 @@ The Mathematica evaluation compared scholarship awardees against a built-in comp
 
 ## Related Claims
 - [Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers](loan-repayment-participation-longer-research-stays.md) — related
-- [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](nih-ugsp-operating-as-intended.md) — related
+- [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](nih-ugsp-operating-as-intended-career-milestones.md) — related
 - [NIH Undergraduate Scholarship Program scholars reach biomedical research career milestones at substantially higher rates than non-awarded finalists](nih-scholars-higher-biomedical-research-rates-than-finalists.md) — possibly the same claim (merge candidate)
-- [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](nih-ugsp-operating-as-intended-career-milestones.md) — a broader claim this one bears on
 - [NIH spends millions of dollars annually on scholarships for disadvantaged undergraduate science students](nih-spends-millions-annually-ugsp-scholarships.md) — related
 - [Eligibility for NIH loan repayment is associated with higher recruitment success of biomedical researchers](loan-repayment-eligibility-higher-recruitment-success.md) — related

@@ -44,7 +44,6 @@ The article organizes the policy problem of co-teaching in value-added models as
 
 - [Three-method framework for accounting for co-teaching in value-added models](three-method-framework-co-teaching-value-added.md)
 - [Four options for accounting for co-teaching in value-added models](four-options-co-teaching-value-added.md)
-- [Three-method framework for accounting for co-teaching in value-added models](three-methods-co-teaching-value-added-framework.md)
 
 ## Examples
 

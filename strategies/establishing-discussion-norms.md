@@ -59,7 +59,7 @@ Discussion quality depends on psychological safety and clear participation struc
 
 ## Related Strategies
 - [Active Listening](active-listening.md) — the individual skill that most discussion norms operationalize
-- [Establishing Group Roles](establishing-group-roles.md) — role assignment as a structural enforcement of norms
+- [Establishing Group Roles](establish-group-roles.md) — role assignment as a structural enforcement of norms
 - [Classroom Community Building](classroom-community-building.md) — the broader relational work norms contribute to
 
 ## Examples

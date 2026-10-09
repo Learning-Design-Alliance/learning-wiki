@@ -41,7 +41,6 @@ The webinar provides printable block images of motion and trigger blocks so youn
 
 - [Provide Manipulatives (Processing Speed)](provide-manipulatives-processing-speed.md)
 - [Provide Manipulatives](provide_manipulatives.md)
-- [Providing Manipulatives](providing_manipulatives.md)
 
 ## Examples
 -

@@ -59,7 +59,7 @@ Modeling works because observation of a competent model provides a template for 
 
 ## Related Strategies
 - [Gradual release of responsibility](gradual-release-of-responsibility.md) — the "I do, we do, you do" arc that modeling initiates
-- [Self-explanation prompting](self-explanation-prompting.md) — converts observed models into generative learner processing
+- [Self-explanation prompting](self-explanation-prompts.md) — converts observed models into generative learner processing
 
 ## Examples
 - **Reciprocal Teaching** (Palincsar & Brown) — teachers model predicting, questioning, clarifying, and summarizing while reading, then transfer each strategy to student-led groups; a canonical think-aloud intervention with strong comprehension effects.

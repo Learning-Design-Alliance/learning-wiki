@@ -62,7 +62,7 @@ Travel journals work because they force elaborative encoding: translating experi
 ## Related Strategies
 - [Learning Logs](learning-logs.md) — a leaner, more frequent variant focused on a single prompt per session
 - [Field Journals](field-journals.md) — the discipline-specific ancestor used in natural science and art education
-- [Exit Tickets](exit-tickets.md) — a single-session snapshot that can feed into the journal's longer arc
+- [Exit Tickets](exit-ticket.md) — a single-session snapshot that can feed into the journal's longer arc
 
 ## Examples
 - **Study-abroad programs** commonly require travel journals combining cultural observation sketches with reflective prose; structured prompts about cultural assumptions turn sightseeing into intercultural learning [~M]

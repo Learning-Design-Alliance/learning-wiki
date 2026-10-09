@@ -39,7 +39,7 @@ MAP Growth is NWEA's assessment product whose nationwide score data underpins th
 
 ## Claims
 
-- [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](../claims/catch-up-requires-additional-months-reading-math.md) [+W]
+- [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](../claims/months-of-schooling-needed-to-catch-up-2023-24.md) [+W]
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](../claims/growth-2023-24-fell-short-pre-pandemic-trends.md) [+W]
 - [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](../claims/pre-covid-covid-gap-widened-2023-24.md) [+W]
 

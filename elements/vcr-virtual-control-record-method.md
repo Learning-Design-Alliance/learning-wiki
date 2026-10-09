@@ -41,7 +41,6 @@ CREDO's quasi-experimental design constructs a "virtual twin" for each charter s
 ## Related Elements
 
 - [CREDO Virtual Control Record (VCR) methodology](credo-virtual-control-record-method.md)
-- [CREDO Virtual Control Record (VCR) methodology](credo-virtual-control-record-methodology.md)
 - [Virtual Control Record (VCR) matched-comparison methodology for charter growth evaluation](vcr-matched-comparison-method-ri-charter.md)
 
 ## Examples

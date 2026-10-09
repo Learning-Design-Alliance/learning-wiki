@@ -72,7 +72,7 @@ The pattern is especially useful when material is conceptually dense or when nov
 
 ### Claims
 #### Supporting
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M]
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M]
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M]
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 #### Contradicting

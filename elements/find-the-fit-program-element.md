@@ -39,7 +39,7 @@ Find the Fit is an enhanced college-advising intervention evaluated in the Upwar
 ## Claims
 
 - [Find the Fit led to some changes in advising within Upward Bound and in students' actions related to enrolling in a more selective college](../claims/find-the-fit-changed-upward-bound-advising-practices.md) [+W]
-- [Find the Fit had no impact on the importance students placed on academic quality in choosing a college](../claims/find-the-fit-no-impact-importance-academic-quality-college-choice.md) [~W]
+- [Find the Fit had no impact on the importance students placed on academic quality in choosing a college](../claims/find-the-fit-no-impact-importance-academic-quality.md) [~W]
 - [Find the Fit led Upward Bound students to apply to more-selective colleges](../claims/find-the-fit-led-students-to-apply-to-more-selective-colleges.md) [+M]
 - [Find the Fit's selectivity shift came with no higher out-of-pocket cost and no increase in dropping out or transferring down](../claims/find-the-fit-no-negative-consequences-selectivity.md) [+M]
 - [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](../claims/find-the-fit-increased-four-or-more-college-applications.md) [+M]

@@ -62,7 +62,7 @@ Reflection works because it forces [Self-Explanation](../elements/self-explanati
 - [Self-Explanation](../elements/self-explanation.md) — the micro-mechanism inside reflection; explaining *why* an answer or action was correct drives the conceptual gain
 - [Journaling](journaling.md) — the most common individual reflection format
 - [Debriefing](debriefing.md) — structured group reflection after simulations or experiential activities
-- [Exit Tickets](exit-tickets.md) — brief, low-stakes end-of-class reflection that also yields formative data
+- [Exit Tickets](exit-ticket.md) — brief, low-stakes end-of-class reflection that also yields formative data
 - [Implement Connect Science through a staged professional development sequence with coaching and reflective practice](connect-science-staged-pd-sequence.md)
 
 ## Examples

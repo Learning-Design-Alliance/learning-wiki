@@ -54,7 +54,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]
-- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-long-term-retention.md) [+S]
+- [Retrieval Practice Improves Long Term Retention](../claims/retrieval-practice-improves-retention.md) [+S]
 - [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](../claims/repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) [+M]
 - [Learners Misjudge Retrieval Benefit](../claims/learners-misjudge-retrieval-benefit.md) [+M]
 - [Spaced Retrieval Improves Retention](../claims/spaced-retrieval-improves-retention.md) [+M]

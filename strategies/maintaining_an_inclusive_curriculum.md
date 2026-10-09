@@ -36,7 +36,7 @@ Inclusive curriculum works through relevance and belonging: when learners see th
 
 #### Implementation Variability
 - **Content-level:** diversify readings, cases, and examples (e.g., [Case Study](../elements/case-study.md) selections drawn from multiple regions and traditions)
-- **Pedagogy-level:** incorporate students' funds of knowledge as legitimate course content through [Class Discussion](../elements/class-discussion.md) and [Activating Background Knowledge](../strategies/activating_background_knowledge.md) routines
+- **Pedagogy-level:** incorporate students' funds of knowledge as legitimate course content through [Class Discussion](../elements/class-discussion.md) and [Activating Background Knowledge](activate_background_knowledge.md) routines
 - **Assessment-level:** offer choice of topics or contexts so learners can connect tasks to their own communities
 - **Language-level:** audit terminology and symbols for bias ([Address Biases in the Use of Language and Symbols](../strategies/address_biases_in_the_use_of_language_and_symbols.md))
 

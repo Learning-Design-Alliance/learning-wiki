@@ -61,7 +61,7 @@ Discussion quality depends less on the topic than on the interactional rules gov
 - [Accountable Talk](accountable_talk.md) — a specific, well-researched norm system for academically productive discussion
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a talk structure that enforces participation norms mechanically
 - [Socratic Seminar](socratic-seminar.md) — a discussion format whose effectiveness depends on pre-taught norms
-- [Establishing Group Roles](establishing-group-roles.md) — role assignment as an alternative norm-enforcement mechanism
+- [Establishing Group Roles](establish-group-roles.md) — role assignment as an alternative norm-enforcement mechanism
 
 ## Examples
 - **Accountable Talk (Institute for Learning, University of Pittsburgh)** — a published norm framework organized around accountability to the learning community, accurate knowledge, and rigorous reasoning: [https://ifl.pitt.edu](https://ifl.pitt.edu)

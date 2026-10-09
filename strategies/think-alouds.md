@@ -60,7 +60,7 @@ Think-alouds are a form of cognitive modeling: they convert tacit comprehension 
 5. Debrief: name the strategies used and discuss when each applies, supporting transfer ([Articulation](../elements/articulation.md)).
 
 ## Related Strategies
-- [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — the connection-making moves modeled in think-alouds enact this strategy directly
+- [Activating Background Knowledge](activate_background_knowledge.md) — the connection-making moves modeled in think-alouds enact this strategy directly
 - Reciprocal Teaching — a group-based extension in which students lead the think-aloud themselves
 
 ## Examples

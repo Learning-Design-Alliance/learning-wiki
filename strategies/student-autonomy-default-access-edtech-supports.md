@@ -40,7 +40,7 @@ The report recommends having student-facing options available so students can ch
 ## Related Strategies
 
 - [Easy-Access Educational Tools](easy-access_educational_tools.md)
-- [Providing Easy-Access Educational Tools](providing_easy-access_educational_tools.md)
+- [Providing Easy-Access Educational Tools](provide_easy-access_educational_tools.md)
 - [Providing Accessible Educational Tools](providing_accessible_educational_tools.md)
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md)
 

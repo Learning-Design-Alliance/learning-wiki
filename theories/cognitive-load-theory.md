@@ -69,7 +69,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 
 ## Claims
 
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+S] — example-based sequences reduce load compared to problem-only practice for novices; provides direct experimental evidence for the worked example effect as a CLT application
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+S] — example-based sequences reduce load compared to problem-only practice for novices; provides direct experimental evidence for the worked example effect as a CLT application
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — worked examples reduce unnecessary search load, freeing working memory for schema construction
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — expertise reversal: as schemas develop, the same guidance that reduced load for novices begins to impose redundancy load on more experienced learners
 - [Redundancy Effect Impairs Learning](../claims/redundancy-effect-impairs-learning.md) [+W]

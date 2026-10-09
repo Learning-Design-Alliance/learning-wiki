@@ -50,7 +50,6 @@ Literacy First (formerly AmeriCorps for Community Engagement and Education, then
 - [Once Early-Reading Program: school-embedded one-on-one structured literacy tutoring delivered by trained paraprofessionals](once-early-reading-program-element.md)
 - [Reading Recovery® one-on-one tailored tutoring program for grade 1 students with low literacy achievement](reading-recovery-program-element.md)
 - [Future Forward literacy program model](future-forward-literacy-program-model-eir.md)
-- [Future Forward literacy program model](future-forward-program-model.md)
 - [Leveled Literacy Intervention (LLI): daily 30-minute small-group tutoring for struggling K-2 readers](leveled-literacy-intervention-program.md)
 - [Reading Recovery one-on-one tutoring program for struggling first-grade readers](reading-recovery-tutoring-program.md)
 - [PALS: structured peer-tutoring program supplementing the primary reading curriculum](pals-peer-tutoring-reading-program.md)

@@ -39,7 +39,6 @@ The analysis evaluates one-year academic growth using state assessment scores, w
 ## Related Elements
 
 - [CREDO Virtual Control Record (VCR) methodology](credo-virtual-control-record-method.md)
-- [CREDO Virtual Control Record (VCR) methodology](credo-virtual-control-record-methodology.md)
 - [Virtual Control Record (VCR) matched-comparison methodology](vcr-virtual-control-record-method.md)
 
 ## Examples

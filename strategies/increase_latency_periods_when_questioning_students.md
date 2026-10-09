@@ -58,7 +58,7 @@ Extended latency converts questioning from rapid recall checking into genuine [c
 5. Fold the questioning cycle into [Formative Assessment](../patterns/formative-assessment.md): use the extended answers as evidence for the next instructional move, and close the loop with [Provide Feedback](../elements/provide-feedback.md).
 
 ## Related Strategies
-- [Cold Calling](cold-calling.md) — pairing cold call with prior wait time captures the equity benefit without the anxiety cost
+- [Cold Calling](cold-call.md) — pairing cold call with prior wait time captures the equity benefit without the anxiety cost
 - [Think-Pair-Share](../patterns/think-pair-share.md) — structures the latency period with peer rehearsal
 - [No Hands Up](no_hands_up.md) — distributes answering after the pause rather than letting volunteers dominate
 

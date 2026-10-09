@@ -39,7 +39,7 @@ The paper recommends reflection as a powerful self-assessment tool usable for fo
 ## Related Strategies
 
 - [Assess youth learning through journals, observation, discussion, and applied reflection products](journal-observation-assessment-reflection.md)
-- [One Minute Papers](one-minute-papers.md)
+- [One Minute Papers](one-minute-paper.md)
 - [Formative Evaluation](formative-evaluation.md)
 - [Balanced Assessment System](balanced_assessment_system.md)
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](three-part-rubric-maker-assessment.md)

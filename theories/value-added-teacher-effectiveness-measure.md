@@ -37,7 +37,7 @@ The brief defines value added as a way of quantifying teaching quality: "'Value 
 
 ### Claims
 
-- [Disadvantaged Students Less Effective Teaching](../claims/disadvantaged-students-less-effective-teaching.md) [+M]
+- [Disadvantaged Students Less Effective Teaching](../claims/disadvantaged-students-receive-less-effective-teaching.md) [+M]
 - [Access to effective teaching for disadvantaged students varied across districts, from no statistically significant difference to a disparity equivalent to 13 weeks of learning](../claims/district-variation-teaching-disparity.md) [+W]
 - [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](../claims/teaching-disparity-weeks-of-learning.md) [+W]
 - [Teachers in districts with large fractions of disadvantaged students receive lower value-added ratings when student background characteristics are omitted](../claims/vam-omitting-background-lowers-disadvantaged-district-ratings.md) [+W]

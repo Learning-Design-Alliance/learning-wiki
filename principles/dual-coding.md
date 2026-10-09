@@ -139,7 +139,7 @@ Comprehension while the visual is in view, recall a week later, transfer to a ne
 ## Examples
 - A geography lesson pairs concise text with an annotated map so spatial relationships do not have to be inferred only from prose.
 - A procedural lesson uses step visuals with short captions to show both the order and purpose of each action.
-- [Concept map](../elements/concept-map.md), [graphic organizer](../elements/graphic-organizer.md), [representational drawing](../elements/representational-drawing.md) and [visual imagery](../elements/visual-imagery.md) — elements that carry a visual of the idea
+- [Concept map](../elements/concept-map.md), [graphic organizer](../elements/graphic-organizers.md), [representational drawing](../elements/representational-drawing.md) and [visual imagery](../elements/visual-imagery.md) — elements that carry a visual of the idea
 - [Drawing to learn](../strategies/drawing-to-learn.md) — a strategy for learner-made drawings
 - [Multimedia Learning pattern](../patterns/multimedia-learning.md) — a reusable design for presented words and pictures
 - **Concept maps**: Learners diagram how ideas, causes, or terms connect, then explain the map to a peer.

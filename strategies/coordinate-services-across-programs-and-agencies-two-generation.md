@@ -40,7 +40,7 @@ The brief directs administrators to strategies for "effectively delivering and c
 
 ## Related Strategies
 
-- [Home Visiting](home-visiting.md)
+- [Home Visiting](home-visits.md)
 
 ## Examples
 -

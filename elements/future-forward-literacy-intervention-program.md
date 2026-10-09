@@ -53,7 +53,6 @@ Future Forward is a freestanding early literacy program for kindergarten through
 
 ## Related Elements
 
-- [Future Forward literacy program model](future-forward-program-model.md)
 - [Future Forward literacy program model](future-forward-literacy-program-model-eir.md)
 - [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
 - [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)

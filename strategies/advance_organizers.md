@@ -59,7 +59,7 @@ Advance organizers work by activating relevant prior knowledge and giving learne
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the broader family; an advance organizer is a structured, pre-instructional form of activation
-- [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — eliciting what learners know rather than supplying new anchoring concepts
+- [Activating Background Knowledge](activate_background_knowledge.md) — eliciting what learners know rather than supplying new anchoring concepts
 - [KWL](../strategies/kwl.md) — an interactive organizer variant that combines activation with goal-setting
 
 ## Examples

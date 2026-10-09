@@ -47,7 +47,7 @@ Projection analysis within the MAP Growth observational study: the brief project
 - [By spring 2022, Pennsylvania grades 5–8 English language arts proficiency had regained 6 points of a 10-point pandemic-era drop relative to rates predicted for 2021](pennsylvania-2022-ela-proficiency-regained-six-of-ten-points.md) — related
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related
 - [Growth for all race/ethnicity groups lagged pre-pandemic trends in 2023-24, with marginalized students furthest from recovery](marginalized-students-furthest-from-recovery-2023-24.md) — related
-- [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-of-pre-pandemic-trends.md) — related
+- [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
 - [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
 - [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — related
 - [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — related

@@ -79,7 +79,7 @@ Anticipation guides work by activating relevant prior knowledge before new mater
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the core mechanism the guide operationalizes
-- [KWL Charts](kwl-charts.md) — a related pre/during/post framework with open-ended rather than statement-based prompts
+- [KWL Charts](kwl-chart.md) — a related pre/during/post framework with open-ended rather than statement-based prompts
 - [Erroneous Examples](../elements/erroneous-examples.md) — similarly exploits errors for conceptual gain, but during practice rather than before instruction
 - K-W-L charts — a sibling pre/during/post strategy that collects questions rather than committed positions
 

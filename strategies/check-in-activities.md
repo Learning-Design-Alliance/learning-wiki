@@ -58,7 +58,7 @@ Check ins work primarily through social-emotional and motivational channels rath
 5. Vary prompts periodically to prevent ritual fatigue; a game format such as ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) can renew engagement.
 
 ## Related Strategies
-- [Exit Tickets](exit-tickets.md) — the closing counterpart; check ins open the feedback loop that exit tickets close
+- [Exit Tickets](exit-ticket.md) — the closing counterpart; check ins open the feedback loop that exit tickets close
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — cognitive check ins can double as activation prompts
 - [Community Building Circles](community-building-circles.md) — extended relational format for deeper trust-building
 

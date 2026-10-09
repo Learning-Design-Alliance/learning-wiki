@@ -59,8 +59,8 @@ Brief written reflection converts passive reception into generative processing, 
 5. Open the next session by addressing the most common confusion — this closes the loop and sustains learner investment.
 
 ## Related Strategies
-- [Exit Tickets](exit-tickets.md) — the most common written implementation of this strategy
-- [One-Minute Papers](one-minute-papers.md) — the classic research-validated variant
+- [Exit Tickets](exit-ticket.md) — the most common written implementation of this strategy
+- [One-Minute Papers](one-minute-paper.md) — the classic research-validated variant
 - [Think-Pair-Share](../patterns/think-pair-share.md) — adds peer elaboration before individual reflection
 
 ## Related Elements

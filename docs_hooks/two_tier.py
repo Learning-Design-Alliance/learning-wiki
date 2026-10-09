@@ -161,15 +161,40 @@ def landing_markdown(folder: str, page_url: str, root: Path = ROOT) -> str:
 SEARCH_PAGE = """# Search
 
 <link href="../pagefind/pagefind-ui.css" rel="stylesheet">
+<div id="main-pages" hidden>
+<p><strong>Main pages</strong></p>
+<ol id="main-pages-list"></ol>
+<p><strong>All results</strong></p>
+</div>
 <div id="search"></div>
 <script src="../pagefind/pagefind-ui.js"></script>
-<script>
-  window.addEventListener("DOMContentLoaded", function () {
-    var ui = new PagefindUI({ element: "#search", showSubResults: true, showImages: false,
-                              openFilters: ["kind"] });
-    var q = new URLSearchParams(window.location.search).get("q");
-    if (q) { ui.triggerSearch(q); }
-  });
+<script type="module">
+  // Long pages are not penalised and repeated words count for less, so a topic's
+  // main page is not buried under claims that repeat its words more densely.
+  const ranking = { pageLength: 0, termFrequency: 0.3 };
+  const pf = await import("../pagefind/pagefind.js");
+  await pf.options({ ranking });
+  const box = document.getElementById("main-pages");
+  const list = document.getElementById("main-pages-list");
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"})[c]);
+  let seq = 0;
+  // The curated tier (principles, patterns, designs, products, methods, canonical
+  // elements and theories) searched on its own, shown above the full results.
+  async function mainPages(term) {
+    const n = ++seq;
+    if (!term || term.trim().length < 2) { box.hidden = true; return; }
+    const r = await pf.search(term, { filters: { tier: "curated" } });
+    const top = await Promise.all((r ? r.results : []).slice(0, 5).map(x => x.data()));
+    if (n !== seq) return;
+    list.innerHTML = top.map(d => `<li><a href="${esc(d.url)}">${esc(d.meta.title)}</a>`
+      + ` <small>${esc(((d.filters || {}).kind || [""])[0])}</small></li>`).join("");
+    box.hidden = !top.length;
+  }
+  const ui = new PagefindUI({ element: "#search", showSubResults: false, showImages: false,
+                              openFilters: ["kind"], ranking,
+                              processTerm: t => { mainPages(t); return t; } });
+  const q = new URLSearchParams(window.location.search).get("q");
+  if (q) { ui.triggerSearch(q); }
 </script>
 
 Search covers every page in the wiki, both the curated pages and the claims,
@@ -201,19 +226,35 @@ def on_page_markdown(markdown, page, config, files):
     return rewrite_links(markdown, src, page.url, _owned)
 
 
-def pagefind_attrs(kind: str) -> str:
-    """The article's Pagefind attributes: index it, and file it under its kind so a
-    search can be narrowed to principles, claims, ..."""
+def pagefind_attrs(kind: str, curated: bool = False) -> str:
+    """The article's Pagefind attributes: index it, file it under its kind so a search
+    can be narrowed to principles, claims, ..., and mark a curated-tier content page
+    `tier:curated`, which the search page's Main pages list searches on its own."""
     label = KIND_LABELS.get(kind, "")
-    return " data-pagefind-body" + (f' data-pagefind-filter="kind:{label}"' if label else "")
+    filters = ([f"kind:{label}"] if label else []) + (["tier:curated"] if curated and label else [])
+    return " data-pagefind-body" + (f' data-pagefind-filter="{", ".join(filters)}"' if filters else "")
 
 
 KIND_LABELS = {"principle": "Principle", "element": "Element", "pattern": "Pattern", "design": "Design",
+               "product": "Product or programme", "research-method": "Research method",
                "strategy": "Strategy", "process": "Design process", "method": "Design method",
                "theory": "Theory", "learner-variable": "Learner variable", "claim": "Claim"}
 
 
+HEADER_SEARCH = ('<form class="lt-header-search" action="{rel}search/" role="search" '
+                 'style="margin:0 .6rem;align-self:center">'
+                 '<input name="q" type="search" placeholder="Search" aria-label="Search the wiki" '
+                 'style="font:inherit;font-size:.7rem;padding:.25rem .5rem;border-radius:.2rem;border:0;'
+                 'width:11rem;max-width:30vw;background:var(--md-default-bg-color);'
+                 'color:var(--md-default-fg-color)"></form>')
+
+
 def on_post_page(output, page, config):
     kind = str((page.meta or {}).get("type") or "")
-    return output.replace('<article class="md-content__inner md-typeset">',
-                          f'<article class="md-content__inner md-typeset"{pagefind_attrs(kind)}>', 1)
+    output = output.replace('<article class="md-content__inner md-typeset">',
+                            f'<article class="md-content__inner md-typeset"{pagefind_attrs(kind, True)}>', 1)
+    # A search box in the header, sending the reader to the search page (?q=), since
+    # the theme's own box went with its lunr search.
+    rel = "../" * page.url.count("/")
+    return output.replace('<div class="md-header__source">',
+                          HEADER_SEARCH.format(rel=rel) + '<div class="md-header__source">', 1)

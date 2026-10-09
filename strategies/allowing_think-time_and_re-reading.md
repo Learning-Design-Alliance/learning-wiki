@@ -57,7 +57,7 @@ Extended wait-time after questions shifts classroom discourse from rapid recall 
 5. Build re-reading into [Practice](../elements/practice.md) cycles rather than treating it as remediation.
 
 ## Related Strategies
-- [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — a purposeful first-pass re-read often serves to connect new text to prior knowledge
+- [Activating Background Knowledge](activate_background_knowledge.md) — a purposeful first-pass re-read often serves to connect new text to prior knowledge
 - [Chunking](../principles/chunking.md) — breaking text into segments makes targeted re-reading manageable within working-memory limits [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]
 - [Self-Explanation](../elements/self-explanation.md) — prompts learners to use think-time productively by explaining the text to themselves [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 

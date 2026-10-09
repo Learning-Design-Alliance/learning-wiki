@@ -57,7 +57,7 @@ Story maps work by externalizing narrative structure, reducing the working-memor
 2. Model completion on a short mentor text, thinking aloud about how you decided an event was the conflict rather than a mere complication ([Think-Aloud](../elements/think-aloud.md)).
 3. Read a new text with students, pausing at natural junctures to complete map sections collaboratively ([Class Discussion](../elements/class-discussion.md)) — keep pauses few and purposeful.
 4. Fade support: shift to partially completed maps, then blank maps completed independently ([Fading](../elements/fading.md)).
-5. Use the completed map as a scaffold for retelling or summarizing ([Summarization](summarization.md)), then remove it to check whether the structure has been internalized.
+5. Use the completed map as a scaffold for retelling or summarizing ([Summarization](summarizing.md)), then remove it to check whether the structure has been internalized.
 
 ## Related Strategies
 - [Advance Organizers](../elements/advance-organizers.md) — the story map is a domain-specific advance organizer presented before or during text processing

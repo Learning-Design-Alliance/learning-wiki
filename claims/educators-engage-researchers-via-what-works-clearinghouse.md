@@ -45,7 +45,7 @@ The publisher's abstract states the article's aim: it "examines how educators ca
 ## Related Claims
 - [UCSMP Algebra has potentially positive effects on the algebra domain, with mixed findings across two studies and a small extent of evidence](ucsmp-algebra-potentially-positive-algebra-domain.md) — related
 - [No studies meeting WWC group design standards exist for UCSMP Geometry, Advanced Algebra, Functions Statistics and Trigonometry, or Precalculus and Discrete Mathematics](no-evidence-other-ucsmp-secondary-courses.md) — related
-- [UCSMP Algebra has potentially positive effects on general mathematics achievement for secondary students, with a small extent of evidence](ucsmp-algebra-potentially-positive-general-mathematics-achievement.md) — related
+- [UCSMP Algebra has potentially positive effects on general mathematics achievement for secondary students, with a small extent of evidence](ucsmp-algebra-positive-general-mathematics-achievement.md) — related
 - [The evidence base for UCSMP is small, with no studies meeting WWC group design standards without reservations](ucsmp-small-evidence-base-no-unreserved-studies.md) — related
 - [The retention effect of Balanced Leadership® was not statistically significant in the contributing study](balanced-leadership-retention-not-statistically-significant.md) — related
 - [Single-case evidence on FBA-based interventions for social-emotional competence does not reach the threshold for an effectiveness rating](fba-social-emotional-competence-below-threshold.md) — related

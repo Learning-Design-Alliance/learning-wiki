@@ -94,7 +94,7 @@ For novices, unguided problem solving forces working memory to be spent on searc
 
 ## Related Strategies
 - [Completion Problems First](completion-problems-first.md) — the intermediate rung between studying full examples and solving alone
-- [Self-Explanation Prompting](self-explanation-prompting.md) — the mechanism that converts example study into schema construction
+- [Self-Explanation Prompting](self-explanation-prompts.md) — the mechanism that converts example study into schema construction
 - [Contrasting Cases](contrasting-cases.md) — multiple examples that highlight when a method applies
 - [Use Worked Examples](use_worked_examples.md) — the core tactic this sequencing strategy organizes
 - [Think-Aloud Modeling](think-aloud-modeling.md) — narration method that makes worked steps pedagogically meaningful

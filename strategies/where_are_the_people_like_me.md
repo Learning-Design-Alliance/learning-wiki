@@ -62,7 +62,7 @@ The strategy works by making an invisible curriculum visible: media selections l
 ## Related Strategies
 
 - [Case Studies](../patterns/case-based-learning.md) — media examples function as short cases; the same observe-analyze-generalize arc applies
-- [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — the strategy depends on learners drawing on lived experience with media as prior knowledge
+- [Activating Background Knowledge](activate_background_knowledge.md) — the strategy depends on learners drawing on lived experience with media as prior knowledge
 - [Ask students to reflect on how they have been exposed to and impacted by society's messages about race, gender, and sexual identity, after the teacher has modeled vulnerability](student-reflection-social-messages-after-teacher-modeling.md)
 
 ## Examples

@@ -106,7 +106,7 @@ Record: **activity and the mode it was assigned to, with the reason → online w
 
 ## Elements and limits
 
-[Pre-class video lecture](../elements/pre-class-videolecture.md), [self-paced learning](../elements/self-paced-learning.md), [in-process comprehension checks](../elements/in-process-comprehension-checks.md), [quizzes](../elements/quizzes.md), [self-monitoring](../elements/self-monitoring.md), [check-in](../elements/check-in.md), [discussion](../elements/discussion.md), [practice](../elements/practice.md), [feedback](../elements/feedback.md) and [lecture](../elements/lecture.md).
+[Pre-class video lecture](../elements/pre-class-videolecture.md), [self-paced learning](../elements/self-paced-learning.md), [in-process comprehension checks](../elements/in-process-comprehension-checks.md), [quizzes](../elements/quizzes.md), [self-monitoring](../elements/self-monitoring.md), [check-in](../elements/check-in.md), [discussion](../elements/discussion.md), [practice](../elements/practice.md), [feedback](../elements/feedback.md) and [lecture](../elements/lectures.md).
 
 This pattern is scoped to dividing a course between online and in-person work. It does not establish that a blend outperforms a single-mode course with the same time and materials, an optimal online share, a weekly rhythm, or a forecast for an individual learner. Fully online courses, MOOCs and the narrower flipped configuration have their own pages and evidence. The requirement that instructors shift towards facilitation, and the constraint that a poorly integrated blend feels redundant or disconnected, come from the earlier page and remain untested here.
 

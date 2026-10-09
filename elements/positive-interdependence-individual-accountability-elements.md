@@ -49,7 +49,7 @@ The digest identifies the two elements that all cooperative learning advocates a
 ## Examples
 
 - [Cooperative Learning Activities](../strategies/cooperative_learning_activities.md)
-- [Establishing Group Roles](../strategies/establishing-group-roles.md)
+- [Establishing Group Roles](../strategies/establish-group-roles.md)
 
 ## Key Sources
 - Daniels, Ed; Gatto, Mike. (1996). The Cooperative Companion Digest (No. 1-4). Thinking about the Nature and Power of Cooperative Learning. https://eric.ed.gov/?id=ED402038

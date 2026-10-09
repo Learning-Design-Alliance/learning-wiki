@@ -68,7 +68,7 @@ Math Talks operationalize [Active Learning](../principles/active-learning.md) an
 
 ## Related Strategies
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-stakes rehearsal structure that can precede whole-class sharing in a Math Talk
-- [Cold Calling](cold-calling.md) — with norms of safety established, ensures all students are prepared to contribute strategies
+- [Cold Calling](cold-call.md) — with norms of safety established, ensures all students are prepared to contribute strategies
 - [Wait Time](wait-time.md) — extended pauses after questions increase the depth of strategy explanations
 
 ## Related Elements

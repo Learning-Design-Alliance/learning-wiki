@@ -6,7 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: retrieval-practice-improves-retention
-aliases: [retrieval-practice-enhances-long-term-retention, retrieval-practice-improves-learning, testing-effect-improves-learning, testing-effect-improves-retention, testing-effect-retrieval-practice-improves-retention, testing-improves-retention]
+aliases: [retrieval-practice-enhances-long-term-retention, retrieval-practice-improves-learning, testing-effect-improves-learning, testing-effect-improves-retention, testing-effect-retrieval-practice-improves-retention, testing-improves-retention, retrieval-practice-improves-long-term-retention]
 evidence_strength: strong
 sources:
   - id: rowland-2014
@@ -27,12 +27,20 @@ sources:
     n: 300 undergraduates (120 + 180)
     kind: causal
     rigour: "?"
+  - id: adesope-et-al-2017
+    resource: "https://doi.org/10.3102/0034654316689306"
+    title: "Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests: A meta-analysis of practice testing. *Review of Educational Research, 87*(3), 659–701. [doi:10.3102/0034654316689306](https://doi.org/10.3102/0034654316689306)"
+    author: "Adesope, O. O., Trevisan, D. A., & Sundararajan, N."
+    q: 4
+    i: 2
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Retrieval practice improves long-term retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r3` · `q3`–`q4` · `i2`–`i3`
+> **Evidence** · 3 studies · 2 quant-synthesis `r3`, 1 causal `r?` · `q3`–`q4` · `i2`–`i3`
 
 Actively recalling information from memory (rather than rereading or reviewing it) strengthens long-term retention of that information. This is one of the most consistently replicated effects in cognitive psychology of learning, often called the "testing effect."
 
@@ -41,6 +49,14 @@ Actively recalling information from memory (rather than rereading or reviewing i
 `q4 i2` Across 159 effect sizes from 61 studies, taking a practice test produced better retention than restudying the same material. The benefit was larger after delays of one day or more, and when the initial test used recall or gave feedback. With no feedback and initial test performance of 50% or below, the benefit was about zero. [→ Rowland 2014](#rowland-2014)
 
 `q3 i3` With prose passages, students who recalled the material outperformed students who restudied it on tests two days and one week later. On a test five minutes later, restudying was ahead. [→ Roediger and Karpicke 2006](#roediger-and-karpicke-2006)
+
+`q3 i?` Repeated testing beat repeated study at a one-week delay, 61% against 40% recall, after both groups had spent the same time with the passage. [→ Roediger & Karpicke 2006](#roediger-and-karpicke-2006)
+
+`q3 i?` The ordering reverses at a short delay: on a test taken five minutes after study, repeated study scored *higher* than repeated testing. The benefit is a property of the retention interval, not of the encoding session. [→ Roediger & Karpicke 2006](#roediger-and-karpicke-2006)
+
+`q4 i2` Meta-analysis of testing against restudy put the mean effect at g = 0.50, and the advantage grew with the length of the retention interval. [→ Rowland 2014](#rowland-2014)
+
+`q4 i2` An independent meta-analysis of practice testing against rereading and other comparison conditions found g = 0.51, with the effect holding across education levels and item formats. [→ Adesope et al. 2017](#adesope-et-al-2017)
 
 ## Evidence
 
@@ -52,6 +68,16 @@ Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta
 
 This random-effects meta-analysis covers 159 effect sizes from 61 studies reported between 1975 and 2013. Each effect compares information that learners were tested on with information they restudied. The mean weighted effect was g = 0.50 (95% CI 0.42 to 0.58), and heterogeneity was high. The effect was larger at retention intervals of at least one day (g = 0.69) than below one day (g = 0.41). It was also larger when the initial test gave [feedback](../elements/feedback.md) (g = 0.73 against 0.39 without) and when the initial test was cued recall rather than recognition (0.61 against 0.29). With no feedback and initial test performance of 50% or below, the effect was about zero (g = 0.03, CI −0.21 to 0.27). Published studies showed larger effects than unpublished ones (0.58 against 0.25), so the author advises caution about publication bias.
 
+<!-- merged 2026-10-09 from retrieval-practice-improves-long-term-retention: that page's entry for this study, which differed from the one above, kept verbatim.
+### Rowland 2014
+
+Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review of the testing effect. *Psychological Bulletin, 140*(6), 1432–1463. [doi:10.1037/a0037559](https://doi.org/10.1037/a0037559)
+
+`q4` · `i2` · `quant-synthesis · r?`
+
+Meta-analysis of experiments comparing a testing condition against a restudy control, which is the comparison that matters for instructional decisions — testing against doing nothing overstates the effect. Mean g = 0.50. Moderator analyses found the benefit larger with feedback, with longer retention intervals, and with successful initial retrieval.
+-->
+
 ### Roediger and Karpicke 2006
 
 Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
@@ -59,6 +85,24 @@ Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory
 `q3 · peer-reviewed experiment (two experiments)` · `i3 · large effect, d=0.83 at 1 week (Exp. 1)` · `n=300 undergraduates (120 + 180)` · `causal · r?`
 
 Undergraduates at Washington University read short science passages. In Experiment 1 (120 students), they either restudied a passage or took a free-recall test on it, without feedback. At five minutes, restudying did better (81% against 75% recalled). At two days, testing did better (68% against 54%, d = 0.95), and at one week also (56% against 42%, d = 0.83). In Experiment 2 (180 students), one study period followed by three recall tests beat four study periods on the one-week test (61% against 40%, d = 1.26). Repeated study scored best at five minutes and made students more confident they would remember, but it did worst at one week.
+
+<!-- merged 2026-10-09 from retrieval-practice-improves-long-term-retention: that page's entry for this study, which differed from the one above, kept verbatim.
+### Roediger & Karpicke 2006
+
+Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
+
+`q3` · `i? · the abstract prints no effect size; the full text may` · `n=180` · `causal · r?`
+
+Students read prose passages and then either re-read them or took free-recall tests, with total time equated. Retention was measured after 5 minutes, 2 days or 1 week. Repeated study produced the best immediate performance and the worst delayed performance; repeated testing inverted both. The dissociation between the 5-minute and 1-week results is the load-bearing part of this study: it shows that performance during learning is a misleading index of learning.
+-->
+
+### Adesope et al. 2017
+
+Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests: A meta-analysis of practice testing. *Review of Educational Research, 87*(3), 659–701. [doi:10.3102/0034654316689306](https://doi.org/10.3102/0034654316689306)
+
+`q4` · `i2` · `quant-synthesis · r?`
+
+Meta-analysis of practice testing across education levels, comparing it against rereading, filler tasks and no treatment. Mean g = 0.51. The effect appeared for multiple-choice as well as constructed-response practice tests, which matters for a system whose selection items would otherwise be assumed inferior on this dimension.
 
 ## Discussion
 
@@ -122,6 +166,16 @@ Open questions that evidence entries should address include: how retrieval pract
 
 **Note on evidence.** The evidence recorded above supports the claim, with one condition worth stating: in Roediger and Karpicke (2006), restudying was ahead on a test five minutes later, and testing won only at two days and one week. The retrieval-practice literature is large and well-established, so populating this section — ideally with the major meta-analyses and the canonical restudy-comparison experiments — should be a high priority for a future enrichment pass.
 
+*Merged from “Retrieval Practice Improves Long Term Retention” (retrieval-practice-improves-long-term-retention):* **Mechanism.** Retrieval is assumed to strengthen memory by requiring learners to reconstruct knowledge from memory rather than re-encode it passively — consistent with accounts in [Information Processing Theory](../theories/information-processing-theory.md). Successful retrieval is thought to both consolidate the retrieved item and render it more accessible on future attempts. A second proposed mechanism is that retrieval attempts make learners aware of what they do not yet know, supporting better allocation of subsequent study — a diagnostic function related to [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+M].
+
+**Relation to other effects.** Retrieval practice is a form of [active learning](../claims/active-learning-improves-exam-performance.md) [+M], and its benefits are often discussed alongside spacing and interleaving, which manipulate *when* and *how varied* retrieval attempts are rather than whether they occur. Retrieval also interacts with working-memory demands: overly complex retrieval tasks can overload learners, echoing concerns in [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) [~M] and [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) [+S].
+
+**Boundary conditions to document.** The size of the testing effect is expected to depend on several moderators that this page cannot yet quantify without verified evidence entries: whether retrieval is successful or failed on the first attempt, whether feedback follows the attempt, the complexity of the material, and learner expertise. For very complex tasks, retrieval demands may exceed working-memory capacity, an expertise-reversal-style boundary condition analogous to [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) [~M]. Low-stakes or ungraded formats are commonly recommended so that retrieval practice functions as learning rather than as high-pressure evaluation.
+
+**Measurement artifact risk.** A recurring methodological caution: on an immediate final test, restudy can match or beat retrieval, so claims about the testing effect must specify delayed outcomes. Studies that only measure immediate performance cannot support this claim, and designers should be wary of implementations (e.g., flashcard apps) evaluated solely on short-term gains.
+
+**Design implications pending evidence.** Until evidence entries are verified, practitioners should treat the strong rating as provisional. The most defensible design heuristics consistent with the claim's scope are: require learners to generate answers before re-exposing them to material; schedule retrieval attempts after a delay rather than immediately after study; and keep retrieval tasks low-stakes so errors carry diagnostic rather than evaluative weight. These follow from the claim's stated mechanism and boundary conditions, not from cited experiments on this page.
+
 ## Related Claims
 
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — retrieval-oriented activity is a central ingredient of active-learning effects on exams
@@ -152,7 +206,6 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis](retrieval-practice-effects-larger-at-retention-intervals-over-one-day.md) — related
 - [Retrieval practice effects become more robust as initial retrieval success increases, especially above 75%, while retrieval made too easy yields smaller effects](retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) — related
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — a narrower finding that bears on this claim
-- [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-long-term-retention.md) — a narrower finding that bears on this claim
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [Retrieval practice enhances retention relative to repeated study, with an overall effect of g = 0.50 across 159 studies in Rowland's (2014) meta-analysis](retrieval-practice-outperforms-repeated-study-rowland-meta-analysis.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
@@ -163,3 +216,6 @@ Open questions that evidence entries should address include: how retrieval pract
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — a narrower finding that bears on this claim
 - [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — a broader claim this one bears on
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related
+- [Cognitive overload degrades learning](../claims/cognitive-overload-degrades-learning.md) — a boundary condition: retrieval that exceeds working-memory capacity may not help
+- [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
+- [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related

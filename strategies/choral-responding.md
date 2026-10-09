@@ -60,7 +60,7 @@ Choral responding multiplies active engagement during teacher-led instruction, c
 6. Periodically follow with an individual check (cold call, whiteboard, or exit item) to verify that choral accuracy reflects individual mastery.
 
 ## Related Strategies
-- [Cold Calling](cold-calling.md) — the individual-response counterpart; pairing choral rounds with cold calls prevents hiding
+- [Cold Calling](cold-call.md) — the individual-response counterpart; pairing choral rounds with cold calls prevents hiding
 - [Response Cards](response-cards.md) — silent written variant that makes every answer individually visible
 - [Numbered Heads Together](numbered-heads-together.md) — cooperative variant combining group rehearsal with random individual reporting
 

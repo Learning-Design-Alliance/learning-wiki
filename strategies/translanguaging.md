@@ -60,7 +60,7 @@ Translanguaging reframes home languages as an asset rather than a deficit, which
 6. Invite families to participate in the home language to extend support beyond the classroom.
 
 ## Related Strategies
-- [Activating background knowledge](activating_background_knowledge.md) — translanguaging is the primary vehicle for activating knowledge encoded in the home language
+- [Activating background knowledge](activate_background_knowledge.md) — translanguaging is the primary vehicle for activating knowledge encoded in the home language
 - [Accessible syntax](accessible_syntax.md) — complements translanguaging by lowering the linguistic barrier of English input
 - [Address mother tongue interference](address_mother_tongue_interference.md) — the deficit-framed counterpart; translanguaging reframes the same phenomenon as repertoire use
 

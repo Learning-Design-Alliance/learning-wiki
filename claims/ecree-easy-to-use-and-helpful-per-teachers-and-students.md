@@ -49,7 +49,6 @@ A key finding of the brief, summarizing perceptions gathered in the study of Ecr
 - [More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback](teachers-found-ecree-useful-but-some-students-overwhelmed.md) — a narrower finding that bears on this claim
 - [Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write](teachers-reported-curriculum-technical-integration-challenges.md) — related
 - [Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year](ecree-improved-writing-quality-especially-less-advanced-writers.md) — related
-- [Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year](ecree-likely-improved-writing-quality-especially-less-advanced-starters.md) — related
 - [Some students may be overwhelmed by Ecree's feedback about their writing](some-students-overwhelmed-by-ecree-feedback.md) — related
 - [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — related
 - [The Ecree study examined teachers' and students' use of the tool and its impact on student and teacher outcomes during the 2021-2022 school year](ecree-study-examined-use-and-impacts-2021-2022.md) — a broader claim this one bears on

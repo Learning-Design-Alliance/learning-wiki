@@ -49,9 +49,8 @@ NLTS 2012 is a national study "conducted as part of an assessment of IDEA," whos
 
 ## Related Elements
 
-- [National Longitudinal Transition Study 2012 (NLTS 2012)](nlts-2012-national-longitudinal-transition-study.md)
-- [NLTS 2012 dataset and design documentation](nlts-2012-dataset-design-documentation.md)
 - [National Longitudinal Transition Study 2012 (NLTS 2012)](nlts-2012-dataset.md)
+- [NLTS 2012 dataset and design documentation](nlts-2012-dataset-design-documentation.md)
 - [College Experiences Survey](college-experiences-survey.md)
 
 ## Examples

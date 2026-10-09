@@ -59,7 +59,7 @@ Check-ins operationalize social-emotional learning at low cost: brief structured
 
 ## Related Strategies
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — a playful variant that lowers the social cost of sharing
-- [Exit Tickets](../strategies/exit-tickets.md) — the closing counterpart; together they bracket the session with learner data
+- [Exit Tickets](exit-ticket.md) — the closing counterpart; together they bracket the session with learner data
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — individualized follow-up to what a check-in surfaces
 
 ## Examples

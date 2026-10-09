@@ -48,10 +48,9 @@ The review defines academic mindsets as psycho-social attitudes or beliefs about
 
 ## Examples
 
-- [Promoting a Growth Mindset](../strategies/promoting_a_growth_mindset.md)
+- [Promoting a Growth Mindset](../strategies/promote_a_growth_mindset.md)
 - [Growth Mindset Framing](../strategies/growth-mindset-framing.md)
 - [Growth Mindset Development](../strategies/growth_mindset_development.md)
-- [Promote a Growth Mindset](../strategies/promote_a_growth_mindset.md)
 - [Growth Mindset Feedback](../strategies/growth_mindset_feedback.md)
 - [Effort-Based Praise](../strategies/effort-based_praise.md)
 - [Set a High Bar for Each Student](../strategies/set_a_high_bar_for_each_student.md)

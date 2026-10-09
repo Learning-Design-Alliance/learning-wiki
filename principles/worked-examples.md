@@ -68,7 +68,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Worked examples improve mathematics performance, especially for novices.](../claims/worked-examples-improve-math-performance.md) [+S] — checked by the judge: all 1 entries pass (abstract)
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — not settled: the abstract available could not confirm the entries
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M] — not settled: the abstract available could not confirm the entries
-- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-examples-example-problem-sequences.md) [+M] — not yet checked against its sources
+- [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/example-problem-sequences-reduce-cognitive-load.md) [+M] — not yet checked against its sources
 - [Lower Prior Knowledge Learners Score Higher With Full Than Completion Worked Examples](../claims/lower-prior-knowledge-learners-score-higher-with-full-than-completion-worked-examples.md) [~M]
 - [Prior Knowledge By Worked Example Type Interaction On Germane Load](../claims/prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) [+M]
 - [Prior Knowledge Worked Example Task Difficulty Three Way Interaction On Algebra Posttest](../claims/prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) [~M]

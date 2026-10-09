@@ -51,11 +51,10 @@ The study tested whether social-emotional factors, including "low academic self-
 - [Little was known before this study about students who rapidly guess over the course of several tests](little-known-repeated-rapid-guessing-gap.md) — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [A meaningful percentage of Grade 8 state summative test events showed rapid guessing, varying by subject: 5.5% in mathematics, 6.7% in ELA, and 3.5% in science](rapid-guessing-state-summative-grade8-subject-rates.md) — related
-- [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-associated-self-efficacy-self-management.md) — possibly the same claim (merge candidate)
+- [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — possibly the same claim (merge candidate)
 - [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](proctor-notification-improves-performance-and-validity.md) — related
 - [The study examines whether rapid guessing over several tests is associated with background variables such as English learner status](rapid-guessing-background-variables-examined.md) — related
 - [Identifying rapid guessing is important for the validity of achievement test scores, particularly with low-stakes tests](rapid-guessing-identification-important-for-score-validity.md) — related
 - [Rapid-guessing behavior is consistently very low across demographic subpopulations](rapid-guessing-low-across-demographic-subpopulations.md) — related
 - [Rapid guessing on achievement tests tends to be fairly state-like rather than a stable trait-like behavior, compared to academic achievement scores which are fairly stable](rapid-guessing-state-like-not-trait.md) — related
-- [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — a narrower finding that bears on this claim
 - [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](self-efficacy-associated-graduation-and-math.md) — related

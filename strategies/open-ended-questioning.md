@@ -58,7 +58,7 @@ Open questions push learners beyond retrieval into elaboration, explanation, and
 5. Close by making the reasoning public — have learners compare positions or summarize the class's emerging answer, connecting to [Discussion-Based Learning](../patterns/discussion-based-learning.md).
 
 ## Related Strategies
-- [Cold Calling](cold-calling.md) — a distribution mechanism that pairs with open questions to ensure broad participation
+- [Cold Calling](cold-call.md) — a distribution mechanism that pairs with open questions to ensure broad participation
 - [Think-Pair-Share](../patterns/think-pair-share.md) — structures the wait and drafting time open questions require
 - [Socratic Seminar](socratic-seminar.md) — a full pattern built on student-to-student open questioning
 

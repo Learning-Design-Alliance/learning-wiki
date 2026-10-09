@@ -38,10 +38,10 @@ A research brief from NWEA reporting student achievement trends based on data fr
 
 ## Claims
 
-- [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](../claims/growth-2023-24-fell-short-of-pre-pandemic-trends.md) [+W]
+- [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](../claims/growth-2023-24-fell-short-pre-pandemic-trends.md) [+W]
 - [Growth for all race/ethnicity groups lagged pre-pandemic trends in 2023-24, with marginalized students furthest from recovery](../claims/marginalized-students-furthest-from-recovery-2023-24.md) [+W]
 - [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](../claims/months-of-schooling-needed-to-catch-up-2023-24.md) [+W]
-- [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](../claims/pre-covid-covid-score-gap-widened-2023-24.md) [+W]
+- [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](../claims/pre-covid-covid-gap-widened-2023-24.md) [+W]
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](../claims/growth-2023-24-fell-short-pre-pandemic-trends.md) [+W]
 - [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](../claims/pre-covid-covid-gap-widened-2023-24.md) [+W]
 

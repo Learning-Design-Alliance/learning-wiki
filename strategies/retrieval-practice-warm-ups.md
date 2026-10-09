@@ -59,7 +59,7 @@ Warm ups exploit the testing effect: recalling information strengthens its memor
 6. Rotate question sources across the term so all major content is revisited on a spaced schedule.
 
 ## Related Strategies
-- [Exit Tickets](exit-tickets.md) — the end-of-lesson counterpart; exit ticket responses supply the material for the next day's warm up
+- [Exit Tickets](exit-ticket.md) — the end-of-lesson counterpart; exit ticket responses supply the material for the next day's warm up
 - [Spaced Practice](../principles/spaced-learning.md) — warm ups are the most reliable classroom mechanism for implementing spacing
 - [Interleaving](interleaving.md) — mixing question types across topics in the warm up enacts interleaving at small scale
 - [Formative Assessment](formative-assessment.md) — warm ups double as daily formative checks

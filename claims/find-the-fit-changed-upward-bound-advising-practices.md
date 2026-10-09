@@ -48,7 +48,6 @@ Summary statement of the first report from the six-year study of enhanced colleg
 - [Find the Fit's selectivity shift came with no higher out-of-pocket cost and no increase in dropping out or transferring down](find-the-fit-no-negative-consequences-selectivity.md) — related
 - [Find the Fit previously shifted application behavior, increasing applications to four or more colleges and to very competitive colleges](find-the-fit-shifted-college-applications.md) — related
 - [The selectivity impact of Find the Fit persisted through the third fall after high school graduation](find-the-fit-selectivity-impact-persisted-three-years.md) — a narrower finding that bears on this claim
-- [Find the Fit had no impact on the importance students placed on academic quality in choosing a college](find-the-fit-no-impact-importance-academic-quality-college-choice.md) — related
-- [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](find-the-fit-increased-four-or-more-college-applications.md) — related
 - [Find the Fit had no impact on the importance students placed on academic quality in choosing a college](find-the-fit-no-impact-importance-academic-quality.md) — related
+- [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](find-the-fit-increased-four-or-more-college-applications.md) — related
 - [This report provides the first estimates of Upward Bound's effects on postsecondary completion and updates earlier estimates for enrollment and financial aid](upward-bound-first-postsecondary-completion-estimates.md) — related

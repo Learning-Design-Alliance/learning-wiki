@@ -53,14 +53,14 @@ The strategy operationalizes the finding that content and language learning are 
 ### Instructions
 1. **Map the project's language demands.** Walk through each task and product; list the language functions (describe, justify, compare, persuade) and discourse structures required. Use [challenge identification](../elements/challenge-identification.md) to surface where language load is highest.
 2. **Set dual objectives.** For each project phase, write both a content objective and a language objective, following the SIOP model.
-3. **Plan vocabulary instruction.** Select tier-two and tier-three academic vocabulary; plan [activating background knowledge](../strategies/activating_background_knowledge.md) activities that connect new terms to students' prior and home-language knowledge.
+3. **Plan vocabulary instruction.** Select tier-two and tier-three academic vocabulary; plan [activating background knowledge](activate_background_knowledge.md) activities that connect new terms to students' prior and home-language knowledge.
 4. **Design speaking and listening scaffolds.** Build structured [collaboration](../elements/collaboration.md) protocols, sentence frames, and rehearsal opportunities into the project timeline rather than adding them reactively.
 5. **Scaffold the products.** Provide models, graphic organizers, and [accessible syntax](../strategies/accessible_syntax.md) supports for written and oral deliverables, fading them as proficiency grows.
 6. **Check and adjust.** Use [formative assessment](../elements/assessment.md) and [check-ins](../principles/check-ins.md) at project milestones to verify that language supports are working, and revise the analysis where students still struggle.
 
 ## Related Strategies
 - [Accessible Syntax](../strategies/accessible_syntax.md) — the sentence-level support that follows from the analysis
-- [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — connects project content to ELLs' prior and cultural knowledge
+- [Activating Background Knowledge](activate_background_knowledge.md) — connects project content to ELLs' prior and cultural knowledge
 - [Address Literacy Demands](../strategies/address_literacy_demands.md) — the broader literacy-audit approach this strategy specializes for PBL contexts
 
 ## Examples

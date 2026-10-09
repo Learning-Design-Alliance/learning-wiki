@@ -59,7 +59,7 @@ Formative assessment operationalizes [Assessment for Learning](../principles/ass
 
 ## Related Strategies
 - [3-2-1 Reflection](../strategies/3-2-1_reflection.md) — a lightweight elicitation routine for surfacing prior conceptions and confusion
-- [Exit Tickets](../strategies/exit-tickets.md) — end-of-session evidence capture that shapes the next session
+- [Exit Tickets](exit-ticket.md) — end-of-session evidence capture that shapes the next session
 - [Retrieval Practice](../strategies/retrieval-practice.md) — low-stakes quizzing that doubles as formative evidence and memory strengthening
 
 ## Examples

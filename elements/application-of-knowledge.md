@@ -59,7 +59,7 @@ Application is where learning consolidates: retrieving and using knowledge in va
 ## Related Elements
 - [Hands-on Learning](hands-on-learning.md) — the physical-manipulation form of application
 - [Problem-Based Learning](problem-based-learning.md) — organizes an entire curriculum around application problems
-- [Simulations](simulations.md) — safe, repeatable environments for applying knowledge to high-stakes situations
+- [Simulations](simulation.md) — safe, repeatable environments for applying knowledge to high-stakes situations
 - [Case Studies](case-studies.md) — structured real-world scenarios for applying concepts to analysis and decision-making
 - [Practice](practice.md) — the broader category; application is practice with authentic, contextualized tasks
 - [Demonstration](demonstration.md) — the modeling phase that should precede independent application

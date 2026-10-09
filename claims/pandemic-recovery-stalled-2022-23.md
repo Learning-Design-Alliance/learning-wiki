@@ -43,7 +43,6 @@ The brief's summary of its analysis of academic gains in the 2022-23 school year
 
 
 ## Related Claims
-- [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-of-pre-pandemic-trends.md) — related
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — related
 - [Academic rebounding in reading and math was uneven across school years and summers, especially in reading](rebounding-uneven-across-school-years-summers-reading.md) — related

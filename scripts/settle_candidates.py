@@ -37,7 +37,8 @@ stay open and are asked again on the next run, when a later batch may have broug
 the matching page or the second source.
 
 A cluster (candidates joined to one another) is PROMOTED when it rests on two
-independent sources, or on one synthesis: a claim it cites whose evidence entry is a
+independent sources (different articles with no author in common and not published by
+the same organisation: `independent`), or on one synthesis: a claim it cites whose evidence entry is a
 quant-synthesis or review coded q3 or above. Promotion writes nothing: `--report`
 lists the promoted clusters for an agent to write as canonical pages in the
 conditional-model format (principle-pattern-authoring.md), and the canonical pages
@@ -116,6 +117,10 @@ every canonical page; a page there that is not shown here may fit better):
 OPEN CANDIDATES (proposed from other sources, not yet pages):
 {open}
 
+PRODUCT AND RESEARCH-METHOD PAGES the wiki already has (reuse a name exactly when the candidate is one of
+these or part of one):
+{named}
+
 Outcomes:
 - "attach": the candidate states a canonical page's idea, or a narrower case of it (one setting, population,
   medium or component), so its evidence belongs on that page. Give "n", the page's number in the CANONICAL
@@ -130,7 +135,9 @@ Outcomes:
   curriculum or programme package, an assessment, test or measurement instrument, a dataset, a branded
   intervention or initiative; or one such programme's or organisation's own framework, model, indicator,
   rubric or theory of change. Give "name", the product or programme it is or belongs to, as its maker names
-  it (the To&Through Milestones Tool belongs to "To&Through Project"), "product_kind" (one of software,
+  it: the programme or initiative, not the component (the To&Through Milestones Tool, Online Tool and data
+  tool all belong to "To&Through Project"; the CRIS Menu belongs to "College Readiness Indicator Systems
+  (CRIS)"), "product_kind" (one of software,
   curriculum, assessment, dataset, programme, framework) and "product_description", one sentence on what
   that product or programme is and who makes or runs it.
 - "research-method": a method for studying learning or evaluating education that is specific to education
@@ -168,6 +175,10 @@ CANONICAL PAGES nearest by text (numbers refer to the full CANONICAL INDEX in th
 OPEN CANDIDATES (proposed from other sources, not yet pages):
 {open}
 
+PRODUCT AND RESEARCH-METHOD PAGES the wiki already has (reuse a name exactly when the candidate is one of
+these or part of one):
+{named}
+
 Outcomes:
 - "attach": the candidate is a canonical page's {kind}, a variant of it, or a narrower case of it, so its
   evidence belongs on that page. Give "n", the page's number in the CANONICAL INDEX. Check the whole index.
@@ -181,7 +192,9 @@ Outcomes:
   curriculum or programme package, an assessment, test or measurement instrument, a dataset, a branded
   intervention or initiative; or one such programme's or organisation's own framework, model, indicator,
   rubric or theory of change. Give "name", the product or programme it is or belongs to, as its maker names
-  it (the To&Through Milestones Tool belongs to "To&Through Project"), "product_kind" (one of software,
+  it: the programme or initiative, not the component (the To&Through Milestones Tool, Online Tool and data
+  tool all belong to "To&Through Project"; the CRIS Menu belongs to "College Readiness Indicator Systems
+  (CRIS)"), "product_kind" (one of software,
   curriculum, assessment, dataset, programme, framework) and "product_description", one sentence on what
   that product or programme is and who makes or runs it.
 - "research-method": a method for studying learning or evaluating education that is specific to education
@@ -371,6 +384,7 @@ def decide(cand: dict, canon_recs: list, open_rows: list, api_key: str, model: s
                          for i, c in enumerate(claims)) or "(none)",
         canon="\n".join(f"{pos[r['key']] + 1}. [{r['folder'][:-1]}] {r['title']} — {r['description'][:220]}"
                          for r in canon_recs) or "(none near)",
+        named=named_pages_list(),
         open="\n".join(f"{chr(65 + i)}. [{r.get('type')}] {r.get('title')} — {(r.get('description') or '')[:200]}"
                        f" (from {short_source(r)})" for i, r in enumerate(open_rows)) or "(none near)")
     for attempt in range(2):   # one resample: a reply with no JSON in it is a fault, not an answer
@@ -537,6 +551,19 @@ def name_key(name: str) -> str:
     out, so "To&Through Project" and "the To&Through project" are one page."""
     words = [w for w in re.findall(r"[a-z0-9]+", (name or "").lower()) if w not in _NAME_GENERIC]
     return " ".join(words) or " ".join(re.findall(r"[a-z0-9]+", (name or "").lower()))
+
+
+def named_pages_list() -> str:
+    """The titles of every products/ and research-methods/ page, for the prompt, so a
+    later candidate is given an existing page's name rather than a new variant of it."""
+    rows = []
+    for folder, label in (("products", "product"), ("research-methods", "research method")):
+        for p in sorted((WIKI_ROOT / folder).glob("*.md")):
+            if p.stem != "index":
+                m = re.search(r"^title:\s*(.+)$", p.read_text(encoding="utf-8")[:1500], re.M)
+                if m:
+                    rows.append(f"- [{label}] {m.group(1).strip().strip(chr(34))}")
+    return "\n".join(rows) or "(none yet)"
 
 
 def find_named_page(folder: str, name: str) -> "Path | None":
@@ -754,6 +781,58 @@ def write_design(cand: dict, actor: str) -> str | None:
 
 # ---------------------------------------------------------------- report
 
+_CATALOGUE = ("doi.org", "eric.ed.gov", "ncbi.nlm.nih.gov", "europepmc.org", "arxiv.org",
+              "scholar.google", "semanticscholar.org", "openalex.org", "jstor.org", "researchgate.net")
+_AUTHOR_STOP = {"and", "the", "for", "with", "et", "al", "eds", "ed", "inc", "llc", "jr"}
+
+
+def source_identity(cand: dict) -> tuple:
+    """(author words, organisations) for a candidate's source, from its citation.
+
+    Author words are the capitalised words before the year: surnames and given names for
+    people, the name itself for a corporate author ("Digital Promise"). Organisations are
+    whatever the citation shows of its publisher: the domain of the first link that is
+    not a catalogue or DOI resolver (consortium.uchicago.edu), the publisher named just
+    before the link in a report citation ("Digital Promise"), and, for a report (not a
+    journal article, whose DOI prefix is the journal publisher's), the DOI prefix, which
+    is the registrant's (10.51388 is Digital Promise's)."""
+    cit = cand.get("citation") or ""
+    m = re.match(r"(.*?)\(\d{4}", cit)
+    authors = m.group(1) if m and len(m.group(1)) < 400 else ""
+    words = {w.lower() for w in re.findall(r"[A-Z][A-Za-z'’\-]{2,}", authors)} - _AUTHOR_STOP
+    orgs = set()
+    for url in re.findall(r"https?://([^/\s)]+)", cit):
+        host = url.lower().removeprefix("www.")
+        if not any(c in host for c in _CATALOGUE):
+            orgs.add(host)
+            break
+    journal = bool(re.search(r"\d+\s*\(\d+[^)]*\)|,\s*\d+\s*[–-]\s*\d+", cit))
+    if not journal:
+        head = re.split(r"https?://", cit)[0].strip().rstrip(".")
+        last = [x.strip() for x in re.split(r"\.\s+", head) if x.strip()]
+        if len(last) >= 3 and not re.search(r"\d", last[-1]) and len(last[-1].split()) <= 6:
+            orgs.add(last[-1].lower())
+        doi = re.search(r"\b10\.(\d{4,9})/", cit)
+        if doi:
+            orgs.add(f"doi:10.{doi.group(1)}")
+    return words, orgs
+
+
+def independent(a: dict, b: dict) -> bool:
+    """Two sources are independent when they come from different articles, share no
+    author, and were not published by the same organisation (maintainer, 2026-10-10:
+    one author or one organisation across several years is a research agenda, not
+    independent confirmation). A source whose citation shows neither an author nor a
+    publisher cannot be shown independent, and is not."""
+    if a["article_id"] == b["article_id"]:
+        return False
+    wa, oa = source_identity(a)
+    wb, ob = source_identity(b)
+    if not (wa or oa) or not (wb or ob):
+        return False
+    return not (wa & wb) and not (oa & ob)
+
+
 def clusters(cands: dict, decisions: dict) -> list:
     parent = {}
 
@@ -776,12 +855,14 @@ def clusters(cands: dict, decisions: dict) -> list:
     out = []
     for members in groups.values():
         sources = {m["article_id"] for m in members}
+        firsts = list({m["article_id"]: m for m in members}.values())
+        indep = any(independent(x, y) for i, x in enumerate(firsts) for y in firsts[i + 1:])
         # A synthesis counts only from an extracted candidate, whose cited claims are its own
         # article's. An existing page's claim links include every claim later linking added,
         # so for a page only two independent sources promote.
         synth = any(c["synthesis"] for m in members if m.get("origin") != "page" for c in cited_claims(m))
-        out.append({"members": members, "sources": len(sources), "synthesis": synth,
-                    "promote": len(sources) >= 2 or synth})
+        out.append({"members": members, "sources": len(sources), "independent": indep, "synthesis": synth,
+                    "promote": indep or synth})
     return sorted(out, key=lambda g: (-g["promote"], -g["sources"]))
 
 
@@ -792,7 +873,8 @@ def report(cands: dict, decisions: dict) -> None:
     prom = [g for g in groups if g["promote"]]
     print(f"\nopen clusters: {len(groups)}; promoted: {len(prom)}")
     for g in prom:
-        why = f"{g['sources']} sources" + (", a synthesis" if g["synthesis"] else "")
+        why = (f"{g['sources']} sources" + (", independent" if g["independent"] else ", not independent")
+               + (", a synthesis" if g["synthesis"] else ""))
         print(f"  PROMOTE ({why}):")
         for m in g["members"]:
             print(f"    - [{m.get('type')}] {m.get('title')}  ({short_source(m)})")

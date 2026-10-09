@@ -60,7 +60,7 @@ Hinting is a form of [Scaffolding](../principles/scaffolding.md) delivered in th
 
 ## Related Strategies
 - [Wait Time](wait-time.md) — the pause that makes hinting diagnostic rather than reactive
-- [Cold Calling](cold-calling.md) — the questioning context in which hints are most often needed
+- [Cold Calling](cold-call.md) — the questioning context in which hints are most often needed
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — hints frequently work by pointing learners to relevant prior knowledge
 
 ## Examples

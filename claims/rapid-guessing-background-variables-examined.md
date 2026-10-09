@@ -47,7 +47,6 @@ The abstract states the study design: "we also examine whether rapid guessing ov
 - [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — related
 - [Little was known before this study about students who rapidly guess over the course of several tests](little-known-repeated-rapid-guessing-gap.md) — related
 - [Rapid guessing on achievement tests tends to be fairly state-like rather than a stable trait-like behavior, compared to academic achievement scores which are fairly stable](rapid-guessing-state-like-not-trait.md) — related
-- [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-associated-self-efficacy-self-management.md) — related
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related
 - [Rapid guessing on achievement tests tends to be more state-like than academic achievement scores, which are fairly stable over time](rapid-guessing-more-state-like-than-achievement.md) — related

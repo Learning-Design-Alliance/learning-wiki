@@ -40,7 +40,8 @@ canonical page (backlog-folds.ndjson records each fold and each refusal). They w
 `new` candidate, so a later batch's candidate can join them.
 
 A cluster is PROMOTED, for an agent to write as a canonical page in the
-conditional-model format, once it rests on two independent sources, or on one
+conditional-model format, once it rests on two independent sources (no shared author and
+not the same publishing organisation: settle_candidates.independent), or on one
 synthesis (a meta-analysis or systematic review) coded q3 or above. Nothing here
 writes a principle or pattern page.
 

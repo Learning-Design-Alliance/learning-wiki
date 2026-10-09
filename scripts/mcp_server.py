@@ -150,10 +150,19 @@ def _tokens(s: str) -> list[str]:
 
 
 def _title_key(title: str) -> str:
-    """Titles that differ only in case, punctuation, filler words or hyphen-vs-underscore
-    slugs are one page written twice ("Flashcard Drill" as flashcard-drill and flashcard_drill;
+    """Titles that differ only in case, punctuation, filler words, word endings or
+    hyphen-vs-underscore slugs are one page written twice ("Flashcard Drill" as flashcard-drill and flashcard_drill;
     857 such pairs, CLAUDE.md), so search shows the pair once."""
-    return " ".join(t for t in _tokens(title) if t not in _FILLER)
+    return " ".join(_stem(t) for t in _tokens(title) if t not in _FILLER)
+
+
+def _stem(word: str) -> str:
+    """A light suffix strip, so "Promote a Growth Mindset" and "Promoting a Growth
+    Mindset" are one title; four letters must remain, so short words are left alone."""
+    for suf in ("ations", "ation", "ments", "ment", "ings", "ing", "ions", "ion", "ies", "es", "ed", "s"):
+        if word.endswith(suf) and len(word) - len(suf) >= 4:
+            return word[:-len(suf)]
+    return word[:-1] if word.endswith("e") and len(word) > 5 else word
 
 
 # Words whose presence or absence does not make a title another page's ("The Effects
@@ -217,8 +226,8 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
             score = -100 + 3 * covered + min(score, 10) / 10
         else:
             # A page much of the wiki links to is more often the one wanted than a
-            # one-source page with the same words: up to +6 at ~400 inbound links.
-            score += 3 * covered + min(6.0, math.log1p(_inbound(wiki, pid)))
+            # one-source page with the same words: +6 at 20 inbound links, at most +10.
+            score += 3 * covered + min(10.0, 2 * math.log1p(_inbound(wiki, pid)))
         if wiki.pages[pid].get("canonical") and covered == len(terms):
             # The hub for an idea outranks its fragments, draft or not, when the
             # query names that idea (every word in its title or description); a

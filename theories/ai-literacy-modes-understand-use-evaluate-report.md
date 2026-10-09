@@ -45,7 +45,6 @@ The report presents Digital Promise's AI Literacy Framework as three interconnec
 - [Powerful Learning Four Qualities Digital Promise](powerful-learning-four-qualities-digital-promise.md)
 - [AI Literacy Framework of three interconnected Modes of Engagement: Understand, Evaluate, and Use](ai-literacy-framework-three-modes-of-engagement.md)
 - [AI literacy as critical understanding, use, and evaluation of AI systems](ai-literacy-framework-digital-promise.md)
-- [AI literacy as critical understanding, use, and evaluation of AI systems](ai-literacy-understand-use-evaluate.md)
 - [Three ways to engage with AI in educational contexts: Interact, Create, and Apply](interact-create-apply-ai-engagement-modes.md)
 - [Three Types of Use: Interacting with AI, Creating with AI, and Problem Solving with AI](three-types-of-ai-use-interact-create-problem-solve.md)
 

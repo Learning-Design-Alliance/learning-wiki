@@ -82,7 +82,7 @@ Record: **task and criterion → supports present (prompts, model, rubric, feedb
 
 ## Elements and limits
 
-[Goal setting](../elements/goal-setting.md), [self-monitoring](../elements/self-monitoring.md), [prompts](../elements/prompts.md), [metacognitive strategies](../elements/metacognitive-strategies.md), [self-assessment](../elements/self-assessment.md), [rubric](../elements/rubric.md), [feedback](../elements/feedback.md), [peer feedback](../elements/peer-feedback.md), [reflection](../elements/reflection.md), [daily before-and-after SRL learning diary](../elements/daily-before-and-after-srl-learning-diary.md) and [fading scaffolding](../elements/fading-scaffolding.md).
+[Goal setting](../elements/goal-setting.md), [self-monitoring](../elements/self-monitoring.md), [prompts](../elements/prompts.md), [metacognitive strategies](../elements/metacognitive-strategies.md), [self-assessment](../elements/self-assessment.md), [rubric](../elements/rubrics.md), [feedback](../elements/feedback.md), [peer feedback](../elements/peer-feedback.md), [reflection](../elements/reflection.md), [daily before-and-after SRL learning diary](../elements/daily-before-and-after-srl-learning-diary.md) and [fading scaffolding](../elements/fading-scaffolding.md).
 
 This pattern is scoped to regulation attached to subject-matter tasks over a unit. Standalone study-skills courses, motivational interventions, behavioural self-monitoring for on-task conduct and adaptive systems that take regulation decisions for the learner are distinct configurations with their own evidence. The present policy supports observation and design reasoning; its branches, fading rule and the role of the learner's valued goal remain to be tested with actual learners.
 

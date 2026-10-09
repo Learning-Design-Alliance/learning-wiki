@@ -52,7 +52,7 @@ The report's organizing theory is that teaching, like a journey, must be planned
 - [Differentiated Teaching](../strategies/differentiated_teaching.md)
 - [Diagnostic Assessment](../strategies/diagnostic-assessment.md)
 - [Asset Based Teaching](../strategies/asset-based_teaching.md)
-- [Relating Math to Student Strengths](../strategies/relating_math_to_student_strengths.md)
+- [Relating Math to Student Strengths](../strategies/relate_math_to_student_strengths.md)
 - [Reflecting on Student Strengths and Challenges](../strategies/reflecting_on_student_strengths_and_challenges.md)
 
 ## Key Sources

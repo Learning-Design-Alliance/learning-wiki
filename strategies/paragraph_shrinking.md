@@ -64,7 +64,7 @@ Paragraph Shrinking operationalizes summarization as a generative learning strat
 
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — shares the goal of comprehension monitoring but uses teacher-modeled predicting, questioning, clarifying, and summarizing in small groups rather than scripted dyads
 - [Peer Tutoring](../strategies/peer-tutoring.md) — the broader family of structured peer-role activities; Paragraph Shrinking is the summarization-specific instance
-- [Summarization](../strategies/summarization.md) — the general strategy; Paragraph Shrinking is a constrained, peer-delivered implementation
+- [Summarization](summarizing.md) — the general strategy; Paragraph Shrinking is a constrained, peer-delivered implementation
 - [Arrange PALS tutor training through AIR by specifying training type, grade level, group size, and location](pals-air-tutoring-training-request-strategy.md)
 
 ## Examples

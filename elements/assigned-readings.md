@@ -56,9 +56,9 @@ Assigned readings support self-paced encoding and allow learners to revisit diff
 - 
 
 ## Related Elements
-- [Lecture](lecture.md) — readings front-load content so lecture time can focus on elaboration and application
+- [Lecture](lectures.md) — readings front-load content so lecture time can focus on elaboration and application
 - [Independent Study](independent-study.md) — assigned readings are the core material of self-directed study
-- [Summarization](../strategies/summarization.md) — a generative processing task that turns reading into retrieval and organization
+- [Summarization](../strategies/summarizing.md) — a generative processing task that turns reading into retrieval and organization
 - [Case Studies](case-studies.md) — readings that present authentic scenarios for analysis rather than exposition
 - [Advance Organizers](advance-organizers.md) — structure given before reading to support integration
 

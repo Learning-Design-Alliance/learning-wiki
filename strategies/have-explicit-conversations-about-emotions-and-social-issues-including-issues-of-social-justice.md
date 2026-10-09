@@ -93,7 +93,7 @@ The social-issues half rests on a different and less settled base. Jagers and co
 
 ## Related Strategies
 - [Emotion Identification and Labeling](emotion_identification_and_labeling.md) — the vocabulary foundation the emotions half depends on
-- [Identifying Feelings](identifying_feelings.md) — the learner-facing routine for naming internal states
+- [Identifying Feelings](identify_feelings.md) — the learner-facing routine for naming internal states
 - [Community-Building Circles](community-building-circles.md) — the structure that distributes airtime and makes silence acceptable
 - [Restorative Circles](restorative-circles.md) — the same format applied after harm has occurred
 - [Structured Academic Controversy](structured-academic-controversy.md) — the format for contested questions that requires engaging the opposing case

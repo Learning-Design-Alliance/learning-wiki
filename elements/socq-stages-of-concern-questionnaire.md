@@ -1,6 +1,7 @@
 ---
 type: element
 id: socq-stages-of-concern-questionnaire
+aliases: [stages-of-concern-questionnaire-socq]
 title: Stages of Concern Questionnaire (SoCQ)
 description: The SoCQ is a Likert-type instrument developed to measure the seven hypothesized Stages of Concern.
 status: draft
@@ -12,6 +13,10 @@ sources:
     resource: "https://eric.ed.gov/?id=ED250163"
     title: "Loucks, Susan F. (1977). Concerns Expressed by Elementary School Teachers about the Implementation of the SCIS Curriculum. https://eric.ed.gov/?id=ED250163"
     author: Loucks, Susan F
+  - id: wesley-1996
+    resource: "https://eric.ed.gov/?id=ED402907"
+    title: "Wesley, Marion T., Jr. and Franks, Melvin Eugene. (1996). Advanced Adoption of Computer Technology in the Classroom and Teachers' Participation in Voluntary Innovation Adoption Activities. https://eric.ed.gov/?id=ED402907"
+    author: Wesley, Marion T., Jr. and Franks, Melvin Eugene
 ---
 
 # Stages of Concern Questionnaire (SoCQ)
@@ -27,17 +32,20 @@ The SoCQ is a Likert-type instrument developed to measure the seven hypothesized
 ### Context
 #### Requirements
 - Test-retest reliability correlations ranged from .65 to .86 across the seven stage scores, and internal consistency alpha coefficients ranged from .80 to .93, with .96 for the total score.
+- Administration to the population of adopters to produce concerns profiles comparable across the seven CBAM stages
 #### Constraints
 - 
 
 ### Target Learners
-- elementary school teachers
+- elementary school teachers adopting classroom technologies
 
 ### Target Learning Goals
 - diagnosing teacher concerns to tailor inservice support
+- identifying adopters' developmental stage of concerns about an innovation to guide support
 
 ### Affordances
 - [Seven Stages Of Concern Innovation](../theories/seven-stages-of-concern-innovation.md)
+- [Cbam Stages Of Concern Model](../theories/cbam-stages-of-concern-model.md)
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
@@ -48,7 +56,6 @@ The SoCQ is a Likert-type instrument developed to measure the seven hypothesized
 
 ## Related Elements
 
-- [Stages of Concern Questionnaire (SoCQ)](stages-of-concern-questionnaire-socq.md)
 - [Stages of Concern Questionnaire (SoCQ): a 35-item diagnostic instrument](stages-of-concern-questionnaire-35-item.md)
 
 ## Examples
@@ -58,3 +65,46 @@ The SoCQ is a Likert-type instrument developed to measure the seven hypothesized
 
 ## Key Sources
 - Loucks, Susan F. (1977). Concerns Expressed by Elementary School Teachers about the Implementation of the SCIS Curriculum. https://eric.ed.gov/?id=ED250163
+- Wesley, Marion T., Jr. and Franks, Melvin Eugene. (1996). Advanced Adoption of Computer Technology in the Classroom and Teachers' Participation in Voluntary Innovation Adoption Activities. https://eric.ed.gov/?id=ED402907
+
+<!-- merged 2026-10-09 from elements/stages-of-concern-questionnaire-socq ("Stages of Concern Questionnaire (SoCQ)"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Stages of Concern Questionnaire (SoCQ)
+
+> **Element** · [All elements](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The Stages of Concern Questionnaire is a quantitative instrument used to measure teachers' concerns profiles across the CBAM stages of concern. In this study, "Quantitative data was obtained through use of the Stages of Concern Questionnaire (SoCQ)", administered to the total teacher group (n=19) at the case-study school. Its scores were used to identify the four teachers with the most advanced concerns profiles, who then became informant interviewees for the qualitative portion of the research.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Administration to the population of adopters to produce concerns profiles comparable across the seven CBAM stages
+#### Constraints
+- 
+
+### Target Learners
+- elementary school teachers adopting classroom technologies
+
+### Target Learning Goals
+- identifying adopters' developmental stage of concerns about an innovation to guide support
+
+### Affordances
+- [Cbam Stages Of Concern Model](../theories/cbam-stages-of-concern-model.md)
+
+### Claims
+<!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
+- 
+
+## Related Elements
+
+- [Stages of Concern Questionnaire (SoCQ)](socq-stages-of-concern-questionnaire.md)
+
+## Examples
+-
+
+## Key Sources
+- Wesley, Marion T., Jr. and Franks, Melvin Eugene. (1996). Advanced Adoption of Computer Technology in the Classroom and Teachers' Participation in Voluntary Innovation Adoption Activities. https://eric.ed.gov/?id=ED402907
+-->

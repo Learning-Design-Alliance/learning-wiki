@@ -71,7 +71,7 @@ Underlining alone is one of the weakest studied techniques for durable learning;
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — provide the relevance framework novices need before marking selectively
-- [Summarization](../strategies/summarization.md) — the natural next step; annotations become the raw material for summaries
+- [Summarization](../strategies/summarizing.md) — the natural next step; annotations become the raw material for summaries
 - [Practice Testing](practice-testing.md) — a more effective use of the same review time; annotations can be converted into self-test questions
 - [Graphic Organizers](graphic-organizers.md) — externalize text structure the way annotations externalize reader response
 
