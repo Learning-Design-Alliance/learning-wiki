@@ -47,6 +47,7 @@ Niess, Sadri and Lee (2007), building on Rogers' innovation-decision process, de
 - [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](levels-of-use-innovation-eight-level-framework.md)
 - [Levels of Use of the Innovation: eight developmental levels with decision points](levels-of-use-innovation-eight-levels.md)
 - [Concerns-Based Adoption Model: change is a process with diagnosable dimensions](cbam-change-process-diagnostic-dimensions.md)
+- [Align technology use with specific learning goals rather than adopting technology for its own sake](align-technology-use-with-learning-goals.md)
 
 ## Examples
 

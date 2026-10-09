@@ -59,9 +59,11 @@ Syllable division reduces the working-memory burden of decoding long words by co
 6. Fade prompts and move toward whole-word recognition so segmentation does not become a permanent crutch ([Automaticity](../elements/automaticity.md)).
 
 ## Related Strategies
+
 - [Systematic Phonics Instruction](../strategies/systematic-phonics-instruction.md) — syllable division extends phonics from single-syllable to multisyllabic words
 - [Morphology Instruction](../strategies/morphology-instruction.md) — an alternative or complementary unit for dividing longer words at meaning boundaries
 - [Repeated Reading](../strategies/repeated-reading.md) — builds the fluency that division instruction aims to unblock
+- [Embed spelling (encoding) practice of taught words in decoding lessons](embed-spelling-encoding-in-decoding-lessons.md)
 
 ## Examples
 - **Orton-Gillingham-based programs** (e.g., [Wilson Reading System](https://www.wilsonlanguage.com), [SPIRE](https://www.schoolspecialty.com/spire)) teach syllable types and division patterns in a structured, cumulative sequence with dictation practice.

@@ -59,9 +59,11 @@ Self-regulation instruction has consistent positive effects on academic performa
 5. **Fade supports**: progressively remove prompts and templates as learners internalize the cycle, transferring regulatory control to the learner.
 
 ## Related Strategies
+
 - [Teach Metacognitive Strategies](teach-metacognitive-strategies.md) — the cognitive-monitoring subset of the self-regulation cycle
 - [Use Formative Feedback](use-formative-feedback.md) — external feedback that learners must learn to interpret and act on
 - [Goal Setting with Learners](goal-setting-with-learners.md) — the forethought phase made collaborative
+- [Teach students to examine their own data and set learning goals](teach-students-examine-own-data-set-goals.md)
 
 ## Examples
 **Zimmerman & Campillo's cycle in writing instruction** — Students plan (set goals for audience and structure), draft with self-monitoring checklists, and revise after self-evaluation against criteria; the Self-Regulation Strategy Development model (SRSD) for writing has strong experimental support across grade levels.

@@ -66,6 +66,7 @@ CICO operationalizes [Behaviorism](../theories/behaviorism.md) — clear expecta
 - [Mentoring](mentoring.md) — the adult relationship component that distinguishes CICO from a bare token system
 - [Self-Monitoring](self-monitoring.md) — the standard fade path for students exiting CICO
 - [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](mentoring-for-community-lifelong-learning.md)
+- [Use behavior ratings to provide feedback to students](use-behavior-ratings-provide-feedback.md)
 
 ## Examples
 - **Tier 2 within [PBIS](https://www.pbis.org)** — CICO is the most widely implemented Tier 2 practice in Positive Behavioral Interventions and Supports schools; pbis.org provides free point-card templates and fidelity checklists.

@@ -46,3 +46,5 @@ Survey question on grade levels involved in maker learning, reported in Figure 1
 - [Maker champions rate their programs highest in Tools, Materials, and Spaces, while curricular integration lags behind independent spaces](maker-self-assessment-tools-high-curricular-integration-lags.md) — related
 - [Maker champions rank student project ideas and guides as the most needed resource, with online professional development least desired](maker-champions-project-guides-highest-need.md) — related
 - [Maker learning in K-12 schools is typically initiated and developed at the grassroots level, led by teachers, librarians, and coaches rather than administrators](maker-learning-grassroots-initiation.md) — related
+- [Maker learning implementation clusters into five common areas, with an emerging balance between dedicated makerspaces and classroom making](five-maker-implementation-areas-makerspace-classroom-balance.md) — related
+- [Making is being integrated across core subjects, with English/Language Arts the third highest ranking subject for integration](making-integrated-across-subjects-science-ela.md) — related

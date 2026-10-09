@@ -45,7 +45,8 @@ The article presents a worked scenario in which a DLP used across several school
 - [Working a research scenario against a DLP surfaced concrete platform needs: adding measures, linking observational data, and enabling districtwide studies](../claims/scenario-terracotta-platform-capability-lessons.md) [+W]
 
 ## Related Elements
-- 
+
+- [Districtwide data system for secure, reliable data management](districtwide-data-system-element.md)
 
 ## Examples
 

@@ -44,6 +44,7 @@ A guide prepared for the Institute of Education Sciences' Regional Education Lab
 
 - [Use data visualization to make complex concepts accessible in research communication](../strategies/data-visualization-for-accessible-research-communication.md)
 - [Remove Visual Distractions](../strategies/remove_visual_distractions.md)
+- [Dissemination planning and accurate, accessible data visualization](../strategies/dissemination-plan-and-visualization-tips.md)
 
 ## Key Sources
 - Amy Berridge. (2014). Graphic Design for Researchers. Washington, DC: U.S. Department of Education, Institute of Education Sciences, Regional Educational Laboratory. https://www.mathematica.org/publications/graphic-design-for-researchers

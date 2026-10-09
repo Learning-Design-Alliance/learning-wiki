@@ -37,7 +37,8 @@ The report recommends providing completed example forms and a vendor-facing inta
 - Efficient review of new edtech tools so instructional needs are met without excessive administrative burden
 
 ## Related Strategies
-- 
+
+- [Require a brief certification questionnaire to filter vendor pitches](certification-questionnaire-filters-vendor-pitches.md)
 
 ## Examples
 -

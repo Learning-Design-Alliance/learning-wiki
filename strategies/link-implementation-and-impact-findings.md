@@ -42,6 +42,7 @@ The guide recommends that analyses and reporting connect implementation data to 
 - [Document the implementation context and measure the intervention-control contrast](document-context-and-measure-contrast.md)
 - [Specify implementation research questions as a distinct step in impact study design](specify-implementation-research-questions-step.md)
 - [Follow a step-by-step estimation procedure with example-based computer code when analyzing PN-RCT data](step-by-step-pn-rct-model-estimation-guide.md)
+- [Report evaluation results with implementation and context details so schools can judge fit, and use measures educators value](report-implementation-context-evaluation.md)
 
 ## Examples
 -

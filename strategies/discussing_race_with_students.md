@@ -61,9 +61,11 @@ Race talk triggers strong emotions and identity threat that can shut down produc
 6. Follow up in subsequent sessions; race talk is a curriculum, not an event
 
 ## Related Strategies
+
 - [Structured Academic Controversy](../strategies/structured_academic_controversy.md) — a debate protocol that channels disagreement productively, useful for contested racial topics
 - [Restorative Circles](../strategies/restorative_circles.md) — a normed dialogue structure suited to repairing harm after difficult conversations
 - [Culturally Responsive Teaching](../strategies/culturally_responsive_teaching.md) — the broader stance that makes race talk continuous rather than exceptional
+- [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
 
 ## Examples
 - **[Teaching Tolerance / Learning for Justice](https://www.learningforjustice.org)** — published K–12 curricula, "Let's Talk!" facilitation guide, and critical practices for anti-bias education

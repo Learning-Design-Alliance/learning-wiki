@@ -64,6 +64,7 @@ Micro credentials operationalize [Competency-Based Assessment](../principles/com
 - Portfolio assessment — portfolios frequently serve as the evidence base for a credential
 - [Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education](digital-badges-maker-education-recognition.md)
 - [Advance micro-credentialing policy across five domains: controlling for quality, counting what matters, finding time, leveraging expertise, and designing for effectiveness](five-domains-micro-credentialing-policy.md)
+- [Badge-based competency coaching in which teachers design customized mastery paths and earn badges for demonstrated evidence of practice](e2l-badge-based-competency-coaching.md)
 
 ## Examples
 - **[IBM SkillsBuild](https://skillsbuild.org)** and **IBM Digital Badges** — industry-recognized badges for technical skills, each tied to an assessment with published criteria

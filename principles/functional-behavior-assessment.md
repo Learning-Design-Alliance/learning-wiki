@@ -12,7 +12,7 @@ generated:
 # Functional Behavior Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (10 for, 6 mixed) · 18 studies (7 quant-synthesis, 6 causal, 4 review, 1 associational), `q1`–`q4` · 4 of 18 report an effect size · 11 claims rest on one study
+> **Evidence** · 17 claims (11 for, 6 mixed) · 19 studies (7 quant-synthesis, 6 causal, 5 review, 1 associational), `q1`–`q4` · 4 of 19 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -112,6 +112,7 @@ The earlier page cited no claims. These claims bear on neighbouring parts of the
 - [Teachers feel more in control and more competent when they have a formal plan for discipline and procedures](../claims/formal-discipline-plan-increases-teacher-control-and-competence.md) [+W] — bears on the earlier page's case for planned, documented responses; a second-hand statement in a practitioner brief, about teachers' feelings, not student behavior.
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](../claims/teacher-student-relationships-improve-engagement.md) [~M] — bears on the trust the earlier page says documented, fair responses build; correlational meta-analyses that do not show direction.
 - [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W] — a second-hand narrative assertion with no sample or effect size; listed because the earlier page rested its theory link on reinforcement.
+- [Strategies not linked to a problem behavior's specific context are associated with increases in the occurrence of that behavior](../claims/context-unlinked-strategies-increase-problem-behavior.md) [+W] — attached 2026-10-09 from Epstein et al. (2008), which proposed "Identify the specifics of the problem behavior and the conditions that prompt and reinforce it before intervening"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

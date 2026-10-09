@@ -46,6 +46,7 @@ The CT Pathways Toolkit is a resource for school districts to guide them in the 
 - [Computing Pathways Research Practice Partnership of districts designing K-12 CS/CT pathways](computing-pathways-rpp-districts.md)
 - [ICCSD Inclusive CT Pathways competency map with five key competencies](iccsd-inclusive-ct-pathways-competency-map.md)
 - [IPSD Inclusive CT Pathway competency map of six computational thinking competencies](ipsd-inclusive-ct-competency-map.md)
+- [Talladega Inclusive CT Pathways document and competency map](talladega-inclusive-ct-pathways-document.md)
 
 ## Examples
 

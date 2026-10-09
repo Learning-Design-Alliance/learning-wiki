@@ -46,3 +46,4 @@ WWC review of the Smith et al. (2000) randomized controlled trial with severe at
 - [The Lovaas Model has no discernible effects on communication/language competencies for children with disabilities](lovaas-model-no-discernible-communication-effects.md) — related
 - [The Lovaas Model has no discernible effects on functional abilities for children with disabilities](lovaas-model-no-discernible-functional-abilities-effects.md) — related
 - [The Lovaas Model has no discernible effects on social-emotional development and behavior for children with disabilities](lovaas-model-no-discernible-social-emotional-effects.md) — related
+- [The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points](effect-size-025-substantively-important-threshold.md) — a broader claim this one bears on

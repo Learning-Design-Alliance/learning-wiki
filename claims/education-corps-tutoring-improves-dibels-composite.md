@@ -60,3 +60,7 @@ A randomized study across 9 schools in a single large North Carolina district du
 - [The Experience Corps program was found to be a low burden to teachers](ec-program-low-burden-to-teachers.md) — related
 - [Students receiving Experience Corps tutoring and mentorship showed significant improvements in reading and comprehension skills](ec-tutoring-improves-reading-comprehension.md) — related
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on
+- [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related
+- [In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls](amira-rct-woodcock-effect-064.md) — related
+- [Schools using only teachers, administrators, or paraprofessionals as tutors were more likely to serve students with higher baseline DIBELS scores](ontrack-tutor-qualifications-baseline-selection.md) — related
+- [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related

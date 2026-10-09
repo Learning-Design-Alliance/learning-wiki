@@ -60,10 +60,12 @@ Close reading concentrates effort on a small amount of high-quality text, allowi
 6. Fade teacher questioning toward independent analytic reading over time [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ## Related Strategies
+
 - [Annotating](../principles/annotating.md) — the marking practice that makes each rereading purposeful and visible
 - [Think-Aloud](../elements/think-aloud.md) — teacher modeling of the analytic moves close reading requires
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — a complementary comprehension strategy distributing questioning among learners
 - [Socratic Seminar](../strategies/socratic-seminar.md) — a discussion format well suited to the culminating evidence-based conversation
+- [Reread the same passage 3–4 times, each time with a different purpose](purposeful-repeated-reading-three-four-times.md)
 
 ## Examples
 - **Fisher & Frey's close reading lesson routine** — a widely adopted three-reading, text-dependent-question structure used in K–12 intervention settings.

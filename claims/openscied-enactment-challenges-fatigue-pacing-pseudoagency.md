@@ -81,3 +81,4 @@ SEET analysis across three units from the 2020-2021 field test, summarized by th
 - [Professional learning and other teacher supports are perceived as foundational, addressing root causes of many OpenSciEd practitioner challenges across adoption, enactment, and assessment.](openscied-teacher-supports-foundational.md) — a broader claim this one bears on
 - [Student hat activities and planning-reflection tools support teachers' curricular sensemaking, content understanding, and empathy with student experiences](student-hat-planning-tools-support-sensemaking.md) — related
 - [Students find OpenSciEd units relevant and coherent, with over 90% reporting relevance and 87% reporting the lesson ties to the bigger picture](openscied-student-relevance-coherence.md) — related
+- [Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories](whp-first-year-overwhelm-and-modifications.md) — related

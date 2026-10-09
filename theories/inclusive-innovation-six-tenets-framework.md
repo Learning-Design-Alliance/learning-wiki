@@ -51,6 +51,9 @@ The Inclusive Innovation R&D model is an equity-centered education research and 
 - [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](co-design-core-tenets-digital-promise.md)
 - [Co-design framework with core tenets of power sharing, relationships, and capability building](codesign-core-tenets-framework.md)
 - [Inclusive Innovation model with Core Tenets of co-leadership with those most proximate to the challenge](inclusive-innovation-model-core-tenets.md)
+- [Six core tenets of Collaborative Innovation, organized as Practice and Impact tenets](collaborative-innovation-core-tenets.md)
+- [Collaborative Innovation: a co-leadership, co-research, and co-design R&D model unfolding through six phases](collaborative-innovation-six-phase-rd-model.md)
+- [Inclusive Innovation: an equity-centered R&D process with five phases and six Core Tenets](inclusive-innovation-equity-centered-rd-process.md)
 
 ## Examples
 

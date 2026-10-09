@@ -41,6 +41,7 @@ Teachers are implementation ready after 1 full day of training; in the study the
 - [Provide teachers a full day of training before starting ELM and a second full day before the second half of the program](elm-two-full-day-professional-development-strategy.md)
 - [Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions](classtime-kickoff-plus-ongoing-pd-strategy.md)
 - [Support Math 180 teachers with initial start-up training plus 2-3 coaching visits during the year](math-180-startup-training-coaching-visits.md)
+- [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
 
 ## Examples
 -

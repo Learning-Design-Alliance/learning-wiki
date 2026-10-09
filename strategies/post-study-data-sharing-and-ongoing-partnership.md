@@ -41,6 +41,7 @@ This strategy governs the post-study phase: present final data in ways useful fo
 
 - [During a study, researchers should visit regularly, give back to the school community, minimize classroom disruption, and share initial data for feedback](during-study-regular-visits-giving-back.md)
 - [Before a study, researchers should present the proposal to district administration, hold conversations with administrators and teachers, and host parent events to build buy-in](pre-study-stakeholder-engagement-strategy.md)
+- [Multi-stakeholder analytics partnership using improvement science with strict data governance](improvement-science-analytics-partnership-strategy.md)
 
 ## Examples
 -

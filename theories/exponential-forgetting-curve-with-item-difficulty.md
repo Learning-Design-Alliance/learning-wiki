@@ -48,7 +48,8 @@ The article adopts a variant of the exponential forgetting curve, in which recal
 - [Spaced Repetition](../elements/spaced-repetition.md)
 
 ## Examples
--
+
+- [Learning decomposition: fit exponential learning curves to compare the relative effectiveness of types of pedagogical support](../strategies/learning-decomposition-compare-support-effectiveness.md)
 
 ## Key Sources
 - Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. KDD ’16, San Francisco, CA, USA. https://doi.org/10.1145/2939672.2939850

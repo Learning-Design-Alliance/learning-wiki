@@ -60,9 +60,11 @@ Sentence expansion isolates sentence-level syntax as the unit of practice, reduc
 5. Fade the scaffolds: move from prompted expansion to free expansion, then require complex sentences in authentic writing tasks.
 
 ## Related Strategies
+
 - [Sentence combining](sentence-combining.md) — the merging variant of the same sentence-level practice
 - [Accessible syntax](accessible_syntax.md) — teaching sentence structures learners can then deploy in expansion
 - [Activate background knowledge](activate_background_knowledge.md) — expansion works best when the base sentence taps content learners already understand
+- [Use sentence construction activities to teach compound, complex, and compound-complex sentence types](sentence-construction-activities-three-sentence-types.md)
 
 ## Examples
 - **[The Writing Revolution](https://www.thewritingrevolution.org)** — Hochman & Wexler's method embeds sentence expansion, *because/but/so* frames, and sentence combining into content instruction across grade levels.

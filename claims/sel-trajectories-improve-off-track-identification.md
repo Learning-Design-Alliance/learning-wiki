@@ -50,3 +50,4 @@ Authors' summary finding from the longitudinal growth-model study of SEL traject
 - [Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status](self-management-growth-predicts-off-track-beyond-status.md) — a narrower finding that bears on this claim
 - [Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school](sel-trajectories-relate-secondary-school-transition.md) — related
 - [The on-track indicator is strongly related to students' likelihood of graduating](on-track-indicator-related-to-graduation-likelihood.md) — related
+- [Students often slip off track during transition years (6th and 9th grade) even when they previously performed well](transition-years-slipping-off-track.md) — related

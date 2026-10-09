@@ -52,6 +52,7 @@ The 5-Phase UX Design Loop is "a practical, iterative process for reducing uncer
 - [Distinguish product users from purchasers and recruit representative users through school-like community settings](../strategies/edu-ux-user-recruiting-and-customer-clarity.md)
 - [Use small-scale learning metrics during iteration and reserve proof metrics for later stages](../strategies/learning-metrics-small-scale-first.md)
 - [Product Testing](../strategies/product-testing.md)
+- [Use iterative design with short feedback loops and multiple user-feedback methods during product development](../strategies/iterative-design-short-feedback-loops.md)
 
 ## Key Sources
 - Gartrell, J. and Johnson, E. (2026). ATS Field Note: The UX Design Loop. In ATS Hub Field Note Series. https://doi.org/10.51388/20.500.12265/299

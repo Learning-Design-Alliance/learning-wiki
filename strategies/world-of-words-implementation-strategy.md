@@ -58,6 +58,7 @@ The report describes an implementation package for educators adopting World of W
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
 - [Provide sustained developer support (training, coaching, progress reports, and rapid technical help) when implementing ITSS](itss-implementation-support-strategy.md)
 - [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
+- [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 
 ## Examples
 -

@@ -59,9 +59,11 @@ Reasoning-focused instruction treats student explanations as the primary site of
 5. Explicitly compare solution methods for efficiency and generality, closing by naming the underlying concept — not just the answer.
 
 ## Related Strategies
+
 - [Error analysis](../principles/error-analysis.md) — diagnosing flawed worked examples is a core enactment of reasoning-focused instruction
 - [Productive failure](productive-failure.md) — letting students generate and discuss unsuccessful approaches before canonical instruction
 - [Think-pair-share](../patterns/think-pair-share.md) — a low-stakes structure for rehearsing reasoning before public discussion
+- [Teach students to intentionally choose from alternative algebraic strategies when solving problems, after they have procedural fluency](intentional-alternative-strategy-choice-sequenced-after-fluency.md)
 
 ## Examples
 - **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers elicit and build instruction around students' own solution strategies rather than demonstrating a single procedure.

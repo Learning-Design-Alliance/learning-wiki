@@ -47,3 +47,7 @@ Rubric pilot scoring of assignments including five World History Project lessons
 - [Scorers found all rubric dimensions important, with feedback bearing mainly on the scoring and training process rather than rubric design](scorer-feedback-dimensions-important-process-implications.md) — related
 - [Scorers had difficulty distinguishing rubric scoring from everyday grading and AP scoring, and training took longer than expected](scorer-training-longer-than-expected-grading-confusion.md) — related
 - [Two rubric dimensions (claims and evidence, comparison) showed low inter-scorer consistency in the pilot](hts-rubrics-low-consistency-claims-evidence-comparison.md) — related
+- [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — a broader claim this one bears on
+- [World History Project students show comparable competency to comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
+- [World History Project does not engage students more than business-as-usual curricula on first implementation, with somewhat negative perception trends](whp-first-year-engagement-negative-trend.md) — related
+- [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — possibly the same claim (merge candidate)

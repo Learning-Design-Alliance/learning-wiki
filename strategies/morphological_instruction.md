@@ -60,8 +60,10 @@ Morphological instruction works because it converts a large memory task (thousan
 5. Spiral previously taught morphemes into reading and writing tasks so analysis becomes habitual during authentic literacy work.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — morphological analysis builds on known words; activating familiar word families anchors new derivations
 - [Phonics instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) — the word-level complement: phonics handles grapheme–phoneme mapping, morphology handles meaning-bearing units above it
+- [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 
 ## Examples
 - **Structured Word Inquiry** (Bowers & Kirby) — classroom approach in which students investigate word families and etymology (e.g., why *do* appears in *does* and *done*), treating spelling as evidence of meaning. See [WordWorks Literacy Centre](https://wordworkskingston.com).

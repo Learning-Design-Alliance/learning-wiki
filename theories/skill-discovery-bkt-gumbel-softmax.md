@@ -42,6 +42,7 @@ This model estimates the binary problem-to-KC assignment matrix within a neural 
 ## Related Theories
 
 - [OptimNN: neural-network parameter generation (hypernetwork) for optimizing BKT](optimnn-hypernetwork-parameter-generation.md)
+- [dAFM: a neural-network fusion of psychometric and connectionist modeling enabling backpropagation-based Q-matrix refinement](dafm-qmatrix-refinement-framework.md)
 
 ## Examples
 -

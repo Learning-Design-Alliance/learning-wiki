@@ -40,6 +40,7 @@ AMSTI's professional development model combines an intensive summer training ses
 
 - [Two-tier professional development: intensive teacher training with weekly coach follow-up, plus a five-day summer institute and weekly seminars for coaches](ellm-two-tier-professional-development.md)
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
+- [Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines](summer-institute-plc-coaching-data-routines.md)
 
 ## Examples
 -

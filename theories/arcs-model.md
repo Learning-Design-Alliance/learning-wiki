@@ -64,6 +64,7 @@ ARCS is explicitly integrative: Keller built it by synthesizing constructs from 
 - [First Principles of Instruction](first-principles-of-instruction.md) — both are practitioner-facing syntheses that integrate multiple underlying theories into a compact, actionable design framework; Merrill explicitly treated motivation as an *outcome* of effective instruction rather than a separate design target, a direct point of contrast with ARCS's treatment of motivation as its own diagnosable, designable condition
 - [SDT motivational spectrum from amotivation through four extrinsic regulations to intrinsic motivation](sdt-motivational-spectrum-regulations.md)
 - [ARCS Motivational Design Model as a diagnostic framework for computer-based learning motivation](arcs-model-motivational-design-framework-m-tutor.md)
+- [Expectancy-value account of homework effort and motivation](expectancy-value-homework-effort.md)
 
 ## Examples
 

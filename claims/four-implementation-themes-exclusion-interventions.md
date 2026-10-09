@@ -45,3 +45,4 @@ Qualitative synthesis of nine UK-based process evaluations of stakeholder (teach
 - [Shared and well-communicated mission, vision, and goals are critical to district and CMO performance](shared-mission-vision-goals-critical-districts-cmos.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Teachers whose leaders prioritized at least one organizational capacity lever reported greater confidence and satisfaction with Skyline materials](leader-investment-lever-teacher-confidence-satisfaction-skyline.md) — a narrower finding that bears on this claim
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related

@@ -48,3 +48,4 @@ WWC synthesis of one quasi-experiment (Schoen & Hirsch, 2002) using a student ma
 - [Core-Plus Mathematics showed positive, statistically significant effects on ninth-grade ITED math and CPMP Course 1 and 2 posttest subtests after WWC adjustments](core-plus-significant-subtest-effects.md) — a narrower finding that bears on this claim
 - [One of four qualifying studies found significant positive ITED outcomes for Core-Plus Mathematics](core-plus-one-of-four-studies-significant.md) — related
 - [Qualifying Core-Plus studies used within-school matching because participation was by student choice](core-plus-studies-matched-within-schools.md) — related
+- [Cognitive Tutor® Geometry shows potentially negative effects on geometry outcomes, with an improvement index of –8 percentile points](cognitive-tutor-geometry-potentially-negative-effects.md) — related

@@ -48,3 +48,4 @@ The article's review of online instructional design reports "a shift from teache
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
+- [Student assessors led the pilot assessment of the Centering Students' Diverse Lived Experiences badge, shifting evaluation power toward student voice](student-assessors-led-csdle-pilot-assessment.md) — related

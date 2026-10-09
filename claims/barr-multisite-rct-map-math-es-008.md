@@ -49,3 +49,4 @@ A multi-site student-level randomized trial in six high schools in Maine, Califo
 - [A large multi-site cluster randomized study found a positive PSAT/NMSQT reading effect in one cohort (+0.13) but a smaller effect in a second cohort (+0.03)](barr-multisite-cluster-psat-cohort-variation.md) — related
 - [BARR improves reading achievement across grades 7–12 with an average effect size of +0.08 across three randomized studies](barr-reading-achievement-average-effect-008.md) — related
 - [In a large suburban southern California high school, BARR produced a significant positive reading effect (+0.14), larger for struggling readers (+0.21)](barr-suburban-high-school-reading-014-struggling-021.md) — related
+- [PLC at Work has a statistically significant positive effect on state-administered ACT Aspire math achievement scores (effect size = +0.08) after less than two years of implementation](plc-at-work-significant-math-effect.md) — related

@@ -66,6 +66,7 @@ Standard-based regrouping operationalizes [Assessment for Learning](../principle
 - [Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement](heterogeneous-grouping-for-science-projects.md)
 - [Start adult learners in homogeneous small groups and use individual instruction with gradual release](small-group-library-instruction-adult-learners.md)
 - [Use program-generated intervention reports to inform small-group instruction and one-on-one planning](pathblazer-reports-inform-small-group-instruction.md)
+- [Pair consistent tutors with small groups and use bi-weekly assessment data to drive grouping and instruction](air-reading-consistent-tutor-assessment-driven-grouping.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the diagnostic engine of the strategy

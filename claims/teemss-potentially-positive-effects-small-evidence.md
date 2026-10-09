@@ -59,3 +59,4 @@ The report's overview table lists one study, 181 students, average improvement i
 ## Related Claims
 - [KIPP charter schools have potentially positive effects on science achievement for middle and high school students](kipp-potentially-positive-science.md) — related
 - [TEEMSS produced a statistically significant positive effect on the grade 3–4 sound unit test in a quasi-experimental study](teemss-sound-unit-test-positive-effect.md) — related
+- [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](mtp-s-potentially-positive-general-achievement.md) — related

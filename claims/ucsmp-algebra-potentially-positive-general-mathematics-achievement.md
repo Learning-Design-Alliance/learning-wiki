@@ -51,3 +51,4 @@ Matched-pairs quasi-experiment (Thompson et al., 2006) comparing UCSMP Algebra (
 - [UCSMP Algebra has potentially positive effects on the algebra domain, with mixed findings across two studies and a small extent of evidence](ucsmp-algebra-potentially-positive-algebra-domain.md) — related
 - [The WWC rates multiple UCSMP courses as having potentially positive effects on mathematics achievement for secondary students](wwc-rating-multiple-ucsmp-courses-potentially-positive.md) — related
 - [Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base](educators-engage-researchers-via-what-works-clearinghouse.md) — related
+- [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](mtp-s-potentially-positive-general-achievement.md) — related

@@ -51,3 +51,4 @@ The report cites the late-2020 Common Sense Media and Boston Consulting Group do
 - [Student access to devices and internet rose from about 60 percent in March 2020 to at least 98 percent by March 2021](student-device-internet-access-near-universal.md) — related
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
+- [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related

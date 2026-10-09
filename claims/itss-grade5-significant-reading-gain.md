@@ -46,3 +46,4 @@ Randomized classroom-level study of ITSS with "2,485 fifth-grade students in 128
 - [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](itss-grade4-positive-nonsignificant.md) — related
 - [ITSS significantly improves Grade 7 reading comprehension in rural and suburban schools (effect size +0.18)](itss-grade7-significant-reading-gain.md) — related
 - [ITSS qualifies for a Strong evidence rating based on multiple randomized studies with average effect sizes of +0.15 (elementary) and +0.18 (secondary)](itss-strong-evidence-rating.md) — related
+- [In the grades 4-5 cluster RCT, ITSS produced statistically significant positive effects on all six comprehension outcomes (average effect size 0.24)](itss-grade45-rct-comprehension-gains.md) — related

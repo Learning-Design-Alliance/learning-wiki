@@ -45,3 +45,5 @@ The program overview reports a comparison between children who engaged in the pr
 ## Related Claims
 - [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](nico-nor-greater-science-learning-gains-than-comparison.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [Children who received both the classroom and home components made significantly more improvement in science learning than children who received the classroom component only](nico-nor-home-component-adds-science-gains.md) — possibly the same claim (merge candidate)
+- [Children in intervention classrooms made significantly more improvement in science learning than children in comparison (business as usual) classrooms](nico-nor-science-gains-over-comparison.md) — related

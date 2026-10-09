@@ -46,6 +46,7 @@ MATHia is Carnegie Learning's intelligent tutoring system for mathematics, devel
 - [MATHia/UpGrade: open-source field-trial platform integrated with Carnegie Learning's adaptive math tutoring system](mathia-upgrade-field-trial-platform.md)
 - [MATHia tutoring software](mathia-tutoring-software.md)
 - [Carnegie Learning High School Math Solution Algebra I curriculum](carnegie-learning-math-solution-algebra-i-curriculum.md)
+- [Cognitive Tutor® secondary mathematics curriculum (Carnegie Learning)](cognitive-tutor-secondary-mathematics-curriculum.md)
 
 ## Examples
 -

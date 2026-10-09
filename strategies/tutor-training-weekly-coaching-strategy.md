@@ -44,6 +44,7 @@ OnYourMark prepares its tutors with "20 hours of training prior to tutoring star
 - [Provide at least 25 hours of targeted volunteer training, with at least half pre-service and the remainder throughout the year](experience-corps-25-hour-training-model.md)
 - [Select tutoring providers that tailor professional development to tutor experience levels and invest in student-tutor relationship building](select-providers-tailoring-pd-and-relationship-building.md)
 - [Build local capacity by recruiting and training staff from the schools' rural zones](recruit-train-local-rural-zone-staff.md)
+- [Tiered training and ongoing supervision for volunteer tutors and AmeriCorps members](reading-partners-tiered-tutor-training-strategy.md)
 
 ## Examples
 -

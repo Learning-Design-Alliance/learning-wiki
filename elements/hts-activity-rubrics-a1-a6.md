@@ -50,6 +50,7 @@ A set of six rubric dimensions (A1-A6) meant to study the extent to which high s
 ## Related Elements
 
 - [Historical Thinking Skills Student Work Rubrics (S1-S6) for assessing historical thinking in student products](hts-student-work-rubrics-s1-s6.md)
+- [Rubrics for Examining Historical Thinking Skills in High School World History Activities and Student Work](historical-thinking-skills-rubrics-activities-student-work.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ The article's framing of prior research in its introduction: it reports that stu
 - [Understanding how a student develops social-emotionally over intermediate school can improve identification of students not on track to succeed in high school](sel-trajectories-improve-off-track-identification.md) — a narrower finding that bears on this claim
 - [Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school](sel-trajectories-relate-secondary-school-transition.md) — a narrower finding that bears on this claim
 - [Successfully transitioning from intermediate school to secondary school is pivotal for students to remain on track to graduate](transition-pivotal-for-remaining-on-track.md) — related
+- [Students often slip off track during transition years (6th and 9th grade) even when they previously performed well](transition-years-slipping-off-track.md) — related

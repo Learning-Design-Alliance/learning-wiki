@@ -46,3 +46,5 @@ Analysis of pre/post parent interviews and case examples of two bilingual famili
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related
 - [Most families used the Activities section and rated it highly helpful, with many completing two or more activities](splash-bubbles-activities-section-high-ratings-multiple-completion.md) — related
 - [Sync feature uptake declined between survey and interview, with non-users citing unawareness, technical difficulties, or single-device viewing](splash-bubbles-sync-feature-uptake-and-barriers.md) — related
+- [Families who used the app's features more extensively reported stronger changes in joint media engagement and science](deeper-app-use-linked-stronger-jem-changes.md) — possibly the same claim (merge candidate)
+- [Over 70% of participants in the field and station studies rated the app a 4 or 5 for supporting children's science learning](over-70-percent-rated-app-helpful.md) — related

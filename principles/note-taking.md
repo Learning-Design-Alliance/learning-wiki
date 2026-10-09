@@ -152,12 +152,14 @@ Note completeness, note accuracy, immediate performance, delayed retention, tran
 - [Self-Monitoring](self-monitoring.md) — the "one question" at each pause is a check on one's own understanding during the task.
 
 ## Examples
+
 - **Cornell-style notes**: Learners separate key ideas, details, and later summary or questions.
 - **Graphic note-taking**: Learners use spatial or visual structure to capture relationships.
 - **Guided notes**: Instructors provide partial outlines or cues so learners can focus on meaning rather than transcription.
 - **Annotated reading notes**: Learners mark claims, evidence, questions, and unfamiliar vocabulary directly alongside a text.
 - [Note-taking (element)](../elements/note-taking.md) — the instructional element.
 - [Guided Notes](../strategies/guided-notes.md), [Interactive Note Taking](../strategies/interactive-note-taking.md), [Graphic Notes](../strategies/graphic_notes.md) and [Sketchnoting](../strategies/sketchnoting.md) — strategies applying this principle.
+- [Notetaking practices: verbatim statements, contextual notes, and 24-hour review](../strategies/structured-notetaking-verbatim-context-review.md)
 
 ## Key Sources
 - Makany, T., Kemp, J., & Dror, I. E. (2009). Optimising the use of note-taking as an external cognitive aid for increasing learning. *British Journal of Educational Technology, 40*(4), 619-635. [https://doi.org/10.1111/j.1467-8535.2008.00906.x](https://doi.org/10.1111/j.1467-8535.2008.00906.x)

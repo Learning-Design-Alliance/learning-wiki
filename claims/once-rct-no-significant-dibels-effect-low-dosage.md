@@ -57,3 +57,6 @@ A randomized controlled trial conducted in 13 schools in a large urban East Coas
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related
 - [Students receiving Experience Corps tutoring and mentorship showed significant improvements in reading and comprehension skills](ec-tutoring-improves-reading-comprehension.md) — related
 - [Fifth graders receiving online tutoring plus a fractions game learned more about fractions than students with game access only](online-tutoring-plus-game-improves-fraction-learning.md) — related
+- [In a matched comparison study, Amira students outperformed matched controls on end-of-year DIBELS by +0.26 in kindergarten and +0.06 in first grade](amira-matched-dibels-kindergarten-first-grade.md) — related
+- [Math Corps effects are larger for students receiving the optimal dosage](math-corps-optimal-dosage-larger-effect.md) — related
+- [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related

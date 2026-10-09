@@ -89,3 +89,4 @@ A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 1
 - [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related
 - [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — a narrower finding that bears on this claim
 - [Multisensory literacy strategies help students with low working memory become better at decoding](multisensory-strategies-low-working-memory-decoding.md) — related
+- [Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related

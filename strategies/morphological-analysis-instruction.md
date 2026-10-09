@@ -64,6 +64,7 @@ Morphological analysis converts vocabulary learning from rote memorization of th
 - [Comparing Contrasting Cases](../strategies/comparing-contrasting-cases.md) — contrasting word families sharpens morpheme discrimination
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — extending a known root to a new word is analogical transfer [Analogical reasoning improves transfer.](../claims/analogical-reasoning-improves-transfer.md) [+M]
 - [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
+- [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 
 ## Examples
 - **[REWARDS](https://www.voyagersopris.com/rewards)** (Reading Excellence: Word Attack and Rate Development Strategies) — a widely used intervention teaching adolescent struggling readers to segment multisyllabic words using prefixes and suffixes.

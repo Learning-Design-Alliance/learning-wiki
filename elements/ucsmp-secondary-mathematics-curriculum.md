@@ -51,6 +51,7 @@ UCSMP is a core secondary mathematics curriculum developed by the University of 
 ## Related Elements
 
 - [Everyday Mathematics® core curriculum for grades pre-K–6](everyday-mathematics-curriculum-prek-6.md)
+- [Cognitive Tutor® secondary mathematics curriculum (Carnegie Learning)](cognitive-tutor-secondary-mathematics-curriculum.md)
 
 ## Examples
 -

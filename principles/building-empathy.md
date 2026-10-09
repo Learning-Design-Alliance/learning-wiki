@@ -78,10 +78,12 @@ An immediate change in a rating, a delayed change in attitude, more accurate inf
 - [Debriefing](debriefing.md) — reflection after interaction helps convert experience into changed interpretation.
 
 ## Examples
+
 - **Empathy interviews**: Learners interview a peer, client, or community member using prompts focused on needs, frustrations, and lived experience.
 - **Perspective journaling**: After discussion or field observation, learners write from another stakeholder's viewpoint and then reflect on what they still do not know.
 - **Narrative comparison**: Learners compare multiple first-person or community narratives about the same issue before discussion.
 - **Structured listening rounds**: Small groups take turns summarizing another person's view before offering their own response.
+- [Conduct empathy interviews to understand user experiences with technology](../strategies/empathy-interviews-for-ai-policy-development.md)
 
 ## Key Sources
 - Nelsestuen, K., & Smith, J. (2020). Empathy interviews. *The Learning Professional, 41*(5), 59-59.

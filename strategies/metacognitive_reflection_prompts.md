@@ -60,9 +60,11 @@ Prompts work by triggering self-explanation and strategy evaluation at moments w
 5. Fade the prompts over successive tasks, replacing them with a brief self-generated reflection, until learners initiate the cycle unprompted [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Self-explanation prompts](../strategies/self-explanation-prompts.md) — a sibling technique focused on explaining *content* rather than regulating *process*
 - [Action-oriented feedback](../strategies/action-oriented_feedback.md) — feedback that prompts learners to decide what to do next pairs naturally with attribution prompts
 - [Activating prior knowledge](../strategies/activating-prior-knowledge.md) — planning prompts often double as activation by asking what learners already know about a task
+- [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small-group reading sessions in which students rotate through structured roles (questioning, clarifying, summarizing, predicting), each functioning as a scripted metacognitive prompt that is gradually faded.

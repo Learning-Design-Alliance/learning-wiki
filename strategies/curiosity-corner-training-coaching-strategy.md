@@ -46,6 +46,7 @@ The program's professional development model combines initial training with sust
 - [Provide refresher training after implementation begins, not only pre-adoption training](pathblazer-refresher-training-after-implementation.md)
 - [Support tutors with a 2-day initial workshop plus weekly per-child progress meetings](tutor-workshop-weekly-progress-meetings.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
+- [Coach-the-coaches model for sustaining teacher professional learning implementation](coach-the-coaches-implementation-support.md)
 
 ## Examples
 -

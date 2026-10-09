@@ -61,8 +61,10 @@ CICO works because it compresses the feedback loop: behavior that would otherwis
 7. Review point data weekly with the intervention team; after 4–6 weeks, decide to maintain, modify, fade, or escalate ([Fading](../elements/fading.md) — shift from daily to weekly check-ins as points stabilize).
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — the broader family of brief adult–student contact routines; CICO is its most structured, data-driven form
 - [Positive behavior supports](../theories/behaviorism.md) — CICO is a Tier 2 application of reinforcement contingencies
+- [Use behavior ratings to provide feedback to students](use-behavior-ratings-provide-feedback.md)
 
 ## Examples
 - A middle school runs CICO from its PBIS framework: 40 students check in with the front-office counselor each morning; students earning 80% of points for a week earn a brief preferred activity, and point data drives the student-support team's Tier 3 referrals.

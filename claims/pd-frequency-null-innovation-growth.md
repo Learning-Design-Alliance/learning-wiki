@@ -46,3 +46,4 @@ School-level longitudinal analysis of the 1997 and 1999 Consortium surveys exami
 - [Professional development frequency shows no significant relationship to didactic teaching, while quality and basic-skills content do](pd-frequency-null-didactic-quality-content-positive.md) — related
 - [Higher quality professional development in 1997 predicts increases in school orientation toward innovation from 1997 to 1999](pd-quality-predicts-innovation-growth.md) — related
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related
+- [Longer League membership significantly predicted leaders' reported increases in capacity to innovate](league-tenure-predicts-innovation-capacity.md) — related

@@ -47,3 +47,4 @@ Survey finding on evidence credibility: "only 29 percent" of technology director
 - [District stakeholders are mostly satisfied with procurement while providers are largely dissatisfied](districts-satisfied-providers-dissatisfied-procurement.md) — related
 - [School districts and ed-tech developers hold different perspectives on the role and value of school-based technology pilots in procurement](districts-developers-differ-pilot-perspectives.md) — related
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related
+- [Most surveyed ed tech developers report their products are informed by research, but purchasers struggle to evaluate that research](developers-report-research-informed-products.md) — related

@@ -61,9 +61,11 @@ Self monitoring improves learning primarily when it is *accurate* and *cued*: le
 6. Provide feedback on monitoring *accuracy*, not just performance, so learners calibrate their self-judgments over time.
 
 ## Related Strategies
+
 - [Self-Reinforcement](self-reinforcement.md) — the next step in the self-regulation cycle; monitoring identifies when reinforcement is earned
 - [Goal Setting](../elements/goal-setting.md) — supplies the standard that monitoring is measured against
 - [Help Seeking](help-seeking.md) — the productive action that accurate monitoring should trigger
+- [Teach students to monitor and reflect on their own behavior](teach-students-self-monitor-reflect-behavior.md)
 
 ## Examples
 - **Self-monitoring checklists in special education** — students with ADHD track on-task behavior with a MotivAider or paper tally and compare against a co-set goal; one of the most consistently supported classroom interventions in the behavior-management literature.

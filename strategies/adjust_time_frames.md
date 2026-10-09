@@ -60,9 +60,11 @@ Sustained attention on a single task degrades well before learners report losing
 6. Gradually lengthen intervals and shift check-ins to self-managed checkpoints as attention and pacing improve.
 
 ## Related Strategies
+
 - Chunking Content — the same load-management logic applied to material rather than minutes
 - Distributed Practice Scheduling — short intervals across days compound the retention benefit
 - Movement Breaks — the between-interval activity that restores vigilance
+- [Apply the 10-minutes-per-grade homework time guideline, adjusted modestly for remote learning](ten-minutes-per-grade-homework-guideline.md)
 
 ## Examples
 - A Grade 3 teacher sets a 12-minute timer for writing workshop; at each timer, students bring their draft page to the teacher's desk for a 30-second check, then return — combining monitoring, movement, and feedback.

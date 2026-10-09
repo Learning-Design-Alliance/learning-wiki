@@ -122,3 +122,4 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — related
 - [Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ](spaced-beats-massed-and-control-financial-knowledge.md) — related
 - [Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning](productive-difficulty-edge-of-mastery.md) — related
+- [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related

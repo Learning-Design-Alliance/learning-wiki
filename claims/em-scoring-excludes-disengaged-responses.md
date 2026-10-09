@@ -53,3 +53,4 @@ The article's abstract describes the E-M scoring mechanism: it estimates fully-e
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — related
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
 - [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related
+- [An estimated one-third of students fail to learn because of psychosocial problems that interfere with engagement in instruction](one-third-students-fail-learn-psychosocial-barriers.md) — related

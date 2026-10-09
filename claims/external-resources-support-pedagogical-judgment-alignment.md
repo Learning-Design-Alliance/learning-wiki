@@ -46,3 +46,4 @@ Qualitative discourse analysis of two comparative case-study debrief episodes (N
 - [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) — related
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
 - [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — related
+- [The partnership targets improved teacher instruction in eliciting student thinking, using representations, and focusing on math reasoning](tft-teacher-instruction-improvement-targets.md) — related

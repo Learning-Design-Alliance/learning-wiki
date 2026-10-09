@@ -59,9 +59,11 @@ Choral reading operationalizes repeated, supported oral reading, which builds au
 6. Follow with individual or partner re-reading of the same text to transfer group fluency to solo performance — choral support should fade toward independent reading, consistent with scaffolding logic [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - Repeated reading — the broader fluency family; choral reading is its most heavily scaffolded form
 - Echo reading — a choral variant with maximal modeling support
 - Reader's theater — a natural extension that moves from unison rehearsal toward expressive individual performance
+- [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
 
 ## Examples
 - **Reading Rockets (WETA)** — publishes classroom-tested choral and echo reading routines for elementary fluency instruction: https://www.readingrockets.org

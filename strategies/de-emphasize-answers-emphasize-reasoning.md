@@ -57,8 +57,10 @@ Requiring learners to explain and justify their steps triggers self-explanation,
 5. Consolidate: name the key idea the reasoning revealed, and follow with [Practice](../elements/practice.md) that requires the same reasoning on new problems
 
 ## Related Strategies
+
 - [Productive Failure](productive-failure.md) — lets learners generate and discuss flawed solutions before canonical instruction, using the same reasoning-first logic
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a participation structure that makes reasoning discussion low-risk
+- [Teach students to intentionally choose from alternative algebraic strategies when solving problems, after they have procedural fluency](intentional-alternative-strategy-choice-sequenced-after-fluency.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — the mechanism by which reasoning becomes visible and discussable

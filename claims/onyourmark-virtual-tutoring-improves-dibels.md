@@ -56,3 +56,5 @@ Randomized study across 12 Texas schools in 2022-23 with 2,085 K-2 students assi
 - [SIPPS as a Tier 2 intervention significantly improves first- and second-graders' reading skills on DIBELS (effect size +0.25)](sipps-tier2-dibels-effect-025.md) — related
 - [Students receiving Experience Corps tutoring and mentorship showed significant improvements in reading and comprehension skills](ec-tutoring-improves-reading-comprehension.md) — related
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on
+- [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related
+- [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related

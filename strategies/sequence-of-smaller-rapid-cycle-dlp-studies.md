@@ -40,6 +40,8 @@ The report recommends an iterative approach in which researchers use existing da
 - [Replace monolithic comprehensive studies with smaller, agile research cycles that test one conjecture at a time](agile-cycles-replace-monolithic-studies.md)
 - [Leverage digital learning platforms to run unobtrusive randomized experiments on language modifications in math problems](dlp-unobtrusive-language-experiments.md)
 - [Plan an extended feasibility phase in which research and platform teams jointly refine design, implementation, and logistics](extended-feasibility-phase-dlp-research.md)
+- [Phase the intervention through cohorts that move from development to usability/feasibility testing to efficacy testing](phased-cohort-development-usability-efficacy-testing.md)
+- [Phased iterative testing: optimization testing before efficacy testing before statewide scale-up](phased-optimization-efficacy-scale-up-testing.md)
 
 ## Examples
 -

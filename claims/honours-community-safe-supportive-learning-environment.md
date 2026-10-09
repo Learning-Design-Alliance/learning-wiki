@@ -50,3 +50,4 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related
 - [Youth designers specified norm setting and flexibility as key components of the Tech Talk game instructions](youth-designed-norm-setting-and-flexibility-tech-talk.md) — related
+- [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related

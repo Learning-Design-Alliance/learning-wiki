@@ -58,9 +58,11 @@ Time on task is a core variable in classic models of school learning — Carroll
 5. Monitor and follow up — track assignment completion; refer learners with persistent difficulties to a learning strategist or skills center.
 
 ## Related Strategies
+
 - Pacing and milestone scheduling — operationalizes time expectations across a course
 - Study-skills coaching — the referral destination when time-management deficits persist
 - Spaced retrieval scheduling — determines *how* allocated time should be distributed for retention
+- [Schedule protected release and preparation time for educators completing pre- and between-session toolkit work](protected-release-time-for-toolkit-between-session-work.md)
 
 ## Examples
 - A writing center tutor opens each session by stating the session plan in timed segments (10 min diagnosis, 25 min focused revision, 10 min planning next steps) and tells the tutee exactly how long to spend drafting before the next meeting.

@@ -65,6 +65,7 @@ Progress monitoring operationalizes [Assessment for Learning](../principles/asse
 - [Mastery Learning](../patterns/mastery-learning.md) — uses progress data as the gate for advancing to new material
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — progress monitoring supplies the evidence base for competency decisions
 - [Use one-minute timed grade-level passages to monitor oral reading fluency progress](one-minute-timed-passage-fluency-monitoring.md)
+- [Data-driven decision-making practices in tutoring programs](reading-corps-data-driven-decision-practices.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the measurement act itself

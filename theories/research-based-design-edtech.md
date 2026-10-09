@@ -52,6 +52,7 @@ Research-based design is the organizing account of this report: edtech quality i
 - [Digital Promise Research-Based Design Product Certification](../elements/research-based-design-product-certification.md)
 - [Plan and design backwards from a research-based learning goal to features, metrics, and measurement tools](../strategies/backwards-design-from-research-based-goal.md)
 - [Digital Promise Product Certifications Pilot and Learning Sciences Research-Based Design certification](../elements/digital-promise-product-certifications-pilot.md)
+- [Digital Promise Product Certifications ecosystem](../elements/digital-promise-product-certifications.md)
 
 ## Key Sources
 - Van Nostrand, P., Noakes, S., Shah, Z., & Luke Luna C. (2022, February). An overlooked indicator of edtech quality: The use of learning sciences research. Digital Promise. https://doi.org/10.51388/20.500.12265/150

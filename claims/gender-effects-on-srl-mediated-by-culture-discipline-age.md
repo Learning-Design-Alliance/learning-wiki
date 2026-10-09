@@ -73,3 +73,4 @@ The review reports the opposite-direction findings from other studies: "Female s
 - [Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM](math-teachers-data-use-attitudes-self-efficacy.md) — related
 - [WEC index effects on academic outcomes are more pronounced for male students, with the well-being effect on literacy absent for females](wec-effects-more-pronounced-males-literacy.md) — related
 - [Girls show significantly higher task orientation than boys in preschool](girls-higher-task-orientation-preschool.md) — related
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related

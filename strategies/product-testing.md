@@ -65,6 +65,7 @@ Product testing operationalizes [Authentic Audiences & Purposes](../principles/a
 - [Design Thinking](../processes/design-thinking.md) — product testing is the "test" phase of the design cycle, feeding back into empathize and ideate
 - [Exhibition](exhibition.md) — public presentation of finished work; testing differs in that the work is expected to change afterward
 - [Use prototyping tasks to help students unfamiliar with design-mode thinking share incomplete ideas](prototyping-tasks-for-design-mode-thinking-novices.md)
+- [Use iterative design with short feedback loops and multiple user-feedback methods during product development](iterative-design-short-feedback-loops.md)
 
 ## Examples
 - **Stanford d.school design courses** — student teams run live usability sessions with real users on low-fidelity prototypes, then iterate before final review ([https://dschool.stanford.edu](https://dschool.stanford.edu))

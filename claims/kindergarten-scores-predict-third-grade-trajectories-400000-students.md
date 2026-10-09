@@ -48,3 +48,4 @@ The page's own description of the accompanying NWEA research brief states it "ex
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
 - [Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention](multiyear-chronic-absenteeism-lower-second-grade-reading.md) — related
 - [After the pandemic, more students are off-track and further behind grade-level proficiency, deepening challenges for educators](post-covid-more-students-off-track-behind-grade-level.md) — related
+- [Reading Recovery produces two positive outcomes: reaching average levels within 20 weeks or reliable referral for further testing](reading-recovery-dual-positive-outcomes.md) — related

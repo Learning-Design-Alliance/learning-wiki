@@ -49,7 +49,8 @@ Coursemojo is an AI-powered, curriculum-aligned instructional assistant for fift
 - [In a landscape scan survey, 12 of 13 coaches agreed or strongly agreed that AI ELA products can help personalize learning](../claims/survey-coaches-ai-personalization-benefit.md) [+W]
 
 ## Related Elements
-- 
+
+- [Coursemojo: AI-powered teaching assistant platform for middle school ELA](coursemojo-ai-ela-platform.md)
 
 ## Examples
 

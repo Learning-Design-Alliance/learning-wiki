@@ -46,6 +46,8 @@ With adoption of Bridges in Mathematics, schools and districts receive "a compre
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
 - [Provide initial training plus multi-year in-classroom coaching when implementing Carnegie Learning Algebra I](carnegie-learning-initial-training-plus-coaching.md)
 - [Provide welcoming schools with more ongoing training, time for reflection, and targeted support when integrating displaced students and staff](ongoing-training-support-welcoming-school-integration.md)
+- [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
+- [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 
 ## Examples
 -

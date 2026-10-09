@@ -48,3 +48,4 @@ Agglomerative hierarchical clustering of 42 three-minute deliberation sequences 
 - [Metacognitive activity alone does not equate to effective regulation; unaccompanied metacognitive processes may be counterproductive](metacognitive-alone-not-effective-regulation.md) — related
 - [PIA groups follow a strategic generate-options-to-implement cycle with fewer random idea attempts, while TFA groups loop through repeated metacognitive interactions and unproductive idea testing](pia-strategic-cycle-tfa-random-ideas.md) — possibly the same claim (merge candidate)
 - [PIA and TFA clusters differ significantly in both deliberative and regulatory interaction proportions](pia-tfa-significant-differences-chi-square.md) — a narrower finding that bears on this claim
+- [K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented](ten-cluster-feedback-types.md) — related

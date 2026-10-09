@@ -59,8 +59,10 @@ Number prefixes are among the highest-frequency, most transportable morphemes in
 5. Revisit the prefix set briefly across subsequent lessons (2–5 minute reviews) rather than one massed lesson [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Acronyms and acrostics](acronyms_and_acrostics.md) — a complementary mnemonic technique for anchoring the prefix set itself
 - [Activating prior knowledge](activating-prior-knowledge.md) — known words like *tricycle* are the entry point for the prefix schema
+- [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 
 ## Examples
 - **Word Generation (SERP Institute)** ([https://wordgeneration.org](https://wordgeneration.org)) — a middle-school academic vocabulary program that organizes instruction around high-frequency morphemes, including number prefixes, within discussion and writing activities.

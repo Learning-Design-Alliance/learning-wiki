@@ -59,8 +59,10 @@ Journaling supports metacognition because writing slows thinking and forces lear
 5. Schedule periodic re-reading sessions where learners review past entries and identify patterns and goals ([Annotating](../principles/annotating.md) past entries sharpens this).
 
 ## Related Strategies
+
 - [5-minute writing conferences](5-minute_writing_conferences.md) — a brief instructor–student dialogue format that pairs naturally with journal entries
 - Exam wrappers and post-assessment reflection — journaling applied at the moment feedback arrives
+- [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
 
 ## Examples
 - **Exam wrappers** (widely used in STEM courses, e.g., at Carnegie Mellon's Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html) — students complete a short written reflection after each exam on how they prepared and what they would change.

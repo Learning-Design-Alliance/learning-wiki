@@ -64,6 +64,7 @@ Repeated reading works because rereading familiar text reduces word-recognition 
 - **Reader's Theater** — performance-based repeated reading with authentic audience and expressive-reading goal
 - **Echo Reading** — teacher-led modeling variant for the weakest decoders
 - [Pass-timing routine with four mastery criteria and repeated practice until criteria are met](read-naturally-pass-timing-criteria-routine.md)
+- [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
 
 ## Examples
 - **Read Naturally** (https://www.readnaturally.com) — commercial program combining audio modeling, timed repeated reading, and graphed progress monitoring; built directly on the repeated reading evidence base.

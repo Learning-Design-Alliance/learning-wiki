@@ -59,9 +59,12 @@ Socratic Seminars leverage the finding that structured classroom discussion impr
 5. Close with a debrief: participants summarize how their thinking changed and what questions remain ([Check-In](../elements/check-in.md)).
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the participant skill on which seminar quality depends
 - [Debate](debate.md) — a more adversarial variant with assigned positions rather than open inquiry
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-stakes precursor that builds discussion readiness
+- [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
+- [Prepare teachers and students with awareness, vocabulary, and facilitation knowledge before implementing Socratic Circles](prepare-teachers-students-before-socratic-circles.md)
 
 ## Examples
 - **Paideia Seminars** ([National Paideia Center](https://www.paideia.org)) — a widely implemented K–12 program using the inner/outer circle format across disciplines.

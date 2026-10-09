@@ -48,9 +48,11 @@ MATHia is "the technology component of Carnegie Learning High School Math Soluti
 - [MATHia/UpGrade: open-source field-trial platform integrated with Carnegie Learning's adaptive math tutoring system](mathia-upgrade-field-trial-platform.md)
 - [MATHia intelligent tutoring system with adaptive mastery-based instruction](mathia-intelligent-tutoring-system.md)
 - [UpGrade open-source A/B testing platform for classroom-embedded field experiments](upgrade-ab-testing-platform.md)
+- [Cognitive Tutor® secondary mathematics curriculum (Carnegie Learning)](cognitive-tutor-secondary-mathematics-curriculum.md)
 
 ## Examples
--
+
+- [Blended Cognitive Tutor® implementation alternating collaborative textbook periods with adaptive software lab periods](../strategies/cognitive-tutor-blended-textbook-software-schedule.md)
 
 ## Key Sources
 - Carnegie Learning High School Math Solution Algebra I. (2014). Evidence summary, strong rating, 3 studies. https://evidenceforessa.org/program/carnegie-learning-high-school-math-solution/

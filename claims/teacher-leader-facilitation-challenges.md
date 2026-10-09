@@ -45,3 +45,4 @@ The brief identifies potential challenges of teacher-leader facilitation as its 
 ## Related Claims
 - [Insights from the National Writing Project's teacher-leader preparation are presented as relevant for facilitating professional learning in all areas of instruction](nwp-insights-generalize-across-instruction-areas.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
+- [Each toolkit PLC requires one facilitator who leads sessions and supports educators between them](algebra-toolkit-facilitator-role-requirements.md) — related

@@ -47,3 +47,4 @@ Longitudinal quasi-experimental study comparing 42 intervention and 42 compariso
 - [Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant](cwpt-ctbs-effect-significance-discrepancy.md) — related
 - [The intervention showed substantively important but WWC-unconfirmed effects on English language development, with non-significant CTBS Language and Writing outcomes](ic-ll-english-language-development-unconfirmed.md) — related
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — related
+- [Quasi-experimental studies of Success for All across diverse settings find positive effects on early-grade reading](sfa-quasi-experimental-positive-reading-effects.md) — related

@@ -61,9 +61,11 @@ Modeling is most effective when the model's reasoning is verbalized, not just pe
 6. Reinforce over time by modeling consistently and debriefing empathic (and missed) moments as they arise.
 
 ## Related Strategies
+
 - [Active Listening](../strategies/active_listening.md) — the core behavioral component being modeled
 - [Acting-Role-Play](../strategies/acting-role-play.md) — the rehearsal mechanism that converts observation into enactment
 - [Act It Out](../strategies/act_it_out.md) — embodied enactment of social scenarios for younger learners
+- [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)
 
 ## Examples
 - **[Incredible Years](http://www.incredibleyears.com)** — Teacher classroom management program in which trainers model calm, empathic responses to student misbehavior and teachers rehearse them with coaching; large-scale trials show improvements in classroom social climate and student behavior [Webster-Stratton, C., Reid, M. J., & Stoolmiller, M. (2008)] [+S].

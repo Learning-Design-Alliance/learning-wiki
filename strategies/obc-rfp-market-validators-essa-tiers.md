@@ -41,6 +41,7 @@ The presentation provides OBC RFP template language in which applicants demonstr
 - [Structure OBC procurement around intentionality questions on learner goals, populations, outcomes, and stakeholders](obc-intentionality-collaboration-questions.md)
 - [Plan mutual accountability for implementation, including rollout plans, educator supports, and early indicators for pivoting](obc-mutual-accountability-implementation.md)
 - [Support future edtech OBC cohorts with readiness assessments, early planning, needs-assessment framing, and cross-cohort collaboration](obc-future-cohort-support-strategies.md)
+- [Embed certification-status questions with evidence requirements in RFPs and RFAs](certification-questions-in-rfps.md)
 
 ## Examples
 -

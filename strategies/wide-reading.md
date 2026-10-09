@@ -63,6 +63,7 @@ Reading volume is one of the strongest correlates of vocabulary growth, backgrou
 - [Assigned Readings](../elements/assigned-readings.md) — the complementary, teacher-directed counterpart; wide reading supplies volume, assigned readings supply targeted depth
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — wide reading builds the knowledge base that later activation draws on
 - [Implement Accelerated Reader as a daily reading practice block with level-matched book selection and quiz-based teacher monitoring](accelerated-reader-implementation-strategy.md)
+- [Devote weekly intervention time to reading a wide range of texts](weekly-wide-range-of-texts-reading.md)
 
 ## Examples
 - **Reading Workshop (Teachers College / Units of Study)** — daily independent reading with conferring, built on large classroom libraries ([https://www.unitsofstudy.com](https://www.unitsofstudy.com))

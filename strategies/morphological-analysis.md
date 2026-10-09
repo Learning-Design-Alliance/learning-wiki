@@ -59,9 +59,11 @@ Morphological analysis converts vocabulary learning from item-by-item memorizati
 5. Spiral previously taught morphemes into new texts so analysis becomes habitual rather than a one-off lesson.
 
 ## Related Strategies
+
 - Context-clue instruction — complementary inference route; morphology handles what context alone often cannot resolve
 - Explicit vocabulary teaching — morphological analysis generalizes where pre-taught word lists do not
 - Structured word inquiry — the inquiry-oriented variant that adds etymological investigation
+- [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 
 ## Examples
 - **REWARDS (Reading Excellence: Word Attack and Rate Development Strategies)** — an intervention teaching adolescents to segment multisyllabic words using prefixes and suffixes, widely used with struggling middle-school readers.

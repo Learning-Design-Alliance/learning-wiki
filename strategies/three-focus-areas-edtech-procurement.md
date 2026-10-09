@@ -45,6 +45,7 @@ The report's concluding section distills the workshop concepts into three focus 
 - [Open Procurement Concept](../elements/open-procurement-concept.md)
 - [7 Steps to Creative Financing: a stakeholder-team process for identifying financing for ed-tech](seven-steps-creative-financing-strategy.md)
 - [Better Planning, Better Process: bottom-up procurement planning through direct contact with teachers and administrators](bottom-up-procurement-planning-strategy.md)
+- [Three pivots for equity-centered solution sourcing: redefine readiness criteria, reconceptualize expertise, and reimagine procurement pathways](three-pivots-equity-solution-sourcing.md)
 
 ## Examples
 -

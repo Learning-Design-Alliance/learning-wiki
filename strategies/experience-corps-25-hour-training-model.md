@@ -42,6 +42,7 @@ New volunteers "receive at least 25 hours of targeted training and coaching in l
 - [Provide tutors 20 hours of pre-service training plus ongoing weekly coaching and professional development](tutor-training-weekly-coaching-strategy.md)
 - [Train tutors in academic strategies through supervised practice with ongoing professional development across the year](tutor-pre-service-training-supervised-practice.md)
 - [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](layered-tutor-professional-development-support.md)
+- [Tiered training and ongoing supervision for volunteer tutors and AmeriCorps members](reading-partners-tiered-tutor-training-strategy.md)
 
 ## Examples
 -

@@ -67,6 +67,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 - [Provide formal training, ongoing supervisory support, and colleague collaboration when introducing new child assessments](supports-for-acting-on-child-assessment-information.md)
+- [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
 
 ## Examples
 -

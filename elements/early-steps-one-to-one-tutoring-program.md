@@ -51,6 +51,8 @@ Early Steps, based on an earlier version called Howard Street Tutoring, is a one
 - [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
 - [Once Early-Reading Program: school-embedded one-on-one structured literacy tutoring delivered by trained paraprofessionals](once-early-reading-program-element.md)
 - [Sound Partners one-to-one paraprofessional tutoring program in early reading](sound-partners-tutoring-program.md)
+- [Reading Partners one-to-one volunteer tutoring program](reading-partners-program-element.md)
+- [Reading Recovery daily 30-minute individual tutoring lessons](reading-recovery-daily-30-minute-lessons.md)
 
 ## Examples
 -

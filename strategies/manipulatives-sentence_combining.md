@@ -64,6 +64,7 @@ Manipulatives reduce the working memory burden of sentence construction by letti
 - [Sentence Expansion](sentence-expansion.md) — the complementary operation; where combining merges sentences, expansion adds detail to a kernel sentence, and the two alternate well within a sequence
 - [Error Analysis](../principles/error-analysis.md) — flawed combinations to diagnose deepen syntactic judgment
 - [Use sentence manipulation, sentence combining, sentence expanding, semantic feature analysis, and semantic mapping](sentence-manipulation-and-semantic-mapping-strategies.md)
+- [Use sentence construction activities to teach compound, complex, and compound-complex sentence types](sentence-construction-activities-three-sentence-types.md)
 
 ## Examples
 - **[The Writing Revolution](https://www.thewritingrevolution.org)** (Hochman & Wexler) — embeds sentence-combining activities, including card-based variants, as a core activity across content-area instruction

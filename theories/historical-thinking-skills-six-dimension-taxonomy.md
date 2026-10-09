@@ -44,8 +44,10 @@ A taxonomy of six historical thinking skill assessment targets derived from a th
 - [Scorers had difficulty distinguishing rubric scoring from everyday grading and AP scoring, and training took longer than expected](../claims/scorer-training-longer-than-expected-grading-confusion.md) [~W]
 
 ## Related Theories
+
 - [Hts Activity Rubrics A1 A6](../elements/hts-activity-rubrics-a1-a6.md)
 - [Hts Student Work Rubrics S1 S6](../elements/hts-student-work-rubrics-s1-s6.md)
+- [Six-dimension framework of historical thinking skills for high school world history](historical-thinking-six-dimension-framework.md)
 
 ## Examples
 

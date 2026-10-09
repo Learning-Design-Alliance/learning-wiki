@@ -48,6 +48,8 @@ The program's implementation model pairs classroom teachers with a designated Sp
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Implement BARR with a dedicated coordinator, weekly teacher-team meetings, multi-year professional development, and intensive coaching](barr-implementation-strategy.md)
 - [Provide formal training, ongoing supervisory support, and colleague collaboration when introducing new child assessments](supports-for-acting-on-child-assessment-information.md)
+- [Coach-the-coaches model for sustaining teacher professional learning implementation](coach-the-coaches-implementation-support.md)
+- [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
 
 ## Examples
 -

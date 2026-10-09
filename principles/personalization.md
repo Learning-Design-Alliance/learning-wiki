@@ -99,6 +99,7 @@ Personalization works primarily by keeping instruction within each learner's zon
 - [Louisiana middle-school communications industrial arts curriculum guide (drafting, electricity-electronics, graphic arts, photography)](../elements/louisiana-communications-industrial-arts-guide.md)
 - [IXL Math personalized learning program with Real-Time Diagnostic and IXL Analytics](../elements/ixl-math-program-element.md)
 - [Adapt e-learning platforms to distinct student engagement profiles with adaptive recommendations and guidance](../strategies/adaptive-recommendations-engagement-profiles-k8.md)
+- [Use progress monitoring to tailor math instruction to each child's position on a developmental progression](../strategies/progress-monitoring-tailor-early-math-instruction.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

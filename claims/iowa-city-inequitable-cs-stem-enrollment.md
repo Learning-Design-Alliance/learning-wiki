@@ -47,3 +47,4 @@ The district's own equity challenge statement, made in its participation in Equi
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — possibly the same claim (merge candidate)
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - [Student voices provided insights into factors that may impact participation in CS programs in Iowa City](student-voices-insights-cs-participation-factors.md) — related
+- [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](talladega-disparities-persisted-despite-pathway.md) — related

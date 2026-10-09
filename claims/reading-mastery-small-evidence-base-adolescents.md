@@ -45,3 +45,4 @@ The WWC's literature search reflects documents publicly available by August 2009
 ## Related Claims
 - [The evidence base for Accelerated Reader with adolescent learners is thin: only 2 of 318 reviewed studies met WWC standards](accelerated-reader-thin-evidence-base-318-studies.md) — related
 - [The evidence base for PALS in the Adolescent Literacy review rests on a single randomized trial of 120 students across 12 schools, rated as meeting standards with reservations](pals-evidence-base-single-rct-reservations.md) — related
+- [The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations](algebra-guide-evidence-base-15-wwc-studies.md) — related

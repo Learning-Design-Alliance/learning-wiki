@@ -49,7 +49,8 @@ Project Topeka was an initiative using Turnitin's Revision Assistant, an AES/AWE
 - [Among 24 Topeka teachers, half positioned the AI as a teaching partner, 29% as a grading assistant, and 21% as a substitute teacher](../claims/teacher-positioning-distribution-topeka.md) [+W]
 
 ## Related Elements
-- 
+
+- [Coursemojo: AI-powered teaching assistant platform for middle school ELA](coursemojo-ai-ela-platform.md)
 
 ## Examples
 

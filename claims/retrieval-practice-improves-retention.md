@@ -162,3 +162,4 @@ Open questions that evidence entries should address include: how retrieval pract
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — a narrower finding that bears on this claim
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — a narrower finding that bears on this claim
 - [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — a broader claim this one bears on
+- [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related

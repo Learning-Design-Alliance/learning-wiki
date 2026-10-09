@@ -18,7 +18,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (9 for) · 9 studies (3 review, 3 theoretical, 2 causal, 1 quant-synthesis), `q1`–`q4` · 0 of 9 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (10 for) · 10 studies (3 review, 3 theoretical, 2 causal, 1 quant-synthesis, 1 associational), `q1`–`q4` · 0 of 10 report an effect size · 9 claims rest on one study
 
 ## Description
 Ben Goldacre (2013) argues that teaching should be an evidence-based profession, which would require a cultural shift: recognizing that we don't necessarily "know" what works best and need evidence that something works; giving teachers better access to research outcomes; helping teachers understand how research works so they can become critical consumers of it; and giving teachers access to networks of others interested in research. This isn't only research done by academics — research by teachers on their own practice is itself part of the same evidence base, and is increasingly embedded in schools as a contributor to school improvement.
@@ -62,6 +62,7 @@ Philosopher Karl Popper proposed the criterion that separates scientific from un
 - [More than 70 percent of the 180 most popular literacy applications referenced no research in their design](../claims/literacy-apps-lack-research-reference.md) [+M] — attached 2026-10-09 from Research et al. (2015), which proposed "Ground personalized learning in learning sciences research on learner variability".
 - [Not all intervention programs can be evaluated using an RCT, so non-experimental study designs may be needed to build an evidence base](../claims/not-all-programs-rct-evaluable-nonexperimental-needed.md) [+W] — attached 2026-10-09 from John Deke (2018), which proposed "Systematic reviews should consider causal validity when deciding whether to include high quality non-experimental evidence".
 - [The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences](../claims/rct-gold-standard-randomization-logic.md) [+W] — attached 2026-10-09 from John Deke (2018), which proposed "Systematic reviews should consider causal validity when deciding whether to include high quality non-experimental evidence".
+- [Most surveyed ed tech developers report their products are informed by research, but purchasers struggle to evaluate that research](../claims/developers-report-research-informed-products.md) [+W] — attached 2026-10-09 from Digital Promise (2015), which proposed "Review learning research broadly and critically before prototyping ed tech products".
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

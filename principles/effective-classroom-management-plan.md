@@ -12,7 +12,7 @@ generated:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (15 for, 8 mixed, 1 against) · 26 studies (10 quant-synthesis, 6 causal, 6 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 26 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (16 for, 8 mixed, 1 against) · 27 studies (11 quant-synthesis, 6 causal, 6 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 8 of 27 report an effect size · 19 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,7 @@ The earlier page cited one claim (rewards, now in the model above). These claims
 - [A non-peer-reviewed web essay asserts that behaviorist reinforcement methods are very effective in creating positive behavior](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W] — a second-hand assertion with no sample; listed because the earlier page linked reinforcement theory.
 - [Two gendered classroom cultures coexisted: rule-following vocal girls and disruptive boys receiving disproportionate time and space](../claims/two-gendered-classroom-cultures.md) [~W] — one qualitative study in a Swedish school; bears on reviewing who receives the teacher's attention and corrections.
 - [Supervisory teacher coaching shows mixed effects](../claims/supervisory-coaching-mixed-teacher-student-outcomes.md) [~W] and [teacher praise increased in every reviewed coaching study](../claims/coaching-increases-teacher-praise.md) [+W] — one review of 16 coaching studies; bears on helping teachers put a plan in place.
+- [Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards](../claims/clear-behavior-expectations-strong-evidence-14-studies.md) [+M] — attached 2026-10-09 from Lane et al. (2024), which proposed "Co-establish, model, and teach clear behavior expectations consistent with schoolwide expectations"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

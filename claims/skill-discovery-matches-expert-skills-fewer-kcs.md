@@ -45,3 +45,4 @@ Evaluation on the equations dataset (2007 handwriting study, control condition o
 ## Related Claims
 - [The skill discovery model partially recovers the true problem-KC assignment matrix in synthetic datasets when provided with problem representations](skill-discovery-partially-recovers-true-kc-assignments.md) — related
 - [The expert-designed KC model adds little predictive power on most datasets, with significant contributions only on the two KDD Cup 2010 datasets](expert-kc-model-adds-little-predictive-power.md) — related
+- [Automatic skill discovery identifies more knowledge components than domain experts on both tutoring datasets](skill-discovery-finds-more-kcs-than-experts.md) — related

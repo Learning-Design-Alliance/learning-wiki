@@ -58,9 +58,11 @@ Partner reading converts independent reading into structured, high-frequency ora
 5. Close with a brief comprehension exchange — retell, summary, or prediction check — in pairs or as a class ([Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
+
 - Repeated reading — partner reading operationalizes repeated reading with a built-in correction partner
 - Readers Theatre — adds expressive, performance-oriented purpose to oral partner practice
 - Reciprocal teaching — a comprehension-focused counterpart that can follow partner reading sessions
+- [Schedule about 90 minutes a week of structured peer-assisted learning in which pairs of students at different ability or proficiency levels work together on academic tasks](structured-peer-assisted-learning-pairs-90-minutes.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the teacher's monitoring role during sessions

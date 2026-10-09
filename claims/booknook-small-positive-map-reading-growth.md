@@ -52,3 +52,4 @@ Cluster-randomized study in six Rocketship public charter schools in Northern Ca
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — a broader claim this one bears on
 - [High-dosage tutoring is positively associated with charter school achievement impacts](high-dosage-tutoring-associated-charter-success.md) — a broader claim this one bears on
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on
+- [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related

@@ -42,6 +42,7 @@ MS-BKT is a knowledge tracing architecture that keeps BKT's HMM structure but ma
 ## Related Theories
 
 - [Two hypotheses for the meaning of Spectral BKT's intermediate states: a stages-of-mastery account and a mastery-by-metacognition interaction account](spectral-bkt-intermediate-state-hypotheses.md)
+- [Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment](bkt-mastery-updating-model.md)
 
 ## Examples
 -

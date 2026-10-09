@@ -46,6 +46,7 @@ The report recommends that educators 'integrate AI literacy within the topics th
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 - [Integrate data and analysis into existing K-2 teaching practices through classroom graphs such as birthdays and word walls.](classroom-graphs-integrated-data-practices.md)
 - [Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching](integrate-metacognition-before-during-after-lesson.md)
+- [Integrate AI assistants with existing curricula and teaching practices rather than replacing instruction](ai-assistant-integrate-existing-instruction.md)
 
 ## Examples
 -

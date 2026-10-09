@@ -120,3 +120,6 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - [TIPS students report significantly higher family involvement in reading and science homework than non-participants](tips-family-involvement-reading-science.md) — a narrower finding that bears on this claim
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related
 - [Family engagement in schools is closely linked to improved student academic achievement, social skills, and fewer behavior issues](family-engagement-linked-student-outcomes.md) — related
+- [Homework is more effective for middle and high school students than elementary students](homework-more-effective-secondary-than-elementary.md) — related
+- [Individualized homework outperforms non-individualized homework in achievement, attitudes, and conduct](individualized-homework-outperforms-generic.md) — related
+- [Parental focus on compliance harms homework learning, while supporting effort and process helps](parent-compliance-versus-process-support.md) — related

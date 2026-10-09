@@ -66,6 +66,7 @@ SSR rests on the premise that reading volume drives vocabulary growth, fluency, 
 - [Annotating](../principles/annotating.md) — active text engagement that SSR deliberately omits; the two serve different goals
 - [Independent reading conferences](../strategies/reading-conferences.md) — a light-accountability variant that preserves choice
 - [Offer high-interest text alternatives and choice alongside short stories to sustain engagement during strategy instruction](high-interest-text-alternatives-and-choice-strategy-instruction.md)
+- [Devote weekly intervention time to reading a wide range of texts](weekly-wide-range-of-texts-reading.md)
 
 ## Examples
 - **DEAR (Drop Everything and Read)** — a widely adopted school-wide variant in which the entire school pauses for scheduled silent reading; see [https://www.readingrockets.org](https://www.readingrockets.org/topics/assessment-and-evaluation/articles/sustained-silent-reading)

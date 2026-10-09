@@ -52,6 +52,8 @@ Bayesian Knowledge Tracing (BKT) is a student model used to infer a student's kn
 - [Spectral BKT: a BKT variant combining feature compensation (3-gram observations) with model compensation (four latent states)](spectral-bkt-model.md)
 - [BKTransformer: transformer-based generation of temporally-evolving BKT parameters](bktransformer-temporal-bkt-parameters.md)
 - [BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects](bkt-irt-multidimensional-generalizable-model.md)
+- [Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment](bkt-mastery-updating-model.md)
+- [Intervention-BKT: a BKT extension that models the effect of instructional interventions on student knowledge states](intervention-bkt-model.md)
 
 ## Examples
 

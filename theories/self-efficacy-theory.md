@@ -59,6 +59,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Bandura's four self-efficacy building experiences framework](bandura-four-self-efficacy-building-experiences.md)
 - [Bandura's four sources of self-efficacy as a framework for educator practice with marginalised students](bandura-four-sources-self-efficacy-educator-framework.md)
 - [Teacher belief efficacy as self-efficacy plus outcome expectancy (Bandura-based two-component construct)](belief-efficacy-self-efficacy-outcome-expectancy-ee.md)
+- [Expectancy-value account of homework effort and motivation](expectancy-value-homework-effort.md)
 
 ## Examples
 

@@ -46,6 +46,7 @@ The page prescribes an implementation support package: "The developers offer 2 d
 - [Implement World of Words with developer training, ongoing coaching, and structured text-set materials](world-of-words-implementation-strategy.md)
 - [Pair program adoption with two days of initial training and weekly coaching meetings](readable-english-training-and-weekly-coaching.md)
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
+- [Implement ITSS twice weekly for about 30 minutes per session over 7 months to 1 year, with teacher professional development and coaching](itss-dosage-and-pd-implementation-strategy.md)
 
 ## Examples
 -

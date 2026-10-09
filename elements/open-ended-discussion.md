@@ -70,10 +70,12 @@ Open-ended discussion supports learning by requiring learners to articulate, def
 - [Debate](../patterns/debate.md) — the competitive, position-defending variant
 
 ## Examples
+
 - **[Perusall](https://www.perusall.com)** — social annotation platform where threaded comments on a shared text function as asynchronous open-ended discussion, with instructor-visible analytics on participation.
 - **[Harkness Method](https://www.exeter.edu/academics/harkness-philosophy)** (Phillips Exeter Academy) — seminar-style discussion around an oval table with no leading voice; learners are accountable for both content and conversational conduct.
 - **[Piazza](https://piazza.com)** — Q&A platform for courses where instructor-endorsed and student answers coexist, supporting open exploration in large-enrollment settings.
 - **Structured Academic Controversy** (Johnson & Johnson) — learners argue one side of an issue, switch sides, then drop positions to seek consensus; a published protocol for making open discussion equitable.
+- [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](../strategies/facilitation-protocol-probing-questions.md)
 
 ## Key Sources
 - Murphy, P. K., Wilkinson, I. A. G., Soter, A. O., Hennessey, M. N., & Alexander, J. F. (2009). Examining the effects of classroom discussion on students' comprehension of text: A meta-analysis. *Journal of Educational Psychology, 101*(3), 740-764. [doi:10.1037/a0015576](https://doi.org/10.1037/a0015576)

@@ -67,3 +67,4 @@ Table 1 reports a "Potentially positive effects" rating for reading fluency base
 - [Reading Recovery has potentially positive effects on alphabetics for beginning readers](reading-recovery-potentially-positive-alphabetics.md) — related
 - [SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points](spellread-potentially-positive-fluency.md) — related
 - [Reading Recovery shows strong ESSA evidence of positive effects on general literacy achievement and moderate evidence on academic dispositions for grade 1 students](reading-recovery-strong-evidence-literacy-achievement.md) — related
+- [Reading Recovery shows an average effect size of +0.43 across four qualifying studies, earning a Strong evidence rating](reading-recovery-average-effect-043-strong.md) — related

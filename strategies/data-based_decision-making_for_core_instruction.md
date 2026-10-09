@@ -84,6 +84,7 @@ DBDM operationalizes [Assessment for Learning](../principles/assessment-for-lear
 - [Direct Instruction](../patterns/direct-instruction.md) — a common Tier 1 core whose pacing and emphasis DBDM adjusts
 - [Weekly teacher team meetings to review each student's strengths, progress, and obstacles](barr-weekly-teacher-team-meetings.md)
 - [Begin improvement work by collecting data and close the cycle by evaluating progress](collect-data-then-evaluate-progress-cycle.md)
+- [Data-driven decision-making practices in tutoring programs](reading-corps-data-driven-decision-practices.md)
 
 ## Examples
 - **Response to Intervention (RTI)** — Tier 1 progress monitoring with decision rules (e.g., [DIBELS](https://dibels.uoregon.edu) benchmarks every 6–8 weeks) determines whether core instruction is sufficient or students need supplemental tiers [Fuchs & Fuchs, 2006].

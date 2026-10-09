@@ -66,6 +66,7 @@ Baseline assessment enables instruction to start where learners actually are rat
 - [Mastery Learning](../patterns/competency-based-learning.md) — baselines determine the starting point from which mastery criteria are applied
 - [Check-Ins](../elements/check-in.md) — lightweight ongoing probes that continue the diagnostic function during instruction
 - [Start adult learners in homogeneous small groups and use individual instruction with gradual release](small-group-library-instruction-adult-learners.md)
+- [Design participation deliberately: align entry points with partners' actual readiness rather than assuming a uniform baseline](design-participation-entry-points-match-readiness.md)
 
 ## Examples
 - **Force Concept Inventory (FCI)** — a widely used physics diagnostic that identifies Newtonian vs. naive-mechanics reasoning before mechanics instruction; results are used to compare instructional approaches (e.g., interactive engagement vs. lecture).

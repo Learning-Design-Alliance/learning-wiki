@@ -47,3 +47,4 @@ Observational log analysis of anonymized activity data from 67,686 students in 2
 - [No K–8 student profile showed balanced engagement across all four platform components](no-balanced-engagement-across-platform-components.md) — a narrower finding that bears on this claim
 - [Three distinct learner profiles emerge from function art activities: Repetitivists, Simplists, and Multifunctionists](function-art-three-learner-profiles.md) — related
 - [The 96 thinking styles profiles cluster into three groups, with Achievement Motivation Thinking the most common](thinking-style-profiles-three-clusters.md) — related
+- [K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented](ten-cluster-feedback-types.md) — related

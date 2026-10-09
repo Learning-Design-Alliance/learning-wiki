@@ -59,9 +59,11 @@ Comparison is a powerful learning mechanism because it directs attention to deep
 6. Fade the comparison scaffolding as expertise grows, moving toward independent method generation [Guidance that helps novices becomes redundant or harmful as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
 
 ## Related Strategies
+
 - [Worked Examples](../strategies/use_worked_examples.md) — the vehicle for presenting each method; comparison is a worked-example design decision
 - [Erroneous Examples](../elements/erroneous-examples.md) — a variant in which one of the compared methods is flawed
 - [Self-Explanation](../elements/self-explanation.md) — the mechanism through which comparison prompts produce learning
+- [Teach students to intentionally choose from alternative algebraic strategies when solving problems, after they have procedural fluency](intentional-alternative-strategy-choice-sequenced-after-fluency.md)
 
 ## Examples
 - **Algebra (Rittle-Johnson & Star's studies):** Students compared two worked solutions to the same linear equation — e.g., an unpacking method versus an inverse-operations shortcut — presented side by side on the same page, with prompts to explain which was more efficient and why. Comparison students outperformed sequentially-taught peers on both similar and transfer problems.

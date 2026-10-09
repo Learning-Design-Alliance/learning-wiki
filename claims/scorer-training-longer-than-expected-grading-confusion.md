@@ -47,3 +47,4 @@ Observations from the pilot scoring session with three expert world history teac
 - [Scorers found all rubric dimensions important, with feedback bearing mainly on the scoring and training process rather than rubric design](scorer-feedback-dimensions-important-process-implications.md) — related
 - [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](rasch-adjustment-of-scorer-severity.md) — related
 - [World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments](whp-assignments-scored-higher-opportunity-rubrics.md) — related
+- [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — related

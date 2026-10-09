@@ -46,6 +46,7 @@ The article proposes that a learning environment use a hint-taking prediction mo
 - [Help Seeking](help-seeking.md)
 - [Encouraging Students to Ask for Help](encouraging_students_to_ask_for_help.md)
 - [Encouraging Help-Seeking Behavior](encouraging_help-seeking_behavior.md)
+- [Use early student-model predictions to identify at-risk students and adapt pedagogical strategy during tutoring](early-prediction-adaptive-pedagogical-strategy.md)
 
 ## Examples
 -

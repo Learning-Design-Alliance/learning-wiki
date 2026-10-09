@@ -49,6 +49,7 @@ The Computing Pathways Research Practice Partnership is a collaboration in which
 - [CT Pathways Toolkit for district design of K-12 CS/CT pathways](ct-pathways-toolkit.md)
 - [Two NSF CSforAll research-practice partnerships designing a K-8 Computational Thinking pathway in Kentucky Appalachia](kentucky-appalachia-ct-pathway-rpp.md)
 - [Inclusive CT Pathways toolkit for districts developing computing pathways](inclusive-ct-pathways-toolkit.md)
+- [Talladega Inclusive CT Pathways document and competency map](talladega-inclusive-ct-pathways-document.md)
 
 ## Examples
 

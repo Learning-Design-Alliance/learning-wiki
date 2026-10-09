@@ -57,3 +57,4 @@ This is a descriptive statement in the fact sheet's introduction about how the p
 - [Fund-supported principals plan fewer total years in the principalship but more years in education than other principals](fund-principals-future-plans.md) — related
 - [In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices](developmental-practices-require-clear-priorities-and-leadership.md) — related
 - [Schools commonly require documented teacher performance goals, created collaboratively with a principal or set by the principal](documented-teacher-goals-collaborative-or-principal-set.md) — related
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related

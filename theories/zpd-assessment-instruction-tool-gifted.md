@@ -58,6 +58,7 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
 - [Prepare novice teachers of the gifted in the sociocultural context of the gifted classroom](../strategies/sociocultural-teacher-preparation-gifted.md)
 - [Apply scaffolding and social group-investigation models in gifted classrooms](../strategies/scaffolding-group-investigation-gifted-classrooms.md)
+- [Use progress monitoring to tailor math instruction to each child's position on a developmental progression](../strategies/progress-monitoring-tailor-early-math-instruction.md)
 
 ## Key Sources
 - McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045

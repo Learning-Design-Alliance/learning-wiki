@@ -42,7 +42,8 @@ The article recommends fitting empirical pre-post change-score data with the the
 - [Two Level Dynamic Learning Model Bao](../theories/two-level-dynamic-learning-model-bao.md)
 
 ## Related Strategies
-- 
+
+- [Learning decomposition: fit exponential learning curves to compare the relative effectiveness of types of pedagogical support](learning-decomposition-compare-support-effectiveness.md)
 
 ## Examples
 -

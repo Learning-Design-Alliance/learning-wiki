@@ -53,3 +53,4 @@ One qualifying comparison study of Pirate Math took place in Nashville and Houst
 - [Among third graders, Education Corps tutoring showed a positive but non-significant effect on the state End-of-Grade reading assessment (+0.13)](education-corps-eog-reading-non-significant.md) — related
 - [The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools](math-curricula-benefits-extend-to-low-performing-high-poverty-schools.md) — related
 - [Fifth graders receiving online tutoring plus a fractions game learned more about fractions than students with game access only](online-tutoring-plus-game-improves-fraction-learning.md) — related
+- [Number Rockets tutoring significantly improves first graders' math performance on TEMA-3 with an effect size of +0.34 versus untutored controls](number-rockets-tema3-effect-034.md) — related

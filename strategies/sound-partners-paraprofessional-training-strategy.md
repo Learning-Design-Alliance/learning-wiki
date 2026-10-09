@@ -43,6 +43,7 @@ The program's staffing model uses local trainers to prepare paraprofessional tut
 - [Staff Passport to Literacy with trained paraprofessional interventionists receiving 8 hours of training over 2 days](passport-to-literacy-staffing-training-strategy.md)
 - [Train teachers to implement peer-tutoring programs through an all-day modeling and role-playing workshop plus a program manual](pals-teacher-training-workshop-modeling-role-play.md)
 - [Train-the-Trainer professional development for attendance-intervention staff](train-the-trainer-attendance-intervention-pd.md)
+- [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
 
 ## Examples
 -

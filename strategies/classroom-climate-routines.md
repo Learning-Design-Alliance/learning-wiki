@@ -65,6 +65,7 @@ Climate routines function as environmental scaffolding: by making social expecta
 - [Positive greetings at the door](../strategies/positive-greetings-at-the-door.md) — a single high-leverage entry routine with behavioral evidence
 - [Co-creating classroom norms](../strategies/co-creating-classroom-norms.md) — establishes the shared expectations routines then maintain
 - [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
+- [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — the Morning Meeting routine: greeting, sharing, group activity, and news-and-announcements, practiced daily in elementary classrooms.

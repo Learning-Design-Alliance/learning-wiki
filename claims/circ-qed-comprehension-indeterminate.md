@@ -46,3 +46,4 @@ Quasi-experiment of 18 third-grade classrooms (392 students) in eight rural sout
 - [In the Bramlett quasi-experiment, no comprehension subtest or ability-level subgroup showed a statistically significant CIRC effect after WWC adjustments](circ-qed-subgroups-null.md) — possibly the same claim (merge candidate)
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — a broader claim this one bears on
 - [In a cluster randomized trial, CIRC produced a statistically significant positive effect on main idea identification (effect size 0.85) but not on inference questions](circ-rct-main-idea-significant-inference-null.md) — related
+- [Quasi-experimental studies of Success for All across diverse settings find positive effects on early-grade reading](sfa-quasi-experimental-positive-reading-effects.md) — related

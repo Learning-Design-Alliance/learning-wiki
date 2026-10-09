@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 9,133 |
-| Evidence entries | 10,552 |
-| Distinct studies | 2,891 |
-| Claims resting on one study | 8,895 (97%) |
+| Claims | 9,463 |
+| Evidence entries | 10,928 |
+| Distinct studies | 2,997 |
+| Claims resting on one study | 9,221 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 638 of 2,891 (22%) |
+| Studies reporting an effect size | 663 of 2,997 (22%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 40 | 314 | 97 | 312 | 763 |
-| quant-synthesis | 22 | 68 | 31 | 121 | 242 |
-| review | 24 | 118 | 58 | 98 | 298 |
-| associational | 14 | 304 | 150 | 210 | 678 |
-| qualitative | 43 | 131 | 45 | 48 | 267 |
-| design | 15 | 181 | 101 | 22 | 319 |
-| theoretical | 32 | 189 | 57 | 46 | 324 |
+| causal | 42 | 325 | 103 | 323 | 793 |
+| quant-synthesis | 22 | 72 | 33 | 122 | 249 |
+| review | 26 | 139 | 59 | 98 | 322 |
+| associational | 14 | 309 | 153 | 210 | 686 |
+| qualitative | 43 | 133 | 45 | 49 | 270 |
+| design | 20 | 198 | 109 | 23 | 350 |
+| theoretical | 32 | 191 | 57 | 47 | 327 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 539 (19%) | 1,606 (56%) | 642 (22%) | 104 (4%) |
+| 558 (19%) | 1,665 (56%) | 669 (22%) | 105 (4%) |
 
-**Studies per claim:** 0: 0, 1: 8,895, 2: 182, 3: 50, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 9,221, 2: 186, 3: 50, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -75,7 +75,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 434 pages | 2 | q4 | 2 of 2 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 421 pages | 3 | q1–q4 | 1 of 3 |
 | [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 367 pages | 2 | q3–q4 | 1 of 2 |
-| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 340 pages | 2 | q2 | 0 of 2 |
+| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 341 pages | 2 | q2 | 0 of 2 |
 | [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 338 pages | 2 | q3 | 0 of 2 |
 | [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 247 pages | 3 | q3–q4 | 1 of 3 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 243 pages | 2 | q3–q4 | 2 of 2 |
@@ -115,7 +115,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 19 | 4 | 9 | 3 |
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 1 | 1 | 9 | 3 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 48 | 1 | 9 | 2 |
-| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 293 | 23 | 8 | 2 |
+| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 294 | 23 | 8 | 2 |
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 2 | 5 | 7 | 2 |
 | [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 62 | 11 | 7 | 1 |
 | [Fluent Illusions Mislead Self Assessment](claims/fluent-illusions-mislead-self-assessment.md) | 1 | 5 | 5 | 2 |
@@ -134,14 +134,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 323 | 2 | 0 |
-| [elements](elements/index.md) | 1,985 | 1,509 | 1 | 0 |
+| [elements](elements/index.md) | 2,045 | 1,565 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
-| [strategies](strategies/index.md) | 4,195 | 2,337 | 6 | 0 |
+| [strategies](strategies/index.md) | 4,315 | 2,337 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
-| [theories](theories/index.md) | 1,588 | 1,299 | 1 | 0 |
+| [theories](theories/index.md) | 1,637 | 1,341 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 227 | 147 | 1 | 0 |
+| [designs](designs/index.md) | 234 | 148 | 1 | 0 |
 
 ## Toward pooled estimates
 

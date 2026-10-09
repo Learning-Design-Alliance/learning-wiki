@@ -49,3 +49,5 @@ The WWC synthesis reports that "the average improvement index for reading compre
 - [Sound Partners outcomes for English learners persist two years later on Word Reading and Comprehension](sound-partners-outcomes-persist-two-years.md) — related
 - [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](sound-partners-positive-first-grade-effects-english-learners.md) — a narrower finding that bears on this claim
 - [Sound Partners produces significantly positive reading outcomes for English learner kindergartners (effect size +0.60)](sound-partners-positive-kindergarten-effects-english-learners.md) — related
+- [Sound Partners tutoring produces an average effect size of +0.58 on reading measures for kindergarten and first-grade students, meeting ESSA Strong criteria](sound-partners-average-effect-size-058.md) — related
+- [Sound Partners effects on word reading and comprehension are maintained two years after tutoring for kindergartners and first graders](sound-partners-effects-maintained-two-years.md) — related

@@ -47,3 +47,4 @@ End-of-semester survey using an instrument established by Mennenga (2010) with t
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — related
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
 - [Each form of accountability can produce favorable or unfavorable effects](each-accountability-form-favorable-or-unfavorable-effects.md) — a broader claim this one bears on
+- [At-risk students reported general satisfaction with the relational feedback intervention, and most respondents preferred it more frequently than twice per semester](at-risk-students-satisfied-prefer-frequent-feedback.md) — related

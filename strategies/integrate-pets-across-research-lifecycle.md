@@ -40,6 +40,7 @@ The short-term recommendations advise researchers conducting research with DLPs 
 
 - [Five recommendations for integrating Improvement Science with SEERNet](five-recommendations-seernet-improvement-integration.md)
 - [Move from extractive research toward research-practice partnerships, practitioner-facing outputs, and transparent privacy documentation](research-with-not-on-dlp-strategy.md)
+- [Use an operationally separate honest broker to perform linkage and de-identification](honest-broker-role-separation-workflow.md)
 
 ## Examples
 -

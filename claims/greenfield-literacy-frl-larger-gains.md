@@ -45,3 +45,4 @@ In the same quasi-experimental study of 482 third graders across 15 elementary s
 ## Related Claims
 - [Students receiving special education services showed larger gains (+0.33) from Greenfield-trained teachers on the CAASPP ELA assessment](greenfield-literacy-sped-larger-gains.md) — related
 - [Third graders taught by Greenfield-trained teachers scored higher on the CAASPP ELA assessment than students taught by untrained teachers (effect size +0.23)](greenfield-literacy-training-caaspp-ela-gain.md) — a broader claim this one bears on
+- [Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch](plc-at-work-underserved-subgroup-growth.md) — related

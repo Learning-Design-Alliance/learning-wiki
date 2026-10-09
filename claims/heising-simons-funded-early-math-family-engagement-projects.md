@@ -43,4 +43,4 @@ Descriptive account of the funder's initiative as stated in the brief's overview
 
 
 ## Related Claims
--
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](early-fraction-foundations-given-rational-number-difficulty.md) — related

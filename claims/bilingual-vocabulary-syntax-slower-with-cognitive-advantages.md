@@ -68,3 +68,4 @@ In the interactions section, the paper reports, citing bilingual-advantage studi
 - [Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments](bilingual-preschoolers-lowest-microstructure-interactions.md) — a narrower finding that bears on this claim
 - [In reading, dual language participants grew slightly more slowly during school years but lost less learning during summers, closing the gap with the national average](dual-language-reading-slower-school-year-growth-less-summer-loss.md) — related
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
+- [English learners can learn to read in English at the same rate as their monolingual peers in the primary grades](english-learners-read-same-rate-primary-grades.md) — related

@@ -62,9 +62,11 @@ CFP works because structure and role separation reduce the social costs of criti
 7. **Iterate** — the presenter revises the work and, ideally, returns with it; feedback without revision loops rarely changes practice [-M].
 
 ## Related Strategies
+
 - [Peer Review](../elements/peer-review.md) — the student-facing generalization of the same structure
 - [Action Research](action-research.md) — CFP often serves as the collaborative examination step within practitioner inquiry cycles
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a lighter-weight dyadic alternative for individual feedback
+- [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
 
 ## Examples
 - **National School Reform Faculty (NSRF)** — the originating organization; publishes the Tuning, Consultancy, and other protocols freely at [nsrfharmony.org](https://nsrfharmony.org). Widely used in school-based professional learning communities.

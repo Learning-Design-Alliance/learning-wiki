@@ -47,6 +47,7 @@ The article describes the response-to-intervention (RTI) model as a multitiered 
 ## Related Theories
 
 - [Three-level RTI prevention model for identifying learning disabilities](three-level-rti-prevention-model-case-study.md)
+- [Three-tiered prevention model of behavioral supports](three-tiered-behavior-prevention-model.md)
 
 ## Examples
 

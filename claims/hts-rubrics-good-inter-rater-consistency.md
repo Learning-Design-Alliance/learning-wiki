@@ -50,3 +50,7 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 - [Scorers had difficulty distinguishing rubric scoring from everyday grading and AP scoring, and training took longer than expected](scorer-training-longer-than-expected-grading-confusion.md) — related
 - [Scorers found all rubric dimensions important, with feedback bearing mainly on the scoring and training process rather than rubric design](scorer-feedback-dimensions-important-process-implications.md) — related
 - [World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments](whp-assignments-scored-higher-opportunity-rubrics.md) — related
+- [The historical thinking rubrics were developed with construct and validity evidence from the literature and teacher/reviewer review](historical-thinking-rubrics-validity-evidence.md) — related
+- [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — related
+- [World History Project students show comparable competency to comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
+- [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related

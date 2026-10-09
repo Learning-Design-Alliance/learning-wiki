@@ -39,6 +39,7 @@ The report describes concrete revisions made for the 2024/25 efficacy study base
 ## Related Strategies
 
 - [Maintain professional development and educator collaboration throughout an edtech pilot](sustain-pd-and-collaboration-throughout-edtech-pilot.md)
+- [Phase the intervention through cohorts that move from development to usability/feasibility testing to efficacy testing](phased-cohort-development-usability-efficacy-testing.md)
 
 ## Examples
 -

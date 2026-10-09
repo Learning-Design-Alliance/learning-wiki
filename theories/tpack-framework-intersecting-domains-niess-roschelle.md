@@ -49,6 +49,7 @@ TPACK describes teacher knowledge for teaching with technology as the intersecti
 - [TPACK (Technological Pedagogical Content Knowledge)](tpack.md)
 - [TPACK framework (Technological, Pedagogical and Content Knowledge) for teacher technology integration](tpack-framework-teacher-technology-integration.md)
 - [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-seven-elements.md)
+- [Align technology use with specific learning goals rather than adopting technology for its own sake](align-technology-use-with-learning-goals.md)
 
 ## Examples
 

@@ -49,6 +49,8 @@ This strategy packages the eight best practices Digital Promise identified for d
 - [Start simple: relationships-first, low-tech student success systems can suffice in small, tight-knit communities](just-start-simple-relationships-first-success-systems.md)
 - [Mobilize & Implement: provide professional learning throughout the pilot and use real-time data dashboards to keep usage aligned with dosage requirements](ongoing-professional-learning-dashboards-during-edtech-pilot.md)
 - [Provide professional learning opportunities and free tools to support educators in conducting edtech pilot studies](professional-learning-and-free-tools-for-edtech-piloting.md)
+- [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](five-step-codesign-badge-development-process.md)
+- [Five recommendations for higher education systems elevating student and faculty voice in edtech evaluation](recommendations-learner-voice-edtech-evaluation-systems.md)
 
 ## Examples
 -

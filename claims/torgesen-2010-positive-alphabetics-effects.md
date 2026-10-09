@@ -74,3 +74,4 @@ Appendix C.2 prints WRMT-R Word Attack means of 113.70 (12.10) for LiPS vs 99.50
 - [LiPS has potentially negative effects on writing: comparison students significantly outperformed LiPS students on the KTEA Spelling subtest](lips-potentially-negative-writing-spelling.md) — related
 - [LiPS has potentially positive effects on alphabetics for students with learning disabilities, with statistically significant advantages on two of eight measures](lips-potentially-positive-alphabetics-learning-disabilities.md) — related
 - [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](sfa-positive-effects-alphabetics-k-4.md) — related
+- [Multisyllabic word-reading instruction improves reading for students in grades 4–9 with reading difficulties, with strong supporting evidence](multisyllabic-word-reading-instruction-strong-evidence-grades-4-9.md) — a broader claim this one bears on

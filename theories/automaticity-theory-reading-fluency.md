@@ -51,6 +51,7 @@ Automaticity Theory (AT) is presented as a main theory in developing reading flu
 - [Choral Reading](../strategies/choral_reading.md)
 - [Echo Reading](../strategies/echo-reading.md)
 - [Dolch Sight Word List - Cloze Passage Worksheets](../strategies/dolch_sight_word_list_-_cloze_passage_worksheets.md)
+- [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](../strategies/prosody-instruction-activities-strategy.md)
 
 ## Key Sources
 - Salarvand, L., Guimaraes, N., & Balagholi, Z. (2022). Instructional Strategies' Impacts on EFL Learners Reading Fluency: A Review. THAITESOL JOURNAL, 35(1), 77-90. https://eric.ed.gov/?id=EJ1340892

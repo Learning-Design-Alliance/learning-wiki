@@ -47,3 +47,4 @@ Comparison reported in the article's results overview across eight real-world da
 - [On seven of eight real-world datasets, the novel BKT extensions achieve prediction performance within 0.04 AUC-ROC points of state-of-the-art models](bkt-extensions-close-to-state-of-art-auc.md) — related
 - [Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind](best-lr-and-dkt-lead-markov-methods-lag-nine-datasets.md) — related
 - [BKTransformer rivals or surpasses deep KT baselines (DKT, SAKT) and BKT-EM in AUC, but DKT outperforms it on one dataset](bktransformer-rivals-deep-kt-auc.md) — related
+- [BKT and BKT+SK are the best models for predicting students' post-test scores in tutoring systems with elicit and tell interventions](bkt-best-post-test-prediction-intervention-tutors.md) — related

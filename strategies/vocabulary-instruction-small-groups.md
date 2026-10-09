@@ -59,9 +59,11 @@ Vocabulary knowledge is a strong predictor of comprehension, and it grows throug
 6. Assess informally through group discussion and brief production tasks rather than definition recall.
 
 ## Related Strategies
+
 - [Pre-teaching vocabulary before reading](../strategies/pre-teaching_vocabulary.md) — a common deployment of small-group vocabulary time
 - [Text Talk](../strategies/text-talk.md) — the read-aloud questioning routine that supplies rich word contexts
 - [Word walls](../strategies/word_walls.md) — environmental support that keeps taught words visible for reuse
+- [Run brief small-group mini-vocabulary lessons with a fixed routine: say the word, student-friendly definition, example, synonym, sentence writing, and graphic organizer](mini-vocabulary-lesson-routine-small-group.md)
 
 ## Examples
 - **Text Talk / Robust Vocabulary Instruction** (Beck & McKeown) — small groups read a story aloud, then engage in structured questioning about 3–4 Tier Two words drawn from it, with multiple follow-up encounters across the week.

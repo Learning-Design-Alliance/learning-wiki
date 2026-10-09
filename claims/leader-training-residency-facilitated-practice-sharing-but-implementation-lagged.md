@@ -49,3 +49,4 @@ Qualitative implementation analysis of grantee activities from December 2012 thr
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
 - [Interviews with 13 education leaders from Kentucky and California, two states with contrasting teacher-evaluation approaches, provided the data for the collaborative grounded theory analysis](thirteen-education-leaders-interviews-two-states-teacher-evaluation.md) — related
+- [League district leaders rated professional development highly and reported extensive peer networking and best-practice sharing](league-professional-development-networking-ratings.md) — related

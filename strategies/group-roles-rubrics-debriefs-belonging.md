@@ -44,6 +44,7 @@ The primer offers concrete activities mapped to characteristics of collaborative
 - [Role Assignment](role-assignment.md)
 - [Empowering Students as Leaders](empowering_students_as_leaders.md)
 - [Learning Communities](learning-communities.md)
+- [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
 
 ## Examples
 -

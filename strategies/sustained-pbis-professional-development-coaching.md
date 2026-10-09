@@ -44,6 +44,7 @@ The article describes a one-year professional development model in which eight s
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
 - [Provide 70 hours of professional development in three phases: intensive training, practice, and implementation](corrective-reading-70-hour-three-phase-pd-strategy.md)
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
+- [Run eight one-hour professional learning community sessions spread across the school year](eight-one-hour-plc-sessions-writing-instruction.md)
 
 ## Examples
 -

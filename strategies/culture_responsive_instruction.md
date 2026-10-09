@@ -58,9 +58,11 @@ Culturally responsive instruction works by reducing the distance between what st
 5. Provide structured [Practice](../elements/practice.md) and [Application](../elements/application.md) in culturally meaningful contexts, with feedback that maintains high expectations.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the core cognitive mechanism through which cultural responsiveness improves learning
 - [Accessible Syntax](../strategies/accessible_syntax.md) — reducing linguistic barriers for multilingual learners
 - [Building Empathy](../principles/building-empathy.md) — supports intergroup attitudes in diverse classrooms [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
+- [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 
 ## Examples
 - **Algebra in community contexts** — A unit on linear functions uses data students collect about their own neighborhood (transit costs, local businesses) rather than decontextualized textbook scenarios, keeping the same standard while changing the context.

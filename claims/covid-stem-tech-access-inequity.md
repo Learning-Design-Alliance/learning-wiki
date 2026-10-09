@@ -56,3 +56,4 @@ Weighted chi-square analyses of the national survey of 620 STEM students compare
 - [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](remote-covid-tech-access-inequitable-by-race-income.md) — possibly the same claim (merge candidate)
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
+- [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related

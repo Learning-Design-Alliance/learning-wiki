@@ -49,6 +49,7 @@ The program includes free digital apps for iPad: Nico and Nor games give childre
 - [Nico and Nor digital games and apps for school and home STEM learning](nico-and-nor-digital-games-apps.md)
 - [STEM-tastic Adventures app provides young children ages 3-5 with playful CT and STEM learning opportunities](stemtastic-adventures-app.md)
 - [Early Science with Nico and Nor Teacher Guide with three units (Plants, Ramps and Shadows) and a Family Guide](nico-nor-teacher-guide-three-units.md)
+- [Early Science with Nico & Nor preschool science program for home and school](nico-nor-preschool-science-program-component.md)
 
 ## Examples
 -

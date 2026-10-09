@@ -50,3 +50,5 @@ Survey of district stakeholders and providers on stakeholder involvement shows a
 - [District stakeholders are mostly satisfied with procurement while providers are largely dissatisfied](districts-satisfied-providers-dissatisfied-procurement.md) — related
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related
 - [Procurement perceived as smoother and more inclusive in smaller districts than larger districts](smaller-districts-smoother-procurement.md) — related
+- [Community college students want to play a role in edtech evaluation and procurement decisions](ccc-students-want-role-in-edtech-evaluation.md) — related
+- [Districts report recurring pain points in edtech evaluation, including no formal process, curriculum–technology team disconnects, uneven evaluation depth, and outdated tool inventories](district-edtech-evaluation-pain-points.md) — related

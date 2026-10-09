@@ -68,3 +68,4 @@ Figure 8 comparison of 6 interventions teaching phonological awareness and print
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related
 - [Phonological awareness training plus letter knowledge training has positive effects on preschoolers' print knowledge](pat-lk-positive-print-knowledge-preschool.md) — related
 - [Instruction in language, phonological awareness, and decoding improved performance in the taught domain, while interventions teaching print knowledge or early writing exclusively did not](taught-domain-instruction-improves-taught-domain.md) — related
+- [Success for All improves reading achievement with a student-weighted average effect size of +0.29 across six studies](sfa-average-effect-size-029-reading.md) — related

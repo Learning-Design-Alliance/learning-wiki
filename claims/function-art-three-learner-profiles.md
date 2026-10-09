@@ -46,3 +46,4 @@ Cluster analysis of 400 artworks using HCPC (PCA, Ward's linkage, k-means refine
 - [Multifunctionist students use a broader range of function types than Simplist and Repetitivist students](multifunctionist-broader-function-range.md) — related
 - [Repetitivist group included significantly more lower-grade students while Multifunctionist group included more upper-grade students](repetitivist-lower-grade-multifunctionist-upper-grade.md) — related
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
+- [K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented](ten-cluster-feedback-types.md) — related

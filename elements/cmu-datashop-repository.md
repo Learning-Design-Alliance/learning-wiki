@@ -46,6 +46,7 @@ DataShop was created out of a 2004 NSF grant to the Pittsburgh Science of Learni
 
 - [MOOC Replication Framework (MORF)](morf-replication-framework.md)
 - [Curated list of data repositories for classroom data collection](data-repository-list-element.md)
+- [PSLC DataShop public repository of online learning data](pslc-datashop-public-repository.md)
 
 ## Examples
 -

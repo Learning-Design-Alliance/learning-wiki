@@ -46,3 +46,4 @@ Subgroup analysis within the same New York City school-fixed-effects study of fi
 - [Exposure to field trips to informal science institutions produces small positive effects on middle school students' standardized science test scores](field-trips-small-positive-science-score-effects.md) — a broader claim this one bears on
 - [Field trip exposure positively affects students' proficiency on the standardized eighth-grade science exam](field-trips-positive-science-proficiency.md) — a broader claim this one bears on
 - [The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts](ogap-trial-high-poverty-urban-sample.md) — related
+- [Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch](plc-at-work-underserved-subgroup-growth.md) — related

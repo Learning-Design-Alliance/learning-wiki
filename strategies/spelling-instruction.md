@@ -61,9 +61,11 @@ Explicit, systematic spelling instruction produces measurable gains in spelling 
 6. Hold learners accountable for taught patterns in authentic writing, with correction during editing rather than drafting.
 
 ## Related Strategies
+
 - [Phonics Instruction](../strategies/phonics-instruction.md) — decoding counterpart; spelling and reading instruction reinforce the same orthographic knowledge
 - [Dictation Exercises](../strategies/dictation-exercises.md) — the primary practice format for consolidating taught patterns
 - [Morphological Analysis Instruction](../strategies/morphological-analysis-instruction.md) — extends spelling to multisyllabic academic vocabulary
+- [Embed spelling (encoding) practice of taught words in decoding lessons](embed-spelling-encoding-in-decoding-lessons.md)
 
 ## Examples
 - **Words Their Way** (Bear, Invernizzi, Templeton, & Johnston) — developmental word study built on sorting by spelling pattern; widely used in US elementary classrooms.

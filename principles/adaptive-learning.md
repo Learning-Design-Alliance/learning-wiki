@@ -115,6 +115,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](../strategies/zpd-masked-rl-content-sequencing.md)
 - [Use shaped-spectrum filtered error for rapid adaptive logic response](../strategies/shaped-spectrum-filtered-error-adaptive-logic.md)
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](../strategies/four-micro-credential-ecosystem-recommendations.md)
+- [Use early student-model predictions to identify at-risk students and adapt pedagogical strategy during tutoring](../strategies/early-prediction-adaptive-pedagogical-strategy.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).

@@ -39,6 +39,7 @@ The article lays out a structured exercise teachers complete before designing an
 ## Related Strategies
 
 - [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](empathy-interview-conduct-practices.md)
+- [Conduct empathy interviews to understand user experiences with technology](empathy-interviews-for-ai-policy-development.md)
 
 ## Examples
 -

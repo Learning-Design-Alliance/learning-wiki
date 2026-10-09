@@ -45,3 +45,4 @@ Theoretical extension of Woodworth's 1947 reinforcement-of-perception argument: 
 ## Related Claims
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other](contiguity-alone-fails-in-cognitive-learning.md) — reports the opposite
+- [Strategies not linked to a problem behavior's specific context are associated with increases in the occurrence of that behavior](context-unlinked-strategies-increase-problem-behavior.md) — related

@@ -49,3 +49,5 @@ Retrospective matched-comparison study across Massachusetts districts in 2023-24
 - [Chapter One tutoring significantly improves Fountas and Pinnell Benchmark Assessment scores (ES = +0.18)](chapter-one-fountas-pinnell-gain-ohio.md) — related
 - [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](literacy-packs-dibels-es-039-quasi-experiment.md) — related
 - [SIPPS as a Tier 2 intervention significantly improves first- and second-graders' reading skills on DIBELS (effect size +0.25)](sipps-tier2-dibels-effect-025.md) — related
+- [In a matched comparison study, Amira students outperformed matched controls on end-of-year DIBELS by +0.26 in kindergarten and +0.06 in first grade](amira-matched-dibels-kindergarten-first-grade.md) — related
+- [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related

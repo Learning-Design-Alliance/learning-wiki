@@ -56,8 +56,10 @@ Sentence combining is one of the best-supported writing interventions: meta-anal
 4. Have learners apply combining during revision of their own drafts, with feedback focused on effect, not just correctness ([Practice](../elements/practice.md), [Feedback](../elements/feedback.md))
 
 ## Related Strategies
+
 - Sentence deconstruction — the inverse move; taking complex sentences apart builds the same syntactic awareness
 - [Strategy instruction in writing](../strategies/self-regulated-strategy-development.md) — combining functions as one tool within broader composing strategies
+- [Use sentence construction activities to teach compound, complex, and compound-complex sentence types](sentence-construction-activities-three-sentence-types.md)
 
 ## Examples
 - **Saddler & Graham (2005)** — Second- and fourth-grade students, including those with learning disabilities, improved sentence construction and writing quality through combining lessons embedded in writing instruction.

@@ -61,9 +61,11 @@ Explicit vocabulary instruction reliably improves word learning and, more modest
 6. **Review spacedly** with games, flashcards, or quick [check-ins](../elements/check-in.md) across subsequent days and weeks.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — linking new words to known concepts anchors meaning
 - [Accessible Syntax](../strategies/accessible_syntax.md) — vocabulary and sentence complexity together determine text accessibility
 - [Acronyms and Acrostics](../strategies/acronyms_and_acrostics.md) — mnemonic supports for retaining word lists and definitions
+- [Run brief small-group mini-vocabulary lessons with a fixed routine: say the word, student-friendly definition, example, synonym, sentence writing, and graphic organizer](mini-vocabulary-lesson-routine-small-group.md)
 
 ## Examples
 - **Pre-teaching before a science text**: before reading about ecosystems, the teacher defines *producer*, *consumer*, and *decomposer* with visuals and a quick sorting game, then students find each word in the text and explain its use.

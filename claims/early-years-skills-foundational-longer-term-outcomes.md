@@ -49,3 +49,4 @@ The brief asserts, citing recent research it summarizes, that early academic and
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — a narrower finding that bears on this claim
 - [Pre-kindergarten absence is widespread in a large urban district, particularly among African American students and those entering with the lowest skills](prek-absence-widespread-african-american-lowest-skills.md) — related
 - [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — related
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](early-fraction-foundations-given-rational-number-difficulty.md) — a narrower finding that bears on this claim

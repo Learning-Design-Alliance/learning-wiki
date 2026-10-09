@@ -57,8 +57,10 @@ Sentence combining works because it makes syntactic construction the explicit ob
 5. Transfer: students find a place in their own draft where combining improves the writing and apply the move ([Application](../elements/application.md))
 
 ## Related Strategies
+
 - Sentence decombining (sentence splitting) — the inverse move, useful for students whose sentences run on
 - Kernel-sentence expansion — a precursor activity for writers not yet ready for combining
+- [Use sentence construction activities to teach compound, complex, and compound-complex sentence types](sentence-construction-activities-three-sentence-types.md)
 
 ## Related Elements
 - [Direct Instruction](../elements/direct-instruction.md) — the modeling phase that makes combining decisions visible

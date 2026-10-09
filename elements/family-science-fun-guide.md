@@ -50,6 +50,7 @@ The Family Science Fun Guide is a digital guide that "includes indoor and outdoo
 - [Early Science With Nico And Nor Program](early-science-with-nico-and-nor-program.md)
 - [Nico and Nor digital games and apps for school and home STEM learning](nico-and-nor-digital-games-apps.md)
 - [Early Science with Nico and Nor Teacher Guide with three units (Plants, Ramps and Shadows) and a Family Guide](nico-nor-teacher-guide-three-units.md)
+- [Early Science with Nico & Nor preschool science program for home and school](nico-nor-preschool-science-program-component.md)
 
 ## Examples
 

@@ -50,3 +50,4 @@ WWC aggregation of behavior-domain findings from one randomized controlled trial
 - [Too Good for Drugs has potentially positive effects on student behavior, with a WWC-computed domain average effect size of 0.25 that is not statistically significant](too-good-for-drugs-potentially-positive-behavior-effects.md) — related
 - [The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points](project-criss-potentially-positive-comprehension-rating.md) — related
 - [Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)](growth-mindset-potentially-positive-academic-achievement-postsecondary.md) — related
+- [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](mtp-s-potentially-positive-general-achievement.md) — related

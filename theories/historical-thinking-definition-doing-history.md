@@ -44,7 +44,8 @@ The report defines historical thinking as the disciplinary skills students use t
 - [Empirical progression research is uneven across historical thinking dimensions: most research covers causal reasoning and sourcing, while contextualization and comparison remain thin](../claims/uneven-progression-research-across-dimensions.md) [+W]
 
 ## Related Theories
-- 
+
+- [Six-dimension framework of historical thinking skills for high school world history](historical-thinking-six-dimension-framework.md)
 
 ## Examples
 

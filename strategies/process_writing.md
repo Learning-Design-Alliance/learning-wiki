@@ -59,9 +59,11 @@ Process writing works because it externalizes and distributes the cognitive dema
 6. **Publish and reflect**: share with a real audience and have writers articulate what they changed and why
 
 ## Related Strategies
+
 - Peer review and structured feedback protocols — the engine of the revision stage
 - Strategy instruction in specific genres — supplies the content of mini-lessons
 - Conferencing and writing conferences — individualized coaching within the cycle
+- [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
 
 ## Examples
 - **Self-Regulated Strategy Development (SRSD)** — a well-validated process approach embedding goal setting and self-monitoring in the writing cycle; see resources at [IRIS Center](https://iris.peabody.vanderbilt.edu/)

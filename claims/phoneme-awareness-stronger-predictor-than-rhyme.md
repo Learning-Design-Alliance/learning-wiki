@@ -115,3 +115,4 @@ In a 2-year longitudinal study beginning at school entry (90 British children st
 - [Syllable awareness is a strong and prominent predictor of Spanish reading development](syllable-awareness-strong-predictor-spanish-reading.md) — a narrower finding that bears on this claim
 - [Working memory is a strong predictor of decoding skills](working-memory-strong-predictor-decoding.md) — related
 - [Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process](reading-development-interwoven-lattice-not-linear.md) — related
+- [English-language measures of phonological processing, letter knowledge, and word and text reading validly identify which English learners need additional reading support](english-early-reading-measures-valid-screen-english-learners.md) — related

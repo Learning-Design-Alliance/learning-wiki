@@ -101,3 +101,4 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md) — related
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related
+- [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related

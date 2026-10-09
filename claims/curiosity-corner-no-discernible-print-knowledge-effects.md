@@ -54,3 +54,4 @@ Randomized controlled trial (PCER Consortium, 2008) with 18 preschools; print kn
 - [Curiosity Corner shows significant positive kindergarten follow-up effects on early reading and letter-word identification, averaging +0.27](curiosity-corner-kindergarten-follow-up-effects.md) — related
 - [In the PCER study, Curiosity Corner showed non-significant positive effects on immediate reading and phonological measures](curiosity-corner-pcer-immediate-null-effects.md) — a broader claim this one bears on
 - [Two cluster randomized experiments with 225 students rate Curiosity Corner as Promising with an average kindergarten follow-up effect of +0.33](curiosity-corner-promising-evidence-rating.md) — reports the opposite
+- [Randomized trials of Success for All find significant positive impacts on K-2 early reading, strongest for students starting with lower achievement](sfa-rcts-significant-early-reading-impacts.md) — related

@@ -47,3 +47,4 @@ Experiment 2 varied the dynamic embedding dimensionality on the ASSISTment09 and
 - [Diagnostic model performance remains relatively stable across moderate hyperparameter ranges, with 8 attention heads and a 512 hidden dimension yielding optimal results](hyperparameter-stability-oral-diagnostic-model.md) — related
 - [Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVMN performance, while DynEmb tracks knowledge using pretrained question embeddings instead of tags](dynemb-tracks-knowledge-without-skill-tags.md) — related
 - [Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits](embedding-pretraining-beats-end-to-end-training-dynemb.md) — related
+- [On synthetic MIRT data, mean embeddings perform best at two knowledge components per question while MHSA embeddings perform best at four](interaction-embedding-regime-shift-synthetic-mirt.md) — related

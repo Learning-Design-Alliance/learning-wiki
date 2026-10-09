@@ -47,7 +47,8 @@ Digital Promise developed two sets of rubrics: one to evaluate the potential of 
 - [World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments](../claims/whp-assignments-scored-higher-opportunity-rubrics.md) [+W]
 
 ## Related Elements
-- 
+
+- [Rubrics for Examining Historical Thinking Skills in High School World History Activities and Student Work](historical-thinking-skills-rubrics-activities-student-work.md)
 
 ## Examples
 -

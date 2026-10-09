@@ -58,9 +58,11 @@ Collaborative writing improves text quality because co-authors must articulate a
 5. Publish to a real audience where feasible; authentic readers raise the stakes of revision ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)).
 
 ## Related Strategies
+
 - [Peer Feedback](../elements/peer-feedback.md) — the feedback mechanism that drives most of the quality gains in collaborative writing
 - [Jigsaw](jigsaw.md) — an alternative cooperation structure when each writer holds unique source material
 - [Process Writing](process-writing.md) — the individual-composition baseline that collaborative writing extends across all stages
+- [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
 
 ## Examples
 - **Google Docs–based co-authoring in composition courses**: students draft in a shared document; instructors use version history to assess each member's contribution and comment density, mitigating free-riding.

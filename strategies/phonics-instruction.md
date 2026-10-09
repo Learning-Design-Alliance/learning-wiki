@@ -58,8 +58,10 @@ Phonics works because it builds automatic word recognition, which frees limited 
 6. Schedule cumulative review using [Distributed Practice](distributed-practice.md) so earlier correspondences remain automatic.
 
 ## Related Strategies
+
 - [Explicit Instruction](../patterns/direct-instruction.md) — phonics is a canonical application: direct explanation, modeling, guided practice, feedback
 - [Vocabulary Instruction](../principles/accessible-vocabulary-syntax.md) — the comprehension-side partner; phonics alone does not build word meaning
+- [Embed spelling (encoding) practice of taught words in decoding lessons](embed-spelling-encoding-in-decoding-lessons.md)
 
 ## Examples
 - **[Letters and Sounds (UK)](https://www.gov.uk/government/publications/letters-and-sounds)** — England's national synthetic phonics programme, teaching correspondences in six phases with decodable readers.

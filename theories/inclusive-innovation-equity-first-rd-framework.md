@@ -46,6 +46,7 @@ Inclusive Innovation is an overarching framework for education R&D grounded in w
 ## Examples
 
 - [Change stakeholder roles and investments so marginalized participants can engage as co-experts in R&D](../strategies/role-investments-for-inclusive-rd-participation.md)
+- [Three pivots for equity-centered solution sourcing: redefine readiness criteria, reconceptualize expertise, and reimagine procurement pathways](../strategies/three-pivots-equity-solution-sourcing.md)
 
 ## Key Sources
 - Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6

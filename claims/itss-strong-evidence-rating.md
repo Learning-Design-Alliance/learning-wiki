@@ -46,3 +46,4 @@ The review's summary ratings list Elementary Reading at "Evidence Rating strong"
 - [ITSS significantly improves Grade 7 reading comprehension in rural and suburban schools (effect size +0.18)](itss-grade7-significant-reading-gain.md) — a narrower finding that bears on this claim
 - [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](itss-grade4-positive-nonsignificant.md) — related
 - [ITSS significantly improves Grade 5 reading comprehension after 6 to 7 months of implementation (effect size +0.20)](itss-grade5-significant-reading-gain.md) — related
+- [ITSS has positive effects on reading comprehension, based on two studies meeting WWC standards covering 6,724 students](itss-positive-effects-comprehension.md) — a narrower finding that bears on this claim

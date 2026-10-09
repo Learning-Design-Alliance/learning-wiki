@@ -50,3 +50,5 @@ A multisite randomized controlled trial in grades K-2 across 22 elementary schoo
 - [Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86)](early-steps-tutoring-improves-word-attack-passage-comprehension.md) — related
 - [Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math](pirate-math-keymath-effect-037.md) — related
 - [Students receiving Experience Corps tutoring and mentorship showed significant improvements in reading and comprehension skills](ec-tutoring-improves-reading-comprehension.md) — related
+- [In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls](amira-rct-woodcock-effect-064.md) — related
+- [Reading Partners tutoring significantly improves reading comprehension for grade 2-4 struggling readers, with a total effect size of +0.10](reading-partners-tutoring-comprehension-effect.md) — related

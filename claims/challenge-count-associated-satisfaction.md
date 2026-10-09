@@ -51,3 +51,4 @@ Analysts built a nine-point scale summing major problems plus points for frequen
 - [Hispanic students reported higher frequencies of six of the seven non-technology challenges measured in the survey](hispanic-students-six-of-seven-challenges-higher.md) — related
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
+- [Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%)](problems-attributed-unplanned-move-not-online-learning.md) — related

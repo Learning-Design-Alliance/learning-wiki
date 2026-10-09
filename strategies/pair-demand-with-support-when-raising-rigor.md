@@ -44,6 +44,7 @@ The article argues that raising academic demand alone can backfire: students wit
 - [Perspective-taking and Empathy](perspective-taking_and_empathy.md)
 - [Positive Teacher Student Relationships](positive-teacher-student-relationships.md)
 - [Set a High Bar for Each Student](set_a_high_bar_for_each_student.md)
+- [Provide rigorous and relevant instruction connecting academics to postsecondary options](rigorous-relevant-instruction-postsecondary-strategy.md)
 
 ## Examples
 -

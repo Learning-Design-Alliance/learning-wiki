@@ -48,6 +48,7 @@ The Product Certifications Pilot is a third-party market signal intended to help
 
 - [Digital Promise Research-Based Design Product Certification](research-based-design-product-certification.md)
 - [EdTech Index with third-party validations](edtech-index-third-party-validations.md)
+- [Digital Promise Product Certifications ecosystem](digital-promise-product-certifications.md)
 
 ## Examples
 

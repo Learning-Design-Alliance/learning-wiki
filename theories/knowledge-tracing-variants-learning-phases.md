@@ -42,8 +42,10 @@ The survey's second organizing axis groups extensions of the fundamental models 
 - [Language Proficiency Side Information Improves Kt Models](../claims/language-proficiency-side-information-improves-kt-models.md) [+W]
 
 ## Related Theories
+
 - [Knowledge Tracing Model Taxonomy](knowledge-tracing-model-taxonomy.md)
 - [Engagement](../principles/engagement.md)
+- [Intervention-BKT: a BKT extension that models the effect of instructional interventions on student knowledge states](intervention-bkt-model.md)
 
 ## Examples
 -

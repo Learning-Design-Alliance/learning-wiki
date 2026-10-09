@@ -47,6 +47,7 @@ The case study presents RTI as a multi-level prevention framework in which stude
 ## Related Theories
 
 - [Response-to-intervention multitiered support model with universal screening and progress monitoring as its assessment components](rti-multitiered-screening-progress-monitoring-model.md)
+- [Three-tiered prevention model of behavioral supports](three-tiered-behavior-prevention-model.md)
 
 ## Examples
 

@@ -51,6 +51,7 @@ The program includes free digital apps for iPad described as digital games that 
 - [Nico and Nor digital games and digital journals for iPad supporting science observation, testing, and data practices](nico-nor-digital-games-and-journals.md)
 - [Early Science with Nico and Nor Teacher Guide with three units (Plants, Ramps and Shadows) and a Family Guide](nico-nor-teacher-guide-three-units.md)
 - [STEM-tastic Adventures app provides young children ages 3-5 with playful CT and STEM learning opportunities](stemtastic-adventures-app.md)
+- [Early Science with Nico & Nor preschool science program for home and school](nico-nor-preschool-science-program-component.md)
 
 ## Examples
 -
