@@ -53,3 +53,4 @@ Figure 2 disaggregates MAP Growth percentile rank changes from 2019 to 2022 by r
 - [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related
 - [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md) — related
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
+- [Disaggregating by race and income can show aggregate subgroup gaps largely reflect differing subgroup compositions (hypothetical example)](intersectional-disaggregation-closes-aggregate-gaps-hypothetical.md) — related

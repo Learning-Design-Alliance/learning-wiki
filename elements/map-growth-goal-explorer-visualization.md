@@ -45,6 +45,7 @@ The MAP Growth Goal Explorer is a data visualization designed to support and sim
 ## Examples
 
 - [Set growth goals collaboratively so they balance meaningfulness and realism](../strategies/collaborative-growth-goal-setting-balancing-meaningful-realistic.md)
+- [Use score-linked college exploration alongside goal setting and parent conferences to build post-secondary plans](../strategies/college-explorer-with-goal-setting-and-parent-conferences.md)
 
 ## Key Sources
 - NWEA Research. (2025). NWEA Research publications listing page (MAP Growth Goal Explorer and related briefs). https://www.nwea.org/research/publication/map-growth-goal-explorer/

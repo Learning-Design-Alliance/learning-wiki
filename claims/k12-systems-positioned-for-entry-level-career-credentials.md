@@ -48,3 +48,7 @@ This is the article's own framing assertion in the CREATE K-12 pillar, offered w
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
 - [Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes](career-pathways-design-moderate-evidence.md) — related
 - [Community colleges are well positioned to lead the emerging credentialing market for three stated reasons](community-colleges-positioned-lead-credentialing-market.md) — related
+- [Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure](black-tech-awareness-exploration-barriers.md) — related
+- [Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas](frequent-job-changes-nonlinear-careers.md) — related
+- [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
+- [In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice](tcsg-manufacturing-microcredentials-led-to-hiring.md) — a narrower finding that bears on this claim

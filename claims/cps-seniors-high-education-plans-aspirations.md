@@ -67,3 +67,5 @@ Senior survey responses on highest educational aspiration; the report states "ne
 - [Parents are the most common source of help for seniors' postsecondary planning, cited more often than teachers or counselors](parents-most-common-source-postsecondary-planning-help.md) — related
 - [Almost 90 percent of college-continuing seniors intend to work while continuing their education, and 35 percent plan to work more than 20 hours per week](seniors-intend-work-while-continuing-education.md) — related
 - [Twelfth graders report high rates of college-preparation actions, with 80 percent at Sample School reporting they applied for financial aid versus 68 percent across CPS](twelfth-graders-financial-aid-application-rates.md) — related
+- [Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation](only-41-percent-cps-aspiring-graduates-enroll-four-year-college.md) — related
+- [Most interviewed CPS seniors describe senior year as unchallenging and easier than previous years](seniors-describe-senior-year-unchallenging.md) — related

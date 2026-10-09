@@ -43,6 +43,8 @@ The report recommends creating space to bring school leaders into the iterative 
 - [Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results](rapid-cycle-edtech-pilot-best-practices.md)
 - [Support future edtech OBC cohorts with readiness assessments, early planning, needs-assessment framing, and cross-cohort collaboration](obc-future-cohort-support-strategies.md)
 - [Co-develop the toolkit with districts and refine it iteratively across cohorts](iterative-co-development-toolkit-strategy.md)
+- [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
+- [Build state AI evaluation on the ESSA evidence framework and integrate results into the existing education evidence base](essa-based-ai-evidence-integration.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Cross-case comparison in the results section of the ten-school sample: four scho
 - [Building a strong learning climate by supporting and guiding teacher collaboration around common goals is highlighted as a key finding](learning-climate-teacher-collaboration-common-goals.md) — related
 - [Knowledge of the on-track indicator and its use in district accountability were not enough to change school practice](ontrack-knowledge-accountability-insufficient-practice-change.md) — related
 - [In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices](developmental-practices-require-clear-priorities-and-leadership.md) — related
+- [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related

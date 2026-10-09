@@ -49,6 +49,7 @@ The report proposes a taxonomy of structures, described as the overarching forms
 
 - [Identify feedback loops in your organization by sourcing, evaluating, and validating case studies](../strategies/identify-feedback-loops-process.md)
 - [Prefer feedback loops over one-directional feedback systems when direct benefits for all participants matter](../principles/prefer-feedback-loops-over-feedback-systems.md)
+- [Integrate co-design and continuous feedback loops into AI evaluation processes](../strategies/co-design-feedback-loops-ai-evaluation.md)
 
 ## Key Sources
 - Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155

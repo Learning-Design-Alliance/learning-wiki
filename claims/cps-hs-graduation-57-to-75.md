@@ -51,3 +51,4 @@ Descriptive cohort analysis of CPS administrative records shown in Figure 3, com
 - [CPS high school graduation rates rose from 57 percent to 74 percent between 2006 and 2016](cps-hs-graduation-rose-57-to-74.md) — related
 - [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — related
 - [CPS four-year high school graduation rose from 58 percent (2007) to 82 percent (2019), with 18-point growth excluding options school graduates](cps-graduation-rose-58-to-82-percent-including-options.md) — related
+- [Chicago graduation rates improved 17 percentage points (57 to 74 percent) between 2006 and 2015 while the ACT average rose from 17.6 to 18.5](cps-graduation-rate-57-to-74-act-rose.md) — related

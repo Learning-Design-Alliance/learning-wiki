@@ -80,3 +80,5 @@ The report's introduction describes district graduation trends: "from 2011 to 20
 - [The share of students in the On-Track category increased by 20 percentage points between 2009 and 2019 while the Intensive Support share decreased from 12 to 8 percent](condensed-eot-ontrack-increase-over-time.md) — related
 - [CPS Freshman OnTrack rates rose 28 percentage points from 61 percent (2007) to 89 percent (2019), then flattened in recent years](cps-freshman-ontrack-rose-28-points-then-flattened.md) — related
 - [CPS four-year high school graduation rose from 58 percent (2007) to 82 percent (2019), with 18-point growth excluding options school graduates](cps-graduation-rose-58-to-82-percent-including-options.md) — related
+- [Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015](cps-on-track-rate-61-to-85-percent-2006-2015.md) — related
+- [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](freshman-ontrack-strong-5essentials-measures.md) — related

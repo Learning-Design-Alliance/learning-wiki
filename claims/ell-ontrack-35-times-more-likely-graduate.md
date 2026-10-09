@@ -51,3 +51,4 @@ Cohort study of CPS students in ninth grade in 2004-05 followed five years to 20
 - [Students off track after ninth grade are less than half as likely to graduate, with Black and Latino students 46% and 31% more likely than the national average to be off track in 2022](ninth-grade-off-track-graduation-risk-disparities.md) — related
 - [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers](off-track-ninth-grade-graduation-odds.md) — related
 - [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers, with disproportionate impacts on Black and Latino students](off-track-ninth-grade-half-graduation-likelihood.md) — related
+- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](on-track-predicts-graduation-three-and-half-times.md) — a broader claim this one bears on

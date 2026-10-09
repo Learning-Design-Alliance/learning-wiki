@@ -48,3 +48,4 @@ Findings from this qualitative case study of two Japanese EFL learners indicated
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related
 - [Classroom environment is positively associated with students' self-reported motivation and other noncognitive factors within students](classroom-environment-relates-to-noncognitive-factors.md) — related
+- [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — related

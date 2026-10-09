@@ -67,6 +67,7 @@ Data-informed problem framing improves the fit between interventions and local c
 - [Use a Data-Informed Decision Matrix linking data types to strategic questions](data-informed-decision-matrix-swot.md)
 - [Differentiate root-cause facilitation, protocols and tools according to the school's organizational culture and past performance results](differentiate-facilitation-by-culture-and-past-performance.md)
 - [Engineer purpose-built solutions using fit-to-context analysis and a Heilmeier Catechism-style question set](purpose-built-solutions-heilmeier-catechism-questions.md)
+- [Surface best practices for crisis-era learning support from district, school, and teacher leaders' perspectives](surface-best-practices-from-local-leader-perspectives.md)
 
 ## Examples
 - A school team reviewing achievement and behavioral data disaggregated by race, then conducting walkthroughs and student focus groups to understand school culture before redesigning discipline practices — surfacing how specific policies reinforced disproportionality.

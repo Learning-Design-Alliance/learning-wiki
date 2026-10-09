@@ -54,3 +54,4 @@ The authors summarize evidence from their data analyses and previous research fi
 - [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](rapid-guessing-identification-and-context.md) — related
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related
 - [Effort-moderated scoring estimates disengaged test takers' performance by excluding disengaged responses and scoring the remaining responses](em-scoring-excludes-disengaged-responses.md) — related
+- [Test scores measure accumulated knowledge at a moment in time, not innate student ability](test-scores-measure-opportunity-not-innate-ability.md) — related

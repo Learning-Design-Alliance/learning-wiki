@@ -50,3 +50,4 @@ Cross-case qualitative finding (RQ1-3) from documents, interviews, and walkthrou
 - [Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness](governance-integration-enhances-ca-decision-making.md) — related
 - [Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement](ri-charter-dashboards-reduced-surprise-stress.md) — related
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
+- [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — reports the opposite

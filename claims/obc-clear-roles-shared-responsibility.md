@@ -46,3 +46,4 @@ Cohort learning reported from the qualitative interview study of the first edtec
 - [OBCs drove a systemic shift for district and school teams to monitor and leverage data for continuous improvement.](obc-data-monitoring-continuous-improvement.md) — related
 - [The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.](obc-instructional-coherence-engagement-outcomes.md) — related
 - [Providers gained super users of their products and learnings for product design and effective implementation support through OBC engagement.](obc-provider-super-users-product-learning.md) — related
+- [The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers](frontline-ecosystem-siloed-data-flow.md) — related

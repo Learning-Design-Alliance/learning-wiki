@@ -45,3 +45,4 @@ The report's current-state section, citing Code.org et al. (2020), reports that 
 - [Participating districts report large enrollment gaps in CS courses by income and gender](cs-enrollment-gaps-income-gender.md) — a broader claim this one bears on
 - [Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status](iowa-city-inequitable-cs-stem-enrollment.md) — related
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
+- [Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains](ap-cs-exam-participation-gaps-and-principles-gains.md) — related

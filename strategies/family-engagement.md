@@ -85,6 +85,8 @@ Family engagement functions as an out-of-school support system that amplifies in
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Extend character education beyond the classroom with optional parental and community involvement components](optional-parent-community-involvement-components.md)
 - [Recruit early in the spring, communicate clearly with parents, keep enrollment open, and require commitment to clear program expectations](early-parent-communication-open-enrollment-summer-edtech.md)
+- [Use score-linked college exploration alongside goal setting and parent conferences to build post-secondary plans](college-explorer-with-goal-setting-and-parent-conferences.md)
+- [Families partner with schools on attendance and grades through belonging, collaborative support, and joint monitoring](family-engagement-three-playbook-actions.md)
 
 ## Examples
 - **[Parent Teacher Home Visits](https://www.ptplus.org)** — National program in which educators visit families at home to build relational trust before academic partnership; associated with improved attendance and behavior in district evaluations.

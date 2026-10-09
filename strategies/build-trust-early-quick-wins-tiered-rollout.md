@@ -42,6 +42,7 @@ For solution providers, the report recommends delivering "on quick wins that vis
 - [Embed product rollout into existing routines with structured cadences, teacher champions, and stipends to accelerate adoption](embed-product-rollout-into-existing-routines.md)
 - [Ensure communication and co-development with school leaders throughout edtech process rollout](edtech-process-communication-co-development.md)
 - [Strengthen implementation scaffolding for new edtech rollouts with routines, guided practice, and change management grounded in observed workflows](implementation-scaffolding-change-management.md)
+- [Volunteer-first faculty recruitment with modeling of good practice rather than top-down mandates](volunteer-faculty-recruitment-modeling-practice.md)
 
 ## Examples
 -

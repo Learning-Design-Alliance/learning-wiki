@@ -48,7 +48,8 @@ Teaching is My Favorite Color (TiMFC) is "a teacher-designed and -led support an
 - [Student-led mental health teacher professional development model](student-led-mental-health-pd-model.md)
 
 ## Examples
--
+
+- [Retention supports for teachers of color: networking platforms, safe spaces, mental health resources, race-conscious mentorship, and flexible career pathways](../strategies/toc-retention-supports-mentoring-mental-health.md)
 
 ## Key Sources
 - Lb0

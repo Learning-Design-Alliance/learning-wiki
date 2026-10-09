@@ -54,3 +54,5 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [Race, ethnicity, and class affect teacher perceptions and teacher behavior, including persistence with struggling students](social-cues-shape-teacher-persistence.md) — related
 - [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related
 - [Student test effort differs substantially across student gender and racial subgroups](test-effort-differs-across-gender-racial-subgroups.md) — related
+- [ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA](act-subgroup-misprediction-and-school-variance.md) — related
+- [Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color](gateway-success-rates-racial-gap-baseline.md) — related

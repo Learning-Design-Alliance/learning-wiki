@@ -45,3 +45,5 @@ The brief's research-insights section states the stability figure: "Only 50% of 
 ## Related Claims
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — related
 - [Schools with higher 5Essentials Survey scores, especially more Supportive Environments, are more likely to reduce students' fear of bullying](supportive-environment-predicts-bullying-fear-reduction.md) — related
+- [Principals' strongest impact on student learning comes through building a positive, measurable, and malleable school climate](principal-impact-through-school-climate.md) — a broader claim this one bears on
+- [School climate functions as a setting-level indicator: students entering schools where they feel safe and supported attend more and earn higher grades, and Chicago's five essential supports survey responses are highly predictive of teacher and school performance](school-climate-setting-level-indicator-five-supports.md) — related

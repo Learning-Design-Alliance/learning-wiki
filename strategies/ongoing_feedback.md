@@ -64,6 +64,7 @@ Ongoing feedback operationalizes [Assessment for Learning](../principles/assessm
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the principle that feedback should specify the next action, which ongoing feedback schedules across the process
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a time-efficient conferencing format for delivering ongoing feedback in class
 - [Using Mathspace workflows to provide timely, mastery-oriented feedback on student work](mathspace-mastery-oriented-feedback-workflow.md)
+- [Use GenAI across the writing process stages of pre-writing, drafting language support, and revision feedback, and for discussion questions, differentiated explanations, and scaffolded practice](genai-writing-process-and-instructional-uses.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — revision is the practice that converts feedback into learning

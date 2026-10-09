@@ -45,3 +45,4 @@ Open-ended survey responses and interviews identify funding as a top procurement
 
 ## Related Claims
 - [Cohort purchasing through consolidated edtech procurement produced savings of nearly $200,000 and roughly 50 percent per-license discounts in Denver Public Schools](dps-cohort-purchasing-savings-200000.md) — related
+- [Many local school districts lack research personnel to evaluate program efficacy or investigate best practices because of tight budgets](districts-lack-research-personnel-budget-constraint.md) — related

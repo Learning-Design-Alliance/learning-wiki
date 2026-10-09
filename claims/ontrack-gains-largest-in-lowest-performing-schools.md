@@ -54,3 +54,5 @@ Figure 4 analysis comparing 2005 and 2013 on-track rates by school performance q
 - [On-track rates after ninth grade rose from 42.2 to 50.6 percent, with slightly less than half the adjusted improvement attributable to better-prepared entering students](chicago-on-track-rates-rose-half-beyond-composition.md) — related
 - [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related
 - [Citywide freshman on-track rates improved from 48 to 58 percent over a decade, with declines tied to increased course-taking](on-track-rate-citywide-trends.md) — related
+- [On-Track gains were largest in the lowest-performing schools and among African American and Latino males](on-track-gains-largest-bottom-quartile-and-minority-males.md) — related
+- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](on-track-predicts-graduation-three-and-half-times.md) — related

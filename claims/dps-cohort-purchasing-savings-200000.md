@@ -50,3 +50,4 @@ Case-study interviews and document review of DPS's first-year rollout report the
 - [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
 - [Funding is a top procurement challenge for districts, and many districts treat learning technology as a supplemental purchase rather than part of core curriculum budgets](funding-top-edtech-procurement-challenge.md) — related
 - [DPS's evaluation process led schools to use safer edtech products by prioritizing student data privacy and accessibility review](dps-evaluation-safer-edtech-products.md) — related
+- [Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars](denver-cross-functional-review-shrunk-edtech-portfolio.md) — a broader claim this one bears on

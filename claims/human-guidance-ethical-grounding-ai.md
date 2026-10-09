@@ -67,3 +67,4 @@ Discussion-level argument (citing Rouhiainen, 2019) that resisting "complacency 
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
 - [Educators cautiously support AI for culturally responsive content generation while fearing cultural biases and stereotypes in AI output](culturally-responsive-ai-content-cautious-optimism.md) — a narrower finding that bears on this claim
 - [Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs](hands-on-genai-seminars-raise-critical-assessment.md) — a narrower finding that bears on this claim
+- [Generative AI generates responses based on probability and pattern prediction, not reasoning or understanding](genai-probabilistic-prediction-not-reasoning.md) — related

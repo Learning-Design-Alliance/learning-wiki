@@ -45,6 +45,7 @@ The guide recommends working closely with users during development through itera
 - [Product Testing](product-testing.md)
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
 - [Engage users and community members in the design process to make learning tools more attractive, useful, and effective](user-and-community-centered-design-methods.md)
+- [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 
 ## Examples
 -

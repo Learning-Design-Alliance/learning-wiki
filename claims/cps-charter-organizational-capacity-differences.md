@@ -53,3 +53,4 @@ Descriptive analysis of charter annual-report policy data and teacher/student su
 - [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related
 - [In schools characterized by high relational trust, educators were more likely to experiment with new practices and work together with parents to advance improvements](high-relational-trust-educators-experiment-and-partner-with-parents.md) — related
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related
+- [Teachers in CHSRI small schools report significantly more supportive contexts for reform than similar teachers in other Chicago high schools](chsri-teachers-report-supportive-reform-context.md) — related

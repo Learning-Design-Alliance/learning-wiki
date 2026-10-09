@@ -45,3 +45,4 @@ Observational analysis of the 2010-11 cohort; the Intensive Support sample for F
 ## Related Claims
 - [Elementary students in the On-Track category graduated high school at more than twice the rate and enrolled in college at more than four times the rate of students in the Intensive Support category](condensed-eot-ontrack-versus-intensive-support-outcomes.md) — possibly the same claim (merge candidate)
 - [Students in higher CPS EOT categories had progressively higher rates of high school graduation and college enrollment](cps-eot-five-category-progressive-outcomes.md) — related
+- [Elementary students with 90%+ attendance and GPA 3.0+ in grades 3-8 were more likely to graduate high school with a 3.0+ GPA than peers in other EOT categories](elementary-on-track-categories-predict-graduation.md) — related

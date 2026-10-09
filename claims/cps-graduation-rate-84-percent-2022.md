@@ -45,3 +45,5 @@ Cohort analysis of all CPS high school students, including charter and Options s
 ## Related Claims
 - [CPS's four-year high school graduation rate declined for the first time in recent history in 2021, from 83.3% to 81.8%](cps-graduation-rate-first-decline-2021.md) — related
 - [Nearly one in five recent CPS ninth-graders were ever enrolled in an Options school, and their six-year graduation rate improved about 5 percentage points but remained below 50 percent](cps-options-school-enrollment-and-graduation.md) — related
+- [CPS's four-year high school graduation rate reached a record 85.0% in 2023, up about one percentage point from 84.1% in 2022](cps-2023-graduation-rate-record-85.md) — related
+- [Graduation rates declined by about four percentage points in the first policy year and one more the next, then recovered to nearly pre-policy levels within five years](cps-graduation-rates-declined-then-recovered.md) — related

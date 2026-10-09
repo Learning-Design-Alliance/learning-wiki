@@ -61,9 +61,11 @@ Language proficiency interacts directly with cognitive load: unfamiliar vocabula
 7. Assess content knowledge with linguistically accessible tasks, or accommodate by separating language proficiency from content mastery ([Accommodations](../elements/accommodations.md)).
 
 ## Related Strategies
+
 - [Accessible Syntax](accessible_syntax.md) — the material-design counterpart: rewriting prose so syntax does not block comprehension
 - [Activate Background Knowledge](activate_background_knowledge.md) — connecting new content to what learners already know, including home-language knowledge
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md) — a parallel strategy for reducing a different access barrier
+- [Select dual enrollment courses without English language proficiency requirements or prerequisites to make Early College linguistically accessible](ec-courses-without-english-proficiency-prerequisites.md)
 
 ## Examples
 - **SIOP Model** ([Center for Applied Linguistics](https://www.cal.org/siop/)) — sheltered instruction in which every lesson carries both a content objective and a language objective, with scaffolded vocabulary, visuals, and interaction structures.

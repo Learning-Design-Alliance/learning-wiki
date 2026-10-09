@@ -45,3 +45,4 @@ Regression discontinuity analysis of the Chicago double-dose algebra policy exam
 ## Related Claims
 - [Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services](double-dose-least-effective-weakest-students.md) — possibly the same claim (merge candidate)
 - [Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined](double-dose-effects-vary-by-initial-ability.md) — related
+- [Extended learning time interventions, including week-long acceleration academies with highly effective teachers and some double-dose math structures, show strong evidence of effectiveness](extended-learning-time-academies-double-dose-math-effective.md) — related

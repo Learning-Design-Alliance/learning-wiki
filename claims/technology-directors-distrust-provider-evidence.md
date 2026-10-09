@@ -48,3 +48,4 @@ Survey finding on evidence credibility: "only 29 percent" of technology director
 - [School districts and ed-tech developers hold different perspectives on the role and value of school-based technology pilots in procurement](districts-developers-differ-pilot-perspectives.md) — related
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related
 - [Most surveyed ed tech developers report their products are informed by research, but purchasers struggle to evaluate that research](developers-report-research-informed-products.md) — related
+- [Only 20% of the 100 most used edtech products have a research rationale](only-20-percent-top-edtech-research-rationale.md) — related

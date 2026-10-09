@@ -48,3 +48,4 @@ Content analysis of Table 10 tool frequencies from the 20-academician case study
 - [Academics most often name Instagram and LinkedIn as the Web 2.0 tools they use to realise esteem needs](academics-prefer-instagram-linkedin-esteem.md) — related
 - [Academics most often name YouTube and Instagram as the Web 2.0 tools they use to realise self-actualisation needs](academics-prefer-youtube-instagram-self-actualisation.md) — related
 - [Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature](smartphone-attachment-impatience-impulsivity.md) — related
+- [Most survey respondents search for educational and job opportunities on mobile devices rather than laptops or desktops](mobile-majority-search-job-opportunities.md) — related

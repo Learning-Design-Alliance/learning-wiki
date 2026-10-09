@@ -43,6 +43,7 @@ This strategy directs practitioners of predictive analytics in education to trea
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
 - [Mitigating Racial Bias in Edtech Products](mitigating_racial_bias_in_edtech_products.md)
 - [AI in Education Toolkit for Racial Equity](ai_in_education_toolkit_for_racial_equity.md)
+- [Evaluate AI systems in DLPs for fairness across learner groups, not just overall accuracy](evaluate-ai-fairness-across-learner-groups.md)
 
 ## Examples
 -

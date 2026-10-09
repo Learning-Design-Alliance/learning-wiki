@@ -45,6 +45,7 @@ The report's discussion offers eight recommendations for education decision-make
 
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 - [Personalized, subject-specific professional support combining teacher characteristics with school-level collaboration and leadership support](personalized-subject-specific-data-use-support.md)
+- [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
 
 ## Examples
 -

@@ -46,6 +46,10 @@ The report recommends that districts collaborate with community members to devel
 - [District actions for sustained, equitable impact with powerful technology](district-actions-powerful-technology-impact.md)
 - [School districts adopting AI should follow a five-step roadmap: engage communities, apply and develop policies, provide professional development, create supportive learning environments, and monitor and evaluate AI use](five-step-district-ai-adoption-roadmap.md)
 - [System-level strategies to build enabling conditions for Powerful Learning](system-level-strategies-powerful-learning-conditions.md)
+- [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
+- [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
+- [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
+- [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
 
 ## Examples
 -

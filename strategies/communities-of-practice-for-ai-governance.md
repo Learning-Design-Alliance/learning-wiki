@@ -51,6 +51,10 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
 - [School districts adopting AI should follow a five-step roadmap: engage communities, apply and develop policies, provide professional development, create supportive learning environments, and monitor and evaluate AI use](five-step-district-ai-adoption-roadmap.md)
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
+- [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
+- [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
+- [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
+- [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 
 ## Examples
 -

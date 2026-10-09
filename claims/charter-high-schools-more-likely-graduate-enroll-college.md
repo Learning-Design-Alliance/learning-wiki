@@ -64,3 +64,4 @@ The study analyzes Florida data on students attending charter high schools, conf
 - [Charter high schools have positive effects on educational attainment in Florida and Chicago](charter-high-schools-positive-attainment-effects-florida-chicago.md) — a broader claim this one bears on
 - [Chicago charter high schools have large positive effects on earnings in adulthood](chicago-charter-high-schools-large-earnings-effects.md) — related
 - [Evaluations of charter schools limited to test scores may fail to capture important benefits](test-score-only-evaluations-miss-charter-benefits.md) — related
+- [Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college](sel-value-added-graduation-college-enrollment.md) — related

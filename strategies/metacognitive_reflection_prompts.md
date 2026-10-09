@@ -65,6 +65,7 @@ Prompts work by triggering self-explanation and strategy evaluation at moments w
 - [Action-oriented feedback](../strategies/action-oriented_feedback.md) — feedback that prompts learners to decide what to do next pairs naturally with attribution prompts
 - [Activating prior knowledge](../strategies/activating-prior-knowledge.md) — planning prompts often double as activation by asking what learners already know about a task
 - [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
+- [Teach prompting as a five-part skill (role, task, audience, constraints, justification) with a structured ask-generate-evaluate cycle](five-part-prompt-framework-with-evaluation-cycle.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small-group reading sessions in which students rotate through structured roles (questioning, clarifying, summarizing, predicting), each functioning as a scripted metacognitive prompt that is gradually faded.

@@ -54,6 +54,7 @@ A Digital Promise membership network of forward-thinking school districts, descr
 ## Examples
 
 - [Recruit practitioners for research engagement by leaning into existing networks, using open calls and targeted invitations](../strategies/recruit-practitioners-via-existing-networks.md)
+- [Join national innovation networks and build internal leadership academies to advance responsible district AI adoption](../strategies/join-national-innovation-networks-ai-readiness.md)
 
 ## Key Sources
 - Vina Vo. (2017). Understanding the Benefits of Participating in the League of Innovative Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/fdb325e9-a262-467b-ae0e-b012c3eeb23e

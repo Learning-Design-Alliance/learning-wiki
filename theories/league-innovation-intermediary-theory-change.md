@@ -50,7 +50,8 @@ The report frames the League as an innovation intermediary, defined as "organiza
 - 
 
 ## Examples
--
+
+- [Join national innovation networks and build internal leadership academies to advance responsible district AI adoption](../strategies/join-national-innovation-networks-ai-readiness.md)
 
 ## Key Sources
 - Vina Vo. (2017). Understanding the Benefits of Participating in the League of Innovative Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/fdb325e9-a262-467b-ae0e-b012c3eeb23e

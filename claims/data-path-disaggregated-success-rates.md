@@ -46,3 +46,4 @@ Preliminary disaggregated course outcome data from Spring 2021 (all n=196; Latin
 - [School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell](cps-suspension-reduction-school-climate.md) — related
 - [Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty](disaggregated-data-dives-surface-equity-gaps.md) — a broader claim this one bears on
 - [Launching RPP work with disaggregated student data highlighted equity issues without assigning blame](student-data-first-launch-highlighted-equity-without-blame.md) — related
+- [Prior gateway course success rates averaged 66 percent with a 14-point gap for students of color](gateway-success-rates-racial-gap-baseline.md) — related

@@ -12,7 +12,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (29 for, 15 mixed) · 36 studies (13 associational, 7 review, 7 design, 4 causal, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 36 report an effect size · 43 claims rest on one study
+> **Evidence** · 48 claims (32 for, 16 mixed) · 37 studies (14 associational, 7 review, 7 design, 4 causal, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 37 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,10 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Rapid guessing tends to negatively distort scores and diminish validity](../claims/rapid-guessing-negatively-distorts-scores.md) [+W] — attached 2026-10-09 from Steven Wise (2017), which proposed "Exclude rapid guesses from scoring because they do not contribute to measurement"; tests this page's relationship.
 - [CATs can effectively address the validity threat posed by unmotivated examinees in low-stakes testing](../claims/cats-address-unmotivated-examinee-validity-threat.md) [+W] — attached 2026-10-09 from Steven Wise (2014), which proposed "Use computerized adaptive tests in low-stakes programs to mitigate unmotivated examinees"; tests this page's relationship.
 - [A substantial share of students are misplaced by single placement tests, more often into developmental courses than the reverse](../claims/misplacement-rates-24-33-percent.md) [+W] — attached 2026-10-09 from Bailey et al. (2016), which proposed "Use multiple measures—such as high school GPA alongside placement tests—to assess postsecondary readiness and place students".
+- [HSGPA strongly predicts six-year college graduation among four-year college enrollees, with odds of graduating doubling per standard deviation of HSGPA](../claims/hsgpa-strongly-predicts-college-graduation.md) [+W] — attached 2026-10-09 from Allensworth et al. (2019), which proposed "Use high school grades, not individual test scores, as the primary formative indicator of college readiness, and rely less heavily on standardized test scores in accountability"; tests this page's relationship.
+- [The linear slope of the HSGPA–college graduation relationship does not vary significantly across high schools, so HSGPA provides a consistent signal across schools](../claims/hsgpa-slope-consistent-across-schools.md) [~W] — attached 2026-10-09 from Allensworth et al. (2019), which proposed "Use high school grades, not individual test scores, as the primary formative indicator of college readiness, and rely less heavily on standardized test scores in accountability"; tests this page's relationship.
+- [ACT scores weakly predict college graduation, and the school-level variance in the ACT slope (0.192) exceeds the average slope (0.129), so school effects introduce more noise than the ACT signal](../claims/act-weak-predictor-noise-exceeds-signal.md) [+W] — attached 2026-10-09 from Allensworth et al. (2019), which proposed "Use high school grades, not individual test scores, as the primary formative indicator of college readiness, and rely less heavily on standardized test scores in accountability"; tests this page's relationship.
+- [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability](../claims/act-adds-little-beyond-hsgpa.md) [+W] — attached 2026-10-09 from Allensworth et al. (2019), which proposed "Use high school grades, not individual test scores, as the primary formative indicator of college readiness, and rely less heavily on standardized test scores in accountability"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

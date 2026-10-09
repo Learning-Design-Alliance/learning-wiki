@@ -49,3 +49,4 @@ Seasonal growth modeling across fall and spring test administrations for 840,000
 - [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — a broader claim this one bears on
 - [Non-linear within-year growth has implications for extending the school year, summer learning loss, and racial/ethnic achievement gaps](nonlinear-growth-implications-school-year-summer-gaps.md) — related
 - [Rural students are characterized as a substantially sized but overlooked group, comprising about 20 percent of the national student population](rural-students-forgotten-20-percent-framing.md) — related
+- [Mean achievement in the studied cohort shows a saw-tooth seasonal pattern, with within-year gains followed by summer declines (summer learning loss)](sawtooth-seasonal-achievement-pattern-map-growth.md) — a broader claim this one bears on

@@ -47,3 +47,4 @@ Qualitative longitudinal interviews with 105 CPS juniors conducted before and af
 - [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
 - [Fewer than half of CPS juniors meet ACT college-readiness benchmarks in any subject, with science lowest at 9 percent](cps-act-benchmark-meeting-rates-low.md) — related
 - [CHSRI juniors' ACT scores were no different from similar students' and remained well below college readiness benchmarks](chsri-act-scores-no-different-low.md) — related
+- [Most interviewed CPS seniors describe senior year as unchallenging and easier than previous years](seniors-describe-senior-year-unchallenging.md) — related

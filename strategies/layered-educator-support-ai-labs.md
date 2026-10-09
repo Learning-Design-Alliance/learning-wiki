@@ -45,6 +45,7 @@ The report recommends building layered systems of support for teachers at every 
 - [Multi-layer coach training and support system: coach camp, paired mentoring, ongoing webinars, and coach-the-coach sessions](vils-coach-training-support-system.md)
 - [Scaffold adults from beginning users to confident digital citizens with hands-on, competency-based classes and layered teacher support](scaffold-confidence-hands-on-digital-literacy-classes.md)
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
+- [Invest in dedicated instructional technology leadership roles and role-specific professional learning for AI literacy](role-specific-ai-professional-learning-leadership.md)
 
 ## Examples
 -

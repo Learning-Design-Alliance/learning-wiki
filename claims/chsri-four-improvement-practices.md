@@ -55,3 +55,4 @@ Cross-case qualitative analysis of three high-performing CHSRI schools based on 
 - [Goal setting is widely believed to improve individual performance, and this belief is being tested in schools](goal-setting-belief-tested-in-schools.md) — related
 - [The OBC model benefits from clearly defined roles and shared responsibilities across district, school, and provider teams.](obc-clear-roles-shared-responsibility.md) — a narrower finding that bears on this claim
 - [Few schools used 5Essentials data for improvement, citing opaque data, principal-focused measures, and lack of district-wide strategy](few-schools-use-5essentials-data-improvement.md) — related
+- [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related

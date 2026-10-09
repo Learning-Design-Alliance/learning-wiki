@@ -67,3 +67,4 @@ The report describes early research on the two-generation approach, quoting a 20
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — a broader claim this one bears on
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related
 - [Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose](group-membership-alone-does-not-produce-cooperation.md) — related
+- [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related

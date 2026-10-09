@@ -43,6 +43,7 @@ Alongside partnering with youth, the report recommends four supporting practices
 - [Change stakeholder roles and investments so marginalized participants can engage as co-experts in R&D](role-investments-for-inclusive-rd-participation.md)
 - [Establish formal, compensated worker advisory councils and co-design teams in skills-first system design](compensated-worker-advisory-councils-co-design.md)
 - [Design for influence, not simply participation, and scaffold without replacing partner leadership](design-for-influence-scaffold-leadership.md)
+- [Co-designed recommendations for education/training providers: partnerships, wrap-around supports, and equitable recruitment](provider-codesigned-tech-pathway-supports.md)
 
 ## Examples
 -

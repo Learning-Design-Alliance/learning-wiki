@@ -44,6 +44,7 @@ Based on recent developments, early progress, and current challenges, the report
 - [Policy strategies to personalize learning: competency-based progressions, phased implementation, networks, and interoperability](policy-strategies-competency-networks-interoperability.md)
 - [Provide ongoing support and school-day time for teachers completing micro-credentials](ongoing-support-and-release-time-micro-credentials.md)
 - [Prioritize process-data instrumentation, open collaboration, and dissemination in learning platforms](platform-instrumentation-open-research-recommendations.md)
+- [Six recommendations for moving toward a data-driven, worker-centered learning ecosystem](six-recommendations-worker-centered-data-ecosystem.md)
 
 ## Examples
 -

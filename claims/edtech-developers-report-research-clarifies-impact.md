@@ -43,3 +43,4 @@ Survey conducted in December 2021 with over 25 edtech products holding the Resea
 ## Related Claims
 - [The report calls for reframing edtech certification applications to help developers identify equity gaps in the research they use](certification-equity-gap-reframing.md) — related
 - [A strong majority of surveyed edtech products agree that products rooted in learning sciences research have the greatest impact on learning](survey-products-rooted-in-research-greatest-impact.md) — related
+- [Only 20% of the 100 most used edtech products have a research rationale](only-20-percent-top-edtech-research-rationale.md) — related

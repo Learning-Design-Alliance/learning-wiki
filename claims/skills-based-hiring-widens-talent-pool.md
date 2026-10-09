@@ -45,3 +45,7 @@ In its postsecondary key recommendations, the scan states that "removing degree 
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
 - [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
+- [Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners](micro-credentials-disrupt-pathways-access-excluded-learners.md) — related
+- [Racist hiring practices reduce African American candidates' job offers despite equal or better credentials](racist-hiring-practices-toc-candidates.md) — related
+- [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
+- [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related

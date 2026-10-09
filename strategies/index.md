@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**4429 entries** · 0 stable · 2517 in review · 1912 drafts
+**4505 entries** · 0 stable · 2517 in review · 1988 drafts
 
 ---
 
@@ -2608,4 +2608,4 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 ## Draft
 
-1912 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.
+1988 draft entries are currently omitted from this section page to keep the index navigable. Browse the folder directly or promote pages to `review` as they are curated.

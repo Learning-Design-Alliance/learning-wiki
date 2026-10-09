@@ -45,3 +45,4 @@ The article's abstract states the study's purpose: examining screening assessmen
 ## Related Claims
 - [The authors argue the IRLA may help bridge screening and intensive, systematic instruction](irla-bridging-screening-instruction.md) — possibly the same claim (merge candidate)
 - [Validity evidence for the IRLA is disaggregated across grade, program, and race/ethnicity](irla-validity-disaggregated-demographics.md) — related
+- [Compressed content, grade retention, and enhanced Response to Intervention show less evidence of substantially shifting outcomes for struggling students, and some carry potential adverse long-term consequences](compressed-content-retention-enhanced-rti-less-evidence.md) — related

@@ -63,6 +63,7 @@ Family engagement functions as an out-of-school support layer that extends instr
 - Home literacy routines — the most-studied specific family engagement practice
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Use implementation-study findings to inform design, implementation, and scale-up of early math family engagement interventions](use-implementation-study-findings-to-scale-early-math-programs.md)
+- [Families partner with schools on attendance and grades through belonging, collaborative support, and joint monitoring](family-engagement-three-playbook-actions.md)
 
 ## Examples
 - **Parent Teacher Home Visits** (https://www.pthvp.org) — relationship-first home visiting model used across U.S. districts, with documented gains in attendance and teacher-family trust.

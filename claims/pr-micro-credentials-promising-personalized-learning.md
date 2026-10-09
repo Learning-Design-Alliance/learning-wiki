@@ -47,3 +47,4 @@ Case study participation data show "By the end of the case study, educators in P
 - [Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development](pr-pilot-microcredential-earning-and-value.md) — related
 - [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
 - [Teachers report willingness to invest meaningful time in earning micro-credentials, averaging 4.2 hours for evidence collection, with some willingness to fund assessment](teacher-time-investment-micro-credentials.md) — related
+- [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — related

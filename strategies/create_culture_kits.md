@@ -64,6 +64,7 @@ Culture kits work by activating students' funds of knowledge and positioning the
 - [Check-ins](../principles/check-ins.md) — lower-stakes community rituals that can precede or follow kit sharing
 - [Community-based Learning](../principles/community-based-learning.md) — extends the same asset-framing beyond the classroom to neighborhoods and families
 - [Use structured e-mail exchanges with target-language peers to build cross-cultural interest and motivation](email-exchanges-target-language-peers.md)
+- [Panel protocol: open with community cultural resources, then moderated discussion connecting community assets to computing education](community-cultural-resources-panel-protocol.md)
 
 ## Examples
 - **Rookie Teacher of the Year practice (Bank Street College teacher education)** — pre-service teachers build culture kits as a first assignment to experience being "the other" and to practice asset-based framing before their own classrooms.

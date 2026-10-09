@@ -50,3 +50,5 @@ Consortium analysis of CPS cohort data reports that in 2005, 40 percent of first
 - [Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students](ell-ontrack-35-times-more-likely-graduate.md) — a narrower finding that bears on this claim
 - [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — possibly the same claim (merge candidate)
 - [The report treats freshman on-track status as an early indicator correlated with later graduation and dropout](freshman-on-track-early-indicator-kenwood.md) — a broader claim this one bears on
+- [Students on track in ninth grade were four times more likely than off-track peers to graduate high school](ninth-grade-on-track-four-times-graduation.md) — related
+- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](on-track-predicts-graduation-three-and-half-times.md) — possibly the same claim (merge candidate)

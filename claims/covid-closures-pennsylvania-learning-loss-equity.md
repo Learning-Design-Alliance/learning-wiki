@@ -55,3 +55,4 @@ The publication's framing statement, offered by the authors as an interpretation
 - [Students with disabilities may have experienced disproportionate academic impacts from COVID-19, according to NWEA research](swd-disproportionate-covid-academic-impacts.md) — related
 - [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related
 - [Experts at the NISS Ingram Olkin Forum shared statistical and data-analytic challenges in researching COVID-19's impact on U.S. schools](covid-schools-statistical-challenges-forum.md) — related
+- [COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic](covid-losses-concentrated-early-grades-struggling-students.md) — a narrower finding that bears on this claim

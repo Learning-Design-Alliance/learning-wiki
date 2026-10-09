@@ -43,6 +43,7 @@ The article recommends that education systems move beyond single-issue spotlight
 - [Ask ethics, bias, and equity questions before adopting an AI system](ethics-bias-equity-questions-for-ai.md)
 - [Systemic, human-centred approach treating digital data use as a school-and-teacher system, with AI integrated into professional development](systemic-human-centred-data-use-approach.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards](independent-audits-role-based-dashboards-ai-accountability.md)
 
 ## Examples
 -

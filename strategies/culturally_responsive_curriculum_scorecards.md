@@ -64,6 +64,7 @@ Scorecards operationalize culturally responsive pedagogy by making its criteria 
 - [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](dl2f-philippine-contextual-adaptation-strategy.md)
 - [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
+- [Use a cultural liaison and adopt scholar-and-student stance when researching outside one's own culture](cultural-liaison-researching-outside-own-culture.md)
 
 ## Examples
 - **[NYU Metro Center Culturally Responsive-Sustaining Education Scorecards](https://www.nyusteinhardt.edu/metrocenter/crehub/)** — classroom-, school-, and district-level scorecards aligned to New York State's CR-SE framework, used by districts nationally for curriculum and policy evaluation.

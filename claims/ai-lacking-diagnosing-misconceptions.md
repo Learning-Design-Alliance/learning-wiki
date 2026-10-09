@@ -44,3 +44,4 @@ Technical findings across the cohort, reported in Table 5 under diagnosing stude
 - [AI pilots found models not yet capable of high-quality math output generation, including multiple choice problems, coherent word problems, and math visuals](ai-not-capable-math-output-generation.md) — related
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
+- [AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable](ai-not-best-practice-competency-based-assessment.md) — a broader claim this one bears on

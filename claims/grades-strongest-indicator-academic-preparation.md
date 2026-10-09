@@ -43,4 +43,4 @@ In this research-practice interview, Allensworth states that across the overall 
 
 
 ## Related Claims
--
+- [The strongest college-readiness predictors measure four broad constructs: academic preparation, aspirations and expectations, socioeconomic status, and teacher perceptions](four-college-readiness-constructs-factor-analysis.md) — related

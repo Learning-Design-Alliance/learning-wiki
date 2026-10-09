@@ -65,3 +65,4 @@ The report's summary of its practice-effect analyses: benefits exist for timed p
 - [Schools with stronger college-going cultures have higher student ACT scores, regardless of student backgrounds](college-going-culture-associated-higher-act-scores.md) — related
 - [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
 - [Low-income US schools focus most on testing and have the fewest resources for interest-driven activities](low-income-schools-test-prep-crowds-out-interest-activities.md) — related
+- [Strong school academic culture (academic press and college-going culture) raises ACT scores by about 0.6 points after controlling for prior PLAN scores](academic-culture-raises-act-scores.md) — related

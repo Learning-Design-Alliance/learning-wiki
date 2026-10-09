@@ -48,3 +48,5 @@ Trend analysis of immediate college enrollment rates for all CPS high school gra
 - [Two-year enrollment declines were concentrated among Black and Latinx CPS graduates, while four-year rates held steady for these groups](cps-2020-two-year-declines-black-latinx-students.md) — related
 - [CPS class of 2020 graduates enrolled in four-year colleges at rates similar to previous cohorts (41.8% in 2019 vs. 40.8% in 2020)](cps-2020-four-year-enrollment-steady.md) — related
 - [Immediate college enrollment declined from 62 percent for the CPS class of 2019 to 58 percent for the class of 2020, driven more by the drop in two-year than four-year enrollment](cps-immediate-enrollment-decline-2020.md) — related
+- [CPS's immediate four-year college enrollment reached an all-time high of 47.5% in 2023 while two-year enrollment declined to 15.7%](cps-2023-four-year-enrollment-record-two-year-decline.md) — related
+- [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md) — related

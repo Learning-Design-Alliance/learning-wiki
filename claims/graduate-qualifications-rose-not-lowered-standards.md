@@ -52,3 +52,8 @@ Trend analysis of graduate qualifications (Chapter 2). The proportion of student
 - [Chicago high school graduation rates improved dramatically over 20 years without a decline in average high school academic performance](cps-graduation-rates-improved-without-performance-decline.md) — related
 - [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — reports the opposite
 - [ACT participation is positively selected across schools: higher-achieving schools have higher participation rates](positive-across-school-selection-act-participation.md) — related
+- [High-SES graduates were more than three times as likely as low-SES graduates to take an AP course in 2003-04](ap-access-gaps-by-ses-race.md) — related
+- [CPS graduates' academic qualifications improved steadily from 2003 to 2015, with districtwide ACT rising from 16.97 to 18.81 and GPA from 2.16 to 2.56](cps-academic-qualifications-trend-2003-2015.md) — related
+- [Rising CPS graduation rates have been accompanied by higher achievement, including ACT and GPA gains](cps-graduation-gains-with-achievement-gains.md) — related
+- [Chicago graduation rates improved 17 percentage points (57 to 74 percent) between 2006 and 2015 while the ACT average rose from 17.6 to 18.5](cps-graduation-rate-57-to-74-act-rose.md) — related
+- [Increasing high school GPA by 0.4 points has a larger impact on four-year college graduation than increasing ACT by 2 points for CPS students of all academic qualifications](gpa-increase-outperforms-act-for-college-graduation.md) — related

@@ -46,6 +46,7 @@ This strategy governs the first activity phase, forming design teams. It has two
 - [Using Empathy Interviews for Family Engagement](using_empathy_interviews_for_family_engagement.md)
 - [Conduct research in partnership with educators on equity problems educators prioritize](educator-partnership-centered-equity-research.md)
 - [Multi-stakeholder analytics partnership using improvement science with strict data governance](improvement-science-analytics-partnership-strategy.md)
+- [Build personal connections and find common ground in research-practice partnerships](personal-connections-rpp-common-ground.md)
 
 ## Examples
 -

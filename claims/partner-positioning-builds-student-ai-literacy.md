@@ -48,3 +48,4 @@ Qualitative interview finding. Partner teachers taught students how the AI works
 - [The focus of teacher-student interactions differed by AI positioning: learning for partners, score-increasing for assistants, completion for substitutes](interaction-focus-varies-by-ai-positioning.md) — related
 - [Teachers who positioned AI as a partner remained instructional leaders, weaving the tool into rich instruction and using score data to decide what to re-teach](partner-positioning-instructional-leadership.md) — related
 - [Among 24 Topeka teachers, half positioned the AI as a teaching partner, 29% as a grading assistant, and 21% as a substitute teacher](teacher-positioning-distribution-topeka.md) — related
+- [Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels](limited-educator-ai-training-resistance-by-grade.md) — related

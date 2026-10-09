@@ -45,3 +45,4 @@ The article's authorial assertion about the OSP approach in Singapore practice, 
 ## Related Claims
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — a narrower finding that bears on this claim
 - [Teacher-researchers in funds of knowledge work face difficulties, including helpless pessimism and heavy time demands; reflective after-school labs helped dispel the pessimism, and teachers judged the process worthwhile despite the strain.](teacher-researcher-difficulties-eased-by-reflective-labs.md) — related
+- [Teachers face many barriers to integrating CT, but training can help](teacher-barriers-ct-integration-training-helps.md) — a narrower finding that bears on this claim

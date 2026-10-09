@@ -67,3 +67,4 @@ Descriptive analysis of top-ranked programs by program type across subgroups (Fi
 - [Most GoCPS applicants received an offer from a preferred program: 51 percent from their top-ranked and 81 percent from a top-three ranked choice program](gocps-most-applicants-top-three-offers.md) — related
 - [Most GoCPS applicants received an offer from a program they ranked: 93 percent in round 1 (51 percent at their top choice) and 85 percent in round 2 (61 percent at their top choice)](gocps-offer-outcomes-two-rounds.md) — related
 - [Program demand varied widely: 21 percent of programs had more than ten times as many applications as seats, led by arts, CTE, and SEHS programs](gocps-program-demand-variation-arts-cte-sehs.md) — related
+- [College was the most prevalent postsecondary pathway selection, with CTE/non-CTE differences narrowing over time](pathway-selection-college-prevalent-cte-gaps-narrowing.md) — related

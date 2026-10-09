@@ -48,3 +48,4 @@ The report cites graduation data to motivate student success systems, stating of
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students](ell-ontrack-35-times-more-likely-graduate.md) — related
 - [The freshman on-track indicator predicts five-year graduation equally or more strongly for students with disabilities than for students without disabilities, with on-track students two to six times more likely to graduate](on-track-predicts-graduation-students-with-disabilities.md) — related
+- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](on-track-predicts-graduation-three-and-half-times.md) — related

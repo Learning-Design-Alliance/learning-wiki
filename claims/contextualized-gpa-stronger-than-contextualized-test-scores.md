@@ -46,3 +46,5 @@ The article reports, citing Bastedo, Umbricht, Bauch, Byun, and Bai (2023), that
 - [Studies finding grades less predictive often use restricted samples or weighted or self-reported GPAs, which are less accurate](restricted-samples-explain-divergent-grade-predictions.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — possibly the same claim (merge candidate)
 - [Prior GPA was the best predictor of students' course grade, whether or not students used courseware.](prior-gpa-best-grade-predictor.md) — related
+- [GPA combined with test scores was the best prediction of college degree attainment for all English Learner groups, but the test-score relationship partly reflects school composition](gpa-test-scores-best-college-degree-prediction-el.md) — related
+- [Course grades are more predictive than standardized test scores of high school and college success](grades-more-predictive-than-test-scores.md) — possibly the same claim (merge candidate)

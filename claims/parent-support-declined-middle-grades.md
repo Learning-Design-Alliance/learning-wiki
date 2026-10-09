@@ -45,3 +45,4 @@ Gwynne, J.A., Allensworth, E.M., Young, C., & Hart, H. (2024). Student experienc
 ## Related Claims
 - [Student reports of social skills and perseverance were declining before the pandemic, fell further during remote learning in the middle grades, and remained below 2011 levels through 2022-23](social-skills-perseverance-declined-pandemic.md) — related
 - [Students reported stronger relationships with teachers and peers during the remote/hybrid year, especially high school students, but these gains did not persist after returning in person](stronger-teacher-peer-relationships-remote-year.md) — related
+- [Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities](local-leaders-learning-supports-across-modalities.md) — related

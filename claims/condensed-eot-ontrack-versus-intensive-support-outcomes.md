@@ -45,3 +45,4 @@ Observational analysis of CPS students in grades 3-8 from the 2010-11 school yea
 ## Related Claims
 - [More than one-half of Intensive Support students did not graduate high school in four years and more than 80 percent did not enroll directly in college](condensed-eot-intensive-support-low-outcomes.md) — possibly the same claim (merge candidate)
 - [Students in higher CPS EOT categories had progressively higher rates of high school graduation and college enrollment](cps-eot-five-category-progressive-outcomes.md) — related
+- [Elementary students with 90%+ attendance and GPA 3.0+ in grades 3-8 were more likely to graduate high school with a 3.0+ GPA than peers in other EOT categories](elementary-on-track-categories-predict-graduation.md) — possibly the same claim (merge candidate)

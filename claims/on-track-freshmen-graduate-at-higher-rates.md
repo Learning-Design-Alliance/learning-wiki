@@ -53,3 +53,5 @@ Observational analysis of CPS longitudinal student records for the September 199
 - [CPS Freshman OnTrack rates rose from 58 to 89 percent between 2007 and 2017 while graduation rates rose 19 percentage points](cps-ontrack-rose-58-to-89-graduation-up-19-points.md) — related
 - [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers](off-track-ninth-grade-graduation-odds.md) — related
 - [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers, with disproportionate impacts on Black and Latino students](off-track-ninth-grade-half-graduation-likelihood.md) — related
+- [Students on track in ninth grade were four times more likely than off-track peers to graduate high school](ninth-grade-on-track-four-times-graduation.md) — related
+- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](on-track-predicts-graduation-three-and-half-times.md) — possibly the same claim (merge candidate)

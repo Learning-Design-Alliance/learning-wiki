@@ -48,3 +48,4 @@ Self-reported enrollment figures quoted from one district's application to the p
 - [Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in CS, a gap largely explained by differential access to schools offering CS](low-ses-cs-enrollment-access-explained.md) — related
 - [Black students were least likely to enroll in CS overall but most likely to enroll once school-level access to CS is accounted for](black-students-cs-enrollment-access-adjusted.md) — related
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — a narrower finding that bears on this claim
+- [Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains](ap-cs-exam-participation-gaps-and-principles-gains.md) — related

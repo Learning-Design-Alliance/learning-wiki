@@ -45,3 +45,4 @@ The chapter's workforce-needs rationale cites secondary market data: the WEF rep
 ## Related Claims
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
 - [The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines](uf-ai-framework-lacks-proficiency-levels.md) — related
+- [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md) — related

@@ -55,6 +55,7 @@ The MAP Growth Goal Explorer is a tool "designed to support and simplify the goa
 
 - [Set growth goals collaboratively so they balance meaningfulness and realism](../strategies/collaborative-growth-goal-setting-balancing-meaningful-realistic.md)
 - [A three-part goal-setting roadmap: collaborate on goals, establish autonomous activities, and check in regularly](../strategies/growth-goal-roadmap-collaborate-activities-check-ins.md)
+- [Use score-linked college exploration alongside goal setting and parent conferences to build post-secondary plans](../strategies/college-explorer-with-goal-setting-and-parent-conferences.md)
 
 ## Key Sources
 - MAP Growth Goal Explorer user guide and FAQ. (2026). HMH Education Company. https://www.nwea.org/research/publication/map-growth-goal-explorer-users-guide/

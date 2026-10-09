@@ -90,3 +90,4 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — related
 - [Transfer from instructional media is empirically possible but its probability under heavy real-world exposure remains unestablished](media-transfer-possible-but-probability-unestablished.md) — related
+- [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related

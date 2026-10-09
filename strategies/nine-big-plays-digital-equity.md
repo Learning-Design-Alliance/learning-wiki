@@ -43,6 +43,7 @@ Digital Promise recommends that state and local teams planning IIJA broadband in
 
 - [Sustain broadband and device access beyond grant funds by inserting permanent upgrade clauses in ISP contracts and adopting 'device as service' procurement models at state scale](sustain-access-isp-clauses-device-as-service.md)
 - [Implement a systems change approach addressing five factors simultaneously for AI and digital equity](systems-change-five-factors-ai-equity.md)
+- [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
 
 ## Examples
 -

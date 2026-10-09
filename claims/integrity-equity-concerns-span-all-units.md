@@ -56,3 +56,6 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
 - [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](gpt-detectors-biased-against-nonnative-english-writers.md) — related
 - [Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level](pr-teachers-dissatisfied-pd-want-tailored-workshops.md) — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
+- [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
+- [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related

@@ -43,6 +43,7 @@ The article recommends that edtech teams evaluate their AI models and outputs be
 - [AI in Education Toolkit for Racial Equity](ai_in_education_toolkit_for_racial_equity.md)
 - [Plan mutual accountability for implementation, including rollout plans, educator supports, and early indicators for pivoting](obc-mutual-accountability-implementation.md)
 - [Evaluate and mitigate sentiment bias across sensitive attributes before deploying LLM forum support](evaluate-mitigate-llm-sentiment-bias-before-deployment.md)
+- [Evaluate AI systems in DLPs for fairness across learner groups, not just overall accuracy](evaluate-ai-fairness-across-learner-groups.md)
 
 ## Examples
 -

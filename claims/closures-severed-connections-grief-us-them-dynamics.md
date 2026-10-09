@@ -65,3 +65,5 @@ Cross-case qualitative finding from the six welcoming-school case studies. Staff
 - [Attending a high school that reduces the fear of bullying raises students' graduation rates](bullying-fear-reduction-raises-graduation-rates.md) — related
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
 - [Four-day school weeks have no detectable effect on disciplinary incident types other than bullying and fighting](four-day-week-no-effect-other-incident-types.md) — reports the opposite
+- [Staff in welcoming schools said the planning process for merging closed schools into welcoming schools was insufficient, leaving them unprepared](school-closing-planning-insufficient-staff-unprepared.md) — related
+- [School closings severed longstanding social connections among families and staff, producing a period of mourning and us-vs-them dynamics](school-closings-severed-social-connections-mourning.md) — possibly the same claim (merge candidate)

@@ -50,3 +50,7 @@ The scan's key idea following its compilation of exposure and exploration resour
 - [Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes](career-pathways-design-moderate-evidence.md) — related
 - [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — related
 - [Coaches appeared to expand exposure to and completion of community college programs, consistent with the strategy's goals](coaching-expanded-program-exposure-completion.md) — related
+- [Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure](black-tech-awareness-exploration-barriers.md) — related
+- [Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas](frequent-job-changes-nonlinear-careers.md) — related
+- [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
+- [Participants report career transitions, certifications, networking gains, financial and social gains from tech-centered education and training programs](tech-program-accomplishments-gains.md) — related

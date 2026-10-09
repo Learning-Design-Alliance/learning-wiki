@@ -51,3 +51,4 @@ Cohort comparison of post-policy versus pre-policy students by percentile rank g
 - [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related
 - [Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related
 - [The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined](double-dose-spillover-high-ability-scores-up-grades-down.md) — related
+- [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related

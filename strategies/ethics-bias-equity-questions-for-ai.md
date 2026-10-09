@@ -44,6 +44,7 @@ The article recommends that educators interrogate AI tools before use by asking 
 - [AI in Education Toolkit for Racial Equity](ai_in_education_toolkit_for_racial_equity.md)
 - [Mitigating Racial Bias in Edtech Products](mitigating_racial_bias_in_edtech_products.md)
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
+- [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 
 ## Examples
 -

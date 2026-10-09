@@ -47,3 +47,4 @@ Observational analysis of the 2010-11 cohort; the Academic Support category samp
 - [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
 - [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](condensed-eot-attendance-support-below-average-graduation.md) — related
 - [Students in higher CPS EOT categories had progressively higher rates of high school graduation and college enrollment](cps-eot-five-category-progressive-outcomes.md) — related
+- [Elementary students with 90%+ attendance and GPA 3.0+ in grades 3-8 were more likely to graduate high school with a 3.0+ GPA than peers in other EOT categories](elementary-on-track-categories-predict-graduation.md) — related

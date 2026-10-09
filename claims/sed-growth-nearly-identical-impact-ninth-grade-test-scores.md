@@ -46,3 +46,4 @@ The study's short-run finding compares two named school effects: fostering socio
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
 - [School quality measures that exclude schools' impacts on socioemotional development underestimate or misidentify many impactful schools](quality-metrics-excluding-sed-misidentify-impactful-schools.md) — related
 - [Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts](sed-behavior-impacts-exceed-test-score-impacts-long-run.md) — related
+- [Social-emotional value-added measures are nearly as predictive of a high school's impact on test scores as test-score value-added](sel-value-added-predictive-of-test-score-impact.md) — a broader claim this one bears on

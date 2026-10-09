@@ -47,3 +47,6 @@ Qualitative case study based on an 11-question Qualtrics survey of academic lead
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
 - [Most U.S. colleges had adopted written generative AI policies by late 2024, with 69% defining appropriate versus inappropriate AI use in coursework](review-69-percent-colleges-genai-policies.md) — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — possibly the same claim (merge candidate)
+- [Generative AI adoption among learners and workers is outpacing institutional policy readiness, creating a gap between behavior and policy](ai-adoption-outpaces-institutional-policy-readiness.md) — a broader claim this one bears on
+- [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — related

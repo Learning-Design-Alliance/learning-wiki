@@ -44,3 +44,4 @@ Survey report summary of the eleven-item Parents' Involvement in Students' Learn
 
 ## Related Claims
 - [Students' reports of parental support for learning are far higher in top quartile schools, where two-thirds report moderate or very supportive parents](parental-support-for-learning-quartile-contrast.md) — possibly the same claim (merge candidate)
+- [Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators](parent-support-roadblock-grew-trust-low.md) — related

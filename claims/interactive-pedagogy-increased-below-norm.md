@@ -47,3 +47,4 @@ Survey-based models of instructional climate for below-norm students. "almost a 
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](double-dose-algebra-increased-academic-demand-both-groups.md) — related
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](double-dose-induced-algebra-tracking.md) — related
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related
+- [Extended learning time interventions, including week-long acceleration academies with highly effective teachers and some double-dose math structures, show strong evidence of effectiveness](extended-learning-time-academies-double-dose-math-effective.md) — related

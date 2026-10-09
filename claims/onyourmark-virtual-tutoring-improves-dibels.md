@@ -58,3 +58,4 @@ Randomized study across 12 Texas schools in 2022-23 with 2,085 K-2 students assi
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on
 - [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related
 - [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related
+- [High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students](high-dosage-tutoring-tied-to-classroom-content-accelerates-learning.md) — a broader claim this one bears on

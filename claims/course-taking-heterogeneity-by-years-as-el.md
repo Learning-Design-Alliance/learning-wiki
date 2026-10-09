@@ -45,3 +45,4 @@ Observational study of student-level records from a California district with lar
 ## Related Claims
 - [Prior studies find significant course access gaps between ELs and non-ELs](prior-studies-el-non-el-course-access-gaps.md) — related
 - [Years-as-EL course-taking differences disappear once eighth-grade test scores are considered](el-course-taking-gaps-explained-by-prior-achievement.md) — reports the opposite
+- [District leaders can use a data-driven approach to understand and address opportunity gaps in advanced course-taking](data-driven-approach-address-course-taking-opportunity-gaps-gbsd.md) — related

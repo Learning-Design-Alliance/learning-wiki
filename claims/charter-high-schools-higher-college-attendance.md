@@ -51,3 +51,4 @@ Observational analysis of Chicago and Florida data on college attendance followi
 - [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related
 - [Charter high school students had better attendance and test scores than comparable non-charter students, controlling for incoming characteristics](cps-charter-better-attendance-test-scores.md) — related
 - [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — related
+- [Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college](sel-value-added-graduation-college-enrollment.md) — related

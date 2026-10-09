@@ -49,3 +49,4 @@ Logistic regression analysis of predictive accuracy across student groups for th
 - [Never being expelled in high school was a substantially stronger predictor of college enrollment for Hispanic, English learner, older-entry, and town/rural students than for their counterparts](never-expelled-stronger-predictor-marginalized-groups.md) — reports the opposite
 - [The study also examines persistence in college over the first two postsecondary years](kipp-study-examines-college-persistence-two-years.md) — related
 - [Raw postsecondary data are useful for descriptive purposes but may not give educators substantial new information beyond high school indicators](raw-postsecondary-data-limited-new-information.md) — related
+- [Student-level and school-level demographic characteristics significantly predict middle school academic trajectories toward college readiness](demographics-predict-college-readiness-trajectories.md) — related

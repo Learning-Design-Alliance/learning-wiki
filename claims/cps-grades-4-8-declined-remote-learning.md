@@ -48,3 +48,4 @@ Descriptive analysis of fourth-quarter course grades for grades 4-8 students in 
 - [No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations](cps-school-level-variation-nocredit-rates.md) — related
 - [Remote learning exacerbated pre-pandemic disparities in no-credit grades for low-income students and students of color in grades 4-8, but within-school differences were small](cps-nocredit-disparities-exacerbated-remote-learning.md) — related
 - [Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal](grades-rose-tests-attendance-fell.md) — reports the opposite
+- [Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities](local-leaders-learning-supports-across-modalities.md) — related

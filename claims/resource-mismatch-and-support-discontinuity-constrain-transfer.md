@@ -54,3 +54,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Guidance and Development Policy Instruments Are Individually Insufficient for Instructional Change](guidance-development-instruments-insufficient-alone.md) — related
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - [Participation supports were most effective when deliberately matched to the specific constraints participants faced](supports-matched-to-barriers.md) — related
+- [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — possibly the same claim (merge candidate)

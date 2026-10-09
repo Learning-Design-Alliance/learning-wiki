@@ -53,3 +53,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [El Segundo Unified secured board funding for middle and high school wellness centers after observing Melbourne school wellness centers amid rising mental health needs](el-segundo-wellness-center-funding.md) — a narrower finding that bears on this claim
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related

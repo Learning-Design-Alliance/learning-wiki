@@ -45,3 +45,4 @@ The report cites National Skills Coalition data: "13 percent of all current Amer
 ## Related Claims
 - [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — possibly the same claim (merge candidate)
+- [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — a broader claim this one bears on

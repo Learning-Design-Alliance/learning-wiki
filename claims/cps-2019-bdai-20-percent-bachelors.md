@@ -51,3 +51,6 @@ Figure 4 takeaway reporting the 2019 Direct Bachelor's Degree Attainment Index. 
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
 - [The 2020 Post-Secondary Attainment Index is 27 percent, and no race/ethnicity and gender group reaches the 75 percent aspiration benchmark](cps-pai-27-percent-2020.md) — related
 - [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
+- [An estimated 31 million or more US students over the last 20 years enrolled in but did not complete post-secondary education](31-million-enrolled-not-completed.md) — related
+- [College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened](college-aspirations-doubled-readiness-gaps-persist.md) — related
+- [An estimated 18 percent of CPS ninth-graders will obtain a four-year college degree within 10 years of starting high school (Bachelor's DAI, 2015)](cps-bachelors-dai-18-percent-2015.md) — related

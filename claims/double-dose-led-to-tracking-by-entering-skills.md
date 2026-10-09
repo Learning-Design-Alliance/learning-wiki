@@ -47,3 +47,4 @@ Evaluation of the Chicago double-dose algebra policy reports an organizational s
 - [Chicago's algebra-for-all policy led schools to create more mixed-ability math classrooms when eliminating remedial classes](algebra-for-all-created-mixed-ability-classrooms.md) — reports the opposite
 - [Tracking intensified concentration of behavioral and absentee problems in double-dose algebra classes, explained by declines in peer ability](double-dose-concentrated-behavioral-problems.md) — related
 - [Peer skill levels declined for high-skill students in algebra classrooms after the policy](algebra-for-all-peer-skill-declined-high-skill.md) — related
+- [Extended learning time interventions, including week-long acceleration academies with highly effective teachers and some double-dose math structures, show strong evidence of effectiveness](extended-learning-time-academies-double-dose-math-effective.md) — related

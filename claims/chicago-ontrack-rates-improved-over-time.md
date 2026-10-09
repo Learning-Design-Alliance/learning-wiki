@@ -47,3 +47,4 @@ The article's overview states it "shows the degree to which on-track rates have 
 - [High schools that underwent reform showed no significant improvement in absence rates or ninth-grade on-track rates compared with matched schools](chicago-turnaround-high-schools-no-significant-gains.md) — related
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores](sophomore-ontrack-predictive-but-limited.md) — related
+- [Chicago's on-track data system was associated with improved high school graduation rates](chicago-ontrack-system-improved-graduation-rates.md) — possibly the same claim (merge candidate)

@@ -43,4 +43,5 @@ Stoelinga, S. R., with Hart, H. and Schalliol, D. (2008). The Work of Chicago Pu
 
 
 ## Related Claims
--
+- [Charter administrators reported greater difficulty recruiting and hiring teachers and much higher teacher turnover, but far less difficulty removing poor teachers, than non-charter administrators in 2017](charter-non-charter-staffing-roadblock-differences.md) — related
+- [Human-resource roadblocks rose sharply from 2009 to 2017: difficulty removing poor teachers increased from 39 to 48 percent, and concern over recruiting and hiring the right teachers nearly quadrupled from 12 to 44 percent](cps-hr-roadblocks-rose-2009-2017.md) — related

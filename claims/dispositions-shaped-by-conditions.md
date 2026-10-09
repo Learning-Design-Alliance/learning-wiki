@@ -51,3 +51,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [The study's findings derive from structured reflections of 10 researchers and 11 program designers, not direct partner reports](reflection-method-10-researchers-11-program-staff.md) — related
 - [Knowledge alone did not ensure meaningful participation; it became influential when clearly communicated and built into programming](knowledge-communication-participation.md) — related
 - [Evaluator staff capacities centered on creating conditions for participation rather than technical control](staff-capacities-creating-conditions.md) — related
+- [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related

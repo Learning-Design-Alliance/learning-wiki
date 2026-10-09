@@ -48,3 +48,4 @@ Within-student multilevel analysis of BEL-S data (8,318 students, 25 schools) re
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — a broader claim this one bears on
 - [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — related
 - [Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes](within-student-noncognitive-factors-relate-to-grades.md) — related
+- [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — related

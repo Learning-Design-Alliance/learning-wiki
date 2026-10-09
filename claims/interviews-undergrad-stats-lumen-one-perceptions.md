@@ -51,3 +51,4 @@ The protocol's introduction describes its purpose: interviews with undergraduate
 - [BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate](students-perceive-statistics-as-neutral-subject.md) — related
 - [Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration](modality-moderates-courseware-experience.md) — related
 - [BIPOC solution providers embed culturally responsive pedagogy features in both their R&D processes and their end products](providers-culturally-responsive-product-and-process.md) — related
+- [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related

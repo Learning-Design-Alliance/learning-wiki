@@ -59,9 +59,11 @@ Blending non-achievement factors into achievement grades distorts the grade's me
 6. [Assess performance](../elements/assess-performance.md) periodically and communicate to students and families what each grade means and how to act on it.
 
 ## Related Strategies
+
 - [Standards-Based Grading](standards-based-grading.md) — the broader grading reform this strategy typically operates within; product criteria are the standards-based grade
 - [Revision and Resubmission](revision-and-resubmission.md) — the mechanism through which progress becomes visible and gradable
 - [Mastery Learning](mastery-learning.md) — product grades aligned to mastery rather than averaging
+- [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 
 ## Related Elements
 - [Rubrics](../elements/rubrics.md) — the instrument that makes each criterion explicit and gradable

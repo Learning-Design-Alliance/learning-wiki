@@ -37,7 +37,8 @@ The report found that both open recruitment (via Digital Promise's League of Inn
 - Achieving diverse, qualified practitioner participation in education technology research
 
 ## Related Strategies
-- 
+
+- [Join national innovation networks and build internal leadership academies to advance responsible district AI adoption](join-national-innovation-networks-ai-readiness.md)
 
 ## Examples
 -

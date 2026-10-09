@@ -48,3 +48,4 @@ Short-term cohort trend analysis of first-year course-taking among high school e
 - [Graduation by age 18 rose slightly, and adjusting for incoming student composition cuts the increase roughly in half](chicago-graduation-gains-halved-by-composition-adjustment.md) — related
 - [Algebra/geometry sequence passing rose from 36.5 to 49.7 percent, with changes in incoming students accounting for only 17.8 percent of the improvement](chicago-algebra-geometry-passing-rose-mostly-school-factors.md) — related
 - [Students flagged as honors courses demonstrated greater than expected science growth](honors-courses-greater-science-growth.md) — related
+- [Most of the signal in ACT scores appears to represent factors associated with the student's school rather than the student](act-signal-represents-school-factors.md) — related

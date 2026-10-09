@@ -46,3 +46,4 @@ Cohort 1 outcome analysis from the same RCT: 80.40 percent of intervention stude
 - [Comparison-group students in the Bottom Line study accessed existing advising and nearly all applied to college and for financial aid](bottom-line-comparison-group-near-universal-application.md) — related
 - [The effects of Bottom Line are not known for outcome domains other than college enrollment and progressing in college](bottom-line-effects-unknown-other-outcomes.md) — related
 - [Bottom Line increases enrollment in a four-year college among low-income high school students](bottom-line-increases-four-year-college-enrollment.md) — related
+- [Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value](continuous-enrollment-semesters-completion-gradient.md) — related

@@ -46,3 +46,5 @@ The presenters report 2022 teacher survey responses, shown as bar graphs, indica
 - [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](ky-appalachia-k8-ct-pathway-rpp.md) — related
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [Two Eastern KY teachers shifted from learners to trainers and taught 15 new teachers what they had learned](eky-teachers-shifted-learner-to-trainer.md) — related
+- [Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization](eastern-ky-educators-invest-in-k16-cs-ct.md) — related
+- [Teachers face many barriers to integrating CT, but training can help](teacher-barriers-ct-integration-training-helps.md) — reports the opposite

@@ -47,3 +47,5 @@ The report attributes these figures to a 2020 National Skills Coalition study, a
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers](skills-based-hiring-widens-talent-pool.md) — related
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
+- [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — a broader claim this one bears on
+- [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related

@@ -45,3 +45,4 @@ Interpretive summary of the review's synthesis across the five factor chapters. 
 ## Related Claims
 - [Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle](mindsets-increase-perseverance-behaviors-grades.md) — related
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
+- [The framework's literature review reports students' academic mindsets, learning strategies, perseverance, and behaviors were clearly and significantly related to school performance](noncognitive-factors-related-to-school-performance-farrington-2012.md) — related

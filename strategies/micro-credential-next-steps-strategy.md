@@ -43,6 +43,7 @@ The report proposes three mutually reinforcing efforts for state and local polic
 
 - [Advance micro-credentialing policy across five domains: controlling for quality, counting what matters, finding time, leveraging expertise, and designing for effectiveness](five-domains-micro-credentialing-policy.md)
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](four-micro-credential-ecosystem-recommendations.md)
+- [Plan long-term quantitative data collection and interoperable systems to evaluate micro-credentials' social mobility impact](quantitative-data-collection-microcredential-evaluation.md)
 
 ## Examples
 -

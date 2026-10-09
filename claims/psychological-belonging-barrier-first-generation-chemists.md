@@ -47,3 +47,4 @@ Reflective editorial section identifying psychological factors as an "often unde
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
 - [The editorial's insights derive from reflections of 13 first-generation chemists and cannot represent all first-generation scientists](thirteen-first-generation-chemists-scope-limit.md) — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related
+- [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related

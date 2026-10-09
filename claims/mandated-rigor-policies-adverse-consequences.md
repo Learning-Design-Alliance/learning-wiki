@@ -65,3 +65,6 @@ The agenda reports, citing Montgomery, Allensworth, & Correa (2010), that under 
 - [Three of four DCPS high schools mandating AP enrollment had higher AP exam taking and passing rates after the mandate, but passing rates remained generally low](ap-mandate-higher-taking-passing-rates-low.md) — related
 - [Low-income US schools focus most on testing and have the fewest resources for interest-driven activities](low-income-schools-test-prep-crowds-out-interest-activities.md) — related
 - [The evidence base for offering a college-ready curriculum is rated low, with mixed findings on rigorous curricula and positive findings on AP course taking](college-ready-curriculum-low-evidence.md) — related
+- [Requiring all students to take college-prep ninth-grade courses did not increase dropout or reduce graduation, including for low-ability students](college-prep-all-no-dropout-increase.md) — related
+- [College enrollment and persistence did not improve after the science requirement, and college-going declined in later years](cps-science-requirement-no-college-gains.md) — related
+- [Taking English I instead of remedial English increased English credit earning with no adverse consequences on failure rates or test scores](english-enrollment-effect-increased-credit-no-adverse.md) — related

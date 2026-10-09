@@ -16,7 +16,7 @@ sources:
 # The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 4 studies (3 associational, 1 design), `q2` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—that operate in strong cooperation to enable or inhibit improvement in classroom practices. The article states that "when one of the essential supports is strengthened, it buttresses the development of the other supports," and that school leadership is theorized to be the catalyst that strengthens the other four. The authors adapt this framework, originally developed for elementary schools by Bryk et al. (2010), to early education settings with revised definitions such as "Effective Instructional Leaders."
@@ -40,6 +40,9 @@ The five essential supports framework specifies five school- or center-level org
 - [Schools Strong Three Plus Supports Ten Times More Likely Improve](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
 - [Sustained Weakness One Support Few Improve](../claims/sustained-weakness-one-support-few-improve.md) [+M]
 - [CPS schools are most likely to be strong in effective leaders, collaborative teachers, and ambitious instruction, but least likely to be strong in involved families](../claims/cps-individual-essentials-community-patterns.md) [+W]
+- [5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes](../claims/5essentials-measures-positively-associated-improvement.md) [+W] — attached 2026-10-09 from Hart et al. (2020), which proposed "Five Essential Supports framework: five organizational essentials that influence students' learning"; tests this page's relationship.
+- [Elementary attendance improved more in schools that were strong or growing on 5Essentials Survey measures, in both pooled and within-school models](../claims/elementary-attendance-improves-strong-5essentials-measures.md) [+W] — attached 2026-10-09 from Hart et al. (2020), which proposed "Five Essential Supports framework: five organizational essentials that influence students' learning".
+- [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](../claims/leadership-instruction-within-schools-program-quality.md) [+W] — attached 2026-10-09 from James Sebastian et al. (2012), which proposed "Framework of essential supports as mediating structure between leadership and student learning"; tests this page's relationship.
 
 ## Related Theories
 

@@ -48,3 +48,4 @@ Background statistic reported in Appendix A of the case study, cited as research
 - [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related
 - [Ninth-grade on-track ELL students in Chicago were up to 3.5 times more likely to graduate than off-track students](ell-ontrack-35-times-more-likely-graduate.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
+- [Students on track in ninth grade were four times more likely than off-track peers to graduate high school](ninth-grade-on-track-four-times-graduation.md) — related

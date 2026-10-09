@@ -47,3 +47,4 @@ Analysis of eleventh-grade ACT math scores (spring 2011 to spring 2016) across t
 - [In high schools, extensive-PD schools started with significantly lower rigor and teacher support but closed the gap by early implementation, while academic demand and clarity improved at rates comparable to limited-PD schools](hs-extensive-pd-closed-rigor-support-gap.md) — related
 - [Deep Support schools showed significantly larger test-score improvements but smaller improvements in academic demand, teacher support, and elementary grades than non-Deep-Support schools](deep-support-schools-mixed-effects.md) — related
 - [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
+- [Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground](good-grades-predict-act-gains.md) — related

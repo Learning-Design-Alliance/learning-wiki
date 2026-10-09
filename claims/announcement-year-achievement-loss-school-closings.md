@@ -46,3 +46,4 @@ Quasi-experimental comparison of displaced students ages eight and older in 18 c
 - [One year after leaving closing schools, displaced students' reading and math achievement returned to expected levels, with no additional negative or positive effects](achievement-returns-to-expected-after-closing.md) — related
 - [School closings showed no statistically significant long-term effects on displaced students' reading or math achievement two and three years later](no-long-term-achievement-effects-school-closings.md) — related
 - [Students from closed schools scored roughly one and a half months behind in reading and two months behind in math in the spring of the announcement year](closed-school-test-scores-lower-announcement-year.md) — related
+- [Test scores of students in both closed and welcoming schools were negatively affected, with closed-school students showing the largest negative effect](test-scores-negatively-affected-closed-and-welcoming-schools.md) — related

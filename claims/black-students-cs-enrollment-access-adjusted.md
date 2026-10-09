@@ -47,3 +47,4 @@ Analysis of CS enrollment by race/ethnicity with and without adjustment for scho
 - [Larger CPS high schools were consistently more likely to offer CS courses than smaller schools in both 2012 and 2018](school-size-cs-offering-gap.md) — related
 - [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md) — related
 - [Participating districts report large enrollment gaps in CS courses by income and gender](cs-enrollment-gaps-income-gender.md) — related
+- [Black students are less likely than white students to attend schools offering computer science classes](black-students-less-likely-cs-classes-2016-report.md) — related

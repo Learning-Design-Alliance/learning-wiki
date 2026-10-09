@@ -52,3 +52,5 @@ Descriptive trend analysis of immediate college enrollment for CPS graduates (Fi
 - [Two-year college retention of CPS first-year students continued to decline in 2020 (66.4% in 2019 vs. 61.9% in 2020)](cps-2020-two-year-retention-declined.md) — related
 - [Among the CPS class of 2022, 60.8% immediately enrolled in college; four-year enrollment recovered to pre-pandemic levels while two-year enrollment only began recovering in 2022](cps-immediate-college-enrollment-2022.md) — related
 - [Immediate college enrollment among 2021 CPS graduates was 58.6%, with four-year enrollment recovering to pre-pandemic levels while two-year enrollment fell to 15.6%](cps-immediate-enrollment-2021-patterns.md) — related
+- [CPS class of 2024 students reached near-record highs in high school graduation (84%) and immediate college enrollment (66%), on par with national averages](cps-2024-graduation-enrollment-near-record-highs.md) — related
+- [CPS immediate college enrollment rate outperforms the most recent national rate by 5 percentage points (66% vs. 61%)](cps-college-enrollment-beats-national-5-points.md) — related

@@ -43,6 +43,7 @@ This strategy distills the report's lessons for future cross-sector collaboratio
 - [Use cross-sector collaborative tasks (classroom observation, operations alignment, curriculum development) as vehicles for educator professional development](cross-sector-collaborative-tasks-for-educator-pd.md)
 - [Six formative practices for leveraging public-private partnerships to support family engagement](public-private-partnership-family-engagement-formative-practices.md)
 - [Facilitate cross-sector collaboration so charter and non-charter high schools share best practices on their respective strengths](cross-sector-charter-best-practice-sharing.md)
+- [District lessons for launching teacher-of-color support initiatives: safe space, clear goals, buy-in, and relationship time](district-lessons-teacher-of-color-initiatives.md)
 
 ## Examples
 -

@@ -54,3 +54,5 @@ The implementation study reports that "Colleges are adopting new technology plat
 - [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](epdp-pilot-gpa-retention-gains-not-sustained.md) — related
 - [Teachers used Forms for professional purposes: parent communication, professional learning, efficiency, and administrative tasks](forms-professional-uses-four-categories.md) — related
 - [A three-college consortium successfully implemented online competency-based programs as planned, meeting most implementation milestones and outcome targets](cbe-consortium-implemented-programs-as-planned.md) — related
+- [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
+- [Project leaders reported catalyzed changes in practice but concerns about rushed timelines and sustainability](team-lead-reflections-first-year.md) — related

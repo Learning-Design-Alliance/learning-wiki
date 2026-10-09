@@ -40,6 +40,7 @@ The report describes three routes education agencies used to strengthen their ca
 ## Related Strategies
 
 - [Build agency data capacity by supporting, training, and placing additional data staff](place-train-additional-data-staff.md)
+- [Use university–district research partnerships to build district evaluation capacity and train practitioner-scholars](university-district-partnership-practitioner-scholar-strategy.md)
 
 ## Examples
 -

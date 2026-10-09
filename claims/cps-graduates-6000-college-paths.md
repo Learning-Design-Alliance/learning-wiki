@@ -47,3 +47,7 @@ Observational analysis of the college trajectories of approximately 63,000 CPS g
 - [Immediate four-year enrollees were far more likely than immediate two-year enrollees to complete a four-year degree within six years (48 percent vs 7 percent)](four-year-immediate-enrollment-completion-advantage.md) — related
 - [Among 2014 CPS graduates who immediately enrolled in college, 46% completed a credential within six years, with large gaps by enrollment pathway](cps-college-completion-pathway-gaps.md) — related
 - [Stopping out was common and associated with non-completion: about 90 percent of CPS graduates who took a semester off did not finish a degree within six years](stopping-out-early-warning-non-completion.md) — related
+- [An estimated 31 million or more US students over the last 20 years enrolled in but did not complete post-secondary education](31-million-enrolled-not-completed.md) — related
+- [Four-year enrollees had stronger academic qualifications than two-year enrollees and non-enrollees, yet many non-enrollees and two-year entrants had credentials sufficient for four-year access](academic-qualifications-vary-by-enrollment-status.md) — related
+- [Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value](continuous-enrollment-semesters-completion-gradient.md) — related
+- [A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate](cps-2018-record-college-graduates.md) — related

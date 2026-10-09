@@ -17,7 +17,7 @@ sources:
 # NWEA MAP Growth assessment and longitudinal achievement database
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 MAP Growth is a computer adaptive test that measures achievement status and growth over time, vertically scaled to allow estimation of gains across time and aligned to state content standards, with scores reported on the RIT (Rasch unIT) scale. The study drew on the NWEA anonymized longitudinal student achievement database covering approximately 2.7 million grade 3-8 students in 17,000 public schools across the 2018-19, 2019-20, and 2020-21 school years, with percentile ranks computed against the 2020 NWEA MAP Growth norms from a pre-pandemic 2015-16 through 2017-18 norming sample.
@@ -35,6 +35,10 @@ MAP Growth is a computer adaptive test that measures achievement status and grow
 
 ### Target Learning Goals
 - Measuring student achievement status and growth over time in reading and mathematics
+
+## Claims
+
+- [Large-scale longitudinal study measures middle school academic trajectories relative to college readiness benchmarks for more than 360,000 US students](../claims/college-readiness-trajectories-360k-students.md) [+W] — attached 2026-10-09 from Angela Johnson et al. (2021), which proposed "College readiness benchmark trajectory analysis of national MAP-based longitudinal data".
 
 ## Related Elements
 

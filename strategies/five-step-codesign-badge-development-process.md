@@ -42,6 +42,7 @@ The report details a repeatable recipe for co-designing evaluation criteria: "Di
 - [Five recommendations for higher education systems elevating student and faculty voice in edtech evaluation](recommendations-learner-voice-edtech-evaluation-systems.md)
 - [Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results](rapid-cycle-edtech-pilot-best-practices.md)
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
+- [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 
 ## Examples
 -

@@ -69,6 +69,7 @@ Engagement that is *structured* (planned, role-assigned, scheduled) and *sustain
 - [Use interactive homework assignments that require students to discuss class learning with someone at home](interactive-homework-home-discussion-assignments.md)
 - [Use the School Improvement Plan and a strategic orientation to attack program incoherence](strategic-orientation-attack-incoherence-strategy.md)
 - [Monthly Action Team meetings with shared leadership and activity-quality evaluation](nnps-atp-monthly-meetings-evaluation.md)
+- [Use score-linked college exploration alongside goal setting and parent conferences to build post-secondary plans](college-explorer-with-goal-setting-and-parent-conferences.md)
 
 ## Examples
 - **[National Network of Partnership Schools](https://nnps.jhucsos.com)** (Johns Hopkins University) — Epstein's framework in practice; member schools form action teams, write annual partnership plans, and evaluate six types of involvement.

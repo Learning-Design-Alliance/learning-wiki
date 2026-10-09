@@ -46,3 +46,4 @@ The statewide Florida study reports that "dual enrollment and Advanced Placement
 - [Dual enrollment classes taken exclusively on the high school campus show no statistically significant gains in college outcomes](high-school-campus-dual-enrollment-no-significant-gains.md) — reports the opposite
 - [Passing the college algebra placement test near the cut-off and enrolling in dual enrollment college algebra was associated with a 16 percent higher likelihood of going to college](dual-enrollment-college-algebra-16-percent-college-enrollment.md) — related
 - [Dual enrollment programs have positive effects on college access and enrollment, with an average improvement index of +15 percentile points](dual-enrollment-positive-college-access-enrollment.md) — a broader claim this one bears on
+- [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related

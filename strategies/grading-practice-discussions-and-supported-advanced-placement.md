@@ -37,7 +37,8 @@ The report's implications section recommends that CPS renew its professional gra
 - Equitable math grade outcomes and access to advanced coursework
 
 ## Related Strategies
-- 
+
+- [Three strategies for closing advanced coursework participation gaps and retaining students](three-strategies-close-advanced-coursework-gaps-retention.md)
 
 ## Examples
 -

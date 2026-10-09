@@ -42,6 +42,8 @@ The brief recommends that school leaders "apply a targeted universalist approach
 - [Dig into item-level survey responses: examine how students and teachers answer specific questions as a starting point for learning and responding](dig-into-item-level-survey-responses.md)
 - [Select one essential support area to improve—chosen for community interest, need, or buy-in—and continue working on it, since improvement in any essential positively impacts student success](sustained-focus-on-one-essential-support.md)
 - [Use 5Essentials survey data to identify where to improve students' school experiences and teachers' relationships with parents to support attendance](use-5essentials-data-to-target-attendance-supports.md)
+- [Identify cross-subgroup themes and combine broad access-expanding policies with targeted subgroup-specific interventions](combine-access-policies-with-targeted-subgroup-interventions.md)
+- [Disaggregate attainment data by student subgroup to locate barriers and target supports](disaggregate-attainment-data-by-subgroup.md)
 
 ## Examples
 -

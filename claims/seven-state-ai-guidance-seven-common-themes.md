@@ -47,3 +47,4 @@ Document review of guidance from California, North Carolina, Ohio, Oregon, Virgi
 - [State AI guidance describes risks but risk-management work is at an early stage, with some documents possibly too upbeat given school readiness](state-ai-guidance-risks-early-stage.md) — related
 - [State guidance documents describe opportunities for AI in education with encouraging tones that recommend safe exploration](state-ai-guidance-opportunities-safe-exploration.md) — related
 - [The institution maintained privacy primarily through role-based access limiting data by user role and through technological security protocols such as single sign-on and encryption](role-based-access-and-security-privacy-methods.md) — related
+- [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md) — related

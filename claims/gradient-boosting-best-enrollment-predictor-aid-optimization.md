@@ -47,3 +47,4 @@ Comparison of six optimized classifiers on 7,564 Fall 2020 FAFSA-filing first-ti
 - [CatBoost achieved the best classification performance among tested algorithms for predicting course completion risk (F-measure .77, accuracy 78%, AUC .87)](catboost-best-performing-risk-classifier.md) — related
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
 - [Applicants' enrollment decisions depend most on 'other financing sources' (typically loans), with feature importance 0.712, far exceeding federal and institutional aid features](other-financing-sources-dominant-enrollment-feature.md) — related
+- [Students not on track for college enrollment and persistence can be classified with about 90 percent accuracy using a small set of predictors](college-offtrack-classified-90-percent-accuracy.md) — related

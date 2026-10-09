@@ -68,3 +68,7 @@ Disaggregated PAI calculation by race/ethnicity and gender (Table 1, Figure 9) u
 - [The 2021 Post-secondary Attainment Index for CPS ninth-graders is 27.0%, essentially unchanged from 2020](cps-2021-pai-27-percent.md) — related
 - [The 2021 PAI ranges widely by race/ethnicity and gender, from 11.6% for Black young men to 67.3% for Asian/Pacific Islander young women, and no group reaches the 75% aspiration level](cps-pai-race-gender-disparities.md) — related
 - [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
+- [An estimated 31 million or more US students over the last 20 years enrolled in but did not complete post-secondary education](31-million-enrolled-not-completed.md) — related
+- [College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened](college-aspirations-doubled-readiness-gaps-persist.md) — related
+- [The 2023 Post-secondary Attainment Index for CPS ninth-graders is 31%, up 0.4 percentage points from 2022](cps-2023-pai-31-percent.md) — related
+- [Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation](only-41-percent-cps-aspiring-graduates-enroll-four-year-college.md) — related

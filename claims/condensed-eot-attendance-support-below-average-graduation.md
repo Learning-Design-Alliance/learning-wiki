@@ -51,3 +51,5 @@ Observational analysis of the 2010-11 cohort; the Attendance Support sample for 
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Missing five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points](ninth-grade-five-absences-graduation-drop.md) — related
 - [Students in higher CPS EOT categories had progressively higher rates of high school graduation and college enrollment](cps-eot-five-category-progressive-outcomes.md) — related
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — related
+- [Elementary students with 90%+ attendance and GPA 3.0+ in grades 3-8 were more likely to graduate high school with a 3.0+ GPA than peers in other EOT categories](elementary-on-track-categories-predict-graduation.md) — related

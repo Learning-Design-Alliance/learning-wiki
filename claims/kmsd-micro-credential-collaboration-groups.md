@@ -48,3 +48,4 @@ Quote from Assistant Superintendent Theresa Ewald in the KMSD case study. KMSD c
 - [KMSD tied micro-credential attainment to permanent base-salary increases, and over 80% of its teachers earned micro-credentials](kmsd-salary-increase-micro-credentials.md) — related
 - [In Kettle Moraine School District, about 80 percent of teachers earned at least one pre-approved micro-credential over three years, raising base salaries by $100 to $600](kettle-moraine-salary-linked-micro-credential-adoption.md) — related
 - [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
+- [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — reports the opposite

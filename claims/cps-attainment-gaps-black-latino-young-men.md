@@ -48,3 +48,5 @@ Descriptive subgroup analysis from the 2018 snapshot comparing DAI projections f
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree](cps-college-completion-race-gender-gaps.md) — related
+- [College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened](college-aspirations-doubled-readiness-gaps-persist.md) — related
+- [Four- versus six-year completion gaps of 15–25 percentage points appeared across academic and demographic groups, with Black young men at 13% four-year and 31% six-year completion](student-characteristics-completion-gaps.md) — related

@@ -46,3 +46,4 @@ Comparative analysis of freshman on-track rates (five credits earned and no more
 - [Outcome differences between CHSRI new-start and redesigned schools were not statistically significant after accounting for incoming student differences](chsri-new-start-redesigned-no-significant-outcome-differences.md) — related
 - [Freshmen in the three case-study schools had higher on-track rates and/or GPAs than similar students at similar schools, despite entering with below-average achievement](chsri-freshmen-better-than-predicted.md) — related
 - [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related
+- [CHSRI students did not score differently on the PSAE in reading or math, and freshmen were not significantly more likely to be on-track](chsri-no-achievement-ontrack-difference.md) — related

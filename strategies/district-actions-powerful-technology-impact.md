@@ -44,6 +44,7 @@ The report closes with four recommended actions for districts investing in power
 - [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
 - [Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice](nsi-implementation-support-strategies.md)
+- [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
 
 ## Examples
 -

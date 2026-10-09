@@ -45,3 +45,4 @@ Descriptive plots of mean self-efficacy, math, and reading scores by year and EL
 ## Related Claims
 - [ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth](ell-lower-start-faster-reading-growth-only.md) — related
 - [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](self-efficacy-intercept-predicts-achievement-growth-mediation.md) — related
+- [Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset](sel-trajectory-trends-middle-school.md) — related

@@ -45,6 +45,7 @@ Beyond integrated instruction, I-BEST provides a bundle of non-instructional sup
 - [Mobilize community colleges to address low-income students' basic needs and financial stability to support completion](college-mobilization-basic-needs-financial-stability.md)
 - [Provide navigator support through enrollment and financial aid, plus continued support after enrollment](navigator-support-enrollment-financial-aid-adults.md)
 - [Combine full-time occupational enrollment with intrusive advising, financial support, and basic skills instruction](project-quest-support-components-strategy.md)
+- [Colleges can adopt evidence-based support practices—wrap-around advising, proactive advising, non-tuition financial support, co-requisite courses, early alert systems, and disaggregated data—to improve completion](evidence-based-college-completion-practices.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Sensitivity analysis of achievement gap estimates with and without adjustment fo
 - [Female kindergarteners outscore males in math and reading at entry; the reading gap was stable while the small math gap narrowed slightly](gender-gaps-at-kindergarten-entry-2010-2017.md) — related
 - [Boys are increasingly overrepresented among high-achieving elementary math students, with male-to-female ratios rising across grades](male-overrepresentation-high-achievers-rises-elementary.md) — related
 - [Gender differences in elementary math vary substantially across subdomains, with early female advantages in Geometry reversing by Grades 3-4](subdomain-specific-gender-patterns-elementary-math.md) — related
+- [The article investigates whether achievement gap estimates are sensitive to test motivation, framing the question as achievement gap versus engagement gap](gap-estimates-sensitive-to-test-motivation-investigation.md) — a broader claim this one bears on

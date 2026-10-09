@@ -67,3 +67,4 @@ Table 2 takeaway disaggregating 2007 and 2019 Freshman OnTrack rates by race/eth
 - [CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017](cps-freshman-ontrack-rose-25-points.md) — related
 - [CPS Freshman OnTrack rates rose 24 percentage points, from 64 percent for the Class of 2006 to 88 percent for the Class of 2019](cps-freshman-ontrack-rose-24-points.md) — related
 - [The four-year CPS high school graduation rate rose from 62.3 percent for the 2008 cohort to an all-time high of 83.2 percent for the 2020 cohort](cps-graduation-rate-62-to-83-2020.md) — related
+- [Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015](cps-on-track-rate-61-to-85-percent-2006-2015.md) — related

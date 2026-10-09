@@ -43,3 +43,5 @@ The review reports, citing Watson and Rainie (2025), a late-2024 survey finding 
 ## Related Claims
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — reports the opposite
+- [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — possibly the same claim (merge candidate)

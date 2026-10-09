@@ -82,6 +82,7 @@ Argumentation improves conceptual understanding and scientific reasoning because
 
 **[WISE (Web-Based Inquiry Science Environment)](https://wise.berkeley.edu)** — Berkeley's free inquiry projects embed critique-and-revision steps in which students justify explanations against collected evidence.
 - [CRITO: a five-step method for critically assessing one's own arguments (Conclusion, Reasons, Inference, Truth, Objections)](../strategies/crito-five-step-argument-assessment.md)
+- [Teach prompting as a five-part skill (role, task, audience, constraints, justification) with a structured ask-generate-evaluate cycle](../strategies/five-part-prompt-framework-with-evaluation-cycle.md)
 
 ## Key Sources
 - Kuhn, D. (2010). Teaching and learning science as argument. *Science Education, 94*(5), 810–824. [doi:10.1002/sce.20395](https://doi.org/10.1002/sce.20395)

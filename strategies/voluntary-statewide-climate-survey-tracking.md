@@ -40,6 +40,7 @@ State education agencies can administer a voluntary school climate survey to any
 ## Related Strategies
 
 - [Revise the safe and respectful school climate domain of the elementary school student survey to improve its internal consistency reliability](revise-safe-respectful-domain-for-reliability.md)
+- [Add two or three college aspiration and expectation questions to existing school climate surveys to flag students needing readiness supports](add-aspiration-questions-to-climate-surveys.md)
 
 ## Examples
 -

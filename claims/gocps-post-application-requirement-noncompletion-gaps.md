@@ -46,3 +46,4 @@ Analysis of post-application requirement completion (auditions, interviews, info
 - [Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation](gocps-enrollment-stable-after-implementation.md) — related
 - [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related
 - [Black students and students from the lowest-SES neighborhoods ranked more programs but were less likely to rank a high-accountability school first](gocps-subgroup-ranking-and-accountability-differences.md) — related
+- [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related

@@ -47,3 +47,4 @@ The article's framing statement of the research gap, offered as an assertion abo
 - [Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy](math-response-times-motivation-self-efficacy.md) — related
 - [Time spent on very difficult math test items is highly correlated with students' academic motivation and self-efficacy](time-on-difficult-items-correlates-motivation-self-efficacy.md) — related
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](response-time-metadata-sel-promise-and-limitations.md) — related
+- [Students' self-assessments of social well-being and work habits provide valuable information about their development](student-self-assessments-valuable-development-information.md) — related

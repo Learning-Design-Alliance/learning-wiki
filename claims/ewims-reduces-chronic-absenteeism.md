@@ -53,3 +53,5 @@ A randomized evaluation by Faria et al. (2017) assigned 73 high schools in three
 - [Attendance rate was a strong positive predictor of both math and reading growth across all grades](attendance-strong-predictor-growth-all-grades.md) — related
 - [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related
+- [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](early-warning-systems-norms-routines-support-recovery.md) — a broader claim this one bears on
+- [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related

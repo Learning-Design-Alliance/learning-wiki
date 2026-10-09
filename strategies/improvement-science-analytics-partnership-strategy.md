@@ -45,6 +45,7 @@ The report recommends that districts, technology providers, and researchers form
 - [During a study, researchers should visit regularly, give back to the school community, minimize classroom disruption, and share initial data for feedback](during-study-regular-visits-giving-back.md)
 - [Deliberately bridge student experience data work across tools, initiatives, and partner organizations](bridge-student-experience-data-across-initiatives.md)
 - [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
+- [Districts should share sufficient subgroup data with assessment providers to enable multi-subgroup disaggregation](share-subgroup-data-for-disaggregated-reports.md)
 
 ## Examples
 -

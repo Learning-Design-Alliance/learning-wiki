@@ -50,3 +50,4 @@ Qualitative fieldwork during the 2004-05 school year in seven CHSRI schools, inc
 - [Professional development from CHSRI and CPS is valued by some small-school staff but viewed by others as irrelevant, hard to schedule, and poorly connected to school needs](chsri-professional-development-mixed-reception.md) — related
 - [Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community](teacher-collaboration-time-scarce-contract.md) — related
 - [Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change](professional-learning-most-important-support.md) — related
+- [Teachers in CHSRI small schools report significantly more supportive contexts for reform than similar teachers in other Chicago high schools](chsri-teachers-report-supportive-reform-context.md) — related

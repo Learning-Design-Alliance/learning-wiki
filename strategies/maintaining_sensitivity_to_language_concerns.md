@@ -59,9 +59,11 @@ Language-sensitive instruction reduces the extraneous cognitive load of processi
 6. Normalize multilingualism publicly — display multilingual work, invite home-language use for brainstorming — so support never reads as remediation.
 
 ## Related Strategies
+
 - [Accessible Syntax](accessible_syntax.md) — the language-level counterpart: controlling sentence structure so content remains accessible
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — home-language knowledge is prior knowledge; inviting it strengthens activation
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — complements language sensitivity by auditing classroom materials for linguistic bias
+- [Select dual enrollment courses without English language proficiency requirements or prerequisites to make Early College linguistically accessible](ec-courses-without-english-proficiency-prerequisites.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the site of most language-load decisions; adapted or bilingual texts live here

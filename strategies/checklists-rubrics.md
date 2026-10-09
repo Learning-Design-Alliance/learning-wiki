@@ -66,6 +66,7 @@ Rubrics and checklists improve performance primarily by clarifying expectations 
 - [Peer Feedback](../elements/peer-feedback.md) — shared criteria make peer feedback specific and actionable
 - [Formative Assessment](formative-assessment.md) — criteria-based self- and peer-assessment is a core formative mechanism
 - [Provide sentence evaluation criteria (clarity, intended audience) and model revision against them](sentence-evaluation-criteria-clarity-audience-revision.md)
+- [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling rubric application on sample work

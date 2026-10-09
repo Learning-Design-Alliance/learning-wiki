@@ -46,3 +46,4 @@ Revalidation psychometric analysis of Cultivate survey responses from 504 school
 - [In the spring 2015 pilot, 19 of 27 teacher-survey measures met the 0.80 reliability threshold and all but one met 0.70; the Early Childhood Discipline measure was removed](teacher-survey-pilot-reliability-19-of-27.md) — related
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](early-ed-essentials-rasch-refined-measures.md) — related
 - [The Early Education Essentials is reliable across multiple ECE settings](early-education-essentials-reliable-multiple-settings.md) — related
+- [Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance](recalibrated-5essentials-measures-reliability.md) — related

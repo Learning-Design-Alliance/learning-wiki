@@ -49,3 +49,4 @@ Regression discontinuity estimate of course-taking outcomes in the year after th
 - [Students who received a personalized message about their potential to succeed in AP coursework were 49 percentage points more likely to participate in AP classes than peers who did not receive the message](personalized-ap-message-increases-participation-49-points.md) — related
 - [Students who received the personalized AP message were more likely to take an AP exam and passed a higher number of exams, making them eligible for college credit](personalized-ap-message-increases-exam-taking-and-passing.md) — related
 - [Students who were not surveyed for the study did not respond to the ability signal](non-surveyed-students-did-not-respond-to-signal.md) — related
+- [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related

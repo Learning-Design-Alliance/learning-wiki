@@ -48,6 +48,7 @@ The report defines feedback loops, citing Baker, Weisgrau, and Bristal Philyaw (
 ## Examples
 
 - [Identify feedback loops in your organization by sourcing, evaluating, and validating case studies](../strategies/identify-feedback-loops-process.md)
+- [Integrate co-design and continuous feedback loops into AI evaluation processes](../strategies/co-design-feedback-loops-ai-evaluation.md)
 
 ## Key Sources
 - Pautz Stephenson, S., Banks, R., & Pakhira D. (2022, December). Practitioners at the center: Catalyzing research on problems of practice in realistic settings. Digital Promise. https://doi.org/10.51388/20.500.12265/164
