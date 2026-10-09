@@ -56,8 +56,10 @@ CHRL extends culturally relevant pedagogy [Ladson-Billings, 1995] by making the 
 5. Design an [Application](../elements/application.md) task in which students produce writing or action directed at an authentic audience and purpose
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — surfacing students' cultural funds of knowledge is the entry point for responsive instruction
 - [Community-Based Learning](../principles/community-based-learning.md) — connects literacy tasks to students' actual communities and histories
+- [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 
 ## Examples
 - **Hill Pedagogy / Black literary societies model** — Muhammad's own curricular examples use 19th-century Black literary society reading lists and questions as models for contemporary units that pair canonical skills work with identity and criticality goals (Muhammad, 2020)

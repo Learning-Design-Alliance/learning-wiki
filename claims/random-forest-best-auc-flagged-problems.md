@@ -52,3 +52,4 @@ Model comparison on a 20% scenario-held-out test set, with 3-fold cross-validati
 - [Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts](awl-count-word-count-feature-importance-engagement.md) — related
 - [In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom](word-count-top-traditional-formulas-unimportant.md) — related
 - [Three word embedding methods and three classifiers were introduced to predict item quality for accessible math assessments](word-embedding-classifiers-predict-item-quality-vi.md) — a broader claim this one bears on
+- [Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021](nlp-la-algorithm-adoption-random-forest-to-deep-learning.md) — related

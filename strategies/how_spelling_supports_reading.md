@@ -59,9 +59,11 @@ Spelling and reading rely on shared orthographic representations, so systematic 
 6. **Distribute review** — revisit earlier patterns cumulatively rather than testing once and moving on.
 
 ## Related Strategies
+
 - [Phonics Instruction](phonics-instruction.md) — decoding counterpart; spelling instruction reinforces the same grapheme–phoneme mappings in reverse
 - [Morphological Analysis](morphological-analysis.md) — extends word study beyond phonology to meaning units
 - [Dictation and Encoding Practice](dictation-and-encoding-practice.md) — the retrieval-based practice format that builds orthographic memory
+- [Embed spelling (encoding) practice of taught words in decoding lessons](embed-spelling-encoding-in-decoding-lessons.md)
 
 ## Examples
 - **Words Their Way** (Bear, Invernizzi, Templeton, & Johnston) — developmental word study with pattern sorts; widely used in K–8 classrooms.

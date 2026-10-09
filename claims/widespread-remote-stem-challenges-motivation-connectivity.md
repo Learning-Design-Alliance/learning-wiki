@@ -71,3 +71,4 @@ Same survey's technology-access items; 96% of students used home internet access
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
+- [Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%)](problems-attributed-unplanned-move-not-online-learning.md) — related

@@ -41,6 +41,7 @@ This recommendation advises districts to embed tutoring within the regular schoo
 - [Consider both in-person and virtual tutoring options when selecting a math tutoring program](consider-in-person-and-virtual-tutoring-options.md)
 - [Embed supplemental one-on-one tutoring within the school day using existing school support staff](embed-tutoring-in-school-day-with-existing-staff.md)
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
+- [Exercise flexibility in timing, frequency, and tutor choice when implementing a highly structured tutoring program, and consider preservice teachers as tutors](flexible-implementation-structured-tutoring-preservice-tutors.md)
 
 ## Examples
 -

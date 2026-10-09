@@ -48,7 +48,8 @@ Balanced Leadership® is a professional development program for current and aspi
 - [STeLLA® professional development program](stella-professional-development-program.md)
 
 ## Examples
--
+
+- [Build school leaders' instructional leadership through five PLC sessions on school-wide data systems](../strategies/leader-plc-school-wide-data-systems.md)
 
 ## Key Sources
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2020). Balanced Leadership®. https://whatworks.ed.gov

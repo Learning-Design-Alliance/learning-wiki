@@ -64,6 +64,7 @@ Inclusive curriculum works through relevance and belonging: when learners see th
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the elicitation routine that surfaces the background knowledge an inclusive curriculum builds on
 - [Address Biases in the Use of Language and Symbols](../strategies/address_biases_in_the_use_of_language_and_symbols.md) — the language-level complement to content-level revision
 - [Incorporate culturally responsive strategies into adult immigrant instruction](culturally-responsive-strategies-adult-immigrant-instruction.md)
+- [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the primary vehicle for diversifying whose scholarship and voices students encounter

@@ -44,3 +44,4 @@ The WWC's review of the available literature (publicly available through March 2
 
 ## Related Claims
 - [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](ican-learn-thin-evidence-base-one-qualifying-study.md) — related
+- [The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations](algebra-guide-evidence-base-15-wwc-studies.md) — related

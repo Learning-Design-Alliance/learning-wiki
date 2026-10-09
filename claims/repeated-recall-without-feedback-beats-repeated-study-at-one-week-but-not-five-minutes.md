@@ -86,3 +86,4 @@ The chapter describes Hanawalt's (1937) experiment with geometric line drawings 
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Retrieval Practice Improves Long Term Retention](retrieval-practice-improves-long-term-retention.md) — related
 - [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — a narrower finding that bears on this claim
+- [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related

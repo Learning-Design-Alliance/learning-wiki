@@ -64,6 +64,7 @@ Badging works when it functions as a competency signal, not a participation trop
 - [Gamification](gamification.md) — badges are one gamification mechanic; rigor of assessment is the key differentiator
 - [Mastery Learning](mastery-learning.md) — badges awarded only on demonstrated mastery enact mastery-based advancement
 - [Reward service in high-poverty Title I schools with a salary supplement and portable credential for recognized effective teachers](atc-title-i-salary-supplement-strategy.md)
+- [Badge-based competency coaching in which teachers design customized mastery paths and earn badges for demonstrated evidence of practice](e2l-badge-based-competency-coaching.md)
 
 ## Examples
 - **[Mozilla Open Badges](https://openbadges.org)** — open technical standard for verifiable digital badges with issuer, criteria, and evidence metadata; the de facto interoperability standard.

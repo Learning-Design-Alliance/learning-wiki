@@ -58,8 +58,10 @@ Building a strategy repertoire shifts instruction from single-procedure mastery 
 5. [Assess Performance](../elements/assess-performance.md) on strategy selection and justification, not only on answers
 
 ## Related Strategies
+
 - [Use Worked Examples](use_worked_examples.md) — worked examples are the vehicle for presenting alternative methods for comparison
 - [Think-Aloud Modeling](think-aloud-modeling.md) — makes the reasoning behind strategy choice visible
+- [Teach students to intentionally choose from alternative algebraic strategies when solving problems, after they have procedural fluency](intentional-alternative-strategy-choice-sequenced-after-fluency.md)
 
 ## Related Elements
 - [Comparing Cases](../elements/comparing-cases.md) — the core mechanism for building the repertoire

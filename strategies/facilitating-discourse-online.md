@@ -63,6 +63,7 @@ Effective facilitation converts discussion from an assessment checkbox into a si
 - [Debate](debate.md) — a structured discourse format where facilitation centers on managing adversarial argumentation
 - [Flipped Classroom](flipped-classroom.md) — frees synchronous online time for facilitated discussion rather than content delivery
 - [Require regular online instructor participation in asynchronous discussions, which may mitigate the lack of face-to-face interaction](regular-instructor-asynchronous-participation.md)
+- [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
 
 ## Examples
 - **Discussion protocols in online graduate courses** (e.g., the Community of Inquiry research tradition at Athabasca University) use instructor weaving posts every 2–3 days to sustain cognitive presence across multi-week threads.

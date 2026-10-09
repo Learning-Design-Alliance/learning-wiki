@@ -70,3 +70,4 @@ Quasi-experimental study during the 2021–2022 school year in Ohio comparing ai
 - [Literacy First students scored higher on STAAR Grade 3 Reading in a follow-up analysis (effect size +0.21)](literacy-first-grade3-staar-follow-up.md) — related
 - [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related
 - [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](literacy-packs-dibels-es-039-quasi-experiment.md) — related
+- [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related

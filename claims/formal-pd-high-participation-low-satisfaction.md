@@ -48,3 +48,4 @@ Nationally representative online survey of 856 U.S. K-12 teachers asked about pa
 - [Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less](minimal-formal-training-sdm-staff.md) — related
 - [In a National Staff Development Council survey, over 90 percent of teachers reported recent PD but only 59 percent found content-related PD useful](nsdc-pd-usefulness-survey.md) — related
 - [Substantial professional development (an average of 49 hours) is associated with a boost to student achievement of about 21 percentile points, per a report the paper cites](pd-49-hours-21-percentile-points.md) — related
+- [Only 36 percent of students had teachers reporting at least 8 hours of behavior-management professional development over three years, versus 81 percent for reading and language arts](pd-behavior-management-lags-reading-instruction.md) — related

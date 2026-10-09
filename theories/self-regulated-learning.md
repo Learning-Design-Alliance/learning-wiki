@@ -63,6 +63,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Pintrich's four-category model of self-regulated learning strategies](pintrich-four-category-srl-strategy-model.md)
 - [Three-phase SRL scaffolding framework (planning, task execution, post-task reflection) operationalized across iterative design cycles](three-phase-srl-chatbot-scaffolding-framework.md)
 - [Learning readiness as an operationalization of self-regulated learning (SRL)](learning-readiness-srl-operationalization.md)
+- [Self-regulated learning as the priority outcome of remote independent work](self-regulated-learning-homework-priority.md)
 
 ## Examples
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)

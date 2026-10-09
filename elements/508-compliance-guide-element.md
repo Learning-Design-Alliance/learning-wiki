@@ -43,6 +43,7 @@ A published guide from the U.S. Department of Education's Institute of Education
 ## Examples
 
 - [Apply Section 508 accessibility tips and tools when preparing presentations, Excel files, websites, and multimedia products](../strategies/508-compliance-accessibility-tips-for-education-materials.md)
+- [Dissemination planning and accurate, accessible data visualization](../strategies/dissemination-plan-and-visualization-tips.md)
 
 ## Key Sources
 - Joanne Pfleiderer. (2014). 508 Compliance: Preparing Presentations, Excel Files, Websites, and Multimedia Products. Washington, DC: U.S. Department of Education, Institute of Education Sciences. https://www.mathematica.org/publications/preparing-presentations-excel-files-websites-and-multimedia-products

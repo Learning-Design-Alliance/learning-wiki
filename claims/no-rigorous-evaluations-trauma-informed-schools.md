@@ -50,3 +50,4 @@ Systematic review searching nine electronic databases, registers, gray literatur
 - [The evidence base for Accelerated Reader with adolescent learners is thin: only 2 of 318 reviewed studies met WWC standards](accelerated-reader-thin-evidence-base-318-studies.md) — related
 - [Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution](arts-sel-evidence-base-rigor-gap.md) — related
 - [Evidence and evaluation standards for educational AI are immature, widening the gap between product release pace and rigorous evaluation](edtech-ai-evidence-standards-immature.md) — related
+- [The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations](algebra-guide-evidence-base-15-wwc-studies.md) — related

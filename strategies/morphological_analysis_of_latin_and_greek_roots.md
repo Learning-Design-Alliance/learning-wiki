@@ -65,6 +65,7 @@ Morphological awareness is one of the strongest predictors of vocabulary growth 
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — morphological analysis works by connecting unfamiliar words to known words sharing a root
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — a complementary memory strategy for anchoring root meanings, though morphological analysis targets generative understanding rather than rote recall
 - [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
+- [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 
 ## Examples
 - **Greek and Latin combining forms in science:** teaching *bio-*, *-logy*, *-itis*, and *hypo-/hyper-* lets students parse *hypoglycemia* and *biodiversity* without prior exposure — standard practice in disciplinary literacy curricula such as [Word Generation](https://wordgeneration.org), which embeds morphological analysis in weekly academic vocabulary routines.

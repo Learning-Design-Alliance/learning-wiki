@@ -64,6 +64,8 @@ Fluency practice works because oral reading with feedback provides high-density 
 - [Paired Reading](paired_reading.md) — the partner-delivered variant with the strongest evidence base for peer implementation
 - [Vocabulary Pre-Teaching](vocabulary_pre-teaching.md) — removing word-level barriers before fluency work
 - [Pass-timing routine with four mastery criteria and repeated practice until criteria are met](read-naturally-pass-timing-criteria-routine.md)
+- [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
+- [Reread the same passage 3–4 times, each time with a different purpose](purposeful-repeated-reading-three-four-times.md)
 
 ## Examples
 - **Read Naturally** (https://www.readnaturally.com) — combines audio modeling, repeated reading, and progress graphing; widely studied in Tier 2 interventions.

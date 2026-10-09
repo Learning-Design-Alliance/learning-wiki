@@ -41,6 +41,7 @@ The chapter recommends that schools build systems for monitoring student data so
 - [Focus school improvement efforts on the ninth-grade transition using real-time data to monitor and support at-risk freshmen](ninth-grade-on-track-data-strategy.md)
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](early-indicators-online-system-process-data.md)
+- [Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions](dropout-data-systems-diagnosis-strategy.md)
 
 ## Examples
 -

@@ -67,3 +67,4 @@ MathDial results of the same comparison: DKT-Sem wins "by a smaller margin than 
 - [In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels.](llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates.md) — related
 - [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) — related
 - [Standardized benchmarks are often too generic to reflect the needs of innovative educational applications](standardized-benchmarks-too-generic-for-education.md) — related
+- [Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing](description-based-representation-beats-id-based-llm-kt.md) — related

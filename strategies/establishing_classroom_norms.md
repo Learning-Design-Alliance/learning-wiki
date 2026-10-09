@@ -59,8 +59,10 @@ Norms function as procedural scaffolding: they reduce the cognitive and social u
 6. **Revisit and revise** at natural transitions, retiring norms that no longer serve the work.
 
 ## Related Strategies
+
 - [Active listening](active-listening.md) — a specific norm set for discussion-based formats
 - [Check-ins](../principles/check-ins.md) — a routine that rehearses participation norms in low-stakes form
+- [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)
 
 ## Examples
 - **Intensive Summer institutes (e.g., HILT/Harvard Bok Center teaching consultations)** recommend posting 3–5 discussion norms and rehearsing them with a first-day pair-share before the first graded discussion.

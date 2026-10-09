@@ -47,6 +47,7 @@ The program was co-designed by teachers, families, curricula and media developer
 ## Examples
 
 - [Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions](../strategies/participatory-iterative-co-design-ct.md)
+- [Early Science with Nico & Nor preschool science program for home and school](../elements/nico-nor-preschool-science-program-component.md)
 
 ## Key Sources
 - Early Science with Nico and Nor®. (2022). WGBH Educational Foundation. https://www.wgbh.org

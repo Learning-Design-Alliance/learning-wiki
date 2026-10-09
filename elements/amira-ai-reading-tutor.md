@@ -43,7 +43,8 @@ Amira is an AI tutor that uses 'advanced speech recognition and natural language
 - [Respondents anticipated using LLMs most often (23%), followed by NLP (17%), predictive AI (14%), chatbots (13%), and ASR (10%)](../claims/rfi-technology-types-llm-most-common.md) [~W]
 
 ## Related Elements
-- 
+
+- [Amira — an AI-based personal reading tutor that assesses, tutors, and reports on oral reading](amira-ai-reading-tutor-element.md)
 
 ## Examples
 -

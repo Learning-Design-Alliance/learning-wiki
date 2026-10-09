@@ -65,6 +65,7 @@ Teacher–student relationship quality is one of the most consistent correlates 
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — a time-efficient structure combining relationship and feedback
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — knowing students' backgrounds enables instruction that connects to them
 - [Teachers should learn about students' lives and commitments outside school and build relationships, which students say increases respect, effort, and engagement](teachers-learn-students-outside-commitments.md)
+- [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
 
 ## Examples
 - **2×10 relationship strategy** — a teacher spends two minutes of non-academic conversation with a targeted student for ten consecutive days; widely used in positive behavior support implementations.

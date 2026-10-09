@@ -54,3 +54,4 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Fewer than five percent of submissions described AI as opening new opportunities for inclusivity, a gap the report highlights](rfi-inclusivity-under-five-percent-gap.md) — related
 - [Sociology-of-science concerns: data-reliance in education risks tunnel-vision, unhealthy reductionism, and inequitable power dynamics](sociology-concerns-datafication-reductionism-power.md) — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
+- [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](gpt-detectors-biased-against-nonnative-english-writers.md) — related

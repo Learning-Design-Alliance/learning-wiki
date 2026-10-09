@@ -58,10 +58,12 @@ Physical activity before or between cognitive tasks measurably improves attentio
 5. After a few weeks, review with the learner: track focus and completion, and adjust block length — some learners work best at 15 minutes, others at 30.
 
 ## Related Strategies
+
 - [Active recess](active-recess.md) — the same attentional mechanism applied to the school day; consistent movement across settings compounds benefits
 - [Active transitions](active-transitions.md) — embedding brief movement into transitions rather than separate breaks
 - [Achievable micro-goals](achievable_micro-goals.md) — structuring homework into short blocks pairs naturally with movement intervals
 - [Check-ins](../principles/check-ins.md) — brief reviews that help learners notice whether the work–movement rhythm is actually improving focus
+- [Apply the 10-minutes-per-grade homework time guideline, adjusted modestly for remote learning](ten-minutes-per-grade-homework-guideline.md)
 
 ## Examples
 - A family sets a kitchen timer for 25-minute homework blocks; between blocks the child shoots baskets for 5 minutes, then returns to the same task.

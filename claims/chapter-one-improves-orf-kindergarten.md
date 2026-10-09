@@ -50,3 +50,4 @@ Randomized study in a large southeastern school district during 2021-22, with ki
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](booknook-small-positive-map-reading-growth.md) — related
 - [Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18)](lightning-squad-word-attack-significant-itt.md) — related
 - [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related
+- [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related

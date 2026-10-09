@@ -66,6 +66,7 @@ PBS treats behavior as a learned, communicative act shaped by its environment, a
 - [Restorative Practices](restorative-practices.md) — an alternative/complementary response to harm that replaces exclusionary discipline
 - [Social-Emotional Learning](../patterns/social-emotional-learning.md) — teaches the underlying skills PBS expects students to display
 - [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
+- [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)
 
 ## Examples
 - **[PBIS](https://www.pbis.org)** — the OSEP-funded national technical assistance center; provides the standard Tier 1–3 implementation guides used in over 25,000 U.S. schools.

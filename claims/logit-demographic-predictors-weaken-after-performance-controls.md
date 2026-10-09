@@ -66,3 +66,4 @@ In the same SU logit specifications, adding first-semester performance data (ave
 - [Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available](performance-data-dominates-demographics-in-dropout-prediction.md) — a broader claim this one bears on
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related
 - [Using predictive analytics while ignoring teacher knowledge may misidentify students at risk of dropping out and negatively influence teacher views](ignoring-teacher-knowledge-misidentifies-risk-students.md) — related
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related

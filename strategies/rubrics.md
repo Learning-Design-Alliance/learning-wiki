@@ -72,6 +72,7 @@ Rubrics make quality criteria explicit *before* performance, converting assessme
 - **Portfolio assessment** — developmental rubrics track growth across artifacts over time
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](three-part-rubric-maker-assessment.md)
 - [Use component-level checklists for lesson planning and rubric design](checklists-for-lesson-planning-and-rubrics.md)
+- [Prepare for rising demand for assessment tools and embedded assessment models in maker learning](prepare-for-rising-maker-assessment-demand.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — rubric descriptors make feedback specific and criterion-referenced rather than evaluative

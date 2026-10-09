@@ -49,6 +49,9 @@ E-TRIALS is described as "a free learning science A/B testing platform that allo
 - [SEERNet hub of five digital learning platforms enabling large-scale education research](seernet-five-dlps-hub.md)
 - [SEERNet: a network of five digital learning platforms operating as research infrastructure](seernet-dlp-research-infrastructure.md)
 - [UpGrade open-source A/B testing platform for classroom-embedded field experiments](upgrade-ab-testing-platform.md)
+- [ASSISTments E-Trials A/B test dataset with remnant log data (68 tests, 227 contrasts, 38,035 experimental students, 193,218 remnant students)](assistments-etrials-68-test-remnant-dataset.md)
+- [ASSISTments online math homework platform](assistments-online-homework-platform.md)
+- [QUICK-Comments teacher-augmentation tool in ASSISTments](quick-comments-assistments-tool.md)
 
 ## Examples
 

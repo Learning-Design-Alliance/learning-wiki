@@ -72,3 +72,5 @@ The article's stated consensus position, citing Bijker et al. (2024), Hayes (202
 - [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — related
 - [AI systems relying on black-box models should not be used for high-stakes applications](black-box-ai-not-for-high-stakes-applications.md) — related
 - [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — related
+- [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](human-refinement-essential-gpt-codebooks.md) — a narrower finding that bears on this claim
+- [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — a narrower finding that bears on this claim

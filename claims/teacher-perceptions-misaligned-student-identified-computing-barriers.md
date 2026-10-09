@@ -44,3 +44,4 @@ Findings reported from the Iowa City empathy interview work, in which 7 Inclusiv
 
 ## Related Claims
 - [Student voices provided insights into factors that may impact participation in CS programs in Iowa City](student-voices-insights-cs-participation-factors.md) — related
+- [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](talladega-disparities-persisted-despite-pathway.md) — related

@@ -50,3 +50,4 @@ The associated journal article's summary states the study examined “the stabil
 - [Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status](self-management-growth-predicts-off-track-beyond-status.md) — a narrower finding that bears on this claim
 - [Successful transition from intermediate to secondary school depends on both academic preparation and social-emotional learning skills suited to a more independent environment](transition-depends-on-academic-and-sel-preparation.md) — a broader claim this one bears on
 - [Successfully transitioning from intermediate school to secondary school is pivotal for students to remain on track to graduate](transition-pivotal-for-remaining-on-track.md) — related
+- [Students often slip off track during transition years (6th and 9th grade) even when they previously performed well](transition-years-slipping-off-track.md) — related

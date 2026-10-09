@@ -57,9 +57,11 @@ Morphological instruction works because English orthography is morphophonemic: s
 6. Extend to derivational morphemes and word families to build vocabulary.
 
 ## Related Strategies
+
 - [Phonics Instruction](../strategies/phonics-instruction.md) — complementary; morphology explains spellings phonics cannot (e.g., *healed* keeps the *e* because of the base word)
 - [Vocabulary Instruction](../strategies/vocabulary-instruction.md) — derivational morphology is a high-leverage vocabulary strategy
 - [Word Sorting](../strategies/word-sorting.md) — the primary practice format for morphological study
+- [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 
 ## Examples
 - **Words Their Way** (Bear, Invernizzi, Templeton, & Johnston) — developmental word study program using word sorts organized by spelling and morphological patterns; widely used in grades 2–6. [https://www.pearson.com](https://www.pearson.com)

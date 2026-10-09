@@ -48,3 +48,4 @@ Cultural and gender bias analysis using name-based subgroup analysis in the TSCC
 - [Low-precision PII detection disrupts the semantic integrity of educational data: Presidio and Azure AI Language false positives alter intended meaning while GPT-based models preserve it](low-precision-pii-detection-semantic-disruption.md) — related
 - [Educators cautiously support AI for culturally responsive content generation while fearing cultural biases and stereotypes in AI output](culturally-responsive-ai-content-cautious-optimism.md) — related
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — related
+- [The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups](bert-consistent-performance-across-student-subgroups.md) — related

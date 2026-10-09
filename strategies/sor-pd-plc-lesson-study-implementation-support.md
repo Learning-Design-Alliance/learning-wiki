@@ -45,6 +45,7 @@ Implementation is supported by an initial Science of Reading and Implementation 
 - [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
 - [Implement PCP with initial 3-hour training plus semester follow-up sessions and onsite coaching](pcp-training-and-coaching-strategy.md)
 - [Support implementation with initial Science of Reading training plus PLC-based lesson study and model lessons](plc-lesson-study-implementation-support.md)
+- [Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines](summer-institute-plc-coaching-data-routines.md)
 
 ## Examples
 -

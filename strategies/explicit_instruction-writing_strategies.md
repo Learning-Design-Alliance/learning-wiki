@@ -59,9 +59,11 @@ Explicit strategy instruction works because it converts the tacit processes expe
 6. **Independent practice** — students apply the strategy alone; support is faded as proficiency grows
 
 ## Related Strategies
+
 - [Process Writing](../strategies/process_writing.md) — strategy instruction is often embedded within a process-writing classroom
 - [Peer Revision](../strategies/peer_revision.md) — a structured revision strategy that can be explicitly taught
 - [Goal Setting](../strategies/goal_setting.md) — the self-regulation component that makes SRSD more than procedure training
+- [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
 
 ## Examples
 - **SRSD for persuasive writing (POW+TREE)** — Graham & Harris's widely replicated approach: Pick my idea, Organize notes, Write and say more; Topic sentence, Reasons, Explanations, Ending — taught over multiple sessions with modeling and fading

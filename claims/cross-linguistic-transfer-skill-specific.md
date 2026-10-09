@@ -45,3 +45,4 @@ A multilingual-considerations statement in the Test Design section. The report a
 ## Related Claims
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — related
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
+- [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — related

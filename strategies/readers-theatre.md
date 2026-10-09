@@ -60,8 +60,10 @@ Readers Theatre operationalizes repeated oral reading with a purposeful audience
 7. Debrief on how interpretation choices reflected understanding of the text.
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — full dramatization with movement and staging; Readers Theatre is its low-preparation, script-in-hand variant
 - [Acting-Role-Play](acting-role-play.md) — embodied perspective-taking; Readers Theatre adds a fluency-training layer to the same mechanism
+- [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
 
 ## Examples
 - **Storyline Online–style read-alouds as models** — teachers use recorded expressive readings (e.g., [Storyline Online](https://storylineonline.net)) to demonstrate prosody before rehearsal.

@@ -75,3 +75,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
 - [Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking](technology-group-work-engagement-student-thinking.md) — related
 - [SPICE learners report that the virtual Center reduced their rural isolation and made learning enjoyable](spice-learners-report-reduced-isolation.md) — related
+- [Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints](nico-nor-teacher-implementation-experience.md) — related

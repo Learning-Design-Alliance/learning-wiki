@@ -67,6 +67,7 @@ Badges operate as extrinsic motivators, and their effect on learning depends alm
 - [Leaderboards](leaderboards.md) — a competitive display mechanism often paired with badges, with stronger demotivation risks
 - [Use digital badges to recognize skills, supplement report cards, and manage equipment training access in maker education](digital-badges-maker-education-recognition.md)
 - [Reward service in high-poverty Title I schools with a salary supplement and portable credential for recognized effective teachers](atc-title-i-salary-supplement-strategy.md)
+- [Badge-based competency coaching in which teachers design customized mastery paths and earn badges for demonstrated evidence of practice](e2l-badge-based-competency-coaching.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — badge criteria must be grounded in real assessment of the work

@@ -52,7 +52,8 @@ The CCSR data archive is a linked longitudinal database on Chicago Public School
 - [Arizona linked education–child welfare student database](arizona-linked-education-child-welfare-database.md)
 
 ## Examples
--
+
+- [Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions](../strategies/dropout-data-systems-diagnosis-strategy.md)
 
 ## Key Sources
 - Melissa Roderick, John Q. Easton, and Penny Bender Sebring. (2009). A New Model for the Role of Research in Supporting Urban School Reform. Consortium on Chicago School Research at the University of Chicago Urban Education Institute. https://consortium.uchicago.edu/publications/ccsr-new-model-role-research-supporting-urban-school-reform

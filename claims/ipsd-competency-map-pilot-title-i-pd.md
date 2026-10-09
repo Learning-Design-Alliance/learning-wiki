@@ -47,3 +47,4 @@ District case report of the pilot year: the map was piloted in schools including
 - [IPSD set an equity goal of increasing computing opportunities in five Title I elementary schools to reach all students district-wide](ipsd-title-i-computing-equity-goal.md) — related
 - [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](ct-pathway-research-questions.md) — related
 - [The TAN project delivered four virtual CT Booster sessions for K-2 and 3-8 teachers on Data & Analysis and Algorithms between November 2020 and January 2021](tan-four-ct-booster-sessions-rural-ky.md) — related
+- [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](talladega-disparities-persisted-despite-pathway.md) — related

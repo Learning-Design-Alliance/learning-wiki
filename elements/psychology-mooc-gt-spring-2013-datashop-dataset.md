@@ -43,7 +43,8 @@ A dataset from the 'Psychology MOOC GT - Spring 2013' course, accessed via DataS
 - [In a preliminary PCA, RMSE is highly correlated with the slip parameter S, while T and G appear orthogonal to RMSE](../claims/pca-rmse-correlates-slip-orthogonal-t-g.md) [+W]
 
 ## Related Elements
-- 
+
+- [PSLC DataShop public repository of online learning data](pslc-datashop-public-repository.md)
 
 ## Examples
 -

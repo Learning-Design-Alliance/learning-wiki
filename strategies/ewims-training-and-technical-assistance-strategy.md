@@ -44,6 +44,7 @@ The article describes a blended professional development model for implementing 
 - [Implement Curiosity Corner with two initial training workshop days plus ongoing onsite coaching and support](curiosity-corner-training-coaching-strategy.md)
 - [Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching](powerup-layered-professional-development.md)
 - [Blended Learning](blended_learning.md)
+- [Coach-the-coaches model for sustaining teacher professional learning implementation](coach-the-coaches-implementation-support.md)
 
 ## Examples
 -

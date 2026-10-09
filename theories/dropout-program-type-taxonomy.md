@@ -46,7 +46,8 @@ The review organizes the dropout intervention literature into a set of program t
 - [Unpublished status and higher method quality are associated with smaller estimated effects of dropout programs](../claims/method-variables-smaller-dropout-effects.md) [+M]
 
 ## Related Theories
-- 
+
+- [School engagement as the organizing framework for dropout prevention](school-engagement-dropout-prevention-framework.md)
 
 ## Examples
 -

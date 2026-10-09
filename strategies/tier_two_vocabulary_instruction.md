@@ -58,9 +58,11 @@ Tier Two words offer the highest instructional yield because they are frequent e
 5. **Review and assess**: use quick spaced checks (word walls, exit questions) rather than single end-of-unit tests.
 
 ## Related Strategies
+
 - [Morphological Analysis](../strategies/morphological-analysis.md) — extends each taught word into a family, multiplying vocabulary yield
 - [Pre-teaching Vocabulary](../strategies/pre-teaching-vocabulary.md) — a lighter-weight variant used to clear comprehension barriers before reading
 - [Frayer Model](../strategies/frayer-model.md) — a graphic organizer for defining, exemplifying, and contrasting a word
+- [Run brief small-group mini-vocabulary lessons with a fixed routine: say the word, student-friendly definition, example, synonym, sentence writing, and graphic organizer](mini-vocabulary-lesson-routine-small-group.md)
 
 ## Examples
 - **Robust Vocabulary Instruction (Beck & McKeown)** — kindergarten and primary classrooms teaching words like *mercy* and *tolerate* from read-alouds through interactive questioning and word play; documented gains in expressive vocabulary.

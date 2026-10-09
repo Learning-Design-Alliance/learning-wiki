@@ -58,9 +58,11 @@ Belonging is a psychological state that predicts engagement, persistence, and ac
 5. Re-audit periodically and with learner input; cues must track the actual community, not an imagined one.
 
 ## Related Strategies
+
 - [Belonging interventions](belonging_interventions.md) — the direct, social-psychological counterpart; environmental cues sustain what brief interventions initiate
 - [Norm setting](norm_setting.md) — co-created behavioral norms are a social cue that signals collective ownership of the space
 - [Culturally responsive teaching](culturally_responsive_teaching.md) — the broader pedagogical stance of which environmental representation is one visible component
+- [Expose girls to female role models who have succeeded in math and science](expose-girls-female-math-science-role-models.md)
 
 ## Examples
 - **Cheryan et al.'s computer science classroom studies** — replacing Star Trek posters and video game paraphernalia with nature posters and neutral decor significantly raised women's interest in CS, demonstrating that objects alone carry belonging signals ([https://doi.org/10.1037/a0013496](https://doi.org/10.1037/a0013496)).

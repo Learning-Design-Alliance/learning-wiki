@@ -45,6 +45,7 @@ The EdTech Index is a searchable directory of edtech tools that hosts each produ
 - [Inclusive Design Evaluation Rubric (Resource D)](edtech-inclusive-design-evaluation-rubric.md)
 - [Digital Promise Research-Based Design Product Certification](research-based-design-product-certification.md)
 - [Product certifications as a baseline filter for evidence-based edtech procurement](product-certifications-edtech-filter.md)
+- [Digital Promise Product Certifications ecosystem](digital-promise-product-certifications.md)
 
 ## Examples
 -

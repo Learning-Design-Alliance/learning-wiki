@@ -44,3 +44,4 @@ Two randomized studies in urban Texas schools with high populations of EL learne
 
 ## Related Claims
 - [Lectura Proactiva's evidence base comes from randomized studies of Spanish-speaking first graders below the 25th percentile in urban Texas schools](lectura-proactiva-evidence-population-scope.md) — possibly the same claim (merge candidate)
+- [In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls](amira-rct-woodcock-effect-064.md) — related

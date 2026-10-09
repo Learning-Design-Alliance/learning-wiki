@@ -42,6 +42,7 @@ The session defines a data repository as "a place that holds data, makes data av
 - [EarthTime data visualizations provide interactive, time-lapse representations of large data sets for classroom discovery](earthtime-data-visualization-tool.md)
 - [Civic Online Reasoning video library supports teaching accurate online data evaluation](civic-online-reasoning-video-library.md)
 - [DataShop educational data repository and analysis platform](cmu-datashop-repository.md)
+- [PSLC DataShop public repository of online learning data](pslc-datashop-public-repository.md)
 
 ## Examples
 

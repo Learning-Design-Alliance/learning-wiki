@@ -45,3 +45,4 @@ The review's multilevel meta-analysis of secondary behavioural outcomes reports 
 - [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — reports the opposite
 - [Interventions with high schoolers and young adults show strong consistent improvement in cognitive regulation and small but significant improvements in health, mental health, and delinquency](sr-interventions-improve-cognitive-regulation-young-adults.md) — reports the opposite
 - [Adolescent substance use is associated with low academic outcomes, delinquency, and risky sexual behaviors, per cited prior work](adolescent-substance-use-negative-consequences.md) — related
+- [Individualized homework outperforms non-individualized homework in achievement, attitudes, and conduct](individualized-homework-outperforms-generic.md) — related

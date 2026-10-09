@@ -65,6 +65,7 @@ Repeated reading exploits the fact that word recognition is the bottleneck for c
 - [Choral Reading](../strategies/choral-reading.md) — group rereading that lowers the social cost of reading aloud
 - [Wide Reading](../strategies/wide-reading.md) — the necessary complement; fluency generalizes only through volume of varied text
 - [Pass-timing routine with four mastery criteria and repeated practice until criteria are met](read-naturally-pass-timing-criteria-routine.md)
+- [Reread the same passage 3–4 times, each time with a different purpose](purposeful-repeated-reading-three-four-times.md)
 
 ## Examples
 - **[Read Naturally](https://www.readnaturally.com)** — audio-assisted repeated reading program: students hear a modeled reading, practice the passage repeatedly, and graph their own rate and accuracy against a goal.

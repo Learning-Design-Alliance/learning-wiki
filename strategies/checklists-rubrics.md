@@ -61,9 +61,11 @@ Rubrics and checklists improve performance primarily by clarifying expectations 
 6. [Assess Performance](../elements/assess-performance.md): compare self-ratings with instructor ratings to build calibration over successive cycles
 
 ## Related Strategies
+
 - [Self-Assessment](../elements/self-assessment.md) — checklists and rubrics are the primary instruments for it
 - [Peer Feedback](../elements/peer-feedback.md) — shared criteria make peer feedback specific and actionable
 - [Formative Assessment](formative-assessment.md) — criteria-based self- and peer-assessment is a core formative mechanism
+- [Provide sentence evaluation criteria (clarity, intended audience) and model revision against them](sentence-evaluation-criteria-clarity-audience-revision.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling rubric application on sample work

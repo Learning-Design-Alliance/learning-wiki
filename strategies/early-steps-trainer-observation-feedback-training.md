@@ -46,6 +46,7 @@ Early Steps training involves 9 full-day visits by the trainer across the school
 - [Sustained professional development model combining training days, site visits, observations, and ongoing coaching](reading-go-professional-development-model.md)
 - [Provide structured multi-phase professional development with ongoing support for intervention teachers](wilson-structured-professional-development-strategy.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
+- [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
 
 ## Examples
 -

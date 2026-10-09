@@ -45,3 +45,4 @@ The WWC synthesis reports that "the average improvement index for reading fluenc
 ## Related Claims
 - [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related
 - [Sound Partners tutoring has positive effects on reading comprehension of beginning readers](sound-partners-positive-effects-comprehension.md) — related
+- [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — a broader claim this one bears on

@@ -47,3 +47,4 @@ The abstract states this as framing: ELs "lag behind their peers in academic ach
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [All three English Learner groups have lower mean math and reading achievement than the all-student average in kindergarten](el-groups-lower-kindergarten-achievement.md) — related
 - [In math, ELs grew more than never-ELs during academic years but lost more during summers](el-math-academic-year-growth-greater-summer-loss.md) — related
+- [English learners can learn to read in English at the same rate as their monolingual peers in the primary grades](english-learners-read-same-rate-primary-grades.md) — related

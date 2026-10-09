@@ -62,9 +62,11 @@ Metacognitive journaling operationalizes the monitoring and evaluation phases of
 6. Close the loop: ask learners to name one concrete adjustment to their study or work approach based on the journal, and check on it later.
 
 ## Related Strategies
+
 - Exam wrappers and post-assessment reflection — a bounded, high-yield variant of journaling tied to a concrete performance event
 - Muddiest point / one-minute papers — the minimal footprint version, trading depth for frequency
 - Goal-setting journals — structured entries that pair reflection with commitment (see Morisano et al., below)
+- [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
 
 ## Examples
 - **Exam wrappers** (widely used in STEM gateway courses, e.g., at Carnegie Mellon's Eberly Center, https://www.cmu.edu/teaching/designteach/teach/examwrappers.html): students answer structured questions after each exam about where they lost points and what study strategies they used, then set a plan for the next assessment.

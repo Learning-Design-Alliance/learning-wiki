@@ -67,3 +67,4 @@ The digest, citing Moll and Greenberg (1990), reports this trust grew as partici
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — related
 - [A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function](rpp-trust-reciprocity-mutual-respect-benefits.md) — related
 - [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related
+- [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](relational-trust-precondition-participatory.md) — related

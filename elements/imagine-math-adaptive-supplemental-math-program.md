@@ -48,6 +48,7 @@ Imagine Math by Imagine Learning is "a digital supplemental mathematics learning
 - [DreamBox Learning adaptive online mathematics program](dreambox-learning-adaptive-math-program.md)
 - [I CAN Learn® self-paced, mastery-based computer math curriculum](ican-learn-mastery-based-math-curriculum.md)
 - [Pathblazer: supplemental online individualized intervention for struggling K–8 learners in mathematics and reading](pathblazer-online-intervention-element.md)
+- [DreamBox Math adaptive online K-8 mathematics program](dreambox-math-adaptive-program.md)
 
 ## Examples
 

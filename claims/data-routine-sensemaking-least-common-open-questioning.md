@@ -64,3 +64,4 @@ Coding of each lesson activity for questioning approach found teachers who facil
 ## Related Claims
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
 - [Teachers addressed graph comprehension consistently at high levels across observed lessons, while covariational reasoning enactment varied widely by lesson](gc-consistent-cov-varied-across-lessons.md) — related
+- [Observed classroom implementation promoted science practices and core ideas, with Observing and Describing most frequent and coverage varying by unit](nico-nor-classroom-science-practices-coverage.md) — related

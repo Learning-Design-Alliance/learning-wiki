@@ -39,6 +39,7 @@ To operationalize the competency map for teachers, IPSD had a team of six teache
 ## Related Strategies
 
 - [Leverage school-based librarians to create and deliver K-6 CS/CT lessons when classroom integration slows](librarian-created-k6-cs-ct-lessons.md)
+- [Show teachers concrete examples of computational thinking in practice before asking them to design CT lessons](ct-examples-before-teacher-lesson-design.md)
 
 ## Examples
 -

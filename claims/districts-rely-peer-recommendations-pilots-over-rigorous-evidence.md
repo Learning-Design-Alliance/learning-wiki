@@ -49,3 +49,5 @@ Survey and interview data on district information sources show reliance on "peer
 - [Pilots conducted by one's own school or district are the most frequently cited evidence type for program adoption decisions, followed by colleague recommendations](own-district-pilots-most-common-evidence.md) — related
 - [Most district ed-tech needs assessments are informal; formal needs assessments are rare](edtech-needs-assessments-mostly-informal.md) — related
 - [Trust amongst peers is high while trust of outsiders is low, and vendor relationships in districts follow a long consultative sales cycle](peer-trust-high-outsider-trust-low-edtech.md) — related
+- [Most surveyed ed tech developers report their products are informed by research, but purchasers struggle to evaluate that research](developers-report-research-informed-products.md) — related
+- [Districts engage with edtech products primarily through three scenarios: RFPs, vendor pitches, and peer recommendations](three-edtech-vendor-engagement-scenarios.md) — related

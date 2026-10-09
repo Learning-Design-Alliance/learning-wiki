@@ -67,3 +67,4 @@ Authors' interpretation of the Table 14 ablation: KC inputs reduce available inf
 - [The expert-designed KC model adds little predictive power on most datasets, with significant contributions only on the two KDD Cup 2010 datasets](expert-kc-model-adds-little-predictive-power.md) — related
 - [Deep Knowledge Tracing has a fundamental limitation that prevents it from supporting mastery learning on multi-step problems](dkt-limitation-multi-step-mastery-learning.md) — related
 - [The survey reports, citing Mongkhonvanit et al., that DKT achieved better performance when binarized MOOC video-engagement covariates were incorporated.](engagement-covariates-improve-deep-knowledge-tracing.md) — related
+- [Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing](description-based-representation-beats-id-based-llm-kt.md) — related

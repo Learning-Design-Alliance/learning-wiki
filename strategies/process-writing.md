@@ -59,9 +59,11 @@ Process writing works because it externalizes and distributes the cognitive dema
 6. **Publish and assess the process**: evaluate drafts, revision evidence, and reflection alongside the final product ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - [Self-Regulated Strategy Development](../strategies/self-regulated-strategy-development.md) — adds explicit self-regulation instruction to the process cycle; strongest-evidence writing intervention
 - [5-minute writing conferences](../strategies/5-minute_writing_conferences.md) — the individual feedback mechanism that drives draft improvement
 - [Sentence combining](../strategies/sentence-combining.md) — targets the sentence-level skill that process cycles alone under-teach
+- [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
 
 ## Examples
 - **National Writing Project** (https://www.nwp.org) — teacher networks built around writers' workshop and process approaches across K–16.

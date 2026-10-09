@@ -68,3 +68,4 @@ Item-level RMSE comparison across the three chatbots (Figure 6). The article rep
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [Item-level discrepancies between LLM and human responses were higher for negatively worded BREQ items](llm-higher-discrepancy-negative-worded-items.md) — related
 - [LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses](llm-survey-responses-extreme-low-variability.md) — related
+- [LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst](llm-choice-affects-human-ai-coding-correspondence.md) — related

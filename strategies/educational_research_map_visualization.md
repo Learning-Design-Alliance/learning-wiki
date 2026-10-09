@@ -59,8 +59,10 @@ Bibliometric maps reduce the search cost of navigating a large, unfamiliar liter
 6. Where possible, discuss findings with peers to interpret applicability ([Collaborative Learning](../elements/collaborative-learning.md)).
 
 ## Related Strategies
+
 - Literature mapping and systematic review — the map is a discovery front-end; systematic review adds quality appraisal and synthesis the map lacks
 - Evidence-based practice adoption — the map locates evidence; structured implementation frameworks translate it into practice
+- [Partner with academic researchers by approaching early, aligning motivations, and maintaining trust and transparency](partnering-with-academic-researchers.md)
 
 ## Examples
 - **[Digital Promise Research Map](https://researchmap.digitalpromise.org)** — an interactive visualization of education research built from bibliographic coupling of journal articles; users explore topics, connections between topics, and save articles of interest.

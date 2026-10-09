@@ -41,6 +41,8 @@ The article reproduces a logic model articulated in a companion paper, which "de
 
 - [OpenSciEd practitioner needs maps: a conjecture-map-style framework linking seven support themes to three broad outcomes](openscied-practitioner-needs-maps.md)
 - [OpenSciEd research logic model with five components](open-scied-research-logic-model.md)
+- [Four categories of desired OpenSciEd outcomes: student, teacher capacity, system, and resources and innovations](openscied-four-outcome-categories.md)
+- [OpenSciEd research logic model linking inputs, three ecosystem levels, and four outcome categories](openscied-research-logic-model.md)
 
 ## Examples
 -

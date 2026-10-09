@@ -45,3 +45,4 @@ Interview findings from the study's qualitative data collection show needs asses
 ## Related Claims
 - [Needs assessments are mostly informal and focused on student achievement](needs-assessments-informal-achievement-focused.md) — possibly the same claim (merge candidate)
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related
+- [Districts report recurring pain points in edtech evaluation, including no formal process, curriculum–technology team disconnects, uneven evaluation depth, and outdated tool inventories](district-edtech-evaluation-pain-points.md) — related

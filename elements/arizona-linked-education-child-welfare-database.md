@@ -47,6 +47,7 @@ A unique database created for this study by matching statewide individual studen
 ## Examples
 
 - [Link education and child welfare data systems to make the foster care achievement gap visible and trackable](../strategies/link-education-child-welfare-data-systems.md)
+- [Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions](../strategies/dropout-data-systems-diagnosis-strategy.md)
 
 ## Key Sources
 - Barrat, V. X., Berliner, B., & Felida, N. J. (2015). Arizona's Invisible Achievement Gap: Education Outcomes of Students in Foster Care in the State's Public Schools. San Francisco: WestEd. http://www.azed.gov/research-evaluation/files/2013/11/2013-a-f-technical-manual.pdf

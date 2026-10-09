@@ -66,6 +66,7 @@ Morphological instruction works because it converts vocabulary learning from rot
 - [Contextual Redefinition](contextual-redefinition.md) — complements morpheme analysis by using sentence context to confirm or refine morpheme-based inferences
 - [Word Walls](word-walls.md) — a display structure for keeping taught morphemes and derived words visible over time
 - [Teach decoding and morphological analysis with words connected to unit themes](stari-component-skills-linked-to-themes.md)
+- [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 
 ## Related Elements
 - [Direct Instruction](../elements/direct-instruction.md) — the explicit teaching episode that introduces each morpheme

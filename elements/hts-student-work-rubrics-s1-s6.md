@@ -49,6 +49,7 @@ A companion set of six rubric dimensions (S1-S6) meant to study the extent to wh
 ## Related Elements
 
 - [Historical Thinking Skills Activity Rubrics (A1-A6) for assessing learning opportunities in world history assignments](hts-activity-rubrics-a1-a6.md)
+- [Rubrics for Examining Historical Thinking Skills in High School World History Activities and Student Work](historical-thinking-skills-rubrics-activities-student-work.md)
 
 ## Examples
 -

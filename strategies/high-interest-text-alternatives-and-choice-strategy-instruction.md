@@ -42,6 +42,8 @@ Because some students found single-theme short stories boring, the article recom
 - [Selecting Culturally Responsive Texts](selecting_culturally_responsive_texts.md)
 - [Sustained Silent Reading](sustained-silent-reading.md)
 - [Literature Circles](literature-circles.md)
+- [Offer instructional choices to students to increase engagement and agency](offer-instructional-choices-engagement-agency.md)
+- [Devote weekly intervention time to reading a wide range of texts](weekly-wide-range-of-texts-reading.md)
 
 ## Examples
 -

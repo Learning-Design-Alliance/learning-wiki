@@ -59,3 +59,4 @@ Boundary conditions and open questions remain. It is not established whether gai
 - [Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade](block-play-complexity-predicts-later-math-achievement.md) — related
 - [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](modeling-training-improves-imaginative-play.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
+- [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](nico-nor-math-null-with-item-gains.md) — related

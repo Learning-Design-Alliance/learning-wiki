@@ -62,9 +62,11 @@ Authentic audiences change how students write: they attend more to audience need
 7. Use the response to drive revision, treating feedback as communication rather than evaluation ([Assessment for Learning](../principles/assessment-for-learning.md)).
 
 ## Related Strategies
+
 - [Writing for Real Audiences](writing-for-real-audiences.md) — the publication-focused variant of this strategy
 - [Peer Review Protocols](peer-review-protocols.md) — structures the audience-response loop within a class
 - [Genre Scaffolding](genre-scaffolding.md) — supplies the models and conventions authentic tasks presuppose
+- [Guide students to select, match, and adapt writing strategies to situations](match-writing-strategies-to-situations-wall-chart.md)
 
 ## Examples
 - **Letters to the editor / civic writing**: students draft op-eds on local issues and submit them to real news outlets; several published curricula (e.g., [The Learning Network](https://www.nytimes.com/section/learning) student contests) provide authentic publication venues with real editorial response.

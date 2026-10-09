@@ -53,6 +53,8 @@ The white paper organizes OpenSciEd research using a logic model with a five-par
 - [OpenSciEd research logic model](openscied-logic-model.md)
 - [OpenSciEd practitioner needs maps: a conjecture-map-style framework linking seven support themes to three broad outcomes](openscied-practitioner-needs-maps.md)
 - [The OpenSciEd storyline instructional model: coherence from the students' perspective via four teaching routines](storyline-instructional-model-student-coherence.md)
+- [Four categories of desired OpenSciEd outcomes: student, teacher capacity, system, and resources and innovations](openscied-four-outcome-categories.md)
+- [OpenSciEd research logic model linking inputs, three ecosystem levels, and four outcome categories](openscied-research-logic-model.md)
 
 ## Examples
 -

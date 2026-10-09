@@ -45,3 +45,4 @@ Second challenge surfaced in the report's listening tour with more than 50 stake
 ## Related Claims
 - [Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection](edtech-product-information-scarce-untrustworthy.md) — related
 - [Stakeholders report that edtech vendors' profit focus incentivizes broad tools designed for a mythical average learner rather than unique learner needs](vendor-incentives-average-learner-design.md) — related
+- [Without clear quality signals, district boards default to the lowest bid when comparing edtech products](lowest-bid-default-without-quality-signals.md) — a narrower finding that bears on this claim

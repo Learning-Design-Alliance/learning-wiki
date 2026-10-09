@@ -44,6 +44,7 @@ Teachers attend an initial Science of Reading and Implementation Professional De
 - [Support implementation with initial Science of Reading training plus PLC-based lesson study](sor-pd-plc-lesson-study-implementation-support.md)
 - [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
+- [Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines](summer-institute-plc-coaching-data-routines.md)
 
 ## Examples
 -

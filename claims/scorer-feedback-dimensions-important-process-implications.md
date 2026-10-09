@@ -48,3 +48,5 @@ Scorer feedback collected during the July 2020 Rubric Pilot Session, in which th
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
 - [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](rasch-adjustment-of-scorer-severity.md) — related
 - [World History Project assignments scored higher on most learning opportunity rubric dimensions than other assignments](whp-assignments-scored-higher-opportunity-rubrics.md) — related
+- [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — related
+- [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related

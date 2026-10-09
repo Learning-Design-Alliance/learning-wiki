@@ -45,3 +45,4 @@ Supplemental subscale findings from the same RCT: Number Sense (n = 553) effect 
 - [The DreamBox effect on the MAP Measurement and Geometry subtest was not statistically significant after WWC multiple-comparison correction](dreambox-measurement-geometry-subtest-not-significant-after-correction.md) — related
 - [DreamBox Learning produced a statistically significant positive effect on MAP overall math scores for K–1 students](dreambox-positive-effect-map-overall-math-k1.md) — related
 - [In the reviewed RCT, students averaged 21.8 hours of DreamBox usage, below the developer's recommended 90 minutes per week](dreambox-usage-21-8-hours-below-recommended-dose.md) — related
+- [In a randomized study in three high-poverty Bay Area charter schools, K-1 students using DreamBox gained significantly more than control students on the NWEA MAP Measurement and Geometry subtest (ES +0.16) and scored higher overall (ES +0.11)](dreambox-bay-area-k1-map-gains.md) — related

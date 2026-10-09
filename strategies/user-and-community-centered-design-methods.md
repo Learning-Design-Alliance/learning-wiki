@@ -41,6 +41,7 @@ User- and community-centered design is one of three methodological advances the 
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
 - [Design Thinking](design-thinking.md)
+- [Use iterative design with short feedback loops and multiple user-feedback methods during product development](iterative-design-short-feedback-loops.md)
 
 ## Examples
 -

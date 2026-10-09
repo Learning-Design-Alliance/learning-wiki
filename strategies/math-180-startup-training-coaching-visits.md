@@ -41,6 +41,7 @@ In the studied implementations, teachers received "an initial 2-hour to half-day
 
 - [Implement Math 180 as a blended rotation model with 1:1 computer use during rotation and roughly half the class on software at a time](math-180-blended-rotation-implementation.md)
 - [Prepare teachers with one full training day plus a mid-year follow-up day](jump-math-one-day-training-mid-year-follow-up.md)
+- [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
 
 ## Examples
 -

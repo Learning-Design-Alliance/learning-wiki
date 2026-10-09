@@ -61,9 +61,11 @@ Reader's Theater converts repeated oral reading — one of the best-supported fl
 7. Debrief on how expression conveyed meaning, connecting performance choices back to the text ([Class Discussion](../elements/class-discussion.md))
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — full dramatization with movement and props; Reader's Theater is the script-reading, low-preparation variant
 - [Act It Out](act_it_out.md) — embodied enactment of a text that shares the performance-to-comprehension logic
 - [Repeated Reading](repeated-reading.md) — the underlying fluency mechanism Reader's Theater packages with motivation and audience
+- [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the script is the reading assignment

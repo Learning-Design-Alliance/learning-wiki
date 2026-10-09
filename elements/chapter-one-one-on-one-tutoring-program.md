@@ -54,6 +54,8 @@ Chapter One is a "one-on-one personalized tutoring program that embeds part-time
 - [Education Corps in-person high-dosage literacy tutoring program model](education-corps-high-dosage-literacy-tutoring-program.md)
 - [Literacy First early literacy tutoring program for kindergarten through grade 2](literacy-first-tutoring-program-element.md)
 - [BookNook virtual tutoring platform and science-of-reading curriculum for K-8 reading intervention](booknook-virtual-tutoring-platform.md)
+- [Amira — an AI-based personal reading tutor that assesses, tutors, and reports on oral reading](amira-ai-reading-tutor-element.md)
+- [Math Corps tutoring program](math-corps-tutoring-program-element.md)
 
 ## Examples
 

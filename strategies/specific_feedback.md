@@ -60,9 +60,11 @@ Feedback improves learning when it answers "Where am I going, how am I doing, an
 6. Gradually shift responsibility: move from teacher comments toward student self-checks and [Peer Feedback](../elements/peer-feedback.md) as evaluative judgment develops.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the broader principle that feedback must specify what to do next; specific feedback is its writing-specific application
 - [Peer Feedback](../elements/peer-feedback.md) — students delivering location-specific comments to one another builds evaluative judgment
 - [Formative Assessment](formative-assessment.md) — the assessment-for-learning cycle that specific feedback serves
+- [Provide sentence evaluation criteria (clarity, intended audience) and model revision against them](sentence-evaluation-criteria-clarity-audience-revision.md)
 
 ## Examples
 - **Writing conferences** (Atwell's *In the Middle* workshop model): brief one-to-one conferences where the teacher names one specific strength and one specific next step, which the student applies immediately.

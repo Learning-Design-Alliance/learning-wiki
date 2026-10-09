@@ -47,3 +47,4 @@ Appendices A4.1–A4.3 report first-grade interim outcomes from the randomized c
 - [SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important](smart-comprehension-nonsignificant-substantive-average.md) — related
 - [SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention](smart-significant-word-identification-effect.md) — related
 - [The first-year APS Turnaround Strategy evaluation reports implementation and impact findings focused on High Impact Tutoring and PBS operation of Thomasville Heights Elementary](aps-turnaround-first-year-report-scope.md) — related
+- [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](two-year-fluency-intervention-greater-word-reading-growth.md) — related

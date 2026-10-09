@@ -43,3 +43,4 @@ The review reports, citing Tzirides et al. (2024), graduate-level seminars with 
 ## Related Claims
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — a broader claim this one bears on
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
+- [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related

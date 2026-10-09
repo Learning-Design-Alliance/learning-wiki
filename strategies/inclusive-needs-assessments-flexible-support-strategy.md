@@ -39,6 +39,7 @@ A strategy for supporting states and districts in implementing data-linking init
 ## Related Strategies
 
 - [Responsive RPP Adaptation During Disruption](responsive-rpp-adaptation-during-disruption.md)
+- [Establish an inclusive AI task force before revising responsible use policies](ai-task-force-before-policy-revision.md)
 
 ## Examples
 -

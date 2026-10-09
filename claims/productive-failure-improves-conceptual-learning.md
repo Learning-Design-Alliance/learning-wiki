@@ -101,3 +101,5 @@ Two randomized controlled studies compared teaching a new math concept first wit
 - [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) — related
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — related
+- [Alternative-strategy practices are most effective for improving procedural flexibility, with weaker evidence for conceptual and procedural knowledge](alternative-strategies-most-effective-for-procedural-flexibility.md) — related
+- [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related

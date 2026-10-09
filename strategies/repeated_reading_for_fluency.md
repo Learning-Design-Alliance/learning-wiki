@@ -65,6 +65,8 @@ Fluency is not an end in itself but a gateway: when decoding becomes automatic, 
 - [Wide Reading](wide-reading.md) — the necessary complement; repeated reading builds automaticity on practiced text, wide reading builds it across texts
 - [Vocabulary Pre-Teaching](pre-teaching-vocabulary.md) — reduces decoding and meaning obstacles before rereading
 - [Pass-timing routine with four mastery criteria and repeated practice until criteria are met](read-naturally-pass-timing-criteria-routine.md)
+- [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
+- [Reread the same passage 3–4 times, each time with a different purpose](purposeful-repeated-reading-three-four-times.md)
 
 ## Examples
 - **National Reading Panel (2000)** — identified repeated reading with guidance as one of the few instructional approaches with consistent experimental support for fluency development.

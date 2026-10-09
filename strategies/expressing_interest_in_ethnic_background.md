@@ -59,9 +59,11 @@ This strategy enacts culturally responsive teaching by making students' identiti
 5. Sustain the practice: learn and use correct name pronunciations daily; revisit cultural connections throughout the term rather than treating this as a one-time unit
 
 ## Related Strategies
+
 - [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — treats students' cultural knowledge as a resource for new learning
 - [Building Empathy](../principles/building-empathy.md) — the perspective-taking this strategy cultivates among peers
 - [Check-ins](../principles/check-ins.md) — ongoing low-stakes opportunities to signal interest in students as individuals
+- [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 
 ## Examples
 - **Name etymology wall**: a class creates a display of each student's name, its origin, meaning, and correct pronunciation; the teacher practices pronunciations and uses them consistently

@@ -37,7 +37,8 @@ The article recommends running an LLM redaction pass alongside human de-identifi
 - Protecting student privacy when sharing or analyzing educational datasets
 
 ## Related Strategies
-- 
+
+- [Use an operationally separate honest broker to perform linkage and de-identification](honest-broker-role-separation-workflow.md)
 
 ## Examples
 -

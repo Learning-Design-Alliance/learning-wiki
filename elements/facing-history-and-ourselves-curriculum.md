@@ -51,6 +51,7 @@ Facing History and Ourselves is a character education program aiming to promote 
 
 - [Building Decision Skills ethics curriculum for middle and high school students](building-decision-skills-curriculum.md)
 - [Connect with Kids character education program (videos, lesson plans, website, and outreach components)](connect-with-kids-program.md)
+- [World History Project curriculum](world-history-project-curriculum-element.md)
 
 ## Examples
 

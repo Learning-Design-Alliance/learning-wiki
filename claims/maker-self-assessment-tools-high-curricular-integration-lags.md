@@ -45,3 +45,5 @@ Self-evaluation of maker learning programs across six categories (Faculty and St
 ## Related Claims
 - [Upper elementary and middle grades have much more access to maker learning than early elementary and high school students](maker-learning-grade-level-access-skew.md) — related
 - [Maker champions rank student project ideas and guides as the most needed resource, with online professional development least desired](maker-champions-project-guides-highest-need.md) — related
+- [Self-evaluations show maker programs progressing to higher integration levels, while Assessment and Documentation remains the trailing indicator](maker-program-integration-rising-assessment-trailing.md) — related
+- [Making is being integrated across core subjects, with English/Language Arts the third highest ranking subject for integration](making-integrated-across-subjects-science-ela.md) — related

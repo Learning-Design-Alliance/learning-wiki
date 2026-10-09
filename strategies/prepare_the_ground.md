@@ -61,9 +61,11 @@ Difficult dialogues collapse when participants lack trust in the facilitator and
 6. During the actual dialogue, refer back to the agreements; afterward, debrief and repair, treating the conversation as evidence for revising the ground rules.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — surfacing existing beliefs before new content is a core preparation move
 - [Establishing Discussion Norms](establishing-discussion-norms.md) — the agreements component of ground preparation
 - [Facilitating Difficult Dialogues](facilitating-difficult-dialogues.md) — the in-conversation counterpart to this pre-conversation work
+- [Prepare teachers and students with awareness, vocabulary, and facilitation knowledge before implementing Socratic Circles](prepare-teachers-students-before-socratic-circles.md)
 
 ## Examples
 - **Arao & Clemens' "brave space" redesign** — a widely used exercise in which a class critiques a standard "safe space" ruleset (e.g., "agree to disagree") and rewrites each agreement to name what participation actually requires, building ownership of norms before charged content begins.

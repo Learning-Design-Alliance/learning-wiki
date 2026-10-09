@@ -67,3 +67,4 @@ Same randomized trial, comprehension domain: GORT-3 Comprehension (effect size 0
 - [In the Rashotte et al. (2001) study, the WWC confirmed statistically significant SpellRead™ effects on four of seven alphabetics outcomes](spellread-alphabetics-rashotte-four-significant.md) — related
 - [Comprehension effects of SpellRead™ differed between the two studies: Torgesen et al. found no significant effects while Rashotte et al. found significant effects on both outcomes](spellread-comprehension-inconsistent-across-studies.md) — related
 - [SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points](spellread-potentially-positive-fluency.md) — a broader claim this one bears on
+- [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — a broader claim this one bears on

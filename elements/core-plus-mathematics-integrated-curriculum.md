@@ -48,6 +48,7 @@ Core-Plus Mathematics is a problem-based, inquiry-oriented four-year integrated 
 
 - [CPMP-Tools mathematical software and graphing calculators for Core-Plus Mathematics](cpmp-tools-and-graphing-calculators.md)
 - [Core-Plus Mathematics curriculum (first edition, Contemporary Mathematics in Context)](core-plus-mathematics-curriculum.md)
+- [Cognitive Tutor® secondary mathematics curriculum (Carnegie Learning)](cognitive-tutor-secondary-mathematics-curriculum.md)
 
 ## Examples
 -

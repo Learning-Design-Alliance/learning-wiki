@@ -62,9 +62,11 @@ Interactive read-alouds convert passive listening into [Active Learning](../prin
 7. **Close with synthesis**: have learners retell, summarize, or connect the text to their own experience, and give feedback on the quality of their reasoning [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
+
 - [Dialogic Reading](../elements/dialogic-reading.md) — the early-childhood variant centered on child-initiated talk about the book
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the facilitator's comprehension modeling embedded at pause points
 - [Socratic Questioning](../elements/socratic-questioning.md) — the probing follow-up technique that deepens pause-point discussion
+- [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
 
 ## Examples
 - A teacher pauses during a read-aloud of Patricia Polacco's *Thank You, Mr. Falker* to ask questions that promote personal connections and discussion of character and theme, deepening comprehension.

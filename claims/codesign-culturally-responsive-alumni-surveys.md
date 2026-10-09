@@ -45,3 +45,5 @@ This practitioner brief from Digital Promise describes a project born out of a f
 ## Related Claims
 - [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](co-design-tools-support-balancing-standards-and-student-interests.md) — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
+- [Alumni survey responsiveness tends to peak at two milestones: the first year out and the fourth or fifth year out](alumni-response-peaks-two-milestones.md) — related
+- [Co-designed alumni surveys move districts from hunches about alumni experiences to concrete empirical evidence validating programs or pinpointing preparation gaps](co-designed-alumni-surveys-hunches-to-evidence.md) — related

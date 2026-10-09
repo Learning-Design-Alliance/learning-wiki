@@ -104,3 +104,4 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — a narrower finding that bears on this claim
 - [Prompting strategies for activating deep learning alone are insufficient for preserving a long-term learning advantage](deep-prompting-insufficient-long-term-retention.md) — related
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — a narrower finding that bears on this claim
+- [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — a narrower finding that bears on this claim

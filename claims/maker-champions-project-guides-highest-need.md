@@ -46,3 +46,4 @@ Final survey question asked champions to rank seven resource types in order of i
 - [In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals](maker-cohort-amplifier-case.md) — related
 - [Upper elementary and middle grades have much more access to maker learning than early elementary and high school students](maker-learning-grade-level-access-skew.md) — related
 - [Maker champions rate their programs highest in Tools, Materials, and Spaces, while curricular integration lags behind independent spaces](maker-self-assessment-tools-high-curricular-integration-lags.md) — related
+- [Student project ideas and guides remain the biggest identified resource need, while demand for professional development decreased](maker-resource-needs-project-guides-pd-decline.md) — possibly the same claim (merge candidate)

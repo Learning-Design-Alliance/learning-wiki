@@ -45,7 +45,8 @@ ITSS is a web-based reading comprehension program that "teaches students to use 
 - [ITSS qualifies for a Strong evidence rating based on multiple randomized studies with average effect sizes of +0.15 (elementary) and +0.18 (secondary)](../claims/itss-strong-evidence-rating.md) [+W]
 
 ## Related Elements
-- 
+
+- [ITSS: web-based intelligent tutoring system for the structure strategy](itss-web-based-structure-strategy-tutor.md)
 
 ## Examples
 -

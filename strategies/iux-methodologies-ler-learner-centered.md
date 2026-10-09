@@ -46,6 +46,7 @@ The toolkit recommends seven methodologies it has used to design LER technologie
 - [Inclusive Innovation Process](inclusive_innovation_process.md)
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
 - [Engage users and community members in the design process to make learning tools more attractive, useful, and effective](user-and-community-centered-design-methods.md)
+- [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](five-step-codesign-badge-development-process.md)
 
 ## Examples
 -

@@ -40,6 +40,7 @@ The review recommends that educators craft assignments incorporating generative 
 ## Related Strategies
 
 - [Resistance Reading and Counter-Narratives](resistance_reading_and_counter-narratives.md)
+- [Require students to justify how they used AI output: what they accepted, rejected, revised, or verified, and why](require-justification-of-ai-output-use.md)
 
 ## Examples
 -

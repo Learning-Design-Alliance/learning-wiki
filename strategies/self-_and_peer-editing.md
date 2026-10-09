@@ -60,9 +60,11 @@ Editing as a formative activity improves writing quality when it is criterion-re
 6. **Apply:** The criteria are applied to the next writing task, transferring the editing routine ([Application](../elements/application.md)).
 
 ## Related Strategies
+
 - [Process Writing](process-writing.md) — self- and peer-editing are the revising and editing stages of the writing process cycle
 - [Peer Tutoring](peer-tutoring.md) — a broader reciprocal structure of which peer editing is a writing-specific instance
 - [Rubric-Based Self-Assessment](rubric-based-self-assessment.md) — the self-evaluation component generalized beyond writing
+- [Provide sentence evaluation criteria (clarity, intended audience) and model revision against them](sentence-evaluation-criteria-clarity-audience-revision.md)
 
 ## Examples
 - **Process writing instruction (Graham & Sandmel, 2011):** Across 29 experimental studies, elementary and secondary students in process writing classrooms — which routinely include peer and self-editing with structured response — outperformed controls on writing quality (effect size ≈ 0.34).

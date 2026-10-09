@@ -133,6 +133,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Have students interview study-abroad returnees to learn about living abroad first hand](../strategies/guest-speaker-interviews-returnees.md)
 - [Build students' intrinsic motivation and share learning sciences principles with students to support buy-in and ownership](../strategies/intrinsic-motivation-share-science-with-students.md)
 - [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](../strategies/student-autonomy-default-access-edtech-supports.md)
+- [Offer instructional choices to students to increase engagement and agency](../strategies/offer-instructional-choices-engagement-agency.md)
 
 ### Illustrative
 

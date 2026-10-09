@@ -45,3 +45,4 @@ The paper's stated headline finding, examining both theoretically and empiricall
 ## Related Claims
 - [Appropriate average treatment effect estimators can be derived for both finite-population and super-population models of clustered RCTs](appropriate-estimators-derived-for-each-causal-model.md) — related
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
+- [After Benjamini-Hochberg false-discovery-rate adjustment, covariate-adjusted estimators detect more significant effects than t-tests (LOOP 11, ReLOOP+ 10, ReLOOP 8, T-Test 3 of 227 contrasts)](bh-adjusted-discoveries-by-estimator.md) — related

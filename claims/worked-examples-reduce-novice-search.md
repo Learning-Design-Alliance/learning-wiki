@@ -54,3 +54,4 @@ The claim is strongest for novices. Once learners already possess the underlying
 - [Worked examples improve mathematics performance, especially for novices.](worked-examples-improve-math-performance.md) — a narrower finding that bears on this claim
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Example-problem sequences reduce cognitive load and improve learning outcomes.](example-problem-sequences-reduce-cognitive-load.md) — related
+- [Studying solved problems improves algebra achievement compared to solving practice problems alone, though the evidence base is rated minimal and one study found negative effects](solved-problems-improve-algebra-achievement.md) — a narrower finding that bears on this claim

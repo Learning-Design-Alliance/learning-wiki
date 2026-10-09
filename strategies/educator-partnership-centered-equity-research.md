@@ -41,6 +41,7 @@ This strategy makes schools or instructors full partners in research, linking th
 - [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
 - [Conduct an organizational M&E self-assessment early in the research cycle to target external support](early-cycle-me-capacity-self-assessment-strategy.md)
 - [Focus equity-relevant research at the classroom and systems levels, treating teachers—not just technology—as drivers of change](classroom-system-level-equity-focus.md)
+- [Partner with academic researchers by approaching early, aligning motivations, and maintaining trust and transparency](partnering-with-academic-researchers.md)
 
 ## Examples
 -

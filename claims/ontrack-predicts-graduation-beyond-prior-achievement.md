@@ -89,3 +89,4 @@ Citing prior Consortium research, the report states that predicting ninth-grade 
 - [Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out](on-track-early-indicator-graduation.md) — a broader claim this one bears on
 - [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers](off-track-ninth-grade-graduation-odds.md) — related
 - [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers, with disproportionate impacts on Black and Latino students](off-track-ninth-grade-half-graduation-likelihood.md) — related
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related

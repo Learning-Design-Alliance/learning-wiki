@@ -105,3 +105,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — a narrower finding that bears on this claim
 - [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — related
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — a narrower finding that bears on this claim

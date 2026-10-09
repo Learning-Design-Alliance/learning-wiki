@@ -42,6 +42,7 @@ The report recommends creating space to bring school leaders into the iterative 
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
 - [Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results](rapid-cycle-edtech-pilot-best-practices.md)
 - [Support future edtech OBC cohorts with readiness assessments, early planning, needs-assessment framing, and cross-cohort collaboration](obc-future-cohort-support-strategies.md)
+- [Co-develop the toolkit with districts and refine it iteratively across cohorts](iterative-co-development-toolkit-strategy.md)
 
 ## Examples
 -

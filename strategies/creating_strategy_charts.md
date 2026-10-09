@@ -61,7 +61,9 @@ Strategy charts externalize the strategic repertoire that experts hold internall
 6. Provide [Feedback](../elements/feedback.md) on strategy use itself — not just on answers — to reinforce conditional knowledge about when each strategy helps
 
 ## Related Strategies
+
 - Strategy charts pair naturally with routines that make thinking visible and with explicit teaching of when to deploy each listed strategy; see [Explicit Teaching](../patterns/direct-instruction.md) for the direct instruction that gives chart strategies their conditional "when and why."
+- [Guide students to select, match, and adapt writing strategies to situations](match-writing-strategies-to-situations-wall-chart.md)
 
 ## Examples
 - **Elementary mathematics (Cognitively Guided Instruction classrooms)**: an anchor chart titled "What Can I Do When I'm Stuck?" lists strategies such as "draw a picture," "use manipulatives," "start with a smaller number," each with a talk prompt like "I'll try ___ because ___."

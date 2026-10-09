@@ -54,6 +54,7 @@ EWIMS is "a systematic approach used by dedicated teams of school staff to ident
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](../strategies/early-warning-system-target-resources-near-term-risks.md)
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](../strategies/early-indicators-online-system-process-data.md)
 - [Use school-level data systems to identify which students need which types of support for dropout prevention](../strategies/school-level-data-systems-identify-student-support-needs.md)
+- [Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions](../strategies/dropout-data-systems-diagnosis-strategy.md)
 
 ## Key Sources
 - Faria et al. (2017). Early Warning Intervention and Monitoring System (EWIMS). https://eric.ed.gov/?q=early+warning+intervention+and+monitoring+system

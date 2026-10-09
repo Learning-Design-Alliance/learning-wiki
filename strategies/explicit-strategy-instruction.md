@@ -60,9 +60,11 @@ Explicit strategy instruction works because it converts tacit expert processes i
 5. **Fade support.** Shift to independent application with decreasing prompts [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M], then revisit across new content to consolidate transfer.
 
 ## Related Strategies
+
 - **Reciprocal Teaching** — a canonical implementation: learners alternate leading comprehension strategies in dialogue, combining modeling with practice
 - **Self-Explanation** — a strategy that can itself be explicitly taught to deepen processing of worked examples
 - **Cognitive Apprenticeship** — the broader framing in which strategy instruction is the "coaching and articulation" phase
+- [Guide students to select, match, and adapt writing strategies to situations](match-writing-strategies-to-situations-wall-chart.md)
 
 ## Examples
 - **Reciprocal teaching of reading** (Palincsar & Brown, 1984): seventh graders taught summarizing, questioning, clarifying, and predicting through teacher modeling followed by student-led group dialogue; comprehension gains of roughly two standard deviations over controls.

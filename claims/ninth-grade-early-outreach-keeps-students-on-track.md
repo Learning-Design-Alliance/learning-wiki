@@ -55,3 +55,5 @@ The chapter's overview asserts, citing prior research, that dropout risk signs a
 - [The report treats freshman on-track status as an early indicator correlated with later graduation and dropout](freshman-on-track-early-indicator-kenwood.md) — related
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related
 - [Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year](lynwood-dfi-decrease-intervention-tracking.md) — related
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
+- [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — a narrower finding that bears on this claim

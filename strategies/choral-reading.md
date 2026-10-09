@@ -60,10 +60,12 @@ Choral reading works by pairing a strong oral model with low-stakes group practi
 5. Follow with individual or paired reading of the same text to verify transfer beyond the group, and with comprehension talk so fluency work connects to meaning.
 
 ## Related Strategies
+
 - [Echo Reading](echo-reading.md) — the highest-scaffold variant, line by line behind a model
 - [Paired Repeated Reading](paired-repeated-reading.md) — moves fluency practice from group to dyad, making individual performance visible
 - [Readers Theatre](readers-theatre.md) — choral reading's performative extension, adding rehearsal toward an audience
 - [Acting It Out](act_it_out.md) — pairs oral reading with gesture and dramatization to deepen comprehension
+- [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
 
 ## Examples
 - **Poetry of the Week (Rasinski's "fluency routine")** — a poem is read aloud by the teacher, chorally, in parts, and finally performed across a week; described in Rasinski, *The Fluent Reader* (Scholastic, 2010).

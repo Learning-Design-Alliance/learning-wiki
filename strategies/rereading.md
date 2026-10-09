@@ -60,9 +60,12 @@ Rereading works because repetition drives words toward automatic recognition, wh
 5. Return to the text after a day or more for a spaced rereading, and connect it to a new text recycling the same vocabulary or theme [Spaced repetition improves retention.](../claims/spaced-repetition-improves-retention.md) [+M].
 
 ## Related Strategies
+
 - [Spaced Repetition](../elements/spaced-repetition.md) — rereading gains strength when passes are distributed rather than massed
 - [Self-Explanation](../elements/self-explanation.md) — a stronger alternative to rereading for older learners studying expository text
 - [Retrieval Practice](../principles/active-learning.md) — testing oneself on a text outperforms rereading it for durable learning
+- [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
+- [Reread the same passage 3–4 times, each time with a different purpose](purposeful-repeated-reading-three-four-times.md)
 
 ## Examples
 - **Repeated Readings intervention (Samuels, 1979)** — a student reads a 50–200 word passage four times, aiming for a fluency criterion on each pass; the basis of most fluency interventions.

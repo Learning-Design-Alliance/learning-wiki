@@ -51,3 +51,6 @@ The practice guide's overview states its method: the What Works Clearinghouse "i
 - [Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children](headsprout-positive-oral-language-preschool.md) — related
 - [Red Light, Purple Light shows uncertain effects on preschool language outcomes](red-light-purple-light-uncertain-language.md) — related
 - [Pre-K Mathematics improves preschool children's mathematics achievement, with a WWC positive effects rating and strong evidence tier](pre-k-mathematics-positive-effects-math-achievement.md) — related
+- [Developing and using clear behavior expectations for students is supported by strong evidence from 14 studies meeting WWC standards](clear-behavior-expectations-strong-evidence-14-studies.md) — a narrower finding that bears on this claim
+- [No reviewed study directly compared developmental-progression-guided math instruction with instruction not guided by a progression](no-direct-evidence-developmental-progression-versus-unguided.md) — related
+- [Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence](number-operations-instruction-improves-early-math-achievement.md) — a narrower finding that bears on this claim

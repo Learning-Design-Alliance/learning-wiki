@@ -49,6 +49,7 @@ The article extends research-practice partnerships into research-practice-techno
 ## Examples
 
 - [Decide what stays constant and what varies, based on the research goal, before scaling across contexts](../strategies/decide-constants-and-variation-before-scaling.md)
+- [Multi-stakeholder analytics partnership using improvement science with strict data governance](../strategies/improvement-science-analytics-partnership-strategy.md)
 
 ## Key Sources
 - Alice Xu, Icy (Yunyi) Zhang, Adam B. Blake and James W. Stigler. (2026). Modelability as a Strategy for Improving the Generalizability and Scalability of Predictive Models. Journal of Learning Analytics, 13(1). https://doi.org/10.18608/jla.2026.9099

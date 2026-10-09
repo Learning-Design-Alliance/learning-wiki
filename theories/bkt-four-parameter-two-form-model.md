@@ -50,6 +50,7 @@ Bayesian Knowledge Tracing models student learning of a skill with four paramete
 - [Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories](bkt-two-state-hmm-student-model.md)
 - [Bayesian Knowledge Tracing (Two-State Hidden Markov Model)](bayesian-knowledge-tracing-two-state-model.md)
 - [BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects](bkt-irt-multidimensional-generalizable-model.md)
+- [Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment](bkt-mastery-updating-model.md)
 
 ## Examples
 

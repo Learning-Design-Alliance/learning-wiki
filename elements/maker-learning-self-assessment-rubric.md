@@ -46,7 +46,8 @@ A self-evaluation instrument (Appendix B) that maker champions used to rate thei
 - [Inclusive Design Evaluation Rubric (Resource D)](edtech-inclusive-design-evaluation-rubric.md)
 
 ## Examples
--
+
+- [Administrator involvement to sustain school-wide maker programs](../strategies/administrator-support-sustains-maker-programs.md)
 
 ## Key Sources
 - Fulfilling the Maker Promise: Year One. (2017). Digital Promise and Maker Education Initiative. https://digitalpromise.dspacedirect.org/items/dfc366e2-83b1-4b7b-8899-c7519dc364d8

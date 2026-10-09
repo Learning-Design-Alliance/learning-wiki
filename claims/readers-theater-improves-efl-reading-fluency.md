@@ -63,3 +63,4 @@ Qualitative strand of the same Lekwilai (2016) study using self-reflection forms
 
 ## Related Claims
 - [Chinese EFL learners hold positive perceptions of Reader's Theater for spoken English improvement](efl-learners-positive-perceptions-readers-theater.md) — related
+- [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](readers-theater-alone-no-unique-eb-gains-evidence.md) — reports the opposite

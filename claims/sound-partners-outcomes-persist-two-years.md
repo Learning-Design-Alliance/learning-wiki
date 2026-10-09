@@ -46,3 +46,4 @@ Follow-up studies of the Sound Partners evaluations with English learners found 
 - [Sound Partners produces significantly positive reading outcomes for English learner kindergartners (effect size +0.60)](sound-partners-positive-kindergarten-effects-english-learners.md) — related
 - [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](sound-partners-positive-first-grade-effects-english-learners.md) — related
 - [Sound Partners tutoring has positive effects on reading comprehension of beginning readers](sound-partners-positive-effects-comprehension.md) — related
+- [Sound Partners effects on word reading and comprehension are maintained two years after tutoring for kindergartners and first graders](sound-partners-effects-maintained-two-years.md) — a broader claim this one bears on

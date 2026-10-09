@@ -43,6 +43,7 @@ The primer organizes the teacher's role in collaborative learning around three p
 - [Distinction between cooperative learning and collaborative learning as two approaches to students working in groups](cooperative-versus-collaborative-learning-distinction.md)
 - [Accountable talk: three accountabilities — to knowledge, reasoning, and community](accountable-talk-three-accountabilities.md)
 - [Three-phase SRL scaffolding framework (planning, task execution, post-task reflection) operationalized across iterative design cycles](three-phase-srl-chatbot-scaffolding-framework.md)
+- [Three-phase process for community engagement: Before, During, and After](three-phase-community-engagement-process.md)
 
 ## Examples
 

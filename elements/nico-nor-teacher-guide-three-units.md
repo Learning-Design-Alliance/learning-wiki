@@ -52,6 +52,7 @@ The Teacher Guide is the program's classroom curricular resource. It "includes 3
 - [Family Science Fun Guide](family-science-fun-guide.md)
 - [Nico and Nor digital games and digital journals for iPad supporting science observation, testing, and data practices](nico-nor-digital-games-and-journals.md)
 - [Nico and Nor digital games and apps for school and home STEM learning](nico-and-nor-digital-games-apps.md)
+- [Early Science with Nico & Nor preschool science program for home and school](nico-nor-preschool-science-program-component.md)
 
 ## Examples
 

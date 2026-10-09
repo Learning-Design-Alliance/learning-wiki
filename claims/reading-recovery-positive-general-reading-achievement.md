@@ -68,3 +68,5 @@ The effectiveness summary states that "three studies with strong designs reporte
 - [Reading Recovery shows uncertain effects on mathematics achievement three years after the intervention](reading-recovery-uncertain-mathematics-achievement.md) — related
 - [Reading Go! showed positive but not statistically significant effects on reading comprehension](reading-go-comprehension-positive-not-significant.md) — related
 - [Reading Recovery shows strong ESSA evidence of positive effects on general literacy achievement and moderate evidence on academic dispositions for grade 1 students](reading-recovery-strong-evidence-literacy-achievement.md) — related
+- [In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls](amira-rct-woodcock-effect-064.md) — related
+- [Reading Recovery shows an average effect size of +0.43 across four qualifying studies, earning a Strong evidence rating](reading-recovery-average-effect-043-strong.md) — related

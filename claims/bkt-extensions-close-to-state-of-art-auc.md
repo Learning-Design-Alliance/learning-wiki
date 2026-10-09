@@ -45,3 +45,5 @@ Evaluation across eight pre-processed real-world datasets from Gervet et al. (20
 ## Related Claims
 - [BKT with generalizable multidimensional student and problem effects matches DKT on some real-world datasets, and multidimensional abilities improve upon unidimensional ones on some datasets](bkt-irt-matches-dkt-some-datasets.md) — related
 - [BKTransformer rivals or surpasses deep KT baselines (DKT, SAKT) and BKT-EM in AUC, but DKT outperforms it on one dataset](bktransformer-rivals-deep-kt-auc.md) — related
+- [BKT and BKT+SK are the best models for predicting students' post-test scores in tutoring systems with elicit and tell interventions](bkt-best-post-test-prediction-intervention-tutors.md) — related
+- [In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students](clst-outperforms-baselines-cold-start.md) — related

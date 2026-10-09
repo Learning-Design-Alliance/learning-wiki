@@ -49,6 +49,8 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 - [Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories](bkt-two-state-hmm-student-model.md)
 - [Two hypotheses for the meaning of Spectral BKT's intermediate states: a stages-of-mastery account and a mastery-by-metacognition interaction account](spectral-bkt-intermediate-state-hypotheses.md)
 - [BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects](bkt-irt-multidimensional-generalizable-model.md)
+- [Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment](bkt-mastery-updating-model.md)
+- [Intervention-BKT: a BKT extension that models the effect of instructional interventions on student knowledge states](intervention-bkt-model.md)
 
 ## Examples
 

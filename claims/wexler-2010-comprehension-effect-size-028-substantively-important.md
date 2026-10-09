@@ -47,3 +47,4 @@ WWC recalculation of the Wexler et al. (2010) randomized controlled trial, which
 - [Repeated reading shows no discernible effects on general reading achievement for students with learning disabilities](repeated-reading-no-discernible-general-reading-achievement.md) — related
 - [Repeated reading shows no discernible effects on reading fluency for students with learning disabilities](repeated-reading-no-discernible-fluency-effects.md) — related
 - [The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)](core-plus-sat-math-substantively-important.md) — related
+- [The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points](effect-size-025-substantively-important-threshold.md) — a broader claim this one bears on

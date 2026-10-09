@@ -159,3 +159,5 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 - [Case-based learning improves exam performance.](../claims/case-based-learning-improves-exam-performance.md) — cases as the unit of instruction in professional education
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — worked examples are a single-case alternative whose multi-case extensions raise the same design questions
 - [Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)](encoding-variability-decontextualization-transfer.md) — related
+- [Alternative-strategy practices are most effective for improving procedural flexibility, with weaker evidence for conceptual and procedural knowledge](alternative-strategies-most-effective-for-procedural-flexibility.md) — related
+- [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related

@@ -47,6 +47,7 @@ The presentation directs districts and providers to establish mutual accountabil
 - [Implement Learning Genie with initial training on observation-based assessment and ongoing technical assistance](learning-genie-implementation-training-strategy.md)
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
 - [Strengthen implementation scaffolding for new edtech rollouts with routines, guided practice, and change management grounded in observed workflows](implementation-scaffolding-change-management.md)
+- [Establish an inclusive AI task force before revising responsible use policies](ai-task-force-before-policy-revision.md)
 
 ## Examples
 -

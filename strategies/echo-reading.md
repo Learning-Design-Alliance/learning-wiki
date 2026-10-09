@@ -59,10 +59,12 @@ Echo reading combines [modeling](../theories/social-learning-theory.md) with imm
 6. Monitor progress by periodic one-minute oral reading probes and adjust text difficulty.
 
 ## Related Strategies
+
 - [Repeated Reading](repeated-reading.md) — the broader fluency strategy echo reading typically feeds into; echo provides the first successful pass, repeated reading consolidates it
 - [Choral Reading](choral-reading.md) — group alternative that lowers the social cost of reading aloud
 - [Paired/Partner Reading](paired-reading.md) — peer-delivered variant that sustains practice after the teacher model is faded
 - [Think-Aloud](../elements/think-aloud.md) — complementary modeling technique; echo reading models *how text sounds*, think-alouds model *how comprehension works*
+- [Teach prosody through dramatized contrasts, slashed passages, and modeled expression](prosody-instruction-activities-strategy.md)
 
 ## Examples
 - **[Read Naturally](https://www.readnaturally.com)** — fluency program combining a recorded model of the passage (audio echo), repeated timed readings, and progress monitoring.

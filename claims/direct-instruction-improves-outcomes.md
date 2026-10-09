@@ -69,3 +69,4 @@ Quantitative mixed models pooled literature from 1966–2016 on curricula built 
 - [Tutoring benefits both tutors and tutees](tutoring-benefits-tutors-and-tutees.md) — a narrower finding that bears on this claim
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [Implementing specific SEL curricula can improve academic performance, including learning to read](sel-curricula-improve-academic-performance.md) — related
+- [Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence](number-operations-instruction-improves-early-math-achievement.md) — a narrower finding that bears on this claim

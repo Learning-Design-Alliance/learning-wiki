@@ -47,3 +47,4 @@ Structural equation modeling with 242 kindergartners confirmed the foundational 
 - [Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity](vocabulary-uniquely-related-word-reading-spelling-kindergarten.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
 - [Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding](low-attention-hinders-alphabet-knowledge-phonological-awareness.md) — related
+- [English-language measures of phonological processing, letter knowledge, and word and text reading validly identify which English learners need additional reading support](english-early-reading-measures-valid-screen-english-learners.md) — related

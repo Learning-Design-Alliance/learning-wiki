@@ -59,8 +59,10 @@ Because a few dozen combining forms generate thousands of technical terms, morph
 5. Extend with word-construction tasks and cumulative review so forms are retrieved, not just recognized ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — known words containing a target form serve as the anchor for new analysis
 - [Latin and Greek roots for academic vocabulary](../strategies/latin-and-greek-roots-for-academic-vocabulary.md) — the broader morphological family of which Greek forms are one branch
+- [Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings](word-learning-strategies-context-morphology-cognates.md)
 
 ## Examples
 - **Vocabulary from Classical Roots** (Educators Publishing Service) — published word-study curriculum organized by Greek and Latin roots with exercises in analysis and application.

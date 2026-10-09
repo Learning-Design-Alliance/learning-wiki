@@ -44,3 +44,4 @@ A quoted interview statement from Dr. Brooke Morgan, Coordinator of Innovative L
 
 ## Related Claims
 - [Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers](ct-pd-top-integration-support-54-percent.md) — related
+- [A district produced an inclusive computational thinking pathway document through a participatory, teacher-represented development process spanning multiple school years.](talladega-participatory-ct-pathway-development.md) — related

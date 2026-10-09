@@ -52,3 +52,5 @@ WWC synthesis of two studies of UCSMP Algebra meeting standards with reservation
 - [UCSMP Algebra has potentially positive effects on general mathematics achievement for secondary students, with a small extent of evidence](ucsmp-algebra-potentially-positive-general-mathematics-achievement.md) — related
 - [Functional life skills development programs show potentially positive effects on independent living, with a small evidence base](functional-life-skills-independent-living-potentially-positive.md) — related
 - [Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base](educators-engage-researchers-via-what-works-clearinghouse.md) — related
+- [Cognitive Tutor® Algebra I has mixed effects on algebra outcomes for secondary students, with an average improvement index of +4 percentile points across five studies](cognitive-tutor-algebra-i-mixed-effects-algebra.md) — related
+- [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](mtp-s-potentially-positive-general-achievement.md) — related

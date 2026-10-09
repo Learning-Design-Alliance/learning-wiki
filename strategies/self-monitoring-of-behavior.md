@@ -62,10 +62,12 @@ Self-monitoring works primarily through reactivity: simply attending to and reco
 6. Fade cues and instructor verification as accuracy and the target behavior stabilize.
 
 ## Related Strategies
+
 - **Self-Evaluation** — adds a comparison against a standard or goal, strengthening the reactive effect
 - **Goal-Setting** — gives the monitored behavior a target to move toward
 - **Check-Ins** — scheduled instructor–learner conversations that review self-monitoring records ([Check-In](../elements/check-in.md))
 - **Token Economies / Reinforcement Systems** — self-monitoring records can feed reinforcement contingencies, though rewards for accuracy must be handled carefully
+- [Teach students to monitor and reflect on their own behavior](teach-students-self-monitor-reflect-behavior.md)
 
 ## Examples
 - **SMA with audio cueing**: a teacher gives a student who loses focus during whole-class instruction a tape or app that plays tones at random intervals; at each tone the student marks "Was I paying attention?" on a card. On-task behavior typically rises within the first weeks of implementation.

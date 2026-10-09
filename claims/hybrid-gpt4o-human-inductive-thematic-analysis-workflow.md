@@ -68,3 +68,5 @@ Data preparation step: transcripts were segmented into topic-based files (approx
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
 - [Respondents proposed testing and monitoring (61.9%) and human involvement (22.7%) as leading mitigations for algorithmic bias](rfi-bias-mitigation-testing-human-involvement.md) — related
 - [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — related
+- [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](human-refinement-essential-gpt-codebooks.md) — related
+- [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related

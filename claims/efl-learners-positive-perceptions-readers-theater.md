@@ -44,3 +44,4 @@ Questionnaire study by Ng (2011) with young adults (average age 19, TOEFL 450-50
 
 ## Related Claims
 - [Reader's Theater improves oral reading fluency and motivation among Thai EFL university students](readers-theater-improves-efl-reading-fluency.md) — related
+- [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](readers-theater-alone-no-unique-eb-gains-evidence.md) — related

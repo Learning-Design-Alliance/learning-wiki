@@ -42,6 +42,7 @@ The program's staffing model uses paraprofessionals as interventionists: "Readin
 - [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
 - [Embed supplemental one-on-one tutoring within the school day using existing school support staff](embed-tutoring-in-school-day-with-existing-staff.md)
 - [Provide LLI interventionists with 3-day formal training including follow-up on-site coaching](lli-three-day-training-with-on-site-coaching.md)
+- [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
 
 ## Examples
 -

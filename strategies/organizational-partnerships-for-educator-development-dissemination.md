@@ -39,6 +39,7 @@ The blueprint presents an approach to building organizational partnerships whose
 ## Related Strategies
 
 - [Facilitate knowledge sharing between organizations experienced with evidence-based strategies and organizations seeking to use them](facilitate-cross-organization-knowledge-sharing.md)
+- [Disseminate partnership information through blog posts, videos, and infographics](dissemination-blog-posts-videos-infographics.md)
 
 ## Examples
 -

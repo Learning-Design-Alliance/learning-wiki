@@ -44,6 +44,7 @@ Learning Forward's Standards for Professional Learning, developed in 2011 with m
 
 - [Educator micro-credentials as a competency-based, personalized, on-demand, shareable professional learning design](educator-micro-credential-design-four-features.md)
 - [The micro-credential ecosystem of issuers, earners, and recognizers](micro-credential-ecosystem-three-roles.md)
+- [Seven-element framework for effective professional development](seven-elements-effective-pd-framework.md)
 
 ## Examples
 

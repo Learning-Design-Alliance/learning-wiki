@@ -46,3 +46,4 @@ Quartile-level exploration of the homework-completion effect from the same mixed
 - [Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction](clicker-participation-and-homework-completion-predict-exam-performance.md) — related
 - [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](homework-explanation-quality-predicts-exam-performance.md) — related
 - [Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit](any-clicker-pattern-beats-absence-except-lowest-quartile.md) — related
+- [Individualized homework outperforms non-individualized homework in achievement, attitudes, and conduct](individualized-homework-outperforms-generic.md) — related

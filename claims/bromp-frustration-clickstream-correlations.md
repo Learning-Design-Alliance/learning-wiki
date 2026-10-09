@@ -43,3 +43,4 @@ The report cites this second-hand finding (Pardos et al., 2014) to argue researc
 ## Related Claims
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — related
 - [In an IES-funded randomized controlled trial, students with lower prior mathematics achievement gained more from ASSISTments homework support than students with higher prior achievement](assistments-greater-gains-lower-prior-achievement.md) — related
+- [EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration](edm-infers-broader-student-attributes.md) — related

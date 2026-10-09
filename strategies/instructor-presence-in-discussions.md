@@ -64,6 +64,7 @@ Discussion without instructor facilitation tends to stall at opinion exchange; i
 - [Discussion Protocols](../strategies/discussion-protocols.md) — norms that make instructor facilitation moves predictable and teachable
 - [Timely Feedback](../strategies/timely-feedback.md) — instructor presence is a form of ongoing formative feedback
 - [Require regular online instructor participation in asynchronous discussions, which may mitigate the lack of face-to-face interaction](regular-instructor-asynchronous-participation.md)
+- [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
 
 ## Examples
 - **Online graduate seminars (e.g., Penn State World Campus courses)** — instructors post a required "synthesis" message mid-week that weaves student threads together, a practice associated with higher teaching-presence ratings in Community of Inquiry research.

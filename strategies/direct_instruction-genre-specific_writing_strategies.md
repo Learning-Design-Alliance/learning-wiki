@@ -60,9 +60,11 @@ Genre knowledge is largely tacit; learners who have not absorbed it through wide
 6. **Consolidate through self-explanation.** Have students explain how their choices serve the genre's purpose, strengthening metacognitive control [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 
 ## Related Strategies
+
 - [Process Writing](process-writing.md) — genre instruction supplies the structural knowledge that process approaches often leave implicit
 - [Self-Regulated Strategy Development](self-regulated-strategy-development.md) — wraps genre strategies in self-regulation training; the two combine well
 - [Mentor Text Analysis](mentor-text-analysis.md) — the text-study phase on which explicit genre teaching depends
+- [Teach students that different genres of writing serve different purposes and let them practice genre selection](genres-serve-purposes-genre-selection-practice.md)
 
 ## Examples
 - **POW+TREE** (Graham & Harris) — a mnemonic strategy for persuasive writing: Pick ideas, Organize notes, Write and say more; Topic sentence, Reasons, Explanations, Ending — taught through explicit modeling and guided practice, with strong meta-analytic support [+S]

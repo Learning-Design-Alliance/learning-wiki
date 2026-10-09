@@ -42,6 +42,7 @@ The article uses Bloom's cognitive domain, established by Benjamin Bloom in 1956
 ## Related Theories
 
 - [Bloom's Taxonomy as a six-level scheme for classifying the cognitive level of multiple-choice questions](blooms-taxonomy-classifies-mc-question-cognitive-level.md)
+- [Three-domain taxonomy of algebra learning outcomes: conceptual knowledge, procedural knowledge, and procedural flexibility](algebra-outcome-three-domain-taxonomy.md)
 
 ## Examples
 -

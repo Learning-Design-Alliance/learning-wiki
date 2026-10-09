@@ -56,10 +56,14 @@ Literacy First (formerly AmeriCorps for Community Engagement and Education, then
 - [Early Steps one-to-one first-grade tutoring program](early-steps-one-to-one-tutoring-program.md)
 - [Reading Go! (formerly Reading Rescue) one-on-one early literacy tutoring program](reading-go-tutoring-program.md)
 - [Blueprint Math Fellows program: daily in-school group math tutoring by AmeriCorps volunteers with a web-based learning platform](blueprint-math-fellows-program-element.md)
+- [Math Corps tutoring program](math-corps-tutoring-program-element.md)
+- [Reading Corps supplemental tutoring program](reading-corps-tutoring-program.md)
+- [Reading Partners one-to-one volunteer tutoring program](reading-partners-program-element.md)
 
 ## Examples
 
 - [Identify below-grade-level readers each fall and provide tutoring across the full school year](../strategies/fall-identification-yearlong-tutoring-strategy.md)
+- [Tiered training and ongoing supervision for volunteer tutors and AmeriCorps members](../strategies/reading-partners-tiered-tutor-training-strategy.md)
 
 ## Key Sources
 - Literacy First program description and evaluation summary. (2021). https://literacyfirst.org

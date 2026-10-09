@@ -45,3 +45,7 @@ Documentary design rationale from the report's assessment-target section: the au
 ## Related Claims
 - [Empirical progression research is uneven across historical thinking dimensions: most research covers causal reasoning and sourcing, while contextualization and comparison remain thin](uneven-progression-research-across-dimensions.md) — related
 - [Two rubric dimensions (claims and evidence, comparison) showed low inter-scorer consistency in the pilot](hts-rubrics-low-consistency-claims-evidence-comparison.md) — related
+- [The historical thinking rubrics were developed with construct and validity evidence from the literature and teacher/reviewer review](historical-thinking-rubrics-validity-evidence.md) — a broader claim this one bears on
+- [Rubric dimensions were revised in 2023 to sharpen argumentation, contextualization, and Level 1 descriptions](rubric-2023-revisions-argumentation-contextualization.md) — related
+- [World History Project students show comparable competency to comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
+- [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related

@@ -45,3 +45,4 @@ Finding from the evidence standards section. In the absence of evidence, some di
 - [Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution](arts-sel-evidence-base-rigor-gap.md) — related
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related
 - [Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used](privacy-compliance-over-rigorous-safeguards.md) — related
+- [Without clear quality signals, district boards default to the lowest bid when comparing edtech products](lowest-bid-default-without-quality-signals.md) — related

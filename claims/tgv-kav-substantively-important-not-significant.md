@@ -48,3 +48,4 @@ In the same randomized controlled trial, the student protective factor survey to
 - [WWC improvement indices for Too Good for Violence are +18 percentile points for behavior and +16 for knowledge, attitudes, and values](tgv-improvement-indices-18-16.md) — related
 - [Too Good for Violence produces statistically significant positive effects on elementary students' behavior 20 weeks after the program ends](tgv-significant-behavior-effects-20-weeks.md) — related
 - [The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)](core-plus-sat-math-substantively-important.md) — related
+- [The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points](effect-size-025-substantively-important-threshold.md) — a broader claim this one bears on

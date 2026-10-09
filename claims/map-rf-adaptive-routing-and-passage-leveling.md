@@ -65,3 +65,4 @@ Design rationale from Section 1.3.3 on gauging improvements in oral reading. The
 - [Sentence Reading Fluency performance routes students between oral reading and foundational skills tracks](sentence-reading-fluency-routing-threshold.md) — related
 - [MAP Reading Fluency administered at scale, with 407,964 students receiving Foundational Skills scores and 277,920 receiving Oral Reading Fluency scores in 2020–2021](map-rf-2020-21-operational-scale.md) — related
 - [NWEA claims MAP Reading Fluency's mechanisms of change are hypothesized to lead to all students reading fluently with comprehension](map-rf-theory-action-overarching-goal.md) — related
+- [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — related

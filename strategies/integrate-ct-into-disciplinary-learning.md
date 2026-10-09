@@ -44,6 +44,7 @@ The guide recommends that educators embed computational thinking into topics the
 - [Build computational thinking skills in the younger grades through plugged and unplugged activities](develop-ct-skills-younger-grades.md)
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Integrate computational thinking into PreK-8 core subject matter rather than relying on stand-alone clubs and classes](prek-8-ct-integration-over-stand-alone.md)
+- [Integrate AI assistants with existing curricula and teaching practices rather than replacing instruction](ai-assistant-integrate-existing-instruction.md)
 
 ## Examples
 -

@@ -94,3 +94,4 @@ Uchihara et al. (2019) support the direction of this claim for second-language l
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — related
 - [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](low-salience-elements-need-extensive-practice.md) — related
+- [The probability that students learn new words incidentally while reading is low—about 15 percent—motivating explicit vocabulary instruction](incidental-word-learning-while-reading-about-15-percent.md) — related

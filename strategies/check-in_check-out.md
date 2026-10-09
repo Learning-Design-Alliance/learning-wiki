@@ -60,9 +60,11 @@ CICO works because it combines high-frequency adult attention, explicit behavior
 6. Review point data weekly; fade support (self-monitoring, fewer check-ins) once goals are met consistently, or intensify for non-responders ([Fading](../elements/fading.md))
 
 ## Related Strategies
+
 - [Check-Ins](../elements/check-in.md) — the brief structured meeting that anchors each end of the daily cycle
 - [Positive Behavioral Interventions and Supports](../patterns/positive-behavioral-interventions-and-supports.md) — the multi-tiered framework in which CICO is the standard Tier 2 support
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the self-monitoring exit path that CICO gradually shifts toward
+- [Use behavior ratings to provide feedback to students](use-behavior-ratings-provide-feedback.md)
 
 ## Examples
 - **[PBIS CICO](https://www.pbis.org)** — The national PBIS Technical Assistance Center publishes standard CICO point-card templates, fidelity checklists, and fading guidance used across thousands of US schools.

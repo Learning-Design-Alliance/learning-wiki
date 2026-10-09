@@ -62,10 +62,12 @@ The approach works because it distributes cognitive load across the composing cy
 7. Assess growth through portfolios and [Enhance Retention and Transfer](../elements/enhance-retention-and-transfer.md) by applying the cycle to new genres
 
 ## Related Strategies
+
 - **Strategy Instruction in Writing (SRSD)** — adds explicit self-regulation strategies to the process cycle; the two combine well
 - **Sentence Combining** — a high-impact embedded mini-lesson technique within the approach
 - **Writers' Workshop** — the most common classroom structure for enacting the approach
 - **Peer Review / Feedback Protocols** — structures that make peer feedback reliable
+- [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — high writing volume is the fluency engine of the approach

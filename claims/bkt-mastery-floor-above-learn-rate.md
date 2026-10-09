@@ -49,3 +49,4 @@ Analytical derivation (Section 4.1 and Appendix A) of the BKT posterior and limi
 - [The identifiability problem of the BKT HMM arises because combinations of P(G) and P(L0) with the same product A give identical functional forms](bkt-identifiability-explained-by-parameter-a.md) — related
 - [BKTransformer's generated parameters evolve intuitively with student response sequences, supporting interpretability of mastery and correctness predictions](bkt-parameter-evolution-interpretability.md) — reports the opposite
 - [The Knowledge Tracing Algorithm does not suffer the identifiability problem: all four parameters affect its behavior separately](kt-algorithm-no-identifiability-problem.md) — related
+- [CLST's predicted mastery levels track response correctness and move similarly for related knowledge components](clst-mastery-tracks-correctness-and-related-kcs.md) — related

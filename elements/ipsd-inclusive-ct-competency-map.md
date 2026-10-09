@@ -46,6 +46,7 @@ The IPSD Inclusive CT Pathway centers on a competency map identifying six CT com
 
 - [CT Pathways Toolkit for district design of K-12 CS/CT pathways](ct-pathways-toolkit.md)
 - [ICCSD Inclusive CT Pathways competency map with five key competencies](iccsd-inclusive-ct-pathways-competency-map.md)
+- [Talladega Inclusive CT Pathways document and competency map](talladega-inclusive-ct-pathways-document.md)
 
 ## Examples
 

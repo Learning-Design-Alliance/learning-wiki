@@ -44,3 +44,4 @@ October 2016 Maker Promise Champions Survey completed by 201 maker champions, th
 
 ## Related Claims
 - [Upper elementary and middle grades have much more access to maker learning than early elementary and high school students](maker-learning-grade-level-access-skew.md) — related
+- [Maker Champions are predominantly white, female, and in-school educators, indicating maker learning is initiated at the grassroots level](maker-champions-demographics-grassroots.md) — possibly the same claim (merge candidate)

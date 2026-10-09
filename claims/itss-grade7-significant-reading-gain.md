@@ -46,3 +46,4 @@ Randomized study in which "Teachers and their classrooms were randomly assigned 
 - [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](itss-grade4-positive-nonsignificant.md) — related
 - [ITSS significantly improves Grade 5 reading comprehension after 6 to 7 months of implementation (effect size +0.20)](itss-grade5-significant-reading-gain.md) — related
 - [ITSS qualifies for a Strong evidence rating based on multiple randomized studies with average effect sizes of +0.15 (elementary) and +0.18 (secondary)](itss-strong-evidence-rating.md) — a broader claim this one bears on
+- [In the grade 7 cluster RCT, ITSS produced statistically significant positive effects on all eight comprehension outcomes (average effect size 0.23)](itss-grade7-rct-comprehension-gains.md) — related

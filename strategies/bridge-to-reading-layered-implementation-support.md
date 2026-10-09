@@ -48,6 +48,7 @@ In the evaluated studies, implementation was supported through a sequence of pro
 - [Support implementation with initial Science of Reading training plus PLC-based lesson study](sor-pd-plc-lesson-study-implementation-support.md)
 - [Support implementation with initial Science of Reading training plus PLC-based lesson study and model lessons](plc-lesson-study-implementation-support.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
+- [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 
 ## Examples
 -

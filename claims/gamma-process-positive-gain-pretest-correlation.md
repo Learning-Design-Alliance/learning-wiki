@@ -68,3 +68,4 @@ The article's summary of existing experimental studies (Section IV) documenting 
 - [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related
 - [Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score](normalized-gain-pretest-uncorrelated-alpha-process.md) — related
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
+- [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — reports the opposite

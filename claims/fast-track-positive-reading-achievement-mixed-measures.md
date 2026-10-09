@@ -46,3 +46,4 @@ Findings from the same RCT (Conduct Problems Prevention Research Group, 1999a) a
 - [Fast Track showed positive, statistically significant effects on some external behavior measures after one year, with no significant differences on eight other measures](fast-track-external-behavior-mixed-measures.md) — related
 - [SMART® tutoring produced a statistically significant positive effect on first-graders' word identification after two years of intervention](smart-significant-word-identification-effect.md) — related
 - [Repeated reading shows no discernible effects on alphabetics for students with learning disabilities](repeated-reading-no-discernible-alphabetics-effects.md) — related
+- [Enhanced math instruction adapted to after-school settings produced modest but statistically significant math gains after one year, while enhanced reading instruction showed no differences](enhanced-academic-instruction-math-gains-reading-null.md) — related

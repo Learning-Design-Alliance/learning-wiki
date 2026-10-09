@@ -51,3 +51,4 @@ Kindergarten follow-up from the PCER Consortium (2008) randomized controlled tri
 - [In the PCER study, Curiosity Corner showed non-significant positive effects on immediate reading and phonological measures](curiosity-corner-pcer-immediate-null-effects.md) — related
 - [Two cluster randomized experiments with 225 students rate Curiosity Corner as Promising with an average kindergarten follow-up effect of +0.33](curiosity-corner-promising-evidence-rating.md) — related
 - [REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency](redi-kindergarten-followup-faded-effects.md) — related
+- [Randomized trials of Success for All find significant positive impacts on K-2 early reading, strongest for students starting with lower achievement](sfa-rcts-significant-early-reading-impacts.md) — related

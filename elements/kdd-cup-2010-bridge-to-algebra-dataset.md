@@ -43,6 +43,7 @@ The KDD Cup 2010 Bridge to Algebra dataset, donated by Carnegie Learning and dow
 ## Related Elements
 
 - [Four large-scale real-world sequential knowledge tracing benchmark datasets used to evaluate Adaptive G-UKT](adaptive-g-ukt-benchmark-datasets.md)
+- [PSLC DataShop public repository of online learning data](pslc-datashop-public-repository.md)
 
 ## Examples
 -

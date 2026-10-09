@@ -43,6 +43,7 @@ The report recommends supporting implementation with structured cadences such as
 - [Deliver A2i professional development through a 90-minute launch session, grade-team Literacy Huddles, and individualized coaching sessions over a 3-year rollout](a2i-pd-huddles-coaching-rollout.md)
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
+- [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 
 ## Examples
 -

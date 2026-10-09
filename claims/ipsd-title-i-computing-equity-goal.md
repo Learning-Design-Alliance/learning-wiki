@@ -45,3 +45,4 @@ Descriptive statement of the district's project goal from the case brief: IPSD a
 ## Related Claims
 - [IPSD piloted its CT competency map in 2019-2020 in schools including a subset of its Title I equity-goal schools, paired with professional development](ipsd-competency-map-pilot-title-i-pd.md) — related
 - [ICCSD implemented PLTW computing curricula at a growing set of schools, with COVID-19 slowing progress in Years 2 and 3](pltw-implementation-iccsd-covid-slowdown.md) — related
+- [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](talladega-disparities-persisted-despite-pathway.md) — related

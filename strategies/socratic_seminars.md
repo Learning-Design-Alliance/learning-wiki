@@ -61,9 +61,12 @@ Socratic Seminars operationalize dialogic teaching: learning happens through the
 5. **Debrief.** Close with meta-discussion: what moved the dialogue forward, what questions remain open, and — for outer-circle observers — feedback on participation and reasoning quality.
 
 ## Related Strategies
+
 - [Debate](debate.md) — a more adversarial structure with assigned positions; seminars favor collaborative meaning-making over winning
 - [Case-Based Learning](case-based-learning.md) — similarly text-anchored discussion, but oriented toward decision-making rather than interpretation
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a low-stakes rehearsal structure that prepares hesitant students for seminar participation
+- [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
+- [Prepare teachers and students with awareness, vocabulary, and facilitation knowledge before implementing Socratic Circles](prepare-teachers-students-before-socratic-circles.md)
 
 ## Examples
 - **Paideia Seminars** ([National Paideia Center](https://www.paideia.org)) — the most widely implemented formalization, using K–12 texts and the inner/outer circle protocol with trained facilitators.

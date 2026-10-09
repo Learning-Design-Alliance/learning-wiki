@@ -42,7 +42,8 @@ The review describes, citing Chan (2023), an "AI Ecological Education Policy Fra
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](../claims/integrity-equity-concerns-span-all-units.md) [+W]
 
 ## Related Theories
-- 
+
+- [Six-topic taxonomy for guiding GenAI responsible use policy content](six-topics-genai-responsible-use-policy-taxonomy.md)
 
 ## Examples
 -

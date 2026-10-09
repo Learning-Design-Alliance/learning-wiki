@@ -46,6 +46,7 @@ Core-Plus Mathematics is a four-year high school curriculum replacing the tradit
 ## Related Elements
 
 - [Core-Plus Mathematics integrated high school curriculum](core-plus-mathematics-integrated-curriculum.md)
+- [Cognitive Tutor® secondary mathematics curriculum (Carnegie Learning)](cognitive-tutor-secondary-mathematics-curriculum.md)
 
 ## Examples
 -

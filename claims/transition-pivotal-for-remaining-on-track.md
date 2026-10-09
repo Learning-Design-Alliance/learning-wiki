@@ -48,3 +48,4 @@ The article's opening background claim, attributed to existing research rather t
 - [Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools](nlci-freshman-ontrack-not-consistently-higher.md) — related
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — a broader claim this one bears on
 - [The on-track–graduation relationship remains strong after accounting for student background characteristics](on-track-relationship-holds-after-background-controls.md) — a broader claim this one bears on
+- [Students often slip off track during transition years (6th and 9th grade) even when they previously performed well](transition-years-slipping-off-track.md) — related

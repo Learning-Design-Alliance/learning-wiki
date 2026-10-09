@@ -51,3 +51,4 @@ Finding from the report's analyses of school-level supports, using three-level h
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related
 - [An innovation and improvement space in local school communities brought forward new leaders](local-innovation-space-new-leaders.md) — related
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
+- [The LEAD Partnership delivers professional development on play-based learning and high-quality teacher-student interactions to school leaders and preK and kindergarten teachers](lead-pd-play-based-learning-high-quality-interactions.md) — related

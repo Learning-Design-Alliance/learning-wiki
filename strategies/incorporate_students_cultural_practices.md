@@ -67,6 +67,7 @@ Culturally responsive teaching improves engagement and achievement when cultural
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — student choice structures that let learners connect work to their identities
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — elicitation routines for home and community knowledge
 - [Incorporate culturally responsive strategies into adult immigrant instruction](culturally-responsive-strategies-adult-immigrant-instruction.md)
+- [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 
 ## Examples
 - **Funds of Knowledge project (Moll et al., Tucson, AZ)** — Teachers visited students' households, documented community knowledge (farming, mechanics, carpentry), and built math and literacy lessons around those practices.

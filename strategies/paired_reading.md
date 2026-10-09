@@ -60,9 +60,11 @@ Paired reading works because it combines [Modeling](../elements/modeling.md) wit
 6. End with a short comprehension exchange — a retell or a question — so fluency work stays connected to meaning.
 
 ## Related Strategies
+
 - Repeated reading — paired reading is often combined with rereading the same passage; the pairing supplies the modeling that solo repeated reading lacks
 - Choral reading — a whole-group variant useful for building a shared prosodic model before dyadic work
 - [Think-Aloud](../elements/think-aloud.md) — the comprehension-side complement: modeling thinking rather than pronunciation
+- [Schedule about 90 minutes a week of structured peer-assisted learning in which pairs of students at different ability or proficiency levels work together on academic tasks](structured-peer-assisted-learning-pairs-90-minutes.md)
 
 ## Examples
 - **Paired Reading (Topping, 1987)** — the widely replicated parent-tutor protocol in which the child signals to read alone; implemented at scale in UK and US home-reading programs.

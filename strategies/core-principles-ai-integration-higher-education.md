@@ -44,6 +44,7 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 
 - [Seven research priorities for AI in learning, spanning expanded scenarios, teacher assistance, assessment, responsible AI, equity policy, stakeholder engagement, and ecosystem strengthening](seven-ai-learning-research-recommendations.md)
 - [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
+- [Establish an inclusive AI task force before revising responsible use policies](ai-task-force-before-policy-revision.md)
 
 ## Related Principles
 - 

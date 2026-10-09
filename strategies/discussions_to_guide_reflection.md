@@ -60,8 +60,10 @@ Reflection discussions work because verbalizing reasoning forces the reorganizat
 6. **Close with a commitment.** Ask learners to name one thing they will do differently next time, converting reflection into an actionable plan ([Action Planning](action_planning.md)).
 
 ## Related Strategies
+
 - [Active Listening](active_listening.md) — the facilitation skill that keeps reflection discussions probing rather than evaluating
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the written, individual counterpart; pairing written and oral reflection raises both
+- [Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing](stop-and-reflect-moments-ai-thinking.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — small groups take turns leading discussion of a text, articulating predicting, questioning, clarifying, and summarizing moves; the discussion makes comprehension strategies visible and reflective.

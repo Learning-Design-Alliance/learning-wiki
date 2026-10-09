@@ -66,3 +66,4 @@ A meta-analysis of 52 studies (125 effects) of whole-classroom reading-strategy 
 - [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — related
 - [Synthesis and Evaluation subtests measure general mental ability rather than knowledge for lower grades or unfamiliar content](synthesis-evaluation-measure-general-ability-lower-grades.md) — related
 - [Integrating literacy and science within authentic real-world experiences can produce greater learning in both areas than teaching either separately](integrated-literacy-science-greater-learning-than-separate.md) — reports the opposite
+- [Multiple-strategy comprehension training appears to produce better comprehension than single-strategy training](multiple-strategy-training-better-comprehension-than-single-strategy.md) — related
