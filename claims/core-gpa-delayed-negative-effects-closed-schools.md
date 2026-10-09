@@ -46,3 +46,5 @@ Multi-year administrative-data analysis of core GPA (English, math, science, soc
 - [Students from closed schools scored roughly one and a half months behind in reading and two months behind in math in the spring of the announcement year](closed-school-test-scores-lower-announcement-year.md) — related
 - [School closures had no effect on absences or suspension rates for affected students](closures-no-effect-absences-suspensions.md) — related
 - [Students with the same absence rates had higher GPAs (and in grades 7-8, higher test scores) in post-pandemic years than pre-pandemic years](higher-gpas-same-absence-post-pandemic.md) — related
+- [Core GPA was unaffected immediately after closures, but closed-school students who were in grades 3-5 in the announcement year showed negative GPA effects three and four years post-closure](delayed-gpa-effects-grades-3-5-closed-schools.md) — possibly the same claim (merge candidate)
+- [Test scores of students in both closed and welcoming schools were negatively affected, with closed-school students showing the largest negative effect](test-scores-negatively-affected-closed-and-welcoming-schools.md) — related

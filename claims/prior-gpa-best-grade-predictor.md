@@ -48,3 +48,4 @@ Finding from the NGCC impact analyses comparing predictors of course grades acro
 - [Differences in grading practices across teachers and schools are small relative to students' actual academic preparation, and GPAs average out those differences](grading-differences-small-gpa-averages-teacher-differences.md) — a broader claim this one bears on
 - [Contextualized high school GPA had a stronger relationship with college success than contextualized standardized test scores (Bastedo et al., attributed)](contextualized-gpa-stronger-than-contextualized-test-scores.md) — related
 - [Studies finding grades less predictive often use restricted samples or weighted or self-reported GPAs, which are less accurate](restricted-samples-explain-divergent-grade-predictions.md) — related
+- [Course grades are more predictive than standardized test scores of high school and college success](grades-more-predictive-than-test-scores.md) — related

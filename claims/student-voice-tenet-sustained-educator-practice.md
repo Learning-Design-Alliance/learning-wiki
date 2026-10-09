@@ -48,3 +48,4 @@ Thematic coding of spring 2023 interviews and focus groups across the four pilot
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [Student assessors led the pilot assessment of the Centering Students' Diverse Lived Experiences badge, shifting evaluation power toward student voice](student-assessors-led-csdle-pilot-assessment.md) — related
+- [Eleven of 33 state guidance documents mention co-design or feedback loop structures, and 27 include student, teacher, parent, and community voices](states-co-design-voice-counts.md) — related

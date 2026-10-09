@@ -51,6 +51,7 @@ The article identifies teacher development as a condition for sustained implemen
 - [Sustain a faculty community of practice for creative problem-solving pedagogy](../strategies/monthly-faculty-meetings-creative-pedagogy-development.md)
 - [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](../strategies/sustained-pbis-professional-development-coaching.md)
 - [Provide welcoming schools with more ongoing training, time for reflection, and targeted support when integrating displaced students and staff](../strategies/ongoing-training-support-welcoming-school-integration.md)
+- [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](../strategies/educator-ai-development-support-programs.md)
 
 ## Key Sources
 - Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016

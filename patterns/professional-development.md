@@ -149,6 +149,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](../strategies/coaching-framework-discussion-guide-grid-questions.md)
 - [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](../strategies/layered-tutor-professional-development-support.md)
 - [Instructional Commons: record and disseminate top teachers' full-year instruction for peer-to-peer professional use](../strategies/instructional-commons-recorded-top-teacher-lessons.md)
+- [Sustained classroom-embedded professional development through demonstration teachers](../strategies/demonstration-teachers-classroom-embedded-pd.md)
 
 ## Key Sources
 - Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). Effective teacher professional development. *Learning Policy Institute*. [doi:10.54300/122.311](https://doi.org/10.54300/122.311)

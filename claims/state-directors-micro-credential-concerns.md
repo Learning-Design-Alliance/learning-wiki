@@ -50,3 +50,4 @@ From the same NASDTEC survey reported in the brief: one-third of responding stat
 - [At least ten state education agencies have launched official micro-credential pilots, with Tennessee's pilot reaching almost 800 educators](state-micro-credential-pilots-adoption.md) — related
 - [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
 - [More than 90 percent of teachers reported monetary bonuses and stipends for time spent would be definitely or very motivating for completing another micro-credential](monetary-incentives-motivating-micro-credentials.md) — related
+- [Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy](microcredential-motivation-and-risks.md) — related

@@ -56,3 +56,4 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [Black and Hispanic students attained postsecondary readiness and success outcomes at substantially lower rates than White students](black-hispanic-lower-postsecondary-outcomes.md) — related
 - [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](condensed-eot-race-gender-equity-gaps.md) — related
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — possibly the same claim (merge candidate)
+- [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related

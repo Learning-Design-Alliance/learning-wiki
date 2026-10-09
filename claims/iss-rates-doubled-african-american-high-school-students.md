@@ -49,3 +49,4 @@ Trend analysis of CPS administrative data on in-school suspensions by race and g
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
 - [At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school](african-american-boys-suspended-13-points-higher.md) — related
 - [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
+- [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related

@@ -51,3 +51,7 @@ Descriptive table of six-year college completion rates among immediate enrollees
 - [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related
+- [Among 2014 CPS graduates who immediately enrolled in a bachelor's-degree-granting institution, 30% completed within four years versus 51% within six years](cps-2014-four-vs-six-year-completion-30-51.md) — related
+- [College completion among CPS 2017 immediate enrollees shows large disparities by race/ethnicity and gender, with fewer than one-third of Black and Latino young men completing a bachelor's degree](cps-2017-completion-disparities-race-gender.md) — related
+- [A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate](cps-2018-record-college-graduates.md) — related
+- [Four- versus six-year completion gaps of 15–25 percentage points appeared across academic and demographic groups, with Black young men at 13% four-year and 31% six-year completion](student-characteristics-completion-gaps.md) — related

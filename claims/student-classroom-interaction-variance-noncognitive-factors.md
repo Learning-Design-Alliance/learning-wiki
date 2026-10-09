@@ -46,3 +46,4 @@ Variance partitioning from empty multilevel models (Table 2) of BEL-S data from 
 - [Classroom environment is positively associated with students' self-reported motivation and other noncognitive factors within students](classroom-environment-relates-to-noncognitive-factors.md) — related
 - [Over a quarter of variance in student growth lies at the school level, and 12-16% of schools significantly overperform average growth](school-level-growth-variation-overperformers.md) — related
 - [Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes](within-student-noncognitive-factors-relate-to-grades.md) — related
+- [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — related

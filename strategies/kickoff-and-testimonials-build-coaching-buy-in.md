@@ -39,6 +39,7 @@ This strategy addresses the first administrator action in the report: building t
 ## Related Strategies
 
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
+- [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ The brief's key findings state that message recipients "were more likely to take
 - [Survey data indicate the ability signal had informational value, leading students to revise self-assessed ability and AP plans consistent with Bayesian learning](ability-signal-informational-value-bayesian-updating.md) — related
 - [Students who received the ability signal enrolled in and passed about one more AP course the following year](ability-signal-one-more-ap-course.md) — related
 - [The evidence base for offering a college-ready curriculum is rated low, with mixed findings on rigorous curricula and positive findings on AP course taking](college-ready-curriculum-low-evidence.md) — related
+- [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related

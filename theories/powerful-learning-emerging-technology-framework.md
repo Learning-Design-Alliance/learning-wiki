@@ -48,6 +48,7 @@ The framework positions emerging technologies as a resource that educators, care
 - [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](../strategies/discourage-mental-offloading-balance-guidance-application.md)
 - [Support learners to evaluate AI outputs by verifying sources, reporting errors, and overriding recommendations](../strategies/evaluate-ai-outputs-verify-override.md)
 - [Have learners bring their own thinking before using generative AI to enable productive struggle](../strategies/own-thinking-before-generative-ai-productive-struggle.md)
+- [Set clear AI guardrails positioning AI as a complement to human instruction with age-appropriate progressions](../strategies/ai-guardrails-complement-human-instruction.md)
 
 ## Key Sources
 - Pattenhouse, M.*, Noakes, S.*, Mills, K., Shell, A., & Vollavanh, A. (2025, November). Framework for Powerful Learning with Emerging Technology. Digital Promise. https://doi.org/10.51388/20.500.12265/275

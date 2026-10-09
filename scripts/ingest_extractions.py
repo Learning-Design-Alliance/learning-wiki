@@ -469,7 +469,7 @@ def ingest_record(record: dict, actor: str, dry_run: bool, candidates: list = No
     """Returns a list of (folder, slug) pages actually written (or that
     WOULD be written, in dry-run mode).
 
-    With `candidates` (a list), a principle or pattern contribution is not
+    With `candidates` (a list), a principle, pattern, element or theory contribution is not
     written as a page: its ledger row is appended to that list instead, for
     candidates_lib to record and settle_candidates.py to settle (2026-10-07)."""
     written = []
@@ -714,7 +714,7 @@ def gate_citations(pages: list) -> dict:
 _MD_LINK_RE = re.compile(r"\[([^\]]*)\]\(((?:\.\./[\w-]+/)?[^)\s#/]+\.md)(#[^)]*)?\)")
 
 
-def repair_cross_folder_links(paths: list) -> dict:
+def repair_cross_folder_links(paths: list, pending: set = frozenset()) -> dict:
     """Re-point links whose target is not where the renderer assumed.
 
     A contribution's `related` list names sibling slugs without a type, and
@@ -726,7 +726,11 @@ def repair_cross_folder_links(paths: list) -> dict:
 
     A slug found in exactly one content folder is re-pointed there. A slug
     in several is ambiguous, so the link is dropped and its text kept:
-    picking one of several same-named pages is a guess."""
+    picking one of several same-named pages is a guess.
+
+    A link to a `pending` (folder, slug), an element or theory this run put in the
+    candidate ledger, is left as written: settle_candidates.py resolves it once the
+    candidate is decided (to the page it attaches to, its design page, or no link)."""
     where = {}
     for f in ok.CONTENT_FOLDERS:
         for q in (WIKI_ROOT / f).glob("*.md"):
@@ -742,6 +746,8 @@ def repair_cross_folder_links(paths: list) -> dict:
             if (path.parent / dest).resolve().exists():
                 return m.group(0)
             slug = Path(dest).stem
+            if ((path.parent / dest).resolve().parent.name, slug) in pending:
+                return m.group(0)
             locs = where.get(slug, [])
             if len(locs) == 1:
                 stats["repointed"] += 1
@@ -788,6 +794,7 @@ def main() -> None:
                                     # ones, so a validation-failure isn't re-generated later either.
     n_skipped_validation = 0
     n_candidates = 0
+    pending = set()   # (folder, slug) of element/theory candidates, for repair_cross_folder_links
     for path in result_files:
         record = json.loads(path.read_text(encoding="utf-8"))
         article_id = record["article_id"]
@@ -867,6 +874,8 @@ def main() -> None:
         if cands and not args.dry_run:
             cand_ids = cl.append_candidates(cands) or [c["id"] for c in cands]
             n_candidates += len(cands)
+            pending |= {(TYPE_TO_FOLDER[c["type"]], c["slug"]) for c in cands
+                        if c.get("type") in ("element", "theory")}
         if (written or cand_ids) and not args.dry_run:
             page_paths = [f"{folder}/{slug}.md" for folder, slug, *_ in written]
             citations = gate_citations(page_paths) if page_paths else {"checked": False, "removed": [], "flagged": []}
@@ -898,14 +907,14 @@ def main() -> None:
         }
 
     print(f"\n{len(all_written)} page(s) {'would be ' if args.dry_run else ''}written, "
-          f"{n_candidates} principle/pattern candidate(s) added to {cl.CANDIDATES.relative_to(WIKI_ROOT)}, "
+          f"{n_candidates} principle/pattern/element/theory candidate(s) added to {cl.CANDIDATES.relative_to(WIKI_ROOT)}, "
           f"{n_skipped_validation} article(s) skipped (failed structural validation).")
 
     if args.dry_run:
         return
 
     if all_written:
-        stats = repair_cross_folder_links([f"{f}/{s}.md" for f, s, _, _ in all_written])
+        stats = repair_cross_folder_links([f"{f}/{s}.md" for f, s, _, _ in all_written], pending)
         print(f"\nCross-folder links: {stats['repointed']} re-pointed, {stats['unlinked']} ambiguous "
               "and unlinked.")
         print("\nRegenerating index.md files...")

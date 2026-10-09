@@ -45,3 +45,5 @@ Analysis of pathways in the Bryk et al. (2010) model using administrative and su
 ## Related Claims
 - [School learning climate is the only process through which high school leadership accounts for differences across schools in instructional quality and achievement](learning-climate-only-cross-school-pathway.md) — related
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — a broader claim this one bears on
+- [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related
+- [Principals' strongest impact on student learning comes through building a positive, measurable, and malleable school climate](principal-impact-through-school-climate.md) — possibly the same claim (merge candidate)

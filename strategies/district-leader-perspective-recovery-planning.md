@@ -43,6 +43,7 @@ The webinar deliberately pairs research and policy with ground-level district pr
 - [Use federal COVID-19 aid, including the American Recovery Plan influx, to transform education for students with disabilities](use-federal-arp-aid-to-support-students-with-disabilities.md)
 - [Educational leaders should weigh the demographic shift in tested students and other contextual data when planning student growth and recovery support](consider-demographic-shift-and-contextual-data-in-recovery-planning.md)
 - [District leaders use a recommendations framework to plan and implement effective summer programming](district-leader-summer-programming-planning-framework.md)
+- [Surface best practices for crisis-era learning support from district, school, and teacher leaders' perspectives](surface-best-practices-from-local-leader-perspectives.md)
 
 ## Examples
 -

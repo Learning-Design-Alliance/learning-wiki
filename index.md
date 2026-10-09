@@ -21,10 +21,10 @@ Instructional building blocks — the components you compose into patterns.
 ### [Patterns](patterns/index.md) (126)
 Reusable instructional designs at the lesson or unit level.
 
-### [Designs](designs/index.md) (252)
+### [Designs](designs/index.md) (265)
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-### [Strategies](strategies/index.md) (4429)
+### [Strategies](strategies/index.md) (4505)
 Concrete teaching activity recipes — specific, implementable approaches.
 
 ### [Design Processes](processes/index.md) (18)
@@ -39,7 +39,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (12)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (10160)
+### [Claims](claims/index.md) (10549)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---

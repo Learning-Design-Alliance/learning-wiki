@@ -91,3 +91,5 @@ Theoretical argument about risk and uncertainty in the cost section, with no dat
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
 - [Teachers in the Eastern KY project reported in a 2022 survey that they no longer perceive barriers to integrating computational thinking into their classrooms](eky-teachers-no-longer-perceive-ct-barriers-2022.md) — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
+- [Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers](four-challenges-ai-literacy-implementation.md) — related
+- [Teachers face many barriers to integrating CT, but training can help](teacher-barriers-ct-integration-training-helps.md) — related

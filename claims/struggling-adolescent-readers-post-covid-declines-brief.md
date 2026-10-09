@@ -50,3 +50,4 @@ The page's description of the technical appendix to a research brief on struggli
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](middle-school-reading-stagnant-lowest-performers-behind.md) — a narrower finding that bears on this claim
 - [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](k2-academic-recovery-positive-trends-post-covid.md) — related
 - [The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery](nwea-visualization-state-level-covid-insights.md) — related
+- [COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic](covid-losses-concentrated-early-grades-struggling-students.md) — a broader claim this one bears on

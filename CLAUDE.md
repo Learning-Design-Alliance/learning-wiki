@@ -124,6 +124,31 @@ work is done, not that the check is broken.
 **When you finish something wiki-wide, add a line here.** That is how the next session
 finds out.
 
+### 2026-10-09 — batches 16–47 from the hub; elements and theories join the candidate ledger; stopped for scale
+
+- **Batches 16–47 and a Campbell recovery** (PRs #174–#201 and the batch-47 PR) read the hub queue to 1,910 ingested of
+  2,584 queued (507 not yet tried, 136 unfetchable). The AIED queue (1,477) is untouched. From batch 39 a batch is 100
+  entries at concurrency 10 (about $0.45–0.80, long reports up to $2); one driver, never two batches at once.
+- **New fetch routes**: `source_lists.py --campbell` (a Campbell review's DOI by title in Crossref, then its PMC copy, else
+  ERIC: 18 of 51 recovered; Wiley 403s automated PDF downloads); `fetch_article` reads DSpace 7 items
+  (`digitalpromise.dspacedirect.org`, ~280 hub entries) through the REST API's ORIGINAL bundle, since their pages are
+  Angular shells. JavaScript-rendered pages (Campbell, some ESSA) still fail and go to `fetch-failed.ndjson`.
+- **A container restart changes the proxy port, and processes started before it keep the old one**: every model call
+  then fails. After a restart check `/proc/<pid>/environ` against `$HTTPS_PROXY`; stop, `git stash`, and `--resume`.
+- **Elements and theories now go through the candidate ledger** (batches wrote ~0.7 element and ~0.4 theory pages an
+  article, mostly products, programmes and one paper's framework). Settle decides them against a canonical index (pages
+  no batch wrote, plus batch pages with 10+ inbound links: 387 elements, 208 theories) with a new outcome, **`artifact`**
+  (a product, tool, dataset, instrument or one programme's framework: recorded, no page, until the maintainer decides
+  on a kind), and resolves the links the article's own pages made to the candidate. Batch 47, the first run: 0 element
+  and 0 theory pages (against ~65 and ~35 before); of 130 candidates, 88 artifact, 20 attach, 11 design, 9 drop, 1 new.
+- **Stopped for scale (maintainer's scale test, 2026-10-09)**: ~18,800 pages; the published site (702 MB) passes the
+  1 GB Pages limit at ~+5,000 articles; generated JSON and `log.md` grow every batch; only 13% of claims are reachable
+  from a curated page. Do not restart batches until the site is split (static curated tier, dynamic long tail), search
+  moves to Pagefind or the FTS server, generated files are split or rotated, and products/programmes have a kind.
+- **Promotion clusters are mostly not independent**: of 17 reported, 9 pair one author or one report across years
+  (maintainer: "a research agenda, not independence"). Tightening the rule waits for more clusters; research-methods
+  candidates (Schochet, Gill, Kassler) stay open, not pages, until the lists are finished.
+
 ### 2026-10-07 (later) — curated lists come before topic search; batches 14 and 15 from the Learning Agency hub
 
 - **Two curated lists come first** (maintainer): the Learning Agency's Renaissance AI and Education Resource Hub (3,927

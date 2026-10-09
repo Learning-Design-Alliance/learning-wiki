@@ -47,7 +47,8 @@ The College Explorer is a data visualization tool that "links MAP® Growth™ sc
 - [MAP Growth Goal Explorer: a tool for setting fall-to-spring growth goals against academic benchmarks](map-growth-goal-explorer-tool.md)
 
 ## Examples
--
+
+- [Use score-linked college exploration alongside goal setting and parent conferences to build post-secondary plans](../strategies/college-explorer-with-goal-setting-and-parent-conferences.md)
 
 ## Key Sources
 - NWEA Research. (2026). NWEA Research — Publications and Research Partnerships Page. https://www.nwea.org

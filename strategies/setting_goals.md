@@ -56,8 +56,10 @@ Goal-setting theory shows that specific, challenging goals reliably produce high
 6. Adjust subsequent goals based on evidence of understanding rather than proceeding on the original plan
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — goals land better when connected to what learners already know
 - [Achievable Micro-Goals](achievable_micro-goals.md) — decomposing a lesson goal into proximal steps learners can monitor
+- [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — frame where the lesson goal sits in the larger structure

@@ -46,3 +46,4 @@ A math teacher's small-scale classroom survey asked which of three retrieval str
 ## Related Claims
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — reports the opposite
+- [Survey respondents most prefer presenting their information experientially rather than chronologically](experiential-presentation-preferred-chronological.md) — related

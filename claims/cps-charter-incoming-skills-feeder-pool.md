@@ -50,3 +50,4 @@ Descriptive feeder-pool comparison in the Executive Summary comparing charter en
 - [After two years, fewer graduates attended career academies and neighborhood high schools and more attended charter schools; these shifts were no different from comparison schools](success-project-high-school-enrollment-shifts.md) — related
 - [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related
 - [Nearly all CHSRI schools graduated at least as many students as predicted given the students they served](chsri-school-level-graduation-at-or-above-predicted.md) — related
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — related

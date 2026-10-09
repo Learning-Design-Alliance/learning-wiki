@@ -71,3 +71,7 @@ Comparison of EXPLORE benchmark-meeting rates for the 2005 ACT-taking cohort aga
 - [Among students with the same high grades, ACT scores differ substantially by race/ethnicity, a pattern the report flags as possible racial bias](act-score-gaps-by-race-at-same-gpa.md) — related
 - [IDS schools showed no differences in EXPLORE-to-PLAN test score growth compared with the rest of the CPS system](ids-no-growth-difference-explore-plan.md) — related
 - [Test strategies and item practice are not effective mechanisms for raising ACT scores; improvements are smaller the more class time goes to test preparation](test-prep-practice-ineffective-for-act-gains.md) — related
+- [Students who fail to reach an ACT 20 gained only 0.6 points from PLAN to ACT versus 3.3 for those who reached 20, falling behind expected gains](below-20-students-treading-water.md) — a narrower finding that bears on this claim
+- [CPS students' PLAN-to-ACT gains fall well short of national expected gains, dropping 0.5 points below the average expected gain](cps-plan-act-gains-below-expected.md) — a narrower finding that bears on this claim
+- [A ninth-grade EXPLORE composite score of 17 is the tipping point for reaching an ACT score of 20, and can serve as an interim benchmark](explore-17-tipping-point-act-20.md) — related
+- [Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground](good-grades-predict-act-gains.md) — related

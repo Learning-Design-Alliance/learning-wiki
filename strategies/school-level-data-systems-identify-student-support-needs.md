@@ -42,6 +42,7 @@ The chapter recommends that schools build systems for monitoring student data so
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](early-indicators-online-system-process-data.md)
 - [Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions](dropout-data-systems-diagnosis-strategy.md)
+- [Attend to both SEL status and SEL growth when identifying students who may need supports to stay on track to graduate](use-both-sel-status-and-growth-for-early-warning.md)
 
 ## Examples
 -

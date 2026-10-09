@@ -60,3 +60,9 @@ Observational analysis of CPS administrative data (2009-11 cohorts) using models
 - [Among students with the same ACT scores (21-23), college graduation rates are 77 percent for those with a high school GPA of 3.5 or higher versus 40 percent for those with a GPA of 2.0-2.4](gpa-outpredicts-act-college-graduation.md) — related
 - [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related
 - [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](condensed-eot-attendance-support-below-average-graduation.md) — related
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — related
+- [Freshman-year GPA alone correctly predicts about 80 percent of on-time high school graduates](freshman-gpa-predicts-80-percent-ontime-graduation.md) — related
+- [Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground](good-grades-predict-act-gains.md) — related
+- [High school GPA is a better predictor of college graduation than standardized test scores, yet districts continue to rely on test-based readiness benchmarks](gpa-better-predictor-than-test-scores.md) — related
+- [Course grades are more predictive than standardized test scores of high school and college success](grades-more-predictive-than-test-scores.md) — related
+- [Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college](sel-value-added-graduation-college-enrollment.md) — related

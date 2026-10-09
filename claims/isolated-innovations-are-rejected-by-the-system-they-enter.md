@@ -85,3 +85,4 @@ In its Succeeding Systemically section, the digest asserts, drawing on the class
 - [Discontinuity: breakthrough innovations introduce new models that depart from dominant approaches](breakthrough-discontinuity-departs-dominant-approaches.md) — related
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — a narrower finding that bears on this claim
 - [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — a narrower finding that bears on this claim
+- [K-12 stakeholders across sectors report enthusiasm for competency-based learning, assessment, and recognition technologies](cross-sector-enthusiasm-competency-recognition-k12.md) — related

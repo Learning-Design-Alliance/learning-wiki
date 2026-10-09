@@ -45,3 +45,4 @@ The scan's introduction reports workforce statistics compiled from research repo
 - [Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers](skills-based-hiring-widens-talent-pool.md) — related
 - [An analysis of 10,000 tech entrepreneurs and 135 venture capital firms found only 1% of venture-funded tech projects went to Black individuals](venture-funding-one-percent-black-entrepreneurs.md) — related
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
+- [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related

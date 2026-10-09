@@ -47,3 +47,4 @@ School selection criteria for the case studies, based on prior CCSR quantitative
 - [CHSRI freshmen were absent about 10 fewer days per year than similar students at similar non-CHSRI schools, a statistically significant gap in every year studied](chsri-freshmen-fewer-absences.md) — related
 - [CHSRI freshman on-track rates were typically higher than similar students' but the difference was not statistically significant and converged by 2007-08](chsri-on-track-rates-converged.md) — related
 - [Students entering RSF-supported schools had prior reading and mathematics achievement similar to peers who remained at their sending schools, with a few exceptions](rsf-students-prior-achievement-similar-to-sending-peers.md) — related
+- [Students attending higher-performing Chicago high schools have lower GPAs, on average, than similar students at lower-performing schools](lower-gpas-at-higher-performing-schools.md) — reports the opposite

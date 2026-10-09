@@ -47,3 +47,4 @@ An authorial position stated in the Integration section of the Overview, not a t
 - [Training amount related to role awareness (r=.225, p<.01), but regression showed role awareness was most directly attributable to building-team membership](role-awareness-attributable-to-team-membership.md) — related
 - [Adopting Wisconsin's Model Academic Standards is voluntary, and districts may use them as guides for local curriculum.](standards-adoption-voluntary-local-guides.md) — related
 - [The Wisconsin information and technology literacy standards are organized into four content standards: media and technology, information and inquiry, independent learning, and the learning community.](wisconsin-itl-four-content-standards.md) — related
+- [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related

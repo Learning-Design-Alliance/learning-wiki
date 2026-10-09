@@ -40,6 +40,7 @@ To expand a solution beyond initial adopters, the article describes recruiting a
 
 - [Build trust early through quick wins and visible responsiveness to feedback, using a tiered rollout to grow champions](build-trust-early-quick-wins-tiered-rollout.md)
 - [Demonstrate solution benefits through participant perspectives, direct experience, and foregrounded student voice](demonstrate-benefits-student-voice-sustainability.md)
+- [Volunteer-first faculty recruitment with modeling of good practice rather than top-down mandates](volunteer-faculty-recruitment-modeling-practice.md)
 
 ## Examples
 -

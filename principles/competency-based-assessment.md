@@ -112,6 +112,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - Applied projects, simulations, and observed performances are stronger competency evidence than multiple-choice recall alone
 - [Portfolio entries with written commentary for assessing teaching practice](../designs/portfolio-with-written-commentary-assessment.md)
 - [Reorient AI assessment toward formative, holistic portraits of learner competencies rather than automated grading](../strategies/ai-assessment-holistic-competency-portraits.md)
+- [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](../strategies/clarify-purpose-norm-expectations-calibrate-pog.md)
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.

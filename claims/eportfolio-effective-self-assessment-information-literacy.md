@@ -49,3 +49,4 @@ Authors' conclusion from the three-participant case study in which graduate scie
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](philanthropic-studies-epportfolio-curricular-integration.md) — related
 - [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](epdp-pilot-gpa-retention-gains-not-sustained.md) — related
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](public-capstone-epportfolio-showcase-audience-effect.md) — related
+- [Students' self-assessments of social well-being and work habits provide valuable information about their development](student-self-assessments-valuable-development-information.md) — related

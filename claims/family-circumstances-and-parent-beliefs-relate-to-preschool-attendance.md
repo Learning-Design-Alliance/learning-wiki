@@ -66,3 +66,4 @@ Survey-based analysis linking parent beliefs about the importance of preschool a
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — a broader claim this one bears on
 - [Health is the most commonly reported reason preschool children miss school, with more than half of all days missed due to sickness, and logistical obstacles accounting for another 18 percent](health-primary-reason-preschool-absences.md) — related
 - [Health is the most commonly reported reason preschool students miss school, with logistical obstacles second, and reasons differ by race/ethnicity](illness-and-logistics-reasons-preschool-absences.md) — related
+- [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related

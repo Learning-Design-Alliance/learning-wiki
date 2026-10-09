@@ -51,3 +51,4 @@ Descriptive analysis of NSC data for CPS classes 2016–20 (Figure 1 takeaways).
 - [Among the CPS class of 2022, 60.8% immediately enrolled in college; four-year enrollment recovered to pre-pandemic levels while two-year enrollment only began recovering in 2022](cps-immediate-college-enrollment-2022.md) — related
 - [Two-year college enrollment rates sharply declined between 2019 and 2020 for CPS graduates in all disability categories](cps-2020-two-year-enrollment-declined-disabilities.md) — a narrower finding that bears on this claim
 - [Two-year college retention of CPS first-year students continued to decline in 2020 (66.4% in 2019 vs. 61.9% in 2020)](cps-2020-two-year-retention-declined.md) — related
+- [CPS immediate college enrollment rate outperforms the most recent national rate by 5 percentage points (66% vs. 61%)](cps-college-enrollment-beats-national-5-points.md) — related

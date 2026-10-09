@@ -47,3 +47,4 @@ The agenda summarizes prior Consortium research (citing Allensworth, Gwynne, Hea
 - [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — a narrower finding that bears on this claim
+- [The CRIS framework extends existing early warning systems beyond graduation and academic measures](cris-extends-early-warning-systems.md) — related

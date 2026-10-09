@@ -44,3 +44,4 @@ In the inclusive pedagogies section the report proposes, as an illustrative exam
 - [Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects](ai-multilingual-disability-speech-tool-gaps.md) — related
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — related
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — a broader claim this one bears on
+- [Machine learning systems can perpetuate biases contained in their training data](ml-training-data-perpetuates-bias.md) — related

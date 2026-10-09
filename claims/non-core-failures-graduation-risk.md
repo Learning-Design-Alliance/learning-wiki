@@ -72,3 +72,4 @@ Observational analysis of 2011-14 cohorts (Table 1). The report notes more than 
 - [Students who fail algebra are significantly less likely to graduate on time, and algebra failure rates are consistently high in urban districts](algebra-failure-graduation-risk.md) — related
 - [Core-course failures in freshman year strongly predict non-graduation, similarly across subjects](core-course-failures-predict-non-graduation.md) — related
 - [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related
+- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](on-track-predicts-graduation-three-and-half-times.md) — related

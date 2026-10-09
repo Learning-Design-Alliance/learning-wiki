@@ -49,3 +49,4 @@ The blurb for the technical appendix to "Chronic absenteeism: A continued impedi
 - [NWEA research examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions](chronic-absenteeism-academic-recovery-relationship.md) — possibly the same claim (merge candidate)
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — possibly the same claim (merge candidate)
 - [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related
+- [Supportive school environments and strong teacher-student relationships speed recovery from learning loss](supportive-environments-relationships-speed-recovery.md) — related

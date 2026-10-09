@@ -71,3 +71,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Collaborative Innovation tenets varied in visibility: collective ownership and context expertise were most evidenced, reimagining progress least](tenet-visibility-varied-across-projects.md) — related
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
 - [Leadership coaching partnerships and instructional leadership team collaboration increased schools' capacity to use survey data](coaching-and-team-collaboration-support-data-use.md) — related
+- [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related

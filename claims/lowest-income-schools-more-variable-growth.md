@@ -47,3 +47,4 @@ Observational comparison of growth distributions for schools with %FRL less than
 - [School poverty is only weakly associated with median student growth in a school](frl-weakly-associated-with-school-growth.md) — related
 - [Sixty percent of the highest-poverty schools also have above-average student growth](sixty-percent-high-poverty-schools-above-average-growth.md) — related
 - [77% of the lowest 5% achieving schools (spring reading) grow their typical student better than the 30th percentile](77-percent-low-achieving-schools-growth-above-30th-percentile.md) — related
+- [High-poverty schools' high achievers had roughly even odds of above-average growth, and 75th-percentile growth would be needed to close the readiness gap](above-average-growth-probability-high-poverty-schools.md) — related

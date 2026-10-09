@@ -53,3 +53,5 @@ Earlier Consortium survey research on CHSRI schools, cited in the report's intro
 - [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related
 - [Teachers and principals in CHSRI small schools describe an environment marked by trust, commitment, and strong professional community in year two](chsri-small-schools-trust-professional-community.md) — related
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related
+- [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related
+- [Teachers in CHSRI small schools report significantly more supportive contexts for reform than similar teachers in other Chicago high schools](chsri-teachers-report-supportive-reform-context.md) — possibly the same claim (merge candidate)

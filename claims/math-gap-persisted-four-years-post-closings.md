@@ -45,3 +45,4 @@ Multi-year administrative data analysis comparing closed-school students to simi
 ## Related Claims
 - [Students from closed schools scored roughly one and a half months behind in reading and two months behind in math in the spring of the announcement year](closed-school-test-scores-lower-announcement-year.md) — related
 - [School closings showed no statistically significant long-term effects on displaced students' reading or math achievement two and three years later](no-long-term-achievement-effects-school-closings.md) — reports the opposite
+- [Test scores of students in both closed and welcoming schools were negatively affected, with closed-school students showing the largest negative effect](test-scores-negatively-affected-closed-and-welcoming-schools.md) — a broader claim this one bears on

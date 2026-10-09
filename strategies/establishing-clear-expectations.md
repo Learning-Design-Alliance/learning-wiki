@@ -64,6 +64,7 @@ Clear expectations reduce uncertainty about what counts as success, freeing work
 - [Providing Actionable Feedback](action-oriented-feedback.md) — feedback is only usable when it references expectations learners already know
 - [Modeling Classroom Norms](acting-role-play.md) — enacting behavioral expectations rather than merely stating them
 - [Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences](evolving-criteria-feedback-conferences.md)
+- [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 
 ## Examples
 - **Understanding by Design (Wiggins & McTighe)** — units begin with published performance criteria; teachers share rubrics with students before work begins. [https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition](https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition)

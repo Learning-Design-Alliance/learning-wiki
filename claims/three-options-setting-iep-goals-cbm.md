@@ -45,3 +45,4 @@ The case study describes three goal-setting procedures: end-of-year benchmarks (
 ## Related Claims
 - [CBM slope cutoffs of .25 (primary) and .50 (secondary) digits per week define adequate first-grade responsiveness](cbm-slope-cutoffs-first-grade-responsiveness.md) — related
 - [Self Determined Learning Model Of Instruction Improves Self Determination](self-determined-learning-model-of-instruction-improves-self-determination.md) — related
+- [Summative setting-level indicators do not allow quick feedback on school practices, so schools set attendance goals and monitor them weekly or monthly to determine whether new practices are improving those indicators](summative-versus-formative-setting-level-indicators.md) — related

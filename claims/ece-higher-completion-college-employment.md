@@ -48,3 +48,4 @@ The summary reports, citing Carneiro and Ginja (2013) on Head Start, higher rate
 - [Early childhood education attendance is associated with statistically significant reductions in special education placement and grade retention](ece-reduces-special-education-retention.md) — related
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
 - [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- [Early numeracy mastery at 54 months predicts college attendance](early-numeracy-mastery-predicts-college-attendance.md) — related

@@ -44,6 +44,7 @@ The presentation offers a structured set of intentionality and collaboration que
 - [Use OBC RFP templates with market validators and ESSA evidence tiers as efficacy criteria](obc-rfp-market-validators-essa-tiers.md)
 - [Analyze & Inventory: use cross-departmental data analysis and an inventory of existing interventions before buying new edtech](analyze-and-inventory-before-edtech-purchase.md)
 - [Discover & Decide: establish evidence-based selection criteria and instructional alignment in an RFP process to select edtech for priority learner populations](evidence-based-selection-criteria-rfp-edtech.md)
+- [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 
 ## Examples
 -

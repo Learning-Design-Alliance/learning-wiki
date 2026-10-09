@@ -46,3 +46,4 @@ Practitioner perspectives in the primer identify these barriers: scaffolding and
 - [Systems-level barriers to school AAC use include limited clinical expertise, need–system mismatch, funding difficulty, and unfamiliar communication partners](systems-level-aac-implementation-barriers.md) — related
 - [A key barrier to using MI Write is a lack of both curriculum integration and alignment](curriculum-integration-alignment-barrier-mi-write.md) — related
 - [Integrating academic learning into CTE classes is challenging for educators and curriculum developers](integrating-academics-into-cte-challenging.md) — related
+- [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related

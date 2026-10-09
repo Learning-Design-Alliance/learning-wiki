@@ -65,3 +65,4 @@ The same models show relative-position effects are much smaller than the overall
 - [Class conditions—period, term, class size and subject—systematically shift grades, largely through attendance](class-conditions-shift-grades.md) — related
 - [A very demanding course schedule lowers core-course GPA by about 0.40 points relative to an undemanding one](demanding-schedule-gpa-penalty.md) — related
 - [Attending a selective exam-entry high school yields no significant academic benefits and lowers 11th-grade GPA relative to observationally similar peers elsewhere](selective-schools-no-academic-benefit-lower-gpa.md) — related
+- [Students attending higher-performing Chicago high schools have lower GPAs, on average, than similar students at lower-performing schools](lower-gpas-at-higher-performing-schools.md) — related

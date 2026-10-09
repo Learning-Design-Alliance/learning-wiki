@@ -48,3 +48,4 @@ The brief's own description states it examines two components of school recovery
 - [Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress](middle-school-reading-stagnant-post-covid.md) — related
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](middle-school-reading-stagnant-lowest-performers-behind.md) — related
 - [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
+- [Supportive school environments and strong teacher-student relationships speed recovery from learning loss](supportive-environments-relationships-speed-recovery.md) — related

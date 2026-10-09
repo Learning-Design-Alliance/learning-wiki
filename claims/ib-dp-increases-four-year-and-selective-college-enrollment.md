@@ -48,3 +48,4 @@ Quantitative analysis of postsecondary outcomes for graduates of the classes of 
 - [IB DP students report feeling prepared to succeed and excel in college coursework, crediting the IB DP with teaching the specific skills and behaviors college demands](ib-dp-students-feel-prepared-and-excel.md) — related
 - [Despite strong academic qualifications, IB DP students often have limited access to the social capital needed to navigate college course selection and access faculty support](ib-dp-students-limited-social-capital.md) — related
 - [Undermatch occurs when students attend a college less selective than their high school academic achievement would allow](undermatch-defined-less-selective-college-attendance.md) — related
+- [Selective enrollment students from low-income neighborhoods are less likely to attend selective colleges than similarly-performing low-income students who do not enroll](sehs-low-income-selective-college-enrollment.md) — related

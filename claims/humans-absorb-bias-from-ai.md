@@ -47,3 +47,4 @@ The presentation reports this second-hand, citing Lauren Leffer's piece "Humans 
 - [Six named risks from AI systems span overestimation, data collection, synthetic outputs, invisibility, bias replication, and human and environmental costs](six-risks-from-ai-systems.md) — a broader claim this one bears on
 - [Trust in AI varied by positioning: partners saw bias and assigned their own grades, while substitutes trusted AI scores as actual grades](ai-trust-varies-by-positioning.md) — related
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related
+- [Machine learning systems can perpetuate biases contained in their training data](ml-training-data-perpetuates-bias.md) — related

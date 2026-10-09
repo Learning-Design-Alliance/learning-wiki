@@ -49,3 +49,4 @@ Overall conclusion of the convergent validity analysis reported in the abstract:
 - [SEDA and MAP Growth district growth estimates in mathematics correlate at .90 (precision-adjusted)](seda-map-growth-math-growth-correlation-090.md) — a narrower finding that bears on this claim
 - [Validation research via a common assessment supports SEDA achievement scores](common-assessment-supports-seda-achievement-scores.md) — related
 - [SEDA growth estimates show differences from common-assessment-based estimates](seda-growth-estimates-show-differences.md) — reports the opposite
+- [Study findings are limited to one state, a low-stakes assessment, and a sample lacking student-level socioeconomic, special education, and English learner covariates](growth-timespan-study-scope-limitations.md) — related

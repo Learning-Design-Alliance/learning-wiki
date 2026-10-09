@@ -45,3 +45,7 @@ Analysis of the 20-item roadblock rankings across 1997-2007 surveys (Table 2) fo
 ## Related Claims
 - [Elementary principals in low-achieving schools spend more time on instruction while those in high-achieving schools spend more on external management](elementary-quartile-time-allocation-differences.md) — related
 - [Principals most commonly cited time for teacher planning, difficulty removing poor teachers, community social problems, apathetic parents, test-score pressure, and problem students as roadblocks](principals-roadblocks-to-school-improvement.md) — related
+- [Administrators reporting social problems in the school's community as a top roadblock grew from 31 percent in 2009 to 43 percent in 2017](community-social-problems-roadblock-growth.md) — related
+- [Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators](parent-support-roadblock-grew-trust-low.md) — related
+- [Managing resources under student-based budgeting was the single most challenging roadblock CPS administrators reported since 1992, with 66 percent rating it a significant or complete roadblock in 2017](student-based-budgeting-highest-cps-roadblock.md) — related
+- [Latent class analysis of roadblock responses identified three roughly equally sized administrator groups—Limited, Moderate, and Considerable Roadblocks—differing in breadth and depth of concern](three-roadblock-severity-groups-latent-class.md) — related

@@ -74,9 +74,11 @@ The approach works because it externalizes and distributes the cognitive demands
 7. **Publish.** Bring the piece to its authentic audience to close the cycle and motivate future effort.
 
 ## Related Strategies
+
 - [5-minute writing conferences](5-minute_writing_conferences.md) — the conferring mechanism at the heart of workshop implementations
 - [Activating prior knowledge](activating_prior_knowledge.md) — planning in the process model is fundamentally retrieval and organization of prior knowledge
 - [Action-oriented feedback](action-oriented_feedback.md) — conference and peer feedback should specify what to do next, not just evaluate
+- [Use GenAI across the writing process stages of pre-writing, drafting language support, and revision feedback, and for discussion questions, differentiated explanations, and scaffolded practice](genai-writing-process-and-instructional-uses.md)
 
 ## Examples
 - **[Units of Study](https://www.unitsofstudy.com)** (Heinemann, Lucy Calkins) — a widely adopted K–8 writers' workshop curriculum built on the process approach.

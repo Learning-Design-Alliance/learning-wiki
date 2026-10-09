@@ -50,3 +50,5 @@ Goal setting is most effective when accompanied by feedback, as feedback allows 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](self-monitoring-improves-self-regulation.md)
 - [Goal setting improves performance](goal-setting-improves-performance.md) — possibly the same claim (merge candidate)
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
+- [The paper reports that clear, specific, and challenging goals have been linked to higher task performance than simple encouragement, under stated conditions](clear-specific-challenging-goals-linked-to-task-performance.md) — possibly the same claim (merge candidate)
+- [Summative setting-level indicators do not allow quick feedback on school practices, so schools set attendance goals and monitor them weekly or monthly to determine whether new practices are improving those indicators](summative-versus-formative-setting-level-indicators.md) — related

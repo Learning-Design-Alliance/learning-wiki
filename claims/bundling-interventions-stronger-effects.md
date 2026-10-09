@@ -45,3 +45,4 @@ A panel assertion in the guide's introduction, offered without a specific effect
 ## Related Claims
 - [Almost 10 percent of students from the first two cohorts of the CNMCC Breaking Through Construction Apprenticeship Program entered a formal apprenticeship](breaking-through-cohorts-enter-apprenticeships.md) — related
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — related
+- [High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students](high-dosage-tutoring-tied-to-classroom-content-accelerates-learning.md) — related

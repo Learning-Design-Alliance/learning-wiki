@@ -46,3 +46,4 @@ Impact estimates from the final round of the national Upward Bound evaluation, b
 - [Find the Fit did not affect the share of students completing the FAFSA early](find-the-fit-no-effect-early-fafsa-completion.md) — related
 - [This report provides the first estimates of Upward Bound's effects on postsecondary completion and updates earlier estimates for enrollment and financial aid](upward-bound-first-postsecondary-completion-estimates.md) — related
 - [Regular Upward Bound produces a statistically significant increase in the likelihood of earning a postsecondary certificate or license from a vocational school](upward-bound-increases-vocational-certificate-license.md) — related
+- [A study estimates the effects of statewide articulation agreement policies on college enrollment, associate degree attainment, and bachelor's degree attainment using IPEDS data and a Difference-in-Difference approach](articulation-agreements-did-ipeds-study.md) — related

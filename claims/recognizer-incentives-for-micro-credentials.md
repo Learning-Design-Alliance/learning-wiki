@@ -57,3 +57,7 @@ Descriptive reporting on recognizer adoption: Kettle Moraine School District (28
 - [Micro-credentials were a promising personalized professional learning option, with 376 earned and higher enthusiasm among earners](pr-micro-credentials-promising-personalized-learning.md) — related
 - [Changes in the credentialing market have produced demand for shorter credentials focused around job market competencies](credentialing-market-demand-shorter-competency-credentials.md) — related
 - [K-12 officials increasingly attend to postsecondary outcomes but many are unsure how best to use the data](officials-unsure-how-to-use-postsecondary-data.md) — related
+- [In Kentucky, educators used micro-credentials to advance from Rank II to Rank I, increasing their yearly salaries](kvec-microcredentials-teacher-rank-and-salary-increase.md) — related
+- [Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners](micro-credentials-disrupt-pathways-access-excluded-learners.md) — related
+- [Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy](microcredential-motivation-and-risks.md) — related
+- [Most rural learner participants reported micro-credentials yielded increased opportunity for skill development, job promotion, salary increase, credential attainment, and/or enrollment in additional educational programming](rural-microcredential-learners-report-skill-and-employment-gains.md) — a broader claim this one bears on

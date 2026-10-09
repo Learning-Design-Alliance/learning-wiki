@@ -46,3 +46,4 @@ Survey of Chicago public high school seniors in the 2005 Consortium biannual sur
 - [More than 83 percent of Chicago public high school seniors plan to continue their education in the fall, and nearly 80 percent aspire to at least a four-year degree](cps-seniors-high-education-plans-aspirations.md) — related
 - [Nearly 90 percent of seniors report their parents want them to go to college after high school graduation](parents-want-seniors-to-attend-college.md) — related
 - [Almost 90 percent of college-continuing seniors intend to work while continuing their education, and 35 percent plan to work more than 20 hours per week](seniors-intend-work-while-continuing-education.md) — related
+- [One-on-one adult support at school, such as a coach or counselor, helped students prioritize and complete college applications](one-on-one-adult-support-college-applications.md) — related

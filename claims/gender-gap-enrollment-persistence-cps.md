@@ -45,3 +45,7 @@ Observational finding from the six-year tracking of CPS graduates in the classes
 ## Related Claims
 - [College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree](cps-college-completion-race-gender-gaps.md) — related
 - [For two-year black transfer students, gender and engineering GPA—not transfer status—drive graduation outcomes, with black women outperforming black men](gender-gpa-drive-two-year-black-transfer-graduation.md) — related
+- [College completion among CPS 2017 immediate enrollees shows large disparities by race/ethnicity and gender, with fewer than one-third of Black and Latino young men completing a bachelor's degree](cps-2017-completion-disparities-race-gender.md) — related
+- [College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment](cps-enrollment-gaps-driven-by-four-year-enrollment.md) — related
+- [Spring first-time college enrollees differ from fall enrollees in race/ethnicity, gender, and high school GPA, but the impact on group enrollment rates is small](spring-enrollees-demographic-gpa-differences.md) — related
+- [Four- versus six-year completion gaps of 15–25 percentage points appeared across academic and demographic groups, with Black young men at 13% four-year and 31% six-year completion](student-characteristics-completion-gaps.md) — related

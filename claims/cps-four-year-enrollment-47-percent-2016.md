@@ -50,3 +50,4 @@ Descriptive trend analysis using National Student Clearinghouse data shown in Fi
 - [Two-thirds of CPS graduates immediately enrolled in a two- or four-year college in 2017, up from 50 percent in 2006](cps-immediate-college-enrollment-two-thirds-2017.md) — related
 - [Two-year persistence in four-year colleges declined from 66 percent to 60 percent over five years even as enrollee numbers grew](cps-two-year-persistence-declined-66-to-60.md) — related
 - [CPS graduates' immediate college enrollment increased between 2006 and 2015, driven mainly by growth in four-year college enrollment](cps-college-enrollment-growth-four-year.md) — related
+- [Growth in CPS graduates' two-year enrollment was largely at City Colleges of Chicago and much of it predates the system's reform efforts](two-year-growth-concentrated-city-colleges-predating-reforms.md) — related

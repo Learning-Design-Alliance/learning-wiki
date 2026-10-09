@@ -64,6 +64,7 @@ Parent involvement research shows that families participate more when schools ac
 - Community-based learning — extends the school-as-hub model outward into reciprocal community partnerships
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 - [Share information about existing school and community health resources with students and their families, prioritizing youth-friendly resources](share-health-resource-information-students-families.md)
+- [Families partner with schools on attendance and grades through belonging, collaborative support, and joint monitoring](family-engagement-three-playbook-actions.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — low-stakes relational routines that turn attendance into community

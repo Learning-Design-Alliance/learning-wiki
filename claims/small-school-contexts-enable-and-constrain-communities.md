@@ -50,3 +50,4 @@ Fieldwork across seven CHSRI schools found teachers perceived small schools as h
 - [Teachers see high workload, habits, low-quality data and skills, and predisposition as the main constraints on data-informed analysis, and none regularly collect teaching data](teacher-data-use-obstacles-workload-habits-skills.md) — related
 - [Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community](teacher-collaboration-time-scarce-contract.md) — related
 - [Coaches carry heavy workloads, often holding other roles and supporting large caseloads of teachers](coach-workload-multiple-roles-large-caseloads.md) — related
+- [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related

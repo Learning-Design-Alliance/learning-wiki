@@ -45,3 +45,4 @@ The white paper attributes these assertions to prior studies (Bernacki et al., 2
 - [Students raised concerns that performance forecasts cannot capture personal circumstances affecting study](forecast-concerns-personal-circumstances.md) — related
 - [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](ews-and-algorithm-less-accurate-black-students.md) — related
 - [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](clickstream-enables-two-types-theory-testing.md) — related
+- [Sequence analysis of online course logs found group coordination predicted successful outcomes better than raw activity levels (review-attributed to Hoppe et al., 2021)](sequence-analysis-coordination-predicts-group-outcomes.md) — a narrower finding that bears on this claim

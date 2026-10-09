@@ -85,3 +85,4 @@ Thematic synthesis of teacher-training obstacles, citing Chou (2007), Amatea et 
 - [Dietitians' barriers and enablers to pro-environmental action fall into three themes: personal, social and professional, and contextual and environmental factors](three-themes-barriers-enablers-pro-environmental-dietitians.md) — related
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related
 - [Traditional dance class structure offers insufficient opportunity for students to develop a sensitized relationship with their body](traditional-dance-class-structure-limits-body-listening.md) — related
+- [Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels](limited-educator-ai-training-resistance-by-grade.md) — related

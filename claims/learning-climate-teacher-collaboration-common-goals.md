@@ -50,3 +50,4 @@ The overview summarizes the longitudinal multi-method study of hundreds of schoo
 - [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — related
 - [School learning climate is the only process through which high school leadership accounts for differences across schools in instructional quality and achievement](learning-climate-only-cross-school-pathway.md) — related
 - [CHSRI small schools lack a shared vision of high-quality instruction, and the link between school themes and curriculum remains weak in year two](chsri-no-shared-vision-quality-instruction.md) — related
+- [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related

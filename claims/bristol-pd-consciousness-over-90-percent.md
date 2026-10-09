@@ -45,3 +45,4 @@ Self-report survey outcome from the Bristol Township School District student-led
 ## Related Claims
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
+- [Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties](toc-workplace-racism-invisible-tax.md) — related

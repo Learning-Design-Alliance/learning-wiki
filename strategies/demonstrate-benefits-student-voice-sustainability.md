@@ -39,6 +39,7 @@ Because longer-term equitable student outcomes lag behind implementation, the ar
 ## Related Strategies
 
 - [Recruit volunteer implementers first to generate small wins, models, and critical mass for change](volunteers-first-small-wins-sustainability.md)
+- [Volunteer-first faculty recruitment with modeling of good practice rather than top-down mandates](volunteer-faculty-recruitment-modeling-practice.md)
 
 ## Examples
 -

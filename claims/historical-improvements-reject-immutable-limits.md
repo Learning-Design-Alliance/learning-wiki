@@ -49,3 +49,4 @@ Historical-comparison evidence reviewed by the authors, described as the best si
 - [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — related
 - [Relative-age effects, not innate talent, bias selection into elite youth sports](relative-age-effect-talent-selection-bias.md) — related
 - [In a changing world, today's excellence may be tomorrow's ignorance, so schools should perhaps strive for adaptability](todays-excellence-tomorrows-ignorance.md) — related
+- [Test scores measure accumulated knowledge at a moment in time, not innate student ability](test-scores-measure-opportunity-not-innate-ability.md) — a narrower finding that bears on this claim

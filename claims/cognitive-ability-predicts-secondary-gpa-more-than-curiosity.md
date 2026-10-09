@@ -50,3 +50,4 @@ Bivariate correlations with self-reported, degree-corrected secondary GPA (N = 4
 - [Epistemic behavior relates to curiosity but not to cognitive ability](epistemic-behavior-relates-curiosity-not-cognitive-ability.md) — related
 - [Exploratory: leisure epistemic behavior mediates the relation of cognitive ability with tertiary academic performance, with a very small effect](leisure-epistemic-behavior-exploratory-mediation-tertiary.md)
 - [Work-avoidant orientation correlates negatively with GPA in the project-based course](gpa-negative-correlation-work-avoidant.md) — related
+- [Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare](student-survey-measures-negative-gpa-prediction.md) — related

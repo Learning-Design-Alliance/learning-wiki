@@ -47,3 +47,4 @@ Gwynne, J.A., Allensworth, E.M., Young, C., & Hart, H. (2024). Student experienc
 - [Middle-grade students' reports of parent support declined during the remote/hybrid year and continued declining through 2022-23, ending 0.17 s.d. below 2011 levels](parent-support-declined-middle-grades.md) — related
 - [Student reports of social skills and perseverance were declining before the pandemic, fell further during remote learning in the middle grades, and remained below 2011 levels through 2022-23](social-skills-perseverance-declined-pandemic.md) — related
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](pandemic-year-climate-positive-bump-pennsylvania.md) — related
+- [Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities](local-leaders-learning-supports-across-modalities.md) — related

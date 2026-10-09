@@ -44,3 +44,4 @@ In the Chicago high school pathway analysis, principals' direct instructional in
 
 ## Related Claims
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — a broader claim this one bears on
+- [Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors](within-school-direct-negative-leadership-academic-demand.md) — possibly the same claim (merge candidate)

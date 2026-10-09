@@ -66,3 +66,4 @@ Survey finding from the same sample; Figure 7 reports mean well-being scores of 
 - [White teachers reported higher relationship management scores than teachers of Color, a finding the authors urge reading with caution](racial-identity-relationship-management-differences.md) — related
 - [Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths](measurement-invariance-gender-structural-equivalence-rejected.md) — related
 - [The sample's emotion regulation and relationship management scores were comparable to the original TRUST validation sample of in-service teachers](sample-sel-scores-comparable-original-trust-sample.md) — related
+- [Men report being less likely than women to effectively relay their social and communication skills](men-less-likely-relay-social-communication-skills.md) — related

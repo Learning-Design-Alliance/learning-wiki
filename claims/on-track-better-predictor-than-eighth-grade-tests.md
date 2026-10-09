@@ -46,3 +46,5 @@ Observational analysis of the fall 2000 CPS freshman cohort by eighth-grade achi
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — possibly the same claim (merge candidate)
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
+- [Freshman-year GPA alone correctly predicts about 80 percent of on-time high school graduates](freshman-gpa-predicts-80-percent-ontime-graduation.md) — related
+- [The Freshman OnTrack indicator is more predictive of graduation than eighth-grade test scores, SES, race/ethnicity, gender, and school mobility combined, and raising it raises graduation rates](freshman-ontrack-predictive-and-causal-indicator.md) — related

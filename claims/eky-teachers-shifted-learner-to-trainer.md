@@ -45,3 +45,4 @@ A descriptive milestone reported by the presenters: two Eastern KY teachers beca
 ## Related Claims
 - [Teachers in the Eastern KY project reported in a 2022 survey that they no longer perceive barriers to integrating computational thinking into their classrooms](eky-teachers-no-longer-perceive-ct-barriers-2022.md) — related
 - [Teachers used new instructional practices they had learned while delivering the summer programs](summer-programs-teachers-adopted-new-practices.md) — related
+- [Aspirational capital and kinship sustained the Tough As Nails CT initiative through the COVID-19 pandemic](appalachian-cultural-wealth-sustained-ct-project-covid.md) — related

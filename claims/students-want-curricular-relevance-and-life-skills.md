@@ -69,3 +69,4 @@ Same overview: students recognize durable skills like time management, collabora
 - [Worker and jobseeker input on skills-first pathway design and implementation is far too often limited or missing](worker-input-on-skills-first-pathways-limited-or-missing.md) — related
 - [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — related
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related
+- [Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas](frequent-job-changes-nonlinear-careers.md) — related

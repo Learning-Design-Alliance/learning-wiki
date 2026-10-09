@@ -65,9 +65,11 @@ Explicit criteria support learning because they enable self-regulation: learners
 - Criteria should be concise, student-friendly, easily understood, and clearly communicated so that students understand expectations.
 
 ## Related Strategies
+
 - [Rubric-Based Assessment](rubric-based-assessment.md) — the primary vehicle for communicating observable criteria
 - [Success Criteria Co-Construction](success-criteria-co-construction.md) — involving learners in generating the criteria
 - [Formative Feedback Loops](formative-feedback-loops.md) — criteria make feedback actionable by tying it to a shared standard
+- [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 
 ## Examples
 - **Marzano proficiency scales** — a 4-point scale ("1 = with help, partial success … 4 = in-depth inferences and applications") published for thousands of K–12 standards; teachers post the scale so students know what "meeting the standard" means before instruction.

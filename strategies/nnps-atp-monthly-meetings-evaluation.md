@@ -45,6 +45,7 @@ An implementable operating routine for school-family partnership teams: ATP memb
 - [Use a monthly school attendance team to review data and problem-solve](monthly-attendance-data-team-review.md)
 - [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 - [Structured and Sustained Family Engagement Programs](structured_and_sustained_family_engagement_programs.md)
+- [Families partner with schools on attendance and grades through belonging, collaborative support, and joint monitoring](family-engagement-three-playbook-actions.md)
 
 ## Examples
 -

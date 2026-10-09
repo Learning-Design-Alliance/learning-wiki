@@ -48,3 +48,4 @@ Descriptive analysis estimating the share of CPS ninth-graders who will earn a b
 - [The percent of CPS ninth-graders projected to earn a bachelor's degree within six years of high school graduation nearly doubled from 11 percent in 2006 to 20 percent in 2018](cps-dai-projected-bachelors-doubled-2006-2018.md) — related
 - [CPS graduates' qualifications improved: students graduating with at least a 3.0 core GPA rose from 21 to 32 percent between 2006 and 2015](cps-graduating-gpas-improved.md) — related
 - [If current rates hold, only 20 percent of current CPS ninth-graders will complete a bachelor's degree within 10 years (2019 BDAI), with 18 percent via a direct pathway](cps-2019-bdai-20-percent-bachelors.md) — related
+- [An estimated 18 percent of CPS ninth-graders will obtain a four-year college degree within 10 years of starting high school (Bachelor's DAI, 2015)](cps-bachelors-dai-18-percent-2015.md) — related

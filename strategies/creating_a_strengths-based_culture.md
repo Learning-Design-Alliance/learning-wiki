@@ -62,6 +62,7 @@ A strengths orientation supports motivation through competence and autonomy: lea
 - Growth-mindset framing — strengths talk should emphasize developable capacities, not fixed traits
 - Passion-project and inquiry approaches — the primary vehicle through which strengths get used rather than merely named
 - [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
+- [Strength-based guidance: recognizing and nurturing learners' inherent strengths rather than emphasizing deficits](strength-based-career-guidance.md)
 
 ## Examples
 - **Positive education at Geelong Grammar School** — whole-school adoption of character-strengths identification and use, part of the program evaluated in Seligman et al. (2009).

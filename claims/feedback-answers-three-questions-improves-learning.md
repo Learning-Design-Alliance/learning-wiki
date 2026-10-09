@@ -63,3 +63,4 @@ This is the paper's origin: Hattie and Timperley propose a model in which effect
 - [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-improves-learning.md) — a broader claim this one bears on
 - [Goal setting is widely believed to improve individual performance, and this belief is being tested in schools](goal-setting-belief-tested-in-schools.md) — related
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related
+- [Summative setting-level indicators do not allow quick feedback on school practices, so schools set attendance goals and monitor them weekly or monthly to determine whether new practices are improving those indicators](summative-versus-formative-setting-level-indicators.md) — related

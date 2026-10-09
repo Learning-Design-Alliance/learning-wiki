@@ -61,9 +61,11 @@ SBG aligns grading with [Assessment for Learning](../principles/assessment-for-l
 6. **Report per standard** — Communicate proficiency by standard to students and families; calibrate scoring with colleagues through moderation of student work.
 
 ## Related Strategies
+
 - [Mastery Learning](mastery-learning.md) — SBG is the grading counterpart of mastery-based pacing; both hold time variable and achievement constant
 - [Formative Assessment](formative-assessment.md) — supplies the low-stakes evidence and feedback loop between scored assessments
 - [Ungrading](ungrading.md) — a more radical variant that removes grades entirely in favor of reflective self-assessment
+- [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 
 ## Examples
 - **High school physics SBG conversion** — A widely cited implementation replaced percentage grades with standards scores (e.g., "Graphs motion — 3/4"); D/F rates declined, but A rates also declined, showing grade redistribution rather than uniform inflation.

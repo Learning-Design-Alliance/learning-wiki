@@ -47,3 +47,4 @@ This analysis used a standardized scale combining school-level free/reduced-pric
 - [School size and student socioeconomic status conditioned trust levels differently in the two contexts](school-size-ses-condition-trust-differently.md) — related
 - [Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools](disadvantaged-schools-with-supports-improve-equally.md) — related
 - [Strength on most 5Essentials measures was similarly likely across poverty levels, but five measures were less prevalent in high-poverty schools](5essentials-five-measures-less-prevalent-high-poverty.md) — related
+- [In CPS, student teachers were disproportionately placed in North Side schools and in more socioeconomically advantaged schools with stronger organizational ratings](cps-student-teacher-placement-north-side-and-advantaged-schools.md) — related

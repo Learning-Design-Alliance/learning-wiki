@@ -17,7 +17,7 @@ sources:
 # 5Essentials Survey system measuring school organizational conditions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The 5Essentials Survey is a confidential statewide survey administered to students in grades 6-12 and all teachers that measures the five essential supports framework. As the report states, "In all, there are 22 measures that capture the five essential supports." Survey items are combined into measures (e.g., student-teacher trust), which are then combined into essential support scores. Each measure is based on either teacher or student responses, and some pertain only to elementary/middle or high schools.
@@ -47,6 +47,7 @@ The 5Essentials Survey is a confidential statewide survey administered to studen
 - [For Illinois high schools, strength in the five essentials is related to outcomes but the relationships tend to be minimal except in CPS](../claims/illinois-high-school-essentials-outcomes-cps.md) [~W]
 - [Larger elementary and middle schools (600+ students) are more likely to be weak in three or more essentials](../claims/school-size-elementary-essentials-weakness.md) [~W]
 - [Socioeconomically disadvantaged schools are less likely to be strong in the essentials, with a stronger effect in Chicago than the rest of Illinois](../claims/socioeconomic-disadvantage-essentials-strength.md) [~W]
+- [Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance](../claims/recalibrated-5essentials-measures-reliability.md) [+W] — attached 2026-10-09 from Hart et al. (2020), which proposed "5Essentials Survey: 22 Rasch-scored measures of school organization for teachers and students"; tests this page's relationship.
 
 ## Related Elements
 

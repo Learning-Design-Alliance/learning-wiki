@@ -47,3 +47,4 @@ Phase 2 qualitative interviews with thought leaders and experts in evaluation, d
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [In practice, education data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](data-often-fails-to-drive-education-decisions.md) — related
 - [Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness](governance-integration-enhances-ca-decision-making.md) — a narrower finding that bears on this claim
+- [Many local school districts lack research personnel to evaluate program efficacy or investigate best practices because of tight budgets](districts-lack-research-personnel-budget-constraint.md) — related

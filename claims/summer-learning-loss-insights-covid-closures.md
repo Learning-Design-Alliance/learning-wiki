@@ -47,3 +47,4 @@ The April 2020 NWEA presentation description argues, with no data reported on th
 - [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — possibly the same claim (merge candidate)
 - [Summer learning loss patterns are used to project the potential impact of COVID-19 school closures on student academic achievement](summer-learning-loss-projections-covid-closures.md) — possibly the same claim (merge candidate)
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
+- [Mean achievement in the studied cohort shows a saw-tooth seasonal pattern, with within-year gains followed by summer declines (summer learning loss)](sawtooth-seasonal-achievement-pattern-map-growth.md) — related

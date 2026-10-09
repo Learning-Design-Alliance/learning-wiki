@@ -51,3 +51,4 @@ This is a single-session collaborative task in one academic context (pre-service
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — reports the opposite
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](students-report-peer-collaboration-supports-learning.md) — related
 - [Teacher control over small-group dialogue is inversely related to groups' socially shared regulation of learning](teacher-control-inverse-ssrl-physics.md) — related
+- [Sequence analysis of online course logs found group coordination predicted successful outcomes better than raw activity levels (review-attributed to Hoppe et al., 2021)](sequence-analysis-coordination-predicts-group-outcomes.md) — related

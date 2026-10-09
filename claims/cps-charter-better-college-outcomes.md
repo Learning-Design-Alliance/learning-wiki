@@ -72,3 +72,7 @@ Chapter 5 college persistence analysis of the 2008-10 cohorts among high school 
 - [Bottom Line increases enrollment in a four-year college among low-income high school students](bottom-line-increases-four-year-college-enrollment.md) — related
 - [Chicago multi-grade charter high schools appear to increase the probability of enrolling in college](chicago-multigrade-charter-high-schools-college-entry-gains.md) — related
 - [College Track completers enrolled in college at higher rates than similar students, and were much more likely to enroll in four-year colleges](college-track-completers-higher-college-enrollment.md) — related
+- [Graduation and enrollment trends vary by school type: non-charter non-selective schools caught up to charters on graduation, but charters and selective enrollment lead on college enrollment](cps-attainment-trends-by-school-type.md) — related
+- [Chicago graduates who enrolled in the most popular colleges had lower adjusted graduation rates than similar Chicago students who enrolled elsewhere](popular-colleges-lower-graduation-rates-chicago-students.md) — related
+- [Selective enrollment students from low-income neighborhoods are less likely to attend selective colleges than similarly-performing low-income students who do not enroll](sehs-low-income-selective-college-enrollment.md) — related
+- [Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college](sel-value-added-graduation-college-enrollment.md) — related

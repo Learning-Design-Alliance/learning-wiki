@@ -45,3 +45,4 @@ Pat Hulsebosch's narrative reports from her own teaching experience that "mentio
 ## Related Claims
 - [A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities](teacher-brings-home-culture-into-teaching.md) — related
 - [Treating students' personal histories as sources of knowledge makes them part of the classroom curriculum](personal-histories-as-curriculum-sources-of-knowledge.md) — a broader claim this one bears on
+- [A regional collective initiative (Teaching is My Favorite Color) provided teachers of color a safe space, belonging, and authentic identity expression](teaching-is-my-favorite-color-belonging-impact.md) — related

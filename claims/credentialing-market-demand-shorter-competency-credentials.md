@@ -46,3 +46,4 @@ The paper's framing statement, offered as an analytical description of the crede
 - [Community colleges are well positioned to lead the emerging credentialing market for three stated reasons](community-colleges-positioned-lead-credentialing-market.md) — a narrower finding that bears on this claim
 - [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
 - [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
+- [Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners](micro-credentials-disrupt-pathways-access-excluded-learners.md) — related

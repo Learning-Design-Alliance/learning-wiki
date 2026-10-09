@@ -53,6 +53,7 @@ The report describes dual enrollment programs as collaborations between secondar
 
 - [Use dual enrollment and a shared pathway template so students complete prerequisites while still in high school](../strategies/dual-enrollment-pathway-template.md)
 - [Enroll college-ready high school students in rigorous dual enrollment college algebra classes to support college entry and completion](../strategies/rigorous-dual-enrollment-college-algebra-strategy.md)
+- [Select dual enrollment courses without English language proficiency requirements or prerequisites to make Early College linguistically accessible](../strategies/ec-courses-without-english-proficiency-prerequisites.md)
 
 ## Key Sources
 - What Works Clearinghouse, U.S. Department of Education. (2017). Dual Enrollment Programs. WWC Intervention Report, Transition to College. https://ies.ed.gov/ncee/wwc/InterventionReport/671

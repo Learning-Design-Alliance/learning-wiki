@@ -48,3 +48,4 @@ Qualitative analysis of structured reflections from 10 researchers and 11 progra
 - [Partners in participatory evaluation demonstrated capacities in data engagement, contextual and pedagogical knowledge, and openness and improvement-oriented dispositions](partner-capacities-skills-knowledge-dispositions.md) — possibly the same claim (merge candidate)
 - [The study's findings derive from structured reflections of 10 researchers and 11 program designers, not direct partner reports](reflection-method-10-researchers-11-program-staff.md) — possibly the same claim (merge candidate)
 - [Evaluator staff capacities centered on creating conditions for participation rather than technical control](staff-capacities-creating-conditions.md) — related
+- [Contextual conditions beyond district control shape how a college readiness indicator system can be implemented](outer-context-shapes-cris-implementation.md) — related

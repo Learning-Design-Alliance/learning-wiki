@@ -65,3 +65,4 @@ Interviews with 30 external partners of Annenberg networks. Almost two-thirds no
 - [External partners played the central role in forming and running implementation networks, with most principal interaction directed at partners rather than other schools](external-partners-central-to-network-function.md) — related
 - [Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources](network-participation-time-resource-challenges.md) — related
 - [Most principals in implementation networks reported moderate reductions in school-community isolation as a result of network participation](networks-reduce-school-community-isolation.md) — related
+- [External partners sparked documented improvements in instruction, parent involvement, and school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related

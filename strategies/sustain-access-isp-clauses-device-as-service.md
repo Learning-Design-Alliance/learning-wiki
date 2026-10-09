@@ -40,6 +40,7 @@ The report recommends two sustainability strategies for states. First, states sh
 ## Related Strategies
 
 - [Make nine 'big plays' across three focus areas — sustaining access infrastructure, upskilling the educator workforce, and upskilling students, families, and caregivers — in state digital equity and BEAD plans](nine-big-plays-digital-equity.md)
+- [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
 
 ## Examples
 -

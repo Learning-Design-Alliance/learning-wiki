@@ -48,3 +48,6 @@ Longitudinal field research on 12 Annenberg schools over five years. The report 
 - [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
 - [Annenberg external partners accumulated substantial experience working with schools but were not particularly successful in promoting improvement across the large number of schools they served](annenberg-partners-experienced-but-not-particularly-successful.md) — related
 - [External partners played the central role in forming and running implementation networks, with most principal interaction directed at partners rather than other schools](external-partners-central-to-network-function.md) — related
+- [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — related
+- [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
+- [External partners sparked documented improvements in instruction, parent involvement, and school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related

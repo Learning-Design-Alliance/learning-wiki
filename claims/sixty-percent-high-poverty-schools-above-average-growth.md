@@ -47,3 +47,4 @@ Stated in the study's Conclusions section, summarizing the growth-versus-poverty
 - [Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools](lower-rated-schools-tend-higher-poverty.md) — related
 - [Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic](gender-and-school-poverty-moderate-pandemic-gains.md) — reports the opposite
 - [District G shows the opposite pattern: highest-poverty elementary schools were most likely to have highest-performing teachers](district-g-elementary-favors-high-poverty-schools.md) — related
+- [High-poverty schools' high achievers had roughly even odds of above-average growth, and 75th-percentile growth would be needed to close the readiness gap](above-average-growth-probability-high-poverty-schools.md) — related

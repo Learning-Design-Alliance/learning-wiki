@@ -50,3 +50,4 @@ Analysis of CPS high school enrollment data linking school CS offerings to stude
 - [Most CPS students in grades 6-12 have home internet access, with 92 percent reporting some access and 75 percent a high-speed connection](cps-students-home-internet-access-92-percent.md) — related
 - [Access to computing instruction in US schools is limited and inequitable by school level and poverty](computing-access-limited-inequitable-us-schools.md) — related
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related
+- [Computer science offerings in U.S. secondary schools grew from 25 percent to 40 percent between 2015 and 2016](secondary-schools-offering-cs-grew-25-to-40-percent.md) — related

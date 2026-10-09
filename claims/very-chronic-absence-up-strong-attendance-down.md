@@ -46,3 +46,4 @@ Descriptive breakdown of absence categories (Figure 2) for sixth and ninth grade
 - [Chronic absenteeism in grades 6-11 in Chicago increased by about 20 percentage points after the pandemic and remained high through 2023-24](chronic-absenteeism-increased-20-points-post-pandemic-cps.md) — related
 - [Students with the same absence rates had higher GPAs (and in grades 7-8, higher test scores) in post-pandemic years than pre-pandemic years](higher-gpas-same-absence-post-pandemic.md) — related
 - [Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before](school-climate-associated-with-lower-absences-post-pandemic.md) — related
+- [Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often](strong-sel-value-added-schools-on-track-absenteeism.md) — related

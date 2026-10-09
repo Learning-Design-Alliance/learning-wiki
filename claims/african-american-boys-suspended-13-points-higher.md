@@ -50,3 +50,4 @@ Observational within-school comparison of suspension rates across student groups
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
 - [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
 - [Black and poor students are suspended from US schools at higher rates than White and nonpoor students](black-poor-students-suspended-higher-rates.md) — a broader claim this one bears on
+- [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related

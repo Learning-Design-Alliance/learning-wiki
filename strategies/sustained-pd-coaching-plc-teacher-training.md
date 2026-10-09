@@ -63,6 +63,8 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
 - [Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines](summer-institute-plc-coaching-data-routines.md)
 - [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
+- [Sustained classroom-embedded professional development through demonstration teachers](demonstration-teachers-classroom-embedded-pd.md)
+- [Provide job-embedded coaching to school leaders to translate learning into sustainable practice](job-embedded-coaching-school-leaders.md)
 
 ## Examples
 -

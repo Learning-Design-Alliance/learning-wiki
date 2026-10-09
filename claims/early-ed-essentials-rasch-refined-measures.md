@@ -48,3 +48,4 @@ Measurement development analysis using the Rasch IRT model (Winsteps, Version 3.
 - [The final spring 2015 parent-survey pilot collected 253 parent responses across seven school-based and nine center-based Chicago preschool sites, in English and Spanish](parent-survey-pilot-253-responses.md) — related
 - [In the spring 2015 pilot, 19 of 27 teacher-survey measures met the 0.80 reliability threshold and all but one met 0.70; the Early Childhood Discipline measure was removed](teacher-survey-pilot-reliability-19-of-27.md) — related
 - [All nine Cultivate learning condition measures show strong Rasch person reliability (0.82-0.87) in CPS administrations](cultivate-learning-condition-measures-strong-reliability.md) — related
+- [Recalibrated 5Essentials measures based on 2014–19 data maintained acceptable Rasch reliability and school-level variance](recalibrated-5essentials-measures-reliability.md) — related

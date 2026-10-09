@@ -48,3 +48,4 @@ The issue brief's key findings report that surveyed students receiving the perso
 - [A personalized ability signal increased the probability of participating in AP classes by 49 percentage points among surveyed students](ability-signal-increases-ap-participation-49-points.md) — possibly the same claim (merge candidate)
 - [Survey data indicate the ability signal had informational value, leading students to revise self-assessed ability and AP plans consistent with Bayesian learning](ability-signal-informational-value-bayesian-updating.md) — related
 - [Students who received the ability signal enrolled in and passed about one more AP course the following year](ability-signal-one-more-ap-course.md) — related
+- [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related

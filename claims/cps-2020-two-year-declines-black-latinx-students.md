@@ -49,3 +49,4 @@ Descriptive disaggregation by race/ethnicity and gender (Tables 1 and 2 takeaway
 - [Immediate college enrollment declined from 62 percent for the CPS class of 2019 to 58 percent for the class of 2020, driven more by the drop in two-year than four-year enrollment](cps-immediate-enrollment-decline-2020.md) — related
 - [CPS class of 2020 graduates were less likely to enroll in two-year colleges (20.0% in 2019 vs. 16.4% in 2020)](cps-2020-two-year-enrollment-declined.md) — related
 - [Among the CPS class of 2022, 60.8% immediately enrolled in college; four-year enrollment recovered to pre-pandemic levels while two-year enrollment only began recovering in 2022](cps-immediate-college-enrollment-2022.md) — related
+- [Spring first-time college enrollees differ from fall enrollees in race/ethnicity, gender, and high school GPA, but the impact on group enrollment rates is small](spring-enrollees-demographic-gpa-differences.md) — related

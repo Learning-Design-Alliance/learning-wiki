@@ -77,3 +77,4 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 - [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](remote-covid-tech-access-inequitable-by-race-income.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
+- [BIPOC survey respondents were more likely than White respondents to report experiencing racial discrimination at work](bipoc-more-likely-report-workplace-racial-discrimination.md) — related

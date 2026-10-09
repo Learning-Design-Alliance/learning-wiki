@@ -47,3 +47,4 @@ Analysis of BEL-S survey and administrative grade data from 8,318 students acros
 - [Classroom environment is positively associated with students' self-reported motivation and other noncognitive factors within students](classroom-environment-relates-to-noncognitive-factors.md) — related
 - [Student-by-classroom interaction accounts for a substantial share of variation in noncognitive factors, indicating context-specific malleability](student-classroom-interaction-variance-noncognitive-factors.md) — related
 - [Teacher effects account for about one-fifth of within-student variation in course grades but average out of GPAs](teacher-effects-one-fifth-within-student-variance.md) — related
+- [Noncognitive factors have a direct positive relationship to students' school performance and future outcomes](noncognitive-factors-positive-relationship-school-performance.md) — a broader claim this one bears on

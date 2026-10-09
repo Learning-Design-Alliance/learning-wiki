@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 10,160 |
-| Evidence entries | 11,704 |
-| Distinct studies | 3,193 |
-| Claims resting on one study | 9,913 (98%) |
+| Claims | 10,549 |
+| Evidence entries | 12,187 |
+| Distinct studies | 3,292 |
+| Claims resting on one study | 10,299 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 699 of 3,193 (22%) |
+| Studies reporting an effect size | 702 of 3,292 (21%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 48 | 362 | 107 | 354 | 871 |
+| causal | 48 | 366 | 107 | 358 | 879 |
 | quant-synthesis | 22 | 81 | 37 | 122 | 262 |
-| review | 32 | 147 | 61 | 102 | 342 |
-| associational | 16 | 327 | 158 | 234 | 735 |
-| qualitative | 45 | 138 | 48 | 50 | 281 |
-| design | 21 | 209 | 113 | 26 | 369 |
-| theoretical | 33 | 192 | 60 | 48 | 333 |
+| review | 32 | 153 | 66 | 104 | 355 |
+| associational | 22 | 349 | 161 | 238 | 770 |
+| qualitative | 50 | 143 | 51 | 54 | 298 |
+| design | 23 | 213 | 117 | 27 | 380 |
+| theoretical | 33 | 201 | 64 | 50 | 348 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 578 (18%) | 1,786 (56%) | 717 (22%) | 112 (4%) |
+| 594 (18%) | 1,862 (57%) | 724 (22%) | 112 (3%) |
 
-**Studies per claim:** 0: 0, 1: 9,913, 2: 191, 3: 50, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 10,299, 2: 194, 3: 50, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -45,6 +45,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 |---|---|---|---|
 | [Karpicke, J. D. (2017). Retrieval-Based Learning: A Decade of Progress. Learning and Memory: A Comprehensive …](claims/adding-explanation-prompts-to-free-recall-retrieval-has-mixed-effects.md) | q2 | 34 | 33 |
 | [ClassWide Peer Tutoring: WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of …](claims/cwpt-ctbs-effect-significance-discrepancy.md) | q3 | 26 | 26 |
+| [John Q. Easton, Stephen Ponisciak, Stuart Luppescu. (2008). From High School to the Future: The Pathway to …](claims/academic-culture-raises-act-scores.md) | q2 | 22 | 22 |
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 19 | 19 |
 | [Hiroyuki Yamada. (2024). New Normal in Early Elementary Mathematics Learning: Part III - Learning from …](claims/algebra-domain-strongest-predictor-early-math.md) | q2 | 17 | 17 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
@@ -62,7 +63,6 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Andy Hegedus, Ed.D. (2018). Evaluating the Relationships between Poverty and School Performance. NWEA …](claims/46-percent-low-achieving-schools-same-growth-as-top.md) | q2 | 10 | 10 |
 | [Gupta, U., & Zheng, R. Z. (2020). Cognitive Load in Solving Mathematics Problems: Validating the Role of …](claims/extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) | q3 | 10 | 10 |
 | [Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A …](claims/attentive-knowledge-tracing-benefits-from-repeated-interactions.md) | q2 | 10 | 10 |
-| [Johnson, A. (2022). Achievement and growth for English Learners. (NWEA Center for School and Student Progress …](claims/dually-identified-lowest-scores-widening-gaps.md) | q2 | 10 | 10 |
 
 ## Citation load against evidence base
 
@@ -134,14 +134,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 375 | 323 | 2 | 0 |
-| [elements](elements/index.md) | 2,194 | 1,692 | 1 | 0 |
+| [elements](elements/index.md) | 2,194 | 1,693 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
-| [strategies](strategies/index.md) | 4,429 | 2,338 | 6 | 0 |
+| [strategies](strategies/index.md) | 4,505 | 2,338 | 6 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,695 | 1,393 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
-| [designs](designs/index.md) | 252 | 158 | 1 | 0 |
+| [designs](designs/index.md) | 265 | 164 | 1 | 0 |
 
 ## Toward pooled estimates
 

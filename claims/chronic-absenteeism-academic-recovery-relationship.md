@@ -48,3 +48,4 @@ The page describes a technical appendix for a brief that "examines the relations
 - [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](two-components-post-covid-school-recovery-patterns.md) — related
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — a narrower finding that bears on this claim
 - [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related
+- [Supportive school environments and strong teacher-student relationships speed recovery from learning loss](supportive-environments-relationships-speed-recovery.md) — related

@@ -54,3 +54,4 @@ This is the page's description of the white paper 'How Post‑COVID Norm Shifts 
 - [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](spanish-map-reading-adaptive-lower-sem.md) — related
 - [The 2025 MAP Growth Norms are based on national test samples from 2022–23 and 2023–24, and dashboard results are not comparable to reports using 2020 norms](2025-norms-based-on-2022-23-and-2023-24-samples.md) — related
 - [The enhanced item-selection algorithm (EISA) causes shifts in math scores that were fully accounted for in the 2025 norms and the dashboard](eisa-causes-math-score-shifts-accounted-in-2025-norms.md) — related
+- [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related

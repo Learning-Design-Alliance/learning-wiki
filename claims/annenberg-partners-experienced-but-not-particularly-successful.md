@@ -68,3 +68,4 @@ The report attributes the overall null pattern to other reports of the Chicago A
 - [Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role](aligned-resources-and-distributive-leadership-distinguish-improving-schools.md) — related
 - [Many Annenberg schools had weak human and social resources, including low trust among teachers, limiting their capacity for school development](annenberg-schools-weak-capacity-low-trust.md) — related
 - [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](annenberg-capacity-gains-eroded-by-2001.md) — related
+- [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — related

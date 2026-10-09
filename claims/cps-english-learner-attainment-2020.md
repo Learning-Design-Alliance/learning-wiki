@@ -67,3 +67,6 @@ Descriptive comparison of immediate college enrollment by EL status for spring 2
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
 - [Former English Learners graduated from CPS high school at a higher rate than never-English Learners, while active English Learners graduated at a slightly lower rate](cps-graduation-english-learner-status.md) — related
 - [Never being expelled in high school was a substantially stronger predictor of college enrollment for Hispanic, English learner, older-entry, and town/rural students than for their counterparts](never-expelled-stronger-predictor-marginalized-groups.md) — related
+- [CPS class of 2024 students reached near-record highs in high school graduation (84%) and immediate college enrollment (66%), on par with national averages](cps-2024-graduation-enrollment-near-record-highs.md) — related
+- [Former English Learners graduated from CPS high school at a higher rate (89.0%) than students never classified as English Learners (84.1%)](cps-former-els-graduate-higher-than-never-els.md) — related
+- [Former English Learners had higher Freshman OnTrack and graduation rates than the district average in Chicago Public Schools](former-els-outperform-district-average-high-school.md) — related

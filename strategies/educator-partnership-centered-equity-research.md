@@ -42,6 +42,7 @@ This strategy makes schools or instructors full partners in research, linking th
 - [Conduct an organizational M&E self-assessment early in the research cycle to target external support](early-cycle-me-capacity-self-assessment-strategy.md)
 - [Focus equity-relevant research at the classroom and systems levels, treating teachers—not just technology—as drivers of change](classroom-system-level-equity-focus.md)
 - [Partner with academic researchers by approaching early, aligning motivations, and maintaining trust and transparency](partnering-with-academic-researchers.md)
+- [Build personal connections and find common ground in research-practice partnerships](personal-connections-rpp-common-ground.md)
 
 ## Examples
 -

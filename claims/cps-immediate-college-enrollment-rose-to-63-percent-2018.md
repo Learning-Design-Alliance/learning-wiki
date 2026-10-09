@@ -47,3 +47,7 @@ Figure 8 takeaway from this descriptive report on immediate college enrollment o
 - [In almost every Chicago community area, more than 50 percent of 2019 graduates enrolled immediately in college, while 16 percent of high schools had enrollment rates below 50 percent](college-enrollment-above-50-most-community-areas.md) — related
 - [Two-thirds of CPS graduates immediately enrolled in a two- or four-year college in 2017, up from 50 percent in 2006](cps-immediate-college-enrollment-two-thirds-2017.md) — possibly the same claim (merge candidate)
 - [CPS graduates' immediate college enrollment increased between 2006 and 2015, driven mainly by growth in four-year college enrollment](cps-college-enrollment-growth-four-year.md) — possibly the same claim (merge candidate)
+- [Approximately 10 percent of CPS graduates accepted into a four-year college do not enroll the following fall](accepted-but-not-enrolled-summer-melt-cps.md) — related
+- [The CPS four-year college enrollment rate rose from 33 percent in 2006 to 42 percent in 2014, slightly below the national rate](cps-four-year-enrollment-33-to-42-percent.md) — related
+- [CPS two-year enrollment rose modestly between 2006 and 2015 but declined as a share of college-going while four-year enrollment climbed after 2013](cps-two-year-enrollment-share-declined-2006-2015.md) — related
+- [Growth in CPS graduates' two-year enrollment was largely at City Colleges of Chicago and much of it predates the system's reform efforts](two-year-growth-concentrated-city-colleges-predating-reforms.md) — related

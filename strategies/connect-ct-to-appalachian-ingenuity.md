@@ -42,6 +42,8 @@ The presentation's current guiding question is connecting computational thinking
 - [Kentucky Appalachia Ct Pathway Rpp](../elements/kentucky-appalachia-ct-pathway-rpp.md)
 - Agency Permission To Shape The Future
 - [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](connect-ct-to-local-maker-heritage.md)
+- [Use named community strengths — kinship, hopes and dreams for the future, grit and resistance to injustice — as scaffolds in K-8 CS/CT instruction](appalachian-strengths-as-scaffolds-k8-ct.md)
+- [Panel protocol: open with community cultural resources, then moderated discussion connecting community assets to computing education](community-cultural-resources-panel-protocol.md)
 
 ## Examples
 -

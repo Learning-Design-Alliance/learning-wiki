@@ -44,3 +44,4 @@ Trend analysis of six-year graduation rates for ever-Options students (Figure 13
 
 ## Related Claims
 - [CPS four-year high school graduation rose to 84.0% in 2022, the highest rate in recent history, after a slight pandemic-related decline in 2021](cps-graduation-rate-84-percent-2022.md) — related
+- [Graduation rates declined by about four percentage points in the first policy year and one more the next, then recovered to nearly pre-policy levels within five years](cps-graduation-rates-declined-then-recovered.md) — related

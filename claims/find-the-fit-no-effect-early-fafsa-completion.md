@@ -49,3 +49,4 @@ The evaluation's key findings state the program "Did not affect the share of stu
 - [Regular Upward Bound shows no detectable effects on postsecondary enrollment, financial aid application or receipt, or bachelor's or associate's degree completion](upward-bound-no-detectable-degree-enrollment-aid-effects.md) — related
 - [Twelfth graders report high rates of college-preparation actions, with 80 percent at Sample School reporting they applied for financial aid versus 68 percent across CPS](twelfth-graders-financial-aid-application-rates.md) — related
 - [Find the Fit had no impact on the importance students placed on academic quality in choosing a college](find-the-fit-no-impact-importance-academic-quality.md) — related
+- [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related

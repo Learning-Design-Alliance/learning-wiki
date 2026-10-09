@@ -44,3 +44,4 @@ The report's review of the current state of computing education, citing Banilowe
 - [Participating districts report large enrollment gaps in CS courses by income and gender](cs-enrollment-gaps-income-gender.md) — related
 - [Larger CPS high schools were consistently more likely to offer CS courses than smaller schools in both 2012 and 2018](school-size-cs-offering-gap.md) — related
 - [Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018](student-cs-access-92-percent-2018.md) — related
+- [Black students are less likely than white students to attend schools offering computer science classes](black-students-less-likely-cs-classes-2016-report.md) — a narrower finding that bears on this claim

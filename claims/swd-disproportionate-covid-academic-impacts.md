@@ -50,3 +50,4 @@ The brief's own framing statement, posed as a question motivating the brief. It 
 - [Most Pennsylvania students were in LEAs that prioritized students with disabilities for in-person instruction, and the pandemic made special education services harder to provide](pa-leas-prioritized-disabilities-in-person.md) — related
 - [The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery](nwea-visualization-state-level-covid-insights.md) — related
 - [Students with disabilities suffered disproportionately from reduced instructional time and disconnection from school communities during COVID-19](students-with-disabilities-disproportionately-hurt-by-covid-instructional-loss.md) — related
+- [COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic](covid-losses-concentrated-early-grades-struggling-students.md) — related

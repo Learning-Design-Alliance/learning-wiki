@@ -48,3 +48,4 @@ Context analysis of Chicago school reform policy within the report's section on 
 - [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](probation-support-relies-on-traditional-workshops.md) — related
 - [Organizational-level support targeted four areas: coordination and leadership, professional norms, monitoring of instruction and learning, and resources](organizational-support-four-target-areas.md) — related
 - [Rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding, learner-centered activities, especially in schools serving learners of color and those experiencing poverty](pacing-guides-force-teacher-centered-lessons.md) — related
+- [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related

@@ -46,3 +46,4 @@ This is the article's stated method: it leverages "student-level data from a lar
 - [Effects of summer credit recovery on 4- and 5-year graduation rates for newcomer ELs were imprecisely estimated](credit-recovery-graduation-effects-imprecise.md) — related
 - [Summer credit recovery shows suggestive evidence of positive effects on English proficiency for newcomer ELs](credit-recovery-suggestive-english-proficiency-gains.md) — related
 - [Summer credit recovery increased the number of math, English Language Arts, science, and social science classes taken by newcomer EL students](summer-credit-recovery-increases-course-taking-newcomer-els.md) — a narrower finding that bears on this claim
+- [Triple-difference estimates suggest English Learners drive the reduction in four-year college attendance under Early College](ddd-els-drive-four-year-reduction.md) — related

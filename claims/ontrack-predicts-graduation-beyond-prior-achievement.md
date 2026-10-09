@@ -90,3 +90,9 @@ Citing prior Consortium research, the report states that predicting ninth-grade 
 - [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers](off-track-ninth-grade-graduation-odds.md) — related
 - [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers, with disproportionate impacts on Black and Latino students](off-track-ninth-grade-half-graduation-likelihood.md) — related
 - [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
+- [The CRIS framework extends existing early warning systems beyond graduation and academic measures](cris-extends-early-warning-systems.md) — related
+- [Freshman-year GPA alone correctly predicts about 80 percent of on-time high school graduates](freshman-gpa-predicts-80-percent-ontime-graduation.md) — related
+- [The Freshman OnTrack indicator is more predictive of graduation than eighth-grade test scores, SES, race/ethnicity, gender, and school mobility combined, and raising it raises graduation rates](freshman-ontrack-predictive-and-causal-indicator.md) — related
+- [In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction](middle-grades-grades-attendance-best-prediction.md) — related
+- [Students on track in ninth grade were four times more likely than off-track peers to graduate high school](ninth-grade-on-track-four-times-graduation.md) — related
+- [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](on-track-predicts-graduation-three-and-half-times.md) — related

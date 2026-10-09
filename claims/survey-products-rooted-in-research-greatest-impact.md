@@ -44,3 +44,4 @@ Self-report survey item from the December 2021 Digital Promise survey of certifi
 - [The report calls for reframing edtech certification applications to help developers identify equity gaps in the research they use](certification-equity-gap-reframing.md) — related
 - [Majorities say edtech improves students' learning experiences, but few think it does so greatly, and a plurality of teachers say it hurts collaboration](edtech-broad-support-shallow-collaboration-caveat.md) — related
 - [Certified edtech developers report that learning sciences research helps them name and evaluate their product's expected impact on learning](edtech-developers-report-research-clarifies-impact.md) — related
+- [Only 20% of the 100 most used edtech products have a research rationale](only-20-percent-top-edtech-research-rationale.md) — related

@@ -43,3 +43,4 @@ Report's synthesis of district leaders' experiences, drawn from Digital Promise'
 ## Related Claims
 - [Most district ed-tech needs assessments are informal; formal needs assessments are rare](edtech-needs-assessments-mostly-informal.md) — related
 - [Students, teachers, and principals are perceived to have limited involvement in ed-tech procurement decisions, and providers are far less satisfied with end-user involvement than district stakeholders](limited-end-user-involvement-edtech-procurement.md) — related
+- [The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers](frontline-ecosystem-siloed-data-flow.md) — related

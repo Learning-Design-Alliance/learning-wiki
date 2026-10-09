@@ -47,3 +47,4 @@ The article's narrative of the Algebra Initiative reports that the double-dose i
 - [Chicago's Algebra Initiative raised the 8th-grade algebra pass rate from 4% in 2002 to about 20% by 2017 and closed two-thirds of the NAEP gap](cps-algebra-initiative-gains.md) — related
 - [Chicago's public school system moved from among the most troubled in America in 1987 to among the most improved thirty years later](chicago-schools-most-troubled-to-most-improved.md) — related
 - [Double-dose algebra improved test scores but did not reduce algebra failure rates](double-dose-did-not-improve-failure-rates.md) — reports the opposite
+- [Extended learning time interventions, including week-long acceleration academies with highly effective teachers and some double-dose math structures, show strong evidence of effectiveness](extended-learning-time-academies-double-dose-math-effective.md) — a broader claim this one bears on

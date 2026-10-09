@@ -49,3 +49,4 @@ Descriptive trend analysis of eight entering CPS cohorts (unadjusted, no control
 - [ACT scores rose even with more test takers, growing most in Era 3 in selective enrollment and racially integrated schools](act-scores-rose-most-selective-integrated-schools.md) — related
 - [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — reports the opposite
 - [On-track rates after ninth grade rose from 42.2 to 50.6 percent, with slightly less than half the adjusted improvement attributable to better-prepared entering students](chicago-on-track-rates-rose-half-beyond-composition.md) — related
+- [Rising CPS graduation rates have been accompanied by higher achievement, including ACT and GPA gains](cps-graduation-gains-with-achievement-gains.md) — related

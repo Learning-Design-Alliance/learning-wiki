@@ -49,3 +49,4 @@ This is a theory-building empirical case study, not an intervention trial: there
 ## Related Claims
 - (none yet linked)
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
+- [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](numeracy-measurable-54-months-three-competencies.md) — related

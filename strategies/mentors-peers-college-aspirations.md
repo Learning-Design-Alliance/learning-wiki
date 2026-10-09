@@ -41,6 +41,7 @@ Recommendation 3 describes how high schools can help students build college-goin
 - [Develop a four-year course trajectory with each 9th grader leading to a college-ready curriculum](four-year-course-trajectory-9th-grade.md)
 - [Engage Positive Role Models](engage_positive_role_models.md)
 - [Replace Negative Influences with Positive Ones](replace_negative_influences_with_positive_ones.md)
+- [Use score-linked college exploration alongside goal setting and parent conferences to build post-secondary plans](college-explorer-with-goal-setting-and-parent-conferences.md)
 
 ## Examples
 -
