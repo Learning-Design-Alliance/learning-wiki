@@ -43,6 +43,7 @@ Andragogy is Malcolm Knowles' theoretical framework of assumptions about how adu
 ## Related Theories
 
 - [Knowles' andragogy (Adult Learning Theory) as the framework for adult immigrant instruction](andragogy-knowles-adult-learning-theory.md)
+- [Five adult learning theories — andragogy, experiential learning, self-directed learning, transformational learning, and neuroscience — as a design framework for adult-learning technology](five-theories-adult-learning-design-framework.md)
 
 ## Examples
 -

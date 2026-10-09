@@ -65,6 +65,8 @@ Bias in educational AI is well documented: automated systems can encode racial d
 
 - [Address Biases in the Use of Language and Symbols](../strategies/address_biases_in_the_use_of_language_and_symbols.md) — the content-level complement: bias also lives in examples, imagery, and wording, not only in models
 - [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
+- [Ask ethics, bias, and equity questions before adopting an AI system](ethics-bias-equity-questions-for-ai.md)
+- [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
 
 ## Examples
 - **Gender Shades (Buolamwini & Gebru, 2018)** — the canonical demonstration that commercial facial analysis systems showed far higher error rates for darker-skinned women than lighter-skinned men; it established subgroup testing as standard practice and is directly relevant to face-based proctoring and identity tools in edtech.

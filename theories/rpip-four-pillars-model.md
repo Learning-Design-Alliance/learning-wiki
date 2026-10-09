@@ -48,6 +48,7 @@ The RPIP model extends the Research Practice Partnership framework by bringing i
 
 - [Research-Practice-Industry Partnerships (RPIPs) integrating problems of practice, learning sciences, and edtech development](research-practice-industry-partnerships-rpip.md)
 - [Research-practice-technology partnerships (RPTPs) as the ecosystem sustaining modelable systems](research-practice-technology-partnership-framework.md)
+- [Research-Practice-Industry Partnership (RPIP) model](rpip-model.md)
 
 ## Examples
 

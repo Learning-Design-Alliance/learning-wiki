@@ -41,6 +41,7 @@ The article describes a full-day convening process with eight steps: inviting a 
 
 - [Open convenings with equity sentence stems and equity champion keynotes to build trust and shared commitment](equity-talks-sentence-stems-and-champion-keynotes.md)
 - [Inclusive Innovation Process](inclusive_innovation_process.md)
+- [Change stakeholder roles and investments so marginalized participants can engage as co-experts in R&D](role-investments-for-inclusive-rd-participation.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Case study data: a biology student described retaining little across 20-minute v
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
 - [Pre-reflective students initially reacted negatively to the lecture-free course but the restructure fostered growth in their reflective judgment](pre-reflective-students-growth-in-restructured-course.md) — related
 - [Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content](highly-reflective-students-found-restructured-course-unchallenging.md) — related
+- [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related

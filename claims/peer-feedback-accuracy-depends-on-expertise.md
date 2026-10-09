@@ -92,3 +92,4 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 - [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
 - [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related
 - [The report measures how novice teachers' effectiveness changes with experience relative to veteran teachers' change in effectiveness](dcps-impact-novice-versus-veteran-effectiveness-growth.md) — related
+- [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related

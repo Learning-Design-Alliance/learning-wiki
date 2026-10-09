@@ -169,6 +169,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - **Text selection with representation**: Instructors choose readings and cases that reflect a broader range of voices, histories, and cultural frames.
 - **Context mapping**: Before a new unit, learners identify what prior experience or community knowledge might connect to the topic.
 - [Connect computer science learning to Appalachian ingenuity and community identity to move it from novelty to change](../strategies/connect-ct-to-appalachian-ingenuity.md)
+- [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](../strategies/connect-ct-to-local-maker-heritage.md)
 
 ## Key Sources
 - Hansman, C. A. (2001). Context-based adult learning. *New Directions for Adult and Continuing Education, 89*, 43-52. [https://doi.org/10.1002/ace.7](https://doi.org/10.1002/ace.7)

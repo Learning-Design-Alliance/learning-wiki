@@ -56,3 +56,4 @@ This is a well-documented single-site qualitative case study (q2) with real meth
 - [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
+- [Research question co-design builds community and moves research closer to practice](co-design-builds-community-closer-practice.md) — related

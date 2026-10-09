@@ -62,3 +62,4 @@ Students did not navigate to or mention the Introduce Yourself module unless pro
 ## Related Claims
 - [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](interviews-undergrad-stats-lumen-one-perceptions.md) — related
 - [Undergraduate statistics students most frequently used and valued the courseware's ungraded formative practice features, the Readiness Check and Self Check](students-value-ungraded-formative-practice-lumen-one.md) — related
+- [Sync feature uptake declined between survey and interview, with non-users citing unawareness, technical difficulties, or single-device viewing](splash-bubbles-sync-feature-uptake-and-barriers.md) — related

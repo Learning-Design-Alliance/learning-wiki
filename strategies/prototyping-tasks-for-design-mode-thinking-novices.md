@@ -45,6 +45,7 @@ This strategy involves introducing prototyping activities—creating designs tha
 - [Multiple Writing Surfaces](multiple_writing_surfaces.md)
 - [Product Testing](product-testing.md)
 - [Create Space for Students to Reflect](create_space_for_students_to_reflect.md)
+- [Use technology after learner effort to protect productive struggle](use-technology-after-effort.md)
 
 ## Examples
 -

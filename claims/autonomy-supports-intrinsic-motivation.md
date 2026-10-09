@@ -111,3 +111,7 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Teachers shape writing outcomes through instructional practices and through engagement, support, and feedback](teacher-practices-support-feedback-shape-writing.md) — related
 - [Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment](fh2t-students-doers-of-mathematics-agency.md) — a narrower finding that bears on this claim
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — a narrower finding that bears on this claim
+- [Educators grew more confident supporting student autonomy and leading media production through the program](360-filmmakers-challenge-educator-confidence-autonomy.md) — related
+- [Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence](360-filmmakers-challenge-personal-meaning-motivation.md) — a narrower finding that bears on this claim
+- [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
+- [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — related

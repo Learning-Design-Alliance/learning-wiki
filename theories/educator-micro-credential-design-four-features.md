@@ -50,12 +50,15 @@ The report defines educator micro-credentials as an emerging learning design wit
 - [The micro-credential ecosystem of issuers, earners, and recognizers](micro-credential-ecosystem-three-roles.md)
 - [Standards for Professional Learning as a seven-standard framework for results-oriented educator learning](standards-for-professional-learning-seven-standards.md)
 - [Digital Promise quality-assurance framework for research-backed, evidence-based micro-credentials](micro-credential-quality-framework.md)
+- [Three-player micro-credential ecosystem](micro-credential-ecosystem-three-players.md)
+- [Four design features of educator micro-credentials](micro-credential-four-design-features.md)
 
 ## Examples
 
 - [Micro Credentials And Badging](../strategies/micro-credentials-and-badging.md)
 - [Micro Credentials](../strategies/micro-credentials.md)
 - [Digital Open Badges](../elements/digital-open-badges.md)
+- [Attach micro-credentials to district initiatives, incentives, and job-embedded structures to strengthen professional learning systems](../strategies/attach-micro-credentials-to-district-initiatives-and-incentives.md)
 
 ## Key Sources
 - Crow, T. (contributing author Pipkin, H.). (2017). Micro-credentials for Impact: Holding Professional Learning to High Standards. Learning Forward and Digital Promise. https://www.digitalpromise.org/micro-credentials

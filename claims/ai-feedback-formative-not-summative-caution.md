@@ -47,3 +47,4 @@ Coach observation reported in the formative data literacy findings. Coaches also
 - [Coursemojo's color-coded engagement dots served as a real-time diagnostic that coaches reported enabled in-the-moment scaffolding and small group pulls](engagement-dots-realtime-diagnostic-small-groups.md) — related
 - [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
 - [In a landscape scan survey, 12 of 13 coaches agreed or strongly agreed that AI ELA products can help personalize learning](survey-coaches-ai-personalization-benefit.md) — related
+- [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related

@@ -48,6 +48,7 @@ E-TRIALS is described as "a free learning science A/B testing platform that allo
 - [Evidence to Insights (e2i) Coach: a free online platform for testing what works in remote learning](e2i-coach-platform.md)
 - [SEERNet hub of five digital learning platforms enabling large-scale education research](seernet-five-dlps-hub.md)
 - [SEERNet: a network of five digital learning platforms operating as research infrastructure](seernet-dlp-research-infrastructure.md)
+- [UpGrade open-source A/B testing platform for classroom-embedded field experiments](upgrade-ab-testing-platform.md)
 
 ## Examples
 

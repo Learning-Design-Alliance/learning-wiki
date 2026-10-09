@@ -47,3 +47,4 @@ Qualitative finding from the UChicago Consortium's six focus groups with Chicago
 - [Inclusive, family-focused co-curricular events deepened relationships between educators and parents](family-focused-co-curricular-events-relationships.md) — related
 - [Mobile apps increased timely, direct communication between parents and educators during remote schooling](mobile-apps-timely-parent-teacher-communication.md) — related
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — a broader claim this one bears on
+- [Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests](parents-adapted-family-guide-activities.md) — related

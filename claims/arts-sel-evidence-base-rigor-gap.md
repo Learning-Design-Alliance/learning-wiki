@@ -49,3 +49,4 @@ The report's own narrative literature review of arts education and social-emotio
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related
 - [The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards](dual-language-evidence-base-thin-two-of-122.md) — related
 - [Educators' efforts to support SEL are hampered by a lack of available, unbiased measures of related competencies](sel-measurement-lack-unbiased-measures.md) — related
+- [Evidence and evaluation standards for educational AI are immature, widening the gap between product release pace and rigorous evaluation](edtech-ai-evidence-standards-immature.md) — related

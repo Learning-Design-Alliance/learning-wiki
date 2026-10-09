@@ -48,6 +48,7 @@ The article defines breakthrough innovation in education as "a highly novel adva
 ## Related Theories
 
 - [Five-factor taxonomy distinguishing education innovations as breakthroughs](five-factors-breakthrough-innovation-taxonomy.md)
+- [Strong Field Framework adapted to Breakthrough R&D in Education with five conditions](strong-field-framework-breakthrough-rd-education.md)
 
 ## Examples
 -

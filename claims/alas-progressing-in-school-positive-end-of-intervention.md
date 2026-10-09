@@ -48,3 +48,4 @@ Randomized controlled trial, progressing-in-school outcome conditional on remain
 - [The WWC rates ALAS as having potentially positive effects on staying in school and progressing in school](alas-wwc-potentially-positive-rating.md) — a broader claim this one bears on
 - [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
+- [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related

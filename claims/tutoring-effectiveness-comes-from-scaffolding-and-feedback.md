@@ -87,3 +87,4 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — related
 - [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
+- [Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning](productive-difficulty-edge-of-mastery.md) — related

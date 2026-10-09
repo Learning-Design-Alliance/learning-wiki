@@ -66,6 +66,7 @@ Cultural competency training works when it moves beyond awareness-raising toward
 - [Action Planning](action_planning.md) — converts training insights into concrete, scheduled relationship-building commitments
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — a concrete, observable application of competency training to school materials and messaging
 - [Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff](stereotype-awareness-cultural-activities.md)
+- [During adoption, determine professional learning needs and secure sustainable funding for training before proceeding](adoption-stage-professional-learning-funding.md)
 
 ## Examples
 - **Bridging Cultures Project** (WestEd) — a research-based professional development program in which teachers examined conflicting frameworks (individualistic vs. collectivistic) and applied them to immigrant Latino family engagement; documented changes in teachers' interpretations of family behavior and in school practices (https://www.wested.org)

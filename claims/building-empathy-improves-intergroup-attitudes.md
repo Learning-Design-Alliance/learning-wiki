@@ -104,3 +104,4 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 - [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
+- [Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives](360-filmmakers-challenge-perspective-taking.md) — related

@@ -67,3 +67,6 @@ National survey of 620 STEM students asked about post-COVID course practices; "3
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — a broader claim this one bears on
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on
+- [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](collaboration-interest-belonging-worse-online.md) — related
+- [Instructors widely relaxed deadlines and adjusted grading to accommodate pandemic circumstances, while balancing compassion with academic rigor](instructors-flexible-deadlines-grading-covid.md) — related
+- [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](remote-shift-reduced-collaborative-learning.md) — possibly the same claim (merge candidate)

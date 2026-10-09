@@ -37,7 +37,8 @@ The article recommends embedding Family MUAC with two-way SMS into existing heal
 - Sustained caregiver skill in measuring and reporting child mid-upper arm circumference
 
 ## Related Strategies
-- 
+
+- [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 
 ## Examples
 -

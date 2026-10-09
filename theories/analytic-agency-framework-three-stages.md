@@ -45,7 +45,9 @@ The framework treats data analysis as proceeding through three stages: explorati
 - [Mixed-effects models showed significant shifts in pose keypoints emphasized by the detector before-to-during and before-to-after interactions, while no audio features changed significantly](../claims/keypoint-shifts-significant-audio-null.md) [+W]
 
 ## Related Theories
-- 
+
+- [Three methodological approaches organize cyberlearning methods work: design-based research, learning analytics, and multimodal analytics](cyberlearning-research-methods-three-approaches.md)
+- [Multimodal analysis: studying learning with multiple integrated data streams](multimodal-analysis-cyberlearning-method.md)
 
 ## Examples
 

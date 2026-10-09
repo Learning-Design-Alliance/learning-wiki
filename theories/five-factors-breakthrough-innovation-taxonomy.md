@@ -44,7 +44,9 @@ The article proposes that "Five factors can distinguish an education innovation 
 - [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](../claims/breakthrough-system-reconfiguration-actors-routines.md) [+W]
 
 ## Related Theories
+
 - [Breakthrough Innovation Education Working Definition](breakthrough-innovation-education-working-definition.md)
+- [Strong Field Framework adapted to Breakthrough R&D in Education with five conditions](strong-field-framework-breakthrough-rd-education.md)
 
 ## Examples
 -

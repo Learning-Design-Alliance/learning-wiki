@@ -43,6 +43,7 @@ The report organizes school-system R&D practices into six dimensions—strategy,
 - [Professional Learning Communities defined by five dimensions with a four-stage development scale](plc-five-dimensions-four-stage-scale.md)
 - [Three-stage model of developing district computational thinking pathways: Getting Started, Getting Going, Getting Better](ct-pathway-development-stages.md)
 - [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
+- [Student success systems framework: four essential elements for secondary schools](student-success-systems-four-elements-framework.md)
 
 ## Examples
 

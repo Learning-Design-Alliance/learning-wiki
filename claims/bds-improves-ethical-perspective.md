@@ -65,3 +65,4 @@ Item-level WWC calculations in Appendix A4 for the ethical perspective scale: Di
 - [Effects favoring the curriculum-plus-service-learning condition over service-learning alone appeared only for ethical awareness and ethical perspective](bds-curriculum-adds-beyond-service-learning-alone.md) — related
 - [Building Decision Skills combined with service learning has potentially positive effects on high school students' knowledge, attitudes, and values](bds-service-learning-potentially-positive-kav.md) — a broader claim this one bears on
 - [Building Decision Skills plus service learning showed no statistically significant effects on self-esteem, general social responsibility, or anticipated community participation](bds-null-self-esteem-general-responsibility.md) — related
+- [Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives](360-filmmakers-challenge-perspective-taking.md) — related

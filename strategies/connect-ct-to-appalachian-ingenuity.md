@@ -38,8 +38,10 @@ The presentation's current guiding question is connecting computational thinking
 - Identity as community makers and creators
 
 ## Related Strategies
+
 - [Kentucky Appalachia Ct Pathway Rpp](../elements/kentucky-appalachia-ct-pathway-rpp.md)
 - Agency Permission To Shape The Future
+- [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](connect-ct-to-local-maker-heritage.md)
 
 ## Examples
 -

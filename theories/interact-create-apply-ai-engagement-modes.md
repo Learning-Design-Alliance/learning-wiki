@@ -44,6 +44,7 @@ Building on the research-based 4 As framework for families' AI literacy dimensio
 - [Three commonplace digital equity gaps for AI and emerging educational technologies: access, design, and use](access-design-use-digital-equity-gaps.md)
 - [AI Literacy Framework of three interconnected Modes of Engagement: Understand, Evaluate, and Use](ai-literacy-framework-three-modes-of-engagement.md)
 - [Three Types of Use: Interacting with AI, Creating with AI, and Problem Solving with AI](three-types-of-ai-use-interact-create-problem-solve.md)
+- [AI Literacy Framework's three Modes of Engagement: Understand, Use, Evaluate](ai-literacy-modes-understand-use-evaluate-report.md)
 
 ## Examples
 -

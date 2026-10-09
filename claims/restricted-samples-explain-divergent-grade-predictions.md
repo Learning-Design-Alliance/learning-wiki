@@ -46,3 +46,4 @@ The interview's key takeaways state that "some studies may find different conclu
 - [Differences in grading practices across teachers and schools are small relative to students' actual academic preparation, and GPAs average out those differences](grading-differences-small-gpa-averages-teacher-differences.md) — related
 - [Contextualized high school GPA had a stronger relationship with college success than contextualized standardized test scores (Bastedo et al., attributed)](contextualized-gpa-stronger-than-contextualized-test-scores.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
+- [Prior GPA was the best predictor of students' course grade, whether or not students used courseware.](prior-gpa-best-grade-predictor.md) — related

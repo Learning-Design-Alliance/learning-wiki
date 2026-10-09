@@ -92,3 +92,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Metacognitive activity alone does not equate to effective regulation; unaccompanied metacognitive processes may be counterproductive](metacognitive-alone-not-effective-regulation.md) — related
 - [School survey report information is intended to help schools assess their progress and plan for the future](survey-reports-support-school-progress-assessment.md) — related
 - [All types of regulation can be explicitly taught and improved with time, effort, and effective feedback](regulation-skills-can-be-taught.md) — related
+- [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related

@@ -45,3 +45,4 @@ The author's framing statement that the transcript is "the accepted currency" fo
 ## Related Claims
 - [Low engagement with assessment lowered grades at all levels of the 2007-08 Physics 1Y grade distribution](absenteeism-lowers-grades-all-levels.md) — related
 - [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — related
+- [Inaccurate and disjointed information from third-party transcript integrations was a pervasive onboarding problem](transcript-integration-inaccuracies-pervasive.md) — related

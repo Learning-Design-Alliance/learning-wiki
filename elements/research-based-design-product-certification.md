@@ -37,7 +37,9 @@ A third-party certification, launched by Digital Promise in February 2020, that 
 - identifying products designed to support meaningful learning
 
 ## Related Elements
-- 
+
+- [Digital Promise Product Certifications Pilot and Learning Sciences Research-Based Design certification](digital-promise-product-certifications-pilot.md)
+- [EdTech Index with third-party validations](edtech-index-third-party-validations.md)
 
 ## Examples
 

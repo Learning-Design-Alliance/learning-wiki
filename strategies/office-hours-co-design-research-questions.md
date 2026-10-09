@@ -41,6 +41,7 @@ Office Hours: A Conversational Series was SEERNet's first application of its gui
 ## Related Strategies
 
 - [Plan an extended feasibility phase in which research and platform teams jointly refine design, implementation, and logistics](extended-feasibility-phase-dlp-research.md)
+- [Engaging practitioners through an advisory board, co-design office hours, and guiding-principles publications](seernet-practitioner-engagement-strategy.md)
 
 ## Examples
 -

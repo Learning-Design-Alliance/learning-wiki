@@ -51,6 +51,7 @@ The paper adopts Kolb's (1984) definition of experiential learning as "the proce
 - [Kolb's four-stage experiential learning model and its four learning style categories](kolb-four-stage-experiential-learning-model.md)
 - [Kolb's experiential learning cycle as the pedagogical basis for an engineering learning module](kolb-elt-cycle-engineering-module-basis.md)
 - [Kolb's experiential learning cycle and four learning styles](kolb-experiential-learning-cycle-styles.md)
+- [Five adult learning theories — andragogy, experiential learning, self-directed learning, transformational learning, and neuroscience — as a design framework for adult-learning technology](five-theories-adult-learning-design-framework.md)
 
 ## Examples
 

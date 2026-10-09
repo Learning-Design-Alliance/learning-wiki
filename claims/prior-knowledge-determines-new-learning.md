@@ -68,3 +68,4 @@ This claim is one of the most robust premises in educational psychology, but its
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [Synaptic connectionism is argued to be implausible for complex cognition because synaptic plasticity has been studied only as an analog of simpler learning forms](synaptic-connectionism-implausible-complex-cognition.md) — related
 - [The pretest-posttest correlation is a factor in determining a study's statistical power in education evaluations using state assessments.](pretest-posttest-correlation-affects-statistical-power.md) — related
+- [Deep thinking and making connections help students build strong memories and learn more deeply](deep-thinking-connections-build-memories.md) — related

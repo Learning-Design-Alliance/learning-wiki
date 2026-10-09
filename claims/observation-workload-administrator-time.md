@@ -46,3 +46,4 @@ Spring 2013 administrator surveys. Based on reported time and observation counts
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — related
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related
 - [Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits](dual-evaluator-coach-role-undermines-learning.md) — related
+- [Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan](fragmented-data-systems-slow-intervention-planning.md) — related

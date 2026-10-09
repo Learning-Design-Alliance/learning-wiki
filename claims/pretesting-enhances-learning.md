@@ -138,3 +138,4 @@ Experiment 1: 25 UCLA undergraduates were given fictional trivia questions (inve
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — a structure-building device that supports the encoding retrieval depends on
 - [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — related
 - [Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety](two-part-collaborative-assessment-learning-experience.md) — related
+- [Retrieval practice strengthens memory and produces stronger, more enduring learning](retrieval-practice-strengthens-memory.md) — related

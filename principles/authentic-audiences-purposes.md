@@ -76,6 +76,7 @@ The expectation should weaken if comparisons that hold topic, time and order con
 - Reports for community partners, public explainers, policy briefs, exhibitions, or client-facing presentations are all viable forms when the audience actually matters
 - [Organization Simulation for Interdisciplinary Learning](../designs/organization-simulation-for-interdisciplinary-learning.md) — student teams compete for a real external client's business, with an authentic evaluator selecting the winning offer
 - [Interdisciplinary Course-Based Research Experience](../patterns/interdisciplinary-course-based-research-experience.md) — students write papers connected to real external research networks and mentors, not just the instructor
+- [Use community-focused prompts and authentic audiences to make creative projects personally meaningful](../strategies/community-prompts-authentic-audience-360-film.md)
 
 ## Key Sources
 - Wiggins, G. (2009). Real-world writing: Making purpose and audience matter. *English Journal, 98*(5), 29-37.

@@ -40,6 +40,7 @@ The article reproduces a logic model articulated in a companion paper, which "de
 ## Related Theories
 
 - [OpenSciEd practitioner needs maps: a conjecture-map-style framework linking seven support themes to three broad outcomes](openscied-practitioner-needs-maps.md)
+- [OpenSciEd research logic model with five components](open-scied-research-logic-model.md)
 
 ## Examples
 -

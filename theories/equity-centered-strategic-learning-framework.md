@@ -53,6 +53,7 @@ The partnership defines equity-centered strategic learning as the set of efforts
 - [Toolkit of guides and templates for launching and sustaining an intermediary-led cohort of strategic learning grantees](../elements/cbsl-strategic-learning-capacity-toolkit.md)
 - [Strengthen grantee strategic learning capacity through scoping support, provider matching, cohort learning activities, and thought partnership](../strategies/intermediary-capacity-building-four-supports.md)
 - [Four-part capacity-building support model: scoping, provider matching, cohort learning, and thought partnership](../strategies/four-part-capacity-building-support-model.md)
+- [Build teacher capacity through iterative, equity-centered professional development for pathway implementation](../strategies/teacher-capacity-pd-ct-pathways.md)
 
 ## Key Sources
 - Rabb, B., Gardner, E., Pottinger, E., Tallapragada, R., Resch, A., Vorias, T., & Knechtel, V. (2021). Toolkit for Building a Virtual Learning Cohort. Mathematica. https://www.mathematica.org/publications/toolkit-for-building-a-virtual-learning-cohort

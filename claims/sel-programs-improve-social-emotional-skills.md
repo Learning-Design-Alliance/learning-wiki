@@ -83,3 +83,5 @@ A systematic review of experimental and quasi-experimental studies of universal 
 - [Learning Genie effects on SEL outcomes were mixed, with Social and Emotional Development scores showing the greatest gains](learning-genie-sel-outcomes-mixed.md) — a narrower finding that bears on this claim
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [Research on summer programs addresses their implementation, design, and efficacy for literacy, math, and social-emotional learning outcomes](summer-programs-research-implementation-design-efficacy.md) — related
+- [Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice](forms-sel-checkins-anonymity.md) — a narrower finding that bears on this claim
+- [Implementing specific SEL curricula can improve academic performance, including learning to read](sel-curricula-improve-academic-performance.md) — related

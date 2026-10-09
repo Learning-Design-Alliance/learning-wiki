@@ -46,3 +46,4 @@ The interview acknowledges "differences in grading practices and standards acros
 ## Related Claims
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Studies finding grades less predictive often use restricted samples or weighted or self-reported GPAs, which are less accurate](restricted-samples-explain-divergent-grade-predictions.md) — related
+- [Prior GPA was the best predictor of students' course grade, whether or not students used courseware.](prior-gpa-best-grade-predictor.md) — a narrower finding that bears on this claim

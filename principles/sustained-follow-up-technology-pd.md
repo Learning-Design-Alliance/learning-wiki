@@ -49,6 +49,7 @@ The report argues that the traditional pattern of one-shot workshops, without fo
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](../strategies/gamification-implementation-support-strategy.md)
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](../strategies/fhao-teacher-professional-development.md)
 - [Train tutors in academic strategies through supervised practice with ongoing professional development across the year](../strategies/tutor-pre-service-training-supervised-practice.md)
+- [Prepare and test technology before launch, scaffold the learning curve, and leverage tech-savvy students as peer resources](../strategies/prepare-test-technology-before-launch-scaffold.md)
 
 ## Key Sources
 - CEO Forum on Education and Technology. (1999). School Technology and Readiness Report. Professional Development: A Link to Better Learning. The CEO Forum on Education and Technology, Year Two. https://eric.ed.gov/?id=ED428747

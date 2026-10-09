@@ -42,6 +42,8 @@ The program's delivery model combines several professional learning activities: 
 - [Leveraging Instructor Office Hours](leveraging_instructor_office_hours.md)
 - [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](layered-tutor-professional-development-support.md)
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
+- [Blend virtual ed-tech practice with regular in-person meetings and check-ins in summer learning programs](blended-summer-edtech-in-person-checkins.md)
+- [Raise teacher awareness of new features through professional development and outreach](raise-teacher-awareness-new-feature-pd-outreach.md)
 
 ## Examples
 -

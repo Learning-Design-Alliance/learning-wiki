@@ -53,6 +53,7 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - [Experiential learning: students develop opinions of a concept through interaction with information](dewey-experiential-learning-vr.md)
 - [Dewey's five-phase reflective cycle of thought](dewey-five-phase-reflective-cycle.md)
 - [Kolb's experiential learning cycle and four learning styles](kolb-experiential-learning-cycle-styles.md)
+- [Five adult learning theories — andragogy, experiential learning, self-directed learning, transformational learning, and neuroscience — as a design framework for adult-learning technology](five-theories-adult-learning-design-framework.md)
 
 ## Examples
 

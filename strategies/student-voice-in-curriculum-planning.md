@@ -64,6 +64,7 @@ Giving learners authentic decision rights increases ownership and intrinsic moti
 - [Activating Prior Knowledge](activating_prior_knowledge.md) — voice mechanisms double as tools for surfacing what students already know and want to know
 - [Engage youth as partners in stewardship rather than as subjects to be taught](youth-as-stewardship-partners.md)
 - [Use six concrete strategies to incorporate recipient input and make training and TA engaging](six-strategies-recipient-input-ta.md)
+- [Center youth as partners, not participants, in co-design](center-youth-as-partners-not-participants.md)
 
 ## Examples
 - **Students as Partners (International)** — a global movement documented by Cook-Sather and colleagues in which undergraduates co-design courses and curriculum with faculty; many institutions (e.g., McMaster's Student Partners Program) run formal partnership programs.

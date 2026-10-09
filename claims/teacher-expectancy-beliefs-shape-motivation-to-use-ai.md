@@ -70,3 +70,5 @@ Theoretical argument in the same section, offered as an example with no data: th
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related
+- [Faculty attitudes toward AI fall into four profiles—optimistic, critical, critically reflective, and neutral—and optimistic faculty with high AI self-efficacy are more likely to adopt AI](faculty-four-ai-attitude-profiles.md) — related
+- [Effortful learning strategies posed a student motivation challenge at d.tech, which teachers addressed by explaining the underlying science directly to students](productive-struggle-motivation-explaining-brain-rules.md) — related

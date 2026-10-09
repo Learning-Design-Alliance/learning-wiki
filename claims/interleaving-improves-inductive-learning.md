@@ -111,3 +111,5 @@ A multilevel meta-analysis of 59 studies comparing interleaved to blocked presen
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — interleaved practice's poor visible performance means assessment must probe discrimination, not just execution
 - [Cognitive load management](cognitive-load-management.md) — interleaving is a load-management decision: it trades reduced load during acquisition for greater load during practice
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
+- [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — a narrower finding that bears on this claim
+- [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — possibly the same claim (merge candidate)

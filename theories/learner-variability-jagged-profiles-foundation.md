@@ -45,6 +45,7 @@ The paper's organizing framework is that no average learner exists: each learner
 - [Learner Positioning Systems and Learner Models framework](learner-positioning-systems-framework.md)
 - [Digital Promise's learner variability framework: every learner has a jagged learning profile across four domains](learner-variability-four-domains-digital-promise.md)
 - [Learner Positioning System (LPS): a GPS-like system positioning each learner with a learner profile, learning map, and resource bank](learner-positioning-system-lps.md)
+- [LPS Learner Factors model for Reading PK-3](lps-learner-factors-reading-pk3-model.md)
 
 ## Examples
 

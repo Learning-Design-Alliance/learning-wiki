@@ -43,3 +43,5 @@ Theoretical argument in the report's abstract and introduction, citing the Natio
 ## Related Claims
 - [A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions](literature-review-challenges-evidence-use-policy.md) — related
 - [RPP researchers should explore supportive roles beyond research because research products are not necessarily what practitioners most immediately need or want](rpp-researchers-roles-beyond-research.md) — related
+- [Including educator voice helps researchers understand educator, student, and system needs](educator-voice-needed-research-relevance.md) — possibly the same claim (merge candidate)
+- [Classroom teachers rarely consult research when making decisions about their classroom practices, citing time constraints, the vastness of research, paywalls, and perceived distance from practice](teachers-rarely-consult-research-decision-making.md) — related

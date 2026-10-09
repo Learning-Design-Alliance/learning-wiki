@@ -62,6 +62,9 @@ The toolkit treats bias mitigation as a design discipline rather than a complian
 - [Accommodate varying technology experience](accommodate_varying_technology_experience.md) — equitable design must also account for unequal access and digital experience
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
 - [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
+- [Ask ethics, bias, and equity questions before adopting an AI system](ethics-bias-equity-questions-for-ai.md)
+- [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
+- [During post-adoption, monitor fidelity of use, examine equity patterns, and share strengths and challenges with developers](post-adoption-fidelity-monitoring-feedback.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — disaggregated outcome evaluation is the toolkit's core verification step

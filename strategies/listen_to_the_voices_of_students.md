@@ -65,6 +65,7 @@ Elevating student voice builds on self-determination research: experiences of au
 - [Observe the classroom for dissonance between what students say and what teachers see](classroom-observation-dissonance-inclusive-design.md)
 - [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 - [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](autonomy-supportive-context-components.md)
+- [Foster teacher agency through low-risk, high-reward opportunities with escalating responsibility](low-risk-high-reward-teacher-agency-opportunities.md)
 
 ## Examples
 - **Youth participatory action research** (e.g., the [Public Science Project](https://www.publicscienceproject.org) at CUNY Graduate Center) — students design and conduct research on problems in their own communities and present findings to authentic audiences.

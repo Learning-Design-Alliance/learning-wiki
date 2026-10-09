@@ -41,6 +41,8 @@ The report recommends that providers and school districts work continuously toge
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
 - [Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice](nsi-implementation-support-strategies.md)
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](gamification-implementation-support-strategy.md)
+- [Continuously assess and re-evaluate feature implementation through user-centered research, including default-setting experiments](continuous-assessment-edtech-feature-implementation.md)
+- [Prioritize process-data instrumentation, open collaboration, and dissemination in learning platforms](platform-instrumentation-open-research-recommendations.md)
 
 ## Examples
 -

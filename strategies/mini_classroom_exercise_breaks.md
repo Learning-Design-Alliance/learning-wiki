@@ -58,8 +58,10 @@ Brief aerobic activity acutely improves subsequent attention and executive funct
 5. Monitor on-task behavior after breaks and adjust intensity, duration, and timing accordingly.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — brief structured moments that, like exercise breaks, regulate readiness before instruction
 - [Active learning](../principles/active-learning.md) — movement breaks are a minimal form of activity-based engagement; full active learning embeds cognition in the activity itself
+- [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 
 ## Examples
 - **[Take 10!®](https://www.take10.net)** — Classroom-based physical activity program with 10-minute curriculum-linked activity routines for K–5; evaluated in multiple school studies.

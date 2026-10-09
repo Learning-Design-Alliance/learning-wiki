@@ -71,3 +71,4 @@ The agenda further reports, citing Hart et al. (2020) and Jackson, Porter, Easto
 - [In schools where students experience peer support for academic work, student learning is more likely](peer-support-academic-work-learning-more-likely.md) — related
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — a narrower finding that bears on this claim
+- [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — a narrower finding that bears on this claim

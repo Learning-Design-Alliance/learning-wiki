@@ -46,3 +46,4 @@ The brief's key findings report that "Teachers made use of new instructional pra
 - [An NSF-funded replication of Math Corps operated in three new cities across summers 2017–2019 with independent evaluation](math-corps-nsf-funded-three-city-replication.md) — related
 - [Students in three summer math programs showed large improvements in grades the semester after the program](summer-math-programs-large-grade-improvements-next-semester.md) — related
 - [Teachers who made nonproductive adaptations were more likely to adapt lessons to on-grade-level content while delivering the lesson](nonproductive-adapters-on-grade-level-during-delivery.md) — related
+- [Two Eastern KY teachers shifted from learners to trainers and taught 15 new teachers what they had learned](eky-teachers-shifted-learner-to-trainer.md) — related

@@ -45,6 +45,7 @@ The report defines "powerful learning" as "experiences that engage learners' hea
 
 - [Digital learning: the integrated educational approach combining technology, connectivity, content and human resources](ceo-forum-digital-learning-definition.md)
 - [Inclusive user experience (IUX) as a learner-centered design approach for LER technologies](iux-inclusive-user-experience-ler.md)
+- [Powerful Learning with Emerging Technologies framework: three design principles](powerful-learning-emerging-tech-framework.md)
 
 ## Examples
 -

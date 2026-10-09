@@ -87,3 +87,4 @@ A long review that asks, for each of ten study techniques, whether its benefits 
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — reports the opposite
 - [In one experiment, students who generated their own underlining did not score significantly higher on tests than students given experimenter-generated underlining](experimenter-underlining-effective-as-student-underlining.md) — related
 - [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related
+- [Deep thinking and making connections help students build strong memories and learn more deeply](deep-thinking-connections-build-memories.md) — related

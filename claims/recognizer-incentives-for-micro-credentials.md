@@ -51,3 +51,6 @@ Descriptive reporting on recognizer adoption: Kettle Moraine School District (28
 - [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](nine-states-ceus-no-coherent-valuation-framework.md) — related
 - [U.S. recertification policy relies heavily on seat-time CEUs: 44 states require them while only six require performance indicators for licensure renewal](recertification-seat-time-ceu-dominance.md) — related
 - [State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns](state-directors-micro-credential-concerns.md) — related
+- [BCPS embedded micro-credentials into PLCs with S.T.A.T. teachers and awarded continuing professional development credit](bcps-stat-pilot-cpd-credit.md) — a narrower finding that bears on this claim
+- [KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together](kmsd-micro-credential-collaboration-groups.md) — related
+- [KMSD tied micro-credential attainment to permanent base-salary increases, and over 80% of its teachers earned micro-credentials](kmsd-salary-increase-micro-credentials.md) — a narrower finding that bears on this claim

@@ -48,7 +48,10 @@ Farmer and West (2016) identify open badges as solving two persistent credential
 - 
 
 ## Related Elements
+
 - [Immediate Feedback](immediate-feedback.md)
+- [Micro-credentialing (digital badges) for recognizing teacher competencies](micro-credentialing-digital-badges-teachers.md)
+- [Micro-credentials as competency-verified recognition of educator professional learning](micro-credentials-educator-competency-recognition.md)
 
 ## Examples
 

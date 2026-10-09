@@ -47,3 +47,5 @@ Analysis of CS enrollment by neighborhood SES with and without adjustment for sc
 - [Students earned higher average grades in CS courses than in core courses, with few failing CS](cs-grades-higher-than-core.md) — related
 - [Larger CPS high schools were consistently more likely to offer CS courses than smaller schools in both 2012 and 2018](school-size-cs-offering-gap.md) — related
 - [Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018](student-cs-access-92-percent-2018.md) — related
+- [Participating districts report large enrollment gaps in CS courses by income and gender](cs-enrollment-gaps-income-gender.md) — related
+- [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related

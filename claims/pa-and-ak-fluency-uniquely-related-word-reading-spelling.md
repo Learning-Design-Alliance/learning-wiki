@@ -46,3 +46,4 @@ Structural equation modeling with 242 kindergartners confirmed the foundational 
 - [Letter writing automaticity is marginally related to spelling (b = .11, p = .06) but not uniquely related to word reading (b = -.07, p = .28) in kindergartners](letter-writing-automaticity-marginal-spelling-not-word-reading.md) — related
 - [Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity](vocabulary-uniquely-related-word-reading-spelling-kindergarten.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
+- [Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding](low-attention-hinders-alphabet-knowledge-phonological-awareness.md) — related

@@ -49,3 +49,4 @@ Survey and interview findings from district and provider participants. The repor
 - [School districts and ed-tech developers hold different perspectives on the role and value of school-based technology pilots in procurement](districts-developers-differ-pilot-perspectives.md) — related
 - [Procurement perceived as smoother and more inclusive in smaller districts than larger districts](smaller-districts-smoother-procurement.md) — related
 - [Lack of pricing transparency in the edtech market made OBC pricing decisions challenging, with pricing varying up to 40% between districts.](edtech-pricing-transparency-challenges-obc.md) — related
+- [Smaller districts report an easier procurement process overall, while smaller providers feel procurement inefficiencies more acutely than larger firms](small-vs-large-districts-providers-procurement-differences.md) — related

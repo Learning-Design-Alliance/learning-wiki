@@ -51,6 +51,7 @@ The report names "empathy by design" as "a set of guiding principles for the dev
 ## Examples
 
 - [Design adult-learning ed-tech with short lessons, visualizations, mobile-first simplicity, and contextualized integrated content](../strategies/design-adult-edtech-short-mobile-contextualized.md)
+- [Design adult learning products with short lessons, visualizations, mobile-first simplicity, and contextualized content integrating basic and job skills](../strategies/adult-edtech-design-short-mobile-first-contextualized.md)
 
 ## Key Sources
 - DeSchryver, David A., with Deirdre Dlugoleski. (2015). Accelerating Change: How education technology developers can jump-start a new adult education market. Digital Promise. https://digitalpromise.dspacedirect.org/items/29f39d7d-87f2-4e1e-920e-0c1ce86035cc

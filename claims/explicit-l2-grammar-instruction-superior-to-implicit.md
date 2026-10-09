@@ -108,3 +108,4 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — a narrower finding that bears on this claim
 - [Explicit teaching is more effective for EFL copular be learning but its effect is not durable](explicit-teaching-effective-but-not-durable.md) — related
 - [Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — reports the opposite
+- [Students learn more from games when bridging activities connect implicit game learning with formal, explicit classroom instruction, and learning analytics can strengthen that connection](bridging-activities-connect-game-learning-to-instruction.md) — related

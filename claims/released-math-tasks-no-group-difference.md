@@ -44,3 +44,5 @@ Analysis of student assessment scores across the two teacher groups and three ad
 
 ## Related Claims
 - [Treatment-group students increased significantly more than Delayed Treatment students on math-in-science-context tasks from pretest to midtest and pretest to posttest](treatment-greater-gains-math-in-science-context-tasks.md) — related
+- [No significant differences in science learning or attitudes between OpenSciEd and mySci eighth-grade classes in one small comparison](null-open-scied-vs-mysci-eighth-grade.md) — related
+- [OpenSciEd classrooms showed greater science achievement growth than non-OpenSciEd classrooms in one district comparison](open-scied-greater-science-growth-single-district.md) — related

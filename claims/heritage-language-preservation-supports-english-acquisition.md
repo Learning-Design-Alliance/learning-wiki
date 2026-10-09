@@ -92,3 +92,4 @@ The underlying mechanism these three findings share is that a heritage language,
 - [Rizal Experiment showed literacy achieved more quickly in local and national languages but finding glossed over](rizal-experiment-local-language-faster-literacy.md) — related
 - [Adults may have superior language learning capabilities in vocabulary and language structure](adults-superior-vocabulary-structure-learning.md) — related
 - [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](meta-analyses-validate-extensive-reading-benefits-length-moderates.md) — related
+- [Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support](bilingual-vocabulary-syntax-slower-with-cognitive-advantages.md) — related

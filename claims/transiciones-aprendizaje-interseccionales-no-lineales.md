@@ -44,3 +44,4 @@ Análisis cualitativo de entrevistas individuales semiestructuradas (60 minutos)
 - [Los apoyos de transición más deseados incluyen información práctica, herramientas de traducción de competencias, adiestramiento laboral, tutoría y dinero](apoyos-deseados-traduccion-competencias-tutoria.md) — related
 - [Los principales retos percibidos al usar LER son la exactitud de la información, la seguridad, saber cómo usarlos, la adopción por empleadores y el acceso](retos-percibidos-lers-exactitud-seguridad-acceso.md) — related
 - [Las personas y conexiones fueron los apoyos de transición más utilizados, seguidos por los servicios, entre estudiantes y trabajadores HSE](personas-conexiones-apoyos-mas-utilizados.md) — related
+- [HSE participants found the LER value proposition unclear, questioning how it differed from Indeed and LinkedIn and feeling excluded by linear-journey prompts](unclear-ler-value-proposition-hse-participants.md) — related

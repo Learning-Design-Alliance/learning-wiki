@@ -44,3 +44,5 @@ Project overview slide states the design goal: a K-8 pathway built by "applying 
 
 ## Related Claims
 - [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](ct-pathway-research-questions.md) — related
+- [Teachers in the Eastern KY project reported in a 2022 survey that they no longer perceive barriers to integrating computational thinking into their classrooms](eky-teachers-no-longer-perceive-ct-barriers-2022.md) — related
+- [The TAN project delivered four virtual CT Booster sessions for K-2 and 3-8 teachers on Data & Analysis and Algorithms between November 2020 and January 2021](tan-four-ct-booster-sessions-rural-ky.md) — related

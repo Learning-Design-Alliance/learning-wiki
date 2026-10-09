@@ -48,3 +48,4 @@ A qualitative study of 32 second- and third-year students in the teacher educati
 - [Instructors perceive experiential learning primarily as developing transferable skills for personal and professional growth, with student happiness rarely considered (gain)](instructors-transferable-skills-gain-focus.md) — related
 - [Emancipating problem solvers tend toward skeptical, inductive, critical thinking while technical solvers tend toward pre-determined, deductive methods](cone-geometry-maps-thinking-dispositions.md) — related
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — related
+- [Micro-credential reflections push educators toward metacognition and self-evaluation](micro-credential-reflections-metacognition.md) — related

@@ -42,3 +42,4 @@ White-paper observation from SEERNet experience (§4, Expected Requirements). A 
 
 ## Related Claims
 - [Yeager et al. (2016) and Fink et al. (2018) found indeterminate effects on enrollment, credit completion, and chemistry final exam scores](yeager-fink-indeterminate-effects.md) — related
+- [SEERNet's five DLPs each have more than 100,000 regular users, which the network cites as grounding research in practice](seernet-dlps-over-100000-regular-users.md) — related

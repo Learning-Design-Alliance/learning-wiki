@@ -64,6 +64,12 @@ The framework applies participatory design principles to educational change: sol
 - [Convene cross-sector stakeholders in a structured eight-step process to co-develop practice-driven, equity-centered R&D agendas](eight-step-practice-driven-equity-centered-rd-agenda-convening.md)
 - [Open convenings with equity sentence stems and equity champion keynotes to build trust and shared commitment](equity-talks-sentence-stems-and-champion-keynotes.md)
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
+- [Use a co-research and co-design process such as the Collaborative Innovation Studio model](co-research-co-design-collaborative-innovation-studio.md)
+- [Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions](participatory-iterative-co-design-ct.md)
+- [Plan-Build-Implement co-design process for developing Integrated Learning Pathways](plan-build-implement-pathways-design-process.md)
+- [Engineer purpose-built solutions using fit-to-context analysis and a Heilmeier Catechism-style question set](purpose-built-solutions-heilmeier-catechism-questions.md)
+- [Center educators in research by shifting power dynamics, including diverse educators, and structuring feedback loops](strategies-centering-educators-research-seernet.md)
+- [Build teacher capacity through iterative, equity-centered professional development for pathway implementation](teacher-capacity-pd-ct-pathways.md)
 
 ## Examples
 - A school district convened a team of students, district administrators, teachers, community organizations, and the Center for Inclusive Innovation to address an equity-related problem; students led professional development on racialized experiences that educators rated as highly impactful.

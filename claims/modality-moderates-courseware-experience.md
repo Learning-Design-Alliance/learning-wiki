@@ -46,3 +46,4 @@ Contrast between students in face-to-face versus online courses within the 50-st
 - [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](interviews-undergrad-stats-lumen-one-perceptions.md) — related
 - [After instruction has begun, drop rates are essentially the same in online and onground continuing education classes](no-drop-rate-difference-after-instruction-starts.md) — related
 - [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) — related
+- [Courseware impact varied by context: positive on average in 4-year institutions but insignificant in 2-year colleges, more positive in biology, psychology, and math/statistics, and positive when the comparison course was face-to-face rather than the same modality.](ngcc-impact-moderators-context.md) — related

@@ -51,6 +51,7 @@ The article argues that designers "tend to unconsciously default to imagined use
 - [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](../strategies/empathy-interview-conduct-practices.md)
 - [Five-step empathy interview exercise for teachers designing inclusive computing pathways](../strategies/empathy-interview-five-step-exercise.md)
 - [Inclusive Innovation Process](../strategies/inclusive_innovation_process.md)
+- [Empathy Interview Protocol for inclusive computing pathways](../elements/empathy-interview-protocol-ct-pathways.md)
 
 ## Key Sources
 - Coenraad, M., Hodge, M., Ruiz, P., Mills, K., & Burke, Q. (2021). Empathy Interviews for Developing Inclusive Computing Pathways. Washington, D.C.: Center for Inclusive Innovation, Digital Promise. https://dschool.stanford.edu/resources/liberatory-design-cards

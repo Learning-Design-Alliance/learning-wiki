@@ -66,6 +66,7 @@ Political education front-loads contextual and conceptual knowledge so that late
 - [Acting-Role-Play](../strategies/acting-role-play.md) — embodying stakeholder positions to deepen understanding of power dynamics
 - [Use structured power-analysis journaling at the start and end of field placements to build critical consciousness](field-placement-power-analysis-journaling.md)
 - [Identify and address the root causes of discipline disparities in schools flagged as disproportionate](address-root-causes-discipline-disparities.md)
+- [Use empathy interviews with students to identify and address systemic inequities in computing participation](empathy-interviews-inclusive-computing-pathways.md)
 
 ## Examples
 - **YPAR disproportionality projects**: youth investigate racial disproportionality in school discipline by first studying its historical roots, policy context, and competing explanations before collecting their own data — ensuring findings are interpreted through a structural lens.

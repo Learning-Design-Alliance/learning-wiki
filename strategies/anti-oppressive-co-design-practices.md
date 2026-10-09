@@ -47,6 +47,7 @@ The team adopted an explicitly anti-oppressive and anti-colonial approach to adv
 - [Team Contracts](team_contracts.md)
 - [In co-design meetings, position community members as experts and create space for challenging ideas, including adapting survey questions to community feedback.](position-community-experts-challenging-ideas-meetings.md)
 - [Structure R&D teams for student critical mass, processing time, and collaboration to dispel intimidation](student-critical-mass-structuring.md)
+- [Center educators in research by shifting power dynamics, including diverse educators, and structuring feedback loops](strategies-centering-educators-research-seernet.md)
 
 ## Examples
 -

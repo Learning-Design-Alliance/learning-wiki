@@ -63,9 +63,11 @@ Makerspaces enact constructionist claims that learning is deepest when learners 
 6. Require reflection or documentation connecting the artifact to the underlying concepts, so making does not remain purely procedural.
 
 ## Related Strategies
+
 - [Project-Based Learning](project-based_learning.md) — makerspaces are a common venue; PBL supplies the sustained inquiry framing that open making often lacks
 - [Design Challenges](design-challenges.md) — a structured prompt format that gives makerspace activity direction without prescribing solutions
 - [Peer Critique](peer-critique.md) — the feedback routine that turns individual making into collective learning
+- [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](connect-ct-to-local-maker-heritage.md)
 
 ## Examples
 - **[Maker Ed](https://makered.org)** — supports school and library makerspace programs with guidance on facilitation and equitable implementation.

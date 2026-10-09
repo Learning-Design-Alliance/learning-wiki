@@ -45,3 +45,5 @@ Supplementary comparative analyses of survey data from smaller versus larger pro
 ## Related Claims
 - [District stakeholders are mostly satisfied with procurement while providers are largely dissatisfied](districts-satisfied-providers-dissatisfied-procurement.md) — related
 - [Procurement perceived as smoother and more inclusive in smaller districts than larger districts](smaller-districts-smoother-procurement.md) — related
+- [Ed-tech providers are overwhelmingly dissatisfied with procurement: only 4 percent say today's processes meet contemporary needs, and nearly two-thirds report the processes directly influence their product development](providers-dissatisfied-edtech-procurement-meets-needs.md) — related
+- [Smaller districts report an easier procurement process overall, while smaller providers feel procurement inefficiencies more acutely than larger firms](small-vs-large-districts-providers-procurement-differences.md) — reports the opposite

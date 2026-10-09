@@ -48,3 +48,4 @@ Pretest ANOVA across all 187 completers in the randomized experiment; the author
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](teacher-initiated-and-student-mediated-mapping-no-difference.md) — related
 - [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](er-peer-interaction-greater-achievement-gains.md) — related
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
+- [Randomization produced equivalent pretest scores across conditions, with low attrition and blinded scoring](rct-pretest-equivalence-low-attrition.md) — related

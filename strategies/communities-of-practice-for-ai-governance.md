@@ -49,6 +49,8 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Sustain a faculty community of practice for creative problem-solving pedagogy](monthly-faculty-meetings-creative-pedagogy-development.md)
 - [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
+- [School districts adopting AI should follow a five-step roadmap: engage communities, apply and develop policies, provide professional development, create supportive learning environments, and monitor and evaluate AI use](five-step-district-ai-adoption-roadmap.md)
+- [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
 
 ## Examples
 -

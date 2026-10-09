@@ -59,8 +59,10 @@ Easy access reduces the extraneous cognitive load of hunting for materials, free
 6. Periodically review usage and fade tools that learners have internalized, per [Scaffolding](../elements/scaffolding.md) principles.
 
 ## Related Strategies
+
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md) — addresses the skill gaps that determine whether tool access translates into tool use
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — access to reference tools works best when learners can connect new material to what they already know
+- [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](student-autonomy-default-access-edtech-supports.md)
 
 ## Examples
 - **Manipulatives and graphic organizers in labeled hanging file folders** at a classroom station, so learners retrieve them at the start of independent work without teacher mediation.

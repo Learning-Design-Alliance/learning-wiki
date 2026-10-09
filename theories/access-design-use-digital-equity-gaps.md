@@ -42,6 +42,8 @@ Building on the US National Educational Technology Plan, the brief identifies "t
 ## Related Theories
 
 - [Three ways to engage with AI in educational contexts: Interact, Create, and Apply](interact-create-apply-ai-engagement-modes.md)
+- [Digital Equity Framework: three divides of access, use, and design](digital-equity-framework-three-divides.md)
+- [State Digital Equity and Opportunity Framework: five domains across education, workforce, and housing sectors](state-digital-equity-opportunity-framework.md)
 
 ## Examples
 

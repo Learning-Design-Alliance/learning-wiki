@@ -44,3 +44,4 @@ Discussion-section observation from the qualitative analysis of 122 students' wr
 
 ## Related Claims
 - [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](pbl-knowledge-generation-application-dissemination.md) — related
+- [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related

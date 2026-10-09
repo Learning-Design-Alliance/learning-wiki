@@ -46,6 +46,8 @@ RPPs bring researchers and practitioners together to study problems of practice 
 - [Henrick, Cobb, Penuel, Jackson and Clark's Dimension 3: RPPs should support the practitioner side in achieving its goals](rpp-dimension-3-support-practitioner-goals.md)
 - [Research-Practice-Industry Partnerships (RPIPs) integrating problems of practice, learning sciences, and edtech development](research-practice-industry-partnerships-rpip.md)
 - [Research-practice partnership model treating research as public, relational, and adaptive infrastructure](rpp-research-as-adaptive-infrastructure.md)
+- [Research-practice partnership model for improving problems of educational practice](research-practice-partnership-model.md)
+- [Research-Practice-Industry Partnership (RPIP) model](rpip-model.md)
 
 ## Examples
 
@@ -54,6 +56,8 @@ RPPs bring researchers and practitioners together to study problems of practice 
 - [Responsive RPP Adaptation During Disruption](../strategies/responsive-rpp-adaptation-during-disruption.md)
 - [RPP researchers can support practitioner partners through concrete non-research supports such as fundraising support, edtech procurement, and building a lesson database](../strategies/rpp-non-research-support-strategies.md)
 - [Future RPP work should investigate which problems of practice suit the RPP framework, gather honest practitioner input, and consider the role of the whole RPP team](../strategies/rpp-future-directions-team-role-and-practitioner-input.md)
+- [Monthly check-ins and co-led collaborative learning events across partner institutions](../strategies/monthly-check-ins-and-co-led-learning-events.md)
+- [Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions](../strategies/participatory-iterative-co-design-ct.md)
 
 ## Key Sources
 - Pautz Stephenson, S., Banks, R., & Pakhira D. (2022, December). Practitioners at the center: Catalyzing research on problems of practice in realistic settings. Digital Promise. https://doi.org/10.51388/20.500.12265/164

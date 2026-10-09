@@ -44,3 +44,4 @@ Narrative review of implementation barriers: the article reports, citing Vingsle
 
 ## Related Claims
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
+- [Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations](forms-differentiated-instruction-uses.md) — a narrower finding that bears on this claim

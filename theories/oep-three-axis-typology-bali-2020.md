@@ -50,6 +50,7 @@ The article offers a typology of OEP that goes beyond OER use, situating each pr
 - [Equity Unbound: an open connected course explicitly designed with social justice principles](../elements/equity-unbound-open-connected-course.md)
 - [Virtually Connecting: equitable conference conversations facilitated by marginalized scholars](../elements/virtually-connecting-equitable-conversations.md)
 - [Design OEP for accessibility and marginalized participation rather than open for all](../strategies/design-oep-for-those-farthest-from-justice.md)
+- [Faculty-authored OER digital textbook and equitized syllabus template at BMCC](../elements/bmcc-oer-textbook-and-syllabus-template.md)
 
 ## Key Sources
 - Bali, M, et al. (2020). Framing Open Educational Practices from a Social Justice Perspective. Journal of Interactive Media in Education, 2020(1): 10, pp. 1–12. https://doi.org/10.5334/jime.565

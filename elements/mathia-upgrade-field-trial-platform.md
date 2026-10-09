@@ -40,6 +40,8 @@ UpGrade is "a free and open source platform for conducting field trials in EdTec
 - [ASSISTments/E-TRIALS: free A/B testing platform integrated with a K-12 math practice platform](assistments-e-trials-platform.md)
 - [MATHia tutoring software](mathia-tutoring-software.md)
 - [SEERNet: a network of five digital learning platforms operating as research infrastructure](seernet-dlp-research-infrastructure.md)
+- [MATHia intelligent tutoring system with adaptive mastery-based instruction](mathia-intelligent-tutoring-system.md)
+- [UpGrade open-source A/B testing platform for classroom-embedded field experiments](upgrade-ab-testing-platform.md)
 
 ## Examples
 

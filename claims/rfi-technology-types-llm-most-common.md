@@ -44,3 +44,4 @@ Descriptive statistics on technology selections across projects (Figure 5, N=666
 - [ASR transcription serves as a diagnostic tool identifying individual learners' pronunciation errors, with function words most commonly mispronounced](asr-diagnostic-identification-pronunciation-errors.md) — related
 - [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](asr-inaccuracy-diverse-accents.md) — related
 - [Students responded positively to ASR pronunciation training and the Rainbow passage, but were mixed on technical aspects of recording and voice typing](positive-student-response-asr-pronunciation-training.md) — related
+- [Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects](ai-multilingual-disability-speech-tool-gaps.md) — related

@@ -46,6 +46,7 @@ The framework distinguishes three Types of Use—distinct purposes for which use
 - [AI literacy as critical understanding, use, and evaluation of AI systems](ai-literacy-framework-digital-promise.md)
 - [AI Literacy Framework of three interconnected Modes of Engagement: Understand, Evaluate, and Use](ai-literacy-framework-three-modes-of-engagement.md)
 - [Three ways to engage with AI in educational contexts: Interact, Create, and Apply](interact-create-apply-ai-engagement-modes.md)
+- [AI Literacy Framework's three Modes of Engagement: Understand, Use, Evaluate](ai-literacy-modes-understand-use-evaluate-report.md)
 
 ## Examples
 -

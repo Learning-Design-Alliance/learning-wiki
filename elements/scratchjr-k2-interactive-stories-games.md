@@ -42,6 +42,7 @@ ScratchJR is described as "An App for iPads or Android tablets where students ca
 - [App Inventor community-problem app projects with storyboarding](app-inventor-community-app-projects.md)
 - [Scratch coding activities expressing content as interactive illustrations, games, or stories](scratch-content-coding-activities-3-8.md)
 - [Code and Go Mouse robot activities combining mapping, story ordering, and number-line arithmetic](code-and-go-mouse-k2-activities.md)
+- [Scratch block-based programming language and sharing ecosystem](scratch-block-programming-ecosystem.md)
 
 ## Examples
 -

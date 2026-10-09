@@ -38,6 +38,7 @@ During the spring 2020 shift, case study institutions commonly built in options 
 
 - [Pre-recording Instructional Videos](pre-recording_instructional_videos.md)
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
+- [Offer course lectures both live and as posted recordings to balance equity of access with schedule and accountability](offer-lectures-synchronous-and-recorded.md)
 
 ## Examples
 -

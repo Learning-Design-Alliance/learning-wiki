@@ -48,6 +48,7 @@ SEERNet is an IES-funded initiative begun in late 2021 comprising five platform 
 - [SEERNet shared digital learning platform infrastructure enabling a performer community model](seernet-shared-platform-rd-infrastructure.md)
 - [SEERNet hub of five digital learning platforms enabling large-scale education research](seernet-five-dlps-hub.md)
 - [Terracotta: a SEERNet platform enabling randomized research within the Canvas LMS](terracotta-canvas-research-platform.md)
+- [SEERNet network connecting platforms, researchers, and educators](seernet-network-element.md)
 
 ## Examples
 

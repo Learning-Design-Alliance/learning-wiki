@@ -66,3 +66,4 @@ Discussion section example: Highline teachers who reviewed and recommended Ratio
 - [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related
 - [Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners](student-pace-and-engagement-varies-by-skill-level.md) — related
 - [At the end of the pilots, three-quarters of Mathspace teachers and all Ratio Rancher teachers said they would recommend the tool to a colleague](teachers-would-recommend-piloted-math-tools.md) — related
+- [Limited device access and a six-month engagement constrained some Board members' contributions, with one member reporting expectations were not met](pab-device-access-limitations.md) — related

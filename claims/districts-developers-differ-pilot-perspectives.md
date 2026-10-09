@@ -48,3 +48,6 @@ The report cites the Fostering Market Efficiency in K-12 Ed-tech Procurement stu
 - [District stakeholders are mostly satisfied with procurement while providers are largely dissatisfied](districts-satisfied-providers-dissatisfied-procurement.md) — related
 - [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related
 - [Procurement perceived as smoother and more inclusive in smaller districts than larger districts](smaller-districts-smoother-procurement.md) — related
+- [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related
+- [K-12 education respondents rate research and evidence as playing a moderate to highly important role in program adoption and procurement decisions](survey-respondents-rate-research-significant-role-adoption.md) — related
+- [Technology directors are the least likely to trust evidence from providers, with only 29 percent satisfied with the credibility of provider evidence](technology-directors-distrust-provider-evidence.md) — related

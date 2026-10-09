@@ -54,3 +54,4 @@ Item-level results from the same cross-sectional parent survey in Nablus. Barrie
 - [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related
 - [Systems-level barriers to school AAC use include limited clinical expertise, need–system mismatch, funding difficulty, and unfamiliar communication partners](systems-level-aac-implementation-barriers.md) — related
 - [Family engagement programs can integrate mathematical thinking and activities across a range of settings](family-engagement-programs-can-integrate-early-math.md) — related
+- [Sync feature uptake declined between survey and interview, with non-users citing unawareness, technical difficulties, or single-device viewing](splash-bubbles-sync-feature-uptake-and-barriers.md) — related

@@ -41,6 +41,9 @@ The guide recommends that educators embed computational thinking into topics the
 - [Integrate AI literacy across grades and subject-area learning rather than confining it to electives](integrate-ai-literacy-across-subject-areas.md)
 - [Design early learning (K-3) CT opportunities both plugged and unplugged, with devices leveraged where appropriate](plugged-and-unplugged-early-ct-skills.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
+- [Build computational thinking skills in the younger grades through plugged and unplugged activities](develop-ct-skills-younger-grades.md)
+- [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
+- [Integrate computational thinking into PreK-8 core subject matter rather than relying on stand-alone clubs and classes](prek-8-ct-integration-over-stand-alone.md)
 
 ## Examples
 -

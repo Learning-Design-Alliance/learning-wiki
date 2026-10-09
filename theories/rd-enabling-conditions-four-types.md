@@ -48,6 +48,7 @@ The report's framework identifies four condition types that school systems must 
 
 - [Summit Public Schools' embedded R&D system: internal R&D team, mentoring program, self-directed learning curriculum, and progress-tracking platform](../elements/summit-public-schools-embedded-rd-system.md)
 - [Start R&D without a formal office: a single school initiative paired with strategic research support can yield meaningful change](../strategies/start-rd-without-formal-office.md)
+- [System-level strategies to build enabling conditions for Powerful Learning](../strategies/system-level-strategies-powerful-learning-conditions.md)
 
 ## Key Sources
 - Smith, K. A., & Stewart, J. (2026, January). Research and development in America’s schools: How school systems drive sustainable improvement and innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/283

@@ -45,3 +45,4 @@ Self-report survey comparison of instructor-facing feature use by term of Lumen 
 ## Related Claims
 - [Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.](implementation-fidelity-grade-residuals.md) — related
 - [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](interviews-undergrad-stats-lumen-one-perceptions.md) — related
+- [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](wileyplus-adaptive-courseware-statistics-outcomes.md) — related

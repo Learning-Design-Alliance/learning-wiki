@@ -49,3 +49,5 @@ The report cites the late-2020 Common Sense Media and Boston Consulting Group do
 - [Immediately after closure, New York charter students lacked adequate devices (44.4% on average) more often than adequate internet access (27.0%), while teachers were almost universally equipped](device-access-gap-internet.md) — related
 - [Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas](internet-access-larger-barrier-than-devices.md) — related
 - [Student access to devices and internet rose from about 60 percent in March 2020 to at least 98 percent by March 2021](student-device-internet-access-near-universal.md) — related
+- [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
+- [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related

@@ -45,3 +45,4 @@ Reflexiones de participantes HSE tras ver vídeos introductorios de cuatro tecno
 - [Las oportunidades percibidas de los LER incluyen tener todo en un solo lugar, conectar con puestos de trabajo y auto-traducción de destrezas](oportunidades-percibidas-lers-un-solo-lugar.md) — related
 - [Las personas y conexiones fueron los apoyos de transición más utilizados, seguidos por los servicios, entre estudiantes y trabajadores HSE](personas-conexiones-apoyos-mas-utilizados.md) — related
 - [Las transiciones en el aprendizaje de estudiantes y trabajadores de comunidades HSE son interseccionales, dinámicas y no lineales, con múltiples cambios simultáneos](transiciones-aprendizaje-interseccionales-no-lineales.md) — related
+- [HSE participants found the LER value proposition unclear, questioning how it differed from Indeed and LinkedIn and feeling excluded by linear-journey prompts](unclear-ler-value-proposition-hse-participants.md) — related

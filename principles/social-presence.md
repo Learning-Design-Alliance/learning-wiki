@@ -12,7 +12,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (11 for, 10 mixed, 1 against) · 17 studies (4 causal, 4 design, 2 quant-synthesis, 2 review, 2 qualitative, 2 theoretical, 1 associational), `q1`–`q3` · 3 of 17 report an effect size · 20 claims rest on one study
+> **Evidence** · 23 claims (12 for, 10 mixed, 1 against) · 18 studies (4 causal, 4 design, 3 qualitative, 2 quant-synthesis, 2 review, 2 theoretical, 1 associational), `q1`–`q3` · 3 of 18 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -121,6 +121,7 @@ Claims and sources this page touches that have not been read against the model a
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](../claims/stronger-belonging-linked-engagement-achievement.md) [+W] — second-hand association in higher education.
 - [Guo et al. found engagement depends on video production style](../claims/guo-video-style-engagement-findings.md) [~W] — second-hand; bears on talking heads in video, not on peer presence.
 - [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](../claims/microblogging-promotes-interaction-community-language-learners.md) [+W] — a review's second-hand reports of three small studies; bears on informal channels for community.
+- [SPICE learners report that the virtual Center reduced their rural isolation and made learning enjoyable](../claims/spice-learners-report-reduced-isolation.md) [+W] — attached 2026-10-09 from Technology et al. (2012), which proposed "Use a virtual world to provide real community and human connection as an antidote to rural isolation in adult education"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -143,6 +144,8 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 - [Peer Discussion](peer-discussion.md) — when discussing a committed answer changes what each learner understands
 
 ## Examples
+
+- [Use personal progress messages, real-world examples, and reflection assignments to support online course satisfaction](../strategies/personal-messages-real-world-examples-reflection-online.md)
 
 ### Validated
 - Richardson, Maeda, Lv & Caskurlu (2017) meta-analyzed 51 studies of online courses and found social presence significantly related to student satisfaction (r ≈ .54) and perceived learning (r ≈ .45), with instructor presence behaviors among the strongest predictors [+S].

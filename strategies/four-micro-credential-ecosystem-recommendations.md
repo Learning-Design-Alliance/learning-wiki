@@ -42,6 +42,8 @@ Based on recent developments, early progress, and current challenges, the report
 - [Advance micro-credentials through a piloting coalition, a rigorous research agenda, and dissemination of best practices](micro-credential-next-steps-strategy.md)
 - [Integrate individual micro-credential learning into collaborative team learning cycles](micro-credentials-in-team-learning-cycles.md)
 - [Policy strategies to personalize learning: competency-based progressions, phased implementation, networks, and interoperability](policy-strategies-competency-networks-interoperability.md)
+- [Provide ongoing support and school-day time for teachers completing micro-credentials](ongoing-support-and-release-time-micro-credentials.md)
+- [Prioritize process-data instrumentation, open collaboration, and dissemination in learning platforms](platform-instrumentation-open-research-recommendations.md)
 
 ## Examples
 -

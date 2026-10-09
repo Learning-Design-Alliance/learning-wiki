@@ -44,6 +44,7 @@ The report frames AI for educators through three layers: AI as computational int
 
 - [The electric bike vision of human-centered educational technology](electric-bike-vision-human-centered-ai.md)
 - [Five new design concepts for AI in learning: orchestrating, augmenting, expanding natural interactions, broadening competencies, and revealing connections](five-design-concepts-ai-learning.md)
+- [Four most common AI technology types in cyberlearning: intelligent tutoring systems, machine learning, speech/vision/natural interaction, and social robotics and avatars](cyberlearning-ai-four-technology-types.md)
 
 ## Examples
 -

@@ -64,6 +64,9 @@ Technology unfamiliarity imposes extraneous [cognitive load](../principles/cogni
 - [Activating Background Knowledge](activating_background_knowledge.md) — technology experience is a form of prior knowledge that must be surfaced, not assumed
 - [Guide adult students through self-regulated learning skills within the course of study using educational technology](guide-adult-students-srl-skills-within-course-via-technology.md)
 - [Provide an orientation period for Grade 1 students and teacher-facing monitoring dashboards](grade1-orientation-and-teacher-dashboard-strategy.md)
+- [Provide support, feedback, guidance, and coaching along the way for low-skilled adult learners](coaching-and-support-for-low-skilled-adult-learners.md)
+- [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
+- [Scaffold adults from beginning users to confident digital citizens with hands-on, competency-based classes and layered teacher support](scaffold-confidence-hands-on-digital-literacy-classes.md)
 
 ## Examples
 - **Open University (UK)** — provides structured "Skills for OU Study" resources including optional digital-skills modules before distance learners encounter the virtual learning environment (https://www.open.ac.uk/skillsforstudy).

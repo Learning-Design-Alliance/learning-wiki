@@ -44,6 +44,7 @@ The article defines civic or citizenship competence drawing on the National Stan
 - [Three-component framework of global citizenship: social responsibility, global competence, and global civic engagement](global-citizenship-three-component-framework-nguyen-2021.md)
 - [Critical Pedagogy Model of Civic Competence through Service-Learning](critical-pedagogy-model-civic-competence-service-learning.md)
 - [Integrated Learning (IL): a philosophy linking subject contents to real-world issues to promote civic competence transversally](integrated-learning-civic-competence.md)
+- [Dispositional mastery framework: Ability, Inclination, and Sensitivity](dispositional-mastery-ability-inclination-sensitivity.md)
 
 ## Examples
 

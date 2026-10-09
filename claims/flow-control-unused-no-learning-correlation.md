@@ -45,3 +45,4 @@ Correlation analysis between logged use of navigation elements (stop, start, spo
 ## Related Claims
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](animations-pacify-learners-navigation-imbalance.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — reports the opposite
+- [Control students rarely used the optional game, while treatment students logged in as expected](control-students-rarely-played-game.md) — related

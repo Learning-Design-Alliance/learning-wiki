@@ -100,3 +100,8 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do](dhh-systemic-barriers-low-expectations.md) — related
 - [Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them](students-report-prerequisites-block-course-access.md) — related
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — a narrower finding that bears on this claim
+- [Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence](360-filmmakers-challenge-personal-meaning-motivation.md) — a narrower finding that bears on this claim
+- [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related
+- [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
+- [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — a narrower finding that bears on this claim
+- [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — related

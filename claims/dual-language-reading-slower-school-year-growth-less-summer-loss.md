@@ -49,3 +49,4 @@ The piecewise multilevel growth model of district administrative data found that
 - [Ever-ELs closed in on the national average by end of 4th grade, with Asian and White ever-ELs surpassing it in 2nd grade](ever-els-closing-national-average-gap.md) — related
 - [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
 - [In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss](el-reading-graded-growth-pattern-summer-loss.md) — related
+- [Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support](bilingual-vocabulary-syntax-slower-with-cognitive-advantages.md) — related

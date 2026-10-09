@@ -44,3 +44,4 @@ Technical findings from the 28-project cohort, summarized in Table 5. Teams repo
 - [AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making](ai-lacking-diagnosing-misconceptions.md) — related
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — related
 - [Three word embedding methods and three classifiers were introduced to predict item quality for accessible math assessments](word-embedding-classifiers-predict-item-quality-vi.md) — related
+- [Generic AI tools can undermine curriculum coherence and pedagogical goals, producing low-quality artifacts that do not match district beliefs](generic-ai-tools-undermine-curriculum-coherence.md) — a broader claim this one bears on

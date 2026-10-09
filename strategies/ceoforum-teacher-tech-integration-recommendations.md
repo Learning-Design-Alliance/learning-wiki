@@ -48,6 +48,8 @@ The report issues a set of dated recommendations directed at educators, administ
 - [Prepare educational staff early for digital transformation competency and train teachers to select and use appropriate communication technology tools](early-staff-preparation-digital-competency-training.md)
 - [Certify tutors before tutoring begins and provide professional development to supervising school staff](tutor-certification-and-staff-pd.md)
 - [Provide extensive collegial support and professional development for technology integration to avoid maintaining the digital divide](collegial-support-professional-development-technology-integration.md)
+- [During adoption, determine professional learning needs and secure sustainable funding for training before proceeding](adoption-stage-professional-learning-funding.md)
+- [Prepare and test technology before launch, scaffold the learning curve, and leverage tech-savvy students as peer resources](prepare-test-technology-before-launch-scaffold.md)
 
 ## Examples
 -

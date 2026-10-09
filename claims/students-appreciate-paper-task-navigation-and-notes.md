@@ -45,3 +45,4 @@ Qualitative interview component of the mixed methods study. The article reports 
 ## Related Claims
 - [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](platform-modality-no-relationship-cognitive-engagement.md) — related
 - [Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems](students-prefer-technology-enhanced-task-interactivity-animation.md) — reports the opposite
+- [Teachers reported increased student engagement when using Forms instead of paper-based assessments and surveys](forms-engagement-versus-paper.md) — reports the opposite

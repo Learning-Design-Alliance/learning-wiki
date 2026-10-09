@@ -44,6 +44,7 @@ The article extends research-practice partnerships into research-practice-techno
 - [Modelability Three Design Principles](modelability-three-design-principles.md)
 - [Research-Practice-Industry Partnership (RPIP) model with four pillars for involving educators in edtech development](rpip-four-pillars-model.md)
 - [The skills-first ecosystem framework](skills-first-ecosystem-framework.md)
+- [Research-Practice-Industry Partnership (RPIP) model](rpip-model.md)
 
 ## Examples
 

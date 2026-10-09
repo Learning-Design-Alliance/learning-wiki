@@ -47,3 +47,4 @@ Revalidation item-functioning analyses of Cultivate responses in CPS. The articl
 - [The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits](ct-pck-dif-dtf-findings.md) — related
 - [Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands](ldf-identifies-seven-absolute-dif-items.md) — related
 - [Differential item functioning was found in four items across the function, form and level dimensions](thinking-styles-scale-dif-items.md) — related
+- [Courseware use did not disadvantage any student group and appeared especially promising for under-represented minority students, with grades independent of Pell, enrollment, age, gender, and first-gen status in 75% or more of analyses.](ngcc-courseware-equity-findings.md) — related

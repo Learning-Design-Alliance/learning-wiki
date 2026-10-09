@@ -45,3 +45,4 @@ Theoretical exposition of Collingwood's philosophy as presented in the paper: th
 ## Related Claims
 - [Because past events cannot be observed, historians must necessarily use imagination to reconstruct the past, and the resulting picture is legitimate rather than fictional when constrained by evidence](historical-imagination-evidence-constrained-reconstruction.md) — related
 - [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](collingwood-supports-constructivist-history-teaching.md) — related
+- [Before developing historical thinking skills, students approach the past with common sense, including presentism — seeing past people as sharing contemporary values](novice-presentism-common-sense-historical-understanding.md) — related

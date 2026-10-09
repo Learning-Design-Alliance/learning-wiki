@@ -61,10 +61,12 @@ Affect labeling reduces amygdala reactivity and increases prefrontal engagement,
 6. **Reflect periodically.** Use weekly journaling or exit tickets to review patterns ("When do I feel most focused?"), connecting emotion data to study choices.
 
 ## Related Strategies
+
 - [Check-In](../elements/check-in.md) — the scheduled routine that anchors distributed labeling
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — gamified vocabulary-building variant for younger learners
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — natural pairing: label the state, then set a small next step
 - [Action-Oriented Feedback](../strategies/action-oriented_feedback.md) — feedback framing that keeps labeled emotion pointed at the task
+- [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 
 ## Examples
 - **RULER (Yale Center for Emotional Intelligence)** — the "Mood Meter" has students plot their state on arousal/valence axes at fixed points daily; labeling precedes the "Regulate" step. [https://ei.yale.edu](https://ei.yale.edu)

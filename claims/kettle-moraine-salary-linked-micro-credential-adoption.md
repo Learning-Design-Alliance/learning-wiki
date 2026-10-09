@@ -48,3 +48,6 @@ District case described in this report (citing a recent report): "about 80 perce
 - [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](nine-states-ceus-no-coherent-valuation-framework.md) — related
 - [At least ten state education agencies have launched official micro-credential pilots, with Tennessee's pilot reaching almost 800 educators](state-micro-credential-pilots-adoption.md) — related
 - [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
+- [KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together](kmsd-micro-credential-collaboration-groups.md) — related
+- [KMSD tied micro-credential attainment to permanent base-salary increases, and over 80% of its teachers earned micro-credentials](kmsd-salary-increase-micro-credentials.md) — related
+- [More than 90 percent of teachers reported monetary bonuses and stipends for time spent would be definitely or very motivating for completing another micro-credential](monetary-incentives-motivating-micro-credentials.md) — related

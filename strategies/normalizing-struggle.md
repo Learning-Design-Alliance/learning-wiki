@@ -59,9 +59,11 @@ Struggle supports learning only when it is *productive* — learners grapple wit
 5. **Debrief the struggle.** Use [Peer Discussion](../elements/peer-discussion.md) and whole-class reflection on what strategies worked, consolidating the experience before moving on.
 
 ## Related Strategies
+
 - [Growth Mindset Framing](growth-mindset-framing.md) — the belief-change foundation that normalizing struggle operationalizes in daily routines
 - [Productive Failure](productive-failure.md) — a structured task sequence that institutionalizes struggle before instruction
 - [Error Analysis](../principles/error-analysis.md) — turns mistakes into instructional material rather than evidence of failure
+- [Use technology after learner effort to protect productive struggle](use-technology-after-effort.md)
 
 ## Examples
 - **Productive Failure (Kapur)** — Singapore math classrooms present complex problems before formal instruction; students struggle in groups, then compare their solutions to canonical methods. Replicated improvements in conceptual understanding over teach-first controls.

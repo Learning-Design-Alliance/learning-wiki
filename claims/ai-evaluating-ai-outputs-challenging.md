@@ -45,3 +45,6 @@ Technical findings across the cohort on using AI to evaluate AI outputs, reporte
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
 - [AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making](ai-lacking-diagnosing-misconceptions.md) — related
 - [A student-facing chatbot was pulled after it reinforced a student's self-deprecating views about math, illustrating substantial risk of direct AI engagement with students](student-facing-chatbot-toxicity-risk.md) — related
+- [Fairness of AI outputs remains under-evaluated in edtech research](ai-output-fairness-under-evaluated-edtech.md) — related
+- [Underlying all AI risks in education is that generative AI behavior is difficult to explain, inspect, or predict due to its statistical mechanisms](generative-ai-behavior-hard-to-explain-inspect-predict.md) — related
+- [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — reports the opposite

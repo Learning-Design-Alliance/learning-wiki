@@ -66,3 +66,4 @@ This meta-analysis pooled 108 controlled evaluations of mastery learning program
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
 - [Mastery and control groups show no significant differences in entry knowledge, academic self-concept, or affect toward education](mastery-control-no-entry-differences.md) — related
+- [A DataShop-derived cognitive model of problem-decomposition planning skills improved learner mastery when used to redesign a geometry cognitive tutor unit](datashop-model-improved-geometry-mastery.md) — a narrower finding that bears on this claim

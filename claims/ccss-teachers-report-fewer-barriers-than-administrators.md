@@ -67,3 +67,4 @@ Only math-response teachers were asked about lack of math content knowledge as a
 - [Teachers reported feeling more familiar with and more prepared to teach the CCSS in 2016 than in 2015, with elementary and ELA-group teachers higher than high school and math-group teachers](ccss-preparedness-increased-2016.md) — related
 - [Elementary teachers were much more likely than high school teachers to report the CCSS would have a great deal of impact on teaching and learning in 2016](ccss-elementary-teachers-greater-impact-beliefs.md) — related
 - [Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices](ccss-pd-impact-on-teaching-practices-elementary-more.md) — related
+- [Time to plan, more than tools or training, was the largest reported barrier to implementing LVN strategies](time-biggest-barrier-strategy-implementation.md) — related

@@ -47,3 +47,4 @@ One study is recorded (Brewer & Klein 2003). Affiliation motive was measured (Wo
 ## Related Claims
 - [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related
 - [All three structured interdependence conditions produce higher agreement that team members' sense of obligation to contribute aided learning, compared with no structured interdependence](structured-interdependence-contribution-obligation-attitude.md) — related
+- [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](participant-feedback-diverse-perspectives.md) — related

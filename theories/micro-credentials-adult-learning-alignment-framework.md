@@ -45,6 +45,7 @@ The paper frames earning micro-credentials as a high-leverage professional learn
 
 - [Align micro-credential offerings and recognition with student and educator performance standards](../strategies/align-micro-credentials-with-student-educator-standards.md)
 - [Integrate individual micro-credential learning into collaborative team learning cycles](../strategies/micro-credentials-in-team-learning-cycles.md)
+- [Implement micro-credentials through a peer cohort model with collaborative planning time](../strategies/micro-credential-cohort-model-strategy.md)
 
 ## Key Sources
 - Dan Brown. (2019). Research and Educator Micro-credentials. Digital Promise. https://digitalpromise.dspacedirect.org/items/6a538240-80bc-442b-a60d-7f537cbc3bec

@@ -57,8 +57,10 @@ Access to varied media expands the range of activities a design can support, but
 5. Offer [choice](../elements/choice-boards.md) of output medium where the goal permits, and verify [Accommodations](../elements/accommodations.md) are active for every learner who needs them.
 
 ## Related Strategies
+
 - [Accommodate varying technology experience](accommodate_varying_technology_experience.md) — the companion move of differentiating for differing skill levels with the same tools
 - [Accessible syntax](accessible_syntax.md) — parallel accessibility work at the level of language and materials
+- [Survey adult learners about devices and home access before choosing instructional technology](survey-learners-devices-and-home-access.md)
 
 ## Examples
 - **One-to-one laptop programs** (e.g., Maine Learning Technology Initiative) show gains when paired with teacher professional development and curriculum integration, and flat results when devices are distributed without instructional redesign.

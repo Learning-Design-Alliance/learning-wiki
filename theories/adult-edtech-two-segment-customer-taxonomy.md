@@ -48,10 +48,12 @@ The guide organizes the adult learning market around two customer segments. The 
 ## Related Theories
 
 - [Empathy by design: four guiding principles for adult ed-tech development](empathy-by-design-adult-edtech-principles.md)
+- [Two-segment customer taxonomy for the adult learning ed-tech market](adult-learning-edtech-two-customer-segments.md)
 
 ## Examples
 
 - [Sell to consortia of adult education providers and encourage institutions to buy technology together to lower cost and risk](../strategies/sell-through-adult-education-consortia.md)
+- [Ten concrete action items for entrepreneurs preparing to launch ventures in the adult learning market](../strategies/ten-action-items-adult-edtech-entrants.md)
 
 ## Key Sources
 - Amber Laxton, Mike Berlin, Patti Constantakis, Ph.D. (2017). Accelerating Change: A Guide to the Adult Learning Ed-Tech Market. Digital Promise. https://digitalpromise.dspacedirect.org/items/36eceee2-6442-4c5c-8fa1-7b9e7eab4533

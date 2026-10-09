@@ -50,6 +50,8 @@ The presentation proposes a three-stage developmental model for how a district C
 ## Examples
 
 - [Sequence pathway development activities across three years: buy-in, SCRIPT assessment and summer institutes led by model-district teachers, then piloting with microcredentials](../strategies/three-year-pathway-development-activities.md)
+- [CT Pathways Toolkit for district design of K-12 CS/CT pathways](../elements/ct-pathways-toolkit.md)
+- [Commit at the district level to computing pathways that are cumulative, consistent, and competency-based across K-12 schools](../strategies/district-level-ct-pathways-commitment.md)
 
 ## Key Sources
 - Computing in Rural America: Developing K-8 Coding Pathways for Kentucky Appalachia. (2020). Presentation slides, December 2nd 2020. https://digitalpromise.dspacedirect.org/items/0c77d3c7-12c8-4a9b-8583-040137f0fd3c

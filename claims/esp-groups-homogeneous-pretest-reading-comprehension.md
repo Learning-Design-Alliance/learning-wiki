@@ -50,3 +50,4 @@ Pre-test comparison of the two randomly assigned groups (n = 30 each) on a TOEFL
 - [Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness](emi-groups-equivalent-at-pretest.md) — possibly the same claim (merge candidate)
 - [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — related
 - [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](teacher-modeling-internalizes-reading-strategies.md) — related
+- [Randomization produced equivalent pretest scores across conditions, with low attrition and blinded scoring](rct-pretest-equivalence-low-attrition.md) — related

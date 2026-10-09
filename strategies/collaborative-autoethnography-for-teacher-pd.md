@@ -50,7 +50,9 @@ Standard professional development often positions research or expert frameworks 
 7. After the final session, invite meta-reflection on the PD design itself (what worked, what should change) to refine the model for future use.
 
 ## Related Strategies
+
 - (none yet linked)
+- [Self-directed professional learning cycle in recurring two-week PD chunks with public goals and study groups](summit-self-directed-teacher-pd-cycle.md)
 
 ## Examples
 - Six secondary science teachers used this structure across four Saturday sessions (Oct 2017-May 2018) to explore the role of relationships in scientific argumentation, producing 25 total reflections and 11+ hours of recorded discussion.

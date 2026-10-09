@@ -47,6 +47,7 @@ The review defines noncognitive factors broadly, going "beyond a narrow referenc
 - [Hypothesized model of noncognitive factors shaping academic performance](noncognitive-factors-hypothesized-model-farrington.md)
 - [Hypothesized model of noncognitive factors acting through behaviors within classroom and socio-cultural context](noncognitive-factors-hypothesized-model.md)
 - [Four academic mindsets framework](four-academic-mindsets.md)
+- [Portrait of a Graduate Synthesis Model: Mindsets, Skill Sets, and Practices](portrait-synthesis-model-mindsets-skill-sets-practices.md)
 
 ## Examples
 

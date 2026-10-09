@@ -41,6 +41,9 @@ A concrete implementation practice for district pilots: provide professional dev
 - [Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results](rapid-cycle-edtech-pilot-best-practices.md)
 - [Four implementation insights for design-centered learning programs: time with technology, extended professional development, intentional instruction, and starting small](learning-studios-four-implementation-insights.md)
 - [Revise professional learning materials and structure in response to pilot feedback](wts-pilot-informed-revisions-strategy.md)
+- [Mobilize & Implement: provide professional learning throughout the pilot and use real-time data dashboards to keep usage aligned with dosage requirements](ongoing-professional-learning-dashboards-during-edtech-pilot.md)
+- [Provide professional learning opportunities and free tools to support educators in conducting edtech pilot studies](professional-learning-and-free-tools-for-edtech-piloting.md)
+- [Work with a coach or peer group, start with one insight, and gather data when applying learning sciences research](start-small-with-coach-when-applying-learning-sciences.md)
 
 ## Examples
 -

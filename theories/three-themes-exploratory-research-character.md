@@ -49,6 +49,7 @@ From thematic analysis of principal investigator interviews, the report organize
 
 - [Ecological Paradigm of Interdisciplinary Learning](ecological-paradigm-of-interdisciplinary-learning.md)
 - [Informal social learning networks as the coordinating mechanism of systemwide improvement](informal-social-learning-networks-coherence.md)
+- [Ambitious mashups: cyberlearning projects combine novel technologies, theories, methods, and equity goals in frontier-oriented integrations](ambitious-mashups-concept.md)
 
 ## Examples
 

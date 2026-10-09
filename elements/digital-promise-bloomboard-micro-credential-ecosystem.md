@@ -52,10 +52,14 @@ The Digital Promise micro-credentialing ecosystem is "currently housed on a plat
 - [The educator micro-credentialing ecosystem: Digital Promise's PK-12 platform, 400+ micro-credentials, and the NEA partnership](educator-micro-credentialing-ecosystem.md)
 - [Digital Promise educator micro-credential ecosystem and online platform](digital-promise-micro-credential-ecosystem.md)
 - [Digital Promise micro-credential template structuring competency, method, research rationale, and submission criteria](digital-promise-micro-credential-template.md)
+- [Digital Promise's Computational Thinking micro-credentials recognize educators whose students apply CT practices](digital-promise-ct-micro-credentials.md)
+- [PennGSE Data Science Methods for Digital Learning Platforms certificate program](penngse-data-science-dlp-certificate.md)
+- [TAN micro-credentials for Data and Analysis and Algorithms](tan-ct-micro-credentials.md)
 
 ## Examples
 
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](../strategies/four-micro-credential-ecosystem-recommendations.md)
+- [Convert earned micro-credentials into continuing education units for re-licensure and master's equivalency](../strategies/micro-credentials-convert-to-ceus.md)
 
 ## Key Sources
 - Center for Teaching Quality (CTQ) and Digital Promise. (2017). Continuing the educator micro-credential movement. https://digitalpromise.org/microcredentials

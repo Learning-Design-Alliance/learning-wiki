@@ -43,6 +43,9 @@ Inclusive Innovation is a paradigm for education R&D in which district-community
 ## Related Theories
 
 - [Inclusive Innovation R&D model: six core tenets for equity-centered education research and development](inclusive-innovation-six-tenets-framework.md)
+- [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](co-design-core-tenets-digital-promise.md)
+- [Co-design framework with core tenets of power sharing, relationships, and capability building](codesign-core-tenets-framework.md)
+- [Inclusive Innovation model with Core Tenets of co-leadership with those most proximate to the challenge](inclusive-innovation-model-core-tenets.md)
 
 ## Examples
 

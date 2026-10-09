@@ -69,3 +69,4 @@ Both entries are one qualitative case analysis (Janis et al. 2025) of individual
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](revised-prompts-advance-sophisticated-analysis.md) — related
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — a broader claim this one bears on
 - [Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation](clinical-supervision-effectiveness-inconclusive.md) — related
+- [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related

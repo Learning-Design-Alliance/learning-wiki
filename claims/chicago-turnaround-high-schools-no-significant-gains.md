@@ -68,3 +68,4 @@ First-year post-intervention absence trends for reformed high schools relative t
 - [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
 - [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related
 - [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](turnaround-is-a-process-not-an-event.md) — related
+- [Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year](lynwood-dfi-decrease-intervention-tracking.md) — related

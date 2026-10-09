@@ -48,3 +48,7 @@ The report cites a Boston Consulting Group (2014) study funded by the Bill & Mel
 - [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related
 - [Chicago's professional development spending was not integrated into a comprehensive strategy for improving instruction](cps-pd-spending-not-integrated.md) — related
 - [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
+- [Educators perceive formal professional development as a compliance exercise over which they have limited choice](educators-view-pd-as-compliance-with-limited-choice.md) — related
+- [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — a broader claim this one bears on
+- [Seventy-two percent of teachers engage in informal, non-required professional development and are more satisfied with it, driven by intrinsic reasons such as enjoyment of learning](informal-pd-engagement-and-intrinsic-reasons.md) — related
+- [In a National Staff Development Council survey, over 90 percent of teachers reported recent PD but only 59 percent found content-related PD useful](nsdc-pd-usefulness-survey.md) — related

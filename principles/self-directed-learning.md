@@ -70,6 +70,8 @@ Self-directed learning is most valuable when learners are expected to take meani
 
 ## Examples
 
+- [Provide support, feedback, guidance, and coaching along the way for low-skilled adult learners](../strategies/coaching-and-support-for-low-skilled-adult-learners.md)
+
 ### Illustrative
 
 **[Self-Directed Learning](../patterns/self-directed-learning.md)** — A course pattern in which learners set goals, select resources, monitor progress, and review outcomes within a structured environment.

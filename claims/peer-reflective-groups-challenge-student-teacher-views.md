@@ -46,3 +46,4 @@ The digest reports a 1996 study of third-year teaching students in which researc
 - [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](reflective-practice-deeper-understanding-effectiveness.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
+- [Educator-led peer professional development reinforced educators' own understanding and connected LVN to existing practice](peer-pd-reinforces-variability-understanding.md) — a narrower finding that bears on this claim

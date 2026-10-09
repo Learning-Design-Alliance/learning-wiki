@@ -60,9 +60,11 @@ Justice-focused projects raise engagement by increasing perceived task value and
 5. **Produce and present authentic work** — deliver products to real audiences ([Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md)), then reflect on impact and process ([Application of Knowledge](../elements/application-of-knowledge.md))
 
 ## Related Strategies
+
 - Community-based learning — situates projects in ongoing partnerships with community organizations
 - Service learning — a close cousin with a stronger emphasis on structured reflection on service experiences
 - Youth participatory action research — the research-intensive variant in which students are co-researchers
+- [Use community-focused prompts and authentic audiences to make creative projects personally meaningful](community-prompts-authentic-audience-360-film.md)
 
 ## Examples
 - **[PBLWorks (Buck Institute)](https://www.pblworks.org)** — publishes gold-standard PBL units, several explicitly focused on equity and community issues, with rubrics and scaffolds.

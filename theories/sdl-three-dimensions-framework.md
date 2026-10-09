@@ -46,6 +46,7 @@ Following formulations by Caffarella and O'Donnell, the authors propose that deb
 
 - [Knowles' andragogy (Adult Learning Theory) as the framework for adult immigrant instruction](andragogy-knowles-adult-learning-theory.md)
 - [Self-directed learning as a five-step process learners control themselves](self-directed-learning-five-step-process.md)
+- [Five adult learning theories — andragogy, experiential learning, self-directed learning, transformational learning, and neuroscience — as a design framework for adult-learning technology](five-theories-adult-learning-design-framework.md)
 
 ## Examples
 -

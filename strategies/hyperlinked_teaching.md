@@ -59,9 +59,11 @@ Hyperlinked teaching leverages learner choice and self-direction, which supports
 6. Debrief: have students share the most valuable link they found and justify its relevance, building collective curation skills.
 
 ## Related Strategies
+
 - [Inquiry-based learning](../patterns/collaborative-inquiry.md) — hyperlinked teaching is a resource-supported variant; the same guidance caveats apply
 - [Case-based learning](../patterns/case-based-learning.md) — cases give hyperlinked exploration a concrete anchor
 - [Web-supported flipped learning](../patterns/flipped-classroom.md) — linked pre-class resources enact the same curation function
+- [Curate and connect open education resources for making, re-formatted and linked to standards, to meet champions' demand for student project guides](curate-open-education-resources-for-making.md)
 
 ## Examples
 - **[Wikipedia](https://www.wikipedia.org)** — the canonical hyperlinked text; classroom uses that assign a bounded "link walk" with a synthesis note outperform unstructured browsing.

@@ -61,8 +61,10 @@ Choice supports intrinsic motivation primarily by satisfying the need for autono
 5. **Reflect.** Learners evaluate their work against the goal and their plan — what they learned, what was hard, what they would do differently — then share with peers.
 
 ## Related Strategies
+
 - [Goal-setting conferences](5-minute_writing_conferences.md) — one-on-one planning conversations deepen the planning phase
 - [Exit tickets](3-source_rule.md) — a lightweight reflection format for closing the cycle
+- [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](student-autonomy-default-access-edtech-supports.md)
 
 ## Examples
 - A third-grade class studying insects chooses how to gather basic information: reading a book, listening to a recording, interviewing an entomologist, or observing and recording live insects. Each child writes a one-sentence plan, works for 30 minutes, then shares one thing learned and one thing they would change.

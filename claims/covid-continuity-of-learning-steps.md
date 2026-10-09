@@ -50,3 +50,4 @@ A fact sheet published by Regional Educational Laboratory Mid-Atlantic in July 2
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
 - [The report positions family engagement as an often-underutilized strategy for supporting student academic growth during COVID recovery](family-engagement-underutilized-covid-recovery-strategy.md) — related
 - [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — a narrower finding that bears on this claim
+- [ICCSD implemented PLTW computing curricula at a growing set of schools, with COVID-19 slowing progress in Years 2 and 3](pltw-implementation-iccsd-covid-slowdown.md) — related

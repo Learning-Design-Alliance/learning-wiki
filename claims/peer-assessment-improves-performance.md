@@ -99,3 +99,4 @@ A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary,
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — related
 - [Peer and self-assessment both show significant effects on academic performance with no significant difference between their impacts](peer-self-assessment-improve-performance-equally.md) — a broader claim this one bears on
+- [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related

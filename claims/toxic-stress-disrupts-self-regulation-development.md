@@ -47,3 +47,4 @@ The brief states this as a finding from the research literature on stress and se
 - [Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition](unsafe-environments-trigger-stress-response-impeding-cognition.md) — related
 - [Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing](urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits.md) — related
 - [Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts](sleep-deprivation-impairst-astronaut-performance.md) — related
+- [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — related

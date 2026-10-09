@@ -41,6 +41,7 @@ The initiative's goal was "to strengthen grantee capacity for equity-centered st
 - [Strengthen grantee strategic learning capacity through scoping support, provider matching, cohort learning activities, and thought partnership](intermediary-capacity-building-four-supports.md)
 - [Intermediary-led grantee cohort model with four support components](intermediary-led-grantee-cohort-model.md)
 - [Funder recommendations: evidence on importance plus tips for starting and sustaining initiatives](funder-recommendations-strategic-learning-initiatives.md)
+- [Build teacher capacity through iterative, equity-centered professional development for pathway implementation](teacher-capacity-pd-ct-pathways.md)
 
 ## Examples
 -

@@ -48,6 +48,8 @@ SEERNet is a research infrastructure initiative that stimulates researchers to w
 - [SEERNet hub of five digital learning platforms enabling large-scale education research](seernet-five-dlps-hub.md)
 - [SETA (Scientific and Engineering Technical Assistance) roles as embedded technical expertise in education R&D](seta-embedded-technical-assistance-roles.md)
 - [Terracotta: a SEERNet platform enabling randomized research within the Canvas LMS](terracotta-canvas-research-platform.md)
+- [MOOC Replication Framework (MORF)](morf-replication-framework.md)
+- [SEERNet network connecting platforms, researchers, and educators](seernet-network-element.md)
 
 ## Examples
 -

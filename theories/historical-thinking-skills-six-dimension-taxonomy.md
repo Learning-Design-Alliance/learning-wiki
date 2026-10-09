@@ -48,7 +48,8 @@ A taxonomy of six historical thinking skill assessment targets derived from a th
 - [Hts Student Work Rubrics S1 S6](../elements/hts-student-work-rubrics-s1-s6.md)
 
 ## Examples
--
+
+- [Four-level (0-3) Historical Thinking Skills rubrics for scoring teacher activities and student work](../elements/historical-thinking-skills-rubrics-0-3.md)
 
 ## Key Sources
 - Iwatani, E., Means, B., Seylar, J., and Hardy, A. (2021). Rubrics on historical thinking skills for assignments and student work: Initial validity evidence. Digital Promise. https://doi.org/10.51388/20.500.12265/112

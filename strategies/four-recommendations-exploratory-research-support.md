@@ -39,7 +39,8 @@ Based on the thematic analysis of PI interviews, the report recommends four acti
 - Guiding effective use of emerging technology to increase learning and broaden participation in STEM
 
 ## Related Strategies
-- 
+
+- [Three overarching field recommendations: communicate unique characteristics, strengthen outcome reporting, and advance equity work](cyberlearning-field-recommendations-communicate-report-equity.md)
 
 ## Examples
 -

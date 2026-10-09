@@ -38,6 +38,7 @@ The guide recommends that computational thinking skills, as the foundation for a
 ## Related Strategies
 
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
+- [Build computational thinking skills in the younger grades through plugged and unplugged activities](develop-ct-skills-younger-grades.md)
 
 ## Examples
 -

@@ -63,3 +63,5 @@ Reported mechanism for the implementation increase: mutual accountability terms 
 - [The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.](obc-instructional-coherence-engagement-outcomes.md) — related
 - [Providers gained super users of their products and learnings for product design and effective implementation support through OBC engagement.](obc-provider-super-users-product-learning.md) — related
 - [Developing outcomes-based contracts enabled districts to engage in collaborative, data-driven decision-making processes to select populations, outcomes, and pricing.](obc-contract-development-collaborative-data-driven-decisions.md) — related
+- [Industry partners reported learning about working with schools and educators, including contracting and teacher community building](industry-learned-working-with-schools.md) — related
+- [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related

@@ -89,3 +89,5 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
 - [Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text](disadvantaged-students-lack-vocabulary-and-comprehension-strategies.md) — related
 - [Multisensory literacy strategies help students with low working memory become better at decoding](multisensory-strategies-low-working-memory-decoding.md) — related
+- [Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding](low-attention-hinders-alphabet-knowledge-phonological-awareness.md) — related
+- [Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process](reading-development-interwoven-lattice-not-linear.md) — related

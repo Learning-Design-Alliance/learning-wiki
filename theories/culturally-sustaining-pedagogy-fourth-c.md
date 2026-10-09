@@ -45,9 +45,11 @@ The presentation adds culturally sustaining pedagogy (citing Paris, 2012; Paris 
 - [Three-stage model of developing district computational thinking pathways: Getting Started, Getting Going, Getting Better](ct-pathway-development-stages.md)
 - [Tools, Themes, and Competencies framework for organizing a CT/CS pathway](tools-themes-competencies-framework.md)
 - [Critical Speculative Design Pedagogy](critical-speculative-design-pedagogy.md)
+- [Civic imagination as a guiding framework for rural computing education](civic-imagination-framework-rural-ct.md)
 
 ## Examples
--
+
+- [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](../strategies/connect-ct-to-local-maker-heritage.md)
 
 ## Key Sources
 - Computing in Rural America: Developing K-8 Coding Pathways for Kentucky Appalachia. (2020). Presentation slides, December 2nd 2020. https://digitalpromise.dspacedirect.org/items/0c77d3c7-12c8-4a9b-8583-040137f0fd3c

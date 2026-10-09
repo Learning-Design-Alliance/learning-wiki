@@ -66,3 +66,4 @@ Sub-finding under the Outcomes and Results section; the report also states OBCs 
 - [Lack of pricing transparency in the edtech market made OBC pricing decisions challenging, with pricing varying up to 40% between districts.](edtech-pricing-transparency-challenges-obc.md) — related
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](coherence-alignment-student-experience-supports.md) — related
 - [A district case study identifies practices and conditions of a coherent instructional system for reading and science improvement and where it had the most impact](coherent-instructional-system-case-study-impact.md) — related
+- [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
