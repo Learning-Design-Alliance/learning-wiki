@@ -43,3 +43,4 @@ Findings from the one RCT meeting WWC standards without reservations, on six res
 ## Related Claims
 - [Fraction Face-Off! shows potentially positive effects on general mathematics achievement, with a WWC-calculated effect size of 0.64 and improvement index of +24 on NAEP selected items](fraction-face-off-potentially-positive-general-math-achievement.md) — related
 - [Fraction Face-Off! shows potentially positive effects on fourth-grade students' geometry and measurement outcomes, with a WWC-calculated average effect size of 0.96 and improvement index of +33](fraction-face-off-potentially-positive-geometry-measurement.md) — related
+- [Fraction Face-Off! improves at-risk fourth graders' fractions performance on a NAEP-derived measure with an average effect size of +0.51 across two studies.](fraction-face-off-naep-effect-size-051.md) — related

@@ -42,6 +42,7 @@ The report recommends giving learners space to generate their own thinking and i
 - [Use prototyping tasks to help students unfamiliar with design-mode thinking share incomplete ideas](prototyping-tasks-for-design-mode-thinking-novices.md)
 - [Normalizing Struggle](normalizing-struggle.md)
 - [Normalizing Trouble](normalizing_trouble.md)
+- [Have learners bring their own thinking before using generative AI to enable productive struggle](own-thinking-before-generative-ai-productive-struggle.md)
 
 ## Examples
 -

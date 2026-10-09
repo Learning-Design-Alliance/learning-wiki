@@ -46,3 +46,4 @@ Predictive analysis of Chicago data using teacher-assigned literacy-standard gra
 - [K-2 literacy assessments are positively correlated, with MAP showing the strongest correlations with the other assessments](k2-literacy-assessments-positively-correlated-map-strongest.md) — related
 - [Combined latent scores are highly predictive of third grade assessment scores in pre-pandemic years, with correlations from 0.67 to 0.82](latent-scores-predict-third-grade-assessment-scores.md) — related
 - [Post-pandemic, K-2 scores predict third grade ELA outcomes with smaller but still moderate-to-large correlations (0.30-0.64 for grades; 0.47-0.81 for IAR)](post-pandemic-k2-scores-still-predict-third-grade-outcomes.md) — related
+- [CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495](ccm-external-validation-correlations-pre-post-tests.md) — related

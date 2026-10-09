@@ -40,6 +40,7 @@ Drawing on the Water of Systems Change framework (structural, relational, transf
 - [Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice](nsi-implementation-support-strategies.md)
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
 - [Small school reformers should intentionally build professional community, principal leadership, and teacher influence rather than relying on size reduction](intentionally-build-organizational-conditions-small-schools.md)
+- [Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation](systemic-coaching-program-design-six-pillars.md)
 
 ## Examples
 -

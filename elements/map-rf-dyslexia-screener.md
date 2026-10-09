@@ -45,6 +45,7 @@ The Dyslexia Screener form assesses key reading skills "including those most oft
 - [MAP Reading Fluency adaptive online early literacy assessment](map-reading-fluency-assessment.md)
 - [Spanish MAP Reading Fluency Foundational Skills assessment](spanish-map-reading-fluency-foundational-skills-assessment.md)
 - [MAP Reading Fluency Adaptive Oral Reading default form routing students to Oral Reading Fluency or Foundational Skills tracks](map-reading-fluency-adaptive-oral-reading-routing.md)
+- [MAP Reading Fluency adaptive oral reading fluency assessment with dyslexia screener and progress monitoring](map-reading-fluency-adaptive-assessment-element.md)
 
 ## Examples
 

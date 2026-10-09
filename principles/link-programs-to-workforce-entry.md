@@ -49,6 +49,7 @@ The article argues that pathway programs should tie every design element to empl
 ## Examples
 
 - [Use dual enrollment and a shared pathway template so students complete prerequisites while still in high school](../strategies/dual-enrollment-pathway-template.md)
+- [Use employer-based earn-and-learn apprenticeship as a workforce training pathway outside traditional construction occupations](../strategies/earn-and-learn-apprenticeship-nontraditional-occupations.md)
 
 ## Key Sources
 - Hyslop, A. (2008). Develop, Link, Foster, and Encourage. Techniques. https://www.acteonline.org

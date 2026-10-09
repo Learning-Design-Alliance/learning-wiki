@@ -45,7 +45,9 @@ Promotion power is a measure of school effectiveness that the study defines as d
 - [DC public high schools show wide variation in promotion power for college-ready SAT scores, graduation, and college enrollment](../claims/wide-variation-dc-high-school-promotion-power.md) [+W]
 
 ## Related Elements
-- 
+
+- [Promotion power measure of Louisiana high schools](promotion-power-measure-louisiana.md)
+- [Promotion power measure of high school effects on long-term student success](promotion-power-measure-louisiana-high-schools.md)
 
 ## Examples
 -

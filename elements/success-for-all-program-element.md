@@ -49,7 +49,8 @@ Success for All is "a comprehensive school reform program designed to ensure suc
 - [Teachers at SFA schools report positive perceptions of the reading program, including benefits for English learners and special education students](../claims/sfa-teacher-survey-positive-perceptions.md) [+W]
 
 ## Related Elements
-- 
+
+- [Talent Development High School program](talent-development-high-school-program.md)
 
 ## Examples
 

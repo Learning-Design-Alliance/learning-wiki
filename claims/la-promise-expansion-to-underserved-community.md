@@ -44,3 +44,4 @@ Site-profile case study documentation of the LA Promise Neighborhood's expansion
 
 ## Related Claims
 - [The LA Promise Neighborhood lead agency drew one community's boundaries partly based on the location of existing partnerships](la-promise-boundaries-based-on-existing-partnerships.md) — related
+- [Case studies of five Promise Neighborhoods sites documented program design, services, and early implementation successes and challenges](promise-neighborhoods-five-site-case-study-findings.md) — a broader claim this one bears on

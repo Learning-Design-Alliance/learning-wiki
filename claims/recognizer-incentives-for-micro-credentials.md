@@ -54,3 +54,4 @@ Descriptive reporting on recognizer adoption: Kettle Moraine School District (28
 - [BCPS embedded micro-credentials into PLCs with S.T.A.T. teachers and awarded continuing professional development credit](bcps-stat-pilot-cpd-credit.md) — a narrower finding that bears on this claim
 - [KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together](kmsd-micro-credential-collaboration-groups.md) — related
 - [KMSD tied micro-credential attainment to permanent base-salary increases, and over 80% of its teachers earned micro-credentials](kmsd-salary-increase-micro-credentials.md) — a narrower finding that bears on this claim
+- [Micro-credentials were a promising personalized professional learning option, with 376 earned and higher enthusiasm among earners](pr-micro-credentials-promising-personalized-learning.md) — related

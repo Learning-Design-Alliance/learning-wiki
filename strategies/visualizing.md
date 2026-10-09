@@ -55,9 +55,11 @@ Visualizing improves comprehension and problem solving because external represen
 4. Fade the prompting as learners adopt visualization spontaneously
 
 ## Related Strategies
+
 - [Annotating](../principles/annotating.md) — text-marking is a lightweight form of external representation
 - [Drawing to Learn](../strategies/drawing-to-learn.md) — the science-classroom variant of learner-generated visualization
 - [Concept Mapping](../elements/concept-mapping.md) — node-link visualization of relational knowledge
+- [Choose problems with multiple entry points to stimulate discussion of different solution approaches](multiple-entry-point-problems.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling how to construct a representation

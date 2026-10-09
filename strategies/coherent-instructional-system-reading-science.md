@@ -40,6 +40,7 @@ This strategy comes from a research brief that uses "a case study from a U.S. sc
 
 - [A practical model of a coherent instructional system that school leaders can adapt to strengthen instruction across classrooms](coherent-instructional-system-model-for-leaders.md)
 - [Adapt a practical model of a coherent instructional system for reading and science improvement](coherent-instructional-system-model-reading-science.md)
+- [Coherent instructional system model for reading and science improvement](coherent-instructional-system-reading-science-model.md)
 
 ## Examples
 -

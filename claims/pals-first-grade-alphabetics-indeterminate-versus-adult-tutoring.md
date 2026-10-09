@@ -47,3 +47,4 @@ Randomized field trial by McMaster et al. (2005) with 41 first-grade nonresponde
 - [PALS showed no statistically significant effects on near-transfer and far-transfer reading fluency for first graders](pals-fluency-no-significant-effects-first-grade.md) — related
 - [K-PALS shows statistically significant positive effects on Rapid Letter Sounds for kindergarten students in all three training-support conditions](pals-k-pals-significant-rapid-letter-sound-gains.md) — related
 - [Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86)](early-steps-tutoring-improves-word-attack-passage-comprehension.md) — related
+- [TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies](tri-average-effect-size-051-woodcock-outcomes.md) — related

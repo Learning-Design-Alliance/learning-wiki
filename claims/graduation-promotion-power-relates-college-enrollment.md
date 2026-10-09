@@ -46,3 +46,4 @@ Observational analysis relating promotion power estimates across outcomes for DC
 - [Student background characteristics are less strongly related to promotion power scores than to status measures](background-less-related-promotion-power-than-status.md) — related
 - [DC public high schools show wide variation in promotion power for college-ready SAT scores, graduation, and college enrollment](wide-variation-dc-high-school-promotion-power.md) — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
+- [Louisiana high schools vary widely in their success in promoting graduation, college enrollment, and earnings](louisiana-high-schools-vary-widely-promotion-power.md) — related

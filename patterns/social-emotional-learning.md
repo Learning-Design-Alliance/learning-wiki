@@ -14,7 +14,7 @@ grain_size: program, course, unit
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (9 for, 6 mixed) · 28 studies (12 causal, 11 quant-synthesis, 3 review, 1 design, 1 theoretical), `q1`–`q4` · 12 of 28 report an effect size · 5 claims rest on one study
+> **Evidence** · 16 claims (10 for, 6 mixed) · 29 studies (12 causal, 11 quant-synthesis, 4 review, 1 design, 1 theoretical), `q1`–`q4` · 12 of 29 report an effect size · 6 claims rest on one study
 
 ## Description and scope
 
@@ -109,6 +109,7 @@ Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which 
 - [Cooperative learning with group rewards and individual accountability improves outcomes.](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M] — school cooperative methods and achievement. Used above for structuring group practice, by extrapolation; it measures no social or emotional outcome.
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](../claims/co-regulation-supports-climate-and-youth-emotion-regulation.md) [+W] — facilitators' and youths' accounts from one national programme evaluation's focus groups; bears on the climate and modelling steps, as reported experience, not a comparison.
 - [In Guglielmo and Tryon (2001), social skills training plus reinforcement increased sharing behaviors significantly more than reinforcement alone, while effects on being in a group were positive but not significant](../claims/taking-part-training-increases-sharing-behaviors.md) [~W] — attached 2026-10-07 from Social Skills Training (2013), which proposed "Behavioral social skills lesson pattern: instruct, model, practice, reinforce".
+- [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](../claims/sel-classroom-approaches-three-types.md) [+W] — attached 2026-10-09 from Collaborative for Academic et al. (2020), which proposed "SAFE: four elements of high-quality SEL instruction".
 
 ## Illustrative design instance and observation record
 

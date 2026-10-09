@@ -46,6 +46,7 @@ YARH is a multiphase program funded by the Children's Bureau within the U.S. Dep
 ## Related Elements
 
 - [Performance Partnership Pilots for Disconnected Youth (P3) initiative](p3-disconnected-youth-initiative-element.md)
+- [New Chance: a two-phase education and employment program for young welfare mothers who dropped out of school](new-chance-program-young-welfare-mothers.md)
 
 ## Examples
 -

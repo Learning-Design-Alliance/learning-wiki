@@ -48,3 +48,4 @@ Qualitative reflexive thematic analysis of written responses and ChatGPT logs fr
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints](nico-nor-teacher-implementation-experience.md) — related
+- [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related

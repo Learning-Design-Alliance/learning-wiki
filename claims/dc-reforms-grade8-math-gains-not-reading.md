@@ -49,3 +49,5 @@ The brief's key findings report that the reforms "were also associated with lear
 - [For DCPS students in grades 6 to 8, achievement gains under new principals were larger and statistically significant in both math and reading](dcps-grades-6-8-gains-significant-both-subjects.md) — related
 - [Impacts of the DC reforms on NAEP math scores were largest for Black students](dc-reforms-naep-math-impacts-largest-black-students.md) — related
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
+- [The DC reforms were associated with grade 8 math gains, especially for cohorts with more exposure, but not grade 8 reading gains](dc-reform-gains-grade-8-math-not-reading-brief.md) — possibly the same claim (merge candidate)
+- [The DC reforms were associated with larger than expected improvements in grade 4 math and reading NAEP scores](dc-reforms-larger-expected-grade4-math-reading-naep.md) — related

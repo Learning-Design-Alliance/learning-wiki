@@ -53,3 +53,5 @@ Attendance outcome from the same matched-comparison evaluation of Kauffman stude
 - [The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions](kauffman-school-matched-comparison-group-design.md) — related
 - [Kauffman School attendance impacts were positive and significant in some grades and not significantly different from zero in others](kauffman-attendance-impacts-mixed-by-grade.md) — related
 - [The Kauffman School suspends students at a substantially higher rate than other schools in Kansas City](kauffman-suspension-rate-substantially-higher.md) — related
+- [Kauffman students had higher attendance rates and were less likely to be suspended than similar Kansas City students](kauffman-students-higher-attendance-lower-suspension.md) — a broader claim this one bears on
+- [Kauffman students had higher attendance rates than other similar students in Kansas City](kauffman-students-higher-attendance-rates.md) — a broader claim this one bears on

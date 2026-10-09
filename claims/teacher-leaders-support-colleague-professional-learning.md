@@ -51,3 +51,6 @@ The brief's opening statement of the teacher-leader role, offered as the authors
 - [Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices](leader-training-residency-facilitated-practice-sharing-but-implementation-lagged.md) — related
 - [Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits](dual-evaluator-coach-role-undermines-learning.md) — related
 - [Each toolkit PLC requires one facilitator who leads sessions and supports educators between them](algebra-toolkit-facilitator-role-requirements.md) — a narrower finding that bears on this claim
+- [District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed](district-leaders-active-role-coaching-success.md) — related
+- [More than three-quarters of educator respondents find coaching valuable and impactful on their practice](educators-find-coaching-valuable-and-impactful.md) — related
+- [The coaching pilot strengthened school leaders' relationships with coaches and led leaders to advocate for full-time dedicated coaches to scale the model](pr-coaching-pilot-relationships-systems-impact.md) — a narrower finding that bears on this claim

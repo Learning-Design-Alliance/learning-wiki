@@ -51,3 +51,4 @@ The WWC's synthesis of the Elementary School Mathematics evidence base: of 11 id
 - [Attending Green Dot Public Schools produces statistically significant positive effects on high school mathematics achievement (potentially positive effects rating, small extent of evidence)](green-dot-positive-math-achievement.md) — related
 - [The evidence base for Odyssey® Math's mathematics achievement effects is rated medium to large, based on three studies of 2,768 students in 41 schools](odyssey-math-medium-to-large-extent-of-evidence.md) — related
 - [Functional life skills development programs show potentially positive effects on independent living, with a small evidence base](functional-life-skills-independent-living-potentially-positive.md) — related
+- [The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study](jobstart-wwc-potentially-positive-rating.md) — related

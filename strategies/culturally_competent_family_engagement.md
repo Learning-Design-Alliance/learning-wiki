@@ -57,10 +57,12 @@ Family engagement interventions show consistent but modest academic benefits ove
 5. Evaluate with family feedback loops, treating families as partners in interpreting the data
 
 ## Related Strategies
+
 - [Building Empathy](../principles/building-empathy.md) — the underlying disposition change that cultural competency training targets
 - [Community-Based Learning](../principles/community-based-learning.md) — connects school learning to the community resources families know best
 - [Communities of Practice](../principles/communities-of-practice.md) — frames staff-family relationships as shared practice rather than service delivery
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — family partnership gives student work real audiences beyond the classroom
+- [Ground early childhood family-engagement programs in racial equity by honoring families' expertise and cultures](honor-family-expertise-culturally-responsive-engagement.md)
 
 ## Examples
 - **Parent Teacher Home Visits** (https://www.ptplus.org) — teachers visit families at home on neutral ground, focusing on hopes and dreams rather than problems; associated with improved teacher perceptions and student engagement

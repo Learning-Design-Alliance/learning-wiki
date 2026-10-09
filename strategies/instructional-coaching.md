@@ -68,6 +68,7 @@ Coaching applies the same learning science that governs novice skill acquisition
 - Professional Learning Communities — sustained collaborative PD, but peer-run rather than expert-guided
 - [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](layered-tutor-professional-development-support.md)
 - [Support program implementation with curriculum-embedded professional learning: workshops, planning and classroom coaching, leadership walkthroughs, and student-work data analysis](lenses-professional-learning-support-strategy.md)
+- [Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation](systemic-coaching-program-design-six-pillars.md)
 
 ## Examples
 - **[MyTeachingPartner](https://curry.virginia.edu/myteachingpartner)** (University of Virginia) — web-mediated coaching in which teachers submit classroom video and receive consultant feedback on teacher–student interactions; replicated RCTs show gains in interaction quality and student achievement.

@@ -46,3 +46,4 @@ Case study of Baltimore County Public Schools, a recognizer running a 2015-2016 
 - [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — a broader claim this one bears on
 - [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](nine-states-ceus-no-coherent-valuation-framework.md) — a broader claim this one bears on
 - [MTLC developed the 11-credential Global Graduates stack to support personalized learning in Houston ISD's one-to-one PowerUp environment](mtlc-global-graduates-stack-hisd.md) — related
+- [Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development](pr-pilot-microcredential-earning-and-value.md) — related

@@ -42,3 +42,4 @@ The report's research summary states one study (Allen et al., 2011) meets WWC gr
 
 ## Related Claims
 - [MTP-S produced a positive, statistically significant effect on general achievement in the post-intervention year with a new student cohort](mtp-s-significant-positive-effect-post-intervention-year.md) — related
+- [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](insidetrack-evidence-base-one-study-meets-wwc-standards.md) — related

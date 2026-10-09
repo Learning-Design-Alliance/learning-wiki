@@ -46,6 +46,7 @@ One of three KIPP school leadership programs examined in the evaluation. The rep
 
 - [KIPP Fisher Fellowship program preparing new principals to lead new KIPP schools](kipp-fisher-fellowship-program.md)
 - [KIPP Leadership Design Fellowship (KLDF) program disseminating school leadership development strategies outside KIPP](kipp-leadership-design-fellowship-program.md)
+- [KIPP assistant principal development pipeline](kipp-assistant-principal-development-pipeline.md)
 
 ## Examples
 

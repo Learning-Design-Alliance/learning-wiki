@@ -50,3 +50,4 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related
 - [Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness](attendance-effort-drive-grades-graduation.md) — related
 - [Prior GPA was the best predictor of students' course grade, whether or not students used courseware.](prior-gpa-best-grade-predictor.md) — a narrower finding that bears on this claim
+- [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related

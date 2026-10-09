@@ -45,3 +45,4 @@ Literature review approach section: the authors searched EBSCO Academic Search P
 ## Related Claims
 - [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](clasp-critical-success-factors-communication.md) — related
 - [A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents](frtf-synthesis-46-frameworks-12-talents.md) — related
+- [Time spent between teachers and coaches is one of the most important factors in a successful coaching program](coach-teacher-time-key-success-factor.md) — related

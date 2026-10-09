@@ -51,3 +51,6 @@ Quasi-experimental comparison of students in 9th-grade on-track NSI schools to s
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related
 - [Students' attendance and middle grades on-track rates in Success schools improved during the first two program years, especially in Year 2](success-project-attendance-ontrack-improved.md) — related
 - [Success schools' student GPAs did not show much improvement in the first two years](success-project-gpas-little-improvement.md) — related
+- [9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale](9th-grade-on-track-nsi-gpa-improvement.md) — related
+- [9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates](9th-grade-on-track-nsi-pass-rates-suspension.md) — related
+- [College-ready on-track NSI did not impact GPA, advanced course taking, math and ELA test scores, graduation, or college enrollment](college-ready-on-track-nsi-null-outcomes.md) — related

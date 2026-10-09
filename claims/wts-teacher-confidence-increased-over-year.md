@@ -67,3 +67,4 @@ Survey-based comparison of average confidence gains from beginning to end of yea
 - [Most pilot teachers used the Write to Succeed practices and found them easy to use and helpful for students, with ease of use increasing across semesters](wts-practices-used-and-rated-helpful.md) — related
 - [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related
 - [The SWELL logic model posits that participating teachers will increase self-efficacy in literacy instruction and in supporting English learner students](swell-teacher-self-efficacy-short-term-outcomes.md) — a broader claim this one bears on
+- [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](ongoing-pd-mentorship-critical-coach-growth.md) — related

@@ -54,6 +54,7 @@ Positive Action is a whole-school reform strategy intended to improve social-emo
 
 - [Positive Action K-12 character education curriculum](positive-action-curriculum-program.md)
 - [PATHS curriculum: classroom-based social-emotional lessons delivered two to three times weekly within Fast Track](paths-curriculum-fast-track-classroom-lessons.md)
+- [Talent Development High School program](talent-development-high-school-program.md)
 
 ## Examples
 

@@ -115,3 +115,5 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence](360-filmmakers-challenge-personal-meaning-motivation.md) — a narrower finding that bears on this claim
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — related
+- [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — a narrower finding that bears on this claim
+- [Students engage more actively and perform better when math problems are presented in personalized contexts that align with their backgrounds and interests](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related

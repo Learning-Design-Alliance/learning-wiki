@@ -40,6 +40,7 @@ The page describes a research brief that "examines the practices and conditions 
 
 - [Adapt a practical model of a coherent instructional system for reading and science improvement](coherent-instructional-system-model-reading-science.md)
 - [Build a coherent instructional system across classrooms, examined through a district case study](coherent-instructional-system-reading-science.md)
+- [Coherent instructional system model for reading and science improvement](coherent-instructional-system-reading-science-model.md)
 
 ## Examples
 -

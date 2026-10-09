@@ -50,11 +50,13 @@ The Cultivate survey is organized around a research-based framework of nine clas
 - [Elevate Survey Classroom Level](../elements/elevate-survey-classroom-level.md)
 - [Five essential supports for student learning framework](five-essential-supports-ccsr-sipaaa.md)
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](early-education-essentials-six-essential-supports-framework.md)
+- [Cultivate framework: classroom learning conditions shape students' learning beliefs, which shape learning and well-being](cultivate-framework-conditions-beliefs-wellbeing.md)
 
 ## Examples
 
 - [Cultivate Survey: twice-yearly student voice survey of classroom learning conditions and learning beliefs](../elements/cultivate-survey-instrument.md)
 - [Use Cultivate data as a framework for action to identify strengths and improvement areas in learning environments](../strategies/cultivate-framework-for-action-school-improvement.md)
+- [Cultivate Survey: anonymous twice-yearly student survey of classroom learning conditions in grades 5-12](../elements/cultivate-survey-element.md)
 
 ## Key Sources
 - Faye Kroshinsky, Mary Ann Pitcher, Jackson Overton-Clark, Shanette Porter. (2026). Supports for Centering Student Experience. UChicago Consortium Field Scan. https://consortium.uchicago.edu/publications/supports-for-centering-student-experience

@@ -67,3 +67,4 @@ The review reports national chronic absenteeism prevalence, citing U.S. Departme
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
+- [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related

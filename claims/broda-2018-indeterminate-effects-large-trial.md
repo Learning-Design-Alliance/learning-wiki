@@ -49,3 +49,6 @@ RCT at a public university in Michigan with incoming first-year students blocked
 - [Growth Mindset interventions have no discernible effects on college enrollment and progressing in college](growth-mindset-no-discernible-enrollment-progressing.md) — related
 - [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — related
 - [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) — related
+- [Dual enrollment programs show no discernible effects on general academic achievement (college)](dual-enrollment-no-effect-college-achievement.md) — related
+- [FLIGHT shows no discernible effects on general high school academic achievement (GPA)](flight-no-discernible-effect-high-school-gpa.md) — related
+- [I-BEST has no discernible effects on credit accumulation](ibest-no-discernible-effects-credit-accumulation.md) — possibly the same claim (merge candidate)

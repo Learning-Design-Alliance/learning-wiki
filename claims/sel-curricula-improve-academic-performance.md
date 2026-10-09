@@ -47,3 +47,4 @@ The paper's SEL section reports, citing prior studies, that SEL curricula streng
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
+- [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — a broader claim this one bears on

@@ -87,3 +87,4 @@ Program Outcomes section: teachers used clear language that they "knew" students
 - [Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors](coaching-academic-task-fidelity-higher-quality.md) — related
 - [Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills](requisite-coach-characteristics-qualitative-findings.md) — related
 - [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](coaching-complexity-may-fragment-impact.md) — reports the opposite
+- [Sustained administrator involvement in coaching programs is associated with less teacher stress, better perceived coaching skills, and more improvement in teaching practices](administrator-involvement-improves-coaching-outcomes.md) — related

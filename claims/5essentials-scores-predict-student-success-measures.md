@@ -45,3 +45,4 @@ The brief reports, citing University of Chicago Consortium re-examination studie
 ## Related Claims
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
 - [Schools with higher 5Essentials Survey scores, especially more Supportive Environments, are more likely to reduce students' fear of bullying](supportive-environment-predicts-bullying-fear-reduction.md) — related
+- [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — possibly the same claim (merge candidate)

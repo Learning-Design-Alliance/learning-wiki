@@ -55,6 +55,7 @@ MAP Growth is NWEA's assessment product, administered remotely or in person, who
 - [MAP Reading Fluency assessment as the vehicle of the theory of action](map-reading-fluency-assessment-element.md)
 - [MAP Growth assessment](map-growth-assessment-nwea.md)
 - [School Challenge Index (SCI) and MAP Growth conditional growth metrics for school-level poverty and growth measurement](sci-and-map-growth-school-metrics.md)
+- [Technical appendix documenting dashboard data, sample, and methods](map-growth-dashboard-technical-appendix.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ MAP Reading Fluency is "a multistage adaptive assessment" administered typically
 - [MAP Reading Fluency adaptive online early literacy assessment](map-reading-fluency-assessment.md)
 - [MAP Reading Fluency Dyslexia Screener with multivariate predictive model and RAN](map-rf-dyslexia-screener.md)
 - [MAP Reading Fluency Foundational Skills achievement and growth norms for Grades K-3 in three domains](map-reading-fluency-foundational-skills-norms-k-3.md)
+- [MAP Reading Fluency adaptive oral reading fluency assessment with dyslexia screener and progress monitoring](map-reading-fluency-adaptive-assessment-element.md)
 
 ## Examples
 -

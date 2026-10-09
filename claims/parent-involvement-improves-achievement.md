@@ -123,3 +123,4 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - [Homework is more effective for middle and high school students than elementary students](homework-more-effective-secondary-than-elementary.md) — related
 - [Individualized homework outperforms non-individualized homework in achievement, attitudes, and conduct](individualized-homework-outperforms-generic.md) — related
 - [Parental focus on compliance harms homework learning, while supporting effort and process helps](parent-compliance-versus-process-support.md) — related
+- [ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report](parentcorps-parent-involvement-rater-mixed.md) — related

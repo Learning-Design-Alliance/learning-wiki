@@ -44,6 +44,7 @@ The deck proposes Scratch as a block-based coding environment for content-area a
 - [ScratchJR app for young children to build interactive stories and games](scratchjr-k2-interactive-stories-games.md)
 - [Code.org CS Fundamentals unplugged lessons: Dice Race, My Robotic Friends, Paper Planes, Plant a Seed, Tangrams](code-org-cs-fundamentals-algorithm-lessons.md)
 - [Scratch block-based programming language and sharing ecosystem](scratch-block-programming-ecosystem.md)
+- [Eksploratoryòm: story-based, culturally relevant interactive STEM lessons in Haitian Creole integrating literacy and SEL](eksploratoryom-creole-stem-digital-content.md)
 
 ## Examples
 -

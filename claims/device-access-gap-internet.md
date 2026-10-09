@@ -51,3 +51,4 @@ Descriptive survey of technology capacities in New York charter schools immediat
 - [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — related
 - [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
+- [Teachers' technology use increased during COVID-19 remote learning, but infrastructure and device barriers hindered effective integration](pr-teacher-tech-use-increased-infrastructure-barriers.md) — reports the opposite

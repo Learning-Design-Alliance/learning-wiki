@@ -50,3 +50,5 @@ A memorandum from Patrick Meyer and Wei He dated July 31, 2025 presents updated 
 - [Under the 2025 MAP Growth norms, the same reading RIT score can rank higher in achievement percentile due to national declines in achievement](2025-norms-raise-reading-achievement-percentiles.md) — related
 - [Spanish MAP Growth Reading universal screening cut scores correspond to the 40th percentile of Spanish norms, established by linking to English cut scores](spanish-map-growth-reading-40th-percentile-cut-scores.md) — related
 - [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](spanish-map-reading-adaptive-lower-sem.md) — related
+- [The 2025 MAP Growth Norms are based on national test samples from 2022–23 and 2023–24, and dashboard results are not comparable to reports using 2020 norms](2025-norms-based-on-2022-23-and-2023-24-samples.md) — related
+- [The enhanced item-selection algorithm (EISA) causes shifts in math scores that were fully accounted for in the 2025 norms and the dashboard](eisa-causes-math-score-shifts-accounted-in-2025-norms.md) — related

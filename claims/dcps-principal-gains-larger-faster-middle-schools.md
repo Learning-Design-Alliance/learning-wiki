@@ -48,3 +48,4 @@ School-level subgroup contrast from the DCPS principal-replacement analysis. The
 - [New principals' math achievement gains followed a similar trend to reading but were smaller](dcps-new-principals-math-gains-smaller-than-reading.md) — related
 - [After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools](dcps-new-principals-reading-gain-4-percentile-points.md) — related
 - [It took three years for new DCPS principals to achieve measurable achievement gains, with no evidence of even temporary declines](dcps-principal-gains-took-three-years-no-declines.md) — related
+- [DC math impacts of about one-third of a standard deviation are similar in magnitude to New Orleans reforms and larger than some well-known interventions](dc-math-impacts-one-third-sd-new-orleans-comparison.md) — related

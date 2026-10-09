@@ -45,3 +45,5 @@ The WWC systematic review screened 92 identified studies; 34 were eligible for r
 - [Everyday Mathematics® showed positive effects on TAAS math subtests (Concepts, Operations, Problem Solving) with effect sizes of 0.25 to 0.31 that were not statistically significant after clustering correction](everyday-mathematics-taas-subtest-effects-nonsignificant.md) — related
 - [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
 - [Everyday Mathematics and Harcourt Math show no difference in effects on elementary student achievement in Pittsburgh Public Schools](everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh.md) — related
+- [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
+- [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](insidetrack-evidence-base-one-study-meets-wwc-standards.md) — related

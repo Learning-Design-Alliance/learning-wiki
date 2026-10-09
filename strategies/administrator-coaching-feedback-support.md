@@ -40,7 +40,8 @@ Because principals must both evaluate and develop teachers, the report identifie
 - Conducting meaningful post-observation instructional conversations
 
 ## Related Strategies
-- 
+
+- [Differentiate coaching support to meet teachers where they are, establish clear DLS expectations, and provide coaches additional training for consistent messaging](differentiate-coaching-support-meet-teachers-where-they-are.md)
 
 ## Examples
 -

@@ -41,7 +41,8 @@ SIPPS is built on "the premise that beginning literacy is best taught through tw
 - [Systematic Phonics Improves Word Reading](../claims/systematic-phonics-improves-word-reading.md) [+M]
 
 ## Related Theories
-- 
+
+- [Reading Rope (Strand Model of Skilled Reading): word recognition and language comprehension as multifaceted strands](reading-rope-strand-model-skilled-reading.md)
 
 ## Examples
 

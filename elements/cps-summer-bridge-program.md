@@ -51,7 +51,8 @@ Summer Bridge is a large mandatory summer school program required for Chicago th
 - [Neither promotion nor retention significantly closed the achievement gap of low-achieving students close to the cutoff, and the lowest achievers deteriorated further](../claims/retention-social-promotion-no-gap-closing.md) [-M]
 
 ## Related Elements
-- 
+
+- [Summer bridge program (Challenge Program at Georgia Tech)](challenge-program-summer-bridge-georgia-tech.md)
 
 ## Examples
 -

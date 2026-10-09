@@ -47,3 +47,5 @@ Requisite Teacher Characteristics section of the focus group study: teachers saw
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on
 - [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related
 - [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](teacher-inquiry-incentives-direct-benefits-routine.md) — related
+- [Participating K-3 teachers vary widely in existing literacy practices, resources, understandings, and willingness to use DLS](dls-teachers-vary-widely-practices-buy-in.md) — related
+- [Video-based analysis of teacher-student interactions mediates positive coaching outcomes, and challenging teachers supports reflection but is uncommon](video-analysis-mediation-coaching-outcomes.md) — related

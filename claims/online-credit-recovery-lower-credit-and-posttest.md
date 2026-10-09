@@ -47,3 +47,4 @@ In the randomized comparison of online versus face-to-face algebra credit recove
 - [Online and face-to-face Algebra I credit recovery showed no statistically significant differences on any second-year outcomes](credit-recovery-no-second-year-differences.md) — reports the opposite
 - [Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses](online-credit-recovery-evidence-gap.md) — related
 - [Students in online Algebra I credit recovery reported that the course was more difficult than students in face-to-face credit recovery reported](online-credit-recovery-perceived-more-difficult.md) — related
+- [Embedding test-taking strategies and ACT practice items in algebra improved practice ACT mathematics scores (McMann, 1994; effect size 0.34)](algebra-embedded-act-strategies-improve-math-mcmann.md) — related

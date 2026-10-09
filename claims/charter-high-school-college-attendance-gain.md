@@ -51,3 +51,4 @@ The study's reported college-attendance finding for the same comparison group as
 - [Charter high school attendees experience higher earnings in their mid-20s](charter-high-schools-higher-mid-twenties-earnings.md) — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — a broader claim this one bears on
 - [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — related
+- [Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence](kipp-middle-plus-high-large-enrollment-persistence-impacts.md) — related

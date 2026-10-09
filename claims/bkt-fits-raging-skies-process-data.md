@@ -45,3 +45,4 @@ Cross-validated BKT analysis of log data from 460 Grade 5 students playing Ragin
 ## Related Claims
 - [BKT tended to outperform DBN across skills, possibly because DBN's greater parameter complexity exceeded what the sample size could estimate](bkt-outperforms-dbn.md) — related
 - [The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin](em-beats-sgd-fitting-spectral-bkt.md) — related
+- [CCM showed adequate model-data fit for game log data, except for infrequent tasks 7 and 9](ccm-model-data-fit-adequate-except-tasks-7-9.md) — related

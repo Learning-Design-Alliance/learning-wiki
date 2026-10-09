@@ -42,3 +42,5 @@ Review of 40 identified studies: seven fell within the Primary Mathematics scope
 
 ## Related Claims
 - [The evidence base for Core-Plus Mathematics is small: of 17 reviewed studies, only one met WWC standards (with reservations) and 16 did not meet standards or screens](core-plus-evidence-base-small.md) — related
+- [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
+- [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](insidetrack-evidence-base-one-study-meets-wwc-standards.md) — related

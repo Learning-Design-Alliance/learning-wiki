@@ -91,3 +91,5 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Multisensory literacy strategies help students with low working memory become better at decoding](multisensory-strategies-low-working-memory-decoding.md) — related
 - [Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding](low-attention-hinders-alphabet-knowledge-phonological-awareness.md) — related
 - [Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process](reading-development-interwoven-lattice-not-linear.md) — related
+- [Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation](asr-tutoring-supports-word-identification-attention-motivation.md) — related
+- [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](word-recognition-fluency-predicts-comprehension-grades-1-3.md) — related

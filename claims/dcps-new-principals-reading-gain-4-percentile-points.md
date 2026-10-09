@@ -50,3 +50,4 @@ Quasi-experimental analysis comparing achievement changes in DCPS schools before
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
 - [Achievement gains under new principals were larger and happened faster in DCPS middle schools than in elementary schools](dcps-principal-gains-larger-faster-middle-schools.md) — related
 - [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](effective-principals-positive-student-outcomes.md) — a broader claim this one bears on
+- [DC math impacts of about one-third of a standard deviation are similar in magnitude to New Orleans reforms and larger than some well-known interventions](dc-math-impacts-one-third-sd-new-orleans-comparison.md) — related

@@ -51,3 +51,6 @@ Matched comparison analysis of administrative student data comparing NSI schools
 - [Network cohesion in NSI increased over time but remained low, with about 16 percent of possible school-to-school connections realized](nsi-network-cohesion-low-but-improving.md) — related
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related
 - [High schools that underwent reform showed no significant improvement in absence rates or ninth-grade on-track rates compared with matched schools](chicago-turnaround-high-schools-no-significant-gains.md) — related
+- [9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale](9th-grade-on-track-nsi-gpa-improvement.md) — related
+- [9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates](9th-grade-on-track-nsi-pass-rates-suspension.md) — related
+- [College-ready on-track NSI did not impact GPA, advanced course taking, math and ELA test scores, graduation, or college enrollment](college-ready-on-track-nsi-null-outcomes.md) — related

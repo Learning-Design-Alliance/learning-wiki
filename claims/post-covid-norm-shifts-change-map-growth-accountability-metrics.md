@@ -52,3 +52,5 @@ This is the page's description of the white paper 'How Post‑COVID Norm Shifts 
 - [The dashboard reports median achievement percentiles normed to a nationally representative pre-COVID sample and projected proficiency against state cut scores](dashboard-metrics-percentiles-and-proficiency-projections.md) — related
 - [The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm](content-proximity-pilot-validity-reliability-comparability.md) — related
 - [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](spanish-map-reading-adaptive-lower-sem.md) — related
+- [The 2025 MAP Growth Norms are based on national test samples from 2022–23 and 2023–24, and dashboard results are not comparable to reports using 2020 norms](2025-norms-based-on-2022-23-and-2023-24-samples.md) — related
+- [The enhanced item-selection algorithm (EISA) causes shifts in math scores that were fully accounted for in the 2025 norms and the dashboard](eisa-causes-math-score-shifts-accounted-in-2025-norms.md) — related

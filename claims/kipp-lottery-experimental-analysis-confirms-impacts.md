@@ -51,3 +51,4 @@ Randomized experimental analysis relying on KIPP admissions lotteries to identif
 - [The Fisher Fellowship selection instrument is reliable, though three of 34 items had relatively low levels of one type of reliability](fisher-fellowship-selection-instrument-reliable.md) — related
 - [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related
 - [Prior research on KIPP suggested positive achievement impacts but was limited by small samples or methodological weaknesses](prior-kipp-research-limited-scope-and-methods.md) — a broader claim this one bears on
+- [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related

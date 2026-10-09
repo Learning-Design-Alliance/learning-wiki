@@ -45,3 +45,5 @@ Survey evidence from the Challenge Collaborative's cohort-model implementation. 
 ## Related Claims
 - [Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers](ct-pd-top-integration-support-54-percent.md) — related
 - [KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together](kmsd-micro-credential-collaboration-groups.md) — related
+- [Colleagues, not coaches, were teachers' main source of technology support, and over a third of post-survey respondents reported no support](pr-colleagues-main-support-coaches-rare.md) — related
+- [Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development](pr-pilot-microcredential-earning-and-value.md) — related

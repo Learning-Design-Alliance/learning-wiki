@@ -90,3 +90,4 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [System compensation as implemented is not a satisfactory adaptive variable](system-compensation-unsatisfactory-adaptive-variable.md) — related
 - [Strategic speeded practice outperformed strategic non-speeded practice within Galaxy Math, with a +0.57 effect size for the disseminated speeded version](galaxy-math-speeded-practice-advantage.md) — related
 - [Platform-enabled experimentation research draws on multiple intellectual lineages, including intelligent tutoring systems, formative feedback, and exemplar platforms like ASSISTments](multiple-intellectual-lineages-shared-foundations.md) — related
+- [An intelligent reading tutor used 20 minutes a day offered time efficiencies over conventional human tutoring of 30 or more minutes a day](intelligent-reading-tutor-time-efficiency-over-human-tutoring.md) — related

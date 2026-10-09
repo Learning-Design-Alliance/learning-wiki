@@ -108,3 +108,4 @@ Reviewed studies of "wait time" — the duration of pauses separating utterances
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — related
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related
+- [Teachers reported that trusting students to generate and pursue their own questions worked better than expected and revealed new student capabilities and gaps](teachers-surprised-by-student-questioning-capability.md) — related

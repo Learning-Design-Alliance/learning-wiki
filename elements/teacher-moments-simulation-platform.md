@@ -46,7 +46,8 @@ Teacher Moments is "a free openly licensed teaching simulation platform develope
 - 
 
 ## Related Elements
-- 
+
+- [GADRRS: an openly licensed data sharing agreement template for educational data exchanges](gadrrs-data-sharing-agreement-template.md)
 
 ## Examples
 -

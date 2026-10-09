@@ -58,3 +58,4 @@ Observational analysis of CPS administrative data (2009-11 cohorts) using models
 - [The on-track indicator is strongly related to students' likelihood of graduating](on-track-indicator-related-to-graduation-likelihood.md) — related
 - [Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness](attendance-effort-drive-grades-graduation.md) — related
 - [Among students with the same ACT scores (21-23), college graduation rates are 77 percent for those with a high school GPA of 3.5 or higher versus 40 percent for those with a GPA of 2.0-2.4](gpa-outpredicts-act-college-graduation.md) — related
+- [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related

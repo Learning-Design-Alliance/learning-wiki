@@ -61,9 +61,11 @@ Learner-centric designs draw on constructivist and self-determination research: 
 6. Assess both the solution quality and the reasoning process ([Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - Contrast with instructor-centered sequencing: [Direct Instruction](../patterns/direct-instruction.md) — the structured alternative that better serves novices; the two are complements across a learning sequence, not rivals
 - [Flipped Classroom](../patterns/flipped-classroom.md) — frees contact time for learner-centric application by moving exposition outside class
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — a structured way to make learner exploration productive through modeling and fading
+- [Choose problems with multiple entry points to stimulate discussion of different solution approaches](multiple-entry-point-problems.md)
 
 ## Examples
 - **Problem-based learning in medical education** (e.g., the Maastricht and McMaster curricula): small groups work through authentic patient cases, deciding what to investigate and which diagnoses to pursue, with a tutor facilitating rather than lecturing.

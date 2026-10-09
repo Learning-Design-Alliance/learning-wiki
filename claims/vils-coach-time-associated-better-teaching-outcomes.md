@@ -44,3 +44,5 @@ Digital Promise researchers' analysis of three surveys administered across the 2
 - [Learning Studio participation increased students' comfort with, and skills around, the Studio technologies](learning-studios-student-technology-comfort-increase.md) — related
 - [Teacher confidence in teaching literacy and English learner students increased over the pilot year, especially with a local coach](wts-teacher-confidence-increased-over-year.md) — related
 - [Educators grew more confident supporting student autonomy and leading media production through the program](360-filmmakers-challenge-educator-confidence-autonomy.md) — related
+- [Sustained administrator involvement in coaching programs is associated with less teacher stress, better perceived coaching skills, and more improvement in teaching practices](administrator-involvement-improves-coaching-outcomes.md) — related
+- [Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open](dlp-multiple-cycles-greater-progress.md) — a narrower finding that bears on this claim

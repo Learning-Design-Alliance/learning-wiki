@@ -83,3 +83,4 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-expressive-language.md) — related
 - [Parent-implemented dialogic reading showed no statistically significant differences from a no-treatment comparison on any language measure (Crain-Thoreson & Dale, 1999)](crain-thoreson-dale-1999-parent-led-null-effects.md) — a narrower finding that bears on this claim
 - [Calculating average effect sizes in meta-analyses involves methodological issues that warrant dedicated examination in research on children and families.](methodological-issues-calculating-average-effect-sizes-meta-analyses.md) — a broader claim this one bears on
+- [ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report](parentcorps-parent-involvement-rater-mixed.md) — related

@@ -52,3 +52,4 @@ The abstract describes the evaluation design: "a matched comparison group design
 - [Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs](varying-effects-methods-rct-and-quasi-experimental.md) — a broader claim this one bears on
 - [Kauffman School attendance impacts were positive and significant in some grades and not significantly different from zero in others](kauffman-attendance-impacts-mixed-by-grade.md) — related
 - [Days lost to suspension at the Kauffman School are small on average relative to instructional time added by its extended school day and year](kauffman-suspension-days-small-versus-extended-time.md) — related
+- [The Kauffman School produces sustained positive achievement growth impacts in mathematics, English language arts, and science](kauffman-school-sustained-achievement-growth-impacts.md) — related

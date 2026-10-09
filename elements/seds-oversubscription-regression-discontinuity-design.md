@@ -47,6 +47,7 @@ The study's identification strategy exploits a program rule: oversubscribed dist
 - [Supplemental Educational Services (SEdS) under No Child Left Behind](supplemental-educational-services-nclb.md)
 - [Title I Supplemental Educational Services (SES) tutoring program](title-i-ses-tutoring-program.md)
 - [Regression discontinuity design applied to NCLB AYP thresholds in Title I schools](rd-design-nclb-ayp-thresholds.md)
+- [Waitlist-cutoff research design using administrative course registration data](waitlist-cutoff-registration-data-design.md)
 
 ## Examples
 -

@@ -43,3 +43,4 @@ An expert interview reported in an Insight from the Field box: the interviewee i
 ## Related Claims
 - [Iterative co-design served as a culturally responsive methodology for designing alumni surveys in equity-focused high school communities, with each school designing its own survey with researcher support.](codesign-culturally-responsive-alumni-surveys.md) — related
 - [Co-designed alumni surveys move districts from hunches about alumni experiences to concrete empirical evidence validating programs or pinpointing preparation gaps](co-designed-alumni-surveys-hunches-to-evidence.md) — related
+- [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](nih-ugsp-operating-as-intended-career-milestones.md) — related

@@ -45,3 +45,4 @@ All CPS: 68 % Sample School: 80 %"
 
 ## Related Claims
 - [More than 83 percent of Chicago public high school seniors plan to continue their education in the fall, and nearly 80 percent aspire to at least a four-year degree](cps-seniors-high-education-plans-aspirations.md) — related
+- [Comparison-group students in the Bottom Line study accessed existing advising and nearly all applied to college and for financial aid](bottom-line-comparison-group-near-universal-application.md) — related

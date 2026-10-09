@@ -55,6 +55,7 @@ Math Corps is a grade 4-8 tutoring program in which full-time AmeriCorps tutors 
 - [AARP Foundation Experience Corps volunteer tutoring program for struggling K-3 readers](aarp-experience-corps-program.md)
 - [Reading Partners one-to-one volunteer tutoring program](reading-partners-program-element.md)
 - [Chapter One one-on-one in-class tutoring program for early literacy](chapter-one-one-on-one-tutoring-program.md)
+- [Math Corps summer program for Detroit middle school students](math-corps-summer-program-element.md)
 
 ## Examples
 

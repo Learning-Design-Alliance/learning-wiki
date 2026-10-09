@@ -81,3 +81,4 @@ New Jersey RCT (535 applicants over two school years), the one study meeting WWC
 
 ## Related Claims
 - [Accelerated middle schools show potentially positive effects on staying in school, with an average improvement index of +18 percentile points](accelerated-middle-schools-staying-in-school-potentially-positive.md) — related
+- [The average improvement index for New Chance on completing school is +8 percentile points](new-chance-improvement-index-plus-8.md) — related

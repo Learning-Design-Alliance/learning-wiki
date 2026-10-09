@@ -109,3 +109,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
 - [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](positive-mindsets-better-behaviors-grades.md) — related
 - [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) — related
+- [FLIGHT shows no discernible effects on general high school academic achievement (GPA)](flight-no-discernible-effect-high-school-gpa.md) — related

@@ -47,3 +47,4 @@ Formative evaluation of 10 CPS Success schools using administrative data to moni
 - [After schools' second year, the 9th-grade on-track NSI positively impacted GPA, core course pass rate, and credit completion](9th-grade-on-track-nsi-positive-impacts-year-two.md) — related
 - [Eighth-grade on-track NSI showed no statistically significant impact on targeted outcomes after schools' second year, and year-1 impacts did not persist](eighth-grade-on-track-nsi-no-year-two-impact.md) — related
 - [After schools' second year of participation, the 8th-grade on-track NSI did not impact the targeted student outcomes](8th-grade-on-track-nsi-no-impacts-year-two.md) — related
+- [8th-grade on-track NSI did not improve ELA test scores, attendance, or suspension rates](8th-grade-on-track-nsi-null-ela-attendance-suspension.md) — reports the opposite

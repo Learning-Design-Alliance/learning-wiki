@@ -68,6 +68,8 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 - [Provide formal training, ongoing supervisory support, and colleague collaboration when introducing new child assessments](supports-for-acting-on-child-assessment-information.md)
 - [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
+- [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
+- [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 
 ## Examples
 -

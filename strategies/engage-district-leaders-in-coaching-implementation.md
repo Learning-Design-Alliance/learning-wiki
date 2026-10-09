@@ -40,6 +40,7 @@ The brief recommends engaging district leaders as they implement a coaching prog
 
 - [Provide clear guidance to coaches when implementing a districtwide coaching program](provide-clear-guidance-to-coaches.md)
 - [Track coaching activities to support districtwide coaching implementation](track-coaching-activities.md)
+- [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 
 ## Examples
 -

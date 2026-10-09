@@ -67,3 +67,4 @@ Comparison of two rounds of structured classroom observations of student pairs p
 - [K-2 students showed sustained high engagement with Puzzlets, choosing it as their first station choice 27 out of 36 times](puzzlets-high-engagement-station-choice.md) — related
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
 - [Well-structured collaborative learning is extremely effective, especially for learning concepts and complex problem solving](well-structured-collaborative-learning-effective.md) — related
+- [Students' skill mastery for all five attributes improved during gameplay in The Nomads, with all quantiles differing significantly between halves](ccm-attribute-mastery-improved-during-gameplay.md) — related

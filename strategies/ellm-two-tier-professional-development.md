@@ -52,6 +52,7 @@ ELLM's instructional support system uses two programs, one developing teachers a
 - [Use summer programs as learning labs for teachers to practice new instructional strategies](summer-programs-as-teacher-learning-labs.md)
 - [Coach-the-coaches model for sustaining teacher professional learning implementation](coach-the-coaches-implementation-support.md)
 - [Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines](summer-institute-plc-coaching-data-routines.md)
+- [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 
 ## Examples
 -

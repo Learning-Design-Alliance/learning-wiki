@@ -54,3 +54,4 @@ One qualifying study of Early Steps in urban Tennessee compared tutored students
 - [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](reading-go-positive-decoding-word-reading-outcomes.md) — related
 - [Students receiving Experience Corps tutoring and mentorship showed significant improvements in reading and comprehension skills](ec-tutoring-improves-reading-comprehension.md) — related
 - [In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls](amira-rct-woodcock-effect-064.md) — related
+- [TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies](tri-average-effect-size-051-woodcock-outcomes.md) — related

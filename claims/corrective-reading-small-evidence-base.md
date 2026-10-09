@@ -56,3 +56,4 @@ The WWC's review of the evidence base reports that 24 studies failed evidence sc
 - [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related
 - [The evidence base for Headsprout Early Reading is limited to one small RCT, supporting only a potentially positive rating](headsprout-evidence-base-small-one-study.md) — related
 - [Small-group instructional intervention for students struggling in literacy and English language development is supported by six RCTs at moderate evidence level](small-group-intervention-literacy-eld-moderate-evidence.md) — related
+- [The evidence base for the program is a single RCT of 3,074 randomly assigned youth, with 1,196 in the follow-up analysis sample, and the WWC rates the extent of evidence as small](challengge-single-rct-small-evidence-base.md) — related

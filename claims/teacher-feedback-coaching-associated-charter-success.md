@@ -46,3 +46,4 @@ The paper's key findings state that "frequent feedback and coaching for teachers
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — possibly the same claim (merge candidate)
 - [CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers](cmo-impact-linked-intense-teacher-coaching.md) — a narrower finding that bears on this claim
 - [Teachers play a key role in determining students' success in school districts and CMOs](teachers-key-role-student-success-districts-cmos.md) — related
+- [Time spent between teachers and coaches is one of the most important factors in a successful coaching program](coach-teacher-time-key-success-factor.md) — related

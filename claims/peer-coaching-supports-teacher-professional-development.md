@@ -50,3 +50,4 @@ The source is a report on an online learning community at Zhejiang Normal Univer
 - [Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers](video-self-observation-powerful-coaching-component.md) — a narrower finding that bears on this claim
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
+- [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](ongoing-pd-mentorship-critical-coach-growth.md) — related

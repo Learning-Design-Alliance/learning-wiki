@@ -44,3 +44,5 @@ One-year quasi-experiment in Bayonne, NJ with 156 students (80 intervention, 76 
 
 ## Related Claims
 - [Comprehension domain: one study found a substantively important positive effect and one an indeterminate effect](achieve3000-comprehension-mixed-findings.md) — related
+- [One small evaluation of Achieve3000 found positive effects on the SRI but not Terra Nova (average effect size +0.16)](achieve3000-small-study-positive-sri.md) — related
+- [Achieve3000 use shows significant positive effects on Total Reading Scores for sixth and ninth graders, with a weighted average effect size of +0.29](achieve3000-total-reading-positive-effects.md) — related

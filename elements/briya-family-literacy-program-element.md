@@ -44,7 +44,8 @@ Briya Public Charter School is "a free family literacy program in Washington, D.
 - [Briya adult learners showed high rates of employment entry, retention, or postsecondary entry](../claims/briya-adult-employment-outcomes.md) [+W]
 
 ## Related Elements
-- 
+
+- [New Chance: a two-phase education and employment program for young welfare mothers who dropped out of school](new-chance-program-young-welfare-mothers.md)
 
 ## Examples
 

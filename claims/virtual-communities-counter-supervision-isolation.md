@@ -50,3 +50,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation](clinical-supervision-effectiveness-inconclusive.md) — related
 - [Online students' learning needs centre on course support and communication with tutors and other students](online-students-learning-needs-support-communication.md) — related
 - [SPICE learners report that the virtual Center reduced their rural isolation and made learning enjoyable](spice-learners-report-reduced-isolation.md) — a narrower finding that bears on this claim
+- [Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related

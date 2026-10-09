@@ -46,3 +46,5 @@ ANCOVA on Cajon Valley fifth graders (pilot N = 89, comparison N = 109 per Figur
 - [Achieve3000 usage predicted about 3.5 percent of current Lexile scores after controlling for pre-test Lexile, motivation, and age](achieve3000-usage-predicts-lexile-regression.md) — related
 - [Hill and Lenard (2016): LevelSet Lexile effects were negative in spring 2014 and positive in spring 2015](kidbiz-levelset-year-contrast.md) — related
 - [Newcomer EL students using BrainPOP ESL showed no statistically significant Lexile growth, and results lacked a comparison group](brainpop-esl-no-significant-lexile-growth.md) — related
+- [Across three studies of Achieve3000 (35,070 students), the average effect size was 0.00](achieve3000-average-effect-size-zero.md) — related
+- [Achieve3000 use shows significant positive effects on Total Reading Scores for sixth and ninth graders, with a weighted average effect size of +0.29](achieve3000-total-reading-positive-effects.md) — related

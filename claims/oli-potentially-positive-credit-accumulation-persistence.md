@@ -62,3 +62,4 @@ WWC calculations from the same RCT: pass rate was "80 76" percent, mean differen
 - [OLI evidence base covers community college and postsecondary students across diverse racial and ethnic groups](oli-evidence-scope-postsecondary-populations.md) — related
 - [OLI has mixed effects on academic achievement among postsecondary students](oli-mixed-effects-academic-achievement.md) — related
 - [Suh et al. (2019) found a positive but non-significant effect on course passing rate (effect size 0.80) and a negative non-significant effect on final exam score](suh-2019-mixed-achievement-findings.md) — related
+- [First year experience courses show potentially positive effects on credit accumulation, with two of three qualifying studies showing statistically significant positive retention effects and one showing no significant effect](fye-courses-potentially-positive-credit-accumulation.md) — related

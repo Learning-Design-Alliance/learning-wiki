@@ -49,3 +49,5 @@ The report cites survey statistics on teacher training and technology reliance i
 - [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — related
 - [About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use](teacher-technology-use-preparation-versus-instruction-gap.md) — related
 - [Teachers rely more on experience and instinct than on academic research, and teachers who rely on research are more comfortable with and positive about edtech](teacher-practice-experience-over-research-edtech-link.md) — related
+- [DLP-coached teachers reported greater increases in frequency of technology use than non-DLP teachers](dlp-coaching-increases-teacher-technology-use-frequency.md) — related
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — related

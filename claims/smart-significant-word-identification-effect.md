@@ -52,3 +52,4 @@ A randomized controlled trial randomly assigned low-performing first-graders in 
 - [Enhanced Core Reading Instruction improves word-level reading outcomes for first graders compared to control (average effect size +0.24)](ecri-improves-word-reading-outcomes-first-grade.md) — related
 - [Enhanced math instruction adapted to after-school settings produced modest but statistically significant math gains after one year, while enhanced reading instruction showed no differences](enhanced-academic-instruction-math-gains-reading-null.md) — related
 - [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](two-year-fluency-intervention-greater-word-reading-growth.md) — related
+- [TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies](tri-average-effect-size-051-woodcock-outcomes.md) — related

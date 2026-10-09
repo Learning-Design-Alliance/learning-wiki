@@ -58,9 +58,11 @@ Activation improves comprehension by reducing the working-memory burden of proce
 6. Require learners to *use* the activated knowledge in the first task, not merely recall it ([Application of Knowledge](../elements/application-of-knowledge.md)).
 
 ## Related Strategies
+
 - [Activating and Using Background Knowledge](activating_and_using_background_knowledge.md) — variant that pairs activation with immediate application of what is recalled
 - [Activating Prior Knowledge](activating_prior_knowledge.md) — closely related framing emphasizing retrieval before instruction
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — diagnostic orientation: assessing what learners bring before designing instruction
+- [Check context familiarity by asking the class to share what they know about a problem's context before working on it](share-context-knowledge-before-problem-solving.md)
 
 ## Examples
 - Before reading a narrative text, a teacher asks, "Have you ever been afraid to try something new?" and collects responses on the board, then maps them onto the protagonist's situation as the class reads.

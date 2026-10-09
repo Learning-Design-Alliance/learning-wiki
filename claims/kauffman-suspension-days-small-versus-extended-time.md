@@ -45,3 +45,5 @@ The evaluation weighed average days suspended against the extra instructional ti
 ## Related Claims
 - [The Kauffman School suspends students at a substantially higher rate than other schools in Kansas City](kauffman-suspension-rate-substantially-higher.md) — related
 - [The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions](kauffman-school-matched-comparison-group-design.md) — related
+- [Kauffman students had higher attendance rates and were less likely to be suspended than similar Kansas City students](kauffman-students-higher-attendance-lower-suspension.md) — related
+- [Kauffman students were less likely to be suspended than other similar students in Kansas City](kauffman-students-less-likely-suspended.md) — related

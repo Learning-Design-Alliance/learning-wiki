@@ -53,6 +53,7 @@ Head Start is a national, federally funded program providing services to promote
 ## Related Elements
 
 - [Family Partnership Agreement as the record of home visiting goal setting and progress](family-partnership-agreement-form.md)
+- [Getting Ready family-partnership program for early childhood educators](getting-ready-program-element.md)
 
 ## Examples
 -

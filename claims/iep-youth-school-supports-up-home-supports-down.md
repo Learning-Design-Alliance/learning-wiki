@@ -47,3 +47,4 @@ The fact sheet reports from the NLTS 2012 comparison that youth with an IEP "are
 - [Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions](iep-youth-increased-school-engagement-2003-2012.md) — related
 - [Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities](iep-youth-more-engaged-school-extracurricular-over-decade.md) — related
 - [Youth with an IEP are more likely than a decade ago to receive supports at school but less likely to receive them at home](iep-youth-supports-up-school-down-home.md) — possibly the same claim (merge candidate)
+- [From 2003 to 2012, youth with disabilities showed greater school engagement and support use but became less likely to participate in some key transition activities](engagement-up-transition-activities-down-2003-2012.md) — related

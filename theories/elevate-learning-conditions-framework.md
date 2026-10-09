@@ -46,7 +46,8 @@ The Elevate framework organizes classroom experience into measurable learning co
 - [Learning conditions worsen slightly but significantly over a school year absent intentional efforts to improve them](../claims/learning-conditions-worsen-over-school-year.md) [+W]
 
 ## Related Theories
-- 
+
+- [Cultivate framework: classroom learning conditions shape students' learning beliefs, which shape learning and well-being](cultivate-framework-conditions-beliefs-wellbeing.md)
 
 ## Examples
 

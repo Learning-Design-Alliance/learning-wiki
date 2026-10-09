@@ -44,3 +44,4 @@ Site-profile case study documentation of the LA Promise Neighborhood's boundary-
 
 ## Related Claims
 - [The LA Promise Neighborhood expanded its service model to a second community with few nonprofits despite the need for services](la-promise-expansion-to-underserved-community.md) — related
+- [Case studies of five Promise Neighborhoods sites documented program design, services, and early implementation successes and challenges](promise-neighborhoods-five-site-case-study-findings.md) — a broader claim this one bears on

@@ -48,6 +48,7 @@ The MAP® Growth™ National Dashboard is an NWEA data tool accompanied by a use
 - [MAP Growth National Dashboard](map-growth-national-dashboard.md)
 - [MAP Growth Specialty School National Dashboard technical appendix](map-growth-specialty-school-national-dashboard-appendix.md)
 - [Specialty Schools National Dashboard: interactive tool for achievement and growth patterns in US private and charter schools](specialty-schools-national-dashboard.md)
+- [Technical appendix documenting dashboard data, sample, and methods](map-growth-dashboard-technical-appendix.md)
 
 ## Examples
 -

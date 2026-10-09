@@ -65,6 +65,7 @@ Well-designed hints keep learners in productive struggle rather than either flou
 - [Worked examples](../strategies/use_worked_examples.md) — the top rung of a hint ladder is often a worked example
 - [Retrieval practice](../strategies/retrieval_practice.md) — hints must be delayed long enough for retrieval to be attempted
 - [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
+- [Provide worked examples during seatwork and homework to increase exposure to problem solving and reduce learning time](worked-examples-seatwork-homework-problem-solving.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — online math homework system with structured hint ladders; research using its logged hint data showed that bottom-out hint usage predicts lower learning gains [+M]

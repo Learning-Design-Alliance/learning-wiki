@@ -51,6 +51,7 @@ Spanish MAP Reading Fluency is a 20-minute benchmark assessment administered up 
 - [MAP Reading Fluency adaptive online early literacy assessment](map-reading-fluency-assessment.md)
 - [Spanish MAP Reading Fluency adaptive group-administered assessment with automatic speech scoring](spanish-map-reading-fluency-assessment-element.md)
 - [Spanish MAP Reading Fluency Foundational Skills assessment](spanish-map-reading-fluency-foundational-skills-assessment.md)
+- [MAP Reading Fluency adaptive oral reading fluency assessment with dyslexia screener and progress monitoring](map-reading-fluency-adaptive-assessment-element.md)
 
 ## Examples
 

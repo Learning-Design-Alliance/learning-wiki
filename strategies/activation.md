@@ -59,9 +59,11 @@ Activation works because new knowledge is stored in relation to existing knowled
 5. Explicitly connect the activated knowledge to the new material as it is presented, naming the links.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the most common naming of this strategy in K-12 practice
 - [Analogies](analogies.md) — activation through mapping from a familiar domain
 - [Advance Organizers](../elements/advance-organizers.md) — expository activation via introductory structure
+- [Check context familiarity by asking the class to share what they know about a problem's context before working on it](share-context-knowledge-before-problem-solving.md)
 
 ## Examples
 - **Predict-Observe-Explain (POE)** in physics teaching: students predict what a demonstration will show, commit to a prediction, observe, and reconcile discrepancies — activating (and exposing) intuitive misconceptions before formal explanation.

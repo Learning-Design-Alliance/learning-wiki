@@ -52,3 +52,4 @@ The WWC's systematic review using the version 4.1 English language arts protocol
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related
 - [Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution](arts-sel-evidence-base-rigor-gap.md) — related
 - [Of 130 studies of school-based OST programs reviewed, 22 studies of 18 different programs met WWC standards or met them with reservations](22-of-130-ost-studies-met-wwc-standards.md) — a narrower finding that bears on this claim
+- [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](insidetrack-evidence-base-one-study-meets-wwc-standards.md) — related

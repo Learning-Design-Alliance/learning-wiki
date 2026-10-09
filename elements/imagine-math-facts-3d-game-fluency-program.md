@@ -44,7 +44,8 @@ Imagine Math Facts by Imagine Learning is a digital program delivered in a "3D g
 - [Imagine Math Facts use was not associated with statistically significant growth for upper elementary students (grades 3-5)](../claims/imagine-math-facts-upper-elementary-not-significant.md) [-W]
 
 ## Related Elements
-- 
+
+- [The Nomads — a 3D math game training adaptive expertise in rational number arithmetic](the-nomads-math-game-element.md)
 
 ## Examples
 

@@ -47,3 +47,5 @@ The scan's key idea following its compilation of exposure and exploration resour
 - [Way2Work Maryland increased vocational rehabilitation agency engagement, with almost all treatment group members using agency-provided work-based learning experiences](way2work-increased-vr-agency-engagement.md) — related
 - [Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers](skills-based-hiring-widens-talent-pool.md) — related
 - [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related
+- [Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes](career-pathways-design-moderate-evidence.md) — related
+- [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — related

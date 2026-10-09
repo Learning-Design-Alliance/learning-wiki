@@ -48,6 +48,10 @@ The article proposes a conceptual model of the active ingredients of instruction
 
 - [Responsive literacy coaching as a co-learner model grounded in trust and inquiry](responsive-literacy-coaching-co-learner-model.md)
 - [A three-level trajectory of instructional coaching situated within a recursive teacher change process](three-level-instructional-coaching-trajectory-teacher-change.md)
+- [Coaching as a partnership among principals, coaches, and teachers](coaching-as-partnership-approach.md)
+- [White et al.'s coherent model of coaching's essential ingredients: coach factors, teacher factors, and coach-teacher interaction factors](essential-ingredients-coaching-model-white.md)
+- [Five cornerstones of an effective classroom technology coaching program](five-cornerstones-effective-technology-coaching.md)
+- [Instructional coaching frameworks: Knight's four forms and the multidisciplinary skills-process-development framework](instructional-coaching-frameworks-knight-multidisciplinary.md)
 
 ## Examples
 -

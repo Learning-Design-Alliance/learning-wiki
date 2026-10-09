@@ -59,6 +59,8 @@ The MAP Growth National Dashboard is a NWEA data product that releases national 
 - [MAP Growth assessment and National Dashboard as the data infrastructure for NWEA COVID-recovery research](map-growth-national-dashboard-data-infrastructure.md)
 - [MAP Growth assessment and National Dashboard as data sources for NWEA COVID-recovery research](map-growth-national-dashboard-data-source.md)
 - [MAP Growth assessment](map-growth-assessment-nwea.md)
+- [Technical appendix documenting dashboard data, sample, and methods](map-growth-dashboard-technical-appendix.md)
+- [MAP Growth National Dashboard public tool for K–8 reading and math achievement and growth](map-growth-national-dashboard-tool.md)
 
 ## Examples
 -

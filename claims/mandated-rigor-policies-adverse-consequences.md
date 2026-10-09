@@ -64,3 +64,4 @@ The agenda reports, citing Montgomery, Allensworth, & Correa (2010), that under 
 ## Related Claims
 - [Three of four DCPS high schools mandating AP enrollment had higher AP exam taking and passing rates after the mandate, but passing rates remained generally low](ap-mandate-higher-taking-passing-rates-low.md) — related
 - [Low-income US schools focus most on testing and have the fewest resources for interest-driven activities](low-income-schools-test-prep-crowds-out-interest-activities.md) — related
+- [The evidence base for offering a college-ready curriculum is rated low, with mixed findings on rigorous curricula and positive findings on AP course taking](college-ready-curriculum-low-evidence.md) — related

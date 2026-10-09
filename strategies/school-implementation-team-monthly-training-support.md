@@ -47,6 +47,7 @@ The program's implementation model requires each school to designate a team of a
 - [Support curriculum implementation with initial multi-day training plus ongoing onsite consultation during the school year](training-plus-onsite-consultation-support.md)
 - [Monitor tutoring implementation and attendance regularly during program rollout](monitor-tutoring-implementation-and-attendance-regularly.md)
 - [Consider evaluation issues up front when launching educational reform initiatives](consider-evaluation-issues-when-launching-reform-initiatives.md)
+- [Monthly Action Team meetings with shared leadership and activity-quality evaluation](nnps-atp-monthly-meetings-evaluation.md)
 
 ## Examples
 -

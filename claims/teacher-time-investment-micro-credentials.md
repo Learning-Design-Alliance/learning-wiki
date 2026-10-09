@@ -44,3 +44,4 @@ Willingness-to-invest questions in the survey covering time and funding. The rep
 
 ## Related Claims
 - [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
+- [Micro-credentials were a promising personalized professional learning option, with 376 earned and higher enthusiasm among earners](pr-micro-credentials-promising-personalized-learning.md) — related

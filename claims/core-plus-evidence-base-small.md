@@ -45,3 +45,5 @@ The WWC's review of the available literature (publicly available through March 2
 ## Related Claims
 - [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](ican-learn-thin-evidence-base-one-qualifying-study.md) — related
 - [The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations](algebra-guide-evidence-base-15-wwc-studies.md) — related
+- [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
+- [Only one of 10 identified studies of InsideTrack© Coaching met WWC group design standards without reservations](insidetrack-evidence-base-one-study-meets-wwc-standards.md) — related

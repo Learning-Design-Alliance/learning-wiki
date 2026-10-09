@@ -45,3 +45,4 @@ Descriptive post-engagement survey (15 Likert and open-ended items via Qualtrics
 ## Related Claims
 - [90% of surveyed district leaders and solution providers would participate in another Learning Salon even if no changes were made](ninety-percent-would-repeat-salon.md) — related
 - [Solution providers reported high satisfaction with facilitator preparedness, networking, and solution mapping, with some dissatisfaction on other components](providers-satisfied-salon-components.md) — related
+- [Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation](haiti-pilot-training-satisfaction-96-fidelity.md) — related

@@ -50,6 +50,7 @@ The micro-credentialing ecosystem is a set of platforms and issuers through whic
 - [Educator micro-credentials: five-step competency-based professional learning credential](educator-micro-credentials-five-step-process.md)
 - [Micro-credentialing (digital badges) for recognizing teacher competencies](micro-credentialing-digital-badges-teachers.md)
 - [PennGSE Data Science Methods for Digital Learning Platforms certificate program](penngse-data-science-dlp-certificate.md)
+- [Spanish-language micro-credential system with Journey Map and TUPS assessment for personalized technology professional learning](pr-spanish-micro-credential-journey-map-system.md)
 
 ## Examples
 

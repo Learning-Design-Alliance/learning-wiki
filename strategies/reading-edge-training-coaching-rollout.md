@@ -50,6 +50,9 @@ The program's professional development model combines an initial workshop with o
 - [Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum](fhao-teacher-professional-development.md)
 - [Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support](school-implementation-team-monthly-training-support.md)
 - [Multi-layer coach training and support system: coach camp, paired mentoring, ongoing webinars, and coach-the-coach sessions](vils-coach-training-support-system.md)
+- [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
+- [Phased SIM professional development plan: initial planning days, monthly site PD and coaching, monthly leadership-team sessions, and annual program-specific training with coaching](sim-phased-professional-development-plan.md)
+- [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 
 ## Examples
 -

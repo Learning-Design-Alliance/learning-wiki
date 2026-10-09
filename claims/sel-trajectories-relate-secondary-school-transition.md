@@ -51,3 +51,4 @@ The associated journal article's summary states the study examined “the stabil
 - [Successful transition from intermediate to secondary school depends on both academic preparation and social-emotional learning skills suited to a more independent environment](transition-depends-on-academic-and-sel-preparation.md) — a broader claim this one bears on
 - [Successfully transitioning from intermediate school to secondary school is pivotal for students to remain on track to graduate](transition-pivotal-for-remaining-on-track.md) — related
 - [Students often slip off track during transition years (6th and 9th grade) even when they previously performed well](transition-years-slipping-off-track.md) — related
+- [Decades of research show SEL benefits student well-being, academic performance, attendance, graduation rates, and future success](sel-decades-of-research-benefits.md) — related

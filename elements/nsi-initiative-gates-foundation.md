@@ -47,7 +47,8 @@ The Networks for School Improvement (NSI) initiative is a Gates Foundation progr
 - [Most schools laid CI groundwork (72 percent root cause analysis), but fewer than two-thirds tied change ideas to their theory of practice improvement, and equity attention centered on achievement rather than access, identity, or agency](../claims/ci-groundwork-strong-theory-link-and-equity-depth-limited.md) [~W]
 
 ## Related Elements
-- 
+
+- [Networks for School Improvement (NSI) initiative](nsi-initiative-gates-foundation-34-networks.md)
 
 ## Examples
 -

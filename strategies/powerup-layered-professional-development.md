@@ -51,6 +51,7 @@ The page describes a multi-part professional development model intended to equip
 - [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
 - [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 - [Multi-layer coach training and support system: coach camp, paired mentoring, ongoing webinars, and coach-the-coach sessions](vils-coach-training-support-system.md)
+- [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
 
 ## Examples
 -

@@ -81,3 +81,4 @@ Responses to the hypothetical merit-pay dilemma revealed differing enactments of
 - [Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear](six-restructuring-schools-case-findings.md) — related
 - [Schools commonly require documented teacher performance goals, created collaboratively with a principal or set by the principal](documented-teacher-goals-collaborative-or-principal-set.md) — related
 - [Practitioner engagement initiatives reflected buy-in rather than ownership because leadership developed ideas and decisions before seeking context-expert input](seernet-initiatives-buy-in-not-ownership.md) — related
+- [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related

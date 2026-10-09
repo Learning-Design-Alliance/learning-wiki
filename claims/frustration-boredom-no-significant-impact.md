@@ -47,3 +47,4 @@ Exploratory affect modeling in the PFA-based regression: six affects were rated 
 - [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) — related
 - [Generalizable detectors of students' affective states in DLPs remain an unsolved problem](no-generalizable-affective-detectors.md) — related
 - [EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration](edm-infers-broader-student-attributes.md) — related
+- [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — reports the opposite
