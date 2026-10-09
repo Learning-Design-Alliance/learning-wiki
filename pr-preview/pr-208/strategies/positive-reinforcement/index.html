@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Positive Reinforcement - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="positive-reinforcement">Positive Reinforcement<a class="headerlink" href="#positive-reinforcement" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 1 claim (1 against) · 3 studies (1 quant-synthesis, 1 review, 1 theoretical), <code>q1</code>–<code>q4</code> · 1 of 3 report an effect size</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Positive reinforcement is the contingent delivery of a valued stimulus — praise, points, privileges, tokens, or feedback — immediately following a target behavior, with the intent of increasing that behavior's frequency. It is the core operant mechanism from <a href="../../theories/behaviorism/">Behaviorism</a>: behavior is shaped by its consequences rather than by insight or internal states. In learning design it appears as immediate correctness feedback, streak mechanics, badge systems, and teacher praise.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Reinforcement reliably increases the frequency of the specific behavior it follows, especially when delivered immediately and contingently [~S]. Its power is greatest for establishing observable, discrete behaviors (attempting problems, participating, completing steps) and weakest for building deep conceptual understanding, which requires <a href="../../elements/practice/">Practice</a> with feedback on the work itself rather than on the learner. Praise that attributes success to effort and strategy outperforms praise for fixed traits, which can undermine persistence when learners later struggle [~M].</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A clearly specified target behavior the learner can recognize and reproduce</li>
+<li>Immediacy: the reinforcer must follow the behavior closely, or the contingency is lost</li>
+<li>Individualization: what functions as a reinforcer varies by learner; points are not reinforcing if status or autonomy is what the learner values</li>
+<li>A plan for fading: shifting from continuous to intermittent reinforcement and from extrinsic to intrinsic reasons for the behavior</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Tangible, expected rewards can undermine intrinsic motivation for activities learners already find interesting — the overjustification effect <a href="../../claims/autonomy-supports-intrinsic-motivation/">Rewards perceived as controlling can reduce intrinsic motivation for interesting tasks.</a> [-S]</li>
+<li>Reinforcement of surface behaviors (compliance, speed) can displace attention from learning goals; rewarding fast answers encourages guessing over reasoning [~M]</li>
+<li>Public reinforcement can create social costs for learners who rarely earn it, and visible reward disparities can depress belonging for struggling students [~W]</li>
+<li>Effects extinguish: behavior maintained only by external reinforcers declines once they stop, so schedules must be thinned deliberately [~S]</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Social reinforcers</strong> — specific, descriptive praise ("you checked your work before submitting") rather than generic praise ("good job")</li>
+<li><strong>Token economies</strong> — points or tokens exchangeable for privileges; common in special education and classroom management programs such as <a href="https://www.classdojo.com">ClassDojo</a></li>
+<li><strong>Gamified systems</strong> — streaks, badges, and experience points in platforms like <a href="https://www.duolingo.com">Duolingo</a> and <a href="https://www.khanacademy.org">Khan Academy</a>; effective for engagement but prone to rewarding activity over learning</li>
+<li><strong>Self-reinforcement</strong> — learners monitor and reward their own progress, a bridge toward <a href="../../theories/self-regulated-learning/">Self-Regulated Learning</a></li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Young learners and novices who have not yet developed intrinsic interest in a domain [~S]</li>
+<li>Learners with attention or behavioral challenges for whom immediate contingencies are especially salient [~M]</li>
+<li>Less effective — and potentially counterproductive — for learners already intrinsically motivated, where controlling rewards can reduce engagement <a href="../../claims/autonomy-supports-intrinsic-motivation/">Rewards perceived as controlling can reduce intrinsic motivation for interesting tasks.</a> [-M]</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Behavioral and procedural goals: increasing participation, task initiation, practice frequency</li>
+<li>Habit formation: establishing study routines and practice schedules</li>
+<li>Not well suited to: conceptual understanding, transfer, or creative production, where the "correct behavior" cannot be specified in advance</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Define the target behavior in observable terms (e.g., "attempts each practice item before asking for help").</li>
+<li>Choose a reinforcer matched to the learner — informational feedback and descriptive praise are safest defaults; reserve tangible rewards for behaviors with no existing intrinsic appeal.</li>
+<li>Deliver the reinforcer immediately and contingently, naming the behavior it rewards.</li>
+<li>Pair reinforcement with informational feedback about the work itself so learners learn <em>what</em> was correct, not just that it was rewarded.</li>
+<li>Fade: shift to intermittent reinforcement, then to self-monitoring and intrinsic rationales, to prevent dependence on external consequences.</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Negative Reinforcement</strong> — the complementary mechanism (removing an aversive condition); often confused with punishment but distinct</li>
+<li><strong>Shaping</strong> — reinforcing successive approximations toward a complex behavior</li>
+<li><strong>Descriptive Praise</strong> — the social-reinforcer variant with the strongest evidence base in classrooms</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong><a href="https://www.duolingo.com">Duolingo</a></strong> — streaks, XP, and immediate "correct!" feedback reinforce daily practice; the streak mechanic is a variable-interval reinforcement schedule for engagement.</li>
+<li><strong><a href="https://www.classdojo.com">ClassDojo</a></strong> — teachers award points for named classroom behaviors; effectiveness depends on the points being tied to specific, described behaviors rather than generic compliance.</li>
+<li><strong>Token economy classrooms</strong> — well-established in special education settings (e.g., behavior intervention plans under IDEA), where immediate tangible reinforcers establish behaviors that are later maintained socially.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Skinner, B. F. (1953). <em>Science and human behavior</em>. Macmillan.</li>
+<li>Deci, E. L., Koestner, R., &amp; Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. <em>Psychological Bulletin, 125</em>(6), 627–668. <a href="https://doi.org/10.1037/0033-2909.125.6.627">doi:10.1037/0033-2909.125.6.627</a></li>
+<li>Cameron, J., &amp; Pierce, W. D. (1994). Reinforcement, reward, and intrinsic motivation: A meta-analysis. <em>Review of Educational Research, 64</em>(3), 363–423. <a href="https://doi.org/10.3102/00346543064003363">doi:10.3102/00346543064003363</a></li>
+<li>Dweck, C. S. (2007). The perils and promises of praise. <em>Educational Leadership, 65</em>(2), 34–39.</li>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research, 77</em>(1), 81–112. <a href="https://doi.org/10.3102/003465430298487">doi:10.3102/003465430298487</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>positive-reinforcement</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Positive Reinforcement</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Delivering a desirable consequence immediately after a target behavior to increase the likelihood the behavior recurs.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-29</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

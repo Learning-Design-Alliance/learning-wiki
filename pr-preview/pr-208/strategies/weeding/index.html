@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Weeding - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="weeding">Weeding<a class="headerlink" href="#weeding" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 5 claims (3 for, 2 mixed) · 14 studies (8 causal, 3 quant-synthesis, 2 review, 1 theoretical), <code>q1</code>–<code>q4</code> · 2 of 14 report an effect size · 1 claim rests on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Weeding is the deliberate removal of non-essential material — decorative graphics, tangential anecdotes, redundant on-screen text, background music, and unused interface features — from learning materials before delivery. It is carried out by auditing each element of a lesson or screen against the learning objective and deleting anything that does not support it, rather than adding cues or simplifying wording.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Weeding enacts the coherence principle: extraneous material competes for limited working-memory capacity and measurably depresses learning outcomes <a href="../../claims/coherence-principle-irrelevant-material-hurts-learning/">Irrelevant material hurts learning by diverting attention and working memory.</a> [+S]. Learners do not reliably ignore seductive details; interesting-but-irrelevant content captures attention and is often encoded at the expense of core content <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning outcomes.</a> [+S]. Weeding is a subtraction-first alternative to <a href="../../principles/cognitive-load-management/">Cognitive Load Management</a>: rather than restructuring content, it reduces the total load by cutting it.</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>An explicit statement of the learning objective, so "essential" is decidable rather than a matter of taste</li>
+<li>Authority to remove or defer content (designers and instructors often resist deleting material they produced)</li>
+<li>A review pass late in development, since extraneous material tends to accumulate during drafting</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Over-weeding can strip out <a href="../../elements/advance-organizers/">Advance Organizers</a>, analogies, or examples that aid schema building for novices; what is extraneous for an expert may be supportive for a beginner <a href="../../claims/expertise-reversal-effect/">Guidance effectiveness reverses as learner expertise increases.</a> [~S]</li>
+<li>Removing all narrative or humanizing content can reduce engagement and interest without improving outcomes <a href="../../claims/seductive-details-effect/">Mixed evidence on whether interest-generating details affect retention.</a> [~M]</li>
+<li>In exploratory or motivational contexts (museums, games), some "extraneous" content serves affective goals that weeding would eliminate [~W]</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Pre-delivery weeding</strong>: editing slides, texts, and videos before release (the standard case)</li>
+<li><strong>Progressive disclosure</strong>: keeping content but hiding it behind links or layers, so it is available on demand rather than deleted</li>
+<li><strong>Learner-controlled weeding</strong>: teaching students to skim and prioritize — a study-skills variant rather than a design variant</li>
+<li><strong>Interface weeding</strong>: removing unused menu items, toolbars, and notifications from digital learning environments</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Novices, who lack the prior knowledge to filter irrelevant from essential material and are most harmed by extraneous load <a href="../../claims/coherence-principle-irrelevant-material-hurts-learning/">Irrelevant material hurts learning by diverting attention and working memory.</a> [+S]</li>
+<li>Learners with limited working-memory capacity or reading proficiency, for whom every competing element carries a higher cost</li>
+<li>Less critical for experts, who can filter efficiently and may find stripped-down materials under-informative <a href="../../claims/expertise-reversal-effect/">Guidance effectiveness reverses as learner expertise increases.</a> [~M]</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Retention and comprehension of core concepts and procedures</li>
+<li>Efficient procedural learning where steps must be held in working memory</li>
+<li>Less suited to goals where breadth, exploration, or motivation are primary outcomes</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Write the learning objective in observable terms; list every element currently in the material (<a href="../../principles/clear-structure/">Clear Structure</a>).</li>
+<li>For each element, ask: does it support the objective, or only interest, decoration, or completeness? Delete or move anything in the latter category.</li>
+<li>Remove redundant channels — e.g., narrating text that is also displayed verbatim <a href="../../claims/redundancy-principle/">Redundant on-screen text with narration impairs learning.</a> [+S].</li>
+<li>Strip decorative graphics and background audio that do not explain content <a href="../../claims/coherence-principle-irrelevant-material-hurts-learning/">Irrelevant material hurts learning by diverting attention and working memory.</a> [+S].</li>
+<li>Check the result against learner prior knowledge: restore supportive elements (<a href="../analogies/">Analogies</a>, advance organizers) that novices need but experts would not.</li>
+<li>Pilot with target learners and verify that comprehension of essential content is intact before full release.</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../signaling/">Signaling</a> — the additive complement: when content cannot be cut, cue attention to essentials instead</li>
+<li><a href="../segmenting/">Segmenting</a> — breaks remaining essential content into learner-paced pieces</li>
+<li><a href="../simplifying-language/">Simplifying Language</a> — weeding applied at the sentence level rather than the material level</li>
+<li><a href="../../principles/chunking/">Chunking</a> — organizes what remains after weeding into digestible units</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Mayer's coherence experiments</strong> — removing interesting-but-irrelevant video clips about lightning formation from a multimedia lesson improved retention and transfer; the same pattern held across dozens of replications (see Clark &amp; Mayer, 2016).</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> videos — deliberately spare visuals: a single problem, a writing surface, and narration, with no decorative imagery.</li>
+<li><strong>Slide redesign in corporate e-learning</strong> — replacing text-heavy, clip-art-decorated slides with one visual and minimal text per screen, per the <a href="../../claims/coherence-principle-irrelevant-material-hurts-learning/">coherence and redundancy principles</a>.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Mayer, R. E. (2021). <em>Multimedia learning</em> (3rd ed.). Cambridge University Press. <a href="https://doi.org/10.1017/9781316941355">doi:10.1017/9781316941355</a></li>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the Science of Instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
+<li>Mayer, R. E., Heiser, J., &amp; Lonn, S. (2001). Cognitive constraints on multimedia learning: When presenting more material results in less understanding. <em>Journal of Educational Psychology, 93</em>(1), 187–198. <a href="https://doi.org/10.1037/0022-0663.93.1.187">doi:10.1037/0022-0663.93.1.187</a></li>
+<li>Harp, S. F., &amp; Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in science learning. <em>Journal of Educational Psychology, 90</em>(3), 414–434. <a href="https://doi.org/10.1037/0022-0663.90.3.414">doi:10.1037/0022-0663.90.3.414</a></li>
+<li>Sweller, J., Ayres, P., &amp; Kalyuga, S. (2011). <em>Cognitive load theory</em>. Springer. <a href="https://doi.org/10.1007/978-1-4419-8126-4">doi:10.1007/978-1-4419-8126-4</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>weeding</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Weeding</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Systematically removing extraneous words, images, audio, and features from learning materials so that working-memory resources are devoted to essential content.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

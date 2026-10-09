@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Three-stage fairness-aware analytical pipeline for early at-risk student identification - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../theories/">Theories</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Theory">
+<h1 id="three-stage-fairness-aware-analytical-pipeline-for-early-at-risk-student-identification">Three-stage fairness-aware analytical pipeline for early at-risk student identification<a class="headerlink" href="#three-stage-fairness-aware-analytical-pipeline-for-early-at-risk-student-identification" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Theory</strong> · <a href="../">All theories</a>
+<strong>Evidence</strong> · 8 claims (6 for, 2 mixed) · 3 studies (1 causal, 1 associational, 1 design), <code>q2</code> · 1 of 3 report an effect size · 8 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The article proposes an analytical framework that identifies at-risk students at three points in a course: a Demog stage using demographic information only, Stage 1 adding learning activities up to the first unit review assignment, and Stage 2 adding activities up to the second assignment. At each stage, four ML models are trained and evaluated on predictive performance and four fairness metrics across race, gender, and lunch-eligibility groups, with bias mitigation applied. The article states the framework consists of "three stages of analysis" and applies "bias mitigation strategies (i.e., ThresholdOptimizer, a commonly used post-processing mitigation approach)" to examine accuracy–fairness trade-offs.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Consent/assent and demographic self-report surveys from students</li>
+<li>At least two completed end-of-unit review assignments and recorded online practice activity data</li>
+<li>Stratified train/test splits and grid-search hyperparameter tuning with cross-validation</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Evaluated on 215 AP Statistics students from seven Indiana high schools in 2019–2020; the fourth assignment was dropped due to COVID-19</li>
+<li>Fairness thresholds set at below 0.20 following prior literature</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>High school students in Advanced Placement courses</li>
+</ul>
+<h3 id="target-learning-objectives">Target Learning Objectives<a class="headerlink" href="#target-learning-objectives" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Early identification of students at risk of scoring below 3 on the AP exam to enable timely support</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/stage1-optimal-early-at-risk-identification/">Stage1 Optimal Early At Risk Identification</a> [+M]</li>
+<li><a href="../../claims/thresholdoptimizer-reduces-bias-accuracy-tradeoff/">Thresholdoptimizer Reduces Bias Accuracy Tradeoff</a> [+M]</li>
+<li><a href="../../claims/data-balancing-improves-accuracy-increases-bias/">Balancing the dataset significantly improved model predictive performance but increased bias under demographic parity</a> [~M]</li>
+<li><a href="../../claims/learning-activity-data-reduces-demographic-bias/">Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information</a> [+W]</li>
+<li><a href="../../claims/no-significant-performance-gain-later-stages/">Adding more learning activity data beyond Stage 1 did not significantly improve predictive performance of at-risk identification models</a> [+W]</li>
+<li><a href="../../claims/removing-race-feature-little-performance-impact/">Removing the sensitive race feature caused little impact on predictive performance at Stage 1 and no significant fairness differences, with mixed fairness effects</a> [~W]</li>
+<li><a href="../../claims/preprocessing-mitigation-reduces-disparities-oulad/">Preprocessing bias mitigation (DIR, RW, SUP) reduces subgroup disparities in TPR while maintaining acceptable balanced accuracy</a> [+W]</li>
+<li><a href="../../claims/performance-data-dominates-demographics-in-dropout-prediction/">Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available</a> [+W]</li>
+</ul>
+<h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../accuracy-fairness-tradeoff-group-fairness-framework/">Accuracy-fairness trade-off framework for educational predictive models using group fairness metrics</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../strategies/regular-fairness-audits-and-proactive-bias-mitigation/">Regularly audit ML models for fairness and proactively apply bias mitigation during model training</a></li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Alison Cheng, Bo Pei and Cheng Liu. (2025). Balancing Act: Early, Fair, and Accurate Identification of At-Risk Students. Journal of Learning Analytics, 12(3), 47–65. https://doi.org/10.18608/jla.2025.8761</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>theory</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Three-stage fairness-aware analytical pipeline for early at-risk student identification</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The article proposes an analytical framework that identifies at-risk students at three points in a course: a Demog stage using demographic information only, Stage 1 adding learning activities up to the first unit revi...</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-09</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>alison-cheng-2025</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

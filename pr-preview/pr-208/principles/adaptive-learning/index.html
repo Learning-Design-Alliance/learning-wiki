@@ -1,0 +1,1231 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="When learners on a cumulative, decomposable task start from different observed responses, choosing each next task, hint or check from the learner's own recent responses (rather than one fixed path) may improve aligned achievement, conditional on how well the responses diagnose the learner, what the adaptation changes, and whether support is withdrawn as performance grows.">
+      
+      
+      
+        <link rel="canonical" href="https://learning-design-alliance.github.io/learning-wiki/principles/adaptive-learning/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../branding/lazuli-favicon.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Adaptive Learning - Learning Design Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../branding/lazuli-theme.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#adaptive-learning" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Learning Design Wiki" class="md-header__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lazuli-monogram-lapis.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Learning Design Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Adaptive Learning
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Learning Design Wiki" class="md-nav__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lazuli-monogram-lapis.svg" alt="logo">
+
+    </a>
+    Learning Design Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../search/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Search
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../patterns/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patterns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../theories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Theories
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../claims/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claims
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CLAUDE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema & Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#conditional-relationship" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Conditional relationship
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#default-design-while-the-relationship-is-untested" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Default design, while the relationship is untested
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#observation-state-and-explanation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Observation, state and explanation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evidence-and-qualifications" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Evidence and qualifications
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-evidence-not-yet-read-against-this-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Further evidence, not yet read against this model
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objective-and-learner-valued-goal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Objective and learner-valued goal
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-would-revise-this-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What would revise this model?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-principles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Related Principles
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Examples
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Examples">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#validated" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Validated
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#illustrative" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Illustrative
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Key Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset" data-pagefind-body data-pagefind-filter="kind:Principle">
+                
+                  
+
+
+
+<h1 id="adaptive-learning">Adaptive Learning<a class="headerlink" href="#adaptive-learning" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Principle</strong> · <a href="../">All principles</a>
+<strong>Evidence</strong> · 14 claims (8 for, 4 mixed, 2 against) · 22 studies (9 causal, 5 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), <code>q1</code>–<code>q4</code> · 5 of 22 report an effect size · 8 claims rest on one study</p>
+</blockquote>
+<h2 id="conditional-relationship">Conditional relationship<a class="headerlink" href="#conditional-relationship" title="Permanent link">&para;</a></h2>
+<p>Where learners in one course start from different observed responses on a task whose parts can be checked separately (cumulative <code>procedure</code>, <code>principle</code> or <code>verbal-association</code> goals; mathematics, programming and language mechanics are the usual cases), selecting each learner's next task, hint, feedback or check from that learner's recent responses, instead of moving everyone through one fixed sequence, is expected to raise achievement on an aligned measure (<code>general-achievement</code>, mostly <code>immediate</code> or end-of-course). The relationship is conditional on four things: the responses must diagnose what the learner can and cannot yet do on the target task; the adaptation must change something that matters for learning (the support given or the task chosen, not only its order); support must be reduced as the learner's unassisted performance improves; and the outcome and horizon must be stated, since aligned test scores, standardised achievement, <code>delayed-retention</code>, <code>far-transfer</code> and <code>learning-time</code> move separately.</p>
+<p>This page owns the general relationship: individualised selection against a fixed path, whoever or whatever does the selecting. Three converted pages hold narrower models inside it. <a href="../scaffolding/">Scaffolding</a> treats support versus none during an attempt, and its model of contingent support is the within-task form of adaptation. <a href="../mastery-learning/">Mastery Learning</a> treats one adaptive rule, a gate with correction and a recheck before advancing. <a href="../formative-assessment/">Formative Assessment</a> treats the interpretation of evidence and the contingent action that any adaptive decision depends on. This page does not repeat them. The <a href="./">adaptive learning pattern</a> is a short, unconverted stub.</p>
+<p><strong>No claim in the wiki tests adaptation itself against the same content in a fixed sequence at scale.</strong> The strongest evidence below compares intelligent tutoring systems, which bundle adaptation with step-level feedback, practice and a model of the task, with conventional instruction; it shows the bundle can help, not which part of it does.</p>
+<h2 id="default-design-while-the-relationship-is-untested">Default design, while the relationship is untested<a class="headerlink" href="#default-design-while-the-relationship-is-untested" title="Permanent link">&para;</a></h2>
+<p>The page's earlier guidance, kept as a concrete default a designer can act on and revise. Each step is a design proposal, with its evidence status beside it.</p>
+<ol>
+<li><strong>Decide what the adaptation is for and how it will be judged.</strong> Name the capability, the representative instrument, the criterion and the horizon before choosing a system or rule. Untested here; it follows from the outcome dependence in the tutoring meta-analyses below (gains depended on whether tests were locally developed or standardised).</li>
+<li><strong>Build a diagnosis the adaptation can rest on.</strong> Frequent, fine-grained checks on the parts of the task, using <a href="../../elements/assessment/">assessment</a> or <a href="../../elements/assess-performance/">assess performance</a>. Untested as a step; the earlier page's requirement. The learner-model claim below shows that a model's predictions can be biased where it has little data, so treat each adaptive decision as an inference with error.</li>
+<li><strong>Provide somewhere to move the learner</strong>: a bank or sequence of tasks at varied difficulty (<a href="../../elements/adaptive-difficulty/">adaptive difficulty</a>), including worked or partly worked examples for low starting responses. Untested here; from the earlier page.</li>
+<li><strong>Adapt the support, not only the difficulty or order.</strong> Give hints and task- and process-level <a href="../../elements/feedback/">feedback</a> tied to what the response showed, raising support after an error and lowering it after success. Supported in one-to-one tutoring by the contingent-scaffolding claim; the earlier page's statement that difficulty-only adaptation gives weaker gains is not tested by any claim here.</li>
+<li><strong>Gate progression on an explicit criterion</strong> with correction and a recheck (<a href="../../elements/adaptive-mastery-learning/">adaptive mastery learning</a>), as modelled in <a href="../mastery-learning/">Mastery Learning</a>. Evidence is on that page.</li>
+<li><strong>Withdraw support as unassisted performance grows</strong>, checking on unsupported items before removing it. Bounded support from the expertise-reversal claim below (a review; abstract not confirmed).</li>
+<li><strong>Do not adapt to self-reported learning styles.</strong> Against: the learning-styles claim below.</li>
+<li><strong>Watch for narrowing and misrouting.</strong> Check transfer and conceptual items the system does not optimise for, and review learners routed to remediation repeatedly or advanced quickly on sparse evidence. Untested; from the earlier page's constraints.</li>
+<li><strong>Check that the adaptation is actually enacted</strong> (usage, teacher use of the data) before judging its effect. Bounded support from the personalised-learning fidelity claim below.</li>
+</ol>
+<p>How far the neighbouring claims carry: the tutoring meta-analyses are about whole systems against non-individualised instruction, not about any one step above; the contingent-scaffolding evidence is mostly one-to-one human tutoring; the fidelity claim is a matched-comparison study of school-wide personalised learning, not of an adaptive rule.</p>
+<h2 id="observation-state-and-explanation">Observation, state and explanation<a class="headerlink" href="#observation-state-and-explanation" title="Permanent link">&para;</a></h2>
+<p>An adaptive system observes <strong>responses to particular items under stated conditions</strong> (correctness, hint requests, time, attempts, which help was shown) and turns them into an inferred state: "has mastered this skill", "probability correct is 0.8", "ready for harder items". The inferred state is a model output, not an observation, and it inherits the model's errors. "Struggling" and "advanced" are labels for a learner's responses on this task, not traits. Record the items, the help given and the model's estimate side by side, so a routing decision can be checked against what was actually seen.</p>
+<table>
+<thead>
+<tr>
+<th>Response</th>
+<th>Plausible explanations</th>
+<th>Observation that could change the interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Correct on the system's items, fails a teacher's or standardised test of the same topic</td>
+<td>System items narrower than the target; capability tied to the system's format or hints; forgetting between practice and test</td>
+<td>Give an item on the same relation in a different format and without hints, soon after practice and again later; compare which conditions the system's items omitted.</td>
+</tr>
+<tr>
+<td>Many hint requests, then correct answers</td>
+<td>Learning from the hints; using hints to reach the answer without the reasoning; low confidence rather than low knowledge</td>
+<td>Present a comparable item with hints withheld and ask for the first step; ask the learner why they asked for help.</td>
+</tr>
+<tr>
+<td>Routed to remediation repeatedly on one skill</td>
+<td>A prerequisite gap the system does not model; a skill estimate biased where the learner's data are sparse or extreme; items misaligned with the instruction; disengagement after repeated failure</td>
+<td>Probe the prerequisite separately; have a teacher check two or three of the failed items with the learner; compare with other learners' results on the same items.</td>
+</tr>
+<tr>
+<td>Advances quickly through items</td>
+<td>Prior mastery of the target; guessing or gaming on easy items; criterion set too low</td>
+<td>Give a few harder or transfer items unassisted; look at response times and error patterns on the items passed.</td>
+</tr>
+<tr>
+<td>Gains in a school using the platform</td>
+<td>The adaptation; extra practice time; the teacher's use of the data; selection of which classes used it</td>
+<td>Compare classes with similar starting scores and similar time on task; record how fully the platform and its reports were used.</td>
+</tr>
+</tbody>
+</table>
+<p>These rows are proposals, untested with learners. A probe can shift confidence among explanations; one contrast does not identify a cause, and the probe is itself an exposure that can change the response. Record what remains unresolved rather than letting the system's estimate settle it.</p>
+<h2 id="evidence-and-qualifications">Evidence and qualifications<a class="headerlink" href="#evidence-and-qualifications" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/adaptive-learning-improves-outcomes/">Adaptive learning improves outcomes</a> [+S]: two meta-analyses (<code>synthesis-experimental</code>, <code>heterogeneous-synthesis</code>). Across 107 effect sizes (14,321 participants), intelligent tutoring systems produced higher achievement than teacher-led large-group instruction (g = 0.42), non-tutoring computer-based instruction (g = 0.57) and textbooks or workbooks (g = 0.35), but no advantage over individual human tutoring (g = -0.11) or small-group instruction (g = 0.05). Across 50 controlled evaluations, the median effect over conventional instruction was 0.66 SD, depending strongly on whether tests were locally developed or standardised, and small where controls were nonconventional or implementations flawed. Both entries pass the judge, on abstracts. It supports individualised tutoring over non-individualised instruction on aligned achievement; it does not isolate adaptation from the rest of the system, does not show an advantage over adaptation by people, and reports no common horizon.</li>
+<li><a href="../../claims/contingent-scaffolding-improves-learning/">Contingent versus fixed support</a> [+M]: in one-to-one tutoring of long division with fourth and fifth graders (n = 8 per condition), fully contingent support beat fixed, moderate, partly contingent and no support on immediate and one-month follow-up tests; a within-subjects tutoring study reports similar immediate outcomes but better transfer for interactive, contingent tutoring; a synthesis of dynamic assessment ranks explicit strategy training above contingent scaffolding. This is the closest test here of adapting support to responses against fixed support, and it is small and mostly one-to-one; classroom and software contingency are not shown. Not settled: the entries could not be confirmed from abstracts.</li>
+<li><a href="../../claims/expertise-reversal-effect/">Guidance and expertise</a> [~M]: a review of cognitive load studies reports that supports such as worked examples and integrated explanations help novices on a task and can become redundant or depress performance as prior knowledge grows. It qualifies the relationship: adaptation that keeps support in place as performance improves can work against it. No effect size; not settled on its abstract.</li>
+<li><a href="../../claims/personalized-learning-effects-vary-with-fidelity/">Personalised learning and implementation</a> [~M]: in about 40 schools implementing personalised-learning practices (adaptive software among them), matched against virtual comparison groups (<code>controlled-nonrandom</code>), one-year effects were small (+0.09 SD mathematics, significant; +0.07 SD reading, not significant) and larger where implementation was reported as fuller or longer; the authors call that link suggestive, resting on self-report and a small district subsample. It qualifies the relationship: an adopted platform is not an enacted adaptation, and school-level averages are far below the tutoring syntheses' figures. Not yet checked against its source.</li>
+<li><a href="../../claims/learning-styles-matching-does-not-improve-learning/">Learning-styles matching</a> [-S]: a systematic review found almost no studies with the crossover design needed to test matching instruction to learning style, and judged the one candidate unconvincing; a randomised study with fifth graders found no style-by-modality interaction. It bears against adapting on self-reported style; it says nothing about adapting on responses or prior knowledge. Not settled on abstracts.</li>
+<li><a href="../../claims/learner-models-miscalibrated-outside-data-interval/">Learner-model calibration</a> [~W]: one analysis of two knowledge-tracing models on tutoring datasets reports that both were calibrated only in the range containing most of the data, overestimating learners when the probability of a correct answer was low and underestimating them when it was high. It limits the diagnostic step: a system's estimate for a learner at the extremes is least trustworthy where routing matters most. Associational, one study, no outcome for learners; not yet checked against its source.</li>
+</ul>
+<p>Keep the comparator (conventional, non-tutoring software, human tutor), the population band, the outcome instrument and its alignment, and the horizon with each finding. Do not set the meta-analytic g values beside the school-level SD gains as if they measured the same thing.</p>
+<h2 id="further-evidence-not-yet-read-against-this-model">Further evidence, not yet read against this model<a class="headerlink" href="#further-evidence-not-yet-read-against-this-model" title="Permanent link">&para;</a></h2>
+<!-- Restored 2026-10-02: claims this page cited before the 2026-10-02 rewrite. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
+<p>Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.</p>
+<ul>
+<li><a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at task and process levels.</a> [+S] — not settled: the text available could not confirm the entries (abstract)</li>
+<li><a href="../../claims/fading-support-promotes-transfer-of-responsibility/">Fading support promotes the transfer of responsibility from instructor to learner.</a> [+S] — not settled: the text available could not confirm the entries (abstract)</li>
+<li><a href="../../claims/example-problem-sequences-reduce-cognitive-load/">Example-problem sequences reduce cognitive load and improve learning outcomes.</a> [+M] — not yet checked against its sources</li>
+<li><a href="../../claims/intuitive-learners-outperform-sensing-learners/">Intuitive learners tend to outperform sensing learners in media-based presentations</a> [-M] — not yet checked against its sources</li>
+<li><a href="../../claims/learning-rate-retention-tradeoff/">Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)</a> [~W]</li>
+<li><a href="../../claims/gain-time-constant-product-superior-forcing-function-amplitude/">Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable</a> [+W]</li>
+<li><a href="../../claims/manual-adaptation-slightly-superior-automatic-adaptive-training/">Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control</a> [+W]</li>
+<li><a href="../../claims/system-compensation-unsatisfactory-adaptive-variable/">System compensation as implemented is not a satisfactory adaptive variable</a> [+W]</li>
+</ul>
+<h2 id="objective-and-learner-valued-goal">Objective and learner-valued goal<a class="headerlink" href="#objective-and-learner-valued-goal" title="Permanent link">&para;</a></h2>
+<p>The designer's objective in an adaptive design is usually a criterion on each skill in a map, reached in less time than a fixed path would take. What the learner values may differ: finishing the assigned work quickly, understanding why a method works, preparing for a particular examination, or not being held on one skill while classmates move on. Ask what the learner wants and why, record agreement or divergence as an observation, and do not infer it from time logged in the system.</p>
+<p>For example, a secondary-school learner using an adaptive mathematics platform may value being ready for an end-of-year standardised examination, while the platform's objective is mastery of each skill on its own items. The tutoring synthesis above reports that gains depended on whether tests were locally developed or standardised, so the two aims may not move together. A design that serves both states which instrument and horizon count, adds unassisted examination-style items to the platform's checks, and tells the learner how the platform's mastery estimate relates to the examination.</p>
+<h2 id="what-would-revise-this-model">What would revise this model?<a class="headerlink" href="#what-would-revise-this-model" title="Permanent link">&para;</a></h2>
+<p>The expectation should weaken if, with comparable learners and content, individualised selection does not outperform the same content in a fixed sequence on independent outcomes, or if tutoring-system gains disappear on standardised measures and at a delay. If difficulty-only adaptation does as well as adaptation of support, the claim that support is the active part should be revised. If routing decisions based on a learner model are no better than a teacher's or the learner's own choices, the diagnostic step needs rethinking. If time saved, persistence or the learner's own goals move against achievement, the model is incomplete without them. Do not protect it by relabelling every failure as low fidelity or poor engagement.</p>
+<p>Within-system performance, aligned achievement, standardised achievement, delayed retention, transfer and time to criterion are separate claims. The present evidence does not establish which adaptation target matters most, an optimal difficulty band or mastery threshold, or a forecast for an individual learner.</p>
+<h2 id="related-principles">Related Principles<a class="headerlink" href="#related-principles" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../cognitive-load-management/">Cognitive Load Management</a> — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time</li>
+<li><a href="../assessment-for-learning/">Assessment for Learning</a> — supplies the continuous diagnostic evidence that any adaptive decision depends on</li>
+<li><a href="../competency-based-assessment/">Competency-Based Learning &amp; Assessment</a> — provides the mastery criteria that gate progression in adaptive designs</li>
+<li><a href="../active-learning/">Active Learning</a> — adaptive systems still require learners to do generative work; adaptation of difficulty does not replace engagement</li>
+<li><a href="../mastery-learning/">Mastery Learning</a></li>
+<li><a href="../../theories/knowledge-tracing-learner-modeling-task/">Knowledge Tracing Learner Modeling Task</a></li>
+<li><a href="../../strategies/knowledge-tracing-driven-exercise-recommendation/">Knowledge Tracing Driven Exercise Recommendation</a></li>
+<li><a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a></li>
+<li><a href="../engagement/">Engagement</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../elements/four-layer-oral-diagnosis-system-architecture/">Four-layer system architecture for intelligent oral diagnosis and adaptive training</a></li>
+<li><a href="../../strategies/zpd-masked-rl-content-sequencing/">Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)</a></li>
+<li><a href="../../strategies/shaped-spectrum-filtered-error-adaptive-logic/">Use shaped-spectrum filtered error for rapid adaptive logic response</a></li>
+<li><a href="../../strategies/four-micro-credential-ecosystem-recommendations/">Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms</a></li>
+<li><a href="../../strategies/early-prediction-adaptive-pedagogical-strategy/">Use early student-model predictions to identify at-risk students and adapt pedagogical strategy during tutoring</a></li>
+<li><a href="../../strategies/in-game-scaffolds-with-usage-tracking/">Use in-game scaffolds with automatic feedback displays in math game tasks, monitoring scaffold use against mastery data</a></li>
+</ul>
+<h3 id="validated">Validated<a class="headerlink" href="#validated" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><a href="https://www.assistments.org">ASSISTments</a></strong> — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, <em>AERJ</em>).</li>
+<li><strong><a href="https://www.carnegielearning.com/solutions/math/mathia/">Carnegie Learning MATHia</a></strong> — Cognitive-tutor-based adaptive math system using a cognitive model of learner knowledge to select problems and tailor step-level hints. A large RAND study (Pane et al., 2014) found roughly doubled learning-growth effects in second-year algebra relative to conventional instruction.</li>
+<li><strong><a href="https://www.khanacademy.org">Khan Academy</a></strong> — Mastery-based practice in mathematics that adapts task assignment to demonstrated skill levels, with mastery gates before progression.</li>
+</ul>
+<h3 id="illustrative">Illustrative<a class="headerlink" href="#illustrative" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong><a href="../../elements/adaptive-difficulty/">Adaptive Difficulty</a></strong> — The core element: dynamically raising or lowering task difficulty based on performance signals such as accuracy, latency, and error patterns.</li>
+<li><strong><a href="../../elements/adaptive-mastery-learning/">Adaptive Mastery Learning</a></strong> — Combines mastery criteria with adaptive routing so learners who fail an assessment are routed to remediation rather than the next unit.</li>
+<li><strong>Duolingo</strong> — Language-learning app that adapts item scheduling using a spaced-repetition and learner-error model, reinserting items the learner is predicted to forget.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. <em>Educational Psychologist, 46</em>(4), 197-221. <a href="https://doi.org/10.1080/00461520.2011.611369">doi:10.1080/00461520.2011.611369</a></li>
+<li>Kulik, J. A., &amp; Fletcher, J. D. (2016). Effectiveness of intelligent tutoring systems: A meta-analytic review. <em>Review of Educational Research, 86</em>(1), 42–78. <a href="https://doi.org/10.3102/0034654315581420">doi:10.3102/0034654315581420</a></li>
+<li>Ma, W., Adesope, O. O., Nesbit, J. C., &amp; Liu, Q. (2014). Intelligent tutoring systems and learning outcomes: A meta-analysis. <em>Journal of Educational Psychology, 106</em>(4), 901–918. <a href="https://doi.org/10.1037/a0037123">doi:10.1037/a0037123</a></li>
+<li>Corbett, A. T. (2001). Cognitive computer tutors: Solving the two-sigma problem. <em>User Modeling 2001</em>, 137–147. <a href="https://doi.org/10.1007/3-540-44566-8_14">doi:10.1007/3-540-44566-8_14</a></li>
+<li>Pane, J. F., Steiner, E. D., Baird, M. D., Hamilton, L. S., &amp; Pane, J. D. (2017). Informing progress: Insights on personalized learning implementation and effects. RAND Corporation. <a href="https://www.rand.org/pubs/research_reports/RR2042.html">https://www.rand.org/pubs/research_reports/RR2042.html</a> <a href="https://doi.org/10.7249/rr2042">doi:10.7249/rr2042</a></li>
+<li>Pane, J. F., Steiner, E. D., Baird, M. D., &amp; Hamilton, L. S. (2015). <em>Continued progress</em>. RAND.</li>
+<li>Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106</li>
+<li>Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585</li>
+</ul>
+<!-- deprecated 2026-10-02: superseded by the conditional model above; the earlier Description and Implications, verbatim.
+
+## Description
+Adaptive learning adjusts instruction — task difficulty, pacing, content sequencing, and support level — in response to ongoing evidence of each learner's performance, rather than presenting a fixed path to all learners. Adaptation ranges from simple branching and difficulty tuning to algorithmic mastery decisions in intelligent tutoring systems. The core recommendation: use continuous assessment data to keep every learner working on tasks they cannot yet do reliably but can reach with appropriate support.
+
+## Implications
+
+Adaptive designs operationalize the zone of proximal development: tasks are matched to current competence so learners are neither bored by redundancy nor overwhelmed by overload. Meta-analyses of intelligent tutoring systems show performance gains over conventional instruction, often approaching the effectiveness of human tutoring [Intelligent tutoring systems outperform large-group instruction.](../../claims/expertise-reversal-effect/) [+S]. Adaptation depends on accurate diagnosis, so embedded assessment must be frequent and fine-grained [Formative assessment information improves instructional decisions.](../../claims/feedback-most-effective-at-task-and-process-levels/) [+S]. Adaptation is not a substitute for guidance: as learner expertise grows, the adaptive system must reduce scaffolding, or the same support that helped novices becomes redundant and harmful [Guidance becomes less effective as learner expertise increases.](../../claims/expertise-reversal-effect/) [~M]. Systems that adapt only difficulty without adapting support quality tend to produce weaker gains than those that also adapt hints, feedback, and task sequencing.
+
+### Context
+#### Requirements
+- A mechanism for continuous diagnosis ([Assessment](../elements/assessment.md) or [Assess Performance](../elements/assess-performance.md)) — adaptation is only as good as the evidence driving it
+- A bank or sequence of tasks at varied difficulty ([Adaptive Difficulty](../elements/adaptive-difficulty.md)) — the system needs somewhere to move the learner
+- Mastery or competence criteria that gate progression ([Adaptive Mastery Learning](../elements/adaptive-mastery-learning.md)) — without explicit criteria, "adaptation" drifts
+- Responsive feedback tied to the diagnosis ([Practice](../elements/practice.md) with task- and process-level feedback) — adaptation without informative feedback is just reordering
+
+#### Constraints
+- Less effective when the domain lacks decomposable, assessable sub-skills — adaptation algorithms struggle with open-ended, ill-structured tasks
+- Can narrow learning to what is easily measured, over-drilling measurable skills while neglecting transfer and conceptual understanding
+- Algorithmic mastery decisions can misclassify learners when assessments are noisy or sparse, producing premature advancement or unnecessary remediation
+- Adaptation to learner "preferences" or self-reported styles is not supported by evidence and can reduce effectiveness [Learning-styles matching does not improve outcomes.](../../claims/intuitive-learners-outperform-sensing-learners/) [X]
+
+### Target Learners
+- Heterogeneous groups where a single fixed pace leaves some learners lost and others unchallenged
+- Struggling learners who need more practice and lower entry difficulty than a fixed sequence provides
+- Advanced learners who benefit from acceleration past content they have already mastered
+- Effects diminish when all learners are at similar competence — uniform groups gain little from adaptation [~M]
+
+### Target Learning Objectives
+- Procedural fluency and skill automatization with well-defined performance criteria
+- Mastery of hierarchical knowledge structures (mathematics, programming, language mechanics)
+- Efficient use of practice time — minimizing time on already-mastered content
+- Sustained productive difficulty rather than frustration or boredom
+
+### Theory
+#### Supporting
+- [Cognitive Load Theory](../theories/cognitive-load-theory.md) — matching task difficulty to current expertise keeps intrinsic load within working-memory limits
+- [Expertise Reversal Effect](../theories/expertise-reversal-effect.md) — the core theoretical justification: optimal instruction differs by expertise level, so a single fixed path is wrong for most learners
+- [Self-Regulated Learning](../theories/self-regulated-learning.md) — adaptive systems externalize the monitoring-and-adjustment cycle; well-designed systems can also hand that cycle back to learners
+- [Information Processing Theory](../theories/information-processing-theory.md) — diagnosis of current knowledge state allows instruction to target exactly the missing components
+
+#### Contradicting / Qualifying
+- [Constructivism](../theories/constructivism.md) — algorithmic adaptation can over-script the learning path, reducing learner agency and the productive struggle that generates understanding; adaptation should leave room for learner choice and exploration
+
+### Claims
+- [Guidance becomes less effective as learner expertise increases.](../../claims/expertise-reversal-effect/) [~M] — adaptive systems must fade support as competence grows, or adaptation backfires
+- [Fading support promotes transfer of responsibility.](../../claims/fading-support-promotes-transfer-of-responsibility/) [+S] — adaptation should progressively withdraw scaffolding, not just adjust difficulty
+- [Feedback is most effective at task and process levels.](../../claims/feedback-most-effective-at-task-and-process-levels/) [+S] — the diagnostic information driving adaptation should feed task- and process-level feedback
+- [Example–problem sequences reduce cognitive load.](../../claims/example-problem-sequences-reduce-cognitive-load/) [+S] — adaptive sequencing can interleave worked examples with problems based on performance
+
+-->
+
+<!-- merged 2026-10-05 from patterns/adaptive-learning ("Adaptive Learning"), misfiled as a pattern and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Adaptive Learning
+
+> **Pattern** · [All patterns](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+Adaptive learning is the short-form canonical pattern for adjusting pacing, difficulty, or support based on learner performance.
+
+## Design
+
+### Elements Used
+- [Adaptive Learning](../elements/adaptive-learning.md)
+- [Immediate Feedback](../elements/immediate-feedback.md)
+
+## Claims
+- [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](../../claims/learning-rate-retention-tradeoff/) [~W]
+
+## Related Patterns
+- [Mastery Learning](../patterns/mastery-learning.md)
+
+## Key Sources
+- Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress*. RAND.
+-->
+
+<!-- merged 2026-10-07 from principles/adaptive-learning-consistent-with-cognitive-structure ("Adaptive Learning Consistent with Knowledge Level and Knowledge Structure"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Adaptive Learning Consistent with Knowledge Level and Knowledge Structure
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The survey argues that because students' cognitive structures include both their knowledge level and the knowledge structure of learning items (e.g., prerequisites), "adaptive learning should maintain consistency with both students’ knowledge level and the latent knowledge structure." It cites CSEAL, which uses DKT to trace knowledge states, a knowledge-structure navigation algorithm for logical learning paths, and an actor-critic algorithm to decide what to learn next.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A KT model tracing each student's evolving knowledge state
+- A representation of prerequisite relations among learning items to constrain learning paths
+#### Constraints
+- The survey states that existing adaptive learning methods often focus separately on either students' knowledge levels or the knowledge structure of learning items
+
+### Target Learners
+- Students in adaptive learning systems, including MOOCs and programming tutors
+
+### Target Learning Objectives
+- Following individualized, logically ordered learning paths until each rule or concept is mastered
+
+### Claims
+- 
+
+## Related Principles
+- [Adaptive Learning](adaptive-learning.md)
+- [Mastery Learning](mastery-learning.md)
+- [Knowledge Tracing Learner Modeling Task](../theories/knowledge-tracing-learner-modeling-task.md)
+
+## Examples
+-
+
+## Key Sources
+- Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
+-->
+
+<!-- merged 2026-10-07 from principles/gain-then-time-constant-adaptive-progression ("Sequence adaptive difficulty by increasing gain first, then lengthening the effective time constant"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Sequence adaptive difficulty by increasing gain first, then lengthening the effective time constant
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+The article recommends that at the beginning of training a low value for both gain and effective time constant be provided. Based upon student improvement, gain would then be increased to provide a more difficult task, followed by increasing te to make the task progressively more difficult. The rationale is that low gain lets trainees learn the gross pattern of control movement without sorting out random movements, and short time constants permit immediate feedback for adjusting control inputs.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Gain must be low enough early in training so the trainee can learn the gross pattern of control movement without sorting out random, erratic movements
+#### Constraints
+- The effect of gain is particularly evident during early training trials with the effect decreasing as learning progresses
+
+### Target Learners
+- novice manual-control trainees
+
+### Target Learning Objectives
+- learning spatial and temporal patterns of control movement
+
+### Claims
+
+- [Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable](../../claims/gain-time-constant-product-superior-forcing-function-amplitude/) [+W]
+- [Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control](../../claims/manual-adaptation-slightly-superior-automatic-adaptive-training/) [+W]
+- [System compensation as implemented is not a satisfactory adaptive variable](../../claims/system-compensation-unsatisfactory-adaptive-variable/) [+W]
+
+## Related Principles
+- 
+
+## Examples
+
+- [Use shaped-spectrum filtered error for rapid adaptive logic response](../../strategies/shaped-spectrum-filtered-error-adaptive-logic/)
+- [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](../../strategies/zpd-masked-rl-content-sequencing/)
+
+## Key Sources
+- Norman, D. A.; And Others. (1972). Adaptive Training of Manual Control: 1. Comparison of Three Adaptive Variables and Two Logic Schemes. Life Sciences, Inc. https://eric.ed.gov/?id=ED059585
+-->
+
+<!-- merged 2026-10-07 from principles/multi-objective-exercise-recommendation-objectives ("Multi-Objective Exercise Recommendation: Review and Explore, Smooth Difficulty, Engagement"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Multi-Objective Exercise Recommendation: Review and Explore, Smooth Difficulty, Engagement
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The survey reports three objectives proposed by Huang et al. to go beyond assigning non-mastered exercises: "review and explore , smoothness of difficulty level and student engagement ." Review and explore reinforces non-mastered concepts with timely reviews while keeping opportunities to explore new knowledge; smooth difficulty keeps consecutive exercises within a small difficulty range; engagement aligns recommended exercises with student preferences. These objectives are optimized in a multi-objective deep reinforcement learning (DRE) framework.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Traced knowledge states plus reward functions that capture and quantify each of the three objectives, as in the DRE framework
+#### Constraints
+- The survey reports only that DRE can effectively learn from learning records to optimize multiple objectives; no magnitude of learning benefit is given
+
+### Target Learners
+- Students receiving exercise recommendations in online intelligent education systems
+
+### Target Learning Objectives
+- Reviewing non-mastered concepts, exploring new knowledge, and sustaining enthusiasm during learning
+
+### Claims
+- 
+
+## Related Principles
+- [Knowledge Tracing Driven Exercise Recommendation](../../strategies/knowledge-tracing-driven-exercise-recommendation/)
+- [Adaptive Difficulty](../elements/adaptive-difficulty.md)
+- [Engagement](engagement.md)
+
+## Examples
+-
+
+## Key Sources
+- Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>principle</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>adaptive-learning</code></td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td><code>adaptive-learning-consistent-with-cognitive-structure</code>, <code>gain-then-time-constant-adaptive-progression</code>, <code>multi-objective-exercise-recommendation-objectives</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Adaptive Learning</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>When learners on a cumulative, decomposable task start from different observed responses, choosing each next task, hint or check from the learner's own recent responses (rather than one fixed path) may improve aligned achievement, conditional on how well the responses diagnose the learner, what the adaptation changes, and whether support is withdrawn as performance grows.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>canonical</code></td>
+<td><code>True</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-02</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>shuanghong-shen-2021</code>, <code>norman-1972</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.top", "navigation.indexes", "navigation.tracking", "navigation.path", "navigation.prune", "toc.follow", "content.code.copy", "content.tooltips"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>

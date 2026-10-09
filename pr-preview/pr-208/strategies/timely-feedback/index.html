@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Timely Feedback - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="timely-feedback">Timely Feedback<a class="headerlink" href="#timely-feedback" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 2 claims (1 for, 1 mixed) · 5 studies (3 quant-synthesis, 1 causal, 1 review), <code>q2</code>–<code>q4</code> · 3 of 5 report an effect size</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Timely feedback delivers information about a learner's performance as soon as possible after the performance occurs — immediately for procedural skills, or within hours to days for complex work. The core mechanism is contiguity: when feedback arrives while the learner's attempt is still active in working memory, the learner can connect the corrective information to the specific action, rather than reconstructing what they did from a faded memory. Delayed feedback risks losing the moment entirely — the learner may no longer recall their reasoning, so the feedback attaches to nothing actionable.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>Feedback is among the most powerful influences on achievement, but its effects are highly variable — timing is one of the conditions that determines whether feedback helps or harms [~S]. Immediate feedback is most valuable during initial skill acquisition, when learners are still forming correct procedures and errors can consolidate if left uncorrected; delayed feedback can be equally or more effective for retention of well-established declarative content [~S]. Timeliness must be paired with actionability — feedback that arrives instantly but tells learners only <em>that</em> they were wrong, not <em>what to do next</em>, adds little <a href="../../claims/assessment-for-learning-improves-achievement/">Feedback is most effective when it provides cues on how to improve rather than praise or grades alone.</a> [+S].</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Efficient assessment and communication processes — rapid turnaround requires low-friction scoring (rubrics, auto-graded exercises, checklists)</li>
+<li>Feedback content that is specific and action-oriented, not just evaluative (<a href="../action-oriented-feedback/">Action-Oriented Feedback</a>)</li>
+<li>A mechanism for the learner to act on the feedback — revision, retry, or immediate re-attempt (<a href="../../elements/practice/">Practice</a>)</li>
+<li>A mechanism for capturing learner performance close to the moment it occurs (in-class circulation, digital auto-grading, rapid turnaround on submissions)</li>
+<li>Feedback that is actionable at the task or process level — specific enough to act on, not just right/wrong signals <a href="../../claims/feedback-most-effective-at-task-and-process-levels/">Feedback is most effective at the task and process levels.</a> [+S]</li>
+<li>An opportunity for learners to use the feedback — revise, retry, or apply it to the next task (<a href="../../elements/practice/">Practice</a>, <a href="../../elements/revision/">Revision</a>)</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Immediate feedback during complex problem solving can interrupt productive struggle and increase cognitive load <a href="../../claims/cognitive-overload-degrades-learning/">Feedback given too frequently during complex tasks can overload working memory and disrupt learning.</a> [~M]</li>
+<li>Immediate feedback on every attempt can create dependence — learners stop self-monitoring and wait for the system or teacher to confirm correctness, undermining self-regulation [~M]</li>
+<li>In large classes, "timely" for the teacher often means days later; pretending otherwise erodes trust in the feedback process</li>
+<li>Automated immediate feedback is only as good as its model of correctness — fast but shallow feedback on complex work (e.g., grammar-checker-style corrections of writing) can reinforce surface features over reasoning [-M]</li>
+<li>Immediate feedback on every attempt can create dependence and disrupt the retrieval effort that builds long-term retention — learners never practice resolving uncertainty on their own</li>
+<li>Feedback delivered after learners have moved on is often ignored or misattributed; effort spent grading late work yields little learning gain</li>
+<li>Immediate feedback during complex problem solving can interrupt productive struggle and increase extraneous load (<a href="../../principles/cognitive-load-management/">Cognitive Load Management</a>) [~M]</li>
+<li>Feedback that arrives too quickly for learners to self-assess removes the self-monitoring step central to <a href="../../theories/self-regulated-learning/">Self-Regulated Learning</a> [-M]</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Real-time verbal feedback</strong> — coach or teacher corrects during performance (sports, clinical supervision, live coding)</li>
+<li><strong>Automated immediate feedback</strong> — platforms like Khan Academy or Codecademy verify each attempt instantly and serve hints on demand</li>
+<li><strong>Staged delay</strong> — immediate confirmation of correctness, with explanatory feedback delayed until the learner has attempted self-correction; this hybrid often outperforms both extremes [~M]</li>
+<li><strong>Batched-but-fast</strong> — for essays and projects, structured rapid-turnaround routines such as <a href="../5-minute_writing_conferences/">5-Minute Writing Conferences</a> compress the delay without sacrificing depth</li>
+<li><strong>Immediate, automated</strong> — digital platforms (e.g., Khan Academy, Duolingo) deliver right/wrong and hint-level feedback within seconds; suited to procedural and factual goals</li>
+<li><strong>Same-session</strong> — instructor circulates during work time (<a href="../../elements/check-in/">Check-In</a>, <a href="../../elements/coaching/">Coaching</a>); balances immediacy with human judgment</li>
+<li><strong>Delayed-but-before-next-attempt</strong> — feedback returned before the next related task or revision cycle; suited to complex work like writing and design</li>
+<li><strong>Strategic delay</strong> — withholding answers briefly to force a retrieval attempt, then confirming; suited to retention goals</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Novices, who lack the knowledge to detect and diagnose their own errors and therefore benefit most from rapid correction [~S]</li>
+<li>Learners building procedural or motor skills, where errors practiced even briefly become harder to unlearn</li>
+<li>Less immediate feedback needed for advanced learners, who can self-assess accurately and may benefit from delayed feedback that prompts retrieval and self-explanation [~M]</li>
+<li>Novices benefit most from immediate correction, since early errors can become entrenched</li>
+<li>Learners with weak self-regulation need timely external feedback because they cannot yet generate their own <a href="../../theories/self-regulated-learning/">Self-Regulated Learning</a> [+M]</li>
+<li>More capable learners may benefit from delayed feedback that preserves retrieval practice and self-evaluation</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Procedural accuracy: preventing errors from consolidating during early practice</li>
+<li>Confidence and motivation: rapid confirmation of success reinforces effort and sustains engagement</li>
+<li>Retention: connecting corrective information to a still-vivid memory of the attempt</li>
+<li>Procedural accuracy: catching errors before they are practiced and consolidated</li>
+<li>Self-regulation: calibrating learners' judgments of their own performance over time</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Identify the moments in the task cycle where errors are most likely and most costly to leave uncorrected.</li>
+<li>Build the fastest viable feedback channel for those moments — auto-grading, rubric checklists, circulating during work time, or live demonstration (<a href="../../elements/assessment/">Assessment</a>).</li>
+<li>Deliver feedback tied to the specific action ("your second step inverted the sign"), not the person or the grade.</li>
+<li>Give the learner an immediate opportunity to use the feedback — retry, revise, or explain the fix (<a href="../../elements/practice/">Practice</a>).</li>
+<li>As competence grows, progressively delay feedback and prompt learners to predict correctness first, building self-monitoring.</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../action-oriented-feedback/">Action-Oriented Feedback</a> — timeliness determines whether feedback connects; action-orientation determines whether it is usable</li>
+<li><a href="../../elements/check-in/">Check-Ins</a> — lightweight recurring touchpoints that keep feedback loops short in ongoing work</li>
+<li><a href="../../elements/adaptive-mastery-learning/">Adaptive Mastery Learning</a> — systems that trigger feedback automatically at the moment of error</li>
+<li><a href="../formative-tests-with-corrective-feedback/">Increase the use of feedback and correctives through mastery learning procedures</a></li>
+<li><a href="../5-minute_writing_conferences/">5-Minute Writing Conferences</a> — a same-session delivery mechanism for timely, individualized feedback</li>
+<li><a href="../../principles/check-ins/">Check-Ins</a> — structured moments that surface performance early enough for feedback to matter</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Khan Academy</strong> (https://www.khanacademy.org) — exercises verify each answer instantly and offer hint ladders, so correction happens within seconds of the attempt.</li>
+<li><strong>Sports coaching</strong> — a coach corrects a swimmer's stroke between laps, while the kinesthetic feel of the movement is still accessible.</li>
+<li><strong>Codecademy</strong> (https://www.codecademy.com) — code runs against test cases as the learner types, converting errors into immediate, specific feedback.</li>
+<li><strong>Live math at the board</strong> — a teacher works a problem with a student and corrects a procedural slip on the spot, before the wrong step is rehearsed.</li>
+<li><strong>Khan Academy</strong> (https://www.khanacademy.org) — auto-graded exercises give immediate correctness feedback and on-demand hints, letting learners correct errors within the same attempt sequence.</li>
+<li><strong>Writing conferences in workshop models</strong> — teacher confers with a student during drafting rather than after submission, so revision happens while the text is still open.</li>
+<li><strong>Team-Based Learning (https://teambasedlearning.org)</strong> — immediate feedback via scratch cards or IF-AT forms during readiness assurance tests, so teams discuss and resolve misconceptions in the same class session.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research, 77</em>(1), 81–112. <a href="https://doi.org/10.3102/003465430298487">doi:10.3102/003465430298487</a></li>
+<li>Shute, V. J. (2008). Focus on formative feedback. <em>Review of Educational Research, 78</em>(1), 153–189. <a href="https://doi.org/10.3102/0034654307313795">doi:10.3102/0034654307313795</a></li>
+<li>Butler, A. C., Karpicke, J. D., &amp; Roediger, H. L. (2007). The effect of type and timing of feedback on learning from multiple-choice tests. <em>Journal of Experimental Psychology: Applied, 13</em>(4), 273–281. <a href="https://doi.org/10.1037/1076-898X.13.4.273">doi:10.1037/1076-898X.13.4.273</a></li>
+<li>Corbett, A. T., &amp; Anderson, J. R. (2001). Locus of feedback control in computer-based tutoring: Impact on learning rate, achievement and attitudes. <em>Proceedings of CHI 2001</em>, 245–252. <a href="https://doi.org/10.1145/365024.365111">doi:10.1145/365024.365111</a></li>
+<li>Butler, D. L., &amp; Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. <em>Review of Educational Research, 65</em>(3), 245–281. <a href="https://doi.org/10.3102/00346543065003245">doi:10.3102/00346543065003245</a></li>
+<li>Black, P., &amp; Wiliam, D. (1998). Assessment and classroom learning. <em>Assessment in Education: Principles, Policy &amp; Practice, 5</em>(1), 7–74. <a href="https://doi.org/10.1080/0969595980050102">doi:10.1080/0969595980050102</a></li>
+</ul>
+<!-- merged 2026-10-09 from strategies/timely_feedback ("Timely Feedback"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Timely Feedback
+
+> **Strategy** · [All strategies](../)
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q4` · 2 of 2 report an effect size
+
+## Description
+Timely feedback is delivered while the learning task is still active in the learner's mind — immediately after a response, or during the task itself — rather than days or weeks later. The rationale is that feedback functions as information for revising understanding, and its value decays as the gap between performance and response grows. Timing is a design variable: the optimal delay depends on what the feedback is for (error correction vs. retention testing).
+
+## Design Implications
+
+Feedback is among the most powerful influences on achievement, but its effects are highly variable, and timing is one of the conditions that determines whether it helps or hinders. Immediate feedback supports in-the-moment error correction and prevents learners from practicing and consolidating incorrect procedures. However, delayed feedback can outperform immediate feedback when the goal is durable retention, because a delay gives learners a retrieval opportunity before correction. Timing decisions should therefore follow from the learning goal, not from a blanket "faster is better" rule.
+
+### Context
+#### Requirements
+- A mechanism for capturing learner performance close to the moment it occurs (in-class circulation, digital auto-grading, rapid turnaround on submissions)
+- Feedback that is actionable at the task or process level — specific enough to act on, not just right/wrong signals [Feedback is most effective at the task and process levels.](../../claims/feedback-most-effective-at-task-and-process-levels/) [+S]
+- An opportunity for learners to use the feedback — revise, retry, or apply it to the next task ([Practice](../../elements/practice/), [Revision](../../elements/revision/))
+
+#### Constraints
+- Immediate feedback on every attempt can create dependence and disrupt the retrieval effort that builds long-term retention — learners never practice resolving uncertainty on their own
+- Feedback delivered after learners have moved on is often ignored or misattributed; effort spent grading late work yields little learning gain
+- Immediate feedback during complex problem solving can interrupt productive struggle and increase extraneous load ([Cognitive Load Management](../../principles/cognitive-load-management/)) [~M]
+- Feedback that arrives too quickly for learners to self-assess removes the self-monitoring step central to [Self-Regulated Learning](../../theories/self-regulated-learning/) [-M]
+
+#### Implementation Variability
+- **Immediate, automated** — digital platforms (e.g., Khan Academy, Duolingo) deliver right/wrong and hint-level feedback within seconds; suited to procedural and factual goals
+- **Same-session** — instructor circulates during work time ([Check-In](../../elements/check-in/), [Coaching](../../elements/coaching/)); balances immediacy with human judgment
+- **Delayed-but-before-next-attempt** — feedback returned before the next related task or revision cycle; suited to complex work like writing and design
+- **Strategic delay** — withholding answers briefly to force a retrieval attempt, then confirming; suited to retention goals
+
+### Target Learners
+- Novices benefit most from immediate correction, since early errors can become entrenched
+- Learners with weak self-regulation need timely external feedback because they cannot yet generate their own [Self-Regulated Learning](../../theories/self-regulated-learning/) [+M]
+- More capable learners may benefit from delayed feedback that preserves retrieval practice and self-evaluation
+
+### Target Learning Goals
+- Procedural accuracy: catching errors before they are practiced and consolidated
+- Conceptual understanding: process-level feedback that redirects reasoning, not just answers [Feedback is most effective at the task and process levels.](../../claims/feedback-most-effective-at-task-and-process-levels/) [+S]
+- Self-regulation: calibrating learners' judgments of their own performance over time
+
+### Instructions
+1. Identify the decision point: what will learners do next that this feedback should inform? Time delivery just before that action.
+2. During [Practice](../../elements/practice/), monitor performance actively ([Check-In](../../elements/check-in/)) and deliver task-level corrections on the spot.
+3. Make feedback [Action-Oriented Feedback](../action-oriented-feedback/) — state what to change and how, not just what was wrong.
+4. Build in a use step: revision, retry, or application to the next task ([Assess Performance](../../elements/assess-performance/) as formative, not terminal).
+5. For retention goals, deliberately delay confirmation of answers to preserve a retrieval attempt, then follow up ([Assessment for Learning](../../principles/assessment-for-learning/)).
+
+## Related Strategies
+- [Action-Oriented Feedback](../action-oriented-feedback/) — the content side of the same coin; timing determines whether actionable feedback arrives while it can still be used
+- [5-Minute Writing Conferences](../5-minute_writing_conferences/) — a same-session delivery mechanism for timely, individualized feedback
+- [Check-Ins](../../principles/check-ins/) — structured moments that surface performance early enough for feedback to matter
+
+## Examples
+- **Khan Academy** (https://www.khanacademy.org) — auto-graded exercises give immediate correctness feedback and on-demand hints, letting learners correct errors within the same attempt sequence.
+- **Writing conferences in workshop models** — teacher confers with a student during drafting rather than after submission, so revision happens while the text is still open.
+- **Team-Based Learning (https://teambasedlearning.org)** — immediate feedback via scratch cards or IF-AT forms during readiness assurance tests, so teams discuss and resolve misconceptions in the same class session.
+
+## Key Sources
+- Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. [doi:10.3102/003465430298487](https://doi.org/10.3102/003465430298487)
+- Shute, V. J. (2008). Focus on formative feedback. *Review of Educational Research, 78*(1), 153–189. [doi:10.3102/0034654307313795](https://doi.org/10.3102/0034654307313795)
+- Butler, D. L., & Winne, P. H. (1995). Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*(3), 245–281. [doi:10.3102/00346543065003245](https://doi.org/10.3102/00346543065003245)
+- Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>timely-feedback</code></td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td><code>timely_feedback</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Timely Feedback</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Providing feedback as soon as possible after a learner demonstrates performance, so the feedback connects directly to the action that prompted it.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-30</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Five-step SAS-based item fit analysis procedure for MAP Growth K–2 items - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../elements/">Elements</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Element">
+<h1 id="five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items">Five-step SAS-based item fit analysis procedure for MAP Growth K–2 items<a class="headerlink" href="#five-step-sas-based-item-fit-analysis-procedure-for-map-growth-k2-items" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Element</strong> · <a href="../">All elements</a>
+<strong>Evidence</strong> · 6 claims (6 for) · 2 studies (2 associational), <code>q2</code> · 0 of 2 report an effect size · 6 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>A psychometric quality-control procedure for validating Rasch-calibrated items after difficulty adjustment. For each sample, the report calculates "the infit, outfit, and point measure correlations" under old and new values, computes distances of fit statistics from 1.0, flags items with point measure correlations below 0.2, applies strong (infit/outfit &gt;1.2 or &lt;0.8) and weak (&gt;1.5 or &lt;0.5) flagging criteria, and plots item characteristic curves for flagged items before content and psychometric review. All analyses were conducted "using SAS 9.4."</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Item response data with at least 300 responses per item, as items with fewer were excluded</li>
+<li>Both old and new item difficulty values and corresponding ability estimates to compute comparative fit statistics</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Applied to MAP Growth K–2 Reading and Mathematics items from test events in five states between 2010 and 2017</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>K–2 students taking MAP Growth Reading and Mathematics tests</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Valid measurement of K–2 Reading and Mathematics achievement on the Rasch-based MAP Growth scale</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/math-outfit-more-variable-than-reading-infit/">Mathematics items showed more variation in fit statistics than Reading items, and outfit statistics varied more than infit statistics</a> [+W]</li>
+<li><a href="../../claims/misfit-flagging-inconsistent-across-samples/">Only about half of misfit items were flagged in common by the AllYr and LatestYr samples, which the authors found surprising</a> [+W]</li>
+<li><a href="../../claims/new-old-fit-statistics-moderately-correlated/">New and old fit statistics are moderately correlated, with Pearson coefficients mostly between 0.50 and 0.79</a> [+W]</li>
+<li><a href="../../claims/rit-adjustment-improves-k2-item-fit/">Adjusting MAP Growth K–2 item difficulties improved item fit, with old infit and outfit statistics more scattered than new ones in both samples</a> [+W]</li>
+<li><a href="../../claims/map-k2-2020-difficulty-adjustment-improved-item-fit/">Adjusting MAP Growth K–2 item difficulties in the 2020 scale alignment study improved item fit, with the largest gains in outfit statistics for difficult Mathematics items</a> [+W]</li>
+<li><a href="../../claims/map-k2-new-old-fit-statistic-correlations/">New and old fit statistics are highly correlated after difficulty adjustment, with outfit correlations near 0.99 for Mathematics and infit correlations around 0.7 for Mathematics and mid-to-high 0.8–0.9 for Reading</a> [+W]</li>
+</ul>
+<h2 id="related-elements">Related Elements<a class="headerlink" href="#related-elements" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../pychometrik-item-calibration-tool/">Pychometrik: a Python-based item calibration tool for Rasch family models</a></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../strategies/misfit-items-review-before-deactivation/">Route items flagged for misfit through content and psychometric review before deciding whether to deactivate them</a></li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>He, W. (2019). MAP Growth K–2 item fit analysis study. NWEA. https://www.nwea.org/research/publication/map-growth-k-2-item-fit-analysis-study/</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>element</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>map-k2-item-fit-analysis-procedure</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Five-step SAS-based item fit analysis procedure for MAP Growth K–2 items</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>A psychometric quality-control procedure for validating Rasch-calibrated items after difficulty adjustment.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-08</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>he-2019</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

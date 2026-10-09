@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ARLIS: Algorithm for Reward Listed Item Selection - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../theories/">Theories</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Theory">
+<h1 id="arlis-algorithm-for-reward-listed-item-selection">ARLIS: Algorithm for Reward Listed Item Selection<a class="headerlink" href="#arlis-algorithm-for-reward-listed-item-selection" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Theory</strong> · <a href="../">All theories</a>
+<strong>Evidence</strong> · 4 claims (4 for) · 3 studies (2 design, 1 causal), <code>q2</code> · 0 of 3 report an effect size · 4 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>ARLIS is the enhanced MAP Growth item-selection algorithm introduced by the Content Proximity Project. It is "a compensatory version of the maximum priority index (Cheng &amp; Chang, 2009) that borrows ideas from reinforcement learning," which may be thought of as reinforcement learning with a greedy policy and frequent deterministic rewards. An item-selection engine acts as the agent choosing items from the pool; a reward is assigned to each content feature, a total reward (a weighted average of functions representing statistical and content requirements) is computed per item, items are listed in descending order of total reward, and the highest-value item is selected, with ties broken randomly as a randomesque exposure control mechanism.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Requires reward functions for statistical requirements (item information under the Rasch model) and for content features such as item grade and blueprint targets</li>
+<li>Requires the item pool to contain items matching desired content features, since missing features can force off-grade selection</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The degree of off-grade adaptation depends on the configuration of the item grade reward and on the difference between the group mean and the item pool mean for an instructional area; greater differences produce more frequent off-grade selection</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>K-8 students taking MAP Growth assessments</li>
+</ul>
+<h3 id="target-learning-objectives">Target Learning Objectives<a class="headerlink" href="#target-learning-objectives" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Accurate measurement of student achievement with content aligned to grade-level standards</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/content-proximity-more-on-grade-items/">Content Proximity More On Grade Items</a> [+M]</li>
+<li><a href="../../claims/pilot-blueprint-fulfillment/">Pilot Blueprint Fulfillment</a> [+M]</li>
+<li><a href="../../claims/spanish-map-reading-adaptive-lower-sem/">The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests</a> [+W]</li>
+<li><a href="../../claims/content-proximity-pilot-validity-reliability-comparability/">The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm</a> [+W]</li>
+</ul>
+<h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../elements/content-proximity-map-growth-tests/">Content Proximity MAP Growth tests</a></li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>J. Patrick Meyer, Ann Hu, Sylvia Li. (2023). Content Proximity Spring 2022 Pilot Study Research Brief. Psychometric Solutions, NWEA. https://www.nwea.org/research/publication/content-proximity-spring-2022-pilot-study-research-report/</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>theory</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>ARLIS: Algorithm for Reward Listed Item Selection</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>ARLIS is the enhanced MAP Growth item-selection algorithm introduced by the Content Proximity Project.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-08</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>j-patrick-meyer-2023</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

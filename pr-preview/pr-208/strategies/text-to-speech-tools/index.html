@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Text To Speech Tools - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../strategies/">Strategies</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="text-to-speech-tools">Text To Speech Tools<a class="headerlink" href="#text-to-speech-tools" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a>
+<strong>Evidence</strong> · 2 claims (2 for) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 theoretical), <code>q1</code>–<code>q4</code> · 1 of 4 report an effect size</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Text-to-speech (TTS) tools render digital text as synthesized speech, typically with word-level highlighting that tracks the narration. They are used both as an <a href="../../elements/accommodations/">accommodation</a> for learners with reading difficulties and as a universal design option that lets learners switch between reading and listening modes.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<p>TTS offloads decoding work so that limited working-memory resources can be directed toward comprehension rather than word recognition <a href="../../claims/automatic-word-recognition-frees-resources-for-comprehension/">Automatic word recognition frees resources for comprehension.</a> [+M]. For learners whose decoding is slow or effortful, listening removes a bottleneck that otherwise degrades understanding <a href="../../claims/cognitive-overload-degrades-learning/">Cognitive overload degrades learning.</a> [+M]. For fluent readers, however, TTS adds little and can interfere: reading and listening simultaneously can create redundancy effects when the audio merely duplicates the on-screen text <a href="https://doi.org/10.1002/9781119239086">Clark, R. C., &amp; Mayer, R. E. (2016)</a> [~M].</p>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Digital, machine-readable text (screen-reader-compatible documents, EPUB, or tagged PDFs)</li>
+<li>Adjustable speech rate and voice; word- or sentence-level highlighting to support tracking</li>
+<li>A clear purpose: decoding support, comprehension support, proofreading, or fatigue management — not simply "audio because we can"</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Redundant narration of on-screen text can hurt learning for fluent readers, consistent with the redundancy principle <a href="https://doi.org/10.1002/9781119239086">Clark, R. C., &amp; Mayer, R. E. (2016)</a> [-M]</li>
+<li>Synthetic speech at default rates can impair comprehension for learners with auditory processing difficulties; rate must be adjustable [~M]</li>
+<li>Over-reliance can reduce print exposure and practice for learners who still need to build decoding skill; TTS should supplement, not replace, reading instruction for beginning readers [-W]</li>
+<li>Poorly structured source documents (untagged PDFs, image-based scans) produce garbled output that adds cognitive load rather than reducing it</li>
+</ul>
+<h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Decoding accommodation:</strong> full text read aloud for students with dyslexia or low vision (e.g., built into <a href="https://www.kurzweil3000.com">Kurzweil 3000</a> or <a href="https://www.texthelp.com/products/readwrite/">Read&amp;Write</a>)</li>
+<li><strong>Bimodal reading:</strong> audio with synchronized highlighting, which research on supported reading suggests can benefit struggling readers more than audio alone [+W]</li>
+<li><strong>Self-monitoring aid:</strong> fluent writers use TTS to hear their own drafts, catching errors that silent reading misses [+W]</li>
+<li><strong>Universal option:</strong> offered via <a href="../../elements/choice-boards/">Choice Boards</a> so all learners can select modality by context and fatigue</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Learners with dyslexia, low vision, or other print disabilities, for whom TTS is a well-established accommodation [+M]</li>
+<li>English language learners, who can pair audio input with text to support phonological mapping [+W]</li>
+<li>Beginning readers should use TTS selectively — it supports access to age-appropriate content but does not build decoding skill on its own [-W]</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Comprehension of content-area text where the goal is knowledge acquisition, not reading practice</li>
+<li>Access to grade-level material despite below-grade decoding</li>
+<li>Revision and proofreading of written work</li>
+</ul>
+<h3 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Verify the source material is digitally accessible (tagged headings, real text, not scanned images).</li>
+<li>Set the purpose with learners: decoding support, comprehension, or revision — and select bimodal highlighting or audio-only accordingly.</li>
+<li>Adjust speech rate and voice to the individual learner; default rates are often too fast.</li>
+<li>Pair TTS access with comprehension supports such as <a href="../../principles/annotating/">Annotating</a> or <a href="../../elements/advance-organizers/">Advance Organizers</a>, since listening alone does not guarantee engagement.</li>
+<li>Review periodically: fade TTS for decoding practice where the goal is reading growth, and retain it for content access where it is not.</li>
+</ol>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../accommodating_processing_speed_challenges/">Accommodating Processing Speed Challenges</a> — TTS is a primary tool for learners who process print slowly</li>
+<li><a href="../../elements/audiobooks/">Audiobooks</a> — the pre-recorded counterpart; TTS generalizes it to any text</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong><a href="https://www.texthelp.com/products/readwrite/">Read&amp;Write (Texthelp)</a></strong> — toolbar-based TTS with word highlighting, dictionary, and translation, widely deployed in K–12 and higher education.</li>
+<li><strong><a href="https://www.kurzweil3000.com">Kurzweil 3000</a></strong> — TTS with study-skill tools (highlighting, notes) designed for learners with dyslexia and other print disabilities.</li>
+<li><strong><a href="https://www.microsoft.com/en-us/education/products/immersive-reader">Immersive Reader (Microsoft)</a></strong> — free TTS with syllabification, picture dictionary, and adjustable spacing, embedded across Office and Teams.</li>
+<li><strong><a href="https://www.bookshare.org">Bookshare</a></strong> — accessible e-book library whose titles are read via TTS or braille for readers with print disabilities.</li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Clark, R. C., &amp; Mayer, R. E. (2016). <em>E-Learning and the science of instruction</em> (4th ed.). Wiley. <a href="https://doi.org/10.1002/9781119239086">doi:10.1002/9781119239086</a></li>
+<li>Wood, S. G., Moxley, J. H., Tighe, E. L., &amp; Wagner, R. K. (2018). Does use of text-to-speech and related read-aloud tools improve reading comprehension for students with reading disabilities? A meta-analysis. <em>Journal of Learning Disabilities, 51</em>(1), 73–84. <a href="https://doi.org/10.1177/0022219416688170">doi:10.1177/0022219416688170</a></li>
+<li>Rose, D. H., &amp; Meyer, A. (2002). <em>Teaching every student in the digital age: Universal design for learning.</em> ASCD.</li>
+<li>Sweller, J., Ayres, P., &amp; Kalyuga, S. (2011). <em>Cognitive load theory.</em> Springer. <a href="https://doi.org/10.1007/978-1-4419-8126-4">doi:10.1007/978-1-4419-8126-4</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>strategy</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>text-to-speech-tools</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Text To Speech Tools</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Software that converts written text into synthesized spoken audio, allowing learners to listen to digital text rather than — or alongside — reading it.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-08-29</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
