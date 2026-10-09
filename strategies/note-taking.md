@@ -58,10 +58,12 @@ Note taking improves learning primarily when it requires generative processing �
 5. Build review of notes into later sessions using spaced retrieval rather than rereading [Distributed practice improves retention.](../claims/distributed-practice-improves-retention.md) [+S]
 
 ## Related Strategies
+
 - [Annotating](../principles/annotating.md) — the text-based counterpart: marking and commenting on a source rather than recording from a presentation
 - [Summarizing](summarizing.md) — a post-hoc compression of notes that deepens the encoding benefit
 - [Concept Mapping](../elements/concept-mapping.md) — a graphical note format that makes relationships explicit [Concept mapping improves learning.](../claims/concept-mapping-improves-learning.md) [+M]
 - [Retrieval Practice](../principles/retrieval-practice.md) — the most effective way to use notes after the fact
+- [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](guided-note-taking-while-watching-videos.md)
 
 ## Examples
 - **Cornell Notes system** — page divided into cues, notes, and summary columns; widely adopted in K–12 study-skills curricula ([https://en.wikipedia.org/wiki/Cornell_Notes](https://en.wikipedia.org/wiki/Cornell_Notes))

@@ -50,6 +50,7 @@ A district policy initiated in the Chicago Public Schools in 2003 requiring that
 
 - [Chicago Public Schools 2003 double-dose algebra policy with three structural guidelines for support courses](cps-double-dose-algebra-policy-element.md)
 - [Chicago's double-dose algebra policy (two periods of algebra with teacher supports)](chicago-double-dose-algebra-policy.md)
+- [NMSA 9th Grade Academy course teaching skills for success with research-based learning strategies](nmsa-9th-grade-academy-course.md)
 
 ## Examples
 

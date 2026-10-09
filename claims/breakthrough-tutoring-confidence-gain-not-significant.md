@@ -45,3 +45,4 @@ Key finding from the pilot's baseline and end-of-year student surveys: confidenc
 ## Related Claims
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related
 - [Eighth graders in the Breakthrough Collaborative math tutoring pilot showed math score growth from beginning to end of year at both affiliates, similar to a national pre-pandemic sample](breakthrough-tutoring-math-gains-similar-national-sample.md) — related
+- [Students in the Haiti blended learning pilot showed statistically significant learning gains, with the lowest-baseline students gaining the most](haiti-blended-pilot-significant-gains-lowest-baseline.md) — related

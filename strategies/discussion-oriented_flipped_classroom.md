@@ -59,9 +59,11 @@ Pre-class exposure frees class time for the interactive, generative processing t
 5. Close with [Individual Reflection](../elements/individual-reflection.md) or a written synthesis to consolidate the discussion outcomes.
 
 ## Related Strategies
+
 - [Flipped Learning](flipped-learning.md) — the broader pattern; this variant specifies discussion as the in-class modality
 - [Case-Based Learning](case-based-learning.md) — a common in-class engine for flipped discussion sessions
 - [Debate Format](../patterns/debate.md) — a highly structured discussion variant well suited to flipped class time
+- [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](guided-note-taking-while-watching-videos.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — an alternative or supplement to video for first exposure

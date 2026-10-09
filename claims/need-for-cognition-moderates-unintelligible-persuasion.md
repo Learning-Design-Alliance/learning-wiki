@@ -48,3 +48,4 @@ A moderator analysis reported from Experiments 3 and 4 of the series. The articl
 - [Unintelligible messages elicit a higher proportion of idiosyncratic cognitive elaborations than intelligible messages](unintelligible-messages-increase-idiosyncratic-elaboration.md) — related
 - [Increased source credibility produces greater agreement to both intelligible and unintelligible messages](source-credibility-effect-holds-unintelligible-messages.md) — related
 - [Students agree with and list cognitive responses to unintelligible communications](students-agree-with-unintelligible-messages.md) — related
+- [When students argue to reach consensus rather than to convince or persuade, they commit to understanding and integrating others' ideas](arguing-to-consensus-fosters-integration.md) — related

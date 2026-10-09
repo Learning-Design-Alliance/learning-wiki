@@ -61,8 +61,10 @@ Strength-based framing builds on evidence that positive self-perception and self
 6. **Assess growth.** Use [Assess Performance](../elements/assess-performance.md) routines — portfolio review, self-rating against rubrics — to make self-awareness growth visible over time.
 
 ## Related Strategies
+
 - Growth-mindset interventions — strength-based framing shares the goal of shifting students' beliefs about their own capability; the two combine naturally in reflection prompts
 - Social-emotional learning (SEL) curricula — self-awareness is one of five CASEL competencies and typically the first taught
+- [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
 
 ## Examples
 - **Mood meter check-ins** (RULER approach, Yale Center for Emotional Intelligence, https://ei.yale.edu): students plot their emotional state on a two-axis mood meter, building precision in emotional identification before academic work begins.

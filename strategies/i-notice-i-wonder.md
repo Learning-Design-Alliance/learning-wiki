@@ -60,9 +60,11 @@ The routine works by having learners explore a problem space before receiving ex
 5. **Bridge to instruction.** Explicitly connect the upcoming explanation, reading, or [Demonstration](../elements/demonstration.md) to the recorded wonderings ("we'll be able to answer three of these by the end of class"), and return to the chart afterward to resolve or revise them.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — I Notice I Wonder is a concrete routine for doing so at the start of a lesson
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a turn structure that can precede whole-group sharing in the routine
 - [See-Think-Wonder](see-think-wonder.md) — the parent Project Zero routine with an explicit interpretation step between noticing and wondering
+- [Use the Ten Times Two routine to build observational vocabulary before data analysis](ten-times-two-looking-activity.md)
 
 ## Examples
 - **Visual Thinking Strategies (VTS)** ([vtshome.org](https://vtshome.org)) — Housen and Yenawine's museum-education method: a facilitator asks "What's going on in this picture?" and paraphrases every response; I Notice I Wonder is a classroom-friendly descendant.

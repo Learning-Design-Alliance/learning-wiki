@@ -49,3 +49,4 @@ Conclusion drawn from the qualitative narratives: "In most cases, the motivation
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
 - [Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems](youth-problems-personal-relevance-not-societal.md) — related
+- [Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students](learning-studios-engagement-persistence-indicators.md) — reports the opposite

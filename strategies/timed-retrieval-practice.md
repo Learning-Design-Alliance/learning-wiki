@@ -60,9 +60,11 @@ Retrieval practice is among the most robustly supported learning strategies: tes
 6. Follow with application tasks so retrieved knowledge is connected to use, not just stored.
 
 ## Related Strategies
+
 - Spaced retrieval — spacing multiplies the retention benefit of each retrieval attempt
 - Low-stakes quizzing — the same mechanism without the timer, appropriate for anxious learners
 - Interleaved practice — mixing problem types within timed sessions improves discrimination between concepts
+- [Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test](retrieval-practice-three-classroom-strategies.md)
 
 ## Examples
 - **Retrieval warm-ups**: opening a class with a 3-minute timed brain dump on the previous lesson before comparing against notes.

@@ -66,6 +66,7 @@ Retrieval attempts strengthen memory more than restudying of equivalent duration
 - Interleaved practice — combines spacing with discrimination between problem types
 - Rereading and highlighting — the common alternatives that spaced retrieval replaces; less effective at equal time
 - [Sequence simpler desirable difficulties (retrieval, spacing, interleaving) during initial L2 vocabulary encoding, reserving generation for post-encoding consolidation](generation-as-post-encoding-consolidation-strategy.md)
+- [Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test](retrieval-practice-three-classroom-strategies.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard software using the SM-2 expanding-interval algorithm; widely used in medical education for high-volume factual retention.

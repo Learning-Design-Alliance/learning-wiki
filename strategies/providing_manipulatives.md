@@ -59,8 +59,10 @@ Manipulatives support learning when they function as *representations of* a conc
 5. **Check transfer to symbols** — verify learners can solve bare symbolic problems without the object before retiring it
 
 ## Related Strategies
+
 - [Multiple Representations](../strategies/multiple-representations.md) — manipulatives are one representation in a representational sequence
 - [Worked Examples](../strategies/use_worked_examples.md) — a teacher-modeled manipulation demonstrates how the object encodes the concept before learners manipulate independently
+- [Unplugged coding with printable motion and trigger blocks as a physical introduction to online coding](unplugged-printable-blocks-k2-introduction.md)
 
 ## Examples
 - **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — teachers use counters and drawings to model children's solution strategies for word problems, connecting informal strategies to formal arithmetic

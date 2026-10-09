@@ -59,9 +59,11 @@ Video is a multimedia channel: combining narration with relevant visuals can imp
 6. Review analytics (drop-off points, rewatch hotspots) and learner questions to target the next round of recordings.
 
 ## Related Strategies
+
 - [Flipped Classroom](../patterns/flipped-classroom.md) — the dominant pattern built on pre-recorded expository video
 - [Blended Learning](../patterns/blended-learning.md) — pre-recording is the asynchronous component of blended course designs
 - [Direct Instruction](../patterns/direct-instruction.md) — recorded lecture is a mediated form of explicit, instructor-led exposition
+- [Offer lectures both live (synchronously) and as posted recordings so students with connectivity, work, or time-zone constraints are not disadvantaged](offer-synchronous-and-recorded-lecture-options.md)
 
 ## Examples
 - **[Flipped Classroom](../patterns/flipped-classroom.md) implementations** (e.g., chemistry courses using [ChemTube3D](https://www.chemtube3d.com/) or instructor-recorded pre-lecture videos) — students watch short expository videos before class; class time is spent on problem-solving.

@@ -50,3 +50,4 @@ Survey findings on training participation and hours (Tables 2, A-2 through A-6).
 - [The expert-presenter model is the most prevalent staff development model, with most activities brief](expert-presenter-model-most-prevalent.md) — related
 - [Most staff (70.2%) doubted their school's resources were adequate for the SDM, and perceived resource inadequacy was strongly associated with less positive attitudes toward the model](perceived-resource-inadequacy-lowers-sdm-attitudes.md) — related
 - [Training amount related to role awareness (r=.225, p<.01), but regression showed role awareness was most directly attributable to building-team membership](role-awareness-attributable-to-team-membership.md) — related
+- [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related

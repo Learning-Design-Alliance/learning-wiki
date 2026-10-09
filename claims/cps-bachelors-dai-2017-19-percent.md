@@ -51,3 +51,4 @@ District-level descriptive analysis using CPS administrative records and Nationa
 - [CPS's Bachelor's Degree Attainment Index rose 7 percentage points, from 11 percent for 2006 ninth-graders to 18 percent for 2016 ninth-graders](cps-bachelors-dai-rose-7-points.md) — related
 - [CPS graduates' immediate college enrollment increased between 2006 and 2015, driven mainly by growth in four-year college enrollment](cps-college-enrollment-growth-four-year.md) — related
 - [The estimated percentage of CPS ninth-graders taking a direct path to a bachelor's degree nearly doubled between 2006 and 2016, from 9 percent to 16 percent](cps-direct-bachelors-dai-rose-2006-2016.md) — related
+- [A rural district that closed device and connectivity divides and trained teachers saw graduation rates rise from 67 percent to over 94 percent and college enrollment double](lindsay-usd-digital-equity-outcomes.md) — related

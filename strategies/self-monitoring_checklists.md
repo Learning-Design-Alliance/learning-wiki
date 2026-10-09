@@ -58,10 +58,12 @@ Self-monitoring is a core phase of [Self-Regulated Learning](../theories/self-re
 5. Progressively transfer ownership: move from teacher-provided to learner-generated checklists, then fade the checklist entirely as criteria become internalized.
 
 ## Related Strategies
+
 - [Self-Assessment](../elements/self-assessment.md) — the broader practice; the checklist is its most structured, criterion-anchored form
 - [Rubrics](rubrics.md) — supply the criteria that checklists operationalize item by item
 - [Self-Explanation](../elements/self-explanation.md) — a complementary monitoring move: explaining *why* an answer is correct tests understanding more deeply than checking presence
 - [Retrieval Practice](retrieval-practice.md) — the strongest corrective action after a failed comprehension check; testing both monitors and improves learning
+- [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
 
 ## Examples
 - **Writing workshop checklists** — Elementary writing programs (e.g., Units of Study by Lucy Calkins) give students editing checklists ("Does my lead hook the reader?") used before peer review and publication.

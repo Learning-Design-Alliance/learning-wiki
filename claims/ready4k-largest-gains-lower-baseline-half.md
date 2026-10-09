@@ -47,3 +47,4 @@ Subgroup analysis within the same preschool RCT: the summary reports "the larges
 - [In kindergarten, READY4K! messages raise literacy scores, with the largest gains in the personalized messaging arm](ready4k-kindergarten-personalized-messaging-gains.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
 - [Effects of Lexia English Language Development are strongest among students with lower baseline English proficiency](lexia-english-effects-strongest-lower-baseline.md) — related
+- [An online individualized instruction program was highly effective in improving literacy skills in preschool through third grade](individualized-instruction-reading-effective-p3.md) — related

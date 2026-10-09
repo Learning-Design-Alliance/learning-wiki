@@ -124,3 +124,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Collaborative learning](../principles/collaborative-learning.md) — principle-level guidance on structuring group interaction
 - [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) — related
 - [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](collaborative-group-work-beats-competitive-classrooms-k12.md) — a broader claim this one bears on
+- [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — a narrower finding that bears on this claim

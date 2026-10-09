@@ -44,7 +44,8 @@ Because real-time data collection makes labs faster and represents data instantl
 - 
 
 ## Examples
--
+
+- [Four recommendations for deepening mathematics integration in science investigations](../strategies/four-recommendations-math-in-science.md)
 
 ## Key Sources
 - Brewe, E., Sawtelle, V., and Pamela, P. (2007). Impacts of real-time data collection on introductory algebra-based physics. https://scholar.google.com/scholar?q=Impacts+of+real-time+data+collection+on+introductory+algebra-based+physics

@@ -64,6 +64,7 @@ Audio alone is a transient, single-channel medium; without structure, listeners 
 - [Podcast-based learning](podcast-based-learning.md) — audio-first course designs where structured activities supplement episodic content
 - [Flipped classroom](flipped-classroom.md) — audio can substitute for video as the pre-class exposure medium when bandwidth is limited
 - [Verify Prerequisite Knowledge Before Audiovisual Presentations](prerequisite-checks-before-audiovisual-presentations.md)
+- [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](guided-note-taking-while-watching-videos.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the structured activity most commonly paired with audio; converts listening into retrieval and application

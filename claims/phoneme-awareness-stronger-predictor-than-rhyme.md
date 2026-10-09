@@ -113,3 +113,4 @@ In a 2-year longitudinal study beginning at school entry (90 British children st
 - [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related
 - [Rhyme sensitivity plays a limited role in Spanish reading development and does not reliably distinguish stronger from weaker readers beyond early stages](rhyme-sensitivity-limited-role-spanish.md) — a narrower finding that bears on this claim
 - [Syllable awareness is a strong and prominent predictor of Spanish reading development](syllable-awareness-strong-predictor-spanish-reading.md) — a narrower finding that bears on this claim
+- [Working memory is a strong predictor of decoding skills](working-memory-strong-predictor-decoding.md) — related

@@ -43,6 +43,7 @@ The handbook identifies the mechanism Piaget proposes for moving from one stage 
 - [Stages of Cognitive Development](stages-of-cognitive-development.md)
 - [Piaget's stage theory of cognitive development: four fixed, hierarchical stages from sensori-motor to formal operations](piaget-four-stage-cognitive-development-theory.md)
 - [Sociocultural Theory](sociocultural-theory.md)
+- [Three-stage model of developing district computational thinking pathways: Getting Started, Getting Going, Getting Better](ct-pathway-development-stages.md)
 
 ## Examples
 

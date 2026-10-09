@@ -41,7 +41,9 @@ The framework is a two-dimensional matrix for scaffolding AI and data literacy i
 - [Prominent existing AI literacy frameworks are not tailored to higher education](../claims/ai-literacy-frameworks-gap-higher-education.md) [+W]
 
 ## Related Theories
-- 
+
+- [AI literacy as critical understanding, use, and evaluation of AI systems](ai-literacy-framework-digital-promise.md)
+- [AI Literacy Framework of three interconnected Modes of Engagement: Understand, Evaluate, and Use](ai-literacy-framework-three-modes-of-engagement.md)
 
 ## Examples
 

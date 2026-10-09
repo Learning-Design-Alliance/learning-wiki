@@ -62,3 +62,4 @@ This is the paper's origin: Hattie and Timperley propose a model in which effect
 - [Feedback Addressing Task Improves Learning](feedback-addressing-task-improves-learning.md) — related
 - [Feedback improves learning, with a medium average effect that varies widely by feedback type](feedback-improves-learning.md) — a broader claim this one bears on
 - [Goal setting is widely believed to improve individual performance, and this belief is being tested in schools](goal-setting-belief-tested-in-schools.md) — related
+- [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related

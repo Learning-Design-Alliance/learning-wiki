@@ -47,3 +47,5 @@ In the measure-development stage, the project used the Many-Facet Rasch model, n
 - [CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design](ctt-mfrm-agreement-robust-to-design.md) — related
 - [CTT and MFRM yield a positive, perfect correlation between item difficulty indices for open-ended items under a crossed design](ctt-mfrm-difficulty-indices-perfect-correlation-open-ended.md) — related
 - [Items ranked from easiest to most difficult are identical under CTT and MFRM](identical-item-difficulty-ranking-ctt-mfrm.md) — related
+- [Scorers found all rubric dimensions important, with feedback bearing mainly on the scoring and training process rather than rubric design](scorer-feedback-dimensions-important-process-implications.md) — related
+- [Scorers had difficulty distinguishing rubric scoring from everyday grading and AP scoring, and training took longer than expected](scorer-training-longer-than-expected-grading-confusion.md) — related

@@ -46,3 +46,5 @@ Educator survey findings from the 10 evaluation districts in the first year of T
 - [Educators in schools offering pay-for-performance bonuses tended to be less satisfied than those in schools without bonuses](tif-bonus-schools-lower-satisfaction.md) — related
 - [Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn](teachers-misunderstood-bonus-eligibility-and-amounts.md) — related
 - [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](educators-receptive-to-feedback-and-compensation-strategies.md) — related
+- [American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities](pd-spending-18b-low-satisfaction.md) — related
+- [71% of surveyed Miami-Dade coaches reported the program improved their job satisfaction, up from a pre-program baseline where none reported being completely satisfied](vils-coaches-71-percent-improved-job-satisfaction.md) — related

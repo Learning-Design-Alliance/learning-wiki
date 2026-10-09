@@ -58,9 +58,11 @@ Materials management is a low-cost environmental intervention that protects inst
 5. Maintain the system with brief daily resets and periodic re-teaching after breaks.
 
 ## Related Strategies
+
 - [Acoustics and Noise Management](acoustics_and_noise_management.md) — the parallel environmental strategy for the auditory channel; both reduce distraction and protect instructional time
 - [Action Planning](action_planning.md) — helps students apply organizational routines to their own work
 - [Achievable Micro-Goals](achievable_micro-goals.md) — organizational routines can be introduced as small, achievable steps
+- [Provide easily accessible resource repositories and assessment tools to reduce teachers' time spent searching for and adapting OpenSciEd materials](accessible-resource-repositories-for-openscied-teachers.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — teacher language and routines for teaching students to manage classroom materials and transitions explicitly.

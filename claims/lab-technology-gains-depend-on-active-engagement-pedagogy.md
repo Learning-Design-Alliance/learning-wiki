@@ -48,3 +48,4 @@ Authors' interpretation in the discussion, not a tested result: they state the i
 - [Research-verified active-engagement pedagogy yields significant content gains (g ≈ 0.38–0.42) but essentially zero gains on the LCTSR (g = 0.06) without explicit reasoning instruction](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related
 - [MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added](mpex-consistent-pedagogy-across-tech-years.md)
+- [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](students-need-time-learn-technology-first.md) — related

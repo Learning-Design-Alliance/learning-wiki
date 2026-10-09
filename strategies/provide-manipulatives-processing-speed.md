@@ -57,8 +57,10 @@ Manipulatives reduce the representational burden of abstract content by groundin
 5. Assess understanding with the manipulatives removed, to verify the concept rather than the material handling has been learned.
 
 ## Related Strategies
+
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — manipulatives are one offloading accommodation within this broader set
 - [Activating Background Knowledge](activating_background_knowledge.md) — concrete materials anchor new concepts in familiar experience
+- [Unplugged coding with printable motion and trigger blocks as a physical introduction to online coding](unplugged-printable-blocks-k2-introduction.md)
 
 ## Examples
 - **[CGI (Cognitively Guided Instruction)](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — elementary math instruction in which students model word problems with counters and drawings while teachers interpret their strategies.

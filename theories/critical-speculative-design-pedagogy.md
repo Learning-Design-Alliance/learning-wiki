@@ -39,8 +39,10 @@ Critical Speculative Design Pedagogy (CSDP) integrates Cultural Learning Pathway
 - [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](../claims/critical-speculative-design-supports-critical-consciousness-in-science.md) [~M]
 
 ## Related Theories
+
 - [Womanist Restorying](womanist-restorying.md) — both use narrative/speculative reconstruction of a domain's dominant story as the core mechanism for identity and justice work, applied to computing (restorying) versus physical science (CSDP)
 - [Funds of Knowledge](funds-of-knowledge.md) — "constellar youth knowledges" extends the same basic move (treating learners' out-of-school knowledge as a legitimate resource) to intergenerational and felt/affective knowledge specifically
+- [Culturally sustaining pedagogy as a fourth 'C' in computing education pathways](culturally-sustaining-pedagogy-fourth-c.md)
 
 ## Examples
 - [Threading, Weaving, Patternmaking](../designs/threading-weaving-patternmaking.md) — the three-phase instructional sequence that operationalizes CSDP's commitments into a teachable unit design

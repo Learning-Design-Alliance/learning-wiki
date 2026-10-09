@@ -49,6 +49,7 @@ The Concerns-Based Adoption Model (CBAM) is the article's conceptual framework f
 - [Ellsworth's Framework of Educational Change](ellsworth-framework-of-educational-change.md)
 - [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](levels-of-use-innovation-eight-level-framework.md)
 - [Seven Stages of Concern About an Innovation](seven-stages-of-concern-innovation.md)
+- [Five-stage TPACK development trajectory from recognizing to advancing](tpack-development-stages-recognizing-to-advancing.md)
 
 ## Examples
 

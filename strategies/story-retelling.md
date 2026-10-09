@@ -62,9 +62,11 @@ Retelling forces learners to construct a coherent representation of a text rathe
 6. **Reread and revise.** Learners return to the text to resolve discrepancies between their retell and the actual story — the comparison, not the retell alone, drives correction of misconceptions.
 
 ## Related Strategies
+
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lighter-weight structured recall routine that can precede full retelling
 - [Acting-Role-Play](acting-role-play.md) — dramatization variant of retelling that adds embodied encoding
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — extends comprehension monitoring to expository text through structured dialogue
+- [Story retelling with familiar picture books to practice sequencing](story-retelling-sequencing-familiar-books.md)
 
 ## Examples
 - **Text Talk (Beck & McKeown)** — published K–1 program in which teachers read decontextualized storybook text, then lead discussion and retelling focused on story structure and vocabulary rather than pictures.

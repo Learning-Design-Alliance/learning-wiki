@@ -67,3 +67,4 @@ Meta-analysis of 54 experimental/quasi-experimental studies (k=141 effect sizes)
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback](rubrics-improve-peer-feedback-quality.md) — related
+- [Peer and self-assessment both show significant effects on academic performance with no significant difference between their impacts](peer-self-assessment-improve-performance-equally.md) — related

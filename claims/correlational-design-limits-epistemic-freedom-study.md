@@ -54,3 +54,4 @@ The authors' own limitations section for this correlational, cross-sectional stu
 - [School median student growth percentiles correlate with student disadvantage](school-mgp-correlates-student-disadvantage.md) — a narrower finding that bears on this claim
 - [A K-3 school-level growth measure was estimated and examined, with validity and precision concerns suggesting cautious use for accountability](k3-growth-measure-validity-precision-caution.md) — related
 - [Several component measure ratings and the overall rating had low, negative correlations with student socioeconomic disadvantage, suggesting possible bias against principals of more disadvantaged schools](principal-ratings-negative-correlation-socioeconomic-disadvantage.md) — related
+- [First-grade students reported finding eSpark engaging, and app ratings averaged 0.68 on a like/dislike scale, though the rating measure has limited validity](espark-student-engagement-positive-ratings.md) — related

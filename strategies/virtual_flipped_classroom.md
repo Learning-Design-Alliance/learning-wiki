@@ -70,9 +70,11 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 5. Follow with individual or group [Practice](../elements/practice.md) and close the loop with feedback targeted at task and process levels [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ## Related Strategies
+
 - Station-Rotation Blended Learning — the physical-room cousin; same inversion logic with scheduled rotation instead of full virtualization
 - Peer Instruction — a common structure for the synchronous application session in virtual flipped courses
 - Asynchronous Discussion Protocols — an alternative application layer when synchronous attendance is impractical
+- [Offer lectures both live (synchronously) and as posted recordings so students with connectivity, work, or time-zone constraints are not disadvantaged](offer-synchronous-and-recorded-lecture-options.md)
 
 ## Examples
 - **Michigan State University's fully online flipped calculus courses** — students watch short videos and complete online checks before live problem-solving sessions; published studies report improved pass rates over lecture-based online sections.

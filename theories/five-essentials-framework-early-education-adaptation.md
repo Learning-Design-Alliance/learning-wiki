@@ -50,6 +50,8 @@ The report builds its measurement system on the five essentials framework develo
 - [Four organizational supports mediating leadership effects on instruction and learning](four-organizational-supports-leadership-pathways.md)
 - [The Five Essential Supports framework organizes school development measures](five-essential-supports-survey-measures-framework.md)
 - [Five essential supports for student learning framework](five-essential-supports-ccsr-sipaaa.md)
+- [Four types of R&D enabling conditions in school systems: mindsets, behaviors and routines, structures and tools, and systems supports](rd-enabling-conditions-four-types.md)
+- [Six R&D practice dimensions (strategy, structure, intensity, spread, engagement, evidence) with a four-stage Nascent-to-Sustaining rubric](rd-practice-dimensions-six-rubric.md)
 
 ## Examples
 

@@ -59,9 +59,11 @@ Role assignment operationalizes the positive interdependence and individual acco
 6. Rotate roles across sessions and debrief briefly on how the roles functioned
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a minimal-participation structure that complements role assignment in larger groups
 - [Jigsaw](jigsaw.md) — the strongest form of role assignment, where roles carry distinct content expertise
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — role assignment applied to reading comprehension, with roles cycling through the group
+- [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — students rotate through predictor, questioner, clarifier, and summarizer roles while reading expository text; the roles encode the comprehension strategies being taught.

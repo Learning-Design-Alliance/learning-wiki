@@ -39,6 +39,7 @@ The article introduces a tool intended for funders who have chosen place-based s
 ## Related Elements
 
 - [The Community Ecocycle tool for funder reflection and action in place-based systems change](community-ecocycle-tool.md)
+- [Skills-first network logic model](skills-first-network-logic-model.md)
 
 ## Examples
 

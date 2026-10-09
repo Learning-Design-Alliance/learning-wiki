@@ -49,3 +49,4 @@ Pilot study (January-May 2002) with six student teachers using weekly online dia
 - [Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)](revised-prompts-advance-sophisticated-analysis.md) — related
 - [Teacher educators can coach student teachers in reflective practice using personal histories, dialogue journals, and group discussions](teacher-educator-coaching-reflective-practice-methods.md) — related
 - [Learning to deal with uncertainty and ill-defined dilemmas is often not a priority in preservice teacher education programs](uncertainty-preparation-neglected-in-teacher-education.md) — related
+- [Many teachers' knowledge of students' GC and CoV increased in sophistication over the school year, and teachers reported the professional learning and just-in-time supports were helpful](teacher-knowledge-and-pl-supports-grew.md) — related

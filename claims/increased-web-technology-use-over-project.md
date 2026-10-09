@@ -64,3 +64,5 @@ Case study observations (Theme 3) on resource use: both educators incorporated m
 ## Related Claims
 - [The CHAT approach yielded richer understanding of technology integration than a cognitive paradigm, but pilot findings must be interpreted cautiously (two subjects only)](chat-richer-understanding-pilot-caveats.md) — related
 - [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
+- [Haitian teachers reported that pilot trainings improved their teaching, classroom management, and use of technology](haiti-teacher-training-self-reported-improvements.md) — related
+- [Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways](overarching-conceptions-expanded-multiple-technologies.md) — related

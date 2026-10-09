@@ -61,6 +61,7 @@ Self-knowledge measures work because they feed the monitoring loop of self-regul
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the reflection routines that generate self-knowledge data
 - [Activating Prior Knowledge](activating_prior_knowledge.md) — inventories surface prior knowledge that can then be activated in instruction
 - [Integrate evaluation into the learning process with learners participating in creating and understanding standards](integrate-evaluation-into-learning-process-participation.md)
+- [Interview the student one-on-one about strengths, interests, and growth areas before writing the IEP](student-interview-strengths-interests-growth-areas.md)
 
 ## Examples
 - **Reading interest inventories** (e.g., the Burke Reading Interview) administered at the start of the year to match students with self-selected texts.

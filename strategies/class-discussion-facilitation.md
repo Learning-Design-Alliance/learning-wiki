@@ -61,9 +61,11 @@ Discussion improves outcomes when it requires learners to generate explanations 
 6. **Close with synthesis** — publicly summarize the ideas surfaced, name disagreements that remain, and connect to the day's learning goal; unresolved tension can be carried forward deliberately [Cognitive disequilibrium motivates conceptual change.](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]
 
 ## Related Strategies
+
 - [Think-Aloud](../elements/think-aloud.md) — modeling the reasoning that discussion then asks students to perform
 - [Check-In](../elements/check-in.md) — low-stakes opening talk that builds the norms discussion depends on
 - [Act It Out](../elements/act-it-out.md) — embodied alternative for learners who struggle with verbal-only participation
+- [Use a variety of talk formats — whole-class, small group, and pair work — strategically to encourage participation](varied-talk-formats-whole-class-small-group-pair.md)
 
 ## Patterns That Use This Strategy
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the parent pattern; facilitation is its operational core

@@ -50,3 +50,5 @@ Topic-prevalence analysis of Layers responses (N = 7,429 sentence rows) against 
 - [Teachers who made productive adaptations were more likely to consider learning progressions and adapt lessons to below-grade-level content](productive-adapters-consider-progressions-below-grade-level.md) — related
 - [Teachers framed communication and digital literacy as foundational skills requiring clear, contextually relevant definitions](teachers-frame-communication-digital-literacy-foundational.md) — related
 - [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
+- [IDC's interest cycle requires educators to treat interests as launching points for deeper immersion, not static topics](interest-cycle-triggering-immersing-extending.md) — related
+- [BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate](students-perceive-statistics-as-neutral-subject.md) — related

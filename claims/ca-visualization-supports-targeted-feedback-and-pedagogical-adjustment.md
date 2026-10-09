@@ -50,3 +50,4 @@ Cross-case qualitative finding (RQ1-1) from interviews, cognitive walkthroughs, 
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
 - [Teachers use extracted analytics more for supervision than for guidance, with monitoring the dominant observed action](extracted-analytics-more-supervision-than-guidance.md) — related
 - [Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement](ri-charter-dashboards-reduced-surprise-stress.md) — related
+- [Coaches reported that usage dashboards grounded coaching conversations in evidence rather than perception and prompted reality checks on implementation](dashboards-evidence-based-coaching-conversations.md) — related

@@ -48,3 +48,4 @@ Secondary analysis regrouping the two-year drop data: online drops before course
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - [Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict](withdrawal-reasons-similar-across-modalities.md) — related
 - [Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method](attrition-non-significant-technical-math-quasi-experiment.md) — related
+- [Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration](modality-moderates-courseware-experience.md) — related

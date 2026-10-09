@@ -45,3 +45,4 @@ Interview-based field scan finding from the Question 3 section. One CBO leader e
 ## Related Claims
 - [District officials and CBO leaders believed WSS implementation success should be assessed along multiple dimensions including engagement, student outcomes, district resources, and experiences](wss-multidimensional-success-measures.md) — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
+- [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related

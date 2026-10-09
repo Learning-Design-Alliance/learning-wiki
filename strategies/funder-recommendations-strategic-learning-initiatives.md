@@ -45,6 +45,7 @@ The document is explicitly written as guidance for funders and intermediaries: "
 - [Engage a learning partner to support funders and grantees in designing and carrying out a learning plan and building M&E capacity](learning-partner-supports-funder-grantee-me.md)
 - [Four-part capacity-building support model: scoping, provider matching, cohort learning, and thought partnership](four-part-capacity-building-support-model.md)
 - [Intermediary-led grantee cohort model with four support components](intermediary-led-grantee-cohort-model.md)
+- [Start R&D without a formal office: a single school initiative paired with strategic research support can yield meaningful change](start-rd-without-formal-office.md)
 
 ## Examples
 -

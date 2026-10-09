@@ -67,3 +67,4 @@ This systematic review searched for studies (1977–2020) comparing guided play 
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md) — a narrower finding that bears on this claim
 - [Parents play an important role in young children's math development](parents-role-early-math-development.md) — related
+- [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — related

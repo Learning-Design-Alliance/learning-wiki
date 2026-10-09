@@ -46,3 +46,5 @@ Implementation study finding: the brief identifies "a lack of both curriculum in
 - [Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write](teachers-reported-curriculum-technical-integration-challenges.md) — a broader claim this one bears on
 - [Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write](teacher-planning-time-needed-for-mi-write-use.md) — related
 - [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](monthly-coaching-helped-teachers-integrate-mi-write.md) — related
+- [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
+- [The review reports that insufficient prep time, curriculum-alignment difficulty, and low teacher confidence with new technologies are barriers to implementing simulations in K-12](teacher-time-confidence-barriers-simulation-implementation.md) — related

@@ -44,3 +44,4 @@ Interview-based field scan; participants described schools transparent with stud
 
 ## Related Claims
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](lvn-generator-feedback-loop-case.md) — related
+- [The webinar presents glyphs, pictographs, bar graphs, and Google Forms as ways for K-2 students to collect and analyze data.](k2-glyphs-pictographs-graphs-forms-data-collection.md) — related

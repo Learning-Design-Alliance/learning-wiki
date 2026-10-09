@@ -48,3 +48,4 @@ Surveys and interviews with teachers and staff from the Pittsburgh-based study (
 - [Teachers surveyed about My Reading Academy reported highly positive responses, perceived phonological-awareness gains, and found the program easy to use](mra-teacher-survey-positive-perceptions.md) — related
 - [An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students](zearn-pilot-no-significant-differences.md) — related
 - [School-level outcomes of the whole-school restorative practices program were not significant](safersanschools-school-level-results-not-significant.md) — related
+- [A majority of surveyed teachers (61%) reported that participating in the Verizon Innovative Learning Schools program improved their job satisfaction](vils-teachers-61-percent-improved-job-satisfaction.md) — related

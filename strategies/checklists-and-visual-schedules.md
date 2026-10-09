@@ -63,10 +63,12 @@ Both tools reduce extraneous cognitive load by removing the need to hold a task 
 6. **Fade** the artifact once the sequence is automatic, or retain it only for novel or high-load variants.
 
 ## Related Strategies
+
 - [Scaffolding](../principles/scaffolding.md) — checklists are a form of temporary external structure that should be faded as competence grows
 - [Clear Structure](../principles/clear-structure.md) — visual schedules enact structural clarity at the level of the individual learner's day
 - [Cognitive Load Management](../principles/cognitive-load-management.md) — externalizing sequences frees working memory for the task itself
 - [Accommodations](../elements/accommodations.md) — visual schedules are among the most common documented accommodations for autism and ADHD
+- [Sequencing familiar everyday tasks to teach order of instructions](sequencing-everyday-tasks-k2.md)
 
 ## Examples
 - **TEACCH structured teaching** ([teacch.com](https://teacch.com)) — individual visual schedules (object, picture, or written) are the centerpiece of the TEACCH approach for learners with autism, with systematic progression from concrete to abstract representations.

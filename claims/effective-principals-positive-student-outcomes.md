@@ -45,3 +45,4 @@ The playbook reports, citing Grissom, Egalite, & Lindsay's systematic synthesis 
 ## Related Claims
 - [After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools](dcps-new-principals-reading-gain-4-percentile-points.md) — a narrower finding that bears on this claim
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
+- [The report attributes to Grissom et al. (2021) that principals of color are especially likely to have positive impacts on students and teachers of color](principals-of-color-positive-impacts.md) — related

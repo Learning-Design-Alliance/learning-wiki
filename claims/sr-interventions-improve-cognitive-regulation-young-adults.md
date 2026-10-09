@@ -46,3 +46,4 @@ The brief summarizes its OPRE comprehensive review of self-regulation interventi
 - [Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — a narrower finding that bears on this claim
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — reports the opposite
+- [Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor](childhood-poverty-impairs-adult-working-memory.md) — related

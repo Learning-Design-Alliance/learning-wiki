@@ -47,3 +47,4 @@ The guide asserts, citing a 4-H SERIES curriculum introduction, that the learnin
 - [Conceptual change strategies in cooperative groups reduced misconceptions in community college chemistry, but poor group leadership undermined discussion](cooperative-conceptual-change-chemistry-misconceptions.md) — related
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
 - [The packet's authors assert that pre-, on-site, and post-visit activities build on students' newly gained knowledge when performed in series](field-trip-activity-series-builds-knowledge.md) — a narrower finding that bears on this claim
+- [Well-structured collaborative learning is extremely effective, especially for learning concepts and complex problem solving](well-structured-collaborative-learning-effective.md) — related

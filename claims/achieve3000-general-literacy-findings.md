@@ -46,3 +46,4 @@ WWC review of two studies including 32,110 students: Borman et al.'s quasi-exper
 - [Comprehension domain: one study found a substantively important positive effect and one an indeterminate effect](achieve3000-comprehension-mixed-findings.md) — related
 - [Hill and Lenard (2016): LevelSet Lexile effects were negative in spring 2014 and positive in spring 2015](kidbiz-levelset-year-contrast.md) — related
 - [WWC rates Achieve3000® as having potentially positive effects on comprehension and general literacy achievement for adolescent readers](achieve3000-potentially-positive-literacy-effects.md) — a broader claim this one bears on
+- [Achieve3000 usage predicted about 3.5 percent of current Lexile scores after controlling for pre-test Lexile, motivation, and age](achieve3000-usage-predicts-lexile-regression.md) — related

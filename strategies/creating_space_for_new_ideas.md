@@ -72,8 +72,10 @@ Innovation in schools is fundamentally a team learning problem, and team learnin
 7. Scale what the evidence supports; retire what it doesn't, publicly and without blame
 
 ## Related Strategies
+
 - [Professional Learning Communities](../principles/communities-of-practice.md) — the collaborative structure within which experimentation becomes shared learning rather than isolated risk
 - [Coaching](../elements/coaching.md) — provides the individual support that makes risk-taking survivable for the teacher and their students
+- [RPIP focus-group professional learning cycle: consultancy, four-week try-out with commitment and hypothesis, then artifact debrief](rpip-consultancy-tryout-debrief-cycle.md)
 
 ## Examples
 - **Networked Improvement Communities (Carnegie Foundation)** — Bryk et al.'s model in which schools across a network run rapid PDSA cycles on shared problems, with failures documented as learning for the whole network ([Carnegie Foundation](https://www.carnegiefoundation.org))

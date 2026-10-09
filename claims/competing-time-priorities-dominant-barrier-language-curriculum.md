@@ -47,3 +47,4 @@ Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach fo
 - [Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier](knowledge-barriers-language-development-procedural.md) — related
 - [Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations](memory-habit-barriers-contextual.md) — related
 - [Daily teaching demands competed with and distracted from a sustained developmental focus on instructional improvement](daily-demands-compete-with-developmental-focus.md) — possibly the same claim (merge candidate)
+- [Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support](sor-priority-uneven-implementation-genai-context.md) — related

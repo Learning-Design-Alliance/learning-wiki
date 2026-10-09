@@ -60,9 +60,11 @@ Teacher–student relationship quality is one of the most consistent correlates 
 7. When discipline is needed, frame it empathically — private, perspective-taking, oriented to the student's goals [Brief empathic discipline intervention reduces suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+M].
 
 ## Related Strategies
+
 - [Active Listening](../strategies/active-listening.md) — the conversational skill that makes individual interactions feel genuine rather than procedural
 - [5-Minute Writing Conferences](../strategies/5-minute_writing_conferences.md) — a time-efficient structure combining relationship and feedback
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — knowing students' backgrounds enables instruction that connects to them
+- [Teachers should learn about students' lives and commitments outside school and build relationships, which students say increases respect, effort, and engagement](teachers-learn-students-outside-commitments.md)
 
 ## Examples
 - **2×10 relationship strategy** — a teacher spends two minutes of non-academic conversation with a targeted student for ten consecutive days; widely used in positive behavior support implementations.

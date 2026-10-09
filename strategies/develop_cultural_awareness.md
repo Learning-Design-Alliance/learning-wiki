@@ -60,8 +60,10 @@ Cultural awareness is a precondition for [Culturally Responsive Teaching](../pri
 6. **Sustain the work.** Embed reflection in ongoing [Collaboration](../elements/collaboration.md) structures (inquiry groups, peer observation) rather than one-time training.
 
 ## Related Strategies
+
 - [Building Empathy](../principles/building-empathy.md) — the underlying disposition this strategy develops in educators
 - Community-based learning — grounds cultural awareness in direct contact with students' communities
+- [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 
 ## Examples
 - **Culturally Responsive Teaching institutes** (e.g., work based on Gay, 2010, and Hammond's *Culturally Responsive Teaching and the Brain*) combine self-reflection protocols with instructional rehearsal and coaching.

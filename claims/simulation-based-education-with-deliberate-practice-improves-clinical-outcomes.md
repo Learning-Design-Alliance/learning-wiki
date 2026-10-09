@@ -63,3 +63,4 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 - [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
+- [The review reports that participants in simulation-game conditions had significantly higher skill-based knowledge outcomes than those in non-game conditions](simulation-games-higher-skill-based-knowledge.md) — related

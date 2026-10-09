@@ -48,3 +48,4 @@ Cross-case conclusion drawn from interviews: principals described dealing with s
 - [Women report child-related language motivation regardless of parental status, suggesting a gendered pattern](gendered-parental-motivation-maori-hl2.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
 - [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related
+- [Personas developed without care and empathy can create stereotypes](personas-risk-stereotypes-without-empathy.md) — related

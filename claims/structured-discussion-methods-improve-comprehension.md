@@ -147,3 +147,5 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations](annevelink-personalised-instruction-path-test.md) — related
 - [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](authentic-intellectual-work-complex-thinking-gains.md) — related
 - [Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations](intellectually-ambitious-instruction-improves-learning.md) — related
+- [Productive discourse practices correlate with improved performance on standardized tests of reasoning](discourse-practices-correlate-reasoning-tests.md) — related
+- [Teacher control over small-group dialogue is inversely related to groups' socially shared regulation of learning](teacher-control-inverse-ssrl-physics.md) — related

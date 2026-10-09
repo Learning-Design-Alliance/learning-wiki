@@ -58,8 +58,10 @@ Self assessment works when learners have accurate standards to judge against; ru
 5. Learners revise and resubmit with the completed self-assessment attached; instructor grades against the same rubric and notes where self-ratings diverged.
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented_feedback.md) — self-assessment findings must convert into specific revision actions to be useful
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lighter-weight reflection structure that can precede full rubric self-assessment
+- [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
 
 ## Examples
 - **Calibrated Peer Review (CPR)** (https://cpr.molsci.org) — discipline-agnostic system where students score exemplars for accuracy before evaluating their own and peers' work against a rubric.

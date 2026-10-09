@@ -39,6 +39,7 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 ## Related Strategies
 
 - [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
+- [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
 
 ## Examples
 -

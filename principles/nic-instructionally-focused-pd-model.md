@@ -48,6 +48,7 @@ The report recommends that administrators, instructional leaders, and teachers d
 
 - [BMTN network resources: shared deep-engagement definitions and rubrics, a curated task library, and the Change Idea Summary Book](../elements/bmtn-shared-rubrics-task-library-resources.md)
 - [Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice](../strategies/nsi-implementation-support-strategies.md)
+- [Teaching is My Favorite Color: teacher-designed support network for teachers of color](../elements/teaching-is-my-favorite-color-network.md)
 
 ## Key Sources
 - Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/

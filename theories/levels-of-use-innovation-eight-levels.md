@@ -46,6 +46,7 @@ Levels of Use (LoU) is a CBAM diagnostic dimension that "focuses on describing, 
 - [Concerns-Based Adoption Model: change is a process with diagnosable dimensions](cbam-change-process-diagnostic-dimensions.md)
 - [Levels of Use of the Innovation: an eight-level behavioral framework for individual innovation implementation](levels-of-use-innovation-eight-level-framework.md)
 - [Level of Adoption (LoA) survey: an online self-report adaptation of the CBAM Level of Use index](loa-survey-instrument-cbam-adaptation.md)
+- [Five-stage TPACK development trajectory from recognizing to advancing](tpack-development-stages-recognizing-to-advancing.md)
 
 ## Examples
 

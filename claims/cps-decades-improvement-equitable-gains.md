@@ -50,3 +50,4 @@ The article reports district-level outcomes documented in the authors' 2023 hist
 - [Chicago's public school system moved from among the most troubled in America in 1987 to among the most improved thirty years later](chicago-schools-most-troubled-to-most-improved.md) — possibly the same claim (merge candidate)
 - [Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools](challenging-assignments-variable-not-widespread.md) — related
 - [Chicago high school graduation rates improved dramatically over 20 years without a decline in average high school academic performance](cps-graduation-rates-improved-without-performance-decline.md) — a narrower finding that bears on this claim
+- [On the current path the U.S. will miss its 2020 graduation rate target by 310,000 students, most from low-income families](graduation-target-miss-310000-students.md) — related

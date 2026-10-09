@@ -59,9 +59,11 @@ Sentence frames act as a linguistic form of [Chunking](../principles/chunking.md
 6. Fade: replace full frames with starters, then with a prompt, as learners produce the structures independently.
 
 ## Related Strategies
+
 - [Accessible Syntax](accessible_syntax.md) — the broader principle of simplifying sentence structures; frames are its most concrete implementation
 - [Activate Background Knowledge](activate_background_knowledge.md) — frames are more effective when learners already hold the ideas they must express
 - [Think-Aloud Modeling](think-aloud-modeling.md) — modeling frame use makes both the language and the reasoning visible
+- [Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load](templates-and-posted-talk-moves-scaffolds.md)
 
 ## Examples
 - **QTEL (Quality Teaching for English Learners, WestEd)** — uses structured sentence frames across curricular areas so multilingual learners engage grade-level intellectual work while developing academic English. [https://qtel.wested.org](https://qtel.wested.org)

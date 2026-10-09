@@ -58,8 +58,12 @@ The framework applies participatory design principles to educational change: sol
 5. **Sustain and Scale** — institutionalize what works, document the process, and hand ownership to community stewards
 
 ## Related Strategies
+
 - Youth-led participatory action research (YPAR) — the closest research tradition; the Inclusive Innovation Process operationalizes its principles for district settings
 - Community-based participatory research (CBPR) — supplies the methodological grounding for the Inquire and Investigate phase
+- [Convene cross-sector stakeholders in a structured eight-step process to co-develop practice-driven, equity-centered R&D agendas](eight-step-practice-driven-equity-centered-rd-agenda-convening.md)
+- [Open convenings with equity sentence stems and equity champion keynotes to build trust and shared commitment](equity-talks-sentence-stems-and-champion-keynotes.md)
+- [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
 
 ## Examples
 - A school district convened a team of students, district administrators, teachers, community organizations, and the Center for Inclusive Innovation to address an equity-related problem; students led professional development on racialized experiences that educators rated as highly impactful.

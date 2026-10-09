@@ -68,6 +68,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Elaborative Interrogation](elaborative-interrogation.md) — "why" questions that pair retrieval with meaning-making
 - [Formative Assessment](formative-assessment.md) — retrieval quizzes double as evidence for instructional adjustment
 - [Retrieval Practice With Graphic Organizers](retrieval_practice_with_graphic_organizers.md)
+- [Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test](retrieval-practice-three-classroom-strategies.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — spaced-repetition flashcard system implementing expanding retrieval intervals; widely used in medical education.

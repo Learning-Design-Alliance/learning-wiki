@@ -44,10 +44,12 @@ The TPACK Framework (Mishra & Koehler, 2006) adds a technology filter to Shulman
 - [TPACK (Technological Pedagogical Content Knowledge)](tpack.md)
 - [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-seven-elements.md)
 - [Technology Integration Levels (SAMR / RAT / PIC-RAT)](technology-integration-levels.md)
+- [TPACK: technological pedagogical content knowledge as intersecting knowledge domains](tpack-framework-intersecting-domains-niess-roschelle.md)
 
 ## Examples
 
 - [TPACK-based Preschool Language Education course (objectives, content, learning organization, assessment)](../elements/tpack-based-preschool-language-education-course.md)
+- [Four-course online TPACK professional development program (SED 520, 521, 522, 594)](../elements/four-course-online-tpack-program-element.md)
 
 ## Key Sources
 - Dorris, C., Winter, K., O'Hare, L., & Lwoga, E. T. (2024). A systematic review of mobile device use in the primary school classroom and impact on pupil literacy and numeracy attainment: a systematic review. Campbell Systematic Reviews, 20, e1417. https://doi.org/10.1002/cl2.1417

@@ -75,6 +75,7 @@ Empathy interviews work because they position families as experts on their own e
 - [Use paired interviews early in a group's life to build connections and surface participant information](paired-interviews-early-group-bonding.md)
 - [Use sentence completion interviews to elicit learner concerns and generate group themes](sentence-completion-interviews-theme-generation.md)
 - [Combine traditional and nontraditional approaches to family engagement for ELL families](traditional-and-nontraditional-engagement-ell.md)
+- [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the opening move that establishes psychological safety

@@ -48,3 +48,5 @@ Descriptive statistics reported in the Literacy subsection of Part II's contextu
 - [Proposed equivalency system between non-formal and formal education streams will not work without local government uptake](equivalency-system-requires-local-government-uptake.md) — related
 - [Labor export policy depletes the educated segment of the Philippine manpower pool, explaining the remaining workforce's under-education](labor-export-depletes-educated-manpower-pool.md) — related
 - [Nearly 43 million U.S. adults lack the basic English literacy skills required to succeed in the workforce and achieve economic self-sufficiency](43-million-adults-lack-basic-english-literacy.md) — related
+- [US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs](adult-ed-delivery-structures-fractured.md) — related
+- [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](adult-ed-minimal-learner-data-use.md) — related

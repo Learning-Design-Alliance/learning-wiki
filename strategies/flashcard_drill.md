@@ -60,9 +60,11 @@ Flashcards work because the act of pulling an answer from memory strengthens it 
 5. **Reintegrate.** Periodically connect drilled facts back to concept maps, explanations, or practice problems so isolated items become structured knowledge.
 
 ## Related Strategies
+
 - Spaced Repetition Scheduling — the scheduling layer that makes flashcard drill durable rather than cram-like
 - Retrieval Practice Testing — the general principle; flashcards are its most portable implementation
 - Self-Explanation — pairing a "why" prompt with card review to counteract rote recall
+- [Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test](retrieval-practice-three-classroom-strategies.md)
 
 ## Examples
 - **[Anki](https://apps.ankiweb.net)** — open-source spaced-repetition system using the SM-2 algorithm; widely used in medical education, where shared decks for anatomy and pharmacology are a de facto part of USMLE preparation.

@@ -69,3 +69,4 @@ Subgroup comparison of female students in Fort Worth charter versus other distri
 - [Fort Worth charter school students in poverty significantly outgrew district-school students in poverty in reading growth](fort-worth-poverty-students-charter-advantage-reading.md) — related
 - [Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth](fort-worth-hispanic-students-charter-advantage-reading.md) — related
 - [Fort Worth students overall made significantly less reading growth than the state average in 2018-19, with a smaller non-significant math gap](fort-worth-overall-growth-below-state-2018-19.md) — related
+- [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related

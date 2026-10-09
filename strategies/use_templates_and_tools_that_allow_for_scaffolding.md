@@ -58,9 +58,11 @@ Templates work by offloading the structural demands of a task so working memory 
 5. Ask learners to self-explain how the template's structure served the task's purpose, supporting internalization of the schema [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]
 
 ## Related Strategies
+
 - [Modeling and Think-Alouds](../strategies/modeling-and-think-alouds.md) — demonstrating template use makes the reasoning behind the structure visible
 - [Gradual Release of Responsibility](../strategies/gradual-release-of-responsibility.md) — the fading sequence (I do → we do → you do) is the mechanism by which templates build independence
 - [Self-Regulated Strategy Development](../strategies/self-regulated-strategy-development.md) — SRSD embeds planning templates within explicit strategy instruction and self-monitoring
+- [Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load](templates-and-posted-talk-moves-scaffolds.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development)** — Graham and Harris's extensively validated approach uses mnemonic planning templates (e.g., POW+TREE for persuasive writing) that are explicitly taught, modeled, and faded as students internalize the strategy ([https://srsdonline.ca](https://srsdonline.ca))

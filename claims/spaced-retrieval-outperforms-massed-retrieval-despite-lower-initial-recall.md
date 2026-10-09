@@ -91,3 +91,4 @@ In the same Karpicke and Bauernschmidt (2011) experiment, as the chapter reports
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Structured CAI with spaced practice and spaced review produced better recall and retention than unstructured CAI](structured-cai-spacing-improves-recall-and-retention.md) — a narrower finding that bears on this claim
 - [The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone](goldlist-method-improves-l2-vocabulary-retention.md) — a narrower finding that bears on this claim
+- [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — related

@@ -45,11 +45,13 @@ FH2T is a digital game "designed to strengthen students' understanding of algebr
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](../claims/ability-level-differences-verbal-problem-solving.md) [~W]
 
 ## Related Elements
-- 
+
+- [From Here to There (FH2T): a game-based application teaching algebra through discovery-based puzzles with manipulable symbols and immediate feedback](fh2t-game-based-algebra-application.md)
 
 ## Examples
 
 - [Deploy FH2T as supplemental practice with GM tools integrated into teacher instruction](../strategies/fh2t-supplemental-integration-strategy.md)
+- [Add a gestures-teaching world to enable differentiated starting points, and expand content beyond linear equations](../strategies/fh2t-differentiation-and-content-expansion-strategy.md)
 
 ## Key Sources
 - From Here to There (FH2T): Program Description and Evaluation Evidence. (2023). https://www.evidenceforlearning.org.au/the-toolkit/from-here-to-there/

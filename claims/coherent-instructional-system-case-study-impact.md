@@ -44,3 +44,4 @@ The brief uses "a case study from a U.S. school district" to examine "the practi
 
 ## Related Claims
 - [A 2026 case-study brief describes a practical model of a coherent instructional system for reading and science improvement that school leaders can adapt](coherent-instructional-system-reading-science-case-study.md) — possibly the same claim (merge candidate)
+- [The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.](obc-instructional-coherence-engagement-outcomes.md) — related

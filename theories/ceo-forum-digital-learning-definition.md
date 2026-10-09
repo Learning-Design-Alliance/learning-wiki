@@ -39,7 +39,8 @@ The report defines digital learning as "the educational approach that integrates
 - [Pd Integration Training Doubles Reliance](../claims/pd-integration-training-doubles-reliance.md) [+M]
 
 ## Related Theories
-- 
+
+- [Powerful learning with technology is the product of meaningful use, inclusive access, and school leadership](powerful-learning-meaningful-use-inclusive-access-leadership.md)
 
 ## Examples
 -

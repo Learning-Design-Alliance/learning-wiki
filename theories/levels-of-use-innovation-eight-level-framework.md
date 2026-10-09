@@ -47,6 +47,7 @@ Levels of Use of the Innovation (LoU) is a generic implementation variable descr
 - [Stages of Concern About the Innovation: a seven-stage developmental taxonomy of individuals' concerns](stages-of-concern-seven-stage-taxonomy.md)
 - [Level of Adoption (LoA) survey: an online self-report adaptation of the CBAM Level of Use index](loa-survey-instrument-cbam-adaptation.md)
 - [Seven Stages of Concern About an Innovation](seven-stages-of-concern-innovation.md)
+- [Five-stage TPACK development trajectory from recognizing to advancing](tpack-development-stages-recognizing-to-advancing.md)
 
 ## Examples
 

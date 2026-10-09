@@ -50,6 +50,7 @@ The authors adapted the ICAP framework by merging it with Bloom's revised taxono
 - [Bloom's Taxonomy as a six-level scheme for classifying the cognitive level of multiple-choice questions](blooms-taxonomy-classifies-mc-question-cognitive-level.md)
 - [Revised Bloom's Taxonomy process dimensions as a framework for framing value education objectives](rbt-process-dimensions-value-education-objectives.md)
 - [Bloom's Taxonomy](blooms-taxonomy.md)
+- [ICAP framework: four engagement modes from Interactive to Passive](icap-four-engagement-modes-classroom-discourse-primer.md)
 
 ## Examples
 -

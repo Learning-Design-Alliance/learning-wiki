@@ -44,3 +44,4 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 
 ## Related Claims
 - [In 2003, eighth-grade public school students in Puerto Rico averaged 212 in NAEP mathematics, 64 points lower than the national average of 276.](pr-grade8-2003-naep-math-lower-than-nation.md) — related
+- [On the current path the U.S. will miss its 2020 graduation rate target by 310,000 students, most from low-income families](graduation-target-miss-310000-students.md) — related

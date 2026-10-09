@@ -44,3 +44,4 @@ Narrative review attributing this analysis to Joyce (2004), who also notes the C
 
 ## Related Claims
 - [Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes](academy-influence-not-major-factor.md) — related
+- [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — related

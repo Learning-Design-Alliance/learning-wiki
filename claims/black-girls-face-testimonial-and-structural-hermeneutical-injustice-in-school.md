@@ -89,3 +89,4 @@ The author's argument: a "systematic absence of knowledge about the speaker’s 
 - [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — a broader claim this one bears on
 - [Girls' experiences of injustice were neglected and girls were expected to accept unfair treatment](girls-injustice-neglected.md) — related
 - [Educational psychology has long neglected marginalized learners and remains complicit in imposing normative standards and social stratification](ed-psych-neglect-marginalized-learners-normative-standards.md) — a broader claim this one bears on
+- [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related

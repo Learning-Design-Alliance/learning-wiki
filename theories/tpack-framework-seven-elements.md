@@ -43,12 +43,15 @@ TPACK is presented as "an influential foundation theory for teaching with techno
 - [Five-foundations framework for learning environments](five-foundations-learning-environments-framework.md)
 - [TPACK framework (Technological, Pedagogical and Content Knowledge) for teacher technology integration](tpack-framework-teacher-technology-integration.md)
 - [CT–PCK construct framework: five core computational thinking practices integrated into middle school math via three instructional strategies](ct-pck-construct-framework.md)
+- [Three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-three-circle-framework.md)
+- [TPACK: technological pedagogical content knowledge as intersecting knowledge domains](tpack-framework-intersecting-domains-niess-roschelle.md)
 
 ## Examples
 
 - [TPACK-based Preschool Language Education course (objectives, content, learning organization, assessment)](../elements/tpack-based-preschool-language-education-course.md)
 - [Use TPACK-based analysis of teaching video cases and design artifacts to build novice instructional designers' metacognition](../strategies/tpack-video-case-analysis-for-idc-metacognition.md)
 - [Iterative TPACK design-practice cycle with feedback, revision, micro-teaching, and reflection](../designs/iterative-tpack-design-practice-cycle.md)
+- [Four-course online TPACK professional development program (SED 520, 521, 522, 594)](../elements/four-course-online-tpack-program-element.md)
 
 ## Key Sources
 - Ren, X., Chano, J., & Saihong, P. (2025). Developing a TPACK-based Course to Promote the Pre-service Preschool Teachers' Instructional Design Competence. Higher Education Studies, 15(2). https://doi.org/10.5539/hes.v15n2p37

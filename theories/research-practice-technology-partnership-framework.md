@@ -40,7 +40,10 @@ The article extends research-practice partnerships into research-practice-techno
 - [Predictive models built in a modelable ecosystem generalize across institutions](../claims/cross-institutional-generalizability-coursekata-models.md) [+W]
 
 ## Related Theories
+
 - [Modelability Three Design Principles](modelability-three-design-principles.md)
+- [Research-Practice-Industry Partnership (RPIP) model with four pillars for involving educators in edtech development](rpip-four-pillars-model.md)
+- [The skills-first ecosystem framework](skills-first-ecosystem-framework.md)
 
 ## Examples
 

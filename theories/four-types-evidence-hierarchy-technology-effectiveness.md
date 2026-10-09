@@ -41,7 +41,8 @@ The guide presents an organizing framework of four evidence types that educators
 - [Different evidence types differ in how strongly they can support claims about effectiveness](../claims/evidence-types-differ-support-strength.md) [+W]
 
 ## Related Theories
-- 
+
+- [Research-based design: edtech products should derive their purpose, framework, and design decisions from learning sciences research](research-based-design-edtech.md)
 
 ## Examples
 -

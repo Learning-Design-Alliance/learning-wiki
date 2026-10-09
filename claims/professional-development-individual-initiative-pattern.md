@@ -63,3 +63,5 @@ The same hierarchical model analysis found school-level characteristics contribu
 
 ## Related Claims
 - [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related
+- [Carnegie Learning attributes positive practitioner feedback to connecting research to participants' needs, lowering effort barriers, and compensating participation](carnegie-learning-practitioner-engagement-tactics.md) — related
+- [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related

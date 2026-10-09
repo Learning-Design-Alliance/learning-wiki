@@ -59,9 +59,11 @@ Guided notes work by reducing the transcription burden of note-taking — learne
 6. Assign a follow-up use: quiz the next session, or use the notes in a [Practice](../elements/practice.md) activity.
 
 ## Related Strategies
+
 - **Advance Organizers** — guided notes function as a concrete advance organizer delivered at the point of note-taking
 - **Retrieval Practice** — completed guided notes become the material learners later retrieve from, not re-read
 - **Direct Instruction** — the natural pairing; guided notes structure the "present content" phase
+- [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](guided-note-taking-while-watching-videos.md)
 
 ## Examples
 - **Cornell Notes** (Cornell University Learning Strategies Center) — the canonical two-column format with cue, notes, and summary sections; widely adopted in K–12 AVID programs ([https://lsc.cornell.edu](https://lsc.cornell.edu/notes/))

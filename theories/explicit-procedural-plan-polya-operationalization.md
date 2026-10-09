@@ -39,7 +39,8 @@ The article describes textbook problem-solving plans derived from Polya's four p
 - [Formatted Problem Solving Plan Posttest Advantage](../claims/formatted-problem-solving-plan-posttest-advantage.md) [+M]
 
 ## Related Theories
-- 
+
+- [Algorithms defined as precise step-by-step plans with four characteristics: finite, inputs and outputs, effective, definite](algorithm-definition-four-characteristics-k2.md)
 
 ## Examples
 

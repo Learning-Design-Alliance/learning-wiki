@@ -49,3 +49,5 @@ This is a single-session collaborative task in one academic context (pre-service
 - [Strong feelings about a community problem positively influence group growth](strong-feelings-about-problem-influence-group-growth.md) — related
 - [Students segregated into language cliques whenever allowed to choose peer interactions, despite the 50-50 enrollment design](language-clique-segregation-peer-choice.md) — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — reports the opposite
+- [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](students-report-peer-collaboration-supports-learning.md) — related
+- [Teacher control over small-group dialogue is inversely related to groups' socially shared regulation of learning](teacher-control-inverse-ssrl-physics.md) — related

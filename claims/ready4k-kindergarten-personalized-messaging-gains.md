@@ -66,3 +66,4 @@ Within the same kindergarten follow-up, "the largest literacy gains observed amo
 - [READY4K! improves teacher-reported parental involvement at school](ready4k-improves-teacher-reported-involvement.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
 - [READY4K! literacy gains are largest for children in the lower half of the baseline skill distribution](ready4k-largest-gains-lower-baseline-half.md) — related
+- [An online individualized instruction program was highly effective in improving literacy skills in preschool through third grade](individualized-instruction-reading-effective-p3.md) — related

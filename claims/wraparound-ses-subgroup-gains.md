@@ -49,3 +49,5 @@ Subgroup analyses from the same 2023-24 quasi-experimental study of the Wraparou
 - [iRCL effects were consistent across grades, especially pronounced in Grades 4 and 5, with significant benefits for Hispanic, Black, economically disadvantaged, English learner, and disability subgroups](irecl-grade-and-subgroup-effects.md) — related
 - [Positive STEMscopes Math effects were found for Economically Disadvantaged (+0.51), Hispanic (+0.35) and Black (+0.74) students](stemscopes-math-subgroup-effects.md) — related
 - [Platform treatment effects did not vary across demographic subgroups, suggesting equal benefit regardless of racial background](mastery-platform-effects-uniform-across-demographics.md) — related
+- [Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds](linguistic-simplification-improves-math-performance.md) — related
+- [Comprehensive programs offering wraparound support increase college completion rates, including when replicated in other contexts](wraparound-support-increases-college-completion.md) — related

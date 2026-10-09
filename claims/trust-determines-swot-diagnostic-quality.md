@@ -45,3 +45,4 @@ The article's theoretical synthesis of leadership and trust research reports tha
 ## Related Claims
 - [SWOT in educational settings is typically applied superficially, episodically, and detached from improvement cycles](swot-applied-superficially-episodically-in-schools.md) — related
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related
+- [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related

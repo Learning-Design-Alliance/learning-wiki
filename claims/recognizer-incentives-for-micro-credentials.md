@@ -1,0 +1,53 @@
+---
+type: claim
+title: Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials
+description: Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials
+id: recognizer-incentives-for-micro-credentials
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-09
+evidence_strength: weak
+sources:
+  - id: dan-brown-2019
+    resource: "https://digitalpromise.dspacedirect.org/items/6a538240-80bc-442b-a60d-7f537cbc3bec"
+    title: "Dan Brown. (2019). Research and Educator Micro-credentials. Digital Promise. https://digitalpromise.dspacedirect.org/items/6a538240-80bc-442b-a60d-7f537cbc3bec"
+    author: Dan Brown
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+
+## Subclaims
+`q2 i?` Recognizers confer continuing education units, stipends, and postsecondary credit for micro-credentials; examples include Kettle Moraine salary increases of $200 to $600 and University of North Dakota approval of 93 NEA micro-credentials as professional development equivalency credits. [→ Dan Brown 2019](#dan-brown-2019)
+
+## Evidence
+
+### Dan Brown 2019
+
+Dan Brown. (2019). Research and Educator Micro-credentials. Digital Promise. https://digitalpromise.dspacedirect.org/items/6a538240-80bc-442b-a60d-7f537cbc3bec
+
+`q2 · i?` · `design · r2`
+
+Descriptive reporting on recognizer adoption: Kettle Moraine School District (288 teachers) has attached incentives since the 2015-2016 school year, with "a $200 to $600 base salary increase, with most worth a $400 bump." In 2018 the University of North Dakota review board verified all 93 NEA micro-credentials for licensure renewal, salary advancement, and in some cases graduate credit.
+
+> "Rewards for earning a micro-credential range from a $200 to $600 base salary increase, with most worth a $400 bump."
+
+## Discussion
+
+
+## Related Claims
+- [OpenStax Kinetic shifted from gift cards to shareable digital badges to incentivize adult learners to participate in research studies](digital-badges-incentivize-opt-in-research-participation.md) — related
+- [As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential](dp-ecosystem-2017-submission-uptake.md) — related
+- [Kettle Moraine School District's year-long micro-credential implementation, with base-pay increases per credential earned, was followed by greater collaboration and collegiality](kettle-moraine-micro-credential-case.md) — related
+- [In Kettle Moraine School District, about 80 percent of teachers earned at least one pre-approved micro-credential over three years, raising base salaries by $100 to $600](kettle-moraine-salary-linked-micro-credential-adoption.md) — related
+- [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](micro-credentials-features-of-effective-professional-development.md) — related
+- [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](nine-states-ceus-no-coherent-valuation-framework.md) — related
+- [U.S. recertification policy relies heavily on seat-time CEUs: 44 states require them while only six require performance indicators for licensure renewal](recertification-seat-time-ceu-dominance.md) — related
+- [State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns](state-directors-micro-credential-concerns.md) — related

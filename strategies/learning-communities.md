@@ -68,6 +68,7 @@ Learning communities work because knowledge is socially constructed and because 
 - [Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support](foster-community-counsellor-education-practices.md)
 - [Emphasize cooperation and communication to train students' cooperative consciousness](cooperation-communication-train-cooperative-consciousness.md)
 - [Use cooperative group work especially in areas requiring mutual trust, communication, and practice, and direct higher education students to cooperation often](cooperative-learning-group-work-recommendation.md)
+- [Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work](group-roles-rubrics-debriefs-belonging.md)
 
 ## Examples
 - **[Community of Inquiry](../principles/community-of-inquiry.md)** frameworks in online courses — sustained forum discourse combining social, cognitive, and teaching presence (see the [Community of Inquiry framework](https://www.thecommunityofinquiry.org)).

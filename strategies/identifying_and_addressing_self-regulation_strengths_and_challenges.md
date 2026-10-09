@@ -60,9 +60,11 @@ Self-regulation capacities — inhibitory control, working memory, and attention
 6. **Review and adjust.** Revisit the profile periodically; regulation demands and capacities change with content, context, and development.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — a lightweight routine for surfacing emotional states that feed the identification step
 - [Achievable micro-goals](../strategies/achievable_micro-goals.md) — structures tasks so regulatory demands stay within the student's current capacity
 - [Action planning](../strategies/action_planning.md) — converts identified challenges into concrete, student-owned next steps
+- [Leverage what students do well and enjoy to address their learning challenges](leverage-strengths-to-mitigate-challenges.md)
 
 ## Examples
 - **Tools of the Mind (early childhood)** — a curriculum in which pretend play and planning scaffolds (e.g., written play plans) build inhibitory control and working memory within motivating activities; students' plans double as diagnostic evidence of their regulatory development.

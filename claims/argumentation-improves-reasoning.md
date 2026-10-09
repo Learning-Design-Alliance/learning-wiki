@@ -81,3 +81,4 @@ Over several years, two cohorts of young adolescents argued about social issues 
 - [Considering The Opposite Reduces Bias](considering-the-opposite-reduces-bias.md) — related
 - [Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)](explicit-reasoning-instruction-preliminary-large-gains.md) — a narrower finding that bears on this claim
 - [The online space intended to motivate production and critique was not well utilized in Year 1](youmedia-online-space-underutilized.md) — related
+- [Collaborative argumentation benefits students' motivation, content learning, domain argumentation, transferable argumentation skills, and knowledge-building practices](collaborative-argumentation-benefits-summary.md) — related

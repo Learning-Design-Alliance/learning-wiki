@@ -65,3 +65,4 @@ Compromised RCT in a General Chemistry course at a private university, meeting W
 - [Aronson et al. (2002) pen-pal growth mindset intervention produced a statistically significant positive effect on quarter GPA (effect size 0.85)](aronson-2002-significant-gpa-effect.md) — related
 - [Broda et al. (2018) found indeterminate effects on GPA, full-time enrollment, and credits completed in a large randomized trial](broda-2018-indeterminate-effects-large-trial.md) — related
 - [Growth Mindset interventions have no discernible effects on college enrollment and progressing in college](growth-mindset-no-discernible-enrollment-progressing.md) — related
+- [Studies run on the E-TRIALS platform reach far larger samples than is typical in educational research, with nearly 20% enrolling over 1,000 participants](e-trials-large-sample-studies.md) — related

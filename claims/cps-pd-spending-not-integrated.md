@@ -45,3 +45,4 @@ The agenda reports a Chicago Public Education Fund study that identified $123 mi
 ## Related Claims
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](technology-training-spending-inadequate.md) — related
 - [Personalized, practice-focused collaboration around classroom observations was particularly impactful for teachers' practice improvement efforts](personalized-practice-focused-collaboration-observations-impactful.md) — related
+- [American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities](pd-spending-18b-low-satisfaction.md) — related

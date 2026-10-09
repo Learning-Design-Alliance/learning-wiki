@@ -59,8 +59,10 @@ Phonological awareness is one of the strongest predictors of early reading succe
 6. **Assess and adjust.** Use quick oral checks ([Assessment](../elements/assessment.md)) to identify students still confusing sounds and regroup for targeted practice.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — cross-linguistic exercises are a form of activating L1 knowledge for L2 learning
 - [Accessible Syntax](../strategies/accessible_syntax.md) — complementary language-support strategy for ELLs
+- [Assess all students and form small groups with similar abilities so phonological awareness instruction can be provided at the appropriate level](assess-and-group-for-phonological-awareness.md)
 
 ## Examples
 - **WIDA-aligned ELL instruction**: teachers use home-language sound comparisons during phonics blocks, asking students to sort picture cards by initial sound in either language.

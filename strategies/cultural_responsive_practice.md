@@ -60,9 +60,11 @@ Culturally responsive practice improves engagement and achievement when it conne
 6. Maintain rigorous academic demands with scaffolding ([Accommodations](../elements/accommodations.md), [Cognitive Load Management](../principles/cognitive-load-management.md)); cultural responsiveness and explicit instruction are complements, not alternatives.
 
 ## Related Strategies
+
 - [Activating Background Knowledge](../strategies/activating_background_knowledge.md) — the general mechanism by which culturally responsive content connections improve comprehension
 - [Accessible Syntax](../strategies/accessible_syntax.md) — language-level responsiveness for multilingual learners
 - [Actively Listen to What Students Say](../strategies/actively_listen_to_what_students_say.md) — the relational practice that surfaces the cultural knowledge responsiveness depends on
+- [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 
 ## Examples
 - **Funds of Knowledge units (Moll et al., Tucson, AZ)** — Teachers interviewed families about household practices (mechanics, farming, finance) and built math and literacy units around them, positioning students' households as intellectual resources.

@@ -89,3 +89,5 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) — related
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — related
 - [Chaos theory reverses the traditional format of scientific inquiry by presenting a solution for which the researcher must find a fitting problem](chaos-reverses-scientific-inquiry-format.md) — related
+- [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](furtak-metaanalysis-37-studies-inquiry-positive.md) — possibly the same claim (merge candidate)
+- [Inquiry activities can be especially beneficial for students in low-income schools, yet resource demands can impede equitable scaling](inquiry-benefits-low-income-equity-tension.md) — related

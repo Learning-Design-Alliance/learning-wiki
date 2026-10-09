@@ -44,3 +44,4 @@ Comparison of adaptive variables across experimental training groups in a transf
 
 ## Related Claims
 - [Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control](manual-adaptation-slightly-superior-automatic-adaptive-training.md) — related
+- [K-12 educators value product-improvement research more, and individual-adaptation research less, than higher education educators](k12-product-functionality-goal-difference.md) — related

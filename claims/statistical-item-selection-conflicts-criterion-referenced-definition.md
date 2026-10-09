@@ -50,3 +50,4 @@ Theoretical argument in the section on norm-referenced scores from criterion-ref
 - [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](norm-referenced-metrics-hide-structural-development.md) — related
 - [The article argues for shifting from the definition of validity to the concept of effectiveness for classroom assessment score use](shift-from-validity-to-effectiveness.md) — related
 - [Content alignment between a test and its content domain represents key evidence for validating test score inferences](alignment-key-validation-evidence-score-inferences.md) — related
+- [Coaches cautioned that AI-generated feedback should be used formatively rather than for summative assessment because of AI's probabilistic nature](ai-feedback-formative-not-summative-caution.md) — related

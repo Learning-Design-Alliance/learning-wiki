@@ -61,9 +61,11 @@ Calibration addresses the central weakness of peer review — untrained reviewer
 6. **Close the loop.** Instructor spot-checks review quality and addresses systematic misreadings of the rubric in class.
 
 ## Related Strategies
+
 - [Rubric-Based Assessment](rubric-based-assessment.md) — the rubric is the shared instrument that makes calibration possible
 - [Worked Examples](worked-examples.md) — benchmark exemplars function as worked examples of evaluative judgment
 - [Reciprocal Peer Critique](reciprocal-peer-critique.md) — a lighter-weight variant without the calibration gate
+- [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
 
 ## Examples
 - **Calibrated Peer Review™ (CPR)** ([https://cpr.molsci.ucla.edu](https://cpr.molsci.ucla.edu)) — UCLA-originated web system originally developed for chemistry writing assignments; implements the full calibrate → review → self-review → back-review cycle.

@@ -69,3 +69,5 @@ The article's stated consensus position, citing Bijker et al. (2024), Hayes (202
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [LLM configurations show high within-configuration reliability when re-coding the same chat log dataset, with ChatGPT4o/temperature=0 highest](llm-within-configuration-reliability-high.md) — related
 - [Public accountability pressure on school-level improvement data can suppress honest inquiry and incentivize superficial fixes](accountability-pressure-suppresses-honest-inquiry.md) — related
+- [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — related
+- [AI systems relying on black-box models should not be used for high-stakes applications](black-box-ai-not-for-high-stakes-applications.md) — related

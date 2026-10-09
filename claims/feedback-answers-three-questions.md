@@ -61,3 +61,4 @@ Open questions this page should eventually resolve with cited evidence: (1) the 
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — possibly the same claim (merge candidate)
 - [Feedback Improves Learning When It Addresses Task Goals](feedback-improves-learning-when-it-addresses-task-goals.md) — related
 - [Students endorsed descriptive, predictive, and prescriptive data points driven by a desire to understand study progress and act on it](students-endorse-descriptive-predictive-prescriptive-data-points.md) — a narrower finding that bears on this claim
+- [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](feedback-levels-task-process-self-regulation-effective.md) — related

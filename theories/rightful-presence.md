@@ -42,6 +42,7 @@ Rightful presence (Calabrese Barton & Tan) describes legitimate membership in a 
 - [Person-Centered Psychology](person-centered-psychology.md) — both frameworks hold that unconditional acceptance (not acceptance contingent on conforming) is what allows genuine engagement and vulnerability
 - [Inclusion versus rightful presence: a four-dimension contrast (rights, time, burden, culture)](inclusion-versus-rightful-presence-contrast.md)
 - [Rightful presence in education systems: a framework for building equity and justice at the systems level](rightful-presence-in-education-systems.md)
+- [DEIB framework: diversity, equity, inclusion and belonging as interdependent foundations of collaborative learning](deib-framework-collaborative-learning.md)
 
 ## Examples
 

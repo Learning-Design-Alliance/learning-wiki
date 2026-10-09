@@ -49,3 +49,4 @@ Section II.C qualitative findings from facilitator interviews and youth focus gr
 - [Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies](co-regulation-implementation-factors-context-experience-strategy-ease.md) — related
 - [School-level constraints prevented two of nine sites from using the four-part written praise strategy](school-constraints-blocked-written-praise-two-sites.md) — related
 - [Trusting teacher-evaluator relationships lessened evaluation anxiety and encouraged teachers to welcome and use REACH feedback](trusting-teacher-evaluator-relationships-reduce-anxiety.md) — related
+- [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related

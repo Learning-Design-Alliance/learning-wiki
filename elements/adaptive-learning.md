@@ -64,9 +64,11 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Game-Based Mastery Learning (e.g., Duolingo Pattern)](../patterns/game-based-mastery-learning-eg-duolingo-pattern.md)
 
 ## Examples
+
 - A tutoring system recommends new tasks based on recent error patterns
 - A course platform routes learners to review material when they miss prerequisite concepts
 - An instructor changes grouping and support based on ongoing formative evidence
+- [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](../strategies/four-micro-credential-ecosystem-recommendations.md)
 
 ## Key Sources
 - Shute, V. J., & Towle, B. (2003). Adaptive e-learning. *Educational Psychologist, 38*(2), 105-114. [https://doi.org/10.1207/s15326985ep3802_5](https://doi.org/10.1207/s15326985ep3802_5)

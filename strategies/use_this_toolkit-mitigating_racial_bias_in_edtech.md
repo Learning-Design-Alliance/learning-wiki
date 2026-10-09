@@ -57,8 +57,11 @@ The toolkit treats bias mitigation as a design discipline rather than a complian
 5. Institutionalize: document findings, assign ownership, and schedule recurring audits as models and contexts change
 
 ## Related Strategies
+
 - [Address biases in the use of language and symbols](address_biases_in_the_use_of_language_and_symbols.md) — the content-level companion to the toolkit's system-level audit
 - [Accommodate varying technology experience](accommodate_varying_technology_experience.md) — equitable design must also account for unequal access and digital experience
+- [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
+- [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — disaggregated outcome evaluation is the toolkit's core verification step

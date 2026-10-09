@@ -56,3 +56,4 @@ This is a genuine, well-instrumented quasi-experiment with interrater reliabilit
 - [Summarization Effective With Training](summarization-improves-learning.md) — related
 - [Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency](grouping-practices-framed-labeling-problem.md) — related
 - [Teachers receiving 11 or more hours of training on integrating digital content report roughly double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related
+- [Coursemojo's color-coded engagement dots served as a real-time diagnostic that coaches reported enabled in-the-moment scaffolding and small group pulls](engagement-dots-realtime-diagnostic-small-groups.md) — related

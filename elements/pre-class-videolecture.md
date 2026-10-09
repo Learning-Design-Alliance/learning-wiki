@@ -76,6 +76,7 @@ Pre-class video works only when paired with accountability and application: stud
 **[3Blue1Brown](https://www.3blue1brown.com)** — Visually rich animated mathematics explanations illustrating how signaling and dynamic visualization can make abstract content tractable as first exposure.
 
 **Flipped STEM courses (e.g., University of Washington's flipped introductory chemistry)** — Published implementations pairing short pre-class videos with in-class problem solving; studies report moderate learning gains over lecture-only formats [Investigating the effects of a flipped classroom on student learning.](https://doi.org/10.1187/cbe.14-08-0129) [+M]
+- [Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive](../strategies/guided-note-taking-while-watching-videos.md)
 
 ## Key Sources
 - Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)

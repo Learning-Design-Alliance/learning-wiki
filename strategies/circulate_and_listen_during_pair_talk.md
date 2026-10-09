@@ -59,8 +59,10 @@ Circulation converts pair talk from an unmonitored activity into a source of for
 7. Use what you heard to adjust the next instructional move — reteach, extend, or re-pair.
 
 ## Related Strategies
+
 - [Active Listening](active_listening.md) — the same listening discipline applied in one-on-one and whole-class settings
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the routine during which circulation most often occurs
+- [Use minimal, targeted teacher moves: circulate, prompt with questions, and give feedback that prompts strategy change](minimal-teacher-moves-prompting-questions.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — circulation is informal, in-the-moment performance assessment

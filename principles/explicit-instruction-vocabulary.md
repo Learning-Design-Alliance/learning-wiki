@@ -163,6 +163,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Tiered Vocabulary Instruction](../strategies/tiered_vocabulary_instruction.md) — selecting high-utility words intentionally
 - [Word Study](../strategies/word_study.md) — examining patterns and morphology to reinforce word learning
 - Requiring learners to use target words in explanation, discussion, and writing tasks rather than only on quizzes
+- [Use the Ten Times Two routine to build observational vocabulary before data analysis](../strategies/ten-times-two-looking-activity.md)
 
 ## Key Sources
 - Bruce Taylor, D., Mraz, M., Nichols, W. D., Rickelman, R. J., & Wood, K. D. (2009). Using explicit instruction to promote vocabulary learning for struggling readers. *Reading & Writing Quarterly, 25*(2-3), 205-220. [doi:10.1080/10573560802683663](https://doi.org/10.1080/10573560802683663)

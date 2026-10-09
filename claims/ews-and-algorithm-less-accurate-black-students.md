@@ -45,3 +45,4 @@ The report's findings summary states that "Both the prior performance flags and 
 ## Related Claims
 - [A prior performance early warning system and a machine learning algorithm with same-percentage risk-score cutoffs are similarly accurate at identifying students who experience academic problems](prior-performance-ews-similarly-accurate-same-percentage-cutoffs.md) — related
 - [A machine learning algorithm with 10-percent risk-score cutoffs better targets students most likely to experience academic problems and has the advantage in predicting suspensions](algorithm-ten-percent-cutoffs-targets-highest-risk.md) — related
+- [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related
