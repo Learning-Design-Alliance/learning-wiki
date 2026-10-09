@@ -150,6 +150,14 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   `scripts/build_site.sh` is the one build, used by all three workflows; `docs_hooks/two_tier.py`
   says which page is in which tier. PR previews run only for PRs that change the site build
   (or carry the `preview` label).
+- **Pagefind is pinned at 1.5.2 with its binary** (`pagefind-bin-extended`): 1.3.0 silently
+  dropped results for any word at an index-chunk boundary. The search page lists **Main pages**
+  (canonical, then other curated pages, `tier` filter, re-ranked by title and alias coverage)
+  above the full results, turns off Pagefind's long-page penalty, and every page has a header
+  search box.
+- **Deploys replace the published tree** (`keep_files: false`), carrying open PR previews over,
+  so renamed and deleted pages do not accumulate. At about 12 KB a page, the 1 GB Pages limit
+  is near 85,000 pages; past that the long tail has to move off GitHub Pages.
 - **`log.md` holds the current month**; `okf_lib.rotate_log()` moves earlier months to
   `log/YYYY-MM.md`. The log is not on the site.
 - **`wiki-index.json` and `reverse-index.json` are written one record per line**
