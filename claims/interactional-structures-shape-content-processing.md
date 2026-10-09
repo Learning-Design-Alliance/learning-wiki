@@ -55,3 +55,5 @@ The forum reports Purpura and Turner's (2014) analysis of teacher-learner discou
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [EFL instructors were unaware of most OCF strategy types and did not consider students' cognition when deciding on corrective feedback](teachers-unaware-ocf-strategies-cognition-absent.md) — related
 - [Process-oriented SLA studies do not demonstrate a link between modified interaction and language gains](process-studies-no-gain-link.md) — related
+- [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — a narrower finding that bears on this claim
+- [RPP workshops on concrete equity mechanisms influenced instructor practice within one term](rpp-equity-workshops-influenced-instructor-practice.md) — related

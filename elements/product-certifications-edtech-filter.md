@@ -39,10 +39,12 @@ The presentation positions product certifications as a "Baseline requirement to 
 ## Related Elements
 
 - [Outcome-based contracting (OBC) edtech rate cards tying payment to measured learner outcomes](obc-rate-card-contracts-edtech.md)
+- [EdTech Index with third-party validations](edtech-index-third-party-validations.md)
 
 ## Examples
 
 - [Use OBC RFP templates with market validators and ESSA evidence tiers as efficacy criteria](../strategies/obc-rfp-market-validators-essa-tiers.md)
+- [Discover & Decide: establish evidence-based selection criteria and instructional alignment in an RFP process to select edtech for priority learner populations](../strategies/evidence-based-selection-criteria-rfp-edtech.md)
 
 ## Key Sources
 - Van Nostrand, P., Shell, A., & Noakes, S. (2024). Empowering Education Leaders in Edtech Procurement. Digital Promise. https://digitalpromise.dspacedirect.org/items/47852ca7-537f-4f37-84c2-47c4031ef337

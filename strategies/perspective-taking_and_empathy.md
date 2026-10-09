@@ -60,6 +60,7 @@ Teacher–student relationship quality is consistently associated with engagemen
 - [Active Listening](../strategies/active_listening.md) — the core conversational technique through which perspective-taking is enacted
 - [Building Empathy](../principles/building-empathy.md) — the broader principle this strategy operationalizes in teacher–student interactions
 - [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
+- [Use small shared-meal conversations among teachers, students, and a facilitator to surface student perspectives on assessment and strengthen relationships](structured-student-teacher-meal-conversations.md)
 
 ## Examples
 - **Gehlbach et al.'s "birds of similar feathers" intervention** — teachers completed a perspective-taking exercise emphasizing similarities with students, improving teacher–student relationships and achievement: [https://doi.org/10.1037/edu0000042](https://doi.org/10.1037/edu0000042)

@@ -84,9 +84,11 @@ Purposeful reflection works when learners revisit a specific performance, decisi
 - [Experiential Learning](experiential-learning.md) — experience becomes more educative when learners analyze and reinterpret it.
 
 ## Examples
+
 - [Reflection](../elements/reflection.md)
 - [Individual Reflection](../elements/individual-reflection.md)
 - [LDA Reflection](../patterns/lda-reflection.md)
+- [Vary reflection timing between in-the-moment and future-focused reflections](../strategies/vary-in-the-moment-and-future-focused-reflections.md)
 
 ## Key Sources
 - Barrett, H. (2005). Researching electronic portfolios and learner engagement. Retrieved from [http://google.electronicportfolios.com/reflect/whitepaper.pdf](http://google.electronicportfolios.com/reflect/whitepaper.pdf)

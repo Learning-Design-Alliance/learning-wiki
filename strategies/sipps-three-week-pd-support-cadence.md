@@ -43,6 +43,7 @@ In the qualifying research, "teachers met with program implementation staff for 
 - [Online asynchronous professional learning series completed in teams across the school year](stari-professional-learning-series.md)
 - [Implement Exact Path with existing district staff plus vendor-provided professional development](exact-path-existing-staff-vendor-pd-implementation.md)
 - [Implement Exact Path with existing district staff supported by vendor professional development and Customer Success Managers](exact-path-implementation-existing-staff-pd.md)
+- [Self-directed professional learning cycle in recurring two-week PD chunks with public goals and study groups](summit-self-directed-teacher-pd-cycle.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ Case study of the Maker Learning @ Home cohort, an amplifier structure in which 
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](lvn-generator-feedback-loop-case.md) — related
 - [Some initiatives fit no single generalized structure: the OER for Racial Justice project required a novel generator-plus-catalyzer combination](oer-racial-justice-novel-structure.md) — related
 - [AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project](ai-prototyping-accelerates-development-with-feedback-loops.md) — related
+- [Maker champions rank student project ideas and guides as the most needed resource, with online professional development least desired](maker-champions-project-guides-highest-need.md) — related

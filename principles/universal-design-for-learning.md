@@ -30,7 +30,7 @@ sources:
 # Universal Design For Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 6 mixed) · 26 studies (11 review, 6 causal, 5 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 6 of 26 report an effect size · 5 claims rest on one study
+> **Evidence** · 15 claims (9 for, 6 mixed) · 27 studies (11 review, 6 causal, 5 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 6 of 27 report an effect size · 7 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,8 @@ Learners, tasks and outcomes differ across these claims (memory experiments, phy
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](../claims/choice-autonomy-rarely-tested-in-retention-programs.md) [~W] — a narrative review of college retention programmes; bears on choice only indirectly, and says autonomy is seldom tested as a variable.
 - [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion](../claims/disability-inclusion-starts-from-exclusion.md) [+W] — a theoretical argument from an inclusion brief, consistent with designing for variability from the start; it tests nothing.
 - Capp (2017), the meta-analysis of UDL studies cited by the earlier page, has no claim page in the wiki; its findings are not used above.
+- [Teachers reacted unanimously positively to new audio supports on the ReadWorks platform and offered them to all students, not only struggling readers](../claims/teachers-positive-reactions-readworks-audio-supports.md) [+W] — attached 2026-10-09 from Tare et al. (2018), which proposed "Design features to the edges of learner variability to support all students".
+- [Teachers reported that audio supports promoted inclusivity by letting all students access the same content and discuss it together](../claims/audio-supports-inclusivity-shared-discussion.md) [+W] — attached 2026-10-09 from Tare et al. (2018), which proposed "Design features to the edges of learner variability to support all students".
 
 ## Objective and learner-valued goal
 
@@ -154,6 +156,7 @@ The expectation should weaken if comparisons of a design with several routes aga
 - [Cultivate Multiple Ways of Knowing and Making Meaning](../strategies/cultivate_multiple_ways_of_knowing_and_making_meaning.md)
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](../strategies/learner-controlled-assessment-science-fair-projects.md)
 - [Accommodate Varying Technology Experience](../strategies/accommodate_varying_technology_experience.md)
+- [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](../strategies/student-autonomy-default-access-edtech-supports.md)
 
 ### Illustrative
 

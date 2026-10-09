@@ -46,3 +46,4 @@ Qualitative finding from interviews and focus groups with the nine teacher partn
 - [Teachers described Equatio as a time-saver for creating instructional materials, with 42% of survey respondents strongly agreeing it saves them time](equatio-time-saver-workflow.md) — related
 - [Most Equatio-using teachers were not using the tool to support UDL-based practices, with only about 22% reporting use of a given UDL affordance on average](equatio-udl-practice-low-baseline-usage.md) — related
 - [After focus-group professional learning, all nine teacher partners committed to trying Mathspace and reported broader, more integrated uses of Equatio](professional-learning-expanded-equatio-use.md) — related
+- [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](nico-nor-digital-tools-complement-hands-on.md) — related

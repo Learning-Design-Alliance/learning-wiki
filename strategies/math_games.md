@@ -59,8 +59,10 @@ Well-designed math games embed [practice](../elements/practice.md) in a goal str
 5. Record equations or representations produced during play and use them for [assessment](../elements/assess-performance.md) and follow-up instruction.
 
 ## Related Strategies
+
 - [Activating prior knowledge](../strategies/activating-prior-knowledge.md) — games surface informal number knowledge that instruction can build on
 - [Spaced practice](../principles/spaced-learning.md) — repeated game sessions distribute the practice that builds fluency
+- [Use game-generated reports to inform tutors and assign targeted follow-up work](game-reports-inform-tutor-planning-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the game is a motivational wrapper around distributed practice

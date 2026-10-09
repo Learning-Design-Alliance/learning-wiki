@@ -41,6 +41,9 @@ The report offers role-specific recommendations for future OBC engagement: devel
 - [Structure OBC procurement around intentionality questions on learner goals, populations, outcomes, and stakeholders](obc-intentionality-collaboration-questions.md)
 - [Plan mutual accountability for implementation, including rollout plans, educator supports, and early indicators for pivoting](obc-mutual-accountability-implementation.md)
 - [Use OBC RFP templates with market validators and ESSA evidence tiers as efficacy criteria](obc-rfp-market-validators-essa-tiers.md)
+- [Analyze & Inventory: use cross-departmental data analysis and an inventory of existing interventions before buying new edtech](analyze-and-inventory-before-edtech-purchase.md)
+- [Better Planning, Better Process: bottom-up procurement planning through direct contact with teachers and administrators](bottom-up-procurement-planning-strategy.md)
+- [Ensure communication and co-development with school leaders throughout edtech process rollout](edtech-process-communication-co-development.md)
 
 ## Examples
 -

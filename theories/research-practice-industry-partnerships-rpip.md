@@ -43,6 +43,7 @@ RPIPs, emerging from research at the Creativity Labs at UCI, build on participat
 - [Participatory design as a discrete approach to engaging practitioners in research design](participatory-design-practitioner-engagement.md)
 - [Research Practice Partnerships (RPPs) as long-term partnerships focused on problems of practice](research-practice-partnerships-rpp.md)
 - [Research-Practice-Industry Partnership (RPIP) model with four pillars for involving educators in edtech development](rpip-four-pillars-model.md)
+- [Research-Practice-Industry Partnership (RPIP) model](rpip-model.md)
 
 ## Examples
 

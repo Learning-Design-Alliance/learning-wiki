@@ -42,6 +42,7 @@ The brief closes its recommendations with continuous improvement: "Organizations
 ## Related Strategies
 
 - [Provide training and jargon-free resources so council members can make informed contributions](training-and-jargon-free-resources-for-council-members.md)
+- [Continuously assess and re-evaluate feature implementation through user-centered research, including default-setting experiments](continuous-assessment-edtech-feature-implementation.md)
 
 ## Examples
 -

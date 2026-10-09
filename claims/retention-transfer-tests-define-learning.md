@@ -45,3 +45,4 @@ This is a conceptual/definitional statement in the review's section on capturing
 ## Related Claims
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) showed less error on a 24-h transfer test to a new target distance than Self-Before learners and their yoked counterparts.](self-controlled-kr-decided-after-trial-improves-motor-transfer.md) — related
+- [One teacher shifted testing and preparation practices after the student conversations, reportedly resulting in improvements on tests](teacher-practice-change-after-tlc-conversations.md) — related

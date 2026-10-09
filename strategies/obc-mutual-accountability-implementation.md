@@ -45,6 +45,8 @@ The presentation directs districts and providers to establish mutual accountabil
 - [Implement Learning Genie with classroom teachers in regular workflow plus a site- or district-level implementation lead](learning-genie-implementation-staffing-strategy.md)
 - [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
 - [Implement Learning Genie with initial training on observation-based assessment and ongoing technical assistance](learning-genie-implementation-training-strategy.md)
+- [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
+- [Strengthen implementation scaffolding for new edtech rollouts with routines, guided practice, and change management grounded in observed workflows](implementation-scaffolding-change-management.md)
 
 ## Examples
 -

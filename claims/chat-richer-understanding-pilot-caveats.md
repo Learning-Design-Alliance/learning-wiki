@@ -49,3 +49,4 @@ Authors' assessment in the Limitations section: the CHAT approach gave richer un
 - [Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project](increased-web-technology-use-over-project.md) — related
 - [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](novice-idc-growth-simplification-linearity-dogmatism.md) — related
 - [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](multimethod-approach-richer-portrayal-child-performance.md) — related
+- [In pilot testing, teachers successfully integrated science instruction and children deepened their understanding of science core ideas while engaging with science practices and connecting to math and engineering.](nico-nor-teachers-integrated-science-instruction.md) — related

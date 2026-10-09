@@ -44,3 +44,4 @@ The presentation cites the EdTech Evidence 2023 Mid-Year Report, stating "Studen
 
 ## Related Claims
 - [Edtech spending grew from $26B in 2018–2019 to $41B in 2022–2023, with projections over $145B](edtech-market-spending-growth.md) — related
+- [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](edtech-procurement-implementation-gap.md) — related

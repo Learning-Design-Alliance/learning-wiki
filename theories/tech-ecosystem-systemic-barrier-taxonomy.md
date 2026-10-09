@@ -46,6 +46,7 @@ The scan organizes barriers to Black learners' and workers' technology career en
 ## Related Theories
 
 - [The skills-first ecosystem framework](skills-first-ecosystem-framework.md)
+- [State Digital Equity and Opportunity Framework: five domains across education, workforce, and housing sectors](state-digital-equity-opportunity-framework.md)
 
 ## Examples
 

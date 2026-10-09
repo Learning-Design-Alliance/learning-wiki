@@ -52,3 +52,5 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Educators support educating the whole child but report barriers and call for more support](educators-call-support-whole-child.md) — related
 - [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — related
 - [Fewer than five percent of submissions described AI as opening new opportunities for inclusivity, a gap the report highlights](rfi-inclusivity-under-five-percent-gap.md) — related
+- [Sociology-of-science concerns: data-reliance in education risks tunnel-vision, unhealthy reductionism, and inequitable power dynamics](sociology-concerns-datafication-reductionism-power.md) — related
+- [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related

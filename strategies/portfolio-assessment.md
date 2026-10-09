@@ -66,6 +66,7 @@ Portfolios shift assessment from a summative snapshot toward [Assessment for Lea
 - [Conferencing](conferencing.md) — one-on-one portfolio review deepens the feedback loop
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 - [Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios](ai-competency-assessment-strategies.md)
+- [Identify 2-3 intentional pause points for collecting and reflecting on artifacts](identify-two-three-portfolio-pause-points.md)
 
 ## Examples
 - **National Board Certification (USA)** — teachers submit portfolio entries with student work samples, video, and written analysis scored against professional standards ([https://www.nbpts.org](https://www.nbpts.org)).

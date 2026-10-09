@@ -48,6 +48,7 @@ Self-directed learning (SDL) derives from andragogy and describes a process in w
 
 - [Knowles' andragogy (Adult Learning Theory) as the framework for adult immigrant instruction](andragogy-knowles-adult-learning-theory.md)
 - [Three-dimension framework distinguishing self-initiated learning, self-direction as personal attribute, and self-direction as educational goal](sdl-three-dimensions-framework.md)
+- [Five adult learning theories — andragogy, experiential learning, self-directed learning, transformational learning, and neuroscience — as a design framework for adult-learning technology](five-theories-adult-learning-design-framework.md)
 
 ## Examples
 -

@@ -38,6 +38,7 @@ For network resource sharing, the report recommends that organizations "develop 
 ## Related Strategies
 
 - [Sell to consortia of adult education providers and encourage institutions to buy technology together to lower cost and risk](sell-through-adult-education-consortia.md)
+- [Sell to consortia and groups of institutions with flexible licensing to ease buying and expand access for small providers](sell-to-consortia-flexible-licensing.md)
 
 ## Examples
 -

@@ -44,3 +44,4 @@ Usage data from the same retrospective 2021-2022 study of 1,367 second-grade stu
 
 ## Related Claims
 - [Classworks Individualized Learning users scored six points higher on spring math assessment than non-users](classworks-il-six-point-math-advantage.md) — related
+- [Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer](low-declining-summer-edtech-usage.md) — related

@@ -44,6 +44,8 @@ The presentation introduces CIRCLS.org as the "Community Hub for NSF's 'Research
 
 - [SEERNet: five digital learning platforms, six research teams, and a network hub coordinated as research infrastructure](seernet-dlp-research-infrastructure-network.md)
 - [SEERNet hub of five digital learning platforms enabling large-scale education research](seernet-five-dlps-hub.md)
+- [Cities of Learning digital platform](cities-of-learning-platform.md)
+- [Emerging Technology Adoption Framework question-and-criteria instrument](emerging-tech-adoption-framework-instrument.md)
 
 ## Examples
 -

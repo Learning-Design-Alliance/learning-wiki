@@ -51,6 +51,7 @@ The article argues that where EDI initiatives exhibit an explicit commitment to 
 - [Six guiding commitments accompany the framework: reflect deeply, recognize intersectionality, anti-oppression, trauma awareness, trust-based relationships, learning and unlearning](../elements/six-guiding-equity-commitments.md)
 - [Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes](../strategies/anti-oppressive-co-design-practices.md)
 - [Open convenings with equity sentence stems and equity champion keynotes to build trust and shared commitment](../strategies/equity-talks-sentence-stems-and-champion-keynotes.md)
+- [Use empathy interviews with students to identify and address systemic inequities in computing participation](../strategies/empathy-interviews-inclusive-computing-pathways.md)
 
 ## Key Sources
 - Mehelay S, Comeau B, Chandra S, Fancott C, Gordon D, Loftgard K, Louzado C, Nixon SA, Shahid S, Tilson K, Wilson C, Shaw J. (2026). Shifting power: co-developing a framework for equity in healthcare. BMC Health Services Research. https://doi.org/10.1186/s12913-026-14964-7

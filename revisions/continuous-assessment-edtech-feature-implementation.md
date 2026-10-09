@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/continuous-assessment-edtech-feature-implementation.md
+---
+
+# Revision history: [strategies/continuous-assessment-edtech-feature-implementation](../strategies/continuous-assessment-edtech-feature-implementation.md)
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-798 (Designing for Learner Variability: Examining the Impact of Research-based Edtech in the Classroom) via eval_harness.py + ingest_extractions.py

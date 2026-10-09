@@ -41,6 +41,7 @@ The article recommends developing faculty capacity for creative problem-solving 
 
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Deploy the LoA repeatedly over time with real-time aggregate reporting within a community that owns the data and process](repeated-loa-with-real-time-aggregate-reporting.md)
+- [Use a co-research and co-design process such as the Collaborative Innovation Studio model](co-research-co-design-collaborative-innovation-studio.md)
 
 ## Examples
 -

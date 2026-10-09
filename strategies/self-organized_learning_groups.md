@@ -64,9 +64,11 @@ Peer-organized groups work because they combine social accountability with learn
 7. **Make work visible**: share artifacts, notes, and demos in a public channel to recruit new members and signal legitimacy to leadership.
 
 ## Related Strategies
+
 - [Working Out Loud](working_out_loud.md) — a structured circle format for goal-based peer support
 - [Peer Teaching](peer-teaching.md) — the mechanism by which group members consolidate their own understanding
 - [Communities of Practice](../principles/communities-of-practice.md) — the longer-lived organizational form these groups can mature into
+- [Self-directed professional learning cycle in recurring two-week PD chunks with public goals and study groups](summit-self-directed-teacher-pd-cycle.md)
 
 ## Examples
 - **Working Out Loud circles** (John Stepper) — 12-week structured peer groups in which members work toward a goal while building relationships and visibility; widely adopted in enterprises ([workingoutloud.com](https://workingoutloud.com)).

@@ -47,7 +47,8 @@ The examined artifact is a course summative assignment in which prospective teac
 - [Most prospective teachers produced dynamic simulations rather than tutoring scripts, with 46% adding inquiry-oriented exploration](../claims/most-prospective-teachers-produce-dynamic-simulations.md) [+W]
 
 ## Related Elements
-- 
+
+- [Scratch block-based programming language and sharing ecosystem](scratch-block-programming-ecosystem.md)
 
 ## Examples
 

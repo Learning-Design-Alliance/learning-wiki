@@ -50,3 +50,6 @@ Survey and interview data from 54 districts in 31 states and 47 ed-tech provider
 - [Procurement perceived as smoother and more inclusive in smaller districts than larger districts](smaller-districts-smoother-procurement.md) — related
 - [Needs assessments are mostly informal and focused on student achievement](needs-assessments-informal-achievement-focused.md) — related
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related
+- [Students, teachers, and principals are perceived to have limited involvement in ed-tech procurement decisions, and providers are far less satisfied with end-user involvement than district stakeholders](limited-end-user-involvement-edtech-procurement.md) — related
+- [Ed-tech providers are overwhelmingly dissatisfied with procurement: only 4 percent say today's processes meet contemporary needs, and nearly two-thirds report the processes directly influence their product development](providers-dissatisfied-edtech-procurement-meets-needs.md) — related
+- [Technology directors are the least likely to trust evidence from providers, with only 29 percent satisfied with the credibility of provider evidence](technology-directors-distrust-provider-evidence.md) — related

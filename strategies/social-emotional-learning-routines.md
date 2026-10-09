@@ -60,9 +60,11 @@ SEL routines work through repetition and predictability: consistent rituals lowe
 6. **Close the loop with reflection** — periodic brief reflection or [Check-Ins](../principles/check-ins.md) on how the class's norms are working.
 
 ## Related Strategies
+
 - [Restorative Practices](restorative-practices.md) — conflict-resolution routines that extend SEL into discipline
 - [Cooperative Learning](cooperative-learning.md) — structures that give SEL routines authentic interpersonal practice
 - [Mindfulness Breaks](mindfulness-breaks.md) — a specific attention-regulation routine variant
+- [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 
 ## Examples
 - **[RULER](https://medicine.yale.edu/childstudy/services/community-and-schools-programs/ruler/)** (Yale Center for Emotional Intelligence) — the Mood Meter check-in and class Charter are routines for emotion labeling and norm-setting; evaluated in randomized school trials.

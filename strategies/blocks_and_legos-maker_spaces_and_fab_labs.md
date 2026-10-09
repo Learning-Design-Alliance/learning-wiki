@@ -59,9 +59,11 @@ Making is a form of [active learning](../principles/active-learning.md) grounded
 5. Close with public sharing and reflection that makes the underlying concepts explicit ([Articulation](../elements/articulation.md)).
 
 ## Related Strategies
+
 - Project-based learning — maker builds are a common vehicle for project work; both organize learning around authentic products
 - Design thinking — supplies the iterate-and-prototype cycle that structures maker work
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — mentors model and coach making practices in the space
+- [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](connect-ct-to-local-maker-heritage.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — making is application made physical

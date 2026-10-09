@@ -66,3 +66,5 @@ The AEFLA Program Structure section explains the market consequence of the fundi
 - [Philippine basic literacy is 89.8% and functional literacy 73.2%, yet BNFE serves only 1.07% of estimated adult education clientele](philippine-literacy-rates-bnfe-inadequate-coverage.md) — related
 - [Proposed equivalency system between non-formal and formal education streams will not work without local government uptake](equivalency-system-requires-local-government-uptake.md) — related
 - [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related
+- [The report attributes stagnant learning results to program implementation rather than to the ed-tech tools themselves](implementation-not-tools-stagnant-results.md) — related
+- [WIOA requires integration of technology and digital skills into federally funded adult education programs, positioning entrepreneurs to capitalize on the mandate](wioa-requires-technology-integration-adult-education.md) — related

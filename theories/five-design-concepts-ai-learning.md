@@ -44,6 +44,7 @@ Beyond familiar personalized, adaptive, or blended learning, the panel identifie
 - [Technology-as-amplifier: learning technology intensifies and scales the impacts of design tradeoffs in either direction](technology-amplifies-design-tradeoffs.md)
 - [Intelligence Augmentation for Collaborative Learning: four verbs extending individualized EdTech](ia-collaborative-learning-four-verbs.md)
 - [Three-layer definition of AI for learning: computational intelligence, specific capabilities, and a futures toolkit](three-layers-ai-for-learning-definition.md)
+- [Four most common AI technology types in cyberlearning: intelligent tutoring systems, machine learning, speech/vision/natural interaction, and social robotics and avatars](cyberlearning-ai-four-technology-types.md)
 
 ## Examples
 

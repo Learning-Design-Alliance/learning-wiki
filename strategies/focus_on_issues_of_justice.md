@@ -60,9 +60,11 @@ Justice-focused projects draw their motivational power from authenticity and per
 5. **Reflect** — structured [Reflection](../elements/reflection.md) on what changed, what was learned, and the ethics of the action itself
 
 ## Related Strategies
+
 - [Service Learning](service-learning.md) — shares the community-action core but emphasizes reciprocal service rather than justice analysis
 - [Project-Based Learning](project-based-learning.md) — the general project architecture into which justice focus is a thematic commitment
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md) — the pedagogical stance that makes justice projects legitimate and safe for all students
+- [Use community-focused prompts and authentic audiences to make creative projects personally meaningful](community-prompts-authentic-audience-360-film.md)
 
 ## Examples
 - **Mikva Challenge** (https://www.mikvachallenge.org) — Chicago-area students investigate community problems and run "action civics" campaigns addressing real policy issues with elected officials.

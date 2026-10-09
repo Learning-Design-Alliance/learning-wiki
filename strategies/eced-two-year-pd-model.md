@@ -41,6 +41,7 @@ ECED's professional development spans both program years: a three-day teacher in
 ## Related Strategies
 
 - [Designate an on-site instructional coach or leader to monitor and support ECED implementation](eced-onsite-coach-staffing.md)
+- [Plan for regional sustainability from the start with a two-year transition to regional ownership](regional-sustainability-two-year-transition-to-ownership.md)
 
 ## Examples
 -

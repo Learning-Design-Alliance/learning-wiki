@@ -75,6 +75,7 @@ Individual rotation operationalizes personalization by matching modality and pac
 - [Flipped Classroom](flipped-classroom.md) — rotates content delivery and application, but uniformly for the class
 - [Lab Rotation](lab-rotation.md) — rotates to a fixed location rather than an individual schedule
 - [Implement Math 180 as a blended rotation model with 1:1 computer use during rotation and roughly half the class on software at a time](math-180-blended-rotation-implementation.md)
+- [Blend virtual ed-tech practice with regular in-person meetings and check-ins in summer learning programs](blended-summer-edtech-in-person-checkins.md)
 
 ## Examples
 - **[Teach to One](https://teachtoone.com)** — a math program that generates a daily individualized schedule for each student across teacher-led, collaborative, and online modalities; the canonical individual-rotation implementation.

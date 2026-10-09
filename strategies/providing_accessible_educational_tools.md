@@ -67,9 +67,11 @@ Tool access shifts the burden of adapting a task from the teacher to the learner
 6. Fade supports as fluency develops, and teach students to recognize when they no longer need a tool.
 
 ## Related Strategies
+
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md) — timers and reduced-volume materials are tool-based supports for pacing
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md) — digital tool access only works when device fluency is also built
 - [Accessible Syntax](accessible_syntax.md) — sentence frames and syntax supports are among the tools made available
+- [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](student-autonomy-default-access-edtech-supports.md)
 
 ## Examples
 - **Elementary mathematics:** Place-value mats, base-ten blocks, and number lines kept on open shelves; students retrieve them during problem solving rather than waiting for distribution. Research on concrete manipulatives supports moderate learning benefits when use is connected to abstract representation [+M].

@@ -49,6 +49,7 @@ SEERNet is a hub of five digital learning platforms (DLPs), in K-12 or higher ed
 - [SEERNet: five digital learning platforms, six research teams, and a network hub coordinated as research infrastructure](seernet-dlp-research-infrastructure-network.md)
 - [SEERNet shared digital learning platform infrastructure enabling a performer community model](seernet-shared-platform-rd-infrastructure.md)
 - [Terracotta: a SEERNet platform enabling randomized research within the Canvas LMS](terracotta-canvas-research-platform.md)
+- [SEERNet network connecting platforms, researchers, and educators](seernet-network-element.md)
 
 ## Examples
 

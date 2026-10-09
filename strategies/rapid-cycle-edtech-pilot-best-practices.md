@@ -42,6 +42,13 @@ This strategy packages the eight best practices Digital Promise identified for d
 
 - [Build formal feedback mechanisms and an evaluation plan into ed-tech pilots](formal-feedback-and-evaluation-plan-pilots.md)
 - [Maintain professional development and educator collaboration throughout an edtech pilot](sustain-pd-and-collaboration-throughout-edtech-pilot.md)
+- [Ensure communication and co-development with school leaders throughout edtech process rollout](edtech-process-communication-co-development.md)
+- [Ed-tech companies should use multi-method, multi-stakeholder research at every product stage and share results publicly](edtech-research-promising-practices-strategy.md)
+- [Distinguish product users from purchasers and recruit representative users through school-like community settings](edu-ux-user-recruiting-and-customer-clarity.md)
+- [Evaluate & Reflect then Sustain & Scale: analyze pilot data against targeted goals and share results with critical partners to plan expanded use](evaluate-pilot-data-and-share-results-to-scale-edtech.md)
+- [Start simple: relationships-first, low-tech student success systems can suffice in small, tight-knit communities](just-start-simple-relationships-first-success-systems.md)
+- [Mobilize & Implement: provide professional learning throughout the pilot and use real-time data dashboards to keep usage aligned with dosage requirements](ongoing-professional-learning-dashboards-during-edtech-pilot.md)
+- [Provide professional learning opportunities and free tools to support educators in conducting edtech pilot studies](professional-learning-and-free-tools-for-edtech-piloting.md)
 
 ## Examples
 -

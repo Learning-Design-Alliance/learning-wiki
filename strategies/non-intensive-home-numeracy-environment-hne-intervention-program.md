@@ -65,6 +65,7 @@ The home numeracy environment — especially the frequency of parent–child act
 - Family math nights — the in-person modeling component of a non-intensive HNE program
 - Classroom math games — the same games used at school first, then sent home, create continuity
 - [Engage parents through home-learning packets with videos, tips, and activity suggestions](redi-parent-home-learning-packets.md)
+- [Connect home and school learning through a family guide linking playful everyday science activities to classroom instruction](family-guide-connecting-home-and-school-science.md)
 
 ## Examples
 - **[Bedtime Math](https://bedtimemath.org)** — A free app and book series delivering a daily short story with leveled math questions; a randomized study found gains in children's math achievement over the school year, largest for children of math-anxious parents (Berkowitz et al., 2015).

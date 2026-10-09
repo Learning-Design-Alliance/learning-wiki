@@ -46,3 +46,4 @@ Exploratory pilot-year research in the Learning Studios using pre/post/follow-up
 - [Learning Studio participation was associated with stronger maker/designer identity and design-related confidence](learning-studios-maker-identity-confidence-gains.md) — related
 - [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — related
+- [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related

@@ -50,3 +50,4 @@ Key finding from the case studies of SDP- and EP-partnered agencies. Agencies bu
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](similar-data-capacity-sdp-ep-agencies.md) — related
 - [The 2007 DC reforms aimed to improve student achievement by hiring and retaining higher quality teachers and providing families more public school choices](dc-2007-reforms-teacher-quality-and-school-choice-aims.md) — related
+- [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related

@@ -65,3 +65,4 @@ Design-thinking prompts and pre/post survey items in the pilot. Students showed 
 - [Learning Studio participation was associated with indicators of student agency and ownership of learning](learning-studios-agency-ownership-indicators.md) — related
 - [Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students](learning-studios-engagement-persistence-indicators.md) — related
 - [Student outcomes strengthened with more implemented project guides and differed between emergent and established Learning Studio contexts](learning-studios-implementation-context-outcomes.md) — related
+- [Students improved communication and collaboration through the open-ended 360 film production process](360-filmmakers-challenge-communication-collaboration.md) — possibly the same claim (merge candidate)

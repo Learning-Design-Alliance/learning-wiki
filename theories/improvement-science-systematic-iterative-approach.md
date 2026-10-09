@@ -40,6 +40,7 @@ The white paper defines Improvement Science as "a systematic approach to identif
 ## Related Theories
 
 - [The six principles of Improvement Science: problem-focused, variation, system analysis, measurement, disciplined inquiry, and networked improvement communities](six-principles-improvement-science.md)
+- [Convergent science: integrating learning sciences and computer science expertise](convergent-science-cyberlearning.md)
 
 ## Examples
 

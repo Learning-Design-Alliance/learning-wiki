@@ -47,6 +47,7 @@ The survey's organizing framework defines CT–PCK as teachers' knowledge of con
 ## Related Theories
 
 - [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-seven-elements.md)
+- [Three powerful ways of using computers that integrate with academic subject matter: data work, automation, and modeling systems](three-powerful-uses-of-computers-ct.md)
 
 ## Examples
 

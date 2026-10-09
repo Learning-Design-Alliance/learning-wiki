@@ -49,9 +49,12 @@ The ecosystem is Digital Promise's infrastructure for the design, development, a
 - [Digital Promise micro-credential ecosystem on the BloomBoard platform](digital-promise-bloomboard-micro-credential-ecosystem.md)
 - [The educator micro-credentialing ecosystem: Digital Promise's PK-12 platform, 400+ micro-credentials, and the NEA partnership](educator-micro-credentialing-ecosystem.md)
 - [Digital Promise micro-credential template structuring competency, method, research rationale, and submission criteria](digital-promise-micro-credential-template.md)
+- [Educator micro-credentials: five-step competency-based professional learning credential](educator-micro-credentials-five-step-process.md)
+- [PennGSE Data Science Methods for Digital Learning Platforms certificate program](penngse-data-science-dlp-certificate.md)
 
 ## Examples
--
+
+- [Convert earned micro-credentials into continuing education units for re-licensure and master's equivalency](../strategies/micro-credentials-convert-to-ceus.md)
 
 ## Key Sources
 - Barnett Berry and Karen Cator. (2016). Micro-credentials: Driving teacher learning & leadership. Center for Teaching Quality and Digital Promise. http://teachingquality.org/micro-credentials

@@ -60,9 +60,11 @@ Availability alone is insufficient; tools must be paired with instruction in whe
 6. **Review and fade.** During [Check-ins](../elements/check-in.md), ask which tools helped; fade supports for skills approaching automaticity and introduce new ones as demands grow.
 
 ## Related Strategies
+
 - [Choice Boards](../elements/choice-boards.md) — a structured way to present easy-access tools as student options
 - [Accommodating Processing Speed Challenges](../strategies/accommodating_processing_speed_challenges.md) — many processing-speed supports (timers, extended-time norms) are delivered through easy-access tool systems
 - [Accommodate Varying Technology Experience](../strategies/accommodate_varying_technology_experience.md) — digital toolkits only work if tool fluency itself is taught
+- [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](student-autonomy-default-access-edtech-supports.md)
 
 ## Examples
 - **Elementary math**: a manipulatives shelf with base-ten blocks, fraction tiles, and number lines, labeled by unit; students retrieve what they need at the start of [Practice](../elements/practice.md).

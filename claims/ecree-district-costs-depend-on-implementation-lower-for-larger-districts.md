@@ -46,3 +46,4 @@ Cost analysis reported in the brief for districts using Ecree in middle and high
 - [Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction](teachers-used-ecree-less-than-intended-lacking-time.md) — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — a broader claim this one bears on
 - [High teacher turnover rates may be costly to school districts, disrupt operations, and lower student achievement](high-teacher-turnover-costly-disruptive-lowers-achievement.md) — related
+- [Bulk negotiation with the Kahoot! provider reduced the per-teacher price from $149.99 to $44.60, saving the district over $25,000 on licenses](dps-kahoot-bulk-price-saving-25000.md) — related

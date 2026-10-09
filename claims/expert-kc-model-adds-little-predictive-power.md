@@ -66,3 +66,4 @@ Same ablation: only the KDD Cup 2010 datasets show a +0.03 AUC KC benefit. Out o
 - [Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets](time-window-features-null-for-lr-boost-nonlinear.md) — related
 - [Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind](best-lr-and-dkt-lead-markov-methods-lag-nine-datasets.md) — related
 - [On a real dataset with problem content, the skill discovery model matches BKT with expert-provided skills despite using fewer KCs](skill-discovery-matches-expert-skills-fewer-kcs.md) — related
+- [Human expert review is the most credible but slowest and most resource-intensive evaluation method](human-expert-review-most-credible-slowest.md) — related

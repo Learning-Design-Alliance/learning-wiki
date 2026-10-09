@@ -49,3 +49,4 @@ From the provider strategy analysis: partners' professional development consiste
 - [Provider assistance to probation schools suffered from low intensity, poor communication among providers, and weak organizational change strategies](probation-support-implementation-constraints.md) — related
 - [Instructional coaching provides individualized support adapted to teachers' needs and classroom contexts, in contrast to traditional professional development workshops](coaching-individualized-support-versus-workshops.md) — related
 - [Providers located low performance within schools and targeted the instructional unit of teachers, materials, and students](providers-target-instructional-unit-teachers-materials-students.md) — related
+- [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related

@@ -47,6 +47,7 @@ The report situates earned micro-credentials within "a larger micro-credential e
 
 - [Educator micro-credentials as a competency-based, personalized, on-demand, shareable professional learning design](educator-micro-credential-design-four-features.md)
 - [Standards for Professional Learning as a seven-standard framework for results-oriented educator learning](standards-for-professional-learning-seven-standards.md)
+- [Three-player micro-credential ecosystem](micro-credential-ecosystem-three-players.md)
 
 ## Examples
 

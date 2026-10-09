@@ -67,3 +67,4 @@ Data preparation step: transcripts were segmented into topic-based files (approx
 - [The study lacked comparative conditions, so hybrid-approach improvement claims remain conceptual rather than empirically validated](no-comparative-conditions-hybrid-improvement-unvalidated.md) — related
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
 - [Respondents proposed testing and monitoring (61.9%) and human involvement (22.7%) as leading mitigations for algorithmic bias](rfi-bias-mitigation-testing-human-involvement.md) — related
+- [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — related

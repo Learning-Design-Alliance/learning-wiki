@@ -45,6 +45,7 @@ The toolkit recommends seven methodologies it has used to design LER technologie
 - [Severity scale for prioritizing learner barriers into design actions](severity-scale-ler-design-priorities.md)
 - [Inclusive Innovation Process](inclusive_innovation_process.md)
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
+- [Engage users and community members in the design process to make learning tools more attractive, useful, and effective](user-and-community-centered-design-methods.md)
 
 ## Examples
 -

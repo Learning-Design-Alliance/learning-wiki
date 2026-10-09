@@ -43,6 +43,9 @@ The report recommends that districts collaborate with community members to devel
 - [Structure OBC procurement around intentionality questions on learner goals, populations, outcomes, and stakeholders](obc-intentionality-collaboration-questions.md)
 - [Support future edtech OBC cohorts with readiness assessments, early planning, needs-assessment framing, and cross-cohort collaboration](obc-future-cohort-support-strategies.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [District actions for sustained, equitable impact with powerful technology](district-actions-powerful-technology-impact.md)
+- [School districts adopting AI should follow a five-step roadmap: engage communities, apply and develop policies, provide professional development, create supportive learning environments, and monitor and evaluate AI use](five-step-district-ai-adoption-roadmap.md)
+- [System-level strategies to build enabling conditions for Powerful Learning](system-level-strategies-powerful-learning-conditions.md)
 
 ## Examples
 -

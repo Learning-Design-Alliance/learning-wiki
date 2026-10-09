@@ -41,7 +41,8 @@ The report provides two planning artifacts for districts conducting ed-tech pilo
 - [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](../claims/varied-success-definitions-hinder-evaluation.md) [~W]
 
 ## Related Elements
-- 
+
+- [EdTech Pilot Navigator with four pilot models (Resource E)](edtech-pilot-navigator-models.md)
 
 ## Examples
 

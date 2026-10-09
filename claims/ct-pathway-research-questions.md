@@ -44,3 +44,5 @@ Research overview slide lists three research questions, including this one, alon
 
 ## Related Claims
 - [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](ky-appalachia-k8-ct-pathway-rpp.md) — related
+- [IPSD piloted its CT competency map in 2019-2020 in schools including a subset of its Title I equity-goal schools, paired with professional development](ipsd-competency-map-pilot-title-i-pd.md) — related
+- [The TAN project delivered four virtual CT Booster sessions for K-2 and 3-8 teachers on Data & Analysis and Algorithms between November 2020 and January 2021](tan-four-ct-booster-sessions-rural-ky.md) — related

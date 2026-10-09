@@ -45,3 +45,4 @@ Equity analysis of survey and administrative data across 434 schools finds home-
 
 ## Related Claims
 - [The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students](digital-divide-narrowed-schools-partially-compensating.md) — related
+- [Emergency federal funding narrowed the digital access divide during the pandemic but did not close the digital use divide](pandemic-funding-narrowed-access-not-use-divide.md) — related

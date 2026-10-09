@@ -43,6 +43,7 @@ The deck proposes Scratch as a block-based coding environment for content-area a
 - [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](ct-boosters-algorithmic-thinking-3-8-sessions.md)
 - [ScratchJR app for young children to build interactive stories and games](scratchjr-k2-interactive-stories-games.md)
 - [Code.org CS Fundamentals unplugged lessons: Dice Race, My Robotic Friends, Paper Planes, Plant a Seed, Tangrams](code-org-cs-fundamentals-algorithm-lessons.md)
+- [Scratch block-based programming language and sharing ecosystem](scratch-block-programming-ecosystem.md)
 
 ## Examples
 -

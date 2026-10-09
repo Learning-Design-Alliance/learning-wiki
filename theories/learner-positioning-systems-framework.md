@@ -45,6 +45,8 @@ Digital Promise Global's Learner Positioning Systems (LPS) initiative aims to bu
 - [Learner Positioning System (LPS): a GPS-like system positioning each learner with a learner profile, learning map, and resource bank](learner-positioning-system-lps.md)
 - [Learner variability and jagged profiles as the foundation for personalized learning](learner-variability-jagged-profiles-foundation.md)
 - [Inclusive Innovation R&D model: six core tenets for equity-centered education research and development](inclusive-innovation-six-tenets-framework.md)
+- [The LPS K-3 Reading Learner Model organizes learner variability into 34 Factors across four research areas](lps-k3-reading-learner-model-34-factors.md)
+- [LPS Learner Factors model for Reading PK-3](lps-learner-factors-reading-pk3-model.md)
 
 ## Examples
 -

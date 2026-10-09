@@ -46,3 +46,4 @@ The brief asserts, without presenting evidence or data, that data commonly fails
 - [In practice, education data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](data-often-fails-to-drive-education-decisions.md) — possibly the same claim (merge candidate)
 - [In practice, data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](data-use-often-fails-to-drive-decisions.md) — possibly the same claim (merge candidate)
 - [Data infrastructure, accessible data, and a culture of data use are necessary but not sufficient for data-driven decision making in education agencies](data-infrastructure-alone-insufficient-for-data-driven-decisions.md) — related
+- [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — related

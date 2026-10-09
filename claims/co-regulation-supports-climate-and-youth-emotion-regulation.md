@@ -74,3 +74,4 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
 - [Positive classroom climate is associated with more frequent socially shared regulation of learning](positive-climate-promotes-shared-regulation.md) — related
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
+- [Youth designers specified norm setting and flexibility as key components of the Tech Talk game instructions](youth-designed-norm-setting-and-flexibility-tech-talk.md) — related

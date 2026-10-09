@@ -41,6 +41,8 @@ The guide recommends that entrepreneurs sell to groups of organizations and enco
 
 - [Design adult-learning ed-tech with short lessons, visualizations, mobile-first simplicity, and contextualized integrated content](design-adult-edtech-short-mobile-contextualized.md)
 - [Develop a shared landscape directory of skills-first tools with identified owners, costs, and accessibility limits](shared-skills-first-tools-directory.md)
+- [Sell to consortia and groups of institutions with flexible licensing to ease buying and expand access for small providers](sell-to-consortia-flexible-licensing.md)
+- [Ten concrete action items for entrepreneurs preparing to launch ventures in the adult learning market](ten-action-items-adult-edtech-entrants.md)
 
 ## Examples
 -

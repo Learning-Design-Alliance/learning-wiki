@@ -49,6 +49,7 @@ Digital Promise supports program coaches through a layered professional learning
 - [Layered professional learning and support for teachers implementing individualized software](classworks-layered-teacher-support-strategy.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
+- [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
 
 ## Examples
 -

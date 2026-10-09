@@ -42,6 +42,8 @@ The guide's primer distinguishes four related terms to demystify computational t
 - [Three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-three-circle-framework.md)
 - [Tools, Themes, and Competencies framework for organizing a CT/CS pathway](tools-themes-competencies-framework.md)
 - [4P4CT framework: four learner-centered pedagogies for teaching computational thinking across all subjects](4p4ct-four-pedagogies-for-ct-framework.md)
+- [A three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies](ct-integration-framework-three-circles.md)
+- [Three powerful ways of using computers that integrate with academic subject matter: data work, automation, and modeling systems](three-powerful-uses-of-computers-ct.md)
 
 ## Examples
 

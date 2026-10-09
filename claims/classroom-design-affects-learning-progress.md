@@ -107,3 +107,4 @@ A review synthesising the classroom-environment literature into two channels. **
 - [Equipment suppliers criticize DBPH procurement practices, including price-only awards and insufficient quality specifications](price-only-procurement-criticized-by-suppliers.md) — related
 - [Classroom student characteristics affect teacher observation results for some instruments, more often in English language arts than in math classes](student-characteristics-affect-observation-results-more-in-ela-than-math.md) — related
 - [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — related
+- [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — a narrower finding that bears on this claim

@@ -64,3 +64,4 @@ Formal University Student Evaluation of Teaching and Learning for the redesigned
 ## Related Claims
 - [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](online-communities-must-be-designed-and-scaffolded.md) — possibly the same claim (merge candidate)
 - [Fortnightly web conferences with open-ended discussion supported students' academic and social engagement and community formation](web-conferences-support-online-community.md) — a narrower finding that bears on this claim
+- [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related

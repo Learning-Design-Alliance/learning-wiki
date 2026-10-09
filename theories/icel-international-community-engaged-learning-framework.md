@@ -41,7 +41,8 @@ ICEL is defined in the article as "an experiential education process involv - in
 - [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](../claims/planetary-health-course-three-key-lessons.md) [+W]
 
 ## Related Theories
-- 
+
+- [Challenge-Based Learning is a framework for learning while solving real-world challenges through three phases: Engage, Investigate, and Act](challenge-based-learning-three-phase-framework.md)
 
 ## Examples
 

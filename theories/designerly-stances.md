@@ -37,7 +37,9 @@ Drawn from design-studies literature (Schön's reflective practice, Dorst's prob
 - [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](../claims/course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) [+M]
 
 ## Related Theories
+
 - (none yet linked)
+- [Learning engineering: educators take research and turn it into classroom solutions using engineering problem-solving processes](learning-engineering-dtech-mindset.md)
 
 ## Examples
 - [Reflective Practice](../principles/reflection.md) — designerly stances extends reflective practice specifically toward how problems of practice are framed, not only how past actions are reviewed

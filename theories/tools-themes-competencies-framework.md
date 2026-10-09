@@ -43,9 +43,11 @@ The presentation distinguishes three layers of a CT pathway. Tools are "Curricul
 - [Distinguishing computing, computer science, computational thinking, and programming](computing-family-term-distinctions.md)
 - [Three-stage model of developing district computational thinking pathways: Getting Started, Getting Going, Getting Better](ct-pathway-development-stages.md)
 - [Culturally sustaining pedagogy as a fourth 'C' in computing education pathways](culturally-sustaining-pedagogy-fourth-c.md)
+- [Kentucky K-8 computing framework: five key concepts of CS and seven big ideas of technology](ky-cs-technology-framework-concepts.md)
 
 ## Examples
--
+
+- [CT Pathways Toolkit for district design of K-12 CS/CT pathways](../elements/ct-pathways-toolkit.md)
 
 ## Key Sources
 - Computing in Rural America: Developing K-8 Coding Pathways for Kentucky Appalachia. (2020). Presentation slides, December 2nd 2020. https://digitalpromise.dspacedirect.org/items/0c77d3c7-12c8-4a9b-8583-040137f0fd3c

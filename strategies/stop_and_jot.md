@@ -59,9 +59,11 @@ Stop and Jot enacts [Active Learning](../principles/active-learning.md) by inser
 5. Periodically collect or review jots to hold learners accountable and calibrate pacing.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the oral counterpart; Stop and Jot adds a written record and individual accountability
 - [Exit Tickets](exit-tickets.md) — the end-of-lesson variant, trading in-the-moment diagnosis for end-of-class summary
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — opening jots often serve this function before new content
+- [Identify 2-3 intentional pause points for collecting and reflecting on artifacts](identify-two-three-portfolio-pause-points.md)
 
 ## Examples
 - **Reading workshop (Fountas & Pinnell guided reading)** — students stop at sticky-note markers in a shared text to jot predictions and inferences before discussing.

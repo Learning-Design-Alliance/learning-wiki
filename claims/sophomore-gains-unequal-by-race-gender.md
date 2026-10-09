@@ -55,3 +55,4 @@ Disaggregated cohort analysis (Figure 16) shows sophomore gains "have not been e
 - [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
 - [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
+- [Students off track after ninth grade are less than half as likely to graduate, with Black and Latino students 46% and 31% more likely than the national average to be off track in 2022](ninth-grade-off-track-graduation-risk-disparities.md) — related

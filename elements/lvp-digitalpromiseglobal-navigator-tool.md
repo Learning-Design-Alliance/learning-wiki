@@ -47,6 +47,8 @@ The Learner Variability Navigator is a free, open online tool that curates learn
 ## Related Elements
 
 - [Strength-based Teacher Report/IEP Reflection Template with key information, academic/cognition, and SEL/behavior sections](strength-based-iep-reflection-template.md)
+- [Learner Variability Navigator (LVN) web app](learner-variability-navigator-web-app.md)
+- [ReadWorks digital reading comprehension platform with LVP-informed learner-variability features](readworks-lvp-learner-variability-platform.md)
 
 ## Examples
 -

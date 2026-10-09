@@ -46,6 +46,7 @@ A first-year algebra course designed for students ranging in ability and grade l
 ## Related Elements
 
 - [MATHia tutoring software](mathia-tutoring-software.md)
+- [MATHia intelligent tutoring system with adaptive mastery-based instruction](mathia-intelligent-tutoring-system.md)
 
 ## Examples
 

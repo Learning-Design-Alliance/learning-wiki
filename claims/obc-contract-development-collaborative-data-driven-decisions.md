@@ -81,3 +81,4 @@ Interview finding on outcomes selection; the report notes assessment selection "
 - [OBCs drove a systemic shift for district and school teams to monitor and leverage data for continuous improvement.](obc-data-monitoring-continuous-improvement.md) — related
 - [OBCs drove increased edtech implementation rates, boosted by provider implementation support, despite challenges including buy-in, staff workload, unclear terms, leadership turnover, and time constraints.](obc-increased-implementation-rates.md) — related
 - [Providers gained super users of their products and learnings for product design and effective implementation support through OBC engagement.](obc-provider-super-users-product-learning.md) — related
+- [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related

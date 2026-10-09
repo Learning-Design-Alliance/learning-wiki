@@ -38,7 +38,10 @@ The paper organizes infrastructure-building work into two kinds: (1) expected te
 - 
 
 ## Related Theories
-- 
+
+- [SEERNet's framework of Digital Learning Platforms as research infrastructure for education research](dlp-research-infrastructure-seernet-framework.md)
+- [Four foundational developments framework for DLPs-as-research-infrastructure](four-foundational-developments-dlp-research-infrastructure.md)
+- [SEERNet's four 'better' aspirations for next-generation research: science, engineering, practice, and community](seernet-four-better-aspirations.md)
 
 ## Examples
 

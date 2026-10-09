@@ -44,3 +44,4 @@ The white paper reports a 2015 market scan and analysis of children's literacy a
 
 ## Related Claims
 - [Mobile language learning apps are used mainly for vocabulary learning among surveyed app users](mall-vocabulary-most-supported-skill.md) — related
+- [Only 24 percent of top literacy apps mentioned research in their app store descriptions, per a 2015 study the report cites](few-literacy-apps-mention-research-descriptions.md) — possibly the same claim (merge candidate)

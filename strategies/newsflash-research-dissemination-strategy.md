@@ -41,6 +41,7 @@ The guide recommends the newsflash as a dissemination vehicle: "A successful new
 ## Related Strategies
 
 - [Increase the supply of high quality systematic reviews so decision makers have more useful evidence summaries](increase-supply-of-high-quality-systematic-reviews.md)
+- [Disseminate research to practitioners through knowledge brokers and accessible formats such as short videos and social media threads](disseminate-via-knowledge-brokers.md)
 
 ## Examples
 -

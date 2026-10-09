@@ -45,6 +45,10 @@ The presentation describes two NSF-funded CSforAll Research Practice Partnership
 ## Related Elements
 
 - [NSF Tough As Nails K-8 coding pathway for Kentucky Appalachia](tough-as-nails-k8-coding-pathway-kentucky-appalachia.md)
+- [Computing Pathways Research Practice Partnership of districts designing K-12 CS/CT pathways](computing-pathways-rpp-districts.md)
+- [Computing Pathways Research Practice Partnership with three districts](computing-pathways-rpp-three-districts.md)
+- [Expanding rural computing education partnership across Eastern KY districts, industry, and national organizations](eky-rural-ct-partnership.md)
+- [Tough As Nails, Nimble Fingers (TAN) virtual computing PD project](tan-virtual-computing-pd-project.md)
 
 ## Examples
 -

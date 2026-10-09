@@ -60,9 +60,11 @@ Maker spaces shift learners from consuming instruction to producing artifacts, a
 5. Close with documentation and share-outs where learners articulate design decisions and what they would change ([Articulation](../elements/articulation.md))
 
 ## Related Strategies
+
 - Project-based learning — maker spaces are a common venue; the same driving-question structure applies
 - Design thinking challenges — supply the framing that keeps making conceptually productive
 - Tinkering-based science — interest-driven exploration with conceptual debriefs
+- [Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture](connect-ct-to-local-maker-heritage.md)
 
 ## Examples
 - **[Fab Foundation](https://fabfoundation.org)** — global network of fab labs following the MIT Center for Bits and Atoms model, with standardized digital fabrication equipment and shared project documentation.

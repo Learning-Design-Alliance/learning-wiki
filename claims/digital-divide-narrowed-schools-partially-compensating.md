@@ -47,3 +47,4 @@ Trend analysis of student computer use at home and at school by school racial co
 - [NBCTs are more likely than other teachers to work in magnet schools and less likely to work in the poorest and predominantly African American schools](nbcts-disproportionately-magnet-schools.md) — related
 - [A digital divide exists in Chicago students' home technology use, but schools do not strongly magnify it along racial or income lines](digital-divide-home-not-magnified-by-schools.md) — related
 - [Grow use is consistently greater in predominantly African-American schools across Chicago](greater-grow-use-african-american-schools.md) — related
+- [Emergency federal funding narrowed the digital access divide during the pandemic but did not close the digital use divide](pandemic-funding-narrowed-access-not-use-divide.md) — related

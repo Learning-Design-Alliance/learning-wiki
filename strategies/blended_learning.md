@@ -74,6 +74,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Case-Based Learning](../patterns/case-based-learning.md) — a common use of freed-up in-person time in professional education
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — pairs naturally with self-paced online modules
 - [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
+- [Blend virtual ed-tech practice with regular in-person meetings and check-ins in summer learning programs](blended-summer-edtech-in-person-checkins.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

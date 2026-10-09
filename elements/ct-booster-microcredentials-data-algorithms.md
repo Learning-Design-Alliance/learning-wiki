@@ -43,6 +43,8 @@ The deck lists micro-credentials teachers can pursue alongside the boosters: und
 - [CT Boosters: 30-minute algorithmic-thinking professional learning sessions for grades 3-8](ct-boosters-algorithmic-thinking-3-8-sessions.md)
 - [Digital Promise micro-credential ecosystem on the BloomBoard platform](digital-promise-bloomboard-micro-credential-ecosystem.md)
 - [Inclusive Cybersecurity Pathways with Workforce Credentials](inclusive-cybersecurity-pathways-credential.md)
+- [Digital Promise's Computational Thinking micro-credentials recognize educators whose students apply CT practices](digital-promise-ct-micro-credentials.md)
+- [TAN micro-credentials for Data and Analysis and Algorithms](tan-ct-micro-credentials.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ The guide includes an extensive compilation of resource materials supporting bot
 - [Fair Textbooks: A Resource Guide, a centralized catalog of bias-free education resources](fair-textbooks-resource-guide-catalog.md)
 - [Annotated bibliography of K-8 cultural and global awareness materials organized in 11 categories](arizona-project-global-awareness-bibliography.md)
 - [Quinmester humanities course 'Ideas of Western Man: Expressionism and Realism' integrating literature, philosophy, art, and music](ideas-western-man-expressionism-realism-course.md)
+- [Free CBL resource set: global competence resources and Ciena Solutions Challenge supports including a Facilitation Guide and Challenge Builder](cbl-free-resource-set-ciena-challenge.md)
 
 ## Examples
 -

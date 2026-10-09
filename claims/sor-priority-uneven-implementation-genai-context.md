@@ -64,3 +64,4 @@ Interview participants reported that "districts had less to say" about how ELLs 
 ## Related Claims
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher.](openscied-teacher-leader-priority-differences.md) — related
+- [Participants reported re-prioritizing relationship building with students and finding community and support for self-care](edcamp-dfl-relationships-and-self-care.md) — related

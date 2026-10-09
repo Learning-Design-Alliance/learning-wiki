@@ -48,3 +48,4 @@ Interview finding on grading practices. Partner teachers showed skepticism, e.g.
 - [Partner-positioned teachers built students' AI literacy, while assistant and substitute teachers' transparency centered on gaming scores](partner-positioning-builds-student-ai-literacy.md) — related
 - [Among 24 Topeka teachers, half positioned the AI as a teaching partner, 29% as a grading assistant, and 21% as a substitute teacher](teacher-positioning-distribution-topeka.md) — related
 - [Teachers who positioned AI as a partner remained instructional leaders, weaving the tool into rich instruction and using score data to decide what to re-teach](partner-positioning-instructional-leadership.md) — related
+- [People may absorb bias from AI and carry it beyond their interactions with the algorithm](humans-absorb-bias-from-ai.md) — related

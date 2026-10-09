@@ -48,3 +48,4 @@ Survey analysis of nearly 100,000 student and teacher responses in 434 Chicago p
 - [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md) — related
 - [About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use](teacher-technology-use-preparation-versus-instruction-gap.md) — related
 - [Treatment classrooms used technology far more intensively than control classrooms, whose technology use remained supplemental](rm-cc5-treatment-higher-technology-use.md) — reports the opposite
+- [Control students rarely used the optional game, while treatment students logged in as expected](control-students-rarely-played-game.md) — related

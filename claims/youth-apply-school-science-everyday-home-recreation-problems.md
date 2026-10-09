@@ -47,3 +47,4 @@ Qualitative focus group study of ten Ontario high school youth (two focus groups
 - [Youth engaged free-choice learning heuristics in everyday problem-solving but typically skipped the assess phase](youth-skip-assess-phase-free-choice-heuristics.md) — related
 - [Youth possess sociocultural and cognitive know-how for knowledge application, but indigenous knowledge was not integrated and mobilization is lacking](youth-knowhow-springboard-indigenous-knowledge-gap.md) — related
 - [Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems](youth-problems-personal-relevance-not-societal.md) — related
+- [Parents reported that the home activities were fun, promoted science learning, and meaningfully connected to everyday experiences](parents-report-activities-fun-and-connected.md) — related

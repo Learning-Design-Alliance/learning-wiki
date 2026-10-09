@@ -47,6 +47,7 @@ The presentation articulates a framing metaphor for AI in education drawn from t
 - [Technology-as-amplifier: learning technology intensifies and scales the impacts of design tradeoffs in either direction](technology-amplifies-design-tradeoffs.md)
 - [Three-layer definition of AI for learning: computational intelligence, specific capabilities, and a futures toolkit](three-layers-ai-for-learning-definition.md)
 - [Empathy by design: four guiding principles for adult ed-tech development](empathy-by-design-adult-edtech-principles.md)
+- [Four most common AI technology types in cyberlearning: intelligent tutoring systems, machine learning, speech/vision/natural interaction, and social robotics and avatars](cyberlearning-ai-four-technology-types.md)
 
 ## Examples
 

@@ -45,3 +45,4 @@ Subgroup analysis dividing the five course cases by native (Universities C and D
 ## Related Claims
 - [Class conflicts with the OLR led to course changes: sample OLRs from nonnative speakers were implemented and a simplified version and online interface are in progress](olr-conflicts-drive-course-changes.md) — related
 - [VIP effects did not differ between English language learners and fluent English speakers in the study authors' analyses](vip-no-treatment-language-status-interaction.md) — related
+- [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related

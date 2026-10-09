@@ -64,6 +64,7 @@ Reflection converts experience into usable knowledge: unexamined experience rare
 - [Check-ins](../principles/check-ins.md) — a lightweight, recurring form of reflection that builds the routine reflection depends on
 - [5-minute writing conferences](5-minute_writing_conferences.md) — individualized reflection through brief one-on-one dialogue
 - [Use prototyping tasks to help students unfamiliar with design-mode thinking share incomplete ideas](prototyping-tasks-for-design-mode-thinking-novices.md)
+- [Use technology after learner effort to protect productive struggle](use-technology-after-effort.md)
 
 ## Related Elements
 - [Check-in](../elements/check-in.md) — the opening move that establishes emotional safety

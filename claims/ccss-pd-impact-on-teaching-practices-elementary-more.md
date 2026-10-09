@@ -51,3 +51,4 @@ First-time 2016 survey questions asked the extent to which standards-related PD 
 - [Teachers reporting better professional development and curricular coherence have better instructional practices than other teachers in their school](pd-coherence-benefit-individual-teachers.md) — related
 - [Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals](coherence-theory-teacher-effectiveness.md) — a broader claim this one bears on
 - [Teachers who need the strongest support receive less high-quality professional development: high school, beginning elementary, and large-school teachers](underserved-teachers-less-quality-pd.md) — related
+- [Most field-test teachers report curriculum-based professional learning prepared them for distinctive OpenSciEd pedagogy, with mixed results on standards beliefs](pd-prepares-storyline-pedagogy-implementation.md) — related

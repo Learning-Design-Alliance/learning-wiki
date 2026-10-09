@@ -46,3 +46,4 @@ The review reports, citing Clark et al. (2016), that transfer evidence is mixed:
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — related
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
+- [Students learn more from games when bridging activities connect implicit game learning with formal, explicit classroom instruction, and learning analytics can strengthen that connection](bridging-activities-connect-game-learning-to-instruction.md) — related

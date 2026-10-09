@@ -48,3 +48,4 @@ WebCT-administered post-instruction surveys, with responses coded by two PER res
 - [Students in a technology-enhanced modeling physics class learned significantly more than students in an otherwise identical no-technology class](real-time-data-collection-increases-modeling-physics-learning.md) — related
 - [MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added](mpex-consistent-pedagogy-across-tech-years.md)
 - [Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems](students-prefer-technology-enhanced-task-interactivity-animation.md) — related
+- [Anaheim High School's lab showed sustained and expanded impact in year two, with student-led use outpacing teacher engagement](anaheim-lab-year-two-expanded-impact.md) — related

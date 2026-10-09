@@ -43,3 +43,5 @@ In its postsecondary key recommendations, the scan states that "removing degree 
 ## Related Claims
 - [Black Americans comprise only 8% of the 5.3 million tech occupation jobs in the U.S.](black-americans-8-percent-tech-occupation-jobs.md) — related
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
+- [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related
+- [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related

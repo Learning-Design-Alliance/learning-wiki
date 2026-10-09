@@ -45,3 +45,4 @@ Observation-based fidelity data summarized in Table 4 across three Developing Ta
 ## Related Claims
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — a broader claim this one bears on
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
+- [Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects](practitioner-considerations-experimental-research.md) — related

@@ -48,3 +48,4 @@ Student survey indicators of engagement and persistence (working beyond what was
 - [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — related
 - [Evidence for collaboration and communication growth was positive but limited by ceiling effects, while design-thinking growth was mixed](learning-studios-collaboration-design-thinking-mixed.md) — related
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — reports the opposite
+- [A survey of 100 leading companies found 86 percent use blended learning strategies combining an average of 4.8 different modalities](corporate-blended-learning-adoption.md) — related

@@ -42,6 +42,7 @@ The report's central framing metaphor holds that technology amplifies whatever d
 
 - [The electric bike vision of human-centered educational technology](electric-bike-vision-human-centered-ai.md)
 - [Five new design concepts for AI in learning: orchestrating, augmenting, expanding natural interactions, broadening competencies, and revealing connections](five-design-concepts-ai-learning.md)
+- [Digital well-being as a healthy, intentional relationship with technology](digital-well-being-intentional-technology-relationship.md)
 
 ## Examples
 -

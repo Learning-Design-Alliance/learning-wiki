@@ -47,3 +47,4 @@ Cognitive walkthroughs with 12 undergraduates in Education and Society at U1, an
 - [Students primarily used the Socratic-tutor chatbot as a study aid aligned with existing study habits rather than for the intended Socratic reflection](chatbot-used-as-study-aid-not-socratic-reflection.md) — related
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — related
 - [Downloading large compressed video and animation files took students one to two hours, prompting growing requests for CD and DVD copies as the course progressed](oms-download-time-barrier.md) — related
+- [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — reports the opposite

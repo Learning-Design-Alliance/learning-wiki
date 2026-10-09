@@ -48,6 +48,9 @@ The Inclusive Innovation R&D model is an equity-centered education research and 
 
 - [Inclusive Innovation: a co-research and co-design R&D framework enabling co-leadership among students, teachers, parents, community members, and district leaders](inclusive-innovation-framework.md)
 - [Learner Positioning Systems and Learner Models framework](learner-positioning-systems-framework.md)
+- [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](co-design-core-tenets-digital-promise.md)
+- [Co-design framework with core tenets of power sharing, relationships, and capability building](codesign-core-tenets-framework.md)
+- [Inclusive Innovation model with Core Tenets of co-leadership with those most proximate to the challenge](inclusive-innovation-model-core-tenets.md)
 
 ## Examples
 

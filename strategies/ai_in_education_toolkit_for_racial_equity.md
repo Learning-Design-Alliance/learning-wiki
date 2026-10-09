@@ -64,6 +64,9 @@ Algorithmic systems in education systematically encode and amplify racial dispar
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — extends bias auditing from algorithms to content and representation
 - [Implement a systems change approach addressing five factors simultaneously for AI and digital equity](systems-change-five-factors-ai-equity.md)
 - [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
+- [Ask ethics, bias, and equity questions before adopting an AI system](ethics-bias-equity-questions-for-ai.md)
+- [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
+- [During post-adoption, monitor fidelity of use, examine equity patterns, and share strengths and challenges with developers](post-adoption-fidelity-monitoring-feedback.md)
 
 ## Examples
 - **[AI in Education Toolkit for Racial Equity](https://www.racialequityedtech.org)** — the toolkit itself, offering stage-by-stage actions for edtech developers and guidance for districts evaluating products.

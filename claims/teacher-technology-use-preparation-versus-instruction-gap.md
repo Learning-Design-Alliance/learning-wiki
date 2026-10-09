@@ -67,3 +67,4 @@ Descriptive analysis of teacher expectations by school type (Figure 9). The repo
 - [Most Chicago public school students use technology infrequently and for a narrow range of low-level activities](cps-students-infrequent-narrow-technology-use.md) — related
 - [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](adult-ed-out-of-class-use-mobile-gap.md) — related
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](teacher-technology-training-gap.md) — related
+- [Only 18 percent of schools strongly agree teachers are sufficiently trained to use technology for instruction](schools-teacher-technology-training-insufficient.md) — related

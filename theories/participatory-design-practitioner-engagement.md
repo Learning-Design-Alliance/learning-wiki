@@ -45,11 +45,14 @@ Participatory design is presented as a relatively discrete way to work with prac
 - [Design-Based Implementation Research (DBIR) as an approach for co-developing differentiated instruction practice](dbir-approach-differentiated-instruction.md)
 - [Research Practice Partnerships (RPPs) as long-term partnerships focused on problems of practice](research-practice-partnerships-rpp.md)
 - [Research alliance model of practitioner-researcher engagement](research-alliance-engagement-model.md)
+- [Research-practice partnership model for improving problems of educational practice](research-practice-partnership-model.md)
+- [Research-Practice-Industry Partnership (RPIP) model](rpip-model.md)
 
 ## Examples
 
 - [Run conversational office hours in which practitioners and researchers co-design research questions with platform representatives](../strategies/office-hours-co-design-research-questions.md)
 - [Fund collaborative participatory teams and broaden dissemination to bridge edtech design and research for MLLs](../strategies/participatory-collaborative-funding-bridge-mll-design-research.md)
+- [Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions](../strategies/participatory-iterative-co-design-ct.md)
 
 ## Key Sources
 - Pautz Stephenson, S., Banks, R., & Pakhira D. (2022, December). Practitioners at the center: Catalyzing research on problems of practice in realistic settings. Digital Promise. https://doi.org/10.51388/20.500.12265/164

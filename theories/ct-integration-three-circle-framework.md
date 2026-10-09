@@ -43,11 +43,14 @@ The guide recommends a framework for integrating computational thinking into K-1
 - [Distinguishing computing, computer science, computational thinking, and programming](computing-family-term-distinctions.md)
 - [4P4CT framework: four learner-centered pedagogies for teaching computational thinking across all subjects](4p4ct-four-pedagogies-for-ct-framework.md)
 - [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-seven-elements.md)
+- [Digital Promise defines computational thinking as a set of computational skills and computational practices that teachers can map onto subject-matter learning](digital-promise-ct-skills-and-practices-definition.md)
+- [Inclusive pedagogies taxonomy: accessible instruction, connecting to homes and communities, and combating inequity](inclusive-pedagogies-three-categories.md)
 
 ## Examples
 
 - [Design early learning (K-3) CT opportunities both plugged and unplugged, with devices leveraged where appropriate](../strategies/plugged-and-unplugged-early-ct-skills.md)
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](../strategies/integrate-ct-into-disciplinary-learning.md)
+- [Build computational thinking skills in the younger grades through plugged and unplugged activities](../strategies/develop-ct-skills-younger-grades.md)
 
 ## Key Sources
 - Mills, K., Coenraad, M., Ruiz, P., Burke, Q., & Weisgrau J. (2021, December). Computational thinking for an inclusive world: A resource for educators to learn and lead, Quick start and discussion guide. Digital Promise. https://doi.org/10.51388/20.500.12265/140

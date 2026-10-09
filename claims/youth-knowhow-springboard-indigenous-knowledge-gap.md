@@ -48,3 +48,4 @@ Authors' concluding interpretation of the focus group data. The abstract likewis
 - [CHAT references are noticeably absent from commonly cited CSL literature despite shared commitments with Dewey and Freire](chat-absent-from-csl-literature.md) — related
 - [Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems](youth-problems-personal-relevance-not-societal.md) — related
 - [Youth engaged free-choice learning heuristics in everyday problem-solving but typically skipped the assess phase](youth-skip-assess-phase-free-choice-heuristics.md) — related
+- [Parents reported that the home activities were fun, promoted science learning, and meaningfully connected to everyday experiences](parents-report-activities-fun-and-connected.md) — related

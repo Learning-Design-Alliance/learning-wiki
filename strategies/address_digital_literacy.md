@@ -66,6 +66,8 @@ Digital skill varies widely within any cohort, and self-reported confidence is a
 - [Accessible Syntax](../strategies/accessible_syntax.md) — companion language-level clarity that reduces comprehension barriers in instructions
 - [Activate Background Knowledge](../strategies/activate_background_knowledge.md) — the same diagnostic-then-build logic applied to prior knowledge rather than skills
 - [Provide extensive collegial support and professional development for technology integration to avoid maintaining the digital divide](collegial-support-professional-development-technology-integration.md)
+- [Provide support, feedback, guidance, and coaching along the way for low-skilled adult learners](coaching-and-support-for-low-skilled-adult-learners.md)
+- [Scaffold adults from beginning users to confident digital citizens with hands-on, competency-based classes and layered teacher support](scaffold-confidence-hands-on-digital-literacy-classes.md)
 
 ## Examples
 - **Community college online-course onboarding:** Many institutions (e.g., the California Community Colleges' [Online Education Initiative](https://cccconline.org)) provide pre-course readiness modules covering LMS navigation, file management, and netiquette before credit coursework begins.

@@ -52,6 +52,7 @@ Terracotta is described as "a platform that enables research within a popular LM
 ## Examples
 
 - [Run PDSA cycles in which researcher-practitioner teams test modified assignments against as-is versions across multiple classrooms](../strategies/pdsa-assignment-modification-testing-strategy.md)
+- [Teacher-as-researcher experimental design via Terracotta in Canvas](../strategies/terracotta-teacher-as-researcher.md)
 
 ## Key Sources
 - Manai, J., & Roschelle, J. (2024, November). Connecting SEERNet and Improvement Science to Pursue Better Outcomes in Schools. Digital Promise. https://doi.org/10.51388/20.500.12265/234

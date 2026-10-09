@@ -75,6 +75,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Stages of Cognitive Development](stages-of-cognitive-development.md) — Piaget's schema/assimilation/accommodation mechanism is a developmental precursor to the schema and encoding concepts used here
 - [Cognitive Load Theory: working-memory limits, human cognitive architecture, and three load types](clt-three-load-types-framework.md)
 - [Schema theory: learning new information depends on relating it to existing mental blueprints](schema-theory-prior-knowledge-scaffolding.md)
+- [Three-phase model of learning in the brain: encoding, consolidation, retrieval](three-phase-memory-model-encoding-consolidation-retrieval.md)
 
 ## Examples
 - [Chunking](../principles/chunking.md)

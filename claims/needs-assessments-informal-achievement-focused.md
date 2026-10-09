@@ -45,3 +45,4 @@ Survey and interview findings from district participants. The report states need
 
 ## Related Claims
 - [District stakeholders are mostly satisfied with procurement while providers are largely dissatisfied](districts-satisfied-providers-dissatisfied-procurement.md) — related
+- [Most district ed-tech needs assessments are informal; formal needs assessments are rare](edtech-needs-assessments-mostly-informal.md) — possibly the same claim (merge candidate)

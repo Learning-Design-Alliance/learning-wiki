@@ -69,6 +69,8 @@ YPAR is a form of [Community-Based Learning](../principles/community-based-learn
 - [Coach youth to recognize problem-solving opportunities, master effective heuristics, and bolster motivation through collaboration](coach-youth-problem-solving-opportunities-heuristics-collaboration.md)
 - [Issue Investigation and Action approach: developing lifelong skills for independent investigation and resolution of environmental issues](issue-investigation-and-action-approach.md)
 - [Conduct research in partnership with educators on equity problems educators prioritize](educator-partnership-centered-equity-research.md)
+- [Center youth as partners, not participants, in co-design](center-youth-as-partners-not-participants.md)
+- [Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions](participatory-iterative-co-design-ct.md)
 
 ## Examples
 - **[YPAR Hub](https://yparhub.berkeley.edu)** — University of California, Berkeley resource offering a step-by-step YPAR curriculum, facilitator guides, and example youth projects.

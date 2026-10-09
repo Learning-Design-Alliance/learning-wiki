@@ -72,6 +72,7 @@ Equity of access is a precondition for the benefits of any instructional design:
 - [Adapt practice activities to learners' age, cultural background, and aptitudes](adapt-practice-age-culture-aptitude.md)
 - [Attend to a set of interrelated engagement-support factors when designing remote and hybrid instruction](design-remote-instruction-around-engagement-factors.md)
 - [Use economic indicators plus household size to prioritize families, and target outreach through schools with low family engagement](prioritize-economic-need-household-size-internet-programs.md)
+- [Survey adult learners about devices and home access before choosing instructional technology](survey-learners-devices-and-home-access.md)
 
 ## Examples
 - **Kolibri (Learning Equality)** — an offline-first platform designed for low-connectivity schools and refugee education settings; content syncs without continuous internet (https://learningequality.org/kolibri/)

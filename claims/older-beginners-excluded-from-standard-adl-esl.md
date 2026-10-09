@@ -49,3 +49,4 @@ The author's practitioner analysis of federally-funded adult education and commu
 - [Nearly 43 million U.S. adults lack the basic English literacy skills required to succeed in the workforce and achieve economic self-sufficiency](43-million-adults-lack-basic-english-literacy.md) — related
 - [US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs](adult-ed-delivery-structures-fractured.md) — related
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
+- [WIOA requires integration of technology and digital skills into federally funded adult education programs, positioning entrepreneurs to capitalize on the mandate](wioa-requires-technology-integration-adult-education.md) — related

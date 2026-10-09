@@ -39,7 +39,10 @@ The report recommends that AI developers "embrace and center the expertise of te
 - Safe, ethical, and reliable use of AI-enabled tools
 
 ## Related Strategies
-- 
+
+- [Ensure communication and co-development with school leaders throughout edtech process rollout](edtech-process-communication-co-development.md)
+- [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
+- [Engage users and community members in the design process to make learning tools more attractive, useful, and effective](user-and-community-centered-design-methods.md)
 
 ## Examples
 -

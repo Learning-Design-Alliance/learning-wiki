@@ -57,9 +57,11 @@ Positive affect broadens attention and supports flexible, creative thinking, whi
 5. **Repeat and fade** — maintain the routine long enough to become habitual, then reduce frequency; sustained benefit requires repetition [Positive activity interventions show modest, decay-prone effects.](https://doi.org/10.1037/1089-2680.9.2.111) [~S]
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — positive affect at the start of a session lowers the affective barrier to engagement
 - [Achievable Micro-Goals](achievable_micro-goals.md) — small wins generate the genuine enjoyable moments this strategy then consolidates
 - [Activities for Student Self-Reflection](activities_for_student_self-reflection.md) — the reflective structure into which positive-moment noticing fits
+- [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 
 ## Examples
 - **Three Good Things (Penn Resilience Program / positive psychology curricula)** — students write three things that went well each day and their causes; a validated exercise from Seligman et al.'s positive psychology interventions [https://ppc.sas.upenn.edu](https://ppc.sas.upenn.edu)

@@ -45,3 +45,4 @@ A cited Market.us Scoop figure shows spending of "$26B $41B" across 2018–2019 
 ## Related Claims
 - [Per-learner technology spending is far lower in adult education (about $50) than in K-12 (about $145), signaling stagnant innovation in the adult market](adult-ed-tech-spending-50-versus-145-k12.md) — related
 - [Schools and educators each use dozens of unique edtech tools per school year, averaging 45 tools for students and 49 for educators](edtech-high-tool-usage-per-school.md) — related
+- [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](edtech-procurement-implementation-gap.md) — related

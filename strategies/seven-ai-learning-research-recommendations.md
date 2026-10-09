@@ -41,6 +41,7 @@ The panel issued seven recommendations: investigate AI designs for an expanded r
 - [Reorient AI assessment toward formative, holistic portraits of learner competencies rather than automated grading](ai-assessment-holistic-competency-portraits.md)
 - [Design AI as a classroom orchestration partner that helps teachers form groups, nurture conversations, and track participation without taking control](ai-classroom-orchestration-partnership.md)
 - [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
+- [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
 
 ## Examples
 -

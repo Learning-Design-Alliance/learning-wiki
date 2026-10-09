@@ -47,6 +47,7 @@ The paper envisions Learner Positioning Systems, analogous to a geographic GPS, 
 - [Learner Positioning Systems and Learner Models framework](learner-positioning-systems-framework.md)
 - [Jagged profiles concept of learner variability](jagged-profiles-concept.md)
 - [Learner variability and jagged profiles as the foundation for personalized learning](learner-variability-jagged-profiles-foundation.md)
+- [The LPS K-3 Reading Learner Model organizes learner variability into 34 Factors across four research areas](lps-k3-reading-learner-model-34-factors.md)
 
 ## Examples
 -

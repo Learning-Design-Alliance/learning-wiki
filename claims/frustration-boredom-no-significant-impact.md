@@ -45,3 +45,4 @@ Exploratory affect modeling in the PFA-based regression: six affects were rated 
 ## Related Claims
 - [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](no-significant-predictors-tertiary-gpa.md) — related
 - [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) — related
+- [Generalizable detectors of students' affective states in DLPs remain an unsolved problem](no-generalizable-affective-detectors.md) — related

@@ -46,3 +46,4 @@ Focus group and interview data from coaches. One coach found via the dashboard t
 - [Coursemojo's color-coded engagement dots served as a real-time diagnostic that coaches reported enabled in-the-moment scaffolding and small group pulls](engagement-dots-realtime-diagnostic-small-groups.md) — related
 - [Instructional coaching provides individualized support adapted to teachers' needs and classroom contexts, in contrast to traditional professional development workshops](coaching-individualized-support-versus-workshops.md) — related
 - [CA tool-based assessment and visualization of learning outcomes enables targeted feedback and evidence-based adjustment of pedagogical practices in higher education](ca-visualization-supports-targeted-feedback-and-pedagogical-adjustment.md) — related
+- [The co-designed AI-enabled SST meeting agenda tool saw mixed district-wide adoption despite enthusiasm in facilitated meetings](sst-agenda-tool-mixed-adoption.md) — related

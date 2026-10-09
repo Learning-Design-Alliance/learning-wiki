@@ -50,7 +50,8 @@ Twig Science is "a comprehensive, phenomena-based science curriculum for Grades 
 - [Connect Science curriculum: 31 lessons integrating NGSS practices, social and collaborative skills, and service-learning](connect-science-curriculum-element.md)
 
 ## Examples
--
+
+- [Use NGSS-aligned K-8 science coursework as the starting point for district CT integration](../strategies/ngss-science-starting-point-ct-integration.md)
 
 ## Key Sources
 - Twig Science — Evidence Rating: Promising. (2025). Imagine Learning program evidence summary. https://evidenceforessa.org/program/twig-science/

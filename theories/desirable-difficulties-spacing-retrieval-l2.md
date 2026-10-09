@@ -41,7 +41,8 @@ The article organizes its rationale around desirable difficulties, defined as "a
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](../claims/learning-rate-retention-tradeoff.md) [+W]
 
 ## Related Theories
-- 
+
+- [Three-phase model of learning in the brain: encoding, consolidation, retrieval](three-phase-memory-model-encoding-consolidation-retrieval.md)
 
 ## Examples
 

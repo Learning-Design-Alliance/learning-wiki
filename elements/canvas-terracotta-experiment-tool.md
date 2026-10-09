@@ -46,6 +46,7 @@ Terracotta "integrates with the Canvas learning management system (LMS) and make
 - [Leverage digital learning platforms to run unobtrusive randomized experiments on language modifications in math problems](../strategies/dlp-unobtrusive-language-experiments.md)
 - [Develop appropriate procedures for gathering parental permission and student assent](../strategies/consent-procedures-parental-permission-student-assent.md)
 - [Use a 2x2 factorial design to separate the effects of contextual relevance and linguistic detail in word problems](../strategies/factorial-context-detail-word-problem-design.md)
+- [Teacher-as-researcher experimental design via Terracotta in Canvas](../strategies/terracotta-teacher-as-researcher.md)
 
 ## Key Sources
 - Wei, X., Wortman, A., Cheng, L., Heffernan, N., Heffernan, C., Murphy, A., Zepeda, C., Motz, B., Jankowski, H., & Roschelle, J. (2024, March). Language and mathematics learning: A comparative study of digital learning platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/206

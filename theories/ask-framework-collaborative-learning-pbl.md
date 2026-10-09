@@ -45,7 +45,8 @@ The ASK framework classifies statements about collaborative learning into three 
 - [No significant relationship between attitudes toward group work and achievement goal orientation profiles, but attitudes correlate with perceived discussion and active listening behaviors](../claims/attitudes-group-work-not-goal-orientation-but-collaboration-perception.md) [+W]
 
 ## Related Theories
-- 
+
+- [Dispositional mastery framework: Ability, Inclination, and Sensitivity](dispositional-mastery-ability-inclination-sensitivity.md)
 
 ## Examples
 -

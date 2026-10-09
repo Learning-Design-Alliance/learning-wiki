@@ -84,6 +84,7 @@ Family engagement functions as an out-of-school support system that amplifies in
 - [Check-ins](../elements/check-in.md) — the routine mechanism for sustaining two-way communication
 - [Provide parent read-at-home plans and home reading strategies for struggling readers](parent-read-at-home-plans.md)
 - [Extend character education beyond the classroom with optional parental and community involvement components](optional-parent-community-involvement-components.md)
+- [Recruit early in the spring, communicate clearly with parents, keep enrollment open, and require commitment to clear program expectations](early-parent-communication-open-enrollment-summer-edtech.md)
 
 ## Examples
 - **[Parent Teacher Home Visits](https://www.ptplus.org)** — National program in which educators visit families at home to build relational trust before academic partnership; associated with improved attendance and behavior in district evaluations.

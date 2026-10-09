@@ -46,3 +46,4 @@ The scan's key idea following its compilation of exposure and exploration resour
 - [Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment](way2work-no-employment-expectation-effects.md) — related
 - [Way2Work Maryland increased vocational rehabilitation agency engagement, with almost all treatment group members using agency-provided work-based learning experiences](way2work-increased-vr-agency-engagement.md) — related
 - [Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers](skills-based-hiring-widens-talent-pool.md) — related
+- [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related

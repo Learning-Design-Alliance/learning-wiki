@@ -47,6 +47,7 @@ The article applies Evidence Centered Design (Mislevy, Almond, & Lukas, 2003) as
 
 - [Historical Thinking Skills Activity Rubrics (A1-A6) for assessing learning opportunities in world history assignments](../elements/hts-activity-rubrics-a1-a6.md)
 - [Historical Thinking Skills Student Work Rubrics (S1-S6) for assessing historical thinking in student products](../elements/hts-student-work-rubrics-s1-s6.md)
+- [Four-level (0-3) Historical Thinking Skills rubrics for scoring teacher activities and student work](../elements/historical-thinking-skills-rubrics-0-3.md)
 
 ## Key Sources
 - Iwatani, E., Means, B., Seylar, J., and Hardy, A. (2021). Rubrics on historical thinking skills for assignments and student work: Initial validity evidence. Digital Promise. https://doi.org/10.51388/20.500.12265/112

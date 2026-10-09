@@ -47,3 +47,4 @@ Descriptive statement of the study's data and scope as printed in the brief's de
 - [Students in high-poverty schools face the greatest impact from hot test days](high-poverty-schools-greatest-heat-impact.md) — related
 - [Heat effects on student performance may be more extreme for students in high-poverty schools where cooling conditions may be less reliable](heat-effects-more-extreme-high-poverty-schools-cooling.md) — related
 - [Environmental temperatures on test days are associated with student math and reading performance, per the report this appendix documents](hot-test-days-lower-math-reading-performance.md) — related
+- [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — related

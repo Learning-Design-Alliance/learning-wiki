@@ -45,7 +45,8 @@ The FRTF is a conceptual model organizing 12 talents into four clusters — Expa
 - [A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents](../claims/frtf-synthesis-46-frameworks-12-talents.md) [+M]
 
 ## Related Theories
-- 
+
+- [Career-ready skills comprise three tiers: academic skills, employability skills, and technical skills](career-ready-skills-three-tier-taxonomy.md)
 
 ## Examples
 

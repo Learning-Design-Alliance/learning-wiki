@@ -38,6 +38,7 @@ The report recommends establishing "formal, compensated mechanisms (e.g., Worker
 ## Related Strategies
 
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
+- [Supportive practices for inclusive youth co-design: reach beyond usual voices, respect time, ensure accessibility, and compensate fairly](inclusive-youth-co-design-supportive-practices.md)
 
 ## Examples
 -

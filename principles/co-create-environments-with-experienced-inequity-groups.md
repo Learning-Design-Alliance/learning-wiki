@@ -50,6 +50,7 @@ Among its guiding assumptions, the brief states that "Environments are more cond
 - [Make the Invisible Visible (Power Dynamics)](../methods/make-the-invisible-visible-power-dynamics.md)
 - [Focusing Projects on Issues of Justice](../strategies/focusing_projects_on_issues_of_justice.md)
 - [Building a Trusting Community](../strategies/building_a_trusting_community.md)
+- [Co-designed future-oriented research questions on personalization, learning environments, engagement metrics, and reward systems](../elements/seernet-co-designed-research-questions.md)
 
 ## Key Sources
 - SWIFT Education Center. (2025, May). Rightful presence in education systems. https://swiftschools.org

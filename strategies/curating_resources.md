@@ -59,8 +59,10 @@ Curation manages extraneous cognitive load by removing the costs of search, eval
 6. Schedule review; prune and replace based on usage data and currency.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — curation decisions should map resources to the prior knowledge they build on or require
 - [Assigned Readings](../elements/assigned-readings.md) — the most common minimal form of curation; annotation and sequencing distinguish full curation from a reading list
+- [Curate and connect open education resources for making, re-formatted and linked to standards, to meet champions' demand for student project guides](curate-open-education-resources-for-making.md)
 
 ## Examples
 - **OER commons and MERLOT (https://www.merlot.org)** — curated repositories where editorial boards apply review criteria and user ratings to open educational resources.

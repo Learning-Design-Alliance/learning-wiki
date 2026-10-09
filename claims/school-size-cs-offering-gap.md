@@ -47,3 +47,4 @@ Cross-tabulation of CPS high schools by enrollment size category and CS offering
 - [CS course offerings in CPS high schools more than doubled between 2009 and 2018, with 80 percent of schools offering at least one CS course by 2018](cps-cs-offerings-doubled-2009-2018.md) — related
 - [Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in CS, a gap largely explained by differential access to schools offering CS](low-ses-cs-enrollment-access-explained.md) — related
 - [Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018](student-cs-access-92-percent-2018.md) — related
+- [Access to computing instruction in US schools is limited and inequitable by school level and poverty](computing-access-limited-inequitable-us-schools.md) — related

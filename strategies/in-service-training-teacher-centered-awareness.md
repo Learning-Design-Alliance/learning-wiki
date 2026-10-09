@@ -39,6 +39,7 @@ Based on the finding that about 21% of teachers still hold teacher-centered expe
 ## Related Strategies
 
 - [Provide professional development programs so teachers learn to implement self-regulated learning strategies in their lessons](teacher-professional-development-srl-strategies.md)
+- [Raise teacher awareness of new features through professional development and outreach](raise-teacher-awareness-new-feature-pd-outreach.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Longitudinal survey analysis of seven areas of school improvement assessed with 
 - [Annenberg schools showed no significant differences from non-Annenberg schools in student social and psychological outcomes, some of which weakened](annenberg-social-outcomes-no-difference-some-weakened.md) — related
 - [Relational trust varies substantially between schools, supporting its treatment as an organizational property](relational-trust-varies-between-schools-organizational-property.md) — related
 - [Schools with many unrelated and unsustained initiatives show smaller gains than schools with coherent programs](instructional-program-coherence-smaller-gains.md) — related
+- [Marketing courseware to individual faculty members produced higher initial user numbers than institutional scaling strategies, but the difference disappeared within 3 years.](marketing-versus-institutional-scaling-courseware.md) — a narrower finding that bears on this claim

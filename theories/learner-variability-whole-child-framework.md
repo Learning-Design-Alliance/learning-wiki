@@ -43,6 +43,8 @@ The guide's organizing framework treats learner variability as a design challeng
 
 - [Lvp Digitalpromiseglobal Navigator Tool](../elements/lvp-digitalpromiseglobal-navigator-tool.md)
 - [Learner variability as a multidimensional construct spanning cognitive, social, emotional, and background factors](learner-variability-multidimensional-construct-digital-promise.md)
+- [LPS Learner Factors model for Reading PK-3](lps-learner-factors-reading-pk3-model.md)
+- [Whole-child learner variability theory of change](lvp-whole-child-theory-of-change.md)
 
 ## Examples
 

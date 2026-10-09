@@ -42,6 +42,7 @@ The article recommends that ESP educators design language programs emphasizing a
 ## Related Strategies
 
 - [Build autonomy-supportive learning contexts through perspective-taking, choice, self-initiation, and non-controlling language](autonomy-supportive-context-components.md)
+- [Foster teacher agency through low-risk, high-reward opportunities with escalating responsibility](low-risk-high-reward-teacher-agency-opportunities.md)
 
 ## Examples
 -

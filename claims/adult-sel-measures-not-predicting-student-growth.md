@@ -49,3 +49,4 @@ Cross-sectional survey of 269 K-8 educators (19% response rate) linked to i-Read
 - [The sample's emotion regulation and relationship management scores were comparable to the original TRUST validation sample of in-service teachers](sample-sel-scores-comparable-original-trust-sample.md) — related
 - [Students were less likely to meet target math and reading growth goals in schools with greater NSLP participation](nslp-participation-associated-lower-growth-goal-attainment.md) — related
 - [SEL-related constructs are strongly predictive of long-term academic achievement and attainment](sel-constructs-predict-long-term-achievement-attainment.md) — related
+- [Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt](teacher-readiness-belief-predicts-first-prompt-growth.md) — related

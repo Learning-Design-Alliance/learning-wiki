@@ -46,6 +46,10 @@ The micro-credentialing ecosystem is a set of platforms and issuers through whic
 - [Digital Promise micro-credential ecosystem on the BloomBoard platform](digital-promise-bloomboard-micro-credential-ecosystem.md)
 - [Digital Promise educator micro-credential ecosystem and online platform](digital-promise-micro-credential-ecosystem.md)
 - [Digital Promise micro-credential template structuring competency, method, research rationale, and submission criteria](digital-promise-micro-credential-template.md)
+- [Digital Promise's Computational Thinking micro-credentials recognize educators whose students apply CT practices](digital-promise-ct-micro-credentials.md)
+- [Educator micro-credentials: five-step competency-based professional learning credential](educator-micro-credentials-five-step-process.md)
+- [Micro-credentialing (digital badges) for recognizing teacher competencies](micro-credentialing-digital-badges-teachers.md)
+- [PennGSE Data Science Methods for Digital Learning Platforms certificate program](penngse-data-science-dlp-certificate.md)
 
 ## Examples
 

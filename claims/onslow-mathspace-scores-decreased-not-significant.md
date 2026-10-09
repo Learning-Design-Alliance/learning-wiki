@@ -45,3 +45,4 @@ The Onslow pilot study brief (Appendix A) reports the pre-post benchmark analysi
 ## Related Claims
 - [Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings](educator-buy-in-engagement-fidelity-edtech-pilots.md) — related
 - [Mathspace classroom use was limited, with 90% of teachers using it two hours or less weekly and two-thirds reporting technical challenges](mathspace-limited-classroom-use-technical-challenges.md) — related
+- [Vista students using Mathspace showed statistically significant math gains over the summer, while benchmark scores were not significantly different in the other two districts](vista-mathspace-significant-summer-math-gains.md) — related

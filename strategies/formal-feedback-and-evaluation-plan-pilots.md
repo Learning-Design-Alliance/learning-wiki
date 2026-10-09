@@ -41,6 +41,7 @@ The report recommends that districts treat student and teacher feedback as a for
 - [Distinguish learner research from user research and choose success metrics tied to educational outcomes rather than engagement](distinguish-learner-research-from-user-research.md)
 - [Establish a national Ed-tech Product Information Exchange website](ed-tech-product-information-exchange.md)
 - [Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results](rapid-cycle-edtech-pilot-best-practices.md)
+- [Provide professional learning opportunities and free tools to support educators in conducting edtech pilot studies](professional-learning-and-free-tools-for-edtech-piloting.md)
 
 ## Examples
 -

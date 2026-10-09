@@ -58,9 +58,11 @@ Mindfulness training targets the attentional control system: regular practice st
 5. **Repeat across weeks.** Effects on attention and stress accumulate with dosage; single sessions do not produce durable change [+M].
 
 ## Related Strategies
+
 - [Check-In](../elements/check-in.md) — mindfulness is often the vehicle for an opening check-in routine
 - [Spaced Practice](../principles/spaced-learning.md) — same repetition logic: distributed, repeated brief sessions beat massed ones
 - [Retrieval Practice](retrieval-practice.md) — a calm, focused state before retrieval reduces anxiety-driven interference
+- [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 
 ## Examples
 - **MindUP** (https://mindup.org) — evidence-informed school curriculum with daily 3-minute "brain breaks" embedded in the school day.

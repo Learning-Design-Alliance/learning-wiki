@@ -44,6 +44,8 @@ The report recommends that reformers treat small size as only a lever, not a gua
 - [Build organizational strength over time using staff changes as one of many mechanisms, per the IES School Turnaround Practice Guide recommendations](ies-turnaround-practice-guide-recommendations.md)
 - [States and districts should treat identifying and developing effective principals as a priority given the central importance of school leadership](prioritize-developing-effective-principals.md)
 - [Use small school creation as a lever for raising attendance and graduation among at-risk students](small-schools-for-attendance-and-graduation.md)
+- [Start simple: relationships-first, low-tech student success systems can suffice in small, tight-knit communities](just-start-simple-relationships-first-success-systems.md)
+- [System-level strategies to build enabling conditions for Powerful Learning](system-level-strategies-powerful-learning-conditions.md)
 
 ## Examples
 -
