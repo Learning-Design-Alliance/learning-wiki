@@ -11,7 +11,12 @@ candidates from other sources nearest to it, to one model, which answers:
     attach N   the candidate is canonical page N's idea, or a narrower case of it
     join N     it is the same idea as open candidate N, from another source
     new        a general idea nothing listed covers; it waits for a second source
-    design     a design for one setting, course, population or product
+    design     one setting's design: a course, lesson sequence or one site's implementation
+    product    a named product or programme others adopt, or one programme's own framework,
+               tool or indicator (with its name, kind and a one-line description)
+    research-method  a method for studying learning or evaluating education that is
+               specific to education or especially useful there (with its name);
+               general social-science methods are drops
     drop       too thin for a page: one finding restated, or an opinion
 
 and, for `attach`, which of the candidate's claims bear on that page, with what
@@ -23,6 +28,9 @@ marker, and whether each tests the page's own relationship. With --apply:
             recorded evidence allows (link_pages.strength_cap), with the source and
             the candidate's title beside it. A claim the page already links is skipped.
     design  written as a draft page in designs/, from the candidate's own fields.
+    product, research-method  written to the page in products/ or research-methods/
+            for that name (write_named): a new draft page, or a component or account,
+            claims and source added to the page the name already has.
 
 and every decision is appended to eval/candidates/decisions.ndjson. `new` and `join`
 stay open and are asked again on the next run, when a later batch may have brought
@@ -40,12 +48,12 @@ canonical (eval/page-triage/triage.tsv), plus every page converted since.
 
 Elements and theories (2026-10-09) are decided the same way against their own
 canonical index: every element or theory page no batch wrote (the curated ones),
-plus any batch page ten or more pages link to. Two more outcomes apply to them:
-"design" for a named programme for one setting (the settled rule: designs/), and
-"artifact" for a product, tool, dataset, instrument or one programme's framework,
-which is recorded and written nowhere until the wiki has a kind for it. After the
-decisions, links the source's own pages make to the candidate are resolved: to the
-page it attaches to, to its design page, or unlinked (resolve_links).
+plus any batch page ten or more pages link to. After the decisions, links the
+source's own pages make to the candidate are resolved: to the page it attaches to,
+to its design, product or research-method page, or unlinked (resolve_links).
+Until 2026-10-10 a product, tool or one programme's framework was an "artifact",
+recorded and written nowhere; products/ and research-methods/ replaced it, and
+those candidates are no longer settled, so the next run asks them again.
 
     python3 scripts/settle_candidates.py                    # settle open candidates (dry run)
     python3 scripts/settle_candidates.py --apply            # and write attachments and designs
@@ -116,7 +124,20 @@ Outcomes:
 - "join": no canonical page fits, but an open candidate states the same general idea. Give "n", its letter.
 - "new": a general, reusable principle or pattern that no page in the whole CANONICAL INDEX covers, even as a
   broader idea. Name the closest index page in "why" and say what it lacks.
-- "design": a specific course, programme, lesson sequence or product for one setting or population.
+- "design": one setting's design: a course, lesson sequence, or one school's, district's or study's
+  implementation, described for its learners and setting.
+- "product": a named product or programme that others adopt or use: software, an app or platform, a
+  curriculum or programme package, an assessment, test or measurement instrument, a dataset, a branded
+  intervention or initiative; or one such programme's or organisation's own framework, model, indicator,
+  rubric or theory of change. Give "name", the product or programme it is or belongs to, as its maker names
+  it (the To&Through Milestones Tool belongs to "To&Through Project"), "product_kind" (one of software,
+  curriculum, assessment, dataset, programme, framework) and "product_description", one sentence on what
+  that product or programme is and who makes or runs it.
+- "research-method": a method for studying learning or evaluating education that is specific to education
+  or especially useful there: cluster-randomised trials of schools and their power, evidence standards such
+  as the What Works Clearinghouse's, design-based research, knowledge tracing, learning analytics methods,
+  growth and value-added models, early-warning indicator construction. Give "name". A general social-science
+  method (regression, surveys, interviews, factor analysis, qualitative coding) is "drop".
 - "drop": not a page: it restates one empirical finding (that is a claim), or is an aspiration or opinion
   with no actionable design content, or is too vague to act on.
 
@@ -126,6 +147,7 @@ it; then S/M/W from the claim's evidence line, e.g. "+W"), and "tests" (does the
 relationship, as opposed to illustrating it?). A null, non-significant or "no difference" result is never "+":
 it is "~" (the relationship did not show here) or "-" (it counts against the page).
 Reply: {{"outcome": "...", "n": <number or letter or null>, "why": "one sentence",
+ "name": <for product or research-method>, "product_kind": ..., "product_description": ...,
  "claims": [{{"k": <claim number>, "bears": true, "marker": "+W", "tests": false}}]}}"""
 
 
@@ -153,9 +175,20 @@ Outcomes:
 - "join": no canonical page fits, but an open candidate is the same general {kind}. Give "n", its letter.
 - "new": a general {kind}, used or studied beyond this one source, that no index page covers. Name the
   closest index page in "why" and say what it lacks.
-- "design": a specific course, programme or intervention for one setting or population (a named programme).
-- "artifact": a named product, tool, platform, dataset, survey, test or measurement instrument, or one
-  programme's or organisation's own framework, model, rubric or theory of change.
+- "design": one setting's design: a course, lesson sequence, or one school's, district's or study's
+  implementation, described for its learners and setting.
+- "product": a named product or programme that others adopt or use: software, an app or platform, a
+  curriculum or programme package, an assessment, test or measurement instrument, a dataset, a branded
+  intervention or initiative; or one such programme's or organisation's own framework, model, indicator,
+  rubric or theory of change. Give "name", the product or programme it is or belongs to, as its maker names
+  it (the To&Through Milestones Tool belongs to "To&Through Project"), "product_kind" (one of software,
+  curriculum, assessment, dataset, programme, framework) and "product_description", one sentence on what
+  that product or programme is and who makes or runs it.
+- "research-method": a method for studying learning or evaluating education that is specific to education
+  or especially useful there: cluster-randomised trials of schools and their power, evidence standards such
+  as the What Works Clearinghouse's, design-based research, knowledge tracing, learning analytics methods,
+  growth and value-added models, early-warning indicator construction. Give "name". A general social-science
+  method (regression, surveys, interviews, factor analysis, qualitative coding) is "drop".
 - "drop": not a page: it restates one empirical finding (that is a claim), or is too vague to act on.
 
 For "attach" only, judge each of the candidate's claims against THAT page: "bears" (is the claim directly
@@ -163,6 +196,7 @@ about the page's {kind}?), "marker" (+ supports or illustrates it, ~ depends on 
 it; then S/M/W from the claim's evidence line, e.g. "+W"), and "tests" (does the claim test the page's central
 idea, as opposed to illustrating it?). A null, non-significant or "no difference" result is never "+".
 Reply: {{"outcome": "...", "n": <number or letter or null>, "why": "one sentence",
+ "name": <for product or research-method>, "product_kind": ..., "product_description": ...,
  "claims": [{{"k": <claim number>, "bears": true, "marker": "+W", "tests": false}}]}}"""
 
 ET_WHAT = {
@@ -346,14 +380,22 @@ def decide(cand: dict, canon_recs: list, open_rows: list, api_key: str, model: s
             break
         except Exception:
             d = None
-    if isinstance(d, dict) and d.get("outcome") == "artifact" and family == "pp":
-        d["outcome"] = "drop"   # principles and patterns have no artifact outcome
+    if isinstance(d, dict) and d.get("outcome") == "artifact":
+        d["outcome"] = "product"   # the outcome's old name, which the model may still use
     if not isinstance(d, dict) or d.get("outcome") not in cl.OUTCOMES:
         return {"id": cand["id"], "outcome": "error", "why": (gen.raw_text or "")[:200],
                 "cost_usd": gen.cost_usd}
     out = {"id": cand["id"], "outcome": d["outcome"], "why": d.get("why"), "model": model,
            "cost_usd": gen.cost_usd, "at": date.today().isoformat()}
     n = d.get("n")
+    if d["outcome"] in ("product", "research-method"):
+        name = d.get("name") if isinstance(d.get("name"), str) and d["name"].strip() else cand.get("title")
+        out["name"] = name.strip()
+        if d["outcome"] == "product":
+            kind = d.get("product_kind")
+            out["product_kind"] = kind if kind in PRODUCT_KINDS else None
+            out["product_description"] = (d.get("product_description") or "").strip() or None
+        return out
     if d["outcome"] == "attach":
         if not (isinstance(n, int) and 1 <= n <= len(index)) or index[n - 1]["key"] == cand.get("page"):
             return {**out, "outcome": "error", "why": f"attach without a valid page number: {n!r}"}
@@ -484,6 +526,103 @@ def write_attach(dec: dict, cand: dict) -> int:
     return n
 
 
+PRODUCT_KINDS = ("software", "curriculum", "assessment", "dataset", "programme", "framework")
+KIND_FOLDER = {"product": "products", "research-method": "research-methods"}
+_NAME_GENERIC = {"the", "a", "an", "of", "and", "for", "in", "project", "program", "programme",
+                 "initiative", "tool", "platform", "framework", "model", "method"}
+
+
+def name_key(name: str) -> str:
+    """One product or method, however a source words its name: filler and generic words
+    out, so "To&Through Project" and "the To&Through project" are one page."""
+    words = [w for w in re.findall(r"[a-z0-9]+", (name or "").lower()) if w not in _NAME_GENERIC]
+    return " ".join(words) or " ".join(re.findall(r"[a-z0-9]+", (name or "").lower()))
+
+
+def find_named_page(folder: str, name: str) -> "Path | None":
+    key = name_key(name)
+    for p in sorted((WIKI_ROOT / folder).glob("*.md")):
+        if p.stem == "index":
+            continue
+        m = re.search(r"^title:\s*(.+)$", p.read_text(encoding="utf-8")[:1500], re.M)
+        if m and name_key(m.group(1).strip().strip('"')) == key:
+            return p
+    return None
+
+
+def _section_add(text: str, heading: str, lines: list, before: tuple) -> str:
+    """Append lines (skipping any already present) under `heading`, creating it before
+    the first of `before` that exists, else at the end."""
+    lines = [l for l in lines if l and l not in text]
+    if not lines:
+        return text
+    m = re.search(rf"^{re.escape(heading)}[ \t]*\n", text, re.M)
+    if m:
+        nxt = re.search(r"^#{1,3} ", text[m.end():], re.M)
+        cut = m.end() + (nxt.start() if nxt else len(text) - m.end())
+        block = [l for l in text[m.end():cut].rstrip("\n").split("\n") if l.strip() not in ("-", "")]
+        rest = text[cut:]
+        return text[:m.end()] + "\n".join(block + lines) + ("\n\n" + rest if rest else "\n")
+    for b in before:
+        mb = re.search(rf"^{re.escape(b)}[ \t]*$", text, re.M)
+        if mb:
+            return text[:mb.start()] + f"{heading}\n" + "\n".join(lines) + "\n\n" + text[mb.start():]
+    return text.rstrip("\n") + f"\n\n{heading}\n" + "\n".join(lines) + "\n"
+
+
+def write_named(cand: dict, dec: dict, actor: str) -> "str | None":
+    """Write a `product` or `research-method` decision to its page: the page for that
+    name if one exists (name_key), else a new draft page. The candidate is listed as a
+    component (a product's framework, tool or indicator) or as a source's account (a
+    method), with its cited claims, markers capped at their recorded evidence, and its
+    source under Key Sources. Returns the page path relative to the wiki."""
+    folder = KIND_FOLDER[dec["outcome"]]
+    name = dec.get("name") or cand.get("title") or ""
+    if not name_key(name):
+        return None
+    path = find_named_page(folder, name)
+    citation = cand.get("citation") or ""
+    claims = []
+    for c in cited_claims(cand):
+        tag = c.get("tag") if isinstance(c.get("tag"), str) and lp.MARKER_RE.match(c["tag"] or "") else None
+        if tag:
+            cap = lp.strength_cap(c["evidence"])
+            if "WMS".index(tag[1]) > "WMS".index(cap):
+                tag = tag[0] + cap
+        claims.append(f"- [{c['title']}](../claims/{c['slug']}.md)" + (f" [{tag}]" if tag else ""))
+    is_itself = name_key(re.split(r":| [-–—] ", cand.get("title", ""))[0]) == name_key(name)
+    own = f"- **{cand.get('title', '').strip()}**: {(cand.get('description') or '').strip()} ({short_source(cand)})"
+    tail = ("## Related Products and Programmes" if folder == "products" else "## Related Research Methods",
+            "## Key Sources")
+    if path is None:
+        slug = okf_lib.slugify(name)[:90].strip("-")
+        path = WIKI_ROOT / folder / f"{slug}.md"
+        if path.exists():
+            return None
+        desc = dec.get("product_description") if folder == "products" else None
+        desc = desc or (cand.get("description") or "").strip() or name
+        fm = {"type": dec["outcome"], "id": slug, "title": name,
+              "description": re.split(r"(?<=[.!?])\s", desc.strip(), maxsplit=1)[0][:300]}
+        if folder == "products" and dec.get("product_kind"):
+            fm["product_kind"] = dec["product_kind"]
+        fm.update({"status": "draft", "generated": {"by": actor, "at": date.today().isoformat()}})
+        middle = ("## Components\n<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->\n"
+                  if folder == "products" else
+                  "## Accounts\n<!-- How each source describes or uses the method -->\n")
+        body = (f"\n# {name}\n\n## Description\n{desc}\n\n{middle}"
+                f"\n### Claims\n\n{tail[0]}\n-\n\n## Key Sources\n-\n")
+        path.write_text(okf_lib.dump_frontmatter(fm) + body, encoding="utf-8")
+    text = path.read_text(encoding="utf-8")
+    section = "## Components" if folder == "products" else "## Accounts"
+    if not (is_itself and section == "## Components"):
+        text = _section_add(text, section, [own], ("### Claims",) + tail)
+    text = _section_add(text, "### Claims", claims, tail)
+    if citation:
+        text = _section_add(text, "## Key Sources", [f"- {citation}"], ())
+    path.write_text(text, encoding="utf-8")
+    return f"{folder}/{path.name}"
+
+
 _LINK = re.compile(r"\[([^\]]*)\]\(((?:\.\./[a-z-]+/)?([^)/#\s]+)\.md)(#[^)]*)?\)")
 
 
@@ -499,7 +638,7 @@ def resolve_links(cand: dict, dec: "dict | None", source_pages: dict) -> int:
     target = None
     if dec and dec.get("outcome") == "attach":
         target = dec.get("target")
-    elif dec and dec.get("outcome") == "design" and dec.get("page"):
+    elif dec and dec.get("outcome") in ("design", "product", "research-method") and dec.get("page"):
         target = dec["page"][:-3]
     n = 0
     for rel in source_pages.get(cand.get("article_id"), []):
@@ -903,7 +1042,7 @@ def main() -> None:
         print(f"  {d['outcome']:7} {c.get('type')} {c.get('slug')}  {tgt}  — {d.get('why') or ''}"[:220])
     if not args.apply:
         return
-    attached = designs = 0
+    attached = designs = named = 0
     for d in decs:
         if d["outcome"] == "attach":
             attached += write_attach(d, cands[d["id"]])
@@ -912,6 +1051,11 @@ def main() -> None:
             if path:
                 d["page"] = path
                 designs += 1
+        elif d["outcome"] in ("product", "research-method"):
+            path = write_named(cands[d["id"]], d, args.by)
+            if path:
+                d["page"] = path
+                named += 1
     cl.append_decisions([d for d in decs if d["outcome"] != "error"])
     # Every element or theory candidate settled this run, whatever its outcome (an error
     # included), leaves no link to a page that does not exist.
@@ -919,11 +1063,12 @@ def main() -> None:
     src = source_pages_by_article()
     relinked = sum(resolve_links(c, by_id.get(c["id"]), src) for c in todo
                    if c.get("type") in ("element", "theory"))
-    if designs:
+    if designs or named:
         import subprocess
         subprocess.run([sys.executable, str(WIKI_ROOT / "scripts" / "add_type_banner.py"), "--apply"],
                        cwd=WIKI_ROOT, check=False)
     print(f"applied: {attached} claim link(s) attached, {designs} design page(s) written, "
+          f"{named} product or research-method candidate(s) written, "
           f"{relinked} link(s) to element/theory candidates resolved; "
           f"decisions -> {cl.DECISIONS.relative_to(WIKI_ROOT)}")
     report(cands, cl.load_decisions())

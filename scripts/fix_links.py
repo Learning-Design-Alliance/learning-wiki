@@ -37,7 +37,8 @@ import okf_lib as ok
 
 WIKI_ROOT = Path(__file__).parent.parent
 PAGE_TYPES = ("principles", "elements", "patterns", "strategies", "theories",
-              "learner-variables", "claims", "processes", "methods", "designs")
+              "learner-variables", "claims", "processes", "methods", "designs",
+              "products", "research-methods")
 
 
 def _resolves(page: Path, dest: str) -> bool:

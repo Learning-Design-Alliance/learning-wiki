@@ -14270,6 +14270,8 @@
 "patterns":"pattern",
 "principles":"principle",
 "processes":"process",
+"products":"product",
+"research-methods":"research-method",
 "theories":"theory"
 },
 "note":"Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
@@ -14282,6 +14284,8 @@
 "patterns":126,
 "principles":375,
 "processes":18,
+"products":0,
+"research-methods":0,
 "strategies":4347,
 "theories":1695
 }

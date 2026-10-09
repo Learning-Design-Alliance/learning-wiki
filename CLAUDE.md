@@ -121,6 +121,18 @@ work is done, not that the check is broken.
   A design page says which patterns it uses and for what (`## Patterns Used`); the evidence stays on
   the patterns and claims it links.
 
+- **Products and programmes live in `products/`, and education research methods in `research-methods/`**
+  (maintainer, 2026-10-10). A **product** is a named thing others adopt or use: software or a platform, a
+  curriculum or programme package, an assessment or measurement instrument, a dataset, a branded
+  intervention or initiative. One programme's own frameworks, indicators, tools and theories of change are
+  listed on its page under `## Components`, not written as theories or elements. A **design** is one
+  setting's design (a course, a lesson sequence, one site's implementation); a branded programme many
+  sites adopt is a product. A **research method** is a method for studying learning or evaluating
+  education that is specific to education or especially useful there (cluster-randomised trials of
+  schools, evidence standards, design-based research, knowledge tracing, growth and value-added models).
+  **General social-science methods are not pages** (maintainer: "regular old social science research
+  methods are not that useful in a database like this"). `methods/` stays the *design* methods.
+
 **When you finish something wiki-wide, add a dated entry at the top of
 [`history/agent-log.md`](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/history/agent-log.md)**, newest first, as every session before you
 did; that file is how the next session finds out what happened and why. If the work changes
@@ -157,8 +169,9 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 - **Batches write no principle, pattern, element or theory page.** Ingest puts each in
   `eval/candidates/candidates.ndjson`, and `settle_candidates.py --apply` (run in every batch)
   attaches it to a canonical page, joins it to another candidate, writes a design page,
-  records it as an `artifact` (a product, tool or one programme's framework, waiting on a
-  maintainer decision about a kind for them) or drops it. Promotion to a new canonical page is
+  writes it to its product's page (`product`, grouped by name: a programme's tools and
+  frameworks become components of one page) or a research-method page, or drops it. The old
+  `artifact` outcome is no longer given, and its candidates are asked again. Promotion to a new canonical page is
   an agent's job, checked by `scripts/check_design_page.py`. **Do not re-enable
   `--direct-pages`.** The independence rule for a promotion cluster (same author over several
   years is a research agenda, not two sources) is still open.
@@ -1212,11 +1225,11 @@ Always link the tag to a claim page: `[Claim statement](../claims/example-claim.
 
 ## Frontmatter fields
 
-Every content page (principle, element, pattern, design, strategy, process, method, theory, learner-variable, claim) carries this OKF-conformant frontmatter:
+Every content page (principle, element, pattern, design, product, strategy, process, method, research method, theory, learner-variable, claim) carries this OKF-conformant frontmatter:
 
 | Field | Required | Meaning |
 |-------|----------|---------|
-| `type` | Yes | `principle` \| `element` \| `pattern` \| `design` \| `strategy` \| `process` \| `method` \| `theory` \| `learner-variable` \| `claim` |
+| `type` | Yes | `principle` \| `element` \| `pattern` \| `design` \| `product` \| `strategy` \| `process` \| `method` \| `research-method` \| `theory` \| `learner-variable` \| `claim` |
 | `title` | Recommended | Display name — normally matches the page's `# H1` |
 | `description` | Recommended | One-sentence summary, used in index listings |
 | `status` | Recommended | See Status values above |
@@ -1376,10 +1389,12 @@ ld-wiki/
   principles/        ← design principles (what to do and why)
   elements/          ← instructional components (building blocks)
   patterns/          ← instructional patterns (reusable designs at lesson/unit level)
-  designs/           ← designs for one setting, course, population or product, using patterns
+  designs/           ← designs for one setting, course or population, using patterns
+  products/          ← named products and programmes others adopt, with their own frameworks and evidence
   strategies/        ← teaching strategies (concrete activity recipes)
   processes/         ← design processes: how a course gets made (ADDIE, SAM, design thinking, UbD)
   methods/           ← design methods: the practices a process is made of (task analysis, personas, crosswalks)
+  research-methods/  ← methods for studying learning and evaluating education (education-specific only)
   theories/          ← learning theories (explanatory frameworks)
   learner-variables/ ← canonical learner characteristics (prior knowledge, self-efficacy, ...) claims link into
   claims/            ← empirical claims with evidence
@@ -1780,6 +1795,89 @@ grain_size:            # program / course / unit / lesson
 - 
 
 ## Related Designs
+- 
+
+## Key Sources
+- 
+```
+
+---
+
+### Product or Programme
+
+A named product or programme others adopt or use. `product_kind` is one of `software`, `curriculum`,
+`assessment`, `dataset`, `programme`, `framework`. Its own frameworks, tools and indicators are components
+on this page, not pages of their own.
+
+```markdown
+---
+type: product
+id: [product-slug]      # equal to the filename
+title: [Name, as its maker names it]
+description: [One sentence: what it is and who makes or runs it]
+product_kind: programme
+status: draft
+generated:
+  by: <actor>
+  at: YYYY-MM-DD
+---
+
+# [Name]
+
+> **Product or Programme** · [All products and programmes](index.md)
+
+## Description
+[What it is, who makes or runs it, who it is for, what it is meant to achieve.]
+
+## Components
+<!-- Its own frameworks, tools, indicators and instruments, as its sources describe them -->
+- 
+
+### Claims
+<!-- Claims about it or tested with it, with evidence tags -->
+- 
+
+## Related Products and Programmes
+- 
+
+## Key Sources
+- 
+```
+
+---
+
+### Research Method
+
+A method for studying learning or evaluating education that is specific to education or especially useful
+there. A general social-science method is not a page.
+
+```markdown
+---
+type: research-method
+id: [method-slug]      # equal to the filename
+title: [Method Name]
+description: [One sentence: what question it answers and how]
+status: draft
+generated:
+  by: <actor>
+  at: YYYY-MM-DD
+---
+
+# [Method Name]
+
+> **Research Method** · [All research methods](index.md)
+
+## Description
+[What the method is, what question it answers, what data it needs, and its known limits.]
+
+## Accounts
+<!-- How each source describes or uses the method -->
+- 
+
+### Claims
+- 
+
+## Related Research Methods
 - 
 
 ## Key Sources

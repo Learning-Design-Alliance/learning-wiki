@@ -289,6 +289,7 @@ _DELIBERATION_RE = re.compile("|".join(_DELIBERATION_MARKERS), re.IGNORECASE)
 # dependency that could be skipped.
 _FOLDER_TYPE = {
     "principles": "principle", "elements": "element", "patterns": "pattern", "designs": "design",
+    "products": "product", "research-methods": "research-method",
     "strategies": "strategy", "theories": "theory", "claims": "claim",
     "learner-variables": "learner-variable",
 }
@@ -1644,7 +1645,7 @@ def call_gemini_flex(client, model: str, system_prompt: str, user_prompt: str) -
 # design-spec pipeline cannot resolve until someone remembers to backfill it,
 # and lint's [Identity] check would fail the moment it was created.
 _IDENTIFIED = {"elements", "principles", "patterns", "claims", "learner-variables",
-               "processes", "methods", "designs",
+               "processes", "methods", "designs", "products", "research-methods",
                "strategies"}
 
 

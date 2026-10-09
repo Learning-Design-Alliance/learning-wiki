@@ -8,6 +8,8 @@
 "pattern":126,
 "principle":375,
 "process":18,
+"product":0,
+"research-method":0,
 "strategy":4347,
 "theory":1695
 },
@@ -20,6 +22,8 @@
 "pattern",
 "principle",
 "process",
+"product",
+"research-method",
 "strategy",
 "theory"
 ],
@@ -182600,6 +182604,8 @@
 "understanding-by-design":"understanding-by-design",
 "vendor-production":"vendor-production"
 },
+"product":{},
+"research-method":{},
 "strategy":{
 "3-2-1_reflection":"3-2-1_reflection",
 "3-source_rule":"3-source_rule",

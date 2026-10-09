@@ -142,6 +142,8 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [theories](theories/index.md) | 1,695 | 1,393 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
 | [designs](designs/index.md) | 263 | 164 | 1 | 0 |
+| [products](products/index.md) | 0 | 0 | 0 | 0 |
+| [research-methods](research-methods/index.md) | 0 | 0 | 0 | 0 |
 
 ## Toward pooled estimates
 

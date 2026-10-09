@@ -59,6 +59,8 @@ TYPE_LABELS = {
     "elements": ("Element", "element"),
     "patterns": ("Pattern", "pattern"),
     "designs": ("Design", "design"),
+    "products": ("Product or Programme", "product"),
+    "research-methods": ("Research Method", "research-method"),
     "strategies": ("Strategy", "strategy"),
     "theories": ("Theory", "theory"),
     "processes": ("Design Process", "process"),
@@ -77,7 +79,8 @@ BANNER_RE = re.compile(r"^>\s*\*\*[^*]+\*\*\s*·\s*\[[^\]]*\]\(index\.md\)\s*$")
 
 # Where the folder name alone is ambiguous in prose. "All processes" could
 # be anything; "All design processes" says whose processes these are.
-PLURALS = {"processes": "design processes", "methods": "design methods"}
+PLURALS = {"processes": "design processes", "methods": "design methods",
+           "products": "products and programmes"}
 
 
 def banner_for(folder: str) -> str:

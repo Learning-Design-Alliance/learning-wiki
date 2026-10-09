@@ -63,6 +63,19 @@ PAGE_TYPES = {
                        "the general patterns for. A pattern is general across contexts; a design is not.",
         "status_field": True,
     },
+    "products": {
+        "label": "Products & Programmes",
+        "description": "Named products and programmes others adopt: software and platforms, curricula, "
+                       "assessments and instruments, datasets, and branded programmes and initiatives, "
+                       "each with its own frameworks and the evidence about it. A design is one setting's.",
+        "status_field": True,
+    },
+    "research-methods": {
+        "label": "Research Methods",
+        "description": "Methods for studying learning and evaluating education that are specific to it or "
+                       "especially useful in it. General social-science methods are not listed.",
+        "status_field": True,
+    },
     "methods": {
         "label": "Design Methods",
         "description": "The practices a design process is made of — analysis, elicitation, mapping "
@@ -98,8 +111,8 @@ PAGE_TYPES = {
     },
 }
 
-ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "designs", "strategies",
-                    "processes", "methods",
+ROOT_INDEX_TYPES = ["principles", "elements", "patterns", "designs", "products", "strategies",
+                    "processes", "methods", "research-methods",
                     "theories", "learner-variables", "claims"]
 
 
