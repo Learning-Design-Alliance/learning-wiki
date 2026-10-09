@@ -39,7 +39,6 @@ jobs:
           done
           ln -s ../index.md docs/index.md
           ln -s ../CLAUDE.md docs/CLAUDE.md
-          ln -s ../log.md docs/log.md
           ln -s ../evidence.md docs/evidence.md
 
       - name: Build docs site

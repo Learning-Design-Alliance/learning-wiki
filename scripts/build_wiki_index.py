@@ -166,7 +166,7 @@ def main() -> None:
         print("Run: python3 scripts/lint.py --type identity", file=sys.stderr)
         sys.exit(1)
 
-    rendered = json.dumps(index, indent=1, sort_keys=True) + "\n"
+    rendered = okf_lib.dump_json_records(index, depth=3)
 
     if args.check:
         if not OUT_PATH.exists():

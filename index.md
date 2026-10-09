@@ -46,7 +46,7 @@ Empirical claims with evidence ratings, sources, and competing views.
 
 ## Quick navigation
 
-* [Ingest & edit log](log.md)
+* [Ingest & edit log](https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/log.md) (current month; earlier months in `log/`)
 * [Schema & agent guide](CLAUDE.md)
 
 ## How to use this wiki
