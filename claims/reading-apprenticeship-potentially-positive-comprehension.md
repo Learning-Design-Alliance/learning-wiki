@@ -42,6 +42,9 @@ The WWC's effectiveness rating for the comprehension domain, based on one random
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points](project-criss-potentially-positive-comprehension-rating.md) — related
 - [WWC finds Cooperative Integrated Reading and Composition® has potentially positive effects on comprehension for adolescent learners (average improvement index +7 percentile points)](circ-potentially-positive-comprehension-adolescent-learners.md) — related

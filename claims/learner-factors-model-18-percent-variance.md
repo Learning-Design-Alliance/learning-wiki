@@ -42,6 +42,9 @@ Omnibus test of the multiple linear regression with 129 participants: "R2 = .18,
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading](incidental-vocabulary-anxiety-positive-predictor.md) — related
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related

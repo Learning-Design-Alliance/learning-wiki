@@ -40,6 +40,9 @@ The report asserts, citing Priniski et al., that purpose fosters meaning in lear
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on

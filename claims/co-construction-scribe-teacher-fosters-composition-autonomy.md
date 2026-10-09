@@ -61,6 +61,9 @@ The authors' interpretation of the same Modena transcript: although the teacher 
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — related
 - [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — related

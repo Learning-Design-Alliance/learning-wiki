@@ -17,7 +17,7 @@ sources:
 # Parent Teacher Home Visits (PTHV) program
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 PTHV is a family engagement program co-created by parents and educators using community organizing principles of shared leadership. Participating teachers conduct "30-40 minute home visits in which educators listen, ask questions, and make observations that they can take back to their classrooms to improve instruction for the learner." The model was evaluated in District of Columbia Public Schools in grades 1–5.

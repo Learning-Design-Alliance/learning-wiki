@@ -61,6 +61,9 @@ Human-figure drawing scored with Quoc Vu's Test and Goodenough's scale in the sa
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Congenitally blind subjects show visual dream content with a negative correlation between Visual Activity Index and EEG alpha power](congenitally-blind-visual-dream-content-alpha-correlation.md) — related
 - [Visual imagery is possible without visual perception or experience](visual-imagery-possible-without-visual-experience.md) — related

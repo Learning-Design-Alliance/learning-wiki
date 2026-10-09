@@ -61,6 +61,9 @@ Same assessment findings section: students advocate diverse assessment options i
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In CPS ninth-grade math sections using mastery-based or weekly grading, those categories determined nearly all of the final grade; otherwise assessments carried the highest weight, with a median of 60 percent exceeding the CPS/CTU 50 percent recommendation](cps-gradebook-category-weights-assessments-dominate.md) — related
 - [Ninth-grade math teachers on average weighted assessments most heavily (57%), assignments next (36%), and behavior little (7%)](teacher-grading-category-weights-assessments-dominant.md) — related

@@ -13,7 +13,7 @@ generated:
 # Word Sort
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (5 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 11 studies (5 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size
 
 ## Description
 In a Word Sort, small groups receive an envelope of key terms on separate slips of paper. Before reading or lecture, students discuss what the terms might mean and organize them into categories based on perceived relationships. After exposure to the terms through text or lecture, groups reconvene to revise their sorts, now grounded in formal definitions.

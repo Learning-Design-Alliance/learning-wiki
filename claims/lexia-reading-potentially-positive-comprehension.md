@@ -42,6 +42,9 @@ WWC synthesis of comprehension findings from Macaruso and Walker (2008), whose q
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Lexia Reading shows no discernible effects on general reading achievement](lexia-reading-no-discernible-general-achievement.md) — related
 - [Lexia Reading has potentially positive effects on alphabetics for beginning readers](lexia-reading-potentially-positive-alphabetics.md) — related

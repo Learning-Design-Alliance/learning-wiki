@@ -22,7 +22,7 @@ sources:
 # Exact Path Proficiency + Exact Path Growth digital learning system
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies (3 causal), `q2`–`q3` · 3 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (9 for) · 3 studies (3 causal), `q2`–`q3` · 3 of 3 report an effect size · 9 claims rest on one study
 
 ## Description
 Exact Path Proficiency + Exact Path Growth are digital learning systems supporting students through "a combination of personalized instruction and standards-aligned formative assessment." Proficiency delivers grade-level, standards-aligned practice assessments and test-readiness activities, while Growth provides adaptive, skill-based instruction informed by diagnostic data, together addressing skill gaps while maintaining grade-level progress.

@@ -40,5 +40,8 @@ Supplemental subgroup findings from Bramlett (1994), where students were divided
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [In a quasi-experimental study, CIRC showed no statistically significant effect on comprehension outcomes after WWC clustering and multiple-comparison adjustments](circ-qed-comprehension-indeterminate.md) — possibly the same claim (merge candidate)

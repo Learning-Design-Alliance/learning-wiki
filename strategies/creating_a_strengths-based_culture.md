@@ -63,6 +63,8 @@ A strengths orientation supports motivation through competence and autonomy: lea
 - Passion-project and inquiry approaches — the primary vehicle through which strengths get used rather than merely named
 - [Form Interest Groups and Strengths-Based Groups in Science](interest-based-grouping-in-science.md)
 - [Strength-based guidance: recognizing and nurturing learners' inherent strengths rather than emphasizing deficits](strength-based-career-guidance.md)
+- [High expectations with advanced learning opportunities and productive struggle to empower Black students' genius](advanced-learning-high-expectations-productive-struggle.md)
+- [Use asset mapping to identify and celebrate existing strengths in the school and community](asset-mapping-celebrate-strengths.md)
 
 ## Examples
 - **Positive education at Geelong Grammar School** — whole-school adoption of character-strengths identification and use, part of the program evaluated in Seligman et al. (2009).

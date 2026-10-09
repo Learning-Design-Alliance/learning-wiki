@@ -44,6 +44,7 @@ Empathy interviews are "open-ended conversations with a predetermined protocol" 
 - [Five-step empathy interview exercise for teachers designing inclusive computing pathways](empathy-interview-five-step-exercise.md)
 - [Design Thinking](design-thinking.md)
 - [Start with Yourself (Identity Mapping)](start-with-yourself-identity-mapping.md)
+- [Conduct one-on-one empathy interviews with open-ended questions to uncover root causes of system challenges](empathy-interviews-root-causes.md)
 
 ## Examples
 -

@@ -42,6 +42,9 @@ Decade-trend finding from the NLTS 2012 brief comparing 2003 and 2012 survey wav
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions](iep-youth-increased-school-engagement-2003-2012.md) — related
 - [Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities](iep-youth-more-engaged-school-extracurricular-over-decade.md) — related

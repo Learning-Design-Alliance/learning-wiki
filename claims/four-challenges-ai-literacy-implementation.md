@@ -45,3 +45,4 @@ This is the briefs' own enumerated challenge list, presented as expert synthesis
 ## Related Claims
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
+- [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related

@@ -20,7 +20,7 @@ sources:
 # Unified analytic framework for statistical power across school, classroom, and student random assignment designs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (3 theoretical), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 3 studies (3 theoretical), `q2` · 0 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 The article organizes power analysis for education experiments through a unified analytic framework that applies statistical methods from the literature across designs where "random assignment is conducted at the school, classroom, or student level". The framework lets the author compute required school samples for each design using "empirical values of intraclass correlations, regression R2 values, and other parameters". It serves as the organizing structure for the article's precision standards and design comparisons.

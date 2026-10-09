@@ -5,6 +5,22 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-10 (later) — batches restarted; learner-variable pages linked to their claims
+
+- **Batch 48**, the first on products and research methods, stopped at verify on 262 evidence-profile
+  lines: pages #209 wrote or folded without regenerating their profiles, refreshed by the batch's own
+  profile step. All were generated `> **Evidence** ·` lines, so the post-verify steps were run by hand.
+  **Regenerate profiles (`add_evidence_profile.py --apply`) after writing or folding pages by hand.**
+- **Learner variables were barely linked** (maintainer's retest, #210): 7 of 12 had an inbound link and
+  nothing linked prior-knowledge, so the spec's learner dimensions reached almost no research.
+  `link_learner_variables.py` retrieves candidate claims per variable by phrase (title and synonyms),
+  has GPT keep those reporting a finding about the characteristic (predictor, moderator or outcome;
+  baseline-equivalence checks, method claims and programme outcomes on other things excluded), caps
+  markers at the claim's evidence, and writes both directions. 419 links on 408 claims ($0.22); every
+  variable now has inbound links (prior knowledge 44, working memory 14, reading and language 84).
+  A sample read about nine in ten as right; the misses were teacher expertise read as learner prior
+  knowledge, and cognitive load read as working memory. Runs with `--new` in every batch.
+
 ## 2026-10-10 — products and research methods; a tighter independence rule; search that finds the main page
 
 - **Two kinds** (maintainer): `products/` for named products and programmes others adopt (a

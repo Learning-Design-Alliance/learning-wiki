@@ -54,3 +54,6 @@ The scan's key idea following its compilation of exposure and exploration resour
 - [Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas](frequent-job-changes-nonlinear-careers.md) — related
 - [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
 - [Participants report career transitions, certifications, networking gains, financial and social gains from tech-centered education and training programs](tech-program-accomplishments-gains.md) — related
+- [Early exposure to career pathways in high school is reported to enhance students' self-efficacy and occupational awareness](early-career-pathway-exposure-enhances-self-efficacy.md) — related
+- [The gap between technical AI exposure and actual employer adoption is a limited opportunity window for CTE programs to shape adoption](exposure-adoption-gap-opportunity-window.md) — related
+- [The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year](national-cyber-pathways-initiative-700-students-10-districts.md) — a narrower finding that bears on this claim

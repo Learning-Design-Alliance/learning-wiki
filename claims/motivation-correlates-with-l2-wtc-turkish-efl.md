@@ -42,6 +42,9 @@ Correlational analysis of questionnaire data from 106 preparatory students at U�
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration](learning-format-perspectives-correlate-immigrant-integration.md) — related
 - [Turkish EFL preparatory students were somewhat willing to communicate in English](turkish-efl-students-somewhat-willing-communicate.md) — related

@@ -42,6 +42,9 @@ National probability-based KnowledgePanel survey of undergraduates whose in-pers
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Higher education digital divides are acute at MSIs, HBCUs, and TCUs, which have stark capability deficits in hardware, software, and broadband](msi-hbcu-tcu-digital-capability-deficits.md) — related
 - [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](technology-access-problems-impede-participation.md) — possibly the same claim (merge candidate)

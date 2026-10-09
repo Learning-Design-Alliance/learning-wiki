@@ -42,6 +42,9 @@ Descriptive survey of technology capacities in New York charter schools immediat
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Student access to devices and internet rose from about 60 percent in March 2020 to at least 98 percent by March 2021](student-device-internet-access-near-universal.md) — related
 - [High-poverty schools were overrepresented among New York charter schools that had not provided devices to students before building closure (86.8% of non-providers vs 79.3% of the sample)](device-provision-equity-high-poverty.md) — related

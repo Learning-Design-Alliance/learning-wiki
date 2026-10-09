@@ -42,6 +42,9 @@ The brief's key findings state that despite grade gains, "evidence of changes in
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [An NSF-funded replication of Math Corps operated in three new cities across summers 2017–2019 with independent evaluation](math-corps-nsf-funded-three-city-replication.md) — related
 - [Students in three summer math programs showed large improvements in grades the semester after the program](summer-math-programs-large-grade-improvements-next-semester.md) — related

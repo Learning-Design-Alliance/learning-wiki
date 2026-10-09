@@ -42,6 +42,9 @@ The report's review of blind and partially seeing children cites Friedman (1964)
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The review reports that specific emotions differentiate from a generalized excitement state in a stable developmental sequence](emotions-differentiate-from-generalized-excitement.md) — related
 - [Extra adult handling increases exploratory behavior in blind infants](extra-handling-increases-blind-infant-exploration.md) — related

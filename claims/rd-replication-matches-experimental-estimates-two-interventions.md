@@ -58,3 +58,5 @@ The report compares RD-based impact estimates with experimental impact estimates
 - [Regression discontinuity designs in education require 9 to 17 times as many schools or students as randomized controlled trials to achieve the same statistical precision](rd-designs-need-9-to-17-times-rct-sample.md) — related
 - [Schools that missed AYP showed some positive subsequent achievement impacts under NCLB accountability](missing-ayp-positive-achievement-impacts.md) — related
 - [The viability of using RD designs for new impact evaluations of educational interventions depends on the point of treatment assignment, the availability of pretests, and key research questions](rd-design-viability-depends-on-assignment-point-pretests-questions.md) — related
+- [In Clark County, One-Star designation significantly raises math and ELA scores for all students](one-star-designation-clark-county-all-students.md) — a narrower finding that bears on this claim
+- [Statewide, One-Star designation has a modest significant positive effect on ELA but not on math scores](one-star-designation-statewide-ela-effect.md) — a narrower finding that bears on this claim

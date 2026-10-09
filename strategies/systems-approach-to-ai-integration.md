@@ -44,6 +44,7 @@ The article recommends that education systems move beyond single-issue spotlight
 - [Systemic, human-centred approach treating digital data use as a school-and-teacher system, with AI integrated into professional development](systemic-human-centred-data-use-approach.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards](independent-audits-role-based-dashboards-ai-accountability.md)
+- [Use the Recommendation's Policy Action Areas to translate AI ethics values into policy across education, data governance and other spheres](policy-action-areas-translate-ai-ethics-values.md)
 
 ## Examples
 -

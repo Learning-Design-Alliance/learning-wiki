@@ -13,7 +13,7 @@ generated:
 # Promote a Growth Mindset
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 5 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (3 quant-synthesis, 2 causal, 2 review, 1 theoretical), `q1`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Promoting a growth mindset means structuring feedback, tasks, and classroom language so learners come to see ability as malleable — built through effort, effective strategies, and help-seeking — rather than as a fixed trait. In practice this goes beyond praising effort: teachers attribute success and failure to controllable factors (strategy use, persistence, practice), normalize errors as information, and provide concrete routes for improvement. In mathematics especially, students often believe intelligence is fixed; reframing difficulty as a signal of learning rather than of low ability changes how they respond to challenge.
@@ -86,6 +86,7 @@ Growth mindset interventions have produced measurable gains in achievement for s
 - [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the feedback mechanism through which mindset messages are delivered
 - [Formative Assessment](../principles/assessment-for-learning.md) — revision-friendly assessment structures make effort visibly productive
+- [Teachers enact agency-building instruction through five moves: valuing strengths, fostering autonomy, encouraging initiative, reinforcing growth mindset, and modeling metacognition](five-teacher-moves-build-el-agency.md)
 
 ## Examples
 - **[Youcubed](https://www.youcubed.org)** (Jo Boaler, Stanford) — mathematical mindset lessons and teacher resources built around the claim that everyone can learn math to high levels; includes error-normalization routines and "low floor, high ceiling" tasks.

@@ -42,6 +42,9 @@ The report attributes to cited research (Fan et al., 2024; Gerlich, 2025; Kosmyn
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](genai-speeds-tasks-not-learning.md) — a broader claim this one bears on
 - [Students made minimal reference to higher-level cognitive or metacognitive processing benefits of group work, departing from prior PBL research](minimal-reference-higher-level-processing-benefits.md) — related

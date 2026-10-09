@@ -42,5 +42,8 @@ The article asserts, citing prior literature (Richardson, Morgan, & Fleener; Sou
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related

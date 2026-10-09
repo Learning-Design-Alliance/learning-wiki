@@ -42,6 +42,9 @@ The authors' online survey of students at four colleges and universities found "
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Undergraduate researchers' disciplinary identity differs by demographic characteristics](disciplinary-identity-differs-by-demographics.md) — related
 - [Disciplinary identity among undergraduate researchers varies by student discipline](disciplinary-identity-varies-by-student-discipline.md) — related

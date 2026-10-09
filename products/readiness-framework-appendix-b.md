@@ -13,6 +13,7 @@ generated:
 # Readiness Framework (Appendix B)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A district-readiness framework developed by Zohal Shah et al. (2024) for implementing competency-based micro-credentials and learning-and-employment-record technologies with K–12 partners.

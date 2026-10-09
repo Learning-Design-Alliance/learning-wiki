@@ -42,6 +42,9 @@ WWC synthesis of fluency findings from Cognitive Concepts (2003) and Gale (2006)
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Read Naturally® shows potentially positive effects on writing for students with learning disabilities, with a substantively important but non-significant effect size on the WIAT Written Expression subtest](read-naturally-potentially-positive-writing-effects.md) — related
 - [LiPS shows potentially positive effects on reading fluency: authors found significant effects on GORT–III Reading Accuracy and Reading Rate, but WWC analyses did not confirm significance](lips-reading-fluency-potentially-positive.md) — related

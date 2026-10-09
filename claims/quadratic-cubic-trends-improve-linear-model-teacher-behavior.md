@@ -48,3 +48,4 @@ Ordinary least squares regression trend analysis of the two classrooms' time-ser
 - [Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency](phase-lead-lag-differs-between-teachers.md) — related
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) — related
 - [The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed](refraining-from-complementarity-hypothesis-not-confirmed.md) — related
+- [Engagement peaked at the middle of the Mindsets program and declined slightly by post-test, showing a significant negative quadratic trend](mindsets-engagement-peaks-midpoint.md) — a narrower finding that bears on this claim

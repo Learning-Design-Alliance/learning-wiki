@@ -22,7 +22,7 @@ sources:
 # Teacher Incentive Fund (TIF) performance-based compensation program
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 3 studies (3 causal), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 8 claims (2 for, 4 mixed, 2 against) · 5 studies (5 causal), `q1`–`q3` · 0 of 5 report an effect size · 8 claims rest on one study
 
 ## Description
 The Teacher Incentive Fund is a federal grant program that "supports performance-based compensation systems in high-need schools." Its grant incentives "aim to raise student achievement by improving teacher effectiveness and workforce quality." The program required districts to implement four components, and Mathematica evaluated its implementation and bonus impacts.

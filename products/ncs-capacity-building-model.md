@@ -13,6 +13,7 @@ generated:
 # NCS capacity-building model
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A whole-school improvement framework developed and implemented by the Network for College Success to build school staff capacity through professional learning networks, data use, coaching, and distributed leadership.

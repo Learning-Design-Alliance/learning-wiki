@@ -16,7 +16,7 @@ sources:
 # AI literacy as critical understanding, use, and evaluation of AI systems
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 theoretical, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 Digital Promise's AI Literacy Framework defines a learner and educator capability: AI literacy includes the knowledge and skills that enable humans to critically understand, use, and evaluate AI systems and tools to safely and ethically participate in an increasingly digital world. The presentation presents this framework as the basis for rethinking teaching and learning for the AI age.

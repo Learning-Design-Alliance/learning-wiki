@@ -13,6 +13,7 @@ generated:
 # College match indicator
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A measurement tool developed by the University of Chicago Consortium on School Research to gauge how students are progressing toward college enrollment by comparing their academic qualifications with college enrollment outcomes.

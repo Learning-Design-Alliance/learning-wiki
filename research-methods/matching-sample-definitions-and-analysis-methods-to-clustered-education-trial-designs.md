@@ -12,6 +12,7 @@ generated:
 # Matching sample definitions and analysis methods to clustered education trial designs
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Among the practical steps the article recommends for meeting evidence and accountability demands are "identifying appropriate sample definitions and analysis methods." In a clustered design this means defining the school and student samples deliberately and using analysis methods appropriate to clustered data, two of the six decisions the review identifies. The principle directs researchers to treat sampling and analysis as design decisions to be made together, not as afterthoughts.

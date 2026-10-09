@@ -22,7 +22,7 @@ sources:
 # EveryDay Intervention Absence Reports program
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The EveryDay Intervention (formerly InClassToday) Absence Reports intervention partners with schools and districts to reduce absenteeism. After establishing a district partnership and securely receiving attendance data, the program "runs analyses to identify students who are at risk of being chronically absent" and generates "personalized Absence Reports with content tailored for each student" that are mailed directly to parents/guardians. Implementation requires minimal staffing: one district staff member supporting implementation at approximately 30 minutes per week and one district-level data staff member supporting data transfer, with no required technology or professional development beyond that.

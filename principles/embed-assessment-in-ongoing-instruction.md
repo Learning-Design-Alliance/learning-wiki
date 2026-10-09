@@ -47,6 +47,7 @@ The guide's third assessment type integrates assessment into the instructional p
 
 - [Assess youth learning through journals, observation, discussion, and applied reflection products](../strategies/journal-observation-assessment-reflection.md)
 - [Authentic project unit (Field Day) with embedded assessment tasks mapped to critical objectives](../designs/field-day-embedded-assessment-unit.md)
+- [Gather formative evidence through embedded, discipline-specific tasks rather than separate tests or language assessments](../strategies/embedded-evidence-gathering-without-separate-tests.md)
 
 ## Key Sources
 - Kasten, Margaret; Meiring, Steve; Mikesell, Anne. (1997). Mathematics. Competency-Based Education Assessment Series. https://eric.ed.gov/?id=ED417935

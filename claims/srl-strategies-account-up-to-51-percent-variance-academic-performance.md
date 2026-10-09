@@ -43,6 +43,9 @@ Narrative review of 35 studies on SRL published 1998-2016; the review's conclusi
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Canfield's learning style variables predicted academic success where cognitive style did not](canfield-learning-style-predicts-academic-success.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related

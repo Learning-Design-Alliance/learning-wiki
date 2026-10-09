@@ -42,6 +42,9 @@ Student-randomized evaluation in 24 Minnesota schools involving 622 K-3 students
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In the Minnesota evaluation, second and third graders in Reading Corps scored significantly higher on Oral Reading Fluency at year end](reading-corps-minnesota-grades-2-3-orf.md) — related
 - [In a randomized Wisconsin evaluation, K-1 Reading Corps students significantly outperformed controls on Letter Sound Fluency and Nonsense Word Fluency but not on Oral Reading Fluency](reading-corps-wisconsin-k-1-outcomes.md) — related

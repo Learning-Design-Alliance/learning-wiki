@@ -42,6 +42,9 @@ Study 1 within-subjects eye-tracking experiment with 32 English-Mandarin bilingu
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books](comprehension-benefit-dual-language-only.md) — related
 - [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](enhancing-features-direct-attention-dual-language-e-books.md) — related

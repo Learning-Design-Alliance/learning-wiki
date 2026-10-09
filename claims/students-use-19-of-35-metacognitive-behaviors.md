@@ -42,6 +42,9 @@ Conclusion of a study of 1,570 students in ten K-12 public schools whose teacher
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Percentage of metacognitive interview responses varied by grade band: 66% (grades 2-3), 97% (grade 5), 82% (grade 6), and 41% (grades 7-12)](metacognitive-response-percentages-by-grade.md) — related
 - [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](predicting-contextual-analysis-rereading-most-frequent.md) — related

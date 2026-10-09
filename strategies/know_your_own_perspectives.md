@@ -57,8 +57,10 @@ This strategy treats the educator's self-knowledge as a prerequisite for equitab
 5. Repeat the cycle with new incidents; treat the reflection as ongoing practice rather than a completed exercise.
 
 ## Related Strategies
+
 - [Building Empathy](../principles/building-empathy.md) — the dispositional outcome this strategy cultivates in educators
 - [Community of Inquiry](../principles/community-of-inquiry.md) — the social-cognitive setting that makes honest reflection safe and productive
+- [Interrogate bias in data analysis by unpacking biases with colleagues and building skills to name bias in action](interrogate-bias-in-data-analysis.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — making tacit interpretive assumptions explicit is the core cognitive move

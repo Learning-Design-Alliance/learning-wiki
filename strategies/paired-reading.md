@@ -13,7 +13,7 @@ generated:
 # Paired Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (3 review, 1 causal, 1 theoretical), `q1`–`q3` · 0 of 5 report an effect size
+> **Evidence** · 3 claims (2 for, 1 against) · 7 studies (3 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Paired Reading is a structured oral reading technique in which a learner and a more fluent reader (teacher, parent, peer tutor, or volunteer) read a text aloud together in unison. When the learner signals readiness (typically by a tap or agreed signal), the partner drops out and the learner continues alone; the partner rejoins on error or request. Errors during independent reading are corrected immediately by having the learner repeat the word correctly, then continuing the sentence without other commentary.

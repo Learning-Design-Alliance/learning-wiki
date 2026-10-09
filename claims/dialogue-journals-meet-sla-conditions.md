@@ -42,6 +42,9 @@ Theoretical argument by the author, citing second language acquisition research 
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — reports the opposite
 - [Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning](khanmigo-language-learning-potential-fully-supported.md) — related

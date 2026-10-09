@@ -48,3 +48,4 @@ The first design principle, citing Darkenwald and Valentine (1985), reports that
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](koku-qualitative-acceptability-themes.md) — related
 - [Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase](job-and-pay-largest-apprenticeship-barriers.md) — a narrower finding that bears on this claim
 - [Participation supports were most effective when deliberately matched to the specific constraints participants faced](supports-matched-to-barriers.md) — related
+- [Lack of childcare support, language barriers, unrecognized international degrees, and stigma shaped providers' educational pathways](identity-barriers-learning-while-parenting-language-credentials.md) — a narrower finding that bears on this claim

@@ -64,6 +64,7 @@ Sentence frames act as a linguistic form of [Chunking](../principles/chunking.md
 - [Activate Background Knowledge](activate_background_knowledge.md) — frames are more effective when learners already hold the ideas they must express
 - [Think-Aloud Modeling](think-aloud-modeling.md) — modeling frame use makes both the language and the reasoning visible
 - [Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load](templates-and-posted-talk-moves-scaffolds.md)
+- [Offer generative formulaic expressions instead of rigid sentence starters](generative-formulaic-expressions-not-sentence-starters.md)
 
 ## Examples
 - **QTEL (Quality Teaching for English Learners, WestEd)** — uses structured sentence frames across curricular areas so multilingual learners engage grade-level intellectual work while developing academic English. [https://qtel.wested.org](https://qtel.wested.org)

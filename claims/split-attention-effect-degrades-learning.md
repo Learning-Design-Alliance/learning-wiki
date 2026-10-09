@@ -98,6 +98,9 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 
 **Design implications.** For novice audiences, designers should place explanatory text directly at the point of reference on a graphic, embed labels within diagrams rather than in legends, and temporally synchronize narration with the animation segment it describes. Before integrating, check whether each source is indispensable; if not, cut the redundant one rather than merging it. These recommendations pair naturally with [Cognitive Load Management](../principles/cognitive-load-management.md) and [Chunking](../principles/chunking.md) when structuring complex multimedia materials.
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — split attention is one mechanism by which extraneous load produces overload

@@ -22,7 +22,7 @@ sources:
 # National Longitudinal Transition Study 2012 (NLTS 2012)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (9 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (14 for) · 4 studies (4 associational), `q2`–`q3` · 0 of 4 report an effect size · 13 claims rest on one study
 
 ## Description
 The National Longitudinal Transition Study 2012 is a national research study of youth in special education, conducted under a project with the time frame 2010–2018, prepared for the U.S. Department of Education, Institute of Education Sciences. The fact sheet draws its decade comparison (2003–2012) of high school youth with an IEP from this study, covering engagement, transition activities, supports, and household economic circumstances.

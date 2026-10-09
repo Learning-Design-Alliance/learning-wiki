@@ -57,3 +57,4 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](condensed-eot-race-gender-equity-gaps.md) — related
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — possibly the same claim (merge candidate)
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
+- [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related

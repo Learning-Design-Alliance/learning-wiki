@@ -17,6 +17,7 @@ sources:
 # Chicago Annenberg External Partner model for school improvement
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The external partner model links intermediary organizations (university- or community-based) to networks of schools to provide outside expertise for improvement efforts. Partners sponsor activities including network meetings, instructional materials, school-based literacy coordinators, demonstration teachers, leadership teams, and parent assistants. The model emerged from Chicago's decentralization movement and the 1995 Annenberg Challenge, which provided $49.2 million to fund 45 networks of schools with external partners focused on goals such as improving literacy instruction and developing school leadership.

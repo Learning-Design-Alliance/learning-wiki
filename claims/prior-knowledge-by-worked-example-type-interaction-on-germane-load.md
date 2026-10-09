@@ -61,6 +61,9 @@ Same experiment and CLM measure: "No significant differences were observed betwe
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Worked Examples Expertise Reversal](worked-examples-less-effective-with-expertise.md)
 - [Self-reported germane cognitive load correlates positively with interest (QCM) among college students solving algebra problems](germane-cognitive-load-correlates-positively-with-interest.md) — related

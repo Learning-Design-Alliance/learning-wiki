@@ -42,6 +42,9 @@ Synthesis of two randomized evaluations totaling 12,050 students. The review rep
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In a six-year randomized study in Chicago, Positive Action significantly reduced absenteeism (ES=+0.25)](positive-action-chicago-rct-absenteeism.md) — a narrower finding that bears on this claim
 - [In a four-year randomized evaluation in Hawaii, Positive Action schools had significantly lower absenteeism (ES=+0.19) and positive math and reading outcomes relative to controls](positive-action-hawaii-rct-absenteeism.md) — a narrower finding that bears on this claim

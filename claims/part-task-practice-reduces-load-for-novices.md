@@ -44,6 +44,9 @@ The researchers found that for complex tasks with high element interactivity, no
 ## Discussion
 This finding qualifies the whole-task approach, suggesting that [part-task practice](../elements/part-task-practice.md) is a necessary precursor or scaffold when the "whole" is too complex for the learner's current expertise.
 
+## Learner Variables
+- [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md)
 - [Cognitive Load Management](cognitive-load-management.md) — related

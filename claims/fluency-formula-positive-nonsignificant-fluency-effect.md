@@ -42,6 +42,9 @@ Randomized controlled trial (Sivin-Kachala & Bialo, 2005) with 128 second-grade 
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The evidence base for Fluency Formula™ consists of a single small randomized controlled trial, with no studies addressing alphabetics or general reading achievement](fluency-formula-evidence-base-single-small-rct.md) — related
 - [Fluency effects of Fluency Formula™ differ by initial ability: positive for low-ability students (effect size 0.66) and negative for high-ability students (effect size –0.21), both non-significant](fluency-formula-fluency-effects-differ-by-initial-ability.md) — related

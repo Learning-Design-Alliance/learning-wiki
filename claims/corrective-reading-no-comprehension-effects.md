@@ -42,6 +42,9 @@ In the Torgesen et al. (2006) randomized controlled trial, both comprehension ou
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Corrective Reading showed statistically significant positive effects on two of four alphabetics outcomes, but the alphabetics domain average effect was neither significant nor substantively important](corrective-reading-alphabetics-mixed-outcomes.md) — related
 - [SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important](smart-comprehension-nonsignificant-substantive-average.md) — related

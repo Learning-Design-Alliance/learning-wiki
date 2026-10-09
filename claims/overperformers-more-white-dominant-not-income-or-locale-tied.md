@@ -45,3 +45,4 @@ Categorical analysis of 6,348 Grade 1 and 6,350 Grade 2 schools segmented by gro
 ## Related Claims
 - [Overperforming schools were more likely predominantly White but not concentrated in higher-income areas, specific locales, or lower proportions of far-behind students](overperformer-demographics-white-not-income.md) — possibly the same claim (merge candidate)
 - [No evidence that overperforming schools enroll fewer students who start the year further behind in mathematics](no-evidence-overperformers-fewer-students-behind.md) — related
+- [School and district factors relate to risk identification: low income concentration correlates with repeated risk identification, and segregation modestly increases it, though some schools outperform model predictions](massachusetts-school-segregation-risk-identification.md) — related

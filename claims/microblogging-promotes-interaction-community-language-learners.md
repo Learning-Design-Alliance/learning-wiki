@@ -80,6 +80,9 @@ The review reports Petersen, Divitini, and Chabert's (2009) evaluation of a mobi
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones](ar-qr-codes-context-aware-language-learning.md) — related
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related

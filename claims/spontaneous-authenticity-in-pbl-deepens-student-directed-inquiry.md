@@ -44,6 +44,9 @@ The study contrasts two events in a third-grade [PBL](../patterns/problem-based-
 ## Discussion
 This is a single, deeply documented case study (Portraiture methodology, which prioritizes thick description and trustworthiness over generalizability) in one classroom, with one teacher who had five years of experience and a strong personal commitment to student-centered, autonomy-driven practice. The first author co-authored the curriculum under study and had a close working relationship with the teacher, which provides rich insider access but also raises the possibility of bias. The claim describes what was *sufficient* in this one case (a flexible curriculum plus a willing, experienced teacher), not what is *necessary* in general — it cannot be concluded from one case that spontaneous events reliably outperform designed authenticity, or that most teachers given the same flexibility would respond the same way. The paper's broader argument — that high-stakes accountability and tightly scripted curricula tend to remove the autonomy this kind of responsiveness requires — is a reasonable extrapolation but was not itself tested.
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — both claims describe how enacted, in-the-moment group dynamics can diverge from a curriculum's designed intent, in opposite directions (narrowing vs. deepening)
 - [Choice-rich infrastructure enables self-sustained, self-extending student projects well beyond a challenge's designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related

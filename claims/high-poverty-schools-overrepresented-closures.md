@@ -45,3 +45,4 @@ Descriptive analysis comparing lagged FRPL eligibility of closed versus open sch
 ## Related Claims
 - [Schools serving majority-Black students are overrepresented among closed schools pre- and post-pandemic](majority-black-schools-overrepresented-closures.md) — related
 - [Racial disparities in 2024-25 closure likelihood hold after accounting for enrollment declines and poverty](racial-closure-disparity-holds-controlling-enrollment.md) — related
+- [At-risk students are overrepresented in One-Star schools](at-risk-students-overrepresented-one-star-schools.md) — related

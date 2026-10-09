@@ -61,6 +61,9 @@ WWC findings summary across five self-regulation measures from the two qualifyin
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Red Light, Purple Light shows uncertain effects on preschool language outcomes](red-light-purple-light-uncertain-language.md) — related
 - [Red Light, Purple Light shows uncertain effects on reading and literacy related achievement](red-light-purple-light-uncertain-reading-literacy.md) — related

@@ -12,6 +12,7 @@ generated:
 # Forcing-variable integrity checks in regression discontinuity designs
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Standard 1 requires that no systematic manipulation of the forcing variable occurred, since manipulation makes "the true relationship between the outcome and forcing variable can no longer be identified, which could lead to biased impact estimates." Institutional integrity requires describing who scored, who chose the cutoff, and when; statistical integrity requires a density test or graphical analysis around the cutoff. Both criteria must be satisfied to meet the standard without reservations.

@@ -42,6 +42,9 @@ Correlational analysis of survey and behavioural variables among 128 pre-service
 ## Discussion
 
 
+## Learner Variables
+- [Digital Literacy](../learner-variables/digital-literacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task](extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) — related
 - [Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task](intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success.md) — related

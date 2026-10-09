@@ -17,7 +17,7 @@ sources:
 # MAP Growth Course-Specific assessments with documented psychometric quality evidence
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 MAP Growth Course-Specific assessments are course-level computer adaptive assessments whose design, development, and validation are documented in a technical report for the 2024–2025 school year. The report presents "evidence of psychometric quality, including adaptive testing methods, reliability, validity, fairness, and score interpretation across grades and courses." It serves as documentation for users interpreting scores in secondary courses.

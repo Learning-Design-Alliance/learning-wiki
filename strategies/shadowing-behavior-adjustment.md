@@ -13,7 +13,7 @@ generated:
 # Shadowing (Behavior Adjustment)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 4 studies (2 review, 1 causal, 1 theoretical), `q3` · 0 of 4 report an effect size
 
 ## Description
 Shadowing assigns an adult to follow a child at close proximity — within arm's reach — throughout high-risk parts of the day, intervening before unwanted behaviors (biting, hitting, elopement) occur rather than reacting afterward. The adult remains as unobtrusive as possible so the child does not feel singled out or have their play disrupted. The goal is twofold: keep other children safe while the child is supported to develop and rehearse alternative, more appropriate behaviors.

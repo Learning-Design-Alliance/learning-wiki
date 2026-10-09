@@ -73,6 +73,9 @@ The founding cognitive load paper. It argues that conventional problem solving b
 
 **Open questions.** Two studies are recorded: an overview of 29 systematic reviews in which load-reducing multimedia designs helped most for complex materials (g = 0.70 against 0.20 for simple ones), and Sweller's (1988) founding paper, read as an abstract only. Neither tests load-measurement validity, and no entry here measures overload directly rather than inferring it from design manipulations. <!-- deprecated 2026-10-05 (stale; two entries exist): Evidence for this page still needs to be added — including the foundational experimental and meta-analytic work on load effects and load-measurement validity. Until then, treat the claim as well-established theoretically but under-sourced here. -->
 
+## Learner Variables
+- [Working Memory](../learner-variables/working-memory.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Coherence principle: irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md) — extraneous material is a direct source of overload

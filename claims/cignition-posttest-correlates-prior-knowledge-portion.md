@@ -42,6 +42,9 @@ Exploratory correlational analysis of the same 22 sessions per task, examining t
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Prior knowledge (portion A) scores correlate with transfer (portion C) scores for Fraction Division but not for Fraction Generalization](prior-knowledge-correlates-transfer-division-not-generalization.md) — related
 - [Cignition posttest scores correlate with transfer portion C scores for Fraction Division but not for Fraction Generalization](posttest-correlates-transfer-division-not-generalization.md) — related

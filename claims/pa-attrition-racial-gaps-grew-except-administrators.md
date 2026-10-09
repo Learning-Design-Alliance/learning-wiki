@@ -48,3 +48,4 @@ Observational comparison of attrition rates by staff race/ethnicity across job c
 - [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — related
 - [Attrition was concentrated in schools with higher concentrations of racial/ethnic minorities and socioeconomically disadvantaged students](map-growth-attrition-school-concentration-pattern.md) — related
 - [Teachers of color leave the teaching profession at higher rates than white teachers (about 19 percent vs. 15 percent turnover).](toc-higher-turnover-than-white-teachers.md) — related
+- [LEA Design Teams came to believe that focusing first on teacher-of-color retention builds conditions that later support recruitment](retention-first-pays-recruitment-dividends.md) — related

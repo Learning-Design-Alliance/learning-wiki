@@ -127,6 +127,9 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 
 **Terminological caution.** Much of the historical disagreement around this claim stems from inconsistent use of "discovery learning," "inquiry learning," and "problem-based learning" to describe interventions differing widely in the amount of guidance provided. Studies labeled "discovery" often embed substantial scaffolding; claims about the superiority of guided approaches should always be checked against how much guidance the comparison condition actually delivered.
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](worked-example-problem-sequences.md) — worked examples as the guided alternative to unguided problem-solving
@@ -159,3 +162,4 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 - [Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work](rule-example-sequence-efficient-rule-introduction.md) — a narrower finding that bears on this claim
 - [Self-discovery through errorful exploration is basically incompatible with error minimization in instruction](self-discovery-incompatible-with-error-minimization.md) — reports the opposite
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — related
+- [HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice](hqim-teacher-guides-vary-in-educative-guidance-depth.md) — a narrower finding that bears on this claim

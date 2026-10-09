@@ -46,3 +46,4 @@ The review reports, citing Lew et al. (2016), an analysis of one lecture's proof
 - [Commognitive analysis of lecturing offers micro-level insights into lecturer-student communication that non-commognitive approaches miss](commognition-offers-micro-level-insights-into-lecturing.md) — a broader claim this one bears on
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
+- [The three equivalence approaches offer students multiple avenues for mathematical connections and arguments](equivalence-approaches-multiple-avenues-connections.md) — related

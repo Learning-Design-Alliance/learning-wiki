@@ -42,6 +42,9 @@ Meta-analytic synthesis across the 43 included RCTs and QEs. The review reports 
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Linguistic comprehension instruction shows a small immediate effect on generalized linguistic comprehension outcomes](linguistic-comprehension-instruction-small-immediate-generalized-effect.md) — related
 - [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related

@@ -12,6 +12,7 @@ generated:
 # College-readiness predictor selection using decision trees, random forests, lasso, and factor analysis
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This framework uses data reduction to select, from thousands of measures, the variables that maximize classification accuracy for college enrollment and persistence. Decision trees recursively split on the variable maximizing information about the outcome using the Gini index, with mean reduction in the Gini index (MDGI) as a variable-importance measure; random forests replicate trees to counteract sensitivity to the first split, and lasso provides a regression-based alternative. A subsequent factor analysis (bifactor model) identifies what the retained predictors measure. The article uses it to show that "enrolling in college and persisting for a semester can be predicted with almost 90 percent accuracy using a small set of predictors."

@@ -42,6 +42,9 @@ National probability-based survey (Ipsos KnowledgePanel) of 620 undergraduates t
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](technology-access-problems-impede-participation.md) — possibly the same claim (merge candidate)
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related

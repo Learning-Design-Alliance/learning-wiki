@@ -17,7 +17,7 @@ sources:
 # The Equity Project (TEP) charter school teacher compensation and responsibility model
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 TEP is a New York City charter school with what the report calls "a unique approach to rewarding and developing high quality teachers—including salaries of $125,000 and substantial professional responsibility." The model operates "while receiving only the standard public funds available to any New York City charter school," making the teacher-pay strategy the school's distinctive design feature. The evaluation links this personnel model to the school's measured achievement impacts.

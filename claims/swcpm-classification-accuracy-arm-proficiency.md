@@ -47,3 +47,4 @@ Classification accuracy analysis of the weighted linking sample (Tables 3.9 and 
 - [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](swcpm-arm-high-correlation-grades-1-5.md) — related
 - [SWCPM score ranges corresponding to ARM performance levels show monotonic progression across terms within grades, except in first grade](swcpm-arm-range-monotonic-except-grade-1.md) — related
 - [The KEI threshold was accurate for the cohort despite large individual-level prediction errors (53% of proficient and 73% of non-proficient students correctly classified)](kei-threshold-individual-prediction-errors-large.md) — related
+- [Agreement between K–3 screening assessments on risk classification varied from 47 percent to 85 percent depending on the assessment combination](screening-assessment-agreement-varies-47-85-percent.md) — related

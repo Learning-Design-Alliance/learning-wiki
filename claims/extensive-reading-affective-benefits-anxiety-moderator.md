@@ -61,6 +61,9 @@ The review cites Mardianti et al. (2021) for the contrast: difficult texts with 
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related

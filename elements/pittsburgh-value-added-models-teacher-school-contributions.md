@@ -22,7 +22,7 @@ sources:
 # Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Value-added models developed by Mathematica for Pittsburgh Public Schools, commissioned by the district and the Pittsburgh Federation of Teachers. The article states the models "aim to estimate the contributions of individual teachers and schools to the achievement of their students," and that the report summarizes the district's current use of these models to assess educational quality, updating a 2014 report.

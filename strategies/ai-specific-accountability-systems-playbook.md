@@ -46,6 +46,7 @@ The report's fifth use case shows Indian Prairie SD's task force building 'mecha
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [Use student experience data in an iterative inquire-change-monitor cycle with students as partners](cultivate-data-improvement-cycle.md)
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
+- [Establish continuous improvement cycles that monitor and evaluate POG implementation](pog-continuous-improvement-cycles.md)
 
 ## Examples
 -

@@ -48,6 +48,9 @@ Omarchevska, Y., Lachner, A., Richter, J., & Scheiter, K. (2022). It takes two t
 ## Discussion
 The central statistic (d=1.96) is frequently the kind of number that gets over-read as causal; it is not. The study measures how differently two already-distinguished (by outcome) groups behaved during inquiry, which is a legitimate and informative use of process mining (it tells you what high performers do differently) but not a controlled test of what produces high performance. The qualitative examples of monitoring and control-of-variables-strategy violations are more directly interpretable as behavioral markers and are consistent with the broader self-regulated-learning literature. The paper's own recommendation — integrate self-regulation and scientific-reasoning instruction — is explicitly framed by the authors as an implication to test, not a validated intervention result.
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - (none yet linked)
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related

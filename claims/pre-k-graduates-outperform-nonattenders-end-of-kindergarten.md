@@ -42,6 +42,9 @@ The study examined pre-K benefits through the end of kindergarten for children f
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Kindergarten convergence is not attributable to pre-K children's kindergarten classroom experiences but is attributable to preexisting individual differences](convergence-attributable-to-preexisting-differences-not-kindergarten-classrooms.md) — related
 - [Convergence between pre-K graduates and nonattenders is largest for more constrained skills such as letter-word identification](convergence-largest-for-more-constrained-skills.md) — related

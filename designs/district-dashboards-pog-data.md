@@ -17,6 +17,7 @@ sources:
 # District-level dashboards aggregating Portrait of a Graduate skill data
 
 > **Design** · [All designs](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Dashboards are web-based platforms presenting aggregated and disaggregated data on student Portrait of a Graduate ability, used by two interviewed districts and explored by four more. Shelby County's dashboard aggregates defense of learning data by grade level, school, and demographic, informing professional learning decisions, and is publicly accessible to caregivers and community members. Challenges include the technical skills and resources required, data syncing maintenance, and protecting student privacy.

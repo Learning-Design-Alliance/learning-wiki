@@ -12,6 +12,7 @@ generated:
 # The Stacks
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Stacks is a workshop visualization that 'allows for a small set of different, parallel dimensions of evidence rather than sequential levels'. The dimensions include process evidence revealing how students proceed through learning activities, usage evidence describing who uses the activities and how much, and outcomes evidence covering academic and durable skills. Unlike tier levels, evidence across stacks develops in parallel, and additional stacks such as safety and privacy can be added.

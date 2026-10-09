@@ -80,6 +80,9 @@ The review synthesises behavioural outcomes across three guiding-analytics studi
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Formative-assessment-based LA shows positive effects on achievement, motivation, and understanding, with personalized feedback reading time mattering](formative-assessment-la-positive-effects.md) — related
 - [A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom](multiple-scaffolds-dls-achievement-srl.md) — related

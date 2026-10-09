@@ -42,6 +42,9 @@ Two-way ANCOVA (method × prior achievement level, controlling pretest) on conce
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Senior high school majors' background affects calculus conceptual understanding and self-efficacy, with no method-by-major interaction](majors-background-affects-outcomes.md) — related
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related

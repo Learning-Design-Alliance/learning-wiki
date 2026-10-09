@@ -42,5 +42,8 @@ Independent-samples t-tests comparing 18 successful and 58 less successful parti
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners](high-proficiency-learners-use-more-strategies.md) — related

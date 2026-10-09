@@ -45,3 +45,4 @@ The summary's overall synthesis of its two studies (2 studies, 650 students, ave
 ## Related Claims
 - [Math 180 randomized study: 6th graders receiving Math 180 showed greater growth on NWEA MAP mathematics than business-as-usual comparison students (ES +0.31)](math-180-rct-grade6-map-es-031.md) — a narrower finding that bears on this claim
 - [Math 180 matched comparison study: intervention-eligible students in grades 5-8 showed significantly greater NWEA MAP gains than matched comparison students (ES +0.23)](math-180-matched-comparison-es-023.md) — a narrower finding that bears on this claim
+- [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — related

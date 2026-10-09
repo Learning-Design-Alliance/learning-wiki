@@ -50,3 +50,4 @@ Interview findings: students believed the practical, problem-based nature of CID
 - [Employers value social and emotional development alongside content knowledge for workforce preparation](employers-value-social-emotional-skills.md) — related
 - [Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport](learning-studios-ldd-students-expertise-confidence.md) — related
 - [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related
+- [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — related

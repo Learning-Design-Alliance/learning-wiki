@@ -43,6 +43,9 @@ ANOVA results for 56 children with Tukey HSD post-hoc tests. For SI, "the intera
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children](ndw-only-language-group-difference-narrative-microstructure.md) — related
 - [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related

@@ -13,7 +13,7 @@ generated:
 # Action Oriented Feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 unmarked) · 14 studies (5 review, 4 causal, 3 quant-synthesis, 2 theoretical), `q2`–`q4` · 2 of 14 report an effect size
 
 ## Description
 Action oriented feedback is feedback phrased as a concrete next step the learner can take — "add a topic sentence to this paragraph," "re-check the sign when you moved the term across the equals sign" — rather than as evaluation ("good work," "unclear") or person-level judgment ("you're careless"). It answers Hattie and Timperley's (2007) question "Where to next?" by converting diagnosis into a specific, executable move. It is carried out by identifying the gap between current and target performance, then specifying the smallest action that closes it.
@@ -74,11 +74,13 @@ Feedback is among the most powerful influences on learning, but its effects are 
 6. Fade directiveness over successive cycles, asking learners to propose their own next steps.
 
 ## Related Strategies
+
 - [Formative feedback cycles](formative-assessment.md) — action oriented feedback is the delivery mechanism inside a formative loop
 - [Erroneous examples](../claims/erroneous-examples-build-conceptual-knowledge.md) — diagnosing a flawed example primes learners to give and receive action oriented comments
 - **Conferencing (writing workshop)** — the primary delivery vehicle for individualized action-oriented feedback
 - **Peer editing with protocols** — scales action-oriented feedback beyond the teacher
 - **Portfolio assessment** — makes the effect of implemented actions visible across drafts over time
+- [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
 
 ## Examples
 - **Draft–revise cycles in writing workshop** — teacher comments on a draft each end with one concrete revision ("split this run-on into two sentences; make the second one your evidence"), and class time is reserved for acting on them.

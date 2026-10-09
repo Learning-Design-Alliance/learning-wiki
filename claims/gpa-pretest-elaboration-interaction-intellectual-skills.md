@@ -42,6 +42,9 @@ Three-way ANOVA (Table 5) in the same experiment. The joint effect on posttest (
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [Elaboration strategy does not significantly affect students' attitudes toward the learning method](elaboration-strategy-no-attitude-effect.md) — related

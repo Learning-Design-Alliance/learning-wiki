@@ -61,6 +61,9 @@ Same planned contrasts for Group TDP: "gains in goal-setting and elaboration rem
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Web Based Srl Training Subscale Interactions Planning Metacognition Volition](web-based-srl-training-subscale-interactions-planning-metacognition-volition.md)
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related

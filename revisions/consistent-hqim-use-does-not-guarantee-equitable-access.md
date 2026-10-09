@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/consistent-hqim-use-does-not-guarantee-equitable-access.md
+---
+
+# Revision history: [claims/consistent-hqim-use-does-not-guarantee-equitable-access](../claims/consistent-hqim-use-does-not-guarantee-equitable-access.md)
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from eric-ed681318 (Beyond Curriculum Adoption: What District Leaders Are Saying about Using Illustrative Mathematics) via eval_harness.py + ingest_extractions.py

@@ -44,6 +44,8 @@ The briefs issue four strategic recommendations for leaders: "Build AI literacy 
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
+- [Coordinate cross-sector efforts to address AI literacy gaps, focusing on vulnerable workers lacking foundational digital literacy](coordinate-efforts-vulnerable-workers-ai-literacy.md)
+- [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
 
 ## Examples
 -

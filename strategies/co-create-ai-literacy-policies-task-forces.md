@@ -43,6 +43,9 @@ The brief recommends that districts address AI literacy gaps through comprehensi
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
 - [School districts adopting AI should follow a five-step roadmap: engage communities, apply and develop policies, provide professional development, create supportive learning environments, and monitor and evaluate AI use](five-step-district-ai-adoption-roadmap.md)
 - [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
+- [Engage community constituents through multiple input methods as the first step in POG development](community-engagement-first-step-pog.md)
+- [Coordinate cross-sector efforts to address AI literacy gaps, focusing on vulnerable workers lacking foundational digital literacy](coordinate-efforts-vulnerable-workers-ai-literacy.md)
+- [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
 
 ## Examples
 -

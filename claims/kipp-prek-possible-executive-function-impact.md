@@ -42,6 +42,9 @@ Listed among the report's key findings as a possible, hedged impact on executive
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school](kipp-prek-added-reading-benefit-beyond-elementary.md) — related
 - [KIPP Pre-K combined with KIPP early elementary school has positive, statistically significant impacts on reading and math achievement after five years](kipp-prek-elementary-five-year-reading-math-impacts.md) — related

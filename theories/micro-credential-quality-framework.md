@@ -50,6 +50,7 @@ To ensure quality and rigor, Digital Promise developed a framework ensuring micr
 - [Advance micro-credentials through a piloting coalition, a rigorous research agenda, and dissemination of best practices](../strategies/micro-credential-next-steps-strategy.md)
 - [Use Five Key Questions to stress-test proposed micro-credential competencies before drafting](../strategies/five-key-questions-micro-credential-development.md)
 - [Advance micro-credentialing policy across five domains: controlling for quality, counting what matters, finding time, leveraging expertise, and designing for effectiveness](../strategies/five-domains-micro-credentialing-policy.md)
+- [Adapt an existing micro-credential for a new context through translation, local assessor training, professional development, and coaching](../strategies/micro-credential-local-adaptation-steps.md)
 
 ## Key Sources
 - Barnett Berry and Karen Cator. (2016). Micro-credentials: Driving teacher learning & leadership. Center for Teaching Quality and Digital Promise. http://teachingquality.org/micro-credentials

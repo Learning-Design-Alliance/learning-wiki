@@ -42,6 +42,9 @@ Two-way ANOVA on self-efficacy: "The interaction between method and prior achiev
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Senior high school majors' background affects calculus conceptual understanding and self-efficacy, with no method-by-major interaction](majors-background-affects-outcomes.md) — related
 - [Prior achievement level did not significantly affect self-efficacy overall in either flipped classroom method](prior-achievement-null-self-efficacy.md) — related

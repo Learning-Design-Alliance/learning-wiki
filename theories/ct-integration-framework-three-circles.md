@@ -15,7 +15,7 @@ sources:
 # A three-circle framework for computational thinking integration: skills, practices, and inclusive pedagogies
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 theoretical, 1 review), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The report introduces a framework for integrating computational thinking into K-12 teaching, organized as three concentric circles. As the authors state, "Our recommended framework (Figure 2) has three concentric circles." The outermost circle holds CT skills (abstraction, algorithmic thinking, debugging, decomposition, pattern recognition, selecting tools) as cognitive processes for engaging computational tools; the middle circle holds CT practices (automation, computational modeling, data practices) that combine skills to solve applied problems; the innermost circle holds inclusive pedagogies. The report pairs each skill and practice with classroom examples, such as preschool button sorting for abstraction and high school open-data visualization for data practices.

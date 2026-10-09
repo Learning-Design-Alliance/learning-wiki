@@ -42,6 +42,9 @@ Study 2 comparison of total fixation duration per page between silent and enhanc
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](animation-phase-dependent-attention-to-print.md) — related
 - [Multimedia features improved story comprehension in dual-language e-books (marginal trend) but not in single-language e-books](comprehension-benefit-dual-language-only.md) — related

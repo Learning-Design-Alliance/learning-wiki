@@ -42,6 +42,10 @@ Structural equation model testing symmetric bidirectional paths in the same 368-
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse](digital-intensity-attenuates-ef-reappraisal-link.md) — related
 - [Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) — related

@@ -42,6 +42,10 @@ The authors' motivating premise, stated without cited evidence on this page: dis
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — related
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related

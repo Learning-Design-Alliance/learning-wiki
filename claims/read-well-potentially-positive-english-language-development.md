@@ -42,6 +42,9 @@ The WWC review of the Frasco (2008) RCT reports a positive vocabulary finding on
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Read Well® shows no discernible effects on reading achievement for elementary school English language learners](read-well-no-discernible-effects-reading-achievement-ell.md) — related
 - [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related

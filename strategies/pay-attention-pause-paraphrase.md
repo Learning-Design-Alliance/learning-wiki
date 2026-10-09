@@ -61,9 +61,11 @@ The protocol converts discussion from a competition for airtime into a comprehen
 7. **Debrief.** Ask groups where paraphrases missed the mark — the mismatches are where meaning broke down.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — shares the structured turn-taking skeleton but omits the paraphrase-before-response requirement
 - [Active Listening](../strategies/active-listening.md) — the broader skill family this strategy operationalizes
 - [Socratic Seminar](../strategies/socratic-seminar.md) — a discussion format whose norms this protocol can seed early in the year
+- [Scaffold mathematical discussion with paraphrasing, restating, formulaic expressions, elaborating questions, and key vocabulary in context](discussion-scaffolds-paraphrase-formulaic-expressions.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the larger activity this protocol structures

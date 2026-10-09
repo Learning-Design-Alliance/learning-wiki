@@ -60,9 +60,11 @@ Bias awareness activities work by making automatic cognitive processes explicit 
 7. **Revisit.** Repeat the elicitation later in the course so awareness becomes a recurring practice rather than a one-time event.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — bias awareness is activation applied to social cognition: surfacing what learners already bring before new input is interpreted
 - [Building Empathy](../principles/building-empathy.md) — the dispositional goal that sustained bias work serves
 - [Perspective-Taking](../principles/building-empathy.md) — related but distinct; perspective-taking exercises target understanding others, this strategy targets seeing oneself
+- [Interrogate bias in data analysis by unpacking biases with colleagues and building skills to name bias in action](interrogate-bias-in-data-analysis.md)
 
 ## Examples
 - **[Project Implicit](https://implicit.harvard.edu)** — Harvard-hosted Implicit Association Tests widely used in diversity education; learners complete a test and reflect on their results in facilitated sessions.

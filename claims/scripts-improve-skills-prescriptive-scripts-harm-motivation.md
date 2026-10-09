@@ -42,6 +42,9 @@ The primer warns, citing Deci and Ryan (1985) and Radkowitsch et al. (2020), tha
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Collaborative argumentation benefits students' motivation, content learning, domain argumentation, transferable argumentation skills, and knowledge-building practices](collaborative-argumentation-benefits-summary.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related

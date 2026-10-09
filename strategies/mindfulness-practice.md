@@ -13,7 +13,7 @@ generated:
 # Mindfulness Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 unmarked) · 5 studies (3 review, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size
 
 ## Description
 Mindfulness practice involves short, structured exercises — focused breathing, body scans, mindful observation of thoughts — in which learners deliberately attend to present-moment experience and return attention when it wanders. In instructional settings it is typically delivered as brief (3–10 minute) practices at the start of class or before demanding tasks, rather than as a standalone curriculum.

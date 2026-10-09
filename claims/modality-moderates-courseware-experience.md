@@ -41,6 +41,9 @@ Contrast between students in face-to-face versus online courses within the 50-st
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness](instructor-involvement-supports-courseware-use.md) — related
 - [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](interviews-undergrad-stats-lumen-one-perceptions.md) — related

@@ -40,6 +40,9 @@ Qualitative case-study interview data reported in the Teaching is My Favorite Co
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose](admiral-squad-confidence-beloning-impact.md) — related
 - [A teacher mentioning her own less-celebrated identities opens the door for students to include their perspectives and identities](mentioning-other-identities-opens-door-for-students.md) — related

@@ -46,3 +46,4 @@ Table 2 of the sixteen-state projection reports group shares; for example, in Sp
 - [No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares](school-characteristics-benchmark-shares.md) — related
 - [Even with three additional years of instruction, roughly a quarter of students remain below the 12th-grade reading benchmark across loss scenarios](three-extra-years-leaves-quarter-undereducated.md) — related
 - [Substantial learning inequalities persist: TPS students in poverty, TPS English learners, and special education students in either setting show significant learning gaps](ri-learning-gaps-tps-subgroups.md) — related
+- [The likelihood of being identified as significantly below benchmark in early literacy screening increases as historically underserved background characteristics intersect](intersecting-backgrounds-increase-literacy-risk.md) — related

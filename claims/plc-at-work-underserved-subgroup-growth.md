@@ -48,3 +48,4 @@ Subgroup analysis within the Arkansas quasi-experimental study, in which 85% of 
 - [Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students](learning-conditions-predict-grades-across-demographics.md) — related
 - [The interventions did not consistently benefit any baseline subgroup more than another](no-consistent-subgroup-benefit-reading-interventions.md) — related
 - [Word attack gains from the Wilson Reading System were concentrated among students with high initial word attack or vocabulary scores and students not eligible for free/reduced lunch](wilson-reading-system-subgroup-effects-initial-skill-ses.md) — related
+- [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related

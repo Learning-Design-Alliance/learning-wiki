@@ -42,6 +42,9 @@ Quasi-experimental study in three California public school districts in 2021–2
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Effects of Lexia English Language Development are strongest among students with lower baseline English proficiency](lexia-english-effects-strongest-lower-baseline.md) — related
 - [Louisiana English Learners in grades 1-5 who used Imagine Language & Literacy scored significantly higher on the ELPT than matched non-users (ES +0.16)](imagine-ll-louisiana-elpt-gain.md) — related

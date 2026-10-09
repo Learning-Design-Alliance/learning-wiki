@@ -13,6 +13,7 @@ generated:
 # National Education Longitudinal Survey (NELS)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A nationally representative longitudinal education dataset collected and maintained by the National Center for Education Statistics, tracking students from eighth grade through postsecondary outcomes.

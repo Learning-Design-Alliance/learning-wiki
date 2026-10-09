@@ -13,7 +13,7 @@ generated:
 # Probing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 13 studies (7 quant-synthesis, 4 causal, 1 review, 1 associational), `q2`–`q4` · 6 of 13 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 14 studies (8 quant-synthesis, 4 causal, 1 review, 1 associational), `q2`–`q4` · 7 of 14 report an effect size
 
 ## Description
 Probing is the instructional element of asking follow-up questions that press past a learner's first response — asking for justification, elaboration, counterexamples, or connections to prior knowledge. It functions as a form of [Assessment for Learning](../principles/assessment-for-learning.md): the probe diagnoses the learner's current understanding while simultaneously prompting the learner to reconstruct and extend it.

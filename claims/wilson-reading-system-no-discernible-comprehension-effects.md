@@ -42,5 +42,8 @@ The comprehension findings table reports GRADE passage comprehension effect size
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The Wilson Reading System shows potentially positive effects on alphabetics for beginning readers, based on a single randomized controlled trial](wilson-reading-system-potentially-positive-alphabetics.md) — related

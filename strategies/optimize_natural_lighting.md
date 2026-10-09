@@ -13,7 +13,7 @@ generated:
 # Optimize Natural Lighting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 2 studies (1 quant-synthesis, 1 review), `q3` · 1 of 2 report an effect size
 
 ## Description
 Optimizing natural lighting means designing and managing classrooms so that daylight is the primary light source, supplemented by controllable artificial lighting. This is carried out through architectural choices (window size and placement, room orientation, light shelves), operational choices (blind management, desk arrangement relative to windows), and lighting controls that adjust electric light in response to available daylight.

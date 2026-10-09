@@ -42,5 +42,8 @@ A design-rationale statement in the Drawing 1 section of the 1968 planning bookl
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related

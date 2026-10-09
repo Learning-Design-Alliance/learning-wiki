@@ -48,3 +48,4 @@ In the interview study of 14 key officials, participants contrasted the new fram
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
+- [Districts use multiple forms of data—learning walks, state assessment items, dashboards, and diagnostics—to give teachers feedback and refine IM implementation over time](data-use-supports-ongoing-hqim-implementation.md) — related

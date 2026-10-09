@@ -42,6 +42,9 @@ Survey of the nationally representative teacher sample on informal, non-required
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Potential early adopters of micro-credentials are driven by intrinsic motivations and heavy informal professional learning, while late adopters are more experienced and driven by extrinsic motivations](early-vs-late-adopter-motivation-profiles.md) — related
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — possibly the same claim (merge candidate)

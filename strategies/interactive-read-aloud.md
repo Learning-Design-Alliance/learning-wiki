@@ -13,7 +13,7 @@ generated:
 # Interactive Read Aloud
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q3` · 3 of 7 report an effect size
 
 ## Description
 An interactive read aloud is a whole-class or small-group activity in which the teacher reads a text aloud — typically above students' independent reading levels — and deliberately pauses to think aloud, ask questions, and invite student talk about the story or content. Unlike a performance reading, the interaction is planned: the teacher selects stopping points in advance to model comprehension moves, build vocabulary, and surface students' thinking. The read aloud makes sophisticated texts accessible to learners who could not yet read them independently, decoupling comprehension instruction from decoding skill.

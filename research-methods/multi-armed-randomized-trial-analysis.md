@@ -12,6 +12,7 @@ generated:
 # Multi-armed randomized trial analysis
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The report's guidance is that analysts running studies with several intervention arms should not simply reuse two-group methods: estimators "need to be modified for the multi-armed design," hypothesis tests across pairwise contrasts require multiple comparison adjustments, and CACE estimation demands attention to its complex identifying assumptions. The principle directs evaluation design and analysis choices in multi-armed education studies.

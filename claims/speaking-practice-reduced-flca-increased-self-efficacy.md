@@ -42,6 +42,9 @@ In the results for the first research aim, Student A reported losing her "fear o
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)](fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) — related
 - [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — a broader claim this one bears on

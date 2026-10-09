@@ -42,6 +42,9 @@ OLS multivariate models on 77,056 CPS students in grades 5-8 predicted a three-c
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Chicago Connected eligibility was associated with higher fall 2020 engagement for high pre-pandemic GPA students but lower engagement for low pre-pandemic GPA students](chicago-connected-eligibility-heterogeneous-engagement-effects.md) — related
 - [Differences in engagement and achievement between high- and low-GPA students grew more sharply during the pandemic among Chicago Connected participants than among eligible non-participants](chicago-connected-participants-widening-gpa-disparities.md) — related

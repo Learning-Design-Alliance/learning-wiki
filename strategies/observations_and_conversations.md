@@ -58,9 +58,11 @@ Observation and conversation are core moves of formative assessment, and formati
 5. Use the same day's evidence to adjust instruction — regroup, reteach, or raise challenge — and close the loop with [Feedback](../elements/feedback.md).
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the conversational skill that makes student talk diagnostic rather than performative
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a structured conferencing implementation of this strategy
 - [Questioning](questioning.md) — the probe design that determines the quality of what conversations reveal
+- [Gather formative evidence through embedded, discipline-specific tasks rather than separate tests or language assessments](embedded-evidence-gathering-without-separate-tests.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — scalable whole-class conversation routine

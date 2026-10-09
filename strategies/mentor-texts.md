@@ -13,7 +13,7 @@ generated:
 # Mentor Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 11 studies (5 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 12 studies (6 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 A mentor text is a short, high-quality exemplar — a published essay, poem, lab report, code snippet, or student-written piece — that learners study closely to understand how a particular craft move works before attempting it in their own work. The strategy treats the text as a coach rather than a content source: learners read like writers, identifying techniques, structures, and stylistic choices they can borrow. Instruction typically follows a cycle of reading, noticing, imitation, and independent application.

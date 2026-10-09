@@ -53,6 +53,7 @@ LC101 is LaunchCode's flagship alternative STEM pathway: a part-time, evening pr
 ## Examples
 
 - [Provide mentorship and outreach support after program entry to sustain persistence in alternative STEM programs](../strategies/post-entry-mentorship-support-alternative-stem-programs.md)
+- [Provide flexible, supportive program structures — free tuition, Flex Lessons, personalized mentorship, and remote coursework — to enable working adult learners to persist](../strategies/flexible-supportive-structures-working-adult-learners.md)
 
 ## Key Sources
 - Huang, Wenrui, Dajanae Palmer, Ekaete Udoh, Yung Chun, and Jason Jabbari. (2025). Pinpointing Persistence in Alternative STEM Pipelines: Evidence from a Novel Coding and Apprenticeship Program. EdWorkingPaper No. 25-1122. https://edworkingpapers.com/ai25-1122

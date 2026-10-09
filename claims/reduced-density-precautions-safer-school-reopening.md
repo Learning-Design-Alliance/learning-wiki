@@ -49,3 +49,4 @@ The publication's summary of its research findings states that "reducing the num
 - [Hybrid approaches with smaller masked groups attending part-time dramatically reduce total likely infections, and most outside infections produce zero additional in-school infections](hybrid-attendance-dramatically-reduces-infections-model.md) — related
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
 - [The most effective transmission-reducing testing strategies also increase the number of in-person school days lost, creating a tradeoff schools must weigh](testing-effectiveness-traded-against-school-days-lost.md) — related
+- [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](poor-iaq-harms-student-health-and-learning.md) — related

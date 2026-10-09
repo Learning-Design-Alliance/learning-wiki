@@ -40,6 +40,9 @@ The WWC's review of supplemental findings reports that the strongest study's pos
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Dual language programs improved English literacy achievement, with a potentially positive effects rating based on one study](dual-language-programs-improve-literacy-achievement.md) — related
 - [Dual language programs showed uncertain effects on science achievement](dual-language-programs-uncertain-science-effects.md) — related

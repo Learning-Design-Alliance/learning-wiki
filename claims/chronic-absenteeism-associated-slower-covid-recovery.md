@@ -42,6 +42,9 @@ Observational analysis of MAP Growth data across 2,000 US school districts exami
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A NWEA research brief examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions to learning](chronic-absenteeism-impediment-academic-recovery.md) — possibly the same claim (merge candidate)
 - [Math shows slower recovery than reading in the full meta-analysis](math-slower-recovery-than-reading.md) — related
@@ -49,3 +52,4 @@ Observational analysis of MAP Growth data across 2,000 US school districts exami
 - [NWEA research examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions](chronic-absenteeism-academic-recovery-relationship.md) — a broader claim this one bears on
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — possibly the same claim (merge candidate)
 - [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related
+- [Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements](research-priorities-track-federal-policy.md) — related

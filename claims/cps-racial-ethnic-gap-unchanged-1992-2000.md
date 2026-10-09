@@ -48,3 +48,4 @@ Trend analysis of mean ITBS scores by race/ethnicity (Figure 2, Tables C and D) 
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — reports the opposite
 - [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
 - [Schools play less of a role in widening racial/ethnic achievement gaps than children's prekindergarten environments](schools-less-role-than-prekindergarten-environments.md) — related
+- [Black students in LBUSD score behind all other ethnic groups and ELLs on the 2024 SBAC, with only 20 percent meeting or exceeding achievement in math and 34 percent in ELA](lbusd-black-students-sbac-gaps-2024.md) — related

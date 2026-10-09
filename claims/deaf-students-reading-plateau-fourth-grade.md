@@ -42,6 +42,9 @@ The article reports, citing a study in Gibson and Levin's The psychology of read
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](dhh-students-continue-building-skills-no-elementary-plateau.md) — reports the opposite

@@ -13,7 +13,7 @@ generated:
 # Socratic Seminar
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3`–`q4` · 2 of 2 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (4 quant-synthesis, 1 causal), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 A Socratic Seminar is a structured, student-led dialogue in which participants interrogate a shared text (or artifact) through open-ended questions, building and challenging interpretations rather than receiving teacher explanation. The teacher acts as facilitator — selecting the text, framing opening questions, and enforcing norms of evidence-based turn-taking — while students pose questions, cite textual evidence, and respond to one another's reasoning. The method takes its name from the elenchus of Socratic dialogues: learning driven by systematic questioning that exposes gaps and tensions in reasoning.

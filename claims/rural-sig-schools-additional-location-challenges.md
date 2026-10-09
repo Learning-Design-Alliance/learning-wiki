@@ -55,3 +55,4 @@ Case study analysis of nine rural SIG schools using spring 2012 site visits and 
 - [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related
 - [Rural schools were far more likely than nonrural schools to offer Project On-Track tutoring during school only](ontrack-rural-schools-during-school-tutoring.md) — related
 - [Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities](local-leaders-learning-supports-across-modalities.md) — related
+- [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](rural-childcare-structural-barriers-tecta-participation.md) — related

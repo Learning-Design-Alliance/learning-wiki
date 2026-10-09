@@ -13,6 +13,7 @@ generated:
 # Bachelor's Degree Attainment Index (Bachelor's DAI) and Direct Bachelor's DAI
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 These are UChicago Consortium measurement metrics estimating the proportion of a ninth-grade cohort that earns a bachelor's degree, distinguishing direct four-year pathways from pathways involving delayed entry or two-year colleges.

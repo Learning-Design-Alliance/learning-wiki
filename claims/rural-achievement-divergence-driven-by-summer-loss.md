@@ -42,6 +42,9 @@ Seasonal growth modeling across fall and spring test administrations for 840,000
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Black–White achievement gaps widen during the school year in both rural and nonrural schools](black-white-gaps-widen-during-school-year-rural-and-nonrural.md) — related
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related

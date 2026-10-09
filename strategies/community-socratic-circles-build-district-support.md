@@ -39,7 +39,8 @@ Because the Core Team identified teachers' fear of social and political backlash
 - Building community understanding of and support for classroom racial equity discourse
 
 ## Related Strategies
-- 
+
+- [Protect teachers from social and political backlash by communicating CRSE's value and providing norms and probing questions for sociopolitical discussions](protect-teachers-sociopolitical-backlash-crse.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ The playbook recommends that teachers and staff use Cultivate data in a continuo
 - [Inclusive Innovation Process](inclusive_innovation_process.md)
 - [Action Research](action-research.md)
 - [Establish AI-specific accountability systems with iterative playbooks, family guides, and continuous evaluation cycles](ai-specific-accountability-systems-playbook.md)
+- [Establish continuous improvement cycles that monitor and evaluate POG implementation](pog-continuous-improvement-cycles.md)
 
 ## Examples
 -

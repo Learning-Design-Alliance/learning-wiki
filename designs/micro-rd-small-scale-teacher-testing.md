@@ -16,6 +16,7 @@ sources:
 # Micro-R&D: teachers test new tools and ideas on a small scale before successful practices enter the broader curriculum
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 At South Fayette Township School District (PA), R&D operates as a culture of experimentation rather than a department. The report describes that "This approach empowers teachers to test new tools and ideas on a small scale, often in after-school clubs, summer programs, or elective courses, before integrating successful practices into the broader curriculum." Success is measured by student interest and engagement—elective signups, club attendance, word-of-mouth—rather than standardized metrics, with leadership intentionally flat and distributed so teachers, students, and community members co-design programs.

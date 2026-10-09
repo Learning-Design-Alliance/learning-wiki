@@ -48,3 +48,4 @@ The authors' own methodological claim about their application of propensity scor
 - [Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding](class-size-studies-excluded-high-risk-confounding.md) — related
 - [Propensity score analysis estimated a Texas generalizability index of 0.91, and post-stratification yielded a population average treatment effect of 1.47 versus a conventional estimate of 1.44](propensity-score-population-treatment-effect.md) — related
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
+- [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related

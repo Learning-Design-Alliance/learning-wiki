@@ -42,6 +42,9 @@ Theme 7 among the ten themes the study recognized after synthesizing SLA theorie
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — related
 - [Six of thirteen coded moderators significantly influence the effect of CALL feedback: educational level, intervention provider, mother tongue, research context, subject domain, and target language](six-significant-moderators-call-feedback.md) — related

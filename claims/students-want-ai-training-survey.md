@@ -46,3 +46,4 @@ Survey result reported in the brief's student-gaps section: "57% of respondents 
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level](pr-teachers-dissatisfied-pd-want-tailored-workshops.md) — related
+- [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related

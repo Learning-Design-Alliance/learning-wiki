@@ -72,6 +72,7 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 **[PERTS](https://www.perts.net)** — Platform developed at Stanford that delivers and scales belonging and growth-mindset interventions in classrooms, with instructor dashboards for monitoring student experience.
 
 **First-year seminar programs (e.g., [University of South Carolina's University 101](https://www.sc.edu/about/offices_and_divisions/university_101/index.php))** — Credit-bearing transition courses that combine peer cohorts, instructor mentorship, and explicit normalization of academic struggle; associated with improved retention.
+- [Teacher-of-color affinity groups as the most common strategy for fostering belonging and retention](../strategies/teacher-of-color-affinity-groups-belonging.md)
 
 ## Key Sources
 - Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. *Science, 331*(6023), 1447–1451. [doi:10.1126/science.1198364](https://doi.org/10.1126/science.1198364)

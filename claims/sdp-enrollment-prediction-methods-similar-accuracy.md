@@ -45,3 +45,4 @@ Comparative analysis of four prediction techniques using prior-years district da
 ## Related Claims
 - [Predictive accuracy of enrollment forecasts is not meaningfully different in schools with larger proportions of Black students, economically disadvantaged students, or English learner students](sdp-enrollment-prediction-accuracy-equity-null.md) — possibly the same claim (merge candidate)
 - [Even under the best prediction approach, students and teachers in 22 percent of incoming grade levels within SDP schools might have to be reassigned because of unexpected student mobility and maximum class size rules](sdp-enrollment-prediction-leaves-mobility-unaccounted.md) — related
+- [Strict class size caps raise per-student staffing costs as enrollment shrinks—a worked example shows a 44 percent cost increase when 1st grade enrollment falls from 75 to 52 students](class-size-caps-raise-costs-enrollment-decline.md) — related

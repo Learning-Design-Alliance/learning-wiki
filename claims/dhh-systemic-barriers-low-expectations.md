@@ -42,6 +42,9 @@ The article's abstract asserts, without printed data or statistics in the availa
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](dhh-students-continue-building-skills-no-elementary-plateau.md) — related
 - [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related

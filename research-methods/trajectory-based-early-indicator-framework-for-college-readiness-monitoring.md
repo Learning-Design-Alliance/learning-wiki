@@ -12,6 +12,7 @@ generated:
 # Trajectory-based early indicator framework for college readiness monitoring
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents a framework that applies college readiness benchmarks to longitudinal middle-grades assessment data, assigning each student a series of up to six on-track status indicators and grouping students into six trajectory patterns. As the authors state, this study demonstrates an early academic indicator approach that continuously monitors students' on-track status from the beginning of 6th grade to the end of 8th grade. The framework identifies when achievement growth acceleration and deceleration happen using vertically scaled scores.

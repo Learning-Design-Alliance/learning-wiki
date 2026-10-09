@@ -42,6 +42,9 @@ In the article's visual-processing study, a classroom slide was shown for under 
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants](expert-teachers-interpret-classroom-phenomena-better.md) — related
 - [Experts attend selectively to atypical events, merging typical student information into a group picture, while novices and postulants study all student details](experts-attend-to-atypical-events.md) — related

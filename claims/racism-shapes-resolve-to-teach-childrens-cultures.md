@@ -65,3 +65,4 @@ Debbie Menchaca's narrative recounts sexism and racial labeling across her schoo
 - [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related
 - [A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities](teacher-brings-home-culture-into-teaching.md) — possibly the same claim (merge candidate)
 - [The mismatch between school and home cultures disadvantages students for learning, and the disadvantage stems from assimilation rather than diversity](school-home-culture-mismatch-assimilation-disadvantage.md) — related
+- [Nature and nurture interact dynamically: children's experiences shape their biology as much as biology shapes development](dynamic-nature-nurture-brain-plasticity.md) — related

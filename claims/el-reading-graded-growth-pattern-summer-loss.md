@@ -42,6 +42,9 @@ Longitudinal reading growth analysis from K-4 comparing ELs and never-ELs by gra
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In reading, dual language participants grew slightly more slowly during school years but lost less learning during summers, closing the gap with the national average](dual-language-reading-slower-school-year-growth-less-summer-loss.md) — related
 - [ELs lost more academic skill during summers than never-ELs in both math and reading](el-greater-summer-loss-both-subjects.md) — related

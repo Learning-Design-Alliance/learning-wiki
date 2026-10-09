@@ -12,6 +12,7 @@ generated:
 # Remnant-based covariate adjustment (ReLOOP+)
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This principle directs platform researchers analyzing randomized experiments to train outcome-prediction models on log data from non-experimental ('remnant') users and incorporate those predictions, together with within-sample covariates, into design-based covariate-adjusted estimators such as ReLOOP+. The article's summary of its findings: "covariate adjustment can lead to substantial gains in precision, with the greatest improvement resulting from adjustment using both within-sample aggregated covariates and remnant-based imputations." Because adjustment is design-based, estimates remain unbiased and inference valid even if the imputation model is poor.

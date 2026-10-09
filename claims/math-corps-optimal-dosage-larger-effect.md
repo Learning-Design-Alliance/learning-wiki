@@ -42,6 +42,9 @@ Subgroup analysis within the first randomized study (489 students): students rec
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample](booknook-dosage-20-sessions-stronger-effect.md) — related
 - [Students who completed 80 or more Once sessions showed meaningfully larger literacy gains, suggesting dosage drives outcomes](once-dosage-80-sessions-larger-gains.md) — related

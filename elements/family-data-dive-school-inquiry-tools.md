@@ -47,6 +47,7 @@ The playbook's Data Dive section assembles six data sources parents and LSC memb
 - [Parents and LSC members partner with principals by learning the leadership team, reviewing the CIWP and school data, and fostering a welcoming school culture](../strategies/parent-lsc-principal-partnership-strategy.md)
 - [Use survey profiles, discussion questions, and the Details report to guide school improvement deliberations](../strategies/survey-report-discussion-questions-improvement-strategy.md)
 - [Deliberately bridge student experience data work across tools, initiatives, and partner organizations](../strategies/bridge-student-experience-data-across-initiatives.md)
+- [Conduct a family engagement needs assessment as the first step in planning](../strategies/family-engagement-needs-assessment-first-step.md)
 
 ## Key Sources
 - UChicago Consortium on School Research. (2025). Family playbook: Effective principal leadership. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/events-and-resources

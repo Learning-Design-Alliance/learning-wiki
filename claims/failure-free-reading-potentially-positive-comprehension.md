@@ -42,6 +42,9 @@ In the Torgesen et al. (2006) randomized controlled trial (93 third-grade studen
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [EIR® had a positive, substantively important but statistically non-significant effect on first-grade reading comprehension](eir-comprehension-substantively-important-ns.md) — related
 - [Failure Free Reading shows no discernible effects on reading fluency](failure-free-reading-no-discernible-effects-fluency.md) — related

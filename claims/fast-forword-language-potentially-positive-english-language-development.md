@@ -42,6 +42,9 @@ Randomized controlled trial meeting WWC evidence standards, part of a study of 8
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Fast ForWord Language shows no discernible effects on reading achievement of elementary school English language learners](fast-forword-language-no-discernible-reading-achievement-effects.md) — related
 - [The WWC improvement index is +31 percentile points for English language development and +3 percentile points for reading achievement](fast-forword-improvement-index-eld-reading.md) — related

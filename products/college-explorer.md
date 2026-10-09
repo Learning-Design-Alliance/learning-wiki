@@ -13,6 +13,7 @@ generated:
 # College Explorer
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 College Explorer is a data-visualization tool from NWEA Research that links MAP Growth scores with national benchmarks for colleges, universities, and majors to support post-secondary planning.

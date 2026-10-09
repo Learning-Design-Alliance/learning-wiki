@@ -42,6 +42,9 @@ Six-year randomized study in Chicago reported by the review. It reports an effec
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Positive Action reduces school absenteeism, with a weighted average effect size of +0.20 across two randomized studies](positive-action-reduces-absenteeism.md) — a broader claim this one bears on
 - [In a four-year randomized evaluation in Hawaii, Positive Action schools had significantly lower absenteeism (ES=+0.19) and positive math and reading outcomes relative to controls](positive-action-hawaii-rct-absenteeism.md) — related

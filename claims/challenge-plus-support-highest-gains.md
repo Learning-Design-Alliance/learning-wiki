@@ -64,3 +64,4 @@ The review reports, citing Allensworth et al. (2014), a support-by-challenge con
 ## Related Claims
 - [Displaced students in receiving schools with high student-teacher trust and teacher personal attention showed larger reading and math gains than those in low-support schools](teacher-relationships-moderate-displaced-student-gains.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Instruction must be challenging for learning gains, but raising challenge without classroom control and student support harms grades and engagement](challenge-requires-control-and-support.md) — possibly the same claim (merge candidate)

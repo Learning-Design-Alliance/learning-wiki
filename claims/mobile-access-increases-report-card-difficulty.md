@@ -42,6 +42,9 @@ Design-comparison study of the DC school report card. The summary states that "p
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access](aac-user-barriers-cognitive-load-access.md) — related
 - [Moving the link to the STAR framework from the top of the page to beneath the STAR score improved the school report card site's usability](star-link-beneath-score-improves-usability.md) — related

@@ -46,3 +46,5 @@ This is an author position statement in the misconceptions brief, offered with n
 - [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
 - [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related
+- [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — reports the opposite
+- [LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use](llm-assistance-enhances-employee-creativity.md) — related

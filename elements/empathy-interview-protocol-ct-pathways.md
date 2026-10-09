@@ -51,6 +51,7 @@ A five-step interview protocol that educators use to elicit students' experience
 - [Five-step empathy interview exercise for teachers designing inclusive computing pathways](../strategies/empathy-interview-five-step-exercise.md)
 - [Conduct empathy interviews as story-based conversations in comfortable, student-chosen settings](../strategies/empathy-interview-conduct-practices.md)
 - [Conduct empathy interviews to understand user experiences with technology](../strategies/empathy-interviews-for-ai-policy-development.md)
+- [Conduct one-on-one empathy interviews with open-ended questions to uncover root causes of system challenges](../strategies/empathy-interviews-root-causes.md)
 
 ## Key Sources
 - Pati Ruiz, Kelly Mills, Quinn Burke, and Merijke Coenraad. (2021). Student Empathy Interviews: An Instrument For Considering More Inclusive K-12 Computing Pathways. Digital Promise White Paper. https://bit.ly/36szXLy

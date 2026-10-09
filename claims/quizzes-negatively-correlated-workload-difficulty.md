@@ -42,6 +42,9 @@ Course-level correlation analysis across the 14 engineering courses found quizze
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Workload variability and slope metrics correlate strongly with perceived course difficulty](workload-dynamics-correlate-perceived-difficulty.md) — related
 - [Self-reported weekly time-on-task is positively correlated with LMS-based time-on-task and activity measures in engineering courses](self-reported-lms-time-on-task-correlated.md) — related

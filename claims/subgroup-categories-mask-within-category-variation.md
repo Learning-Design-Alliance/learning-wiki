@@ -45,3 +45,4 @@ Conceptual discussion with worked examples: 2024–2025 federal FRL income guide
 ## Related Claims
 - [Disaggregating by race and income can show aggregate subgroup gaps largely reflect differing subgroup compositions (hypothetical example)](intersectional-disaggregation-closes-aggregate-gaps-hypothetical.md) — related
 - [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](condensed-eot-race-gender-equity-gaps.md) — related
+- [Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences](consistent-hqim-use-does-not-guarantee-equitable-access.md) — related

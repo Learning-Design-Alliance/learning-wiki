@@ -42,6 +42,9 @@ Achievement trajectories plotted in Figure 2 for the kindergarten cohort show du
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [All three EL subgroups scored lower than never-ELs in math and reading throughout kindergarten to 4th grade](el-groups-lower-achievement-than-never-els-k4.md) — related

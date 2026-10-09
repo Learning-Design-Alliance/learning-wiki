@@ -42,6 +42,9 @@ Correlational analysis from a study of math curricula reported in this NCEE issu
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The study analyzed data from classrooms using math curricula to correlate instructional practices with student achievement, and its technical appendix documents the data, curricula, and methods.](math-curricula-study-practices-achievement-correlations-technical-appendix.md) — related
 - [Using more representations of mathematical ideas is associated with increased student math achievement](more-representations-mathematical-ideas-higher-achievement.md) — related

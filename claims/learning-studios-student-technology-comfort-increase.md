@@ -42,6 +42,9 @@ Exploratory pilot-year research in the Learning Studios using pre/post/follow-up
 ## Discussion
 
 
+## Learner Variables
+- [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Learning Studio participation was associated with stronger maker/designer identity and design-related confidence](learning-studios-maker-identity-confidence-gains.md) — related
 - [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related

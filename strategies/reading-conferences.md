@@ -13,7 +13,7 @@ generated:
 # Reading Conferences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (5 quant-synthesis, 3 causal, 1 review, 1 qualitative), `q2`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 5 claims (5 for) · 13 studies (6 quant-synthesis, 4 causal, 2 review, 1 qualitative), `q2`–`q4` · 6 of 13 report an effect size
 
 ## Description
 A reading conference is a brief, structured one-on-one conversation between an instructor and a learner during independent reading time. The instructor asks targeted questions about the learner's book and thinking, models or prompts a comprehension strategy, provides immediate feedback, and records observations to plan future instruction. Conferences function simultaneously as coaching, formative assessment, and personalized practice in an authentic reading context.

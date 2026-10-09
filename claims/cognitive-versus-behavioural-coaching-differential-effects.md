@@ -61,6 +61,9 @@ Study 2 evaluated a behavioural-based coaching program with trainee accountants.
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A combined cognitive and behavioural coaching program outperformed cognitive-only and behavioural-only programs for academic performance, with gains maintained at follow-up only for the combined program.](combined-cognitive-behavioural-coaching-superior.md) — related
 - [Participation in a solution-focused cognitive-behavioural life coaching program is associated with significantly enhanced mental health, quality of life and increased goal attainment in normal adults.](sfcb-life-coaching-enhances-mental-health-goal-attainment.md) — related

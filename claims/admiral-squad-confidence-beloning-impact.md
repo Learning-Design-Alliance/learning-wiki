@@ -40,6 +40,9 @@ Qualitative case-study interview from the Admiral Squad case study: a 22-year-ol
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [A regional collective initiative (Teaching is My Favorite Color) provided teachers of color a safe space, belonging, and authentic identity expression](teaching-is-my-favorite-color-belonging-impact.md) — related

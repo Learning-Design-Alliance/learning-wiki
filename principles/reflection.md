@@ -119,11 +119,13 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - [Teacher-coaches should create an environment of trust and build a reflection context unique to each learning situation](trust-environment-context-for-reflection.md)
 
 ## Examples
+
 - Post-task reflection that identifies one strong move, one weak move, and one next adjustment.
 - [Humanizing Co-Design with Educators](../processes/humanizing-co-design-with-educators.md) — uses a structured field-note reflection protocol to turn educators' own classroom experience into design input
 - [Schon's design-studio practicum as a reflective learning environment](../elements/schon-design-studio-practicum.md)
 - Post-practicum debriefs that identify one concrete change for the next round.
 - [Reflective Journaling](../strategies/reflective-journals.md)
+- [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.

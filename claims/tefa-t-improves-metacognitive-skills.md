@@ -61,6 +61,9 @@ Per-indicator comparison plotted in Figure 4 (evaluation, monitoring, planning, 
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses](tefa-t-higher-achievement-than-teacher-based.md) — related
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related

@@ -71,6 +71,9 @@ Two meta-analyses of elementary and secondary school students related achievemen
 
 **Open questions.** Whether the SRL–achievement link is stronger in online and self-paced environments (where learners bear more regulatory burden) than in face-to-face instruction remains contested; much of the evidence base predates large-scale learning analytics, and the field still lacks consensus on how best to measure regulation in situ.
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 
 - [Self Regulated Learning](../theories/self-regulated-learning.md) — the underlying theory of goal-setting, monitoring, and strategy adaptation

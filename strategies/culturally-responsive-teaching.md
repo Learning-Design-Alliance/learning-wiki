@@ -13,7 +13,7 @@ generated:
 # Culturally Responsive Teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 11 studies (6 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size
+> **Evidence** · 5 claims (5 for) · 13 studies (8 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size
 
 ## Description
 Culturally responsive teaching (CRT) engages students in the learning process, both cognitively and emotionally, through an understanding of how their identity and perspective are shaped by their culture and community experiences. It encompasses race, language, gender, and ability, and uses this knowledge to promote equity, reduce bias, and foster a sense of belonging for each student. In practice, instructors learn about students' cultural frameworks, examine their own implicit bias, and design learning experiences that connect new content to students' existing knowledge and communities.
@@ -86,6 +86,7 @@ CRT treats students' cultural knowledge as an instructional asset rather than a 
 - [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — connects student work to real community stakeholders, reinforcing relevance
 - [Design credit-recovery interventions to address broader academic deficits and engagement, not only algebra content](credit-recovery-address-broader-deficits-and-engagement.md)
+- [Supports teachers need to enact formative assessment for English learners](teacher-supports-formative-assessment-el.md)
 
 ## Examples
 - **Funds of Knowledge projects** (Moll et al., University of Arizona) — teachers conduct household visits to map students' community knowledge and design instruction around it.

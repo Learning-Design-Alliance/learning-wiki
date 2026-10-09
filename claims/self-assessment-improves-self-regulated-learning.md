@@ -59,6 +59,9 @@ Four random-effects meta-analyses (Hedges & Olkin method) pooled 19 experimental
 
 **Open questions.** Of the works cited in this merged paragraph, only Panadero's group is recorded under Evidence (as the 2017 meta-analyses); Zimmerman (2002), Andrade (2010), Andrade & Valtcheva (2009) and Panadero & Alonso-Tapia (2013) are not, so the bracketed tags above rest on no entry on this page. <!-- deprecated (2026-10-05, stale: an entry had been added): Most of the literature base for this claim still needs to be added (see Evidence). --> Key moderators to document include learner age and domain expertise, whether criteria are co-constructed with learners, and whether effects on self-regulation transfer beyond the assessed task.
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — formative use of assessment information is the broader practice within which self-assessment sits.

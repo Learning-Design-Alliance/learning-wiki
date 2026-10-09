@@ -42,6 +42,9 @@ The white paper reports, citing Evans and Schamberg's 2009 study linking neuroco
 ## Discussion
 
 
+## Learner Variables
+- [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
 - [Interventions with high schoolers and young adults show strong consistent improvement in cognitive regulation and small but significant improvements in health, mental health, and delinquency](sr-interventions-improve-cognitive-regulation-young-adults.md) — related

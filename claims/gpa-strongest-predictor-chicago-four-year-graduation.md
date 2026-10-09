@@ -47,3 +47,4 @@ An analysis of Chicago graduates from the classes of 1998 and 1999 designed to d
 - [Among students with the same ACT scores (21-23), college graduation rates are 77 percent for those with a high school GPA of 3.5 or higher versus 40 percent for those with a GPA of 2.0-2.4](gpa-outpredicts-act-college-graduation.md) — related
 - [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce high-school variance](act-adds-little-beyond-hsgpa-graduation.md) — related
 - [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
+- [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — a broader claim this one bears on

@@ -73,6 +73,9 @@ Key moderators to document when evidence is added:
 
 The evidence recorded above comes from single-case designs with students with or at risk for disabilities; its effects are reported as overlap and response-ratio statistics rather than standardized effect sizes, and randomized group designs are not yet recorded here. Designers should treat self-monitoring as a low-cost, plausibly effective behavior-management tool rather than a validated learning outcome intervention: the claim concerns on-task behavior, not achievement, and the two may diverge if the monitored behavior is not the bottleneck for learning.
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Self-regulated learning](../theories/self-regulated-learning.md) — self-monitoring is one component of the broader self-regulation cycle of planning, monitoring, and evaluating.

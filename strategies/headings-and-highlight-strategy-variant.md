@@ -13,7 +13,7 @@ generated:
 # "Headings and Highlight" Strategy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 10 studies (4 review, 2 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 10 report an effect size · 2 claims rest on one study
 
 ## Description
 The "Headings and Highlight" Strategy is a collaborative reading technique for digital texts (typically Google Docs) designed to slow reading down and generate dialogue about content. Students first highlight unfamiliar vocabulary, then read paragraphs in pairs, highlighting key ideas and composing a four-word heading for each section. Pairs compare headings with other pairs, justify their choices using text evidence, and consolidate headings as a group — often ending with a class vote or presentation and an individual reflection connecting the headings to the unit's driving question.

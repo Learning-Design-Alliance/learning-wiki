@@ -42,6 +42,7 @@ The guide's first actionable recommendation directs leaders to disaggregate data
 - [Disaggregate attainment data by student subgroup to locate barriers and target supports](disaggregate-attainment-data-by-subgroup.md)
 - [Frame subgroup score discussions around subgroup overlap and access to opportunity](frame-score-differences-around-overlap-and-opportunity.md)
 - [Districts should share sufficient subgroup data with assessment providers to enable multi-subgroup disaggregation](share-subgroup-data-for-disaggregated-reports.md)
+- [Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports](intersectional-screening-data-analysis-strategy.md)
 
 ## Examples
 -

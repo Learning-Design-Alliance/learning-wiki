@@ -14,6 +14,7 @@ generated:
 # Post-secondary Attainment Index (PAI)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The University of Chicago Consortium on School Research's Post-secondary Attainment Index is a district-level indicator combining high-school graduation, college enrollment, and college-completion rates to estimate post-secondary attainment for CPS students.

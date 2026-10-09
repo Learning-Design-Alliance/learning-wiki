@@ -43,3 +43,4 @@ Multilevel random-effects meta-analysis with robust variance estimation of 32 st
 ## Related Claims
 - [Interventions are more effective for general suspensions and in-school exclusion than for severe sanctions such as permanent exclusion and out-of-school suspension](exclusion-type-moderates-intervention-effect.md) — a narrower finding that bears on this claim
 - [The 2018 review reported a larger pooled effect (SMD = 0.30) that was not sustained at longer-term follow-up](prior-review-larger-unsustained-effect.md) — related
+- [Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related

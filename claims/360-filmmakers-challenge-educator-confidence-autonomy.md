@@ -42,6 +42,9 @@ Educator survey documentation, though educator outcomes were not a primary focus
 ## Discussion
 
 
+## Learner Variables
+- [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Supportive competence grew continuously through Workshop 4 while basic observation ability remained stable across sequential AV workshops](support-growth-observation-stable-longitudinal.md) — related

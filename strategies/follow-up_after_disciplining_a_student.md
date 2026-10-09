@@ -56,8 +56,10 @@ Discipline is most effective when embedded in a relationship the learner perceiv
 5. Pair follow-up with continued instructional support — [Provide Feedback](../elements/provide-feedback.md) on academic work, not just behavior — so the relationship is not solely about discipline.
 
 ## Related Strategies
+
 - [5-minute_writing_conferences](5-minute_writing_conferences.md) — a structured, brief one-on-one format well suited to post-disciplinary check-ins
 - [Relationship-building through brief empathic messages](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) — the classroom-level intervention this strategy implements at the individual level
+- [Use trauma-informed behavioral supports before escalating to suspension, supported by willful-defiance suspension bans](trauma-informed-discipline-foster-care.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the conversational vehicle for the follow-up

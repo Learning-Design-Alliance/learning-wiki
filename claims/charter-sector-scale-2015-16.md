@@ -45,3 +45,4 @@ The paper's background section reports sector scale: "more than 6,800 charter sc
 ## Related Claims
 - [The charter-school sector has grown to nearly 7,000 schools serving nearly 3 million students since 1992](charter-sector-growth-nearly-7000-schools.md) — possibly the same claim (merge candidate)
 - [The U.S. charter school sector has grown to more than 7,000 schools nationwide, prompting an active debate over charters' effects on the public school system and their regulation](charter-sector-growth-over-7000-schools-debate.md) — related
+- [One-size-fits-all school systems under-serve nearly all of their students](one-size-fits-all-underserves-students.md) — related

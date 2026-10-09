@@ -40,6 +40,9 @@ Multisite randomized replication trial rated Meets WWC Group Design Standards Wi
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In a cluster randomized trial, CW-FIT classes showed a lower percentage of time displaying disruptive behaviors than comparison classes over six months](cw-fit-reduces-disruptive-behaviors-wills-2016.md) — related
 - [CW-FIT has positive effects on student behavior, with strong WWC evidence across six studies in kindergarten through grade 10](cw-fit-positive-effects-student-behavior.md) — a broader claim this one bears on

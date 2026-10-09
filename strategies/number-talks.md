@@ -13,7 +13,7 @@ generated:
 # Number Talks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 A Number Talk is a 10–15 minute routine in which the teacher poses a computation problem — typically one with multiple solution paths — and students solve it mentally, then share and defend their strategies while the teacher records each method on the board. The goal is not the answer but the reasoning: students compare strategies, evaluate efficiency, and build number sense through structured [class discussion](../elements/class-discussion.md). The teacher acts as facilitator and scribe, not evaluator, using questioning to elicit and connect student thinking.

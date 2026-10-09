@@ -52,3 +52,4 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [A majority of surveyed students want institutional training on professional and ethical AI tool use](students-want-ai-training-survey.md) — related
 - [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md) — related
 - [Access and resource disparities in AI usage widen divides among postsecondary students](student-ai-access-disparities.md) — related
+- [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related

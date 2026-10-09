@@ -44,3 +44,4 @@ A stated implementation plan from the guide's introduction, not an evaluated out
 
 ## Related Claims
 - [The guide assigns school districts three purposes for self-monitoring: reviewing for compliance, taking corrective action, and identifying assistance needs](jtpa-self-monitoring-purposes.md) — related
+- [POG development approaches vary across states, with about a dozen state education agencies leading standardized statewide frameworks and other states leaving development to individual districts](pog-development-approaches-vary-state-versus-district.md) — related

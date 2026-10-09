@@ -12,7 +12,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 7 studies (4 causal, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 2 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 15 claims (12 for, 1 mixed, 2 against) · 17 studies (4 causal, 4 review, 4 associational, 2 qualitative, 2 design, 1 quant-synthesis), `q1`–`q4` · 3 of 17 report an effect size · 13 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -37,6 +37,17 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Multimedia principle improves learning](../claims/multimedia-principle-improves-learning.md) [+M] — words plus pictures reduce reliance on interface text alone
 - [Redundancy hurts multimedia learning](../claims/redundancy-effect-impairs-learning.md) [-M] — duplicating on-screen text and narration adds load rather than support
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](../claims/checklist-evaluation-ineffective-online.md) [-M] — a caution: teaching a checklist is not the same as building the competence
+- [A majority of YOUmedia participants report improved digital media skills due to the program](../claims/youmedia-majority-report-improved-digital-media-skills.md) [+W] — instruction changes it
+- [Creating computational literature develops computational literacy even when code modification is minor](../claims/creating-computational-literature-develops-computational-literacy.md) [+W] — instruction changes it
+- [Digital skill gaps are large and racialized among U.S. earners, and digital skill level correlates with earnings](../claims/digital-skill-gaps-earners-nsc.md) [+W] — learners who differ on it differ in outcomes
+- [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M] — learners who differ on it differ in outcomes
+- [Educators grew more confident supporting student autonomy and leading media production through the program](../claims/360-filmmakers-challenge-educator-confidence-autonomy.md) [+W] — instruction changes it
+- [Learning Studio participation increased students' comfort with, and skills around, the Studio technologies](../claims/learning-studios-student-technology-comfort-increase.md) [+W] — instruction changes it
+- [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](../claims/vils-coach-time-associated-better-teaching-outcomes.md) [+M] — instruction changes it
+- [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](../claims/coding-experience-correlates-ct-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](../claims/early-exposure-enhances-ai-self-efficacy.md) [+W] — instruction changes it
+- [Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open](../claims/dlp-multiple-cycles-greater-progress.md) [~M] — instruction changes it
+- [The MIT DAILy curriculum significantly improved middle and early high school learners' AI literacy compared to control groups](../claims/daily-curriculum-improves-ai-literacy.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Access — whether they can load it, as against whether they can drive it.

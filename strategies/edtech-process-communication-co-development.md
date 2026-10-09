@@ -45,6 +45,7 @@ The report recommends creating space to bring school leaders into the iterative 
 - [Co-develop the toolkit with districts and refine it iteratively across cohorts](iterative-co-development-toolkit-strategy.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [Build state AI evaluation on the ESSA evidence framework and integrate results into the existing education evidence base](essa-based-ai-evidence-integration.md)
+- [Design a service-oriented resource allocation review using continuous improvement and design thinking, engaging LEAs and schools in design, pilot, and test phases before rollout.](service-oriented-rar-design-process.md)
 
 ## Examples
 -

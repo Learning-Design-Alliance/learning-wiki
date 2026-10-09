@@ -46,3 +46,4 @@ Descriptive analysis of CPS administrative attendance records for the population
 - [Official absence rates in CPS increased during the remote/hybrid year, rose further in 2021-22, and remained 3-6 percentage points above 2018-19 levels in 2022-23](cps-absence-rates-rose-through-pandemic.md) — related
 - [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related
 - [Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal](grades-rose-tests-attendance-fell.md) — related
+- [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related

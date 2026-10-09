@@ -42,6 +42,9 @@ In a 2 x 2 x 2 factorial experiment with college students solving simultaneous e
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
 - [Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load](prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) — related

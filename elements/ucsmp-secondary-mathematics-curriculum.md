@@ -17,7 +17,7 @@ sources:
 # UCSMP secondary mathematics curriculum
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 2 studies (2 causal), `q2` · 1 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 3 studies (3 causal), `q2` · 2 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 UCSMP is a core secondary mathematics curriculum developed by the University of Chicago, covering Algebra, Geometry, Advanced Algebra, Functions Statistics and Trigonometry, and Precalculus and Discrete Mathematics. It was "designed to support student development of deeper conceptual mathematical understanding" and "focuses on bringing the real world into the classroom by emphasizing reading, problem solving, everyday applications, and the use of calculators, computers, and other technologies". Each course includes a student textbook, teacher's edition, teacher resources, assessment resources, and technology resources, with lessons containing activities, full examples, and partially completed guided examples.

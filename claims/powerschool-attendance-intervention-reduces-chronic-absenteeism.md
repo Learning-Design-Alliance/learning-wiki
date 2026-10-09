@@ -42,6 +42,9 @@ A randomized control trial in 3 DC public schools randomly assigned 31 teachers 
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Mailing parents personalized Absence Reports significantly reduces student absences among at-risk students (ES=+0.19) in an urban randomized evaluation](absence-reports-reduce-absences-philadelphia-rct.md) — related
 - [The PowerSchool Attendance Intervention did not significantly increase in-seat attendance in a randomized control trial](powerschool-attendance-intervention-in-seat-attendance-null.md) — related

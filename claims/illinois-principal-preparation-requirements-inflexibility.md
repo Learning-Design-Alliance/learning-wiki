@@ -49,3 +49,4 @@ Challenge identified in the I-PREP statewide scan. The combination of multiple r
 - [Program representatives and statewide stakeholders were largely positive about the goals of Illinois' redesigned principal preparation policy](illinois-principal-preparation-stakeholders-positive-policy-goals.md) — related
 - [Teachers and principals report district inflexibility and insufficient support for teacher-led, shared-decision-making leadership in small-school reform](chsri-district-inflexibility-teacher-led-reform.md) — related
 - [A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline](sinclair-consortium-competency-based-it-programs-baseline.md) — related
+- [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related

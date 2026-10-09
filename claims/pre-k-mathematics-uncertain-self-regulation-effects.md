@@ -40,6 +40,10 @@ WWC synthesis of one study (DeFlorio et al., 2019) with 231–234 children acros
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Pre-K Mathematics shows uncertain effects on preschool language outcomes](pre-k-mathematics-uncertain-language-effects.md) — related
 - [Pre-K Mathematics shows uncertain effects on reading and literacy related outcomes](pre-k-mathematics-uncertain-reading-literacy-effects.md) — related

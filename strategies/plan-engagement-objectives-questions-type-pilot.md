@@ -46,6 +46,7 @@ Phase 1 prescribes four steps: 'Define engagement objectives', develop questions
 - [Dissemination planning and accurate, accessible data visualization](dissemination-plan-and-visualization-tips.md)
 - [Record sessions with consent, data-protection communication, disclosure norms, and detailed notetaking](recording-consent-and-data-protection-tips.md)
 - [Notetaking practices: verbatim statements, contextual notes, and 24-hour review](structured-notetaking-verbatim-context-review.md)
+- [Conduct a family engagement needs assessment as the first step in planning](family-engagement-needs-assessment-first-step.md)
 
 ## Examples
 -

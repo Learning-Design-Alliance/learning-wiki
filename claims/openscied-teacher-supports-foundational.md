@@ -50,3 +50,4 @@ Synthesis of the focus-group needs maps (Figures 2–4) across 28 interviewed pr
 - [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) — a narrower finding that bears on this claim
 - [Teachers are able to support rich and participatory science discussions during OpenSciEd enactment, per detailed case studies of experienced teachers](openscied-rich-participatory-discussions.md) — related
 - [Most field-test teachers report curriculum-based professional learning prepared them for distinctive OpenSciEd pedagogy, with mixed results on standards beliefs](pd-prepares-storyline-pedagogy-implementation.md) — related
+- [District leaders report that building a shared instructional vision before curriculum adoption lays the foundation for successful IM implementation](shared-vision-before-hqim-adoption-foundation.md) — related

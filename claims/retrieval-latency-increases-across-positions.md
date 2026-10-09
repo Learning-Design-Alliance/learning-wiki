@@ -48,3 +48,4 @@ Controlled experiment with 66 introductory psychology students retrieving six ex
 - [Retrieval errors increase across successive positions, showing both a significant linear and a significant quadratic trend](retrieval-errors-increase-across-positions.md) — related
 - [Lower-frequency preceding retrievals slow subsequent retrievals: a significant prior-frequency effect on latency, but not on errors](prior-frequency-slows-subsequent-retrieval.md) — related
 - [Error increase across positions is more immediate for low- than high-frequency items, but the position × frequency interaction on errors falls short of significance](error-interaction-not-significant.md) — related
+- [Engagement peaked at the middle of the Mindsets program and declined slightly by post-test, showing a significant negative quadratic trend](mindsets-engagement-peaks-midpoint.md) — related

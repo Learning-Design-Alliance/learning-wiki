@@ -42,6 +42,9 @@ SEM results for the SDT model (n = 511) show standardized path coefficients to i
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Intended learning effort predicts L2 proficiency with a modest standardized coefficient of .20 in all three models](effort-predicts-proficiency-modestly.md) — related
 - [In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues](l2-learning-experience-beats-ideal-l2-self.md) — related

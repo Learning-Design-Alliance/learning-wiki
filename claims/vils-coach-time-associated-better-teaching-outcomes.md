@@ -40,6 +40,9 @@ Digital Promise researchers' analysis of three surveys administered across the 2
 ## Discussion
 
 
+## Learner Variables
+- [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Learning Studio participation increased students' comfort with, and skills around, the Studio technologies](learning-studios-student-technology-comfort-increase.md) — related
 - [Teacher confidence in teaching literacy and English learner students increased over the pilot year, especially with a local coach](wts-teacher-confidence-increased-over-year.md) — related

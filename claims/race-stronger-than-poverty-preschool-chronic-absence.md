@@ -46,3 +46,4 @@ Observational analysis of 2011-12 attendance records for 24,854 three- and four-
 - [Health is the most commonly reported reason preschool students miss school, with logistical obstacles second, and reasons differ by race/ethnicity](illness-and-logistics-reasons-preschool-absences.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — a broader claim this one bears on
 - [Pre-kindergarten absence is widespread in a large urban district, particularly among African American students and those entering with the lowest skills](prek-absence-widespread-african-american-lowest-skills.md) — related
+- [Historical legacy of boarding schools and biased attendance responses deepen generational distrust that undermines attendance partnerships with AI/AN families](boarding-school-legacy-distrust-undermines-attendance-efforts.md) — related

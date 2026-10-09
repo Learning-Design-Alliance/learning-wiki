@@ -42,6 +42,9 @@ Theoretical exposition of the Affective Filter Hypothesis in the article's summa
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities](wtc-variables-positively-correlated-overall-wtc.md) — related

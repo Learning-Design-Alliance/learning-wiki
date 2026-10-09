@@ -51,3 +51,4 @@ The study used administrative records and 5Essentials Survey measures of socioem
 - [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](self-efficacy-associated-graduation-and-math.md) — related
 - [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related
 - [Social-emotional value-added measures are nearly as predictive of a high school's impact on test scores as test-score value-added](sel-value-added-predictive-of-test-score-impact.md) — a narrower finding that bears on this claim
+- [Timing of English learner reclassification influences later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — related

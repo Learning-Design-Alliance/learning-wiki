@@ -13,7 +13,7 @@ generated:
 # Critique Protocol
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 6 claims (5 for, 1 against) · 15 studies (7 causal, 5 quant-synthesis, 2 review, 1 qualitative), `q2`–`q4` · 5 of 15 report an effect size · 1 claim rests on one study
 
 ## Description
 A critique protocol is a fixed structure — often with prescribed sentence stems, turn-taking rules, and norms — that governs how learners present work and how peers respond to it. Well-known variants include Ron Berger's "kind, specific, helpful" norms and the "I like / I wonder / I suggest" ladder. The protocol's purpose is to convert the social risk of public feedback into a reliable routine: critique targets the *work*, not the *maker*, and produces concrete revision steps rather than general praise or vague reactions.

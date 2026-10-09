@@ -22,7 +22,7 @@ sources:
 # Networks for School Improvement (NSI) initiative
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (3 for, 2 mixed, 2 against) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (7 for, 2 mixed, 4 against) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 13 claims rest on one study
 
 ## Description
 The Networks for School Improvement (NSI) initiative is a Gates Foundation program that "support[s] networks of schools in using continuous improvement (CI) to improve outcomes for students who are Black, Latino, or experiencing poverty." The foundation sponsored an evaluation covering network formation, schools' use of CI, and impacts on student outcomes, comparing NSI schools to similar non-participating schools. This report covers impacts after schools' second year of participation, for 8th-grade on-track, 9th-grade on-track, and well-matched postsecondary enrollment NSI models.

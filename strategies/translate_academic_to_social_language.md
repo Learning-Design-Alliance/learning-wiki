@@ -56,8 +56,10 @@ Translation moves academic language from an implicit expectation to an observabl
 5. Fade the modeling — shift from teacher translation to student-initiated translation attempts with feedback ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Accessible Syntax](accessible_syntax.md) — the syntax-side complement: simplifying sentence structures so academic content remains comprehensible
 - [Activate Background Knowledge](activate_background_knowledge.md) — informal language often surfaces students' prior knowledge that academic re-voicing then names
+- [Scaffold mathematical discussion with paraphrasing, restating, formulaic expressions, elaborating questions, and key vocabulary in context](discussion-scaffolds-paraphrase-formulaic-expressions.md)
 
 ## Examples
 - **Re-voicing in math discourse (O'Connor & Michaels' work on "revoicing")** — a student says "it goes up faster," and the teacher restates it as "the rate of change is greater," then asks the class to evaluate the restatement.

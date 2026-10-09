@@ -37,7 +37,8 @@ The report's closing recommendation urges policymakers to weigh how reclassifica
 - Equitable access to mainstream, English-only classes and to core content and advanced courses
 
 ## Related Strategies
-- 
+
+- [Integrate post-reclassification monitoring and support so students who exit EL status continue receiving integrated support in the general curriculum](post-reclassification-monitoring-support.md)
 
 ## Examples
 -

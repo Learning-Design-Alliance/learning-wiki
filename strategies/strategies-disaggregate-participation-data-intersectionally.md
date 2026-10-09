@@ -41,6 +41,7 @@ This strategy operationalizes EQUIP data for equity analysis: record low-inferen
 - [Empowering Teachers with EQUIP](empowering_teachers_with_equip.md)
 - [Equitable Classroom Observations](equitable_classroom_observations.md)
 - [Equity Audits](equity-audits.md)
+- [Examine literacy screening data for intersectional differences not apparent from simple disaggregation and consider student and school characteristics together when targeting supports](intersectional-screening-data-analysis-strategy.md)
 
 ## Examples
 -

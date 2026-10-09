@@ -61,5 +61,8 @@ Dosage analysis within the same two RCTs comparing students who completed both p
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related

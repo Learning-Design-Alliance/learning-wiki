@@ -58,8 +58,10 @@ Language demands in PBL are high because projects require students to read, disc
 6. Adjust scaffolds responsively — fading supports as proficiency is demonstrated [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — surfacing students' full linguistic repertoire (including home languages) as a foundation for new academic language
 - [Accessible Syntax](accessible_syntax.md) — the text-level adaptation that makes differentiated materials assessable at controlled language complexity
+- [Gather formative evidence through embedded, discipline-specific tasks rather than separate tests or language assessments](embedded-evidence-gathering-without-separate-tests.md)
 
 ## Related Elements
 - [Formative Assessment](../elements/formative-assessment.md) — the ongoing evidence-gathering engine of the strategy

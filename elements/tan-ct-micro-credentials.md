@@ -47,7 +47,8 @@ The TAN project pairs its CT Booster sessions with micro-credentials that teache
 - [Digital Promise micro-credential ecosystem on the BloomBoard platform](digital-promise-bloomboard-micro-credential-ecosystem.md)
 
 ## Examples
--
+
+- [Expand micro-credential systems into seven future content areas](../strategies/micro-credential-future-expansion-areas.md)
 
 ## Key Sources
 - Iwatani, E., Tackett, T., Ruiz, P., & Burke, Q. (2021). Delivering Virtual K-8 Computing Professional Development in Rural KY. Digital Promise / Bit Source. https://bit.ly/36szXLy

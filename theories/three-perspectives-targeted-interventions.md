@@ -20,7 +20,7 @@ sources:
 # Three theoretical perspectives characterising targeted academic interventions: social learning, cognitive developmental, and pedagogical theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The review organises the theoretical background of included interventions into three superordinate components: adaptation of behaviour (social learning theory), individual cognitive learning (cognitive developmental theory), and alteration of the social learning environment (pedagogical theory). It states that "it is therefore not possible to specify one particular theory of change or one theoretical framework for this review" and that the perspectives "contain some conceptual overlap". Many interventions, such as tutoring and peer-assisted instruction, combine all three perspectives.

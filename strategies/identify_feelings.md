@@ -13,7 +13,7 @@ generated:
 # Identify Feelings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 1 review, 1 theoretical), `q3` · 2 of 4 report an effect size
 
 ## Description
 Identify Feelings is a strategy in which students recognize, name, or match emotional states — typically from facial expressions, body language, tone, or situational cues — and label them with accurate vocabulary. It is carried out through activities such as emotion-card matching, feelings check-ins, analyzing characters' emotions in stories, or photographing and categorizing expressions. The core move is converting an internal or observed affective state into a precise verbal label.

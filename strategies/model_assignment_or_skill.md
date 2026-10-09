@@ -30,7 +30,7 @@ sources:
 # Model Assignment or Skill
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (2 causal, 1 review, 1 theoretical), `q3` · 0 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 13 studies (6 causal, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q4` · 1 of 13 report an effect size · 2 claims rest on one study
 
 ## Description
 Modeling a skill or assignment means the instructor (or a recorded expert) works through the task while verbalizing their thought processes — what they are doing, why, and how they monitor their own understanding. This makes normally invisible expert strategies observable and imitable, so learners become aware of the strategies available for mastering the skill and of how to self-monitor during execution.

@@ -13,6 +13,7 @@ generated:
 # SEAD integration framework (the three-legged stool)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A guide-based framework for integrating explicit social-emotional skill instruction, embedded academic practice, and relationship-rich environments into K–12 school improvement.

@@ -13,7 +13,7 @@ generated:
 # Graphic Organizers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 13 studies (5 causal, 4 quant-synthesis, 4 review), `q2`–`q4` · 4 of 13 report an effect size
+> **Evidence** · 9 claims (5 for, 2 mixed, 2 against) · 24 studies (10 causal, 7 quant-synthesis, 5 review, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 1 claim rests on one study
 
 ## Description
 A graphic organizer is a visual-spatial representation of content — concept maps, matrices, flowcharts, hierarchies, Venn diagrams — that externalizes the relationships among ideas in a topic. The instructor may provide a completed organizer, a partially completed one for learners to fill in, or only the frame, with learners constructing the content themselves. Because the display makes relational structure visible, it complements linear text or lecture rather than merely decorating it.

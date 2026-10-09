@@ -47,3 +47,4 @@ Observational analysis of how pandemic-era attrition changes varied with staff c
 - [Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed](pa-attrition-racial-gaps-grew-except-administrators.md) — related
 - [Remote learning was not associated with increased attrition among Pennsylvania elementary school teachers](remote-learning-not-associated-elementary-teacher-attrition.md) — related
 - [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — related
+- [LEA Design Teams came to believe that focusing first on teacher-of-color retention builds conditions that later support recruitment](retention-first-pays-recruitment-dividends.md) — related

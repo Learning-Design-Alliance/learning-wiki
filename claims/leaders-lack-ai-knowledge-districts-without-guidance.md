@@ -47,3 +47,4 @@ The brief cites a recent survey of superintendents, reporting that "92% of super
 - [Generative AI adoption among learners and workers is outpacing institutional policy readiness, creating a gap between behavior and policy](ai-adoption-outpaces-institutional-policy-readiness.md) — a broader claim this one bears on
 - [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — related
 - [State-led AI evaluation is critical because robust national evaluation research is lacking and local leaders weigh state and local results more heavily](state-led-ai-evaluation-critical-gap.md) — related
+- [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related

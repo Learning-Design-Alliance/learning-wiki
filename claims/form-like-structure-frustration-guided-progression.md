@@ -42,6 +42,9 @@ Think-aloud task evaluation with five new university participants creating an in
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
 - [The authors report five twenty-minute screenshare sessions can surface more actionable design insights than a 100-person survey](five-screenshare-sessions-beat-large-survey.md) — related

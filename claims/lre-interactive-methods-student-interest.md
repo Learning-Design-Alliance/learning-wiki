@@ -42,6 +42,9 @@ The digest reports educators' observations, citing Hunter (1987), that students 
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — related
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related

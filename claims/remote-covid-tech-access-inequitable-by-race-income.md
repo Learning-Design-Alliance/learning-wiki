@@ -47,3 +47,4 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — possibly the same claim (merge candidate)
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students](major-challenges-more-prevalent-women-minoritized-low-income.md) — related
+- [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — related

@@ -16,6 +16,7 @@ sources:
 # Equitized syllabus with five equity characteristics
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The report describes equitizing the course syllabus as a concrete equity mechanism taught in an ATD workshop and adopted by partner colleges. The equitized syllabus incorporates five characteristics: "Welcoming—Indicating that every student belongs in the class"; Representing Diversity through non-white and non-Western content, authors, or perspectives; Demystifying by communicating clearly about course expectations; Destigmatizing Support Services by describing them as useful for everybody; and Creating Partnership by portraying instructor and student as partnering for learning. BMCC standardized these syllabi across sections via a shared template.

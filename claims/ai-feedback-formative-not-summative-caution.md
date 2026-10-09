@@ -48,3 +48,4 @@ Coach observation reported in the formative data literacy findings. Coaches also
 - [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
 - [In a landscape scan survey, 12 of 13 coaches agreed or strongly agreed that AI ELA products can help personalize learning](survey-coaches-ai-personalization-benefit.md) — related
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
+- [Some AI classroom systems can be cheated by students, such as simplistic Autograder models using keyword searches](ai-classroom-tools-can-be-cheated-keyword-autograders.md) — related

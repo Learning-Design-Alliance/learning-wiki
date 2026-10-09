@@ -42,6 +42,9 @@ The essay's 'Learning Motivation' section reports, citing Deci, Koestner & Ryan 
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — a narrower finding that bears on this claim
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related

@@ -60,9 +60,11 @@ Peer assessment operationalizes [Assessment for Learning](../principles/assessme
 5. Close the loop: have authors revise based on feedback and optionally self-assess against the same rubric; instructor spot-checks a sample of reviews and grades.
 
 ## Related Strategies
+
 - Self-Assessment — the natural complement; reviewing peers calibrates judgment of one's own work
 - Rubric-Based Feedback — supplies the criteria structure peer assessment requires
 - Two-Stage Peer Review — adds a revision-and-re-review cycle for formative depth
+- [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
 
 ## Examples
 - **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu) — a web system where students first evaluate calibration samples against expert judgments, then review peers' writing in STEM courses.

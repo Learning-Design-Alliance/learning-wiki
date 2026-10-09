@@ -13,7 +13,7 @@ generated:
 # Maximize Transfer and Generalization
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 16 studies (7 quant-synthesis, 6 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 16 report an effect size
+> **Evidence** · 7 claims (7 for) · 17 studies (7 causal, 7 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 5 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 Transfer is the application of knowledge or skills learned in one context to a new context; generalization is the abstraction of a principle from specific instances so it applies across cases. This strategy designs for both: instruction presents concepts in multiple varied contexts, requires application to novel problems, and prompts learners to abstract the underlying principles that connect cases. Near transfer (to similar problems) is far easier to achieve than far transfer (to dissimilar domains), and instruction must be deliberately engineered for the latter — it rarely emerges from single-context practice alone.

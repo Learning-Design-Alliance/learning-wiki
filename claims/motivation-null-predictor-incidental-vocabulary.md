@@ -42,6 +42,9 @@ In the multiple linear regression (N = 129), motivation measured by the MIVLS (s
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading](incidental-vocabulary-anxiety-positive-predictor.md) — related
 - [L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition](learner-factors-model-18-percent-variance.md) — a broader claim this one bears on

@@ -68,3 +68,4 @@ Theoretical argument summarising the utility value section, with no data: when A
 - [Teachers who find using AI enjoyable, engaging and satisfying (intrinsic/interest value) may be more motivated to use it (theoretical argument).](teacher-intrinsic-interest-value-increases-motivation-to-use-ai.md) — related
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
+- [Educators moved from awareness to interest in integrating the studio's technology into their coursework](educators-awareness-to-interest-technology-integration.md) — a narrower finding that bears on this claim

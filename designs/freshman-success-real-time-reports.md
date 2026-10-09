@@ -17,6 +17,7 @@ sources:
 # Freshman Success real-time reports for monitoring and supporting ninth graders
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Freshman Success reports are real-time practical data reports used by school staff throughout the freshman year. The article describes them as used "to monitor and support ninth grade students throughout their freshman year so they end up on track at the end of the year", complementing the end-of-year indicator with in-year actionable data.

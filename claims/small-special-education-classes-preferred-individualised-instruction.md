@@ -42,5 +42,8 @@ Descriptive synthesis of the review's included qualitative studies (from the US,
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences](sgd-preference-over-pe-and-manual-signs.md) — related

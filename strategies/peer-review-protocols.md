@@ -63,9 +63,11 @@ Peer review works through two channels: learners receive feedback from multiple 
 7. Assess review quality, not just the reviewed product — rewarding useful feedback sustains reviewer effort
 
 ## Related Strategies
+
 - [Rubric-Based Self-Assessment](../strategies/rubric-based-self-assessment.md) — the solo counterpart; peer review builds the evaluative judgment self-assessment requires
 - [Two-Stage Exams](../strategies/two-stage-exams.md) — peer discussion as immediate feedback on reasoning
 - [Writing Conferences](../strategies/5-minute_writing_conferences.md) — instructor-led alternative when reviewer expertise is too low
+- [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
 
 ## Examples
 - **Calibrated Peer Review (UCLA)** — discipline-agnostic web system where students calibrate on exemplars before reviewing peers; widely used in chemistry and writing courses.

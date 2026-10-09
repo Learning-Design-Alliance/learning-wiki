@@ -42,6 +42,9 @@ WWC synthesis across 5 studies meeting standards (20,716 students) using five co
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)](reading-apprenticeship-no-vocabulary-effect.md) — related
 - [Reading Apprenticeship® shows uncertain effects on life sciences achievement in one study](reading-apprenticeship-uncertain-life-sciences.md) — related

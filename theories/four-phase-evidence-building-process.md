@@ -56,6 +56,7 @@ The checklist organizes evidence building into four sequential phases: Design th
 - [Conduct a large pilot study to validate effectiveness with high confidence](../strategies/large-pilot-study-validation-strategy.md)
 - [Refine a solution based on lessons learned during implementation](../strategies/refine-solution-from-implementation-lessons.md)
 - [Conduct a small pilot study to assess early evidence of success before full validation](../strategies/small-pilot-study-for-early-evidence-of-success.md)
+- [Pilot guidance documents with a small set of schools and iterate before wide dissemination](../strategies/pilot-then-refine-guidance-dissemination.md)
 
 ## Key Sources
 - Ryan Ruggiero, Mikia Manley, Virginia Knechtel, Kate Place, Megan Shoji. (2023). Measurement and Evaluation Checklist: Design the Solution (Phase 1). Mathematica. https://www.mathematica.org/publications/measurement-and-evaluation-checklist-design-the-solution-phase-1

@@ -61,6 +61,9 @@ The review reports, citing Calafato and Clausen (2024), positive relations betwe
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](adventure-games-supplementary-material-vocabulary.md) — related
 - [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — related

@@ -42,6 +42,9 @@ The primer describes the two-part collaborative assessment format attributed to 
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related

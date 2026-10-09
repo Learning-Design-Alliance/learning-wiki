@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/rural-youth-internship-access-gap-38-vs-55.md
+---
+
+# Revision history: [claims/rural-youth-internship-access-gap-38-vs-55](../claims/rural-youth-internship-access-gap-38-vs-55.md)
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-876 (From Rural Districts to Statewide Pathways: A Blueprint for Scaling Cybersecurity Workforce Development Through Regional Collaboration) via eval_harness.py + ingest_extractions.py

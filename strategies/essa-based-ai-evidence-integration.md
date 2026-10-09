@@ -44,6 +44,7 @@ In their discussion, the authors call on state leaders to co-design guidance wit
 - [Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards](independent-audits-role-based-dashboards-ai-accountability.md)
 - [School districts adopting AI should follow a five-step roadmap: engage communities, apply and develop policies, provide professional development, create supportive learning environments, and monitor and evaluate AI use](five-step-district-ai-adoption-roadmap.md)
 - [Ensure communication and co-development with school leaders throughout edtech process rollout](edtech-process-communication-co-development.md)
+- [Provide synthesized and customized evidence tailored to the state context](customized-evidence-synthesis-for-decision-making.md)
 
 ## Examples
 -

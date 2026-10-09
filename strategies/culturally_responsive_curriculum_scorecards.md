@@ -65,6 +65,7 @@ Scorecards operationalize culturally responsive pedagogy by making its criteria 
 - [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
 - [Use a cultural liaison and adopt scholar-and-student stance when researching outside one's own culture](cultural-liaison-researching-outside-own-culture.md)
+- [Use guiding questions to diversify existing mathematics curriculum and assessments when adopting a new curriculum is not possible](guiding-questions-diversify-math-curriculum-assessments.md)
 
 ## Examples
 - **[NYU Metro Center Culturally Responsive-Sustaining Education Scorecards](https://www.nyusteinhardt.edu/metrocenter/crehub/)** — classroom-, school-, and district-level scorecards aligned to New York State's CR-SE framework, used by districts nationally for curriculum and policy evaluation.

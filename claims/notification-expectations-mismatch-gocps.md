@@ -42,6 +42,9 @@ Selecting a School section finding: students found the color-coded acceptances a
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related
 - [Confusion about the GoCPS true-preference ranking rationale was widespread among students, parents, and staff, and misinformation led some students into second-round applications](gocps-ranking-confusion-second-round.md) — related

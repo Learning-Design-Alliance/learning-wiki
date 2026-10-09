@@ -42,6 +42,9 @@ Subgroup analysis within the same cluster-randomized Rocketship study: students 
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](booknook-small-positive-map-reading-growth.md) — related
 - [Students who completed 80 or more Once sessions showed meaningfully larger literacy gains, suggesting dosage drives outcomes](once-dosage-80-sessions-larger-gains.md) — related

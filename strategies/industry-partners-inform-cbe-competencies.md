@@ -41,6 +41,7 @@ The brief reports that "Industry partners informed curriculum development, inclu
 
 - [Use external consulting and technical assistance to help colleges adapt programs to time-variant CBE models](external-consulting-ta-for-cbe-adaptation.md)
 - [Build certification-track career pathway programs through consortium colleges partnered with industry associations and universities](consortium-college-industry-university-certification-partnership.md)
+- [Build direct employer-listening channels and AI-specific advisory structures for small and mid-sized firms](employer-listening-channels-small-firms.md)
 
 ## Examples
 -

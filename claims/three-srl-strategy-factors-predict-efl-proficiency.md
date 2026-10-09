@@ -43,6 +43,9 @@ Multiple regression on MSLQ learning-strategy factors from 97 Japanese universit
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners](high-proficiency-learners-use-more-strategies.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related

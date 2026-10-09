@@ -89,3 +89,4 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [Students reported statistically significant pre-post improvements in attitudes about learning after the summer ed-tech programs](summer-edtech-attitude-gains-significant.md) — a narrower finding that bears on this claim
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — related
 - [Decades of research show SEL benefits student well-being, academic performance, attendance, graduation rates, and future success](sel-decades-of-research-benefits.md) — a broader claim this one bears on
+- [Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning](emotions-critical-to-learning-leverage-in-design.md) — related

@@ -41,6 +41,7 @@ Among the brief's implementation strategies is piloting the statewide roster ver
 - [Have staff familiar with the students and their classroom experiences approve rosters](staff-familiar-with-students-approve-rosters.md)
 - [Provide guidance to districts on implementing the statewide ToR definition](state-guidance-for-district-tor-implementation.md)
 - [Continue examining the FFL's statistical properties, especially score variation, during statewide implementation](continue-examining-ffl-score-variation-statewide.md)
+- [Design a service-oriented resource allocation review using continuous improvement and design thinking, engaging LEAs and schools in design, pilot, and test phases before rollout.](service-oriented-rar-design-process.md)
 
 ## Examples
 -

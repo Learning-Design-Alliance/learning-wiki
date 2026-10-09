@@ -61,6 +61,9 @@ Same factorial experiment, follow-up within the higher-prior-knowledge group: th
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Worked Examples Expertise Reversal](worked-examples-less-effective-with-expertise.md)
 - [Expertise Reversal Effect](expertise-reversal-effect.md)

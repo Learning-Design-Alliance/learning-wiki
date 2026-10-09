@@ -13,7 +13,7 @@ generated:
 # Belonging Interventions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies (3 causal, 1 quant-synthesis), `q3` · 0 of 4 report an effect size
 
 ## Description
 Belonging interventions address students' uncertainty about whether they fit in academically and socially — doubt that is especially acute during transitions (first year, first-generation status, underrepresented minority status). They typically combine (a) information that belonging difficulties are common and temporary ("at first almost everyone worries they don't belong; this fades with time") and (b) structured opportunities for students to articulate their own belonging experiences and connect with peers and instructors. The canonical format is a brief social-belonging session early in a course or program, sometimes followed by reinforcement activities.

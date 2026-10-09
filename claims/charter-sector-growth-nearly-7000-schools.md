@@ -47,3 +47,4 @@ The summary states the sector "has grown steadily since the first charter school
 - [About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades](online-charter-schools-200-schools-200000-students.md) — related
 - [The National Study of Online Charter Schools provides the first nationwide data and analysis of online charter schools' operations and instructional approaches, based on a survey of 127 principals](first-nationwide-online-charter-operations-survey-127-principals.md) — related
 - [The charter school sector grew to more than 6,800 schools serving nearly 3 million students across forty states and DC by 2015–16](charter-sector-scale-2015-16.md) — possibly the same claim (merge candidate)
+- [One-size-fits-all school systems under-serve nearly all of their students](one-size-fits-all-underserves-students.md) — related

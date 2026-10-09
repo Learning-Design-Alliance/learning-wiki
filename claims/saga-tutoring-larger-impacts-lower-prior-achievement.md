@@ -42,6 +42,9 @@ Subgroup analysis within the matched comparison design found "larger impacts on 
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Saga blended tutoring produced large positive impacts on algebra scores in one district and geometry scores in another, but no effects on two other standardized tests](saga-blended-tutoring-test-score-impacts-mixed.md) — related
 - [Implementation analysis identified student engagement as a challenge for technology-driven tutoring programs](saga-implementation-engagement-challenges.md) — related

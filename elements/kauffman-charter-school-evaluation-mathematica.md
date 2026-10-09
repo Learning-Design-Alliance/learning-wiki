@@ -22,7 +22,7 @@ sources:
 # Ewing Marion Kauffman Charter School Evaluation (Mathematica, 2011-2024)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies (3 causal), `q2` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 12 claims (12 for) · 5 studies (5 causal), `q2` · 0 of 5 report an effect size · 12 claims rest on one study
 
 ## Description
 The evaluation is an associated Mathematica project with the stated time frame 2011-2024, prepared for the Ewing Marion Kauffman Foundation, assessing the school's impacts on "college enrollment and high school graduation, achievement, attendance, and suspensions during its first 11 years of operation." It compares Kauffman School students with comparison students in Kansas City. This report covers years 10 and 11 of the evaluation.

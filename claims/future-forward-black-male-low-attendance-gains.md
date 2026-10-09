@@ -42,6 +42,9 @@ Intersectional subgroup analysis in the RCT. The model-adjusted attendance rate 
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](future-forward-differential-impact-subgroups.md) — related
 - [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](future-forward-improves-school-attendance.md) — a broader claim this one bears on

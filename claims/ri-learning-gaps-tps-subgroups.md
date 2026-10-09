@@ -47,3 +47,4 @@ Learning-gains tables print negative TPS standard deviation units, e.g. "Student
 - [Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS](ri-charter-gains-poverty-sped-ell.md) — related
 - [Historically underserved student groups show substantially lower shares meeting the 12th-grade reading benchmark, with gaps up to 30 percentage points](underserved-groups-lower-benchmark-shares-pol.md) — related
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
+- [Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences](consistent-hqim-use-does-not-guarantee-equitable-access.md) — related

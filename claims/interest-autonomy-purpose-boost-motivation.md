@@ -42,6 +42,9 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence](360-filmmakers-challenge-personal-meaning-motivation.md) — a narrower finding that bears on this claim
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related

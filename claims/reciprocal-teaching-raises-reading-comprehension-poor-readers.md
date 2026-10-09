@@ -42,6 +42,9 @@ Narrative review attributing the finding to Palincsar and Brown (1984); the arti
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md) — possibly the same claim (merge candidate)

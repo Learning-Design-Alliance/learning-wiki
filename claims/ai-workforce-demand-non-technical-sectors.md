@@ -46,3 +46,6 @@ The chapter's workforce-needs rationale cites secondary market data: the WEF rep
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
 - [The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines](uf-ai-framework-lacks-proficiency-levels.md) — related
 - [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md) — related
+- [Most of the 756 occupations tracked by the Anthropic Economic Index show zero observed AI usage, concentrated in hands-on physical occupations](aei-majority-occupations-zero-ai-usage.md) — related
+- [The gap between technical AI exposure and actual employer adoption is a limited opportunity window for CTE programs to shape adoption](exposure-adoption-gap-opportunity-window.md) — related
+- [Manufacturing-sector AI use sits well below the national business adoption rate](manufacturing-ai-use-below-national.md) — related

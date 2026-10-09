@@ -60,6 +60,9 @@ Domain-level WWC calculations for English language development across both studi
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In the Vaughn, Cirino, et al. (2006) trial, no reading measure reached statistical significance, but five of seven effect sizes were substantively important](enhanced-proactive-reading-cirino-substantively-important-nonsignificant.md) — related
 - [In the Vaughn, Mathes, et al. (2006) trial, Enhanced Proactive Reading students significantly outperformed comparison students on Word Attack and Passage Comprehension](enhanced-proactive-reading-significant-word-attack-passage-comprehension.md) — related

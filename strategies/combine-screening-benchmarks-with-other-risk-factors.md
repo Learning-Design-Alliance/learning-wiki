@@ -41,6 +41,8 @@ The article recommends that schools and educators not rely solely on MAP Growth 
 - [Combine formative assessment information with MAP Growth scores for instructional decisions](combine-formative-assessment-with-map-growth-scores.md)
 - [Educational leaders should weigh the demographic shift in tested students and other contextual data when planning student growth and recovery support](consider-demographic-shift-and-contextual-data-in-recovery-planning.md)
 - [Pair norm-referenced metrics with evidence of progress toward grade-level expectations in accountability decisions](pair-norm-metrics-with-grade-level-progress-evidence.md)
+- [Schools and districts should choose screener benchmarks that match their goals and resources for defining and serving at-risk students](match-screener-benchmark-choice-to-goals-resources.md)
+- [Use multiple, diverse data sources selected to offer distinct yet complementary information](use-multiple-diverse-data-sources.md)
 
 ## Examples
 -

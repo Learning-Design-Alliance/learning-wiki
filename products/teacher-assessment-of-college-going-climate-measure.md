@@ -13,6 +13,7 @@ generated:
 # Teacher Assessment of College-going Climate measure
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A school-level survey-based measure developed by Roderick et al. that aggregates teachers’ reports of shared expectations, behaviors, and responsibilities concerning students’ college attendance and preparation.

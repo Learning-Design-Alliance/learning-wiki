@@ -48,3 +48,4 @@ The district's own equity challenge statement, made in its participation in Equi
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - [Student voices provided insights into factors that may impact participation in CS programs in Iowa City](student-voices-insights-cs-participation-factors.md) — related
 - [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](talladega-disparities-persisted-despite-pathway.md) — related
+- [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on

@@ -42,6 +42,9 @@ The guide's stated rationale for contextualizing growth goals with NWEA normativ
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related
 - [Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)](challenge-support-imbalance-effects-novice-learners.md) — a broader claim this one bears on

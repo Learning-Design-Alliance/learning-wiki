@@ -14,6 +14,7 @@ generated:
 # Freshman OnTrack indicator
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A research-based early-warning measurement developed and used by the University of Chicago Consortium and Chicago Public Schools to identify ninth-grade students at risk of not graduating.

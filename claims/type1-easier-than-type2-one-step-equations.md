@@ -42,6 +42,9 @@ Theoretical claim from the Discussion section, derived from the element interact
 ## Discussion
 
 
+## Learner Variables
+- [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The complexity of one-step equations increases with the number of operational and relational lines](operational-relational-lines-determine-equation-complexity.md) — possibly the same claim (merge candidate)
 - [Special features (negative numbers, decimals, percentages, fraction solutions, pronumeral on the right) increase difficulty of one-step equations at constant element interactivity](special-features-increase-one-step-equation-difficulty.md) — related

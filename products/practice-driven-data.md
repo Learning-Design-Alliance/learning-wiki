@@ -13,6 +13,7 @@ generated:
 # Practice-driven data
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A five-lesson, context-sensitive framework for using data in school improvement—prepare, focus, make meaning, strategize, and disrupt—developed through the University of Chicago’s partnership with Chicago Public Schools.

@@ -47,3 +47,4 @@ Analysis of publicly available CPS district attendance data for students in pres
 - [Changes in absence rates from 2018-19 to 2022-23 varied considerably across CPS schools, with most schools showing moderate-to-large increases](cps-absence-change-varies-by-school.md) — related
 - [High school students participated in synchronous remote instruction on more days than they were counted present, suggesting under-minutes rather than full-day absence drove their absences](hs-remote-absence-driven-by-minutes.md) — related
 - [Schools varied considerably in how much their absence rates increased after the pandemic, with some showing little or no change](schools-varied-in-absence-rate-increases.md) — related
+- [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related

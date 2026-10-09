@@ -89,6 +89,8 @@ PBS reframes behavior management from reactive discipline to instructional desig
 - [Restorative Practices](restorative-practices.md) — an alternative/complementary response to harm that replaces exclusionary discipline
 - [Social-Emotional Learning](../patterns/social-emotional-learning.md) — teaches the underlying skills PBS expects students to display
 - [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)
+- [Coach schools on both behavior and academic MTSS practices rather than behavior alone](coach-both-behavior-and-academic-mtss.md)
+- [Sustain and resource statewide PBIS scale-up with emphasis on advanced-tier implementation support](statewide-pbis-scale-up-advanced-tier-support.md)
 
 ## Examples
 - **SWPBIS** (https://www.pbis.org) — the U.S. OSEP-funded national implementation framework; thousands of schools report reduced office discipline referrals under faithful Tier 1 implementation [~S]

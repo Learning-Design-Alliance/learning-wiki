@@ -71,6 +71,7 @@ Coaching applies the same learning science that governs novice skill acquisition
 - [Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation](systemic-coaching-program-design-six-pillars.md)
 - [Sustained classroom-embedded professional development through demonstration teachers](demonstration-teachers-classroom-embedded-pd.md)
 - [Provide job-embedded coaching to school leaders to translate learning into sustainable practice](job-embedded-coaching-school-leaders.md)
+- [Teacher reflection cycle for adopting a formative assessment practice](teacher-reflection-cycle-formative-practice.md)
 
 ## Examples
 - **[MyTeachingPartner](https://curry.virginia.edu/myteachingpartner)** (University of Virginia) — web-mediated coaching in which teachers submit classroom video and receive consultant feedback on teacher–student interactions; replicated RCTs show gains in interaction quality and student achievement.

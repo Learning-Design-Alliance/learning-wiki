@@ -42,5 +42,8 @@ Reanalysis of data from Arlin's (1984a) two-week study of elementary students ac
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy](y-shaped-structure-challenges-bloom-cumulative-hierarchy.md) — related

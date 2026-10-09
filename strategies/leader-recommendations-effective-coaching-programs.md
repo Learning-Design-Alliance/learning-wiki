@@ -48,6 +48,7 @@ Based on DLP evidence, the report recommends that school and district leaders wo
 - [Protect coaches' time so the majority is spent directly with teachers](protect-coach-time-for-classroom-support.md)
 - [Recommendations for adopting and sustaining high-quality coaching](recommendations-sustaining-high-quality-coaching.md)
 - [Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation](systemic-coaching-program-design-six-pillars.md)
+- [Integrate bilingualism into all instructional settings through districtwide professional learning and in-service coaching](integrate-bilingualism-all-instructional-settings.md)
 
 ## Examples
 -

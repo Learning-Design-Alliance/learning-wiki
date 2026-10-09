@@ -43,6 +43,7 @@ The article recommends that funders "engage with communities to co-design invest
 
 - [Funders use structured self-reflection to focus place-based systems change investments](funder-self-reflection-to-focus-systems-change-investments.md)
 - [Offer implications for funders and program implementers engaged in systems change](implications-for-funders-and-implementers-systems-change.md)
+- [Use asset mapping to identify and celebrate existing strengths in the school and community](asset-mapping-celebrate-strengths.md)
 
 ## Examples
 -

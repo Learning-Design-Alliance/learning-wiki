@@ -63,6 +63,7 @@ The profile operationalizes a strengths-based, culturally responsive stance: ins
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the profile supplies the interest and background data that activation depends on
 - [Check-ins](../principles/check-ins.md) — ongoing relational practice that keeps profile content current
 - [Interview the student one-on-one about strengths, interests, and growth areas before writing the IEP](student-interview-strengths-interests-growth-areas.md)
+- [High expectations with advanced learning opportunities and productive struggle to empower Black students' genius](advanced-learning-high-expectations-productive-struggle.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — educators act on profile findings through ongoing supportive dialogue

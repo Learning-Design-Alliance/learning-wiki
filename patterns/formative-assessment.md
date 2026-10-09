@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 18 claims (11 for, 6 mixed, 1 unmarked) · 28 studies (11 quant-synthesis, 7 causal, 4 review, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 13 of 28 report an effect size · 8 claims rest on one study
+> **Evidence** · 18 claims (11 for, 6 mixed, 1 unmarked) · 29 studies (12 quant-synthesis, 7 causal, 4 review, 3 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 14 of 29 report an effect size · 8 claims rest on one study
 
 ## Description
 
@@ -176,7 +176,8 @@ This is the article's described classroom pattern for formative assessment in la
 - 
 
 ## Examples
--
+
+- [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
 
 ## Key Sources
 - Burnstein, R. A. and Lederman, L. M. (2007). Wireless Keypads −− A New Classroom Technology Using Enhanced Multiple-Choice Questions. Physics Education. https://iopscience.iop.org/journal/0031-9120

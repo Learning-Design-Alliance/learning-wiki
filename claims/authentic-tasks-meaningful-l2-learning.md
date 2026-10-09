@@ -42,6 +42,9 @@ Theme 6 of the study's ten synthesized themes from qualitative analysis of SLA t
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Tasks with higher involvement load, involving search and evaluation, are conducive to better word retention, with marginal glosses efficient for incidental learning](involvement-load-tasks-improve-word-retention.md) — related

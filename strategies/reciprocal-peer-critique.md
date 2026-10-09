@@ -64,8 +64,10 @@ Peer critique doubles as learning: reviewing a peer's work against criteria deep
 6. Debrief: what feedback was most useful and why — building the reviewer skill explicitly
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lighter-weight reciprocal structure that builds the discussion habits critique requires
 - [Jigsaw](jigsaw.md) — another reciprocal interdependence structure; critique adds an evaluative layer to cooperation
+- [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
 
 ## Examples
 - **EL Education (Expeditionary Learning) schools** — "kind, specific, helpful" critique protocols and gallery walks are a signature practice; students critique drafts of expedition products before public exhibition ([https://eleducation.org](https://eleducation.org))

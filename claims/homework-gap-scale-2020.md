@@ -53,3 +53,4 @@ The report cites the late-2020 Common Sense Media and Boston Consulting Group do
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
 - [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
 - [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — related
+- [Chronic absence rates among Native students vary widely across states, with Alaska highest at 60% Native versus 37% White in 2022/23](aian-chronic-absence-state-disparities.md) — related

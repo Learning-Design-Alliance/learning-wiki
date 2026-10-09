@@ -42,6 +42,9 @@ The article states, as background motivating the study, that "a growing body of 
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [A well-implemented summer learning program (BELL) improves low-income children's reading test scores](bell-summer-program-improves-reading-scores.md) — a narrower finding that bears on this claim
 - [The BELL summer program increases the extent to which parents encourage their children to read during the subsequent school year](bell-summer-program-increases-parent-reading-encouragement.md) — related

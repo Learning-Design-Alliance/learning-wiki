@@ -12,7 +12,7 @@ generated:
 # Learning By Teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 causal, 2 quant-synthesis), `q3`–`q4` · 3 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 4 of 5 report an effect size
 
 ## Description
 Learning by teaching asks learners to take instructional responsibility for material — explaining it to a peer, tutoring a younger student, or producing an explanation for an audience. The strategy works through two mechanisms: the *expectation* of teaching drives deeper, better-organized study, and the *act* of teaching forces retrieval, elaboration, and gap detection. It is carried out through structured activities such as reciprocal peer tutoring, jigsaw roles, or "teach-back" moments embedded in lessons.

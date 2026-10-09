@@ -69,3 +69,5 @@ Descriptive attendance comparison across the same three cohorts. The report note
 - [ELs who received bilingual education services had higher long-run attendance and academic outcomes than kindergartners who refused bilingual services](bilingual-services-higher-el-outcomes-than-refusal.md) — related
 - [Students who began as ELs were not overidentified for special education services relative to students never classified as ELs](els-not-overidentified-special-education.md) — related
 - [The study operationalized high achievement as scoring at or above the 90th percentile on the NWEA assessment](high-achievement-defined-as-90th-percentile-or-above.md) — related
+- [English Learner classification in kindergarten negatively impacts teachers' perceptions of students' academic abilities, with a reduced negative effect in bilingual classroom settings](el-classification-negative-teacher-perceptions.md) — related
+- [In Virginia, Hispanic/Latino children labeled English Learners with low kindergarten literacy were 20 percent less likely to achieve grade-3 reading proficiency than similar peers](el-labeling-virginia-reading-proficiency-gap.md) — related

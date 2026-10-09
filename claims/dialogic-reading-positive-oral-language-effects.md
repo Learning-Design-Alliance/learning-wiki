@@ -42,6 +42,9 @@ WWC systematic review of early childhood education interventions; five studies (
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Dialogic Reading shows no discernible effects on phonological processing](dialogic-reading-no-phonological-processing-effects.md) — related
 - [Dialogic Reading combined with Sound Foundations shows potentially positive effects on print knowledge and early reading/writing but not oral language](dialogic-reading-sound-foundations-combined-outcomes.md) — related

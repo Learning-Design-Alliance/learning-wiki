@@ -45,3 +45,5 @@ Regression analyses controlling for school size, pre-reform achievement, student
 ## Related Claims
 - [School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities](improvement-rates-vary-community-racial-composition.md) — related
 - [During Phase I reform, a subset of very disadvantaged, racially isolated African-American schools showed weak improvement](phase-one-weak-gains-disadvantaged-schools.md) — related
+- [English learner program type, student mobility, discipline rates, and teacher experience were not statistically significant predictors and were removed from the final model](nonsignificant-predictors-removed-model.md) — related
+- [School-level concentration of low income students and racial isolation are associated with higher early literacy risk rates](school-segregation-associated-higher-literacy-risk.md) — reports the opposite

@@ -42,6 +42,10 @@ The consensus statement enumerates social, emotional, and academic capacities to
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
+- [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related

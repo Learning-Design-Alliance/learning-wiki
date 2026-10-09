@@ -43,6 +43,9 @@ The review reports, citing Penuel et al. (2024), mixed-effects models analyzing 
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related

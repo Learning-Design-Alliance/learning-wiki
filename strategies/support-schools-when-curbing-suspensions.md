@@ -40,6 +40,7 @@ The article recommends that districts planning to roll back suspensions consider
 
 - [Restorative Approaches](restorative-approaches.md)
 - [Restorative Practices](restorative-practices.md)
+- [Use trauma-informed behavioral supports before escalating to suspension, supported by willful-defiance suspension bans](trauma-informed-discipline-foster-care.md)
 
 ## Examples
 -

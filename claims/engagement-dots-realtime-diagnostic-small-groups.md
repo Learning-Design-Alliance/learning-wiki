@@ -47,3 +47,4 @@ Coach self-reports and focus group data from the implementation study. The Cours
 - [Coaches reported that usage dashboards grounded coaching conversations in evidence rather than perception and prompted reality checks on implementation](dashboards-evidence-based-coaching-conversations.md) — related
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
 - [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — related
+- [Districts use multiple forms of data—learning walks, state assessment items, dashboards, and diagnostics—to give teachers feedback and refine IM implementation over time](data-use-supports-ongoing-hqim-implementation.md) — related

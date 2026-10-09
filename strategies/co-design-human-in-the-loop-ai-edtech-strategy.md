@@ -46,6 +46,7 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [Use iterative design with short feedback loops and multiple user-feedback methods during product development](iterative-design-short-feedback-loops.md)
 - [AI system developers should ensure human-centric design, institutional leaders should stay updated on global AI regulations, and LA experts should engage policymakers through dialogue](human-centric-ai-and-policymaker-dialogue-practices.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
+- [AI researchers should partner with developers and disseminate findings accessibly to bridge research-practice silos](researcher-developer-partnerships-bridge-ai-silos.md)
 
 ## Examples
 -

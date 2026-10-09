@@ -58,9 +58,11 @@ Formative assessment operationalizes [Assessment for Learning](../principles/ass
 6. Repeat at spaced intervals; formative assessment is a cycle, not an event.
 
 ## Related Strategies
+
 - [3-2-1 Reflection](../strategies/3-2-1_reflection.md) — a lightweight elicitation routine for surfacing prior conceptions and confusion
 - [Exit Tickets](exit-ticket.md) — end-of-session evidence capture that shapes the next session
 - [Retrieval Practice](../strategies/retrieval-practice.md) — low-stakes quizzing that doubles as formative evidence and memory strengthening
+- [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](self-assessment-supports-self-regulated-agents.md)
 
 ## Examples
 - **Dylan Wiliam's "hinge questions"** — multiple-choice items with distractors mapped to specific misconceptions; the whole class answers simultaneously and the teacher chooses one of several pre-planned instructional responses.

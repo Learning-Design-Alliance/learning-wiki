@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 6 claims (3 for, 3 unmarked) · 4 studies (4 causal), `q3` · 0 of 4 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 unmarked) · 4 studies (4 causal), `q3` · 0 of 4 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 

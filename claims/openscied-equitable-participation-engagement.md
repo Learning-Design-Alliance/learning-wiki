@@ -63,3 +63,4 @@ Teacher self-report survey data from the 2018-2019 field test, summarized by the
 - [Working-group synthesis identified four crosscutting research themes for OpenSciEd](four-themes-openscied-research-agenda.md) — a broader claim this one bears on
 - [Students find OpenSciEd units relevant and coherent, with over 90% reporting relevance and 87% reporting the lesson ties to the bigger picture](openscied-student-relevance-coherence.md) — related
 - [Teachers are able to support rich and participatory science discussions during OpenSciEd enactment, per detailed case studies of experienced teachers](openscied-rich-participatory-discussions.md) — related
+- [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](practical-measure-data-tailors-crse-instruction.md) — related

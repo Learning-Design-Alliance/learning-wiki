@@ -108,3 +108,5 @@ A review synthesising the classroom-environment literature into two channels. **
 - [Classroom student characteristics affect teacher observation results for some instruments, more often in English language arts than in math classes](student-characteristics-affect-observation-results-more-in-ela-than-math.md) — related
 - [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — related
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — a narrower finding that bears on this claim
+- [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](daylight-green-views-benefit-students.md) — related
+- [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](poor-iaq-harms-student-health-and-learning.md) — related

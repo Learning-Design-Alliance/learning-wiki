@@ -42,5 +42,8 @@ The white paper reports, citing Holmes, Gathercole, and Dunning (2009), that ada
 ## Discussion
 
 
+## Learner Variables
+- [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related

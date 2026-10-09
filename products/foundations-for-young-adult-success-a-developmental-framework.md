@@ -13,6 +13,7 @@ generated:
 # Foundations for Young Adult Success: A Developmental Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A conceptual framework developed by Nagaoka and colleagues at the University of Chicago Consortium on Chicago School Research that organizes the knowledge, skills, mindsets, strategies, and behaviors intended to support agency and success from childhood through young adulthood.

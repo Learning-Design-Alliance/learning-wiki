@@ -42,6 +42,9 @@ Survey analysis across pilot-year coaching logs and teacher surveys; the report 
 ## Discussion
 
 
+## Learner Variables
+- [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [More DLP teachers reported strong ability to select and use technology for pedagogy and for their content area than non-DLP teachers](dlp-coaching-stronger-ability-select-use-technology.md) — related
 - [DLP teachers reported significant increases in using technology for both content and pedagogy, but no significant difference from non-DLP teachers in basic technology skills](dlp-content-pedagogy-gains-not-basic-skills.md) — related

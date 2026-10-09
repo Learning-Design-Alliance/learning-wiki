@@ -71,6 +71,9 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 
 **Open questions.** How many varied encounters are needed for durable knowledge, how context diversity should be scheduled over time, and how benefits differ for first-language versus second-language learners all require further evidence. The evidence recorded above concerns incidental learning from reading; it does not isolate the variety of contexts.
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — incremental encounters work within the same working-memory limits that constrain each exposure

@@ -13,7 +13,7 @@ generated:
 # Turn-and-Talk
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Turn-and-talk asks learners to pair up for a brief, focused exchange — typically 30 seconds to three minutes — in which each partner articulates their understanding of a prompt, compares notes, and identifies gaps together. It converts passive listening time into [active-learning](../principles/active-learning.md) by requiring every learner to speak, not just a few volunteers.

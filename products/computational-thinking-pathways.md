@@ -13,6 +13,7 @@ generated:
 # Computational Thinking Pathways
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A Digital Promise framework of system-wide K–12 computational-thinking learning progressions designed to support equitable participation through consistent, cumulative, and competency-based learning across classrooms and years.

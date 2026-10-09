@@ -49,3 +49,4 @@ Descriptive analysis of no-credit grade rates by student background among 223,09
 - [No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations](cps-school-level-variation-nocredit-rates.md) — related
 - [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
 - [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — related
+- [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related

@@ -12,6 +12,7 @@ generated:
 # Combined regression discontinuity and interrupted time-series design with instrumental variables
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 When a threshold-based policy changes conditions for non-targeted students too, a standard regression discontinuity cannot estimate the policy effect, only the enrollment effect. The authors show that "combining the two designs—a regression discontinuity and a time series design we address limitations that are usually inherent in each": the discontinuity provides a within-cohort check while cohort comparisons reveal effects on non-targeted students and on students far from the cutoff, with instrumental variables addressing imperfect compliance.

@@ -12,6 +12,7 @@ generated:
 # Multiple-design-element interrupted time series evaluation
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Because the basic single-group ITS depends on extrapolating the pretest functional form as a counterfactual, an assumption the authors call problematic, evaluators should add multiple design elements to the basic ITS structure. Each element limits alternative interpretations, and together the elements provide a strong causal warrant when predictions are complex and results cohere with them.

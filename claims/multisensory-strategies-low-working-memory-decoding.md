@@ -42,6 +42,9 @@ The white paper asserts, citing research without naming a study or printing an e
 ## Discussion
 
 
+## Learner Variables
+- [Working Memory](../learner-variables/working-memory.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related

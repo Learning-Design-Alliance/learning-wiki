@@ -42,6 +42,7 @@ The guide distinguishes the empathy interview from a regular interview through s
 - [Close the empathy exercise by reflecting on surprises, systemic oppression, and short- and long-term design goals](empathy-exercise-reflection-and-forward-planning.md)
 - [Five-step empathy interview exercise for teachers designing inclusive computing pathways](empathy-interview-five-step-exercise.md)
 - [Using Empathy Interviews for Family Engagement](using_empathy_interviews_for_family_engagement.md)
+- [Conduct one-on-one empathy interviews with open-ended questions to uncover root causes of system challenges](empathy-interviews-root-causes.md)
 
 ## Examples
 -

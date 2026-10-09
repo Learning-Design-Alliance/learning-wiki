@@ -61,6 +61,9 @@ In the same RCT's differential-effects models, students with low baseline attend
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](future-forward-differential-impact-subgroups.md) — possibly the same claim (merge candidate)
 - [Black male students with low baseline attendance show the largest Future Forward attendance gains, though not statistically significant](future-forward-black-male-low-attendance-gains.md) — a narrower finding that bears on this claim

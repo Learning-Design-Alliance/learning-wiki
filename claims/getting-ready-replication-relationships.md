@@ -48,3 +48,4 @@ Second cluster randomized trial in publicly funded Nebraska preschool programs w
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Getting Ready shows a strong evidence rating for social-emotional learning, with an average effect size of +0.22 across two studies and 487 students](getting-ready-sel-strong-rating.md) — related
 - [The first trial also found social-emotional gains including increased attachment and initiative and reduced anxiety/withdrawal](getting-ready-social-emotional-outcomes-study-one.md) — related
+- [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — related

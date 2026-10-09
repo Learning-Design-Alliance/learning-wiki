@@ -17,7 +17,7 @@ sources:
 # The Equity Project (TEP) Charter School teacher-compensation model
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The Equity Project Charter School is a New York City charter school whose distinguishing feature, as named in the brief's title, is "High Salaries for Teachers". Mathematica evaluated its impacts on student achievement over a 2009-2014 time frame, prepared for the Gates Foundation, comparing TEP students with similar students in comparable New York City public schools. The brief reports positive achievement impacts across subjects and cohorts.

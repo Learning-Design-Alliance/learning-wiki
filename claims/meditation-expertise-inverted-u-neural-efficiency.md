@@ -42,6 +42,9 @@ Narrative review synthesis of cross-sectional neuroimaging comparisons of medita
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Long-term Buddhist meditation training induces gamma synchrony whose ratio to slow oscillations correlates with cumulative practice hours (r = 0.79)](longterm-meditation-gamma-synchrony-practice-hours.md) — related
 - [Experienced meditators show reduced default mode network activation with enhanced PCC–dorsolateral PFC connectivity during meditation](meditation-dmn-reduction-pcc-dlpfc-connectivity.md) — related

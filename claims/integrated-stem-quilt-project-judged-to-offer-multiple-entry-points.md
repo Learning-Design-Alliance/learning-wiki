@@ -68,3 +68,4 @@ Transformation stage; the two designers' own evaluation. They "see this project 
 - [An informal STEM club founder saw a dilemma between raising girls' interest in mathematics and keeping the club different from school, and mathematics went unemphasized in its activities](informal-stem-club-mathematics-tension-between-interest-and-not-like-school.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — related
+- [The three equivalence approaches offer students multiple avenues for mathematical connections and arguments](equivalence-approaches-multiple-avenues-connections.md) — related

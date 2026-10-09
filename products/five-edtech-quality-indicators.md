@@ -13,6 +13,7 @@ generated:
 # Five EdTech Quality Indicators
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A framework developed by 1EdTech, CAST, CoSN, Digital Promise, InnovateEDU, ISTE+ASCD, and SETDA for evaluating AI-enabled edtech against safety, evidence, inclusion, usability, and interoperability criteria.

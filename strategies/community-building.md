@@ -80,6 +80,7 @@ Sense of belonging predicts persistence and engagement, particularly for at-risk
 - [Build faculty-staff connections and peer community to support persistence of teacher education students](faculty-connections-support-persistence-pcc.md)
 - [Accountability Partners](accountability-partners.md) — a lightweight structure that converts community into sustained individual follow-through
 - [Check-Ins](../elements/check-in.md) — the recurring ritual that keeps relational awareness alive after launch
+- [Build trusting relationships among workgroup participants through structured facilitation](trust-building-facilitation-practices.md)
 
 ## Examples
 - **PBL teams with role rotation and team charters** — interdependent roles (facilitator, recorder, skeptic) with individual deliverables prevent free-riding while building team cohesion.

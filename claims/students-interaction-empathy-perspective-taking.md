@@ -42,6 +42,9 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [Instructors perceive experiential learning primarily as developing transferable skills for personal and professional growth, with student happiness rarely considered (gain)](instructors-transferable-skills-gain-focus.md) — related

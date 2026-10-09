@@ -42,6 +42,9 @@ Theoretical assertion made in the paper's discussion of quadrant-one instruction
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
 - [Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented](vygotsky-challenging-tasks-promote-growth.md) — related

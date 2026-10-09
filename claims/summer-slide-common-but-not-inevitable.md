@@ -42,6 +42,9 @@ Large-scale observational analysis of seasonal score patterns on NWEA MAP Growth
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The rural–nonrural achievement divergence is driven by larger summer losses for rural students](rural-achievement-divergence-driven-by-summer-loss.md) — a narrower finding that bears on this claim
 - [Students who made the greatest school-year gains experienced the greatest summer learning loss](greatest-gains-greatest-summer-loss.md) — related

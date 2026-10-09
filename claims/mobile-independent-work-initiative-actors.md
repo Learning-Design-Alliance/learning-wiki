@@ -42,6 +42,9 @@ From the same observational implementation study of MALL with Mobl21: the author
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+
 ## Related Claims
 - [MALL implementation with Mobl21 was psychologically comfortable for students and facilitated actualization of their learning potential](mall-implementation-psychological-comfort-learning-potential.md) — a broader claim this one bears on
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related

@@ -42,6 +42,9 @@ In the same 27-school wait-list control study, ATI-UP schools showed "decreased 
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [ATI-UP increases average daily attendance in elementary schools after one semester (effect size +0.19)](ati-up-increases-average-daily-attendance.md) — related
 - [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](powerschool-attendance-intervention-reduces-chronic-absenteeism.md) — possibly the same claim (merge candidate)

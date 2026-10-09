@@ -42,6 +42,9 @@ The brief identifies high-dosage tutoring as a strongly supported intervention, 
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](education-corps-tutoring-improves-dibels-composite.md) — a narrower finding that bears on this claim
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on

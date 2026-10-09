@@ -42,6 +42,9 @@ Secondary analysis comparing ITBS learning gains of high- and low-prior-achievin
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Assignment quality improved between 1997 and 1999, yet math assignment challenge remained very low](assignment-quality-improved-but-math-challenge-low.md) — related
 - [Exposure to high-quality assignments predicted substantially higher IGAP reading, mathematics, and writing performance (effect sizes 0.43, 0.64, 0.52)](authentic-assignments-igap-value-added.md) — related

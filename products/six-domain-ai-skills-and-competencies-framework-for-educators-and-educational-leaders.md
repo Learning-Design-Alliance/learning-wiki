@@ -13,6 +13,7 @@ generated:
 # Six-domain AI skills and competencies framework for educators and educational leaders
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Digital Promise framework organizing AI literacy and readiness competencies for PK–12 educators and educational leaders across technical, analytical, interpersonal, ethical, adaptive, and implementation domains.

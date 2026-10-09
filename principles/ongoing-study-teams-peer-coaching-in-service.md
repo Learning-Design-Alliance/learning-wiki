@@ -23,7 +23,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 4 claims (4 for) · 4 studies (1 causal, 1 review, 1 associational, 1 qualitative), `q2` · 1 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 5 studies (2 qualitative, 1 causal, 1 review, 1 associational), `q2` · 1 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Drawing on Licklider's 1997 review of adult learning theory, the digest argues that self-directness, including self-learning from experience in natural settings, is an important component of adult learning. It concludes that "effective teacher professional development should involve more than occasional large-group sessions" and should include study teams and peer coaching in which teachers continuously examine their assumptions and practices.

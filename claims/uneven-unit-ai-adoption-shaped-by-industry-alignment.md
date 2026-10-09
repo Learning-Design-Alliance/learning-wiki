@@ -52,3 +52,4 @@ Survey-based case study findings section; Table 2 summarizes unit adoption level
 - [Most U.S. colleges had adopted written generative AI policies by late 2024, with 69% defining appropriate versus inappropriate AI use in coursework](review-69-percent-colleges-genai-policies.md) — related
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md) — possibly the same claim (merge candidate)
+- [AI adoption at work shows generational and occupational patterns, with younger workers and tech, professional services, and finance fields more likely to use AI](generational-occupational-ai-adoption-patterns.md) — related

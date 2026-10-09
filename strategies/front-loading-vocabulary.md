@@ -59,8 +59,10 @@ Pre-teaching vocabulary reduces the extraneous cognitive load of decoding unfami
 5. **Revisit in context** — flag the words when they appear in the main text or task, and schedule at least one later encounter (discussion, writing, [Assessment](../elements/assessment.md)) to consolidate.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — front loading vocabulary is often paired with activation of related concepts; both prepare the knowledge base the main task will draw on
 - [Pre-Questioning](pre-questioning.md) — a parallel front-loading move that directs attention before a text
+- [Develop mathematical concepts and working definitions before teaching formal terms, replacing vocabulary preteaching](develop-concepts-before-vocabulary-preteaching.md)
 
 ## Examples
 - **[Bringing Words to Life](https://www.guilford.com/books/Bringing-Words-to-Life/Beck-McKeown-Kucan/9781462508167)** (Beck, McKeown & Kucan) — the tiered vocabulary framework underlying most robust-vocabulary instruction programs; recommends teaching a small set of high-utility words with multiple meaningful encounters.

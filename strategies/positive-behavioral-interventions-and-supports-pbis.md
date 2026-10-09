@@ -85,6 +85,7 @@ PBIS applies behavioral learning principles at the systems level: expectations a
 - [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](sustained-pbis-professional-development-coaching.md)
 - [Classroom Discussion](../elements/class-discussion.md) — community-building practices that reinforce respectful norms
 - Restorative practices — an alternative/complement to exclusionary consequences within Tier 2/3
+- [Sustain and resource statewide PBIS scale-up with emphasis on advanced-tier implementation support](statewide-pbis-scale-up-advanced-tier-support.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — Tier 2 support structure and staff implementation coaching

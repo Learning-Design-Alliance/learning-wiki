@@ -49,6 +49,7 @@ The report's third use case illustrates Recommendation 3—investing 'in role-sp
 - [Invest in educator professional learning on experiential AI pedagogies using existing federal funding streams](fund-educator-ai-professional-learning.md)
 - [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
+- [Support digitally fluent career pathways through ecosystems, educator training, work-based learning, convenings, and showcases](clpi-digital-fluency-pathway-supports.md)
 
 ## Examples
 -

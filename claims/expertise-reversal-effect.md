@@ -110,6 +110,9 @@ Boundary conditions matter. The effect is documented primarily for guidance that
 Open questions include how finely expertise must be measured (domain-specific vs. general ability) and how quickly guidance should be faded within a single lesson versus across a curriculum. Three sources are recorded above: a narrative review by the group that named the effect (Kalyuga et al. 2003), one of its three-experiment primary studies (Kalyuga et al. 1998, circuit diagrams, read from the abstract), and a conceptual paper restating the review (Obikwelu 2013). None prints an effect size in the text read, and no meta-analysis is recorded.
 <!-- deprecated (2026-10-05, stale): Because this page currently has no catalogued evidence entries, effect sizes and boundary conditions still need to be sourced before the claim can be rated. -->
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](chunking-reduces-working-memory-load.md)

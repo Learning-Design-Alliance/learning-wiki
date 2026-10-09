@@ -20,7 +20,7 @@ sources:
 # Authentic intellectual work framework: construction of knowledge, elaborated written communication, and connection to student lives
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 8 claims (8 for) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (13 for) · 3 studies (3 associational), `q2` · 1 of 3 report an effect size · 13 claims rest on one study
 
 ## Description
 The manual's research strand rests on an intellectual foundation drawn from Fred Newmann and Gary Wehlage's work on authentic achievement. It defines a target of student learning that "includes and goes beyond the acquisition of basic knowledge and skills" toward analyzing and solving real-world problems and communicating ideas in elaborated ways. Rubrics operationalize this as three standards per subject: "construction of knowledge," "elaborated written communication," and "connection to student lives," each scored 1 to 3 or 1 to 4, with slightly different definitions for assignments versus student work and by grade and subject.

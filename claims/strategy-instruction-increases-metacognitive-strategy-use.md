@@ -42,6 +42,9 @@ Cross-case comparison in the conclusion section of the holistic multiple-case st
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Strategy variety for drawing attention was higher in the no-instruction and peer tutoring groups, while frequency was higher in the instruction groups](drawing-attention-variety-no-instruction-peer-tutoring.md) — related
 - [Preservice science teachers exposed to explicit reading strategy instruction showed the highest diversity and frequency of cognitive strategy use while reading a science text](explicit-instruction-highest-cognitive-strategy-use.md) — related

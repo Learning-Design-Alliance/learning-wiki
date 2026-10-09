@@ -47,3 +47,4 @@ Equity analysis regression of expenditure per FTE student on need and contextual
 - [After accounting for other factors, colleges with higher shares of first-generation, older, English learner, and academically disadvantaged students still earned fewer milestones, while economic disadvantage and dual-credit shares were no longer significant](conditional-regression-need-factors-milestones.md) — related
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — related
 - [Colleges serving the highest shares of first-generation students tended to have larger adequacy gaps, spending $1,475 below projected adequate cost](first-generation-larger-adequacy-gaps.md) — related
+- [Funding dual-enrollment courses at high school campuses addresses transportation-based access inequities](dual-enrollment-campus-funding-access.md) — related

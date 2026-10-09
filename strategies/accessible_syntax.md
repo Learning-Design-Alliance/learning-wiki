@@ -57,8 +57,10 @@ Syntactic complexity competes with content for working memory; when learners mus
 5. Fade the scaffolds: reduce frame support as learners demonstrate control, moving toward independent composition of complex sentences.
 
 ## Related Strategies
+
 - [Accessible Vocabulary & Syntax](../principles/accessible-vocabulary-syntax.md) — the companion principle; syntax work without vocabulary work is incomplete
 - [Chunking](../principles/chunking.md) — the same load-reduction logic applied to information units rather than sentences
+- [Offer generative formulaic expressions instead of rigid sentence starters](generative-formulaic-expressions-not-sentence-starters.md)
 
 ## Examples
 - **WIDA-supported instruction** ([https://wida.wisc.edu](https://wida.wisc.edu)) — multilingual learner frameworks that pair content objectives with language objectives and sentence frames for academic discourse.

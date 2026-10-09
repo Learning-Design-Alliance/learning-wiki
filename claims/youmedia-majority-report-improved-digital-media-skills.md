@@ -42,6 +42,9 @@ Self-reported outcome from the Consortium report on YOUmedia Chicago: a majority
 ## Discussion
 
 
+## Learner Variables
+- [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Participation at YOUmedia differs substantially across teens, spanning creation, homework, varied media use, and socializing](youmedia-participation-patterns-vary-substantially.md) — related
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related

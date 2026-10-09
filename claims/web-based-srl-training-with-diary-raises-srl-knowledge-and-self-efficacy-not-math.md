@@ -76,3 +76,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [Upper-elementary teachers have large effects on students' self-reported behavior in class, self-efficacy in math, and happiness in class that are similar in magnitude to their effects on math test scores](teachers-large-effects-behaviors-mindsets-similar-to-test-scores.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
+- [Students showed a large, statistically significant increase in engagement from pre- to post-intervention in the 5-week Mindsets program (d ≈ 1.11)](mindsets-engagement-pre-post-increase.md) — related

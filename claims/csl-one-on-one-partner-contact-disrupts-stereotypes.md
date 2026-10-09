@@ -46,3 +46,4 @@ Autoethnographic narrative from the community partner describing direct email an
 - [Community partners report that co-planning under the CSL model gives them a voice in what the service project will be and how it is implemented](csl-co-planning-gives-community-partners-voice-in-project.md) — related
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related
 - [The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value](csl-co-established-projects-secure-partner-buy-in.md) — related
+- [Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback](active-community-engagement-over-passive-feedback.md) — related

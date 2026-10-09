@@ -59,9 +59,11 @@ Asset-based framing changes the diagnostic starting point of instruction: assess
 5. Give strengths-first feedback: sequence [Assessment for Learning](../principles/assessment-for-learning.md) feedback to name demonstrated capability before next steps.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the core instructional move that operationalizes asset framing at the start of a lesson
 - [Accessible Syntax](accessible_syntax.md) — reduces linguistic barriers so asset-based tasks remain accessible to multilingual learners
 - [Action Planning](action_planning.md) — turns identified strengths into concrete learner-owned next steps
+- [Use asset mapping to identify and celebrate existing strengths in the school and community](asset-mapping-celebrate-strengths.md)
 
 ## Examples
 - **Funds of Knowledge projects (Moll et al., Tucson, AZ)** — Teachers conducted household visits to map community knowledge (mechanics, farming, finance) and built math and literacy units around those practices, repositioning families as intellectual resources.

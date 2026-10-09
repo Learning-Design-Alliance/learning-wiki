@@ -42,6 +42,9 @@ A theoretical argument advanced in this discussion paper, not an empirical test:
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related

@@ -13,7 +13,7 @@ generated:
 # Morphological Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 4 claims (2 for, 2 unmarked) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Morphological instruction makes students aware of morphemes — the smallest units of meaning in words — beginning with inflections (–ed, –s, –es, –ing, –er, –est), which change number, person, or tense without changing part of speech, and extending to prefixes and derivational suffixes. It is carried out through [direct instruction](../patterns/direct-instruction.md) on word structure, word sorting and analysis tasks, and structured [practice](../elements/practice.md) in spelling and decomposing words.

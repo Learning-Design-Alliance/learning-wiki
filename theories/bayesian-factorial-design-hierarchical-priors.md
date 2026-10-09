@@ -20,7 +20,7 @@ sources:
 # Bayesian approach to factorial design using hierarchical priors and partial pooling
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies (3 theoretical), `q2` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 3 studies (3 theoretical), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The paper introduces a Bayesian framework for factorial experiments in education research. Rather than relying only on basic treatment-control comparisons, the approach uses "hierarchical priors and partial pooling" to share information across factor levels, which the authors show increases the precision of estimates in complex experiments with many factors and factor levels. It is offered as a methodological alternative to traditional statistical inference for studying multiple related interventions.

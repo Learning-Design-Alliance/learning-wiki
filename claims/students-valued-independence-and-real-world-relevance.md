@@ -42,6 +42,9 @@ Qualitative findings from 32 student focus groups. Students cited independence, 
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Challenge based science lessons provided substantially more deeper learning opportunities than typical lessons across six dimensions](cbl-lessons-more-deeper-learning-opportunities-than-typical.md) — related
 - [Challenge based lessons scored significantly higher than NGSS practices-aligned lessons on three of six deeper learning dimensions and equivalent on the other three](cbl-vs-ngss-practices-aligned-three-of-six-higher.md) — related

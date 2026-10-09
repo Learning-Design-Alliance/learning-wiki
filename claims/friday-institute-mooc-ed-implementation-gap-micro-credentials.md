@@ -46,3 +46,4 @@ Case study of the Friday Institute, an issuer. It scaled content access through 
 - [Micro-credential reflections push educators toward metacognition and self-evaluation](micro-credential-reflections-metacognition.md) — related
 - [MTLC developed the 11-credential Global Graduates stack to support personalized learning in Houston ISD's one-to-one PowerUp environment](mtlc-global-graduates-stack-hisd.md) — related
 - [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](micro-credentials-features-of-effective-professional-development.md) — a broader claim this one bears on
+- [Learners in competency-based university programs reportedly scored higher on licensing exams, and micro-credentials integrate into MOOCs and flexible credit pathways](higher-ed-micro-credential-outcomes.md) — related

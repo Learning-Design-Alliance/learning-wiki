@@ -42,5 +42,8 @@ The article cites Tierney and Shanahan (1991) as background support, reporting t
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — related

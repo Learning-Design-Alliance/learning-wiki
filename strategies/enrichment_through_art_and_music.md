@@ -58,9 +58,11 @@ Art and music function as dual-coding supports: pairing verbal content with visu
 6. Close by having students articulate the content concept through the artistic lens (e.g., explain the water cycle using a movement or song), consolidating the dual representation.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — cultural art and music are powerful activation prompts because they draw on students' lived experience
 - [Building Empathy](../principles/building-empathy.md) — engaging with diverse artistic perspectives is a core vehicle for perspective-taking
 - [Annotating](../principles/annotating.md) — students can annotate artworks, scores, or lyrics as an analysis routine
+- [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling how to analyze an artwork or musical piece

@@ -42,6 +42,9 @@ The summary characterizes the evidence for these three practices as "moderately 
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers](cmo-impact-linked-intense-teacher-coaching.md) — a narrower finding that bears on this claim
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
@@ -56,3 +59,4 @@ The summary characterizes the evidence for these three practices as "moderately 
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a narrower finding that bears on this claim
 - [Schools where students and teachers reported frequent use of standards-aligned practices showed stronger assessment gains than schools with few reports of frequent use](standards-aligned-practices-stronger-gains.md) — related
 - [High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students](high-dosage-tutoring-tied-to-classroom-content-accelerates-learning.md) — related
+- [Teachers used ASSISTments reports to adjust instruction and make problem review more frequent, targeted, and data driven](assistments-data-driven-review-instructional-adjustment.md) — a narrower finding that bears on this claim

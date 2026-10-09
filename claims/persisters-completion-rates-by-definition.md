@@ -61,6 +61,9 @@ Descriptive analysis (Figures 10 and 11) of six-year credential completion for t
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value](continuous-enrollment-semesters-completion-gradient.md) — related
 - [Five persistence definition variants show similar predictiveness of completion, but the third-semester point-in-time definition yields persistence rates up to 14 percentage points higher than the continuous four-term definition](persistence-definition-variants-rate-differences.md) — related

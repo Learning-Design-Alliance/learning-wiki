@@ -51,6 +51,7 @@ Learning Forward's Standards for Professional Learning, developed in 2011 with m
 - [Align micro-credential offerings and recognition with student and educator performance standards](../strategies/align-micro-credentials-with-student-educator-standards.md)
 - [Integrate individual micro-credential learning into collaborative team learning cycles](../strategies/micro-credentials-in-team-learning-cycles.md)
 - [Implement micro-credentials through a peer cohort model with collaborative planning time](../strategies/micro-credential-cohort-model-strategy.md)
+- [Expand micro-credential systems into seven future content areas](../strategies/micro-credential-future-expansion-areas.md)
 
 ## Key Sources
 - Crow, T. (contributing author Pipkin, H.). (2017). Micro-credentials for Impact: Holding Professional Learning to High Standards. Learning Forward and Digital Promise. https://www.digitalpromise.org/micro-credentials

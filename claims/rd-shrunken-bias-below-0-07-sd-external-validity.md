@@ -49,3 +49,5 @@ External-validity analysis of the same 15 within-study comparisons, examining ho
 - [Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment](rd-theory-valid-causal-inference-at-cutoff.md) — related
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](rd-well-implemented-matches-experimental-estimates.md) — a broader claim this one bears on
 - [Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results](rd-estimates-differ-from-regression-el-sped.md) — related
+- [In Clark County, One-Star designation significantly raises math and ELA scores for all students](one-star-designation-clark-county-all-students.md) — a narrower finding that bears on this claim
+- [Statewide, One-Star designation has a modest significant positive effect on ELA but not on math scores](one-star-designation-statewide-ela-effect.md) — a narrower finding that bears on this claim

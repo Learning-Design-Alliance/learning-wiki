@@ -59,8 +59,10 @@ The strategy treats academic language as a learnable object rather than an assum
 5. Require use during [Collaborative Learning](../principles/collaborative-learning.md) and presentations, then progressively fade the scaffolds as students demonstrate control [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ## Related Strategies
+
 - [Accessible Syntax](../strategies/accessible_syntax.md) — complements this strategy by simplifying the syntax of input texts while this strategy builds output language
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — front-loads the conceptual grounding that makes new language structures meaningful
+- [Offer generative formulaic expressions instead of rigid sentence starters](generative-formulaic-expressions-not-sentence-starters.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — preview the project's language demands before students encounter them

@@ -42,6 +42,10 @@ The review attributes this to Carey (1978), cited as background on the fast mapp
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — outcome: instruction changes it
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — a broader claim this one bears on
 - [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on

@@ -42,6 +42,9 @@ The primer reports this as a theoretical account attributed to Leenknecht et al.
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](student-educator-relationship-builds-self-efficacy-and-belonging.md) — related

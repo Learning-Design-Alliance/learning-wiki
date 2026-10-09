@@ -42,6 +42,9 @@ A randomized control trial assigned 31 teachers teaching nearly 1500 6th-12th gr
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](powerschool-attendance-intervention-reduces-chronic-absenteeism.md) — possibly the same claim (merge candidate)
 - [The PowerSchool Attendance Intervention did not significantly increase in-seat attendance in a randomized control trial](powerschool-attendance-intervention-in-seat-attendance-null.md) — related

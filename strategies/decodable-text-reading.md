@@ -13,7 +13,7 @@ generated:
 # Decodable Text Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 review, 2 theoretical, 1 causal), `q1`–`q3` · 0 of 5 report an effect size
 
 ## Description
 Decodable texts are connected texts in which the majority of words can be sounded out using grapheme–phoneme correspondences that have already been explicitly taught, plus a small controlled set of irregular high-frequency words taught as exceptions. Learners read these texts aloud, applying their phonics knowledge to every word rather than relying on pictures, context, or memorized whole-word shapes. The strategy is typically sequenced so text difficulty tracks the scope-and-sequence of a phonics program.

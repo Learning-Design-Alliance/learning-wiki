@@ -44,6 +44,8 @@ The guide recommends a dissemination plan with 'multiple products with different
 - [Use visible assessment data to inform academic recovery planning after COVID-19](visible-data-informs-academic-recovery-planning.md)
 - [Investigate bright spots to identify and disseminate effective practices](bright-spot-investigation-strategy.md)
 - [Plan engagement by defining objectives, aligned questions, engagement type, and piloted materials](plan-engagement-objectives-questions-type-pilot.md)
+- [Chronicle and disseminate collaborative successes as documented Bright Spots of regional best practice](bright-spots-dissemination-of-engagement-practices.md)
+- [AI researchers should partner with developers and disseminate findings accessibly to bridge research-practice silos](researcher-developer-partnerships-bridge-ai-silos.md)
 
 ## Examples
 -

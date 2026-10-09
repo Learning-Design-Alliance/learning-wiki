@@ -47,6 +47,8 @@ The brief recommends that postsecondary leaders develop comprehensive AI usage g
 - [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
 - [School districts adopting AI should follow a five-step roadmap: engage communities, apply and develop policies, provide professional development, create supportive learning environments, and monitor and evaluate AI use](five-step-district-ai-adoption-roadmap.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
+- [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
+- [Use the Recommendation's Policy Action Areas to translate AI ethics values into policy across education, data governance and other spheres](policy-action-areas-translate-ai-ethics-values.md)
 
 ## Examples
 -

@@ -42,6 +42,9 @@ The review attributes this to Fillmore's dissertation (1976) on children's cogni
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Adult ESL learners in a planned informal total-immersion program made significantly greater communication-skill progress than a control group, with structural-skill progress not significantly different](immersion-esl-greater-communication-progress.md) — related
 - [Situational communication exercises alone produced statistically significant progress in both structural and communication skills](situational-exercises-significant-progress.md) — related

@@ -61,6 +61,9 @@ Review synthesis (citing Ingkavara et al., 2022) presenting the evaluation trans
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — outcome: instruction changes it
+
 ## Related Claims
 - [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
@@ -71,3 +74,4 @@ Review synthesis (citing Ingkavara et al., 2022) presenting the evaluation trans
 - [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — related
 - [AI-supported project-based learning at YCHS produced authentic student-designed products through iterative prompting and refinement](ai-supported-pbl-authentic-student-products.md) — a narrower finding that bears on this claim
 - [Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs](hands-on-genai-seminars-raise-critical-assessment.md) — related
+- [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — related
