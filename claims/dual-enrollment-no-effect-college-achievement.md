@@ -49,3 +49,5 @@ Berger et al. (2014), an RCT comparing college grade point averages of intervent
 - [Dual enrollment programs have positive effects on completing high school, with an average improvement index of +7 percentile points](dual-enrollment-positive-completing-high-school.md) — related
 - [Dual enrollment programs have positive effects on college degree attainment, with an average improvement index of +25 percentile points](dual-enrollment-positive-degree-attainment.md) — related
 - [FLIGHT shows no discernible effects on general high school academic achievement (GPA)](flight-no-discernible-effect-high-school-gpa.md) — related
+- [Dual enrollment classes taken exclusively on the high school campus show no statistically significant gains in college outcomes](high-school-campus-dual-enrollment-no-significant-gains.md) — related
+- [Only dual enrollment and early college high school studies documented rural inclusion, and none analyzed rural students separately](no-rural-effectiveness-evidence-college-readiness-interventions.md) — related

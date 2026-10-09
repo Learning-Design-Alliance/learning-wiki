@@ -43,6 +43,7 @@ The NIH Intramural Research Loan Repayment Program is a program evaluated by Mat
 ## Related Elements
 
 - [Mathematica national evaluation of four early elementary math curricula](mathematica-four-curricula-evaluation-study.md)
+- [NIH Intramural Loan Repayment Programs](nih-intramural-loan-repayment-programs.md)
 
 ## Examples
 -

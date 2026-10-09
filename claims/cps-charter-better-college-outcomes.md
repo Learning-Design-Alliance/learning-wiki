@@ -70,3 +70,5 @@ Chapter 5 college persistence analysis of the 2008-10 cohorts among high school 
 - [Green Dot Public Schools increase high school graduation and college-preparatory (A-G) graduation for students entering ninth grade (potentially positive effects rating)](green-dot-positive-student-progression.md) — related
 - [There was substantial variation among charter high schools on test scores, college enrollment, and college selectivity—more variation than among non-charter schools once incoming characteristics were controlled](cps-charter-variation-among-schools.md) — related
 - [Bottom Line increases enrollment in a four-year college among low-income high school students](bottom-line-increases-four-year-college-enrollment.md) — related
+- [Chicago multi-grade charter high schools appear to increase the probability of enrolling in college](chicago-multigrade-charter-high-schools-college-entry-gains.md) — related
+- [College Track completers enrolled in college at higher rates than similar students, and were much more likely to enroll in four-year colleges](college-track-completers-higher-college-enrollment.md) — related

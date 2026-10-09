@@ -52,3 +52,8 @@ The article's framing of the literature states that "various studies have examin
 - [Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts](sed-behavior-impacts-exceed-test-score-impacts-long-run.md) — related
 - [After two years, fewer graduates attended career academies and neighborhood high schools and more attended charter schools; these shifts were no different from comparison schools](success-project-high-school-enrollment-shifts.md) — related
 - [Schools positively impacting one promotion power measure are more likely to positively impact other long-term outcomes, but many show varying effectiveness across outcomes](promotion-power-correlates-across-outcomes-with-variation.md) — related
+- [Charter high school effects on attainment hold in both Chicago and Florida after controlling for prior charter middle school enrollment](charter-high-school-effects-both-locations-with-controls.md) — related
+- [The brief suggests charter high schools may boost both postsecondary attainment and long-run earnings](charter-high-schools-attainment-and-long-run-earnings-suggestion.md) — related
+- [Charter high schools have positive effects on educational attainment in Florida and Chicago](charter-high-schools-positive-attainment-effects-florida-chicago.md) — related
+- [Chicago charter high schools have large positive effects on earnings in adulthood](chicago-charter-high-schools-large-earnings-effects.md) — related
+- [Evaluations of charter schools limited to test scores may fail to capture important benefits](test-score-only-evaluations-miss-charter-benefits.md) — related

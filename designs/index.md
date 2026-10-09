@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**249 entries** · 0 stable · 0 in review · 249 drafts
+**252 entries** · 0 stable · 0 in review · 252 drafts
 
 ---
 
@@ -53,6 +53,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design](cbl-cel-coil-cuc-integrated-course-pattern.md) - The article presents a course-level design pattern in which societal engagement (via CBL and CEL), a global challenge, and collaboration (via COIL and a cross-university collaboration) are combined.
 * [Combining visual demonstrations, guided inquiry, computational-model manipulation, and group discussion to teach cutting-edge science concepts](demo-inquiry-model-discussion-sequence.md) - This instructional pattern sequences four modes of engagement around one scientific concept: a physical demonstration, a guided-inquiry worksheet, manipulation of a computational model, and group discussion.
 * [Community-building through celebratory traditions: quarterly awards, bridging ceremonies, and staff-family-student recognition](celebratory-traditions-school-community.md) - This pattern uses recurring celebratory events to build school community and reinforce culture.
+* [Compress or mainstream developmental education with course redesign](wwc-compress-mainstream-developmental-education.md) - The guide recommends compressing or mainstreaming developmental education through course redesign, an instructional intervention affecting the content and pacing of classroom instruction.
 * [Connect with Kids lesson sequence: trait introduction, video, teacher-led discussion, and delayed follow-up activity](cwk-video-discussion-followup-lesson-sequence.md) - Each Connect with Kids lesson follows a recurring instructional sequence: \"Each lesson begins with an introduction of the trait being taught followed by the Connect with Kids video for that trait.\" The video is follow...
 * [Content Literacy Continuum: tiered schoolwide literacy structure combining whole-class routines with targeted intensive instruction](content-literacy-continuum-tiered-structure.md) - The Content Literacy Continuum (CLC) organizes schoolwide literacy efforts into tiers: whole class/whole school instruction through CLC routines applied across classes by content and support teachers, and a targeted t...
 * [Cooperative learning groups with paired reading, vocabulary practice, and structured partner discussion guides](tdhs-cooperative-strategic-reading-structure.md) - In Strategic Reading, students work in small, interdependent cooperative learning groups.
@@ -128,6 +129,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### H {: #letter-h }
 
+* [Hands-on math-science exposure pattern: labs, computer facilities, field sites, and scientist contact](ubms-hands-on-stem-exposure-pattern.md) - The UBMS design pattern combines practical STEM settings with expert contact: grantees \"provide participants with hands-on experience in laboratories, computer facilities, and at field sites, as well as opportunities...
 * [High dosage tutoring implementation factor set: frequency and scheduling, group size, qualified personnel, outcome measurement, curriculum, tutor-to-student relationships, and removing barriers to access](high-dosage-tutoring-implementation-factors.md) - The brief organizes effective high dosage tutoring around a set of implementation factors that \"must be considered and included to implement high dosage tutoring effectively.\" These are \"frequency and scheduling, grou...
 * [Highly structured, sequenced progression of research stages guiding online trainee researchers](structured-sequenced-research-stages-pattern.md) - The TPI working procedures evolved from an initial version covering only research project stages to a final version adding work patterns for tutor and student, action and implementation, and relation to virtual tutori...
 * [Holistic, place-based, time-bound Indigenous teaching pattern](holistic-place-based-time-bound-indigenous-teaching.md) - In the Elders' teaching of Indigenous knowledge in this study, all forms of knowledge were taught holistically rather than divided into disciplines, avoiding what Nadasdy called compartmentalization of IK.
@@ -172,6 +174,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Model-lead-test lesson format with progress monitoring and re-teaching](model-lead-test-reteach-lesson-pattern.md) - Each SSL lesson sequences four to six activities and follows a model-lead-test format: \"The teacher first models the target skill.
 * [Moderate-disturbance classrooms merge consultation into the quiet room and add group-project space](moderate-disturbance-shared-quiet-consultation-room.md) - For moderately disturbed children the booklet relaxes the severe-disorder scheme: \"Classrooms for moderately disturbed children differ from those for severely disturbed children in the elimination of separate consulta...
 * [Multi-audience interactive module pattern: layered explanatory text plus parameter-adjustable simulation](multi-audience-layered-module-pattern.md) - The student modules share a reusable design: an interactive simulation whose physical parameters users can adjust, accompanied by explanatory text layered for different audiences.
+* [Multi-site pipeline program with mixed component offerings across sites](smdep-multi-site-mixed-components-pattern.md) - SMDEP is implemented as a single program model across \"12 sites across the nation,\" with variation in offerings: \"Three sites offer only the program's medical component, whereas the others offer both the medical and d...
 * [Multilevel Professional Development School Partnership](multilevel-professional-development-school-partnership.md) - A three-tier meeting structure — a strategic policy group, a middle-management "broad knowledge community," and within-school "small knowledge communities" — for building a durable research-practice partnership between a teacher-education institution and multiple schools.
 
 #### N {: #letter-n }

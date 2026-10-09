@@ -64,3 +64,4 @@ School-type comparison of ACT score trends during Era 3 (Chapter 4 heading and a
 ## Related Claims
 - [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — related
 - [Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior](ninth-grade-gpa-increase-with-achievement-trends.md) — related
+- [ACT participation is positively selected across schools: higher-achieving schools have higher participation rates](positive-across-school-selection-act-participation.md) — related

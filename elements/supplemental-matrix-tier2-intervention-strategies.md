@@ -46,7 +46,8 @@ The study team developed a supplemental matrix (table 2) that "outlines essentia
 - [None of the WWC-standards-meeting studies of Tier 2 literacy interventions were conducted in CNMI or other Pacific islands, limiting generalizability](../claims/no-tier2-literacy-studies-conducted-in-cnmi.md) [+W]
 
 ## Related Elements
-- 
+
+- [Table 1 evidence matrix mapping interventions to ESSA evidence tiers across eleven outcome domains](table1-essa-evidence-matrix-college-career-readiness.md)
 
 ## Examples
 

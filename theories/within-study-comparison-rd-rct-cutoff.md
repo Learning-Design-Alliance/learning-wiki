@@ -51,6 +51,7 @@ The article's methodological framework is the within-study comparison: each of 1
 
 - [Synthetic within-study comparison design for assessing RD performance](../elements/synthetic-within-study-comparison-rd.md)
 - [Simulate RD analysis files by selectively dropping observations from experimental data files](../strategies/simulate-rd-files-by-dropping-observations.md)
+- [Match statistical control methods to variable structure and measurement quality, preferring stratification, covariate adjustment, matching, or regression discontinuity accordingly](../strategies/statistical-control-method-selection-strategy.md)
 
 ## Key Sources
 - Duncan D. Chaplin, Thomas D. Cook, Jelena Zurovac, Jared S. Coopersmith, Mariel M. Finucane, Lauren N. Vollmer, Rebecca E. Morris. (2018). The Internal and External Validity of the Regression Discontinuity Design: A Meta-Analysis of 15 Within-Study Comparisons. Journal of Policy Analysis and Management, vol. 37, issue 2. https://www.mathematica.org/publications/the-internal-and-external-validity-of-the-regression-discontinuity-design-a-meta-analysis-of-15

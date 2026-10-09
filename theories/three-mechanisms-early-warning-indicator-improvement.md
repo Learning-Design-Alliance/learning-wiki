@@ -51,6 +51,7 @@ The article organizes the use of ninth-grade early warning indicators around thr
 - [Monitor freshman-year grades and intervene early, treating D students as needing attention comparable to F students](../strategies/monitor-freshman-gpa-early-warning-strategy.md)
 - [Use school-level data systems to identify which students need which types of support for dropout prevention](../strategies/school-level-data-systems-identify-student-support-needs.md)
 - [Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress](../strategies/early-warning-data-and-credit-recovery-strategy.md)
+- [Integrate attendance and GPA on-track indicators with qualitative data into elementary systems of student support](../strategies/elementary-on-track-indicator-support-systems-strategy.md)
 
 ## Key Sources
 - Using Early Warning Indicators to Improve Student Performance in Chicago High Schools. (2013). Journal of Education for Students Placed at Risk (JESPAR). https://www.tandfonline.com/journals/jespar

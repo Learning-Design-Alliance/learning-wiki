@@ -47,6 +47,7 @@ The brief defines value added as a way of quantifying teaching quality: "'Value 
 
 - [Value-added models as a method for separating teachers' contributions to student achievement from other factors](value-added-models-separate-teacher-contributions.md)
 - [Value-added measurement of teacher performance as the basis for defining highest-performing teachers](value-added-teacher-performance-measurement-nccee-brief.md)
+- [Value-added methods as the measure of teacher quality for studying mobility](value-added-measures-of-teacher-quality-mobility.md)
 
 ## Examples
 

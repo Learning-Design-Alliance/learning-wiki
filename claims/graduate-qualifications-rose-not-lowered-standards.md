@@ -51,3 +51,4 @@ Trend analysis of graduate qualifications (Chapter 2). The proportion of student
 - [ACT scores rose even with more test takers, growing most in Era 3 in selective enrollment and racially integrated schools](act-scores-rose-most-selective-integrated-schools.md) — related
 - [Chicago high school graduation rates improved dramatically over 20 years without a decline in average high school academic performance](cps-graduation-rates-improved-without-performance-decline.md) — related
 - [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — reports the opposite
+- [ACT participation is positively selected across schools: higher-achieving schools have higher participation rates](positive-across-school-selection-act-participation.md) — related

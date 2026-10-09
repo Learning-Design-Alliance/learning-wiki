@@ -47,3 +47,4 @@ Comparative analysis of associations between relational trust and school enrollm
 - [Relational trust appears to materialize in schools regardless of vast differences in environments](relational-trust-materializes-regardless-of-environments.md) — related
 - [Socioeconomically disadvantaged schools are less likely to be strong in the essentials, with a stronger effect in Chicago than the rest of Illinois](socioeconomic-disadvantage-essentials-strength.md) — related
 - [Teacher-parent trust was much lower in Valparaíso than in Illinois](teacher-parent-trust-lower-valparaiso.md) — related
+- [Strength on most 5Essentials measures was similarly likely across poverty levels, but five measures were less prevalent in high-poverty schools](5essentials-five-measures-less-prevalent-high-poverty.md) — related

@@ -44,3 +44,5 @@ Descriptive translation of value-added estimates into percentile units, derived 
 
 ## Related Claims
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
+- [Incorporating teachers' revealed comparative advantage into teacher-replacement policy decisions would generate an estimated $3,000 in additional student lifetime earnings per classroom](comparative-advantage-policy-earnings-gains.md) — related
+- [Teacher impacts on Black students' test scores vary widely, from 0.2 standard deviations in middle school English to 0.5 standard deviations in elementary school math between high- and low-effectiveness teachers](teacher-effectiveness-black-students-varies-widely.md) — related

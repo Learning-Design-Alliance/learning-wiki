@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/never-expelled-stronger-predictor-marginalized-groups.md
+---
+
+# Revision history: [claims/never-expelled-stronger-predictor-marginalized-groups](../claims/never-expelled-stronger-predictor-marginalized-groups.md)
+
+### 2026-10-09 · ingest · process:wiki-ingest
+Ingested from hub-353 (Student Group Differences in Arkansas' Indicators of Postsecondary Readiness and Success) via eval_harness.py + ingest_extractions.py

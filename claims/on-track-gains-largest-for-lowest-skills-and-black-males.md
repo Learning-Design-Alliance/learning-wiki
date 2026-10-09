@@ -49,3 +49,4 @@ Subgroup analysis in Table 1 of 2005 versus 2013 on-track rates by EXPLORE categ
 - [Rising ninth-grade on-track rates did not negatively affect schools' average ACT scores](on-track-gains-did-not-lower-act-scores.md) — related
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — possibly the same claim (merge candidate)
 - [CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017](cps-freshman-ontrack-rose-25-points.md) — a broader claim this one bears on
+- [The share of students in the On-Track category increased by 20 percentage points between 2009 and 2019 while the Intensive Support share decreased from 12 to 8 percent](condensed-eot-ontrack-increase-over-time.md) — related

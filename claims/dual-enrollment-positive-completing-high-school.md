@@ -50,3 +50,4 @@ Systematic review synthesis of two randomized controlled trials without reservat
 - [Dual enrollment programs have positive effects on college access and enrollment, with an average improvement index of +15 percentile points](dual-enrollment-positive-college-access-enrollment.md) — related
 - [Dual enrollment programs have potentially positive effects on staying in high school, college readiness, and attendance (high school), each with a small extent of evidence](dual-enrollment-potentially-positive-staying-readiness-attendance.md) — related
 - [The average improvement index for New Chance on completing school is +8 percentile points](new-chance-improvement-index-plus-8.md) — related
+- [Only dual enrollment and early college high school studies documented rural inclusion, and none analyzed rural students separately](no-rural-effectiveness-evidence-college-readiness-interventions.md) — related

@@ -43,3 +43,4 @@ The guide's School District as Independent Gatekeeper section explains that dist
 ## Related Claims
 - [Survey item sensitivity determines the parental permission pathway, from full waiver to active opt-in](survey-sensitivity-drives-parental-permission.md) — related
 - [Small additions of research-specific procedures can shift a study out of exempt review](small-procedure-additions-change-review-path.md) — related
+- [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related

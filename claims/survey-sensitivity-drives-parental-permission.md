@@ -42,3 +42,4 @@ The guide's Common Parental Permission Pathways section distinguishes three tier
 
 ## Related Claims
 - [School districts act as independent gatekeepers whose requirements can exceed IRB determinations](district-independent-gatekeeper-edtech-research.md) — related
+- [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related

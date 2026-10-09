@@ -45,3 +45,4 @@ Design-comparison study of the DC school report card. The summary reports that "
 ## Related Claims
 - [Moving the link to the STAR framework from the top of the page to beneath the STAR score improved the school report card site's usability](star-link-beneath-score-improves-usability.md) — related
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — related
+- [Supporting user interaction and control in the indicator implementation process positively affects transparency, trust, satisfaction, and acceptance in LA](ssla-user-control-improves-transparency-trust-acceptance.md) — related

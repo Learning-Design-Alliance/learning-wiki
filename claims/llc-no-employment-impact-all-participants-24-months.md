@@ -47,3 +47,4 @@ Null employment finding from the 24-month RCT impact analysis: no effect on empl
 - [Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment](way2work-no-employment-expectation-effects.md) — related
 - [Way2Work Maryland did not affect postsecondary education and training outcomes, but more treatment group members completed high school within two years of enrollment](way2work-high-school-completion-gain-no-postsecondary-effect.md) — related
 - [LLC produced large impacts on service use in the two years after enrollment, particularly services the program intended to offer](llc-large-impact-service-use-two-years.md) — related
+- [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](coaching-associated-employment-earnings-gains.md) — related

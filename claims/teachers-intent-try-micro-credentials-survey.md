@@ -58,3 +58,4 @@ A nationally representative teacher survey conducted by Digital Promise, reporte
 - [Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)](readworks-features-raise-teacher-assignment-ambitions.md) — related
 - [Teachers find skill-development features of micro-credentials most appealing and badge sharing and display least appealing](skill-features-appeal-more-than-badges.md) — related
 - [Teachers report willingness to invest meaningful time in earning micro-credentials, averaging 4.2 hours for evidence collection, with some willingness to fund assessment](teacher-time-investment-micro-credentials.md) — related
+- [Changes in the credentialing market have produced demand for shorter credentials focused around job market competencies](credentialing-market-demand-shorter-competency-credentials.md) — related

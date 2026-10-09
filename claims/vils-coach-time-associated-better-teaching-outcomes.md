@@ -46,3 +46,4 @@ Digital Promise researchers' analysis of three surveys administered across the 2
 - [Educators grew more confident supporting student autonomy and leading media production through the program](360-filmmakers-challenge-educator-confidence-autonomy.md) — related
 - [Sustained administrator involvement in coaching programs is associated with less teacher stress, better perceived coaching skills, and more improvement in teaching practices](administrator-involvement-improves-coaching-outcomes.md) — related
 - [Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open](dlp-multiple-cycles-greater-progress.md) — a narrower finding that bears on this claim
+- [Coached teachers report greater impact of their technology use on student engagement and learning](coaching-increases-perceived-itu-impact-engagement-learning.md) — related

@@ -47,3 +47,4 @@ Descriptive finding from the study's data on 80 teacher training programs: "Most
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
 - [Coursework hour requirements varied widely across certification programs and did not consistently differ by route](coursework-hours-vary-by-route-and-state.md) — related
 - [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on
+- [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related

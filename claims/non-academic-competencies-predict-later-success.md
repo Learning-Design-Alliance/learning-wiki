@@ -45,3 +45,4 @@ The issue brief's own summary of its analysis of how students' high school compe
 ## Related Claims
 - [Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex](no-group-or-sex-effect-on-locus-of-control.md) — related
 - [Redshirted students may have potentially lower lifetime earnings because they enter the labor force a year later](redshirting-potentially-lower-lifetime-earnings.md) — related
+- [NELS indicators of math skills, work habits, leadership, teamwork and sports-related skills, and locus of control are related to postsecondary earnings and to the likelihood of attending and completing postsecondary education](nels-competencies-predict-postsecondary-attainment-earnings.md) — possibly the same claim (merge candidate)

@@ -45,3 +45,5 @@ The publication describes the design of an ongoing five-year evaluation of the c
 ## Related Claims
 - [Administrators gave a cautious assessment of the ABCTE Passport to Teaching program that certified the teachers](principals-cautious-assessment-abcte-program.md) — related
 - [School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys](principals-positive-assessment-abcte-certified-teachers.md) — related
+- [Students of ABCTE-certified teachers and non-ABCTE teachers show no difference in reading achievement gains in Florida](abcte-florida-no-reading-gain-difference.md) — related
+- [Propensity score matching was used to build a comparison group of Florida teachers for estimating ABCTE certification effects](abcte-florida-propensity-score-matching-design.md) — related

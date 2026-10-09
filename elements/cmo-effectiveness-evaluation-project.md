@@ -52,6 +52,7 @@ The page identifies an associated project, "Evaluating the Effectiveness of Char
 - [TurnNJ whole-school turnaround project](turnnj-whole-school-turnaround-project.md)
 - [National randomized study of charter school effectiveness (Working Paper 3, Mathematica Policy Research)](national-randomized-charter-study-working-paper-3.md)
 - [National Study of CMO Effectiveness interim report on charter school outcomes](national-study-cmo-effectiveness-interim-report.md)
+- [National Evaluation of Charter Middle Schools](national-evaluation-of-charter-middle-schools.md)
 
 ## Examples
 

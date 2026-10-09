@@ -52,6 +52,7 @@ The evaluation method used for this report: a quasi-experimental, matched compar
 - [Use a matched comparison group design plus qualitative mechanism exploration to evaluate a new charter school's educational and behavioral impacts](../strategies/matched-comparison-plus-qualitative-mechanisms-charter-evaluation.md)
 - [Use a matched comparison group design with qualitative mechanism exploration to evaluate charter school impacts](../strategies/matched-comparison-group-design-with-qualitative-mechanism-exploration.md)
 - [Evaluate charter school impacts across college enrollment, graduation, attendance, and suspensions over multiple years](../strategies/multi-year-charter-impact-evaluation-strategy.md)
+- [Pair implementation description with quasi-experimental impact estimation in program evaluation](../strategies/smdep-implementation-plus-psm-evaluation-strategy.md)
 
 ## Key Sources
 - Matthew Johnson, Eric Lundquist, Alicia Demers, Cleo Jacobs Johnson, Claudia Gentile. (2016). Ewing Marion Kauffman School Evaluation Impact Report: Year 3. Mathematica Policy Research. https://www.mathematica.org/publications/ewing-marion-kauffman-school-evaluation-impact-report-year-3

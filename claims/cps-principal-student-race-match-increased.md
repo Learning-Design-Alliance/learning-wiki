@@ -45,3 +45,5 @@ Figure 5 trend analysis extends the 1996 turnover report's match finding through
 ## Related Claims
 - [Principals of color became the majority of CPS principals, rising most sharply from 1989 to 1996](cps-principals-of-color-majority-trend.md) — related
 - [NBCTs are more likely than other teachers to work in magnet schools and less likely to work in the poorest and predominantly African American schools](nbcts-disproportionately-magnet-schools.md) — related
+- [Three of every four Black and white CPS students have a principal of the same race/ethnicity, and 69% of CPS principals are female versus 54% nationwide](cps-principal-student-race-match-and-gender.md) — related
+- [CPS principals are more racially and ethnically diverse than principals in other urban areas and nationally, and newer principals are more likely to be Black than the overall CPS principal population](cps-principals-more-racially-ethnically-diverse.md) — related

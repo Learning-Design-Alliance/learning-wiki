@@ -45,3 +45,4 @@ Personnel-data trend analysis (Figures 3 and 4) reports the 1989-1996 increase "
 ## Related Claims
 - [The proportion of female CPS elementary principals rose from under half in 1989 to over 70 percent in 2007, while high schools became evenly split](cps-female-principals-increase-trend.md) — related
 - [The match between principal race/ethnicity and the majority race of students in CPS schools increased over time](cps-principal-student-race-match-increased.md) — related
+- [Three of every four Black and white CPS students have a principal of the same race/ethnicity, and 69% of CPS principals are female versus 54% nationwide](cps-principal-student-race-match-and-gender.md) — related

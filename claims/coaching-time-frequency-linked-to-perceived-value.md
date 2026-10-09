@@ -46,3 +46,4 @@ Survey findings on meeting frequency (Figure 17): teachers who find coaching val
 - [DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers](dlp-versus-other-coaching-programs-comparison.md) — related
 - [Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month](mentoring-activity-time-varied-widely.md) — related
 - [More than three-quarters of educator respondents find coaching valuable and impactful on their practice](educators-find-coaching-valuable-and-impactful.md) — related
+- [Most coached teachers report improvement across classroom challenge categories after working with a coach](coaching-improves-classroom-challenge-categories.md) — related

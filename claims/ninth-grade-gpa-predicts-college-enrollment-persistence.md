@@ -48,3 +48,5 @@ Analysis of CPS records linked to National Student Clearinghouse data (2008-10 c
 - [NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative](nlci-high-school-outcomes-lower-than-similar-students.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
 - [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related
+- [The College Experiences Survey was conducted as part of an evaluation of factors associated with college persistence and attrition](college-experiences-survey-attrition-evaluation.md) — related
+- [Ten percent of CPS graduates who did not enroll in college within six years had an average high school GPA above 3.0, a missed opportunity for high-achieving students](high-gpa-non-enrollers-missed-opportunity.md) — related

@@ -48,3 +48,5 @@ Methodological description of the companion document: seven profiles, one per ag
 - [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — related
 - [Agency data-use profiles were developed from fall and winter 2013–14 site visit interviews](profiles-from-site-visit-interviews-2013-14.md) — related
 - [The NIH Intramural Research Loan Repayment Program evaluation combined an outcomes evaluation with a process analysis drawing on focus groups, staff interviews, and administrative data](nih-lrp-mixed-process-outcomes-evaluation.md) — related
+- [The report's evidence base comprises program documentation, teacher focus groups, and telephone interviews with school officials](career-ladder-profile-mixed-qualitative-sources.md) — related
+- [CBE practices at the consortium colleges were identified through document review, site visits, and stakeholder interviews](cbe-practices-identified-via-review-visits-interviews.md) — related

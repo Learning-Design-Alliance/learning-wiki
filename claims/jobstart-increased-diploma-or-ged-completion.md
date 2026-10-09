@@ -52,3 +52,4 @@ Randomized controlled trial by Cave et al. (1993) in 13 sites in nine states; 2,
 - [New Chance's completion effect came entirely from GED receipt, with a small negative effect on earning a high school diploma](new-chance-ged-positive-diploma-negative.md) — related
 - [Job Corps' completion effect came entirely from GED receipt, with a small statistically significant negative effect on earning a high school diploma](job-corps-ged-gain-diploma-decline.md) — related
 - [The JOBSTART and control groups showed no statistically significant baseline differences on compared characteristics](jobstart-rct-baseline-balance.md) — related
+- [Regular Upward Bound produces a statistically significant increase in the likelihood of earning a postsecondary certificate or license from a vocational school](upward-bound-increases-vocational-certificate-license.md) — related

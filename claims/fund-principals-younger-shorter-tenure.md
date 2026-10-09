@@ -47,3 +47,4 @@ Analysis of CCSR 2007 principal survey and CPS personnel records comparing Fund-
 - [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](residency-leaky-pipeline-limited-roi.md) — related
 - [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related
 - [No differences in student learning gains found between LAUNCH or NLNS principals and comparable or veteran principals](no-learning-gains-differences-launch-nlns-principals.md) — related
+- [Latinx principals are underrepresented relative to the CPS student population](latinx-principals-underrepresented-cps.md) — related

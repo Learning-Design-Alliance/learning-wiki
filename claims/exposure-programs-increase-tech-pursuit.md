@@ -49,3 +49,4 @@ The scan's key idea following its compilation of exposure and exploration resour
 - [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related
 - [Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes](career-pathways-design-moderate-evidence.md) — related
 - [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — related
+- [Coaches appeared to expand exposure to and completion of community college programs, consistent with the strategy's goals](coaching-expanded-program-exposure-completion.md) — related

@@ -46,3 +46,5 @@ The WWC review of Roder & Elliott (2014), based on 143 students, rated credentia
 - [Year Up may result in little to no change in medium-term employment](year-up-no-effect-medium-term-employment.md) — related
 - [Year Up may result in little to no change in short-term employment](year-up-no-effect-short-term-employment.md) — related
 - [Year Up is likely to increase short-term earnings for low-income young adults](year-up-positive-short-term-earnings.md) — related
+- [Community colleges are well positioned to lead the emerging credentialing market for three stated reasons](community-colleges-positioned-lead-credentialing-market.md) — related
+- [Regular Upward Bound produces a statistically significant increase in the likelihood of earning a postsecondary certificate or license from a vocational school](upward-bound-increases-vocational-certificate-license.md) — related

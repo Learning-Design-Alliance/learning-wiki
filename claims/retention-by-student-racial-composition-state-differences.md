@@ -48,3 +48,4 @@ Four-year retention analysis by school racial composition (figure 5) from state 
 - [Proportionally fewer principals remained at lower-performing schools than at higher-performing schools across all three states (three-year retention)](lower-retention-at-below-average-proficiency-schools.md) — related
 - [The locale types with the lowest four-year principal retention differed across the three states](locale-retention-patterns-differ-by-state.md) — related
 - [One-year principal retention rates were stable from fall 2016 to fall 2020 and did not decline during the COVID-19 pandemic year](one-year-principal-retention-stable-through-covid.md) — related
+- [New principals' five-year retention differs by school level, student-body racial composition, and free/reduced-price lunch category](cps-new-principal-retention-differentials.md) — related

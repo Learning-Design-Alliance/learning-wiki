@@ -40,7 +40,8 @@ Virginia RETHINKS pursued student success in health sciences through a bundle of
 - [Virginia Rethinks Three Goal Grant Design](../theories/virginia-rethinks-three-goal-grant-design.md)
 
 ## Related Strategies
-- 
+
+- [Use multi-college consortia funded through TAACCCT to build career pathways for dislocated and low-skilled workers](taaccct-consortium-career-pathways-strategy.md)
 
 ## Examples
 -

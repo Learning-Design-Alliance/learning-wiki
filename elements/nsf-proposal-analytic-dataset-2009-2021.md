@@ -48,7 +48,8 @@ An administrative dataset assembled from NSF's Solr API, Fastlane database, Repo
 - [Synthetic control counterfactuals performed poorly for BIO NDL programs because few comparison programs were available](../claims/synthetic-control-poor-fit-bio-few-comparisons.md) [+W]
 
 ## Related Elements
-- 
+
+- [NSF Research Experiences for Undergraduates (REU) program](nsf-reu-program-element.md)
 
 ## Examples
 

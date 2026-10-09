@@ -48,3 +48,4 @@ Systematic review ratings from single studies, all Edmunds et al. (2015), an RCT
 - [Dual enrollment programs have positive effects on college access and enrollment, with an average improvement index of +15 percentile points](dual-enrollment-positive-college-access-enrollment.md) — related
 - [Dual enrollment programs have positive effects on general academic achievement (high school), with an average improvement index of +7 percentile points](dual-enrollment-positive-hs-achievement.md) — related
 - [Dual enrollment programs have positive effects on college degree attainment, with an average improvement index of +25 percentile points](dual-enrollment-positive-degree-attainment.md) — related
+- [Only dual enrollment and early college high school studies documented rural inclusion, and none analyzed rural students separately](no-rural-effectiveness-evidence-college-readiness-interventions.md) — related

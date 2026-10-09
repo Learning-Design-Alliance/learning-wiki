@@ -44,3 +44,4 @@ The guide cites, in a footnote on program goals, a meta-analysis of 73 after-sch
 
 ## Related Claims
 - [Enhanced math instruction adapted to after-school settings produced modest but statistically significant math gains after one year, while enhanced reading instruction showed no differences](enhanced-academic-instruction-math-gains-reading-null.md) — related
+- [UBMS provides intensive academic instruction in math and science](ubms-intensive-academic-instruction.md) — related

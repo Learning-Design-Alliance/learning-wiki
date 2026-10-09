@@ -39,11 +39,13 @@ Onto-epistemic heterogeneity (OEH) proposes that ontology (who learners are, the
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](../claims/positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) [+W]
 
 ## Related Theories
+
 - [Situated Learning](situated-learning.md) — both treat knowledge as inseparable from the social and cultural context of the knower
 - [Constructivism](constructivism.md) — extends constructivist meaning-making by treating identity and cultural positioning, not just prior knowledge, as constitutive of what is learned
 - [Cultural-Historical Activity Theory](cultural-historical-activity-theory.md) — both frameworks treat participants' distinct histories and ways of knowing as shaping the object of learning, rather than as noise to be normalized away
 - [Funds of Knowledge](funds-of-knowledge.md) — a more operationally concrete cousin: specific, elicitable household and community practices as instructional resources, rather than a broader epistemological stance
 - [Epistemic Injustice](epistemic-injustice.md) — shares the commitment to treating marginalized learners' lived experience as a constitutive epistemic resource; epistemic injustice specifically names the credibility and interpretive-resource harms that occur when that experience is dismissed
+- [Disciplinary identity as a developmental process across the academic life course](disciplinary-identity-developmental-life-course.md)
 
 ## Examples
 - [Cultural & Life Experiences Connections](../principles/cultural-life-experiences-connections.md) — OEH gives a theoretical account of why treating learners' lived experience as an epistemic resource (not just a motivational hook) supports deeper, more critical understanding

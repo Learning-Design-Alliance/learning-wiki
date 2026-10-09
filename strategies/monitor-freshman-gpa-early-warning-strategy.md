@@ -42,6 +42,7 @@ The article supports district and school use of ninth-grade GPA as an early warn
 
 - [Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress](early-warning-data-and-credit-recovery-strategy.md)
 - [Focus school improvement efforts on the ninth-grade transition using real-time data to monitor and support at-risk freshmen](ninth-grade-on-track-data-strategy.md)
+- [Integrate attendance and GPA on-track indicators with qualitative data into elementary systems of student support](elementary-on-track-indicator-support-systems-strategy.md)
 
 ## Examples
 -

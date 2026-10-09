@@ -47,6 +47,8 @@ Passport to Teaching is a teacher certification credential developed by the Amer
 
 - [Passport to Teaching: ABCTE's examination-based certification approach for identifying competent teachers regardless of preparation route](passport-to-teaching-abcte-exam-certification.md)
 - [Mathematica random assignment study of alternative routes to teacher certification](mathematica-alt-cert-random-assignment-study.md)
+- [American Board for Certification of Teacher Excellence (ABCTE) alternative teacher certification](abcte-alternative-certification-element.md)
+- [Passport to Teaching, an alternative certification program offered by the American Board for Certification of Teacher Excellence (ABCTE)](passport-to-teaching-abcte-program.md)
 
 ## Examples
 -

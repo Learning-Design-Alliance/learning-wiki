@@ -49,3 +49,4 @@ Descriptive comparison of teacher characteristics across certification routes fo
 - [Elementary students taught by teachers from less selective alternative routes had test scores similar to peers taught by traditional-route teachers](elementary-less-selective-alt-routes-similar-traditional.md) — related
 - [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on
 - [Research by others indicates pairing teachers and students of the same race significantly increases reading and math achievement of Black and White students and raises high school completion probability](race-matched-teacher-achievement-benefits.md) — related
+- [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related

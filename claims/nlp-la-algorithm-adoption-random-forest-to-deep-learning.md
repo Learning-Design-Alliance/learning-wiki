@@ -74,3 +74,4 @@ Feature-adoption analysis over time (Figure 7, RQ6): in 2021–2023 word embeddi
 - [NLP-for-LA research is heavily biased toward English-language texts and small datasets, with almost no open datasets](nlp-la-english-small-dataset-bias.md) — related
 - [Most NLP-for-LA studies (89.10%) never apply their models in real educational settings, revealing a gap between model development and practical use](nlp-la-gap-model-development-practical-use.md) — related
 - [Online discussions are the predominant textual product analyzed with NLP in learning analytics, followed by essays](nlp-la-online-discussions-predominant-textual-resource.md) — related
+- [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — related

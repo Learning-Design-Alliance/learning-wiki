@@ -50,3 +50,4 @@ The playbook's research-summary section states that "How students respond to sur
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness](attendance-effort-drive-grades-graduation.md) — related
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related
+- [The College Experiences Survey was conducted as part of an evaluation of factors associated with college persistence and attrition](college-experiences-survey-attrition-evaluation.md) — related

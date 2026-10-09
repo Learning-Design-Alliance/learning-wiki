@@ -46,6 +46,8 @@ The Passport to Teaching is an examination-based teacher certification approach 
 
 - [Passport to Teaching program of the American Board for Certification of Teacher Excellence](passport-to-teaching-certification-program.md)
 - [IES Research Conference presentation on teacher certification route evaluation](ies-conference-presentation-certification-routes.md)
+- [American Board for Certification of Teacher Excellence (ABCTE) alternative teacher certification](abcte-alternative-certification-element.md)
+- [Passport to Teaching, an alternative certification program offered by the American Board for Certification of Teacher Excellence (ABCTE)](passport-to-teaching-abcte-program.md)
 
 ## Examples
 -

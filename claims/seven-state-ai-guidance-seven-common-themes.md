@@ -46,3 +46,4 @@ Document review of guidance from California, North Carolina, Ohio, Oregon, Virgi
 - [DPS's evaluation process led schools to use safer edtech products by prioritizing student data privacy and accessibility review](dps-evaluation-safer-edtech-products.md) — related
 - [State AI guidance describes risks but risk-management work is at an early stage, with some documents possibly too upbeat given school readiness](state-ai-guidance-risks-early-stage.md) — related
 - [State guidance documents describe opportunities for AI in education with encouraging tones that recommend safe exploration](state-ai-guidance-opportunities-safe-exploration.md) — related
+- [The institution maintained privacy primarily through role-based access limiting data by user role and through technological security protocols such as single sign-on and encryption](role-based-access-and-security-privacy-methods.md) — related

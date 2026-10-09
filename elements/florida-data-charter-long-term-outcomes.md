@@ -49,7 +49,10 @@ The study uses administrative data from Florida to link students' charter high s
 - [Charter high schools in Florida and Chicago showed substantial positive effects on both high school completion and college attendance](../claims/charter-schools-positive-attainment-effects.md) [+W]
 
 ## Related Elements
-- 
+
+- [Chicago and Florida administrative data for estimating charter high school attainment effects](chicago-florida-charter-attainment-dataset.md)
+- [Mathematica issue brief on charter high schools' attainment and earnings effects](mathematica-charter-high-school-attainment-earnings-brief.md)
+- [Mathematica Working Paper 29 on charter high schools' long-term attainment and earnings effects](mathematica-working-paper-29-charter-long-term-effects.md)
 
 ## Examples
 -

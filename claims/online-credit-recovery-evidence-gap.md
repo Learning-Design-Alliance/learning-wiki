@@ -48,3 +48,4 @@ The article's stated rationale for the randomized trial: online credit recovery 
 - [Students in online Algebra I credit recovery reported that the course was more difficult than students in face-to-face credit recovery reported](online-credit-recovery-perceived-more-difficult.md) — related
 - [Online Algebra I credit recovery students were less likely to recover credit and scored lower on an algebra post-test than face-to-face students](online-credit-recovery-lower-credit-and-posttest.md) — related
 - [Embedding test-taking strategies and ACT practice items in algebra improved practice ACT mathematics scores (McMann, 1994; effect size 0.34)](algebra-embedded-act-strategies-improve-math-mcmann.md) — related
+- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — a narrower finding that bears on this claim

@@ -49,7 +49,8 @@ A topline survey report of college students whose in-person courses moved comple
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](../claims/widespread-remote-stem-challenges-motivation-connectivity.md) [+W]
 
 ## Related Elements
-- 
+
+- [College Experiences Survey](college-experiences-survey.md)
 
 ## Examples
 -

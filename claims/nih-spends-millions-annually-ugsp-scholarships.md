@@ -45,3 +45,5 @@ Descriptive statement from the report about the program's scale and target popul
 ## Related Claims
 - [NIH Undergraduate Scholarship Program scholars reach biomedical research career milestones at substantially higher rates than non-awarded finalists](nih-scholars-higher-biomedical-research-rates-than-finalists.md) — related
 - [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](nih-ugsp-operating-as-intended-career-milestones.md) — related
+- [Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers](loan-repayment-participation-longer-research-stays.md) — related
+- [NIH Undergraduate Scholarship Program scholars progress toward biomedical research careers at substantially higher rates than finalists who were not awarded scholarships](nih-ugsp-scholars-outpace-non-awarded-finalists.md) — related

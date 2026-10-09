@@ -68,3 +68,4 @@ School-by-school comparisons in the brief name charter, magnet, and neighborhood
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [The Illinois State Board of Education's graduation-rate method overestimates graduation rates where large numbers of students transfer between schools, as in Chicago](isbe-method-overestimates-graduation-rate.md) — related
 - [Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences](school-absence-variation-net-of-students-neighborhoods.md) — related
+- [Chicago multi-grade charter high schools appear to increase the probability of graduating high school](chicago-multigrade-charter-high-schools-graduation-gains.md) — related

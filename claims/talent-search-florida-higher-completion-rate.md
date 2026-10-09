@@ -46,3 +46,4 @@ Quasi-experimental Florida study of five Talent Search projects: 900 participant
 - [Across the two qualifying studies, Talent Search shows an average improvement index of +17 percentile points on completing school](talent-search-average-improvement-index-completing-school.md) — a broader claim this one bears on
 - [Talent Search participants in Texas completed high school or GED at a significantly higher rate than matched comparison students (86% vs. 77%)](talent-search-texas-higher-completion-rate.md) — related
 - [The WWC rated Talent Search as having potentially positive effects on completing school, capped below positive because both studies were quasi-experimental](talent-search-potentially-positive-effects-rating.md) — a broader claim this one bears on
+- [Talent Search participants were more likely than matched comparison students to apply for federal financial aid](talent-search-more-likely-apply-federal-financial-aid.md) — related

@@ -45,3 +45,4 @@ Quasi-experimental study using administrative course registration data and a res
 ## Related Claims
 - [Course shutouts increased transfer rates to nearby, potentially less-desirable two-year colleges](course-shutouts-increase-transfer-to-nearby-two-year-colleges.md) — related
 - [Course availability can disrupt community college students' educational trajectories](course-availability-disrupts-community-college-trajectories.md) — a broader claim this one bears on
+- [Students taking courses online are less likely to remain enrolled at the university](online-course-taking-reduces-reenrollment.md) — related

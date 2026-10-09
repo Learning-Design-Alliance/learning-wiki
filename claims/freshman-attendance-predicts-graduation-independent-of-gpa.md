@@ -55,3 +55,4 @@ Cohort analysis of 2014-15 freshmen (Figure 8) crosses freshman GPA bands with a
 - [Nearly 90 percent of Chicago freshmen who miss less than a week of school per semester graduate, regardless of 8th grade test scores](low-freshman-absence-high-graduation.md) — related
 - [Absences remained as strongly related to test scores and GPAs in post-pandemic years as pre-pandemic years](absence-achievement-link-persists-post-pandemic.md) — related
 - [Missing five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points](ninth-grade-five-absences-graduation-drop.md) — related
+- [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](condensed-eot-attendance-support-below-average-graduation.md) — related

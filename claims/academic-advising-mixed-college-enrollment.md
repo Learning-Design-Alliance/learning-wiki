@@ -47,3 +47,4 @@ Review of academic advising studies for Recommendation 1 covering EXCEL, Talent 
 - [The guide's recommendations rest on 21 studies meeting WWC standards, with participant samples ranging from 51 to 15,898 students](wwc-advising-evidence-base-21-studies.md) — related
 - [Dual enrollment programs have positive effects on college access and enrollment, with an average improvement index of +15 percentile points](dual-enrollment-positive-college-access-enrollment.md) — related
 - [Comprehensive, integrated advising interventions improve progression, academic achievement, and postsecondary degree attainment for postsecondary students](comprehensive-integrated-advising-improves-persistence-and-degree-attainment.md) — related
+- [Talent Search participants were more likely than comparison students to enroll in public postsecondary institutions](talent-search-more-likely-enroll-public-postsecondary.md) — related

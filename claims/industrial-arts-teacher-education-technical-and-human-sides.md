@@ -51,3 +51,4 @@ Position argument in the monograph's abstract, not an empirical test. The author
 - [Schools must foster education that aids occupational and geographical mobility as job-changing becomes the norm](schools-foster-occupational-geographical-mobility.md) — related
 - [Information processing now consumes more societal effort than making goods and rendering services](information-processing-exceeds-goods-production-effort.md) — related
 - [By 1973, 70% of the US population lived in the nation's 247 Standard Metropolitan Statistical Areas](seventy-percent-population-in-metropolitan-areas.md) — related
+- [Changing job requirements mean students must be prepared to change throughout their entire work lives](changing-job-requirements-students-prepared-for-change.md) — related

@@ -45,3 +45,4 @@ Key finding from the National Longitudinal Transition Study 2012 surveys of seco
 ## Related Claims
 - [Youth with an IEP are more likely than their peers to be socioeconomically disadvantaged and to face problems with health, communication, and completing typical tasks independently](iep-youth-socioeconomic-and-functional-challenges.md) — a broader claim this one bears on
 - [Youth with an IEP are more likely than a decade ago to live in households facing economic challenges](iep-youth-household-economic-challenges-increased.md) — related
+- [Low-income and first-generation students are less likely to complete high school and attend college](low-income-first-gen-less-likely-complete-high-school-college.md) — related

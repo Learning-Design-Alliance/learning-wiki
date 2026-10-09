@@ -45,3 +45,4 @@ Subgroup impact from the same 24-month RCT: a positive earnings-likelihood effec
 ## Related Claims
 - [LLC did not affect employment for all participants within the first 24 months of enrollment](llc-no-employment-impact-all-participants-24-months.md) — related
 - [LLC produced large impacts on service use in the two years after enrollment, particularly services the program intended to offer](llc-large-impact-service-use-two-years.md) — related
+- [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](coaching-associated-employment-earnings-gains.md) — related

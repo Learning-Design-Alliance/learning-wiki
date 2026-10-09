@@ -37,7 +37,8 @@ The release presents the neighborhood IB DP as a "bold experiment that paid off"
 - College readiness and postsecondary enrollment and persistence
 
 ## Related Strategies
-- 
+
+- [Enroll college-ready high school students in rigorous dual enrollment college algebra classes to support college entry and completion](rigorous-dual-enrollment-college-algebra-strategy.md)
 
 ## Examples
 -

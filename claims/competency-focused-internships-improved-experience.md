@@ -47,3 +47,4 @@ Key finding from the two-year study: under the redesigned policy, internships ce
 - [Stakeholders worry administrative and managerial skills have been de-emphasized despite instructional leadership being a clear focus](managerial-skills-deemphasized-worry.md) — related
 - [The increased number and specificity of policy requirements challenged implementation flexibility, with some viewing the policy as one-size-fits-all](illinois-principal-preparation-requirements-inflexibility.md) — related
 - [Program representatives and statewide stakeholders were largely positive about the goals of Illinois' redesigned principal preparation policy](illinois-principal-preparation-stakeholders-positive-policy-goals.md) — related
+- [Early-career principals cite people skills and emotional intelligence, along with organizational and managerial skills, as most important for successful leadership](principals-people-and-managerial-skills-most-important.md) — related

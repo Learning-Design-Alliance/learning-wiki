@@ -48,3 +48,4 @@ Four-year retention analysis by grade span (figure 3) using state staffing data;
 - [Retention was higher in majority-White schools in Arizona and Nevada but the converse held in Utah](retention-by-student-racial-composition-state-differences.md) — related
 - [One-year principal retention rates were stable from fall 2016 to fall 2020 and did not decline during the COVID-19 pandemic year](one-year-principal-retention-stable-through-covid.md) — related
 - [Proportionally fewer principals remained at lower-performing schools than at higher-performing schools across all three states (three-year retention)](lower-retention-at-below-average-proficiency-schools.md) — related
+- [New principals' five-year retention differs by school level, student-body racial composition, and free/reduced-price lunch category](cps-new-principal-retention-differentials.md) — related

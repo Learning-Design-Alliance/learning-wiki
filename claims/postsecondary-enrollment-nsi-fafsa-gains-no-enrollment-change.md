@@ -65,3 +65,4 @@ Same quasi-experimental comparison. Despite FAFSA gains, the NSI "did not increa
 - [Well-matched postsecondary enrollment NSI raised FAFSA completion but did not significantly affect postsecondary enrollment after year two](postsecondary-nsi-fafsa-gain-no-enrollment-impact.md) — possibly the same claim (merge candidate)
 - [After schools' second year, the well-matched postsecondary enrollment NSI positively impacted FAFSA completion but not college enrollment](postsecondary-enrollment-nsi-fafsa-not-college-year-two.md) — possibly the same claim (merge candidate)
 - [The postsecondary enrollment NSI's first-year impact on college enrollment did not persist into schools' second year](postsecondary-nsi-college-impact-not-persistent.md) — related
+- [Find the Fit did not affect the share of students completing the FAFSA early](find-the-fit-no-effect-early-fafsa-completion.md) — related

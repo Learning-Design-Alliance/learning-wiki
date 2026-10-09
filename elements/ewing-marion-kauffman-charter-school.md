@@ -52,6 +52,7 @@ The Ewing Marion Kauffman School is "a public charter school that serves student
 - [Ewing Marion Kauffman School](ewing-marion-kauffman-school-element.md)
 - [Matched-comparison evaluation design for the Kauffman School impact study](kauffman-matched-comparison-evaluation-design.md)
 - [Ewing Marion Kauffman charter school in Kansas City, founded by the Kauffman Foundation](kauffman-school-urban-charter-kansas-city.md)
+- [Ewing Marion Kauffman Charter School Evaluation (Mathematica, 2011-2024)](kauffman-charter-school-evaluation-mathematica.md)
 
 ## Examples
 

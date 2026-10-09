@@ -46,11 +46,13 @@ The report describes dual enrollment programs as collaborations between secondar
 - [Dual enrollment programs have potentially positive effects on staying in high school, college readiness, and attendance (high school), each with a small extent of evidence](../claims/dual-enrollment-potentially-positive-staying-readiness-attendance.md) [+W]
 
 ## Related Theories
-- 
+
+- [Four-type taxonomy of college- and career-readiness interventions with ESSA-tier evidence](four-types-college-career-readiness-interventions-taxonomy.md)
 
 ## Examples
 
 - [Use dual enrollment and a shared pathway template so students complete prerequisites while still in high school](../strategies/dual-enrollment-pathway-template.md)
+- [Enroll college-ready high school students in rigorous dual enrollment college algebra classes to support college entry and completion](../strategies/rigorous-dual-enrollment-college-algebra-strategy.md)
 
 ## Key Sources
 - What Works Clearinghouse, U.S. Department of Education. (2017). Dual Enrollment Programs. WWC Intervention Report, Transition to College. https://ies.ed.gov/ncee/wwc/InterventionReport/671

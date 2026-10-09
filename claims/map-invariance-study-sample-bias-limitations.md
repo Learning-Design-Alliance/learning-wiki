@@ -62,3 +62,4 @@ Stated limitation: the pooled state samples were heterogeneous by gender and eth
 - [The longitudinal achievement constructs of MAP reading and mathematics CATs remain invariant across five time points in ten states (except Indiana mathematics)](map-cat-longitudinal-construct-invariance-ten-states.md) — related
 - [Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used](residual-bias-nonexperimental-estimators.md) — a broader claim this one bears on
 - [Teacher effects may be heterogeneous across students of differing aptitudes, affecting growth modeling and teacher evaluation](teacher-effect-heterogeneity-across-aptitudes.md) — related
+- [Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity](collider-bias-sample-truncation-at-risk.md) — related
