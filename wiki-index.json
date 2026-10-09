@@ -114844,6 +114844,7 @@
 "type":"element"
 },
 {
+"canonical":true,
 "description":"Whether a learner can perceive and operate the material at all — device, bandwidth, sensory and motor.",
 "id":"access",
 "path":"learner-variables/access.md",
@@ -114852,6 +114853,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"What a learner does with frustration, anxiety and failure while the work is still in front of them.",
 "id":"affect-regulation",
 "path":"learner-variables/affect-regulation.md",
@@ -114860,6 +114862,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"How long a learner can sustain focus on one thing, and how easily something else takes it away.",
 "id":"attention",
 "path":"learner-variables/attention.md",
@@ -114868,6 +114871,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Whether a learner expects to be treated as a full participant in this setting, and how much of their attention that question consumes.",
 "id":"belonging",
 "path":"learner-variables/belonging.md",
@@ -114876,6 +114880,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Whether a learner can operate the interface the instruction is delivered through, independently of whether they can reach it.",
 "id":"digital-literacy",
 "path":"learner-variables/digital-literacy.md",
@@ -114884,6 +114889,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"The sector, role or setting a scenario has to be placed in before a learner recognises it as their own.",
 "id":"domain-context",
 "path":"learner-variables/domain-context.md",
@@ -114892,6 +114898,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Whether a learner is willing to spend effort here, and what makes the spending feel worth it.",
 "id":"motivation",
 "path":"learner-variables/motivation.md",
@@ -114900,6 +114907,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"A learner's existing domain knowledge in the subject area before instruction begins.",
 "id":"prior-knowledge",
 "path":"learner-variables/prior-knowledge.md",
@@ -114908,6 +114916,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"What a learner can read fluently, and whether the language of instruction is the one they think in.",
 "id":"reading-and-language",
 "path":"learner-variables/reading-and-language.md",
@@ -114916,6 +114925,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"Whether a learner can plan, monitor and adjust their own work without the structure being supplied.",
 "id":"self-regulation",
 "path":"learner-variables/self-regulation.md",
@@ -114924,6 +114934,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"How much uninterrupted time a learner actually gets, and whether progress survives the gap until the next session.",
 "id":"time-and-continuity",
 "path":"learner-variables/time-and-continuity.md",
@@ -114932,6 +114943,7 @@
 "type":"learner-variable"
 },
 {
+"canonical":true,
 "description":"How much a learner can hold and manipulate at once before the material itself becomes the obstacle.",
 "id":"working-memory",
 "path":"learner-variables/working-memory.md",

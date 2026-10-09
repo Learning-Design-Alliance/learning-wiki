@@ -3,6 +3,7 @@ type: learner-variable
 id: motivation
 title: Motivation
 description: Whether a learner is willing to spend effort here, and what makes the spending feel worth it.
+canonical: true
 status: draft
 generated:
   by: "claude/unspecified"

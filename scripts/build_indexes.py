@@ -410,7 +410,11 @@ def main():
     import subprocess, sys as _sys
     print()
     # evidence.md is the third: its tables count the claims and their citations.
-    for generated in ("build_reverse_index.py", "build_wiki_index.py", "build_evidence_report.py"):
+    # situation-index.json is the fourth: every page's situation-table rows, keyed by
+    # the evidence-dimensions tags, for the MCP `situations` tool and the site's
+    # "Design for a situation" pages.
+    for generated in ("build_reverse_index.py", "build_wiki_index.py", "build_evidence_report.py",
+                      "build_situation_index.py"):
         # check=True: a generator that crashes must stop the run, not leave last
         # run's file in place looking current (build_reverse_index, 2026-10-09).
         subprocess.run([_sys.executable, str(Path(__file__).parent / generated)],

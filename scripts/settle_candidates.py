@@ -1040,9 +1040,17 @@ def mark_canonical(apply: bool) -> int:
     """Stamp `canonical: true` on every page in canonical_keys(), so search ranks the
     page the ledger settles against above the one-source pages on the same idea
     (build_wiki_index.py carries it into wiki-index.json). Only adds the key; a page
-    that has it is left alone. Returns the number of pages (to be) stamped."""
+    that has it is left alone. Returns the number of pages (to be) stamped.
+
+    Every learner-variable page is canonical too: the folder holds one page per variable
+    by design, and unmarked they ranked below claims that merely mention them (a search
+    for "working memory" did not reach learner-variables/working-memory, 2026-10-09).
+    They are stamped here, not added to canonical_keys(), which is also the index the
+    ledger settles candidates against, and no candidate is ever a learner variable."""
     n = 0
-    for key in sorted(canonical_keys()):
+    lv = {f"learner-variables/{p.stem}" for p in (WIKI_ROOT / "learner-variables").glob("*.md")
+          if p.stem != "index"}
+    for key in sorted(canonical_keys() | lv):
         path = WIKI_ROOT / f"{key}.md"
         if not path.exists():
             continue

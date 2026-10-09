@@ -22,6 +22,8 @@ Tools:
     resolve(slug, kind?)           a slug (current OR retired) -> the page it names
     backlinks(id)                  which pages link TO this one, with evidence markers
     why(claim)                     claim <- evidence <- release <- protocol, from research/
+    situations(tags?, text?, page?) what pages say to change for given learners, goals and
+                                   settings (situation-index.json); no arguments: the tags
 
 Everything is read-only, and nothing here is newer than the checkout it runs
 from. Every page result carries `status` and `trust_tier`. At the time of
@@ -217,6 +219,9 @@ def _search_indexed(wiki: Wiki, query: str, terms: list, phrase: str, kind, limi
             if any(re.search(rf"\b{re.escape(t)}", text.lower()) for t in terms):
                 fields.add(name)
         score += 10 if phrase in " ".join(_tokens(title)) else 0
+        # A title that IS the query names the page for it ("Prior Knowledge" for "prior
+        # knowledge"), above longer titles that only contain the phrase.
+        score += 10 if " ".join(_tokens(title)) == phrase else 0
         # How many query words the title and description carry: a page ABOUT the
         # query names its words there, a page that merely mentions them does not.
         title_desc = " ".join(_tokens(f"{title} {desc}"))
@@ -390,6 +395,80 @@ def tool_why(wiki: Wiki, claim: str) -> dict:
             "stderr": err.getvalue() or None}
 
 
+def _situation_index(wiki: Wiki) -> dict:
+    if not hasattr(wiki, "_situations"):
+        path = wiki.root / "situation-index.json"
+        wiki._situations = json.loads(path.read_text(encoding="utf-8")) if path.is_file() else None
+    if wiki._situations is None:
+        raise ToolError("situation-index.json is missing; run scripts/build_situation_index.py")
+    return wiki._situations
+
+
+def tool_situations(wiki: Wiki, tags: list | None = None, text: str | None = None,
+                    page: str | None = None, tested_only: bool = False, limit: int = 10) -> dict:
+    """What the principle and pattern pages say to change for given learners, goals and
+    settings: the rows of their "Fitting the design to a situation" tables
+    (situation-index.json), grouped by page. Pages covering more of the requested tags
+    come first. With no arguments, the tag vocabulary."""
+    idx = _situation_index(wiki)
+    vocab = idx["tags"]
+    tags = [t.strip().strip("`").lower() for t in (tags or []) if str(t).strip()]
+    if not tags and not text and not page:
+        groups = {}
+        for tag, t in vocab.items():
+            groups.setdefault(t["group"], []).append({"tag": tag, "field": t["field"], "meaning": t["meaning"],
+                                                      "rows": t["rows"], "pages": t["pages"]})
+        return {"vocabulary": groups, "pages_with_tables": len(idx["pages"]), "rows": len(idx["rows"]),
+                "note": "Pass tags (e.g. ['novice', 'online-self-paced', 'procedure']) for the rows that "
+                        "speak to them, text for words in a row's situation cell (e.g. 'second language'), "
+                        "or page for one page's whole table."}
+    unknown = [t for t in tags if t not in vocab]
+    if unknown:
+        raise ToolError(f"unknown tag(s) {unknown}; tags are {sorted(vocab)}")
+    page_key = None
+    if page:
+        matches = [m for m in wiki.resolve(page) if m["kind"] in ("principle", "pattern", "element", "design")]
+        if not matches:
+            raise ToolError(f"no principle, pattern, element or design {page!r}")
+        page_key = f"{wiki.folder_of[matches[0]['kind']]}/{matches[0]['slug']}"
+    words = [w for w in _tokens(text or "") if len(w) > 1]
+    limit = max(1, min(int(limit or 10), 50))
+    grouped = {}
+    for r in idx["rows"]:
+        if page_key and r["page"] != page_key:
+            continue
+        if tested_only and r["basis_kind"] != "claim":
+            continue
+        carried = set(r["tags"]) | set(r["inferred_tags"])
+        hit = [t for t in tags if t in carried]
+        if tags and not hit:
+            continue
+        if words and not all(re.search(rf"\b{re.escape(w)}", r["if"].lower()) for w in words):
+            continue
+        grouped.setdefault(r["page"], []).append((hit, r))
+    out = []
+    for key, rows in grouped.items():
+        folder, slug = key.split("/", 1)
+        pid = f"{wiki.kind_of.get(folder, folder)}/{slug}"
+        covers = sorted({t for hit, _ in rows for t in hit}, key=tags.index)
+        meta = idx["pages"].get(key, {})
+        out.append({
+            "id": pid, "title": meta.get("title") or slug,
+            "url": wiki.url(pid) if pid in wiki.pages else None,
+            "covers": covers,
+            "facts": meta.get("facts", []),
+            "rows": [{"if": r["if"], "change": r["change"], "basis": r["basis"], "basis_kind": r["basis_kind"],
+                      "claims": [f"claim/{c['id']}" + (f" [{c['marker']}]" if c.get("marker") else "")
+                                 for c in r["claims"]],
+                      "tags": r["tags"], "inferred_tags": r["inferred_tags"]} for _, r in rows],
+        })
+    out.sort(key=lambda p: (-len(p["covers"]), -sum(x["basis_kind"] == "claim" for x in p["rows"]), p["id"]))
+    return {"tags": tags, "text": text, "page": page, "pages_matched": len(out), "pages": out[:limit],
+            "note": "Each row's basis is a claim link with its marker, or 'untested'; a claim carried to "
+                    "learners or settings it did not test says so in the basis. inferred_tags were read "
+                    "from the row's wording, not written as tags. " + UNVERIFIED_NOTE}
+
+
 def _schema(props: dict, required: list[str]) -> dict:
     return {"type": "object", "properties": props, "required": required, "additionalProperties": False}
 
@@ -424,11 +503,30 @@ def tool_definitions(wiki: Wiki) -> list[dict]:
                         "published findings (simulations, telemetry) are labelled loudly. Most claims "
                         "have no structured record yet, and the result says so.",
          "inputSchema": _schema({"claim": {"type": "string"}}, ["claim"])},
+        {"name": "situations", "annotations": ro,
+         "description": "For a learner and context analysis: what the converted principle and pattern pages "
+                        "say to change for given learners, goals and settings, with the basis for each "
+                        "change (a claim with its evidence marker, or 'untested'). Tags come from "
+                        "evidence-dimensions.json: learners (novice, advanced, child, adolescent, adult, "
+                        "adult-workplace...), goal (procedure, concept, principle, verbal-association, "
+                        "complex-skill, attitude-motivation) and context (classroom, online-self-paced, "
+                        "online-instructor-led, workplace-clinical, single-session...). Call with no "
+                        "arguments for the vocabulary. Pages covering more of the tags come first.",
+         "inputSchema": _schema({"tags": {"type": "array", "items": {"type": "string"}},
+                                 "text": {"type": "string",
+                                          "description": "Words that must appear in a row's situation cell, "
+                                                         "e.g. 'second language' or 'stakes'."},
+                                 "page": {"type": "string", "description": "One page's whole table, "
+                                                                           "e.g. 'principle/feedback-loops'."},
+                                 "tested_only": {"type": "boolean", "default": False,
+                                                 "description": "Only rows whose basis cites a claim."},
+                                 "limit": {"type": "integer", "minimum": 1, "maximum": 50, "default": 10}},
+                                [])},
     ]
 
 
 TOOLS = {"search": tool_search, "fetch": tool_fetch, "resolve": tool_resolve,
-         "backlinks": tool_backlinks, "why": tool_why}
+         "backlinks": tool_backlinks, "why": tool_why, "situations": tool_situations}
 
 
 # ---------------------------------------------------------------------------
