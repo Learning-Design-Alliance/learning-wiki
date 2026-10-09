@@ -42,6 +42,9 @@ WWC synthesis of two randomized controlled trials meeting group design standards
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Read Naturally® shows potentially positive effects on general reading achievement for beginning readers (average improvement index +10 percentile points)](read-naturally-potentially-positive-general-reading-achievement.md) — related
 - [The WWC rates Reading Apprenticeship® as having potentially positive effects on comprehension for adolescent learners, based on one study](reading-apprenticeship-potentially-positive-comprehension.md) — related

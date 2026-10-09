@@ -61,6 +61,9 @@ In the same RCT, Black male students with low baseline attendance in FF had a mo
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [FF's attendance impact was larger for Black students, male students, and students with low baseline attendance than for their comparison subgroups](ff-differential-attendance-subgroups.md) — a broader claim this one bears on
 - [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](future-forward-differential-impact-subgroups.md) — a broader claim this one bears on

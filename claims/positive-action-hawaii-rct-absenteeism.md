@@ -42,6 +42,9 @@ Four-year longitudinal randomized evaluation comparing 10 Hawaii program schools
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Mailing parents personalized Absence Reports significantly reduced absences among at-risk students in a Philadelphia randomized evaluation (ES=+0.19)](absence-reports-philadelphia-rct-es-019.md) — related
 - [In a six-year randomized study in Chicago, Positive Action significantly reduced absenteeism (ES=+0.25)](positive-action-chicago-rct-absenteeism.md) — related

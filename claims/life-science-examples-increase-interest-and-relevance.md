@@ -42,6 +42,9 @@ Post-semester interviews conducted by a co-author with no course association; in
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on

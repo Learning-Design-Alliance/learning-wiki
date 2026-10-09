@@ -42,6 +42,9 @@ Pre/post perception measures reported in the evaluation's key findings: confiden
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — a broader claim this one bears on
 - [Students completing the end-of-year survey reported favorable views of their relationships with math tutors and their sense of belonging in tutoring sessions](breakthrough-tutoring-favorable-relationships-belonging.md) — related

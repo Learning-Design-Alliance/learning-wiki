@@ -43,6 +43,9 @@ Subgroup comparisons from the survey between teachers classified as potential ea
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Once the concept is explained, more than 70 percent of teachers are at least somewhat interested in micro-credentials, segmenting into roughly 31 percent early, 34 percent mainstream, and 35 percent late adopters](micro-credential-interest-adoption-segments.md) — possibly the same claim (merge candidate)
 - [Seventy-two percent of teachers engage in informal, non-required professional development and are more satisfied with it, driven by intrinsic reasons such as enjoyment of learning](informal-pd-engagement-and-intrinsic-reasons.md) — related

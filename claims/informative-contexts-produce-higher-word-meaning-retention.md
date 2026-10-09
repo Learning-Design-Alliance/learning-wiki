@@ -42,6 +42,9 @@ Webb's (2008) study randomly assigned 50 intermediate Japanese ESL university st
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — related
 - [Incidental Vocabulary Exposure Limited](incidental-vocabulary-exposure-limited.md) — related

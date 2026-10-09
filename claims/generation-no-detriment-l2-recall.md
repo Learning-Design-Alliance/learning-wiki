@@ -42,6 +42,9 @@ Authors' interpretation of the full pre/post dataset (Confidence and Knowledge s
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Generation tasks show no significant overall treatment effect on L2 vocabulary Knowledge scores compared with baseline non-generative tasks](generation-no-overall-knowledge-effect-l2-vocabulary.md) — a narrower finding that bears on this claim
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — a broader claim this one bears on

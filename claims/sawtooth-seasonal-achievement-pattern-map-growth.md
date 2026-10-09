@@ -42,6 +42,9 @@ Descriptive scatterplots of mean RIT scores by test administration and subject (
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses](seasonal-model-combines-polynomial-and-piecewise-features.md) — related
 - [The CP model fits seasonal achievement data better than a traditional polynomial growth model on RMSE, AIC, and BIC while reducing residual autocorrelation](cp-model-fits-seasonal-growth-better-than-polynomial.md) — related

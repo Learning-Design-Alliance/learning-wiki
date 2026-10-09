@@ -42,5 +42,8 @@ This is the guide's expert assertion (type e) about why context familiarity matt
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)](situated-perspective-bilingual-math-meaning.md) — related

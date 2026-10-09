@@ -61,6 +61,9 @@ The review reports Zimler and Keenan's (1983) three experiments comparing congen
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Dream-content and drawing measures show almost no group differences between congenitally blind and sighted subjects](blind-sighted-dream-drawing-null-differences.md) — related
 - [Visual imagery is possible without visual perception or experience](visual-imagery-possible-without-visual-experience.md) — a broader claim this one bears on

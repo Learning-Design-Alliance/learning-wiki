@@ -61,6 +61,9 @@ Chapter 4 finding from the same explanatory models: self-reported study habits d
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Freshman-year performance of Chicago ninth-graders falls into three tiers, with students two or more years below grade level and students with emotional disturbances performing worst across GPA, course failures, absences, and on-track status](freshman-performance-three-tiers-disability-categories.md) — related
 - [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related

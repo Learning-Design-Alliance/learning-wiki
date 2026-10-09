@@ -72,6 +72,9 @@ The design implication is not to remove structure abruptly. It is to fade it as 
 
 *Merged from “Worked examples can become redundant or counterproductive for advanced learners.” (worked-examples-expertise-reversal):* This is the worked-example-specific form of the broader [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) claim.
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md)

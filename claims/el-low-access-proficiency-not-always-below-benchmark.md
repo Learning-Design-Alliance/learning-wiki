@@ -42,6 +42,9 @@ Analysis relating ACCESS for ELLs composite proficiency levels to screening benc
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [ELs who did not reach proficiency by eighth grade showed continued growth but started first grade with much lower ACCESS scores, and rising grade-level thresholds meant they never met the proficiency cut](non-proficient-els-low-first-grade-access-growth.md) — related
 - [Low English proficiency screener scores in pre-k relate to lower academic performance but not to attendance](low-screener-scores-performance-not-attendance.md) — related

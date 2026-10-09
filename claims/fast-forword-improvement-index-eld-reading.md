@@ -42,6 +42,9 @@ WWC-conducted synthesis across the two studies meeting standards, computing impr
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The WWC rates Instructional Conversations and Literature Logs as having potentially positive effects on reading achievement and English language development](ic-ll-potentially-positive-wwc-rating.md) — related
 - [Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners](fast-forword-language-potentially-positive-english-language-development.md) — related

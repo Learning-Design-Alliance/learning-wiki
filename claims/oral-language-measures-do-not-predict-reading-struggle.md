@@ -42,6 +42,9 @@ The guide's summary, in Recommendation 1's carry-out section, of studies contras
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [English-language measures of phonological processing, letter knowledge, and word and text reading validly identify which English learners need additional reading support](english-early-reading-measures-valid-screen-english-learners.md) — possibly the same claim (merge candidate)
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — reports the opposite

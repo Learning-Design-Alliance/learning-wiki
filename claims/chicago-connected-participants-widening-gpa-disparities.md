@@ -42,6 +42,9 @@ Comparative finding from the OLS analyses comparing participants to otherwise si
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Chicago Connected eligibility was associated with higher fall 2020 engagement for high pre-pandemic GPA students but lower engagement for low pre-pandemic GPA students](chicago-connected-eligibility-heterogeneous-engagement-effects.md) — related
 - [Chicago Connected eligibility was associated with a slightly lower fall 2020 GPA in the full analytic sample, with no variation by pre-pandemic academic performance](chicago-connected-eligibility-lower-gpa-full-sample.md) — related

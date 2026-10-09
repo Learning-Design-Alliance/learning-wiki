@@ -46,6 +46,9 @@ An undergraduate/graduate [Course-Based Research Experience](../patterns/interdi
 ## Discussion
 This is a methodologically solid, well-triangulated qualitative case study (q2-q3) but rests on a single institution's course across multiple years, and the richest illustrative evidence (the "separation"/"domestication" coping-tactic finding) comes from close analysis of just two exemplar students rather than the full cohort, so its breadth across the whole class is less certain than the network/co-authorship counts, which are class-wide. The findings extend Engle & Conant's Productive Disciplinary Engagement framework into a "Productive Syncretic Engagement" variant for genuinely cross-disciplinary contexts, which the authors frame as their main theoretical contribution.
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - (none yet linked)
 - [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related

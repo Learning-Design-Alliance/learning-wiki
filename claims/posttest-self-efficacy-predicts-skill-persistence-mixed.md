@@ -61,6 +61,9 @@ Empirical evidence section reviewing posttest self-efficacy and persistence (tim
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related
 - [Self-efficacy for learning is a meaningful index in academic settings where self-efficacy for performing is near zero](self-efficacy-for-learning-distinct-from-performance.md) — related

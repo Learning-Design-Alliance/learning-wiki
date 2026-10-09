@@ -46,6 +46,9 @@ In a six-week [organization-simulation course](../designs/organization-simulatio
 ## Discussion
 This is a solid, single-context qualitative case study (q2) with real methodological structure (systematic coding with reliability checks, detailed video interaction analysis), but it studies one course at one Nordic university across a homogeneous cultural context, and the diary sample slightly over-represents higher-grading students (consenting students' mean grade 3.84/5 vs. 3.51/5 for non-consenters) — a modest selection bias the authors themselves flag. The study also does not independently verify that all team output met a strict definition of interdisciplinary integration versus divided-labor collaboration, since the final offers themselves were not systematically analyzed for integration quality.
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - (none yet linked)
 - [Serious talk about teaching in school-based meetings spans five types of intellectual work beyond classroom management](cochran-smith-five-types-intellectual-work.md) — related

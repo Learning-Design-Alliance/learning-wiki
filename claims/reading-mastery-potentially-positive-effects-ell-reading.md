@@ -42,6 +42,9 @@ The WWC intervention report rates Reading Mastery in the reading achievement dom
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [The WWC rates Instructional Conversations and Literature Logs as having potentially positive effects on reading achievement and English language development](ic-ll-potentially-positive-wwc-rating.md) — related
 - [Enhanced Proactive Reading has potentially positive effects on reading achievement for first-grade English language learners at risk for reading problems](enhanced-proactive-reading-potentially-positive-reading-achievement.md) — related

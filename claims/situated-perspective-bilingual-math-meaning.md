@@ -42,6 +42,9 @@ Narrative review attributing this to Moschkovich's (1996) analysis of how Latino
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Colonization-introduced formal education creates greater discontinuities with informal education than evolved systems](colonization-widens-formal-informal-education-discontinuities.md) — related
 - [Systemic approach in in-service teacher education promotes holistic thinking but short, fragmented training hinders it (review reports Khisty, 1997)](systemic-approach-in-service-teacher-education.md) — related

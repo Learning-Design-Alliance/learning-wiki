@@ -42,6 +42,9 @@ Annual administration of the California Healthy Kids Survey to secondary student
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Secondary students in PUSD reported declining rates of chronic sadness/hopelessness and suicidal ideation from 2020/21 to 2022/23](pusd-chks-declining-sadness-suicidal-ideation.md) — related
 - [Secondary students in PUSD increasingly reported open mental health conversations at school and knowing where to go for help from 2020/21 to 2022/23](pusd-chks-open-talk-help-seeking-increase.md) — related

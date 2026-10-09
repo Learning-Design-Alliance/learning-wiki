@@ -42,6 +42,9 @@ Narrative review synthesis in the brief: asthma attacks are more likely triggere
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](poor-iaq-harms-student-health-and-learning.md) — related
 - [Chronic absenteeism is studied as a factor in student achievement over two years, with the 10 percent absence threshold questioned as a trigger point for action](chronic-absenteeism-achievement-two-year-impact.md) — related

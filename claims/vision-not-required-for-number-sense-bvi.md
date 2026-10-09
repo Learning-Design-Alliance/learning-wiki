@@ -42,6 +42,9 @@ The review attributes to Ahlberg & Csocsán (1999), a study of 25 Hungarian chil
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Math achievement of BVI students lags sighted peers and the gap widens with age](bvi-math-achievement-lags-and-gap-widens.md) — reports the opposite
 - [A multisensory tablet with tonal and vibration feedback produced no significant difference in graphics-comprehension accuracy compared with tactile graphics](multisensory-tablet-no-difference-tactile-graphics.md) — related

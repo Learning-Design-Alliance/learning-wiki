@@ -42,6 +42,9 @@ Descriptive comparison of in-school academic struggle and activity participation
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [English learner students with disabilities are less likely than other students with disabilities to receive extra time on schoolwork but attend transition-planning meetings at a comparable rate, are suspended less, and have parents with higher expectations](elswd-accommodations-transition-planning-suspension-parental-expectations.md) — related
 - [English learner students with disabilities have more socioeconomic disadvantages than other students with disabilities but similar functional performance](elswd-more-socioeconomic-disadvantage-similar-functional-performance-than-swd.md) — related

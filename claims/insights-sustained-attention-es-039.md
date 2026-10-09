@@ -42,6 +42,9 @@ In the cluster RCT, sustained attention was measured with the Leiter-R across th
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+
 ## Related Claims
 - [INSIGHTS reduced behavior problems relative to control (effect size +0.54)](insights-behavior-problems-reduction-es-054.md) — related
 - [INSIGHTS students grew significantly faster than control students in math achievement (effect size +0.31)](insights-math-growth-es-031.md) — related

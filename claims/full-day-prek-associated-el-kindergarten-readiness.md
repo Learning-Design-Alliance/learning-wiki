@@ -42,6 +42,9 @@ The report's key findings state that "Attending a full-day pre-k classroom was a
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Enrolling in CPS pre-k before age four is associated with stronger kindergarten readiness in English language development and early reading for ELs](earlier-prek-enrollment-el-kindergarten-readiness.md) — related
 - [ELs who attended a school-based CPS pre-k showed better third-grade attendance, grades, test scores, and English proficiency than peers who did not](school-based-prek-third-grade-el-outcomes.md) — related

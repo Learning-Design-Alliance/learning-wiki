@@ -42,6 +42,9 @@ Same eye-tracking experiment; analyses of average fixation length on math-releva
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Revised visuals reduce cognitive load while reading lesson text for low prior knowledge students but increase it for middle prior knowledge students](revised-visuals-cognitive-load-text-prior-knowledge-interaction.md) — related
 - [Revised visuals reduce cognitive processing of math-relevant visuals for low prior knowledge students but increase it for middle prior knowledge students](revised-visuals-processing-math-visuals-interaction.md) — related

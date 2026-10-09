@@ -152,6 +152,9 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 
 *Merged from “Rewarding an already-intrinsically-motivating activity can reduce future engagement with it” (overjustification-effect-reduces-intrinsic-motivation):* The 1990s-2000s literature split into a genuine, still-cited disagreement: Cameron and Pierce (and Eisenberger & Cameron) argue the undermining effect is smaller and more conditional than early studies like Deci (1971) suggested, while Deci, Koestner, and Ryan push back that even a bounded, condition-dependent effect is large and common enough in classrooms to warrant real caution. Both camps agree on the two clearest moderators: rewards delivered as a flat rate for participating (rather than piecemeal for output) and rewards attached to tasks with a well-defined, consistently-expected performance standard are least likely to backfire. This directly informs the constraint most learning-design guidance now gives on [Reinforcement Theory](../theories/behaviorism.md) and [Behaviorism](../theories/behaviorism.md): extrinsic reinforcement is a legitimate design lever, but layering it onto a task a learner is already intrinsically engaged with is exactly the case where it is most likely to reduce, not increase, future engagement.
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) — the complementary positive side of the same motivational mechanism

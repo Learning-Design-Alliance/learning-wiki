@@ -42,5 +42,8 @@ Findings from the randomized controlled trial's second cohort (645 intervention 
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Reading Apprenticeship® showed no statistically significant effects on most GRADE outcomes: Cohort 1 comprehension and vocabulary, and Cohort 2 vocabulary](reading-apprenticeship-null-grade-outcomes.md) — related

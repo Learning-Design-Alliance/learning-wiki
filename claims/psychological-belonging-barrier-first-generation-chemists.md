@@ -42,6 +42,9 @@ Reflective editorial section identifying psychological factors as an "often unde
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](financial-constraints-shape-first-generation-career-decisions.md) — related
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related

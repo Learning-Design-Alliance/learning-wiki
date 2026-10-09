@@ -42,6 +42,9 @@ A randomized controlled trial conducted in 13 schools in a large urban East Coas
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](once-program-improves-fastbridge-kindergarten-reading.md) — related
 - [In the Torgesen et al. (2006) RCT, SpellRead™ showed indeterminate effects for fifth graders, with no statistically significant or substantively important effects in any domain after six months](torgesen-2006-spellread-indeterminate.md) — related

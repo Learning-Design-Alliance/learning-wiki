@@ -44,6 +44,9 @@ Likert-scale survey data on stress levels (Figure 6), n=106-154, analyzed with M
 
 The comparison is between two non-randomised cohorts, medical students in the original format and dental students in the revised one, so format is confounded with programme, cohort, the number of TBL sessions (six against two pilot sessions) and team size; the difference cannot be attributed to the format alone.
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Medical students in the high-stakes TBL format perceive questions as more difficult and less fair than dental students in the revised format](high-stakes-tbl-questions-seen-harder-less-fair.md) — related
 - [Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts](low-stress-tbl-higher-isat-scores.md) — related

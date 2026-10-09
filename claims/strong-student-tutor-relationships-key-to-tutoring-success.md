@@ -42,6 +42,9 @@ Cross-program analysis of student reports across the eight tutoring evaluations.
 ## Discussion
 
 
+## Learner Variables
+- [Belonging](../learner-variables/belonging.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A portfolio of eight math tutoring programs showed positive and meaningful average effects on student math knowledge, perceptions, and beliefs](middle-years-math-tutoring-portfolio-positive-average-effects.md) — related
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — related

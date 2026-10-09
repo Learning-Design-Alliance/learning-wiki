@@ -42,6 +42,9 @@ The review's own moderator analysis plan (age, gender, screen size, dosage, SAMR
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive](inclusion-effects-heterogeneous-moderator-analyses-inconclusive.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related

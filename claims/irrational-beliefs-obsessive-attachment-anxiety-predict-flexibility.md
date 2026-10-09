@@ -42,6 +42,9 @@ Stepwise regression analysis in the same 436-student correlational study. Irrati
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Higher irrational beliefs, obsessive attachment and anxiety accompany lower cognitive flexibility, while negligent attachment shows an unexpected positive relationship](direction-of-predictor-flexibility-relationships.md) — a broader claim this one bears on
 - [Hostility and afraid attachment do not meaningfully predict cognitive flexibility, while the other variables do](hostility-afraid-attachment-null-predictors-flexibility.md) — a broader claim this one bears on

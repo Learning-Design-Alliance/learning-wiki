@@ -42,6 +42,9 @@ Stepwise regression on survey data from 210 Iranian EFL learners (convenience sa
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](ideal-l2-self-predicts-self-efficacy.md) — related
 - [In the motivational profile of Iranian EFL learners, instrumentality-promotion received the highest mean, followed by ideal L2 self](iranian-efl-motivation-profile-inspro-highest.md) — related

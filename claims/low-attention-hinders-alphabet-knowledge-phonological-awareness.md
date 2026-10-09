@@ -42,6 +42,9 @@ The paper's Factor-interactions section reports, citing a structural model study
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
 - [Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners](pa-and-ak-fluency-uniquely-related-word-reading-spelling.md) — related

@@ -42,6 +42,9 @@ Systematic WWC review of 59 studies, of which two randomized controlled trials m
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Phonological awareness training has potentially positive effects on communication/language competencies for preschool children with learning disabilities, with a small extent of evidence](phonological-awareness-training-potentially-positive-communication-effects.md) — related
 - [The Lovaas Model has no discernible effects on communication/language competencies for children with disabilities](lovaas-model-no-discernible-communication-effects.md) — related

@@ -42,6 +42,9 @@ The review reports Ogata et al.'s (2008) test of a computer-supported mobile lea
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones](ar-qr-codes-context-aware-language-learning.md) — related
 - [Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning](mobile-independent-work-initiative-actors.md) — related

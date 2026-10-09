@@ -53,6 +53,9 @@ A meta-analysis of 52 studies (125 effects) of whole-classroom reading-strategy 
 
 **Open questions.** The strongest tests would manipulate context while holding strategy, explicitness, and duration constant, then measure both near and far transfer. Existing literatures — for example in reading comprehension and [self-regulated learning](../theories/self-regulated-learning.md) interventions — typically confound context with other design features, so the unique contribution of contextualization remains unquantified.
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Activation improves learning.](activation-improves-learning.md) — contextualized tasks give learners something to activate.

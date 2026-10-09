@@ -42,6 +42,9 @@ Qualitative finding from the experimental group questionnaire in the Findings se
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](efl-students-positive-views-explicit-strategy-instruction.md) — related
 - [Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment](esp-groups-homogeneous-pretest-reading-comprehension.md) — related

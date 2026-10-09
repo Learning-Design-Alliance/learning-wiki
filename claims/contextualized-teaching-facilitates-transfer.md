@@ -42,6 +42,9 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Basic perioperative care competencies transfer most smoothly to clinical practice after neurosurgical specialty nurse training](basic-perioperative-competencies-transfer-readily-neurosurgical-nurses.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related

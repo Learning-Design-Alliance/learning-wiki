@@ -42,6 +42,9 @@ Two-way ANOVA on self-efficacy (PTFC n=36, CFC n=34): prior achievement level "w
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Senior high school majors' background affects calculus conceptual understanding and self-efficacy, with no method-by-major interaction](majors-background-affects-outcomes.md) — related
 - [Method and prior achievement level interact on self-efficacy: medium-ability PTFC students show lower self-efficacy than their teammates' ratings suggest](method-achievement-interaction-self-efficacy.md) — related

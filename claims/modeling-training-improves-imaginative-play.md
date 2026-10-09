@@ -42,6 +42,9 @@ Freyberg studied 80 disadvantaged kindergarten children in New York City, dividi
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas](model-tasks-overcome-verbal-explanation-limits.md) — related
 - [Toy structure made little difference to imaginative play; fantasy predisposition may be already pretty well formed by age five](toy-structure-little-difference-fantasy-predisposition.md) — related

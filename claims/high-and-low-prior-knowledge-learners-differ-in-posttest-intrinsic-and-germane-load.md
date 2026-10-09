@@ -61,6 +61,9 @@ Same experiment, prior-knowledge contrast on the CLM extraneous subscale: "no si
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md)
 - [Expertise Reversal Effect](expertise-reversal-effect.md)

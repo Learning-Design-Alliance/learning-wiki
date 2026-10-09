@@ -42,6 +42,9 @@ Authors' interpretation of the focus group narratives: youth sought to learn Fri
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Urban high school youth report applying school science in non-guided everyday problem-solving, occurring mainly in home-and-family and play-and-recreation settings](youth-apply-school-science-everyday-home-recreation-problems.md) — related
 - [Youth possess sociocultural and cognitive know-how for knowledge application, but indigenous knowledge was not integrated and mobilization is lacking](youth-knowhow-springboard-indigenous-knowledge-gap.md) — related

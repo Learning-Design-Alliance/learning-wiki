@@ -61,6 +61,9 @@ Teacher instructional log data corroborated by system use data: teachers made AS
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
 - [Over 96 percent of surveyed low-performing schools adopted three SIG-promoted improvement practices: data-informed differentiated instruction, expanded technology access or computer-assisted instruction, and collaborative or leader-facilitated ongoing professional development](sig-schools-adopt-three-improvement-practices.md) — related

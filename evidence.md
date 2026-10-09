@@ -74,14 +74,14 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 503 pages | 4 | q2–q4 | 1 of 4 |
 | [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 402 pages | 2 | q4 | 2 of 2 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 396 pages | 3 | q1–q4 | 1 of 3 |
-| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 350 pages | 2 | q3–q4 | 1 of 2 |
+| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 351 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 338 pages | 2 | q2 | 0 of 2 |
 | [Self-monitoring improves self-regulation and supports better learning decisions.](claims/self-monitoring-improves-self-regulation.md) | 332 pages | 2 | q3 | 0 of 2 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 232 pages | 2 | q3 | 0 of 2 |
 | [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 227 pages | 3 | q3–q4 | 1 of 3 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 222 pages | 2 | q3–q4 | 2 of 2 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 221 pages | 3 | q2–q3 | 2 of 3 |
-| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 207 pages | 3 | q1–q3 | 0 of 3 |
+| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 208 pages | 3 | q1–q3 | 0 of 3 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 191 pages | 5 | q2–q4 | 0 of 5 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 182 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 178 pages | 2 | q3 | 0 of 2 |
@@ -89,7 +89,7 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 130 pages | 2 | q2–q3 | 0 of 2 |
 | [Spaced Repetition Improves Retention](claims/spaced-repetition-improves-retention.md) | 117 pages | 3 | q3–q4 | 1 of 3 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 108 pages | 2 | q3 | 0 of 2 |
-| [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
+| [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 99 pages | 2 | q3 | 0 of 2 |
 | [Different media combinations significantly affect the recall and retention of information](claims/media-combinations-affect-recall-and-retention.md) | 94 pages | 1 | q3 | 0 of 1 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 90 pages | 3 | q2–q4 | 1 of 3 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 86 pages | 3 | q3 | 0 of 3 |
@@ -102,24 +102,24 @@ Of the 38 claims cited from 50 or more pages, **7 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-156 claims are cited both ways.
+168 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
-| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 128 | 80 | 141 | 2 |
+| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 129 | 80 | 141 | 2 |
 | [Decorative Illustrations Do Not Improve Learning](claims/decorative-illustrations-do-not-improve-learning.md) | 19 | 8 | 45 | 3 |
 | [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](claims/autonomy-supports-intrinsic-motivation.md) | 332 | 43 | 20 | 3 |
 | [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 521 | 65 | 18 | 3 |
-| [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 9 | 8 | 12 | 3 |
-| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 4 | 189 | 11 | 3 |
+| [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 10 | 8 | 12 | 3 |
+| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 4 | 190 | 11 | 3 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 19 | 4 | 9 | 3 |
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 1 | 1 | 9 | 3 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 46 | 1 | 9 | 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 292 | 22 | 8 | 2 |
-| [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 2 | 5 | 7 | 2 |
-| [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 60 | 11 | 7 | 1 |
+| [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 3 | 5 | 7 | 2 |
+| [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 61 | 11 | 7 | 1 |
 | [Fluent Illusions Mislead Self Assessment](claims/fluent-illusions-mislead-self-assessment.md) | 1 | 5 | 5 | 2 |
-| [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 5 | 6 | 5 | 5 |
+| [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 6 | 6 | 5 | 5 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 1 | 0 | 4 | 1 |
 | [Redundancy Effect Impairs Learning](claims/redundancy-effect-impairs-learning.md) | 5 | 4 | 4 | 1 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 212 | 15 | 3 | 2 |
@@ -140,7 +140,7 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,686 | 1,386 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 12 | 12 | 9 | 0 |
+| [learner-variables](learner-variables/index.md) | 12 | 12 | 31.5 | 0 |
 | [designs](designs/index.md) | 335 | 179 | 1 | 0 |
 | [products](products/index.md) | 86 | 37 | 1 | 0 |
 | [research-methods](research-methods/index.md) | 35 | 26 | 1 | 0 |

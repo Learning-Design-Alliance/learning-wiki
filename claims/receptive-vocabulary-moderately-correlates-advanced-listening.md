@@ -42,6 +42,9 @@ Pearson correlation analysis of 33 advanced Turkish EFL learners' Vocabulary Lev
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Learners’ proficiency correlates with constructional sorting and translation performance, countering a purely age-based explanation](proficiency-correlates-with-sorting-and-translation.md) — related
 - [Adding the 10000-word frequency level does not significantly improve prediction of listening comprehension](10000-word-level-negligible-listening-variance.md) — related

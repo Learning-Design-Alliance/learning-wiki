@@ -42,6 +42,9 @@ The longitudinal MAP data analysis of 224 students with visual impairments found
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Reading achievement was analyzed from 224 students with visual impairments in grades 3–10 in four states over an eight-year period using MAP data](map-reading-growth-224-visually-impaired-students.md) — related
 - [Little is known about growth in reading for students with visual impairments as they progress through school](reading-growth-visual-impairments-understudied.md) — related

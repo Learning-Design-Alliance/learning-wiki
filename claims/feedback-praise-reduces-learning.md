@@ -72,6 +72,9 @@ A narrative review and synthesis of the experimental literature on praise and ch
 
 **Open questions.** The precise dose–response relationship between praise frequency and learning outcomes, and whether process praise produces measurable learning gains (as opposed to merely avoiding harm), remain contested in the literature. The Evidence section records one set of experiments (Mueller & Dweck 1998) and one narrative review (Henderlong & Lepper 2002), both on person or ability praise followed by failure; the broader mechanisms above (informational dilution, crowding out of task focus) are not tested by either, and no recorded study measures learning gains from or against praise in routine feedback. <!-- deprecated 2026-10-05 (stale): Until controlled studies are added to the Evidence section above, this claim should be treated as a well-motivated theoretical prediction rather than an empirically established effect. -->
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — the informational alternative: feedback that tells learners how to improve.

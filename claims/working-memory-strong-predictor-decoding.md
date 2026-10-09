@@ -42,6 +42,9 @@ The white paper cites research, without stating a specific study or effect size,
 ## Discussion
 
 
+## Learner Variables
+- [Working Memory](../learner-variables/working-memory.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Multisensory literacy strategies help students with low working memory become better at decoding](multisensory-strategies-low-working-memory-decoding.md) — related
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related

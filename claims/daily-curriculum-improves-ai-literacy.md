@@ -42,5 +42,8 @@ The brief cites this as an evidence-based implementation example of a validated 
 ## Discussion
 
 
+## Learner Variables
+- [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Of 132 early literacy interventions evaluated by high-quality impact studies, 38 demonstrated effectiveness in at least one language or literacy outcome domain and 93 showed inconclusive effects](38-of-132-early-literacy-interventions-effective.md) — a broader claim this one bears on

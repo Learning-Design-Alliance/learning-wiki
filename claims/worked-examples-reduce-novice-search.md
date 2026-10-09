@@ -47,6 +47,9 @@ Across algebra-learning conditions, learners who studied worked examples perform
 
 The claim is strongest for novices. Once learners already possess the underlying schema, the same example can become redundant rather than helpful.
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md)
 - [Worked-example guidance becomes less effective as learner expertise increases.](worked-examples-less-effective-with-expertise.md)

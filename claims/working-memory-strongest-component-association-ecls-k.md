@@ -42,6 +42,9 @@ Path estimates from Model 2 estimated on ECLS-K raw data at three waves (Table 6
 ## Discussion
 
 
+## Learner Variables
+- [Working Memory](../learner-variables/working-memory.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In the ECLS-K: 2010 dataset, a single latent EF factor model fits EF–math associations better than a specific-components model at all three time points](latent-ef-factor-preferred-ecls-k-math.md) — related
 - [Math achievement correlates more strongly with EF components than EF components correlate with each other in early childhood](math-correlates-more-with-ef-than-ef-internally.md) — related

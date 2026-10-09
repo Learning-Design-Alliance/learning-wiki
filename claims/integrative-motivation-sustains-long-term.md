@@ -42,6 +42,9 @@ The guide reports, citing Gardner and Lambert, a study dividing motivation into 
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Learners of Italian report ideal-self motivation rather than instrumental motivation, while their teachers assume the reverse.](italian-l2-motivation-is-ideal-self-not-instrumental.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related

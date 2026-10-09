@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 12 studies (6 causal, 5 quant-synthesis, 1 review), `q2`–`q4` · 4 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 21 claims (19 for, 1 mixed, 1 against) · 29 studies (10 causal, 8 quant-synthesis, 4 review, 3 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 17 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -37,6 +37,23 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Signaling improves learning](../claims/signaling-improves-learning.md) [+M] — cueing what matters directs attention rather than competing for it
 - [Segmenting improves multimedia learning](../claims/segmenting-improves-multimedia-learning.md) [+M] — learner-paced segments let attention reset at a boundary the learner chooses
 - [Classroom physical activity improves attention](../claims/classroom-physical-activity-improves-attention.md) [+M] — a scheduling rather than a presentation remedy
+- [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](../claims/attention-shift-meaning-to-form-over-cycles.md) [+M] — instruction changes it
+- [Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention](../claims/attention-builds-task-relevant-knowledge-base.md) [+M] — learners who differ on it differ in outcomes
+- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+W] — instruction changes it
+- [Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning](../claims/mobile-independent-work-initiative-actors.md) [+W] — instruction changes it
+- [INSIGHTS improved sustained attention relative to control (effect size +0.39)](../claims/insights-sustained-attention-es-039.md) [+W] — instruction changes it
+- [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](../claims/modeling-training-improves-imaginative-play.md) [+W] — instruction changes it
+- [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](../claims/enhancing-features-increase-attention-single-language-e-books.md) [+M] — instruction changes it
+- [Self Monitoring Improves On Task Behavior](../claims/self-monitoring-improves-on-task-behavior.md) [+S] — instruction changes it
+- [Smartphone use during class is a distraction with potential to compromise grades (review attribution)](../claims/smartphone-class-distraction-grades.md) [+W] — instruction changes it
+- [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Students are more attentive to the teacher's model track when they hear their own recording first](../claims/student-recording-first-increases-attention-to-model.md) [+M] — instruction changes it
+- [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](../claims/playworks-students-reported-better-behavior-attention-after-play.md) [+W] — instruction changes it
+- [Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding](../claims/low-attention-hinders-alphabet-knowledge-phonological-awareness.md) [+M] — learners who differ on it differ in outcomes
+- [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](../claims/animation-phase-dependent-attention-to-print.md) [+W] — instruction changes it
+- [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](../claims/material-artifact-stability-stabilizes-thinking.md) [+M] — instruction changes it
+- [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](../claims/unfamiliar-contexts-distract-from-mathematics.md) [+W] — instruction changes it
+- [Unpressured within-task planning improves accuracy only when attention is guided to form](../claims/unpressured-within-task-planning-form-focused-accuracy.md) [~W] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

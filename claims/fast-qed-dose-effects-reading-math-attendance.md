@@ -42,6 +42,9 @@ Quasi-experimental study matching 85 students who attended FAST three or more ti
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Small isolated effects on family conflict (negative) and parent-teacher joining (positive) appeared but were not enduring and may be spurious](fast-isolated-small-effects-possibly-spurious.md) — related
 - [Lessons in Character has potentially positive effects on academic achievement, with statistically significant effects on mathematics grades and attendance in one randomized controlled trial](lessons-in-character-potentially-positive-academic-achievement.md) — related

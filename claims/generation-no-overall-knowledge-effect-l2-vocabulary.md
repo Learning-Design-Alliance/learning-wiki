@@ -42,6 +42,9 @@ Classroom action study: generalized linear mixed model (binomial) of Knowledge s
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Treatment-by-test-type interactions in Knowledge scores significantly favor the generation condition's improvement from pre-test to post-tests](generation-knowledge-interaction-advantage.md) — related
 - [Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabulary recall, in contrast to prior short-term findings](generation-no-detriment-l2-recall.md) — a broader claim this one bears on

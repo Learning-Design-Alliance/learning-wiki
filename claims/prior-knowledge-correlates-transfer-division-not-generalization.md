@@ -42,6 +42,9 @@ Exploratory correlational analysis examining internal validity of the TFL task s
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Cignition posttest scores correlate significantly with prior knowledge (portion A) scores on both TFL tasks at p < 0.01](cignition-posttest-correlates-prior-knowledge-portion.md) — related
 - [Most students scored 50% or fewer of available points on the TFL tasks, indicating transfer was challenging](most-students-scored-below-50-percent-tfl-tasks.md) — related

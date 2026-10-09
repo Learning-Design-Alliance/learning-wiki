@@ -42,6 +42,9 @@ The review reports, citing Reeds, Winitz and Garcia (1977), significant reading 
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Listening is the most frequently used of the four language skills, consuming the largest share of communication time](listening-most-used-language-skill.md) — related
 - [In concurrent unidimensional calibration the Speaking subtest dominates the Oral scale score while Listening and Speaking correlate only moderately](speaking-dominates-concurrent-oral-scale.md) — related

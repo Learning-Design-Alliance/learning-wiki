@@ -42,6 +42,9 @@ The manual's writing-process section lists eight causes of writing anxiety and f
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — related
 - [Expressive Writing Improves Exam Performance](expressive-writing-improves-exam-performance.md) — related

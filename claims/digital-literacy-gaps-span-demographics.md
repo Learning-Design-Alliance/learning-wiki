@@ -43,6 +43,9 @@ Landscape review section on Technology Access and Adoption, citing Bergson-Shilc
 ## Discussion
 
 
+## Learner Variables
+- [Digital Literacy](../learner-variables/digital-literacy.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — a narrower finding that bears on this claim
 - [Digital skill gaps are large and racialized among U.S. earners, and digital skill level correlates with earnings](digital-skill-gaps-earners-nsc.md) — a narrower finding that bears on this claim

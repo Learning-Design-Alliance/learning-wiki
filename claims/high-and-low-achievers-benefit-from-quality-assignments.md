@@ -42,6 +42,9 @@ The manual summarizes this finding from the Newmann, Bryk, and Nagaoka (2001) re
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Both high- and low-prior-achieving students benefited from high-quality assignments, with math favoring low achievers and reading favoring high achievers](high-and-low-achievers-benefit-authentic-assignments.md) — a narrower finding that bears on this claim
 - [Students Assigned More Intellectually Demanding Work Outperform Comparable Peers Regardless of Prior Achievement](demanding-assignments-benefit-all-achievement-levels.md) — possibly the same claim (merge candidate)

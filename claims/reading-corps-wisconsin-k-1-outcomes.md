@@ -42,6 +42,9 @@ Student-randomized evaluation in 10 Milwaukee, Wisconsin schools with 176 K-1 st
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [In a randomized Minnesota evaluation, K-1 Reading Corps students scored significantly higher on Letter Sound Fluency, Nonsense Word Fluency, and Oral Reading Fluency](reading-corps-minnesota-k-1-fluency-gains.md) — related
 - [Averaging across the two randomized studies, weighted by sample size, Reading Corps produced a mean effect size of +0.36](reading-corps-pooled-effect-0-36.md) — related

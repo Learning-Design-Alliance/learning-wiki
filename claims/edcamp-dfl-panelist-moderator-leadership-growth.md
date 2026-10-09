@@ -40,6 +40,9 @@ Post-survey items asked only of panelists and moderators (see Figure 5). The rep
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Participants reported increased familiarity with each Designing for Learning topic after attending the Edcamp sessions](edcamp-dfl-increased-topic-familiarity.md) — related
 - [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related

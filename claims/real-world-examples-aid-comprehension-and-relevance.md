@@ -59,6 +59,9 @@ Theme cited by eight students: "Students value diverse and authentic examples th
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](interviews-undergrad-stats-lumen-one-perceptions.md) — related
 - [BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate](students-perceive-statistics-as-neutral-subject.md) — reports the opposite

@@ -63,6 +63,9 @@ Evaluation by Guskey and Monsaas (1979) of a mastery learning program in an eigh
 
 Both findings come from one conference-paper synthesis (Guskey & Gates 1985). The time-on-task result averages five studies whose data are classroom observations of on- and off-task behaviour; the attrition result is a single programme evaluation the synthesis reports, not a pooled estimate, and its design is not described in the entry beyond mastery versus non-mastery sections. No entry here compares group-based mastery learning with the Personalized System of Instruction (PSI), so this page makes no claim about a contrast with PSI findings.
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate](group-mastery-positive-achievement-all-studies.md) — related
 - [Mastery learning sections show higher earned credit rates than comparable non-mastery sections at the City Colleges of Chicago](mastery-learning-higher-earned-credit-rates.md) — related

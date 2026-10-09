@@ -42,6 +42,9 @@ The same quasi-experimental study examined 615 English Learners in grades 3–5 
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Lexia English Language Development raises English language proficiency (ELPAC) with an effect size of +0.23](lexia-english-elpac-effect-023.md) — related
 - [Effects of Lexia English Language Development are strongest among students with lower baseline English proficiency](lexia-english-effects-strongest-lower-baseline.md) — related

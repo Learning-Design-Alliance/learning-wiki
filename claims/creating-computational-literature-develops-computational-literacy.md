@@ -46,6 +46,9 @@ Pairs of physics students extended a provided physics simulation (code seed) and
 ## Discussion
 This is a single-course case study (q1) with two student pairs (n=4) and no comparison condition, control group, or formal pre/post assessment — learning is inferred from interviews and the essays students produced, not measured directly. It was also the first open-ended computational project these students had done, so the observed growth could partly reflect novelty rather than the specific instructional design. The finding that different pairs developed different strengths (interpretation vs. implementation) suggests the task accommodates varied entry dispositions, but this is an observed pattern in two cases, not a tested design principle. Generalizability beyond this one physics course is unknown.
 
+## Learner Variables
+- [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
+
 ## Related Claims
 - (none yet linked)
 - [Heterogeneity-seeking modeling curricula surface epistemic commitments in most students, including care-based commitments absent from prior frameworks](heterogeneity-seeking-curricula-surface-diverse-epistemic-commitments.md) — related

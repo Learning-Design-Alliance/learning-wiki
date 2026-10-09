@@ -42,6 +42,9 @@ WWC review of the Wexler et al. (2010) trial assessing four fluency measures —
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Repeated reading shows no discernible effects on alphabetics for students with learning disabilities](repeated-reading-no-discernible-alphabetics-effects.md) — related
 - [Repeated reading shows no discernible effects on general reading achievement for students with learning disabilities](repeated-reading-no-discernible-general-reading-achievement.md) — related

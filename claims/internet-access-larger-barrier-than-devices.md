@@ -42,6 +42,9 @@ The LEA survey found that "Access to reliable Internet connection was a larger b
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [COVID-19 school closures highlighted the need to understand promising remote learning strategies when no classroom alternatives exist](covid-closures-highlight-remote-learning-strategy-need.md) — related
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related

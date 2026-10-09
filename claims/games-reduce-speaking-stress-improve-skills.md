@@ -42,6 +42,9 @@ Content analysis of semi-structured focus-group interviews with 30 undergraduate
 ## Discussion
 
 
+## Learner Variables
+- [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Students report games make the classroom atmosphere fun and increase participation](games-fun-atmosphere-participation.md) — related
 - [Students view games as relaxing and fun, building confidence for speaking](games-relaxing-fun-confidence.md) — related

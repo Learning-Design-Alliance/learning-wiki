@@ -42,6 +42,9 @@ Moderator analysis reported in the quasi-experimental study of English Learners 
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Lexia English Language Development raises English language proficiency (ELPAC) with an effect size of +0.23](lexia-english-elpac-effect-023.md) — related
 - [READY4K! literacy gains are largest for children in the lower half of the baseline skill distribution](ready4k-largest-gains-lower-baseline-half.md) — related

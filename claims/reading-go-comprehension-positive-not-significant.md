@@ -42,6 +42,9 @@ In the same New York City study of language-minority, low-SES first graders, the
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [EIR® had a positive, substantively important but statistically non-significant effect on first-grade reading comprehension](eir-comprehension-substantively-important-ns.md) — related
 - [Stevens and Slavin (1995) found statistically significant positive effects of CIRC on CAT Reading Comprehension and Vocabulary subtests, while Jewell (1994) found no statistically significant effects](circ-comprehension-findings-mixed-across-two-quasi-experiments.md) — related

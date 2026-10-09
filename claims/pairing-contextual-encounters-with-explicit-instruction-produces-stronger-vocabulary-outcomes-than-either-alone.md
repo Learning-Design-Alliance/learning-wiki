@@ -56,6 +56,9 @@ This meta-analysis synthesized studies on the effects of vocabulary instruction 
 
 **Single-source limitation.** The one entry above is a 1986 meta-analysis read as an abstract, whose conclusion that combined methods were most effective comes from comparing methods, with no effect size reported for that comparison. No study recorded here tests context-only, explicit-only and combined instruction against each other. Replication across age groups, second-language vs. first-language learners, and supportive vs. unsupportive text contexts would substantially strengthen confidence.
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 
 - [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) — managing the load imposed by unfamiliar word forms supports combined contextual-instructional approaches

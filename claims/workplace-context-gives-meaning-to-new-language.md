@@ -42,6 +42,9 @@ A theoretical rationale stated in the introduction, presented as the developers'
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English](limited-english-use-opportunities-after-training.md) — related
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](minimal-technical-english-limits-training.md) — related

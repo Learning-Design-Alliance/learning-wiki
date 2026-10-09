@@ -71,6 +71,9 @@ Three experiments with trainees learning to read electrical/circuit diagrams com
 
 **Open questions.** Evidence entries are still needed to quantify how large the novice advantage is for each individual principle, and whether the moderator pattern holds for newer media (interactive simulations, video) as it does for classic text-and-graphics materials.
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Coherence principle: irrelevant material hurts learning](coherence-principle-irrelevant-material-hurts-learning.md) — one of the core multimedia principles whose benefit is strongest for novices

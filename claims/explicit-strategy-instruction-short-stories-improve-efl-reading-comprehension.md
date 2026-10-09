@@ -42,6 +42,9 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Sixth-grade students taught with Direct Instruction showed no statistically significant difference in ITBS reading scores compared with students taught in the regular classroom](direct-instruction-no-significant-reading-difference-sixth-grade.md) — related
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](efl-students-positive-views-explicit-strategy-instruction.md) — related

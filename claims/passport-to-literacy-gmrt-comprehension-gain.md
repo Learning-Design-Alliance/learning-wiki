@@ -42,5 +42,8 @@ A randomized control trial with fourth graders in 16 public schools across multi
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Passport to Literacy improves Woodcock Johnson Passage Comprehension in fourth graders (effect size +0.19)](passport-to-literacy-woodcock-johnson-passage-comprehension.md) — related

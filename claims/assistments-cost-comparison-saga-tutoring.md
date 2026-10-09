@@ -42,6 +42,9 @@ The authors' benchmark comparison in the discussion, citing Guryan et al. (2023)
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The cost-effectiveness ratio of ASSISTments is approximately $462.30 per student per standard deviation of long-term math achievement gain](assistments-cer-462-per-sd.md) — related
 - [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](assistments-long-term-eog-effect-0-10.md) — related

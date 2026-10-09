@@ -49,28 +49,28 @@ GROUP = 15
 # Words a claim about the characteristic tends to use, beyond the page's own title and
 # definition. Retrieval only: the model decides.
 SYNONYMS = {
-    "access": "accessibility disability disabilities device devices internet broadband bandwidth "
-              "visual impairment hearing deaf blind assistive technology",
-    "affect-regulation": "anxiety frustration emotion emotional regulation stress test anxiety "
-                         "failure coping math anxiety",
-    "attention": "attention distraction focus attentional ADHD mind wandering vigilance",
-    "belonging": "belonging social belonging stereotype threat identity inclusion relatedness "
-                 "connectedness",
-    "digital-literacy": "digital literacy computer skills technology proficiency interface "
-                        "online navigation ICT skills",
-    "domain-context": "authentic context workplace relevance situated profession setting "
-                      "real-world relevance",
-    "motivation": "motivation interest self-efficacy value engagement persistence "
-                  "intrinsic extrinsic expectancy mindset",
-    "prior-knowledge": "prior knowledge expertise novice novices experts background knowledge "
-                       "pretest prior achievement expertise reversal",
-    "reading-and-language": "reading comprehension reading ability English learners second "
-                            "language literacy vocabulary multilingual bilingual",
-    "self-regulation": "self-regulated learning metacognition planning monitoring executive "
-                       "function self-control strategy use",
-    "time-and-continuity": "time on task attendance absenteeism summer learning loss dosage "
-                           "interruption continuity instructional time",
-    "working-memory": "working memory cognitive load memory capacity element interactivity",
+    "access": ["accessibility", "disability", "disabilities", "visual impairment", "hearing impairment",
+               "deaf", "blind", "assistive technology", "internet access", "broadband", "device access"],
+    "affect-regulation": ["anxiety", "math anxiety", "test anxiety", "frustration", "emotion regulation",
+                          "emotional regulation", "stress", "coping"],
+    "attention": ["attention", "distraction", "mind wandering", "ADHD", "attentional control", "sustained attention"],
+    "belonging": ["belonging", "social belonging", "stereotype threat", "identity threat", "relatedness",
+                  "connectedness", "sense of community"],
+    "digital-literacy": ["digital literacy", "digital skills", "computer skills", "technology proficiency",
+                         "ICT skills", "computer literacy"],
+    "domain-context": ["authentic context", "workplace", "real-world relevance", "situated learning", "relevance"],
+    "motivation": ["motivation", "interest", "self-efficacy", "expectancy", "intrinsic motivation",
+                   "persistence", "engagement", "growth mindset"],
+    "prior-knowledge": ["prior knowledge", "expertise", "novice", "novices", "expert learners", "background knowledge",
+                        "prior achievement", "expertise reversal", "pretest scores", "domain knowledge"],
+    "reading-and-language": ["reading comprehension", "reading ability", "English learners", "English language learners",
+                             "second language", "bilingual", "multilingual", "reading fluency", "vocabulary knowledge"],
+    "self-regulation": ["self-regulated learning", "self-regulation", "metacognition", "metacognitive",
+                        "executive function", "self-monitoring", "goal setting", "strategy use"],
+    "time-and-continuity": ["time on task", "attendance", "absenteeism", "summer learning", "learning loss",
+                            "instructional time", "dosage", "interruption"],
+    "working-memory": ["working memory", "cognitive load", "memory capacity", "element interactivity",
+                       "short-term memory", "cognitive overload"],
 }
 ROLE_TEXT = {"predictor": "learners who differ on it differ in outcomes",
              "moderator": "an instructional effect differs with it",
@@ -88,7 +88,10 @@ CLAIMS (title, then the evidence the wiki records for it):
 For each claim, decide whether it reports a finding ABOUT this characteristic: learners who differ on it
 learn or achieve differently ("predictor"); an instructional effect differs with it ("moderator"); or
 instruction changes it ("outcome"). A claim that only mentions the word, or is about a different
-characteristic, does not bear. Give a marker: "+" the finding shows the characteristic matters in the way the
+characteristic, does not bear. Also not bearing: a check that two study groups started out equal (baseline
+equivalence), a claim about a research or measurement method, a claim about a programme's overall effect
+on an outcome that is not this characteristic, and a characteristic that belongs to another page (digital
+skills are digital literacy, not access). Give a marker: "+" the finding shows the characteristic matters in the way the
 claim states, "~" it matters only under conditions or the results are mixed, "-" it did not matter here (a
 null result is "-", never "+"); then S, M or W from the evidence line.
 Reply: {{"links": [{{"k": <claim number>, "bears": true, "role": "predictor|moderator|outcome",
@@ -116,11 +119,20 @@ def linked_claims(path: Path) -> set:
 
 
 def candidates(db, slug: str, rec: dict, limit: int, only: "set | None") -> list:
-    query = f"{rec['title']} {rec['description']} {SYNONYMS.get(slug, '')}"
-    rows = search_index.query(db, query, folder="claims", limit=limit, mode="OR")
+    """Claims matching the variable's title or any of its phrases (every word of a phrase
+    in the claim), best first per phrase, merged; phrases keep "working memory" from
+    being read as "working" or "memory"."""
+    phrases = [rec["title"]] + SYNONYMS.get(slug, [])
+    per = max(15, limit // len(phrases))
+    seen, rows = set(), []
+    for ph in phrases:
+        for r in search_index.query(db, ph, folder="claims", limit=per, mode="AND"):
+            if r[2] not in seen:
+                seen.add(r[2])
+                rows.append(r)
     have = linked_claims(FOLDER / f"{slug}.md")
     out = []
-    for r in rows:
+    for r in rows[:limit]:
         claim = r[2]
         if claim in have or (only is not None and claim not in only):
             continue
@@ -136,8 +148,12 @@ def judge(slug: str, rec: dict, group: list, model: str, key: str) -> list:
     listing = "\n".join(f"{i + 1}. {c['title']} [evidence: {c['evidence'] or 'none recorded'}]"
                         for i, c in enumerate(group))
     prompt = PROMPT.format(title=rec["title"], description=rec["description"], claims=listing)
-    gen = oc.generate(model, "You classify research claims for a learning-design wiki. Reply with JSON only.",
-                      prompt, key, max_tokens=2500)
+    try:
+        # A reasoning model spends most of its budget before the JSON: 2,500 ran out.
+        gen = oc.generate(model, "You classify research claims for a learning-design wiki. Reply with JSON only.",
+                          prompt, key, max_tokens=12000)
+    except Exception as e:     # one failed call is recorded, not the end of the run
+        return [{"variable": slug, "error": str(e)[:200], "cost_usd": 0}]
     try:
         d = extract_json(gen.raw_text)
     except Exception:
@@ -211,7 +227,7 @@ def main() -> None:
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--new", action="store_true", help="only claims added in the working tree")
     ap.add_argument("--variables", nargs="+", help="these learner-variable slugs only")
-    ap.add_argument("--limit", type=int, default=120, help="candidate claims per variable")
+    ap.add_argument("--limit", type=int, default=150, help="candidate claims per variable")
     ap.add_argument("--model", default="openai/gpt-5.6-luna")
     ap.add_argument("--concurrency", type=int, default=12)
     ap.add_argument("--out", default=None)

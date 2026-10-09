@@ -42,5 +42,8 @@ The brief reports, citing Quirk et al. (2016), a longitudinal California study i
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [In Virginia, Hispanic/Latino children labeled English Learners with low kindergarten literacy were 20 percent less likely to achieve grade-3 reading proficiency than similar peers](el-labeling-virginia-reading-proficiency-gap.md) — related

@@ -42,6 +42,9 @@ The authors' longitudinal comparison with a nationally normed group reports that
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Little is known about growth in reading for students with visual impairments as they progress through school](reading-growth-visual-impairments-understudied.md) — related
 - [The study compared reading growth for students with visual impairments with a nationally normed group of students from the general population](vi-reading-growth-compared-national-norm-group.md) — related

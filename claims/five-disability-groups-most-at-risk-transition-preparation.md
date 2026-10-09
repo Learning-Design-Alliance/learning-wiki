@@ -42,6 +42,9 @@ Key finding from the NLTS 2012 analyses comparing disability groups: five named 
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Among students with an IEP, youth with emotional disturbance or an intellectual disability experienced more positive changes over the past decade than youth in other disability groups](emotional-disturbance-intellectual-disability-most-positive-change.md) — related
 - [From 2003 to 2012, youth with disabilities showed greater school engagement and support use but became less likely to participate in some key transition activities](engagement-up-transition-activities-down-2003-2012.md) — related

@@ -42,6 +42,9 @@ The brief reports, citing its own 2025 evaluation (Fong et al., 2025), that in t
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Among students receiving at least 24 hours of Air Tutors tutoring, the program showed no significant impact on statewide summative assessments but a positive, statistically significant impact on district benchmark assessments in both districts (effect sizes 0.13 and 0.33)](air-tutors-24-hour-dosage-benchmark-gains.md) — possibly the same claim (merge candidate)
 - [Among students receiving at least 24 hours of Air Tutors tutoring, no statistically significant long-term effect on statewide math assessments was detected](air-tutors-24-hour-dosage-no-long-term-impact.md) — related

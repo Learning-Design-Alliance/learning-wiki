@@ -43,6 +43,9 @@ PLS-SEM structural model on survey data from 689 undergraduates in IEI-linked pr
 ## Discussion
 
 
+## Learner Variables
+- [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning](serial-mediation-affordance-efficacy-motivation-srl.md) — related
 - [AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning](feedback-quality-satisfaction-not-srl.md) — related

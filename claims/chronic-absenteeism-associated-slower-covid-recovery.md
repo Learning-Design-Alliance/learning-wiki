@@ -42,6 +42,9 @@ Observational analysis of MAP Growth data across 2,000 US school districts exami
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [A NWEA research brief examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions to learning](chronic-absenteeism-impediment-academic-recovery.md) — possibly the same claim (merge candidate)
 - [Math shows slower recovery than reading in the full meta-analysis](math-slower-recovery-than-reading.md) — related

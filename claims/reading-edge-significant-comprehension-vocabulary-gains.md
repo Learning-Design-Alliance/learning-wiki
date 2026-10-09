@@ -42,5 +42,8 @@ In the same randomized study of 788 middle school students, the article reports 
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
+
 ## Related Claims
 - [After one year, middle school students using Reading Edge scored higher on the Gates-MacGinitie Reading Tests with an overall effect size of +0.15](reading-edge-gates-macginitie-es-015.md) — possibly the same claim (merge candidate)

@@ -42,6 +42,9 @@ The brief's own synthesis statement, reviewing the collection of research on hig
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [The share of academically at-risk students increased after the pandemic, requiring a response of matching magnitude](post-pandemic-increase-at-risk-students.md) — related
 - [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](ff-tutoring-scale-up-success.md) — related

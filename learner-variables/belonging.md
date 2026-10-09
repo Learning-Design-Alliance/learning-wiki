@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 5 claims (5 for) · 9 studies (6 causal, 2 qualitative, 1 quant-synthesis), `q1`–`q4` · 0 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 26 claims (23 for, 3 mixed) · 28 studies (8 causal, 7 qualitative, 6 review, 3 design, 2 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q4` · 0 of 28 report an effect size · 23 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -38,6 +38,27 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Building empathy improves intergroup attitudes](../claims/building-empathy-improves-intergroup-attitudes.md) [+M] — perspective-taking shifts the attitudes that shape who is treated as a participant
 - [Identity-centered making supports STEM engagement and identity affirmation](../claims/identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) [+W] — qualitative, small-sample — indicative of mechanism rather than of effect size
 - [Restorying supports computing identity reconstruction](../claims/restorying-supports-computing-identity-reconstruction.md) [+W] — shows learners actively resisting dominant narratives rather than passively receiving a framing
+- [A regional collective initiative (Teaching is My Favorite Color) provided teachers of color a safe space, belonging, and authentic identity expression](../claims/teaching-is-my-favorite-color-belonging-impact.md) [+W] — instruction changes it
+- [Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose](../claims/admiral-squad-confidence-beloning-impact.md) [+W] — instruction changes it
+- [Belonging is a prerequisite for effective collaborative learning, not merely a positive outcome](../claims/belonging-prerequisite-for-collaborative-learning.md) [+W] — learners who differ on it differ in outcomes
+- [Math tutoring programs may improve students' math confidence and sense of belonging](../claims/tutoring-may-improve-math-confidence-and-belonging.md) [+M] — instruction changes it
+- [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](../claims/microblogging-promotes-interaction-community-language-learners.md) [+M] — instruction changes it
+- [PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community](../claims/pktp-family-activities-built-informal-relationships.md) [+M] — instruction changes it
+- [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](../claims/psychological-belonging-barrier-first-generation-chemists.md) [+W] — learners who differ on it differ in outcomes
+- [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](../claims/stereotype-threat-undermines-collaborative-contribution.md) [~W] — learners who differ on it differ in outcomes
+- [Strengthening the student-educator relationship can contribute positively to marginalised students' self-efficacy and sense of belonging in higher education](../claims/student-educator-relationship-builds-self-efficacy-and-belonging.md) [+W] — instruction changes it
+- [Strong student–tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects](../claims/strong-student-tutor-relationships-key-to-tutoring-success.md) [+W] — learners who differ on it differ in outcomes
+- [Student math confidence and sense of belonging in tutoring increased modestly during the school year, with site-level variation](../claims/blueprint-confidence-belonging-modest-increase.md) [~M] — instruction changes it
+- [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](../claims/collaboration-interest-belonging-worse-online.md) [~M] — instruction changes it
+- [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](../claims/students-interaction-empathy-perspective-taking.md) [+M] — instruction changes it
+- [Students reported improved school-work priorities, peer academic behavior, teacher connection and support, and school connectedness after two years](../claims/success-project-survey-climate-improvements.md) [+W] — instruction changes it
+- [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](../claims/stronger-belonging-linked-engagement-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](../claims/sel-skills-plus-academics-full-potential.md) [+W] — learners who differ on it differ in outcomes
+- [Students' sense of belonging predicts their contributions to classroom knowledge building at both student and teacher levels](../claims/belonging-predicts-knowledge-building-contributions.md) [+M] — learners who differ on it differ in outcomes
+- [Teacher support is one of the strongest predictors of student belonging](../claims/teacher-support-predicts-student-belonging.md) [+M] — instruction changes it
+- [The percentage of secondary students reporting high school connectedness on the CHKS increased from 32 percent to 36 percent](../claims/cal-well-dnusd-student-school-connectedness-increase.md) [+W] — instruction changes it
+- [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](../claims/parent-to-parent-forums-community-support.md) [+W] — instruction changes it
+- [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](../claims/youmedia-sense-of-community-drives-digital-media-engagement.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 - Affect regulation — belonging shapes how a setback is felt before any regulation strategy is applied.

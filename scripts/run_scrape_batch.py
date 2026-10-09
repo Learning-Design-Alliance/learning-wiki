@@ -414,6 +414,14 @@ def run(args) -> None:
         _run_chained_step([sys.executable, "-u", "scripts/link_pages.py", "--new", "--apply",
                            "--out", f"eval/runs/page-links/{args.label}.ndjson"],
                           SCRAPE_CONSOLE_LOG_PATH)
+        # A claim reporting a finding about a learner characteristic (prior knowledge,
+        # working memory, ...) links into its learner-variables/ page and back, the join
+        # learning-design-spec's learner dimensions reach the research through. Without
+        # it 5 of the 12 pages had no inbound link (2026-10-10). About $0.0025 a group of 15.
+        print(f"\n=== linking new claims to learner variables ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/link_learner_variables.py", "--new", "--apply",
+                           "--out", f"eval/runs/learner-links/{args.label}.ndjson"],
+                          SCRAPE_CONSOLE_LOG_PATH)
         # Principles and patterns are no longer written as pages by ingest: each is a
         # candidate in eval/candidates/ (candidates_lib.py). Settle them now that the
         # batch's claims exist: a candidate restating a canonical page attaches its

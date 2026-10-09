@@ -42,6 +42,9 @@ Classroom tests with the LAVAC video sequencer's sequential listening mode, repo
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed](sound-wave-display-prompts-louder-speech-and-sound-noticing.md) — related
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](students-pause-video-to-view-segment-menu.md) — related

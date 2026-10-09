@@ -42,6 +42,9 @@ Descriptive analysis of postsecondary outcomes by disability status across the s
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [The BPSS logic model targets increased college readiness among Arkansas student populations with persistent outcome disparities](bpss-goal-college-readiness-disparity-populations.md) — related
 - [Substantial differences in attaining academic indicators of postsecondary readiness occurred for most student groups, with the largest number between Black and White students, NSLP-eligible and ineligible students, and students entering grade 6 after age 13](academic-indicator-attainment-varies-by-student-group.md) — related

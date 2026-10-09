@@ -56,6 +56,9 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 
 **Open questions.** The expertise level at which segmentation benefits disappear likely varies by domain complexity and segment granularity. Fine-grained segmentation may retain value longer than coarse segmentation, but this has not been firmly established. Studies specifically testing segmentation × expertise interactions are scarcer than for worked examples, so confidence in the precise crossover point is limited.
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 
 - [Worked examples can become redundant or counterproductive for advanced learners.](worked-examples-less-effective-with-expertise.md) — the same expertise reversal pattern for a closely related load-reducing scaffold

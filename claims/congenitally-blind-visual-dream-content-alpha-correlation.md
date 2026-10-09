@@ -61,6 +61,9 @@ Graphical representation task in the same PSG study: subjects drew one of their 
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [EEG alpha power attenuation is an indicator of visual imagery and is more affected by visual than abstract mentation](alpha-attenuation-visual-imagery-indicator.md) — related
 - [Dream-content and drawing measures show almost no group differences between congenitally blind and sighted subjects](blind-sighted-dream-drawing-null-differences.md) — related

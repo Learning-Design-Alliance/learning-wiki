@@ -42,6 +42,9 @@ The review reports Hulstijn and Hulstijn's (1984) study of L2 Dutch students per
 ## Discussion
 
 
+## Learner Variables
+- [Attention](../learner-variables/attention.md) — moderator: an instructional effect differs with it
+
 ## Related Claims
 - [Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency](fluency-precedes-accuracy-oral-l2.md) — related
 - [The influence of strategic planning on accuracy is unclear and depends on task type and planning conditions](strategic-planning-accuracy-mixed.md) — related

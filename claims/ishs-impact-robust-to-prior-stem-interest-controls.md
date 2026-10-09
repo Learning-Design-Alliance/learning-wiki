@@ -42,6 +42,9 @@ Sensitivity analysis using the Class of 2017 cohort surveyed as freshmen and sen
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Attending an inclusive STEM high school nearly triples the odds of declaring a Core STEM major at a four-year college two years after high school graduation](ishs-triples-odds-four-year-stem-major.md) — related
 - [The four-year college STEM major advantage of inclusive STEM high schools holds for Hispanic, female, and economically disadvantaged students, with odds ratios above three](ishs-stem-major-advantage-underrepresented-subgroups.md) — related

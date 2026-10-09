@@ -42,6 +42,9 @@ The study compared ELPAC overall performance against SBAC English language arts 
 ## Discussion
 
 
+## Learner Variables
+- [Reading and Language](../learner-variables/reading-and-language.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [ELPAC overall Performance Level 4 is the most robust indicator that language is no longer the primary driver of academic achievement differences among California's reclassification criteria](elpac-pl4-sweet-spot-reclassification.md) — a broader claim this one bears on
 - [In both analysis years and all tested grades, EL students reach a 50 percent chance of SBAC ELA proficiency within ELPAC overall PL 4](logistic-regression-50-percent-proficiency-pl4.md) — related

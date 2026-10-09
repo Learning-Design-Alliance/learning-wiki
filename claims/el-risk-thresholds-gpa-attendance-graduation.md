@@ -61,6 +61,9 @@ The study's threshold analysis of ninth-grade attendance and graduation shows ac
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — related
 - [Attainment likelihood thresholds differ: ELs with GPA above 2.0 had ~90% graduation rates except students with IEPs, and only active ELs needed attendance above 95% to be very likely to graduate](el-attainment-risk-thresholds.md) — possibly the same claim (merge candidate)

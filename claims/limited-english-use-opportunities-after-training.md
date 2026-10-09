@@ -42,6 +42,9 @@ Interview findings on English use in public and private spheres. The article rep
 ## Discussion
 
 
+## Learner Variables
+- [Domain Context](../learner-variables/domain-context.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Participants perceived their English had improved through the program, and this increased their independence in job searching, services, and community interaction](esl-training-increased-independence-english-use.md) — related
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](minimal-technical-english-limits-training.md) — related

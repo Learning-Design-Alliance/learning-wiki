@@ -42,6 +42,9 @@ The abstract reports the study's headline result: "after a proctor notification 
 ## Discussion
 
 
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
 ## Related Claims
 - [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](proctor-notification-improves-performance-and-validity.md) — related
 - [Proctor notification when students disengage makes a significant impact on student test engagement](proctor-notification-improves-test-engagement.md) — a broader claim this one bears on

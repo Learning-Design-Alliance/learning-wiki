@@ -42,6 +42,9 @@ A Kruskal-Wallis test on the single-item 10-point perceived difficulty measure (
 ## Discussion
 
 
+## Learner Variables
+- [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Metacognitive strategies and prior coding experience significantly predict CT profile membership, with metacognition contributing more strongly](metacognition-coding-experience-predict-ct-profile.md) — related
 - [Proficient learners complete the CT task faster and with fewer clicks than Novice and Developing learners](proficient-learners-task-efficiency-behaviour.md) — related

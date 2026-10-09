@@ -42,6 +42,9 @@ The summary reports, citing Carneiro and Ginja (2013) on Head Start, higher rate
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Early childhood education attendance is associated with decreased high school disciplinary measures including juvenile incarceration compared to similar non-attending children](ece-decreased-discipline-incarceration.md) — related
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — related

@@ -42,6 +42,9 @@ The playbook summarizes prior research (citing Attendance Works' compilation of 
 ## Discussion
 
 
+## Learner Variables
+- [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Missing five days of school in the first semester of ninth grade decreases the likelihood of eventually graduating high school by 25 percentage points](ninth-grade-five-absences-graduation-drop.md) — a narrower finding that bears on this claim
 - [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](condensed-eot-attendance-support-below-average-graduation.md) — related

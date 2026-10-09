@@ -42,6 +42,9 @@ Executive Summary and Chapter 3 graduation-rate comparisons for the 2001 cohort 
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [Students with learning disabilities and mild cognitive disabilities benefit less from rigorous study habits than students without identified disabilities, and for mild cognitive disabilities there is no relationship between study habits and course failures](diminished-study-habit-benefits-ld-mild-cognitive.md) — related
 - [Freshman-year performance of Chicago ninth-graders falls into three tiers, with students two or more years below grade level and students with emotional disturbances performing worst across GPA, course failures, absences, and on-track status](freshman-performance-three-tiers-disability-categories.md) — related

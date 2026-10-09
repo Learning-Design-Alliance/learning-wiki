@@ -61,6 +61,9 @@ The review attributes to Gulley et al. (2017) the statistics that "75% of BVI st
 ## Discussion
 
 
+## Learner Variables
+- [Access](../learner-variables/access.md) — predictor: learners who differ on it differ in outcomes
+
 ## Related Claims
 - [BVI students in schools with more academic supports outperform on standardized math tests](academic-supports-bvi-math-outperformance.md) — related
 - [Vision is not required for developing number sense and math skills in BVI learners](vision-not-required-for-number-sense-bvi.md) — reports the opposite
