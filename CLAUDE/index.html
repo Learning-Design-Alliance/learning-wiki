@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="A persistent, LLM-maintained knowledge base for learning design — principles, elements, patterns, designs, strategies, design processes and methods, theories, learner variables, and empirical claims.">
+        <meta name="description" content="A persistent, LLM-maintained knowledge base for learning design — principles, elements, patterns, designs, products and programmes, strategies, design processes and methods, research methods, theories, learner variables, and empirical claims.">
       
       
       
@@ -152,7 +152,7 @@
     
     
     
-      <div class="md-header__source">
+      <form class="lt-header-search" action="../search/" role="search" style="margin:0 .6rem;align-self:center"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki" style="font:inherit;font-size:.7rem;padding:.25rem .5rem;border-radius:.2rem;border:0;width:11rem;max-width:30vw;background:var(--md-default-bg-color);color:var(--md-default-fg-color)"></form><div class="md-header__source">
         <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
   <div class="md-source__icon md-icon">
     
@@ -380,6 +380,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../products/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Products & Programmes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../strategies/" class="md-nav__link">
         
   
@@ -442,6 +469,33 @@
     
   
     Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../research-methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Methods
   
 
     
@@ -1028,6 +1082,28 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#product-or-programme" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Product or Programme
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#research-method" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Research Method
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1521,6 +1597,28 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#product-or-programme" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Product or Programme
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#research-method" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Research Method
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#strategy" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1723,6 +1821,19 @@ work is done, not that the check is broken.</p>
   A design page says which patterns it uses and for what (<code>## Patterns Used</code>); the evidence stays on
   the patterns and claims it links.</p>
 </li>
+<li>
+<p><strong>Products and programmes live in <code>products/</code>, and education research methods in <code>research-methods/</code></strong>
+  (maintainer, 2026-10-10). A <strong>product</strong> is a named thing others adopt or use: software or a platform, a
+  curriculum or programme package, an assessment or measurement instrument, a dataset, a branded
+  intervention or initiative. One programme's own frameworks, indicators, tools and theories of change are
+  listed on its page under <code>## Components</code>, not written as theories or elements. A <strong>design</strong> is one
+  setting's design (a course, a lesson sequence, one site's implementation); a branded programme many
+  sites adopt is a product. A <strong>research method</strong> is a method for studying learning or evaluating
+  education that is specific to education or especially useful there (cluster-randomised trials of
+  schools, evidence standards, design-based research, knowledge tracing, growth and value-added models).
+  <strong>General social-science methods are not pages</strong> (maintainer: "regular old social science research
+  methods are not that useful in a database like this"). <code>methods/</code> stays the <em>design</em> methods.</p>
+</li>
 </ul>
 <p><strong>When you finish something wiki-wide, add a dated entry at the top of
 <a href="https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/history/agent-log.md"><code>history/agent-log.md</code></a></strong>, newest first, as every session before you
@@ -1739,6 +1850,14 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   <code>scripts/build_site.sh</code> is the one build, used by all three workflows; <code>docs_hooks/two_tier.py</code>
   says which page is in which tier. PR previews run only for PRs that change the site build
   (or carry the <code>preview</code> label).</li>
+<li><strong>Pagefind is pinned at 1.5.2 with its binary</strong> (<code>pagefind-bin-extended</code>): 1.3.0 silently
+  dropped results for any word at an index-chunk boundary. The search page lists <strong>Main pages</strong>
+  (canonical, then other curated pages, <code>tier</code> filter, re-ranked by title and alias coverage)
+  above the full results, turns off Pagefind's long-page penalty, and every page has a header
+  search box.</li>
+<li><strong>Deploys replace the published tree</strong> (<code>keep_files: false</code>), carrying open PR previews over,
+  so renamed and deleted pages do not accumulate. At about 12 KB a page, the 1 GB Pages limit
+  is near 85,000 pages; past that the long tail has to move off GitHub Pages.</li>
 <li><strong><code>log.md</code> holds the current month</strong>; <code>okf_lib.rotate_log()</code> moves earlier months to
   <code>log/YYYY-MM.md</code>. The log is not on the site.</li>
 <li><strong><code>wiki-index.json</code> and <code>reverse-index.json</code> are written one record per line</strong>
@@ -1758,11 +1877,14 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 <li><strong>Batches write no principle, pattern, element or theory page.</strong> Ingest puts each in
   <code>eval/candidates/candidates.ndjson</code>, and <code>settle_candidates.py --apply</code> (run in every batch)
   attaches it to a canonical page, joins it to another candidate, writes a design page,
-  records it as an <code>artifact</code> (a product, tool or one programme's framework, waiting on a
-  maintainer decision about a kind for them) or drops it. Promotion to a new canonical page is
+  writes it to its product's page (<code>product</code>, grouped by name: a programme's tools and
+  frameworks become components of one page) or a research-method page, or drops it. The old
+  <code>artifact</code> outcome is no longer given, and its candidates are asked again. Promotion to a new canonical page is
   an agent's job, checked by <code>scripts/check_design_page.py</code>. <strong>Do not re-enable
-  <code>--direct-pages</code>.</strong> The independence rule for a promotion cluster (same author over several
-  years is a research agenda, not two sources) is still open.</li>
+  <code>--direct-pages</code>.</strong> A cluster promotes on two <strong>independent</strong> sources: different articles
+  with no author in common and not published by the same organisation (maintainer,
+  2026-10-10: one author or organisation across years is a research agenda, not
+  confirmation; <code>settle_candidates.independent</code>), or on one synthesis at q3 or above.</li>
 <li><strong>A fresh container needs <code>pip install -r requirements-eval.txt</code></strong> (without pypdf most PDFs fail).</li>
 <li><strong>After a container restart the proxy port changes</strong>; a process started before it keeps the
   old <code>HTTPS_PROXY</code> and every request fails. Compare <code>/proc/&lt;pid&gt;/environ</code> with the current
@@ -1830,8 +1952,7 @@ refers to. The parts still open as of 2026-10-09: the sweep of older pages onto 
 conventions (<code>priority_worklist.py</code>, <code>check_evidence_markers.py</code>), the citation backlogs
 (<code>check_citations.py</code> and its <code>--collisions</code>, <code>--metadata</code>, <code>--titles</code>, <code>--variants</code> modes;
 <code>citation_worklist.py</code> for the book backlog), and the maintainer decisions listed in the
-2026-10-09 history entry (a kind for products and programmes, the independence rule, a
-research-methods kind).</p>
+2026-10-09 history entry; the kinds and the independence rule were settled 2026-10-10.</p>
 <hr />
 <h2 id="research-observations-the-structured-record-beside-a-claim">Research observations — the structured record beside a claim<a class="headerlink" href="#research-observations-the-structured-record-beside-a-claim" title="Permanent link">&para;</a></h2>
 <p>A claim page argues something. <code>observations/&lt;study-key&gt;.yaml</code> records the configuration
@@ -2718,7 +2839,7 @@ does not read it.</p>
 </table>
 <hr />
 <h2 id="frontmatter-fields">Frontmatter fields<a class="headerlink" href="#frontmatter-fields" title="Permanent link">&para;</a></h2>
-<p>Every content page (principle, element, pattern, design, strategy, process, method, theory, learner-variable, claim) carries this OKF-conformant frontmatter:</p>
+<p>Every content page (principle, element, pattern, design, product, strategy, process, method, research method, theory, learner-variable, claim) carries this OKF-conformant frontmatter:</p>
 <table>
 <thead>
 <tr>
@@ -2731,7 +2852,7 @@ does not read it.</p>
 <tr>
 <td><code>type</code></td>
 <td>Yes</td>
-<td><code>principle</code> | <code>element</code> | <code>pattern</code> | <code>design</code> | <code>strategy</code> | <code>process</code> | <code>method</code> | <code>theory</code> | <code>learner-variable</code> | <code>claim</code></td>
+<td><code>principle</code> | <code>element</code> | <code>pattern</code> | <code>design</code> | <code>product</code> | <code>strategy</code> | <code>process</code> | <code>method</code> | <code>research-method</code> | <code>theory</code> | <code>learner-variable</code> | <code>claim</code></td>
 </tr>
 <tr>
 <td><code>title</code></td>
@@ -2908,10 +3029,12 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
   principles/        ← design principles (what to do and why)
   elements/          ← instructional components (building blocks)
   patterns/          ← instructional patterns (reusable designs at lesson/unit level)
-  designs/           ← designs for one setting, course, population or product, using patterns
+  designs/           ← designs for one setting, course or population, using patterns
+  products/          ← named products and programmes others adopt, with their own frameworks and evidence
   strategies/        ← teaching strategies (concrete activity recipes)
   processes/         ← design processes: how a course gets made (ADDIE, SAM, design thinking, UbD)
   methods/           ← design methods: the practices a process is made of (task analysis, personas, crosswalks)
+  research-methods/  ← methods for studying learning and evaluating education (education-specific only)
   theories/          ← learning theories (explanatory frameworks)
   learner-variables/ ← canonical learner characteristics (prior knowledge, self-efficacy, ...) claims link into
   claims/            ← empirical claims with evidence
@@ -3269,6 +3392,79 @@ author:
 - 
 
 <span class="gu">## Related Designs</span>
+- 
+
+<span class="gu">## Key Sources</span>
+- 
+</code></pre></div>
+<hr />
+<h3 id="product-or-programme">Product or Programme<a class="headerlink" href="#product-or-programme" title="Permanent link">&para;</a></h3>
+<p>A named product or programme others adopt or use. <code>product_kind</code> is one of <code>software</code>, <code>curriculum</code>,
+<code>assessment</code>, <code>dataset</code>, <code>programme</code>, <code>framework</code>. Its own frameworks, tools and indicators are components
+on this page, not pages of their own.</p>
+<div class="highlight"><pre><span></span><code>---
+type: product
+id: [product-slug]      # equal to the filename
+title: [Name, as its maker names it]
+description: [One sentence: what it is and who makes or runs it]
+product_kind: programme
+status: draft
+generated:
+  by: &lt;actor&gt;
+<span class="gu">  at: YYYY-MM-DD</span>
+<span class="gu">---</span>
+
+<span class="gh"># [Name]</span>
+
+<span class="k">&gt; </span><span class="ge">**Product or Programme** · [All products and programmes](index.md)</span>
+
+<span class="gu">## Description</span>
+[What it is, who makes or runs it, who it is for, what it is meant to achieve.]
+
+<span class="gu">## Components</span>
+&lt;!-- Its own frameworks, tools, indicators and instruments, as its sources describe them --&gt;
+- 
+
+<span class="gu">### Claims</span>
+&lt;!-- Claims about it or tested with it, with evidence tags --&gt;
+- 
+
+<span class="gu">## Related Products and Programmes</span>
+- 
+
+<span class="gu">## Key Sources</span>
+- 
+</code></pre></div>
+<hr />
+<h3 id="research-method">Research Method<a class="headerlink" href="#research-method" title="Permanent link">&para;</a></h3>
+<p>A method for studying learning or evaluating education that is specific to education or especially useful
+there. A general social-science method is not a page.</p>
+<div class="highlight"><pre><span></span><code>---
+type: research-method
+id: [method-slug]      # equal to the filename
+title: [Method Name]
+description: [One sentence: what question it answers and how]
+status: draft
+generated:
+  by: &lt;actor&gt;
+<span class="gu">  at: YYYY-MM-DD</span>
+<span class="gu">---</span>
+
+<span class="gh"># [Method Name]</span>
+
+<span class="k">&gt; </span><span class="ge">**Research Method** · [All research methods](index.md)</span>
+
+<span class="gu">## Description</span>
+[What the method is, what question it answers, what data it needs, and its known limits.]
+
+<span class="gu">## Accounts</span>
+&lt;!-- How each source describes or uses the method --&gt;
+- 
+
+<span class="gu">### Claims</span>
+- 
+
+<span class="gu">## Related Research Methods</span>
 - 
 
 <span class="gu">## Key Sources</span>
