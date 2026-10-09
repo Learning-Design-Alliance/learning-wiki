@@ -65,6 +65,7 @@ The toolkit treats bias mitigation as a design discipline rather than a complian
 - [Ask ethics, bias, and equity questions before adopting an AI system](ethics-bias-equity-questions-for-ai.md)
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
 - [During post-adoption, monitor fidelity of use, examine equity patterns, and share strengths and challenges with developers](post-adoption-fidelity-monitoring-feedback.md)
+- [Regularly audit ML models for fairness and proactively apply bias mitigation during model training](regular-fairness-audits-and-proactive-bias-mitigation.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — disaggregated outcome evaluation is the toolkit's core verification step

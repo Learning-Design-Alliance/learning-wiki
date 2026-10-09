@@ -45,3 +45,4 @@ Documentary and interview analysis of the CPS accountability regime instituted u
 ## Related Claims
 - [Chicago Annenberg Challenge schools enrolled about 220 schools and 42 percent of CPS students, with demographics largely representative of the system](annenberg-schools-representative-of-cps.md) — related
 - [Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources](network-participation-time-resource-challenges.md) — related
+- [Accountability pressures overshadowed the survey's improvement potential without reducing its predictive power](accountability-overshadows-improvement-potential.md) — related

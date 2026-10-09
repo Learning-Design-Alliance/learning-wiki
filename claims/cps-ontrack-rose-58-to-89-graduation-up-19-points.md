@@ -77,3 +77,6 @@ The report's introduction describes district graduation trends: "from 2011 to 20
 - [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related
 - [Citywide freshman on-track rates improved from 48 to 58 percent over a decade, with declines tied to increased course-taking](on-track-rate-citywide-trends.md) — related
 - [Talladega County Schools' graduation rate rose from just above 70 percent in 2008 to 93 percent after its transition to project-based learning supported by digital technologies](talladega-graduation-rate-70-to-93-pbl-digital.md) — related
+- [The share of students in the On-Track category increased by 20 percentage points between 2009 and 2019 while the Intensive Support share decreased from 12 to 8 percent](condensed-eot-ontrack-increase-over-time.md) — related
+- [CPS Freshman OnTrack rates rose 28 percentage points from 61 percent (2007) to 89 percent (2019), then flattened in recent years](cps-freshman-ontrack-rose-28-points-then-flattened.md) — related
+- [CPS four-year high school graduation rose from 58 percent (2007) to 82 percent (2019), with 18-point growth excluding options school graduates](cps-graduation-rose-58-to-82-percent-including-options.md) — related

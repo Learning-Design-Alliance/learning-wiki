@@ -45,6 +45,7 @@ The guide's sixth schoolwide recommendation increases engagement by providing st
 - [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)
 - [Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions](dropout-data-systems-diagnosis-strategy.md)
 - [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
+- [Raise student awareness of requirement flexibility and support options for meeting CCR graduation requirements](raise-awareness-ccr-flexibility-options.md)
 
 ## Examples
 -

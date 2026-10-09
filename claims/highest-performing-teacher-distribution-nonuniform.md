@@ -48,3 +48,4 @@ Chi-square independence tests of teacher status by school quintile using distric
 - [District G shows the opposite pattern: highest-poverty elementary schools were most likely to have highest-performing teachers](district-g-elementary-favors-high-poverty-schools.md) — related
 - [Across ten districts combined, elementary schools show no statistically significant difference from an equitable distribution of highest-performing teachers](elementary-equitable-distribution-highest-performing-teachers.md) — related
 - [Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools](high-poverty-middle-schools-underrepresented-highest-performing-teachers.md) — a narrower finding that bears on this claim
+- [Teacher mobility behavior is heterogeneous across the teacher performance distribution](heterogeneous-mobility-across-performance-distribution.md) — related

@@ -58,3 +58,4 @@ Quasi-experimental evaluation matching Kauffman students to a comparison group o
 - [Students in single-discipline courses begin the year with higher achievement, roughly three or four points across subjects](single-discipline-students-higher-baseline.md) — related
 - [Kauffman School college enrollment and achievement impacts are comparable to average effects for other high-performing charter schools](kauffman-impacts-comparable-high-performing-charters.md) — related
 - [The Kauffman School produces sustained positive achievement growth impacts in mathematics, English language arts, and science](kauffman-school-sustained-achievement-growth-impacts.md) — a broader claim this one bears on
+- [The Kauffman School produced substantial positive impacts on achievement growth in mathematics, English language arts, and science each year through 2021-22, except during the 2020-21 pandemic year](kauffman-school-achievement-growth-impacts-math-ela-science.md) — related

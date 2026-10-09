@@ -45,3 +45,4 @@ Behavioral finding from the report's nine-year evaluation of the Kauffman School
 ## Related Claims
 - [Kauffman students had higher attendance rates and were less likely to be suspended than similar Kansas City students](kauffman-students-higher-attendance-lower-suspension.md) — a broader claim this one bears on
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — a narrower finding that bears on this claim
+- [In 2021-22 the Kauffman School increased attendance rates by approximately 1 percentage point](kauffman-school-2021-22-attendance-increase.md) — a narrower finding that bears on this claim

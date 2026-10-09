@@ -48,3 +48,4 @@ WWC synthesis of two quasi-experimental studies (statistically/propensity matche
 - [Success Boston Coaching has potentially positive effects on academic achievement, with a significant effect in one study and an indeterminate effect in the other](success-boston-coaching-potentially-positive-academic-achievement.md) — related
 - [In the Linkow et al. (2017) QED, coaching produced a statistically significant positive effect on cumulative college GPA](linkow-2017-significant-gpa-effect.md) — related
 - [In the Linkow et al. (2019) scale-up QED, coaching showed no statistically significant effect on cumulative college GPA (effect size 0.01, p = 0.82)](linkow-2019-null-gpa-effect.md) — related
+- [The evaluation assesses SMDEP impacts on college graduation and medical or dental school matriculation using propensity score matching](smdep-impact-evaluation-psm-design.md) — related

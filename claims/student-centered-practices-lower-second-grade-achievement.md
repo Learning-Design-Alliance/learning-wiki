@@ -48,3 +48,4 @@ Correlational results the brief labels "Less consistent results ... in three 2nd
 - [Teachers dedicating more time to whole-class instruction is associated with increased student math achievement](more-whole-class-instruction-time-higher-math-achievement.md) — related
 - [Teachers suggesting specific practices in response to students' work is associated with higher math achievement in 1st grade only](suggesting-specific-practices-first-grade-higher-achievement.md) — related
 - [Interactive instruction is more common in classrooms with higher prior achievement; didactic and review are more common in lower-achieving classrooms](instruction-varies-by-class-achievement-composition.md) — related
+- [Schools where students and teachers reported frequent use of standards-aligned practices showed stronger assessment gains than schools with few reports of frequent use](standards-aligned-practices-stronger-gains.md) — related

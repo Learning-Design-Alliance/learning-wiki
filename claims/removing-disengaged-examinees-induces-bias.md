@@ -48,3 +48,4 @@ The study's reported result on the sample-removal technique: the authors state t
 - [Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring](rapid-guessing-summer-learning-loss-estimates.md) — related
 - [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
 - [Student test disengagement may bias estimates of educational effectiveness based on observed test results](test-disengagement-may-bias-effectiveness-estimates.md) — related
+- [Restricting a sample to students who used the treatment can block a mediating path and induce overcontrol bias, attenuating estimated effects](overcontrol-bias-blocking-mediator.md) — a narrower finding that bears on this claim

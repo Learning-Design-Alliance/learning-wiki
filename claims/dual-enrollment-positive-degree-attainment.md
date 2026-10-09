@@ -51,3 +51,4 @@ Systematic review synthesis of five studies (two RCTs without reservations, thre
 - [Dual enrollment programs show no discernible effects on general academic achievement (college)](dual-enrollment-no-effect-college-achievement.md) — related
 - [Dual enrollment programs have potentially positive effects on staying in high school, college readiness, and attendance (high school), each with a small extent of evidence](dual-enrollment-potentially-positive-staying-readiness-attendance.md) — related
 - [Project QUEST may decrease postsecondary degree attainment (improvement index -3, two studies, 1,301 students)](project-quest-potentially-negative-degree-attainment.md) — related
+- [Only dual enrollment and early college high school studies documented rural inclusion, and none analyzed rural students separately](no-rural-effectiveness-evidence-college-readiness-interventions.md) — related

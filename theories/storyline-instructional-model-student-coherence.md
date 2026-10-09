@@ -47,6 +47,7 @@ The storyline instructional model centers on coherence from the students' perspe
 
 - [OpenSciEd research logic model with five components](open-scied-research-logic-model.md)
 - [The student hat: a practice-based professional learning approach building epistemic empathy with student experiences](student-hat-professional-learning-approach.md)
+- [Three constructs of equitable participation: coherence, relevance, and contribution](coherence-relevance-contribution-constructs.md)
 
 ## Examples
 

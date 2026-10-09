@@ -51,3 +51,4 @@ From the provider strategy analysis: partners' professional development consiste
 - [Providers located low performance within schools and targeted the instructional unit of teachers, materials, and students](providers-target-instructional-unit-teachers-materials-students.md) — related
 - [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related
 - [Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level](pr-teachers-dissatisfied-pd-want-tailored-workshops.md) — related
+- [Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change](professional-learning-most-important-support.md) — related

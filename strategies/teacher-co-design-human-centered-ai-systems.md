@@ -42,6 +42,7 @@ The reflections panel recommends human-centered AI in learning: 'Empower and inv
 - [Seven research priorities for AI in learning, spanning expanded scenarios, teacher assistance, assessment, responsible AI, equity policy, stakeholder engagement, and ecosystem strengthening](seven-ai-learning-research-recommendations.md)
 - [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
 - [Systemic, human-centred approach treating digital data use as a school-and-teacher system, with AI integrated into professional development](systemic-human-centred-data-use-approach.md)
+- [AI system developers should ensure human-centric design, institutional leaders should stay updated on global AI regulations, and LA experts should engage policymakers through dialogue](human-centric-ai-and-policymaker-dialogue-practices.md)
 
 ## Examples
 -

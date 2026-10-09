@@ -47,6 +47,7 @@ The Teacher Potential Project is a professional learning program developed by EL
 
 - [EL Education's Teacher Potential Project (TPP): standards-aligned ELA curriculum with embedded professional development](teacher-potential-project-program.md)
 - [Expeditionary Learning (EL Education) middle schools](expeditionary-learning-middle-schools.md)
+- [EL Education's English Language Arts Curriculum and Professional Learning program, studied under the EL Education Schools and Teacher Professional Development project (2013-2019)](el-education-ela-curriculum-and-professional-learning.md)
 
 ## Examples
 -

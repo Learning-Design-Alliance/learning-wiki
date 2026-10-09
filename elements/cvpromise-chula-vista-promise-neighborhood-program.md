@@ -46,6 +46,7 @@ CVPromise is a Promise Neighborhood initiative serving the Castle Park neighborh
 - [Northside Achievement Zone (NAZ) Promise Neighborhood site](naz-promise-neighborhood-north-minneapolis-site.md)
 - [Promise Neighborhoods Case Studies: a 2014-2015 multi-site profile project for the Promise Neighborhoods Institute at PolicyLink](promise-neighborhoods-case-studies-project.md)
 - [Los Angeles Promise Neighborhood: a two-community Promise Neighborhoods implementation spanning Pacoima and Hollywood](la-promise-neighborhood-two-community-site.md)
+- [Berea College Promise Neighborhood initiative serving three rural Appalachian Kentucky counties](berea-college-promise-neighborhood-initiative.md)
 
 ## Examples
 -

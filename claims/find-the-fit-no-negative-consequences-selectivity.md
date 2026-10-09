@@ -66,3 +66,5 @@ RCT analysis of dropout and downward transfer by October 1, 2017 (Exhibit 11; 2,
 - [Find the Fit previously shifted application behavior, increasing applications to four or more colleges and to very competitive colleges](find-the-fit-shifted-college-applications.md) — related
 - [The selectivity impact of Find the Fit persisted through the third fall after high school graduation](find-the-fit-selectivity-impact-persisted-three-years.md) — related
 - [Find the Fit made no significant difference in college persistence into the third year after high school](find-the-fit-no-persistence-effect-third-year.md) — related
+- [Find the Fit led to some changes in advising within Upward Bound and in students' actions related to enrolling in a more selective college](find-the-fit-changed-upward-bound-advising-practices.md) — related
+- [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](find-the-fit-increased-four-or-more-college-applications.md) — related

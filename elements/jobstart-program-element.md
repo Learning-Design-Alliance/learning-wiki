@@ -52,6 +52,7 @@ JOBSTART was a nonresidential alternative to Job Corps designed to improve the e
 ## Related Elements
 
 - [Job Corps residential education and vocational training program](job-corps-program-element.md)
+- [SMDEP: a free six-week residential science enrichment program for disadvantaged undergraduates at 12 sites](smdep-six-week-residential-enrichment-program.md)
 
 ## Examples
 -

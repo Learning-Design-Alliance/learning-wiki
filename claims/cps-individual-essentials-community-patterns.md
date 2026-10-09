@@ -45,3 +45,4 @@ This descriptive analysis examined strength on each individual essential support
 ## Related Claims
 - [School characteristics were associated with participation: district-run schools, higher proportions of eligible students, and strong family engagement](school-characteristics-chicago-connected-participation.md) — related
 - [For Illinois high schools, strength in the five essentials is related to outcomes but the relationships tend to be minimal except in CPS](illinois-high-school-essentials-outcomes-cps.md) — related
+- [Strength on most 5Essentials measures was similarly likely across poverty levels, but five measures were less prevalent in high-poverty schools](5essentials-five-measures-less-prevalent-high-poverty.md) — related

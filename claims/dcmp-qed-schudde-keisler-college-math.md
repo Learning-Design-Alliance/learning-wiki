@@ -48,3 +48,4 @@ Quasi-experimental design using propensity score matching across 20 Texas commun
 - [In an RCT, DCMP significantly increased completion of the developmental math sequence and passing of college-level math](dcmp-rct-rutschow-developmental-outcomes.md) — related
 - [Carnegie Math Pathways students earned college-level math credits at three to four times the rate of peers in traditional sequences and graduated at double the rate](carnegie-math-pathways-outcomes-claim.md) — related
 - [The CATALST simulation-based statistics course achieved a high pass rate comparable to or better than the traditional course at the same institution](catalst-pass-rate-comparable-to-traditional.md) — related
+- [The evaluation assesses SMDEP impacts on college graduation and medical or dental school matriculation using propensity score matching](smdep-impact-evaluation-psm-design.md) — related

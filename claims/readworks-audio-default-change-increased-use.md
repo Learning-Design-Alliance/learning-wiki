@@ -44,3 +44,4 @@ Platform-level manipulation conducted with ReadWorks for users in the target dis
 
 ## Related Claims
 - [Teachers reacted unanimously positively to new audio supports on the ReadWorks platform and offered them to all students, not only struggling readers](teachers-positive-reactions-readworks-audio-supports.md) — related
+- [Students had little meaningful choice about participation in the student success information system, as they could not remove themselves from the system as a whole](limited-student-choice-opt-out-system.md) — related

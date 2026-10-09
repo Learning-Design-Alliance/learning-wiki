@@ -51,3 +51,4 @@ Descriptive statement of the programs' aims as printed in the study overview. Th
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related
 - [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](sdp-ep-year1-agencies-began-partnership.md) — a narrower finding that bears on this claim
 - [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — a narrower finding that bears on this claim
+- [The logic model's medium-term outcomes center on ADE staff data-use and formative-evaluation capacity](bpss-medium-term-ade-capacity-outcomes.md) — related

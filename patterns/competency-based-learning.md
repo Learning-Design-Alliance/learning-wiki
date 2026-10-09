@@ -14,7 +14,7 @@ grain_size: course
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 7 claims (2 for, 5 mixed) · 13 studies (5 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 13 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (2 for, 5 mixed, 1 against) · 14 studies (6 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative), `q1`–`q4` · 3 of 14 report an effect size · 5 claims rest on one study
 
 ## Description and scope
 
@@ -70,6 +70,7 @@ The earlier page's requirements (defined competencies, valid evidence, flexible 
 Claims this page cited before it was rewritten as a conditional model. They are evidence about the relationship, but none has yet been re-read against the model above; each says how far its own sources have been checked.
 
 - [Self-monitoring improves self-regulation and supports better learning decisions.](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
+- [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](../claims/cbe-gatekeeper-completion-lower-than-comparison.md) [-W] — attached 2026-10-09 from Person et al. (2016), which proposed "Offer competency-based education models as one of multiple options, since they appear best suited for mature, academically well-prepared students"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

@@ -55,3 +55,4 @@ Randomized controlled trial, completing school domain, restricted to respondents
 - [High School Redirection shows no discernible effects on completing school (diploma or GED receipt)](hsr-no-discernible-effects-completing-school.md) — related
 - [JOBSTART's completion gain came entirely from GED receipt, with a small significant negative effect on earning a high school diploma](jobstart-ged-gain-diploma-negative-effect.md) — related
 - [New Chance produced a statistically significant increase in the likelihood of earning a high school diploma or GED certificate](new-chance-significant-increase-diploma-or-ged.md) — related
+- [Regular Upward Bound produces a statistically significant increase in the likelihood of earning a postsecondary certificate or license from a vocational school](upward-bound-increases-vocational-certificate-license.md) — related

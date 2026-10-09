@@ -44,4 +44,4 @@ Survey analysis of novice CPS teachers' backgrounds. The report also states that
 
 
 ## Related Claims
--
+- [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related

@@ -49,3 +49,4 @@ Qualitative fieldwork during the 2004-05 school year in seven CHSRI schools, inc
 - [Teachers and principals in CHSRI small schools describe an environment marked by trust, commitment, and strong professional community in year two](chsri-small-schools-trust-professional-community.md) — related
 - [Professional development from CHSRI and CPS is valued by some small-school staff but viewed by others as irrelevant, hard to schedule, and poorly connected to school needs](chsri-professional-development-mixed-reception.md) — related
 - [Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community](teacher-collaboration-time-scarce-contract.md) — related
+- [Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change](professional-learning-most-important-support.md) — related

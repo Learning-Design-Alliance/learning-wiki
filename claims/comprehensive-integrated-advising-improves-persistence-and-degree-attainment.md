@@ -48,3 +48,4 @@ WWC meta-analysis across eight studies of comprehensive, integrated advising int
 - [Project QUEST may decrease postsecondary degree attainment (improvement index -3, two studies, 1,301 students)](project-quest-potentially-negative-degree-attainment.md) — reports the opposite
 - [ASAP likely increases community college students' graduation and degree attainment rates](asap-increases-degree-attainment.md) — a narrower finding that bears on this claim
 - [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](insidetrack-coaching-no-discernible-attainment-effect.md) — reports the opposite
+- [Coaches appeared to expand exposure to and completion of community college programs, consistent with the strategy's goals](coaching-expanded-program-exposure-completion.md) — a narrower finding that bears on this claim

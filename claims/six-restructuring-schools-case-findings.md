@@ -47,3 +47,4 @@ Qualitative longitudinal case studies of six actively restructuring Chicago elem
 - [Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond](decentralization-accountability-sorting-mechanisms-school-capacity.md) — related
 - [Inclusive school leadership plays a critical role in building teachers' capacity for school improvement](inclusive-leadership-builds-teacher-capacity.md) — related
 - [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md) — related

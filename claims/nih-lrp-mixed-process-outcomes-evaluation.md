@@ -45,3 +45,5 @@ The report's own summary statement describes a mixed evaluation design: an outco
 ## Related Claims
 - [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — related
 - [Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting](agency-profiles-interview-data-practices.md) — related
+- [Eligibility for NIH loan repayment is associated with higher recruitment success of biomedical researchers](loan-repayment-eligibility-higher-recruitment-success.md) — related
+- [Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers](loan-repayment-participation-longer-research-stays.md) — related

@@ -49,3 +49,4 @@ Cultural and gender bias analysis using name-based subgroup analysis in the TSCC
 - [Educators cautiously support AI for culturally responsive content generation while fearing cultural biases and stereotypes in AI output](culturally-responsive-ai-content-cautious-optimism.md) — related
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — related
 - [The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups](bert-consistent-performance-across-student-subgroups.md) — related
+- [Counterfactual fine-tuning reduces sentiment bias in LLM-generated forum replies](counterfactual-fine-tuning-reduces-sentiment-bias.md) — related

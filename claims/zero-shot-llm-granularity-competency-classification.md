@@ -66,3 +66,4 @@ Same zero-shot benchmark at binary granularity: the article prints accuracies of
 - [Curriculum document type and competency framework significantly predict LLM prediction accuracy, and zero-shot LLMs systematically overestimate competency coverage](llm-accuracy-regression-overestimation-bias.md) — related
 - [ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality](chatgpt-zero-shot-relevance-extraction-unreliable.md) — related
 - [AI tools collected and organized a previously unavailable granularity of data, including individual student exchanges and classroom discussion data, to generate actionable recommendations](ai-granular-data-collection-actionable-recommendations.md) — related
+- [Gemma and LLaMA produce higher-quality responses than GPT-2 by TIGERSCORE, with accuracy and comprehension gaps remaining](gemma-llama-outperform-gpt2-tigerscore.md) — related

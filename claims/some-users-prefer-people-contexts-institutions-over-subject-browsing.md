@@ -66,3 +66,4 @@ A lesson summarized in the conclusion: "some users are lazy and will not explore
 - [Browsing term lists (selection mode) helps searchers who do not know the exact query term](selection-mode-browsing-helps-uncertain-searchers.md) — related
 - [Users have difficulty distinguishing between the various kinds of document types, resource types and formats in a faceted taxonomy](users-difficulty-distinguishing-resource-type-facets.md) — related
 - [Users most often use the topic concept in navigation choices but frequently also use context and resource-type concepts](users-use-topic-concept-most-often-but-also-context-and-resource-type.md) — related
+- [Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences](simplicity-familiarity-drive-dashboard-preference.md) — related

@@ -47,3 +47,4 @@ Descriptive subgroup analysis from the 2018 snapshot comparing DAI projections f
 - [The percent of CPS ninth-graders projected to earn a bachelor's degree within six years of high school graduation nearly doubled from 11 percent in 2006 to 20 percent in 2018](cps-dai-projected-bachelors-doubled-2006-2018.md) — related
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
+- [College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree](cps-college-completion-race-gender-gaps.md) — related

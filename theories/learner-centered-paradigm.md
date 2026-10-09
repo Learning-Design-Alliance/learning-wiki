@@ -52,6 +52,10 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](../claims/rl-sequencing-beats-fixed-oral-curriculum.md) [+M]
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
 
+## Related Theories
+
+- [Competency-based education measures learning rather than class time, letting students progress at a flexible pace upon demonstrating mastery](competency-based-education-flexible-pace-mastery.md)
+
 ## Related Principles
 - [Scaffolding and Fading](../principles/scaffolding-and-fading.md) — differentiated instruction under this paradigm still relies on scaffolding calibrated to each learner's zone of proximal development
 

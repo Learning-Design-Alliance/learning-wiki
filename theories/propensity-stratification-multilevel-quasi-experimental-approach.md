@@ -45,7 +45,8 @@ The article employs a combined methodological framework: propensity score strati
 - 
 
 ## Examples
--
+
+- [Match statistical control methods to variable structure and measurement quality, preferring stratification, covariate adjustment, matching, or regression discontinuity accordingly](../strategies/statistical-control-method-selection-strategy.md)
 
 ## Key Sources
 - Beth Tarasawa, Yun Xiang. (2015). Propensity score stratification using multilevel models to examine charter school achievement effects. Journal of School Choice, 9(2), 179–196. https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/

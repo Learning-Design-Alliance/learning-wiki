@@ -43,6 +43,8 @@ A working paper (Working Paper 3), published December 30, 2011 by Mathematica Po
 ## Related Elements
 
 - [Evaluating the Effectiveness of Charter Management Organizations (CMOs) project, 2008-2012](cmo-effectiveness-evaluation-project.md)
+- [Mathematica Working Paper 29 on charter high schools' long-term attainment and earnings effects](mathematica-working-paper-29-charter-long-term-effects.md)
+- [National Evaluation of Charter Middle Schools](national-evaluation-of-charter-middle-schools.md)
 
 ## Examples
 -

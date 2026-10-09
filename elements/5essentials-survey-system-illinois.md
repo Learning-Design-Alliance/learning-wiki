@@ -59,6 +59,7 @@ The 5Essentials Survey is a confidential statewide survey administered to studen
 - [5Essentials-based school climate measures (Student Physical Safety, Teacher Physical Safety, Student-Teacher Trust)](5essentials-sro-study-climate-measures.md)
 - [5Essentials Survey measures of school climate and organization](5essentials-survey-proximity-homicide-measures.md)
 - [School data tools for family and LSC inquiry: CIWP, 5Essentials, CPS School Profiles, To&Through, and ISBE report card](family-data-dive-school-inquiry-tools.md)
+- [5Essentials Survey (My Voice, My School survey)](5essentials-survey-element-press-release.md)
 
 ## Examples
 

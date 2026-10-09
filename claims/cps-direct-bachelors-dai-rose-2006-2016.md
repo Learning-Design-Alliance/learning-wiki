@@ -47,3 +47,4 @@ Descriptive analysis of CPS milestone rates composing the Direct Bachelor's DAI.
 - [The percent of CPS ninth-graders projected to earn a bachelor's degree within six years of high school graduation nearly doubled from 11 percent in 2006 to 20 percent in 2018](cps-dai-projected-bachelors-doubled-2006-2018.md) — related
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
 - [Two-thirds of CPS graduates immediately enrolled in a two- or four-year college in 2017, up from 50 percent in 2006](cps-immediate-college-enrollment-two-thirds-2017.md) — related
+- [If current rates hold, only 20 percent of current CPS ninth-graders will complete a bachelor's degree within 10 years (2019 BDAI), with 18 percent via a direct pathway](cps-2019-bdai-20-percent-bachelors.md) — related

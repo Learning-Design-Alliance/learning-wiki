@@ -48,3 +48,4 @@ The CCSR study found the policy's weakest outcomes among very low-skill students
 - [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-negligible-grade-failure-changes.md) — related
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related
 - [Students with very low initial math abilities benefited less from double-dose algebra than students close to the national median](double-dose-benefits-smaller-for-very-low-ability.md) — possibly the same claim (merge candidate)
+- [The largest improvements in mathematics instruction and learning gains went to students with the lowest tested math scores](largest-gains-lowest-scoring-math-students.md) — reports the opposite

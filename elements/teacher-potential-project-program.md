@@ -50,6 +50,7 @@ The Teacher Potential Project is a program of EL Education that combines an Engl
 
 - [Teacher Potential Project (TPP): CCSS-aligned EL Education Language Arts Curriculum combined with intensive professional development](teacher-potential-project-curriculum-pd.md)
 - [Expeditionary Learning (EL Education) middle schools](expeditionary-learning-middle-schools.md)
+- [EL Education's English Language Arts Curriculum and Professional Learning program, studied under the EL Education Schools and Teacher Professional Development project (2013-2019)](el-education-ela-curriculum-and-professional-learning.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Generalized ordered logistic regression on survey and administrative data from 5
 - [Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases](mentorship-timing-divergent-persistence-effects.md) — related
 - [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
 - [Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay](faculty-contact-part-time-and-interaction-retention.md) — related
+- [The College Experiences Survey was conducted as part of an evaluation of factors associated with college persistence and attrition](college-experiences-survey-attrition-evaluation.md) — related

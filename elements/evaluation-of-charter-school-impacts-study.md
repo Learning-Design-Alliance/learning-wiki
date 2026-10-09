@@ -46,7 +46,8 @@ A federal evaluation described as "the largest charter school study of its kind 
 - [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](../claims/first-national-randomized-study-charter-achievement.md) [+M]
 
 ## Related Elements
-- 
+
+- [National Evaluation of Charter Middle Schools](national-evaluation-of-charter-middle-schools.md)
 
 ## Examples
 -

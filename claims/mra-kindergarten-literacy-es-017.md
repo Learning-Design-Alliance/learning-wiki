@@ -49,3 +49,4 @@ Quasi-experimental study in prekindergarten and kindergarten classrooms across 4
 - [Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39)](literacy-packs-dibels-es-039-quasi-experiment.md) — related
 - [Chapter One tutoring significantly improves Fountas and Pinnell Benchmark Assessment scores (ES = +0.18)](chapter-one-fountas-pinnell-gain-ohio.md) — related
 - [Teachers surveyed about My Reading Academy reported highly positive responses, perceived phonological-awareness gains, and found the program easy to use](mra-teacher-survey-positive-perceptions.md) — related
+- [The evaluation assesses SMDEP impacts on college graduation and medical or dental school matriculation using propensity score matching](smdep-impact-evaluation-psm-design.md) — related

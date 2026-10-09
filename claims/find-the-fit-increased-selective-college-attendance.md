@@ -47,3 +47,5 @@ RCT selectivity outcome (Exhibit 8; 2,336 Find the Fit vs. 2,107 regular advisin
 - [Find the Fit previously shifted application behavior, increasing applications to four or more colleges and to very competitive colleges](find-the-fit-shifted-college-applications.md) — related
 - [Find the Fit's selectivity shift came with no higher out-of-pocket cost and no increase in dropping out or transferring down](find-the-fit-no-negative-consequences-selectivity.md) — related
 - [Find the Fit made no significant difference in college persistence into the third year after high school](find-the-fit-no-persistence-effect-third-year.md) — related
+- [Find the Fit led to some changes in advising within Upward Bound and in students' actions related to enrolling in a more selective college](find-the-fit-changed-upward-bound-advising-practices.md) — a broader claim this one bears on
+- [Find the Fit led Upward Bound students to apply to more-selective colleges](find-the-fit-led-students-to-apply-to-more-selective-colleges.md) — related

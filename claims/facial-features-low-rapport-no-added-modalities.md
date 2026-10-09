@@ -45,3 +45,4 @@ The review reports, citing Müller et al. (2018), a multimodal low-rapport detec
 ## Related Claims
 - [Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets](time-window-features-null-for-lr-boost-nonlinear.md) — related
 - [Multimodal data can reverse the interpretation of silence in collaborative problem-solving](multimodality-reverses-silence-interpretation-cps.md) — related
+- [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md) — related

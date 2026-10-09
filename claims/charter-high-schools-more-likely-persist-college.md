@@ -51,3 +51,10 @@ The study examines college persistence among Florida students as one of two long
 - [Charter middle school students who attend a charter high school are 7 to 15 percentage points more likely to earn a standard diploma than those who transition to a traditional public high school](charter-high-school-diploma-attainment-gain.md) — related
 - [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
 - [Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits](charter-schools-favorable-graduation-and-college-entry-results.md) — related
+- [Charter high school effects on attainment hold in both Chicago and Florida after controlling for prior charter middle school enrollment](charter-high-school-effects-both-locations-with-controls.md) — related
+- [The brief suggests charter high schools may boost both postsecondary attainment and long-run earnings](charter-high-schools-attainment-and-long-run-earnings-suggestion.md) — a broader claim this one bears on
+- [Charter high schools are associated with increased postsecondary educational attainment and may boost students' long-run earnings, based on data from Florida and Chicago](charter-high-schools-attainment-earnings-florida-chicago.md) — a broader claim this one bears on
+- [Attending a charter high school is associated with an 8 to 10 percentage point higher likelihood of attending college](charter-high-schools-higher-college-attendance.md) — related
+- [Charter high schools have positive effects on educational attainment in Florida and Chicago](charter-high-schools-positive-attainment-effects-florida-chicago.md) — a broader claim this one bears on
+- [Chicago charter high schools have large positive effects on earnings in adulthood](chicago-charter-high-schools-large-earnings-effects.md) — related
+- [Evaluations of charter schools limited to test scores may fail to capture important benefits](test-score-only-evaluations-miss-charter-benefits.md) — related

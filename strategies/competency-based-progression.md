@@ -60,9 +60,11 @@ CBP operationalizes [Mastery Learning](../patterns/competency-based-learning.md)
 6. **Advance or remediate deliberately** — route non-mastery to targeted reteaching, not repetition of the same instruction; use [Adaptive Difficulty](../elements/adaptive-difficulty.md) where platform support exists
 
 ## Related Strategies
+
 - [Standards-Based Grading](standards-based-grading.md) — the reporting layer that often accompanies CBP
 - [Self-Paced Learning](../elements/self-paced-learning.md) — the pacing mechanism CBP depends on
 - [Frequent Low-Stakes Testing](frequent-low-stakes-testing.md) — supplies the ongoing mastery evidence CBP requires
+- [Use external consulting and technical assistance to help colleges adapt programs to time-variant CBE models](external-consulting-ta-for-cbe-adaptation.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — course mastery tracks gate progression on demonstrated proficiency per skill, with spaced retakes

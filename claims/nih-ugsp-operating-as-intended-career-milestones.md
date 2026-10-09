@@ -46,3 +46,6 @@ Overall finding of Mathematica's evaluation of the NIH Undergraduate Scholarship
 - [NIH Undergraduate Scholarship Program scholars reach biomedical research career milestones at substantially higher rates than non-awarded finalists](nih-scholars-higher-biomedical-research-rates-than-finalists.md) — related
 - [NIH spends millions of dollars annually on scholarships for disadvantaged undergraduate science students](nih-spends-millions-annually-ugsp-scholarships.md) — related
 - [Alumni survey responsiveness tends to peak at two milestones: the first year out and the fourth or fifth year out](alumni-response-peaks-two-milestones.md) — related
+- [Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers](loan-repayment-participation-longer-research-stays.md) — related
+- [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](nih-ugsp-operating-as-intended.md) — possibly the same claim (merge candidate)
+- [NIH Undergraduate Scholarship Program scholars progress toward biomedical research careers at substantially higher rates than finalists who were not awarded scholarships](nih-ugsp-scholars-outpace-non-awarded-finalists.md) — a narrower finding that bears on this claim

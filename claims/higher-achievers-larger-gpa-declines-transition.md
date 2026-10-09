@@ -67,3 +67,4 @@ Descriptive analysis of 2016-17 cohort members with both NWEA scores and grades 
 - [Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition](school-variation-gpa-declines.md) — related
 - [GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade](non-core-gpa-declines-exceed-core.md) — related
 - [Ninth-grade GPA predicts beginning-of-tenth-grade PLAN scores even after controlling for eighth-grade test scores, suggesting grades reflect new learning](ninth-grade-gpa-predicts-plan-scores.md) — related
+- [Academic Support students, who attended regularly but earned below a 3.0 GPA, made up nearly 40 percent of students and saw academic struggles persist beyond the middle grades](condensed-eot-academic-support-persistent-struggles.md) — related

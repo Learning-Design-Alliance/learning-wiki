@@ -49,7 +49,8 @@ An associated Mathematica impact evaluation project with the stated time frame 2
 - [During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools](../claims/kauffman-school-seven-year-achievement-impacts.md) [+W]
 
 ## Related Elements
-- 
+
+- [Ewing Marion Kauffman Charter School Evaluation (Mathematica, 2011-2024)](kauffman-charter-school-evaluation-mathematica.md)
 
 ## Examples
 

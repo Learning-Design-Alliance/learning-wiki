@@ -47,3 +47,4 @@ The paper cites a landmark National Staff Development Council survey documenting
 - [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — related
 - [American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities](pd-spending-18b-low-satisfaction.md) — related
 - [Only 36 percent of students had teachers reporting at least 8 hours of behavior-management professional development over three years, versus 81 percent for reading and language arts](pd-behavior-management-lags-reading-instruction.md) — related
+- [Most coached teachers report improvement across classroom challenge categories after working with a coach](coaching-improves-classroom-challenge-categories.md) — related

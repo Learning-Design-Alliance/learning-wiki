@@ -70,3 +70,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Evaluator staff capacities centered on creating conditions for participation rather than technical control](staff-capacities-creating-conditions.md) — related
 - [Collaborative Innovation tenets varied in visibility: collective ownership and context expertise were most evidenced, reimagining progress least](tenet-visibility-varied-across-projects.md) — related
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
+- [Leadership coaching partnerships and instructional leadership team collaboration increased schools' capacity to use survey data](coaching-and-team-collaboration-support-data-use.md) — related

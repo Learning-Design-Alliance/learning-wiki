@@ -45,3 +45,4 @@ Concluding recommendation of the On Mobility section, resting on cited labor sta
 ## Related Claims
 - [Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise](industrial-arts-teacher-education-technical-and-human-sides.md) — related
 - [The fellowship team argued industrial arts education exemplifies a craft era and has failed to keep pace with technological change](industrial-arts-craft-era-inadequate-cybernetic-era.md) — related
+- [Changing job requirements mean students must be prepared to change throughout their entire work lives](changing-job-requirements-students-prepared-for-change.md) — related

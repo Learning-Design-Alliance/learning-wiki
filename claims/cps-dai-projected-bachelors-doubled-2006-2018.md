@@ -49,3 +49,4 @@ Descriptive district-data analysis by the UChicago Consortium and To&Through Pro
 - [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
 - [CPS's Bachelor's Degree Attainment Index rose 7 percentage points, from 11 percent for 2006 ninth-graders to 18 percent for 2016 ninth-graders](cps-bachelors-dai-rose-7-points.md) — related
 - [The estimated percentage of CPS ninth-graders taking a direct path to a bachelor's degree nearly doubled between 2006 and 2016, from 9 percent to 16 percent](cps-direct-bachelors-dai-rose-2006-2016.md) — related
+- [If current rates hold, only 20 percent of current CPS ninth-graders will complete a bachelor's degree within 10 years (2019 BDAI), with 18 percent via a direct pathway](cps-2019-bdai-20-percent-bachelors.md) — related

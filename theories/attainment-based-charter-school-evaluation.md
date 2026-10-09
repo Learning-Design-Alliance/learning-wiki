@@ -48,7 +48,8 @@ The report frames its contribution as moving beyond the standard outcome measure
 - [Charter school effects as a multi-dimensional policy question spanning achievement, attainment, integration, and competition](charter-effects-four-dimension-framework.md)
 
 ## Examples
--
+
+- [Evaluate charter schools against longer-term outcomes such as college enrollment and completion, not only short-term achievement](../strategies/evaluate-charters-on-longer-term-college-outcomes.md)
 
 ## Key Sources
 - Kevin Booker, Tim Sass, Brian Gill, Ron Zimmer. (2008). Going Beyond Test Scores: Evaluating Charter School Impact on Educational Attainment in Chicago and Florida. Santa Monica, CA: RAND. https://www.mathematica.org/publications/going-beyond-test-scores-evaluating-charter-school-impact-on-educational-attainment-in-chicago-and-florida

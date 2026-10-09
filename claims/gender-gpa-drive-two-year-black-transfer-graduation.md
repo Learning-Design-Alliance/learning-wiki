@@ -66,3 +66,4 @@ In the two-year black transfer analysis, the paper reports black women relative 
 - [Black transfer students are more likely to persist in engineering than non-transfer black students after controlling for credits earned, a pattern not found for students of other ethnicities](black-transfers-persist-engineering-more-than-nontransfer.md) — related
 - [Each tenth of a grade point increase in engineering GPA raises the odds of six-year engineering graduation for black students by 13.7 percent](engineering-gpa-tenth-point-raises-graduation-odds-13-7.md) — related
 - [Two-year and four-year origin transfers differ on gender, enrollment status, and six-year engineering graduation](two-vs-four-year-transfers-differ-key-characteristics.md) — related
+- [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related

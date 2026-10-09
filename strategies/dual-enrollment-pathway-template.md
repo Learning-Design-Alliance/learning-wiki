@@ -40,6 +40,7 @@ Using a template from the CCTI project, NVCC and partner high schools developed 
 ## Related Strategies
 
 - [Begin career-awareness outreach in middle school to build the pipeline for high-demand fields](middle-school-career-awareness-outreach.md)
+- [Enroll college-ready high school students in rigorous dual enrollment college algebra classes to support college entry and completion](rigorous-dual-enrollment-college-algebra-strategy.md)
 
 ## Examples
 -

@@ -64,3 +64,4 @@ School-level analysis by grade configuration finds stronger charter advantages i
 ## Related Claims
 - [Charter middle school students gain in math while multi-level charter students lag in both subjects relative to TPS peers](sc-charter-grade-configuration-differences.md) — related
 - [Charter elementary schools show stronger reading growth while multi-level charter schools show significantly weaker growth in both subjects](pa-charter-impact-by-grade-configuration.md) — related
+- [Chicago multi-grade charter high schools appear to produce substantial positive effects on ACT scores](chicago-multigrade-charter-high-schools-act-gains.md) — reports the opposite

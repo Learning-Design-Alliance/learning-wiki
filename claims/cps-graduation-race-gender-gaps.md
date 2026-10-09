@@ -53,3 +53,6 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [Class of 1997 outcomes differed by gender, with girls graduating at higher counts than boys within five years](kenwood-class-1997-gender-outcomes.md) — a narrower finding that bears on this claim
 - [Kindergarten entry-age effects do not differ by gender or race](entry-age-effects-no-gender-race-differences.md) — related
 - [Student test effort differs substantially across student gender and racial subgroups](test-effort-differs-across-gender-racial-subgroups.md) — related
+- [Black and Hispanic students attained postsecondary readiness and success outcomes at substantially lower rates than White students](black-hispanic-lower-postsecondary-outcomes.md) — related
+- [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](condensed-eot-race-gender-equity-gaps.md) — related
+- [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — possibly the same claim (merge candidate)

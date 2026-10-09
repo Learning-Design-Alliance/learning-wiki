@@ -49,3 +49,4 @@ The report's key findings state that "Attending a full-day pre-k classroom was a
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — a broader claim this one bears on
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — a broader claim this one bears on
 - [Attending higher-rated schools (CPS School Quality Rating Policy) is associated with better math, reading, and English proficiency test outcomes for ELs](higher-rated-schools-el-test-outcomes.md) — related
+- [Improved second-grade outcomes were related to pre-k policy changes through greater access to full-day pre-k and subsequently improved kindergarten entry skills](prek-access-kindergarten-entry-skills-pathway.md) — related

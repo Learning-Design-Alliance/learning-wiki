@@ -52,3 +52,4 @@ The summary frames the evaluation as "the first high-quality study to rigorously
 - [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related
 - [KIPP's Five Pillars strongly influenced the charter school community and traditional public schools](kipp-five-pillars-influenced-charter-sector.md) — related
 - [Much remains unknown about charter school performance, particularly at the elementary level](charter-elementary-school-performance-little-known.md) — related
+- [KIPP Atlanta middle school impacts on proficiency generally increase across grade levels](kipp-atlanta-impacts-increase-across-grades.md) — a narrower finding that bears on this claim

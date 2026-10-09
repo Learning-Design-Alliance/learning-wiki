@@ -68,3 +68,4 @@ District-level regression accounting for differences between states, using distr
 - [Districts in the sample increased PreK4 participation across all three state categories, with substantial within-category variation in enrollment trends](district-prek4-participation-increased-all-categories.md) — related
 - [In states requiring specialized prekindergarten teacher training, kindergarten students are more likely to improve in math](specialized-prek-teacher-training-math-improvement.md) — related
 - [District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time](district-prek-enrollment-not-associated-entry-skills.md) — related
+- [Improved second-grade outcomes were related to pre-k policy changes through greater access to full-day pre-k and subsequently improved kindergarten entry skills](prek-access-kindergarten-entry-skills-pathway.md) — related

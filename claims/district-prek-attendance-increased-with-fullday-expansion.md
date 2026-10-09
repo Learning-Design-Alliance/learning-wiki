@@ -47,3 +47,5 @@ District-wide CPS administrative data analysis, 2012-13 to 2015-16. The article 
 - [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related
 - [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion](nlci-fullday-conversion-attendance-gains.md) — related
 - [Students in full-day pre-k programs had significantly higher attendance rates than students in half-day programs across all study years](full-day-prek-higher-attendance-than-half-day.md) — related
+- [The pathway from full-day pre-k to better second-grade outcomes was especially strong among Black students, lowest-income students, and students living in mostly-Black neighborhoods](prek-pathway-strongest-high-priority-groups.md) — related
+- [Pre-k policy changes were associated with higher second-grade reading test scores for Black students and students in the lowest-income group](prek-policy-reading-gains-black-lowest-income.md) — related

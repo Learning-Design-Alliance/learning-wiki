@@ -53,6 +53,7 @@ The brief defines value-added in ideal terms as "the contribution of the teacher
 - [Value-added modeling as a framework for measuring educator effectiveness](value-added-modeling-educator-effectiveness-framework.md)
 - [Value-added models as a method for separating teachers' contributions to student achievement from other factors](value-added-models-separate-teacher-contributions.md)
 - [Value-added academic productivity indicator estimating each school's contribution to student learning from longitudinal test scores](value-added-academic-productivity-indicator-ccsr.md)
+- [Value-added methods as the measure of teacher quality for studying mobility](value-added-measures-of-teacher-quality-mobility.md)
 
 ## Examples
 -

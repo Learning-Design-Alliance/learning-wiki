@@ -47,3 +47,5 @@ The Key Findings section reports a temporal pattern in middle school impacts ove
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
 - [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related
 - [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related
+- [No detectable effects of KIPP Atlanta Collegiate High School on overall credential completion during the study period](kipp-atlanta-no-credential-completion-effect.md) — related
+- [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](kipp-lottery-offer-rct-group-balance.md) — related

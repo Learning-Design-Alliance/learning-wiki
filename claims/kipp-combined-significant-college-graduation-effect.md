@@ -50,3 +50,4 @@ In the lottery-based long-term tracking study, the combined KIPP middle and high
 - [Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school](kipp-offer-high-compliance-middle-and-high-attendance.md) — related
 - [KIPP middle schools' positive effects extend to enrollment in 4-year college programs, not only middle school achievement](kipp-middle-schools-extend-effects-to-four-year-enrollment.md) — related
 - [A study analyzed the college application and enrollment choices of KIPP Northern California graduates from the classes of 2016 to 2019](kipp-norcal-college-choice-study-2016-2019.md) — related
+- [KIPP Atlanta Collegiate High School shows positive impacts on long-term college persistence](kipp-atlanta-collegiate-college-persistence.md) — related

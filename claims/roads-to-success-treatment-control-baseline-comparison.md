@@ -46,3 +46,5 @@ The design report states its contents: the intervention, research design, evalua
 - [Roads to Success was evaluated as part of an associated project running 2007-2009](roads-to-success-associated-project-2007-2009.md) — related
 - [Funding cuts in 2008 ended the Roads to Success program and its evaluation in 2009](roads-to-success-funding-cut-2009-conclusion.md) — related
 - [Treatment and control groups showed few differences in job characteristics, work search activities, and perceived barriers to employment](promise-few-differences-job-characteristics-barriers.md) — related
+- [Estimated impacts of Roads to Success on student behaviors were mixed](roads-to-success-mixed-behavior-impacts.md) — related
+- [Two years of Roads to Success exposure had no measurable effect on eighth graders' desire to learn job skills or their study and learning habits](roads-to-success-no-effect-desire-job-skills-study-habits.md) — related

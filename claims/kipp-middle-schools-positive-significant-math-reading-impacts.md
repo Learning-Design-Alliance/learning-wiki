@@ -68,3 +68,5 @@ First findings from a multi-year evaluation of the KIPP charter school network, 
 - [KIPP middle schools' student attrition and replacement rates can be compared with those of nearby district-run schools using longitudinal student-level data.](kipp-middle-school-attrition-replacement-compared-district-schools.md) — related
 - [Charter schools, on average, show test-score impacts that are not substantially better or worse than conventional public schools](charter-schools-test-score-impacts-comparable-to-traditional-public-schools.md) — related
 - [Students in single-discipline courses begin the year with higher achievement, roughly three or four points across subjects](single-discipline-students-higher-baseline.md) — related
+- [KIPP Atlanta middle school impacts on proficiency generally increase across grade levels](kipp-atlanta-impacts-increase-across-grades.md) — a narrower finding that bears on this claim
+- [KIPP Atlanta middle schools substantially improve student proficiency on Georgia statewide assessments](kipp-atlanta-middle-schools-improve-proficiency.md) — a narrower finding that bears on this claim

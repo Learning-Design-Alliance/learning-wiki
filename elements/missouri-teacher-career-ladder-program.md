@@ -41,7 +41,8 @@ A state teacher performance-incentive program operating in Missouri since 1987, 
 - [Missouri's Teacher Career Ladder program has at most a very small positive effect on student test scores](../claims/career-ladder-missouri-small-or-no-achievement-effect.md) [+W]
 
 ## Related Elements
-- 
+
+- [Missouri Career Ladder Program](missouri-career-ladder-program-element.md)
 
 ## Examples
 -

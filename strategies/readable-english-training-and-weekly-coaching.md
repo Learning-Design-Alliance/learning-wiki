@@ -55,6 +55,7 @@ The page specifies a professional development model for implementing Readable En
 - [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation](sfa-facilitator-and-pd-implementation-strategy.md)
+- [Provide formative evaluation and implementation coaching to strengthen ADE initiative design](formative-evaluation-coaching-ade-initiatives.md)
 
 ## Examples
 -

@@ -53,3 +53,5 @@ IPW analysis of CPS graduation outcomes (top-tier overall n = 48,510; mid-tier n
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Math Corps students had much higher graduation rates than Detroit Public Schools students overall](math-corps-higher-graduation-rates-than-detroit-public-schools.md) — related
 - [Undermatch occurs when students attend a college less selective than their high school academic achievement would allow](undermatch-defined-less-selective-college-attendance.md) — related
+- [Attending a charter high school is associated with an 8 to 10 percentage point higher likelihood of attending college](charter-high-schools-higher-college-attendance.md) — related
+- [Attending a charter high school is associated with a 7 to 15 percentage point higher likelihood of earning a standard diploma than attending a traditional public high school](charter-high-schools-higher-diploma-completion.md) — related

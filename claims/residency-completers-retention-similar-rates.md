@@ -49,3 +49,4 @@ Personnel-data analysis of employment trajectories found "similar rates of trans
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
 - [Fund-supported principals are younger and have shorter tenure than other CPS principals](fund-principals-younger-shorter-tenure.md) — related
+- [Former assistant principals tend to stay in their schools longer than other newly hired CPS principals](former-assistant-principals-stay-longer.md) — related

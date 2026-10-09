@@ -52,3 +52,5 @@ Randomized experimental analysis relying on KIPP admissions lotteries to identif
 - [An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools](kipp-first-report-positive-math-reading-impacts-22-schools.md) — related
 - [Prior research on KIPP suggested positive achievement impacts but was limited by small samples or methodological weaknesses](prior-kipp-research-limited-scope-and-methods.md) — a broader claim this one bears on
 - [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related
+- [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](kipp-lottery-offer-rct-group-balance.md) — related
+- [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](kipp-lottery-rct-balances-treatment-and-control.md) — related

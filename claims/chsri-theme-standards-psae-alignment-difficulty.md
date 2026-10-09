@@ -44,3 +44,4 @@ Interview finding from the 2004 study; one principal asked how to mix thematic c
 
 ## Related Claims
 - [CHSRI small schools lack a shared vision of high-quality instruction, and the link between school themes and curriculum remains weak in year two](chsri-no-shared-vision-quality-instruction.md) — related
+- [Accountability pressures overshadowed the survey's improvement potential without reducing its predictive power](accountability-overshadows-improvement-potential.md) — related
