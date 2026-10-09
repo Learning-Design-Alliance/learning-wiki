@@ -45,3 +45,4 @@ Qualitative thematic analysis of participant responses on identity. Participants
 ## Related Claims
 - [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](psychological-belonging-barrier-first-generation-chemists.md) — related
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
+- [All learning transitions in participants' stories were intersectional, dynamic, and nonlinear](learning-transitions-intersectional-nonlinear.md) — related

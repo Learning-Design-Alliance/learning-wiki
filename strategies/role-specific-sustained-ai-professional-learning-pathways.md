@@ -47,6 +47,7 @@ The brief recommends ongoing, collaborative, subject-specific professional learn
 - [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](pr-eight-recommendations-technology-integration-support.md)
 - [District actions for sustained, equitable impact with powerful technology](district-actions-powerful-technology-impact.md)
 - [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
+- [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
 
 ## Examples
 -

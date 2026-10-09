@@ -13,7 +13,7 @@ generated:
 # Exhibition Of Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (3 quant-synthesis, 3 review, 2 causal, 1 theoretical), `q1`–`q4` · 3 of 9 report an effect size
 
 ## Description
 An exhibition of learning is a culminating event in which learners present, perform, or display finished work to an audience beyond the instructor — peers, families, community members, or professionals. Learners must synthesize their learning, communicate it clearly, and typically respond to questions or critique in real time, making the exhibition both an assessment and a learning event.

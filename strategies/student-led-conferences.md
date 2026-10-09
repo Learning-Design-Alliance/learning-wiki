@@ -13,7 +13,7 @@ generated:
 # Student Led Conferences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (5 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 4 of 7 report an effect size
+> **Evidence** · 4 claims (3 for, 1 unmarked) · 9 studies (5 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Student led conferences (SLCs) replace the traditional teacher-parent conference with a meeting in which the student presents a portfolio of work, evaluates their own progress against criteria, and sets goals for the next period, with the teacher acting as facilitator and families as audience and questioners. Preparation typically spans weeks: students select work samples, complete structured [reflection](../elements/reflection.md) templates, rehearse their presentation, and practice responding to questions. The format converts assessment reporting from something done *to* students into something done *by* them.

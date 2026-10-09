@@ -46,3 +46,4 @@ Qualitative field scan based on 12 interviews with district officials and CBO le
 - [CBO leaders characterized the collaborative WSS development process as healing and restorative, applying restorative justice principles to policymaking](wss-codesign-restorative-healing-process.md) — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [CPS officials and CBO leaders intended the WSS Framework to ground safety plans in community perspectives, facilitate power-sharing, and redefine school safety](wss-goals-community-perspectives-power-sharing.md) — related
+- [Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback](active-community-engagement-over-passive-feedback.md) — related

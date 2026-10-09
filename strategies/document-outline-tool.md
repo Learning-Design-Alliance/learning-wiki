@@ -13,7 +13,7 @@ generated:
 # "Document Outline" Tool
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 review, 2 causal, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Students use the "Document outline" tool in Google Docs to extract evidence supporting the main ideas they've found in a text. They write headings for paragraphs or groups of paragraphs and select "Heading 1" from the drop-down menu; sentences or phrases representing supporting evidence are summarized and labeled "Heading 2." The tool automatically populates a navigable outline that can be exported to the top of the document, giving students a ready-made scaffold for review and writing initiation.

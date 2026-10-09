@@ -53,6 +53,7 @@ The report issues a set of dated recommendations directed at educators, administ
 - [Provide faculty professional development in adult learning theory and pedagogy for career pathways instruction](faculty-pd-adult-learning-career-pathways.md)
 - [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](pr-eight-recommendations-technology-integration-support.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
+- [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
 
 ## Examples
 -

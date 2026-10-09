@@ -130,6 +130,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 **After-action reviews (AARs)** — The U.S. Army's structured post-mission review (what was planned, what happened, why, what to sustain/improve) is the archetypal professional debrief format and has been adapted widely in corporate training.
 
 **PALS/ACLS simulation courses** — Resuscitation training protocols mandate team debriefs after each scenario, with measured improvements in subsequent team performance.
+- [Send EQUIP data reports in advance of debriefs and use discussion protocols to guide data conversations](../strategies/advance-data-reports-with-debrief-protocols.md)
 
 ## Key Sources
 - Fanning, R. M., & Gaba, D. M. (2007). The role of debriefing in simulation-based learning. *Simulation in Healthcare, 2*(2), 115–125. [doi:10.1097/SIH.0b013e3180315539](https://doi.org/10.1097/SIH.0b013e3180315539)

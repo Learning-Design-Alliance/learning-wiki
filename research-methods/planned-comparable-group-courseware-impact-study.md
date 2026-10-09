@@ -12,6 +12,7 @@ generated:
 # Planned Comparable-Group Courseware Impact Study
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article distills lessons from the NGCC evaluation about conducting impact studies: measuring impact requires an objective outcome measure, a comparison group, evidence of comparability, adequate numbers in both groups, and holding other influences constant. It warns that "Comparison groups and data sources need to be planned in advance if you want to get an apples-to-apples comparison of different versions of a course." It also cautions that busy technology developers, marketers, or faculty cannot be expected to design and execute rigorous impact studies without considerable help.

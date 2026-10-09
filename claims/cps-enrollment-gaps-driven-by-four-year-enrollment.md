@@ -85,3 +85,4 @@ Chapter 2 analysis using census-block median family income as a proxy for socioe
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
 - [Attainment indices vary sharply by race/ethnicity and gender: Black young men face a projected PAI of 12.6 percent versus 62.0 percent for Asian/Pacific Islander young women](cps-2019-attainment-indices-race-gender-disparities.md) — related
 - [Latino CPS graduates who aspire to a four-year degree are least likely to plan to attend a four-year college after graduation](latino-graduates-least-likely-plan-four-year-college.md) — related
+- [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — related

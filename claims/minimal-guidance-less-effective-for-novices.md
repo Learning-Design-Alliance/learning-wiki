@@ -159,3 +159,4 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 - [Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work](rule-example-sequence-efficient-rule-introduction.md) — a narrower finding that bears on this claim
 - [Self-discovery through errorful exploration is basically incompatible with error minimization in instruction](self-discovery-incompatible-with-error-minimization.md) — reports the opposite
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — related
+- [HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice](hqim-teacher-guides-vary-in-educative-guidance-depth.md) — a narrower finding that bears on this claim

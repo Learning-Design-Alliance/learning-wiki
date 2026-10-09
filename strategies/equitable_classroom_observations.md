@@ -69,6 +69,8 @@ Equity problems in classroom discourse are typically invisible to teachers becau
 - [Actively listen to what students say](../strategies/actively_listen_to_what_students_say.md) — the discourse move teachers most often need to redistribute equitably
 - [Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses](strategies-disaggregate-participation-data-intersectionally.md)
 - [During post-adoption, monitor fidelity of use, examine equity patterns, and share strengths and challenges with developers](post-adoption-fidelity-monitoring-feedback.md)
+- [Weigh live, video, and customized nonverbal data collection methods when using EQUIP](equip-data-collection-method-tradeoffs.md)
+- [Use EQUIP data to take action: test new strategies, collect data again, and align professional development to surfaced needs](use-equip-data-to-take-action.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — observation analytics are a form of assessment *of teaching*, run through the same formative logic

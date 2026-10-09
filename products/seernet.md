@@ -13,6 +13,7 @@ generated:
 # SEERNet
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 SEERNet is an Institute of Education Sciences-funded network that supports responsible, inclusive, theory-driven research using data from digital learning platforms through shared infrastructure, governance, datasets, and research-practice partnerships.

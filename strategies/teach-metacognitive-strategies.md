@@ -13,7 +13,7 @@ generated:
 # Teach Metacognitive Strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
 
 ## Description
 Teaching metacognitive strategies means directly instructing learners in how to plan an approach to a task, monitor their comprehension and progress while working, and evaluate outcomes and revise strategies afterward. It is carried out through explicit explanation, [Think-Aloud](../elements/think-aloud.md) modeling of expert self-regulation, guided practice with prompts, and progressive fading of support until learners apply the strategies unprompted.

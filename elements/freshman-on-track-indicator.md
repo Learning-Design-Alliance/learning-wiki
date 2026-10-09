@@ -22,7 +22,7 @@ sources:
 # The freshman on-track indicator
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 4 studies (3 associational, 1 causal), `q2`–`q3` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 The on-track indicator is a binary baseline measure of acceptable freshman performance developed by the Consortium in 1999 and since adopted into the Chicago public high school accountability system. A student is on-track if two criteria are met: "The student has accumulated five full course credits" needed for tenth-grade promotion, and "no more than one semester F" in a core subject (English, math, science, or social studies). It combines credit accumulation across all credit-bearing classes with core-course failures counted by semester, and provides timely information about performance within students' first year, unlike dropout rates or test scores.

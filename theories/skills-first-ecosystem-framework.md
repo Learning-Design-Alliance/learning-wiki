@@ -48,6 +48,7 @@ The report defines the skills-first ecosystem as "all of the systems, technologi
 ## Examples
 
 - [Develop a shared landscape directory of skills-first tools with identified owners, costs, and accessibility limits](../strategies/shared-skills-first-tools-directory.md)
+- [Support digitally fluent career pathways through ecosystems, educator training, work-based learning, convenings, and showcases](../strategies/clpi-digital-fluency-pathway-supports.md)
 
 ## Key Sources
 - Carter, B., & Jacobs, B. (2025, July). Understanding, valuing, and utilizing skills-first practices as an organization supporting frontline workers and jobseekers. Digital Promise. https://doi.org/10.51388/20.500.12265/256

@@ -20,7 +20,7 @@ sources:
 # Authentic intellectual work framework: construction of knowledge through disciplined inquiry producing products with value beyond school
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 The report defines authentic intellectual work as a standard for judging the intellectual quality of teaching and learning, contrasting it with routine school tasks. It states that "authentic intellectual work involves original application of knowledge and skills" rather than routine use of facts and procedures, entails disciplined inquiry, and yields products with meaning beyond school success. The three criteria are construction of knowledge, disciplined inquiry (prior knowledge base, in-depth understanding, elaborated communication), and value beyond school.

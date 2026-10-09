@@ -45,3 +45,4 @@ Qualitative focus groups and a follow-up survey conducted in Phase 1 with CCC st
 ## Related Claims
 - [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
 - [Students, teachers, and principals are perceived to have limited involvement in ed-tech procurement decisions, and providers are far less satisfied with end-user involvement than district stakeholders](limited-end-user-involvement-edtech-procurement.md) — related
+- [Youth advisors report students are inadequately involved in school decision-making and want more transparent communication](youth-advisors-report-inadequate-involvement-in-decisions.md) — related

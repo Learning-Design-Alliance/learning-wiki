@@ -53,3 +53,5 @@ The article states this as the theoretical premise motivating its empirical test
 - [Schools that missed AYP showed some positive subsequent achievement impacts under NCLB accountability](missing-ayp-positive-achievement-impacts.md) — related
 - [The viability of using RD designs for new impact evaluations of educational interventions depends on the point of treatment assignment, the availability of pretests, and key research questions](rd-design-viability-depends-on-assignment-point-pretests-questions.md) — a narrower finding that bears on this claim
 - [Regression discontinuity estimates of EL status effects on SPED placement consistently differ substantively from regression analysis results](rd-estimates-differ-from-regression-el-sped.md) — related
+- [In Clark County, One-Star designation significantly raises math and ELA scores for all students](one-star-designation-clark-county-all-students.md) — a narrower finding that bears on this claim
+- [Statewide, One-Star designation has a modest significant positive effect on ELA but not on math scores](one-star-designation-statewide-ela-effect.md) — a narrower finding that bears on this claim

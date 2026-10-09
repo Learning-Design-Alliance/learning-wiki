@@ -12,7 +12,7 @@ generated:
 # Hint Design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 11 studies (5 quant-synthesis, 3 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 12 studies (6 quant-synthesis, 3 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 6 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Hint design is the deliberate structuring of help so that learners receive the smallest increment of support needed to resume productive work. Hints are typically sequenced from general (pointing to relevant principles or strategies) to specific (revealing a step or the solution), and delivered on demand rather than automatically.

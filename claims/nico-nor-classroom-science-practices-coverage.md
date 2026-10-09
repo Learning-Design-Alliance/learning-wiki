@@ -60,3 +60,4 @@ Observation coding for the Ramps Unit: 88% of observed ramps activities promoted
 ## Related Claims
 - [Teachers varied in Data Routine enactment, with Sensemaking about the Data least common, and sensemaking activities were strongly associated with open-ended questioning](data-routine-sensemaking-least-common-open-questioning.md) — related
 - [Teachers addressed graph comprehension consistently at high levels across observed lessons, while covariational reasoning enactment varied widely by lesson](gc-consistent-cov-varied-across-lessons.md) — related
+- [Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation](m-plans-enactment-variation-and-implementation-barriers.md) — related

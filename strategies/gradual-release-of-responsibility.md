@@ -13,7 +13,7 @@ generated:
 # Gradual Release Of Responsibility
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 11 studies (5 causal, 2 quant-synthesis, 2 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 7 claims (4 for, 1 mixed, 2 against) · 17 studies (6 causal, 5 quant-synthesis, 4 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 4 of 17 report an effect size · 1 claim rests on one study
 
 ## Description
 Gradual Release of Responsibility (GRR) is an instructional sequence in which the teacher first models the target skill, then guides learners through joint practice, and finally releases learners to independent application — often summarized as "I do, we do, you do." The model, formalized by Pearson and Gallagher (1983) from Vygotsky's zone of proximal development, treats responsibility as a continuum that the instructor deliberately transfers rather than a binary choice between telling and letting go.

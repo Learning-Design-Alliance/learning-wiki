@@ -54,3 +54,4 @@ Figure 2 disaggregates MAP Growth percentile rank changes from 2019 to 2022 by r
 - [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md) — related
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
 - [Disaggregating by race and income can show aggregate subgroup gaps largely reflect differing subgroup compositions (hypothetical example)](intersectional-disaggregation-closes-aggregate-gaps-hypothetical.md) — related
+- [Prior-year heat exposure reduces learning, with about 3 times greater impact on Black and Hispanic/Latine students than White students](heat-exposure-racial-learning-disparities.md) — related

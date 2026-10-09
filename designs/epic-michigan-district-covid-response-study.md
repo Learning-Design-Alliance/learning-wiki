@@ -17,6 +17,7 @@ sources:
 # EPIC study of Michigan school district responses to the COVID-19 pandemic
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The Education Policy Innovation Collaborative (EPIC) at Michigan State University is conducting a study of "Michigan school district responses to the COVID-19 pandemic and efforts to support student learning." The study responds to "the Return to Learn legislation (2020 PA 147, 148, 149)", which tasked the Michigan Department of Education with studying student progress and school effectiveness across instructional modalities. This report is one component of that study, capturing local leaders' perspectives.

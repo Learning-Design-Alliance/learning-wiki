@@ -46,3 +46,4 @@ Theoretical literature analysis: the author's survey of sociocultural SLA studie
 - [Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities](cop-nonparticipation-invalidates-learner-identities.md) — related
 - [The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations](gll-metanarrative-persists-sociocultural-theory.md) — related
 - [Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)](reticent-students-academically-superior-duff.md) — related
+- [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related

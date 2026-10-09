@@ -46,3 +46,4 @@ Scaling and linking description (Chapter 5) of the Spanish vertical RIT scale. T
 - [DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)](spanish-map-reading-dif-patterns.md) — related
 - [Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups](spanish-map-reading-tau-equivalent-constructs.md) — related
 - [Spanish MAP Growth Reading universal screening cut scores correspond to the 40th percentile of Spanish norms, established by linking to English cut scores](spanish-map-growth-reading-40th-percentile-cut-scores.md) — related
+- [Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish](bilinguals-better-math-tested-in-spanish.md) — related

@@ -47,6 +47,8 @@ The brief recommends educator support programs addressing immediate and long-ter
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 - [Invest in educator professional learning on experiential AI pedagogies using existing federal funding streams](fund-educator-ai-professional-learning.md)
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
+- [Invest in program coordination, instructional coaching, and bilingual paraprofessional career pathways to improve English Learner program design](invest-in-el-coordination-coaching-paraprofessional-pathways.md)
+- [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
 
 ## Examples
 -

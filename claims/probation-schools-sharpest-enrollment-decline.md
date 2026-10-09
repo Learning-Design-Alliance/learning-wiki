@@ -45,3 +45,4 @@ School-by-school observational analysis of enrollment change 1995-96 to 1999-00 
 ## Related Claims
 - [Chicago public high school enrollment fell 11.5 percent between fall 1995-96 and fall 1999-00](cps-high-school-enrollment-declined-11-5-percent-1995-2000.md) — related
 - [High school enrollment declined most in grades nine and ten, by about 15 percent between 1995-96 and 1998-99](enrollment-decline-largest-grades-nine-ten.md) — related
+- [68 percent of K–12 districts experienced enrollment declines between 2018–19 and 2023–24 while still operating roughly the same number of schools](68-percent-districts-declining-enrollment-same-schools.md) — related

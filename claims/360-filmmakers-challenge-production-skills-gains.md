@@ -47,3 +47,4 @@ Exploratory online survey documentation of the Fall 2016 program, with over 400 
 - [Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence](360-filmmakers-challenge-personal-meaning-motivation.md) — related
 - [Students improved communication and collaboration through the open-ended 360 film production process](360-filmmakers-challenge-communication-collaboration.md) — related
 - [Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives](360-filmmakers-challenge-perspective-taking.md) — related
+- [NAMI On Campus Club participants reported high confidence in their clubs' impact, with 72–100% agreement across survey items](nami-campus-club-survey-outcomes.md) — related

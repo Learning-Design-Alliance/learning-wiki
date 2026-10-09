@@ -47,3 +47,4 @@ Conceptual definition of the system-reconfiguration factor. The article gives co
 - [Expanded participation and new forms of evidence: breakthroughs reach previously excluded populations and may require new metrics](breakthrough-expanded-participation-new-evidence-forms.md) — related
 - [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — related
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
+- [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — a narrower finding that bears on this claim

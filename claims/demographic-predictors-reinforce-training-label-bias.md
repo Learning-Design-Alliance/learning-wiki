@@ -67,3 +67,4 @@ The authors warn, citing Rosenthal & Jacobson (1968), of "a risk of creating a s
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — related
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — a narrower finding that bears on this claim
 - [Incorporating more learning activity data reduced the potential bias caused by overreliance on demographic information](learning-activity-data-reduces-demographic-bias.md) — a narrower finding that bears on this claim
+- [Training constraints during AI development create potential biases that may be amplified by the population data used](ai-training-constraints-create-potential-biases.md) — related

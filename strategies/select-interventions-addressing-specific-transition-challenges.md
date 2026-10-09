@@ -37,7 +37,8 @@ The report recommends that policymakers use the variety of proposed intervention
 - employment outcomes and transition to adulthood
 
 ## Related Strategies
-- 
+
+- [Align selected data directly to the purpose or problem the data use is meant to serve](align-data-to-purpose.md)
 
 ## Examples
 -

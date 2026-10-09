@@ -18,7 +18,7 @@ sources:
 # MAP Growth interim computer adaptive assessment system
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 MAP Growth is an interim computer adaptive test administered up to four times per year in Math, Reading, Language Usage, and Science, with scores on the RIT scale. The report states it is "an interim computer adaptive test administered multiple times per year (fall, winter, spring, summer)" and that "Scores are reported on the RIT scale, an equal-interval vertical scale that allows comparison across grades and terms." It supports in-school and remote administration with trained proctors.

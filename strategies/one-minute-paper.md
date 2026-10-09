@@ -13,7 +13,7 @@ generated:
 # One Minute Paper
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 7 studies (5 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (6 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 7 of 8 report an effect size
 
 ## Description
 The One Minute Paper (OMP) is a classroom assessment technique in which learners spend one to two minutes at the end of a session writing answers to two prompts: "What was the most important thing you learned today?" and "What question remains unanswered?" The instructor reviews responses before the next session and uses them to adjust instruction, close gaps, or open the next class by addressing common confusions.

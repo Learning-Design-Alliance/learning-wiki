@@ -13,7 +13,7 @@ generated:
 # Predict Observe Explain
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 4 of 9 report an effect size
+> **Evidence** · 5 claims (5 for) · 16 studies (9 quant-synthesis, 5 causal, 1 review, 1 associational), `q2`–`q4` · 8 of 16 report an effect size
 
 ## Description
 Predict Observe Explain (POE) is a three-phase instructional strategy, originally developed by White and Gunstone (1992), in which learners first commit to a written prediction about the outcome of a demonstration or event, then observe the actual outcome, and finally explain what happened — especially any mismatch between their prediction and the observation. The commitment to a prediction before observation is what distinguishes POE from ordinary demonstration: it surfaces prior conceptions and creates a reason to resolve discrepancies.

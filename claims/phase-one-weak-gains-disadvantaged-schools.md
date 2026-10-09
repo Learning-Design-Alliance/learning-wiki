@@ -49,3 +49,4 @@ The academic productivity section reports the Consortium's Phase I value-added a
 - [Racial composition, student mobility, limited-English percentage, and low-income concentration are not independently related to reform implementation once school size is accounted for](demographics-not-independent-reform-predictors.md) — related
 - [Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools](press-support-unequal-school-distribution.md) — related
 - [Integrated schools are most likely to keep pace with ITBS norms while predominantly minority and African-American schools are most likely to lag](racial-composition-pacing-gap.md) — related
+- [School-level concentration of low income students and racial isolation are associated with higher early literacy risk rates](school-segregation-associated-higher-literacy-risk.md) — related

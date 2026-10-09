@@ -13,7 +13,7 @@ generated:
 # Think-Aloud Modeling
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 10 studies (6 causal, 2 quant-synthesis, 1 review, 1 theoretical), `q3`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Think-aloud modeling is a strategy in which an instructor performs a task while verbalizing the reasoning, checks, and decisions normally kept internal. It helps learners see not just what to do, but how an expert monitors and adapts during performance.

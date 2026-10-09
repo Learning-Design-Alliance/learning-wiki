@@ -12,6 +12,7 @@ generated:
 # Joint modeling of English proficiency growth and reclassification timing (SREM)
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Because the joint model outperformed the conventional approach, the article supports designing EL policy analytics that estimate proficiency growth and reclassification timing together rather than separately. The SREM treats "student-specific random effects as latent covariates in the time to reclassification model," yielding more accurate predictions of the grade of reclassification.

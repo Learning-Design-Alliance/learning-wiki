@@ -13,7 +13,7 @@ generated:
 # Question Generation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size
+> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (4 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Question generation asks learners to author questions about the material they are studying rather than only answering questions posed to them. It can occur before instruction (generating curiosity questions), during reading or viewing (self-questioning), or after instruction (comprehension-monitoring and elaborative questions). The strategy works because composing a question forces learners to identify the structure of the content, detect gaps in their understanding, and rephrase ideas in their own terms.

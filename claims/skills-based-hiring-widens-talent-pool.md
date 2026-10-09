@@ -49,3 +49,4 @@ In its postsecondary key recommendations, the scan states that "removing degree 
 - [Racist hiring practices reduce African American candidates' job offers despite equal or better credentials](racist-hiring-practices-toc-candidates.md) — related
 - [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related
+- [Roughly 30% of core workplace skills changed in ten years and over 60% of job titles mentioning AI are non-tech roles](workplace-skills-change-and-ai-job-titles.md) — related

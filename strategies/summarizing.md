@@ -13,7 +13,7 @@ generated:
 # Summarizing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 7 studies (2 causal, 2 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 1 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 review, 2 causal, 2 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q4` · 1 of 9 report an effect size
 
 ## Description
 Summarizing asks learners to integrate the most important information from a text, lesson, or problem into a concise overview in their own words. In problem-solving contexts, it extends beyond restating content: learners justify their answer, evaluate whether their solution plan succeeded, and articulate the strategies they used. The act of selecting, condensing, and reorganizing forces deep processing of the material rather than surface reproduction.

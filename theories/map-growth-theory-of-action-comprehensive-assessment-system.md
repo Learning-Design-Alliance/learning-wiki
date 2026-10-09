@@ -16,7 +16,7 @@ sources:
 # MAP Growth theory of action within a comprehensive assessment system
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report articulates a theory of action positioning MAP Growth as the interim component of a comprehensive assessment system alongside summative and formative assessments. Its premise is that "when MAP Growth is situated in a comprehensive assessment system and used for its intended purposes (to yield information about student learning and enable educators to make data-informed decisions about curriculum and instruction), all students learn." Intended uses are classified as instructional, predictive, or evaluative, with aggregation matched to the level of decision-making.

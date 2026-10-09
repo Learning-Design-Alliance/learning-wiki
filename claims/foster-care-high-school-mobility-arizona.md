@@ -48,3 +48,5 @@ Observational analysis of linked administrative data on number of schools attend
 - [Arizona students in foster care were less likely than all students statewide to attend the state's highest-performing schools](foster-care-low-performing-schools-arizona.md) — related
 - [Students in foster care in Arizona constituted an at-risk subgroup demographically distinct from low-SES students](foster-care-distinct-from-low-ses-arizona.md) — related
 - [Arizona students in foster care had the lowest statewide testing participation rate, declining sharply in later grades](foster-care-lowest-test-participation.md) — related
+- [Students in foster care were consistently more likely than other high-need groups to attend a low-performing school](foster-care-low-performing-school-attendance.md) — related
+- [School stability for students in foster care improved from 62 percent to 66 percent but remained far below the roughly 90 percent rate of other groups](foster-care-school-stability-lower.md) — related

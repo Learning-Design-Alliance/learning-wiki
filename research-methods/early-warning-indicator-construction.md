@@ -13,6 +13,7 @@ generated:
 # Early-warning indicator construction
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Consortium report cited in the paper outlines five characteristics of effective indicators: predictiveness, usability and clarity, real time/right time availability, direct causal linkage to outcomes, and malleability. Predictiveness alone is insufficient — researchers must also show which indicators are less predictive and therefore poor targets — and even rigorously predictive indicators fail if they are not understandable, simple, and applicable in schools, since complexity that becomes a barrier to action undermines use. Indicators should be available in real time or at the right time, should have a direct causal linkage so that improving them changes the ultimate outcome, and must be malleable, meaning educators can move them with known strategies. The paper grounds the framework in the assumption that indicators' predictive power is practical rather than deterministic: indicators estimate likely outcomes to trigger support, with the goal that the predicted outcome does not correspond with the student's actual outcome.

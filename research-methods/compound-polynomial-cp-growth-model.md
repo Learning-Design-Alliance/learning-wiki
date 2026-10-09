@@ -12,6 +12,7 @@ generated:
 # Compound Polynomial (CP) growth model
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The CP model is a multilevel growth model whose design matrix combines a within-year (fall-to-spring) matrix with a between-year (spring-to-spring) polynomial matrix, so that both kinds of growth are estimated in one model. The authors use it "to simultaneously estimate fall-to-spring (within-year) and spring-to-spring (between-year) growth over five years using a single model," producing conditional Z-scores via contrast matrices that allow school effectiveness comparisons across timespans on a consistent sample. The preferred specification treats all coefficients as random except the within-year quadratic, which is fixed at the school level.

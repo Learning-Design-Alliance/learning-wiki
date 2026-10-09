@@ -45,3 +45,4 @@ Resultados de micro-credenciales del piloto: "50%" de coaches y "83.33%" de maes
 ## Related Claims
 - [Al finalizar el piloto, la mayoría de los coaches reportó satisfacción, apoyo y confianza para continuar usando el Modelo de Coaching Basado en Retos.](pr-coaching-pilot-coach-satisfaction-confidence.md) — related
 - [El piloto formalizó la función de coaching informalmente desempeñada por los MRUCs y fortaleció relaciones y estructuras de apoyo en las escuelas.](pr-coaching-pilot-systems-impact-mrucs.md) — related
+- [Las micro-credenciales apoyaron la práctica profesional de una educadora como desarrollo profesional a propio ritmo](microcredentials-self-paced-educator-pd-testimonial.md) — related

@@ -47,3 +47,4 @@ Second RCT in 15 CPS high schools randomized 2,710 9th and 10th graders to Saga 
 - [Saga tutoring significantly raises standardized math achievement for at-risk 9th and 10th graders in the first Chicago RCT (ITT +0.09, TOT +0.18)](saga-rct1-math-achievement-gains.md) — related
 - [The Saga blended technology-enhanced tutoring model significantly improves standardized math scores, math GPA, and reduces math course failures (+0.19)](saga-blended-model-rct3-outcomes.md) — related
 - [Saga tutoring produces significant improvements in math course grades and failures and persistent gains one to two years after tutoring](saga-secondary-outcomes-persistence.md) — related
+- [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related

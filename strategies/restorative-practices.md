@@ -13,7 +13,7 @@ generated:
 # Restorative Practices
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (4 causal), `q3`–`q4` · 0 of 4 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (6 causal, 1 quant-synthesis), `q3`–`q4` · 0 of 7 report an effect size
 
 ## Description
 Restorative Practices (RP) is a whole-school strategy that replaces punitive discipline with practices that build community and repair harm. It operates on two tiers: proactive community-building (circles, check-ins, affective language) that strengthens relationships before conflict occurs, and responsive repair (restorative conferences, mediation) that brings together those harmed and those responsible after harm occurs. The underlying assumption is that misbehavior is a violation of relationships, not rules, and that learning conditions improve when students feel connected and fairly treated.

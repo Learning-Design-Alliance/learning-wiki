@@ -51,3 +51,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [Online students' learning needs centre on course support and communication with tutors and other students](online-students-learning-needs-support-communication.md) — related
 - [SPICE learners report that the virtual Center reduced their rural isolation and made learning enjoyable](spice-learners-report-reduced-isolation.md) — a narrower finding that bears on this claim
 - [Avatar use in online learning provides social presence, and realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
+- [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](cop-relationships-combat-aie-director-isolation.md) — related

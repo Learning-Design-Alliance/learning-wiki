@@ -83,3 +83,4 @@ Responses to the hypothetical merit-pay dilemma revealed differing enactments of
 - [Practitioner engagement initiatives reflected buy-in rather than ownership because leadership developed ideas and decisions before seeking context-expert input](seernet-initiatives-buy-in-not-ownership.md) — related
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
+- [Youth advisors report students are inadequately involved in school decision-making and want more transparent communication](youth-advisors-report-inadequate-involvement-in-decisions.md) — related

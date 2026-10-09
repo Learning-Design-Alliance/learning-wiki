@@ -12,6 +12,7 @@ generated:
 # Logit-based power planning for clustered education RCTs with binary outcomes
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because binary outcomes demand larger samples than continuous test-score or behavioral-scale outcomes, designers of clustered school-based RCTs should plan for more schools than the 40 to 60 typically used. The article's key finding is that "sample sizes of 40 to 60 schools that are typically included in clustered RCTs for student test score or behavioral scale outcomes will often be insufficient for binary outcomes," so power calculations should use the article's logit-based approach.

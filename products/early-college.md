@@ -13,6 +13,7 @@ generated:
 # Early College
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A whole-school dual-enrollment programme run through district-college partnerships that combines college-level coursework with academic, social, and transition supports for high-school students.

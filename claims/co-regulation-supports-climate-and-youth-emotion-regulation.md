@@ -75,3 +75,5 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [Positive classroom climate is associated with more frequent socially shared regulation of learning](positive-climate-promotes-shared-regulation.md) — related
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
 - [Youth designers specified norm setting and flexibility as key components of the Tech Talk game instructions](youth-designed-norm-setting-and-flexibility-tech-talk.md) — related
+- [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md) — related
+- [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related

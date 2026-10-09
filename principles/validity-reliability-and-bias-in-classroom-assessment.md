@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (32 for, 16 mixed) · 37 studies (14 associational, 7 review, 7 design, 4 causal, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 37 report an effect size · 47 claims rest on one study
+> **Evidence** · 50 claims (34 for, 16 mixed) · 39 studies (14 associational, 8 review, 8 design, 4 causal, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 39 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,8 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [The linear slope of the HSGPA–college graduation relationship does not vary significantly across high schools, so HSGPA provides a consistent signal across schools](../claims/hsgpa-slope-consistent-across-schools.md) [~W] — attached 2026-10-09 from Allensworth et al. (2019), which proposed "Use high school grades, not individual test scores, as the primary formative indicator of college readiness, and rely less heavily on standardized test scores in accountability"; tests this page's relationship.
 - [ACT scores weakly predict college graduation, and the school-level variance in the ACT slope (0.192) exceeds the average slope (0.129), so school effects introduce more noise than the ACT signal](../claims/act-weak-predictor-noise-exceeds-signal.md) [+W] — attached 2026-10-09 from Allensworth et al. (2019), which proposed "Use high school grades, not individual test scores, as the primary formative indicator of college readiness, and rely less heavily on standardized test scores in accountability"; tests this page's relationship.
 - [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability](../claims/act-adds-little-beyond-hsgpa.md) [+W] — attached 2026-10-09 from Allensworth et al. (2019), which proposed "Use high school grades, not individual test scores, as the primary formative indicator of college readiness, and rely less heavily on standardized test scores in accountability"; tests this page's relationship.
+- [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](../claims/early-ed-essentials-rasch-refined-measures.md) [+W] — attached 2026-10-09 from Ehrlich et al. (2018), which proposed "Use explicit Rasch-based criteria (reliability, item fit, difficulty spread, DIF) when developing survey measures".
+- [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](../claims/hsgpa-predicts-college-graduation-more-than-tests.md) [+W] — attached 2026-10-09 from Melissa Roderick et al. (2009), which proposed "Districts and states should build data systems that link high school performance to graduates' college outcomes and set validated readiness standards"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

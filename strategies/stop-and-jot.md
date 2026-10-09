@@ -78,11 +78,13 @@ Stop and Jot converts passive listening into intermittent [Active Learning](../p
 5. Follow up: have learners share jots with a partner, select responses to discuss, or scan digital jots to decide whether to reteach ([Practice](../elements/practice.md) and [Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — same pause structure with oral instead of written processing
 - [Exit Tickets](exit-ticket.md) — the same jot moved to the end of a lesson
 - [Interactive Note-Taking](interactive-note-taking.md) — Stop and Jot is one structured prompt type within a broader note-taking system
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — opening jots often serve this function before new content
 - [Identify 2-3 intentional pause points for collecting and reflecting on artifacts](identify-two-three-portfolio-pause-points.md)
+- [Review evidence of learning at three points: before, during, and after the lesson](three-evidence-review-points-strategy.md)
 
 ## Examples
 - **Elementary literacy blocks** — teachers place a stop box in guided-reading notes; students jot a prediction or inference at chapter breaks, then discuss with a partner (Jot-Pair-Share).

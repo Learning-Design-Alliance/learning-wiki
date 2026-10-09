@@ -44,3 +44,4 @@ Theoretical argument in the introduction: because one-step equations involve one
 
 ## Related Claims
 - [In a kindergarten early algebra intervention, the teacher's equal-sign language shifted with lesson focus, from definitions and \"is the same as\" early on to \"balanced\" talk and balance gestures when evaluating and solving equations](teacher-shifts-equal-sign-language-with-kindergarten-lesson-focus.md) — related
+- [A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations](answer-coming-equals-sign-misconception.md) — a narrower finding that bears on this claim

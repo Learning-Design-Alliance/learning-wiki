@@ -66,3 +66,4 @@ Same teacher survey data (Figure 3). Ninth-grade teachers were less likely to se
 - [Chicago high school teachers reported better communication and more positive relationships with parents in 1997 than in 1994](teacher-parent-communication-improved-1994-1997.md) — related
 - [Parental involvement declines as students move from eighth to tenth grade in Chicago and nationally](parental-involvement-declines-high-school-transition.md) — related
 - [Parents want more academic interaction with high schools, but schools focus communication on rules and problems](parents-want-academic-interaction-schools-focus-rules.md) — related
+- [Family engagement typically declines from elementary to middle school for several identified reasons](family-engagement-declines-elementary-to-middle.md) — related

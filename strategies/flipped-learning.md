@@ -13,7 +13,7 @@ generated:
 # Flipped Learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (4 quant-synthesis, 1 review), `q2`–`q4` · 4 of 5 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (6 quant-synthesis, 1 causal, 1 review, 1 associational), `q2`–`q4` · 5 of 9 report an effect size
 
 ## Description
 Flipped learning reverses the traditional sequence: learners encounter new content individually before class — usually through short pre-recorded videos, readings, or podcasts — and class time is devoted to active learning such as problem-solving, discussion, case work, and group projects. The instructor shifts from content deliverer to facilitator, guiding learners as they apply, extend, and get feedback on what they studied. The model depends on both halves working: pre-class exposure *and* purposefully structured in-class application.

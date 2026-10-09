@@ -65,3 +65,4 @@ Survey-based subgroup comparison (N = 14 local coach, N = 6 no local coach) show
 - [Teacher confidence in teaching literacy and English learner students increased over the pilot year, especially with a local coach](wts-teacher-confidence-increased-over-year.md) — related
 - [Most pilot teachers used the Write to Succeed practices and found them easy to use and helpful for students, with ease of use increasing across semesters](wts-practices-used-and-rated-helpful.md) — related
 - [The SWELL logic model posits medium-term improvements in teachers' literacy instruction and ability to accommodate language learning and embed CLRI](swell-medium-term-teacher-instruction-outcomes.md) — related
+- [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](practical-measure-data-tailors-crse-instruction.md) — related

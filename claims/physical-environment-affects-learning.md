@@ -46,3 +46,4 @@ The synthesis reports that "views of nature from the classroom" and sunlight boo
 - [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — a broader claim this one bears on
 - [Higher temperatures most strongly affect math scores on test days](heat-most-strongly-affects-math-scores.md) — related
 - [The heat-achievement analysis links daily temperature data to MAP Growth scores for grades 3–8 in six states](heat-analysis-map-growth-six-states-design.md) — related
+- [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](daylight-green-views-benefit-students.md) — possibly the same claim (merge candidate)

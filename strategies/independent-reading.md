@@ -13,7 +13,7 @@ generated:
 # Independent Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 causal, 2 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (7 review, 3 causal, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 2 of 15 report an effect size
 
 ## Description
 Independent reading involves students selecting and reading books on their own, within their reading level and interests, during regularly scheduled classroom time. Effective implementation pairs access to a diverse classroom library with explicit instruction on book selection, teacher conferences for individual guidance, and accountability structures that keep reading purposeful rather than merely supervised.

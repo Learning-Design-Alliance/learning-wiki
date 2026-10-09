@@ -12,6 +12,7 @@ generated:
 # Small cluster-randomized trial design and analysis
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article offers best practices for designing and analyzing cluster randomized controlled trials with ten or fewer clusters, contexts where it says meaningful effects may still be detectable. Its stated objective is "to offer recommendations for best practices in design and analysis for small CRCTs," grounded in simulations of alternative approaches. The practices cover analytic choice, blocking, power estimation, and cluster-count planning.

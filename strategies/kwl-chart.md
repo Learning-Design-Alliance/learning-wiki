@@ -13,7 +13,7 @@ generated:
 # KWL Chart
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 5 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (4 quant-synthesis, 2 causal, 1 review), `q2`–`q4` · 4 of 7 report an effect size
 
 ## Description
 A KWL chart is a three-column graphic organizer completed across a lesson: before instruction, students record what they already **Know** (K) and what they **Want** to know (W); after instruction, they record what they **Learned** (L). Developed by Ogle (1986) for expository reading, it front-loads [Activation](../elements/activation.md) of prior knowledge and goal-setting, then closes with structured summarization.

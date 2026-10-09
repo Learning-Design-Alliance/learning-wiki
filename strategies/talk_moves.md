@@ -58,8 +58,10 @@ Talk moves operationalize "accountable talk" — classroom discourse that is acc
 5. Debrief the talk itself — which moves helped the group reason better — and fade the frames as learners internalize the norms [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M].
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — talk moves presuppose and train genuine listening to peers' contributions
 - [Sentence Frames](sentence-frames.md) — the broader family of language supports of which talk moves are a discussion-specific instance
+- [Scaffold mathematical discussion with paraphrasing, restating, formulaic expressions, elaborating questions, and key vocabulary in context](discussion-scaffolds-paraphrase-formulaic-expressions.md)
 
 ## Related Elements
 - [Argumentation](../elements/argumentation.md) — talk moves give learners the linguistic tools to enact argumentation norms

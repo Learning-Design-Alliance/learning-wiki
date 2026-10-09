@@ -46,7 +46,8 @@ In a partnership among the University of Pennsylvania's Graduate School of Educa
 - [SEERNet network connecting platforms, researchers, and educators](seernet-network-element.md)
 
 ## Examples
--
+
+- [Expand micro-credential systems into seven future content areas](../strategies/micro-credential-future-expansion-areas.md)
 
 ## Key Sources
 - Pautz Stephenson, S., & Roschelle, J. (2023). Making Waves: Reflections on SEERNet's Progress Towards Enabling Next Generation of Education Research. Digital Promise. https://doi.org/10.51388/20.500.12265/195

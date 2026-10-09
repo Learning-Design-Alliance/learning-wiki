@@ -17,7 +17,7 @@ sources:
 # Zone of Proximal Development as an assessment and instruction tool
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The ZPD is defined by Vygotsky as "the distance between the actual developmental level as determined by independent problem-solving and the level of potential development as determined through problem-solving under adult guidance or in collaboration with more capable peers." The essay presents it as "an analytical tool necessary to plan instruction and to explain its results," applicable to assessment, individualizing learning, monitoring progress, and addressing gifted children's social and emotional needs.
@@ -37,7 +37,8 @@ The ZPD is defined by Vygotsky as "the distance between the actual developmental
 - identifying learning potential and placing students within their zones of proximal development
 
 ### Claims
-- 
+
+- [Learning pitched at the edge of students' current abilities — the ZPD — is more effective than learning that is too easy or too frustrating](../claims/zpd-edge-learning-english-learners.md) [+W] — attached 2026-10-09 from Barbara Jones et al. (2024), which proposed "Zone of proximal development (ZPD) as the frame for edge learning with English learners".
 
 ## Related Theories
 

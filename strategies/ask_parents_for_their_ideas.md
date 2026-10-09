@@ -61,6 +61,7 @@ Soliciting parent voice works through the same mechanism as student voice: being
 - [Check-Ins](../principles/check-ins.md) — the same elicitation move applied to students rather than families
 - [Community-Based Learning](../principles/community-based-learning.md) — extends partnership from families to the wider community
 - [Use improved communication strategies to drive family involvement and partnerships with schools](improved-communication-drives-family-involvement-partnerships.md)
+- [Use a family engagement survey within a data inquiry cycle to gather family feedback and drive changes to policies and practices](family-engagement-survey-data-inquiry-cycle.md)
 
 ## Related Elements
 - [Check-Ins](../principles/check-ins.md) — lightweight prompts that make solicitation routine rather than episodic

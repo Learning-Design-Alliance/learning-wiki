@@ -67,3 +67,4 @@ From the strong girls section: in the one group where boys did not dominate the 
 - [More than 60% of clinic attendees were boys in every period, with no significant gender time trend](cap-clinic-male-predominance-constant.md) — related
 - [Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction](education-corps-boys-gains-girls-near-zero.md) — related
 - [Mathematics education acts as a gatekeeper to academic opportunity that disproportionately affects students from historically marginalized communities](mathematics-education-gatekeeper-marginalized-students.md) — related
+- [EQUIP data reports surfaced participation inequities that teachers were unaware of and motivated instructional change](equip-data-surfaces-unseen-participation-inequities.md) — related

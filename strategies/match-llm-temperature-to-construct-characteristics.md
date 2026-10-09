@@ -42,6 +42,7 @@ The article recommends calibrating LLM sampling parameters to the psychological 
 ## Related Strategies
 
 - [Use structured multi-stage prompts with clearly defined constructs when eliciting LLM topic labels for qualitative coding](structured-prompts-clear-construct-definitions-llm-labeling.md)
+- [Use deterministic, fully replicable text-analysis methods with documented search terms when analyzing large text corpora](deterministic-replicable-text-analysis-methods.md)
 
 ## Examples
 -

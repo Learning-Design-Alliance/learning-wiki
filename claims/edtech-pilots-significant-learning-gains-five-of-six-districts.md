@@ -64,3 +64,4 @@ Paired T-test analysis of pre- and post-benchmark scores for Mathspace districts
 ## Related Claims
 - [At the end of the pilots, three-quarters of Mathspace teachers and all Ratio Rancher teachers said they would recommend the tool to a colleague](teachers-would-recommend-piloted-math-tools.md) — related
 - [Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners](student-pace-and-engagement-varies-by-skill-level.md) — related
+- [Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools](assistments-sole-tool-early-trends.md) — related

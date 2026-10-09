@@ -47,3 +47,4 @@ A consensus statement of evidence from the Council of Distinguished Scientists a
 - [Affective competence at age five is characterized by twelve observable skills](affectively-competent-five-year-old-attributes.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a narrower finding that bears on this claim
 - [Artistic and social-emotional competencies are mutually reinforcing](artistic-sel-competencies-mutually-reinforcing.md) — a narrower finding that bears on this claim
+- [Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning](emotions-critical-to-learning-leverage-in-design.md) — related

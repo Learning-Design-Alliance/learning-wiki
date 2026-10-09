@@ -17,6 +17,7 @@ sources:
 # Return to Learn legislation framework for studying pandemic learning in Michigan
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Michigan's Return to Learn legislation (2020 PA 147, 148, 149) tasked the Michigan Department of Education with "studying student progress toward learning goals during and beyond the 2020-21 school year." It also directed understanding "how schools were effective at meeting educational goals and attainment across in-person, hybrid, and remote instructional modalities." The EPIC study of district responses operationalizes this legislative mandate, using leaders' perspectives to surface best practices for supporting student learning during COVID-19.

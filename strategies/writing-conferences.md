@@ -13,7 +13,7 @@ generated:
 # Writing Conferences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (3 causal, 3 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 2 of 8 report an effect size
+> **Evidence** · 5 claims (5 for) · 13 studies (6 quant-synthesis, 4 causal, 2 review, 1 qualitative), `q2`–`q4` · 5 of 13 report an effect size
 
 ## Description
 A writing conference is a brief, scheduled one-on-one conversation between teacher and student focused on the student's own writing, typically while it is still in draft. The teacher asks questions, listens, and offers one or two targeted points of feedback or instruction, treating the student as the writer-in-charge rather than grading a finished product. Conferences range from quick 2–3 minute check-ins to extended 10–15 minute sessions, and are a core component of writing workshop models [Atwell, 1987; Calkins, 1994].

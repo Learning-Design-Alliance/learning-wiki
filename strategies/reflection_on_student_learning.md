@@ -60,8 +60,10 @@ Reflection on student learning is the teacher-side enactment of formative assess
 6. **Close the loop with feedback.** Return specific, task-focused information to students about their reasoning, not just correctness.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — diagnostic questions work best when they surface what students already hold, including misconceptions
 - [Action-Oriented Feedback](../strategies/action-oriented-feedback.md) — the student-facing counterpart to teacher reflection; observations become useful when converted into actionable feedback
+- [Review evidence of learning at three points: before, during, and after the lesson](three-evidence-review-points-strategy.md)
 
 ## Examples
 - A middle-school math teacher asks students to explain in their own words why dividing by a fraction yields a larger number, then circulates listening to pair discussions. Students who describe only the "flip and multiply" procedure are flagged for a conceptual re-teach using visual models the next day.

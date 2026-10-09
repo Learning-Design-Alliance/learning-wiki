@@ -13,7 +13,7 @@ generated:
 # Frayer Model
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 9 studies (5 causal, 2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 9 report an effect size
 
 ## Description
 The Frayer Model is a four-quadrant graphic organizer used to teach a concept: learners complete sections for (1) a definition, (2) essential characteristics or facts, (3) examples, and (4) non-examples. Because learners must supply the content themselves rather than copy a glossary entry, the organizer functions as a structured generative activity rather than a passive note-taking frame. It was developed by Frayer, Frederick, and Klausmeier (1969) at the Wisconsin Research and Development Center for Cognitive Learning as part of work on concept acquisition.
@@ -94,6 +94,7 @@ The Frayer Model operationalizes concept learning by forcing discrimination betw
 6. Review and refine: compare organizers across peers, resolve disagreements about non-examples, and revise definitions — the discussion phase is where much of the learning occurs
 
 ## Related Strategies
+
 - [Concept Attainment](../patterns/concept-attainment.md) — the broader instructional pattern the Frayer Model serves; both hinge on example/non-example contrast
 - [Analogies](../elements/analogies.md) — an alternative route to conceptual understanding via relational mapping rather than boundary discrimination
 - [Advance Organizers](../elements/advance-organizers.md) — a complementary structure presented *before* learning rather than during consolidation of a single concept
@@ -101,6 +102,7 @@ The Frayer Model operationalizes concept learning by forcing discrimination betw
 - [Semantic feature analysis](../strategies/semantic_feature_analysis.md) — a matrix-based sibling that compares multiple concepts across attributes rather than deepening one
 - [Word walls](word-walls.md) — a lower-intensity vocabulary routine; the Frayer Model supplies the depth that walls alone lack
 - [Twelve-step teacher-led concept-diagram vocabulary lesson routine](twelve-step-concept-diagram-routine.md)
+- [Develop mathematical concepts and working definitions before teaching formal terms, replacing vocabulary preteaching](develop-concepts-before-vocabulary-preteaching.md)
 
 ## Examples
 - **Science:** Students complete a Frayer Model for "mammal" with non-examples of dolphin-adjacent confusions (shark, tuna) and boundary cases (platypus), then defend their non-example choices in discussion.

@@ -13,6 +13,7 @@ generated:
 # Chicago High School Redesign Initiative (CHSRI)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A Chicago Public Schools high-school redesign initiative that created small, voluntary schools with supported autonomy and organizational and instructional reforms for urban students.

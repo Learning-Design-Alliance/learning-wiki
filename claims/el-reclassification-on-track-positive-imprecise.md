@@ -45,3 +45,4 @@ Regression discontinuity estimates from the large California district administra
 ## Related Claims
 - [Eighth grade EL reclassification has statistically insignificant effects on 9th–11th grade ELA test scores, with effects bounded between −0.17 and 0.09 SDs](el-reclassification-null-ela-effects-high-school.md) — related
 - [Effects of summer credit recovery on 4- and 5-year graduation rates for newcomer ELs were imprecisely estimated](credit-recovery-graduation-effects-imprecise.md) — related
+- [Timing of English learner reclassification influences later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — related

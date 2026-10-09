@@ -16,7 +16,7 @@ sources:
 # Bayesian hypothesis testing as an approach to the multiple testing problem
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (3 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 The report treats Bayesian hypothesis testing as one of the approaches addressed for handling multiple testing in education impact evaluations. The abstract lists it among the report's contents: "the report provides details on the nature of the multiple testing problem and the statistical solutions that have been proposed; the creation of composite outcomes measures; and the Bayesian hypothesis testing approach". It is presented as an alternative to frequentist correction procedures.

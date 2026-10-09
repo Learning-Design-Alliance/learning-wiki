@@ -47,3 +47,4 @@ Definitional/argumentative content from the glossary's Machine Learning entry (n
 - [Data construction can embed social values and patterns of privilege into data itself, perpetuating testimonial injustice](data-construction-embeds-privilege-in-data.md) — related
 - [People may absorb bias from AI and carry it beyond their interactions with the algorithm](humans-absorb-bias-from-ai.md) — related
 - [Inclusive CT learning engages students in critiquing bias in real technological systems](ct-enables-critique-of-algorithmic-bias.md) — related
+- [Training constraints during AI development create potential biases that may be amplified by the population data used](ai-training-constraints-create-potential-biases.md) — related

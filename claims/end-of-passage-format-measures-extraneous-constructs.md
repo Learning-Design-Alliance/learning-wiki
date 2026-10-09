@@ -47,3 +47,4 @@ The article proposes that end-of-passage formats introduce extraneous memory and
 - [Embedded-item passages may yield improved student reading comprehension scores and a more valid measurement approach](embedded-items-improved-scores-validity.md) — related
 - [Embedding items has the potential to be a more equitable measure of reading comprehension for marginalized groups](embedded-items-potential-equity-marginalized-groups.md) — related
 - [Embedding comprehension items within reading passages significantly affects measured reading achievement compared with answering items at the end of the passage](embedding-items-within-passages-significant-achievement-impact.md) — related
+- [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — related

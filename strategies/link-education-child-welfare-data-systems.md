@@ -37,7 +37,9 @@ The report calls for accessible, linked, comprehensive, and current education an
 - Raising awareness of the academic vulnerability of students in foster care and creating a baseline for tracking their academic progress
 
 ## Related Strategies
-- 
+
+- [Provide school-placement decision-makers with richer school information and strengthen transportation implementation to support school-of-origin stability](school-stability-supports-foster-care.md)
+- [Develop data-sharing memoranda of understanding and shared evaluation across child- and family-serving agencies](shared-data-use-mous-evaluation.md)
 
 ## Examples
 -

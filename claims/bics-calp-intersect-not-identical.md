@@ -51,3 +51,5 @@ This is a conceptual argument in an opinion paper: Cummins reasons that all chil
 - [Reading difficulty occurs when one aspect of the interactive reading process is excluded for an extended period of time](reading-difficulty-excluded-aspect-extended-time.md) — related
 - [Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students](academic-proficiency-takes-5-7-years.md) — related
 - [Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability](sociocultural-critique-cummins-framework.md) — reports the opposite
+- [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related
+- [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related

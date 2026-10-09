@@ -22,7 +22,7 @@ sources:
 # Edmentum Exact Path Growth personalized learning program
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 3 studies (3 causal), `q2` · 1 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 Exact Path Growth is "a personalized learning program for K-12 learners, designed to accelerate, measure, and report student achievement in Math and English Language Arts standards." It offers individualized learning paths, adaptive diagnostic assessments, and educator-led interventions. It provides flexible assessment options, using its own diagnostic assessment or integrating with NWEA MAP Growth, Renaissance Star, or select state assessments to personalize learning paths.

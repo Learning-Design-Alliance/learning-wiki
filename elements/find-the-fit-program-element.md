@@ -17,7 +17,7 @@ sources:
 # Find the Fit: personalized planning materials, student text messaging, and advisor training webinars for enhanced college advising
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 3 studies (3 causal), `q2`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 Find the Fit is an enhanced college-advising intervention evaluated in the Upward Bound program. It "combines personalized planning materials and text messaging for students, and training webinars for advisors." The first report of a six-year study credits it with increasing the number and selectivity of colleges to which students apply and with changing advising within Upward Bound.

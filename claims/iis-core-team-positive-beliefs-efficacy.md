@@ -62,3 +62,4 @@ The report's own interpretation of the disagree responses observed on some Conte
 
 ## Related Claims
 - [Collaborative Innovation tenets varied in visibility: collective ownership and context expertise were most evidenced, reimagining progress least](tenet-visibility-varied-across-projects.md) — related
+- [Centering teachers of color as leaders, designers, and implementers throughout design is the most broadly appreciated aspect of the Design Team process](centering-teacher-of-color-voice-distributed-leadership.md) — related

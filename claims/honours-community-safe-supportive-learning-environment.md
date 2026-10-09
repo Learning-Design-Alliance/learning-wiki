@@ -51,3 +51,4 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related
 - [Youth designers specified norm setting and flexibility as key components of the Tech Talk game instructions](youth-designed-norm-setting-and-flexibility-tech-talk.md) — related
 - [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related
+- [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related

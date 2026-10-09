@@ -12,6 +12,7 @@ generated:
 # Design-based RCT analysis with grouped administrative data
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends analyzing RCTs with grouped administrative data "to help improve data access," using design-based estimators formed as group-level averages. This allows evaluators to estimate average treatment effects when individual-level data cannot be obtained, provided the design conditions the article identifies are met.

@@ -22,7 +22,7 @@ sources:
 # Future Forward literacy program model
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (6 for, 4 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 10 claims rest on one study
 
 ## Description
 Future Forward is an early elementary literacy program administered by Education Analytics that "leverages community agencies and combines one-on-one intensive tutoring with parent engagement to promote students’ literacy development both at school and at home." Within sites, a site manager (typically a certified teacher) oversees tutoring by paraprofessionals or volunteers, and a family engagement coordinator handles family outreach including monthly family events. Students participate for one school year with a minimum of two 30-minute tutoring sessions per week and at least two family contacts per month.

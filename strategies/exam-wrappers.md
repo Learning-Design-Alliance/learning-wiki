@@ -13,7 +13,7 @@ generated:
 # Exam Wrappers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q2`–`q4` · 2 of 5 report an effect size
 
 ## Description
 An exam wrapper is a structured reflection instrument administered around an exam — typically a handful of questions completed right after receiving feedback (and sometimes before the exam) — that asks students how they studied, how their preparation worked, where they lost points, and what they will change next time. The goal is to convert the naturally high-attention moment of exam return into a metacognitive learning event, closing the loop between performance and strategy.

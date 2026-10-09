@@ -78,6 +78,9 @@ Empathy interviews work because they position families as experts on their own e
 - [Form design teams by building trust and relationships and prioritizing meaningful representation before project kick-off.](build-trust-meaningful-representation-design-teams.md)
 - [Use small shared-meal conversations among teachers, students, and a facilitator to surface student perspectives on assessment and strengthen relationships](structured-student-teacher-meal-conversations.md)
 - [Conduct empathy interviews to understand user experiences with technology](empathy-interviews-for-ai-policy-development.md)
+- [Conduct one-on-one empathy interviews with open-ended questions to uncover root causes of system challenges](empathy-interviews-root-causes.md)
+- [Conduct a family engagement needs assessment as the first step in planning](family-engagement-needs-assessment-first-step.md)
+- [Use a family engagement survey within a data inquiry cycle to gather family feedback and drive changes to policies and practices](family-engagement-survey-data-inquiry-cycle.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the opening move that establishes psychological safety

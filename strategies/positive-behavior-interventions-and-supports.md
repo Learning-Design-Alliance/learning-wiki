@@ -89,6 +89,7 @@ PBIS treats behavior as a learnable skill rather than an innate trait, applying 
 - [Check-In/Check-Out](check-incheck-out.md) — the most common Tier 2 support within PBIS
 - [Restorative Practices](restorative-practices.md) — a complementary approach to discipline that replaces exclusionary consequences
 - [Social-Emotional Learning](../patterns/social-emotional-learning.md) — teaches the underlying self-regulation skills PBIS expectations presuppose
+- [Sustain and resource statewide PBIS scale-up with emphasis on advanced-tier implementation support](statewide-pbis-scale-up-advanced-tier-support.md)
 
 ## Examples
 - **[Center on PBIS](https://www.pbis.org)** — the national technical assistance center; hosts implementation guides, fidelity measures (Tiered Fidelity Inventory), and state implementation networks.

@@ -44,3 +44,4 @@ Descriptive subgroup comparisons with statistical tests across district subgroup
 
 ## Related Claims
 - [No statistically significant mentoring–retention relationships emerged in districts with any characteristics examined, and subgroup differences exceeding 10 percentage points showed no clear pattern](no-mentoring-retention-relationships-by-district-subgroups.md) — related
+- [Rural and urban TECTA participants showed no statistically significant differences in credential attainment or time to completion](rural-urban-no-significant-difference-tecta-credential-outcomes.md) — related

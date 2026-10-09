@@ -18,7 +18,7 @@ sources:
 # Principal Supervisor Initiative (PSI)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 The Principal Supervisor Initiative is a district-level reform program launched by The Wallace Foundation in 2014. It is described as "a four-year, $24 million effort to redefine principal supervision in six urban school districts." The initiative aimed to shift the supervisor role from administrative compliance work toward developing principals as instructional leaders, and this report evaluates how the role differed in PSI districts compared with other large urban districts.

@@ -13,6 +13,7 @@ generated:
 # Aurora Institute's Seven Critical Elements of Instructional Practice
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A framework developed by the Aurora Institute to guide competency-based instructional practice through learner agency, meaningful assessment, differentiated support, mastery-based progression, varied pathways and pacing, equity strategies, and transparent expectations.

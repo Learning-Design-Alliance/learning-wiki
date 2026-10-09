@@ -13,7 +13,7 @@ generated:
 # Sentence Frames
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q3` · 2 of 7 report an effect size
 
 ## Description
 Sentence frames are partially completed sentence templates ("I agree with ______ because ______.") that learners complete with their own content when speaking or writing. They scaffold the *language* of a task so learners can devote working memory to the *ideas*, and they model the discourse conventions of a discipline or community — including how to agree, disagree, and ask for elaboration respectfully.
@@ -87,6 +87,8 @@ Sentence frames reduce the linguistic and cognitive burden of response productio
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the modeling method that shows learners *when* a frame fits, not just what it says
 - [Acting-Role-Play](../strategies/acting-role-play.md) — rehearsal context where frames can be practiced before authentic use
 - [Active-Listening](../strategies/active-listening.md) — frames often encode listening moves ("So what you're saying is…") that support this strategy
+- [Scaffold mathematical discussion with paraphrasing, restating, formulaic expressions, elaborating questions, and key vocabulary in context](discussion-scaffolds-paraphrase-formulaic-expressions.md)
+- [Offer generative formulaic expressions instead of rigid sentence starters](generative-formulaic-expressions-not-sentence-starters.md)
 
 ## Examples
 - **Science argumentation**: "The evidence shows ______, which supports my claim that ______" used in claim–evidence–reasoning (CER) writing frames common in NGSS-aligned curricula.

@@ -50,3 +50,4 @@ Same retrospective three-period audit of the Chandigarh CAP clinic. The article 
 - [Clinic registrations shifted geographically: Chandigarh registrations declined while Haryana registrations increased across the three periods](cap-clinic-geographic-shift-chandigarh-haryana.md) — related
 - [Symbolic play declines after age seven or eight and disappears or transforms by eleven or twelve](symbolic-play-declines-after-age-seven.md) — related
 - [Children's academic achievement at kindergarten entry has declined, per the article's abstract](declining-achievement-kindergarten-entry.md) — related
+- [Yolo County's child population declined between 2018 and 2023, with a 16% decline in children under 5 years](yolo-child-population-decline-2018-2023.md) — related

@@ -17,7 +17,7 @@ sources:
 # NIH Undergraduate Scholarship Program
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The NIH Undergraduate Scholarship Program is a federal scholarship program through which the NIH "spends millions of dollars each year to provide scholarships to an elite group of highly talented undergraduate science students from disadvantaged backgrounds" to encourage biomedical research careers. Mathematica evaluated its career outcomes, comparing awarded scholars with non-awarded finalists.

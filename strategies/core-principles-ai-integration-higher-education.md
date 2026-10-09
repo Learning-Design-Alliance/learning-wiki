@@ -47,6 +47,8 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 - [Establish an inclusive AI task force before revising responsible use policies](ai-task-force-before-policy-revision.md)
 - [AI system developers should ensure human-centric design, institutional leaders should stay updated on global AI regulations, and LA experts should engage policymakers through dialogue](human-centric-ai-and-policymaker-dialogue-practices.md)
 - [Prioritize transparency, ethical guidelines, and researcher-educator collaboration when conducting K–8 MMLA research](mmla-k8-transparency-ethics-strategy.md)
+- [Use the Recommendation's Policy Action Areas to translate AI ethics values into policy across education, data governance and other spheres](policy-action-areas-translate-ai-ethics-values.md)
+- [Use the framework as a global reference to guide national AI competency frameworks, teacher training, and assessment parameters](use-ai-competency-framework-as-global-reference.md)
 
 ## Related Principles
 - 

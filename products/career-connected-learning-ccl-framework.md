@@ -13,6 +13,7 @@ generated:
 # Career-connected learning (CCL) framework
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A Chicago Public Schools framework that coordinates college-preparatory and career-readiness activities across grades 6–12 through strengthened CTE and districtwide planning.

@@ -49,6 +49,7 @@ The guide's overarching framework holds that the value of educational technology
 ## Examples
 
 - [Emerging Technology Adoption Framework question-and-criteria instrument](../elements/emerging-tech-adoption-framework-instrument.md)
+- [Pair AI curricular goals with domain-specific pedagogical methodologies](../strategies/ai-curricular-goals-with-domain-specific-pedagogies.md)
 
 ## Key Sources
 - Dabbagh, N., Bass, R., Bishop, M., Costelloe, S., Cummings, K., Freeman, B., Frye, M., Picciano, A. G., Porowski, A., Sparrow, J., & Wilson, S. J. (2019). Using technology to support postsecondary student learning: A practice guide for college and university administrators, advisors, and faculty. Washington, DC: Institute of Education Sciences, What Works Clearinghouse. https://ies.ed.gov/ncee/wwc/PracticeGuide/25

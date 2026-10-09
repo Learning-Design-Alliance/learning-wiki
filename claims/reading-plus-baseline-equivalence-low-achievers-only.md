@@ -45,3 +45,4 @@ The report's footnote on the Reading Plus (2008) quasi-experiment states that "t
 ## Related Claims
 - [In the qualifying quasi-experimental study, at-risk Kindergarten students using Waterford Level One for 15-minute daily sessions were matched to comparison students and pretested in fall and posttested in spring](werp-hecht-close-study-design.md) — related
 - [The evidence base for Waterford Early Reading Program™ is thin: only one of 36 reviewed studies met WWC evidence standards, and extent of evidence was rated small for both domains](werp-evidence-base-single-study.md) — related
+- [A virtual comparison group matched on pretest, locale, FRL, and test dates achieved baseline equivalence with the treatment group (effect size = -0.03)](vcg-baseline-equivalence-assistments-vplc-study.md) — related

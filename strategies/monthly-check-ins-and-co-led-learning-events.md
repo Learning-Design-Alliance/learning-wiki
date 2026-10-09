@@ -38,6 +38,7 @@ The RPP supported teams through monthly meetings with a designated Digital Promi
 ## Related Strategies
 
 - [PBS station-led virtual orientation events to familiarize families with a new digital learning tool](pbs-station-virtual-orientation-events-strategy.md)
+- [Convene a monthly virtual Community of Practice for singleton state program directors, with topics identified by members and reciprocal learning among members and experts](monthly-virtual-cop-singleton-state-directors.md)
 
 ## Examples
 -

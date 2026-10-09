@@ -66,6 +66,7 @@ Difficult dialogues collapse when participants lack trust in the facilitator and
 - [Establishing Discussion Norms](establishing-discussion-norms.md) — the agreements component of ground preparation
 - [Facilitating Difficult Dialogues](facilitating-difficult-dialogues.md) — the in-conversation counterpart to this pre-conversation work
 - [Prepare teachers and students with awareness, vocabulary, and facilitation knowledge before implementing Socratic Circles](prepare-teachers-students-before-socratic-circles.md)
+- [Build trusting relationships among workgroup participants through structured facilitation](trust-building-facilitation-practices.md)
 
 ## Examples
 - **Arao & Clemens' "brave space" redesign** — a widely used exercise in which a class critiques a standard "safe space" ruleset (e.g., "agree to disagree") and rewrites each agreement to name what participation actually requires, building ownership of norms before charged content begins.

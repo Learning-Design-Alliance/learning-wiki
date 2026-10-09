@@ -53,3 +53,4 @@ Analysis of 2014-15 freshmen by graduation status (Figure 9) shows the three war
 - [Graduation rates rise with freshman credits earned, with a large gap above six credits](credits-earned-freshman-year-graduation-gradient.md) — related
 - [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related
 - [Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out](on-track-early-indicator-graduation.md) — related
+- [Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate](on-track-freshman-courses-predict-graduation.md) — related

@@ -89,3 +89,4 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
 - [Cross-age peer tutoring by either bilingual or English-only tutors shows no statistically significant effect on oral language proficiency (Serrano, 1987)](cross-level-peer-tutoring-null-oral-proficiency.md) — a narrower finding that bears on this claim
+- [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related

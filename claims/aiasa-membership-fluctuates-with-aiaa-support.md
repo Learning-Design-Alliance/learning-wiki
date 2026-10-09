@@ -44,3 +44,4 @@ Descriptive membership history reported in the AIASA president's conference addr
 
 ## Related Claims
 - [A majority of US high school students take some form of industrial arts, giving student clubs a potential membership of 5.5 million](industrial-arts-enrollment-potential-club-membership.md) — related
+- [The NAMI On Campus initiative in Stanislaus County grew from a couple of campuses to 20 high schools, 6 middle schools, and 1 university club with more than 500 mental health champions](nami-club-network-growth-stanislaus.md) — related

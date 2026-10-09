@@ -67,3 +67,4 @@ District staff participants reported that principals "experience a disconnect be
 - [Teachers reporting better professional development and curricular coherence have better instructional practices than other teachers in their school](pd-coherence-benefit-individual-teachers.md) — related
 - [Teachers are more likely than ever to hold formal performance goals as districts align improvement efforts](teachers-formal-performance-goals-increasing.md) — related
 - [The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.](obc-instructional-coherence-engagement-outcomes.md) — related
+- [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related

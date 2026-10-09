@@ -13,7 +13,7 @@ generated:
 # Student-Created Magazines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (6 quant-synthesis, 2 causal, 1 review, 1 theoretical), `q1`–`q4` · 6 of 10 report an effect size
+> **Evidence** · 5 claims (5 for) · 13 studies (7 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 8 of 13 report an effect size
 
 ## Description
 In a student-created magazine project, learners select topics of personal interest, locate and closely read primary sources (e.g., a *Scientific American* article on gerrymandering or fractals in Jackson Pollock's paintings), and write accessible articles summarizing and explaining the content for an audience of peers. The individual articles are compiled into a shared publication, giving the work an authentic audience and product. In Alessandra King's algebra classroom, students produced a magazine with dozens of articles on real-world applications of mathematics, from gerrymandering to invisibility cloaks.

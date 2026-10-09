@@ -44,3 +44,4 @@ Qualitative key-finding analysis of workshop storyboards and transcripts. One pa
 - [Roughly half of co-design participants completed LER technology onboarding within an allotted 15–20 minute window](half-participants-complete-ler-onboarding-15-20-minutes.md) — related
 - [HSE participants found the LER value proposition unclear, questioning how it differed from Indeed and LinkedIn and feeling excluded by linear-journey prompts](unclear-ler-value-proposition-hse-participants.md) — related
 - [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](transcript-grades-blurred-currency.md) — related
+- [HSE learners and workers perceived accuracy, security, usability, employer use, and access as the top challenges of LERs](top-perceived-ler-challenges.md) — a broader claim this one bears on

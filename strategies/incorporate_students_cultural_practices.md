@@ -68,6 +68,7 @@ Culturally responsive teaching improves engagement and achievement when cultural
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — elicitation routines for home and community knowledge
 - [Incorporate culturally responsive strategies into adult immigrant instruction](culturally-responsive-strategies-adult-immigrant-instruction.md)
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
+- [Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming](year-round-black-history-culture-integration.md)
 
 ## Examples
 - **Funds of Knowledge project (Moll et al., Tucson, AZ)** — Teachers visited students' households, documented community knowledge (farming, mechanics, carpentry), and built math and literacy lessons around those practices.

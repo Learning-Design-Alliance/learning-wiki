@@ -13,6 +13,7 @@ generated:
 # Six-domain AI skills and competencies framework for PK-12 learners
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Digital Promise framework that organizes PK-12 learner AI competencies across technical, practical, ethical, analytical, interpersonal, and adaptive domains.

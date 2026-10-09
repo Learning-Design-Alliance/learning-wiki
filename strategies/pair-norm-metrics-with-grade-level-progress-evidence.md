@@ -39,6 +39,7 @@ The paper recommends that leaders using MAP Growth in screening, evaluation, or 
 ## Related Strategies
 
 - [Use multiple evidence sources alongside benchmark scores when identifying students for intensive intervention](combine-screening-benchmarks-with-other-risk-factors.md)
+- [Schools and districts should choose screener benchmarks that match their goals and resources for defining and serving at-risk students](match-screener-benchmark-choice-to-goals-resources.md)
 
 ## Examples
 -

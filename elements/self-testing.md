@@ -18,7 +18,7 @@ sources:
 # Self-Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (9 for) · 12 studies (5 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 9 of 12 report an effect size · 4 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 12 studies (5 causal, 4 quant-synthesis, 3 review), `q2`–`q4` · 9 of 12 report an effect size · 4 claims rest on one study
 
 ## Description
 Self-testing is the element in which learners quiz themselves or otherwise attempt to retrieve knowledge without immediate external prompting. It is useful when the goal is to strengthen retention and help learners gauge what they actually know.

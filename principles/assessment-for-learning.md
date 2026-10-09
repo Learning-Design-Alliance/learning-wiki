@@ -91,9 +91,11 @@ Revise it if comparable learners using criteria-based self-assessment with a rev
 - [High-Stakes Testing and Accountability Effects](high-stakes-testing-accountability-effects.md) — the accountability pressure that can distort assessment for learning's low-stakes design
 
 ## Examples
+
 - Using exit tickets to decide whether the next lesson should reteach, extend, or regroup.
 - Giving draft feedback before a final submission so learners revise against criteria.
 - Asking learners to self-rate confidence before checking answers and then discussing mismatches.
+- [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education, 5*(1), 7-74. [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

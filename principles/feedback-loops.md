@@ -154,10 +154,12 @@ Following the information on the corrected item, unaided performance on a new it
 - [Prefer feedback loops over one-directional feedback systems](prefer-feedback-loops-over-feedback-systems.md) — the same words used for loops between organisations in product development
 
 ## Examples
+
 - Learners solve a problem, see an explanation for the mistake, and retry immediately.
 - An instructor uses an exit ticket to adjust the next day's grouping or re-teaching.
 - A writing conference identifies one revision target that the learner applies in the next draft.
 - The [feedback element](../elements/feedback.md) and the [formative assessment pattern](../patterns/formative-assessment.md) and [mastery learning pattern](../patterns/mastery-learning.md) carry loops as reusable components and policies.
+- [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](../strategies/self-assessment-supports-self-regulated-agents.md)
 
 ## Key Sources
 - Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81-112. [https://doi.org/10.3102/003465430298487](https://doi.org/10.3102/003465430298487)

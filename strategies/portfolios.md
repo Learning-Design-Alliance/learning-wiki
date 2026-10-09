@@ -64,6 +64,7 @@ Portfolios shift assessment authority toward learners, requiring them to evaluat
 - [Exhibition of Learning](exhibition-of-learning.md) — a culminating authentic audience for the finished portfolio
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 - [Prepare for rising demand for assessment tools and embedded assessment models in maker learning](prepare-for-rising-maker-assessment-demand.md)
+- [Demonstrate teaching competencies through performance-based artifacts](performance-based-artifact-demonstration-strategy.md)
 
 ## Examples
 - **New Tech Network schools** — students defend digital portfolios of project work before panels of teachers and community members at graduation (https://newtechnetwork.org).

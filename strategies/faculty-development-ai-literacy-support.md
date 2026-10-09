@@ -41,6 +41,7 @@ The chapter treats faculty development as crucial to implementing the framework.
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Supports to Raise Teachers' Expectancy and Value and Lower Cost for AI Use](supports-to-raise-teacher-expectancy-and-value-for-ai-use.md)
+- [Invest in ongoing educator professional development and an assessment community of practice for POG success](pog-ongoing-pd-community-of-practice.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ The report attributes these figures to a 2020 National Skills Coalition study, a
 - [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related
 - [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — a broader claim this one bears on
 - [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
+- [Roughly 30% of core workplace skills changed in ten years and over 60% of job titles mentioning AI are non-tech roles](workplace-skills-change-and-ai-job-titles.md) — related

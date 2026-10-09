@@ -13,7 +13,7 @@ generated:
 # Exit Ticket
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (4 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 7 claims (6 for, 1 mixed) · 15 studies (7 quant-synthesis, 4 causal, 3 review, 1 theoretical), `q2`–`q4` · 6 of 15 report an effect size
 
 ## Description
 An exit ticket is a brief assessment activity — typically 1–3 questions or a single prompt — completed by every learner in the final minutes of a lesson and submitted before leaving. It serves two functions simultaneously: it requires learners to retrieve and consolidate the day's content, and it generates rapid evidence the instructor can use to adjust the next lesson.
@@ -111,6 +111,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 6. For learners whose tickets reveal persistent confusion, follow up individually ([Check-In](../elements/check-in.md))
 
 ## Related Strategies
+
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a deeper, individualized follow-up channel for what tickets surface
 - [Bell Ringer / Warm-Up](bell-ringer.md) — the bookend retrieval activity at the start of class
 - [3–2–1 Reflection](3-2-1_reflection.md) — a common exit-ticket format combining retrieval with metacognitive reflection
@@ -120,6 +121,7 @@ Exit tickets enact [Assessment for Learning](../principles/assessment-for-learni
 - Muddiest Point — the fastest single-question variant, drawn from classroom research by Mosteller (1989)
 - 3-2-1 Reflection — a structured variant that adds connection-making and question generation
 - Do-Now / Bell Ringer — the bookend routine at the start of class; together they bracket each lesson with retrieval
+- [Review evidence of learning at three points: before, during, and after the lesson](three-evidence-review-points-strategy.md)
 
 ## Examples
 - **3-2-1 ticket in a biology class**: after a photosynthesis lesson, students write three inputs, two outputs, one question; the instructor sorts tickets and opens the next class by resolving the five most common questions

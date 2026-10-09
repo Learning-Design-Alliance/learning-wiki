@@ -17,6 +17,7 @@ sources:
 # School diagnostic data reports showing grade and attendance patterns for improvement planning
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 School diagnostic data reports are a third data element in the Chicago system. The article says they "show patterns of grades and attendance by student backgrounds, and changes over time, for school improvement planning", allowing schools to examine subgroup patterns and trends rather than only individual student status.

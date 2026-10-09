@@ -30,7 +30,7 @@ sources:
 # Family Engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (4 quant-synthesis, 1 causal, 1 review), `q3` · 4 of 6 report an effect size
+> **Evidence** · 4 claims (4 for) · 8 studies (4 quant-synthesis, 3 causal, 1 review), `q3` · 4 of 8 report an effect size
 
 ## Description
 Family engagement is a sustained, collaborative practice in which families and school personnel partner to support children's learning and development. It spans behaviors at school (parent–teacher communication, shared expectations, participation in decision-making) and at home (supervision, high expectations, conversations about learning). Effective engagement is planned and reciprocal — schools actively build communication channels and model expectations rather than waiting for families to initiate contact.
@@ -107,6 +107,8 @@ Family engagement functions as an out-of-school support system that amplifies in
 - Community-based learning — extends the partnership model beyond the family into neighborhood organizations
 - Home literacy routines — the most-studied specific family engagement practice
 - [Use implementation-study findings to inform design, implementation, and scale-up of early math family engagement interventions](use-implementation-study-findings-to-scale-early-math-programs.md)
+- [Use strengths-based, nonpunitive framing in recruitment and family engagement for attendance programs](strengths-based-nonpunitive-family-engagement.md)
+- [Support teacher relationships with students, families, and communities through community events, home visits, and family voice](teacher-family-community-relationship-support-strategies.md)
 
 ## Examples
 - **[Parent Teacher Home Visits](https://www.ptplus.org)** — National program in which educators visit families at home to build relational trust before academic partnership; associated with improved attendance and behavior in district evaluations.

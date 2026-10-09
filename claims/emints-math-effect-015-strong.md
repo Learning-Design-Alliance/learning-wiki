@@ -46,3 +46,4 @@ Program evaluation comparing eMINTS schools with traditional control schools acr
 - [eMINTS shows no differences in reading outcomes compared with traditional control schools](emints-no-reading-differences.md) — related
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](brandt-2013-significant-math-effect.md) — possibly the same claim (merge candidate)
 - [Martin et al. (2009) finds indeterminate effects of eMINTS on both mathematics and literacy achievement in grades 4–5](martin-2009-indeterminate-effects.md) — related
+- [Rural students overall did not show a significant effect, but low-performing rural students did](vplc-assistments-rural-subgroup-effects.md) — related

@@ -42,6 +42,7 @@ A strategy in which rural SIG schools used SIG funds to hire or expand parent li
 - [Teacher Parent Communication](teacher-parent-communication.md)
 - [Connect with Parents Early in the School Year](connect_with_parents_early_in_the_school_year.md)
 - [Combine traditional and nontraditional approaches to family engagement for ELL families](traditional-and-nontraditional-engagement-ell.md)
+- [Connect participating families to community resources and act as family-school liaisons](family-resource-liaison-strategy.md)
 
 ## Examples
 -

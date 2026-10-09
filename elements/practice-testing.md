@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 7 studies (3 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 4 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 7 studies (3 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 4 of 7 report an effect size · 2 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.

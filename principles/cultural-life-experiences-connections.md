@@ -35,7 +35,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (12 for, 9 mixed) · 32 studies (9 causal, 9 qualitative, 4 quant-synthesis, 4 review, 3 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 32 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (13 for, 9 mixed) · 33 studies (9 causal, 9 qualitative, 5 review, 4 quant-synthesis, 3 design, 2 theoretical, 1 associational), `q1`–`q4` · 5 of 33 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Claims cited before this page was rewritten, or found while rewriting it, that a
 - [Sharing Experiences Modifies Attitudes](../claims/sharing-experiences-modifies-attitudes.md) [+W]
 - [The authors' research indicates strong student interest in local Indigenous culture, which supports locally-based teaching of cultural knowledge](../claims/local-indigenous-culture-student-interest.md) [+W] — attached 2026-10-07 from McGloin et al. (2009), which proposed "Embed local Indigenous knowledge and community expertise in curricula, taught by Indigenous people themselves".
 - [Third-grade ELLs recruit familiar everyday language, including onomatopoeic labels, to talk productively about the sounds produced by strings](../claims/ells-recruit-everyday-language-sound-discussion.md) [+W] — attached 2026-10-07 from Suarez et al. (2008), which proposed "Invite students' everyday registers into science activities to encourage productive sense-making and mechanistic reasoning".
+- [Research suggests that using culturally responsive and sustaining education practices in mathematics can enhance learning and academic success](../claims/crse-math-enhances-learning-and-success.md) [+W] — attached 2026-10-09 from Jahneille Cunningham et al. (2024), which proposed "Treat learning as multidirectional: school leaders and teachers should provide ample space to learn from and with families and communities".
 
 ## Objective and learner-valued goal
 

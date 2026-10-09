@@ -17,7 +17,7 @@ sources:
 # MAP Growth: computer-adaptive, vertically scaled interim assessment on the RIT scale
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (1 design, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size
 
 ## Description
 MAP Growth is a "vertically scaled interim assessment" measuring achievement and growth in grades K-12 reading and mathematics and grades 2-12 language usage and science. Scores are reported on the Rasch Unit (RIT) scale, "a vertical scale with equal-interval units" ranging from about 100 to 350, administered up to four times per year. Tests are grade banded, adaptive, and drawn from deep item pools with longitudinal exposure constraints; every test must pass a computer adaptive test simulation of eight consecutive administrations.

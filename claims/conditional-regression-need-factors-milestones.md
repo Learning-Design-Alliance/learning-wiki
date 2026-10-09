@@ -48,3 +48,4 @@ Conditional regression analysis (300 college-year observations, enrollment-weigh
 - [Cost function analysis indicates substantially higher spending is needed for equal opportunity: weights of 2.49 for first-generation and 2.63 for students older than 24](cost-function-weights-need-factors.md) — related
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — related
 - [Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities](regressive-spending-academically-disadvantaged.md) — related
+- [Economic and social needs outside of school are statistically significantly associated with the context of schools' English Learner programs](sdoh-needs-associated-with-el-program-context.md) — related

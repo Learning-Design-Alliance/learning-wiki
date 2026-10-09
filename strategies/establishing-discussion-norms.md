@@ -58,9 +58,11 @@ Discussion quality depends on psychological safety and clear participation struc
 5. Debrief against the norms periodically ("Which norm did we honor well today?"), and renegotiate as the group changes.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the individual skill that most discussion norms operationalize
 - [Establishing Group Roles](establish-group-roles.md) — role assignment as a structural enforcement of norms
 - [Classroom Community Building](classroom-community-building.md) — the broader relational work norms contribute to
+- [Make success criteria visible to students through explicit explanations, think-alouds, and co-construction](explicit-explanations-think-alouds-co-create-success-criteria.md)
 
 ## Examples
 - **Accountable Talk** (Institute for Learning, University of Pittsburgh) — a researched framework of talk norms organized around accountability to the learning community, knowledge, and reasoning standards (https://ifl.pitt.edu)

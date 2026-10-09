@@ -30,7 +30,7 @@ sources:
 # Learning Logs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 8 studies (6 quant-synthesis, 2 causal), `q3`–`q4` · 7 of 8 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 15 studies (9 quant-synthesis, 3 causal, 1 review, 1 associational, 1 theoretical), `q2`–`q4` · 9 of 15 report an effect size
 
 ## Description
 Learning logs are brief, structured writing activities completed at the beginning or end of a class in which learners respond to a specific prompt — a definition, an example, a personal connection, or a summary of a key concept — for a few minutes. The log is a running record of the learner's evolving understanding, not a graded essay; its purpose is to force active construction of meaning from facts rather than passive review.

@@ -47,3 +47,4 @@ Across the 15 within-study comparisons, the authors report "some evidence favori
 - [Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff](rd-average-bias-below-0-01-sd-high-internal-validity.md) — related
 - [Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity](rd-shrunken-bias-below-0-07-sd-external-validity.md) — related
 - [Statistical theory predicts that regression discontinuity provides valid causal inference at the cutoff score determining treatment assignment](rd-theory-valid-causal-inference-at-cutoff.md) — related
+- [Statewide, One-Star designation has a modest significant positive effect on ELA but not on math scores](one-star-designation-statewide-ela-effect.md) — a narrower finding that bears on this claim

@@ -47,3 +47,4 @@ Analysis of coach logs filled out for the 22 teachers who began the intervention
 - [Most pilot teachers found the Write to Succeed materials helpful, and teachers and coaches benefited from seeing practices modeled](wts-materials-and-modeling-rated-helpful.md) — related
 - [Most pilot teachers used the Write to Succeed practices and found them easy to use and helpful for students, with ease of use increasing across semesters](wts-practices-used-and-rated-helpful.md) — related
 - [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](monthly-coaching-helped-teachers-integrate-mi-write.md) — related
+- [Per-participant implementation costs fall substantially in leaner implementation models without a warm-up year or local coach](assistments-sensitivity-lower-cost-scenarios.md) — related

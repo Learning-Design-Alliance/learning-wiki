@@ -59,3 +59,5 @@ A nationally representative teacher survey conducted by Digital Promise, reporte
 - [Teachers find skill-development features of micro-credentials most appealing and badge sharing and display least appealing](skill-features-appeal-more-than-badges.md) — related
 - [Teachers report willingness to invest meaningful time in earning micro-credentials, averaging 4.2 hours for evidence collection, with some willingness to fund assessment](teacher-time-investment-micro-credentials.md) — related
 - [Changes in the credentialing market have produced demand for shorter credentials focused around job market competencies](credentialing-market-demand-shorter-competency-credentials.md) — related
+- [Successful educator-context micro-credential use combines rigorous competency evidence, educator autonomy, incentives, and formal recognition](educator-micro-credential-success-practices.md) — related
+- [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — related

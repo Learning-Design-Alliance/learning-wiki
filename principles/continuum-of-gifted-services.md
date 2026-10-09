@@ -49,6 +49,7 @@ The brief recommends that schools provide a continuum of services—from general
 - [Deploy prevention and intervention supports for underachieving gifted students](../strategies/gifted-underachievement-interventions.md)
 - [Extension Projects for Advanced Students](../strategies/extension_projects_for_advanced_students.md)
 - [Standard-Based Regrouping](../strategies/standard-based_regrouping.md)
+- [High expectations with advanced learning opportunities and productive struggle to empower Black students' genius](../strategies/advanced-learning-high-expectations-productive-struggle.md)
 
 ## Key Sources
 - Gifted and talented students at risk for underachievement. (2008). Center for Comprehensive School Reform and Improvement Issue Brief. https://www.centerforcsri.org

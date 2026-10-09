@@ -41,6 +41,7 @@ A three-phase iterative process co-designed with a nationwide cohort of district
 - [Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions](participatory-iterative-co-design-ct.md)
 - [Inclusive Innovation Process](inclusive_innovation_process.md)
 - [Co-develop the toolkit with districts and refine it iteratively across cohorts](iterative-co-development-toolkit-strategy.md)
+- [Pilot guidance documents with a small set of schools and iterate before wide dissemination](pilot-then-refine-guidance-dissemination.md)
 
 ## Examples
 -

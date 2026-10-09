@@ -46,6 +46,8 @@ The report synthesizes the state documents' advice into a common roadmap for loc
 - [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
 - [Build state AI evaluation on the ESSA evidence framework and integrate results into the existing education evidence base](essa-based-ai-evidence-integration.md)
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
+- [Provide synthesized and customized evidence tailored to the state context](customized-evidence-synthesis-for-decision-making.md)
+- [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
 
 ## Examples
 -

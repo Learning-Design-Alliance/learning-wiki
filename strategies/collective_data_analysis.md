@@ -66,6 +66,7 @@ Collective analysis converts interpretation from a private expert task into a [c
 - [Action Research](action-research.md) — collective data analysis is the interpretive engine of the action research cycle
 - [Case Studies](../elements/case-studies.md) — like cases, shared data give groups a common object for collaborative interpretation
 - [Codebook development, theme generation, and community validation of findings](codebook-themes-community-validation.md)
+- [Use data collaboratively through a structured data analysis process among educators](collaborative-structured-data-analysis.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the vehicle for surfacing and negotiating competing interpretations

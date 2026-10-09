@@ -50,6 +50,7 @@ The Challenge-based Coaching Model is a coaching cycle in which each coach works
 ## Examples
 
 - [Badge-based competency coaching in which teachers design customized mastery paths and earn badges for demonstrated evidence of practice](../strategies/e2l-badge-based-competency-coaching.md)
+- [Adapt an existing micro-credential for a new context through translation, local assessor training, professional development, and coaching](../strategies/micro-credential-local-adaptation-steps.md)
 
 ## Key Sources
 - Carol Lopez and Odelia Younge. (2021). Cultivating a Culture of Coaching to Support Powerful Use of Technology: Results from the Challenge-based Coaching Model Pilot in Puerto Rico. Digital Promise report. https://digitalpromise.dspacedirect.org/items/71c26d6b-e789-4ca3-b643-dcc98422a36d

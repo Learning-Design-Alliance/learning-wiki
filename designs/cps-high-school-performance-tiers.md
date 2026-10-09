@@ -17,6 +17,7 @@ sources:
 # Four-tier classification of Chicago high schools by graduation rate and average ACT score
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The research groups Chicago high schools into four performance tiers using graduation rate and average ACT composite score: selective enrollment, top-tier non-selective, mid-tier non-selective, and low-tier non-selective. Figure 1 prints, for the CPS Class of 2015, a "90.0" four-year graduation rate and "24.5" average ACT for the 10 selective schools, versus "50.6" and "14.8" for the 28 low-tier schools. This tiering is the basis for all outcome comparisons in the summary.

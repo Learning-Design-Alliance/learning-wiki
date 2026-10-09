@@ -66,3 +66,4 @@ The review reports Ramírez and Politzer's (1976) finding on home language use a
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — possibly the same claim (merge candidate)
 - [Semilingualism — less than native-like skill in both languages — is associated with detrimental cognitive and academic consequences](semilingualism-associated-with-negative-cognitive-effects.md) — reports the opposite
 - [Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice](english-priority-over-spanish-in-practice.md) — related
+- [Spanish use at home does not limit English learning: young Spanish–English bilinguals with more Spanish at school entry show higher English skills by year's end](spanish-home-use-does-not-limit-english-learning.md) — a narrower finding that bears on this claim

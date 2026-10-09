@@ -59,9 +59,11 @@ Home surveys operationalize family engagement as a two-way data flow rather than
 6. **Audit reach each term.** Compare respondents against the class roster; use calls or in-person touchpoints for non-responding families rather than assuming silence means satisfaction.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — the in-class counterpart; surveys extend the same monitoring function into the home context
 - [Activating background knowledge](activating-prior-knowledge.md) — family knowledge inventories supply the cultural and experiential material that activation depends on
 - [Action-oriented feedback](action-oriented-feedback.md) — the same principle applies to family input: data is only useful when it drives a visible change
+- [Use a family engagement survey within a data inquiry cycle to gather family feedback and drive changes to policies and practices](family-engagement-survey-data-inquiry-cycle.md)
 
 ## Examples
 - **TalkingPoints** (https://www.talkingpts.org) — two-way translated messaging used by schools to run recurring family pulse surveys in families' home languages without requiring smartphones or English proficiency.

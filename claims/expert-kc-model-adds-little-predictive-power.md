@@ -68,3 +68,4 @@ Same ablation: only the KDD Cup 2010 datasets show a +0.03 AUC KC benefit. Out o
 - [On a real dataset with problem content, the skill discovery model matches BKT with expert-provided skills despite using fewer KCs](skill-discovery-matches-expert-skills-fewer-kcs.md) — related
 - [Human expert review is the most credible but slowest and most resource-intensive evaluation method](human-expert-review-most-credible-slowest.md) — related
 - [Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing](description-based-representation-beats-id-based-llm-kt.md) — related
+- [Research suggests student work is the most powerful artifact of mastery for Deeper Learning](student-work-most-powerful-artifact-of-mastery.md) — related

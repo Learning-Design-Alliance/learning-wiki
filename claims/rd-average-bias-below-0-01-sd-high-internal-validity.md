@@ -50,3 +50,5 @@ Meta-analysis of 15 within-study comparisons in which RD and RCT estimates are m
 - [The meta-analysis finds some evidence favoring non-parametric RD methods over parametric ones](rd-non-parametric-methods-favored.md) — related
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](rd-well-implemented-matches-experimental-estimates.md) — a broader claim this one bears on
 - [The viability of using RD designs for new impact evaluations of educational interventions depends on the point of treatment assignment, the availability of pretests, and key research questions](rd-design-viability-depends-on-assignment-point-pretests-questions.md) — related
+- [In Clark County, One-Star designation significantly raises math and ELA scores for all students](one-star-designation-clark-county-all-students.md) — a narrower finding that bears on this claim
+- [Statewide, One-Star designation has a modest significant positive effect on ELA but not on math scores](one-star-designation-statewide-ela-effect.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Qualitative implementation analysis drawing on interviews with central office ad
 - [The PSI did not improve teachers' perceptions of principals' performance](psi-no-improvement-teacher-perceptions-of-principals.md) — related
 - [Principal supervisor roles in PSI districts differed from other urban districts in key ways while supervisors' work with principals showed important similarities](psi-supervisor-role-differences-and-similarities.md) — related
 - [District leaders can use a data-driven approach to understand and address opportunity gaps in advanced course-taking](data-driven-approach-address-course-taking-opportunity-gaps-gbsd.md) — related
+- [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — related

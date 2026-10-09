@@ -13,7 +13,7 @@ generated:
 # Spaced Retrieval Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 9 studies (5 causal, 4 quant-synthesis), `q3`–`q4` · 4 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (2 for, 2 against) · 10 studies (5 causal, 5 quant-synthesis), `q3`–`q4` · 5 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Spaced retrieval practice combines two of the most robust findings in learning science: *retrieval practice* — actively recalling information from memory rather than rereading it — and *spacing* — distributing those recall attempts across time rather than massing them together. In practice, learners answer questions, solve problems, or summarize material from memory at intervals that grow progressively longer (e.g., one day, then three days, then a week), with feedback provided after each attempt.

@@ -56,9 +56,11 @@ Requiring a written response from every student converts a passive listening mom
 5. Respond to the collected sentences: reteach, contrast strong and weak reasoning ([Non-Examples](../elements/non-examples.md)), and [Assess Performance](../elements/assess-performance.md) for the whole class.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — the oral sibling; writing first improves the quality of pair talk
 - [Wait Time](wait-time.md) — the writing interval doubles as structured wait time before discussion
 - [Exit Tickets](exit-ticket.md) — the same written-response mechanism used for end-of-class assessment
+- [Offer generative formulaic expressions instead of rigid sentence starters](generative-formulaic-expressions-not-sentence-starters.md)
 
 ## Examples
 - **Middle-school math:** after solving ¾ + ⅚, every student completes "The common denominator is needed because…" before the teacher displays three anonymous sentences for comparison.

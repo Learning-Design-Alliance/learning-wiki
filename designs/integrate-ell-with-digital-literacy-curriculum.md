@@ -17,6 +17,7 @@ sources:
 # Integrate English language learning with digital literacy instruction in one curriculum for immigrant adult learners
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 Briya combines English learning and digital skills in a single curriculum: "All of their devices, software, and online programs use English, so their learners are integrating their English language learning (ELL) with their digital literacy work." Teachers also use traditional ELL strategies in digital literacy classes, such as having students read aloud website names, URLs, and email addresses to practice pronunciation. The case study's key takeaways state these "can be effectively combined in one curriculum, increasing practice with English while also learning digital skills."

@@ -13,7 +13,7 @@ generated:
 # Cold Call
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 causal, 2 quant-synthesis), `q3`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Cold calling is the practice of directing a question to a specific, named student rather than soliciting volunteers. It is carried out by posing a question, allowing wait time, then selecting a respondent — ideally with norms established in advance so the call is experienced as expected rather than punitive. Variants range from fully random selection to warm calling (signaling the question before naming the student) or follow-up calls that build on a prior answer.

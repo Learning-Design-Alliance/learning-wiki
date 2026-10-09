@@ -47,3 +47,4 @@ Case-report statement of a district-acknowledged outcome: participation and achi
 - [Teacher and administrator perceptions of what impacts minoritized students' computing participation were not always aligned with what students themselves identified](teacher-perceptions-misaligned-student-identified-computing-barriers.md) — related
 - [IPSD set an equity goal of increasing computing opportunities in five Title I elementary schools to reach all students district-wide](ipsd-title-i-computing-equity-goal.md) — related
 - [IPSD piloted its CT competency map in 2019-2020 in schools including a subset of its Title I equity-goal schools, paired with professional development](ipsd-competency-map-pilot-title-i-pd.md) — related
+- [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on

@@ -57,9 +57,11 @@ Bias awareness supports equitable learning environments, but the evidence base d
 5. Institutionalize the loop: repeat observation and feedback each term, and involve peers in norming sessions so standards are shared rather than idiosyncratic.
 
 ## Related Strategies
+
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — the curricular and linguistic surface expression of the same underlying bias work
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — inclusive practice that values diverse entry points, reducing stereotype threat conditions
 - [Clear Structure](../principles/clear-structure.md) — transparent criteria are the primary structural countermeasure to evaluative bias
+- [Interrogate bias in data analysis by unpacking biases with colleagues and building skills to name bias in action](interrogate-bias-in-data-analysis.md)
 
 ## Examples
 - **Structured grading in large courses**: Instructors using analytic rubrics and anonymized submissions (common in writing-intensive MOOCs and university writing programs) to decouple evaluation from identity cues.

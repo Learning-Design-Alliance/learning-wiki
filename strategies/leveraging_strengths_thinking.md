@@ -57,9 +57,11 @@ Strengths-based framing changes what staff notice and ask: instead of cataloguin
 5. Follow up with coaching cycles and family feedback so the practice is reinforced rather than abandoned after initial training.
 
 ## Related Strategies
+
 - Activating prior knowledge — the classroom-facing counterpart: strengths thinking extends activation of learner knowledge to family and community knowledge
 - Community-based learning — operationalizes the same asset orientation at the neighborhood level
 - Building empathy — complementary affective work that supports the cognitive reframe
+- [Use asset mapping to identify and celebrate existing strengths in the school and community](asset-mapping-celebrate-strengths.md)
 
 ## Examples
 - **Funds of Knowledge for Teaching Project** (University of Arizona, Moll and colleagues) — teachers conduct household ethnographies and design mathematics and literacy instruction around household practices such as construction, farming, and finance.

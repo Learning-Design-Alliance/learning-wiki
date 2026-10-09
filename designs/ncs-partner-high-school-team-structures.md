@@ -17,6 +17,7 @@ sources:
 # A predictable set of educator teams — freshman success, instructional leadership, postsecondary leadership, senior leadership, and care — drives improvement in NCS partner high schools
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The paper describes the teaming structures used to drive improvement in NCS partner high schools, where visiting educators would likely find a predictable set of teams. Table A lays out five common teams with their members, responsibilities, and data: a Freshman Success Team monitoring the transition into high school using GPA, grades, attendance, behavior, and eighth-grade early warning data; an Instructional Leadership Team working on instructional coherence; a Postsecondary Leadership Team supporting college search, application, and enrollment; a Senior Leadership Team setting vision and monitoring high-level data; and a Care Team of specialists intervening with socially vulnerable students. A common collaboration rhythm is a bi-weekly meeting of roughly 45-60 minutes in which teams analyze data, set intervention strategies, and progress monitor. The paper argues distributed leadership and teaming structures are crucial for driving teacher collaboration at scale in large, complex high schools.

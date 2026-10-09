@@ -57,8 +57,10 @@ Awareness of one's own biases is a necessary but insufficient first step; meta-a
 5. Install countermeasures: adopt panel interviews, decision rubrics, or blended teams; use [Coaching](../elements/coaching.md) to sustain habit-breaking routines over weeks, not hours.
 
 ## Related Strategies
+
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — the communication-level complement: auditing materials for biased framing and representation
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking activities that reduce automatic outgroup associations
+- [Interrogate bias in data analysis by unpacking biases with colleagues and building skills to name bias in action](interrogate-bias-in-data-analysis.md)
 
 ## Examples
 - **[Project Implicit](https://implicit.harvard.edu)** — Harvard-hosted IAT demonstrations used widely as a discussion prompt in educator professional development.

@@ -43,6 +43,7 @@ Among its three concluding recommendations, the review advises policymakers to "
 
 - Greater Use Of Professional Accountability In Education
 - [Specifically increase the use of professional accountability in schools](increase-professional-accountability-in-schools.md)
+- [Policymakers designing ESA programs should use accountability and transparency provisions to require high-quality data that enables evaluation and policy refinement](esa-accountability-provisions-enable-data-evaluation.md)
 
 ## Examples
 -

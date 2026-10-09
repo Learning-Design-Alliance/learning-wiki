@@ -13,7 +13,7 @@ generated:
 # Flashcard Drill
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 10 studies (5 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 5 of 10 report an effect size
+> **Evidence** · 5 claims (4 for, 1 against) · 11 studies (6 quant-synthesis, 3 causal, 2 review), `q2`–`q4` · 6 of 11 report an effect size
 
 ## Description
 Flashcard drill presents learners with a cue (question, term, or image) and requires active retrieval of the associated response before the answer is revealed. Cards are cycled through repeated rounds, ideally with intervals between repetitions, so that each item is retrieved multiple times across sessions rather than passively reread.

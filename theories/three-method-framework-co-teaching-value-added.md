@@ -20,7 +20,7 @@ sources:
 # Three-method framework for accounting for co-teaching in value-added models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article organizes the problem of modeling value added "when the same student is taught the same subject by multiple teachers" into three named methods: the Partial Credit Method, the Teacher Team Method, and the Full Roster Method. The Partial Credit Method apportions responsibility by fraction of year with each teacher; the other two "presume that co-teachers share joint responsibility for the achievement of their shared students." The framework was developed to help states and districts overcome a potential limitation in the use of value added in multiple-measures teacher evaluation systems.

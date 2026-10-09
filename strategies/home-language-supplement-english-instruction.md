@@ -40,6 +40,7 @@ This strategy recommends supplementing English-medium instruction with students'
 
 - [Teach in students' home language in primary, assess learning levels and differentiate instruction, and align teacher training with language-of-instruction policy](sl-home-language-assessment-differentiation.md)
 - [Prepare college instructors to support English Learners' language and academic development in dual enrollment courses](pd-for-college-instructors-teaching-els.md)
+- [Screen multilingual students in multiple languages where possible, choosing screener languages informed by students' instructional contexts and home language use](multilingual-screening-informed-by-instructional-context.md)
 
 ## Examples
 -

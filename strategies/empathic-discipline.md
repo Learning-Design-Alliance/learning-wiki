@@ -13,7 +13,7 @@ generated:
 # Empathic Discipline
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q3`–`q4` · 0 of 2 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (6 causal, 1 quant-synthesis), `q3`–`q4` · 0 of 7 report an effect size
 
 ## Description
 Empathic discipline is a teacher-facing intervention that reframes student misbehavior as a developmental, context-driven response rather than a character flaw, and positions discipline as an opportunity to maintain the teacher–student relationship. In its canonical form it is a brief (~45-minute) online module combining non-judgmental framing of misbehavior, stories from students describing how punitive discipline damaged their sense of belonging, and short writing exercises in which teachers articulate their own empathic approach to discipline [A brief intervention reframing discipline empathically reduces suspensions.](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+S].
@@ -83,6 +83,7 @@ The intervention targets teachers' implicit theories of misbehavior: when teache
 - Restorative practices — the school-level system in which empathic discipline is most often embedded
 - Wise feedback interventions — the academic-side counterpart that pairs criticism with expressed high expectations
 - [Behaviorism](../theories/behaviorism.md) — the contrast case; empathic discipline deliberately shifts from consequence-based contingency management to relationship-based motivation
+- [Use trauma-informed behavioral supports before escalating to suspension, supported by willful-defiance suspension bans](trauma-informed-discipline-foster-care.md)
 
 ## Examples
 - **Okonofua, Paunesku, & Walton (2016) field trial** — A 45-minute online module for 39 middle-school math teachers cut suspensions roughly in half (from ~9.6% to ~4.8% of students) across five middle schools, with the largest gains for Black and Latino students ([PDF](https://www.pnas.org/doi/10.1073/pnas.1523698113)).

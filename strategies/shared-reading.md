@@ -13,7 +13,7 @@ generated:
 # Shared Reading
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (2 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q3` · 2 of 6 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies (3 quant-synthesis, 3 review, 2 causal, 1 theoretical), `q1`–`q4` · 4 of 9 report an effect size
 
 ## Description
 Shared reading is an interactive reading experience in which an adult reads aloud from an enlarged or shared text while learners follow along, connecting spoken words to print. The adult models fluent reading and expressive intonation, pauses for prediction, uses picture walks, and asks comprehension questions; with older or more capable readers, the adult and learners take turns reading aloud. It functions as a bridge between being read to and independent reading.

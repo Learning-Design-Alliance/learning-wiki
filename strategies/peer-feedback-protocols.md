@@ -78,11 +78,13 @@ Peer feedback works when it functions as formative assessment in the hands of le
 6. Debrief the feedback itself: which comments were most useful and why, building reviewers' skill for the next cycle
 
 ## Related Strategies
+
 - [Formative assessment](../patterns/formative-assessment.md) — peer feedback is formative assessment distributed among learners
 - [Collaborative learning](../patterns/collaborative-learning.md) — protocols structure the peer interaction that makes collaboration productive
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the principle protocols operationalize: feedback must specify what to do next
 - [Rubric-Based Self-Assessment](rubric-based-self-assessment.md) — the same criteria applied to one's own work; peer review builds toward self-assessment
 - [Critique Protocols](critique-protocol.md) — closely related routines (e.g., tuning protocols) for group examination of a single work
+- [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
 
 ## Examples
 - **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu/) — web system where students first calibrate on instructor-scored exemplars, then review peers' writing in large STEM courses.

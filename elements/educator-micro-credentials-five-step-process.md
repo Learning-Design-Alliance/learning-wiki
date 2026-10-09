@@ -54,6 +54,7 @@ Digital Promise defines educator micro-credentials as a professional learning cr
 ## Examples
 
 - [Use Five Key Questions to stress-test proposed micro-credential competencies before drafting](../strategies/five-key-questions-micro-credential-development.md)
+- [Adapt an existing micro-credential for a new context through translation, local assessor training, professional development, and coaching](../strategies/micro-credential-local-adaptation-steps.md)
 
 ## Key Sources
 - Micro-credentials: Igniting Impact in the Ecosystem. (2016). Digital Promise. https://digitalpromise.dspacedirect.org/items/bd6ad6c4-3903-4870-a911-6ee05ba0ae8e

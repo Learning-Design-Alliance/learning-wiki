@@ -49,6 +49,7 @@ Under the CMP, planners gather two types of data before redesign: baseline data 
 - [Student Shadowing (For Educator Insights)](student-shadowing-for-educator-insights.md)
 - [Home Visits](home-visits.md)
 - [Student Shadowing (Qualitative Data Collection)](student-shadowing-qualitative-data-collection.md)
+- [Conduct a family engagement needs assessment as the first step in planning](family-engagement-needs-assessment-first-step.md)
 
 ## Examples
 -

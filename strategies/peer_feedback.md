@@ -58,9 +58,11 @@ Peer feedback works because it doubles the learning opportunity: receivers get t
 5. Debrief: collect samples of useful comments and discuss why they helped, building evaluative judgment over successive rounds
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — peer feedback is a distributed form of it; the same feedback-quality evidence applies
 - [Collaborative Learning](../patterns/collaborative-learning.md) — peer feedback structures the critique phase of group work
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — peer critique plays the role expert critique plays in the coaching phase
+- [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
 
 ## Examples
 - **Calibrated Peer Review (CPR)** — students first calibrate their ratings against expert-scored samples, then review peers' essays; calibration gates access to the review stage. https://cpr.molsci.ucla.edu

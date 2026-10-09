@@ -49,3 +49,4 @@ In the same qualitative interview study of 14 Rhode Island key officials, partic
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related
 - [Educators need a shift in adult mindsets—from evaluative/accountability data use toward improvement-oriented use—for student experience data to improve practice](adult-mindset-shift-student-experience-data.md) — related
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
+- [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related

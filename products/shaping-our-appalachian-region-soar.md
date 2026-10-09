@@ -13,6 +13,7 @@ generated:
 # Shaping Our Appalachian Region (SOAR)
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A nonprofit regional revitalization programme that coordinates Appalachian individuals and organizations around shared values and goals, including technology, computer science education, and digital-economy workforce development.

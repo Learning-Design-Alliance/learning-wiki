@@ -75,9 +75,11 @@ The strategy works because it converts an invisible influence into an object of 
 5. **Build the habit.** Schedule repeated check-ins over weeks; sustained multi-component practice is what produces durable change [+M], while single sessions do not [-M].
 
 ## Related Strategies
+
 - Perspective-Taking — a complementary strategy that shifts attention outward to others' experiences rather than inward to one's own bias
 - Considering the Opposite — a specific debiasing prompt that asks learners to generate reasons their initial judgment might be wrong
 - Structured Decision Rubrics — the structural counterpart: changing the task so bias has less room to operate
+- [Interrogate bias in data analysis by unpacking biases with colleagues and building skills to name bias in action](interrogate-bias-in-data-analysis.md)
 
 ## Examples
 - **Prejudice habit-breaking intervention (Devine et al., 2012)** — a multi-week program combining bias education, counter-stereotype practice, and daily habit monitoring, producing implicit-bias reductions lasting eight weeks.

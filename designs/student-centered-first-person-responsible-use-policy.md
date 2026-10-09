@@ -17,6 +17,7 @@ sources:
 # Student-centered responsible use policies written in first-person responsibility language
 
 > **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The deck recommends crafting student-centered policies by condensing them into 10 or fewer main points and crafting language so that learners assume responsibility for their actions by starting with the phrase: "I am responsible for…." Supporting moves include developing age-appropriate policy modules with a glossary and a quiz, and working with interested high school learners to develop grade-level public service announcements such as posters, podcasts, and announcements designed to deliver the policy message.

@@ -50,3 +50,5 @@ Definitional guidance quoted from Oregon's state guidance document in the Equity
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related
 - [Machine learning systems can perpetuate biases contained in their training data](ml-training-data-perpetuates-bias.md) — related
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related
+- [AI hiring tools have demonstrated biases disproportionately affecting women, individuals with disabilities, and underrepresented ethnic and racial groups](ai-hiring-tool-biases-disproportionate-impacts.md) — a narrower finding that bears on this claim
+- [Training constraints during AI development create potential biases that may be amplified by the population data used](ai-training-constraints-create-potential-biases.md) — related

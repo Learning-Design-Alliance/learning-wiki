@@ -12,6 +12,7 @@ generated:
 # Propensity score stratification with multilevel models
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 When estimating the achievement effects of school transfer or school choice from non-experimental data, the article recommends combining propensity score stratification with multilevel models. The authors report that this combination "reduces selection bias which arises from confounding variables and improves the accuracy of charter school effect estimations". The multilevel component addresses the clustered structure of students within schools in cross-state samples.

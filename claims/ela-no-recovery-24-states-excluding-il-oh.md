@@ -44,3 +44,4 @@ Re-analysis of the ERS state assessment data excluding IL and OH districts. The 
 
 ## Related Claims
 - [In the full samples, NWEA data show far smaller math recovery (.015 SDs) and negative ELA change (-.008 SDs) than ERS (.045 and .019 SDs)](full-sample-nwea-ers-estimate-gap.md) — related
+- [One Ohio district reported a large jump in early literacy proficiency from 76.6 percent in 2021/22 to 93.2 percent in 2023/24](ohio-district-early-literacy-proficiency-jump.md) — related

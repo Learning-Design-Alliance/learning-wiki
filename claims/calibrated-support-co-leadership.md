@@ -72,3 +72,5 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
 - [Leadership coaching partnerships and instructional leadership team collaboration increased schools' capacity to use survey data](coaching-and-team-collaboration-support-data-use.md) — related
 - [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
+- [Centering teachers of color as leaders, designers, and implementers throughout design is the most broadly appreciated aspect of the Design Team process](centering-teacher-of-color-voice-distributed-leadership.md) — related
+- [Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had](external-coaching-accountability-idea-generation.md) — related

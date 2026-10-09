@@ -17,7 +17,7 @@ sources:
 # NWEA 2023-24 student achievement data brief on pandemic recovery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A research brief from NWEA reporting student achievement trends based on data from 2023-24. It shares key findings on growth relative to pre-pandemic trends, the widening gap between pre-COVID and COVID test score averages, and months of schooling needed to catch up. The brief is associated with the MAP Growth product line and topics of COVID-19 and schools, equity, and growth.

@@ -39,6 +39,7 @@ The study's policy takeaway is that "Schools do not need different systems of ea
 ## Related Strategies
 
 - [Tailor indicator-based support by English Learner subgroup: raise former ELs' GPAs toward 3.0, monitor late-arriving ELs' grades and attendance through tenth grade, prioritize attendance and course passing for long-term ELs, and attendance for long-term ELs with IEPs](subgroup-specific-el-support-strategies.md)
+- [Weekly gradebook monitoring with a 70 percent threshold and templated early-warning interventions](weekly-gradebook-monitoring-70-percent-intervention.md)
 
 ## Examples
 -

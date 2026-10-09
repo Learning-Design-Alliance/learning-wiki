@@ -13,6 +13,7 @@ generated:
 # Challenge Based Learning (CBL) Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A challenge-driven learning framework developed and maintained through Apple-supported Challenge Based Learning initiatives for educators and learners working on authentic real-world challenges.

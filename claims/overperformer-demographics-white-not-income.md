@@ -63,3 +63,4 @@ Table 7 cross-tabulates school segments with Grade 1 fall placement distribution
 
 ## Related Claims
 - [Overperforming schools in Grades 1-2 mathematics are more often White-dominant but are not concentrated in higher-income areas or specific locales](overperformers-more-white-dominant-not-income-or-locale-tied.md) — possibly the same claim (merge candidate)
+- [School and district factors relate to risk identification: low income concentration correlates with repeated risk identification, and segregation modestly increases it, though some schools outperform model predictions](massachusetts-school-segregation-risk-identification.md) — related

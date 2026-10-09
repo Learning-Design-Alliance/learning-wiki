@@ -17,7 +17,7 @@ sources:
 # Parent Teacher Home Visits (PTHV) family engagement model
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 PTHV is a family engagement program co-created by parents and educators using community organizing principles of shared leadership. Teachers conduct 30-40 minute home visits in which they listen, ask questions, and make observations to improve instruction. The model is structured by five non-negotiables, including that "Visits are voluntary and arranged in advance" and "Educators go in pairs and reflect."

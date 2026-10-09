@@ -13,7 +13,7 @@ generated:
 # Mindfulness Breaks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 2 report an effect size
+> **Evidence** · 3 claims (3 for) · 6 studies (3 review, 1 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Mindfulness breaks are brief (typically 1–5 minute), structured activities — guided breathing, body scans, mindful movement, or attention-focused meditation — that create a state of present-moment awareness. In educational settings they are inserted between or within learning activities to reset attention, downregulate stress, and strengthen learners' capacity for self-regulation and inhibitory control.

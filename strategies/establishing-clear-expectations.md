@@ -65,6 +65,7 @@ Clear expectations reduce uncertainty about what counts as success, freeing work
 - [Modeling Classroom Norms](acting-role-play.md) — enacting behavioral expectations rather than merely stating them
 - [Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences](evolving-criteria-feedback-conferences.md)
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
+- [Make success criteria visible to students through explicit explanations, think-alouds, and co-construction](explicit-explanations-think-alouds-co-create-success-criteria.md)
 
 ## Examples
 - **Understanding by Design (Wiggins & McTighe)** — units begin with published performance criteria; teachers share rubrics with students before work begins. [https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition](https://www.ascd.org/books/understanding-by-design-expanded-2nd-edition)

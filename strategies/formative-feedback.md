@@ -30,7 +30,7 @@ sources:
 # Formative Feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 10 claims (6 for, 2 mixed, 2 against) · 16 studies (6 quant-synthesis, 4 associational, 3 causal, 3 review), `q2`–`q4` · 6 of 16 report an effect size · 2 claims rest on one study
+> **Evidence** · 13 claims (9 for, 2 mixed, 2 against) · 22 studies (7 quant-synthesis, 6 review, 4 causal, 4 associational, 1 theoretical), `q2`–`q4` · 6 of 22 report an effect size · 2 claims rest on one study
 
 ## Description
 Formative feedback is information given to a learner about their work, at a point where they can still change the work or their approach to the next one. What makes it formative is not its timing alone but its content and its consequence: it addresses the task or the process rather than the person, it names a specific next action, and it is followed by an opportunity to act. A comment on a returned final paper that no one will revise is summative regardless of how detailed it is.

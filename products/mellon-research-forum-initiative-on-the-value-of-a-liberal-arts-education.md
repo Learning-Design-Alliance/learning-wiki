@@ -13,6 +13,7 @@ generated:
 # Mellon Research Forum initiative on the value of a liberal arts education
 
 > **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 A Mellon Foundation research initiative that supports and organizes scholarly inquiry into the multiple outcomes of a liberal arts education.

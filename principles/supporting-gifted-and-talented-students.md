@@ -142,12 +142,14 @@ Progress on the next unit, progress on enrichment work, retention over time, eng
 - [Treat perceived giftedness as access to superior training resources](perceived-giftedness-confers-training-resources.md)
 
 ## Examples
+
 - [Extension Projects for Advanced Students](../strategies/extension_projects_for_advanced_students.md) — replacement work for students who have shown the target
 - [Tiered Assignments](../strategies/tiered-assignments.md) — several levels of the same task in one class
 - [Standard-Based Regrouping](../strategies/standard-based_regrouping.md) — regrouping by what students show on a standard
 - [Learning Contracts](../strategies/learning_contracts.md) — a written agreement for independent extension work
 - [Deploy prevention and intervention supports for underachieving gifted students](../strategies/gifted-underachievement-interventions.md)
 - [Use dynamic assessment to identify gifted learners' potential](../strategies/dynamic-assessment-gifted-identification.md) — identification from response to teaching
+- [High expectations with advanced learning opportunities and productive struggle to empower Black students' genius](../strategies/advanced-learning-high-expectations-productive-struggle.md)
 
 ## Key Sources
 - Lally, M., & Valentine-French, S. (2015). *Lifespan development: A psychological perspective*. 

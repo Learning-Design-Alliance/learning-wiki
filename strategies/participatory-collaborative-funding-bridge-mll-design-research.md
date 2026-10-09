@@ -38,7 +38,8 @@ The report recommends structural moves to connect design and research communitie
 - Effective, equitable edtech and digital media that supports multilingual learners' learning
 
 ## Related Strategies
-- 
+
+- [AI researchers should partner with developers and disseminate findings accessibly to bridge research-practice silos](researcher-developer-partnerships-bridge-ai-silos.md)
 
 ## Examples
 -

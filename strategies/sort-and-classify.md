@@ -13,7 +13,7 @@ generated:
 # Sort And Classify
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 6 studies (3 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (4 causal, 2 review, 1 quant-synthesis), `q2`–`q4` · 1 of 7 report an effect size
 
 ## Description
 Sort and classify asks learners to organize a set of items — examples, objects, statements, problems — into groups according to features or rules. The activity can be *closed* (a known taxonomy to be applied) or *open* (learners induce the categories themselves), and the sorting process, including discussion of why items belong together, is the learning mechanism.

@@ -46,3 +46,4 @@ Regression discontinuity analysis of administrative data from a large California
 - [Eighth grade EL reclassification shows a fairly large negative effect on SAT reading, with a confidence interval of −0.27 to 0.05 SDs](el-reclassification-negative-sat-reading.md) — related
 - [Eighth grade EL reclassification shows positive but imprecise estimates for on-track-to-graduate status in 10th and 11th grades](el-reclassification-on-track-positive-imprecise.md) — related
 - [Policy adherence is high across states (96-98 percent of eligible students reclassified) but is relatively lower in the state mandating end-of-grade assessment proficiency](policy-adherence-high-but-lower-in-mandated-assessment-state.md) — related
+- [Timing of English learner reclassification influences later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — related

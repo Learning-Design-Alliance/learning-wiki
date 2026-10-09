@@ -58,8 +58,10 @@ Assessment only improves learning when the results actually change subsequent in
 5. **Reassess and fade.** Check whether the scaffold closed the gap, then remove it as proficiency grows so support does not become permanent ([Reassessment](../elements/reassessment.md)).
 
 ## Related Strategies
+
 - [Scaffold Language Through Content](#) — the instructional counterpart: once assessment reveals language needs, scaffolds are delivered within content teaching
 - [Use Formative Assessment Probes](#) — specific elicitation routines that supply the evidence this strategy depends on
+- [Gather formative evidence through embedded, discipline-specific tasks rather than separate tests or language assessments](embedded-evidence-gathering-without-separate-tests.md)
 
 ## Examples
 - **WIDA-supported instruction (U.S.)** — Teachers use WIDA ACCESS proficiency scores alongside classroom formative assessment to differentiate tiered tasks and language supports ([https://wida.wisc.edu](https://wida.wisc.edu)).

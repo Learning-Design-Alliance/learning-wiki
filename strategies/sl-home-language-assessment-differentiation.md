@@ -41,6 +41,7 @@ The brief recommends that systems "use students' home language in primary, build
 - [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](dl2f-philippine-contextual-adaptation-strategy.md)
 - [Primary Language Support with Bilingual Texts](primary_language_support_with_bilingual_texts.md)
 - [Use students' home language (Marshallese) to supplement English instruction in entry-level ELA courses](home-language-supplement-english-instruction.md)
+- [Integrate bilingualism into all instructional settings through districtwide professional learning and in-service coaching](integrate-bilingualism-all-instructional-settings.md)
 
 ## Examples
 -

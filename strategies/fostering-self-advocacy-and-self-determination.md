@@ -13,7 +13,7 @@ generated:
 # Fostering Self-Advocacy and Self-Determination
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 5 claims (5 for) · 11 studies (6 review, 2 causal, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 1 of 11 report an effect size
 
 ## Description
 This strategy treats self-advocacy (communicating one's needs, rights, and preferences) and self-determination (goal setting, decision making, problem solving, self-monitoring) as explicit instructional priorities rather than incidental byproducts of schooling. It is carried out by embedding these skills into [Individualized Education Programs](../elements/accommodations.md), giving students tangible, repeated opportunities to practice them in real contexts, and holding systems accountable through teacher preparation, assessment, and school performance measures.
@@ -92,6 +92,7 @@ Self-determination instruction is grounded in [Self-Determination Theory](../the
 6. **Measure and report growth** — track self-determination outcomes alongside academics so schools are accountable for them.
 
 ## Related Strategies
+
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a classroom-scale structure for practicing self-direction daily
 - [Action Planning](action_planning.md) — the goal-setting routine that underlies self-determined learning
 - [Check-In](../elements/check-in.md) — low-stakes reflection that builds self-awareness of needs and progress
@@ -99,6 +100,7 @@ Self-determination instruction is grounded in [Self-Determination Theory](../the
 - Goal-setting instruction — the self-regulatory engine of self-determination
 - Self-monitoring and self-evaluation — the monitoring loop that sustains goal pursuit
 - Student-led conferencing — a structured authentic advocacy setting
+- [Teachers enact agency-building instruction through five moves: valuing strengths, fostering autonomy, encouraging initiative, reinforcing growth mindset, and modeling metacognition](five-teacher-moves-build-el-agency.md)
 
 ## Examples
 - **Student-led IEPs** — students prepare slides, present strengths and needs, and run their own annual meetings; widely implemented through the [I'm Determined](https://www.imdetermined.org) initiative (Virginia Department of Education).

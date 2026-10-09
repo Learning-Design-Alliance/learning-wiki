@@ -39,6 +39,7 @@ In continuous improvement efforts, unusually large class-level gains in learning
 ## Related Strategies
 
 - [Dissemination planning and accurate, accessible data visualization](dissemination-plan-and-visualization-tips.md)
+- [Chronicle and disseminate collaborative successes as documented Bright Spots of regional best practice](bright-spots-dissemination-of-engagement-practices.md)
 
 ## Examples
 -

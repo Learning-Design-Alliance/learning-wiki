@@ -55,6 +55,7 @@ The ecosystem is Digital Promise's infrastructure for the design, development, a
 ## Examples
 
 - [Convert earned micro-credentials into continuing education units for re-licensure and master's equivalency](../strategies/micro-credentials-convert-to-ceus.md)
+- [Adapt an existing micro-credential for a new context through translation, local assessor training, professional development, and coaching](../strategies/micro-credential-local-adaptation-steps.md)
 
 ## Key Sources
 - Barnett Berry and Karen Cator. (2016). Micro-credentials: Driving teacher learning & leadership. Center for Teaching Quality and Digital Promise. http://teachingquality.org/micro-credentials

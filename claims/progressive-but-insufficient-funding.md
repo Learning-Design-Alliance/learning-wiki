@@ -50,3 +50,5 @@ Authors' synthesis of the equity and cost function findings: spending is progres
 - [Colleges with higher percentages of first-generation, economically disadvantaged, academically disadvantaged, older, and English learner students earned fewer success points milestones per FTE student](need-factors-fewer-success-points-milestones.md) — related
 - [Colleges with higher percentages of academically disadvantaged students spent less per FTE student, suggesting possible resource inequities](regressive-spending-academically-disadvantaged.md) — related
 - [Smaller community colleges tended to have larger adequacy gaps, with colleges under 4,001 students spending $1,871 (17 percent) below projected adequate cost](small-colleges-larger-adequacy-gaps.md) — related
+- [Shifting staffing decisions from a per-pupil formula to needs-based allocation addresses staffing resource inequities](needs-based-staffing-addresses-inequity.md) — related
+- [Unfunded pension debt diverts state spending from current students, reaching roughly $16,000 per student in California, $10,000 in Texas, and $15,500 in Florida](pension-debt-per-student-ca-tx-fl.md) — related

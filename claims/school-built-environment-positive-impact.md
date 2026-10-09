@@ -44,3 +44,4 @@ The agenda's mental health priority reports, citing multiple endnoted studies on
 
 ## Related Claims
 - [Students in census tracts with unaffordable housing, low home ownership, or little green space have higher odds of grade retention, even with similar achievement](neighborhood-disadvantage-higher-retention-odds.md) — related
+- [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](daylight-green-views-benefit-students.md) — a narrower finding that bears on this claim

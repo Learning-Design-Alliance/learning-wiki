@@ -41,6 +41,7 @@ The brief proposes five major policy domains for the future of micro-credentiali
 - [Align micro-credential offerings and recognition with student and educator performance standards](align-micro-credentials-with-student-educator-standards.md)
 - [Advance micro-credentials through a piloting coalition, a rigorous research agenda, and dissemination of best practices](micro-credential-next-steps-strategy.md)
 - [Micro Credentials](micro-credentials.md)
+- [Expand micro-credential systems into seven future content areas](micro-credential-future-expansion-areas.md)
 
 ## Examples
 -
