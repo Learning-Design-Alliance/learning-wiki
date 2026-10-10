@@ -50,6 +50,9 @@ Design Studio participants proposed grow-your-own (GYO) teacher preparation prog
 - [Retention supports for teachers of color: networking platforms, safe spaces, mental health resources, race-conscious mentorship, and flexible career pathways](toc-retention-supports-mentoring-mental-health.md)
 - [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
 - [Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply](grow-your-own-residency-pathways-strategy.md)
+- [Build an after-school/OST-to-teaching pipeline to recruit teachers of color](after-school-ost-teacher-pipeline.md)
+- [Build an after-school/out-of-school-time pipeline into teaching to diversify the teacher workforce](after-school-ost-teacher-pipeline-strategy.md)
+- [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
 
 ## Examples
 -

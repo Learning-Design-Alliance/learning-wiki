@@ -65,3 +65,4 @@ Survey 2 subgroup comparison. Multilingual parents emphasized more respect from 
 - [Most parents and teachers say their schools are culturally inclusive, but about one-fifth of parents and one-quarter of teachers disagree that instruction connects students' cultures to learning](culturally-sustainable-instruction-lags-inclusion.md) — related
 - [Technology access problems during remote learning fell more heavily on minoritized and lower-income students](remote-covid-tech-access-inequitable-by-race-income.md) — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
+- [Low-income students, students of color, multilingual families' students, and students with disabilities are more likely to be chronically absent](chronic-absence-inequities-disaggregation.md) — related

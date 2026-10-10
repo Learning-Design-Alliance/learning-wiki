@@ -43,6 +43,7 @@ The brief identifies silos between research and practice and recommends research
 - [Ed-tech companies should use multi-method, multi-stakeholder research at every product stage and share results publicly](edtech-research-promising-practices-strategy.md)
 - [Use iterative design with short feedback loops and multiple user-feedback methods during product development](iterative-design-short-feedback-loops.md)
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
+- [Federal policy should expand research on how people learn and fund centers translating it into curriculum, school design, and educator preparation](federal-expand-learning-research-translation-centers.md)
 
 ## Examples
 -

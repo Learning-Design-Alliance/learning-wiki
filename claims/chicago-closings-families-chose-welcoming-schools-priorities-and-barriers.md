@@ -70,3 +70,4 @@ Interviews with affected families found some believed they had to enroll in the 
 - [Distance and transportation costs were barriers to frequent visits for teens from Chicago's far South and West Sides](youmedia-transportation-barrier-far-south-west-sides.md) — related
 - [Staff in welcoming schools said the planning process for merging closed schools into welcoming schools was insufficient, leaving them unprepared](school-closing-planning-insufficient-staff-unprepared.md) — related
 - [School closings severed longstanding social connections among families and staff, producing a period of mourning and us-vs-them dynamics](school-closings-severed-social-connections-mourning.md) — related
+- [Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory](students-wary-of-mandatory-services.md) — related

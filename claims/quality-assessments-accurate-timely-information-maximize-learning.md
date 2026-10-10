@@ -46,3 +46,4 @@ The book's stated aim, as printed in its description: it hopes to "shift the foc
 - [An argument-based approach to test score effectiveness can be illustrated by contrasting effectiveness arguments for interim assessments based on a conventional test blueprint versus one augmented with learning progressions](effectiveness-arguments-interim-blueprint-contrast.md) — related
 - [Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students](conditional-reliability-low-at-score-tails.md) — related
 - [The article argues for shifting from the definition of validity to the concept of effectiveness for classroom assessment score use](shift-from-validity-to-effectiveness.md) — related
+- [Teachers report changing high-quality instruction to match state and interim test formats, limiting deep learning opportunities](teachers-alter-instruction-to-match-test-formats.md) — related

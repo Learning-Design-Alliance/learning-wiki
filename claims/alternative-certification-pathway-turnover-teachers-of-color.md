@@ -69,3 +69,6 @@ The review reports this controlled finding in the retention section, alongside e
 - [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — related
 - [Turnover is about 70% higher in schools serving the most students of color, with even larger gaps for math/science, special education, and alternatively certified teachers](turnover-high-minority-schools-70-percent.md) — related
 - [Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992](us-teacher-turnover-15-percent-2021-22.md) — related
+- [Alternative-route teacher certification enrollment has grown rapidly nationally and in Michigan, where just over 40% of candidates were in alternative programs by 2023](alternative-route-enrollment-growth-michigan-national.md) — related
+- [All students, regardless of race or ethnicity, benefit socially, emotionally, and academically from a diverse teacher workforce, while teachers of color experience burnout and leave the profession at higher rates than their White peers](diverse-teacher-workforce-benefits-all-students.md) — related
+- [Teachers of color now leave the workforce at a higher rate than White teachers, reversing late-1990s parity](teachers-of-color-higher-turnover-rate.md) — related

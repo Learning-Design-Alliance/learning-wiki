@@ -48,3 +48,4 @@ Descriptive correlational analysis of NJDOE aggregated school subgroup–indicat
 - [Stabilization changed ATSI designations more than CSI designations, with the median lowest-performing subgroup larger under stabilized indicators](stabilization-changes-atsi-designations-more-than-csi.md) — related
 - [Stabilizing test-based indicators produced substantial changes in simulated CSI designations, with larger schools replacing smaller schools](stabilization-changes-csi-designations.md) — related
 - [Stabilization reduced the inverse relationship between student group size and score variance for test-based indicators, especially for groups of 10 to 19 students](stabilization-reduces-group-size-variance-relationship.md) — related
+- [Supergroup accountability broadens which schools are held responsible for small subgroups but risks recreating averages that mask group differences](supergroup-accountability-benefits-and-risks.md) — related

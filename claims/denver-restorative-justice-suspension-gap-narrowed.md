@@ -46,3 +46,4 @@ District-level data from Denver Public Schools after implementing restorative ju
 - [California's shift to restorative and social-emotional approaches coincided with a 33.6% decline in suspensions and 40.4% decline in expulsions (2011-2016) while schools became safer](california-suspension-decline-safer-schools.md) — related
 - [Black and poor students are suspended from US schools at higher rates than White and nonpoor students](black-poor-students-suspended-higher-rates.md) — a broader claim this one bears on
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
+- [Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100](massachusetts-chapter-222-reduced-black-girls-suspensions.md) — related

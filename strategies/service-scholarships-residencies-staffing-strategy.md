@@ -45,6 +45,10 @@ The report recommends service scholarships and loan forgiveness that "cover all 
 - [Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations](service-scholarships-residencies-shortage-fields.md)
 - [Provide financial support and induction mentoring in exchange for a multi-year teaching commitment](financial-support-commitment-induction-strategy.md)
 - [Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply](grow-your-own-residency-pathways-strategy.md)
+- [Recruit classified school employees into teacher credentialing with braided funds plus individualized financial and non-financial supports](classified-employee-credentialing-braided-supports.md)
+- [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
+- [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
+- [Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce](teacher-residency-braided-recruitment-retention.md)
 
 ## Examples
 -

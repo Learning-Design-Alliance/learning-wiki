@@ -71,3 +71,5 @@ Descriptive trend analysis shown in Figure 6 for high school graduating classes 
 - [College was the most prevalent postsecondary pathway selection, with CTE/non-CTE differences narrowing over time](pathway-selection-college-prevalent-cte-gaps-narrowing.md) — related
 - [Students meeting the continuous four-term persistence definition completed college at higher rates than students meeting the third-semester definition, for both bachelor's and community college enrollees](persisters-completion-rates-by-definition.md) — related
 - [AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers](ai-an-dropout-and-college-retention-rates.md) — related
+- [Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years](early-program-entry-linked-to-completion.md) — related
+- [Community college credential completion rates are low and have slightly declined, with markedly lower rates for black and Hispanic students](low-community-college-completion-rates-declining.md) — related

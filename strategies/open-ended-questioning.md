@@ -58,9 +58,11 @@ Open questions push learners beyond retrieval into elaboration, explanation, and
 5. Close by making the reasoning public — have learners compare positions or summarize the class's emerging answer, connecting to [Discussion-Based Learning](../patterns/discussion-based-learning.md).
 
 ## Related Strategies
+
 - [Cold Calling](cold-call.md) — a distribution mechanism that pairs with open questions to ensure broad participation
 - [Think-Pair-Share](../patterns/think-pair-share.md) — structures the wait and drafting time open questions require
 - [Socratic Seminar](socratic-seminar.md) — a full pattern built on student-to-student open questioning
+- [Use low-stakes, multiple-entry warm-ups like \"Which One Doesn't Belong?\" to reduce fear of wrong answers](which-one-doesnt-belong-low-stakes-warmup.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — students take turns generating open questions about a text segment, alongside summarizing and predicting; see [Reciprocal Teaching](../elements/reciprocal-teaching.md).

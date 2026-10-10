@@ -45,3 +45,4 @@ Table 4 of Simulation Study 1 reports correlations of estimated scores with true
 ## Related Claims
 - [In a three-timepoint simulation, MIRT-based scores recover true linear growth slope parameters better than sum scores and unidimensional IRT approaches, which understate the slope](mirt-recovers-growth-slope-better-than-sum-scores.md) — related
 - [In a four-timepoint quadratic-growth simulation, the MIRT model marginally outperforms sum score and cross-sectional models for slope and quadratic means and much better recovers intercept and slope variances](mirt-better-quadratic-growth-recovery-four-timepoints.md) — related
+- [Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time](survey-item-discrimination-and-ceiling-effects.md) — related

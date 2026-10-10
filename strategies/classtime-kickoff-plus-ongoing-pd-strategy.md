@@ -56,6 +56,7 @@ The summary describes a professional development model for successful Classtime 
 - [Provide on-site first-year training of 4-5 hours plus building-level ongoing support each year of ST Math implementation](st-math-professional-development-strategy.md)
 - [Prepare teachers with one full training day plus a mid-year follow-up day](jump-math-one-day-training-mid-year-follow-up.md)
 - [Provide various forms of follow-up to sustain new practices learned in PD](follow-up-supports-sustain-pd-practices.md)
+- [Build coordinator capacity through a structured weekly professional learning community with personalized coaching and targeted assets-and-needs-assessment training](weekly-plc-coaching-for-community-school-coordinators.md)
 
 ## Examples
 -

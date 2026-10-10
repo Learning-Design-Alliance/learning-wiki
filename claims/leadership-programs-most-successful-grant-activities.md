@@ -58,3 +58,5 @@ Respondent-perception findings from interviews and site visits across grantee si
 - [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — related
 - [Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers](small-pdsa-cycles-narrow-first-problem.md) — related
 - [Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation](program-district-collaboration-coherent-principal-preparation.md) — related
+- [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
+- [Community schools funding availability and consistency strongly impacts continued implementation progress in Roswell](funding-availability-constrains-community-school-progress.md) — related

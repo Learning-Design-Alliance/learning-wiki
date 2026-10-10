@@ -42,6 +42,8 @@ The report recommends leveraging the deeper and more collaborative partnerships 
 - [Structure principal preparation internships around mastery of leadership competencies and strengthen university-district partnerships](competency-internships-and-district-partnerships.md)
 - [SEAs can use turnaround competencies and BEIs across selection, mentor matching, supervisor coaching, and leader pipelines](sea-competency-uses-selection-development.md)
 - [Strengthen administrator induction by integrating it into a continuum of supports, mandating coach training and consistent coaching intervals, building program–district partnerships, and using CalAPA results to inform coaching](strengthen-induction-continuum-coaching-partnerships.md)
+- [Develop high-quality principal preparation through district-university partnerships with internships and mentorship](high-quality-principal-preparation-partnerships.md)
+- [Strengthen teacher pipelines and remove biased promotion barriers to build the principal pipeline](strengthen-teacher-pipelines-principal-pipeline.md)
 
 ## Examples
 -

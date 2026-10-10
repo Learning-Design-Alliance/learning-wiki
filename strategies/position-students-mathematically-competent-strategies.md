@@ -39,7 +39,8 @@ The report recommends teacher practices that foster social and mathematics belon
 - Math achievement
 
 ## Related Strategies
-- 
+
+- [Cultivate mathematics belonging by publicly recognizing every student as a mathematical thinker](mathematics-belonging-recognition-practices.md)
 
 ## Examples
 -

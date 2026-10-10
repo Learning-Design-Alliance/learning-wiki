@@ -65,3 +65,4 @@ Same cohort analysis of attendance trajectories between first and second semeste
 - [By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject](cps-ninth-graders-64-percent-miss-two-weeks-major-subject.md) — related
 - [Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester](schools-vary-extreme-truancy-worst-ten.md) — related
 - [Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy](truancy-throughout-day-not-subject-specific.md) — related
+- [Punitive responses to absence do not improve attendance and can worsen it](punitive-responses-ineffective-attendance.md) — related

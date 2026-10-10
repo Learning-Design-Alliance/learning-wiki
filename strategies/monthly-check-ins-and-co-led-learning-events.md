@@ -39,6 +39,7 @@ The RPP supported teams through monthly meetings with a designated Digital Promi
 
 - [PBS station-led virtual orientation events to familiarize families with a new digital learning tool](pbs-station-virtual-orientation-events-strategy.md)
 - [Convene a monthly virtual Community of Practice for singleton state program directors, with topics identified by members and reciprocal learning among members and experts](monthly-virtual-cop-singleton-state-directors.md)
+- [Build a College Promise team spanning internal campus units and external cross-segment and cross-sector partners](cross-segment-cross-sector-promise-team.md)
 
 ## Examples
 -

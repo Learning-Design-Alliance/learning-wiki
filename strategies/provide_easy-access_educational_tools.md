@@ -75,11 +75,13 @@ Easy access reduces the transaction cost of support-seeking, which otherwise fil
 6. Build in student [check-in](../elements/check-in.md) routines and reflection so learners evaluate which tools actually helped them.
 
 ## Related Strategies
+
 - [Choice Boards](../elements/choice-boards.md) — a structured way to package tool access with learner decision-making
 - [Teach Self-Regulation Strategies](../strategies/teach-self-regulation-strategies.md) — tools are the external half of self-regulation; strategy instruction is the internal half
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md) — addresses the skill gaps that determine whether tool access translates into tool use
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — access to reference tools works best when learners can connect new material to what they already know
 - [Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers](student-autonomy-default-access-edtech-supports.md)
+- [Increase access to digital learning so materials are organized and accessible online](digital-learning-access-organized-materials.md)
 
 ## Examples
 - An elementary classroom stores fraction tiles, base-ten blocks, and graphic organizers in open labeled bins; students retrieve them during math without asking, and a mini-lesson earlier in the year modeled when each tool clarifies versus clutters a problem.

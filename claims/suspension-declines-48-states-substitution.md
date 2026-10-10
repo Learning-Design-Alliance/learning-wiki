@@ -66,3 +66,4 @@ State-level CRDC analysis of whether out-of-school declines reflected genuine re
 - [Secondary school suspension rates varied greatly across states in 2017–18, from 15% in Mississippi, South Carolina, and Washington, DC to 3% in Utah](state-variation-secondary-suspension-rates.md) — related
 - [National out-of-school suspension rates rose from 4% in 1973 to a peak of 7% in 2009–10, then fell to 5% by 2017–18 while remaining above 1970s levels](suspension-rates-rose-then-declined-1973-2018.md) — a broader claim this one bears on
 - [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related
+- [Oakland Unified gradually reduced out-of-school suspension rates for girls after policy changes](oakland-reduced-girls-suspension-rates-over-time.md) — a narrower finding that bears on this claim

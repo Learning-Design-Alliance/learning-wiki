@@ -65,3 +65,4 @@ Association rule mining on income and parental education subgroups in the re-ana
 - [Rule induction models achieved comparable or slightly worse predictive accuracy than regression in re-analyses of two NELS:88 studies](rule-induction-accuracy-comparable-or-worse-than-regression.md) — related
 - [Rule induction identifies useful cut-points of continuous predictors and groupings of nominal predictors, and surfaces outcome-related variables omitted from regression models](rule-induction-cutpoints-and-omitted-variables.md) — a broader claim this one bears on
 - [Rulesets provide a unique at-a-glance description of the sample showing how key predictors relate to the outcome and each other](rulesets-at-a-glance-sample-description.md) — related
+- [Supergroup accountability broadens which schools are held responsible for small subgroups but risks recreating averages that mask group differences](supergroup-accountability-benefits-and-risks.md) — related

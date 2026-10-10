@@ -47,3 +47,4 @@ Finding from the qualitative case study interviews across Long Beach Unified and
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
 - [Restorative practices outcomes follow a slow trajectory: quick low-level successes after training, high-level success in three to five years or more](restorative-practices-three-to-five-year-timeline.md) — related
+- [Prior residency experience of vetted EPPs and high district engagement enabled TCLAS uptake](prior-experience-and-district-engagement-uptake.md) — related

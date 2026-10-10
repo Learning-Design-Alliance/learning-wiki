@@ -66,6 +66,7 @@ Culturally responsive practice improves engagement and achievement when it conne
 - [Actively Listen to What Students Say](../strategies/actively_listen_to_what_students_say.md) — the relational practice that surfaces the cultural knowledge responsiveness depends on
 - [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
 - [Panel protocol: open with community cultural resources, then moderated discussion connecting community assets to computing education](community-cultural-resources-panel-protocol.md)
+- [Integrate students' home languages into math instruction to build trust and participation](multilingualism-integration-math-trust.md)
 
 ## Examples
 - **Funds of Knowledge units (Moll et al., Tucson, AZ)** — Teachers interviewed families about household practices (mechanics, farming, finance) and built math and literacy units around them, positioning students' households as intellectual resources.

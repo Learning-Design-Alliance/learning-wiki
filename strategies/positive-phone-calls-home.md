@@ -59,9 +59,11 @@ Positive contact with families raises student engagement and improves teacher–
 6. When problems later arise, open any difficult conversation by referencing the established positive history ([Action-Oriented Feedback](action-oriented-feedback.md)).
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the in-class counterpart; daily positive interactions sustain what calls initiate
 - [Action-Oriented Feedback](action-oriented-feedback.md) — positive calls model the same specific, behavior-focused framing
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — another brief, individualized, relationship-building interaction format
+- [Enable regular, meaningful family engagement through diverse home-language communication, proactive meetings, student-led conferences, and shared decision-making forums](family-engagement-structures-secondary.md)
 
 ## Examples
 - **Kraft & Dougherty (2013) field experiments** — high school teachers made positive calls home about 10 students per class; called students showed measurably higher engagement and positive behavior in class (https://doi.org/10.1080/19345747.2012.749649).

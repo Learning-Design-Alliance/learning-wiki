@@ -65,3 +65,4 @@ Same state-level regression analysis using NIEER quality benchmark data. The rep
 - [In states requiring specialized prekindergarten teacher training, kindergarten students are more likely to improve in math](specialized-prek-teacher-training-math-improvement.md) — related
 - [District pre-pandemic performance and pandemic recovery predict kindergarten math more strongly than state-funded PreK4 enrollment, which loses significance once both are controlled](district-performance-stronger-predictor-than-prek4-enrollment.md) — related
 - [No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth](no-significant-district-offerings-math-links.md) — related
+- [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](wv-prek-print-awareness-gains.md) — related

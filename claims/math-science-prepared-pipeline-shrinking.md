@@ -46,3 +46,4 @@ Analysis of CTC authorization data (Figure 8) shows preliminary math and science
 ## Related Claims
 - [Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students](substandard-credentials-unequal-district-distribution.md) — related
 - [Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20](underprepared-teacher-hiring-increased.md) — related
+- [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related

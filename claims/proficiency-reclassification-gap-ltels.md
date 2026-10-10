@@ -63,3 +63,4 @@ Figure 5 shows cumulative reclassification rates by grade and cohort. While over
 - [Improvements in English proficiency acquisition occurred across all initial proficiency levels but were largest for students with the lowest initial scores, though large gaps remained by end of elementary school](proficiency-gains-by-initial-level.md) — related
 - [More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts](k-cohort-els-reaching-english-proficiency-earlier.md) — related
 - [Information about English-language development is critical for accurately predicting the grade an EL will reclassify](english-development-information-critical-reclassification-prediction.md) — related
+- [Students designated as LTEL7 who reached the recommended CAASPP ELA achievement cut point were not yet reclassified as fluent English proficient](ltel7-caaspp-ela-met-not-reclassified.md) — related

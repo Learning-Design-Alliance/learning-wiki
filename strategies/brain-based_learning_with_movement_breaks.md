@@ -58,8 +58,10 @@ Movement breaks work primarily by counteracting the vigilance decrement — sust
 6. Distribute review of earlier segments across subsequent lessons rather than massing it at the end.
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — a dedicated physical activity period serving the same attention-restoration function at larger scale
 - [Brain Breaks](brain-breaks.md) — the general family of short reset activities this strategy structures into instruction
+- [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 
 ## Examples
 - **[GoNoodle](https://www.gonoodle.com)** — short guided movement videos designed for classroom transitions between instructional segments.

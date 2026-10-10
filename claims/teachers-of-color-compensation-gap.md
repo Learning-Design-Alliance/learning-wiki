@@ -43,4 +43,4 @@ Descriptive analysis of teacher-to-other-college-educated-worker wage ratios by 
 
 
 ## Related Claims
--
+- [Early educators earn one third to one half of k-12 educators' wages and over half rely on public assistance](early-educators-underpaid-public-assistance.md) — related

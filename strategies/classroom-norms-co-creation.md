@@ -66,6 +66,7 @@ Co-creation leverages self-determination dynamics: giving students authentic voi
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — extends student voice from norms into daily learning decisions
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — the dispositions co-created norms are meant to institutionalize
 - [Student-co-created acceptable/unacceptable behavior guides for conflict management](student-co-created-behavior-guides.md)
+- [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
 
 ## Examples
 - **[Responsive Classroom](https://www.responsivesclassroom.org)** — "Creating Rules Together" protocol in which teachers and K–8 students generate classroom rules from student hopes and dreams; supported by a 3-year randomized controlled trial showing gains in math and reading achievement [Rimm-Kaufman et al., 2014](https://doi.org/10.3102/0002831214523821) [+S]

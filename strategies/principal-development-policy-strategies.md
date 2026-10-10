@@ -45,6 +45,8 @@ The report recommends four policy actions: develop and better use state licensin
 - [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](tdf-state-policy-actions-career-continuum.md)
 - [Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance](leandro-sequenced-investment-action-plan-strategy.md)
 - [Research recommendations: broaden program descriptions, account for prior experience and context, define outcomes, and use longitudinal mixed-methods designs](principal-learning-research-agenda.md)
+- [Develop high-quality principal preparation through district-university partnerships with internships and mentorship](high-quality-principal-preparation-partnerships.md)
+- [Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color](invest-principal-professional-development.md)
 
 ## Examples
 -

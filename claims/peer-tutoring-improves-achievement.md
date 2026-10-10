@@ -93,3 +93,6 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — related
 - [Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes](meta-analytic-moderate-large-effects-collaborative-learning.md) — related
 - [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on
+- [Tennessee's education department notes tutoring during the school day is more effective than before- or after-school programming](tutoring-during-school-day-more-effective.md) — a narrower finding that bears on this claim
+- [Summary research table reports tutoring impacts of roughly 90 to 222 days of additional learning across five studies](tutoring-impact-days-summary-table.md) — related
+- [A recent meta-analysis of 14 types of educational interventions found high-impact tutoring the most effective at improving student achievement](tutoring-most-effective-intervention-meta-analysis.md) — related

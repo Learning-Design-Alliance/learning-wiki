@@ -42,6 +42,7 @@ The report recommends that state agencies and preparation programs use TPA data 
 
 - [Embed data-driven continuous improvement criteria into state EPP program approval](continuous-improvement-criteria-in-program-approval.md)
 - [States conduct a statewide survey of new teachers with comparable questions across all programs](statewide-new-teacher-survey-strategy.md)
+- [Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates](use-completer-surveys-accreditation-continuous-improvement.md)
 
 ## Examples
 -

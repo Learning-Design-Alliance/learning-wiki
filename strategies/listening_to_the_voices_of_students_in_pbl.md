@@ -65,6 +65,7 @@ Student voice works as a motivational lever: autonomy and perceived ownership su
 - [Community of Inquiry](../principles/community-of-inquiry.md) — voice sustains the social presence needed for inquiry communities
 - [Collaborative Learning](../principles/collaborative-learning.md) — voice practices operate within and depend on collaborative structures
 - [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
+- [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
 
 ## Examples
 - **Expeditionary Learning (EL Education)** — crew structures and student-led conferences institutionalize student voice in project design and exhibition ([https://eleducation.org](https://eleducation.org)).

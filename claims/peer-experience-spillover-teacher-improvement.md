@@ -45,3 +45,5 @@ The brief reports, citing Jackson and Bruegmann, the peer-experience spillover a
 ## Related Claims
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
 - [Teachers improve faster when they teach the same grade level and subject for multiple years](task-specific-experience-faster-improvement.md) — related
+- [Teachers' effectiveness increases at a greater rate in supportive, collegial working environments and when they accumulate experience in the same grade level, subject, or district](experience-gains-greater-in-supportive-environments.md) — related
+- [More experienced teachers confer benefits to their colleagues and to the school as a whole, as well as to their own students](experienced-teachers-spillover-colleagues-school.md) — a broader claim this one bears on

@@ -45,3 +45,4 @@ Report analysis of CPS personnel and survey data states that "nearly half of pri
 ## Related Claims
 - [Fund-supported principals are younger and have shorter tenure than other CPS principals](fund-principals-younger-shorter-tenure.md) — related
 - [Principal turnover often has negative effects on student achievement, teacher retention, and school culture unless a much more effective principal replaces the prior one](principal-turnover-negative-effects.md) — related
+- [Principal turnover is common: 18% of principals leave schools each year and half of new principals leave within three years, with cascading consequences](principal-turnover-18-percent-annually.md) — related

@@ -68,6 +68,7 @@ Elevating student voice builds on self-determination research: experiences of au
 - [Foster teacher agency through low-risk, high-reward opportunities with escalating responsibility](low-risk-high-reward-teacher-agency-opportunities.md)
 - [Offer instructional choices to students to increase engagement and agency](offer-instructional-choices-engagement-agency.md)
 - [Seven equity strategies for local leaders, including listening first, strengths-based approaches, and co-design](seven-equity-strategies-listen-first-co-design.md)
+- [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
 
 ## Examples
 - **Youth participatory action research** (e.g., the [Public Science Project](https://www.publicscienceproject.org) at CUNY Graduate Center) — students design and conduct research on problems in their own communities and present findings to authentic audiences.

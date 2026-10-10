@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 72 claims (53 for, 12 mixed, 7 against) · 62 studies (21 causal, 15 associational, 13 review, 8 quant-synthesis, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 17 of 62 report an effect size · 68 claims rest on one study
+> **Evidence** · 76 claims (57 for, 12 mixed, 7 against) · 66 studies (21 causal, 15 review, 15 associational, 8 quant-synthesis, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 17 of 66 report an effect size · 72 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -105,6 +105,10 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting](../claims/positive-relationships-protect-against-violence.md) [+M] — instruction changes it
 - [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](../claims/relationship-centered-designs-beat-factory-model.md) [+M] — learners who differ on it differ in outcomes
 - [Well-implemented, well-attended summer programs show positive outcomes in academic, social, and behavioral areas](../claims/well-attended-summer-programs-positive-outcomes.md) [~M] — an instructional effect differs with it
+- [An evaluation of the New York City community schools initiative found increased graduation rates, increased elementary and middle school mathematics achievement, and reductions in chronic absenteeism.](../claims/nyc-community-schools-evaluation-promising-results.md) [+M] — instruction changes it
+- [Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning](../claims/structure-variables-correlated-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Extended school days and years show positive achievement relationships in 14 of 15 high-quality studies, mediated by instruction quality](../claims/extended-time-positive-achievement-instruction-quality-mediator.md) [+M] — learners who differ on it differ in outcomes
+- [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](../claims/los-padillas-chronic-absenteeism-halved.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

@@ -46,3 +46,5 @@ The report's review of coaching and mentoring in education distinguishes coachin
 - [Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring](limited-access-job-based-principal-learning.md) — related
 - [Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals](mentor-coach-access-inequity-poverty.md) — related
 - [Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities](principal-learning-access-poverty-disparities.md) — related
+- [School leaders in higher-wealth schools are more likely to attend high-quality principal preparation programs, creating inequitable access](prep-quality-varies-by-school-wealth.md) — related
+- [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related

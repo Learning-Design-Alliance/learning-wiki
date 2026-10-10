@@ -71,3 +71,4 @@ Trend analysis of standardized reading and math scores four years after interven
 - [The DC school reforms were associated with learning gains in grade 8 math but not in grade 8 reading](dc-reforms-grade8-math-gains-not-reading.md) — related
 - [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](turnaround-is-a-process-not-an-event.md) — a broader claim this one bears on
 - [Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year](lynwood-dfi-decrease-intervention-tracking.md) — related
+- [Placing a full cohort of 25 residents as co-teachers in one high-need elementary school coincided with schoolwide achievement gains in ELA and mathematics within one year.](fresno-wishon-residency-cohort-achievement-gains.md) — related

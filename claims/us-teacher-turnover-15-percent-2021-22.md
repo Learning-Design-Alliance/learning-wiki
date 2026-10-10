@@ -72,3 +72,5 @@ Historical descriptive comparison of NCES turnover rates over time (Figure 3). T
 - [Dissatisfaction is the most-cited reason for leaving, cited by 55% of profession-leavers and 66% of school-movers](dissatisfaction-top-reason-for-turnover.md) — related
 - [Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed](pa-attrition-racial-gaps-grew-except-administrators.md) — related
 - [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
+- [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](louisiana-teachers-of-color-working-conditions-turnover.md) — related
+- [Teachers of color now leave the workforce at a higher rate than White teachers, reversing late-1990s parity](teachers-of-color-higher-turnover-rate.md) — related

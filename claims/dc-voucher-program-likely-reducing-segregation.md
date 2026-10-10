@@ -49,3 +49,5 @@ The authors' interpretive inference (not a direct test), combining the printed 9
 - [Far fewer voucher-participating private schools than DC public schools are racially homogeneous (90% or 95%+ one race)](dc-voucher-schools-less-racially-homogeneous.md) — related
 - [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — related
 - [Interdistrict desegregation choice plans decrease segregation, help close racial achievement gaps, and improve racial attitudes and long-term outcomes](interdistrict-desegregation-choice-benefits.md) — related
+- [Attending racially integrated schools is associated with higher academic achievement and improved long-term educational and economic outcomes for students of color, with no academic harm for white students](integrated-schools-academic-and-long-term-benefits.md) — related
+- [Schools in the United States have resegregated since 1988, with the share of intensely segregated non-white schools more than tripling from about 6% to 19% of all public schools](resegregation-intensely-segregated-schools-tripled.md) — related

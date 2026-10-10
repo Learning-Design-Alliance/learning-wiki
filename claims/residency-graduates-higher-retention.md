@@ -70,3 +70,5 @@ Descriptive analysis of 312 Boston Teacher Residency graduates vs. 1,333 non-res
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
 - [Alder residency graduates show higher 3-year same-LEA retention than teachers prepared through other pathways in the same LEAs](alder-graduates-higher-retention-other-pathways.md) — related
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
+- [Boston Public Schools' district-wide full open hiring policy was followed by more than 100 additional Black and Hispanic teachers hired over four years, per an Annenberg Institute analysis](open-hiring-policy-increased-black-hispanic-hires-boston.md) — related
+- [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — possibly the same claim (merge candidate)

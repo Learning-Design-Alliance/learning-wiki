@@ -47,3 +47,4 @@ The review reports that even after exam modifications, fail-rate disparities per
 - [Preservice candidates pass teaching performance assessments at higher rates than intern candidates](preservice-candidates-outpass-interns-on-tpas.md) — related
 - [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](clinical-feedback-predicts-tpa-passing-preservice-only.md) — related
 - [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
+- [New York City teachers fail state certification examinations at far higher rates than teachers elsewhere in New York State](nyc-teachers-fail-licensure-exams-higher-rates.md) — related

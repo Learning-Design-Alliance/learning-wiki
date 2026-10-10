@@ -46,3 +46,4 @@ Cross-case finding from a qualitative multi-case study of three California middl
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
 - [Parent focus groups showed parents could not report on specific classroom instructional interactions, so ambitious instruction items were developed for the teacher survey instead, and a new Teacher Care and Responsiveness towards Parents measure was created](parent-focus-groups-shaped-survey-content.md) — related
 - [Survey design and management conditions influenced how schools engaged with climate data](survey-design-conditions-data-engagement.md) — related
+- [Focal math teachers relied primarily on their own observations of student behavior to understand students' feelings about math, supplemented by surveys, with disaggregated data rare](teacher-observation-primary-perception-data-source.md) — related

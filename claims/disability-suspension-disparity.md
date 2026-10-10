@@ -49,3 +49,5 @@ CRDC analysis disaggregating suspension rates by disability status and race (Fig
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
 - [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](same-infractions-black-disabilities-more-suspensions.md) — related
 - [Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS](low-achievement-disability-suspension-rates-cps.md) — related
+- [Students in alternative schools experience extraordinarily high lost-instruction rates, with Black boys losing 235 days per 100 enrolled](alternative-schools-extreme-lost-instruction.md) — related
+- [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](suspension-disparities-reflect-policies-and-adult-biases.md) — related

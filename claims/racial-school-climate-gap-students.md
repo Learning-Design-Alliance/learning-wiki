@@ -66,3 +66,4 @@ Two reports using Cal-SCHLS data from different years confirmed significant conn
 - [White and Asian staff report more positive school climates than African American and Hispanic staff, irrespective of their school's student racial composition](staff-climate-perceptions-vary-by-staff-race.md) — related
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — a narrower finding that bears on this claim
 - [Large majorities of Gateway students report feeling cared for, part of the school, safe, and connected](gateway-climate-survey-belonging.md) — related
+- [Getting-to-know-you surveys that surface student-teacher commonalities improved relationships and grades, and closed achievement gaps for Black and Latinx students by more than 60% in one study](getting-to-know-you-surveys-commonalities-gap-closure.md) — related

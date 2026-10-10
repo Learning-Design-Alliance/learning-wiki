@@ -44,3 +44,4 @@ Observational re-analysis selecting top and bottom 5% of schools on fall achieve
 
 ## Related Claims
 - [About 46% of the lowest 5% achieving schools show the same growth as the highest 5% achieving schools](46-percent-low-achieving-schools-same-growth-as-top.md) — related
+- [In Boston high schools, top-third teachers produced six times the learning of bottom-third teachers in math and reading growth](boston-top-third-bottom-third-teacher-gains.md) — related

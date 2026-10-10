@@ -46,3 +46,4 @@ The same Washington State simulation reports that hiring-only reform, eliminatin
 - [Eliminating attrition inequities alone does little to close teacher quality gaps](attrition-equity-alone-little-tqg-effect.md) — related
 - [Eliminating inequities in both teacher mobility and hiring would close teacher quality gaps within 5 years in simulations](mobility-hiring-equity-closes-tqgs-5-years.md) — related
 - [Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students](three-processes-contribute-teacher-quality-gaps.md) — related
+- [Assuring that poor and minority children had teachers of the same quality as other children would close about half the achievement gap](equalizing-teacher-quality-closes-half-the-gap.md) — related

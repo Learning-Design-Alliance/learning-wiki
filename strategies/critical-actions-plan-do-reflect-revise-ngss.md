@@ -45,6 +45,7 @@ Domain 2 enumerates eleven critical actions leaders take to implement the NGSS: 
 - [Design professional learning for leaders using a 5E learning cycle](5e-learning-cycle-leader-professional-learning.md)
 - [Action Research](action-research.md)
 - [Evaluate & Reflect then Sustain & Scale: analyze pilot data against targeted goals and share results with critical partners to plan expanded use](evaluate-pilot-data-and-share-results-to-scale-edtech.md)
+- [State, district, and school leaders can support positive math classroom conditions through guidance, teacher education, funding, shared vision, and data-informed reflection](policy-considerations-math-classroom-conditions.md)
 
 ## Examples
 -

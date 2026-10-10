@@ -89,3 +89,4 @@ performance](goal-setting-improves-performance.md).
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related: if-then planning is a forethought-phase strategy
 - [A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson](tipping-point-hypothesis-insufficient-online-dropout.md) — related: online course dropout
 - [Mental contrasting with implementation intentions](../strategies/mental-contrasting-with-implementation-intentions.md) — the strategy the online experiments tested
+- [Youth most positively reported Project With's impact on goal setting, with 81 percent saying it made them more likely to make plans to reach their goals](project-with-perceived-impact-goal-setting.md) — a narrower finding that bears on this claim

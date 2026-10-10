@@ -63,6 +63,7 @@ Offering multiple representations and modes of expression broadens access and gi
 - [Accessible Syntax](../strategies/accessible_syntax.md) — linguistic access is one of the most consequential forms of respecting diverse learners
 - [Give learners control over how learning is measured via assessment choices and science-fair-type projects](learner-controlled-assessment-science-fair-projects.md)
 - [Act as a learning supporter during multimedia production](teacher-learning-supporter-strategy.md)
+- [Offer student success courses in varied content, timing, and delivery modes matched to student needs rather than a one-size-fits-all model](varied-delivery-modes-student-success-courses.md)
 
 ## Examples
 - A statistics tutor lets a learner who struggles with formulas first solve a real-world estimation problem hands-on, then maps the solution back onto the formal notation — the practical route becomes the bridge to the theoretical one.

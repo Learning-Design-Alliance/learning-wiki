@@ -52,3 +52,4 @@ Observational analysis of Chicago elementary schools comparing stagnation in ITB
 - [Schools strong on clusters of the five essential supports were 10 times more likely to improve learning of reading and mathematics](strong-supports-cluster-ten-times-more-likely-to-improve.md) — related
 - [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related
 - [Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators](thirteen-composite-indicators-seventeen-total.md) — related
+- [Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains](five-essential-supports-ten-times-substantial-gains.md) — related

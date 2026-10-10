@@ -48,6 +48,7 @@ The brief holds that all families in a community should have a fair opportunity 
 - [Targeted and Specific Communication with Families](targeted_and_specific_communication_with_families.md)
 - [Provide training and jargon-free resources so council members can make informed contributions](training-and-jargon-free-resources-for-council-members.md)
 - [Maintain transparent, ongoing communication through consistent schedules, agendas, and multiple channels](transparent-ongoing-parent-council-communication.md)
+- [Remove language and participation barriers by communicating with families in multiple languages through varied channels with interpreters available](multilingual-communication-channels-el-families.md)
 
 ## Examples
 -

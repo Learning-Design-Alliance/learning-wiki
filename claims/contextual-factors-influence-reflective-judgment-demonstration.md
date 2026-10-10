@@ -50,3 +50,4 @@ Findings from the author's pilot study of six supervised student teachers in one
 - [Learning to deal with uncertainty and ill-defined dilemmas is often not a priority in preservice teacher education programs](uncertainty-preparation-neglected-in-teacher-education.md) — related
 - [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related
 - [The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors](sel-domains-less-stable-than-achievement.md) — related
+- [Clinical support (communication, observation, feedback) is strongly related to perceived preparation effectiveness, yet 43% of preservice completers reported less than the required 600 hours of student teaching](clinical-support-related-to-preparedness-600-hours.md) — related

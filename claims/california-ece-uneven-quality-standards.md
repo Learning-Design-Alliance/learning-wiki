@@ -47,3 +47,4 @@ Report's program quality section, based on document analysis and county intervie
 - [Per-child reimbursement rates vary by program in California, with regional rates differing up to 50% despite programs serving similar children](california-ece-reimbursement-rates-vary-up-to-50-percent.md) — related
 - [Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce](california-ece-workforce-low-compensation-turnover.md) — related
 - [County-administered QRIS in California is voluntary, uneven, and destabilized by time-limited categorical funding](california-qris-voluntary-unstable-funding.md) — related
+- [Quality standards vary across federal ECE programs, with CCDBG and Head Start minimum standards differing significantly](ccdbg-head-start-quality-standard-differences.md) — related

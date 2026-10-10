@@ -45,3 +45,4 @@ The brief reports national demographic data for the 2021–22 school year, citin
 ## Related Claims
 - [AI/AN students experienced chronic absence rates among the highest of any ethnic group before and after the pandemic](aian-absence-highest-among-ethnic-groups.md) — related
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
+- [Chronic absence in West Kern Consortium schools dropped 9 percentage points from its 2021–22 peak, with large district-level reductions](west-kern-chronic-absence-reduction.md) — related

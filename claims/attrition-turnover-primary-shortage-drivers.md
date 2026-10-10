@@ -47,3 +47,4 @@ The report's analysis of district turnover rates finds an association between tu
 - [Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students](substandard-credentials-unequal-district-distribution.md) — related
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
 - [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](school-leadership-associated-with-lower-turnover.md) — related
+- [California's K-3 class size reduction policy sharply increased the proportion of teachers without full credentials, with low-income students most affected](class-size-reduction-reduced-teacher-credentials.md) — related

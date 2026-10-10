@@ -75,6 +75,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — pairs naturally with self-paced online modules
 - [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
 - [Blend virtual ed-tech practice with regular in-person meetings and check-ins in summer learning programs](blended-summer-edtech-in-person-checkins.md)
+- [Offer student success courses in varied content, timing, and delivery modes matched to student needs rather than a one-size-fits-all model](varied-delivery-modes-student-success-courses.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

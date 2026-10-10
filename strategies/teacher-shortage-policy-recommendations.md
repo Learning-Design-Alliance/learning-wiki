@@ -45,6 +45,13 @@ The report recommends seven "evidence-based approaches for resolving teacher sho
 - [Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply](grow-your-own-residency-pathways-strategy.md)
 - [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](tdf-state-policy-actions-career-continuum.md)
 - [Build high-retention, supportive pathways into teaching for candidates of color](high-retention-supportive-pathways-teachers-of-color.md)
+- [Invest in recruiting and retaining a diverse, EL-qualified educator workforce through bilingual teaching pathways](bilingual-teacher-pathways-diverse-el-workforce.md)
+- [Districts use financial, personnel management, and working-conditions strategies to recruit and retain teachers, including leadership compensation, mentoring, and collaboration time](district-recruitment-retention-strategy-portfolios.md)
+- [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
+- [Five policy priorities to address Michigan's inequitable teacher shortage: fair funding, data systems, career attractiveness, administrator supports, and professional development](five-priorities-michigan-teacher-shortage-policy.md)
+- [Offer flexible part-time instructional roles to bring certified, nonemployed educators back into classrooms](flexible-part-time-educator-roles.md)
+- [Invest in retention efforts for teachers of color that improve working conditions and provide personal and professional growth opportunities](invest-retain-teachers-of-color.md)
+- [Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates](retain-teachers-of-color-strategies.md)
 
 ## Examples
 -

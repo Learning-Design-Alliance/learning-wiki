@@ -43,6 +43,7 @@ The brief lists key strategies NHUHSD will use to sustain its school mental heal
 - [Sustain school mental health programs through multi-payer fee schedules and alignment with existing initiatives](multipayer-fee-schedule-sustainability-strategy.md)
 - [Sustain school mental health services by blending one-time grants with ongoing reimbursement streams](scoe-blended-grant-and-reimbursement-financing.md)
 - [Assign tiered fiscal responsibility: education funds Tier 1 and some Tier 2 supports, while the health system funds expanded Tier 2 and Tier 3 services](tiered-fiscal-responsibility-education-health.md)
+- [Federal policy should fund wraparound supports and community schools integrating health, mental health, social services, and extended learning time](federal-wraparound-supports-community-schools.md)
 
 ## Examples
 -

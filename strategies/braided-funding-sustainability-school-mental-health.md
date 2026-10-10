@@ -45,6 +45,7 @@ The brief's sustainability approach embeds mental health in existing district st
 - [Sustain cross-agency collaboration through a dedicated district leader and monthly partner meetings](dedicated-leader-monthly-cross-agency-meetings.md)
 - [Health plans can actively partner with schools by directing networked providers to school-based activities, providing TA, placing care coordinators on campus, and funding prevention through grant-making](mcp-active-partnership-strategies.md)
 - [Sustain school mental health programs through multi-payer fee schedules and alignment with existing initiatives](multipayer-fee-schedule-sustainability-strategy.md)
+- [Federal policy should fund wraparound supports and community schools integrating health, mental health, social services, and extended learning time](federal-wraparound-supports-community-schools.md)
 
 ## Examples
 -

@@ -49,3 +49,5 @@ CRDC analysis of intersecting identities and suspension risk. The report contras
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
 - [Black and poor students are suspended from US schools at higher rates than White and nonpoor students](black-poor-students-suspended-higher-rates.md) — a broader claim this one bears on
 - [Secondary school students are suspended at more than three times the rate of elementary school students, and recent declines were concentrated in secondary schools](secondary-suspension-three-times-elementary.md) — related
+- [Students in alternative schools experience extraordinarily high lost-instruction rates, with Black boys losing 235 days per 100 enrolled](alternative-schools-extreme-lost-instruction.md) — related
+- [Race-by-gender disparities are more pronounced: Black boys lost 132 days per 100 enrolled and Black girls lost 77, seven times the rate of White girls](gender-disaggregated-lost-instruction-disparities.md) — related

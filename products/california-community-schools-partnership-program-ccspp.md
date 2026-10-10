@@ -31,3 +31,4 @@ California's state-approved community-schools framework, administered through th
 
 ## Key Sources
 - Swain, W., Leung-Gagné, M., Maier, A., & Rubinstein, C. (2025). Community schools impact on student outcomes: Evidence from California. Learning Policy Institute. https://doi.org/10.54300/541.498
+- Maier, A., & Rivera-Rodriguez, A. (2023). State strategies for investing in community schools. Learning Policy Institute. https://doi.org/10.54300/612.402

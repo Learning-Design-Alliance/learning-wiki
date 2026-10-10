@@ -51,3 +51,4 @@ Descriptive analysis of turnover by school student-body composition (Figure 6) u
 - [Teachers with the lowest value-added scores are overrepresented in Chicago's highest-poverty schools](lowest-value-added-teachers-overrepresented-high-poverty.md) — related
 - [Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools](teacher-turnover-16-percent-annual.md) — related
 - [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
+- [Students in high-poverty schools are more likely to be taught by inexperienced teachers, and teachers in high-minority schools are twice as likely to leave their school for another](inexperienced-teachers-high-poverty-schools.md) — related

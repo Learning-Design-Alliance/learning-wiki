@@ -46,3 +46,4 @@ The report attributes this finding to D'Amico, Pawlewicz, Earley, and McGeehan (
 - [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — possibly the same claim (merge candidate)
 - [Removing degree requirements and centering skills-based hiring widens employers' talent pools and Black job seekers' access to technology careers](skills-based-hiring-widens-talent-pool.md) — related
 - [Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties](toc-workplace-racism-invisible-tax.md) — related
+- [When at least two women and two candidates of color are in the finalist pool, the odds of hiring a woman or a candidate of color are reported to be 79 and 194 times greater](diverse-finalist-pool-raises-diverse-hire-odds.md) — related

@@ -65,3 +65,4 @@ In the 2015-16 cohort, career plans differed by pathway: "about two-thirds (66 p
 - [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
 - [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related
+- [Access to student teaching and residency pathways is unequal: only 46% of Black and 50% of Native American completers participated, and fewer than one third of education specialists did so](unequal-access-clinical-pathways-race-specialists.md) — related

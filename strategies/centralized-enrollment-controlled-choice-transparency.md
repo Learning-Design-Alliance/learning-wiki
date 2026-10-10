@@ -40,6 +40,7 @@ The report recommends concrete management mechanisms for choice systems: central
 
 - [State policymakers should pair any choice expansion with quality controls, equitable access safeguards, integration management, and research and evaluation requirements](state-choice-quality-and-equity-safeguards.md)
 - [Support coordinated enrollment across the mixed delivery system to ensure family choice and provider stability](coordinated-enrollment-mixed-delivery.md)
+- [Research and policy attention should now examine PreK program quality and equitable access across racial, ethnic, and linguistic groups, and how families choose among PreK options](examine-prek-quality-equitable-access-and-family-choice.md)
 
 ## Examples
 -

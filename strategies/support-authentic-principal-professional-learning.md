@@ -47,6 +47,8 @@ The report recommends that local, state, and federal policymakers ensure princip
 - [Target differentiated leadership assistance at schools and districts designated as needing improvement](differentiated-assistance-school-improvement.md)
 - [Strengthen administrator induction by integrating it into a continuum of supports, mandating coach training and consistent coaching intervals, building program–district partnerships, and using CalAPA results to inform coaching](strengthen-induction-continuum-coaching-partnerships.md)
 - [Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance](leandro-sequenced-investment-action-plan-strategy.md)
+- [Federal policy should invest in high-quality professional learning for educators, prioritizing preparation and professional development designs including teachers teaching teachers](federal-invest-educator-professional-learning.md)
+- [Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color](invest-principal-professional-development.md)
 
 ## Examples
 -

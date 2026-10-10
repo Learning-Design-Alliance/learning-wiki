@@ -56,6 +56,7 @@ The report defines co-design as "a process in which different stakeholders come 
 - [Inclusive Innovation Process](../strategies/inclusive_innovation_process.md)
 - [Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices](../patterns/shared-power-co-creation-of-educational-systems.md)
 - [Seven equity strategies for local leaders, including listening first, strengths-based approaches, and co-design](../strategies/seven-equity-strategies-listen-first-co-design.md)
+- [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](../strategies/promising-practices-engaging-student-voice.md)
 
 ## Key Sources
 - Cocuzza, B., Noakes, S., Aso, C., Vollavanh, A., Goldschmidt, L., and Bennett, K. (2026, August). From Data Silos to Student Success: The CICS and Innovare Co-Design Approach to AI-Driven Intervention. Digital Promise. https://doi.org/10.51388/20.500.12265/304

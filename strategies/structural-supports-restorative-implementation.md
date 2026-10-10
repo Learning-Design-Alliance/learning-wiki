@@ -44,6 +44,7 @@ The brief identifies structural supports that must be attended to for restorativ
 - [Restorative Practices](restorative-practices.md)
 - [Replace zero tolerance discipline policies with explicit social-emotional teaching and restorative discipline practices](replace-zero-tolerance-with-restorative-practices.md)
 - [Build staff buy-in and mastery through opt-in professional development, social signaling, and preparation for fallback moments](staff-buy-in-opt-in-pd-social-signaling.md)
+- [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
 
 ## Examples
 -

@@ -40,6 +40,12 @@ The report recommends that states and districts eliminate zero-tolerance policie
 
 - [Replace exclusionary discipline for low-level offenses with social-emotional skill teaching, educator supports, implicit-bias training, and relationship-centered schools](replace-exclusionary-discipline-with-sel-and-relationship-centered-approaches.md)
 - [Replace zero tolerance discipline policies with explicit social-emotional teaching and restorative discipline practices](replace-zero-tolerance-with-restorative-practices.md)
+- [Districts should track rates of lost instruction from suspensions and conduct recurring public reviews of discipline disparities](district-track-lost-instruction-public-review.md)
+- [Embed a race-equity lens in all local discipline actions and invest in supportive personnel over school police](race-equity-lens-local-discipline-implementation.md)
+- [Adopt positive, restorative discipline approaches and ban harmful exclusionary practices](restorative-discipline-ban-harmful-practices.md)
+- [Restorative-justice-aligned discipline policies to reduce exclusionary discipline disparities](restorative-discipline-policies-reduce-exclusionary-disparities.md)
+- [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
+- [Seven state-level policy actions to improve school discipline equity](seven-state-actions-improve-discipline-policy.md)
 
 ## Examples
 -

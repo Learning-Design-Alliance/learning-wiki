@@ -88,3 +88,4 @@ Sanders, M. R., Markie-Dadds, C., Tully, L. A., & Bor, W. (2000). The triple P-p
 - [Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers](video-self-observation-powerful-coaching-component.md) — related
 - [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related
+- [Coaching shows strong positive effects on educators' instruction and modest effects on student outcomes in P-12 settings, with larger effects for content-specific and smaller programs](coaching-meta-analysis-instruction-effects-p12.md) — related

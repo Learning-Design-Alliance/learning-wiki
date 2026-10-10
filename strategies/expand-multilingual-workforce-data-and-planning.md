@@ -39,6 +39,7 @@ The brief recommends expanding available program and workforce data by collectin
 ## Related Strategies
 
 - [Invest in program coordination, instructional coaching, and bilingual paraprofessional career pathways to improve English Learner program design](invest-in-el-coordination-coaching-paraprofessional-pathways.md)
+- [Publish school-level educator race/ethnicity data and program-completer and retention data on state dashboards](publish-educator-diversity-data-dashboards.md)
 
 ## Examples
 -

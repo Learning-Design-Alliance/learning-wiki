@@ -49,3 +49,4 @@ Analysis of LEAs' SBHIP needs assessments and project plans plus interviews with
 - [Existing school-based behavioral health TA in California is siloed, and equitable access depends on local leaders' individual knowledge and networks](siloed-behavioral-health-ta-unequal-access.md) — related
 - [KSDE established a statewide infrastructure — Core Team, facilitators, symposium, and website — that respondents rate as effectively supporting MTSS](kansas-mtss-state-infrastructure-support.md) — related
 - [Coordination of Services Teams (COSTs) are used universally in Oakland Unified schools to connect students and families with academic, mental, behavioral, and physical health supports](costs-universally-connect-students-to-supports.md) — related
+- [State investments in coordinators, professional development, and technical assistance were key to achieving community schools outcomes](state-investment-coordinators-pd-key-to-outcomes.md) — related

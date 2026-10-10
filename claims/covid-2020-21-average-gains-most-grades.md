@@ -51,3 +51,4 @@ The brief's summary of its analysis of 2020-21 school-year gains states that "on
 - [Pandemic-period growth varied by pre-pandemic achievement status: higher achievers' gains were more consistent with projected normative growth while lower achievers more often fell short](pandemic-growth-varied-by-pre-pandemic-achievement-status.md) — related
 - [The Learning during COVID-19 research investigated whether 2020-21 school-year gains and spring 2021 achievement differed from pre-pandemic trends and levels in reading and math.](covid-2020-21-achievement-compared-pre-pandemic.md) — related
 - [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related
+- [The COVID-19 pandemic increased classroom disruptions and negatively affected students' social and emotional development](pandemic-increased-disruptions-and-sead-harm.md) — related

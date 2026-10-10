@@ -45,3 +45,6 @@ Analysis of California Commission on Teacher Credentialing 2021–22 and 2022–
 ## Related Claims
 - [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — related
 - [Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers](residency-graduates-perceived-effective.md) — related
+- [Candidates of color complete Michigan teacher preparation programs at lower rates than they enroll: nearly 20% of enrollees but only 12% of completers in 2022-23 were people of color](michigan-teacher-prep-completion-gap-candidates-of-color.md) — related
+- [Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.](residencies-enroll-more-candidates-of-color.md) — related
+- [TRGP-funded residents made up between 20 and 40 percent of all California residents between 2020-21 and 2022-23, and about 11 percent of teacher preparation completers self-identified as residency-prepared in 2022-23](trgp-residents-share-of-statewide-preparation.md) — related

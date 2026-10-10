@@ -49,3 +49,5 @@ The report's synthesis of retention studies, summarized in Table 1, compiles des
 - [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — related
 - [Alder residency graduates show higher 3-year same-LEA retention than teachers prepared through other pathways in the same LEAs](alder-graduates-higher-retention-other-pathways.md) — related
 - [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — related
+- [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — related
+- [University of Houston residency completers retain in teaching at rates above state averages (93% after year one; 3- and 5-year retention 10 and 7 points above state averages for the 2019 cohort)](uh-residency-completers-retention-above-state-average.md) — related

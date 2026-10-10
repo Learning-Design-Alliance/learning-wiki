@@ -45,3 +45,4 @@ An observational analysis of eight years of CPS personnel- and student-level dem
 ## Related Claims
 - [Three of every four Black and white CPS students have a principal of the same race/ethnicity, and 69% of CPS principals are female versus 54% nationwide](cps-principal-student-race-match-and-gender.md) — related
 - [The match between principal race/ethnicity and the majority race of students in CPS schools increased over time](cps-principal-student-race-match-increased.md) — related
+- [Nearly 80% of U.S. principals are White, so students of color are far less likely than White peers to encounter a leader matching their race or ethnicity](principals-nearly-80-percent-white.md) — related

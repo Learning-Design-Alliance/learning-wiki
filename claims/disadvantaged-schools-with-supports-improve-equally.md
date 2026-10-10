@@ -50,3 +50,4 @@ The article reports this finding from Chicago research (citing Bryk et al. and t
 - [Schools weak in most essential supports were four to five times more likely to stagnate than schools with strong overall organizational capacity](weak-essential-supports-four-to-five-times-stagnation.md) — related
 - [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](school-climate-associated-higher-teacher-evaluation-scores.md) — related
 - [Weak instructional program coherence impairs sustained school improvement even when staff share a test-score goal](weak-coherence-impairs-improvement-wilson.md) — related
+- [Schools with strong cultures show higher proficiency and retain more effective teachers](strong-cultures-higher-proficiency-retention.md) — a narrower finding that bears on this claim

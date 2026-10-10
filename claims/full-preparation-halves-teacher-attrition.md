@@ -49,3 +49,4 @@ The report's preparation section synthesizes multiple studies of teacher prepara
 - [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
+- [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — possibly the same claim (merge candidate)

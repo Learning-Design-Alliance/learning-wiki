@@ -65,3 +65,4 @@ Narrative review attributing this to Lifton et al. (2007), a four-year study co-
 - [First-year seminar participation is associated with higher retention and graduation rates](fys-participation-higher-retention-graduation.md) — a broader claim this one bears on
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — related
 - [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](epdp-pilot-gpa-retention-gains-not-sustained.md) — related
+- [Students were more positive about advising when their advisor was dedicated to a specific program of study or student population](dedicated-advisors-perceived-more-accurate.md) — related

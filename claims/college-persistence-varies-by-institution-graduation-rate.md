@@ -66,3 +66,4 @@ The review attributes to Roderick, Nagaoka, Coca, & Moeller (2008) that a CPS gr
 - [Students with the same HSGPA or the same ACT score graduate from college at different rates depending on which high school they attended](high-school-effects-same-gpa-act-graduation-rates.md) — related
 - [College readiness is best understood as a property of interactions between students and the college context, not only individual skills](college-readiness-as-student-college-interaction.md) — a broader claim this one bears on
 - [Ensuring a good match between students and the colleges in which they enroll significantly increases a student's chance of graduating](good-college-match-increases-graduation-chance.md) — related
+- [At least 177,000 low-income high school graduates score high enough on the SAT/ACT to qualify for entry to a public research university](177000-high-achieving-low-income-graduates.md) — related

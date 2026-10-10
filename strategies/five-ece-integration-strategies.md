@@ -37,7 +37,8 @@ The report identifies five strategies policymakers can use to foster socioeconom
 - learning in socioeconomically, racially, ethnically, and linguistically diverse classrooms
 
 ## Related Strategies
-- 
+
+- [Research and policy attention should now examine PreK program quality and equitable access across racial, ethnic, and linguistic groups, and how families choose among PreK options](examine-prek-quality-equitable-access-and-family-choice.md)
 
 ## Examples
 -

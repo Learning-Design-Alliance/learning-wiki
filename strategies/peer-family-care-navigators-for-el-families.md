@@ -41,6 +41,8 @@ The brief recommends investing in formal English Learner family care navigators 
 - [Develop data-sharing memoranda of understanding and shared evaluation across child- and family-serving agencies](shared-data-use-mous-evaluation.md)
 - [Invest in program coordination, instructional coaching, and bilingual paraprofessional career pathways to improve English Learner program design](invest-in-el-coordination-coaching-paraprofessional-pathways.md)
 - [Advocate for state-level actions integrating score reports into trusted-voice family engagement](state-advocacy-assessment-reporting-recommendations.md)
+- [Invest in additional whole-child supports for LTEL7 students, such as those provided by community schools](community-schools-supports-ltel7.md)
+- [Assign a compensated navigator to each family to connect English learner households with learning and support services](family-navigators-for-english-learners.md)
 
 ## Examples
 -

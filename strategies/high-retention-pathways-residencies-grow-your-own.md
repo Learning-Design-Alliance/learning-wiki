@@ -45,6 +45,9 @@ The report recommends service scholarships and loan forgiveness that "pay the co
 - [Deploy service scholarships, loan forgiveness, and teacher residencies to staff high-need fields and schools](service-scholarships-residencies-staffing-strategy.md)
 - [Eight state and local strategies to address California teacher shortages](eight-strategies-address-teacher-shortages.md)
 - [Design service scholarships that cover a substantial portion of preparation costs, with stable multiyear funding and linked data systems](service-scholarship-design-recommendations.md)
+- [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
+- [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
+- [Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates](use-completer-surveys-accreditation-continuous-improvement.md)
 
 ## Examples
 -

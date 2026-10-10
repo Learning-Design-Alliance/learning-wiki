@@ -65,6 +65,7 @@ Communication that is specific, frequent, and oriented toward learning tasks pro
 - [Check-Ins](../principles/check-ins.md) — the student-facing counterpart of regular structured contact
 - [Parents should reinforce on-time attendance, communicate with teachers, and make academics the freshman's top priority](parent-support-freshman-attendance-priority.md)
 - [Use improved communication strategies to drive family involvement and partnerships with schools](improved-communication-drives-family-involvement-partnerships.md)
+- [Enable regular, meaningful family engagement through diverse home-language communication, proactive meetings, student-led conferences, and shared decision-making forums](family-engagement-structures-secondary.md)
 
 ## Examples
 - **Parent Teacher Home Visits** (https://www.pthp.org) — trained educators visit families at home to build relational trust before academic problem-solving

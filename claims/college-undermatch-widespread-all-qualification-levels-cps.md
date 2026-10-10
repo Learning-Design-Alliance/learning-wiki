@@ -49,3 +49,4 @@ Descriptive cross-tabulation (Table 2, N=4,317) comparing students' college acce
 - [Undermatch occurs when students attend a college less selective than their high school academic achievement would allow](undermatch-defined-less-selective-college-attendance.md) — related
 - [Among selective enrollment students, 64 percent are qualified to attend a selective or very selective college but only 37 percent enroll in one](cps-selective-enrollment-qualification-enrollment-mismatch.md) — related
 - [Nearly two-thirds of graduates from academically advanced programs graduate with access to a selective or very selective four-year college](cps-advanced-programs-two-thirds-selective-qualified.md) — related
+- [Among students eligible for highly selective institutions, about 60 percent of low-income students undermatch versus 27 percent of the highest-income students](undermatching-low-income-high-achievers.md) — related

@@ -75,3 +75,4 @@ Cross-district finding on rubric comparability. The report frames this as a tens
 - [States integrate performance-based assessments as a complement or alternative to traditional multiple-choice tests within a broader assessment strategy](performance-assessments-complement-multiple-choice-tests.md) — related
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — a narrower finding that bears on this claim
 - [Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring](locally-developed-performance-assessments-teacher-collaborative-scoring.md) — related
+- [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — related

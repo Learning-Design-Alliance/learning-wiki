@@ -65,3 +65,4 @@ Time-trend analysis of four-year graduation rates from 2008 (62.2%) through 2023
 - [CPS's four-year high school graduation rate declined for the first time in recent history in 2021, from 83.3% to 81.8%](cps-graduation-rate-first-decline-2021.md) — related
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — related
 - [At UCLA Community School, the share of graduates meeting UC/CSU A-G course requirements rose to 81% in 2021 and the 4-year graduation rate grew from 69% in 2012 to 90% in 2022](ucla-cs-rising-a-g-and-graduation-outcomes.md) — related
+- [University High's 4-year graduation rate rose from 36% in 2022 to 55% in 2023 and was maintained in 2024](university-high-graduation-rate-rose-36-to-55.md) — a narrower finding that bears on this claim

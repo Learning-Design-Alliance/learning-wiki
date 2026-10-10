@@ -52,3 +52,5 @@ Cross-state survey comparison found California principals reported greater acces
 - [Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content](principals-lack-authentic-job-embedded-learning.md) — related
 - [More than two thirds of principals want equity-focused professional development, with significant differences by community type](principals-want-equity-pd-community-differences.md) — related
 - [Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities](principal-learning-access-poverty-disparities.md) — related
+- [North Carolina's educator-diversity policy record is mixed, with strongest performance on data, GYO programs, and induction and weakest on financial and leadership supports](nc-mixed-educator-diversity-policies.md) — related
+- [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related

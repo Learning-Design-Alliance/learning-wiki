@@ -65,3 +65,4 @@ Postpolicy hazard models show retained students about 3 to 4 percent more likely
 - [Dropouts in more recent CPS cohorts left school at earlier grade levels, with a growing share not going beyond ninth grade](dropouts-leaving-at-earlier-grade-levels.md) — related
 - [Retention at the promotion gate increased the likelihood of dropping out by about 8 percentage points by age 17 and 13 points by age 19](gate-retention-increased-dropout-likelihood.md) — related
 - [The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger](postpolicy-retention-effect-smaller-but-larger-impact.md) — related
+- [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related

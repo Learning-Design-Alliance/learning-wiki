@@ -68,3 +68,6 @@ The report states this moderation in the retention section: the overall turnover
 - [Dissatisfaction is the most-cited reason for leaving, cited by 55% of profession-leavers and 66% of school-movers](dissatisfaction-top-reason-for-turnover.md) — related
 - [Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed](pa-attrition-racial-gaps-grew-except-administrators.md) — related
 - [Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992](us-teacher-turnover-15-percent-2021-22.md) — related
+- [All students, regardless of race or ethnicity, benefit socially, emotionally, and academically from a diverse teacher workforce, while teachers of color experience burnout and leave the profession at higher rates than their White peers](diverse-teacher-workforce-benefits-all-students.md) — related
+- [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](louisiana-teachers-of-color-working-conditions-turnover.md) — related
+- [Teachers of color now leave the workforce at a higher rate than White teachers, reversing late-1990s parity](teachers-of-color-higher-turnover-rate.md) — possibly the same claim (merge candidate)

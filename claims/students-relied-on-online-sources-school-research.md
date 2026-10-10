@@ -68,3 +68,4 @@ Same focus-group study: students wanted to hear about experiences of students at
 - [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related
 - [Ninth-grade enrollment overall and by school type and accountability rating stayed relatively stable after GoCPS implementation](gocps-enrollment-stable-after-implementation.md) — related
 - [Eighth-grade students navigating high school choice considered three main categories of factors—setting, school, and student factors—plus two overarching concepts of a good school and fit](three-categories-student-choice-factors-high-school.md) — related
+- [Students are dissatisfied with college websites and want interactive, dynamic, accurate, and timely online information](students-dissatisfied-with-college-websites.md) — possibly the same claim (merge candidate)

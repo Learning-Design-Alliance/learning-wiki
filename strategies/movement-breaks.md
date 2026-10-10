@@ -76,9 +76,11 @@ Movement breaks leverage the link between physical arousal and cognitive readine
 5. Return to instruction with a clear cue; follow with [Practice](../elements/practice.md) or [Provide Guidance](../elements/provide-guidance.md) while the attentional benefit is active.
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — a longer-form variant of structured physical activity during the school day
 - [Active Transitions](active-transitions.md) — embedding movement into the movement between activities themselves
 - [Check-Ins](../principles/check-ins.md) — a complementary low-cost routine for reading learner state before choosing an energizing or calming break
+- [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 
 ## Examples
 - **GoNoodle** ([gonoodle.com](https://www.gonoodle.com)) — short, energetic "brain break" videos widely used in elementary classrooms; teachers select videos by duration and energy level.

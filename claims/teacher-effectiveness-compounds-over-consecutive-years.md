@@ -56,3 +56,7 @@ This finding is the empirical backbone of the argument for growth (or "value-add
 - [The paper examines consequences for teachers versus students of classifying and misclassifying teachers as effective or ineffective](value-added-misclassification-consequences-teachers-students.md) — related
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](systemic-challenges-gaps-isolation-shifting-skills.md) — related
 - [Teachers improve faster in supportive professional environments, with gaps widening over time](supportive-environments-faster-teacher-improvement.md) — related
+- [Teacher effects are cumulative and long-lived: sequences of effective versus ineffective teachers produce vastly different fifth-grade math outcomes in Tennessee](cumulative-teacher-sequence-effects-tennessee.md) — related
+- [In Dallas, sequences of three effective versus three ineffective teachers separated students by more than 35 percentile points in reading and 50 points in math](dallas-teacher-sequence-reading-math-gaps.md) — related
+- [Low-income students are disproportionately assigned weak teachers, with cumulative achievement consequences](inequitable-teacher-distribution-achievement-consequences.md) — possibly the same claim (merge candidate)
+- [Students' achievement gains depend strongly on the sequence of teachers they are assigned, with several effective teachers producing dramatic gains and two ineffective teachers producing losses students may never recover](teacher-sequence-effectiveness-gains-losses.md) — related

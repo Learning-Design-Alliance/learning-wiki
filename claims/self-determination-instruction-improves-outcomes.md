@@ -95,3 +95,4 @@ Earlier Related Claims:
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — related
 - [Differentiating special education funding by disability, disability category, or student need can lead to improved outcomes for students with disabilities, and IEP-progress metrics offer a new adequacy-study measure](differentiated-special-education-funding-improves-outcomes.md) — related
+- [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — related

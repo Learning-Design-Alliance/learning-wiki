@@ -50,6 +50,7 @@ The action plan recommends that the state take immediate and six-year sequenced 
 - [Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning](principal-development-policy-strategies.md)
 - [Policymakers should fund and deliver authentic, job-embedded principal professional learning and remove access barriers](support-authentic-principal-professional-learning.md)
 - [Using Title II professional development funds to strengthen teacher preparation, recruitment, induction, and support in high-need schools](title-ii-teacher-equity-strategies.md)
+- [Six-part strategy for assuring qualified teachers for all students](six-part-qualified-teachers-strategy.md)
 
 ## Examples
 -

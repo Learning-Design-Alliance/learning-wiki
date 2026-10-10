@@ -79,12 +79,14 @@ Student voice practices work because they support learners' basic psychological 
 6. **Assess participation formatively.** Track breadth of participation (who speaks, how often) rather than volume, and adjust facilitation to include hesitant voices.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the instructor-side skill that makes student contributions feel heard rather than merely collected
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — an individualized channel for student voice with students who won't speak in whole-class settings
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a structured way to give students decision-making authority over their learning
 - [Actively Listen to What Students Say](actively_listen_to_what_students_say.md) — the teacher-side skill that makes voice routines meaningful
 - [Acceptance, Responsibility, and Sharing](acceptance-responsibility-and-sharing.md) — norms work that underpins safe sharing
 - [Action Planning](action_planning.md) — converts voiced needs into student-owned next steps
+- [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
 
 ## Examples
 - **Daily check-ins**: students share a feeling and a goal at the start of class; the teacher adjusts pacing or grouping based on patterns across responses.

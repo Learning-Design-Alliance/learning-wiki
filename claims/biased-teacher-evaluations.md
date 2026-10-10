@@ -47,3 +47,4 @@ Secondhand report of a Michigan study (Drake et al., 2019) of evaluation ratings
 - [Teachers of color leave the teaching profession at higher rates than white teachers (about 19 percent vs. 15 percent turnover).](toc-higher-turnover-than-white-teachers.md) — related
 - [Teachers of color disproportionately teach in schools serving more than 75% students of color and more than 75% students from low-income families](teachers-of-color-concentrated-in-underresourced-schools.md) — related
 - [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related
+- [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](students-of-color-receive-belonging-signals.md) — related

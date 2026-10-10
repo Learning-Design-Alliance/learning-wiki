@@ -49,3 +49,5 @@ The report's state-case analysis of California's policy changes reports that "su
 - [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related
 - [Grade retention, suspensions, and expulsions among youth with an IEP showed little change over the past decade](iep-youth-discipline-retention-little-change-decade.md) — related
 - [Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap](denver-restorative-justice-suspension-gap-narrowed.md) — related
+- [Chicago policy changes coincided with steep drops in suspensions and expulsions for girls of color](chicago-policy-changes-reduced-suspensions-expulsions.md) — a narrower finding that bears on this claim
+- [Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100](massachusetts-chapter-222-reduced-black-girls-suspensions.md) — related

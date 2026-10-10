@@ -40,6 +40,7 @@ The brief recommends that schools and the state prioritize efficiently screening
 
 - [Provide more intensive literacy interventions and supports for at-risk students in later grades](more-intensive-literacy-supports-later-grades.md)
 - [Provide school-level supports and resources to schools with many traditionally underserved students and broader challenges to learning opportunities](school-level-supports-opportunity-gaps.md)
+- [Target tutoring equity by prioritizing underserved students and using culturally reflective curriculum and formative data](equity-focused-tutoring-targeting.md)
 
 ## Examples
 -

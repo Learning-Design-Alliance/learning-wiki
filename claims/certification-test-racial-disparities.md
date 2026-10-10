@@ -66,3 +66,4 @@ Secondhand report of edTPA (2015) results, which the review says "demonstrated a
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
 - [Teacher licensure exams disproportionately fail teacher candidates of color without predicting teaching effectiveness](licensure-exams-disparate-fail-rates-no-effectiveness-prediction.md) — possibly the same claim (merge candidate)
 - [Racial disparities in TPA pass rates appear in low-performing programs but not in programs with passing rates above 90%](racial-disparities-vary-with-program-performance.md) — related
+- [New York City teachers fail state certification examinations at far higher rates than teachers elsewhere in New York State](nyc-teachers-fail-licensure-exams-higher-rates.md) — related

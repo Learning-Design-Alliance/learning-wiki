@@ -56,3 +56,4 @@ The chapter's concluding interpretive statement asserts that findings on disenga
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — a narrower finding that bears on this claim
 - [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md) — a narrower finding that bears on this claim
 - [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — a narrower finding that bears on this claim
+- [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — related

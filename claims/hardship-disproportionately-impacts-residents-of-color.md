@@ -66,3 +66,4 @@ Spring 2021 Partnership Team survey (68% response rate): "financial barriers wer
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related
 - [School climate negatively shapes students of color's perceptions of teaching as a career, a factor beyond the original literature scan](school-climate-deters-soc-from-teaching.md) — related
 - [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — related
+- [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — related

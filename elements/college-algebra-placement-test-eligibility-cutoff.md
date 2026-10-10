@@ -49,6 +49,7 @@ A college algebra placement test served as the gatekeeper instrument in the stud
 ## Examples
 
 - [Enroll college-ready high school students in rigorous dual enrollment college algebra classes to support college entry and completion](../strategies/rigorous-dual-enrollment-college-algebra-strategy.md)
+- [Use multiple measures, not single test cut scores, to determine eligibility for dual credit courses](../strategies/multiple-measures-dc-placement.md)
 
 ## Key Sources
 - Cecilia Speroni. (2011). High School Dual Enrollment Programs: Are We Fast-Tracking Students Too Fast? National Center for Postsecondary Research. https://www.mathematica.org/publications/high-school-dual-enrollment-programs-are-we-fast-tracking-students-too-fast

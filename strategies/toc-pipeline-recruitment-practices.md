@@ -50,6 +50,15 @@ The report's Promising Practices section describes four approaches to building t
 - [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
 - [Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance](leandro-sequenced-investment-action-plan-strategy.md)
 - [Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply](grow-your-own-residency-pathways-strategy.md)
+- [Build an after-school/OST-to-teaching pipeline to recruit teachers of color](after-school-ost-teacher-pipeline.md)
+- [Build an after-school/out-of-school-time pipeline into teaching to diversify the teacher workforce](after-school-ost-teacher-pipeline-strategy.md)
+- [Invest in recruiting and retaining a diverse, EL-qualified educator workforce through bilingual teaching pathways](bilingual-teacher-pathways-diverse-el-workforce.md)
+- [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
+- [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
+- [Build diverse school leader pipelines through HBCU/HSI preparation partnerships, transparent diversity data, equitable hiring supports, affinity networks, and Grow Your Own teacher pathways](georgia-leader-diversity-pipeline-strategies.md)
+- [Form partnerships with community organizations, higher education, and CTE programs to expand emergency staffing and build the talent pipeline](partnerships-for-staffing-pipeline.md)
+- [Six state-level strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
+- [Strengthen teacher pipelines and remove biased promotion barriers to build the principal pipeline](strengthen-teacher-pipelines-principal-pipeline.md)
 
 ## Examples
 -

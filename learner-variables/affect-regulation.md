@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (33 for, 6 mixed, 3 against) · 39 studies (12 review, 6 causal, 5 associational, 5 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 6 of 39 report an effect size · 41 claims rest on one study
+> **Evidence** · 43 claims (34 for, 6 mixed, 3 against) · 40 studies (12 review, 6 causal, 6 qualitative, 5 associational, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 6 of 40 report an effect size · 42 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -75,6 +75,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](../claims/aces-toxic-stress-impair-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](../claims/toxic-stress-impedes-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](../claims/security-and-positive-feelings-support-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages](../claims/poor-assessment-practices-harm-students-anxiety-lost-time.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

@@ -46,3 +46,4 @@ A 2024 sample survey of Miami-Dade County coaches reports pre-program satisfacti
 - [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related
 - [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](educators-receptive-to-feedback-and-compensation-strategies.md) — related
 - [Coaches in the pilot expressed commitment to helping peers integrate technology and reported satisfaction with the coaching pilot experience and support from GEEO and the professional learning community](pr-coaching-pilot-coach-satisfaction.md) — related
+- [Charlotte-Mecklenburg’s Strategic Staffing Initiative improved leadership satisfaction and student achievement in struggling schools](strategic-staffing-initiative-outcomes.md) — related

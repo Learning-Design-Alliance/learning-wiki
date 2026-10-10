@@ -58,8 +58,10 @@ Informal play lowers the social cost of experimentation, which supports creative
 5. Close with a brief voluntary share-out or appreciation round to reinforce community, not evaluation.
 
 ## Related Strategies
+
 - [Class Discussion](../elements/class-discussion.md) — a more structured verbal counterpart; jams trade argument for play
 - [Peer Collaboration](../elements/collaborative-learning.md) — jams are an informal enactment of collaborative learning principles
+- [Encourage activities that support positive peer relationships through direct connections, clubs, and sports](peer-relationship-activities-for-wellbeing.md)
 
 ## Examples
 - **[Little Kids Rock](https://www.littlekidsrock.org/)** (now Music Will) — modern band programs built around informal jamming on popular music rather than sequential formal instruction, dramatically broadening participation in school music.

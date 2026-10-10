@@ -49,3 +49,4 @@ Observational analysis of stop-out behavior among CPS graduates in the classes o
 - [Four-year enrollees had stronger academic qualifications than two-year enrollees and non-enrollees, yet many non-enrollees and two-year entrants had credentials sufficient for four-year access](academic-qualifications-vary-by-enrollment-status.md) — related
 - [Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value](continuous-enrollment-semesters-completion-gradient.md) — related
 - [A majority of NFTE alumni respondents were attending or had finished college, and 91 percent of college finishers completed a four-year degree or higher](nfte-alumni-majority-college-enrollment.md) — related
+- [Former students who dropped out want colleges to proactively invite them to return and explain how to return](noncompleters-want-proactive-return-outreach.md) — related

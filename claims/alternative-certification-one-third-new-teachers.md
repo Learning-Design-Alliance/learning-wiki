@@ -50,3 +50,4 @@ The report's introductory section states the scale of alternative certification,
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
 - [Teachers of color were nearly twice as likely as White teachers to have entered teaching through an alternative certification route in 2020–21](teachers-of-color-alternative-route-entry.md) — related
+- [Alternative-route teacher certification enrollment has grown rapidly nationally and in Michigan, where just over 40% of candidates were in alternative programs by 2023](alternative-route-enrollment-growth-michigan-national.md) — related

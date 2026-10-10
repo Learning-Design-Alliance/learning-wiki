@@ -47,3 +47,6 @@ Descriptive analysis of CPS administrative attendance records for the population
 - [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related
 - [Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal](grades-rose-tests-attendance-fell.md) — related
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
+- [Chronic absenteeism roughly doubled nationwide to about 16 million students after the pandemic](chronic-absenteeism-doubled-nationwide-pandemic.md) — related
+- [Sierra Middle School students reporting a caring adult who regularly checks on them rose from 4% to 31% over three years](sierra-caring-adult-reports-rose-4-to-31-percent.md) — related
+- [Chronic absence in West Kern Consortium schools dropped 9 percentage points from its 2021–22 peak, with large district-level reductions](west-kern-chronic-absence-reduction.md) — related

@@ -51,3 +51,4 @@ Descriptive analysis of national teacher survey data on student loan borrowing, 
 - [The larger enrollment decline at HBCUs corresponded to the larger decline in PLUS recipients at those institutions](enrollment-decline-corresponds-to-plus-recipient-decline.md) — related
 - [HBCU enrollment continued to decline in 2013-14 despite the partial rebound in PLUS loans](hbcu-enrollment-continued-declining-2013-14.md) — related
 - [Declines in PLUS loans at HBCUs in 2012-13 were not fully replaced by other types of federal financial aid](plus-declines-not-fully-replaced-other-aid.md) — related
+- [Low-income students and students of color disproportionately rely on Grad PLUS loans](grad-plus-reliance-disproportionate-low-income-students-color.md) — related

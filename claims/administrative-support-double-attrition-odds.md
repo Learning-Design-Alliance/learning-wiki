@@ -46,3 +46,4 @@ The report's analysis of Schools and Staffing Survey and Teacher Follow-Up Surve
 - [Teachers who strongly disagree that their administration is supportive are more than twice as likely to leave as those who strongly agree](administrative-support-strongest-turnover-predictor.md) — possibly the same claim (merge candidate)
 - [Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay](working-conditions-drive-teacher-exit-decisions.md) — related
 - [Dissatisfaction is the most-cited reason for leaving, cited by 55% of profession-leavers and 66% of school-movers](dissatisfaction-top-reason-for-turnover.md) — related
+- [New teachers who feel supported and valued are reported to have up to 48% lower chances of leaving their position](supported-valued-new-teachers-lower-leaving.md) — related

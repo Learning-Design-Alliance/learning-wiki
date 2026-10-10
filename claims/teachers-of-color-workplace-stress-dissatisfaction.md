@@ -47,3 +47,4 @@ Descriptive analysis of teacher satisfaction indicators by race/ethnicity from t
 - [Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties](toc-workplace-racism-invisible-tax.md) — related
 - [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — related
 - [Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating.](biased-teacher-evaluations.md) — related
+- [All students, regardless of race or ethnicity, benefit socially, emotionally, and academically from a diverse teacher workforce, while teachers of color experience burnout and leave the profession at higher rates than their White peers](diverse-teacher-workforce-benefits-all-students.md) — related

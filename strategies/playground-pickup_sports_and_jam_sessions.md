@@ -59,9 +59,11 @@ Informal play contexts support skill acquisition through high-volume, self-paced
 5. **Close with light reflection.** A brief debrief (what worked, who solved what problem) converts play experience into articulable knowledge, consistent with [Active Learning](../principles/active-learning.md) principles.
 
 ## Related Strategies
+
 - [Deliberate Play](deliberate-play.md) — the developmental framework (Côté's sport model) that positions informal games as a precursor to deliberate practice
 - [Free Play](free-play.md) — the broader unstructured play category this strategy operationalizes
 - [Cooperative Learning](cooperative-learning.md) — shares the small-group, interdependent structure but with assigned roles and accountability
+- [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 
 ## Examples
 - **Music Will (formerly Little Kids Rock)** — US nonprofit whose "music as a second language" pedagogy centers classroom jam sessions on popular instruments rather than sequential formal instruction. [https://www.musicwill.org](https://www.musicwill.org)

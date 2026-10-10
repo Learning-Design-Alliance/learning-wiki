@@ -49,3 +49,5 @@ Interview finding from the 10-SEA study. The article reports that districts with
 - [SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies.](seas-leverage-essa-requirements-to-define-roles.md) — related
 - [Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind.](districts-emphasized-over-seas-in-essa-plans.md) — related
 - [The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans.](sea-resource-role-most-emphasized.md) — related
+- [Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact](sea-data-use-for-support-refinement-nascent.md) — related
+- [SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools](sea-shift-compliance-to-support-capacity-building.md) — related

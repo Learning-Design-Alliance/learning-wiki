@@ -48,3 +48,5 @@ Descriptive analysis of Texas Education Agency newly certified and new teacher h
 - [The share of uncertified teachers in the Texas teacher workforce more than tripled between 2019–20 and 2024–25, reaching 12%](texas-uncertified-teacher-share-tripled.md) — a broader claim this one bears on
 - [More than 8,500 uncertified FTE teachers were in K–5 English language arts and math positions in 2024–25, and roughly 23,000 uncertified FTE were in foundational subjects that must be certified by 2027–28](uncertified-fte-foundational-subjects-hb2.md) — related
 - [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — a broader claim this one bears on
+- [Noncertified Texas teachers show the sharpest retention decline, with fewer than 40% still teaching after 5 years](noncertified-sharpest-retention-decline.md) — related
+- [The share of uncertified teachers among new Texas entrants rose from 16% in 2018–19 to 49% in 2023–24](texas-uncertified-new-teacher-share-rising.md) — possibly the same claim (merge candidate)

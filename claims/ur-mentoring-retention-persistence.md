@@ -47,3 +47,4 @@ Narrative review statement in the Benefits section, attributed by the article to
 - [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — related
 - [First-year seminars populated by major or advisor show higher retention than unconnected seminars](fys-major-advisor-linkage-higher-retention.md) — related
 - [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](faculty-mentors-pivotal-responsible-research-development.md) — related
+- [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](west-kern-student-climate-survey-outcomes.md) — related

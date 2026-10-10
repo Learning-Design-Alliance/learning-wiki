@@ -47,3 +47,4 @@ Descriptive financial-model findings from the Financial Model section: roughly $
 - [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related
 - [Alder nearly doubled the proportion of enrolled residents from historically underrepresented groups, from 45% in 2010–11 to 83% in 2022–23](alder-underrepresented-enrollment-growth.md) — related
 - [Most residents from the first TRGP cohort were still teaching three years later](trgp-residents-retained-88-percent.md) — related
+- [Only 6 of 24 TRGP-participating IHEs enrolled at least 20 TRGP-funded residents in 2022-23, below the cohort size experts suggest is needed for sustainable, affordable programs](ihe-resident-cohorts-below-sustainability-threshold.md) — related

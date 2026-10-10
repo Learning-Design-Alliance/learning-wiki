@@ -45,3 +45,4 @@ Cluster QED with two cohorts of community college students taking developmental 
 - [In an RCT, DCMP significantly increased completion of the developmental math sequence and passing of college-level math](dcmp-rct-rutschow-developmental-outcomes.md) — related
 - [DCMP has positive effects on progressing in college, based on two studies meeting WWC standards](dcmp-positive-effects-progressing-college.md) — a broader claim this one bears on
 - [DCMP has positive effects on progressing in developmental education, based on three studies meeting WWC standards](dcmp-positive-effects-progressing-developmental-education.md) — related
+- [Developmental education is a major loss point: 60 percent of community college students are referred to developmental education but only 30 percent ever take subsequent college-level courses](developmental-education-loss-point-60-30.md) — related

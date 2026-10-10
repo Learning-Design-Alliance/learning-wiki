@@ -50,3 +50,4 @@ The article's stated focus for its nine rural SIG schools includes presenting "f
 - [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — related
 - [A Alabama coalition's provider-recruitment effort coincided with FCPK access rising from 7.9% to 21.4% of children in central Alabama between 2014 and 2018](bold-goals-coalition-fcpk-access-increase.md) — related
 - [Most surveyed districts used federal recovery funds to recruit and retain teachers, including creating new positions that increased staffing needs](recovery-funds-new-positions-shortages.md) — related
+- [Rural schools report school nurse shortages at more than twice the urban rate](rural-school-nurse-shortage-rate.md) — related

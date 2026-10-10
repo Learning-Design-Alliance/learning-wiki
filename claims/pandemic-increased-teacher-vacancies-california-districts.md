@@ -48,3 +48,6 @@ Open-ended survey of 12 California districts (eight largest plus four small rura
 - [Staffing challenges persisted for state preschool and Head Start classrooms, with vacancy rates of 5% and 11% that increased from the prior year](cspp-head-start-vacancies-increased.md) — related
 - [Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20](underprepared-teacher-hiring-increased.md) — related
 - [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — a broader claim this one bears on
+- [77% of school principals and district leaders reported challenges hiring enough substitute teachers during the pandemic, more than for any other staffing position](77-percent-principals-substitute-hiring-challenges.md) — related
+- [Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22](michigan-vacancy-data-underreporting.md) — related
+- [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related

@@ -44,3 +44,4 @@ Instructor interviews across the 10 case study institutions. "Case study intervi
 
 ## Related Claims
 - [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](covid-stem-collaboration-reduced-remote.md) — related
+- [Students struggle to manage math assignments alongside busy schedules, and faculty need efficient grading, due-date, and extension tools](task-time-management-gateway-math.md) — related

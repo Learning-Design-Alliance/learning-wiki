@@ -47,3 +47,4 @@ Descriptive analysis in the report's background section enumerates challenges of
 - [The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers](frontline-ecosystem-siloed-data-flow.md) — related
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
+- [Child care providers interviewed during COVID-19 identified four key challenge areas: accessing funding, supporting health and safety, connecting supply and demand, and retaining workers](child-care-providers-four-key-challenge-areas.md) — related

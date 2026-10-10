@@ -64,3 +64,5 @@ The brief reports, citing Blazar's California district study, that grade switchi
 ## Related Claims
 - [Teacher improvement is fastest in the first five years of teaching](experience-gains-fastest-first-five-years.md) — related
 - [Teachers whose colleagues are more experienced improve more quickly, with novices benefiting most](peer-experience-spillover-teacher-improvement.md) — related
+- [Teachers' effectiveness increases at a greater rate in supportive, collegial working environments and when they accumulate experience in the same grade level, subject, or district](experience-gains-greater-in-supportive-environments.md) — a broader claim this one bears on
+- [In a North Carolina high school study with teacher fixed effects, achievement returns to experience rose up to 20 years, from about 0.06 SD at 1–2 years to about 0.27 SD beyond 27 years](north-carolina-high-school-returns-twenty-years.md) — related

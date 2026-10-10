@@ -62,6 +62,7 @@ Icebreakers work by accelerating the interpersonal familiarity that would otherw
 - [Class Discussion](../elements/class-discussion.md) — icebreakers establish the participation norms discussion depends on
 - [Team-building](cooperative-learning.md) — extended activities for groups who will collaborate over a term
 - [Use paired interviews early in a group's life to build connections and surface participant information](paired-interviews-early-group-bonding.md)
+- [Slow the pace of the first week or two of a corequisite course pair](slow-early-pace-first-weeks.md)
 
 ## Examples
 - **Content-linked first-day pairs:** in an introductory statistics course, pairs interview each other about "a decision you made using data," then report the partner's answer — building familiarity while surfacing prior conceptions of statistics.

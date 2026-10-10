@@ -51,3 +51,4 @@ The source is a report on an online learning community at Zhejiang Normal Univer
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
 - [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](ongoing-pd-mentorship-critical-coach-growth.md) — related
+- [Participating in scoring performance assessments builds teacher capacity in several ways](scoring-activities-build-teacher-capacity.md) — related

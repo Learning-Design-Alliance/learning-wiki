@@ -50,3 +50,4 @@ The review's own moderator analysis plan (age, gender, screen size, dosage, SAMR
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - [Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device](mobile-devices-small-positive-effect-literacy-numeracy.md) — related
+- [No specific coaching dosage is established as necessary; coaching outcomes appear more sensitive to coaching quality than dosage, with sustained duration favoring comprehensive coaching](coaching-dosage-quality-over-quantity.md) — related

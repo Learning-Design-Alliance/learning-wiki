@@ -47,6 +47,7 @@ The guide's overarching framework holds that advising is most effective when int
 
 - [Student needs assessment template for designing comprehensive advising](../elements/student-needs-assessment-template-advising.md)
 - [Use NACADA's structuring factors to situate advising as a core institutional function](../strategies/nacada-factors-restructuring-advising-strategy.md)
+- [Integrate layered student support services across the transitions from middle and high school, into college, and through college](../strategies/promise-student-support-services-transitions.md)
 
 ## Key Sources
 - Karp, M., Ackerson, S., Cheng, I., Cocatre-Zilgien, E., Costelloe, S., Freeman, B., Lemire, S., Linderman, D., McFarlane, B., Moulton, S., O'Shea, J., Porowski, A., & Richburg-Hayes, L. (2021). Effective advising for postsecondary students: A practice guide for educators (WWC 2022003). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/28

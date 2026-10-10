@@ -45,3 +45,6 @@ The report's introduction synthesizes prior integration research, citing benefit
 ## Related Claims
 - [Magnet schools typically show positive effects on achievement, graduation, motivation, and integration, though integration varies widely by district](magnet-schools-positive-effects.md) — related
 - [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — related
+- [Attending racially integrated schools is associated with higher academic achievement and improved long-term educational and economic outcomes for students of color, with no academic harm for white students](integrated-schools-academic-and-long-term-benefits.md) — possibly the same claim (merge candidate)
+- [Racially diverse schools show stronger achievement for historically underserved groups and positive effects on critical thinking, intergroup relationships, and civic engagement](racially-diverse-schools-benefits-underserved-achievement.md) — related
+- [Whole school magnets and magnets without selective admissions policies have generally been found more effective at integration that supports achievement gains](whole-school-magnets-more-effective-integration.md) — a narrower finding that bears on this claim

@@ -47,3 +47,4 @@ Case study data: a biology student described retaining little across 20-minute v
 - [Pre-reflective students initially reacted negatively to the lecture-free course but the restructure fostered growth in their reflective judgment](pre-reflective-students-growth-in-restructured-course.md) — related
 - [Highly reflective students often viewed the lecture-free restructured course negatively, as unchallenging and lacking in content](highly-reflective-students-found-restructured-course-unchallenging.md) — related
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
+- [Students in the focus group and interviews described home learning environments during the pandemic as, for some, more responsive to their needs than school environments](students-describe-home-environments-more-responsive-than-school.md) — related

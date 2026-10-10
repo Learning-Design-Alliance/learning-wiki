@@ -59,9 +59,11 @@ Diverse text selection alone is insufficient; the empathy and intergroup-attitud
 6. **Iterate.** Re-audit each term; treat curation as ongoing, not a one-time fix.
 
 ## Related Strategies
+
 - [Building Empathy](../principles/building-empathy.md) — the primary affective outcome this strategy operationalizes through text selection and discussion
 - [Case-Based Learning](../patterns/case-based-learning.md) — cases function as sliding glass doors into professional and real-world dilemmas
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the structured dialogue format that converts exposure into perspective-taking
+- [Six recommendations for publishers and curriculum decision-makers to improve representational balance](representational-balance-six-recommendations.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the vehicle for shared window texts

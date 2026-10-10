@@ -90,3 +90,4 @@ Chapter 3 descriptive analysis of CPS 2015 graduates' pre-college academic profi
 - [College completion rates among immediate enrollees varied widely by community area, ranging from 24 to 74 percent for the class of 2013](college-completion-varied-widely-by-community-area.md) — related
 - [CPS graduates took more than 6,000 distinct post-secondary paths, so continuous enrollment at one college was not the standard route to a credential](cps-graduates-6000-college-paths.md) — related
 - [College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling](college-mismatch-common-among-chicago-graduates.md) — related
+- [Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years](early-program-entry-linked-to-completion.md) — related

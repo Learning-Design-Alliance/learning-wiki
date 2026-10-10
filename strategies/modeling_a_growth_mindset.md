@@ -61,9 +61,11 @@ Modeling works through social learning: observers extract behavioral standards a
 6. Support teachers in transferring the model to their classrooms, with students observing the same narrated learning behaviors.
 
 ## Related Strategies
+
 - Peer mentoring and coaching cycles — provide the vicarious experience that builds teacher efficacy
 - Collaborative analysis of student work — enacts process-focused feedback norms among staff
 - Classroom think-aloud modeling — the student-facing extension of the same stance
+- [Reinforce growth mindsets through explicit messages plus implicit classroom practices](growth-mindset-explicit-and-implicit-practices.md)
 
 ## Examples
 - A school principal opens each staff meeting by sharing a current professional challenge, what they tried, what failed, and what they are learning — normalizing error analysis at the top of the hierarchy.

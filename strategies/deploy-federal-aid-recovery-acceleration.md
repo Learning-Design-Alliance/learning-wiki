@@ -46,6 +46,8 @@ The webinar recommends that policymakers and education leaders use the pandemic-
 - [Use federal COVID-19 aid, including the American Recovery Plan influx, to transform education for students with disabilities](use-federal-arp-aid-to-support-students-with-disabilities.md)
 - [Multi-pronged policy strategy for COVID-19 learning recovery for BIPOC students](covid-recovery-policy-strategy-bipoc-students.md)
 - [Use federal ESSER and IDEA funding to provide early intervention, extended school year support in the summer, and other evidence-based supports for students with disabilities](esser-idea-funding-swd-recovery-supports.md)
+- [Provide English learner-specific summer learning and staff accelerated learning programs with EL specialists](el-specific-summer-learning-and-el-specialist-staffing.md)
+- [Use one-time federal relief funds for temporary pay incentives, including hazard pay, to retain and attract educators during the pandemic](one-time-relief-funds-pay-incentives.md)
 
 ## Examples
 -

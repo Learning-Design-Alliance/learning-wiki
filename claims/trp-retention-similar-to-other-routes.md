@@ -58,3 +58,5 @@ Multisite study of 30 TRPs and their current and former participants reports ret
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
 - [Teachers with little preparation leave teaching at two to three times the rates of comprehensively prepared teachers](underprepared-teachers-attrition-two-to-three-times.md) — related
 - [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — reports the opposite
+- [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — reports the opposite
+- [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — related

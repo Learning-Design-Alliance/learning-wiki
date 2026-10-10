@@ -56,3 +56,4 @@ Cohort comparison of fall-to-fall MAP Growth gains: the pandemic cohort (fall 20
 - [Projected fall 2020 reading gains for returning students are approximately 63 to 68% of a typical school year's learning gains](covid-closures-projected-reading-gains-63-68-percent.md) — related
 - [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — related
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
+- [AP scores of 3 or higher declined in Massachusetts from 2019 to 2022 for all groups, with a 39-percentage-point gap between White and Black students](ma-ap-proficiency-declined-racial-gap.md) — related

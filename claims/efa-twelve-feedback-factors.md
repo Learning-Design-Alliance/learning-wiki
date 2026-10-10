@@ -64,3 +64,4 @@ From the same exploratory factor analysis reported in the Results section. The a
 ## Related Claims
 - [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](coder-background-varies-feedback-interpretation.md) — related
 - [Some teacher feedback codes commonly co-occur, such as Confirmation with Positive Affect and Mathematical Suggestions with Hints](feedback-codes-co-occurrence-patterns.md) — related
+- [Exploratory factor analysis indicates a four-factor solution best fits the survey response data](efa-four-factor-solution-best-fit.md) — related

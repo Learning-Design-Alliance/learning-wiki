@@ -67,3 +67,4 @@ Score construction following HLM creation of site-level measure scores: each mod
 - [Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization](ece-sample-instructional-support-lowest-class-domain.md) — related
 - [Survey data came primarily from teacher and student surveys conducted in 1994, with school counts varying by measure and wave](survey-waves-1994-primary-school-counts-vary.md) — related
 - [The paper enumerates six essential characteristics of personalized learning](six-essential-characteristics-personalized-learning.md) — related
+- [Exploratory factor analysis indicates a four-factor solution best fits the survey response data](efa-four-factor-solution-best-fit.md) — related

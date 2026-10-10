@@ -50,3 +50,5 @@ The brief asserts, citing prior work (endnote 2), that educator wellbeing contri
 - [Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma](educator-secondary-traumatic-stress-pandemic.md) — related
 - [Teacher mindfulness and stress-management training is linked to gains in educator well-being and self-regulation skills](mindfulness-training-teacher-wellbeing-gains.md) — related
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — related
+- [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](positive-relationships-support-secondary-learning-wellbeing.md) — related
+- [Youth reported positive perceived impacts on healthy relationships (77 percent) and on self-regulation and decision-making (62–66 percent)](project-with-perceived-impact-relationships-self-regulation.md) — related

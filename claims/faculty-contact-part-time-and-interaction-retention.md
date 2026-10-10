@@ -68,3 +68,4 @@ Narrative review attributing this to Lillis (2011), where participants were rand
 - [HackerRank test scores and prior coding experience are significantly associated with increased odds of persistence across both the coursework and apprenticeship phases of the LC101 program](test-scores-prior-coding-experience-predict-lc101-persistence.md) — related
 - [Comprehensive programs offering wraparound support increase college completion rates, including when replicated in other contexts](wraparound-support-increases-college-completion.md) — related
 - [Prior learning assessment is associated with cost and time savings and higher credential completion, yet engagement remains low](pla-benefits-low-engagement.md) — related
+- [Faculty report stretch models are widely seen as effective for developmental writing and function best when the same instructor and student cohort persist across semesters](stretch-models-same-instructor-cohort-across-semesters.md) — related

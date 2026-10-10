@@ -51,3 +51,4 @@ Longitudinal analysis of CPS students linking early attendance patterns to secon
 - [Kindergarten test scores from more than 400,000 U.S. students contain patterns that can predict academic success or identify students at risk of falling further behind by third grade](kindergarten-scores-predict-third-grade-trajectories-400000-students.md) — related
 - [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — a broader claim this one bears on
 - [Students who have experienced three or more ACEs are more likely to experience chronic absenteeism, behavioral problems, and academic failure](three-or-more-aces-absenteeism-behavior-failure.md) — related
+- [Chronically absent students show worse reading, test, suspension, dropout, and postsecondary outcomes](chronic-absence-predicts-poor-outcomes.md) — a broader claim this one bears on

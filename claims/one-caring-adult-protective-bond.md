@@ -44,3 +44,4 @@ The review reports, citing Werner and other protective-factor researchers, that 
 
 ## Related Claims
 - [Prospective longitudinal studies of high-risk children found that a greater percentage became healthy, competent young adults than developed problems](high-risk-children-majority-resilient-longitudinal.md) — related
+- [Teachers report that building trust is the first and most important goal with students in foster care, and that trust precedes willingness to work](trust-first-goal-foster-care-students.md) — a narrower finding that bears on this claim

@@ -37,7 +37,8 @@ RSF schools devoted many months to hiring, and two schools modeled strategic hir
 - Effective implementation of a school's instructional model through teacher quality
 
 ## Related Strategies
-- 
+
+- [Standardize the hiring process with structured interviews, competency-aligned protocols, and performance-based tasks](standardized-structured-hiring-process-strategy.md)
 
 ## Examples
 -

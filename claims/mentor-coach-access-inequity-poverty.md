@@ -48,3 +48,5 @@ NAESP-LPI survey subgroup analysis reported in the authentic learning findings s
 - [Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content](principals-lack-authentic-job-embedded-learning.md) — related
 - [Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring](limited-access-job-based-principal-learning.md) — related
 - [Most U.S. elementary school principals report access to professional development content identified as important for building leadership capacity](principals-access-pd-content-leadership-capacity.md) — related
+- [School leaders in higher-wealth schools are more likely to attend high-quality principal preparation programs, creating inequitable access](prep-quality-varies-by-school-wealth.md) — related
+- [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related

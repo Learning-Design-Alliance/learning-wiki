@@ -49,3 +49,4 @@ Theme 4 of the focus-group analysis. Participants said colorful, culturally fami
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — a broader claim this one bears on
 - [Decorative Illustrations Do Not Improve Learning](decorative-illustrations-do-not-improve-learning.md) — related
+- [Racial, ethnic, and cultural identity development emerged as the core need for students of color beyond academic subjects](identity-core-of-sead-for-students-of-color.md) — related

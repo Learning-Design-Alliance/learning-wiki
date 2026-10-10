@@ -74,10 +74,12 @@ Wait time converts questioning from rapid recall into genuine thinking time. Row
 4. Follow responses with [Coaching](../elements/coaching.md) prompts ("What's your evidence?") rather than immediate judgment, and close the loop with [Feedback](../elements/assessment.md) that builds on the extended answers.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — institutionalizes wait time by giving every learner a processing partner before public response
 - [Cold Calling](cold-call.md) — pairs with wait time so that calling on non-volunteers happens after adequate thinking time, not instead of it
 - [Questioning Techniques](questioning-techniques.md) — wait time is the temporal half of effective questioning; question quality is the other half
 - [Questioning](../strategies/questioning.md) — wait time is the pacing discipline that makes well-designed questions effective
+- [Slow the pace of the first week or two of a corequisite course pair](slow-early-pace-first-weeks.md)
 
 ## Examples
 - A science teacher pauses at least three seconds after asking a question about a scientific concept, resulting in more students volunteering thoughtful, detailed answers and fewer "I don't know" responses.

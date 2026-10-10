@@ -89,6 +89,7 @@ Participation in setting norms increases students' sense of ownership and buy-in
 - [Action Planning](action_planning.md) — extends shared commitment from conduct norms to learning goals
 - [Manage group conflict constructively by having members observe one another and treat differences as strength](constructive-conflict-management-clg.md)
 - [Model CRA by co-designing course assessment with students through an in-class assessment conversation](co-design-in-class-assessment-conversation.md)
+- [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
 
 ## Examples
 - **Responsive Classroom** (Center for Responsive Schools) — elementary teachers use Interactive Modeling and class meetings to generate "Hopes and Dreams" that become classroom rules: [https://www.responsivereads.com](https://www.responsivereads.com)

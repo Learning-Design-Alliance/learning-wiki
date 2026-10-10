@@ -52,3 +52,4 @@ The authors' interpretation of cognitive science research as applied in the bump
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
+- [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related

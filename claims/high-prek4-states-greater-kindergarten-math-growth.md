@@ -68,3 +68,4 @@ Figure 2 reports the proportion of kindergarten students improving or maintainin
 - [Low and Growing states have nearly identical average math scale scores, but students in Low states are more likely to improve or maintain grade level (64% vs. 60%)](low-vs-growing-states-grade-level-likelihood.md) — related
 - [No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth](no-significant-district-offerings-math-links.md) — related
 - [District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time](district-prek-enrollment-not-associated-entry-skills.md) — related
+- [Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life](early-education-investment-returns-two-to-seventeen-dollars.md) — related

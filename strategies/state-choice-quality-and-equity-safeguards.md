@@ -42,6 +42,7 @@ The report's Key Policy Considerations section lays out implementable state acti
 ## Related Strategies
 
 - [Use centralized enrollment, controlled choice, and transparency systems to ensure equitable access and integration](centralized-enrollment-controlled-choice-transparency.md)
+- [Research and policy attention should now examine PreK program quality and equitable access across racial, ethnic, and linguistic groups, and how families choose among PreK options](examine-prek-quality-equitable-access-and-family-choice.md)
 
 ## Examples
 -

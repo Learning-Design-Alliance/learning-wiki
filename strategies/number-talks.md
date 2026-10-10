@@ -84,6 +84,7 @@ Number Talks operationalize [Active Learning](../principles/active-learning.md) 
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — Number Talks are a tightly structured, math-specific instance
 - [Formative Assessment](../patterns/formative-assessment.md) — the routine doubles as daily evidence of student reasoning
 - [Extend rich student discourse beyond Math Talks and use participation structures and story problems to broaden access and sense-making](extend-discourse-beyond-math-talks.md)
+- [Use low-stakes, multiple-entry warm-ups like \"Which One Doesn't Belong?\" to reduce fear of wrong answers](which-one-doesnt-belong-low-stakes-warmup.md)
 
 ## Examples
 - **Parrino's original routine** — Number Talks developed by Kathy Parrino (Parrino, 1991) as a daily warm-up in her California classroom; the model later popularized by Sherry Parrish's *Number Talks* (2010), which includes grade-banded problem strings and facilitation video.

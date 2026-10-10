@@ -49,3 +49,4 @@ Analysis of TFS 2012–13 leaver and mover reason reports (Figures 4–5, Table 
 - [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
 - [Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992](us-teacher-turnover-15-percent-2021-22.md) — related
 - [Nearly three quarters (74%) of teacher turnover between 2020–21 and 2021–22 was voluntary and preretirement](voluntary-preretirement-turnover-74-percent.md) — related
+- [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](louisiana-teachers-of-color-working-conditions-turnover.md) — a narrower finding that bears on this claim

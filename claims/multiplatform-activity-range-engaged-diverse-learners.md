@@ -48,3 +48,4 @@ Study 2 educator interview in the Virtual Implementation Successes section: one 
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — reports the opposite
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems](students-prefer-technology-enhanced-task-interactivity-animation.md) — related
+- [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related

@@ -44,3 +44,4 @@ The publication reports, as part of a Regional Educational Laboratory Mid-Atlant
 
 ## Related Claims
 - [Two combined features of state school accountability systems make middle schools more likely than other schools to be identified for TSI because of the performance of their students with disabilities](accountability-features-combined-make-middle-schools-more-likely-tsi.md) — related
+- [Supergroup accountability broadens which schools are held responsible for small subgroups but risks recreating averages that mask group differences](supergroup-accountability-benefits-and-risks.md) — related

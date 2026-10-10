@@ -55,8 +55,10 @@ Removing competitive evaluation lowers the social-evaluative threat that deters 
 5. Connect the learner to a community or peer group to sustain participation through social support
 
 ## Related Strategies
+
 - [Practice](../elements/practice.md) — regular, low-stakes practice is the mechanism by which skill and confidence grow
 - [Goal Setting](../elements/goal-setting.md) — personal mastery goals replace competitive outcome goals
+- [Encourage activities that support positive peer relationships through direct connections, clubs, and sports](peer-relationship-activities-for-wellbeing.md)
 
 ## Examples
 - **Skipping, swimming, and gym sessions** — individual activities with self-paced progression and no direct opponent

@@ -45,3 +45,4 @@ Synthesis of the 23 fixed-effects studies in Table 1: 22 of 23 (96%) suggest imp
 ## Related Claims
 - [Teachers continue to improve in their second decade of teaching, though fewer studies find improvement after 15 years](teachers-keep-improving-second-decade.md) — related
 - [Teachers improve faster when they teach the same grade level and subject for multiple years](task-specific-experience-faster-improvement.md) — related
+- [In a North Carolina high school study with teacher fixed effects, achievement returns to experience rose up to 20 years, from about 0.06 SD at 1–2 years to about 0.27 SD beyond 27 years](north-carolina-high-school-returns-twenty-years.md) — a narrower finding that bears on this claim

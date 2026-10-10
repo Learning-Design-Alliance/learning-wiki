@@ -47,3 +47,5 @@ Descriptive analysis of program records for 56 school-based tutoring sites (32 r
 - [Rural SIG schools were more likely than nonrural SIG schools to adopt the transformation model (95 versus 74 percent)](rural-sig-schools-favor-transformation-model.md) — related
 - [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — related
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related
+- [Rural schools report school nurse shortages at more than twice the urban rate](rural-school-nurse-shortage-rate.md) — related
+- [Tennessee's education department notes tutoring during the school day is more effective than before- or after-school programming](tutoring-during-school-day-more-effective.md) — related

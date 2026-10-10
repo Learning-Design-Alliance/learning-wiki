@@ -47,6 +47,11 @@ The report's policy implications section recommends four levers for policymakers
 - [A federal Marshall Plan for Teaching focused on seven areas: compensation, debt-free preparation, high-retention pathways, mentoring, expertise-sharing, school redesign, and accountability](marshall-plan-for-teaching-seven-areas.md)
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
 - [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](tdf-state-policy-actions-career-continuum.md)
+- [Make retaining teachers of color a district priority: compensate the invisible tax and place teachers in cohorts to reduce isolation](district-priority-retaining-teachers-of-color.md)
+- [Districts use financial, personnel management, and working-conditions strategies to recruit and retain teachers, including leadership compensation, mentoring, and collaboration time](district-recruitment-retention-strategy-portfolios.md)
+- [Invest in retention efforts for teachers of color that improve working conditions and provide personal and professional growth opportunities](invest-retain-teachers-of-color.md)
+- [Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates](retain-teachers-of-color-strategies.md)
+- [State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees](state-policy-levers-yearlong-stipended-clinical-preparation.md)
 
 ## Examples
 -

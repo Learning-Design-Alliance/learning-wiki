@@ -37,7 +37,8 @@ In reflecting on their turnaround experience, Horace Mann's principal and superi
 - Building a solid foundation between PK and second grade so children succeed in later tested grades
 
 ## Related Strategies
-- 
+
+- [Designate a senior district leader to oversee turnaround efforts and advocate urgently for low-performing schools](senior-district-turnaround-leader-advocacy.md)
 
 ## Examples
 -

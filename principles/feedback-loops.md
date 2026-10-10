@@ -27,7 +27,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (12 for, 4 mixed, 1 against) · 30 studies (9 quant-synthesis, 8 causal, 6 review, 3 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 30 report an effect size · 8 claims rest on one study
+> **Evidence** · 18 claims (12 for, 5 mixed, 1 against) · 31 studies (9 quant-synthesis, 8 causal, 7 review, 3 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 31 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,7 @@ Claims this page did not cite before, found while converting it, which bear on p
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [~M]: a review of cognitive-load studies about guidance, carried here to how much external feedback an advanced learner needs.
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need](../claims/lvn-generator-feedback-loop-case.md) [+W]: a design case about feedback loops between organisations in product development, a different sense of "feedback loop"; it does not bear on learners' loops. The principle [Prefer feedback loops over one-directional feedback systems](prefer-feedback-loops-over-feedback-systems.md) holds that sense.
 - [Feedback Makes Behaviour Seen Asynchronous](../claims/feedback-makes-behaviour-seen-asynchronous.md) [+W]
+- [Identifying a stage of student learning does not necessarily mean teachers can identify next instructional steps](../claims/noticing-not-enough-next-steps.md) [~W] — attached 2026-10-10 from Jones et al. (2024), which proposed "Feedback should focus on the work or thinking, not the person, and preserve agency with clues rather than complete solutions".
 
 ## Objective and learner-valued goal
 

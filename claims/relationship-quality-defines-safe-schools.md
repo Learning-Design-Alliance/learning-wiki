@@ -74,3 +74,4 @@ The report finds that "disadvantaged schools with high-quality relationships act
 - [Compass Care participants reported trusting relationships with staff that improved students' comfort, safety, and emotional expression at school](compass-care-trusting-relationships-wellbeing.md) — a narrower finding that bears on this claim
 - [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — related
 - [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — related
+- [Students and families of color define success as encompassing social-emotional well-being and competence, not just academic or career outcomes](sead-success-includes-sel-wellbeing.md) — related

@@ -45,3 +45,4 @@ Descriptive analysis of surveys designed and administered by the evaluators to f
 ## Related Claims
 - [Former participants desired more follow-up with their cohort and more support developing talent, managing resources, and cultivating organizational culture](kipp-leadership-participants-desire-more-support.md) — related
 - [Successor Prep school outcomes appeared similar to other KIPP schools, though substantial differences cannot be ruled out](successor-prep-school-outcomes-similar-to-other-kipp-schools.md) — related
+- [Charlotte-Mecklenburg’s Strategic Staffing Initiative improved leadership satisfaction and student achievement in struggling schools](strategic-staffing-initiative-outcomes.md) — related

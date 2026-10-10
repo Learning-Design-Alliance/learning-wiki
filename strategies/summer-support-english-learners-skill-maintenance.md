@@ -42,6 +42,7 @@ The article's forward-looking recommendation drawn from its seasonal findings: b
 - [El Reading Graded Growth Pattern Summer Loss](../claims/el-reading-graded-growth-pattern-summer-loss.md)
 - [Provide summer learning opportunities as a lever for improving educational outcomes for students with disabilities](summer-learning-opportunities-students-disabilities.md)
 - [Offer summer and out-of-school-time programs for current-ELs and dually-identified students](summer-programs-for-els.md)
+- [Provide English learner-specific summer learning and staff accelerated learning programs with EL specialists](el-specific-summer-learning-and-el-specialist-staffing.md)
 
 ## Examples
 -

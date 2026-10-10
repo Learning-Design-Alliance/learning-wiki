@@ -124,3 +124,5 @@ Meta-analysis of 41 studies on parental involvement and academic achievement in 
 - [Individualized homework outperforms non-individualized homework in achievement, attitudes, and conduct](individualized-homework-outperforms-generic.md) — related
 - [Parental focus on compliance harms homework learning, while supporting effort and process helps](parent-compliance-versus-process-support.md) — related
 - [ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report](parentcorps-parent-involvement-rater-mixed.md) — related
+- [Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations](parental-involvement-meta-analyses-effect-sizes.md) — related
+- [Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care](redwood-city-family-engagement-gains-attendance-care.md) — related

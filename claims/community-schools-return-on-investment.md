@@ -45,3 +45,4 @@ The report cites cost analyses, without naming them, finding returns of $3 to $1
 ## Related Claims
 - [Cost-benefit research suggests returns of up to $15 in social value and economic benefits per dollar spent on school-based wraparound services](community-schools-cost-benefit-return.md) — related
 - [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](community-schools-positive-outcomes.md) — related
+- [Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life](early-education-investment-returns-two-to-seventeen-dollars.md) — related

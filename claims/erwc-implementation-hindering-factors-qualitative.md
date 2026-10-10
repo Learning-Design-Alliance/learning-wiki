@@ -50,3 +50,4 @@ Exploratory analysis of open-ended responses from teacher and coach data-collect
 - [Teachers reported that insufficient instructional minutes during the school year prevented them from teaching all required ERWC modules with fidelity](insufficient-instructional-minutes-blocked-full-erwc-coverage.md) — related
 - [Teachers least often taught the aspects of the ERWC curriculum associated with writing and metacognition](teachers-least-often-taught-writing-and-metacognition.md) — related
 - [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
+- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](pacing-calendars-standardized-assessments-impediments.md) — related

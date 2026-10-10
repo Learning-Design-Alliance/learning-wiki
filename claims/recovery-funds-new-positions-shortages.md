@@ -46,3 +46,5 @@ Survey finding from the report's section on district responses: "9 out of 12" di
 - [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — related
 - [Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them](teacher-shortage-retention-not-recruitment-poor-districts.md) — related
 - [Recruitment and retention of teaching staff is an activity integral to school improvement efforts under SIG, and the article presents findings on it in rural schools](staffing-recruitment-retention-integral-sig-improvement.md) — related
+- [77% of school principals and district leaders reported challenges hiring enough substitute teachers during the pandemic, more than for any other staffing position](77-percent-principals-substitute-hiring-challenges.md) — related
+- [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](shortage-subjects-special-education-math-science.md) — related

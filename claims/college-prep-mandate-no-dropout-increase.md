@@ -46,3 +46,4 @@ Authors' interpretation in the Discussion of the null graduation finding from th
 - [Requiring all students to take college-prep ninth-grade courses did not increase dropout or reduce graduation, including for low-ability students](college-prep-all-no-dropout-increase.md) — possibly the same claim (merge candidate)
 - [Overall policy effects were concentrated among the lowest-ability students: larger credit gains but more failures and lower math GPAs, with ninth-grade test scores unaffected](overall-policy-effects-lowest-ability.md) — related
 - [Taking Algebra I instead of remedial math raised Algebra credit attainment but increased failure rates and lowered math grades, with no test-score benefit](algebra-enrollment-raises-credit-and-failure.md) — related
+- [Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates](subject-centered-reform-dropout-risk.md) — related

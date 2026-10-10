@@ -37,7 +37,8 @@ To "level the playing field" so parents across racial, ethnic, and socioeconomic
 - informed, equitable participation in school choice
 
 ## Related Strategies
-- 
+
+- [Research and policy attention should now examine PreK program quality and equitable access across racial, ethnic, and linguistic groups, and how families choose among PreK options](examine-prek-quality-equitable-access-and-family-choice.md)
 
 ## Examples
 -

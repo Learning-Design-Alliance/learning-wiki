@@ -75,10 +75,12 @@ Sustained attention degrades over continuous instructional periods, and physical
 5. Over time, hand the decision to learners — when to take a break and which kind — to build self-monitoring of attentional state [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M]
 
 ## Related Strategies
+
 - [Active Recess](../strategies/active-recess.md) — a longer, unstructured physical activity period serving the same attention-restoration function at the schedule level
 - [Check-ins](../principles/check-ins.md) — social-emotional pauses that can double as brain breaks
 - [Spaced practice scheduling](../claims/spaced-repetition-improves-retention.md) — breaks between study episodes also support spacing effects on retention [+S]
 - [Active learning](../principles/active-learning.md) — a more substantive way to interrupt passive instruction; brain breaks are a lighter-weight option
+- [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 
 ## Examples
 - **[GoNoodle](https://www.gonoodle.com)** — short movement and mindfulness videos designed for classroom brain breaks in elementary settings.

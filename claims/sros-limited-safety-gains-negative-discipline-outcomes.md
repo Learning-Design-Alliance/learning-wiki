@@ -67,3 +67,6 @@ The same national study found negative effects: increased suspensions, expulsion
 - [Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer](disproportionate-discipline-and-sro-placement.md) — related
 - [High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students](school-characteristics-associated-with-sro-retention.md) — related
 - [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — related
+- [Students with disabilities are overrepresented in school discipline: 16 percent of enrollment but 25–28 percent of suspensions and expulsions](disability-discipline-overrepresentation-suspension-expulsion.md) — related
+- [LCFF-induced spending increases reduced suspensions and expulsions, with larger effects for boys and the most pronounced effects for Black students](lcff-spending-reduces-suspension-expulsion-disparities.md) — related
+- [Over 60% of the largest school districts reported zero school-related arrests, and no state had fully met ESSA school-policing report-card requirements](school-policing-data-noncompliance.md) — related

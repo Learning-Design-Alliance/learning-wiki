@@ -50,3 +50,4 @@ Descriptive 50-state policy scan cited in the brief: "32 states and the District
 - [As of fiscal year 2017, 22 states still provided less per-pupil K–12 education funding than in 2008–09](22-states-less-per-pupil-funding-than-2008-09.md) — related
 - [Stakeholders view parcel taxes—the only local revenue option available to California school districts—as inequitable and regressive](parcel-taxes-inequitable-regressive-only-local-option.md) — related
 - [Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions](pit-reliance-makes-education-funding-volatile.md) — related
+- [U.S. school funding is highly inequitable: districts serving the most students of color spend $1,800 less per student, and wealthier districts spend two to three times what the poorest can](us-school-funding-inequity-property-tax-reliance.md) — related

@@ -46,3 +46,5 @@ Regression analysis of district-level data reported in the section on supporting
 - [After accounting for teacher and school characteristics, each $1,000 increase in cost-of-living-adjusted salary is associated with about a 0.34 percentage-point decrease in turnover probability](salary-associated-with-lower-turnover.md) — related
 - [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — a broader claim this one bears on
 - [In 2017, the cost-of-living-adjusted starting teacher salary was higher in rural Utah districts, but the average scheduled teacher salary was lower in rural than non-rural districts](utah-rural-starting-salary-higher-average-lower.md) — related
+- [Michigan's inflation-adjusted teacher salaries fell more than 20% between 1999 and 2019, the second largest decline in the country](michigan-teacher-salary-decline.md) — related
+- [Noncertified Texas teachers show the sharpest retention decline, with fewer than 40% still teaching after 5 years](noncertified-sharpest-retention-decline.md) — related

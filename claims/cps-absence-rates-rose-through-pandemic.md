@@ -48,3 +48,5 @@ Analysis of publicly available CPS district attendance data for students in pres
 - [High school students participated in synchronous remote instruction on more days than they were counted present, suggesting under-minutes rather than full-day absence drove their absences](hs-remote-absence-driven-by-minutes.md) — related
 - [Schools varied considerably in how much their absence rates increased after the pandemic, with some showing little or no change](schools-varied-in-absence-rate-increases.md) — related
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
+- [Chronic absenteeism roughly doubled nationwide to about 16 million students after the pandemic](chronic-absenteeism-doubled-nationwide-pandemic.md) — related
+- [Chronic absence in West Kern Consortium schools dropped 9 percentage points from its 2021–22 peak, with large district-level reductions](west-kern-chronic-absence-reduction.md) — related

@@ -45,6 +45,7 @@ The article recommends learning environments that let learners explore social re
 - [Use equity-oriented extracurricular clubs as spaces for sustained peer dialogue on urgent civic issues](gsa-dialogue-space-civic-issues-strategy.md)
 - [Learning Through Play](learning-through-play.md)
 - [On-country visits where students interact with Aboriginal Elders as experiential learning](on-country-elder-visits-experiential-learning.md)
+- [Encourage activities that support positive peer relationships through direct connections, clubs, and sports](peer-relationship-activities-for-wellbeing.md)
 
 ## Examples
 -

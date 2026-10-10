@@ -44,3 +44,4 @@ The report's component analysis of CIS case management in targeted schools in 20
 
 ## Related Claims
 - [There is little evidence that math and reading specialists, one Turnaround Strategy component in targeted schools, had an impact on academic outcomes](aps-specialist-support-little-impact-evidence.md) — related
+- [Communities in Schools case management showed no achievement differences but significant attendance and relationship effects](cis-case-management-no-achievement-gains-attendance-gains.md) — reports the opposite

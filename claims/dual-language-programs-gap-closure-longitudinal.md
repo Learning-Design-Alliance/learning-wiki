@@ -44,3 +44,4 @@ The article reports, citing Collier and Thomas (2017), that "all student groups 
 
 ## Related Claims
 - [High L2 achievers in immersion programs show IQ gains, consistent with a higher threshold of bilingual competence](high-l2-achievers-show-iq-gains-in-immersion.md) — related
+- [Dual language learners especially benefit from high-quality early care and dual language immersion programs, and multilingualism is associated with cognitive, linguistic, social, and cultural strengths](dual-language-learners-benefit-from-immersion-programs.md) — a broader claim this one bears on

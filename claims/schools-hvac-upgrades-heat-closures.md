@@ -46,3 +46,4 @@ Contextual statement in the brief's description about aging school infrastructur
 - [Many U.S. schools face major budget and infrastructure challenges related to severe weather](schools-face-budget-infrastructure-challenges-severe-weather.md) — a broader claim this one bears on
 - [Heat effects on student performance may be more extreme for students in high-poverty schools where cooling conditions may be less reliable](heat-effects-more-extreme-high-poverty-schools-cooling.md) — related
 - [Students in high-poverty schools face the greatest impact from hot test days](high-poverty-schools-greatest-heat-impact.md) — related
+- [A Georgia study found retrofitting diesel school buses to reduce emissions improved student academic performance](bus-retrofit-academic-performance.md) — related

@@ -51,3 +51,4 @@ Qualitative case studies of 28 STEM courses at nine institutions; interviews and
 - [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](long-recorded-lectures-impeded-focus.md) — related
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](hero-elementary-training-discussion-facilitation-online-resources-challenge.md) — related
+- [QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses](active-learning-pedagogies-qr-redesign.md) — related

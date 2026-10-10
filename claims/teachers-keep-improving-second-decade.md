@@ -46,3 +46,4 @@ The brief's synthesis of 23 longitudinal studies using teacher fixed effects, su
 ## Related Claims
 - [Teacher improvement is fastest in the first five years of teaching](experience-gains-fastest-first-five-years.md) — related
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
+- [Teaching experience is positively and significantly associated with student achievement gains throughout a teacher's career, per a review of 30 studies](teaching-experience-positive-achievement-gains-review.md) — a broader claim this one bears on

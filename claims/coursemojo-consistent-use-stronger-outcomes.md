@@ -47,3 +47,4 @@ Dose–outcome association reported within the Tennessee study: "Stronger outcom
 - [Coursemojo qualifies for a Moderate evidence rating based on positive ELA impacts across two studies](coursemojo-moderate-evidence-rating.md) — related
 - [Coursemojo use was associated with higher STAAR reading and NWEA MAP scores in a Texas quasi-experiment](coursemojo-tx-reading-gains.md) — related
 - [Coursemojo use narrowed achievement gaps for students with disabilities and economically disadvantaged students in Tennessee](coursemojo-gap-narrowing-tn.md) — related
+- [Tennessee's education department notes tutoring during the school day is more effective than before- or after-school programming](tutoring-during-school-day-more-effective.md) — related

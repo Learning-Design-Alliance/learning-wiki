@@ -44,6 +44,7 @@ The article describes Compass Care staff as family advocates and liaisons who br
 ## Related Strategies
 
 - [SIG-funded parent liaisons paired with structured parent contact practices to increase family engagement](parent-liaison-structured-contact-rural-schools.md)
+- [Assign a compensated navigator to each family to connect English learner households with learning and support services](family-navigators-for-english-learners.md)
 
 ## Examples
 -

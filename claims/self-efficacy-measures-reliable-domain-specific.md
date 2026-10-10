@@ -69,3 +69,4 @@ Validity discussion of construct validity: self-efficacy for long division corre
 - [The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established](eeebi-instrument-preliminary-promise.md) — related
 - [Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60](style-scale-correlations-and-observer-agreement.md) — related
 - [Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM](math-teachers-data-use-attitudes-self-efficacy.md) — related
+- [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — a narrower finding that bears on this claim

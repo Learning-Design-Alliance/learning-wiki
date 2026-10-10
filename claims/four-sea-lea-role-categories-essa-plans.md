@@ -49,3 +49,4 @@ Document analysis by CST staff of 23 state ESSA plans approved in 2017–18 and 
 - [SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies.](seas-leverage-essa-requirements-to-define-roles.md) — related
 - [SEA staff describe their role as providing both support and accountability to LEAs, and describe struggling to balance the two.](seas-balance-support-and-accountability.md) — related
 - [SEAs differentiate support to districts based on the number of CSI/TSI-identified schools, district capacity, and district willingness to engage.](seas-differentiate-support-by-district-characteristics.md) — related
+- [SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools](sea-shift-compliance-to-support-capacity-building.md) — related

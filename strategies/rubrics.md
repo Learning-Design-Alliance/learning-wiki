@@ -73,6 +73,7 @@ Rubrics make quality criteria explicit *before* performance, converting assessme
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](three-part-rubric-maker-assessment.md)
 - [Use component-level checklists for lesson planning and rubric design](checklists-for-lesson-planning-and-rubrics.md)
 - [Prepare for rising demand for assessment tools and embedded assessment models in maker learning](prepare-for-rising-maker-assessment-demand.md)
+- [Use performance assessments in conjunction with selected-response items, counting enough toward final scores to matter](performance-plus-selected-response-balance.md)
 
 ## Related Elements
 - [Provide Feedback](../elements/provide-feedback.md) — rubric descriptors make feedback specific and criterion-referenced rather than evaluative

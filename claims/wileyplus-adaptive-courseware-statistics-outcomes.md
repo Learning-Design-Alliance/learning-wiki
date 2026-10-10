@@ -49,3 +49,4 @@ Observational comparison of course completion data across fall 2019 (N = 102) an
 - [Instructors in their second or subsequent term using Lumen One made greater use of six of seven instructor-facing courseware components than first-term users.](instructor-facing-use-increases-repeated-terms.md) — related
 - [About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness](instructor-involvement-supports-courseware-use.md) — related
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related
+- [Courseware can bridge gateway math learning gaps through tailored tutorials, study tools, diagnostics, and targeted practice](courseware-bridges-learning-gaps-gateway-math.md) — related

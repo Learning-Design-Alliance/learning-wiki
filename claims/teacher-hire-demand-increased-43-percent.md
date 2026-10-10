@@ -47,3 +47,6 @@ Analysis of CDE staffing and enrollment data attributes increased demand partly 
 - [California issued more than 13,000 intern credentials, permits, and waivers in 2017–18, nearly triple the 2012–13 number](california-substandard-credentials-tripled-2012-2018.md) — related
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
 - [Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students](substandard-credentials-unequal-district-distribution.md) — related
+- [California TPP completers applying for preliminary credentials increased 35% between 2016–17 and 2020–21, with the largest increases among multiple subject credential earners and private institutions](california-tpp-completers-increased-35-percent.md) — related
+- [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
+- [Districts attribute shortages chiefly to a shrinking supply of newly credentialed teachers, cited by 79% of shortage districts](shrinking-teacher-supply-top-cited-shortage-cause.md) — related

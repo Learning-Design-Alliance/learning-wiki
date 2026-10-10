@@ -64,3 +64,5 @@ Descriptive analysis of 2018–19 suspension data. The report states the 15% fos
 ## Related Claims
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
 - [Students in foster care were consistently about three times more likely to be suspended than all other student groups, with rates reverting to pre-pandemic levels by 2022–23](foster-care-suspension-three-times.md) — related
+- [Chronically absent students show worse reading, test, suspension, dropout, and postsecondary outcomes](chronic-absence-predicts-poor-outcomes.md) — related
+- [Chronic absenteeism roughly doubled nationwide to about 16 million students after the pandemic](chronic-absenteeism-doubled-nationwide-pandemic.md) — related

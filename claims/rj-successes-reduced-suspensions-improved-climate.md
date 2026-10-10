@@ -81,3 +81,4 @@ Interview findings on school climate: experts "frequently stated that the ways R
 - [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](restorative-practices-improve-safety-climate-achievement.md) — related
 - [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — related
 - [Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers](suspension-ineffective-harms-peers.md) — related
+- [Chicago policy changes coincided with steep drops in suspensions and expulsions for girls of color](chicago-policy-changes-reduced-suspensions-expulsions.md) — related

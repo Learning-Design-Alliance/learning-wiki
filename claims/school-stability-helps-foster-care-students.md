@@ -47,3 +47,4 @@ Expert-interview report section on school mobility, school type, and school succ
 - [Preliminary evidence cited by experts indicates residential placement type is not correlated with educational outcomes for children in foster care](placement-type-not-correlated-school-success.md) — related
 - [Arizona students in foster care changed schools during the school year at about four times the rate of other students](foster-care-high-school-mobility-arizona.md) — related
 - [School stability for students in foster care improved from 62 percent to 66 percent but remained far below the roughly 90 percent rate of other groups](foster-care-school-stability-lower.md) — related
+- [Teachers' wish lists center on faster notification and paperwork, streamlined school procedures, partial-credit fixes, school stability across placements, and community strengthening of foster parenting](teacher-wish-lists-foster-care-support.md) — related

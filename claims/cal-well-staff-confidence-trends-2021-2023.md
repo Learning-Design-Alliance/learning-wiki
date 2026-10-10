@@ -47,3 +47,4 @@ Figure 2 of the brief reports School Staff Survey trends in percent reporting "v
 - [Staff agreement that schools provide adequate counseling and support services rose from 59 percent in 2021 to 70 percent in 2023](cal-well-staff-adequate-services-59-to-70-percent.md) — related
 - [From fall 2020 through December 2023, 78 percent of the 969 students referred to mental health services in PUSD received services](pusd-referred-students-service-access-rate.md) — related
 - [From fall 2020 through December 2023, 79 percent of the 828 students referred to mental health services in NHUHSD received services from school-based or community-based providers](nhuhsd-79-percent-referred-students-received-services.md) — related
+- [Nearly 70% of school principals said they could not meet students' growing pandemic-era mental health needs with existing staff](70-percent-principals-mental-health-staffing-gap.md) — related

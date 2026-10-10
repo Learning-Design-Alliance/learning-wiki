@@ -44,3 +44,4 @@ The report's synthesis of 4 cost-benefit studies of community school initiatives
 
 ## Related Claims
 - [Cost analyses find community schools return $3 to $15 for every dollar spent](community-schools-return-on-investment.md) — related
+- [Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life](early-education-investment-returns-two-to-seventeen-dollars.md) — related

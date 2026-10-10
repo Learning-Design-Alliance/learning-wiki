@@ -68,3 +68,4 @@ Descriptive analysis (appendix table B2) shows administration at 36 percent, fol
 - [Multiple workforce factors contributed to the growth of alternative teacher certification programs](factors-driving-alternative-certification-growth.md) — related
 - [Residencies prepare teachers for high-need subjects and schools, with most NCTR-network graduates hired in shortage fields and Title I schools](residencies-fill-high-need-positions.md) — related
 - [In 2015–16, 48 states plus DC reported special education teacher shortages, 42 reported mathematics shortages, and 40 reported science shortages](state-subject-area-shortage-counts-2015-16.md) — related
+- [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](shortage-subjects-special-education-math-science.md) — related

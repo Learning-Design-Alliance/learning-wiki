@@ -55,3 +55,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - [Participation supports were most effective when deliberately matched to the specific constraints participants faced](supports-matched-to-barriers.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — possibly the same claim (merge candidate)
+- [Structural and fiscal conditions—including grade-3 class-size incentive cliffs and declining enrollment—jeopardize the bilingual teacher pipeline and program sustainability](structural-fiscal-risks-bilingual-pipeline-sustainability.md) — related
