@@ -45,3 +45,4 @@ Qualitative online user study with moderated think-aloud sessions and semi-struc
 ## Related Claims
 - [Interview respondents identify collaborative relationships, trust in evidence and its users, clarity on research types, and supportive leadership as facilitators of evidence use](interview-facilitators-evidence-use.md) — related
 - [Making year-over-year change salient helped users identify which schools improved most but lowered usability and satisfaction ratings](year-over-year-salience-mixed-effects.md) — related
+- [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related

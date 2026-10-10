@@ -50,3 +50,4 @@ Bootstrap mediation analysis (5,000 resamples) in the SEM of 360 students; the e
 - [The dual-appraisal model explains 42.7% of variance in trust in AI and 45.9% of variance in GenAI dependence](dual-appraisal-model-explained-variance-trust-dependence.md) — related
 - [Trust in AI is positively associated with university students' dependence on GenAI](trust-in-ai-positively-associated-genai-dependence.md) — related
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
+- [Perceived trust mediates the relationship between social influence and generative AI dependence](trust-mediation-social-influence-ai-dependence.md) — related

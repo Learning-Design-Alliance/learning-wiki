@@ -55,3 +55,4 @@ Test-set evaluation of three classifiers trained on 104 Coh-Metrix indicators pl
 - [NLP models in LA studies typically reach moderate agreement (mean Cohen's kappa 0.54) and mean accuracy 0.79, with deep learning models outperforming others in most studies from 2021 onward](nlp-la-performance-kappa-accuracy-benchmarks.md) — related
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — reports the opposite
 - [Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation](conflict-seed-induces-deeper-reflection.md) — related
+- [Agent-generated descriptions significantly improve prediction of student dropout in a lesson, outperforming all other measured approaches](agent-descriptions-improve-dropout-prediction.md) — related

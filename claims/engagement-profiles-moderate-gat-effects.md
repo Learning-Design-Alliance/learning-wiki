@@ -49,3 +49,4 @@ Exploratory k-means clustering (k=3) on standardized CAP engagement dimensions a
 - [At UofT, GATs produced a reliable end-of-course increase in Constructive engagement, with no effects on Passive, Active engagement, or MSLQ elaboration](gats-increase-constructive-engagement-uoft.md) — related
 - [GATs produced no reliable immediate learning-experience effects on frustration, cognitive load, or situational interest at either institution](gats-no-immediate-experience-effects.md) — related
 - [Across both institutions, GATs showed no significant effect on long-term summative exam performance](gats-no-long-term-exam-effect.md) — related
+- [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — related

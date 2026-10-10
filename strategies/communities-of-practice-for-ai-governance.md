@@ -61,6 +61,7 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
 - [Address responsible design, learner experience, equity, validity, and relational assessment practice when implementing AI-agent-supported assessment](responsible-design-considerations-ai-assessment.md)
 - [Design task-sensitive institutional AI policies rather than blanket permitted/prohibited distinctions](task-sensitive-institutional-ai-policy.md)
+- [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
 
 ## Examples
 -

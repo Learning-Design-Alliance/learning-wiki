@@ -43,6 +43,7 @@ The briefs prescribe a classroom strategy in which "A strong prompt usually incl
 - [Metacognitive Reflection Prompts](metacognitive_reflection_prompts.md)
 - [Ideal Problem Solving](ideal-problem-solving.md)
 - [Use GenAI across the writing process stages of pre-writing, drafting language support, and revision feedback, and for discussion questions, differentiated explanations, and scaffolded practice](genai-writing-process-and-instructional-uses.md)
+- [Use the Five S framework to scaffold students' prompt writing with generative AI in chemistry education](five-s-framework-prompt-strategies.md)
 
 ## Examples
 -

@@ -46,3 +46,4 @@ Study characteristics table for Bettinger & Baker (2014). Institutions provided 
 - [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](insidetrack-coaching-no-discernible-attainment-effect.md) — related
 - [The supporting evidence for FLIGHT comes from a single randomized controlled trial with compromised random assignment](flight-evidence-single-rct-compromised-randomization.md) — related
 - [InsideTrack© Coaching costs roughly $390–$500 per student per semester depending on program scale and intensity](insidetrack-coaching-cost-per-student-semester.md) — related
+- [The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)](cluster-randomized-quasi-experiment-powered-for-large-effects.md) — related

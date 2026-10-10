@@ -46,3 +46,4 @@ The guide's research-summary section reports, without citing specific studies, s
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — possibly the same claim (merge candidate)
 - [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](genai-speeds-tasks-not-learning.md) — related
 - [LLM-based tools may interfere with reading comprehension and retention despite learners finding them helpful](llm-tools-interfere-comprehension-retention.md) — related
+- [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related

@@ -65,6 +65,7 @@ The conference converts feedback from a one-way written transmission into a dial
 - [Writing Process Portfolios](../strategies/writing-process-portfolios.md) — conferences gain traction when students are revising across drafts rather than submitting one-off papers
 - [Rubric Co-Construction](../strategies/rubric-co-construction.md) — students who helped build the criteria self-assess more accurately in the conference
 - [Use a Letter to the Reviewer reflective memo submitted with each draft](letter-to-the-reviewer-memo.md)
+- [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the conference is a micro-instance of the coaching cycle: observe, diagnose, act

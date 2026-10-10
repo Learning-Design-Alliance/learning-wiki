@@ -42,6 +42,7 @@ The article recommends that educators give students structured guidance on regul
 - [Use computer-based instruction with observation, collaboration, and semi-structured guidance, plus online metacognitive guidance, to enhance SRL in mathematics](computer-based-metacognitive-instruction-enhances-srl-in-maths.md)
 - [Teach less-proficient EFL learners metacognitive strategies, effort regulation, and help-seeking, supported by goal-setting training](teach-srl-strategies-less-proficient-efl-learners.md)
 - [Guide adult students through self-regulated learning skills within the course of study using educational technology](guide-adult-students-srl-skills-within-course-via-technology.md)
+- [Teach subzone classification explicitly as a teachable, assessable cognitive skill in clinical curricula](explicit-subzone-classification-instruction.md)
 
 ## Examples
 -

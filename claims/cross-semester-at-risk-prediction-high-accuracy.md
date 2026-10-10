@@ -44,3 +44,4 @@ Post-hoc evaluation of random-forest models trained on week 0–4 and week 0–7
 
 ## Related Claims
 - [Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining](cross-semester-auc-decline-without-retraining.md) — reports the opposite
+- [Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV](lms-traces-predict-ai-assisted-cheating-risk.md) — related

@@ -57,3 +57,5 @@ Discussion-section synthesis of interview themes beyond Tables 1-2; teachers wor
 - [Excessive GenAI reliance risks undermining foundational ICT knowledge, supporting supervised in-person assessment of foundational content](excessive-genai-reliance-hinders-foundational-knowledge.md) — related
 - [Engineering students come to view mastering GenAI as crucial as other engineering skills, driven by labour-market expectations, alongside widespread uncertainty about over-reliance](genai-mastery-new-learning-objective-engineering.md) — related
 - [University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use](student-ai-engagement-clusters-two-extremes.md) — related
+- [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
+- [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — related

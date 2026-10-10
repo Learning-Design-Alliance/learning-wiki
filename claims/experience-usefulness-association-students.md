@@ -45,3 +45,4 @@ Descriptive monotonic trend analysis across student experience categories (n = 1
 ## Related Claims
 - [Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use](typology-renders-effort-expectancy-nonsignificant.md) — related
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — related
+- [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related

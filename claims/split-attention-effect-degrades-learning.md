@@ -117,3 +117,4 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [A majority of surveyed teachers report presenting words and corresponding graphics simultaneously, consistent with the modality effect](teachers-report-simultaneous-words-graphics-presentation.md) — related
 - [A meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes](spatial-contiguity-meta-analysis-36-studies.md) — possibly the same claim (merge candidate)
 - [Temporal contiguity (concurrent narration and animation) is associated with facilitated understanding and lower perceived cognitive load](temporal-contiguity-lower-cognitive-load.md) — related
+- [The benefit of spatially co-located AI guidance varies by task: it matters most when instructions and task share a unified spatial frame](spatial-colocation-benefit-task-dependent.md) — a narrower finding that bears on this claim

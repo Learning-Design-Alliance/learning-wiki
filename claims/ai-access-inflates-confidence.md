@@ -67,3 +67,4 @@ Study 2 simple slopes for the significant stakes × AI interaction on confidence
 - [Monetary stakes for accuracy act independently of AI availability on judgment suspension, with no significant AI × stakes interaction](stakes-independent-of-ai-on-suspension.md) — related
 - [AI advice dramatically reduces judgment suspension even when it is displayed automatically rather than actively requested](unsolicited-ai-advice-still-suppresses-suspension.md) — related
 - [Participants seek AI advice less frequently when accuracy carries monetary stakes](stakes-reduce-ai-advice-seeking.md) — related
+- [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — related

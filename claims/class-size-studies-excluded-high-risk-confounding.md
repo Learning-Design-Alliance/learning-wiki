@@ -48,3 +48,4 @@ Review authors' critical appraisal of the 82 non-STAR studies using an extended 
 - [Most included studies carry risk of bias concerns, requiring cautious interpretation of the pooled effect](mobile-device-review-risk-of-bias-concerns.md) — related
 - [Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations](propensity-stratification-multilevel-reduces-selection-bias.md) — related
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
+- [Written examination scores were low and confounded, providing a serious warning about students' unaided performance on foundational calculations](kt1-exam-low-unaided-performance-warning.md) — related

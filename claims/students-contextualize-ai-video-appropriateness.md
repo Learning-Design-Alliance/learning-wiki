@@ -48,3 +48,4 @@ Inductive thematic analysis of open-ended survey responses from 163 students. Ap
 - [Most U.S. colleges had adopted written generative AI policies by late 2024, with 69% defining appropriate versus inappropriate AI use in coursework](review-69-percent-colleges-genai-policies.md) — related
 - [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
+- [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related

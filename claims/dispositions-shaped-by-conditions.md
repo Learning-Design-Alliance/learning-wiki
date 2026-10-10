@@ -54,3 +54,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
 - [The authors assert that Systems Review participation builds SEA teams' capacity for shared purpose, decision-making, and adaptive change management](systems-review-builds-capacity-outcomes.md) — related
 - [AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently](ai-outcomes-shaped-by-leadership-infrastructure-governance.md) — related
+- [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — related

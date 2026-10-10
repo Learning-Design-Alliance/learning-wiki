@@ -47,3 +47,4 @@ Survey result reported in the brief's student-gaps section: "57% of respondents 
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Teachers were dissatisfied with existing professional development and wanted workshops tailored to their needs, subjects, and knowledge level](pr-teachers-dissatisfied-pd-want-tailored-workshops.md) — related
 - [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related
+- [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](genai-pd-significant-ethical-awareness-gains.md) — related

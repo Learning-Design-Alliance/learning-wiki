@@ -45,3 +45,4 @@ Exploratory factor analysis with Horn's parallel analysis on the randomly split 
 ## Related Claims
 - [A dominant general factor explains most common variance in the acceptance scale, supporting essential unidimensionality](bifactor-dominant-general-factor-acceptance.md) — related
 - [Common-method variance is retained as an unresolved alternative explanation for the general factor, with Harman's test suggestive](common-method-variance-unresolved-explanation.md) — related
+- [Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability](efa-unidimensional-ai-pedagogical-orientation-scale.md) — related

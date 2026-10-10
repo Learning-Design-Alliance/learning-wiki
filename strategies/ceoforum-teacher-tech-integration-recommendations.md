@@ -55,6 +55,7 @@ The report issues a set of dated recommendations directed at educators, administ
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
 - [Prioritize evidence-based technology programs and implement them with professional learning and integrated practice](prioritize-evidence-based-edtech-with-professional-learning.md)
+- [Preparing preservice teachers to implement AI-powered personalized learning in special education through professional development in technical and pedagogical expertise](preservice-teacher-ai-ppl-professional-development.md)
 
 ## Examples
 -

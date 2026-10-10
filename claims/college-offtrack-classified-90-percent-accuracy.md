@@ -46,3 +46,4 @@ Analysis of the nationally representative NELS sample of 12,144 baseline student
 - [The models' classification accuracy exceeds that of 97 percent of prior studies predicting high school completion](accuracy-exceeds-97-percent-of-prior-studies.md) — related
 - [Gradient boosting and extreme gradient boosting are the highest-performing classifiers for predicting enrollment, with balanced accuracy 0.91, F-score 0.88 and AUC 0.96](gradient-boosting-best-enrollment-predictor-aid-optimization.md) — related
 - [A few decision-tree splits identify very high-risk students, such as low-SES students who doubt they will reach college](few-splits-identify-high-risk-students.md) — a narrower finding that bears on this claim
+- [Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset](simple-classifiers-beat-tree-based-cheating-risk.md) — related

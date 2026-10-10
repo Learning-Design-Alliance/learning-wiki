@@ -13,7 +13,7 @@ generated:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 associational), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 4 studies (3 associational, 1 causal), `q2` · 1 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 TPACK (Koehler & Mishra, 2009) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -48,6 +48,9 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](../claims/serial-mediation-ai-literacy-tpack-efficacy-intention.md) [+W] — attached 2026-10-10 from Zou J et al. (2026), which proposed "AI-TPACK as a professional knowledge bridge linking general AI literacy, science teaching self-efficacy, and AI integration intention".
 - [AI literacy positively predicts AI-TPACK among Chinese pre-service science teachers](../claims/ai-literacy-predicts-ai-tpack-preservice-science-teachers.md) [+W] — attached 2026-10-10 from Zou J et al. (2026), which proposed "AI-TPACK as a professional knowledge bridge linking general AI literacy, science teaching self-efficacy, and AI integration intention".
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](../claims/ai-tpack-predicts-science-teaching-self-efficacy.md) [+W] — attached 2026-10-10 from Zou J et al. (2026), which proposed "AI-TPACK as a professional knowledge bridge linking general AI literacy, science teaching self-efficacy, and AI integration intention".
+- [Among AI-TPACK dimensions, all except AI technological knowledge and integrative AI-TPACK are significantly and positively associated with college teachers' AI teaching innovation behavior](../claims/ai-tpack-dimensions-associated-with-ai-teaching-innovation-behavior.md) [~W] — attached 2026-10-10 from Bai X et al. (2026), which proposed "AI-TPACK framework: seven interconnected knowledge domains for AI-supported teaching"; tests this page's relationship.
+- [AI-TPACK integration quality differs across behavioral clusters: Optimizers achieve cohesive systemic designs, Creators show pragmatic enhancement, Observers show unstable integration](../claims/ai-tpack-integration-differs-by-cluster.md) [+W] — attached 2026-10-10 from Sun et al. (2025), which proposed "AI-TPACK framework operationalized as four AI-specific knowledge dimensions for analyzing generative-AI-era teacher design".
+- [Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI-TK, technical self-efficacy, pedagogical beliefs, and support-dependence](../claims/cognitive-affective-profiles-explain-design-behaviors.md) [+W] — attached 2026-10-10 from Sun et al. (2025), which proposed "AI-TPACK framework operationalized as four AI-specific knowledge dimensions for analyzing generative-AI-era teacher design".
 
 ## Related Theories
 

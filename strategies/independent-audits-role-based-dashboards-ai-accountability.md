@@ -45,6 +45,7 @@ The brief recommends districts collaborate with states and partners to build eva
 - [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
 - [Use shared frameworks, cross-district collaboration, and state-level policy alignment to scale AI-enabled edtech](shared-frameworks-cross-district-ai-edtech-scaling.md)
+- [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
 
 ## Examples
 -

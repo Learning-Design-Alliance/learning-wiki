@@ -40,6 +40,7 @@ Based on the observed differentiated trajectories and the time-lag effect in low
 
 - [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](discourage-mental-offloading-balance-guidance-application.md)
 - [Develop and adopt AI feedback systems that integrate visual and auditory feedback and automatically adapt students' practice plans](integrate-visual-auditory-adaptive-ai-feedback-systems.md)
+- [Balance human and automated feedback to optimize writing skill development](balance-human-and-automated-feedback-writing.md)
 
 ## Examples
 -

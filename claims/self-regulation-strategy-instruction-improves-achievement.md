@@ -85,3 +85,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Student self-graphing of CBM scores is reported as motivating during secondary prevention](self-graphing-cbm-progress-motivating.md) — related
 - [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](clickstream-enables-two-types-theory-testing.md) — related
 - [All types of regulation can be explicitly taught and improved with time, effort, and effective feedback](regulation-skills-can-be-taught.md) — related
+- [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related

@@ -47,3 +47,4 @@ Three-group experiment (270 students, 90 per group) reporting between-group effe
 - [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](ai-assisted-inquiry-largest-decision-making-gains-climate.md) — possibly the same claim (merge candidate)
 - [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](all-groups-improved-from-low-baseline.md) — related
 - [Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance](checking-ai-claims-predicts-gains.md) — related
+- [Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier](baseline-capability-nonmonotonic-ai-benefit.md) — related

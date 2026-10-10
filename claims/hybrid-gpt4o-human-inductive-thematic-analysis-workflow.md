@@ -71,3 +71,5 @@ Data preparation step: transcripts were segmented into topic-based files (approx
 - [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](human-refinement-essential-gpt-codebooks.md) — related
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related
 - [Five common AI misconceptions debunked: AI does not think like humans, create original ideas, replace teachers, or guarantee accuracy, and well-designed AI use need not lower rigor](five-ai-misconceptions-for-educators.md) — related
+- [AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs](ai-redistributes-researcher-epistemic-agency.md) — related
+- [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related

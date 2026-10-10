@@ -64,3 +64,4 @@ Exploratory comparison of Quiz A (independent solving first) versus Quiz B (with
 ## Related Claims
 - [AI interaction mode (Tutor, Collaborator, Solver) significantly influences high school students' observed behavior during problem-solving](ai-interaction-mode-significantly-influences-observed-behavior.md) — related
 - [Frontal EEG spectral activity shows no statistically significant differences across AI interaction modes or between with-AI and no-AI conditions](no-significant-eeg-differences-across-ai-modes.md) — related
+- [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — related

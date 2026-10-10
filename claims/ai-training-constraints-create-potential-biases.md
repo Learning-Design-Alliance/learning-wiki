@@ -47,3 +47,4 @@ Theoretical argument in the policy brief's 'Teaching with AI' section, offered w
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
 - [Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies](demographic-predictors-reinforce-training-label-bias.md) — related
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — related
+- [AI-based analyses of student learning may perform unevenly across student populations, limiting comparability of findings across settings](ai-uneven-performance-across-student-populations.md) — a narrower finding that bears on this claim

@@ -61,3 +61,5 @@ Review of results of individual studies within the 155-study corpus, contrasting
 - [AI implementation increases the invisible emotional and relational labor of associate deans, which remains unquantified in leadership evaluations](ai-increases-invisible-labor-of-associate-deans.md) — a narrower finding that bears on this claim
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
 - [Digital infrastructure readiness determines the scalability and effectiveness of AI systems in higher education, with disparities between high-income and low-income regions](infrastructure-readiness-determines-ai-scalability.md) — related
+- [AI adoption in higher education is associated with improved teaching practices, learner engagement and curriculum innovation](ai-adoption-associated-teaching-engagement-curriculum-improvements.md) — related
+- [Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness](government-regulation-external-enabler-ai-adoption.md) — related

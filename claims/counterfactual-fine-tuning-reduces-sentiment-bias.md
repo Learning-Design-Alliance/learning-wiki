@@ -46,3 +46,4 @@ The study fine-tuned GPT-2, Gemma, and LLaMA3 with both original and GPT-4-gener
 - [LLM-generated forum replies are more neutral and less varied in sentiment than human replies](llm-replies-more-neutral-than-human.md) — related
 - [Sentiment scores of LLM-generated replies differ significantly from human replies under both classifiers](llm-vs-human-sentiment-significant-difference.md) — related
 - [Fine-tuned GPT-4o-mini delivers equitable name-detection performance across cultural and gender groups, reducing cultural biases present in baseline models](fine-tuned-gpt4o-mini-equitable-across-culture-gender.md) — related
+- [Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict](score-wise-bias-regression-to-mean-awe.md) — related

@@ -45,3 +45,4 @@ PLS-SEM model assessment for the 548-teacher sample reports R² of 0.355 (intent
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](ai-tpack-predicts-science-teaching-self-efficacy.md) — related
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
 - [Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning](serial-mediation-affordance-efficacy-motivation-srl.md) — related
+- [The model explains 62.50% of variance in AI teaching innovation behavior, with moderate predictive relevance and good fit](model-explains-variance-in-ai-teaching-innovation-behavior.md) — related

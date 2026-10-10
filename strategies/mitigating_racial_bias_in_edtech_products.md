@@ -69,6 +69,7 @@ Bias in educational AI is well documented: automated systems can encode racial d
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
 - [Regularly audit ML models for fairness and proactively apply bias mitigation during model training](regular-fairness-audits-and-proactive-bias-mitigation.md)
 - [Evaluate AI systems in DLPs for fairness across learner groups, not just overall accuracy](evaluate-ai-fairness-across-learner-groups.md)
+- [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
 
 ## Examples
 - **Gender Shades (Buolamwini & Gebru, 2018)** — the canonical demonstration that commercial facial analysis systems showed far higher error rates for darker-skinned women than lighter-skinned men; it established subgroup testing as standard practice and is directly relevant to face-based proctoring and identity tools in edtech.

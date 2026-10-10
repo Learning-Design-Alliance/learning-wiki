@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (15 for, 1 mixed) · 7 studies (3 theoretical, 2 qualitative, 1 causal, 1 design), `q1`–`q2` · 1 of 7 report an effect size · 16 claims rest on one study
+> **Evidence** · 18 claims (17 for, 1 mixed) · 9 studies (4 theoretical, 2 qualitative, 1 causal, 1 review, 1 design), `q1`–`q2` · 1 of 9 report an effect size · 18 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -75,6 +75,8 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](../claims/nico-nor-digital-tools-complement-hands-on.md) [+W] — attached 2026-10-09 from Early Science with Nico et al. (2022), which proposed "Use digital tools to strengthen, not replace, hands-on exploration in early science learning"; tests this page's relationship.
 - [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](../claims/ai-offloading-stifles-early-development.md) [+W] — attached 2026-10-10 from S P et al. (2026), which proposed "AI integration should complement rather than replace human cognition, preserving human engagement in critical thinking and self-regulation domains"; tests this page's relationship.
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](../claims/learning-performance-paradox-ai.md) [+M] — attached 2026-10-10 from Khosravi et al. (2026), which proposed "Nine-dimension contrast between AI for work and AI for learning"; tests this page's relationship.
+- [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](../claims/ai-overdependence-cognitive-offloading-guided-use-helpful.md) [+W] — attached 2026-10-10 from Padhy (2026), which proposed "Higher education should establish concrete ethical standards, encourage AI literacy, and reshape assessment to foster human-AI collaboration without compromising originality, equity, and intellectual growth"; tests this page's relationship.
+- [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](../claims/ai-feedback-support-or-dependence-self-regulation.md) [+W] — attached 2026-10-10 from Li Y (2026), which proposed "Position AI as human-centered support for interpretation and dialogue, not as an autonomous evaluator of singing quality"; tests this page's relationship.
 
 ## Related Principles
 

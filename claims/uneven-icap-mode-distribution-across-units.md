@@ -45,3 +45,4 @@ Course-level audit of eight asynchronous online units. The authors report that "
 ## Related Claims
 - [The ICAP Framework was found effective for assessing potential for active learning in an asynchronous online environment and identifying where design improvements are needed](icap-effective-audit-tool-asynchronous-online.md) — related
 - [Teachers had minimal success designing Constructive and Interactive activities after ICAP professional development](teachers-struggle-designing-interactive-activities.md) — related
+- [Uniform AI integration across a classroom is likely to widen the gap between better- and less-prepared students](uniform-ai-integration-widens-gaps.md) — related

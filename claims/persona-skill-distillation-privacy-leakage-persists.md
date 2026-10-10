@@ -1,0 +1,49 @@
+---
+type: claim
+title: Persona-skill distillation encodes substantial private information into skill artifacts, persisting across agent backbones and distillation protocols
+description: Persona-skill distillation encodes substantial private information into skill artifacts, persisting across agent backbones and distillation protocols
+id: persona-skill-distillation-privacy-leakage-persists
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-10
+evidence_strength: moderate
+sources:
+  - id: yongli-xiang-2026
+    resource: "https://arxiv.org/abs/2608.03700"
+    title: "Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, Tongliang Liu. (2026). When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills. arXiv. https://arxiv.org/abs/2608.03700"
+    author: Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, Tongliang Liu
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
+---
+
+# Persona-skill distillation encodes substantial private information into skill artifacts, persisting across agent backbones and distillation protocols
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r2` · `q2`
+
+## Subclaims
+`q2 i?` Skill-level privacy leakage is high across all three evaluated agent backbones and all three distillation methods, indicating a structural risk of compiling personal traces into executable artifacts. [→ Yongli Xiang 2026](#yongli-xiang-2026)
+
+## Evidence
+
+### Yongli Xiang 2026
+
+Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, Tongliang Liu. (2026). When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills. arXiv. https://arxiv.org/abs/2608.03700
+
+`q2 · i?` · `design · r2`
+
+Main evaluation on AntiSkillBench across three agent backbones (GPT 5.4, Gemini 3.6 Flash, Claude Haiku 4.5) and three distillation protocols, reported in Table 1. For GPT 5.4, "overall Skill Coverage remains high across protocols, reaching 66.2 for three-stage, 63.6 for Direct Distill, and 55.2 for Colleague Distill". No effect sizes are printed; values are descriptive percentages.
+
+> "Claude Haiku 4.5 also shows the same pattern, with overall Skill Coverage between 60.2 and 62.3 and communication coverage between 87.8 and 90.9, indicating that skill-level leakage persists across all three models and distillation methods."
+
+## Discussion
+
+
+## Related Claims
+- [Active defenses (Privacy Sanitization, Adversarial Obfuscation) reduce but do not eliminate persona-skill leakage, leaving personality and background exposed](active-defenses-limited-partial-protection.md) — a narrower finding that bears on this claim
+- [Skill-equipped agents reproduce target users' attributes and language, enabling impersonation across unseen contexts](agent-level-impersonation-qa-acc-vocabgain.md) — a narrower finding that bears on this claim
+- [Skill-level leakage is strongest for communication style and personality, not explicit demographics](leakage-strongest-communication-personality.md) — related
+- [Passive backdoor defense (SBD) effectiveness is distillation-dependent, degrading under persona-centric abstraction](passive-sbd-defense-distillation-dependent.md) — related

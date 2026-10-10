@@ -42,6 +42,8 @@ The chapter treats faculty development as crucial to implementing the framework.
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Supports to Raise Teachers' Expectancy and Value and Lower Cost for AI Use](supports-to-raise-teacher-expectancy-and-value-for-ai-use.md)
 - [Invest in ongoing educator professional development and an assessment community of practice for POG success](pog-ongoing-pd-community-of-practice.md)
+- [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
+- [Preparing preservice teachers to implement AI-powered personalized learning in special education through professional development in technical and pedagogical expertise](preservice-teacher-ai-ppl-professional-development.md)
 
 ## Examples
 -

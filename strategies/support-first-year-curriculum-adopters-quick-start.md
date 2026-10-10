@@ -50,6 +50,7 @@ Because all interviewed teachers found the curriculum overwhelming in their init
 - [Train and support educators to implement mindfulness through programs, coaching, and shared leadership](educator-training-mindfulness-implementation-supports.md)
 - [Provide professional development on the pedagogy and content of ethnic studies before implementing new ethnic studies standards](pd-before-ethnic-studies-standards-implementation.md)
 - [Provide sustained, powerful professional development with professional learning communities for QTEL implementation](sustained-powerful-pd-for-qtel.md)
+- [Agile pedagogical strategies: interactive notebooks, bootcamps, and sustained educator professional learning](agile-mi-pedagogical-strategies-notebooks-bootcamps.md)
 
 ## Examples
 -

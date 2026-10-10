@@ -66,3 +66,4 @@ Risk-of-bias appraisal using ROBINS-I for non-randomised studies. Two quantitati
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
 - [There are virtually no contemporary quantitative studies on the effects of small class sizes in special education, making meta-analysis impossible](no-contemporary-quantitative-studies-special-education-class-size.md) — related
 - [No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness](no-eligible-crc-studies-identified.md) — related
+- [Structured literature synthesis retained 7 studies and policy documents from approximately 173 initial records](literature-synthesis-retained-seven-studies.md) — related

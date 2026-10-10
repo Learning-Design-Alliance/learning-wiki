@@ -48,6 +48,7 @@ As an implementable activity, the article recommends that educators and learners
 - [Support learners to evaluate AI outputs by verifying sources, reporting errors, and overriding recommendations](evaluate-ai-outputs-verify-override.md)
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [I Used To Think Now I Think](i-used-to-think-now-i-think.md)
+- [Build metacognitive reflection opportunities into AI-integrated instruction to prevent cognitive overload](metacognitive-opportunities-ai-integration.md)
 
 ## Examples
 -

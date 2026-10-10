@@ -65,6 +65,7 @@ Reflection converts experience into usable knowledge: unexamined experience rare
 - [5-minute writing conferences](5-minute_writing_conferences.md) — individualized reflection through brief one-on-one dialogue
 - [Use prototyping tasks to help students unfamiliar with design-mode thinking share incomplete ideas](prototyping-tasks-for-design-mode-thinking-novices.md)
 - [Use technology after learner effort to protect productive struggle](use-technology-after-effort.md)
+- [Build metacognitive reflection opportunities into AI-integrated instruction to prevent cognitive overload](metacognitive-opportunities-ai-integration.md)
 
 ## Related Elements
 - [Check-in](../elements/check-in.md) — the opening move that establishes emotional safety

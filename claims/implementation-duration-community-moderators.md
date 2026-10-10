@@ -46,3 +46,4 @@ Treatment-characteristic moderators from the random-effects meta-regression (Tab
 - [Unpublished status and higher method quality are associated with smaller estimated effects of dropout programs](method-variables-smaller-dropout-effects.md) — related
 - [Effects of dropout programs on dropout odds are heterogeneous across studies](dropout-program-effects-heterogeneous.md) — related
 - [All program types show positive effects when controlling for other influences, with attendance monitoring and incentives, child care, community service, and school restructuring producing the best results](dropout-program-type-effectiveness.md) — related
+- [The review identifies a trend linking AI intervention duration to effect size: longer interventions spanning weeks or months yield larger effect sizes than shorter ones](ai-intervention-duration-effect-size-trend.md) — related

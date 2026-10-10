@@ -70,3 +70,4 @@ Same SEM sample; the direct threat-to-dependence path was significant and negati
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [AI employment threat perception negatively predicts perceived employability among Chinese college students](ai-threat-negatively-predicts-perceived-employability.md) — related
 - [Teacher support is negatively associated with AI dependency among university students](teacher-support-negatively-associated-ai-dependency.md) — related
+- [Perceived trust mediates the relationship between social influence and generative AI dependence](trust-mediation-social-influence-ai-dependence.md) — related

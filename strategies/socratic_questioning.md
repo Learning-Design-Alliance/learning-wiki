@@ -59,9 +59,11 @@ Socratic questioning works because generating an answer forces deeper processing
 6. Close by having students summarize what changed in their thinking — a brief [3-2-1 Reflection](../strategies/3-2-1_reflection.md) works well in written formats.
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the complementary expert-side disclosure; Socratic questioning elicits learner reasoning, think-alouds model expert reasoning
 - [Cold Calling](cold-call.md) — a participation-distribution technique often paired with Socratic sequences
 - [Peer Instruction](../strategies/peer-instruction.md) — replaces instructor questioning with structured peer dialogue around conceptual questions
+- [Counter-prompting: deliberately probing AI systems for their assumptions and using responses as data about the apparatus](counter-prompting-probing-ai-assumptions.md)
 
 ## Examples
 - **Law school "Socratic method"** (Langdell-era tradition at Harvard Law): instructors interrogate students about court cases, probing the facts, holdings, and reasoning to expose doctrinal assumptions.

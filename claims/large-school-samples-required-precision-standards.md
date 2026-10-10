@@ -53,3 +53,4 @@ Theoretical and empirical power analysis for experimental education evaluations,
 - [Precision standards for education impact estimates are discussed for standardized test scores of elementary school students](precision-standards-elementary-test-scores.md) — related
 - [Required numbers of schools differ across school, classroom, and student random-assignment designs](required-schools-vary-by-assignment-level.md) — a narrower finding that bears on this claim
 - [Results for high school achievement are less clear because data limitations precluded a credible impact analysis](dc-high-school-results-inconclusive-data-limitations.md) — related
+- [The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)](cluster-randomized-quasi-experiment-powered-for-large-effects.md) — a narrower finding that bears on this claim

@@ -63,3 +63,4 @@ Adoption funnel analysis from the same engagement dashboard (Figure 5). The auth
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — reports the opposite
 - [Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan](fragmented-data-systems-slow-intervention-planning.md) — related
+- [Primary metrics improved during US holidays, attributed to more motivated voluntary users](holiday-usage-motivation-metric-improvements.md) — related

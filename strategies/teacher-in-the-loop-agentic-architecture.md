@@ -41,6 +41,7 @@ The article recommends an agentic educational architecture that includes the tea
 - [Deliver learning through asynchronous out-of-band channels that preserve developer flow](out-of-band-async-learning-channels-preserve-flow.md)
 - [Prioritize student agentic engagement and teachers' decision-making in natural classroom WCF research](prioritize-agentic-engagement-teacher-decision-making-wcf.md)
 - [Explicitly frame a group AI agent's role and design introductory activities that encourage collaborative dialogue rather than system testing](frame-agent-role-and-design-dialogue-based-introductory-activities.md)
+- [Build educational AI with pedagogical guardrails such as withholding direct solutions and embedded reflection steps](pedagogical-guardrails-educational-ai.md)
 
 ## Examples
 -

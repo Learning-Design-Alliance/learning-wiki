@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (20 for, 11 mixed, 3 against) · 46 studies (18 quant-synthesis, 14 causal, 8 review, 3 associational, 2 theoretical, 1 qualitative), `q2`–`q4` · 18 of 46 report an effect size · 16 claims rest on one study
+> **Evidence** · 35 claims (21 for, 11 mixed, 3 against) · 47 studies (18 quant-synthesis, 14 causal, 9 review, 3 associational, 2 theoretical, 1 qualitative), `q2`–`q4` · 18 of 47 report an effect size · 17 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -83,6 +83,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) [~W]
 - [Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period](../claims/genai-feedback-improves-violin-intonation-posttest.md) [+W] — attached 2026-10-10 from Yakup Aksoy (2026), which proposed "AI-assisted intonation feedback model: Cubase cent measurement analyzed by ChatGPT and DeepSeek without teacher intervention"; tests this page's relationship.
 - [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](../claims/students-satisfied-with-genai-feedback-quality.md) [+W] — attached 2026-10-10 from Yakup Aksoy (2026), which proposed "AI-assisted intonation feedback model: Cubase cent measurement analyzed by ChatGPT and DeepSeek without teacher intervention".
+- [AWE tools such as Grammarly, Quillbot and DeepL Write significantly improve writing precision, fluency and grammatical proficiency through immediate and customized feedback](../claims/awe-improve-precision-fluency-grammatical-proficiency.md) [+W] — attached 2026-10-10 from Gres et al. (2026), which proposed "Automated Writing Evaluation (AWE) tools: Grammarly, Quillbot and DeepL Write"; tests this page's relationship.
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

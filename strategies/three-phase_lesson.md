@@ -56,9 +56,11 @@ The structure operationalizes two well-supported ideas: activating prior knowled
 3. **After (10–15 min):** Sequence selected student solutions from concrete to abstract, have students explain and compare approaches ([Comparing Cases](../elements/comparing-cases.md)), and name the key mathematical idea ([Clear Structure](../principles/clear-structure.md)); assign a consolidation or extension task.
 
 ## Related Strategies
+
 - [Worked Examples](../strategies/use_worked_examples.md) — an alternative Before-phase move when exploration would overwhelm novices; can be interleaved with the three-phase arc across a unit
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a common During-phase participation structure
 - [Gallery Walk](../strategies/gallery-walk.md) — an After-phase format for sharing and critiquing student work
+- [Teachers as designers and guardians of the task structure across all three AIRIS phases](teacher-guardian-of-ai-task-structure.md)
 
 ## Examples
 - **Connected Mathematics Project (CMP)** — [https://www.mheducation.com/prek-12/program/microsites/MKTSP-OIP01M0.html] — middle-school units structured as Launch, Explore, Summarize.

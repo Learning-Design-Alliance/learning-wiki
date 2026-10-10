@@ -46,6 +46,7 @@ The paper's policy recommendations center on inclusive digital strategies: "A ke
 - [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
 - [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
+- [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
 
 ## Examples
 -

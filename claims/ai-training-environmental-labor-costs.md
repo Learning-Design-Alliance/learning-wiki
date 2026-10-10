@@ -67,3 +67,4 @@ Under a Labor heading, the slides list journalistic headlines on exploited labor
 - [AI implementation increases the invisible emotional and relational labor of associate deans, which remains unquantified in leadership evaluations](ai-increases-invisible-labor-of-associate-deans.md) — related
 - [Six named risks from AI systems span overestimation, data collection, synthetic outputs, invisibility, bias replication, and human and environmental costs](six-risks-from-ai-systems.md) — a broader claim this one bears on
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
+- [Carbon per Accuracy as a sustainability metric likely rewards under-trained models because accuracy scales non-linearly with compute](carbon-per-accuracy-rewards-undertrained-models.md) — related

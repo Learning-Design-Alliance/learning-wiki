@@ -62,3 +62,4 @@ SPECTER-embedding similarity analysis over an expanded corpus of over 1,200 publ
 - [The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers](dlp-subfield-small-and-fragmented.md) — related
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
+- [Cumulative rapid experimentation improved next-item correctness by 10% and cognitive engagement by 14% over five months](rapid-experimentation-cumulative-metric-gains.md) — related

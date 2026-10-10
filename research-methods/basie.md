@@ -25,6 +25,7 @@ BASIE (BAyeSian Interpretation of Estimates) is a framework for interpreting imp
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **BASIE framework: Bayesian interpretation of impact estimates as an alternative to null hypothesis significance testing**: BASIE (BAyeSian Interpretation of Estimates) is a framework for interpreting impact estimates from evaluations. The guide positions it explicitly as "an alternative to null hypothesis significance testing", reframing how education researchers read evaluation findings by bringing prior evidence to bear on impact estimates rather than relying on significance tests alone. The framework is operationalized through a practical guide with supporting tools and code. (John Deke et al. (2022))
+- **Interpret impact estimates with explicit prior evidence rather than defaulting to null hypothesis significance testing**: The guide's core recommendation for research practice: when reading evaluation results, education researchers should interpret impact estimates within the BASIE framework, which brings selected prior evidence to bear, rather than relying on null hypothesis significance testing. The guide serves both researchers, through practical steps, and "evaluation methodologists", through "conceptual and technical details". (John Deke et al. (2022))
 
 ### Claims
 

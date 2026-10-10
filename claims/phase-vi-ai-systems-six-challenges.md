@@ -47,3 +47,6 @@ The chapter identifies six challenges for Phase VI systems, citing prior work. N
 - [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — related
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
+- [Few AIED 2025 papers report computational costs or discuss environmental impacts, and reporting is non-standardized](aied-2025-lack-cost-sustainability-reporting.md) — related
+- [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related
+- [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related

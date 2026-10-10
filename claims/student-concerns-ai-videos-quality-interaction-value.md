@@ -44,3 +44,5 @@ Inductive thematic analysis of open-ended responses. Theme 1 (low content qualit
 
 ## Related Claims
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
+- [A VLM-based screenplay-to-video fidelity proxy shows scene and element structure are usually preserved while action-level fidelity is the primary failure mode](anvil-video-fidelity-proxy-action-failure.md) — related
+- [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related

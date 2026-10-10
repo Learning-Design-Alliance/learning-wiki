@@ -46,3 +46,4 @@ Structural model assessment in SmartPLS on the net sample of 45 completed cases;
 - [Perceived contextual value is the primary driver of perceived usefulness of the contextual app](pcv-primary-driver-pu.md) — related
 - [Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app](pcv-significantly-predicts-bi-contextual-language-app.md) — related
 - [Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app](peou-non-significant-bi-contextual-app.md) — related
+- [Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress](perceived-usefulness-moderates-efficacy-stress.md) — related

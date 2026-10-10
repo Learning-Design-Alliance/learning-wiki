@@ -45,3 +45,4 @@ Heterogeneity test in the random-effects synthesis of the 130 coded samples. The
 ## Related Claims
 - [Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63](dropout-programs-or-163-completion.md) — related
 - [Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students](implementation-duration-community-moderators.md) — related
+- [Warning effect size shows no significant heterogeneity across topics and studies](warning-effect-no-heterogeneity-across-topics.md) — reports the opposite

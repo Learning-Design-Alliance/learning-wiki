@@ -78,6 +78,7 @@ Metacognitive strategy instruction reliably improves achievement, with the stron
 5. Have learners evaluate strategy effectiveness and adapt it to new tasks, reinforcing conditional knowledge.
 
 ## Related Strategies
+
 - [Self-Explanation](../elements/self-explanation.md) — a specific metacognitive strategy: prompting learners to explain their reasoning to themselves
 - [Spaced Practice](../principles/spaced-learning.md) — a strategy learners must be taught to plan and monitor over time
 - [Retrieval Practice](retrieval-practice.md) — high-utility technique whose value learners systematically misjudge without metacognitive calibration
@@ -85,6 +86,7 @@ Metacognitive strategy instruction reliably improves achievement, with the stron
 - [Self-Regulated Learning Instruction](self-regulated-learning-instruction.md) — the broader cycle (forethought–performance–reflection) that metacognitive strategies serve
 - [Retrieval Practice Training](retrieval-practice-training.md) — teaching learners *which* study strategies actually work
 - [Formative Self-Assessment](formative-self-assessment.md) — the evaluation phase of the metacognitive cycle
+- [Build metacognitive reflection opportunities into AI-integrated instruction to prevent cognitive overload](metacognitive-opportunities-ai-integration.md)
 
 ## Examples
 - **Reciprocal Teaching** (Palincsar & Brown) — small groups rotate leading four comprehension strategies (predicting, questioning, clarifying, summarizing) with teacher modeling fading over ~20 sessions; large comprehension gains for struggling readers.

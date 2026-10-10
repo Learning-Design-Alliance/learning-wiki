@@ -45,3 +45,5 @@ Cross-sectional survey of 548 Chinese pre-service science teachers analyzed with
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
 - [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — related
+- [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
+- [AI-TPACK dimensions are significantly and positively associated with college teachers' professional identity and AI literacy](ai-tpack-dimensions-associated-with-identity-and-ai-literacy.md) — related

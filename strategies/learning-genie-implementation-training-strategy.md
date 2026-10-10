@@ -42,6 +42,7 @@ The article describes an implementation strategy in which initial training cover
 - [Implement Learning Genie with classroom teachers in regular workflow plus a site- or district-level implementation lead](learning-genie-implementation-staffing-strategy.md)
 - [Implement EWIMS through combined in-person and online training with ongoing technical assistance liaisons](ewims-training-and-technical-assistance-strategy.md)
 - [Plan mutual accountability for implementation, including rollout plans, educator supports, and early indicators for pivoting](obc-mutual-accountability-implementation.md)
+- [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
 
 ## Examples
 -

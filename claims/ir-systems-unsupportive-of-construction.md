@@ -44,3 +44,4 @@ User study of lawyers' information search process: one lawyer said he would neve
 
 ## Related Claims
 - [Task complexity moderates whether users experience the constructive information search process](task-complexity-moderates-information-search-process.md) — a broader claim this one bears on
+- [Leading LLMs hallucinated legal authorities in 58%-88% of tested cases while failing to recognise incorrect legal assumptions in prompts](llms-hallucinate-legal-authorities-58-88.md) — related

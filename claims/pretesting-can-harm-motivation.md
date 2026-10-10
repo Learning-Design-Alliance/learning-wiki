@@ -64,3 +64,4 @@ Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on per
 - [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
 - [Adult education programs used product-generated learner data minimally, mostly tracking usage time rather than diagnosing struggles](adult-ed-minimal-learner-data-use.md) — related
+- [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](ai-assistance-persistence-costs-direct-solutions.md) — related

@@ -47,3 +47,4 @@ Theme 4 of the thematic analysis comparing the two sites. At the Vietnamese site
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [Academic staff experienced the AIAS as a shared language that legitimised GenAI use in teaching and assessment](aias-shared-language-legitimises-genai-use.md) — related
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — a broader claim this one bears on
+- [National examinations are the most powerful governance lever for AI literacy outcomes, as Poland's exam-driven Python pivot shows](exam-washback-drives-language-policy.md) — related

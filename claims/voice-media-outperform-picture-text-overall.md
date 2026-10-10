@@ -47,3 +47,4 @@ Experiment with 36 adults randomly assigned to animation+voice (AV), picture+voi
 - [No media effect for process knowledge: animation did not improve learning of dynamic content](no-media-effect-process-knowledge.md) — related
 - [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](visual-channel-overload-hurts-visual-knowledge.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a broader claim this one bears on
+- [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](voice-doubles-turns-and-questions-equal-engaged-time.md) — related

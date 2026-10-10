@@ -48,3 +48,4 @@ Drop-off analysis tracking students from AP enrollment through completion, test-
 - [Only 78% of Kentucky AP course completers took the AP exam in 2021-22, and test-taking growth did not extend to Black or Latino students](ky-ap-test-taking-gap-black-latino.md) — related
 - [AP enrollment in Kentucky's highest-poverty districts dropped by half, to 5% of students, by 2021-22](ky-high-poverty-districts-ap-enrollment-halved.md) — a broader claim this one bears on
 - [The pandemic hurt advanced coursework completion in urban Texas districts more than in rural districts, which saw comparatively no change](pandemic-urban-rural-completion-divergence.md) — related
+- [Specialist and general-track language choices are coupled through shared teacher pipelines](teacher-resource-coupling-tracks.md) — related

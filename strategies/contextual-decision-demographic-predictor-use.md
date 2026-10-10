@@ -37,7 +37,9 @@ The article offers a contextual decision framework rather than a blanket rule. U
 - Fair deployment of predictive analytics in educational decision-making
 
 ## Related Strategies
+
 - Demographics For Validation Not Prediction
+- [Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions](support-oriented-use-of-cheating-risk-predictions.md)
 
 ## Examples
 -

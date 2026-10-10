@@ -45,3 +45,4 @@ Re-estimation of all four models on the held-out confirmatory half (n = 201), in
 ## Related Claims
 - [A dominant general factor explains most common variance in the acceptance scale, supporting essential unidimensionality](bifactor-dominant-general-factor-acceptance.md) — possibly the same claim (merge candidate)
 - [A strict one-factor model fits poorly while four-factor, second-order, and bifactor models fit better, with the bifactor model favored by formal comparisons](competing-model-comparisons-bifactor-favored.md) — related
+- [Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability](efa-unidimensional-ai-pedagogical-orientation-scale.md) — related

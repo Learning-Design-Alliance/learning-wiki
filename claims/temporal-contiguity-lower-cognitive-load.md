@@ -48,3 +48,4 @@ Narrative review attribution covering two studies: Chang et al. (2011) on split-
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
 - [Redundancy Hurts Learning](redundancy-hurts-learning.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
+- [Automated CTML metrics show significant improvement in temporal contiguity and coherence for CTML-informed videos, while modality, redundancy, and image quality show no significant difference](automated-metrics-temporal-contiguity-coherence.md) — related

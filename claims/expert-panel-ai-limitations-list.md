@@ -52,3 +52,4 @@ Expert-panel discussion at a facilitated online convening; the report records th
 - [AI-based proctoring systems trained on western behavioural norms may exacerbate cultural and social challenges in non-English-speaking regions](ai-proctoring-western-norms-cultural-bias.md) — a narrower finding that bears on this claim
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
 - [The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported](geographical-and-positive-outcome-bias-in-ai-evidence.md) — related
+- [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
