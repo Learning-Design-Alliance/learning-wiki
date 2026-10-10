@@ -12,7 +12,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 26 claims (24 for, 2 mixed) · 30 studies (11 qualitative, 6 review, 4 causal, 4 design, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 30 report an effect size · 23 claims rest on one study
+> **Evidence** · 27 claims (25 for, 2 mixed) · 31 studies (11 qualitative, 6 review, 5 design, 4 causal, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 3 of 31 report an effect size · 24 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -59,6 +59,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Whether strategy instruction works better in authentic content-area tasks is untested, and the one meta-analytic comparison recorded found larger gains in strategic ability in language-arts than in content-area classes](../claims/learning-strategy-instruction-contextualized-more-effective.md) [~W] — an instructional effect differs with it
 - [Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems](../claims/youth-problems-personal-relevance-not-societal.md) [+W] — learners who differ on it differ in outcomes
 - [State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less](../claims/state-policy-shapes-principal-learning-access.md) [+M] — learners who differ on it differ in outcomes
+- [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](../claims/environmental-constraints-attributed-disengagement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Prior knowledge — the domain-specific dimension it is most often confused with: this is setting, that is knowledge.

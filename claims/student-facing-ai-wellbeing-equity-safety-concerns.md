@@ -63,3 +63,5 @@ Interview finding in the student-facing AI concerns section. The executive direc
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
+- [Design thesis: AI in socio-emotional teacher development is acceptable and potentially valuable when it functions as relational infrastructure rather than a substitutive emotional agent, evaluated through relational densification](ai-relational-infrastructure-design-thesis.md) — related
+- [Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions](paid-ai-tool-access-equity-advantage.md) — related

@@ -67,3 +67,4 @@ Thematic analysis found most SSWs focused on trauma from home country or initial
 - [SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access](ssws-perceive-meso-community-school-contexts.md) — related
 - [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](multicultural-approach-sensitivity-stressors.md) — related
 - [In Roster Justice, Avoidant-mindset participants described roster disparities in racially neutral terms while Aware-mindset participants named the racialized nature of the disparity](roster-justice-topics-track-avoidant-aware-mindsets.md) — related
+- [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — reports the opposite

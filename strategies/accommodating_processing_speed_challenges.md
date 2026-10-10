@@ -60,9 +60,11 @@ Processing speed is a bottleneck resource: slow execution of basic operations co
 6. **Fade and monitor.** Use [check-ins](../principles/check-ins.md) and [assessment for learning](../principles/assessment-for-learning.md) to review which accommodations remain necessary, withdrawing supports as automaticity grows [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M].
 
 ## Related Strategies
+
 - [Achievable micro-goals](achievable_micro-goals.md) — breaking tasks into small steps reduces the per-step processing burden and makes progress visible
 - [Acoustics and noise management](acoustics_and_noise_management.md) — reducing auditory distraction preserves processing resources for the task itself
 - [Accessible vocabulary and syntax](../principles/accessible-vocabulary-syntax.md) — lowering linguistic processing demands complements pacing adjustments at the input stage
+- [Use the AI Fatigue Model to adjust task design, pacing, and scaffolding at points where AI-related pressure is likely to increase](adjust-task-design-pacing-scaffolding-ai-fatigue-points.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — pauseable, self-paced video with transcript controls lets learners set their own processing rate rather than the instructor's.

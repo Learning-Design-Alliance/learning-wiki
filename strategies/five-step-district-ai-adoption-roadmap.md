@@ -49,6 +49,7 @@ The report synthesizes the state documents' advice into a common roadmap for loc
 - [Provide synthesized and customized evidence tailored to the state context](customized-evidence-synthesis-for-decision-making.md)
 - [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
 - [Provide professional development on the pedagogy and content of ethnic studies before implementing new ethnic studies standards](pd-before-ethnic-studies-standards-implementation.md)
+- [Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued](incremental-free-tier-ai-adoption-with-triple-review.md)
 
 ## Examples
 -

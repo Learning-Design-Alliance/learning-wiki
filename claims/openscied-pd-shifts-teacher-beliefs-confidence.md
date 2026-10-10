@@ -62,3 +62,4 @@ Same longitudinal survey analysis (Lowell, 2022); the review notes confidence in
 - [Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction](relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety.md) — related
 - [A half-day workshop featuring the PPH framework significantly increased dietitians' confidence to undertake pro-environmental change in their personal and professional lives](pph-workshop-increases-dietitians-pro-environmental-confidence.md) — related
 - [Most field-test teachers report curriculum-based professional learning prepared them for distinctive OpenSciEd pedagogy, with mixed results on standards beliefs](pd-prepares-storyline-pedagogy-implementation.md) — related
+- [Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)](ncstate-brief-training-stage-movement.md) — related

@@ -53,3 +53,4 @@ Pilot study of a blended graduate course: 26 students were surveyed three times 
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related
 - [Haitian teachers reported that pilot trainings improved their teaching, classroom management, and use of technology](haiti-teacher-training-self-reported-improvements.md) — related
 - [Learning Studio participation increased students' comfort with, and skills around, the Studio technologies](learning-studios-student-technology-comfort-increase.md) — related
+- [Among students, longer AI-use experience is monotonically associated with higher perceived usefulness (Spearman's r = 0.327), though self-selection may explain part of the pattern](experience-usefulness-association-students.md) — related

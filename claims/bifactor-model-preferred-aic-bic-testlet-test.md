@@ -54,3 +54,4 @@ Empirical comparison fitting a unidimensional 2PL model, a second-order model, a
 - [A multidimensional IRT model with simple structure fits testlet-based reading data better than both the general polytomous testlet model and the standard 2PL/GPCM](mirt-ss-fits-testlet-data-better.md) — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related
+- [A strict one-factor model fits poorly while four-factor, second-order, and bifactor models fit better, with the bifactor model favored by formal comparisons](competing-model-comparisons-bifactor-favored.md) — related

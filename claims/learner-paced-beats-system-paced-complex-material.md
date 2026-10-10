@@ -83,3 +83,4 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Learner flow control over animations was rarely used and did not correlate with learning performance](flow-control-unused-no-learning-correlation.md) — reports the opposite
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](students-pause-video-to-view-segment-menu.md) — related
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related
+- [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related

@@ -106,6 +106,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - **[Codecademy Completion Problems](https://www.codecademy.com)** — Initially provides full code examples, then transitions to "fill-in-the-blank" code, and finally to independent coding challenges.
 - **Faded Worked Examples** — A sequence where the first problem is fully worked, the second is half-worked, and the third is a full problem to solve.
 - [Provide worked examples during seatwork and homework to increase exposure to problem solving and reduce learning time](../strategies/worked-examples-seatwork-homework-problem-solving.md)
+- [Design AI educational systems that fade support and require learner justification to preserve independent problem solving](../strategies/fade-ai-support-require-justification.md)
 
 ## Key Sources
 - Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)

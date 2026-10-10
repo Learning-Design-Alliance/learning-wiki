@@ -47,6 +47,7 @@ The article proposes that a learning environment use a hint-taking prediction mo
 - [Encouraging Students to Ask for Help](encouraging_students_to_ask_for_help.md)
 - [Encouraging Help-Seeking Behavior](encouraging_help-seeking_behavior.md)
 - [Use early student-model predictions to identify at-risk students and adapt pedagogical strategy during tutoring](early-prediction-adaptive-pedagogical-strategy.md)
+- [Use lightweight transparency cues about AI fallibility to encourage more cautious, help-seeking interaction strategies](lightweight-ai-fallibility-transparency-cues.md)
 
 ## Examples
 -

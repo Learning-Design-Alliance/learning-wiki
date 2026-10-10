@@ -70,3 +70,4 @@ Same experiment, task-difficulty contrast on the CLM germane subscale: "no signi
 - [There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases](two-types-of-germane-load-related-to-intrinsic-load.md) — related
 - [Type 1 one-step equations (1 operational, 2 relational lines) are argued to be easier to learn than Type 2 (2 operational, 3 relational lines) due to lower cognitive load](type1-easier-than-type2-one-step-equations.md) — related
 - [Organization and task analysis were the most difficult problems in New York state writing competency testing](organization-task-analysis-hardest-writing-problems.md) — related
+- [Task difficulty increases hesitations, with significantly more hesitations on Medium and Hard tasks than Easy tasks](task-difficulty-increases-hesitations-scratch-videos.md) — related

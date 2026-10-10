@@ -45,3 +45,4 @@ Phase 2 prototype evaluation with three practitioners using SUS and 5-point Like
 ## Related Claims
 - [Special-education practitioners rated AdaptED Stories as strongly usable, with a mean SUS score of 86.8 corresponding to an A grade](adapted-stories-high-sus-usability-practitioners.md) — related
 - [Practitioners perceived the profile-driven workflow as reducing Social Story preparation burden](adapted-stories-reduces-preparation-burden.md) — related
+- [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related

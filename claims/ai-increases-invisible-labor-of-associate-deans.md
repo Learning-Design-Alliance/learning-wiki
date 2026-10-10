@@ -47,3 +47,4 @@ Findings from the qualitative survey case study, analyzed through a critical fem
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
 - [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — related
+- [Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education](adaptive-leadership-enables-ai-adoption.md) — a broader claim this one bears on

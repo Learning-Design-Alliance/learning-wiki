@@ -61,3 +61,4 @@ SPECTER-embedding similarity analysis over an expanded corpus of over 1,200 publ
 - [Coauthorship analysis of workshop organizers yields a 2,197-author network with six communities, 80% of nodes in the largest three, spanning diverse research lineages](coauthorship-network-six-communities.md) — related
 - [The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers](dlp-subfield-small-and-fragmented.md) — related
 - [Adaptive learning improves outcomes](adaptive-learning-improves-outcomes.md) — related
+- [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related

@@ -56,3 +56,5 @@ Study 2 interviews with informal educators across six summer or after-school pro
 - [Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies](wide-variation-virtual-science-implementation-sync-async.md) — related
 - [Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content](educator-adaptations-greater-access-virtual-content.md) — reports the opposite
 - [Families struggle to access and understand score reports because of technological, language, and explanation barriers](score-reports-inaccessible-to-families.md) — related
+- [Students identified weaknesses in the AI feedback model: lack of real-time feedback, software/economic access barriers, and occasional incorrect or inconsistent outputs](genai-feedback-weaknesses-realtime-and-errors.md) — related
+- [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related

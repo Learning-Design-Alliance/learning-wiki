@@ -47,3 +47,4 @@ Reflexive thematic analysis of the 5 interviewed Algebra 1 teachers' feedback on
 - [Teachers find Ecree's feedback less useful when it does not align with their typical content sequence and grading standards](ecree-feedback-less-useful-when-misaligned.md) — related
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — related
+- [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related

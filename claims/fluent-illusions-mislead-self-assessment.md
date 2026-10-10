@@ -139,3 +139,5 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Spaced practice improves retention](spaced-practice-improves-retention.md) — spacing produces durable learning that feels harder, illustrating the fluency mismatch
 - [Interleaving improves learning](interleaving-improves-inductive-learning.md) — interleaved practice is systematically underjudged relative to blocked practice
 - [Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers](video-self-observation-powerful-coaching-component.md) — related
+- [In CLIL, teachers perceive conceptual hollowing, a bilingual bluff, translation dependency, and a synthesis illusion](clil-four-ethical-tensions.md) — related
+- [In CLT, teachers perceive an authenticity crisis, risk-free fluency, a confidence mirage, and pragmatic blindness](clt-four-ethical-tensions.md) — related

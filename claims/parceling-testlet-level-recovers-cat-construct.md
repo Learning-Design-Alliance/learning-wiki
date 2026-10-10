@@ -51,3 +51,4 @@ Simulation results at the testlet level (Tables 7 and 8): the article reports "C
 - [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
 - [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
 - [CAT development decisions influence and might threaten content alignment](cat-development-decisions-threaten-alignment.md) — related
+- [Under ordinal (WLSMV) estimation the bifactor model is not identifiable, with the S-1 diagnostic implicating the effectiveness-specific factor](wlsmv-bifactor-non-identification-s1-diagnostic.md) — related

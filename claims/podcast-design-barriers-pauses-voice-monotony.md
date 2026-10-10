@@ -45,3 +45,4 @@ Qualitative Framework Analysis of four FGDs (three at Centre 1, one at Centre 2;
 ## Related Claims
 - [AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres](ai-revision-podcasts-immediate-learning-gains-medical-students.md) — related
 - [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](podcast-topic-wise-gain-heterogeneity.md) — related
+- [Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators](five-dimensions-ai-fatigue-grounded-theory.md) — related

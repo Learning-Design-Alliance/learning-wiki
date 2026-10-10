@@ -73,6 +73,7 @@ Defining the product up front gives learners a clear performance goal and gives 
 **[Codecademy](https://www.codecademy.com) capstone projects** — After guided exercises, learners build a working application from a specification; the running program is the product that demonstrates integrated skill.
 
 **Design studio critiques (architecture, engineering)** — Learners produce drawings or prototypes and defend them in critique; the product anchors iterative feedback from experts and peers.
+- [Assess process over product using staged, connected tasks with iterative evidence](../strategies/assess-process-over-product-staged-tasks.md)
 
 ## Key Sources
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge.

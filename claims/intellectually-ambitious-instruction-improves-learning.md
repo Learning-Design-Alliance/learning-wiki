@@ -48,3 +48,4 @@ The report synthesizes an expanding body of evidence on human learning and cogni
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [The report cites research evidence that students exposed to authentic intellectual challenges are more engaged than students given conventional schoolwork](authentic-challenges-increase-engagement.md) — related
+- [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](ai-generated-responses-higher-quadratic-achievement.md) — a narrower finding that bears on this claim

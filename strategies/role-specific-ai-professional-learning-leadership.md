@@ -50,6 +50,7 @@ The report's third use case illustrates Recommendation 3—investing 'in role-sp
 - [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Support digitally fluent career pathways through ecosystems, educator training, work-based learning, convenings, and showcases](clpi-digital-fluency-pathway-supports.md)
+- [Pair digital-infrastructure funding with blended-learning support and AI literacy training for students](pair-infrastructure-funding-with-ai-literacy-training-and-blended-support.md)
 
 ## Examples
 -

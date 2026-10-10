@@ -66,6 +66,7 @@ Backward design counters the common "activity-oriented" and "coverage-oriented" 
 - [Provide teachers with exemplar NGSS-aligned CBL units and templates to customize rather than requiring design from scratch](hybrid-unit-template-customization-approach.md)
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
 - [Use backward design: complete the concept column first, mapping prior-knowledge, connecting, and application concepts before planning activities](backward-design-concept-column-first.md)
+- [Assess process over product using staged, connected tasks with iterative evidence](assess-process-over-product-staged-tasks.md)
 
 ## Examples
 - **ASCD UbD Exchange and *Understanding by Design* Professional Development Workbook** — the official template with design standards used in thousands of school systems ([ASCD](https://www.ascd.org))

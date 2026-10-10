@@ -45,3 +45,4 @@ Consistency evaluation comparing LLM-generated labels across all clusters, part 
 ## Related Claims
 - [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
 - [Semantic clustering yielded two-level topic structures reduced to 14 meaningful H-clusters for communication and 16 for digital literacy](two-level-clustering-meaningful-h-clusters.md) — related
+- [AI/ML fundamentals, agentic development, prompting, and testing are the most commonly documented topics in AI-assisted software engineering courses](ai-se-topics-fundamentals-agentic-prompting-testing.md) — related

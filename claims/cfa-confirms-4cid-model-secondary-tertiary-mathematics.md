@@ -43,3 +43,4 @@ Confirmatory factor analysis of FICSMath survey responses from 5,985 college cal
 
 ## Related Claims
 - [FICSMath instructional experiences converge into four 4C/ID-aligned factors: complex tasks (4 items), whole-task concept overviews (17), procedural support (16), and practice opportunities (13)](four-4cid-factors-observed-variable-counts.md) — a narrower finding that bears on this claim
+- [The objective-based measure yields a confirmed three-factor structure with acceptable fit in the full sample](ob-measure-three-factor-cfa.md) — related

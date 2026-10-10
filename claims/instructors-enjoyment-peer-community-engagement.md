@@ -54,3 +54,4 @@ Study 1 thematic network analysis (Attride-Stirling method) of instructor interv
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
 - [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md) — related
 - [Students at Oakland International High School report a strong sense of community, close relationships, and happiness at school](oakland-international-students-report-sense-of-community.md) — related
+- [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — related

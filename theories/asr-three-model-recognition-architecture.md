@@ -55,6 +55,7 @@ The article describes how ASR recognizes speech: a waveform is split into uttera
 
 - [Rainbow passage with ASR transcription and segmental error rate (SER) as a pronunciation diagnostic instrument](../products/rainbow-passage-with-asr-transcription-and-segmental-error-rate-ser.md)
 - [ASR read-aloud compare-and-repeat self-study strategy for pronunciation practice](../strategies/asr-read-aloud-compare-repeat-strategy.md)
+- [Use ASR confidence as a proxy for listening difficulty to drive segment-level playback speed](../strategies/asr-confidence-proxy-for-listening-difficulty.md)
 
 ## Key Sources
 - Ali, S. (2016). Towards the development of a comprehensive pedagogical framework for pronunciation training based on adapted automatic speech recognition systems. In S. Papadima-Sophocleous, L. Bradley & S. Thouësny (Eds), CALL communities and culture – short papers from EUROCALL 2016 (pp. 7-13). Research-publishing.net. https://doi.org/10.14705/rpnet.2016.eurocall2016.530

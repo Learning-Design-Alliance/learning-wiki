@@ -44,3 +44,4 @@ MANCOVA on data from 89 undergraduates (G1: n = 27; G2: n = 28; G3: n = 34) in a
 
 ## Related Claims
 - [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](adaptive-retrieval-posttest-retention-advantage.md) — related
+- [Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period](genai-feedback-improves-violin-intonation-posttest.md) — related

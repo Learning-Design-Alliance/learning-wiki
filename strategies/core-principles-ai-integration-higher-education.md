@@ -49,6 +49,9 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 - [Prioritize transparency, ethical guidelines, and researcher-educator collaboration when conducting K–8 MMLA research](mmla-k8-transparency-ethics-strategy.md)
 - [Use the Recommendation's Policy Action Areas to translate AI ethics values into policy across education, data governance and other spheres](policy-action-areas-translate-ai-ethics-values.md)
 - [Use the framework as a global reference to guide national AI competency frameworks, teacher training, and assessment parameters](use-ai-competency-framework-as-global-reference.md)
+- [Encourage students to use AI-generated responses while observing ethical guidelines](ethical-guidelines-for-student-ai-use.md)
+- [Use the integrated technical–pedagogical limitation framework to inform teacher education, instructional design, and institutional AI policies in undergraduate EFL programs](framework-informs-teacher-education-instructional-design-ai-efl-policies.md)
+- [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
 
 ## Related Principles
 - 

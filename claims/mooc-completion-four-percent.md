@@ -44,3 +44,4 @@ The paper cites a University of Pennsylvania Graduate School of Education study 
 
 ## Related Claims
 - [Students report rarely reading their physics textbooks, with half claiming never to have used it in an entire semester](students-rarely-read-textbook.md) — related
+- [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related

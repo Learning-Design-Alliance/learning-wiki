@@ -81,6 +81,7 @@ Sense of belonging predicts persistence and engagement, particularly for at-risk
 - [Accountability Partners](accountability-partners.md) — a lightweight structure that converts community into sustained individual follow-through
 - [Check-Ins](../elements/check-in.md) — the recurring ritual that keeps relational awareness alive after launch
 - [Build trusting relationships among workgroup participants through structured facilitation](trust-building-facilitation-practices.md)
+- [Support affective cohesion through positive atmosphere and empathy formation in chatbot dialogue](chatbot-affective-cohesion-positive-atmosphere-empathy.md)
 
 ## Examples
 - **PBL teams with role rotation and team charters** — interdependent roles (facilitator, recorder, skeptic) with individual deliverables prevent free-riding while building team cohesion.

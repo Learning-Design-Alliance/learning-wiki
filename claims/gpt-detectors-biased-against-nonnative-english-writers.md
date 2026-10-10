@@ -43,3 +43,4 @@ In the Ethics rationale, the deck cites Liang et al. (2023), reporting that "GPT
 ## Related Claims
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Educators cautiously support AI for culturally responsive content generation while fearing cultural biases and stereotypes in AI output](culturally-responsive-ai-content-cautious-optimism.md) — related
+- [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — possibly the same claim (merge candidate)

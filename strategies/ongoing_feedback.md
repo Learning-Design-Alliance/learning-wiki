@@ -65,6 +65,7 @@ Ongoing feedback operationalizes [Assessment for Learning](../principles/assessm
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a time-efficient conferencing format for delivering ongoing feedback in class
 - [Using Mathspace workflows to provide timely, mastery-oriented feedback on student work](mathspace-mastery-oriented-feedback-workflow.md)
 - [Use GenAI across the writing process stages of pre-writing, drafting language support, and revision feedback, and for discussion questions, differentiated explanations, and scaffolded practice](genai-writing-process-and-instructional-uses.md)
+- [Assess process over product using staged, connected tasks with iterative evidence](assess-process-over-product-staged-tasks.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — revision is the practice that converts feedback into learning

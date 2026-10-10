@@ -48,7 +48,8 @@ The genetic (developmental) method is Vygotsky's historically based methodology 
 - [Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge](piaget-genetic-epistemology-constructivist-knowing.md)
 
 ## Examples
--
+
+- [Study cognition with methods that allow real-world AI use, including longitudinal designs tracking self-regulation formation](../strategies/research-methods-ai-present-cognition.md)
 
 ## Key Sources
 - Karimi-Aghdam, S., & Lantolf, J. P. (2020). Dialectical Emergence of Language and Consciousness in Society: An Interview with Professor James P. Lantolf. The Journal of Applied Linguistics and Applied Literature: Dynamics and Advances, 8(2), 3-21. https://eric.ed.gov/?id=ED610078

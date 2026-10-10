@@ -47,3 +47,4 @@ Task 1 follow-up survey after educators implemented a research-based strategy su
 - [A brief self-guided engagement with the LVN shifted most educators' perception of the importance of learner variability](lvn-brief-engagement-shifts-variability-perception.md) — related
 - [Educators reported increased confidence across all four pillars of the whole-child model after LVN use](lvn-confidence-gains-four-pillars.md) — related
 - [Educators reported the LVN strategy bank improved their understanding, use, and identification of strategies](lvn-strategy-bank-improves-practice.md) — related
+- [Playing the gamified security modules raised students' self-reported confidence and understanding of online security](gamified-security-games-confidence-understanding.md) — related

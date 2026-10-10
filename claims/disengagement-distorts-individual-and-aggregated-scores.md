@@ -57,3 +57,4 @@ The article states accumulated research has advanced "our understanding of its d
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
 - [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md) — related
 - [School-level aggregated scores on the computer-based PISA-Based Test for Schools were highly stable despite considerable differential engagement among schools](school-means-stable-despite-differential-engagement.md) — a narrower finding that bears on this claim
+- [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](ai-video-viewing-yields-quiz-scores-4-3.md) — a narrower finding that bears on this claim

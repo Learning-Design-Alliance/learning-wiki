@@ -58,9 +58,11 @@ Completion problems reduce the unguided search that overwhelms novices while sti
 5. Monitor performance and adjust the fading schedule; move to independent problems once completion is consistently accurate.
 
 ## Related Strategies
+
 - [Worked Examples](worked-examples.md) — the fully-solved endpoint of the fading continuum; completion problems are the bridge out of them
 - [Problem-Based Learning](problem-based-learning.md) — the contrast case: minimal guidance, appropriate only after schemas are established
 - [Scaffolded Practice](scaffolded-practice.md) — completion problems are a form of scaffolded practice with the scaffold defined by solution completeness
+- [Design AI educational systems that fade support and require learner justification to preserve independent problem solving](fade-ai-support-require-justification.md)
 
 ## Examples
 - **van Merriënboer's programming curriculum (LOGO and Pascal studies)** — learners completed partially written programs rather than writing programs from scratch, producing better learning with less invested effort than generation from scratch.

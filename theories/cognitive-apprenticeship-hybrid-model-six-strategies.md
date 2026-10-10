@@ -54,6 +54,7 @@ Cognitive apprenticeship is an instructional paradigm that, per the article, mer
 
 - [Technical mathematics course structure combining expert modeling lectures with collaborative workshop sessions](../designs/modeling-lectures-plus-collaborative-workshop-sessions.md)
 - [Implement cognitive apprenticeship in technical mathematics only after requiring lab attendance, training teachers in coaching, building teachers' technical knowledge, and allotting more lab time](../strategies/cognitive-apprenticeship-implementation-recommendations.md)
+- [Design AI educational systems that fade support and require learner justification to preserve independent problem solving](../strategies/fade-ai-support-require-justification.md)
 
 ## Key Sources
 - Johnson, Scott D.; Fischbach, Rita McDonough. (1992). Teaching Problem Solving and Technical Mathematics Through Cognitive Apprenticeship at the Community College Level. National Center for Research in Vocational Education. https://eric.ed.gov/?id=ED352455

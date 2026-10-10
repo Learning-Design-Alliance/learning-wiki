@@ -42,6 +42,8 @@ The review recommends that educators craft assignments incorporating generative 
 - [Resistance Reading and Counter-Narratives](resistance_reading_and_counter-narratives.md)
 - [Require students to justify how they used AI output: what they accepted, rejected, revised, or verified, and why](require-justification-of-ai-output-use.md)
 - [Support learners to evaluate AI outputs by verifying sources, reporting errors, and overriding recommendations](evaluate-ai-outputs-verify-override.md)
+- [Computing instructors should approach GenAI slide generation as programmers: work iteratively with coding assistants and text-based slide toolchains](instructors-as-programmers-genai-slides.md)
+- [Use shared metacognition as the routine practice for educators and learners to critically evaluate AI-generated outputs](shared-metacognition-practice-for-ai-outputs.md)
 
 ## Examples
 -

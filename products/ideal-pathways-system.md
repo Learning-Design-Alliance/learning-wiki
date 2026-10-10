@@ -20,6 +20,7 @@ A college-and-career pathways framework proposed by Rebeca Shackleford and colle
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Five elements of an ideal pathways system: clear choices, smart start, access for all, guided beginnings, final prep**: The brief enumerates five essential elements an ideal pathways system ensures for students and families: "1. Clear choices: a clear understanding of all their options 2. A smart start: early outreach before entering high school 3. Access for all: information that is accessible and in multiple formats 4. Guided beginnings: regular touchpoints with a navigator 5. Final prep: dedicated and targeted support in high school." Each element is paired with promising state practices, such as Indiana's College Core planning tool, Connecticut's Student Success Plans, DCPS language access, Illinois' PaCE Framework, and Pinellas County college and career centers. (Rebeca Shackleford et al. (2024))
 
 ### Claims
 

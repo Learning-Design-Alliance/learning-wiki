@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (36 for, 17 mixed) · 42 studies (15 associational, 9 review, 8 design, 5 theoretical, 4 causal, 1 quant-synthesis), `q1`–`q3` · 3 of 42 report an effect size · 52 claims rest on one study
+> **Evidence** · 54 claims (37 for, 17 mixed) · 43 studies (15 associational, 9 review, 8 design, 5 causal, 5 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 43 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [MDTP scores on five of seven topics significantly predict grade 8 algebra I proficiency after controlling for grade 6 CST scale score](../claims/mdtp-topic-scores-predict-algebra-proficiency.md) [+W] — attached 2026-10-09 from Chun-Wei Huang et al. (2016), which proposed "Use continuous scale scores and immediately available diagnostic assessments rather than proficiency status alone to guide grade 8 algebra I placement"; tests this page's relationship.
 - [The article argues for shifting from the definition of validity to the concept of effectiveness for classroom assessment score use](../claims/shift-from-validity-to-effectiveness.md) [~W] — attached 2026-10-10 from Garron Gianopulos (2021), which proposed "Design and evaluate classroom assessments around the problem, or 'job-to-be-done,' the intended test user needs solved".
 - [Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish](../claims/bilinguals-better-math-tested-in-spanish.md) [+W] — attached 2026-10-10 from Rolla et al. (2024), which proposed "Use bilingual profiles—assessments covering proficiency in both English and the home language—to identify supports and close opportunity gaps for Spanish–English bilingual kindergarteners"; tests this page's relationship.
+- [Round II raised exact question-part agreement from about 63% to about 70% and cut parts differing by more than one point from about 13% to 7%, while exact partial-credit scoring remained hardest](../claims/question-part-agreement-partial-credit-limits.md) [+W] — attached 2026-10-10 from Praveen Pathak et al. (2026), which proposed "Use AI grading of handwritten physics assessments as a second reader or audit tool under examiner control, not as the grader of record"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -86,3 +86,4 @@ Thematic synthesis of teacher-training obstacles, citing Chou (2007), Amatea et 
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — related
 - [Traditional dance class structure offers insufficient opportunity for students to develop a sensitized relationship with their body](traditional-dance-class-structure-limits-body-listening.md) — related
 - [Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels](limited-educator-ai-training-resistance-by-grade.md) — related
+- [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related

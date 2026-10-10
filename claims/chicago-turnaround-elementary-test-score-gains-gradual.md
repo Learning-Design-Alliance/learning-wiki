@@ -72,3 +72,4 @@ Trend analysis of standardized reading and math scores four years after interven
 - [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](turnaround-is-a-process-not-an-event.md) — a broader claim this one bears on
 - [Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year](lynwood-dfi-decrease-intervention-tracking.md) — related
 - [Placing a full cohort of 25 residents as co-teachers in one high-need elementary school coincided with schoolwide achievement gains in ELA and mathematics within one year.](fresno-wishon-residency-cohort-achievement-gains.md) — related
+- [Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention](its-gradual-trend-not-intervention-effect.md) — related

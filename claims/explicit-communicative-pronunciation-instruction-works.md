@@ -87,3 +87,4 @@ The two meta-analyses support the first half of this claim, that explicit attent
 ## Related Claims
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — related
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — reports the opposite
+- [Profy practice shows larger observed pronunciation-intelligibility improvement than elicited imitation, with non-overlapping pre/post confidence intervals](profy-intelligibility-gain-over-elicited-imitation.md) — a narrower finding that bears on this claim

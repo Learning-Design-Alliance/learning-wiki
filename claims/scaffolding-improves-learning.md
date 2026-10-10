@@ -99,3 +99,6 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — related
 - [A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant](contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) — a narrower finding that bears on this claim
+- [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](ai-scaffolding-developmental-impact-conditional.md) — related
+- [The L2C coach adaptively modulates assistance by estimated learner skill and physical context, concentrating intervention around gates](l2c-adaptive-assistance-by-skill-and-context.md) — a narrower finding that bears on this claim
+- [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](tblt-four-ethical-tensions.md) — related

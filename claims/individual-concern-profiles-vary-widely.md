@@ -46,3 +46,4 @@ Two individual case profiles (Figures 9 and 10) presented to illustrate variatio
 - [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](stages-of-concern-developmental-trend.md) — related
 - [The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns](workshop-shifts-concerns-toward-user-profile.md) — related
 - [Management concerns never predominated for any group in the SCIS implementation, contrary to other innovation studies](management-concerns-never-predominated-scis.md) — related
+- [Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)](ncstate-brief-training-stage-movement.md) — related

@@ -77,12 +77,14 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 6. Follow viewing with in-class or online [Practice](../elements/practice.md) and [Provide Guidance](../elements/provide-guidance.md)
 
 ## Related Strategies
+
 - [Flipped Classroom](../patterns/flipped-classroom.md) — the most common structural use of pre-recorded video as first exposure
 - [Demonstration](../elements/demonstration.md) — video is a natural medium for narrated modeling
 - [Direct Instruction](../elements/direct-instruction.md) — the instructional function video most often carries
 - [Blended Learning](../patterns/blended-learning.md) — pre-recording is the asynchronous component of blended course designs
 - [Offer lectures both live (synchronously) and as posted recordings so students with connectivity, work, or time-zone constraints are not disadvantaged](offer-synchronous-and-recorded-lecture-options.md)
 - [Offer course lectures both live and as posted recordings to balance equity of access with schedule and accountability](offer-lectures-synchronous-and-recorded.md)
+- [Deploy AI-generated videos for simple, supplemental, and visual content without displacing instructor presence](deploy-ai-videos-supplemental-simple-visual.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — short narrated screencasts with worked examples, followed by practice exercises; a canonical application of the short-video-plus-practice model

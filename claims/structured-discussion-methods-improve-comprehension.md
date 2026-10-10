@@ -149,3 +149,5 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations](intellectually-ambitious-instruction-improves-learning.md) — related
 - [Productive discourse practices correlate with improved performance on standardized tests of reasoning](discourse-practices-correlate-reasoning-tests.md) — related
 - [Teacher control over small-group dialogue is inversely related to groups' socially shared regulation of learning](teacher-control-inverse-ssrl-physics.md) — related
+- [Critical thinking improvement differed by proficiency level: high-level students gained 18%, intermediate 12%, and low-level 8%, with asymmetric feedback adaptation](wise-agent-differential-proficiency-trajectories.md) — a narrower finding that bears on this claim
+- [Low-level students showed stage-based fluctuation with a time-lag effect in which thinking improvement preceded writing improvement, while high-level students remained stable](wise-agent-time-lag-low-level-fluctuation.md) — related

@@ -62,6 +62,7 @@ Positive teacher–student relationships predict engagement, achievement, and re
 - [Check-Ins](../elements/check-in.md) — a repeatable structural routine that generates the individual knowledge relationships require
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — brief individual contact that combines relationship maintenance with feedback
 - [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
+- [Support affective cohesion through positive atmosphere and empathy formation in chatbot dialogue](chatbot-affective-cohesion-positive-atmosphere-empathy.md)
 
 ## Examples
 - **Restorative practice circles** in K–12 schools — structured whole-class circles that build peer and teacher–student relationships as the base for community-based discipline

@@ -49,3 +49,4 @@ Judgment in Table 1 of the qualitative evaluation. The author explains that scaf
 - [Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners](khanmigo-learner-fit-not-supported.md) — related
 - [Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners](khanmigo-meaning-focus-partially-supported.md) — related
 - [Khanmigo fully supports the authenticity criterion: nearly all activities except Chat can engage learners in authentic tasks](khanmigo-authenticity-fully-supported.md) — related
+- [In CLT, teachers perceive an authenticity crisis, risk-free fluency, a confidence mirage, and pragmatic blindness](clt-four-ethical-tensions.md) — related

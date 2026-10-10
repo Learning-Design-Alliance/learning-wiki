@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 qualitative, 1 theoretical), `q2` · 0 of 2 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (1 causal, 1 qualitative, 1 theoretical), `q2`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -41,7 +41,9 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - Efficient execution of a strategy so that it frees rather than consumes cognitive capacity
 
 ## Claims
+
 - [Fluent bilingualism enhances metalinguistic awareness](../claims/bilingual-fluency-enhances-metalinguistic-awareness.md) [+M]
+- [Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong](../claims/ai-access-inflates-confidence.md) [+W] — attached 2026-10-10 from Chiara Marcoccia et al. (2026), which proposed "Epistemia: acceptance of AI output for surface fluency lowers the metacognitive threshold for answering".
 
 ## Related Theories
 

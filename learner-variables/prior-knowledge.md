@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (32 for, 14 mixed, 7 against) · 46 studies (15 causal, 8 review, 7 associational, 6 theoretical, 5 design, 4 quant-synthesis, 1 qualitative), `q1`–`q4` · 10 of 46 report an effect size · 45 claims rest on one study
+> **Evidence** · 54 claims (32 for, 15 mixed, 7 against) · 47 studies (15 causal, 9 review, 7 associational, 6 theoretical, 5 design, 4 quant-synthesis, 1 qualitative), `q1`–`q4` · 10 of 47 report an effect size · 46 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -86,6 +86,7 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [BKT scaffolding significantly benefits low prior knowledge students, who outperformed low prior knowledge controls](../claims/bkt-benefits-low-prior-knowledge-students.md) [+M] — an instructional effect differs with it
 - [DRL scaffolding significantly benefits high prior knowledge students while BKT does not, and condition-by-prior-knowledge interactions are not significant](../claims/drl-benefits-high-prior-knowledge-students.md) [-M] — an instructional effect differs with it
 - [Pilot self-efficacy gains decreased with self-reported expertise: beginners gained most (+1.18), intermediates +0.94, and advanced users +0.46, all significant](../claims/cc-self-train-gains-by-expertise-level.md) [+M] — learners who differ on it differ in outcomes
+- [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](../claims/ai-adaptive-systems-enhance-adult-engagement.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

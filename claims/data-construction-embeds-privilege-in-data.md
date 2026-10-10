@@ -66,3 +66,4 @@ The article argues algorithms may dismiss contradicting data if it is in the min
 - [Big Data's variety can aid redress of hermeneutical injustice by letting buried experiences find themselves within the data](big-data-variety-aids-hermeneutical-injustice-redress.md) — related
 - [Public accountability pressure on school-level improvement data can suppress honest inquiry and incentivize superficial fixes](accountability-pressure-suppresses-honest-inquiry.md) — related
 - [Machine learning systems can perpetuate biases contained in their training data](ml-training-data-perpetuates-bias.md) — related
+- [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
