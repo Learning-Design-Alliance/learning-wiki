@@ -756,7 +756,7 @@
 <h1 id="multi-armed-randomized-trial-analysis">Multi-armed randomized trial analysis<a class="headerlink" href="#multi-armed-randomized-trial-analysis" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 3 claims (3 for) · 1 study (1 theoretical), <code>q1</code> · 0 of 1 report an effect size · 3 claims rest on one study</p>
+<strong>Evidence</strong> · 7 claims (7 for) · 2 studies (2 theoretical), <code>q1</code>–<code>q2</code> · 0 of 2 report an effect size · 7 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The report's guidance is that analysts running studies with several intervention arms should not simply reuse two-group methods: estimators "need to be modified for the multi-armed design," hypothesis tests across pairwise contrasts require multiple comparison adjustments, and CACE estimation demands attention to its complex identifying assumptions. The principle directs evaluation design and analysis choices in multi-armed education studies.</p>
@@ -764,19 +764,70 @@
 <!-- How each source describes or uses the method -->
 <ul>
 <li><strong>Researchers conducting multi-armed RCTs should adapt estimation, multiplicity testing, and CACE methods from two-group practice</strong>: The report's guidance is that analysts running studies with several intervention arms should not simply reuse two-group methods: estimators "need to be modified for the multi-armed design," hypothesis tests across pairwise contrasts require multiple comparison adjustments, and CACE estimation demands attention to its complex identifying assumptions. The principle directs evaluation design and analysis choices in multi-armed education studies. (Peter Z. Schochet (2017))</li>
+<li><strong>Design-based estimation framework extended from two-group RCTs to multi-armed RCTs</strong>: The article develops design-based estimators for average treatment effects in randomized controlled trials with multiple research groups, building on an existing framework for single treatment-control designs. As the abstract states, "This article builds on this framework to develop design-based estimators for evaluations with multiple research groups." The framework addresses how two-group estimators must be adjusted when analysis involves pairwise contrasts across research groups. (Peter Z. Schochet (2018))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="../../claims/multi-armed-estimators-modify-two-group-estimators/">Design-based estimators for two-group designs require modification for multi-armed designs when comparing pairs of research groups</a> [+W]</li>
 <li><a href="../../claims/multi-armed-multiple-comparison-adjustments/">Multiple comparison adjustments are needed when conducting hypothesis tests across pairwise contrasts to identify the most effective interventions</a> [+W]</li>
 <li><a href="../../claims/multi-armed-cace-complex-assumptions/">Identifying and estimating the CACE parameter in the multi-armed context requires complex assumptions</a> [+W]</li>
+<li><a href="../../claims/design-based-estimators-clustered-blocked-designs/">The developed estimators apply to a wide range of education research designs, including clustered and blocked designs</a> [+W]</li>
+<li><a href="../../claims/variance-adjustment-reduces-precision-multi-armed/">Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision</a> [+W]</li>
+<li><a href="../../claims/pairwise-contrast-samples-represent-full-randomized-set/">In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units</a> [+W]</li>
+<li><a href="../../claims/block-weighting-full-randomized-sample-avoids-bias/">Blocks must be weighted to reflect the full randomized sample within the block, or biases result</a> [+W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Peter Z. Schochet. (2017). Multi-Armed RCTs: A Design-Based Framework. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov</li>
+<li>Peter Z. Schochet. (2018). Design-Based Estimators for Average Treatment Effects for Multi-Armed RCTs. Journal of Educational and Behavioral Statistics, vol. 43, issue 5. https://www.mathematica.org/publications/design-based-estimators-for-average-treatment-effects-for-multi-armed-rcts</li>
 </ul>
+<!-- merged 2026-10-10 from theories/design-based-estimators-multi-armed-rcts ("Design-based estimation framework extended from two-group RCTs to multi-armed RCTs"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Design-based estimation framework extended from two-group RCTs to multi-armed RCTs
+
+> **Theory** · [All theories](index.md)
+> **Evidence** · 5 claims (5 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 5 claims rest on one study
+
+## Description
+The article develops design-based estimators for average treatment effects in randomized controlled trials with multiple research groups, building on an existing framework for single treatment-control designs. As the abstract states, "This article builds on this framework to develop design-based estimators for evaluations with multiple research groups." The framework addresses how two-group estimators must be adjusted when analysis involves pairwise contrasts across research groups.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Evaluations with multiple research groups analyzed via pairwise contrasts across the research groups
+#### Constraints
+- Builds on design-based methods previously developed for designs with a single treatment and control group
+
+### Target Learners
+- education researchers analyzing multi-armed RCT data
+
+### Target Learning Objectives
+- accurate estimation of average treatment effects in education evaluations
+
+### Claims
+
+- [Design-based estimators for two-group designs require modification for multi-armed designs when comparing pairs of research groups](../../claims/multi-armed-estimators-modify-two-group-estimators/) [+W]
+- [The developed estimators apply to a wide range of education research designs, including clustered and blocked designs](../../claims/design-based-estimators-clustered-blocked-designs/) [+W]
+- [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](../../claims/variance-adjustment-reduces-precision-multi-armed/) [+W]
+- [In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units](../../claims/pairwise-contrast-samples-represent-full-randomized-set/) [+W]
+- [Blocks must be weighted to reflect the full randomized sample within the block, or biases result](../../claims/block-weighting-full-randomized-sample-avoids-bias/) [+W]
+
+## Related Theories
+
+- [Multi-armed RCT design-based framework for examining multiple interventions in a single study](../../theories/multi-armed-rct-design-based-framework/)
+- [Multisite randomized trials as a design for estimating both average effects and cross-site variation](../../theories/multisite-rct-design-average-and-variation/)
+
+## Examples
+
+- [Empirical example using data from a multi-armed education RCT](../../elements/empirical-example-multi-armed-education-rct/)
+
+## Key Sources
+- Peter Z. Schochet. (2018). Design-Based Estimators for Average Treatment Effects for Multi-Armed RCTs. Journal of Educational and Behavioral Statistics, vol. 43, issue 5. https://www.mathematica.org/publications/design-based-estimators-for-average-treatment-effects-for-multi-armed-rcts
+-->
+
 <details class="info">
 <summary>Page metadata</summary>
 <table>
@@ -814,6 +865,10 @@
 <tr>
 <td><code>trust</code></td>
 <td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>peter-z-schochet-2018</code></td>
 </tr>
 </tbody>
 </table>
