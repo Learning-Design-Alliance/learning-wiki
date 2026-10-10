@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="mentee-fidelity-on-hsls09-test-split-attribution-transmits-far-better-than-decisions-and-988-of-narrations-pass-the-faithfulness-audit">Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit<a class="headerlink" href="#mentee-fidelity-on-hsls09-test-split-attribution-transmits-far-better-than-decisions-and-988-of-narrations-pass-the-faithfulness-audit" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code> · <code>i3</code> large</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i3</code> On the held-out test split of 1,834 students, the mentee's estimates correlate with the mentor's at r = 0.71 with slope 0.55; top-cited covariates match the mentor's for 80.6% of students with an intersection-over-union of 0.77, but the mentee recommends treatment for all students while the mentor recommends 1,800 of 1,834. <a href="#chenguang-pan-2026">→ Chenguang Pan 2026</a>
+<code>q2 i?</code> On the HSLS:09 test set, 98.8% of mentee narrations pass the faithfulness audit in full, decompositions self-close for 99.7%, and 99.9% are unique; the residual 1.2% consists of minor slips rather than hallucinated quantities. <a href="#chenguang-pan-2026-2">→ Chenguang Pan 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="chenguang-pan-2026">Chenguang Pan 2026<a class="headerlink" href="#chenguang-pan-2026" title="Permanent link">&para;</a></h3>
+<p>Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165</p>
+<p><code>q2 · i3</code> · <code>design · r2</code></p>
+<p>Empirical HSLS:09 analysis evaluating the fine-tuned Gemma E2B mentee against its X-learner mentor on a held-out test split of 1,834 students. The printed fidelity effect sizes are r = 0.71 and slope 0.55. "The mentee's top-cited covariates match the mentor's for80.6%of students" with an IoU of 0.77; the mentee recommends treatment for all 1,834 while the mentor recommends 1,800.</p>
+<blockquote>
+<p>"As shown in the right panel in Figure 5, on the held-out test split of1,834students, the mentee's estimates correlate with the mentor's atr= 0.71, with a regression slope of0.55, which reflects the similar compression towards the mean from the simulation study."</p>
+</blockquote>
+<h3 id="chenguang-pan-2026-2">Chenguang Pan 2026 (2)<a class="headerlink" href="#chenguang-pan-2026-2" title="Permanent link">&para;</a></h3>
+<p>Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Empirical HSLS:09 analysis applying the faithfulness audit with no repair step to mentee narrations on the test set. "98.8%of narrations pass in full"; the residual 1.2% consists of minor slips, such as a direction word inconsistent with the sign of a small cited contribution, rather than hallucinated quantities.</p>
+<blockquote>
+<p>"On the test set,98.8%of narrations pass in full, the stated decomposition sums to the stated effect for99.7%and99.9%of narrations are unique."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../decision-collapse-severely-imbalanced-settings/">Decision quality collapses toward the majority action in severely imbalanced settings</a> — related</li>
+<li><a href="../estimator-loss-dominates-llm-distillation-error/">Under a realistic estimator, remaining error originates upstream rather than from the distillation step</a> — related</li>
+<li><a href="../distillation-step-nearly-lossless-oracle-signal/">Distillation step is nearly lossless when the mentor signal is an oracle</a> — a broader claim this one bears on</li>
+<li><a href="../narration-quality-independent-of-signal-quality/">Narration fluency is no evidence of correctness: narration quality is independent of signal quality</a> — related</li>
+<li><a href="../ap-ib-math-benefits-lowest-college-likelihood-most-hsls/">Pipeline applied to HSLS:09 recovers that advanced mathematics coursework benefits students least likely to enroll in four-year college the most</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>hsls-mentee-fidelity-attribution-better-than-decisions</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>chenguang-pan-2026</code>, <code>chenguang-pan-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

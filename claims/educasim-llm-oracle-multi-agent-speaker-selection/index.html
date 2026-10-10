@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EducaSim&#x27;s LLM-based speaker oracle distinguishes it from prior simulation tools on multi-agent interaction - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="educasims-llm-based-speaker-oracle-distinguishes-it-from-prior-simulation-tools-on-multi-agent-interaction">EducaSim's LLM-based speaker oracle distinguishes it from prior simulation tools on multi-agent interaction<a class="headerlink" href="#educasims-llm-based-speaker-oracle-distinguishes-it-from-prior-simulation-tools-on-multi-agent-interaction" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q1</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q1 i?</code> Unlike GPTeach and prior versions of Character.ai, whose next-speaker choices used random selection or static heuristics, EducaSim selects the next speaker with an LLM-based oracle that can decide an individual, the whole class, or silence should respond. <a href="#cameron-mohne-2026">→ Cameron Mohne 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="cameron-mohne-2026">Cameron Mohne 2026<a class="headerlink" href="#cameron-mohne-2026" title="Permanent link">&para;</a></h3>
+<p>Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech. (2026). EducaSim: Interactive Simulacra for CS1 Instructional Practice. https://arxiv.org/abs/2603.11444</p>
+<p><code>q1 · i?</code> · <code>design · r2</code></p>
+<p>Feature-comparison analysis (Section 3.2) of EducaSim versus Character.ai, ChatGPT, GPTeach, Rehearsal, and Clinical Mind AI. The authors report prior multi-agent tools chose speakers by "random choice or static heuristics", whereas EducaSim's oracle "decides who the next speaker should be", creating a simulation that more reasonably mirrors a real conversation. This is the authors' design comparison, not a measured experiment.</p>
+<blockquote>
+<p>"Furthermore, the next speaker was decided by random choice or static heuristics which could detract from the realism of a teaching interaction."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../structured-student-agents-differentiated-mastery-traces/">In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator</a> — related</li>
+<li><a href="../educasim-positive-teacher-sentiment-254-sessions/">Teachers who engaged with EducaSim generally viewed it as a positive experience</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>educasim-llm-oracle-multi-agent-speaker-selection</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>EducaSim's LLM-based speaker oracle distinguishes it from prior simulation tools on multi-agent interaction</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>EducaSim's LLM-based speaker oracle distinguishes it from prior simulation tools on multi-agent interaction</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>cameron-mohne-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

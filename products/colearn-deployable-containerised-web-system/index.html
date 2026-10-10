@@ -756,7 +756,7 @@
 <h1 id="colearn-deployable-containerised-web-system">CoLearn deployable containerised web system<a class="headerlink" href="#colearn-deployable-containerised-web-system" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a>
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>CoLearn is a containerised web application developed by Kailai He et al. for adaptive diagnostic Biology and Chemistry practice with LLM-generated questions and misconception feedback.</p>
@@ -764,8 +764,12 @@
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 <ul>
 <li><strong>CoLearn deployable containerised web system (Vite/React SPA, FastAPI backend, provider-selectable LLM)</strong>: CoLearn is a container-deployed web application whose frontend is a Vite + React + TypeScript single-page app and whose backend is FastAPI with an async MongoDB store, JWT/bcrypt authentication, and SSE streaming for live generation and grading. The LLM backend is provider-selectable (AWS Bedrock with Claude Sonnet 4.5 as the live default; an OpenAI-compatible path is also supported). "The whole stack starts with one command via Docker Compose", and the backend ships with a test suite covering BKT, grading, generation, streaming, RBAC, and the A/B analytics. (Kailai He et al. (2026))</li>
+<li><strong>Make an adaptive tutor's personalisation visible and testable through live mastery visualisation and built-in blind A/B comparison</strong>: CoLearn renders the agent's evolving belief in real time so "personalisation is something the user can see rather than take on trust", and includes a blind A/B interface presenting personalised and non-personalised questions in randomised, unlabelled positions. Results aggregate into an analytics dashboard reporting the preference rate, a 95% confidence interval, and a two-sided sign test against the 0.5 chance rate, making the adaptation inspectable and empirically testable by anyone. (Kailai He et al. (2026))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/collearn-ab-personalised-question-preference/">In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry</a> [+M]</li>
+</ul>
 <h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
 <p>-</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>

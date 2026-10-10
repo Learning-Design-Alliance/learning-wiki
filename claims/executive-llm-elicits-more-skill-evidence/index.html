@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>An Executive LLM focused on a skill elicits significantly more skill-related evidence than Independent Agents, with a crossover effect between skills - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="an-executive-llm-focused-on-a-skill-elicits-significantly-more-skill-related-evidence-than-independent-agents-with-a-crossover-effect-between-skills">An Executive LLM focused on a skill elicits significantly more skill-related evidence than Independent Agents, with a crossover effect between skills<a class="headerlink" href="#an-executive-llm-focused-on-a-skill-elicits-significantly-more-skill-related-evidence-than-independent-agents-with-a-crossover-effect-between-skills" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> At turn and conversation levels, a skill-matched Executive LLM elicited significantly more evidence for that skill than Independent Agents (Fisher exact test, p≤0.05), with conversation-level evidence rates of 92.4% for PM and 85% for CR. <a href="#globerson-2026">→ Globerson 2026</a>
+<code>q2 i?</code> Steering toward one sub-skill reduces evidence of the other (crossover), except for PM at the conversation level where both Executive LLM versions yielded similar rates. <a href="#globerson-2026-2">→ Globerson 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="globerson-2026">Globerson 2026<a class="headerlink" href="#globerson-2026" title="Permanent link">&para;</a></h3>
+<p>Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Randomized comparison of three protocols (CR Executive LLM, PM Executive LLM, Independent Agents) in 373 human conversations; starred brackets denote statistically significant differences (p≤0.05) using the Fisher exact test in Figures 6 and 7. "an Executive LLM focused on a skill always elicits significantly more evidence"; the skill-matched conversation-level rate was 92.4% for PM and 85% for CR.</p>
+<blockquote>
+<p>"First, it can be seen that an Executive LLM focused on a skill always elicits significantly more evidence for that skill than the Independent Agents."</p>
+</blockquote>
+<h3 id="globerson-2026-2">Globerson 2026 (2)<a class="headerlink" href="#globerson-2026-2" title="Permanent link">&para;</a></h3>
+<p>Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Same randomized human-conversation comparison: a crossover effect in which each Executive LLM version raises its matched skill's evidence and lowers the mismatched skill's, significant in three of four comparisons; PM at conversation level showed no significant difference between versions.</p>
+<blockquote>
+<p>"That is, steering the conversation towards CR increases evidence of CR but reduces evidence of PM and vice versa. This results in a significant difference in three of the four figures, except for measuring PM at the conversation level (Figure 7, Right), where similar information levels are obtained for both Executive LLM versions."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../subject-focus-instructions-no-effect/">Telling subjects to focus on a skill had no significant effect on conversation informativeness in either protocol</a> — related</li>
+<li><a href="../executive-llm-improves-skill-recovery-simulation/">In LLM-simulated subjects with known skill levels, the Executive LLM yields better skill-level recovery (lower MAE) than Independent Agents</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>executive-llm-elicits-more-skill-evidence</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>An Executive LLM focused on a skill elicits significantly more skill-related evidence than Independent Agents, with a crossover effect between skills</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>An Executive LLM focused on a skill elicits significantly more skill-related evidence than Independent Agents, with a crossover effect between skills</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>globerson-2026</code>, <code>globerson-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

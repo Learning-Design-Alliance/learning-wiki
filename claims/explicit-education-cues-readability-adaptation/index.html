@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="explicitly-mentioned-education-and-ses-cues-lead-most-models-to-produce-less-readable-responses-for-higher-education-users-showing-partial-readability-adaptation">Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation<a class="headerlink" href="#explicitly-mentioned-education-and-ses-cues-lead-most-models-to-produce-less-readable-responses-for-higher-education-users-showing-partial-readability-adaptation" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> When education levels are explicitly mentioned, users with higher educational level receive less readable responses, indicating models can partially adapt readability. <a href="#donya-rooein-2026">→ Donya Rooein 2026</a>
+<code>q2 i?</code> This readability adaptation does not occur under implicit conditioning, which instead produces surface mimicry such as longer responses for longer prompt histories. <a href="#donya-rooein-2026-2">→ Donya Rooein 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="donya-rooein-2026">Donya Rooein 2026<a class="headerlink" href="#donya-rooein-2026" title="Permanent link">&para;</a></h3>
+<p>Donya Rooein, Luca Benedetto, Dirk Hovy. (2026). The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment. https://arxiv.org/abs/2609.16993</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Regression analysis of Automated Readability Index (ARI) and Flesch Reading Ease (FRE) of responses in the QA task. The Education attribute produced significant positive ARI coefficients under explicit conditioning for Llama-70B, Llama-3B, Qwen-30B, and GPT-mini; similar effects appeared for mum_education, ses, and dad_education (Llama-70B).</p>
+<blockquote>
+<p>"users with higher educational level receive less readable responses: this suggests that if the models have access to an explicit reference to the educational level of the user they can partially adapt the readability of their responses."</p>
+</blockquote>
+<h3 id="donya-rooein-2026-2">Donya Rooein 2026 (2)<a class="headerlink" href="#donya-rooein-2026-2" title="Permanent link">&para;</a></h3>
+<p>Donya Rooein, Luca Benedetto, Dirk Hovy. (2026). The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment. https://arxiv.org/abs/2609.16993</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Cross-condition comparison of the QA readability results: under implicit conditioning the education-based readability adaptation is absent, and the article states the models "often mimic surface characteristics of previous prompt histories (e.g., longer responses for users with longer prompts in their history)". Implicit coefficients were smaller (µb = 0.56 for ARI, 0.51 for FRE).</p>
+<blockquote>
+<p>"Overall, our readability analysis suggests that when Exp references to the user’s (or their parents’) education level or Socio-Economic Status are avail- able, most models partially adapt their responses"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../education-ses-sentiment-bias-qa/">Higher stated education and SES levels receive responses with more positive sentiment, an implicit bias that can disadvantage lower-education users</a> — related</li>
+<li><a href="../implicit-conditioning-inflates-aes-scores-llama-70b/">Implicit demographic conditioning inflates AES scores in some models, with Llama-70B scores rising 1.57 points over its own default, while GPT models remain stable</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>explicit-education-cues-readability-adaptation</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>donya-rooein-2026</code>, <code>donya-rooein-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LLMs are more stable than supervised models across dataset shifts, though they do not surpass within-dataset fine-tuned performance - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="llms-are-more-stable-than-supervised-models-across-dataset-shifts-though-they-do-not-surpass-within-dataset-fine-tuned-performance">LLMs are more stable than supervised models across dataset shifts, though they do not surpass within-dataset fine-tuned performance<a class="headerlink" href="#llms-are-more-stable-than-supervised-models-across-dataset-shifts-though-they-do-not-surpass-within-dataset-fine-tuned-performance" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> LLM performance shows substantially less sensitivity to dataset shifts than the supervised models evaluated in RQ1. <a href="#abdolali-faraji-2026">→ Abdolali Faraji 2026</a>
+<code>q2 i?</code> GPT-5 consistently outperforms GPT-5-mini, but the gap is modest (average weighted F1 only 0.03 lower for the mini model). <a href="#abdolali-faraji-2026-2">→ Abdolali Faraji 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="abdolali-faraji-2026">Abdolali Faraji 2026<a class="headerlink" href="#abdolali-faraji-2026" title="Permanent link">&para;</a></h3>
+<p>Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>RQ2 discussion comparing Table 3 LLM results with Table 2 supervised results: LLMs did not surpass within-dataset fine-tuned performance but were comparatively stable across diverse datasets.</p>
+<blockquote>
+<p>"Compared to the supervised models evaluated in RQ1, LLM performance shows substantially less sensitivity to dataset shifts, indicating stronger cross-dataset robustness."</p>
+</blockquote>
+<h3 id="abdolali-faraji-2026-2">Abdolali Faraji 2026 (2)<a class="headerlink" href="#abdolali-faraji-2026-2" title="Permanent link">&para;</a></h3>
+<p>Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>RQ2 model-level comparison across all prompting strategies and datasets (Table 3): GPT-5 beat GPT-5-mini consistently, with the mini model averaging weighted F1 only 0.03 lower.</p>
+<blockquote>
+<p>"GPT-5 consistently performs better than GPT-5-mini; however, the performance gap remains modest, making GPT-5-mini a viable alternative when computational efficiency or cost is a concern, with an average weighted F1-score only 0.03 lower."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../echoprompt-cross-proxy-robustness/">EchoPrompt maintains cross-proxy robustness, averaging 87.06% AUROC across seven proxy models and outperforming DNA-DetectLLM by 2.70% AUROC on average</a> — related</li>
+<li><a href="../supervised-bloom-classifiers-degrade-cross-dataset/">Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>llms-more-stable-cross-dataset-than-supervised</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>LLMs are more stable than supervised models across dataset shifts, though they do not surpass within-dataset fine-tuned performance</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>LLMs are more stable than supervised models across dataset shifts, though they do not surpass within-dataset fine-tuned performance</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>abdolali-faraji-2026</code>, <code>abdolali-faraji-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

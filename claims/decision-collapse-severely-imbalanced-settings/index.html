@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Decision quality collapses toward the majority action in severely imbalanced settings - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="decision-quality-collapses-toward-the-majority-action-in-severely-imbalanced-settings">Decision quality collapses toward the majority action in severely imbalanced settings<a class="headerlink" href="#decision-quality-collapses-toward-the-majority-action-in-severely-imbalanced-settings" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Under severe imbalance with an X-learner, the mentee recommends treatment for every harmed student (UnsafeTreat = 1.000), where the mentor already recommends treatment for 0.926 of them. <a href="#chenguang-pan-2026">→ Chenguang Pan 2026</a>
+<code>q2 i?</code> Under an oracle mentor in the severely imbalanced case, the mentee still misrecommends 28.9% of the harmed subgroup, which the article identifies as pure distillation loss and the largest such gap anywhere in the table. <a href="#chenguang-pan-2026-2">→ Chenguang Pan 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="chenguang-pan-2026">Chenguang Pan 2026<a class="headerlink" href="#chenguang-pan-2026" title="Permanent link">&para;</a></h3>
+<p>Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Simulation study decision and safety metrics in the severely imbalanced case (97.1% truly treated). "the mentee recommends treatment for every such student (UnsafeTreat= 1.000)". Most of the failure originates in the X-learner estimator (UnsafeTreat = 0.926).</p>
+<blockquote>
+<p>"the mentee recommends treatment for every such student (UnsafeTreat= 1.000) where the mentor already recommends treatment for0.926of them, so the estimator introduces most of the failure and distillation closes the remainder."</p>
+</blockquote>
+<h3 id="chenguang-pan-2026-2">Chenguang Pan 2026 (2)<a class="headerlink" href="#chenguang-pan-2026-2" title="Permanent link">&para;</a></h3>
+<p>Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Simulation study oracle condition, severely imbalanced case. "the mentee still misrecommends28.9%of the harmed subgroup." In the balanced case distillation loss drops to 2.8% under oracle CATE.</p>
+<blockquote>
+<p>"the mentee still misrecommends28.9%of the harmed subgroup, which is pure distillation loss specific to the severely imbalanced case, and it is the largest such gap anywhere in the table."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../hsls-mentee-fidelity-attribution-better-than-decisions/">Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit</a> — related</li>
+<li><a href="../cv-test-misalignment-small-imbalanced-data/">Cross-validation-selected hyperparameters generalized to the test set only for Situation and Clarity, with the other four dimensions showing CV–test misalignment</a> — related</li>
+<li><a href="../estimator-loss-dominates-llm-distillation-error/">Under a realistic estimator, remaining error originates upstream rather than from the distillation step</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>decision-collapse-severely-imbalanced-settings</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Decision quality collapses toward the majority action in severely imbalanced settings</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Decision quality collapses toward the majority action in severely imbalanced settings</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>mixed</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>chenguang-pan-2026</code>, <code>chenguang-pan-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
