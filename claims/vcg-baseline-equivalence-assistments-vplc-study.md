@@ -50,3 +50,5 @@ Baseline equivalence analysis in the Methods section of the quasi-experimental s
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
 - [Baseline equivalence was established only for low-achieving students, so analyses for other grades and subpopulations do not meet WWC evidence standards](reading-plus-baseline-equivalence-low-achievers-only.md) — related
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related
+- [Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score](assistments-baseline-equivalence-proficiency-gap.md) — related
+- [Propensity score matching produced comparison groups equivalent at baseline (within +/- 0.25 standard deviations) on all pretest achievement measures across the three QEDs](propensity-matching-baseline-equivalence-magnet-qeds.md) — related

@@ -96,3 +96,4 @@ This meta-analysis covered 39 classroom (not laboratory) studies from 1980 onwar
 - [Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes](meta-analytic-moderate-large-effects-collaborative-learning.md) — related
 - [More group engagement in social regulation of learning is associated with higher-quality collaborative products](more-regulation-higher-product-quality.md) — a narrower finding that bears on this claim
 - [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](remote-shift-reduced-collaborative-learning.md) — related
+- [A district math administrator reported that schools supported by coaches with mathematics expertise showed greater gains and stronger collaborative structures than schools without such support](math-expertise-coaches-associated-greater-gains.md) — related

@@ -68,3 +68,4 @@ CPD arrest data matched with CPS enrollment for 2011-12. The report states "3.6 
 - [Student perceptions of safety and teacher perceptions of order improved in CPS high schools during the same period that OSS rates declined](safety-perceptions-improved-as-oss-declined.md) — related
 - [Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS](low-achievement-disability-suspension-rates-cps.md) — related
 - [Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict](defiance-drives-most-high-school-suspensions.md) — related
+- [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related

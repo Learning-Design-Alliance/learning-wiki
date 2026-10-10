@@ -65,3 +65,5 @@ The same cost analysis reports "the estimated economic cost of instructional coa
 - [Per-pupil spending on English Learners in California was only about $1,000 more than for non–English Learner peers in recent years](california-el-spending-gap-about-1000-per-pupil.md) — related
 - [Case study districts' staffing for English Learners falls well below Ohio cost-study recommendations for instructors and bilingual paraprofessionals](el-staffing-gaps-below-ohio-recommendations.md) — related
 - [Most participating LEAs employ instructional coaches and program coordinators positioned to influence English Learner program design, but these roles are vulnerable to funding cuts](sv-leas-employ-coaches-and-coordinators-for-el-programs.md) — related
+- [Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in](special-education-economies-of-scale-ideal-enrollment.md) — related
+- [California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals](california-funding-gap-26-5-billion.md) — related

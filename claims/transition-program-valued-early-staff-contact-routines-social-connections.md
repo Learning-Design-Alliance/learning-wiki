@@ -45,3 +45,4 @@ Parent interview responses in the study of the three-week transition program. Fa
 ## Related Claims
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](parent-to-parent-forums-community-support.md) — related
 - [Whether teachers knew their students before Summer Bridge predicted test-score increases and teacher practice, most strongly for older students](teacher-familiarity-predicts-summer-bridge-gains.md) — related
+- [Parents who attended APTT meetings, and multilingual-home parents, agreed more strongly that APTT and the preschool helped them prepare their child for kindergarten](aptt-attendance-linked-parent-readiness-capacity-agreement.md) — related

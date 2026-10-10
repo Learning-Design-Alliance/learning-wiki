@@ -45,6 +45,7 @@ The program embeds professional learning in its curriculum tools so teachers and
 - [Professional Learning Communities](professional-learning-communities.md)
 - [Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)](stemscopes-multi-format-professional-learning.md)
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
+- [Deliver school-based, job-embedded professional learning in varied well-matched formats](job-embedded-school-based-professional-learning.md)
 
 ## Examples
 -

@@ -62,3 +62,6 @@ This is the weakest-evidence claim in this ingest batch: a qualitative synthesis
 - [RPP researchers should explore supportive roles beyond research because research products are not necessarily what practitioners most immediately need or want](rpp-researchers-roles-beyond-research.md) — related
 - [A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function](rpp-trust-reciprocity-mutual-respect-benefits.md) — a narrower finding that bears on this claim
 - [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](relational-trust-precondition-participatory.md) — related
+- [Continuous improvement for equity requires trust and courageous conversations; without trusting relationships, the improvement process will not help](ci-equity-requires-trust-and-courageous-conversations.md) — related
+- [Relational elements — trust, voice and agency, and equity — are preconditions for restorative practices to work](relational-elements-precede-technical-restorative-results.md) — related
+- [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related

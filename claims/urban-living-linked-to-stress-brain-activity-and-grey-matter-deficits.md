@@ -47,3 +47,4 @@ The protocol summarizes prior long-term living-environment studies, stating "ind
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
 - [Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition](unsafe-environments-trigger-stress-response-impeding-cognition.md) — related
 - [By 1973, 70% of the US population lived in the nation's 247 Standard Metropolitan Statistical Areas](seventy-percent-population-in-metropolitan-areas.md) — related
+- [Experiences and environments in a baby's first three years significantly shape brain structure and functioning](first-three-years-shape-brain-structure-functioning.md) — related

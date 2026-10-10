@@ -44,3 +44,4 @@ WestEd's review of other states' reclassification policies, summarized in Figure
 
 ## Related Claims
 - [Educators in 2023-24 listening sessions repeatedly identified Criterion 4 as a barrier to reclassification that many English-only students could not meet](field-perceptions-criterion4-barrier.md) — related
+- [There is a conceptual disconnect between meeting the Title III English proficient standard and exiting EL status under Title I](title-iii-title-i-exit-disconnect.md) — related

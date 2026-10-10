@@ -57,9 +57,11 @@ Designing for marginalized students surfaces barriers that universal designs mis
 5. **Implement and monitor.** Track outcomes for the targeted group specifically, and use ongoing [Check-Ins](../elements/check-in.md) to detect whether the design is actually reaching the margins.
 
 ## Related Strategies
+
 - [Culturally responsive teaching](../principles/building-empathy.md) — the instructional stance that operationalizes what margin-centered design reveals
 - [Community-based learning](../principles/community-based-learning.md) — extends design beyond school walls to students' home and community contexts
 - [Communities of practice](../principles/communities-of-practice.md) — the vehicle for sustaining equity-centered design work among staff over time
+- [Include historically underserved voices in all stages of continuous improvement work, including designing solutions](include-historically-underserved-voices-in-ci.md)
 
 ## Examples
 - **Yu Ying Public Charter School (Washington, D.C.)** used this principle to address achievement gaps between Black and Latinx students and their Asian and white peers. Teams conducted empathy interviews and shadowed marginalized students, then designed interventions from those findings.

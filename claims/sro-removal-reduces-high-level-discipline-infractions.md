@@ -66,3 +66,4 @@ School-level Poisson count analysis of the 72 high schools with two SROs at base
 - [SRO removal was not significantly related to changes in overall discipline infractions or in suspensions at either the student or school level](sro-removal-no-change-infractions-suspensions.md) — related
 - [Police notifications declined substantially in schools that fully removed SROs, but the difference-in-difference was not statistically significant](sro-removal-police-notifications-declined-not-significant.md) — related
 - [SRO removal was not significantly related to changes in student or teacher perceptions of physical safety or in Student-Teacher Trust](sro-removal-no-change-school-climate-perceptions.md) — related
+- [Schools with school resource officers may have higher rates of exclusionary discipline, including a reported 21 percent increase in incidents](sros-associated-with-higher-exclusionary-discipline.md) — related

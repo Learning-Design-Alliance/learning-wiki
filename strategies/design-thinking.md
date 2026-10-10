@@ -72,6 +72,7 @@ Design Thinking situates learning in ill-structured, authentic problems, which s
 - [Project-Based Learning](../patterns/cognitive-apprenticeship.md) — design thinking supplies a repeatable process structure for the open-ended inquiry at the heart of project work
 - [Engage users and community members in the design process to make learning tools more attractive, useful, and effective](user-and-community-centered-design-methods.md)
 - [Conduct empathy interviews to understand user experiences with technology](empathy-interviews-for-ai-policy-development.md)
+- [Use a design thinking process with Empathize, Define, Ideate, Prototype, and Test stages to reimagine school safety](design-thinking-reimagining-school-safety.md)
 
 ## Examples
 - **Stanford d.school K12 Lab** (https://dschool.stanford.edu) — publishes design challenge curricula and the "wallet project" sprint used widely in schools and universities

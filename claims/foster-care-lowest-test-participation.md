@@ -48,3 +48,4 @@ Observational analysis of participation in AIMS/AIMS A or AZELLA testing in grad
 - [Arizona students in foster care changed schools during the school year at about four times the rate of other students](foster-care-high-school-mobility-arizona.md) — related
 - [Arizona students in foster care were less likely than all students statewide to attend the state's highest-performing schools](foster-care-low-performing-schools-arizona.md) — related
 - [Arizona students in foster care attended nontraditional schools at several times the rate of other students, especially in high school](foster-care-nontraditional-school-enrollment.md) — related
+- [Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate](foster-care-participation-dropout-graduation.md) — related

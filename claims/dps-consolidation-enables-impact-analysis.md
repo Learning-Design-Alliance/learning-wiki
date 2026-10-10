@@ -50,3 +50,4 @@ Case-study interview finding about an emerging vendor partnership under the cons
 - [DPS's evaluation process led schools to use safer edtech products by prioritizing student data privacy and accessibility review](dps-evaluation-safer-edtech-products.md) — related
 - [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](edtech-procurement-implementation-gap.md) — related
 - [Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars](denver-cross-functional-review-shrunk-edtech-portfolio.md) — related
+- [Districts are not yet systematically using TPE-generated information, with technology serving mainly as a repository](districts-not-systematically-using-tpe-data.md) — related

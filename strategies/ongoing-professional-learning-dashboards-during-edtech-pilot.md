@@ -51,6 +51,7 @@ Step 4 directs leaders to "Provide professional learning throughout pilot period
 - [School districts adopting AI should follow a five-step roadmap: engage communities, apply and develop policies, provide professional development, create supportive learning environments, and monitor and evaluate AI use](five-step-district-ai-adoption-roadmap.md)
 - [Strengthen implementation scaffolding for new edtech rollouts with routines, guided practice, and change management grounded in observed workflows](implementation-scaffolding-change-management.md)
 - [Provide professional learning opportunities and free tools to support educators in conducting edtech pilot studies](professional-learning-and-free-tools-for-edtech-piloting.md)
+- [Board data dashboards for governance-level progress monitoring](board-data-dashboards-progress-monitoring.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ First-time 2016 survey questions asked the extent to which standards-related PD 
 - [Teachers who need the strongest support receive less high-quality professional development: high school, beginning elementary, and large-school teachers](underserved-teachers-less-quality-pd.md) — related
 - [Most field-test teachers report curriculum-based professional learning prepared them for distinctive OpenSciEd pedagogy, with mixed results on standards beliefs](pd-prepares-storyline-pedagogy-implementation.md) — related
 - [Most coaches rate their professional development as effective, and administrators describe it as tailored, timely, and multi-year](coach-professional-development-perceived-effective.md) — related
+- [Selecting a few focal Standards for Mathematical Practice at a time was more productive for teacher PD than studying all SMPs simultaneously](focal-smps-deep-study-more-productive.md) — related

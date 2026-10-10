@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 48 claims (33 for, 10 mixed, 5 against) · 40 studies (11 associational, 9 quant-synthesis, 8 causal, 7 review, 3 qualitative, 2 theoretical), `q1`–`q4` · 11 of 40 report an effect size · 41 claims rest on one study
+> **Evidence** · 52 claims (37 for, 10 mixed, 5 against) · 43 studies (11 associational, 9 quant-synthesis, 9 review, 8 causal, 3 qualitative, 3 theoretical), `q1`–`q4` · 11 of 43 report an effect size · 45 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -81,6 +81,10 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction](../claims/tefa-t-improves-metacognitive-skills.md) [+M] — instruction changes it
 - [Web-based SRL training interventions produced statistically significant group by time interactions on the SRL subscales planning, self-motivation, volition, elaboration and metacognition, but not on goal-setting or reflection](../claims/web-based-srl-training-subscale-interactions-planning-metacognition-volition.md) [~M] — instruction changes it
 - [With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant](../claims/peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training.md) [~W] — instruction changes it
+- [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](../claims/mindfulness-positive-effects-educator-wellbeing.md) [+M] — instruction changes it
+- [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](../claims/mindfulness-positive-school-climate-outcomes.md) [+W] — instruction changes it
+- [Teacher mindfulness and stress-management training is linked to gains in educator well-being and self-regulation skills](../claims/mindfulness-training-teacher-wellbeing-gains.md) [+W] — instruction changes it
+- [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](../claims/metacognition-efficiency-effectiveness-outcomes-claim.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

@@ -138,3 +138,4 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](positive-school-climate-mitigates-homicide-effects.md) — related
 - [Academic and test disengagement are connected through a common association with poor self-management](self-management-common-link-disengagement.md) — related
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
+- [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related

@@ -46,3 +46,4 @@ Descriptive statement of the brief's evidence-gathering methods at the three par
 - [Agency data-use profiles were developed from fall and winter 2013–14 site visit interviews](profiles-from-site-visit-interviews-2013-14.md) — related
 - [Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting](agency-profiles-interview-data-practices.md) — related
 - [A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline](sinclair-consortium-competency-based-it-programs-baseline.md) — related
+- [Empathy interviews became a widely adopted data-gathering technique for understanding stakeholder perspectives on problems](empathy-interviews-adopted-by-improvement-teams.md) — related

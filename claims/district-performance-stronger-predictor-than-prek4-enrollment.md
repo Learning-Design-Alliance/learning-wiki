@@ -68,3 +68,4 @@ Table 1, Models 2-3: state-funded PreK4 enrollment (2022-23) predicted improveme
 - [Two additional state characteristics are marginally associated with kindergarten math improvement: proportion of districts offering state-funded PreK and meeting all ten quality benchmarks](marginal-state-characteristics-math-improvement.md) — related
 - [In states requiring specialized prekindergarten teacher training, kindergarten students are more likely to improve in math](specialized-prek-teacher-training-math-improvement.md) — related
 - [District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time](district-prek-enrollment-not-associated-entry-skills.md) — related
+- [Elliott Elementary, one of Nebraska's five lowest performing schools, used SIG funds to launch a pre-kindergarten program and reset its improvement course](elliott-sig-launched-pk-program-turnaround.md) — related

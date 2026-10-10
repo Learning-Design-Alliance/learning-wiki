@@ -86,3 +86,4 @@ Linking mentor coaching reports to first-year REACH ratings for hired student te
 - [Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month](mentoring-activity-time-varied-widely.md) — related
 - [Mentor teachers' own evaluation ratings were positively related to their student teachers' first-year effectiveness as teachers-of-record](cps-mentor-evaluation-ratings-related-to-student-teachers-first-year-effectiveness.md) — related
 - [Student teaching in higher- or lower-achieving CPS schools made no difference in teachers' first-year REACH ratings](cps-placement-school-characteristics-unrelated-first-year-effectiveness.md) — related
+- [States that survey new teachers typically do so in the first year of teaching](states-survey-completers-first-year.md) — related

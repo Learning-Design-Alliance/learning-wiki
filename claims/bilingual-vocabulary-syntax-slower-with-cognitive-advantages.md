@@ -69,3 +69,4 @@ In the interactions section, the paper reports, citing bilingual-advantage studi
 - [In reading, dual language participants grew slightly more slowly during school years but lost less learning during summers, closing the gap with the national average](dual-language-reading-slower-school-year-growth-less-summer-loss.md) — related
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [English learners can learn to read in English at the same rate as their monolingual peers in the primary grades](english-learners-read-same-rate-primary-grades.md) — related
+- [Learning behaviors of typical multilingual development can resemble those of disability, complicating accurate identification](language-development-disability-behavior-overlap.md) — related

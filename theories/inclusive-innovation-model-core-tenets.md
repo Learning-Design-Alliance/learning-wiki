@@ -57,6 +57,7 @@ Inclusive Innovation is an education R&D model that brings students, families, a
 
 - [As district-community teams continue implementing solutions, collect quantitative data aligned with team-defined outcomes and co-interpret the data with those closest to the challenge](../strategies/collect-quantitative-data-co-interpret-with-community.md)
 - [Demonstrate solution benefits through participant perspectives, direct experience, and foregrounded student voice](../strategies/demonstrate-benefits-student-voice-sustainability.md)
+- [Include historically underserved voices in all stages of continuous improvement work, including designing solutions](../strategies/include-historically-underserved-voices-in-ci.md)
 
 ## Key Sources
 - Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability in Inclusive Innovation: District-Community Solutions, Mindsets, and Practices. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/94695da1-ad96-49e5-b461-b759d617ae25

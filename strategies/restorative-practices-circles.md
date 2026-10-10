@@ -59,9 +59,11 @@ Circles operationalize social-emotional learning through structured peer dialogu
 6. **Maintain the practice**: run proactive circles regularly so responsive circles draw on established trust rather than starting cold.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the lightweight daily form of the same relational practice; circles formalize and extend it
 - [Peer Mediation](../strategies/peer-mediation.md) — a dyadic conflict-resolution complement to whole-group circles
 - [Cooperative Learning](../strategies/cooperative-learning.md) — shares the equalized-participation structure in an academic context
+- [Use RJ strategies such as proactive circles to manage classrooms and establish norms beyond discipline](proactive-circles-classroom-management-norms.md)
 
 ## Examples
 - **[International Institute for Restorative Practices](https://www.iirp.edu)** — provides the widely used whole-school implementation model and facilitator training; its SaferSanerSchools program has been evaluated in randomized trials across Pittsburgh schools.

@@ -62,9 +62,11 @@ Vocabulary knowledge is one of the strongest correlates of reading comprehension
 6. Use an [Advance Organizer](../elements/advance-organizers.md) or glossary as a persistent reference learners can return to independently.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — clarification connects new terms to what learners already know
 - [Accessible Syntax](../strategies/accessible_syntax.md) — the sentence-level counterpart to vocabulary clarification
 - [Chunking Information](../strategies/chunking_information.md) — manages the language load so clarification does not overwhelm
+- [Concrete actions for mathematics educators: focus on ideas over words, engage students in defining early, connect multiple representations, extend to formal definitions, and nurture the genre of definition](educator-actions-for-defining-with-english-learners.md)
 
 ## Examples
 - **Word Generation** (https://www.serpinstitute.org/word-generation) — SERP Institute's middle-school program that teaches high-utility academic vocabulary through repeated, discussion-embedded encounters across subject areas.

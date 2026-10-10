@@ -56,3 +56,5 @@ A randomized evaluation by Faria et al. (2017) assigned 73 high schools in three
 - [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](early-warning-systems-norms-routines-support-recovery.md) — a broader claim this one bears on
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related
 - [Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements](research-priorities-track-federal-policy.md) — related
+- [Students who have experienced three or more ACEs are more likely to experience chronic absenteeism, behavioral problems, and academic failure](three-or-more-aces-absenteeism-behavior-failure.md) — related
+- [RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools](rj-implementation-associated-with-improved-attendance.md) — related

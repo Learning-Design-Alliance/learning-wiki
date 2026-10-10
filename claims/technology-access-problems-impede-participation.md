@@ -73,3 +73,5 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — possibly the same claim (merge candidate)
 - [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
 - [Teachers' technology use increased during COVID-19 remote learning, but infrastructure and device barriers hindered effective integration](pr-teacher-tech-use-increased-infrastructure-barriers.md) — related
+- [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
+- [In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary](technology-access-most-significant-barrier-informal-virtual.md) — related

@@ -46,3 +46,4 @@ Preliminary correlational analysis in the Results section of the teacher sample.
 - [The 18-item PSRBVBQ yields a balanced three-factor structure (perceived severity, likelihood of responding to the bully, likelihood of responding to the victim) in Romanian middle school teachers](psrbvbq-three-factor-structure-romanian-teachers.md) — related
 - [The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)](psrbvbq-scales-internal-consistency.md) — related
 - [More teachers rate verbal aggression as serious (38.6%) than rate relational aggression as very serious (23.8%)](verbal-rated-more-serious-than-relational-aggression.md) — related
+- [RJ-based responses to bullying may help, but require trained adult facilitators and may leave victims uncomfortable facing bullies](rj-bullying-response-requires-trained-facilitators.md) — related

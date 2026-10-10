@@ -68,3 +68,4 @@ Tuttle et al. (2015) randomized controlled trial: 891 lottery applicants (459 of
 - [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related
 - [The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics](kipp-lottery-offer-rct-group-balance.md) — related
 - [The study uses a randomized controlled trial design in which admissions lottery offers make the treatment group similar on average to the control group on observable and unobservable characteristics.](kipp-lottery-rct-balances-treatment-and-control.md) — related
+- [A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED](lied-rct-replicates-math-impact.md) — related

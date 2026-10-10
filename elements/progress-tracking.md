@@ -43,6 +43,10 @@ Progress tracking is the element in which learners or instructors monitor advanc
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity](../claims/orienting-reflection-to-own-tracking-fosters-monitoring.md) [+W]
 
+## Examples
+
+- [Board data dashboards for governance-level progress monitoring](../strategies/board-data-dashboards-progress-monitoring.md)
+
 ## Related Elements
 
 - [Task Management](task-management.md)

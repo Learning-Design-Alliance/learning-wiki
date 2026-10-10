@@ -47,3 +47,4 @@ Analysis of CPS personnel employment trajectories for residency cohorts. The stu
 - [Residency-trained principals raised math and reading test scores more than non-residency new principals in their first two years](residency-principals-raise-test-scores-first-two-years.md) — related
 - [Cross-sector collaboration is less widespread among school leaders than central office administrators but is particularly strong among participants in grant-funded intensive leadership training or principal residency programs](leadership-program-participants-show-strongest-cross-sector-collaboration.md) — related
 - [Fund-supported principals are younger and have shorter tenure than other CPS principals](fund-principals-younger-shorter-tenure.md) — related
+- [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related

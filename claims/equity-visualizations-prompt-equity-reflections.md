@@ -64,3 +64,4 @@ Semi-structured interviews (10-15 minutes) with each of the 42 teachers after th
 ## Related Claims
 - [Barriers to using equity visualizations included lack of classroom diversity and teachers' own equity beliefs](barriers-to-equity-visualization-use.md) — related
 - [Teachers ranked all whole class visualizations higher than any of the equity visualizations despite the equity visualizations' role in prompting equity reflections](teachers-prefer-whole-class-visualizations.md) — related
+- [Leaders caution that disaggregating data by student demographics is only the beginning of using continuous improvement for equity, not its entirety](data-disaggregation-beginning-not-entirety.md) — related

@@ -100,6 +100,7 @@ Changed participation norms, changed understanding, changed practice and a membe
 - Professional learning networks, code review communities, nurse book clubs, teacher inquiry groups, and apprenticeship cohorts are common real-world forms
 - Online communities can function well when they include recurring tasks, visible artifacts, and norms for contribution rather than only informal chat
 - [Support the evolving instructor role with professional development beyond product training, articulated role expectations, and communities of practice](../strategies/instructor-role-evolution-support.md)
+- [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](../strategies/grow-own-teacher-pipeline-newcomer-schools.md)
 
 ## Key Sources
 - Abedini, A., Abedin, B., & Zowghi, D. (2021). Adult learning in online communities of practice: A systematic review. *British Journal of Educational Technology, 52*(4), 1663-1694. [doi:10.1111/bjet.13120](https://doi.org/10.1111/bjet.13120)

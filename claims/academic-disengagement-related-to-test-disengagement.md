@@ -58,3 +58,4 @@ The study analyzed whether academic disengagement indicators (chronic absenteeis
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
 - [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — related
 - [Test effort differs substantially by student subgroup, with males rapidly guessing nearly twice as often as females in later grades and Black students rapidly guessing more often than White students](test-effort-differs-by-subgroup-rapid-guessing.md) — related
+- [Students who have experienced three or more ACEs are more likely to experience chronic absenteeism, behavioral problems, and academic failure](three-or-more-aces-absenteeism-behavior-failure.md) — related

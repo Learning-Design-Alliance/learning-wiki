@@ -44,3 +44,4 @@ Observational comparison of the top 5% versus bottom 5% achieving schools (selec
 
 ## Related Claims
 - [Growth of schools selected by fall achievement differs by subject: bottom 5% math schools tended to grow worse, while reading showed similar average growth](fall-achievement-selection-growth-subject-differences.md) — related
+- [Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization](four-equity-schools-rising-achievement-all-subgroups.md) — related

@@ -50,3 +50,4 @@ Challenge identified in the I-PREP statewide scan. The combination of multiple r
 - [Teachers and principals report district inflexibility and insufficient support for teacher-led, shared-decision-making leadership in small-school reform](chsri-district-inflexibility-teacher-led-reform.md) — related
 - [A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline](sinclair-consortium-competency-based-it-programs-baseline.md) — related
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related
+- [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](magic-bullet-risk-selection-without-needs-assessment.md) — related

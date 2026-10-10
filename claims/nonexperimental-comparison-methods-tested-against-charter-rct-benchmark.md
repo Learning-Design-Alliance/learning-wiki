@@ -53,3 +53,4 @@ The publisher's abstract describes the study's design: it reuses data from "Math
 - [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related
 - [Using baseline data strongly predictive of key outcome measures considerably reduces bias in nonexperimental estimators, but might not completely eliminate it](predictive-baseline-data-reduces-nonexperimental-bias.md) — related
 - [Education RCTs typically estimate the intention-to-treat parameter by comparing treatment and control group mean outcomes](education-rcts-typically-estimate-intention-to-treat.md) — related
+- [The evaluation has not yet rigorously examined whether the magnet schools reduce, eliminate, or prevent minority group isolation; this is deferred to the final report](minority-group-isolation-outcome-deferred.md) — related

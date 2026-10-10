@@ -84,6 +84,7 @@ The intervention targets teachers' implicit theories of misbehavior: when teache
 - Wise feedback interventions — the academic-side counterpart that pairs criticism with expressed high expectations
 - [Behaviorism](../theories/behaviorism.md) — the contrast case; empathic discipline deliberately shifts from consequence-based contingency management to relationship-based motivation
 - [Use trauma-informed behavioral supports before escalating to suspension, supported by willful-defiance suspension bans](trauma-informed-discipline-foster-care.md)
+- [Reframe challenging behavior as communication of an underlying need and respond rather than react](reframe-challenging-behavior-as-communication.md)
 
 ## Examples
 - **Okonofua, Paunesku, & Walton (2016) field trial** — A 45-minute online module for 39 middle-school math teachers cut suspensions roughly in half (from ~9.6% to ~4.8% of students) across five middle schools, with the largest gains for Black and Latino students ([PDF](https://www.pnas.org/doi/10.1073/pnas.1523698113)).

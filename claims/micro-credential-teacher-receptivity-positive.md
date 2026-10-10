@@ -46,3 +46,4 @@ Survey of participating teachers (Figure 2 reports n=49) in the five-district Ch
 - [Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers](ct-pd-top-integration-support-54-percent.md) — related
 - [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
 - [More than 90 percent of teachers reported monetary bonuses and stipends for time spent would be definitely or very motivating for completing another micro-credential](monetary-incentives-motivating-micro-credentials.md) — related
+- [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related

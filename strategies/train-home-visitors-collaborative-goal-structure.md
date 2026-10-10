@@ -41,6 +41,7 @@ The article recommends that programs train and structure home visitors' goal-set
 
 - [Home Visiting](home-visits.md)
 - [Set growth goals collaboratively so they balance meaningfulness and realism](collaborative-growth-goal-setting-balancing-meaningful-realistic.md)
+- [Provide universal well-baby screening and home-visit services regardless of income, following Victoria, Australia's model](universal-well-baby-home-visits-victoria-model.md)
 
 ## Examples
 -

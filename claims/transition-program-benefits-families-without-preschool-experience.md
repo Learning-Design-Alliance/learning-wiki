@@ -45,3 +45,4 @@ Subgroup perception reported from the parent interviews: families without prior 
 ## Related Claims
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Prior home visiting research indicates child-development-focused content is associated with child outcomes and sustained family participation](child-development-focus-linked-to-outcomes-and-participation.md) — related
+- [Parents who attended APTT meetings, and multilingual-home parents, agreed more strongly that APTT and the preschool helped them prepare their child for kindergarten](aptt-attendance-linked-parent-readiness-capacity-agreement.md) — related

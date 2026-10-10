@@ -58,8 +58,10 @@ Mindfulness training reliably improves attention control and reduces mind-wander
 5. Debrief occasionally: invite students to share what they noticed, reinforcing that mind-wandering is normal and re-attention is the win.
 
 ## Related Strategies
+
 - ['What's My Emotion?' Game Check-In](../strategies/whats_my_emotion_game_check-in.md) — an alternative affective check-in that builds emotion vocabulary rather than interoceptive calm
 - [Check-Ins](../principles/check-ins.md) — the broader principle this strategy instantiates
+- [Begin class with a mindful moment to settle students’ minds and bodies in preparation for learning](mindful-moment-class-opening-strategy.md)
 
 ## Related Elements
 - [Direct Instruction](../elements/direct-instruction.md) — the guided narration is a form of teacher-led modeling of attention

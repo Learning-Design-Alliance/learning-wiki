@@ -66,6 +66,7 @@ Climate routines function as environmental scaffolding: by making social expecta
 - [Co-creating classroom norms](../strategies/co-creating-classroom-norms.md) — establishes the shared expectations routines then maintain
 - [Create a safe space in arts instruction so students can take productive risks and grow emotionally](safe-space-arts-instruction-strategy.md)
 - [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
+- [Use RJ strategies such as proactive circles to manage classrooms and establish norms beyond discipline](proactive-circles-classroom-management-norms.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — the Morning Meeting routine: greeting, sharing, group activity, and news-and-announcements, practiced daily in elementary classrooms.

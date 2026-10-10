@@ -63,6 +63,7 @@ The strategy treats academic language as a learnable object rather than an assum
 - [Accessible Syntax](../strategies/accessible_syntax.md) — complements this strategy by simplifying the syntax of input texts while this strategy builds output language
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — front-loads the conceptual grounding that makes new language structures meaningful
 - [Offer generative formulaic expressions instead of rigid sentence starters](generative-formulaic-expressions-not-sentence-starters.md)
+- [Support English learners with sentence frames, graphic organizers, and word walls—but supplement frames with level-appropriate strategies because frames can limit the range of student responses](sentence-frames-organizers-word-walls-with-limits.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — preview the project's language demands before students encounter them

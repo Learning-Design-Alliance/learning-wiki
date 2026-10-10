@@ -51,3 +51,4 @@ The report's implementation findings state that "Districts typically implemented
 - [Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems](eight-districts-use-alternative-teacher-effectiveness-measures.md) — related
 - [After the first year of implementation, fewer than half of 2010 TIF districts implemented all four required program components for teachers, though a large majority implemented at least three](tif-2010-fewer-than-half-implemented-all-four-components.md) — related
 - [Fewer than half of districts implemented all four required components of TIF, making full implementation challenging](tif-fewer-than-half-districts-full-implementation.md) — related
+- [Eight of 10 districts planned to continue refining and using classroom observation tools after finding them a firm priority for understanding implementation](observation-tools-priority-eight-of-ten-districts.md) — related

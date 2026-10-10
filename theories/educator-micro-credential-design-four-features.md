@@ -60,6 +60,7 @@ The report defines educator micro-credentials as an emerging learning design wit
 - [Digital Open Badges](../elements/digital-open-badges.md)
 - [Attach micro-credentials to district initiatives, incentives, and job-embedded structures to strengthen professional learning systems](../strategies/attach-micro-credentials-to-district-initiatives-and-incentives.md)
 - [Expand micro-credential systems into seven future content areas](../strategies/micro-credential-future-expansion-areas.md)
+- [Personalize professional development by differentiating it and assigning educators by strengths and student needs](../strategies/personalized-differentiated-teacher-pd.md)
 
 ## Key Sources
 - Crow, T. (contributing author Pipkin, H.). (2017). Micro-credentials for Impact: Holding Professional Learning to High Standards. Learning Forward and Digital Promise. https://www.digitalpromise.org/micro-credentials

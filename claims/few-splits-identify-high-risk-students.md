@@ -44,3 +44,4 @@ The weighted decision tree (Figure 1) applied to the NELS sample; this branch co
 
 ## Related Claims
 - [Students not on track for college enrollment and persistence can be classified with about 90 percent accuracy using a small set of predictors](college-offtrack-classified-90-percent-accuracy.md) — a broader claim this one bears on
+- [AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers](ai-an-dropout-and-college-retention-rates.md) — related

@@ -39,6 +39,7 @@ The article recommends that states judge the effectiveness of low-achieving scho
 ## Related Strategies
 
 - [State boards should set realistic annual targets and invest in data infrastructure and collaborative time for improvement](state-board-actions-realistic-targets-data-infrastructure-collaborative-time.md)
+- [Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance](leandro-sequenced-investment-action-plan-strategy.md)
 
 ## Examples
 -

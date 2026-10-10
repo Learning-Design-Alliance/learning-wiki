@@ -66,6 +66,7 @@ Scenario based training works because it forces retrieval and application under 
 - [Acting-Role-Play](acting-role-play.md) — human-performed scenarios emphasizing interpersonal skills
 - [Simulation-based practice](../elements/practice.md) — repeated scenario execution builds automaticity
 - [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
+- [Prefer lockdown drills over highly realistic, unannounced active shooter exercises, embedding them in layered emergency preparedness](prefer-lockdown-drills-over-realistic-exercises.md)
 
 ## Examples
 - **Harvard Business School case method** ([Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md)) — written business scenarios discussed under instructor facilitation; a scalable, low-fidelity form of scenario training.

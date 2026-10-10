@@ -42,6 +42,7 @@ The paper recommends coaching programs be "a collective enterprise embedded in t
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 - [Recommendations for adopting and sustaining high-quality coaching](recommendations-sustaining-high-quality-coaching.md)
 - [System-level strategies to build enabling conditions for Powerful Learning](system-level-strategies-powerful-learning-conditions.md)
+- [Provide sustained, powerful professional development with professional learning communities for QTEL implementation](sustained-powerful-pd-for-qtel.md)
 
 ## Examples
 -

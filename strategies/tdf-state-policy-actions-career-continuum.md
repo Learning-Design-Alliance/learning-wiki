@@ -47,6 +47,7 @@ The document enumerates concrete state policy actions organized in three section
 - [Districts should map virtual-learning and equity actions onto the seven domains of a comprehensive, aligned principal pipeline](seven-domain-pipeline-virtual-leadership-strategies.md)
 - [Grow-your-own teacher training programs targeting community members facing certification and career-change barriers](grow-your-own-toc-teacher-programs.md)
 - [Grow-your-own and recruitment initiatives: alternative programs, Minority Serving Institutions, high-school pipeline programs, and district human-capital efforts to diversify the teacher workforce.](toc-pipeline-recruitment-practices.md)
+- [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
 
 ## Examples
 -

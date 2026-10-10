@@ -60,3 +60,4 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related
+- [State interviewees raised three equity concerns about performance-based assessments: perceived lower rigor and tracking, uneven implementation quality, and inequitable or unreliable scoring](equity-concerns-performance-based-assessments.md) — related

@@ -54,3 +54,5 @@ Analysis of 2014-15 freshmen by graduation status (Figure 9) shows the three war
 - [Freshman failures clustered in math more than English, and many students failed both core subjects](kenwood-freshman-fs-english-math.md) — related
 - [Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out](on-track-early-indicator-graduation.md) — related
 - [Ninth-grade on-track status (at least five credits and no more than one semester F) makes students almost four times more likely to graduate](on-track-freshman-courses-predict-graduation.md) — related
+- [Composite 8th grade indicators identified 75 to 77 percent of eventual off-track students but raised false-positive rates to about 30 percent](composite-indicators-identify-more-with-false-positive-tradeoff.md) — related
+- [Academic performance indicators correctly identified a larger share of eventual off-track students than the attendance indicator](academic-indicators-outperform-attendance-true-positive.md) — related

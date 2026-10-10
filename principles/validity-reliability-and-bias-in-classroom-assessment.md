@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (34 for, 16 mixed) · 39 studies (14 associational, 8 review, 8 design, 4 causal, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 39 report an effect size · 49 claims rest on one study
+> **Evidence** · 51 claims (35 for, 16 mixed) · 40 studies (15 associational, 8 review, 8 design, 4 causal, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 40 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability](../claims/act-adds-little-beyond-hsgpa.md) [+W] — attached 2026-10-09 from Allensworth et al. (2019), which proposed "Use high school grades, not individual test scores, as the primary formative indicator of college readiness, and rely less heavily on standardized test scores in accountability"; tests this page's relationship.
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](../claims/early-ed-essentials-rasch-refined-measures.md) [+W] — attached 2026-10-09 from Ehrlich et al. (2018), which proposed "Use explicit Rasch-based criteria (reliability, item fit, difficulty spread, DIF) when developing survey measures".
 - [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](../claims/hsgpa-predicts-college-graduation-more-than-tests.md) [+W] — attached 2026-10-09 from Melissa Roderick et al. (2009), which proposed "Districts and states should build data systems that link high school performance to graduates' college outcomes and set validated readiness standards"; tests this page's relationship.
+- [MDTP scores on five of seven topics significantly predict grade 8 algebra I proficiency after controlling for grade 6 CST scale score](../claims/mdtp-topic-scores-predict-algebra-proficiency.md) [+W] — attached 2026-10-09 from Chun-Wei Huang et al. (2016), which proposed "Use continuous scale scores and immediately available diagnostic assessments rather than proficiency status alone to guide grade 8 algebra I placement"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

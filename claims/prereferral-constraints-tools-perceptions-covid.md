@@ -47,3 +47,4 @@ Interview study of CSPP coordinators. A special education coordinator worried ch
 - [CSPP pre-referral processes mirror the K-12 MTSS approach and apply fundamentally the same steps to ML and non-ML children](cspp-prereferral-mirrors-mtss-same-for-ml-children.md) — related
 - [Multidisciplinary teams often provide home language support and delay referral to rule out lack of opportunity to learn before evaluating ML children](home-language-support-rules-out-opportunity.md) — related
 - [Bilingual staff help differentiate typical language development from disability, but interviewees described no systematic process for doing so](bilingual-staff-differentiation-no-systematic-process.md) — related
+- [Assessment of young multilingual learners is hampered by a dearth of valid, linguistically appropriate measures and by English-only administration](assessment-barriers-young-multilingual-learners.md) — related

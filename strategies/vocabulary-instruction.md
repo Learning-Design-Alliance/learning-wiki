@@ -87,6 +87,7 @@ Explicit vocabulary instruction reliably improves word learning and, more modest
 - [Pre-teaching vocabulary before reading](pre-teaching-vocabulary.md) — the specific application of this strategy to text preparation
 - [Spaced repetition](../elements/spaced-repetition.md) — distributes word review over time for durable retention
 - [Frayer model](../strategies/frayer-model.md) — a four-quadrant graphic organizer (definition, characteristics, examples, non-examples) for deep word processing
+- [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
 
 ## Examples
 - **Pre-teaching before a science text**: before reading about ecosystems, the teacher defines *producer*, *consumer*, and *decomposer* with visuals and a quick sorting game, then students find each word in the text and explain its use.

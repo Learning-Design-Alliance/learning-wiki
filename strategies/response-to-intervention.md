@@ -70,6 +70,9 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 - [Select Tier 2 literacy interventions by weighing ESSA evidence ratings, cost, feasibility, and use of the supplemental matrix for homegrown designs](tier2-selection-weigh-evidence-cost-feasibility-matrix.md)
 - [Use Early Warning Indicator (EWI) and Multi-Tiered Systems of Support (MTSS) for continuous improvement](ewi-mtss-continuous-improvement-systems.md)
 - [Conduct universal mental health screening with the Student Risk Screening Scale to inform intervention](universal-srss-screening-to-inform-intervention.md)
+- [Invest state discretionary dollars in early intervention systems such as MTSS to reduce later intensive supports](early-intervention-mtss-investment-return.md)
+- [Organize student well-being supports through a three-tier MTSS with universal screening](mtss-three-tier-universal-screening-wellbeing.md)
+- [Implement multi-tiered supports focused on acceleration, not remediation](multi-tiered-supports-acceleration-not-remediation.md)
 
 ## Examples
 - **Early reading RTI in Minnesota and Ohio statewide initiatives** — universal DIBELS screening three times per year, with Tier 2 small-group phonics intervention and weekly oral-reading-fluency monitoring; both states documented reduced special education identification rates in participating districts.

@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 34 claims (26 for, 6 mixed, 2 against) · 32 studies (7 review, 6 causal, 5 associational, 5 qualitative, 4 design, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 6 of 32 report an effect size · 33 claims rest on one study
+> **Evidence** · 39 claims (30 for, 6 mixed, 3 against) · 36 studies (9 review, 6 causal, 5 associational, 5 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 6 of 36 report an effect size · 38 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -67,6 +67,11 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Students report that tests dominate assessment, carry too much weight, and create stress, while extended performance-based assessments offer better opportunities to learn and showcase learning](../claims/students-report-tests-dominate-and-overweight-grades.md) [+M] — instruction changes it
 - [Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety](../claims/two-part-collaborative-assessment-learning-experience.md) [+M] — instruction changes it
 - [Writing anxiety can constrain or paralyze adult writers, with recognizable signs](../claims/writing-anxiety-paralyzes-adult-writers.md) [+W] — learners who differ on it differ in outcomes
+- [Lockdown training and drill participation improved students' knowledge and perceptions of preparedness without increasing anxiety, per the studies the brief reviews](../claims/lockdown-training-improves-preparedness-without-trauma.md) [-M] — instruction changes it
+- [Mindfulness practices are linked to academic improvements including reduced test anxiety, focus, and reading competence](../claims/mindfulness-academic-improvement-links.md) [+W] — instruction changes it
+- [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](../claims/mindfulness-positive-school-climate-outcomes.md) [+W] — instruction changes it
+- [Regulate-relate-reason sequence: students reason once regulated and feeling supported](../claims/regulate-relate-reason-sequence.md) [+W] — learners who differ on it differ in outcomes
+- [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](../claims/trauma-informed-practices-mitigate-trauma-promote-resilience.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

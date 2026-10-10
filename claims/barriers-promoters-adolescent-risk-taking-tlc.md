@@ -65,3 +65,4 @@ The same interview analysis listed promoters of exploration, including "Interact
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related
 - [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
 - [The vast grade 11 and 12 syllabus and time demands of KCLS are a prominent implementation barrier](syllabus-coverage-time-kcls-barrier.md) — related
+- [Regulate-relate-reason sequence: students reason once regulated and feeling supported](regulate-relate-reason-sequence.md) — related

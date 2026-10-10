@@ -73,3 +73,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](remote-shift-reduced-collaborative-learning.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — possibly the same claim (merge candidate)
 - [Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%)](problems-attributed-unplanned-move-not-online-learning.md) — related
+- [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](hero-elementary-training-discussion-facilitation-online-resources-challenge.md) — related

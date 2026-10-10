@@ -63,6 +63,7 @@ Lesson Study works because it converts teaching into a site of systematic inquir
 - [Action Research](action-research.md) — lesson study is a tightly structured, lesson-anchored form of practitioner action research
 - [Professional Learning Communities](professional-learning-communities.md) — lesson study provides a concrete inquiry protocol that PLCs often lack
 - [Run PDSA cycles in which researcher-practitioner teams test modified assignments against as-is versions across multiple classrooms](pdsa-assignment-modification-testing-strategy.md)
+- [Shift the locus of professional learning to school sites and classrooms, connected to teachers' everyday practice](site-based-pd-connected-to-everyday-practice.md)
 
 ## Patterns That Use This Strategy
 - [Collaborative Inquiry](../patterns/collaborative-inquiry.md) — lesson study is the most formalized collaborative inquiry protocol for teachers

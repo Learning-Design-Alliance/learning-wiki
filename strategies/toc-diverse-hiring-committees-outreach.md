@@ -45,6 +45,7 @@ Participants proposed hiring committees that include teachers of color as core m
 
 - [Grow-your-own and recruitment initiatives: alternative programs, Minority Serving Institutions, high-school pipeline programs, and district human-capital efforts to diversify the teacher workforce.](toc-pipeline-recruitment-practices.md)
 - [Retention supports for teachers of color: networking platforms, safe spaces, mental health resources, race-conscious mentorship, and flexible career pathways](toc-retention-supports-mentoring-mental-health.md)
+- [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
 
 ## Examples
 -

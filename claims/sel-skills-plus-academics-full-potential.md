@@ -60,3 +60,4 @@ The consensus statement enumerates social, emotional, and academic capacities to
 - [Decades of research show SEL benefits student well-being, academic performance, attendance, graduation rates, and future success](sel-decades-of-research-benefits.md) — related
 - [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related
 - [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
+- [Supporting well-being and connection is a prerequisite to academic excellence](well-being-prerequisite-academic-excellence.md) — related

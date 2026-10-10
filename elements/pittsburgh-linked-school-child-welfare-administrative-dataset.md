@@ -52,6 +52,8 @@ The study team built a linked administrative dataset covering five academic year
 
 - [Combine in-school and out-of-school data sources to understand and support students flagged as at risk](../strategies/combine-school-and-human-services-data-for-risk-support.md)
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](../strategies/early-warning-system-target-resources-near-term-risks.md)
+- [Broker a formal data-sharing agreement between child welfare and education agencies to identify and serve students in foster care](../strategies/cross-system-data-sharing-agreement-foster-care.md)
+- [Use linked cross-system data to target programs such as dropout prevention and postsecondary preparation for students in foster care](../strategies/data-informed-targeted-support-foster-care.md)
 
 ## Key Sources
 - Julie Bruch, Jonathan Gellar, Lindsay Cattell, John Hotchkiss, and Phil Killewald. (2020). Using Data from Schools and Child Welfare Agencies to Predict Near-Term Academic Risks, Appendixes. Regional Educational Laboratory Mid-Atlantic. https://www.mathematica.org/publications/using-data-from-schools-and-child-welfare-agencies-to-predict-near-term-academic-risks-appendixes

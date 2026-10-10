@@ -67,3 +67,4 @@ The synthesis reports that collaboration toward a common goal, rather than split
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — a broader claim this one bears on
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
+- [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](trauma-informed-practices-mitigate-trauma-promote-resilience.md) — related

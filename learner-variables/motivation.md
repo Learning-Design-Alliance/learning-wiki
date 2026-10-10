@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 37 claims (29 for, 6 mixed, 2 against) · 44 studies (14 review, 14 associational, 7 causal, 3 quant-synthesis, 3 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 7 of 44 report an effect size · 32 claims rest on one study
+> **Evidence** · 42 claims (32 for, 7 mixed, 3 against) · 48 studies (15 associational, 14 review, 9 causal, 3 quant-synthesis, 3 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 7 of 48 report an effect size · 37 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -71,6 +71,11 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity](../claims/ishs-impact-robust-to-prior-stem-interest-controls.md) [+M] — instruction changes it
 - [Undergraduate researchers' disciplinary identity differs based on the internal motivators of intellectual interest and grit](../claims/disciplinary-identity-differs-by-intellectual-interest-and-grit.md) [+M] — learners who differ on it differ in outcomes
 - [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker](../claims/sdt-path-strengths-effort.md) [+M] — learners who differ on it differ in outcomes
+- [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not](../claims/mindset-behavior-predict-on-track-performance-avoidance-does-not.md) [~M] — learners who differ on it differ in outcomes
+- [Predicted probability of 9th grade on-track status varied substantially across the growth-mindset and academic-behavior scales](../claims/predicted-on-track-probability-varies-with-mindset-behavior-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.](../claims/hero-elementary-in-school-student-engagement-increased.md) [+M] — instruction changes it
+- [The Elevate Math summer program had no significant effects on students' math interest or math self-efficacy](../claims/elevate-math-no-effects-math-interest-self-efficacy.md) [-M] — instruction changes it
+- [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](../claims/crse-pedagogies-engagement-agency-claim.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

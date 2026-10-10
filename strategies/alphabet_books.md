@@ -62,6 +62,7 @@ Alphabet books work because they force retrieval and elaboration rather than pas
 - Vocabulary journals — same generative-definition structure without the alphabetic constraint
 - Concept sketches — the representation component of each entry, expanded into a full strategy
 - [Small-group student-constructed reference products such as a Philosophy Dictionary](small-group-philosophy-dictionary-activity.md)
+- [Concrete actions for mathematics educators: focus on ideas over words, engage students in defining early, connect multiple representations, extend to formal definitions, and nurture the genre of definition](educator-actions-for-defining-with-english-learners.md)
 
 ## Examples
 - A fifth-grade teacher assigned students letters of the alphabet and sent them on a search for new and complex words in their math textbook, notes, thesaurus, and mathematics dictionary. Students used each word in a sentence, drew a representation, or wrote a real-world connection, then compiled a class book used as a reference for the rest of the unit.

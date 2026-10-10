@@ -67,3 +67,4 @@ Descriptive ratings data from the matched-observation reliability sample of 257 
 - [Principals and trained external observers gave aggregate-consistent Danielson Framework ratings in matched observations](danielson-framework-aggregate-rating-consistency.md) — reports the opposite
 - [Principals inflated ratings at the high end of the scale, more often identifying instruction as distinguished than observers](high-end-rating-inflation.md) — possibly the same claim (merge candidate)
 - [Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers](principal-rater-severity-variation.md) — reports the opposite
+- [Actual classroom observation practice often differs from best practice, with principal-teacher perception gaps on measures and observer qualifications](observation-practice-gaps-principal-teacher.md) — related

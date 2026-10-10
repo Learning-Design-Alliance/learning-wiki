@@ -58,3 +58,5 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — possibly the same claim (merge candidate)
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
+- [AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers](ai-an-dropout-and-college-retention-rates.md) — related
+- [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related

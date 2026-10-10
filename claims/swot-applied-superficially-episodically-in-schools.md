@@ -44,3 +44,4 @@ The integrative review of 82 studies identifies recurring patterns of SWOT misus
 
 ## Related Claims
 - [Relational trust shapes whether SWOT functions as organisational learning or superficial compliance](trust-determines-swot-diagnostic-quality.md) — related
+- [Continuous improvement can fall short when it becomes a compliance-based checklist activity detached from purpose and equity](ci-compliance-activity-undermines-equity.md) — related

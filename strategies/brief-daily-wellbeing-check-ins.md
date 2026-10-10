@@ -47,6 +47,8 @@ The report describes small, embedded moments of wellbeing focus throughout the s
 - [Social Emotional Learning Routines](social-emotional-learning-routines.md)
 - [Social Emotional Learning Integration](social-emotional-learning-integration.md)
 - [Mindfulness Practice](mindfulness-practice.md)
+- [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)
+- [Integrate mindfulness throughout the school day via mindful moments, pausing before reacting, and reflective norms](integrate-mindfulness-schoolwide-daily-routines.md)
 
 ## Examples
 -

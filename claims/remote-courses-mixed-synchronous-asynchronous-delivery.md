@@ -45,3 +45,4 @@ Table 1 of the national student survey (n = 1,008) reports delivery mechanisms: 
 ## Related Claims
 - [Students reported that long recorded lectures impeded focus, while instructors who broke lectures into shorter segments were appreciated](long-recorded-lectures-impeded-focus.md) — related
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
+- [Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies](wide-variation-virtual-science-implementation-sync-async.md) — a narrower finding that bears on this claim

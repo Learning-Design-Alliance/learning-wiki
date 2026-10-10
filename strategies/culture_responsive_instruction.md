@@ -63,6 +63,7 @@ Culturally responsive instruction works by reducing the distance between what st
 - [Accessible Syntax](../strategies/accessible_syntax.md) — reducing linguistic barriers for multilingual learners
 - [Building Empathy](../principles/building-empathy.md) — supports intergroup attitudes in diverse classrooms [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M]
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
+- [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](place-based-culturally-harmonious-ccss-instruction.md)
 
 ## Examples
 - **Algebra in community contexts** — A unit on linear functions uses data students collect about their own neighborhood (transit costs, local businesses) rather than decontextualized textbook scenarios, keeping the same standard while changing the context.

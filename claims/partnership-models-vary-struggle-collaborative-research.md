@@ -45,3 +45,4 @@ The abstract states as background that university–district research partnershi
 ## Related Claims
 - [A university–district partnership in Multnomah County, Oregon, delivered district-driven research support while practitioner-scholars learned to perform rigorous evaluation work firsthand](multnomah-university-district-partnership-dual-benefit.md) — a narrower finding that bears on this claim
 - [Many local school districts lack research personnel to evaluate program efficacy or investigate best practices because of tight budgets](districts-lack-research-personnel-budget-constraint.md) — related
+- [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related

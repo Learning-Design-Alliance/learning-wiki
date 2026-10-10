@@ -53,9 +53,11 @@ UCD proceeds iteratively: identifying user needs (often via **personas** — det
 - [Cone of Experience (Concrete-to-Abstract Media Selection)](../theories/cone-of-experience.md) — both concern deliberate media/interface choice, though UCD addresses usability rather than concreteness/abstraction
 
 ## Examples
+
 - Building a persona from user interviews before designing a course's navigation structure
 - Paper prototyping a course's menu structure and running an open card sort to check it against learners' own mental categories
 - A heuristic evaluation of an LMS course page against Nielsen's 10 usability heuristics before launch
+- [Use a design thinking process with Empathize, Define, Ideate, Prototype, and Test stages to reimagine school safety](../strategies/design-thinking-reimagining-school-safety.md)
 
 ## Key Sources
 - Earnshaw, Y., Tawfik, A. A., & Schmidt, M. (2018). User experience design. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/user_experience_design](https://edtechbooks.org/lidtfoundations/user_experience_design)

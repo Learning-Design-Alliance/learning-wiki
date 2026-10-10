@@ -12,7 +12,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 45 claims (33 for, 8 mixed, 4 against) · 31 studies (19 associational, 5 review, 2 causal, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 31 report an effect size · 43 claims rest on one study
+> **Evidence** · 47 claims (35 for, 8 mixed, 4 against) · 33 studies (19 associational, 5 review, 3 causal, 2 quant-synthesis, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 2 of 33 report an effect size · 45 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -78,6 +78,8 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [The rate of reading growth for students with visual impairments is suggested to be greater than the national norm](../claims/vi-students-greater-rate-of-reading-growth.md) [~W] — learners who differ on it differ in outcomes
 - [Vision is not required for developing number sense and math skills in BVI learners](../claims/vision-not-required-for-number-sense-bvi.md) [-M] — learners who differ on it differ in outcomes
 - [Visual imagery is possible without visual perception or experience](../claims/visual-imagery-possible-without-visual-experience.md) [-W] — learners who differ on it differ in outcomes
+- [In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary](../claims/technology-access-most-significant-barrier-informal-virtual.md) [+M] — learners who differ on it differ in outcomes
+- [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](../claims/technical-issues-barrier-playlist-implementation.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Digital literacy — whether they can operate it, as against whether they can perceive it.

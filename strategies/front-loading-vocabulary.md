@@ -63,6 +63,8 @@ Pre-teaching vocabulary reduces the extraneous cognitive load of decoding unfami
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — front loading vocabulary is often paired with activation of related concepts; both prepare the knowledge base the main task will draw on
 - [Pre-Questioning](pre-questioning.md) — a parallel front-loading move that directs attention before a text
 - [Develop mathematical concepts and working definitions before teaching formal terms, replacing vocabulary preteaching](develop-concepts-before-vocabulary-preteaching.md)
+- [Concrete actions for mathematics educators: focus on ideas over words, engage students in defining early, connect multiple representations, extend to formal definitions, and nurture the genre of definition](educator-actions-for-defining-with-english-learners.md)
+- [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
 
 ## Examples
 - **[Bringing Words to Life](https://www.guilford.com/books/Bringing-Words-to-Life/Beck-McKeown-Kucan/9781462508167)** (Beck, McKeown & Kucan) — the tiered vocabulary framework underlying most robust-vocabulary instruction programs; recommends teaching a small set of high-utility words with multiple meaningful encounters.

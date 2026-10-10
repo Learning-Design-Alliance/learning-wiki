@@ -45,3 +45,5 @@ Descriptive site profile prepared for the Promise Neighborhoods Institute at Pol
 ## Related Claims
 - [More than a third of NAZ residents live in households with incomes below the federal poverty level](naz-residents-36-percent-below-federal-poverty-level.md) — related
 - [The NAZ Zone was selected because it encompasses the area's highest concentration of negative poverty, violence, and low-education indicators](naz-selected-for-highest-concentration-negative-indicators.md) — related
+- [Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization](four-equity-schools-rising-achievement-all-subgroups.md) — related
+- [Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer](disproportionate-discipline-and-sro-placement.md) — related

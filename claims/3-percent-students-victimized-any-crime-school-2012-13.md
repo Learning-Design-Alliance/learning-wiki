@@ -48,3 +48,4 @@ Descriptive analysis of the 2013 School Crime Supplement to the National Crime V
 - [Few differences in school victimization by student demographics in 2012–13](few-demographic-differences-school-victimization.md) — related
 - [Victimized students reported negative school conditions at higher rates than nonvictims](victims-report-negative-school-conditions-higher-rates.md) — related
 - [The 2013 SCS report also covers gangs, weapons, drugs, alcohol, bullying, cyberbullying, and avoidance behaviors at school](scs-2013-report-scope-gangs-weapons-drugs-bullying-avoidance.md) — related
+- [Homicides of school-aged children are far less likely to occur on school grounds than elsewhere](school-homicides-less-likely-on-school-grounds.md) — related

@@ -47,3 +47,4 @@ Author's interpretive summary of the case study experience: OMS videos and anima
 - [In a Web-based teacher education course, screen-capture videos and Flash animations modeling the instructor's internal problem-solving processes were the elements students most strongly associated with cognitive apprenticeship modeling](oms-videos-animations-most-impactful-modeling.md) — related
 - [Instructor access to students' individual Web folders enabled coaching on work-in-progress in the Web-based course](web-folders-enable-coaching.md) — related
 - [PROMISE service costs represented relatively large investments](promise-service-costs-relatively-large-investments.md) — related
+- [The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time](erwc-modest-investment-cost-analysis.md) — related

@@ -52,3 +52,4 @@ Semi-structured Zoom interviews with current and former Core Team members across
 - [In pilot testing, teachers successfully integrated science instruction and children deepened their understanding of science core ideas while engaging with science practices and connecting to math and engineering.](nico-nor-teachers-integrated-science-instruction.md) — related
 - [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](student-voice-tenet-sustained-educator-practice.md) — related
 - [Eleven of 33 state guidance documents mention co-design or feedback loop structures, and 27 include student, teacher, parent, and community voices](states-co-design-voice-counts.md) — related
+- [Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers](small-pdsa-cycles-narrow-first-problem.md) — related

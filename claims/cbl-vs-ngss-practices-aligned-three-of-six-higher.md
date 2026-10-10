@@ -64,3 +64,4 @@ Independent rubric scoring of lessons by scorers blind to lesson type. Challenge
 ## Related Claims
 - [Challenge based science lessons provided substantially more deeper learning opportunities than typical lessons across six dimensions](cbl-lessons-more-deeper-learning-opportunities-than-typical.md) — related
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related
+- [Lesson ratings showed no statistically significant differences between lessons observed earlier versus later in the initiative on any dimension](no-rating-improvement-over-initiative.md) — related

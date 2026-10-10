@@ -48,3 +48,6 @@ Intent-to-treat impact analysis from the ASSISTments North Carolina replication 
 - [Implementing ASSISTments above business-as-usual cost about $207,794 across the study, or about $46.23 per student](assistments-incremental-cost-46-per-student.md) — related
 - [ASSISTments use for 7th-grade math homework significantly raises TerraNova mathematics scores in Maine (effect size +0.18)](assistments-maine-terranova-effect-018.md) — related
 - [Brandt et al. (2013) finds a statistically significant positive effect of eMINTS on seventh- and eighth-grade mathematics achievement](brandt-2013-significant-math-effect.md) — related
+- [ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends](assistments-long-term-math-impact-grade-8.md) — possibly the same claim (merge candidate)
+- [NBA Math Hoops significantly improves elementary and middle school students' math achievement compared to business-as-usual summer STEM programming (0.19 SD gain)](nba-math-hoops-improves-summer-math-achievement.md) — related
+- [ASSISTments benefited Hispanic students more than non-Hispanic students](assistments-hispanic-students-benefit-more.md) — related

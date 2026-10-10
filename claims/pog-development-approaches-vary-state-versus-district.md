@@ -47,3 +47,4 @@ A document scan of publicly available state and district POG documents and websi
 - [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related
 - [POG frameworks most frequently emphasize communication, critical thinking, collaboration, and perseverance/adaptability among their competencies](pog-competencies-communication-critical-thinking-most-frequent.md) — related
 - [The self-monitoring process was piloted in 1988-89 in selected districts across North Carolina's eight educational regions](jtpa-self-monitoring-pilot-1988-89.md) — related
+- [Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring](locally-developed-performance-assessments-teacher-collaborative-scoring.md) — related

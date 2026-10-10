@@ -49,3 +49,4 @@ District-wide observational analysis of CPS administrative attendance data, 2012
 - [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion](nlci-fullday-conversion-attendance-gains.md) — related
 - [In the first year of NLCI expansion, the attendance advantage over similar schools (3.8 percentage points) was not statistically significant](nlci-year-one-attendance-difference-not-significant.md) — related
 - [Full-day pre-k funding significantly raised pre-k attendance at NLCI elementary schools relative to matched comparison schools](nlci-full-day-pre-k-significantly-higher-attendance.md) — related
+- [Only about half of eligible children attend NC Pre-K, leaving almost 33,000 eligible children per year unserved](nc-pre-k-half-of-eligible-children-unserved.md) — related

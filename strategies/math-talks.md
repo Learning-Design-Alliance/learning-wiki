@@ -81,10 +81,12 @@ Math talks operationalize [Active Learning](../principles/active-learning.md) in
 6. Close by naming the key mathematical idea and the precise language that describes it; follow with [Practice](../elements/application.md) on related problems.
 
 ## Related Strategies
+
 - [Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md) — math talks are the discourse engine of CGI: teachers elicit and build on children's informal strategies
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — the general discussion pattern math talks specialize for mathematics
 - [Case-Based Learning](../patterns/case-based-learning.md) — shares the structure of discussing and comparing solution approaches to a shared problem
 - [Formative Assessment](../patterns/formative-assessment.md) — math talks double as a real-time window into learner reasoning
+- [Extend rich student discourse beyond Math Talks and use participation structures and story problems to broaden access and sense-making](extend-discourse-beyond-math-talks.md)
 
 ## Examples
 - **Number Talks (Parrish, 2010)** — A K–5 routine: a computation such as 16 × 25 is posed mentally, learners share strategies ("I did 25 × 4 four times…"), and the facilitator records each on the board for comparison. ([Math Solutions](https://mathsolutions.com))

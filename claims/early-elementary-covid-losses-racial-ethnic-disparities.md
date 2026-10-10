@@ -55,3 +55,6 @@ Figure 2 disaggregates MAP Growth percentile rank changes from 2019 to 2022 by r
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
 - [Disaggregating by race and income can show aggregate subgroup gaps largely reflect differing subgroup compositions (hypothetical example)](intersectional-disaggregation-closes-aggregate-gaps-hypothetical.md) — related
 - [Prior-year heat exposure reduces learning, with about 3 times greater impact on Black and Hispanic/Latine students than White students](heat-exposure-racial-learning-disparities.md) — related
+- [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
+- [Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students](california-racial-achievement-gap-persists.md) — related
+- [During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy](covid-volume-reading-growth-over-control.md) — related

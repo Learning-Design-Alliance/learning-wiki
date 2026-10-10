@@ -47,3 +47,4 @@ Logistic regressions of each off-track indicator on background covariates withou
 - [Being male, Black, or Hispanic and changing schools predict lower odds of moving on-track; the reading findings are qualitatively similar](demographics-predict-moving-on-track.md) — related
 - [No SEL construct status or growth significantly predicted chronic absenteeism in 9th grade after controlling for background characteristics](sel-no-prediction-chronic-absenteeism.md) — related
 - [Self-management status and growth across middle school predict lower odds of having a GPA below a C and of being suspended in 9th grade, but not chronic absenteeism](self-management-status-growth-predict-off-track-9th-grade.md) — related
+- [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not](mindset-behavior-predict-on-track-performance-avoidance-does-not.md) — related

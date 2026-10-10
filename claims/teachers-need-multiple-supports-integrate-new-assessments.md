@@ -46,3 +46,4 @@ A study of program practices in a state-funded preschool in Northern California 
 ## Related Claims
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
 - [Without clear expectations and support from district leaders, coaches might not devote sufficient time to the full range of coaching activities needed to improve teachers' instruction](coaches-need-district-expectations-full-activities.md) — related
+- [Three SIG Cohort 1 elementary schools that integrated PK–3 early learning strategies into turnaround plans showed improved student achievement](sig-schools-integrating-pk3-strategies-improved-achievement.md) — related

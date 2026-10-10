@@ -51,3 +51,4 @@ Theoretical argument in the 'Assimilating body and narrative to place' section. 
 - [Children managed conflict between Indigenous and Western teachings by holding both belief systems side by side or switching by context](children-manage-knowledge-conflict-collateral-learning.md) — related
 - [Postmodern texts advance five characteristic theses against Enlightenment certainties](five-postmodern-theses-anti-enlightenment.md) — related
 - [Language is the prime humanistic instrument, at once both the tool and the product of reason](language-prime-humanistic-instrument.md) — related
+- [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](culture-based-programs-flourish-engagement.md) — related

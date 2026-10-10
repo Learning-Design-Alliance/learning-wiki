@@ -67,6 +67,7 @@ Explicit instruction outperforms incidental exposure for teaching specific word 
 - [Morphological Analysis](../strategies/morphological-analysis.md) — generative word-attack strategy that multiplies the return on explicit teaching
 - [Text Talk / Interactive Read-Aloud](../strategies/text-talk-interactive-read-aloud.md) — contextual vehicle for introducing and reinforcing target vocabulary
 - [Twelve-step teacher-led concept-diagram vocabulary lesson routine](twelve-step-concept-diagram-routine.md)
+- [Concrete actions for mathematics educators: focus on ideas over words, engage students in defining early, connect multiple representations, extend to formal definitions, and nurture the genre of definition](educator-actions-for-defining-with-english-learners.md)
 
 ## Examples
 - **Bringing Words to Life (Beck, McKeown, & Kucan, 2013)** — the robust-vocabulary instructional routine widely used in elementary classrooms; words are taught over multiple days with varied contexts and playful interaction.

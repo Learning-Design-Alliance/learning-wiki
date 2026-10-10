@@ -40,6 +40,7 @@ The report recommends leveraging the deeper and more collaborative partnerships 
 ## Related Strategies
 
 - [Structure principal preparation internships around mastery of leadership competencies and strengthen university-district partnerships](competency-internships-and-district-partnerships.md)
+- [SEAs can use turnaround competencies and BEIs across selection, mentor matching, supervisor coaching, and leader pipelines](sea-competency-uses-selection-development.md)
 
 ## Examples
 -

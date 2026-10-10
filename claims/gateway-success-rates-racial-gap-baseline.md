@@ -46,3 +46,4 @@ Analysis of institutional research office data for the 41 fall 2019 pilot course
 - [In early online implementations of the Skyline Data Path course, Filipino students' success rates exceeded the course average while Latino students' fell below it](data-path-disaggregated-success-rates.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
+- [ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap](assistments-close-ethnic-achievement-gaps.md) — related

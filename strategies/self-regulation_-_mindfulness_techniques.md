@@ -58,8 +58,11 @@ Mindfulness training reliably improves attention and reduces mind-wandering, whi
 5. Fade facilitation over weeks: shift from teacher-led to brief student-led or silent self-initiated practice.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — emotional awareness routines that pair naturally with brief mindfulness at lesson start
 - Goal-setting and self-monitoring strategies — mindfulness supplies the noticing; these supply the planning and evaluation loop of [Self-Regulated Learning](../theories/self-regulated-learning.md)
+- [Integrate mindfulness throughout the school day via mindful moments, pausing before reacting, and reflective norms](integrate-mindfulness-schoolwide-daily-routines.md)
+- [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
 
 ## Related Elements
 - [Attention](../elements/attention.md) — the direct target of mindfulness practice

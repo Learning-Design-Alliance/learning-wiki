@@ -69,6 +69,7 @@ Action research operationalizes formative evaluation at the level of one's own t
 - [Iteratively update a design research plan with findings and resulting design adjustments](update-design-research-plan-with-findings-and-adjustments.md)
 - [Run PDSA cycles in which researcher-practitioner teams test modified assignments against as-is versions across multiple classrooms](pdsa-assignment-modification-testing-strategy.md)
 - [Use student experience data in an iterative inquire-change-monitor cycle with students as partners](cultivate-data-improvement-cycle.md)
+- [Eleven critical actions executed through a Plan-Do-Reflect-Revise cycle](critical-actions-plan-do-reflect-revise-ngss.md)
 
 ## Examples
 - **Lesson Study in Japanese elementary mathematics** (e.g., through [Mills College Lesson Study Group](https://www.lessonresearch.net)) — teams cycle through co-planning, observation, and revision of a single research lesson.

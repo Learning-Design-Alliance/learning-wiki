@@ -102,3 +102,5 @@ In Study 1, 126 first-year undergraduates in a Moodle course read texts with and
 - [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
+- [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](decorative-images-distract-from-math-problems.md) — a narrower finding that bears on this claim
+- [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](hero-elementary-ebooks-not-user-friendly-images-covering-text.md) — related

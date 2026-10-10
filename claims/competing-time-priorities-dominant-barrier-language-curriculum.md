@@ -48,3 +48,4 @@ Mixed-methods analysis of coaches' retrospective TDF survey and teacher/coach fo
 - [Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations](memory-habit-barriers-contextual.md) — related
 - [Daily teaching demands competed with and distracted from a sustained developmental focus on instructional improvement](daily-demands-compete-with-developmental-focus.md) — possibly the same claim (merge candidate)
 - [Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support](sor-priority-uneven-implementation-genai-context.md) — related
+- [Teachers reported pacing demands, student struggles with rigor, and technology impediments as factors hindering ERWC implementation](erwc-implementation-hindering-factors-qualitative.md) — related

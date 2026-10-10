@@ -62,6 +62,7 @@ Language demands are a hidden source of extraneous load in PBL: students wrestli
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — front-loads the conceptual vocabulary that stems then organize
 - [Structured Academic Controversy](structured-academic-controversy.md) — a PBL discussion format that depends heavily on function-specific discourse stems
 - [Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load](templates-and-posted-talk-moves-scaffolds.md)
+- [Assign a language function to each 5E phase (describe, compare and contrast, classify, classify with justification) and align language objectives with science objectives](language-function-per-5e-phase.md)
 
 ## Examples
 - In a project-based science unit on ecosystems, students use "The data show that ___, which suggests that ___" when writing evidence-based claims, with the teacher modeling the move aloud before team investigations.

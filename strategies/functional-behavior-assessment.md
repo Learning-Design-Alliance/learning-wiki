@@ -67,6 +67,7 @@ FBA rests on the behavioral principle that behavior is maintained by its consequ
 - Behavior Intervention Planning — the plan document that operationalizes FBA findings
 - Precorrection and antecedent strategies — proactive adjustments derived from the FBA's antecedent analysis
 - [Select individualized FBA-based intervention components matched to each student's assessed behavior function](fba-individualized-intervention-selection.md)
+- [Reframe challenging behavior as communication of an underlying need and respond rather than react](reframe-challenging-behavior-as-communication.md)
 
 ## Examples
 - A student calls out during independent work; ABC data show outages cluster when worksheets are assigned and produce teacher attention. The plan teaches a request-for-help card (functionally equivalent attention/access) and reduces worksheet difficulty at entry.

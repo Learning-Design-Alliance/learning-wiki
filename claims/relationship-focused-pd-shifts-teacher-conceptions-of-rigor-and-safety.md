@@ -51,3 +51,4 @@ This is a self-selected sample (6 of 21 eligible teachers volunteered for the ex
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
 - [Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness](reflective-practice-deeper-understanding-effectiveness.md) — related
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
+- [Continuous improvement for equity requires trust and courageous conversations; without trusting relationships, the improvement process will not help](ci-equity-requires-trust-and-courageous-conversations.md) — related

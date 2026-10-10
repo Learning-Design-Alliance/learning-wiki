@@ -184,3 +184,4 @@ This study found that the seductive details effect was not uniform: readers with
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-effect-impairs-learning.md) — related
 - [Rewarding an already-intrinsically-motivating activity can reduce future engagement with it](rewards-undermine-intrinsic-motivation.md) — both describe a well-intentioned motivational tactic that can backfire under identifiable conditions
+- [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](decorative-images-distract-from-math-problems.md) — a narrower finding that bears on this claim

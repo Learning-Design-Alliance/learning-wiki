@@ -49,3 +49,4 @@ A measurement model of rater severity using matched observations from 84 princip
 - [Across 78 observed classrooms, 46% of teacher ratings were at the unsatisfactory or basic level, with AMPS teachers earning generally higher ratings than IDS and Renaissance 2010 teachers](observation-ratings-46-percent-basic-unsatisfactory.md) — related
 - [Principals were far more likely than trained external observers to rate the same instruction Distinguished rather than Proficient](principals-inflate-distinguished-ratings.md) — reports the opposite
 - [Most evaluators rated consistently, but about 3 percent were muted and 5 percent erratic, and about 10 percent of a sampled subset were extremely severe or lenient](reach-evaluator-consistency-and-severity.md) — related
+- [Actual classroom observation practice often differs from best practice, with principal-teacher perception gaps on measures and observer qualifications](observation-practice-gaps-principal-teacher.md) — related

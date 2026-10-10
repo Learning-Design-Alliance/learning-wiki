@@ -65,3 +65,4 @@ The review states that Chicago schools receive setting-level indicator data from
 - [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — a broader claim this one bears on
 - [Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before](school-climate-associated-with-lower-absences-post-pandemic.md) — related
 - [Only 50% of a school's 5Essentials score is explained by the previous year's score, indicating substantial year-to-year malleability of school climate](5essentials-score-only-half-explained-by-prior-year.md) — related
+- [Regulate-relate-reason sequence: students reason once regulated and feeling supported](regulate-relate-reason-sequence.md) — related

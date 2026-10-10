@@ -50,6 +50,7 @@ The paper argues that Indigenous knowledge should be incorporated into curricula
 - [On-country visits where students interact with Aboriginal Elders as experiential learning](../strategies/on-country-elder-visits-experiential-learning.md)
 - [Holistic, place-based, time-bound Indigenous teaching pattern](../designs/holistic-place-based-time-bound-indigenous-teaching.md)
 - [Invite local Elders into classrooms as co-teachers of Indigenous Knowledge](../strategies/invite-local-elders-as-co-teachers.md)
+- [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](../strategies/place-based-culturally-harmonious-ccss-instruction.md)
 
 ## Key Sources
 - McGloin, C., Marshall, A. & Adams, M. (2009). Leading the Way: Indigenous Knowledge and Collaboration at an Indigenous Centre. Journal of University Teaching and Learning Practice. https://ro.uow.edu.au/jutlp/

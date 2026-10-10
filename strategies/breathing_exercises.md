@@ -61,6 +61,7 @@ Slow, controlled breathing reliably shifts autonomic state — increasing parasy
 - Test-anxiety reduction routines — breathing is the most portable component
 - Mindfulness-based classroom programs — breathing exercises are the core daily practice within them
 - [Thread conscious breathing strategies through warm-up, center work, and class conclusion](breath-strategies-across-dance-class-phases.md)
+- [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
 
 ## Examples
 - **MindUP** (The Goldie Hawn Foundation) — a school-based curriculum in which a daily three-minute "brain break" breathing practice anchors each lesson across K–8 classrooms. https://mindup.org

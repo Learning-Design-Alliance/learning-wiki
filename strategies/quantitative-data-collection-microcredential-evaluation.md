@@ -43,6 +43,7 @@ Because most rural micro-credentialing programs remain in pilot phases, the repo
 - [Advance micro-credentials through a piloting coalition, a rigorous research agenda, and dissemination of best practices](micro-credential-next-steps-strategy.md)
 - [Policy strategies to personalize learning: competency-based progressions, phased implementation, networks, and interoperability](policy-strategies-competency-networks-interoperability.md)
 - [Next-phase agenda: pilot and refine STEM pathways, align STEM education with local economic demands, and plan a sustaining backbone organization](stem-pathways-pilots-backbone-next-phase.md)
+- [Future SSSC evaluation work: collect data from directors, gather detailed activity data, and interview policymakers and practitioners to develop impact measures](sssc-future-evaluation-data-collection-strategy.md)
 
 ## Examples
 -

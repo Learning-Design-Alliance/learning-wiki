@@ -46,6 +46,7 @@ The brief identifies regular communication as essential for member success in pa
 - [Zoom Family Hours](zoom_family_hours.md)
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 - [Remove participation barriers and use broad outreach to ensure fair representation on parent councils](remove-barriers-broad-parent-council-representation.md)
+- [Create structure and consistency through schedules, regular communication, and clear instructions in distance learning](structure-consistency-distance-learning-schedules.md)
 
 ## Examples
 -

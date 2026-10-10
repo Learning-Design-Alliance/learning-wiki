@@ -48,3 +48,4 @@ Interview study of district-community team members reflecting on the semester af
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [A standing committee structure sustains middle school change despite personnel turnover](committee-structure-sustains-change-despite-turnover.md) — related
 - [OBCs drove increased edtech implementation rates, boosted by provider implementation support, despite challenges including buy-in, staff workload, unclear terms, leadership turnover, and time constraints.](obc-increased-implementation-rates.md) — related
+- [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — related

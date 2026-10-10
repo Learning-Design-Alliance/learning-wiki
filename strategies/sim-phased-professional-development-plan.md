@@ -45,6 +45,7 @@ The review prescribes a concrete PD schedule for adopting SIM: 2-3 days of plann
 - [Implement BARR through sequenced multi-year professional development plus dedicated weekly coaching exceeding 200 hours per year](barr-pd-and-coaching-implementation-strategy.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
+- [Require participants to complete an individual leadership project with a planning template and protected work time](individual-leadership-project-protected-time.md)
 
 ## Examples
 -

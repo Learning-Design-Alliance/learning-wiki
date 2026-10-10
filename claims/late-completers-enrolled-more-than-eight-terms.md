@@ -43,4 +43,4 @@ Analysis of terms enrolled for 5,447 2012–14 CPS immediate enrollees who compl
 
 
 ## Related Claims
--
+- [A majority of NFTE alumni respondents were attending or had finished college, and 91 percent of college finishers completed a four-year degree or higher](nfte-alumni-majority-college-enrollment.md) — related

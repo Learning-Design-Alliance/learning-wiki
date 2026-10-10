@@ -66,3 +66,4 @@ In the same linked cohort analysis, mentor teachers' ratings of their student te
 - [Mentor teachers' own evaluation ratings were positively related to their student teachers' first-year effectiveness as teachers-of-record](cps-mentor-evaluation-ratings-related-to-student-teachers-first-year-effectiveness.md) — related
 - [CPS mentor teachers were more qualified than other teachers, but their qualifications were generally unrelated to student teachers' preparedness or first-year performance](cps-mentor-teachers-more-qualified-qualifications-unrelated-to-outcomes.md) — related
 - [Student teaching in higher- or lower-achieving CPS schools made no difference in teachers' first-year REACH ratings](cps-placement-school-characteristics-unrelated-first-year-effectiveness.md) — related
+- [States that survey new teachers typically do so in the first year of teaching](states-survey-completers-first-year.md) — related

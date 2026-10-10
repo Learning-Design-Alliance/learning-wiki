@@ -55,9 +55,11 @@ Written goals function as external memory and self-regulatory anchors: they cue 
 5. Connect goals to [Practice](../elements/practice.md) — the written goal should name the recurring activities that produce progress.
 
 ## Related Strategies
+
 - **Learning Contracts** — formalized written goals agreed with an instructor, adding accountability
 - **Implementation Intentions** — the "when/where/how" complement that converts written goals into action triggers
 - **Progress Monitoring** — the review routine that makes written goals effective rather than decorative
+- [Write SMARTIE action-plan goals that are specific, measurable, ambitious, realistic, time-bound, inclusive, and equitable](smartie-goals-for-alignment-action-plans.md)
 
 ## Examples
 - **[Georgia State University's GPS Advising](https://success.gsu.edu)** — students' academic goals and degree plans are recorded and tracked, with advisors reviewing progress against written milestones.

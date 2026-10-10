@@ -62,3 +62,4 @@ A randomized study with school-level random assignment examined BARR's impact on
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — a broader claim this one bears on
 - [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](early-warning-systems-norms-routines-support-recovery.md) — a broader claim this one bears on
+- [RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools](rj-implementation-associated-with-improved-attendance.md) — related

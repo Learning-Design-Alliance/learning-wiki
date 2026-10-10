@@ -48,6 +48,7 @@ The white paper defines Improvement Science as "a systematic approach to identif
 - [Run PDSA cycles in which researcher-practitioner teams test modified assignments against as-is versions across multiple classrooms](../strategies/pdsa-assignment-modification-testing-strategy.md)
 - [Five recommendations for integrating Improvement Science with SEERNet](../strategies/five-recommendations-seernet-improvement-integration.md)
 - [Six-stage cycle of inquiry connecting indicators to supports](../strategies/cris-cycle-of-inquiry-six-stages.md)
+- [Ground annual improvement cycles in explicit theories of improvement and shared common achievement data rather than in vision-statement refinement alone](../strategies/theories-of-improvement-plus-common-data-strategy.md)
 
 ## Key Sources
 - Manai, J., & Roschelle, J. (2024, November). Connecting SEERNet and Improvement Science to Pursue Better Outcomes in Schools. Digital Promise. https://doi.org/10.51388/20.500.12265/234

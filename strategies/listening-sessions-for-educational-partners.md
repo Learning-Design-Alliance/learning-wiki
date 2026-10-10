@@ -46,6 +46,7 @@ Listening sessions are "structured opportunities for educational partners to sha
 - [Conduct focus groups to hear firsthand from multiple partners and build shared understanding beyond the numbers](focus-groups-beyond-the-numbers.md)
 - [Conduct one-on-one empathy interviews with open-ended questions to uncover root causes of system challenges](empathy-interviews-root-causes.md)
 - [Use the Start, Stop, Continue process to surface and act on promising practices with educational partners](start-stop-continue-promising-practices.md)
+- [Discovery-phase data collection: surveys, listening sessions, and project inventories to map the current system](discovery-phase-data-collection-tools.md)
 
 ## Examples
 -

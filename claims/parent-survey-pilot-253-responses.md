@@ -48,3 +48,5 @@ Field pilot of the parent survey conducted May-June 2015 by data-collection team
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](early-ed-essentials-rasch-refined-measures.md) — related
 - [Parents offer a unique perspective best captured by a distinct sixth essential, Parent Voice](parent-voice-distinct-sixth-essential.md) — related
 - [In the spring 2015 pilot, 19 of 27 teacher-survey measures met the 0.80 reliability threshold and all but one met 0.70; the Early Childhood Discipline measure was removed](teacher-survey-pilot-reliability-19-of-27.md) — related
+- [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](aptt-spring-multilingual-parents-felt-more-connected.md) — related
+- [Parents who attended APTT meetings, and multilingual-home parents, agreed more strongly that APTT and the preschool helped them prepare their child for kindergarten](aptt-attendance-linked-parent-readiness-capacity-agreement.md) — related

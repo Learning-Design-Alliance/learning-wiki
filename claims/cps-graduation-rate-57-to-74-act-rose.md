@@ -70,3 +70,4 @@ Secondary outcome reported in the Introduction to address concerns that graduati
 - [CPS four-year high school graduation rose from 58 percent (2007) to 82 percent (2019), with 18-point growth excluding options school graduates](cps-graduation-rose-58-to-82-percent-including-options.md) — related
 - [Seventy-six percent of CPS students graduated from high school in 2018, up from 57 percent in 2006](cps-graduation-rate-76-percent-2018.md) — related
 - [CPS graduates' qualifications improved: students graduating with at least a 3.0 core GPA rose from 21 to 32 percent between 2006 and 2015](cps-graduating-gpas-improved.md) — related
+- [Evidence on RJ's impact on academic outcomes is limited and mixed, with graduation-rate gains in one study and no GPA change in another](rj-academic-outcomes-evidence-mixed.md) — related

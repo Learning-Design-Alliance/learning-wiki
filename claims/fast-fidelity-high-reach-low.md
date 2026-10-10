@@ -64,3 +64,5 @@ Program-reach data for Cohort 1 treatment schools showed 37 percent attended one
 ## Related Claims
 - [FAST take-up was far below the projected 60 percent participation rate, with only about 20 percent typical participation per year](fast-takeup-far-below-projected.md) — possibly the same claim (merge candidate)
 - [TNTP achieved fidelity for TLTS's two key program components across Cohorts 2 and 3](tlts-fidelity-two-key-components.md) — related
+- [Family participation in Growing Strong Learners was high and similar for EL and non-EL families: 97% attended at least one APTT meeting and 92% participated in Ready4K](high-family-participation-aptt-ready4k.md) — related
+- [The New Teacher Support Program reaches fewer than 10 percent of beginning teachers, far below the statewide mentoring program that reached all beginning teachers in the 1990s](nc-new-teacher-support-reaches-under-ten-percent.md) — related

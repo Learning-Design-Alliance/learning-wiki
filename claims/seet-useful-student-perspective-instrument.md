@@ -45,3 +45,4 @@ The review's synthesis of SEET validity evidence (Penuel et al., 2018) and its u
 - [OpenSciEd materials equitably support student participation and engagement across racial, gender, and linguistic groups, per field-test SEET and teacher-report data](openscied-equitable-participation-engagement.md) — related
 - [Students find OpenSciEd units relevant and coherent, with over 90% reporting relevance and 87% reporting the lesson ties to the bigger picture](openscied-student-relevance-coherence.md) — related
 - [Working-group synthesis identified four crosscutting research themes for OpenSciEd](four-themes-openscied-research-agenda.md) — related
+- [Empathy interviews became a widely adopted data-gathering technique for understanding stakeholder perspectives on problems](empathy-interviews-adopted-by-improvement-teams.md) — related

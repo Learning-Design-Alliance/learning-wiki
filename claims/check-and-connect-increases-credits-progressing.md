@@ -49,3 +49,4 @@ The 1998 randomized trial in Minneapolis public high schools (92 students in the
 - [Check & Connect shows no significant effect on completion by one year after expected graduation (supplemental fifth-year finding)](check-and-connect-fifth-year-completion-null.md) — related
 - [Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63](dropout-programs-or-163-completion.md) — related
 - [Twelve Together shows no discernible effects on progressing in school as measured by highest grade completed](twelve-together-no-effect-progressing-in-school.md) — related
+- [Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students](lied-magnet-stem-credit-impacts.md) — related

@@ -52,3 +52,5 @@ The study's first report, based on 2006-2007 data for the first cohort, compared
 - [ReadAbout showed a positive, statistically significant impact (effect size 0.22) on social studies reading comprehension for second-cohort students taught by teachers with one prior year of experience with the curriculum.](readabout-teacher-experience-positive-impact-es-022.md) — related
 - [The four reading interventions did not improve state assessment (PSSA) scores; for fifth graders they lowered reading and mathematics scores](interventions-did-not-improve-pssa-scores.md) — related
 - [A national evaluation design was produced to assess supplemental reading comprehension programs for fifth-grade students](national-evaluation-design-supplemental-reading-comprehension-fifth-grade.md) — related
+- [The A4L Lessons Project had no statistically significant impact on students' OAKS Reading/Literature achievement after one, two, or three years of participation](a4l-no-impact-oaks-reading.md) — related
+- [Grade 5 students showed very small, non-significant CCU differences, indicating no reliable A4L impact at that grade level](a4l-grade5-ccu-no-impact.md) — related

@@ -47,3 +47,4 @@ Report's ecosystem diagnosis based on the authors' stakeholder analysis: data co
 - [Districts report recurring pain points in edtech evaluation, including no formal process, curriculum–technology team disconnects, uneven evaluation depth, and outdated tool inventories](district-edtech-evaluation-pain-points.md) — related
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](mixed-delivery-fragmentation-barriers.md) — related
+- [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related

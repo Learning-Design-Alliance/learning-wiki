@@ -61,9 +61,11 @@ Clarifying language reduces extraneous cognitive load: when learners must simult
 6. Gradually release learners to the canonical disciplinary language, connecting simplified formulations back to the precise forms.
 
 ## Related Strategies
+
 - [Accessible Syntax](accessible_syntax.md) — the sentence-level companion: restructuring complex syntax so meaning is transparent
 - [Activate Background Knowledge](activate_background_knowledge.md) — vocabulary clarification works best when anchored to what learners already know
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — extends language clarification to inclusive, culturally responsive use of terms and symbols
+- [Concrete actions for mathematics educators: focus on ideas over words, engage students in defining early, connect multiple representations, extend to formal definitions, and nurture the genre of definition](educator-actions-for-defining-with-english-learners.md)
 
 ## Related Elements
 - [Analogies](../elements/analogies.md) — connect unfamiliar terms to familiar concepts

@@ -47,3 +47,4 @@ Implementation analysis of family engagement in the 2019-20 scale-up found a mea
 - [The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions](future-forward-tutoring-scaled-up.md) — related
 - [The tutoring component of FF scaled up successfully to 14 schools, with 89.7% of participants receiving the intended tutoring dosage](ff-tutoring-scale-up-success.md) — related
 - [Future Forward holds 'Strong' evidence ratings for Family Engagement and Attendance in addition to literacy](future-forward-strong-ratings-family-engagement-attendance.md) — related
+- [Family participation in Growing Strong Learners was high and similar for EL and non-EL families: 97% attended at least one APTT meeting and 92% participated in Ready4K](high-family-participation-aptt-ready4k.md) — related

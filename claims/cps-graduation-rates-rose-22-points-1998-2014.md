@@ -57,3 +57,4 @@ Districtwide trend analysis of CPS administrative records using age-based cohort
 - [CPS four-year high school graduation rose from 58 percent (2007) to 82 percent (2019), with 18-point growth excluding options school graduates](cps-graduation-rose-58-to-82-percent-including-options.md) — related
 - [Chicago's on-track data system was associated with improved high school graduation rates](chicago-ontrack-system-improved-graduation-rates.md) — related
 - [Chicago graduation rates improved 17 percentage points (57 to 74 percent) between 2006 and 2015 while the ACT average rose from 17.6 to 18.5](cps-graduation-rate-57-to-74-act-rose.md) — related
+- [71 percent of CCSD 8th graders were on track for graduation at the end of 9th grade in 2015/16](ccsd-71-percent-on-track-end-of-9th-grade.md) — related

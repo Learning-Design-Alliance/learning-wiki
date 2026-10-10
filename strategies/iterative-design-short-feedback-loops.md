@@ -47,6 +47,7 @@ The guide recommends working closely with users during development through itera
 - [Engage users and community members in the design process to make learning tools more attractive, useful, and effective](user-and-community-centered-design-methods.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [AI researchers should partner with developers and disseminate findings accessibly to bridge research-practice silos](researcher-developer-partnerships-bridge-ai-silos.md)
+- [Use a design thinking process with Empathize, Define, Ideate, Prototype, and Test stages to reimagine school safety](design-thinking-reimagining-school-safety.md)
 
 ## Examples
 -

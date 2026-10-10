@@ -82,6 +82,7 @@ GRR operationalizes [Scaffolding](../principles/scaffolding.md) as a temporal se
 - [Scaffolding](../principles/scaffolding.md) — the underlying mechanism; GRR specifies its temporal sequencing
 - [Fading](../elements/fading.md) — the systematic withdrawal of support that defines the release
 - [Formative Assessment](../patterns/formative-assessment.md) — provides the readiness evidence that should govern each release
+- [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 
 ## Examples
 - **Fisher & Frey's framework at Health Sciences High (San Diego)** — a four-phase GRR model (focused instruction, guided instruction, collaborative learning, independent learning) used school-wide across content areas; documented in *Better Learning Through Structured Teaching* (ASCD, 2021, 3rd ed.).

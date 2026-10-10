@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 10,885 |
-| Evidence entries | 12,590 |
-| Distinct studies | 3,393 |
-| Claims resting on one study | 10,624 (98%) |
+| Claims | 11,297 |
+| Evidence entries | 13,071 |
+| Distinct studies | 3,484 |
+| Claims resting on one study | 11,036 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 711 of 3,393 (21%) |
+| Studies reporting an effect size | 718 of 3,484 (21%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 48 | 374 | 108 | 358 | 888 |
+| causal | 49 | 384 | 109 | 358 | 900 |
 | quant-synthesis | 22 | 81 | 37 | 122 | 262 |
-| review | 32 | 158 | 73 | 104 | 367 |
-| associational | 23 | 364 | 166 | 241 | 794 |
-| qualitative | 50 | 157 | 54 | 63 | 324 |
-| design | 24 | 222 | 126 | 27 | 399 |
-| theoretical | 33 | 210 | 66 | 50 | 359 |
+| review | 32 | 171 | 76 | 105 | 384 |
+| associational | 23 | 377 | 173 | 241 | 814 |
+| qualitative | 51 | 169 | 58 | 65 | 343 |
+| design | 26 | 224 | 135 | 27 | 412 |
+| theoretical | 33 | 218 | 68 | 50 | 369 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 614 (18%) | 1,940 (57%) | 726 (21%) | 113 (3%) |
+| 629 (18%) | 2,008 (58%) | 734 (21%) | 113 (3%) |
 
-**Studies per claim:** 0: 0, 1: 10,624, 2: 205, 3: 50, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 11,036, 2: 205, 3: 50, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -50,6 +50,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Hiroyuki Yamada. (2024). New Normal in Early Elementary Mathematics Learning: Part III - Learning from …](claims/algebra-domain-strongest-predictor-early-math.md) | q2 | 17 | 17 |
 | [Project Cal-Well: Building Sustainable School-Based Mental Health Systems. (2024). WestEd. …](claims/cal-well-13262-students-received-services.md) | q2 | 15 | 15 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
+| [Rural Turnaround: Challenges and Opportunities. (2014). WestEd R&D Alert, Vol. 15, No. 1. …](claims/amargosa-eight-weeks-fill-eight-of-fourteen-positions.md) | q2 | 14 | 14 |
 | [Dominguez, X., Rood, E., Kamdar, D., Leones, T., & Huynh, K. (2021). Splash and Bubbles for Parents App: …](claims/app-child-initiated-science-conversations-higher.md) | q2 | 14 | 14 |
 | [Ehrlich, S. B., Gwynne, J. A., Pareja, A. S., & Allensworth, E. M. (2014). Preschool Attendance in Chicago …](claims/attendance-benefits-strongest-low-incoming-skills.md) | q3 | 13 | 13 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
@@ -62,7 +63,6 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Hart, H. M., Sporte, S. E., Ponisciak, S. M., Stevens, W. D., & Cambronne, A. (2008). Teacher and Principal …](claims/fund-principals-future-plans.md) | q2 | 10 | 10 |
 | [Steven Glazerman and Jeffrey Max. (2011). Do Low-Income Students Have Equal Access to the Highest-Performing …](claims/district-a-extreme-middle-school-math-disparity.md) | q2 | 10 | 10 |
 | [Christina Clark Tuttle, Brian Gill, Philip Gleason, Virginia Knechtel, Ira Nichols-Barrer, Alexandra Resch. …](claims/kipp-evaluation-43-middle-schools-four-subjects.md) | q2 | 10 | 10 |
-| [Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is …](claims/learners-given-two-kr-decisions-mostly-keep-their-first-choice.md) | q3 | 10 | 10 |
 
 ## Citation load against evidence base
 
@@ -136,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 375 | 324 | 2 | 0 |
 | [elements](elements/index.md) | 2,174 | 1,676 | 1 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
-| [strategies](strategies/index.md) | 4,430 | 2,158 | 7 | 0 |
+| [strategies](strategies/index.md) | 4,546 | 2,158 | 7 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,686 | 1,386 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 12 | 12 | 31.5 | 0 |
-| [designs](designs/index.md) | 335 | 179 | 1 | 0 |
-| [products](products/index.md) | 86 | 37 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 35 | 26 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 12 | 12 | 34.5 | 0 |
+| [designs](designs/index.md) | 378 | 195 | 1 | 0 |
+| [products](products/index.md) | 137 | 57 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 39 | 27 | 1 | 0 |
 
 ## Toward pooled estimates
 

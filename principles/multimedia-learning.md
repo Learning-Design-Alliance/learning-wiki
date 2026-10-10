@@ -23,7 +23,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 9 claims (4 for, 5 mixed) · 21 studies (13 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 5 of 21 report an effect size · 4 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 22 studies (13 causal, 5 quant-synthesis, 2 review, 1 associational, 1 design), `q1`–`q4` · 5 of 22 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
@@ -63,6 +63,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Diagrams Help Posttest Only Read Twice Condition](../claims/diagrams-help-posttest-only-read-twice-condition.md) [+M]
+- [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](../claims/decorative-images-distract-from-math-problems.md) [+W] — attached 2026-10-09 from Merging Cognitive Science et al. (2014), which proposed "Integrate visual images and verbal information in meaningful ways to promote understanding of key concepts"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

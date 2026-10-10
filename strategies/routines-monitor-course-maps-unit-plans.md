@@ -37,7 +37,8 @@ The schools used established and repeated activities to guide and sustain instru
 - consistent, coherent instructional planning and improvement
 
 ## Related Strategies
-- 
+
+- [Create structure and consistency through schedules, regular communication, and clear instructions in distance learning](structure-consistency-distance-learning-schedules.md)
 
 ## Examples
 -

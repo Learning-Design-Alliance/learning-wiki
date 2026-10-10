@@ -46,3 +46,4 @@ The article's abstract presents the Multnomah County, Oregon partnership as a ca
 - [University–district research partnership models vary widely and many struggle to develop collaboratively designed research that assists districts and improves the profession](partnership-models-vary-struggle-collaborative-research.md) — a broader claim this one bears on
 - [District leadership testified that the partnership's research deliverables were useful and that the collaboration yielded long-term benefits](district-leadership-testimony-utility-longterm-benefits.md) — related
 - [Many local school districts lack research personnel to evaluate program efficacy or investigate best practices because of tight budgets](districts-lack-research-personnel-budget-constraint.md) — a broader claim this one bears on
+- [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related

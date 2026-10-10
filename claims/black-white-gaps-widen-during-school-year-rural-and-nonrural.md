@@ -51,3 +51,4 @@ Analysis of fall-to-spring growth for 840,000 K–8 students in 8,800 public sch
 - [Math achievement of BVI students lags sighted peers and the gap widens with age](bvi-math-achievement-lags-and-gap-widens.md) — related
 - [Non-linear within-year growth has implications for extending the school year, summer learning loss, and racial/ethnic achievement gaps](nonlinear-growth-implications-school-year-summer-gaps.md) — a broader claim this one bears on
 - [Rural students are characterized as a substantially sized but overlooked group, comprising about 20 percent of the national student population](rural-students-forgotten-20-percent-framing.md) — related
+- [North Carolina achievement has declined since 2013 and the Black-White NAEP gap widened between 2015 and 2017 in both eighth grade mathematics and reading](nc-naep-declines-since-2013-black-white-gap-widened.md) — related

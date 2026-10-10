@@ -45,3 +45,4 @@ Results section 3.2 reports student perceptions of the metacognitive and critica
 ## Related Claims
 - [Metacognitive and reflective instruction through culture exploration is associated with increased student engagement in the EFL classroom](ct-metacog-culture-engagement.md) — related
 - [The author reports a highly significant performance increase for the metacognitively prepared EFL classroom relative to the traditional classroom](culture-performance-vs-traditional-efl.md) — related
+- [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](metacognition-efficiency-effectiveness-outcomes-claim.md) — related

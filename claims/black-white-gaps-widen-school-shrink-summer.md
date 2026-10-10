@@ -50,3 +50,4 @@ Seasonal learning analysis comparing achievement-gap growth when school is in ve
 - [The study frames schooling as a candidate explanation for the development of racial and ethnic inequalities in academic skills](schooling-role-racial-ethnic-inequality-development.md) — related
 - [A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade](seasonal-analysis-2m-students-racial-ethnic-disparities-k-8.md) — related
 - [The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade](seasonal-disparities-analysis-span-kindergarten-eighth-grade.md) — a broader claim this one bears on
+- [North Carolina achievement has declined since 2013 and the Black-White NAEP gap widened between 2015 and 2017 in both eighth grade mathematics and reading](nc-naep-declines-since-2013-black-white-gap-widened.md) — related

@@ -44,6 +44,7 @@ In advanced practica, the author requires students to begin and end field work w
 - [Context-Specific Journaling](context-specific_journaling.md)
 - [Logs and Journals to Guide Reflection](logs_and_journals_to_guide_reflection.md)
 - [Political Education](political_education.md)
+- [Use an \"equity pause\" to infuse equity consciousness into continuous improvement team processes](equity-pause-strategy.md)
 
 ## Examples
 -

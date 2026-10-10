@@ -51,3 +51,4 @@ Qualitative analysis of the group's material setting. The author reports student
 - [Synchronized collective behaviors oriented to strips and worksheets dynamically stabilize the students' initial activity and thinking](synchronized-interactional-behaviors-stabilize-activity.md) — related
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
 - [Reflexive noticing shifts teacher discourse from stabilization to possibility, while surprises alone often re-stabilize it](reflexive-noticing-shifts-stabilization-to-possibility-discourse.md) — related
+- [In Oceanside, teachers' successes in supporting student academic discourse diminished when teachers followed newly adopted instructional materials too closely](close-following-of-new-materials-diminished-discourse-gains.md) — related

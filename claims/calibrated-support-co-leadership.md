@@ -74,3 +74,6 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
 - [Centering teachers of color as leaders, designers, and implementers throughout design is the most broadly appreciated aspect of the Design Team process](centering-teacher-of-color-voice-distributed-leadership.md) — related
 - [Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had](external-coaching-accountability-idea-generation.md) — related
+- [A district math administrator reported that schools supported by coaches with mathematics expertise showed greater gains and stronger collaborative structures than schools without such support](math-expertise-coaches-associated-greater-gains.md) — related
+- [The authors assert that Systems Review participation builds SEA teams' capacity for shared purpose, decision-making, and adaptive change management](systems-review-builds-capacity-outcomes.md) — related
+- [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related

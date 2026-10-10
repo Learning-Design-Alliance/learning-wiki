@@ -47,3 +47,6 @@ Descriptive 50-state policy scan cited in the brief: "32 states and the District
 - [Many community arts organizations anticipate losing work because Prop 28 AMS spending parameters keep funding within schools and districts](prop28-organizations-anticipate-losing-work.md) — related
 - [The Prop 28 AMS requirement to spend 80% of funds on staffing has negatively impacted community arts organizations, including two preparing to close](prop28-80-percent-staffing-requirement-harmed-arts-organizations.md) — related
 - [Confusion about allowable Prop 28 AMS expenses at school and district levels has reduced funding directed to community arts organizations](prop28-confusion-reduced-funding-to-arts-organizations.md) — related
+- [As of fiscal year 2017, 22 states still provided less per-pupil K–12 education funding than in 2008–09](22-states-less-per-pupil-funding-than-2008-09.md) — related
+- [Stakeholders view parcel taxes—the only local revenue option available to California school districts—as inequitable and regressive](parcel-taxes-inequitable-regressive-only-local-option.md) — related
+- [Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions](pit-reliance-makes-education-funding-volatile.md) — related

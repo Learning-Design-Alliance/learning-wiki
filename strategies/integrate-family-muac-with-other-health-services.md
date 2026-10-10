@@ -39,6 +39,7 @@ The article recommends embedding Family MUAC with two-way SMS into existing heal
 ## Related Strategies
 
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
+- [Provide universal well-baby screening and home-visit services regardless of income, following Victoria, Australia's model](universal-well-baby-home-visits-victoria-model.md)
 
 ## Examples
 -

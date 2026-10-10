@@ -50,3 +50,4 @@ Descriptive review of Maryland disciplinary trends presented in an REL Mid-Atlan
 - [Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions](iep-youth-increased-school-engagement-2003-2012.md) — related
 - [Grade retention, suspensions, and expulsions among youth with an IEP showed little change over the past decade](iep-youth-discipline-retention-little-change-decade.md) — related
 - [School closures had no effect on absences or suspension rates for affected students](closures-no-effect-absences-suspensions.md) — related
+- [Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions](rj-implementation-associated-with-lower-exclusionary-discipline.md) — related

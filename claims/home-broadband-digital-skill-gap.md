@@ -49,3 +49,4 @@ The report cites a study of rural Michigan school districts: "students with no h
 - [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
 - [Implementation data show teachers shifted independent practice toward in-class ASSISTments assignments, a change the study links to more equitable access for rural students with limited home connectivity](assistments-classwork-shift-rural-equity.md) — related
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related
+- [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related

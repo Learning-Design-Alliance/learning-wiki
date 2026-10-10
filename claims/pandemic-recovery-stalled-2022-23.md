@@ -50,3 +50,4 @@ The brief's summary of its analysis of academic gains in the 2022-23 school year
 - [The average student needs an estimated 4.1 additional months of schooling to catch up in reading](reading-catchup-4-point-1-months.md) — a narrower finding that bears on this claim
 - [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
 - [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — possibly the same claim (merge candidate)
+- [Compensatory education services are additional services to make up for progress or skills lost due to a lapse in services, and are conceptually distinct from recovery services](compensatory-education-distinct-from-recovery-services.md) — related

@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 65 claims (47 for, 11 mixed, 7 against) · 55 studies (20 causal, 15 associational, 8 quant-synthesis, 8 review, 2 design, 2 theoretical), `q1`–`q4` · 17 of 55 report an effect size · 61 claims rest on one study
+> **Evidence** · 67 claims (49 for, 11 mixed, 7 against) · 57 studies (21 causal, 15 associational, 9 review, 8 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 17 of 57 report an effect size · 63 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -98,6 +98,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](../claims/time-on-task-unequal-in-active-learning-comparisons.md) [+M] — instruction changes it
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](../claims/mobile-device-moderators-insufficient-evidence.md) [~W] — an instructional effect differs with it
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](../claims/family-partnership-reduced-chronic-absenteeism-15-percent.md) [+W] — instruction changes it
+- [RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools](../claims/rj-implementation-associated-with-improved-attendance.md) [+M] — instruction changes it
+- [Thirty-seven percent of the Elevate Math program effect is attributable to avoidance of summer learning loss through the first half of the summer](../claims/elevate-math-effect-third-summer-learning-loss-avoidance.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

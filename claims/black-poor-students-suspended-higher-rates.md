@@ -50,3 +50,4 @@ The article opens by establishing the well-documented discipline disparity: "Bla
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — a narrower finding that bears on this claim
 - [Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS](low-achievement-disability-suspension-rates-cps.md) — related
 - [Prior studies of discipline disparities were limited by a selection challenge that prevented identifying discrimination](selection-challenge-limited-prior-discipline-studies.md) — related
+- [Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer](disproportionate-discipline-and-sro-placement.md) — a narrower finding that bears on this claim

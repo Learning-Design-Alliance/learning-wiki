@@ -39,6 +39,7 @@ The report's closing recommendation urges policymakers to weigh how reclassifica
 ## Related Strategies
 
 - [Integrate post-reclassification monitoring and support so students who exit EL status continue receiving integrated support in the general curriculum](post-reclassification-monitoring-support.md)
+- [Reclassify English learners using criteria grounded in the federal EL definition, without requiring minimum content-assessment performance for exit](federal-definition-grounded-reclassification-criteria.md)
 
 ## Examples
 -

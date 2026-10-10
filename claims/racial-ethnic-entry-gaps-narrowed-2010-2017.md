@@ -49,3 +49,4 @@ Regression-estimated standardized gaps by year and subject using weighted MAP Gr
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
 - [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — related
 - [Black and Hispanic students attained postsecondary readiness and success outcomes at substantially lower rates than White students](black-hispanic-lower-postsecondary-outcomes.md) — related
+- [ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap](assistments-close-ethnic-achievement-gaps.md) — related

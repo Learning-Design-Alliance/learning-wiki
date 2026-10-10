@@ -63,3 +63,4 @@ Funding source findings (Figures 23 and 24): Title II funds are the primary sour
 
 ## Related Claims
 - [Most coaches rate their professional development as effective, and administrators describe it as tailored, timely, and multi-year](coach-professional-development-perceived-effective.md) — related
+- [Most grant-funded residency programs have not yet broadened funding sources or adopted cost-reduction strategies beyond the one-time grant](programs-not-broadening-funding-sources.md) — related

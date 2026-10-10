@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 93 claims (52 for, 17 mixed, 24 against) · 76 studies (26 causal, 17 quant-synthesis, 15 review, 9 associational, 7 theoretical, 2 qualitative), `q1`–`q4` · 22 of 76 report an effect size · 86 claims rest on one study
+> **Evidence** · 99 claims (58 for, 17 mixed, 24 against) · 80 studies (26 causal, 17 quant-synthesis, 16 review, 10 associational, 7 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 22 of 80 report an effect size · 92 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -126,6 +126,12 @@ What a learner can read without effort, and whether the language of instruction 
 - [Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity](../claims/vocabulary-uniquely-related-word-reading-spelling-kindergarten.md) [+M] — learners who differ on it differ in outcomes
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](../claims/vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) [+S] — instruction changes it
 - [Without a competing language, bilingual preschoolers show no preference between English-only and Mandarin-only books during silent reading](../claims/no-language-preference-single-language-silent-reading.md) [-M] — learners who differ on it differ in outcomes
+- [Inquiry-based science provides a highly contextualized setting for authentic language use and higher-level dialogue that is not text-dependent, supporting English learners' language development](../claims/inquiry-science-contextualized-authentic-language.md) [+W] — instruction changes it
+- [Statewide mathematics achievement gaps between English learners and English speakers increased from 2015 to 2017, a pattern evident in all but one MiC district](../claims/el-english-speaker-gap-increasing-statewide.md) [+M] — learners who differ on it differ in outcomes
+- [Learning behaviors of typical multilingual development can resemble those of disability, complicating accurate identification](../claims/language-development-disability-behavior-overlap.md) [+W] — learners who differ on it differ in outcomes
+- [Multilingual learners in California are disproportionately represented in special education, especially in the Specific Learning Disability category](../claims/california-ml-overrepresentation-sld.md) [+M] — learners who differ on it differ in outcomes
+- [Parents who attended APTT meetings, and multilingual-home parents, agreed more strongly that APTT and the preschool helped them prepare their child for kindergarten](../claims/aptt-attendance-linked-parent-readiness-capacity-agreement.md) [+M] — learners who differ on it differ in outcomes
+- [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](../claims/aptt-spring-multilingual-parents-felt-more-connected.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Working memory — effortful decoding consumes it before comprehension begins.

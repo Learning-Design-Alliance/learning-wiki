@@ -49,3 +49,4 @@ Descriptive analysis of the percentage of ELs not proficient within 5 years of f
 - [The kind of test-based reclassification criteria, not the number, is likely the more salient determinant of long-term EL status](kind-not-number-of-criteria-determines-long-term-el-status.md) — related
 - [No systematic patterns in EL racial/ethnic and age composition across reclassification policy structures](no-demographic-patterns-across-reclassification-structures.md) — related
 - [Policy adherence is high across states (96-98 percent of eligible students reclassified) but is relatively lower in the state mandating end-of-grade assessment proficiency](policy-adherence-high-but-lower-in-mandated-assessment-state.md) — related
+- [There is a conceptual disconnect between meeting the Title III English proficient standard and exiting EL status under Title I](title-iii-title-i-exit-disconnect.md) — related

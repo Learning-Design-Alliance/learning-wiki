@@ -66,3 +66,5 @@ Null difference-in-difference result for suspensions, inclusive of in-school and
 - [Full removal of SROs from CPS high schools was associated with a statistically significant reduction in high-level behavioral infractions at both the student and school levels](sro-removal-reduces-high-level-discipline-infractions.md) — related
 - [SRO removal was not significantly related to changes in student or teacher perceptions of physical safety or in Student-Teacher Trust](sro-removal-no-change-school-climate-perceptions.md) — related
 - [Police notifications declined substantially in schools that fully removed SROs, but the difference-in-difference was not statistically significant](sro-removal-police-notifications-declined-not-significant.md) — related
+- [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — related
+- [Schools with school resource officers may have higher rates of exclusionary discipline, including a reported 21 percent increase in incidents](sros-associated-with-higher-exclusionary-discipline.md) — related

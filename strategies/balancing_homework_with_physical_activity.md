@@ -64,6 +64,7 @@ Physical activity before or between cognitive tasks measurably improves attentio
 - [Achievable micro-goals](achievable_micro-goals.md) — structuring homework into short blocks pairs naturally with movement intervals
 - [Check-ins](../principles/check-ins.md) — brief reviews that help learners notice whether the work–movement rhythm is actually improving focus
 - [Apply the 10-minutes-per-grade homework time guideline, adjusted modestly for remote learning](ten-minutes-per-grade-homework-guideline.md)
+- [Reduce workloads and chunk instruction into smaller pieces to support diminished capacity and executive functioning](reduce-workload-chunk-instruction-distance-learning.md)
 
 ## Examples
 - A family sets a kitchen timer for 25-minute homework blocks; between blocks the child shoots baskets for 5 minutes, then returns to the same task.

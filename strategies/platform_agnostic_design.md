@@ -62,6 +62,7 @@ Platform dependence adds extraneous load and friction that is unrelated to learn
 - [Universal Design for Learning](../principles/universal-design-for-learning.md) — shares the multiple-means-of-access logic; platform agnosticism is its technological dimension
 - [Offline Learning Packets](offline-learning-packets.md) — a concrete fallback for low-connectivity learners
 - [Integrate pronunciation-focused technology such as language learning apps and mobile-assisted pronunciation training into the CLT curriculum](technology-integrated-pronunciation-practice.md)
+- [Require one common school-wide learning management system for any program using remote learning](common-lms-requirement-remote-programs.md)
 
 ## Examples
 - **Open textbook platforms such as [OpenStax](https://openstax.org)** — textbooks readable as web pages, downloadable PDFs, and e-book formats on any device, with no account or specific software required.

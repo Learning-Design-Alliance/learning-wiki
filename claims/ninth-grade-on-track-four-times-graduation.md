@@ -49,3 +49,4 @@ Consortium analysis (citing Seeskin, Mahaffie, & Usher, 2020) of CPS ninth-grade
 - [Ninth-graders who were On-Track were three and one-half times more likely to graduate in four years than off-track students](on-track-predicts-graduation-three-and-half-times.md) — related
 - [Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers](off-track-ninth-grade-graduation-odds.md) — related
 - [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](on-track-ninth-graders-3-5-times-more-likely-to-graduate.md) — related
+- [71 percent of CCSD 8th graders were on track for graduation at the end of 9th grade in 2015/16](ccsd-71-percent-on-track-end-of-9th-grade.md) — related

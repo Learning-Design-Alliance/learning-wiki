@@ -40,6 +40,8 @@ The report calls for accessible, linked, comprehensive, and current education an
 
 - [Provide school-placement decision-makers with richer school information and strengthen transportation implementation to support school-of-origin stability](school-stability-supports-foster-care.md)
 - [Develop data-sharing memoranda of understanding and shared evaluation across child- and family-serving agencies](shared-data-use-mous-evaluation.md)
+- [Broker a formal data-sharing agreement between child welfare and education agencies to identify and serve students in foster care](cross-system-data-sharing-agreement-foster-care.md)
+- [Use linked cross-system data to target programs such as dropout prevention and postsecondary preparation for students in foster care](data-informed-targeted-support-foster-care.md)
 
 ## Examples
 -

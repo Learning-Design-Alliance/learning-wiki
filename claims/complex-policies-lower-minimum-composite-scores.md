@@ -50,3 +50,5 @@ Descriptive analysis of minimum ACCESS 2.0 composite scores required for reclass
 - [Disparities in reclassification eligibility across states widen as grade levels progress, with states relying solely on ELP criteria showing sharp increases by grade 5](eligibility-disparities-widen-across-grades.md) — related
 - [No systematic patterns in EL racial/ethnic and age composition across reclassification policy structures](no-demographic-patterns-across-reclassification-structures.md) — related
 - [Policy adherence is high across states (96-98 percent of eligible students reclassified) but is relatively lower in the state mandating end-of-grade assessment proficiency](policy-adherence-high-but-lower-in-mandated-assessment-state.md) — related
+- [States weight ELP assessment composite scores differently, so what counts as English proficient differs across assessments](elp-composite-weighting-variation.md) — related
+- [There is a conceptual disconnect between meeting the Title III English proficient standard and exiting EL status under Title I](title-iii-title-i-exit-disconnect.md) — related

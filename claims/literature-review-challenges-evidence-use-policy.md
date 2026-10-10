@@ -50,3 +50,4 @@ Narrative literature review of grey and peer-reviewed literature conducted in Ph
 - [Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making](research-questions-rarely-designed-with-practitioners.md) — related
 - [School leaders developing maker learning programs cite lack of unity around goals, a small research base, lack of academic integration models, and no planning frameworks as key challenges](maker-program-development-challenges.md) — related
 - [Classroom teachers rarely consult research when making decisions about their classroom practices, citing time constraints, the vastness of research, paywalls, and perceived distance from practice](teachers-rarely-consult-research-decision-making.md) — related
+- [The framework was developed from a literature review, a 21-expert summit, and 23 leader interviews](ngss-leadership-framework-development-method.md) — related

@@ -50,3 +50,4 @@ In-depth micro-case evaluations of individual CLASP programs identified communic
 - [Literature review identifies 182 candidate coaching components organized into coach, teacher, and interaction factors](literature-review-182-coaching-components-three-categories.md) — related
 - [The guide identifies intentional instruction, interaction and conversation, and sequentially built lessons as important factors in preschool instruction](preschool-instruction-key-factors-wwc.md) — related
 - [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related
+- [SSSCs collaborate with a range of state organizations, most commonly through co-branding or sharing information externally](sssc-collaboration-co-branding-information-sharing.md) — related

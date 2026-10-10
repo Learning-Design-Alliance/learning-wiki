@@ -62,4 +62,4 @@ Comparison of 2019 class period schedules from the Washington State Board of Edu
 
 
 ## Related Claims
--
+- [Rural Utah districts had smaller average class sizes and student-to-teacher ratios, but far fewer unique advanced courses per secondary school, than non-rural districts from 2012 to 2017](utah-rural-smaller-classes-fewer-advanced-courses.md) — related

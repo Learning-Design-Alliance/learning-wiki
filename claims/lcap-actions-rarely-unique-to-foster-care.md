@@ -47,3 +47,4 @@ Documentary analysis of the 2022–23 Local Control and Accountability Plans of 
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
 - [Students in foster care were increasingly identified with disabilities, reaching nearly one in three by 2022–23 and far exceeding other high-need groups](foster-care-disability-identification-increased.md) — related
 - [Academic achievement of students in foster care improved before the pandemic but lost all gains afterward, with only 19 percent meeting ELA standards in 2022–23](foster-care-achievement-pandemic-reversal.md) — related
+- [California's Local Control Funding Formula provides districts supplemental grants for each student in foster care that must increase or improve services](lcff-supplemental-grants-foster-care.md) — related

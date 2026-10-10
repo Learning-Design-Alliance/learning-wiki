@@ -40,6 +40,8 @@ The report adapts the seven-domain "comprehensive, aligned" principal pipelineâ€
 
 - [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](tdf-state-policy-actions-career-continuum.md)
 - [Institute strategies that turn the assistant principal experience into a structured program for developing school-leadership skills](structured-ap-experience-development-program.md)
+- [SEAs can use turnaround competencies and BEIs across selection, mentor matching, supervisor coaching, and leader pipelines](sea-competency-uses-selection-development.md)
+- [Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance](leandro-sequenced-investment-action-plan-strategy.md)
 
 ## Examples
 -

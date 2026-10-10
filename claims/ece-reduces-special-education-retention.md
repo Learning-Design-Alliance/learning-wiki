@@ -47,3 +47,4 @@ The summary reports, citing McCoy et al. (2017) in Educational Researcher, "stat
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
 - [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- [High-quality early care is associated with school readiness, math and language gains, and reduced grade repetition and special education placement](high-quality-early-care-school-readiness-benefits.md) — possibly the same claim (merge candidate)

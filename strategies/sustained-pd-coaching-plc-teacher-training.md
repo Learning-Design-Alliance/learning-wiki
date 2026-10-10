@@ -65,6 +65,8 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Deliver Getting Ready educator training and coaching through virtual formats](getting-ready-virtual-training-coaching-strategy.md)
 - [Sustained classroom-embedded professional development through demonstration teachers](demonstration-teachers-classroom-embedded-pd.md)
 - [Provide job-embedded coaching to school leaders to translate learning into sustainable practice](job-embedded-coaching-school-leaders.md)
+- [Design professional learning for leaders using a 5E learning cycle](5e-learning-cycle-leader-professional-learning.md)
+- [Deliver school-based, job-embedded professional learning in varied well-matched formats](job-embedded-school-based-professional-learning.md)
 
 ## Examples
 -

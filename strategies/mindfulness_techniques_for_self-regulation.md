@@ -56,8 +56,11 @@ Mindfulness training functions as a support for the self-regulation cycle: it st
 5. **Reflect.** Use brief [Individual Reflection](../elements/individual-reflection.md) or journaling on what students noticed, reinforcing the monitoring habit.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — brief emotional-state probes that pair naturally with mindfulness pauses and supply the monitoring data
 - Goal-setting and progress-monitoring strategies — mindfulness supplies the awareness that makes regulatory goal-setting meaningful
+- [Integrate mindfulness throughout the school day via mindful moments, pausing before reacting, and reflective norms](integrate-mindfulness-schoolwide-daily-routines.md)
+- [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — regulation is a skill; spaced, repeated practice is what produces durable effects

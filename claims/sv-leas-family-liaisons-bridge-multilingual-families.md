@@ -66,3 +66,4 @@ The report describes the family liaison role's functions: "organizing community 
 - [Case study districts' staffing for English Learners falls well below Ohio cost-study recommendations for instructors and bilingual paraprofessionals](el-staffing-gaps-below-ohio-recommendations.md) — related
 - [Most participating LEAs employ instructional coaches and program coordinators positioned to influence English Learner program design, but these roles are vulnerable to funding cuts](sv-leas-employ-coaches-and-coordinators-for-el-programs.md) — related
 - [Case study districts show potential underinvestment in family support and engagement, with most reporting no English Learner family/community liaisons](underinvestment-in-el-family-engagement-liaisons.md) — reports the opposite
+- [Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching](family-school-partnerships-need-staff-capacity.md) — related

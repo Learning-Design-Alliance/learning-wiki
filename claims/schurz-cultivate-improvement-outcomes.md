@@ -45,3 +45,4 @@ End-of-year reflections from the Schurz High School school spotlight case report
 ## Related Claims
 - [Brief Intervention Empathic Discipline Cuts Suspensions](brief-intervention-empathic-discipline-cuts-suspensions.md) — related
 - [Most schools engaged in inquiry cycles, but teams completed only about half of the cycles they initiated, averaging 3.2 cycles per year](inquiry-cycles-partial-completion-3-2-per-year.md) — related
+- [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](perry-street-suspension-reduction-culture-turnaround.md) — related

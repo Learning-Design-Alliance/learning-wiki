@@ -64,6 +64,7 @@ Chunking reduces the working-memory and attentional demands of a task by letting
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the goal-setting counterpart: each task piece is framed as a small, attainable goal
 - [Chunking Information](../principles/cognitive-load-management.md) — the same principle applied to content rather than tasks
 - [Break conversation into micro-units to study the structure of interaction](micro-units-conversational-analysis-strategy.md)
+- [Reduce workloads and chunk instruction into smaller pieces to support diminished capacity and executive functioning](reduce-workload-chunk-instruction-distance-learning.md)
 
 ## Examples
 - **Writing instruction:** a research essay broken into topic selection, source gathering, outline, draft, and revision, each with its own due date and rubric line — standard practice in process-writing curricula such as [Writer's Workshop](https://www.heinemann.com/writersworkshop/) models.

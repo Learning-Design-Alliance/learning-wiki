@@ -46,3 +46,4 @@ Cross-project qualitative finding summarized in Table 5, which pairs each barrie
 - [Participation supports were most effective when deliberately matched to the specific constraints participants faced](supports-matched-to-barriers.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
 - [Network learning spread beyond the network through a website, conference presentations, school and district sharing, and AIR-led professional learning communities](bmtn-external-spread-channels.md) — related
+- [District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement](calli-districts-valued-peer-learning-experts-structure.md) — related

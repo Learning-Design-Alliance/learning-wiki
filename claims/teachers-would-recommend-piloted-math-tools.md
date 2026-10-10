@@ -48,3 +48,4 @@ Teacher attitude survey results reported in the District Results section: "three
 - [Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners](student-pace-and-engagement-varies-by-skill-level.md) — related
 - [Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings](educator-buy-in-engagement-fidelity-edtech-pilots.md) — related
 - [Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools](assistments-sole-tool-early-trends.md) — related
+- [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related

@@ -53,6 +53,7 @@ Step 5 directs leaders to "Analyze pilot data to determine whether the tool suff
 - [Mobilize & Implement: provide professional learning throughout the pilot and use real-time data dashboards to keep usage aligned with dosage requirements](ongoing-professional-learning-dashboards-during-edtech-pilot.md)
 - [Monitoring Progress](monitoring_progress.md)
 - [Discover & Decide: establish evidence-based selection criteria and instructional alignment in an RFP process to select edtech for priority learner populations](evidence-based-selection-criteria-rfp-edtech.md)
+- [Eleven critical actions executed through a Plan-Do-Reflect-Revise cycle](critical-actions-plan-do-reflect-revise-ngss.md)
 
 ## Examples
 -
