@@ -71,6 +71,7 @@ import json
 import math
 import os
 import re
+import unicodedata
 import sqlite3
 import subprocess
 import sys
@@ -622,7 +623,9 @@ def write_named(cand: dict, dec: dict, actor: str) -> "str | None":
     tail = ("## Related Products and Programmes" if folder == "products" else "## Related Research Methods",
             "## Key Sources")
     if path is None:
-        slug = okf_lib.slugify(name)[:90].strip("-")
+        # Slugs are ASCII: fold accents (Español -> espanol) before slugifying.
+        ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+        slug = okf_lib.slugify(ascii_name)[:90].strip("-")
         path = WIKI_ROOT / folder / f"{slug}.md"
         if path.exists():
             return None
