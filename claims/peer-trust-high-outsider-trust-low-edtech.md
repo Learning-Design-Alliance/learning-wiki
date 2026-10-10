@@ -46,3 +46,4 @@ Interview finding from the report's pre-workshop research; an entrepreneur descr
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related
 - [District leaders report that public scrutiny produces fear and risk aversion that favors the status quo over innovation in ed-tech decisions](public-scrutiny-risk-aversion-edtech-procurement.md) — related
 - [Districts engage with edtech products primarily through three scenarios: RFPs, vendor pitches, and peer recommendations](three-edtech-vendor-engagement-scenarios.md) — a broader claim this one bears on
+- [Teachers prefer professional learning led by their colleagues over training from outside consultants](teachers-prefer-colleague-led-professional-learning.md) — related

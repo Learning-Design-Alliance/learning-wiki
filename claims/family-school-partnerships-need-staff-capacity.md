@@ -67,3 +67,4 @@ The guide argues that barriers to partnership include "the assumptions, beliefs,
 - [A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function](rpp-trust-reciprocity-mutual-respect-benefits.md) — related
 - [More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families](sv-leas-family-liaisons-bridge-multilingual-families.md) — related
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — related
+- [Teachers reported that integrated community school supports allowed them to prioritize student-centered learning opportunities](integrated-supports-let-teachers-focus-on-learning.md) — related

@@ -48,3 +48,4 @@ Theoretical proposition of the report: low self esteem individuals lack 'a well-
 - [The triadic alienation pattern combines low self esteem, low social interest, and high self centrality](triadic-alienation-pattern-self-other-orientation.md) — related
 - [Open groups are proposed to incur and sustain conflict more easily than closed groups](open-groups-incur-conflict-more-easily-than-closed.md) — related
 - [ICE environments are associated with mood disturbance, reduced motivation, social withdrawal, interpersonal conflict, and altered time perception](ice-environments-mood-and-team-risks.md) — related
+- [Schools fostering high self-esteem and social and scholastic success reduce the likelihood of emotional and behavioral disturbance](rutter-school-ethos-high-expectations-protective.md) — related

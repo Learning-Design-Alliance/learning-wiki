@@ -49,3 +49,5 @@ Impact evaluation of TPP reporting practice-specific outcomes alongside the over
 - [Significantly more TPP teachers asked students to cite evidence from texts in discussions and writing](tpp-teachers-asked-students-cite-text-evidence.md) — a narrower finding that bears on this claim
 - [A significantly greater proportion of TPP teachers demonstrated and sustained CCSS-aligned instructional practices compared with district-supported teachers](tpp-teachers-sustained-ccss-aligned-practices.md) — a broader claim this one bears on
 - [Two years of teacher participation in the Teacher Potential Project improved students' English language arts achievement by roughly 1.4 months of typical improvement](tpp-two-years-student-ela-achievement-gain.md) — related
+- [Adding writing prompts and essays to state English language arts assessments shifted classroom instruction toward writing](ela-writing-prompts-shift-instruction.md) — related
+- [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](nclb-tests-low-higher-order-content.md) — related

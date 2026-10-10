@@ -48,3 +48,5 @@ School-level analysis of 2004–06 Cal-SCHLS and testing data. After socioeconom
 - [Race is more strongly associated with preschool chronic absenteeism than neighborhood poverty; African American students are about twice as likely to be chronically absent](race-stronger-than-poverty-preschool-chronic-absence.md) — related
 - [African-American students' disproportionate retention was largely explained by lower prior test scores](retention-racial-disparity-explained-by-scores.md) — related
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related
+- [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — related
+- [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — related

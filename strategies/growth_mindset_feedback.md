@@ -62,6 +62,7 @@ Feedback that addresses the task and the learning process produces stronger lear
 - Mastery-oriented grading — structural counterpart that makes process feedback credible
 - Self-explanation prompts — a strategy that growth mindset feedback can direct learners toward
 - [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](mindset-cultivation-practices-list.md)
+- [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 
 ## Examples
 - **Mueller & Dweck (1998) studies** — Children praised for effort after success subsequently chose harder tasks and persisted longer after failure than children praised for intelligence [+S]

@@ -47,3 +47,4 @@ Qualitative finding from Design Studio conversations. The report also cites its 
 - [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](toc-retention-hostile-conditions.md) — possibly the same claim (merge candidate)
 - [Over 90 percent of Bristol teachers who participated in student-led mental health PD reported being more conscious of the experiences of students of color in school](bristol-pd-consciousness-over-90-percent.md) — related
 - [Racist hiring practices reduce African American candidates' job offers despite equal or better credentials](racist-hiring-practices-toc-candidates.md) — related
+- [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related

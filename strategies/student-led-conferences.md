@@ -85,6 +85,7 @@ SLCs operationalize [Assessment for Learning](../principles/assessment-for-learn
 - [Self-Assessment](../elements/self-assessment.md) — the evaluative skill SLCs depend on and develop
 - [Build student ownership through student-led conferences, town halls, and college and career readiness activities](student-ownership-practices-middle-school.md)
 - [Formative Feedback Routines](formative-feedback-routines.md) — the classroom practices that give students something genuine to reflect on
+- [Student-led conferences in which students present their cumulative work, reflect, and set goals with families and advisors](student-led-conferences-gateway.md)
 
 ## Examples
 - **EL Education (Expeditionary Learning) network schools** — passage presentations and student-led family conferences are a signature practice, with students defending portfolios before panels ([eleducation.org](https://eleducation.org))

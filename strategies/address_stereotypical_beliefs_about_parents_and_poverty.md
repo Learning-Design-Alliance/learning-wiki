@@ -66,6 +66,7 @@ Teacher expectations and beliefs shape interaction quality with families and stu
 - [Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff](stereotype-awareness-cultural-activities.md)
 - [Structured reflection exercise for educators to situate their family engagement practice within the three engagement approaches](family-engagement-reflection-exercise-educators.md)
 - [Use asset mapping to identify and celebrate existing strengths in the school and community](asset-mapping-celebrate-strengths.md)
+- [Student-designed community walks that flip teacher and learner roles to build cultural humility](student-led-community-walks-cultural-humility.md)
 
 ## Examples
 - **Moll's funds of knowledge studies (Tucson, AZ)** — Researchers documented household knowledge (farming, mechanics, finance) among working-class Mexican-American families and trained teachers to build instruction on it, demonstrating concrete asset-based alternatives to deficit views.

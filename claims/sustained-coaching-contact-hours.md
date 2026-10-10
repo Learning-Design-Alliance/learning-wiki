@@ -69,3 +69,4 @@ Descriptive survey data from DLP coached teachers on coaching dosage: "more than
 - [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — related
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — a broader claim this one bears on
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — a broader claim this one bears on
+- [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related

@@ -49,3 +49,4 @@ The CST handbook chapter on rural turnaround argues that people are at the heart
 - [LSC parent and community members make a substantial time commitment to their schools, beyond formal council duties](lsc-members-substantial-time-commitment.md) — related
 - [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — related
 - [Authentic family–school partnerships positively impact student achievement, but persist without staff training and coaching](family-school-partnerships-need-staff-capacity.md) — related
+- [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](family-engagement-appreciation-governance-dissatisfaction.md) — related

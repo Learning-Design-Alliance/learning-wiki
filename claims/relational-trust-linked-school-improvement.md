@@ -67,3 +67,5 @@ Case-study evidence on principals' role in enabling LSCs reports that "they make
 - [Cooperation compared with individualistic efforts typically results in higher achievement, greater retention, and greater social competence and self-esteem](cooperation-versus-individualistic-effort-outcomes.md) — related
 - [PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community](pktp-family-activities-built-informal-relationships.md) — related
 - [Compass Care participants reported trusting relationships with staff that improved students' comfort, safety, and emotional expression at school](compass-care-trusting-relationships-wellbeing.md) — a narrower finding that bears on this claim
+- [Large majorities of Gateway students report feeling cared for, part of the school, safe, and connected](gateway-climate-survey-belonging.md) — a narrower finding that bears on this claim
+- [Students at Oakland International High School report a strong sense of community, close relationships, and happiness at school](oakland-international-students-report-sense-of-community.md) — related

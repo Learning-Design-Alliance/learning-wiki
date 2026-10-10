@@ -51,3 +51,4 @@ This is the report's stated rationale for performance-based compensation, presen
 - [Recruitment and retention of teaching staff is an activity integral to school improvement efforts under SIG, and the article presents findings on it in rural schools](staffing-recruitment-retention-integral-sig-improvement.md) — related
 - [Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers](perry-street-teacher-retention-talent-reforms.md) — related
 - [In 2017, the cost-of-living-adjusted starting teacher salary was higher in rural Utah districts, but the average scheduled teacher salary was lower in rural than non-rural districts](utah-rural-starting-salary-higher-average-lower.md) — related
+- [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — related

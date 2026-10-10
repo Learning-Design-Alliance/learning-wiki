@@ -50,3 +50,5 @@ Quasi-experimental matched comparison using CREDO's Virtual Control Record metho
 - [New Mexico charter students' reading advantage emerges in the third year of enrollment, while math growth does not differ by years enrolled](nm-charter-third-year-reading-gain.md) — related
 - [New Mexico charter schools' relative performance improved across CREDO's 2009, 2013, and 2019 studies, though the comparison is only suggestive](nm-charter-sector-improvement-trajectory.md) — related
 - [No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares](school-characteristics-benchmark-shares.md) — related
+- [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — related
+- [Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics](virtual-charter-negative-achievement.md) — related

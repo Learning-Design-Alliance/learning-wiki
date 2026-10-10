@@ -77,3 +77,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [A district math administrator reported that schools supported by coaches with mathematics expertise showed greater gains and stronger collaborative structures than schools without such support](math-expertise-coaches-associated-greater-gains.md) — related
 - [The authors assert that Systems Review participation builds SEA teams' capacity for shared purpose, decision-making, and adaptive change management](systems-review-builds-capacity-outcomes.md) — related
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related
+- [Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities](collaboration-buy-in-student-leadership.md) — related

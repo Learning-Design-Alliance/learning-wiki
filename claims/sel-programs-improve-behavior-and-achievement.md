@@ -174,3 +174,11 @@ Open questions include the durability of achievement effects after programs end,
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related
 - [Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress](schoolwide-sel-prosocial-distress-24-percent.md) — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
+- [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
+- [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
+- [SEL program effects are sustained over long-term follow-up periods](sel-long-term-sustained-effects.md) — related
+- [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related
+- [SEL programs are associated with an 11 percentile-point improvement in academic performance](sel-programs-11-percentile-academic-gain.md) — reports the opposite
+- [SEL programs improve students' engagement and academic performance, with an 11-percentage-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — reports the opposite
+- [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
+- [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — a narrower finding that bears on this claim

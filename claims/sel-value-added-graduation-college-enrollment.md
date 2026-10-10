@@ -52,3 +52,4 @@ The study's longer-term outcome analysis traces effects of attending schools exc
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Charter high school students had comparable high school graduation but much higher four-year college enrollment, selective-college enrollment, and four-semester college completion than comparable non-charter students](cps-charter-better-college-outcomes.md) — related
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — related
+- [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related

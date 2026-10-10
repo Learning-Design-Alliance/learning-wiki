@@ -47,3 +47,4 @@ The brief's own description states it examines "the effect of seasonality on est
 - [Ignoring summer loss can impact which schools are identified as low performers under federal accountability](ignoring-summer-loss-impacts-low-performer-identification.md) — a narrower finding that bears on this claim
 - [Interim achievement data exhibit distinctly seasonal patterns that few existing statistical models can approximate](interim-achievement-data-seasonal-patterns-few-models.md) — related
 - [Assuming linear within-year achievement growth is often not justified, particularly in reading](linear-within-year-growth-assumption-unjustified-reading.md) — related
+- [Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement](high-stakes-testing-narrows-curriculum.md) — related

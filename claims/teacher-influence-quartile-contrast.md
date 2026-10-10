@@ -45,3 +45,4 @@ Descriptive results from the thirteen-item Teacher Influence scale covering clas
 ## Related Claims
 - [Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures](teacher-trust-influence-quartile-differences.md) — related
 - [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](teacher-principal-trust-top-vs-bottom-quartile.md) — related
+- [While most parents agree they can influence school decisions, fewer than one-fifth report their school offers opportunities to provide input on classroom or schoolwide decisions](few-parents-offered-decision-input-opportunities.md) — related

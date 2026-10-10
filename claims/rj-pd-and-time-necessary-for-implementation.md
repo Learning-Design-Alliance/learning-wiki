@@ -64,3 +64,4 @@ The same qualitative investigation of 10 participants (principals, counselors, s
 ## Related Claims
 - [Implementing restorative justice in schools requires staff time, buy-in, training, and resources beyond traditional sanctions, with full climate shifts estimated to take three to five years](rj-implementation-demands-and-timeline.md) — related
 - [Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools](rj-implementation-challenges-time-funding-sustainability.md) — related
+- [Case-study community schools reported classroom practice shifts—including space arrangement, inclusive curricula, and restorative practices—that they attributed to CSI professional learning](lausd-csi-case-study-practice-shifts.md) — related

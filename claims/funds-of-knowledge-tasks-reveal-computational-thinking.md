@@ -55,3 +55,4 @@ This is a design-based study with a small sample (13 children total across two t
 - [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — related
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — related
 - [Family engagement programs can integrate mathematical thinking and activities across a range of settings](family-engagement-programs-can-integrate-early-math.md) — a broader claim this one bears on
+- [Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale](computer-based-simulations-assess-inquiry-skills.md) — related

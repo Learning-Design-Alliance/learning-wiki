@@ -38,7 +38,8 @@ The report recommends that schools organize well-structured systems so support r
 - Protecting academic and behavioral outcomes and supporting health and wellness after exposure to community violence
 
 ## Related Strategies
-- 
+
+- [Organize integrated support systems as universal, supplemental, and intensive tiers](tiered-integrated-support-systems.md)
 
 ## Examples
 -

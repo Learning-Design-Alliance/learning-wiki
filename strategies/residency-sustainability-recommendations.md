@@ -42,7 +42,10 @@ In response to evaluation findings, WestEd's team generated recommendations for 
 - [Teacher Residency Model Lea Ihe Partnership](../products/teacher-residency-model.md)
 
 ## Related Strategies
-- 
+
+- [Sustain teacher residencies through blended federal and state funding, including TQP grants, ESSER funds, and dedicated state investments](funding-teacher-residencies-federal-state.md)
+- [Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance](policy-strategies-sustain-residency-pathways.md)
+- [Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning](preparation-program-design-three-strategies.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ Descriptive/latent-growth results for the district cohort shown in Figure 1, bas
 ## Related Claims
 - [Self-efficacy declines steadily for all students between 5th and 8th grade even while math and reading achievement grow](self-efficacy-declines-middle-school-achievement-grows.md) — related
 - [Self-management and self-efficacy show highly collinear growth during middle school, with slopes correlated .95 and intercepts .74](sel-growth-construct-collinearity.md) — related
+- [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](teacher-emotional-support-buffers-low-efficacy-engagement.md) — related

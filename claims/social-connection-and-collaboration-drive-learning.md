@@ -68,3 +68,6 @@ The synthesis reports that collaboration toward a common goal, rather than split
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
 - [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](trauma-informed-practices-mitigate-trauma-promote-resilience.md) — related
+- [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
+- [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — related
+- [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — related

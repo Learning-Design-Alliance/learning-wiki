@@ -50,3 +50,4 @@ Second-hand assertion: the review quotes Milem (2001, p. 5) stating that "The cl
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
 - [The relational taxonomy rests on value orientations that task-oriented group activity requires rotating leadership exercised through sanctions, persuasion, or expertise](rotating-leadership-three-agencies-claim.md) — related
 - [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md)
+- [Case study participants report three primary induction impacts: improved leadership knowledge and skills, resilience from personal support, and professional advancement](induction-impacts-knowledge-resilience-advancement.md) — related

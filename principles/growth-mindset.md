@@ -120,6 +120,7 @@ Mindset interventions are best understood as small motivational levers, not stan
 - **Public modeling of struggle**: Instructors narrate how they handle confusion, dead ends, and correction while learning a new tool or skill.
 - **Reflection prompts after mistakes**: Short prompts such as "What did this attempt teach you?" or "What strategy will you change next time?"
 - [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](../strategies/mindset-cultivation-practices-list.md)
+- [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](../strategies/growth-mindset-teaching-practices-list.md)
 
 ### Illustrative
 

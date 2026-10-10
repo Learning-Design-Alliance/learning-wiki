@@ -48,3 +48,4 @@ The report's introduction lists, without supporting data in the text shown, the 
 - [More experienced teachers earned additional certificates in shortage areas (47 percent) than in nonshortage areas (25 percent), with special education the most common shortage area (27 percent)](shortage-areas-dominate-additional-certification-special-education-most-common.md) — related
 - [TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools](tqp-grant-program-created-trps-2008.md) — related
 - [There is a severe shortage of certified computer science teachers, with only 75 college graduates certified in 2016](cs-teacher-shortage-75-certified-2016.md) — related
+- [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related

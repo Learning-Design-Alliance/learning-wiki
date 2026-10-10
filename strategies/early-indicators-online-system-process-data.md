@@ -47,6 +47,7 @@ The authors recommend creating indicators to alert educators to students needing
 - [Invest early: identify learning problems and intervene before third or sixth grade rather than waiting for promotional gates](early-identification-intervention-low-achievers.md)
 - [Use kindergarten-entry test data for early identification so educators can intervene before third grade](early-identification-kindergarten-intervention-before-third-grade.md)
 - [Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions](dropout-data-systems-diagnosis-strategy.md)
+- [Use KEAs to strengthen early learning systems: family engagement, p–3 alignment, and aggregated data for equitable investment](kea-system-strengthening-family-engagement-alignment.md)
 
 ## Examples
 -

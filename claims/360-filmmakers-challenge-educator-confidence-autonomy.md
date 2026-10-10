@@ -52,3 +52,4 @@ Educator survey documentation, though educator outcomes were not a primary focus
 - [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related
 - [Autonomy support increases intrinsic motivation, engagement, and persistence in learning.](autonomy-supports-intrinsic-motivation.md) — related
 - [Educators and students reported that the 360 Filmmakers Challenge built students' technical and creative production skills with emerging media technologies](360-filmmakers-challenge-production-skills-gains.md) — related
+- [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related

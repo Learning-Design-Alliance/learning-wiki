@@ -48,3 +48,4 @@ Phase 2 qualitative interviews with experts in evaluation, dissemination, and ev
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Supporting user interaction and control in the indicator implementation process positively affects transparency, trust, satisfaction, and acceptance in LA](ssla-user-control-improves-transparency-trust-acceptance.md) — related
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
+- [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related

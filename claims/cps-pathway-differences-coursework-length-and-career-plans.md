@@ -64,3 +64,4 @@ In the 2015-16 cohort, career plans differed by pathway: "about two-thirds (66 p
 ## Related Claims
 - [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
+- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related

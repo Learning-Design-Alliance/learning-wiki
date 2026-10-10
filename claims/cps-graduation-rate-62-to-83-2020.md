@@ -48,3 +48,4 @@ Descriptive trend analysis of CPS ninth-grade cohorts (N=25,696 to 26,895 per co
 - [CPS's four-year high school graduation rate declined for the first time in recent history in 2021, from 83.3% to 81.8%](cps-graduation-rate-first-decline-2021.md) — related
 - [CPS four-year high school graduation rose from 58 percent (2007) to 82 percent (2019), with 18-point growth excluding options school graduates](cps-graduation-rose-58-to-82-percent-including-options.md) — related
 - [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
+- [At UCLA Community School, the share of graduates meeting UC/CSU A-G course requirements rose to 81% in 2021 and the 4-year graduation rate grew from 69% in 2012 to 90% in 2022](ucla-cs-rising-a-g-and-graduation-outcomes.md) — related

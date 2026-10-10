@@ -72,3 +72,4 @@ Both entries are one qualitative case analysis (Janis et al. 2025) of individual
 - [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related
 - [Actionable and descriptive feedback moves student learning forward, and effective feedback differs from less-effective feedback on identifiable qualities](actionable-descriptive-feedback-moves-learning-forward.md) — related
 - [Teacher feedback as part of formative assessment has been shown by multiple studies to move student learning forward](teacher-feedback-moves-learning-forward.md) — related
+- [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — a broader claim this one bears on

@@ -46,3 +46,4 @@ In the randomized comparison of student state assessment outcomes across the 100
 - [An intensive principal professional development program did not change principals' practices in the ways intended by the program](principal-pd-instructional-leadership-no-practice-change.md) — related
 - [Teachers whose principals received the professional development reported receiving less frequent instructional support and feedback than teachers whose principals did not](principal-pd-teachers-report-less-instructional-support.md) — related
 - [In a contrasting case study of Chicago schools with teacher-reported strong principal instructional leadership, half showed continuously growing test scores while half did not](strong-leadership-schools-split-test-score-growth.md) — related
+- [Reading Apprenticeship active-learning PD produced a year's reading growth and better state assessment results for students](reading-apprenticeship-student-gains.md) — related

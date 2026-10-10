@@ -47,3 +47,5 @@ Descriptive comparison of charter and non-charter administrators' 2017 survey re
 ## Related Claims
 - [Human-resource roadblocks rose sharply from 2009 to 2017: difficulty removing poor teachers increased from 39 to 48 percent, and concern over recruiting and hiring the right teachers nearly quadrupled from 12 to 44 percent](cps-hr-roadblocks-rose-2009-2017.md) — related
 - [High school, new, and low-achieving-school principals perceive significantly more difficulty recruiting and hiring the right teachers](teacher-hiring-difficulty-subgroup-differences.md) — related
+- [Teachers with high job and workplace satisfaction have less than half the predicted turnover of teachers with low satisfaction (8.0% vs. 22.0%)](job-satisfaction-associated-with-lower-turnover.md) — related
+- [Turnover is higher in charter schools (17.8%) than traditional public schools (14.9%) and higher in city schools (17.7%) than other locales](school-type-locale-turnover-differences.md) — related

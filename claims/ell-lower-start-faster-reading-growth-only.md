@@ -67,3 +67,4 @@ Self-efficacy growth results from the same SEMs (Question 2, Figure 3). The arti
 - [Non-ELLs outscore ELLs in math, reading, and self-efficacy at every timepoint, with a 2015 self-efficacy gap exceeding .35 standard deviations](ell-non-ell-gaps-math-reading-self-efficacy.md) — related
 - [A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners](ell-working-paper-academic-and-social-emotional-growth.md) — related
 - [Within-person deviations from math and self-efficacy growth trajectories at a given time point are not related across constructs](within-person-deviations-unrelated-across-constructs.md) — related
+- [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](teacher-emotional-support-buffers-low-efficacy-engagement.md) — related

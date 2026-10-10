@@ -57,3 +57,4 @@ Respondent-perception findings from interviews and site visits across grantee si
 - [District leadership testified that the partnership's research deliverables were useful and that the collaboration yielded long-term benefits](district-leadership-testimony-utility-longterm-benefits.md) — related
 - [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — related
 - [Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers](small-pdsa-cycles-narrow-first-problem.md) — related
+- [Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation](program-district-collaboration-coherent-principal-preparation.md) — related

@@ -37,7 +37,8 @@ The report highlights research on the importance of building students' intrinsic
 - Student ownership of learning, intrinsic motivation, and confidence meeting challenges
 
 ## Related Strategies
-- 
+
+- [Passion-based seminar program culminating in senior internships](passion-based-seminar-program-senior-internships.md)
 
 ## Examples
 -

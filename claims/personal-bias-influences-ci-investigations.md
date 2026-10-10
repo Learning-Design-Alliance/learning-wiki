@@ -48,3 +48,4 @@ In the interview findings on personal bias, a leader explained that "the narrati
 - [SIPs generally reflect surface-level discussions of root causes, leading to plans that address symptoms rather than causes](sips-address-symptoms-not-causes.md) — related
 - [Most School Improvement Plans do not guide staff efforts to tackle the root causes that prevent significant performance improvement](sips-do-not-guide-root-cause-efforts.md) — related
 - [Education research urges cultures of inquiry and root-cause determination but provides almost no detailed methodology for finding root causes](no-detailed-root-cause-methodology-guidance.md) — related
+- [Equity-oriented leadership preparation through applied and reflective learning can deepen aspiring principals' understanding of bias and equitable practices](equity-oriented-principal-preparation.md) — related

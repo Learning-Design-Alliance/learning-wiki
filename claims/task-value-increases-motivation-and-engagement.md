@@ -113,3 +113,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [The review reports that connecting possible selves to concrete strategies is an essential precursor to positive behavior, beyond merely holding possible selves](possible-selves-require-concrete-strategies-for-behavior.md) — related
 - [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — a narrower finding that bears on this claim
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related
+- [Performance assessments are associated with positive instructional changes, student skill development, engagement, and complex conceptual understanding](performance-assessments-positive-outcomes.md) — related

@@ -13,7 +13,7 @@ generated:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (35 for, 16 mixed) · 40 studies (15 associational, 8 review, 8 design, 4 causal, 4 theoretical, 1 quant-synthesis), `q1`–`q3` · 3 of 40 report an effect size · 50 claims rest on one study
+> **Evidence** · 53 claims (36 for, 17 mixed) · 42 studies (15 associational, 9 review, 8 design, 5 theoretical, 4 causal, 1 quant-synthesis), `q1`–`q3` · 3 of 42 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,8 @@ Claims this page cited before it was rewritten, and others found while rewriting
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](../claims/early-ed-essentials-rasch-refined-measures.md) [+W] — attached 2026-10-09 from Ehrlich et al. (2018), which proposed "Use explicit Rasch-based criteria (reliability, item fit, difficulty spread, DIF) when developing survey measures".
 - [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](../claims/hsgpa-predicts-college-graduation-more-than-tests.md) [+W] — attached 2026-10-09 from Melissa Roderick et al. (2009), which proposed "Districts and states should build data systems that link high school performance to graduates' college outcomes and set validated readiness standards"; tests this page's relationship.
 - [MDTP scores on five of seven topics significantly predict grade 8 algebra I proficiency after controlling for grade 6 CST scale score](../claims/mdtp-topic-scores-predict-algebra-proficiency.md) [+W] — attached 2026-10-09 from Chun-Wei Huang et al. (2016), which proposed "Use continuous scale scores and immediately available diagnostic assessments rather than proficiency status alone to guide grade 8 algebra I placement"; tests this page's relationship.
+- [The article argues for shifting from the definition of validity to the concept of effectiveness for classroom assessment score use](../claims/shift-from-validity-to-effectiveness.md) [~W] — attached 2026-10-10 from Garron Gianopulos (2021), which proposed "Design and evaluate classroom assessments around the problem, or 'job-to-be-done,' the intended test user needs solved".
+- [Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish](../claims/bilinguals-better-math-tested-in-spanish.md) [+W] — attached 2026-10-10 from Rolla et al. (2024), which proposed "Use bilingual profiles—assessments covering proficiency in both English and the home language—to identify supports and close opportunity gaps for Spanish–English bilingual kindergarteners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

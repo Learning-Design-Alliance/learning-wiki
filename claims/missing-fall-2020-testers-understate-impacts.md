@@ -50,3 +50,4 @@ Descriptive finding from the authors' prior analysis of the same NWEA data, repo
 - [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](achievement-weighting-clouds-learning-high-poverty.md) — related
 - [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — related
 - [Researchers deployed stopgaps to address missing data caused by COVID disruptions](researcher-stopgaps-missing-covid-data.md) — a broader claim this one bears on
+- [Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools](attrition-55-percent-higher-high-poverty-schools.md) — related

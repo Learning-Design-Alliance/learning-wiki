@@ -47,3 +47,4 @@ Narrative review section on the limbic region, citing Greenleaf (2003). The revi
 - [Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing](urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits.md) — related
 - [The association between feeling unsafe and test scores holds across multiple robustness checks](feeling-unsafe-test-score-robustness-checks.md) — related
 - [Regulate-relate-reason sequence: students reason once regulated and feeling supported](regulate-relate-reason-sequence.md) — related
+- [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — a narrower finding that bears on this claim

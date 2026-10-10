@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 42 claims (32 for, 7 mixed, 3 against) · 48 studies (15 associational, 14 review, 9 causal, 3 quant-synthesis, 3 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 7 of 48 report an effect size · 37 claims rest on one study
+> **Evidence** · 47 claims (36 for, 8 mixed, 3 against) · 51 studies (15 review, 15 associational, 9 causal, 4 qualitative, 3 quant-synthesis, 3 theoretical, 2 design), `q1`–`q4` · 7 of 51 report an effect size · 42 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -76,6 +76,11 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.](../claims/hero-elementary-in-school-student-engagement-increased.md) [+M] — instruction changes it
 - [The Elevate Math summer program had no significant effects on students' math interest or math self-efficacy](../claims/elevate-math-no-effects-math-interest-self-efficacy.md) [-M] — instruction changes it
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](../claims/crse-pedagogies-engagement-agency-claim.md) [+M] — instruction changes it
+- [Positive teacher–student relationships are associated with higher student engagement and math achievement, with stronger associations for minority, lower-income, and secondary students](../claims/teacher-relationships-associated-math-engagement-achievement.md) [+M] — instruction changes it
+- [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](../claims/relationships-pathways-self-efficacy-motivation-identity.md) [+M] — learners who differ on it differ in outcomes
+- [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](../claims/teacher-emotional-support-buffers-low-efficacy-engagement.md) [~M] — learners who differ on it differ in outcomes
+- [Teachers commonly attribute increased student engagement to ILC-influenced instruction](../claims/ilc-attributed-student-engagement-gains.md) [+M] — instruction changes it
+- [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](../claims/tec-summer-teacher-reported-motivation-gains.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

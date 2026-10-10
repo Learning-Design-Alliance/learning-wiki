@@ -69,3 +69,4 @@ The brief's qualitative analysis reports that hiring practitioners from communit
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Community organizations and public agencies in Silicon Valley rarely hold formal partnerships with schools, but nearly half report engaging in collaborative community vision setting](sv-cbos-informal-collaboration-vision-setting.md) — related
 - [Most educationally related mental health services were provided by LEAs even though funds for them are allocated to SELPAs](ermhs-services-provided-by-leas.md) — related
+- [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related

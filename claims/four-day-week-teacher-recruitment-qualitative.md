@@ -47,3 +47,4 @@ Qualitative data collected in districts across Idaho, New Mexico, and Oklahoma a
 - [Four-day school week cost savings are relatively small but may help maintain instructional expenses during revenue shortages](four-day-week-small-cost-savings.md) — related
 - [Families and students highly value extra time from the four-day week, and stakeholders report high satisfaction](four-day-week-stakeholder-satisfaction.md) — related
 - [Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them](teacher-shortage-retention-not-recruitment-poor-districts.md) — related
+- [UCLA-CS reports high teacher retention and above-district student and parent satisfaction alongside its academic outcomes](ucla-cs-teacher-retention-and-satisfaction.md) — related

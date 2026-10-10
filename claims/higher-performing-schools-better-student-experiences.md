@@ -47,3 +47,4 @@ Summary of Chicago Consortium comparisons of students with similar incoming achi
 - [Schools with high suspension rates are less safe than schools with lower suspension rates serving similar students](high-suspension-rates-less-safe.md) — related
 - [Schools with higher suspension rates have worse climates for learning, even compared to schools serving similar student populations](high-suspension-rates-worse-school-climate.md) — related
 - [Charter high school students had better attendance and test scores than comparable non-charter students, controlling for incoming characteristics](cps-charter-better-attendance-test-scores.md) — related
+- [Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers](suspension-ineffective-harms-peers.md) — related

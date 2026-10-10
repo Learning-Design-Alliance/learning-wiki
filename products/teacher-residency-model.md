@@ -17,25 +17,30 @@ sources:
 # Teacher residency model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A teacher-preparation programme model run by partnerships between local education agencies and institutions of higher education, combining credential coursework, a yearlong mentored clinical placement, and financial support for residents.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Pathways Alliance national definition of teacher residencies**: The Pathways Alliance, a coalition of K–12 and higher education organizations, defines teacher residencies as "preparation pathways that are anchored in partnership" with curricula collaboratively designed by local education agencies and teacher preparation programs. Two goals anchor the definition: ensuring aspiring teachers have affordable, high-quality supports while learning to teach, and supporting the instructional and staffing needs of local schools and districts. In yearlong pre-service clinical practice, residents are not teachers of record; they work alongside accomplished mentor teachers experiencing the breadth of teachers' roles across a year. The report uses this definition to guide its review of state policies. (Saunders et al. (2024))
 
 ### Claims
 - [A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity](../claims/residents-report-financial-hardship-during-residency-year.md) [~M]
 - [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](../claims/partnership-and-capacity-challenges-residencies.md) [~M]
+- [California residency program completers are more likely to identify as candidates of color than completers of other preparation pathways](../claims/residency-completers-more-likely-candidates-of-color.md) [+M]
+- [Residency completers report more intensive clinical experiences with higher support and are more likely to pass teaching performance assessments on their first attempt](../claims/residency-completers-intensive-clinical-first-attempt-pass.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Hirschboeck, K., Eiler White, M., Brannegan, A., & Reade, F. (2022). Teacher residency programs in California: Financial sustainability challenges and opportunities. WestEd. https://www.WestEd.org
-
 <!-- merged 2026-10-10 from designs/teacher-residency-model-lea-ihe-partnership ("Teacher residency model: LEA–IHE partnership integrating coursework with a yearlong clinical placement under an expert mentor teacher"), misfiled as a design and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Guha, R., Hyler, M.E., and Darling-Hammond, L. (2016). The Teacher Residency: An Innovative Model for Preparing Teachers. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/teacher-residency
+- Saunders, R., Fitz, J., DiNapoli, M. A., Jr., & Kini, T. (2024). Teacher residencies: State and federal policy to support comprehensive teacher preparation. Learning Policy Institute & EdPrepLab. https://doi.org/10.54300/358.825
+- Yun, C., & Fitz, J. (2025). Successful teacher residencies: What matters and what works. Learning Policy Institute. https://doi.org/10.54300/480.783
 
 # Teacher residency model: LEA–IHE partnership integrating coursework with a yearlong clinical placement under an expert mentor teacher
 

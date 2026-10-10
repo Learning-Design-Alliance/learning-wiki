@@ -81,6 +81,7 @@ Portfolio development converts assessment artifacts into objects of metacognitiv
 - [Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios](ai-competency-assessment-strategies.md)
 - [Collect three kinds of artifacts: learning stories, wins, and lessons learned](collect-learning-story-win-and-lesson-artifacts.md)
 - [Identify 2-3 intentional pause points for collecting and reflecting on artifacts](identify-two-three-portfolio-pause-points.md)
+- [Student-led conferences in which students present their cumulative work, reflect, and set goals with families and advisors](student-led-conferences-gateway.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — the written or spoken rationale that turns selection into learning

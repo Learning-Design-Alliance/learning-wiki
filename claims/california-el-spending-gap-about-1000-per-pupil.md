@@ -45,3 +45,4 @@ Descriptive analysis of state education spending data reported in the brief's Ke
 ## Related Claims
 - [Estimated economic costs for English Learner program personnel range from $1,670 to $5,000 per English Learner student annually across interviewed LEAs](sv-el-program-personnel-economic-costs-1670-to-5000.md) — related
 - [California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals](california-funding-gap-26-5-billion.md) — related
+- [Across 11 states with transparent student group allocation, estimated combined additional funding for dual EL/low-income students ranged from $904 per pupil in Arkansas to $16,161 in New Jersey](dual-funding-range-904-to-16161.md) — related

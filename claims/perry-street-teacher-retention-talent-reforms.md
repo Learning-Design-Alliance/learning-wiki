@@ -49,3 +49,5 @@ Case-study evidence from the talent section: pre-turnaround over 50 percent of s
 - [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](perry-street-suspension-reduction-culture-turnaround.md) — related
 - [Recruitment and retention of teaching staff is an activity integral to school improvement efforts under SIG, and the article presents findings on it in rural schools](staffing-recruitment-retention-integral-sig-improvement.md) — related
 - [Traditional salary schedules may not reward effective teaching or give the most effective teachers incentives to work in high-need schools, motivating performance-based compensation](traditional-salary-schedules-may-not-reward-effective-teaching.md) — related
+- [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — related
+- [UCLA-CS reports high teacher retention and above-district student and parent satisfaction alongside its academic outcomes](ucla-cs-teacher-retention-and-satisfaction.md) — related

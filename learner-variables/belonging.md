@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (29 for, 3 mixed) · 33 studies (8 causal, 7 review, 7 qualitative, 4 design, 3 associational, 3 theoretical, 1 quant-synthesis), `q1`–`q4` · 0 of 33 report an effect size · 29 claims rest on one study
+> **Evidence** · 37 claims (33 for, 4 mixed) · 37 studies (10 review, 8 causal, 8 qualitative, 4 design, 3 associational, 3 theoretical, 1 quant-synthesis), `q1`–`q4` · 0 of 37 report an effect size · 34 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -65,6 +65,11 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Supporting well-being and connection is a prerequisite to academic excellence](../claims/well-being-prerequisite-academic-excellence.md) [+W] — learners who differ on it differ in outcomes
 - [Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures](../claims/lgbtq-subgroups-poorer-all-14-measures.md) [+M] — learners who differ on it differ in outcomes
 - [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](../claims/aptt-spring-multilingual-parents-felt-more-connected.md) [+W] — instruction changes it
+- [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](../claims/family-engagement-appreciation-governance-dissatisfaction.md) [~M] — instruction changes it
+- [Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers](../claims/belonging-reduces-cognitive-barriers.md) [+M] — learners who differ on it differ in outcomes
+- [Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting](../claims/positive-relationships-protect-against-violence.md) [+W] — learners who differ on it differ in outcomes
+- [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](../claims/relationships-pathways-self-efficacy-motivation-identity.md) [+M] — learners who differ on it differ in outcomes
+- [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](../claims/mathematics-belonging-predicts-algebra-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Affect regulation — belonging shapes how a setback is felt before any regulation strategy is applied.

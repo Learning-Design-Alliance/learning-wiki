@@ -48,7 +48,8 @@ The paper proposes a teacher development system in which teachers progress based
 - 
 
 ## Examples
--
+
+- [Offer candidates multiple ways of demonstrating competence, crediting prior teaching experience and using performance-based alternative assessments](../strategies/multiple-demonstration-competence-ec-credential.md)
 
 ## Key Sources
 - Karen Cator, Carri Schneider, Tom Vander Ark. (2014). Preparing Teachers for Deeper Learning: Competency-Based Teacher Preparation and Development. Digital Promise / Getting Smart. https://digitalpromise.dspacedirect.org/items/a1928fce-2d47-429b-8e81-fbeb9ce079c3

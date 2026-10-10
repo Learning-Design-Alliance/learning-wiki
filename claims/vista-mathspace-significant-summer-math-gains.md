@@ -45,3 +45,4 @@ Mathspace pilot study brief for Vista Unified, a pre-post benchmark analysis of 
 ## Related Claims
 - [A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores](tenmarks-summer-no-effect-map.md) — related
 - [In the Onslow Mathspace pilot, student benchmark scores decreased over the pilot period, a change that was not statistically significant](onslow-mathspace-scores-decreased-not-significant.md) — related
+- [Students in the TEC Summer Learning Program showed a 20% pre-to-post gain in numeracy skills](tec-summer-20-percent-numeracy-gain.md) — related

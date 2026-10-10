@@ -54,3 +54,6 @@ The brief asserts, citing effective-PD research, that micro-credentials carry th
 - [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — a narrower finding that bears on this claim
 - [Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development](pr-pilot-microcredential-earning-and-value.md) — a narrower finding that bears on this claim
 - [Successful educator-context micro-credential use combines rigorous competency evidence, educator autonomy, incentives, and formal recognition](educator-micro-credential-success-practices.md) — related
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — a broader claim this one bears on
+- [Active learning was incorporated in 34 of 35 reviewed effective PD studies](pd-active-learning-prevalence.md) — related
+- [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](pd-content-focus-prevalence.md) — related

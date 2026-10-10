@@ -41,6 +41,7 @@ For the scaling and sustaining phase, the article recommends developing standard
 
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
 - [Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards](independent-audits-role-based-dashboards-ai-accountability.md)
+- [House the certifying entity within structures and policies that promote alignment, buy-in, and sustained funding](certifying-entity-housing-and-sustainability-structures.md)
 
 ## Examples
 -

@@ -41,6 +41,7 @@ Walqui cautions that schools and districts must give teachers time to explore an
 - [Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation](systemic-coaching-program-design-six-pillars.md)
 - [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
+- [Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning](preparation-program-design-three-strategies.md)
 
 ## Examples
 -

@@ -86,3 +86,4 @@ Following an earlier successful large-scale replication in the same Midwestern s
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
 - [A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students](usf-chemistry-mindset-utility-value-mixed-subgroup-effects.md) — related
 - [Instructional practices aligned to the Belonging MDP were associated with significant declines in students' perceptions that science required too much effort or threatened self-esteem](belonging-mdp-reduces-effort-and-threat-perceptions.md) — related
+- [Values affirmation interventions reduced stereotype threat effects, with academic benefits for Black students lasting 7–9 years](values-affirmation-long-term-benefits-black-students.md) — related

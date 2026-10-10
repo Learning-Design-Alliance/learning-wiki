@@ -48,3 +48,5 @@ Teacher surveys administered across AMSTI treatment and comparison groups using 
 - [AMSTI teachers reported more student engagement, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-engagement-active-learning.md) — possibly the same claim (merge candidate)
 - [Participating schools report more positive teacher and staff perceptions of teaching and learning conditions](safersanschools-improves-teacher-perceptions-conditions.md) — related
 - [Teachers reported increased student engagement when using Forms instead of paper-based assessments and surveys](forms-engagement-versus-paper.md) — related
+- [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](amsti-inquiry-science-higher-reading-achievement.md) — related
+- [AMSTI science teachers reported statistically significantly higher levels of student engagement than control group science teachers](amsti-teachers-higher-student-engagement.md) — related

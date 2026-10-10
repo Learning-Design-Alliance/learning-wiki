@@ -45,3 +45,4 @@ Descriptive pretest analysis across all four classes: "The pretest results for a
 ## Related Claims
 - [The participatory simulation group achieved significantly larger application gains than the problem-based group](simulation-larger-application-gains.md) — related
 - [Cognitive apprenticeship instruction produced no significant differences from traditional instruction on post-treatment problem-solving, final, and standardized mathematics exams in community college technical mathematics](cognitive-apprenticeship-no-significant-exam-differences-technical-math.md) — related
+- [Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale](computer-based-simulations-assess-inquiry-skills.md) — related

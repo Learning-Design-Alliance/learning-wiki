@@ -44,3 +44,4 @@ Factor analysis of roughly 40 variables identified as strongly predictive by ran
 
 ## Related Claims
 - [Across the college-going population, course grades are consistently the strongest indicators of students' general academic preparation](grades-strongest-indicator-academic-preparation.md) — related
+- [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — related

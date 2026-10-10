@@ -47,3 +47,6 @@ The report's research summary table attributes this comparison to Durlak et al. 
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
+- [SEL program effects are sustained over long-term follow-up periods](sel-long-term-sustained-effects.md) — related
+- [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related
+- [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related

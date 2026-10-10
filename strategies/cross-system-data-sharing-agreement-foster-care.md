@@ -41,6 +41,8 @@ The article recommends bridging the data divide between child welfare and educat
 - [Use linked cross-system data to target programs such as dropout prevention and postsecondary preparation for students in foster care](data-informed-targeted-support-foster-care.md)
 - [Link education and child welfare data systems to make the foster care achievement gap visible and trackable](link-education-child-welfare-data-systems.md)
 - [Develop data-sharing memoranda of understanding and shared evaluation across child- and family-serving agencies](shared-data-use-mous-evaluation.md)
+- [Implement a web of supports for students in foster care: one-stop resource centers, school-based liaisons, tiered services, and cross-system collaboration](foster-care-web-of-supports-strategy.md)
+- [Implement a coherent student database linking education, child welfare, mental health, and judicial systems rather than further studying data sharing](implement-coherent-linked-student-database-foster-care.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Teachers rated whether the LSC helped, hindered, or made no contribution in eigh
 - [An estimated 19 percent of Local School Councils are nonfunctional](lsc-nonfunctional-19-percent.md) — related
 - [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](parent-involvement-declined-after-reform-act.md) — related
 - [Teachers' most negative reports concern student behavior, which more teachers say has gotten worse than better](student-behavior-most-negative-teacher-reports.md) — related
+- [While most parents agree they can influence school decisions, fewer than one-fifth report their school offers opportunities to provide input on classroom or schoolwide decisions](few-parents-offered-decision-input-opportunities.md) — related

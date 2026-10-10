@@ -46,3 +46,4 @@ Cluster analysis of state education data reported under Key Conclusion #2 for pr
 - [BCLAD-authorized educators are in low supply in California and their assignments are often misaligned with bilingual program demand](bclad-supply-low-and-misaligned-with-demand.md) — related
 - [Silicon Valley LEAs typically do not integrate home languages into instruction outside formal bilingual programs, though 43 percent of surveyed staff report offering bilingual programs](sv-leas-minimal-home-language-integration-outside-bilingual-programs.md) — related
 - [More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families](sv-leas-family-liaisons-bridge-multilingual-families.md) — related
+- [California authorizes fewer than half the bilingual teachers it did at its mid-1990s peak, leaving it possibly unprepared for demand under Proposition 58](bilingual-teacher-supply-insufficient-prop58.md) — related

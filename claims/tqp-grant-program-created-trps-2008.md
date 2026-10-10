@@ -50,3 +50,5 @@ Background statement printed in the article's introduction: "In 2008, Congress c
 - [TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years](trp-stipend-three-year-commitment.md) — related
 - [Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them](teacher-shortage-retention-not-recruitment-poor-districts.md) — related
 - [Multiple workforce factors contributed to the growth of alternative teacher certification programs](factors-driving-alternative-certification-growth.md) — related
+- [The report recommends four policy strategies: competitive equitable compensation, targeted supply in shortage fields, improved retention, and a national teacher labor market](four-policy-strategies-teacher-shortages.md) — related
+- [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — related

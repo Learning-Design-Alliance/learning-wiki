@@ -59,3 +59,4 @@ Achievement trajectories plotted in Figure 2 for the kindergarten cohort show du
 - [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — a broader claim this one bears on
 - [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related
 - [Ignoring summer loss changes which schools are identified as low performers](ignoring-summer-loss-changes-low-performer-identification.md) — related
+- [On 2022 NAEP 8th- and 12th-grade reading and math exams, students who were both English learners and from low-income backgrounds scored lowest among four student groups, with less than one third scoring basic or above in reading and less than one quarter in math](naep-dual-el-low-income-lowest-2022.md) — related

@@ -46,3 +46,4 @@ Washington case study drawing on interviews with 9 leaders and a policy scan. A 
 - [Direct service providers and statewide nonprofits play indispensable connector roles between youth needs and policy in both states](direct-service-providers-connectors-hmy.md) — related
 - [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](terminology-and-data-sharing-barriers-hmy.md) — reports the opposite
 - [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — reports the opposite
+- [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related

@@ -51,3 +51,5 @@ New district-level analysis using Segregation Tracking Project measures of pover
 - [Overperforming schools were more likely predominantly White but not concentrated in higher-income areas, specific locales, or lower proportions of far-behind students](overperformer-demographics-white-not-income.md) — related
 - [Overperforming schools in Grades 1-2 mathematics are more often White-dominant but are not concentrated in higher-income areas or specific locales](overperformers-more-white-dominant-not-income-or-locale-tied.md) — related
 - [School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening](school-characteristics-affect-literacy-risk.md) — related
+- [District support for principals’ continuous improvement varies by school poverty and racial composition](district-support-varies-school-characteristics.md) — related
+- [Universal PreK school-based classrooms are about as diverse as first-grade classrooms, while means-tested and community-based classrooms are more segregated](universal-prek-classroom-diversity.md) — related

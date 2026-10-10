@@ -47,3 +47,4 @@ Distribution on the capacity-to-govern scale (Table 13): nearly a quarter very p
 - [Teachers rate Local School Councils most helpful for school operations such as parent involvement, community relations, facilities, and safety, and least helpful for student behavior](lsc-contributions-strongest-in-operations-weakest-on-student-behavior.md) — related
 - [An estimated 19 percent of Local School Councils are nonfunctional](lsc-nonfunctional-19-percent.md) — related
 - [More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members](lsc-principal-evaluation-process.md) — related
+- [While most parents agree they can influence school decisions, fewer than one-fifth report their school offers opportunities to provide input on classroom or schoolwide decisions](few-parents-offered-decision-input-opportunities.md) — related

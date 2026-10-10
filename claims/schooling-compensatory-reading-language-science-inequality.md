@@ -46,3 +46,4 @@ The study analyzes recent national data on U.S. public school students from the 
 - [Schooling does not show a compensatory effect on math skill inequality](no-compensatory-effect-math-inequality.md) — related
 - [Seasonal comparisons can test whether schooling exacerbates, reduces, or reproduces overall skill inequality](seasonal-comparisons-test-schooling-inequality-mechanism.md) — a broader claim this one bears on
 - [Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students](black-white-gaps-widen-school-shrink-summer.md) — related
+- [Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma](remediation-alone-insufficient-summer-learning.md) — related

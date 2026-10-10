@@ -60,3 +60,4 @@ Descriptive cohort analysis disaggregated by race/ethnicity and gender from CPS 
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
 - [AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers](ai-an-dropout-and-college-retention-rates.md) — related
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
+- [Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities](gateway-98-percent-four-year-graduation-rate.md) — related

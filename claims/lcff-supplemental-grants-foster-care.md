@@ -44,3 +44,4 @@ This is a descriptive policy statement in the article, not a tested result; the 
 
 ## Related Claims
 - [Among LCAP planned actions referencing students in foster care in the 10 largest districts, very few were unique to foster care and an even smaller fraction of funds was](lcap-actions-rarely-unique-to-foster-care.md) — related
+- [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related

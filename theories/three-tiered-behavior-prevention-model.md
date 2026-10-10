@@ -52,6 +52,7 @@ The guide organizes behavioral support around a three-tiered prevention model in
 - [Positive Behavioral Interventions and Supports (PBIS)](../strategies/positive-behavioral-interventions-and-supports-pbis.md)
 - [ATI-UP: a preventive, school-wide multi-tiered attendance intervention](../products/ati-up.md)
 - [Build shared districtwide and schoolwide responsibility for multilingual learners' attendance through a multitiered approach with a strong foundational tier](../strategies/shared-multitiered-attendance-responsibility-english-learners.md)
+- [Organize integrated support systems as universal, supplemental, and intensive tiers](../strategies/tiered-integrated-support-systems.md)
 
 ## Key Sources
 - Epstein, M., Atkins, M., Cullinan, D., Kutash, K., and Weaver, R. (2008). Reducing Behavior Problems in the Elementary School Classroom: A Practice Guide (NCEE #2008-012). Washington, DC: National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S. Department of Education. https://ies.ed.gov/ncee/wwc/PracticeGuide/4

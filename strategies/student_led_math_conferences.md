@@ -64,6 +64,7 @@ Student-led conferences operationalize [Assessment for Learning](../principles/a
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — the same brief-conference structure applied to writing; useful model for the protocol
 - [Check-Ins](../principles/check-ins.md) — the lightweight recurring mechanism for revisiting conference goals
 - [Teach students to examine their own data and set learning goals](teach-students-examine-own-data-set-goals.md)
+- [Student-led conferences in which students present their cumulative work, reflect, and set goals with families and advisors](student-led-conferences-gateway.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the recurring touchpoint that keeps conference goals alive between conferences

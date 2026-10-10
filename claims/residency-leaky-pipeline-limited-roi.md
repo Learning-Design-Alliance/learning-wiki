@@ -48,3 +48,4 @@ Analysis of CPS personnel employment trajectories for residency cohorts. The stu
 - [Cross-sector collaboration is less widespread among school leaders than central office administrators but is particularly strong among participants in grant-funded intensive leadership training or principal residency programs](leadership-program-participants-show-strongest-cross-sector-collaboration.md) — related
 - [Fund-supported principals are younger and have shorter tenure than other CPS principals](fund-principals-younger-shorter-tenure.md) — related
 - [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related
+- [All six studied high-certification districts partner with at least one teacher residency program and at least one Grow Your Own program](district-pipeline-partnerships-residency-gyo.md) — related

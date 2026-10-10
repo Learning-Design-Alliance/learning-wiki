@@ -50,3 +50,5 @@ In the Belonging and Collaboration in Practice section, the primer attributes th
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [Students' sense of belonging predicts their contributions to classroom knowledge building at both student and teacher levels](belonging-predicts-knowledge-building-contributions.md) — related
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — related
+- [Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers](belonging-reduces-cognitive-barriers.md) — related
+- [Collaborative leadership and practice can create conditions for improving student learning, with social capital and teacher-peer learning explaining the link to achievement](collaborative-leadership-social-capital-achievement.md) — related

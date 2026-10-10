@@ -81,3 +81,6 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md) — related
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
 - [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](trauma-informed-practices-mitigate-trauma-promote-resilience.md) — a broader claim this one bears on
+- [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
+- [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](relationship-centered-designs-beat-factory-model.md) — related
+- [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — related

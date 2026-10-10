@@ -56,6 +56,7 @@ A three-week structured kindergarten transition program offered by school distri
 - [Adjust transition programs based on family suggestions: longer student sessions, better district-family communication, work-friendly parent sessions, and staffing continuity into fall](../strategies/family-suggested-transition-program-improvements.md)
 - [District leaders use a recommendations framework to plan and implement effective summer programming](../strategies/district-leader-summer-programming-planning-framework.md)
 - [Offer scalable summer school as a post-pandemic academic recovery intervention for districts](../strategies/scalable-summer-school-post-pandemic-recovery-strategy.md)
+- [Design summer programs with purposeful curriculum, stable staff, and cultural relevance, sustained over multiple summers](../strategies/multi-summer-high-quality-summer-programs.md)
 
 ## Key Sources
 - Merideth, C., Cavanaugh, B., Romas, S., Ralston, N., Arias, E., Tarasawa, B., & Waggoner, J. (2021). Family perceptions of participating in a structured summer kindergarten transition program. Early Childhood Education Journal. https://www.nwea.org/research/publication/family-perceptions-of-participating-in-a-structured-summer-kindergarten-transition-program/

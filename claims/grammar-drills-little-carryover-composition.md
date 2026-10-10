@@ -48,3 +48,4 @@ The manual's introduction cites accumulated educational research as the rational
 - [Instruction shows little or no effect on route of L2 acquisition, indicating powerlessness to influence underlying linguistic competence](instruction-little-effect-on-route-of-acquisition.md) — a broader claim this one bears on
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](form-focused-input-manipulation-illusory-for-competence.md) — a broader claim this one bears on
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related
+- [Adding writing prompts and essays to state English language arts assessments shifted classroom instruction toward writing](ela-writing-prompts-shift-instruction.md) — related

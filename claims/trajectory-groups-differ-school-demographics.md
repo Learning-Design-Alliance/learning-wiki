@@ -46,3 +46,4 @@ Summary statistics by trajectory group (Table 1) comparing school demographics o
 - [Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school](black-hispanic-students-off-track-throughout-middle-school.md) — related
 - [Among students initially on-track, being male, Black, or Hispanic and attending higher-FRPL schools predict higher odds of falling off track in math](demographics-predict-falling-off-track.md) — related
 - [Among students starting 6th grade on track, being male, Black, Hispanic, or attending a higher low-income school is associated with falling off track](falling-off-track-predictors-on-track-6th-graders.md) — related
+- [Nearly half of Black and Hispanic preschoolers attend schools where over 90% of students are students of color](preschool-racial-isolation-black-hispanic.md) — related

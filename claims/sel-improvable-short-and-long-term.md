@@ -50,3 +50,4 @@ The abstract asserts, citing prior research without detail, that "SEL can be imp
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [Little is known about how much variance in SEL constructs is stable over time versus specific to a given time or context](sel-stability-variance-unknown.md) — related
 - [The stability of social-emotional learning competencies over time is an open empirical question with implications for teachers and schools](sel-competencies-stability-over-time-question.md) — related
+- [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](sel-requires-educative-inclusive-environments.md) — related

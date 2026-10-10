@@ -50,3 +50,4 @@ Cost analysis based on program records and study data: total per-pupil cost $184
 - [NBA Math Hoops was implemented with high fidelity: teachers completed an average of 8.31 of 10 lessons and played 14.5 games per classroom over roughly 15 days](nba-math-hoops-high-implementation-fidelity.md) — related
 - [NBA Math Hoops students scored significantly lower than controls on a composite SEL measure (−0.21 SD), though remaining at moderately high levels](nba-math-hoops-lower-composite-sel.md) — related
 - [NBA Math Hoops math gains are larger for students entering with stronger incoming math scores, with no significant variation by gender, IEP status, or incoming SEL](nba-math-hoops-greater-gains-stronger-incoming-math.md) — related
+- [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — related

@@ -47,3 +47,4 @@ Comparison of delinquent adolescents placed in residential treatment by juvenile
 - [Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents](intelligence-locus-correlation-both-groups.md) — related
 - [Prior evidence suggested locus of control relates to achievement independently of intelligence, which the present results contradict for delinquent adolescents](prior-claim-achievement-independent-of-intelligence-questioned.md) — related
 - [Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex](no-group-or-sex-effect-on-locus-of-control.md) — possibly the same claim (merge candidate)
+- [Perry Preschool participants given opportunities to plan and make decisions were significantly less involved in drug use, delinquency, teen pregnancy, and school failure at age 19](perry-preschool-participation-reduced-problem-behaviors.md) — related

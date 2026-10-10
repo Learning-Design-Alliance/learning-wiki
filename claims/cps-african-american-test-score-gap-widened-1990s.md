@@ -51,3 +51,4 @@ Disaggregated trend analysis of mean ITBS scores by race/ethnicity, 1990-2001, r
 - [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — related
 - [Asian students generally pull ahead of White students at a faster rate during summers than during school periods](asian-white-summer-growth-advantage.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
+- [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — related

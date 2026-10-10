@@ -25,6 +25,7 @@ Learning Studios is a network of technology-equipped classrooms operated through
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **NCTAF STEM learning studios with cross-curricular teams and STEM professional volunteers**: NCTAF's STEM learning teams work in "STEM learning studios": intentionally cross-curricular teams of science, math, and technology teachers joined by scientists and engineers from government, business, and industry who co-design and implement project-based learning activities addressing learning challenges the teachers identify. Implementation begins with a three-day summer workshop and quarterly design sessions, typically teaching one inquiry-based project module per quarter. Launched in 2009 with a NASA grant, the model reached eight high schools in three Maryland districts as of Spring 2011. (Kathleen Fulton et al. (2011))
 
 ### Claims
 - [Learning Studio participation was associated with indicators of student agency and ownership of learning](../claims/learning-studios-agency-ownership-indicators.md) [+W]
@@ -39,8 +40,8 @@ Learning Studios is a network of technology-equipped classrooms operated through
 
 ## Key Sources
 - Student Growth through Design-Centered Learning: Report from the Learning Studios Pilot. (2017). Digital Promise Global. https://global.digitalpromise.org/learning-studios
-
 <!-- merged 2026-10-10 from elements/learning-studios-program-element ("Learning Studios: technology-equipped classrooms for design-centered, experiential learning"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Kathleen Fulton & Ted Britton. (2011). STEM Teachers in Professional Learning Communities: From Good Teachers to Great Teaching. National Commission on Teaching and America's Future. http://www.nctaf.org/documents/STEMTeachersinProfessionalLearningCommunities.AKnowledgeSynthesis.pdf
 
 # Learning Studios: technology-equipped classrooms for design-centered, experiential learning
 

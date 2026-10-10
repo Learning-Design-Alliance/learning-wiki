@@ -47,3 +47,4 @@ Cohort analysis of all CPS high school students, including charter and Options s
 - [Nearly one in five recent CPS ninth-graders were ever enrolled in an Options school, and their six-year graduation rate improved about 5 percentage points but remained below 50 percent](cps-options-school-enrollment-and-graduation.md) — related
 - [CPS's four-year high school graduation rate reached a record 85.0% in 2023, up about one percentage point from 84.1% in 2022](cps-2023-graduation-rate-record-85.md) — related
 - [Graduation rates declined by about four percentage points in the first policy year and one more the next, then recovered to nearly pre-policy levels within five years](cps-graduation-rates-declined-then-recovered.md) — related
+- [At UCLA Community School, the share of graduates meeting UC/CSU A-G course requirements rose to 81% in 2021 and the 4-year graduation rate grew from 69% in 2012 to 90% in 2022](ucla-cs-rising-a-g-and-graduation-outcomes.md) — related

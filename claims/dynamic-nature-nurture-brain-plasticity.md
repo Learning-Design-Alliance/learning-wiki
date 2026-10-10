@@ -46,3 +46,4 @@ The paper reports, citing Immordino-Yang, that current research proves the natur
 - [A teacher's positive initial response to blended delivery was shaped by experience, TELL beliefs and personality](experience-belief-personality-shape-initial-agency-response.md) — related
 - [Experiences of racism and assimilationist schooling shape teachers' resolve to prevent non-white children's cultures from being overlooked](racism-shapes-resolve-to-teach-childrens-cultures.md) — related
 - [Experiences and environments in a baby's first three years significantly shape brain structure and functioning](first-three-years-shape-brain-structure-functioning.md) — a narrower finding that bears on this claim
+- [The report claims six core SoLD findings should reshape teacher preparation, including that the brain is malleable, variability is the norm, and relationships catalyze learning](sold-core-findings-reshape-teacher-preparation.md) — possibly the same claim (merge candidate)

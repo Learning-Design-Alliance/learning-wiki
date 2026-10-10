@@ -46,3 +46,4 @@ Author's practitioner assertion in the conclusion about the implementation timel
 - [Implementing restorative justice in schools requires staff time, buy-in, training, and resources beyond traditional sanctions, with full climate shifts estimated to take three to five years](rj-implementation-demands-and-timeline.md) — possibly the same claim (merge candidate)
 - [Technical restorative practices implementation falls short when the adaptive components of values, mindsets, and beliefs have not shifted](adaptive-shift-precedes-technical-restorative-success.md) — related
 - [Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools](rj-implementation-challenges-time-funding-sustainability.md) — related
+- [Coherence with preexisting initiatives made relationship-centered change more readily embraced](coherence-preexisting-initiatives-uptake.md) — related

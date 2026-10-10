@@ -39,6 +39,7 @@ Because many CTE programs hire industry experts who lack teaching experience, th
 ## Related Strategies
 
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
+- [Integrate the community schools initiative with Linked Learning and CTE through joint planning, cofunded positions, and instructional-department placement](csi-linked-learning-integration.md)
 
 ## Examples
 -

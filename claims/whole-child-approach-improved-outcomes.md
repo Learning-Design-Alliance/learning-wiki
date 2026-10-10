@@ -48,3 +48,6 @@ The guide asserts, citing published reviews (Lewallen et al. 2015; Darling-Hammo
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — related
 - [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — related
+- [Integrated student supports are associated with improvements in attendance, behavior, social functioning, and academic achievement](integrated-student-supports-positive-outcomes.md) — related
+- [Elementary principals most frequently want professional development on whole child education, with rural principals especially likely to want physical and mental health content](principals-want-whole-child-pd.md) — related
+- [Well-implemented, well-attended summer programs show positive outcomes in academic, social, and behavioral areas](well-attended-summer-programs-positive-outcomes.md) — a narrower finding that bears on this claim

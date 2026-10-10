@@ -54,3 +54,6 @@ Descriptive analysis of 2013-14 REACH evaluation data from CPS elementary school
 - [Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles](reach-va-overlap-across-observation-quintiles.md) — related
 - [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related
 - [Top-scoring teachers in highest-poverty schools have higher value-added scores than their counterparts in lower-poverty schools](top-value-added-teachers-higher-in-highest-poverty-schools.md) — reports the opposite
+- [Students in the highest-poverty schools are almost twice as likely to be taught by inexperienced teachers](highest-poverty-schools-inexperienced-teachers.md) — related
+- [Concentrated poverty in New Mexico is associated with lower grade-level proficiency and inequitable access to experienced teachers](nm-concentrated-poverty-lower-proficiency-teacher-inequity.md) — related
+- [Teacher turnover is 35%–37% higher in schools with the largest concentrations of students of color and students from low-income backgrounds than in schools with the smallest](school-composition-turnover-inequity.md) — related

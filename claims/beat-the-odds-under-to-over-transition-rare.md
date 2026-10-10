@@ -46,3 +46,4 @@ Transition analysis of 6,274 schools across Grades 1 and 2 (Figure 1). The print
 - [School growth status is changeable across Grades 1 and 2, and sustaining overperforming status is rare](growth-status-changeable-sustaining-overperformance-rare.md) — related
 - [School growth status was changeable rather than stable: only 0.5% of schools stayed overperformers across all three years, while 40.5% stayed average](school-growth-status-unstable-overperforming-hard-to-sustain.md) — related
 - [Over a quarter of variance in student growth lies at the school level, and 12-16% of schools significantly overperform average growth](school-level-growth-variation-overperformers.md) — related
+- [Only 2.4 percent of the sampled California secondary schools were classified as beating the odds, and 1.2 percent as chronically underperforming](bto-schools-rare-2-point-4-percent.md) — related

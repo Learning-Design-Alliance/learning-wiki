@@ -47,3 +47,4 @@ Boxplot analysis (Figure 7) of individual value-added by observation-score quint
 - [Teacher value-added estimates are highly correlated across model specifications that differ in student and peer control variables](vam-estimates-highly-correlated-across-specifications.md) — related
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — related
+- [Data literacy and assessment literacy show complex interactions with considerable overlap and potential for differing knowledge and skills](data-literacy-assessment-literacy-overlap.md) — related

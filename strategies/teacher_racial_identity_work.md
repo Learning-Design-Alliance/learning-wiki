@@ -66,9 +66,11 @@ Racial identity work functions as a prerequisite for culturally responsive pedag
 6. Iterate publicly: revisit steps 3–5 each term; treat defensiveness and mistakes as data for the next cycle rather than evidence to stop.
 
 ## Related Strategies
+
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md) — racial identity work is the teacher-side prerequisite for enacting it
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking routines that operationalize understanding students' experiences
 - [Restorative Practices](restorative-practices.md) — discipline approach whose equitable use depends on examined bias
+- [Build identity safety through empathy-building, connection tools, and values affirmation routines](identity-safety-relationship-building-strategies.md)
 
 ## Examples
 - **[Teaching Tolerance / Learning for Justice](https://www.learningforjustice.org)** — publishes the "Critical Practices for Anti-bias Education" framework, which begins with teacher identity reflection before classroom practice.

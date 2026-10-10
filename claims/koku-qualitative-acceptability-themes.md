@@ -67,3 +67,4 @@ Theme 3 from older-adult interviews and Theme 2 from care-provider interviews (1
 - [The KOKU digital programme improves balance function at 12 weeks compared with standard care in community-dwelling older adults, with the effect increasing over time](koku-improves-balance-12-weeks-older-adults.md) — related
 - [KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate](koku-secondary-outcomes-mixed.md) — related
 - [The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn](adult-learner-barriers-situational-and-internal.md) — related
+- [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related

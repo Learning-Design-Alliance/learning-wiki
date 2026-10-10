@@ -57,6 +57,7 @@ This element is the data-linkage approach developed by the partnership: school r
 - [Combine in-school and out-of-school data sources to understand and support students flagged as at risk](../strategies/combine-school-and-human-services-data-for-risk-support.md)
 - [Broker a formal data-sharing agreement between child welfare and education agencies to identify and serve students in foster care](../strategies/cross-system-data-sharing-agreement-foster-care.md)
 - [Use linked cross-system data to target programs such as dropout prevention and postsecondary preparation for students in foster care](../strategies/data-informed-targeted-support-foster-care.md)
+- [Implement a coherent student database linking education, child welfare, mental health, and judicial systems rather than further studying data sharing](../strategies/implement-coherent-linked-student-database-foster-care.md)
 
 ## Key Sources
 - Julie Bruch, Jonathan Gellar, Lindsay Cattell, John Hotchkiss, and Phil Killewald. (2020). Using Data from Schools and Child Welfare Agencies to Predict Near-Term Academic Risks, Snapshot. Regional Educational Laboratory Mid-Atlantic. https://ies.ed.gov/ncee/edlabs

@@ -44,3 +44,4 @@ Descriptive survey results on percentage of curriculum covered by subject at the
 
 ## Related Claims
 - [Between 70 and 80 percent of schools reported decreased learning time in spring 2020, with one in five reporting significant decreases in ELA and math](learning-time-decreases-spring-2020.md) — related
+- [In a California survey, 92 percent of elementary teachers reported limited time for science and 81 percent said English language arts and math emphasis made finding science time difficult](california-elementary-science-time-survey.md) — related

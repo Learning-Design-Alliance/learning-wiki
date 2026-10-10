@@ -87,6 +87,7 @@ PBIS applies behavioral learning principles at the systems level: expectations a
 - Restorative practices — an alternative/complement to exclusionary consequences within Tier 2/3
 - [Sustain and resource statewide PBIS scale-up with emphasis on advanced-tier implementation support](statewide-pbis-scale-up-advanced-tier-support.md)
 - [Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports](school-climate-improvement-strategies-for-equity.md)
+- [School-level strategies for improving school climate](school-climate-improvement-strategies.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — Tier 2 support structure and staff implementation coaching

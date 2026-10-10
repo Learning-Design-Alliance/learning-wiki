@@ -66,3 +66,4 @@ Partnership Team survey data show administrative capacity gaps: "40 percent of p
 - [Most grant-funded residency programs have not yet broadened funding sources or adopted cost-reduction strategies beyond the one-time grant](programs-not-broadening-funding-sources.md) — related
 - [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](residency-leaky-pipeline-limited-roi.md) — related
 - [A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity](residents-report-financial-hardship-during-residency-year.md) — related
+- [Alder's financial model combines grants, tuition, and LEA contributions, targeting 70–80% tuition funding by 2026–27 while keeping tuition low](alder-diversified-financial-model.md) — related

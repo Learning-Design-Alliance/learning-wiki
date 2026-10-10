@@ -49,3 +49,4 @@ Analysis of CDE CALPADS suspension data, 2014–15 through 2022–23, across fou
 - [School stability for students in foster care improved from 62 percent to 66 percent but remained far below the roughly 90 percent rate of other groups](foster-care-school-stability-lower.md) — related
 - [Students in foster care were increasingly identified with disabilities, reaching nearly one in three by 2022–23 and far exceeding other high-need groups](foster-care-disability-identification-increased.md) — related
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
+- [Students in foster care are more than twice as likely to be chronically absent and more than four times as likely to be suspended as non-foster students](foster-care-absenteeism-suspension-rates.md) — related

@@ -50,3 +50,4 @@ STEM credit outcomes from the Lied QED, comparing matched treatment and comparis
 - [DCMP's effect on overall college credits earned was not statistically significant in the RCT](dcmp-college-credits-null-rutschow.md) — related
 - [Propensity score matching produced comparison groups equivalent at baseline (within +/- 0.25 standard deviations) on all pretest achievement measures across the three QEDs](propensity-matching-baseline-equivalence-magnet-qeds.md) — related
 - [A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED](lied-rct-replicates-math-impact.md) — related
+- [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — related

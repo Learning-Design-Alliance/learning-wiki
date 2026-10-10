@@ -45,3 +45,4 @@ Section 7 compares achievement levels of first-time charter entrants versus stud
 ## Related Claims
 - [Average charter schools perform about the same as nearby traditional public schools, with large variation in effects](average-charter-schools-similar-to-nearby-traditional-public-schools.md) — a broader claim this one bears on
 - [Charter schools in many of the 10 studied cities make overall positive contributions to students' learning growth relative to state averages](credo-cohort1-charter-positive-growth-contributions.md) — related
+- [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — related

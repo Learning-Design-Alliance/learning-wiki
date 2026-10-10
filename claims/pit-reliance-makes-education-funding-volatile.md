@@ -49,3 +49,4 @@ Structural analysis in the report's tax-structure section: PIT is the largest st
 - [As of fiscal year 2017, 22 states still provided less per-pupil K–12 education funding than in 2008–09](22-states-less-per-pupil-funding-than-2008-09.md) — related
 - [Thirty-two states and DC guarantee base per-pupil funding, and state legislation can add year-to-year funding guarantees such as California's Proposition 98](guaranteed-funding-floors-32-states.md) — related
 - [Stakeholders view parcel taxes—the only local revenue option available to California school districts—as inequitable and regressive](parcel-taxes-inequitable-regressive-only-local-option.md) — related
+- [California ECE funding suffered over $1 billion in recession-era cuts, eliminating roughly 25% of child care slots between 2008 and 2013, and funding remains below pre-recession levels](california-ece-funding-recession-cuts-slots-declined.md) — a narrower finding that bears on this claim

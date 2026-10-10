@@ -65,3 +65,4 @@ In the SBHIP needs assessment analysis, the closed-loop referral system was the 
 - [LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students](lea-ta-needs-four-categories-school-behavioral-health.md) — related
 - [LEAs' most frequent sustainability strategy in SBHIP project plans was Medi-Cal billing, despite many LEAs lacking billing infrastructure](medi-cal-billing-top-sustainability-strategy.md) — related
 - [LEAs most frequently used short-term behavioral health funds to expand internal staffing and direct services rather than partnerships and structural investments](short-term-funds-favor-internal-staffing.md) — related
+- [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related

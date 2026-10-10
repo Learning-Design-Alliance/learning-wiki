@@ -59,8 +59,10 @@ Process-focused praise and feedback produce more persistent, mastery-oriented be
 5. Align grading so that revision, process documentation, or improvement carries weight — otherwise the process message is contradicted by the reward structure
 
 ## Related Strategies
+
 - [Formative Assessment](../patterns/formative-assessment.md) — process-level feedback is the core mechanism of formative practice
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — replaces grade comparison with progress against criteria, structurally supporting process emphasis
+- [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 
 ## Related Elements
 - [Articulation](../elements/articulation.md) — learners verbalize strategies, making process visible

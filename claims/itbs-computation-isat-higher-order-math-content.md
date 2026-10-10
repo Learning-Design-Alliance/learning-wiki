@@ -48,3 +48,4 @@ Documentary comparison of the content/process classifications of items on the tw
 - [ITBS and ISAT scores are highly correlated among CPS students in reading (r = 0.83 to 0.85) and mathematics (r = 0.86 to 0.87)](itbs-isat-highly-correlated-cps.md) — related
 - [ITBS and ISAT inclusion rules differ: ISAT reports scores for all test-takers, while about 20 percent of ITBS test-takers are excluded from public reporting](itbs-tested-but-excluded-isat-reports-all.md) — related
 - [In fifth-grade reading, ITBS scores declined significantly more than ISAT scores from 1999 to 2002](fifth-grade-reading-itbs-greater-decline-than-isat.md) — related
+- [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](nclb-tests-low-higher-order-content.md) — related

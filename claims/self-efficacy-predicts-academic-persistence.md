@@ -97,3 +97,7 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Four academic mindsets — belonging, growth beliefs, self-efficacy, and value — increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
 - [Instruction must be challenging for learning gains, but raising challenge without classroom control and student support harms grades and engagement](challenge-requires-control-and-support.md) — related
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related
+- [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
+- [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related
+- [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](relationships-pathways-self-efficacy-motivation-identity.md) — related
+- [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related

@@ -49,3 +49,4 @@ Theoretical argument from the authors' own prior work (West & Sheldon-Keller, 19
 - [Viewing agency/communion as a polarity risks underestimating agency in the lives of women](polarity-view-obscures-womens-agency.md) — related
 - [Shame and guilt may be more strongly shaped by socialization processes than by attachment relationships](shame-guilt-shaped-by-socialization-more-than-attachment.md) — related
 - [Liberal arts education espouses developing noncognitive qualities including self-awareness, empathy, open-mindedness, agency, and commitment to pro-social values](liberal-arts-espouses-noncognitive-quality-development.md) — related
+- [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — a broader claim this one bears on

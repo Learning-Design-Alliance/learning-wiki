@@ -42,6 +42,7 @@ Across the four cases, organizations gained traction by aligning micro-credentia
 ## Related Strategies
 
 - [Count approved micro-credentials toward professional growth plan contact units for salary advancement](micro-credentials-in-professional-growth-plans.md)
+- [Build strategic relationships with districts, associations, county offices, and universities to support and institutionalize teacher-led professional learning](strategic-relationships-institutionalize-teacher-led-pd.md)
 
 ## Examples
 -

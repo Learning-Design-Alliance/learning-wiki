@@ -51,3 +51,4 @@ Descriptive analysis of statewide CAASPP cohort data (Tables 1 and 2) shows math
 - [MiC middle schools outperformed prediction in 2016 and 2017 but the advantage faded by 2018, while non-selected comparison districts improved significantly](mic-middle-school-advantage-faded-2018.md) — related
 - [The lowest-performing MiC elementary schools made increasingly greater progress beyond prediction as CCSS-M implementation deepened from 2016 to 2018](mic-lowest-elementary-schools-increasing-progress.md) — related
 - [Long Beach schools with assigned math coaches showed markedly and disproportionately rising CAASPP scores, though causation could not be tied to coaching](long-beach-coach-assigned-schools-caaspp-rose.md) — related
+- [In a California survey, 92 percent of elementary teachers reported limited time for science and 81 percent said English language arts and math emphasis made finding science time difficult](california-elementary-science-time-survey.md) — related

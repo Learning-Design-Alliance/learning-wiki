@@ -49,3 +49,4 @@ A key finding of the TTI evaluation report, from the multisite randomized experi
 - [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — related
 - [The Talent Transfer Initiative increased elementary school math and reading test scores by the equivalent of 4 to 10 percentile points](tti-elementary-test-score-gains.md) — related
 - [TTI did not increase test scores in middle schools](tti-no-middle-school-effects.md) — related
+- [Retention bonuses for high-poverty schools work only while payments last, and working conditions may outweigh pay](retention-bonuses-temporary-effects.md) — reports the opposite

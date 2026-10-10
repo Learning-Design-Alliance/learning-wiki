@@ -74,3 +74,4 @@ CPRE's account of the Leader Teacher diffusion strategy: success depended on sel
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
 - [Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change](professional-learning-most-important-support.md) — related
 - [Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours](sustained-coaching-contact-hours.md) — a narrower finding that bears on this claim
+- [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — a broader claim this one bears on

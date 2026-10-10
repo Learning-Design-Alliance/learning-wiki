@@ -70,3 +70,4 @@ Same descriptive analysis (Figure 5): integrated schools (30%+ white) showed 33%
 - [School characteristics relate to politics type: Hispanic schools show a marked tendency toward strong democracy and small schools less adversarial politics](school-characteristics-relate-politics-type.md) — related
 - [Little evidence exists of student achievement changes following Common Core implementation in other places, with the one positive study limited to wealthier districts](little-achievement-evidence-elsewhere-common-core.md) — related
 - [School-level concentration of low income students and racial isolation are associated with higher early literacy risk rates](school-segregation-associated-higher-literacy-risk.md) — related
+- [District support for principals’ continuous improvement varies by school poverty and racial composition](district-support-varies-school-characteristics.md) — related

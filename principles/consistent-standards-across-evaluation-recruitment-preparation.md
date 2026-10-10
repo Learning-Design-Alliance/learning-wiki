@@ -50,6 +50,7 @@ This principle holds that a single set of teacher and leader standards should go
 
 - [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](../strategies/tdf-state-policy-actions-career-continuum.md)
 - [Districts should map virtual-learning and equity actions onto the seven domains of a comprehensive, aligned principal pipeline](../strategies/seven-domain-pipeline-virtual-leadership-strategies.md)
+- [Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning](../strategies/principal-development-policy-strategies.md)
 
 ## Key Sources
 - Talent Development Framework: Improving Access to Excellent Educators for All Students. (2020). Center on Great Teachers and Leaders at the American Institutes for Research. https://gtlcenter.org

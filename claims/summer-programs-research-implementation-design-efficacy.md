@@ -46,3 +46,4 @@ The brief's own description of its scope states that it reviews research on summ
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
+- [Well-implemented, well-attended summer programs show positive outcomes in academic, social, and behavioral areas](well-attended-summer-programs-positive-outcomes.md) — related

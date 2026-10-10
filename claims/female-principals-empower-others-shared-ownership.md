@@ -85,3 +85,6 @@ Responses to the hypothetical merit-pay dilemma revealed differing enactments of
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
 - [Youth advisors report students are inadequately involved in school decision-making and want more transparent communication](youth-advisors-report-inadequate-involvement-in-decisions.md) — related
 - [Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches](engaged-principals-prioritize-teacher-math-learning.md) — related
+- [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](family-engagement-appreciation-governance-dissatisfaction.md) — related
+- [While most parents agree they can influence school decisions, fewer than one-fifth report their school offers opportunities to provide input on classroom or schoolwide decisions](few-parents-offered-decision-input-opportunities.md) — related
+- [Schools with distinct educational models show positive achievement effects when they feature small size, personalization, positive relationships, and educator collaboration](model-schools-common-features.md) — related

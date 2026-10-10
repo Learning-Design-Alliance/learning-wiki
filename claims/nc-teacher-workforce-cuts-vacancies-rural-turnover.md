@@ -66,3 +66,4 @@ Analysis of district-level teacher turnover data (Exhibit 5) and state vacancy r
 - [K-12 public school enrollment is declining and projected to fall 3.7 percent by 2031, reducing funding in the 35 states and DC that use student-based funding formulas](enrollment-decline-projected-3-7-percent-2031.md) — related
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
 - [68 percent of K–12 districts experienced enrollment declines between 2018–19 and 2023–24 while still operating roughly the same number of schools](68-percent-districts-declining-enrollment-same-schools.md) — related
+- [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — a broader claim this one bears on

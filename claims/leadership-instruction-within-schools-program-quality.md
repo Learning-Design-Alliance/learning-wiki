@@ -50,3 +50,5 @@ Within-school component of the multilevel SEM partitioning teacher-level variati
 - [Teachers reporting better professional development and curricular coherence have better instructional practices than other teachers in their school](pd-coherence-benefit-individual-teachers.md) — related
 - [Principals' strongest impact on student learning comes through building a positive, measurable, and malleable school climate](principal-impact-through-school-climate.md) — related
 - [Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors](within-school-direct-negative-leadership-academic-demand.md) — related
+- [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
+- [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](principal-program-content-instruction-collegial-data.md) — related

@@ -51,3 +51,4 @@ Survey-based analysis of students in the Oakland Unified School District. The da
 - [Small changes in the way information is presented can have a large impact on a person's decision to participate in a program](small-presentation-changes-large-participation-impact.md) — a broader claim this one bears on
 - [Students who were not surveyed for the study did not respond to the ability signal](non-surveyed-students-did-not-respond-to-signal.md) — related
 - [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
+- [Oakland Unified high school participation in Linked Learning career pathways rose from 49% in 2014 to 87.7% in 2020–21](linked-learning-pathway-participation-growth.md) — related

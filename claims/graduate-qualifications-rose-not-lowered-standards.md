@@ -57,3 +57,5 @@ Trend analysis of graduate qualifications (Chapter 2). The proportion of student
 - [Rising CPS graduation rates have been accompanied by higher achievement, including ACT and GPA gains](cps-graduation-gains-with-achievement-gains.md) — related
 - [Chicago graduation rates improved 17 percentage points (57 to 74 percent) between 2006 and 2015 while the ACT average rose from 17.6 to 18.5](cps-graduation-rate-57-to-74-act-rose.md) — related
 - [Increasing high school GPA by 0.4 points has a larger impact on four-year college graduation than increasing ACT by 2 points for CPS students of all academic qualifications](gpa-increase-outperforms-act-for-college-graduation.md) — related
+- [Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps](community-schools-comprehensive-positive-impact.md) — related
+- [At UCLA Community School, the share of graduates meeting UC/CSU A-G course requirements rose to 81% in 2021 and the 4-year graduation rate grew from 69% in 2012 to 90% in 2022](ucla-cs-rising-a-g-and-graduation-outcomes.md) — related

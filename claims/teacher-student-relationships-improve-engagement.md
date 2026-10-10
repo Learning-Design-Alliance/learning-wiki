@@ -139,3 +139,5 @@ The meta-analysis covers 99 studies of students from preschool to high school an
 - [Academic and test disengagement are connected through a common association with poor self-management](self-management-common-link-disengagement.md) — related
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-predicts-student-belonging.md) — related
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related
+- [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](relationships-pathways-self-efficacy-motivation-identity.md) — a narrower finding that bears on this claim
+- [Positive teacher–student relationships are associated with higher student engagement and math achievement, with stronger associations for minority, lower-income, and secondary students](teacher-relationships-associated-math-engagement-achievement.md) — possibly the same claim (merge candidate)

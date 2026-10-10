@@ -47,3 +47,4 @@ Qualitative synthesis of nine UK-based process evaluations of stakeholder (teach
 - [Teachers whose leaders prioritized at least one organizational capacity lever reported greater confidence and satisfaction with Skyline materials](leader-investment-lever-teacher-confidence-satisfaction-skyline.md) — a narrower finding that bears on this claim
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Inconsistent messaging and supports, including coach modifications based on teacher buy-in or differing interpretations, created confusion about DLS implementation expectations](dls-inconsistent-messaging-confusion.md) — related
+- [Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities](collaboration-buy-in-student-leadership.md) — related

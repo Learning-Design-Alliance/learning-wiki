@@ -45,3 +45,4 @@ Descriptive statement from the report overview. The document states that a decad
 ## Related Claims
 - [School survey reports benchmark each school against demographically similar schools and the whole system over a ten-year period](survey-reports-benchmark-similar-schools-over-time.md) — possibly the same claim (merge candidate)
 - [Survey snapshots and trend graphs track school development measure responses from 1994 to 2003](survey-response-trends-1994-2003-report-format.md) — related
+- [Survey design and management conditions influenced how schools engaged with climate data](survey-design-conditions-data-engagement.md) — related

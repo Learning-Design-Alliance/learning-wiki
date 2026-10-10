@@ -48,6 +48,8 @@ The report recommends that school leaders use multitiered systems of support (MT
 - [Response To Intervention](response-to-intervention.md)
 - [Implement multi-tiered supports focused on acceleration, not remediation](multi-tiered-supports-acceleration-not-remediation.md)
 - [Coach schools on both behavior and academic MTSS practices rather than behavior alone](coach-both-behavior-and-academic-mtss.md)
+- [Invest in supportive-community strategies—mental health staffing, SEL, restorative practices, and relationship-centered structures—rather than expanded physical security](invest-in-supportive-community-safety-strategies.md)
+- [Organize integrated support systems as universal, supplemental, and intensive tiers](tiered-integrated-support-systems.md)
 
 ## Examples
 -

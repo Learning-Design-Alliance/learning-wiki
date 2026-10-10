@@ -50,3 +50,5 @@ The report attributes this argument to researchers in its opening motivation par
 - [Alternative routes to teaching were promoted in the past decade because of concerns about teacher shortages and teacher quality](alternative-routes-promoted-shortage-quality-concerns.md) — related
 - [Qualitative data support the view that the four-day school week helps attract and retain teachers in rural districts](four-day-week-teacher-recruitment-qualitative.md) — related
 - [Multiple workforce factors contributed to the growth of alternative teacher certification programs](factors-driving-alternative-certification-growth.md) — related
+- [The report recommends four policy strategies: competitive equitable compensation, targeted supply in shortage fields, improved retention, and a national teacher labor market](four-policy-strategies-teacher-shortages.md) — related
+- [Most surveyed districts used federal recovery funds to recruit and retain teachers, including creating new positions that increased staffing needs](recovery-funds-new-positions-shortages.md) — related

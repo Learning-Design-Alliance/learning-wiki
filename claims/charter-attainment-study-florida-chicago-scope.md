@@ -58,3 +58,4 @@ The article's own statement of scope: an analysis of "the relationship between c
 - [Charter high schools are associated with increased postsecondary educational attainment and may boost students' long-run earnings, based on data from Florida and Chicago](charter-high-schools-attainment-earnings-florida-chicago.md) — related
 - [Charter high schools have positive effects on educational attainment in Florida and Chicago](charter-high-schools-positive-attainment-effects-florida-chicago.md) — a narrower finding that bears on this claim
 - [Evaluations of charter schools limited to test scores may fail to capture important benefits](test-score-only-evaluations-miss-charter-benefits.md) — related
+- [Early College high school students are significantly more likely than comparison students to graduate from high school, enroll in college, and complete college](early-college-attainment-gains.md) — related

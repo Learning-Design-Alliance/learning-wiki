@@ -45,3 +45,4 @@ Observational comparison using 1994 crime statistics for neighborhoods immediate
 ## Related Claims
 - [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](adult-supervision-safety-gradient.md) — related
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — related
+- [Communities and neighborhoods rich in social networks have lower rates of crime, delinquency, and child abuse](community-social-networks-lower-problem-rates.md) — related

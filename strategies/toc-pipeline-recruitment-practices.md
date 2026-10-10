@@ -49,6 +49,7 @@ The report's Promising Practices section describes four approaches to building t
 - [Provide professional learning and a bilingual workforce so preK and early elementary educators can sustain home language and oral language development](bilingual-workforce-prek-professional-learning.md)
 - [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
 - [Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance](leandro-sequenced-investment-action-plan-strategy.md)
+- [Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply](grow-your-own-residency-pathways-strategy.md)
 
 ## Examples
 -

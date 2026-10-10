@@ -60,9 +60,11 @@ Time on task is one of the most consistent correlates of achievement, but raw al
 6. Review pacing against formative evidence every few weeks and adjust block lengths accordingly.
 
 ## Related Strategies
+
 - [active-transitions](active-transitions.md) — structured movement between schedule blocks that preserves attention rather than draining it
 - [active-recess](active-recess.md) — a restorative slot in the schedule that pays back attentional resources for later blocks
 - [5-minute_writing_conferences](5-minute_writing_conferences.md) — an example of a recurring scheduled routine that fits inside a literacy block
+- [Sustainable block schedule with embedded planning and professional learning time to retain teachers](block-schedule-embedded-planning-time-teacher-retention.md)
 
 ## Examples
 - A typical elementary day: morning work on arrival, literacy block in the morning (highest attention), mathematics before lunch, science/social studies in the early afternoon, recess placed to break up the afternoon slump.

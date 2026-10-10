@@ -42,6 +42,7 @@ The brief recommends that states conduct a survey of new teachers to alleviate t
 ## Related Strategies
 
 - [Embed data-driven continuous improvement criteria into state EPP program approval](continuous-improvement-criteria-in-program-approval.md)
+- [Use TPA results and completer-survey data to target programmatic support and continuous improvement](use-tpa-data-for-program-improvement.md)
 
 ## Examples
 -

@@ -68,6 +68,7 @@ Portfolio creation functions as sustained self-assessment: students must evaluat
 - Goal Setting — portfolios make goal progress concrete and reviewable
 - [Use student-owned portfolios with digital and non-digital documentation to assess maker growth over time](student-owned-portfolios-maker-assessment.md)
 - [Identify 2-3 intentional pause points for collecting and reflecting on artifacts](identify-two-three-portfolio-pause-points.md)
+- [Student-led conferences in which students present their cumulative work, reflect, and set goals with families and advisors](student-led-conferences-gateway.md)
 
 ## Related Elements
 - [Assessment](../elements/assessment.md) — portfolios function as both process and product assessment

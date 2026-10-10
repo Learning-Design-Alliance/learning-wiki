@@ -43,3 +43,4 @@ Case study based on leader interviews. District data showed counseling referrals
 ## Related Claims
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — a broader claim this one bears on
 - [Most working-group district leaders reported planning or already implementing concrete SEL changes within two months of the Melbourne convening](sel-working-group-districts-implement-changes.md) — a broader claim this one bears on
+- [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related

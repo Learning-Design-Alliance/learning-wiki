@@ -50,3 +50,4 @@ The article's stated purpose is to examine "behavioral responses" to a selective
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
 - [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related
 - [Most TTI teachers stayed on the job even after transfer payments ended](tti-teachers-stayed-after-payments-ended.md) — related
+- [Retention bonuses for high-poverty schools work only while payments last, and working conditions may outweigh pay](retention-bonuses-temporary-effects.md) — related

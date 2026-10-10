@@ -71,3 +71,6 @@ The same interdependence section states that working conditions also condition w
 - [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related
 - [Comprehensive teacher induction did not increase teacher retention during novice teachers' first year](teacher-induction-no-retention-gain-year-1.md) — related
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — a narrower finding that bears on this claim
+- [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related
+- [Targeted recruitment of teacher leaders is associated with candidates more likely to become and remain principals](targeted-principal-candidate-recruitment-outcomes.md) — related
+- [Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay](working-conditions-drive-teacher-exit-decisions.md) — a narrower finding that bears on this claim

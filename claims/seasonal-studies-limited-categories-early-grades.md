@@ -45,3 +45,4 @@ This is the article's own framing of the prior seasonal-comparison literature in
 ## Related Claims
 - [Seasonal patterns are discrepant across national data sets](discrepant-seasonal-patterns-national-data-sets.md) — related
 - [Seasonal comparisons can test whether schooling exacerbates, reduces, or reproduces overall skill inequality](seasonal-comparisons-test-schooling-inequality-mechanism.md) — related
+- [Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma](remediation-alone-insufficient-summer-learning.md) — related

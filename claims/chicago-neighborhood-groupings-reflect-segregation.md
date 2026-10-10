@@ -44,3 +44,4 @@ The authors' interpretive statement about the five groupings, offered without ac
 
 ## Related Claims
 - [A neighborhood-centered analysis of Chicago census data yields a parsimonious set of five neighborhood groupings](neighborhood-centered-analysis-five-chicago-groupings.md) — related
+- [Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma](remediation-alone-insufficient-summer-learning.md) — related

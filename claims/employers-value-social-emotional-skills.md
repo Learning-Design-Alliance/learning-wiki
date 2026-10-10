@@ -46,3 +46,4 @@ The statement asserts that "employers recognize that social and emotional develo
 - [Students believed interdisciplinary studio experiences would ease their transition into the workforce](studio-experience-prepares-students-for-workforce.md) — related
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related

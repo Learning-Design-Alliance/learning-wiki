@@ -46,3 +46,5 @@ A review article synthesizing data on learning environments and early academic c
 - [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
 - [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](title-i-preschools-no-increase-social-pretense.md) — related
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
+- [Children's language and math outcomes improve as average classroom income and socioeconomic diversity increase](classroom-income-composition-language-math.md) — a narrower finding that bears on this claim
+- [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — related

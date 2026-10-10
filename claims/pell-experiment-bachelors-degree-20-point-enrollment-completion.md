@@ -45,3 +45,4 @@ Random-assignment experiment in the Experimental Sites Initiative: eligible stud
 ## Related Claims
 - [Expanding Pell Grant eligibility cost on average about $1,800 per student, and labor-market returns relative to cost remain open questions](pell-expansion-cost-1800-per-student-open-questions.md) — related
 - [Offering experimental Pell Grants for very short-term occupational training programs increased program enrollment and completion by about 10 percentage points](pell-experiment-very-short-programs-10-point-enrollment-completion.md) — related
+- [Nearly 4 in 5 GSTG teacher candidate recipients were income-eligible for the federal Pell Grant, far above the statewide undergraduate rate](gstg-recipients-pell-eligible-financial-need.md) — related

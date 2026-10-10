@@ -39,7 +39,8 @@ Students in the focus groups recommended concrete assessment changes: test retak
 - developing planning, self-direction, and communication skills
 
 ## Related Strategies
-- 
+
+- [Offer candidates multiple ways of demonstrating competence, crediting prior teaching experience and using performance-based alternative assessments](multiple-demonstration-competence-ec-credential.md)
 
 ## Examples
 -

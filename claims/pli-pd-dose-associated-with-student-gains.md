@@ -48,3 +48,4 @@ Analysis of SBAC ELA and math gains by number of teacher-completed PLI PD classe
 - [PLI students digitally collaborated significantly more than non-PLI students with the same technology access, and digital collaboration had a small significant association with SBAC scores](pli-digital-collaboration-associated-with-scores.md) — related
 - [PLI was associated with positive SBAC gains for African American, Hispanic, and Asian elementary students and no negative impact on any ethnic group](pli-gains-african-american-hispanic-asian-students.md) — related
 - [PLI students outscored non-PLI peers on adjusted SBAC ELA and math assessments in most tested elementary and middle grades](pli-higher-adjusted-sbac-ela-math.md) — related
+- [Principals' access to professional development is positively related to student gains in both ELA and mathematics, with the strongest and most consistent relationships in mathematics](principal-pd-access-student-achievement.md) — related

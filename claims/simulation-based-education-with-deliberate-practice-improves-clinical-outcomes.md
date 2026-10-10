@@ -65,3 +65,4 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [The review reports that participants in simulation-game conditions had significantly higher skill-based knowledge outcomes than those in non-game conditions](simulation-games-higher-skill-based-knowledge.md) — related
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
+- [Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale](computer-based-simulations-assess-inquiry-skills.md) — related

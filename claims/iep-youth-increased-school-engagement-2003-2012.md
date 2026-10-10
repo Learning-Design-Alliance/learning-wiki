@@ -53,3 +53,4 @@ The fact sheet reports, from the National Longitudinal Transition Study 2012 com
 - [Youth with an IEP are more likely than a decade ago to receive supports at school but less likely to receive them at home](iep-youth-supports-up-school-down-home.md) — related
 - [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related
 - [From 2003 to 2012, youth with disabilities showed greater school engagement and support use but became less likely to participate in some key transition activities](engagement-up-transition-activities-down-2003-2012.md) — related
+- [California's shift to restorative and social-emotional approaches coincided with a 33.6% decline in suspensions and 40.4% decline in expulsions (2011-2016) while schools became safer](california-suspension-decline-safer-schools.md) — related

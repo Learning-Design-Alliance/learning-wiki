@@ -51,3 +51,4 @@ Findings from the developmental evaluation's triangulated survey, interview, foc
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
 - [At the close of the first full year, PKTP's communication about the importance of transition was unclear to many teacher and parent participants](pktp-transition-message-unclear-to-participants.md) — related
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
+- [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](family-engagement-appreciation-governance-dissatisfaction.md) — related

@@ -65,3 +65,5 @@ Same parent interviews (Figure 6). Parents expressed strongest interest in progr
 - [Hispanic parents feel least able to support their children's high school work and report the least school support](hispanic-parents-least-able-support.md) — related
 - [Ninth-grade teachers report less communication with and academic support for parents than eighth-grade teachers](ninth-grade-teachers-less-parent-communication.md) — related
 - [Parental focus on compliance harms homework learning, while supporting effort and process helps](parent-compliance-versus-process-support.md) — related
+- [While most parents agree they can influence school decisions, fewer than one-fifth report their school offers opportunities to provide input on classroom or schoolwide decisions](few-parents-offered-decision-input-opportunities.md) — related
+- [Only about half of parents and teachers report schools communicate whether students are meeting grade-level academic expectations, and parents without this information nearly all want it](half-parents-lack-grade-level-expectation-information.md) — related

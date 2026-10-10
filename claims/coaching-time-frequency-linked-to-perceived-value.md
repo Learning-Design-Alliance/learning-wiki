@@ -47,3 +47,4 @@ Survey findings on meeting frequency (Figure 17): teachers who find coaching val
 - [Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month](mentoring-activity-time-varied-widely.md) — related
 - [More than three-quarters of educator respondents find coaching valuable and impactful on their practice](educators-find-coaching-valuable-and-impactful.md) — related
 - [Most coached teachers report improvement across classroom challenge categories after working with a coach](coaching-improves-classroom-challenge-categories.md) — related
+- [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related

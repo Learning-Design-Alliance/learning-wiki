@@ -59,8 +59,10 @@ The strategy addresses a documented motivational problem: instrumental networkin
 6. **Reflect**: debrief on authenticity — did the interaction feel like contribution or performance? Adjust approach accordingly
 
 ## Related Strategies
+
 - [Active Listening](../strategies/active-listening.md) — the conversational skill that makes generosity responsive rather than generic
 - [Building Empathy](../principles/building-empathy.md) — the underlying disposition that positive-intention framing cultivates
+- [Adopt power-sharing and reciprocity strategies such as mentoring and cooperative learning to strengthen social bonds and build protective factors](power-sharing-strategies-build-protective-factors.md)
 
 ## Examples
 - **Adam Grant's *Give and Take* (2013)** — popularized the "five-minute favor" (introductions, recognition, advice at near-zero cost to the giver) as a sustainable networking practice grounded in research on givers' long-run success.

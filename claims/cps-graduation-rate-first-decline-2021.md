@@ -47,3 +47,4 @@ Cohort analysis of all CPS high school students, including charter and Options s
 - [CPS four-year high school graduation rose to 84.0% in 2022, the highest rate in recent history, after a slight pandemic-related decline in 2021](cps-graduation-rate-84-percent-2022.md) — related
 - [Students who began as English Learners graduated from CPS high school at a slightly higher rate (83.1%) than students never classified as English Learners (81.2%)](cps-el-graduation-higher-rate.md) — related
 - [CPS's four-year high school graduation rate reached a record 85.0% in 2023, up about one percentage point from 84.1% in 2022](cps-2023-graduation-rate-record-85.md) — related
+- [At UCLA Community School, the share of graduates meeting UC/CSU A-G course requirements rose to 81% in 2021 and the 4-year graduation rate grew from 69% in 2012 to 90% in 2022](ucla-cs-rising-a-g-and-graduation-outcomes.md) — related

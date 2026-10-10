@@ -47,6 +47,7 @@ The article recommends a bundle of student-agency practices: Student-Led Confere
 - [Listen to the Voices of Students](listen_to_the_voices_of_students.md)
 - [Listening to the Voices of Students in PBL](listening_to_the_voices_of_students_in_pbl.md)
 - [Cede Power (Student Voice)](cede-power-student-voice.md)
+- [Student-led conferences in which students present their cumulative work, reflect, and set goals with families and advisors](student-led-conferences-gateway.md)
 
 ## Examples
 -

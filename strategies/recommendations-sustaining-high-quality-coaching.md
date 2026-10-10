@@ -45,6 +45,7 @@ Based on survey findings, the report recommends that principals and district adm
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 - [Meet consistently with the coach throughout the school year in dedicated one-on-one time](administrator-coach-regular-meetings.md)
 - [Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation](systemic-coaching-program-design-six-pillars.md)
+- [Strengthen administrator induction by integrating it into a continuum of supports, mandating coach training and consistent coaching intervals, building program–district partnerships, and using CalAPA results to inform coaching](strengthen-induction-continuum-coaching-partnerships.md)
 
 ## Examples
 -

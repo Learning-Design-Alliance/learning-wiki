@@ -47,3 +47,4 @@ The page summarizes classroom-approach research on the Classrooms section, asser
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — a broader claim this one bears on
 - [Implementing specific SEL curricula can improve academic performance, including learning to read](sel-curricula-improve-academic-performance.md) — a narrower finding that bears on this claim
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
+- [School-based SEL programs promote the development of social and emotional competencies across grade levels](sel-programs-promote-social-emotional-competencies.md) — related

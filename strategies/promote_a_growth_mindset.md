@@ -87,6 +87,7 @@ Growth mindset interventions have produced measurable gains in achievement for s
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the feedback mechanism through which mindset messages are delivered
 - [Formative Assessment](../principles/assessment-for-learning.md) — revision-friendly assessment structures make effort visibly productive
 - [Teachers enact agency-building instruction through five moves: valuing strengths, fostering autonomy, encouraging initiative, reinforcing growth mindset, and modeling metacognition](five-teacher-moves-build-el-agency.md)
+- [Growth-mindset-informed math teaching practices: norms, no fixed labels, mixed-ability grouping, process praise, and formative assessment with retakes](growth-mindset-teaching-practices-list.md)
 
 ## Examples
 - **[Youcubed](https://www.youcubed.org)** (Jo Boaler, Stanford) — mathematical mindset lessons and teacher resources built around the claim that everyone can learn math to high levels; includes error-normalization routines and "low floor, high ceiling" tasks.

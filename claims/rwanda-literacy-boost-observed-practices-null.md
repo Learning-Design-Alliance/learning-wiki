@@ -47,3 +47,4 @@ Observational component of the Rwanda Literacy Boost randomized controlled trial
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](stella-comparison-pd-equivalent-implementation-ratings.md) — related
 - [Teacher PD in rural Rwanda raised teachers' early literacy pedagogical content knowledge relative to control sectors](rwanda-literacy-boost-pck-gains.md) — related
 - [The PD program had a large and significant impact on classroom print environments in rural Rwanda](rwanda-literacy-boost-print-environment.md) — related
+- [STeLLA content-plus-pedagogy PD produced greater student science gains than content-only training](stella-outperformed-content-only-pd.md) — related

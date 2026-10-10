@@ -87,3 +87,5 @@ Linking mentor coaching reports to first-year REACH ratings for hired student te
 - [Mentor teachers' own evaluation ratings were positively related to their student teachers' first-year effectiveness as teachers-of-record](cps-mentor-evaluation-ratings-related-to-student-teachers-first-year-effectiveness.md) — related
 - [Student teaching in higher- or lower-achieving CPS schools made no difference in teachers' first-year REACH ratings](cps-placement-school-characteristics-unrelated-first-year-effectiveness.md) — related
 - [States that survey new teachers typically do so in the first year of teaching](states-survey-completers-first-year.md) — related
+- [Mentoring residents improves mentors' own teaching practice](mentoring-residents-improves-mentor-practice.md) — related
+- [STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it](stem-plcs-deepen-teacher-content-knowledge.md) — related
