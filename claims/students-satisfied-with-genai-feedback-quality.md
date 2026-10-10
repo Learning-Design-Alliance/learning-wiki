@@ -47,3 +47,4 @@ Descriptive qualitative analysis of participant interviews and structured diarie
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction](ai-use-reduces-accomplishment-intrinsic-value.md) — reports the opposite
+- [School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction](school-side-support-genai-engagement.md) — related

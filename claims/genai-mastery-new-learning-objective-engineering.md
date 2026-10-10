@@ -68,3 +68,4 @@ Second finding within the objectives-of-learning theme, reporting "widespread un
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
+- [The GenAI session strengthened immediate AI-handling confidence and workflow literacy, but students remained hesitant about transferring these skills to employment](gen-aitecture-ai-handling-confidence-transfer-hesitation.md) — related

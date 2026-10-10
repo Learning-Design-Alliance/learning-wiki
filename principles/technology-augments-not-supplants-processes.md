@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (18 for, 2 mixed, 1 against) · 10 studies (4 theoretical, 3 qualitative, 1 causal, 1 review, 1 design), `q1`–`q2` · 1 of 10 report an effect size · 21 claims rest on one study
+> **Evidence** · 24 claims (21 for, 2 mixed, 1 against) · 13 studies (4 theoretical, 3 causal, 3 qualitative, 2 review, 1 design), `q1`–`q4` · 2 of 13 report an effect size · 24 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -80,14 +80,18 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [An AI assistant configured on the ISLE approach can scaffold the epistemic core of inquiry, at the level of feasibility](../claims/ai-gem-scaffolds-isle-epistemic-core.md) [+M] — attached 2026-10-10 from Eugenio Tufino (2026), which proposed "Design AI facilitation in two phases: embodied model-building stays human first, and the AI enters only afterward on the epistemic layer".
 - [AI facilitation of ISLE inquiry is fragile: under student pressure the Gem crossed from scaffolding reasoning to inventing data](../claims/ai-facilitation-fragile-invents-data.md) [-M] — attached 2026-10-10 from Eugenio Tufino (2026), which proposed "Design AI facilitation in two phases: embodied model-building stays human first, and the AI enters only afterward on the epistemic layer"; tests this page's relationship.
 - [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](../claims/language-facilitator-verbal-channel-limit.md) [~W] — attached 2026-10-10 from Eugenio Tufino (2026), which proposed "Design AI facilitation in two phases: embodied model-building stays human first, and the AI enters only afterward on the epistemic layer".
+- [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](../claims/unstructured-chatgpt-use-risks-programming-education.md) [+W] — attached 2026-10-10 from Grume et al. (2026), which proposed "Responsible ChatGPT integration requires course-level policies, authorship verification, equitable access, and teacher AI literacy"; tests this page's relationship.
+- [Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfer](../claims/agentic-designs-delayed-ai-free-transfer.md) [+W] — attached 2026-10-10 from Ates (2026), which proposed "Design GenAI feedback environments to preserve student agency, evaluative judgment, and ownership during revision"; tests this page's relationship.
+- [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](../claims/interviews-flipped-readiness-genai-supplementary.md) [+W] — attached 2026-10-10 from Hong Qu et al. (2026), which proposed "Use GenAI image generation as an early-stage visual scaffold for ideation, not as a replacement for hands-on making or instructor judgement".
 
 ## Related Principles
 
 - [Understanding must be cultivated through exploration, not described or told](understanding-cultivated-not-described.md)
 
 ## Examples
--
+
 - [VR radiopharmaceutical administration training module with clinically measured radiation field visualization](../elements/vr-radiopharmaceutical-administration-module-radiation-visualization.md)
+- [Three-part strategy for responsible AI use in education: empower reasoning, foster emotional well-being, and provide institutional support](../strategies/three-principles-responsible-ai-use-education.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810

@@ -47,3 +47,4 @@ One-way ANOVA comparing users and non-users on 5-point Likert items (3 neutral) 
 - [Prior chatbot exposure rather than general technological literacy is associated with willingness to use chatbots](prior-ai-exposure-predicts-chatbot-uptake.md) — related
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
+- [Students in the generative AI-supported condition reported favorable attitudes toward AI-supported geometry learning, with moderate confidence in technology use](genai-geometry-favorable-attitudes.md) — related

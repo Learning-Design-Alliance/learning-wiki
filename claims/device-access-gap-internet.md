@@ -58,3 +58,4 @@ Descriptive survey of technology capacities in New York charter schools immediat
 - [Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns](student-focus-group-perceptions-courseware.md) — related
 - [In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary](technology-access-most-significant-barrier-informal-virtual.md) — related
 - [Universities' GenAI policies widely embrace core ethical and governance principles but often overlook inclusion, equity, and sustainability issues such as internet access, gender parity in AI, and environmental impact](genai-policies-overlook-inclusion-equity-sustainability.md) — related
+- [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence](contextual-barriers-persistence-theme.md) — related

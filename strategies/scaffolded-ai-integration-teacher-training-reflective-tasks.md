@@ -46,6 +46,7 @@ The review recommends that Arab universities integrate AI tools into EL2 instruc
 - [Use ChatGPT as a supplementary tool for grammar, writing, and conversational practice so teachers can focus on higher-order thinking skills, while integrating human interaction to offset emotional detachment](chatgpt-supplementary-tool-human-interaction-balance.md)
 - [Design AI-integration activities that set explicit expectations for AI-assisted work, integrate reflective assessments of AI outputs, and build tasks strengthening critical thinking and academic integrity](explicit-expectations-reflective-assessments-ai-tasks.md)
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
+- [Train teachers to use generative AI as a scaffold for mathematical thinking rather than as a source of answers](train-teachers-genai-scaffold-not-answers.md)
 
 ## Examples
 -

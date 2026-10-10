@@ -66,3 +66,4 @@ Pairwise comparison within the same Kruskal-Wallis analysis of argument-quality 
 - [The PS-GenAI-PF group outperformed the PF group on rebuttal data and warrant and on addressing the opposing view](ps-genai-pf-improves-rebuttals-and-opposing-view.md) — a narrower finding that bears on this claim
 - [Most individual argument structure and quality dimensions showed no significant differences across the three peer feedback conditions](null-results-argument-dimensions-genai-peer-feedback.md) — related
 - [GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group](genai-peer-feedback-shifts-feedback-quality-profile.md) — related
+- [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — related

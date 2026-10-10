@@ -76,6 +76,7 @@ Performance support shifts the instructional goal from "train everything in adva
 **[Checklists in the WHO Surgical Safety Checklist](https://www.who.int/teams/integrated-health-services/patient-safety/research/safe-surgery)** — A performance support artifact proven to reduce surgical complications by prompting critical steps at decision points, demonstrating that support works for experts on high-stakes, low-frequency tasks.
 
 **[Salesforce In-App Guidance](https://help.salesforce.com/s/articleView?id=000387061&type=1)** — Embedded prompts and walkthroughs delivered inside the CRM interface, keyed to the specific screen and user role.
+- [Embed factor-aware guidance directly within analytics tools at the point of interpretation](../strategies/embed-factor-aware-guidance-in-analytics-tools.md)
 
 ## Key Sources
 - van Merriënboer, J. J. G., & Kirschner, P. A. (2018). *Ten steps to complex learning* (3rd ed.). Routledge.

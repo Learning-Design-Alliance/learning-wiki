@@ -50,3 +50,4 @@ Heterogeneity assessment in the re-analysis of Leary et al. (2013) data across 3
 - [Robust variance estimation shows study of origin does not impact the final effect size in the PBL tutor-background data](rve-study-of-origin-no-impact.md) — related
 - [Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model](srl-meta-analysis-high-heterogeneity.md) — related
 - [Warning effect size shows no significant heterogeneity across topics and studies](warning-effect-no-heterogeneity-across-topics.md) — reports the opposite
+- [Effect sizes across GenAI studies are highly heterogeneous, requiring random-effects pooling](genai-effect-heterogeneity-random-effects.md) — a narrower finding that bears on this claim

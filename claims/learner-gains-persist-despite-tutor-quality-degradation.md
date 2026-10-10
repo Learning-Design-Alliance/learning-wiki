@@ -69,3 +69,4 @@ Decoupling analysis (§5.3) using Pearson correlations between learner-side and 
 - [Users alter expectations and behavior based on perceived AI capabilities even when actual AI performance is unchanged (the placebo effect of AI)](placebo-effect-of-ai-perceived-capabilities.md) — related
 - [Curiosity gains depend on operator sequencing: how operators are ordered across turns, not only which operator is applied, shapes curiosity induction](operator-sequencing-affects-curiosity-gains.md) — related
 - [Commercially optimized study-oriented modes achieve higher learner-side scores than baseline, and CURIOBOT shifts general-purpose LLM behavior toward those patterns via prompting alone](study-oriented-modes-upper-bound-reference.md) — related
+- [Family-side evidence on GenAI guidance is thin, largely descriptive, and centered on parental beliefs and mediation strategies](family-side-parental-mediation-genai.md) — related

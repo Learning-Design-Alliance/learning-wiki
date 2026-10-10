@@ -52,3 +52,4 @@ Cold-start benchmark experiments on NIPS34, Algebra05, Assist09, Science, and So
 - [Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.](existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial.md) — related
 - [SAKT underperforms DKT on all nine datasets, contradicting previously reported results](sakt-underperforms-dkt-all-datasets.md) — related
 - [Fine-tuning on KTLP data improved CLST output calibration, moving predictions closer to the ideal diagonal](fine-tuning-improves-clst-calibration.md) — related
+- [The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts](educlaw-bench-simulator-calibration.md) — related

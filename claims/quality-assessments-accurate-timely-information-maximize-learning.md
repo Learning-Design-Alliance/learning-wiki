@@ -47,3 +47,4 @@ The book's stated aim, as printed in its description: it hopes to "shift the foc
 - [Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students](conditional-reliability-low-at-score-tails.md) — related
 - [The article argues for shifting from the definition of validity to the concept of effectiveness for classroom assessment score use](shift-from-validity-to-effectiveness.md) — related
 - [Teachers report changing high-quality instruction to match state and interim test formats, limiting deep learning opportunities](teachers-alter-instruction-to-match-test-formats.md) — related
+- [GenAI is argued to create an opportunity to move assessment away from sorting and ranking students toward recognising diverse ways of knowing](genai-opportunity-move-beyond-sorting-ranking.md) — related

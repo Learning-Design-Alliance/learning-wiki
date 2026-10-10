@@ -107,3 +107,8 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Users alter expectations and behavior based on perceived AI capabilities even when actual AI performance is unchanged (the placebo effect of AI)](placebo-effect-of-ai-perceived-capabilities.md) — related
 - [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](ase-stress-and-si-dependence-null-paths.md) — related
 - [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related
+- [Students with a better understanding of how AI systems work show higher academic self-efficacy](ai-understanding-higher-self-efficacy.md) — related
+- [Teachers link low motivation and buy-in to middle-school developmental constraints, peer norms, and prior negative experiences with math or i-Ready](motivation-buy-in-theme-persistence.md) — related
+- [Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support](resilience-teachable-skill-unsupported.md) — related
+- [Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction](student-confidence-readiness-self-efficacy-collaboration.md) — related
+- [Middle school mathematics teachers frame low persistence in i-Ready Math as an interaction among motivational, cognitive, and contextual factors, with four recurring themes](teachers-frame-low-persistence-four-themes.md) — a narrower finding that bears on this claim

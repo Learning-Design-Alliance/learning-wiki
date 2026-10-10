@@ -53,3 +53,4 @@ Phase 1 focus groups and survey with CCC students surfaced concrete edtech quali
 - [Well-designed courseware enhances efficiency, supports independent student navigation, and lets faculty focus on teaching rather than technical challenges](courseware-efficiency-usability-gateway-math.md) — related
 - [Students are dissatisfied with college websites and want interactive, dynamic, accurate, and timely online information](students-dissatisfied-with-college-websites.md) — related
 - [Community college students want to feel connected to their college — faculty, staff, peers, and services — from entry through completion](students-want-connection-to-college-throughout-experience.md) — related
+- [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related

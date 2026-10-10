@@ -40,7 +40,8 @@ The review proposes a four-layer workplace assessment keeping measurement target
 - Four Domain Genai Measurement Framework
 
 ## Related Strategies
-- 
+
+- [Use a six-question drafting and audit framework for GenAI assessment rules covering task rules, defaults, disclosure, contribution, verification, and hierarchy](six-question-genai-policy-audit-framework.md)
 
 ## Examples
 -

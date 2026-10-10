@@ -47,3 +47,4 @@ Narrative review reporting Pardos and Bhandari's expert-review procedure for GPT
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — a broader claim this one bears on
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Instructor verification of AI-generated content before delivery is feasible and crucial for quality, per prior systems reviewed](instructor-verification-feasible-crucial.md) — related
+- [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related

@@ -47,3 +47,5 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
 - [Students raised ethical concerns about GenAI-assisted data comic creation, most frequently misinformation, bias, ownership, and reduced trustworthiness](student-ethical-concerns-genai-data-comics.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
+- [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](qualities-metaphors-genai-unknowable-unreliable.md) — related
+- [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related

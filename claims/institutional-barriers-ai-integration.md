@@ -51,3 +51,5 @@ Multi-select survey item on institutional challenges among 72 respondents: ethic
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
 - [Community survey of power-and-energy researchers and practitioners finds barriers to running AI models are nearly universal, affecting even experienced users](survey-ai-barriers-power-community-nearly-universal.md) — related
+- [Students at the same university interpreted and responded to GenAI policy in markedly different ways, from embracing adoption to principled resistance](divergent-student-responses-genai-policy.md) — related
+- [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](genai-accuracy-overreliance-challenges-hss.md) — related

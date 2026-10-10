@@ -104,3 +104,4 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [After training, d.tech teachers adopted low-stakes practice tests and spaced, interleaved practice in their classrooms](dtech-teachers-adopt-retrieval-interleaving.md) — related
 - [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — a narrower finding that bears on this claim
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related
+- [Students rarely open transfer-practice cards immediately after solving; they want such problems organized into delayed, spaced wrong-book review instead](transfer-practice-timing-mismatch-delayed-review.md) — related

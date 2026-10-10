@@ -57,8 +57,10 @@ The strategy works because it grounds abstract ecological concepts in concrete, 
 5. Provide expert feedback on the plausibility of inferred relationships, correcting misconceptions before they consolidate
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — front-loading organism and habitat knowledge sharpens what learners notice in the environment
 - [Case-Based Learning](../patterns/case-based-learning.md) — track reconstruction is a miniature case: reconstructing an event from evidence and comparing interpretations
+- [Design assignments and assessment environments with observability of cognitive participation in mind](design-assessments-for-observability-of-participation.md)
 
 ## Examples
 - **People Interacting with the Environment (KDE)** — learners explore the characteristics of environments and their inhabitants through structured observation of a living system

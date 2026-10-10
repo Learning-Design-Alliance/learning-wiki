@@ -45,3 +45,4 @@ Weighted descriptive analysis of the mentoring survey reported in figure 3 and t
 ## Related Claims
 - [Most first-year Missouri teachers in the study met with their mentors several times a month for meetings averaging less than 30 minutes](missouri-first-year-teachers-frequent-brief-mentor-meetings.md) — related
 - [Topic coverage was bimodal: about a third of teachers received moderate or substantial guidance on all 10 topics while another third received guidance on three or fewer](mentoring-topic-coverage-bimodal.md) — related
+- [Mentor interactions (60.2%) outnumbered teacher interactions (39.8%) in the workshop, with mentor Explanation most frequent and teacher Respond to Questions and Proposing Ideas most frequent](mentor-teacher-interaction-frequency-distribution.md) — related

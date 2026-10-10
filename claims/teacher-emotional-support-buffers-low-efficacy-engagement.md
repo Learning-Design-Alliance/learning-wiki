@@ -51,3 +51,4 @@ Observational study of 387 5th-grade students and their 63 math teachers, with i
 - [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](self-efficacy-intercept-predicts-achievement-growth-mediation.md) — related
 - [Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset](sel-trajectory-trends-middle-school.md) — related
 - [Non-ELLs outscore ELLs in math, reading, and self-efficacy at every timepoint, with a 2015 self-efficacy gap exceeding .35 standard deviations](ell-non-ell-gaps-math-reading-self-efficacy.md) — related
+- [Teachers link low motivation and buy-in to middle-school developmental constraints, peer norms, and prior negative experiences with math or i-Ready](motivation-buy-in-theme-persistence.md) — related

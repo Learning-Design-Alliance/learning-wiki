@@ -69,3 +69,4 @@ Descriptive group-specific coefficients from Table 9; the authors present these 
 - [Trust in AI is positively associated with university students' dependence on GenAI](trust-in-ai-positively-associated-genai-dependence.md) — related
 - [The relationship between professional identity and innovative behavior is stronger among teachers with lower reported frequencies of GenAI tool use](professional-identity-innovation-link-stronger-among-low-frequency-genai-users.md) — reports the opposite
 - [ASR usage frequency moderately predicts reflective behavior but does not significantly predict learning motivation](asr-usage-frequency-reflection-not-motivation.md) — related
+- [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](genai-duration-related-cognitive-gains.md) — related

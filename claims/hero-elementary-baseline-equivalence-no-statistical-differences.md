@@ -58,3 +58,4 @@ Baseline equivalence analysis reported in the participant characteristics sectio
 - [Within-group achievement gains were significant for the CCCT group but not for the control group](ccct-within-group-achievement-gain.md) — related
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
+- [Randomization produced baseline-equivalent conditions across the four feedback designs](baseline-equivalence-four-feedback-conditions.md) — related

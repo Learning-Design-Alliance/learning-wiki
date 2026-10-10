@@ -46,3 +46,4 @@ Theoretical argument in the abstract and introduction of this position paper: co
 - [Instructor verification of AI-generated content before delivery is feasible and crucial for quality, per prior systems reviewed](instructor-verification-feasible-crucial.md) — related
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
 - [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related
+- [The xOrder fairness method proved inapplicable at institutional scale, with runtime scaling of approximately n^2.36](xorder-intractable-institutional-scale.md) — related

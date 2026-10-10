@@ -50,6 +50,7 @@ The article recommends that edtech teams evaluate their AI models and outputs be
 - [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 - [Deploy a minimal baseline chatbot to bootstrap its own annotated evaluation corpus and improve incrementally](bootstrapping-baseline-annotated-corpus.md)
+- [Pre-deployment gate and per-epoch helpfulness rollback for vendors shipping LLM tutors to K-12 learners](educlaw-bench-deployment-gates-and-early-stopping.md)
 
 ## Examples
 -

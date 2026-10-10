@@ -47,3 +47,4 @@ Judgment in Table 1 of the qualitative evaluation. The author notes Khanmigo is 
 - [Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask](khanmigo-positive-impact-not-supported.md) — related
 - [Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners](khanmigo-meaning-focus-partially-supported.md) — related
 - [Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners](khanmigo-learner-fit-not-supported.md) — related
+- [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related

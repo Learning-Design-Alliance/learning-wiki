@@ -54,3 +54,5 @@ Pre-institute survey of ten participants (Tables 9 and 10) with multiple-respons
 - [Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%](ubridge-confidence-gains-pre-post.md) — related
 - [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](genai-overreliance-threatens-clinical-readiness.md) — related
 - [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](institutional-barriers-ai-integration.md) — related
+- [Persistent research gaps in AI-integrated business education concern curriculum coherence, educator readiness, and assessment validity](persistent-gaps-ai-business-education.md) — related
+- [University academic staff express substantial concerns about academic integrity, ethics, and erosion of skills such as critical thinking and creativity in relation to GenAI.](staff-concerns-genai-integrity-skill-erosion.md) — a broader claim this one bears on

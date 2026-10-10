@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 35 claims (28 for, 5 mixed, 2 against) · 40 studies (12 causal, 8 quant-synthesis, 7 review, 4 qualitative, 4 design, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 40 report an effect size · 31 claims rest on one study
+> **Evidence** · 38 claims (30 for, 5 mixed, 3 against) · 42 studies (13 causal, 8 quant-synthesis, 7 review, 5 design, 4 qualitative, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 42 report an effect size · 34 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -68,6 +68,9 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Attention across the SDGs is uneven, with focus on SDG 9 but limited engagement with SDG 4 and SDG 14](../claims/uneven-sdg-attention-sdg9-versus-sdg4-sdg14.md) [+M] — instruction changes it
 - [Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others](../claims/divided-views-star-rating-display.md) [~M] — instruction changes it
 - [Videos experienced as higher attention difficulty were associated with lower normalized quiz learning gains, providing convergent evidence that the probe captures an educationally meaningful aspect of momentary engagement](../claims/attention-difficulty-inversely-related-quiz-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Attention allocated to the secondary AOI remained limited and did not differ significantly between conditions in duration or time to first fixation](../claims/secondary-aoi-attention-limited-no-difference.md) [-M] — instruction changes it
+- [Gaze-based assistance supported a smoother attention transition between narrated regions, while baseline assistance elicited more abrupt reorientation](../claims/gaze-assistance-smaller-attention-transition.md) [+M] — instruction changes it
+- [Step-linked visual grounding externalizes spatial reasoning: synchronized diagrams that reveal auxiliary lines step by step reduce split-attention effort](../claims/step-linked-visualization-externalizes-reasoning.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

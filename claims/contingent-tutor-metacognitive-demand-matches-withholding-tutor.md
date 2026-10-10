@@ -69,3 +69,4 @@ Forced-choice comparative attributions collected once after all three tasks from
 - [On a text channel, fading holds when the learner's turn is aimed at the decision under support, regardless of its depth](aim-warrant-for-fading-ai-tutor.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](tblt-four-ethical-tensions.md) — related
+- [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — related

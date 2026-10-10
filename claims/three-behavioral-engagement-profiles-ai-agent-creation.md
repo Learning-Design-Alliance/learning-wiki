@@ -49,3 +49,4 @@ Hierarchical clustering (Ward's linkage, squared Euclidean distance) on seven st
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related
 - [Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers](three-archetypes-multi-agent-workflow-design.md) — related
 - [Policy packages fall into four archetypes defined by which design element is missing](four-policy-archetypes-ai-guidance.md) — related
+- [In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle](workshop-iterative-ai-creation-process-cordtra.md) — related

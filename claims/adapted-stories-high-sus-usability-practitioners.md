@@ -46,3 +46,4 @@ Summative usability study (Phase 3) with seven UAE-based special-education pract
 - [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](thermos-lad-sus-good-excellent-usability.md) — related
 - [In early prototype testing, AI-generated visuals were the main barrier to real-world readiness, rated lower than text and narration](ai-visual-generation-main-barrier-prototype.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
+- [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related

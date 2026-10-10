@@ -52,3 +52,6 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](genai-overreliance-threatens-clinical-readiness.md) — related
 - [Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education](infrastructure-access-main-barrier-digitally-supported-teacher-education.md) — related
 - [Teachers are more concerned about students' use of GenAI than about their own use](teachers-more-concerned-student-genai-use.md) — related
+- [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](genai-accuracy-overreliance-challenges-hss.md) — related
+- [Persistent research gaps in AI-integrated business education concern curriculum coherence, educator readiness, and assessment validity](persistent-gaps-ai-business-education.md) — related
+- [Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.](staff-equity-concerns-genai-access-uncertain-responsibilities.md) — related

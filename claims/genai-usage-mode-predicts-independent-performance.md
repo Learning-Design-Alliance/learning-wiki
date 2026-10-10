@@ -47,3 +47,6 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 - [Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values](value-effort-tension-ai-shortcuts.md) — related
 - [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](adaptive-retrieval-posttest-retention-advantage.md) — related
 - [Dual-threshold instability: accelerated breakdown when internal generative engagement and genAI reliability both fall below task demands](dual-threshold-instability-hybrid-cognition.md) — related
+- [Students use the integrated AI assistant differently across writing stages: clarification early, verification late](assistant-use-varies-by-writing-stage.md) — related
+- [AI-assisted speed becomes a recalibrated performance baseline, making manual work feel slow and inadequate](genai-speed-recalibrates-performance-baseline.md) — related
+- [After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases](genai-use-concentrates-in-uncertain-design-phases.md) — related

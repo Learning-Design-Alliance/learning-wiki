@@ -41,6 +41,8 @@ The review's recommendations section advises instructors to proactively incorpor
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Build educational AI with pedagogical guardrails such as withholding direct solutions and embedded reflection steps](pedagogical-guardrails-educational-ai.md)
 - [Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation](embed-ai-training-within-science-pedagogy-inquiry-teaching.md)
+- [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
+- [Design PjBL projects so students must evaluate, critique, and improve AI-generated outputs rather than prohibiting AI use](design-projects-for-evaluating-ai-outputs.md)
 
 ## Examples
 -

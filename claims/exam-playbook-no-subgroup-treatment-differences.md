@@ -45,3 +45,4 @@ Moderation analyses within the two randomized cohorts of the Strategic Resource 
 ## Related Claims
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — a broader claim this one bears on
 - [A strategic resource-use exam playbook intervention raised final course grades in introductory statistics across two randomized cohorts, with a dosage effect for completing it twice](exam-playbook-strategic-resource-use-raises-statistics-grades.md) — related
+- [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related

@@ -48,3 +48,5 @@ Qualitative thematic analysis of free-response survey answers from 89 CS1-CR stu
 - [CS1-CR students reported overwhelmingly positive sentiment toward code reviews, with 65% agreeing they helped avoid over-reliance on AI and 90% reporting increased motivation to understand their code](cs1-cr-positive-sentiment-code-reviews.md) — related
 - [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related
 - [Office hours attendance and Piazza posting declined over prior semesters and rose in Fall 2025 when LLMs and retakes were allowed](help-seeking-decline-then-rise-dura-semester.md) — related
+- [Participants used the Flowcode LLM across all stages of their design process, most frequently asking for code explanations](llm-use-across-design-stages.md) — related
+- [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related

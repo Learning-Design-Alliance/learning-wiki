@@ -50,6 +50,7 @@ The article recommends that institutions fund AI literacy initiatives that embed
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Integrate AI literacy into health sciences curricula and tailor career counselling to programme type](ai-literacy-curriculum-career-counselling-strategy.md)
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
+- [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (42 for, 9 mixed, 4 against) · 42 studies (22 associational, 6 review, 5 qualitative, 4 causal, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 42 report an effect size · 52 claims rest on one study
+> **Evidence** · 56 claims (43 for, 9 mixed, 4 against) · 43 studies (22 associational, 6 review, 6 qualitative, 4 causal, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 43 report an effect size · 53 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -88,6 +88,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [AIxSpeed phoneme-level adaptive playback yields higher listenability ratings than constant-speed playback at matched average speed](../claims/aixspeed-adaptive-playback-higher-listenability.md) [+M] — instruction changes it
 - [Infrastructure barriers — limited internet speed, connectivity problems and lack of technical support — hinder effective AI use in nursing education institutions](../claims/infrastructure-barriers-ai-use-nursing-education.md) [+M] — learners who differ on it differ in outcomes
 - [Score-access barriers push musicians with BLV toward memorization and listening-based learning, and accessible notation tools miss performance-critical details](../claims/blv-score-access-memorization-default.md) [+M] — learners who differ on it differ in outcomes
+- [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence](../claims/contextual-barriers-persistence-theme.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Digital literacy — whether they can operate it, as against whether they can perceive it.

@@ -48,3 +48,4 @@ Kruskal-Wallis H test over 12 groups (four per condition) in a 16-week teacher e
 - [Epistemic network analysis linked the PS-GenAI-PF group to negative emotions and higher-order feedback content associations](ena-ps-genai-pf-negative-emotions-higher-order-content.md) — related
 - [Most individual argument structure and quality dimensions showed no significant differences across the three peer feedback conditions](null-results-argument-dimensions-genai-peer-feedback.md) — related
 - [GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group](genai-peer-feedback-shifts-feedback-quality-profile.md) — related
+- [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — related

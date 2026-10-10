@@ -53,3 +53,5 @@ Final questionnaire question, "What should higher education institutions do abou
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related
 - [Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education](genai-hybrid-policy-guidelines-governance-consensus.md) — related
 - [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](nursing-academics-report-genai-policy-ambiguity.md) — related
+- [Chinese HSS students prefer partial or optional GenAI curricular integration supported by practice-oriented training and clear institutional guidelines](genai-partial-integration-preferences-hss.md) — related
+- [The GenAI higher-education literature invokes responsibility frequently but almost never assigns accountability to AI or names a responsible bearer](responsibility-invoked-but-bearer-unnamed.md) — related

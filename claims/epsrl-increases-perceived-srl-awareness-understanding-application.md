@@ -87,3 +87,4 @@ Wilcoxon Signed-Ranks pre-post comparison of perceived likelihood of applying se
 - [Using the ePSRL Management System shows no significant difference in mean assessment results or mean attempts per quiz between users and non-users](epsrl-no-difference-assessment-results-quiz-attempts.md) — related
 - [Training SRAE facilitators significantly increased their self-reported knowledge of self-regulation](srae-co-regulation-training-increases-self-regulation-knowledge.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
+- [Intervention-cohort students reported positive pre–post shifts in Innovation and Motivation and Self-Directed Learning Ability](prepost-shifts-innovation-motivation-self-directed-learning.md) — related

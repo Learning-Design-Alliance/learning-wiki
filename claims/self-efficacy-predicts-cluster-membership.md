@@ -50,3 +50,4 @@ Binary logistic regression on the survey of 236 participants with GSE score pred
 - [Security intentions and objective knowledge correlate with preparedness, and self-efficacy correlates with confidence](scales-correlate-with-attitude-factors.md) — related
 - [Two attitude clusters differ significantly on preparedness, confidence, and interest (p<.0001), with Cluster 1 lower on Pew and GSE but not SeBIS, and reporting more word-of-mouth learning](two-attitude-clusters-differ-preparedness-confidence.md) — related
 - [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
+- [Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction](student-confidence-readiness-self-efficacy-collaboration.md) — related

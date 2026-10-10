@@ -27,7 +27,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (13 for, 5 mixed, 1 against) · 32 studies (9 causal, 9 quant-synthesis, 7 review, 3 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 32 report an effect size · 10 claims rest on one study
+> **Evidence** · 20 claims (13 for, 6 mixed, 1 against) · 33 studies (10 causal, 9 quant-synthesis, 7 review, 3 design, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 8 of 33 report an effect size · 11 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Claims this page did not cite before, found while converting it, which bear on p
 - [Feedback Makes Behaviour Seen Asynchronous](../claims/feedback-makes-behaviour-seen-asynchronous.md) [+W]
 - [Identifying a stage of student learning does not necessarily mean teachers can identify next instructional steps](../claims/noticing-not-enough-next-steps.md) [~W] — attached 2026-10-10 from Jones et al. (2024), which proposed "Feedback should focus on the work or thinking, not the person, and preserve agency with clues rather than complete solutions".
 - [Enacted Feedback yields higher workflow-specific uptake of AI-generated feedback than Directed and Self-Directed Feedback workflows](../claims/enacted-feedback-higher-uptake-than-directed-self-directed.md) [+M] — attached 2026-10-10 from Omar Alsaiari et al. (2026), which proposed "Enacted Feedback workflow: staged selection, evaluative prioritisation, and selection-anchored AI dialogue".
+- [Feedback quality predicts revision outcomes in the teacher condition but not in the GenAI conditions](../claims/feedback-quality-predicts-revision-only-in-teacher-condition.md) [~M] — attached 2026-10-10 from Farrokhnia et al. (2026), which proposed "Use hybrid intelligent feedback systems in which teachers support students in interpreting and applying GenAI feedback".
 
 ## Objective and learner-valued goal
 

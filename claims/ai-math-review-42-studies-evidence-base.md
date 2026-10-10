@@ -48,3 +48,4 @@ PRISMA-based systematic review methodology section: two independent reviewers sc
 - [A PRISMA systematic review synthesized 80 peer-reviewed studies on AI-based proctoring in higher education published between 2014 and 2024](aips-systematic-review-80-studies-2014-2024.md) — related
 - [The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders](chatgpt-study-coding-kappa-082.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [Blinded dual evaluation of artworks reached almost perfect inter-rater agreement (kappa = 0.92)](inter-rater-kappa-092-art-scoring.md) — related

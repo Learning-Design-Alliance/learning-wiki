@@ -45,3 +45,4 @@ One-sample t-tests in the RQ1 results of the survey study (n = 121 cohort) showe
 ## Related Claims
 - [Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users](chatbot-users-more-positive-than-non-users.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
+- [Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative](generally-positive-attitudes-gen-ai-problem-posing.md) — a narrower finding that bears on this claim

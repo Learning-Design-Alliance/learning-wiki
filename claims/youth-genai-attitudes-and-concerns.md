@@ -53,3 +53,5 @@ Survey data reported in the learner-gaps section: non-using youth cited "concern
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
 - [Nursing academics hold divergent attitudes toward GenAI, from scepticism to pragmatic acceptance, and worry it may replace rather than support student learning](divergent-academic-attitudes-genai-nursing.md) — related
 - [PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data](opposition-genai-human-centred-research-data.md) — related
+- [Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative](generally-positive-attitudes-gen-ai-problem-posing.md) — related
+- [Surveys show young adults are the heaviest educational ChatGPT users and most worry about data privacy](student-ai-adoption-and-concerns-surveys.md) — related

@@ -53,3 +53,5 @@ The presenters assert this principle in their 'Questions about Learning with Gen
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — related
 - [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related
 - [AI in education poses challenges across three interrelated domains: knowledge itself, the process of knowing, and the socio-environmental impact of knowledge production](ai-education-three-challenge-domains.md) — related
+- [Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation](genai-accelerates-routine-sysadmin-tasks.md) — a narrower finding that bears on this claim
+- [AI-assisted speed becomes a recalibrated performance baseline, making manual work feel slow and inadequate](genai-speed-recalibrates-performance-baseline.md) — related

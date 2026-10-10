@@ -68,6 +68,8 @@ Dashboards are only as effective as the self-regulatory behavior they trigger; d
 - [Include reference frames in a LAD and balance dashboard support with integration into existing educational structures](lad-reference-frames-and-educational-integration.md)
 - [Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard](ct-profile-differentiated-teacher-training-dashboard.md)
 - [Seven recommendations for effective courseware integration by instructors](seven-courseware-integration-recommendations.md)
+- [Embed factor-aware guidance directly within analytics tools at the point of interpretation](embed-factor-aware-guidance-in-analytics-tools.md)
+- [Design teacher-facing analytics that support interpretation of student persistence within classroom contexts](teacher-facing-analytics-persistence-interpretation.md)
 
 ## Examples
 - **[Open University, UK — "Student Progress Dashboard"](https://www.open.ac.uk)** — self-referenced progress indicators shown to distance learners; evaluated studies found effects depended on students' prior attainment.

@@ -51,3 +51,4 @@ The report's introduction, a synthesis of learning-sciences research, asserts th
 - [Education leaders believe continuous improvement, when done well, can unearth issues of equity and reveal root causes of inequities in education systems](ci-done-well-unearths-equity-issues.md) — related
 - [Prior seasonal studies were limited to social-category skill gaps and early grades](seasonal-studies-limited-categories-early-grades.md) — related
 - [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](positive-relationships-support-secondary-learning-wellbeing.md) — related
+- [Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals](educational-innovations-exacerbate-learning-gaps-without-attention.md) — related

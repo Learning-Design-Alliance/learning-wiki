@@ -52,3 +52,4 @@ The review reports the Weber-Wulff et al. independent evaluation across "multipl
 - [In a paired exploratory comparison, extensive machine rewriting by a commercial humanizer materially degraded the manuscript while changing the detection score only slightly](humanizer-rewriting-small-score-change.md) — related
 - [A webcam-only automatic cheating detector achieved recall of 78.6%, precision of 84.6%, and accuracy of 83.3% in a MOOP experiment](moop-webcam-acd-detection-metrics.md) — related
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
+- [Identifying copy-typed sessions requires combining product and process views, since neither view is sufficient alone](copy-typing-requires-combining-product-and-process-views.md) — related

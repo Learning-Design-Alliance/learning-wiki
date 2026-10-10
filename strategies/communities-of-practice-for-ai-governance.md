@@ -71,6 +71,9 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Adopt a roadmap for ethical CAI implementation in education](roadmap-ethical-cai-implementation-education.md)
 - [Researcher-oriented GenAI guidelines that foreground each AI literacy dimension across diverse research tasks](researcher-oriented-genai-guidelines-ai-literacy-dimensions.md)
 - [Pursue sustainable AI integration in PBL through attention to design, ethics, and policy](sustainable-ai-pbl-integration-design-ethics-policy.md)
+- [Create dialogic spaces where students and educators negotiate GenAI dilemmas together](dialogic-spaces-genai-negotiation.md)
+- [Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.](genai-governance-frameworks-and-professional-training.md)
+- [Foster interdisciplinary collaboration and actively include student perspectives in institutional GenAI responses.](genai-interdisciplinary-collaboration-student-perspectives.md)
 
 ## Examples
 -

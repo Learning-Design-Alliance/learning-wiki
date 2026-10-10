@@ -48,3 +48,4 @@ In the authors' discussion of the content-based clustering of 97 students' promp
 - [Self-reported cognitive load showed no significant differences across either volume-based or content-based offloading profiles](no-cognitive-load-differences-across-offloading-profiles.md) — related
 - [Volume of offloading masks differences between offloading processes that become visible when profiling what is offloaded](offloading-volume-masks-content-differences.md) — related
 - [Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship](volume-based-offloading-profiles-prior-knowledge-authorship.md) — related
+- [Learners using a GenAI system issued prompts that offloaded tasks that may have been important for them to perform themselves, such as differentiating concepts and deciding what to learn](genai-prompt-offloading-learning-tasks.md) — related

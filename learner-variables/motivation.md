@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 76 claims (55 for, 13 mixed, 8 against) · 75 studies (25 associational, 16 causal, 15 review, 7 qualitative, 5 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 12 of 75 report an effect size · 69 claims rest on one study
+> **Evidence** · 85 claims (61 for, 15 mixed, 9 against) · 80 studies (25 associational, 18 causal, 16 review, 7 qualitative, 5 quant-synthesis, 5 design, 4 theoretical), `q1`–`q4` · 13 of 80 report an effect size · 78 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -110,6 +110,15 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Intrinsically motivated students show significantly higher proportions of evaluation and elaboration messages, while extrinsically motivated students concentrate in planning and orientation](../claims/intrinsic-motivation-higher-order-metacognition.md) [+M] — learners who differ on it differ in outcomes
 - [Motivational orientation is strongly associated with the role students assign to GenAI: intrinsically motivated students most often position it as an instructor, extrinsically motivated students as a replacement tool](../claims/motivation-shapes-genai-role-assignment.md) [+M] — learners who differ on it differ in outcomes
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](../claims/psychological-mediators-predict-deep-revision.md) [+M] — learners who differ on it differ in outcomes
+- [Dependent versus autonomous cognitive offloading to GenAI shows opposite motivational and cognitive outcome patterns](../claims/dependent-autonomous-offloading-genai.md) [~M] — instruction changes it
+- [Effects of GenAI availability on self-reported understanding are insignificant; effects on interest are significant only under the transient-COVID assumption](../claims/genai-satisfaction-understanding-null-interest-assumption-dependent.md) [~M] — instruction changes it
+- [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](../claims/genai-motivation-null-moderators-function-duration-year-gender.md) [-M] — an instructional effect differs with it
+- [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](../claims/genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) [+M] — instruction changes it
+- [GenAI used on mobile devices shows a larger motivational effect than GenAI used on computers (exploratory)](../claims/genai-motivation-effect-larger-mobile-devices.md) [+M] — an instructional effect differs with it
+- [GenAI's motivational effect is larger in collectivistic than individualistic cultural contexts (exploratory)](../claims/genai-motivation-effect-larger-collectivist-contexts.md) [+M] — an instructional effect differs with it
+- [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](../claims/genai-learning-motivation-g081.md) [+M] — instruction changes it
+- [Intervention-cohort students reported positive pre–post shifts in Innovation and Motivation and Self-Directed Learning Ability](../claims/prepost-shifts-innovation-motivation-self-directed-learning.md) [+M] — instruction changes it
+- [The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)](../claims/genai-motivation-effect-larger-university-than-school.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

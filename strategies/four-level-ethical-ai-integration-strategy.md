@@ -48,6 +48,9 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
 - [Prepare teachers to use AI expeditiously and provide AI-text detectors for evaluation, alongside updated academic-integrity rules](teacher-ai-preparedness-and-detectors-strategy.md)
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
+- [Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.](genai-governance-frameworks-and-professional-training.md)
+- [Foster interdisciplinary collaboration and actively include student perspectives in institutional GenAI responses.](genai-interdisciplinary-collaboration-student-perspectives.md)
+- [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 
 ## Examples
 -

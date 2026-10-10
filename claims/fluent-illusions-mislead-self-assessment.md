@@ -146,3 +146,4 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related
 - [Fluent, confident AI presentation gives reason to expect trust miscalibration, especially among learners with limited domain knowledge](fluent-authority-trust-miscalibration.md) — a broader claim this one bears on
 - [Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions](no-illusion-of-mastery-from-ai-practice.md) — related
+- [AI literacy instruction widened a confidence-knowledge gap: students' perceived understanding of AI tools increased significantly after instruction while actual knowledge improved minimally](ai-literacy-confidence-knowledge-gap.md) — related

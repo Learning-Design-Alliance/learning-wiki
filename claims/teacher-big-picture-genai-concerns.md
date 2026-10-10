@@ -68,3 +68,6 @@ Discussion-section synthesis of interview themes beyond Tables 1-2; teachers wor
 - [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](genai-overreliance-threatens-clinical-readiness.md) — related
 - [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](institutional-barriers-ai-integration.md) — related
 - [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related
+- [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related
+- [The article interprets the ethics gap as students viewing ethics through coursework practices and instructors treating it as an integrity question shaped by lack of institutional clarity](ethics-gap-coursework-versus-institutional-clarity-interpretation.md) — related
+- [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](genai-accuracy-overreliance-challenges-hss.md) — related

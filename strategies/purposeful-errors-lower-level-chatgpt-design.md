@@ -40,6 +40,7 @@ For error-correction skill, the article recommends that "incorporating scenarios
 ## Related Strategies
 
 - [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
+- [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
 
 ## Examples
 -

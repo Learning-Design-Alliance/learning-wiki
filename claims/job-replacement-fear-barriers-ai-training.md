@@ -52,3 +52,5 @@ The brief asserts, as an observational gap statement without printed data, that 
 - [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md) — related
 - [Engineering students come to view mastering GenAI as crucial as other engineering skills, driven by labour-market expectations, alongside widespread uncertainty about over-reliance](genai-mastery-new-learning-objective-engineering.md) — related
 - [University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use](student-ai-engagement-clusters-two-extremes.md) — related
+- [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related
+- [Students fear that declaring AI use will lead to lower marks even when permitted, creating a 'Disclosure Trap' that drives AI use underground](disclosure-trap-penalty-for-transparency.md) — related

@@ -105,3 +105,5 @@ Human-LLM agreement for self-efficacy across configurations. Non-mini models out
 - [Adding a cross-model agreement filter improves performance for the top three LLM annotators](cross-model-agreement-filter-improves-top-annotators.md) — related
 - [LLM-judge evaluation of tutoring sycophancy shows systematic self-judge blind spots and missed sycophancy even under judge consensus](llm-judge-reliability-tutoring-sycophancy.md) — related
 - [Small language models used as automated judges exhibit severe leniency bias against tutoring responses](slm-judges-show-severe-leniency-bias.md) — related
+- [The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding](educlaw-bench-judge-panel-human-validation.md) — reports the opposite
+- [LLM alignment with expert teaching ratings does not predict, and is often negatively associated with, alignment with student learning gains](proxy-alignment-not-impact-alignment-llm-classroom.md) — related

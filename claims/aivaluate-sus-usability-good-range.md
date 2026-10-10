@@ -46,3 +46,4 @@ SUS questionnaires with four bespoke experience items were completed immediately
 - [Students rated AISSA's usability as excellent, with an average SUS score of 83.38 from 30 of 46 pilot students](aissa-sus-usability-83.md) — related
 - [Students reported significantly lower anxiety during AIvaluate-mediated viva sessions than during equivalent face-to-face viva assessments](aivaluate-lower-anxiety-than-face-to-face-viva.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
+- [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related

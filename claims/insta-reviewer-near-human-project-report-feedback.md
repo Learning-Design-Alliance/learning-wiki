@@ -63,3 +63,4 @@ Automatic metrics from Study 1 on the test set (n=50), with expert feedback as g
 
 ## Related Claims
 - [Manual inspection of all system-generated feedback reveals four deficiencies: non-factual statements, frequent repeated text, lack of project-specific problem or suggestion statements, and inability to give feedback on images](insta-reviewer-four-feedback-deficiencies.md) — related
+- [LLM feedback receives higher expert ratings on six of seven quality dimensions, with tone the exception](llm-feedback-higher-expert-ratings.md) — related

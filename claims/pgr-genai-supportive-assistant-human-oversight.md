@@ -49,3 +49,4 @@ Thematic analysis of seven focus groups with 28 PGR students at the University o
 - [PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data](opposition-genai-human-centred-research-data.md) — related
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related
+- [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](interviews-flipped-readiness-genai-supplementary.md) — related

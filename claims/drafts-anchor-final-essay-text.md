@@ -44,3 +44,4 @@ N-gram retention analysis (Table 2) across the n=253 experiment's four condition
 - [Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.](ai-draft-quality-ownership-tradeoff.md) — related
 - [AI support shifts perceived attribution of ideas and text toward the AI, most strongly for AI-generated drafts, and an AI draft based on the writer's own outline contributed more ideas than expected (27%).](ai-stage-shifts-idea-text-attribution.md) — related
 - [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](drafting-support-largest-ownership-decrease.md) — related
+- [Engage-to-Unlock participants incorporated less verbatim AI-response text into final essays than Standard Chatbot participants](engage-to-unlock-lower-ai-text-coverage.md) — related

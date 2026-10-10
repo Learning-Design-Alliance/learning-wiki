@@ -47,3 +47,5 @@ LLM-assisted four-round thematic analysis of end-of-activity reflections (Table 
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
 - [Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code](cs2-student-llm-use-three-themes.md) — related
 - [Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement](students-recommend-office-hours-over-llms.md) — related
+- [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
+- [Coded prompt logs show different prompting strategies foreground different pedagogical themes, with technical prompts the largest strategy total (398 instances)](prompt-strategies-foreground-different-pedagogical-themes.md) — related

@@ -46,3 +46,4 @@ Self-reported time-allocation shares from the post-learning survey in the random
 - [Practicing with AI was less effortful than practicing alone, with participants spending less time and logging fewer keystrokes](ai-practice-less-effortful-fewer-keystrokes.md) — related
 - [Revisions made no reliable difference to total time spent with the lesson](revisions-no-effect-time-with-lesson.md) — related
 - [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related
+- [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related

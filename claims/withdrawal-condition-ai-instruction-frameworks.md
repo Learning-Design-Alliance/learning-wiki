@@ -46,3 +46,4 @@ Theoretical argument in the conclusion of a design-proposal article. The authors
 - [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — related
 - [Robotic projected AI assistance yields 60% higher short-term learning transfer than screen-based ChatGPT once assistance is withdrawn](aifred-higher-short-term-learning-transfer.md) — related
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — related
+- [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — possibly the same claim (merge candidate)

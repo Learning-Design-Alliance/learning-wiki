@@ -65,3 +65,5 @@ Same qualitative coding of 198 Week 13 reflections found most respondents stated
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)](students-use-llms-writing-clarification-coding-brainstorming.md) — related
 - [Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement](students-recommend-office-hours-over-llms.md) — related
+- [Students use the integrated AI assistant differently across writing stages: clarification early, verification late](assistant-use-varies-by-writing-stage.md) — related
+- [Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM](stated-intentions-weakly-match-enacted-help-seeking.md) — related

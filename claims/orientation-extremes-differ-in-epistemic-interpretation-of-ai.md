@@ -46,3 +46,4 @@ Qualitative examination of open-ended survey responses from the ten most negativ
 - [In joint analysis, Practice codes correlate most strongly with AI pedagogical orientation, while Epistemic codes show a weaker positive association](practice-codes-correlate-strongest-with-orientation-factor.md) — related
 - [AI pedagogical orientation strongly predicts self-reported AI use across research, teaching, and other professional domains](ai-pedagogical-orientation-predicts-ai-use.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Qualitative survey themes describe 'Pedagogical Burnout': faculty report detection policing displaces teaching, casts them as 'Digital Prosecutors', and fuels an unwinnable arms race](pedagogical-burnout-detection-policing.md) — related

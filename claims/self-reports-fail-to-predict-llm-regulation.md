@@ -49,3 +49,4 @@ Correlational analyses across all 116 students in the classroom study. The artic
 ## Related Claims
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — related
+- [A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions](gen-aitecture-expanded-creative-search-space.md) — related

@@ -97,3 +97,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — a narrower finding that bears on this claim
 - [AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance](ai-srl-end-outcomes-academic-performance-most-frequent.md) — related
 - [AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators](ai-srl-research-focuses-higher-education-students.md) — related
+- [In high-stakes homework settings, answer-first checking functions as a rational self-regulation strategy and diagnostic checkpoint rather than shortcutting](answer-first-checking-as-self-regulated-diagnostic-checkpoint.md) — a narrower finding that bears on this claim

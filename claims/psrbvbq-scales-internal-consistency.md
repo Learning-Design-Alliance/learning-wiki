@@ -46,3 +46,4 @@ Reliability (item) analysis on the same sample of 322 middle school teachers, wi
 - [Teachers' perceived severity of bullying predicts their likelihood of reacting to incidents of aggression](perceived-severity-predicts-teacher-reaction.md) — related
 - [The 18-item PSRBVBQ yields a balanced three-factor structure (perceived severity, likelihood of responding to the bully, likelihood of responding to the victim) in Romanian middle school teachers](psrbvbq-three-factor-structure-romanian-teachers.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
+- [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related

@@ -46,6 +46,8 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Systemic, human-centred approach treating digital data use as a school-and-teacher system, with AI integrated into professional development](systemic-human-centred-data-use-approach.md)
 - [Implement educational chatbots with human-centred design, explicit AI policies, training, curated knowledge bases and continuous monitoring](chatbot-implementation-recommendations.md)
 - [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
+- [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
+- [Train teachers to use generative AI as a scaffold for mathematical thinking rather than as a source of answers](train-teachers-genai-scaffold-not-answers.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Quantitative pre- and post-program testing in the convergent mixed-methods study
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [A majority of surveyed students want institutional training on professional and ethical AI tool use](students-want-ai-training-survey.md) — related
 - [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
+- [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related

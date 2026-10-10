@@ -50,3 +50,6 @@ Authors' conclusion to the teacher-role theme of the interview study. A student 
 - [The review found AI was effective for improving basic problem-solving but required teacher mediation to handle more complex mathematical tasks](ai-basic-problems-teacher-mediation-complex-tasks.md) — related
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
 - [Teachers largely perceive GenAI as semi-autonomous and prefer to retain full control over their teaching](teachers-perceive-genai-semi-autonomous-retain-control.md) — related
+- [GenAI compresses traditional sysadmin expertise pathways by shortcutting hands-on practice, mentorship, and iterative problem solving](genai-compresses-sysadmin-expertise-pathways.md) — related
+- [Regional context moderates GenAI effects: positive in China and Pakistan, negative in Korea and Turkey](genai-effects-vary-by-country.md) — related
+- [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related

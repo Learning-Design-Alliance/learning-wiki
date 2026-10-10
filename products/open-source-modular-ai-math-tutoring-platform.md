@@ -20,6 +20,7 @@ An open-source modular platform developed by Jarosław A. Chudziak and colleague
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **AITutor: an LLM-based iPad tutoring app translating pedagogical mechanisms into UI features**: AITutor is a React Native/Expo iPad app with a Python/FastAPI backend that orchestrates LLM calls, curriculum-constrained prompting, retrieval over digitized course materials, and telemetry logging. Rather than "treating the AI as an open-ended chatbot, we constrained the interaction, translating pedagogical mechanisms into explicit UI features." Its features are layered worked examples (overview, orientation, explanation, final-answer checkpoint, exam-format layer), step-linked visual grounding, a contextual follow-up dock, and a delayed retrieval/wrong-book loop. (From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Rea)
 
 ### Claims
 
@@ -28,3 +29,4 @@ An open-source modular platform developed by Jarosław A. Chudziak and colleague
 
 ## Key Sources
 - Jarosław A. Chudziak and Adam Kostka. (2025). AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education. arXiv preprint. https://arxiv.org/abs/2507.12484
+- Harry Feng, Yuan Tian, and Erica Zhao. 2026. From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments. https://arxiv.org/abs/2607.01692

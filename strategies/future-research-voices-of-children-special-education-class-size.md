@@ -37,7 +37,8 @@ The review's forward-looking recommendation is to fill the evidence gap from div
 - informing special education provision decisions on class size
 
 ## Related Strategies
-- 
+
+- [Prioritize research on GenAI's impact on students with disabilities and design personalized teaching strategies for their needs](genai-research-students-with-disabilities.md)
 
 ## Examples
 -

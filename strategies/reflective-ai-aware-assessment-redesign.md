@@ -43,6 +43,8 @@ The chapter recommends adapting or redesigning assessment to account for intenti
 - [Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios](ai-competency-assessment-strategies.md)
 - [Teach subzone classification explicitly as a teachable, assessable cognitive skill in clinical curricula](explicit-subzone-classification-instruction.md)
 - [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
+- [Address generative AI in higher education through assessment redesign and proportional reflective practices rather than surveillance or punitive controls](assessment-redesign-proportional-reflective-practices.md)
+- [Graduate AI literacy training should promote purposeful, task-oriented, critically supervised GenAI use rather than targeting overall use levels](critically-supervised-task-oriented-genai-use-strategy.md)
 
 ## Examples
 -

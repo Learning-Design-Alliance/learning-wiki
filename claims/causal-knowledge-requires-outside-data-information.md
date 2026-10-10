@@ -44,3 +44,4 @@ Theoretical argument in the introduction, citing Hernán et al. and Bareinboim e
 
 ## Related Claims
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](mental-representation-not-directly-instructable.md) — related
+- [Behavioural analytics alone cannot distinguish the cognitive origins of identical learner errors](behaviour-alone-insufficient-cognitive-origins.md) — a narrower finding that bears on this claim

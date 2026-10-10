@@ -66,3 +66,4 @@ Review's synthesis of the Generative AI Dependency Scale (Goh et al., 2025), dev
 - [Epistemic and society-related AI knowledge were negatively associated with trust in GenAI](epistemic-knowledge-negatively-associated-with-genai-trust.md) — related
 - [Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied](nine-design-factors-trust-ai-systems.md) — related
 - [Excessive GenAI reliance risks undermining foundational ICT knowledge, supporting supervised in-person assessment of foundational content](excessive-genai-reliance-hinders-foundational-knowledge.md) — related
+- [GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking](genai-dual-mechanism-amplifier-substitute.md) — related

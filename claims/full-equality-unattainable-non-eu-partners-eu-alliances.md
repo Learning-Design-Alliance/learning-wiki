@@ -49,3 +49,4 @@ Collaborative autoethnographic reflection by the Capstone's coordinators, educat
 - [Nonfunded research barters, initiated by Global South partners, can foster reciprocity in ICEL without transactional funding](research-barters-foster-reciprocity-icel.md) — related
 - [A lack of funding privileges more resourceful partners, and CHARM-EU declined stakeholder funding requests to avoid favoring some student teams over others](funding-evenhandedness-impedes-global-south-pilots.md) — related
 - [Students felt uncomfortable with short-term European fieldwork in South Africa with limited interaction with local researchers and communities](short-term-fieldwork-limits-reciprocal-engagement.md) — related
+- [Uneven GenAI access across teams creates a two-speed culture pressuring teams without access despite equally demanding work](genai-two-speed-culture-uneven-team-access.md) — related
