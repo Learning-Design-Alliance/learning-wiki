@@ -50,3 +50,4 @@ Theoretical argument, not a tested result: the authors reason from prior work th
 - [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](theory-plus-data-prompting-improves-codebook.md) — related
 - [Five common AI misconceptions debunked: AI does not think like humans, create original ideas, replace teachers, or guarantee accuracy, and well-designed AI use need not lower rigor](five-ai-misconceptions-for-educators.md) — related
 - [Attachment to LLMs exhibits cruel optimism: desired efficiency collides with the vigilance and expertise students do not yet possess](cruel-optimism-of-llms-in-education.md) — related
+- [A general-purpose LLM assessing team emails' emotional tone was biased toward interpreting messages as anxiety-related only](llm-emotional-tone-bias-incident-words.md) — a narrower finding that bears on this claim

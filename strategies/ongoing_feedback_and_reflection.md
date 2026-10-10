@@ -86,12 +86,14 @@ Self-assessment against explicit criteria is the specific form that works, becau
 8. **Fade the scaffolding across the term.** Move from supplied prompts to learner-generated questions as calibration improves ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Formative Feedback](formative-feedback.md) — the properties that make each feedback point in this cycle actionable
 - [Formative Assessment Cycles](formative-assessment-cycles.md) — the instructor-side loop this pairs with on the learner side
 - [Formative Self-Assessment](formative-self-assessment.md) — the self-judgement move in isolation
 - [Learning Journals](learning-journals.md) — the persistent record that makes cumulative reflection possible
 - [Portfolio Assessment](portfolio-assessment.md) — reflection organized around selected evidence over a whole course
 - [Goal-Setting Conferences](goal-setting-conferences.md) — the recurring conversation format, with the learner leading
+- [Fade structured teaching sessions into independent project work over the semester](fade-schools-into-independent-project-work.md)
 
 ## Examples
 

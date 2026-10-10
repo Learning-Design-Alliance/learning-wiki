@@ -47,3 +47,4 @@ Qualitative synthesis of the 54 included studies codes pedagogical limitations i
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [AI-based educational technology use is positively associated with critical thinking among undergraduate medical students](ai-use-positively-associated-critical-thinking-medical-students.md) — related
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — a narrower finding that bears on this claim
+- [The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity](adaptive-learning-dominance-limits-student-agency.md) — related

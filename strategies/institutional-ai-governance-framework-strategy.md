@@ -50,6 +50,7 @@ The brief recommends that postsecondary leaders develop comprehensive AI usage g
 - [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
 - [Use the Recommendation's Policy Action Areas to translate AI ethics values into policy across education, data governance and other spheres](policy-action-areas-translate-ai-ethics-values.md)
 - [Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued](incremental-free-tier-ai-adoption-with-triple-review.md)
+- [Build institutional AI literacy and transparent risk-communication governance for agentic AI browsers](institutional-ai-literacy-and-risk-communication-governance.md)
 
 ## Examples
 -

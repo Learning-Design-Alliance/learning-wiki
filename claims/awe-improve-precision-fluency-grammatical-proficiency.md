@@ -47,3 +47,4 @@ Systematic literature review synthesizing 50 empirical studies published 2019–
 - [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) — related
 - [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — related
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related
+- [EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy](ai-feedback-perceived-expertise-efl-writing.md) — a narrower finding that bears on this claim

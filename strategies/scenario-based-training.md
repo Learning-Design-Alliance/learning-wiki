@@ -67,6 +67,7 @@ Scenario based training works because it forces retrieval and application under 
 - [Simulation-based practice](../elements/practice.md) — repeated scenario execution builds automaticity
 - [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
 - [Prefer lockdown drills over highly realistic, unannounced active shooter exercises, embedding them in layered emergency preparedness](prefer-lockdown-drills-over-realistic-exercises.md)
+- [Adaptive scenario generation: introduce training scenarios targeting weaknesses identified from real-time performance metrics](astra-adaptive-scenario-generation.md)
 
 ## Examples
 - **Harvard Business School case method** ([Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md)) — written business scenarios discussed under instructor facilitation; a scalable, low-fidelity form of scenario training.

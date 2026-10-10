@@ -54,3 +54,4 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [State AI guidance describes risks but risk-management work is at an early stage, with some documents possibly too upbeat given school readiness](state-ai-guidance-risks-early-stage.md) — related
 - [Qualitative findings identified plagiarism, student overreliance on AI, and a barrier of reconciling institutional policy gaps with personal ethical values](qualitative-genai-challenges-policy-gap-barrier.md) — related
+- [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — a broader claim this one bears on

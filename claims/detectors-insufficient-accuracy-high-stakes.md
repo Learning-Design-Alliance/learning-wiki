@@ -50,3 +50,4 @@ The review reports the Weber-Wulff et al. independent evaluation across "multipl
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — a narrower finding that bears on this claim
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
 - [In a paired exploratory comparison, extensive machine rewriting by a commercial humanizer materially degraded the manuscript while changing the detection score only slightly](humanizer-rewriting-small-score-change.md) — related
+- [A webcam-only automatic cheating detector achieved recall of 78.6%, precision of 84.6%, and accuracy of 83.3% in a MOOP experiment](moop-webcam-acd-detection-metrics.md) — related

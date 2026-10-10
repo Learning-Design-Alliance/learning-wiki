@@ -46,3 +46,4 @@ Preregistered regression in Study 2 (N = 1,216) of attitude change on separate d
 - [AI literacy warnings reduce LLM political persuasion by roughly one-half (meta-analytic -48.1%)](ai-literacy-warning-halves-ai-political-persuasion.md) — a broader claim this one bears on
 - [In Study 1, the general warning significantly reduced persuasive effects on housing-policy attitudes (b=−1.81, p= 0.001)](study1-warning-reduces-housing-persuasion.md) — related
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
+- [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — related

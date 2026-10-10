@@ -49,3 +49,4 @@ Theoretical illustration plus simulation study by the authors showing conditions
 - [The Rothstein falsification test generates large and implausible future teacher effects even when students are randomly assigned to classrooms](rothstein-falsification-test-implausible-effects-random-assignment.md) — a narrower finding that bears on this claim
 - [Theoretically and in simulations, the Rothstein test often falsifies unbiased VAMs and fails to falsify biased VAMs](falsification-test-falsifies-unbiased-vams.md) — possibly the same claim (merge candidate)
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — related
+- [CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy](cdm-air-falsification-conditions.md) — a narrower finding that bears on this claim

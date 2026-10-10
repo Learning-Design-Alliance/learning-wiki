@@ -46,3 +46,4 @@ An English teacher reports that following Uncapher's advice, sharing the rationa
 - [Design Tech High School partnered with a neuroscientist to apply learning sciences research across school and classroom levels](dtech-researcher-partnership-learning-sciences.md) — a broader claim this one bears on
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
 - [Teachers who find using AI enjoyable, engaging and satisfying (intrinsic/interest value) may be more motivated to use it (theoretical argument).](teacher-intrinsic-interest-value-increases-motivation-to-use-ai.md) — related
+- [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related

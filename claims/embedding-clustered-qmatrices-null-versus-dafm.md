@@ -47,3 +47,4 @@ Development-set comparison (Table 6) of Q-matrices derived by k-means clustering
 - [Fine-tuning the AFM model including its Q-matrix improves test-set prediction in four of five datasets and is the best model in eight of ten experiments](dafm-fine-tuned-improves-prediction-over-afm.md) — related
 - [Qualitative inspection shows dAFM refinement remaps a Geometry problem's items toward side-identification KCs with plausible but partly spurious associations](dafm-qualitative-remapping-triangle-rectangle.md) — related
 - [An expert-initialized Q-matrix refined by dAFM outperforms a Q-matrix learned from the ground-up in nearly all cases](expert-refined-qmatrix-beats-ground-up-learning.md) — related
+- [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms the random-grouping baseline in both exercises](clustering-ttx-team-assessment-aligns-instructor-scores.md) — related

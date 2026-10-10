@@ -47,3 +47,4 @@ Descriptive analysis of control-group platform logs from two RCTs (District A: 9
 - [Human tutors increase elementary students' engagement (stories read) with an AI literacy platform by 71-80% relative to control](human-tutor-increases-ai-platform-engagement.md) — related
 - [Assigning an in-person engagement-focused human tutor increases elementary students' weekly usage of an AI literacy platform](human-tutor-increases-ai-platform-usage.md) — related
 - [Effects of human support on AI platform usage vary substantially across implementation sites](site-variation-human-support-ai-platform-usage.md) — related
+- [AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators](ai-srl-research-focuses-higher-education-students.md) — related

@@ -49,3 +49,4 @@ Paired comparison of the observation dimension (objective description of childre
 - [Supportive competence grew continuously through Workshop 4 while basic observation ability remained stable across sequential AV workshops](support-growth-observation-stable-longitudinal.md) — related
 - [Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video](vs-higher-purposefulness-reflection.md) — related
 - [Lesson ratings showed no statistically significant differences between lessons observed earlier versus later in the initiative on any dimension](no-rating-improvement-over-initiative.md) — related
+- [AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations](simulation-advantage-immediate-not-sustained.md) — related

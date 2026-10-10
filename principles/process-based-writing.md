@@ -169,6 +169,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Collaborative Evaluation](../patterns/collaborative-evaluation.md) — judging example texts against criteria with others before revising one's own.
 - [Modeling Writing and Revising](../strategies/modeling-writing-and-revising.md) — thinking aloud while planning and revising.
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](../strategies/process-oriented-assessment-four-stage-model.md)
+- [Integrate AI feedback as a supportive resource within process-oriented drafting cycles, with explicit guidance on critical evaluation](../strategies/ai-feedback-process-writing-integration-strategy.md)
 
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.

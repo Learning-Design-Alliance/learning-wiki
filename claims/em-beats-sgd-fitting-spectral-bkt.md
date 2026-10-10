@@ -50,3 +50,4 @@ Solver comparison within the Model Validation section, using the hmmsclbl C/C++ 
 - [OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT](optimnn-hyperparameter-insensitivity.md) — related
 - [Alternative Spectral BKT configurations (2 states with 4 bigrams; 8 states with 16 4-grams) did not improve over the 4-state, 3-gram configuration](spectral-bkt-alternative-configurations-no-improvement.md) — related
 - [Standard BKT fits Raging Skies pilot process data with acceptable RMSE and good accuracy under 10-fold cross-validation](bkt-fits-raging-skies-process-data.md) — related
+- [A Bayesian DINA model converges successfully on educational response data with 91.3% sparsity where the EM algorithm failed](bayesian-dina-converges-sparse-data.md) — related

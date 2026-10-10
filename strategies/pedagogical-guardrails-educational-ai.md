@@ -44,6 +44,7 @@ The paper recommends that developers of educational AI treat the purpose of AI i
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
 - [Redesign assessments and curricula so AI availability supports rather than impedes expertise growth](redesign-assessments-for-ai-availability.md)
 - [Architect teacher-in-the-loop agentic AI with escalation protocols, guardrail adjustability, and state-interruptibility](teacher-in-the-loop-agentic-architecture.md)
+- [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
 
 ## Examples
 -

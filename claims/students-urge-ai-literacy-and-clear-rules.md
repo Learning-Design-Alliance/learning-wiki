@@ -50,3 +50,4 @@ Final questionnaire question, "What should higher education institutions do abou
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — related
 - [Most higher education institutions report faculty use of generative AI in teaching, but fewer than 15% have formal ethical guidelines](genai-use-high-ethical-guidelines-rare.md) — related
 - [First-year MA translation students adopt a cautious, pragmatic approach to GenAI, combining NMT for drafting with LLMs for support tasks](ma-students-cautious-pragmatic-genai-use.md) — related
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related

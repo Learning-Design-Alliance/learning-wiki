@@ -47,3 +47,4 @@ The review defines learned helplessness, citing Pervin (1990), as a syndrome occ
 - [Outcome-consistent task performances are attributed to stable factors and outcome-conflicting performances to unstable factors](outcome-consistency-drives-stable-versus-unstable-attributions.md) — related
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — related
+- [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related

@@ -45,3 +45,4 @@ The title asserts that 'AI Agents Can Now Navigate and Complete LMS Tasks'; keyw
 ## Related Claims
 - [The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months](structural-mismatch-curriculum-pace-vs-agent-product-cycles.md) — related
 - [Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact](structural-mismatch-innovation-evaluation-pace.md) — related
+- [AI agent activity in an LMS is indistinguishable from normal student activity, defeating detection and proctoring](ai-agent-activity-indistinguishable-from-students.md) — a narrower finding that bears on this claim

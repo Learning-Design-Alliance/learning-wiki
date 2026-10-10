@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 13 studies (6 causal, 6 quant-synthesis, 1 review), `q2`–`q4` · 6 of 13 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 14 studies (6 causal, 6 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 6 of 14 report an effect size · 3 claims rest on one study
 
 ## Conditional relationship
 
@@ -49,6 +49,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Cognitive overload degrades learning when coordination demands exceed task benefits.](../claims/cognitive-overload-degrades-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Belonging interventions improve outcomes, particularly for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M] — checked by the judge: all 2 entries pass (abstract)
+- [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](../claims/ccct-qualitative-strengths-challenges.md) [~W] — attached 2026-10-10 from Özgür Tutal (2026), which proposed "Structure cooperative learning so that group work embeds the five essential elements rather than merely placing students in groups".
 
 ## Objective and learner-valued goal
 

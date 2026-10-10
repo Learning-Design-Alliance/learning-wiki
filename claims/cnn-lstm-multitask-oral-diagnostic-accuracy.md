@@ -45,3 +45,4 @@ Validation of the proposed diagnostic model on a corpus of 4,374 recordings from
 ## Related Claims
 - [Diagnostic model performance remains relatively stable across moderate hyperparameter ranges, with 8 attention heads and a 512 hidden dimension yielding optimal results](hyperparameter-stability-oral-diagnostic-model.md) — related
 - [Task importance weights in the multi-task oral scoring objective are calibrated by learned observation noise rather than manual tuning](uncertainty-weighted-multitask-oral-scoring.md) — related
+- [Deep learning techniques such as CNNs and RNNs better detect cheating from visual cues than traditional techniques, but each carries stated trade-offs](dl-cnn-rnn-better-visual-cheating-detection.md) — related

@@ -46,3 +46,4 @@ Log analysis of submitted AI-agent session logs across the three conditions. The
 - [Amount of ASR practice (days per week, session length) showed no observable difference in pronunciation improvement](no-dose-response-asr-practice-time.md) — related
 - [Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts](instructions-increase-learning-time-allocation.md) — related
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
+- [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related

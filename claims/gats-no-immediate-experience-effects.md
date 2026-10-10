@@ -51,3 +51,4 @@ Likert self-report instruments (Paas mental effort, NASA-TLX, IMI items) analyze
 - [In the Python-based CS1 course at UofT, GATs produced no significant overall or topic-specific immediate performance effects](gats-no-immediate-performance-effect-uoft.md) — related
 - [Across both institutions, GATs showed no significant effect on long-term summative exam performance](gats-no-long-term-exam-effect.md) — related
 - [Changes in situational interest were not statistically significant for either Mathbot or BAU students during the five-day fraction intervention](mathbot-situational-interest-not-significant.md) — related
+- [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](personalized-paths-lower-cognitive-load.md) — related

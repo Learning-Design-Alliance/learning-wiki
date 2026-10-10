@@ -57,9 +57,11 @@ Time pressure focuses attention and prevents the diffusion that occurs when task
 5. For self-directed contexts, teach learners to set their own intervals and reflect on whether the limit matched the task (see [Check-In](../elements/check-in.md)).
 
 ## Related Strategies
+
 - Chunking content into short segments — pacing is the temporal expression of chunking
 - Retrieval practice — short timed quizzes benefit from firm, visible limits
 - Brain breaks — the complement to timed work intervals
+- [Manage pacing within a 40-minute period so AI comparison immediately follows manual estimation](immediate-ai-comparison-after-manual-estimation-pacing.md)
 
 ## Examples
 - **Pomodoro Technique** (https://francescocirillo.com) — 25-minute focus intervals with 5-minute breaks, widely adapted for study skills instruction.

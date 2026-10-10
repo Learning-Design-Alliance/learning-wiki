@@ -46,3 +46,4 @@ The article reports, citing Fernandes et al. (2026) and Klingbeil et al. (2024),
 - [Learner AI over-reliance is reframed as misclassification: a failure of real-time metacognitive evaluation with two distinct pathways](misclassification-reframing-of-ai-misuse.md) — related
 - [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — related
 - [Explainability's effect on trust in AI-enabled systems is mixed: it can increase trust and reliance but also raises cognitive load, slows performance, and sometimes does not improve trust](explainability-mixed-effect-on-trust.md) — related
+- [Students did not consistently detect scientific errors in ChatGPT responses, and students with stronger prior knowledge evaluated AI responses more critically](prior-knowledge-supports-critical-ai-evaluation.md) — related

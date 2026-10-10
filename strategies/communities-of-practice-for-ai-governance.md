@@ -62,6 +62,9 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Address responsible design, learner experience, equity, validity, and relational assessment practice when implementing AI-agent-supported assessment](responsible-design-considerations-ai-assessment.md)
 - [Design task-sensitive institutional AI policies rather than blanket permitted/prohibited distinctions](task-sensitive-institutional-ai-policy.md)
 - [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
+- [Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms](anticipatory-governance-implementation-recommendations.md)
+- [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
+- [Build institutional AI literacy and transparent risk-communication governance for agentic AI browsers](institutional-ai-literacy-and-risk-communication-governance.md)
 
 ## Examples
 -

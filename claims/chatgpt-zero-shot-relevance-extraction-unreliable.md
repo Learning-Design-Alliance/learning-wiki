@@ -51,3 +51,4 @@ Preliminary zero-shot analysis using ChatGPT as the first-stage summarization/re
 - [ChatGPT's exam scores were within 10% of human grades 70% of the time in a study of AI-based grading](chatgpt-grading-within-10-percent-human.md) — related
 - [ChatGPT shows high success on open-ended general chemistry exam questions but lower accuracy at the university level, and unverified copying of its answers is a reported risk](chatgpt-accuracy-varies-by-question-level.md) — related
 - [ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them](ml-overestimates-llm-underestimates-pattern.md) — related
+- [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](hint-prompts-raise-llm-scoring-agreement.md) — related

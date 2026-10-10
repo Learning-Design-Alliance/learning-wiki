@@ -66,3 +66,4 @@ From the same interview study, the article reports selective uptake of feedback:
 - [In a real academic pilot, AISSA processed 90 presentations reliably at 1–3 minutes per submission and an estimated cost of $0.06–0.07 USD per evaluation](aissa-pilot-reliable-low-cost-processing.md) — related
 - [Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI-TK, technical self-efficacy, pedagogical beliefs, and support-dependence](cognitive-affective-profiles-explain-design-behaviors.md) — related
 - [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](iterative-lesson-planning-before-clinical-placement.md) — related
+- [Students in initial deployment perceived AI-assisted feedback as highly coherent and useful, with excellent usability acceptance](aicofe-initial-deployment-positive-perceptions.md) — a broader claim this one bears on

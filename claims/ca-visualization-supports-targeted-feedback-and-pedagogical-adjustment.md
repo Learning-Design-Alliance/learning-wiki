@@ -51,3 +51,4 @@ Cross-case qualitative finding (RQ1-1) from interviews, cognitive walkthroughs, 
 - [Teachers use extracted analytics more for supervision than for guidance, with monitoring the dominant observed action](extracted-analytics-more-supervision-than-guidance.md) — related
 - [Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement](ri-charter-dashboards-reduced-surprise-stress.md) — related
 - [Coaches reported that usage dashboards grounded coaching conversations in evidence rather than perception and prompted reality checks on implementation](dashboards-evidence-based-coaching-conversations.md) — related
+- [Trustworthiness metrics and visualizations surfaced previously overlooked pedagogical risks and enabled more deliberate reasoning about trade-offs between competing objectives](trustworthiness-tools-surface-risks-enable-tradeoff-reasoning.md) — related

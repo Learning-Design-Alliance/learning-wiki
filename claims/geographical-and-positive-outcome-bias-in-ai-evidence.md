@@ -63,3 +63,4 @@ Reporting bias assessment based on analysis of publication trends and geographic
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — related
 - [Geographic distribution of the selected sample shows Asia (18 studies) and North America strongly represented, with Europe, Africa, and South America underrepresented](ai-math-geographic-distribution-sample.md) — a narrower finding that bears on this claim
+- [AI-SRL research is dominated by quantitative methods, short durations, and limited geographic representation](ai-srl-research-quantitative-short-duration-geographic-imbalance.md) — related

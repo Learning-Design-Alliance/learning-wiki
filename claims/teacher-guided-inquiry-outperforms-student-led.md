@@ -88,3 +88,4 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Some students found the guided-inquiry worksheet activities insufficiently thought-provoking and the data exchange troublesome](students-criticize-inquiry-worksheets-low-thinking.md) — related
 - [Review reports a controlled comparison favoring teacher-led instruction over student-centered instruction for grammar learning](teacher-led-outperformed-student-centered-grammar.md) — related
 - [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](furtak-metaanalysis-37-studies-inquiry-positive.md) — possibly the same claim (merge candidate)
+- [Progressive scaffold fading moved teachers from guided participation toward independent justification, generalization, and task design](ai-scaffold-fading-independent-justification.md) — related

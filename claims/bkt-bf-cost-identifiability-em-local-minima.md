@@ -53,3 +53,5 @@ Definitional/interpretive statement in the introduction about the two main BKT t
 - [The Knowledge Tracing Algorithm does not suffer the identifiability problem: all four parameters affect its behavior separately](kt-algorithm-no-identifiability-problem.md) — related
 - [BKT implemented as an RNN layer in PyTorch recovers generating parameters comparably to brute-force grid-search BKT while scaling to large datasets](bkt-rnn-matches-brute-force-parameter-recovery.md) — related
 - [Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning](ai-intensifies-nomic-measurement-problem.md) — related
+- [A Bayesian DINA model converges successfully on educational response data with 91.3% sparsity where the EM algorithm failed](bayesian-dina-converges-sparse-data.md) — related
+- [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related

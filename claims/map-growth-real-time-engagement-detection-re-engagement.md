@@ -56,3 +56,4 @@ The fairness and administration chapters describe test engagement functionality,
 - [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) — related
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
 - [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — related
+- [AI agent activity in an LMS is indistinguishable from normal student activity, defeating detection and proctoring](ai-agent-activity-indistinguishable-from-students.md) — related

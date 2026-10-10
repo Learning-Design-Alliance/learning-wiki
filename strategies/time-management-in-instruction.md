@@ -64,6 +64,7 @@ Engaged time on appropriately challenging tasks is one of the most consistent co
 - [Pacing](../strategies/pacing.md) — the moment-to-moment speed decisions within the time budget
 - [Flipped Classroom](../strategies/flipped-classroom.md) — reallocates exposition time out of the live session to protect practice time
 - [Adaptive-resolution simulation: allocate more LLM calls to educationally consequential moments and compress routine transitions](adaptive-resolution-educational-simulation.md)
+- [Manage pacing within a 40-minute period so AI comparison immediately follows manual estimation](immediate-ai-comparison-after-manual-estimation-pacing.md)
 
 ## Examples
 - **Direct Instruction (Engelmann)** — tightly scripted lesson pacing with rapid teacher–student exchanges and choral responses, engineered to maximize academic learning time per minute; see the [Direct Instruction](../patterns/direct-instruction.md) pattern.

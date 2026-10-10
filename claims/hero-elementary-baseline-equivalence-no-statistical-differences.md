@@ -55,3 +55,4 @@ Baseline equivalence analysis reported in the participant characteristics sectio
 - [In the grade 12 quasi-experimental evaluation, there was no statistically significant difference in achievement between ERWC and comparison students for either the Non-PT ICA or the PT ICA sample](grade-12-erwc-no-significant-impact.md) — related
 - [The playlist intervention showed no significant difference in post-implementation science attitudes on the Emerging STEM Learning Activation Survey](hero-elementary-playlists-no-significant-science-attitude-effect.md) — related
 - [Propensity score matching produced comparison groups equivalent at baseline (within +/- 0.25 standard deviations) on all pretest achievement measures across the three QEDs](propensity-matching-baseline-equivalence-magnet-qeds.md) — related
+- [Within-group achievement gains were significant for the CCCT group but not for the control group](ccct-within-group-achievement-gain.md) — related

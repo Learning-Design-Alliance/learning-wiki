@@ -47,3 +47,4 @@ Human evaluation of Step 1 (Theory-only) codebooks generated three times by GPT-
 - [In the interest-development context, naming the theory without full references produced the most practical and usable codebook, while supplying full papers enhanced theoretical alignment but reduced applicability](naming-theory-most-practical-prompting-strategy.md) — related
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related
 - [Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs](human-refinement-essential-gpt-codebooks.md) — related
+- [Over one-third of AI-SRL studies specify no SRL theory; Zimmerman's model is the most frequently applied](ai-srl-studies-lack-srl-theory-zimmerman-most-used.md) — related

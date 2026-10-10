@@ -50,3 +50,4 @@ Analytical derivation (Section 4.1 and Appendix A) of the BKT posterior and limi
 - [BKTransformer's generated parameters evolve intuitively with student response sequences, supporting interpretability of mastery and correctness predictions](bkt-parameter-evolution-interpretability.md) — reports the opposite
 - [The Knowledge Tracing Algorithm does not suffer the identifiability problem: all four parameters affect its behavior separately](kt-algorithm-no-identifiability-problem.md) — related
 - [CLST's predicted mastery levels track response correctness and move similarly for related knowledge components](clst-mastery-tracks-correctness-and-related-kcs.md) — related
+- [A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability](hmm-identifies-a5-bottleneck.md) — related

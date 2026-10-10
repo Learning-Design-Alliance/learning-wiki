@@ -68,3 +68,4 @@ Descriptive statistics from the CoI Survey cognitive presence subscale (n = 32).
 - [A program-wide standard online course template heightens teaching presence and supports learner intentions in accelerated online courses](course-template-supports-learner-presence.md) — related
 - [Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring](learner-presence-three-qualities-mba.md) — related
 - [Unconstrained topic writing produces frivolous resolutions that perpetuate non-argumentative practices](unconstrained-topic-writing-yields-frivolous-resolutions.md) — related
+- [Faculty members rate equality, inclusiveness, and justice highest and institutional support lowest, with adequacy of institutional guidelines the lowest-rated item](faculty-survey-ethical-ai-profile-institutional-support-lowest.md) — related

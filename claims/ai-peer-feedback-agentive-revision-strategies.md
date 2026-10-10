@@ -61,3 +61,4 @@ Interview and journal data from experimental-group focal students showed critica
 - [AI-peer integrated feedback produces significantly higher posttest cognitive engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [The teacher was the principal provider of oral corrective feedback, with peer and self-correction rarely proactively promoted](teacher-is-principal-ocf-provider.md) — related
+- [GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group](genai-peer-feedback-shifts-feedback-quality-profile.md) — related

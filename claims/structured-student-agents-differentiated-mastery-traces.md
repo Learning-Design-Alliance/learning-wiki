@@ -47,3 +47,4 @@ Preliminary controlled lesson study reported in the paper's overview of results,
 - [Teacher-agent comparisons show backbone-dependent patterns consistent with ZPD-informed adaptation](teacher-agent-backbone-dependent-zpd-patterns.md) — related
 - [BKT learning-rate parameters estimated from simulated student data correlate positively with those estimated from human data](simulated-data-initializes-bkt-parameters.md) — related
 - [Simulated students (Apprentice agents) can successfully evaluate online knowledge tracing models, exposing errors before costly classroom testing](simulated-students-evaluate-online-knowledge-tracing.md) — related
+- [BEAGLE generalizes across tasks and LLM backbones: on the out-of-distribution Gradient Descent task it still shrinks DKL by ≥3×, raises error recurrence to ≥79%, and improves all three perceptual scores](beagle-cross-task-cross-backbone-generalization.md) — related

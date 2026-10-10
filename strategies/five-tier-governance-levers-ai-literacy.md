@@ -37,7 +37,8 @@ The article proposes five governance tiers through which AI literacy is operatio
 - institutionalizing AI literacy as public competency and democratic participation in AI governance
 
 ## Related Strategies
-- 
+
+- [Build institutional AI literacy and transparent risk-communication governance for agentic AI browsers](institutional-ai-literacy-and-risk-communication-governance.md)
 
 ## Examples
 -

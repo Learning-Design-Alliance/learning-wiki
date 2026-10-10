@@ -54,3 +54,4 @@ Analysis of pilot rubric scores from three expert world history teachers who sco
 - [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — related
 - [World History Project students show comparable competency to comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related
+- [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related

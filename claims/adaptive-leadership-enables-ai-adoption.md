@@ -63,3 +63,4 @@ Review of results of individual studies within the 155-study corpus, contrasting
 - [Digital infrastructure readiness determines the scalability and effectiveness of AI systems in higher education, with disparities between high-income and low-income regions](infrastructure-readiness-determines-ai-scalability.md) — related
 - [AI adoption in higher education is associated with improved teaching practices, learner engagement and curriculum innovation](ai-adoption-associated-teaching-engagement-curriculum-improvements.md) — related
 - [Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness](government-regulation-external-enabler-ai-adoption.md) — related
+- [Empowering and distributive leadership styles are associated with greater faculty engagement and willingness to adopt AI in higher education, per the reviewed studies](empowering-distributive-leadership-ai-adoption.md) — related

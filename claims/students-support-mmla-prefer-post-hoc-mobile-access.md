@@ -66,3 +66,4 @@ From the same student perspective synthesis, the article reports students' prefe
 - [The heuristic framework deliberately retains automatic performance checks opposed by instructors and students, as context-appropriate measure selection matters](framework-retains-automatic-assessment-heuristic-for-other-contexts.md) — related
 - [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — related
 - [Students' perceptions of the fairness of MMLA visualizations in an authentic nursing simulation deployment were mixed, hinging on accuracy and completeness of data representation](mmla-fairness-perceptions-mixed-accuracy.md) — related
+- [Real-time in-session feedback remains rare among presentation-coaching systems](real-time-feedback-rare-in-coaching-systems.md) — related

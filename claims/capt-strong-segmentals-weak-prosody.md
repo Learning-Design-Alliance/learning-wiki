@@ -71,3 +71,4 @@ Ngo et al. (2024) support this claim for ASR-based training, with a large pooled
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — reports the opposite
 - [Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech](explicit-communicative-pronunciation-instruction-works.md) — related
 - [Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms](resource-scarcity-large-classes-limit-pronunciation-feedback.md) — related
+- [No surveyed presentation-coaching system covers all five taxonomy dimensions simultaneously](no-system-covers-all-five-coaching-dimensions.md) — related

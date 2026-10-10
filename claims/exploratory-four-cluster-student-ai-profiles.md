@@ -49,3 +49,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related
 - [Two distinct group deliberation patterns emerge in response to regulation triggers: the Plan and Implementation Approach (PIA) and the Trials and Failure Approach (TFA)](pia-tfa-deliberation-patterns-ssrl.md) — related
+- [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md) — related

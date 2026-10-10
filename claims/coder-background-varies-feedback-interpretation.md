@@ -65,3 +65,5 @@ Spearman's rank correlation analysis of coding by researchers versus teachers on
 - [Exploratory factor analysis of coder-assigned feedback codes yields 12 latent factors, several combining multiple codes with inverse loadings](efa-twelve-feedback-factors.md) — related
 - [Constructs with higher operational clarity show higher overall coder agreement, and low clarity harms human coder agreement more than LLM agreement](construct-clarity-predicts-coding-agreement.md) — related
 - [Some teacher feedback codes commonly co-occur, such as Confirmation with Positive Affect and Mathematical Suggestions with Hints](feedback-codes-co-occurrence-patterns.md) — related
+- [GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group](genai-peer-feedback-shifts-feedback-quality-profile.md) — related
+- [A general-purpose LLM assessing team emails' emotional tone was biased toward interpreting messages as anxiety-related only](llm-emotional-tone-bias-incident-words.md) — related

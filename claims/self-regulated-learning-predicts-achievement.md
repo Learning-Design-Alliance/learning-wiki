@@ -95,3 +95,5 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Students in MATHia find it hard to adapt their strategy choices to suit the problem, based on log data from over 600 schools](mathia-students-hard-to-adapt-strategies.md) — related
 - [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](clickstream-enables-two-types-theory-testing.md) — related
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — a narrower finding that bears on this claim
+- [AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance](ai-srl-end-outcomes-academic-performance-most-frequent.md) — related
+- [AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators](ai-srl-research-focuses-higher-education-students.md) — related

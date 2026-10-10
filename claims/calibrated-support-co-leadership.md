@@ -78,3 +78,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [The authors assert that Systems Review participation builds SEA teams' capacity for shared purpose, decision-making, and adaptive change management](systems-review-builds-capacity-outcomes.md) — related
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related
 - [Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities](collaboration-buy-in-student-leadership.md) — related
+- [Empowering and distributive leadership styles are associated with greater faculty engagement and willingness to adopt AI in higher education, per the reviewed studies](empowering-distributive-leadership-ai-adoption.md) — related

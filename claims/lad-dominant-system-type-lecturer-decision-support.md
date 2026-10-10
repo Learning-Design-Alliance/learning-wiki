@@ -46,3 +46,4 @@ System-type frequency analysis across the review's 27 included studies. The revi
 - [AI support in higher education is concentrated in instructional, assessment, and feedback decisions, with curriculum and learning-environment decisions least supported](ai-support-concentrated-instructional-assessment-feedback-decisions.md) — related
 - [Behavioral outcomes, especially performance and engagement, dominate the learning outcomes linked to AI-supported lecturer decisions](behavioral-outcomes-dominate-ai-decision-support-mapping.md) — related
 - [Instructional decisions form the hub of decision-type co-occurrence, most strongly with assessment decisions](instructional-decisions-hub-of-co-occurrence-structure.md) — related
+- [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](ai-implemented-as-intervention-adaptive-systems-personalization.md) — related

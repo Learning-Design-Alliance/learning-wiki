@@ -48,3 +48,4 @@ Log-data modeling of 8,948 persistent student-problem set pairs from ASSISTments
 - [Consistently short delays between problems of the same skill are associated with greater wheel-spinning](short-consistent-delays-associated-wheel-spinning.md) — related
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related
 - [A retention-based definition of wheel-spinning classifies a much lower proportion of students as wheel-spinning than Beck and Gong's opportunity-count definition](retention-based-wheel-spinning-definition-lower-proportion.md) — related
+- [BEAGLE's HIGH and LOW performer profiles differentiate by SRL strategy: HIGH performers allocate 72% of steps to PLANNING and MONITORING while LOW performers spend 50.8% trapped in ENACTING](beagle-profile-strategy-differentiation.md) — related

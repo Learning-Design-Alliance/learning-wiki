@@ -164,3 +164,4 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — related
 - [HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice](hqim-teacher-guides-vary-in-educative-guidance-depth.md) — a narrower finding that bears on this claim
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — a narrower finding that bears on this claim
+- [Progressive scaffold fading moved teachers from guided participation toward independent justification, generalization, and task design](ai-scaffold-fading-independent-justification.md) — a narrower finding that bears on this claim

@@ -151,3 +151,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Teacher-guided matching activities and peer scaffolding during grid and path games advanced preschool children's one-to-one correspondence and counting skills](guided-matching-and-peer-scaffolding-build-correspondence.md) — related
 - [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — related
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — a narrower finding that bears on this claim
+- [Progressive scaffold fading moved teachers from guided participation toward independent justification, generalization, and task design](ai-scaffold-fading-independent-justification.md) — a narrower finding that bears on this claim

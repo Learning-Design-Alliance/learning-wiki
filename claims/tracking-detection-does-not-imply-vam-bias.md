@@ -53,3 +53,4 @@ Theoretical and simulation analysis reported by the authors, showing that the te
 - [The Rothstein falsification test is not definitive in showing bias in VAM teacher effect estimates](rothstein-test-not-definitive-evidence-of-bias.md) — possibly the same claim (merge candidate)
 - [The Rothstein test can reject VAMs even when students are randomly assigned conditional on the covariates in the model](rothstein-test-rejects-vams-random-assignment.md) — related
 - [The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased](rothstein-test-rejects-vams-without-bias.md) — related
+- [CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy](cdm-air-falsification-conditions.md) — a narrower finding that bears on this claim

@@ -73,6 +73,7 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 - [Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity](../strategies/sustained-pbis-professional-development-coaching.md)
 - [Peer Observation](../strategies/peer-observation.md)
 - [Use action research projects in which pre-service and in-service teachers jointly inquire into instructional decision-making](../strategies/action-research-reflective-teacher-education.md)
+- [Concentrate professional development support at the point of intention–behaviour translation through clinically embedded coaching](../strategies/coaching-at-intention-behaviour-translation.md)
 
 ## Key Sources
 - Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120

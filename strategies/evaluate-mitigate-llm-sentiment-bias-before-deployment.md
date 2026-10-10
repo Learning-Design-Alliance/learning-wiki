@@ -42,6 +42,7 @@ The article's practice recommendations are to measure sentiment bias in LLM-gene
 ## Related Strategies
 
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
+- [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
 
 ## Examples
 -

@@ -47,6 +47,8 @@ The briefs issue four strategic recommendations for leaders: "Build AI literacy 
 - [Coordinate cross-sector efforts to address AI literacy gaps, focusing on vulnerable workers lacking foundational digital literacy](coordinate-efforts-vulnerable-workers-ai-literacy.md)
 - [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
+- [Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms](anticipatory-governance-implementation-recommendations.md)
+- [Build institutional AI literacy and transparent risk-communication governance for agentic AI browsers](institutional-ai-literacy-and-risk-communication-governance.md)
 
 ## Examples
 -

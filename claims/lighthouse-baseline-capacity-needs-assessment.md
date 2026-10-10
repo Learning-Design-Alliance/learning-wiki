@@ -44,3 +44,4 @@ Needs assessments of the 12 lighthouse institutions rated seven dimensions; Tabl
 
 ## Related Claims
 - [Project leaders reported catalyzed changes in practice but concerns about rushed timelines and sustainability](team-lead-reflections-first-year.md) — related
+- [Faculty members rate equality, inclusiveness, and justice highest and institutional support lowest, with adequacy of institutional guidelines the lowest-rated item](faculty-survey-ethical-ai-profile-institutional-support-lowest.md) — related

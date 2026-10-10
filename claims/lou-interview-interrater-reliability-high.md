@@ -47,3 +47,5 @@ Second-year (Fall 1975-Spring 1976) rating procedure in which the interviewer's 
 - [LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information](lou-interview-validated-against-ethnography.md) — related
 - [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related
 - [The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives](rjm-high-interrater-reliability-teacher-educators.md) — related
+- [The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders](chatgpt-study-coding-kappa-082.md) — related
+- [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related

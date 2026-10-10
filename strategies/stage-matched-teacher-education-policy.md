@@ -48,6 +48,7 @@ The article's policy section recommends that early training concentrate on perce
 - [Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners](mentoring-for-community-lifelong-learning.md)
 - [Mentoring](mentoring.md)
 - [Withdraw mentor support earlier than currently thought, and calibrate how closely mentors work with mentees](withdraw-mentor-support-earlier.md)
+- [Pair flexible mentoring with clear milestone checklists and fallback activities in novice mentor preparation](milestone-checklists-for-novice-mentors.md)
 
 ## Examples
 -

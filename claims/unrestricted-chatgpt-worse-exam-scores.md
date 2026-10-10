@@ -45,3 +45,5 @@ The paper reports, citing Bastani et al., that in a study of high school mathema
 ## Related Claims
 - [A scaffolded AI Study Coach produced no assignment-performance or concept-inventory advantage over unrestricted AI use in a master's programming course pilot](scaffolded-coach-no-assignment-performance-advantage.md) — reports the opposite
 - [ChatGPT's exam scores were within 10% of human grades 70% of the time in a study of AI-based grading](chatgpt-grading-within-10-percent-human.md) — related
+- [Heavy reliance on generative AI can undermine learning: students with GPT-4 access performed better on practice problems but worse on exams once the tool was removed](gpt4-practice-gains-exam-loss-cognitive-debt.md) — possibly the same claim (merge candidate)
+- [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](guarded-ai-placement-prevents-unaided-exam-harm.md) — possibly the same claim (merge candidate)

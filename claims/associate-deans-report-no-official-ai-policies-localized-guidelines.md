@@ -53,3 +53,4 @@ Qualitative case study based on an 11-question Qualtrics survey of academic lead
 - [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](students-urge-ai-literacy-and-clear-rules.md) — related
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on
 - [Most higher education institutions report faculty use of generative AI in teaching, but fewer than 15% have formal ethical guidelines](genai-use-high-ethical-guidelines-rare.md) — related
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — a broader claim this one bears on
