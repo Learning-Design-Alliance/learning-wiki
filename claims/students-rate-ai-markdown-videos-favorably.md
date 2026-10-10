@@ -46,3 +46,4 @@ Descriptive post-test survey of 170 computing students at two U.S. institutions 
 - [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](ai-video-viewing-yields-quiz-scores-4-3.md) — related
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
 - [Only half of students could clearly tell the AI-generated videos were AI-generated, the item with the highest variance](half-students-could-not-detect-ai-videos.md) — related
+- [Students rated the manual annotation activity as more effective than traditional lectures for understanding bias and reported increased motivation](annotation-more-effective-than-lectures-for-bias.md) — related

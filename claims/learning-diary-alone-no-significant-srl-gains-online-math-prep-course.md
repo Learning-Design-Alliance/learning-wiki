@@ -53,3 +53,4 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [Measuring the impact of math instruction and interventions is key to improving students' overall math performance](measuring-math-impact-key-to-improving-performance.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
+- [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](srl-strategies-associated-lower-digital-distraction.md) — related

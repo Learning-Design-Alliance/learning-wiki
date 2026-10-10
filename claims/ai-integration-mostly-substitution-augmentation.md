@@ -44,3 +44,4 @@ Systematic review of 22 studies of AI in undergraduate higher education, coded w
 
 ## Related Claims
 - [Included AI-in-higher-education studies were geographically concentrated in North America and Asia, with medicine, computer science, and engineering as leading disciplines](ai-education-research-geographic-disciplinary-concentration.md) — related
+- [Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies](ai-sustainability-initiatives-limited-exploratory.md) — a narrower finding that bears on this claim

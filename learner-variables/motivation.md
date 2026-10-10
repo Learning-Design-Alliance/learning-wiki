@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (50 for, 12 mixed, 7 against) · 73 studies (24 associational, 16 causal, 15 review, 6 qualitative, 5 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 11 of 73 report an effect size · 62 claims rest on one study
+> **Evidence** · 76 claims (55 for, 13 mixed, 8 against) · 75 studies (25 associational, 16 causal, 15 review, 7 qualitative, 5 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 12 of 75 report an effect size · 69 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -103,6 +103,13 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy](../claims/iterative-testing-predicts-self-efficacy-gains.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](../claims/self-efficacy-predicts-cluster-membership.md) [-M] — learners who differ on it differ in outcomes
 - [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](../claims/chatgpt-teaching-self-efficacy-cognitive-strategies.md) [+M] — instruction changes it
+- [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](../claims/apl-parallel-mediation-deep-revision.md) [+M] — learners who differ on it differ in outcomes
+- [AI Prompting Literacy significantly positively predicts Perceived Competence, Intrinsic Motivation, and Psychological Safety among Chinese university EFL learners](../claims/apl-predicts-psychological-needs-satisfaction.md) [+M] — instruction changes it
+- [External Mandate shows no significant direct relationship with Deep Revision Engagement](../claims/external-mandate-no-direct-effect-deep-revision.md) [-M] — learners who differ on it differ in outcomes
+- [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](../claims/ena-networks-motivational-groups.md) [~M] — learners who differ on it differ in outcomes
+- [Intrinsically motivated students show significantly higher proportions of evaluation and elaboration messages, while extrinsically motivated students concentrate in planning and orientation](../claims/intrinsic-motivation-higher-order-metacognition.md) [+M] — learners who differ on it differ in outcomes
+- [Motivational orientation is strongly associated with the role students assign to GenAI: intrinsically motivated students most often position it as an instructor, extrinsically motivated students as a replacement tool](../claims/motivation-shapes-genai-role-assignment.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](../claims/psychological-mediators-predict-deep-revision.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

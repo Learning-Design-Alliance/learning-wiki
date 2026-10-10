@@ -148,6 +148,7 @@ The present evidence establishes no length or frequency of consultation, no numb
 - [Demonstration](../elements/demonstration.md) — experts make tacit processes visible before learners attempt the task themselves
 - Clinical rounds, design critiques, code reviews, and studio conferences are common real-world forms of this principle when experts respond directly to learner work
 - [Think-Aloud](../elements/think-aloud.md) — the expert voices the cues and criteria behind a decision on a parallel case
+- [Revise educational SLM system prompts using the Persona and Context Manager patterns plus cognitive-apprenticeship scaffolding guidelines](../strategies/educational-prompt-patterns-persona-context-manager-apprenticeship.md)
 
 ## Key Sources
 - Daley, B. J. (1999). Novice to expert: An exploration of how professionals learn. *Adult Education Quarterly, 49*(4), 133-147. [ERIC](https://eric.ed.gov/?id=EJ592654)

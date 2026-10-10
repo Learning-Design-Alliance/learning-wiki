@@ -58,8 +58,10 @@ Source evaluation is most effective when taught as *lateral reading* — leaving
 5. Transfer check: give learners an unfamiliar source a week later and assess whether they investigate laterally without prompting.
 
 ## Related Strategies
+
 - [3-Source Rule](3-source_rule.md) — corroborating a claim across multiple sources complements evaluating any single source
 - [A Finder's Guide to Facts](a_finders_guide_to_facts.md) — broader fact-finding framework within which source evaluation sits
+- [Teach AI-mediated judgement and make process, judgement and transfer visible in assessment](teach-ai-mediated-judgement-assessment.md)
 
 ## Examples
 - **[Civic Online Reasoning curriculum](https://cor.stanford.edu)** (Stanford History Education Group) — free lessons and assessments built on lateral reading research; students learn to investigate sources by leaving the page.

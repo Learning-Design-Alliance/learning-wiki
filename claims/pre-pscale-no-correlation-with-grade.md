@@ -45,3 +45,4 @@ Regression of final course grade on pre-course pscale for the paired-reflection 
 ## Related Claims
 - [Post-course expansive preference is slightly positively correlated with course grade, but causation is not established](post-pscale-slight-positive-grade-correlation.md) — related
 - [Students' problem-solving preference shifts significantly toward expansive strategies over a semester of multifaceted problems](pscale-shifts-toward-expansive-strategies.md) — related
+- [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related

@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (26 for, 4 mixed, 2 against) · 37 studies (12 causal, 8 quant-synthesis, 6 review, 4 design, 3 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 10 of 37 report an effect size · 28 claims rest on one study
+> **Evidence** · 35 claims (28 for, 5 mixed, 2 against) · 40 studies (12 causal, 8 quant-synthesis, 7 review, 4 qualitative, 4 design, 3 associational, 2 theoretical), `q1`–`q4` · 10 of 40 report an effect size · 31 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -65,6 +65,9 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Higher tab accept rates are strongly associated with failing attention checks among CS1 students using an AI code completion tool](../claims/tab-accept-rate-strongly-associated-failed-attention-checks.md) [+M] — instruction changes it
 - [Longer dwell time on AI suggestions is associated with better attention check performance but slightly lower task performance](../claims/dwell-time-attention-checks-versus-task-performance.md) [~M] — learners who differ on it differ in outcomes
 - [Students working with multi-view program visualizations spend nearly half their attention on the code view, with attention distribution varying by task topic](../claims/gaze-anchored-in-code-despite-multi-view-scaffolds.md) [~M] — instruction changes it
+- [Attention across the SDGs is uneven, with focus on SDG 9 but limited engagement with SDG 4 and SDG 14](../claims/uneven-sdg-attention-sdg9-versus-sdg4-sdg14.md) [+M] — instruction changes it
+- [Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others](../claims/divided-views-star-rating-display.md) [~M] — instruction changes it
+- [Videos experienced as higher attention difficulty were associated with lower normalized quiz learning gains, providing convergent evidence that the probe captures an educationally meaningful aspect of momentary engagement](../claims/attention-difficulty-inversely-related-quiz-gains.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

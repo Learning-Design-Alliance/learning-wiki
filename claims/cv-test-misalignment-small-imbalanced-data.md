@@ -44,3 +44,4 @@ Comparison of stratified 5-fold CV results (Table 9) with held-out test results 
 
 ## Related Claims
 - [The best AES models per FRISCO dimension reached strong agreement for Situation (QWK 0.728) and Clarity (QWK 0.763) but only fair agreement for Focus, Reason, and Inference in Indonesian physics essays](aes-frisco-qwk-varies-by-dimension.md) — related
+- [Decision quality collapses toward the majority action in severely imbalanced settings](decision-collapse-severely-imbalanced-settings.md) — related

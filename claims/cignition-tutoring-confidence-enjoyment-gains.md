@@ -49,3 +49,4 @@ In the same RCT, survey data from 139 students with complete survey data measure
 - [Teachers report the program supports student interest, confidence, and enjoyment of math](mma-teacher-survey-qualitative-findings.md) — related
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
+- [AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related

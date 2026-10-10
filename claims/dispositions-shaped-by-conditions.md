@@ -56,3 +56,5 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently](ai-outcomes-shaped-by-leadership-infrastructure-governance.md) — related
 - [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — related
 - [Empowering and distributive leadership styles are associated with greater faculty engagement and willingness to adopt AI in higher education, per the reviewed studies](empowering-distributive-leadership-ai-adoption.md) — related
+- [Presenting prototypes to community partners created a sense of accountability among students that extended beyond grading](community-presentation-created-accountability-pressure.md) — related
+- [Student co-authorship and open-source release enacted epistemic equity, transitioning students from data sources to knowledge producers](student-coauthorship-enacts-epistemic-equity.md) — related

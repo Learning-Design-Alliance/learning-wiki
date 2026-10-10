@@ -170,6 +170,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Modeling Writing and Revising](../strategies/modeling-writing-and-revising.md) — thinking aloud while planning and revising.
 - [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](../strategies/process-oriented-assessment-four-stage-model.md)
 - [Integrate AI feedback as a supportive resource within process-oriented drafting cycles, with explicit guidance on critical evaluation](../strategies/ai-feedback-process-writing-integration-strategy.md)
+- [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](../strategies/collaborative-human-ai-revision-design.md)
 
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.

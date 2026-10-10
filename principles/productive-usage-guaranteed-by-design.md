@@ -18,7 +18,7 @@ sources:
 # Design tools so productive usage is guaranteed by affordances and constraints rather than instructions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Drawing on Norman's tool-design model, the article argues that effective designs make affordances salient and use productive constraints so that correct usage requires no textual direction. The authors state: "Effective designs use affordances and constraints to create tools where correct usage is guaranteed by design (Norman, 2002)." They illustrate with a door needing a push but affording pulling (poor design, requiring a PUSH sign) versus a handle-less plate (good design, no instruction needed), and apply the same logic to sim design, which should afford productive usage and constrain unproductive usage.
@@ -42,6 +42,7 @@ Drawing on Norman's tool-design model, the article argues that effective designs
 - [A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance](../claims/implicit-scaffolding-supports-immediate-exploration.md) [+W]
 - [A student used slider extremes to make qualitative comparisons of skater mass effects](../claims/slider-extremes-support-qualitative-comparisons.md) [+W]
 - [Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence](../claims/flexibility-supports-agency-productive-sequence.md) [+W]
+- [Ablating expert-informed structural components lowered LLM-judge scores on all dimensions, with largest drops in challenge quality, intent alignment, and domain grounding](../claims/ablation-structural-components-lower-judge-scores.md) [+W] — attached 2026-10-10 from Hornung et al. (2026), which proposed "Bound generative agent flexibility with structured autonomy rather than static scripting in high-stakes agentic learning systems"; tests this page's relationship.
 
 ## Related Principles
 - 

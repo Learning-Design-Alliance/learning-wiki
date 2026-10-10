@@ -55,6 +55,7 @@ The report recommends that states integrate co-design with feedback loops—defi
 - [Use a design thinking process with Empathize, Define, Ideate, Prototype, and Test stages to reimagine school safety](design-thinking-reimagining-school-safety.md)
 - [Use generative AI to make assessment systems more instructionally relevant, not to reify problematic practices](genai-for-instructionally-relevant-assessment.md)
 - [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
+- [Use the DOT Framework's Empathize and Test/Feedback stages as practical checklists, and build professional learning communities around shared prompting and critique practices](dot-empathize-test-checklist-plc-strategy.md)
 
 ## Examples
 -

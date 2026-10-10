@@ -95,11 +95,13 @@ This pattern is scoped to complex skills where whole-task transfer is the object
 - [Reigeluth's Elaboration Theory](elaboration-theory.md)
 
 ## Examples
+
 - Clinical training programs that move from simpler to more complex patient cases while fading support.
 - Technical workforce training where learners perform increasingly realistic troubleshooting tasks.
 - Professional education sequences that combine authentic tasks, coaching, and targeted subskill drills.
 - [Whole Task Practice](../strategies/whole-task-practice.md)
 - [Scaffolded Difficulty Progression](../strategies/scaffolded-difficulty-progression.md)
+- [Scaffold GenAI learning activities and assessments progressively across all undergraduate levels](../strategies/scaffolded-genai-activities-assessments-across-levels.md)
 
 ## Key Sources
 - van Merrienboer, J. J. G. (1997). *Training complex cognitive skills*. Educational Technology Publications.

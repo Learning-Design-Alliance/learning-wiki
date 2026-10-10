@@ -45,6 +45,7 @@ Following research on human-centred learning analytics, the authors suggest "the
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
 - [Ground ethical inquiry into AI in the realities of teaching, assessment, leadership, and professional judgement rather than treating it as external compliance](ground-ai-ethics-inquiry-in-teaching-practice.md)
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
+- [Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development](teacher-training-support-strategy-ai-implementation.md)
 
 ## Examples
 -

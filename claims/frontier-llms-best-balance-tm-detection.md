@@ -69,3 +69,4 @@ Evaluation of fine-tuned T5-small and BERT-base classifiers on the Eedi test dat
 - [Standard ML interventions do not improve hidden-misconception detection beyond the fine-tuned classifier baseline](standard-ml-interventions-no-detection-gain.md) — related
 - [A reasoning-capable open-weight model detects 84% of hidden misconceptions but at realistic prevalence false alarms outnumber genuine detections roughly 8 to 1](reasoning-model-detection-false-alarm-tradeoff.md) — related
 - [A task-specific prompt with explicit guidance about correct-answer cases significantly outperforms literature-based PedCoT prompting on TM test cases (84% vs 59% accuracy)](task-specific-prompt-beats-pedcot-prompting.md) — related
+- [Adaptation through prompt injection avoids fine-tuning, so the system works with any OpenAI-compatible LLM and its logic is transparent to educators](prompt-engineering-adaptation-transparency-tradeoff.md) — related

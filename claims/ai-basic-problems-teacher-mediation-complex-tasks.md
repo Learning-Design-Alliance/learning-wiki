@@ -46,3 +46,4 @@ Finding from the systematic review's synthesis of the 14 studies on AI intervent
 - [A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences](ai-math-review-14-studies-outcomes.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
+- [AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills in PBL](ai-pbl-adaptive-personalized-engagement.md) — related

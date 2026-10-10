@@ -50,3 +50,5 @@ The author's documented exploratory audit of one manuscript (4,613–4,727 words
 - [AI language polishing alone can flip human-authored scholarly texts from human-classified to AI-classified](polishing-flips-detector-classification.md) — related
 - [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](gpt-detectors-biased-against-nonnative-english-writers.md) — related
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
+- [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
+- [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related

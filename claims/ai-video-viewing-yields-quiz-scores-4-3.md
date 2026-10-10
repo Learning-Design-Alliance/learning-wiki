@@ -47,3 +47,4 @@ Post-survey knowledge test with five multiple-choice questions on video content,
 - [Test-taking disengagement distorts both individual and aggregated test scores](disengagement-distorts-individual-and-aggregated-scores.md) — a broader claim this one bears on
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — a broader claim this one bears on
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
+- [Student ratings of the AI-generated materials ranged from an average of 8.5 to 9.9 out of 10 across validated modules, based on over 600 voluntary anonymous evaluations.](student-ratings-8-5-to-9-9-generated-materials.md) — related

@@ -51,3 +51,4 @@ Latent one-level SEM with cluster robust standard errors (lavaan) on the same su
 - [Teacher technology use and school culture explain an additional 18 percent of school-by-school differences in high school student technology use](teacher-use-culture-explain-school-variance-student-tech-use.md) — related
 - [Computer availability explains almost half of between-school differences in student computer use, with the strongest relationship in schools with insufficient access](availability-explains-school-variance-student-use.md) — related
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](teacher-technology-training-gap.md) — related
+- [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related

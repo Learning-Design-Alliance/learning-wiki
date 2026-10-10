@@ -59,9 +59,11 @@ Peer revision works because evaluating someone else's work against criteria forc
 6. Close the loop: spot-check revisions and occasionally grade the *quality of the review given*, signaling that critiquing is itself assessed work.
 
 ## Related Strategies
+
 - [Instructor Feedback Loops](../strategies/instructor-feedback-loops.md) — peer review supplements rather than replaces expert feedback; combine for high-stakes work
 - [Writing Conferences](../strategies/5-minute_writing_conferences.md) — one-to-one instructor conferencing targets what peers cannot diagnose
 - [Collaborative Writing](../strategies/collaborative-writing.md) — co-authoring shares the revision burden but differs from critique-and-revise
+- [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
 
 ## Examples
 - **Calibrated Peer Review (CPR)** (https://cpr.molsci.ucla.edu) — discipline-agnostic web system in which students calibrate against instructor-scored samples before reviewing peers; widely used in undergraduate science writing.

@@ -59,8 +59,10 @@ Strategy instruction paired with metacognitive reflection reliably improves prob
 6. Gradually reduce prompting and [Coaching](../elements/coaching.md) as students begin self-initiating strategies.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a strategy students can be taught to use *when stuck*, and a prerequisite for choosing among strategies
 - [Action Planning](action_planning.md) — the planning half of the self-regulation cycle that strategy use completes
+- [Use staged problem-solving reflection assignments to build metacognition around LLM use and surface student help-seeking perspectives](staged-problem-solving-reflections-llm-use.md)
 
 ## Examples
 - A math lesson built around a problem designed to make students feel "stuck," followed by a debrief where students name moves ("draw a picture," "work backwards," "try a smaller case") that are added to a class strategy chart.

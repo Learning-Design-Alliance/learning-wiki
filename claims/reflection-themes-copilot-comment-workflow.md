@@ -45,3 +45,5 @@ LLM-assisted four-round thematic analysis of end-of-activity reflections (Table 
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](overreliance-reduced-critical-thinking-ai-efl.md) — related
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
+- [Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code](cs2-student-llm-use-three-themes.md) — related
+- [Students predominantly recommended future students use office hours and formal course staff, with LLMs positioned as a supplement](students-recommend-office-hours-over-llms.md) — related

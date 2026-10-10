@@ -63,6 +63,7 @@ Adaptive systems work by keeping each learner operating at the edge of their cur
 - [Spaced Retrieval](spaced-retrieval.md) — adaptive scheduling of review items (e.g., expanding intervals) is a common and well-supported adaptation dimension
 - [Formative Assessment](formative-assessment.md) — supplies the performance evidence on which any adaptation depends
 - [Use ongoing assessments to tailor early-childhood learning experiences](ongoing-assessment-tailored-early-learning.md)
+- [Profile-driven adaptive strategy rules composed dynamically and injected into the system prompt each turn](adaptive-strategy-prompt-injection-rules.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — free math platform that adapts problem selection and scaffolding based on student responses; evaluated in randomized controlled trials in Maine middle schools.

@@ -48,3 +48,4 @@ Bias-corrected Bootstrap mediation testing in the SEM study (229 valid responses
 - [Perceived AI empowerment is positively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-empowerment-positively-associated-trust-genai-dependence.md) — related
 - [Perceived AI threat is negatively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-threat-negatively-associated-trust-genai-dependence.md) — related
 - [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related
+- [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related

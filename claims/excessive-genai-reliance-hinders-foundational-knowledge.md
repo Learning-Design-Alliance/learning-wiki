@@ -52,3 +52,4 @@ Finding from the Assessment Strategies theme of the thematic analysis, reported 
 - [GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes](genai-assessment-reform-sequential-seven-themes.md) — a broader claim this one bears on
 - [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related
 - [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related
+- [GenAI consolidates multiple core pedagogical functions within a single technological interface, a scaling effect qualitatively distinct from prior educational tools](genai-consolidates-pedagogical-functions-single-interface.md) — related

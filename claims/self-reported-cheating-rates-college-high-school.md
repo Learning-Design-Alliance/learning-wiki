@@ -47,3 +47,4 @@ The review reports, citing prior survey work, self-admitted cheating prevalence:
 - [Academic integrity concerns were the third most prevalent pedagogical limitation, reported in 20 of 54 studies (37%)](academic-integrity-concerns-ai-efl-prevalence.md) — related
 - [GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use](beyond-defensive-assessment-genai-era.md) — related
 - [Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences](academic-integrity-paramount-genai-policy-concern.md) — related
+- [A significant concern for business students is wanting to use GenAI in academic work without unintentionally committing academic misconduct](student-concern-unintentional-genai-academic-misconduct.md) — related

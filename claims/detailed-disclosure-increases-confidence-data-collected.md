@@ -65,3 +65,4 @@ Robustness check with the Kruskal-Wallis H test given unequal condition sizes co
 - [The format of detailed disclosure (detailed text versus icon-based nutrition label) makes no difference to students' confidence about data collection](disclosure-format-no-effect-confidence.md) — related
 - [Data disclosure of any format does not change students' acceptance of data collection by their university](disclosure-no-effect-acceptance.md) — related
 - [Detailed disclosure does not make students more conservative about who should have access to their educational data](disclosure-no-effect-access-opinions.md) — related
+- [In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak](policy-audit-collection-strong-ai-accountability-weak.md) — related

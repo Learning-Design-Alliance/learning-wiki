@@ -58,8 +58,10 @@ Brainstorming topics of interest leverages situational interest as an entry poin
 5. Revisit the list at the start of each unit, adding new topics and marking ones that have been addressed — the list is ongoing, not one-shot.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — surfacing what learners already know and wonder about is the natural precursor to a topic brainstorm
 - [KWL](../strategies/kwl.md) — the "W" (want to know) column is a structured, individual version of the same move
+- [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 
 ## Related Elements
 - [Activation](../elements/activation.md) — the opening move that surfaces interests and curiosity

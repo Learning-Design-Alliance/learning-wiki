@@ -46,3 +46,4 @@ Quantitative usability assessment in the UAM pilot: the SUS was administered to 
 - [In a real academic pilot, AISSA processed 90 presentations reliably at 1–3 minutes per submission and an estimated cost of $0.06–0.07 USD per evaluation](aissa-pilot-reliable-low-cost-processing.md) — related
 - [Students rated the usability of the AIvaluate assessment in the SUS 'good' range](aivaluate-sus-usability-good-range.md) — related
 - [Students in initial deployment perceived AI-assisted feedback as highly coherent and useful, with excellent usability acceptance](aicofe-initial-deployment-positive-perceptions.md) — a broader claim this one bears on
+- [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related

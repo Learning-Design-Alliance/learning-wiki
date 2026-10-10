@@ -44,7 +44,8 @@ The article argues that representing latent learner states probabilistically, ra
 - 
 
 ## Examples
--
+
+- [Design AI learning systems for inspectable, contestable use: provenance, represented uncertainty, user control and epistemic plurality](../strategies/design-contestable-ai-provenance-plurality.md)
 
 ## Key Sources
 - Jia Nan, Su Weitao, Xian Junrui, Zou Shijia, Xia Yixue. (2026). Adaptive G-UKT: a unified probabilistic framework for knowledge tracing via adaptive graph topology learning and uncertainty-aware Gaussian embeddings. Scientific Reports. https://doi.org/10.1038/s41598-026-50711-y

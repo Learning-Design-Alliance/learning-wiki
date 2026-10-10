@@ -59,8 +59,10 @@ Narrative context supports engagement and comprehension by giving abstract conte
 5. **Reflect on authoring decisions.** Learners explain why particular branches lead where they do, converting narrative choices into explicit conceptual reasoning.
 
 ## Related Strategies
+
 - [Case Studies](../elements/case-studies.md) — interactive stories are essentially cases where the learner chooses the protagonist's moves
 - Role-play and simulation — share the goal of practicing decisions in consequence-bearing contexts
+- [Invite students to design costumes and narratives for their robots as legitimate epistemic engagement](robot-costume-narrative-design-strategy.md)
 
 ## Examples
 - **[Twine](https://twinery.org)** — open-source branching narrative tool widely used in classrooms; students author hypertext stories with no coding required.

@@ -49,3 +49,5 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
 - [The amount of AI-generated code in a submission was the dominant factor influencing students' ethical and rule-compliance judgments](amount-of-ai-generated-code-dominant-factor-in-ethical-judgments.md) — related
 - [Topic modeling of open-ended responses revealed five themes centered on ChatGPT's simplicity, speed, and role as a support tool](lda-five-themes-chatgpt-perceptions.md) — related
+- [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
+- [Collaborative testing shows the taxonomy enables comparison between similar GenAI activities while inevitably falling short of portraying all entangled aspects](taxonomy-testing-reveals-limits-and-comparison.md) — related

@@ -37,7 +37,8 @@ The review consolidates the strategic approaches recommended by recent research 
 - mathematics teaching and learning supported by AI under ethical, equitable conditions
 
 ## Related Strategies
-- 
+
+- [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
 
 ## Examples
 -

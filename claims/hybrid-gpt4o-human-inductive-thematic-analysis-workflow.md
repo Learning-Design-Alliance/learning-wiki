@@ -78,3 +78,4 @@ Data preparation step: transcripts were segmented into topic-based files (approx
 - [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — related
 - [Students most valued code reviews for motivating deeper learning (58 of 94), while their main complaints were TA inconsistency (31 of 92) and scheduling difficulties (20 of 92)](cs1-cr-qualitative-perceptions-themes.md) — related
 - [Topic modeling can be used to examine thematic development in emerging research fields](topic-modeling-tracks-thematic-development-emerging-fields.md) — related
+- [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related

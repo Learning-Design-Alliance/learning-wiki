@@ -46,6 +46,7 @@ The article recommends that instructors scaffold self-regulated learning by desi
 - [Self Regulated Learning Instruction](self-regulated-learning-instruction.md)
 - [Self Regulated Learning Strategy Instruction](self-regulated-learning-strategy-instruction.md)
 - [Self Regulated Learning](self-regulated-learning.md)
+- [Teach AI-mediated judgement and make process, judgement and transfer visible in assessment](teach-ai-mediated-judgement-assessment.md)
 
 ## Examples
 -

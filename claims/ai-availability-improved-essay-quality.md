@@ -48,3 +48,4 @@ Pre/post comparison of LLM-assessed essay quality across six cycles, standardize
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - [Applicants who submitted AI-written essays were admitted at lower rates than comparable non-users, with an estimated penalty of about 1.5 percentage points per AI-written essay](ai-essay-use-penalized-in-admissions.md) — related
 - [By the 2025 admissions cycle, a majority of applicants to the studied public policy master's program submitted at least one primarily AI-generated essay despite an explicit prohibition](majority-applicants-submitted-ai-generated-essays-2025.md) — related
+- [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related

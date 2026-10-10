@@ -50,3 +50,4 @@ Focus-group theme from the 10-participant qualitative pilot. Typed-response subt
 - [Students who reported their teacher was more knowledgeable with the program perceived education technology as more beneficial](teacher-knowledge-higher-perceived-benefit.md) — related
 - [Families struggle to access and understand score reports because of technological, language, and explanation barriers](score-reports-inaccessible-to-families.md) — related
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
+- [Pilot testing found the initial problem posing test response time too short, with most pilot students unable to complete all three items](pilot-response-time-insufficient-problem-posing-test.md) — related

@@ -59,9 +59,11 @@ The model's value lies in converting problem solving from an unstructured search
 5. **Evaluate** — Learners check results against the goal, analyze what worked, and decide whether to cycle back ([Individual Reflection](../elements/individual-reflection.md), [Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - [IDEAL Problem Solving](../strategies/ideal-problem-solving.md) — a closely parallel five-stage model (Identify, Define, Explore, Act, Look back)
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — similarly externalizes expert strategies through structured stages
 - [Case-Based Learning](../strategies/case-based-learning.md) — supplies the authentic problems the cycle is applied to
+- [Use staged problem-solving reflection assignments to build metacognition around LLM use and surface student help-seeking perspectives](staged-problem-solving-reflections-llm-use.md)
 
 ## Examples
 - **Mathematics classrooms**: Students restate a word problem in their own words, list knowns and unknowns, sketch a diagram, attempt a solution showing all work, then verify the answer against the original question — Polya's understand/plan/carry out/look-back cycle in practice

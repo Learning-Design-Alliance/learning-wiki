@@ -55,3 +55,4 @@ The report attributes to cited research (Fan et al., 2024; Gerlich, 2025; Kosmyn
 - [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — a narrower finding that bears on this claim
 - [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — related
 - [GenAI and metacognitive self-reports did not robustly predict behavioral regulation or final task performance](self-reports-fail-to-predict-llm-regulation.md) — related
+- [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — reports the opposite

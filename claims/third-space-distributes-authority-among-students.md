@@ -49,3 +49,4 @@ Qualitative analysis of one session: students took turns interpreting Mahaley's 
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [Learning environment had a less significant impact on causal mechanistic reasoning on the boiling point task, with a small effect size of 0.168](boiling-task-environment-effect.md) — related
 - [Learning environment significantly affected students' use of causal mechanistic reasoning on the dissolution task, with the core ideas environment highest at 40%](dissolution-task-environment-effect.md) — related
+- [Student co-authorship and open-source release enacted epistemic equity, transitioning students from data sources to knowledge producers](student-coauthorship-enacts-epistemic-equity.md) — a narrower finding that bears on this claim

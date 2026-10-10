@@ -49,3 +49,4 @@ Internal consistency estimates computed after the exploratory analysis for the s
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
 - [Socio-constructivist and absolutist views of mathematics are only mildly related (r = .21) and cannot be treated as opposite poles of one dimension](socio-constructivist-absolutist-views-not-opposite-poles.md) — related
 - [No statistically significant differences among the four Knowledge/Judgment item scores (ANOVA p=.549), confirming similar rank scores](no-item-differences-anova-rjm.md) — related
+- [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related

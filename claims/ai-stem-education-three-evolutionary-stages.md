@@ -48,3 +48,4 @@ Bibliometric time-zone evolution analysis of the 242-document corpus in VOSviewe
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
 - [Annual publication output on AI in STEM education grew moderately 2015–2018 and showed explosive growth after 2022 driven by LLMs](ai-stem-publication-explosive-growth-after-2022.md) — related
 - [AIOL research shows a temporal shift from early traditional AI applications toward machine learning and deep learning approaches](aiol-shift-traditional-ai-to-machine-deep-learning.md) — related
+- [Three major research themes—Ethical AI, Responsible AI, and Energy-efficient AI—each reached 50 per cent trend presence by 2025](three-themes-ethical-responsible-energy-efficient-ai.md) — related

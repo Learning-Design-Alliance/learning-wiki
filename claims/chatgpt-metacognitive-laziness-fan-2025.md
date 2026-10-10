@@ -53,3 +53,4 @@ The review reports this second-hand, citing Fan et al. (2025); the underlying ra
 - [AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored](ai-srl-impact-metacognitive-cognitive-motivation-underexplored.md) — related
 - [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — related
+- [Learning outcomes differ by how students use AI: augmentation and mixed users show gains in both sessions, while automation users' Session One essay advantage is absent from their unaided essays](genai-outcomes-differ-by-use-type.md) — related

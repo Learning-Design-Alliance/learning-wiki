@@ -56,3 +56,4 @@ Meta-analysis of 15 studies (5,519 participants) from Scopus, IEEE Explore, and 
 - [Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies](sm-interventions-improve-academic-outcomes-scd.md) — related
 - [Blended implementation models matched to learner skill level: high-touch blended for lowest-skilled learners, online courses for more advanced students](blended-high-touch-lowest-skilled-adults.md) — related
 - [A survey of 100 leading companies found 86 percent use blended learning strategies combining an average of 4.8 different modalities](corporate-blended-learning-adoption.md) — related
+- [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](srl-strategies-associated-lower-digital-distraction.md) — related

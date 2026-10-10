@@ -47,6 +47,7 @@ The toolkit recommends seven methodologies it has used to design LER technologie
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
 - [Engage users and community members in the design process to make learning tools more attractive, useful, and effective](user-and-community-centered-design-methods.md)
 - [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](five-step-codesign-badge-development-process.md)
+- [Six-step design methodology: elicit values, minimal intervention, multi-level multi-outcome evaluation, iterate, simulate scale, sunset](six-step-emancipatory-aied-design-methodology.md)
 
 ## Examples
 -

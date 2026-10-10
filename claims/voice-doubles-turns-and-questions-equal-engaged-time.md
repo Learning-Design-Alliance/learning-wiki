@@ -46,3 +46,4 @@ Within-student process contrasts from platform telemetry and the voice provider'
 - [Voice and text tutoring produced statistically equivalent weekly mastery within students, while voice transformed the interaction at a 2.8× cost premium](voice-text-mastery-equivalent-interaction-transformed.md) — related
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets](curiosity-modulation-increases-conversational-turns.md) — related

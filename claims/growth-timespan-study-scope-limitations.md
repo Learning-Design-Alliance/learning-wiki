@@ -44,3 +44,4 @@ Authors' stated limitations: the sample is from one state using MAP Growth, a lo
 
 ## Related Claims
 - [SEDA growth estimates show a high degree of congruence with MAP Growth-based estimates overall](seda-map-growth-high-overall-congruence.md) — related
+- [Methodological scope of existing research is limited: small samples, single courses, and short-term interventions](short-term-small-sample-ai-writing-studies.md) — related

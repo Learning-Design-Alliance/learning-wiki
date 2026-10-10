@@ -63,9 +63,11 @@ QFT treats question-asking as a teachable skill rather than a fixed disposition,
 7. **Reflect.** Learners note what they learned about question-asking itself, closing the metacognitive loop.
 
 ## Related Strategies
+
 - [Socratic questioning](../elements/socratic-questioning.md) — instructor-led questioning; QFT inverts the direction of inquiry
 - [KWL](kwl.md) — a lighter-weight "what do you want to know?" routine; QFT adds systematic refinement and prioritization
 - [Think-Pair-Share](../patterns/think-pair-share.md) — compatible grouping structure for the generation phase
+- [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 
 ## Examples
 - **Right Question Institute** — publishes the full QFT protocol, free classroom resources, and recorded exemplars across grade levels and disciplines: [rightquestion.org](https://rightquestion.org)

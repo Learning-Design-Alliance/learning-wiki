@@ -51,3 +51,4 @@ Survey ANOVA results for RQ3 (n = 72 non-user subgroup): significant reasons inc
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
 - [University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use](student-ai-engagement-clusters-two-extremes.md) — related
 - [Prior chatbot exposure rather than general technological literacy is associated with willingness to use chatbots](prior-ai-exposure-predicts-chatbot-uptake.md) — related
+- [Teachers largely perceive GenAI as semi-autonomous and prefer to retain full control over their teaching](teachers-perceive-genai-semi-autonomous-retain-control.md) — related

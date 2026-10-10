@@ -49,3 +49,4 @@ Keystroke-log analysis comparing effort measures per submission across Fall 2024
 - [AIfred and ChatGPT produce comparable math scores while assistance is available](aifred-chatgpt-comparable-assisted-math.md) — related
 - [Paste event counts stayed roughly constant while pasted characters rose, indicating students pasted larger blocks of AI-generated code](cs1-cr-paste-events-unchanged-larger-blocks.md) — related
 - [The percentage of pasted characters in coding assignments rose significantly from 61.0% in Fall 2024 to 68.1% in CS1-CR](cs1-cr-pasted-character-percentage-increase.md) — related
+- [Practicing with AI was less effortful than practicing alone, with participants spending less time and logging fewer keystrokes](ai-practice-less-effortful-fewer-keystrokes.md) — reports the opposite

@@ -47,3 +47,4 @@ The report cites reviewed research (Kreijkes et al., 2025) reporting that LLM-ba
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
 - [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — related
 - [Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments](genai-pedagogical-effects-investigation-limited.md) — related
+- [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — reports the opposite

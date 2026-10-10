@@ -45,3 +45,4 @@ Instrumentation section describing the EEEBI, a 23-item Likert-type instrument p
 ## Related Claims
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related
 - [Preservice elementary teachers hold positive outcome expectancy beliefs that effective teaching improves student EE learning](preservice-teachers-positive-ee-outcome-expectancy.md) — related
+- [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related

@@ -45,3 +45,4 @@ Pilot survey with open-ended questions conducted in March 2026 among first-year 
 ## Related Claims
 - [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](students-urge-ai-literacy-and-clear-rules.md) — related
 - [NMT uptake in institutional legal translation is high (ca. 80%) but much lower among UK-based freelance translators (41%)](nmt-uptake-institutional-vs-freelance-legal-translators.md) — related
+- [First-year undergraduate business students reported high engagement and recognised the necessity of developing GenAI skills for their future careers](business-students-engaged-genai-skills-necessity.md) — related

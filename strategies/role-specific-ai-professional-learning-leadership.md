@@ -51,6 +51,8 @@ The report's third use case illustrates Recommendation 3—investing 'in role-sp
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Support digitally fluent career pathways through ecosystems, educator training, work-based learning, convenings, and showcases](clpi-digital-fluency-pathway-supports.md)
 - [Pair digital-infrastructure funding with blended-learning support and AI literacy training for students](pair-infrastructure-funding-with-ai-literacy-training-and-blended-support.md)
+- [Share discipline-specific GenAI examples aligned with instructional needs to improve teacher adoption](discipline-specific-genai-examples-strategy.md)
+- [Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development](teacher-training-support-strategy-ai-implementation.md)
 
 ## Examples
 -

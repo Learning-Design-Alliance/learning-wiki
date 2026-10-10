@@ -47,3 +47,4 @@ Case study of the Maker Learning @ Home cohort, an amplifier structure in which 
 - [AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project](ai-prototyping-accelerates-development-with-feedback-loops.md) — related
 - [Maker champions rank student project ideas and guides as the most needed resource, with online professional development least desired](maker-champions-project-guides-highest-need.md) — related
 - [Student project ideas and guides remain the biggest identified resource need, while demand for professional development decreased](maker-resource-needs-project-guides-pd-decline.md) — related
+- [Presenting prototypes to community partners created a sense of accountability among students that extended beyond grading](community-presentation-created-accountability-pressure.md) — related

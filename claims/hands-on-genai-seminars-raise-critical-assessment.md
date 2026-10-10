@@ -45,3 +45,4 @@ The review reports, citing Tzirides et al. (2024), graduate-level seminars with 
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
 - [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](educators-cannot-reliably-detect-genai-reflections.md) — related
+- [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — related

@@ -54,3 +54,4 @@ Perception finding from interviews with central office administrators and school
 - [City leaders showed substantial lack of knowledge of the Chicago Annenberg Challenge, with about half of business and government leaders unable to describe its goals](city-leaders-lack-knowledge-annenberg-challenge.md) — related
 - [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
 - [Leveraging pre-existing networks or hubs may support greater potential for long-term sustainability of cross-sector reform](preexisting-networks-support-sustainability.md) — related
+- [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related

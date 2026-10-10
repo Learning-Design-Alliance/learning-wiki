@@ -48,3 +48,4 @@ Systematic literature review (PRISMA framework) synthesizing recent studies of A
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — related
 - [Faculty attitudes toward AI fall into four profiles—optimistic, critical, critically reflective, and neutral—and optimistic faculty with high AI self-efficacy are more likely to adopt AI](faculty-four-ai-attitude-profiles.md) — related
 - [In CLIL, teachers perceive conceptual hollowing, a bilingual bluff, translation dependency, and a synthesis illusion](clil-four-ethical-tensions.md) — related
+- [Ethical acceptability of GenAI use varied with disciplinary norms: assistance was more acceptable for supporting or procedural tasks than for core intellectual tasks](disciplinary-norms-shape-genai-acceptability.md) — a narrower finding that bears on this claim

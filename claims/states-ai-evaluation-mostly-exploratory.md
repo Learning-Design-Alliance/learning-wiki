@@ -45,3 +45,4 @@ Document review of AI evaluation guidance from 32 states plus Puerto Rico active
 ## Related Claims
 - [State-led AI evaluation is critical because robust national evaluation research is lacking and local leaders weigh state and local results more heavily](state-led-ai-evaluation-critical-gap.md) — related
 - [Eleven of 33 state guidance documents mention co-design or feedback loop structures, and 27 include student, teacher, parent, and community voices](states-co-design-voice-counts.md) — related
+- [Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies](ai-sustainability-initiatives-limited-exploratory.md) — a narrower finding that bears on this claim

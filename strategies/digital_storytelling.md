@@ -64,8 +64,10 @@ Digital storytelling is a generative learning activity: transforming content int
 8. **Reflect** — have learners articulate what they learned about the content and about the craft ([Articulation](../elements/articulation.md)).
 
 ## Related Strategies
+
 - [Acting / Role-Play](acting-role-play.md) — embodied narrative alternative; both require learners to inhabit a perspective and communicate it to an audience
 - Peer critique protocols — structured feedback is essential at the share stage; without it, sharing becomes showcase rather than revision
+- [Invite students to design costumes and narratives for their robots as legitimate epistemic engagement](robot-costume-narrative-design-strategy.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — the story is an authentic application of content knowledge

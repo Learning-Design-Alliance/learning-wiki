@@ -47,3 +47,4 @@ Design-comparison study of the DC OSSE online school report card assessing usabi
 - [Reporting the number of points possible for each metric led to better understanding of how the STAR score is calculated](points-possible-improves-score-understanding.md) — related
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — related
 - [Making year-over-year change salient helped users identify which schools improved most but lowered usability and satisfaction ratings](year-over-year-salience-mixed-effects.md) — related
+- [Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others](divided-views-star-rating-display.md) — related

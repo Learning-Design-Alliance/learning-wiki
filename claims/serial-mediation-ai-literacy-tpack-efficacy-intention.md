@@ -47,3 +47,4 @@ Bootstrapped specific indirect effects (5,000 samples) in the PLS-SEM model of 5
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
 - [SDT need satisfaction predicted post-intervention willingness beyond baseline capacity, while post-intervention TPACK showed only a weak, non-significant association with willingness](need-satisfaction-predicts-willingness-beyond-capacity.md) — related
 - [Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning](serial-mediation-affordance-efficacy-motivation-srl.md) — related
+- [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related

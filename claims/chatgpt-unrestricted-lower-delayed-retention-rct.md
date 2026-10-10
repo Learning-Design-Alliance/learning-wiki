@@ -44,3 +44,4 @@ The review attributes to Barcaui's (2025) randomized controlled trial, with 120 
 - [The retention gap persisted at 48 hours with no differential forgetting between groups (39% vs 52%)](chatgpt-lower-48h-retention-no-differential-forgetting.md) — related
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — a broader claim this one bears on
 - [Unrestricted ChatGPT access yields better practice performance but significantly worse exam scores](unrestricted-chatgpt-worse-exam-scores.md) — related
+- [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related

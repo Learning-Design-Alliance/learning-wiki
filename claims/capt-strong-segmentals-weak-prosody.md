@@ -72,3 +72,4 @@ Ngo et al. (2024) support this claim for ASR-based training, with a large pooled
 - [Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech](explicit-communicative-pronunciation-instruction-works.md) — related
 - [Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms](resource-scarcity-large-classes-limit-pronunciation-feedback.md) — related
 - [No surveyed presentation-coaching system covers all five taxonomy dimensions simultaneously](no-system-covers-all-five-coaching-dimensions.md) — related
+- [Retrieved knowledge-graph subgraphs suggest dyslexic learners perceive existing AI tools as useful but still limited](kg-subgraphs-ai-tools-useful-but-limited.md) — related

@@ -66,3 +66,4 @@ Theoretical argument posing a practical supervision challenge: because passive a
 - [Learner AI over-reliance is reframed as misclassification: a failure of real-time metacognitive evaluation with two distinct pathways](misclassification-reframing-of-ai-misuse.md) — related
 - [Task-level account of upskilling and the Triad of Skill Failure (deskilling, never-skilling, mis-skilling) with differing empirical support](triad-of-skill-failure-task-level.md) — a broader claim this one bears on
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
+- [AI in education poses challenges across three interrelated domains: knowledge itself, the process of knowing, and the socio-environmental impact of knowledge production](ai-education-three-challenge-domains.md) — a broader claim this one bears on

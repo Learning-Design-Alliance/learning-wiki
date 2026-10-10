@@ -42,6 +42,7 @@ The classroom-practices brief states "GenAI, when used responsibly, could be use
 - [Teach prompting as a five-part skill (role, task, audience, constraints, justification) with a structured ask-generate-evaluate cycle](five-part-prompt-framework-with-evaluation-cycle.md)
 - [Ongoing Feedback](ongoing_feedback.md)
 - [Writing Process Approach](writing_process_approach.md)
+- [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
 
 ## Examples
 -

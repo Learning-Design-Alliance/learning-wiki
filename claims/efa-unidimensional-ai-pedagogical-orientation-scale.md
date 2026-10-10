@@ -49,3 +49,4 @@ Exploratory factor analysis (minimum residual estimation, oblique rotation) of 3
 - [The unidimensionality pattern replicates on an independent held-out confirmatory subsample](held-out-confirmation-acceptance-structure.md) — related
 - [The objective-based AI literacy assessment demonstrates psychometric stability with high reliability (KR-20 = 0.862) and approximate unidimensionality](ob-ai-literacy-assessment-psychometrically-stable.md) — related
 - [Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use](institutional-and-information-variables-weakly-related-to-ai-use.md) — related
+- [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related

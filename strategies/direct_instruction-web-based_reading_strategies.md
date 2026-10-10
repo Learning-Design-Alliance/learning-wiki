@@ -64,6 +64,7 @@ Web reading imposes extraneous demands (navigation, pop-ups, fragmented attentio
 - [Close Reading](close-reading.md) — complementary deep-reading routine applicable to individual web texts
 - [Search Strategy Scaffolds](search-strategy-scaffolds.md) — narrows in on the query formulation step
 - [Use Mozilla's four basic web literacies to frame open learning for personal development](mozilla-four-web-literacies.md)
+- [Teach AI-mediated judgement and make process, judgement and transfer visible in assessment](teach-ai-mediated-judgement-assessment.md)
 
 ## Examples
 - **[Coiro's Online Reading Comprehension practices](https://www.joecoiro.com)** — classroom-tested protocols for modeling internet inquiry, including think-alouds of search and evaluation.

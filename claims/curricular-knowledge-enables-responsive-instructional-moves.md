@@ -53,3 +53,4 @@ This is a single-institution, single-curriculum case study without a control gro
 - [Review reports TAs sharing the same agenda provided different meta-level learning opportunities through object-level adaptations](ta-agenda-object-meta-level-opportunities.md) — related
 - [After formative intervention, the teacher's presentations shifted from instruction-only moves to including generative, confirming, reconstructing, and reorienting moves](epistemological-moves-shift-after-intervention.md) — related
 - [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — related
+- [Instructional materials authored by a single instructor via the pipeline were peer-reviewed and successfully deployed by six different professors, suggesting tacit knowledge was translated into reusable teaching assets.](single-author-materials-deployed-by-six-professors.md) — related

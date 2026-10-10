@@ -46,3 +46,4 @@ Gap analysis in Section II-B, a narrative review of delivery-side, production-si
 - [Automated verification of AI-drafted content produced mixed results: strong accuracy and integrity scores but only 5 of 10 chapters meeting the pedagogical-progression bar](verification-layer-one-mixed-results.md) — related
 - [NASBA approved an upskilling program built on the framework's outputs for continuing-professional-education credits](nasba-approved-cpe-program.md) — related
 - [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md) — related
+- [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](hallucination-as-pedagogical-resource.md) — related

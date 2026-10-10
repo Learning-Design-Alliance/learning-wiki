@@ -44,3 +44,5 @@ Item-level analysis of the concluding survey (Likert scale 1–10) administered 
 - [Survey items on critical evaluation and validation of ChatGPT outputs (Q11–Q13) received the lowest scores in both courses despite explicit validation instructions](critical-evaluation-items-lowest-scores.md) — related
 - [In a voluntary group survey, all 12 module-activity items had a median of 4, with M5 implementation items rated highest](survey-positive-learning-value-m5-highest.md) — related
 - [Students in the mathematics and data science course rated acceptance of the AI tool higher on average than students in the biology course](math-course-higher-ai-acceptance-than-biology.md) — related
+- [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md) — related
+- [Student ratings of the AI-generated materials ranged from an average of 8.5 to 9.9 out of 10 across validated modules, based on over 600 voluntary anonymous evaluations.](student-ratings-8-5-to-9-9-generated-materials.md) — related

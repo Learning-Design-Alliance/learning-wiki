@@ -45,3 +45,4 @@ Human evaluation with twenty experts (five students, eight educational data mini
 ## Related Claims
 - [BEAGLE generalizes across tasks and LLM backbones: on the out-of-distribution Gradient Descent task it still shrinks DKL by ≥3×, raises error recurrence to ≥79%, and improves all three perceptual scores](beagle-cross-task-cross-backbone-generalization.md) — related
 - [In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator](structured-student-agents-differentiated-mastery-traces.md) — related
+- [The investigate–solve–write scaffold, with personalization disabled, improves all five backbone model families on general agentic benchmarks, with average relative gains of 25.69%–32.03%](solver-scaffold-transfers-general-agentic-problem-solving.md) — related

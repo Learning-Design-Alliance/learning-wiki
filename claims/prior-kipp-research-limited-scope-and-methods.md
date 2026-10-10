@@ -47,3 +47,4 @@ The authors' characterization of the existing evidence base: prior studies "have
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — a narrower finding that bears on this claim
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — a narrower finding that bears on this claim
 - [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — a narrower finding that bears on this claim
+- [Methodological scope of existing research is limited: small samples, single courses, and short-term interventions](short-term-small-sample-ai-writing-studies.md) — a broader claim this one bears on

@@ -108,3 +108,4 @@ Sixty-eight 11th-grade students took eight lessons on strategies for evaluating 
 - [Cognitive apprenticeship](../patterns/cognitive-apprenticeship.md) — modeling expert strategies then fading support is the instructional pattern underlying lateral-reading instruction.
 - [Authentic audiences improve student work.](../claims/authentic-audiences-improve-student-work.md) — authentic evaluation tasks on the live web increase engagement and quality.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — strategy instruction may yield diminishing returns for already-skilled evaluators.
+- [Conversational synthesis can hide source plurality behind one voice, weakening verification relative to search](opaque-synthesis-hides-plurality.md) — related

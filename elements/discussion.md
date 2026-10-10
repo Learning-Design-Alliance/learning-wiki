@@ -79,6 +79,7 @@ Discussion improves achievement when it is structured around a clear goal and re
 **[Paideia Seminars](https://www.paideia.org)** — Socratic seminar protocol in K-12 using open-ended questions about a shared text, with explicit speaking and listening norms.
 
 **[Perusall](https://www.perusall.com)** — Social annotation platform that embeds asynchronous discussion directly in course readings, with AI-scored participation quality.
+- [Design GenAI learning activities that position GenAI as a collaborator to support the full metacognitive chain](../strategies/position-genai-as-collaborator-for-full-metacognitive-chain.md)
 
 ## Key Sources
 - Chi, M. T. H., de Leeuw, N., Chiu, M.-H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477. [doi:10.1207/s15516709cog1803_3](https://doi.org/10.1207/s15516709cog1803_3)

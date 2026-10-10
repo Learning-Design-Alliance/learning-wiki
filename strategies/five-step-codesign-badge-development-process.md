@@ -44,6 +44,7 @@ The report details a repeatable recipe for co-designing evaluation criteria: "Di
 - [Seven IUX methodologies for centering learners in LER technology development](iux-methodologies-ler-learner-centered.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [Pilot guidance documents with a small set of schools and iterate before wide dissemination](pilot-then-refine-guidance-dissemination.md)
+- [Six-step design methodology: elicit values, minimal intervention, multi-level multi-outcome evaluation, iterate, simulate scale, sunset](six-step-emancipatory-aied-design-methodology.md)
 
 ## Examples
 -

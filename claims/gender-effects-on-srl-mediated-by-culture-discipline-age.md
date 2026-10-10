@@ -75,3 +75,4 @@ The review reports the opposite-direction findings from other studies: "Female s
 - [Girls show significantly higher task orientation than boys in preschool](girls-higher-task-orientation-preschool.md) — related
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
+- [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related

@@ -125,3 +125,6 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning](awe-enhance-organization-quality-self-directed-learning.md) — related
 - [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — a narrower finding that bears on this claim
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — a narrower finding that bears on this claim
+- [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — related
+- [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) — related
+- [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — a narrower finding that bears on this claim

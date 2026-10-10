@@ -48,3 +48,4 @@ Frequency analysis of inductively coded decision types across the review's 27 in
 - [Text-based and log data dominate the student data used by AI systems for lecturer decision-making](text-log-data-dominate-lecturer-decision-ai-inputs.md) — related
 - [Behavioral outcomes, especially performance and engagement, dominate the learning outcomes linked to AI-supported lecturer decisions](behavioral-outcomes-dominate-ai-decision-support-mapping.md) — related
 - [CAI utilization in education is concentrated in pedagogical applications, with administrative, research, and healthcare-education applications least represented](cai-utilization-concentrated-pedagogical-applications.md) — related
+- [In the AI-focused subset, professional development and teacher accompaniment (35.0%) and instructional design and assessment (32.5%) are the predominant approaches, with pedagogical limitations the main barrier](ai-subset-approaches-and-barriers-teacher-education.md) — related

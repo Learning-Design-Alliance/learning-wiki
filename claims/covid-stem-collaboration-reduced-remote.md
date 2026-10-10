@@ -70,3 +70,4 @@ National survey of 620 STEM students asked about post-COVID course practices; "3
 - [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](collaboration-interest-belonging-worse-online.md) — related
 - [Instructors widely relaxed deadlines and adjusted grading to accommodate pandemic circumstances, while balancing compassion with academic rigor](instructors-flexible-deadlines-grading-covid.md) — related
 - [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](remote-shift-reduced-collaborative-learning.md) — possibly the same claim (merge candidate)
+- [A remote individual working from photographs completed a full and physically correct ISLE cycle, but the inquiry was disembodied](remote-case-d-full-cycle-disembodied.md) — related

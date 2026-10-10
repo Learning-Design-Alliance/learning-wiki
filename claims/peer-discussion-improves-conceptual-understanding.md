@@ -93,3 +93,4 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking](technology-group-work-engagement-student-thinking.md) — related
 - [Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety](two-part-collaborative-assessment-learning-experience.md) — related
 - [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](remote-shift-reduced-collaborative-learning.md) — related
+- [A remote individual working from photographs completed a full and physically correct ISLE cycle, but the inquiry was disembodied](remote-case-d-full-cycle-disembodied.md) — related

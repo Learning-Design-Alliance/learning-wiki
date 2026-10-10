@@ -65,3 +65,4 @@ The same matched analysis examined two-year continuous enrollment in a four-year
 - [Among similarly qualified seniors, the high school attended largely determines coursetaking patterns](school-determines-senior-coursetaking.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [Most interviewed CPS seniors describe senior year as unchallenging and easier than previous years](seniors-describe-senior-year-unchallenging.md) — related
+- [Pipeline applied to HSLS:09 recovers that advanced mathematics coursework benefits students least likely to enroll in four-year college the most](ap-ib-math-benefits-lowest-college-likelihood-most-hsls.md) — related

@@ -47,3 +47,4 @@ Conceptual argument extending Petrozzino's observation that those who incur ethi
 - [Populations most exposed to agentic AI risks are least served by AI literacy research: no scale has been tested for cross-cultural validity](equity-gap-ai-literacy-scales-cross-cultural-validity.md) — related
 - [The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months](structural-mismatch-curriculum-pace-vs-agent-product-cycles.md) — related
 - [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](agent-consumer-distinction-epistemic-agency.md) — related
+- [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related

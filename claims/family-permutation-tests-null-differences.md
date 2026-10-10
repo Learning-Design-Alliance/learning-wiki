@@ -47,3 +47,4 @@ Family-level uncertainty analysis using item-level permutation tests (3-vs-3 mod
 - [Multimodal LLMs show moderate cross-model agreement on which image-Required items are solvable, with within-family agreement exceeding cross-family agreement](moderate-cross-model-agreement-solvability.md) — related
 - [In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve](visual-misread-dominant-non-reasoning-failure.md) — related
 - [Without required figures, multimodal LLMs overwhelmingly refuse rather than guess on image-Required math items](mllms-refuse-without-required-figures.md) — related
+- [Chinese-developed models lead the safety module, with the refusal gap concentrated on region-specific normative content (difference-in-differences of 28.9 points)](chinese-models-safety-refusal-gap.md) — related

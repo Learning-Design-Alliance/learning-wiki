@@ -37,7 +37,8 @@ The article's conclusion recommends that implementing science playlists in infor
 - Science knowledge and skills (motion, forces, properties of matter)
 
 ## Related Strategies
-- 
+
+- [Replace passive theoretical IT instruction with hands-on active technological creation and algorithmic troubleshooting](hands-on-active-technological-creation-curriculum.md)
 
 ## Examples
 -

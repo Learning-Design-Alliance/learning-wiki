@@ -48,3 +48,4 @@ The Risks from AI Systems section lists six numbered risks, including that "AI s
 - [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — a narrower finding that bears on this claim
 - [Few AIED 2025 papers report computational costs or discuss environmental impacts, and reporting is non-standardized](aied-2025-lack-cost-sustainability-reporting.md) — related
 - [The authors declined requests to name specific technologies or focus the standards on AI, citing rapid technological change](no-named-technologies-standards-scope.md) — related
+- [AI in education poses challenges across three interrelated domains: knowledge itself, the process of knowing, and the socio-environmental impact of knowledge production](ai-education-three-challenge-domains.md) — a narrower finding that bears on this claim

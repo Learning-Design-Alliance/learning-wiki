@@ -54,3 +54,4 @@ Qualitative implementation analysis of grantee activities from December 2012 thr
 - [Reallocating resources enabled differentiated professional learning for English learners and students with disabilities](differentiated-professional-learning-reallocation.md) — related
 - [The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building](face-collaborative-fostered-collaborative-leadership-behaviors.md) — related
 - [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related
+- [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related

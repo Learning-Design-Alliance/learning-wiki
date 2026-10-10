@@ -43,6 +43,8 @@ The authors recommend a forward-looking agenda for the platform: conduct real-wo
 - [Future research agenda on preschool quality: access, younger ages, home-based settings, and practice-level studies](preschool-quality-future-research-agenda.md)
 - [Advance micro-credentials through a piloting coalition, a rigorous research agenda, and dissemination of best practices](micro-credential-next-steps-strategy.md)
 - [Broaden instruments, methods, and expert judgment in psychometric LLM evaluation research](broaden-psychometric-llm-evaluation-research.md)
+- [Retrain and evaluate the wellness system on locally collected, clinically validated data, then run a formal user evaluation before wider deployment](local-dass21-recollection-and-formal-user-evaluation-strategy.md)
+- [Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies](test-ai-tools-real-university-settings-measure-impact.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Design-comparison study of the DC school report card. The study reports that "re
 - [Number-only displays maximized parents' understanding while graphs maximized satisfaction at the expense of understanding](numbers-understanding-graphs-satisfaction-tradeoff.md) — related
 - [The combination of moving the STAR link and reporting points possible produced the best performance on all measures](combined-design-changes-best-performance.md) — related
 - [Moving the link to the STAR framework from the top of the page to beneath the STAR score improved the school report card site's usability](star-link-beneath-score-improves-usability.md) — related
+- [Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others](divided-views-star-rating-display.md) — related

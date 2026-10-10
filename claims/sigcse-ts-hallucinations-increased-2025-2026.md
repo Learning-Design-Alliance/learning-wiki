@@ -46,3 +46,4 @@ Venue-level comparison using SIGCSE TS because both 2025 and 2026 proceedings we
 - [Conservative manual verification identified 30 hallucinated references across 14 papers in 2025 and 2026 computing education venues](30-hallucinated-references-14-papers-csed.md) — a broader claim this one bears on
 - [Publication volume and reference-list lengths in ACM computing education venues have grown over time, particularly since the mid-1990s](csed-publication-and-reference-growth.md) — related
 - [Of 30 verified hallucinated references, 13 appeared entirely fabricated and 17 were hybrid references combining a real title with fabricated authorship or metadata](hybrid-hallucinated-references-real-title-fake-authors.md) — related
+- [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related

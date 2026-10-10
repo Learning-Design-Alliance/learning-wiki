@@ -67,3 +67,6 @@ Interview finding in the student-facing AI concerns section. The executive direc
 - [Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions](paid-ai-tool-access-equity-advantage.md) — related
 - [Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments](genai-pedagogical-effects-investigation-limited.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
+- [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related
+- [Teachers are more concerned about students' use of GenAI than about their own use](teachers-more-concerned-student-genai-use.md) — related
+- [Tutors reason differently about effort versus progress goals in ways that mirror the target-specific feature patterns, and trust clearly defined feature-backed explanations](tutors-reason-by-target-type-mirroring-feature-patterns.md) — related

@@ -55,3 +55,4 @@ Qualitative case study based on an 11-question Qualtrics survey of academic lead
 - [Most higher education institutions report faculty use of generative AI in teaching, but fewer than 15% have formal ethical guidelines](genai-use-high-ethical-guidelines-rare.md) — related
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — a broader claim this one bears on
 - [Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education](genai-hybrid-policy-guidelines-governance-consensus.md) — related
+- [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](nursing-academics-report-genai-policy-ambiguity.md) — a broader claim this one bears on

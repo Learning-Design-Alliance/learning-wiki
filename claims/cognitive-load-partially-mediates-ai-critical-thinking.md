@@ -45,3 +45,4 @@ PROCESS Model 14 mediation analysis with bias-corrected bootstrap confidence int
 - [Cognitive load is negatively associated with critical thinking and with self-regulated learning](cognitive-load-negatively-associated-critical-thinking.md) — related
 - [Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load](srl-moderates-indirect-ai-effect.md) — related
 - [Self-regulated learning moderates the cognitive load–critical thinking relationship, buffering the negative effect of load](srl-moderates-cognitive-load-critical-thinking.md) — related
+- [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related

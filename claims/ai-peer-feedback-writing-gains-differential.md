@@ -61,3 +61,4 @@ Bonferroni-adjusted follow-up simple-effect analyses on the mixed-design ANCOVA.
 - [AI-peer integrated feedback produces significantly higher posttest behavioral engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-behavioral-engagement.md) — related
 - [AI-peer integrated feedback produces significantly higher posttest cognitive engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [Gains from automated scoring concentrated in linguistic accuracy and logical coherence but were absent in information fidelity and delivery fluency](automated-scoring-gains-uneven-across-dimensions.md) — related
+- [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](students-recognize-writing-improvement-ai-feedback.md) — related

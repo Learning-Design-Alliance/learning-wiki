@@ -26,7 +26,7 @@ sources:
 # Error Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 10 claims (6 for, 4 mixed) · 16 studies (6 causal, 4 quant-synthesis, 3 theoretical, 2 review, 1 associational), `q1`–`q4` · 3 of 16 report an effect size · 5 claims rest on one study
+> **Evidence** · 11 claims (7 for, 4 mixed) · 18 studies (6 causal, 4 quant-synthesis, 3 theoretical, 2 review, 2 associational, 1 qualitative), `q1`–`q4` · 3 of 18 report an effect size · 5 claims rest on one study
 
 ## Conditional relationship
 
@@ -111,6 +111,7 @@ Claims this page cited before it was rewritten as a conditional model. Both are 
 - [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 
 The earlier page also cited the erroneous-examples claim `[-M]` for novice overload and the high-confidence claim `[~M]` for low-confidence errors; both readings are kept in the model above, with the first marked as not supported by the claim's own entries.
+- [Students report code understanding, debugging, and AI-limitation awareness as primary learning benefits of buggy GenAI programming tasks](../claims/student-reflections-buggy-genai-learning-benefits.md) [+M] — attached 2026-10-10 from When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code, which proposed "Deliberate bug injection into correct GenAI code to create code review opportunities".
 
 ## Objective and learner-valued goal
 

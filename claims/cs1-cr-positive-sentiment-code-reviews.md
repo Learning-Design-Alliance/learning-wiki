@@ -46,3 +46,4 @@ Required end-of-semester survey of the CS1-CR cohort (N=96) with Likert-scale it
 - [Students most valued code reviews for motivating deeper learning (58 of 94), while their main complaints were TA inconsistency (31 of 92) and scheduling difficulties (20 of 92)](cs1-cr-qualitative-perceptions-themes.md) — related
 - [The percentage of pasted characters in coding assignments rose significantly from 61.0% in Fall 2024 to 68.1% in CS1-CR](cs1-cr-pasted-character-percentage-increase.md) — related
 - [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
+- [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related

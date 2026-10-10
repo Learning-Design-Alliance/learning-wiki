@@ -72,3 +72,4 @@ The chapter reports, citing Cowan et al. (2023), that "only 30% of ChatGPT outpu
 - [The most frequent co-occurrence pattern pairs AI system performance limitations with learner cognitive and autonomy risks, reported together in 25 studies (46%), as association rather than causation](co-occurrence-system-performance-cognitive-autonomy-risks.md) — related
 - [Academic integrity concerns were the third most prevalent pedagogical limitation, reported in 20 of 54 studies (37%)](academic-integrity-concerns-ai-efl-prevalence.md) — related
 - [Automated verification of AI-drafted content produced mixed results: strong accuracy and integrity scores but only 5 of 10 chapters meeting the pedagogical-progression bar](verification-layer-one-mixed-results.md) — related
+- [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related

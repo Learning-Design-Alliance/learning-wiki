@@ -85,3 +85,4 @@ Same latent interaction analysis reported null results for the remaining tested 
 - [Baseline motivational states shape perceived AI benefits more than demographics, with female-coded gender the only significant demographic effect (lower perceived competence relief)](baseline-motivation-outweighs-demographics-ai-benefits.md) — related
 - [Higher baseline autonomy and higher baseline competence frustration predict greater perceived relief from competence frustration after AI chatbot use, while higher baseline personal agency predicts less](baseline-needs-predict-competence-relief-ai.md) — related
 - [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](baseline-relatedness-diminishes-perceived-ai-relatedness.md) — related
+- [AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)](ai-paradox-critical-awareness-overestimation.md) — related

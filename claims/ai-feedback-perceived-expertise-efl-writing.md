@@ -49,3 +49,4 @@ Reflexive thematic analysis of semi-structured interviews with 17 undergraduate 
 - [Students in initial deployment perceived AI-assisted feedback as highly coherent and useful, with excellent usability acceptance](aicofe-initial-deployment-positive-perceptions.md) — related
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
 - [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](chatgpt-competence-experience-efl-undergraduates.md) — related
+- [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](students-recognize-writing-improvement-ai-feedback.md) — related

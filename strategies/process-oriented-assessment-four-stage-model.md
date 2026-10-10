@@ -52,6 +52,7 @@ The paper proposes a concrete process-oriented assessment model in which "Studen
 - [Use weekly oral code review interviews to incentivize students to understand AI-assisted code](code-review-interviews-ai-mitigation.md)
 - [Scaffolded critique-of-AI-output assignment sequence with paired verification of individual understanding](critique-ai-output-assignment-sequence.md)
 - [Pair AI-permitted take-home assignments with supervised modifications, oral defense, prediction, and transfer tasks to verify understanding](direct-conceptual-assessment-supervised-defense-transfer.md)
+- [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
 
 ## Examples
 -

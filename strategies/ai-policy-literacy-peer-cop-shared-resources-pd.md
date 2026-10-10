@@ -45,6 +45,7 @@ The article's recommendations for professional development design are threefold:
 - [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
 - [Supports to Raise Teachers' Expectancy and Value and Lower Cost for AI Use](supports-to-raise-teacher-expectancy-and-value-for-ai-use.md)
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
+- [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article recommends embedding the standards into structured professional lear
 - [Provide dedicated peer-led ePortfolio support focused on ePortfolio making skills, and scale professional development longitudinally with adoption](peer-led-epportfolio-studio-and-longitudinal-pd.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
+- [Use sustained professional development and accompaniment—mentoring, coaching, communities of practice and iterative support—for digital integration](sustained-accompaniment-for-digital-integration.md)
 
 ## Examples
 -

@@ -63,3 +63,5 @@ Statement from the head of a state CTO council reported in the trust section, no
 - [In one institution's early-stage learning analytics implementation, inductive coding of interviews and documents surfaced three privacy themes: FERPA compliance, role-based access and security measures, and students' relationship with their data](three-privacy-themes-student-success-system-case.md) — related
 - [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial due to lack of teacher training](experts-superficial-technology-integration.md) — related
 - [Safeguards in university AI policies are sparse and unevenly covered](safeguard-coverage-sparse-ai-policies.md) — related
+- [EdTech organizations recognize privacy as important but consistently defer it across the product lifecycle](edtech-privacy-deferred-across-product-lifecycle.md) — related
+- [EdTech organizations delegate privacy responsibility to cloud providers, policy documents, and downstream institutions, diffusing accountability](edtech-privacy-responsibility-delegated-diffused.md) — related

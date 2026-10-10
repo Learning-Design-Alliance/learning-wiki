@@ -69,3 +69,4 @@ In the same volume-based clustering analysis, essay authorship differed signific
 - [Self-reported cognitive load showed no significant differences across either volume-based or content-based offloading profiles](no-cognitive-load-differences-across-offloading-profiles.md) — related
 - [Volume of offloading masks differences between offloading processes that become visible when profiling what is offloaded](offloading-volume-masks-content-differences.md) — related
 - [Some content-based offloading profiles differed in prompting volume even though volume was not a clustering variable, suggesting what is offloaded constrains how much is offloaded](offloading-content-constrains-volume.md) — related
+- [A moderate negative correlation exists between cognitive offloading tendency and critical thinking while the constructs remain empirically distinct](cot-cts-correlation-distinct-constructs.md) — related

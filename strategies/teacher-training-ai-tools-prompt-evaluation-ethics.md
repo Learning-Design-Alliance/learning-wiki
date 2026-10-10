@@ -45,6 +45,7 @@ For policymakers incorporating AI tools such as ChatGPT into the English languag
 - [Design AI literacy tools with transparency in development and establish district policies for vetting AI tools](transparency-and-district-ai-vetting-policies.md)
 - [Systemic, human-centred approach treating digital data use as a school-and-teacher system, with AI integrated into professional development](systemic-human-centred-data-use-approach.md)
 - [Implement educational chatbots with human-centred design, explicit AI policies, training, curated knowledge bases and continuous monitoring](chatbot-implementation-recommendations.md)
+- [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
 
 ## Examples
 -

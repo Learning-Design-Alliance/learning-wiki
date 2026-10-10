@@ -50,3 +50,4 @@ Qualitative reflexive thematic analysis of written responses and ChatGPT logs fr
 - [Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints](nico-nor-teacher-implementation-experience.md) — related
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
+- [Teachers who engaged with EducaSim generally viewed it as a positive experience](educasim-positive-teacher-sentiment-254-sessions.md) — related

@@ -42,6 +42,7 @@ In the adoption stage, the framework directs districts to determine who needs pr
 - [Building Cultural Competency Skills for School Staff](building_cultural_competency_skills_for_school_staff.md)
 - [During post-adoption, monitor fidelity of use, examine equity patterns, and share strengths and challenges with developers](post-adoption-fidelity-monitoring-feedback.md)
 - [Agile pedagogical strategies: interactive notebooks, bootcamps, and sustained educator professional learning](agile-mi-pedagogical-strategies-notebooks-bootcamps.md)
+- [Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development](teacher-training-support-strategy-ai-implementation.md)
 
 ## Examples
 -

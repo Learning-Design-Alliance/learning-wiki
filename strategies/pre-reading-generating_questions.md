@@ -60,8 +60,10 @@ Generating questions before reading converts reading from passive reception into
 5. After reading, revisit the questions: answer them, note what the text did *not* answer, and revise understanding — connecting this step to [Application](../elements/application.md) or a short written response.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — question generation is one of the most reliable activation moves; the questions surface what learners already believe
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — embeds question generation among three other comprehension strategies during reading
+- [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 
 ## Examples
 - **KWL (Ogle, 1986)** — A widely used elementary expository-reading routine: the "Want to know" column is the generated question set, revisited in the "Learned" column after reading.

@@ -76,3 +76,7 @@ Discussion-level argument (citing Rouhiainen, 2019) that resisting "complacency 
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related
 - [Attendees correctly identified AI-generated images in 82% of polling responses, and polling served as a scaffold for discussion rather than a measurement tool](polling-image-identification-82-percent.md) — related
 - [Policy guidance is most actionable for final-output substitution scenarios](substitution-most-actionable-scenario.md) — related
+- [PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support](genai-authorship-boundary-rejected-substitution.md) — related
+- [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related
+- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — a broader claim this one bears on
+- [Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs](prompt-response-interface-limits-learning-value.md) — a narrower finding that bears on this claim

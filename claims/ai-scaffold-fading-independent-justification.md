@@ -48,3 +48,4 @@ Interview data on the module progression; teachers described a "live progression
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](guided-discovery-outperforms-pure-discovery.md) — a broader claim this one bears on
 - [Manipulatives Require Connection To Concept](manipulatives-require-connection-to-concept.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
+- [Assessment shifts from the quality of AI-generated text to articulating tasks, justifying prompt choices, and reflexively evaluating AI behaviour](assessment-shift-task-articulation-over-text-quality.md) — related

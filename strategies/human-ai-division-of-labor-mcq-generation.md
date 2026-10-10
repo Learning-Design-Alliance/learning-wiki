@@ -46,6 +46,7 @@ The article's central design recommendation is a principled division of labor: a
 - [Use automated collaboration assessments as scaffolds for reflection rather than ground truth](collaboration-assessments-as-reflection-scaffolds.md)
 - [Use observable pedagogical variables as metadata to support teachers' explicit selection and integration of digital resources](metadata-variables-support-teacher-resource-selection.md)
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
+- [Structure AI-assisted grading to shift TA effort from routine low-judgment decisions toward conceptually rich responses](shift-ta-effort-to-conceptually-rich-responses.md)
 
 ## Examples
 -

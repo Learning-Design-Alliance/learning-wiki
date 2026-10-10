@@ -42,6 +42,7 @@ The authors argue that because public sentiment remains positive while structura
 
 - [Encourage students to use AI-generated responses while observing ethical guidelines](ethical-guidelines-for-student-ai-use.md)
 - [Design task-sensitive institutional AI policies rather than blanket permitted/prohibited distinctions](task-sensitive-institutional-ai-policy.md)
+- [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 
 ## Examples
 -

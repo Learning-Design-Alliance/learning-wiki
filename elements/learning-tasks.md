@@ -77,6 +77,7 @@ Learning tasks drive learning because they force learners to *use* knowledge rat
 **[Project Lead The Way](https://www.pltw.org)** — K-12 STEM curriculum organized around design challenges (e.g., engineering a prosthetic device) that integrate science content into authentic problem-solving tasks.
 
 **[POGIL](https://pogil.org)** — Process-Oriented Guided Inquiry Learning uses structured data-rich activities as tasks; teams work through models and questions with assigned roles, with the activity itself carrying the instruction.
+- [Scaffold GenAI learning activities and assessments progressively across all undergraduate levels](../strategies/scaffolded-genai-activities-assessments-across-levels.md)
 
 ## Key Sources
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development, 50*(3), 43–59. [doi:10.1007/BF02505024](https://doi.org/10.1007/BF02505024)

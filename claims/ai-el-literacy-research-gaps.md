@@ -65,3 +65,4 @@ The report reports, citing Rusmiyanto et al., that research has "focused on narr
 - [The study lacked comparative conditions, so hybrid-approach improvement claims remain conceptual rather than empirically validated](no-comparative-conditions-hybrid-improvement-unvalidated.md) — related
 - [Educators broadly view AI-generated text customization to student interests and reading levels as a desirable opportunity, particularly for ELs](genai-text-customization-desirable-opportunity.md) — related
 - [State-led AI evaluation is critical because robust national evaluation research is lacking and local leaders weigh state and local results more heavily](state-led-ai-evaluation-critical-gap.md) — a broader claim this one bears on
+- [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md) — related
