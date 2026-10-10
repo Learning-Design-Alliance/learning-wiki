@@ -70,3 +70,5 @@ The report cites a recent cost-benefit study of Children's Aid community schools
 - [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — related
 - [Cost analyses find community schools return $3 to $15 for every dollar spent](community-schools-return-on-investment.md) — related
 - [A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement](positive-school-climate-improves-achievement.md) — related
+- [Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators](nm-community-schools-improved-outcomes-three-sites.md) — related
+- [An evaluation of the New York City community schools initiative found increased graduation rates, increased elementary and middle school mathematics achievement, and reductions in chronic absenteeism.](nyc-community-schools-evaluation-promising-results.md) — possibly the same claim (merge candidate)

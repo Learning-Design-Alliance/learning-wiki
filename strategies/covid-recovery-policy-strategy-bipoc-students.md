@@ -43,6 +43,7 @@ The report offers a set of policy recommendations meant to encompass a wide rang
 - [Use federal ESSER and IDEA funding to provide early intervention, extended school year support in the summer, and other evidence-based supports for students with disabilities](esser-idea-funding-swd-recovery-supports.md)
 - [Deploy federal recovery funding to support recovery, accelerate learning, and transform schools](deploy-federal-aid-recovery-acceleration.md)
 - [Design summer programs with purposeful curriculum, stable staff, and cultural relevance, sustained over multiple summers](multi-summer-high-quality-summer-programs.md)
+- [Federal policy should fund wraparound supports and community schools integrating health, mental health, social services, and extended learning time](federal-wraparound-supports-community-schools.md)
 
 ## Examples
 -

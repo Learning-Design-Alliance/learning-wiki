@@ -48,6 +48,12 @@ The report recommends that California policymakers maintain funding for the Teac
 - [Underwrite comprehensive preparation, improve teaching conditions, raise compensation, and expand induction to retain teachers of color](retain-teachers-of-color-four-policy-levers.md)
 - [Design service scholarships that cover a substantial portion of preparation costs, with stable multiyear funding and linked data systems](service-scholarship-design-recommendations.md)
 - [Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations](service-scholarships-residencies-shortage-fields.md)
+- [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
+- [Policy recommendations for sustaining and expanding teacher residencies](residency-policy-recommendations-texas.md)
+- [State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees](state-policy-levers-yearlong-stipended-clinical-preparation.md)
+- [Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce](teacher-residency-braided-recruitment-retention.md)
+- [State actions to strengthen and sustain a funded residency pathway: clarify goals, upgrade data systems, adjust grant parameters, offer transition grants, and pair new LEAs with experienced IHEs](trgp-scaling-sustainability-recommendations.md)
+- [Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates](use-completer-surveys-accreditation-continuous-improvement.md)
 
 ## Examples
 -

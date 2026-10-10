@@ -53,3 +53,4 @@ The guide's introduction asserts, without presenting new data, that whole-person
 - [Coherence with preexisting initiatives made relationship-centered change more readily embraced](coherence-preexisting-initiatives-uptake.md) — related
 - [Strong, consistent early childhood leadership coupled with long-term strategic planning is essential to local preschool system coherence in mixed delivery systems](ece-leadership-strategic-planning-local-coherence.md) — related
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — a narrower finding that bears on this claim
+- [Cultivating activities in local nodes produced more tangible outcomes than statewide planning and networking](local-nodes-produce-tangible-alignment-outcomes.md) — related

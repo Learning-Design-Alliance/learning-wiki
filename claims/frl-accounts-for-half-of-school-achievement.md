@@ -47,3 +47,4 @@ Observational analysis of about 1,500 randomly sampled NWEA MAP Growth schools l
 - [Lowest-income schools show more variable growth than highest-income schools, with more schools both below the 50th and above the 82nd growth percentile](lowest-income-schools-more-variable-growth.md) — related
 - [Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2](early-elementary-covid-losses-school-poverty-disparities.md) — related
 - [Achievement of the lowest-growth schools varies dramatically, and fall achievement accounts for about 80% of spring achievement versus 14% for growth](low-growth-schools-achievement-varies-growth-achievement-correlation.md) — related
+- [Research finds concentrated poverty harms achievement, with a tipping point around 50-60% school poverty after which achievement declines dramatically](concentrated-poverty-tipping-point-achievement-declines.md) — related

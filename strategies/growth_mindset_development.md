@@ -62,6 +62,7 @@ Growth mindset interventions produce small but reliable gains in achievement for
 - [Formative Assessment](../patterns/formative-assessment.md) — reframes errors as feedback rather than verdicts
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — mindset supplies the motivation; SRL supplies the strategies
 - [Cultivate positive academic mindsets through instructional practices aligned with students' psychological needs](mindset-cultivation-practices-list.md)
+- [Cultivate mathematics belonging by publicly recognizing every student as a mathematical thinker](mathematics-belonging-recognition-practices.md)
 
 ## Examples
 - **[PERTS / Mindset Works](https://www.mindsetworks.com)** — The Brainology curriculum teaches neuroplasticity through interactive modules; the National Study of Learning Mindsets (Yeager et al., 2019) delivered two 25-minute online sessions to ~12,000 ninth-graders and raised GPA among lower-achieving students.

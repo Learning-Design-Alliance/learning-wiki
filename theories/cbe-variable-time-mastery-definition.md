@@ -51,6 +51,7 @@ The brief defines competency-based education as an approach whose "key feature i
 - [Competency Based Learning](../strategies/competency-based-learning.md)
 - [Competency Based Progression](../strategies/competency-based-progression.md)
 - [Mastery Based Progression](../strategies/mastery-based-progression.md)
+- [Promote student agency by letting students decide the pace of their work and whether to complete it independently or collaboratively](../strategies/student-agency-pace-and-work-mode.md)
 
 ## Key Sources
 - Ann Person. (2015). Best Practices in Competency-Based Education: Lessons from Three Colleges (In Focus Brief). Oakland, CA: Mathematica Policy Research. https://www.mathematica.org/publications/best-practices-in-competencybased-education-lessons-from-three-colleges

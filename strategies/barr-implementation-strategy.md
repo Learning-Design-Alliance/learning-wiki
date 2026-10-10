@@ -44,6 +44,7 @@ The page specifies implementation requirements: a school selects a BARR coordina
 - [Implement BARR through sequenced multi-year professional development plus dedicated weekly coaching exceeding 200 hours per year](barr-pd-and-coaching-implementation-strategy.md)
 - [Community Connect meetings to coordinate out-of-school resources for students](barr-community-connect-meetings.md)
 - [Designate a Spalding coordinator and provide 45-70 hours of formal teacher training with ongoing mentoring to support implementation fidelity](spalding-coordinator-and-intensive-pd-strategy.md)
+- [Build coordinator capacity through a structured weekly professional learning community with personalized coaching and targeted assets-and-needs-assessment training](weekly-plc-coaching-for-community-school-coordinators.md)
 
 ## Examples
 -

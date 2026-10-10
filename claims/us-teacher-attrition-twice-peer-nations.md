@@ -45,3 +45,4 @@ Descriptive international comparison in the 'Condition of Teaching' section, dra
 ## Related Claims
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — possibly the same claim (merge candidate)
 - [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — related
+- [Sierra Middle School staff attrition was cut nearly in half after the 2023–24 school year](sierra-staff-attrition-cut-nearly-in-half.md) — related

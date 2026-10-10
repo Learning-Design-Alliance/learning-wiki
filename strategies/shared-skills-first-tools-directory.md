@@ -39,6 +39,7 @@ For network resource sharing, the report recommends that organizations "develop 
 
 - [Sell to consortia of adult education providers and encourage institutions to buy technology together to lower cost and risk](sell-through-adult-education-consortia.md)
 - [Sell to consortia and groups of institutions with flexible licensing to ease buying and expand access for small providers](sell-to-consortia-flexible-licensing.md)
+- [Design an evaluation and research framework with mapped data landscapes, program measures, and data-sharing agreements](promise-evaluation-data-sharing-framework.md)
 
 ## Examples
 -

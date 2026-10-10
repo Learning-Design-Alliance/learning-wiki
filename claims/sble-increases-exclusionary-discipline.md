@@ -50,3 +50,5 @@ The review's plain language summary of its meta-analytic findings states "school
 - [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — related
 - [School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school](school-based-law-enforcement-no-significant-change-perceptions-of-safety.md) — related
 - [Schools with school resource officers may have higher rates of exclusionary discipline, including a reported 21 percent increase in incidents](sros-associated-with-higher-exclusionary-discipline.md) — possibly the same claim (merge candidate)
+- [SBLE presence is associated with higher levels of school crime and behavior incidents, driven by increased exclusionary discipline, in school-level analyses](sble-associated-higher-crime-behavior-school-level.md) — possibly the same claim (merge candidate)
+- [SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance](sble-unrelated-learning-outcomes.md) — related

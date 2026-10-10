@@ -45,6 +45,15 @@ The report describes GYO programs that "recruit local community members into tea
 - [Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations](service-scholarships-residencies-shortage-fields.md)
 - [Deploy service scholarships, loan forgiveness, and teacher residencies to staff high-need fields and schools](service-scholarships-residencies-staffing-strategy.md)
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
+- [Build an after-school/out-of-school-time pipeline into teaching to diversify the teacher workforce](after-school-ost-teacher-pipeline-strategy.md)
+- [Recruit classified school employees into teacher credentialing with braided funds plus individualized financial and non-financial supports](classified-employee-credentialing-braided-supports.md)
+- [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
+- [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
+- [Build diverse school leader pipelines through HBCU/HSI preparation partnerships, transparent diversity data, equitable hiring supports, affinity networks, and Grow Your Own teacher pathways](georgia-leader-diversity-pipeline-strategies.md)
+- [Form partnerships with community organizations, higher education, and CTE programs to expand emergency staffing and build the talent pipeline](partnerships-for-staffing-pipeline.md)
+- [Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates](retain-teachers-of-color-strategies.md)
+- [Districts respond to shortages with teacher preparation and pathway strategies, especially partnerships coordinating student teaching and residency placements](teacher-preparation-pathway-partnership-strategies.md)
+- [Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce](teacher-residency-braided-recruitment-retention.md)
 
 ## Examples
 -

@@ -42,6 +42,9 @@ This strategy pairs two recommendations the authors draw from their findings: ad
 
 - [Identify and address the root causes of discipline disparities in schools flagged as disproportionate](address-root-causes-discipline-disparities.md)
 - [Replace exclusionary discipline for low-level offenses with social-emotional skill teaching, educator supports, implicit-bias training, and relationship-centered schools](replace-exclusionary-discipline-with-sel-and-relationship-centered-approaches.md)
+- [Adopt positive, restorative discipline approaches and ban harmful exclusionary practices](restorative-discipline-ban-harmful-practices.md)
+- [Restorative-justice-aligned discipline policies to reduce exclusionary discipline disparities](restorative-discipline-policies-reduce-exclusionary-disparities.md)
+- [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
 
 ## Examples
 -

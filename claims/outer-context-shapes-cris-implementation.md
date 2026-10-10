@@ -46,3 +46,4 @@ This is the authors' interpretive claim about the outer context — state and lo
 - [The CRIS framework extends existing early warning systems beyond graduation and academic measures](cris-extends-early-warning-systems.md) — related
 - [School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions](reform-narrowly-focuses-on-instruction.md) — a broader claim this one bears on
 - [Staff reflections identify partner skills, knowledge, and dispositions that support full participation in Collaborative Innovation](staff-reflections-capacities-collaborative-innovation.md) — related
+- [Approximately 70% of Core to College key collaborators identified by Alignment Directors were from higher education](core-to-college-collaborators-70-percent-higher-education.md) — related

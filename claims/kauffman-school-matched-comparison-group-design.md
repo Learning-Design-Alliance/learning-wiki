@@ -54,3 +54,4 @@ The abstract describes the evaluation design: "a matched comparison group design
 - [Days lost to suspension at the Kauffman School are small on average relative to instructional time added by its extended school day and year](kauffman-suspension-days-small-versus-extended-time.md) — related
 - [The Kauffman School produces sustained positive achievement growth impacts in mathematics, English language arts, and science](kauffman-school-sustained-achievement-growth-impacts.md) — related
 - [A quasi-experimental evaluation found Perry Street students improved significantly more during turnaround than they would have at other traditional or charter schools](perry-street-quasi-experimental-achievement-gains.md) — related
+- [Integrated student supports show statistically significant positive effects on attendance, achievement, GPA, and behavior](iss-significant-positive-effects-multiple-outcomes.md) — related

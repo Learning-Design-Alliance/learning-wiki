@@ -44,3 +44,5 @@ WestEd evaluation data on TRGP-funded California residency programs show high ea
 
 ## Related Claims
 - [Alder's financial model combines grants, tuition, and LEA contributions, targeting 70–80% tuition funding by 2026–27 while keeping tuition low](alder-diversified-financial-model.md) — related
+- [TRGP-funded resident enrollment in California grew from 297 residents in 2019-20 to 428 in 2022-23, totaling 1,362 residents across 48 funded partnerships over 4 years](trgp-enrollment-1362-residents-48-partnerships.md) — related
+- [University of Houston residency completers retain in teaching at rates above state averages (93% after year one; 3- and 5-year retention 10 and 7 points above state averages for the 2019 cohort)](uh-residency-completers-retention-above-state-average.md) — related

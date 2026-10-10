@@ -63,3 +63,4 @@ Despite early-grade gains, the report finds that "by the end of elementary schoo
 - [K-cohort English learners' 3rd-grade achievement improved in both ELA and math across successive kindergarten cohorts, shrinking gaps with never-ELs](k-cohort-el-3rd-grade-achievement-improved-shrinking-gaps.md) — related
 - [More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts](k-cohort-els-reaching-english-proficiency-earlier.md) — related
 - [Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification](proficiency-reclassification-gap-ltels.md) — related
+- [Students designated as LTEL7 in California overwhelmingly began schooling at the lowest English proficiency levels (64% at Beginning vs. 40% of other ever-ELs)](ltel7-began-lowest-english-proficiency.md) — related

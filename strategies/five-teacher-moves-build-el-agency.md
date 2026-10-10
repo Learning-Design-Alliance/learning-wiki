@@ -42,6 +42,7 @@ The brief enumerates five teacher actions for the agency feature of quality inst
 - [Fostering Self-Advocacy and Self-Determination](fostering-self-advocacy-and-self-determination.md)
 - [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](self-assessment-supports-self-regulated-agents.md)
 - [Supports teachers need to enact formative assessment for English learners](teacher-supports-formative-assessment-el.md)
+- [Reinforce growth mindsets through explicit messages plus implicit classroom practices](growth-mindset-explicit-and-implicit-practices.md)
 
 ## Examples
 -

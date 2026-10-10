@@ -58,9 +58,11 @@ Errors are cognitively valuable: being corrected after committing an error produ
 5. **Weight improvement in evaluation.** In [Assess Performance](../elements/assess-performance.md), include growth from first attempt to revision as a graded component.
 
 ## Related Strategies
+
 - **Productive failure** — a formal instructional sequence built on this strategy: attempt first, fail, then learn from canonical instruction
 - **Assessment for learning** — supplies the feedback loop that makes error correction effective
 - **Growth mindset framing** — provides the motivational belief system ("ability is malleable") that underwrites risk-taking
+- [Use low-stakes, multiple-entry warm-ups like \"Which One Doesn't Belong?\" to reduce fear of wrong answers](which-one-doesnt-belong-low-stakes-warmup.md)
 
 ## Examples
 - **Revision-based grading**: a writing course where essays receive feedback-only first drafts, and the final grade weights the revision; students must annotate what they changed and why.

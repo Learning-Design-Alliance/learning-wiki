@@ -46,3 +46,4 @@ Self-report findings from the CCSR 2005 principal survey on preparation satisfac
 - [No differences in student learning gains found between LAUNCH or NLNS principals and comparable or veteran principals](no-learning-gains-differences-launch-nlns-principals.md) — related
 - [Elementary LAUNCH principals report significantly more data-driven decision making than comparable or veteran principals](launch-elementary-principals-more-data-driven-decision-making.md) — related
 - [Elementary LAUNCH principals' schools rated significantly lower on 5 of 12 measures compared to schools led by non-program principals](launch-elementary-schools-rated-lower.md) — related
+- [Charlotte-Mecklenburg’s Strategic Staffing Initiative improved leadership satisfaction and student achievement in struggling schools](strategic-staffing-initiative-outcomes.md) — related

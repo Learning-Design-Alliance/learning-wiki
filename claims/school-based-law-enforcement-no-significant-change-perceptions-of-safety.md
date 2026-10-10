@@ -51,3 +51,4 @@ A systematic review (Petrosino et al., forthcoming) that the brief reports condu
 - [SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes](sble-no-beneficial-learning-effects.md) — related
 - [Review findings are consistent across study design features; no moderator showed meaningful relationships](sble-findings-consistent-across-design-features.md) — related
 - [SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence](sble-increases-exclusionary-discipline.md) — related
+- [SBLE shows no statistically significant relationship with perceptions of school, but may improve perceived safety in school-level studies only](sble-perceptions-school-null-safety-mixed.md) — related

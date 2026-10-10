@@ -47,3 +47,4 @@ Open-ended survey responses from 28 honours students were categorised into theme
 - [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — reports the opposite
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
 - [Extra honours workload causes stress, less free time and reported grade decreases in the main phase](honours-extra-workload-stress-and-grade-decreases.md) — related
+- [Providers reported racial and gender bias within their local business communities, with many feeling less supported than other businesses due to their race](providers-report-racial-gender-bias-in-business-community.md) — related

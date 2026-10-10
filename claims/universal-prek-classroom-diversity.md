@@ -65,3 +65,4 @@ The report reviews studies of New York City's universal preschool program, which
 - [ECE programs are on average more racially segregated than elementary and high schools](ece-more-segregated-than-k12.md) — related
 - [2018–19 CPS ninth-graders were residentially segregated by race/ethnicity: one racial/ethnic group comprised over 50 percent of ninth-graders in 65 of 77 community areas](ninth-graders-segregated-across-community-areas.md) — related
 - [School and district factors relate to risk identification: low income concentration correlates with repeated risk identification, and segregation modestly increases it, though some schools outperform model predictions](massachusetts-school-segregation-risk-identification.md) — related
+- [The ECE system is socioeconomically segregated because means-tested programs sort children by family income](ece-socioeconomic-segregation-means-testing.md) — possibly the same claim (merge candidate)

@@ -49,3 +49,5 @@ The playbook asserts, citing background research, that family engagement is "con
 - [Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college](sel-value-added-graduation-college-enrollment.md) — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — a narrower finding that bears on this claim
+- [Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators](nm-community-schools-improved-outcomes-three-sites.md) — related
+- [Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care](redwood-city-family-engagement-gains-attendance-care.md) — a narrower finding that bears on this claim

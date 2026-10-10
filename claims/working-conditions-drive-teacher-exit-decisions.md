@@ -67,3 +67,5 @@ The report's school-leadership subsection synthesizes survey research on why tea
 - [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — a narrower finding that bears on this claim
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — a broader claim this one bears on
+- [Dissatisfaction with leadership and staff cohesion predicts staying only in high-poverty schools](leadership-cohesion-retention-high-poverty.md) — related
+- [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](louisiana-teachers-of-color-working-conditions-turnover.md) — a narrower finding that bears on this claim

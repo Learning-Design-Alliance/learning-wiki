@@ -48,6 +48,9 @@ The report recommends state incentives that recruit candidates into high-need fi
 - [A federal Marshall Plan for Teaching focused on seven areas: compensation, debt-free preparation, high-retention pathways, mentoring, expertise-sharing, school redesign, and accountability](marshall-plan-for-teaching-seven-areas.md)
 - [Provide financial support and induction mentoring in exchange for a multi-year teaching commitment](financial-support-commitment-induction-strategy.md)
 - [Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance](policy-strategies-sustain-residency-pathways.md)
+- [Recruit classified school employees into teacher credentialing with braided funds plus individualized financial and non-financial supports](classified-employee-credentialing-braided-supports.md)
+- [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
+- [Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce](teacher-residency-braided-recruitment-retention.md)
 
 ## Examples
 -

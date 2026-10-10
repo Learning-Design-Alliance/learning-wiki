@@ -58,9 +58,11 @@ Belonging is a core social motive; when learners doubt their social fit, they di
 5. Sustain it: belonging erodes without reinforcement; maintain roles, check-ins, and inclusive discussion norms across the term rather than treating belonging as a first-week event.
 
 ## Related Strategies
+
 - [Wise Feedback](wise-feedback.md) — the feedback practice most directly tied to communicating belonging through evaluation
 - [Normalizing Struggle](normalizing-struggle.md) — reframes difficulty so it is not read as evidence of non-belonging
 - [Community Building](community-building.md) — the broader relational work this strategy draws on
+- [Cultivate mathematics belonging by publicly recognizing every student as a mathematical thinker](mathematics-belonging-recognition-practices.md)
 
 ## Examples
 - **Walton & Cohen's social-belonging intervention** — a one-hour reading-and-writing activity in which students read stories of older students whose belonging worries faded over time and wrote about their own experience; it raised GPA among African American college students and narrowed the achievement gap for years afterward ([Science, 2011](https://doi.org/10.1126/science.1198364)).

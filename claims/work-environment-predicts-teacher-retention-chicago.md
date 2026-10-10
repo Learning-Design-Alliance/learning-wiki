@@ -61,3 +61,7 @@ The Chicago teacher mobility study (The Schools Teachers Leave) found work envir
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
 - [Principals' overall preparation quality is positively and significantly related to teacher retention, with significant components for developing people and meeting needs of diverse learners](principal-preparation-quality-teacher-retention.md) — related
 - [Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay](working-conditions-drive-teacher-exit-decisions.md) — a broader claim this one bears on
+- [State administrators stress building trust with schools and districts as a foundation for supportive school improvement relationships](building-trust-sea-school-improvement.md) — related
+- [Teachers' effectiveness increases at a greater rate in supportive, collegial working environments and when they accumulate experience in the same grade level, subject, or district](experience-gains-greater-in-supportive-environments.md) — related
+- [Dissatisfaction with leadership and staff cohesion predicts staying only in high-poverty schools](leadership-cohesion-retention-high-poverty.md) — related
+- [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related

@@ -53,3 +53,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Eight of 10 districts planned to continue refining and using classroom observation tools after finding them a firm priority for understanding implementation](observation-tools-priority-eight-of-ten-districts.md) — related
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
+- [Core to College network interactions were primarily information sharing and making connections between K–12 and higher education](core-to-college-interactions-primarily-information-sharing.md) — related

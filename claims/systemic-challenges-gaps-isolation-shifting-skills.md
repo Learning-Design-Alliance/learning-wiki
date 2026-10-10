@@ -46,3 +46,4 @@ The report's challenge section cites statistics including that "Almost 40% of hi
 - [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related
 - [Youth focus groups surfaced four key digital well-being challenge themes: addiction and compulsive use, impact on thinking, effects on social skills, and effects on mental health](youth-focus-groups-four-digital-wellbeing-challenge-themes.md) — related
 - [Half of reported developmental barriers stem from academic-related challenges (50.39%)](academic-challenges-half-of-development-barriers.md) — related
+- [A global survey found more than 50% of 10,000 young people across 10 countries feel sad, anxious, angry, powerless, helpless, and guilty about climate change](youth-climate-anxiety-global-survey.md) — related

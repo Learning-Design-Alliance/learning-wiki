@@ -48,6 +48,7 @@ Step 1 of the framework directs leaders to begin "with cross-departmental analys
 - [Structure OBC procurement around intentionality questions on learner goals, populations, outcomes, and stakeholders](obc-intentionality-collaboration-questions.md)
 - [Support future edtech OBC cohorts with readiness assessments, early planning, needs-assessment framing, and cross-cohort collaboration](obc-future-cohort-support-strategies.md)
 - [Form a small cross-departmental team with defined facilitation roles before starting alignment work](small-cross-departmental-team-facilitation-roles.md)
+- [Design an evaluation and research framework with mapped data landscapes, program measures, and data-sharing agreements](promise-evaluation-data-sharing-framework.md)
 
 ## Examples
 -

@@ -1,0 +1,48 @@
+---
+type: claim
+title: Relationship-centered near-peer support from young adults (ages 18-24) creates conditions for student engagement with mental health support across YMHC sites
+description: Relationship-centered near-peer support from young adults (ages 18-24) creates conditions for student engagement with mental health support across YMHC sites
+id: near-peer-support-drives-youth-engagement-ymhc
+status: draft
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-10
+evidence_strength: weak
+sources:
+  - id: wested-2025
+    resource: "https://www.wested.org/resource/building-a-model-of-student-centered-support-through-the-youth-mental-health-corps/"
+    title: "WestEd. (2025). Local Partnerships, National Impact: Year 1 of the Youth Mental Health Corps. https://www.wested.org/resource/building-a-model-of-student-centered-support-through-the-youth-mental-health-corps/"
+    author: WestEd
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 1
+---
+
+# Relationship-centered near-peer support from young adults (ages 18-24) creates conditions for student engagement with mental health support across YMHC sites
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · design `r1` · `q2`
+
+## Subclaims
+`q2 i?` Across all YMHC sites, relationship-centered near-peer support was the most consistent condition associated with student engagement, with students finding young-adult members accessible and authentic. [→ WestEd 2025](#wested-2025)
+
+## Evidence
+
+### WestEd 2025
+
+WestEd. (2025). Local Partnerships, National Impact: Year 1 of the Youth Mental Health Corps. https://www.wested.org/resource/building-a-model-of-student-centered-support-through-the-youth-mental-health-corps/
+
+`q2 · i?` · `design · r1`
+
+Year 1 implementation report synthesizing observations across four state profiles (Colorado, Michigan, Minnesota, Texas). The report states "relationship-centered near-peer support creates uniquely powerful conditions for student engagement"; no effect sizes or comparative tests are reported.
+
+> "The most consistent finding across all YMHC sites is that relationship-centered near-peer support creates uniquely powerful conditions for student engagement."
+
+## Discussion
+
+
+## Related Claims
+- [Schools with YMHC members reported reductions in behavioral referrals and improved student attendance in Year 1](ymhc-schools-reported-referral-and-attendance-gains.md) — related
+- [YMHC members completed more than 130 certifications by March 2025, and 46% found certifications instrumental in securing employment](ymhc-certifications-employment-outcomes.md) — related
+- [Coordination of Services Teams (COSTs) are used universally in Oakland Unified schools to connect students and families with academic, mental, behavioral, and physical health supports](costs-universally-connect-students-to-supports.md) — related

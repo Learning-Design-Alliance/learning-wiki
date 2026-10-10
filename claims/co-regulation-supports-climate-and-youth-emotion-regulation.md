@@ -84,3 +84,4 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](relationship-centered-designs-beat-factory-model.md) — related
 - [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — related
+- [Youth reported positive perceived impacts on healthy relationships (77 percent) and on self-regulation and decision-making (62–66 percent)](project-with-perceived-impact-relationships-self-regulation.md) — related

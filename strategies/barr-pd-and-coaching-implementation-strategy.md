@@ -43,6 +43,7 @@ The article prescribes a specific implementation support package: each BARR scho
 - [Implement BARR with a dedicated coordinator, weekly teacher-team meetings, multi-year professional development, and intensive coaching](barr-implementation-strategy.md)
 - [Phased SIM professional development plan: initial planning days, monthly site PD and coaching, monthly leadership-team sessions, and annual program-specific training with coaching](sim-phased-professional-development-plan.md)
 - [Require participants to complete an individual leadership project with a planning template and protected work time](individual-leadership-project-protected-time.md)
+- [Build coordinator capacity through a structured weekly professional learning community with personalized coaching and targeted assets-and-needs-assessment training](weekly-plc-coaching-for-community-school-coordinators.md)
 
 ## Examples
 -

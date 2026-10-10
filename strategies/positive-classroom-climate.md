@@ -60,8 +60,10 @@ Climate functions as a gateway condition: learners who feel threatened or discon
 6. Monitor climate continuously through quick feedback and [Check-Ins](../principles/check-ins.md), and repair relational ruptures promptly.
 
 ## Related Strategies
+
 - [Accountability Partners](accountability-partners.md) — peer relationships that extend climate into mutual support
 - [Achievable Micro-Goals](achievable_micro-goals.md) — builds the competence experiences that a positive climate should make safe to pursue
+- [Cultivate mathematics belonging by publicly recognizing every student as a mathematical thinker](mathematics-belonging-recognition-practices.md)
 
 ## Examples
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — a published K–8 program built around morning meetings and teacher language practices that establish climate routines.

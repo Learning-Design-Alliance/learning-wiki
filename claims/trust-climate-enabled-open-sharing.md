@@ -48,3 +48,4 @@ Participant testimony gathered by R15CC from members of the NDE More Rigorous In
 - [Teachers and principals in CHSRI small schools describe an environment marked by trust, commitment, and strong professional community in year two](chsri-small-schools-trust-professional-community.md) — related
 - [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — related
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
+- [Social engagement in gateway math courses builds confidence and deepens understanding, dependent on faculty fostering a supportive learning environment](social-engagement-builds-confidence-gateway-math.md) — related

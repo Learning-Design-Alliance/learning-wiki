@@ -46,3 +46,4 @@ Differential item functioning analysis (Chapter 8) comparing items across langua
 - [English and Spanish MAP Growth Reading scales were statistically linked via a bilingual group design despite measuring similar but not identical constructs](spanish-english-reading-scale-linking-bilingual-group-design.md) — related
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related
 - [Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups](spanish-map-reading-tau-equivalent-constructs.md) — related
+- [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](dif-one-item-moderate-large-rest-negligible.md) — a narrower finding that bears on this claim

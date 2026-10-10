@@ -50,3 +50,4 @@ A leader interviewed in the study stated that "if there is not trust or trusting
 - [Social trust predicts which urban schools improve, and trust is built by reducing staff vulnerability](social-trust-vulnerability-school-change.md) — related
 - [Technical restorative practices implementation falls short when the adaptive components of values, mindsets, and beliefs have not shifted](adaptive-shift-precedes-technical-restorative-success.md) — related
 - [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](relational-trust-precondition-participatory.md) — related
+- [State administrators stress building trust with schools and districts as a foundation for supportive school improvement relationships](building-trust-sea-school-improvement.md) — a narrower finding that bears on this claim

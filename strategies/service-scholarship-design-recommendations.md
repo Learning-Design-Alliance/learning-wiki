@@ -45,6 +45,9 @@ The report's policy recommendations for service scholarship programs: benchmark 
 - [Deploy service scholarships, loan forgiveness, and teacher residencies to staff high-need fields and schools](service-scholarships-residencies-staffing-strategy.md)
 - [Establish high-retention preparation pathways—residencies, Grow Your Own models, service scholarships, and mentoring/induction—to stem turnover in high-need subjects and schools](high-retention-pathways-residencies-grow-your-own.md)
 - [Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance](policy-strategies-sustain-residency-pathways.md)
+- [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
+- [State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees](state-policy-levers-yearlong-stipended-clinical-preparation.md)
+- [Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates](use-completer-surveys-accreditation-continuous-improvement.md)
 
 ## Examples
 -

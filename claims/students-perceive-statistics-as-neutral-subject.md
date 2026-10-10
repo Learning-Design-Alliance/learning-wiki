@@ -45,3 +45,4 @@ Across interviews on belonging and inclusivity, a common theme of uncertainty em
 - [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](interviews-undergrad-stats-lumen-one-perceptions.md) — related
 - [Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics](real-world-examples-aid-comprehension-and-relevance.md) — reports the opposite
 - [In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences](layers-topics-track-context-centered-mindsets.md) — related
+- [Racial, ethnic, and cultural identity development emerged as the core need for students of color beyond academic subjects](identity-core-of-sead-for-students-of-color.md) — reports the opposite

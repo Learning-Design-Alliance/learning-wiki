@@ -67,3 +67,4 @@ Parallel teacher survey corroboration of student reports of disruption. The auth
 - [Teachers' most negative reports concern student behavior, which more teachers say has gotten worse than better](student-behavior-most-negative-teacher-reports.md) — related
 - [Chicago teachers are far more likely to report improvements in their own work than improvements in student academic performance](teachers-report-own-effectiveness-gains-more-than-student-gains.md) — related
 - [Math and science instruction improved in Chicago during the years of standards reform, based on student survey reports of classroom experiences before and after reform](chicago-instruction-improved-standards-reform.md) — reports the opposite
+- [Teachers report that disruptive behaviors of students in foster care are easily misinterpreted and that purely disciplinary responses can make things worse](misread-behaviors-discipline-backfire-foster-care.md) — related

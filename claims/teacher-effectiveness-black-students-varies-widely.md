@@ -46,3 +46,4 @@ Value-added analysis of Chicago Public Schools administrative data (ISAT and NWE
 - [Race-specific value-added scores predict teachers' subsequent effects: Black students taught by a teacher with high prior effectiveness for Black students show gains of about one standard deviation when the teacher moves schools or grades](race-specific-value-add-predicts-subsequent-effects.md) — related
 - [Highest-performing teachers moved students up 4 to 14 percentile points per school year relative to the average district teacher](highest-performing-teachers-4-to-14-percentile-gains.md) — related
 - [Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students](race-matched-teacher-academic-benefits-black-students.md) — related
+- [Teacher effectiveness quintile dramatically changes achievement gains of low-achieving students in Tennessee value-added data](tennessee-teacher-quintile-gains-low-achievers.md) — related

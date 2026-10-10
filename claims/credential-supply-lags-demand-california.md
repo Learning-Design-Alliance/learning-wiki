@@ -51,3 +51,8 @@ Analysis of CTC credential data and California Department of Education hire esti
 - [Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students](substandard-credentials-unequal-district-distribution.md) — related
 - [Teachers continue to improve in their second decade of teaching, though fewer studies find improvement after 15 years](teachers-keep-improving-second-decade.md) — related
 - [Newly hired Texas teachers with standard or intern certificates declined sharply over the past decade while uncertified new hires became the largest category](texas-new-hire-certification-mix-shifted.md) — related
+- [About 75% of surveyed California districts report a shortage of qualified teachers for 2016-17, and over 80% of these say shortages have worsened since 2013-14](california-districts-report-worsening-teacher-shortages-2016.md) — related
+- [California TPP completers applying for preliminary credentials increased 35% between 2016–17 and 2020–21, with the largest increases among multiple subject credential earners and private institutions](california-tpp-completers-increased-35-percent.md) — related
+- [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
+- [Districts attribute shortages chiefly to a shrinking supply of newly credentialed teachers, cited by 79% of shortage districts](shrinking-teacher-supply-top-cited-shortage-cause.md) — related
+- [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related

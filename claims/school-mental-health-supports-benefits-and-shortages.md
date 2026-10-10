@@ -70,3 +70,4 @@ The review reports national staffing data: the counselor ratio of 451:1 versus t
 - [SBHIP needs assessments show LEAs' critical needs fall mainly into workforce needs and structural needs, with workforce needs described much more frequently](sbhip-needs-workforce-over-structural.md) — related
 - [Secondary students in PUSD reported declining rates of chronic sadness/hopelessness and suicidal ideation from 2020/21 to 2022/23](pusd-chks-declining-sadness-suicidal-ideation.md) — related
 - [Through Project Cal-Well, SCOE established or renewed 70 community partnerships to improve school-based mental health services](scoe-70-community-partnerships.md) — related
+- [National average school support-staff ratios fall far below recommended levels for psychologists, counselors, and social workers](support-staff-ratios-below-recommended.md) — possibly the same claim (merge candidate)

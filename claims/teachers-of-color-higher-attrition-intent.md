@@ -44,3 +44,4 @@ Descriptive analysis of nationally representative teacher survey data (NTPS and 
 
 ## Related Claims
 - [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related
+- [All students, regardless of race or ethnicity, benefit socially, emotionally, and academically from a diverse teacher workforce, while teachers of color experience burnout and leave the profession at higher rates than their White peers](diverse-teacher-workforce-benefits-all-students.md) — related

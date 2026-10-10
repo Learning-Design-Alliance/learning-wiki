@@ -56,3 +56,4 @@ The brief's opening statement of the teacher-leader role, offered as the authors
 - [The coaching pilot strengthened school leaders' relationships with coaches and led leaders to advocate for full-time dedicated coaches to scale the model](pr-coaching-pilot-relationships-systems-impact.md) — a narrower finding that bears on this claim
 - [Creating and leading professional learning for colleagues enhances teacher leaders' sense of professionalism and efficacy](ilc-membership-enhances-teacher-leader-efficacy.md) — related
 - [Creating and leading professional learning for colleagues increases teacher leaders' sense of professional efficacy](leading-colleague-learning-builds-teacher-efficacy.md) — a narrower finding that bears on this claim
+- [More experienced teachers confer benefits to their colleagues and to the school as a whole, as well as to their own students](experienced-teachers-spillover-colleagues-school.md) — related

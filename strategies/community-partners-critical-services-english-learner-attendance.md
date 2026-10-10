@@ -44,6 +44,7 @@ The brief argues that "Districts and schools alone cannot reduce chronic absente
 - [Implement a tiered, prevention-first approach to reducing chronic absence that invests in positive conditions for learning](tiered-prevention-first-attendance-approach.md)
 - [Partner with tribal governments to remove attendance barriers through staff expertise, transportation, and health and social services](tribal-government-partnerships-remove-barriers.md)
 - [Health plans can actively partner with schools by directing networked providers to school-based activities, providing TA, placing care coordinators on campus, and funding prevention through grant-making](mcp-active-partnership-strategies.md)
+- [Partner with immigrant-serving community-based organizations to engage linguistically diverse families and sustain feedback loops](partner-community-based-organizations-el-family-engagement.md)
 
 ## Examples
 -

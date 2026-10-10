@@ -67,3 +67,4 @@ Same Figure 3 descriptive analysis, contrasting State D with the other three sta
 - [States mandating non-ELP reclassification requirements have higher shares of long-term ELs](mandated-non-elp-requirements-higher-long-term-el-shares.md) — related
 - [States with more complex reclassification policies set lower minimum WIDA composite score cutoffs](complex-policies-lower-minimum-composite-scores.md) — related
 - [Eighth grade EL reclassification has statistically insignificant effects on 9th–11th grade ELA test scores, with effects bounded between −0.17 and 0.09 SDs](el-reclassification-null-ela-effects-high-school.md) — related
+- [Students designated as LTEL7 who reached the recommended CAASPP ELA achievement cut point were not yet reclassified as fluent English proficient](ltel7-caaspp-ela-met-not-reclassified.md) — related

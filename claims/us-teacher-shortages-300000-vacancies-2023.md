@@ -51,3 +51,7 @@ Analysis of state education agency data reported in the introduction. The report
 - [Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14](shortage-burden-high-poverty-high-minority-schools.md) — related
 - [Residencies prepare teachers for high-need subjects and schools, with most NCTR-network graduates hired in shortage fields and Title I schools](residencies-fill-high-need-positions.md) — related
 - [TK staffing shortages improved: TK assistant teacher vacancies fell from 12% to 3%, and 91% of LEAs reported enough lead teachers meeting 2025–26 requirements](tk-staffing-vacancies-improved-2023-24.md) — related
+- [77% of school principals and district leaders reported challenges hiring enough substitute teachers during the pandemic, more than for any other staffing position](77-percent-principals-substitute-hiring-challenges.md) — related
+- [Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22](michigan-vacancy-data-underreporting.md) — related
+- [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related
+- [The share of uncertified teachers among new Texas entrants rose from 16% in 2018–19 to 49% in 2023–24](texas-uncertified-new-teacher-share-rising.md) — a narrower finding that bears on this claim

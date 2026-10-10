@@ -56,3 +56,4 @@ The brief reports, citing Bryk et al. (2010), that responses to the K-12 5Essent
 - [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — a broader claim this one bears on
 - [Only 50% of a school's 5Essentials score is explained by the previous year's score, indicating substantial year-to-year malleability of school climate](5essentials-score-only-half-explained-by-prior-year.md) — related
 - [Among elementary schools with strong 5Essentials results, high-poverty schools improved more than low-poverty schools on more than one-half of measures](high-poverty-strong-schools-improved-more.md) — related
+- [Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains](five-essential-supports-ten-times-substantial-gains.md) — related

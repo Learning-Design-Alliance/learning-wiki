@@ -44,3 +44,5 @@ In interviews and workshops, participant-advisors named over 70 desired supports
 - [People and connections were the most-used learning transition supports among HSE participant-advisors](people-connections-top-transition-support.md) — related
 - [HSE learners and workers saw consolidated records, job matchmaking, convenience, auto-translation, and career search as top LER opportunities](top-perceived-ler-opportunities.md) — related
 - [HSE learners and workers perceived accuracy, security, usability, employer use, and access as the top challenges of LERs](top-perceived-ler-challenges.md) — related
+- [Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory](students-wary-of-mandatory-services.md) — related
+- [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](west-kern-student-climate-survey-outcomes.md) — related

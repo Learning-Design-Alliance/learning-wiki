@@ -69,3 +69,5 @@ International comparison reported in the report: U.S. attrition "hovering near 8
 - [The United States faced an estimated teacher shortage of approximately 64,000 teachers in 2015–16, projected to grow to as many as 112,000 by 2018](us-teacher-shortage-64000-2015-16.md) — related
 - [Teacher turnover costs districts billions annually and harms student achievement](teacher-turnover-costs-and-achievement-harm.md) — related
 - [Teachers without full comprehensive preparation leave at two to three times the rate of comprehensively prepared teachers](full-preparation-halves-teacher-attrition.md) — related
+- [Sierra Middle School staff attrition was cut nearly in half after the 2023–24 school year](sierra-staff-attrition-cut-nearly-in-half.md) — a narrower finding that bears on this claim
+- [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — a narrower finding that bears on this claim

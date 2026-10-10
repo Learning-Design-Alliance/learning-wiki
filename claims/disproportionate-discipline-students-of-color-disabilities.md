@@ -51,3 +51,4 @@ Analysis of the U.S. Department of Education's Civil Rights Data Collection for 
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
 - [Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14](cps-high-school-oss-rates-declined-2009-2014.md) — related
 - [Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors](exclusionary-discipline-disproportionate-penalties.md) — related
+- [Students with disabilities are overrepresented in school discipline: 16 percent of enrollment but 25–28 percent of suspensions and expulsions](disability-discipline-overrepresentation-suspension-expulsion.md) — related

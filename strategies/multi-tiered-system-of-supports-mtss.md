@@ -87,6 +87,7 @@ MTSS operationalizes prevention over remediation: the goal is to catch strugglin
 - [Implement multi-tiered supports focused on acceleration, not remediation](multi-tiered-supports-acceleration-not-remediation.md)
 - [Invest state discretionary dollars in early intervention systems such as MTSS to reduce later intensive supports](early-intervention-mtss-investment-return.md)
 - [Organize integrated support systems as universal, supplemental, and intensive tiers](tiered-integrated-support-systems.md)
+- [MTSS wraparound services with adequate counseling ratios and continuous improvement monitoring](mtss-wraparound-services-counseling-ratio.md)
 
 ## Examples
 - **[National Center on Intensive Intervention](https://intensiveintervention.org)** — provides tools charts rating the evidence base and efficacy of academic and behavior intervention programs for Tier 3 selection.

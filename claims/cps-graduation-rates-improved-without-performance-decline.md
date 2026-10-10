@@ -65,3 +65,4 @@ Trend analysis of ACT scores for Illinois-tested CPS juniors over roughly a deca
 - [Chicago Public Schools improved dramatically between 1987 and 2017, with the biggest gains among students of color and low-income students](cps-decades-improvement-equitable-gains.md) — a broader claim this one bears on
 - [The rise in diploma earning came from declining dropout rates, which fell from 35 to 11 percent, not from declines in other outcomes](dropout-decline-drove-diploma-gains.md) — related
 - [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — related
+- [Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates](subject-centered-reform-dropout-risk.md) — related

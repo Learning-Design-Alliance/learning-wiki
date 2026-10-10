@@ -45,3 +45,4 @@ The report cites a 2016 study by economists Kirabo Jackson, Rucker Johnson, and 
 ## Related Claims
 - [Research on school finance reforms finds increased spending improves educational and life outcomes, with larger effects for students from low-income backgrounds, including causal evidence from California's Local Control Funding Formula](increased-funding-improves-outcomes-low-income.md) — a narrower finding that bears on this claim
 - [A school finance reform analysis found that a 20% increase in per-pupil spending for a child's k-12 schooling raised high school completion and adult earnings](per-pupil-spending-increase-improves-adult-outcomes.md) — related
+- [Increases in per-pupil spending improve educational attainment, wages, and adult poverty outcomes, with stronger effects for low-income children](school-spending-increases-improve-attainment-wages-poverty.md) — possibly the same claim (merge candidate)

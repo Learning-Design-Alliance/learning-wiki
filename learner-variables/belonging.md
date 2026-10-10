@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 37 claims (33 for, 4 mixed) · 37 studies (10 review, 8 causal, 8 qualitative, 4 design, 3 associational, 3 theoretical, 1 quant-synthesis), `q1`–`q4` · 0 of 37 report an effect size · 34 claims rest on one study
+> **Evidence** · 41 claims (37 for, 4 mixed) · 41 studies (12 review, 9 qualitative, 8 causal, 5 design, 3 associational, 3 theoretical, 1 quant-synthesis), `q1`–`q4` · 0 of 41 report an effect size · 38 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -70,6 +70,10 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting](../claims/positive-relationships-protect-against-violence.md) [+W] — learners who differ on it differ in outcomes
 - [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](../claims/relationships-pathways-self-efficacy-motivation-identity.md) [+M] — learners who differ on it differ in outcomes
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](../claims/mathematics-belonging-predicts-algebra-learning.md) [+M] — learners who differ on it differ in outcomes
+- [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](../claims/los-padillas-student-belonging-above-district.md) [+M] — instruction changes it
+- [Getting-to-know-you surveys that surface student-teacher commonalities improved relationships and grades, and closed achievement gaps for Black and Latinx students by more than 60% in one study](../claims/getting-to-know-you-surveys-commonalities-gap-closure.md) [+M] — instruction changes it
+- [Oakland 11th graders reported improved school connectedness and safety after discipline reform](../claims/oakland-school-connectedness-improved-after-reform.md) [+M] — instruction changes it
+- [Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care](../claims/redwood-city-family-engagement-gains-attendance-care.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Affect regulation — belonging shapes how a setback is felt before any regulation strategy is applied.

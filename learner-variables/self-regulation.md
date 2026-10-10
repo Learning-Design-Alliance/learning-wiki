@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (37 for, 10 mixed, 5 against) · 43 studies (11 associational, 9 quant-synthesis, 9 review, 8 causal, 3 qualitative, 3 theoretical), `q1`–`q4` · 11 of 43 report an effect size · 45 claims rest on one study
+> **Evidence** · 54 claims (39 for, 10 mixed, 5 against) · 44 studies (11 associational, 9 quant-synthesis, 9 review, 8 causal, 3 qualitative, 3 theoretical, 1 design), `q1`–`q4` · 11 of 44 report an effect size · 47 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -85,6 +85,8 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](../claims/mindfulness-positive-school-climate-outcomes.md) [+W] — instruction changes it
 - [Teacher mindfulness and stress-management training is linked to gains in educator well-being and self-regulation skills](../claims/mindfulness-training-teacher-wellbeing-gains.md) [+W] — instruction changes it
 - [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](../claims/metacognition-efficiency-effectiveness-outcomes-claim.md) [+M] — learners who differ on it differ in outcomes
+- [Youth most positively reported Project With's impact on goal setting, with 81 percent saying it made them more likely to make plans to reach their goals](../claims/project-with-perceived-impact-goal-setting.md) [+M] — instruction changes it
+- [Youth reported positive perceived impacts on healthy relationships (77 percent) and on self-regulation and decision-making (62–66 percent)](../claims/project-with-perceived-impact-relationships-self-regulation.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

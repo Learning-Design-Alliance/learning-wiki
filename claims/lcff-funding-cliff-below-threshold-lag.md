@@ -45,3 +45,4 @@ Finding from the 2023 LPI report's analyses, reported in the Challenges Persist 
 ## Related Claims
 - [Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years](lcff-dosage-cohort-exposure-effect.md) — related
 - [LCFF-induced per-pupil spending increases caused improvements in math and reading achievement in districts receiving concentration grants](lcff-spending-improved-math-reading-achievement.md) — related
+- [LCFF-induced spending increases significantly improved math and reading achievement in every grade assessed, with the largest gains in districts receiving concentration grants](lcff-significant-achievement-gains-all-grades-concentration-districts-largest.md) — related

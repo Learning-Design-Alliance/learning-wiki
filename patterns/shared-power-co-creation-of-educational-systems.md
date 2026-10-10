@@ -51,6 +51,8 @@ The brief characterizes rightful presence by "a fundamental shift in power" in w
 
 - [Make the Invisible Visible (Power Dynamics)](../methods/make-the-invisible-visible-power-dynamics.md)
 - [Racial Equity in PBL - Listen to the Voices of Students](../strategies/racial_equity_in_pbl_-_listen_to_the_voices_of_students.md)
+- [Invest in family-school partnerships, including access to families during the school day and student-family-educator co-creation](../strategies/family-school-partnerships-for-school-climate.md)
+- [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](../strategies/promising-practices-engaging-student-voice.md)
 
 ## Key Sources
 - SWIFT Education Center. (2025, May). Rightful presence in education systems. https://swiftschools.org

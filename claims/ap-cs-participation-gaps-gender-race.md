@@ -47,3 +47,4 @@ The report's current-state section, citing Code.org et al. (2020), reports that 
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
 - [Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains](ap-cs-exam-participation-gaps-and-principles-gains.md) — related
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on
+- [Black and Latino students are about one-third of Massachusetts public high school students but only 18% of AP test takers](black-latino-underrepresented-ap-test-takers.md) — related

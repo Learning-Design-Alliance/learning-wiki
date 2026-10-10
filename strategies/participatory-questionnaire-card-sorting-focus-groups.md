@@ -41,7 +41,8 @@ A concrete participatory design recipe: first run a screening questionnaire aski
 - selecting useful dashboard data points
 
 ## Related Strategies
-- 
+
+- [Run a strengths-based student focus group using open-ended, neutrally framed questions about learning from home](strengths-based-student-focus-group-questions.md)
 
 ## Examples
 -

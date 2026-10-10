@@ -44,6 +44,7 @@ The report recommends that states and districts use Bipartisan Safer Communities
 - [Plan for multiyear implementation support because outcome trajectories are U-shaped, with short-term declines preceding long-term gains](multiyear-implementation-u-shaped-outcomes.md)
 - [Organize student well-being supports through a three-tier MTSS with universal screening](mtss-three-tier-universal-screening-wellbeing.md)
 - [Use advisories and looping to ensure every student is known and supported by adults](advisories-and-looping-whole-child.md)
+- [Federal policy should fund wraparound supports and community schools integrating health, mental health, social services, and extended learning time](federal-wraparound-supports-community-schools.md)
 
 ## Examples
 -

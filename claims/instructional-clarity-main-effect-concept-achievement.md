@@ -68,3 +68,4 @@ ANOVA on identifying key words in examples, same experiment. The article reports
 - [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](unclear-presentation-complex-structure-penalty.md) — related
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
 - [Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure](positive-clarity-moves-correlate-achievement.md) — related
+- [Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning](structure-variables-correlated-learning.md) — a broader claim this one bears on

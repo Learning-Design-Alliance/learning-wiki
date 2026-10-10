@@ -44,3 +44,4 @@ Narrative synthesis of research on candidate barriers in the challenges section 
 
 ## Related Claims
 - [Most U.S. states offer a stand-alone early childhood teaching credential, but fewer than half require lead public preschool teachers to hold one](46-states-stand-alone-ec-credential-19-require-it.md) — related
+- [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — possibly the same claim (merge candidate)

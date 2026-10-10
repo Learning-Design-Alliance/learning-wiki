@@ -46,6 +46,8 @@ The report recommends that states, districts, and schools replace zero tolerance
 - [Replace exclusionary discipline for low-level offenses with social-emotional skill teaching, educator supports, implicit-bias training, and relationship-centered schools](replace-exclusionary-discipline-with-sel-and-relationship-centered-approaches.md)
 - [Six-part state and local policy strategy for reducing exclusionary discipline and suspension gaps](six-strategies-reduce-exclusionary-discipline.md)
 - [Structural supports for restorative practices: funding, people, time, discipline policy, and equity](structural-supports-restorative-implementation.md)
+- [Restorative-justice-aligned discipline policies to reduce exclusionary discipline disparities](restorative-discipline-policies-reduce-exclusionary-disparities.md)
+- [Build safety and belonging by detracking, offering low-barrier extracurriculars, and implementing restorative approaches in place of exclusionary discipline](restorative-inclusive-safety-structures.md)
 
 ## Examples
 -

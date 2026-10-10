@@ -49,3 +49,5 @@ Interview finding across the 10 SEAs. Vermont leaders emphasized "forging relati
 - [SEAs take on multiple, malleable roles in their work with LEAs, shifting based on identified needs, capacity, and context.](seas-take-multiple-malleable-roles.md) — related
 - [SEAs differentiate support to districts based on the number of CSI/TSI-identified schools, district capacity, and district willingness to engage.](seas-differentiate-support-by-district-characteristics.md) — related
 - [SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies.](seas-leverage-essa-requirements-to-define-roles.md) — related
+- [Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact](sea-data-use-for-support-refinement-nascent.md) — related
+- [SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools](sea-shift-compliance-to-support-capacity-building.md) — related

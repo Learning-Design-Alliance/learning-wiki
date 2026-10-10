@@ -67,3 +67,5 @@ Same period-by-period and subject-by-subject analysis of class absences. The bri
 - [Ninth grade attendance problems begin early in the year and generally worsen, with 89 percent of first-semester extreme truants ending the year at similar or worse levels](truancy-begins-early-and-worsens.md) — related
 - [CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting](two-truancy-problems-full-day-and-class-cutting.md) — related
 - [Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often](strong-sel-value-added-schools-on-track-absenteeism.md) — related
+- [Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason](chronic-absence-hidden-by-average-daily-attendance.md) — related
+- [Punitive responses to absence do not improve attendance and can worsen it](punitive-responses-ineffective-attendance.md) — related

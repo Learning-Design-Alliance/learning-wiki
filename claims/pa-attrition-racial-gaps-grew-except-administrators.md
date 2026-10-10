@@ -51,3 +51,4 @@ Observational comparison of attrition rates by staff race/ethnicity across job c
 - [LEA Design Teams came to believe that focusing first on teacher-of-color retention builds conditions that later support recruitment](retention-first-pays-recruitment-dividends.md) — related
 - [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
 - [Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992](us-teacher-turnover-15-percent-2021-22.md) — related
+- [Teachers of color now leave the workforce at a higher rate than White teachers, reversing late-1990s parity](teachers-of-color-higher-turnover-rate.md) — related

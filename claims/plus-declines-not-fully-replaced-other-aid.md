@@ -49,3 +49,4 @@ Institution-level analysis of HBCU financial aid in 2012-13 and 2013-14; the art
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](plus-tightening-changed-hbcu-aid-and-enrollment.md) — a broader claim this one bears on
 - [PLUS loan volume at HBCUs declined substantially in 2012-13 after credit standards were tightened](plus-loans-declined-substantially-hbcus-2012-13.md) — related
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
+- [Credit disparities make private loans harder to access for Black, Native American, and Latino communities](credit-score-disparities-block-private-loan-access.md) — related

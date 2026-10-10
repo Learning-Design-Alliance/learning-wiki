@@ -48,3 +48,4 @@ Cited in the report's introduction as background on turnover: "teachers with lit
 - [Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools](teacher-turnover-16-percent-annual.md) — related
 - [Teachers with little preparation leave teaching at two to three times the rates of comprehensively prepared teachers](underprepared-teachers-attrition-two-to-three-times.md) — possibly the same claim (merge candidate)
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
+- [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — possibly the same claim (merge candidate)

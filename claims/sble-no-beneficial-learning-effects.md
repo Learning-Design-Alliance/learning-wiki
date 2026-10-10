@@ -51,3 +51,5 @@ The review's plain language summary states that beyond the discipline and percei
 - [Students in schools with SBLE tended to feel safer, but this finding rests on very little data](sble-students-feel-safer-limited-data.md) — related
 - [School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school](school-based-law-enforcement-no-significant-change-perceptions-of-safety.md) — related
 - [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — related
+- [SBLE shows no statistically significant association with criminal justice contact, violence, substance-related, or weapon-related outcomes](sble-no-effect-crime-subcategories.md) — related
+- [SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance](sble-unrelated-learning-outcomes.md) — possibly the same claim (merge candidate)

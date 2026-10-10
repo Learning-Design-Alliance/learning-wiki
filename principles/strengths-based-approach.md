@@ -167,6 +167,7 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - [Take a listening tour of classrooms when beginning work in a new school](../strategies/listening-tour-classroom-observations.md)
 - [Leverage what students do well and enjoy to address their learning challenges](../strategies/leverage-strengths-to-mitigate-challenges.md)
 - [Strength-based guidance: recognizing and nurturing learners' inherent strengths rather than emphasizing deficits](../strategies/strength-based-career-guidance.md)
+- [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](../strategies/pd-asset-based-pedagogies-adult-sel.md)
 
 ## Key Sources
 - Garwood, J. D., & Ampuja, A. A. (2019). Inclusion of students with learning, emotional, and behavioral disabilities through strength-based approaches. *Intervention in School and Clinic, 55*(1), 46-51. [https://doi.org/10.1177/1053451218767918](https://doi.org/10.1177/1053451218767918)

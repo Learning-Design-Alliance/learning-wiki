@@ -45,3 +45,4 @@ Aggregation of states' shortage reports to the U.S. Department of Education: "48
 ## Related Claims
 - [More experienced teachers earned additional certificates in shortage areas (47 percent) than in nonshortage areas (25 percent), with special education the most common shortage area (27 percent)](shortage-areas-dominate-additional-certification-special-education-most-common.md) — related
 - [The United States faced an estimated teacher shortage of approximately 64,000 teachers in 2015–16, projected to grow to as many as 112,000 by 2018](us-teacher-shortage-64000-2015-16.md) — related
+- [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](shortage-subjects-special-education-math-science.md) — related

@@ -65,3 +65,5 @@ The demographic analysis reports that "69% of CPS principals are female, compare
 - [CPS principals are more racially and ethnically diverse than principals in other urban areas and nationally, and newer principals are more likely to be Black than the overall CPS principal population](cps-principals-more-racially-ethnically-diverse.md) — related
 - [Principals of color became the majority of CPS principals, rising most sharply from 1989 to 1996](cps-principals-of-color-majority-trend.md) — related
 - [The match between principal race/ethnicity and the majority race of students in CPS schools increased over time](cps-principal-student-race-match-increased.md) — related
+- [Teacher-student racial and cultural match is associated with benefits for students of color and all P-12 students](educator-diversity-benefits-students-of-color.md) — related
+- [Nearly 80% of U.S. principals are White, so students of color are far less likely than White peers to encounter a leader matching their race or ethnicity](principals-nearly-80-percent-white.md) — related

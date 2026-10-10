@@ -54,3 +54,4 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](student-voice-tenet-sustained-educator-practice.md) — a narrower finding that bears on this claim
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
 - [Project leaders reported catalyzed changes in practice but concerns about rushed timelines and sustainability](team-lead-reflections-first-year.md) — related
+- [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related

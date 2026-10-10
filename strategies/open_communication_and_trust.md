@@ -63,6 +63,7 @@ Relational trust between teachers, students, and families is a strong correlate 
 - [Community of Inquiry](../principles/community-of-inquiry.md) — extends trust into the social presence needed for productive online and classroom discourse
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 - [Align teachers, families, and staff around a shared vision to build trust and momentum](align-staff-families-shared-vision-trust.md)
+- [Enable regular, meaningful family engagement through diverse home-language communication, proactive meetings, student-led conferences, and shared decision-making forums](family-engagement-structures-secondary.md)
 
 ## Examples
 - **Positive texting campaigns** — In randomized studies, teachers sending brief individualized texts to families about student progress improved homework completion and engagement (Kraft & Dougherty, 2013).

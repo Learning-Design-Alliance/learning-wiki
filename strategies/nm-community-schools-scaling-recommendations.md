@@ -45,6 +45,7 @@ The report recommends a sequenced set of state actions: during the COVID-19 reco
 ## Related Strategies
 
 - [Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance](leandro-sequenced-investment-action-plan-strategy.md)
+- [Provide sustainable, dedicated funding for community school coordinators plus technical assistance and capacity-building](sustainable-coordinator-funding-and-technical-assistance-strategy.md)
 
 ## Examples
 -

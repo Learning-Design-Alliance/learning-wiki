@@ -92,10 +92,12 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [Multimodal Instruction](multimodal-instruction.md) — multiple modes can clarify structure when they are coherent rather than cluttered
 
 ## Examples
+
 - Module overviews, lesson roadmaps, worked agendas, and slide decks with consistent signaling
 - [Flipped Classroom](../patterns/flipped-classroom.md) — especially dependent on clear structure because pre-class and in-class phases must align visibly
 - [State Objectives](../elements/state-objectives.md) and [Advance Organizers](../elements/advance-organizers.md) are concrete ways to implement this principle
 - Numbered procedures, exemplars, and checklists help make task structure inspectable for novices
+- [Increase access to digital learning so materials are organized and accessible online](../strategies/digital-learning-access-organized-materials.md)
 
 ### Illustrative
 

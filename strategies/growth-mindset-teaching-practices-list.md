@@ -46,6 +46,7 @@ The report synthesizes the growth mindset literature into math teaching practice
 - [Promote a Growth Mindset in Math](promote_a_growth_mindset_in_math.md)
 - [Praise Effort and Strategies](praise_effort_and_strategies.md)
 - [Emphasis on the Learning Process](emphasis_on_the_learning_process.md)
+- [Reinforce growth mindsets through explicit messages plus implicit classroom practices](growth-mindset-explicit-and-implicit-practices.md)
 
 ## Examples
 -

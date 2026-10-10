@@ -52,6 +52,12 @@ The document enumerates concrete state policy actions organized in three section
 - [Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning](principal-development-policy-strategies.md)
 - [Underwrite comprehensive preparation, improve teaching conditions, raise compensation, and expand induction to retain teachers of color](retain-teachers-of-color-four-policy-levers.md)
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
+- [Districts use financial, personnel management, and working-conditions strategies to recruit and retain teachers, including leadership compensation, mentoring, and collaboration time](district-recruitment-retention-strategy-portfolios.md)
+- [Offer flexible part-time instructional roles to bring certified, nonemployed educators back into classrooms](flexible-part-time-educator-roles.md)
+- [Build diverse school leader pipelines through HBCU/HSI preparation partnerships, transparent diversity data, equitable hiring supports, affinity networks, and Grow Your Own teacher pathways](georgia-leader-diversity-pipeline-strategies.md)
+- [Invest in retention efforts for teachers of color that improve working conditions and provide personal and professional growth opportunities](invest-retain-teachers-of-color.md)
+- [Form partnerships with community organizations, higher education, and CTE programs to expand emergency staffing and build the talent pipeline](partnerships-for-staffing-pipeline.md)
+- [Multi-pronged state investments to diversify and retain the educator workforce](state-investments-diversify-educator-workforce.md)
 
 ## Examples
 -

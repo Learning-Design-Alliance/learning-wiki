@@ -50,3 +50,4 @@ Expert-interview report section on high-quality preschool. Experts stated the as
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
 - [Family circumstances pile up to worsen preschool attendance, and parent beliefs about attendance importance are related to absence rates](family-circumstances-and-parent-beliefs-relate-to-preschool-attendance.md) — related
 - [Experts know of no research identifying effective instructional practices specifically for students in foster care and suggest good instruction for academically at-risk children generally applies](no-research-instructional-practices-foster-care.md) — related
+- [Many U.S. children lack access to early learning programs: only 54% of 3- and 4-year-olds attend any preschool and 35% of eligible children participate in Head Start](ece-access-gaps-preschool-head-start-participation.md) — related

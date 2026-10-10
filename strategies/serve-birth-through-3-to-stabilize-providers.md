@@ -44,6 +44,7 @@ As universal transitional kindergarten expands, community-based providers lose 4
 - [State supports for UPK expansion: fund facilities and ratio implementation, update reimbursement rates, offer curriculum and assessment technical assistance, and expand professional development and inclusive-classroom supports](california-upk-state-support-strategy.md)
 - [Support coordinated enrollment across the mixed delivery system to ensure family choice and provider stability](coordinated-enrollment-mixed-delivery.md)
 - [Four-part state policy agenda: coherent administration, universal affordability, a well-qualified workforce, and quality improvement for all programs](california-ece-four-part-policy-agenda.md)
+- [Expand transitional kindergarten and preschool by braiding UPK funds with hiring, culturally responsive curriculum, and community college partnerships](upk-transitional-kindergarten-braided-implementation.md)
 
 ## Examples
 -

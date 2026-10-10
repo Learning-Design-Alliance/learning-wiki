@@ -46,3 +46,5 @@ Survey of over 200 representative California districts conducted in fall 2016, r
 - [Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them](pandemic-increased-teacher-vacancies-california-districts.md) — related
 - [California authorizes fewer than half the bilingual teachers it did at its mid-1990s peak, leaving it possibly unprepared for demand under Proposition 58](bilingual-teacher-supply-insufficient-prop58.md) — related
 - [Increased retirements and resignations contributed to shortages in most large districts surveyed](retirements-resignations-contributed-shortages.md) — related
+- [About 75% of surveyed California districts report a shortage of qualified teachers for 2016-17, and over 80% of these say shortages have worsened since 2013-14](california-districts-report-worsening-teacher-shortages-2016.md) — possibly the same claim (merge candidate)
+- [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](shortage-subjects-special-education-math-science.md) — related

@@ -48,3 +48,4 @@ Multivariate regression on NTPS/TFS data using the job and workplace satisfactio
 - [Teachers who are not fully certified have higher turnover than fully certified teachers (20.1% vs. 14.7%), with a larger gap among early-career teachers](uncertified-teachers-higher-turnover.md) — related
 - [Charter administrators reported greater difficulty recruiting and hiring teachers and much higher teacher turnover, but far less difficulty removing poor teachers, than non-charter administrators in 2017](charter-non-charter-staffing-roadblock-differences.md) — related
 - [Teacher turnover is 35%–37% higher in schools with the largest concentrations of students of color and students from low-income backgrounds than in schools with the smallest](school-composition-turnover-inequity.md) — related
+- [Dissatisfaction with leadership and staff cohesion predicts staying only in high-poverty schools](leadership-cohesion-retention-high-poverty.md) — related

@@ -60,3 +60,4 @@ Cohort tracking of the CPS graduating class of 2015, the most recent cohort with
 - [CPS four-year completion rates rose 7 percentage points over ten years while enrollees nearly doubled, but remained far below six-year rates](cps-four-year-rates-increased-seven-points.md) — related
 - [College was the most prevalent postsecondary pathway selection, with CTE/non-CTE differences narrowing over time](pathway-selection-college-prevalent-cte-gaps-narrowing.md) — related
 - [Students meeting the continuous four-term persistence definition completed college at higher rates than students meeting the third-semester definition, for both bachelor's and community college enrollees](persisters-completion-rates-by-definition.md) — related
+- [Community college credential completion rates are low and have slightly declined, with markedly lower rates for black and Hispanic students](low-community-college-completion-rates-declining.md) — related

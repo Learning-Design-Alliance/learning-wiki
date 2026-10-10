@@ -53,3 +53,5 @@ Observational within-school comparison of suspension rates across student groups
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
 - [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related
 - [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related
+- [Attending schools with higher suspension rates predicts future interaction with the criminal legal system](higher-suspension-rates-predict-criminal-legal-system-interaction.md) — related
+- [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](suspension-disparities-reflect-policies-and-adult-biases.md) — related

@@ -59,3 +59,4 @@ Piecewise multilevel growth models (Model 2) estimated monthly learning rates fo
 - [Students with disabilities in grades K-4 grow as much or more academically during some school years than peers without disabilities](swd-school-year-growth-matches-or-exceeds-peers.md) — related
 - [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related
 - [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — related
+- [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](nc-prek-gains-dual-language-learners.md) — related

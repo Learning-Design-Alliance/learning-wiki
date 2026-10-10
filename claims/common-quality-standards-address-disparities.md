@@ -48,3 +48,4 @@ Cross-site qualitative lesson from the case studies. San Francisco developed qua
 - [Most state-funded preschool programs use a mixed delivery system, with some states serving over half of children in non-LEA settings](most-state-preschool-programs-mixed-delivery.md) — related
 - [Alabama and New Jersey require and fund salary parity for non-LEA preschool teachers with LEA peers; New York City teachers achieved parity through unionizing](pay-parity-policies-nonlea-teachers.md) — related
 - [Strong, consistent early childhood leadership coupled with long-term strategic planning is essential to local preschool system coherence in mixed delivery systems](ece-leadership-strategic-planning-local-coherence.md) — related
+- [New Jersey's Abbott P-3 credential mandate, with scholarships, pay parity, and expanded higher education capacity, rapidly raised credentialed preschool teacher supply](new-jersey-abbott-p3-credential-scale-up.md) — related

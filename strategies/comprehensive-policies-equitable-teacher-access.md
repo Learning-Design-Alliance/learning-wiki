@@ -44,6 +44,8 @@ The report recommends that federal, state, and local policies "must take a compr
 - [Underwrite comprehensive preparation, improve teaching conditions, raise compensation, and expand induction to retain teachers of color](retain-teachers-of-color-four-policy-levers.md)
 - [Build high-retention, supportive pathways into teaching for candidates of color](high-retention-supportive-pathways-teachers-of-color.md)
 - [Using Title II professional development funds to strengthen teacher preparation, recruitment, induction, and support in high-need schools](title-ii-teacher-equity-strategies.md)
+- [Federal policy should invest in high-quality professional learning for educators, prioritizing preparation and professional development designs including teachers teaching teachers](federal-invest-educator-professional-learning.md)
+- [Five policy priorities to address Michigan's inequitable teacher shortage: fair funding, data systems, career attractiveness, administrator supports, and professional development](five-priorities-michigan-teacher-shortage-policy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ The study's scope is stated in its abstract: it "examined the benefits of pre-K 
 - [Convergence is attributed to nonattenders making greater gains in kindergarten than pre-K graduates](nonattenders-greater-kindergarten-gains-drive-convergence.md) — related
 - [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related
 - [Kindergarten convergence is not attributable to pre-K children's kindergarten classroom experiences but is attributable to preexisting individual differences](convergence-attributable-to-preexisting-differences-not-kindergarten-classrooms.md) — related
+- [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](nc-prek-gains-dual-language-learners.md) — related

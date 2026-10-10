@@ -49,3 +49,4 @@ Interview finding from the 10-SEA study. Louisiana's example includes requiring 
 - [SEA staff describe their role as providing both support and accountability to LEAs, and describe struggling to balance the two.](seas-balance-support-and-accountability.md) — related
 - [SEAs differentiate support to districts based on the number of CSI/TSI-identified schools, district capacity, and district willingness to engage.](seas-differentiate-support-by-district-characteristics.md) — related
 - [The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans.](sea-resource-role-most-emphasized.md) — related
+- [SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools](sea-shift-compliance-to-support-capacity-building.md) — related

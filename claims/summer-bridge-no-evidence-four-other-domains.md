@@ -46,3 +46,4 @@ The WWC review covers five postsecondary domains: degree attainment (college), c
 - [The evidence base for summer bridge programs on postsecondary outcomes is small: only one of 31 eligible studies met WWC group design standards](summer-bridge-evidence-base-small-one-study.md) — related
 - [Summer counseling has mixed effects on college access and enrollment for recent high school graduates, with a domain-average improvement index of +5 percentile points](summer-counseling-mixed-effects-college-enrollment.md) — related
 - [Summer bridge programs have potentially positive effects on college degree attainment, with graduation rates of 70% for participants versus 67% for non-participants](summer-bridge-potentially-positive-degree-attainment.md) — related
+- [Nearly all California College Promise programs pair financial aid with academic counseling, career counseling, and summer bridge supports](ca-promise-academic-support-services-prevalence.md) — related

@@ -55,3 +55,4 @@ Review synthesis in Chapter 2 of psychological evidence on mindsets. The review 
 - [The framework's literature review reports students' academic mindsets, learning strategies, perseverance, and behaviors were clearly and significantly related to school performance](noncognitive-factors-related-to-school-performance-farrington-2012.md) — related
 - [The effect of social skills on academic performance is unclear; poor social skills are clearly associated with negative outcomes](social-skills-academic-effect-unclear.md) — related
 - [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](problem-based-principal-preparation-self-efficacy.md) — related
+- [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](los-padillas-student-belonging-above-district.md) — a narrower finding that bears on this claim

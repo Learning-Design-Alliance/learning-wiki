@@ -49,3 +49,4 @@ Open-ended interview question (Q10) in the think-aloud iteration with ten teache
 - [Teachers' motivation to analyze their teaching falls into four broad categories: self-analysis, understanding students, change, and problems](teacher-motivation-four-categories-self-analysis-students-change-problems.md) — related
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - [The webinar presents glyphs, pictographs, bar graphs, and Google Forms as ways for K-2 students to collect and analyze data.](k2-glyphs-pictographs-graphs-forms-data-collection.md) — related
+- [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related

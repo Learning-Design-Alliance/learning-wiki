@@ -50,3 +50,5 @@ Practitioner report by R15CC describing the outcomes of its four-state FACE Coll
 - [District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement](calli-districts-valued-peer-learning-experts-structure.md) — related
 - [Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities](collaboration-buy-in-student-leadership.md) — related
 - [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related
+- [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
+- [Leveraging pre-existing networks or hubs may support greater potential for long-term sustainability of cross-sector reform](preexisting-networks-support-sustainability.md) — related

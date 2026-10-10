@@ -40,6 +40,7 @@ The report recommends that leaders (1) collect and regularly review family engag
 
 - [Examine data across subgroups and account for diversity within subgroup categories before interpreting score differences](examine-data-across-subgroups-and-within-category-diversity.md)
 - [Advocate for state-level actions integrating score reports into trusted-voice family engagement](state-advocacy-assessment-reporting-recommendations.md)
+- [Disaggregate engagement and performance data by subgroup and regularly evaluate and adjust support plans](disaggregated-data-monitoring-el-supports.md)
 
 ## Examples
 -

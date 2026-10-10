@@ -66,3 +66,4 @@ Omnibus ANOVA on the application measure. The article reports the interaction ac
 - [Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure](positive-clarity-moves-correlate-achievement.md) — related
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
 - [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons](clarity-less-relevant-simpler-structures.md) — related
+- [Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning](structure-variables-correlated-learning.md) — related

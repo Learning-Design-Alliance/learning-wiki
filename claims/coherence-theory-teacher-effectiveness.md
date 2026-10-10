@@ -51,3 +51,4 @@ Theoretical argument drawing on organizational research and research on professi
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](coherence-alignment-student-experience-supports.md) — a narrower finding that bears on this claim
 - [Schools with many unrelated and unsustained initiatives show smaller gains than schools with coherent programs](instructional-program-coherence-smaller-gains.md) — related
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
+- [State investments in coordinators, professional development, and technical assistance were key to achieving community schools outcomes](state-investment-coordinators-pd-key-to-outcomes.md) — a narrower finding that bears on this claim

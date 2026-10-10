@@ -47,3 +47,4 @@ A simulation applying the agent-based model to Washington State data estimates t
 - [Eliminating hiring inequities alone would close teacher quality gaps within 10 years](hiring-equity-closes-tqgs-10-years.md) — related
 - [Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students](three-processes-contribute-teacher-quality-gaps.md) — a broader claim this one bears on
 - [Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access](hiring-transfers-not-attrition-drive-inequity.md) — related
+- [Assuring that poor and minority children had teachers of the same quality as other children would close about half the achievement gap](equalizing-teacher-quality-closes-half-the-gap.md) — related

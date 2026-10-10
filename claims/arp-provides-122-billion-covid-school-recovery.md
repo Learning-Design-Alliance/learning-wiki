@@ -45,3 +45,4 @@ The presentation states the scale of federal recovery funding, reporting that "T
 ## Related Claims
 - [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related
 - [The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery](nwea-visualization-state-level-covid-insights.md) — related
+- [State investments in community schools range from $3.4 million to $4.1 billion, mostly occurring within the past 3 years, drawing on state funds, federal ESSER funds, or both.](state-community-schools-investments-range-3-4m-to-4-1b.md) — related

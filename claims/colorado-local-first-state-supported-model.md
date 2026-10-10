@@ -50,3 +50,4 @@ Case study of Colorado based on interviews with 13 state and local leaders and a
 - [Direct service providers and statewide nonprofits play indispensable connector roles between youth needs and policy in both states](direct-service-providers-connectors-hmy.md) — related
 - [Washington advances cross-sector coordination through a policy-driven, centralized model anchored in legislation such as Project Education Impact and standardized definitions](washington-policy-driven-centralized-model.md) — reports the opposite
 - [States used four approaches to generate political support for summer learning investment](four-approaches-garnering-summer-support.md) — related
+- [State administrators report using external entities such as regional centers and nonprofits to extend school improvement capacity and reach local needs](seas-use-external-entities-for-improvement-support.md) — related

@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 11,790 |
-| Evidence entries | 13,672 |
-| Distinct studies | 3,581 |
-| Claims resting on one study | 11,529 (98%) |
+| Claims | 12,280 |
+| Evidence entries | 14,252 |
+| Distinct studies | 3,677 |
+| Claims resting on one study | 12,019 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 722 of 3,581 (20%) |
+| Studies reporting an effect size | 725 of 3,677 (20%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 49 | 387 | 109 | 358 | 903 |
-| quant-synthesis | 22 | 81 | 37 | 122 | 262 |
-| review | 35 | 198 | 87 | 107 | 427 |
-| associational | 24 | 401 | 176 | 241 | 842 |
-| qualitative | 51 | 182 | 61 | 68 | 362 |
-| design | 26 | 226 | 135 | 27 | 414 |
-| theoretical | 33 | 220 | 68 | 50 | 371 |
+| causal | 49 | 388 | 109 | 358 | 904 |
+| quant-synthesis | 22 | 82 | 37 | 122 | 263 |
+| review | 35 | 206 | 105 | 107 | 453 |
+| associational | 24 | 426 | 181 | 241 | 872 |
+| qualitative | 53 | 198 | 65 | 71 | 387 |
+| design | 27 | 232 | 138 | 27 | 424 |
+| theoretical | 33 | 221 | 70 | 50 | 374 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 632 (18%) | 2,097 (59%) | 739 (21%) | 113 (3%) |
+| 639 (17%) | 2,184 (59%) | 741 (20%) | 113 (3%) |
 
-**Studies per claim:** 0: 0, 1: 11,529, 2: 205, 3: 50, 4 or more: 6.
+**Studies per claim:** 0: 0, 1: 12,019, 2: 205, 3: 50, 4 or more: 6.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -48,6 +48,7 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [John Q. Easton, Stephen Ponisciak, Stuart Luppescu. (2008). From High School to the Future: The Pathway to …](claims/academic-culture-raises-act-scores.md) | q2 | 22 | 22 |
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 19 | 19 |
 | [Hiroyuki Yamada. (2024). New Normal in Early Elementary Mathematics Learning: Part III - Learning from …](claims/algebra-domain-strongest-predictor-early-math.md) | q2 | 17 | 17 |
+| [Price, H., Burns, D., Loewe, S., Shields, P., Kaplan, J., & Lee, H. (2024). Long-term English learners in …](claims/boys-disproportionately-represented-ltel7-california.md) | q2 | 15 | 15 |
 | [Project Cal-Well: Building Sustainable School-Based Mental Health Systems. (2024). WestEd. …](claims/cal-well-13262-students-received-services.md) | q2 | 15 | 15 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
 | [Rural Turnaround: Challenges and Opportunities. (2014). WestEd R&D Alert, Vol. 15, No. 1. …](claims/amargosa-eight-weeks-fill-eight-of-fourteen-positions.md) | q2 | 14 | 14 |
@@ -62,7 +63,6 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
 | [Hart, H. M., Sporte, S. E., Ponisciak, S. M., Stevens, W. D., & Cambronne, A. (2008). Teacher and Principal …](claims/fund-principals-future-plans.md) | q2 | 10 | 10 |
 | [Steven Glazerman and Jeffrey Max. (2011). Do Low-Income Students Have Equal Access to the Highest-Performing …](claims/district-a-extreme-middle-school-math-disparity.md) | q2 | 10 | 10 |
-| [Voight, A., Austin, G., and Hanson, T. (2013). A climate for academic success: How school climate …](claims/bto-cu-climate-gap-twice-as-large.md) | q2 | 10 | 10 |
 
 ## Citation load against evidence base
 
@@ -136,14 +136,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 375 | 324 | 2 | 0 |
 | [elements](elements/index.md) | 1,080 | 799 | 2 | 0 |
 | [patterns](patterns/index.md) | 126 | 110 | 8 | 0 |
-| [strategies](strategies/index.md) | 4,662 | 2,158 | 7 | 0 |
+| [strategies](strategies/index.md) | 4,814 | 2,158 | 7 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 3 | 0 |
 | [methods](methods/index.md) | 38 | 28 | 1 | 0 |
 | [theories](theories/index.md) | 1,372 | 1,113 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 12 | 12 | 38 | 0 |
-| [designs](designs/index.md) | 274 | 143 | 1 | 0 |
-| [products](products/index.md) | 1,069 | 804 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 215 | 183 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 12 | 12 | 40.5 | 0 |
+| [designs](designs/index.md) | 295 | 150 | 1 | 0 |
+| [products](products/index.md) | 1,109 | 819 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 217 | 185 | 1 | 0 |
 
 ## Toward pooled estimates
 

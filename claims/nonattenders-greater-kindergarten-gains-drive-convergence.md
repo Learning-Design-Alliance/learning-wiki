@@ -48,3 +48,4 @@ The authors' analysis attributes group convergence to differential growth: "nona
 - [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related
 - [Pre-K benefits were studied among children from low-income homes in a large and diverse county (n = 2,581)](pre-k-benefits-study-low-income-county-sample-2581.md) — related
 - [Pre-K graduates outperform nonattending peers in achievement and executive functioning at the end of kindergarten](pre-k-graduates-outperform-nonattenders-end-of-kindergarten.md) — related
+- [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](nc-prek-gains-dual-language-learners.md) — related

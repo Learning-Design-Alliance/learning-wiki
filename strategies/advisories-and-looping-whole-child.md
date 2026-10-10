@@ -48,6 +48,7 @@ The report recommends specific relationship-building structures for whole child 
 - [Design schools for strong, personalized relationships through small learning communities, looping, advisory systems, teaching teams, and longer grade spans](personalized-relationship-structures-strategy.md)
 - [Know every student well through many adults, multi-year teacher loops, and flexible small-group instruction](know-every-student-well-flexible-grouping.md)
 - [Invest in supportive-community strategies—mental health staffing, SEL, restorative practices, and relationship-centered structures—rather than expanded physical security](invest-in-supportive-community-safety-strategies.md)
+- [Invest in additional whole-child supports for LTEL7 students, such as those provided by community schools](community-schools-supports-ltel7.md)
 
 ## Examples
 -

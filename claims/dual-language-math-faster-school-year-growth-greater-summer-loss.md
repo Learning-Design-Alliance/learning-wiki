@@ -50,3 +50,4 @@ The piecewise multilevel growth model applied to administrative data from a larg
 - [Students who made the greatest school-year gains experienced the greatest summer learning loss](greatest-gains-greatest-summer-loss.md) — a broader claim this one bears on
 - [Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends](less-summer-loss-2022-than-pre-pandemic.md) — related
 - [In math, ELs grew more than never-ELs during academic years but lost more during summers](el-math-academic-year-growth-greater-summer-loss.md) — related
+- [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](nc-prek-gains-dual-language-learners.md) — related

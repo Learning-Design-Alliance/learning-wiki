@@ -51,3 +51,4 @@ The brief asserts, citing background literature on trauma and adverse childhood 
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — related
 - [Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment](fh2t-students-doers-of-mathematics-agency.md) — related
 - [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — possibly the same claim (merge candidate)
+- [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](positive-relationships-support-secondary-learning-wellbeing.md) — a broader claim this one bears on

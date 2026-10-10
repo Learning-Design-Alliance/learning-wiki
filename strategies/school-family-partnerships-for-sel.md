@@ -39,6 +39,7 @@ The page recommends that schools form authentic partnerships with families and c
 ## Related Strategies
 
 - [Align school and community partner SEL efforts through common language and coordinated communication](community-partner-sel-alignment.md)
+- [Center student, family, and community voice in policy and practice decisions](student-family-community-engagement-partnerships.md)
 
 ## Examples
 -

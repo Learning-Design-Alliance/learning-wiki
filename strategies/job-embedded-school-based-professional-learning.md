@@ -42,6 +42,7 @@ The blueprint's professional learning dimension specifies that high-quality prof
 - [Support program implementation with curriculum-embedded professional learning: workshops, planning and classroom coaching, leadership walkthroughs, and student-work data analysis](lenses-professional-learning-support-strategy.md)
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
 - [Instructional Coaching](instructional-coaching.md)
+- [Provide job-embedded professional learning with coaching, and keep coaches nonevaluative](job-embedded-coaching-nonevaluative.md)
 
 ## Examples
 -

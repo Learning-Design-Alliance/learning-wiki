@@ -67,3 +67,4 @@ A descriptive statement in the same compensation discussion, attributed to New Y
 - [New Jersey's share of children served in non-LEA settings is declining as state preschool enrollment grows because newly expanding LEAs are not mandated to subcontract](nj-nonlea-share-declining-as-enrollment-grows.md) — related
 - [Most state-funded preschool programs use a mixed delivery system, with some states serving over half of children in non-LEA settings](most-state-preschool-programs-mixed-delivery.md) — related
 - [Large pay disparities persist between TK teachers and other publicly funded preschool teachers, and only San Francisco raised teacher qualifications and compensation at scale](tk-preschool-teacher-pay-disparities-persist.md) — related
+- [New Jersey's Abbott P-3 credential mandate, with scholarships, pay parity, and expanded higher education capacity, rapidly raised credentialed preschool teacher supply](new-jersey-abbott-p3-credential-scale-up.md) — related

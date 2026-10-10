@@ -52,3 +52,4 @@ Fieldwork across seven CHSRI schools found teachers perceived small schools as h
 - [Coaches carry heavy workloads, often holding other roles and supporting large caseloads of teachers](coach-workload-multiple-roles-large-caseloads.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
 - [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — related
+- [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related

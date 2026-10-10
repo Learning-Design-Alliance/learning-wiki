@@ -39,6 +39,7 @@ Based on research on attracting and retaining teachers, the report identifies "e
 ## Related Strategies
 
 - [Establish high-retention preparation pathways—residencies, Grow Your Own models, service scholarships, and mentoring/induction—to stem turnover in high-need subjects and schools](high-retention-pathways-residencies-grow-your-own.md)
+- [Five policy priorities to address Michigan's inequitable teacher shortage: fair funding, data systems, career attractiveness, administrator supports, and professional development](five-priorities-michigan-teacher-shortage-policy.md)
 
 ## Examples
 -

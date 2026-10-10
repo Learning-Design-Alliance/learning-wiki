@@ -45,3 +45,4 @@ The review describes an "invisible tax" of extra, unrecognized, and uncompensate
 ## Related Claims
 - [Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties](toc-workplace-racism-invisible-tax.md) — possibly the same claim (merge candidate)
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
+- [Teachers of color in focus groups report five workforce challenges: antagonistic culture, feeling undervalued, deprived agency and autonomy, unfavorable working conditions, and high personal costs](five-challenges-teachers-of-color-face.md) — a broader claim this one bears on

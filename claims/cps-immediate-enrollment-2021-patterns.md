@@ -51,3 +51,4 @@ Trend analysis of immediate college enrollment for all CPS graduates 2008–2021
 - [Immediate college enrollment declined from 62 percent for the CPS class of 2019 to 58 percent for the class of 2020, driven more by the drop in two-year than four-year enrollment](cps-immediate-enrollment-decline-2020.md) — related
 - [CPS's immediate four-year college enrollment reached an all-time high of 47.5% in 2023 while two-year enrollment declined to 15.7%](cps-2023-four-year-enrollment-record-two-year-decline.md) — related
 - [CPS immediate college enrollment rate outperforms the most recent national rate by 5 percentage points (66% vs. 61%)](cps-college-enrollment-beats-national-5-points.md) — related
+- [Illinois's universal FAFSA policy produced a mixed first-year result: submissions rose 0.8% while completions fell 0.2%](illinois-fafsa-policy-mixed-first-year-result.md) — related

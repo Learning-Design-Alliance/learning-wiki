@@ -51,3 +51,5 @@ The report cites research indicating that subgroup tracking of discipline data h
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
 - [Schools using the CSTAG model show fewer disciplinary infractions, suspensions, expulsions, and law enforcement actions than schools using general threat assessment approaches](cstag-fewer-exclusionary-discipline-than-general-approach.md) — related
 - [Frequent RJ use by teachers shows preliminary indications of reducing the racial discipline gap, though disparities persist](rj-reduces-racial-discipline-gap-preliminary.md) — related
+- [Exclusionary discipline disproportionately removes students of color and students with disabilities from school](exclusionary-discipline-disproportionate-students-of-color-disabilities.md) — related
+- [Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years](los-padillas-discipline-retention-outcomes.md) — related

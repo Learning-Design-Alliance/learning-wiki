@@ -48,3 +48,5 @@ Analysis of California Commission on Teacher Credentialing data on permits and c
 - [Estimated teacher hires increased 43% between 2013–14 and 2017–18, outpacing growth in credential issuance](teacher-hire-demand-increased-43-percent.md) — related
 - [Most new special education teachers in 2015–16 entered on substandard authorizations, outnumbering fully prepared entrants 2:1](special-education-underprepared-majority-new-teachers.md) — related
 - [Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students](substandard-credentials-unequal-district-distribution.md) — related
+- [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
+- [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related

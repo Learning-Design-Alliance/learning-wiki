@@ -87,3 +87,4 @@ Analysis of second-grade reading outcomes by cumulative years of chronic absente
 - [Chronic absenteeism is extremely common among preschool students and declines substantially when children enter kindergarten](preschool-chronic-absenteeism-extremely-high-declines-in-kindergarten.md) — related
 - [Kindergarten test scores from more than 400,000 U.S. students contain patterns that can predict academic success or identify students at risk of falling further behind by third grade](kindergarten-scores-predict-third-grade-trajectories-400000-students.md) — related
 - [Students chronically absent (10%+) in the prior year start the following school year 0.22 to 0.47 SDs lower in mathematics than peers with no prior-year absences](prior-year-chronic-absence-lower-fall-math-achievement.md) — related
+- [Chronically absent students show worse reading, test, suspension, dropout, and postsecondary outcomes](chronic-absence-predicts-poor-outcomes.md) — related

@@ -44,3 +44,4 @@ Thematic analysis of interviews (n=31) and co-design workshops (n=27-28) with HS
 - [All learning transitions in participants' stories were intersectional, dynamic, and nonlinear](learning-transitions-intersectional-nonlinear.md) — related
 - [HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions](top-wanted-transition-supports.md) — related
 - [Participants report career transitions, certifications, networking gains, financial and social gains from tech-centered education and training programs](tech-program-accomplishments-gains.md) — related
+- [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](west-kern-student-climate-survey-outcomes.md) — related

@@ -48,3 +48,4 @@ The report's disaggregation of 2022 NAEP scores into four groups (neither, one, 
 - [Historically underserved student groups show substantially lower shares meeting the 12th-grade reading benchmark, with gaps up to 30 percentage points](underserved-groups-lower-benchmark-shares-pol.md) — related
 - [The likelihood of being identified as significantly below benchmark in early literacy screening increases as historically underserved background characteristics intersect](intersecting-backgrounds-increase-literacy-risk.md) — related
 - [Low income, English learner, special education, Black, and Hispanic students were more likely to be classified significantly below benchmark at each time period and more than once](student-group-risk-disparities.md) — related
+- [Fourth graders with disabilities scored 40 points lower in reading and 28 points lower in mathematics than peers without disabilities on the 2022 NAEP](naep-2022-disability-gap-40-reading-28-math.md) — related

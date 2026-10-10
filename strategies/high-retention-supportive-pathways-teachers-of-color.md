@@ -50,6 +50,16 @@ The report recommends that states and districts underwrite preparation costs thr
 - [A federal Marshall Plan for Teaching focused on seven areas: compensation, debt-free preparation, high-retention pathways, mentoring, expertise-sharing, school redesign, and accountability](marshall-plan-for-teaching-seven-areas.md)
 - [Seven-policy comprehensive approach to equalizing student access to certified and experienced teachers](comprehensive-policies-equitable-teacher-access.md)
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
+- [Build an after-school/OST-to-teaching pipeline to recruit teachers of color](after-school-ost-teacher-pipeline.md)
+- [Recruit classified school employees into teacher credentialing with braided funds plus individualized financial and non-financial supports](classified-employee-credentialing-braided-supports.md)
+- [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
+- [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
+- [Invest in retention efforts for teachers of color that improve working conditions and provide personal and professional growth opportunities](invest-retain-teachers-of-color.md)
+- [Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates](retain-teachers-of-color-strategies.md)
+- [Multi-pronged state investments to diversify and retain the educator workforce](state-investments-diversify-educator-workforce.md)
+- [State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees](state-policy-levers-yearlong-stipended-clinical-preparation.md)
+- [Six state policy steps to support early educator preparation, paired with adequate compensation and retention policies](state-policy-steps-ece-workforce-preparation.md)
+- [Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce](teacher-residency-braided-recruitment-retention.md)
 
 ## Examples
 -

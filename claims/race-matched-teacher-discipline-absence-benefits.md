@@ -63,3 +63,4 @@ The review reports a study of North Carolina elementary, middle, and high school
 
 ## Related Claims
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — possibly the same claim (merge candidate)
+- [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related

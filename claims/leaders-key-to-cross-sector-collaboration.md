@@ -52,3 +52,5 @@ Perception finding from interviews with central office administrators and school
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related
 - [City leaders showed substantial lack of knowledge of the Chicago Annenberg Challenge, with about half of business and government leaders unable to describe its goals](city-leaders-lack-knowledge-annenberg-challenge.md) — related
+- [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
+- [Leveraging pre-existing networks or hubs may support greater potential for long-term sustainability of cross-sector reform](preexisting-networks-support-sustainability.md) — related

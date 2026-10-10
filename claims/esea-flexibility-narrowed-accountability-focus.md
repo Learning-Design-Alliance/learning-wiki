@@ -44,3 +44,5 @@ Descriptive finding on school accountability from the study's state surveys and 
 
 ## Related Claims
 - [The NCLB era's focus on targets and sanctions without educator capacity-building or component alignment was a key barrier to implementing new standards](nclb-targets-sanctions-without-capacity-barrier.md) — related
+- [Nearly half of waiver states adopted a 'cut the gap in half' achievement goal, while only Arizona chose 100 percent proficiency by 2020](cut-gap-in-half-goal-adoption.md) — a narrower finding that bears on this claim
+- [In many NCLB waiver states, performance against improvement and gap-closing goals does not factor into school accountability ratings](waiver-states-goals-dont-count-in-ratings.md) — related

@@ -47,3 +47,4 @@ Analysis of transcripts and attendance records for the CPS ninth grade class of 
 - [Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester](schools-vary-extreme-truancy-worst-ten.md) — related
 - [Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy](truancy-throughout-day-not-subject-specific.md) — related
 - [CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting](two-truancy-problems-full-day-and-class-cutting.md) — related
+- [Punitive responses to absence do not improve attendance and can worsen it](punitive-responses-ineffective-attendance.md) — related

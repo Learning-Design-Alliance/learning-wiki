@@ -64,3 +64,5 @@ The report cites district-level studies showing wide variation in integration ou
 ## Related Claims
 - [Racially integrated learning environments have positive impacts on academic achievement for students of all races, per the research the report synthesizes](integrated-schools-academic-benefits-all-races.md) — related
 - [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — possibly the same claim (merge candidate)
+- [A recent research synthesis found positive effects of magnet schools on student achievement, attendance, and graduation rates in most studies](magnet-schools-positive-effects-synthesis.md) — a narrower finding that bears on this claim
+- [Whole school magnets and magnets without selective admissions policies have generally been found more effective at integration that supports achievement gains](whole-school-magnets-more-effective-integration.md) — a narrower finding that bears on this claim

@@ -89,8 +89,10 @@ This pattern is scoped to a course organised around a competency map with criter
 - [Mastery Learning](mastery-learning.md)
 
 ## Examples
+
 - A competency map that lets learners reassess specific standards until they show proficiency.
 - Modular technical training where prior experience allows early demonstration and faster progression.
+- [Promote student agency by letting students decide the pace of their work and whether to complete it independently or collaboratively](../strategies/student-agency-pace-and-work-mode.md)
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.

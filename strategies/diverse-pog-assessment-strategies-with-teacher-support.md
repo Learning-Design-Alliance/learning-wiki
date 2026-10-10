@@ -43,6 +43,7 @@ The brief calls for policies supporting "a more diverse set of assessment strate
 - [Rethinking Accountability](rethinking_accountability.md)
 - [Portfolio Assessment](portfolio-assessment.md)
 - [Five KEA selection and implementation considerations for policymakers and practitioners](kea-selection-implementation-recommendations.md)
+- [Reallocate resources from test preparation and interim assessments to performance task development and scoring as professional learning](reallocate-test-prep-resources-to-performance-assessment.md)
 
 ## Examples
 -

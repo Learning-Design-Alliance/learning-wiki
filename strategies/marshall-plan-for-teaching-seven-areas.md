@@ -46,6 +46,10 @@ The report's central recommendation is 'a nationwide Marshall Plan for teaching,
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
 - [Underwrite comprehensive preparation, improve teaching conditions, raise compensation, and expand induction to retain teachers of color](retain-teachers-of-color-four-policy-levers.md)
 - [Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations](service-scholarships-residencies-shortage-fields.md)
+- [Invest in recruiting and retaining a diverse, EL-qualified educator workforce through bilingual teaching pathways](bilingual-teacher-pathways-diverse-el-workforce.md)
+- [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
+- [Invest in retention efforts for teachers of color that improve working conditions and provide personal and professional growth opportunities](invest-retain-teachers-of-color.md)
+- [Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates](retain-teachers-of-color-strategies.md)
 
 ## Examples
 -

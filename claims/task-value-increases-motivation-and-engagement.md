@@ -114,3 +114,4 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — a narrower finding that bears on this claim
 - [Developing a common understanding of expected learning helps all students succeed, not only those with school-aligned prior knowledge](shared-understanding-expected-learning-helps-all-students.md) — related
 - [Performance assessments are associated with positive instructional changes, student skill development, engagement, and complex conceptual understanding](performance-assessments-positive-outcomes.md) — related
+- [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — a narrower finding that bears on this claim

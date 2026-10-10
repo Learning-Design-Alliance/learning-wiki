@@ -49,3 +49,4 @@ Benefit-cost analysis of the PEF in its third year, comparing FY 2024 benefits a
 - [The PEF's total FY 2024 cost was $76 million, up from $54 million in FY 2023, reflecting larger educator payments and new facility administrative costs](pef-fy2024-cost-76-million-up-from-54-million.md) — related
 - [PROMISE service costs represented relatively large investments](promise-service-costs-relatively-large-investments.md) — related
 - [The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time](erwc-modest-investment-cost-analysis.md) — related
+- [Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life](early-education-investment-returns-two-to-seventeen-dollars.md) — related

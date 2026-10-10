@@ -48,3 +48,4 @@ From the same CTC 2021–22 and 2022–23 program completer survey analyses: res
 - [Preservice candidates pass teaching performance assessments at higher rates than intern candidates](preservice-candidates-outpass-interns-on-tpas.md) — related
 - [Residents pass TPAs on their first attempt at higher rates than student teachers or interns in the linked subsample](residents-higher-initial-tpa-passing.md) — a narrower finding that bears on this claim
 - [Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers](residency-graduates-perceived-effective.md) — related
+- [Clinical support (communication, observation, feedback) is strongly related to perceived preparation effectiveness, yet 43% of preservice completers reported less than the required 600 hours of student teaching](clinical-support-related-to-preparedness-600-hours.md) — related

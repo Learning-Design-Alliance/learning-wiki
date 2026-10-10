@@ -52,3 +52,4 @@ The brief's descriptive comparison reports that the enrollment pattern at HBCUs 
 - [After the tightening of PLUS credit standards, both the share of PLUS participants and PLUS loan dollar amounts declined substantially at HBCUs](plus-decline-hbcus-after-credit-standard-tightening.md) — related
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](plus-tightening-changed-hbcu-aid-and-enrollment.md) — related
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
+- [Credit disparities make private loans harder to access for Black, Native American, and Latino communities](credit-score-disparities-block-private-loan-access.md) — related

@@ -65,3 +65,4 @@ Subgroup analysis by community type (Figure 5) reported in the findings section;
 - [More than two thirds of principals want equity-focused professional development, with significant differences by community type](principals-want-equity-pd-community-differences.md) — related
 - [Most U.S. elementary school principals report access to professional development content identified as important for building leadership capacity](principals-access-pd-content-leadership-capacity.md) — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
+- [Nearly 70% of school principals said they could not meet students' growing pandemic-era mental health needs with existing staff](70-percent-principals-mental-health-staffing-gap.md) — related

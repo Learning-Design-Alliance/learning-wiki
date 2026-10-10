@@ -60,8 +60,10 @@ Allowing learners to process new content through their strongest language reduce
 6. Assess content and language separately, and debrief what students learned *through* each language.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the native language is the primary vehicle through which prior knowledge is stored and retrieved
 - [Accessible Syntax](accessible_syntax.md) — complementary scaffold for making the language of instruction itself more learnable
+- [Integrate students' home languages into math instruction to build trust and participation](multilingualism-integration-math-trust.md)
 
 ## Examples
 - **Dual-language project-based schools** (e.g., Two-Way Immersion programs documented by the Center for Applied Linguistics) have students produce community-issue projects in both program languages, with final presentations to bilingual community audiences.

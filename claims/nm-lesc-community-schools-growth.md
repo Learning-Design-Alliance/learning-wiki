@@ -64,3 +64,4 @@ Secondary outcomes from the same LESC study of the three districts: teacher effe
 ## Related Claims
 - [A review of 143 studies found well-designed, fully implemented community schools improve attendance, achievement, behavior, and school climate](community-schools-143-study-review-outcomes.md) — a broader claim this one bears on
 - [Longer operating and better implemented community school programs yield more positive results for students and schools](implementation-dose-response-community-schools.md) — a broader claim this one bears on
+- [Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators](nm-community-schools-improved-outcomes-three-sites.md) — related

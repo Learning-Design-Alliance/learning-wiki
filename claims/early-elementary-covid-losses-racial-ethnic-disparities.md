@@ -58,3 +58,4 @@ Figure 2 disaggregates MAP Growth percentile rank changes from 2019 to 2022 by r
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
 - [Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students](california-racial-achievement-gap-persists.md) — related
 - [During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy](covid-volume-reading-growth-over-control.md) — related
+- [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related

@@ -40,6 +40,11 @@ The report recommends that California "adopt a comprehensive approach to turn an
 
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
 - [Use local resources to serve children birth through age 3 to stabilize community providers as 4-year-olds move into TK](serve-birth-through-3-to-stabilize-providers.md)
+- [Federal policy should expand access to high-quality, integrated early care and education with quality assurance and adequate ECE educator compensation](federal-expand-high-quality-integrated-ece.md)
+- [Federal strategy for coherent ECE governance through a coordinating body, unified family referral services, and integrated data systems](federal-strategy-ece-governance-coordination-data.md)
+- [Federal strategy to raise ECE quality by setting higher CCDBG standards, minimum quality requirements for federally supported preschool, and funding coaching](federal-strategy-ece-quality-standards-coaching.md)
+- [Federal strategy to develop and support a well-qualified ECE workforce through compensation, career-ladder scholarships, preparation programs, and coaching](federal-strategy-ece-workforce-compensation-preparation.md)
+- [Six state policy steps to support early educator preparation, paired with adequate compensation and retention policies](state-policy-steps-ece-workforce-preparation.md)
 
 ## Examples
 -

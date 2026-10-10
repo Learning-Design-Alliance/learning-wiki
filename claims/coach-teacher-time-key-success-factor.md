@@ -48,3 +48,4 @@ Qualitative finding from the authors' three-year coaching research: teacher-coac
 - [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](teacher-feedback-coaching-associated-charter-success.md) — related
 - [Coaches carry heavy workloads, often holding other roles and supporting large caseloads of teachers](coach-workload-multiple-roles-large-caseloads.md) — related
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — a narrower finding that bears on this claim
+- [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — related

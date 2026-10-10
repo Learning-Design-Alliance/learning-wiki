@@ -50,3 +50,4 @@ The study design randomly selected 1,723 lottery winners offered admission to th
 - [Admission to a charter middle school does not affect college enrollment, per a lottery-based study of 31 charter middle schools](charter-middle-admission-no-effect-college-enrollment.md) — related
 - [Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence](kipp-middle-plus-high-large-enrollment-persistence-impacts.md) — related
 - [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related
+- [Harlem Children's Zone lottery winners scored significantly higher in math and reading and showed long-term benefits](hcz-lottery-higher-math-reading-long-term-benefits.md) — a narrower finding that bears on this claim

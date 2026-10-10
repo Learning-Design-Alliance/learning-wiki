@@ -66,3 +66,5 @@ School-level change analyses reported in the findings section: increases in util
 - [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](restorative-practices-improve-safety-climate-achievement.md) — a broader claim this one bears on
 - [Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting](positive-relationships-protect-against-violence.md) — related
 - [Access to restorative practices is inequitable: schools with more Black and economically disadvantaged students show lower restorative practice utilization](inequitable-access-restorative-practices.md) — related
+- [Oakland 11th graders reported improved school connectedness and safety after discipline reform](oakland-school-connectedness-improved-after-reform.md) — related
+- [Substance abuse infractions declined by about 80% at both Roswell community schools during 2023–24](substance-abuse-infractions-dropped-80-percent-both-schools.md) — a narrower finding that bears on this claim

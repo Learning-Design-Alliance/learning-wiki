@@ -67,3 +67,4 @@ The authors' counter-argument (type e): given widespread implicit color-blind ra
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — related
 - [Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups](demographic-category-heterogeneity-harms-atypical-members.md) — related
 - [Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
+- [Hiring without multiple agreed-upon data points leads decision-makers to rely on gut decisions that can disadvantage teachers of color](gut-hiring-decisions-disadvantage-teachers-of-color.md) — related

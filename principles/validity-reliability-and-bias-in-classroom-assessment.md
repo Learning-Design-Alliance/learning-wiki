@@ -179,6 +179,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Authentic Assessment](../patterns/authentic-assessment.md) — a design that raises construct match for performance goals and depends on calibrated scoring to keep it consistent
 - [Use multiple raters for principal-assigned professional practice ratings to improve consistency](../strategies/multiple-raters-for-practice-ratings.md)
 - [Authentic intellectual work scoring rubrics with double-scoring design for inter-scorer reliability](../elements/aiw-scoring-rubrics-double-scoring-element.md)
+- [Use performance assessments in conjunction with selected-response items, counting enough toward final scores to matter](../strategies/performance-plus-selected-response-balance.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

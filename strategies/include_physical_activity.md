@@ -58,9 +58,11 @@ Single bouts of moderate physical activity acutely improve attention and executi
 5. Where possible, integrate movement with content — acting out processes, gesture-based recall — so the break also serves [Practice](../elements/practice.md) and encoding.
 
 ## Related Strategies
+
 - [Chunking](../principles/chunking.md) — activity breaks are most effective when instruction is already segmented into manageable chunks
 - [Brain Breaks](../strategies/brain-breaks.md) — a closely related family of short reset activities, of which physical activity is one type
 - [Active Recess](../strategies/active-recess.md) — structured recess as a scheduled complement to in-class breaks
+- [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — movement can be the vehicle for retrieval practice, not just a reset

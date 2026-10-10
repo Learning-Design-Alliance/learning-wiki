@@ -58,6 +58,7 @@ Promotion power is defined in the report as "a school’s effect on the long-ter
 
 - [Use statistical adjustment to separate school effects from family resources and prior learning when rating schools](../strategies/statistical-adjustment-separates-school-effects-from-background.md)
 - [Use promotion power measures as information for districts, schools, and parents about high school performance](../strategies/promotion-power-information-for-districts-parents.md)
+- [States should weigh the tradeoff between easily measured indicators (understandable, low data burden) and more complex measures (greater nuance), and explore innovative readiness measures tied to long-term outcomes](../strategies/balance-ease-and-nuance-postsecondary-indicators.md)
 
 ## Key Sources
 - Jonah Deutsch, Matthew Johnson, Brian Gill. (2020). The Promotion Power Impacts of Louisiana High Schools. Mathematica. https://www.mathematica.org/publications/the-promotion-power-impacts-of-louisiana-high-schools

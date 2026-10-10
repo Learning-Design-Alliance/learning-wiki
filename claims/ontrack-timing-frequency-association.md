@@ -45,3 +45,4 @@ Chi-square test of independence across 56 school-based sites comparing timing of
 ## Related Claims
 - [Rural schools were far more likely than nonrural schools to offer Project On-Track tutoring during school only](ontrack-rural-schools-during-school-tutoring.md) — related
 - [Timing of tutoring was significantly associated with tutor qualifications and with student grade level and baseline risk](ontrack-timing-associations-qualifications-grade-risk.md) — related
+- [Tennessee's education department notes tutoring during the school day is more effective than before- or after-school programming](tutoring-during-school-day-more-effective.md) — related

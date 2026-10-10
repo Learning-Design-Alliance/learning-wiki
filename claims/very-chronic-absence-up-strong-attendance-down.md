@@ -47,3 +47,4 @@ Descriptive breakdown of absence categories (Figure 2) for sixth and ninth grade
 - [Students with the same absence rates had higher GPAs (and in grades 7-8, higher test scores) in post-pandemic years than pre-pandemic years](higher-gpas-same-absence-post-pandemic.md) — related
 - [Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before](school-climate-associated-with-lower-absences-post-pandemic.md) — related
 - [Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often](strong-sel-value-added-schools-on-track-absenteeism.md) — related
+- [Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason](chronic-absence-hidden-by-average-daily-attendance.md) — related

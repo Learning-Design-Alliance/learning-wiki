@@ -46,3 +46,4 @@ Program-reported comparison of retention in partner LEAs as of 2023, contrasting
 - [Alder operates a continuous improvement cycle using multiple data sources documented in an Annual Data Cycle Calendar and public Annual Program Assessment Report](alder-annual-data-cycle-improvement.md) — related
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
 - [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — related
+- [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — a broader claim this one bears on

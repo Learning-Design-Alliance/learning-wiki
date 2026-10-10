@@ -46,3 +46,4 @@ Trend analysis of NCES Schools and Staffing Survey data shows attrition rose fro
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
 - [After accounting for teacher and school characteristics, each $1,000 increase in cost-of-living-adjusted salary is associated with about a 0.34 percentage-point decrease in turnover probability](salary-associated-with-lower-turnover.md) — related
 - [Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992](us-teacher-turnover-15-percent-2021-22.md) — related
+- [Michigan's inflation-adjusted teacher salaries fell more than 20% between 1999 and 2019, the second largest decline in the country](michigan-teacher-salary-decline.md) — related

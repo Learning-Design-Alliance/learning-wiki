@@ -47,3 +47,4 @@ Logistic regression on individual teacher records from the California preparatio
 - [Principals' access to professional development is significantly associated with teacher retention and student achievement, with gains greatest for historically underserved students](principal-pd-associated-retention-achievement.md) — related
 - [Principals' professional development access is positively but not significantly related to teacher retention](principal-pd-teacher-retention-null.md) — related
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
+- [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related

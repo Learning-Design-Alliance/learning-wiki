@@ -53,3 +53,4 @@ The study examined pre-K benefits through the end of kindergarten for children f
 - [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — possibly the same claim (merge candidate)
 - [Pre-kindergarten attendance yields small positive impacts on social-emotional development, executive functioning, and emotion recognition](prek-small-positive-social-emotional-executive-emotion.md) — related
+- [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](nc-prek-gains-dual-language-learners.md) — related

@@ -57,9 +57,11 @@ Movement breaks leverage the link between acute physical activity and subsequent
 5. For content goals, substitute a movement variant such as [Act It Out](../elements/act-it-out.md) so the break doubles as rehearsal.
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — the playground-scale version; complements in-class breaks in a whole-school activity plan
 - [Check-Ins](../elements/check-in.md) — the settling routine that converts a break back into instructional readiness
 - [Act It Out](../elements/act-it-out.md) — content-integrated movement that merges the break with rehearsal
+- [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 
 ## Examples
 - **GoNoodle** (https://www.gonoodle.com) — short guided movement and mindfulness videos widely used for K–5 classroom breaks.

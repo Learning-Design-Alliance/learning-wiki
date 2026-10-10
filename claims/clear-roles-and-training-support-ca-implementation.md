@@ -51,3 +51,4 @@ Cross-case qualitative finding (RQ1-3) from documents, interviews, and walkthrou
 - [Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement](ri-charter-dashboards-reduced-surprise-stress.md) — related
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — reports the opposite
+- [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related

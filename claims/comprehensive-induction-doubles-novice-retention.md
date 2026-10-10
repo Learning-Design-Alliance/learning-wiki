@@ -49,3 +49,4 @@ The report's induction section reviews research on induction program components 
 - [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](mentoring-halves-new-teacher-attrition.md) — related
 - [Strong mentoring is linked to novice elementary teachers being 25 percentage points more likely to plan to remain in the same school, with a similar but non-significant pattern for high school teachers](strong-mentoring-25-point-retention-plan-elementary.md) — related
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
+- [High-quality induction and mentoring programs are reported to reduce new-teacher attrition, and early-career teachers without coaching are reported twice as likely to leave](mentoring-coaching-reduce-teacher-attrition.md) — related

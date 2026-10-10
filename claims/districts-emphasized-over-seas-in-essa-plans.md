@@ -50,3 +50,4 @@ Analysis of the 23 state ESSA plans found school improvement and turnaround "typ
 - [SEAs take on multiple, malleable roles in their work with LEAs, shifting based on identified needs, capacity, and context.](seas-take-multiple-malleable-roles.md) — related
 - [SEAs differentiate support to districts based on the number of CSI/TSI-identified schools, district capacity, and district willingness to engage.](seas-differentiate-support-by-district-characteristics.md) — related
 - [The NCLB era's focus on targets and sanctions without educator capacity-building or component alignment was a key barrier to implementing new standards](nclb-targets-sanctions-without-capacity-barrier.md) — related
+- [SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools](sea-shift-compliance-to-support-capacity-building.md) — related

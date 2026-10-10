@@ -49,3 +49,4 @@ The report's federal funding section states that when IDEA was enacted in 1975 C
 - [Per-student special education costs fall with enrollment up to an ideal size, then rise as diseconomies of scale set in](special-education-economies-of-scale-ideal-enrollment.md) — related
 - [From 2012 to 2017, average inflation-adjusted per-pupil revenue and expenditure were greater in rural Utah districts than in non-rural districts](utah-rural-higher-per-pupil-revenue-expenditure.md) — related
 - [States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives](funding-sources-statewide-leadership-initiatives.md) — related
+- [Michigan's partial reimbursement system shifts special education costs onto districts, which divert more than $500 per pupil of general education funds on average](michigan-special-education-partial-reimbursement-diversion.md) — related

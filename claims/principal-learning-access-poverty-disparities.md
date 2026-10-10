@@ -48,3 +48,5 @@ National and California principal survey analyses found principals in low-povert
 - [Field-based internships and on-the-job coaching by expert principals are reported as principals' most valuable but least experienced learning opportunity](principal-internships-expert-coaching-value.md) — related
 - [District support for principals’ continuous improvement varies by school poverty and racial composition](district-support-varies-school-characteristics.md) — related
 - [State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less](state-policy-shapes-principal-learning-access.md) — related
+- [School leaders in higher-wealth schools are more likely to attend high-quality principal preparation programs, creating inequitable access](prep-quality-varies-by-school-wealth.md) — possibly the same claim (merge candidate)
+- [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related

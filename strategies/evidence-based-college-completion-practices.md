@@ -41,6 +41,7 @@ The report's Implications section lists evidence-based approaches colleges are a
 - [Co-designed recommendations for education/training providers: partnerships, wrap-around supports, and equitable recruitment](provider-codesigned-tech-pathway-supports.md)
 - [Wraparound student supports: navigator, financial supports, and job placement assistance](ibest-navigator-and-support-services-strategy.md)
 - [Combine full-time occupational enrollment with intrusive advising, financial support, and basic skills instruction](project-quest-support-components-strategy.md)
+- [Conduct a data-intensive Pathways Analysis during the planning year to locate loss and momentum points](pathways-analysis-planning-year-strategy.md)
 
 ## Examples
 -

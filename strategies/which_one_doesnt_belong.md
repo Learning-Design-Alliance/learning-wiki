@@ -62,6 +62,7 @@ Comparison is one of the most robust mechanisms for early concept learning: cont
 - [Quick Images](../strategies/quick-images.md) — flashed dot arrangements that build subitizing, a prerequisite skill for this activity
 - [Sort and Classify](../strategies/sort-and-classify.md) — the broader classification skill this activity applies to quantity
 - [Teach estimation of coin values and quantities using a 'more than'/'less than' framework rather than counting and rounding](more-than-less-than-estimation-framework.md)
+- [Use low-stakes, multiple-entry warm-ups like \"Which One Doesn't Belong?\" to reduce fear of wrong answers](which-one-doesnt-belong-low-stakes-warmup.md)
 
 ## Examples
 - **[Which One Doesn't Belong? (wodb.ca)](http://wodb.ca)** — Christopher Danielson's public collection of sets across numbers, shapes, graphs, and other categories, designed so every item can be justified as the odd one out.

@@ -69,3 +69,4 @@ The report's review of research on spillover effects, reporting that one study f
 - [District policies discouraging suspensions show mixed effects: shortened suspensions were associated with improved attendance but worse school climate](discipline-policy-changes-mixed-effects.md) — related
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
 - [Suspension is associated with lower test scores in the suspended years, with more suspended days related to larger decreases](suspension-lower-test-scores-days-related.md) — related
+- [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related

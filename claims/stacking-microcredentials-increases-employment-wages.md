@@ -42,3 +42,4 @@ Second-hand finding: the landscape report attributes this stacking result to Mey
 
 ## Related Claims
 - [In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice](tcsg-manufacturing-microcredentials-led-to-hiring.md) — related
+- [YMHC members completed more than 130 certifications by March 2025, and 46% found certifications instrumental in securing employment](ymhc-certifications-employment-outcomes.md) — related

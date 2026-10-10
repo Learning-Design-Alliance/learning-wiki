@@ -37,7 +37,8 @@ The report distills implementation implications for districts adopting community
 - whole child outcomes including attendance, achievement, school climate, and family engagement
 
 ## Related Strategies
-- 
+
+- [Cultivate a supportive peer community among coordinators and connect them to county and state professional development to sustain the role](coordinator-peer-community-and-external-pd-access.md)
 
 ## Examples
 -

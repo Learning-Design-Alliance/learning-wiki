@@ -45,3 +45,5 @@ Qualitative analysis of state-level administration, based on document review and
 ## Related Claims
 - [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](california-ece-fragmented-data-systems.md) — a narrower finding that bears on this claim
 - [County-administered QRIS in California is voluntary, uneven, and destabilized by time-limited categorical funding](california-qris-voluntary-unstable-funding.md) — a narrower finding that bears on this claim
+- [A landscape review found fragmentation in California's teacher workforce infrastructure, with no agency holding singular responsibility for workforce planning](ca-workforce-planning-fragmentation.md) — a narrower finding that bears on this claim
+- [Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages](fragmented-ca-educator-data-limits-bla-workforce-assessment.md) — related

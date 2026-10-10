@@ -52,3 +52,4 @@ Semi-structured interviews with 22 students and 8 instructors, analyzed via open
 - [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](financial-constraints-shape-first-generation-career-decisions.md) — related
 - [Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them](students-report-prerequisites-block-course-access.md) — related
 - [Teachers reported pacing demands, student struggles with rigor, and technology impediments as factors hindering ERWC implementation](erwc-implementation-hindering-factors-qualitative.md) — related
+- [Students struggle to manage math assignments alongside busy schedules, and faculty need efficient grading, due-date, and extension tools](task-time-management-gateway-math.md) — related

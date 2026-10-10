@@ -49,3 +49,4 @@ Matched comparison analysis comparing NSI schools with similar schools in other 
 - [The study also examines persistence in college over the first two postsecondary years](kipp-study-examines-college-persistence-two-years.md) — related
 - [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](postsecondary-enrollment-nsi-fafsa-gains-no-enrollment-change.md) — possibly the same claim (merge candidate)
 - [Find the Fit did not affect the share of students completing the FAFSA early](find-the-fit-no-effect-early-fafsa-completion.md) — related
+- [The delayed, error-filled 2024-25 FAFSA rollout cut national completion rates nearly 40% below the prior cycle by late March 2024, with larger declines at high schools with more students of color and low-income students](fafsa-2024-25-rollout-completion-declines-disparities.md) — related

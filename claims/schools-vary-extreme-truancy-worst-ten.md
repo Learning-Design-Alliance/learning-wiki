@@ -49,3 +49,5 @@ School-level comparison of second-semester ninth grade attendance across CPS hig
 - [CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting](two-truancy-problems-full-day-and-class-cutting.md) — related
 - [Students with weak eighth grade basic skills have the poorest attendance, but cutting is widespread even among top achievers (42 percent on or above grade level were moderate to extreme truants)](weak-skills-predict-truancy-but-cutting-widespread.md) — related
 - [Unexcused absences quadruple from eighth to ninth grade, explaining most of the drop in grades and pass rates across all student groups](absences-quadruple-transition-explain-grade-drop.md) — related
+- [Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason](chronic-absence-hidden-by-average-daily-attendance.md) — related
+- [Punitive responses to absence do not improve attendance and can worsen it](punitive-responses-ineffective-attendance.md) — related

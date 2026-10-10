@@ -44,3 +44,4 @@ Historical background stated in the introduction, attributed to Hu-DeHart (1993)
 
 ## Related Claims
 - [Postmodern texts advance five characteristic theses against Enlightenment certainties](five-postmodern-theses-anti-enlightenment.md) — related
+- [A pilot ethnic studies program in San Francisco high schools led to gains in attendance, grades, and credit accumulation](ethnic-studies-pilot-gains-attendance-grades.md) — related

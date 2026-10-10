@@ -12,7 +12,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (60 for, 17 mixed, 24 against) · 82 studies (26 causal, 17 quant-synthesis, 16 review, 12 associational, 7 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 23 of 82 report an effect size · 94 claims rest on one study
+> **Evidence** · 102 claims (61 for, 17 mixed, 24 against) · 83 studies (26 causal, 17 quant-synthesis, 16 review, 12 associational, 7 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 23 of 83 report an effect size · 95 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -134,6 +134,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](../claims/aptt-spring-multilingual-parents-felt-more-connected.md) [+M] — learners who differ on it differ in outcomes
 - [English Learners' initial ELP level influences the expected time frame for attaining the English-proficient criterion, supporting refined time-to-proficiency criteria](../claims/initial-elp-level-influences-time-to-proficiency.md) [+M] — learners who differ on it differ in outcomes
 - [Multilingual learners gained more in higher-tier programs than non-multilingual learners, with Tier 5 gains of 2.6–2.8 additional months](../claims/multilingual-learners-larger-gains-higher-tiers.md) [+M] — an instructional effect differs with it
+- [Dual language learners especially benefit from high-quality early care and dual language immersion programs, and multilingualism is associated with cognitive, linguistic, social, and cultural strengths](../claims/dual-language-learners-benefit-from-immersion-programs.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Working memory — effortful decoding consumes it before comprehension begins.

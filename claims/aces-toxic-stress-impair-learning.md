@@ -71,3 +71,4 @@ The report presents the Center on the Developing Child at Harvard University's i
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — related
 - [The report claims six core SoLD findings should reshape teacher preparation, including that the brain is malleable, variability is the norm, and relationships catalyze learning](sold-core-findings-reshape-teacher-preparation.md) — related
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — related
+- [Teachers report that disruptive behaviors of students in foster care are easily misinterpreted and that purely disciplinary responses can make things worse](misread-behaviors-discipline-backfire-foster-care.md) — related

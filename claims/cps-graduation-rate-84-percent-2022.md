@@ -48,3 +48,5 @@ Cohort analysis of all CPS high school students, including charter and Options s
 - [CPS's four-year high school graduation rate reached a record 85.0% in 2023, up about one percentage point from 84.1% in 2022](cps-2023-graduation-rate-record-85.md) — related
 - [Graduation rates declined by about four percentage points in the first policy year and one more the next, then recovered to nearly pre-policy levels within five years](cps-graduation-rates-declined-then-recovered.md) — related
 - [At UCLA Community School, the share of graduates meeting UC/CSU A-G course requirements rose to 81% in 2021 and the 4-year graduation rate grew from 69% in 2012 to 90% in 2022](ucla-cs-rising-a-g-and-graduation-outcomes.md) — related
+- [Illinois's universal FAFSA policy produced a mixed first-year result: submissions rose 0.8% while completions fell 0.2%](illinois-fafsa-policy-mixed-first-year-result.md) — related
+- [University High's 4-year graduation rate rose from 36% in 2022 to 55% in 2023 and was maintained in 2024](university-high-graduation-rate-rose-36-to-55.md) — a narrower finding that bears on this claim

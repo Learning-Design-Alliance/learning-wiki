@@ -50,3 +50,4 @@ Annual administration of the California Healthy Kids Survey to secondary student
 - [Secondary students in PUSD increasingly reported open mental health conversations at school and knowing where to go for help from 2020/21 to 2022/23](pusd-chks-open-talk-help-seeking-increase.md) — related
 - [School staff reports of mental health communication, emphasis, and referrals increased in DNUSD between 2021/22 and 2022/23](cal-well-dnusd-staff-mental-health-perceptions-increase.md) — related
 - [Secondary students' reported barriers to talking to a counselor or therapist declined in NHUHSD's California Healthy Kids Survey data](nhuhsd-chks-counselor-barriers-declined.md) — related
+- [Oakland 11th graders reported improved school connectedness and safety after discipline reform](oakland-school-connectedness-improved-after-reform.md) — related

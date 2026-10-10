@@ -48,3 +48,5 @@ Transcript-based analysis of second-semester ninth grade attendance distinguishi
 - [Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy](truancy-throughout-day-not-subject-specific.md) — related
 - [Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester](schools-vary-extreme-truancy-worst-ten.md) — related
 - [Students with weak eighth grade basic skills have the poorest attendance, but cutting is widespread even among top achievers (42 percent on or above grade level were moderate to extreme truants)](weak-skills-predict-truancy-but-cutting-widespread.md) — related
+- [Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason](chronic-absence-hidden-by-average-daily-attendance.md) — related
+- [Punitive responses to absence do not improve attendance and can worsen it](punitive-responses-ineffective-attendance.md) — related

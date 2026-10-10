@@ -63,3 +63,4 @@ The same section reports instability in school classification under the law: "Fo
 
 ## Related Claims
 - [School closings, new school openings, CHA demolitions, and NCLB transfers each affected fewer than 1 percent of CPS students per year, though receiving schools saw summer in-mobility rise by almost 13 percentage points](policy-initiatives-small-system-level-effect.md) — related
+- [Only a handful of waiver states preserved public school choice for students in Priority schools after the waiver guidelines dropped the NCLB choice requirement](priority-school-choice-preserved-by-few-states.md) — related

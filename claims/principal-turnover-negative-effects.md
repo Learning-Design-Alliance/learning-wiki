@@ -44,3 +44,4 @@ The playbook's research summary on turnover states that "Principal turnover ofte
 
 ## Related Claims
 - [Principal turnover is high in CPS, with nearly half of principals in their first four-year contract at any given time](cps-principals-half-in-first-four-year-contract.md) — related
+- [Principal turnover is common: 18% of principals leave schools each year and half of new principals leave within three years, with cascading consequences](principal-turnover-18-percent-annually.md) — related

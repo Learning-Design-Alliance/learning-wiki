@@ -41,6 +41,7 @@ The report recommends that states and districts provide expanded learning time t
 - [High-quality math instruction: conceptual emphasis, productive struggle, collaboration, multiple solution paths, culturally relevant tasks, and timely intervention](high-quality-math-instruction-practices.md)
 - [Policy considerations for states supporting summer learning](state-summer-learning-policy-considerations.md)
 - [Multi-pronged policy strategy for COVID-19 learning recovery for BIPOC students](covid-recovery-policy-strategy-bipoc-students.md)
+- [Provide English learner-specific summer learning and staff accelerated learning programs with EL specialists](el-specific-summer-learning-and-el-specialist-staffing.md)
 
 ## Examples
 -

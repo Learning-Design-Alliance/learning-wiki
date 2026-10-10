@@ -63,6 +63,7 @@ Open classroom climate is one of the most consistently documented school-level p
 - [Active Listening](../strategies/active-listening.md) — the facilitation skill that makes students feel heard rather than judged
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — preparation ensures discussion builds on content, not just opinion
 - [Protect teachers from social and political backlash by communicating CRSE's value and providing norms and probing questions for sociopolitical discussions](protect-teachers-sociopolitical-backlash-crse.md)
+- [Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans](promising-practices-engaging-student-voice.md)
 
 ## Examples
 - **The Political Classroom (Hess & McAvoy, 2015)** — a multi-year study of social studies teachers who used "best practice" discussion of contested issues; classrooms where teachers maintained impartiality sustained the highest-quality deliberation.

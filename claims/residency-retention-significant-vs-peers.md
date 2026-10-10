@@ -49,3 +49,4 @@ The Teacher Preparation Quality Grants study used a regression comparing retenti
 - [The 2010-2015 study examined characteristics of 30 TRPs, including required coursework, teacher backgrounds and experiences, and teacher retention](trp-multisite-study-30-programs.md) — related
 - [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](trp-teachers-more-likely-remain-same-district.md) — related
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
+- [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — possibly the same claim (merge candidate)

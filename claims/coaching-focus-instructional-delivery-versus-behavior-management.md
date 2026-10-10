@@ -47,3 +47,4 @@ The paper reports Blazar and Kraft's (2015) study showing "a combination of focu
 - [Time spent between teachers and coaches is one of the most important factors in a successful coaching program](coach-teacher-time-key-success-factor.md) — a broader claim this one bears on
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related
 - [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — related
+- [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — a broader claim this one bears on

@@ -42,6 +42,7 @@ The brief recommends directing federal recovery and special education funding to
 - [Multi-pronged policy strategy for COVID-19 learning recovery for BIPOC students](covid-recovery-policy-strategy-bipoc-students.md)
 - [Use summer learning loss research to help educators, policy makers, and families plan for and address impacts of extended school closures](summer-loss-research-to-plan-closure-recovery.md)
 - [Deploy federal recovery funding to support recovery, accelerate learning, and transform schools](deploy-federal-aid-recovery-acceleration.md)
+- [Direct Special Education Learning Recovery Support funds to equitable supports for students with disabilities, with bias training and diverse curriculum review](special-education-recovery-funds-equity-strategies.md)
 
 ## Examples
 -

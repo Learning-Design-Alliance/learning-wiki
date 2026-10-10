@@ -41,6 +41,7 @@ The guide's fourth recommendation addresses a practical barrier: many districts 
 - [Disaggregate attainment data by student subgroup to locate barriers and target supports](disaggregate-attainment-data-by-subgroup.md)
 - [Examine data across subgroups and account for diversity within subgroup categories before interpreting score differences](examine-data-across-subgroups-and-within-category-diversity.md)
 - [Multi-stakeholder analytics partnership using improvement science with strict data governance](improvement-science-analytics-partnership-strategy.md)
+- [Disaggregate engagement and performance data by subgroup and regularly evaluate and adjust support plans](disaggregated-data-monitoring-el-supports.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ The piecewise multilevel growth model of district administrative data found that
 - [In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss](el-reading-graded-growth-pattern-summer-loss.md) — related
 - [Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support](bilingual-vocabulary-syntax-slower-with-cognitive-advantages.md) — related
 - [English learners can learn to read in English at the same rate as their monolingual peers in the primary grades](english-learners-read-same-rate-primary-grades.md) — related
+- [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](nc-prek-gains-dual-language-learners.md) — related

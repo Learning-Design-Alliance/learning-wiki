@@ -49,3 +49,4 @@ Descriptive comparison of passing rates by credential field across the 263-progr
 - [Preservice candidates pass teaching performance assessments at higher rates than intern candidates](preservice-candidates-outpass-interns-on-tpas.md) — related
 - [Racial disparities in TPA pass rates appear in low-performing programs but not in programs with passing rates above 90%](racial-disparities-vary-with-program-performance.md) — related
 - [Residents pass TPAs on their first attempt at higher rates than student teachers or interns in the linked subsample](residents-higher-initial-tpa-passing.md) — related
+- [Most multiple subject and education specialist completers reported substantial opportunity to learn reading, writing, and math teaching, and extensive opportunity was strongly linked to higher program ratings](opportunity-to-learn-reading-writing-math.md) — related

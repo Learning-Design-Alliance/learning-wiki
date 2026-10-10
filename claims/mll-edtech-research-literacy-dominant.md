@@ -46,3 +46,4 @@ Quantitative coding of content focus across the 33 deep dive review articles, re
 - [Only a minority of studies systematically evaluated features designed for multilingual learners](mll-edtech-features-rarely-systematically-evaluated.md) — related
 - [Most research articles on technology for young multilingual learners did not evaluate impacts on learning outcomes](mll-edtech-studies-rarely-evaluate-learning-outcomes.md) — related
 - [Edtech designers rarely make explicit design for multilingual learners central, favoring general universal design](mll-explicit-design-less-prominent-than-universal-design.md) — related
+- [A policy scan found two-thirds of U.S. climate change education content sits in science and environmental subjects, with rare mentions elsewhere and none in math](climate-content-concentrated-in-science-subjects.md) — related

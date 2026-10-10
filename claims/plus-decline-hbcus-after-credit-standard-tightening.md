@@ -53,3 +53,4 @@ Descriptive summary of the brief's analysis of federal financial aid data follow
 - [HBCUs experienced larger enrollment declines than other institutions after the PLUS tightening, particularly for first-year students](hbcu-enrollment-declines-larger-than-other-institutions.md) — related
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](plus-tightening-changed-hbcu-aid-and-enrollment.md) — a broader claim this one bears on
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
+- [Credit disparities make private loans harder to access for Black, Native American, and Latino communities](credit-score-disparities-block-private-loan-access.md) — related

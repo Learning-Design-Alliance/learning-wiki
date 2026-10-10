@@ -74,3 +74,4 @@ Rowe's review distinguishes wait time 1 (the pause after asking a question) and 
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — quality responses during questioning are formative-assessment data; wait time improves that data.
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — pauses give learners time to work through the uncertainty that disequilibrium creates.
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — the broader claim; it cites the same Tobin (1987) review for wait time
+- [Teachers give disinvited students less wait time than invited students when they cannot answer questions](wait-time-invited-disinvited-students.md) — related

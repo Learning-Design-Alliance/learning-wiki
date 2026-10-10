@@ -45,3 +45,4 @@ The brief attributes the discipline finding to two studies and college-completio
 ## Related Claims
 - [Charter school research has historically focused on test scores, with longer-term outcomes only recently examined](charter-research-shift-from-test-scores-to-long-term-outcomes.md) — related
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related
+- [As teachers gain experience, their students are more likely to do better on measures beyond test scores, such as school attendance](experience-benefits-beyond-test-scores-attendance.md) — possibly the same claim (merge candidate)
