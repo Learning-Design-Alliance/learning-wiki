@@ -49,3 +49,4 @@ Decomposition analysis (intraclass correlation of novice-teacher percentages wit
 - [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](state-variation-teacher-access-inequity.md) — related
 - [Latino students' access to novice and uncertified teachers in Louisiana is mixed relative to non-Latino peers](latino-students-novice-uncertified-teacher-disparities-louisiana.md) — related
 - [Black students in Louisiana are disproportionately in schools with high percentages of novice and uncertified teachers](black-students-novice-uncertified-teacher-disparities-louisiana.md) — related
+- [Student access to same-race teachers in Tennessee varies widely by race and across districts, with statewide averages masking those differences](same-race-teacher-access-varies-by-race-and-district.md) — related

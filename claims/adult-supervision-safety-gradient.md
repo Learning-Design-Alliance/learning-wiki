@@ -50,3 +50,4 @@ Survey of CPS students in grades 6-12 (spring 2009) across 310 elementary and 62
 - [Student-reported safety and classroom behavior are more positive in top-quartile schools, and students feel less safe outside school than inside](student-safety-behavior-quartile-differences.md) — related
 - [Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe](neighborhood-crime-differs-safest-least-safe-schools.md) — related
 - [Chicago students feel safest in classrooms and least safe outside around school, where about two-thirds feel uneasy](student-safety-varies-by-school-location.md) — possibly the same claim (merge candidate)
+- [Only about half of students in the two studied districts reported feeling safer in school when police are present, and many preferred confiding in a non-security adult](only-half-students-feel-safer-with-police-present.md) — related

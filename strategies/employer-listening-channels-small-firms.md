@@ -39,6 +39,7 @@ For districts and program administrators, the brief recommends building direct e
 
 - [Commission Heartland-specific AI adoption data collection covering agriculture and the smallest firms](commission-heartland-specific-ai-adoption-survey.md)
 - [Engage industry partners to inform curriculum development, including the competencies needed, and develop new programs in response to employer input](industry-partners-inform-cbe-competencies.md)
+- [Build cultural competence and humility: engage and listen to communities before acting, using funded advisory boards and listening sessions](cultural-competence-humility-listen-first.md)
 
 ## Examples
 -

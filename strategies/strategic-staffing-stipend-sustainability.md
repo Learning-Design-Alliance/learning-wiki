@@ -41,6 +41,7 @@ The report describes strategic staffing as reconfiguring educator positions so t
 
 - [Reallocate existing district roles and budget lines—substitute teaching, paraeducator positions, and extended-day staffing—to fund and pay residents](reallocate-roles-and-budget-lines-for-residents.md)
 - [Strategic staffing models that redirect district instructional-support funds to subsidize paid residency stipends](strategic-staffing-residency-stipend-strategy.md)
+- [Employ residency residents as the second adult in TK classrooms using assistant teacher or paraprofessional budget lines](resident-as-second-adult-in-tk-classroom-strategy.md)
 
 ## Examples
 -

@@ -66,3 +66,5 @@ Self-reported 2025 CSAC survey data (Figure 7) show "over 7 in 10 (71%) identifi
 - [The GSTG supported over 28,600 aspiring educators in its first 5 years, reaching 45% of California's new teacher candidates in 2023–24](gstg-supported-28600-aspiring-educators.md) — related
 - [The GSTG likely contributed to a 23% increase in California-prepared preliminary teaching credentials between 2022–23 and 2023–24](gstg-associated-credential-increase.md) — related
 - [The 2024 reduction of the maximum GSTG award from $20,000 to $10,000 left recipients with more unmet need, greater loan reliance, and more work during preparation](gstg-reduced-award-lessens-impact.md) — related
+- [Teacher shortages disproportionately impact students in priority and highest-need California schools, which have fewer fully credentialed and more inexperienced teachers](california-shortages-disproportionately-impact-priority-schools.md) — related
+- [Golden State Teacher Grant recipients reported the scholarship made teaching financially feasible and led them to plan longer stays in high-need schools](gstg-made-teaching-financially-feasible.md) — related

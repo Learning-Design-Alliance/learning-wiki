@@ -49,3 +49,5 @@ In the authors' recent Chicago study, FAFSA completion predicted enrollment amon
 - [Find the Fit did not affect the share of students completing the FAFSA early](find-the-fit-no-effect-early-fafsa-completion.md) — related
 - [One-on-one adult support at school, such as a coach or counselor, helped students prioritize and complete college applications](one-on-one-adult-support-college-applications.md) — related
 - [Teacher assessment of college-going climate is positively associated with students taking each step toward four-year college enrollment](teacher-college-climate-associated-with-enrollment-steps.md) — related
+- [FAFSA completion is associated with higher college enrollment, with the strongest association for students in the lowest socioeconomic quintile](fafsa-completion-associated-higher-college-enrollment.md) — related
+- [Michigan's average student-to-counselor ratio was 565:1 in 2024-25, far above the recommended 250:1, and FAFSA completion is linked to higher immediate college enrollment](michigan-counselor-ratio-and-fafsa-completion-benefits.md) — related

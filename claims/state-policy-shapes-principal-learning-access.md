@@ -54,3 +54,4 @@ Cross-state survey comparison found California principals reported greater acces
 - [Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities](principal-learning-access-poverty-disparities.md) — related
 - [North Carolina's educator-diversity policy record is mixed, with strongest performance on data, GYO programs, and induction and weakest on financial and leadership supports](nc-mixed-educator-diversity-policies.md) — related
 - [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related
+- [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](california-principal-preparation-pd-outcomes.md) — related

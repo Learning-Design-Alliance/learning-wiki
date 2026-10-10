@@ -67,3 +67,4 @@ The research review reports that recent research finds "longer and more sustaine
 - [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](community-schools-positive-outcomes.md) — a narrower finding that bears on this claim
 - [Students reported improved school-work priorities, peer academic behavior, teacher connection and support, and school connectedness after two years](success-project-survey-climate-improvements.md) — related
 - [Implementation level was not significantly associated with most student and staff climate outcomes or any administrative outcomes](implementation-not-associated-most-outcomes.md) — reports the opposite
+- [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](positive-school-climate-improves-attendance-achievement.md) — related

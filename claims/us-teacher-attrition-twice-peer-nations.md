@@ -46,3 +46,5 @@ Descriptive international comparison in the 'Condition of Teaching' section, dra
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — possibly the same claim (merge candidate)
 - [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — related
 - [Sierra Middle School staff attrition was cut nearly in half after the 2023–24 school year](sierra-staff-attrition-cut-nearly-in-half.md) — related
+- [In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand](texas-attrition-drives-99-7-percent-of-hires.md) — a narrower finding that bears on this claim
+- [A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8](texas-early-career-attrition-cohort-analysis.md) — related

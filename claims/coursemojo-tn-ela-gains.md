@@ -66,3 +66,4 @@ Same Tennessee quasi-experiment of 2,045 sixth graders: Coursemojo students were
 - [Coursemojo use narrowed achievement gaps for students with disabilities and economically disadvantaged students in Tennessee](coursemojo-gap-narrowing-tn.md) — related
 - [Coursemojo qualifies for a Moderate evidence rating based on positive ELA impacts across two studies](coursemojo-moderate-evidence-rating.md) — a broader claim this one bears on
 - [Coursemojo use was associated with higher STAAR reading and NWEA MAP scores in a Texas quasi-experiment](coursemojo-tx-reading-gains.md) — related
+- [Pairing an AI literacy platform with an engagement-focused human tutor does not improve elementary reading achievement](human-tutor-ai-platform-no-achievement-gains.md) — related

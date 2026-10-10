@@ -94,3 +94,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Students in MATHia find it hard to adapt their strategy choices to suit the problem, based on log data from over 600 schools](mathia-students-hard-to-adapt-strategies.md) — related
 - [Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts](clickstream-enables-two-types-theory-testing.md) — related
+- [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — a narrower finding that bears on this claim

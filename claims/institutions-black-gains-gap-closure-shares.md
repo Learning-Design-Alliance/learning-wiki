@@ -45,3 +45,6 @@ Education Trust analysis of IPEDS data (Figures 3a and 3b) classifying the 232 i
 ## Related Claims
 - [At exemplar institutions such as Ohio State, graduation rates for black students rose faster than for white students, narrowing gaps (black +31.1 vs white +20.5 points)](exemplar-institutions-black-gains-outpace-white.md) — related
 - [At four-year public institutions that improved overall graduation rates, black students' rates rose 4.4 percentage points over a decade versus 5.6 points for white students, widening the gap](black-grad-gains-lag-white-gains-232-institutions.md) — related
+- [Black graduation rates rose at more than half of study institutions, but black students were concentrated in institutions where rates declined or stagnated](black-students-concentrated-in-declining-institutions.md) — related
+- [Hispanic graduation rates at study institutions rose 3.5 percentage points from 2004 to 2010, roughly matching overall improvement](hispanic-graduation-rates-rose-3-5-points-2004-2010.md) — related
+- [Top gap-closer institutions narrowed black-white graduation-rate gaps by nearly 7 percentage points on average](top-gap-closers-narrowed-gaps-seven-points.md) — related

@@ -215,3 +215,4 @@ Open questions that evidence entries should address include: which strategy fami
 - [All types of regulation can be explicitly taught and improved with time, effort, and effective feedback](regulation-skills-can-be-taught.md) — related
 - [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — related
 - [The review reports that connecting possible selves to concrete strategies is an essential precursor to positive behavior, beyond merely holding possible selves](possible-selves-require-concrete-strategies-for-behavior.md) — related
+- [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — a narrower finding that bears on this claim

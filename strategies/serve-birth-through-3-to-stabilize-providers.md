@@ -45,6 +45,7 @@ As universal transitional kindergarten expands, community-based providers lose 4
 - [Support coordinated enrollment across the mixed delivery system to ensure family choice and provider stability](coordinated-enrollment-mixed-delivery.md)
 - [Four-part state policy agenda: coherent administration, universal affordability, a well-qualified workforce, and quality improvement for all programs](california-ece-four-part-policy-agenda.md)
 - [Expand transitional kindergarten and preschool by braiding UPK funds with hiring, culturally responsive curriculum, and community college partnerships](upk-transitional-kindergarten-braided-implementation.md)
+- [Six state policy recommendations to stabilize, support, and expand the early childhood workforce and build diverse TK pathways](six-state-recommendations-tk-workforce.md)
 
 ## Examples
 -

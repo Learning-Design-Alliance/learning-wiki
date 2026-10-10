@@ -48,6 +48,8 @@ The report recommends service scholarships and loan forgiveness that "pay the co
 - [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
 - [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
 - [Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates](use-completer-surveys-accreditation-continuous-improvement.md)
+- [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
+- [Expand loan forgiveness, high-retention preparation pathways, and compensation supports to reduce teacher loan burdens and strengthen recruitment and retention](reduce-teacher-loan-burden-policy-strategies.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ Texas SB 2124 requires districts to automatically enroll sixth grade students wh
 - [State leaders should eliminate dual credit fees for all students and strengthen automatic enrollment policy implementation](eliminate-dc-fees-strengthen-acceleration-policies.md)
 - [State policy package to expand equitable access to advanced coursework: credit transparency, automatic enrollment with opt-out, fee removal, disaggregated data reporting, and belonging supports](ma-equitable-advanced-coursework-policy-package.md)
 - [Use multiple measures, not single test cut scores, to determine eligibility for dual credit courses](multiple-measures-dc-placement.md)
+- [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
 
 ## Examples
 -

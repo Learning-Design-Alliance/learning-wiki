@@ -63,3 +63,4 @@ An eight-year study of 850,000 New York City 4th- and 5th-grade students cited i
 
 ## Related Claims
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
+- [Texas teacher turnover cost estimates exceed $10,800 per teacher in rural districts, $13,200 in suburban districts, and $25,200 in urban districts](texas-turnover-replacement-costs-by-district-type.md) — related

@@ -48,3 +48,4 @@ The report's current-state section, citing Code.org et al. (2020), reports that 
 - [Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains](ap-cs-exam-participation-gaps-and-principles-gains.md) — related
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on
 - [Black and Latino students are about one-third of Massachusetts public high school students but only 18% of AP test takers](black-latino-underrepresented-ap-test-takers.md) — related
+- [Existing race and ethnicity data standards render some Indigenous students and diverse Asian American and Native Hawaiian/Pacific Islander students invisible, concealing disparities that disaggregated data would reveal](data-standards-render-marginalized-students-invisible.md) — related

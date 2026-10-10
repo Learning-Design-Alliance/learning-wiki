@@ -53,3 +53,4 @@ Matched comparison study of Saga's blended tutoring models in three U.S. school 
 - [Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation](districts-lack-blended-learning-evidence-and-implementation-guidance.md) — a broader claim this one bears on
 - [Research has not yet identified blended learning implementation strategies that increase the likelihood of positive effects on students](no-identified-blended-learning-implementation-strategies.md) — related
 - [The Saga blended technology-enhanced tutoring model significantly improves standardized math scores, math GPA, and reduces math course failures (+0.19)](saga-blended-model-rct3-outcomes.md) — related
+- [CTE course-taking generally has little or no effect on academic achievement, but math-enhanced CTE lessons significantly improved standardized math performance](math-enhanced-cte-lessons-math-gains.md) — related

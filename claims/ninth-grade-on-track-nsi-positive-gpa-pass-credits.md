@@ -56,3 +56,4 @@ Matched comparison analysis of administrative student data comparing NSI schools
 - [College-ready on-track NSI did not impact GPA, advanced course taking, math and ELA test scores, graduation, or college enrollment](college-ready-on-track-nsi-null-outcomes.md) — related
 - [Chicago's graduation-rate improvements have been credited to changed ninth-grade dropout-prevention practices triggered by on-track accountability and real-time data reports, and the review states accountability by itself was not sufficient](ontrack-accountability-realtime-data-graduation-gains.md) — related
 - [Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students](lied-magnet-stem-credit-impacts.md) — related
+- [Bronxdale students outperformed comparison-group, borough, and city high schools on graduation rates and on-track credit indicators in 2017–18](bronxdale-outperformed-comparisons-graduation-on-track.md) — related

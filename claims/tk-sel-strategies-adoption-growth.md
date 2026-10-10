@@ -45,3 +45,4 @@ Descriptive survey results on SEL strategies (Table 6, 2022–23 to 2024–25). 
 ## Related Claims
 - [TK classrooms used a wide range of curricula, with most LEAs using one to four approaches and nearly 1 in 5 still using kindergarten curriculum](tk-curricula-range-and-kindergarten-curriculum-concern.md) — related
 - [Most LEAs used multiple TK curricula and play-based, developmentally appropriate strategies, but 20% still used kindergarten curriculum in TK classrooms](tk-curriculum-and-sel-practices-2023-24.md) — related
+- [California LEAs most commonly supported social-emotional learning through play-based learning and supported students with disabilities through instructional adaptations and added staff](play-based-sel-and-disability-supports-in-tk.md) — related

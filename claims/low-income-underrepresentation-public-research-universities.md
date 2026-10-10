@@ -46,3 +46,4 @@ Descriptive analysis of national enrollment data reported in the report's trends
 - [Flagship minority access improved slightly from 2004 to 2007 while low-income (Pell) enrollment declined](flagship-access-trends-2004-2007.md) — related
 - [Public research-extensive universities spend hundreds of millions in institutional grant aid on high-income students, with nearly equal spending on the top two and bottom two income quintiles](institutional-aid-to-high-income-students.md) — related
 - [Low-income students at public research-extensive universities face unmet need equal to about 70 percent of family income, while top-quintile families have overmet need](unmet-need-seventy-percent-low-income-reus.md) — related
+- [All but five public flagships charge low-income students net prices above $4,600, and none of the five affordable flagships enrolls low-income students at or above the national average](flagships-unaffordable-or-inaccessible-to-low-income.md) — related

@@ -52,3 +52,4 @@ Findings table from the WWC review reporting the Scrivener et al. (2015) randomi
 - [Linked learning communities show no discernible effects on any of five outcome domains for community college students in developmental education](linked-learning-communities-no-discernible-effects-five-domains.md) — related
 - [Project QUEST may decrease postsecondary degree attainment (improvement index -3, two studies, 1,301 students)](project-quest-potentially-negative-degree-attainment.md) — related
 - [Remediation requirements are not a primary driver of low college degree completion rates](remediation-not-primary-driver-low-completion.md) — related
+- [OneGoal students are 40% more likely to earn postsecondary degrees than students from similar backgrounds, per a University of Chicago study](onegoal-40-percent-more-likely-degrees.md) — related

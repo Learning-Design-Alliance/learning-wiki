@@ -45,3 +45,4 @@ WestEd comparison of CTC 2020-23 educator supply report substandard credentials 
 ## Related Claims
 - [TRGP residents were prepared in 31 of 1,019 districts across 21 of 58 counties, concentrated in central and southern California while many rural high-need counties did not participate](trgp-geographic-concentration-rural-gaps.md) — related
 - [TRGP-funded residents represent a small fraction of California's teacher supply: 428 residents enrolled in 2022-23 against 14,298 substandard credentials issued](trgp-small-fraction-of-statewide-teacher-supply.md) — related
+- [Teacher residencies and preparation partnerships proved important to district recruitment during the pandemic](residencies-partnerships-support-pandemic-recruitment.md) — related

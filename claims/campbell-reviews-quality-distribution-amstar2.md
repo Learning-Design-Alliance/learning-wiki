@@ -47,3 +47,4 @@ AMSTAR 2 assessment of all 96 included Campbell intervention reviews rated "16 (
 - [Only 26% of Campbell reviews completely or partially reported all 27 PRISMA items, with a median of 25 items reported](campbell-reviews-prisma-completeness.md) — related
 - [Campbell intervention reviews published after the 2014 introduction of MECCIR standards have higher methodological quality than those published before](meccir-post-reviews-higher-amstar2-quality.md) — related
 - [Campbell reviews co-registered with Cochrane have higher methodological quality than reviews registered only with Campbell](cochrane-campbell-coregistration-higher-quality.md) — related
+- [PRISMA review synthesized 93 studies on agentic workflows in education, with methodological quality skewed toward conceptual and early empirical work](prisma-review-93-agentic-education-studies.md) — related

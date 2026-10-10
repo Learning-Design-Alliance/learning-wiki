@@ -49,3 +49,4 @@ Qualitative stakeholder-engagement case study: The Ed Trust–Louisiana team sha
 - [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
 - [After accounting for teacher and school characteristics, each $1,000 increase in cost-of-living-adjusted salary is associated with about a 0.34 percentage-point decrease in turnover probability](salary-associated-with-lower-turnover.md) — related
 - [Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992](us-teacher-turnover-15-percent-2021-22.md) — related
+- [Minority teachers who depart rarely cite retirement; dissatisfaction, pursuit of better jobs, and personal reasons dominate their reported turnover reasons](minority-teacher-departure-reasons-self-report.md) — related

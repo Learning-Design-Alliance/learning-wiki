@@ -50,3 +50,4 @@ The report's preparation section synthesizes multiple studies of teacher prepara
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
 - [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — possibly the same claim (merge candidate)
+- [Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave teaching than comprehensively prepared teachers](underprepared-teachers-leave-at-2-3-times-rate.md) — possibly the same claim (merge candidate)

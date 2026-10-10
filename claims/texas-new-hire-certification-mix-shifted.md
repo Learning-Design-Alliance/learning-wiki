@@ -50,3 +50,5 @@ Descriptive analysis of Texas Education Agency newly certified and new teacher h
 - [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — a broader claim this one bears on
 - [Noncertified Texas teachers show the sharpest retention decline, with fewer than 40% still teaching after 5 years](noncertified-sharpest-retention-decline.md) — related
 - [The share of uncertified teachers among new Texas entrants rose from 16% in 2018–19 to 49% in 2023–24](texas-uncertified-new-teacher-share-rising.md) — possibly the same claim (merge candidate)
+- [In Texas in 2023–24, 68% of newly hired teachers were underqualified or unqualified, teaching on intern certificates, emergency permits, or no certification](texas-68-percent-new-hires-underqualified-2023-24.md) — related
+- [In 2021–22, only 28% of Texas first-time teacher hires held a standard certificate; 57% held a substandard intern certificate, emergency permit, or no certification at all](texas-first-time-hires-largely-underprepared.md) — related

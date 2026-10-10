@@ -51,3 +51,4 @@ Institution-level analysis of the second affected academic year (2013-14); the a
 - [Other types of federal financial aid did not fully make up for the decline in PLUS borrowing at HBCUs](other-federal-aid-did-not-offset-plus-decline.md) — related
 - [After the tightening of PLUS credit standards, both the share of PLUS participants and PLUS loan dollar amounts declined substantially at HBCUs](plus-decline-hbcus-after-credit-standard-tightening.md) — related
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
+- [The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million](plus-credit-tightening-cut-hbcu-access-and-revenue.md) — related

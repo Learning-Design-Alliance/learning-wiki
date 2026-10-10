@@ -48,3 +48,4 @@ Descriptive CRDC 2017-18 analysis of uncertified-teacher percentages by school B
 - [Schools serving the greatest percentages of Black students have higher percentages of novice teachers than schools serving the fewest (15% vs 10% nationally)](black-students-schools-more-novice-teachers.md) — related
 - [Black and Latino students in North Carolina have less access to non-novice and certified teachers than their peers](nc-unequal-access-non-novice-teachers.md) — related
 - [Schools serving the highest percentages of Black students have more first-year teachers than schools serving the lowest percentages (8% vs 5% nationally)](black-students-schools-more-first-year-teachers.md) — related
+- [Illinois Black and Latino students have less access to non-novice and certified teachers than their peers](illinois-black-latino-students-novice-uncertified-teacher-access.md) — a narrower finding that bears on this claim

@@ -62,4 +62,4 @@ A spring 2020 national ParentsTogether survey of parents, reported in the Priori
 
 
 ## Related Claims
--
+- [Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas](technology-access-barriers-fafsa-implementation.md) — a narrower finding that bears on this claim

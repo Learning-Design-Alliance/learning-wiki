@@ -49,3 +49,4 @@ The article cites prior Thai studies (Pornviriyasakul 2011; Chaowakiratipong 201
 - [Pre-service teachers choose strategies, methods, and techniques mainly for fit with objective content and for promoting active student participation](reasons-for-choosing-strategies-methods-techniques.md) — related
 - [Many students in the digital-images inquiry found identifying engineering tradeoffs difficult despite the budget constraint design](students-found-tradeoffs-difficult-in-inquiry.md) — related
 - [Teachers pose inquiry questions mostly about their students, not their own teaching, indicating teaching data remains a novel concept](teachers-inquiry-questions-focus-on-students-not-teaching.md) — related
+- [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](stem-more-amenable-difficulty-scaling.md) — related

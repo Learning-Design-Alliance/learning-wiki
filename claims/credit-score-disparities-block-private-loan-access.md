@@ -48,3 +48,4 @@ Century Foundation analysis cited in the brief: "38.2% of Americans overall have
 - [Other types of federal financial aid did not fully make up for the decline in PLUS borrowing at HBCUs](other-federal-aid-did-not-offset-plus-decline.md) — related
 - [The larger enrollment decline at HBCUs corresponded to the larger decline in PLUS recipients at those institutions](enrollment-decline-corresponds-to-plus-recipient-decline.md) — related
 - [Declines in PLUS loans at HBCUs in 2012-13 were not fully replaced by other types of federal financial aid](plus-declines-not-fully-replaced-other-aid.md) — related
+- [Low-income graduate degree completers and Black, Latino, and Native American and Pacific Islander students are overrepresented among Grad PLUS borrowers](grad-plus-overrepresentation-low-income-students-of-color.md) — related

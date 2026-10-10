@@ -52,6 +52,9 @@ The report recommends seven "evidence-based approaches for resolving teacher sho
 - [Offer flexible part-time instructional roles to bring certified, nonemployed educators back into classrooms](flexible-part-time-educator-roles.md)
 - [Invest in retention efforts for teachers of color that improve working conditions and provide personal and professional growth opportunities](invest-retain-teachers-of-color.md)
 - [Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates](retain-teachers-of-color-strategies.md)
+- [Invest in high-quality induction and mentoring programs, which are associated with higher retention particularly for teachers of color](induction-mentoring-retention-teachers-of-color.md)
+- [Four-part policy strategy for increasing student access to advanced mathematics and science courses](policy-strategies-advanced-course-access.md)
+- [Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring](retain-teachers-of-color-residencies-affinity-mentoring.md)
 
 ## Examples
 -

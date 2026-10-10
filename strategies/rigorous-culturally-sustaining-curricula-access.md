@@ -42,6 +42,7 @@ The brief argues students must be challenged and encouraged to meet high expecta
 - [State policy package to expand equitable access to advanced coursework: credit transparency, automatic enrollment with opt-out, fee removal, disaggregated data reporting, and belonging supports](ma-equitable-advanced-coursework-policy-package.md)
 - [Pair increased academic demand with increased teacher support when raising instructional rigor](pair-demand-with-support-when-raising-rigor.md)
 - [Six policy areas state leaders can implement to create equitable SEAD-supportive learning environments](six-policy-areas-equitable-sead.md)
+- [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
 
 ## Examples
 -

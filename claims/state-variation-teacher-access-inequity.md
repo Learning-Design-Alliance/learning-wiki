@@ -53,3 +53,4 @@ State-by-state analysis in Appendix A (Table A1) recreating quintile comparisons
 - [California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers](california-low-ses-uncertified-teachers-tenfold.md) — related
 - [Students in high-poverty schools are more likely to be taught by inexperienced teachers, and teachers in high-minority schools are twice as likely to leave their school for another](inexperienced-teachers-high-poverty-schools.md) — related
 - [Whether disparities in access to novice teachers occur between districts or within districts varies widely by state](novice-teacher-disparities-between-within-districts-vary.md) — related
+- [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related

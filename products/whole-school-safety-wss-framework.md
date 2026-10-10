@@ -18,13 +18,14 @@ sources:
 # Whole School Safety (WSS) Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 2 studies (1 causal, 1 qualitative), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (7 for, 1 mixed) · 3 studies (2 qualitative, 1 causal), `q1`–`q2` · 0 of 3 report an effect size · 8 claims rest on one study
 
 ## Description
 A Chicago Public Schools framework developed with community-based organizations that organizes school safety planning around physical safety, emotional safety, and relational trust.
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Five-type spectrum of school safety approaches, from school-to-prison pipeline schools to school-to-possibility pipeline schools**: The report's authors categorize schools on a five-point spectrum of safety approaches. At one end, "School-to-prison pipeline schools" are "hardened schools with a high emphasis on physical security, no guardrails to prevent the harm that physical security can cause, and little to no attention on student well-being." Intermediate types add guardrails and scale up well-being practices while scaling down physical security. The ultimate goal, school-to-possibility pipeline schools, have fully adopted practices addressing root causes of violence and removed physical security. Leaders are advised to locate their schools on the spectrum and plan next steps toward the goal. (Duchesneau et al. (2023))
 
 ### Claims
 - [SRO removal was not significantly related to changes in student or teacher perceptions of physical safety or in Student-Teacher Trust](../claims/sro-removal-no-change-school-climate-perceptions.md) [~M]
@@ -34,14 +35,15 @@ A Chicago Public Schools framework developed with community-based organizations 
 - [CBO leaders characterized the collaborative WSS development process as healing and restorative, applying restorative justice principles to policymaking](../claims/wss-codesign-restorative-healing-process.md) [+W]
 - [District officials and CBO leaders believed WSS implementation success should be assessed along multiple dimensions including engagement, student outcomes, district resources, and experiences](../claims/wss-multidimensional-success-measures.md) [+W]
 - [CBO leaders cautioned that assessing WSS outcomes without accounting for district inputs obscures how resource allocation determines policy success](../claims/wss-outcomes-need-input-transparency.md) [+W]
+- [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](../claims/hardening-intervenes-too-late-pathway-violence.md) [+W]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Arneson, A., Hinze-Pifer, R., Franklin, K., & Johnson, D.W. (2024). Removing police officers from Chicago schools: Trends and outcomes. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/removing-police-officers-from-Chicago-schools
-
 <!-- merged 2026-10-10 from theories/whole-school-safety-framework-cps ("Whole School Safety (WSS) Framework"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Duchesneau, N., & Zapata, M. (2023). Creating Safer Schools: A Case Study. The Education Trust. https://edtrust.org
 
 # Whole School Safety (WSS) Framework
 

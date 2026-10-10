@@ -69,3 +69,6 @@ The report's school-leadership subsection synthesizes survey research on why tea
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — a broader claim this one bears on
 - [Dissatisfaction with leadership and staff cohesion predicts staying only in high-poverty schools](leadership-cohesion-retention-high-poverty.md) — related
 - [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](louisiana-teachers-of-color-working-conditions-turnover.md) — a narrower finding that bears on this claim
+- [Minority teachers who depart rarely cite retirement; dissatisfaction, pursuit of better jobs, and personal reasons dominate their reported turnover reasons](minority-teacher-departure-reasons-self-report.md) — related
+- [Teachers cite principal support as one of the most important factors in their decision to stay in a school or the profession](principal-support-key-to-teacher-retention.md) — related
+- [Effective, supportive principals retain teachers, with the largest effects in high-need schools](supportive-principals-retain-teachers.md) — a narrower finding that bears on this claim

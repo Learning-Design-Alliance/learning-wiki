@@ -46,3 +46,4 @@ From the interview analysis in the Results and discussion section: some particip
 - [Through Chapelle's CALL evaluation criteria, participants experienced ASR writing as useful, authentic, meaning-focused, and matched to their proficiency level](chapelle-criteria-asr-writing-affordances.md) — reports the opposite
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — related
 - [Interviews reveal ESL learners valued ASR for bypassing orthography and grammar concerns, pronunciation practice, self-efficacy, and user-friendly voice commands](interviews-asr-ease-and-speaking-benefits.md) — related
+- [Low- and intermediate-proficiency students report higher perceived usefulness, ease of use, and satisfaction for AI-assisted English tools than high-proficiency students](proficiency-group-acceptance-differences.md) — related

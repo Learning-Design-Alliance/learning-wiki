@@ -71,3 +71,7 @@ Descriptive comparison for Latino students: 6% versus 5% attend schools with hig
 - [Latino students have more novice teachers than their peers in more than half of U.S. states](latino-students-more-novice-teachers-majority-of-states.md) — related
 - [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related
 - [Whether disparities in access to novice teachers occur between districts or within districts varies widely by state](novice-teacher-disparities-between-within-districts-vary.md) — related
+- [California Black and Latino students are more likely than their peers to attend schools with high percentages of novice and uncertified teachers](california-black-latino-students-novice-uncertified-teacher-disparities.md) — related
+- [Illinois Black and Latino students have less access to non-novice and certified teachers than their peers](illinois-black-latino-students-novice-uncertified-teacher-access.md) — related
+- [Black students in Michigan were more likely than non-Black students to attend schools with high percentages of novice teachers (18% vs 8%)](michigan-black-students-novice-teacher-disparity.md) — related
+- [Black and Latino students in Pennsylvania are far more likely than their peers to attend schools with high percentages of novice and uncertified teachers](pa-black-latino-students-novice-uncertified-teacher-disparities.md) — related

@@ -48,3 +48,4 @@ Descriptive analysis of the 2013–14 and 2015–16 Civil Rights Data Collection
 - [In 2016, 17.2% of teachers in high student of color enrollment schools were in their first or second year, compared to 9.1% in low-enrollment schools, and the gap widened from 2014 to 2016](inexperienced-teacher-gap-high-student-of-color-schools.md) — related
 - [Across rural, suburban, and urban locales, schools with high student of color enrollment have higher percentages of uncertified teachers than schools with low enrollment](uncertified-teacher-inequity-across-locales.md) — related
 - [California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers](california-low-ses-uncertified-teachers-tenfold.md) — related
+- [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related

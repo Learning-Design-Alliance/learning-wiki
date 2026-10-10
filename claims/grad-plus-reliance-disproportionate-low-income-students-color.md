@@ -47,3 +47,6 @@ Descriptive comparison of Grad PLUS completers with all graduate completers: "Si
 - [New graduate loan limits fall below median program costs, creating an affordability gap](obbba-loan-caps-below-median-graduate-costs.md) — related
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
 - [Many graduate borrowers will not qualify for private loans under current underwriting standards](private-loan-underwriting-locks-out-graduate-borrowers.md) — related
+- [Black parents take out Parent PLUS loans at a higher rate than any other racial or ethnic group, and low-income Black PLUS borrowing is growing](black-parents-highest-parent-plus-take-up-rate.md) — related
+- [Low-income graduate degree completers and Black, Latino, and Native American and Pacific Islander students are overrepresented among Grad PLUS borrowers](grad-plus-overrepresentation-low-income-students-of-color.md) — possibly the same claim (merge candidate)
+- [Median debt loads of Black borrowers are near or above the $50,000 cancellation mark at every income level, challenging means-tested cancellation](median-debt-above-50k-every-income-level.md) — related

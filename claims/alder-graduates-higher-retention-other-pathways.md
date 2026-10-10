@@ -47,3 +47,4 @@ Program-reported comparison of retention in partner LEAs as of 2023, contrasting
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
 - [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — related
 - [Residency completers are retained at higher rates than other new teachers in the same districts](residency-completers-higher-retention.md) — a broader claim this one bears on
+- [Kern Urban Teacher Residency graduates are retained at high rates in the partner district, with 92% of its 114 graduates continuing to work in BCSD](kern-urban-92-percent-retention-bcsd.md) — related

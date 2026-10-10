@@ -35,7 +35,7 @@ sources:
 # Scaffolding and Fading
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 11 claims (6 for, 5 mixed) · 16 studies (6 causal, 3 review, 2 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 16 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (8 for, 6 mixed) · 18 studies (7 causal, 4 review, 2 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 2 of 18 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -75,6 +75,9 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — early support can reduce blind search for novices before independence develops; not settled: the text available could not confirm the entries (abstract)
 - [Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding](../claims/blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) [+W] — attached 2026-10-07 from Obikwelu et al. (2013), which proposed "Three fading-based scaffolding approaches: supportive, intrinsic and reflective scaffolding".
 - [Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)](../claims/challenge-support-imbalance-effects-novice-learners.md) [+W] — attached 2026-10-07 from Carder et al. (1996), which proposed "Four-quadrant progression from unready learner to independent library user with matching instructor behavior"; tests this page's relationship.
+- [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](../claims/ai-scaffolding-fading-learned-helplessness.md) [+W] — attached 2026-10-10 from Steve Woollaston et al. (2026), which proposed "Implement dynamic fading: AI scaffolding must retreat as student competence increases".
+- [A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant](../claims/contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) [+W] — attached 2026-10-10 from Hou et al. (2026), which proposed "Preserved metacognitive demand: hold what the learner must decide constant and let carried load vary with demonstrated need"; tests this page's relationship.
+- [Perceived task load and germane load did not differ between the contingent tutor and either baseline](../claims/perceived-load-unchanged-under-contingent-tutor.md) [~W] — attached 2026-10-10 from Hou et al. (2026), which proposed "Preserved metacognitive demand: hold what the learner must decide constant and let carried load vary with demonstrated need"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -48,3 +48,4 @@ Conceptual definition of the expanded-participation factor. The article illustra
 - [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — related
 - [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — related
 - [Sesame Street is presented as a model of research-based educational media whose curriculum-plus-formative-and-summative-research model drove measurable impact](sesame-street-research-model-example.md) — related
+- [Agent-based educational science is positioned as reconfiguring, not replacing, empirical educational research](aes-reconfigures-not-replaces-empirical-research.md) — a narrower finding that bears on this claim

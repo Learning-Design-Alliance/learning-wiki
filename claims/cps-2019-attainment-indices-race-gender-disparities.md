@@ -55,3 +55,4 @@ Table 1 takeaway from this descriptive report, disaggregating the DBDAI, BDAI, a
 - [College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened](college-aspirations-doubled-readiness-gaps-persist.md) — related
 - [The 2023 Post-secondary Attainment Index for CPS ninth-graders is 31%, up 0.4 percentage points from 2022](cps-2023-pai-31-percent.md) — related
 - [College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment](cps-enrollment-gaps-driven-by-four-year-enrollment.md) — related
+- [White students outcomplete Black students by at least 11 percentage points in every family income group at four-year institutions](completion-gaps-persist-within-income-groups.md) — related

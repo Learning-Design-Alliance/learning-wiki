@@ -39,7 +39,8 @@ The article recommends that future WCF research emphasize students' agentic enga
 - improving written corrective feedback implementation and student writing development
 
 ## Related Strategies
-- 
+
+- [Architect teacher-in-the-loop agentic AI with escalation protocols, guardrail adjustability, and state-interruptibility](teacher-in-the-loop-agentic-architecture.md)
 
 ## Examples
 -

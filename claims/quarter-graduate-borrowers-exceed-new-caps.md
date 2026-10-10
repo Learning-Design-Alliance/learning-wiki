@@ -46,3 +46,5 @@ PEER center estimate cited in the brief: "26% of all graduate borrowers" and 38%
 - [New graduate loan limits fall below median program costs, creating an affordability gap](obbba-loan-caps-below-median-graduate-costs.md) — related
 - [Many graduate borrowers will not qualify for private loans under current underwriting standards](private-loan-underwriting-locks-out-graduate-borrowers.md) — related
 - [Before Grad PLUS existed, professional degree students relied heavily on private loans](pre-grad-plus-professional-students-relied-on-private-loans.md) — related
+- [About one-third of graduate borrowers borrowed more than OBBBA's new loan limits allow, exceeding the limits by roughly $8 billion in volume](graduate-borrowers-exceed-new-loan-limits.md) — possibly the same claim (merge candidate)
+- [PEER estimates 29% of Parent PLUS borrowers took out more debt than OBBBA's new caps allow, exceeding the limits by more than $10,000 on average](parent-plus-borrowers-exceed-new-caps.md) — related

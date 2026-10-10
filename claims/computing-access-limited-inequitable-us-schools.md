@@ -45,3 +45,4 @@ The report's review of the current state of computing education, citing Banilowe
 - [Larger CPS high schools were consistently more likely to offer CS courses than smaller schools in both 2012 and 2018](school-size-cs-offering-gap.md) — related
 - [Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018](student-cs-access-92-percent-2018.md) — related
 - [Black students are less likely than white students to attend schools offering computer science classes](black-students-less-likely-cs-classes-2016-report.md) — a narrower finding that bears on this claim
+- [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced science courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-science-courses.md) — a narrower finding that bears on this claim

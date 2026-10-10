@@ -49,3 +49,4 @@ Conceptual definition of the generativity factor. The article illustrates it wit
 - [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — related
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
+- [Agent-based educational science is positioned as reconfiguring, not replacing, empirical educational research](aes-reconfigures-not-replaces-empirical-research.md) — a narrower finding that bears on this claim

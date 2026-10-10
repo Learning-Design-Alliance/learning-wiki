@@ -42,6 +42,7 @@ The district began providing real-time early warning data reports and credit rec
 - [Monitor freshman-year grades and intervene early, treating D students as needing attention comparable to F students](monitor-freshman-gpa-early-warning-strategy.md)
 - [Design credit-recovery interventions to address broader academic deficits and engagement, not only algebra content](credit-recovery-address-broader-deficits-and-engagement.md)
 - [Attend to both SEL status and SEL growth when identifying students who may need supports to stay on track to graduate](use-both-sel-status-and-growth-for-early-warning.md)
+- [Intrusive, data-driven advising: track unregistered students, audit degree plans, and bring advising directly to students](intrusive-data-driven-advising-usc.md)
 
 ## Examples
 -

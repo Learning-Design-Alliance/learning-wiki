@@ -86,3 +86,4 @@ Chapter 2 analysis using census-block median family income as a proxy for socioe
 - [Attainment indices vary sharply by race/ethnicity and gender: Black young men face a projected PAI of 12.6 percent versus 62.0 percent for Asian/Pacific Islander young women](cps-2019-attainment-indices-race-gender-disparities.md) — related
 - [Latino CPS graduates who aspire to a four-year degree are least likely to plan to attend a four-year college after graduation](latino-graduates-least-likely-plan-four-year-college.md) — related
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — related
+- [Black students from high-SES families enroll at highly selective colleges at far lower rates than White peers of similar SES](selective-enrollment-gap-within-ses.md) — related

@@ -67,3 +67,4 @@ Partnership Team survey data show administrative capacity gaps: "40 percent of p
 - [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](residency-leaky-pipeline-limited-roi.md) — related
 - [A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity](residents-report-financial-hardship-during-residency-year.md) — related
 - [Alder's financial model combines grants, tuition, and LEA contributions, targeting 70–80% tuition funding by 2026–27 while keeping tuition low](alder-diversified-financial-model.md) — related
+- [District leaders attribute limited pools of fully credentialed applicants to licensure testing requirements and inadequate financial aid for teacher preparation](licensure-testing-and-cost-barriers-limit-teacher-pipeline.md) — related

@@ -46,3 +46,5 @@ State-level analysis of 2019-20 Massachusetts school-level enrollment and educat
 - [Candidates of color complete Michigan teacher preparation programs at lower rates than they enroll: nearly 20% of enrollees but only 12% of completers in 2022-23 were people of color](michigan-teacher-prep-completion-gap-candidates-of-color.md) — related
 - [In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce](state-student-teacher-diversity-gap.md) — related
 - [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students.md) — related
+- [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students-brief-assertion.md) — related
+- [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students-regardless-of-race.md) — related

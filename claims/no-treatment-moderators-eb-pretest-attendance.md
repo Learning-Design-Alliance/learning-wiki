@@ -48,3 +48,4 @@ Two-way interactions between treatment condition and the three covariates were t
 - [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) — related
 - [In real-world implementation, TSI students attended on average 25.5 of 50 scheduled tutoring sessions](tsi-attendance-half-of-scheduled-sessions.md) — related
 - [The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation](tutoring-effect-size-aligned-with-implementation-quality.md) — reports the opposite
+- [Interaction volume during AI-supported practice sessions did not differ significantly across conditions, supporting comparability of practice exposure](practice-exposure-comparable-across-conditions.md) — related

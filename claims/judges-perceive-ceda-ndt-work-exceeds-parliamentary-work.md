@@ -46,3 +46,4 @@ The tournament survey asked judges about weekly workload of serious debaters in 
 - [Less experienced debate judges are more likely to be assigned to parliamentary debate](inexperienced-judges-assigned-to-parliamentary-debate.md) — related
 - [Parliamentary rules ban published evidence and omit cross examination, which the author argues undermines argumentation training](parliamentary-rules-ban-evidence-and-omit-cross-examination.md) — related
 - [In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate](survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) — related
+- [Moderate work (under 15 hours weekly) correlates with better college performance while more than 15 hours correlates with worse performance, and consistent part-time attendance more than doubles dropout likelihood](work-hours-and-enrollment-intensity-effects-persistence.md) — related

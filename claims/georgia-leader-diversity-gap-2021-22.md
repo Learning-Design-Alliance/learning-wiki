@@ -67,3 +67,5 @@ Same statewide descriptive analysis of 2021-22 Georgia data, reported in the ove
 - [Georgia schools with higher percentages of students of color were far more likely to have at least one school leader of color (95% of high-diversity schools vs. 31% of low-diversity schools)](leader-of-color-access-rises-with-school-diversity.md) — related
 - [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related
 - [In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce](state-student-teacher-diversity-gap.md) — related
+- [In Ohio in 2017-18, 27.7% of students were of color while only 6.6% of teachers were of color](ohio-2017-18-student-teacher-diversity-gap.md) — related
+- [In Texas (2018-19), people of color were 72.5% of students but only 41.4% of teachers](texas-teacher-student-diversity-gap-2018-19.md) — related

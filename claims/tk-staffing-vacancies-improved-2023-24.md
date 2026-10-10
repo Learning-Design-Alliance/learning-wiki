@@ -46,3 +46,6 @@ Statewide LEA survey reported in the Staffing TK Classrooms section and Figures 
 - [Staffing challenges persisted for state preschool and Head Start classrooms, with vacancy rates of 5% and 11% that increased from the prior year](cspp-head-start-vacancies-increased.md) — related
 - [TK staffing needs grew with expansion while vacancy rates held steady, but LEAs projected nearly 2,400 additional assistant teachers for 2025–26](tk-staffing-needs-and-vacancies.md) — related
 - [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — related
+- [California's universal TK expansion will require an additional 11,900 to 15,600 credentialed teachers with early childhood expertise by 2025–26](tk-expansion-requires-11900-15600-credentialed-teachers.md) — related
+- [Approximately four fifths of LEAs reported not having enough qualified staff to teach TK](tk-teacher-shortage-four-fifths.md) — reports the opposite
+- [California LEAs reported sufficient fully qualified TK lead teachers in 2022–23 but high second-adult vacancies, and projected needing 1,489 more TK lead teachers and 962 more aides in 2023–24](tk-workforce-lead-sufficiency-aide-vacancies.md) — related

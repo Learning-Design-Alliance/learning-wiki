@@ -44,3 +44,4 @@ In this research-practice interview, Allensworth states that across the overall 
 
 ## Related Claims
 - [The strongest college-readiness predictors measure four broad constructs: academic preparation, aspirations and expectations, socioeconomic status, and teacher perceptions](four-college-readiness-constructs-factor-analysis.md) — related
+- [The quality and intensity of the high school curriculum is reported to be the single most important factor in college success](curriculum-quality-intensity-most-important-college-success.md) — reports the opposite

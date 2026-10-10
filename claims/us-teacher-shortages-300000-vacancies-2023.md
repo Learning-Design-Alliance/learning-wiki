@@ -55,3 +55,4 @@ Analysis of state education agency data reported in the introduction. The report
 - [Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22](michigan-vacancy-data-underreporting.md) — related
 - [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related
 - [The share of uncertified teachers among new Texas entrants rose from 16% in 2018–19 to 49% in 2023–24](texas-uncertified-new-teacher-share-rising.md) — a narrower finding that bears on this claim
+- [Teacher shortages disproportionately impact students in priority and highest-need California schools, which have fewer fully credentialed and more inexperienced teachers](california-shortages-disproportionately-impact-priority-schools.md) — a narrower finding that bears on this claim

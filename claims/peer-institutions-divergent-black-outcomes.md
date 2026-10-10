@@ -45,3 +45,6 @@ Comparative analysis of peer institutions from the College Results Online databa
 ## Related Claims
 - [At exemplar institutions such as Ohio State, graduation rates for black students rose faster than for white students, narrowing gaps (black +31.1 vs white +20.5 points)](exemplar-institutions-black-gains-outpace-white.md) — related
 - [Flagship minority access improved slightly from 2004 to 2007 while low-income (Pell) enrollment declined](flagship-access-trends-2004-2007.md) — related
+- [Black graduation rates rose at more than half of study institutions, but black students were concentrated in institutions where rates declined or stagnated](black-students-concentrated-in-declining-institutions.md) — related
+- [Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics](similar-colleges-different-pell-outcomes.md) — possibly the same claim (merge candidate)
+- [Institutions serving similar students can have divergent URM outcomes: NC State raised URM graduation rates 12 points and nearly halved its gap while demographically similar Auburn saw URM rates decline and its gap grow past 20 points](similar-colleges-different-urm-outcomes.md) — related

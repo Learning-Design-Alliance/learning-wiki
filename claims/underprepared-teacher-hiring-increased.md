@@ -53,3 +53,4 @@ Statewide credential-issuance figures reported in the report's background sectio
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
 - [Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22](michigan-vacancy-data-underreporting.md) — related
 - [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related
+- [California substandard credentials and permits tripled between 2013 and 2023 and made up more than half of new teaching authorizations issued in 2023](california-substandard-credentials-tripled-2013-2023.md) — related

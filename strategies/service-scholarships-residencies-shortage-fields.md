@@ -51,6 +51,8 @@ The report recommends state incentives that recruit candidates into high-need fi
 - [Recruit classified school employees into teacher credentialing with braided funds plus individualized financial and non-financial supports](classified-employee-credentialing-braided-supports.md)
 - [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
 - [Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce](teacher-residency-braided-recruitment-retention.md)
+- [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
+- [Expand loan forgiveness, high-retention preparation pathways, and compensation supports to reduce teacher loan burdens and strengthen recruitment and retention](reduce-teacher-loan-burden-policy-strategies.md)
 
 ## Examples
 -

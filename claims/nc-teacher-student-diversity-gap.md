@@ -50,3 +50,10 @@ Descriptive demographic analysis using federal CCD (2017-18) student data and NT
 - [Black and Latino students in North Carolina have less access to non-novice and certified teachers than their peers](nc-unequal-access-non-novice-teachers.md) — related
 - [Students of color show fewer absences and less exclusionary discipline when taught by race-matched teachers](race-matched-teacher-discipline-absence-benefits.md) — related
 - [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — related
+- [In Illinois (2018-19), 52% of K-12 public school students are people of color but only 18% of teachers are](illinois-52-percent-students-18-percent-teachers-of-color.md) — related
+- [Michigan's teacher workforce was far less diverse than its student population in 2018-19 (9.7% vs 34.2% people of color)](michigan-teacher-student-diversity-mismatch.md) — related
+- [In Ohio in 2017-18, 27.7% of students were of color while only 6.6% of teachers were of color](ohio-2017-18-student-teacher-diversity-gap.md) — related
+- [In Pennsylvania (2018-19), people of color are 35.1% of K-12 public and charter students but only 6.4% of classroom teachers](pa-teachers-of-color-6-4-percent-vs-35-1-students.md) — related
+- [A student-teacher racial/ethnic parity gap persists: in 2011–12, 44% of students but only 17.3% of teachers were minority](persistent-student-teacher-parity-gap.md) — related
+- [Only 20% of the U.S. national teacher workforce is comprised of teachers of color while most P-12 public school students are children of color](teacher-workforce-diversity-disparity-20-percent.md) — a broader claim this one bears on
+- [In Texas (2018-19), people of color were 72.5% of students but only 41.4% of teachers](texas-teacher-student-diversity-gap-2018-19.md) — related

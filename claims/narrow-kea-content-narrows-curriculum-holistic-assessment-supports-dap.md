@@ -46,3 +46,4 @@ A literature-synthesis assertion in the report's introduction, citing prior stud
 - [It is inappropriate to use KEA scores to evaluate teachers or preschool programs, hold children back from kindergarten, or diagnose learning disabilities](kea-inappropriate-uses-teacher-eval-retention-diagnosis.md) — related
 - [Assessment of young multilingual learners is hampered by a dearth of valid, linguistically appropriate measures and by English-only administration](assessment-barriers-young-multilingual-learners.md) — related
 - [State assessment design decisions inevitably shape classroom instruction, often narrowing curriculum and teaching practices](state-assessments-shape-instruction.md) — a broader claim this one bears on
+- [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](business-case-discussion-reveals-business-mindsets.md) — related

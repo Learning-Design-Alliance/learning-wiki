@@ -64,3 +64,4 @@ Thematic analysis of LEAs' open-ended responses on biggest UPK challenges. Respo
 ## Related Claims
 - [Nearly all California LEAs offered TK in 2023–24, with 85% offering it at all elementary sites, up from 81% the prior year](california-leas-tk-offering-2023-24.md) — related
 - [88% of LEAs projected sufficient classroom space by full TK expansion in 2025–26, yet facilities remained a top implementation challenge](tk-facilities-sufficiency-and-challenges.md) — related
+- [California LEAs reported sufficient classroom space for projected UPK enrollment overall, yet facilities were the most cited implementation challenge, followed by staffing and sustainable funding](upk-facilities-staffing-funding-challenges.md) — related

@@ -89,3 +89,4 @@ Linking mentor coaching reports to first-year REACH ratings for hired student te
 - [States that survey new teachers typically do so in the first year of teaching](states-survey-completers-first-year.md) — related
 - [Mentoring residents improves mentors' own teaching practice](mentoring-residents-improves-mentor-practice.md) — related
 - [STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it](stem-plcs-deepen-teacher-content-knowledge.md) — related
+- [Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes](principal-mentoring-coaching-improves-practice.md) — related

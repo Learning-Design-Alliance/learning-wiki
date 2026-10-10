@@ -48,3 +48,4 @@ A national survey of school administrators reported in the brief's National Staf
 - [Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them](pandemic-increased-teacher-vacancies-california-districts.md) — related
 - [Most surveyed districts used federal recovery funds to recruit and retain teachers, including creating new positions that increased staffing needs](recovery-funds-new-positions-shortages.md) — related
 - [More than half of transportation survey respondents described the school bus driver shortage as severe or desperate, especially in rural areas](bus-driver-shortage-severe-or-desperate.md) — related
+- [Districts report severe substitute teacher shortages during the pandemic, straining remaining teachers who must cover absent colleagues' classes](pandemic-substitute-teacher-shortage-strain.md) — possibly the same claim (merge candidate)

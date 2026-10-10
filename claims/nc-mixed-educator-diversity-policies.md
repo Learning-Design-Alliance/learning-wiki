@@ -64,3 +64,7 @@ Policy scan finds the state "does not invest in scholarships and/or loan-forgive
 ## Related Claims
 - [State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less](state-policy-shapes-principal-learning-access.md) — related
 - [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related
+- [California publicly reports school-level educator workforce race data but lags two years and publishes no data on preparation-program candidates, completers, or retention of educators of color](california-educator-diversity-data-transparency-gaps.md) — related
+- [Pennsylvania's policy scan shows strong Grow Your Own, residency, and induction investments but weak data transparency, scholarships, and program approval standards for diversity](pa-policy-scan-strengths-gaps-educator-diversity.md) — related
+- [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — related
+- [Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment](tennessee-msi-and-teacher-academy-investment-gaps.md) — related

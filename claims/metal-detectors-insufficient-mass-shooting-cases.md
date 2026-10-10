@@ -52,3 +52,4 @@ Case evidence cited in the brief: despite a standing metal detector at Red Lake 
 - [School shooters do not fit a single consistent profile; perpetrators, motivations, and attacks vary widely](no-consistent-school-shooter-profile.md) — related
 - [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
 - [There is no evidence that arming school staff improves school safety, and one study found an armed guard present was associated with more deaths in school shootings](arming-staff-no-evidence-of-safety-benefit.md) — related
+- [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related

@@ -50,3 +50,4 @@ Multivariate regression models of 12 school climate outcomes with BTO and CU ind
 - [Enrollment is the main driver of the association between student demographics and the likelihood of beating the odds](enrollment-main-demographic-driver-of-bto.md) — related
 - [School climate differences between BTO and chronically underperforming schools are twice as large as differences between BTO and other schools](climate-gap-bto-versus-cu-schools.md) — related
 - [Beating-the-odds California secondary schools have substantially more positive school climates than other secondary schools](bto-schools-more-positive-school-climates.md) — a broader claim this one bears on
+- [Adjusting for low-income student share narrows but does not eliminate demographic performance gaps in the PEP framework](pell-adjustment-narrows-pep-gaps.md) — related

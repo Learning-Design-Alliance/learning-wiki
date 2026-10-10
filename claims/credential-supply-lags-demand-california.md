@@ -56,3 +56,6 @@ Analysis of CTC credential data and California Department of Education hire esti
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
 - [Districts attribute shortages chiefly to a shrinking supply of newly credentialed teachers, cited by 79% of shortage districts](shrinking-teacher-supply-top-cited-shortage-cause.md) — related
 - [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related
+- [California saw a modest increase in newly prepared teachers beginning in 2020, though completers remain about half the 2004 peak](california-modest-increase-teacher-completers-2020-2021.md) — related
+- [Teacher shortages disproportionately impact students in priority and highest-need California schools, which have fewer fully credentialed and more inexperienced teachers](california-shortages-disproportionately-impact-priority-schools.md) — related
+- [District leaders attribute limited pools of fully credentialed applicants to licensure testing requirements and inadequate financial aid for teacher preparation](licensure-testing-and-cost-barriers-limit-teacher-pipeline.md) — related

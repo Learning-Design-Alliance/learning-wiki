@@ -73,3 +73,4 @@ Descriptive trend analysis shown in Figure 6 for high school graduating classes 
 - [AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers](ai-an-dropout-and-college-retention-rates.md) — related
 - [Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years](early-program-entry-linked-to-completion.md) — related
 - [Community college credential completion rates are low and have slightly declined, with markedly lower rates for black and Hispanic students](low-community-college-completion-rates-declining.md) — related
+- [About three-quarters of U.S. high school graduates go to college within two years, yet nearly half of college students take at least one remedial course, and students who required remediation graduated at lower rates](college-going-high-remediation-low-completion.md) — related

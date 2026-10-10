@@ -58,3 +58,4 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - [Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution](arts-sel-evidence-base-rigor-gap.md) — related
 - [Evidence and evaluation standards for educational AI are immature, widening the gap between product release pace and rigorous evaluation](edtech-ai-evidence-standards-immature.md) — related
 - [Human expert review is the most credible but slowest and most resource-intensive evaluation method](human-expert-review-most-credible-slowest.md) — related
+- [Existing reflection models lack strategies to manage challenges introduced by GenAI](existing-reflection-models-lack-genai-strategies.md) — related

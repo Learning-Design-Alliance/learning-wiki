@@ -50,3 +50,4 @@ EdTrust's analysis of Louisiana public high school FAFSA rates shows the first-y
 - [The delayed, error-filled 2024-25 FAFSA rollout cut national completion rates nearly 40% below the prior cycle by late March 2024, with larger declines at high schools with more students of color and low-income students](fafsa-2024-25-rollout-completion-declines-disparities.md) — related
 - [Illinois's universal FAFSA policy produced a mixed first-year result: submissions rose 0.8% while completions fell 0.2%](illinois-fafsa-policy-mixed-first-year-result.md) — related
 - [Indiana's FAFSA requirement coincided with a smaller completion decline (-2.9%) than the national average (-10%) during the chaotic 2024-25 FAFSA rollout](indiana-requirement-buffered-completion-decline.md) — related
+- [Louisiana repealed the first universal FAFSA policy in 2024, yet statewide FAFSA completion efforts and completions continued after repeal](louisiana-repeal-completion-continued.md) — related

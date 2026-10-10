@@ -45,3 +45,5 @@ Report analysis of Title II data (Figure 1, 2013–14 through 2022–23). It rep
 ## Related Claims
 - [Alternative certification enrollment growth in Texas did not increase teacher supply because completion rates were low](alternative-certification-low-completion-supply.md) — related
 - [Teachers prepared through traditional certification pathways are retained at higher rates over 5 years than alternatively certified or noncertified Texas teachers](traditional-pathway-higher-retention-texas.md) — related
+- [For-profit alternative certification pathways in Texas increased enrollment by more than 500% over 5 years without increasing program completers](for-profit-alternative-enrollment-growth-no-completers.md) — related
+- [Students of university-prepared Texas teachers gained 2.2 additional months of 9th-grade ELA learning and 1.8 additional months of 9th-grade math learning versus students of alternatively prepared teachers](university-prepared-teachers-higher-student-learning-gains.md) — related

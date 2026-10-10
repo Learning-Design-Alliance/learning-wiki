@@ -94,3 +94,4 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation](asr-tutoring-supports-word-identification-attention-motivation.md) — related
 - [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](word-recognition-fluency-predicts-comprehension-grades-1-3.md) — related
 - [In a reservation-school literacy assessment study, fourth-grade AI/AN students were average or above in phonemic awareness, word recognition, vocabulary, and reading rate but low in comprehension](ai-an-fourth-grade-skills-comprehension-split.md) — related
+- [Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency](cognitive-offloading-shifts-to-cognitive-surrender.md) — related

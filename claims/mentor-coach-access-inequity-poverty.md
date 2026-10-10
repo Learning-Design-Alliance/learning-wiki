@@ -50,3 +50,4 @@ NAESP-LPI survey subgroup analysis reported in the authentic learning findings s
 - [Most U.S. elementary school principals report access to professional development content identified as important for building leadership capacity](principals-access-pd-content-leadership-capacity.md) — related
 - [School leaders in higher-wealth schools are more likely to attend high-quality principal preparation programs, creating inequitable access](prep-quality-varies-by-school-wealth.md) — related
 - [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related
+- [Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes](principal-mentoring-coaching-improves-practice.md) — related

@@ -50,3 +50,4 @@ Analysis of CDE staffing and enrollment data attributes increased demand partly 
 - [California TPP completers applying for preliminary credentials increased 35% between 2016–17 and 2020–21, with the largest increases among multiple subject credential earners and private institutions](california-tpp-completers-increased-35-percent.md) — related
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
 - [Districts attribute shortages chiefly to a shrinking supply of newly credentialed teachers, cited by 79% of shortage districts](shrinking-teacher-supply-top-cited-shortage-cause.md) — related
+- [California saw a modest increase in newly prepared teachers beginning in 2020, though completers remain about half the 2004 peak](california-modest-increase-teacher-completers-2020-2021.md) — related

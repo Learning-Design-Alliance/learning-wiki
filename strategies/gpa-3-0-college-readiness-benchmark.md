@@ -38,7 +38,8 @@ The article recommends that high schools and districts treat an unweighted GPA o
 - College readiness and four-year college completion
 
 ## Related Strategies
-- 
+
+- [Align high school graduation standards, assessments, and course requirements with college readiness so a diploma signals preparation for credit-bearing college work](align-k16-standards-assessments-graduation-requirements.md)
 
 ## Examples
 -

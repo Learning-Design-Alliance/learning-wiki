@@ -49,3 +49,5 @@ The brief's narrative synthesis of prior work (Daniels, Royster & Vecchi 2007; N
 - [Students report feeling less safe and more likely to perceive violence and disorder in schools with metal detectors](metal-detectors-lower-student-safety-perceptions.md) — related
 - [Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect](safety-measures-cause-harm-black-brown-youth.md) — related
 - [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
+- [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related
+- [School leaders varied widely in implementing district security protocols, such as metal detector and bag-check enforcement](inconsistent-implementation-security-protocols.md) — a narrower finding that bears on this claim

@@ -48,3 +48,4 @@ The brief frames its purpose around interpreting null results, posing the questi
 - [The case study cannot distinguish which program elements caused the positive impacts](bell-elements-causal-attribution-limited.md) — related
 - [No instances of service-learning were reported on the RPT forms, an unexpected null the authors attribute partly to the form's design](no-service-learning-reported-rpt-forms.md) — a narrower finding that bears on this claim
 - [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — a narrower finding that bears on this claim
+- [Survey findings reflect intended plans that may differ from eventual implementation, and the survey structure limits what can be inferred](upk-survey-plan-implementation-gap.md) — related

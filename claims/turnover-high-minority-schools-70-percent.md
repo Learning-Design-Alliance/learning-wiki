@@ -48,3 +48,4 @@ SASS/TFS analysis comparing top-quartile (more than 55% students of color) and b
 - [Teachers who are not fully certified have higher turnover than fully certified teachers (20.1% vs. 14.7%), with a larger gap among early-career teachers](uncertified-teachers-higher-turnover.md) — related
 - [Mathematics/science, special education, and foreign language teachers have predicted turnover rates 37%, 46%, and 87% greater than elementary teachers](subject-area-turnover-predictors.md) — related
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
+- [Minority teacher turnover rates have been significantly higher than nonminority turnover, and the gap widened after 2004](minority-teacher-turnover-significantly-higher.md) — related

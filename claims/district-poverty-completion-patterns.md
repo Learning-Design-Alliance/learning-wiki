@@ -67,3 +67,4 @@ The same district-poverty analysis of graduates with dual credit reports that gr
 - [Overall advanced coursework completion in Washington rose slightly from 2019 to 2022, with gains for Black, Latino, and low-income students similar to the state average](wa-dc-completion-rose-slightly.md) — related
 - [The pandemic hurt advanced coursework completion in urban Texas districts more than in rural districts, which saw comparatively no change](pandemic-urban-rural-completion-divergence.md) — related
 - [Rural Washington districts show much lower AP enrollment and slower CTE DC growth than urban districts, with lower dual credit completion](wa-rural-urban-advanced-coursework-gaps.md) — related
+- [Florida shows more equitable advanced course offerings between high- and low-poverty schools, attributed by others to statewide opportunity efforts begun in the early 2000s](florida-equitable-advanced-course-offerings.md) — related

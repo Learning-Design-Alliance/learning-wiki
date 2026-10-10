@@ -42,6 +42,8 @@ Drawing on TCLAS implementation findings, the report recommends: continuing to r
 - [Reallocate existing district roles and budget lines—substitute teaching, paraeducator positions, and extended-day staffing—to fund and pay residents](reallocate-roles-and-budget-lines-for-residents.md)
 - [Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance](policy-strategies-sustain-residency-pathways.md)
 - [State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees](state-policy-levers-yearlong-stipended-clinical-preparation.md)
+- [Sustain and expand California's teacher workforce investments: continued GSTG funding, residency sustainability, NBCT uptake studies, and better program data](sustain-california-teacher-workforce-investments.md)
+- [Five state policy actions to sustain and scale teacher residencies](texas-residency-policy-recommendations.md)
 
 ## Examples
 -

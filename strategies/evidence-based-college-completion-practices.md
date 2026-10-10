@@ -42,6 +42,7 @@ The report's Implications section lists evidence-based approaches colleges are a
 - [Wraparound student supports: navigator, financial supports, and job placement assistance](ibest-navigator-and-support-services-strategy.md)
 - [Combine full-time occupational enrollment with intrusive advising, financial support, and basic skills instruction](project-quest-support-components-strategy.md)
 - [Conduct a data-intensive Pathways Analysis during the planning year to locate loss and momentum points](pathways-analysis-planning-year-strategy.md)
+- [Intrusive, data-driven advising: track unregistered students, audit degree plans, and bring advising directly to students](intrusive-data-driven-advising-usc.md)
 
 ## Examples
 -

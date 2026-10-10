@@ -52,3 +52,5 @@ EdTrust analysis of DESE data on the percentage of AP test scores (in any subjec
 - [From 2018 to 2022, AP enrollment fell across all student groups in Kentucky while dual credit enrollment rose](ky-ap-enrollment-fell-dc-rose-2018-2022.md) — related
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [A school-level partnership with Mass Insight Education & Research expanded AP access and passing at Jeremiah E. Burke High School, with an 8-point gain for Black and 13-point gain for Latino test takers](mass-insight-burke-high-school-ap-case.md) — related
+- [Michigan AP exam score distributions differ sharply by race: 16.6% of exams taken by white students earned a 5 versus 5.6% for Black students](michigan-ap-score-racial-disparities.md) — related
+- [Michigan dual enrollment participation (4.5%) lags the national rate (10.3%), and students of color are underrepresented among dual enrollees](michigan-dual-enrollment-lags-underrepresentation.md) — related

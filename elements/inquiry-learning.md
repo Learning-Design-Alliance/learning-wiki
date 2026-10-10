@@ -79,6 +79,7 @@ Inquiry can produce deep, transferable understanding when learners have enough s
 **[Cognitively Guided Instruction](../patterns/cognitively-guided-instruction-cgi-for-math.md)** — Teachers elicit and build on children's informal problem-solving strategies, a classroom-inquiry form in mathematics.
 
 **[Case-Based Learning (Harvard Method)](../patterns/case-based-learning-harvard-method.md)** — Learners analyze real cases and defend recommendations, inquiry in a discussion format.
+- [Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning](../strategies/react-cycle-inquiry-based-learning.md)
 
 ## Key Sources
 - Furtak, E. M., Seidel, T., Iverson, H., & Briggs, D. C. (2012). Experimental and quasi-experimental studies of inquiry-based science teaching: A meta-analysis. *Review of Educational Research, 82*(3), 300–329. [doi:10.3102/0034654312457206](https://doi.org/10.3102/0034654312457206)

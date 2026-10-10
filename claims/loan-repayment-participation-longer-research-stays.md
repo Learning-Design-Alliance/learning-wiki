@@ -49,3 +49,4 @@ Survey-based evaluation comparing career paths of program participants and nonpa
 - [NIH spends millions of dollars annually on scholarships for disadvantaged undergraduate science students](nih-spends-millions-annually-ugsp-scholarships.md) — related
 - [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](nih-ugsp-operating-as-intended-career-milestones.md) — related
 - [NIH Undergraduate Scholarship Program scholars progress toward biomedical research careers at substantially higher rates than finalists who were not awarded scholarships](nih-ugsp-scholars-outpace-non-awarded-finalists.md) — related
+- [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — a broader claim this one bears on

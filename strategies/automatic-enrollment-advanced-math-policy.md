@@ -44,6 +44,8 @@ The report recommends that states address disparities in advanced math participa
 - [Automatically enroll high-performing sixth graders in advanced math, with parent opt-out, to circumvent educator bias in referral](automatic-enrollment-advanced-math-top-40-percent.md)
 - [State policy package to expand equitable access to advanced coursework: credit transparency, automatic enrollment with opt-out, fee removal, disaggregated data reporting, and belonging supports](ma-equitable-advanced-coursework-policy-package.md)
 - [State leaders should eliminate dual credit fees for all students and strengthen automatic enrollment policy implementation](eliminate-dc-fees-strengthen-acceleration-policies.md)
+- [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
+- [Automatic enrollment into advanced coursework with an opt-out option](automatic-enrollment-opt-out-advanced-coursework.md)
 
 ## Examples
 -

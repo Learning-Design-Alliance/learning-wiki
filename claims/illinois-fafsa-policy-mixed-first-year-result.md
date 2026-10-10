@@ -52,3 +52,5 @@ EdTrust's analysis of Illinois public high school FAFSA rates for the class of 2
 - [Indiana's FAFSA requirement coincided with a smaller completion decline (-2.9%) than the national average (-10%) during the chaotic 2024-25 FAFSA rollout](indiana-requirement-buffered-completion-decline.md) — related
 - [Immediate college enrollment among 2021 CPS graduates was 58.6%, with four-year enrollment recovering to pre-pandemic levels while two-year enrollment fell to 15.6%](cps-immediate-enrollment-2021-patterns.md) — related
 - [CPS four-year high school graduation rose to 84.0% in 2022, the highest rate in recent history, after a slight pandemic-related decline in 2021](cps-graduation-rate-84-percent-2022.md) — related
+- [Direct admissions policies paired with FAFSA requirements are associated with increased in-state college enrollment, as in Idaho's Campus Choice program](direct-admissions-increases-in-state-enrollment.md) — related
+- [State accountability systems that rank schools on FAFSA completion are perceived to penalize schools whose students pursue non-college pathways](fafsa-ranking-penalizes-noncollege-pathways.md) — related

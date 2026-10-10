@@ -49,3 +49,4 @@ Report's analysis of the competitive subgrant process; state allocations per ide
 - [McKinney-Vento funding per identified student rose only from $71 to $79 between 2010 and 2020 despite a 39% increase in identified students](mckinney-vento-inadequate-funding.md) — related
 - [Only four states (California, Massachusetts, New York, Washington) dedicate state funding specifically to students experiencing homelessness](only-four-states-dedicated-funding.md) — related
 - [School improvement grant awards are small relative to the scale of needed change, averaging about $100,000 per school in 2020-21](school-improvement-grants-small-average-100k.md) — related
+- [Approximately 57% of California students experiencing homelessness are enrolled in schools where more than 80% of students are eligible for free or reduced-price meals, compared with 34% of all students](homeless-students-concentrated-high-poverty-schools.md) — related

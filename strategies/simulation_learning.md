@@ -66,6 +66,7 @@ Simulations work because they make learners generate decisions and experience th
 - [Role-Play](acting-role-play.md) — the interpersonal subset of simulation, focused on perspective adoption rather than system dynamics
 - [Debate](debate.md) — structured adversarial role-taking without a simulated outcome system
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
+- [Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning](react-cycle-inquiry-based-learning.md)
 
 ## Related Elements
 - [Problem Scenario](../elements/problem-scenario.md) — the scenario frame that defines goals, constraints, and feedback

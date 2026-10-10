@@ -65,3 +65,4 @@ Subgroup analysis of 2018–19 CAASPP results by foster status, special educatio
 - [Academic achievement of students in foster care improved before the pandemic but lost all gains afterward, with only 19 percent meeting ELA standards in 2022–23](foster-care-achievement-pandemic-reversal.md) — related
 - [Each within-year school move is associated with lower CAASPP achievement among students in foster care](school-mobility-associated-lower-achievement.md) — related
 - [Statewide testing showed an achievement gap in mathematics and reading for Arizona students in foster care](foster-care-achievement-gap-aims.md) — related
+- [Students experiencing homelessness meet or exceed state achievement standards at far lower rates (29% ELA, 19% mathematics) than students statewide (48%, 37%)](homeless-students-lower-caaspp-achievement.md) — related

@@ -71,3 +71,4 @@ The review's synthesis of national attainment trends (table 1, ages 25-29) finds
 - [If current rates hold, 27 percent of current CPS ninth-graders will complete any college credential within 10 years (2019 PAI)](cps-2019-pai-27-percent-any-credential.md) — related
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
 - [Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations](urban-suburban-college-application-steps-gap.md) — related
+- [High school curricular rigor is the number one indicator of college completion, more influential than race, family income, or parent education](curricular-rigor-top-predictor-college-completion.md) — related

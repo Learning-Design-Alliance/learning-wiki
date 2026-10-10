@@ -44,3 +44,5 @@ An analysis of Louisiana school-level data on teacher and student race and ethni
 
 ## Related Claims
 - [In seven selected states, students of color substantially outnumber teachers of color in the student body versus the teacher workforce](state-student-teacher-diversity-gap.md) — related
+- [In California, 9.1% of schools have no teachers of color, and 3.0% of all students attend such schools](california-schools-without-teachers-of-color.md) — related
+- [In Michigan in 2018-19, 48.6% of schools had no teachers of color and 39.7% of students attended such schools](michigan-half-schools-no-teachers-of-color.md) — related

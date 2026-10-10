@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 43 claims (34 for, 6 mixed, 3 against) · 40 studies (12 review, 6 causal, 6 qualitative, 5 associational, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 6 of 40 report an effect size · 42 claims rest on one study
+> **Evidence** · 45 claims (35 for, 7 mixed, 3 against) · 42 studies (12 review, 7 causal, 6 associational, 6 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 7 of 42 report an effect size · 44 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -76,6 +76,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](../claims/toxic-stress-impedes-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](../claims/security-and-positive-feelings-support-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages](../claims/poor-assessment-practices-harm-students-anxiety-lost-time.md) [+M] — instruction changes it
+- [Anxiety shows positive concurrent associations with acceptance outcomes for AI-assisted English learning, and should not be read as uniformly negative or beneficial](../claims/anxiety-positive-concurrent-ai-english-acceptance.md) [~M] — learners who differ on it differ in outcomes
+- [Frustration under the contingent tutor sat between the answer-on-request assistant and the question-only tutor](../claims/contingent-tutor-frustration-between-baselines.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

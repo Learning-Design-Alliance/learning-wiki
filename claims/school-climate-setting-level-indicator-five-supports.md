@@ -67,3 +67,4 @@ The review states that Chicago schools receive setting-level indicator data from
 - [Only 50% of a school's 5Essentials score is explained by the previous year's score, indicating substantial year-to-year malleability of school climate](5essentials-score-only-half-explained-by-prior-year.md) — related
 - [Regulate-relate-reason sequence: students reason once regulated and feeling supported](regulate-relate-reason-sequence.md) — related
 - [Large majorities of Gateway students report feeling cared for, part of the school, safe, and connected](gateway-climate-survey-belonging.md) — related
+- [Bronxdale's 2017–18 school climate survey positive-response rates exceeded city high school averages on all surveyed indicators](bronxdale-climate-survey-exceeds-city-averages.md) — related

@@ -45,3 +45,4 @@ Listed among the study's key findings: the redesigned policy strengthened univer
 ## Related Claims
 - [Respondents identified five main areas of benefit from the redesigned principal preparation policy, including more rigorous selection and a more extensive competency-based internship](illinois-principal-preparation-five-benefit-areas.md) — a broader claim this one bears on
 - [Program representatives and statewide stakeholders were largely positive about the goals of Illinois' redesigned principal preparation policy](illinois-principal-preparation-stakeholders-positive-policy-goals.md) — related
+- [Ohio shows no evidence of stakeholder engagement, cultural competence training for hiring managers, or district-preparation partnerships for diverse hiring](ohio-gaps-stakeholder-input-and-hiring-diversity-investments.md) — related

@@ -45,3 +45,4 @@ Statewide LEA survey reported in the TK Facilities section. The report states LE
 ## Related Claims
 - [TK enrollment grew from 88,883 children in 2019–20 to 151,491 in 2023–24, while the share of eligible 4-year-olds enrolled declined to 59%](tk-enrollment-growth-uptake-decline.md) — related
 - [Most LEAs projected sufficient TK classroom space by 2025–26, though facilities remained a top implementation challenge for about one fourth of LEAs](tk-facilities-progress-and-challenge.md) — related
+- [California LEAs reported sufficient classroom space for projected UPK enrollment overall, yet facilities were the most cited implementation challenge, followed by staffing and sustainable funding](upk-facilities-staffing-funding-challenges.md) — related

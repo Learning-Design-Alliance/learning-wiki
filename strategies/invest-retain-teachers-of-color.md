@@ -47,6 +47,8 @@ The third policy lever is to invest in retaining teachers of color through impro
 - [Build high-retention, supportive pathways into teaching for candidates of color](high-retention-supportive-pathways-teachers-of-color.md)
 - [Six state-level strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
 - [Set clear numeric educator-diversity goals at the state, district, and teacher preparation levels with public progress reporting](statewide-educator-diversity-goals.md)
+- [Invest in high-quality induction and mentoring programs, which are associated with higher retention particularly for teachers of color](induction-mentoring-retention-teachers-of-color.md)
+- [Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring](retain-teachers-of-color-residencies-affinity-mentoring.md)
 
 ## Examples
 -

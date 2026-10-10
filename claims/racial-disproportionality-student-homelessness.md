@@ -44,3 +44,4 @@ The report's background synthesis of research on disproportionality, attributing
 
 ## Related Claims
 - [Student homelessness disproportionately affects Black students, LGBT youth, English learners, and students with disabilities](homelessness-disproportionate-groups.md) — possibly the same claim (merge candidate)
+- [Approximately 57% of California students experiencing homelessness are enrolled in schools where more than 80% of students are eligible for free or reduced-price meals, compared with 34% of all students](homeless-students-concentrated-high-poverty-schools.md) — related

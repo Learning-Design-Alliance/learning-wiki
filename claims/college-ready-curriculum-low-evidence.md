@@ -47,3 +47,4 @@ The panel's review of course-taking studies for Recommendation 1. Six studies po
 - [Three of four DCPS high schools mandating AP enrollment had higher AP exam taking and passing rates after the mandate, but passing rates remained generally low](ap-mandate-higher-taking-passing-rates-low.md) — related
 - [Students who received the personalized AP message were more likely to take an AP exam and passed a higher number of exams, making them eligible for college credit](personalized-ap-message-increases-exam-taking-and-passing.md) — related
 - [Course availability can disrupt community college students' educational trajectories](course-availability-disrupts-community-college-trajectories.md) — related
+- [Completing the recommended number of core academic courses does not ensure college preparation because the New Basics curriculum does not specify course content](core-course-completion-not-college-preparation.md) — related

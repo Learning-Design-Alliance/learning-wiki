@@ -48,3 +48,4 @@ Quasi-experimental comparison of students in well-matched postsecondary enrollme
 - [The study also examines persistence in college over the first two postsecondary years](kipp-study-examines-college-persistence-two-years.md) — related
 - [Well-matched postsecondary enrollment NSI increased FAFSA completion by 3 to 5 percentage points but did not increase college enrollment rates](postsecondary-enrollment-nsi-fafsa-gains-no-enrollment-change.md) — possibly the same claim (merge candidate)
 - [Find the Fit did not affect the share of students completing the FAFSA early](find-the-fit-no-effect-early-fafsa-completion.md) — related
+- [Direct admissions policies paired with FAFSA requirements are associated with increased in-state college enrollment, as in Idaho's Campus Choice program](direct-admissions-increases-in-state-enrollment.md) — related

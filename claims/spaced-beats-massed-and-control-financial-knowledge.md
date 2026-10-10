@@ -48,3 +48,4 @@ Pairwise comparisons from the same field experiment's final assessment (mean ret
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
+- [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](adaptive-retrieval-posttest-retention-advantage.md) — related

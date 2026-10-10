@@ -39,6 +39,7 @@ The report's closing recommendations for federal, state, and district policymake
 ## Related Strategies
 
 - [Four-part policy strategy: increase funding, revise allocation formulas, expand allowable uses, and improve spending data](homeless-student-funding-policy-strategy.md)
+- [Dedicate more staff time to homeless liaison responsibilities and designate school-site liaisons to improve identification and reengagement](school-site-liaisons-identification-homeless-students.md)
 
 ## Examples
 -

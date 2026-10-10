@@ -68,3 +68,4 @@ Exhibit 3 (Partnership Lead Survey, n=26) shows low uptake of IHE-focused cost s
 - [The primary difference between eligible LEAs that received Title VII funding and eligible LEAs that did not was knowledge about the Title VII program](knowledge-gap-primary-barrier-title-vii.md) — related
 - [Alder's financial model combines grants, tuition, and LEA contributions, targeting 70–80% tuition funding by 2026–27 while keeping tuition low](alder-diversified-financial-model.md) — related
 - [Only 6 of 24 TRGP-participating IHEs enrolled at least 20 TRGP-funded residents in 2022-23, below the cohort size experts suggest is needed for sustainable, affordable programs](ihe-resident-cohorts-below-sustainability-threshold.md) — related
+- [Emergency aid programs rely primarily on private donations and grants, creating scarce, unstable funding and uneven capacity across campuses](emergency-aid-philanthropy-funding-instability.md) — related

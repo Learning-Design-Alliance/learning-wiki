@@ -21,6 +21,7 @@ A biennial school- and district-level dataset collected and maintained by the U.
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Civil Rights Data Collection (CRDC) teacher access measures, 2014 and 2016**: The Civil Rights Data Collection is a biennial survey of all U.S. public schools and districts collected by the Department of Education's Office for Civil Rights since 1968. The report uses the 2013–14 and 2015–16 waves, linked to the NCES Common Core of Data for locale, covering "a total of 92,602 schools serving more than 49 million students". It measures FTE teachers who are certified and in their first or second year, enabling school-level equity comparisons. (Cardichon et al. (2020))
+- **Civil Rights Data Collection (CRDC) as a source for measuring school-level access to advanced courses**: The Civil Rights Data Collection is a biennial dataset from the U.S. Department of Education's Office for Civil Rights, collected "every 2 years from all public schools and school districts in the United States since 1968." The 2017-18 dataset covers "17,604 school districts, 97,632 schools, and 50.9 million students." The report uses it, combined with the Common Core of Data, to compare advanced course offerings across school demographic quintiles at national and state levels. (Leung et al. (2020))
 
 ### Claims
 - [In 2016, schools with high enrollment of students of color were four times as likely to employ uncertified teachers as schools with low enrollment of students of color](../claims/high-student-of-color-schools-four-times-uncertified-teachers.md) [+M]
@@ -31,3 +32,4 @@ A biennial school- and district-level dataset collected and maintained by the U.
 
 ## Key Sources
 - Cardichon, J., Darling-Hammond, L., Yang, M., Scott, C., Shields, P. M., & Burns, D. (2020). Inequitable opportunity to learn: Student access to certified and experienced teachers. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/crdc-teacher-access
+- Leung, M., Cardichon, J., Scott, C., & Darling-Hammond, L. (2020). Inequitable opportunity to learn: Access to advanced mathematics and science courses. Learning Policy Institute. https://learningpolicyinstitute.org/product/crdc-course-access

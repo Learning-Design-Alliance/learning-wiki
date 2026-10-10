@@ -48,3 +48,4 @@ This is the brief's own conceptual argument for the Balance criterion, not a tes
 - [Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys](civic-competence-four-epistemological-components.md) — related
 - [Measuring SEL involves a tradeoff between measuring narrower discrete skills and measuring broader competencies](sel-measurement-narrow-skills-versus-broad-competency-tradeoff.md) — related
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
+- [The Business Case Discussion gives admissions readers evidence of applicants' business mindsets, defined as cognitive and intrapersonal skills rather than business expertise](business-case-discussion-reveals-business-mindsets.md) — related

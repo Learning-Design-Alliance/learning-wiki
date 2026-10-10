@@ -47,3 +47,4 @@ Mixed-methods one-shot study: 17 ESL students in a university EAP class trained 
 - [Among TAM constructs, result demonstrability, intention to use, and ease of use received the highest ratings while output quality was lowest](tam-construct-means-asr-writing-study.md) — a narrower finding that bears on this claim
 - [Interviews reveal ESL learners valued ASR for bypassing orthography and grammar concerns, pronunciation practice, self-efficacy, and user-friendly voice commands](interviews-asr-ease-and-speaking-benefits.md) — related
 - [Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness](low-proficiency-intelligibility-barrier-asr.md) — related
+- [In a user study with 12 participants, teachers rated AdaPT positively across all dimensions, with mean ratings above the neutral baseline of 4](adapt-user-study-positive-ratings.md) — related

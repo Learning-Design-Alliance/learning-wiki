@@ -44,3 +44,5 @@ Descriptive survey results on TK assessments (Table 5). LEA-developed assessment
 
 ## Related Claims
 - [Most LEAs used multiple TK curricula and play-based, developmentally appropriate strategies, but 20% still used kindergarten curriculum in TK classrooms](tk-curriculum-and-sel-practices-2023-24.md) — related
+- [California's four largest districts planned rapid, comprehensive TK rollout including early admittance, full-day TK, dual language programs, and established assessments](four-largest-districts-comprehensive-upk.md) — related
+- [Two thirds of California LEAs assessed TK learning with LEA-based grade-level benchmarks and report cards rather than established early childhood assessments](lea-based-benchmarks-dominant-tk-assessment.md) — reports the opposite

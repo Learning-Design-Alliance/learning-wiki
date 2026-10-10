@@ -49,3 +49,4 @@ Expert-panel discussion at a facilitated online convening; the report records th
 - [Across 28 K-12 AI pilot projects, AI demonstrated success at categorizing and coding datasets, translating language, and triangulating qualitative findings with quantitative data](ai-success-coding-datasets-translation-triangulation.md) — related
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
 - [Training constraints during AI development create potential biases that may be amplified by the population data used](ai-training-constraints-create-potential-biases.md) — related
+- [AI-based proctoring systems trained on western behavioural norms may exacerbate cultural and social challenges in non-English-speaking regions](ai-proctoring-western-norms-cultural-bias.md) — a narrower finding that bears on this claim

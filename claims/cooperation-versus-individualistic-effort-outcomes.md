@@ -52,3 +52,4 @@ The project report's rationale section asserts this as established by research o
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
 - [Cell-Ed micro-module learners showed significantly higher self-esteem scores than a control group](cell-ed-learners-higher-self-esteem.md) — a narrower finding that bears on this claim
 - [Instructional practices aligned to the Belonging MDP were associated with significant declines in students' perceptions that science required too much effort or threatened self-esteem](belonging-mdp-reduces-effort-and-threat-perceptions.md) — related
+- [The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices](liara-outcomes-validate-framework.md) — related

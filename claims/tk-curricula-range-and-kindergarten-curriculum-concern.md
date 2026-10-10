@@ -64,3 +64,4 @@ Survey trend analysis (Table 4). Of 256 LEAs using kindergarten curriculum, 125 
 ## Related Claims
 - [Most LEAs used multiple TK curricula and play-based, developmentally appropriate strategies, but 20% still used kindergarten curriculum in TK classrooms](tk-curriculum-and-sel-practices-2023-24.md) — related
 - [A growing share of LEAs adopted social-emotional and developmentally appropriate strategies, led by play-based learning at 82%](tk-sel-strategies-adoption-growth.md) — related
+- [California TK classrooms most commonly used social-emotional and literacy-specific curricula, but about a quarter of LEAs used kindergarten curriculum in TK](tk-curricula-domain-specific-and-kindergarten-misalignment.md) — related

@@ -46,3 +46,4 @@ The report's review of salary data found Michigan's inflation-adjusted teacher s
 - [After accounting for teacher and school characteristics, each $1,000 increase in cost-of-living-adjusted salary is associated with about a 0.34 percentage-point decrease in turnover probability](salary-associated-with-lower-turnover.md) — related
 - [Teacher attrition rose from 5.1% in 1992 to 8.4% in 2005 and has hovered around 8% since](teacher-attrition-increase-since-1992.md) — related
 - [Districts' prior-year teacher turnover was negatively associated with certification rates, and certification rates tend to be higher where beginning teacher salaries are higher](turnover-and-salary-associated-with-certification.md) — related
+- [State average starting teacher salaries in 2019-20 spanned bands from below $35,000 to $50,000 or above](state-starting-salaries-span-bands-2019-20.md) — related
