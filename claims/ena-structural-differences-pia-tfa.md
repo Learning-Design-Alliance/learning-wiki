@@ -46,3 +46,4 @@ Epistemic network analysis compared structural connections of deliberative codes
 - [PIA and TFA clusters differ significantly in both deliberative and regulatory interaction proportions](pia-tfa-significant-differences-chi-square.md) — related
 - [PIA groups follow a strategic generate-options-to-implement cycle with fewer random idea attempts, while TFA groups loop through repeated metacognitive interactions and unproductive idea testing](pia-strategic-cycle-tfa-random-ideas.md) — related
 - [Two distinct group deliberation patterns emerge in response to regulation triggers: the Plan and Implementation Approach (PIA) and the Trials and Failure Approach (TFA)](pia-tfa-deliberation-patterns-ssrl.md) — related
+- [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related

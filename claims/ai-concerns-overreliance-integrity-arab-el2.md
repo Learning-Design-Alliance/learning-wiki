@@ -59,3 +59,5 @@ The review's cross-study synthesis reports recurring concerns about generative A
 - [Survey items on critical evaluation and validation of ChatGPT outputs (Q11–Q13) received the lowest scores in both courses despite explicit validation instructions](critical-evaluation-items-lowest-scores.md) — related
 - [ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — related
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — related
+- [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
+- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related

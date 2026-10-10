@@ -46,3 +46,4 @@ Sub-dimension paired-sample t-tests on the cohort's CCTDI-adapted scores after t
 - [Cognitive Maturity disposition scores significantly declined during the WISE Agent intervention, interpreted as de-centering of naive optimism](wise-agent-cognitive-maturity-decline.md) — related
 - [Critical thinking improvement differed by proficiency level: high-level students gained 18%, intermediate 12%, and low-level 8%, with asymmetric feedback adaptation](wise-agent-differential-proficiency-trajectories.md) — related
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related
+- [AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)](ai-paradox-critical-awareness-overestimation.md) — related

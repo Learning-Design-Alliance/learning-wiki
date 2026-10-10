@@ -69,3 +69,4 @@ Same study's hint-timing analysis: Adaptive students requested hints after a med
 - [Adaptive-condition students complete the posttest in significantly less time than Control students](adaptive-proactive-hints-less-posttest-time.md) — related
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
 - [The AI-fallibility warning did not significantly change error rate or time spent per problem-solving step](ai-fallibility-warning-no-performance-effect.md) — related
+- [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related

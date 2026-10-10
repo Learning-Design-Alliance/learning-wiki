@@ -75,6 +75,7 @@ Progressive disclosure manages intrinsic load by preventing the simultaneous pre
 **[Khan Academy](https://www.khanacademy.org)** — mastery-based unit progression: hints and later lessons are revealed only after earlier exercises, with each hint itself a partial disclosure of the full solution.
 
 **[Codecademy](https://www.codecademy.com)** — early lessons expose only a minimal API surface; additional language features and tooling appear in later modules as prerequisite fluency is established.
+- [Use staged disclosure with early educator-authored content to buffer some LLM diagnostic errors](../strategies/staged-disclosure-buffers-diagnostic-errors.md)
 
 ## Key Sources
 - Mayer, R. E., & Chandler, P. (2001). When learning is harder than it has to be: Simultaneous, successive, and segmented multimedia presentations. *Journal of Educational Psychology, 93*(3), 638–650.

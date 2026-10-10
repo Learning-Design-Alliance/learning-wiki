@@ -49,3 +49,4 @@ OLS regression with cluster-robust SEs on session (530 turn-pairs, 40 AVP sessio
 - [The deployed empirically motivated weight vector outperforms equal, empathy-only, and exploration-only weightings in evaluator agreement, with exploration carrying most of the adaptive signal](avp-weight-ablation-exploration-dominant.md) — related
 - [Post-session subjective ratings favored the adaptive system for the expressive persona but showed a reversed adaptivity disadvantage for the guarded persona](avp-subjective-ratings-persona-divergence.md) — related
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
+- [In a self-selected survey, students favored delayed disclosure and agency, but 39.3% found the system too indirect and 42.9% reported repetition](staged-feedback-survey-perceptions.md) — related

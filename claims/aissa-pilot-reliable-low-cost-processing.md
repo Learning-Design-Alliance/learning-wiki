@@ -47,3 +47,5 @@ Pilot deployment at Universidad Autónoma de Madrid with 46 final-year undergrad
 - [Interviewed students adopted an iterative upload–review–revise workflow and perceived the AI feedback as fair and highly useful, though some disregarded recommendations conflicting with their design intent](aissa-students-iterative-use-selective-uptake.md) — related
 - [The article identifies four open directions: human-teacher agreement, pedagogical impact, LLM pipeline refinement, and selective feedback uptake](aissa-future-work-four-directions.md) — related
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
+- [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](ai-grading-workflow-feasibility-cost.md) — related
+- [Simulated role play sessions cost $0.05-$0.10 each in the EducaSim deployment](educasim-low-cost-per-session.md) — related

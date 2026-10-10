@@ -46,3 +46,4 @@ Authors' recommendation grounded in the study's site observations and cited blen
 - [Adult education programs implement technology along a spectrum of blended learning models, often multiple models within one program](adult-ed-blended-spectrum-multiple-models.md) — related
 - [Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation](districts-lack-blended-learning-evidence-and-implementation-guidance.md) — related
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
+- [Technical confidence using digital learning tools is positively associated with lower distraction levels among online learners](technical-competency-associated-lower-distraction.md) — related

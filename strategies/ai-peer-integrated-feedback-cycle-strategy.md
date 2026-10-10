@@ -51,6 +51,8 @@ The article's implementable procedure: students draft an essay, submit it to Cha
 - [Peergrade](peergrade.md)
 - [Integrate AI feedback as a supportive resource within process-oriented drafting cycles, with explicit guidance on critical evaluation](ai-feedback-process-writing-integration-strategy.md)
 - [Use ChatGPT as a supplementary tool for grammar, writing, and conversational practice so teachers can focus on higher-order thinking skills, while integrating human interaction to offset emotional detachment](chatgpt-supplementary-tool-human-interaction-balance.md)
+- [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
+- [Classroom exercise cycle: select a task, formulate a baseline prompt, submit it to an LLM, then critically analyse the output before revising instructions](prompt-analyse-revise-classroom-exercise.md)
 
 ## Examples
 -

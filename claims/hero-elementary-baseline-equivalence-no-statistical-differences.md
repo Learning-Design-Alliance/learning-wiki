@@ -57,3 +57,4 @@ Baseline equivalence analysis reported in the participant characteristics sectio
 - [Propensity score matching produced comparison groups equivalent at baseline (within +/- 0.25 standard deviations) on all pretest achievement measures across the three QEDs](propensity-matching-baseline-equivalence-magnet-qeds.md) — related
 - [Within-group achievement gains were significant for the CCCT group but not for the control group](ccct-within-group-achievement-gain.md) — related
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
+- [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related

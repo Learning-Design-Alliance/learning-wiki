@@ -56,3 +56,4 @@ The paper's most important methodological caution is built into its own framing:
 - [Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning](emotions-critical-to-learning-leverage-in-design.md) — a broader claim this one bears on
 - [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](ai-scaffolding-developmental-impact-conditional.md) — related
 - [Productive failure, problem-solving before instruction, shows a measured benefit of about d = 0.36 rising to about 0.58 at high design fidelity (as reported)](productive-failure-problem-solving-before-instruction-effect.md) — related
+- [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related

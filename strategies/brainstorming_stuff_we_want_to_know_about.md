@@ -39,3 +39,7 @@ Brainstorming learner questions converts curiosity into a durable instructional 
 - **KWL charts** — a lightweight variant where "What do we Want to know?" is one column of a reading-comprehension routine, revisited in the "What did we Learn?" column
 - **Question Formulation Technique (QFT)** — learners produce, refine, and prioritize their own questions in a structured protocol, shifting ownership of question quality to students
 - **Driving Question Boards** — in phenomenon-based science curricula, the class list is organized around an anchoring phenomenon
+
+## Related Strategies
+
+- [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)

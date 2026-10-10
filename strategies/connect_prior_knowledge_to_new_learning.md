@@ -77,12 +77,14 @@ Prior knowledge is the single strongest predictor of new learning; learners comp
 6. Revisit and revise the initial knowledge display at lesson's end so learners see how their understanding changed.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the retrieval-focused subset of this strategy
 - [Use Analogies](use-analogies.md) — the primary mechanism for mapping familiar to unfamiliar
 - [Use Advance Organizers](use-advance-organizers.md) — structural framing before instruction
 - [Use Pre-Questions](use-pre-questions.md) — retrieval prompts that potentiate subsequent learning
 - [Activate Background Knowledge](../strategies/activate_background_knowledge.md) — classroom routine variant emphasizing learner experience sharing
 - [Accessing Students' Background Knowledge](../strategies/accessing_students_background_knowledge.md) — diagnostic and culturally responsive variant
+- [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 
 ## Examples
 - **[Anchored Instruction (Jasper Woodbury series)](https://peabody.vanderbilt.edu/projects/funded/jasper/)** — video-based adventures anchor new mathematical reasoning in a rich, familiar story context, requiring students to connect existing knowledge to the problem.

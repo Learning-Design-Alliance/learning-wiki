@@ -59,3 +59,4 @@ In a controlled experiment comparing student-generated underlining with experime
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — poorly selected marks act as irrelevant material that diverts attention
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — well-placed marks can segment text, a mechanism independent of who marks
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related
+- [Students who experienced annotation subjectivity firsthand most frequently requested ways to reduce disagreement, indicating they had not internalised disagreement as meaningful signal](students-request-eliminating-disagreement.md) — related

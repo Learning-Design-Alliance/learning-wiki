@@ -42,6 +42,7 @@ The report recommends an iterative approach in which researchers use existing da
 - [Plan an extended feasibility phase in which research and platform teams jointly refine design, implementation, and logistics](extended-feasibility-phase-dlp-research.md)
 - [Phase the intervention through cohorts that move from development to usability/feasibility testing to efficacy testing](phased-cohort-development-usability-efficacy-testing.md)
 - [Phased iterative testing: optimization testing before efficacy testing before statewide scale-up](phased-optimization-efficacy-scale-up-testing.md)
+- [Retrain and evaluate the wellness system on locally collected, clinically validated data, then run a formal user evaluation before wider deployment](local-dass21-recollection-and-formal-user-evaluation-strategy.md)
 
 ## Examples
 -

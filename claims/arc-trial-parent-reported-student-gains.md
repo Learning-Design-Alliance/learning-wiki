@@ -45,3 +45,4 @@ Parent proxy survey (n=4) of three new rural FLL teams in the ARC trial, reporte
 
 ## Related Claims
 - [In an ARC trial deployment, undergraduate mentors' retrospective pre-then-post ratings of teaching confidence and community connection increased substantially](arc-trial-undergraduate-mentor-confidence-gains.md) — related
+- [Playful and creative engagement with robots supported students' learning of robotics and AI, including recognizing that robot behavior is driven by sensor data rather than human-like perception](playful-exploration-supports-robotics-ai-learning.md) — related

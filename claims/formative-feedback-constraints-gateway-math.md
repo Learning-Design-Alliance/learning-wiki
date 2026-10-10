@@ -48,3 +48,4 @@ Secondary qualitative finding from the gateway math faculty and student study. T
 - [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — related
 - [Students struggle to manage math assignments alongside busy schedules, and faculty need efficient grading, due-date, and extension tools](task-time-management-gateway-math.md) — related
+- [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md) — related

@@ -78,6 +78,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 **Saxon Math** — Published curriculum built on "incremental development": small increments of new content with continuous distributed review of earlier material, exemplifying sequencing plus mastery maintenance.
 - [Introduce Piagetian activities simply, one variable at a time, with ample time and repetition](../strategies/one-variable-at-a-time-activity-introduction.md)
 - [Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued](../strategies/incremental-free-tier-ai-adoption-with-triple-review.md)
+- [Scaffold GenAI learning activities and assessments progressively across all undergraduate levels](../strategies/scaffolded-genai-activities-assessments-across-levels.md)
 
 ## Key Sources
 - Posner, G. J., & Strike, K. A. (1976). A categorization scheme for principles of sequencing content. *Educational Psychologist, 12*(1), 77–86. [doi:10.2307/1169945](https://doi.org/10.2307/1169945)

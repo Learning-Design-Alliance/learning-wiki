@@ -64,6 +64,7 @@ Student voice strategies work because they convert learners from recipients to s
 - Culturally responsive teaching — the broader pedagogical stance that makes student voice an equity practice rather than a classroom management technique
 - Youth participatory action research — the most structurally ambitious form of student voice, in which students own the full inquiry cycle
 - [Use culturally responsive practices to make preschool learning relevant for children from all backgrounds](culturally-responsive-preschool-practices.md)
+- [Invite students to design costumes and narratives for their robots as legitimate epistemic engagement](robot-costume-narrative-design-strategy.md)
 
 ## Examples
 - **Podcast/documentary units**: students produce audio stories about their neighborhoods and family histories, published to a public feed — voice as authored media rather than classroom talk.

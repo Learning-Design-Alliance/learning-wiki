@@ -71,3 +71,4 @@ Test-retest reliability with alternate forms across consecutive windows (Table 4
 - [Marginal reliabilities for Spanish MAP Growth Reading are in the 0.90s across all grades](spanish-map-reading-marginal-reliability-090s.md) — related
 - [Spanish MAP Growth Reading test-retest reliability ranges from 0.50 at Grade K to 0.83 at Grade 5, with no estimate for Grades 6–8](spanish-map-reading-test-retest-reliability-050-083.md) — related
 - [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related
+- [AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)](ai-grading-run-to-run-reliability-icc.md) — related

@@ -49,3 +49,4 @@ Confirmatory factor analysis of survey responses from 1,253 students at a Colomb
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [The three-dimension instructional design competence model fits the empirical data acceptably in CFA](idc-model-acceptable-cfa-fit.md) — related
 - [Student engagement with WCF is the current research hotspot, with engagement analyzed as cognitive, affective and behavioral dimensions](student-engagement-wcf-hotspot-tripartite.md) — related
+- [Both scales showed acceptable-to-good confirmatory factor fit in this sample](aias-jsas-confirmatory-fit-health-students.md) — related

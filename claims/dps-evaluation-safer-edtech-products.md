@@ -48,3 +48,4 @@ Qualitative case-study finding from interviews with district staff and leaders d
 - [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
 - [Seven state AI guidance documents share seven major themes, including human-centered use, AI literacy, equity, and data privacy, though not all themes appear in all documents](seven-state-ai-guidance-seven-common-themes.md) — related
 - [Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars](denver-cross-functional-review-shrunk-edtech-portfolio.md) — related
+- [EdTech organizations delegate privacy responsibility to cloud providers, policy documents, and downstream institutions, diffusing accountability](edtech-privacy-responsibility-delegated-diffused.md) — related

@@ -67,3 +67,4 @@ Correlational analysis of Qualtrics trace data and task scores. The article repo
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [Puzzlets gameplay showed problem-solving progress on debugging tasks, and collaboration improved after the teacher introduced driver-passenger role strategies](puzzlets-debugging-progress-and-collaboration-growth.md) — related
 - [Introducing CT as a problem-solving approach that often involves digital technology helped teachers](introduce-ct-as-problem-solving-approach.md) — related
+- [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related

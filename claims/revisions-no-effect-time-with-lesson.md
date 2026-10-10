@@ -45,3 +45,4 @@ ANOVA on total seconds spent with the lesson. The article notes that, based on t
 
 ## Related Claims
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related
+- [AI access shifts learning-time composition away from writing toward reading and searching, with total learning time unchanged](genai-shifts-time-from-writing-to-research.md) — related

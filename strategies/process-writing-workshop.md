@@ -67,6 +67,7 @@ The workshop's effectiveness rests on separating the cognitively demanding subpr
 - [3-2-1 Reflection](3-2-1_reflection.md) — a lightweight closure routine for the sharing phase
 - [Sentence Combining](sentence-combining.md) — an explicit mini-lesson strategy with strong meta-analytic support that slots into step 1
 - [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
+- [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
 
 ## Examples
 - **Teachers College Reading & Writing Project (Calkins Units of Study)** — the most widely implemented workshop curriculum; K–8 sequences of mini-lessons, conferring, and published celebrations ([https://readingandwritingproject.org](https://readingandwritingproject.org))

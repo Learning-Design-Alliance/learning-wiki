@@ -46,6 +46,7 @@ The article recommends that higher education leadership move beyond widely embra
 - [Plan frequent policy updates and adapt instructional methods for AI integration](frequent-policy-updates-and-instructional-adaptation-genai.md)
 - [Address responsible design, learner experience, equity, validity, and relational assessment practice when implementing AI-agent-supported assessment](responsible-design-considerations-ai-assessment.md)
 - [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
+- [Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies](test-ai-tools-real-university-settings-measure-impact.md)
 
 ## Examples
 -

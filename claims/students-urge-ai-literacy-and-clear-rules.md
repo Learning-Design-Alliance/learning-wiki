@@ -52,3 +52,4 @@ Final questionnaire question, "What should higher education institutions do abou
 - [First-year MA translation students adopt a cautious, pragmatic approach to GenAI, combining NMT for drafting with LLMs for support tasks](ma-students-cautious-pragmatic-genai-use.md) — related
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related
 - [Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education](genai-hybrid-policy-guidelines-governance-consensus.md) — related
+- [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](nursing-academics-report-genai-policy-ambiguity.md) — related

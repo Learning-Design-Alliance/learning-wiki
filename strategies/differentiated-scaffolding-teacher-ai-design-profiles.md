@@ -44,6 +44,8 @@ The article recommends tailoring support to teacher profiles: "Cluster 3 require
 
 - [Agile pedagogical strategies: interactive notebooks, bootcamps, and sustained educator professional learning](agile-mi-pedagogical-strategies-notebooks-bootcamps.md)
 - [Differentiate CT scaffolding by initial CT level: open-ended challenges for moderate-CT, constraint-based tasks for high-CT, structured pathways for low-CT learners](differentiated-scaffolding-by-initial-ct-level.md)
+- [Tailor institutional GenAI training to teachers' prior GenAI use experience](experience-tailored-genai-teacher-training.md)
+- [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](practice-oriented-case-based-ai-professional-development.md)
 
 ## Examples
 -

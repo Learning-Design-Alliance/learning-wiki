@@ -46,3 +46,5 @@ Grounded-coding finding from the Delphi panel's qualitative responses: "Academic
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges](self-reported-cheating-rates-college-high-school.md) — related
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related
+- [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](genai-misconduct-linked-to-professional-conduct.md) — related
+- [A significant concern for business students is wanting to use GenAI in academic work without unintentionally committing academic misconduct](student-concern-unintentional-genai-academic-misconduct.md) — related

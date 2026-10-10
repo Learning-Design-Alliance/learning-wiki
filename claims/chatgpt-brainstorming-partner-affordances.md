@@ -53,3 +53,4 @@ Qualitative analysis of video-recorded interviews with 5 Algebra 1 teachers who 
 - [A systematic review of 14 studies (8,305 participants) found AI-based tools enhanced comprehension, engagement, problem-solving, and critical thinking by personalizing learning experiences](ai-math-review-14-studies-outcomes.md) — related
 - [ChatGPT shows high success on open-ended general chemistry exam questions but lower accuracy at the university level, and unverified copying of its answers is a reported risk](chatgpt-accuracy-varies-by-question-level.md) — related
 - [ChatGPT improves programming learning outcomes when integrated through structured pedagogical frameworks and teacher facilitation](structured-chatgpt-integration-improves-programming-learning.md) — related
+- [Design-thinking practices with AI are uneven: iterative prompting is common while feedback collection and structured needs assessment are least developed](uneven-design-practices-feedback-gap.md) — related

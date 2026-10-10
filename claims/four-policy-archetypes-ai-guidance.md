@@ -48,3 +48,4 @@ Archetype analysis assigning the 30 audited packages to groups by the most visib
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Output-verification support is the least covered scenario in policy guidance](output-verification-thinnest-scenario.md) — related
 - [Safeguards in university AI policies are sparse and unevenly covered](safeguard-coverage-sparse-ai-policies.md) — related
+- [In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak](policy-audit-collection-strong-ai-accountability-weak.md) — related

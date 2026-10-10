@@ -92,6 +92,7 @@ Role play is a form of situated, active practice: it requires learners to *perfo
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 - [Debate](../patterns/debate.md) — a formalized role play with adversarial positions and explicit argument rules ([Argumentation](../elements/argumentation.md))
 - [Experiential Learning Cycle](../patterns/experiential-learning-cycle.md) — role play maps onto the cycle's "experience" phase; the debrief is the reflective phase
+- [Extend simulated teaching practice to student assessment and teacher screening uses](simulated-agents-assessment-and-screening-uses.md)
 
 ## Examples
 - **Corporate customer-service training** — agents rehearse handling an angry customer while a peer plays the customer from a brief; the debrief names specific de-escalation moves observed

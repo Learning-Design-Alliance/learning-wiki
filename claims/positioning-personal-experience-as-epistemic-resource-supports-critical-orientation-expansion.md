@@ -52,3 +52,4 @@ This is a single-site design-based study (evidence tier q2) without a comparison
 - [Inclusive CT learning engages students in critiquing bias in real technological systems](ct-enables-critique-of-algorithmic-bias.md) — related
 - [Curiosity about AI shifted between pre- and post-survey, from 71% to 50%, which the authors interpret as a move from diffuse curiosity to concrete critical engagement](curiosity-shifted-diffuse-to-critical.md) — related
 - [Students hold a generally critical stance toward media influence on their opinions, with traditional formats inspiring more trust than digital platforms](media-influence-perception-trust-formats.md) — related
+- [Daoism offers a more generative framework than Confucianism for thinking about education in an AI-shaped world because it pursues understanding of reality rather than social hierarchy](daoism-more-generative-than-confucianism-ai-education.md) — related

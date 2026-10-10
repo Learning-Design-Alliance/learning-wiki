@@ -50,3 +50,4 @@ This is a design proposal (§10, illustrated in Figure 2), not a tested result: 
 - [Traditional assessments are commonly perceived to suffer from student motivation deficits that gameful assessments propose to address](traditional-assessments-motivation-deficits.md) — related
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — related
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](students-report-peer-collaboration-supports-learning.md) — related
+- [The system has no empirical evaluation yet: profile accuracy has not been assessed and learning outcomes remain an open question](ecnuclaw-no-empirical-evaluation-yet.md) — related

@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (41 for, 7 mixed, 5 against) · 49 studies (13 review, 11 causal, 7 associational, 7 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 8 of 49 report an effect size · 52 claims rest on one study
+> **Evidence** · 58 claims (46 for, 7 mixed, 5 against) · 51 studies (13 review, 11 causal, 9 associational, 7 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 10 of 51 report an effect size · 57 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -86,6 +86,11 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [An LLM-based Q&A practice system reduced presentation anxiety and improved perceived preparedness among first-time conference participants](../claims/llm-qa-practice-reduces-presentation-anxiety.md) [+M] — instruction changes it
 - [Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging](../claims/llm-assistant-boosts-debugging-confidence.md) [+M] — instruction changes it
 - [Teaching a ChatGPT agent does not significantly change students' test anxiety](../claims/chatgpt-teaching-test-anxiety-no-difference.md) [-M] — instruction changes it
+- [AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students](../claims/ai-anxiety-negative-correlations-career-variables.md) [+M] — learners who differ on it differ in outcomes
+- [AI anxiety directly and negatively predicts college students' career decisions](../claims/ai-anxiety-negatively-predicts-career-decisions.md) [+M] — learners who differ on it differ in outcomes
+- [AI anxiety is positively and significantly correlated with job search anxiety among health sciences students](../claims/ai-anxiety-correlates-job-search-anxiety-health-students.md) [+M] — learners who differ on it differ in outcomes
+- [AI anxiety predicts job search anxiety after controlling for socio-demographic variables](../claims/ai-anxiety-predicts-job-search-anxiety-beyond-demographics.md) [+M] — learners who differ on it differ in outcomes
+- [Career adaptability partially mediates the negative effect of AI anxiety on career decisions, accounting for 63.35% of the total effect](../claims/career-adaptability-mediation-ai-anxiety-career-decisions.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

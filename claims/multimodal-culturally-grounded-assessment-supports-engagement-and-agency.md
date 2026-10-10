@@ -54,3 +54,4 @@ This is a qualitative, design-based study conducted in informal community settin
 - [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](culture-based-programs-flourish-engagement.md) — related
 - [AI agents designed for specific educational purposes can support joyful assessment by creating low-stakes opportunities for practice, feedback, reflection, personalization, and multimodal demonstration of learning](ai-agents-support-joyful-assessment.md) — related
+- [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related

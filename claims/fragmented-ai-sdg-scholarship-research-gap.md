@@ -46,3 +46,6 @@ The authors' synthesis-based assessment of the field (Section 2.4), identifying 
 - [Existing institutional AI literacy frameworks converge on a consumer model with no substantive treatment of training data politics or governance participation](existing-ai-literacy-frameworks-consumer-model.md) — related
 - [Prominent existing AI literacy frameworks are not tailored to higher education](ai-literacy-frameworks-gap-higher-education.md) — a narrower finding that bears on this claim
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — a narrower finding that bears on this claim
+- [The review reports that AI positively contributes to 128 of the 169 SDG targets](ai-contributes-128-of-169-sdg-targets.md) — related
+- [Most AI-for-sustainability initiatives in higher education remain limited in scope, exploratory, and not integrated into institutional strategies](ai-sustainability-initiatives-limited-exploratory.md) — related
+- [Attention across the SDGs is uneven, with focus on SDG 9 but limited engagement with SDG 4 and SDG 14](uneven-sdg-attention-sdg9-versus-sdg4-sdg14.md) — related

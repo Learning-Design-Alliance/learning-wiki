@@ -48,3 +48,4 @@ Theoretical argument, not a tested result: the article formalizes Hypothesis 3 a
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — a narrower finding that bears on this claim
 - [A scaffolded AI Study Coach produced no assignment-performance or concept-inventory advantage over unrestricted AI use in a master's programming course pilot](scaffolded-coach-no-assignment-performance-advantage.md) — related
 - [Heavy reliance on generative AI can undermine learning: students with GPT-4 access performed better on practice problems but worse on exams once the tool was removed](gpt4-practice-gains-exam-loss-cognitive-debt.md) — a narrower finding that bears on this claim
+- [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related

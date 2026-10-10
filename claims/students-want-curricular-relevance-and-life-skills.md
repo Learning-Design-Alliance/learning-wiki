@@ -74,3 +74,4 @@ Same overview: students recognize durable skills like time management, collabora
 - [Students valued the independence, real-world relevance, hands-on work, and collaboration in challenge based lessons](students-valued-independence-and-real-world-relevance.md) — related
 - [Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas](frequent-job-changes-nonlinear-careers.md) — related
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
+- [Students' key areas of interest in GenAI are real-world business applications, ethical considerations, and future technological advancements](student-genai-interest-areas-applications-ethics-advancements.md) — related

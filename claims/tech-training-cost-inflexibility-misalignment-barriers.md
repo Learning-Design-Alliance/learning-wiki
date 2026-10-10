@@ -48,3 +48,4 @@ Qualitative thematic analysis of interview, survey, and design session data. Par
 - [Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure](black-tech-awareness-exploration-barriers.md) — related
 - [Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways](iei-implementation-gaps-boundary-conditions.md) — related
 - [Lack of childcare support, language barriers, unrecognized international degrees, and stigma shaped providers' educational pathways](identity-barriers-learning-while-parenting-language-credentials.md) — related
+- [A goal gap misaligns the measurable-performance aims promoted by current technologies with education's broader developmental aims](goal-gap-performance-vs-development.md) — related

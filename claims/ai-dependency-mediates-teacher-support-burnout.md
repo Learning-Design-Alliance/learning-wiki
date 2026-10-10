@@ -46,3 +46,4 @@ PROCESS Model 4 mediation with 5,000 bootstrap resamples in the same survey. The
 - [AI dependency mediates the relationship between academic self-efficacy and learning burnout](ai-dependency-mediates-self-efficacy-burnout.md) — related
 - [Trust in AI partially mediates the associations of both perceived AI empowerment and perceived AI threat with GenAI dependence](trust-in-ai-partially-mediates-appraisals-genai-dependence.md) — related
 - [AI dependency is positively associated with learning burnout among university students](ai-dependency-positively-associated-learning-burnout.md) — related
+- [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related

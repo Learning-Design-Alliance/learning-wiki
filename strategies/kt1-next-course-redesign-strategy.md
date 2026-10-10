@@ -43,6 +43,7 @@ The article's forward-looking plan for the next KT1 course: a written examinatio
 ## Related Strategies
 
 - [Redesign structurally: grade the reasoning behind AI-assisted work and teach AI-use rules and AI literacy explicitly](assessment-reasoning-ai-literacy-strategy.md)
+- [Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI](supervised-oral-process-based-assessment-redesign-genai.md)
 
 ## Examples
 -

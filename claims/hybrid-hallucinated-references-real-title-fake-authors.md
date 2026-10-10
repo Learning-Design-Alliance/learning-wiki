@@ -47,3 +47,4 @@ Discussion-section analysis of the 30 verified hallucinated references. The arti
 - [Among 828 manually coded matched references, the most common issue was ACM metadata mismatch (229 cases), followed by author-field errors (225 cases)](acm-metadata-mismatch-most-common-error.md) — related
 - [Publication volume and reference-list lengths in ACM computing education venues have grown over time, particularly since the mid-1990s](csed-publication-and-reference-growth.md) — related
 - [Verified hallucinated references at SIGCSE TS increased from 3 in the 2025 proceedings to 17 in the 2026 proceedings, appearing in 2.3% of 2026 papers](sigcse-ts-hallucinations-increased-2025-2026.md) — related
+- [Of 100 human-audited claims, 39 are fully verifiable, 55 partially verifiable, and 6 not verifiable, with main responses showing stronger provenance than follow-ups](human-audit-claim-verifiability.md) — related

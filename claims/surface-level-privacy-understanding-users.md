@@ -45,3 +45,4 @@ Interview evidence from the case study: faculty member Bob said "I don't know of
 ## Related Claims
 - [In one institution's early-stage learning analytics implementation, inductive coding of interviews and documents surfaced three privacy themes: FERPA compliance, role-based access and security measures, and students' relationship with their data](three-privacy-themes-student-success-system-case.md) — related
 - [The institution maintained privacy primarily through role-based access limiting data by user role and through technological security protocols such as single sign-on and encryption](role-based-access-and-security-privacy-methods.md) — related
+- [EdTech organizations delegate privacy responsibility to cloud providers, policy documents, and downstream institutions, diffusing accountability](edtech-privacy-responsibility-delegated-diffused.md) — related

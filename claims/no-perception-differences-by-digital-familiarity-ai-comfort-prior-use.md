@@ -50,3 +50,4 @@ Mixed-methods study of LLM use in team-based undergraduate projects; the reporte
 - [The study examined how LLMs affected group dynamics, idea generation, consensus building, and overall productivity in team-based projects](llm-effects-on-group-dynamics-idea-generation-consensus-productivity.md) — related
 - [LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use](llm-assistance-enhances-employee-creativity.md) — related
 - [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](coding-experience-correlates-ct-skills.md) — related
+- [Prior AI education shows no family-wise association with any baseline perception outcome, with at most small effect sizes, under both three-group and two-group codings](prior-ai-education-null-intake-feature.md) — related

@@ -46,3 +46,4 @@ Keystroke-log analysis over eight identical assignments from Fall 2024 and CS1-C
 - [Paste event counts stayed roughly constant while pasted characters rose, indicating students pasted larger blocks of AI-generated code](cs1-cr-paste-events-unchanged-larger-blocks.md) — related
 - [Student effort on assignments, measured by time-on-task and keystrokes, showed no evidence of decrease when AI use was allowed](cs1-cr-effort-unchanged-despite-ai.md) — related
 - [CS1-CR students reported overwhelmingly positive sentiment toward code reviews, with 65% agreeing they helped avoid over-reliance on AI and 90% reporting increased motivation to understand their code](cs1-cr-positive-sentiment-code-reviews.md) — related
+- [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related

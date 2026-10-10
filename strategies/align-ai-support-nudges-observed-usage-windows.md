@@ -40,6 +40,7 @@ The authors recommend that platform communication, reminders, and learning nudge
 ## Related Strategies
 
 - [Sustain tutoring participation, schedule it close to testing windows, and align content with classroom instruction to preserve gains](sustain-timing-alignment-tutoring-implementation.md)
+- [Address AI-use miscalibration through belief-level interventions rather than mere exposure or surface-level nudges](belief-level-interventions-ai-use-calibration.md)
 
 ## Examples
 -

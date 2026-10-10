@@ -49,3 +49,4 @@ Test-level RMSE analysis of the relative autonomy index across all 24 conditions
 - [LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses](llm-survey-responses-extreme-low-variability.md) — related
 - [Item-level discrepancies between LLM and human responses were higher for negatively worded BREQ items](llm-higher-discrepancy-negative-worded-items.md) — related
 - [LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst](llm-choice-affects-human-ai-coding-correspondence.md) — related
+- [The author reports that prompt phrasing and the specific foundational model had secondary impact on final material quality compared with the structure of the workflow itself.](workflow-architecture-outweighs-prompt-phrasing.md) — related

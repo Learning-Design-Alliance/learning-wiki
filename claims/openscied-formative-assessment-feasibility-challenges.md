@@ -66,3 +66,4 @@ Focus group vignette in which teachers described difficulty fitting OpenSciEd wo
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related
 - [Sesame Street is presented as a model of research-based educational media whose curriculum-plus-formative-and-summative-research model drove measurable impact](sesame-street-research-model-example.md) — related
 - [OpenSciEd curriculum design goals, especially coherence from the student perspective, come into tension during unit design](open-scied-design-tensions-coherence.md) — related
+- [A goal gap misaligns the measurable-performance aims promoted by current technologies with education's broader developmental aims](goal-gap-performance-vs-development.md) — related

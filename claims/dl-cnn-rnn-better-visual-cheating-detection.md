@@ -46,3 +46,4 @@ Comparative synthesis in the review's literature-analysis section contrasts CNN 
 - [Eye-gaze-tracking-based proctoring systems report cheating-detection accuracies around 95–98% in their original studies](eye-gaze-proctoring-detection-accuracy-95-98.md) — related
 - [Facial recognition models for proctoring report accuracies up to 99.21%, with limitations in dim-light and blurring conditions](facial-recognition-proctoring-accuracy.md) — related
 - [A multi-task CNN-LSTM diagnostic model with attention-based fusion achieves correlations of 0.887, 0.862, 0.824, and 0.793 with human expert ratings across four oral proficiency dimensions under speaker-independent testing](cnn-lstm-multitask-oral-diagnostic-accuracy.md) — related
+- [In the CNN 5-bus power-flow surrogate, pairing model capacity with sufficient training length improves voltage accuracy, and line flows are the more demanding test](cnn-powerflow-surrogate-capacity-training-length.md) — related

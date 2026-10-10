@@ -69,6 +69,8 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Reform academic governance through interventions on governance architectures, people, and technologies/resources](governance-reform-architectures-people-technologies.md)
 - [Design profession-level governance arrangements, modeled on Ostrom's commons mechanisms, to sustain expertise regeneration](profession-level-commons-governance-ostrom-mechanisms.md)
 - [Adopt a roadmap for ethical CAI implementation in education](roadmap-ethical-cai-implementation-education.md)
+- [Researcher-oriented GenAI guidelines that foreground each AI literacy dimension across diverse research tasks](researcher-oriented-genai-guidelines-ai-literacy-dimensions.md)
+- [Pursue sustainable AI integration in PBL through attention to design, ethics, and policy](sustainable-ai-pbl-integration-design-ethics-policy.md)
 
 ## Examples
 -

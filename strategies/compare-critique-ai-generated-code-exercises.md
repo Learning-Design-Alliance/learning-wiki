@@ -43,6 +43,7 @@ A concrete integration recipe in which instructors design ChatGPT-supported acti
 
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Integrate AI into university physics with instructional structure, task alignment, and critical evaluation of AI outputs](structured-integration-critical-evaluation-ai-physics.md)
+- [Classroom exercise cycle: select a task, formulate a baseline prompt, submit it to an LLM, then critically analyse the output before revising instructions](prompt-analyse-revise-classroom-exercise.md)
 
 ## Examples
 -

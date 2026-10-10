@@ -45,3 +45,4 @@ Qualitative thematic coding of mitigation strategies among respondents who flagg
 - [Data privacy mitigations centered on data governance and monitoring (68.9%), while technical reliability mitigations centered on human involvement (36.9%)](rfi-privacy-reliability-mitigation-distribution.md) — related
 - [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
+- [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — related

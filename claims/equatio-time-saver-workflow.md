@@ -46,3 +46,4 @@ Descriptive survey finding from the 332-respondent Equatio user survey, reported
 - [After focus-group professional learning, all nine teacher partners committed to trying Mathspace and reported broader, more integrated uses of Equatio](professional-learning-expanded-equatio-use.md) — related
 - [When all of a teacher's students had access to Equatio, teachers leveraged it in more robust workflows such as assessments, digital submissions, and timely feedback](universal-student-access-enables-robust-equatio-use.md) — related
 - [Most Equatio-using teachers were not using the tool to support UDL-based practices, with only about 22% reporting use of a given UDL affordance on average](equatio-udl-practice-low-baseline-usage.md) — related
+- [Teachers reported that rubric-aligned AI feedback saved time on repetitive comments, enabling focus on higher-order instruction](teachers-report-time-savings-higher-order-instruction.md) — related

@@ -47,3 +47,4 @@ The publication asserts, without presenting empirical data, that AI has transfor
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
 - [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
 - [Agent-based educational science is positioned as reconfiguring, not replacing, empirical educational research](aes-reconfigures-not-replaces-empirical-research.md) — related
+- [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](ai-enhances-teaching-administration-education.md) — related

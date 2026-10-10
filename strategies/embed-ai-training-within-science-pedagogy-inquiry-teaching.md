@@ -47,6 +47,7 @@ The article recommends that teacher educators go beyond general AI tool operatio
 - [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
 - [Redesign structurally: grade the reasoning behind AI-assisted work and teach AI-use rules and AI literacy explicitly](assessment-reasoning-ai-literacy-strategy.md)
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
+- [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 
 ## Examples
 -

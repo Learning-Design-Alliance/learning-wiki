@@ -50,3 +50,4 @@ ANOVA by level of governance participation (Table 5) in the 455-respondent surve
 - [Former participants desired more follow-up with their cohort and more support developing talent, managing resources, and cultivating organizational culture](kipp-leadership-participants-desire-more-support.md) — related
 - [Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation](implementation-depends-on-individual-initiative-not-systems.md) — related
 - [Teacher satisfaction is influenced more by school culture than by student demographics](school-culture-outweighs-demographics-teacher-satisfaction.md) — related
+- [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related

@@ -31,7 +31,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (5 for, 11 mixed) · 21 studies (7 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 21 report an effect size · 11 claims rest on one study
+> **Evidence** · 17 claims (5 for, 12 mixed) · 22 studies (7 review, 5 theoretical, 4 causal, 3 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 4 of 22 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -99,6 +99,7 @@ Several statements on the earlier page carried evidence markers with no claim be
 - [Positive Student Response Cross Cultural Activities](../claims/positive-student-response-cross-cultural-activities.md) [+M]
 - [Exercise of autonomy at one level may inhibit its development at another in early literacy learning](../claims/autonomy-at-one-level-may-inhibit-another.md) [~W] — attached 2026-10-07 from Dombey et al. (1999), which proposed "Treat autonomy as both the goal and the route of early literacy pedagogy".
 - [Learners who could decide after a trial whether to receive knowledge of results estimated their own movement outcomes more accurately in retention than Self-Before learners and their yoked counterparts.](../claims/self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy.md) [+W] — attached 2026-10-07 from Carter et al. (2014), which proposed "Let learners decide on feedback after performing, not before".
+- [External Mandate shows no significant direct relationship with Deep Revision Engagement](../claims/external-mandate-no-direct-effect-deep-revision.md) [~W] — attached 2026-10-10 from Li et al. (2026), which proposed "Cultivate AI prompting literacy and autonomy-supportive environments rather than relying on monitoring-based mandates".
 
 ## Objective and learner-valued goal
 

@@ -50,3 +50,4 @@ Mixed-effects multilevel regression of spring 2022 SCCS elementary student data 
 - [Educators rated their well-being and school climate perceptions as average, with grade-level-band differences in both](wellbeing-climate-average-scores-grade-band-differences.md) — related
 - [Elementary attendance and school climate improved over time at NLCI schools but not significantly more than at comparison schools](nlci-elementary-attendance-climate-not-significantly-different.md) — related
 - [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](relationship-centered-designs-beat-factory-model.md) — related
+- [Students reported significantly higher perception of instructor Caring on the MUSIC Inventory in Fall 2025 after DURA course updates](dura-updates-higher-music-caring-perception.md) — related

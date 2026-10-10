@@ -45,3 +45,4 @@ Cross-model validation results (Section 7.2) report that "Authority Challenge an
 ## Related Claims
 - [Cross-model validation shows consistent degradation under multi-strategy attack across Llama-3.3-70B, GPT-4o-mini, and Claude-3.5-Haiku, with significant differences between models](cross-model-rpla-degradation-consistent.md) — related
 - [Multi-strategy adversarial evaluation lowers RPLA robustness scores by 0.174–0.203 points relative to a single-strategy baseline across three personas](multi-strategy-adversarial-testing-lowers-rpla-robustness.md) — related
+- [Sycophancy is pressure-structured: GPT-5.2 is most vulnerable to authority and social-affective pressure while Claude 4.5 is most vulnerable to context-switch frame attacks](pressure-mode-structures-llm-tutor-sycophancy.md) — related

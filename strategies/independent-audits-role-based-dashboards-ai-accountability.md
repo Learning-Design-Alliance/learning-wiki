@@ -46,6 +46,7 @@ The brief recommends districts collaborate with states and partners to build eva
 - [Adopt a systems approach to AI integration rather than spotlights or gaps](systems-approach-to-ai-integration.md)
 - [Use shared frameworks, cross-district collaboration, and state-level policy alignment to scale AI-enabled edtech](shared-frameworks-cross-district-ai-edtech-scaling.md)
 - [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
+- [Procurement should demand operational privacy evidence and use the five-dimension audit rubric for comparison](procurement-operational-privacy-evidence-rubric.md)
 
 ## Examples
 -

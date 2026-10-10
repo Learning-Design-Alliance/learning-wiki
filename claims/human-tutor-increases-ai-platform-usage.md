@@ -47,3 +47,4 @@ ITT OLS regressions with strata fixed effects, covariates, and baseline achievem
 - [Human tutors increase elementary students' engagement (stories read) with an AI literacy platform by 71-80% relative to control](human-tutor-increases-ai-platform-engagement.md) — related
 - [Elementary students given access and scheduled time for an AI literacy platform use it minimally, with nearly half never using it](low-take-up-ai-literacy-platform-access-only.md) — related
 - [Effects of human support on AI platform usage vary substantially across implementation sites](site-variation-human-support-ai-platform-usage.md) — a broader claim this one bears on
+- [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related

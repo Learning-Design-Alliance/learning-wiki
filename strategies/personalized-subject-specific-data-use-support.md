@@ -45,6 +45,8 @@ Based on the finding that data use depends on both teacher characteristics and s
 - [Systemic, human-centred approach treating digital data use as a school-and-teacher system, with AI integrated into professional development](systemic-human-centred-data-use-approach.md)
 - [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](pr-eight-recommendations-technology-integration-support.md)
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
+- [Share discipline-specific GenAI examples aligned with instructional needs to improve teacher adoption](discipline-specific-genai-examples-strategy.md)
+- [Tailor institutional GenAI training to teachers' prior GenAI use experience](experience-tailored-genai-teacher-training.md)
 
 ## Examples
 -

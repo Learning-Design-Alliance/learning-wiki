@@ -46,3 +46,4 @@ Narrative synthesis of the 22 included studies' use cases. The review identifies
 - [ChatGPT and conversational robots are the most used AI tools in science and chemistry education research, with ChatGPT used in 50% of reviewed studies](chatgpt-conversational-robots-most-used-ai-tools.md) — related
 - [ChatGPT is the only LLM found in use in Arab university EL2 classrooms in the reviewed 2023–2025 studies, despite the review's aim to capture Gemini and DeepSeek](chatgpt-only-llm-in-arab-el2-studies.md) — a narrower finding that bears on this claim
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
+- [Educators use AI more for generative and content-oriented tasks than for evaluative or automated tasks](ai-usage-generative-over-evaluative.md) — reports the opposite

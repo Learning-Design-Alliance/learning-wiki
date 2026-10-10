@@ -45,3 +45,4 @@ Open-Ended & Authentic Task Design room, second hour. One participant argued AI-
 ## Related Claims
 - [Mid-semester survey found homework rated hard or very hard by all respondents, frequent LLM use, and divided attitudes toward single-prompt-resistant assignments](kt1-survey-difficulty-llm-use-attitudes.md) — related
 - [At publication, a frontier coding model could produce solutions to six of the ten research-shaped assignments but struggled with four, which the authors treat as non-durable design experience](kt1-model-resistance-six-of-ten-assignments.md) — a narrower finding that bears on this claim
+- [The high/low-task divide in computational journalism is a relationship shaped by available technologies rather than a fixed property of tasks](high-low-task-divide-technology-dependent.md) — related

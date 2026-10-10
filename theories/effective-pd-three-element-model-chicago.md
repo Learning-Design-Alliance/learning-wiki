@@ -48,7 +48,8 @@ The report presents a model of effective professional development built on a con
 - 
 
 ## Examples
--
+
+- [Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions](../strategies/practice-oriented-case-based-ai-professional-development.md)
 
 ## Key Sources
 - Mark A. Smylie, Elaine Allensworth, Rebecca C. Greenberg, Rodney Harris, Stuart Luppescu. (2001). Teacher Professional Development in Chicago: Supporting Effective Practice. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/teacher-professional-development-chicago-supporting-effective-practice

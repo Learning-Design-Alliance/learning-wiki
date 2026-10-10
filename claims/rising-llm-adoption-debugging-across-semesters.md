@@ -47,3 +47,4 @@ Distribution of chat logs over the buggy-circuit problem set across two semester
 - [Undergraduate students debugging analog circuits under exam pressure preferentially used images to capture the physical circuit and the exam assignment when conversing with LLMs](students-use-images-capturing-circuits-chat-debugging.md) — related
 - [An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits](llm-handles-natural-language-circuit-prompts.md) — related
 - [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
+- [Office hours attendance and Piazza posting declined over prior semesters and rose in Fall 2025 when LLMs and retakes were allowed](help-seeking-decline-then-rise-dura-semester.md) — related

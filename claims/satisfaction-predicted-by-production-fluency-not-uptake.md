@@ -65,3 +65,4 @@ OLS regressions predicting post-satisfaction and attitude change from AI-dialogu
 - [Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency](ai-turn-taking-latency-floor-pause.md) — related
 - [Learners show stronger short-term syntactic priming with the AI partner, significant across all three recency-window operationalizations including one equalizing input volume](ai-syntactic-priming-advantage-survives-controls.md) — related
 - [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
+- [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related

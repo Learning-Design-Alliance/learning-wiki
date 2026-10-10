@@ -44,6 +44,7 @@ The brief recommends that federal policymakers invest in educator AI literacy tr
 - [Support digitally fluent career pathways through ecosystems, educator training, work-based learning, convenings, and showcases](clpi-digital-fluency-pathway-supports.md)
 - [Using Title II professional development funds to strengthen teacher preparation, recruitment, induction, and support in high-need schools](title-ii-teacher-equity-strategies.md)
 - [Federal policy should invest in high-quality professional learning for educators, prioritizing preparation and professional development designs including teachers teaching teachers](federal-invest-educator-professional-learning.md)
+- [Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development](teacher-training-support-strategy-ai-implementation.md)
 
 ## Examples
 -

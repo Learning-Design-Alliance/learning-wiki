@@ -47,3 +47,4 @@ HLM models predicting the CAAP Critical Thinking module (national mean 61.65, SD
 - [Students derive no contextual benefit from attending an institution whose student body collectively engages more in deep learning activities](no-contextual-effect-institutional-deep-learning.md) — related
 - [Variance in first-year critical thinking is far more institutional (32.0%) than variance in self-reported gains (3.1-6.2%)](institutional-variance-critical-thinking-versus-gains.md) — related
 - [First-year students' engagement in deep learning activities is positively related to their self-reported gains in general education, practical competence, and personal and social development](deep-learning-scale-positive-self-reported-gains.md) — related
+- [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) — related

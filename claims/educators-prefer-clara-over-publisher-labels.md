@@ -47,3 +47,4 @@ Analysis of disagreement cases (Table 9) using 30 randomly sampled stories evalu
 - [Structured developmental annotation (CLARA) achieves stronger alignment with developmental references than readability-based and direct prompting baselines](clara-outperforms-readability-and-prompting-baselines.md) — related
 - [CLARA achieves the highest agreement with blinded human developmental ranking judgments compared with readability and prompting baselines](clara-highest-human-ranking-agreement.md) — related
 - [CLARA's gains come from the interaction of structured representation, constrained annotation, and aggregation, not prompt engineering alone](clara-contribution-decomposition.md) — related
+- [Students who experienced annotation subjectivity firsthand most frequently requested ways to reduce disagreement, indicating they had not internalised disagreement as meaningful signal](students-request-eliminating-disagreement.md) — related

@@ -47,3 +47,4 @@ Teacher survey in the five-district collaborative on ongoing support. District l
 - [Talladega County Schools narrowed a broad CT framework to five core competencies embedded across the curriculum](core-five-ct-competencies-talladega.md) — related
 - [Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning](micro-credential-teacher-receptivity-positive.md) — related
 - [Pilot districts report teacher knowledge and integration, not student demand, as their principal equity challenges](district-equity-challenges-teacher-capacity.md) — related
+- [76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction](student-demand-hands-on-it-instruction.md) — related

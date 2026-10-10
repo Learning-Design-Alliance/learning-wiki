@@ -44,6 +44,7 @@ The authors recommend that EdTech product developers use their leaderboards as "
 - [Build educational AI with pedagogical guardrails such as withholding direct solutions and embedded reflection steps](pedagogical-guardrails-educational-ai.md)
 - [Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation](co-design-human-in-the-loop-ai-edtech-strategy.md)
 - [Evaluate and mitigate sentiment bias across sensitive attributes before deploying LLM forum support](evaluate-mitigate-llm-sentiment-bias-before-deployment.md)
+- [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Theoretical argument in the report's recommendations section, citing research on
 - [Metal detector effectiveness depends heavily on the human element: training, correct operation and functioning equipment](metal-detector-effectiveness-human-element.md) — related
 - [Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect](safety-measures-cause-harm-black-brown-youth.md) — related
 - [Available data suggest schools with metal detectors identify more weapons through searches without scanning devices than through scanning](metal-detector-weapon-detection-evidence-weak.md) — related
+- [Runtime GenUI adaptation is too late, too costly, and accuracy-risky to be equitable at scale for learners needing non-default representations](runtime-genui-too-late-costly-inequitable.md) — related

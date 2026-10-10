@@ -46,3 +46,4 @@ Authors' argument (citing Roschelle et al., 2024) for why state-level evaluation
 - [Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups](ai-el-literacy-research-gaps.md) — a narrower finding that bears on this claim
 - [Most superintendents expect AI to change education within five years, yet many leaders lack foundational AI knowledge and 43% of districts operate without formal AI guidance](leaders-lack-ai-knowledge-districts-without-guidance.md) — related
 - [Most states' AI evaluation guidance is exploratory, and only a handful describe systematic, student outcomes-based evaluation](states-ai-evaluation-mostly-exploratory.md) — related
+- [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md) — a narrower finding that bears on this claim

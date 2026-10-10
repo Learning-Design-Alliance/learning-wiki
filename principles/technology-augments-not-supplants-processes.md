@@ -27,7 +27,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (17 for, 1 mixed) · 9 studies (4 theoretical, 2 qualitative, 1 causal, 1 review, 1 design), `q1`–`q2` · 1 of 9 report an effect size · 18 claims rest on one study
+> **Evidence** · 21 claims (18 for, 2 mixed, 1 against) · 10 studies (4 theoretical, 3 qualitative, 1 causal, 1 review, 1 design), `q1`–`q2` · 1 of 10 report an effect size · 21 claims rest on one study
 
 ## Description
 Among the assumptions in Table 1, the paper holds that understanding is best supported when processes are augmented rather than supplanted by technology. Stated functions include allowing "novices to become familiar with complex notions without excessive cognitive load" and engaging learners in complex ideas and problems encountered by experts, leading to understanding surpassing what could be achieved without support.
@@ -77,6 +77,9 @@ Among the assumptions in Table 1, the paper holds that understanding is best sup
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](../claims/learning-performance-paradox-ai.md) [+M] — attached 2026-10-10 from Khosravi et al. (2026), which proposed "Nine-dimension contrast between AI for work and AI for learning"; tests this page's relationship.
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](../claims/ai-overdependence-cognitive-offloading-guided-use-helpful.md) [+W] — attached 2026-10-10 from Padhy (2026), which proposed "Higher education should establish concrete ethical standards, encourage AI literacy, and reshape assessment to foster human-AI collaboration without compromising originality, equity, and intellectual growth"; tests this page's relationship.
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](../claims/ai-feedback-support-or-dependence-self-regulation.md) [+W] — attached 2026-10-10 from Li Y (2026), which proposed "Position AI as human-centered support for interpretation and dialogue, not as an autonomous evaluator of singing quality"; tests this page's relationship.
+- [An AI assistant configured on the ISLE approach can scaffold the epistemic core of inquiry, at the level of feasibility](../claims/ai-gem-scaffolds-isle-epistemic-core.md) [+M] — attached 2026-10-10 from Eugenio Tufino (2026), which proposed "Design AI facilitation in two phases: embodied model-building stays human first, and the AI enters only afterward on the epistemic layer".
+- [AI facilitation of ISLE inquiry is fragile: under student pressure the Gem crossed from scaffolding reasoning to inventing data](../claims/ai-facilitation-fragile-invents-data.md) [-M] — attached 2026-10-10 from Eugenio Tufino (2026), which proposed "Design AI facilitation in two phases: embodied model-building stays human first, and the AI enters only afterward on the epistemic layer"; tests this page's relationship.
+- [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](../claims/language-facilitator-verbal-channel-limit.md) [~W] — attached 2026-10-10 from Eugenio Tufino (2026), which proposed "Design AI facilitation in two phases: embodied model-building stays human first, and the AI enters only afterward on the epistemic layer".
 
 ## Related Principles
 

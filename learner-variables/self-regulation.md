@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (48 for, 15 mixed, 6 against) · 58 studies (13 review, 13 associational, 11 causal, 9 quant-synthesis, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 14 of 58 report an effect size · 61 claims rest on one study
+> **Evidence** · 74 claims (53 for, 15 mixed, 6 against) · 61 studies (15 associational, 13 review, 11 causal, 9 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 14 of 61 report an effect size · 66 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -102,6 +102,11 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](../claims/subjective-expectations-drive-offloading.md) [+M] — learners who differ on it differ in outcomes
 - [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains](../claims/srl-uneven-only-execution-monitoring-predicts-gains.md) [~M] — learners who differ on it differ in outcomes
 - [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](../claims/chatgpt-teaching-self-efficacy-cognitive-strategies.md) [+M] — instruction changes it
+- [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](../claims/cognitive-offloading-negative-higher-order-outcomes.md) [+M] — instruction changes it
+- [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](../claims/msr-mediation-ai-interaction-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived GenAI role is systematically associated with metacognitive dimensions activated: replacement-tool users show no evaluation or elaboration, collaborator users show predominantly higher-order activity](../claims/genai-role-metacognitive-profiles.md) [+M] — instruction changes it
+- [Self-regulated learning strategies (goal setting, environment structuring, time management) are the strategies most prominently associated with lower digital distraction among college students in online courses](../claims/srl-strategies-associated-lower-digital-distraction.md) [+M] — learners who differ on it differ in outcomes
+- [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](../claims/sem-variance-explained-outcomes.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.
@@ -118,6 +123,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Metacognition](../theories/metacognition.md) — the underlying account
 - [Self-Regulated Learning](../theories/self-regulated-learning.md) — the cyclical model design draws on
 - [Teach less-proficient EFL learners metacognitive strategies, effort regulation, and help-seeking, supported by goal-setting training](../strategies/teach-srl-strategies-less-proficient-efl-learners.md)
+- [Design GenAI learning activities that position GenAI as a collaborator to support the full metacognitive chain](../strategies/position-genai-as-collaborator-for-full-metacognitive-chain.md)
 
 ## Key Sources
 - The evidence is carried by the claim pages linked above, each holding its own `## Evidence` entries with `q`/`i` codes and DOIs checked against Crossref. Citations are deliberately not duplicated here — a second copy is a second thing to keep correct.

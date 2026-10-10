@@ -53,3 +53,4 @@ This is a qualitative, ethnographic design study (q2), not an efficacy trial: th
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — related
 - [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md) — related
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related
+- [Emotional discomfort from viewing medical images was the dominant drawback of the annotation task, alongside repetitiveness](emotional-discomfort-medical-images-main-drawback.md) — related

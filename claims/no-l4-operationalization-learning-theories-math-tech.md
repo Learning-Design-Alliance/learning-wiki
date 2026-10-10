@@ -44,3 +44,4 @@ Structured literature review (Scopus, Web of Science, complemented by SciELO and
 
 ## Related Claims
 - [Because learning theories are not operationalized into system structures, pedagogical use of digital resources is delegated to teachers' judgment at the moment of use](pedagogical-use-delegated-to-teacher-judgment.md) — related
+- [A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems](pedagogical-gap-4e-vs-ai-design.md) — related

@@ -52,3 +52,5 @@ Pre-institute survey of ten participants (Tables 9 and 10) with multiple-respons
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
 - [Faculty transformation followed four themes: fear shifting to curiosity, desire for ethical clarity, inclusive design as equity amplifier, and evolution from gatekeepers to guides](four-themes-faculty-ai-transformation.md) — related
 - [Faculty confidence in guiding student AI use rose markedly after the six-week institute, with high-confidence responses increasing from 0% to 60%](ubridge-confidence-gains-pre-post.md) — related
+- [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](genai-overreliance-threatens-clinical-readiness.md) — related
+- [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](institutional-barriers-ai-integration.md) — related

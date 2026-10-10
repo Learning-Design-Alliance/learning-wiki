@@ -49,3 +49,4 @@ Ablation study on four datasets (Table 3) comparing full LT-MKT with w/o CL, w/o
 - [Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs](ablation-all-features-maximize-auc.md) — related
 - [The cognitive load module encodes cross-domain learning burden into student state representations as a low-to-high load gradient](cognitive-load-module-shapes-representation-space.md) — related
 - [Performance is best at moderate difficulty granularity and a limited recent window for domain transitions](moderate-difficulty-granularity-window-optimal.md) — related
+- [Static Knowledge Grounding and Dynamic Personal Memory are complementary: removing both yields the largest quality degradation](skg-dpm-complementary-ablation-deeptutor.md) — related

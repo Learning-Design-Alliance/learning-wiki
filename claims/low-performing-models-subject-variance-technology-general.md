@@ -45,3 +45,4 @@ Subject-level sub-score analysis of CDPK accuracy for the top 15 and bottom 15 p
 ## Related Claims
 - [Temperature-construct interactions: constructs with moderate theoretical coherence benefited from higher temperatures, while well-defined constructs required deterministic settings](temperature-construct-type-interaction-coding.md) — related
 - [SEND and CDPK benchmark results correlate highly (r = 0.94), but higher-performing models do relatively better on general pedagogy than SEND](send-cdpk-correlation-and-reversal.md) — related
+- [The two education-specialized models lead neither education module, and the improvement from education-specific post-training is small relative to differences in general capability](education-specialized-models-lead-neither-education-module.md) — related

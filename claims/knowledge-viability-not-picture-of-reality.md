@@ -44,3 +44,4 @@ Theoretical argument in Chapter 3, where the author interprets Piaget's statemen
 
 ## Related Claims
 - [DL2F aligns with social and cognitive constructivist theories of learning](dl2f-constructivist-alignment.md) — related
+- [Daoism offers a more generative framework than Confucianism for thinking about education in an AI-shaped world because it pursues understanding of reality rather than social hierarchy](daoism-more-generative-than-confucianism-ai-education.md) — related

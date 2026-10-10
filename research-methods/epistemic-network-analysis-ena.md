@@ -25,6 +25,7 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Epistemic network analysis and its weighted density statistic for analyzing SKIVE element co-occurrence in epistemic games**: Epistemic network analysis (ENA) is a non-parametric analytic method developed for epistemic game data; the article focuses on its social-network based variant. Chat utterances are automatically scored into binary indicators of SKIVE element use, aggregated into adjacency and cumulative adjacency matrices across evidentiary segments. The weighted density (WD) statistic summarizes, for each learner, "the total number of unique pair-wise associations / connections between SKIVE elements", and the article evaluates its utility via a simulation study in Land Science. (Sweet et al. (2012))
+- **ENA network model of problem posing with eleven category and quality codes**: This element is the article’s ENA modeling setup for analyzing students’ cognitive structures during problem posing. Because ENA focuses on associations among semantic units rather than frequency, "only 11 codes from question category (IQ, SC, SL, SR, OD, and CQ) and question quality (R, P , A, E, and C) were retained as network nodes". Lines between nodes represent co-occurrence relationships and line thickness indicates connection strength. Mean networks were constructed for phases and groups, with subtracted networks used to compare conditions, using the online tool epistemicnetwork.org. (Dai et al. (2026))
 
 ### Claims
 - [In the simulation, task complexity and task difficulty explain the majority of variance in the individual-learner WD statistic, with some effect of task specificity](../claims/task-complexity-and-difficulty-dominate-wd-variance.md) [+W]
@@ -39,8 +40,8 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 
 ## Key Sources
 - Sweet, S. J., & Rupp, A. A. (2012). Using the ECD Framework to Support Evidentiary Reasoning in the Context of a Simulation Study for Detecting Learner Differences in Epistemic Games. Journal of Educational Data Mining, Special Issue, Article 5, Volume 4. https://jedm.educationaldatamining.org/index.php/JEDM. [doi:10.5281/zenodo.3554649](https://doi.org/10.5281/zenodo.3554649)
-
 <!-- merged 2026-10-10 from elements/epistemic-network-analysis-weighted-density ("Epistemic network analysis and its weighted density statistic for analyzing SKIVE element co-occurrence in epistemic games"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Dai, Z., Huang, F., Xiong, J., Yang, Y., Zhang, Q., & Peng, X. (2026). Inquiry-based learning in STEM education: the impact of generative AI-based Chatbots on primary school students’ problem posing ability in science. International Journal of STEM Education. https://doi.org/10.1186/s40594-026-00631-0
 
 # Epistemic network analysis and its weighted density statistic for analyzing SKIVE element co-occurrence in epistemic games
 

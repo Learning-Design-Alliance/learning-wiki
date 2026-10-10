@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 11 studies (4 causal, 3 associational, 2 review, 2 theoretical), `q1`–`q3` · 3 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 12 studies (4 causal, 4 associational, 2 review, 2 theoretical), `q1`–`q3` · 3 of 12 report an effect size · 5 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -59,6 +59,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Interviews show students used scores to trigger action but reflected shallowly, derived planning from previous scores, and diverged emotionally](../claims/interviews-shallow-reflection-score-derived-planning.md) [+W] — attached 2026-10-10 from Chen C et al. (2026), which proposed "Zimmerman's three-phase cyclical SRL model as a lens for locating which phases automated feedback reaches".
 - [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](../claims/ena-cognitive-network-ct-groups.md) [+W] — attached 2026-10-10 from Shu Zhao et al. (2026), which proposed "SRL framework (planning, execution, self-reflection) as a lens for CT-based cognitive regulation in AI-assisted coding".
 - [High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions](../claims/high-ct-stronger-srl-cognitive-behaviors.md) [+W] — attached 2026-10-10 from Shu Zhao et al. (2026), which proposed "SRL framework (planning, execution, self-reflection) as a lens for CT-based cognitive regulation in AI-assisted coding".
+- [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](../claims/msr-mediation-ai-interaction-outcomes.md) [+W] — attached 2026-10-10 from Davor I et al. (2026), which proposed "Process-oriented framework of AI interaction mechanisms with metacognitive self-regulation as the central explanatory pathway".
 
 ## Related Theories
 

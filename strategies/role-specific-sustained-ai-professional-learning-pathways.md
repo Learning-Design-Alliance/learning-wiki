@@ -50,6 +50,7 @@ The brief recommends ongoing, collaborative, subject-specific professional learn
 - [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
 - [Integrate AI into nursing curricula through AI-supported case discussions, structured clinical learning activities, and AI literacy training tailored to user groups](ai-literacy-curricular-integration-nursing.md)
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
+- [Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development](teacher-training-support-strategy-ai-implementation.md)
 
 ## Examples
 -

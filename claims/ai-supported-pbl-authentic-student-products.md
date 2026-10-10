@@ -48,3 +48,4 @@ Qualitative case description of Andrea Stanczyk's classroom project on environme
 - [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Attendees correctly identified AI-generated images in 82% of polling responses, and polling served as a scaffold for discussion rather than a measurement tool](polling-image-identification-82-percent.md) — related
+- [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](ai-pbl-enhances-educator-student-collaboration.md) — related

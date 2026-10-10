@@ -49,3 +49,4 @@ Randomized experiment with 60 undergraduates assigned to retrieval practice inst
 - [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them](instructions-promote-three-recall-criterion.md) — related
+- [Lay forecasters predicted that practicing alone would produce more learning than practicing with AI, contrary to the experimental results](forecasters-predicted-ai-practice-would-harm-learning.md) — related

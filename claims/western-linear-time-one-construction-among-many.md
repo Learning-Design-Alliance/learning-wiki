@@ -48,3 +48,4 @@ Theoretical argument in the 'Assimilating body and narrative to time' section (a
 - [Premodern cultures' narratives assimilate language to the world rather than vice versa, offering environmental educators place-bound narrative strategies](premodern-narratives-assimilate-language-to-world.md) — related
 - [Postmodern texts advance five characteristic theses against Enlightenment certainties](five-postmodern-theses-anti-enlightenment.md) — related
 - [The central characteristic of postmodern sensibility is an ontological shift from essentialist to anti-essentialist views of reality](postmodern-ontological-shift-anti-essentialism.md) — related
+- [Daoism offers a more generative framework than Confucianism for thinking about education in an AI-shaped world because it pursues understanding of reality rather than social hierarchy](daoism-more-generative-than-confucianism-ai-education.md) — related

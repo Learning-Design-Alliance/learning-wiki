@@ -43,6 +43,7 @@ The article recommends that educators and system designers not integrate raw LLM
 - [Encourage students to use AI as a conversational debugging guide while informing them of LLM imperfections and cautioning against unjustified confident claims](ai-conversational-debugging-guide-with-cautions.md)
 - [Combine data-driven and expert-driven approaches, and add a filter network, to mitigate non-factual output in automated feedback](combine-data-driven-expert-driven-feedback-generation.md)
 - [Design teachable ChatGPT sessions with purposeful errors or lower-level models so learners practice error correction](purposeful-errors-lower-level-chatgpt-design.md)
+- [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 
 ## Examples
 -

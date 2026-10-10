@@ -88,6 +88,7 @@ Retrieval of relevant prior knowledge at the start of instruction improves compr
 - [Activate Background Knowledge](activate_background_knowledge.md) — closely related routine emphasizing learner background and experience
 - [Accessing Students' Background Knowledge](accessing_students_background_knowledge.md) — asset-based variant focused on cultural and lived experience
 - [Group Pupils During Science Experiments and Demonstrations](grouping-for-science-experiments-and-demonstrations.md)
+- [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 
 ## Examples
 - **[KWL charts](https://www.readingrockets.org/strategies/kwl)** — a widely used reading-comprehension routine in which students list what they Know and Want to learn before reading, then return to record what they Learned.

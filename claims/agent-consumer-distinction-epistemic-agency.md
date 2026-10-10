@@ -48,3 +48,4 @@ Conceptual argument drawing the paper's firm distinction between consumers, who 
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related
 - [The debt is incurred by deploying organizations but paid by users, patients, and citizens, making it an AI ethics problem](literacy-debt-incurred-deployers-paid-by-users.md) — related
 - [Existing institutional AI literacy frameworks converge on a consumer model with no substantive treatment of training data politics or governance participation](existing-ai-literacy-frameworks-consumer-model.md) — related
+- [Existing philosophical accounts of AI in education share a Western architecture presupposing subject-object dualism, individualist epistemic agency, and representational knowledge](western-accounts-subject-object-dualism.md) — related

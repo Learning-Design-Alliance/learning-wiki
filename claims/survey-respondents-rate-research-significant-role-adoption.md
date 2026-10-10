@@ -46,3 +46,4 @@ Descriptive statistics from Digital Promise's June 2018 12-question SurveyMonkey
 - [League of Innovative Schools superintendents rate research and evidence's role in adoption decisions significantly higher than non-League respondents](league-members-rate-research-higher-than-non-league.md) — related
 - [School leaders rate the role of research and evidence in adoption decisions significantly higher than educators do](school-leaders-rate-research-higher-than-educators.md) — related
 - [School districts and ed-tech developers hold different perspectives on the role and value of school-based technology pilots in procurement](districts-developers-differ-pilot-perspectives.md) — related
+- [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related

@@ -43,7 +43,8 @@ The article recommends that universities help students develop "a more accuratea
 - Ai Threat Employability Mindset Moderated Mediation Framework
 
 ## Related Strategies
-- 
+
+- [Integrate AI literacy into health sciences curricula and tailor career counselling to programme type](ai-literacy-curriculum-career-counselling-strategy.md)
 
 ## Examples
 -

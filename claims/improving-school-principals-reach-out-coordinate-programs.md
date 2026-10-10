@@ -47,3 +47,4 @@ The report summarizes prior Consortium research on school leadership, citing Dem
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related
 - [An innovation and improvement space in local school communities brought forward new leaders](local-innovation-space-new-leaders.md) — related
 - [In about a third of Chicago elementary schools, expanded local democratic participation served as a strong lever for systemic change focused on improved instruction](one-third-schools-democratic-participation-lever-systemic-change.md) — related
+- [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related

@@ -41,6 +41,7 @@ The article's discussion recommends that educational practice address both prote
 
 - [Faculty development for GenAI-era teaching innovation should address professional identity, AI literacy, and teaching self-efficacy alongside knowledge](faculty-development-targeting-identity-literacy-and-efficacy.md)
 - [Include AI literacy in the technology component of TPACK to address bias, hallucinations, and critical thinking with generative AI](ai-literacy-in-tpack-technology-component.md)
+- [Integrate career adaptability cultivation and AI literacy with career planning in higher education curricula](ai-literacy-career-planning-integration-strategy.md)
 
 ## Examples
 -

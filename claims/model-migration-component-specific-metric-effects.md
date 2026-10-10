@@ -86,3 +86,4 @@ After building an offline evaluation dataset for the Tutor Me request classifier
 - [Cross-model validation shows consistent degradation under multi-strategy attack across Llama-3.3-70B, GPT-4o-mini, and Claude-3.5-Haiku, with significant differences between models](cross-model-rpla-degradation-consistent.md) — related
 - [GPT-4o mini showed progressive turn-level convergence with accumulating context while larger models showed increasing or stable error](turn-level-convergence-gpt-4o-mini.md) — related
 - [Cumulative rapid experimentation improved next-item correctness by 10% and cognitive engagement by 14% over five months](rapid-experimentation-cumulative-metric-gains.md) — related
+- [Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models](hint-not-solution-most-challenging-dimension.md) — related

@@ -48,3 +48,4 @@ Post-hoc analysis of the End-of-Unit results controlling for oral comprehension 
 - [Treatment effect interacts with exam sub-section, with oral comprehension showing the largest LWPA advantage](lwpa-by-exam-subsection-interaction.md) — related
 - [Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone](lwpa-outperforms-traditional-vocabulary-learning.md) — a broader claim this one bears on
 - [The SVAS group outperformed the comparison group across oral comprehension and vocabulary rubrics, with the largest gaps in answering questions and translating from Ukrainian](svas-advantage-across-test-rubrics.md) — a broader claim this one bears on
+- [The performance gap between erroneous and non-erroneous student images persists after images are digitally redrawn to remove noise](error-gap-persists-after-image-cleanup.md) — related

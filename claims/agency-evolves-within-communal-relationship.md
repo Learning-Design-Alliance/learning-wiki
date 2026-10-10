@@ -49,3 +49,4 @@ Theoretical synthesis, drawing on Modell's account of the private self, in which
 - [Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium](self-assertive-integrative-equilibrium-personality.md) — related
 - [The better the five foundations are integrated, the greater the probability of success in the designed setting](foundation-integration-predicts-environment-success.md) — a broader claim this one bears on
 - [Shame and guilt may be more strongly shaped by socialization processes than by attachment relationships](shame-guilt-shaped-by-socialization-more-than-attachment.md) — related
+- [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related

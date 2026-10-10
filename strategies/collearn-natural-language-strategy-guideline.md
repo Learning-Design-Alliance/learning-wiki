@@ -42,6 +42,8 @@ CoLearn's question generator consults a natural-language guideline appended to i
 ## Related Strategies
 
 - [Use generative AI as a no-code development tool so instructors can design laboratory software around their own pedagogical objectives](ai-nocode-lab-software-development.md)
+- [Profile-driven adaptive strategy rules composed dynamically and injected into the system prompt each turn](adaptive-strategy-prompt-injection-rules.md)
+- [Revise educational SLM system prompts using the Persona and Context Manager patterns plus cognitive-apprenticeship scaffolding guidelines](educational-prompt-patterns-persona-context-manager-apprenticeship.md)
 
 ## Examples
 -

@@ -43,6 +43,9 @@ For curriculum design, the chapter recommends a transdisciplinary approach in wh
 - [Invest in dedicated instructional technology leadership roles and role-specific professional learning for AI literacy](role-specific-ai-professional-learning-leadership.md)
 - [Integrate AI literacy education as an integral component of first-year curriculum development rather than an add-on](ai-literacy-integral-first-year-curriculum.md)
 - [Integrate AI into nursing curricula through AI-supported case discussions, structured clinical learning activities, and AI literacy training tailored to user groups](ai-literacy-curricular-integration-nursing.md)
+- [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
+- [Share discipline-specific GenAI examples aligned with instructional needs to improve teacher adoption](discipline-specific-genai-examples-strategy.md)
+- [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 
 ## Examples
 -

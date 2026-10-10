@@ -60,9 +60,11 @@ Working out loud externalizes the learning process, converting private struggle 
 6. Close the loop: learners revise based on feedback and post a brief "what changed and why" follow-up.
 
 ## Related Strategies
+
 - Learning journals and portfolios — private counterparts that can seed public sharing
 - Peer critique protocols — the response mechanism that makes sharing consequential
 - Demo days and exhibitions — scheduled, synchronous variants
+- [Use the DOT Framework's Empathize and Test/Feedback stages as practical checklists, and build professional learning communities around shared prompting and critique practices](dot-empathize-test-checklist-plc-strategy.md)
 
 ## Examples
 - **Stepper's Working Out Loud circles** ([workingoutloud.com](https://workingoutloud.com)) — peer groups meeting weekly for 12 weeks, each member working toward a goal while sharing progress and making contributions to others.

@@ -46,6 +46,7 @@ The article recommends that education systems move beyond single-issue spotlight
 - [Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards](independent-audits-role-based-dashboards-ai-accountability.md)
 - [Use the Recommendation's Policy Action Areas to translate AI ethics values into policy across education, data governance and other spheres](policy-action-areas-translate-ai-ethics-values.md)
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
+- [Pursue sustainable AI integration in PBL through attention to design, ethics, and policy](sustainable-ai-pbl-integration-design-ethics-policy.md)
 
 ## Examples
 -

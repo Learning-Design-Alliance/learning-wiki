@@ -49,3 +49,4 @@ PROCESS Model 4 mediation with 5,000 bootstrap resamples on the 276-respondent s
 - [AI dependency mediates the relationship between teacher support and learning burnout](ai-dependency-mediates-teacher-support-burnout.md) — related
 - [AI dependency is positively associated with learning burnout among university students](ai-dependency-positively-associated-learning-burnout.md) — related
 - [Academic self-efficacy is negatively associated with AI dependency among university students](self-efficacy-negatively-associated-ai-dependency.md) — related
+- [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related

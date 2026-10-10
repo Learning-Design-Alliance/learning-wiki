@@ -68,3 +68,4 @@ The same multivariate analyses found poor test performance did not significantly
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — a broader claim this one bears on
 - [Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years](gpa-strongest-predictor-chicago-four-year-graduation.md) — related
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — related
+- [Pipeline applied to HSLS:09 recovers that advanced mathematics coursework benefits students least likely to enroll in four-year college the most](ap-ib-math-benefits-lowest-college-likelihood-most-hsls.md) — related

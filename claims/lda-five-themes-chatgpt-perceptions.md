@@ -44,3 +44,4 @@ Topic modeling of Spanish-language open-ended responses using LDA (following Ble
 - [Text mining of 69 Scopus documents on ChatGPT in programming education identifies four dominant research themes](text-mining-four-themes-chatgpt-programming-education.md) — related
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
+- [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related

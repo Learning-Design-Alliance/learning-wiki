@@ -47,3 +47,4 @@ Before/after fine-tuning comparison (Table 8) evaluating untuned CLST (0 student
 - [In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students](clst-outperforms-baselines-cold-start.md) — related
 - [Representing exercises by KC name descriptions outperformed ID-based representation when aligning an LLM to knowledge tracing](description-based-representation-beats-id-based-llm-kt.md) — related
 - [Fine-tuning on KTLP data improved CLST output calibration, moving predictions closer to the ideal diagonal](fine-tuning-improves-clst-calibration.md) — related
+- [Adaptation through prompt injection avoids fine-tuning, so the system works with any OpenAI-compatible LLM and its logic is transparent to educators](prompt-engineering-adaptation-transparency-tradeoff.md) — related

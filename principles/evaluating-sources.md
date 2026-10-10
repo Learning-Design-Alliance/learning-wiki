@@ -128,6 +128,7 @@ A better verdict on new sites, a better reason, durability over months, and chan
 - [Website Domain Analysis](../strategies/website_domain_analysis.md) — teaches basic domain heuristics as an entry point, though not a complete method
 - [Resource Evaluation](../elements/resource-evaluation.md) and [Research](../elements/research.md) are direct implementation elements
 - Comparing a polished but unreliable site against corroborated sources can make the need for evaluation visible
+- [Teach AI-mediated judgement and make process, judgement and transfer visible in assessment](../strategies/teach-ai-mediated-judgement-assessment.md)
 
 ## Key Sources
 - Wineburg, S., & McGrew, S. (2017). *Lateral reading: Reading less and learning more when evaluating digital information*.
