@@ -47,3 +47,4 @@ Descriptive analysis of no-credit grades (Fs or Incompletes) among 223,096 stude
 - [Grades 4-8 students who earned a no-credit grade in spring 2020 were more than twice as likely to earn one in spring 2021](cps-spring-2020-nocredit-predicts-spring-2021.md) — related
 - [Remote learning exacerbated pre-pandemic disparities in no-credit grades for low-income students and students of color in grades 4-8, but within-school differences were small](cps-nocredit-disparities-exacerbated-remote-learning.md) — related
 - [No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations](cps-school-level-variation-nocredit-rates.md) — related
+- [In an AI-permitted course with research-shaped homework, most students remained engaged throughout, with 33 of 42 earning credit on at least eight of ten sheets](kt1-sustained-engagement-research-homework.md) — related

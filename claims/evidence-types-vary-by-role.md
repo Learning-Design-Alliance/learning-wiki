@@ -44,3 +44,4 @@ Descriptive survey results by role (Figure 3, N=136) on evidence types used for 
 
 ## Related Claims
 - [Pilots conducted by one's own school or district are the most frequently cited evidence type for program adoption decisions, followed by colleague recommendations](own-district-pilots-most-common-evidence.md) — related
+- [Instructional decisions form the hub of decision-type co-occurrence, most strongly with assessment decisions](instructional-decisions-hub-of-co-occurrence-structure.md) — related

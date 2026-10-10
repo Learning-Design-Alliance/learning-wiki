@@ -48,6 +48,7 @@ The brief recommends ongoing, collaborative, subject-specific professional learn
 - [District actions for sustained, equitable impact with powerful technology](district-actions-powerful-technology-impact.md)
 - [Four strategic recommendations for supporting AI literacy across settings](strategic-recommendations-ai-literacy-across-settings.md)
 - [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
+- [Integrate AI into nursing curricula through AI-supported case discussions, structured clinical learning activities, and AI literacy training tailored to user groups](ai-literacy-curricular-integration-nursing.md)
 
 ## Examples
 -

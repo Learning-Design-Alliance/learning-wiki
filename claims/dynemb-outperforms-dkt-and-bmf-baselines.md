@@ -67,3 +67,4 @@ Table 2 reports per-dataset AUC for BMF (offline and online), DKT, and DynEmb wi
 - [Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models](learner-models-miscalibrated-outside-data-interval.md) — related
 - [CatBoost achieved the best classification performance among tested algorithms for predicting course completion risk (F-measure .77, accuracy 78%, AUC .87)](catboost-best-performing-risk-classifier.md) — related
 - [In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students](clst-outperforms-baselines-cold-start.md) — related
+- [Agent-generated descriptions significantly improve prediction of student dropout in a lesson, outperforming all other measured approaches](agent-descriptions-improve-dropout-prediction.md) — related

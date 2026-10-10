@@ -43,3 +43,4 @@ Technical finding on chatbots with students, reported in Table 5. The report not
 ## Related Claims
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — related
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
+- [Instructors authoring AI tutoring chatbots in a MOOC almost never systematically tested their bots before deploying them to students](teachers-rarely-test-ai-tutor-bots-before-publication.md) — related

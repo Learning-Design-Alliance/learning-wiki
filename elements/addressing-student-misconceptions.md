@@ -13,7 +13,7 @@ generated:
 # Addressing Student Misconceptions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 1 causal, 1 review), `q3`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 3 claims (3 for) · 5 studies (2 quant-synthesis, 1 causal, 1 review, 1 associational), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Activating students' prior knowledge is usually beneficial, but it is a mixed blessing when that prior knowledge is itself misleading or wrong — a common situation at any grade level, not just among young children. A kindergartner may think the sun literally "rises" (echoing adult speech) or that the earth is flat because it looks flat from the ground; a high school student may believe a boulder falls faster than a pebble, or that an object dropped from a moving car falls straight down rather than continuing to travel alongside the car as it falls.
@@ -47,6 +47,7 @@ Second, and just as important: **treat students' existing beliefs with respect**
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](../claims/misconceptions-interfere-with-new-learning.md) [+M]
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [+M]
+- [MisconceptionTutor achieves higher pedagogical quality (DAMR) than BaselineTutor on nearly all dimensions, with small-to-moderate effect sizes](../claims/misconception-tutor-higher-damr-pedagogical-quality.md) [+M] — attached 2026-10-10 from Rose Niousha et al. (2026), which proposed "Two deployed AI tutor configurations: BaselineTutor and MisconceptionTutor"; tests this page's relationship.
 
 ## Related Elements
 - [Prior Knowledge Activation](prior-knowledge-activation.md)

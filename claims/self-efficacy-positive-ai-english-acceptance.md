@@ -44,3 +44,4 @@ Full-sample adjusted OLS regression (Table 4) predicting satisfaction from self-
 - [Anxiety shows positive concurrent associations with acceptance outcomes for AI-assisted English learning, and should not be read as uniformly negative or beneficial](anxiety-positive-concurrent-ai-english-acceptance.md) — related
 - [Learning motivation is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](learning-motivation-positive-ai-english-acceptance.md) — related
 - [Risk perception is positively but more weakly associated with acceptance outcomes for AI-assisted English learning, with cautious interpretation warranted](risk-perception-weak-positive-ai-english-acceptance.md) — related
+- [Students with the best self-taught understanding of how language models work used AI tools most deliberately and achieved the highest assignment scores](self-taught-model-understanding-highest-scores.md) — related

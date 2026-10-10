@@ -42,6 +42,7 @@ This strategy designs assessments as sequences of interconnected tasks with guid
 - [Ongoing Feedback](ongoing_feedback.md)
 - [Use a mixed-methods assessment sequence: diagnostic inventory, structured verification tasks, and discipline-specific critique or workflow-design assignments](mixed-methods-ai-literacy-assessment-sequence.md)
 - [Understanding By Design Unit Template](understanding-by-design-unit-template.md)
+- [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](process-oriented-assessment-four-stage-model.md)
 
 ## Examples
 -

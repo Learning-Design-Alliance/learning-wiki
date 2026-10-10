@@ -50,3 +50,4 @@ This is a single design study in two university teacher-education courses, with 
 - [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md) — related
 - [Treating students' personal histories as sources of knowledge makes them part of the classroom curriculum](personal-histories-as-curriculum-sources-of-knowledge.md) — related
 - [Connectivist MOOC aggregation-remix-repurpose-feed-forward model neglects personal self-transformation](connectivist-mooc-neglects-self-transformation.md) — related
+- [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — related

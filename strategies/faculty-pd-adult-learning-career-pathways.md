@@ -40,6 +40,8 @@ Because many CTE programs hire industry experts who lack teaching experience, th
 
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 - [Integrate the community schools initiative with Linked Learning and CTE through joint planning, cofunded positions, and instructional-department placement](csi-linked-learning-integration.md)
+- [Agile pedagogical strategies: interactive notebooks, bootcamps, and sustained educator professional learning](agile-mi-pedagogical-strategies-notebooks-bootcamps.md)
+- [Preparing preservice teachers to implement AI-powered personalized learning in special education through professional development in technical and pedagogical expertise](preservice-teacher-ai-ppl-professional-development.md)
 
 ## Examples
 -

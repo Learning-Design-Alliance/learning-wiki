@@ -53,3 +53,4 @@ The one study recorded here varied which instructional events a computer-based l
 - [Short chunking study outlines produce higher test performance than long chunking study outlines](short-cso-improves-test-performance.md) — related
 - [Individually removing objectives, examples, or review from a well-designed computer-based lesson did not significantly reduce achievement](single-event-removal-no-achievement-effect.md) — related
 - [The review reports that students receiving situated instruction outperformed a lecture-based control group on a causality posttest](situated-instruction-outperformed-abstract-control-causality.md) — related
+- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — related

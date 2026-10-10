@@ -12,7 +12,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (38 for, 7 mixed, 4 against) · 45 studies (12 review, 9 causal, 7 associational, 6 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 8 of 45 report an effect size · 48 claims rest on one study
+> **Evidence** · 50 claims (39 for, 7 mixed, 4 against) · 46 studies (12 review, 10 causal, 7 associational, 6 qualitative, 5 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 8 of 46 report an effect size · 49 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -82,6 +82,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [GATs produced no reliable immediate learning-experience effects on frustration, cognitive load, or situational interest at either institution](../claims/gats-no-immediate-experience-effects.md) [-W] — instruction changes it
 - [Higher baseline autonomy and higher baseline competence frustration predict greater perceived relief from competence frustration after AI chatbot use, while higher baseline personal agency predicts less](../claims/baseline-needs-predict-competence-relief-ai.md) [+M] — instruction changes it
 - [Tutor mode elicits more stress-related behaviors than Collaborator and Solver modes, which do not differ from each other](../claims/tutor-mode-elicits-more-stress-behaviors.md) [+M] — instruction changes it
+- [Students reported significantly lower anxiety during AIvaluate-mediated viva sessions than during equivalent face-to-face viva assessments](../claims/aivaluate-lower-anxiety-than-face-to-face-viva.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Belonging — decides whether a setback reads as difficulty or as evidence of not belonging.

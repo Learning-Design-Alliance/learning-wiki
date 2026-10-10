@@ -45,3 +45,4 @@ Authors' report on the Week 2 independent experiments, the first inquiry-based l
 ## Related Claims
 - [Inadequate evidence synthesis skills left nearly 70% of pharmacy students and practitioners reporting lack of confidence in applying evidence in patient care](inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence.md) — related
 - [Metacognitive confidence about credit correlates with financial behaviors and advice giving, but knowledge performance does not correlate with behavior](confidence-correlates-with-financial-behaviors-not-knowledge.md) — related
+- [Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy](novice-metacognitive-calibration-deficits.md) — related

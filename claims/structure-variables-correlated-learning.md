@@ -50,3 +50,4 @@ The paper lists five boundary-related variables positively correlated with learn
 - [Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures](instructional-clarity-main-effect-concept-achievement.md) — a narrower finding that bears on this claim
 - [Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance](clarity-concept-structure-interaction.md) — related
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
+- [Pilot participants perceived AmicoMio and AmicoTuo as complementary modes serving different educational purposes rather than alternatives](amico-dual-modes-perceived-complementary.md) — a narrower finding that bears on this claim

@@ -45,3 +45,4 @@ Harman's test used only as an initial screen in the survey data (N = 401). The a
 ## Related Claims
 - [A dominant general factor explains most common variance in the acceptance scale, supporting essential unidimensionality](bifactor-dominant-general-factor-acceptance.md) — related
 - [Parallel analysis on the exploratory half retains a single factor for the acceptance scale](parallel-analysis-single-factor-acceptance.md) — related
+- [Common method bias and measurement quality checks support the validity of the survey findings, though several TPACK-dimension correlations were trivially negative](measurement-validity-and-method-bias-checks-in-ai-tpack-survey.md) — reports the opposite

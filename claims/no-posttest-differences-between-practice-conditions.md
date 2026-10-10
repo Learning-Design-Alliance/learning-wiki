@@ -44,3 +44,4 @@ Posttest analysis in the 2x2 experiment: the eight practiced concepts were each 
 
 ## Related Claims
 - [Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition](multiple-choice-higher-practice-performance-than-short-answer.md) — related
+- [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](tutor-gain-concentrated-in-written-reasoning-depth.md) — related

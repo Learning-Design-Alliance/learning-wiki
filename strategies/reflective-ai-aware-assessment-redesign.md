@@ -41,6 +41,7 @@ The chapter recommends adapting or redesigning assessment to account for intenti
 ## Related Strategies
 
 - [Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios](ai-competency-assessment-strategies.md)
+- [Teach subzone classification explicitly as a teachable, assessable cognitive skill in clinical curricula](explicit-subzone-classification-instruction.md)
 
 ## Examples
 -

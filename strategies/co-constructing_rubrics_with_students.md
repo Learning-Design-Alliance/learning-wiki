@@ -60,9 +60,11 @@ Co-construction works because it makes evaluative criteria explicit and personal
 5. Use the final rubric for self-assessment and revision before submission, so it functions as a learning tool rather than only a grading tool ([Assessment for Learning](../principles/assessment-for-learning.md)).
 
 ## Related Strategies
+
 - [Self-Assessment](../elements/self-assessment.md) — the primary downstream use of a co-constructed rubric
 - [Peer Feedback](../elements/peer-feedback.md) — shared criteria make peer review consistent and trustworthy
 - [Exemplar Analysis](exemplar-analysis.md) — the induction activity that typically precedes co-construction
+- [Negotiated learning tasks: learners co-construct assignments with AI that meet curricular goals while being personally meaningful](negotiated-learning-tasks-ai.md)
 
 ## Examples
 - **Andrade's rubric-referenced self-assessment studies** — middle and high school students co-developed writing rubrics and used them to self-assess drafts, improving essay quality and students' understanding of "good writing" (see Reddy & Andrade, 2010).

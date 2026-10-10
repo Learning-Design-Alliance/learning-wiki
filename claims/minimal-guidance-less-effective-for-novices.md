@@ -163,3 +163,4 @@ The claim is bounded by learner expertise. Guidance that benefits novices can be
 - [Self-discovery through errorful exploration is basically incompatible with error minimization in instruction](self-discovery-incompatible-with-error-minimization.md) — reports the opposite
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — related
 - [HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice](hqim-teacher-guides-vary-in-educative-guidance-depth.md) — a narrower finding that bears on this claim
+- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — a narrower finding that bears on this claim

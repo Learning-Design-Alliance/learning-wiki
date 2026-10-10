@@ -48,6 +48,7 @@ The report's second use case shows Indian Prairie School District establishing a
 - [Ask ethics, bias, and equity questions before adopting an AI system](ethics-bias-equity-questions-for-ai.md)
 - [Districts should build community-shared visions, evaluation infrastructure, and policies for procuring and using AI edtech](district-ai-policy-evaluation-infrastructure-strategy.md)
 - [Structure OBC procurement around intentionality questions on learner goals, populations, outcomes, and stakeholders](obc-intentionality-collaboration-questions.md)
+- [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
 
 ## Examples
 -

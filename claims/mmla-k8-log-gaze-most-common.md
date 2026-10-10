@@ -44,3 +44,4 @@ The review's data-source analysis (Table 1) classified multimodal data into digi
 
 ## Related Claims
 - [MMLA research in K–8 settings is sparse and varied, with only 14 peer-reviewed empirical studies published between 2011 and 2023](mmla-k8-few-varied-studies.md) — related
+- [Text-based and log data dominate the student data used by AI systems for lecturer decision-making](text-log-data-dominate-lecturer-decision-ai-inputs.md) — related

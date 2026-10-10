@@ -48,3 +48,4 @@ Analysis of interaction logs from 15 of 34 enrolled students who voluntarily use
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
 - [K-2 students showed sustained high engagement with Puzzlets, choosing it as their first station choice 27 out of 36 times](puzzlets-high-engagement-station-choice.md) — related
 - [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — related
+- [Primary metrics improved during US holidays, attributed to more motivated voluntary users](holiday-usage-motivation-metric-improvements.md) — related

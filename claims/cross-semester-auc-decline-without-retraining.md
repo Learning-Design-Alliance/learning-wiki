@@ -63,3 +63,4 @@ Parallel week 0–7 evaluation (Table 4): "AUC score0.98 0.78 0.96" for Model 1 
 
 ## Related Claims
 - [Predictive models trained on one semester's offering of a course identified at-risk students in the subsequent semester with high prediction accuracy](cross-semester-at-risk-prediction-high-accuracy.md) — reports the opposite
+- [Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV](lms-traces-predict-ai-assisted-cheating-risk.md) — related

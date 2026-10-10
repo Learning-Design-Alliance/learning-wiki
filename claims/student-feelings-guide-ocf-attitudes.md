@@ -50,3 +50,4 @@ In the study's conclusions, the authors state that in their interview data with 
 - [The teacher was the principal provider of oral corrective feedback, with peer and self-correction rarely proactively promoted](teacher-is-principal-ocf-provider.md) — related
 - [Teachers adjusted their OCF provision in response to learner reactions, providing feedback when accepted and stopping when it was challenged or ignored](teachers-adjust-ocf-to-learner-reactions.md) — related
 - [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — related
+- [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related

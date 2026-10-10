@@ -47,3 +47,4 @@ Exploratory topic-wise paired analyses (Table 5), 10 items per topic, Holm-adjus
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](podcast-design-barriers-pauses-voice-monotony.md) — related
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — related
 - [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](podcast-gains-higher-order-domains.md) — related
+- [Heterogeneous learning curves across practitioners create organizational challenges including perceived unfairness](learning-curve-heterogeneity-matthew-effects.md) — related

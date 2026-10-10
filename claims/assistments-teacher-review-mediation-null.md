@@ -43,3 +43,4 @@ In the report's retrospective case study of the ASSISTments efficacy trial, the 
 ## Related Claims
 - [Practitioner interaction shaped the fundamental research question of the ASSISTments online math homework randomized controlled trial](assistments-homework-question-from-practitioners.md) — related
 - [Teacher time imposes no incremental cost for ASSISTments above business-as-usual instruction](assistments-no-incremental-teacher-time-cost.md) — related
+- [Implementation varied substantially across teacher trials, and business-as-usual revision was often already technology-rich](medly-implementation-varied-technology-rich-control.md) — related

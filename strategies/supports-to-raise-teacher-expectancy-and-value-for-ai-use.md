@@ -46,6 +46,7 @@ A set of support measures the paper recommends for teachers adopting AI applicat
 - [Technology Integration](../elements/technology-integration.md)
 - [Expectancy Value Framework For Teacher Ai Use Motivation](../theories/expectancy-value-framework-for-teacher-ai-use-motivation.md)
 - [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
+- [Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development](ai-policy-literacy-peer-cop-shared-resources-pd.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ The chapter reports, citing prior work, that early LLM-based educational systems
 ## Related Claims
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [The adaptive virtual patient produces a steadily climbing disclosure trajectory across a session while a prompt-only baseline with the same LLM and persona stays flat](avp-climbing-disclosure-vs-static-flat.md) — related
+- [Most AIED 2025 conference papers use LLMs, most commonly as components in interactive learning systems](aied-2025-majority-papers-use-llms.md) — related

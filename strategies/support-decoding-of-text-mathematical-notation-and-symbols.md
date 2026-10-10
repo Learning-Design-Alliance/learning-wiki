@@ -76,11 +76,13 @@ Decoding is a prerequisite skill: until word or symbol recognition is automatic,
 6. Fade supports as decoding becomes automatic, monitoring for the expertise-reversal point where supports begin to hinder.
 
 ## Related Strategies
+
 - [Accessible Syntax](accessible_syntax.md) — the complementary language-level strategy: simplifying sentence structure so syntax does not compete with content for working memory
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting new symbols to familiar meanings accelerates mapping
 - Pre-teaching vocabulary — a focused application of this strategy to word-level decoding before reading
 - Read-aloud and text-to-speech accommodations — bypass decoding when the goal is comprehension, not word recognition
 - Notation translation (side-by-side symbol/word/visual) — the mathematics-specific variant
+- [Domain-adapt RAG pipelines for mathematical education via entity recognition, notation-aware retrieval, and pedagogical re-ranking](domain-adapted-rag-for-mathematical-education.md)
 
 ## Examples
 - **Structured synthetic phonics programs** (e.g., [Jolly Phonics](https://www.jollylearning.co.uk), [Wilson Reading System](https://www.wilsonlanguage.com)) teach letter–sound mappings explicitly to build automatic word recognition.

@@ -61,9 +61,11 @@ Simulation works because it enables high-volume, low-stakes [practice](../elemen
 6. Assess transfer on a *different* scenario than those practiced
 
 ## Related Strategies
+
 - [Deliberate Practice](../principles/deliberate-practice.md) — simulation is the delivery vehicle; deliberate practice defines the effortful, feedback-rich quality bar
 - [Role-Play](acting-role-play.md) — the human-interaction variant of simulation
 - [Case-Based Learning](case-based-learning.md) — the lower-fidelity, discussion-based cousin; simulation adds enactment
+- [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](fidelity-aware-simulated-patients-deliberate-practice.md)
 
 ## Examples
 - **[Flight simulators](https://www.faa.gov/training_testing/training/sim)** — FAA-certified full-motion simulators are the canonical case; airline pilots log most initial type-rating hours in simulation before flying a real aircraft.

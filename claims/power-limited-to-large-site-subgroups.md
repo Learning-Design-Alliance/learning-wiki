@@ -47,3 +47,4 @@ The abstract states this power limitation as a direct consequence of the large s
 - [Cross-site impact variation has implications for the statistical precision of multisite trials](cross-site-variation-implications-trial-precision.md) — a broader claim this one bears on
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — related
 - [Large school samples are required to achieve appropriate precision standards in clustered education experiments](large-school-samples-required-precision-standards.md) — related
+- [The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)](cluster-randomized-quasi-experiment-powered-for-large-effects.md) — related

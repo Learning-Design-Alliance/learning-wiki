@@ -42,7 +42,8 @@ The paper recommends that learning support be regulated by the teacher from a ce
 - [Fine Tuning System Fts Serious Games](../theories/fine-tuning-system-fts-serious-games.md)
 
 ## Related Strategies
-- 
+
+- [Build the vigilance disposition through an AI partnership whose support is faded as the learner takes over evaluation](fade-ai-support-as-learner-takes-evaluation.md)
 
 ## Examples
 -

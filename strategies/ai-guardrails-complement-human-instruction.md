@@ -45,6 +45,7 @@ The report's fourth use case describes how Indian Prairie SD's governance was gr
 - [Convene cross-functional generative AI task forces to guide ethical adoption decisions and procurement](cross-functional-generative-ai-task-force.md)
 - [Establish AI-specific accountability systems with iterative playbooks, family guides, and continuous evaluation cycles](ai-specific-accountability-systems-playbook.md)
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
+- [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
 
 ## Examples
 -

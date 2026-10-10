@@ -41,6 +41,7 @@ The article recommends that teachers adapt practice to their learners, since "No
 - [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
 - [Embed grammar and vocabulary in situations refugees will encounter, and design instruction that acknowledges age](embed-language-in-refugee-situations-acknowledge-age.md)
 - [Culturally adapt shared decision-making interventions by attending to language, communication style, relationship-building, fear, and visual design — beyond direct translation](culturally-adapt-sdm-beyond-translation.md)
+- [Mediate AI feedback for equity by adapting it to learner readiness, vocabulary, confidence, and bodily awareness](mediate-ai-feedback-for-equitable-access.md)
 
 ## Examples
 -

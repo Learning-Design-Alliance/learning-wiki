@@ -59,9 +59,11 @@ Simulation works because it lets learners generate and test hypotheses in an env
 6. Repeat with varied scenarios so learners abstract the underlying structure rather than memorizing one scenario ([Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md)) [+M].
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — the non-interactive sibling: learners analyze a described case rather than acting inside a simulated one
 - [Role Play](acting-role-play.md) — human-only simulation of interpersonal scenarios
 - [Game-Based Learning](../principles/game-based-learning.md) — simulations that add explicit game mechanics and scoring
+- [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](fidelity-aware-simulated-patients-deliberate-practice.md)
 
 ## Examples
 - **[Laerdal SimMan](https://www.laerdal.com)** and standardized-patient programs in health professions education — high-fidelity patient simulation with structured debriefing; meta-analytic evidence shows large gains over no simulation and comparable or better outcomes than traditional instruction [Cook et al., 2013](https://doi.org/10.1001/jama.2013.282057) [+S]

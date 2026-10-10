@@ -49,3 +49,5 @@ The presenters assert this principle in their 'Questions about Learning with Gen
 - [LLM-based tools may interfere with reading comprehension and retention despite learners finding them helpful](llm-tools-interfere-comprehension-retention.md) — related
 - [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — related
 - [Generative AI generates responses based on probability and pattern prediction, not reasoning or understanding](genai-probabilistic-prediction-not-reasoning.md) — related
+- [Dual-threshold instability: accelerated breakdown when internal generative engagement and genAI reliability both fall below task demands](dual-threshold-instability-hybrid-cognition.md) — related
+- [GenAI use collapses SRL cycle transitions, with metacognitive activity restructuring around the tool](genai-collapses-srl-cycle-transitions.md) — related

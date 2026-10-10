@@ -47,3 +47,4 @@ Theoretical argument drawing on Berlant (2020), grounded in the questionnaire fi
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related
 - [Five common AI misconceptions debunked: AI does not think like humans, create original ideas, replace teachers, or guarantee accuracy, and well-designed AI use need not lower rigor](five-ai-misconceptions-for-educators.md) — related
 - [The predominant student evaluation of LLMs (42%) is positive but conditional on the student's own verification work](students-positive-with-caveat-llm-evaluation.md) — related
+- [Design factors moderating AI's effect on learning matter only through whether they engage the learner's evaluation](design-factors-work-through-vigilance.md) — related

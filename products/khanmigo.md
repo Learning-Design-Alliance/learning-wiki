@@ -25,6 +25,7 @@ Khanmigo is Khan Academy's GPT-4-powered educational tutoring app, offering guid
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Khanmigo AI Component workflow architecture with declarative overrides**: Each Khanmigo feature is a chat-based workflow with its own system prompt, guardrails, and configurable steps. The lowest-level building block is the AI Component: "a simple, generic function that we expect to have variable output, usually from an LLM call." Components are called through a single entry point providing standardized logging, offline-evaluation compatibility, and declarative dot-notation overrides of inputs such as prompt variables and model attributes. Because the workflow entry point is itself an AI Component, experiments can add, remove, or replace whole workflow steps. (Udeshi et al. (2026))
 
 ### Claims
 - [Khanmigo fully supports the authenticity criterion: nearly all activities except Chat can engage learners in authentic tasks](../claims/khanmigo-authenticity-fully-supported.md) [+W]
@@ -39,8 +40,8 @@ Khanmigo is Khan Academy's GPT-4-powered educational tutoring app, offering guid
 
 ## Key Sources
 - Shetye, S. (2024). An Evaluation of Khanmigo, a Generative AI Tool, as a Computer-Assisted Language Learning App. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University. https://journals.library.columbia.edu/index.php/SALT
-
 <!-- merged 2026-10-10 from elements/khanmigo-genai-tutoring-app ("Khanmigo: a GPT-4-based GenAI tutoring app with six activity formats, adaptable to French learning through text-based interaction"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home
 
 # Khanmigo: a GPT-4-based GenAI tutoring app with six activity formats, adaptable to French learning through text-based interaction
 

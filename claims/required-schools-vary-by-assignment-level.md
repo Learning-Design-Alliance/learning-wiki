@@ -46,3 +46,4 @@ The paper analyzes power for designs randomizing at the school, classroom, or st
 - [Large school samples are required to achieve appropriate precision standards in clustered education experiments](large-school-samples-required-precision-standards.md) — a broader claim this one bears on
 - [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — a broader claim this one bears on
 - [The number of schools in a study would have to nearly double to compensate for the precision lost by using school-level proficiency instead of student-level data](nearly-double-schools-compensate-school-level-data.md) — related
+- [The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)](cluster-randomized-quasi-experiment-powered-for-large-effects.md) — related

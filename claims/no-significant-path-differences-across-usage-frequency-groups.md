@@ -67,3 +67,4 @@ Descriptive group-specific coefficients from Table 9; the authors present these 
 - [Perceived AI threat is negatively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-threat-negatively-associated-trust-genai-dependence.md) — related
 - [Trust in AI partially mediates the associations of both perceived AI empowerment and perceived AI threat with GenAI dependence](trust-in-ai-partially-mediates-appraisals-genai-dependence.md) — related
 - [Trust in AI is positively associated with university students' dependence on GenAI](trust-in-ai-positively-associated-genai-dependence.md) — related
+- [The relationship between professional identity and innovative behavior is stronger among teachers with lower reported frequencies of GenAI tool use](professional-identity-innovation-link-stronger-among-low-frequency-genai-users.md) — reports the opposite

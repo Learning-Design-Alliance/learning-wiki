@@ -54,6 +54,7 @@ The panel directs teachers to reflect and value the cultural, racial, and lingui
 - [Maintaining an Inclusive Curriculum](maintaining_an_inclusive_curriculum.md)
 - [Racial Equity In Pbl Build Community Through Shared Ownership](racial-equity-in-pbl-build-community-through-shared-ownership.md)
 - [Racial Equity in PBL - Listen to the Voices of Students](racial_equity_in_pbl_-_listen_to_the_voices_of_students.md)
+- [Mediate AI feedback for equity by adapting it to learner readiness, vocabulary, confidence, and bodily awareness](mediate-ai-feedback-for-equitable-access.md)
 
 ## Examples
 -

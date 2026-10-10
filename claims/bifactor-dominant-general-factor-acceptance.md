@@ -48,3 +48,4 @@ Bifactor CFA on the full sample (N = 401) with ML estimation. The article report
 - [Parallel analysis on the exploratory half retains a single factor for the acceptance scale](parallel-analysis-single-factor-acceptance.md) — related
 - [Under ordinal (WLSMV) estimation the bifactor model is not identifiable, with the S-1 diagnostic implicating the effectiveness-specific factor](wlsmv-bifactor-non-identification-s1-diagnostic.md) — related
 - [A strict one-factor model fits poorly while four-factor, second-order, and bifactor models fit better, with the bifactor model favored by formal comparisons](competing-model-comparisons-bifactor-favored.md) — possibly the same claim (merge candidate)
+- [Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability](efa-unidimensional-ai-pedagogical-orientation-scale.md) — related

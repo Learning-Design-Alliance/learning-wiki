@@ -47,3 +47,4 @@ The paper's empirical analysis of statistical power for education experiments fi
 - [Large school samples are required to achieve appropriate precision standards in clustered education experiments](large-school-samples-required-precision-standards.md) — related
 - [Most education impact studies can rigorously address only broad questions due to power constraints](most-impact-studies-address-broad-questions-only.md) — related
 - [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](gee-sample-size-formulas-clustered-school-rcts.md) — related
+- [The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)](cluster-randomized-quasi-experiment-powered-for-large-effects.md) — a narrower finding that bears on this claim

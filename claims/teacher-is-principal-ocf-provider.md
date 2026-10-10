@@ -49,3 +49,4 @@ In the provider analysis of the interview study, "the teacher was the principal 
 - [EFL instructors were unaware of most OCF strategy types and did not consider students' cognition when deciding on corrective feedback](teachers-unaware-ocf-strategies-cognition-absent.md) — related
 - [College EFL instructors in a Mexican case study showed more positive attitudes towards implicit oral corrective feedback strategies (recast, body language) than explicit ones](efl-teachers-prefer-implicit-ocf-strategies.md) — related
 - [Teachers adjusted their OCF provision in response to learner reactions, providing feedback when accepted and stopping when it was challenged or ignored](teachers-adjust-ocf-to-learner-reactions.md) — related
+- [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](ai-peer-feedback-agentive-revision-strategies.md) — related

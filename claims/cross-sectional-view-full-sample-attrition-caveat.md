@@ -47,3 +47,4 @@ The guide's methodological explanation of the cross-sectional view states it sho
 - [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — related
 - [Attrition was concentrated in schools with higher concentrations of racial/ethnic minorities and socioeconomically disadvantaged students](map-growth-attrition-school-concentration-pattern.md) — related
 - [State-level dashboard results are reported only when at least 20% of students were tested across most grades and the sample contains at least 10 students](dashboard-state-inclusion-thresholds-20-percent-10-students.md) — related
+- [Progressively larger treatment estimates among intervention students crossing engagement thresholds are hypothesis-generating only](medly-engagement-threshold-estimates-hypothesis-generating.md) — related

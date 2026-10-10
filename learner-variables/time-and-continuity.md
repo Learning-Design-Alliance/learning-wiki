@@ -12,7 +12,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (58 for, 12 mixed, 7 against) · 67 studies (22 causal, 15 review, 15 associational, 8 quant-synthesis, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 17 of 67 report an effect size · 73 claims rest on one study
+> **Evidence** · 78 claims (58 for, 13 mixed, 7 against) · 68 studies (23 causal, 15 review, 15 associational, 8 quant-synthesis, 3 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 17 of 68 report an effect size · 74 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -110,6 +110,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Extended school days and years show positive achievement relationships in 14 of 15 high-quality studies, mediated by instruction quality](../claims/extended-time-positive-achievement-instruction-quality-mediator.md) [+M] — learners who differ on it differ in outcomes
 - [Los Padillas reduced chronic absenteeism by more than half, from 65.5% in 2021–22 to 31.3% in 2023–24, a rate below other APS community schools](../claims/los-padillas-chronic-absenteeism-halved.md) [+M] — instruction changes it
 - [FastPerson video summarization halves viewing time with no significant quiz-score loss versus normal playback](../claims/fastperson-halves-viewing-time-no-quiz-loss.md) [+M] — instruction changes it
+- [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](../claims/aifred-context-switch-reduction-longer-time.md) [~M] — instruction changes it
 
 ## Related Learner Variables
 - Self-regulation — a learner who cannot pace themselves needs the schedule imposed.

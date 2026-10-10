@@ -46,3 +46,4 @@ Paired-sample t-tests comparing pre- and post-intervention scores for 26 Cycle 2
 - [87% of K-12 teachers ceased meaningful AI agent creation within three weeks of completing a two-day professional development workshop](87-percent-teachers-cease-ai-agent-creation-three-weeks.md) — related
 - [SDT need satisfaction predicted post-intervention willingness beyond baseline capacity, while post-intervention TPACK showed only a weak, non-significant association with willingness](need-satisfaction-predicts-willingness-beyond-capacity.md) — related
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](ai-tpack-predicts-science-teaching-self-efficacy.md) — related
+- [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](genai-pd-significant-ethical-awareness-gains.md) — related

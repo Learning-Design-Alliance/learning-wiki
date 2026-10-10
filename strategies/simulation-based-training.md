@@ -61,9 +61,11 @@ Simulation works because it compresses experience: learners encounter rare, high
 6. Follow with supervised performance in the real environment to close the transfer gap ([Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — simulation is the interactive, first-person extension of the case method
 - [Role-Play](acting-role-play.md) — low-fidelity simulation using human participants as the environment
 - [Deliberate Practice](../principles/deliberate-practice.md) — simulation provides the controlled, repeatable conditions deliberate practice requires
+- [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](fidelity-aware-simulated-patients-deliberate-practice.md)
 
 ## Examples
 - **Flight simulation (aviation)** — Full-motion simulators with standardized proficiency checks are the canonical case; airline pilots log most initial type-rating hours in simulation before touching the aircraft.

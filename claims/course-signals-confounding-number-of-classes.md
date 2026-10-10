@@ -46,3 +46,4 @@ The article's re-analysis of the observational Course Signals evaluation by Arno
 - [Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding](class-size-studies-excluded-high-risk-confounding.md) — related
 - [Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations](propensity-stratification-multilevel-reduces-selection-bias.md) — related
 - [Randomized experiments de-confound by deleting back-door paths, but imperfect compliance can reintroduce confounding](rct-deconfounding-arrow-deletion.md) — related
+- [Written examination scores were low and confounded, providing a serious warning about students' unaided performance on foundational calculations](kt1-exam-low-unaided-performance-warning.md) — related

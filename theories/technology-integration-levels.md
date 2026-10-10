@@ -13,7 +13,7 @@ generated:
 # Technology Integration Levels (SAMR / RAT / PIC-RAT)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Several closely related models help teachers and designers judge the *effect* a specific use of technology is having on instruction, rather than whether technology is used at all (Kimmons, 2018):
@@ -41,6 +41,8 @@ The shared claim across all three models is that low-value technology integratio
 - Not a learning objective — a design heuristic for evaluating whether a planned or existing use of technology is worth the investment relative to a non-technology alternative
 
 ## Claims
+
+- [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](../claims/ai-integration-mostly-substitution-augmentation.md) [~W] — attached 2026-10-10 from AlSheikh MH et al. (2026), which proposed "SAMR model of technology integration levels (Substitution, Augmentation, Modification, Redefinition)".
 
 ## Related Theories
 

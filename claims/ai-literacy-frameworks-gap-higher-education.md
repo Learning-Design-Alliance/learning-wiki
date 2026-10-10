@@ -45,3 +45,4 @@ The authors' review of existing frameworks (Table 1) argues that frameworks such
 ## Related Claims
 - [The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines](uf-ai-framework-lacks-proficiency-levels.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework](fragmented-ai-sdg-scholarship-research-gap.md) — a broader claim this one bears on

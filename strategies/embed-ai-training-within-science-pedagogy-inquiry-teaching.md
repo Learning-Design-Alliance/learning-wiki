@@ -44,6 +44,8 @@ The article recommends that teacher educators go beyond general AI tool operatio
 
 - [Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning](react-cycle-inquiry-based-learning.md)
 - [Integrate computational thinking into existing disciplinary teaching across grade bands rather than adding it on](integrate-ct-into-disciplinary-learning.md)
+- [Embed AI as a learning partner and redesign assessments for AI-rich contexts](ai-learning-partner-assessment-redesign-strategies.md)
+- [Redesign structurally: grade the reasoning behind AI-assisted work and teach AI-use rules and AI literacy explicitly](assessment-reasoning-ai-literacy-strategy.md)
 
 ## Examples
 -

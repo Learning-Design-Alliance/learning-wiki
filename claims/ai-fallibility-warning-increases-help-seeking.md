@@ -47,3 +47,4 @@ Classroom experiment at a secondary school in Tokyo with 252 seventh-grade stude
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related
 - [The AI-fallibility warning did not significantly change error rate or time spent per problem-solving step](ai-fallibility-warning-no-performance-effect.md) — related
 - [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](adaptive-hint-seeking-behavior-differences.md) — related
+- [In Study 2, both general and specific warnings at least marginally reduce attitude change, with no significant difference between them](study2-general-specific-warnings-reduce-change.md) — related

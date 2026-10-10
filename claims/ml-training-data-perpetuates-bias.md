@@ -49,3 +49,4 @@ Definitional/argumentative content from the glossary's Machine Learning entry (n
 - [Inclusive CT learning engages students in critiquing bias in real technological systems](ct-enables-critique-of-algorithmic-bias.md) — related
 - [Training constraints during AI development create potential biases that may be amplified by the population data used](ai-training-constraints-create-potential-biases.md) — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — a narrower finding that bears on this claim
+- [AI-based analyses of student learning may perform unevenly across student populations, limiting comparability of findings across settings](ai-uneven-performance-across-student-populations.md) — a narrower finding that bears on this claim

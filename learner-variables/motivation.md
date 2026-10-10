@@ -12,7 +12,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (46 for, 10 mixed, 5 against) · 64 studies (20 associational, 15 review, 13 causal, 6 qualitative, 4 design, 3 quant-synthesis, 3 theoretical), `q1`–`q4` · 9 of 64 report an effect size · 55 claims rest on one study
+> **Evidence** · 64 claims (47 for, 11 mixed, 6 against) · 67 studies (20 associational, 15 causal, 15 review, 6 qualitative, 4 design, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 9 of 67 report an effect size · 58 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -95,6 +95,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](../claims/mooc-engagement-declines-with-video-length.md) [+M] — instruction changes it
 - [Pilot studies in computing-related majors report measurable improvements in student engagement, self-efficacy, and learning outcomes](../claims/pilot-studies-measurable-improvements-engagement-self-efficacy.md) [+M] — instruction changes it
 - [Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction](../claims/ai-use-reduces-accomplishment-intrinsic-value.md) [+M] — instruction changes it
+- [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](../claims/ai-assistance-persistence-costs-direct-solutions.md) [~M] — instruction changes it
+- [Changes in situational interest were not statistically significant for either Mathbot or BAU students during the five-day fraction intervention](../claims/mathbot-situational-interest-not-significant.md) [-M] — instruction changes it
+- [Primary metrics improved during US holidays, attributed to more motivated voluntary users](../claims/holiday-usage-motivation-metric-improvements.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Belonging — related but distinct: belonging is about standing, motivation about wanting.

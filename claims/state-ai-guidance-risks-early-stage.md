@@ -46,3 +46,5 @@ Reviewers' assessment of the risk sections of all seven documents. They state th
 - [Seven state AI guidance documents share seven major themes, including human-centered use, AI literacy, equity, and data privacy, though not all themes appear in all documents](seven-state-ai-guidance-seven-common-themes.md) — related
 - [State guidance documents describe opportunities for AI in education with encouraging tones that recommend safe exploration](state-ai-guidance-opportunities-safe-exploration.md) — related
 - [Underlying all AI risks in education is that generative AI behavior is difficult to explain, inspect, or predict due to its statistical mechanisms](generative-ai-behavior-hard-to-explain-inspect-predict.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related

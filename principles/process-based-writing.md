@@ -154,6 +154,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Goal Setting and Monitoring](goal-setting-monitoring.md) — process goals before outcome goals while a writing strategy is new.
 
 ## Examples
+
 - **Draft-revise cycles**: Learners submit early drafts, receive feedback, and revise before final evaluation.
 - **Stage-specific mini-lessons**: An instructor teaches planning, paragraphing, revision, or editing at the point of need.
 - **Writers' workshop routines**: Learners alternate between independent drafting, conferences, peer review, and revision.
@@ -167,6 +168,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [Structured Peer Review](../patterns/structured-peer-review.md) — the peer-response routine used in the response stage.
 - [Collaborative Evaluation](../patterns/collaborative-evaluation.md) — judging example texts against criteria with others before revising one's own.
 - [Modeling Writing and Revising](../strategies/modeling-writing-and-revising.md) — thinking aloud while planning and revising.
+- [Replace detector-centred assessment with a four-stage process-oriented model: declared starting point, versioned drafting, process artefacts, and targeted oral verification](../strategies/process-oriented-assessment-four-stage-model.md)
 
 ## Key Sources
 - Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In *Cognitive processes in writing* (pp. 3-30). Lawrence Erlbaum.

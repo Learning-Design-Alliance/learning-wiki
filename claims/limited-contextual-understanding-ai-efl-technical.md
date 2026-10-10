@@ -42,3 +42,4 @@ Cross-study synthesis of the 54 included empirical studies; the review reports l
 
 ## Related Claims
 - [Unreliable AI-generated output is the most frequently reported technical limitation of AI-supported undergraduate EFL instruction, appearing in 22 of 54 studies (41%)](unreliable-ai-output-most-frequent-technical-limitation-efl.md) — related
+- [Measurable vocal outputs do not by themselves carry fixed pedagogical meaning; their significance depends on interpretation in context](vocal-metrics-lack-fixed-pedagogical-meaning.md) — related

@@ -90,3 +90,4 @@ either alone](pairing-contextual-encounters-with-explicit-instruction-produces-s
 - [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related
 - [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — related
 - [Intensive academic vocabulary instruction across several days is supported by strong evidence from six WWC-standard studies](academic-vocabulary-intensive-instruction-strong-evidence.md) — related
+- [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — related

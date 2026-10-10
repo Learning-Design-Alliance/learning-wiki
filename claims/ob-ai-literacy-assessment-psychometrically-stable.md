@@ -43,3 +43,4 @@ Rasch (1PL) analysis of the objective-based assessment (N = 288) found high inte
 ## Related Claims
 - [The objective-based measure yields a confirmed three-factor structure with acceptable fit in the full sample](ob-measure-three-factor-cfa.md) — related
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — related
+- [Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability](efa-unidimensional-ai-pedagogical-orientation-scale.md) — related

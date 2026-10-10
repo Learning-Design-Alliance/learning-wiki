@@ -64,3 +64,4 @@ Frequency analysis across the 196 courses (Table 3) shows the steep wall shape a
 ## Related Claims
 - [Student Momentum graph shapes differ markedly by subject area, with math courses predominantly convex slope and political science courses predominantly steep wall](momentum-graph-shapes-vary-by-subject.md) — related
 - [A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson](tipping-point-hypothesis-insufficient-online-dropout.md) — related
+- [Agent-generated descriptions significantly improve prediction of student dropout in a lesson, outperforming all other measured approaches](agent-descriptions-improve-dropout-prediction.md) — related

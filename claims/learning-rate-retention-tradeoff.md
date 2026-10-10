@@ -49,3 +49,4 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [Desirable Difficulties Enhance Learning](desirable-difficulties-enhance-learning.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — possibly the same claim (merge candidate)
+- [Educators did not perceive the iterative CTML review process as slowing them down, rating production efficiency at 4.26/5](educators-rate-review-friction-productive.md) — related

@@ -40,7 +40,8 @@ The article positions learning analytics as supporting, not replacing, human rev
 - Detection of ethnic bias in curricula and learning platforms
 
 ## Related Strategies
-- 
+
+- [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
 
 ## Examples
 -

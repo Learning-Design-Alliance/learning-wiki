@@ -48,3 +48,4 @@ The paper's power analysis across school, classroom, and student random-assignme
 - [Large school samples are required to achieve appropriate precision standards in clustered education experiments](large-school-samples-required-precision-standards.md) — related
 - [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](power-limited-to-large-site-subgroups.md) — a narrower finding that bears on this claim
 - [The evaluation has not yet rigorously examined whether the magnet schools reduce, eliminate, or prevent minority group isolation; this is deferred to the final report](minority-group-isolation-outcome-deferred.md) — related
+- [The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)](cluster-randomized-quasi-experiment-powered-for-large-effects.md) — related

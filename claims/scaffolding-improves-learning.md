@@ -102,3 +102,5 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional](ai-scaffolding-developmental-impact-conditional.md) — related
 - [The L2C coach adaptively modulates assistance by estimated learner skill and physical context, concentrating intervention around gates](l2c-adaptive-assistance-by-skill-and-context.md) — a narrower finding that bears on this claim
 - [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](tblt-four-ethical-tensions.md) — related
+- [The Coach's hint budget was managed poorly: students split into early-spenders and savers, and within the Coach condition only those with a deliberate hint strategy scored higher](hint-budget-mismanaged-two-patterns.md) — related
+- [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](offloading-to-ai-costs-learning.md) — a narrower finding that bears on this claim

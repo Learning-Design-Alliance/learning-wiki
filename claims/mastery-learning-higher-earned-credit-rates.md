@@ -63,3 +63,4 @@ Observational comparison of earned credit rates grouped by number of mastery lea
 
 ## Related Claims
 - [In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines](mastery-improves-engagement-attrition.md) — related
+- [In an AI-permitted course with research-shaped homework, most students remained engaged throughout, with 33 of 42 earning credit on at least eight of ten sheets](kt1-sustained-engagement-research-homework.md) — related

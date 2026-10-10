@@ -45,3 +45,4 @@ Paired t-tests on 8,322 pairs comparing human reply sentiment with each fine-tun
 ## Related Claims
 - [Counterfactual fine-tuning reduces sentiment bias in LLM-generated forum replies](counterfactual-fine-tuning-reduces-sentiment-bias.md) — related
 - [LLM-generated forum replies are more neutral and less varied in sentiment than human replies](llm-replies-more-neutral-than-human.md) — related
+- [Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict](score-wise-bias-regression-to-mean-awe.md) — related

@@ -90,3 +90,4 @@ Using a quasi-experimental design across two sections of a required first-year e
 - [Self-regulation strategy instruction improves achievement](self-regulation-strategy-instruction-improves-achievement.md) — related
 - [Team-based discovery learning improved EFL students' research proposal writing across two action-research cycles, with cycle-two average score 85.8 above the success criterion](team-based-discovery-learning-improves-research-proposal-writing.md) — related
 - [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](metacognition-efficiency-effectiveness-outcomes-claim.md) — a broader claim this one bears on
+- [Students who formulated their own rules for when to use AI performed better on assignments in both conditions](self-set-ai-rules-better-assignments.md) — a narrower finding that bears on this claim
