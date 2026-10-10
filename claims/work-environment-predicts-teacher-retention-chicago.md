@@ -65,3 +65,7 @@ The Chicago teacher mobility study (The Schools Teachers Leave) found work envir
 - [Teachers' effectiveness increases at a greater rate in supportive, collegial working environments and when they accumulate experience in the same grade level, subject, or district](experience-gains-greater-in-supportive-environments.md) — related
 - [Dissatisfaction with leadership and staff cohesion predicts staying only in high-poverty schools](leadership-cohesion-retention-high-poverty.md) — related
 - [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related
+- [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](california-principal-preparation-pd-outcomes.md) — related
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — related
+- [School organizational conditions—especially teacher classroom autonomy and faculty decision-making influence—are strongly related to minority teacher turnover](organizational-conditions-drive-minority-teacher-turnover.md) — a narrower finding that bears on this claim
+- [Teachers cite principal support as one of the most important factors in their decision to stay in a school or the profession](principal-support-key-to-teacher-retention.md) — related

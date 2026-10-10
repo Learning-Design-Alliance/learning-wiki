@@ -48,3 +48,4 @@ Descriptive financial-model findings from the Financial Model section: roughly $
 - [Alder nearly doubled the proportion of enrolled residents from historically underrepresented groups, from 45% in 2010–11 to 83% in 2022–23](alder-underrepresented-enrollment-growth.md) — related
 - [Most residents from the first TRGP cohort were still teaching three years later](trgp-residents-retained-88-percent.md) — related
 - [Only 6 of 24 TRGP-participating IHEs enrolled at least 20 TRGP-funded residents in 2022-23, below the cohort size experts suggest is needed for sustainable, affordable programs](ihe-resident-cohorts-below-sustainability-threshold.md) — related
+- [Declining state funding is the primary cause of rising tuition at public colleges, which educate more than 70 percent of undergraduates](state-disinvestment-drives-public-tuition-growth.md) — related

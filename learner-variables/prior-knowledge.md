@@ -12,7 +12,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (29 for, 14 mixed, 6 against) · 44 studies (14 causal, 8 review, 7 associational, 6 theoretical, 4 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 10 of 44 report an effect size · 41 claims rest on one study
+> **Evidence** · 53 claims (32 for, 14 mixed, 7 against) · 46 studies (15 causal, 8 review, 7 associational, 6 theoretical, 5 design, 4 quant-synthesis, 1 qualitative), `q1`–`q4` · 10 of 46 report an effect size · 45 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -82,6 +82,10 @@ A learner's existing domain knowledge in the subject area before instruction beg
 - [When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score](../claims/gamma-process-positive-gain-pretest-correlation.md) [+W] — learners who differ on it differ in outcomes
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+W] — an instructional effect differs with it
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [+W] — an instructional effect differs with it
+- [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](../claims/bkt-largest-achievement-gap-reduction.md) [+M] — an instructional effect differs with it
+- [BKT scaffolding significantly benefits low prior knowledge students, who outperformed low prior knowledge controls](../claims/bkt-benefits-low-prior-knowledge-students.md) [+M] — an instructional effect differs with it
+- [DRL scaffolding significantly benefits high prior knowledge students while BKT does not, and condition-by-prior-knowledge interactions are not significant](../claims/drl-benefits-high-prior-knowledge-students.md) [-M] — an instructional effect differs with it
+- [Pilot self-efficacy gains decreased with self-reported expertise: beginners gained most (+1.18), intermediates +0.94, and advanced users +0.46, all significant](../claims/cc-self-train-gains-by-expertise-level.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Working memory capacity — interacts with prior knowledge: high prior knowledge compensates for limited working memory by enabling chunking.

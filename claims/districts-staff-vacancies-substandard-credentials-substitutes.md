@@ -45,3 +45,4 @@ Survey results on staffing solutions (Figure 5): substandard credentials 55%, su
 ## Related Claims
 - [77% of school principals and district leaders reported challenges hiring enough substitute teachers during the pandemic, more than for any other staffing position](77-percent-principals-substitute-hiring-challenges.md) — related
 - [Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22](michigan-vacancy-data-underreporting.md) — related
+- [Districts report severe substitute teacher shortages during the pandemic, straining remaining teachers who must cover absent colleagues' classes](pandemic-substitute-teacher-shortage-strain.md) — related

@@ -46,3 +46,4 @@ Controlled study in the Deep Thought tutor (Fall 2019 discrete math course). A W
 - [Adaptive students show fewer Opportunistic and Far Off training steps than Control, with no difference in Futile steps](adaptive-fewer-opportunistic-far-off-steps.md) — related
 - [Students receiving Adaptive proactive hints based on HelpNeed predictions achieve significantly higher posttest optimality than Control students](adaptive-proactive-hints-higher-posttest-optimality.md) — related
 - [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](adaptive-hint-seeking-behavior-differences.md) — related
+- [BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality](bkt-faster-posttest-completion.md) — a narrower finding that bears on this claim

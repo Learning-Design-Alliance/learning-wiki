@@ -43,6 +43,7 @@ The deck's considerations for developing policy content include recognizing that
 ## Related Strategies
 
 - [Establish an inclusive AI task force before revising responsible use policies](ai-task-force-before-policy-revision.md)
+- [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
 
 ## Examples
 -

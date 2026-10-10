@@ -101,3 +101,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related
 - [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](relationships-pathways-self-efficacy-motivation-identity.md) — related
 - [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related
+- [The Artifact captures learning experiences within and beyond the classroom, revealing learning habits and mindsets relevant to action-based pedagogy](artifact-captures-learning-in-action.md) — related

@@ -45,3 +45,4 @@ The author states the study's purpose: "This article evaluates the relative impo
 ## Related Claims
 - [Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain](sanction-threats-short-run-score-gains-gaming-uncertain.md) — related
 - [Low examinee effort is a major threat to valid uses of many test scores](low-examinee-effort-threat-to-score-validity.md) — related
+- [Single composite accountability indicators are susceptible to gaming and Campbell's Law corruption pressures](composite-indicators-gaming-campbells-law.md) — possibly the same claim (merge candidate)

@@ -50,3 +50,5 @@ EdTrust analysis of DESE/NCES data comparing the SY 2021-22 public high school p
 - [Massachusetts lets universities set their own AP credit standards, and the lack of a statewide minimum disproportionately harms Black and Latino students who earn a passing score of 3](inconsistent-ap-credit-policies-harm-students-of-color.md) — related
 - [Only 78% of Kentucky AP course completers took the AP exam in 2021-22, and test-taking growth did not extend to Black or Latino students](ky-ap-test-taking-gap-black-latino.md) — related
 - [In Massachusetts, only about half of Latino and Black 11th-12th graders completed at least one advanced course in 2021-22, compared to 64% of all students](ma-advanced-course-completion-racial-gaps.md) — related
+- [Educator bias and mindsets often limit which students get access to advanced STEM coursework](educator-bias-mindsets-limit-advanced-stem-access.md) — related
+- [Michigan dual enrollment participation (4.5%) lags the national rate (10.3%), and students of color are underrepresented among dual enrollees](michigan-dual-enrollment-lags-underrepresentation.md) — related

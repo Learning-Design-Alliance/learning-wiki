@@ -145,6 +145,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 **[NetLogo](https://ccl.northwestern.edu/netlogo)** — Agent-based modeling environment used in science education for learners to build and perturb models of complex systems (epidemics, ecosystems), supporting exploration of emergent behavior.
 - [Embed puzzles and challenges in simulations for continued engagement and self-assessment](../strategies/embed-puzzles-and-challenges-in-sims.md)
 - [Use simulation as a non-threatening alternative to direct experimentation when testing office reorganizations](../strategies/simulation-as-non-threatening-experimentation-alternative.md)
+- [Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning](../strategies/react-cycle-inquiry-based-learning.md)
 
 ## Key Sources
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)

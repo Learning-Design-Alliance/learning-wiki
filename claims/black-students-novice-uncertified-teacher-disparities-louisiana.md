@@ -52,3 +52,6 @@ The brief's disparity tables compare Black and non-Black students in Louisiana: 
 - [Schools serving the greatest percentages of Black students have higher percentages of novice teachers than schools serving the fewest (15% vs 10% nationally)](black-students-schools-more-novice-teachers.md) — related
 - [Latino students have more novice teachers than their peers in more than half of U.S. states](latino-students-more-novice-teachers-majority-of-states.md) — related
 - [Whether disparities in access to novice teachers occur between districts or within districts varies widely by state](novice-teacher-disparities-between-within-districts-vary.md) — related
+- [Illinois Black and Latino students have less access to non-novice and certified teachers than their peers](illinois-black-latino-students-novice-uncertified-teacher-access.md) — related
+- [Black students in Michigan were more likely than non-Black students to attend schools with high percentages of novice teachers (18% vs 8%)](michigan-black-students-novice-teacher-disparity.md) — related
+- [In Texas, students of color are more likely than their peers to attend schools with high percentages of novice and uncertified teachers](texas-students-of-color-novice-uncertified-teachers.md) — related

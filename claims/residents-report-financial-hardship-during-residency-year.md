@@ -64,3 +64,4 @@ Spring 2021 surveys found gaps in health coverage: "a quarter of residents did n
 - [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related
 - [Most residency programs offer district-based employment opportunities, but fewer than half of residents participate, mainly due to time and schedule conflicts](low-uptake-district-based-employment-residents.md) — related
 - [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related
+- [Apprentices desired clearer, more consistent program communication, especially about financial obligations](rtap-communication-clarity-desired.md) — related

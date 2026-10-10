@@ -44,6 +44,7 @@ The Guidebook directs teams to identify internal partners (leadership, faculty, 
 - [Deliver clear, simple, consistent early messaging to K-12 students and parents about college affordability, preparation, enrollment, and completion](early-consistent-college-messaging-k12.md)
 - [Design an evaluation and research framework with mapped data landscapes, program measures, and data-sharing agreements](promise-evaluation-data-sharing-framework.md)
 - [Integrate layered student support services across the transitions from middle and high school, into college, and through college](promise-student-support-services-transitions.md)
+- [Reduce institutional barriers through cross-department coordination, low-barrier review models, and faculty-based outreach](coordination-and-faculty-outreach-emergency-aid.md)
 
 ## Examples
 -

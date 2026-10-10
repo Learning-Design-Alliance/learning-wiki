@@ -46,6 +46,9 @@ The brief recommends that Massachusetts require public higher education institut
 - [Adopt automatic enrollment and open enrollment policies for advanced courses to expand equitable access](automatic-open-enrollment-advanced-courses.md)
 - [Equitable access to rigorous and culturally sustaining curricula, including automatic advanced-coursework enrollment](rigorous-culturally-sustaining-curricula-access.md)
 - [Use multiple measures, not single test cut scores, to determine eligibility for dual credit courses](multiple-measures-dc-placement.md)
+- [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
+- [Automatic enrollment into advanced coursework with an opt-out option](automatic-enrollment-opt-out-advanced-coursework.md)
+- [Disaggregate all higher education data by race and income to reveal which student groups have which opportunities and outcomes](disaggregate-higher-ed-data-race-income.md)
 
 ## Examples
 -

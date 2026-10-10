@@ -42,6 +42,8 @@ The report describes a range of funding sources states use to launch and sustain
 - [Recommendations for sustainable and affordable residency programs: align with LEA strategy, engage system leaders, dedicate sustainability roles, and run affordability analyses](residency-sustainability-recommendations.md)
 - [Federal policy should invest in high-quality professional learning for educators, prioritizing preparation and professional development designs including teachers teaching teachers](federal-invest-educator-professional-learning.md)
 - [State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees](state-policy-levers-yearlong-stipended-clinical-preparation.md)
+- [District investment of LCFF funds in residency stipends written into Local Control and Accountability Plans as a workforce development strategy](lcff-district-funded-residency-stipends.md)
+- [Five state policy actions to sustain and scale teacher residencies](texas-residency-policy-recommendations.md)
 
 ## Examples
 -

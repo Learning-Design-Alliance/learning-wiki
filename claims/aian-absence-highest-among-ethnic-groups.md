@@ -47,3 +47,4 @@ Figure 1 of the brief reports percentages of chronically absent students by ethn
 - [By 2021–22, 36 percent of English learners were chronically absent versus 30 percent of students overall, reversing a prepandemic attendance advantage](english-learners-36-percent-chronically-absent-2021-22.md) — related
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
 - [Chronic absence in West Kern Consortium schools dropped 9 percentage points from its 2021–22 peak, with large district-level reductions](west-kern-chronic-absence-reduction.md) — related
+- [Students experiencing homelessness in California are chronically absent at twice the state average, with rates above 40% for African American and Native American/Alaskan students](homeless-students-chronic-absenteeism-double-state-average.md) — related

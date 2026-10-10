@@ -54,6 +54,10 @@ The report describes GYO programs that "recruit local community members into tea
 - [Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates](retain-teachers-of-color-strategies.md)
 - [Districts respond to shortages with teacher preparation and pathway strategies, especially partnerships coordinating student teaching and residency placements](teacher-preparation-pathway-partnership-strategies.md)
 - [Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce](teacher-residency-braided-recruitment-retention.md)
+- [Fund Grow Your Own programs to recruit more candidates of color than traditional educator preparation programs attract](grow-your-own-programs-recruit-candidates-of-color.md)
+- [District investment of LCFF funds in residency stipends written into Local Control and Accountability Plans as a workforce development strategy](lcff-district-funded-residency-stipends.md)
+- [Recruit residency candidates locally from the communities they will teach in, with LEA partners participating in admissions](local-recruitment-lea-partner-admissions.md)
+- [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
 
 ## Examples
 -

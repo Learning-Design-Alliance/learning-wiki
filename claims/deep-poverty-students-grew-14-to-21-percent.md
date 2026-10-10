@@ -45,3 +45,4 @@ The white paper reports, citing U.S. Census Data from 1973 and 2014, that deep p
 ## Related Claims
 - [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
 - [Administrators reporting social problems in the school's community as a top roadblock grew from 31 percent in 2009 to 43 percent in 2017](community-social-problems-roadblock-growth.md) — related
+- [The share of undergraduates with household income at or below 130 percent of the federal poverty line rose from 28 percent in 1996 to 39 percent in 2016, while over 2 million likely SNAP-eligible students do not report receiving benefits](low-income-undergrad-share-rose-snap-gap.md) — related

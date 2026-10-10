@@ -101,9 +101,11 @@ The pattern is most useful when the instructional goal is not just finding infor
 - [Discussion Group](discussion-based-learning.md)
 
 ## Examples
+
 - Learners jointly investigating a community issue and synthesizing evidence into a shared explanation.
 - Science groups developing, testing, and revising explanations around a common phenomenon.
 - Professional teams analyzing trends, gathering evidence, and updating a shared recommendation.
+- [Three-part instructional strategy: build community, scaffold inquiry-based instruction while reducing cognitive load, and explicitly develop skills, habits, and mindsets](../strategies/three-strategies-teach-way-students-learn.md)
 
 ## Impact
 - Supports deeper engagement when the goal is to improve ideas rather than only gather information.

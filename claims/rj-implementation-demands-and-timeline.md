@@ -66,3 +66,4 @@ The review reports cited timelines: attitude shifts of "one to three years" and 
 - [Qualitative studies report district-provided professional development and adequate preparation time as necessary factors for effective restorative justice implementation](rj-pd-and-time-necessary-for-implementation.md) — related
 - [Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools](rj-implementation-challenges-time-funding-sustainability.md) — related
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
+- [School staff reported confidence in restorative discipline practices but used them infrequently](staff-confident-but-infrequently-use-restorative-practices.md) — related

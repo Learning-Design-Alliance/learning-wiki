@@ -47,3 +47,13 @@ A descriptive bar chart compares percentages of students of color versus teacher
 - [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — a narrower finding that bears on this claim
 - [In Massachusetts (2019-20), people of color are 35% of students but only 6.9% of teachers and 16% of paraprofessionals, and 38% of schools have no teachers of color](ma-teacher-diversity-gap-2019-20.md) — related
 - [In Georgia in 2021-22, 44% of principals and assistant principals were people of color compared with 59% of students, with the largest gap for Latino students (2% of leaders vs. 18% of students)](georgia-leader-diversity-gap-2021-22.md) — related
+- [In California, 9.1% of schools have no teachers of color, and 3.0% of all students attend such schools](california-schools-without-teachers-of-color.md) — related
+- [In California (2018-19), 77.4% of K-12 public school students are people of color but only 39.1% of classroom teachers are](california-students-77-percent-teachers-39-percent-of-color.md) — a narrower finding that bears on this claim
+- [In Illinois (2018-19), 52% of K-12 public school students are people of color but only 18% of teachers are](illinois-52-percent-students-18-percent-teachers-of-color.md) — a narrower finding that bears on this claim
+- [Michigan's teacher workforce was far less diverse than its student population in 2018-19 (9.7% vs 34.2% people of color)](michigan-teacher-student-diversity-mismatch.md) — a narrower finding that bears on this claim
+- [In Ohio in 2017-18, 27.7% of students were of color while only 6.6% of teachers were of color](ohio-2017-18-student-teacher-diversity-gap.md) — related
+- [In Pennsylvania, 53.0% of schools have no teachers of color, and 43.3% of all students attend such schools](pa-half-of-schools-no-teachers-of-color.md) — related
+- [In Pennsylvania (2018-19), people of color are 35.1% of K-12 public and charter students but only 6.4% of classroom teachers](pa-teachers-of-color-6-4-percent-vs-35-1-students.md) — a narrower finding that bears on this claim
+- [Teacher apprentices of color primarily learned about their programs through word-of-mouth from school colleagues and leaders](rtap-recruitment-word-of-mouth.md) — related
+- [In Tennessee (2019-20), 35% of students are of color but only 14% of teachers are, and 23% of students attend schools with no teachers of color](tennessee-teacher-student-demographic-mismatch.md) — a narrower finding that bears on this claim
+- [In Texas (2018-19), people of color were 72.5% of students but only 41.4% of teachers](texas-teacher-student-diversity-gap-2018-19.md) — a narrower finding that bears on this claim

@@ -46,3 +46,4 @@ HSLS:09 survey analysis of school counseling practices among high-achieving Blac
 ## Related Claims
 - [High-achieving underserved students who took advanced math more commonly had math teachers who made goals clear and emphasized reasoning and understanding than peers who did not](advanced-math-takers-teacher-goals-clear-emphasis.md) — related
 - [Feeling safe and proud of school was associated with advanced math course-taking for most groups but not for Black high achievers, who reported about 80% regardless of course-taking](safety-pride-exception-black-students.md) — related
+- [Educators of color are more likely to refer students of color for advanced courses](educators-of-color-more-likely-refer-students-of-color.md) — related

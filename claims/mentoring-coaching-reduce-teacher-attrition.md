@@ -65,3 +65,4 @@ The guidance states that coaching promotes retention and that "Early career teac
 - [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](mentoring-halves-new-teacher-attrition.md) — possibly the same claim (merge candidate)
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
 - [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related
+- [Ohio meets criteria on high-retention teaching pathways and early-career induction with mentoring](ohio-resident-educator-induction-mentoring-meets-criteria.md) — a narrower finding that bears on this claim

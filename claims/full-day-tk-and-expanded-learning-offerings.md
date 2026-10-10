@@ -44,3 +44,5 @@ Statewide LEA survey (N = 1,415 LEAs with TK), reported in the TK Service Delive
 
 ## Related Claims
 - [Nearly all California LEAs offered TK in 2023–24, with 85% offering it at all elementary sites, up from 81% the prior year](california-leas-tk-offering-2023-24.md) — related
+- [Most California LEAs offered full-day TK, but large LEAs were less likely to offer only full-day options while more likely to combine TK with on-site expanded learning programs](full-day-tk-and-expanded-day-by-lea-size.md) — related
+- [A majority of LEAs planned to offer TK at all kindergarten sites and full-day TK](majority-leas-all-sites-full-day-tk.md) — related

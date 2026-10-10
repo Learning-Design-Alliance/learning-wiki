@@ -55,6 +55,8 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
+- [Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations](develop-inclusive-future-oriented-genai-policies.md)
+- [Institutional leaders should examine their own data, identify troublesome equity trends, and engage faculty, staff, and students in deliberate action to support all students](intentional-data-driven-institutional-action.md)
 
 ## Examples
 -

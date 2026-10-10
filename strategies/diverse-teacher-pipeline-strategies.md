@@ -58,6 +58,9 @@ The brief's Goal 3 and Goal 4 criteria enumerate pipeline strategies states shou
 - [Six state-level strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-diversity.md)
 - [Multi-pronged state investments to diversify and retain the educator workforce](state-investments-diversify-educator-workforce.md)
 - [Strengthen teacher pipelines and remove biased promotion barriers to build the principal pipeline](strengthen-teacher-pipelines-principal-pipeline.md)
+- [Fund Grow Your Own programs to recruit more candidates of color than traditional educator preparation programs attract](grow-your-own-programs-recruit-candidates-of-color.md)
+- [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
+- [Support teacher residency programs, which are associated with higher retention rates for teachers of color](teacher-residency-programs-retain-teachers-of-color.md)
 
 ## Examples
 -

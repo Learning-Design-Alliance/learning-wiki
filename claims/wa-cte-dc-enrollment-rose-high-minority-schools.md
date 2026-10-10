@@ -69,3 +69,4 @@ School-level analysis comparing CTE DC enrollment across low, medium, and high B
 - [Overall advanced coursework completion in Washington rose slightly from 2019 to 2022, with gains for Black, Latino, and low-income students similar to the state average](wa-dc-completion-rose-slightly.md) — related
 - [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
 - [Rural Washington districts show much lower AP enrollment and slower CTE DC growth than urban districts, with lower dual credit completion](wa-rural-urban-advanced-coursework-gaps.md) — related
+- [New Mexico CTE enrollment shows breadth over depth and demographic underrepresentation, with females only 19% of STEM CTE enrollment versus 49% of the total population](new-mexico-cte-enrollment-breadth-and-equity-gaps.md) — related

@@ -51,6 +51,7 @@ The action plan recommends that the state take immediate and six-year sequenced 
 - [Policymakers should fund and deliver authentic, job-embedded principal professional learning and remove access barriers](support-authentic-principal-professional-learning.md)
 - [Using Title II professional development funds to strengthen teacher preparation, recruitment, induction, and support in high-need schools](title-ii-teacher-equity-strategies.md)
 - [Six-part strategy for assuring qualified teachers for all students](six-part-qualified-teachers-strategy.md)
+- [Phased policy agenda for building a statewide pathways system: immediate low-cost COVID-recovery steps followed by longer-term investments](phased-pathways-policy-agenda-new-mexico.md)
 
 ## Examples
 -

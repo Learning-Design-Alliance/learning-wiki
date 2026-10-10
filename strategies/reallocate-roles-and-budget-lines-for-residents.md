@@ -45,6 +45,7 @@ The report's most common sustainability strategy is redirecting dollars and role
 - [Sustain paid residencies through strategic staffing that reallocates resident instructional support roles](strategic-staffing-stipend-sustainability.md)
 - [Strategic staffing models that redirect district instructional-support funds to subsidize paid residency stipends](strategic-staffing-residency-stipend-strategy.md)
 - [Policy recommendations for sustaining and expanding teacher residencies](residency-policy-recommendations-texas.md)
+- [Employ residency residents as the second adult in TK classrooms using assistant teacher or paraprofessional budget lines](resident-as-second-adult-in-tk-classroom-strategy.md)
 
 ## Examples
 -

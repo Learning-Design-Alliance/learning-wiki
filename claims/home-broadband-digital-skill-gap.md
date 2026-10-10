@@ -50,3 +50,4 @@ The report cites a study of rural Michigan school districts: "students with no h
 - [Implementation data show teachers shifted independent practice toward in-class ASSISTments assignments, a change the study links to more equitable access for rural students with limited home connectivity](assistments-classwork-shift-rural-equity.md) — related
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related
+- [Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas](technology-access-barriers-fafsa-implementation.md) — related

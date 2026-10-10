@@ -65,3 +65,4 @@ Survey of currently teaching recipients (n = 2,546, Table 5) shows concentration
 - [Most survey respondents said the GSTG influenced their decision to pursue teaching, complete preparation, and teach in a priority school, with strongest perceived impacts among candidates of color](gstg-perceived-impact-career-decisions.md) — related
 - [Residencies prepare teachers for high-need subjects and schools, with most NCTR-network graduates hired in shortage fields and Title I schools](residencies-fill-high-need-positions.md) — related
 - [The 2024 reduction of the maximum GSTG award from $20,000 to $10,000 left recipients with more unmet need, greater loan reliance, and more work during preparation](gstg-reduced-award-lessens-impact.md) — related
+- [Golden State Teacher Grant recipients reported the scholarship made teaching financially feasible and led them to plan longer stays in high-need schools](gstg-made-teaching-financially-feasible.md) — related

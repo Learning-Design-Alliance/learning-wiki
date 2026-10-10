@@ -55,3 +55,4 @@ Survey results reported in the Progress section from the 2023–24 APS Skills, H
 - [The Los Padillas 4th-grade cohort improved markedly in ELA from 3rd to 4th grade (13% to 34% proficient) and outperformed APS community school peers](los-padillas-fourth-grade-ela-gains.md) — related
 - [Los Padillas shifted away from exclusionary discipline, with no in- or out-of-school suspensions in 2023–24, and retained nearly all its teachers over 5 years](los-padillas-discipline-retention-outcomes.md) — related
 - [Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22](los-padillas-kindergarten-formative-gains.md) — related
+- [Students reported a weaker sense of belonging than staff perceived, indicating staff overestimate their impact on students' belonging and respect](staff-overestimate-student-belonging.md) — related

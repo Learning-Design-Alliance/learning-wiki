@@ -49,3 +49,6 @@ The brief's Louisiana disparity table for Latino versus non-Latino students show
 - [In seven states, Latino students are more likely to attend schools with high percentages of uncertified teachers](seven-states-latino-students-uncertified-teachers.md) — related
 - [Whether disparities in Latino students' access to novice teachers arise between districts or within districts varies widely by state](between-versus-within-district-novice-teacher-disparities-vary-by-state.md) — related
 - [Whether disparities in access to novice teachers occur between districts or within districts varies widely by state](novice-teacher-disparities-between-within-districts-vary.md) — related
+- [California Black and Latino students are more likely than their peers to attend schools with high percentages of novice and uncertified teachers](california-black-latino-students-novice-uncertified-teacher-disparities.md) — related
+- [Black and Latino students in Pennsylvania are far more likely than their peers to attend schools with high percentages of novice and uncertified teachers](pa-black-latino-students-novice-uncertified-teacher-disparities.md) — related
+- [In Texas, students of color are more likely than their peers to attend schools with high percentages of novice and uncertified teachers](texas-students-of-color-novice-uncertified-teachers.md) — related

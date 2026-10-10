@@ -46,3 +46,7 @@ Survey-reported staffing needs across expansion years (Figure 5). The report als
 - [Staffing challenges persisted for state preschool and Head Start classrooms, with vacancy rates of 5% and 11% that increased from the prior year](cspp-head-start-vacancies-increased.md) — related
 - [TK enrollment grew from 88,883 children in 2019–20 to 151,491 in 2023–24, while the share of eligible 4-year-olds enrolled declined to 59%](tk-enrollment-growth-uptake-decline.md) — related
 - [TK staffing shortages improved: TK assistant teacher vacancies fell from 12% to 3%, and 91% of LEAs reported enough lead teachers meeting 2025–26 requirements](tk-staffing-vacancies-improved-2023-24.md) — related
+- [California will need at least 16,000 to 19,700 assistant TK teachers by 2025–26 under one-lead-one-assistant staffing](assistant-tk-teachers-16000-19700.md) — related
+- [Growth in TK teacher demand is projected to be non-linear, with the sharpest increases in 2023–24 and 2025–26](tk-teacher-demand-nonlinear-spikes.md) — related
+- [California LEAs reported sufficient fully qualified TK lead teachers in 2022–23 but high second-adult vacancies, and projected needing 1,489 more TK lead teachers and 962 more aides in 2023–24](tk-workforce-lead-sufficiency-aide-vacancies.md) — related
+- [California LEAs reported sufficient classroom space for projected UPK enrollment overall, yet facilities were the most cited implementation challenge, followed by staffing and sustainable funding](upk-facilities-staffing-funding-challenges.md) — related

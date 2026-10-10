@@ -69,3 +69,4 @@ Re-analysis of Era 2 score distributions reported in Chapter 2. The widespread b
 - [The merit award program produced modest achievement improvements concentrated in schools close to the award threshold](merit-award-modest-gains-near-threshold.md) — related
 - [ISAT cut scores differ by grade and subject, with eighth-grade mathematics requiring a high score and eighth-grade reading a relatively low one to meet standards](isat-cut-scores-vary-grade-subject.md) — related
 - [One-to-one correspondence between ITBS national quartiles and ISAT performance categories breaks down at the first and fourth quartiles](quartile-category-correspondence-breaks-extremes.md) — related
+- [Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students](letter-grades-hide-within-grade-score-variation.md) — related

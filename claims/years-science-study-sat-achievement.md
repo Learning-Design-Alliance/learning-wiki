@@ -63,3 +63,4 @@ The report cites Bridgeman and Wendler (2005) for the pattern that "Smaller prop
 
 ## Related Claims
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
+- [The quality and intensity of the high school curriculum is reported to be the single most important factor in college success](curriculum-quality-intensity-most-important-college-success.md) — related

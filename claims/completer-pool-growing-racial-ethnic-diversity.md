@@ -44,3 +44,7 @@ Descriptive analysis of race/ethnicity of completer survey respondents over five
 
 ## Related Claims
 - [Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.](residencies-enroll-more-candidates-of-color.md) — related
+- [California publicly reports school-level educator workforce race data but lags two years and publishes no data on preparation-program candidates, completers, or retention of educators of color](california-educator-diversity-data-transparency-gaps.md) — related
+- [Claremont's resident cohort grew from 5 residents in 2020 to 34 full-time residents in 2022–23 and became increasingly diverse](claremont-cohort-growth-and-diversification.md) — related
+- [CSUB residency participants are more racially diverse than California's general teacher population and better reflect the diversity of CSUB's student body than other credentialing pathways](csub-residencies-diversify-teacher-workforce.md) — related
+- [The center-based early educator workforce is more racially and ethnically diverse than the TK–12 workforce, with 66% identifying as people of color versus 39%](ece-workforce-more-diverse-than-tk12.md) — related

@@ -63,3 +63,4 @@ Stated limitation: the pooled state samples were heterogeneous by gender and eth
 - [Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used](residual-bias-nonexperimental-estimators.md) — a broader claim this one bears on
 - [Teacher effects may be heterogeneous across students of differing aptitudes, affecting growth modeling and teacher evaluation](teacher-effect-heterogeneity-across-aptitudes.md) — related
 - [Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity](collider-bias-sample-truncation-at-risk.md) — related
+- [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — related

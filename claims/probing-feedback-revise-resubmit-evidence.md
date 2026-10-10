@@ -73,3 +73,4 @@ Both entries are one qualitative case analysis (Janis et al. 2025) of individual
 - [Actionable and descriptive feedback moves student learning forward, and effective feedback differs from less-effective feedback on identifiable qualities](actionable-descriptive-feedback-moves-learning-forward.md) — related
 - [Teacher feedback as part of formative assessment has been shown by multiple studies to move student learning forward](teacher-feedback-moves-learning-forward.md) — related
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — a broader claim this one bears on
+- [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](iterative-lesson-planning-before-clinical-placement.md) — related

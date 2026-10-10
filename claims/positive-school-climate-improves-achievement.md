@@ -47,3 +47,4 @@ The report's synthesis of two research reviews covering more than 400 studies co
 - [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](community-schools-positive-outcomes.md) — related
 - [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — related
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](positive-school-climate-mitigates-homicide-effects.md) — related
+- [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](positive-school-climate-improves-attendance-achievement.md) — possibly the same claim (merge candidate)

@@ -47,3 +47,4 @@ Cross-case observational finding from the Lessons Learned chapter (Lesson 4); th
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — a narrower finding that bears on this claim
 - [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) — related
 - [Most field-test teachers report curriculum-based professional learning prepared them for distinctive OpenSciEd pedagogy, with mixed results on standards beliefs](pd-prepares-storyline-pedagogy-implementation.md) — related
+- [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](iterative-lesson-planning-before-clinical-placement.md) — a narrower finding that bears on this claim

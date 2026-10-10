@@ -44,3 +44,4 @@ The review reports, citing Darvishi et al. (2024), a controlled study in which "
 - [Coaches cautioned that AI-generated feedback should be used formatively rather than for summative assessment because of AI's probabilistic nature](ai-feedback-formative-not-summative-caution.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [Developers who used AI assistance scored 17% lower on a subsequent comprehension assessment than developers who completed the same tasks without AI, per the cited controlled study](ai-assistance-lower-comprehension-17-percent.md) — related

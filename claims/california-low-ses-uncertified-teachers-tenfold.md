@@ -47,3 +47,4 @@ The article reports recent analyses of California teacher data showing uncertifi
 - [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](state-variation-teacher-access-inequity.md) — related
 - [Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14](shortage-burden-high-poverty-high-minority-schools.md) — related
 - [Across rural, suburban, and urban locales, schools with high student of color enrollment have higher percentages of uncertified teachers than schools with low enrollment](uncertified-teacher-inequity-across-locales.md) — related
+- [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related

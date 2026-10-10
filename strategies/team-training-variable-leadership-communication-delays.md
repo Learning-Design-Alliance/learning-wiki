@@ -40,6 +40,7 @@ For crews facing Earth-independent operation, the review recommends team trainin
 
 - [Stress inoculation training for crews operating without external support](stress-inoculation-training-spaceflight-crews.md)
 - [Phase-based behavioral readiness training spanning pre-flight, in-flight, and post-flight](phase-based-behavioral-readiness-training.md)
+- [Adaptive-resolution simulation: allocate more LLM calls to educationally consequential moments and compress routine transitions](adaptive-resolution-educational-simulation.md)
 
 ## Examples
 -

@@ -49,6 +49,10 @@ The brief enumerates six strategies states should pursue to "create the right po
 - [Set measurable, time-bound goals for school leader diversity and make diversity data publicly visible](leader-diversity-goals-public-data.md)
 - [Publish school-level educator race/ethnicity data and program-completer and retention data on state dashboards](publish-educator-diversity-data-dashboards.md)
 - [Grow-your-own and recruitment initiatives: alternative programs, Minority Serving Institutions, high-school pipeline programs, and district human-capital efforts to diversify the teacher workforce.](toc-pipeline-recruitment-practices.md)
+- [Make school-level educator diversity data publicly available and easy to interpret so stakeholders can act on it](public-school-level-educator-diversity-data-strategy.md)
+- [Six state strategies for increasing the racial diversity of the educator workforce, from data visibility through COVID-relief investment](six-state-strategies-educator-diversity-workforce.md)
+- [Six state policy strategies for increasing the racial diversity of the educator workforce](six-state-strategies-educator-workforce-diversity.md)
+- [Support teacher residency programs, which are associated with higher retention rates for teachers of color](teacher-residency-programs-retain-teachers-of-color.md)
 
 ## Examples
 -

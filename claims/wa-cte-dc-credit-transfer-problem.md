@@ -66,3 +66,5 @@ The brief attributes to the same Education Research and Data Center study the fi
 - [CTE dual credit enrollment in Washington rose about 5 percentage points from 2019 to 2022, with the largest spike in schools with high concentrations of Black and Latino students](wa-cte-dc-enrollment-rose-high-minority-schools.md) — related
 - [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
 - [Overall advanced coursework completion in Washington rose slightly from 2019 to 2022, with gains for Black, Latino, and low-income students similar to the state average](wa-dc-completion-rose-slightly.md) — related
+- [Students who take college-level courses in high school are more likely to graduate, go on to college, and earn a degree](college-level-high-school-courses-linked-graduation-degree.md) — related
+- [Black students in Michigan are three times as likely as white students to have access to no CTE programs, and students with disabilities complete CTE at lower rates](michigan-cte-access-disparities.md) — related

@@ -41,6 +41,7 @@ The report closes with a set of state-level actions to sustain UPK quality as TK
 
 - [Use local resources to serve children birth through age 3 to stabilize community providers as 4-year-olds move into TK](serve-birth-through-3-to-stabilize-providers.md)
 - [Expand transitional kindergarten and preschool by braiding UPK funds with hiring, culturally responsive curriculum, and community college partnerships](upk-transitional-kindergarten-braided-implementation.md)
+- [Target state UPK technical assistance on coaching and mentoring, curriculum and assessment guidance, facilities, multilingual learner supports, and paraprofessional workforce investment](upk-technical-assistance-priorities-coaching-mentoring.md)
 
 ## Examples
 -

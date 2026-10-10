@@ -59,9 +59,11 @@ Voice-based asynchronous discussion increases social presence and teaching prese
 6. Close each discussion cycle with a synthesis — a summary voice note or written recap — so the conversation converges rather than dissipates.
 
 ## Related Strategies
+
 - [Flipped Classroom](../patterns/flipped-classroom.md) — voice threads can carry the pre-class discussion that primes in-person work
 - [Discussion-Based Learning](../patterns/discussion-based-learning.md) — asynchronous voice is a modality variant of structured discussion
 - [Check-Ins](../principles/check-ins.md) — one-to-one voice channels make lightweight ongoing check-ins feasible at a distance
+- [Deliver learning through asynchronous out-of-band channels that preserve developer flow](out-of-band-async-learning-channels-preserve-flow.md)
 
 ## Related Elements
 - [Collaboration](../elements/collaboration.md) — small-group voice channels support project coordination between meetings

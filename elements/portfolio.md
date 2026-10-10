@@ -13,7 +13,7 @@ generated:
 # Portfolio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 2 studies (2 quant-synthesis), `q4` · 2 of 2 report an effect size
+> **Evidence** · 2 claims (2 mixed) · 3 studies (2 quant-synthesis, 1 qualitative), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A portfolio is a purposeful collection of learner work — artifacts, drafts, and reflections — assembled over time to document progress, demonstrate competence, and support self-evaluation. Unlike point-in-time [assessment](assessment.md), it captures process as well as product, and the learner typically participates in selecting and annotating what is included.
@@ -52,7 +52,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The portfolio adds context to holistic review that readers say helps level the playing field for applicants from under-resourced high schools](../claims/portfolio-adds-equity-context-holistic-review.md) [~W] — attached 2026-10-10 from Willis et al. (2022), which proposed "Ross Admissions Portfolio (Business Case Discussion + Artifact)".
 
 ## Related Elements
 - [Assessment](assessment.md) — portfolios are one assessment format; they need rubrics and scoring procedures to function as evaluation

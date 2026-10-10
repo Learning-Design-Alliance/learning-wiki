@@ -46,3 +46,4 @@ Descriptive comparison of state assessment proficiency rates reported in the rep
 - [Most students experiencing homelessness (78%) live doubled up with other families, a form of homelessness excluded from HUD housing assistance definitions](doubled-up-majority-homelessness.md) — related
 - [Students experiencing homelessness show substantially lower achievement and graduation than housed peers (reported from a New York City study)](homeless-students-lower-achievement-graduation-nyc.md) — related
 - [Homelessness is associated with substantially lower 4-year graduation rates (68% vs. 86% for all students)](homelessness-lower-graduation-rate.md) — related
+- [California students experiencing homelessness graduate at lower rates (69% vs. 83%) and enroll in college at lower rates (50% vs. 64%) than peers statewide](homeless-students-lower-graduation-college-going.md) — related

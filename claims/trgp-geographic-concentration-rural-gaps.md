@@ -45,3 +45,4 @@ County-level analysis of CTC program-reported administrative data, shown in Figu
 ## Related Claims
 - [TRGP-funded resident enrollment in California grew from 297 residents in 2019-20 to 428 in 2022-23, totaling 1,362 residents across 48 funded partnerships over 4 years](trgp-enrollment-1362-residents-48-partnerships.md) — related
 - [In a minority of host LEAs did TRGP residents reach one quarter of substandard credentials issued: 7 of 19 special education LEAs and 7 of 16 STEM LEAs](trgp-lea-depth-residents-versus-substandard-credentials.md) — related
+- [Teacher residencies and preparation partnerships proved important to district recruitment during the pandemic](residencies-partnerships-support-pandemic-recruitment.md) — related

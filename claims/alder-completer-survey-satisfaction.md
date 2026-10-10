@@ -44,3 +44,5 @@ Descriptive completer-survey result for the 2022–23 academic year as reported 
 
 ## Related Claims
 - [Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers](residency-graduates-perceived-effective.md) — related
+- [Claremont residency completers rate the program highly and show strong hiring and retention outcomes](claremont-residency-high-ratings-hiring-retention.md) — related
+- [CSUB teacher residency completers rate their programs highly, averaging 4.3 out of 5.0 on the 2021 CTC completer survey](csub-residents-rate-programs-4-3-of-5.md) — related

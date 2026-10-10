@@ -47,6 +47,8 @@ For state policymakers, the report recommends that states "Require or incentiviz
 - [Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce](teacher-residency-braided-recruitment-retention.md)
 - [Design service scholarships that cover a substantial portion of preparation costs, with stable multiyear funding and linked data systems](service-scholarship-design-recommendations.md)
 - [Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates](use-completer-surveys-accreditation-continuous-improvement.md)
+- [District investment of LCFF funds in residency stipends written into Local Control and Accountability Plans as a workforce development strategy](lcff-district-funded-residency-stipends.md)
+- [Five state policy actions to sustain and scale teacher residencies](texas-residency-policy-recommendations.md)
 
 ## Examples
 -

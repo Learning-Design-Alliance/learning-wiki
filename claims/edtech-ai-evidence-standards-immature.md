@@ -46,3 +46,4 @@ Finding from the evidence standards section. In the absence of evidence, some di
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related
 - [Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used](privacy-compliance-over-rigorous-safeguards.md) — related
 - [Without clear quality signals, district boards default to the lowest bid when comparing edtech products](lowest-bid-default-without-quality-signals.md) — related
+- [Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact](structural-mismatch-innovation-evaluation-pace.md) — a broader claim this one bears on

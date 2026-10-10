@@ -47,3 +47,4 @@ In the same PLS-SEM structural model (n=45), the PEOU→BI path was the only non
 - [Perceived contextual value significantly predicts behavioral intention to use a context-aware mobile language learning app](pcv-significantly-predicts-bi-contextual-language-app.md) — related
 - [Perceived usefulness is the strongest predictor of intention to use the contextual language learning app](pu-strongest-predictor-bi-colale.md) — related
 - [Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use](typology-renders-effort-expectancy-nonsignificant.md) — related
+- [Humanities students report higher perceived usefulness, ease of use, and behavioral intention for AI-assisted English tools than STEM students, with small effect sizes](humanities-stem-acceptance-mean-differences.md) — related

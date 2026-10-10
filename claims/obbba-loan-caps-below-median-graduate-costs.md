@@ -48,3 +48,4 @@ Policy analysis of 2020 cost data compared with the new OBBBA caps. The brief re
 - [Many graduate borrowers will not qualify for private loans under current underwriting standards](private-loan-underwriting-locks-out-graduate-borrowers.md) — related
 - [Private student loans lack the consumer protections of federal student loans](private-student-loans-lack-federal-consumer-protections.md) — related
 - [Before Grad PLUS existed, professional degree students relied heavily on private loans](pre-grad-plus-professional-students-relied-on-private-loans.md) — related
+- [About one-third of graduate borrowers borrowed more than OBBBA's new loan limits allow, exceeding the limits by roughly $8 billion in volume](graduate-borrowers-exceed-new-loan-limits.md) — related

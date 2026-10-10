@@ -67,3 +67,4 @@ The report states the original $20,000 maximum award "covered, on average, 80% o
 - [Nearly 4 in 5 GSTG teacher candidate recipients were income-eligible for the federal Pell Grant, far above the statewide undergraduate rate](gstg-recipients-pell-eligible-financial-need.md) — related
 - [GSTG recipients report teaching in high-need schools and shortage subjects, with most intending to stay after their service obligation](gstg-recipients-high-need-schools-subjects.md) — related
 - [The GSTG likely contributed to a 23% increase in California-prepared preliminary teaching credentials between 2022–23 and 2023–24](gstg-associated-credential-increase.md) — related
+- [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — related

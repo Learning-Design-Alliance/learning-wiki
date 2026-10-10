@@ -48,3 +48,4 @@ Conceptual definition of the system-reconfiguration factor. The article gives co
 - [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — related
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
 - [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — a narrower finding that bears on this claim
+- [Agent-based educational science is positioned as reconfiguring, not replacing, empirical educational research](aes-reconfigures-not-replaces-empirical-research.md) — a narrower finding that bears on this claim

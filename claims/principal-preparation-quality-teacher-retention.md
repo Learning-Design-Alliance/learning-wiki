@@ -48,3 +48,5 @@ Logistic regression on individual teacher records from the California preparatio
 - [Principals' professional development access is positively but not significantly related to teacher retention](principal-pd-teacher-retention-null.md) — related
 - [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
 - [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related
+- [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](california-principal-preparation-pd-outcomes.md) — possibly the same claim (merge candidate)
+- [Teachers cite principal support as one of the most important factors in their decision to stay in a school or the profession](principal-support-key-to-teacher-retention.md) — related

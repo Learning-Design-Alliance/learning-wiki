@@ -71,3 +71,4 @@ Secondhand report of a meta-study of more than 24 hiring field experiments over 
 - [Teacher licensure exams disproportionately fail teacher candidates of color without predicting teaching effectiveness](licensure-exams-disparate-fail-rates-no-effectiveness-prediction.md) — related
 - [When at least two women and two candidates of color are in the finalist pool, the odds of hiring a woman or a candidate of color are reported to be 79 and 194 times greater](diverse-finalist-pool-raises-diverse-hire-odds.md) — related
 - [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](students-of-color-receive-belonging-signals.md) — related
+- [Most surveyed Black borrowers report labor-market discrimination and believe their credentials must exceed those of non-Black peers](black-borrowers-credential-discrimination-labor-market.md) — related

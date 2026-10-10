@@ -44,3 +44,4 @@ Focus group participants noted lack of teacher representation alongside curricul
 
 ## Related Claims
 - [Most focus group participants responded with a resounding \"no\" when asked whether they trust the education system to teach social-emotional skills to students of color](families-distrust-schools-for-sel.md) — related
+- [Students are more likely to feel welcome in AP courses when they see themselves reflected in the curriculum and classmates](curriculum-reflection-increases-ap-belonging.md) — related

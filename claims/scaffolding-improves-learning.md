@@ -97,3 +97,5 @@ A systematic review of scaffolding research in primary/secondary teacher–stude
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — a narrower finding that bears on this claim
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Sequencing worked examples with practice problems improves learning for novices](worked-example-problem-sequences.md) — related
+- [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — related
+- [A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant](contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) — a narrower finding that bears on this claim

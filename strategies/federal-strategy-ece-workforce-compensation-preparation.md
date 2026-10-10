@@ -46,6 +46,7 @@ The whitepaper's third recommendation area treats well-prepared educators as "th
 - [Federal strategy to raise ECE quality by setting higher CCDBG standards, minimum quality requirements for federally supported preschool, and funding coaching](federal-strategy-ece-quality-standards-coaching.md)
 - [Four-part state policy agenda: coherent administration, universal affordability, a well-qualified workforce, and quality improvement for all programs](california-ece-four-part-policy-agenda.md)
 - [Six state policy steps to support early educator preparation, paired with adequate compensation and retention policies](state-policy-steps-ece-workforce-preparation.md)
+- [Six state policy recommendations to stabilize, support, and expand the early childhood workforce and build diverse TK pathways](six-state-recommendations-tk-workforce.md)
 
 ## Examples
 -

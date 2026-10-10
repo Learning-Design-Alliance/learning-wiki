@@ -44,3 +44,4 @@ A survey of 42 participants from various study programs completed the ten-item S
 
 ## Related Claims
 - [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — related
+- [Special-education practitioners rated AdaptED Stories as strongly usable, with a mean SUS score of 86.8 corresponding to an A grade](adapted-stories-high-sus-usability-practitioners.md) — related

@@ -49,3 +49,4 @@ Analysis of private-lender underwriting standards cited in the brief: an analysi
 - [Before Grad PLUS existed, professional degree students relied heavily on private loans](pre-grad-plus-professional-students-relied-on-private-loans.md) — related
 - [Private student loans lack the consumer protections of federal student loans](private-student-loans-lack-federal-consumer-protections.md) — related
 - [Over one-fourth of graduate borrowers borrowed more in 2020 than the new limits allow](quarter-graduate-borrowers-exceed-new-caps.md) — related
+- [About one-third of graduate borrowers borrowed more than OBBBA's new loan limits allow, exceeding the limits by roughly $8 billion in volume](graduate-borrowers-exceed-new-loan-limits.md) — related

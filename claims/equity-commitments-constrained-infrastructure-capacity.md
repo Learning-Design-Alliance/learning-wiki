@@ -48,3 +48,4 @@ Focus group finding: virtually every participant stressed equity, but campuses l
 - [Lab supervision, staffing, scheduling, and sustainability are key challenges for school AI labs](ai-lab-staffing-supervision-challenges.md) — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related
 - [Project leaders reported catalyzed changes in practice but concerns about rushed timelines and sustainability](team-lead-reflections-first-year.md) — related
+- [Emergency aid programs rely primarily on private donations and grants, creating scarce, unstable funding and uneven capacity across campuses](emergency-aid-philanthropy-funding-instability.md) — related

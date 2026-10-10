@@ -69,3 +69,4 @@ Table 4 row from the Elliott & Roder (2017) RCT: intervention mean 72.60% versus
 - [Project QUEST shows no discernible effects on short-term and medium-term employment](project-quest-no-employment-effects.md) — related
 - [Community colleges are well positioned to lead the emerging credentialing market for three stated reasons](community-colleges-positioned-lead-credentialing-market.md) — related
 - [Regular Upward Bound produces a statistically significant increase in the likelihood of earning a postsecondary certificate or license from a vocational school](upward-bound-increases-vocational-certificate-license.md) — related
+- [CTE participation produces positive effects on completion, postsecondary transition, and earnings mainly when students complete three or more focused CTE courses, with effects strongest in technical fields](cte-three-plus-courses-focused-study-effects.md) — related

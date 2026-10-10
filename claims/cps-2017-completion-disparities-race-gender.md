@@ -46,3 +46,4 @@ Descriptive analysis of 14,807 immediate college enrollees from the CPS class of
 - [Among 2014 CPS graduates who immediately enrolled in a bachelor's-degree-granting institution, 30% completed within four years versus 51% within six years](cps-2014-four-vs-six-year-completion-30-51.md) — related
 - [College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree](cps-college-completion-race-gender-gaps.md) — related
 - [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related
+- [Black graduates are underrepresented among associate degree earners in 33 of 41 examined states, with only three states at parity for bachelor's degrees](black-underrepresentation-public-state-colleges.md) — related

@@ -46,3 +46,5 @@ Part of the CCSR analysis of the path Chicago graduates took toward four-year en
 - [Application, not acceptance, is the primary barrier preventing CPS students from enrolling in four-year colleges](application-not-acceptance-primary-barrier-cps-college-enrollment.md) — related
 - [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — possibly the same claim (merge candidate)
 - [Approximately 10 percent of CPS graduates accepted into a four-year college do not enroll the following fall](accepted-but-not-enrolled-summer-melt-cps.md) — related
+- [FAFSA completion is associated with higher college enrollment, with the strongest association for students in the lowest socioeconomic quintile](fafsa-completion-associated-higher-college-enrollment.md) — related
+- [Michigan's average student-to-counselor ratio was 565:1 in 2024-25, far above the recommended 250:1, and FAFSA completion is linked to higher immediate college enrollment](michigan-counselor-ratio-and-fafsa-completion-benefits.md) — related

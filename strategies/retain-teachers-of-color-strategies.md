@@ -51,6 +51,9 @@ The brief's Goal 5 recommends investing in high-retention pathways, leadership d
 - [Multi-pronged state investments to diversify and retain the educator workforce](state-investments-diversify-educator-workforce.md)
 - [Build a diverse teacher pipeline through Grow Your Own grants, teacher academies, scholarships, MSI investment, and residency pathways](diverse-teacher-pipeline-strategies.md)
 - [Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply](grow-your-own-residency-pathways-strategy.md)
+- [Invest in high-quality induction and mentoring programs, which are associated with higher retention particularly for teachers of color](induction-mentoring-retention-teachers-of-color.md)
+- [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
+- [Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring](retain-teachers-of-color-residencies-affinity-mentoring.md)
 
 ## Examples
 -

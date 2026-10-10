@@ -50,3 +50,5 @@ The brief asserts, citing research without printing studies or effect sizes, tha
 - [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — related
 - [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
 - [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
+- [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students-brief-assertion.md) — a narrower finding that bears on this claim
+- [Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color](teacher-diversity-benefits-all-students-regardless-of-race.md) — related

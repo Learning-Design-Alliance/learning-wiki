@@ -47,3 +47,4 @@ Summary of simulation findings: raising cumulative GPA by 0.4 points closes near
 - [CPS graduates' academic qualifications improved steadily from 2003 to 2015, with districtwide ACT rising from 16.97 to 18.81 and GPA from 2.16 to 2.56](cps-academic-qualifications-trend-2003-2015.md) — related
 - [Graduates' academic qualifications improved alongside graduation rates, with ACT scores rising from 16.7 to 18.6 between 2003 and 2014](graduate-qualifications-rose-not-lowered-standards.md) — related
 - [Evidence on RJ's impact on academic outcomes is limited and mixed, with graduation-rate gains in one study and no GPA change in another](rj-academic-outcomes-evidence-mixed.md) — related
+- [Four-year college graduation rates rose from 56.0 to 59.4 percent between 2003 and 2013, with larger gains at public institutions (4.9 points) than private nonprofits (2.3 points)](grad-rates-rose-2003-2013-publics-gained-more.md) — related

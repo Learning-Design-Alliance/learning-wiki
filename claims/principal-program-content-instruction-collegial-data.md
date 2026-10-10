@@ -84,3 +84,4 @@ The report describes UIC's cycle of inquiry and the University of Connecticut's 
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — a broader claim this one bears on
 - [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related
 - [High schools improving instruction and teacher collaboration also showed the largest improvements in parent communication](instructional-improvement-linked-parent-communication-gains.md) — related
+- [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — related

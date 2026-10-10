@@ -44,3 +44,4 @@ Descriptive analysis of i-Ready math outcomes comparing Low and Growing state ca
 
 ## Related Claims
 - [Kindergarten math growth from fall to spring is greater in High PreK4 investment states than in Growing or Low states](high-prek4-states-greater-kindergarten-math-growth.md) — related
+- [Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students](letter-grades-hide-within-grade-score-variation.md) — related

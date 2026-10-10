@@ -41,6 +41,7 @@ The strategy is a district-and-school approach in which high schools use data re
 - [Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress](early-warning-data-and-credit-recovery-strategy.md)
 - [Monitor freshman-year grades and intervene early, treating D students as needing attention comparable to F students](monitor-freshman-gpa-early-warning-strategy.md)
 - [Use school-level data systems to identify which students need which types of support for dropout prevention](school-level-data-systems-identify-student-support-needs.md)
+- [Intrusive, data-driven advising: track unregistered students, audit degree plans, and bring advising directly to students](intrusive-data-driven-advising-usc.md)
 
 ## Examples
 -

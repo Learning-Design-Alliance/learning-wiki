@@ -61,6 +61,7 @@ Pacing works by aligning presentation rate with working memory limits: content d
 - [Mastery Learning](../strategies/mastery-learning.md) — pacing gated on demonstrated competence rather than time
 - [Retrieval Practice](../strategies/retrieval-practice.md) — the pause-point activity that makes pacing pauses productive
 - [Present animations as distinct logical chunks separated by short pauses](chunked-animations-with-pauses.md)
+- [Use STOP blocks as explicit pacing primitives to manage information overload in AI-as-instructor instruction](stop-blocks-step-pacing-strategy.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — learner-paced videos with pause/scrub control, followed by exercises that gate progression on mastery.

@@ -47,3 +47,6 @@ Statewide survey of 1,506 LEAs receiving UPK Planning and Implementation Grant f
 - [Most LEAs projected sufficient TK classroom space by 2025–26, though facilities remained a top implementation challenge for about one fourth of LEAs](tk-facilities-progress-and-challenge.md) — related
 - [Most LEAs offered full-day TK (84% in 2023–24) and 87% provided an expanded learning option to extend the day](full-day-tk-and-expanded-learning-offerings.md) — related
 - [Stand-alone TK classrooms increased to 77% of TK classrooms in 2023–24 while TK–kindergarten combination classes fell to 20%](tk-stand-alone-classrooms-increased.md) — related
+- [In 2022–23, 81% of California LEAs offered TK at all elementary sites and half offered early-admittance TK ahead of the legislated eligibility schedule](california-leas-tk-all-sites-early-admittance.md) — related
+- [California's four largest districts planned rapid, comprehensive TK rollout including early admittance, full-day TK, dual language programs, and established assessments](four-largest-districts-comprehensive-upk.md) — related
+- [A majority of LEAs planned to offer TK at all kindergarten sites and full-day TK](majority-leas-all-sites-full-day-tk.md) — related

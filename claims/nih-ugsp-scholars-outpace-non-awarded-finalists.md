@@ -48,3 +48,4 @@ The Mathematica evaluation compared scholarship awardees against a built-in comp
 - [NIH Undergraduate Scholarship Program scholars reach biomedical research career milestones at substantially higher rates than non-awarded finalists](nih-scholars-higher-biomedical-research-rates-than-finalists.md) — possibly the same claim (merge candidate)
 - [NIH spends millions of dollars annually on scholarships for disadvantaged undergraduate science students](nih-spends-millions-annually-ugsp-scholarships.md) — related
 - [Eligibility for NIH loan repayment is associated with higher recruitment success of biomedical researchers](loan-repayment-eligibility-higher-recruitment-success.md) — related
+- [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — a broader claim this one bears on

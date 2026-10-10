@@ -46,3 +46,4 @@ New Pell graduation-rate data requested from the 50 flagships under the Higher E
 - [Minority graduation rates at flagships improved relative to white students from 2005 to 2008, with some institutions closing gaps substantially](flagship-minority-graduation-gap-closing.md) — related
 - [Flagship minority access improved slightly from 2004 to 2007 while low-income (Pell) enrollment declined](flagship-access-trends-2004-2007.md) — related
 - [Low-income students at public research-extensive universities face unmet need equal to about 70 percent of family income, while top-quintile families have overmet need](unmet-need-seventy-percent-low-income-reus.md) — related
+- [Institutions serving similar students produce widely different Pell graduation rates, indicating outcomes are not fixed by entering-class characteristics](similar-colleges-different-pell-outcomes.md) — related

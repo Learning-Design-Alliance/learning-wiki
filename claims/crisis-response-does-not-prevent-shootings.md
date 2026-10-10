@@ -50,3 +50,4 @@ The brief argues that lockdown procedures and survival trainings such as "Run, H
 - [Two mass shootings exemplify how metal detectors can be insufficient at stopping such attacks](metal-detectors-insufficient-mass-shooting-cases.md) — related
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](shooters-not-bullied-loners.md) — related
 - [State school safety legislation most commonly addresses emergency management, followed by the existence and structure of SSSCs and threat assessment](state-safety-legislation-focuses-emergency-management.md) — related
+- [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related

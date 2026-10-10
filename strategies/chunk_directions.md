@@ -75,10 +75,12 @@ Working memory can hold only a few novel elements at a time, and long instructio
 6. As learners gain fluency, deliver larger chunks or hand over the full segmented list — fading the chunking itself.
 
 ## Related Strategies
+
 - Chunking content more broadly — the same working-memory logic applied to material to be learned, not just directions
 - Modeling multi-step tasks before independent work — demonstration pairs naturally with chunked delivery
 - [Task Analysis](../methods/task-analysis.md) — the prerequisite for identifying meaningful chunks
 - [Modeling Multi-Step Processes](../strategies/modeling-multi-step-processes.md) — demonstrating the chunked sequence before learners attempt it
+- [Use STOP blocks as explicit pacing primitives to manage information overload in AI-as-instructor instruction](stop-blocks-step-pacing-strategy.md)
 
 ## Examples
 - **Elementary transitions:** A teacher gives directions in three chunks ("First, put your crayons in the basket… show me when you're ready. Next, move to the carpet…"), waiting for a readiness signal between each.

@@ -50,3 +50,4 @@ The playbook's research summary, citing grading research (Brookhart et al.) and 
 - [Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness](attendance-effort-drive-grades-graduation.md) — related
 - [Prior GPA was the best predictor of students' course grade, whether or not students used courseware.](prior-gpa-best-grade-predictor.md) — related
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related
+- [The Artifact captures learning experiences within and beyond the classroom, revealing learning habits and mindsets relevant to action-based pedagogy](artifact-captures-learning-in-action.md) — related

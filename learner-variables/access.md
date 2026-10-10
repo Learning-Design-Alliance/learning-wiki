@@ -12,7 +12,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 49 claims (36 for, 9 mixed, 4 against) · 35 studies (21 associational, 5 review, 3 causal, 2 quant-synthesis, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 2 of 35 report an effect size · 47 claims rest on one study
+> **Evidence** · 51 claims (38 for, 9 mixed, 4 against) · 37 studies (22 associational, 5 review, 3 causal, 2 quant-synthesis, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 2 of 37 report an effect size · 49 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -82,6 +82,8 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](../claims/technical-issues-barrier-playlist-implementation.md) [+M] — an instructional effect differs with it
 - [87% of TK classrooms were inclusive of students with disabilities, and most LEAs provided adaptations and additional staff, though rising special education needs strained resources](../claims/tk-inclusion-students-with-disabilities.md) [~M] — instruction changes it
 - [87% of TK classrooms were reported as inclusive of students with disabilities, and use of instructional adaptations rose to 71% of LEAs](../claims/tk-inclusive-classrooms-and-disability-supports.md) [+M] — instruction changes it
+- [Black students in Michigan are three times as likely as white students to have access to no CTE programs, and students with disabilities complete CTE at lower rates](../claims/michigan-cte-access-disparities.md) [+M] — learners who differ on it differ in outcomes
+- [Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas](../claims/technology-access-barriers-fafsa-implementation.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 - Digital literacy — whether they can operate it, as against whether they can perceive it.

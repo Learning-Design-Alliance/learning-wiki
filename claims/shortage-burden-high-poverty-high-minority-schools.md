@@ -67,3 +67,4 @@ Nationally representative Schools and Staffing Survey (2011–12) analysis: "und
 - [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — related
 - [Black students in Louisiana are disproportionately in schools with high percentages of novice and uncertified teachers](black-students-novice-uncertified-teacher-disparities-louisiana.md) — related
 - [California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers](california-low-ses-uncertified-teachers-tenfold.md) — related
+- [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related

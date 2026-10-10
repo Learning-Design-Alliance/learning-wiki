@@ -48,3 +48,4 @@ Table 4 descriptive analysis; the report adds that Asian men and women trailed W
 - [Illinois students from low-income families were less likely than higher-income peers to work in good jobs, with good-job rates rising steadily by parental earnings quintile](low-income-students-less-likely-good-jobs-by-quintile.md) — related
 - [Men from low-income families were more likely than women to be in good jobs at every degree level, but the gender gap shrank as education rose](gender-gaps-shrink-with-education-level.md) — related
 - [Sub-baccalaureate promising programs of study were promising mainly for men and specific racial/ethnic groups, with women's good-job rates below the threshold](sub-baccalaureate-programs-promising-mostly-men.md) — related
+- [Black women with a bachelor's degree or higher working full time year-round earn far less than White men with equivalent education](black-women-ba-plus-earnings-gap-white-men.md) — related

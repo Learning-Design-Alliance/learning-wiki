@@ -43,6 +43,7 @@ Across the studied programs and pathways, the report identifies common strategie
 - [Multiple Pathways Ec Credential Access](multiple-pathways-ec-credential-access.md)
 - [Offer candidates multiple ways of demonstrating competence, crediting prior teaching experience and using performance-based alternative assessments](multiple-demonstration-competence-ec-credential.md)
 - [Retention supports for teachers of color: networking platforms, safe spaces, mental health resources, race-conscious mentorship, and flexible career pathways](toc-retention-supports-mentoring-mental-health.md)
+- [Reduce institutional barriers through cross-department coordination, low-barrier review models, and faculty-based outreach](coordination-and-faculty-outreach-emergency-aid.md)
 
 ## Examples
 -

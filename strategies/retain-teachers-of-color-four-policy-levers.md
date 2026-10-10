@@ -52,6 +52,8 @@ The report's policy implications section recommends four levers for policymakers
 - [Invest in retention efforts for teachers of color that improve working conditions and provide personal and professional growth opportunities](invest-retain-teachers-of-color.md)
 - [Retain teachers of color through leadership pipelines, multi-year induction and mentoring, and culturally responsive school climates](retain-teachers-of-color-strategies.md)
 - [State policy levers for sustaining yearlong, stipended clinical preparation: require or incentivize full-year stipended clinical experience, fund partnerships, and reduce testing fees](state-policy-levers-yearlong-stipended-clinical-preparation.md)
+- [Invest in high-quality induction and mentoring programs, which are associated with higher retention particularly for teachers of color](induction-mentoring-retention-teachers-of-color.md)
+- [Invest in retention of teachers of color through residencies, affinity groups, and induction/mentoring](retain-teachers-of-color-residencies-affinity-mentoring.md)
 
 ## Examples
 -

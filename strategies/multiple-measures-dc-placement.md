@@ -40,6 +40,7 @@ The brief argues cut scores "should be a floor, not a ceiling," because a single
 
 - [State policy package to expand equitable access to advanced coursework: credit transparency, automatic enrollment with opt-out, fee removal, disaggregated data reporting, and belonging supports](ma-equitable-advanced-coursework-policy-package.md)
 - [Automatically enroll high-performing sixth graders in advanced math, with parent opt-out, to circumvent educator bias in referral](automatic-enrollment-advanced-math-top-40-percent.md)
+- [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
 
 ## Examples
 -

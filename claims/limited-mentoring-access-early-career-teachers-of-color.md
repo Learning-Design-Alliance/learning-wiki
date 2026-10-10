@@ -44,3 +44,4 @@ Descriptive analysis of national teacher survey data on access to coaching and m
 
 ## Related Claims
 - [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](mentoring-halves-new-teacher-attrition.md) — related
+- [Mentors of color were especially valuable to apprentices of color, who wanted more intentional mentor matching](rtap-mentors-of-color-especially-valuable.md) — related

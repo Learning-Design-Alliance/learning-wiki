@@ -48,3 +48,4 @@ The review reports Kolb's 1971 analysis of learning style by students' subject m
 - [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric](mooc-video-styles-discipline-clusters.md) — related
 - [A majority (56%) of non-STEM students are classified as transitional reasoners, while formal operational reasoners predominate among STEM majors](non-stem-majority-transitional-reasoners.md) — related
 - [The 96 thinking styles profiles cluster into three groups, with Achievement Motivation Thinking the most common](thinking-style-profiles-three-clusters.md) — related
+- [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](stem-more-amenable-difficulty-scaling.md) — related

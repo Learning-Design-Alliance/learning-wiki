@@ -55,3 +55,4 @@ The report cites the late-2020 Common Sense Media and Boston Consulting Group do
 - [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — related
 - [Chronic absence rates among Native students vary widely across states, with Alaska highest at 60% Native versus 37% White in 2022/23](aian-chronic-absence-state-disparities.md) — related
 - [In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary](technology-access-most-significant-barrier-informal-virtual.md) — related
+- [Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas](technology-access-barriers-fafsa-implementation.md) — a narrower finding that bears on this claim

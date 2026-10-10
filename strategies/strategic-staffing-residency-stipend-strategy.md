@@ -42,6 +42,8 @@ Strategic staffing "redirect district funds, typically for instructional support
 - [Reallocate existing district roles and budget lines—substitute teaching, paraeducator positions, and extended-day staffing—to fund and pay residents](reallocate-roles-and-budget-lines-for-residents.md)
 - [Sustain paid residencies through strategic staffing that reallocates resident instructional support roles](strategic-staffing-stipend-sustainability.md)
 - [Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates](use-completer-surveys-accreditation-continuous-improvement.md)
+- [District investment of LCFF funds in residency stipends written into Local Control and Accountability Plans as a workforce development strategy](lcff-district-funded-residency-stipends.md)
+- [Employ residency residents as the second adult in TK classrooms using assistant teacher or paraprofessional budget lines](resident-as-second-adult-in-tk-classroom-strategy.md)
 
 ## Examples
 -

@@ -44,6 +44,8 @@ The brief recommends that state leadership "clarify the state's short- and long-
 
 - [Recommendations for sustainable and affordable residency programs: align with LEA strategy, engage system leaders, dedicate sustainability roles, and run affordability analyses](residency-sustainability-recommendations.md)
 - [Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance](policy-strategies-sustain-residency-pathways.md)
+- [Sustain and expand California's teacher workforce investments: continued GSTG funding, residency sustainability, NBCT uptake studies, and better program data](sustain-california-teacher-workforce-investments.md)
+- [Five state policy actions to sustain and scale teacher residencies](texas-residency-policy-recommendations.md)
 
 ## Examples
 -

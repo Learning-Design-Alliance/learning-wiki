@@ -50,3 +50,4 @@ Analysis of California Commission on Teacher Credentialing data on permits and c
 - [Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students](substandard-credentials-unequal-district-distribution.md) — related
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
 - [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related
+- [California substandard credentials and permits tripled between 2013 and 2023 and made up more than half of new teaching authorizations issued in 2023](california-substandard-credentials-tripled-2013-2023.md) — related

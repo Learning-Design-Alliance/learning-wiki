@@ -51,3 +51,4 @@ Descriptive analysis of Utah Education Association salary schedule data, adjuste
 - [Rural Utah districts had smaller average class sizes and student-to-teacher ratios, but far fewer unique advanced courses per secondary school, than non-rural districts from 2012 to 2017](utah-rural-smaller-classes-fewer-advanced-courses.md) — related
 - [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — related
 - [Districts' prior-year teacher turnover was negatively associated with certification rates, and certification rates tend to be higher where beginning teacher salaries are higher](turnover-and-salary-associated-with-certification.md) — related
+- [The value of the same teacher wage differs across states because cost of living differs, so the report adjusts starting salaries using Regional Price Parities](cost-of-living-adjustment-changes-teacher-salary-value.md) — related

@@ -52,3 +52,4 @@ Cross-case qualitative finding (RQ1-3) from documents, interviews, and walkthrou
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — reports the opposite
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
+- [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related

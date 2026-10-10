@@ -52,3 +52,4 @@ Randomized controlled design for Cohort 3 NSI comparing schools randomly assigne
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related
 - [High schools that underwent reform showed no significant improvement in absence rates or ninth-grade on-track rates compared with matched schools](chicago-turnaround-high-schools-no-significant-gains.md) — related
 - [College-ready on-track NSI did not impact GPA, advanced course taking, math and ELA test scores, graduation, or college enrollment](college-ready-on-track-nsi-null-outcomes.md) — related
+- [Bronxdale students outperformed comparison-group, borough, and city high schools on graduation rates and on-track credit indicators in 2017–18](bronxdale-outperformed-comparisons-graduation-on-track.md) — related

@@ -44,6 +44,7 @@ Residencies offer living stipends, tuition remission, and loan forgiveness in ex
 - [Build high-retention, supportive pathways into teaching for candidates of color](high-retention-supportive-pathways-teachers-of-color.md)
 - [Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations](service-scholarships-residencies-shortage-fields.md)
 - [Deploy service scholarships, loan forgiveness, and teacher residencies to staff high-need fields and schools](service-scholarships-residencies-staffing-strategy.md)
+- [Fund residents with stipends and halve tuition to make a yearlong coteaching residency financially accessible](stipends-and-tuition-subsidy-for-residency-access.md)
 
 ## Examples
 -

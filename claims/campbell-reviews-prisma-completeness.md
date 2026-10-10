@@ -49,3 +49,4 @@ PRISMA checklist assessment of all 96 included reviews found "Twenty‐five (26%
 - [Funding sources of included studies and impact of risk of bias on synthesis were the least addressed AMSTAR 2 items in Campbell reviews](amstar2-funding-and-rob-impact-least-addressed.md) — related
 - [Campbell reviews co-registered with Cochrane have higher methodological quality than reviews registered only with Campbell](cochrane-campbell-coregistration-higher-quality.md) — related
 - [Campbell intervention reviews published after the 2014 introduction of MECCIR standards have higher methodological quality than those published before](meccir-post-reviews-higher-amstar2-quality.md) — related
+- [PRISMA review synthesized 93 studies on agentic workflows in education, with methodological quality skewed toward conceptual and early empirical work](prisma-review-93-agentic-education-studies.md) — related

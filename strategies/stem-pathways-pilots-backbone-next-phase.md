@@ -45,6 +45,7 @@ For the next phase, the report states the Community Advisors will "Develop and i
 - [Run one-week summer STEM career academies combining a project-based learning unit, an industry tour, and a family showcase](one-week-stem-career-academies.md)
 - [Advance micro-credentials through a piloting coalition, a rigorous research agenda, and dissemination of best practices](micro-credential-next-steps-strategy.md)
 - [Plan long-term quantitative data collection and interoperable systems to evaluate micro-credentials' social mobility impact](quantitative-data-collection-microcredential-evaluation.md)
+- [Phased policy agenda for building a statewide pathways system: immediate low-cost COVID-recovery steps followed by longer-term investments](phased-pathways-policy-agenda-new-mexico.md)
 
 ## Examples
 -

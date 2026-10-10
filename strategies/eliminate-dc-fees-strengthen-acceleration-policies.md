@@ -41,6 +41,7 @@ The brief recommends that Washington build on its 2023 fee eliminations by exten
 - [Adopt automatic-enrollment policies that default students into higher-level math based on prior achievement or demonstrated proficiency](automatic-enrollment-advanced-math-policy.md)
 - [Automatically enroll high-performing sixth graders in advanced math, with parent opt-out, to circumvent educator bias in referral](automatic-enrollment-advanced-math-top-40-percent.md)
 - [State policy package to expand equitable access to advanced coursework: credit transparency, automatic enrollment with opt-out, fee removal, disaggregated data reporting, and belonging supports](ma-equitable-advanced-coursework-policy-package.md)
+- [Adopt automatic (opt-out) enrollment policies placing qualifying students in advanced coursework](automatic-enrollment-advanced-coursework-opt-out.md)
 
 ## Examples
 -

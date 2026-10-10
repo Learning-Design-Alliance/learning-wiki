@@ -48,3 +48,4 @@ Comparative descriptive analysis in the brief finds "Enrollment at HBCUs decreas
 - [HBCUs experienced larger enrollment declines than other institutions after the PLUS tightening, particularly for first-year students](hbcu-enrollment-declines-larger-than-other-institutions.md) — possibly the same claim (merge candidate)
 - [Tightened PLUS credit standards changed both financial aid and enrollment at HBCUs across the first two affected academic years](plus-tightening-changed-hbcu-aid-and-enrollment.md) — related
 - [After the tightening of PLUS credit standards, both the share of PLUS participants and PLUS loan dollar amounts declined substantially at HBCUs](plus-decline-hbcus-after-credit-standard-tightening.md) — related
+- [The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million](plus-credit-tightening-cut-hbcu-access-and-revenue.md) — related

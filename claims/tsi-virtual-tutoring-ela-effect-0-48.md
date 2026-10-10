@@ -48,3 +48,4 @@ A regression discontinuity study across 23 schools in a large urban New Jersey d
 - [Peer Tutoring and Response Groups has positive effects on English language development for English language learners, with an average improvement index of +17 percentile points](peer-tutoring-response-groups-positive-eld-effects.md) — related
 - [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](once-program-improves-fastbridge-kindergarten-reading.md) — related
 - [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on
+- [Pairing an AI literacy platform with an engagement-focused human tutor does not improve elementary reading achievement](human-tutor-ai-platform-no-achievement-gains.md) — related

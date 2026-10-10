@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (9 for, 9 mixed, 1 against, 1 unmarked) · 12 studies (6 quant-synthesis, 4 causal, 2 review), `q2`–`q4` · 8 of 12 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (9 for, 10 mixed, 1 against, 1 unmarked) · 13 studies (6 quant-synthesis, 5 causal, 2 review), `q2`–`q4` · 9 of 13 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -76,6 +76,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Retrieval practice benefits learners regardless of trait anxiety level, but higher trait or induced anxiety is associated with smaller testing effects](../claims/higher-anxiety-is-associated-with-smaller-testing-effects.md) [~M] — not yet checked against its sources
 - [Spaced Retrieval Outperforms Massed Retrieval Despite Lower Initial Recall](../claims/spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) [+W]
 - [Effect Of More Multiple Choice Alternatives Depends On Initial Retrieval Success](../claims/effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) [~W]
+- [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](../claims/adaptive-retrieval-posttest-retention-advantage.md) [~M] — attached 2026-10-10 from Mahir Akgun et al. (2026), which proposed "Follow GenAI-enabled adaptive pretesting with structured spaced retrieval practice rather than learner-directed AI study to preserve gains"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

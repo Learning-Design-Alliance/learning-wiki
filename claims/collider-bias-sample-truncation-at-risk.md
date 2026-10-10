@@ -46,3 +46,4 @@ The article's general argument from its section on collider bias by sample trunc
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — related
 - [Filtered students had much lower effort-moderated achievement, suggesting motivation filtering may bias mean estimates](filtering-removes-low-achievers-bias-risk.md) — related
 - [Course-level sample truncation can produce M-bias that helps explain difficult-to-interpret negative associations between LMS behaviour and student success](m-bias-gasevic-2016-lms-behaviour.md) — a narrower finding that bears on this claim
+- [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — related

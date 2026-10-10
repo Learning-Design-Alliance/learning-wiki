@@ -52,3 +52,4 @@ The study's overall design: institution-level data on financial aid and enrollme
 - [Declines in PLUS loans at HBCUs in 2012-13 were not fully replaced by other types of federal financial aid](plus-declines-not-fully-replaced-other-aid.md) — a narrower finding that bears on this claim
 - [PLUS loan volume at HBCUs declined substantially in 2012-13 after credit standards were tightened](plus-loans-declined-substantially-hbcus-2012-13.md) — a narrower finding that bears on this claim
 - [PLUS loans at HBCUs increased somewhat in 2013-14 after the Department of Education streamlined the PLUS appeals process](plus-loans-increased-somewhat-2013-14-appeals-streamlined.md) — a narrower finding that bears on this claim
+- [The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million](plus-credit-tightening-cut-hbcu-access-and-revenue.md) — related

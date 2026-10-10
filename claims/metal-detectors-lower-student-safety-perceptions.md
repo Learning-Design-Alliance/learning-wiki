@@ -69,3 +69,4 @@ The brief reports, citing Mayer and Leone (1999), that "students are more likely
 - [Metal detector effectiveness depends heavily on the human element: training, correct operation and functioning equipment](metal-detector-effectiveness-human-element.md) — related
 - [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
 - [Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect](safety-measures-cause-harm-black-brown-youth.md) — a broader claim this one bears on
+- [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related

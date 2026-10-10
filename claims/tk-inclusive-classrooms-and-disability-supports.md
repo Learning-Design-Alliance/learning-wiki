@@ -47,3 +47,4 @@ Descriptive survey results on disability supports (Table 7). Adaptations to inst
 
 ## Related Claims
 - [87% of TK classrooms were inclusive of students with disabilities, and most LEAs provided adaptations and additional staff, though rising special education needs strained resources](tk-inclusion-students-with-disabilities.md) — related
+- [California LEAs most commonly supported social-emotional learning through play-based learning and supported students with disabilities through instructional adaptations and added staff](play-based-sel-and-disability-supports-in-tk.md) — related

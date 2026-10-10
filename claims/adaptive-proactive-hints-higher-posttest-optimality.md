@@ -47,3 +47,5 @@ Controlled study in the Deep Thought logic tutor with 123 participants (111 comp
 - [Adaptive-condition students complete the posttest in significantly less time than Control students](adaptive-proactive-hints-less-posttest-time.md) — related
 - [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](adaptive-hint-seeking-behavior-differences.md) — related
 - [A generalized cross-problem HelpNeed predictor performs as well as problem-specific models and better when less historical data is available](generalized-cross-problem-helpneed-predictor.md) — related
+- [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) — related
+- [BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality](bkt-faster-posttest-completion.md) — related

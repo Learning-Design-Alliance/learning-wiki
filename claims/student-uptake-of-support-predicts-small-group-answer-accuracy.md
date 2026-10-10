@@ -53,3 +53,4 @@ This study's honest null result (contingency did not predict uptake) is as impor
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](teacher-buy-in-mediates-coaching-benefit.md) — related
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — related
+- [On a text channel, fading holds when the learner's turn is aimed at the decision under support, regardless of its depth](aim-warrant-for-fading-ai-tutor.md) — related

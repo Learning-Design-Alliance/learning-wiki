@@ -61,6 +61,7 @@ Segmenting works because working memory is severely limited; when a continuous a
 - [Signaling](signaling.md) — cues highlight what matters *within* each segment; segmenting manages load *between* segments
 - [Modality](modality.md) — narrating segments offloads visual working memory; frequently combined with segmenting in multimedia design
 - [Present animations as distinct logical chunks separated by short pauses](chunked-animations-with-pauses.md)
+- [Use STOP blocks as explicit pacing primitives to manage information overload in AI-as-instructor instruction](stop-blocks-step-pacing-strategy.md)
 
 ## Examples
 - **Mayer & Chandler (2001)** — the canonical experiment: a lightning-formation animation split into user-paced segments produced substantially better transfer than the continuous version.

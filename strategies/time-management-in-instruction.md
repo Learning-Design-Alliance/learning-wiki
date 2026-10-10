@@ -59,9 +59,11 @@ Engaged time on appropriately challenging tasks is one of the most consistent co
 6. Close with a short review segment; protect it — it is the first thing lost when pacing slips and the last thing that should be.
 
 ## Related Strategies
+
 - [Chunking](../principles/chunking.md) — the content-side counterpart: time segments should align with content chunks
 - [Pacing](../strategies/pacing.md) — the moment-to-moment speed decisions within the time budget
 - [Flipped Classroom](../strategies/flipped-classroom.md) — reallocates exposition time out of the live session to protect practice time
+- [Adaptive-resolution simulation: allocate more LLM calls to educationally consequential moments and compress routine transitions](adaptive-resolution-educational-simulation.md)
 
 ## Examples
 - **Direct Instruction (Engelmann)** — tightly scripted lesson pacing with rapid teacher–student exchanges and choral responses, engineered to maximize academic learning time per minute; see the [Direct Instruction](../patterns/direct-instruction.md) pattern.

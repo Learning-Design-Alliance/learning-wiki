@@ -47,3 +47,4 @@ The brief reports this economic return range alongside a review of current resea
 - [Cost-benefit research suggests returns of up to $15 in social value and economic benefits per dollar spent on school-based wraparound services](community-schools-cost-benefit-return.md) — related
 - [Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023](pef-fy2024-roi-21-percent-similar-to-fy2023.md) — related
 - [Kindergarten math growth from fall to spring is greater in High PreK4 investment states than in Growing or Low states](high-prek4-states-greater-kindergarten-math-growth.md) — related
+- [Education interventions across early childhood, secondary, higher education, integration, and comprehensive programs generate net taxpayer benefits of approximately $2 to over $10 per dollar invested.](education-interventions-two-to-ten-dollar-net-benefits.md) — a broader claim this one bears on

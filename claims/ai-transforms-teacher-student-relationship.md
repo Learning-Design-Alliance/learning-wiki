@@ -46,3 +46,4 @@ The publication asserts, without presenting empirical data, that AI has transfor
 - [System reconfiguration: breakthroughs reshape relationships among actors, capabilities, and institutional routines](breakthrough-system-reconfiguration-actors-routines.md) — a broader claim this one bears on
 - [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
 - [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — related
+- [Agent-based educational science is positioned as reconfiguring, not replacing, empirical educational research](aes-reconfigures-not-replaces-empirical-research.md) — related

@@ -63,8 +63,10 @@ Structured discussion converts discussion from an unguided activity into a scaff
 7. Fade supports over time — remove sentence frames and assigned roles as learners internalize the discourse.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the individual skill that structured discussion routines train and depend on
 - [Acting/Role-Play](acting-role-play.md) — an alternative structure that assigns perspectives to discuss from
+- [Explicitly frame a group AI agent's role and design introductory activities that encourage collaborative dialogue rather than system testing](frame-agent-role-and-design-dialogue-based-introductory-activities.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the core element these techniques structure

@@ -48,3 +48,5 @@ Regression analysis of district-level data reported in the section on supporting
 - [In 2017, the cost-of-living-adjusted starting teacher salary was higher in rural Utah districts, but the average scheduled teacher salary was lower in rural than non-rural districts](utah-rural-starting-salary-higher-average-lower.md) — related
 - [Michigan's inflation-adjusted teacher salaries fell more than 20% between 1999 and 2019, the second largest decline in the country](michigan-teacher-salary-decline.md) — related
 - [Noncertified Texas teachers show the sharpest retention decline, with fewer than 40% still teaching after 5 years](noncertified-sharpest-retention-decline.md) — related
+- [The value of the same teacher wage differs across states because cost of living differs, so the report adjusts starting salaries using Regional Price Parities](cost-of-living-adjustment-changes-teacher-salary-value.md) — related
+- [State average starting teacher salaries in 2019-20 spanned bands from below $35,000 to $50,000 or above](state-starting-salaries-span-bands-2019-20.md) — related

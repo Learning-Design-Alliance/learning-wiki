@@ -65,3 +65,5 @@ Statewide LEA survey reported in the TK Instruction and Assessment section and T
 - [Use of the DRDP assessment in TK increased notably to 34% of LEAs while LEA-developed assessment use fell from 66% to 44%](tk-assessment-drdp-increase.md) — related
 - [TK classrooms used a wide range of curricula, with most LEAs using one to four approaches and nearly 1 in 5 still using kindergarten curriculum](tk-curricula-range-and-kindergarten-curriculum-concern.md) — related
 - [A growing share of LEAs adopted social-emotional and developmentally appropriate strategies, led by play-based learning at 82%](tk-sel-strategies-adoption-growth.md) — related
+- [California LEAs most commonly supported social-emotional learning through play-based learning and supported students with disabilities through instructional adaptations and added staff](play-based-sel-and-disability-supports-in-tk.md) — related
+- [California TK classrooms most commonly used social-emotional and literacy-specific curricula, but about a quarter of LEAs used kindergarten curriculum in TK](tk-curricula-domain-specific-and-kindergarten-misalignment.md) — related

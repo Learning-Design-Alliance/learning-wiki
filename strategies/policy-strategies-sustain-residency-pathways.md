@@ -54,6 +54,8 @@ The report recommends that California policymakers maintain funding for the Teac
 - [Use Teacher Residency Grant Program funds, braided with other sources, to recruit and retain a diverse teaching workforce](teacher-residency-braided-recruitment-retention.md)
 - [State actions to strengthen and sustain a funded residency pathway: clarify goals, upgrade data systems, adjust grant parameters, offer transition grants, and pair new LEAs with experienced IHEs](trgp-scaling-sustainability-recommendations.md)
 - [Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates](use-completer-surveys-accreditation-continuous-improvement.md)
+- [Sustain and expand California's teacher workforce investments: continued GSTG funding, residency sustainability, NBCT uptake studies, and better program data](sustain-california-teacher-workforce-investments.md)
+- [Five state policy actions to sustain and scale teacher residencies](texas-residency-policy-recommendations.md)
 
 ## Examples
 -

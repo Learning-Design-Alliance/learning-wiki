@@ -44,3 +44,4 @@ Descriptive analysis of user research audiences, reported with Table 2: students
 
 ## Related Claims
 - [User research submitters used interviews (72%), surveys (63%), observation (56%), focus groups and data analytics (50% each), pilots (38%), and A/B testing (22%)](user-research-method-distribution-edtech.md) — related
+- [Michigan's Top 10 Strategic Education Plan was developed through extensive stakeholder input, including nearly 50 interviews and almost 12,000 survey responses](michigan-top-ten-plan-stakeholder-input.md) — related

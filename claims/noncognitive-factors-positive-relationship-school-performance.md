@@ -51,3 +51,4 @@ The article summarizes the CCSR literature review (Farrington et al. 2012), whic
 - [Student-by-classroom interaction accounts for a substantial share of variation in noncognitive factors, indicating context-specific malleability](student-classroom-interaction-variance-noncognitive-factors.md) — related
 - [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — related
 - [Best leverage points for improving performance lie in teacher strategies for classroom context, mindsets, and learning strategies](leverage-points-context-mindsets-learning-strategies.md) — related
+- [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related

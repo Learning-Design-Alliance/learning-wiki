@@ -46,3 +46,4 @@ Theoretical argument from the narrative review's introduction: the article argue
 - [Fear of hope: an acquired aversion to feeling hopeful due to anticipated disappointment may block hopeful engagement](fear-of-hope-acquired-aversion.md) — related
 - [Naive hope is negatively related to civic engagement, while existential hope is proposed to be positively associated with it](naive-hope-negatively-related-civic-engagement.md) — related
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related
+- [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related

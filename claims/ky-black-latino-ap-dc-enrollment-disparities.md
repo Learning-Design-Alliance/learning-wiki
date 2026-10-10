@@ -49,3 +49,4 @@ Descriptive analysis of state report card enrollment data disaggregated by race/
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — a broader claim this one bears on
 - [Only 53% of Kentucky AP test-takers earned a passing score in 2022, with about 2 in 5 Latino and 1 in 3 Black test-takers passing](ky-ap-proficiency-disparities-2022.md) — related
 - [AP enrollment in Kentucky's highest-poverty districts dropped by half, to 5% of students, by 2021-22](ky-high-poverty-districts-ap-enrollment-halved.md) — related
+- [Only a fraction of eligible Black and Latino students are enrolled in AP Biology, Chemistry, and Physics courses](fraction-eligible-black-latino-students-enrolled-ap-stem.md) — related

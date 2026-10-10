@@ -45,3 +45,5 @@ Survey of LEAs covering 9,520 TK classrooms statewide, reported in the TK Servic
 ## Related Claims
 - [TK enrollment grew from 88,883 children in 2019–20 to 151,491 in 2023–24, while the share of eligible 4-year-olds enrolled declined to 59%](tk-enrollment-growth-uptake-decline.md) — related
 - [Nearly all California LEAs offered TK in 2023–24, with 85% offering it at all elementary sites, up from 81% the prior year](california-leas-tk-offering-2023-24.md) — related
+- [There was no common model for how LEAs planned to structure TK classes, with many planning stand-alone classes and many others combination classes](no-common-tk-delivery-model.md) — reports the opposite
+- [Nearly half of California's UPK classrooms were stand-alone TK classes, but small LEAs were far less able to offer stand-alone TK than medium and large LEAs](upk-classroom-models-stand-alone-size-gradient.md) — related

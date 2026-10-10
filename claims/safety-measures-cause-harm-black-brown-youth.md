@@ -51,3 +51,5 @@ The guide asserts, in its Paradigm of Safety section, that "Attempts to bring sa
 - [Available data suggest schools with metal detectors identify more weapons through searches without scanning devices than through scanning](metal-detector-weapon-detection-evidence-weak.md) — related
 - [Metal detectors impose substantial equipment, personnel, training and time costs on schools](metal-detector-costs-equipment-personnel-time.md) — related
 - [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
+- [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related
+- [District leaders filtered student and community voices through their own perspectives, so neither district fully removed security personnel despite calls to end policing in schools](leaders-filter-community-voices-security-retained.md) — related

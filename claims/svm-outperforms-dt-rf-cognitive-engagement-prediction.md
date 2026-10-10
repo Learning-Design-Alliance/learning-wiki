@@ -54,3 +54,4 @@ Test-set evaluation of three classifiers trained on 104 Coh-Metrix indicators pl
 - [Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021](nlp-la-algorithm-adoption-random-forest-to-deep-learning.md) — related
 - [NLP models in LA studies typically reach moderate agreement (mean Cohen's kappa 0.54) and mean accuracy 0.79, with deep learning models outperforming others in most studies from 2021 onward](nlp-la-performance-kappa-accuracy-benchmarks.md) — related
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — reports the opposite
+- [Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation](conflict-seed-induces-deeper-reflection.md) — related

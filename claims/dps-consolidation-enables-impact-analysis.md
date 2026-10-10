@@ -51,3 +51,4 @@ Case-study interview finding about an emerging vendor partnership under the cons
 - [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](edtech-procurement-implementation-gap.md) — related
 - [Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars](denver-cross-functional-review-shrunk-edtech-portfolio.md) — related
 - [Districts are not yet systematically using TPE-generated information, with technology serving mainly as a repository](districts-not-systematically-using-tpe-data.md) — related
+- [Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact](structural-mismatch-innovation-evaluation-pace.md) — related

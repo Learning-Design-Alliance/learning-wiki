@@ -48,3 +48,5 @@ The report's introduction, citing MDE Educator Workforce Data Report data analyz
 - [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — related
 - [California residency program completers are more likely to identify as candidates of color than completers of other preparation pathways](residency-completers-more-likely-candidates-of-color.md) — related
 - [Alternative-route teacher certification enrollment has grown rapidly nationally and in Michigan, where just over 40% of candidates were in alternative programs by 2023](alternative-route-enrollment-growth-michigan-national.md) — related
+- [Michigan repealed its basic skills test requirement after finding it disproportionately excluded people of color from preparation programs](michigan-repealed-basic-skills-test-gatekeeper.md) — related
+- [Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment](tennessee-msi-and-teacher-academy-investment-gaps.md) — related

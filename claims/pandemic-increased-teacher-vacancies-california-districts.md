@@ -51,3 +51,4 @@ Open-ended survey of 12 California districts (eight largest plus four small rura
 - [77% of school principals and district leaders reported challenges hiring enough substitute teachers during the pandemic, more than for any other staffing position](77-percent-principals-substitute-hiring-challenges.md) — related
 - [Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22](michigan-vacancy-data-underreporting.md) — related
 - [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related
+- [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related

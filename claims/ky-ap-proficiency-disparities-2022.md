@@ -46,3 +46,4 @@ Analysis of AP proficiency rates by race/ethnicity from the Kentucky School Repo
 - [Only 78% of Kentucky AP course completers took the AP exam in 2021-22, and test-taking growth did not extend to Black or Latino students](ky-ap-test-taking-gap-black-latino.md) — related
 - [Kentucky's AP pipeline is leakiest in high-poverty and rural districts, where about 1 in 100 students earned a passing AP score in 2021-22](ky-leaky-ap-pipeline-high-poverty-rural.md) — related
 - [Black and Latino students in Kentucky are much less likely than White peers to take AP and DC courses](ky-black-latino-ap-dc-enrollment-disparities.md) — related
+- [Michigan AP exam score distributions differ sharply by race: 16.6% of exams taken by white students earned a 5 versus 5.6% for Black students](michigan-ap-score-racial-disparities.md) — related

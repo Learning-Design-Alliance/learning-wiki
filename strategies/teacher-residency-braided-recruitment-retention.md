@@ -51,6 +51,8 @@ For teacher preparation, residency, and shortages, the brief recommends residenc
 - [Deploy service scholarships, loan forgiveness, and teacher residencies to staff high-need fields and schools](service-scholarships-residencies-staffing-strategy.md)
 - [Offer targeted service scholarships, loan forgiveness, and 1-year postbaccalaureate residency programs to rapidly expand the supply of well-prepared teachers in shortage fields and locations](service-scholarships-residencies-shortage-fields.md)
 - [Expand transitional kindergarten and preschool by braiding UPK funds with hiring, culturally responsive curriculum, and community college partnerships](upk-transitional-kindergarten-braided-implementation.md)
+- [District investment of LCFF funds in residency stipends written into Local Control and Accountability Plans as a workforce development strategy](lcff-district-funded-residency-stipends.md)
+- [Five state policy actions to sustain and scale teacher residencies](texas-residency-policy-recommendations.md)
 
 ## Examples
 -
