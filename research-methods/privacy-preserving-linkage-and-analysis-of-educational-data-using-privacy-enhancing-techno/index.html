@@ -756,7 +756,7 @@
 <h1 id="privacy-preserving-linkage-and-analysis-of-educational-data-using-privacy-enhancing-technologies">Privacy-preserving linkage and analysis of educational data using privacy-enhancing technologies<a class="headerlink" href="#privacy-preserving-linkage-and-analysis-of-educational-data-using-privacy-enhancing-technologies" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 3 claims (2 for, 1 against) · 3 studies (2 theoretical, 1 design), <code>q1</code> · 0 of 3 report an effect size · 3 claims rest on one study</p>
+<strong>Evidence</strong> · 5 claims (4 for, 1 against) · 5 studies (3 theoretical, 1 review, 1 design), <code>q1</code> · 0 of 5 report an effect size · 5 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The article presents a worked scenario in which a DLP used across several school districts for high school math instruction is linked with state college enrollment and persistence records using secure multiparty computation, producing aggregate correlations between engagement patterns and college outcomes with no raw data ever moving between the parties. The researcher tests analysis code on synthetic student data and applies differential privacy to summary tables before publication. The article describes this as turning a previously impossible study into a feasible one.</p>
@@ -764,12 +764,15 @@
 <!-- How each source describes or uses the method -->
 <ul>
 <li><strong>End-to-end PET workflow: SMPC linkage of DLP engagement data with state college outcomes</strong>: The article presents a worked scenario in which a DLP used across several school districts for high school math instruction is linked with state college enrollment and persistence records using secure multiparty computation, producing aggregate correlations between engagement patterns and college outcomes with no raw data ever moving between the parties. The researcher tests analysis code on synthetic student data and applies differential privacy to summary tables before publication. The article describes this as turning a previously impossible study into a feasible one. (Privacy Enhancing Technologies in Digital Learning Platforms)</li>
+<li><strong>Design the de-identified data architecture before data collection begins</strong>: Because external evidence goals often emerge after a product ships, the guide urges teams to decide up front whether researchers will ever touch identifiable data. It states that "If there is a realistic possibility that the project will become research, design the data architecture before data collection begins," since de-identifying after analysis is fundamentally different from never granting access. Early architecture decisions preserve the option of an NHSR pathway and avoid costly retrofits. (Navigating Research Approvals for EdTech Research and Evaluation: A Practical Guide)</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
 <ul>
 <li><a href="../../claims/pets-expand-data-value-through-sharing/">PETs expand the value of data by enabling sharing where in-the-clear approaches are infeasible</a> [+W]</li>
 <li><a href="../../claims/pets-utility-privacy-tradeoff/">PETs trade utility for privacy, limiting use where accuracy is mandated</a> [-W]</li>
 <li><a href="../../claims/scenario-terracotta-platform-capability-lessons/">Working a research scenario against a DLP surfaced concrete platform needs: adding measures, linking observational data, and enabling districtwide studies</a> [+W]</li>
+<li><a href="../../claims/access-not-intent-determines-nhsr/">Researcher access to identifiable student information, not research intent alone, determines NHSR status</a> [+W]</li>
+<li><a href="../../claims/nhsr-maintenance-three-conditions/">Maintaining NHSR status requires no researcher access to identifiable records, no added procedures, and no non-standard prompts</a> [+W]</li>
 </ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>
@@ -778,6 +781,7 @@
 <li>Dorie, Vincent. (2025, December). Privacy enhancing technologies in digital learning platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/278</li>
 </ul>
 <!-- merged 2026-10-10 from elements/end-to-end-pet-workflow-dlp-example ("End-to-end PET workflow: SMPC linkage of DLP engagement data with state college outcomes"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Younger, J. (2026, September). Navigating research approvals for edtech research and evaluation: A practical guide. Digital Promise. https://doi.org/10.51388/20.500.12265/318
 
 # End-to-end PET workflow: SMPC linkage of DLP engagement data with state college outcomes
 

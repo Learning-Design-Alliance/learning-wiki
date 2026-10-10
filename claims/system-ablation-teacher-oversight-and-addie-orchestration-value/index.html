@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Removing teacher-in-the-loop review or the curriculum checker significantly lowers teacher satisfaction, and replacing ADDIE orchestration with unstructured prompting yields the lowest satisfaction and longest preparation time - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="removing-teacher-in-the-loop-review-or-the-curriculum-checker-significantly-lowers-teacher-satisfaction-and-replacing-addie-orchestration-with-unstructured-prompting-yields-the-lowest-satisfaction-and-longest-preparation-time">Removing teacher-in-the-loop review or the curriculum checker significantly lowers teacher satisfaction, and replacing ADDIE orchestration with unstructured prompting yields the lowest satisfaction and longest preparation time<a class="headerlink" href="#removing-teacher-in-the-loop-review-or-the-curriculum-checker-significantly-lowers-teacher-satisfaction-and-replacing-addie-orchestration-with-unstructured-prompting-yields-the-lowest-satisfaction-and-longest-preparation-time" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Removing the teacher-in-the-loop review stage causes a statistically significant drop in teacher satisfaction (p&lt;0.05, Wilcoxon signed-rank test, n=18), despite marginally reducing preparation time. <a href="#thang-doan-viet-2026">→ Thang Doan Viet 2026</a>
+<code>q2 i?</code> Replacing full ADDIE orchestration with unstructured prompting (Generic LLM workflow) substantially increases preparation time (90–120 minutes) and achieves the lowest satisfaction (3.6±0.8, p&lt;0.01). <a href="#thang-doan-viet-2026-2">→ Thang Doan Viet 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="thang-doan-viet-2026">Thang Doan Viet 2026<a class="headerlink" href="#thang-doan-viet-2026" title="Permanent link">&para;</a></h3>
+<p>Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>System-level ablation (Table 4) with 18 teachers, comparing variants against the full pipeline using Wilcoxon signed-rank tests. Satisfaction fell from 4.7±0.4 to 3.9±0.6 without teacher-in-the-loop review; the authors conclude teachers "value control over AI outputs even at the cost of additional time".</p>
+<blockquote>
+<p>"Removing the teacher-in-the-loop review stage reduces preparation time marginally but causes a statistically significant drop in teacher satisfaction (p&lt;0.05, Wilcoxon signed-rank test [48])"</p>
+</blockquote>
+<h3 id="thang-doan-viet-2026-2">Thang Doan Viet 2026 (2)<a class="headerlink" href="#thang-doan-viet-2026-2" title="Permanent link">&para;</a></h3>
+<p>Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>System-level ablation (Table 4): the Generic LLM workflow took 90–120 minutes with satisfaction 3.6±0.8 (p&lt;0.01 vs. full pipeline), the lowest of all variants. The authors state this demonstrates ADDIE orchestration "contributes independent value beyond model capability alone".</p>
+<blockquote>
+<p>"Replacing the full ADDIE orchestration layer with unstructured prompting of the same VietEduQwen model (theGeneric LLM workflowrow)substantially increases preparation time and achieves the lowest satisfaction score"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../connected-high-teacher-student-satisfaction/">Teachers and students report strong satisfaction with ConnectED, with 94% of teachers willing to reuse it</a> — related</li>
+<li><a href="../connected-reduces-lesson-preparation-time/">ConnectED reduces 45-minute lesson preparation time to approximately 15–20 minutes in-system, versus 3–4 hours for manual preparation</a> — related</li>
+<li><a href="../glossary-intervention-lowered-satisfaction-m-tutor/">Implementing a student-made glossary significantly lowered first-year engineering students' satisfaction with the M-Tutor tutorial</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>system-ablation-teacher-oversight-and-addie-orchestration-value</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Removing teacher-in-the-loop review or the curriculum checker significantly lowers teacher satisfaction, and replacing ADDIE orchestration with unstructured prompting yields the lowest satisfaction and longest preparation time</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Removing teacher-in-the-loop review or the curriculum checker significantly lowers teacher satisfaction, and replacing ADDIE orchestration with unstructured prompting yields the lowest satisfaction and longest prepara...</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>thang-doan-viet-2026</code>, <code>thang-doan-viet-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

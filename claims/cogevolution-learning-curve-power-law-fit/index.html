@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CogEvolution&#x27;s simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents) - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="cogevolutions-simulated-learning-trajectory-fits-the-human-power-law-trajectory-far-better-than-baselines-r2lc-092-vs-078-peers-045-static-agents">CogEvolution's simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents)<a class="headerlink" href="#cogevolutions-simulated-learning-trajectory-fits-the-human-power-law-trajectory-far-better-than-baselines-r2lc-092-vs-078-peers-045-static-agents" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (3 entries) · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> CogEvolution produces an error-rate trajectory that tightly aligns with the ground-truth human trajectory (R²LC = 0.92), with a steep drop in the first 20 steps followed by gradual stabilization. <a href="#wei-zhang-2026">→ Wei Zhang 2026</a>
+<code>q2 i?</code> Static agents exhibit a nearly flat trajectory (R²LC = 0.45), showing no learning effect from practice without a state update mechanism. <a href="#wei-zhang-2026-2">→ Wei Zhang 2026 (2)</a>
+<code>q2 i?</code> The PEERS model shows a downward but overly linear trend (R²LC = 0.78), struggling to capture diminishing returns characteristic of cognitive saturation. <a href="#wei-zhang-2026-3">→ Wei Zhang 2026 (3)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="wei-zhang-2026">Wei Zhang 2026<a class="headerlink" href="#wei-zhang-2026" title="Permanent link">&para;</a></h3>
+<p>Wei Zhang, Yihang Cheng, Zhirong Ye &amp; Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Learning-curve fitting analysis for RQ2 over 100 practice opportunities on CogMath-948 (Figure 2) fits each agent's error-rate sequence to the power function E(n)=A·n^-α; CogEvolution reaches "R²LC =0.92" against the ground-truth human trajectory. No effect size is printed.</p>
+<blockquote>
+<p>"In sharp contrast,CogEvolution(Blue Circle) produces a curvethattightlyalignswiththeGroundTruth(𝑅 2 𝐿𝐶 =0.92). The trajectory displays a steep drop in the first 20 steps, followed by a gradual stabilization."</p>
+</blockquote>
+<h3 id="wei-zhang-2026-2">Wei Zhang 2026 (2)<a class="headerlink" href="#wei-zhang-2026-2" title="Permanent link">&para;</a></h3>
+<p>Wei Zhang, Yihang Cheng, Zhirong Ye &amp; Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>The same Figure 2 learning-curve analysis reports static agents' "nearly flat trajectory (𝑅2𝐿𝐶 =0.45)", which the authors interpret as standard LLMs relying on pre-trained knowledge without manifesting learning from practice.</p>
+<blockquote>
+<p>"As observed in Figure 2, theStatic Agents(Grey Square) exhibit a nearly flat trajectory (𝑅2𝐿𝐶 =0.45)."</p>
+</blockquote>
+<h3 id="wei-zhang-2026-3">Wei Zhang 2026 (3)<a class="headerlink" href="#wei-zhang-2026-3" title="Permanent link">&para;</a></h3>
+<p>Wei Zhang, Yihang Cheng, Zhirong Ye &amp; Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>In the same RQ2 analysis, PEERS achieves "R²LC =0.78" with an overly linear trajectory; the authors attribute this to BKT-based probability transitions failing to capture diminishing returns of cognitive saturation.</p>
+<blockquote>
+<p>"ThePEERSmodel (Green Triangle) shows a downward trend (𝑅2 𝐿𝐶 =0.78), but its trajectory is overly linear. This suggests that while BKT-based probability transitions can simulate performance improvement, they struggle to capture thediminishing returns characteristic of cognitive saturation."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../cogevolution-ablation-module-contributions/">Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment</a> — related</li>
+<li><a href="../cogevolution-mistake-precision-beats-kt-baseline/">CogEvolution performs comparably to the KT-based PEERS model on mastery prediction (AUC 0.80 vs 0.82) while achieving higher mistake precision (76.8%) on CogMath-948</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>cogevolution-learning-curve-power-law-fit</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>CogEvolution's simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents)</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>CogEvolution's simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents)</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>3 — <code>wei-zhang-2026</code>, <code>wei-zhang-2026-2</code>, <code>wei-zhang-2026-3</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

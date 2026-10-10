@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="ablations-show-each-cogevolution-module-contributes-removing-icap-perception-structured-retrieval-or-evolutionary-update-degrades-mistake-precision-learning-curve-fit-and-alignment">Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment<a class="headerlink" href="#ablations-show-each-cogevolution-module-contributes-removing-icap-perception-structured-retrieval-or-evolutionary-update-degrades-mistake-precision-learning-curve-fit-and-alignment" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (3 entries) · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Removing ICAP cognitive depth perception drops R²LC sharply to 0.58 (from 0.92). <a href="#wei-zhang-2026">→ Wei Zhang 2026</a>
+<code>q2 i?</code> Removing structured retrieval decreases Mistake Precision by 12.3% (to 64.5%). <a href="#wei-zhang-2026-2">→ Wei Zhang 2026 (2)</a>
+<code>q2 i?</code> Removing the evolutionary update mechanism significantly reduces mistake fidelity and alignment, falling back to static persona modeling (Mistake Precision 55.1%, R²LC 0.51). <a href="#wei-zhang-2026-3">→ Wei Zhang 2026 (3)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="wei-zhang-2026">Wei Zhang 2026<a class="headerlink" href="#wei-zhang-2026" title="Permanent link">&para;</a></h3>
+<p>Wei Zhang, Yihang Cheng, Zhirong Ye &amp; Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Ablation experiment (Table 3) on CogMath-948 with the w/o ICAP variant; the article reports "R²LC todropsharplyto0.58" alongside Mistake Precision 68.5% and Align 0.73. No effect size is printed.</p>
+<blockquote>
+<p>"Removing cognitive depth perception renders the agent unable to distinguish between shallow and deep learning,causing𝑅 2𝐿𝐶 todropsharplyto0.58,demonstrating the validity of cognitive features in simulating agent cognitive psychological validity."</p>
+</blockquote>
+<h3 id="wei-zhang-2026-2">Wei Zhang 2026 (2)<a class="headerlink" href="#wei-zhang-2026-2" title="Permanent link">&para;</a></h3>
+<p>Wei Zhang, Yihang Cheng, Zhirong Ye &amp; Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Ablation experiment (Table 3) with the w/o Meta-Ret variant reports a "12.3%decreaseinMistakePrecision" (76.8% to 64.5%), with R²LC 0.85 and Align 0.88. No effect size is printed.</p>
+<blockquote>
+<p>"Removing structured retrieval leads to a 12.3%decreaseinMistakePrecision,indicatingthatknowl-edge assimilation is crucial for reproducing specific cogni-tive misconceptions."</p>
+</blockquote>
+<h3 id="wei-zhang-2026-3">Wei Zhang 2026 (3)<a class="headerlink" href="#wei-zhang-2026-3" title="Permanent link">&para;</a></h3>
+<p>Wei Zhang, Yihang Cheng, Zhirong Ye &amp; Kezhen Huang. (2026). CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution. https://arxiv.org/abs/2604.14786</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Ablation experiment (Table 3) with the w/o Evo-Update variant reports Mistake Precision 55.1% (down 21.7), R²LC 0.51 (down 0.41), and Align 0.76, which the article describes as falling back to static persona modeling. No effect size is printed.</p>
+<blockquote>
+<p>"Removing the evolutionary update mechanismresultsinsignificantlyreducedbehavioralmis-take fidelity and cognitive alignment (Align), causing the agent's simulation capability to fall back to static persona modeling."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../clara-taxonomy-quality-ablation/">Taxonomy quality drives CLARA performance: degraded taxonomies reduce alignment, and removing SEL causes the largest degradation</a> — related</li>
+<li><a href="../cogevolution-mistake-precision-beats-kt-baseline/">CogEvolution performs comparably to the KT-based PEERS model on mastery prediction (AUC 0.80 vs 0.82) while achieving higher mistake precision (76.8%) on CogMath-948</a> — related</li>
+<li><a href="../cogevolution-learning-curve-power-law-fit/">CogEvolution's simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents)</a> — related</li>
+<li><a href="../cognitive-load-module-largest-ablation-drop/">Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>cogevolution-ablation-module-contributions</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>3 — <code>wei-zhang-2026</code>, <code>wei-zhang-2026-2</code>, <code>wei-zhang-2026-3</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Under persona simulation with hidden ground-truth mastery, Adaptive sessions yield lower final-belief mastery MAE (0.12) than Random-topic (0.16) and Frozen (0.20) controls, and belief updates shrink as estimates converge - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="under-persona-simulation-with-hidden-ground-truth-mastery-adaptive-sessions-yield-lower-final-belief-mastery-mae-012-than-random-topic-016-and-frozen-020-controls-and-belief-updates-shrink-as-estimates-converge">Under persona simulation with hidden ground-truth mastery, Adaptive sessions yield lower final-belief mastery MAE (0.12) than Random-topic (0.16) and Frozen (0.20) controls, and belief updates shrink as estimates converge<a class="headerlink" href="#under-persona-simulation-with-hidden-ground-truth-mastery-adaptive-sessions-yield-lower-final-belief-mastery-mae-012-than-random-topic-016-and-frozen-020-controls-and-belief-updates-shrink-as-estimates-converge" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Final-belief mastery MAE is lowest under Adaptive (0.12 vs 0.16/0.20) in the 6-persona Claude Sonnet 4.5-graded run. <a href="#kailai-he-2026">→ Kailai He 2026</a>
+<code>q2 i?</code> Mean update magnitude |Δp| shrinks across the six Adaptive persona sessions (0.14→0.10) but stays flat or drifts upward under both controls. <a href="#kailai-he-2026-2">→ Kailai He 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="kailai-he-2026">Kailai He 2026<a class="headerlink" href="#kailai-he-2026" title="Permanent link">&para;</a></h3>
+<p>Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Persona-simulation run (6 personas, 132 rounds) driving the live grading and BKT services with hidden ground-truth mastery; the article reports "mastery MAE is lowest underAdaptive( 0.12 vs. 0.16/0.20; Table 2)".</p>
+<blockquote>
+<p>"belief mastery MAE is lowest underAdaptive( 0.12 vs. 0.16/0.20; Table 2), and the per-learner belief error|ˆp−p∗| falls in step (Figure 3a)."</p>
+</blockquote>
+<h3 id="kailai-he-2026-2">Kailai He 2026 (2)<a class="headerlink" href="#kailai-he-2026-2" title="Permanent link">&para;</a></h3>
+<p>Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Secondary aggregate signal from the same 6-persona simulation: the article reports that "mean|∆p| shrinks across the sixAdaptivepersona sessions ( 0.14→0.10 )" while both controls stay flat or drift upward.</p>
+<blockquote>
+<p>"mean|∆p| shrinks across the sixAdaptivepersona sessions ( 0.14→0.10 ) but stays flat or drifts upward under both controls (Figure 3b)."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../structured-student-agents-differentiated-mastery-traces/">In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>collearn-adaptive-mastery-mae-convergence</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Under persona simulation with hidden ground-truth mastery, Adaptive sessions yield lower final-belief mastery MAE (0.12) than Random-topic (0.16) and Frozen (0.20) controls, and belief updates shrink as estimates converge</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Under persona simulation with hidden ground-truth mastery, Adaptive sessions yield lower final-belief mastery MAE (0.12) than Random-topic (0.16) and Frozen (0.20) controls, and belief updates shrink as estimates conv...</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>kailai-he-2026</code>, <code>kailai-he-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

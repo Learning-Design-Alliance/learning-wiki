@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than flagship models - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="purpose-trained-single-pass-generation-completes-a-slide-in-a-median-of-17-seconds-and-an-interactive-page-in-59-seconds-over-220k-production-requests-and-delivers-artifacts-at-1522-lower-per-artifact-api-cost-than-flagship-models">Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than flagship models<a class="headerlink" href="#purpose-trained-single-pass-generation-completes-a-slide-in-a-median-of-17-seconds-and-an-interactive-page-in-59-seconds-over-220k-production-requests-and-delivers-artifacts-at-1522-lower-per-artifact-api-cost-than-flagship-models" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r3</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Over a seven-day live-traffic window the production models completed 180k slide generations at a median of 17s and 40k interactive pages at 59s. <a href="#cogevol-team-2026">→ CogEvol Team 2026</a>
+<code>q2 i?</code> At public list prices CogEvol-27B delivers near-flagship quality at 15–22× lower per-artifact API cost than Claude Opus 4.8 or GPT-5.4, and CogEvol-4B at ~100× lower. <a href="#cogevol-team-2026-2">→ CogEvol Team 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="cogevol-team-2026">CogEvol Team 2026<a class="headerlink" href="#cogevol-team-2026" title="Permanent link">&para;</a></h3>
+<p>CogEvol Team, CogEvol Inc. &amp; Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968</p>
+<p><code>q2 · i?</code> · <code>design · r3</code></p>
+<p>Production serving-database statistics (successful calls, seven-day window, August 2026) for the models serving OpenMAIC traffic. The report states these "are production numbers, not laboratory ones", with slides emitting ~1.8k output tokens and pages ~9k.</p>
+<blockquote>
+<p>"the production models behind these medians—same architecture and parameter count as CogEvol-27B, and therefore the same serving speed—completed 180k slide generations at a median (P95) of 17s (26s) and 40k interactive pages at 59s (107s)."</p>
+</blockquote>
+<h3 id="cogevol-team-2026-2">CogEvol Team 2026 (2)<a class="headerlink" href="#cogevol-team-2026-2" title="Permanent link">&para;</a></h3>
+<p>CogEvol Team, CogEvol Inc. &amp; Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968</p>
+<p><code>q2 · i?</code> · <code>design · r3</code></p>
+<p>Cost comparison computed from token usage on the identical benchmark runs at public list prices (Figure 1b); the report frames cost as deciding "who gets to use the technology" for under-resourced users.</p>
+<blockquote>
+<p>"at public list prices, CogEvol-27B delivers near-flagship quality at 15–22× lower per-artifact API cost than Claude Opus 4.8 or GPT-5.4, and CogEvol-4B at∼100× lower."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../cogevol-benchmark-no-flagship-leads-both-modalities/">On the report's internal suites CogEvol-27B scores 83.7 on slides and 63.7 on HTML-500 with zero hard failures, while no external flagship leads both modalities</a> — related</li>
+<li><a href="../hardening-rehearsal-50-sessions-and-access-denials/">A deployment-hardening rehearsal with 50 distinct learner accounts recorded 50 completed sessions, 50 successful board pulls and 50 denials of student analytics access, with a median API session time of 3.064 s</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>cogevol-single-pass-latency-and-cost</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than flagship models</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than...</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>cogevol-team-2026</code>, <code>cogevol-team-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
