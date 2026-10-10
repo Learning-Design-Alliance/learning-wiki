@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Blind expert verification shows no overall preference for human over LLM qualitative coding when sources are judged symmetrically - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="blind-expert-verification-shows-no-overall-preference-for-human-over-llm-qualitative-coding-when-sources-are-judged-symmetrically">Blind expert verification shows no overall preference for human over LLM qualitative coding when sources are judged symmetrically<a class="headerlink" href="#blind-expert-verification-shows-no-overall-preference-for-human-over-llm-qualitative-coding-when-sources-are-judged-symmetrically" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · associational <code>r2</code> · <code>q2</code> · <code>i0</code> negligible</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i0</code> Among decisive Human vs. LLM comparisons, an independent blind domain expert preferred human coding 51.5% and LLM coding 48.5% of the time, a statistically negligible deviation from chance. <a href="#liu-2026">→ Liu 2026</a>
+<code>q2 i?</code> Verification checks passed: no position bias was detected, and Human vs. Human pairs split nearly evenly across the three coders, confirming the task admits meaningful discrimination without favoring any coder. <a href="#liu-2026-2">→ Liu 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="liu-2026">Liu 2026<a class="headerlink" href="#liu-2026" title="Permanent link">&para;</a></h3>
+<p>Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., &amp; Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890</p>
+<p><code>q2 · i0</code> · <code>associational · r2</code></p>
+<p>Blind verification protocol: an expert with a doctorate in education, not involved in the original coding and unaware of source identity, judged 855 anonymized pairwise comparisons with position randomized. Of 855 comparisons, "the verifier expressed a decisive preference in 801 cases (93.7%)"; the human-preference effect versus 0.50 was "a negligible effect" (Cohen’s h = 0.029).</p>
+<blockquote>
+<p>"Among the 555 Human vs. LLM pairs, 515 received decisive preferences, with human coding preferred in 265 cases (51.5%) and LLM coding in 250 (48.5%). A binomial test yields p = 0.537, the 95% confidence interval for the human preference rate is [0.470, 0.559], and Cohen’s h relative to 0.50 is 0.029, a negligible effect."</p>
+</blockquote>
+<h3 id="liu-2026-2">Liu 2026 (2)<a class="headerlink" href="#liu-2026-2" title="Permanent link">&para;</a></h3>
+<p>Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., &amp; Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890</p>
+<p><code>q2 · i?</code> · <code>associational · r2</code></p>
+<p>Baseline checks within the same blind verification protocol. Position of the two code sets was randomized and showed "No significant position bias" (p = 0.230), and Human vs. Human baseline pairs split nearly evenly across coders, so the aggregate null is not an artifact of presentation order or verifier favoritism.</p>
+<blockquote>
+<p>"No significant position bias was detected (Option A 47.8% vs. Option B 52.2% of decisive cases, p = 0.230). Among Human vs. Human pairs, decisive preferences split nearly evenly across the three coders (53.6%, 48.2%, 48.1%), confirming that the task admits meaningful discrimination without favoring any individual coder."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../agreement-quality-divergence-human-consensus-bias/">Agreement metrics and expert quality judgments diverge in both directions: human consensus can encode shared conservative bias that the verifier rejects in favor of LLM coding</a> — related</li>
+<li><a href="../bradley-terry-model-selection-matters-more-than-source-type/">In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage</a> — a narrower finding that bears on this claim</li>
+<li><a href="../intent-inference-codes-require-human-coders/">On codes requiring recognition of pedagogical intent not explicitly stated, LLMs over-apply and the blind verifier rejects their application in favor of human coding</a> — related</li>
+<li><a href="../human-llm-agreement-gap-jaccard/">Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement</a> — related</li>
+<li><a href="../human-llm-agreement-low-construct-varying/">Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>blind-verification-no-overall-human-preference</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Blind expert verification shows no overall preference for human over LLM qualitative coding when sources are judged symmetrically</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Blind expert verification shows no overall preference for human over LLM qualitative coding when sources are judged symmetrically</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>liu-2026</code>, <code>liu-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

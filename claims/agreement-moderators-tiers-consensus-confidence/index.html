@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="human-llm-agreement-is-moderated-by-code-properties-multi-model-consensus-and-model-reported-confidence">Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence<a class="headerlink" href="#human-llm-agreement-is-moderated-by-code-properties-multi-model-consensus-and-model-reported-confidence" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (3 entries) · design <code>r2</code> · <code>q2</code> · <code>i1</code> small</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> The 72 codes stratify into three agreement tiers: surface-identifiable codes exceed 0.4 Jaccard, inference-dependent codes fall below 0.2, with high-frequency codes such as Non-Educational at 0.05. <a href="#liu-2026">→ Liu 2026</a>
+<code>q2 i?</code> Human endorsement of a code rises monotonically with the number of models agreeing on it, from 12.2% when one of five models assigns it to 63.0% when all five converge. <a href="#liu-2026-2">→ Liu 2026 (2)</a>
+<code>q2 i1</code> Pooled across models, agreement rises with model-reported confidence (point-biserial r = 0.197, p &lt; 0.001), but the shape and strength of this signal differ by model. <a href="#liu-2026-3">→ Liu 2026 (3)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="liu-2026">Liu 2026<a class="headerlink" href="#liu-2026" title="Permanent link">&para;</a></h3>
+<p>Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., &amp; Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Code-level stratification of mean human-LLM Jaccard across the 72-code instrument. Tier 1 (8 codes above 0.4) carries concrete task language; Tier 2 (roughly 30 codes, 0.2 to 0.4) needs some inference; Tier 3 (roughly 35 codes below 0.2) requires inferring intent, including Non-Educational at Jaccard 0.05.</p>
+<blockquote>
+<p>"Tier 1 codes (above 0.4, 8 codes) are marked by concrete task language identifiable from surface cues, such as Grading (0.63), Generate Feedback to Students (0.57), and Learning Standards Alignment (0.46)."</p>
+</blockquote>
+<h3 id="liu-2026-2">Liu 2026 (2)<a class="headerlink" href="#liu-2026-2" title="Permanent link">&para;</a></h3>
+<p>Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., &amp; Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Multi-model consensus analysis relating the number of the five LLMs assigning a code to the rate of human endorsement (Table 3). The relationship is "monotonically increasing"; conversely, 32% of human-assigned codes are assigned by no model, which the authors read as interpretations requiring human expertise.</p>
+<blockquote>
+<p>"Endorsement rises monotonically with model agreement, from 12.2% when a single model assigns a code to 63.0% when all five converge."</p>
+</blockquote>
+<h3 id="liu-2026-3">Liu 2026 (3)<a class="headerlink" href="#liu-2026-3" title="Permanent link">&para;</a></h3>
+<p>Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., &amp; Sun, M. (2026). Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth. Preprint, no identifier printed in text. https://arxiv.org/abs/2607.28890</p>
+<p><code>q2 · i1</code> · <code>associational · r2</code></p>
+<p>Confidence-bin analysis with identical bins for every model (Figure 2). Pooled agreement rose from 29% below 0.7 to 66% at 0.9 or above (point-biserial r = 0.197, p &lt; 0.001); Claude Opus rose monotonically from 17% to 83%, while GPT-4o never reported confidence above 0.9 and Gemini Flash was nearly flat between 0.5 and 0.9.</p>
+<blockquote>
+<p>"Pooled, agreement rises with confidence (66% at 0.9 or above vs. 29% below 0.7; point-biserial r = 0.197, p &lt; 0.001), but model-level patterns differ in shape."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../human-llm-agreement-gap-jaccard/">Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement</a> — related</li>
+<li><a href="../bradley-terry-model-selection-matters-more-than-source-type/">In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage</a> — related</li>
+<li><a href="../llm-choice-affects-human-ai-coding-correspondence/">LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst</a> — related</li>
+<li><a href="../human-llm-agreement-low-construct-varying/">Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>agreement-moderators-tiers-consensus-confidence</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>3 — <code>liu-2026</code>, <code>liu-2026-2</code>, <code>liu-2026-3</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
