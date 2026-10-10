@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="pipeline-components-play-complementary-roles-hierarchical-generation-has-the-largest-effect-grounding-improves-specificity-and-factual-accuracy-and-cluster-informed-toc-planning-improves-structure-and-audience-fit">Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit<a class="headerlink" href="#pipeline-components-play-complementary-roles-hierarchical-generation-has-the-largest-effect-grounding-improves-specificity-and-factual-accuracy-and-cluster-informed-toc-planning-improves-structure-and-audience-fit" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (4 entries) · causal <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Removing TOC planning, clustering, and source chunks (Baseline C) drops overall judged quality from 9.38 to 6.12 (−3.26), the largest observed component effect. <a href="#jiawen-tao-2026">→ Jiawen Tao 2026</a>
+<code>q2 i?</code> Source chunks primarily improve specificity (+0.23), examples (+0.35), and factual accuracy (+0.32). <a href="#jiawen-tao-2026-2">→ Jiawen Tao 2026 (2)</a>
+<code>q2 i?</code> Cluster-informed TOC planning improves audience/style fit (+0.59), structure (+0.44), pedagogy (+0.23), and overall quality (+0.14) over discipline-name-only planning. <a href="#jiawen-tao-2026-3">→ Jiawen Tao 2026 (3)</a>
+<code>q2 i?</code> The TOC quality gate acts as a safety net: books from failed TOCs score lower on overall (−0.25), structure (−0.20), and pedagogy (−0.19), a smaller degradation than removing source chunks or cluster summaries. <a href="#jiawen-tao-2026-4">→ Jiawen Tao 2026 (4)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="jiawen-tao-2026">Jiawen Tao 2026<a class="headerlink" href="#jiawen-tao-2026" title="Permanent link">&para;</a></h3>
+<p>Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Component ablation on 100 matched book instances scored by Gemini-3.1-Pro on a 1–10 rubric; Baseline C generates an entire book without TOC planning, clustering, or source chunks.</p>
+<blockquote>
+<p>"Baseline C scores 6.12 overall versus 9.38 for Full (−3.26). Despite a∼30–40K-word length target, it still yields only∼56K characters (roughly 4× shorter than Full), with lower depth (5.86) and specificity (6.41)."</p>
+</blockquote>
+<h3 id="jiawen-tao-2026-2">Jiawen Tao 2026 (2)<a class="headerlink" href="#jiawen-tao-2026-2" title="Permanent link">&para;</a></h3>
+<p>Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Same judged ablation; Baseline A keeps Full's cluster-informed TOC but removes source chunks, isolating retrieval grounding's contribution to domain-specific detail.</p>
+<blockquote>
+<p>"Full versus Baseline A isolates retrieval grounding: source chunks improve specificity (+0.23), examples (+0.35), and factual accuracy (+0.32), with smaller differences elsewhere."</p>
+</blockquote>
+<h3 id="jiawen-tao-2026-3">Jiawen Tao 2026 (3)<a class="headerlink" href="#jiawen-tao-2026-3" title="Permanent link">&para;</a></h3>
+<p>Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Same judged ablation comparing Baseline A (cluster-informed TOC) against Baseline B (TOC from discipline name alone), neither using source chunks.</p>
+<blockquote>
+<p>"A improves audience/style fit (9.21 vs. 8.62, +0.59), structure (9.35 vs. 8.91, +0.44), pedagogy (9.23 vs. 9.00, +0.23), and overall quality (9.21 vs. 9.07, +0.14), showing that source coverage supports more targeted TOCs before any section text is generated."</p>
+</blockquote>
+<h3 id="jiawen-tao-2026-4">Jiawen Tao 2026 (4)<a class="headerlink" href="#jiawen-tao-2026-4" title="Permanent link">&para;</a></h3>
+<p>Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Baseline D generates books from 200 failed TOCs, evaluated with the same judge and rubric as the other ablation conditions.</p>
+<blockquote>
+<p>"Relative to Full, they score lower on overall (−0.25), structure (−0.20), and pedagogy (−0.19). This smaller degradation than removing source chunks or cluster summaries makes the gate a safety net rather than the primary quality driver."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../book-structure-preservation-improves-mid-training/">Preserving book-level document structure during mid-training improves downstream performance beyond identical content split into sections (+1.02 mean)</a> — related</li>
+<li><a href="../structured-synthesis-beats-rephrasing/">Structured book synthesis outperforms matched independent document rephrasing (+1.17 mean), while rephrasing alone ties natural books</a> — related</li>
+<li><a href="../source-chunk-count-k10-plateau/">Section quality improves with more source chunks up to k=10, beyond which gains plateau</a> — related</li>
+<li><a href="../synthetic-textbooks-replace-natural-books-gain/">Replacing natural books with synthetic textbooks improves the 28-benchmark mean by +1.09, with gains spanning all four categories</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>pipeline-components-complementary-ablation</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>4 — <code>jiawen-tao-2026</code>, <code>jiawen-tao-2026-2</code>, <code>jiawen-tao-2026-3</code>, <code>jiawen-tao-2026-4</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

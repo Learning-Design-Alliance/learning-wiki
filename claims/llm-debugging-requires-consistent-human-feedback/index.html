@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LLM-assisted hardware debugging requires consistent human feedback because the LLM&#x27;s understanding of the circuit drifts - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="llm-assisted-hardware-debugging-requires-consistent-human-feedback-because-the-llms-understanding-of-the-circuit-drifts">LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts<a class="headerlink" href="#llm-assisted-hardware-debugging-requires-consistent-human-feedback-because-the-llms-understanding-of-the-circuit-drifts" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · qualitative <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> During long hardware debugging conversations the LLM forgot or modified previously stated context, and assertive reminders realigned its understanding. <a href="#andrew-ash-and-john-hu-2026">→ Andrew Ash and John Hu 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="andrew-ash-and-john-hu-2026">Andrew Ash and John Hu 2026<a class="headerlink" href="#andrew-ash-and-john-hu-2026" title="Permanent link">&para;</a></h3>
+<p>Andrew Ash and John Hu. (2026). WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant. arXiv preprint. https://arxiv.org/abs/2608.02420</p>
+<p><code>q2 · i?</code> · <code>qualitative · r2</code></p>
+<p>Interview and chat-log evidence from the case study. Daniel delivered circuit context in small pieces and reminded the LLM of complex setups; a quick reminder "would easily realign the LLM's understanding with reality," as in the GP15 pin misinterpretation.</p>
+<blockquote>
+<p>"During long electrical hardware debugging conversations, Daniel found that “it does start to forget things or modify things that you had already told it.”"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../hardware-debugging-takes-multiple-prompts/">Hardware debugging with an LLM assistant takes multiple prompts and more patience than software debugging</a> — related</li>
+<li><a href="../llms-zero-shot-true-root-cause-suggestions/">Off-the-shelf LLMs without domain-specific fine-tuning suggested true root causes among their zero-shot debugging recommendations for buggy analog circuits</a> — related</li>
+<li><a href="../llm-factual-errors-after-image-inputs-3d-reasoning/">LLM factual errors during collaborative circuit debugging occurred almost exclusively after image inputs, attributed to limited 3D spatial reasoning from breadboard or PCB photos</a> — related</li>
+<li><a href="../llm-unjustified-confidence-visual-recommendations/">LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty</a> — related</li>
+<li><a href="../students-offload-critical-thinking-ai-debugging/">Some students lacked fundamental understanding of basic circuit concepts and offloaded critical thinking to AI during collaborative debugging</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>llm-debugging-requires-consistent-human-feedback</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>weak</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>andrew-ash-and-john-hu-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
