@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>In matched single-run 1B pre-training comparisons, all Edu-QuRating-based mixtures reach higher observed aggregate accuracy at 30k steps than the FineWeb-Edu baseline, with gains concentrated in specific tasks - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="in-matched-single-run-1b-pre-training-comparisons-all-edu-qurating-based-mixtures-reach-higher-observed-aggregate-accuracy-at-30k-steps-than-the-fineweb-edu-baseline-with-gains-concentrated-in-specific-tasks">In matched single-run 1B pre-training comparisons, all Edu-QuRating-based mixtures reach higher observed aggregate accuracy at 30k steps than the FineWeb-Edu baseline, with gains concentrated in specific tasks<a class="headerlink" href="#in-matched-single-run-1b-pre-training-comparisons-all-edu-qurating-based-mixtures-reach-higher-observed-aggregate-accuracy-at-30k-steps-than-the-fineweb-edu-baseline-with-gains-concentrated-in-specific-tasks" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r1</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> At 30k steps the FineWeb-Edu baseline reaches 0.3806 mean accuracy across nine tasks, versus 0.3903 for the 50-50-50 Edu-QuRating run, 0.3962 for stricter pedagogy, and 0.3961 for Edu-QuRating + DCLM. <a href="#garrod-2026">→ Garrod 2026</a>
+<code>q2 i?</code> Task-level gains are concentrated: ARC-CF and HellaSwag improve by roughly three to five accuracy points, while MMLU-family improvements are close to zero and CommonsenseQA is mixed. <a href="#garrod-2026-2">→ Garrod 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="garrod-2026">Garrod 2026<a class="headerlink" href="#garrod-2026" title="Permanent link">&para;</a></h3>
+<p>Garrod, O. G. B., Ince, R. A. A., Liu, M., Huti, M., Boos, M., Waldock, A., Andrews, D., Alonso-Kropil, R., &amp; Atherton, P. (2026). Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements. arXiv. https://arxiv.org/abs/2609.09425</p>
+<p><code>q2 · i?</code> · <code>causal · r1</code></p>
+<p>Matched single-run pre-training comparison following the Smol Training Playbook 1B ablation configuration (45B tokens, 10% FineMath-3Plus and 20% Stack-Edu-Python fixed), varying only the 70% web-text slice. The article reports the baseline at "0.3806 mean accuracy across the nine tasks" and higher Edu-QuRating endpoints.</p>
+<blockquote>
+<p>"The baseline reaches 0.3806 mean accuracy across the nine tasks. The regenerated 50-50-50 Edu-QuRating run reaches 0.3903, a gain of 0.0097 over the baseline. The stricter-pedagogy run reaches 0.3962, and the Edu-QuRating + DCLM mixture reaches 0.3961."</p>
+</blockquote>
+<h3 id="garrod-2026-2">Garrod 2026 (2)<a class="headerlink" href="#garrod-2026-2" title="Permanent link">&para;</a></h3>
+<p>Garrod, O. G. B., Ince, R. A. A., Liu, M., Huti, M., Boos, M., Waldock, A., Andrews, D., Alonso-Kropil, R., &amp; Atherton, P. (2026). Edu-QuRating: Multi-Dimensional Educational Data Curation with Distilled Pairwise Judgements. arXiv. https://arxiv.org/abs/2609.09425</p>
+<p><code>q2 · i?</code> · <code>causal · r1</code></p>
+<p>Task-level endpoint analysis of the same matched pre-training comparison, shown in Figure 6(C). The article reports that "ARC-CF and HellaSwag show the clearest improvements" while MMLU-family improvements are close to zero and CommonsenseQA is mixed.</p>
+<blockquote>
+<p>"ARC-CF and HellaSwag show the clearest improvements, with gains of roughly three to five accuracy points depending on the Edu-QuRating mixture. OpenBookQA, BoolQ, and WinoGrande also improve for all Edu-QuRating conditions, though by smaller margins."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../core-ed-scores-track-education-level-metadata/">Core-Ed Edu-QuRater scores vary sensibly with education-level metadata on out-of-sample materials (marginal Pearson correlations 0.62 and 0.64; six-dimension cross-validated R2 of 0.449)</a> — related</li>
+<li><a href="../edu-quraters-distill-pairwise-educational-preferences/">Edu-QuRaters recover held-out GPT-4.1-mini pairwise educational preferences from single-text scores, with mean accuracy rising from 0.895 (Sheared-LLaMA-1.3B) to 0.917 (Gemma-3-4B-PT)</a> — related</li>
+<li><a href="../foundational-literacy-edu-quraters-distill-successfully/">The pairwise-distillation procedure transfers to foundational-literacy scoring, with Gemma-3-4B-PT validation losses of 0.128 (student-facing) and 0.175 (teacher-facing)</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>edu-qurating-filtered-pretraining-higher-endpoints</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>In matched single-run 1B pre-training comparisons, all Edu-QuRating-based mixtures reach higher observed aggregate accuracy at 30k steps than the FineWeb-Edu baseline, with gains concentrated in specific tasks</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>In matched single-run 1B pre-training comparisons, all Edu-QuRating-based mixtures reach higher observed aggregate accuracy at 30k steps than the FineWeb-Edu baseline, with gains concentrated in specific tasks</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>garrod-2026</code>, <code>garrod-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

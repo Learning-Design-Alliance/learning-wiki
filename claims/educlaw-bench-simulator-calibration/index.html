@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="the-simulated-learner-tracks-a-real-student-kt-model-with-calibration-error-0049-and-the-helpfulness-rubric-transfers-to-real-classroom-transcripts">The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts<a class="headerlink" href="#the-simulated-learner-tracks-a-real-student-kt-model-with-calibration-error-0049-and-the-helpfulness-rubric-transfers-to-real-classroom-transcripts" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Binning all 176,187 (run, day) pairs by predicted mastery against observed accuracy gives an Expected Calibration Error of 0.049 and Brier score of 0.033 over 1.19M item attempts. <a href="#lee-2026">→ Lee 2026</a>
+<code>q2 i?</code> Scoring 150 real K-12 tutoring sessions with the same rubric gives a field Helpfulness of 6.02 (sd 1.21), inside the simulator's range (6.19, sd 0.45) with no distinguishable difference (Mann-Whitney p = 0.68). <a href="#lee-2026-2">→ Lee 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="lee-2026">Lee 2026<a class="headerlink" href="#lee-2026" title="Permanent link">&para;</a></h3>
+<p>Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>AKT-predicted KC mastery plotted against observed probe accuracy, with points hugging the diagonal, so its knowledge state tracks the real-student KT model rather than drifting.</p>
+<blockquote>
+<p>"binning all176,187(run, day) pairs by predicted mastery against observed accuracy gives an Expected Calibration Error of 0.049and a Brier score of0.033over1.19M item attempts"</p>
+</blockquote>
+<h3 id="lee-2026-2">Lee 2026 (2)<a class="headerlink" href="#lee-2026-2" title="Permanent link">&para;</a></h3>
+<p>Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Field test with about 500 K-12 students across several partner classrooms using a live tutor on solar-mini. The rubric therefore transfers to real transcripts; Cohen's d = 0.18 for the difference.</p>
+<blockquote>
+<p>"Scoring 150 of these sessions with the same rubric gives a field Helpfulness of6.02(sd1.21), inside the simulator’s range for that axis (6.19, sd0.45) with no distinguishable differ- ence (Mann-Whitneyp= 0.68)"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../educlaw-bench-plateau-within-days/">Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days</a> — related</li>
+<li><a href="../cogevolution-mistake-precision-beats-kt-baseline/">CogEvolution performs comparably to the KT-based PEERS model on mastery prediction (AUC 0.80 vs 0.82) while achieving higher mistake precision (76.8%) on CogMath-948</a> — related</li>
+<li><a href="../fine-tuning-improves-clst-calibration/">Fine-tuning on KTLP data improved CLST output calibration, moving predictions closer to the ideal diagonal</a> — related</li>
+<li><a href="../bkt-mastery-floor-above-learn-rate/">Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses</a> — related</li>
+<li><a href="../llm-classification-agreement-varies-by-construct/">LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531)</a> — related</li>
+<li><a href="../clst-outperforms-baselines-cold-start/">In system cold-start scenarios, CLST outperformed every baseline KT model across all five datasets, with the largest gains at 8 training students</a> — related</li>
+<li><a href="../ms-bkt-estimates-fluctuate-less-than-bkt/">MS-BKT mastery estimates fluctuate less than classic BKT and avoid over-high estimates after long incorrect runs, in fictitious-student comparisons</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>educlaw-bench-simulator-calibration</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>lee-2026</code>, <code>lee-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
