@@ -43,6 +43,7 @@ The article recommends treating model output as a trigger for timely academic gu
 - [Decide whether to use demographic predictors case-by-case based on context: risk of discriminatory decision-making, who holds final choice, and stakes](contextual-decision-demographic-predictor-use.md)
 - [Combine in-school and out-of-school data sources to understand and support students flagged as at risk](combine-school-and-human-services-data-for-risk-support.md)
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
+- [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](ml-early-warning-proactive-retention-support.md)
 
 ## Examples
 -

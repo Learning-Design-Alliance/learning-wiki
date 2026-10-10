@@ -124,3 +124,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related
 - [AWE tools can enhance organization of writing, overall writing quality, and encourage self-directed learning](awe-enhance-organization-quality-self-directed-learning.md) — related
 - [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — a narrower finding that bears on this claim
+- [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — a narrower finding that bears on this claim

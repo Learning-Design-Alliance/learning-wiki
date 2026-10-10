@@ -52,7 +52,8 @@ The dissertation proposes a solution-focused, cognitive-behavioural framework fo
 - 
 
 ## Examples
--
+
+- [Concentrate professional development support at the point of intention–behaviour translation through clinically embedded coaching](../strategies/coaching-at-intention-behaviour-translation.md)
 
 ## Key Sources
 - Grant, Anthony M. (2001). Towards a Psychology of Coaching: The Impact of Coaching on Metacognition, Mental Health and Goal Attainment. Doctoral dissertation, Macquarie University. https://eric.ed.gov/?id=ED478147

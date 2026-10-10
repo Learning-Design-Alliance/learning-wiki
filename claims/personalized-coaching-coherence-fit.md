@@ -48,3 +48,4 @@ DLP year 2 survey: coached core-subject teachers reported better PD fit than non
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — related
 - [Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours](sustained-coaching-contact-hours.md) — related
 - [Teachers described an ideal technology coach as prepared, patient, observant, and using current research-based methods](pr-ideal-coach-characteristics-teacher-voice.md) — related
+- [Intervention students reported significantly higher exam confidence than controls (M=4.3 vs 3.4 on a 5-point scale, d=0.76)](automated-marking-higher-exam-confidence.md) — related

@@ -51,3 +51,6 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions](paid-ai-tool-access-equity-advantage.md) — related
 - [Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy](differential-ai-access-reproduces-epistemic-hierarchy.md) — related
 - [Qualitative findings identified plagiarism, student overreliance on AI, and a barrier of reconciling institutional policy gaps with personal ethical values](qualitative-genai-challenges-policy-gap-barrier.md) — related
+- [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related
+- [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](structured-ai-integration-enhances-literacy-retention-critical-thinking.md) — reports the opposite
+- [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related

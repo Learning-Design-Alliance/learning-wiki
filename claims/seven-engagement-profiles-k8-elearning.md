@@ -50,3 +50,4 @@ Observational log analysis of anonymized activity data from 67,686 students in 2
 - [K-means clustering of factor scores identifies 10 distinct types of teacher feedback content, mostly scaffolding-oriented](ten-cluster-feedback-types.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
+- [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md) — related

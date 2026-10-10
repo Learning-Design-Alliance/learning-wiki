@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/immediate-ai-comparison-after-manual-estimation-pacing.md
+---
+
+# Revision history: [strategies/immediate-ai-comparison-after-manual-estimation-pacing](../strategies/immediate-ai-comparison-after-manual-estimation-pacing.md)
+
+### 2026-10-10 · ingest · process:wiki-ingest
+Ingested from arxiv-2606.09598 (Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction) via eval_harness.py + ingest_extractions.py

@@ -47,6 +47,7 @@ The report recommends that AI developers "embrace and center the expertise of te
 - [AI system developers should ensure human-centric design, institutional leaders should stay updated on global AI regulations, and LA experts should engage policymakers through dialogue](human-centric-ai-and-policymaker-dialogue-practices.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [AI researchers should partner with developers and disseminate findings accessibly to bridge research-practice silos](researcher-developer-partnerships-bridge-ai-silos.md)
+- [Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment](pedagogy-benchmark-guided-model-selection-strategy.md)
 
 ## Examples
 -

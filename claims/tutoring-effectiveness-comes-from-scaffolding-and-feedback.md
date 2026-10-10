@@ -92,3 +92,5 @@ A review of experiments comparing human tutoring, several classes of computer tu
 - [Standalone LLM tutors replicate Phase II's profile: strong single-interaction intelligence without systematic control over the learning trajectory](standalone-llm-tutors-lack-trajectory-control.md) — related
 - [AI's key contribution in STEM education is intelligent scaffolding that lowers the threshold for understanding knowledge, driving a shift from knowledge transmission to capability development](ai-intelligent-scaffolding-lowers-knowledge-threshold.md) — related
 - [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — related
+- [One-to-one human tutoring lifts an ordinary student well beyond the average classroom with an effect of about d = 0.79 (VanLehn, 2011, as reported)](human-tutoring-effect-d-079.md) — related
+- [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related

@@ -51,6 +51,7 @@ The report describes an algorithm that uses "a range of in- and out-of-school da
 
 - [Use linked school and child welfare data to flag students at academic risk in the coming quarter or semester](../strategies/linked-school-child-welfare-data-early-warning-strategy.md)
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](../strategies/early-warning-system-target-resources-near-term-risks.md)
+- [Deploy ML-based early-warning prediction to shift retention support from reactive to proactive intervention](../strategies/ml-early-warning-proactive-retention-support.md)
 
 ## Key Sources
 - Lindsay Cattell, Julie Bruch. (2021). Identifying Students At Risk Using Prior Performance Versus a Machine Learning Algorithm. Regional Educational Laboratory Mid-Atlantic, U.S. Department of Education, Institute of Education Sciences. https://ies.ed.gov/ncee/edlabs

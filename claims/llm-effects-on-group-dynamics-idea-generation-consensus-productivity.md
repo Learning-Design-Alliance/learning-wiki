@@ -44,3 +44,4 @@ Scope statement from the study's abstract: the investigation targeted "group dyn
 
 ## Related Claims
 - [Student perceptions of LLM influence on collaboration and creativity do not differ significantly by digital familiarity, AI comfort, or prior AI use](no-perception-differences-by-digital-familiarity-ai-comfort-prior-use.md) — related
+- [In a winter 2025/2026 student project, a student team incrementally built a ROS2 software ecosystem for automated disassembly of brick assemblies across seven sprints](student-team-built-ros2-disassembly-ecosystem-seven-sprints.md) — related

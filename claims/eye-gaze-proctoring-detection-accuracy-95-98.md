@@ -46,3 +46,6 @@ The review reports, citing Jagendra Singh et al., an eye-gaze classification sys
 - [Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation](head-pose-proctoring-accuracy-range.md) — related
 - [Substantial proportions of students self-report cheating and misconduct during exams, with higher rates in high schools than colleges](self-reported-cheating-rates-college-high-school.md) — related
 - [Facial recognition models for proctoring report accuracies up to 99.21%, with limitations in dim-light and blurring conditions](facial-recognition-proctoring-accuracy.md) — related
+- [Deep learning techniques such as CNNs and RNNs better detect cheating from visual cues than traditional techniques, but each carries stated trade-offs](dl-cnn-rnn-better-visual-cheating-detection.md) — related
+- [Time delay and head pose variations relative to the screen were significant predictors of cheating, yielding 75.6% average detection accuracy](head-pose-time-delay-cheating-predictors.md) — related
+- [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md) — a broader claim this one bears on

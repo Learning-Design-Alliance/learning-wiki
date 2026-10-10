@@ -102,3 +102,4 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related
+- [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Systematic literature review following PRISMA guidelines, searching multiple dat
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — related
 - [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
+- [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](structured-ai-integration-enhances-literacy-retention-critical-thinking.md) — a broader claim this one bears on

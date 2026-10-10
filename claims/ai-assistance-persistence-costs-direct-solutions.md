@@ -49,3 +49,4 @@ The paper reports, citing Liu et al.'s randomized experiments, that brief AI-ass
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](genai-usage-mode-predicts-independent-performance.md) — possibly the same claim (merge candidate)
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](learning-performance-paradox-ai.md) — a broader claim this one bears on
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
+- [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](guarded-ai-placement-prevents-unaided-exam-harm.md) — related

@@ -47,3 +47,4 @@ The review reports, citing Altmeyer and colleagues (2020), a study teaching volt
 - [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md) — related
 - [Real-time data collection made the momentum lab substantially more efficient, cutting lab duration from two hours to one](real-time-data-collection-increases-lab-efficiency.md) — related
 - [Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons](multimedia-introductory-message-better-immediate-tests.md) — related
+- [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related

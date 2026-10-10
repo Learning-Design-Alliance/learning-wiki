@@ -54,3 +54,4 @@ In the results for the first research aim, Student A reported losing her "fear o
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — related
 - [The authors claim that making teachers' own mistakes, struggles, and fears central to the curriculum lessens students' fear of making mistakes in a new endeavor](teacher-self-disclosure-normalizes-mistakes.md) — related
+- [Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging](llm-assistant-boosts-debugging-confidence.md) — a narrower finding that bears on this claim

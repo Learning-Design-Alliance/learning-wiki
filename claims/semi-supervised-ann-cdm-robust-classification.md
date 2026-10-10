@@ -45,3 +45,4 @@ The abstract reports experimental results from both a simulated study and a real
 ## Related Claims
 - [Prior ANN approaches to diagnostic classification produced unstable and unappreciated estimation unless great care was taken](prior-ann-cdm-unstable-estimation.md) — reports the opposite
 - [Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy](tdcm-qmatrix-misspecification-hurts-classification.md) — related
+- [The prerequisite-violating knowledge-state pattern is primarily attributable to Q-matrix misspecification, and the original hierarchy shows superior predictive efficiency](qmatrix-misspecification-explains-hierarchy-violations.md) — related

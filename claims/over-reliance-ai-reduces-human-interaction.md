@@ -47,3 +47,4 @@ The review warns of over-reliance on AI technologies, arguing dialogue, collabor
 - [Design thesis: AI in socio-emotional teacher development is acceptable and potentially valuable when it functions as relational infrastructure rather than a substitutive emotional agent, evaluated through relational densification](ai-relational-infrastructure-design-thesis.md) — related
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
 - [Human-human L2 dialogue has more and shorter turns while AI dialogue has fewer, longer turns with more words per turn](ai-dialogue-fewer-longer-turns-l2.md) — related
+- [Teachers' engagement growth was negotiated through balancing challenges and cognitive load, with some experiences of strain and isolation](ai-pd-cognitive-strain-isolation.md) — related

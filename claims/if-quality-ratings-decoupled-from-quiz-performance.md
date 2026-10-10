@@ -48,3 +48,4 @@ Exploratory correlation analysis in the pilot (N = 22) linking questionnaire sub
 - [AI-generated interactive-fiction learning scenarios are perceived as narratively clear and of appropriate length by STEM higher-education participants](ai-generated-if-narrative-clarity-length-accepted.md) — related
 - [The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts](artificial-in-fiction-quiz-motivation-dominant-criticism.md) — related
 - [Students associate poor slide quality with AI as the source: perceived quality correlates negatively with AI-source guesses](quality-rating-negative-ai-guess-correlation.md) — related
+- [Pedagogy and production dimensions associated most strongly with global quality (Spearman ρ = 0.68 and 0.66), while content was relatively independent (ρ = 0.46)](bespoke-pedagogy-production-correlate-with-global-quality.md) — related

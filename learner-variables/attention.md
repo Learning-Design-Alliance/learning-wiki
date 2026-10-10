@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 28 claims (24 for, 2 mixed, 2 against) · 34 studies (12 causal, 8 quant-synthesis, 5 review, 4 design, 3 qualitative, 2 theoretical), `q1`–`q4` · 8 of 34 report an effect size · 24 claims rest on one study
+> **Evidence** · 29 claims (25 for, 2 mixed, 2 against) · 35 studies (12 causal, 8 quant-synthesis, 6 review, 4 design, 3 qualitative, 2 theoretical), `q1`–`q4` · 9 of 35 report an effect size · 25 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -61,6 +61,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Segmented videos reduce hesitations for participants with ADHD by approximately 79% compared to non-segmented videos](../claims/segmentation-reduces-hesitations-adhd-participants.md) [+M] — instruction changes it
 - [Task difficulty increases hesitations, with significantly more hesitations on Medium and Hard tasks than Easy tasks](../claims/task-difficulty-increases-hesitations-scratch-videos.md) [+M] — instruction changes it
 - [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](../claims/aifred-context-switch-reduction-longer-time.md) [+M] — instruction changes it
+- [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](../claims/chatgpt-ar-lab-feedback-improves-outcomes.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

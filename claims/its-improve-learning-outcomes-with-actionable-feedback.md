@@ -48,3 +48,4 @@ The review attributes this to meta-analyses by VanLehn and by Kulik and Fletcher
 - [Intelligent tutoring systems are reported to improve learning outcomes, especially in structured knowledge domains](its-improve-outcomes-structured-domains.md) — a narrower finding that bears on this claim
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related
+- [One-to-one human tutoring lifts an ordinary student well beyond the average classroom with an effect of about d = 0.79 (VanLehn, 2011, as reported)](human-tutoring-effect-d-079.md) — related

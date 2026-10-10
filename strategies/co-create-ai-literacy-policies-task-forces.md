@@ -47,6 +47,8 @@ The brief recommends that districts address AI literacy gaps through comprehensi
 - [Coordinate cross-sector efforts to address AI literacy gaps, focusing on vulnerable workers lacking foundational digital literacy](coordinate-efforts-vulnerable-workers-ai-literacy.md)
 - [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
 - [Adopt AI incrementally in waves from simple to complex tasks, on free-tier tools, with mandatory multi-step human review before any document is issued](incremental-free-tier-ai-adoption-with-triple-review.md)
+- [Embed anticipatory governance in institutional strategy via Chief AI Officers, AI task forces, faculty AI-literacy development, and student co-design mechanisms](anticipatory-governance-implementation-recommendations.md)
+- [Build institutional AI literacy and transparent risk-communication governance for agentic AI browsers](institutional-ai-literacy-and-risk-communication-governance.md)
 
 ## Examples
 -

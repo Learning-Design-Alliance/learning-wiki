@@ -48,3 +48,4 @@ Post hoc Entropy analysis of students' logged choices in iSTART-2; Entropy score
 - [Real-time dynamic analyses (Hurst exponents, Entropy) are hypothesized to inform user models about optimal and non-optimal learning behaviors within a game-based ITS](real-time-dynamic-analyses-inform-user-models.md) — a broader claim this one bears on
 - [PIA groups follow a strategic generate-options-to-implement cycle with fewer random idea attempts, while TFA groups loop through repeated metacognitive interactions and unproductive idea testing](pia-strategic-cycle-tfa-random-ideas.md) — related
 - [Students in MATHia find it hard to adapt their strategy choices to suit the problem, based on log data from over 600 schools](mathia-students-hard-to-adapt-strategies.md) — related
+- [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related

@@ -73,3 +73,4 @@ Data preparation step: transcripts were segmented into topic-based files (approx
 - [Five common AI misconceptions debunked: AI does not think like humans, create original ideas, replace teachers, or guarantee accuracy, and well-designed AI use need not lower rigor](five-ai-misconceptions-for-educators.md) — related
 - [AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs](ai-redistributes-researcher-epistemic-agency.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
+- [Trustworthiness could not be reduced to a fully automated objective; human judgment remains necessary for resolving complex or context-dependent cases](trustworthiness-not-fully-automatable-requires-human-judgment.md) — related

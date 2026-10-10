@@ -45,3 +45,4 @@ Paired comparison of 78 learners' human-human vs. AI dialogues in a counterbalan
 ## Related Claims
 - [Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency](ai-turn-taking-latency-floor-pause.md) — related
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
+- [Teachers' engagement growth was negotiated through balancing challenges and cognitive load, with some experiences of strain and isolation](ai-pd-cognitive-strain-isolation.md) — related

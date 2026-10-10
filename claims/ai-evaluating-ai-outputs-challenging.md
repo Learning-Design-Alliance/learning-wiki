@@ -49,3 +49,4 @@ Technical findings across the cohort on using AI to evaluate AI outputs, reporte
 - [Underlying all AI risks in education is that generative AI behavior is difficult to explain, inspect, or predict due to its statistical mechanisms](generative-ai-behavior-hard-to-explain-inspect-predict.md) — related
 - [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — reports the opposite
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related
+- [Trustworthiness could not be reduced to a fully automated objective; human judgment remains necessary for resolving complex or context-dependent cases](trustworthiness-not-fully-automatable-requires-human-judgment.md) — related

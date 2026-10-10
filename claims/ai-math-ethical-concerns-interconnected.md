@@ -66,3 +66,4 @@ Review synthesis on the digital access gap [S21, G26]: without measures to broad
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — possibly the same claim (merge candidate)
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — a broader claim this one bears on
+- [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related

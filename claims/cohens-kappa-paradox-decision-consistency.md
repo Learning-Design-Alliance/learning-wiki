@@ -47,3 +47,4 @@ Illustrative hypothetical example of 100 examinees with 95% observed agreement a
 - [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](lou-interview-interrater-reliability-high.md) — related
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — related
 - [The review's evidence base comprises 42 peer-reviewed publications selected from 922 records with high inter-rater agreement (Cohen's kappa = 0.88)](ai-math-review-42-studies-evidence-base.md) — related
+- [The interview coding achieved high inter-rater reliability, with Cohen's Kappa of 0.82 between independent coders](chatgpt-study-coding-kappa-082.md) — related

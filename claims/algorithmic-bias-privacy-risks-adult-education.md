@@ -53,3 +53,4 @@ The review identifies algorithmic bias as central to AI-in-education debates, ci
 - [Data construction can embed social values and patterns of privilege into data itself, perpetuating testimonial injustice](data-construction-embeds-privilege-in-data.md) — related
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — possibly the same claim (merge candidate)
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
+- [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — a broader claim this one bears on

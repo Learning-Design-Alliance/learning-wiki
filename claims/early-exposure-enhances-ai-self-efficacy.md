@@ -52,3 +52,4 @@ The brief asserts in its learner section that "Evidence shows that learners can 
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Early exposure to career pathways in high school is reported to enhance students' self-efficacy and occupational awareness](early-career-pathway-exposure-enhances-self-efficacy.md) — related
 - [LLM assistance can enhance employees' creativity, especially for those with skills to reflect on AI use](llm-assistance-enhances-employee-creativity.md) — related
+- [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](structured-ai-integration-enhances-literacy-retention-critical-thinking.md) — related

@@ -54,3 +54,4 @@ This is one of the stronger-evidence sources in this ingestion round: a randomiz
 - [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — related
 - [Elementary students prefer and can evaluate mechanistic explanations using explanatory power and accuracy criteria](elementary-students-prefer-mechanistic-explanations.md) — related
 - [In the Oztoc museum game-exhibit, learning occurs when visitors explain to each other, and a combination of physical blocks and screen-based representation is needed for deeper scientific and engineering practices](oztoc-physical-blocks-plus-screen-representation-deeper-practices.md) — related
+- [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related

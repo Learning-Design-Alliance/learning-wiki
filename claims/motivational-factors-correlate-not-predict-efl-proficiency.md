@@ -68,3 +68,6 @@ The same multiple regression on motivational factors found no significant predic
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners](l2-motivation-predicts-self-efficacy.md) — related
 - [Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration](learning-format-perspectives-correlate-immigrant-integration.md) — related
+- [Reflective behavior and learning motivation each significantly predict oral proficiency improvement in ASR-assisted instruction](asr-reflection-motivation-predict-oral-gains.md) — related
+- [Language proficiency significantly moderates the effect of learning motivation on oral proficiency improvement](proficiency-moderates-motivation-oral-gains.md) — related
+- [Language proficiency significantly moderates the effect of reflective behavior on oral proficiency improvement, with the effect non-significant at low proficiency](proficiency-moderates-reflection-oral-gains.md) — related

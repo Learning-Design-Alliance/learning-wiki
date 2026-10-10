@@ -48,3 +48,4 @@ Across the 33-study corpus, population sizes ranged from n = 10 to n = 1,511 (me
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — related
 - [AI-based proctoring systems trained on western behavioural norms may exacerbate cultural and social challenges in non-English-speaking regions](ai-proctoring-western-norms-cultural-bias.md) — related
 - [Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity](collider-bias-sample-truncation-at-risk.md) — related
+- [Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback](student-trust-in-automated-feedback-null-apprehension.md) — related

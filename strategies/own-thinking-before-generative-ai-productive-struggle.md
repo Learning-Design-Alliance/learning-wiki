@@ -43,6 +43,7 @@ Under the Foster Metacognition practice, the framework recommends encouraging "l
 - [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](discourage-mental-offloading-balance-guidance-application.md)
 - [Use technology after learner effort to protect productive struggle](use-technology-after-effort.md)
 - [Build in Thinking Time](build_in_thinking_time.md)
+- [Use an access-timing gate as the only safe AI presence during protected struggle](access-timing-gate-for-protected-struggle.md)
 
 ## Examples
 -

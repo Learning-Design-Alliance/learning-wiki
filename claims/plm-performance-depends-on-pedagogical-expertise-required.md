@@ -69,3 +69,4 @@ Test-set results on 9,886 NCTE classroom segments rated on MQI variables, using 
 - [AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable](ai-not-best-practice-competency-based-assessment.md) — related
 - [Attachment to LLMs exhibits cruel optimism: desired efficiency collides with the vigilance and expertise students do not yet possess](cruel-optimism-of-llms-in-education.md) — related
 - [Raters scored significantly higher than AI on Emotional Support and significantly lower than AI on Instructional Support, with no difference for Classroom Organization](raters-ai-mean-differences-class-domains.md) — related
+- [AI-teacher diagnostic agreement was higher in the Diagnostic Review class and varied by issue type, with local language issues best diagnosed](ai-teacher-agreement-issue-type-variation.md) — related

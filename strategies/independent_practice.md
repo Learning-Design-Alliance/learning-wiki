@@ -58,8 +58,10 @@ Independent practice consolidates what guided instruction established, but its e
 5. Monitor performance data and re-insert guided instruction where accuracy drops below criterion.
 
 ## Related Strategies
+
 - [Use Worked Examples](../strategies/use_worked_examples.md) — the guided precursor; fading from worked examples to independent problems is the standard transition into independent practice
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the demonstration phase that should precede independent work
+- [Fade structured teaching sessions into independent project work over the semester](fade-schools-into-independent-project-work.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the core element; independent practice is its least-scaffolded form

@@ -45,3 +45,4 @@ The presentation contrasts EdTech AI messaging, which it says "over-emphasizes i
 ## Related Claims
 - [Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners](khanmigo-meaning-focus-partially-supported.md) — related
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
+- [Teachers' engagement growth was negotiated through balancing challenges and cognitive load, with some experiences of strain and isolation](ai-pd-cognitive-strain-isolation.md) — related

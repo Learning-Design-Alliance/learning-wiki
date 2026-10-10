@@ -45,6 +45,7 @@ The article recommends that higher education leadership move beyond widely embra
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Plan frequent policy updates and adapt instructional methods for AI integration](frequent-policy-updates-and-instructional-adaptation-genai.md)
 - [Address responsible design, learner experience, equity, validity, and relational assessment practice when implementing AI-agent-supported assessment](responsible-design-considerations-ai-assessment.md)
+- [Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating](four-level-ethical-ai-integration-strategy.md)
 
 ## Examples
 -

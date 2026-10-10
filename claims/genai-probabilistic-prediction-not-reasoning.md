@@ -46,3 +46,4 @@ This is an explanatory assertion in the practitioner brief, offered without empi
 - [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](human-guidance-ethical-grounding-ai.md) — related
 - [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](genai-speeds-tasks-not-learning.md) — related
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related
+- [Students report code understanding, debugging, and AI-limitation awareness as primary learning benefits of buggy GenAI programming tasks](student-reflections-buggy-genai-learning-benefits.md) — related

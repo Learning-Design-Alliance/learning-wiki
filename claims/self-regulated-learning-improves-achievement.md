@@ -219,3 +219,5 @@ Open questions that evidence entries should address include: which strategy fami
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related
 - [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — related
 - [The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains](shared-learning-structure-performance-domains.md) — related
+- [AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance](ai-srl-end-outcomes-academic-performance-most-frequent.md) — related
+- [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — a narrower finding that bears on this claim

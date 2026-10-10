@@ -50,3 +50,4 @@ Risk finding from the systematic review's thematic analysis of 50 empirical stud
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
 - [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context](structured-ai-integration-enhances-literacy-retention-critical-thinking.md) — reports the opposite

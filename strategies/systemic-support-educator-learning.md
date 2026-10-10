@@ -42,6 +42,7 @@ The report recommends that professional learning be part of a sustained approach
 - [Design educator preparation around pedagogical alignment, tightly linked clinical experiences, and a developmental approach to educator learning](preparation-program-design-three-strategies.md)
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
+- [Concentrate professional development support at the point of intention–behaviour translation through clinically embedded coaching](coaching-at-intention-behaviour-translation.md)
 
 ## Examples
 -

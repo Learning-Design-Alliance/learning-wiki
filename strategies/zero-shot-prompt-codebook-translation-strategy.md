@@ -41,6 +41,7 @@ The article describes a pipeline in which human codebook rubrics are converted i
 ## Related Strategies
 
 - [Instruction-guided LLM annotation with human-in-the-loop prompt refinement for large-scale interaction labeling](instruction-guided-llm-annotation-interaction-labels.md)
+- [Use AI chatbots as one-shot generators of candidate cooperative learning techniques, then select via a researcher-built rubric](ai-chatbot-technique-generation-rubric-selection.md)
 
 ## Examples
 -

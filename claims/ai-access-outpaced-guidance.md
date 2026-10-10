@@ -60,3 +60,5 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [Most higher education institutions report faculty use of generative AI in teaching, but fewer than 15% have formal ethical guidelines](genai-use-high-ethical-guidelines-rare.md) — related
 - [Successful AI integration in Arab EL2 classrooms consistently depends on teacher mediation, institutional support, and responsible-use practices](teacher-mediation-institutional-support-ai-integration.md) — related
 - [Uniform AI integration across a classroom is likely to widen the gap between better- and less-prepared students](uniform-ai-integration-widens-gaps.md) — related
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — a broader claim this one bears on
+- [Ethical risk management of AI in education proceeds bottom-up through individual faculty guidance and student self-strategies because institutional support is lacking](bottom-up-ethical-risk-management-ai-individual-effort.md) — related

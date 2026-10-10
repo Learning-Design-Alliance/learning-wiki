@@ -50,3 +50,4 @@ Qualitative policy analysis of GenAI policies from thirty highly ranked universi
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on
 - [Few AIED 2025 papers report computational costs or discuss environmental impacts, and reporting is non-standardized](aied-2025-lack-cost-sustainability-reporting.md) — related
 - [Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness](strong-technical-awareness-limited-ethical-governance-readiness.md) — related
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related

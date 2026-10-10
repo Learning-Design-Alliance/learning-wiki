@@ -47,3 +47,4 @@ Treatment-characteristic moderators from the random-effects meta-regression (Tab
 - [Effects of dropout programs on dropout odds are heterogeneous across studies](dropout-program-effects-heterogeneous.md) — related
 - [All program types show positive effects when controlling for other influences, with attendance monitoring and incentives, child care, community service, and school restructuring producing the best results](dropout-program-type-effectiveness.md) — related
 - [The review identifies a trend linking AI intervention duration to effect size: longer interventions spanning weeks or months yield larger effect sizes than shorter ones](ai-intervention-duration-effect-size-trend.md) — related
+- [In the SISTC Logistic Regression model, student-visa holders and longer study duration were linked to retention, while Pakistani nationality and subjects failed were linked to dropout risk](visa-nationality-failed-subjects-dropout-features.md) — related

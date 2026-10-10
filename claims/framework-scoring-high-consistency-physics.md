@@ -50,3 +50,5 @@ Three trained content specialists scored anonymized physics exam questions from 
 - [Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60](style-scale-correlations-and-observer-agreement.md) — related
 - [The GED essay is scored holistically on a six-point scale by two independent readers](ged-essay-holistic-six-point-two-readers.md) — related
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
+- [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
+- [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related

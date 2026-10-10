@@ -23,7 +23,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 14 claims (8 for, 4 mixed, 2 against) · 22 studies (9 causal, 5 quant-synthesis, 5 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 22 report an effect size · 8 claims rest on one study
+> **Evidence** · 15 claims (8 for, 5 mixed, 2 against) · 23 studies (9 causal, 6 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 5 of 23 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -86,6 +86,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable](../claims/gain-time-constant-product-superior-forcing-function-amplitude.md) [+W]
 - [Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control](../claims/manual-adaptation-slightly-superior-automatic-adaptive-training.md) [+W]
 - [System compensation as implemented is not a satisfactory adaptive variable](../claims/system-compensation-unsatisfactory-adaptive-variable.md) [+W]
+- [RL policies risk three failure modes when reward signals are poorly specified: reward hacking, engagement optimization over learning, and scaffolding dependency](../claims/rl-reward-misalignment-failure-modes.md) [~W] — attached 2026-10-10 from Tripathi et al. (2026), which proposed "Adaptive system optimization targets must be aligned with learning, not just performance".
 
 ## Objective and learner-valued goal
 

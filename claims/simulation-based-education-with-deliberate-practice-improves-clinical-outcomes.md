@@ -69,3 +69,4 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — a narrower finding that bears on this claim
 - [The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains](shared-learning-structure-performance-domains.md) — related
+- [Simulated student reasoning shifted teachers from task-solvers to teacher-reasoners who interpreted misconceptions as student logic](simulated-student-reasoning-pck-rehearsal.md) — related

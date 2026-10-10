@@ -46,3 +46,4 @@ Qualitative observation from the authors' pilot experiments during fine-tuning, 
 - [A LoRA-adapted open-weight Gemma-3-27B model fine-tuned on 120 essays outperforms a fine-tuned GPT-3.5 baseline on TOEFL essay scoring across all reported metrics](gemma-27b-lora-beats-gpt35-essay-scoring.md) — related
 - [LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth](llama-prediction-range-compression.md) — related
 - [Under identical LoRA hyperparameters and training data, the 27B Gemma model outperforms the 70B LLaMA model on every computed essay-scoring metric](model-scale-not-predictor-lora-scoring.md) — related
+- [Three LLMs fine-tuned on teacher-validated feedback reach reported training losses with qualitative teacher validation](aicofe-llm-finetuning-training-results.md) — related

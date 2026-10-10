@@ -52,3 +52,4 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline](mmla-transparency-misconceptions-guesswork.md) — related
 - [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
+- [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](ai-feedback-trustworthiness-goodwill-concerns.md) — related

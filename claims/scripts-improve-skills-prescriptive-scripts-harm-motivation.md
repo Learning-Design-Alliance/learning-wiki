@@ -49,3 +49,4 @@ The primer warns, citing Deci and Ryan (1985) and Radkowitsch et al. (2020), tha
 - [Collaborative argumentation benefits students' motivation, content learning, domain argumentation, transferable argumentation skills, and knowledge-building practices](collaborative-argumentation-benefits-summary.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — a broader claim this one bears on
+- [The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity](adaptive-learning-dominance-limits-student-agency.md) — related

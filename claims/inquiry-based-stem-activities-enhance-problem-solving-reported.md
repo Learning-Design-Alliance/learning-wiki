@@ -44,3 +44,4 @@ The review reports this result, citing Karamustafaoğlu and Pektaş (2023); the 
 
 ## Related Claims
 - [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](amsti-inquiry-science-higher-reading-achievement.md) — related
+- [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](simulations-adaptive-feedback-support-engagement.md) — related

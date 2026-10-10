@@ -13,7 +13,7 @@ generated:
 # Adaptive Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 8 studies (3 review, 2 causal, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (3 causal, 3 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.
@@ -55,7 +55,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Shortest remediation paths respecting attribute prerequisites are shorter than random and full-coverage baseline paths](../claims/remediation-path-efficiency-baselines.md) [+W] — attached 2026-10-10 from Feng Z et al. (2026), which proposed "Shortest remediation path algorithm converting diagnosed knowledge states into prerequisite-respecting learning sequences".
 
 ## Related Elements
 - [Mastery Learning](mastery-learning.md) — the underlying model; adaptive systems automate its pacing and remediation decisions

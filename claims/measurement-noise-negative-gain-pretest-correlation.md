@@ -50,3 +50,4 @@ Analytical first-order approximation (Section III) combining random pre- and pos
 - [Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score](normalized-gain-pretest-uncorrelated-alpha-process.md) — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — related
+- [Average homework H-scores correlate negatively with proctored exam performance, with the correlation strengthening from Spring 2024 to Spring 2026](h-score-negative-exam-correlation-strengthening.md) — related

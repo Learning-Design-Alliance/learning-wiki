@@ -45,3 +45,4 @@ The article attributes this finding to previous research studies, cited as backg
 ## Related Claims
 - [Prior ANN approaches to diagnostic classification produced unstable and unappreciated estimation unless great care was taken](prior-ann-cdm-unstable-estimation.md) — related
 - [A semi-supervised ANN method combining DINA and DINO achieves appreciated classification performance across test conditions, especially when diagnostic quality is not high or the Q-matrix contains misspecified elements](semi-supervised-ann-cdm-robust-classification.md) — related
+- [The prerequisite-violating knowledge-state pattern is primarily attributable to Q-matrix misspecification, and the original hierarchy shows superior predictive efficiency](qmatrix-misspecification-explains-hierarchy-violations.md) — a narrower finding that bears on this claim

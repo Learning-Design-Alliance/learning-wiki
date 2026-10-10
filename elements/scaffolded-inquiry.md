@@ -75,6 +75,7 @@ Scaffolded inquiry resolves the central tension of inquiry learning: open explor
 **[Problem-Based Learning](../patterns/problem-based-learning.md) (e.g., [Maastricht University](https://www.maastrichtuniversity.nl))** — Groups investigate authentic problems with a tutor who coaches rather than lectures, with tutorial support fading across program years.
 
 **BSCS Science: An Inquiry Approach** — Published high school curriculum that sequences investigations from teacher-structured labs toward student-designed experiments across a multi-year arc.
+- [Fade structured teaching sessions into independent project work over the semester](../strategies/fade-schools-into-independent-project-work.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E., Duncan, R. G., & Chinn, C. A. (2007). Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006). *Educational Psychologist, 42*(2), 99–107. [doi:10.1080/00461520701263368](https://doi.org/10.1080/00461520701263368)

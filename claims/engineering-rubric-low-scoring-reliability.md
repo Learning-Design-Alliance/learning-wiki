@@ -52,3 +52,6 @@ The one entry is a single class at Maui Community College: six scorers, six team
 - [The GED essay is scored holistically on a six-point scale by two independent readers](ged-essay-holistic-six-point-two-readers.md) — related
 - [Reviewer scores of grant proposals show low overall reliability across six large studies, though reviewers become more consistent with experience](low-reliability-grant-reviewer-scores.md) — related
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
+- [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
+- [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related

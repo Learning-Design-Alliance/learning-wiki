@@ -47,3 +47,4 @@ Reflexive thematic analysis (Braun & Clarke) of open-response reflections collec
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](koku-qualitative-acceptability-themes.md) — related
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
 - [Compatibility and relative advantage strongly enhance perceived innovation attributes of AI technologies](compatibility-relative-advantage-enhance-innovation-attributes.md) — related
+- [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related

@@ -43,3 +43,4 @@ The review reports, citing Flodén (2025), that AI-based grading systems showed 
 ## Related Claims
 - [ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality](chatgpt-zero-shot-relevance-extraction-unreliable.md) — related
 - [Unrestricted ChatGPT access yields better practice performance but significantly worse exam scores](unrestricted-chatgpt-worse-exam-scores.md) — related
+- [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](hint-prompts-raise-llm-scoring-agreement.md) — related

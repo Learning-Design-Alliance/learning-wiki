@@ -46,6 +46,7 @@ The dissertation's third manuscript provides a guide for preservice teacher facu
 - [Provide sustained, powerful professional development with professional learning communities for QTEL implementation](sustained-powerful-pd-for-qtel.md)
 - [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
 - [Use the integrated technical–pedagogical limitation framework to inform teacher education, instructional design, and institutional AI policies in undergraduate EFL programs](framework-informs-teacher-education-instructional-design-ai-efl-policies.md)
+- [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 
 ## Examples
 -

@@ -47,3 +47,5 @@ Survey data reported in the learner-gaps section: non-using youth cited "concern
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
+- [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](ai-feedback-trustworthiness-goodwill-concerns.md) — related
+- [An AI browser's refusal on academic integrity grounds was bypassed with a single unverified claim of instructor status](comet-integrity-refusal-bypassed.md) — related

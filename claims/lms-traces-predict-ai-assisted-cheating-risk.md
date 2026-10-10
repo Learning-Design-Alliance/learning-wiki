@@ -50,3 +50,4 @@ LOOCV evaluation (52 folds, fold-specific preprocessing and Mann-Whitney U featu
 - [A 20% suspicious-question labeling threshold partitions 52 students into 23 high-risk (44.2%) and 29 low-risk, robustly across nearby cut-offs](bimodal-suspicious-behavior-labeling-44-percent-high-risk.md) — related
 - [Predictive models trained on one semester's offering of a course identified at-risk students in the subsequent semester with high prediction accuracy](cross-semester-at-risk-prediction-high-accuracy.md) — related
 - [Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining](cross-semester-auc-decline-without-retraining.md) — related
+- [Logistic Regression and linear-kernel SVM achieve the highest accuracy (99%) among five classifiers predicting student withdrawal/cancellation at SISTC](lr-linear-svm-highest-accuracy-dropout-prediction.md) — related

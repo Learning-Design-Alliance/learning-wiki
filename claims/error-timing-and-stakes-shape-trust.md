@@ -64,3 +64,4 @@ The review attributes this stakes-moderation finding to Freele et al. (2025): hi
 ## Related Claims
 - [Explainability's effect on trust in AI-enabled systems is mixed: it can increase trust and reliance but also raises cognitive load, slows performance, and sometimes does not improve trust](explainability-mixed-effect-on-trust.md) — related
 - [Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied](nine-design-factors-trust-ai-systems.md) — related
+- [Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy](trust-not-equivalent-to-ai-accuracy.md) — related

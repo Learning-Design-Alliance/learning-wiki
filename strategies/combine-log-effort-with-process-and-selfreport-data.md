@@ -39,6 +39,7 @@ The article's future-directions section recommends extending its observed practi
 ## Related Strategies
 
 - [Monitoring Progress](monitoring_progress.md)
+- [Design TTXs with assessment in mind so that log data capture the learning process](design-ttx-with-assessment-in-mind.md)
 
 ## Examples
 -

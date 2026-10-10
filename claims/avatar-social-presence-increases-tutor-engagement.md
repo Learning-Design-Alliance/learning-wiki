@@ -64,3 +64,4 @@ The paper cites Basori et al. (2011) for the claim that realistic avatars commun
 ## Related Claims
 - [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
+- [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related

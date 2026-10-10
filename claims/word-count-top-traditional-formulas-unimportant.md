@@ -70,3 +70,4 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 - [Rewriting MATHia word problems for struggling readers, by human experts or LLMs, sped completion by 30% and improved mastery rate](rewritten-word-problems-faster-completion-mastery.md) — related
 - [Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021](nlp-la-algorithm-adoption-random-forest-to-deep-learning.md) — related
 - [The three fine-tuned LLMs differ significantly in response length, readability, and similarity to posts](llm-response-length-readability-differences.md) — related
+- [Model accuracy on Bloom classification drops with question text length, with LLMs degrading least](bloom-signal-dilution-with-text-length.md) — related

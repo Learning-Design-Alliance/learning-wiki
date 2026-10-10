@@ -12,7 +12,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (43 for, 13 mixed, 5 against) · 50 studies (12 associational, 10 review, 9 quant-synthesis, 8 causal, 6 theoretical, 3 qualitative, 2 design), `q1`–`q4` · 11 of 50 report an effect size · 54 claims rest on one study
+> **Evidence** · 63 claims (45 for, 13 mixed, 5 against) · 52 studies (12 associational, 11 review, 9 quant-synthesis, 8 causal, 6 theoretical, 4 qualitative, 2 design), `q1`–`q4` · 11 of 52 report an effect size · 56 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -94,6 +94,8 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](../claims/performance-metacognition-dilemma-genai.md) [~W] — instruction changes it
 - [Self-regulated learning moderates the cognitive load–critical thinking relationship, buffering the negative effect of load](../claims/srl-moderates-cognitive-load-critical-thinking.md) [+M] — an instructional effect differs with it
 - [Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load](../claims/srl-moderates-indirect-ai-effect.md) [+M] — an instructional effect differs with it
+- [AI's direct impact on SRL concentrates on metacognitive and cognitive aspects while motivation remains underexplored](../claims/ai-srl-impact-metacognitive-cognitive-motivation-underexplored.md) [+M] — instruction changes it
+- [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](../claims/chatgpt-autonomy-self-directed-learning.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 - Motivation — starts the effort that self-regulation then has to sustain.

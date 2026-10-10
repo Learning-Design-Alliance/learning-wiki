@@ -50,3 +50,4 @@ The report cites the IES evaluation of Alabama's Math, Science, and Technology I
 - [AMSTI raises math problem solving scores significantly at the student level but not at the school level, with an average effect size of +0.05](amsti-math-problem-solving-student-level-effect.md) — related
 - [AMSTI science teachers reported statistically significantly higher levels of student engagement than control group science teachers](amsti-teachers-higher-student-engagement.md) — related
 - [The review reports, citing Karamustafaoğlu and Pektaş (2023), that inquiry-based STEM activities significantly enhance students' problem-solving skills and STEM awareness](inquiry-based-stem-activities-enhance-problem-solving-reported.md) — related
+- [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](simulations-adaptive-feedback-support-engagement.md) — related

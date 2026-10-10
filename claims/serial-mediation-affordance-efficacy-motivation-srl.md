@@ -54,3 +54,4 @@ Bootstrapping mediation analysis (10,000 subsamples, bias-corrected 95% CIs) in 
 - [AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning](feedback-quality-satisfaction-not-srl.md) — related
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
+- [Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators](cognitive-load-mediation-pathway.md) — a narrower finding that bears on this claim

@@ -45,3 +45,5 @@ The review reports, citing Elharrouss et al., an MTCNN-based face recognition mo
 ## Related Claims
 - [Eye-gaze-tracking-based proctoring systems report cheating-detection accuracies around 95–98% in their original studies](eye-gaze-proctoring-detection-accuracy-95-98.md) — related
 - [Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation](head-pose-proctoring-accuracy-range.md) — related
+- [Deep learning techniques such as CNNs and RNNs better detect cheating from visual cues than traditional techniques, but each carries stated trade-offs](dl-cnn-rnn-better-visual-cheating-detection.md) — related
+- [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md) — a broader claim this one bears on
