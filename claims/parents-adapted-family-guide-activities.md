@@ -47,3 +47,4 @@ From the family home-testing summary: the overview reports that "Parents used th
 - [Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest](splash-bubbles-app-section-variability-by-child-age-interest.md) — related
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](parent-to-parent-forums-community-support.md) — related
 - [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — related
+- [Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content](educator-adaptations-greater-access-virtual-content.md) — related

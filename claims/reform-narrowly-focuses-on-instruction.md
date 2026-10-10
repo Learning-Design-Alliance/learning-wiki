@@ -45,3 +45,4 @@ The overview states this critique of typical reform approaches as the problem th
 ## Related Claims
 - [Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access](disability-inclusion-starts-from-exclusion.md) — related
 - [Contextual conditions beyond district control shape how a college readiness indicator system can be implemented](outer-context-shapes-cris-implementation.md) — a narrower finding that bears on this claim
+- [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — related

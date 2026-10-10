@@ -48,6 +48,7 @@ The project's professional development program embeds known best practices from 
 - [Weeklong initial teacher training with biweekly follow-up meetings for delivering the fraction intervention](fraction-face-off-teacher-training-model.md)
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
 - [Use summer programs as learning labs for teachers to practice new instructional strategies](summer-programs-as-teacher-learning-labs.md)
+- [Shift the locus of professional learning to school sites and classrooms, connected to teachers' everyday practice](site-based-pd-connected-to-everyday-practice.md)
 
 ## Examples
 -

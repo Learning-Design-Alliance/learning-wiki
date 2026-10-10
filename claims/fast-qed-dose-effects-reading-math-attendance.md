@@ -49,3 +49,4 @@ Quasi-experimental study matching 85 students who attended FAST three or more ti
 - [Small isolated effects on family conflict (negative) and parent-teacher joining (positive) appeared but were not enduring and may be spurious](fast-isolated-small-effects-possibly-spurious.md) — related
 - [Lessons in Character has potentially positive effects on academic achievement, with statistically significant effects on mathematics grades and attendance in one randomized controlled trial](lessons-in-character-potentially-positive-academic-achievement.md) — related
 - [Saga blended tutoring had a small negative impact on school attendance](saga-tutoring-small-negative-attendance-impact.md) — related
+- [Attendance at Gehring STEM Academy had statistically significant positive impacts on mathematics and reading achievement in grades 1-5 after up to 1.5 years, with no significant science impacts](gehring-magnet-qed-math-reading-impacts.md) — related

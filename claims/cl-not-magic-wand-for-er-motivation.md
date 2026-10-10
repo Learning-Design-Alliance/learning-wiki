@@ -45,3 +45,4 @@ This is the author's own interpretive caution in the conclusion, responding to a
 ## Related Claims
 - [The article advances a five-part rationale for benefits of adding a peer element to extensive reading](five-rationales-peer-element-er.md) — related
 - [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](er-peer-interaction-greater-achievement-gains.md) — related
+- [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](magic-bullet-risk-selection-without-needs-assessment.md) — related

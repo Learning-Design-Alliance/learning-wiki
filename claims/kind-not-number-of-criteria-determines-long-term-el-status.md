@@ -50,3 +50,4 @@ Supplemental descriptive analysis (Figure A5) grouping states by the number of t
 - [Policy adherence is high across states (96-98 percent of eligible students reclassified) but is relatively lower in the state mandating end-of-grade assessment proficiency](policy-adherence-high-but-lower-in-mandated-assessment-state.md) — related
 - [No systematic patterns in EL racial/ethnic and age composition across reclassification policy structures](no-demographic-patterns-across-reclassification-structures.md) — related
 - [Information about English-language development is critical for accurately predicting the grade an EL will reclassify](english-development-information-critical-reclassification-prediction.md) — related
+- [Most states use multiple criteria to reclassify English learners, with locally established criteria producing non-uniform within-state definitions](multiple-criteria-el-reclassification-variation.md) — related

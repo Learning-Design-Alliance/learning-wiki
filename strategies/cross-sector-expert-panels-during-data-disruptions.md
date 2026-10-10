@@ -41,6 +41,7 @@ The article describes a webinar that “brings together academic and government 
 ## Related Strategies
 
 - [Convene educators, policymakers, and families to plan for the impacts of extended pauses in classroom instruction](convene-stakeholders-plan-closure-impacts.md)
+- [Future SSSC evaluation work: collect data from directors, gather detailed activity data, and interview policymakers and practitioners to develop impact measures](sssc-future-evaluation-data-collection-strategy.md)
 
 ## Examples
 -

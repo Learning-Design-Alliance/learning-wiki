@@ -57,9 +57,11 @@ The sequence embodies [Scaffolding](../principles/scaffolding.md) and [Fading](.
 4. **Fade and cycle:** On subsequent lessons, shorten or skip the "I do" phase as fluency grows ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Worked Example → Completion → Problem Fading](../strategies/worked-example-fading.md) — a problem-solving-specific version of the same release sequence
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the core technique of the "I do" phase
 - [Direct Instruction](../strategies/direct-instruction.md) — the broader lesson design within which this sequence typically sits
+- [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 
 ## Patterns That Use This Strategy
 - [Direct Instruction](../patterns/direct-instruction.md) — the modeled–guided–independent practice arc is its central structure

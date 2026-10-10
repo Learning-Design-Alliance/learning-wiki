@@ -20,6 +20,7 @@ A Region 15 Comprehensive Center initiative that convenes state education agency
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **The Systems Review approach: a three-phase, five-element iterative process for SEA systems change**: The Systems Review is an iterative organizational-improvement approach created by R15CC that "incorporates principles of organization development, improvement science, systems and design thinking, and overall continuous improvement." It unfolds in three phases—discovery, change effort development, and implementation—stretched across a repeating cycle of five elements: identify the issue; analyze the current system; identify and prioritize change efforts; implement key change efforts; and assess and deliberate on effectiveness. Feedback and reflection points are embedded throughout, and each step is guided by data from the previous step. (Mattson et al. (2023))
 
 ### Claims
 
@@ -28,3 +29,4 @@ A Region 15 Comprehensive Center initiative that convenes state education agency
 
 ## Key Sources
 - Region 15 Comprehensive Center. (2022). Advancing Family and Community Engagement: A Regional Collaborative. https://region15cc.org
+- Mattson, H., Zoffel, J., & McCormick, M. (2023). Systems Reviews: An Approach to Building Coherence, Increasing Efficiency, and Improving Workflow at State Education Agencies. WestEd. https://www.wested.org/

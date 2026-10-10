@@ -63,6 +63,7 @@ The strongest finding in the management literature is that prevention outperform
 - [Clear Structure](../principles/clear-structure.md) — well-structured lessons prevent most disruption before it starts
 - [Check-In](../elements/check-in.md) — routine relationship maintenance that surfaces problems early
 - [Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan](posted-observable-rules-and-consistent-discipline-implementation.md)
+- [Use RJ strategies such as proactive circles to manage classrooms and establish norms beyond discipline](proactive-circles-classroom-management-norms.md)
 
 ## Examples
 - **Positive Behavioral Interventions and Supports (PBIS)** ([https://www.pbis.org](https://www.pbis.org)) — school-wide framework teaching expectations explicitly and tiering support; associated with reductions in office discipline referrals [+M]

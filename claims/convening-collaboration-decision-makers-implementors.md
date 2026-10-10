@@ -43,3 +43,4 @@ Survey of Melbourne convening participants across all participating districts. T
 ## Related Claims
 - [District leaders reported the working group created a valued cross-district network, with 96 percent forming new connections to colleagues](sel-working-group-cross-district-connections.md) — related
 - [Most working-group district leaders reported planning or already implementing concrete SEL changes within two months of the Melbourne convening](sel-working-group-districts-implement-changes.md) — related
+- [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related

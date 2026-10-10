@@ -48,3 +48,4 @@ Quasi-experimental national study comparing 2,855 treatment students with a matc
 - [Achievement-quartile analysis shows the intervention was most effective for students in the 2nd quartile (25th–50th percentiles) of baseline achievement](assistments-quartile-q2-most-effective.md) — related
 - [The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas](treatment-sample-rural-middle-schools-assistments.md) — related
 - [A virtual comparison group matched on pretest, locale, FRL, and test dates achieved baseline equivalence with the treatment group (effect size = -0.03)](vcg-baseline-equivalence-assistments-vplc-study.md) — related
+- [Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score](assistments-baseline-equivalence-proficiency-gap.md) — related

@@ -64,3 +64,4 @@ Comparison of teacher demographic and credential characteristics (degrees, CPS e
 ## Related Claims
 - [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](turnaround-is-a-process-not-an-event.md) — related
 - [Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students](turnaround-student-composition-stable-except-restart.md) — related
+- [Amargosa Valley School had eight weeks to fill 8 of its 14 certified positions after more than half its teachers left before SIG implementation](amargosa-eight-weeks-fill-eight-of-fourteen-positions.md) — related

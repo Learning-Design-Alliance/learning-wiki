@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 21 claims (19 for, 1 mixed, 1 against) · 29 studies (10 causal, 8 quant-synthesis, 4 review, 3 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 17 claims rest on one study
+> **Evidence** · 22 claims (20 for, 1 mixed, 1 against) · 30 studies (10 causal, 8 quant-synthesis, 4 review, 4 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 18 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -54,6 +54,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](../claims/material-artifact-stability-stabilizes-thinking.md) [+M] — instruction changes it
 - [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](../claims/unfamiliar-contexts-distract-from-mathematics.md) [+W] — instruction changes it
 - [Unpressured within-task planning improves accuracy only when attention is guided to form](../claims/unpressured-within-task-planning-form-focused-accuracy.md) [~W] — an instructional effect differs with it
+- [Decorative photographs unrelated to the mathematics of a problem distract students, and replacing them with problem-relevant sketches strengthens visual-verbal connection](../claims/decorative-images-distract-from-math-problems.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 - Working memory — the adjacent bottleneck, and the one this is most often confused with.

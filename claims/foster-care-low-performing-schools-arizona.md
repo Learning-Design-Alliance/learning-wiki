@@ -49,3 +49,4 @@ Observational analysis of school enrollment by A–F Letter Grade Accountability
 - [Arizona students in foster care attended nontraditional schools at several times the rate of other students, especially in high school](foster-care-nontraditional-school-enrollment.md) — related
 - [Arizona students in foster care had the lowest statewide testing participation rate, declining sharply in later grades](foster-care-lowest-test-participation.md) — related
 - [Students in foster care were consistently more likely than other high-need groups to attend a low-performing school](foster-care-low-performing-school-attendance.md) — related
+- [Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate](foster-care-participation-dropout-graduation.md) — related

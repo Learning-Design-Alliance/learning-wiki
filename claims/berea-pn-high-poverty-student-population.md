@@ -46,3 +46,4 @@ Descriptive statistic reported in the site profile for the three served counties
 - [The Berea College Promise Neighborhood serves counties with per capita income significantly lower than state and national averages](berea-pn-economically-distressed-counties.md) — related
 - [The initiative aims to reach all 6,300 students residing in the three served counties](berea-pn-aims-to-reach-all-6300-students.md) — related
 - [All middle and high schools in the Berea College Promise Neighborhood are persistently low-achieving](berea-pn-schools-persistently-low-achieving.md) — related
+- [Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer](disproportionate-discipline-and-sro-placement.md) — related

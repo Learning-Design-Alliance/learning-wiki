@@ -67,3 +67,4 @@ One-way ANOVA on writing accuracy pre-test scores (Table 5), scored as error-fre
 - [Interactionist Dynamic Assessment produces significantly higher IELTS writing accuracy than interventionist Dynamic Assessment](interactionist-da-higher-ielts-writing-accuracy.md) — related
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
+- [Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample.](hero-elementary-baseline-equivalence-no-statistical-differences.md) — related

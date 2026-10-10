@@ -41,6 +41,7 @@ Drawing on Demopolis High School's experience, the report recommends that distri
 
 - [Small school reformers should intentionally build professional community, principal leadership, and teacher influence rather than relying on size reduction](intentionally-build-organizational-conditions-small-schools.md)
 - [Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results](rapid-cycle-edtech-pilot-best-practices.md)
+- [Know every student well through many adults, multi-year teacher loops, and flexible small-group instruction](know-every-student-well-flexible-grouping.md)
 
 ## Examples
 -

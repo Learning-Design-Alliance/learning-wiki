@@ -41,6 +41,10 @@ R15CC designed and facilitated a highly collaborative six-session workgroup in w
 - [Pilot guidance documents with a small set of schools and iterate before wide dissemination](pilot-then-refine-guidance-dissemination.md)
 - [Cross-division convenings and joint review sessions to strengthen a state education agency's internal collaboration on multilingual policy](cross-division-collaboration-cde-multilingual-support.md)
 - [Provide synthesized and customized evidence tailored to the state context](customized-evidence-synthesis-for-decision-making.md)
+- [Implementation-phase supports: staff engagement, communication and action plans, thought partnership, and self-assessment rubrics](implementation-phase-supports.md)
+- [Represent small and rural districts in statewide materials review through regional professional development program coordinators](rpdp-regional-coordinator-representation-strategy.md)
+- [Phased LEA and SEA recommendations for adopting Opportunity Culture staffing redesign](oc-adoption-recommendations-lea-sea.md)
+- [Recommendations for state education agencies and districts implementing formative assessment at scale](sea-lea-recommendations-formative-assessment-scale.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Grade-level subgroup analysis of the quasi-experimental sample (predominantly 7t
 - [A North Carolina replication found ASSISTments 7th-grade use raised 8th-grade end-of-grade math scores (effect size +0.10) despite COVID-19 disruption](assistments-north-carolina-replication-eog-010.md) — related
 - [Math 180 matched comparison study: intervention-eligible students in grades 5-8 showed significantly greater NWEA MAP gains than matched comparison students (ES +0.23)](math-180-matched-comparison-es-023.md) — related
 - [Across two studies (650 students), Math 180 shows positive impacts on mathematics achievement supporting a Moderate evidence rating with average effect size +0.26](math-180-moderate-evidence-rating-average-es-026.md) — related
+- [A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED](lied-rct-replicates-math-impact.md) — related

@@ -49,3 +49,4 @@ Descriptive distribution analysis of students in grades 3-8 in school year 2018-
 - [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Subgroup categories such as FRL eligibility and multilingual learner status mask wide within-category variation](subgroup-categories-mask-within-category-variation.md) — related
+- [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related

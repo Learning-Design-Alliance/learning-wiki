@@ -43,6 +43,7 @@ The brief recommends that local and regional actors hire additional English Lear
 - [Integrate bilingualism into all instructional settings through districtwide professional learning and in-service coaching](integrate-bilingualism-all-instructional-settings.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Hire peer family care navigators and build county-level coordinated care systems for English Learner families](peer-family-care-navigators-for-el-families.md)
+- [Provide professional learning and a bilingual workforce so preK and early elementary educators can sustain home language and oral language development](bilingual-workforce-prek-professional-learning.md)
 
 ## Examples
 -

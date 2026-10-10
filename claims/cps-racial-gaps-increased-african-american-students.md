@@ -77,3 +77,5 @@ Trend analysis of CPS math scores by racial/ethnic group across the three eras, 
 - [Achievement disparities by student race/ethnicity widened substantively during the pandemic](covid-race-ethnicity-disparities-widened.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [Black students in LBUSD score behind all other ethnic groups and ELLs on the 2024 SBAC, with only 20 percent meeting or exceeding achievement in math and 34 percent in ELA](lbusd-black-students-sbac-gaps-2024.md) — related
+- [Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students](california-racial-achievement-gap-persists.md) — related
+- [Predominantly Hispanic and schools serving large numbers of African American and Hispanic students have lower standardized test scores than predominantly White schools even after adjusting for socioeconomic factors](school-level-achievement-gap-beyond-ses.md) — related

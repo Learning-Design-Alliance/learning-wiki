@@ -48,6 +48,7 @@ The brief organizes measurement work around a team whose members carry defined r
 - [Role Assignment](../strategies/role-assignment.md)
 - [Collaborative Group Work](../strategies/collaborative_group_work.md)
 - [Cooperative Learning](../strategies/cooperative-learning.md)
+- [Form a small cross-departmental team with defined facilitation roles before starting alignment work](../strategies/small-cross-departmental-team-facilitation-roles.md)
 
 ## Key Sources
 - Ellen Eliason Kisker, Kimberly Boller. (2014). Forming a Team to Ensure High-Quality Measurement in Education Studies. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov/ncee

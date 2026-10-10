@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 26 claims (23 for, 3 mixed) · 28 studies (8 causal, 7 qualitative, 6 review, 3 design, 2 theoretical, 1 quant-synthesis, 1 associational), `q1`–`q4` · 0 of 28 report an effect size · 23 claims rest on one study
+> **Evidence** · 32 claims (29 for, 3 mixed) · 33 studies (8 causal, 7 review, 7 qualitative, 4 design, 3 associational, 3 theoretical, 1 quant-synthesis), `q1`–`q4` · 0 of 33 report an effect size · 29 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -59,6 +59,12 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [The percentage of secondary students reporting high school connectedness on the CHKS increased from 32 percent to 36 percent](../claims/cal-well-dnusd-student-school-connectedness-increase.md) [+W] — instruction changes it
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](../claims/parent-to-parent-forums-community-support.md) [+W] — instruction changes it
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](../claims/youmedia-sense-of-community-drives-digital-media-engagement.md) [+W] — instruction changes it
+- [Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers](../claims/transgender-students-report-fewer-school-supports-lower-safety.md) [+M] — learners who differ on it differ in outcomes
+- [Adjusting for perceived school supports and safety eliminates the transgender/non-transgender school connectedness gap and halves mental health, motivation, and middle school performance gaps](../claims/supports-safety-account-transgender-disparities.md) [+M] — learners who differ on it differ in outcomes
+- [Evidence suggests RJ improves school climate, including student connectedness and staff-perceived climate gains](../claims/rj-improves-school-climate-evidence-limited.md) [+M] — instruction changes it
+- [Supporting well-being and connection is a prerequisite to academic excellence](../claims/well-being-prerequisite-academic-excellence.md) [+W] — learners who differ on it differ in outcomes
+- [Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures](../claims/lgbtq-subgroups-poorer-all-14-measures.md) [+M] — learners who differ on it differ in outcomes
+- [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](../claims/aptt-spring-multilingual-parents-felt-more-connected.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 - Affect regulation — belonging shapes how a setback is felt before any regulation strategy is applied.

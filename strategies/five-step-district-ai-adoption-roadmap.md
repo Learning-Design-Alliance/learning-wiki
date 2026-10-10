@@ -48,6 +48,7 @@ The report synthesizes the state documents' advice into a common roadmap for loc
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 - [Provide synthesized and customized evidence tailored to the state context](customized-evidence-synthesis-for-decision-making.md)
 - [Legislators should pass consumer-protection legislation and create a regulatory agency governing AI education products](legislate-consumer-protections-and-regulatory-agency-for-ai-edtech.md)
+- [Provide professional development on the pedagogy and content of ethnic studies before implementing new ethnic studies standards](pd-before-ethnic-studies-standards-implementation.md)
 
 ## Examples
 -

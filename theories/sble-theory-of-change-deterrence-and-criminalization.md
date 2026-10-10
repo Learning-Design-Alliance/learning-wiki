@@ -47,7 +47,8 @@ The review articulates a general theory of change (Figure 1) for SBLE programs, 
 - 
 
 ## Examples
--
+
+- [Strengthen the evidence base on school-based law enforcement through rigorous experimental studies, including random assignment designs](../strategies/rigorous-experimental-studies-of-school-based-law-enforcement.md)
 
 ## Key Sources
 - Lb0

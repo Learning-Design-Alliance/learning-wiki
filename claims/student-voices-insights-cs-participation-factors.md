@@ -46,3 +46,4 @@ Second reported finding from the Iowa City student interview and survey work con
 - [Teacher and administrator perceptions of what impacts minoritized students' computing participation were not always aligned with what students themselves identified](teacher-perceptions-misaligned-student-identified-computing-barriers.md) — related
 - [Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status](iowa-city-inequitable-cs-stem-enrollment.md) — related
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related
+- [Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity](empathy-interviews-central-equity-practice.md) — a broader claim this one bears on

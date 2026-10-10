@@ -56,9 +56,11 @@ Affirmations work best when they affirm *values and competence domains the learn
 5. Follow with [Individual Reflection](../elements/individual-reflection.md) so learners connect the affirmation to outcomes and refine what works for them.
 
 ## Related Strategies
+
 - [Growth Mindset Framing](growth-mindset-framing.md) — affirmations about effort and malleability overlap with mindset interventions
 - [Self-Talk Scripts](self-talk-scripts.md) — the instructional variant used in sport and performance training
 - [Stress Management Routines](stress-management-routines.md) — affirmation as one component alongside breathing and planning strategies
+- [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)
 
 ## Examples
 - **Cohen, Garcia, et al.'s middle-school value-affirmation studies** — seventh graders wrote for 10–15 minutes about their most important values at the start of the term; initially low-performing Black and Latino students showed reduced achievement gaps over two years.

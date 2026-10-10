@@ -49,6 +49,7 @@ Applied concretely: taking over a disruptive class, Ginott's approach would have
 
 - [Teacher Effectiveness Training / Conflict Resolution](../strategies/teacher-effectiveness-training-conflict-resolution.md) — Gordon's later "problem ownership" and "I-message" framework builds directly on the same communication-skills tradition
 - [Student-co-created acceptable/unacceptable behavior guides for conflict management](../strategies/student-co-created-behavior-guides.md)
+- [Reframe challenging behavior as communication of an underlying need and respond rather than react](../strategies/reframe-challenging-behavior-as-communication.md)
 
 ## Key Sources
 - Ginott, H. G. (1972). *Teacher and child: A book for parents and teachers*. Macmillan.

@@ -44,3 +44,4 @@ Qualitative finding from Design Studio discussions; the report states this facto
 
 ## Related Claims
 - [Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties](toc-workplace-racism-invisible-tax.md) — related
+- [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related

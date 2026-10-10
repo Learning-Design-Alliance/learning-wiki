@@ -50,3 +50,4 @@ Comparison of current estimated investments in six case study school districts a
 - [More than half of surveyed LEAs employ dedicated family liaisons who bridge schools and multilingual families](sv-leas-family-liaisons-bridge-multilingual-families.md) — related
 - [Surveyed LEAs commonly lack key bilingual infrastructure, including materials in languages other than English and bilingual teaching supports](sv-leas-lack-bilingual-infrastructure-materials-and-pd.md) — related
 - [Case study districts show potential underinvestment in family support and engagement, with most reporting no English Learner family/community liaisons](underinvestment-in-el-family-engagement-liaisons.md) — related
+- [California underinvests in K–12 education, ranking 39th in cost-of-living-adjusted education spending and in the bottom 20 percent in fourth- and eighth-grade reading and math performance](california-underinvests-39th-spending-bottom-20-naep.md) — related

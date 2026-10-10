@@ -49,6 +49,7 @@ The brief recommends educator support programs addressing immediate and long-ter
 - [Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16](role-specific-sustained-ai-professional-learning-pathways.md)
 - [Invest in program coordination, instructional coaching, and bilingual paraprofessional career pathways to improve English Learner program design](invest-in-el-coordination-coaching-paraprofessional-pathways.md)
 - [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
+- [Implementation recommendations for school RJ programs: funding, sustainability, policy integration, and professional development](rj-school-implementation-funding-sustainability-pd.md)
 
 ## Examples
 -

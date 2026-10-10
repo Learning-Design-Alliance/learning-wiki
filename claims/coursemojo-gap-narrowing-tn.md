@@ -45,3 +45,4 @@ From the same Tennessee quasi-experiment of 2,045 sixth graders: students with d
 ## Related Claims
 - [Stronger Coursemojo outcomes were associated with more consistent use of 2.5 or more days per week](coursemojo-consistent-use-stronger-outcomes.md) — related
 - [Coursemojo use was associated with higher sixth-grade ELA performance in a Tennessee quasi-experiment](coursemojo-tn-ela-gains.md) — related
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — related

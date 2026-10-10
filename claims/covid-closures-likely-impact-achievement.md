@@ -55,3 +55,4 @@ The brief's own description states the central assertion without reporting data 
 - [Education leaders had little data on the impacts of school closures on learning at the time of the COVID-19 spring 2020 closures](little-data-closure-impacts-2020.md) — related
 - [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — related
 - [Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures](summer-learning-loss-insights-covid-closures.md) — related
+- [New baseline data are needed to support instructional planning for individual students and student groups after disrupted schooling](new-baseline-data-needed-instructional-planning-disrupted-schooling.md) — a narrower finding that bears on this claim

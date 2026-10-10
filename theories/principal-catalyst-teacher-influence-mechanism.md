@@ -51,6 +51,7 @@ The report proposes an explanatory account of how the three key conditions work 
 ## Examples
 
 - [Small school reformers should intentionally build professional community, principal leadership, and teacher influence rather than relying on size reduction](../strategies/intentionally-build-organizational-conditions-small-schools.md)
+- [Administrators sustain high-quality Tier 1 Core Instruction by creating conditions, structural supports, and a sitewide culture valuing dual-language learning](../strategies/administrator-supports-tier1-core-instruction.md)
 
 ## Key Sources
 - W. David Stevens. (2008). If Small Is Not Enough . . . ? The Characteristics of Successful Small High Schools in Chicago. Consortium on Chicago School Research at the University of Chicago. https://consortium.uchicago.edu/publications/if-small-not-enough-characteristics-successful-small-high-schools-chicago

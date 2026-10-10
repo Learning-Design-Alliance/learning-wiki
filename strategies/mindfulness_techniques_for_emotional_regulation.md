@@ -60,9 +60,11 @@ Mindfulness training functions as a self-regulation support: by strengthening at
 5. Debrief with brief reflection or [check-ins](../principles/check-ins.md): what did you notice, when did you use it, what changed?
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — brief emotional-state monitoring that pairs naturally with mindfulness practice and supplies the noticing data
 - [Self-monitoring strategies](self-monitoring-strategies.md) — mindfulness is the embodied form of the same self-observation loop
 - [Movement breaks](movement-breaks.md) — an alternative regulation route for learners who cannot engage with stillness-based practice
+- [Integrate mindfulness throughout the school day via mindful moments, pausing before reacting, and reflective norms](integrate-mindfulness-schoolwide-daily-routines.md)
 
 ## Examples
 - **[MindUP](https://mindup.org)** — an evidence-informed curriculum embedding daily "Core Practice" breathing exercises across K–8 classrooms.

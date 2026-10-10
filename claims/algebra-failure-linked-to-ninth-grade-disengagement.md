@@ -50,3 +50,4 @@ Attendance analysis of ninth-grade absence data for 36,423 CPS students. On aver
 - [Freshmen who miss more than two weeks of school per semester fail at least two classes on average, regardless of incoming test scores](two-weeks-absence-course-failure.md) — related
 - [Ninth grade truancy rates do not differ much by gender, undercutting the hypothesis that gang activity primarily drives absenteeism](truancy-rates-similar-by-gender.md) — related
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
+- [Students who have experienced three or more ACEs are more likely to experience chronic absenteeism, behavioral problems, and academic failure](three-or-more-aces-absenteeism-behavior-failure.md) — related

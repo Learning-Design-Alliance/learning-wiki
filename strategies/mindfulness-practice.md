@@ -81,6 +81,7 @@ Mindfulness training targets the attentional control system: regular practice st
 - [Retrieval Practice](retrieval-practice.md) — a calm, focused state before retrieval reduces anxiety-driven interference
 - [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
 - [Check-ins](../principles/check-ins.md) — structured moments that extend mindfulness into metacognitive awareness of readiness to learn
+- [Embed practical stress-management and self-care strategies into existing daily routines](embed-wellbeing-strategies-daily-routines.md)
 
 ## Examples
 - **MindUP** (https://mindup.org) — evidence-informed school curriculum with daily 3-minute "brain breaks" embedded in the school day.

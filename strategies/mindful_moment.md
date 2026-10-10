@@ -58,9 +58,11 @@ Mindful moments work as an attention-reset mechanism: brief breath-focused pract
 5. **Build routine.** Repeat at predictable moments; consistency, not duration, drives benefit.
 
 ## Related Strategies
+
 - [Check-ins](../principles/check-ins.md) — a brief emotional/attentional pulse-taking that pairs naturally with a mindful moment at lesson start
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the mindful moment clears attentional space so retrieval cues land
 - [Achievable Micro-Goals](achievable_micro-goals.md) — the closing reorientation can name the immediate micro-goal for the session
+- [Begin class with a mindful moment to settle students’ minds and bodies in preparation for learning](mindful-moment-class-opening-strategy.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the mindful moment is itself a micro-practice; repeated brief practice is what builds the attentional skill

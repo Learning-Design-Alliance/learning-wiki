@@ -75,11 +75,13 @@ Pre-teaching reduces the extraneous cognitive load of decoding unfamiliar words 
 5. **Revisit** the words during and after reading through discussion and writing, so learners meet them repeatedly in context.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the companion preparation move; vocabulary pre-teaching is often its lexical subset
 - [Direct Instruction](direct-instruction.md) — the explicit-explanation format most pre-teaching takes
 - [Annotating](../principles/annotating.md) — a during-reading alternative when pre-teaching everything is impractical
 - [Chunking](../principles/chunking.md) — limiting the word set to a teachable chunk respects working memory limits
 - [Spaced Repetition](../elements/spaced-repetition.md) — revisiting pre-taught words across sessions converts initial exposure into durable word knowledge
+- [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
 
 ## Examples
 - **[Bringing Words to Life](https://www.guilford.com/books/Bringing-Words-to-Life/Beck-McKeown-Kucan/9781462508167)** — Beck, McKeown, and Kucan's robust-vocabulary instruction framework, the standard reference for selecting Tier Two words and designing engaging introductions.

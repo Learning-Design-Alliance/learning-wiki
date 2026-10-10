@@ -79,12 +79,14 @@ Word walls work as a form of distributed, repeated exposure: revisiting the same
 5. Retire mastered words to an archive section so the active wall stays focused.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the wall serves as a persistent activation surface at the start of each lesson
 - [Annotating](../principles/annotating.md) — learners can annotate wall cards with definitions, translations, and examples
 - [Advance Organizers](../elements/advance-organizers.md) — a categorized wall functions as an ongoing organizer for unit content
 - Frayer Model vocabulary routines — a structured graphic organizer that pairs naturally with wall words
 - Morphology instruction — word walls organized by roots and affixes extend this strategy
 - Interactive read-alouds — a source of new words learners nominate for the wall
+- [Support English learners with sentence frames, graphic organizers, and word walls—but supplement frames with level-appropriate strategies because frames can limit the range of student responses](sentence-frames-organizers-word-walls-with-limits.md)
 
 ## Examples
 - A third-grade teacher maintains a math word wall, introducing five new terms per week and requiring their use in math journal entries.

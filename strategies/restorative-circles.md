@@ -87,6 +87,7 @@ Restorative Circles operationalize social-emotional and community-building goals
 - [Action Planning](action_planning.md) — the repair agreement is a form of collaborative action planning
 - [Identify and address the root causes of discipline disparities in schools flagged as disproportionate](address-root-causes-discipline-disparities.md)
 - [Class Discussion](../elements/class-discussion.md) — shares the round-robin structure but lacks the harm-repair purpose and talking-piece protocol
+- [Use RJ strategies such as proactive circles to manage classrooms and establish norms beyond discipline](proactive-circles-classroom-management-norms.md)
 
 ## Examples
 - **Denver Public Schools (Colorado)** — district-wide restorative justice implementation replacing exclusionary discipline for many infractions; documented reductions in suspensions and discipline disparities.

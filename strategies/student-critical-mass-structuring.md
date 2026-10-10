@@ -43,6 +43,7 @@ A strategy for amplifying student voice in education R&D teams based on findings
 
 - [Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes](anti-oppressive-co-design-practices.md)
 - [Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice](nsi-implementation-support-strategies.md)
+- [Use an \"equity pause\" to infuse equity consciousness into continuous improvement team processes](equity-pause-strategy.md)
 
 ## Examples
 -

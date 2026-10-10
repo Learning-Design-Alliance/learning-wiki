@@ -87,6 +87,7 @@ CRT treats students' cultural knowledge as an instructional asset rather than a 
 - [Authentic Audiences & Purposes](../principles/authentic-audiences-purposes.md) — connects student work to real community stakeholders, reinforcing relevance
 - [Design credit-recovery interventions to address broader academic deficits and engagement, not only algebra content](credit-recovery-address-broader-deficits-and-engagement.md)
 - [Supports teachers need to enact formative assessment for English learners](teacher-supports-formative-assessment-el.md)
+- [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](place-based-culturally-harmonious-ccss-instruction.md)
 
 ## Examples
 - **Funds of Knowledge projects** (Moll et al., University of Arizona) — teachers conduct household visits to map students' community knowledge and design instruction around it.

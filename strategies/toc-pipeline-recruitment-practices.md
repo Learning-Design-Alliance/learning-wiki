@@ -46,6 +46,9 @@ The report's Promising Practices section describes four approaches to building t
 - [Grow-your-own teacher training programs targeting community members facing certification and career-change barriers](grow-your-own-toc-teacher-programs.md)
 - [Diverse hiring committees and intentional recruitment practices including HBCU/MSI outreach and higher-education partnerships](toc-diverse-hiring-committees-outreach.md)
 - [State policy actions across the career continuum: attract, prepare, and develop/support/retain educators](tdf-state-policy-actions-career-continuum.md)
+- [Provide professional learning and a bilingual workforce so preK and early elementary educators can sustain home language and oral language development](bilingual-workforce-prek-professional-learning.md)
+- [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
+- [Sequenced multi-year investment plan across teacher and principal pipelines, early childhood, high-poverty schools, funding, and assessment and accountability to achieve Leandro compliance](leandro-sequenced-investment-action-plan-strategy.md)
 
 ## Examples
 -

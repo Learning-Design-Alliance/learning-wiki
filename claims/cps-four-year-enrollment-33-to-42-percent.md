@@ -47,3 +47,4 @@ Descriptive trend in college enrollment among CPS graduates from district and Na
 - [The proportion of CPS graduates enrolling immediately in college rose gradually to 63 percent by 2018, with persistent disparities by race/ethnicity and gender](cps-immediate-college-enrollment-rose-to-63-percent-2018.md) — related
 - [Two-thirds of CPS graduates immediately enrolled in a two- or four-year college in 2017, up from 50 percent in 2006](cps-immediate-college-enrollment-two-thirds-2017.md) — related
 - [CPS graduates enrolled at lower overall rates than the nation but showed relatively low two-year and relatively high four-year enrollment compared with national and urban benchmarks](cps-low-two-year-high-four-year-versus-benchmarks.md) — related
+- [AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers](ai-an-dropout-and-college-retention-rates.md) — related

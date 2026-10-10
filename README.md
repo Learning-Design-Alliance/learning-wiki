@@ -19,15 +19,15 @@ Page counts are regenerated with every index rebuild.
 | [Principles](principles/) | 375 | Research-backed design commitments: what to do and why. |
 | [Elements](elements/) | 2,174 | Instructional building blocks — the components you compose into patterns. |
 | [Patterns](patterns/) | 126 | Reusable instructional designs at the lesson or unit level. |
-| [Designs](designs/) | 335 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
-| [Products & Programmes](products/) | 86 | Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's. |
-| [Strategies](strategies/) | 4,430 | Concrete teaching activity recipes — specific, implementable approaches. |
+| [Designs](designs/) | 378 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
+| [Products & Programmes](products/) | 137 | Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's. |
+| [Strategies](strategies/) | 4,546 | Concrete teaching activity recipes — specific, implementable approaches. |
 | [Design Processes](processes/) | 18 | How a course gets designed — whole-process models a designer works through, rather than anything a learner meets. |
 | [Design Methods](methods/) | 38 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
-| [Research Methods](research-methods/) | 35 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |
+| [Research Methods](research-methods/) | 39 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |
 | [Theories](theories/) | 1,686 | Explanatory frameworks that ground principles and claims. |
 | [Learner Variables](learner-variables/) | 12 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
-| [Claims](claims/) | 10,885 | Empirical claims with evidence ratings, sources, and competing views. |
+| [Claims](claims/) | 11,297 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->
 

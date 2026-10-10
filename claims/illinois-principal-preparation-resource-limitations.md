@@ -51,3 +51,4 @@ Challenge reported in the I-PREP statewide scan. Respondents reported that distr
 - [Program representatives and statewide stakeholders were largely positive about the goals of Illinois' redesigned principal preparation policy](illinois-principal-preparation-stakeholders-positive-policy-goals.md) — related
 - [Teachers and principals report district inflexibility and insufficient support for teacher-led, shared-decision-making leadership in small-school reform](chsri-district-inflexibility-teacher-led-reform.md) — related
 - [Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources](network-participation-time-resource-challenges.md) — related
+- [Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools](rj-implementation-challenges-time-funding-sustainability.md) — related

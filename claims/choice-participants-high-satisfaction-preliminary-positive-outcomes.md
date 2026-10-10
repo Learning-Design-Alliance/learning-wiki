@@ -48,3 +48,4 @@ The report's own synthesis across its two-year study, including over 2,000 ALC a
 - [PSEO students most often cite access to courses unavailable at their high school as their reason for participating](pseo-students-participate-for-unavailable-courses.md) — related
 - [Charter school students in Minnesota are disproportionately students of color, low-income, special needs, and non-English speakers](minnesota-charter-students-disproportionately-underserved.md) — related
 - [Most students reported a high degree of agency in deciding which high school to attend, though agency was constrained or absent for some](student-agency-school-selection.md) — related
+- [Evidence suggests RJ improves school climate, including student connectedness and staff-perceived climate gains](rj-improves-school-climate-evidence-limited.md) — related

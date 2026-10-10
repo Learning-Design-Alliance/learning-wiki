@@ -85,6 +85,8 @@ RP improves climate and can reduce exclusionary discipline, but effects on acade
 - [Classroom Discussion](../elements/class-discussion.md) — circles formalize the turn-taking and listening norms discussion requires
 - [Building Empathy](../principles/building-empathy.md) — perspective-taking is the core mechanism of repair dialogue
 - [Identify and address the root causes of discipline disparities in schools flagged as disproportionate](address-root-causes-discipline-disparities.md)
+- [Use RJ strategies such as proactive circles to manage classrooms and establish norms beyond discipline](proactive-circles-classroom-management-norms.md)
+- [Structural supports for restorative practices: funding, people, time, discipline policy, and equity](structural-supports-restorative-implementation.md)
 
 ## Examples
 - **Oakland Unified School District (CA)** — whole-school RP adoption since 2010 with a dedicated Office of Restorative Justice; associated with reduced suspensions for African American students in district reports ([ousd.org/restorative-justice](https://www.ousd.org/restorative-justice)).

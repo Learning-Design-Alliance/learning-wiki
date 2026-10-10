@@ -96,3 +96,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Research has not clearly supported wet laboratory work for product-centered goals](wet-lab-not-supported-for-product-goals.md) — related
 - [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — reports the opposite
+- [Inquiry-based science provides a highly contextualized setting for authentic language use and higher-level dialogue that is not text-dependent, supporting English learners' language development](inquiry-science-contextualized-authentic-language.md) — related

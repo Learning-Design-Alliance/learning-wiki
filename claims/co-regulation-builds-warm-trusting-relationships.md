@@ -51,3 +51,4 @@ Section II.C qualitative findings from facilitator interviews and youth focus gr
 - [Trusting teacher-evaluator relationships lessened evaluation anxiety and encouraged teachers to welcome and use REACH feedback](trusting-teacher-evaluator-relationships-reduce-anxiety.md) — related
 - [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related
 - [Participants and school staff reported improved attendance and reduced tardiness among Compass Care students](compass-care-reported-attendance-improvements.md) — related
+- [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related

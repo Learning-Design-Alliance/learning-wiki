@@ -77,10 +77,13 @@ Mindfulness activities are best treated as readiness supports rather than as cor
 - [Immediate Feedback](immediate-feedback.md) — regulation routines can help learners use feedback more productively when they are emotionally activated.
 
 ## Examples
+
 - **Breathing reset before a demanding task**: Learners take one or two minutes to settle attention before starting.
 - **Transition pause after stress**: A class or team pauses briefly before moving from a difficult discussion into focused work.
 - **Optional grounding routine**: Learners choose from a few short regulation strategies before an assessment or presentation.
 - **Reflective attention prompt**: Learners note their current focus level and what they need to engage productively.
+- [Integrate mindfulness throughout the school day via mindful moments, pausing before reacting, and reflective norms](../strategies/integrate-mindfulness-schoolwide-daily-routines.md)
+- [Begin class with a mindful moment to settle students’ minds and bodies in preparation for learning](../strategies/mindful-moment-class-opening-strategy.md)
 
 ## Key Sources
 - Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General, 143*(5), 1972-1979. [https://doi.org/10.1037/a0036882](https://doi.org/10.1037/a0036882)

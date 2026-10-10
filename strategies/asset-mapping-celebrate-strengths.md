@@ -48,6 +48,7 @@ Asset mapping is "an activity that focuses on the strengths that currently exist
 - [Leveraging Strengths Thinking](leveraging_strengths_thinking.md)
 - [Address Stereotypical Beliefs About Parents and Poverty](address_stereotypical_beliefs_about_parents_and_poverty.md)
 - [Co-design investment approaches matched to a community's developmental phase](codesign-investments-matched-to-community-phase.md)
+- [Five getting-started steps for building an integrated, school-based system of care](getting-started-steps-integrated-systems-of-care.md)
 
 ## Examples
 -

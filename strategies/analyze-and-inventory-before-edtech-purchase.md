@@ -47,6 +47,7 @@ Step 1 of the framework directs leaders to begin "with cross-departmental analys
 - [Evaluate & Reflect then Sustain & Scale: analyze pilot data against targeted goals and share results with critical partners to plan expanded use](evaluate-pilot-data-and-share-results-to-scale-edtech.md)
 - [Structure OBC procurement around intentionality questions on learner goals, populations, outcomes, and stakeholders](obc-intentionality-collaboration-questions.md)
 - [Support future edtech OBC cohorts with readiness assessments, early planning, needs-assessment framing, and cross-cohort collaboration](obc-future-cohort-support-strategies.md)
+- [Form a small cross-departmental team with defined facilitation roles before starting alignment work](small-cross-departmental-team-facilitation-roles.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ The article recommends that identifying the students most likely to have certain
 - [Use findings on strategy–time-management links to develop early warning systems and interventions promoting effective time management and strategy use in flipped classrooms](early-warning-systems-time-management-strategy-use.md)
 - [Use school-level data systems to identify which students need which types of support for dropout prevention](school-level-data-systems-identify-student-support-needs.md)
 - [Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions](dropout-data-systems-diagnosis-strategy.md)
+- [Use linked cross-system data to target programs such as dropout prevention and postsecondary preparation for students in foster care](data-informed-targeted-support-foster-care.md)
 
 ## Examples
 -

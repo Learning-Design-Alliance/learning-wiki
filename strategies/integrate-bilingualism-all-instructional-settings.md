@@ -41,6 +41,7 @@ This recommendation directs education leaders to promote the use of primary lang
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 - [Invest in program coordination, instructional coaching, and bilingual paraprofessional career pathways to improve English Learner program design](invest-in-el-coordination-coaching-paraprofessional-pathways.md)
 - [Teach in students' home language in primary, assess learning levels and differentiate instruction, and align teacher training with language-of-instruction policy](sl-home-language-assessment-differentiation.md)
+- [Provide professional learning and a bilingual workforce so preK and early elementary educators can sustain home language and oral language development](bilingual-workforce-prek-professional-learning.md)
 
 ## Examples
 -

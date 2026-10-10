@@ -52,3 +52,4 @@ Discussion-section comparison across the study's four volunteer groups, contrast
 - [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related
 - [People come first: places, policies, and programs should be altered when they inhibit people's development](people-come-first-invitational-schools.md) — related
 - [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- [The New Teacher Support Program reaches fewer than 10 percent of beginning teachers, far below the statewide mentoring program that reached all beginning teachers in the 1990s](nc-new-teacher-support-reaches-under-ten-percent.md) — related

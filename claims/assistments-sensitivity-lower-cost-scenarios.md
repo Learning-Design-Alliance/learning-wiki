@@ -47,3 +47,4 @@ Sensitivity analysis (Table 2) varying length of professional development, avail
 - [Implementing ASSISTments above business-as-usual cost about $207,794 across the study, or about $46.23 per student](assistments-incremental-cost-46-per-student.md) — related
 - [Teachers with a local coach completed far more of the intended Write to Succeed professional learning activities than teachers without one](wts-local-coach-higher-activity-completion.md) — related
 - [Bulk negotiation with the Kahoot! provider reduced the per-teacher price from $149.99 to $44.60, saving the district over $25,000 on licenses](dps-kahoot-bulk-price-saving-25000.md) — related
+- [NBA Math Hoops can be implemented at low marginal cost: $17.85 per pupil (analytic sample) in materials and training beyond typical summer programming, yielding 0.19 SD math gain](nba-math-hoops-cost-effective-summer-program.md) — related

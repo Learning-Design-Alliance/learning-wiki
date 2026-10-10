@@ -64,6 +64,7 @@ Brief mindfulness and slow-breathing practices reliably reduce physiological aro
 - [Classroom Physical Activity Breaks](classroom-physical-activity-breaks.md) — an alternative or complementary arousal-regulation routine with overlapping attentional benefits
 - [Test Anxiety Reduction](test-anxiety-reduction.md) — breathing exercises are a core acute component of anxiety-reduction protocols before assessments
 - [Thread conscious breathing strategies through warm-up, center work, and class conclusion](breath-strategies-across-dance-class-phases.md)
+- [Begin remote lessons with grounding and centering exercises to help students focus](grounding-centering-exercises-remote-lessons.md)
 
 ## Examples
 - **[Inner Explorer](https://innerexplorer.org)** — a daily audio-guided mindfulness program used in K–12 classrooms; short whole-class practices cued at consistent times, with documented implementation in thousands of US schools.

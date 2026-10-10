@@ -64,3 +64,4 @@ Same Figure 6 ACT analysis. The report concludes improvements to student perform
 ## Related Claims
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related
 - [CPS graduates' grades predicted college enrollment: graduates needed at least a 2.5 GPA for close to a 50 percent likelihood of enrolling in a four-year college](gpa-predicts-college-enrollment-cps.md) — related
+- [From 2012 to 2017, non-rural Utah districts had higher proficiency in English language arts and science and more graduates scoring 18+ on the ACT, while rural districts had higher four-year graduation rates](utah-rural-nonrural-academic-outcome-patterns.md) — related

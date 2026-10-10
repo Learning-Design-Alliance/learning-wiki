@@ -46,3 +46,4 @@ Bellwether analysis applying federal enrollment projections to 2022–23 per-pup
 - [K-12 public school enrollment is declining and projected to fall 3.7 percent by 2031, reducing funding in the 35 states and DC that use student-based funding formulas](enrollment-decline-projected-3-7-percent-2031.md) — related
 - [68 percent of K–12 districts experienced enrollment declines between 2018–19 and 2023–24 while still operating roughly the same number of schools](68-percent-districts-declining-enrollment-same-schools.md) — related
 - [School districts that rely more heavily on state revenue experience more revenue volatility, and 24 states received at least half their revenue from state sources in 2019-20](state-revenue-reliance-increases-volatility.md) — related
+- [California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals](california-funding-gap-26-5-billion.md) — related

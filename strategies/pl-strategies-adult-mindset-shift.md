@@ -44,7 +44,8 @@ Participants described a set of professional learning strategies for moving educ
 - [Cultivate Nine Learning Conditions Framework](../theories/cultivate-nine-learning-conditions-framework.md)
 
 ## Related Strategies
-- 
+
+- [Shift state monitoring from compliance enforcement to technical assistance built on trust](monitoring-as-technical-assistance-shift.md)
 
 ## Examples
 -

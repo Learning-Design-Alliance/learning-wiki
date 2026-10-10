@@ -47,3 +47,4 @@ Participant-reported outcomes from a 5-year UEPC evaluation of R15CC support to 
 - [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
 - [Existing school-based behavioral health TA in California is siloed, and equitable access depends on local leaders' individual knowledge and networks](siloed-behavioral-health-ta-unequal-access.md) — related
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
+- [Academy graduates report feeling more empowered and staying on the job longer](academy-graduates-empowered-retention.md) — related

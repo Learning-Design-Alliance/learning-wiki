@@ -64,3 +64,4 @@ Same survey, covering time beyond formal LSC duties such as volunteering, commit
 ## Related Claims
 - [LSC parent and community representatives are better educated than the general Chicago population, but their educational level is lower in high-poverty schools](lsc-members-better-educated-than-chicago-population.md) — related
 - [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](parent-involvement-declined-after-reform-act.md) — related
+- [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — related

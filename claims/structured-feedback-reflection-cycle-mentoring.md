@@ -71,3 +71,4 @@ Analysis of the mentee's 15 written reflections showed she internalised a three-
 - [Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers](guided-reflection-increases-reflective-judgment-sophistication.md) — related
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related
 - [LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices](ca-assessment-prompts-authentic-reflective-teaching.md) — related
+- [Hattie's synthesis identifies lesson study, formative evaluation of teaching, discussion of learning, and feedback as instructional factors with high effect sizes on student learning](hattie-high-effect-size-instructional-factors.md) — related

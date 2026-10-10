@@ -41,6 +41,7 @@ R15CC supported NDE with an iterative process of creating implementation guidanc
 - [Facilitate a multi-session collaborative workgroup to co-develop state guidance](collaborative-workgroup-co-development.md)
 - [Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors](five-step-codesign-badge-development-process.md)
 - [Plan-Build-Implement co-design process for developing Integrated Learning Pathways](plan-build-implement-pathways-design-process.md)
+- [Implementation-phase supports: staff engagement, communication and action plans, thought partnership, and self-assessment rubrics](implementation-phase-supports.md)
 
 ## Examples
 -

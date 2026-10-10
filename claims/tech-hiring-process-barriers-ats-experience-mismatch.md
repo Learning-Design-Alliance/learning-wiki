@@ -48,3 +48,4 @@ Thematic analysis of worker and learner interviews, surveys, and design sessions
 - [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
 - [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
 - [AI hiring tools have demonstrated biases disproportionately affecting women, individuals with disabilities, and underrepresented ethnic and racial groups](ai-hiring-tool-biases-disproportionate-impacts.md) — a broader claim this one bears on
+- [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related

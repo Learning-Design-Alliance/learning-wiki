@@ -41,6 +41,7 @@ The report's second recommended administrator action is to respect confidentiali
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 - [Peer Coaching](peer_coaching.md)
 - [Protect coaches' time so the majority is spent directly with teachers](protect-coach-time-for-classroom-support.md)
+- [Clearly define the role of the coach and support principals in working with math coaches](clearly-define-coach-role-with-principals.md)
 
 ## Examples
 -

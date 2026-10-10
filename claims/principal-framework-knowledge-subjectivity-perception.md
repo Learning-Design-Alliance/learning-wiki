@@ -45,3 +45,4 @@ Qualitative case study of Walton Elementary School across two pilot years, drawi
 ## Related Claims
 - [Principal-teacher conferences were perceived as more reflective and objective than past evaluations, but many principals lacked the instructional coaching skills for deep discussions of practice](conferences-reflective-but-coaching-skills-lacking.md) — related
 - [Fifty-seven percent of principals were highly enthusiastic about the Framework-based evaluation process while 43 percent held mixed to negative attitudes](principal-attitudes-toward-framework-evaluation.md) — related
+- [Actual classroom observation practice often differs from best practice, with principal-teacher perception gaps on measures and observer qualifications](observation-practice-gaps-principal-teacher.md) — related

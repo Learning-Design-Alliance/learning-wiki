@@ -65,6 +65,7 @@ Equity audits shift the analytic frame from remediating learners to remediating 
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md) — the pedagogical orientation that supplies the revision criteria an audit applies
 - [Data-Driven Instruction](data-driven-instruction.md) — shares the disaggregated-data method but focuses on equity gaps rather than aggregate mastery
 - [Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses](strategies-disaggregate-participation-data-intersectionally.md)
+- [Use a universal rubric with dual criteria — standards alignment and access/equity — for cross-content-area review of instructional materials](universal-rubric-dual-criteria-review-strategy.md)
 
 ## Examples
 - **California community colleges' equity work** — colleges disaggregate course success rates by ethnicity and gender and require equity plans; gateway-course redesign informed by these audits has narrowed pass-rate gaps (see https://www.cccco.edu).

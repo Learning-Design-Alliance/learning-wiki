@@ -44,3 +44,4 @@ Descriptive calculation in the brief using FY 2021 pension debt data from Equabl
 
 ## Related Claims
 - [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — related
+- [California would need roughly $4,000 more per pupil—an additional $26.5 billion annually—to meet its K–12 education goals](california-funding-gap-26-5-billion.md) — related

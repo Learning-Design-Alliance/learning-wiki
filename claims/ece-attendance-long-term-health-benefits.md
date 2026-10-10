@@ -53,3 +53,5 @@ The summary product reports, citing Campbell et al. (2014) in Science, that ECE 
 - [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related
 - [Early childhood education attendance is associated with statistically significant reductions in special education placement and grade retention](ece-reduces-special-education-retention.md) — related
+- [Inclusive preschool special education benefits students with and without disabilities and reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related
+- [High-quality early care is associated with school readiness, math and language gains, and reduced grade repetition and special education placement](high-quality-early-care-school-readiness-benefits.md) — related

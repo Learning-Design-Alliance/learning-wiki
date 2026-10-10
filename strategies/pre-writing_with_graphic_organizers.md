@@ -72,9 +72,11 @@ Pre-writing organizers reduce the load of juggling content, structure, and trans
 6. **Fade.** Across successive writing tasks, shift from full frames to blank paper with a prompt to "plan first," building independent planning routines [Fading support promotes transfer of responsibility.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — supplies the raw material the organizer structures
 - [Think-Aloud Modeling](../strategies/think-aloud-modeling.md) — the demonstration step that makes organizer use learnable
 - [Peer Feedback](../elements/peer-feedback.md) — a natural follow-on once drafts exist
+- [Support English learners with sentence frames, graphic organizers, and word walls—but supplement frames with level-appropriate strategies because frames can limit the range of student responses](sentence-frames-organizers-word-walls-with-limits.md)
 
 ## Related Elements
 - [Advance Organizers](../elements/advance-organizers.md) — the genre-level frame presented before the task

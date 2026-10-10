@@ -47,6 +47,9 @@ Because all interviewed teachers found the curriculum overwhelming in their init
 - [Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions](bridge-to-reading-layered-implementation-support.md)
 - [Embed product rollout into existing routines with structured cadences, teacher champions, and stipends to accelerate adoption](embed-product-rollout-into-existing-routines.md)
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
+- [Train and support educators to implement mindfulness through programs, coaching, and shared leadership](educator-training-mindfulness-implementation-supports.md)
+- [Provide professional development on the pedagogy and content of ethnic studies before implementing new ethnic studies standards](pd-before-ethnic-studies-standards-implementation.md)
+- [Provide sustained, powerful professional development with professional learning communities for QTEL implementation](sustained-powerful-pd-for-qtel.md)
 
 ## Examples
 -

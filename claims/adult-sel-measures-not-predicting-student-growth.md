@@ -50,3 +50,4 @@ Cross-sectional survey of 269 K-8 educators (19% response rate) linked to i-Read
 - [Students were less likely to meet target math and reading growth goals in schools with greater NSLP participation](nslp-participation-associated-lower-growth-goal-attainment.md) — related
 - [SEL-related constructs are strongly predictive of long-term academic achievement and attainment](sel-constructs-predict-long-term-achievement-attainment.md) — related
 - [Teachers' belief that their students were ready for argumentative writing significantly predicted student growth within the first prompt](teacher-readiness-belief-predicts-first-prompt-growth.md) — related
+- [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related

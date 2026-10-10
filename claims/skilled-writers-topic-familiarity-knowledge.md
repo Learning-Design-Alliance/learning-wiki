@@ -50,3 +50,4 @@ Interview transcription analysis in the declarative-knowledge section of the stu
 - [Skilled EFL writers apply procedural planning strategies of brainstorming, organizing, and outlining before writing, and revising strategies of pause-to-think, reviewing, and local plus global revision.](skilled-writers-planning-revising-strategies.md) — related
 - [Skilled EFL writers undergo a recursive writing process in which planning, writing, and reviewing repeat and embed within each other during composing.](skilled-efl-writers-recursive-writing-process.md) — related
 - [Self-regulated learning strategy instruction improves writing outcomes](strategy-instruction-improves-writing-quality.md) — related
+- [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](metacognition-efficiency-effectiveness-outcomes-claim.md) — related

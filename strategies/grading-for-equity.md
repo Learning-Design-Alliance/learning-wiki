@@ -58,9 +58,11 @@ Grades function as feedback and as a motivational signal; when they mix academic
 5. Communicate the rationale to students and families, and involve students in tracking their own proficiency data ([Assessment](../elements/assessment.md) as a shared record rather than a verdict).
 
 ## Related Strategies
+
 - Standards-based grading — the reporting system most equity-oriented grading reforms build on
 - Reassessment and revision policies — the mechanism that makes grades reflect current rather than historical performance
 - Separate conduct reporting — removes behavior from the academic grade without abandoning accountability
+- [Safeguard equity in performance assessment systems through non-negotiables, clear rubrics, normed scoring, multiple pathways, and inclusive design](equity-safeguards-performance-assessment-implementation.md)
 
 ## Examples
 - **Feldman's Grading for Equity framework** (Crescendo Education Group, https://crescendoedgroup.org) — a widely adopted professional-development model built on three pillars: accuracy, bias-resistance, and intrinsic motivation; piloted in districts including those in California and Washington, D.C.

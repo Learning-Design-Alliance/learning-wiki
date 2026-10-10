@@ -39,6 +39,7 @@ ECED's staffing requirement is current math staff plus "a designated on-site ins
 ## Related Strategies
 
 - [Two-year professional development model combining institutes, site visits, and remote monitoring](eced-two-year-pd-model.md)
+- [Clearly define the role of the coach and support principals in working with math coaches](clearly-define-coach-role-with-principals.md)
 
 ## Examples
 -

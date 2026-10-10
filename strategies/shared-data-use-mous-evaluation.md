@@ -42,6 +42,8 @@ The report recommends that initiatives adopt the same or similar key measures of
 - [Coordinate services across programs and agencies to reinforce parent and child outcomes](coordinate-services-across-programs-and-agencies-two-generation.md)
 - [Link education and child welfare data systems to make the foster care achievement gap visible and trackable](link-education-child-welfare-data-systems.md)
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
+- [Broker a formal data-sharing agreement between child welfare and education agencies to identify and serve students in foster care](cross-system-data-sharing-agreement-foster-care.md)
+- [Use linked cross-system data to target programs such as dropout prevention and postsecondary preparation for students in foster care](data-informed-targeted-support-foster-care.md)
 
 ## Examples
 -

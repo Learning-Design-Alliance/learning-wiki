@@ -65,6 +65,7 @@ The SFA® staff development model "emphasizes a relatively brief initial trainin
 - [Phased SIM professional development plan: initial planning days, monthly site PD and coaching, monthly leadership-team sessions, and annual program-specific training with coaching](sim-phased-professional-development-plan.md)
 - [Provide extensive initial training plus ongoing coaching, with a teacher-level facilitator, when adopting a whole-school reform model](tdhs-extensive-pd-coaching-facilitator.md)
 - [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
+- [Train and support educators to implement mindfulness through programs, coaching, and shared leadership](educator-training-mindfulness-implementation-supports.md)
 
 ## Examples
 -

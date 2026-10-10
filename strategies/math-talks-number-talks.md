@@ -67,9 +67,11 @@ Math Talks operationalize [Active Learning](../principles/active-learning.md) an
 6. **Name and extend.** Attach mathematical language to strategies and, if none surface, model one briefly; close by revising the answer list.
 
 ## Related Strategies
+
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a lower-stakes rehearsal structure that can precede whole-class sharing in a Math Talk
 - [Cold Calling](cold-call.md) — with norms of safety established, ensures all students are prepared to contribute strategies
 - [Wait Time](wait-time.md) — extended pauses after questions increase the depth of strategy explanations
+- [Extend rich student discourse beyond Math Talks and use participation structures and story problems to broaden access and sense-making](extend-discourse-beyond-math-talks.md)
 
 ## Related Elements
 - [Eliciting Student Thinking](../elements/eliciting-student-thinking.md) — the core facilitation move; the talk exists to surface reasoning

@@ -45,3 +45,5 @@ Descriptive fiscal survey data (NASBO, cited as Vesey White, 2024) reported in t
 ## Related Claims
 - [State caps on district reserves, such as California's 10 percent and New York's 4 percent caps, can limit districts' ability to budget conservatively for economic hard times](district-reserve-caps-limit-stability.md) — related
 - [K-12 public school enrollment is declining and projected to fall 3.7 percent by 2031, reducing funding in the 35 states and DC that use student-based funding formulas](enrollment-decline-projected-3-7-percent-2031.md) — related
+- [As of fiscal year 2017, 22 states still provided less per-pupil K–12 education funding than in 2008–09](22-states-less-per-pupil-funding-than-2008-09.md) — related
+- [Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions](pit-reliance-makes-education-funding-volatile.md) — related

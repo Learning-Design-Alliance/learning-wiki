@@ -53,3 +53,4 @@ Subgroup trend analysis by race/ethnicity, gender, neighborhood poverty, and dis
 - [Six-year graduation rates for students with behavioral and learning disabilities increased substantially between 2009 and 2019, while rates for cognitive disabilities slightly declined](cps-disability-six-year-graduation-trends-2009-2019.md) — related
 - [In 2019, high school graduation rates were similar across Chicago community areas (mostly 70–90%) while rates for the same students varied much more by high school (49–99%)](graduation-rates-similar-by-community-area-varied-by-high-school.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
+- [North Carolina achievement has declined since 2013 and the Black-White NAEP gap widened between 2015 and 2017 in both eighth grade mathematics and reading](nc-naep-declines-since-2013-black-white-gap-widened.md) — related

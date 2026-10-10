@@ -48,3 +48,4 @@ Content analysis of open-ended survey responses identified the "voluminous conte
 - [Grade 11 and 12 students hold a moderate level of perception towards KCLS in teaching and learning processes](students-moderate-perception-kcls-teaching-learning.md) — related
 - [Bhutanese higher secondary teachers hold a moderate level of perception towards KCLS in teaching and learning processes](teachers-moderate-perception-kcls-teaching-learning.md) — related
 - [Participants identified performance concerns, classroom distractions, unclear purpose of learning, and time/coverage pressures as barriers to adolescent healthy risk-taking, with relevance and feeling heard as promoters](barriers-promoters-adolescent-risk-taking-tlc.md) — related
+- [Teachers reported pacing demands, student struggles with rigor, and technology impediments as factors hindering ERWC implementation](erwc-implementation-hindering-factors-qualitative.md) — related

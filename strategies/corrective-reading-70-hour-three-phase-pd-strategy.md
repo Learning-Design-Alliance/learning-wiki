@@ -46,6 +46,7 @@ In the qualifying study, "teachers in the study received 70 hours of professiona
 - [Weeklong initial teacher training with biweekly follow-up meetings for delivering the fraction intervention](fraction-face-off-teacher-training-model.md)
 - [Layered professional development for curriculum implementation (webinars, workshops, coaching)](stemscopes-layered-professional-development.md)
 - [Designate a Spalding coordinator and provide 45-70 hours of formal teacher training with ongoing mentoring to support implementation fidelity](spalding-coordinator-and-intensive-pd-strategy.md)
+- [Provide various forms of follow-up to sustain new practices learned in PD](follow-up-supports-sustain-pd-practices.md)
 
 ## Examples
 -

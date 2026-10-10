@@ -43,6 +43,7 @@ In its Implications section, the report distills advice from initiative particip
 - [Before a study, researchers should present the proposal to district administration, hold conversations with administrators and teachers, and host parent events to build buy-in](pre-study-stakeholder-engagement-strategy.md)
 - [Design future cross-sector collaboration efforts with clear goals and sufficient time period and scope, and include teacher-level activities](future-collaboration-efforts-clear-goals-adequate-scope-teacher-inclusion.md)
 - [Retention supports for teachers of color: networking platforms, safe spaces, mental health resources, race-conscious mentorship, and flexible career pathways](toc-retention-supports-mentoring-mental-health.md)
+- [Build authentic stakeholder buy-in through relational strategies: show don't tell, slow down to speed up, engage resistors, and asset framing](relational-buy-in-strategies-restorative-implementation.md)
 
 ## Examples
 -

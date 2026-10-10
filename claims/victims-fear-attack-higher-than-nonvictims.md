@@ -49,3 +49,4 @@ Victim–nonvictim comparison from the 2013 School Crime Supplement on fear of a
 - [Victimized students reported negative school conditions at higher rates than nonvictims](victims-report-negative-school-conditions-higher-rates.md) — a broader claim this one bears on
 - [The effects of attending a bullying-reducing school on graduation are larger for students with a history of victimization](bullying-reduction-effects-larger-for-prior-victimized-students.md) — related
 - [More than half of CPS high school teachers report robbery or theft problems and over 60 percent report gang activity and physical conflicts among students](high-school-teacher-crime-disorder-reports.md) — related
+- [Transgender students are more than twice as likely as non-transgender peers to report bullying, harassment, and fear of physical violence](transgender-students-twice-likely-bullying-fear.md) — related

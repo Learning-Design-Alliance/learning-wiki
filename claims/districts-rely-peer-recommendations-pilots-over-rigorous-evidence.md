@@ -51,3 +51,4 @@ Survey and interview data on district information sources show reliance on "peer
 - [Trust amongst peers is high while trust of outsiders is low, and vendor relationships in districts follow a long consultative sales cycle](peer-trust-high-outsider-trust-low-edtech.md) — related
 - [Most surveyed ed tech developers report their products are informed by research, but purchasers struggle to evaluate that research](developers-report-research-informed-products.md) — related
 - [Districts engage with edtech products primarily through three scenarios: RFPs, vendor pitches, and peer recommendations](three-edtech-vendor-engagement-scenarios.md) — related
+- [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related

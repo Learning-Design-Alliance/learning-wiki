@@ -60,8 +60,10 @@ Vocabulary knowledge is one of the strongest predictors of academic reading comp
 5. **Assess formatively** — quick checks (rating familiarity, using the word in a sentence) to decide which words need re-teaching before high-stakes project milestones
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting new terms to known concepts anchors word meanings in existing schemas
 - [Accessible Syntax](accessible_syntax.md) — vocabulary and sentence structure together determine text accessibility; teaching words alone is insufficient when academic syntax blocks comprehension
+- [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
 
 ## Examples
 - **EL Education (Expeditionary Learning) curriculum** ([https://eleducation.org](https://eleducation.org)) — PBL modules specify tier two and tier three vocabulary per unit, with word walls, morphological mini-lessons, and speaking protocols that require academic terms during crew discussions and final presentations

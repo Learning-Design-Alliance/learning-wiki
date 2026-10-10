@@ -47,3 +47,4 @@ The paper's power analysis across school, classroom, and student random-assignme
 - [Clustering effects vary by design but are typically large in education random-assignment evaluations](clustering-effects-typically-large-education-designs.md) — related
 - [Large school samples are required to achieve appropriate precision standards in clustered education experiments](large-school-samples-required-precision-standards.md) — related
 - [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](power-limited-to-large-site-subgroups.md) — a narrower finding that bears on this claim
+- [The evaluation has not yet rigorously examined whether the magnet schools reduce, eliminate, or prevent minority group isolation; this is deferred to the final report](minority-group-isolation-outcome-deferred.md) — related

@@ -67,3 +67,4 @@ Principal survey item on the place of Annenberg among school programs. "Approxim
 - [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — related
 - [Most principals in implementation networks reported moderate reductions in school-community isolation as a result of network participation](networks-reduce-school-community-isolation.md) — related
 - [The 1995 Illinois governance law and test-based accountability measures put Chicago schools, including Annenberg network schools, on notice that survival depended on standardized test score targets](test-based-accountability-pressured-annenberg-network-schools.md) — related
+- [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related

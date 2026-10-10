@@ -59,10 +59,12 @@ Stress is not uniformly harmful — moderate arousal can enhance performance —
 5. Fade instructor leadership: rotate learner-led delivery of the routine so the skill transfers beyond the classroom.
 
 ## Related Strategies
+
 - [Check-Ins](../principles/check-ins.md) — the detection mechanism that makes routines responsive rather than ritual
 - [Physical Activity Breaks](physical-activity-breaks.md) — a movement-based variant with attention benefits
 - [Test Anxiety Reduction](test-anxiety-reduction.md) — the assessment-focused application of these routines
 - [Classroom Climate Routines](classroom-climate-routines.md) — structural routines that reduce ambient stressors
+- [Reduce workloads and chunk instruction into smaller pieces to support diminished capacity and executive functioning](reduce-workload-chunk-instruction-distance-learning.md)
 
 ## Examples
 - **Mindfulness in schools**: Meta-analysis of school-based mindfulness programs (e.g., .b curriculum, [Mindfulness in Schools Project](https://mindfulnessinschools.org)) found small but reliable improvements in well-being and executive function, with stronger effects in secondary students [~M].

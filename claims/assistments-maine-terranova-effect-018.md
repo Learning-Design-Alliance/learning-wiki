@@ -47,3 +47,4 @@ Randomized study in 43 Maine schools where every seventh-grade student had a tak
 - [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — related
 - [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](assistments-long-term-eog-effect-0-10.md) — related
 - [Teacher time imposes no incremental cost for ASSISTments above business-as-usual instruction](assistments-no-incremental-teacher-time-cost.md) — related
+- [ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends](assistments-long-term-math-impact-grade-8.md) — related

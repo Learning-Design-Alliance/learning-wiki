@@ -18,7 +18,7 @@ sources:
 # Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The digest's central recommendation is that practitioners "must strive to guide all our change efforts with a systemic understanding of the context" in which they undertake them. Nevertheless, depending on the circumstance or as implementation progresses, it may be most effective to focus interventions on a particular component of the framework at a time. The sequence of models is explicitly not fixed.
@@ -40,6 +40,7 @@ The digest's central recommendation is that practitioners "must strive to guide 
 ### Claims
 
 - [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](../claims/tool-effectiveness-depends-on-context-configuration.md) [+W] — attached 2026-10-07 from Gilbert (1999), which proposed "Analyze computer use as a whole activity system, explicitly identifying contradictions to guide redesign".
+- [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](../claims/magic-bullet-risk-selection-without-needs-assessment.md) [+W] — attached 2026-10-09 from Hale et al. (2017), which proposed "Start continuous improvement with the problem, not the solution".
 
 ## Related Principles
 - 

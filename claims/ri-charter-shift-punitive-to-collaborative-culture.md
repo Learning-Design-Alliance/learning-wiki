@@ -50,3 +50,4 @@ In the same qualitative interview study of 14 Rhode Island key officials, partic
 - [Educators need a shift in adult mindsets—from evaluative/accountability data use toward improvement-oriented use—for student experience data to improve practice](adult-mindset-shift-student-experience-data.md) — related
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
+- [Technical restorative practices implementation falls short when the adaptive components of values, mindsets, and beliefs have not shifted](adaptive-shift-precedes-technical-restorative-success.md) — related

@@ -54,3 +54,4 @@ The report's key findings state that "evidence is limited on the reliability and
 - [Incorporating measures of student growth into teacher evaluation systems remained an ongoing challenge for early adopter districts](student-growth-measures-ongoing-challenge.md) — related
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
 - [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related
+- [States integrate performance-based assessments as a complement or alternative to traditional multiple-choice tests within a broader assessment strategy](performance-assessments-complement-multiple-choice-tests.md) — related

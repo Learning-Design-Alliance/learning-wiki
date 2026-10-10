@@ -58,3 +58,4 @@ This is a descriptive statement in the fact sheet's introduction about how the p
 - [In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices](developmental-practices-require-clear-priorities-and-leadership.md) — related
 - [Schools commonly require documented teacher performance goals, created collaboratively with a principal or set by the principal](documented-teacher-goals-collaborative-or-principal-set.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Schools implementing MTSS demonstrate the framework's hallmarks, including stronger collaboration, data use, and aligned improvement initiatives](kansas-mtss-strong-implementation-hallmarks.md) — related

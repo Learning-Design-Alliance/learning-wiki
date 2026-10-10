@@ -52,3 +52,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Knowledge alone did not ensure meaningful participation; it became influential when clearly communicated and built into programming](knowledge-communication-participation.md) — related
 - [Evaluator staff capacities centered on creating conditions for participation rather than technical control](staff-capacities-creating-conditions.md) — related
 - [Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick](exclusive-governance-produces-ignored-policies.md) — related
+- [The authors assert that Systems Review participation builds SEA teams' capacity for shared purpose, decision-making, and adaptive change management](systems-review-builds-capacity-outcomes.md) — related

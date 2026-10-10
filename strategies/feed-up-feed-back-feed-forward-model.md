@@ -56,10 +56,12 @@ Feedback is among the most powerful influences on learning, but its effects are 
 4. **Reflect:** Have learners self-assess against the criteria and articulate their own "where to next" ([Individual Reflection](../elements/individual-reflection.md)), building toward self-regulated feedback loops.
 
 ## Related Strategies
+
 - [Formative Assessment](formative-assessment.md) — the broader cycle of which this model is the feedback component
 - [Assessment for Learning](../principles/assessment-for-learning.md) — the classroom practice tradition this model operationalizes
 - [Action-Oriented Feedback](action-oriented-feedback.md) — feedback phrased as actionable next steps, the Feed Forward move
 - [Self-Assessment](../elements/self-assessment.md) — learners running the three questions independently
+- [Establish site-based professional learning structured around the three inquiry questions](teacher-inquiry-where-going-now-next.md)
 
 ## Examples
 - **Writing conferences:** A teacher uses the model in a one-on-one conference — the student restates the learning intention (Feed Up), examines their draft against the success criteria (Feed Back), and selects a revision focus for the next draft (Feed Forward).

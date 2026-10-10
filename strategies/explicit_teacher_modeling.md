@@ -62,8 +62,10 @@ Explicit modeling gives novices a complete expert performance to study, reducing
 6. **Fade support.** Shift to independent practice as accuracy stabilizes ([Fading](../elements/fading.md)).
 
 ## Related Strategies
+
 - [Think-Aloud Modeling](think-aloud-modeling.md) — the narration technique at the core of explicit modeling
 - [Gradual Release of Responsibility](gradual-release-of-responsibility.md) — the "I do, we do, you do" sequencing that fades modeling into independence
+- [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the observable-performance component

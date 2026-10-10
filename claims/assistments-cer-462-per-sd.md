@@ -47,3 +47,4 @@ Cost-effectiveness analysis computed from the ingredients-method cost estimate a
 - [ASSISTments use in seventh grade produces a statistically significant long-term math achievement effect of 0.10 SD one year after implementation ends](assistments-long-term-eog-effect-0-10.md) — related
 - [Implementing ASSISTments above business-as-usual cost about $207,794 across the study, or about $46.23 per student](assistments-incremental-cost-46-per-student.md) — related
 - [Per-participant implementation costs fall substantially in leaner implementation models without a warm-up year or local coach](assistments-sensitivity-lower-cost-scenarios.md) — related
+- [NBA Math Hoops can be implemented at low marginal cost: $17.85 per pupil (analytic sample) in materials and training beyond typical summer programming, yielding 0.19 SD math gain](nba-math-hoops-cost-effective-summer-program.md) — related

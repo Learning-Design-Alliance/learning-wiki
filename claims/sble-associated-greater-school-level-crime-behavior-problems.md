@@ -48,3 +48,5 @@ Robust variance estimation meta-analysis of 520 school-level effect sizes from 2
 - [Review findings are consistent across study design features; no moderator showed meaningful relationships](sble-findings-consistent-across-design-features.md) — related
 - [SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes](sble-no-beneficial-learning-effects.md) — related
 - [The SBLE evidence base contains no randomized experiments and carries high risk of bias](sble-evidence-base-no-randomized-studies-high-risk-bias.md) — related
+- [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — reports the opposite
+- [School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school](school-based-law-enforcement-no-significant-change-perceptions-of-safety.md) — related

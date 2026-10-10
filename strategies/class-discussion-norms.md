@@ -60,9 +60,11 @@ Discussion produces learning only when students actually reason with one another
 6. Revisit and revise norms periodically; treat them as living agreements, not a poster
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the individual skill that underpins community-facing norms like building on others' ideas
 - [Cold Calling](cold-call.md) — a facilitation technique whose fairness depends on norms protecting respondents from ridicule
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a structured rehearsal format that lets students practice norms before whole-class discussion
+- [Use mindful listening turn-taking to build communication and constructive feedback between students](mindful-listening-turn-taking-strategy.md)
 
 ## Examples
 - **Accountable Talk sourcebook** (Institute for Learning, University of Pittsburgh) — provides norm sets, talk moves, and planning tools used across district-wide implementations: [https://ifl.pitt.edu](https://ifl.pitt.edu)

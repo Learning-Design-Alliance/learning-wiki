@@ -67,6 +67,7 @@ Monitoring works because it converts vague intentions into concrete feedback loo
 - [Use data dashboards and alerts so teachers monitor progress and intervene when students struggle](dashboard-monitoring-teacher-intervention.md)
 - [Iteratively update a design research plan with findings and resulting design adjustments](update-design-research-plan-with-findings-and-adjustments.md)
 - [Evaluate & Reflect then Sustain & Scale: analyze pilot data against targeted goals and share results with critical partners to plan expanded use](evaluate-pilot-data-and-share-results-to-scale-edtech.md)
+- [Board data dashboards for governance-level progress monitoring](board-data-dashboards-progress-monitoring.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — a lightweight recurring monitoring ritual

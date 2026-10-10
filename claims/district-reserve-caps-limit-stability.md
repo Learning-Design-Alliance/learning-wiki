@@ -45,3 +45,5 @@ Descriptive policy description in the brief citing state sources: "California la
 ## Related Claims
 - [Thirty-two states and DC guarantee base per-pupil funding, and state legislation can add year-to-year funding guarantees such as California's Proposition 98](guaranteed-funding-floors-32-states.md) — related
 - [Rainy day funds buffer education budgets during downturns, and the median state rainy day fund balance is projected to reach 14.4 percent of general fund expenditures by the end of fiscal year 2025](rainy-day-fund-median-14-4-percent-2025.md) — related
+- [Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions](pit-reliance-makes-education-funding-volatile.md) — related
+- [As of fiscal year 2017, 22 states still provided less per-pupil K–12 education funding than in 2008–09](22-states-less-per-pupil-funding-than-2008-09.md) — related

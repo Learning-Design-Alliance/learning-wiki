@@ -46,3 +46,4 @@ School-level randomized replication in 63 diverse schools; nearly 6,000 students
 - [ASSISTments use for 7th-grade math homework significantly raises TerraNova mathematics scores in Maine (effect size +0.18)](assistments-maine-terranova-effect-018.md) — related
 - [Across two randomized studies, ASSISTments averages a mean effect size of +0.13, meeting Strong evidence standards](assistments-mean-effect-013-strong-badge.md) — a broader claim this one bears on
 - [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — related
+- [ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends](assistments-long-term-math-impact-grade-8.md) — related

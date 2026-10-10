@@ -42,6 +42,7 @@ The program's professional development uses a Train-the-Trainer methodology: "Ta
 
 - [One-day teacher workshop plus optional training-of-trainers for implementing CSC](csc-teacher-workshop-and-training-of-trainers.md)
 - [Train paraprofessionals to deliver Sound Partners lessons using a local trainer plus manual and video-based professional development](sound-partners-paraprofessional-training-strategy.md)
+- [Start PD with ready and willing teachers and scale up over time, using train-the-trainers models](start-pd-with-ready-and-willing-scale-up.md)
 
 ## Examples
 -

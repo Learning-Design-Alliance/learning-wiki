@@ -66,3 +66,4 @@ Provider comparison covering "47 firms across 55 items" found smaller firms see 
 - [Company size did not relate strongly or consistently to provider perceptions of procurement](company-size-not-related-provider-perceptions.md) — reports the opposite
 - [Procurement perceived as smoother and more inclusive in smaller districts than larger districts](smaller-districts-smoother-procurement.md) — related
 - [Discovery of ed-tech products is a serious challenge for both districts and providers](discovery-serious-challenge-districts-providers.md) — related
+- [Smaller rural districts tend to outperform larger ones, but large geographic spread limits their capacity to manage turnaround efforts](small-rural-districts-outperform-larger-but-distance-limits-turnaround-capacity.md) — related

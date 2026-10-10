@@ -40,6 +40,7 @@ Based on 26 years of service data showing rising registrations for affective dis
 ## Related Strategies
 
 - [Strengthen vocational mental health education through literacy, ecosystem, teacher development, and crisis networks](four-pillar-vocational-mental-health-education-strategy.md)
+- [Provide universal well-baby screening and home-visit services regardless of income, following Victoria, Australia's model](universal-well-baby-home-visits-victoria-model.md)
 
 ## Examples
 -

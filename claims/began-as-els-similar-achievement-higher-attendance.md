@@ -71,3 +71,4 @@ Descriptive attendance comparison across the same three cohorts. The report note
 - [The study operationalized high achievement as scoring at or above the 90th percentile on the NWEA assessment](high-achievement-defined-as-90th-percentile-or-above.md) — related
 - [English Learner classification in kindergarten negatively impacts teachers' perceptions of students' academic abilities, with a reduced negative effect in bilingual classroom settings](el-classification-negative-teacher-perceptions.md) — related
 - [In Virginia, Hispanic/Latino children labeled English Learners with low kindergarten literacy were 20 percent less likely to achieve grade-3 reading proficiency than similar peers](el-labeling-virginia-reading-proficiency-gap.md) — related
+- [AI/AN students perform lower than other student subpopulations on common academic measures, per statistics the report cites from the Education Trust](aian-student-achievement-gaps-reported.md) — related

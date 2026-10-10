@@ -59,10 +59,12 @@ Scaffolding works because it keeps tasks within the learner's zone of proximal d
 6. Assess independent performance and re-scaffold only where breakdowns occur ([Assess performance](../elements/assess-performance.md)).
 
 ## Related Strategies
+
 - [Gradual Release of Responsibility](gradual-release-of-responsibility.md) — the "I do, we do, you do" operationalization of scaffolded fading
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — scaffolded dialogue that transfers comprehension strategies to learners
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — the modeling–coaching–fading cycle in which scaffolding is embedded
 - [Direct Instruction](direct-instruction.md) — shares explicit support features but typically fades on a fixed schedule rather than contingently
+- [Gradual-release coaching model (I do, we do, you do) for building turnaround capacity](gradual-release-turnaround-coaching-model.md)
 
 ## Examples
 - **Reciprocal Teaching (Palincsar & Brown)** — teachers scaffold reading-comprehension strategies through dialogue, then transfer the teacher role to student groups as independence grows.

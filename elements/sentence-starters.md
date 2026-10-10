@@ -74,6 +74,7 @@ Sentence starters lower the barrier to productive academic language, particularl
 
 **Claim-Evidence-Reasoning (CER) frames in science classrooms** — Widely used starters ("The data show that…", "This pattern occurred because…") that structure scientific explanation; see the [Krajcik CER framework materials](https://www.learnwithkrajcik.com).
 - [Scaffold scientific explanations with a claim, evidence, reasoning writing template](../strategies/claim-evidence-reasoning-writing-template.md)
+- [Support English learners with sentence frames, graphic organizers, and word walls—but supplement frames with level-appropriate strategies because frames can limit the range of student responses](../strategies/sentence-frames-organizers-word-walls-with-limits.md)
 
 ## Key Sources
 - Hochman, J. C., & Wexler, N. (2017). *The Writing Revolution: A Guide to Advancing Thinking Through Writing in All Subjects and Grades*. Jossey-Bass.

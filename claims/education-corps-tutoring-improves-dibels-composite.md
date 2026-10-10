@@ -65,3 +65,4 @@ A randomized study across 9 schools in a single large North Carolina district du
 - [Schools using only teachers, administrators, or paraprofessionals as tutors were more likely to serve students with higher baseline DIBELS scores](ontrack-tutor-qualifications-baseline-selection.md) — related
 - [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related
 - [High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students](high-dosage-tutoring-tied-to-classroom-content-accelerates-learning.md) — a broader claim this one bears on
+- [NBA Math Hoops significantly improves elementary and middle school students' math achievement compared to business-as-usual summer STEM programming (0.19 SD gain)](nba-math-hoops-improves-summer-math-achievement.md) — related

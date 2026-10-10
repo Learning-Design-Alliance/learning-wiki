@@ -79,8 +79,10 @@ Vocabulary knowledge is one of the strongest predictors of reading comprehension
 6. Provide tiered supports: cognates, visuals, and L1 glosses for ELLs; extension into etymology and morphological analysis for advanced learners.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — vocabulary instruction works best when new words are anchored to what learners already know
 - [Accessible Syntax](../strategies/accessible_syntax.md) — academic language difficulty comes from syntax as well as word choice; the two supports are complementary
+- [Front-load Tier 1 vocabulary before the science lesson and teach embedded scientific vocabulary in the lesson's context](frontload-tier1-teach-embedded-vocabulary-in-context.md)
 
 ## Examples
 - **Beck, McKeown, & Kucan's robust vocabulary instruction** (*Bringing Words to Life*, Guilford Press) — Tier 2 words taught through friendly definitions, multiple contexts, and interactive questioning such as "Would you be *reluctant* to eat a sandwich you loved?"

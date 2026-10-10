@@ -49,6 +49,7 @@ The toolkit states that core curricula choices "greatly impact student learning 
 ## Examples
 
 - [Certified Executive Coaches provide side-by-side professional development and improvement science support for ARC Core implementation](../strategies/arc-core-executive-coaching-pd-strategy.md)
+- [Provide professional development on the pedagogy and content of ethnic studies before implementing new ethnic studies standards](../strategies/pd-before-ethnic-studies-standards-implementation.md)
 
 ## Key Sources
 - Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org

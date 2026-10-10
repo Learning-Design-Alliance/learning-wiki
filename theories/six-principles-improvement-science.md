@@ -49,6 +49,7 @@ The paper enumerates six principles: "Problem-focused and user-centered", "Addre
 - [Five recommendations for integrating Improvement Science with SEERNet](../strategies/five-recommendations-seernet-improvement-integration.md)
 - [Complement experimental scale-up research with design and improvement methods such as RPPs, DBIR, and Networked Improvement Communities](../strategies/complementary-design-improvement-methods-scaling.md)
 - [Six-stage cycle of inquiry connecting indicators to supports](../strategies/cris-cycle-of-inquiry-six-stages.md)
+- [Ground annual improvement cycles in explicit theories of improvement and shared common achievement data rather than in vision-statement refinement alone](../strategies/theories-of-improvement-plus-common-data-strategy.md)
 
 ## Key Sources
 - Manai, J., & Roschelle, J. (2024, November). Connecting SEERNet and Improvement Science to Pursue Better Outcomes in Schools. Digital Promise. https://doi.org/10.51388/20.500.12265/234

@@ -45,3 +45,4 @@ The report's summary of its comparison study states that the prior performance e
 ## Related Claims
 - [A machine learning algorithm with 10-percent risk-score cutoffs better targets students most likely to experience academic problems and has the advantage in predicting suspensions](algorithm-ten-percent-cutoffs-targets-highest-risk.md) — related
 - [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](ews-and-algorithm-less-accurate-black-students.md) — related
+- [Students who have experienced three or more ACEs are more likely to experience chronic absenteeism, behavioral problems, and academic failure](three-or-more-aces-absenteeism-behavior-failure.md) — related

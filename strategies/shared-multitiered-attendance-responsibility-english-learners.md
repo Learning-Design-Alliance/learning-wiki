@@ -41,6 +41,7 @@ The brief recommends that a collective commitment to English learners' attendanc
 - [Partner with community-based organizations to deliver critical services, since districts and schools alone cannot reduce chronic absenteeism](community-partners-critical-services-english-learner-attendance.md)
 - [Implement a tiered, prevention-first approach to reducing chronic absence that invests in positive conditions for learning](tiered-prevention-first-attendance-approach.md)
 - [Create positive, culturally inclusive, welcoming schools using strengths-based practices such as newcomer welcome centers, attendance cafés, and home-language-as-asset approaches](welcoming-culturally-inclusive-schools-english-learners.md)
+- [Administrators sustain high-quality Tier 1 Core Instruction by creating conditions, structural supports, and a sitewide culture valuing dual-language learning](administrator-supports-tier1-core-instruction.md)
 
 ## Examples
 -

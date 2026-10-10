@@ -46,3 +46,4 @@ Randomized controlled trial outcome from administrative records in four Texas co
 - [In a propensity-score-matched QED, DCMP students passed college-level math at much higher rates than a two-to-three-semester sequence comparison](dcmp-qed-schudde-keisler-college-math.md) — related
 - [Broda et al. (2018) found indeterminate effects on GPA, full-time enrollment, and credits completed in a large randomized trial](broda-2018-indeterminate-effects-large-trial.md) — related
 - [Carnegie Math Pathways students earned college-level math credits at three to four times the rate of peers in traditional sequences and graduated at double the rate](carnegie-math-pathways-outcomes-claim.md) — reports the opposite
+- [Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students](lied-magnet-stem-credit-impacts.md) — related

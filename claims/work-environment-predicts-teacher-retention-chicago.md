@@ -54,3 +54,4 @@ The Chicago teacher mobility study (The Schools Teachers Leave) found work envir
 - [In schools characterized by high relational trust, educators were more likely to experiment with new practices and work together with parents to advance improvements](high-relational-trust-educators-experiment-and-partner-with-parents.md) — related
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related
 - [The Cultivate Survey's impact question indicates whether students experience authentic voice and influence in school improvement](cultivate-impact-question-authentic-voice.md) — related
+- [Academy graduates report feeling more empowered and staying on the job longer](academy-graduates-empowered-retention.md) — a narrower finding that bears on this claim

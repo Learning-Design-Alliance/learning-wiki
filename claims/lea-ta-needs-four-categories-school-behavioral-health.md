@@ -47,3 +47,4 @@ Analysis of LEAs' SBHIP needs assessments and project plans plus interviews with
 - [SBHIP needs assessments show LEAs' critical needs fall mainly into workforce needs and structural needs, with workforce needs described much more frequently](sbhip-needs-workforce-over-structural.md) — related
 - [LEAs most frequently used short-term behavioral health funds to expand internal staffing and direct services rather than partnerships and structural investments](short-term-funds-favor-internal-staffing.md) — related
 - [Existing school-based behavioral health TA in California is siloed, and equitable access depends on local leaders' individual knowledge and networks](siloed-behavioral-health-ta-unequal-access.md) — related
+- [KSDE established a statewide infrastructure — Core Team, facilitators, symposium, and website — that respondents rate as effectively supporting MTSS](kansas-mtss-state-infrastructure-support.md) — related

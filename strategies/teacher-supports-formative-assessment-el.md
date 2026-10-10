@@ -45,6 +45,7 @@ The brief lists supports teachers benefit from: professional development in form
 - [Culturally Responsive Teaching](culturally-responsive-teaching.md)
 - [Teachers enact agency-building instruction through five moves: valuing strengths, fostering autonomy, encouraging initiative, reinforcing growth mindset, and modeling metacognition](five-teacher-moves-build-el-agency.md)
 - [Create positive, culturally inclusive, welcoming schools using strengths-based practices such as newcomer welcome centers, attendance cafés, and home-language-as-asset approaches](welcoming-culturally-inclusive-schools-english-learners.md)
+- [Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce](grow-own-teacher-pipeline-newcomer-schools.md)
 
 ## Examples
 -

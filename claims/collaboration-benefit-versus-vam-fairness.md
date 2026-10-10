@@ -64,3 +64,4 @@ Stakeholder-perception finding from the same eight-district implementation study
 ## Related Claims
 - [Alternative student growth measures, especially student learning objectives, were used for many purposes beyond teacher evaluation](slos-used-for-purposes-beyond-evaluation.md) — related
 - [Evidence on reliability and validity of alternative student growth measures, especially student learning objectives, is limited](limited-reliability-validity-evidence-alternative-growth-measures.md) — related
+- [In every district, more educators agree than disagree that they share a common language for the SLO process](common-language-slo-process.md) — related

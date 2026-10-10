@@ -49,3 +49,4 @@ In the matched-observation data from the year-one pilot, principals had no troub
 - [Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers](principal-rater-severity-variation.md) — related
 - [Differences between principal and observer ratings at the high end of the scale were explained largely by teachers' previous evaluation ratings](prior-ratings-explain-observer-differences.md) — related
 - [Across 78 observed classrooms, 46% of teacher ratings were at the unsatisfactory or basic level, with AMPS teachers earning generally higher ratings than IDS and Renaissance 2010 teachers](observation-ratings-46-percent-basic-unsatisfactory.md) — related
+- [Actual classroom observation practice often differs from best practice, with principal-teacher perception gaps on measures and observer qualifications](observation-practice-gaps-principal-teacher.md) — related

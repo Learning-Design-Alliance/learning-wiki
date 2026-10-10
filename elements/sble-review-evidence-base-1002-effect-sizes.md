@@ -49,7 +49,8 @@ The review's synthesized corpus comprises "a final sample of 1002 effect sizes f
 - 
 
 ## Examples
--
+
+- [Strengthen the evidence base on school-based law enforcement through rigorous experimental studies, including random assignment designs](../strategies/rigorous-experimental-studies-of-school-based-law-enforcement.md)
 
 ## Key Sources
 - Fisher, B. W., Petrosino, A., Persson, H., Guckenburg, S., Fronius, T., Benitez, I., & Earl, K. (2023). School‐based law enforcement strategies to reduce crime, increase perceptions of safety, and improve learning outcomes in primary and secondary schools: A systematic review. Campbell Systematic Reviews, 19, e1360. https://doi.org/10.1002/cl2.1360

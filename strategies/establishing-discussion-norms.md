@@ -63,6 +63,7 @@ Discussion quality depends on psychological safety and clear participation struc
 - [Establishing Group Roles](establish-group-roles.md) — role assignment as a structural enforcement of norms
 - [Classroom Community Building](classroom-community-building.md) — the broader relational work norms contribute to
 - [Make success criteria visible to students through explicit explanations, think-alouds, and co-construction](explicit-explanations-think-alouds-co-create-success-criteria.md)
+- [Use mindful listening turn-taking to build communication and constructive feedback between students](mindful-listening-turn-taking-strategy.md)
 
 ## Examples
 - **Accountable Talk** (Institute for Learning, University of Pittsburgh) — a researched framework of talk norms organized around accountability to the learning community, knowledge, and reasoning standards (https://ifl.pitt.edu)

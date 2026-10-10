@@ -74,10 +74,12 @@ Pre-teaching removes a common bottleneck in comprehension: when too many words a
 5. **Reinforce in context**: direct attention to the words during the reading or task, and schedule [Spaced Retrieval](spaced-retrieval.md) or later review encounters so meanings consolidate.
 
 ## Related Strategies
+
 - [Pre-questioning](pre-questioning.md) — a parallel pre-reading activation strategy focused on ideas rather than words
 - [Frayer Model](frayer-model.md) — a graphic organizer often used for the active-processing step
 - [Morphological Analysis](morphological-analysis.md) — extends pre-teaching coverage by teaching recurring word parts
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — pre-teaching is vocabulary-specific activation; both prepare the schema the text will require
+- [Concrete actions for mathematics educators: focus on ideas over words, engage students in defining early, connect multiple representations, extend to formal definitions, and nurture the genre of definition](educator-actions-for-defining-with-english-learners.md)
 
 ## Examples
 - **Text Talk (Beck & McKeown)** — kindergarten and primary teachers pre-teach Tier Two words from a read-aloud with rich definitional explanations and child-generated examples, then revisit the words across the week.

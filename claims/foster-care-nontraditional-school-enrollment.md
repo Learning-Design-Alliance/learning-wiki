@@ -48,3 +48,4 @@ Observational analysis of enrollment in nontraditional schools (alternative, juv
 - [Arizona students in foster care were less likely than all students statewide to attend the state's highest-performing schools](foster-care-low-performing-schools-arizona.md) — related
 - [Arizona students in foster care had the lowest statewide testing participation rate, declining sharply in later grades](foster-care-lowest-test-participation.md) — related
 - [Students in foster care were consistently more likely than other high-need groups to attend a low-performing school](foster-care-low-performing-school-attendance.md) — related
+- [Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate](foster-care-participation-dropout-graduation.md) — related

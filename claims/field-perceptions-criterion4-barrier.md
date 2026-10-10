@@ -46,3 +46,4 @@ Two virtual listening sessions in winter 2023-24 convened by the CDE for county,
 - [As of 2023-24, California was the only state using four criteria for exiting EL classification](california-only-state-four-exit-criteria.md) — related
 - [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](criterion4-barrier-reclassification.md) — possibly the same claim (merge candidate)
 - [Removing Criterion 4 would likely increase reclassification rates for ready students, particularly those with disabilities or from lower socioeconomic backgrounds, without harming academic performance](removing-criterion4-increases-reclassification.md) — related
+- [There is a conceptual disconnect between meeting the Title III English proficient standard and exiting EL status under Title I](title-iii-title-i-exit-disconnect.md) — related

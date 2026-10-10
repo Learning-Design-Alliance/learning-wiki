@@ -23,7 +23,7 @@ sources:
 # Teacher professional development should include ongoing activities like study teams and peer coaching rather than only occasional large-group sessions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 5 claims (5 for) · 5 studies (2 qualitative, 1 causal, 1 review, 1 associational), `q2` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 5 studies (2 qualitative, 1 causal, 1 review, 1 associational), `q2` · 1 of 5 report an effect size · 6 claims rest on one study
 
 ## Description
 Drawing on Licklider's 1997 review of adult learning theory, the digest argues that self-directness, including self-learning from experience in natural settings, is an important component of adult learning. It concludes that "effective teacher professional development should involve more than occasional large-group sessions" and should include study teams and peer coaching in which teachers continuously examine their assumptions and practices.
@@ -55,6 +55,7 @@ Drawing on Licklider's 1997 review of adult learning theory, the digest argues t
 - [Daily teaching demands competed with and distracted from a sustained developmental focus on instructional improvement](../claims/daily-demands-compete-with-developmental-focus.md) [+M] — attached 2026-10-08 from Stevens et al. (2006), which proposed "Support teacher professional communities by making instructional discussion a regular, formally led part of meetings".
 - [Students of e2L-coached teachers outperformed students in comparison schools on end-of-year STAAR math in a propensity-score-matched study](../claims/e2l-coaching-staar-math-outperformed.md) [+W] — attached 2026-10-09 from engage2learn (e2L): Evidence Rating (2022), which proposed "Partner districts with coaching providers that customize job-embedded professional learning to district priorities and align educator growth with learner outcomes"; tests this page's relationship.
 - [Time spent between teachers and coaches is one of the most important factors in a successful coaching program](../claims/coach-teacher-time-key-success-factor.md) [+W] — attached 2026-10-09 from Hardy et al. (2021), which proposed "Protect coaches', principals', and teachers' time for coaching from unrelated duties and oversized caseloads".
+- [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](../claims/coaching-culture-increases-teacher-participation.md) [+W] — attached 2026-10-09 from Hardy et al. (2021), which proposed "Foster a non-evaluative culture of coaching in which coaching is framed as continuous improvement, not evaluation".
 
 ## Related Principles
 

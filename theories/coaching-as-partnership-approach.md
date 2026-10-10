@@ -52,6 +52,7 @@ The report adopts a partnership framing of instructional coaching, attributed to
 - [Hold a kick-off event aligning coaching with school and district goals, and leverage early volunteers' testimonials to build teacher buy-in](../strategies/kickoff-and-testimonials-build-coaching-buy-in.md)
 - [Protect coaches' time so the majority is spent directly with teachers](../strategies/protect-coach-time-for-classroom-support.md)
 - [Instructional Coaching](../strategies/instructional-coaching.md)
+- [Clearly define the role of the coach and support principals in working with math coaches](../strategies/clearly-define-coach-role-with-principals.md)
 
 ## Key Sources
 - Bakhshaei, M. & Hardy, A. (2021). How school administrators can serve as productive partners in teacher coaching programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/a08ba4d8-72c1-4d8e-902c-c529eed160ac
