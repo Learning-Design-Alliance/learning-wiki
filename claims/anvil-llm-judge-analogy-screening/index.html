@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="an-llm-based-analogy-judge-validated-against-expert-judgments-shows-moderate-to-strong-agreement-and-screens-most-generated-analogies-as-meeting-baseline-adequacy">An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy<a class="headerlink" href="#an-llm-based-analogy-judge-validated-against-expert-judgments-shows-moderate-to-strong-agreement-and-screens-most-generated-analogies-as-meeting-baseline-adequacy" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Against expert judgments with controlled negative examples, the gpt-5.2-based judge reached alpha = 0.66 for TCC and 0.67 for MS on the 4-point scale, and perfect agreement for TCC (alpha = 1.00) and strong for MS (alpha = 0.81) on collapsed labels. <a href="#noviello-2026">→ Noviello 2026</a>
+<code>q2 i?</code> Applied to n=50 concept-analogy pairs, 88% of analogies met the TCC threshold and 92% met the MS threshold, with mean scores of 3.52±0.50 (TCC) and 3.55±0.47 (MS). <a href="#noviello-2026-2">→ Noviello 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="noviello-2026">Noviello 2026<a class="headerlink" href="#noviello-2026" title="Permanent link">&para;</a></h3>
+<p>Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Validation of an LLM-based judge (three independent gpt-5.2 runs averaged) against expert medians on the expert-rated dataset plus three controlled negative examples constructed following prior work on plausible but incorrect analogies.</p>
+<blockquote>
+<p>"On the 4-point ordinal scale,agreementbetween the LLM-based evaluator and experts was moderate (α= 0.66for TCC,α= 0.67for MS). On the collapsed labels (1–2 vs. 3–4), agreement was perfect for TCC (α= 1.00) and strong for MS (α= 0.81)."</p>
+</blockquote>
+<h3 id="noviello-2026-2">Noviello 2026 (2)<a class="headerlink" href="#noviello-2026-2" title="Permanent link">&para;</a></h3>
+<p>Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Scale application of the judge to the n=50 concept-analogy pairs generated for the robustness analysis, estimating how many system outputs would meet a baseline standard for educator use.</p>
+<blockquote>
+<p>"The results show that the majority of analogies met the threshold under the collapsed two-level label (TCC:88%, MS:92%). Mean scores were concentrated toward the upper end of the scale, with TCC at3.52±0.50and MS at3.55±0.47."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../anvil-educator-ratings-analogy-animation-quality/">CS/SE educators rate ANVIL analogies highly and animations as generally faithful, with disagreement concentrated in borderline and visual-clarity judgments</a> — related</li>
+<li><a href="../llm-as-judge-human-level-agreement-with-validation/">LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated</a> — a broader claim this one bears on</li>
+<li><a href="../human-llm-agreement-low-construct-varying/">Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none</a> — related</li>
+<li><a href="../human-llm-agreement-gap-jaccard/">Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>anvil-llm-judge-analogy-screening</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>noviello-2026</code>, <code>noviello-2026-2</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="early-semester-lms-interaction-data-predicts-ai-assisted-cheating-risk-in-the-final-exam-with-logistic-regression-achieving-auc-0763-under-loocv">Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV<a class="headerlink" href="#early-semester-lms-interaction-data-predicts-ai-assisted-cheating-risk-in-the-final-exam-with-logistic-regression-achieving-auc-0763-under-loocv" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · associational <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> LMS behaviors from the first eight weeks of the semester meaningfully predict students' risk of AI-assisted cheating in the final exam, with Logistic Regression achieving the best performance (Accuracy = 73.1%). <a href="#akcapnar-2026">→ Akçapınar 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="akcapnar-2026">Akçapınar 2026<a class="headerlink" href="#akcapnar-2026" title="Permanent link">&para;</a></h3>
+<p>Akçapınar, G. (2026). Early Prediction of AI-Assisted Cheating Risk in Online Exams Through Learning Analytics. https://scholar.google.com/scholar?q=Early+Prediction+of+AI-Assisted+Cheating+Risk+in+Online+Exams+Through+Learning+Analytics</p>
+<p><code>q2 · i?</code> · <code>associational · r2</code></p>
+<p>LOOCV evaluation (52 folds, fold-specific preprocessing and Mann-Whitney U feature selection) of four classifiers on 27 candidate LMS features from 52 first-year undergraduates. "Logistic Regression achieved the highest AUC and Balanced Accuracy (0.763 and 0.718, respectively)"; raw Accuracy was 0.731 versus a majority-class baseline of 0.558.</p>
+<blockquote>
+<p>"Logistic Regression achieved the highest AUC and Balanced Accuracy (0.763 and 0.718, respectively). Naive Bayes produced a similar AUC of 0.760, whereas Random Forest and Gradient Boosting performed less well."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../cheating-risk-threshold-sensitivity-tradeoff/">Classification threshold trades sensitivity against specificity: 0.30 yields 91.3% sensitivity, 0.60 yields 89.7% specificity</a> — related</li>
+<li><a href="../high-risk-students-high-final-scores/">High-risk students disproportionately scored 80 or above on the final exam (13 of 23), while no low-risk student did</a> — related</li>
+<li><a href="../simple-classifiers-beat-tree-based-cheating-risk/">Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset</a> — a narrower finding that bears on this claim</li>
+<li><a href="../stable-lms-features-lower-in-high-risk-group/">Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60)</a> — a narrower finding that bears on this claim</li>
+<li><a href="../bimodal-suspicious-behavior-labeling-44-percent-high-risk/">A 20% suspicious-question labeling threshold partitions 52 students into 23 high-risk (44.2%) and 29 low-risk, robustly across nearby cut-offs</a> — related</li>
+<li><a href="../cross-semester-at-risk-prediction-high-accuracy/">Predictive models trained on one semester's offering of a course identified at-risk students in the subsequent semester with high prediction accuracy</a> — related</li>
+<li><a href="../cross-semester-auc-decline-without-retraining/">Random-forest models trained on a prior semester showed significantly lower AUC when tested on a new semester's data without retraining</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>lms-traces-predict-ai-assisted-cheating-risk</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>akçapınar-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>

@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Under identical LoRA hyperparameters and training data, the 27B Gemma model outperforms the 70B LLaMA model on every computed essay-scoring metric - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lazuli-favicon.svg">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lazuli-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-header input{font:inherit;padding:.1rem .4rem;border-radius:.2rem;border:0}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<header class="lt-header">
+<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a href="../../claims/">Claims</a>
+<form action="../../search/"><input name="q" placeholder="Search" aria-label="Search"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="under-identical-lora-hyperparameters-and-training-data-the-27b-gemma-model-outperforms-the-70b-llama-model-on-every-computed-essay-scoring-metric">Under identical LoRA hyperparameters and training data, the 27B Gemma model outperforms the 70B LLaMA model on every computed essay-scoring metric<a class="headerlink" href="#under-identical-lora-hyperparameters-and-training-data-the-27b-gemma-model-outperforms-the-70b-llama-model-on-every-computed-essay-scoring-metric" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · causal <code>r2</code> · <code>q2</code></p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> With identical training data (120 essays) and identical LoRA hyperparameters, Gemma-3-27B achieves lower RMSE (0.474 vs. 0.512), lower MAE (0.335 vs. 0.379), higher QWK (0.828 vs. 0.777), and higher ±0.5 agreement (90.56% vs. 87.22%) than LLaMA-3.3-70B. <a href="#john-maurice-gayed-2026">→ John Maurice Gayed 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="john-maurice-gayed-2026">John Maurice Gayed 2026<a class="headerlink" href="#john-maurice-gayed-2026" title="Permanent link">&para;</a></h3>
+<p>John Maurice Gayed. (2026). AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models. A PREPRINT. https://arxiv.org/abs/2606.12801</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Head-to-head comparison of the two LoRA-adapted open-weight models on the 360-essay held-out test set, both evaluated under the same Q4_K_M quantisation. The article reports that "the 27B-parameter Gemma model outperforms the 70B-parameter LLaMA model across every metric we computed."</p>
+<blockquote>
+<p>"Under identical training data (120 essays) and identical LoRA hyperparameters, the 27B-parameter Gemma model outperforms the 70B-parameter LLaMA model across every metric we computed: lower RMSE (0.474 vs. 0.512), lower MAE (0.335 vs. 0.379), higher QWK (0.828 vs. 0.777), and higher±0.5 agreement (90.56% vs. 87.22%)."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../gemma-27b-lora-beats-gpt35-essay-scoring/">A LoRA-adapted open-weight Gemma-3-27B model fine-tuned on 120 essays outperforms a fine-tuned GPT-3.5 baseline on TOEFL essay scoring across all reported metrics</a> — related</li>
+<li><a href="../llama-prediction-range-compression/">LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth</a> — related</li>
+<li><a href="../lora-rank-sensitivity-architecture-dependent/">LoRA fine-tuning hyperparameters are not model-agnostic: increasing rank above 64 destroyed LLaMA's feedback generation while Gemma remained robust</a> — related</li>
+<li><a href="../score-wise-bias-regression-to-mean-awe/">Both fine-tuned models show regression toward the mean in score-wise bias, and error rises monotonically above score 3.0, with high scores hardest to predict</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>model-scale-not-predictor-lora-scoring</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Under identical LoRA hyperparameters and training data, the 27B Gemma model outperforms the 70B LLaMA model on every computed essay-scoring metric</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>Under identical LoRA hyperparameters and training data, the 27B Gemma model outperforms the 70B LLaMA model on every computed essay-scoring metric</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>draft</code></td>
+</tr>
+<tr>
+<td><code>evidence_strength</code></td>
+<td><code>moderate</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>john-maurice-gayed-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+</body>
+</html>
